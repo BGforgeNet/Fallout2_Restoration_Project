@@ -361,7 +361,7 @@
 {643}{}{Ich glaube, Francis hatte Recht mit dem, was er über Jakob gesagt hat. Dieser mörderische Bastard wird in
  dieser Stadt keinen Ärger mehr machen.}
 {644}{}{Du hast ein Jagdgewehr mit Zielfernrohr erhalten.}
-{1100}{mcs43alt}{Kein Problem.}
+{1100}{mcs6a}{Gut.}
 {3000}{}{Lass uns aufbrechen.}
 {3100}{}{Dann vergiss es einfach wieder, du Armleuchter.}
 {3200}{}{Dann nicht. Dein Pech.}
