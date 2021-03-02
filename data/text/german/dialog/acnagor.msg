@@ -6,45 +6,45 @@
 {105}{}{Dann gehe ich selbst raus in die Wildnis!}
 {106}{}{Warte doch, wobei brauchst du Hilfe?}
 {107}{}{Tu das.}
-{108}{}{Rauch ist in die Jagdgründe gelaufen und nicht zurückgekommen. Und jetzt lässt Morlis mich
- nicht nach ihm suchen. Sie sagt, es sei zu gefährlich und er wär ja nur ein Hund, aber ich
- wollte trotzdem gehen. Aber jetzt bist du ja da - du könntest für mich gehn, dann bekomm ich
- keinen Ärger.}
-{109}{}{Sicher. Aber wo sind die Jagdgründe?}
+{108}{}{Rauch ist in die JagdgrÃ¼nde gelaufen und nicht zurÃ¼ckgekommen. Und jetzt lÃ¤sst Morlis mich
+ nicht nach ihm suchen. Sie sagt, es sei zu gefÃ¤hrlich und er wÃ¤r ja nur ein Hund, aber ich
+ wollte trotzdem gehen. Aber jetzt bist du ja da - du kÃ¶nntest fÃ¼r mich gehn, dann bekomm ich
+ keinen Ã„rger.}
+{109}{}{Sicher. Aber wo sind die JagdgrÃ¼nde?}
 {110}{}{Na klar. Ich werd mich gleich auf die Suche machen.}
-{111}{}{Vergiss es. Ich hab keine Zeit dafür.}
+{111}{}{Vergiss es. Ich hab keine Zeit dafÃ¼r.}
 {112}{}{Was ist denn mit dir los? Ist dir was auf die Birne gefallen? Sie sind jenseits von
- Hakunins Zelt, nördlich des Dorfes.}
-{113}{}{Ich bin bald mit ihm zurück.}
+ Hakunins Zelt, nÃ¶rdlich des Dorfes.}
+{113}{}{Ich bin bald mit ihm zurÃ¼ck.}
 {114}{}{Hast du Rauch schon gefunden?}
-{115}{}{Nein, noch nicht. Wo sagtest du sind die Jagdgründe?}
+{115}{}{Nein, noch nicht. Wo sagtest du sind die JagdgrÃ¼nde?}
 {116}{}{Nein, noch nicht.}
 {117}{}{Hast du Rauch schon gefunden?}
-{118}{}{Nein, noch nicht. Ich bin aber bald zurück.}
+{118}{}{Nein, noch nicht. Ich bin aber bald zurÃ¼ck.}
 {119}{}{Es tut mir leid, aber er ist tot.}
 {120}{}{Du sagst das nur, weil du nicht suchen willst! Mir ist egal, was Morlis sagt, ich geh ihn
  suchen.}
-{121}{}{Nagor, was ist wenn dir was passiert? Morlis wär dann ganz allein und sehr traurig. Du
+{121}{}{Nagor, was ist wenn dir was passiert? Morlis wÃ¤r dann ganz allein und sehr traurig. Du
  willst sie doch nicht traurig machen, oder?}
 {122}{}{Tu das.}
 {123}{}{Naja,... Nein, das will ich nicht. OK, ich bleib hier, aber das ist nicht fair!}
 {124}{}{Rauch wird's schon schaffen. Mach's gut.}
-{125}{}{Du hast Rauch gefunden! Danke! Rauch, du bist ein böser Hund!}
-{126}{}{Gern geschehn. Tschüss.}
+{125}{}{Du hast Rauch gefunden! Danke! Rauch, du bist ein bÃ¶ser Hund!}
+{126}{}{Gern geschehn. TschÃ¼ss.}
 {127}{}{Noch mal vielen Dank. Ich hoffe, du hast 'ne tolle Reise.}
-{128}{}{Ich vermisse Rauch. Warum konntest du ihn nicht retten? Du bist doch das Auserwählte Wesen.}
-{129}{}{Ich bin beschäftigt, Dummerchen. Geh und spiel irgendwas.}
+{128}{}{Ich vermisse Rauch. Warum konntest du ihn nicht retten? Du bist doch das AuserwÃ¤hlte Wesen.}
+{129}{}{Ich bin beschÃ¤ftigt, Dummerchen. Geh und spiel irgendwas.}
 {130}{}{Ich geh.}
 {131}{}{Ich gehe Rauch suchen.}
-{200}{}{Hallo, Cousin... äh, ich meine Auserwähltes Wesen. Ich hoffe, du hast das GECK gefunden.
- Ich hab viel Gerede über schlechte Zeiten gehört.}
-{201}{}{Hallo, Cousin... äh, ich meine Auserwähltes Wesen. Ich hoffe, du hast das GECK gefunden.
- Ich hab viel Gerede über schlechte Zeiten gehört.}
+{200}{}{Hallo, Cousin... Ã¤h, ich meine AuserwÃ¤hltes Wesen. Ich hoffe, du hast das GECK gefunden.
+ Ich hab viel Gerede Ã¼ber schlechte Zeiten gehÃ¶rt.}
+{201}{}{Hallo, Cousin... Ã¤h, ich meine AuserwÃ¤hltes Wesen. Ich hoffe, du hast das GECK gefunden.
+ Ich hab viel Gerede Ã¼ber schlechte Zeiten gehÃ¶rt.}
 {202}{}{Ich noch such, Nagor.}
 {203}{}{Ich suche noch, Cousin.}
-{204}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige
+{204}{}{Willkommen zu Hause, Cousin. Hier wird's allmÃ¤hlich ungemÃ¼tlich. Hast du die heilige
  Dreizehn und das GECK gefunden?}
-{205}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige
+{205}{}{Willkommen zu Hause, Cousine. Hier wird's allmÃ¤hlich ungemÃ¼tlich. Hast du die heilige
  Dreizehn und das GECK gefunden?}
 {206}{}{Nix finden. Tut leid.}
 {207}{}{Tut mir leid, Nagor. Ich suche immer noch.}
@@ -54,8 +54,8 @@
  das GECK. Wir brauchen es dringend!}
 {210}{}{Hi, Cousin.}
 {211}{}{Hi, Cousin.}
-{212}{}{Du hören anders an als sonst.}
-{213}{}{Du hörst dich anders an als sonst.}
+{212}{}{Du hÃ¶ren anders an als sonst.}
+{213}{}{Du hÃ¶rst dich anders an als sonst.}
 {214}{}{Tut mir leid, Cousin. Die Lage hat sich weiter verschlimmert seitdem du weg bist. Die
  Leute sind krank, die Brahmin sterben und... ich... mein Hund Smoke ist gestorben. Ich vermisse
  ihn sehr. Tschuldigung, aber ich kann nicht mehr reden...}
