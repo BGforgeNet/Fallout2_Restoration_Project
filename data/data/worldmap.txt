@@ -1163,7 +1163,7 @@ enc_23=Chance:5%,Enc:(3-6) ARRO_Hunting_Party
 enc_24=Chance:5%,Enc:(3-5) ARRO_Nomads
 enc_25=Chance:1%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_26=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_27=Chance:80%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
+enc_27=Chance:25%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
 
 [Encounter Table 7]
 lookup_name=Arro_D                                      ; Areas around Arroyo to nearly the ocean
@@ -1203,7 +1203,7 @@ enc_31=Chance:1%,Counter:1,Special,Map:Special Guardian Encounter,Enc:Special1, 
 enc_32=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If(Player(Level) > 9) And If(Global(614) < 1)
 enc_33=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_34=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
-enc_35=Chance:80%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
+enc_35=Chance:25%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
 
 [Encounter Table 8]
 lookup_name=Arro_O                                       ; Areas around Arroyo to nearly the ocean
@@ -1233,7 +1233,7 @@ enc_21=Chance:4%,Enc:(2-4) ARRO_Sm_Scorpions AMBUSH Player
 enc_22=Chance:4%,Enc:(5-8) ARRO_Ants AMBUSH Player
 enc_23=Chance:5%,Enc:(3-6) ARRO_Hunting_Party
 enc_24=Chance:5%,Enc:(3-5) ARRO_Nomads
-enc_25=Chance:80%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
+enc_25=Chance:25%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
 
 [Encounter Table 9]
 lookup_name=Arrok_D                                              ; Arroyo Klamath Trade Route
@@ -1267,7 +1267,7 @@ enc_25=Chance:1%,Counter:1,Special,Map:Special Guardian Encounter,Enc:Special1, 
 enc_26=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If(Player(Level) > 9) And If(Global(614) < 1)
 enc_27=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_28=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
-enc_29=Chance:80%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
+enc_29=Chance:25%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
 
 [Encounter Table 10]
 lookup_name=Arrok_M                                                  ; Arroyo Klamath Trade Route
@@ -1293,7 +1293,7 @@ enc_17=Chance:3%,Enc:(4-6) ARRO_Holy_People FIGHTING (2-4) ARRO_War_Party
 enc_18=Chance:6%,Enc:(2-4) ARRO_Nomads
 enc_19=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_20=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_21=Chance:80%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
+enc_21=Chance:25%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
 
 [Encounter Table 11]
 lookup_name=Kla_D                                                       ; Areas around Klamath
@@ -1374,7 +1374,7 @@ enc_28=Chance:7%,Enc:(2-4) KLA_Farmers
 enc_29=Chance:8%,Enc:(4-7) KLA_Trappers
 enc_30=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_31=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_32=Chance:80%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
+enc_32=Chance:25%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
 
 [Encounter Table 13]
 lookup_name=Klad_D                                                      ; Klamath-Den Trade Route
@@ -1414,7 +1414,7 @@ enc_31=Chance:1%,Counter:1,Special,Map:Special Guardian Encounter,Enc:Special1, 
 enc_32=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If(Player(Level) > 9) And If(Global(614) < 1)
 enc_33=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_34=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
-enc_35=Chance:80%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
+enc_35=Chance:25%,Special,Enc:KAGA1 AMBUSH Player, If(Global(399) < 66) And If(Player(Level) < 5)
 
 [Encounter Table 14]
 lookup_name=DMRV_D                                                      ; Den-Modoc-Vault City-Redding Trade Route
@@ -1568,7 +1568,7 @@ enc_17=Chance:2%,Enc:(3-6) DMRV_Highwaymen FIGHTING (6-12) ARRO_Spore_Plants
 enc_18=Chance:10%,Enc:(4-5) DMRV_Caravan
 enc_19=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_20=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_21=Chance:80%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(Player(Level) > 4) And If(Player(Level) < 9)
+enc_21=Chance:30%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(Player(Level) > 4) And If(Player(Level) < 9)
 
 [Encounter Table 19]
 lookup_name=Mod_M                                                          ; Areas around Modoc
@@ -1600,7 +1600,7 @@ enc_23=Chance:7%,Enc:(3-5) KLA_Farmers
 enc_24=Chance:100%,Counter:1,Special,Map:Bess Dead,Enc:Special1, If(Global(299) > 0)
 enc_25=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_26=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_27=Chance:80%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(Player(Level) > 4) And If(Player(Level) < 9)
+enc_27=Chance:30%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(Player(Level) > 4) And If(Player(Level) < 9)
 
 [Encounter Table 20]
 lookup_name=DVMV_M                                                              ; Den - Vault City - Modoc Trade Route
@@ -1690,7 +1690,7 @@ enc_17=Chance:2%,Enc:(6-10) DMRV_Scorpions FIGHTING (6-8) MOD_Wild_Brahmin
 enc_18=Chance:10%,Enc:(3-6) WILD1_Trader
 enc_19=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_20=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_21=Chance:80%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(Player(Level) > 4) And If(Player(Level) < 9)
+enc_21=Chance:30%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(Player(Level) > 4) And If(Player(Level) < 9)
 
 [Encounter Table 23]
 lookup_name=Wild1_D                                                             ; Wilderness North of Modoc
@@ -1724,7 +1724,7 @@ enc_25=Chance:1%,Counter:1,Special,Map:Special Guardian Encounter,Enc:Special1, 
 enc_26=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If(Player(Level) > 9) And If(Global(614) < 1)
 enc_27=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_28=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
-enc_29=Chance:80%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(Player(Level) > 4) And If(Player(Level) < 9)
+enc_29=Chance:30%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(Player(Level) > 4) And If(Player(Level) < 9)
 
 [Encounter Table 24]
 lookup_name=Wild2_D                                                               ; Wilderness North of Vault City
@@ -2170,7 +2170,7 @@ enc_17=Chance:6%,Enc:(6-10) RDRC_Broken_Hills_Caravan
 enc_18=Chance:6%,Enc:(6-10) RDRC_Gecko_Caravan
 enc_19=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_20=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_21=Chance:80%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(Player(Level) > 8) And If(Player(Level) < 13)
+enc_21=Chance:35%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(Player(Level) > 8) And If(Player(Level) < 13)
 
 [Encounter Table 39]
 lookup_name=RDRC_D                                                              ; Vault City - New Reno - Gecko - Broken Hills Trade Route
@@ -2204,7 +2204,7 @@ enc_25=Chance:1%,Counter:1,Special,Map:Special Guardian Encounter,Enc:Special1, 
 enc_26=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If(Player(Level) > 9) And If(Global(614) < 1)
 enc_27=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_28=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
-enc_29=Chance:80%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(Player(Level) > 8) And If(Player(Level) < 13)
+enc_29=Chance:35%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(Player(Level) > 8) And If(Player(Level) < 13)
 
 [Encounter Table 40]
 lookup_name=Raid_M                                                              ; Areas patroled by the Raiders
@@ -2226,7 +2226,7 @@ enc_13=Chance:15%,Enc:(7-10) DMRV_Scorpions AMBUSH Player
 enc_14=Chance:1%,Enc:(5-10) RED_Wolves FIGHTING (4-6) RDRC_Raiders, If(Global(600) < 1)
 enc_15=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_16=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_17=Chance:80%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(Player(Level) > 8) And If(Player(Level) < 13)
+enc_17=Chance:35%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(Player(Level) > 8) And If(Player(Level) < 13)
 
 [Encounter Table 41]
 lookup_name=Raid_D                                                              ; Areas patroled by the Raiders
@@ -2256,7 +2256,7 @@ enc_21=Chance:1%,Counter:1,Special,Map:Special Guardian Encounter,Enc:Special1, 
 enc_22=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If(Player(Level) > 9) And If(Global(614) < 1)
 enc_23=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_24=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
-enc_25=Chance:80%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(Player(Level) > 8) And If(Player(Level) < 13)
+enc_25=Chance:35%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(Player(Level) > 8) And If(Player(Level) < 13)
 
 [Encounter Table 42]
 lookup_name=Nav_D                                                               ; Areas around Navarro
@@ -2658,7 +2658,7 @@ enc_13=Chance:7%,Enc:(10-12) EPA_Tough_Alien AMBUSH Player
 enc_14=Chance:10%,Enc:(5-8) FRAN_Elronologists FIGHTING (3-6) FRAN_Mercenaries
 enc_15=Chance:10%,Enc:(5-8) FRAN_Elronologists FIGHTING (3-6) FRAN_Press_Gang
 enc_16=Chance:20%,Enc:(4-8) FRAN_Elronologists
-enc_17=Chance:80%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
+enc_17=Chance:45%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
 
 [Encounter Table 59]
 lookup_name=Fran_M                                                                   ; Areas around San Francisco
@@ -2682,7 +2682,7 @@ enc_15=Chance:10%,Enc:(5-8) FRAN_Elronologists FIGHTING (3-6) FRAN_Press_Gang
 enc_16=Chance:20%,Enc:(4-8) FRAN_Elronologists
 enc_17=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_18=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_19=Chance:80%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
+enc_19=Chance:45%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
 
 [Encounter Table 60]
 lookup_name=Fran_C                                                                    ; Areas around San Francisco
@@ -2704,7 +2704,7 @@ enc_13=Chance:7%,Enc:(10-12) EPA_Tough_Alien AMBUSH Player
 enc_14=Chance:10%,Enc:(5-8) FRAN_Elronologists FIGHTING (3-6) FRAN_Mercenaries
 enc_15=Chance:10%,Enc:(5-8) FRAN_Elronologists FIGHTING (3-6) FRAN_Press_Gang
 enc_16=Chance:20%,Enc:(4-8) FRAN_Elronologists
-enc_17=Chance:80%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
+enc_17=Chance:45%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
 
 [Encounter Table 61]
 lookup_name=Fran_D                                                                    ; Areas around San Francisco
@@ -2737,7 +2737,7 @@ enc_24=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If
 enc_25=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_26=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
 enc_27=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(617) < 1)
-enc_28=Chance:80%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
+enc_28=Chance:45%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
 
 [Encounter Table 62]
 lookup_name=Fran2_D                                                                   ; San Francisco - Redding Trade Route
@@ -2772,7 +2772,7 @@ enc_26=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If
 enc_27=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_28=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
 enc_29=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(617) < 1)
-enc_30=Chance:80%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
+enc_30=Chance:45%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
 
 [Encounter Table 63]
 lookup_name=Fran2_C                                                                     ; San Francisco - Redding Trade Route
@@ -2796,7 +2796,7 @@ enc_15=Chance:3%,Enc:(4-8) FRAN2_San_Fran_Caravan FIGHTING (3-6) EPA_Tough_Fire_
 enc_16=Chance:3%,Enc:(6-8) DNRV_Redding_Caravan FIGHTING (3-6) EPA_Tough_Alien
 enc_17=Chance:10%,Enc:(4-8) FRAN2_San_Fran_Caravan
 enc_18=Chance:10%,Enc:(6-8) DNRV_Redding_Caravan
-enc_19=Chance:80%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
+enc_19=Chance:45%,Special,Enc:KAGA5 AMBUSH Player, If (Global(399) < 128) And If(Player(Level) > 16)
 
 [Encounter Table 64]
 lookup_name=Wild5_D                                                                       ; Areas between San Francisco and NCR
@@ -2976,7 +2976,7 @@ enc_28=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If
 enc_29=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_30=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
 enc_31=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(617) < 1)
-enc_32=Chance:80%,Special,Enc:KAGA4 AMBUSH Player, If (Global(399) < 80) And If(Player(Level) > 12) And If(Player(Level) < 17)
+enc_32=Chance:40%,Special,Enc:KAGA4 AMBUSH Player, If (Global(399) < 80) And If(Player(Level) > 12) And If(Player(Level) < 17)
 
 [Encounter Table 71]
 lookup_name=VNNB_M                                                                            ; Vault 15 - New Reno - NCR - Broken Hills
@@ -3004,7 +3004,7 @@ enc_19=Chance:5%,Enc:(4-8) V15_Caravan
 enc_20=Chance:8%,Enc:(1-2) New_Traveller
 enc_21=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_22=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_23=Chance:80%,Special,Enc:KAGA4 AMBUSH Player, If (Global(399) < 80) And If(Player(Level) > 12) And If(Player(Level) < 17)
+enc_23=Chance:40%,Special,Enc:KAGA4 AMBUSH Player, If (Global(399) < 80) And If(Player(Level) > 12) And If(Player(Level) < 17)
 
 [Encounter Table 72]
 lookup_name=NCR_M                                                                  ; Area arounc NCR
@@ -3028,7 +3028,7 @@ enc_15=Chance:20%,Enc:(6-10) NCR_Rangers
 enc_16=Chance:10%,Enc:(3-5) KLA_Farmers
 enc_17=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
 enc_18=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
-enc_19=Chance:80%,Special,Enc:KAGA4 AMBUSH Player, If (Global(399) < 80) And If(Player(Level) > 12) And If(Player(Level) < 17)
+enc_19=Chance:40%,Special,Enc:KAGA4 AMBUSH Player, If (Global(399) < 80) And If(Player(Level) > 12) And If(Player(Level) < 17)
 
 [Encounter Table 73]
 lookup_name=NCR_D                                                                  ; Area arounc NCR
@@ -3061,7 +3061,7 @@ enc_24=Chance:1%,Counter:1,Special,Map:Special Holy Encounter 1,Enc:Special1, If
 enc_25=Chance:1%,Counter:1,Special,Map:Special Woodsman Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(615) < 1)
 enc_26=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(620) < 1)
 enc_27=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(617) < 1)
-enc_28=Chance:80%,Special,Enc:KAGA4 AMBUSH Player, If (Global(399) < 80) And If(Player(Level) > 12) And If(Player(Level) < 17)
+enc_28=Chance:40%,Special,Enc:KAGA4 AMBUSH Player, If (Global(399) < 80) And If(Player(Level) > 12) And If(Player(Level) < 17)
 
 [Encounter Table 74]
 lookup_name=V15_M                                                              ; Area arounc Vault 15
