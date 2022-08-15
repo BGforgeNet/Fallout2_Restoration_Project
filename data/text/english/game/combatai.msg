@@ -3708,7 +3708,7 @@
 #
 # target being missed
 #
-{36860}{}{Whoa! Be careful with that you; might hurt someone.}
+{36860}{}{Whoa! Be careful with that; you might hurt someone.}
 {36861}{}{Hey now! That almost hit me!}
 {36862}{}{Would it help if I painted a target on myself?}
 {36863}{}{Not even close.}
