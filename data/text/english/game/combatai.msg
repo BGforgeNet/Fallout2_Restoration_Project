@@ -99,9 +99,9 @@
 {1035}{}{Just leave me alone!}
 {1036}{}{Ohhh, pain!}
 {1037}{}{I'm dying!}
-{1038}{}{Oh Christ, that hurt so bad....}
+{1038}{}{Oh Christ, that hurt so bad...!}
 {1039}{}{I'm bleedin' out.}
-{1040}{}{I'm a gonner.}
+{1040}{}{I'm a goner.}
 {1041}{}{Christ, why did you have to do that?}
 {1042}{}{Who'll take care of my family?}
 {1043}{}{Why me? Why?}
@@ -119,7 +119,7 @@
 {1055}{}{You're killing me!}
 {1056}{}{(Cough, cough) Can't breathe.}
 {1057}{}{Feeling faint, can't keep going.}
-{1058}{}{Help me, eeeeellp meeeeee!}
+{1058}{}{Help me, 'eeeeellp meeeeee!}
 {1059}{}{Oh God, oh God, oh God...}
 #
 # target hit in right leg
@@ -159,7 +159,7 @@
 {1086}{}{You've blinded me, noooooo.}
 {1087}{}{Not my eyes, please not that.}
 {1088}{}{I'm blind, just kill me. (sob, sob)}
-{1089}{}{Where's my eye, if I could just push it back in....}
+{1089}{}{Where's my eye, if I could just push it back in...!}
 #
 # target hit in groin
 #
@@ -175,7 +175,7 @@
 {1099}{}{It burns, it burns.}
 {1100}{}{I think I need to sit down.}
 {1101}{}{That wasn't fair.}
-{1102}{}{Cow... ard, unh....}
+{1102}{}{Cow... ard, unh...!}
 #
 ############################################
 # 1100 Normal Person
@@ -201,10 +201,10 @@
 {1115}{}{Oh man, that hurts!}
 {1116}{}{My arm hurts, it's a bad one.}
 {1117}{}{My arm's all tore up.}
-{1118}{}{My arm's broken, here... and here....}
+{1118}{}{My arm's broken, here... and here...!}
 {1119}{}{Bone sticking out of arm, arrrrrgghhh.}
 {1120}{}{I can't feel anything, my arm's all numb.}
-{1121}{}{Someone bend my arm back, pleeeeeaassee?!?}
+{1121}{}{Someone bend my arm back, pleeeeeaassee?!}
 {1122}{}{My thumb's been ripped right off my hand!}
 #
 # target hit in right arm
@@ -225,12 +225,12 @@
 {1133}{}{My legs, I can't feel my legs.}
 {1134}{}{Oof!}
 {1135}{}{Ouch!}
-{1136}{}{Oof! My ribs hurt}
+{1136}{}{Oof! My ribs hurt!}
 {1137}{}{Ugh! That hurt!}
 {1138}{}{Damn! I spit on you!}
 {1139}{}{Argh!}
 {1140}{}{Oh, my ribs!}
-{1141}{}{Ow!!!}
+{1141}{}{Ow!}
 {1142}{}{Oof!}
 {1143}{}{If it don't hurt much is it a bad one?}
 {1144}{}{Heavy weight on chest, gasp, gasp, so thirsty.}
@@ -257,7 +257,7 @@
 {1162}{}{There goes my knee!}
 {1163}{}{My dance career's over.}
 {1164}{}{My kneecap's just gone man, gone.}
-{1165}{}{Where's the lower half of my leg? Where is it?!?}
+{1165}{}{Where's the lower half of my leg? Where is it!?}
 {1166}{}{It hurts to move.}
 {1167}{}{I've been hit. I can't feel my leg.}
 {1168}{}{It hurts, somebody make it stop!}
@@ -355,14 +355,14 @@
 {1235}{}{Ouch!}
 {1236}{}{Argh!}
 {1237}{}{Oh, I think you broke a rib!}
-{1238}{}{Ow!!! My spleen!}
+{1238}{}{Ow! My spleen!}
 {1239}{}{Yeah, that just got me started.}
 {1240}{}{Now you've got me pissed off.}
 {1241}{}{I didn't like that at all.}
 {1242}{}{Damn, you popped a goddamn lung.}
 {1243}{}{Only a worm like you would try for a gut-wound.}
 {1244}{}{I'm going to replace those organs you just holed, with some of yours.}
-{1245}{}{Damn, you're better than you look, 'spose you'd hafta be.}
+{1245}{}{Damn, you're better than you look, s'pose you'd hafta be.}
 {1246}{}{That's not nice at all. I'm going to have to teach you some manners.}
 {1247}{}{Lucky shot that time.}
 {1248}{}{Hope you think it's just as funny when I do that to you.}
@@ -550,7 +550,7 @@
 {1390}{}{Oof, my groin!}
 {1391}{}{That was a ballsy move.}
 {1392}{}{Heh, heh, can't hurt that, it's brass-plated.}
-{1393}{}{Whatta fuckin' sissy you are.}
+{1393}{}{What a fuckin' sissy you are.}
 {1394}{}{So, that's the way you want to play it?}
 {1395}{}{Ack!}
 {1396}{}{You cretin, I'm gonna neuter you.}
@@ -681,8 +681,8 @@
 {1545}{}{I can't feel my legs.}
 {1546}{}{Suddenly, I feel warm and sleepy.}
 {1547}{}{Errrggggg!}
-{1548}{}{Gack! cough, cough.}
-{1549}{}{Must continue, must slay enemy....}
+{1548}{}{Gack! (cough, cough.)}
+{1549}{}{Must continue, must slay enemy...!}
 {1550}{}{The darkness beckons to me.}
 {1551}{}{The hour of my death approaches.}
 {1552}{}{The Shaman was right, I do not return.}
@@ -697,11 +697,11 @@
 # target hit in right leg
 #
 {1560}{}{I will crawl to kill you.}
-{1561}{}{Must keep standing, must....}
+{1561}{}{Must keep standing, must...!}
 {1562}{}{Do not make me run to catch you!}
 {1563}{}{You would cripple me, coward!}
 {1564}{}{Awwwwgg!}
-{1565}{}{Bone? So white....}
+{1565}{}{Bone? So white...}
 {1566}{}{Why can't I walk?}
 {1567}{}{Arrrrrrgh.}
 {1568}{}{Unnhhh.}
@@ -710,12 +710,12 @@
 # target hit in left leg
 #
 {1570}{}{I will crawl to kill you.}
-{1571}{}{Must keep standing, must....}
+{1571}{}{Must keep standing, must...!}
 {1572}{}{Do not make me run to catch you!}
 {1573}{}{You would cripple me, coward!}
 {1574}{}{Awwwwgg!}
-{1575}{}{Bone? So white....}
-{1576}{}{Can't walk. Oh the pain....}
+{1575}{}{Bone? So white...}
+{1576}{}{Can't walk. Oh, the pain...}
 {1577}{}{I will burn off your foot for that.}
 {1578}{}{Ooooo-ouuuuch!}
 {1579}{}{Leg burns like fire.}
@@ -731,7 +731,7 @@
 {1586}{}{You can take my eyes but not my courage!}
 {1587}{}{Come here so I can kill you!}
 {1588}{}{The darkness, the darkness, Aaaiiiieee!}
-{1589}{}{Where's my eye, where is it!?!}
+{1589}{}{Where's my eye, where is it!?}
 #
 # target hit in groin
 #
@@ -739,8 +739,8 @@
 {1591}{}{You fight without honor.}
 {1592}{}{I'm married, didn't use it anyway.}
 {1593}{}{Holy spirits, the world just exploded.}
-{1594}{}{Gasp... can't breath....}
-{1595}{}{In high, squeaky, voice--Ouch!}
+{1594}{}{Gasp... can't breathe...!}
+{1595}{}{[In high, squeaky, voice] Ouch!}
 {1596}{}{Unnhhh. I need to sit down for a bit.}
 {1597}{}{You bastard--I kill you slow for that.}
 {1598}{}{You know nothing of honor.}
@@ -809,7 +809,7 @@
 #
 # target hit in right leg
 #
-{1660}{}{Ow, my leg}
+{1660}{}{Ow, my leg!}
 {1661}{}{You're gonna pay for that!}
 {1662}{}{Argh! You break my leg, I break your neck!}
 {1663}{}{Damn, there goes my Tango.}
@@ -851,7 +851,7 @@
 {1690}{}{Aren't you chivalrous.}
 {1691}{}{Yooooouuuuch!}
 {1692}{}{Unnhhhhh!}
-{1693}{}{Maybe if I just don't move for a while....}
+{1693}{}{Maybe if I just don't move for a while...!}
 {1694}{}{That's my beef bologna!}
 {1695}{}{There goes my social life.}
 {1696}{}{I think I need to sit down for a bit.}
@@ -869,7 +869,7 @@
 # target hit in head
 #
 {1703}{}{Not the fricken head you...}
-{1704}{}{My... head... getting... dizzy}
+{1704}{}{My... head... getting... dizzy...}
 {1705}{}{Ugnnn!}
 {1706}{}{Not the face! Not the face!}
 #
@@ -918,7 +918,7 @@
 # target hit in groin
 #
 {1790}{}{What do you think this is? Some cheap action flick?}
-{1791}{}{My balls!!! Come here and let me do that to you!}
+{1791}{}{My balls! Come here and let me do that to you!}
 {1792}{}{Well, there go my brass balls.}
 {1793}{}{Excuse me for a moment while I throw up all over myself.}
 {1794}{}{Great. I get to fight someone with a ball fixation.}
@@ -933,7 +933,7 @@
 #
 {1800}{}{Whoa. Something just hit me in the face.}
 {1801}{}{What just hit me in the head?}
-{1802}{}{Ngggg}
+{1802}{}{Ngggg!}
 {1803}{}{Glad I'm dusted on Jet, or that would have hurt.}
 {1804}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
 #
@@ -941,14 +941,14 @@
 #
 {1810}{}{Hey! Somebody just hit my arm!}
 {1811}{}{Look, my arm is for needles only. Stop attacking it.}
-{1812}{}{Nggggg}
+{1812}{}{Nggggg!}
 {1813}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
 #
 # target hit in right arm
 #
 {1820}{}{Hey! Somebody just hit my arm!}
 {1821}{}{Look, my arm is for needles only. Stop attacking it.}
-{1822}{}{Nggggg}
+{1822}{}{Nggggg!}
 {1823}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
 #
 # target hit in torso
@@ -958,8 +958,8 @@
 {1832}{}{Hey! What did you hit me in the chest for, asshole?!}
 {1833}{}{Stop hitting me in the chest!}
 {1834}{}{Whoa. My chest. You hit it. Cool.}
-{1835}{}{Nrgggg}
-{1836}{}{*hfff*}
+{1835}{}{Nrgggg!}
+{1836}{}{*Hfff*}
 {1837}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
 #
 # target hit in right leg
@@ -1036,7 +1036,7 @@
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
 {2006}{}{Somebody help meeeee!}
-{2007}{}{Oh God, oh God, oh God....}
+{2007}{}{Oh God, oh God, oh God...!}
 {2008}{}{Just don't kill me, pleeeeaaasssssee!}
 {2009}{}{Don't kill me!}
 {2010}{}{Please don't kill me.}
@@ -1055,8 +1055,8 @@
 {2020}{}{Hmm, uh, stop!}
 {2021}{}{I don't like your kind...}
 {2022}{}{I really hoped it wouldn't come to this...}
-{2023}{}{I guess I have to defend myself}
-{2024}{}{I guess I have to defend myself}
+{2023}{}{I guess I have to defend myself.}
+{2024}{}{I guess I have to defend myself!}
 {2025}{}{I really hoped it wouldn't come to this...}
 {2026}{}{Please don't make me do this.}
 {2027}{}{Oh dear, oh my.}
@@ -1110,8 +1110,8 @@
 {2069}{}{You missed? I can't believe it.}
 {2070}{}{I knew you weren't really shooting at me!}
 {2071}{}{Hah, hah. You suck!}
-{2072}{}{(Thumbs nose at you)Nyah, nyah, nyah, nyah, nyah.}
-{2073}{}{(Raises a finger towards you)}
+{2072}{}{[Thumbs nose at you] Nyah, nyah, nyah, nyah, nyah.}
+{2073}{}{[Raises a finger towards you]}
 {2074}{}{You're not so hot.}
 {2075}{}{You suck, I can't believe I was afraid of you.}
 {2076}{}{I knew you wouldn't really try to kill me.}
@@ -1205,7 +1205,7 @@
 {2168}{}{I thought you had me for sure.}
 {2169}{}{I must be better at this than I thought.}
 {2170}{}{You can't hit me!}
-{2171}{}{You got me! Oh? Maybe you didn't!?!}
+{2171}{}{You got me! Oh? Maybe you didn't!?}
 {2172}{}{Yeah! You missed me!}
 #
 ############################################
@@ -1232,7 +1232,7 @@
 {2215}{}{Crap, time to scram.}
 {2216}{}{You're one nasty motherfucker!}
 {2217}{}{I'm bad, but you're the baddest.}
-{2218}{}{Asta la vista!}
+{2218}{}{Hasta la vista!}
 {2219}{}{Tasty bananas!}
 #
 # moving in to attack
@@ -1253,7 +1253,7 @@
 {2233}{}{I'm going to like seeing your guts spread out on the ground.}
 {2234}{}{I wonder how much noise you'll make when I bleed you.}
 {2235}{}{Welcome to the major leagues, rookie.}
-{2236}{}{I love's to watch 'em squirm.}
+{2236}{}{I loves to watch 'em squirm.}
 {2237}{}{I hope this is a challenge, for a change.}
 {2238}{}{Oh yeah! I've been waiting for this.}
 {2239}{}{Let's see what you're really made of.}
@@ -1316,7 +1316,7 @@
 {2310}{}{I'm gonna go get sloshed, then I'll be back.}
 {2311}{}{More of a challenge elsewhere.}
 {2312}{}{We'll have to do this again sometime.}
-{2313}{}{That was fun, ta ta.}
+{2313}{}{That was fun, ta-ta.}
 {2314}{}{Whoa, time for my lunch-break.}
 {2315}{}{That was great, I broke a sweat!}
 {2316}{}{Time for more ammo and stimpacks!}
@@ -1349,10 +1349,10 @@
 #
 # attacking
 #
-{2340}{}{Gonna get cha!}
+{2340}{}{Gonna getcha!}
 {2341}{}{Time to play!}
 {2342}{}{Please don't beg. Death should be dignified.}
-{2343}{}{I hope you don't die too quick}
+{2343}{}{I hope you don't die too quick.}
 {2344}{}{Got any last words?}
 {2345}{}{Take this!}
 {2346}{}{Die! Die! Die! Die! Die!}
@@ -1366,9 +1366,9 @@
 {2354}{}{Look at the blood-spray! Yeah, goin' the distance!}
 {2355}{}{You're one sorry motherfucker!}
 {2356}{}{Goddamn, I love this!}
-{2357}{}{Going to fuck you up, bigtime!}
+{2357}{}{Going to fuck you up, big time!}
 {2358}{}{Yeah baby, yeah!}
-{2359}{}{Asta la Vista, Baby.}
+{2359}{}{Hasta la vista, baby.}
 #
 # target being missed
 #
@@ -1406,7 +1406,7 @@
 {2422}{}{We don't like your kind around here!}
 {2423}{}{You need to learn some respect!}
 {2424}{}{Time to earn my pay...}
-{2425}{}{Wait till I get you...}
+{2425}{}{Wait 'til I get you...}
 {2426}{}{Why'd you go and hafta do that?}
 {2427}{}{There's always idiots like you around to mess up a shift.}
 #
@@ -1456,10 +1456,10 @@
 #
 # attacking
 #
-{2540}{}{Take it all!!!}
+{2540}{}{Take it all!}
 {2541}{}{Don't bother screaming for mercy...}
 {2542}{}{This is the best part...}
-{2543}{}{You want more of this?!! Huh?!}
+{2543}{}{You want more of this?! Huh?!}
 {2544}{}{Gonna feed you to the dogs!}
 {2545}{}{Shouldn't start what you can't finish.}
 {2546}{}{Hope you don't die too quickly.}
@@ -1550,13 +1550,13 @@
 # moving in to attack
 #
 {2720}{}{Let's get it on!}
-{2721}{}{Hoo-Yah!}
+{2721}{}{Hoo-yah!}
 {2722}{}{I'm gonna teach you some manners!}
 {2723}{}{You're history!}
 {2724}{}{Attack!}
 {2725}{}{Let's bury this loser!}
-{2726}{}{Lock and Load!}
-{2727}{}{We'll let god sort out what's left of ya.}
+{2726}{}{Lock and load!}
+{2727}{}{We'll let God sort out what's left of ya.}
 #
 # attacking
 #
@@ -1567,7 +1567,7 @@
 {2744}{}{This ain't just a job to us.}
 {2745}{}{Shouldn't start what you can't finish.}
 {2746}{}{You better pray to the gods!}
-{2747}{}{You ain't even gonna make it to 6am.}
+{2747}{}{You ain't even gonna make it to 6 A.M.}
 {2748}{}{Feel good?}
 {2749}{}{See you in Hell.}
 #
@@ -1653,7 +1653,7 @@
 {2940}{}{Enjoy the last few seconds of your life.}
 {2941}{}{Blood! Blood! Blood!}
 {2942}{}{Your heart is mine!}
-{2943}{}{RAAAAAAARRRR!!}
+{2943}{}{RAAAAAAARRRR!}
 {2944}{}{Your weapons will be my trophies!}
 {2945}{}{Death!}
 {2946}{}{You are mine to kill!}
@@ -1667,7 +1667,7 @@
 {2960}{}{Wasted effort!}
 {2961}{}{You have failed!}
 {2962}{}{My blood is stronger than yours!}
-{2963}{}{I live!!}
+{2963}{}{I live!}
 {2964}{}{Your body is weak and pitiful!}
 #
 ############################################
@@ -1712,7 +1712,7 @@
 {3062}{}{Target attack failed. Calculating response.}
 {3063}{}{Unit was unharmed by attack.}
 {3064}{}{Recalculating target's offensive abilities.}
-{3065}{}{Analysis. Target erred in tactical selection. Unit undamaged}
+{3065}{}{Analysis. Target erred in tactical selection. Unit undamaged.}
 #
 ############################################
 # 3100 Ghoul
@@ -1737,7 +1737,7 @@
 {3114}{}{I've gotta go reattach some parts.}
 {3115}{}{These old bones can't take this anymore.}
 {3116}{}{It's not the years, it's the mileage.}
-{3117}{}{What a world, what a world....}
+{3117}{}{What a world, what a world...!}
 {3118}{}{I guess, you've learned your lesson, I'm outa here!}
 {3119}{}{Hey, stop backing away from me.}
 #
@@ -1768,16 +1768,16 @@
 #
 {3140}{}{Your number is up!}
 {3141}{}{Don't bother screaming for mercy...}
-{3142}{}{I'm gonna enjoy this}
+{3142}{}{I'm gonna enjoy this!}
 {3143}{}{Oooo, that's gotta hurt!}
-{3144}{}{Slicin' & Dicin' time.}
+{3144}{}{Slicin' & dicin' time.}
 {3145}{}{I'm gonna eat your liver!}
 {3146}{}{Hope you don't die too quickly!}
 {3147}{}{Dinnertime!}
 {3148}{}{Die!}
 {3149}{}{I eat punks like you for breakfast, and lunch.}
 {3150}{}{How can anything this messy be bad?}
-{3151}{}{Lemme' just have a taste!}
+{3151}{}{Lemme just have a taste!}
 {3152}{}{Give Daddy some sugar, baby!}
 {3153}{}{I got sumpin' for ya!}
 {3154}{}{Stay still! It'll hurt less.}
@@ -1898,7 +1898,7 @@
 #
 # Moving to Attack
 #
-{10020}{}{I Keeng Ra'at}
+{10020}{}{I Keeng Ra'at!}
 {10021}{}{Squeeee! Kill Keeng's children!}
 {10022}{}{Keeng crack bones, you!}
 {10023}{}{Keeng feast on soft parts, you!}
@@ -1920,7 +1920,7 @@
 #
 # Attacking (Repeat of Moving to Attack)
 #
-{10040}{}{I Keeng Ra'at}
+{10040}{}{I Keeng Ra'at!}
 {10041}{}{Squeeee! Kill Keeng's children!}
 {10042}{}{Keeng crack bones, you!}
 {10043}{}{Keeng feast on soft parts, you!}
@@ -1948,7 +1948,7 @@
 #
 {10120}{}{Number five is alive!}
 {10121}{}{Vee-jer, Veee-jer.}
-{10122}{}{Error! Error Errrrrrrooooorrrr....}
+{10122}{}{Error! Error Errrrrrrooooorrrr...}
 {10123}{}{Who is the creator?}
 {10124}{}{Does not compute! Does not compute!}
 {10125}{}{I'm sorry Dave.}
@@ -1971,7 +1971,7 @@
 #
 {10140}{}{Number five is alive!}
 {10141}{}{Vee-jer, Veee-jer.}
-{10142}{}{Error! Error Errrrrrrooooorrrr....}
+{10142}{}{Error! Error Errrrrrrooooorrrr...!}
 {10143}{}{Who is the creator?}
 {10144}{}{Does not compute! Does not compute!}
 {10145}{}{I'm sorry Dave.}
@@ -2020,11 +2020,11 @@
 #
 {12020}{}{Target acquired!}
 {12021}{}{Somebody cover me!}
-{12022}{}{Hut hut hut hut hut hut}
-{12023}{}{Hut hut hut hut hut hut}
-{12024}{}{Hut hut hut hut hut hut}
+{12022}{}{Hut hut hut hut hut hut!}
+{12023}{}{Hut hut hut hut hut hut!}
+{12024}{}{Hut hut hut hut hut hut!}
 {12025}{}{Kiss your ass good-bye...}
-{12026}{}{Time to dust this mother fucker...}
+{12026}{}{Time to dust this motherfucker...}
 {12027}{}{Lock and load!}
 {12028}{}{Rock and roll!}
 {12029}{}{Look who just walked into the free fire zone...}
@@ -2046,7 +2046,7 @@
 {12043}{}{::I wanna be an airborne ranger...::}
 {12044}{}{Get critical!}
 {12045}{}{You want some of this?! YOU WANT SOME OF THIS?!}
-{12046}{}{Hiyaaaaaa!!!}
+{12046}{}{Hiyaaaaaa!}
 {12047}{}{Get some!}
 {12048}{}{Better hope you packed some stimpacks, tribal...}
 {12049}{}{Kiss your ass good-bye...}
@@ -2086,7 +2086,7 @@
 #
 {12140}{}{Your number is up!}
 {12141}{}{Don't bother screaming for mercy...}
-{12142}{}{I'm gonna enjoy this}
+{12142}{}{I'm gonna enjoy this!}
 {12143}{}{Oooo, that's gotta hurt!}
 {12144}{}{Time to die!}
 {12145}{}{I'm gonna eat your liver!}
@@ -2167,7 +2167,7 @@
 #
 {12310}{}{My... arm... my... beautiful... arm.}
 {12311}{}{Medic! My arm's fucked!}
-{12312}{}{*hffff*}
+{12312}{}{*Hffff*}
 #
 # target hit in right arm
 #
@@ -2179,7 +2179,7 @@
 #
 {12330}{}{My spleen!}
 {12331}{}{Hnrgggg.}
-{12332}{}{*hff*}
+{12332}{}{*Hff*}
 {12333}{}{You're... gonna... pay... for... that!}
 {12334}{}{*Ooooof*}
 {12335}{}{Nggg! Solar plexus!}
@@ -2241,7 +2241,7 @@
 {12415}{}{I got blood all over my arm...!}
 {12416}{}{My gunhand!}
 {12417}{}{*Nfff*...nearly tore my arm clean off...!}
-{12418}{}{*Urkkk*...can still....hit you... with the other hand...}
+{12418}{}{*Urkkk*...can still... hit you... with the other hand...}
 {12419}{}{Gonna need some stims for my arm. After I kill you.}
  #
 # target hit in right arm
@@ -2255,7 +2255,7 @@
 {12426}{}{My gunhand!}
 {12427}{}{*Nfff*...nearly tore my arm clean off...!}
 {12428}{}{Gonna need some stims for my arm. After I kill you.}
-{12429}{}{*Urkkk*...can still....hit you... with the other hand...}
+{12429}{}{*Urkkk*...can still... hit you... with the other hand...}
 #
 # target hit in torso
 #
@@ -2384,13 +2384,13 @@
 # attacking
 #
 {14040}{}{Have at you then.}
-{14041}{}{Touche!}
-{14042}{}{En Garde!}
+{14041}{}{Touch√©!}
+{14042}{}{En garde!}
 {14043}{}{Hai-Kee-Baaa!}
 {14044}{}{I shall have you!}
 {14045}{}{Put up your dukes.}
 {14046}{}{Uh, draw, Pilgrim-that's how you say it isn't it?}
-{14047}{}{Hai-Yah!}
+{14047}{}{Hai-yah!}
 {14048}{}{This hardly feels sporting.}
 {14049}{}{Leave the earthman to me! Always wanted to say that.}
 #
@@ -2423,25 +2423,25 @@
 # target hit in head
 #
 {18000}{}{Not the face...}
-{18001}{}{Nffff}
+{18001}{}{Nffff!}
 {18002}{}{Good thing my brains are already shot...}
 #
 # target hit in left arm
 #
-{18010}{}{Nffff}
-{18011}{}{Ernhhh}
+{18010}{}{Nffff!}
+{18011}{}{Ernhhh!}
 #
 # target hit in right arm
 #
-{18020}{}{Nffff }
-{18021}{}{Ernhhh }
+{18020}{}{Nffff!}
+{18021}{}{Ernhhh!}
 #
 # target hit in torso
 #
-{18030}{}{Oooof}
-{18031}{}{Nfff}
-{18032}{}{Ernhhh}
-{18033}{}{Hrggg}
+{18030}{}{Oooof!}
+{18031}{}{Nfff!}
+{18032}{}{Ernhhh!}
+{18033}{}{Hrggg!}
 {18034}{}{Should kept my hand up...}
 {18035}{}{No pain, no pain...}
 #
@@ -2458,7 +2458,7 @@
 # target hit in eyes
 #
 {18080}{}{Aiming for the eyes, huh?}
-{18081}{}{Nfff}
+{18081}{}{Nfff!}
 {18082}{}{There goes the eye of the tiger...}
 #
 # target hit in groin
@@ -2477,7 +2477,7 @@
 {18101}{}{Coulda been a contender!}
 {18102}{}{Ain't gonna be no rematch!}
 {18103}{}{Better go practice some more...}
-{18104}{}{I knew I should have taken more buffout...}
+{18104}{}{I knew I should have taken more Buffout...}
 {18105}{}{Let me go get some Psycho, and I'll be back.}
 {18106}{}{Time to get outta here.}
 {18107}{}{Maybe I can go find some easier fight somewhere else.}
@@ -2497,9 +2497,9 @@
 #
 {18140}{}{Who's your Daddy?}
 {18141}{}{You want some of this?}
-{18142}{}{Ernhhh}
-{18143}{}{Hrghhh}
-{18144}{}{Hrggg}
+{18142}{}{Ernhhh!}
+{18143}{}{Hrghhh!}
+{18144}{}{Hrggg!}
 {18145}{}{Eat this!}
 {18146}{}{You're going down!}
 {18147}{}{Bitch!}
@@ -2508,7 +2508,7 @@
 {18150}{}{Get critical!}
 {18151}{}{Fight past that shit!}
 {18152}{}{SUPER... NUCLEAR... TORNADO... FIST... }
-{18153}{}{I must break you. }
+{18153}{}{I must break you.}
 {18154}{}{Gonna beat you like a dog...}
 #
 # target being missed
@@ -2559,7 +2559,7 @@
 {26021}{}{You're already dead...}
 {26022}{}{I'm gonna fuck you up!}
 {26023}{}{This one's mine!}
-{26024}{}{Take em!}
+{26024}{}{Take 'em!}
 {26025}{}{Your ears will make a nice trophy!}
 #
 # attacking
@@ -2650,7 +2650,7 @@
 #
 {32000}{}{My face! My face!}
 {32001}{}{My scalp!}
-{32002}{}{oooh... my ears...}
+{32002}{}{Oooh... my ears...}
 #
 # target hit in left arm
 #
@@ -2682,7 +2682,7 @@
 #
 # target hit in left leg
 #
-{32070}{}{Ow, my leg}
+{32070}{}{Ow, my leg!}
 {32071}{}{::hop... hop::}
 {32072}{}{Aaaarrrrggghhh!}
 #
@@ -2729,7 +2729,7 @@
 #
 {32140}{}{Haiiiiiiii-YA!}
 {32141}{}{Chop-socky!}
-{32142}{}{rooOOOooo!}
+{32142}{}{RooOOOooo!}
 {32143}{}{Hai!}
 {32144}{}{Huh!}
 {32145}{}{Hai oooOOo!}
@@ -2803,7 +2803,7 @@
 {32301}{}{Noo... it's my birthday!}
 {32302}{}{Ow... my spleen...}
 {32303}{}{Back to the hospital!}
-{32304}{}{Must... protect. .. spleen hole...}
+{32304}{}{Must... protect... spleen hole...}
 {32305}{}{Oh, my aching liver.}
 #
 # moving in to attack
@@ -2846,8 +2846,8 @@
 {32401}{}{My hair's ruined, you beast!}
 {32402}{}{Bastard! I'll sodomize you for that!}
 {32403}{}{I need a bigger gun!}
-{32404}{}{Waaaaaaaaaaa!!!}
-{32405}{}{AAGGH!! You shot me in the ass!!}
+{32404}{}{Waaaaaaaaaaa!}
+{32405}{}{AAGGH! You shot me in the ass!}
 #
 # moving in to attack
 #
@@ -2855,9 +2855,9 @@
 {32421}{}{Say... you've got a face like an arse!}
 {32422}{}{Let's see what you've got, dickcheese.}
 {32423}{}{Bend over and grab your ankles, bub!}
-{32424}{}{For Shane!!}
+{32424}{}{For Shane!}
 {32425}{}{I'll try to make this as painful as possible.}
-{32426}{}{Mind if i break your kneecaps first?}
+{32426}{}{Mind if I break your kneecaps first?}
 {32428}{}{C'mon, little girl. Show me what you got.}
 #
 # attacking
@@ -2867,8 +2867,8 @@
 {32442}{}{Uf-da!}
 {32443}{}{I love the smell of blood in the morning...}
 {32444}{}{Boy, you are a bleeder, aren't ya?}
-{32445}{}{::::belch!:::::}
-{32446}{}{You broke the shirt, man!!!!}
+{32445}{}{::belch!::}
+{32446}{}{You broke the shirt, man!}
 {32447}{}{Hot lead enema coming right up!!}
 {32448}{}{Eat this!!}
 #
@@ -2878,7 +2878,7 @@
 {32461}{}{Damn, you suck!}
 {32462}{}{Go back to L.A., ya puss!}
 {32463}{}{Want me to stand still for you?}
-{32464}{}{:::brapp:::}
+{32464}{}{::brapp::}
 {32465}{}{Oh, good one...}
 #
 ############################################
@@ -2908,7 +2908,7 @@
 #
 {32540}{}{You gotta fight through that shit.}
 {32541}{}{::sings::}
-{32542}{}{Iii... will always love YOOUUUUU}
+{32542}{}{Iii... will always love YOOUUUUU!}
 {32543}{}{Can't we all just get along?}
 {32544}{}{You are SO dead.}
 {32545}{}{Bend over for a second...}
@@ -3016,7 +3016,7 @@
 #
 # target hit in eyes
 #
-{32780}{}{Ow!! My eyes!}
+{32780}{}{Ow! My eyes!}
 {32781}{}{My face! My eyes! Arrrrgh!}
 {32782}{}{My eyes!}
 #
@@ -3145,7 +3145,7 @@
 {33121}{}{Are you sure you wouldn't rather give up?}
 {33122}{}{We can work this out, can't we?}
 {33123}{}{If AHS-9 says you're bad, you must be bad.}
-{33124}{}{For ... um... the glory of Hubbell!}
+{33124}{}{For... um... the glory of Hubbell!}
 {33125}{}{Fighting is bad for your anodynes...}
 {33126}{}{I'm no good at this threatening stuff.}
 {33128}{}{My apologies if I'm about to hurt you.}
@@ -3192,7 +3192,7 @@
 #
 {33220}{}{Ahhh! Aiee! Ahh!}
 {33221}{}{Wahhhh!}
-{33222}{}{Ow! My ulna!!}
+{33222}{}{Ow! My ulna!}
 #
 # target hit in torso
 #
@@ -3202,7 +3202,7 @@
 {33233}{}{Oooof!}
 {33234}{}{You don't have to do this...}
 {33235}{}{Okay, that hurt.}
-{33236}{}{Ohhh... owwww}
+{33236}{}{Ohhh... owwww!}
 #
 # target hit in right leg
 #
@@ -3214,7 +3214,7 @@
 #
 {33270}{}{Oooh, my femur!}
 {33271}{}{My knee!}
-{33272}{}{That'll be a limper..}
+{33272}{}{That'll be a limper...}
 #
 # target hit in eyes
 #
@@ -3261,7 +3261,7 @@
 #
 {36010}{}{My hand!}
 {36011}{}{Ow! Good thing I'm right handed.}
-{36012}{}{Ow!!}
+{36012}{}{Ow!}
 #
 # target hit in right arm
 #
@@ -3288,7 +3288,7 @@
 #
 {36070}{}{My leg!}
 {36071}{}{Unh! Aiming a little low aren't you?}
-{36072}{}{You weren't trying to hit my leg were you!?!}
+{36072}{}{You weren't trying to hit my leg were you?!}
 #
 # target hit in eyes
 #
@@ -3617,7 +3617,7 @@
 {36741}{}{Nobody save you now!}
 {36742}{}{Let me see your pain!}
 {36743}{}{Now you die burning death!}
-{36744}{}{Die Human Fool!}
+{36744}{}{Die, human fool!}
 {36745}{}{Now you die a screaming death!}
 {36746}{}{Suffer!}
 {36747}{}{Now I crush you!}
@@ -3673,7 +3673,7 @@
 {36828}{}{Did you think you'd get away with killing the innocent?}
 {36829}{}{Scum like you deserve to die.}
 {36830}{}{Prepare to die!}
-{36831}{}{I'm gonna send you straight to hell!}
+{36831}{}{I'm gonna send you straight to Hell!}
 {36832}{}{There's quite a reward on your head.}
 {36833}{}{Don't take this personally, but I'm gonna kill you now.}
 {36834}{}{Another day another murderer.}
@@ -3688,7 +3688,7 @@
 {36840}{}{Killing ain't so easy when your opponent shoots back.}
 {36841}{}{Try this on for size.}
 {36842}{}{I just need your head, you can keep the rest.}
-{36843}{}{Not so fun when you're doing the dying is it?}
+{36843}{}{Not so fun when you're doing the dying, is it?}
 {36844}{}{The reward is as good as mine.}
 {36845}{}{You're not so tough.}
 {36846}{}{This is gonna hurt you more than it does me.}
@@ -3708,7 +3708,7 @@
 #
 # target being missed
 #
-{36860}{}{Whoa! Be careful with that you might hurt someone.}
+{36860}{}{Whoa! Be careful with that you; might hurt someone.}
 {36861}{}{Hey now! That almost hit me!}
 {36862}{}{Would it help if I painted a target on myself?}
 {36863}{}{Not even close.}
@@ -3992,13 +3992,13 @@
 # target hit in head
 #
 {40800}{}{*Nffff*}
-{40801}{}{*Hrkkk*...Gotta... head wound... here...}
+{40801}{}{*Hrkkk*...Got a... head wound... here...}
 {40802}{}{*Nfff* Nearly... took...*nfff*...my head clean off...}
 {40803}{}{Head... hurts... like... the... devil...}
 {40804}{}{Nearly... nearly got me... with that one... head spinning...}
 {40805}{}{Can't... black out... gotta stay conscious...}
 {40806}{}{Another hit to the head like that, an' I'm a goner...}
-{40807}{}{Thank god for that metal plate in my head, or I'd be dead...}
+{40807}{}{Thank God for that metal plate in my head, or I'd be dead...}
 #
 # target hit in left arm
 #
@@ -4087,7 +4087,7 @@
 {40883}{}{My eye... can't see...}
 {40884}{}{Can't see... just red...}
 {40885}{}{I don't... need... to see you... to kill you...}
-{40886}{}{Thank god that eye was fake...}
+{40886}{}{Thank God that eye was fake...}
 #
 # target hit in groin
 #
@@ -4164,7 +4164,7 @@
 {40965}{}{You ain't got the sand to take me down.}
 {40966}{}{Looks like you're stupid AND blind.}
 {40967}{}{Missed me by a few percentage points.}
-{40968}{}{You must be one wall-eyed sonuvabitch}
+{40968}{}{You must be one wall-eyed sonuvabitch!}
 {40969}{}{Yer aim's off. Next turn, it's gonna be your head.}
 {40970}{}{Hell, I'm a fossil, an' I can hit better than you.}
 {40971}{}{Too bad YOU can't reload the game and try again...}
@@ -4241,7 +4241,7 @@
 {41246}{}{Like I really needed *that* flensing.}
 {41247}{}{Now, I'll have to patch my skin again.}
 {41248}{}{If my vital organs weren't already preserved in a jar that woulda hurt.}
-{41249}{}{I outa wrap that with clothe before flies get in there.}
+{41249}{}{I oughta wrap that with clothes before flies get in there.}
 {41250}{}{Shit! I've got termites!}
 {41251}{}{I had no idea that I was so dry and brittle.}
 {41252}{}{Damn, anyone got some duct-tape?}
@@ -4250,7 +4250,7 @@
 {41255}{}{Damn, I've been filleted.}
 {41256}{}{That was my bad side anyway.}
 {41257}{}{You cut my nipple off!}
-{41258}{}{No thanks, I've already shaved there.}
+{41258}{}{No, thanks, I've already shaved there.}
 {41259}{}{Even better than liposuction!}
 #
 # target hit in right leg
@@ -4313,14 +4313,14 @@
 {41303}{}{What do you mean they're armed!?}
 {41304}{}{Run awaaaaaay!}
 {41305}{}{Run for it!}
-{41306}{}{Incoming!!!!!!}
+{41306}{}{Incoming!}
 {41307}{}{My super-powers are useless against this foe!}
 {41308}{}{Uh, I've got to talk to a man about a horse.}
 {41309}{}{I'll be right back. Don't wait up.}
 {41310}{}{No, no, no. You go ahead. I'll catch up-later.}
 {41311}{}{I'm late for my root-canal. See you later.}
-{41312}{}{And then we get inside the giant rabbit and....}
-{41313}{}{Jesus Christ! Run for it!!!!!}
+{41312}{}{And then we get inside the giant rabbit and...!}
+{41313}{}{Jesus Christ! Run for it!}
 {41314}{}{For the love of God, get me out of here!}
 {41315}{}{Just let me live through this one.}
 {41316}{}{Oh, please, please, please, please.}
@@ -4338,14 +4338,14 @@
 {41325}{}{Watch out, here I come.}
 {41326}{}{Ready or not, here I come!}
 {41327}{}{Lenny to the rescue!}
-{41328}{}{Be vewy quiet. Wew hunting Wabbits.}
+{41328}{}{Be vewy quiet. Wew hunting wabbits.}
 {41329}{}{I'm not sure that this is such a great idea.}
 {41330}{}{You go first, I'll watch the rear.}
 {41331}{}{I don't know, it seems kinda dangerous.}
 {41332}{}{Are you sure this is really necessary?}
 {41333}{}{Well, if this is the only way.}
 {41334}{}{I just don't think I'm cut out for this.}
-{41335}{}{Hey, a fella could get hurt doin' this, ya'know.}
+{41335}{}{Hey, a fella could get hurt doin' this, ya know.}
 {41336}{}{Isn't there another way to resolve this?}
 {41337}{}{Can't we all just get along?}
 {41338}{}{Someone's going to get hurt, probably me.}
@@ -4362,7 +4362,7 @@
 {41346}{}{I'll moiderize ya'!}
 {41347}{}{I'm gonna git you sucka!}
 {41348}{}{Nobody messes with *crazy* Lenny.}
-{41349}{}{You just better stop it or, or I'll, uh....}
+{41349}{}{You just better stop it or, or I'll, uh...!}
 {41350}{}{I did it, I actually did it!}
 {41351}{}{You hate me, you really hate me!}
 {41352}{}{Haii-yah!}
@@ -4370,9 +4370,9 @@
 {41354}{}{Oh, dear, oh me, oh my.}
 {41355}{}{Take that!}
 {41356}{}{And this!}
-{41357}{}{Bifff!!}
+{41357}{}{Bifff!}
 {41358}{}{Pow!!}
-{41359}{}{Kablam!!}
+{41359}{}{Kablam!}
 #
 # target being missed
 #
@@ -4380,7 +4380,7 @@
 {41361}{}{Phew, that was close.}
 {41362}{}{Hey, watch it, you almost hit me.}
 {41363}{}{Oy vey!}
-{41364}{}{Nyah, nyah-nyah, nyah-nyah}
+{41364}{}{Nyah, nyah-nyah, nyah-nyah!}
 {41365}{}{Missed me!}
 {41366}{}{Yes!}
 {41367}{}{You suck!}
@@ -4395,7 +4395,7 @@
 {41376}{}{Oh, come now.}
 {41377}{}{Was that the best you can do? Was it really?}
 {41378}{}{I just don't think you're trying.}
-{41379}{}{Your heart's not in this is it?}
+{41379}{}{Your heart's not in this, is it?}
 #
 ############################################
 # 41600 Marcus
@@ -4431,7 +4431,7 @@
 #
 {41620}{}{Ow, my shooting hand.}
 {41621}{}{My elbow!}
-{41622}{}{Mother of god!}
+{41622}{}{Mother of God!}
 {41623}{}{I've taken worse in practice.}
 {41624}{}{Was that supposed to hurt?}
 {41625}{}{Did a bee just sting me?}
@@ -4442,7 +4442,7 @@
 #
 # target hit in torso
 #
-{41630}{}{Mother of god!}
+{41630}{}{Mother of God!}
 {41631}{}{I've taken worse in practice.}
 {41632}{}{I think you grazed me.}
 {41633}{}{Ouch! Dammit!}
@@ -4769,10 +4769,10 @@
 {42124}{}{I think I'd rather be rear tactical observer.}
 {42125}{}{I'm ready to rock and roll. Whatever that means.}
 {42126}{}{I'm gonna rip off your head and... uh... crap, I forget the rest.}
-{42127}{}{Let' see: I'm going to rip off your neck, shit down your head... crap. That's not right, either.}
+{42127}{}{Let's see: I'm going to rip off your neck, shit down your head... crap. That's not right, either.}
 {42128}{}{You're going down like a two chip whore.}
 {42129}{}{Anybody covering me? Anybody?!}
-{42130}{}{Hiiiiiyaaaaaa!!!}
+{42130}{}{Hiiiiiyaaaaaa!}
 {42131}{}{Lemme at 'em! Lemme at 'em!}
 {42132}{}{Myron! He's one bad mutha...}
 {42133}{}{Good thing all those years of AD&D has taught me a few things about courage.}
@@ -5108,7 +5108,7 @@
 {44943}{}{If there's a part of you that doesn't hurt, it's next!}
 {44944}{}{Contact sports. I love it!}
 {44945}{}{Tell me your name so I can contact your next of kin.}
-{44946}{}{I'm the one who put the 'death' in deathclaw!}
+{44946}{}{I'm the one who put the 'death' in Deathclaw!}
 {44947}{}{It's better to give than to receive!}
 {44948}{}{I hope you're enjoying this as much as I am!}
 {44949}{}{Did that hurt? If not I can do it harder next time.}
@@ -5323,7 +5323,7 @@
 #
 {70160}{}{What a fuckin' joke.}
 {70161}{}{Holy shit do you suck.}
-{70162}{}{You're lucky you missed. Actually, you're not lucky, cuz I'm still gonna kill you.}
+{70162}{}{You're lucky you missed. Actually, you're not lucky, 'cuz I'm still gonna kill you.}
 {70163}{}{Way to fail, champ.}
 #
 #
@@ -5385,7 +5385,7 @@
 {70300}{}{A cat's got to look after himself!}
 {70301}{}{Screw it, you're not worth it.}
 {70302}{}{Fuck this, I'm outta' here.}
-{70303}{}{Gotta Jet while I've still got a life to spare.}
+{70303}{}{Gotta jet while I've still got a life to spare.}
 {70304}{}{You won this time, monkey!}
 #
 # moving in to attack
@@ -5398,8 +5398,8 @@
 #
 {70340}{}{Hurry up and die so I can go take a nap.}
 {70341}{}{At least I'm killing you with style.}
-{70342}{}{You best not bleed on my clothes. }
-{70343}{}{I better not break a nail. }
+{70342}{}{You best not bleed on my clothes.}
+{70343}{}{I better not break a nail.}
 #
 # target being missed
 #
@@ -5418,17 +5418,17 @@
 #
 {70400}{}{Ah! My head!}
 {70401}{}{I think my ear's bleeding.}
-{70402}{}{C‡o! I hope that didn't break my nose.}
+{70402}{}{C√†o! I hope that didn't break my nose.}
 #
 # target hit in left arm
 #
-{70410}{}{C‡o! My arm!}
+{70410}{}{C√†o! My arm!}
 {70411}{}{Damn, that hurts!}
 {70412}{}{At least it's not broken... I don't think.}
 #
 # target hit in right arm
 #
-{70420}{}{C‡o! My arm!}
+{70420}{}{C√†o! My arm!}
 {70421}{}{Damn, that hurts!}
 {70422}{}{At least it's not broken... I don't think.}
 #
@@ -5436,7 +5436,7 @@
 #
 {70430}{}{I think I broke a rib.}
 {70431}{}{I won't die that easily.}
-{70432}{}{C‡o! That hurt!}
+{70432}{}{C√†o! That hurt!}
 #
 # target hit in right leg
 #
@@ -5452,7 +5452,7 @@
 #
 # target hit in eyes
 #
-{70460}{}{C‡o! My eyes!}
+{70460}{}{C√†o! My eyes!}
 {70461}{}{Cheap shot!}
 {70462}{}{Hey! I can't afford another eye surgery!}
 #
