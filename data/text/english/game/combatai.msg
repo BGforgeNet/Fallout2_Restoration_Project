@@ -1,6 +1,6 @@
 #
 # FALLOUT BATTLECRIES
-# When the Bomb Drops, the real fun begins - So let's get to Work!!!
+# When the Bomb Drops, the real fun begins - So let's get to work!!!
 #
 # Version 1.0  May 13, 1997  Scott Bennie
 #         1.1  May 14, 1997  Chris Taylor (edits and line number change)
@@ -150,7 +150,7 @@
 #
 # target hit in eyes
 #
-{1080}{}{Ow!! My eyes!}
+{1080}{}{Ow! My eyes!}
 {1081}{}{My face! My eyes! Arrrrgh!}
 {1082}{}{My eyes!}
 {1083}{}{Oh God, I'm blind!}
@@ -384,7 +384,7 @@
 {1261}{}{I don't need to stand to kill you!}
 {1262}{}{My knee!}
 {1263}{}{My achilles tendon!}
-{1264}{}{Aaiiiieeee!!}
+{1264}{}{Aaiiiieeee!}
 {1265}{}{There goes my foxtrot.}
 {1266}{}{I'll teach you to tear my toes off.}
 {1267}{}{Break my leg? I'll tear you apart!}
@@ -898,14 +898,14 @@
 #
 {1760}{}{Dammit! My leg!}
 {1761}{}{I don't need two legs to kick your ass.}
-{1762}{}{Gonna need a stimpack for my leg...}
+{1762}{}{Gonna need a stimpak for my leg...}
 {1763}{}{Urggg... leg's... screwed...}
 #
 # target hit in left leg
 #
 {1770}{}{Dammit! My leg!}
 {1771}{}{*Ergg* Gonna have a limp after that one...}
-{1772}{}{Gonna need a stimpack for my leg...}
+{1772}{}{Gonna need a stimpak for my leg...}
 {1773}{}{Urggg... leg's... screwed...}
 #
 # target hit in eyes
@@ -935,21 +935,21 @@
 {1801}{}{What just hit me in the head?}
 {1802}{}{Ngggg!}
 {1803}{}{Glad I'm dusted on Jet, or that would have hurt.}
-{1804}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1804}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 #
 # target hit in left arm
 #
 {1810}{}{Hey! Somebody just hit my arm!}
 {1811}{}{Look, my arm is for needles only. Stop attacking it.}
 {1812}{}{Nggggg!}
-{1813}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1813}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 #
 # target hit in right arm
 #
 {1820}{}{Hey! Somebody just hit my arm!}
 {1821}{}{Look, my arm is for needles only. Stop attacking it.}
 {1822}{}{Nggggg!}
-{1823}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1823}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 #
 # target hit in torso
 #
@@ -960,19 +960,19 @@
 {1834}{}{Whoa. My chest. You hit it. Cool.}
 {1835}{}{Nrgggg!}
 {1836}{}{*Hfff*}
-{1837}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1837}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 #
 # target hit in right leg
 #
 {1860}{}{Hey! Somebody just hit my leg!}
 {1861}{}{Hey! I walk with that leg!}
-{1862}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1862}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 #
 # target hit in left leg
 #
 {1870}{}{Hey! Somebody just hit my leg!}
 {1871}{}{Hey! I walk with that leg!}
-{1872}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1872}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 #
 # target hit in eyes
 #
@@ -1319,7 +1319,7 @@
 {2313}{}{That was fun, ta-ta.}
 {2314}{}{Whoa, time for my lunch-break.}
 {2315}{}{That was great, I broke a sweat!}
-{2316}{}{Time for more ammo and stimpacks!}
+{2316}{}{Time for more ammo and stimpaks!}
 {2317}{}{Hold it right there, I'll be back in a few.}
 {2318}{}{I've got some friends that'll want in on this action.}
 {2319}{}{Let's do that again, real soon.}
@@ -1491,7 +1491,7 @@
 {2603}{}{The dark-spirit runs strong in this one. Death walks the earth!}
 {2604}{}{The dark one is here!}
 {2605}{}{The dark one seeks to punish us. Run! My soul flees and I must follow!}
-{2606}{}{Aiiieeeee!!}
+{2606}{}{Aiiieeeee!}
 #
 # moving in to attack
 #
@@ -1826,7 +1826,7 @@
 # moving in to attack
 #
 {3220}{}{Eat this!}
-{3221}{}{You better hope you have some stimpacks... or some Jet.}
+{3221}{}{You better hope you have some stimpaks... or some Jet.}
 {3222}{}{Maybe I can sell your body for some Jet...}
 {3223}{}{Gonna... hit... you... when... I...catch... you.}
 {3224}{}{Maybe killing you will be the fix I need...}
@@ -2028,7 +2028,7 @@
 {12027}{}{Lock and load!}
 {12028}{}{Rock and roll!}
 {12029}{}{Look who just walked into the free fire zone...}
-{12030}{}{Better hope you packed some stimpacks, tribal...}
+{12030}{}{Better hope you packed some stimpaks, tribal...}
 {12031}{}{Contact!}
 {12032}{}{The area's been breached!}
 {12033}{}{We got us an intruder, boys!}
@@ -2048,7 +2048,7 @@
 {12045}{}{You want some of this?! YOU WANT SOME OF THIS?!}
 {12046}{}{Hiyaaaaaa!}
 {12047}{}{Get some!}
-{12048}{}{Better hope you packed some stimpacks, tribal...}
+{12048}{}{Better hope you packed some stimpaks, tribal...}
 {12049}{}{Kiss your ass good-bye...}
 #
 # target being missed
@@ -2113,9 +2113,9 @@
 {12200}{}{Whoa, this shit's getting too heavy.}
 {12201}{}{Time to go get some of the other boys...}
 {12202}{}{I'll get you next time!}
-{12203}{}{You're just lucky I ain't got no stimpacks on me...}
+{12203}{}{You're just lucky I ain't got no stimpaks on me...}
 {12204}{}{Time to get the hell outta Dodge.}
-{12205}{}{Need to find some stimpacks, fast...}
+{12205}{}{Need to find some stimpaks, fast...}
 #
 # moving in to attack
 #
@@ -2188,14 +2188,14 @@
 #
 {12360}{}{Dammit! My leg!}
 {12361}{}{*Ergg*}
-{12362}{}{Gonna need a stimpack for my leg...}
+{12362}{}{Gonna need a stimpak for my leg...}
 {12363}{}{Urggg... leg's... screwed...}
 #
 # target hit in left leg
 #
 {12370}{}{Dammit! My leg!}
 {12371}{}{*Ergg*}
-{12372}{}{Gonna need a stimpack for my leg...}
+{12372}{}{Gonna need a stimpak for my leg...}
 {12373}{}{Urggg... leg's... screwed...}
 #
 # target hit in eyes
@@ -2869,8 +2869,8 @@
 {32444}{}{Boy, you are a bleeder, aren't ya?}
 {32445}{}{::belch!::}
 {32446}{}{You broke the shirt, man!}
-{32447}{}{Hot lead enema coming right up!!}
-{32448}{}{Eat this!!}
+{32447}{}{Hot lead enema coming right up!}
+{32448}{}{Eat this!}
 #
 # target being missed
 #
@@ -4371,7 +4371,7 @@
 {41355}{}{Take that!}
 {41356}{}{And this!}
 {41357}{}{Bifff!}
-{41358}{}{Pow!!}
+{41358}{}{Pow!}
 {41359}{}{Kablam!}
 #
 # target being missed
@@ -4624,7 +4624,7 @@
 # target hit in head
 #
 {42000}{}{ignore the pain in my head ignore the pain in my head}
-{42001}{}{Aighh! There's blood all over my face! Help! Stimpack! Help!}
+{42001}{}{Aighh! There's blood all over my face! Help! Stimpak! Help!}
 {42002}{}{MY HEAD! MY HEAD! I'VE BEEN HIT IN THE HEAD! HELP! HELP!}
 {42003}{}{Oooooooh. There goes a few Intelligence points.}
 {42004}{}{Are these pieces of my brain in my hands?}
@@ -4637,7 +4637,7 @@
 # target hit in left arm
 #
 {42010}{}{ignore the pain in my arm ignore the pain in my arm}
-{42011}{}{Aighh! There's blood all over my arm! Help! Stimpack! Help!}
+{42011}{}{Aighh! There's blood all over my arm! Help! Stimpak! Help!}
 {42012}{}{MY ARM! MY ARM! I'VE BEEN HIT IN THE ARM! HELP! HELP!}
 {42013}{}{Not my left arm! That's my strong arm!}
 {42014}{}{Not my hand! Rosie! Rosie Palmer! Speak to me, girl!}
@@ -4648,7 +4648,7 @@
 # target hit in right arm
 #
 {42020}{}{ignore the pain in my arm ignore the pain in my arm}
-{42021}{}{Aighh! There's blood all over my arm! Help! Stimpack! Help!}
+{42021}{}{Aighh! There's blood all over my arm! Help! Stimpak! Help!}
 {42022}{}{MY ARM! MY ARM! I'VE BEEN HIT IN THE ARM! HELP! HELP!}
 {42023}{}{Not my hand! Rosie! Rosie Palmer! Speak to me, girl!}
 {42024}{}{Aighhh! My funny bone! I... I...I... must keep... from... laughing...}
@@ -4661,7 +4661,7 @@
 {42030}{}{ignore the pain in my chest ignore the pain in my chest}
 {42031}{}{My pocket protector!}
 {42032}{}{*Unfff*...hey... that... was my... last clean shirt.}
-{42033}{}{Aighh! There's blood all over my chest! Help! Stimpack! Help!}
+{42033}{}{Aighh! There's blood all over my chest! Help! Stimpak! Help!}
 {42034}{}{MY CHEST! MY CHEST! I'VE BEEN HIT IN THE CHEST! HELP! HELP!}
 {42035}{}{*Urkkk*...chest... feels like it's on fire...}
 {42036}{}{What the hell is all this blood... doing... on... my... chest...*urkkk*}
@@ -4692,7 +4692,7 @@
 # target hit in right leg
 #
 {42060}{}{ignore the pain in my leg ignore the pain in my leg}
-{42061}{}{Aighh! There's blood all over my leg! Help! Stimpack! Help!}
+{42061}{}{Aighh! There's blood all over my leg! Help! Stimpak! Help!}
 {42062}{}{MY LEG! MY LEG! I'VE BEEN HIT IN THE LEG! HELP! HELP!}
 {42063}{}{Aieeeee! I can't feel my right leg!}
 {42064}{}{Owwww! My shin!}
@@ -4704,7 +4704,7 @@
 # target hit in left leg
 #
 {42070}{}{ignore the pain in my leg ignore the pain in my leg}
-{42071}{}{Aighh! There's blood all over my leg! Help! Stimpack! Help!}
+{42071}{}{Aighh! There's blood all over my leg! Help! Stimpak! Help!}
 {42072}{}{MY LEG! MY LEG! I'VE BEEN HIT IN THE LEG! HELP! HELP!}
 {42073}{}{Aieeee! I can't feel my left leg!}
 {42074}{}{Owwww! My shin!}
@@ -4717,7 +4717,7 @@
 #
 {42080}{}{Yuh-yuh-you... huh-huh-hit me in the uh-uh-eye...}
 {42081}{}{My eye! My eye! Help! Somebody help!}
-{42082}{}{Aighh! I can't see! Help! Stimpack! Help!}
+{42082}{}{Aighh! I can't see! Help! Stimpak! Help!}
 {42083}{}{MY EYE! MY EYE!}
 {42084}{}{I'm blind! And not from masturbating!}
 {42085}{}{Owwwww! My eye! My eye!}
@@ -4734,7 +4734,7 @@
 {42093}{}{I've been Bobbit-ized!}
 {42094}{}{please let my balls be okay please let my balls be okay}
 {42095}{}{Help! I got hit in the groin! Help!}
-{42096}{}{I'm going to need fifteen stimpacks once the pain from my groin reaches my brain.}
+{42096}{}{I'm going to need fifteen stimpaks once the pain from my groin reaches my brain.}
 {42097}{}{My groin! Little Myron... speak to me, pal! Speak to me!}
 {42098}{}{Looks like it's prosthetic city when I go to the whorehouse again...}
 {42099}{}{Hitting people in the balls is MY shtick. Thanks a lot.}
