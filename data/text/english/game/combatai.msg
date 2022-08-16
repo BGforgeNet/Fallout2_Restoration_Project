@@ -2384,7 +2384,7 @@
 # attacking
 #
 {14040}{}{Have at you then.}
-{14041}{}{Touché!}
+{14041}{}{TouchÃ©!}
 {14042}{}{En garde!}
 {14043}{}{Hai-Kee-Baaa!}
 {14044}{}{I shall have you!}
@@ -5418,17 +5418,17 @@
 #
 {70400}{}{Ah! My head!}
 {70401}{}{I think my ear's bleeding.}
-{70402}{}{Cào! I hope that didn't break my nose.}
+{70402}{}{CÃ o! I hope that didn't break my nose.}
 #
 # target hit in left arm
 #
-{70410}{}{Cào! My arm!}
+{70410}{}{CÃ o! My arm!}
 {70411}{}{Damn, that hurts!}
 {70412}{}{At least it's not broken... I don't think.}
 #
 # target hit in right arm
 #
-{70420}{}{Cào! My arm!}
+{70420}{}{CÃ o! My arm!}
 {70421}{}{Damn, that hurts!}
 {70422}{}{At least it's not broken... I don't think.}
 #
@@ -5436,7 +5436,7 @@
 #
 {70430}{}{I think I broke a rib.}
 {70431}{}{I won't die that easily.}
-{70432}{}{Cào! That hurt!}
+{70432}{}{CÃ o! That hurt!}
 #
 # target hit in right leg
 #
@@ -5452,7 +5452,7 @@
 #
 # target hit in eyes
 #
-{70460}{}{Cào! My eyes!}
+{70460}{}{CÃ o! My eyes!}
 {70461}{}{Cheap shot!}
 {70462}{}{Hey! I can't afford another eye surgery!}
 #
