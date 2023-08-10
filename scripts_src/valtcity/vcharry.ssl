@@ -35,6 +35,7 @@
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 
+#define JAIL_TILE   (21915)
 
 /* Standard Script Procedures */
 procedure start;
@@ -130,8 +131,8 @@ procedure map_enter_p_proc begin
    set_self_ai(AI_TOUGH_CITIZEN);
 
    //added by killap - expansion pack (Village)
-   if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then begin
-    critter_attempt_placement(self_obj, 21915, 0);
+   if (global_var(GVAR_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY and self_tile != JAIL_TILE) then begin
+    critter_attempt_placement(self_obj, JAIL_TILE, 0);
     inven_unwield(self_obj);
     move_obj_inven_to_obj(self_obj, tile_contains_pid_obj(12112,dude_elevation,152));
     move_obj_inven_to_obj(vault_city_harry_box, tile_contains_pid_obj(12112,dude_elevation,152));
@@ -205,7 +206,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    //added by killap - expansion pack (Village)
-   if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then
+   if (global_var(GVAR_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then
     float_msg(self_obj, message_str(SCRIPT_VCHARRY, random(145, 149)), FLOAT_MSG_YELLOW);
    //end
    else if town_rep_is_vilified then begin
