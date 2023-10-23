@@ -58,6 +58,8 @@ Name: "core"; Description: "Core"; Types: "custom"; Flags: fixed;
 Name: "translation"; Description: "Language"; Types: "custom"; Flags: fixed;
 #include "components_translations.iss"
 
+#include "components_ammo.iss"
+
 Name: "walk_speed"; Description: "Walk speed fix"; Types: "custom";
 Name: "walk_speed\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
 Name: "walk_speed\low_fps"; Description: "Low FPS"; Flags: exclusive disablenouninstallwarning;
@@ -65,8 +67,6 @@ Name: "walk_speed\low_fps"; Description: "Low FPS"; Flags: exclusive disablenoun
 Name: "goris"; Description: "Faster derobing for Goris"; Types: "custom";
 Name: "goris\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
 Name: "goris\low_fps"; Description: "Low FPS"; Flags: exclusive disablenouninstallwarning;
-
-#include "components_ammo.iss"
 
 Name: "qol"; Description: "Enable sfall QoL features"; Types: "custom";
 
