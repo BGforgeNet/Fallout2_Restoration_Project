@@ -196,7 +196,9 @@ procedure destroy_p_proc begin
    inc_good_critter
    boatGrd_ptr := 0;
    set_map_var(MVAR_Use_Motor_Boat,0);
-   set_sub_flag(SHI_SUB_ALONE);
+   if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) then begin
+      set_sub_flag(SHI_SUB_ALONE);
+   end
 /* Set global_variable for Enemy status*/
 end
 
