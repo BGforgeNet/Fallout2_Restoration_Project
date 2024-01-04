@@ -19,6 +19,7 @@ procedure start;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
+export variable Entrance_Door_Ptr;
 export variable vault_city_harry_box;
 export variable vault_city_courtyard_temp_box;
 export variable plow1;
