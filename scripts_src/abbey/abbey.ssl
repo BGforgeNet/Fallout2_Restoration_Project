@@ -17,6 +17,7 @@ procedure start;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
+export variable playerTmpBox2;
 export variable abbey_bill_box_obj;
 
 procedure start
