@@ -45,6 +45,7 @@ export variable i_locker_tamper     := 0;
 export variable i_fergus_obj        := 0;
 export variable i_gunther_obj       := 0;
 export variable i_emitter_carlson_obj := 0;
+export variable lenny_obj     := 0;
 
 
 procedure start;
