@@ -45,8 +45,14 @@ export variable i_locker_tamper     := 0;
 export variable i_fergus_obj        := 0;
 export variable i_gunther_obj       := 0;
 export variable i_emitter_carlson_obj := 0;
-export variable lenny_obj     := 0;
 
+/*
+  TODO: this is a temporary workaround for a ghost object in .map file.
+  It should be removed once the map file is fixed.
+  See https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/260
+*/
+export variable lenny_obj     := 0;
+/* end todo */
 
 procedure start;
 procedure map_enter_p_proc;

@@ -19,7 +19,14 @@ procedure start;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
+/*
+  TODO: this is a temporary workaround for a ghost object in .map file.
+  It should be removed once the map file is fixed.
+  See https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/260
+*/
 export variable Entrance_Door_Ptr;
+/* end todo */
+
 export variable vault_city_harry_box;
 export variable vault_city_courtyard_temp_box;
 export variable plow1;
