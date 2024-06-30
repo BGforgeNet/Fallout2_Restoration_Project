@@ -259,3 +259,5 @@
 {30000}{}{Ah, that actually feels good. I feel like I can handle things much better now.}
 {30001}{}{Wow, this feels different. Those heart pills must be working.}
 {30100}{}{Yeah, why not... It'll help me feel like I'm dead.}
+
+{30300}{}{[Next]}

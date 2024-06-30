@@ -115,6 +115,11 @@ procedure Node1109;
 procedure Node1110;
 procedure Node1111;
 procedure Node1112;
+// female nodes split to avoid voiceover glitch
+// https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/287
+procedure Node303;
+procedure Node309;
+procedure Node314;
 
 // Cassidy floats
 procedure Node2001;
@@ -887,38 +892,50 @@ procedure Node1109 begin
 end
 
 procedure Node1110 begin
-   if( dude_is_female ) then
-      Reply( mstr(302) + " " + mstr(303) );
-   else
-      Reply(302);
-
-   if( dude_is_female ) then
-      NOption(304, Node1112, 001);
-   else
+   Reply(302);
+   if dude_is_female then begin
+      NOption(30300, Node303, 001);
+   end else begin
       NOption(305, Node1112, 001);
+      NOption(306, Node1111, 001);
+      NOption(307, Node1101a, 001);
+   end
+end
+// female only
+procedure Node303 begin
+   Reply(303);
+   NOption(304, Node1112, 001);
    NOption(306, Node1111, 001);
    NOption(307, Node1101a, 001);
 end
 
 procedure Node1111 begin
-   if( dude_is_female ) then
-      Reply( mstr(308) + " " + mstr(309) );
-   else
-      Reply(308);
-
-   if( dude_is_female ) then
-      NOption(310, Node1112, 001);
-   else
+   Reply(308);
+   if dude_is_female then begin
+      NOption(30300, Node309, 001);
+   end else begin
       NOption(311, Node1112, 001);
+      NOption(312, Node1101a, 001);
+   end
+end
+// female only
+procedure Node309 begin
+   Reply(309);
+   NOption(310, Node1112, 001);
    NOption(312, Node1101a, 001);
 end
 
 procedure Node1112 begin
-   if( dude_is_female ) then
-      Reply( mstr(313) + " " + mstr(314) );
-   else
-      Reply(314);
-
+   if dude_is_female then begin
+      Reply(313);
+      NOption(30300, Node314, 001);
+   end else begin
+      call Node314;
+   end
+end
+// male/female
+procedure Node314 begin
+   Reply(314);
    NOption(315, Node019, 001);
    NOption(316, Node1101a, 001);
    NOption(317, Node1101a, 001);
