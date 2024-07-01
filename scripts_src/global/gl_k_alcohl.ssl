@@ -2,18 +2,14 @@
 #include "../headers/define.h"
 #include "../headers/scripts.h"
 #include "../headers/command.h"
+#include "../sfall/sfall.h"
 
 procedure start;
 
-variable do_once;
 variable count;
 variable timer_shakes;
-variable timer_relief;
 variable msg;
 
-#define TIME_TWO_DAYS 1728000
-#define TIME_THREE_DAYS 2592000
-#define TIME_ONE_WEEK 6048000
 #define INTERFACE_TAG_ADDICT 4
 
 #define MSG_FILE "k_alcohl.msg"
@@ -23,6 +19,7 @@ variable msg;
 #define MSG_relieved 4
 
 #define SGVAR_last_drink_date "k_alco_d"
+#define SGVAR_time_of_alcohol_addiction "k_alco_a"
 
 /**
  * True is `x` is an alcohol bottle, False otherwise.
@@ -33,7 +30,8 @@ variable msg;
     or (obj_pid(x) == PID_BOOZE) \
     or (obj_pid(x) == PID_GAMMA_GULP_BEER) \
     or (obj_pid(x) == PID_ABBEY_BOOZE) \
-    or (obj_pid(x) == PID_ROENTGEN_RUM) )
+    or (obj_pid(x) == PID_ROENTGEN_RUM) \
+    or (obj_pid(x) == PID_ROT_GUT) )
 
 /**
  * Displays message `x` from **game** message file `msg`
@@ -62,11 +60,15 @@ procedure drink(variable who, variable item) begin
     if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then return;
 
     // regular drinking increases chances
-    if (game_time - last_drink_date >= TIME_ONE_WEEK)
-        then chance = 1;
-    else if (game_time - last_drink_date >= TIME_THREE_DAYS)
-        then chance = 5;
-    else chance = 10;
+    if ((game_time - last_drink_date) >= ONE_GAME_WEEK) then begin
+        chance = 1;
+    end
+    else if ((game_time - last_drink_date) >= (3 * ONE_GAME_DAY)) then begin
+        chance = 5;
+    end
+    else begin
+        chance = 10;
+    end
     roll = random(1, 100);
 
     // Drug reliant: double chance
@@ -80,6 +82,8 @@ procedure drink(variable who, variable item) begin
     set_critter_stat(dude_obj, STAT_ch, -1);
     if not is_iface_tag_active(INTERFACE_TAG_ADDICT) then show_iface_tag(INTERFACE_TAG_ADDICT);
     set_global_var(GVAR_ALCOHOL_ADDICT, 1);
+    set_sfall_global(SGVAR_time_of_alcohol_addiction, game_time);
+    timer_shakes = game_time;
 end
 
 // Use from main game window (hands)
@@ -103,11 +107,12 @@ procedure start begin
     if game_loaded then begin
         set_global_script_repeat(60);
         set_global_script_type(3);
-        do_once = 0;
         count = 0;
         msg = add_extra_msg_file(MSG_FILE);
         register_hook_proc(HOOK_USEOBJON, use_obj_on_obj_handler);
         register_hook_proc(HOOK_USEOBJ, use_obj_handler);
+        variable time_of_addiction;
+        timer_shakes = get_sfall_global_int(SGVAR_time_of_alcohol_addiction);
         ndebug("initialized");
         return;
     end
@@ -116,15 +121,10 @@ procedure start begin
 
     // Below: has addiction
 
-    // init timers
-    if (do_once != 1) then begin
-        do_once = 1;
-        timer_shakes = game_time;
-        timer_relief = game_time;
-    end
+    time_of_addiction = get_sfall_global_int(SGVAR_time_of_alcohol_addiction);
 
     // shakes
-    if ((game_time - timer_shakes) >= TIME_TWO_DAYS) then begin
+    if ((game_time - timer_shakes) >= (2 * ONE_GAME_DAY)) then begin
         if in_world_map then force_encounter(0);
         timer_shakes = game_time;
         if (count > 0) then
@@ -136,12 +136,13 @@ procedure start begin
     end
 
     // relief
-    if ((game_time - timer_relief) >= TIME_ONE_WEEK) then begin
+    if ((game_time - time_of_addiction) >= ONE_GAME_WEEK) then begin
         set_global_var(GVAR_ALCOHOL_ADDICT, 0);
         set_critter_stat(dude_obj, STAT_ag, 1);
         set_critter_stat(dude_obj, STAT_ch, 1);
         display_mymsg(MSG_relieved);
         if not dude_trait(TRAIT_drug_addict) then hide_iface_tag(INTERFACE_TAG_ADDICT);
+        count = 0;                                    // resetting the counter for the next addiction cycle
     end
 
 end
