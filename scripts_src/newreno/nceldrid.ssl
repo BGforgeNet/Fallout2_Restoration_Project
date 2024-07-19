@@ -106,6 +106,7 @@ procedure Node030;
 #define dude_touched_door_bit          bit_15
 #define back_room_bit                  bit_16
 #define closed_warning_bit             bit_17
+#define pistol_given_bit               bit_24
 
 #define module                         lvar_bit(LVAR_Flags, module_bit)
 #define set_module                     set_lvar_bit_on(LVAR_Flags, module_bit)
@@ -130,6 +131,9 @@ procedure Node030;
 
 #define closed_warning                 lvar_bit(LVAR_Flags, closed_warning_bit)
 #define set_closed_warning             set_lvar_bit_on(LVAR_Flags, closed_warning_bit)
+
+#define pistol_given                   lvar_bit(LVAR_Flags, pistol_given_bit)
+#define set_pistol_given               set_lvar_bit_on(LVAR_Flags, pistol_given_bit)
 
 #define give_eldridge_box(x)           if (x != current_box) then begin                               \
                                           if (current_box != 0) then begin                            \
@@ -320,6 +324,17 @@ procedure pickup_p_proc begin
    end
 end
 
+procedure ensure_pistol begin
+   // workaround for overly-aggressive wipe_inventory: restore pistol, but only once (potentially grants a second one)
+   if (not pistol_given) then begin
+      if (obj_is_carrying_obj_pid(new_reno_eldridge_box_2, PID_223_PISTOL) == 0) then begin
+         ndebug("restoring deleted .223 Pistol!");
+         give_pid_qty(new_reno_eldridge_box_2, PID_223_PISTOL, 1)
+      end
+      set_pistol_given;
+   end
+end
+
 procedure talk_p_proc begin
    //added by killap
    if (Fallout2_enclave_destroyed) then
@@ -330,6 +345,7 @@ procedure talk_p_proc begin
       gdialog_set_barter_mod(-10);
    //added by killap
 
+   call ensure_pistol;
    if (eldridge_bed_time) then begin
       call Node030;
    end else begin
@@ -358,6 +374,8 @@ end
 procedure destroy_p_proc begin
    new_reno_eldridge_obj := 0;
    move_obj_inven_to_obj(new_reno_eldridge_box, self_obj);
+
+   call ensure_pistol;
    move_obj_inven_to_obj(new_reno_eldridge_box_2, self_obj);
    give_voice_chip(self_obj)
    set_eldridge_dead;

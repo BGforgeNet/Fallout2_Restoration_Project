@@ -47,6 +47,12 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
+         variable pistol_obj := obj_carrying_pid_obj(self_obj, PID_223_PISTOL);
+         if (pistol_obj) then begin
+            ndebug("preserving .223 Pistol from inventory wipe...");
+            rm_obj_from_inven(self_obj, pistol_obj);
+         end
+
          variable tmp_box := move_critical_items();
          if (map_first_run) then begin
             give_pid_qty(self_obj, PID_223_PISTOL, 1)
@@ -62,6 +68,8 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_SUPER_SLEDGE, 1, 1, 25)
          check_restock_item(PID_BOZAR, 1, 1, 25)
          call restore_critical_items(tmp_box);
+         if (pistol_obj) then
+            add_obj_to_inven(self_obj, pistol_obj);
          set_local_var(LVAR_Restock_Time, (random(2,4) * ONE_GAME_DAY) + game_time);
       end
    end
