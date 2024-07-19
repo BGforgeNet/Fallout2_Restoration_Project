@@ -901,8 +901,7 @@ variable removed_qty;
          end
 
 #define give_pid_qty(who_obj, the_pid, pid_qty)                                           \
-           restock_obj := create_object(the_pid,0,0);                                     \
-           add_mult_objs_to_inven(who_obj, restock_obj, (pid_qty));
+         add_mult_objs_to_inven(who_obj, create_object(the_pid,0,0), (pid_qty));
 
 #define remove_armor(who_obj)                                                                            \
             if (critter_wearing_armor(who_obj)) then begin                                               \

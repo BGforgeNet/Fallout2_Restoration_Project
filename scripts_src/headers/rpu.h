@@ -135,3 +135,36 @@ end
 #define PID_VAULT_BOXER_MALE_BALD           (595)
 #define PID_FAKE_HEART_PILLS                (596)
 #endif // RPU_ITEMPID_H
+
+
+#ifndef RPU_COMMANDS_H
+#define RPU_COMMANDS_H
+
+procedure get_critical_items_list_rpu begin
+  variable appendList := [
+    // repurposed vanilla items
+    PID_MOTIVATOR,           // Abbey
+    PID_HEART_PILLS,         // Cassidy & Abbey
+    // RP added
+    PID_BUCKET,              // Umbra tribe
+    PID_ABBEY_MISSING_BOOK,  // Abbey
+    PID_EPA_BOTANY_HOLODISK, // Abbey
+    PID_EXPERIMENTAL_SEEDS,  // SanFran/Dr.Sheng
+    PID_ERSI,                // EPA companion
+    PID_DR_SHENG_PLANT_SEED, // SanFran/Dr.Sheng
+    PID_FAKE_HEART_PILLS     // Westin assassination
+  ];
+  // Combine two lists
+  variable fullList := get_critical_items_list;
+  variable upuListCount := len_array(fullList);
+  resize_array(fullList, upuListCount + len_array(appendList));
+  foreach (variable i: pid in appendList) begin
+    fullList[upuListCount + i] := pid;
+  end
+  return fullList;
+end
+
+#undef move_critical_items_call
+#define move_critical_items_call         move_critical_items_internal(get_critical_items_list_rpu)
+
+#endif // RPU_COMMANDS_H

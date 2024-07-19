@@ -165,12 +165,8 @@ procedure check_title_bad(variable title) begin
    return false;
 end
 
-// call before restock
-procedure move_critical_items begin
-   if wipe_inventory != 1 then return 0;
-   variable tmp_box := create_object(PID_FOOTLOCKER_CLEAN_LEFT, 5, 0);
-   variable pid;
-   variable pids := [
+procedure get_critical_items_list begin
+   return [
       PID_ACCOUNT_BOOK,
       PID_ANNA_GOLD_LOCKET,
       PID_BECKY_BOOK,
@@ -218,8 +214,15 @@ procedure move_critical_items begin
       PID_YELLOW_PASS_KEY,
       PID_YELLOW_REACTOR_KEYCARD
    ];
+end
+
+procedure move_critical_items_internal(variable pids) begin
+   variable tmp_box := create_object(PID_FOOTLOCKER_CLEAN_LEFT, 5, 0);
+   variable pid;
+   ndebug("Checking critical items "+len_array(pids));
    foreach pid in pids begin
       if (obj_is_carrying_obj_pid(self_obj, pid) > 0) then begin
+         ndebug("Saving critical item from wipe: " + pid);
          variable special_item := obj_carrying_pid_obj(self_obj, pid);
          rm_obj_from_inven(self_obj, special_item);
          add_obj_to_inven(tmp_box, special_item);
@@ -230,6 +233,11 @@ procedure move_critical_items begin
    destroy_object(trash_box);
    return tmp_box;
 end
+
+// call before restock
+#define move_critical_items_call          move_critical_items_internal(get_critical_items_list)
+#define move_critical_items()             move_critical_items_call if wipe_inventory == 1 else 0
+
 // call after restock
 procedure restore_critical_items(variable tmp_box) begin
    if tmp_box == 0 then return;
