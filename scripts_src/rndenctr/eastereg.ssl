@@ -642,7 +642,7 @@ procedure Node999 begin
 end
 
 procedure Node990 begin
-   if ( (beacon_rep > 1000) and (local_var(LVAR_GAVE_LIGHT_SABER) == 0) ) then
+   if ( (beacon_rep > KARMA_HOLY_WARRIOR) and (local_var(LVAR_GAVE_LIGHT_SABER) == 0) ) then
       call Node009;
    else
       call Node010;
@@ -656,7 +656,7 @@ procedure Node991 begin
 end
 
 procedure Node992 begin
-   if ( (beacon_rep < -1000) and (local_var(LVAR_GAVE_LIGHT_SABER) == 0) ) then
+   if ( (beacon_rep < KARMA_DEMON_SPAWN) and (local_var(LVAR_GAVE_LIGHT_SABER) == 0) ) then
       call Node017;
    else
       call Node016;

@@ -93,8 +93,6 @@ procedure Node008;
 import variable i_dragon_obj;
 import variable i_lopan_obj;
 
-
-
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
 
@@ -107,9 +105,19 @@ end
 procedure timed_event_p_proc begin
    variable tile;
 
-   if (fixed_param == TIMER_MOVE) then begin
-      if (i_lopan_obj != -1 and i_lopan_obj != 0) then begin
-         if (not obj_can_see_obj(self_obj, i_lopan_obj)) then begin
+   if (combat_is_initialized == false) then begin //added check by killap
+      if (fixed_param == TIMER_MOVE) then begin
+         if (i_lopan_obj != -1 and i_lopan_obj != 0) then begin
+            if (not obj_can_see_obj(self_obj, i_lopan_obj)) then begin
+               tile := tile_num_in_direction(local_var(LVAR_HomeTile), Random(0, 5), Random(5, 7));
+               if (not anim_busy(self_obj)) then begin
+                  reg_anim_clear(self_obj);
+                  reg_anim_begin();
+                  self_walk_to_tile(tile);
+                  reg_anim_end();
+               end
+            end
+         end else begin
             tile := tile_num_in_direction(local_var(LVAR_HomeTile), Random(0, 5), Random(5, 7));
             if (not anim_busy(self_obj)) then begin
                reg_anim_clear(self_obj);
@@ -118,22 +126,14 @@ procedure timed_event_p_proc begin
                reg_anim_end();
             end
          end
-      end else begin
-         tile := tile_num_in_direction(local_var(LVAR_HomeTile), Random(0, 5), Random(5, 7));
-         if (not anim_busy(self_obj)) then begin
-            reg_anim_clear(self_obj);
-            reg_anim_begin();
-            self_walk_to_tile(tile);
-            reg_anim_end();
+         add_timer_event(self_obj, ONE_GAME_SECOND * Random(5, 10), TIMER_MOVE);
+      end else if (fixed_param == TIMER_FLOAT) then begin
+         if (self_can_see_dude) then begin
+            call talk_p_proc;
          end
+         add_timer_event(self_obj, ONE_GAME_SECOND * Random(1, 7), TIMER_FLOAT);
       end
-      add_timer_event(self_obj, ONE_GAME_SECOND * Random(5, 10), TIMER_MOVE);
-   end else if (fixed_param == TIMER_FLOAT) then begin
-      if (self_can_see_dude) then begin
-         call talk_p_proc;
-      end
-      add_timer_event(self_obj, ONE_GAME_SECOND * Random(1, 7), TIMER_FLOAT);
-   end
+   end //end by killap
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -177,7 +177,7 @@ procedure damage_p_proc begin
    his personal enemy. In Critter_Proc or through dialog, actions will be taken against
    the player for his evil acts. */
    if (obj_in_party(source_obj)) then begin
-       set_local_var(LVAR_Personal_Enemy,1);
+      set_local_var(LVAR_Personal_Enemy,1);
       set_san_fran_flag(SF_LOPAN_ENEMY);
    end
 
@@ -187,7 +187,7 @@ end
    In here, various things can happen. The most common response is instant hostility which
    will be remembered. */
 procedure pickup_p_proc begin
-   if (obj_in_party(source_obj)) then begin
+   if (source_obj == dude_obj) then begin
       set_local_var(LVAR_Hostile,2);
    end
 end
@@ -196,7 +196,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-/*   Evil_Critter:=0;
+/*   Evil_Critter:=1;
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION1;
 
@@ -223,7 +223,7 @@ procedure talk_p_proc begin
       call Node003;
    end else if (san_fran_flag(SF_DRAGON_DEAD)) then begin
       call Node004;
-   end else if (check_general_rep < KARMA_DEFENDER) then begin
+   end else if (cult_rep < KARMA_DEFENDER) then begin
       call Node002;
    end else if (san_fran_flag(SF_LEE_DEAD)) then begin
       call Node005;

@@ -96,6 +96,7 @@ procedure self_is_evil begin
       "dcslvgrt",
       "ecmstden",
       "ecmstnew",
+      "fcbadpea",
       "fcdaveh",
       "fcelrind",
       "fcjuavki",

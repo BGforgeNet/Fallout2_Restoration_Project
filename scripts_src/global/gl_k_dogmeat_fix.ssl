@@ -1,20 +1,82 @@
-// temp fix for Dogmeat floats, see https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/154
+// fix for Dogmeat AI packets, see https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/154
 
 #define SCRIPT_REALNAME "gl_k_dogmeat_fix"
 #include "../headers/define.h"
 #include "../headers/command.h"
+#include "../sfall/dik.h"
 
-procedure map_enter_p_proc begin
-    if Dogmeat_Ptr then begin
-        variable aiPacket := get_ai(Dogmeat_Ptr);
-        if (aiPacket != AI_PARTY_DOGMEAT_AGRESSIVE) and (aiPacket != AI_PARTY_DOGMEAT_CUSTOM) then begin
-            set_ai(Dogmeat_Ptr, AI_PARTY_DOGMEAT_CUSTOM); // reset
-        end
-    end
-end
+procedure start;
+procedure gamemodechange_handler;
+procedure dogmeat_ai_fix;
+
+variable
+   dogmeatPtr,
+   dogmeatCheck,
+   dogmeatTalk;
 
 procedure start begin
-    if game_loaded then begin
-        call map_enter_p_proc;
-    end
+   if game_loaded then begin
+      call dogmeat_ai_fix;
+      register_hook_proc(HOOK_GAMEMODECHANGE, gamemodechange_handler);
+      set_global_script_type(1);
+   end else begin
+      // check running in the background during dialogue with Dogmeat
+      if dogmeatCheck then begin
+         variable aiPacket := get_ai(dogmeatPtr);
+
+         if (aiPacket < AI_PARTY_DOGMEAT_AGRESSIVE) then begin
+            set_ai(dogmeatPtr, AI_PARTY_DOGMEAT_BERSERK);
+            //ndebug("Fix Dogmeat AI - Berserk.");
+         end else if (aiPacket > AI_PARTY_DOGMEAT_BERSERK and aiPacket < AI_PARTY_DOGMEAT_CUSTOM) then begin
+            set_ai(dogmeatPtr, AI_PARTY_DOGMEAT_AGRESSIVE);
+            //ndebug("Fix Dogmeat AI - Aggressive.");
+         end else if (aiPacket > AI_PARTY_DOGMEAT_CUSTOM) then begin
+            set_ai(dogmeatPtr, AI_PARTY_DOGMEAT_CUSTOM);
+            tap_key(DIK_ESCAPE); // avoid showing incorrect option msg text
+            //ndebug("Fix Dogmeat AI - Custom.");
+         end
+      end
+   end
+end
+
+procedure gamemodechange_handler begin
+   variable
+      prevMode := get_sfall_arg_at(1),
+      gameMode := get_game_mode;
+
+   if ((gameMode bwand DIALOG) and not(prevMode bwand DIALOG)) then begin // enter dialogue
+      if (obj_pid(dialog_obj) == PID_DOGMEAT) then begin
+         set_global_script_repeat(5);
+         dogmeatPtr := dialog_obj;
+         dogmeatCheck := Dogmeat_In_Party;
+         dogmeatTalk := true;
+         //ndebug("Start dialogue with Dogmeat, in party: " + dogmeatCheck);
+      end
+      return;
+   end
+
+   if not dogmeatTalk then return;
+
+   if (gameMode bwand SPECIAL) then begin
+      if (gameMode bwand DIALOG) then begin // join/leave party in dialogue
+         dogmeatCheck := Dogmeat_In_Party;
+         //ndebug("Dogmeat join/leave party, in party: " + dogmeatCheck);
+      end else begin // exit dialogue
+         set_global_script_repeat(0);
+         dogmeatPtr := 0;
+         dogmeatCheck := false;
+         dogmeatTalk := false;
+         //ndebug("Stop running background check.");
+      end
+   end
+end
+
+procedure dogmeat_ai_fix begin
+   if Dogmeat_In_Party then begin
+      variable aiPacket := get_ai(Dogmeat_Ptr);
+      if (aiPacket != AI_PARTY_DOGMEAT_AGRESSIVE and aiPacket != AI_PARTY_DOGMEAT_BERSERK and aiPacket != AI_PARTY_DOGMEAT_CUSTOM) then begin
+         set_ai(Dogmeat_Ptr, AI_PARTY_DOGMEAT_CUSTOM); // reset
+         //ndebug("Reset bugged Dogmeat AI.");
+      end
+   end
 end

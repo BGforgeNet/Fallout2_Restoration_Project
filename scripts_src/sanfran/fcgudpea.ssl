@@ -73,6 +73,7 @@ procedure Node008;
 
 #define TIMER_MOVE   1
 #define TIMER_FLOAT  2
+
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
 // seen by the design Tool
@@ -103,12 +104,20 @@ end
 
 procedure timed_event_p_proc begin
    variable tile;
-   variable hello;
 
- if (combat_is_initialized == false) then begin //added check by killap
-   if (fixed_param == TIMER_MOVE) then begin
-      if (i_dragon_obj != -1 and i_dragon_obj != 0) then begin
-         if (not obj_can_see_obj(self_obj, i_dragon_obj)) then begin
+   if (combat_is_initialized == false) then begin //added check by killap
+      if (fixed_param == TIMER_MOVE) then begin
+         if (i_dragon_obj != -1 and i_dragon_obj != 0) then begin
+            if (not obj_can_see_obj(self_obj, i_dragon_obj)) then begin
+               tile := tile_num_in_direction(local_var(LVAR_HomeTile), Random(0, 5), Random(5, 7));
+               if (not anim_busy(self_obj)) then begin
+                  reg_anim_clear(self_obj);
+                  reg_anim_begin();
+                  self_walk_to_tile(tile);
+                  reg_anim_end();
+               end
+            end
+         end else begin
             tile := tile_num_in_direction(local_var(LVAR_HomeTile), Random(0, 5), Random(5, 7));
             if (not anim_busy(self_obj)) then begin
                reg_anim_clear(self_obj);
@@ -117,23 +126,14 @@ procedure timed_event_p_proc begin
                reg_anim_end();
             end
          end
-      end else begin
-         tile := tile_num_in_direction(local_var(LVAR_HomeTile), Random(0, 5), Random(5, 7));
-         if (not anim_busy(self_obj)) then begin
-            reg_anim_clear(self_obj);
-            reg_anim_begin();
-            self_walk_to_tile(tile);
-            reg_anim_end();
+         add_timer_event(self_obj, ONE_GAME_SECOND * Random(5, 10), TIMER_MOVE);
+      end else if (fixed_param == TIMER_FLOAT) then begin
+         if (self_can_see_dude) then begin
+            call talk_p_proc;
          end
+         add_timer_event(self_obj, ONE_GAME_SECOND * Random(1, 7), TIMER_FLOAT);
       end
-      add_timer_event(self_obj, ONE_GAME_SECOND * Random(5, 10), TIMER_MOVE);
-   end else if (fixed_param == TIMER_FLOAT) then begin
-      if (self_can_see_dude) then begin
-         call talk_p_proc;
-      end
-      add_timer_event(self_obj, ONE_GAME_SECOND * Random(1, 7), TIMER_FLOAT);
-   end
- end //end by killap
+   end //end by killap
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -188,7 +188,7 @@ end
    will be remembered. */
 procedure pickup_p_proc begin
    if (source_obj == dude_obj) then begin
-       set_local_var(LVAR_Hostile,2);
+      set_local_var(LVAR_Hostile,2);
    end
 end
 
@@ -223,7 +223,7 @@ procedure talk_p_proc begin
       call Node004;
    end else if (san_fran_flag(SF_LOPAN_DEAD)) then begin
       call Node003;
-   end else if (check_general_rep < KARMA_DEFENDER) then begin
+   end else if (cult_rep < KARMA_DEFENDER) then begin
       call Node002;
    end else if (san_fran_flag(SF_LEE_DEAD)) then begin
       call Node005;

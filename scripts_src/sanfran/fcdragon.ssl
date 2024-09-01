@@ -590,7 +590,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node4_5 begin
-   if (check_general_rep > 249) then
+   if (cult_rep >= KARMA_DEFENDER) then
       call Node004;
    else
       call Node005;

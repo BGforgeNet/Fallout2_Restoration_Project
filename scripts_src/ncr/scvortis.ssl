@@ -655,7 +655,7 @@ end
 
 procedure Node035 begin
    variable dude_goody_two_shoes;
-   if (check_general_rep > KARMA_SHIELD_OF_HOPE) then
+   if (cult_rep > KARMA_SHIELD_OF_HOPE) then
      dude_goody_two_shoes := 1;
    else
      dude_goody_two_shoes := 0;
@@ -678,7 +678,7 @@ end
 
 procedure Node993 begin
   variable price;
-  if (check_general_rep > KARMA_SHIELD_OF_HOPE) then
+  if (cult_rep > KARMA_SHIELD_OF_HOPE) then
     price := 2000;
   else
     price := 1000;

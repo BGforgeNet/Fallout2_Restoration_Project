@@ -751,7 +751,7 @@ nbodyEnd
 
 procedure Node2413a begin
    set_merk_status(MERK_STATUS_BAD_REACTION);
-//   if (check_general_rep <= KARMA_SWORD_OF_DESPAIR) then
+//   if (cult_rep <= KARMA_SWORD_OF_DESPAIR) then
    if (dude_strength >= 8) then //added by killap
       call Node024;
    else
