@@ -51,14 +51,13 @@ end
 
 procedure timed_event_p_proc begin
    // brahmin wander around in random directions.
-   if (((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE)
-    and (not(combat_is_initialized))) then begin
+   if (((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) and (not(combat_is_initialized))) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),3));
+         self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), 3));
       reg_anim_end();
    end
-   add_timer_event(self_obj,game_ticks(random(3,5)),1);
+   flush_add_timer_event_sec(self_obj, random(3, 5), 1);
 end
 
 procedure critter_p_proc begin
@@ -66,6 +65,7 @@ end
 
 procedure pickup_p_proc begin
 end
+
 procedure talk_p_proc begin
 end
 
@@ -76,7 +76,7 @@ procedure damage_p_proc begin
    // attacking the Brahmin makes you an enemy of Arroyo.
    if (source_obj == dude_obj) then begin
       set_global_var(GVAR_ENEMY_ARROYO,TRUE);
-	end
+   end
 end
 
 procedure look_at_p_proc begin
@@ -92,21 +92,20 @@ end
 procedure use_obj_on_p_proc begin
    // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
    //    fallout script
-   if ((obj_pid(obj_being_used_with) == PID_BEER)
-    or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
+   if (is_alcohol(obj_being_used_with)) then begin
       variable item := 0;
       script_overrides;
       item := obj_being_used_with;
-      rm_obj_from_inven(source_obj,obj_being_used_with);
+      rm_obj_from_inven(source_obj, obj_being_used_with);
       destroy_object(item);
       if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
-            reg_anim_animate(self_obj,ANIM_fall_back,5);
-            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+            reg_anim_animate(self_obj, ANIM_hit_from_front, -1);
+            reg_anim_animate(self_obj, ANIM_fall_back, 5);
+            reg_anim_animate(self_obj, ANIM_fall_back_sf, -1);
          reg_anim_end();
-         critter_injure(self_obj,DAM_KNOCKED_DOWN);
+         critter_injure(self_obj, DAM_KNOCKED_DOWN);
       end
    end
 end
@@ -115,10 +114,7 @@ procedure use_skill_on_p_proc begin
    // a good science skill check will give you a little more info about the brahmin.
    if (action_being_used == SKILL_SCIENCE) then begin
       script_overrides;
-      if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then
-         display_msg(br_mstr(101));
-      else
-         display_msg(br_mstr(102));
+      display_msg(br_mstr(102 - (is_success(roll_vs_skill(dude_obj, action_being_used, 0)))));
    end else if (action_being_used == SKILL_STEAL) then
       script_overrides;
 end
@@ -127,5 +123,11 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    set_self_team(TEAM_ARROYO);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_VILLAGER);
-   add_timer_event(self_obj,game_ticks(random(1,5)),1);
+   if (is_loading_game == false) then begin
+      if (critter_state(self_obj) bwand DAM_KNOCKED_DOWN) then begin
+         animate_stand;
+         move_to(self_obj, self_tile, self_elevation); // avoid visual offset shifting
+      end
+      flush_add_timer_event_sec(self_obj, random(1, 5), 1);
+   end
 end

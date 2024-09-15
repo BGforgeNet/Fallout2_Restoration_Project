@@ -77,7 +77,7 @@ variable critter;
       end else begin
 
          //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
-         if ((car_current_town == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+         if ((car_current_town == AREA_CAR_OUTTA_GAS) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
             set_global_var(GVAR_CAR_PLACED_TILE, 0);
             Create_Car(CAR_NEW_RENO1_HEX,CAR_NEW_RENO_ELEV)
             if (tile_contains_pid_obj(CAR_NEW_RENO1_HEX, CAR_NEW_RENO_ELEV, PID_DRIVABLE_CAR) != 0) then begin

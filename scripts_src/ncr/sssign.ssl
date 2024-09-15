@@ -206,7 +206,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if (check_general_rep < KARMA_BETRAYER) then
+   if (beacon_rep < KARMA_BETRAYER) then
       Reply(121);
    else
       Reply(122);
@@ -216,7 +216,7 @@ procedure Node005 begin
 end
 
 procedure Node006 begin
-   if (check_general_rep < KARMA_BETRAYER) then
+   if (beacon_rep < KARMA_BETRAYER) then
       Reply(125);
    else
       Reply(126);

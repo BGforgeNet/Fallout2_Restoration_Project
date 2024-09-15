@@ -51,15 +51,16 @@ end
 
 procedure pickup_p_proc begin
 end
+
 procedure talk_p_proc begin
 end
 
 procedure destroy_p_proc begin
-  set_global_var(GVAR_TORR_BRAHMIN_KILLED,global_var(GVAR_TORR_BRAHMIN_KILLED)+1);
-  if (source_obj == dude_obj) then begin
-     set_global_var(GVAR_RUSTLE_FAIL,1); //if dude starts killing brahmin rustle will fail
-     set_map_var(MVAR_Dude_Bad,1);
-  end
+   set_global_var(GVAR_TORR_BRAHMIN_KILLED, global_var(GVAR_TORR_BRAHMIN_KILLED) + 1);
+   if (source_obj == dude_obj) then begin
+      set_global_var(GVAR_RUSTLE_FAIL, 1); //if dude starts killing brahmin rustle will fail
+      set_map_var(MVAR_Dude_Bad, 1);
+   end
 end
 
 procedure damage_p_proc begin
@@ -82,21 +83,20 @@ end
 procedure use_obj_on_p_proc begin
    // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
    //    fallout script
-   if ((obj_pid(obj_being_used_with) == PID_BEER)
-    or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
+   if (is_alcohol(obj_being_used_with)) then begin
       variable item := 0;
       script_overrides;
       item := obj_being_used_with;
-      rm_obj_from_inven(source_obj,obj_being_used_with);
+      rm_obj_from_inven(source_obj, obj_being_used_with);
       destroy_object(item);
       if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
-            reg_anim_animate(self_obj,ANIM_fall_back,5);
-            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+            reg_anim_animate(self_obj, ANIM_hit_from_front, -1);
+            reg_anim_animate(self_obj, ANIM_fall_back, 5);
+            reg_anim_animate(self_obj, ANIM_fall_back_sf, -1);
          reg_anim_end();
-         critter_injure(self_obj,DAM_KNOCKED_DOWN);
+         critter_injure(self_obj, DAM_KNOCKED_DOWN);
       end
    end
 end
@@ -105,18 +105,21 @@ procedure use_skill_on_p_proc begin
    // a good science skill check will give you a little more info about the brahmin.
    if (action_being_used == SKILL_SCIENCE) then begin
       script_overrides;
-      if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then
-         display_msg(br_mstr(101));
-      else
-         display_msg(br_mstr(102));
+      display_msg(br_mstr(102 - (is_success(roll_vs_skill(dude_obj, action_being_used, 0)))));
    end else if (action_being_used == SKILL_STEAL) then
       script_overrides;
 end
 
 procedure map_enter_p_proc begin
    if (global_var(GVAR_RUSTLE_SUCCESS) != 0) then begin //Hack for alpah...use critter attempt placement
-        set_self_invisible;
+      set_self_invisible;
    end
    set_self_team(TEAM_BRAHMIN);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_VILLAGER);
+   if (is_loading_game == false) then begin
+      if (critter_state(self_obj) bwand DAM_KNOCKED_DOWN) then begin
+         animate_stand;
+         move_to(self_obj, self_tile, self_elevation); // avoid visual offset shifting
+      end
+   end
 end

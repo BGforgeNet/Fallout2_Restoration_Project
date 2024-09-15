@@ -64,6 +64,7 @@
 {260}{}{Meistens bastle ich nur so an den Teilen rum. Bau se auseinander und wieder zusammen... meistens jedenfalls. Reparier se... manchmal. Halt mir Ärger vom Hals. Wenn du weißt, was ich mein...}
 {261}{}{Ich denk schon. Eine Frage noch.}
 {262}{}{Ähm, ich werd dann mal gehn und was tun. Tschüss.}
+{263}{}{Gibts irgendwas wobei ich dir helfen kann?}
 {270}{}{Du suchst 'n GECK, was? Ich weiß nicht so recht, wo du so was finden könntest. Ich weiß, dasse in Vault City wohl früher eins hatten.}
 {271}{}{Vault City hatte eins?}
 {272}{}{Hmm, ich möcht dich aber noch was andres fragen.}

@@ -64,6 +64,7 @@
 {260}{}{D'habitude, j'trafique des trucs. J'les démonte et j'essaie d'les remonter... En général. Des fois, ça marche mieux après... J'veux pas de problèmes. Tu vois c'que je veux dire ?}
 {261}{}{J'imagine. J'ai quelque chose d'autre à te demander.}
 {262}{}{Eh bien, je crois que je devrais y aller. Au revoir.}
+{263}{}{En quoi puis-je t'être utile ?}
 {270}{}{Tu cherches un J.E.K, hein ? Ben, j'chais pas exactement où tu peux trouver un truc comme ça. Mais j'crois que la Cité de l'Abri en avait un.}
 {271}{}{La Cité de l'Abri en avait un ?}
 {272}{}{Hum, eh bien, j'aurais autre chose à te demander.}

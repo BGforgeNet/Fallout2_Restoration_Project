@@ -48,6 +48,11 @@ procedure Node003;
 #define br_mstr(x)                        message_str(SCRIPT_ZCBRAHMN,x)
 #define br_floater(x)                     float_msg(self_obj, br_mstr(x), FLOAT_COLOR_NORMAL)
 
+#define TIMER_FLOAT                       1 // unused?
+#define TIMER_POOP                        3
+#define TIMER_STAND_UP                    4
+#define TIMER_ESCAPE                      5
+
 #define LVAR_Flags                        (0)
 #define LVAR_Graze_Tile                   (1)
 #define LVAR_FOLLOW_DISTANCE              (2)
@@ -98,34 +103,36 @@ procedure start begin
 end
 
 procedure timed_event_p_proc begin
-variable temp_poo;
+   variable temp_poo;
    if (fixed_param == 666) then begin
       put_jerky_in_box
       critter_damage(self_obj, 100);
    end else if (self_visible) then begin
-      if (fixed_param == 1) then begin
-            br_floater(random(201, 206));
-         add_timer_event(self_obj,game_ticks(random(5,15)),1);
-      end else if (fixed_param == 3) then begin
+      if (fixed_param == TIMER_FLOAT) then begin
+         br_floater(random(201, 206));
+         flush_add_timer_event_sec(self_obj, random(5, 15), TIMER_FLOAT);
+      end else if (fixed_param == TIMER_POOP) then begin
          if (bess_is_injured == false) then begin
-            if (random(1,3) == 1) then begin
+            if (random(1, 3) == 1) then begin
                br_floater(206);
                temp_poo := create_object_sid(random(PID_SMALL_GOO_1, PID_SMALL_GOO_3), 0, 0, SCRIPT_ZIBRAPOO);
-               move_to(temp_poo, tile_num_in_direction(self_tile, self_inv_rot, 1), 0);
+               move_to(temp_poo, tile_num_in_direction(self_tile, self_inv_rot, 1), self_elevation);
             end
-            flush_add_timer_event_sec(self_obj, random(120, 300), 3);
+            flush_add_timer_event_sec(self_obj, random(120, 300), TIMER_POOP);
          end
-      end else if (fixed_param == 4) then begin
-         reg_anim_clear(self_obj);
-         reg_anim_begin();
-            reg_anim_animate(self_obj, ANIM_back_to_standing, -1);
-         reg_anim_end();
-         critter_uninjure(self_obj, DAM_KNOCKED_DOWN);
+      end else if (fixed_param == TIMER_STAND_UP) then begin
+         if (critter_state(self_obj) bwand DAM_KNOCKED_DOWN) then begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+               reg_anim_animate(self_obj, ANIM_back_to_standing, -1);
+            reg_anim_end();
+            critter_uninjure(self_obj, DAM_KNOCKED_DOWN);
+         end
       //added by killap
-      end else if (fixed_param == 5) then begin
+      end else if (fixed_param == TIMER_ESCAPE) then begin
          if not anim_busy(self_obj) then begin
-            self_walk_to_tile(tile_num_in_direction(self_tile,1,3));
-            add_timer_event(self_obj, game_ticks(1), 5);
+            self_walk_to_tile(tile_num_in_direction(self_tile, 1, 3));
+            flush_add_timer_event_sec(self_obj, 1, TIMER_ESCAPE);
          end
       end
       //end added
@@ -137,7 +144,7 @@ procedure critter_p_proc begin
    if (self_visible) then begin
       if not healed and not (critter_state(self_obj) bwand DAM_CRIP_LEG_RIGHT) then begin
          set_healed;
-         flush_add_timer_event_sec(self_obj, random(120, 300), 3);
+         flush_add_timer_event_sec(self_obj, random(120, 300), TIMER_POOP);
          inc_general_rep(REP_BONUS_MODOC_HELP_BESS);
          party_add_self;
          reg_anim_clear(self_obj);
@@ -153,7 +160,7 @@ procedure critter_p_proc begin
             self_walk_to_tile(map_next_tile);
             //added by killap
             if not anim_busy(self_obj) then begin
-               add_timer_event(self_obj, game_ticks(1), 5);
+               flush_add_timer_event_sec(self_obj, 1, TIMER_ESCAPE);
             end
             //end added
          end else begin
@@ -225,10 +232,7 @@ procedure use_skill_on_p_proc begin
    // a good science skill check will give you a little more info about the brahmin.
    if (action_being_used == SKILL_SCIENCE) then begin
       script_overrides;
-      if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then
-         display_msg(br_mstr(101));
-      else
-         display_msg(br_mstr(102));
+      display_msg(br_mstr(102 - (is_success(roll_vs_skill(dude_obj, action_being_used, 0)))));
    end else if (action_being_used == SKILL_FIRST_AID) then begin
       if (healed == false) then begin
          script_overrides;
@@ -248,20 +252,20 @@ procedure use_obj_on_p_proc begin
 
    // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
    //    fallout script
-   if ((obj_pid(obj_being_used_with) == PID_BEER) or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
+   if (is_alcohol(obj_being_used_with)) then begin
       variable item := 0;
       script_overrides;
       item := obj_being_used_with;
-      rm_obj_from_inven(source_obj,obj_being_used_with);
+      rm_obj_from_inven(source_obj, obj_being_used_with);
       destroy_object(item);
       if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
-            reg_anim_animate(self_obj,ANIM_fall_back,5);
-            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+            reg_anim_animate(self_obj, ANIM_hit_from_front, -1);
+            reg_anim_animate(self_obj, ANIM_fall_back, 5);
+            reg_anim_animate(self_obj, ANIM_fall_back_sf, -1);
          reg_anim_end();
-         critter_injure(self_obj,DAM_KNOCKED_DOWN);
+         critter_injure(self_obj, DAM_KNOCKED_DOWN);
       end
    end
 end
@@ -273,12 +277,12 @@ procedure push_p_proc begin
             if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
-                  reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
-                  reg_anim_animate(self_obj,ANIM_fall_back,5);
-                  reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+                  reg_anim_animate(self_obj, ANIM_hit_from_front ,-1);
+                  reg_anim_animate(self_obj, ANIM_fall_back, 5);
+                  reg_anim_animate(self_obj, ANIM_fall_back_sf, -1);
                reg_anim_end();
-               critter_injure(self_obj,DAM_KNOCKED_DOWN);
-               add_timer_event(self_obj, game_ticks(Random(10, 30)), 4);
+               critter_injure(self_obj, DAM_KNOCKED_DOWN);
+               add_timer_event(self_obj, game_ticks(random(10, 30)), TIMER_STAND_UP);
                ndebug("ahh Cow TIPPED you get +10 Hick Experience Points.");
             end
          end
@@ -295,9 +299,9 @@ procedure map_enter_p_proc begin
          if (healed == false) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-               reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
-               reg_anim_animate(self_obj,ANIM_fall_back,5);
-               reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+               reg_anim_animate(self_obj, ANIM_hit_from_front, -1);
+               reg_anim_animate(self_obj, ANIM_fall_back, 5);
+               reg_anim_animate(self_obj, ANIM_fall_back_sf, -1);
             reg_anim_end();
             critter_injure(self_obj, DAM_CRIP_LEG_RIGHT);
          end
@@ -305,6 +309,10 @@ procedure map_enter_p_proc begin
 
       //added by killap
       if ( (healed) and not(freed_bess) and not(bess_sold_for_jerky) ) then begin
+         if (critter_state(self_obj) bwand DAM_KNOCKED_DOWN) then begin
+            animate_stand;
+            move_to(self_obj, self_tile, self_elevation); // avoid visual offset shifting
+         end
          party_add_self;
       end
       //end added by killap
@@ -367,7 +375,7 @@ procedure Node990 begin
 end
 
 procedure Node002 begin
-variable temp_msg;
+   variable temp_msg;
    temp_msg := mstr(130);
    if (dude_perk(PERK_empathy)) then begin
       temp_msg += mstr(131);
@@ -378,7 +386,7 @@ variable temp_msg;
 end
 
 procedure Node003 begin
-variable temp_msg;
+   variable temp_msg;
    temp_msg := mstr(140);
    if (dude_perk(PERK_empathy)) then begin
       temp_msg += mstr(141);

@@ -45,6 +45,10 @@ procedure timed_event_p_proc;
 #define br_mstr(x)                        message_str(SCRIPT_ZCBRAHMN,x)
 #define br_floater(x)                     float_msg(self_obj, br_mstr(x), FLOAT_COLOR_NORMAL)
 
+#define TIMER_WALK                        1
+#define TIMER_FLOAT                       2
+#define TIMER_POOP                        3
+
 #define LVAR_Graze_Tile                   (0)
 #define LVAR_Flags                        (1)
 
@@ -80,29 +84,30 @@ procedure start begin
 end
 
 procedure timed_event_p_proc begin
-variable temp_poo;
-   if (fixed_param == 1) then begin
+   variable temp_poo;
+   if (fixed_param == TIMER_WALK) then begin
       if (combat_is_initialized == false) then begin
          set_graze_tile
       end
-      flush_add_timer_event_sec(self_obj, random(45, 90), 1);
-   end if (fixed_param == 2) then begin
+      flush_add_timer_event_sec(self_obj, random(45, 90), TIMER_WALK);
+   end if (fixed_param == TIMER_FLOAT) then begin
       if (combat_is_initialized == false) then begin
          br_floater(random(201, 205));
       end
-      flush_add_timer_event_sec(self_obj, random(30, 45), 2);
-   end else if (fixed_param == 3) then begin
+      flush_add_timer_event_sec(self_obj, random(30, 45), TIMER_FLOAT);
+   end else if (fixed_param == TIMER_POOP) then begin
       if (combat_is_initialized == false) then begin
-         if (random(1,3) == 1) then begin
+         if (random(1, 3) == 1) then begin
             br_floater(206);
             ndebug("BRAHMIN IS POOING!!! hehehehe");
             temp_poo := create_object_sid(random(PID_SMALL_GOO_1, PID_SMALL_GOO_3), 0, 0, SCRIPT_ZIBRAPOO);
-            move_to(temp_poo, tile_num_in_direction(self_tile, self_inv_rot, 1), 0);
+            move_to(temp_poo, tile_num_in_direction(self_tile, self_inv_rot, 1), self_elevation);
          end
       end
-      flush_add_timer_event_sec(self_obj, random(120, 300), 3);
+      flush_add_timer_event_sec(self_obj, random(120, 300), TIMER_POOP);
    end
 end
+
 procedure combat_p_proc begin
    set_brahimin_obj;
 end
@@ -153,20 +158,20 @@ end
 procedure use_obj_on_p_proc begin
    // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
    //    fallout script
-   if ((obj_pid(obj_being_used_with) == PID_BEER) or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
+   if (is_alcohol(obj_being_used_with)) then begin
       variable item := 0;
       script_overrides;
       item := obj_being_used_with;
-      rm_obj_from_inven(source_obj,obj_being_used_with);
+      rm_obj_from_inven(source_obj, obj_being_used_with);
       destroy_object(item);
       if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
-            reg_anim_animate(self_obj,ANIM_fall_back,5);
-            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+            reg_anim_animate(self_obj, ANIM_hit_from_front, -1);
+            reg_anim_animate(self_obj, ANIM_fall_back, 5);
+            reg_anim_animate(self_obj, ANIM_fall_back_sf, -1);
          reg_anim_end();
-         critter_injure(self_obj,DAM_KNOCKED_DOWN);
+         critter_injure(self_obj, DAM_KNOCKED_DOWN);
       end
    end
 end
@@ -175,7 +180,7 @@ procedure use_skill_on_p_proc begin
    // a good science skill check will give you a little more info about the brahmin.
    if (action_being_used == SKILL_SCIENCE) then begin
       script_overrides;
-      display_msg(br_mstr(101 + (is_success(roll_vs_skill(dude_obj,action_being_used,0)))));
+      display_msg(br_mstr(102 - (is_success(roll_vs_skill(dude_obj, action_being_used, 0)))));
    end else if (action_being_used == SKILL_STEAL) then
       script_overrides;
 end
@@ -191,16 +196,20 @@ procedure map_enter_p_proc begin
          set_self_team(TEAM_MODOC_SEED_BRAHMIN);
          set_self_ai(AI_SCARED_BRAHMIN);
       end
-      flush_add_timer_event_sec(self_obj, random(15, 90), 1);
-      flush_add_timer_event_sec(self_obj, random(5, 15), 2);
-      flush_add_timer_event_sec(self_obj, random(0, 300), 3);
+      if (critter_state(self_obj) bwand DAM_KNOCKED_DOWN) then begin
+         animate_stand;
+         move_to(self_obj, self_tile, self_elevation); // avoid visual offset shifting
+      end
+      flush_add_timer_event_sec(self_obj, random(15, 90), TIMER_WALK);
+      flush_add_timer_event_sec(self_obj, random(5, 15), TIMER_FLOAT);
+      flush_add_timer_event_sec(self_obj, random(0, 300), TIMER_POOP);
    end
 end
 
 procedure map_exit_p_proc begin
    //added by killap
    if (cur_map_index == MAP_MODOC_BRAHMINPASTURES) then begin
-     rm_timer_event(self_obj);
+      rm_timer_event(self_obj);
    end
    //end added
 end

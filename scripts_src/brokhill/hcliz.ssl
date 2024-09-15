@@ -423,7 +423,7 @@ procedure Node001 begin
       NOption(106,Node003,002);
    NOption(107,Node007,004);
    NOption(108,Node008,004);
-   if ( check_general_rep <= KARMA_BETRAYER) then
+   if ( beacon_rep <= KARMA_BETRAYER) then
       NOption(109,Node009,004);
    if ( ( map_var(MVAR_Know_Liz_Guns) == 1 ) and ( map_var( MVAR_Basement_Permission ) == 0 ) ) then
       NOption(110,Node010,004);

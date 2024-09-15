@@ -64,6 +64,7 @@
 {260}{}{Zazwyczaj po prostu grzebię przy różnych rzeczach. Rozbieram je, a potem próbuję je złożyć. Czasem przez to działają lepiej, czasem. Unikam kłopotów, rozumiesz?}
 {261}{}{Chyba tak. Pozwól, że spytam cię o coś innego.}
 {262}{}{Lepiej też się czymś zajmę. Do widzenia.}
+{263}{}{Jest coś w czym mogę ci pomóc?}
 {270}{}{Szukasz GECKa, co? Zupełnie nie wiem, gdzie można by go teraz znaleźć. Wiem, że Kryptopolis prawdopodobnie miało to coś.}
 {271}{}{Kryptopolis go miało?}
 {272}{}{Hmm. Pozwól, że spytam cię o coś innego.}

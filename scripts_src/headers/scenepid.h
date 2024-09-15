@@ -275,13 +275,35 @@ variable Scenery_Creation_Ptr;
                                                 end
 
 
+// This will clear the leftover blocking hexes (usually remain in old saves)
+#define Dest_Leftover_Block(Hex_Num,Elevation)  if (tile_contains_pid_obj(Hex_Num, Elevation, PID_DRIVABLE_CAR) == 0) then begin        \
+                                                   Scenery_Creation_Hex:=tile_num_in_direction(Hex_Num,5,1);                            \
+                                                   Scenery_Creation_Ptr:=tile_contains_pid_obj(Scenery_Creation_Hex,Elevation,PID_BLOCKING_HEX); \
+                                                   while (Scenery_Creation_Ptr != 0) do begin                                           \
+                                                      destroy_object(Scenery_Creation_Ptr);                                             \
+                                                      Scenery_Creation_Ptr:=tile_contains_pid_obj(Scenery_Creation_Hex,Elevation,PID_BLOCKING_HEX); \
+                                                   end                                                                                  \
+                                                   Scenery_Creation_Hex:=tile_num_in_direction(Hex_Num,5,2);                            \
+                                                   Scenery_Creation_Ptr:=tile_contains_pid_obj(Scenery_Creation_Hex,Elevation,PID_BLOCKING_HEX); \
+                                                   while (Scenery_Creation_Ptr != 0) do begin                                           \
+                                                      destroy_object(Scenery_Creation_Ptr);                                             \
+                                                      Scenery_Creation_Ptr:=tile_contains_pid_obj(Scenery_Creation_Hex,Elevation,PID_BLOCKING_HEX); \
+                                                   end                                                                                  \
+                                                end                                                                                     \
+                                                Scenery_Creation_Hex:=tile_num_in_direction(tile_num_in_direction(Hex_Num,4,4),3,1);    \
+                                                Scenery_Creation_Ptr:=tile_contains_pid_obj(Scenery_Creation_Hex,Elevation,PID_BLOCKING_HEX); \
+                                                if (Scenery_Creation_Ptr != 0) then begin                                               \
+                                                   destroy_object(Scenery_Creation_Ptr);                                                \
+                                                end
+
+
 // This will make the car that the player drives along the world map
-#define Create_Car(Hex_Num,Elevation)           ndebug("Place_Car(" + Hex_Num + "," + Elevation + ")");                                \
-                                                ndebug("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));              \
+#define Create_Car(Hex_Num,Elevation)           ndebug("Place_Car(" + Hex_Num + "," + Elevation + ")");                                   \
+                                                ndebug("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));                 \
                                                 ndebug("   Car_At_Loc == " + (tile_contains_pid_obj(Hex_Num, Elevation, PID_DRIVABLE_CAR) != 0)); \
                                                 if ((global_var(GVAR_CAR_PLACED_TILE) <= 0) or (Hex_Num == global_var(GVAR_CAR_PLACED_TILE))) then begin \
-                                                   set_global_var(GVAR_CAR_PLACED_TILE, Hex_Num);                                          \
-                                                   if (not (tile_contains_pid_obj(Hex_Num, Elevation, PID_DRIVABLE_CAR) != 0)) then begin \
+                                                   set_global_var(GVAR_CAR_PLACED_TILE, Hex_Num);                                         \
+                                                   if (tile_contains_pid_obj(Hex_Num, Elevation, PID_DRIVABLE_CAR) == 0) then begin       \
                                                       Scenery_Creation:=create_object_sid(PID_DRIVABLE_CAR,Hex_Num,Elevation, SCRIPT_ZSDRVCAR); \
                                                       Scenery_Creation_Hex:=Hex_Num;                                                      \
                                                       Blocking_Cycle(1,2,Elevation)                                                       \
@@ -292,35 +314,32 @@ variable Scenery_Creation_Ptr;
                                                       Blocking_Cycle(4,1,Elevation)                                                       \
                                                       Blocking_Cycle(5,1,Elevation)                                                       \
                                                       Blocking_Cycle(4,1,Elevation)                                                       \
-                                                      Blocking_Cycle(5,1,Elevation)                                                       \
-                                                      Blocking_Cycle(4,1,Elevation)                                                       \
-                                                      Blocking_Cycle(0,1,Elevation)                                                       \
-                                                      Blocking_Cycle(5,1,Elevation)                                                       \
+                                                      Blocking_Cycle(5,3,Elevation)                                                       \
                                                       Blocking_Cycle(0,2,Elevation)                                                       \
+                                                      Blocking_Cycle(1,1,Elevation)                                                       \
+                                                      Blocking_Cycle(2,1,Elevation)                                                       \
                                                       Blocking_Cycle(1,1,Elevation)                                                       \
                                                       Blocking_Cycle(2,1,Elevation)                                                       \
                                                    end                                                                                    \
                                                 end
 
-#define Create_Trunk(Hex_Num,Elevation)         if (not (tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(Hex_Num, 5, 2), 4, 1), Elevation, PID_CAR_TRUNK) != 0)) then begin \
-                                                   ndebug("placing trunk:");                                                        \
+#define Create_Trunk(Hex_Num,Elevation)         if (tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(Hex_Num, 5, 2), 4, 1), Elevation, PID_CAR_TRUNK) == 0) then begin \
+                                                   ndebug("placing trunk:");                                                           \
                                                    Scenery_Creation_Ptr := 0;                                                          \
                                                    if (Trunk_Ptr != 0) then begin                                                      \
                                                       Scenery_Creation_Ptr := Trunk_Ptr;                                               \
                                                    end else if (dude_has_car == false) then begin                                      \
-                                                      Scenery_Creation_Ptr := create_object_sid(PID_CAR_TRUNK,0,0,SCRIPT_ZICRTRNK); \
+                                                      Scenery_Creation_Ptr := create_object_sid(PID_CAR_TRUNK,0,0,SCRIPT_ZICRTRNK);    \
                                                    end                                                                                 \
                                                    if (Scenery_Creation_Ptr != 0) then begin                                           \
                                                       Scenery_Creation_Hex := tile_num_in_direction(tile_num_in_direction(Hex_Num, 5, 2), 4, 1); \
                                                       move_to(Scenery_Creation_Ptr, Scenery_Creation_Hex, Elevation);                  \
-                                                      Blocking_Cycle(1,1,Elevation)                                                    \
-                                                      Blocking_Cycle(2,1,Elevation)                                                    \
                                                    end else begin                                                                      \
-                                                      ndebug("WE HAD AN ERROR WITH THE TRUNK PTR, OHHH FUCK");                      \
+                                                      ndebug("WE HAD AN ERROR WITH THE TRUNK PTR, OHHH FUCK");                         \
                                                    end                                                                                 \
                                                 end
 
-#define Dest_Car(Hex_Num,Elevation)       ndebug("Dest_Car_Loc(" + Hex_Num + "," + Elevation + ")");                            \
+#define Dest_Car(Hex_Num,Elevation)       ndebug("Dest_Car_Loc(" + Hex_Num + "," + Elevation + ")");                               \
                                           Scenery_Creation_Ptr:=tile_contains_pid_obj(Hex_Num,Elevation,PID_DRIVABLE_CAR);         \
                                           if (Scenery_Creation_Ptr != 0) then begin                                                \
                                              destroy_object(Scenery_Creation_Ptr);                                                 \
@@ -333,10 +352,7 @@ variable Scenery_Creation_Ptr;
                                              Dest_Block_Cycle(4,1,Elevation)                                                       \
                                              Dest_Block_Cycle(5,1,Elevation)                                                       \
                                              Dest_Block_Cycle(4,1,Elevation)                                                       \
-                                             Dest_Block_Cycle(5,1,Elevation)                                                       \
-                                             Dest_Block_Cycle(4,1,Elevation)                                                       \
-                                             Dest_Block_Cycle(0,1,Elevation)                                                       \
-                                             Dest_Block_Cycle(5,1,Elevation)                                                       \
+                                             Dest_Block_Cycle(5,3,Elevation)                                                       \
                                              Dest_Block_Cycle(0,2,Elevation)                                                       \
                                              Dest_Block_Cycle(1,1,Elevation)                                                       \
                                              Dest_Block_Cycle(2,1,Elevation)                                                       \
@@ -353,7 +369,7 @@ variable Scenery_Creation_Ptr;
                                           end
 
 #define Check_Create_Car(Hex_Num, Elevation)                                          \
-   ndebug("Check_Create_Car(" + Hex_Num + "," + Elevation + ")");                  \
+   ndebug("Check_Create_Car(" + Hex_Num + "," + Elevation + ")");                     \
    if (not is_loading_game) then begin                                                \
       if (dude_has_car != false) then begin                                           \
          ndebug("car_current_town == " + car_current_town + " / map_get_load_area == " + map_get_load_area); \
@@ -365,11 +381,12 @@ variable Scenery_Creation_Ptr;
          end else if (tile_contains_pid_obj(Hex_Num, Elevation, PID_DRIVABLE_CAR) != 0) then begin \
             Dest_Car(Hex_Num, Elevation)                                              \
          end                                                                          \
+         Dest_Leftover_Block(Hex_Num, Elevation)                                      \
       end else begin                                                                  \
-         ndebug("the player hasn't gotten the car, can't place it");               \
+         ndebug("the player hasn't gotten the car, can't place it");                  \
       end                                                                             \
    end else begin                                                                     \
-      ndebug("sorry, can't place the car, the game's loading");                    \
+      ndebug("sorry, can't place the car, the game's loading");                       \
    end                                                                                \
 
 // This will make the East-West Caravans

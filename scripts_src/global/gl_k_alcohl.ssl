@@ -26,18 +26,6 @@ variable msg;
 #define SGVAR_time_of_alcohol_addiction "k_alco_a"
 
 /**
- * True is `x` is an alcohol bottle, False otherwise.
- * @arg {ObjPtr} x
- */
-#define is_alcohol(x) \
-    (  (obj_pid(x) == PID_BEER) \
-    or (obj_pid(x) == PID_BOOZE) \
-    or (obj_pid(x) == PID_GAMMA_GULP_BEER) \
-    or (obj_pid(x) == PID_ABBEY_BOOZE) \
-    or (obj_pid(x) == PID_ROENTGEN_RUM) \
-    or (obj_pid(x) == PID_ROT_GUT) )
-
-/**
  * Displays message `x` from **game** message file `msg`
  * @arg {int} x - message number
  */

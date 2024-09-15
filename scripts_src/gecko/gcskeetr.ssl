@@ -550,6 +550,12 @@ end
 
 procedure Node015 begin
    Reply(260);
+   // another way to get the plasma transformer quest
+   if ((local_var(LVAR_Upgrade) == 0) and
+       (global_var(GVAR_QUEST_SUPER_REPAIR_KIT) == SUPER_REPAIR_KIT_SUCCESS) and
+       (global_var(GVAR_GECKO_SKEETER_PART) == 0)) then begin
+      NOption(263,Node027,004);
+   end
    NOption(261,Node009,004);
    NOption(262,Node999,004);
 end

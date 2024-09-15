@@ -28,8 +28,7 @@ procedure map_exit_p_proc;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
-procedure start
-begin
+procedure start begin
 end
 
 procedure map_enter_p_proc begin
@@ -45,5 +44,4 @@ procedure map_update_p_proc begin
 end
 
 procedure map_exit_p_proc begin
-
 end

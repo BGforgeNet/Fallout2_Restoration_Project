@@ -65,6 +65,7 @@
 {260}{}{Por regla general sólo trabajo con chatarra. Desmontándola y volviéndola a montar... por regla general. Haciendo que funcione mejor... a veces. Manteniéndome al margen de problemas. ¿Sabes lo que te digo?}
 {261}{}{Supongo. Permíteme preguntarte algo.}
 {262}{}{Bueno, será mejor que me vaya a hacer algo por mi cuenta. Adiós.}
+{263}{}{¿Puedo ayudarle en algo?}
 {270}{}{¿Estás buscando un GECK? Bueno, no sé exactamente dónde puedes encontrar una de esas cosas. Sé que en Ciudad Refugio lo usaron.}
 {271}{}{¿Ciudad Refugio tiene uno?}
 {272}{}{Mmm. Bueno, entonces déjame preguntarte otra cosa.}

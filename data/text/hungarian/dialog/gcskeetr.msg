@@ -64,6 +64,7 @@
 {260}{}{Időm nagy részébe' különféle kütyükkel bíbelődök. Szétkapom, aztán összerakom őket. Többnyire jobb lesz, mint az eredeti. Megspórolok egy-két előre nem látható bajt. Tudod mire gondolok?}
 {261}{}{Szerintem igen. Hadd kérdezzek valami mást!}
 {262}{}{Asszem, én megyek is, aztán hasznossá teszem magam. Viszlát!}
+{263}{}{Anything I can help you with?}
 {270}{}{Az ÉLET-et keresed, mi? Gőzöm sincs, hol lehetne olyan vackot találni. Azt tudom, hogy Menedékváros valszeg használt régen olyat.}
 {271}{}{Menedékvárosnak tényleg volt olyanja?}
 {272}{}{Hmm. Akkor most mást kérdeznék.}

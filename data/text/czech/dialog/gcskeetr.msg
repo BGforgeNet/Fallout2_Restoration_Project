@@ -64,6 +64,7 @@
 {260}{}{Většinou jenom tak podomácku opravuju různý věci. Rozebírám je a zkouším je dát znovu dohromady... většinou. Občas je i vylepším. A vyhýbám se průšvihům. Víš, co tím myslím?}
 {261}{}{Myslím, že jo. Chci se ještě na něco zeptat.}
 {262}{}{No, myslím, že půjdu něco dělat. Sbohem.}
+{263}{}{Můžu ti s něčím pomoct?}
 {270}{}{Sháníš GECK, jo? No, fakt nevím, kde by se dal najít, ale vím, že ve Vault City snad jeden měli.}
 {271}{}{Vault City jeden mělo?}
 {272}{}{Hmm. Dobře, chci se ještě na něco zeptat.}

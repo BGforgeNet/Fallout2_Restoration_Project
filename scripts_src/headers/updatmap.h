@@ -116,7 +116,7 @@
 #define CAR_NAVARRO_HEX                     (27686)
 
 #define CAR_THE_ENCLAVE_HEX                 (20100)
-#define CAR_ABBEY_HEX                       (20100)
+#define CAR_ABBEY_HEX                       (23520)
 #define CAR_PRIMITIVE_TRIBE_HEX             (29487)
 #define CAR_EPA_HEX                         (30104)
 

@@ -44,6 +44,15 @@ procedure removeVaultBoxerAppearance begin
   end
 end
 
+#define is_alcohol(x) ( \
+ (obj_pid(x) == PID_BEER) \
+  or (obj_pid(x) == PID_BOOZE) \
+  or (obj_pid(x) == PID_GAMMA_GULP_BEER) \
+  or (obj_pid(x) == PID_ROENTGEN_RUM) \
+  or (obj_pid(x) == PID_ROT_GUT) \
+  or (obj_pid(x) == PID_ABBEY_BOOZE) \
+)
+
 #define protected_from_gas(x) ( \
  (obj_pid(get_armor(x)) == PID_POWERED_ARMOR) \
   or (obj_pid(get_armor(x)) == PID_HARDENED_POWER_ARMOR) \

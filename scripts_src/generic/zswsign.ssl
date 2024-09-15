@@ -97,11 +97,11 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   if (has_rep_childkiller and check_general_rep <= KARMA_SWORD_OF_DESPAIR) then begin
+   if (has_rep_childkiller and beacon_rep <= KARMA_SWORD_OF_DESPAIR) then begin
       display_msg(mstr(101) + " " + dude_name + " " + mstr(102));
    end else if (has_rep_childkiller) then begin
       display_msg(mstr(101) + " " + dude_name + " " + mstr(103));
-   end else if (check_general_rep <= KARMA_SWORD_OF_DESPAIR) then begin
+   end else if (beacon_rep <= KARMA_SWORD_OF_DESPAIR) then begin
       display_msg(mstr(101) + " " + dude_name + " " + mstr(104));
    end
 end
@@ -139,7 +139,7 @@ end
 
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin // Seraph's Code
-      if (has_rep_childkiller or check_general_rep < -499) then
+      if (has_rep_childkiller or beacon_rep <= KARMA_SWORD_OF_DESPAIR) then
          set_obj_visibility(self_obj, OBJ_VIS);
       else
          set_obj_visibility(self_obj, OBJ_INVIS);

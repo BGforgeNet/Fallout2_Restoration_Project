@@ -73,6 +73,7 @@
  como regra geral. Fazendo funcionar melhor... às vezes. Me mantendo fora de problemas. Sabe o que eu quero dizer?}
 {261}{}{Suponho. Deixe eu perguntar outra coisa.}
 {262}{}{Bem, acho melhor eu ir fazer um negócio. Adeus.}
+{263}{}{Com o que posso ajudá-lo?}
 {270}{}{Você atrás de um GECK, hein? Bem, eu não sei direito onde você pode encontrar uma dessas
  coisas. Eu sei que Vault City provavelmente tinha um.}
 {271}{}{Vault City tinha um?}

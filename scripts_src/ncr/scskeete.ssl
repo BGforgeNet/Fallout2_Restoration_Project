@@ -200,7 +200,7 @@ procedure map_enter_p_proc begin
 
 
    // Fix for Chosen One having the car but leaving it behind and arriving in NCR by joining a caravan - killap
-   if ((global_var(GVAR_PLAYER_GOT_CAR)) and (car_current_town == 10)) then
+   if ((global_var(GVAR_PLAYER_GOT_CAR)) and (car_current_town == AREA_NCR)) then
      hasCar := global_var(GVAR_PLAYER_GOT_CAR);
    else
      hasCar := 0;

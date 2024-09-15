@@ -58,6 +58,23 @@ end
 
 procedure map_enter_p_proc begin
    if (global_var(GVAR_CAR_PLACED_TILE) != self_tile) then begin
+      // Warning: the following sequence must be identical to the "Dest_Car" macro!
+      Scenery_Creation_Hex:=self_tile;
+      Dest_Block_Cycle(1,2,self_elevation)
+      Dest_Block_Cycle(2,2,self_elevation)
+      Dest_Block_Cycle(3,2,self_elevation)
+      Dest_Block_Cycle(4,2,self_elevation)
+      Dest_Block_Cycle(5,1,self_elevation)
+      Dest_Block_Cycle(4,1,self_elevation)
+      Dest_Block_Cycle(5,1,self_elevation)
+      Dest_Block_Cycle(4,1,self_elevation)
+      Dest_Block_Cycle(5,3,self_elevation)
+      Dest_Block_Cycle(0,2,self_elevation)
+      Dest_Block_Cycle(1,1,self_elevation)
+      Dest_Block_Cycle(2,1,self_elevation)
+      Dest_Block_Cycle(1,1,self_elevation)
+      Dest_Block_Cycle(2,1,self_elevation)
+
       destroy_object(self_obj);
    end
 end

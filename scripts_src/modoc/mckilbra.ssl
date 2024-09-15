@@ -44,6 +44,11 @@ procedure map_update_p_proc;
 #define br_mstr(x)                        message_str(SCRIPT_ZCBRAHMN,x)
 #define br_floater(x)                     float_msg(self_obj, br_mstr(x), FLOAT_COLOR_NORMAL)
 
+#define TIMER_SET_TILE                    1
+#define TIMER_FLOAT                       2
+#define TIMER_POOP                        3
+#define TIMER_ESCAPE                      4
+
 #define LVAR_Home_Tile                    (0)
 #define LVAR_Brahmin_Did_Replace          (1)
 #define LVAR_Graze_Tile                   (2)
@@ -70,31 +75,31 @@ procedure start begin
 end
 
 procedure timed_event_p_proc begin
-variable temp_poo;
+   variable temp_poo;
    if (self_visible) then begin
-      if (fixed_param == 1) then begin
+      if (fixed_param == TIMER_SET_TILE) then begin
          if (cur_map_index != MAP_GHOST_FARM) then begin
             if (combat_is_initialized == false) then begin
                set_graze_tile
             end
-            flush_add_timer_event_sec(self_obj, random(2, 10), 1);
+            flush_add_timer_event_sec(self_obj, random(2, 10), TIMER_SET_TILE);
          end
-      end if (fixed_param == 2) then begin
+      end if (fixed_param == TIMER_FLOAT) then begin
          br_floater(random(201, 205));
-         flush_add_timer_event_sec(self_obj, random(30, 45), 2);
-      end else if (fixed_param == 3) then begin
-         if (random(1,3) == 1) then begin
+         flush_add_timer_event_sec(self_obj, random(30, 45), TIMER_FLOAT);
+      end else if (fixed_param == TIMER_POOP) then begin
+         if (random(1, 3) == 1) then begin
             br_floater(206);
             ndebug("BRAHMIN IS POOING!!! hehehehe");
             temp_poo := create_object_sid(random(PID_SMALL_GOO_1, PID_SMALL_GOO_3), 0, 0, SCRIPT_ZIBRAPOO);
-            move_to(temp_poo, tile_num_in_direction(self_tile, self_inv_rot, 1), 0);
+            move_to(temp_poo, tile_num_in_direction(self_tile, self_inv_rot, 1), self_elevation);
          end
-         flush_add_timer_event_sec(self_obj, random(120, 300), 3);
+         flush_add_timer_event_sec(self_obj, random(120, 300), TIMER_POOP);
       //added by killap
-      end else if (fixed_param == 4) then begin
+      end else if (fixed_param == TIMER_ESCAPE) then begin
          if not anim_busy(self_obj) then begin
-            self_walk_to_tile(tile_num_in_direction(self_tile,1,3));
-            add_timer_event(self_obj, game_ticks(1), 4);
+            self_walk_to_tile(tile_num_in_direction(self_tile, 1, 3));
+            flush_add_timer_event_sec(self_obj, 1, TIMER_ESCAPE);
          end
       //end added
       end else begin
@@ -118,7 +123,7 @@ procedure critter_p_proc begin
                self_walk_to_tile(map_next_tile);
                //added by killap
                if not anim_busy(self_obj) then begin
-                  add_timer_event(self_obj, game_ticks(1), 4);
+                  flush_add_timer_event_sec(self_obj, 1, TIMER_ESCAPE);
                end
                //end added
                if (step_tile < 0) then begin
@@ -174,20 +179,20 @@ end
 procedure use_obj_on_p_proc begin
    // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
    //    fallout script
-   if ((obj_pid(obj_being_used_with) == PID_BEER) or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
+   if (is_alcohol(obj_being_used_with)) then begin
       variable item := 0;
       script_overrides;
       item := obj_being_used_with;
-      rm_obj_from_inven(source_obj,obj_being_used_with);
+      rm_obj_from_inven(source_obj, obj_being_used_with);
       destroy_object(item);
       if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
-            reg_anim_animate(self_obj,ANIM_fall_back,5);
-            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+            reg_anim_animate(self_obj, ANIM_hit_from_front, -1);
+            reg_anim_animate(self_obj, ANIM_fall_back, 5);
+            reg_anim_animate(self_obj, ANIM_fall_back_sf, -1);
          reg_anim_end();
-         critter_injure(self_obj,DAM_KNOCKED_DOWN);
+         critter_injure(self_obj, DAM_KNOCKED_DOWN);
       end
    end
 end
@@ -196,7 +201,7 @@ procedure use_skill_on_p_proc begin
    // a good science skill check will give you a little more info about the brahmin.
    if (action_being_used == SKILL_SCIENCE) then begin
       script_overrides;
-      display_msg(br_mstr(101 + (is_success(roll_vs_skill(dude_obj,action_being_used,0)))));
+      display_msg(br_mstr(102 - (is_success(roll_vs_skill(dude_obj, action_being_used, 0)))));
    end else if (action_being_used == SKILL_STEAL) then
       script_overrides;
 end
@@ -213,10 +218,14 @@ procedure map_enter_p_proc begin
          if (local_var(LVAR_Graze_Tile) == 0) then begin
             set_local_var(LVAR_Home_Tile, self_tile);
             set_local_var(LVAR_Graze_Tile, self_tile);
-            add_timer_event(self_obj, (random(1,15) * ONE_GAME_MINUTE), 1);
+            add_timer_event(self_obj, (random(1, 15) * ONE_GAME_MINUTE), TIMER_SET_TILE);
          end
          if (self_tile != local_var(LVAR_Graze_Tile)) then begin
             critter_attempt_placement(self_obj, local_var(LVAR_Graze_Tile), self_elevation);
+         end
+         if (critter_state(self_obj) bwand DAM_KNOCKED_DOWN) then begin
+            animate_stand;
+            move_to(self_obj, self_tile, self_elevation); // avoid visual offset shifting
          end
          if ((self_visible == false) and (night == false)) then begin
             check_set_obj_visiblility(self_obj, false);
@@ -226,6 +235,7 @@ procedure map_enter_p_proc begin
       end
    end
 end
+
 procedure map_exit_p_proc begin
    if (is_slaughter_house_brahmin) then begin
       if ((freed_bess) and (tile_in_slaughter_house_area(self_tile) == false)) then begin
@@ -238,13 +248,14 @@ procedure map_exit_p_proc begin
       end
    end
 end
+
 procedure use_p_proc begin
 end
 
 procedure map_update_p_proc begin
    if (local_var(LVAR_Graze_Tile) == 0) then begin
       set_local_var(LVAR_Graze_Tile, self_tile);
-      add_timer_event(self_obj, (random(1,15) * ONE_GAME_MINUTE), 1);
-      add_timer_event(self_obj,game_ticks(random(5,15)),2);
+      flush_add_timer_event(self_obj, (random(1, 15) * ONE_GAME_MINUTE), TIMER_SET_TILE);
+      flush_add_timer_event_sec(self_obj, random(5, 15), TIMER_FLOAT);
    end
 end

@@ -64,6 +64,7 @@
 {260}{}{Principalmente lavoro su oggetti di vario tipo. Li smonto e poi cerco di rimetterli insieme... se possibile. Funzionano anche meglio di prima... a volte. E poi mi tengo fuori dai guai. Capisci cosa intendo?}
 {261}{}{Credo di si'. Lascia che ti chieda qualcos'altro.}
 {262}{}{Beh, credo sia meglio che anch'io vada in cerca di qualcosa da fare. Ci vediamo.}
+{263}{}{Anything I can help you with?}
 {270}{}{Stai cercando un GECK, eh? Beh, non so con esattezza dove potresti trovarlo, uno di quei cosi. So che Vault City probabilmente ne aveva uno, una volta.}
 {271}{}{Vault City ne aveva uno?}
 {272}{}{Hmm. Beh, lascia che ti chieda qualcos'altro, allora.}

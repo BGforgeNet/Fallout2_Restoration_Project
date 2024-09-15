@@ -274,7 +274,7 @@ procedure critter_p_proc begin
          party_member_follow_dude
       end else if (local_var(LVAR_Used_Iguana)) then begin
          Follow_Dude(1,3)
-      end else begin
+      end else if (party_is_waiting == false) then begin
          if (game_time > doWalking) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
