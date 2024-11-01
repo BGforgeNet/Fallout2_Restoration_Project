@@ -2,7 +2,7 @@
 {101}{}{It's Vice-President Carlson's kid.}
 {102}{}{Looks like a spoiled little runt. Fat, too.}
 {103}{}{My dad's Vice-President Carlson, so you better treat me nice! Who are you?}
-{104}{}{[Player name]}
+{104}{}{[Spelarens namn]}
 {105}{}{I'm one of your dad's guards.}
 {106}{}{Where's your dad?}
 {107}{}{See this knife? I've gutted little kids nicer than you.}

@@ -1,20 +1,20 @@
-{100}{}{You see a strong man in working clothes. He is keeping his eyes firmly fixed on the ground.}
-{101}{}{You see a Vault City slave.}
-{102}{}{You see a strong man in working clothes. He is keeping his eyes firmly fixed on the ground.}
-{103}{}{You see a healthy-looking woman in working clothes. She is keeping her eyes firmly fixed on
- the ground.}
-{104}{}{You see a Vault City slave.}
-{105}{}{You see a healthy-looking woman in working clothes. She is keeping her eyes firmly fixed on
- the ground.}
+{100}{}{Du ser en stark man i arbetskläder. Han håller blicken stadigt fäst på marken.}
+{101}{}{Du ser en slav från Valvstaden.}
+{102}{}{Du ser en stark man i arbetskläder. Han håller blicken stadigt fäst på marken.}
+{103}{}{Du ser en kvinna i arbetskläder som ser frisk ut. Hon håller blicken stadigt fäst på
+ marken.}
+{104}{}{Du ser en slav från Valvstaden.}
+{105}{}{Du ser en kvinna i arbetskläder som ser frisk ut. Hon håller blicken stadigt fäst på
+ marken.}
 {106}{}{I have heard of your brave deeds. You have done a great service for Vault City... and the world.}
 {107}{}{Your battle against the Enclave impressed even the First Citizen.}
-{108}{}{I wish I could somehow give you something for all you've done for us, but I have nothing to
- give... except my thanks.}
-{109}{}{The other servants will be envious that I was talking to the hero of the Wastes.}
+{108}{}{Jag önskar att jag på något sätt kunde ge dig något för allt du har gjort för oss, men jag har inget att
+ ge... förutom mitt tack.}
+{109}{}{De andra tjänarna kommer att vara avundsjuka på att jag pratade med hjälten från Ödemarken.}
 {110}{}{Yes, Captain?}
-{111}{}{Captain?}
-{112}{}{Is there something you wanted me to do, Captain?}
-{113}{}{Did you have a task for me, Captain?}
+{111}{}{Kapten?}
+{112}{}{Är det något du vill att jag ska göra, Kapten?}
+{113}{}{Har du en uppgift åt mig, Kapten?}
 {114}{}{I'm sorry, Captain. I will try and work harder.}
 {115}{}{I'm sorry, Captain. I will try to be more attentive.}
 {116}{}{Yes, Citizen?}
@@ -24,34 +24,34 @@
 {120}{}{I'm sorry, Citizen. I will try and work harder.}
 {121}{}{I'm sorry, Citizen. I will try to be more attentive.}
 {122}{}{Mutants are not allowed inside the city!}
-{123}{}{If the guards see your mutant, you will be forced to leave.}
-{124}{}{Mutants are not permitted inside the city! You must leave!}
-{125}{}{Ghouls are not allowed inside the city!}
-{126}{}{If the guards see your ghoul, you will be forced to leave.}
-{127}{}{Ghouls are not permitted inside the city! You must leave!}
+{123}{}{Om vakterna ser din mutant kommer du att tvingas gå.}
+{124}{}{Mutanter är inte tillåtna inne i staden! Ni måste ge er av!}
+{125}{}{Ghuler är inte tillåtna inne i staden!}
+{126}{}{Om vakterna ser din ghul, kommer du att tvingas lämna.}
+{127}{}{Ghuler är inte tillåtna inne i staden! Ni måste lämna staden!}
 {128}{}{Yes, I am already owned. The Servant Allocation Center has my papers.}
-{129}{}{Please leave me be. I am a servant of Vault City.}
-{130}{}{I beg you: have you seen two children, dark-hair...? They were taken by other slavers two years
- ago and sold North.}
-{131}{}{Please... I am not permitted to speak to anyone.}
-{132}{}{If a Citizen catches me talking to a slaver, I will be punished.}
-{133}{}{The guards will report me if you continue to talk to me.}
+{129}{}{Snälla, låt mig vara. Jag är en tjänare till Valvstaden.}
+{130}{}{Jag ber dig: har du sett två barn, mörkhåriga...? De togs av andra slavhandlare för två år
+ sedan och såldes norrut.}
+{131}{}{Snälla... Jag får inte tala med någon.}
+{132}{}{Om en Medborgare ertappar mig med att prata med en slavhandlare, kommer jag att straffas.}
+{133}{}{Vakterna kommer att rapportera mig om du fortsätter att prata med mig.}
 {134}{}{I cannot speak to you. I have duties.}
 {135}{}{Please go away, slaver. I don't want any trouble.}
-{136}{}{Escape? I... have never tried to escape from here. Life is good here.}
-{137}{}{The Citizens told me that if I work hard enough, one day *I* could become a Citizen.}
-{138}{}{The Citizens teach us that work is its own reward.}
-{139}{}{The Citizens tell us that our service allows them time for more important matters.}
-{140}{}{I was lucky that Vault City had need of servants. I could have ended up in New Reno.}
-{141}{}{Vault City rewards servants who work diligently with extra rations.}
-{142}{}{I hear they do horrible things to the slaves in New Reno.}
-{143}{}{The Citizens brought my entire tribe inside the City to serve as servants. }
-{144}{}{The Citizens brought me in out of the wastes and taught me to read.}
-{145}{}{The Citizens treat me very well. The food here is excellent.}
-{146}{}{I am not permitted to speak with Outsiders.}
-{147}{}{I missed my family at first, but it has been many years since I saw them.}
-{148}{}{I was taken from a tribal village north of here. Life is much better here.}
-{149}{}{I was first captured in the Den. Fortunately, I ended up here.}
+{136}{}{Fly? Jag... har aldrig försökt fly härifrån. Livet är bra här.}
+{137}{}{Medborgarna sa till mig att om jag arbetar tillräckligt hårt kan *jag* en dag bli en Medborgare.}
+{138}{}{Medborgarna lär oss att arbete är sin egen belöning.}
+{139}{}{Medborgarna berättar att eftersom vi tjänar dem får de mer tid för viktigare saker.}
+{140}{}{Jag hade tur att Valvstaden behövde tjänare. Jag kunde ha hamnat i New Reno.}
+{141}{}{Valvstaden belönar tjänare som arbetar flitigt med extra ransoner.}
+{142}{}{Jag har hört att de gör hemska saker mot slavarna i New Reno.}
+{143}{}{Medborgarna tog med sig hela min stam in i staden för att tjäna som tjänare.}
+{144}{}{Medborgarna tog mig in från ödemarken och lärde mig att läsa.}
+{145}{}{Medborgarna behandlar mig mycket bra. Maten här är utmärkt.}
+{146}{}{Jag får inte tala med Utomstående.}
+{147}{}{Jag saknade min familj först, men det var många år sedan jag såg dem.}
+{148}{}{Jag togs från en stamby norrifrån. Livet är mycket bättre här.}
+{149}{}{Jag fångades först i Lyan. Lyckligtvis hamnade jag här.}
 {150}{}{I hear the First Citizen occasionally loses her temper with her servants.}
 {151}{}{I cannot speak to you. I have work to do.}
 {152}{}{I must finish my duties within the hour.}

@@ -1,55 +1,55 @@
-{100}{}{You see a ragged-looking farmer.}
-{101}{}{You see Smith.}
-{102}{}{Don't think I've seen you around before, stranger. The name's Smith. Help
- you with something?}
-{103}{}{Was there something else you wanted?}
+{100}{}{Du ser en luggsliten bonde.}
+{101}{}{Du ser Smith.}
+{102}{}{Jag tror inte jag har sett dig här förut, främling. Namnet är Smith. Kan jag hjälpa
+ dig med något?}
+{103}{}{Var det något annat du ville?}
 {104}{}{Can you tell me about Vault City?}
 {105}{}{What do you do around here?}
 {106}{}{I'm looking for the Vault.}
-{107}{}{I'd like to help you with that plow.}
-{108}{}{Your wife says things have been hard.}
-{109}{}{No, just passing through. Goodbye.}
+{107}{}{Jag skulle vilja hjälpa dig med den där plogen.}
+{108}{}{Din fru säger att ni har haft det svårt.}
+{109}{}{Nej, jag är bara på genomresa. Hej då.}
 {110}{}{Um... Waga Nu-kik?}
-{111}{}{Well, what you see here ain't really Vault City... you're actually standing
- in the city's Courtyard.}
-{112}{}{Why aren't you in the city?}
+{111}{}{Tja, det du ser här är inte riktigt Valvstaden... du står faktiskt
+ på stadens Innergård.}
+{112}{}{Varför är du inte i stan?}
 {113}{}{What do you do here?}
 {114}{}{Can I ask you something else?}
 {115}{}{Thanks. Goodbye.}
-{116}{}{My family and I work a farm here in the Courtyard. We get by. Don't know
- for how long, though.}
+{116}{}{Min familj och jag arbetar på en gård här på Innergården. Vi klarar oss. Vet inte
+ för hur länge, dock.}
 {117}{}{What's the problem?}
-{118}{}{Why aren't you in the city?}
+{118}{}{Varför är du inte i stan?}
 {119}{}{Can I ask you something else?}
-{120}{}{Yeah, times are tough. Goodbye.}
-{121}{}{That's right, big fella. I gotta get going.}
-{122}{}{You talking about the Vault inside the city? I've only seen it once... it's
- inside the gates, along the cliff, I think. They only let the Citizens into it,
- though.}
+{120}{}{Ja, det är tuffa tider. Hej då.}
+{121}{}{Det stämmer, storponken. Jag måste gå nu.}
+{122}{}{Pratar du om Valvet inne i staden? Jag har bara sett det en gång... det är
+ innanför grindarna, längs klippan, tror jag. De släpper bara in Medborgare i det,
+ däremot.}
 {123}{}{Can I ask you something else?}
 {124}{}{Thanks for the directions. Goodbye.}
-{125}{}{Me and the family ain't the kind of people they let in there. So we
- live here under their protection.}
-{126}{}{Why aren't you allowed to live in the city?}
-{127}{}{Protection? What kind of protection? }
+{125}{}{Ja' och familjen är inte den sortens människor som de släpper in där. Så vi
+ bor här under deras beskydd.}
+{126}{}{Varför får ni inte bo i stan?}
+{127}{}{Skydd? Vilken typ av skydd? }
 {128}{}{Can I ask you something else?}
-{129}{}{I see. Well, thanks for your time. Goodbye.}
-{130}{}{Well, it's tough without a plow. Me and the wife try, but the farming goes
- slow.}
-{131}{}{Can I help?}
+{129}{}{Jag förstår. Tack för att du tog dig tid. Adjö.}
+{130}{}{Tja, det är svårt utan en plog. Jag och frun försöker, men jordbruket går
+ långsamt.}
+{131}{}{Kan jag hjälpa till?}
 {132}{}{Can I ask you something else?}
-{133}{}{Oh, well, I'm sorry to hear that. Goodbye.}
+{133}{}{Nåja, det var tråkigt att höra. Adjö.}
 {134}{}{Visst.}
-{135}{}{Well, we're from the wasteland... like yourself. So all we can get is
- protection from Vault City.}
-{136}{}{What kind of protection?}
+{135}{}{Tja, vi är från ödemarken... precis som du. Så allt vi kan få är
+ skydd från Valvstaden.}
+{136}{}{Vilken typ av skydd?}
 {137}{}{Can I ask you something else?}
 {138}{}{Thanks. Goodbye.}
 {139}{}{They keep us safe from the outside, but it costs me and the wife quite
  a bit. And without a plow... well, making ends meet is difficult.}
 {140}{}{Can I help with the plow?}
 {141}{}{Can I ask you something else?}
-{142}{}{Oh, well, I'm sorry to hear that. Goodbye.}
+{142}{}{Nåja, det var tråkigt att höra. Adjö.}
 {143}{}{Me and the wife don't talk with your kind.}
 {144}{}{Mary, keep away from this fella.}
 {145}{}{You'd help people like us? We can't offer much, but we sure would

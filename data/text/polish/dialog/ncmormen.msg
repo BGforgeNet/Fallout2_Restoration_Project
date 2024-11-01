@@ -114,7 +114,7 @@
 {408}{}{Jak jeszcze raz spróbujesz się do mnie odezwać, zabiję ciebie, twoją rodzinę, twojego psa i wreszcie ciebie. A potem zacznę być naprawdę niemiły.}
 {409}{}{::Pluje ci pod nogi::}
 {410}{}{Myślisz, że możesz tak po prostu podejść do Mordino i sobie pogawędzić? Spieprzaj stąd.}
-{411}{}{ Spieprzaj stąd, puta, albo nafaszeruję cię ołowiem tak, że będziesz zatrzymywać promieniowanie.}
+{411}{}{Spieprzaj stąd, puta, albo nafaszeruję cię ołowiem tak, że będziesz zatrzymywać promieniowanie.}
 {412}{}{Wracaj lepiej do swojej psiarni, puta.}
 {413}{}{Musisz być najbardziej popieprzonym stworzeniem na tej ziemi, że tak sobie tutaj spacerujesz.}
 {414}{}{Hija de puta...}

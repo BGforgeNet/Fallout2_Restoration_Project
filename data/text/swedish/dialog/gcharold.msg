@@ -208,7 +208,7 @@
 {307}{}{There must be another way.}
 {308}{}{Follow me.}
 {309}{}{Try this.}
-{310}{}{Come here.}
+{310}{}{Kom hit.}
 {311}{}{I'm scared.}
 {312}{}{I'm worried.}
 {313}{}{I found something.}

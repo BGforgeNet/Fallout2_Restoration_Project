@@ -1,5 +1,5 @@
 {100}{}{You see a small boy.}
-{101}{}{You see a little girl.}
+{101}{}{Du ser en liten flicka.}
 {120}{}{You see a small boy. He seems rather playful.}
 {121}{}{You see a little girl. She seems rather playful.}
 {150}{}{Don't eat me!}

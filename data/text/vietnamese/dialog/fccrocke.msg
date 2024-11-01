@@ -39,7 +39,7 @@ Are you really threatening me for this?}
 {137}{}{Sure thing. I have more questions.}
 {138}{}{I'll be back for the armor.}
 {139}{}{I can't very well work my magic on it if you don't have it. Come back when you do.}
-{140}{}{I have more questions.}
+{140}{}{Tôi muốn hỏi thêm.}
 {141}{}{Chào.}
 {142}{}{::he shrugs::
 You want this armor or not? It's $10,000 flat out.}

@@ -8,7 +8,7 @@
 {107}{}{Do you have any stimpaks? I'd like to buy some.}
 {108}{}{Vem är du?}
 {109}{}{I have a friend who's missing a spleen. Can you help him?}
-{110}{}{What can you tell me about this place?}
+{110}{}{Vad kan du berätta om den här platsen?}
 {111}{}{Hej då.}
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
 {113}{}{How much?}

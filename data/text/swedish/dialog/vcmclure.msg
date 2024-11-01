@@ -129,7 +129,7 @@
 {228}{}{What is Gecko?}
 {229}{}{Can I ask you another question?}
 {230}{}{Thanks for the warning. Goodbye.}
-{231}{}{It is a forsaken place, a shantytown built around the remnants of an old atomic power plant.}
+{231}{}{Det är en övergiven plats, en kåkstad som byggts upp kring resterna av ett gammalt kärnkraftverk.}
 {232}{}{Where is Gecko located?}
 {233}{}{Can I ask you another question?}
 {234}{}{Thanks for your time. Goodbye.}

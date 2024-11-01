@@ -156,7 +156,7 @@
 {376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other.
  More so than ever now. And that helps me carry on.}
 {377}{}{We all have our ways of coping.}
-{410}{}{What do you need to know?}
+{410}{}{Vad behöver du veta?}
 {411}{}{I have a black belt in sanshou. I can stab a man to death if the situation calls for it. Pistols, rifles and the like I'm decent with.}
 {420}{}{We need to talk about the distance between us.}
 {421}{}{What's wrong with it?}

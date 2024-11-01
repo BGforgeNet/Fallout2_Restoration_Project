@@ -74,7 +74,7 @@
  this subject. [You don't even see it coming. But you're sure the red hand print on your face will
  disappear someday.]}
 {250}{}{Help, Daddy! Get him away!}
-{251}{}{Get away!}
+{251}{}{Biến đi!}
 {260}{}{Help, Daddy! Get her away!}
 {270}{}{Help! Get him away!}
 {280}{}{Help! Get her away!}

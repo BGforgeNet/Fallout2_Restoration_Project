@@ -47,7 +47,7 @@
 {202}{}{Run diagnostics.}
 {203}{}{Switch to keyboard input mode.}
 {204}{}{Access security footage.}
-{205}{}{Log off.}
+{205}{}{Đăng xuất.}
 {206}{}{Urk?}
 {210}{}{[A light blinks on the terminal as it makes various clicking and whirling sounds. After several seconds, text
  appears on the monitor.] Sorry, I did not understand your command. Please repeat your command, making sure to speak
@@ -55,21 +55,21 @@
 {211}{}{Run diagnostics.}
 {212}{}{Switch to keyboard input mode.}
 {213}{}{Access security footage.}
-{214}{}{Log off.}
+{214}{}{Đăng xuất.}
 {220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience... Thank you for waiting... Diagnostic
  checks complete. All systems are working properly. After all, you're using Vault-Tec. }
 {221}{}{Trở lại.}
-{222}{}{Log off.}
+{222}{}{Đăng xuất.}
 {230}{}{Switching to manual interface mode... manual interface mode initiated. For the convenience of others, this
  terminal will automatically revert to vocal interface mode once you have logged off. Please input command.}
 {231}{}{Search database for anything of interest.}
-{232}{}{Log off.}
+{232}{}{Đăng xuất.}
 {240}{}{After a bit of searching, you discover three files that might be worth a look: Vault Dweller's Survival Guide
  (Abridged Version), Vault 13 Timeline, and Overseer Logs.}
 {241}{}{Access Vault Dweller's Survival Guide (Abridged Version). }
 {242}{}{Access Vault 13 Timeline. }
 {243}{}{Access Overseer Logs.}
-{244}{}{Log off.}
+{244}{}{Đăng xuất.}
 {250}{}{Welcome to Vault-13, the latest in a series of public defense works from Vault-Tec, your contractor of choice
  when it comes to the best in nuclear shelters. Vault-Tec, America's Final Word in Homes.}
 {251}{}{[THÊM]}
@@ -100,7 +100,7 @@
 {266}{}{Thank you for taking the time to read The Vault Dweller's Survival Guide (Abridged Version). We at Vault-Tec feel confident that you'll love your new underground dwelling.}
 {267}{}{Access Vault 13 Timeline. }
 {268}{}{Access Overseer Logs.}
-{269}{}{Log off.}
+{269}{}{Đăng xuất.}
 {270}{}{As you read over the beginning of the timeline, you find it interesting that no reason is given for why the Vault didn't open 10 years after the Great War, as it was originally designed to. }
 {271}{}{[THÊM]}
 {272}{}{Browsing ahead, you don't find much of interest until the year 2161, when the Vault's only working water chip breaks down. You feel a surge of pride as you read about your grandfather being selected for the important task of leaving the Vault and scouring the wasteland for a replacement water chip. However, it feels a little odd seeing your tribe's most revered legend told in a simple bullet point format.}
@@ -110,26 +110,26 @@
 {276}{}{The final entry in the timeline is dated May of 2242. It seems that, for the first time, Vault 13 was sent an "all clear" signal from an unknown source. After some debate, the vault dwellers decided to open the Vault doors and see what awaited them on the surface world. There is no record of what happened to them after that.}
 {277}{}{Access Vault Dweller's Survival Guide (Abridged Version). }
 {278}{}{Access Overseer Logs.}
-{279}{}{Log off.}
+{279}{}{Đăng xuất.}
 {280}{}{Authorization required. Please enter password. }
 {281}{}{[BACK]}
 {282}{}{[Guess password]}
 {283}{}{[Attempt to hack into it.]}
-{284}{}{Log off.}
+{284}{}{Đăng xuất.}
 {290}{}{Incorrect. Please enter password.}
 {291}{}{[BACK]}
 {292}{}{[Guess password]}
 {293}{}{[Attempt to hack into it.]}
-{294}{}{Log off.}
+{294}{}{Đăng xuất.}
 {300}{}{Incorrect. You are now locked out of these files. Vault-Tec apologizes for any inconvenience.}
 {301}{}{[BACK]}
 {302}{}{[Attempt to hack into it.]}
-{303}{}{Log off.}
+{303}{}{Đăng xuất.}
 {310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}
 {311}{}{Run diagnostics.}
 {312}{}{Switch to keyboard input mode.}
 {313}{}{Access security footage.}
-{314}{}{Log off.}
+{314}{}{Đăng xuất.}
 {320}{}{Password correct. All entries but one have been removed from the system. Final entry in the Overseer's Logs is still accessible.}
 {321}{}{[After several long minutes of working your technical magic, you manage to hack your way into the Overseer's Logs. However, it seems that every entry except for the final one has been deleted.]}
 {322}{}{Alright, let's see what this Overseer had to say. [Read Log.] }
@@ -144,9 +144,9 @@
 {337}{}{[THÊM]}
 {338}{}{I'm afraid I have failed my duty as Overseer. I can only hope that the rest of the public Vaults involved in the Societal Preservation Program have been more successful. To my superiors, who I'm certain will one day read this: forgive me. And may God bless America.}
 {339}{}{Search for any other files that contain information on "Societal Preservation Program".}
-{340}{}{Log off.}
+{340}{}{Đăng xuất.}
 {350}{}{After hours of scouring through the computer's archives, you're unable to find anything else that mentions the Societal Preservation Program. As you give up your search, you vow never again to waste so much time staring at a computer monitor.}
-{351}{}{Log off.}
+{351}{}{Đăng xuất.}
 {360}{}{After hours of scouring through the computer's archives, you're able to locate a few hidden documents concerning the Societal Preservation Program. As you read over them, you uncover a rather disturbing truth about the Vaults: they were never intended to save the population of the United States.}
 {361}{}{[THÊM]}
 {362}{}{Incredibly, all 122 of Vault-Tec's public Vaults were part of a grand social experiment orchestrated by the US government. Only 17 of those Vaults, dubbed "control Vaults", were designed to function correctly (it seems Vault 8 was one of the lucky few). The rest were meant to have various critical flaws, so that the government could study the pre-selected occupants, and see how they react to the stresses of their situations, and how well they're able to re-colonize once their Vaults open.}
@@ -162,11 +162,11 @@
 {372}{}{Vault 53's equipment was designed to break down every few months. While repairable, the constant breakdowns were meant to test the stress of the inhabitants. You wonder how many expert mechanics and technicians that Vault produced. Vault 55 would have all its entertainment tapes removed, while Vault 56 would have all its entertainment tapes removed, with the exception of one featuring a particularly bad comic actor.}
 {373}{}{[THÊM]}
 {374}{}{Vault 68 was to be occupied by 999 males and only one female. You can only imagine the horrors that took place there... Vault 69, on the other hand, was to be occupied by 999 females and only one male... interesting. Vault 70's jumpsuit extruders were designed to fail after 6 months. And finally, Vault 106 was designed so that 10 days after being sealed, it would begin "releasing psychoactive drugs into the air filtration system".}
-{375}{}{Log off.}
+{375}{}{Đăng xuất.}
 {500}{}{You learn about the Vault Experiments and the roles of the various Vaults.}
 {510}{}{You learn about the history of Vault 13 and the Overseer's role in the Vault Experiments.}
 {520}{}{I'm sorry, I did not understand that.}
-{521}{}{Log off.}
+{521}{}{Đăng xuất.}
 {2541}{}{Door thickness: 4 yards, steel
                                        Earth coverage: 3,200,000 tons of soil, at 200 feet
            Computer control system: Think machine

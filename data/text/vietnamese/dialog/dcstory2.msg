@@ -3,7 +3,7 @@
 {102}{}{She seems to be a little sad.}
 {103}{}{Stop it!}
 {104}{}{How could you?}
-{105}{}{Get away from me!}
+{105}{}{Tránh xa ta ra!}
 {106}{}{Tại sao?}
 {107}{}{Please stop!}
 {108}{}{You murderer!}
@@ -22,7 +22,7 @@
 {121}{}{You come here often?}
 {122}{}{I'll have to catch you later. Bye.}
 {123}{}{Okah?}
-{124}{}{Ug.}
+{124}{}{Hực.}
 {131}{}{Please don't bother me. I'm really not in the mood right now.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}

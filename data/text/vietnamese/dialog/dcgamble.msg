@@ -82,8 +82,8 @@
 {530}{}{I hate this game!}
 {531}{}{Damn! That was my number on the last spin!}
 {532}{}{Black again!?!?}
-{600}{}{Get away!}
+{600}{}{Biến đi!}
 {601}{}{Why did you do that?}
-{602}{}{Get away!}
+{602}{}{Biến đi!}
 {603}{}{Stop it, I'm fragile.}
 {604}{}{I wouldn't do that to you.}

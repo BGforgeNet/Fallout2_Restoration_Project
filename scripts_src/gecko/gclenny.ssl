@@ -28,7 +28,6 @@
 #define SCRIPT_REALNAME "gclenny"
 #include "../headers/define.h"
 #include "../headers/gecko.h"
-#include "../headers/newr1.h" //added by killap
 #include "../headers/rpu.h"
 
 #define NAME                    SCRIPT_GCLENNY
@@ -244,7 +243,7 @@ procedure map_enter_p_proc begin
    end
 
    //added by killap
-   add_timer_event(self_obj, random(25, 40), 900);
+   flush_add_timer_event_sec(self_obj, random(25, 40), 900);
 end
 
 procedure map_update_p_proc begin
@@ -275,7 +274,6 @@ procedure map_update_p_proc begin
          end
       end
    end
-
 end
 
 //added by killap - expansion
@@ -333,6 +331,10 @@ procedure critter_p_proc begin
          call Node071;
          ndebug("Childkiller");
       end
+      //else if (has_rep_berserker) then begin
+      //   call Node072;
+      //   ndebug("Berserker");
+      //end
       else if (has_rep_slaver) then begin
          call Node073;
          ndebug("Slaver");
@@ -611,6 +613,7 @@ procedure timed_event_p_proc begin
                floater(5002);
          end
       end
+      flush_add_timer_event_sec(self_obj, random(60, 90), 900);
    end
 end
 //end added

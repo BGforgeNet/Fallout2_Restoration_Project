@@ -50,7 +50,7 @@
 {138}{}{Why don't you leave?}
 {139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
 {140}{}{I'm heading out that way again. Why don't you come along?}
-{141}{}{Well, good luck to you.}
+{141}{}{Nåväl, lycka till.}
 {142}{}{Naw... you look like you got enough people following you around.}
 {143}{}{All right. Well, good luck.}
 {144}{}{You know, that doesn't sound like a half bad idea. Count me in.}

@@ -1,16 +1,16 @@
 {100}{}{You see Brother John.}
 {101}{}{You see one of the Abbey's older Monks.}
-{102}{}{You see an old monk. He looks to be in his early seventies.}
-{300}{}{Hi there, youngster.}
+{102}{}{Du ser en gammal munk. Han ser ut att vara i början av sjuttioårsåldern.}
+{300}{}{Hej på dig, lillkisen.}
 {301}{}{Vem är du?}
 {302}{}{Have you heard anything about a GECK or Vault 13?}
 {303}{}{Hej då.}
-{400}{}{My name is John, I'm one of the oldest monks here.}
-{401}{}{So, what's your job?}
-{402}{}{I see, bye.}
-{403}{}{Well, I used to work on a farm, but it was bad for my heart.}
-{404}{}{You have heart problems?}
-{405}{}{That's too bad, bye!}
+{400}{}{Mitt namn är John, jag är en av de äldsta munkarna här.}
+{401}{}{Så, vad är ditt jobb?}
+{402}{}{Jag förstår, hej då.}
+{403}{}{Jag brukade jobba på en gård, men det var dåligt för mitt hjärta.}
+{404}{}{Har du hjärtproblem?}
+{405}{}{Det är synd, hej då!}
 {406}{}{Yeah, I have a bad heart. If I still had my heart pills, it would ease my life a lot more. It is very difficult
  to find medicine for that problem in today's world you know.}
 {407}{}{I might have a solution for your heart problems...}

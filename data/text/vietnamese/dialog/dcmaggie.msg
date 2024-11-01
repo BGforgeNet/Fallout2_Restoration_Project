@@ -8,10 +8,10 @@
 {155}{}{. What's there to do around here?}
 {156}{}{Hi, I'm }
 {157}{}{. Can I ask some questions?}
-{158}{}{Mom?}
+{158}{}{Mẹ ơi?}
 {159}{}{Mag gah.}
 {160}{}{Run along. I don't need your kind here.}
-{161}{}{Mmmm...}
+{161}{}{Hừm...}
 {162}{}{Screw you.}
 {163}{}{I'm going.}
 {164}{}{Sorry, no offense was meant. Can I ask something?}

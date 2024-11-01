@@ -24,7 +24,7 @@
 {248}{}{¿Quién eres?}
 {249}{}{¿Eres Jesús Mordino?}
 {250}{}{Lo siento. He entrado en la estancia equivocada.}
-{260}{}{Tú. (Mordino penetra con la mirada a Myron cuando entra, como si relámpagos oscuros ardieran en sus ojos). Has…  abandonado tu puesto. Tu UTILIDAD
+{260}{}{Tú. (Mordino penetra con la mirada a Myron cuando entra, como si relámpagos oscuros ardieran en sus ojos). Has… abandonado tu puesto. Tu UTILIDAD
  para mí ha… finalizado. (Hace un gesto, y sus guardias desenfundan sus armas).}
 {261}{}{(Su mirada se ensombrece. Hace un gesto, y sus guardias desenfundan sus armas).}
 {262}{}{(La mirada de Gran Jesús se oscurece. Hace un gesto, y sus guardias desenfundan sus armas).}

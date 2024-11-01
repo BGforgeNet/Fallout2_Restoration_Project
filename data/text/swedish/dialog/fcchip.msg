@@ -57,14 +57,14 @@
 {156}{}{I found it. Go over to Dr. Wong's place.}
 {157}{}{Oh, I'll cover you. Get over to Fung's.}
 {158}{}{No prob. Good luck.}
-{159}{}{Did you talk to Fung?}
-{160}{}{Yeah, and he says he'll stick it in you for free.}
-{161}{}{Yeah, and he's charging me $1,000.}
+{159}{}{Har du pratat med Fung?}
+{160}{}{Ja, och han säger att han ska sticka in den i dig gratis.}
+{161}{}{Ja, och han tar $1 000 av mig.}
 {162}{}{}
-{163}{}{Wow. You have some serious connections. Come back in a day and I'll see what help I can give you.}
+{163}{}{Wow. Du har några seriösa kontakter. Kom tillbaka om en dag så ska jag se vad jag kan ge dig.}
 {164}{}{Ska ske.}
-{165}{}{Can you cover me?}
-{166}{}{Yeah, I suppose.}
+{165}{}{Kan du täcka mig?}
+{166}{}{Javisst, jag antar det.}
 {167}{}{Nej.}
 {168}{}{I really appreciate this. Come back in a day and I'll see what help I can give you.}
 {169}{}{You better.}

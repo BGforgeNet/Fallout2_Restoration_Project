@@ -2,7 +2,7 @@
 {101}{}{You see the Quartermaster.}
 {102}{}{You see someone wearing power armor of an unusual design.
  There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{}{Who the hell are you guys... Alert! Intruders on the base!}
+{103}{}{Vilka fan är ni... Varning! Inkräktare på basen!}
 {104}{}{What the... I can see why you're here. You obviously want
  to get rid of that antique suit you're wearing.}
 {105}{}{Why are you out of uniform, soldier?}

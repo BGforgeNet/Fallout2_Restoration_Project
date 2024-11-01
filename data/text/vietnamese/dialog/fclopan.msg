@@ -115,4 +115,4 @@
 {235}{}{You can take care of the Dragon yourself.}
 {236}{}{[Lo Pan studies you and then throws a quick punch which smacks you in the nose before you can even react.] You are not good enough.}
 {237}{}{Ok, but can I ask something else?}
-{238}{}{Fine. Bye.}
+{238}{}{Rồi. Tạm biệt.}

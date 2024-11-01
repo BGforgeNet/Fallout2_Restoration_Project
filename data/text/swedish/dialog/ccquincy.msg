@@ -1,23 +1,23 @@
-{100}{}{You see a man in a military uniform.}
-{101}{}{You see Quincy, the mechanic.}
-{102}{}{You see a man in a military uniform. Judging by the grease spots you think
- he is more of a mechanic than a soldier.}
-{103}{}{Name's Quincy, soldier. Why are you tapping my shoulder and looking lost?}
-{104}{}{Me need ask you something.}
+{100}{}{Du ser en man i militäruniform.}
+{101}{}{Du ser Quincy, mekanikern.}
+{102}{}{Du ser en man i militäruniform. Att döma av fettfläckarna tror du
+ att han är mer av en mekaniker än en soldat.}
+{103}{}{Namnet är Quincy, soldat. Varför knackar du på min axel och ser vilsen ut?}
+{104}{}{Jag fråga dig en sak.}
 {105}{}{Ingenting.}
-{106}{}{Hi. I need to ask you something.}
+{106}{}{Hej. Jag måste fråga dig en sak.}
 {107}{}{Never mind.}
-{108}{}{All right, but make it quick. I have inventory to do.}
-{109}{}{What do you need to know?}
+{108}{}{Okej, men det måste gå fort. Jag har en inventering att göra.}
+{109}{}{Vad behöver du veta?}
 {110}{}{What this place?}
-{111}{}{Me look for vertibird plans. Where find?}
-{112}{}{Me told by tech me find vertibird plans here.}
+{111}{}{Jag leta Vertibird-ritningar. Var hittar jag?}
+{112}{}{Jag veta från tekniker jag hitta Vertibird-planer här.}
 {113}{}{Jag gå nu.}
 {114}{}{Vad är det här för ställe?}
-{115}{}{I'm looking for vertibird plans. Do you know where I can find them?}
-{116}{}{I was told by a tech that I could find the vertibird plans here.}
-{117}{}{Well, got to go.}
-{118}{}{This is maintenance. We repair pretty much anything except for the vertibirds.}
+{115}{}{Jag letar efter Vertibird-ritningar. Vet du var jag kan hitta dem?}
+{116}{}{Jag fick höra av en tekniker att jag kunde hitta Vertibird-planerna här.}
+{117}{}{Nåväl, jag måste gå.}
+{118}{}{Det här är underhåll. Vi reparerar i stort sett allt utom vertibirderna.}
 {119}{}{Where vertibird get repair?}
 {120}{}{Where do the vertibirds get repaired?}
 {121}{}{They only fit in the hangar or outdoors. You figure it out from there, okay?}

@@ -13,7 +13,7 @@
 {217}{}{ME CANT TALK OVER RINGING. TURN OFF, WE TALK}
 {218}{}{I'm gonna CRIPPLE you, old man! You'll never walk again!}
 {219}{}{I knew I should have gotten permission first...}
-{220}{}{Shit!}
+{220}{}{Cứt thật!}
 {221}{}{Uh, please tell me that was room service.}
 {230}{}{(The elderly man looks up at you. His face is gaunt and covered with liver spots. He is holding
  a breathing mask, which is connected to an oxygen tank by his side.) What... do you want of me?}
@@ -140,7 +140,7 @@
  earned 10% of the cut.}
 {555}{}{(Takes a breath from his mask.) You have... done as I asked. I have no
  further need of your... services. (Points to the exit.) Leave now.}
-{556}{}{Uh... okay.}
+{556}{}{Ừ... okay.}
 {557}{}{Could I have one of those laser pistols as part of my payment before I go?}
 {565}{}{(Takes a deep breath from the mask.) I have another... matter that I could
  use your assistance with.}

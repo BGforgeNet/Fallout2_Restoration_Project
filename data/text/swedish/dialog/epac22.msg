@@ -57,7 +57,7 @@
  you think?}
 {391}{}{Definitely. Let me ask you something else.}
 {400}{}{Hello again. Something else I can help you with?}
-{401}{}{I have some questions.}
+{401}{}{Jag har några frågor.}
 {402}{}{Det är inte viktigt. Hej då.}
 {500}{}{You open up the side panel to the hologram emitter and look inside. You see a mess of cables and circuit boards.}
 {501}{}{Well, let's get started.}

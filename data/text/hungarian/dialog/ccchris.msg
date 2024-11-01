@@ -98,7 +98,7 @@
 {197}{}{Komolyan gondolom. Őket keresem.}
 {198}{}{Komolyan gondolom. Őket keresem.}
 {199}{}{Várjon egy percet, nagyokos! Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása?}
-{200}{}{Várjon egy percet!  Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása?}
+{200}{}{Várjon egy percet! Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása?}
 {201}{}{Öhm, egen.}
 {202}{}{Így van!}
 {203}{}{Picsába! Bocs ezért a színjátékért, de ezért vagyok itt, hogy a kíváncsiskodókat "békésebb" módszerekkel küldjem el, mint amivel a katonák tennék. Na, csak menjen a főkapuhoz, és közölje a jelszót. Ez jelen pillanatban a "tökfilkó". Ja, és maradjon a kövezett úton!}

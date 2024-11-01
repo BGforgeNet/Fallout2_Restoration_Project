@@ -89,7 +89,7 @@
 {301}{}{I'm all ears.}
 {302}{}{Something you wanted?}
 {303}{}{What is it? You look like you have something to say.}
-{304}{}{What's the matter?}
+{304}{}{Có chuyện gì thế?}
 {305}{}{Is there anything you need from me?}
 {310}{}{Kitsune, I'm pretty sure you wouldn't have been frozen in a cryo tank for no good reason.
  I'm interested in knowing what it was exactly you did before you were put on ice.}
@@ -156,7 +156,7 @@
 {376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other.
  More so than ever now. And that helps me carry on.}
 {377}{}{We all have our ways of coping.}
-{410}{}{What do you need to know?}
+{410}{}{Cần biết gì nào?}
 {411}{}{I have a black belt in sanshou. I can stab a man to death if the situation calls for it. Pistols, rifles and the like I'm decent with.}
 {420}{}{We need to talk about the distance between us.}
 {421}{}{What's wrong with it?}

@@ -63,7 +63,7 @@
 {400}{}{Need something?}
 {401}{}{How can the Cat be of service?}
 {402}{}{Ja?}
-{410}{}{What do you need to know?}
+{410}{}{Vad behöver du veta?}
 {411}{}{Well, I was trained to use the usual military stuff. Rifles, pistols, SMGs and the like. I prefer laser
  weapons and the like better though. Those have style! But if you give me some brass knuckles or one of those power fists,
  I'll pounce on any flat-footed goons before they know what hit them!}

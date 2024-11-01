@@ -25,7 +25,6 @@
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 #include "../headers/den.h"
-#include "../headers/newr1.h" //added by killap
 
 /* Standard Script Procedures */
 procedure start;
@@ -216,7 +215,7 @@ procedure timed_event_p_proc begin
             end
          end
       end
-      flush_add_timer_event_sec(self_obj, random(45, 90), timed_event_float); //edit by killap - was (15,30)
+      flush_add_timer_event_sec(self_obj, random(60, 90), timed_event_float); //edit by killap - was (15,30)
    end
    else if (fixed_param == TIMER_ENSURE_ANIM) then begin
       if not anim_busy(self_obj) then begin
@@ -243,7 +242,7 @@ procedure timed_event_p_proc begin
             end
          end
       end
-         add_timer_event(self_obj, game_ticks(1), TIMER_ENSURE_ANIM);
+      add_timer_event(self_obj, game_ticks(1), TIMER_ENSURE_ANIM);
    end
 end
 

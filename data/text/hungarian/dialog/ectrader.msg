@@ -9,7 +9,8 @@
 {108}{}{Üthetsz vele, vághatsz vele és különösen jól jöhet rosszindulatú állatok ellen. Ártól függetlenül előnyös vétel, de csak neked, csak ma nem több, mint }
 {109}{}{A környék legjobb fájából készült. Lehet vele szúrkálni, állatokat távol tartani, sőt, ha elég jó vagy, el is dobhatod. Csodálatosan áramvonalas és nem törik el becsapódáskor. Na, mit szólsz? Kész rablás, hogy az ára csak }
 {110}{}{Ez a fegyver a legjobb újrahasznosított acélból készült. Nézd csak meg, milyen kényelmesen illeszkedik a kezedbe! Nem kell aggódni, a mérnökeink biztonsági- és megbízhatósági teszteknek vetették alá. Nincs az az épeszű útonálló, aki beléd köt, ha ezt a kis aranyost a kezedben lóbálod. Az ára potom }
-{111}{}{Ez a kis gyöngyszem igazán egyedülálló. Származási helye... öö... Úgy működik, hogy rámutatsz vele...  mindegy, gőzöm sincs, mi a franc lehet ez. Kell vagy nem? Az ára }
+{111}{}{Ez a kis gyöngyszem igazán egyedülálló. Származási helye...
+ öö... Úgy működik, hogy rámutatsz vele... mindegy, gőzöm sincs, mi a franc lehet ez. Kell vagy nem? Az ára }
 {112}{}{Ez a kis készség mintha azt mondaná: "Ne kekeckedj velem!" A puszta látványa menekülésre készteti az ellenségeidet. Alkalmi vétel. Az ára }
 {113}{}{Nekem úgy tűnik, hogy te az a fajta fickó vagy, aki harcban szeret közeli és személyes kapcsolatot kialakítani az ellenféllel. Nos, neked pont erre a kis aranyos készségre van szükséged, és nem kerül többe, mint }
 {114}{}{Megveszem.}

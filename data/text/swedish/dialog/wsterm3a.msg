@@ -23,7 +23,7 @@
 {115}{}{}
 {116}{}{}
 {117}{}{Ug}
-{118}{}{Exit.}
+{118}{}{Avsluta.}
 {119}{}{I am Skynet. Artificial Intelligence project number 59234.
  Primary purpose Research and Development. Secondary purpose Protect
  Sierra Army Depot from hostile entities.
@@ -32,7 +32,7 @@
 {121}{}{I'm Corporal Dixon.}
 {122}{}{Jag är }
 {123}{}{I'm a friend.}
-{124}{}{Exit.}
+{124}{}{Avsluta.}
 {125}{}{Picture does not match that of Corporal Dixon's personnel file.
                                                                 Conclusion: Subject is lying.
                                          Conclusion: Enemy
@@ -42,7 +42,7 @@
 {127}{}{}
 {128}{}{}
 {129}{}{}
-{130}{}{Exit.}
+{130}{}{Avsluta.}
 {131}{}{No record of that name in personnel files
                       Scanning
                                                         Human  - Female
@@ -59,14 +59,14 @@
 {136}{}{}
 {137}{}{}
 {138}{}{}
-{139}{}{Exit.}
+{139}{}{Avsluta.}
 {140}{}{Definition: Friend
                                                     Noun - One who is not hostile.
                                      Proceed to control room for further analysis.
                  -End Transmission-}
 {141}{}{}
 {142}{}{}
-{143}{}{Exit.}
+{143}{}{Avsluta.}
 {200}{}{ is unable to read what's on the monitor.}
 {300}{}{The computer seems to have some sort of defense mechanism.}
 {301}{}{You are shocked for }

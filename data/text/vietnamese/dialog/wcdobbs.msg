@@ -17,7 +17,7 @@
 {116}{}{Chào.}
 {117}{}{And then I woke up here. I have to go! I have to get back to my unit.}
 {118}{}{Chào.}
-{200}{}{Where am I?}
+{200}{}{Tôi đang ở đâu?}
 {201}{}{My head hurts.}
 {202}{}{Why am I covered in goo?}
 {300}{}{I have to rejoin my unit.}

@@ -11,7 +11,7 @@
 {156}{}{I see why you call this place "The Hole."}
 {157}{}{Vadå?}
 {158}{}{What's yer pleasure?}
-{159}{}{Whiskey.}
+{159}{}{Whisky.}
 {160}{}{Kvinnor.}
 {161}{}{Män.}
 {162}{}{Info.}
@@ -21,20 +21,20 @@
 {166}{}{Or what?}
 {167}{}{Just do your job and get me a drink.}
 {168}{}{I'll just leave instead.}
-{169}{}{Whiskey is $}
-{170}{}{ a shot.}
-{171}{}{Here's your money.}
-{172}{}{No way! That's too much!}
-{173}{}{Why does your whiskey cost so much more than Becky's?}
+{169}{}{Whisky kostar $}
+{170}{}{ per shot.}
+{171}{}{Här får du dina pengar.}
+{172}{}{Aldrig i livet! Det kostar för mycket!}
+{173}{}{Varför kostar din whisky så mycket mer än Beckys?}
 {174}{}{Nej tack.}
 {175}{}{Nåt annat?}
 {176}{}{Ja.}
-{177}{}{Nope, thanks.}
+{177}{}{Nej, tack.}
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}
 {180}{}{I'll come back.}
 {181}{}{Vad vill du?}
-{182}{}{Whiskey.}
+{182}{}{Whisky.}
 {183}{}{Nothing. I'm leaving.}
 {184}{}{Wahdo a peedee!}
 {185}{}{And stay out!}
@@ -46,7 +46,7 @@
 {191}{}{Well, you should try to find out.}
 {192}{}{I could find out.}
 {193}{}{I know how she does it.}
-{194}{}{I'll just go buy whiskey from her.}
+{194}{}{Då köper jag bara whisky av henne.}
 {195}{}{If you find out where she gets her booze, I'll pay you $100.}
 {196}{}{OK, I'll find out.}
 {197}{}{Nope, not interested.}

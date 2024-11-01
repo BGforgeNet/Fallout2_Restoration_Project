@@ -6,7 +6,7 @@
 {105}{}{TIUASPO-Lo-Shi-S12908}
 {106}{}{Piratear la computadora.}
 {107}{}{Salir.}
-{108}{}{Base de datos Química: Combustible y derivados  - Polímeros}
+{108}{}{Base de datos Química: Combustible y derivados - Polímeros}
 {109}{}{Combustible y derivados.}
 {110}{}{Polímeros.}
 {111}{}{Desactivar estación de trabajo.}

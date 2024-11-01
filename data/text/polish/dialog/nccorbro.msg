@@ -301,7 +301,7 @@
 {5246}{}{. Ładna dzisiaj pogoda, prawda?}
 {5252}{}{?}
 {5256}{}{, jeśli CHCESZ zrobić sobie z nami zdjęcie...}
-{5528}{}{ też ci nic nie da. Spadam z tego podrzędnego studia.}
+{5528}{}{też ci nic nie da. Spadam z tego podrzędnego studia.}
 {5535}{}{!" PODOBA mi się! PODOBA! A teraz, KRĘCIMY...}
 {5641}{}{ cię ładnie prosi, więc nie przynieś wstydu.}
 {5712}{}{!}

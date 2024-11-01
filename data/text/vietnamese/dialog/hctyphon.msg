@@ -104,7 +104,7 @@
 {202}{}{Nuh uh.}
 {203}{}{Chưa.}
 {204}{}{Nope. I had some questions.}
-{205}{}{Nope. Bye.}
+{205}{}{Không. Chào.}
 {206}{}{Well, keep lookin'. You're bound to get it eventually.}
 {207}{}{Okay.}
 {208}{}{Guess so. Bye.}

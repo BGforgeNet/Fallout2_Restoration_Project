@@ -6,7 +6,7 @@
 {105}{}{Vem är du?}
 {106}{}{Name's Bob. Saltbeef Bob, yep. How about you?}
 {107}{}{What'd you say your name was again, stranger? I'm Saltbeef Bob.}
-{108}{}{[Player name]}
+{108}{}{[Spelarens namn]}
 {109}{}{Saltbeef? What kind of name is that?}
 {110}{}{What are you doing here?}
 {111}{}{That's a right fine name, yep. Say, you wouldn't have a drink on ya, pardner?}

@@ -24,7 +24,6 @@
 
 #define SCRIPT_REALNAME "mcmiria"
 #include "../headers/define.h"
-#include "../headers/newr1.h" //added by killap
 
 #define NAME                        SCRIPT_MCMIRIA
 #define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
@@ -161,7 +160,7 @@ procedure timed_event_p_proc begin
                floater(2002);
          end
       end
-      add_timer_event(self_obj, random(25, 40), 900);
+      flush_add_timer_event_sec(self_obj, random(60, 90), 900);
    //end added by killap
    end else if (fixed_param == param_clear_float) then begin
       float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
@@ -217,7 +216,7 @@ procedure map_enter_p_proc begin
    end
 
    //added by killap
-   add_timer_event(self_obj, random(25, 40), 900);
+   flush_add_timer_event_sec(self_obj, random(25, 40), 900);
 end
 
 procedure critter_p_proc begin

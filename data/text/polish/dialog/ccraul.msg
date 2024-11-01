@@ -13,7 +13,7 @@
 {112}{}{Quincy mówić ty dupek. On mówić ty mieć pietra przyjść.}
 {113}{}{Dobra.}
 {114}{}{Quincy powiedział, że jesteś dupkiem i masz za dużego pietra, żeby się do niego zgłosić.}
-{115}{}{Hej, człowieku, Raul nie będzie słuchać tego gówna od nikogo. Czy widzisz, żeby Quincy robił coś przy tych ptaszkach? Człowieku, mowy nie ma. Tylko Raul pracuje przy tych maluszkach. A wiesz dlaczego? Bo Quincy się na tym CHUJA zna, oto dlaczego!}
+{115}{}{ Hej, człowieku, Raul nie będzie słuchać tego gówna od nikogo. Czy widzisz, żeby Quincy robił coś przy tych ptaszkach? Człowieku, mowy nie ma. Tylko Raul pracuje przy tych maluszkach. A wiesz dlaczego? Bo Quincy się na tym CHUJA zna, oto dlaczego!}
 {116}{}{Uch...}
 {117}{}{No więc...}
 {118}{}{No wybacz, człowieku. Raul nie powinien tak na ciebie wrzeszczeć, no nie? To nie twoja wina, ty tu tylko nosisz wiadomości. Hej, człowieku, masz teraz chwilkę?}

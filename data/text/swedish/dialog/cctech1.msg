@@ -1,12 +1,12 @@
 {100}{}{You see a tech.}
 {101}{}{You see an Enclave technician.}
-{102}{}{You see someone wearing a lab coat with a pocket protector and lots of pens stuffed in it. He has that slightly confused look of someone new to a job.}
-{103}{}{Yes, sir?}
+{102}{}{Du ser någon som bär en labbrock med ett fickskydd och massor av pennor i. Han ser lite förvirrad ut som någon som är ny på ett jobb.}
+{103}{}{Ja, sir?}
 {104}{}{Me new here. Need ask question.}
 {105}{}{Me just say hi. Me go now.}
-{106}{}{I'm new here. I need to ask a few questions to familiarize myself with the base.}
-{107}{}{Sorry to bother you. I'm just saying hi.}
-{108}{}{I'm a new recruit myself, sir. I don't know if I can answer all your questions but I'll try.}
+{106}{}{Jag är ny här. Jag behöver ställa några frågor för att bekanta mig med basen.}
+{107}{}{Ledsen att störa dig. Jag säger bara hej.}
+{108}{}{Jag är själv nyrekryterad, sir. Jag vet inte om jag kan svara på alla dina frågor, men jag ska försöka.}
 {109}{}{What can I help you with?}
 {110}{}{What this place?}
 {111}{}{What you job?}
@@ -18,22 +18,22 @@
 {120}{}{Where is the Enclave main base located?}
 {121}{}{I need to look at the vertibird plans. Where are they kept?}
 {125}{}{Nothing. I've got to go.}
-{126}{}{This is the comm center. We handle all communications with the main base from here.}
+{126}{}{Det här är kommunikationscentralen. Vi sköter all kommunikation med huvudbasen härifrån.}
 {127}{}{Me see. Me ask more.}
 {128}{}{All right. A couple more questions.}
-{129}{}{I'm a comm center technician, second class. I handle all communications with main base and I maintain equipment status.}
+{129}{}{Jag är en kommunikationscentertekniker, andra klass. Jag sköter all kommunikation med huvudbasen och underhåller utrustningens status.}
 {130}{}{Uh... yeah.}
 {131}{}{Good. Keep up the good work.}
-{132}{}{You've got to be kidding, right? }
-{133}{}{No kid. Where base?}
-{134}{}{Do I look like I'm kidding?}
-{135}{}{The main base is located off the Pacific coast near the city of San Francisco. May I ask why you are asking?}
-{136}{}{No. Reason military. How many way get to base?}
-{137}{}{No. This is a military matter. Now, how many ways do you know of to reach the base?}
+{132}{}{Du måste skämta, eller hur? }
+{133}{}{Inte skämt. Var bas?}
+{134}{}{Ser jag ut som om jag skojar?}
+{135}{}{Huvudbasen ligger utanför Stillahavskusten nära staden San Francisco. Får jag fråga varför du frågar?}
+{136}{}{Nej. Anledning militär. Hur många sätt till basen?}
+{137}{}{Nej, det här är en militär angelägenhet. Hur många sätt känner du till för att nå basen?}
 {138}{}{Well... there's the vertibirds, but that's pretty obvious. Then there's the tanker down in San Fran. Other than that I guess you'd have to swim.}
 {139}{}{Tack.}
 {140}{}{Tack.}
-{141}{}{They would be located in maintenance, next to air traffic control. }
+{141}{}{De skulle finnas på underhållsavdelningen, bredvid flygledningen. }
 {142}{}{Okej.}
 {143}{}{Got it.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}

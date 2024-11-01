@@ -58,5 +58,5 @@
 {163}{}{Well, it's getting late. Bye.}
 {164}{}{My pleasure. Bye.}
 {165}{}{Chào.}
-{166}{}{Nevermind.}
+{166}{}{Quên đi.}
 {167}{}{Leanne told you her story about the Master.}

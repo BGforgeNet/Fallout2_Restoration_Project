@@ -53,7 +53,7 @@
 {145}{}{All I hear about are politics. That always seems to be the big stir in discussion.}
 {146}{}{Politics? What do you mean?}
 {147}{}{Of course. Let me ask you about something else.}
-{148}{}{Well, that's all I needed to know. Goodbye.}
+{148}{}{Det var allt jag behövde veta. Hej då.}
 {149}{}{I used to work in the Malamute Saloon. As part of that job, people called me Madame. The name
  just stuck, even though I don't work there any more.}
 {150}{}{Where do you work now?}
@@ -61,10 +61,10 @@
 {152}{}{I think that's all I need to know. Goodbye.}
 {153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
  batch. I 'm not eager to try that again. Oh well, back to the bottle, I suppose.}
-{154}{}{Sounds bad. Let me ask you something else, then.}
+{154}{}{Det låter illa. Låt mig fråga dig något annat, då.}
 {155}{}{I understand. Well, that's all I needed to know. Goodbye.}
 {156}{}{I feel better than I look. Not by much, but enough.}
-{157}{}{What do you mean? What happened?}
+{157}{}{Vad menar du? Vad hände?}
 {158}{}{Have you ever seen a greased brahmin contest?}
 {159}{}{Sure I have. Uh, plenty of times. Let me ask you something else.}
 {160}{}{Nope, never heard of anything like that. Tell me about them.}

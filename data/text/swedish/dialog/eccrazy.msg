@@ -1,5 +1,5 @@
-{100}{}{You see a crazy.}
-{101}{}{Mmmm....brains.}
-{102}{}{Send more adventurers.}
-{103}{}{Mooooaaaan...}
-{104}{}{Make the pain stop.}
+{100}{}{Du ser en galning.}
+{101}{}{Mmmm....hjärnor.}
+{102}{}{Skicka fler äventyrare.}
+{103}{}{Stöööön...}
+{104}{}{Få smärtan att ta slut.}

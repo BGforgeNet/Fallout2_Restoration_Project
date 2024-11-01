@@ -756,16 +756,16 @@
 {38801}{}{You suspect this Bringham needler pistol was once used for scientific field studies. It uses small hard-plastic hypodermic darts as ammo. Min ST: 3.}
 {38900}{}{Avenger Minigun}
 {38901}{}{Rockwell designed the Avenger as the replacement for their aging CZ53 Personal Minigun. The Avenger's design improvements include improved, gel-fin, cooling and chromium plated barrel-bores. This gives it a greater range and lethality. Min ST: 7.}
-{39000}{}{Solar Scorcher}
-{39001}{}{Without the sun's rays to charge this weapon's capacitors this gun can't light a match. However, in full daylight, the experimental photo-electric cells that power the Scorcher allow it to turn almost anything into a crispy critter. Min ST: 3.}
+{39000}{}{Solbrännaren}
+{39001}{}{Utan solens strålar för att ladda vapnets kondensatorer kan den här pistolen inte ens tända en tändsticka. Men i fullt dagsljus kan de experimentella fotoelektriska cellerna som driver Brännaren förvandla nästan vad som helst till ett krispigt kreatur. Min ST: 3.}
 {39100}{}{H&K G11E}
-{39101}{}{This gun revolutionized squad level support weapon design. The gun fires a caseless cartridge consisting of a block of propellant with a bullet buried inside. The resultant weight and space savings allow it to have a very high magazine capacity. Min ST: 6.}
-{39200}{}{M72 Gauss Rifle}
-{39201}{}{The M72 rifle is of German design. It uses an electromagnetic field to propel rounds at tremendous speed... and pierce almost any obstacle. Its range, accuracy and stopping power is almost unparalleled. Min ST: 6.}
+{39101}{}{Detta vapen revolutionerade utformningen av understödsvapen på truppnivå. Pistolen avfyrar en hylslös patron som består av ett drivmedelsblock med en kula inuti. Den resulterande vikt- och utrymmesbesparingen gör att den kan ha en mycket hög magasinkapacitet. Min ST: 6.}
+{39200}{}{M72 Gaussgevär}
+{39201}{}{M72-geväret är av tysk design. Det använder ett elektromagnetiskt fält för att avfyra kulor med enorm hastighet... och genomborra nästan alla hinder. Dess räckvidd, precision och stoppkraft är nästan oöverträffad. Min ST: 6.}
 {39300}{}{Phazer}
-{39301}{}{This mysterious high tech weapon appears to have some sort of energy generator inside. If it wasn't damaged, this gun could be the ultimate weapon against any enemy. The backup energy module consists of replaceable small energy cell. Min ST: 3.}
-{39400}{}{PPK12 Gauss Pistol}
-{39401}{}{Praised for its range and stopping power, the PPK12 Gauss Pistol is of German design. The pistol uses an electromagnetic field to propel rounds at tremendous speed and punch through almost any armor. Min ST: 4.}
+{39301}{}{Det här mystiska högteknologiska vapnet verkar ha någon form av energigenerator inuti. Om den inte var skadad skulle den här pistolen kunna vara det ultimata vapnet mot alla fiender. Reservkraftmodulen består av en utbytbar liten energicell. Min ST: 3.}
+{39400}{}{PPK12 Gausspistol}
+{39401}{}{PPK12 Gauss Pistol är en tysk design som är berömd för sin räckvidd och stoppkraft. Pistolen använder ett elektromagnetiskt fält för att avfyra kulor med enorm hastighet och slå igenom nästan alla pansar. Min ST: 4.}
 {39500}{}{Vindicator Minigun}
 {39501}{}{The German Rheinmetal AG company created the ultimate minigun. The Vindicator throws over 90,000 caseless shells per minute down its six carbon-polymer barrels. As the pinnacle of Teutonic engineering skill, it is the ultimate hand-held weapon. Min ST: 7.}
 {39600}{}{YK32 Pulse Pistol}

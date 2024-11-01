@@ -1,7 +1,7 @@
-{100}{}{The generator is functioning normally. Power output is optimal.}
-{101}{}{The generator seems to be in an emergency stand-by mode. The power output is minimal.}
-{102}{}{Try to diagnose the problem.}
-{103}{}{Oh well. Gotta go.}
+{100}{}{Generatorn fungerar normalt. Eltillförseln är optimalt.}
+{101}{}{Generatorn verkar vara i standby-läge för nödsituationer. Eltillförseln är minimal.}
+{102}{}{Försök att diagnostisera problemet.}
+{103}{}{Åh, ja. Måste gå.}
 {104}{}{There must have been a short in the system at some time. The emergency circuit breakers kicked
  in, but fused in the open position. You may be able to free them up and restore power.}
 {105}{}{You can't seem to find anything wrong. It just doesn't work.}

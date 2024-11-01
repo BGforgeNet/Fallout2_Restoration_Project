@@ -192,7 +192,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, au
 {588}{}{Hmmmm. Gracias por la información.}
 {595}{}{(Te estudia, y después te indica que te des la vuelta con el dedo). Gírate para que te vea. Hmmmm… }
 {596}{}{No, no creo que pases la criba. Quizá si te lavases un poco, te
-  pusieses… presentable. Lo siento.}
+ pusieses… presentable. Lo siento.}
 {597}{}{Sí… sí, creo que lo harías bien. ¿Te interesa probar? El resto de mis chicas
  están… hartas de ello.}
 {598}{}{Claro.}

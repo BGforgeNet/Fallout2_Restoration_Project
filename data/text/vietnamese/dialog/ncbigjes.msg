@@ -62,7 +62,7 @@
 {325}{}{(Mordino waits. As you watch, another bead of sweat trickles down the side of his face.)}
 {326}{}{I was looking to sell some slaves...}
 {327}{}{What do you know about Richard Wright's death?}
-{329}{}{Nevermind.}
+{329}{}{Quên đi.}
 {335}{}{(Studies you.) I... do not know you, but I will... hear you. (Wipes sweat from his forehead.) }
 {336}{}{You have slaves to sell?}
 {337}{}{Yes, right here with me. Take a look and make me an offer.}

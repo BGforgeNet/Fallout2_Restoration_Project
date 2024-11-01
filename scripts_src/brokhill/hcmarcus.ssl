@@ -29,7 +29,6 @@
 #include "../headers/define.h"
 #include "../headers/broken.h"
 #include "../headers/broken1.h"
-#include "../headers/newr1.h" //added by killap
 
 #define NAME                    SCRIPT_HCMARCUS
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
@@ -52,7 +51,6 @@ procedure description_p_proc;
 procedure use_skill_on_p_proc;
 procedure use_obj_on_p_proc;
 procedure damage_p_proc;
-procedure map_update_p_proc;
 procedure map_enter_p_proc;
 procedure timed_event_p_proc;
 procedure combat;
@@ -273,7 +271,7 @@ procedure map_enter_p_proc begin
 
    if (Marcus_In_Party) then begin
       Perform_Critter_Float := 1;
-      add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
+      flush_add_timer_event_sec(self_obj, random(40, 50), 1);
    end
    else begin
       Perform_Critter_Float := 0;
@@ -287,15 +285,11 @@ procedure map_enter_p_proc begin
    end
 end
 
-procedure map_update_p_proc begin
-end
-
 procedure push_p_proc begin
    call Node2001;
 end
 
 procedure timed_event_p_proc begin
-   variable count;
    // 1 - Standard Floats
    if( fixed_param == 1 ) then begin
       if( ( not( combat_is_initialized ) ) and
@@ -323,35 +317,35 @@ procedure timed_event_p_proc begin
                call Node2015;
          end
       end
-      add_timer_event( self_obj, game_ticks( random(100, 125) ), 1); //edit by killap - was (40,50)
+      flush_add_timer_event_sec(self_obj, random(60, 90), 1); //edit by killap - was (40,50)
    end else if ( fixed_param == 2 ) then begin
       if (series == 1) then begin
-            series := 2;
-            floater(40001);
-            add_timer_event(self_obj,game_ticks(5),2);
+         series := 2;
+         floater(40001);
+         add_timer_event(self_obj,game_ticks(5),2);
       end else if (series == 2) then begin
-            series := 3;
-            float_msg(Chad_Ptr, mstr(40002), FLOAT_MSG_NORMAL);
-            add_timer_event(self_obj,game_ticks(3),2);
+         series := 3;
+         float_msg(Chad_Ptr, mstr(40002), FLOAT_MSG_NORMAL);
+         add_timer_event(self_obj,game_ticks(3),2);
       end else if (series == 3) then begin
-            series := 0;
-            gfade_out(600);
-            game_ui_enable;
-            move_to(self_obj, 18284, 0 );
-            move_to(dude_obj, 18287, 0 );
-            reg_anim_clear( self_obj );
-            self_rotate(3);
-            //anim(self_obj, ANIMATE_ROTATION, 0 );
-            call Put_Chad_In_Jail;
-            gfade_in(600);
-            floater(40000);
-            display_msg(mstr(40003));
-            give_xp(1500);
-            inc_general_rep(5);
-            inc_global_var_amt(GVAR_TOWN_REP_BROKEN_HILLS,5);
+         series := 0;
+         gfade_out(600);
+         game_ui_enable;
+         move_to(self_obj, 18284, 0 );
+         move_to(dude_obj, 18287, 0 );
+         reg_anim_clear( self_obj );
+         self_rotate(3);
+         //anim(self_obj, ANIMATE_ROTATION, 0 );
+         call Put_Chad_In_Jail;
+         gfade_in(600);
+         floater(40000);
+         display_msg(mstr(40003));
+         give_xp(1500);
+         inc_general_rep(5);
+         inc_global_var_amt(GVAR_TOWN_REP_BROKEN_HILLS,5);
       end
-  end
-  //end added
+   end
+   //end added
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
@@ -414,7 +408,6 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_INTOLERANT;
    Karma_Perception:=KARMA_PERCEPTION3;

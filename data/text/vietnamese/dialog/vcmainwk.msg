@@ -66,7 +66,7 @@
 {164}{}{Hell, I ordered a Super Snap-Off Tool Kit MONTHS ago, but just like always, it won't show until I don't need it anymore. It's a wonder things ever get done around here...}
 {165}{}{Maybe I could help you.}
 {166}{}{Oh. Well, sorry to hear it. I may be back.}
-{167}{}{Yes. Why?}
+{167}{}{Đúng vậy. Sao chứ?}
 {168}{}{Well, I have a wrench and a pair of pliers right here.}
 {169}{}{Maybe I could go find some and bring them back to you.}
 {170}{}{What's the problem with getting more tools?}

@@ -1,8 +1,8 @@
-{100}{}{You see a cannibal.}
-{101}{}{Foood!}
-{102}{}{It's eating time!}
-{103}{}{Hmmm... white meat.}
-{104}{}{Yum!}
-{105}{}{Tasty!}
-{106}{}{It looks tender.}
+{100}{}{Du ser en kannibal.}
+{101}{}{Maaat!}
+{102}{}{Det är dags att äta!}
+{103}{}{Hmmm... vitt kött.}
+{104}{}{Mums!}
+{105}{}{Smarrigt!}
+{106}{}{Den ser mör ut.}
 {107}{}{::Slurp::}

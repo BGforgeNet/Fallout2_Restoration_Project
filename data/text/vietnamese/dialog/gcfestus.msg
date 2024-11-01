@@ -228,4 +228,4 @@
 {829}{}{You make me so proud.}
 {830}{}{Thanks. Now let me get back to my important work.}
 {831}{}{Keep that up and you may get to be just like me someday.}
-{900}{}{Can't you see that I am busy?}
+{900}{}{Không thấy là ta đang bận hả?}

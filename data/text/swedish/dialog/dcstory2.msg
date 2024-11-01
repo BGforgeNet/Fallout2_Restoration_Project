@@ -37,7 +37,7 @@
 {142}{}{Självklart.}
 {143}{}{Do you think you're funny or something? Get a better line.}
 {144}{}{So why the glum face?}
-{145}{}{Whatever, bye.}
+{145}{}{Visst, hej då.}
 {146}{}{I hear there used to be ones that were as big as you and me. They used to eat animals as big as a brahmin. Now that's scary stuff.}
 {147}{}{That's nothing.}
 {148}{}{Yeah, it is.}

@@ -23,7 +23,6 @@
 #include "../headers/command.h"
 #include "../headers/newreno.h"
 #include "../headers/modreact.h"
-#include "../headers/newr1.h" //added by killap
 
 /* Standard Script Procedures */
 procedure start;

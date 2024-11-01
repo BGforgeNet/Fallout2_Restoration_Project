@@ -15,7 +15,7 @@
 {114}{}{Good to see you, Citizen.}
 {115}{}{Vault City prevails, Citizen.}
 {116}{}{Get out of here.}
-{117}{}{Get lost.}
+{117}{}{Försvinn.}
 {118}{}{Got a problem? Or are you looking for one?}
 {119}{}{I don't want to have to hurt you.}
 {120}{}{You're cleared to enter. Head on in.}
@@ -63,7 +63,7 @@
 {162}{}{Okay, here you go.}
 {163}{}{Uh, what I meant was, how do I go about getting Citizenship?}
 {164}{}{My apologies, Citizen. I didn't mean to offend you. You have clearance to enter.}
-{165}{}{Very well.}
+{165}{}{Mycket bra.}
 {166}{}{Look, "Citizen," you need a Day Pass to get in here, all right? Don't try to trick me again.}
 {167}{}{(Leave.)}
 {168}{}{Hmmmnn... these look legit. Funny, I don't recall ever seeing you around before.}
@@ -79,7 +79,7 @@
 {178}{}{Uh, yes... Vault City prevails, Citizen.}
 {179}{}{Tack.}
 {180}{}{Day Pass, please.}
-{181}{}{Here you go.}
+{181}{}{Varsågod.}
 {182}{}{I don't need a Day Pass. I'm a Citizen.}
 {183}{}{I was just stopping by to see how you were doing.}
 {184}{}{I don't have time for small talk, all right? Now get out of here.}

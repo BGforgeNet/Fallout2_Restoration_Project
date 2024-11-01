@@ -1,6 +1,6 @@
 {100}{}{Egy kicsit telt, szőke titkárnőt látsz. Tuti feszülős ruhát visel.}
 {101}{}{Az Elnök *személyi* titkárnője.}
-{102}{}{Egy telt, nem annyira vonzó  buksz... úgy értem, titkárnőt látsz. Kicsit zilált a haja.}
+{102}{}{Egy telt, nem annyira vonzó buksz... úgy értem, titkárnőt látsz. Kicsit zilált a haja.}
 {103}{}{Hé? Mit szeretnél édes?}
 {104}{}{Most nem lehet, az előbb tisztítottam le a ruhámat.}
 {105}{}{Ezúttal mit szeretne, Fontos úr?}

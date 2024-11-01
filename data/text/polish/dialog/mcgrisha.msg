@@ -20,7 +20,7 @@
 {168}{}{Czy możesz mi powiedzieć coś o rzeźni?}
 {169}{}{Widzę, że susza jeszcze nie wpłynęła zbytnio na twój biznes?}
 {170}{}{Wiedziałem, że dasz sobie z tym radę. Więc jestem ci winien $1000 za ukończenie tej roboty. Niemniej, z powodu twojej nieostrożności pogłowie bramin zmniejszyło się o }
-{171}{}{. Licząc po $100 za braminę, twoja nagroda wynosi }
+{171}{}{ . Licząc po $100 za braminę, twoja nagroda wynosi }
 {172}{}{. Nie zadawaj sobie trudu, i nie zmyślaj liczby bramin, które zostały zabite - jeden z moich chłopaków poszedł za tobą i obserwował cię z ukrycia.}
 {173}{}{Nie mówiłeś nic o obciążaniu mnie w przypadku śmierci jakiejkolwiek braminy!}
 {174}{}{Ty wredny, dwulicowy starcu! Argh! Uprzedzam cię - to jest ostatni raz, gdy zachowuję się tak grzecznie!}

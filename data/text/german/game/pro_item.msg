@@ -1036,7 +1036,7 @@
 {53600}{}{Fisch}
 {53601}{}{ein roher Fisch. Gekocht würde er sicher ne leckere Mahlzeit abgeben.}
 {53700}{}{Ode an die Flammenflut}
-{53701}{}{Ein Roman der nach einem verherrenden Atomkrieg spielt. Das Buch beschreibt eine  auf Weißheit und fort- schrittlicher Technik aufgebaute Kultur, welche die Entwicklung von Atomwaffen zuließ, die nach einem Krieg einen gewaltigen Rückschritt erlebte.}
+{53701}{}{Ein Roman der nach einem verherrenden Atomkrieg spielt. Das Buch beschreibt eine auf Weißheit und fort- schrittlicher Technik aufgebaute Kultur, welche die Entwicklung von Atomwaffen zuließ, die nach einem Krieg einen gewaltigen Rückschritt erlebte.}
 {53800}{}{Buch}
 {53801}{}{Ein altes Buch aus der Vorkriegszeit. Es ist ziemlich technisch gehalten und scheint keine nützliche Information zu enthalten.}
 {53900}{}{Technische Anleitung}
@@ -1064,7 +1064,7 @@
 {55000}{}{Toaster}
 {55001}{}{silberner Toaster, der auf dem Tisch steht}
 {55100}{}{Spritze}
-{55101}{}{Ein Vorkriegswerkzeug um chemische Substanzen zu verabreichen. Sie ist   mit einer unbekannten Substanz gefüllt.}
+{55101}{}{Ein Vorkriegswerkzeug um chemische Substanzen zu verabreichen. Sie ist  mit einer unbekannten Substanz gefüllt.}
 {55200}{}{Hundefutter}
 {55201}{}{Verschiedene Dosen Hundefutter}
 {55300}{}{Fliegenspray}
@@ -1110,11 +1110,11 @@
 {57300}{}{UASH-Behälter}
 {57301}{}{Ein Behälter mit Hemmstoffen gegen das Umweltabstoßungs- syndrom. Die Probe wird Exemplaren verabreicht, die längere Zeit eingefroren waren.}
 {57400}{}{Lichtschwert}
-{57401}{}{Eine sehr alte Waffe  aus einem weitaus zivilisierterem Zeitalter. Nicht so schwerfällig oder willkürlich wie ein Blaster. Obi-Wan-Killap gab es dir.    Mindest-ST: 2}
+{57401}{}{Eine sehr alte Waffe aus einem weitaus zivilisierterem Zeitalter. Nicht so schwerfällig oder willkürlich wie ein Blaster. Obi-Wan-Killap gab es dir. Mindest-ST: 2}
 {57500}{}{Blaster}
 {57501}{}{Gespenstische Religionen und alte Waffen sind nichts gegenüber einem guten Blaster an deiner Seite, Kind. Min. ST: 3}
 {57600}{}{Lichtschwert}
-{57601}{}{Eine sehr alte Waffe aus einem weitaus zivilisierterem Zeitalter. Nicht so schwerfällig oder willkürlich wie ein Blaster. Imperatorin Timeslip gab es dir.  Mindest-ST: 2.}
+{57601}{}{Eine sehr alte Waffe aus einem weitaus zivilisierterem Zeitalter. Nicht so schwerfällig oder willkürlich wie ein Blaster. Imperatorin Timeslip gab es dir. Mindest-ST: 2.}
 {57700}{}{Lüftungsgitter}
 {57701}{}{Der Grill auf diesem Ventilator sieht anders aus.}
 {57800}{}{Metall Spind}
@@ -1122,7 +1122,7 @@
 {57900}{}{Metall Spind}
 {57901}{}{Ein Vorratsbehälter.}
 {58000}{}{Chin. Zeichencodetabelle}
-{58001}{}{Du bist nicht sicher, aber es scheint sich   um ein Diagramm mit verschiedenen chines-  ischen Kommandocodes zu handeln. Vielleicht, wenn du einen Platz zur Eingabe dieser Codes findest, kannst du ein paar Sachen lernen.}
+{58001}{}{Du bist nicht sicher, aber es scheint sich um ein Diagramm mit verschiedenen chinesischen Kommandocodes zu handeln. Vielleicht, wenn du einen Platz zur Eingabe dieser Codes findest, kannst du ein paar Sachen lernen.}
 {58100}{}{Toter Wilder}
 {58101}{}{Diese Person ist einen schrecklichen Tod auf dem medizinischen Tisch gestorben.}
 {58200}{}{Toter Wilder}

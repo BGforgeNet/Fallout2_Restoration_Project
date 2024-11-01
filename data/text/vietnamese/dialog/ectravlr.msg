@@ -3,7 +3,7 @@
 {102}{}{I'm in need of directions. Can you help me out?}
 {103}{}{Where are you headed?}
 {104}{}{What do you do?}
-{105}{}{Ug.}
+{105}{}{Hực.}
 {106}{}{Well... I don't know. I'm pretty new to this area and I've only been to the following areas.}
 {115}{}{No, I've been there already. Thanks anyway.}
 {116}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?

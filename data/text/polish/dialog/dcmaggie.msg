@@ -5,7 +5,7 @@
 {152}{}{[ROZMAWIAJ]}
 {153}{}{Czołem, przybyszu, witaj w moim saloonie. Jestem Becky.}
 {154}{}{Witaj, jestem }
-{155}{}{ Jest tu coś do roboty?}
+{155}{}{. Jest tu coś do roboty?}
 {156}{}{Cześć, jestem }
 {157}{}{. Mogę cię o coś zapytać?}
 {158}{}{Mama?}

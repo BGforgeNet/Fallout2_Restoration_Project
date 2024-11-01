@@ -5,12 +5,12 @@
 {103}{}{Howdy. Don't come across people too often out here in trapper country. Whatcha want?}
 {104}{}{Do you have any gecko pelts for sale?}
 {105}{}{Just passing through.}
-{106}{}{Ug.}
+{106}{}{Hực.}
 {107}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into
  town.}
 {108}{}{What do you have?}
 {109}{}{Không có gì.}
-{110}{}{Ug.}
+{110}{}{Hực.}
 {111}{}{Here's what I got: }
 {112}{}{regular gecko pelts.}
 {113}{}{golden gecko pelts.}

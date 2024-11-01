@@ -11,7 +11,7 @@
 {110}{}{Semmit. Viszlát!}
 {111}{}{Hmm. Nem, sajna ebben nem tudok segíteni. Talán próbálkozz másnál!}
 {112}{}{Anks?}
-{113}{}{Marc vagyok. A helyi mindenttudó okostojás vagyok.  ::mosolyog hozzá::}
+{113}{}{Marc vagyok. A helyi mindenttudó okostojás vagyok. ::mosolyog hozzá::}
 {114}{}{Ó... hadd kérdezzek valamit!}
 {115}{}{Viszlát!}
 {116}{}{Ez itt a Valdez, a Poseidon Olaj Tengerjárója - POT Valdeznek is hívják. Ha többet akarsz tudni a Valdezről, kérdezd a kapitányt!}

@@ -19,16 +19,16 @@
  for so long, I'm not certain where anything is any more.}
 {311}{}{Why are you wandering around here?}
 {312}{}{What are you doing out here?}
-{313}{}{Well, good luck to you.}
-{314}{}{Ah, well, good luck to you. Oh, by the way, watch out for the
- Den. They like to sell people there.}
-{315}{}{The Den?}
-{316}{}{Sell people?}
-{317}{}{Sure, whatever. Bye.}
-{320}{}{Seems people around these parts like to keep slaves. I'm here to
- try and free them slaves. And if a slaver or two dies in the process, no biggie.}
-{321}{}{What's wrong with owning slaves? I'd own some if I could find them.}
-{322}{}{I'll keep my eyes out for the bastards.}
+{313}{}{Nåväl, lycka till.}
+{314}{}{Ja, lycka till. Åh, förresten, se upp för
+ Lyan. De gillar att sälja folk där.}
+{315}{}{Lyan?}
+{316}{}{Sälja människor?}
+{317}{}{Visst. Hej då.}
+{320}{}{Folk här gillar visst att ha slavar. Jag är här för att
+ försöka befria slavarna. Och om en slavhandlare eller två dör under processen, är det ingen stor grej.}
+{321}{}{Vad är det för fel med att äga slavar? Jag skulle äga några om jag kunde hitta dem.}
+{322}{}{Jag ska hålla ögonen öppna efter de jävlarna.}
 {323}{}{Killing is never justified.}
 {324}{}{Kill? I'll help you kill them.}
 {330}{}{Really? That's great. Well, I have to head out and look for more

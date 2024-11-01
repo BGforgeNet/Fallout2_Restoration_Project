@@ -39,7 +39,7 @@
 {190}{}{Did you try looking for it on your desk?}
 {191}{}{You'll help me? That's great! Go beat up Farrel and get my watch back. He probably hid it good.
  So tear his house apart and look for it.}
-{192}{}{What are you talking about?}
+{192}{}{Vad pratar du om?}
 {193}{}{Look, I don't want any part of this.}
 {194}{}{Kill Farrel, get watch back... got it? I'll be right back.}
 {195}{}{Kill Farrel? Who's going to kill Farrel? He's my best friend! I'll personally string up the

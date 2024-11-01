@@ -44,7 +44,7 @@
 {143}{}{Dzięki. Oto twoje $500. Jeśli znowu zechcesz się z nami gdzieś wybrać - pogadaj z Billem.}
 {144}{}{Ty głupie ścierwo! Szykuj się na śmierć!}
 {145}{}{Umm...}
-{150}{}{ - należy do strażników karawany.}
+{150}{}{- należy do strażników karawany.}
 {151}{}{. Pilnuję karawan Billa. Coś jeszcze?}
 {152}{}{.}
 {153}{}{. Powinien gdzieś tu się kręcić. Szukasz pracy?}

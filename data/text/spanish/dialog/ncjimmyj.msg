@@ -176,7 +176,7 @@ Así que mi amigo piloto... ¿qué puede hacer Jeta Jimmy J por ti hoy?}
  tiene las hormonas de veinte… veinte HOMBRES, en realidad.}
 {592}{}{Interesante… oye, por CURIOSIDAD, dónde consiguen los Mordino a esas prostitutas y cómo las seleccionan?}
 {600}{}{(Se encoge de hombros). Uno de los muchachos de Mordino va a La Garra de la Gata, calle abajo, eso he oído, y elige una para Myron de entre el grupo de
-  Miss Kitty… (Jimmy deja de hablar de repente. Te mira fijamente y frunce el ceño). Espera un momento...}
+ Miss Kitty… (Jimmy deja de hablar de repente. Te mira fijamente y frunce el ceño). Espera un momento...}
 {601}{}{¿Qué sucede?}
 {602}{}{Uh... no importa. Decir, que yo tenía algunas otras preguntas...}
 {603}{}{Eh, bien, gracias por la información, Jimmy.}

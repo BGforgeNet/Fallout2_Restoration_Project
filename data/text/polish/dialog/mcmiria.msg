@@ -37,7 +37,7 @@
 {196}{}{Jestem wzruszona. Nikt nigdy nie chciał dowiedzieć się o mnie czegoś więcej. Wszyscy chcieli tylko seksu, seksu, więcej seksu! Mam już po dziurki w nosie dzikiego, nieskrępowanego seksu. Tak się cieszę, że poznałam wreszcie kogoś innego.}
 {197}{}{Ty dziwko! Jesteś taka jak wszystkie!}
 {198}{}{No wiesz, jestem po prostu normalnym facetem. Nawet moi przyjaciele mówią mi czasem, "}
-{199}{}{, jesteś taki niezwykły, bo potrafisz się zachowywać jak normalny facet." Taki właśnie jestem.}
+{199}{}{ , jesteś taki niezwykły, bo potrafisz się zachowywać jak normalny facet." Taki właśnie jestem.}
 {200}{}{Po prostu jesteś najbardziej interesującą osobą, jaką dane mi było poznać.}
 {202}{}{Czekam? Niby na co? Co sugerujesz?}
 {203}{}{Myślę, że dobrze wiesz o co mi chodzi, maleńka. I wiem, że tego pragniesz. [Uśmiechasz się i zaczynasz się rozbierać.]}

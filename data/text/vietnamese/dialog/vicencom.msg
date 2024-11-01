@@ -178,7 +178,7 @@
 {254}{}{[Leave.]}
 {255}{}{Yeah, you better run, you little shit.}
 {256}{}{The terminal has shut down. You have no idea how to turn the system back on.}
-{257}{}{Leave.}
+{257}{}{Rời khỏi.}
 {258}{}{Reading Disk... Reactor Data: Atomic Power Plant... Efficiency: 43%/75%... Error: Plant Calibration - MD4/gh1... Do you wish to optimize?}
 {259}{}{}
 {260}{}{}

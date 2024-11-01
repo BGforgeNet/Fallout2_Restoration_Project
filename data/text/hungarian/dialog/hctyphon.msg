@@ -113,7 +113,7 @@
 {212}{}{Ha ha. Nagyon vicces. Lenne pár kérdésem.}
 {213}{}{Rövid úton felejtsd el!}
 {214}{}{Beee! Pá!}
-{215}{}{Mi? Már nem kupakokat használnak pénzként? Azt mondod, hogy minden, amit gyűjtögettem, rejtegettem  és aggódtam miatta hiába volt? Az isten VERJE MEG! Sajnálom, hogy ennyit dolgoztattalak emiatt, kölyök. Ha tudtam volna...}
+{215}{}{Mi? Már nem kupakokat használnak pénzként? Azt mondod, hogy minden, amit gyűjtögettem, rejtegettem és aggódtam miatta hiába volt? Az isten VERJE MEG! Sajnálom, hogy ennyit dolgoztattalak emiatt, kölyök. Ha tudtam volna...}
 {216}{}{Rendbe' van. Pá!}
 {217}{}{Aha. De sebaj, ez volt az utolsó tévedése, vén ghoul. Ideje meghalni!}
 {218}{}{Mással is megtörténhetett volna. Lenne pár kérdésem.}

@@ -1,6 +1,6 @@
 {100}{}{You see a monk.}
 {101}{}{This monk looks like a trader.}
-{200}{}{Welcome traveler.}
+{200}{}{Välkommen resenär.}
 {201}{}{Peace to you.}
 {202}{}{Nice weather.}
 {203}{}{Go play somewhere else.}

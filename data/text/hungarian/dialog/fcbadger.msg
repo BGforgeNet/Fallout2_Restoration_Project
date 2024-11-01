@@ -76,7 +76,7 @@
 {175}{}{Jó szerencsét! Később visszajövök.}
 {176}{}{Találd meg nekem a barátnőmet és akkor majd beszélgethetünk.}
 {177}{}{Elnézést, csupán félreértés volt.}
-{178}{}{Meghalt? MEGHALT? Hogy  halt meg? Ne, inkább mégse mondd el... tartsd meg magadnak! Adj néhány órát, hogy összeszedjem magam!}
+{178}{}{Meghalt? MEGHALT? Hogy halt meg? Ne, inkább mégse mondd el... tartsd meg magadnak! Adj néhány órát, hogy összeszedjem magam.}
 {179}{}{Hogyne, hogyne.}
 {180}{}{Ne durcáskodj már, öcsém! Csomó dolgunk van, vazze!}
 {181}{}{Rendben. Már jobban vagyok.}

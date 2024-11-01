@@ -119,7 +119,7 @@
 {414}{}{Ja, hast du etwas rausgefunden?}
 {415}{}{Ich glaube die Dunton Brüder stehlen deine Brahmin. Ich dachte du solltest das Wissen.}
 {416}{}{Äh, Dankeschön.}
-{417}{}{Was!? Bist du dir da sicher?  Was hast du für Beweise?}
+{417}{}{Was!? Bist du dir da sicher? Was hast du für Beweise?}
 {418}{}{Ich fand einige ausgehöhlte Radskorpion Klauen in einer Hütte in der Nähe eurer Brahmin Weidefläche. Ich konfrontierte die Duntons damit, und sie gaben zu sie zu verwenden, um Torr zu erschrecken.}
 {419}{}{Ich fand einige ausgehöhlte Radskorpion Klauen in einer Hütte in der Nähe eurer Brahmin Weidefläche. Ich denke, die Duntons tragen sie um Torr zu erschrecken -- daher seine Angst vor den "Wanzenmännern".}
 {420}{}{Ich denke, das gehört zu ihren üblichen Tricks! Mein armer kleiner Torr, die Kerle sind wirklich brutal. Das erklärt auch, was Torr so verschreckt hat, aber ich hätte gerne mehr Beweise, dass die Duntons diejenigen sind, die unsere Rinder gestohlen haben. Ich fürchte, Worte allein sind einfach nicht genug.}

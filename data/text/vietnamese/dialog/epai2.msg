@@ -1,7 +1,7 @@
 {100}{}{Welcome to the EPA Robot Control Computer. What do you wish to do?}
 {101}{}{Command Robots.}
 {102}{}{Run diagnostic check.}
-{103}{}{Leave.}
+{103}{}{Rời khỏi.}
 {104}{}{!ERROR! !ERROR! PROBLEM ENCOUNTERED TERMINATING SEQUENCE!}
 {105}{}{Return to Main Menu}
 {106}{}{Diagnostic Check... circuit board error....section four... loose wiring.}

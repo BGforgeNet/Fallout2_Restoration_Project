@@ -1,16 +1,16 @@
-{100}{}{You see a burly, middle-aged woman covered with rock-dust.}
-{101}{}{You see Marge LeBarge, owner of the Kokoweef Mine.}
-{102}{}{You see a strong, durable woman with an air of authority.}
-{103}{}{Sorry, I don't have time for charity cases right now.}
-{104}{}{Come back when that head-wound heals up.}
-{105}{}{I'm surprised that you can walk and talk at the same time.}
-{106}{}{Looks like your belt doesn't go through all the loops.}
-{107}{}{You're just a few clowns short of a circus, aren't you?}
-{108}{}{You aren't exactly my favorite person right now.}
-{109}{}{Hey, thanks for getting me that excavator chip. Things are really going smooth for the Kokoweef
- Mine now.}
-{110}{}{I'll give you $1,000 for that excavator chip.}
-{111}{}{Have any luck getting that excavator chip?}
+{100}{}{Du ser en kraftig, medelålders kvinna täckt av stendamm.}
+{101}{}{Du ser Marge LeBarge, ägare av Kokoweef-gruvan.}
+{102}{}{Du ser en stark, tålig kvinna med en aura av auktoritet.}
+{103}{}{Ledsen, jag har inte tid med välgörenhet just nu.}
+{104}{}{Kom tillbaka när såret i huvudet har läkt.}
+{105}{}{Jag är förvånad över att du kan gå och prata på samma gång.}
+{106}{}{Det ser ut som om ditt bälte inte går igenom alla öglor.}
+{107}{}{Du har inte alla hästar hemma, eller hur?}
+{108}{}{Du är inte precis min favoritperson just nu.}
+{109}{}{Tack för att du gav mig grävmaskinschipet. Saker och ting går verkligen smidigt för
+ Kokoweef-gruvan nu.}
+{110}{}{Jag ger dig $1 000 för det där grävmaskinschipet.}
+{111}{}{Har du lyckats få tag i grävmaskinschipet?}
 {112}{}{Yeah, well, sorry about that. But you can't please all of the people all of the time.}
 {113}{}{Always happy to get a job that pays that well. Let me ask you about something else.}
 {114}{}{How'd you know that I had the excavator chip on me?}
@@ -50,11 +50,11 @@
 {141}{}{A Garden of Eden Creation Kit, huh? Sounds pretty impressive. If I had something like that you
  sure wouldn't find me grubbing around in the dirt to make ends meet, now would you?}
 {142}{}{I guess not. Let me ask you something else.}
-{143}{}{I just thought I'd ask. Goodbye.}
-{144}{}{Heck no. I was born way up north. Right on the edge of a lake. Lake LeBarge, it was.}
-{145}{}{I've never heard of that. Let me ask you something else.}
-{146}{}{Sounds nice. Maybe I'll go hunt that place down. Goodbye for now.}
-{147}{}{Just some rumors is all.}
+{143}{}{Jag tänkte bara att jag skulle fråga. Hej då.}
+{144}{}{Nej, för fan. Jag föddes långt uppe i norr. Precis vid kanten av en sjö. Lake LeBarge, hette den.}
+{145}{}{Den har jag aldrig hört talas om. Låt mig fråga dig något annat.}
+{146}{}{Låter trevligt. Jag kanske ska leta upp det där stället. Adjö för nu.}
+{147}{}{Bara några rykten.}
 {148}{}{Well, there's always rumors... but I do have something that needs doing.}
 {149}{}{I'll get back to that. Let me ask you about something else first, though.}
 {150}{}{Tell me about the rumors.}

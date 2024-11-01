@@ -66,7 +66,7 @@
 {327}{}{No hay problema. Ese tal Westin ya se puede dar por muerto.}
 {328}{}{No me interesa. Encuentra a algún otro.}
 {335}{}{Espera. Aún no he TERMINADO de contártelo todo. Quiero a ese tipo muerto, pero no puede PARECER que se lo han cargado. No le metas una bala en la cabeza, no le golpees hasta matarlo, no hagas NADA que parezca un rasguño.}
-{336}{}{¿Qué? ¿Cómo  --}
+{336}{}{¿Qué? ¿Cómo --}
 {337}{}{Eso va a suponer un ex --}
 {338}{}{¿Y eso ha de ser así por...?}
 {345}{}{Porque es como TIENE que hacerse. Cabrea a alguien de por allí, y hazles pensar que yo he tenido ALGO que
@@ -247,7 +247,7 @@
  deuda, o haces el trabajo, y estaremos en paz.}
 {786}{}{Mi mujer ME pertenece. Todo lo que ENTRA en mi mujer ME pertenece. Puedes elegir, tribal: o me pagas tu
  deuda, o haces el trabajo, y estaremos en paz.}
-{787}{}{Mi hija es MÍA.  Todo lo que ENTRA en mi hija ME pertenece. Puedes elegir, tribal: o me pagas tu
+{787}{}{Mi hija es MÍA. Todo lo que ENTRA en mi hija ME pertenece. Puedes elegir, tribal: o me pagas tu
  deuda, o haces el trabajo, y estaremos en paz.}
 {788}{}{Puedes cobrarte la deuda… simplemente ven a buscarla.}
 {789}{}{De acuerdo entonces. Lo haré...}

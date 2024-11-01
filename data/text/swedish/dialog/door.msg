@@ -22,7 +22,7 @@
 {109}{}{Du ser en robust dörr med ett gammalt, rostigt lås och en fälla
  i dörrkarmen, som du kanske kan bända upp.}
 {110}{}{Du ser en robust dörr med ett lås (som kan öppnas 
- med dyrkar) och en fälla i dörrkarmen, som du kanske kan
+ med dyrkar) och en avklippt sladd i dörrkarmen, som du kanske kan
  bända upp.}
 {111}{}{Du ser en robust dörr med ett lås på och en avklippt sladd
  i dörrkarmen, som du kanske kan bända upp.}

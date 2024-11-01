@@ -135,7 +135,7 @@
 {234}{}{7000? Uh, 5000 bucks is all I have.}
 {235}{}{Hmmm. Tell me about the other implants.}
 {236}{}{Never mind. I had some other questions...}
-{237}{}{I'll come back when I have more money.}
+{237}{}{Jag kommer tillbaka när jag har mer pengar.}
 {238}{}{I'll come back when I get a set of Combat Armor.}
 {239}{}{I see. Maybe some other time.}
 {240}{}{Well, technically, "high impact" is standard Dermal Impact Armor with extra assault-issue impact plates crammed under your skin.}
@@ -161,7 +161,7 @@
 {260}{}{I don't know. 40K's pretty steep. I do have $30,000 on me, though.}
 {261}{}{Tell me about the other implants.}
 {262}{}{Never mind. I had some other questions.}
-{263}{}{I'll come back when I have more money.}
+{263}{}{Jag kommer tillbaka när jag har mer pengar.}
 {264}{}{I'll come back when I get a suit of Combat Armor.}
 {265}{}{I see. Maybe some other time.}
 {266}{}{The Phoenix Implants take the bite outta fire, lasers and plasma burns... about 5%. I'll need to strip some combat armor for the thermal membranes, and it'll take two days for the operation. 10K oughta cover it.}
@@ -169,7 +169,7 @@
 {268}{}{$10,000's a bit out of my league. How about $8000?}
 {269}{}{Tell me about the other implants.}
 {270}{}{Never mind. I had some other questions.}
-{271}{}{I'll come back when I have more money.}
+{271}{}{Jag kommer tillbaka när jag har mer pengar.}
 {272}{}{I'll come back when I get a suit of combat armor.}
 {273}{}{I see. Maybe some other time.}
 {274}{}{Well, technically, "high thermal" is standard Phoenix Armor with some thermal dissipaters layered over the membranes.}
@@ -188,7 +188,7 @@
 {287}{}{40,000 and it's a deal.}
 {288}{}{Tell me about the other implants.}
 {289}{}{Never mind. I had some other questions.}
-{290}{}{I'll come back when I have more money.}
+{290}{}{Jag kommer tillbaka när jag har mer pengar.}
 {291}{}{I'll come back when I have another set of combat armor.}
 {292}{}{I see. Maybe some other time.}
 {293}{}{Well... that sounds fair.}

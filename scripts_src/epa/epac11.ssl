@@ -5,7 +5,6 @@
 #define SCRIPT_REALNAME "epac11"
 #include "../headers/define.h"
 #include "../headers/epamain.h"
-#include "../headers/newr1.h" //added by killap
 #include "../headers/epasl.h"
 
 #define NAME                    SCRIPT_EPAC11          //Script name from scripts.h
@@ -158,8 +157,7 @@ procedure description_p_proc begin
   display_msg(mstr(101));
 end
 
-procedure use_skill_on_p_proc
-begin
+procedure use_skill_on_p_proc begin
 end
 
 procedure use_obj_on_p_proc begin
@@ -171,8 +169,7 @@ procedure use_obj_on_p_proc begin
 
 end
 
-procedure damage_p_proc
-begin
+procedure damage_p_proc begin
 end
 
 procedure map_enter_p_proc begin
@@ -583,34 +580,34 @@ procedure Node5004 begin
 end
 
 procedure timed_event_p_proc begin
- if (self_visible) then begin
-   if (combat_is_initialized == false) then begin
-      if (Cat_Jules_In_Party == false) then begin
-      //blah
-      end else begin
-         if (party_healed_bad) then begin
-            call Node5000;
-         end else if (self_is_poisoned) then begin
-            call Node5001;
-         end else if (self_rads > 0) then begin
-            call Node5002;
-         end else if (Is_Crippled(self_obj)) then begin
-            call Node5003;
-         end else if (Is_Blind(self_obj)) then begin
-            call Node5004;
-         end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3000;
-         end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3001;
-         end else if ( (Lenny_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3002;
-         end else if ( (Marcus_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3003;
+   if (self_visible) then begin
+      if (combat_is_initialized == false) then begin
+         if (Cat_Jules_In_Party == false) then begin
+         //blah
          end else begin
-            call Node3500;
+            if (party_healed_bad) then begin
+               call Node5000;
+            end else if (self_is_poisoned) then begin
+               call Node5001;
+            end else if (self_rads > 0) then begin
+               call Node5002;
+            end else if (Is_Crippled(self_obj)) then begin
+               call Node5003;
+            end else if (Is_Blind(self_obj)) then begin
+               call Node5004;
+            end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3000;
+            end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3001;
+            end else if ( (Lenny_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3002;
+            end else if ( (Marcus_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3003;
+            end else begin
+               call Node3500;
+            end
          end
       end
    end
- end
- flush_add_timer_event_sec(self_obj, random(90, 120), 1);
+   flush_add_timer_event_sec(self_obj, random(60, 90), 1);
 end

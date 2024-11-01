@@ -8,7 +8,7 @@
 {107}{}{Yeah, rolled in a little while back.}
 {108}{}{No, genius, I've been living here all along and you never noticed me.}
 {109}{}{Heard you're having a little trouble with the mine.}
-{110}{}{What can you tell me about this place?}
+{110}{}{Vad kan du berätta om den här platsen?}
 {111}{}{Ummm... riiiight. Tell you what. Here's a couple of dollars. Head on down to the saloon and get
  yourself something to drink.}
 {112}{}{Yagga? Ogg? Gronk!}
@@ -41,13 +41,13 @@
 {133}{}{Well, if you ever happen to think of a way, let me know.}
 {134}{}{Really? Would you do it for me... and, more importantly, for Broken Hills?}
 {135}{}{What's in it for me?}
-{136}{}{Sure, I'll do it.}
+{136}{}{Visst, jag ska göra det.}
 {137}{}{Inte just nu}
 {138}{}{Izzat so? Well, my brainy friend, why not fix the air purifier down below? You'll need the
  parts, and you'll need to find a way to breathe the gas. Until you can show me you can do that, I think
  I'll just assume the only thing smart about you is your mouth.}
 {139}{}{What's in it for me?}
-{140}{}{Sure, I'll do it.}
+{140}{}{Visst, jag ska göra det.}
 {141}{}{Are you kidding?}
 {142}{}{The main problem is that I'm an idiot. I'm repeating this because I don't believe that your
  asshole just spouted something that sounded like words. Get out of my sight, maggot.}
@@ -55,7 +55,7 @@
  busted, and we don't have the protective gear to breathe the radon and we don't have the parts to fix it.
  You can, though, right? Because you're so smart?}
 {144}{}{What's in it for me?}
-{145}{}{Sure, I'll do it.}
+{145}{}{Visst, jag ska göra det.}
 {146}{}{Are you kidding? No way.}
 {147}{}{. How's that sound?}
 {148}{}{Like shit. I want more.}
@@ -91,7 +91,7 @@
 {173}{}{You get along all right with the humans?}
 {174}{}{You changed your mind about trying to fix the mine yet?}
 {175}{}{What's in it for me?}
-{176}{}{Sure, I'll do it.}
+{176}{}{Visst, jag ska göra det.}
 {177}{}{Inte just nu}
 {178}{}{Nej.}
 {179}{}{How's it coming? I hope you're going to take care of this soon...}

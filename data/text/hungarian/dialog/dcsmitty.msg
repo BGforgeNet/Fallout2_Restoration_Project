@@ -41,7 +41,7 @@
 {325}{}{Tudod, hogy nálunk már nem megy ez az ingyen-kaja-éjfél-után dolog, ugye?}
 {326}{}{Na, akkor megeszem én.}
 {327}{}{A Mama nem lesz túl boldog ettől.}
-{330}{}{Amint láthatod, ez az autóm, egy Chrysalis Motors Highwayman. Gyönyörű. Régen azt mondták "Semmi sem állíthat meg egy Highwaymant."  Strapabíró jószág, így tervezték őket.}
+{330}{}{Amint láthatod, ez az autóm, egy Chrysalis Motors Highwayman. Gyönyörű. Régen azt mondták "Semmi sem állíthat meg egy Highwaymant." Strapabíró jószág, így tervezték őket.}
 {331}{}{Aha, és mit csináljak vele?}
 {340}{}{Azt hittem, csak egy aksi kell bele, de kiderült, hogy egy üzemanyag-cella vezérlőre van szükség. Ezek a vackok állandóan elromlanak bennük.}
 {341}{}{Nos, éppen van egy olyan}
@@ -72,7 +72,7 @@
 {460}{}{Leginkább csak erre a szemétkupacra vigyázok. Egy dolog van csupán, ami megéri az itt gubbasztást.}
 {461}{}{Mi az?}
 {462}{}{Kitaláltam magamtól. Hadd kérdezzek valami mást!}
-{470}{}{Ez nem más, mint egy Chrysalis Motors Highwayman. Régen azt mondták rá, "Semmi sem állíthat meg egy Highwaymant."  Strapabíró jószág, mondhatom.}
+{470}{}{Ez nem más, mint egy Chrysalis Motors Highwayman. Régen azt mondták rá, "Semmi sem állíthat meg egy Highwaymant." Strapabíró jószág, mondhatom.}
 {471}{}{Ejha, működik?}
 {480}{}{Ha működne, gondolod, hogy még ebben a porfészekben lennék?}
 {481}{}{Öö, igen.}

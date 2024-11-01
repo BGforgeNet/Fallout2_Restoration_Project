@@ -1,4 +1,4 @@
-{100}{}{You see a computer.}
+{100}{}{Bạn thấy một cái máy tính.}
 {150}{}{Please select an option below.}
 {151}{}{Information}
 {152}{}{Employee Access}

@@ -64,7 +64,7 @@
 {370}{}{Eh, sorry girl. I'm just not in the mood right now. You got anything else to offer?}
 {371}{}{You make that village a regular stop on your route, and in return, I'll pay you $500.}
 {372}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
-{373}{}{Nope. Bye.}
+{373}{}{Không. Chào.}
 {380}{}{[He looks you up and down, then grins.] I think you've got yourself a deal. Do you take it in the backdoor?}
 {381}{}{Baby, I take it any way you want to give it.}
 {382}{}{You'll just have to find out, won't you?}

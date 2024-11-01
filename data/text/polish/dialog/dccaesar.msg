@@ -82,7 +82,7 @@ zaspokoić ciągle rosnący popyt większych miast. Chcesz do nas dołączyć?}
 {230}{}{Mam więcej pytań.}
 {231}{}{Dzięki, muszę już iść.}
 {232}{}{Hmmm... Wygląda całkiem nieźle. Dam ci $}
-{233}{}{.}
+{233}{}{ .}
 {234}{}{Dobra! Umowa stoi.}
 {235}{}{Uh, zapomnijmy o całej sprawie, dobra?}
 {236}{}{Żartujesz?! Chcę dwa razy tyle!}
@@ -95,12 +95,12 @@ zaspokoić ciągle rosnący popyt większych miast. Chcesz do nas dołączyć?}
 {243}{}{Którego 'przyjaciela' chcesz sprzedać?}
 {244}{}{Uch, zapomnijmy o całej sprawie.}
 {245}{}{Interesujące. Dam ci $}
-{246}{}{.}
+{246}{}{ .}
 {247}{}{Sprzedane!}
 {248}{}{Nie, dzięki.}
 {249}{}{Chcę znacznie więcej!}
 {250}{}{No dobra, dam ci $}
-{251}{}{, ale ani grosza więcej!}
+{251}{}{ , ale ani grosza więcej!}
 {252}{}{Sprzedane!}
 {253}{}{To ciągle za mało.}
 {254}{}{To o wiele za mało. Wychodzę.}

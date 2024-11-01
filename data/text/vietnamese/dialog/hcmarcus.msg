@@ -64,21 +64,21 @@
 {163}{mcs18}{Got a little trouble with the mine. If you're interested in helping fix it, go talk to Zaius, the mine foreman.}
 {164}{}{Where can I find him?}
 {165}{}{You got anything else?}
-{166}{}{I have more questions.}
+{166}{}{Tôi muốn hỏi thêm.}
 {167}{}{Maybe later. Bye.}
 {168}{mcs19}{Usually at the mine. Sometimes the saloon.}
 {169}{}{Got anything else?}
-{170}{}{I have more questions.}
+{170}{}{Tôi muốn hỏi thêm.}
 {171}{}{Chào.}
 {172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
 {173}{}{Got anything else?}
-{174}{}{I have more questions.}
+{174}{}{Tôi muốn hỏi thêm.}
 {175}{}{Chào.}
 {176}{mcs21}{What exactly do you want? Okay. We've got some folks missing. No idea what's happened. Find 'em, get $500.}
 {177}{}{I'll do it for free.}
 {178}{}{$500? Sounds good.}
 {179}{}{I don't have time.}
-{180}{}{I have more questions.}
+{180}{}{Tôi muốn hỏi thêm.}
 {181}{}{Chào.}
 {182}{mcs22}{Great. Let me know when you've found something, right?}
 {183}{}{Sure. I have more questions.}
@@ -229,7 +229,7 @@
 {328}{}{Learned something.}
 {329}{}{Is anyone here sane?}
 {330}{}{Gotta be another way.}
-{331}{}{Follow me.}
+{331}{}{Theo tôi.}
 {332}{}{Try this.}
 {333}{}{Come here.}
 {334}{}{Found something you might want to see.}
@@ -254,7 +254,7 @@
 {352}{}{Không có gì.}
 {353}{mcs114}{What? Where the hell did you hear that?}
 {354}{}{So... you AREN'T sterile?}
-{355}{}{Nevermind.}
+{355}{}{Quên đi.}
 {356}{mcs116}{Nope. Well, not now. It takes a few years after bein' dipped to get the juices flowing again. Why?}
 {357}{}{Oh. Uh. Never mind.}
 {360}{}{You have exposed the conspiracy against the mutants of Broken Hills.}

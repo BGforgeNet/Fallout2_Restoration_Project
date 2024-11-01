@@ -1,4 +1,4 @@
-{100}{}{You see a computer.}
+{100}{}{Bạn thấy một cái máy tính.}
 {101}{}{You see the EPA's museum computer.}
 {200}{}{Welcome to the EPA's museum! This terminal will project a movie using exciting new holographic technology!
  The movie is an entertaining and informational look at the scary, but possible, reality of a post-nuclear world.}

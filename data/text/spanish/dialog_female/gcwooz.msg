@@ -175,7 +175,8 @@ clamando por su sangre.}
 {551}{}{Pareces un tanto obsesionado con esto, ¿no? Mmm. ¿Tu madre fumó durante el embarazo? ¿Has tenido alguna vez problemas mojando tu cama?}
 {560}{}{No, no te enteras. Trata sobre una cabeza cortada. ¿Lo pillas? Jejeje, ¡es divertido! ¿Cómo puedes pensar en una cabeza cortada, por todos los puñeteros demonios, sin reírte?}
 {561}{}{Wooz, no te conozco muy bien, y estoy bastante segura de que no quiero. De todos modos, creo que puedo decir, sin pecar de exagerado, que necesitas ayuda. Inmediata y competente. }
-{562}{}{Oh. Ya veo. Porque, sí. Por supuesto; es muy divertido. Jeje. No puedo contener mi alegría...  que es bastante... oh, me parto de la risa...  Necesito preguntarte algo.}
+{562}{}{Oh. Ya veo. Porque, sí. Por supuesto; es muy divertido. Jeje. No puedo contener mi alegría...
+ que es bastante... oh, me parto de la risa... Necesito preguntarte algo.}
 {570}{}{¡Vete a la mierda! Eres como todos los demás. Te digo que es hilarantemente divertido. No es culpa mía que no tengas sentido del humor.}
 {571}{}{Tienes razón, Wooz. Creo que no soy tan lista como tú. Eres una perla en un océano de vulgaridad. Ahora cuéntame algo más.}
 {572}{}{Tengo el suficiente sentido del humor para reconocer la ausencia de él en los demás. Adiós.}
@@ -203,7 +204,7 @@ clamando por su sangre.}
 {719}{}{¡¡NOO!! ¡¿CÓMO PODÍA HABER PERDIDO?! Ahhhgghhhgh.}
 {720}{}{Sí... parece que no puedo parar. Sólo un juego más...}
 {721}{}{Sí, Cerveza Tragos Gamma. ¿Sordo o algo?}
-{722}{}{Si lo es. Un Trago-Gamma  viene a la derecha.}
+{722}{}{Si lo es. Un Trago-Gamma viene a la derecha.}
 {723}{}{De acuerdo, disfrúta. ¿Algo más?}
 {724}{}{Ocasión especial, ¿eh? Bien lah-de-dah, estamos muy especiales hoy. Un Roentgen viniendo ahora mismo entonces.}
 {725}{}{No, gracias.}

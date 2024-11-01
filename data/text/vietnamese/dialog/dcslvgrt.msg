@@ -36,7 +36,7 @@
 {254}{}{Work.}
 {255}{}{Đồ ăn.}
 {256}{}{Kill.}
-{257}{}{Ug.}
+{257}{}{Hực.}
 {270}{}{Ah, a bloodthirsty one. Well... Talk to the boss. We might have a place for ya. Go through the back door.}
 {271}{}{Metzger's never had a bitch slaver, but if you're really that bloodthirsty, check with him. He's right through that door.}
 {272}{}{Okke.}

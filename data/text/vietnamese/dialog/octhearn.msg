@@ -1,4 +1,4 @@
-{100}{}{You see a deathclaw. It watches you with strangely intelligent eyes.}
+{100}{}{Bạn thấy một con deathclaw. Nó nhìn bạn với ánh mắt thông minh lạ thường.}
 {101}{}{You see Thearn, the Deathclaw.}
 {102}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws.}

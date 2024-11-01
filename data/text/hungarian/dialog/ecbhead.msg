@@ -21,7 +21,7 @@
 {120}{}{Fogadjunk, hogy a Stonehenge-nek több látogatója van.}
 {121}{}{Hrnnfff... a-a, Mama... ma nincs suli... Zsnzzzzz}
 {122}{}{Zzzsnnnzzzz... nem akarok még felkelni....Zzznnsss}
-{123}{}{Zzsssccs...  mi?}
+{123}{}{Zzsssccs... mi?}
 {124}{}{Mia--?}
 {125}{}{VIDD INNEN A MOCSKOS KEZEDET!}
 {126}{}{Játékos megfordul, párat hátralép, aztán arccal a kő-emlékmű felé fordul.}

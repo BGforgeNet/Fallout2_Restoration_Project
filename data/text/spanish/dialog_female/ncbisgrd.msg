@@ -113,7 +113,7 @@
 {468}{}{.}
 {469}{}{No necesitas mi nombre. Simplemente déjame verlo.}
 {471}{}{Olvídalo. No necesitas comprobarlo… me marcharé.}
-{475}{}{(El guardia retrocede, abre un panel de una de las paredes y susurra algo.  Espera un minuto, escucha, y luego regresa a tu lado.) }
+{475}{}{(El guardia retrocede, abre un panel de una de las paredes y susurra algo. Espera un minuto, escucha, y luego regresa a tu lado.) }
 {476}{}{No te conoce. Piérdete, chaval. Estás haciéndonos perder el tiempo.}
 {477}{}{No te conoce. Piérdete, muchacha. Estás haciéndonos perder el tiempo.}
 {478}{}{Dejadme verlo. Ahora.}

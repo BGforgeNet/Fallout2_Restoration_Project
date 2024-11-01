@@ -62,5 +62,5 @@
 {215}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick,
  the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really
  talk any more...}
-{300}{}{You see Nagor.}
+{300}{}{Du ser Nagor.}
 {302}{}{Cousin, am I glad to see you! I need your help.}

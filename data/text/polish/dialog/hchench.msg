@@ -71,5 +71,5 @@
 {412}{}{Julie}
 {413}{}{Sarah}
 {450}{}{To jest }
-{451}{}{ - należy do strażników karawany.}
+{451}{}{- należy do strażników karawany.}
 {2050}{}{W takim razie, powinnieneś porozmawiać z Billem, w Broken Hills. Jako jedyny nosi tam kapelusz.}

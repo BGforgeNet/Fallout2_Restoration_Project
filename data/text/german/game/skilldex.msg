@@ -1,4 +1,4 @@
-{100}{}{   KÖNNEN}
+{100}{}{KÖNNEN}
 {101}{}{ABBRECHEN}
 {102}{}{SCHLEICHEN}
 {103}{}{ÖFFNEN}

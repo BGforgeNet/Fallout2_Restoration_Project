@@ -23,7 +23,7 @@
 {122}{}{Is that so? Well, I know EVERY Citizen in Vault City, and I don't recognize you. Where's your papers?}
 {123}{}{You want them? Come get them.}
 {124}{}{I don't have them on me.}
-{125}{}{Here you go.}
+{125}{}{Varsågod.}
 {126}{}{Then stop wasting my time, "Citizen." Come on, let's move it.}
 {127}{}{Your business is over for the day. Come on, let's move it.}
 {128}{}{I'm not going anywhere. You try and move me, you'll regret it.}

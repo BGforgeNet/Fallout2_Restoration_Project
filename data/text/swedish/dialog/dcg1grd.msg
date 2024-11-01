@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du ser en vakt.}
 {150}{}{He's one of Tyler's guards.}
 {151}{}{She's one of Tyler's guards.}
 {200}{}{You still alive?}
@@ -20,14 +20,14 @@
 {233}{}{Tonight's the night.}
 {234}{}{I hate waiting.}
 {235}{}{I'll pass up drinks for this anytime.}
-{236}{}{Is it time yet? I can hardly wait.}
+{236}{}{Är det dags än? Jag kan knappt bärga mig.}
 {237}{}{I hope I get the first kill.}
-{238}{}{Why did they wait until now to mess with us?}
-{239}{}{This is going to be interesting.}
-{240}{}{Too bad we didn't get any action after all.}
-{241}{}{I wonder why they changed their minds.}
-{242}{}{All that waiting and nothing.}
-{243}{}{So what ever happened to that trap you were going to help us set?}
-{244}{}{What happened the other night?}
-{245}{}{Too bad those cowards chickened out. It would have been nice to finish them off.}
-{246}{}{Can't believe those bastards were going to try and ambush us.}
+{238}{}{Varför har de väntat tills nu med att bråka med oss?}
+{239}{}{Det här kommer att bli intressant.}
+{240}{}{Synd bara att vi inte fick strida trots allt.}
+{241}{}{Jag undrar varför de ändrade sig.}
+{242}{}{All denna väntan och ingenting.}
+{243}{}{Vad hände med fällan som du skulle hjälpa oss att gillra?}
+{244}{}{Vad hände häromnatten?}
+{245}{}{Synd att de fegisarna drog sig ur. Det hade varit trevligt att göra slut på dem.}
+{246}{}{Jag kan inte tro att de jävlarna skulle försöka lägga sig i bakhåll för oss.}

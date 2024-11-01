@@ -369,7 +369,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {418}{}{I apologize for my earlier comments, First Citizen. I was
  hoping I could ask you some questions about Vault City.}
 {419}{}{You know, there are decaffeinated brands that taste just as good as the real thing.}
-{420}{}{Nevermind.}
+{420}{}{Quên đi.}
 {421}{}{My apologies, First Citizen. Sorry to disturb you.}
 {422}{lyn057}{What is it? Didn't you already take care of them?}
 {423}{}{It's a little more complicated than that. You see these guys weren't a roving band of raiders...

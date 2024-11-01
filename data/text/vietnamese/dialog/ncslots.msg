@@ -28,7 +28,7 @@
 {192}{}{Praise the Vault! Praise the Vault!}
 {193}{}{Are you a water chip?}
 {194}{}{Wander off, look for other shiny things}
-{195}{}{Leave.}
+{195}{}{Rời khỏi.}
 {205}{}{The strange pretty golden metal box with three eyes and one arm does not answer.}
 {206}{}{ME }
 {207}{}{ ANSWER ME}
@@ -37,12 +37,12 @@
 {210}{}{you one strange mutant}
 {211}{}{Are you a water chip?}
 {212}{}{Wander off, look for other shiny things}
-{213}{}{Leave.}
+{213}{}{Rời khỏi.}
 {220}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box speaks! "Please... insert... money."}
 {221}{}{Aighhhhh! Robot! Robot! Runnnnn}
-{222}{}{Leave.}
+{222}{}{Rời khỏi.}
 {225}{}{You have enough money to play the slots, and you curse your poverty. Perhaps another time...}
-{226}{}{Leave.}
+{226}{}{Rời khỏi.}
 {230}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights. It's coin slot beckons you, and you feel your face flush with anticipation.}
 {231}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, sugar... that's it... come on now... don't tease...*}
 {232}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, honey... that's it... grab the handle... grip it firmly... come on now...*}

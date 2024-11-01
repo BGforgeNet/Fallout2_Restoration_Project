@@ -195,8 +195,8 @@ khóa mà bạn có thể thử cậy mở.}
 {501}{}{Có vẻ như bạn cần làm cho máy phát chạy trước đã.}
 {502}{}{Bạn thấy: Cửa thang máy.}
 {503}{}{Có vẻ như bạn cần dùng thiết bị điện để mở ổ khóa này.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{601}{}{Đang mở rồi, đồ ngốc.}
+{610}{}{Bạn thất bại thảm hại và thuốc nổ phát nổ sớm.}
+{611}{}{ thất bại thảm hại và thuốc nổ phát nổ sớm.}
+{620}{}{Bạn bẻ cong cây xà beng đến mức không sửa nổi nữa. Vứt đi thôi.}
+{621}{}{ bẻ cong cây xà beng đến mức không sửa nổi nữa. Vứt đi thôi.}

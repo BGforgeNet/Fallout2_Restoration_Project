@@ -167,28 +167,28 @@
 {266}{}{Dark souls? What do you mean?}
 {267}{hak110}{A rush of wind came. On it were great dragonflies that spat flame. Evil men crawled from the beasts' bellies and brought death to our warriors.}
 {268}{}{Our warriors couldn't stop them?}
-{269}{hak112}{The spirit was willing, but the spearheads were weak. The evil ones burned our warriors with the lights of hell.}
-{270}{}{They killed everyone?}
-{271}{hak113}{All were dead or taken. My spirit returned to flesh only to reveal the truth to the Chosen.}
-{272}{}{What happened to the ones taken?}
-{273}{hak114}{The beasts swallowed all, then took to the winds.}
-{274}{}{Uh, which way were the winds that they followed going?}
-{275}{hak115}{Did you never listen when I taught you the yearly dance of the wind spirits? South, of course.}
-{276}{}{Your descriptions were so vivid and powerful, great Hakunin, that I was often stricken senseless for the duration of your lessons.}
-{277}{}{Oh, those winds. Of course. }
-{278}{hak116}{Yes, they traveled the wind south. I overheard the dark souls speaking. They planned to rest their beasts at a place named Navarro before crossing the great basin of our earth-mother's tears.}
-{279}{}{What shall I do?}
-{280}{}{Basin of tears?}
-{281}{hak117}{For me, nothing. Chosen, you must seek the fold of the dark ones and rescue our people.}
-{282}{}{I will try.}
-{283}{hak118}{You are the Chosen. You must do.}
+{269}{hak112}{Anden var villig, men spjutspetsarna var svaga. De onda brände våra krigare med skärseld.}
+{270}{}{Dödade de alla?}
+{271}{hak113}{Alla blev dödade eller tillfångatagna. Min ande återvände till köttet bara för att avslöja sanningen för Den Utvalde.}
+{272}{}{Vad hände med de som togs?}
+{273}{hak114}{Odjuren svalde alla och gav sig sedan iväg för vinden.}
+{274}{}{Eh, åt vilket håll blåste vindarna som de följde?}
+{275}{hak115}{Lyssnade du aldrig när jag lärde dig vindandarnas årliga dans? Söderut, så klart.}
+{276}{}{Dina beskrivningar var så levande och kraftfulla, store Hakunin, att jag ofta blev helt hänförd under dina lektioner.}
+{277}{}{Åh, de vindarna. Såklart. }
+{278}{hak116}{Ja, de färdades med vinden söderut. Jag hörde de mörka själarna tala. De planerade att vila sina bestar på en plats som heter Navarro innan de korsade den stora funt fylld med vår jordmoders tårar.}
+{279}{}{Vad skall jag göra?}
+{280}{}{Tårarnas funt?}
+{281}{hak117}{För mig, ingenting. Utvalde, du måste söka de mörkas flock och rädda vårt folk.}
+{282}{}{Jag ska försöka.}
+{283}{hak118}{Du är den Utvalde. Du måste göra det.}
 {284}{}{Hakunin?}
-{285}{}{First time I understood what you meant.}
-{286}{hak120}{An ocean of tears, cried by a mother for her children.}
-{287}{}{Oh, the ocean. But what shall I do?}
-{288}{hak121}{A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.}
+{285}{}{Första gången jag förstod vad du menade.}
+{286}{hak120}{Ett hav av tårar, gråtit av en mor för sina barn.}
+{287}{}{Åh, havet. Men vad skall jag göra?}
+{288}{hak121}{En märklig dimma stal deras sinnen och skickade dem till Sömnens land. De onda vandrade bland drömmare, men drömde inte.}
 {289}{}{And then?}
-{290}{hak122}{Too many seasons and too many wounds, Chosen. Instead, you must listen.}
+{290}{hak122}{För många årstider och för många sår, Utvalde. Istället måste du lyssna.}
 {291}{}{All right.}
-{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
+{300}{}{De som stjäl bär på en stor börda. Kom ihåg detta, Utvalde.}
 {301}{}{Du måste nu betala för dina synder, Utvalde.}

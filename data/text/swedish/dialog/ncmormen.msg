@@ -6,19 +6,19 @@
 {153}{}{You see one of Mordino's men. He looks nervous.}
 {154}{}{You see one of Mordino's men. He looks like he hasn't slept in a while.}
 {160}{}{You see a shifty-looking man with spiky black hair. He is glancing around nervously.}
-{200}{}{Yo! }
-{201}{}{Fuckin'-A, }
-{202}{}{::Gives you thumbs up sign::}
+{200}{}{Hörru! }
+{201}{}{Jävlar, }
+{202}{}{::Ger dig tummen upp-tecken::}
 {203}{}{::Whistles::}
-{205}{}{How do you take a piss with that thing on?}
+{205}{}{Hur pissar du med den där saken på?}
 {210}{}{Nice piece you got there, }
-{215}{}{What you creeping around for, eh, }
+{215}{}{Vad smyger du omkring för, va, }
 {220}{}{Got any Jet on you, homes?}
 {221}{}{Hey, }
 {222}{}{Sure could use a drink. Damn...}
-{223}{}{Sheee-it, it's hot.}
+{223}{}{Faaan, det är varmt.}
 {224}{}{Any news from the top, eh, }
-{230}{}{Yo! Cabron! You looking for th' Angel o' Death? Beat it!}
+{230}{}{Hörru! Cabron! Letar du efter dödsängeln? Stick iväg!}
 {231}{}{What the fu... you! You, what're you doing here?}
 {232}{}{Yo! Puta! You looking for th' Angel o' Death? Beat it!}
 {235}{}{Yo! Sorry hombre, you can't be carrying that around in here.}
@@ -82,8 +82,8 @@
 {352}{}{That ghoul ain't outta here in a minute, he's gonna be deader than he already is.}
 {355}{}{I auditioned for the part of one of the major NPCs, but I only got this bit NPC part. I hope I don't get typecast.}
 {356}{}{New Reno was designed by Chris Avellone and scripted by Tom French. They're a coupla sick fellas.}
-{357}{}{Yo! }
-{358}{}{Fuckin'-A, }
+{357}{}{Hörru! }
+{358}{}{Jävlar, }
 {359}{}{Heard the Corsican Brothers are lookin' for you.}
 {360}{}{I thought the President was just a legend.}
 {361}{}{You look like you've been through hell and back. Relax a little. You deserve it.}
@@ -94,7 +94,7 @@
 {373}{}{Good t'see you, }
 {374}{}{Sure could use a drink. Damn...}
 {375}{}{Y'know, same old, same old. How's with you, }
-{376}{}{Sheee-it, it's hot.}
+{376}{}{Faaan, det är varmt.}
 {377}{}{Big Man Mordino doing all right? Tell him I'm looking out for him, eh, }
 {378}{}{Plugged a scorp last night. Nearly stung me, it did.}
 {379}{}{Bishops mess with us, they gonna be worm food, right?}

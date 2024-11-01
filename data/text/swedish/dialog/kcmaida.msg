@@ -28,7 +28,7 @@
 {233}{}{What may I help you with?}
 {234}{}{Well, you just better be more civil from now on. Just what do you want anyway? What can I help
  you with here?}
-{235}{}{I have some questions for you.}
+{235}{}{Jag har några frågor till dig.}
 {236}{}{I was looking for someplace to stay.}
 {237}{}{I need to buy some things.}
 {238}{}{I'd like a drink.}

@@ -58,7 +58,7 @@
 {176}{}{Hey, you got a cigarette?}
 {177}{}{Hey, now don't get too attached -- I like my freedom.}
 {178}{}{You're as sleek as a panther and I want you.}
-{179}{}{You ready?}
+{179}{}{Är du redo?}
 {180}{}{Not now; I gotta shoot up.}
 {181}{}{Man the hatches. We're goin' in.}
 {200}{}{Don't be a jerk!}

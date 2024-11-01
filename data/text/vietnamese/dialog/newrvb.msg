@@ -2,7 +2,7 @@
 {110}{}{You see several crates filled with chemicals.}
 {120}{}{You see several crates filled with chemicals. You can't identify the chemicals,
  but they have been packed VERY carefully.}
-{130}{}{You see a Vertibird.}
+{130}{}{Bạn thấy một chiếc Máy bay trực thăng.}
 {140}{}{You see a Vertibird... an advanced form of helicopter. Unfortunately, you have no
  idea how to operate it.}
 {150}{}{You have no idea how to operate it.}

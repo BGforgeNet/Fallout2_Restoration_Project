@@ -114,7 +114,7 @@
 {483}{}{I'm looking for work. Do you have any?}
 {484}{}{Where do you get all your equipment from?}
 {490}{}{Have you collected the pelts as I requested?}
-{491}{}{Yes, here they are.}
+{491}{}{Ja, här är det.}
 {492}{}{No, not as yet.}
 {500}{}{Wonderful! Excellent! Let me see... ahh yes, these will do nicely! Now then, do you want another job?}
 {501}{}{Yes, if you have anything}

@@ -314,19 +314,19 @@ profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
 {1244}{}{No hay problema. Son unas 2.000 millas en esa dirección. [Dex señala hacia el este.]}
 {1245}{}{Oh. Bueno, entonces. No importa.}
 {1250}{}{Había un hombre, más grande que cualquier otro, al que llamamos, "El Rey". Era un hombre guapo con impecable
-  estilo, un pelo increíble y una voz de oro. Con un simple empuje de pelvis, podía dejar embarazadas a todas las mujeres a la vista.
-  Fue adorado como un Dios por la gente del mundo. Él era mi padre.}
+ estilo, un pelo increíble y una voz de oro. Con un simple empuje de pelvis, podía dejar embarazadas a todas las mujeres a la vista.
+ Fue adorado como un Dios por la gente del mundo. Él era mi padre.}
 {1251}{}{Interesante...}
 {1260}{}{Había inmortales que vivían en secreto entre nosotros. Tuvieron que luchar entre ellos hasta la muerte con espadas hasta
-  solo quedaba uno para reclamar "El Premio".}
+ solo quedaba uno para reclamar "El Premio".}
 {1261}{}{Espera. Si eran inmortales, ¿cómo pudieron matarse entre ellos?}
 {1262}{}{Solo podían ser asesinados por decapitación. Cuando un inmortal decapita a otro, una aceleración
-  sería liberado, dando los poderes del inmortal asesinado al vencedor.}
+ sería liberado, dando los poderes del inmortal asesinado al vencedor.}
 {1263}{}{¿A qué exactamente te refieres con "poderes"?}
 {1264}{}{Um, ¿poderes de lucha? ¿poderes mecánicos? Ni idea, era un poco confuso.}
 {1265}{}{Interesante...}
 {1270}{}{Existían estos lagartos gigantes, algunos más grandes que los edificios, en los que la gente se paseaba. Los llamamos
-  dinosaurios, y eran conocidos como el mejor amigo del hombre.}
+ dinosaurios, y eran conocidos como el mejor amigo del hombre.}
 {1271}{}{Vaya, ¿tenías uno?}
 {1272}{}{Por supuesto. Monté un T-rex, el lagarto gigante más rudo de todos. Solo que el mío era aún más rudo porque tiene alas. Básicamente, era un dragón.}
 {1273}{}{Interesante...}
@@ -397,12 +397,12 @@ Pero bueno, si no me vas a creer, ya no te cuento historias por ahora.}
 {3023}{}{Así que apartaron a mi papá y me enviaron a vivir con mi tía y mi tío. Verá, yo era un pequeño infierno, incluso entonces, y mi tío, que era militar, pensó que sería capaz de enderezarme y convertirme en un chico soldado rojo asesino, al igual que el hijo que había perdió. Dio su mejor tiro, pero yo era un terco hijo de puta.}
 {3024}{}{Vaaale. Continúa.}
 {3025}{}{De todos modos, nos movimos mucho y no fue hasta que estaba en la escuela secundaria que finalmente nos acomodamos
-  en Chicago. Ahí fue cuando me escabullí por la noche y me puse puños. Había estado matando cosas durante tanto tiempo como yo
-  podría recordar, pero destripar las criaturas del vecindario no se compara con el trato real, ¿sabes?}
+ en Chicago. Ahí fue cuando me escabullí por la noche y me puse puños. Había estado matando cosas durante tanto tiempo como yo
+ podría recordar, pero destripar las criaturas del vecindario no se compara con el trato real, ¿sabes?}
 {3026}{}{Claro.}
 {3027}{}{Así que las cosas fueron bastante dulces, en su mayor parte. Quiero decir, odiaba a mi tío y mi tía, pero en la escuela estaba
-  Sr. Popular Cada chico quería ser mi amigo y cada chica que miraba estaba dispuesta a extenderse por mí. Excepto por esto
-  una chica, Vicky. Ella realmente tomó un poco de trabajo. Asombroso, lo sé, pero eventualmente conseguí que viniera y se convirtiera en mi chica.}
+ Sr. Popular Cada chico quería ser mi amigo y cada chica que miraba estaba dispuesta a extenderse por mí. Excepto por esto
+ una chica, Vicky. Ella realmente tomó un poco de trabajo. Asombroso, lo sé, pero eventualmente conseguí que viniera y se convirtiera en mi chica.}
 {3028}{}{Y todo el tiempo que se trabajaba también como un asesino en serie?}
 {3029}{}{Realmente no me importa tu novia de secundaria. Olvida la historia.}
 {3030}{}{Sí. [Dex sonríe.] Aquellos eran los días. Yo estaba realmente feliz, sabes? Después de graduarnos, Vicky y yo tenemos nuestro

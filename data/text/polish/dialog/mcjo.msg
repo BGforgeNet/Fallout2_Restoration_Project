@@ -163,14 +163,14 @@
 {604}{}{Czy ty }
 {605}{}{ chcesz }
 {606}{}{ być twoim prawnie poślubionym }
-{607}{}{ A więc, z mocy prawa pogranicza, ogłaszam was mężem i żoną. Możesz teraz pocałować pannę młodą.}
+{607}{}{A więc, z mocy prawa pogranicza, ogłaszam was mężem i żoną. Możesz teraz pocałować pannę młodą.}
 {608}{}{A więc, z mocy prawa pogranicza, ogłaszam was małżeństwem. Państwo młodzi mogą się teraz pocałować.}
 {609}{}{A więc, z mocy prawa pogranicza, ogłaszam was małżeństwem. Możesz teraz pocałować swoją drugą połowę.}
 {612}{}{[Bo przewraca strony w swojej książce.]}
-{625}{}{ stał się twoim przybranym w majestacie prawa mężem?}
-{626}{}{ stała się twoją przybraną w majestacie prawa żoną?}
-{627}{}{ stał się twoją uuuch... drugą połową? Tak, przybraną w majestacie prawa drugą połową?}
-{628}{}{ stał się twoją drugą połową?}
+{625}{}{stał się twoim przybranym w majestacie prawa mężem?}
+{626}{}{stała się twoją przybraną w majestacie prawa żoną?}
+{627}{}{stał się twoją uuuch... drugą połową? Tak, przybraną w majestacie prawa drugą połową?}
+{628}{}{stał się twoją drugą połową?}
 {629}{}{Miria}
 {630}{}{Davin}
 {800}{}{Zaatakujemy Żużlowców dokładnie za }

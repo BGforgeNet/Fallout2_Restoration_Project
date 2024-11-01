@@ -44,7 +44,7 @@
 {136}{}{Buddy, do you want to arm-wrestle or not? I haven't got the time to waste with snotty remarks
  and cowards.}
 {137}{}{Yeah, sure. Let's do it.}
-{138}{}{No, I don't think so.}
+{138}{}{Không, ta không nghĩ vậy.}
 {139}{}{You come on back and find me when you're ready, then. I should be around.}
 {140}{}{Get out of here before my stupid brain decides to beat your face in.}
 {141}{}{Backing out, eh? Coward. I figured as much.}

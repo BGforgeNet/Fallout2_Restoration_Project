@@ -1,1 +1,1 @@
-{100}{}{You have a funny feeling about this place.  The enchanting smell of cow dung and rotting flesh emanates a few feet from here.}
+{100}{}{Bạn có cảm giác kì quặc về nơi này.  Mùi phân bò và thịt thối nồng nặc bốc lên cách đây mấy bước chân.}

@@ -42,7 +42,7 @@
 {139}{}{Értem. Próbáljuk meg ezt még egyszer. Helló, Valdis vagyok. Téged hogy hívnak?}
 {140}{}{Én }
 {141}{}{Viszlát!}
-{142}{}{Nem felhatalmazott személy. Azt jelenti, hogy  'olyan ember, akinek nincs engedélye arra, hogy itt tartózkodjon.'}
+{142}{}{Nem felhatalmazott személy. Azt jelenti, hogy 'olyan ember, akinek nincs engedélye arra, hogy itt tartózkodjon.'}
 {143}{}{Oké. Én ért.}
 {144}{}{Már megint lenni fejfájás. Én mostan menek kifele.}
 {145}{}{My goal is to maintain as much patience as I can, in light of the fact that you are being rude.

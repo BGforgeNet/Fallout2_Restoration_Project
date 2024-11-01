@@ -10,7 +10,7 @@
 {231}{}{Hey, you joined up, huh? Cool. Hope we go on some runs together.}
 {232}{}{So, what is it you want to talk about?}
 {233}{}{So, who's in there?}
-{234}{}{About Vic...}
+{234}{}{Om Vic...}
 {235}{}{Good, thanks.}
 {236}{}{Got to go.}
 {237}{}{Wuk?}
@@ -113,5 +113,5 @@
 {503}{}{Hope Vic works out for you.}
 {504}{}{Vic better be working hard for ya.}
 {505}{}{Maybe I'll catch you on a run.}
-{506}{}{How's it going?}
-{507}{}{Hi, again.}
+{506}{}{Hur går det?}
+{507}{}{Hej igen.}

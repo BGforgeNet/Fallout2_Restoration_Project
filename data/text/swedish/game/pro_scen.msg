@@ -3449,9 +3449,9 @@
 {228501}{}{This glass is barely transparent.}
 {228600}{}{Glass}
 {228601}{}{This glass is barely transparent.}
-{228700}{}{Metal Door}
+{228700}{}{Metalldörr}
 {228701}{}{A sturdy metal door.}
-{228800}{}{Metal Door}
+{228800}{}{Metalldörr}
 {228801}{}{A sturdy metal door.}
 {228900}{}{Guards Shack}
 {228901}{}{A run down guards shack.}

@@ -249,7 +249,7 @@
 {2132}{}{Right. Goodbye.}
 {2140}{}{Most excellent. Well, you take care.}
 {2141}{}{Tạm biệt.}
-{2142}{}{See you around.}
+{2142}{}{Gặp lại sau.}
 {2150}{}{The Source is tricky, but I can handle it.}
 {2151}{}{Enjoy the expanded visibility of this world!}
 {2152}{}{Enjoy the new you!}

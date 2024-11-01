@@ -1,7 +1,7 @@
 {100}{}{You see a thin old woman who's seen better times.}
 {101}{}{You see the Widow Rooney.}
 {102}{}{You see a thin old woman with warts and a very furry upper lip.}
-{103}{}{Get away from me.}
+{103}{}{Tránh xa tôi ra.}
 {104}{}{Haven't you done me enough harm to me for one lifetime?}
 {105}{}{Why don't you just kill me this time?}
 {106}{}{Get your kicks evicting old women, do you?}

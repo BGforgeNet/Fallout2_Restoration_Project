@@ -1,4 +1,4 @@
-{100}{}{You see a merchant.}
+{100}{}{Du ser en handlare.}
 {101}{}{You see Jenna, the merchant.}
 {102}{}{You see a pretty shop owner.}
 {103}{}{Hi! I'm Jenna. May I help you?}

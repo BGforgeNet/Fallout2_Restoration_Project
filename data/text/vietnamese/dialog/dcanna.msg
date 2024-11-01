@@ -1,44 +1,44 @@
-{100}{}{You see a ghost!}
-{101}{}{You see Anna the ghost.}
-{150}{}{This a ghost. That's not something you see every day.}
-{151}{}{She seems quite tormented.}
+{100}{}{Bạn thấy một hồn ma!}
+{101}{}{Bạn thấy hồn ma Anna.}
+{150}{}{Đó là một hồn ma. Không phải thứ bạn vẫn thấy mỗi ngày.}
+{151}{}{Trông cô ta có vẻ đau khổ.}
 {152}{}{[NÓI CHUYỆN]}
-{153}{}{Oh, the pain! It burns so!}
-{154}{}{What's the matter?}
+{153}{}{Ôi, cơn đau này! Đốt cháy tim tôi!}
+{154}{}{Có chuyện gì thế?}
 {155}{}{Ông là ai?}
-{156}{}{Begone, foul spirit!}
-{157}{}{I stop and knock at every door, but no one comes, no one hears.}
-{158}{}{I can hear you. What's the matter?}
-{159}{}{I think you need to turn off your Stealth Boy, ma'am.}
-{160}{}{Where is it? I cannot find it! I am lost! Oh....}
-{161}{}{What are you looking for? Maybe I can help.}
-{162}{}{You really need to stop moaning and groaning and start making sense.}
-{163}{}{My locket! It is gone. Thief! Thief!}
-{164}{}{Whoa, I just got here. I didn't do it.}
-{165}{}{Can I help you find it?}
-{166}{}{Oh, cruel fate.}
-{167}{}{You can't hear me, can you?}
-{168}{}{Later, ghost girl.}
-{169}{}{Bye. I'll try to help.}
-{170}{}{My locket! Give it to me!!! Oh!!!!}
-{171}{}{No way! Go to hell. I found this fair and square.}
-{172}{}{OK. Here you go.}
-{173}{}{Here. May you rest in peace.}
+{156}{}{Hãy cút đi, linh hồn tội lỗi!}
+{157}{}{Tôi đã đi gõ từng cánh cửa, nhưng chẳng ai thấy, chẳng ai nghe cả.}
+{158}{}{Tôi có thể nghe tiếng cô. Có chuyện gì vậy?}
+{159}{}{Tôi nghĩ là cô cần tắt Thiết bị tàng hình đi đấy, cô gái ạ.}
+{160}{}{Nó đâu rồi? Tôi không tìm được! Tôi lạc lối! Ôi...}
+{161}{}{Cô đang tìm gì thế? Có lẽ tôi có thể giúp đỡ.}
+{162}{}{Cô cần phải ngừng kêu ca than vãn lại và nói cho tử tế đi.}
+{163}{}{Mặt dây chuyền của tôi! Mất rồi! Kẻ trộm! Có kẻ trộm!}
+{164}{}{Ồ, tôi mới đến đây. Tôi không trộm nó.}
+{165}{}{Tôi giúp cô tìm được không?}
+{166}{}{Ôi, số phận nghiệt ngã.}
+{167}{}{Cô không nghe thấy tôi phải không?}
+{168}{}{Gặp lại sau, cô gái ma.}
+{169}{}{Chào. Tôi sẽ cố giúp.}
+{170}{}{Mặt dây chuyền của tôi! Đưa nó cho tôi!!! Ôi!!!}
+{171}{}{Mơ à! Biến về địa ngục đi. Tôi tự mình tìm thấy thứ này cơ mà.}
+{172}{}{OK. Của cô đây.}
+{173}{}{Đây. Mong cô yên nghỉ.}
 {174}{}{OK.}
 {175}{}{Không.}
-{176}{}{My locket, my locket! I'm coming, Daddy! I'm coming!}
+{176}{}{Mặt dây chuyền của tôi, của tôi! Con đến đây, Cha ơi! Con đang đến đây!}
 {177}{}{Tạm biệt.}
-{178}{}{Wait! Don't go!}
-{179}{}{Go into the light.}
-{200}{}{Where could it be?}
-{201}{}{Ohhh.}
-{202}{}{Mommy? Daddy? Where are you?}
-{203}{}{I can't find it!}
-{500}{}{Mommy... Daddy... I'm coming...}
-{501}{}{It's so bright...}
-{502}{}{Grammy, I can see you...}
-{503}{}{Oh, it's the kind Mr. Cain. It's good to see you again...}
-{550}{}{This house is clear.}
-{551}{}{Oog, pretti bones.}
-{560}{}{GHOST BUSTER!}
-{561}{}{Ug.}
+{178}{}{Chờ đã! Đừng đi!}
+{179}{}{Hãy bước theo ánh sáng.}
+{200}{}{Ở đâu được nhỉ?}
+{201}{}{Ồ-ồ-ồ.}
+{202}{}{Mẹ? Cha ơi? Mọi người đâu rồi?}
+{203}{}{Tôi không tìm được nó!}
+{500}{}{Mẹ ơi... Cha ơi... Con đến đây...}
+{501}{}{Sáng quá...}
+{502}{}{Bà ơi, con có thể gặp người rồi...}
+{503}{}{Ồ, là ngài Cain tốt bụng. Thật vui được gặp lại ông...}
+{550}{}{Ngôi nhà này đã thanh bình rồi.}
+{551}{}{Oog, xương xinh đấy.}
+{560}{}{SĂN MA!}
+{561}{}{Hực.}

@@ -75,5 +75,5 @@
 {471}{}{Dziękuję.}
 {480}{}{To syn Dużego Jesusa. Niezły drań. Bez wątpienia mógł złapać Richarda i wpakować w niego kupę Jetu. Jeśli go szukasz, zajrzyj do Desperado. Mały Jesus siedzi tam razem ze swoim starym.}
 {1220}{}{. Co jest?}
-{1252}{}{ Wszyscy cię dobrze traktują? Mogę ci w czymś pomóc?}
+{1252}{}{Wszyscy cię dobrze traktują? Mogę ci w czymś pomóc?}
 {1253}{}{. Mamy u ciebie dług, a Wrightowie zawsze spłacają swoje długi. W czym mogę ci pomóc?}

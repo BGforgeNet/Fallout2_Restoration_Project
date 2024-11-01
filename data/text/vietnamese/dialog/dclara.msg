@@ -138,7 +138,7 @@
 {574}{}{That was me, and you're next.}
 {575}{}{Oh. Okay, bye.}
 {576}{}{Uhr?}
-{577}{}{Ug.}
+{577}{}{Hực.}
 {590}{}{I told you we would go together. Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
 {591}{}{I told you to find a weakness, not kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
 {592}{}{Damn it! I told you to ask Metzger, not to kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}

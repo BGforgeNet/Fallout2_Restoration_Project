@@ -41,7 +41,7 @@
 {181}{}{Nice of you to drink with us lowlifes. (snickers) Just what do you want anyway?}
 {182}{}{I think I'll have another drink.}
 {183}{}{I'd like to buy a round of drinks for all my new friends here.}
-{184}{}{I have some questions for you.}
+{184}{}{Jag har några frågor till dig.}
 {185}{}{I think that's all I need for now, thanks.}
 {190}{}{Well information's what it's all about, pal. What do you want to know about?}
 {191}{}{Yeah? What the heck do you want to know about?}

@@ -69,31 +69,31 @@
 {156}{}{I think I have a solution for the Jet problem that you have here.}
 {157}{}{I hear that Redding has been having a problem here with its exports lately.}
 {158}{}{I could sure use some healing.}
-{159}{}{I'm just wondering about what's going on here in town.}
-{160}{}{Why do they call you Painless Doc Johnson?}
+{159}{}{Jag undrar bara vad som händer här i stan.}
+{160}{}{Varför kallar de dig Smärtfria Doktor Johnson?}
 {161}{}{Got any medical supplies I could trade for?}
-{162}{}{I was just looking around. Goodbye, Doc.}
-{163}{}{What does this look like to you? A general store? No, I don't barter for medical services. I
- just want payment in honest gold dollars, thank you very much. Come back when you have some.}
-{164}{}{All right. I get the picture. Goodbye.}
+{162}{}{Jag såg mig bara omkring. Adjö, Doktorn.}
+{163}{}{Vad tycker du att det här ser ut som? En lanthandel? Nej, jag förhandlar inte om medicinska tjänster. Jag
+ vill bara ha betalning i ärliga gulddollar, tack så mycket. Kom tillbaka när du har några.}
+{164}{}{Okej, jag förstår. Hej då.}
 {165}{}{I might be able to provide you with some supplies; let's see what you've got in trade.}
-{166}{}{Okay, Doc.}
-{167}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions,
- though.}
-{168}{}{Oh, I don't need anything right now. See you later, Doc.}
-{169}{}{Did you get everything you need?}
-{170}{}{Well? Did that do it for you?}
-{171}{}{Actually, let me take one more look at your stuff.}
-{172}{}{Thanks, Doc. Let me ask you something.}
-{173}{}{I sure did, Doc. Thanks. Goodbye for now.}
-{174}{}{There you go. All better. That do it for you?}
-{175}{}{Actually, I had some questions I wanted to ask you.}
-{176}{}{That'll do it. Thanks, Doc.}
-{177}{}{Wouldn't let that go too long. Some wounds fester and start oozing puss. Then there's always
- gangrene. Course, lately, I haven't used my knives as much as I'd like. Getting a bit rusty. Tell you
- what: Go ahead and let it go as long as you want. Maybe I can get some practice later on.}
-{178}{}{I see. While I'm festering, let me ask you about something.}
-{179}{}{Uh, yeah, well I'll think about that. Goodbye, Doc.}
+{166}{}{Okej, Doktorn.}
+{167}{}{Jag menade inte just nu. Jag undrade bara om du hade saker att byta. Jag har några frågor
+ däremot.}
+{168}{}{Jag behöver inget just nu. Vi ses senare, Doktorn.}
+{169}{}{Fick du tag på allt du behövde?}
+{170}{}{Nå? Fick du ut något av det?}
+{171}{}{Faktiskt, låt mig ta en titt till på dina saker.}
+{172}{}{Tack, Doktorn. Låt mig fråga dig en sak.}
+{173}{}{Det gjorde jag verkligen, Doktorn. Tack. Adjö för nu.}
+{174}{}{Så där ja. Mycket bättre. Räcker det för dig?}
+{175}{}{Jag hade faktiskt några frågor som jag ville ställa till dig.}
+{176}{}{Det var allt. Tack, Doktorn.}
+{177}{}{Låt det inte gå för länge. Vissa sår ruttnar och börjarläcka var. Sedan finns det alltid
+ kallbrand. På sistone har jag inte använt mina knivar så mycket som jag skulle vilja. Börjar bli lite rostig. Vet du
+ vad: Låt det pågå så länge du vill. Jag kanske kan få lite övning senare.}
+{178}{}{Jag förstår. Medan jag ruttnar, låt mig fråga dig om en sak.}
+{179}{}{Eh, ja, jag ska tänka på det. Adjö, Doktorn.}
 {180}{}{Lately, it seems as though more miners are spending their time flying on Jet than mining. If this
  keeps up, Redding's gold production will come to a halt. New Reno doesn't seem to mind, though.}
 {181}{}{All of the miners here are only working enough to get their next hit of Jet. Production here has

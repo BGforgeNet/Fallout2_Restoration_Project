@@ -91,8 +91,8 @@
 {1204}{}{ smutno. Ty widzieć }
 {1205}{}{ może teraz pójść z tobą po samochód? Prooooszę?}
 {1254}{}{?}
-{1282}{}{! Gdzie! Gdzie! Pokaż! Pokaż! Proooszę? Dobrze? Hę?}
-{1283}{}{... och, zobacz! Świeci się! (Odejdź.)}
-{1293}{}{ będzie się teraz gniewać, bo zły pan ukradł samochód. }
+{1282}{}{ ! Gdzie! Gdzie! Pokaż! Pokaż! Proooszę? Dobrze? Hę?}
+{1283}{}{ ... och, zobacz! Świeci się! (Odejdź.)}
+{1293}{}{będzie się teraz gniewać, bo zły pan ukradł samochód. }
 {2204}{}{ samochód?}
-{2293}{}{ wyśle teraz swoją piąchę na krótki spacerek naprzeciwko i zapozna ją bliżej ze złym panem.}
+{2293}{}{wyśle teraz swoją piąchę na krótki spacerek naprzeciwko i zapozna ją bliżej ze złym panem.}

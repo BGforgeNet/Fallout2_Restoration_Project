@@ -1,17 +1,17 @@
 {100}{}{You see a drug addict.}
-{110}{}{You see a Jet whore.}
-{111}{}{You see one of Tubby's Jet whores.}
-{150}{}{He seems to be a friend of Tubby's.}
-{160}{}{She seems to be extremely doped up.}
-{161}{}{She seems to be suffering from massive withdrawals.}
-{200}{}{Oh, man. Where we going to get our shit now?}
-{201}{}{What'd ya kill Tubby for?}
-{202}{}{Oh man, that sucks.}
-{203}{}{Now what're we supposed to do?}
-{204}{}{Oh, man...}
-{205}{}{Hey, that's not fair.}
-{206}{}{Don't hurt us, we won't tell.}
-{220}{}{Wow, you look pretty mean.}
+{110}{}{Du ser en Jet-hora.}
+{111}{}{Du ser en av Tubbys Jet-horor.}
+{150}{}{Han verkar vara en vän till Tubby.}
+{160}{}{Hon verkar vara extremt drogad.}
+{161}{}{Hon verkar lida av massiva abstinensbesvär.}
+{200}{}{Åh, jösses. Var ska vi få tag på vår skit nu?}
+{201}{}{Vaffö döda' du Tubby?}
+{202}{}{Åh jösses, det suger.}
+{203}{}{Vad ska vi göra nu?}
+{204}{}{Åh, jösses...}
+{205}{}{Hörru, det är inte rättvist.}
+{206}{}{Gör oss inte illa, vi säger inget.}
+{220}{}{Wow, du ser ganska elak ut.}
 {221}{}{Hey, you're a real nice guy. Anyone ever tell you that?}
 {222}{}{Hey, you're a real nice gal. Anyone ever tell you that?}
 {223}{}{We're Tubby's guards.}

@@ -82,7 +82,7 @@
 {204}{}{Someone destroyed the mine! The town is doomed!}
 {205}{}{All the mutants are dead!}
 {206}{}{Not much.}
-{207}{}{I have more questions.}
+{207}{}{Tôi muốn hỏi thêm.}
 {208}{}{Thanks. See ya.}
 {209}{}{You look like burly one. I'm betting you could arm wrestle with Francis. He's the
  mutant sitting over there. Apparently he's got a prize of some sort. Interested? Go talk to Francis.}

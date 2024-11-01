@@ -56,7 +56,7 @@
 {144}{}{Aside from realizing we have a cancer in our midst with the escape of Franc and Manson...}
 {145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
 {146}{}{Not too much, really.}
-{147}{}{I have more questions.}
+{147}{}{Tôi muốn hỏi thêm.}
 {148}{}{Chào.}
 {149}{}{Oh. You again.}
 {150}{}{Hi again.}
@@ -118,7 +118,7 @@
  out. The ones who are left seem to be getting senile, too. Not Marcus, though. He's still as sharp as
  ever.}
 {195}{}{Where can I find Marcus?}
-{196}{}{I have more questions.}
+{196}{}{Tôi muốn hỏi thêm.}
 {197}{}{Chào.}
 {198}{}{Marcus, are you sure you don't want to stick around and lead us for a while?}
 {199}{}{Marcus: Ain't no future in it. You'll do fine without me.}

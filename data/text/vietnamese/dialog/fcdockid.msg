@@ -11,7 +11,7 @@
 {110}{}{We live on the beach!}
 {111}{}{I'm boooored.}
 {112}{}{Eeeee!}
-{113}{}{Help!}
+{113}{}{Cứu với!}
 {114}{}{Oh no! The boogeyman!}
 {115}{}{Mommeeeeeeeeeeeeeeeee!}
 {116}{}{Run away! It's a monster!}

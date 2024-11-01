@@ -84,8 +84,8 @@
  en fälla i dörrkarmen.}
 {141}{}{Du ser en skadad dörr med ett gammalt, rostigt lås och en fälla
  i dörrkarmen.}
-{142}{}{You see a damaged door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe.}
+{142}{}{Du ser en skadad dörr med ett lås som kan dyrkas upp med
+ dyrkar och en avklippt tråd i dörrkarmen.}
 {143}{}{Du ser en skadad dörr med ett lås på och en avklippt sladd
  i dörrkarmen.}
 {144}{}{Du ser en skadad dörr utan någon uppenbar låsanordning och

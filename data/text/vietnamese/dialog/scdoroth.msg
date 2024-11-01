@@ -3,7 +3,7 @@
 {102}{}{From all the grease and dirt on her, she's a hands-on tool type, especially since that maintenance bot follows her everywhere.}
 {103}{}{Oh my god, somebody's got to do something! What do I do? I need some help quick.}
 {104}{}{Huh? Gug?}
-{105}{}{What's going on?}
+{105}{}{Chuyện gì vậy?}
 {106}{}{You come. Stop bad man. Stop him no break machine. Okay?}
 {107}{}{Okay.}
 {108}{}{No, no come.}

@@ -1,22 +1,22 @@
-{100}{}{You see Max.}
-{101}{}{You see a regular Abbey monk.}
-{102}{}{He looks a little nervous.}
+{100}{}{Du ser Max.}
+{101}{}{Du ser en vanlig klostermunk.}
+{102}{}{Han ser lite nervös ut.}
 {200}{}{Hej, vad kan jag göra för dig?}
-{201}{}{I have something from Elaine...}
+{201}{}{Jag har något från Elaine...}
 {202}{}{Vad är det här för ställe?}
 {203}{}{Hej då.}
-{300}{}{Let me guess. It's that service part I requested, right?}
-{301}{}{Yes, here it is.}
-{302}{}{No, I was just testing you.}
-{303}{}{(He takes the part from your hands) Finally! Now we can fix this printing machine. Thanks, take this survival manual for your trouble.}
+{300}{}{Låt mig gissa. Det är den där servicedelen jag bad om, eller hur?}
+{301}{}{Ja, här är den.}
+{302}{}{Nej, jag testade dig bara.}
+{303}{}{(Han tar delen från dina händer) Äntligen! Nu kan vi fixa den här tryckmaskinen. Tack, ta den här överlevnadshandboken för besväret.}
 {304}{}{Tack.}
-{305}{}{Look, I don't have time for this. Do you have the part or not?}
-{306}{}{Yeah, I have it.}
-{307}{}{Whatever, I'm outta here.}
-{400}{}{This is our printing works. We copy our books here.}
-{401}{}{Ok, thanks for the info.}
-{500}{}{You gain %d experience points for delivering the part.}
-{600}{}{I be BIG helper today. I have macheen part from pretty name woman.}
-{610}{}{That must be the service part that I requested from Elaine. Thanks for bringing this to me. Here, take this
- survival manual for your trouble... uh if you can read it that is.}
-{611}{}{I read ten words. I likie pitcher books more. They fun to look. Tankee!}
+{305}{}{Jag har inte tid med det här. Har du delen eller inte?}
+{306}{}{Ja, jag har den.}
+{307}{}{Hur som helst, jag sticker.}
+{400}{}{Det här är vårt tryckeri. Här kopierar vi våra böcker.}
+{401}{}{Ok, tack för informationen.}
+{500}{}{Du får %d erfarenhetspoäng för att ha levererat delen.}
+{600}{}{Jag e STOR hjälpare idag. Jag har massiindel från finnamn kvinna.}
+{610}{}{Det måste vara den reservdel som jag bad om från Elaine. Tack för att du kom hit med den. Här, ta den här
+ överlevnadsmanualen för ditt besvär... eh om du kan läsa den vill säga.}
+{611}{}{Jag läsa tio ord. Jag gillar bildbokar mer. De kul att titta. Taack!}

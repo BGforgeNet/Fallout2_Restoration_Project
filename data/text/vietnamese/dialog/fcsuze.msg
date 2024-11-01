@@ -12,19 +12,19 @@
 {111}{}{Yeah. Follow me.}
 {112}{}{Oh, you poor dear. Radiation and the wasteland aren't nice, are they? I hope someone can help you.}
 {113}{}{It's kind of stupid, really. I was just exploring because Badger was on the computer and I went downstairs and got lost and then next thing you know, I'm surrounded by monsters. Good thing you came along.}
-{114}{}{I have more questions.}
+{114}{}{Tôi muốn hỏi thêm.}
 {115}{}{Yes, it is. Find anything interesting?}
 {116}{}{Yes, it is. Let's go.}
 {117}{}{I found the room I was in. I also found a room that looked like a fueling area. I didn't get much farther because of the monsters.}
-{118}{}{I have more questions.}
+{118}{}{Tôi muốn hỏi thêm.}
 {119}{}{Where are you from?}
 {120}{}{Great. That's all for now.}
 {121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea. I used to be a nanny, but then the kids mutated into monsters.}
-{122}{}{I have more questions.}
+{122}{}{Tôi muốn hỏi thêm.}
 {123}{}{How'd you meet Badger?}
 {124}{}{Fascinating. That's all for now.}
 {125}{}{He came down south and went to a club I used to go to. So, when things fell apart for me, I thought this would be the place to go.}
-{126}{}{I have more questions.}
+{126}{}{Tôi muốn hỏi thêm.}
 {127}{}{That's all. Thanks.}
 {128}{}{You saved my life. I'll answer any questions you have.}
 {129}{}{Yaaaah.}

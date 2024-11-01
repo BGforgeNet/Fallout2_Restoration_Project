@@ -3,7 +3,7 @@
 {102}{}{You see Wallace's Assistant, Skeev.}
 {103}{}{You see a scrawny young man. His eyes are darting back and forth.}
 {104}{}{Hey, you got any pieces of Horrigan? I could sell 'em for fifty, hundred bucks a pop, give you 10% of the action.}
-{105}{}{Get lost.}
+{105}{}{Försvinn.}
 {106}{}{Beat it. I got nothing to say to you.}
 {107}{}{Oh, uh, hey, Captain. Good day, huh?}
 {108}{}{Well, if it ain't the new Citizen.}
@@ -54,7 +54,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {151}{}{Any other options?}
 {152}{}{All right, then. Thanks.}
 {153}{}{Well, you CAN become a Citizen... unofficially.}
-{154}{}{What are you talking about?}
+{154}{}{Vad pratar du om?}
 {155}{}{Never mind. Maybe we'll talk some other time.}
 {156}{}{If you got the cash, then I'll go into detail. Otherwise...}
 {157}{}{I've got the money. What are you selling?}

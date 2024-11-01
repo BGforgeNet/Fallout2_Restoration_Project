@@ -1,6 +1,6 @@
-{100}{}{You'd guess that even with the green hair and the scowl, she's the bartender of this joint.}
+{100}{}{Man skulle kunna tro att hon är bartender på det här stället, trots det gröna håret och den bistra minen.}
 {101}{}{That's Mira. She mixes a mean Rad-A-Waster.}
-{102}{}{Well, she's young and attractive, but there's just a look in her eye that says she don't take no crap from anybody. That and the spiked knuckles hanging on the chain around her neck.}
+{102}{}{Hon är ung och attraktiv, men det finns en blick i hennes ögon som säger att hon inte tar skit från någon. Det och de spikade knogarna som hänger på kedjan runt hennes hals.}
 {103}{}{Mira's the name. What'll ya have, stranger?}
 {104}{}{Hello again. What'll it be?}
 {105}{}{Drink.}

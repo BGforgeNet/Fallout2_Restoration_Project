@@ -1,30 +1,30 @@
-{100}{}{One very drunk person. [He has a sign that says "Will work for food."]}
-{101}{}{You see Karl.}
-{102}{}{He is so filthy that you notice some wildflowers growing out of his hair.}
-{150}{}{Here, have a beer.}
-{151}{}{Here, have a bottle of booze.}
-{152}{}{Here, have a Nuka-Cola.}
+{100}{}{En mycket berusad person. [Han har en skylt som det står "Kan arbeta för mat" på.]}
+{101}{}{Du ser Karl.}
+{102}{}{Han är så smutsig att du märker att några vildblommor växer ut ur hans hår.}
+{150}{}{Här, ta en öl.}
+{151}{}{Här, ta en flaska sprit.}
+{152}{}{Här, ta en Nuka-Cola.}
 {153}{}{Hej.}
 {154}{}{Hey!}
-{155}{}{HEY!!}
-{156}{}{The ghosts won't be able to find me here... [sob]}
-{157}{}{It's good to be home again.}
-{159}{}{It's Karl; he's passed out.}
-{160}{}{He's going to have to sleep it off.}
-{161}{}{Ah! The ghosts from the farm have come to gets me!}
-{162}{}{Spare some change for (hic) an out-of-work farmer?}
-{163}{}{Sure thing, fella; how much do you need?}
-{164}{}{How about I buy you a hot meal?}
-{165}{}{Sorry, I don't have any money.}
-{166}{}{What's your story?}
+{155}{}{HALLÅ!!}
+{156}{}{Spökena kommer inte att kunna hitta mig här... [snyft]}
+{157}{}{Det är skönt att vara hemma igen.}
+{159}{}{Det är Karl, han har somnat.}
+{160}{}{Han kommer att behöva sova ruset av sig.}
+{161}{}{Ah! Spökena från gården har kommit för att hämta mig!}
+{162}{}{Har du några slantar över till (hick) en arbetslös bonde?}
+{163}{}{Visst, kompis; hur mycket behöver du?}
+{164}{}{Vad sägs om att jag bjuder dig på en varm måltid?}
+{165}{}{Tyvärr, jag har inga pengar.}
+{166}{}{Vad är din historia?}
 {167}{}{Here cha-ange?}
 {168}{}{Jooky.}
-{169}{}{Oh, kind and generous person. (hic) How can Karl help you today? (hic) [He takes off his cap and
- holds out his hand.]}
-{170}{}{Here. Here's $100.}
-{173}{}{Sorry, I don't have anything for you. Bye.}
+{169}{}{Åh, snälla och generösa person. (hick) Hur kan Karl hjälpa dig idag? (hick) [Han tar av sig sin keps och
+ räcker fram handen.]}
+{170}{}{Här. Här får du $100.}
+{173}{}{Ledsen, jag har inget åt dig. Hej då.}
 {174}{}{Do you know where I can find a GECK?}
-{175}{}{You mentioned something about a garden earlier. Tell me more.}
+{175}{}{Du nämnde något om en trädgård tidigare. Berätta mer.}
 {178}{}{Me go.}
 {179}{}{Hey cheapskate! (hic) Come on, I know you gots money... (hic) Just some spare change then... (hic)
  something, anything! Show some compassion.}

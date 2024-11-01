@@ -1,6 +1,6 @@
 {100}{}{You see a slaver.}
 {150}{}{He seems to be one of Metzger's personal guards.}
-{200}{}{There you are.}
+{200}{}{Där får du.}
 {201}{}{Now you die.}
 {300}{}{You want to see the boss? Go right in.}
 {301}{}{Metzger's the man to talk to, not me.}

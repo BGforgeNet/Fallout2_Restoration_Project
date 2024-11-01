@@ -117,7 +117,7 @@
 {840}{}{Ed's over at Vault City. He's a Brahmin Dealer. He was just one of my many suppliers. Vault City's not too far from here.}
 {845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
 {900}{}{You learned about Vic being a trader.}
-{1000}{}{I need to ask you something.}
+{1000}{}{Tôi cần hỏi chút việc.}
 {1100}{}{Fully healed, Boss. Anything else?}
 {1200}{}{Almost perfect condition, Boss.}
 {1300}{}{I'm mostly healed up, Boss, but I've been better.}

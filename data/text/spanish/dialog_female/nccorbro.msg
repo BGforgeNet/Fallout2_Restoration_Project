@@ -126,7 +126,7 @@
  un poco, y quizá hagamos negocios, ¿vale?}
 {476}{}{Lo siento, tetazas, eres atractiva y lo bastante flexible, pero es sólo que no tienes la, eh, resistencia que necesitamos... mejora
  un poco, y quizá hagamos negocios, ¿vale?}
-{479}{}{Intentaré mejorar mi resistencia. Quizá la  próxima vez.}
+{479}{}{Intentaré mejorar mi resistencia. Quizá la próxima vez.}
 {485}{}{Lo siento, amigo, eres atractivo, eres flexible, tienes la resistencia de un brahmin, pero necesitas un poco más de experiencia en la
  cama antes de que podamos hacer negocios, ¿vale? No tenemos tiempo para entrenarte.}
 {486}{}{Lo siento, tetazas, eres atractiva, eres flexible, eres resistente, pero necesitas un poco más de experiencia en la

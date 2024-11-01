@@ -4,7 +4,7 @@
 {103}{}{Some money for those less fortunate.}
 {104}{}{Help us!}
 {105}{}{Food!}
-{106}{}{I'm so hungry.}
+{106}{}{Tôi đói quá.}
 {107}{}{My children are starving.}
 {108}{}{Nobody cares about us.}
 {109}{}{Don't kill me!}

@@ -1,7 +1,7 @@
 {100}{}{You see a tech.}
 {101}{}{You see an Enclave technician.}
 {102}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
-{103}{}{Yes, sir?}
+{103}{}{Ja, sir?}
 {104}{}{Me new here. Need ask question.}
 {105}{}{Me just say hi. Me go now.}
 {106}{}{I'm new here and I'm trying to get familiar with the base. Can I ask you some questions?}
@@ -35,7 +35,7 @@
 {140}{}{Yes, sir. First, the vertibirds are the primary method used in reaching main base. Due to the complexity of their operation it is doubtful that subversives could commandeer a vertibird. Second, there is an operational fuel tanker in San Francisco harbor. The ship has, however, been disabled and a passkey is required to restart it. The base commander has the passkey in his possession. Third, with the proper equipment, you could conceivably swim to main base but the probability of survival is next to nil.}
 {141}{}{Tack.}
 {142}{}{Tack.}
-{143}{}{They would be located in maintenance, next to air traffic control. }
+{143}{}{De skulle finnas på underhållsavdelningen, bredvid flygledningen. }
 {144}{}{Okej.}
 {145}{}{Got it.}
 {155}{}{Are you nuts, walking around here out of uniform? Get suited up!}

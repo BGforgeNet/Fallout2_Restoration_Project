@@ -52,7 +52,7 @@
 {151}{}{Some water'd be great.}
 {152}{}{Brahmin's milk.}
 {153}{}{Actually, I was looking for some information.}
-{154}{}{I'll come back when I have more money.}
+{154}{}{Jag kommer tillbaka när jag har mer pengar.}
 {155}{}{I think I'll pass, thanks.}
 {156}{}{The brahmin milk's not on tap... well, not exactly. I'd have to go out and snag some really quick.}
 {157}{}{That's fine. I don't mind waiting. I just feel like having a refreshing glass of milk. Mmmmm-mmm. That would really hit the spot.}
@@ -67,7 +67,7 @@
 {166}{}{Some water would be great.}
 {167}{}{Brahmin's milk.}
 {168}{}{Actually, I was looking for some information.}
-{169}{}{I'll come back when I have more money.}
+{169}{}{Jag kommer tillbaka när jag har mer pengar.}
 {170}{}{I think I'll pass, thanks.}
 {171}{}{Oh? Like what?}
 {172}{}{Who's in charge of Vault City?}

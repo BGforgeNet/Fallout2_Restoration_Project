@@ -28,7 +28,6 @@
 #include "../headers/define.h"
 #include "../headers/klamath.h"
 #include "../headers/kladwtn.h"
-#include "../headers/newr1.h" //added by killap
 
 #define NAME                    SCRIPT_KCSULIK
 #define TOWN_REP_VAR            GVAR_TOWN_REP_KLAMATH
@@ -264,14 +263,12 @@ end
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
-
-    if ( (cur_town == AREA_PRIMITIVE_TRIBE) and not (Sulik_In_Party) and not (party_is_waiting) and (local_var(LVAR_At_Tribe) > 0) ) then begin
-         add_timer_event(self_obj,game_ticks(random(15,25)),1);
-    end else begin
-
+   if ( (cur_town == AREA_PRIMITIVE_TRIBE) and not (Sulik_In_Party) and not (party_is_waiting) and (local_var(LVAR_At_Tribe) > 0) ) then begin
+        add_timer_event(self_obj,game_ticks(random(15,25)),1);
+   end else begin
       party_member_map_enter;
       if (Sulik_In_Party) then begin
-      //do nothing
+         //do nothing
       end
       else begin
          Only_Once:=0;
@@ -279,10 +276,10 @@ procedure map_enter_p_proc begin
          //NEVER SET AI FOR NPCs
          //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PARTY_SULIK_DEFENSIVE);
       end
-    end
+   end
 
-    //added by killap
-    add_timer_event(self_obj, random(25, 40), 900);
+   //added by killap
+   flush_add_timer_event_sec(self_obj, random(25, 40), 900);
 end
 
 procedure map_update_p_proc begin
@@ -313,7 +310,6 @@ procedure map_update_p_proc begin
          end
       end
    end
-
 end
 
 //added by killap - RP
@@ -1453,7 +1449,6 @@ procedure Node054 begin
    NLowOption(926,Node003);
    NLowOption(927,Node999);
    //end added
-
 end
 
 procedure Node055 begin
@@ -2073,7 +2068,7 @@ procedure timed_event_p_proc begin
                floater(3502);
          end
       end
-      add_timer_event(self_obj, random(50, 80), 900);
+      flush_add_timer_event_sec(self_obj, random(60, 90), 900);
    //end added
    end else if (fixed_param == 1) then begin
       if Sulik_In_Party then begin

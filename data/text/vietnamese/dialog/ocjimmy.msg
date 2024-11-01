@@ -72,7 +72,7 @@
 {171}{}{Hi there. It's good to see you again. What can I help you with?}
 {172}{}{Need ask question.}
 {173}{}{Just say hi. Me go.}
-{174}{}{I need to ask you something.}
+{174}{}{Tôi cần hỏi chút việc.}
 {175}{}{Just saying hi.}
 {176}{}{Well, let's see... I suppose the best place to look would be Vault City since they're the most modern place I can think of. You might want to give New Reno a try though. They're closer and they do a lot of trading with Vault City.}
 {177}{}{Cám ơn.}

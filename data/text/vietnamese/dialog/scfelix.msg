@@ -19,7 +19,7 @@
 {118}{}{That's nice. Mr. Westin don't just see anybody. You got any cause?}
 {119}{}{I'm looking for Vault 13.}
 {120}{}{What if I said Bishop in New Reno sent me to kill him?}
-{121}{}{Uh, no.}
+{121}{}{Ừ, không.}
 {122}{}{Hah! Another crackpot. You ought to go talk to Saltbeef. You and he'd get along fine.}
 {123}{}{Who?}
 {124}{}{I'm out of here.}

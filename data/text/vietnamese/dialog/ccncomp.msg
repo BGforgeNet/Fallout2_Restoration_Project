@@ -1,47 +1,47 @@
-{100}{}{You see a computer.}
-{101}{}{You see a computer.}
-{102}{}{You see the central computer for Navarro.}
-{103}{}{Please enter your password.}
-{104}{}{Enter 'Snookie'}
-{105}{}{Forget this doo doo.}
-{106}{}{Screw this.}
-{107}{}{Try to hack the system.}
-{108}{}{Welcome to the Enclave. You have limited system privileges at this time. For ease of use this system has been equipped with a common English parser. Please enter all requests as English sentences.}
-{109}{}{How may I help you?}
+{100}{}{Bạn thấy một cái máy tính.}
+{101}{}{Bạn thấy một cái máy tính.}
+{102}{}{Bạn thấy cái máy tính trung tâm của Navarro.}
+{103}{}{Vui lòng nhập mật khẩu.}
+{104}{}{Nhập "Snookie"}
+{105}{}{Quên cái đụ đị.}
+{106}{}{Mẹ nó chứ.}
+{107}{}{Cố bẻ khóa hệ thống.}
+{108}{}{Chào mừng đến với Enclave. Bạn có quyền truy cập hệ thống giới hạn trong phiên này. Để thuận tiện cho việc sử dụng, hệ thống đã được trang bị thiết bị phân tích câu Tiếng Anh. Vui lòng nhập tất cả yêu cầu bằng Tiếng Anh.}
+{109}{}{Tôi có thể giúp gì được?}
 {110}{}{Bản vẽ máy bay ở đâu?}
-{111}{}{Where Enclave main base?}
-{112}{}{Where armory?}
-{113}{}{Where base commander?}
-{114}{}{Me guess that all.}
-{115}{}{Where are the vertibird plans located?}
+{111}{}{Căn cứ chính của Enclave ở chỗ nào?}
+{112}{}{Kho khí giới đâu?}
+{113}{}{Chỉ huy căn cứ đâu?}
+{114}{}{Ngộ chắc hết rồi.}
+{115}{}{Bản vẽ máy bay trực thăng ở chỗ nào?}
 {116}{}{Căn cứ chính của Enclave nằm ở đâu?}
-{117}{}{Where is the armory located?}
-{118}{}{Where is the base commander's office located?}
-{119}{}{I guess that's all.}
-{120}{}{Searching... Accessing current inventory records... Data acquired. Current records indicate that 1 set of vertibird schematics are in stock. Four copies of the vertibird schematics have been ordered this quarter. Four copies of the vertibird schematics have been delivered this quarter. Three copies of the vertibird schematics have been reported lost this quarter. The vertibird schematics are housed in maintenance.}
-{121}{}{Okay. Where maintenance?}
-{122}{}{Fine. So where is maintenance located?}
-{123}{}{Searching... Accessing base architectural files... Data acquired. Maintenance is located above ground in the northeast quadrant of the base. }
+{117}{}{Kho khí giới nằm ở đâu?}
+{118}{}{Phòng của chỉ huy căn cứ ở chỗ nào?}
+{119}{}{Tôi chắc vậy là đủ rồi.}
+{120}{}{Đang tìm kiếm... Đang truy cập vào hồ sơ kho hiện tại... Nhận được dữ liệu. Hồ sơ hiện tại cho biết có 1 bản sơ đồ máy bay lên thẳng trong kho. Bốn bảo sao sơ đồ máy bay lên thẳng đã được yêu cầu trong quý này. Bốn bản sao sơ đồ máy bay lên thẳng đã được gửi trong quý này. Ba bản sao sơ đồ máy bay lên thẳng đã được báo cáo bị mất trong quý này. Sơ đồ máy bay lên thẳng được lưu trữ trong phòng bảo trì.}
+{121}{}{Okê. Bảo trì đâu?}
+{122}{}{Rồi. Thế phòng bảo trì ở đâu?}
+{123}{}{Đang tìm kiếm... Đang truy cập tệp kiến trúc căn cứ... Nhận được dữ liệu. Phòng bảo trì nằm trên mặt đất ở góc Đông Bắc của căn cứ.}
 {124}{}{Cám ơn.}
-{125}{}{Searching... Accessing geographical maps... Data acquired. Enclave headquarters is located 175 miles off of the coast of California in the Pacific Ocean. Coordinates are 37 degrees 18 minutes north latitude by 120 degrees 7 minutes west longitude.}
-{126}{}{What the hell all that mean?}
-{127}{}{What the hell does all that crap mean?}
-{128}{}{Searching... Accessing English slang dictionary... Data acquired. Translation follows: 1) It's a long ways out in the ocean. 2) It's off the coast of California. 3) It's west of the city of San Francisco. 4) If you do not understand the geographical coordinate system then you will not find it.}
-{129}{}{How get there?}
-{130}{}{How can I get there?}
-{131}{}{Searching... Accessing transportation directory... Data acquired. Transportation files indicate that 1,257 methods can be used to reach Enclave headquarters. However, records also indicate that only 2 of these methods are currently available. Vertibird transportation can be acquired at Navarro outpost. Ship transportation can be acquired at San Francisco harbor. Please note that ship transportation has been flagged as inaccessible due to security act 9837-334-27A. Ship has been disabled and a passkey is required for reactivation. Base commander, Navarro outpost, currently holds the passkey.}
+{125}{}{Đang tìm kiếm... Đang truy cập bản đồ địa lí... Nhận được dữ liệu. Căn cứ chính của Enclave cách bờ biển California giáp Thái Bình Dương 175 dặm, có tọa độ 37 độ 18 phút vĩ độ Bắc, 120 độ 7 phút kinh độ tây.}
+{126}{}{Mấy thứ đó nghĩa quái gì vậy?}
+{127}{}{Mấy con số quái quỷ đó có nghĩa là gì vậy?}
+{128}{}{Đang tìm kiếm... Đang truy cập từ điển tiếng lóng Tiếng Anh... Nhận được dữ liệu. Bản dịch như sau: 1) Cách xa ngoài biển. 2) Đi từ bờ biển California. 3) Phía Tây thành phố San Fransico. 4) Nếu không hiểu được hệ thống tọa độ địa lí thì bạn sẽ không tìm được.}
+{129}{}{Đi cách nào?}
+{130}{}{Tôi có thể đến đó bằng cách nào?}
+{131}{}{Đang tìm kiếm... Đang truy cập thư mục vận tải... Nhận được dữ liệu. Tệp vận tải cho biết có 1.257 phương tiện có thể đi đến căn cứ chính Enclave. Tuy nhiên, theo hồ sơ thì hiện chỉ còn 2 cách để đi. Có thể đi bằng máy bay trực thăng từ căn cứ tiền phương Navarro. Có thể đi bằng tàu thủy từ cảng San Fransico. Vui lòng lưu ý rằng đường đi bằng tàu thủy đã được đánh dấu là không sử dụng được do đạo luật an ninh 9837-334-27A. Tàu đã bị vô hiệu hóa và cần có bộ mã khóa để kích hoạt lại. Chỉ huy căn cứ tiền phương Navarro hiện đang giữ bộ mã khóa.}
 {132}{}{Okay.}
 {133}{}{Hiểu rồi.}
-{134}{}{Searching... Accessing base architectural files... Data acquired. Armory is located below ground in the northwest quadrant of the base.}
+{134}{}{Đang tìm kiếm... Đang truy cập tệp kiến trúc căn cứ... Nhận được dữ liệu. Kho khí giới nằm dưới lòng đất ở góc Tây Bắc căn cứ.}
 {135}{}{Ngộ hiểu rồi.}
-{136}{}{Yeah, got it.}
-{137}{}{Searching... Accessing base architectural files... Data acquired. Base commander's office is located below ground in the northeast quadrant of the base.}
+{136}{}{Được, hiểu rồi.}
+{137}{}{Đang tìm kiếm... Đang truy cập tệp kiến trúc căn cứ... Nhận được dữ liệu. Phòng chỉ huy căn cứ nằm dưới lòng đất ở góc Đông Bắc căn cứ.}
 {138}{}{Được rồi.}
 {139}{}{Được đấy.}
-{140}{}{Thank you for accessing EnclaveNet. Logging off... }
+{140}{}{Cám ơn đã truy cập EnclaveNet. Đang đăng xuất...}
 {141}{}{Đã xong.}
-{142}{}{Command?}
-{143}{}{Unauthorized activity detected in main computer complex. Security alert. Security alert.}
-{144}{}{Initiate welcome program.}
-{145}{}{Shit!}
-{146}{}{Security System Lockout in Progress.}
+{142}{}{Lệnh?}
+{143}{}{Đã phát hiện hành vi trái phép trong khu phức hợp máy tính chính. Báo động an ninh. Báo động an ninh.}
+{144}{}{Bắt đầu chương trình chào mừng.}
+{145}{}{Cứt thật!}
+{146}{}{Đang tiến hành Khóa an ninh hệ thống.}

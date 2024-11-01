@@ -85,7 +85,7 @@
 {164}{}{Return to Main Retrieval Menu}
 {165}{}{Try later.}
 {166}{}{[Due to your ineptitude, all the brains die. Maybe raising the temperature to 98.6 Celsius was a little too much. Science never was your strong point.]}
-{167}{}{Exit.}
+{167}{}{Avsluta.}
 {168}{}{[Trial and error seems to be the key to your approach to this problem. You manage to save one out of four brains. Science is for nerds anyway.]}
 {169}{}{Retrieve Brain}
 {170}{}{[Using the law of averages you manage to save fifty percent of the brains. A scientist you are not.]}

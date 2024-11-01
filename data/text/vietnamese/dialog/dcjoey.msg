@@ -14,7 +14,7 @@
 {160}{}{Nothing. Just passing through.}
 {161}{}{What the hell are you talking about?}
 {162}{}{Did you steal a locket from that haunted house?}
-{163}{}{Nothing. Never mind.}
+{163}{}{Không có gì. Thôi quên đi.}
 {164}{}{Forget it. I'll kill you now and sort out the pieces later.}
 {165}{}{I-I don't know what you're talking about.}
 {166}{}{Oh, I think you do! You stole a dead girl's locket, and now her spirit can't rest.}

@@ -18,7 +18,7 @@
 {163}{}{Nothing today. Bye.}
 {164}{}{Wee wee.}
 {165}{}{Hey! You better shut your hole!}
-{166}{}{Or what?}
+{166}{}{Không thì sao?}
 {167}{}{Just do your job and get me a drink.}
 {168}{}{I'll just leave instead.}
 {169}{}{Whiskey is $}
@@ -32,7 +32,7 @@
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}
-{180}{}{I'll come back.}
+{180}{}{Tôi sẽ trở lại.}
 {181}{}{Muốn gì?}
 {182}{}{Whiskey.}
 {183}{}{Nothing. I'm leaving.}
@@ -41,7 +41,7 @@
 {186}{}{[EXIT]}
 {187}{}{I don't want people like you in my place. Get out!}
 {188}{}{Alright, I'm going.}
-{189}{}{Wah.}
+{189}{}{Wa.}
 {190}{}{Those New Reno families charge an arm and a leg for their booze. I don't know how she does it!}
 {191}{}{Well, you should try to find out.}
 {192}{}{I could find out.}
@@ -89,7 +89,7 @@
 {234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
 {235}{}{Fine! Something else then.}
 {236}{}{Why, you little...}
-{237}{}{I don't need this from you!}
+{237}{}{Tôi không cần thứ này của ông!}
 {238}{}{I have a room over there. You and I can use it.}
 {239}{}{OK.}
 {240}{}{No, I didn't mean that!}
@@ -109,7 +109,7 @@
 {255}{}{Where are you, woman?}
 {256}{}{Would you get in here?}
 {257}{}{Come on, baby.}
-{258}{}{Follow me.}
+{258}{}{Theo tôi.}
 {259}{}{No woman stands me up. Get the hell out!}
 {260}{}{Được rồi.}
 {261}{}{I forgot; I had something else I had to attend to right away. Please forgive me, baby.}

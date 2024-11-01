@@ -13,4 +13,4 @@
 {203}{}{Upon closer inspection you see that the crack is not the cause of the trouble, but rather
  the connection for where the wires go. The connectors seem to have burned out over the years of use. It's going to
  take a whole new motor as well as a new set of wires to get this machine working again.}
-{204}{}{Exit.}
+{204}{}{Avsluta.}

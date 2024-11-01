@@ -48,4 +48,4 @@
 {147}{}{Odejdź stąd!}
 {148}{}{Zostaw nas.}
 {149}{}{Jesteśmy pokojowym plemieniem.}
-{150}{}{ za ich połączenie.}
+{150}{}{za ich połączenie.}

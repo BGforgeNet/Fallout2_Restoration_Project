@@ -72,7 +72,7 @@
 {171}{}{Zbyt niskie zdolności sprawiają, że blokujesz zamek przy próbie jego otwarcia.}
 {172}{}{Nie udaje ci się rozbroić zamka na tym pojemniku.}
 {173}{}{ zręcznie otwiera zamek na pojemniku.}
-{174}{}{ blokuje zamek na pojemniku podczas próby jego otwarcia.}
+{174}{}{blokuje zamek na pojemniku podczas próby jego otwarcia.}
 {175}{}{ nie potrafi otworzyć zamka na tym pojemniku.}
 {176}{}{Niszczysz zamek na pojemniku.}
 {177}{}{Nadwerężasz się próbując wyłamać zamek i odnosisz jeden punkt obrażeń.}

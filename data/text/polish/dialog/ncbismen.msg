@@ -187,7 +187,7 @@
 {1228}{}{ to banda wymoczków. Co ty na to?}
 {1229}{}{. Natychmiast.}
 {1230}{}{. Czy twojej rodzinie nie będzie cię brakowało?}
-{1231}{}{, aby zrobili coś więcej, niż tylko całowanie tyłka swojemu szefowi.}
+{1231}{}{ , aby zrobili coś więcej, niż tylko całowanie tyłka swojemu szefowi.}
 {1236}{}{ to banda wymoczków. Teraz wiem już, że to prawda.}
 {1252}{}{! Nie możesz wnosić tu broni, no nie?}
 {1260}{}{. Dbasz o siebie?}

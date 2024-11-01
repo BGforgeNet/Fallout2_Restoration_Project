@@ -1,6 +1,6 @@
 {100}{}{You see a monk.}
 {101}{}{You see a holy woman.}
-{102}{}{You see a regular Abbey monk.}
+{102}{}{Du ser en vanlig klostermunk.}
 {103}{}{You see a regular Abbey nun.}
 {200}{}{Hälsningar.}
 {201}{}{Welcome to the Abbey.}

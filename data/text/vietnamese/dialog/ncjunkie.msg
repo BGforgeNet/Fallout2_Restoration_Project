@@ -153,7 +153,7 @@
 {401}{}{Hey, uh... you got any Jet, miss?}
 {402}{}{Look, I need to *fly,* know what I'm saying?}
 {403}{}{No, I'm off drugs. Uh... why? You buying?}
-{404}{}{Mom?}
+{404}{}{Mẹ ơi?}
 {420}{}{Hey, brother? Can you help me fly?}
 {421}{}{C'mon, boy, gimme just a few chips.}
 {422}{}{I'll sleep with you for some Jet or a few chips. I'm clean, I promise.}
@@ -179,7 +179,7 @@
 {442}{}{Hey, uh... you got any Jet, sister?}
 {443}{}{Sister, I need to *fly,* know what I'm saying?}
 {444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
-{445}{}{Mom?}
+{445}{}{Mẹ ơi?}
 {450}{}{Holy...! What are you? Some kind of row-bot?}
 {451}{}{What the hell were you taking to get covered in metal like that?}
 {452}{}{Whoa. A metal human. Talking to me.}
@@ -288,7 +288,7 @@
 {577}{}{You want some of this?! Huh?}
 {578}{}{::Glares at you past drug-hazed eyes::}
 {600}{}{Nice...}
-{601}{}{Mmmm...}
+{601}{}{Hừm...}
 {602}{}{You're a pal.}
 {603}{}{j}
 {604}{}{J}

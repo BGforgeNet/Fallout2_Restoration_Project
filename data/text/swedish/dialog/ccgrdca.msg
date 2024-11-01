@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du ser en vakt.}
 {101}{}{You see a guard in combat armor.}
 {102}{}{You see someone wearing combat armor. There is an insignia on the breastplate that you are unfamiliar with.}
 {103}{}{Nothing to report.}

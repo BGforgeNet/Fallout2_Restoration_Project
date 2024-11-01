@@ -206,7 +206,7 @@
 {305}{}{I learned something}
 {306}{}{Is everyone else crazy here?}
 {307}{}{There must be another way.}
-{308}{}{Follow me.}
+{308}{}{Theo tôi.}
 {309}{}{Try this.}
 {310}{}{Come here.}
 {311}{}{I'm scared.}

@@ -39,7 +39,7 @@
 {138}{tand6a}{Fair enough. Do it right and there's a reward.}
 {139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
 {140}{}{Ok. Me go.}
-{141}{}{Me got questions.}
+{141}{}{Ja ha frågor.}
 {142}{}{All right. I'm off.}
 {143}{}{I'd like to ask you some questions.}
 {144}{tand7a}{Well, I got a little time to spare.}
@@ -56,7 +56,7 @@
 {155}{}{That all. Me go now.}
 {156}{}{What can you tell me about Vault 15?}
 {157}{}{Why haven't you made a deal with the squatters?}
-{158}{}{Do you know where Vault 13 is?}
+{158}{}{Vet du var Valv 13 ligger?}
 {159}{}{I'm looking for a GECK. Would you happen to have one?}
 {160}{}{What can you tell me about New Reno?}
 {161}{}{What can you tell me about Roger Westin?}

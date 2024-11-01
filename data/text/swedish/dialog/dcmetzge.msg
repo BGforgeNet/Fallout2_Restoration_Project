@@ -39,22 +39,22 @@
 {243}{}{Kitsune}
 {245}{}{Go ahead.}
 {246}{}{Visst?}
-{247}{}{I'm not your fucking servant, so hurry it up.}
-{248}{}{What is it? I don't have all day.}
+{247}{}{Jag är inte din jävla betjänt, så skynda på.}
+{248}{}{Vad är det? Jag har inte hela dagen på mig.}
 {249}{}{Shoot.}
 {250}{}{Kanske.}
-{255}{}{I have someone I'd like to sell.}
-{256}{}{About Vic...}
-{257}{}{I'm looking for a merchant.}
-{258}{}{Lara wanted me to ask you for permission to fight Tyler.}
+{255}{}{Jag har någon jag skulle vilja sälja.}
+{256}{}{Om Vic...}
+{257}{}{Jag letar efter en handlare.}
+{258}{}{Lara ville att jag skulle be dig om tillstånd att slåss mot Tyler.}
 {259}{}{Can I join the guild?}
 {260}{}{What can you tell me about your guild?}
 {261}{}{I'd like to go on a slave run.}
 {262}{}{Never mind. Bye.}
 {263}{}{ want to ill.}
 {264}{}{Na.}
-{265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of
- them are quite what I'm looking for. Are these all the slaves you have to offer?}
+{265}{}{Jag tittade på slavarna du har där borta, men du förstår, jag har mycket, eh ... *selektiv * smak, och ingen av
+ dem är riktigt vad jag letar efter. Är det här alla slavar du har att erbjuda?}
 {270}{}{You think you can cut it? I don't take in just anyone... What the hell. If
  you fuck up, I'll sell you off. You'll have to get a tattoo on your forehead
  identifying you as a slaver to everyone. It's permanent, so no second thoughts.}
@@ -130,7 +130,7 @@
 {392}{}{Okay. Bye.}
 {400}{}{What the hell crawled up her ass all of a sudden? I gave that bitch a chance
  a while back. Didn't think she had the balls to try this.}
-{401}{}{What are you talking about?}
+{401}{}{Vad pratar du om?}
 {402}{}{So it's okay?}
 {410}{}{Oh, don't play coy with me. I know exactly what she's planning to do. I
  gave her a chance a while back and she couldn't cut it, but if she
@@ -263,7 +263,7 @@
 {741}{}{Bring it on!}
 {742}{}{I'm not getting out of this am I?}
 {750}{}{Oh, but this will be fun. Trust me.}
-{751}{}{Fuck you.}
+{751}{}{Fan ta dig.}
 {752}{}{Uh, okay.}
 {800}{}{You've killed the leader of the Slave Guild.}
 {900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}

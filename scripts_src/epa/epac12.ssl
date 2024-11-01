@@ -18,7 +18,6 @@
 #define SCRIPT_REALNAME "epac12"
 #include "../headers/define.h"
 #include "../headers/epamain.h"
-#include "../headers/newr1.h" //added by killap
 #include "../headers/epasl.h"
 
 #define NAME                    SCRIPT_EPAC12               //Script name from scripts.h
@@ -306,8 +305,7 @@ procedure description_p_proc begin
   display_msg(mstr(random(102,104)));
 end
 
-procedure use_skill_on_p_proc
-begin
+procedure use_skill_on_p_proc begin
 end
 
 procedure use_obj_on_p_proc begin
@@ -318,33 +316,32 @@ procedure use_obj_on_p_proc begin
    end
 
    if (Kitsune_In_Party) then begin
-         if ( (obj_pid(obj_being_used_with) == PID_FIRST_AID_KIT) or
-            (obj_pid(obj_being_used_with) == PID_DOCTORS_BAG) or
-            (obj_pid(obj_being_used_with) == PID_RADAWAY) or
-            (obj_pid(obj_being_used_with) == PID_ANTIDOTE) or
-            (obj_pid(obj_being_used_with) == PID_STIMPAK) or
-            (obj_pid(obj_being_used_with) == PID_SUPER_STIMPAK) ) then
-            call Node4000;
-         else if( (obj_pid(obj_being_used_with) == PID_BEER ) or
-            (obj_pid(obj_being_used_with) == PID_BOOZE ) or
-            (obj_pid(obj_being_used_with) == PID_ROT_GUT ) or
-            (obj_pid(obj_being_used_with) == PID_ROENTGEN_RUM ) or
-            (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER ) ) then
-            call Node4001;
-         else if ( obj_pid(obj_being_used_with) == PID_PSYCHO ) then
-            call Node4002;
-         else if ( obj_pid(obj_being_used_with) == PID_BUFFOUT ) then
-            call Node4003;
-         else if ( obj_pid(obj_being_used_with) == PID_MENTATS ) then
-            call Node4004;
-         else if ( obj_pid(obj_being_used_with) == PID_JET ) then
-            call Node4005;
+      if ( (obj_pid(obj_being_used_with) == PID_FIRST_AID_KIT) or
+         (obj_pid(obj_being_used_with) == PID_DOCTORS_BAG) or
+         (obj_pid(obj_being_used_with) == PID_RADAWAY) or
+         (obj_pid(obj_being_used_with) == PID_ANTIDOTE) or
+         (obj_pid(obj_being_used_with) == PID_STIMPAK) or
+         (obj_pid(obj_being_used_with) == PID_SUPER_STIMPAK) ) then
+         call Node4000;
+      else if( (obj_pid(obj_being_used_with) == PID_BEER) or
+         (obj_pid(obj_being_used_with) == PID_BOOZE) or
+         (obj_pid(obj_being_used_with) == PID_ROT_GUT) or
+         (obj_pid(obj_being_used_with) == PID_ROENTGEN_RUM) or
+         (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER) ) then
+         call Node4001;
+      else if (obj_pid(obj_being_used_with) == PID_PSYCHO) then
+         call Node4002;
+      else if (obj_pid(obj_being_used_with) == PID_BUFFOUT) then
+         call Node4003;
+      else if (obj_pid(obj_being_used_with) == PID_MENTATS) then
+         call Node4004;
+      else if (obj_pid(obj_being_used_with) == PID_JET) then
+         call Node4005;
    end
 
 end
 
-procedure damage_p_proc
-begin
+procedure damage_p_proc begin
 end
 
 procedure map_enter_p_proc begin
@@ -394,14 +391,14 @@ procedure kill_p_proc begin
 end
 
 procedure talk_p_proc begin
-  if (local_var(LVAR_Herebefore) == 0) then begin
+   if (local_var(LVAR_Herebefore) == 0) then begin
       set_local_var(LVAR_Herebefore,1);
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node001;
       gSay_End;
       end_dialogue;
-  end else begin
+   end else begin
       if ((Kitsune_In_Party) or (party_is_waiting)) then begin
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;
@@ -415,15 +412,15 @@ procedure talk_p_proc begin
          gSay_End;
          end_dialogue;
       end
-  end
+   end
 
-  if (Delete_Self == 1) then
-   destroy_object(self_obj);
+   if (Delete_Self == 1) then
+      destroy_object(self_obj);
 
-  if (local_var(LVAR_Kill_NPC) == 1) then begin
+   if (local_var(LVAR_Kill_NPC) == 1) then begin
       set_self_visible; //visi
       call kill_p_proc;
-  end
+   end
 end
 
 procedure Node001 begin
@@ -434,8 +431,8 @@ end
 procedure Node002 begin
    if (map_var(MVAR_Kitsune_Free) == 2) then begin
       Reply(5000);
-	   NOption(5001,Node999,004);
-	   set_local_var(LVAR_Kill_NPC,1);
+      NOption(5001,Node999,004);
+      set_local_var(LVAR_Kill_NPC,1);
       destroy_object(tile_contains_pid_obj(KITSUNE_HIB_HEX,dude_elevation,33556339));
       chamber:=create_object(33556343,KITSUNE_HIB_HEX,dude_elevation);
    end else begin
@@ -936,38 +933,38 @@ procedure Node999 begin
 end
 
 procedure timed_event_p_proc begin
- if (self_visible) then begin
-   if (combat_is_initialized == false) then begin
-      if (Kitsune_In_Party == false) then begin
-      //blah
-      end else begin
-         if (party_healed_bad) then begin
-            call Node5000;
-         end else if (self_is_poisoned) then begin
-            call Node5001;
-         end else if (self_rads > 0) then begin
-            call Node5002;
-         end else if (Is_Crippled(self_obj)) then begin
-            call Node5003;
-         end else if (Is_Blind(self_obj)) then begin
-            call Node5004;
-         end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3001;
-         end else if ( (Vic_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3002;
-         end else if ( (Miria_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3003;
-         end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3004;
-         end else if ( (Marcus_In_Party) and (random(1,2) == 2) ) then begin
-            call Node3005;
+   if (self_visible) then begin
+      if (combat_is_initialized == false) then begin
+         if (Kitsune_In_Party == false) then begin
+         //blah
          end else begin
-            call Node3000;
+            if (party_healed_bad) then begin
+               call Node5000;
+            end else if (self_is_poisoned) then begin
+               call Node5001;
+            end else if (self_rads > 0) then begin
+               call Node5002;
+            end else if (Is_Crippled(self_obj)) then begin
+               call Node5003;
+            end else if (Is_Blind(self_obj)) then begin
+               call Node5004;
+            end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3001;
+            end else if ( (Vic_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3002;
+            end else if ( (Miria_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3003;
+            end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3004;
+            end else if ( (Marcus_In_Party) and (random(1,2) == 2) ) then begin
+               call Node3005;
+            end else begin
+               call Node3000;
+            end
          end
       end
    end
- end
- flush_add_timer_event_sec(self_obj, random(90, 120), 1);
+   flush_add_timer_event_sec(self_obj, random(60, 90), 1);
 end
 
 procedure Node2000 begin

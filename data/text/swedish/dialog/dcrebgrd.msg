@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du ser en vakt.}
 {101}{}{You see a guard for Becky's Casino Bar.}
 {150}{}{He seems to be eyeing the crowd for thieves.}
 {151}{}{She seems to be keeping a close eye on everyone in the room.}

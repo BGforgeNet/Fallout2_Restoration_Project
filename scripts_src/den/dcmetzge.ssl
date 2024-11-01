@@ -858,7 +858,7 @@ procedure Node042 begin
 end
 procedure Node043 begin
    Reply(600);
-   BOption(601, Node998, 004);
+   BOption(601, Node998, 001);
    BOption(602, Node998, 004);
    prev_node := 30;
 end

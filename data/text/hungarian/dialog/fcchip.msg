@@ -52,7 +52,7 @@
 {151}{}{Jó. Egyébként szart se érdekelsz.}
 {152}{}{Ha esetleg tudnál csinálni valamit... öldd meg, vagy dumáld meg a fejét, vagy akármi... a lépem nélkül ki fogok nyiffanni.}
 {153}{}{Majd kiderül, mit tudok tenni az ügy érdekében.}
-{154}{}{Bocs, barátom...  de neked akkor annyi. Nem tudok segíteni.}
+{154}{}{Bocs, barátom... de neked akkor annyi. Nem tudok segíteni.}
 {155}{}{Lép nélkül ki fogok nyiffanni. Amúgy kösz a segítségért.}
 {156}{}{Megtaláltam! Menj el Dr. Wonghoz érte!}
 {157}{}{Ó, majd én kisegítelek. Irány Fung!}

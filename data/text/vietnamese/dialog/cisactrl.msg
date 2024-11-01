@@ -1,10 +1,10 @@
-{100}{}{You see a functional computer.}
-{101}{}{You see the air traffic control terminal.}
-{102}{}{Welcome to air traffic control. This terminal controls satellite alignment for the movement of Vertibirds.
- Please enter a command.}
-{103}{}{Log off.}
-{104}{}{Align satellite to receive Enclave coordinates.}
-{105}{}{Satellite realigning. One moment please...}
+{100}{}{Bạn thấy một chiếc máy tính vẫn hoạt động.}
+{101}{}{Bạn thấy bảng máy tính kiểm soát không lưu.}
+{102}{}{Chào mừng đến với kiểm soát không lưu. Bảng máy tính này điều khiển việc bố trí vệ tinh cho Máy bay
+trực thăng di chuyển. Vui lòng nhập lệnh.}
+{103}{}{Đăng xuất.}
+{104}{}{Xếp vệ tinh để nhận tọa độ của Enclave.}
+{105}{}{Đang căn chỉnh lại vệ tinh. Vui lòng chờ một lúc...}
 {106}{}{[THÊM]}
-{107}{}{Realignment successful. Docking rig ready to receive incoming aircrafts.}
-{108}{}{Log off.}
+{107}{}{Căn chỉnh lại thành công. Giàn neo đậu đã sẵn sàng đón tiếp máy bay.}
+{108}{}{Đăng xuất.}

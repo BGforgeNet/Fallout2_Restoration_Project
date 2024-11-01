@@ -68,7 +68,7 @@
 {148}{}{Nein, aber ich kenn die Geschichte sehr gut, sie wurde zu einer heilige Legende bei meinem Volk.
  Wie auch immer, vielleicht erfahre ich in Gecko etwas mehr. Pass auf dich auf.}
 {150}{}{Er wollte sich Waffen besorgen, um die Truppen aus Vault City loszuwerden. Ich konnte ihn aber davon überzeugen, dass es bessere Lösungen gibt als Waffengewalt.}
-{151}{}{Achso, das ist also sein neuer Plan, hä? Jaa, Connar ist nen guter Mann, aber er denkt die Dinge nicht immer bis zum Ende. Manchmal ist es das Beste,  die Dinge zu besprechen und zu versuchen, mit den Menschen darüber zu diskutieren. Das ist eine Lektion, die ich von meinem alten Freund, dem Bunkerbewohner, gelernt habe.}
+{151}{}{Achso, das ist also sein neuer Plan, hä? Jaa, Connar ist nen guter Mann, aber er denkt die Dinge nicht immer bis zum Ende. Manchmal ist es das Beste, die Dinge zu besprechen und zu versuchen, mit den Menschen darüber zu diskutieren. Das ist eine Lektion, die ich von meinem alten Freund, dem Bunkerbewohner, gelernt habe.}
 {152}{}{Gut, hast du 'ne Ahnung mit wem im Stadtrat man darüber sprechen könnte?}
 {153}{}{Ich denke der Ratsälteste McClure ist der richtige Mann dafür. Was hältst du davon?}
 {154}{}{Der Ratsälteste McClure ist ein helles Köpfchen in Vault City. Vielleicht kann mit ihm eine Vereinbarung getroffen werden?}

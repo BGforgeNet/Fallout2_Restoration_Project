@@ -55,7 +55,7 @@
 {362}{}{Właściwie mogłabym skorzystać z kilku podpowiedzi na temat intymnej piękności od takiej ślicznotki, jak ty.}
 {363}{}{Mam kilka pytań, o które chciałabym cię zapytać.}
 {364}{}{Szukam informacji o pewnym handlarzu rzeczami sprzed wojny.}
-{370}{}{ Więc lepiej porozmawiaj z Wielkonosą Sally. Ona organizuje wszystkie spotkania dla nas i nie toleruję robótek na boku.}
+{370}{}{Więc lepiej porozmawiaj z Wielkonosą Sally. Ona organizuje wszystkie spotkania dla nas i nie toleruję robótek na boku.}
 {380}{}{Cześć, mysiu-pysiu. Nazywam się Jenny. Szukasz tutaj pracy? Jeżeli ruszasz się tak dobrze, jak wyglądasz, to mogłabyś tu porządnie zarobić.}
 {381}{}{Nie jestem zainteresowana pracą tutaj.}
 {382}{}{Mmm, chciałabym pokazać ci osobiście, jak dobrze potrafię się poruszać.}

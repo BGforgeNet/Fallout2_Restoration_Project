@@ -30,60 +30,60 @@
 {130}{}{(This one has good access.) Curling, Dr. C.}
 {131}{}{(Ennek nagyon magas hozzáférése van) Bird, Daniel}
 {132}{}{(Majd inkább máskor) Kijelentkezés.}
-{133}{}{Válasszon:                                              }
+{133}{}{Válasszon: }
 {134}{}{A. E. C.: Atomic Power plant Operations, }
-{135}{}{Security Status?}
-{136}{}{Download A. E. C.: Atomic Power plant Operations.}
-{137}{}{Security Status.}
-{138}{}{Vissza az azonosításhoz:                                    }
-{139}{}{Válasszon:                                              }
-{140}{}{Security Level: Current Status, }
+{135}{}{Biztonsági státusz?}
+{136}{}{Letöltés: A. E. C.: Atomreakor vezérlés.}
+{137}{}{Biztonsági státusz.}
+{138}{}{Vissza az azonosításhoz:}
+{139}{}{Válasszon: }
+{140}{}{Biztonság szint: Jelenlegi állapot, }
 {141}{}{Chemical Corps: Project Status Report, }
 {142}{}{A. E. C.: Atomic Power plant Operations, }
-{143}{}{Security Status?}
-{144}{}{Biztonság/szint: Jelenlegi állapot                          }
-{145}{}{Download Chemical Corps: Project Status Report.}
-{146}{}{Download A. E. C.: Atomic Power plant Operations.}
-{147}{}{Security Status.}
-{148}{}{Vissza az azonosításhoz:                                    }
-{149}{}{Válasszon:                                              }
-{150}{}{State of the Nation: Current Status, }
+{143}{}{Biztonsági státusz?}
+{144}{}{Biztonság/szint: Jelenlegi állapot }
+{145}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állapota.}
+{146}{}{Letöltés: A. E. C.: Atomreakor vezérlés.}
+{147}{}{Biztonsági státusz.}
+{148}{}{Vissza az azonosításhoz:}
+{149}{}{Válasszon: }
+{150}{}{A Nemzet helyzete: Jelenlegi státusz, }
 {151}{}{Word List, }
-{152}{}{Security Level: Current Status, }
+{152}{}{Biztonság szint: Jelenlegi állapot, }
 {153}{}{Chemical Corps: Project Status Report, }
 {154}{}{A. E. C.: Atomic Power plant Operations, }
-{155}{}{Security Status?}
-{156}{}{A Nemzet helyzete: Jelenlegi státusz                        }
-{157}{}{Letöltés: Szavak listája                                    }
-{158}{}{Biztonság/szint: Jelenlegi állapot                          }
-{159}{}{Download Chemical Corps: Project Status Report.}
-{160}{}{Download A. E. C.: Atomic Power plant Operations.}
-{161}{}{Biztonsági státusz:                                         }
-{162}{}{Vissza az azonosításhoz:                                    }
-{163}{}{Válasszon: Biztonsági státusz?                              }
-{164}{}{Biztonsági státusz:                                         }
-{165}{}{End Access.}
+{155}{}{Biztonsági státusz?}
+{156}{}{A Nemzet helyzete: Jelenlegi státusz}
+{157}{}{Letöltés: Szavak listája.}
+{158}{}{Biztonság/szint: Jelenlegi állapot }
+{159}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állapota.}
+{160}{}{Letöltés: A. E. C.: Atomreakor vezérlés.}
+{161}{}{Biztonsági státusz}
+{162}{}{Vissza az azonosításhoz:}
+{163}{}{Válasszon: Biztonsági státusz?}
+{164}{}{Biztonsági státusz}
+{165}{}{Hozzáférés vége.}
 {166}{}{Download failed - Security Status file missing.}
-{167}{}{A Nemzet helyzete: Jelenlegi státusz                        }
-{168}{}{Letöltés: Szavak listája                                    }
+{167}{}{A Nemzet helyzete: Jelenlegi státusz}
+{168}{}{Letöltés: Szavak listája.}
 {169}{}{Security/Level: Current Status.}
-{170}{}{Download Chemical Corps: Project Status Report.}
-{171}{}{Download A. E. C.: Atomic Power plant Operations.}
-{172}{}{Vissza az azonosításhoz:                                    }
+{170}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állapota.}
+{171}{}{Letöltés: A. E. C.: Atomreakor vezérlés.}
+{172}{}{Vissza az azonosításhoz:}
 {173}{}{A letöltés befejeződött.                                    }
-{174}{}{Letöltés: Szavak listája                                    }
+{174}{}{Letöltés: Szavak listája.}
 {175}{}{Security/Level: Current Status.}
 {176}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állapota           }
 {177}{}{Download A. E. C.: Atomic Power plant Operations}
-{178}{}{Security Status.}
-{179}{}{Vissza az azonosításhoz:                                    }
+{178}{}{Biztonsági státusz.}
+{179}{}{Vissza az azonosításhoz:}
 {180}{}{A letöltés befejeződött.                                    }
-{181}{}{A Nemzet helyzete: Jelenlegi státusz                        }
+{181}{}{A Nemzet helyzete: Jelenlegi státusz}
 {182}{}{Security/Level: Current Status.}
 {183}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állapota           }
 {184}{}{Download A. E. C.: Atomic Power plant Operations}
-{185}{}{Security Status.}
-{186}{}{Vissza az azonosításhoz:                                    }
+{185}{}{Biztonsági státusz.}
+{186}{}{Vissza az azonosításhoz:}
 {187}{}{Körletek: Biztonsági lövegek élesített és riasztott állapotban.}
 {188}{}{Körletek: Biztonsági lövegek normál állapotban.}
 {189}{}{Körletek: Biztonsági lövegek átmenetileg deaktivált módban.}
@@ -101,25 +101,25 @@
 {201}{}{Information and Power plant Level: Security turrets currently at Deactivated Maintenance status.}
 {202}{}{Adjust security level.}
 {203}{}{A Nemzet helyzete: Jelenlegi státusz                        }
-{204}{}{Letöltés: Szavak listája                                    }
-{205}{}{Download Chemical Corps: Project Status Report.}
-{206}{}{Download A. E. C.: Atomic Power plant Operations.}
+{204}{}{Letöltés: Szavak listája.}
+{205}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állapota.}
+{206}{}{Letöltés: A. E. C.: Atomreakor vezérlés.}
 {207}{}{Security status.}
-{208}{}{Vissza az azonosításhoz:                                    }
+{208}{}{Vissza az azonosításhoz:}
 {209}{}{A letöltés befejeződött.                                    }
 {210}{}{Download State of the Nation: Current status.}
-{211}{}{Letöltés: Szavak listája                                    }
-{212}{}{Biztonság/szint: Jelenlegi állapot                          }
-{213}{}{Download A. E. C.: Atomic Power plant Operations.}
-{215}{}{Security Status.}
-{216}{}{Vissza az azonosításhoz:                                    }
+{211}{}{Letöltés: Szavak listája.}
+{212}{}{Biztonság/szint: Jelenlegi állapot }
+{213}{}{Letöltés: A. E. C.: Atomreakor vezérlés.}
+{215}{}{Biztonsági státusz.}
+{216}{}{Vissza az azonosításhoz:}
 {217}{}{A letöltés befejeződött.                                    }
 {218}{}{Download State of the Nation: Current status.}
-{219}{}{Letöltés: Szavak listája                                    }
+{219}{}{Letöltés: Szavak listája.}
 {220}{}{Biztonság/Szint: Jelenlegi állapot                          }
-{221}{}{Download Chemical Corps: Project Status Report.}
+{221}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állapota.}
 {222}{}{Security status.}
-{223}{}{Vissza az azonosításhoz:                                    }
+{223}{}{Vissza az azonosításhoz:}
 {224}{}{Ez a terminál mélydiagnosztikai műveleteket végez. Kérjük, próbálkozzon egy másik terminálnál! Köszönjük.}
 {225}{}{Üdvözöljük a PoseidoNet Súgójában. Sajnálattal közöljük, hogy a Súgó állománya elavult, és átmenetileg nem is elérhető. Keres frissítést?}
 {226}{}{Igen.}

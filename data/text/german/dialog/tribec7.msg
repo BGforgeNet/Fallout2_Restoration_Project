@@ -23,7 +23,7 @@
 {214}{}{Und, Freund, hast du den Schlüssel? Bitte, beeil dich.}
 {215}{}{Noch nicht. Ich bin immer noch auf der Suche.}
 {216}{}{Ja, hier ist er. Zeit dich hier herauszuholen.}
-{217}{}{Warum ist da draußen so ein Krawall? Oh, ich fühle dass sich viele mit den Geistern vereint haben. Wer ist . . . Sulik?  Necken mich die Geister, oder bist du es wirklich, Bruder?}
+{217}{}{Warum ist da draußen so ein Krawall? Oh, ich fühle dass sich viele mit den Geistern vereint haben. Wer ist . . . Sulik? Necken mich die Geister, oder bist du es wirklich, Bruder?}
 {218}{}{Warum ist da draußen so ein Krawall? Oh, ich fühle dass sich viele mit den Geistern vereint haben. Und ich spüre dass du derjenige bist, der sie zu ihnen geschickt hat. Was willst du, Geistermacher?}
 {219}{}{Ich bin gekommen, um dich zu befreien.}
 {221}{}{Ehret die Geister! Bitte, du musst uns aus dem Käfig herausholen. Weg von diesem grässlichen Ort.}

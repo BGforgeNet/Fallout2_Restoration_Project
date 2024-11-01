@@ -4,7 +4,7 @@
 {103}{}{My name's Zeke, stranger. I'm sorry, but I don't have time to talk to you -- and I don't think
  there's anything in this town for you, anyway. You should move on.}
 {104}{}{Uh, okay.}
-{105}{}{Me got questions.}
+{105}{}{Ja ha frågor.}
 {106}{}{All right, I'll leave.}
 {107}{}{I just wanted to ask a couple of questions.}
 {108}{}{Well, I think you'll find that we're all out of answers here. Why don't you come back when we
@@ -15,7 +15,7 @@
 {111}{}{Färdigt.}
 {112}{}{Rebecca has told me what you did for her. I want to apologize for the treatment you received
  here. You certainly didn't deserve it. What can I help you with?}
-{113}{}{Me got questions.}
+{113}{}{Ja ha frågor.}
 {114}{}{Nothing. Wavy.}
 {115}{}{I've got some questions for you.}
 {116}{}{Nothing for now, thanks.}

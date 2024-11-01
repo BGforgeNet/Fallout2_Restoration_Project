@@ -57,22 +57,22 @@
 {272}{}{Radera hundratals år av någon annans hårda arbete? Låter kul. Jag gör det.}
 {273}{}{Varför formaterar du det inte själv?}
 {274}{}{Om du hatar att vara här, varför åker du inte bara härifrån?}
-{280}{}{Are you kidding me? They'd crucify me if I did that. You however, you're an experienced adventurer. Hell, I bet
- you could massacre everyone here without breaking a sweat. So will you do it, or are you afraid of a bunch of pacifist monks?}
-{281}{}{I'm not afraid of anyone. I'll do it.}
-{282}{}{Alright. I'll do it.}
-{283}{}{Nah, instead I think I'll test out your massacre theory. Starting with you.}
-{284}{}{I'll pass. That's just not my style. Bye.}
-{285}{}{No, I'm not going to do it. If you hate it here, why don't you just leave?}
-{286}{}{Unless you've changed your mind about helping me, fuck off.}
-{287}{}{Alright. I'll do it.}
-{288}{}{No, I'm not going to do it. If you hate it here, why don't you just leave?}
+{280}{}{Skojar du med mig? De skulle korsfästa mig om jag gjorde det. Du däremot, du är en erfaren äventyrare. Fan, jag slår vad om
+ att du skulle kunna massakrera alla här utan att svettas. Så kommer du att göra det, eller är du rädd för ett gäng pacifistiska munkar?}
+{281}{}{Jag är inte rädd för någon. Jag gör det.}
+{282}{}{Okej, då. Jag gör det.}
+{283}{}{Nä, istället tror jag att jag ska testa din massakerteori. Jag börjar med dig.}
+{284}{}{Jag står över. Det är bara inte min stil. Hej då.}
+{285}{}{Nej, jag tänker inte göra det. Om du hatar att vara här, varför flyttar du inte bara?}
+{286}{}{Om du inte har ändrat dig om att hjälpa mig, så dra åt helvete.}
+{287}{}{Okej, då. Jag gör det.}
+{288}{}{Nej, jag tänker inte göra det. Om du hatar att vara här, varför flyttar du inte bara?}
 {290}{}{You will? Seriously? Oh man, that's awesome. But first, you'll need to get access, 'cause they're pretty protective
  of the database. It shouldn't be too hard though, these monks are pretty trusting. They're gonna be pissed as hell when
  you format it, but they're all a bunch of wimps, so don't worry about it. Just try not to kill anyone -- I don't want things
  to get too out of hand, you know?}
 {291}{}{Sure. Anything else?}
-{292}{}{I make no promises. Anything else?}
+{292}{}{Jag ger inga löften. Var det något mer?}
 {300}{}{Just format it, then take off, cause they're not going to want you around here. Don't even bother to come tell me
  you did it, because I'll have to act just as pissed as everyone else or they'll suspect something's up. Thanks again for
  doing this. It's for their own good.}

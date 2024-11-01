@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du ser en vakt.}
 {101}{}{You see a guard in power armor.}
 {102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
 {103}{}{Gå vidare.}

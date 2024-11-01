@@ -52,7 +52,7 @@ town may use grain or gold. Redding is another prime example of a town fueled by
 {188}{}{How about I give you $50 and you tell me.}
 {189}{}{What do you say you give me the information, or I give you a new hole
  in the head.}
-{190}{}{Nevermind.}
+{190}{}{Quên đi.}
 {191}{}{Well, can I ask you something else, then?}
 {192}{}{Sure, that kind of money MIGHT help me change my mind. But you ain't got
  it!}

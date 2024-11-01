@@ -35,7 +35,7 @@
  not out of fear or prejudice.}
 {125}{}{Hey, maybe you figure I can kick your ass?}
 {126}{}{You seem to be an honorable being, Gruthar.}
-{127}{}{Yeah, I suppose.}
+{127}{}{Javisst, jag antar det.}
 {128}{}{A geck. Is that not a small lizard... no, wait... that is a gecko. I am sorry, but I do not know
  what a geck is, nor where it can be found.}
 {129}{}{Yes, I believe you mentioned this once before. I do not know what a geck is, nor where it can be
@@ -134,7 +134,7 @@
 {192}{}{Uh, me sorry.}
 {193}{}{Greetings, human. Have you reconsidered? Will you help me?}
 {194}{}{Hell, no. I just wanted to listen to you butcher the language some more.}
-{195}{}{No, I don't think so.}
+{195}{}{Nej, det tror jag inte.}
 {196}{}{Yes, Gruthar. I will help you.}
 {197}{}{Greetings, friend. Have you examined the machine yet?}
 {198}{}{Not yet, but I'll get on it.}

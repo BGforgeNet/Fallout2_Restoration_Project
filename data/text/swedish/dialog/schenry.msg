@@ -10,7 +10,7 @@
 {109}{}{Det angår inte dig.}
 {110}{}{Hmm, sub-par cranial development... Stunted intellectual development. No gross physical mutation, though. No, you just simply won't do, I'm afraid. Good day.}
 {111}{}{The Chosen One? Of course, that makes sense. Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
-{112}{}{What are you talking about?}
+{112}{}{Vad pratar du om?}
 {113}{}{Vault Behavioral project?}
 {114}{}{Cyber-genetics? I don't remember ever studying that one.}
 {115}{}{Right. You're mad as a hatter. Goodbye.}

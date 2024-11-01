@@ -21,7 +21,7 @@
 {120}{}{It's simple. I am the Chosen One because that is what must be.}
 {121}{}{AHS one?}
 {122}{}{That's what my Elder says I am.}
-{123}{}{What are you talking about?}
+{123}{}{Vad pratar du om?}
 {124}{}{Can we just get to the part where you sprinkle holy water on me or something?}
 {125}{}{Oh. Well, are you seeking true understanding and spiritual peace? We can help.}
 {126}{}{No, I'm looking for a GECK.}

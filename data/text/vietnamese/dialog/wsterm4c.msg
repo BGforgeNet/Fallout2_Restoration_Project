@@ -11,7 +11,7 @@
 {107}{}{Retrieve}
 {108}{}{Store}
 {109}{}{Exit}
-{110}{}{Ug.}
+{110}{}{Hực.}
 {111}{}{[You are unable to read what's on the monitor.]}
 {112}{}{This terminal is Out of Order
                                 Please contact network administrator for further details.}

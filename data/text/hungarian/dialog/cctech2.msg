@@ -32,7 +32,7 @@
 {137}{}{Katona, mondtam, hogy ezt az információt mindenkinek tudnia kell.}
 {138}{}{Biztonsági okokból ellenőrzöm, hogy a személyzet tagjai tudatában vannak-e fontos információknak. Most pedig mondja el az összes lehetséges odajutási módot, amit ismer!}
 {139}{}{Értem.}
-{140}{}{Igenis, uram! Először is, az elsődleges mód a gépmadarak használata. Ám a kezelésük nehézkessége miatt valószínűtlen, hogy képzetlenek vezetni tudnák őket. A második lehetséges mód a  San Francisco-i öbölben veszteglő tanker. A hajót hatástalanították, és kódkártya kell az újraindításához, amit a bázisparancsnok tart magánál. A harmadik és egyben utolsó mód az úszás, melynek túlélési esélye a nulla felé konvergál.}
+{140}{}{Igenis, uram! Először is, az elsődleges mód a gépmadarak használata. Ám a kezelésük nehézkessége miatt valószínűtlen, hogy képzetlenek vezetni tudnák őket. A második lehetséges mód a San Francisco-i öbölben veszteglő tanker. A hajót hatástalanították, és kódkártya kell az újraindításához, amit a bázisparancsnok tart magánál. A harmadik és egyben utolsó mód az úszás, melynek túlélési esélye a nulla felé konvergál.}
 {141}{}{Kösz.}
 {142}{}{Kösz.}
 {143}{}{A szervizben tárolják őket, a légiirányítók mellett.}

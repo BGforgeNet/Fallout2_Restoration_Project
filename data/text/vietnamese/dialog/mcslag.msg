@@ -1,5 +1,5 @@
 {100}{}{Run!}
-{101}{}{Help!}
+{101}{}{Cứu với!}
 {102}{}{We're being attack by the surfacers.}
 {103}{}{Leave us in peace.}
 {104}{}{Can't we all just get along?}

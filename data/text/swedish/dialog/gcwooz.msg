@@ -220,7 +220,7 @@
 {702}{}{I need a ruling on that!}
 {703}{}{Kick me in the jimmy.}
 {704}{}{Hi, shills.}
-{705}{}{Fuck you.}
+{705}{}{Fan ta dig.}
 {706}{}{I wouldn't shit you on this one.}
 {707}{}{Let's play Tragic.}
 {708}{}{I am the worst Tragic player in the world.}
@@ -240,7 +240,7 @@
 {722}{}{Yeah, it is. One Gamma Gulp coming right up.}
 {723}{}{Alright, enjoy. Anything else?}
 {724}{}{Special occasion, huh? Well lah-de-dah, aren't we special today. One Roentgen coming right up then.}
-{725}{}{Nope, thanks.}
+{725}{}{Nej, tack.}
 {726}{}{Yeah, what else do you have?}
 {727}{}{Whatever, I'll take one.}
 {728}{}{Right. Let me get something else.}

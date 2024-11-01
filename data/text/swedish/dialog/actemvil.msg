@@ -1,26 +1,26 @@
-{100}{}{You see Cameron, a fellow tribesman.}
-{101}{}{You see Cameron.}
-{102}{}{You see a young man with bulging muscles and a very confident air about him.}
+{100}{}{Du ser Cameron, en stamfrände.}
+{101}{}{Du ser Cameron.}
+{102}{}{Du ser en ung man med stora muskler och en mycket självsäker utstrålning.}
 {103}{}{Hälsningar,}
-{104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
- me in unarmed combat. Shall we begin?}
-{105}{}{Me got questions.}
-{106}{}{Okay, we fight.}
-{107}{}{No, me get ready first.}
-{108}{}{I've got some questions for you first.}
-{109}{}{Sure, let's party.}
-{110}{}{I think I need a moment to prepare for this.}
-{111}{}{What would you like to know? }
-{112}{}{Why we fight?}
-{113}{}{We fight to death?}
-{114}{}{We fight unarmed?}
-{115}{}{Okay, we fight now.}
-{116}{}{Me need get ready.}
-{117}{}{Why do we have to fight?}
-{118}{}{Is this a fight to the death?}
-{119}{}{You say that we are to fight unarmed?}
-{120}{}{Let's get this fight over with.}
-{121}{}{I need a moment to prepare for the fight.}
+{104}{}{. Jag har äran att vara din sista utmaning. För att fortsätta i din strävan måste du besegra
+ mig i obeväpnad strid. Ska vi börja?}
+{105}{}{Ja ha frågor.}
+{106}{}{Okej, vi slåss.}
+{107}{}{Nej, jag göra i ordning först.}
+{108}{}{Jag har några frågor till dig först.}
+{109}{}{Visst, nu kör vi.}
+{110}{}{Jag tror att jag behöver en stund för att förbereda mig för det här.}
+{111}{}{Vad skulle du vilja veta? }
+{112}{}{Varför vi slåss?}
+{113}{}{Vi slåss till döds?}
+{114}{}{Vi slåss obeväpnade?}
+{115}{}{Okej, vi slåss nu.}
+{116}{}{Jag måste göra redo.}
+{117}{}{Varför måste vi slåss?}
+{118}{}{Är det här en kamp på liv och död?}
+{119}{}{Säger du att vi ska strida obeväpnade?}
+{120}{}{Dags att få den här striden överstökad.}
+{121}{}{Jag behöver en stund för att förbereda mig för striden.}
 {122}{}{The path of the Chosen One is not an easy trail to walk, }
 {123}{}{. You will be faced with many challenges throughout your lifetime, and the most difficult
  of these will be dealing with your fellow man. There will come a time when diplomacy and tact
@@ -40,25 +40,25 @@
 {132}{}{I understand.}
 {133}{}{Very well. Shall we begin?}
 {134}{}{Me ready.}
-{135}{}{No, me get ready first.}
+{135}{}{Nej, jag göra i ordning först.}
 {136}{}{I'm ready.}
 {137}{}{No, I need some time to prepare.}
 {138}{}{Very well. Return and tell me when you are ready for your challenge.}
-{139}{}{Are you ready for your challenge, }
+{139}{}{Är du redo för din utmaning,}
 {140}{}{?}
-{141}{}{Me ready. }
-{142}{}{Me not ready yet.}
-{143}{}{I think so.}
-{144}{}{No, give me a minute.}
-{145}{}{Excellent! Your equipment will be kept in the trunk outside of the room.
- You can get it after the fight. Let the fight begin! Good luck to you }
+{141}{}{Jag redo. }
+{142}{}{Jag inte redo än.}
+{143}{}{Jag tror det.}
+{144}{}{Nej, vänta en stund.}
+{145}{}{Utmärkt! Din utrustning kommer att förvaras i kofferten utanför rummet.
+ Du kan hämta den efter striden. Låt striden börja! Lycka till }
 {146}{}{.}
-{147}{}{It is good to see you again, Chosen One. How may I help you?}
-{148}{}{Me want visit temple again.}
-{149}{}{Want fight again?}
-{150}{}{Just say hello. Me go now.}
-{151}{}{I'd like to visit the temple again.}
-{152}{}{Hello, Cameron. Ready for another fight?}
+{147}{}{Det är trevligt att se dig igen, Utvalde. Hur kan jag hjälpa dig?}
+{148}{}{Jag vill templet igen.}
+{149}{}{Vill slåss igen?}
+{150}{}{Bara säga hej. Jag gå nu.}
+{151}{}{Jag skulle vilja besöka templet igen.}
+{152}{}{Hej, Cameron. Redo för ännu en strid?}
 {153}{}{Jag tänkte bara säga hej. Vi ses senare.}
 {154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
  The cave entrance behind me will return you to the last chamber.}

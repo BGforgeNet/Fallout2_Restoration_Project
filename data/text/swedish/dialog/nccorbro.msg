@@ -103,26 +103,26 @@
 {426}{}{you, pal, can be PART of that magic!}
 {427}{}{you, honey-tits, can be PART of that magic!}
 {428}{}{Okee-Dokee}
-{429}{}{Magic! Magic! Me like magic!}
-{435}{}{Act like a BEAST. Like a wild rhino. A primal animal, built only to harness his lust for the gratitude of the masses!
- MAGIC, BABY, MAGIC! THAT'S what I'm talking about!}
+{429}{}{Magi! Magi! Jag gilla magi!}
+{435}{}{Bete dig som ett ODJUR. Som en vild noshörning. Ett primitivt djur, byggt bara för att tygla sin lust för massornas tacksamhet!
+ MAGI, JA, MAGI! Det är det jag pratar om!}
 {436}{}{Act like a BEAST. Like a wild mynx. A primal animal whose SOUL desire is to enflame the lusts of the masses!
  MAGIC, BABY, MAGIC! THAT'S what I'm talking about!}
-{445}{}{X-cellent! Now, time for a try-out. I need to see how you get over the 'hump.' }
-{446}{}{You game, pal?}
-{447}{}{You game, honey-tits?}
+{445}{}{X-cellent! Nu är det dags för ett prov. Jag vill se hur du tar dig över 'puckeln.' }
+{446}{}{Är du med, kompis?}
+{447}{}{Är du med, sötnos?}
 {448}{}{Oh-Kay}
-{455}{}{Let's do it, then! No time to lose! Hey! Somebody get me an extra! }
-{456}{}{Alright, pal, time to shine...}
-{457}{}{Alright, honey-tits, time to shine...}
-{458}{}{[Do as the odd man directs.]}
-{459}{}{You bet. You ain't seen NOTHING yet.}
-{465}{}{Sorry, pal, yer just not FLEXIBLE enough for what we need. Work on it, and maybe we can talk business later, okay?}
-{466}{}{Sorry, honey-tits, yer just not FLEXIBLE enough, for what we need. Work on it, and maybe we can talk business later, okay?}
-{467}{}{Me LIKE doooo-ing business here. Me be BACK}
-{468}{}{*Snffff* O-kay. *Snffff* Me feel used}
-{469}{}{I'll try and work on my agility. Maybe next time.}
-{470}{}{I might be back. After a shower. A long shower.}
+{455}{}{Låt oss göra det, då! Ingen tid att förlora! Hallå! Kan någon ge mig en extra! }
+{456}{}{Okej, kompis, dags att glänsa...}
+{457}{}{Okej, sötnos, dags att glänsa...}
+{458}{}{[Gör som den udda mannen säger.]}
+{459}{}{Det kan du ge dig på. Du har inte sett NÅGONTING än.}
+{465}{}{Ledsen, kompis, men du ä' inte tillräckligt vig för det vi behöver. Jobba på det, så kanske vi kan prata affärer senare, okej?}
+{466}{}{Ledsen, sötnos, men du ä' inte tillräckligt vig för det vi behöver. Jobba på det, så kanske vi kan prata affärer senare, okej?}
+{467}{}{Jag GILLAR att göööö-ra affärer här. Jag TILLBAKA senare}
+{468}{}{*Snffff* O-kej. *Snffff* Jag känna använd}
+{469}{}{Jag ska försöka jobba på min smidighet. Kanske nästa gång.}
+{470}{}{Jag kanske kommer tillbaka. Efter en dusch. En lång dusch.}
 {475}{}{Sorry, pal, yer handsome and yer flexible enough, it's just that y'ain't got the, uh, stamina we need... Work out
  a little, and then maybe we do some business, okay?}
 {476}{}{Sorry, honey-tits, yer pretty and yer flexible enough, it's just that y'ain't got the, uh, endurance we need... Work

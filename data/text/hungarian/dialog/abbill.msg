@@ -12,7 +12,10 @@
  myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
  as for something special... hmm, [He glances over at Marcus.] It's funny you should ask, I just might have something that
  would interest your friend here.}
-{212}{}{Haha, úgyhogy észrevetted, ugye? Igen, a Abbey lakói kissé el vannak ragadtatva mindennel, ami a háború előtti időkből származik, különösen, ha az technológiai jellegű. Valami furcsa vallást alakítottak köré, de én sem értem pontosan. De kedves emberek, és jó pénzt fizetnek minden háború előtti dologért, amit csak sikerül szerezni. De ami a különleges dolgot illeti... hmm, [Az illető a társaságod felé pillant.] Bocsi, de úgy tűnik, most nem rendelkezem semmivel, ami hasznos lenne számotokra.}
+{212}{}{Haha, úgyhogy észrevetted, ugye? Igen, a Abbey lakói kissé el vannak ragadtatva mindennel, ami a háború előtti időkből származik,
+ különösen, ha az technológiai jellegű. Valami furcsa vallást alakítottak köré, de én sem értem pontosan. De kedves emberek,
+ és jó pénzt fizetnek minden háború előtti dologért, amit csak sikerül szerezni. De ami a különleges dolgot illeti... hmm,
+ [Az illető a társaságod felé pillant.] Bocsi, de úgy tűnik, most nem rendelkezem semmivel, ami hasznos lenne számotokra.}
 {213}{}{Oh, well. Let's see what you have in stock instead.}
 {214}{}{That's alright. Let me ask you something else.}
 {215}{}{Űgymint?}

@@ -92,6 +92,7 @@ variable i_am_a_warrior:=1;
 import variable guard1_obj; //added by killap - expansion
 import variable guard2_obj; //added by killap - expansion
 import variable guard3_obj; //added by killap - expansion
+import variable commander_ptr; //added by killap - expansion
 
 procedure start begin
 end
@@ -356,7 +357,8 @@ end
 procedure Node015 begin
    Reply(400 + not_alone);
    NOption(402,Node998,004);
-   NOption(403,Node016,004);
+   if (commander_ptr != 0) then
+      NOption(403,Node016,004);
 end
 
 procedure Node016 begin

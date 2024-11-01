@@ -20,7 +20,7 @@
 {119}{}{Ass-is-tense?}
 {120}{}{(Shamble off)}
 {121}{}{I'm looking for the main computer. Can you tell me where it is?}
-{122}{}{What is it you do here?}
+{122}{}{Vad gör ni här?}
 {123}{}{Just passing through, thanks.}
 {124}{}{You are? It's a pleasure to meet you. If you have the time, perhaps we could compare notes? It
  is not often that I get the chance to speak to another physician.}
@@ -36,7 +36,7 @@
 {132}{}{Thanks for the tour, Doctor Troy. It's been very educational.}
 {133}{}{The main computer? It's down on the third level. Just take the elevator down, walk straight
  until you hit the T-intersection, then make the first left. That'll take you right to the control room.}
-{134}{}{What is it you do here?}
+{134}{}{Vad gör ni här?}
 {135}{}{Tack.}
 {136}{}{I am Vault City's primary physician. I take care of all the Citizens within Vault City and do my
  best to keep everyone healthy.}
@@ -101,7 +101,7 @@
 {184}{}{I had something else I wanted to ask you first...}
 {185}{}{You know, I don't think you really want to inhale that... crap. Trust me.}
 {186}{}{Sorry, just trying to help. Later, Doctor.}
-{187}{}{What are you talking about?}
+{187}{}{Vad pratar du om?}
 {188}{}{Forget it. I had something else I wanted to ask you...}
 {189}{}{Well, they make that stuff from brahmin shit.}
 {190}{}{Those are brahmin shit fumes in that Jet canister. Gross, huh?}
@@ -211,7 +211,7 @@
  dollars for the Jet, your silence... and no more questions. Do you want the job?}
 {273}{}{Well, what do you know? I have a sample of Jet right here.}
 {274}{}{What's to keep me from turning you in right now?}
-{275}{}{Sure, I'll do it.}
+{275}{}{Visst, jag ska göra det.}
 {276}{}{I'm not interested.}
 {277}{}{You do?}
 {278}{}{Excellent! Thank you, my friend... you have no idea how important this is to my work. Here is

@@ -54,7 +54,7 @@
 {153}{}{I want you dead.}
 {154}{prs13}{Okay, okay, whatever you say. I'll just sit here quietly. It's, uh, nice to meet you. Goodbye.}
 {155}{}{That's too easy. Before I go, I'd like to know just what you're doing here.}
-{156}{}{Watch yourself.}
+{156}{}{Se dig för.}
 {157}{}{Nice to meet you, Mr. President. Goodbye.}
 {158}{prs14}{Ahhh. Ahhh. Guards? Guards!}
 {159}{}{Say goodnight, Mr. President.}
@@ -227,10 +227,10 @@
 {326}{}{I have a good feeling about this.}
 {327}{}{I have a bad feeling about this.}
 {328}{}{You people are crazy.}
-{329}{}{What are you talking about?}
+{329}{}{Vad pratar du om?}
 {330}{}{Is everyone else crazy here?}
 {331}{}{There must be another way.}
-{332}{}{Come here.}
+{332}{}{Kom hit.}
 {333}{}{I don't understand.}
 {334}{}{I don't know.}
 {335}{}{That hurts.}

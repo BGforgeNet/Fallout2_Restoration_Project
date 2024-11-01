@@ -1,16 +1,16 @@
-{100}{}{You see a peasant.}
-{101}{}{You see a healthy looking peasant.}
-{102}{}{You see a person.}
-{103}{}{Drinking too much booze lately?}
-{104}{}{Stay away from the alcohol for a while.}
-{105}{}{I see that you drank Hank's "special" mix.}
-{106}{}{Welcome, hero!}
+{100}{}{Du ser en bonde.}
+{101}{}{Du ser en bonde som ser frisk ut.}
+{102}{}{Du ser en person.}
+{103}{}{Har du druckit för mycket sprit på sistone?}
+{104}{}{Håll dig borta från alkoholen ett tag.}
+{105}{}{Jag ser att du drack Hanks "speciella" blandning.}
+{106}{}{Välkommen, hjälte!}
 {107}{}{You really showed those Enclave bastards!}
-{108}{}{You are truly a hero!}
+{108}{}{Du är sannerligen en hjälte!}
 {109}{}{I've heard that you destroyed the Enclave, well done!}
 {110}{}{Hej.}
-{111}{}{I hope that it starts to rain soon, or my crops will not survive.}
-{112}{}{We don't get too many visitors here.}
+{111}{}{Jag hoppas att det börjar regna snart, annars kommer mina grödor inte att överleva.}
+{112}{}{Vi får inte så många besökare här.}
 {113}{}{Välkommen!}
 {114}{}{Yeah, I know. It's pretty boring here, but at least we're safe from raiders and such...}
 {115}{}{Hi, tribal.}

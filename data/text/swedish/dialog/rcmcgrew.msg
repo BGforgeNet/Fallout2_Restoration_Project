@@ -1,9 +1,9 @@
-{100}{}{You see a short, barrel-chested man with a full, dark, beard. He's covered in rock-dust.}
+{100}{}{Du ser en kort man med en bröstkorg formad som en tunna och ett mörkt helskägg. Han är täckt av stendamm.}
 {101}{}{You see Dangerous Dan McGrew, the owner of the Morningstar Mine.}
-{102}{}{You see a heavily muscled man with a scar on his face. He looks tough and confident.}
-{103}{}{If you had a brain, I think it'd just up and die of loneliness.}
-{104}{}{I'll be damned. I guess evolution can go in reverse.}
-{105}{}{You ain't got all your dogs on one leash, do you?}
+{102}{}{Du ser en kraftigt muskulös man med ett ärr i ansiktet. Han ser tuff och självsäker ut.}
+{103}{}{Om du hade en hjärna, tror jag att den skulle dö av ensamhet.}
+{104}{}{Det var som fan. Jag antar att evolutionen kan gå baklänges.}
+{105}{}{Du har inte alla dina hundar i samma koppel, eller hur?}
 {106}{}{I don't have time for you. I reckon you're just a few peas short of a casserole.}
 {107}{}{Just a couple of clowns short of a circus, aren't you?}
 {108}{}{Hello there. My name's Dangerous Dan McGrew. I run the Morningstar Mine here. What can I do
@@ -28,7 +28,7 @@
 {122}{}{I mean that we're going to be put under someone's thumb. Only a fool thinks otherwise. Our
  choice is to pick the lightest thumb.}
 {123}{}{Which you've done, of course.}
-{124}{}{Happy thumb hunting, then. Goodbye.}
+{124}{}{Trevlig tumjakt, då. Adjö.}
 {125}{}{You bet I have. If we don't ally ourselves with one of the families in New Reno, you can just
  kiss Redding goodbye. At least any type of Redding that I'd want to live in.}
 {126}{}{Vad menar du?}

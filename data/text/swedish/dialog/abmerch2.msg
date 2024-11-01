@@ -1,6 +1,6 @@
-{100}{}{You see a merchant.}
-{101}{}{He seems to be assisting the man who is fixing the pump.}
-{102}{}{This is taking longer than we thought.}
-{103}{}{Check with the boss if you think you can help.}
-{104}{}{Great job with fixing the pump.}
-{105}{}{Thanks again for your help.}
+{100}{}{Du ser en handlare.}
+{101}{}{Han verkar hjälpa mannen som lagar pumpen.}
+{102}{}{Det här tar längre tid än vi trodde.}
+{103}{}{Hör med chefen om du tror att du kan hjälpa till.}
+{104}{}{Bra jobbat med att laga pumpen.}
+{105}{}{Tack än en gång för din hjälp.}

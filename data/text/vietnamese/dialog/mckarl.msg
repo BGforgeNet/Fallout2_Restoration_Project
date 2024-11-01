@@ -4,7 +4,7 @@
 {150}{}{Here, have a beer.}
 {151}{}{Here, have a bottle of booze.}
 {152}{}{Here, have a Nuka-Cola.}
-{153}{}{Hey.}
+{153}{}{Này.}
 {154}{}{Hey!}
 {155}{}{HEY!!}
 {156}{}{The ghosts won't be able to find me here... [sob]}

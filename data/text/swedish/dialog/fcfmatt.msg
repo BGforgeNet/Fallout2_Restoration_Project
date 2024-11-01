@@ -2,7 +2,7 @@
 {101}{}{You see Matthew.}
 {102}{}{You see a man wearing metal armor with a lightning bolt insignia on it.}
 {103}{}{Hello,}
-{104}{}{. What can I do for you?}
+{104}{}{. Vad kan jag göra för dig?}
 {105}{}{You answer questions?}
 {106}{}{Nothing. Me come back later.}
 {107}{}{You can start by answering some questions.}
@@ -40,7 +40,7 @@
 {139}{}{Me think about.}
 {140}{}{No way. Me be going.}
 {141}{}{What the hell. Me do.}
-{142}{}{I'll think about it.}
+{142}{}{Jag ska tänka på det.}
 {143}{}{No way. Find yourself a new chump.}
 {144}{}{What the hell. I must be crazy, but I'll do it.}
 {145}{}{Fair enough. Come back to me when you reach a decision.}

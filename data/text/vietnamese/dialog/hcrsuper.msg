@@ -39,14 +39,14 @@
 {138}{}{Chào.}
 {139}{}{That's ridiculous. We're not giving you any.}
 {140}{}{Then die.}
-{141}{}{Fine. Bye.}
+{141}{}{Rồi. Tạm biệt.}
 {142}{}{Hey! Get away from there or you'll suffer the consequences!}
 {143}{}{Get out of my refinery. Now!}
 {144}{}{We're still working on it. Give us time. This isn't instantaneous.}
 {145}{}{I want to ask you something.}
-{146}{}{Fine. Bye.}
+{146}{}{Rồi. Tạm biệt.}
 {147}{}{It's done. Before you take it, listen. Our town really needs this ore. If you donate it to the town, I'll refund your money. What do you say?}
-{148}{}{No way.}
+{148}{}{Không đời nào.}
 {149}{}{Được thôi.}
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
 {151}{}{Chào.}

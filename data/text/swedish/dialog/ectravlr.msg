@@ -54,10 +54,10 @@
 {149}{}{I must depart.}
 {150}{}{Thanks. I need directions to some other places.}
 {1107}{}{New Reno.}
-{1108}{}{Vault City.}
+{1108}{}{Valvstaden.}
 {1109}{}{Redding.}
-{1110}{}{The Den.}
+{1110}{}{Lyan.}
 {1111}{}{San Francisco.}
-{1112}{}{New California Republic.}
-{1113}{}{An abandoned mine.}
-{1114}{}{An old, abandoned facility.}
+{1112}{}{Nya Kaliforniska Republiken.}
+{1113}{}{En övergiven gruva.}
+{1114}{}{En gammal, övergiven anläggning.}

@@ -27,7 +27,7 @@
 {330}{}{What did we do wrong?}
 {331}{}{Leave us alone, slaver!}
 {332}{}{Don't hurt me!}
-{333}{}{Get away from me!}
+{333}{}{Tránh xa ta ra!}
 {350}{}{Ai ông?}
 {351}{}{You no slaver.}
 {352}{}{You no hurt?}
@@ -74,7 +74,7 @@
 {412}{}{Over here!}
 {413}{}{Help! Don't leave us!}
 {414}{}{What was all that shooting?}
-{415}{}{What's going on?}
+{415}{}{Chuyện gì vậy?}
 {420}{}{Ahhh!}
 {421}{}{Ug!}
 {422}{}{Don't stop!}

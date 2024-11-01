@@ -179,6 +179,6 @@
 {239}{}{Have you heard the word today?}
 {240}{}{Hear the word! The word shall set you free!}
 {241}{}{Slavery shall damn this city!}
-{242}{}{We must open the gates of Vault City and embrace the outside world!}
-{243}{}{Why can we not share our wealth?! }
-{244}{}{Can you not hear the cries of those that suffer outside our walls?!}
+{242}{}{Vi måste öppna portarna till Valvstaden och omfamna världen utanför!}
+{243}{}{Varför kan vi inte dela med oss av vår rikedom?! }
+{244}{}{Kan du inte höra skriken från de som lider utanför våra murar?!}

@@ -1,1 +1,1 @@
-{100}{}{You retrieved the Vertibird plans.}
+{100}{}{Bạn đã nhận được bản vẽ Máy bay trực thăng.}

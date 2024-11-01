@@ -148,8 +148,6 @@ procedure Node994;
 
 
 /* Local variables which do not need to be saved between map changes. */
-variable Only_Once:=0;
-
 
 procedure start begin
 end
@@ -157,32 +155,33 @@ end
 /* This procedure will get called each time that the map is first entered. It will
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
-/*procedure map_enter_p_proc begin
-   Only_Once:=0;
-   set_self_team(TEAM_VAULT_VILLAGERS);
-   set_self_ai(AI_COWARD);
-end*/
-
 procedure map_enter_p_proc begin
-   Only_Once := 0;
+   if is_loading_game then return;
+
+   /*
+   TODO: this is a temporary workaround for a ghost object in .map file.
+   It should be removed once the map file is fixed.
+   See https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/314, https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/260.
+   */
+   if not self_obj then return;
+   /* end todo */
+
    set_self_team(TEAM_VAULT_VILLAGERS);
-   if (is_loading_game == false) then begin
-      if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) )  then begin
-         if (cur_map_index == MAP_VAULT_VILLAGE) then begin
-            destroy_object(self_obj);
-         end
-         else if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then begin
-            set_self_visible; // go vis
-            critter_attempt_placement(self_obj, 13705, 0);
-            set_self_ai(AI_TOUGH_CITIZEN);
-            add_timer_event(self_obj, game_ticks(50), 1);
-         end
-      end else begin
-         if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then begin
-            set_self_invisible; // go invis
-         end
-         critter_attempt_placement(self_obj, 23707, dude_elevation);
+   if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) ) then begin
+      if (cur_map_index == MAP_VAULT_VILLAGE) then begin
+         destroy_object(self_obj);
       end
+      else if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then begin
+         set_self_visible;
+         critter_attempt_placement(self_obj, 13705, 0);
+         set_self_ai(AI_TOUGH_CITIZEN);
+         add_timer_event(self_obj, game_ticks(50), 1);
+      end
+   end else begin
+      if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then begin
+         set_self_invisible;
+      end
+      critter_attempt_placement(self_obj, 24911, dude_elevation);
    end
 end
 

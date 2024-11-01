@@ -8,14 +8,14 @@
 {107}{}{Ach, another tribal tiched in the hayed.}
 {108}{}{(Looks you up and down appraisingly) Well now, what have we here? Looks as though you dinnay know much about the sweet science at all do ye?}
 {109}{}{If you would get off your wee high horse, I could see helpin' ye a bit with your skills.}
-{110}{}{What are you talking about?}
+{110}{}{Vad pratar du om?}
 {111}{}{Uh, yeah, whatever, mister. See you around. Maybe.}
 {112}{}{Well, it's just my educated opinion but I can see by the way you move that you could do with a few pointers.}
 {113}{}{Pointers? With what?}
 {114}{}{I don't think so, old man. I doubt that *you* could teach me anything. Goodbye.}
 {115}{}{About the sweet science, of course. The sportin' art.}
 {116}{}{Uh, the art? Are you talking about magic!?! Can you teach me magic spells?}
-{117}{}{What are you talking about?}
+{117}{}{Vad pratar du om?}
 {118}{}{(he grins broadly) Sure and begorah, I could teach you about the wee folk, leprechauns, spriggans, Ban'sidhe and the like. Would you like that?}
 {119}{}{That sounds great. Teach away.}
 {120}{}{Pugilism, the manly art of hand-to-hand combat. That's what I mean.}

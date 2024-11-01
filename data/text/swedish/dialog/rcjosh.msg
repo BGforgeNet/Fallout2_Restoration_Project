@@ -27,7 +27,7 @@
 {125}{}{How do I arrange for funeral services?}
 {126}{}{I'll make sure to stay away from your bathtub gin.}
 {127}{}{Certainly. That'll be $5.}
-{128}{}{Here's your money.}
+{128}{}{Här får du dina pengar.}
 {129}{}{I guess I don't want a beer right now after all. Let me ask you about something, though.}
 {130}{}{That's generous of you. That'll be $50 for a round of beer for everyone here. Hey, I'm a poet
  and didn't know it.}
@@ -97,17 +97,17 @@
 {180}{}{Speaking of which, I'm getting hungry. See you later, Josh. Goodbye.}
 {181}{}{God-damn Martians. And I mistook you for a damn tribal. Well, don't I feel stupid. Well,
  cannibals is cannibals in my book.}
-{182}{}{Hey, we cook them first. We're not savages, you know.}
-{183}{}{Let go of my leg, you cannibal! I need it for a good long while to come still. You find yourself
- another snack.}
+{182}{}{Vi tillagar dem först. Vi är inte vildar, vet du.}
+{183}{}{Släpp mitt ben, din kannibal! Jag behöver det ett bra långt tag till. Du få' hitta nå'
+ annat mellanmål.}
 {184}{}{Relax, you look kind of tough and stringy anyhow. Heh, heh. Just kidding... mostly. Let me ask you
  something else, Josh.}
-{185}{}{Well, I'll look around. But if I don't find anything better, I'll be back. Goodbye... for now.}
+{185}{}{Jag ska se mig omkring. Men om jag inte hittar något bättre, så kommer jag tillbaka. Adjö... för tillfället.}
 {186}{}{Need to buy the farm first. Planning on buying some real estate anytime soon?}
 {187}{}{Uh, not any farms anyhow. Let me ask you something else.}
 {188}{}{Might help someone else, or two, to buy a farm hereabouts. See you later, Josh.}
-{189}{}{Well, I guess you'd start by croaking someone. But I'd advise against it. Sheriff Marion isn't
- real keen on that kind of behavior.}
-{190}{}{I'll try to behave myself. Let me ask you something else, Josh.}
-{191}{}{I see... well, at least I know who to talk to if there are any unfortunate *accidents*. Goodbye,
+{189}{}{Jag antar att man kan börja med att döda någon. Men jag skulle avråda från det. Sheriff Marion är inte
+ riktigt förtjust i den typen av beteende.}
+{190}{}{Jag ska försöka uppföra mig. Låt mig fråga dig något annat, Josh.}
+{191}{}{Jag förstår... ja, jag vet i alla fall vem jag ska prata med om det skulle inträffa några otursamma *olyckor*. Adjö,
  Josh.}

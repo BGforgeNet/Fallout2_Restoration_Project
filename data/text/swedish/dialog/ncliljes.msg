@@ -1,31 +1,31 @@
-{150}{}{You see a sunburned young man dressed in black leather and chains. His face is pock-marked
- with acne scars.}
-{151}{}{You see Lil' Jesus Mordino.}
-{152}{}{You see Lil' Jesus Mordino. He is dressed mostly in black leather and playing with one of his knives.}
-{200}{}{Yo! }
-{201}{}{Fuckin'-A, }
-{202}{}{::Gives you thumbs up sign::}
+{150}{}{Du ser en solbränd ung man klädd i svart läder och kedjor. Hans ansikte är helt täckt
+ med akneärr.}
+{151}{}{Du ser Lil' Jesus Mordino.}
+{152}{}{Du ser Lil' Jesus Mordino. Han är mestadels klädd i svart läder och leker med en av sina knivar.}
+{200}{}{Hörru! }
+{201}{}{Jävlar, }
+{202}{}{::Ger dig tummen upp-tecken::}
 {203}{}{::Whistles::}
-{220}{}{How do you take a piss with that thing on?}
+{220}{}{Hur pissar du med den där saken på?}
 {230}{}{Nice piece you got there, }
-{240}{}{What you creeping around for, eh, }
-{250}{}{Wazzup, }
-{251}{}{Heeey... }
-{252}{}{Sheee-it, it's hot.}
-{253}{}{Heeey! Whacha been up to, }
-{254}{}{Good to see you, }
-{255}{}{Hey! Come and check out my new knife, }
-{256}{}{What shit Dad got you doing now, }
-{257}{}{We goin' out tonight, }
-{258}{}{My knife needs some Bishop blood...}
-{259}{}{Gonna carve up so many Salvatores they'll call me the "butcher"...}
-{270}{}{Yo! Cabron! You looking for th' Angel o' Death? Beat it!}
-{271}{}{You got some cojones coming in here, }
+{240}{}{Vad smyger du omkring för, va, }
+{250}{}{Tjenare, }
+{251}{}{Heeej... }
+{252}{}{Faaan, det är varmt.}
+{253}{}{Heeej! Vad har du haft för dig, }
+{254}{}{Kul att se dig, }
+{255}{}{Hej! Kom och kolla in min nya kniv, }
+{256}{}{Vad fan har pappa fått dig att göra nu, }
+{257}{}{Vi går ut ikväll, }
+{258}{}{Min kniv behöver lite Bishop-blod...}
+{259}{}{Jag ska skära upp så många Salvatores att de kallar mig "slaktaren"...}
+{270}{}{Hörru! Cabron! Letar du efter dödsängeln? Stick iväg!}
+{271}{}{Du har rejäla cojones som kommer in här, }
 {272}{}{Hijo de puta...}
 {273}{}{You }
-{274}{}{If you're still here when I finish my drink, I'm gonna carve my name on your face.}
-{275}{}{::Starts playing with his knife threateningly.::}
-{276}{}{Lookin for your hermana, }
+{274}{}{Om du fortfarande är kvar när jag druckit upp min drink, ska jag rista in mitt namn i ditt ansikte.}
+{275}{}{::Börjar leka hotfullt med sin kniv.::}
+{276}{}{Letar efter din hermana, }
 {277}{}{What the fu... you! You, what're you doing here?}
 {278}{}{Yo! Puta! You looking for th' Angel o' Death? Beat it!}
 {279}{}{Thought they kept you locked up in the kennel, puta.}

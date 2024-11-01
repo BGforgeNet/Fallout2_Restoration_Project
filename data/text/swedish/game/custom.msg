@@ -5,7 +5,7 @@
 {4}{}{Attack Who}
 {5}{}{Chem Use}
 {10}{}{Done}
-{11}{}{Cancel}
+{11}{}{Avbryt}
 {99}{}{Not Applicable.}
 {100}{}{Always!}
 {101}{}{Sometimes, don't worry about hitting me}

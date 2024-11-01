@@ -3,12 +3,12 @@
 {102}{}{You see a computer. It seems to be in good working order, though primitive.}
 {103}{}{This unit not accepting commands. Goodbye.}
 {104}{}{[Try as you might, you can't seem to break the encryption that controls this computer.]}
-{105}{}{Log off.}
+{105}{}{Đăng xuất.}
 {106}{}{Welcome to HubLink.}
 {107}{}{Please enter your commands now.}
 {108}{}{Access database.}
 {109}{}{Access controls.}
-{110}{}{Log off.}
+{110}{}{Đăng xuất.}
 {111}{}{Select database.}
 {112}{}{Research.}
 {113}{}{Future goals.}
@@ -35,7 +35,7 @@
 {134}{}{ESS Quetzel unfueled.}
 {135}{}{Mainframe operational. Pipeline operational. Research stations operational. Repair center operational. Cameras operational.}
 {136}{}{Trở lại.}
-{137}{}{Log off.}
+{137}{}{Đăng xuất.}
 {200}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all
  his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently
  it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.

@@ -1,20 +1,20 @@
 {100}{}{You see a Khan raider.}
-{101}{}{You see Phil, a Khan guard.}
-{102}{}{You see a tough-looking young man in metal armor. He is heavily armed.}
-{103}{}{I should shoot you dead, but I'm kind of curious about what you could possibly have to say to
- me.}
-{104}{}{Me look for spy. Go this way.}
-{105}{}{Me look for missing girl. You know where find?}
-{106}{}{Me come here accident. Go now.}
-{107}{}{Screw you. Me shoot you dead.}
-{108}{}{Uh, we talk this out?}
-{109}{}{I'm looking for an eavesdropper who came this way.}
-{110}{}{I'm looking for a missing girl. Seen her?}
-{111}{}{Sorry, took the wrong trail by accident. Gotta go.}
-{112}{}{Up yours and have a bullet breakfast, asshole.}
-{113}{}{I think we can talk this out like two civilized beings.}
-{114}{}{Ah, that would be me. Now that you've found me, what's next?}
-{115}{}{Why you spy Rebecca?}
+{101}{}{Du ser Phil, en Khanvakt.}
+{102}{}{Du ser en tuff ung man i metallrustning. Han är tungt beväpnad.}
+{103}{}{Jag borde skjuta ihjäl dig, men jag är lite nyfiken på vad du kan tänkas ha att säga till
+ mig.}
+{104}{}{Jag leta spion. Gå den här vägen.}
+{105}{}{Jag leta försvunnen flicka. Vet du var hitta?}
+{106}{}{Jag kom hit misstag. Gå nu.}
+{107}{}{Fan ta dig. Jag skjuta dig död.}
+{108}{}{Eh, vi prata om det här?}
+{109}{}{Jag letar efter en tjuvlyssnare som kom den här vägen.}
+{110}{}{Jag letar efter en försvunnen flicka. Har du sett henne?}
+{111}{}{Förlåt, jag råkade ta fel spår av misstag. Måste gå.}
+{112}{}{Kör upp den och ät en frukost av kulor, skitstövel.}
+{113}{}{Jag tror att vi kan prata ut om det här som två civiliserade varelser.}
+{114}{}{Ah, det skulle vara jag. Nu när du har hittat mig, vad händer härnäst?}
+{115}{}{Varför du spioner Rebecca?}
 {116}{}{Now me know not be shooting wrong person. Thanks!}
 {117}{}{Nothing, me go now.}
 {118}{}{Why are you spying on Rebecca?}

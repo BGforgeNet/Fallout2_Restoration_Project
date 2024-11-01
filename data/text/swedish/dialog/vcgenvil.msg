@@ -1,5 +1,5 @@
-{100}{}{You see a peasant.}
-{101}{}{You see a peasant.}
+{100}{}{Du ser en bonde.}
+{101}{}{Du ser en bonde.}
 {102}{}{Hej.}
 {103}{}{Good day to you.}
 {104}{}{Welcome to our village.}

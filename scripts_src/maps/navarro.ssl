@@ -36,6 +36,7 @@
 
 procedure start;
 procedure map_enter_p_proc;
+procedure timed_event_p_proc;
 procedure map_update_p_proc;
 
 export variable quincy_ptr;
@@ -68,6 +69,7 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_CAME_ON_VERTIBIRD) == 1) then begin
       game_ui_disable;
       override_map_start_hex( 19519, 2, 0 );
+      add_timer_event(self_obj, 5, 0);
    end
 
    if ( (map_first_run) and (global_var(GVAR_LOAD_MAP_INDEX) != 10) ) then begin
@@ -106,6 +108,17 @@ procedure map_enter_p_proc begin
    end
 
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 0) then begin
+      if (guard1_obj == 0 or guard2_obj == 0 or guard3_obj == 0) then begin
+         ndebug("Vertibird fail-safe for missing guards");
+         game_ui_enable;
+         set_global_var(GVAR_CAME_ON_VERTIBIRD, 3);
+         set_global_var(GVAR_NAVARRO_BASE_ALERT, 1);
+      end
+   end
 end
 
 procedure map_update_p_proc begin

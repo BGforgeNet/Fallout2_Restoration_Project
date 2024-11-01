@@ -1,4 +1,4 @@
-{100}{}{You see a computer terminal.}
+{100}{}{Du ser en datorterminal.}
 {101}{}{You see the chemistry workstation.}
 {102}{}{You see a computer workstation.}
 {103}{}{Hälsningar. Vänligen ange ditt lösenord för att bekräfta din identitet.}

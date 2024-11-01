@@ -1,8 +1,8 @@
-{100}{}{You see the Abbot, the spiritual leader of the Abbey.}
-{101}{}{There's something about this monk that leads you to believe he's rather important.}
-{200}{}{Welcome traveler.}
+{100}{}{Du ser Abboten, Klostrets andlige ledare.}
+{101}{}{Det är något med den här munken som får dig att tro att han är ganska viktig.}
+{200}{}{Välkommen resenär.}
 {201}{}{Peace to you.}
-{202}{}{We are the guardians of knowledge.}
+{202}{}{Vi är kunskapens väktare.}
 {203}{}{I'm sorry, but knowledge of our books is of no use to you.}
 {300}{}{Welcome to the Abbey, traveler. How can I help you?}
 {301}{}{What can you tell me about your order?}
@@ -35,7 +35,7 @@
 {416}{}{Hello, my friend.}
 {417}{}{I've killed your beast, and I've got your book.}
 {418}{}{Excellent! Let me have it!}
-{419}{}{Here you go.}
+{419}{}{Varsågod.}
 {420}{}{Not so fast. How much is it worth to you?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
  have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}

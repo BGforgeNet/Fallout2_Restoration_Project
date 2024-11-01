@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du ser en vakt.}
 {101}{}{You see Marc, a guard.}
 {102}{}{You see Marc, one of Tyler's guards.}
 {150}{}{Yo, Tyler!}

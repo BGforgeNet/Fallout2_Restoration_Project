@@ -9,9 +9,9 @@
 {107}{}{Things are fine, but I've got to go.}
 {108}{}{Hey, I'm glad to hear that. It was my pleasure to do what I could for you. So, what can I help
  you with?}
-{109}{}{Me got questions.}
+{109}{}{Ja ha frågor.}
 {110}{}{Nothing. Me say hi.}
-{111}{}{I have some questions for you.}
+{111}{}{Jag har några frågor till dig.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
 {113}{}{What do you want to know?}
 {114}{}{You prisoner.}

@@ -5,7 +5,7 @@
 {104}{}{You have business here?}
 {105}{}{We're keeping an eye on you.}
 {106}{}{Don't try anything funny.}
-{107}{}{Treat our people with respect.}
+{107}{}{Behandla vårt folk med respekt.}
 {108}{}{Don't touch that. That's your last warning.}
 {109}{}{Keep away from there.}
 {110}{}{Step back, outsider.}

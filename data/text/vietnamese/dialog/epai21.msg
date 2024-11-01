@@ -18,6 +18,6 @@
 {115}{}{Quay về màn hình chính.}
 {116}{}{Thank you for using the location finder.}
 {117}{}{[XONG]}
-{118}{}{You see a computer.}
+{118}{}{Bạn thấy một cái máy tính.}
 {119}{}{You see the EPA Location Finder.}
 {120}{}{You see a computer with detailed information about the levels in the EPA.}

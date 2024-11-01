@@ -1,59 +1,59 @@
-{100}{}{Big surprise -- it looks like a guy in power armor.}
-{101}{}{Yep, it's still a guy in power armor.}
-{102}{}{He's got some kind of insignia on his chest that different from any of the others you've seen
- around here. }
-{103}{}{<Skzzzt-spork> -the armory!}
-{104}{}{What the- <zzzzaaark!>>}
-{105}{}{(So, Sarge sent you. Something about needing power armor. Well, all I got is one in for
- maintenance. Might have a few problems still, so take it easy. Just sign here.)}
-{106}{}{Uh... Could you repeat that?}
-{107}{}{I think there's something wrong with your suit.}
-{108}{}{Sure, I'll do that.}
-{109}{}{No way. Forget it.}
-{110}{}{You the guy Arch radioed about?}
-{111}{}{Are you sure you're not the guy?}
+{100}{}{Stor överraskning -- det ser ut som en snubbe i kraftrustning.}
+{101}{}{Japp, det är fortfarande en snubbe i kraftrustning.}
+{102}{}{Han har något slags märke på bröstet som skiljer sig från alla andra du sett
+ häromkring.}
+{103}{}{<Skzzzt-spork> -vapenförrådet!}
+{104}{}{Vad i- <zzzzaaark!>>}
+{105}{}{(Så, Sergeanten skickade dig. Nåt om att behöva en kraftrustning. Tja, allt jag har är en inne för
+ underhåll. Kan ha några problem fortfarande, så ta det lugnt. Skriv bara under här.)}
+{106}{}{Eh... Kan du upprepa det?}
+{107}{}{Jag tror att det är något fel på din rustning.}
+{108}{}{Visst, det ska jag göra.}
+{109}{}{Inte en chans. Glöm det.}
+{110}{}{E du snubben Arch ropa' in om?}
+{111}{}{Är du säker på att du inte är killen?}
 {112}{}{Vadå?}
 {113}{}{Ja.}
 {114}{}{Nej.}
-{115}{}{Who are you? What are you doing here?}
+{115}{}{Vem är du? Vad gör du här?}
 {116}{}{Vad?}
-{117}{}{Uh... I'm new here?}
+{117}{}{Eh... jag är ny här?}
 {118}{}{Tittut!}
-{119}{}{Who are you? What are you doing here?}
+{119}{}{Vem är du? Vad gör du här?}
 {120}{}{Vad?}
-{121}{}{Uh... I'm new here?}
+{121}{}{Eh... jag är ny här?}
 {122}{}{Tittut!}
-{123}{}{What do you mean? This suit's working fine! You gonna sign the papers or not?}
-{124}{}{I'm not understanding a word of this.}
-{125}{}{Your speaker's broken.}
-{126}{}{Sure, whatever.}
-{127}{}{To hell with this!}
-{128}{}{(What, are you deaf? I said I got a suit; just sign here.)}
-{129}{}{Clown, are you? Well, I don't need this. You explain to Sarge why you don't have a uniform!}
+{123}{}{Vad menar du med det? Den här rustningen fungerar bra! Ska du skriva på papperna eller inte?}
+{124}{}{Jag förstår inte ett ord av det här.}
+{125}{}{Din högtalare är trasig.}
+{126}{}{Visst.}
+{127}{}{Åt helvete med det här!}
+{128}{}{(Vad, är du döv? Jag sa att jag har en rustning; skriv bara på här.)}
+{129}{}{Är du en clown? Tja, jag behöver inte det här. Förklara för sergeanten varför du inte har en uniform!}
 {130}{}{Vadå?}
-{131}{}{Okay, fine. I'll do it.}
-{132}{}{Just forget it, okay?}
-{133}{}{Your speaker's not broken. I can hear you just fine. Just sign the papers and we can get this
- done.}
+{131}{}{Okej, bra. Jag ska göra det.}
+{132}{}{Glöm det bara, okej?}
+{133}{}{Din högtalare är inte trasig. Jag hör dig alldeles utmärkt. Skriv bara under papperna så kan vi få det här
+ gjort.}
 {134}{}{Vadå?}
-{135}{}{Fine, I give up!}
-{136}{}{You want me to what? I'm not that kind of person!}
-{137}{}{Okay, what's your name?}
-{138}{}{[Player name]}
+{135}{}{Okej, jag ger upp!}
+{136}{}{Du vill att jag ska göra vadå? Jag är inte den sortens person!}
+{137}{}{Okej, vad heter du?}
+{138}{}{[Spelarens namn]}
 {139}{}{Fiskarna?}
-{140}{}{I want the power armor.}
+{140}{}{Jag vill ha kraftrustningen.}
 {141}{}{Svärdfisk.}
-{142}{}{Right. Unit?}
+{142}{}{Okej. Enhet?}
 {143}{}{Arroyo.}
 {144}{}{Näpp.}
-{145}{}{I got better.}
+{145}{}{Jag blev bättre.}
 {146}{}{42.}
 {147}{}{That with an S or a C?}
 {148}{}{Ja.}
 {149}{}{Nej.}
 {150}{}{I don't know.}
 {151}{}{You'll get the damn armor when I'm good and ready! Now, answer the question.}
-{152}{}{[Player name]}
+{152}{}{[Spelarens namn]}
 {153}{}{Fiskarna?}
 {154}{}{Svärdfisk.}
 {155}{}{Arroy-- Wait a minute! We just hit that place. You're a damn tribal! Guards!}
@@ -67,12 +67,12 @@
 {162}{}{Ja.}
 {163}{}{Like a fish in water.}
 {164}{}{Inte.}
-{165}{}{Okay, let's make this quick. Take that off and I'll give you a new suit.}
-{166}{}{You're nothing but static.}
+{165}{}{Okej, nu skyndar vi på. Ta av dig den där så får du en ny kostym.}
+{166}{}{Jag hör bara sprakande från dig.}
 {167}{}{Vadå?}
 {168}{}{Okej.}
-{169}{}{You're gonna off me? I don't think so!}
-{170}{}{Oh, well never mind.}
+{169}{}{Tänker du döda mig? Jag tror inte det!}
+{170}{}{Åh, ja, glöm det.}
 {171}{}{The power armor. Give me the power armor, you moron.}
 {172}{}{Okej.}
 {173}{}{I already made the deal. I'm not giving you any more.}
@@ -85,7 +85,7 @@
 {180}{}{Right, J. Okay, Unit?}
 {181}{}{Arroyo.}
 {182}{}{Näpp.}
-{183}{}{I got better.}
+{183}{}{Jag blev bättre.}
 {184}{}{42.}
 {185}{}{You deaf? Who are you?}
 {186}{}{I'm the new guy?}
@@ -93,7 +93,7 @@
 {188}{}{New guy, eh? Suppose you want your issue. Why don't anybody ever tell me these things? What's
  your name?}
 {189}{}{Huh? You ain't nothing but static.}
-{190}{}{[Player name]}
+{190}{}{[Spelarens namn]}
 {191}{}{Not if I shoot first!}
 {192}{}{Wait a minute -- you're not one of us! GUARDS!}
 {193}{}{Look soldier, I already gave you your gear, so get on out of here.}

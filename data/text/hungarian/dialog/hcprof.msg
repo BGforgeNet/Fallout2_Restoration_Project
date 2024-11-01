@@ -38,7 +38,7 @@
 {137}{}{Szeretném tesztelni magamat.}
 {138}{}{Csináltál már valaha bármit, ami működött?}
 {139}{}{Értem. Csak ennyit akartam tudni. Viszlát!}
-{140}{}{Persze, hogy megpróbáltam növényekkel is!  Az intelligenciát a nulláról szeretném felfejleszteni!}
+{140}{}{Persze, hogy megpróbáltam növényekkel is! Az intelligenciát a nulláról szeretném felfejleszteni!}
 {141}{}{Értem. Csináltál már valaha bármit, ami működött?}
 {142}{}{Szeretném tesztelni magamat.}
 {143}{}{Értem. Csak ennyit akartam tudni}

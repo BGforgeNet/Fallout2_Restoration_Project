@@ -25,7 +25,7 @@
 {229}{}{Sorry -- wrong room.}
 {240}{}{(Studies you.) Even under all that get-up, you still look like one of them tribals... (Snorts.) The boys said you got a
  briefcase for me. From a mutual "acquaintance." Let's see it.}
-{241}{}{Here you go.}
+{241}{}{Varsågod.}
 {242}{}{Uh... funny thing, that... seems like somewhere from the door to here I misplaced it.}
 {243}{}{Actually, I'd like to hold onto it. I'll bring it back in a while.}
 {250}{}{(Opens briefcase, checks contents, snaps case shut.) It's from Moore, all right. 'Cept this note in here says

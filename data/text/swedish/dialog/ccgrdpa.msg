@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du ser en vakt.}
 {101}{}{You see a guard in power armor.}
 {102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
 {103}{}{Nothing to report.}
@@ -70,8 +70,8 @@
 {426}{}{Uh . . . my name }
 {427}{}{. I take fun ride in metal birdie! Go again! Wanna go again!}
 {428}{}{You not need know my name. I no like you. I kill. [Jump out and start fighting.]}
-{430}{}{What are you, drunk? You're at Navarro, of course. If you're having memory problems, soldier, you might wanna go get yourself checked out. Maybe some of that radiation out there got to you.}
-{440}{}{Don't give me that bullshit. You're one of the new recruits, aren't you? Heh. That smart mouth of yours is gonna land you in all sorts of trouble--and I can't wait to see it happen. Now get back to your post, soldier.}
+{430}{}{Vad är du, full? Du är vid Navarro, så klart. Om du har problem med minnet, soldat, borde du nog gå och bli undersökt. Lite av strålningen där ute har kanske påverkat dig.}
+{440}{}{Kom inte med det där skitsnacket. Du är en av de nya rekryterna, eller hur? Heh. Din rappa käft kommer att ge dig alla möjliga problem, och jag kan inte vänta på att få se det hända. Gå nu tillbaka till din post, soldat.}
 {450}{}{Sir! Yes sir!}
 {451}{}{Ma'am! Yes ma'am!}
 {460}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made him retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bastard out of his misery before he contaminates us.}

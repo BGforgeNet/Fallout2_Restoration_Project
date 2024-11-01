@@ -83,7 +83,7 @@
 {182}{}{Good. I need to ask you something.}
 {183}{}{Good for you. I didn't want to talk to you.}
 {184}{}{Thank you, thank you, thank you. I can't thank you enough for saving her. What do you want?}
-{185}{}{I have some questions.}
+{185}{}{Jag har några frågor.}
 {186}{}{Your gratitude is enough for me. So long.}
 {187}{}{Okay, I got into the Shi computers. I don't know if I made it out undetected. I guess now the best thing is to hide. You want anything else?}
 {188}{}{Ja.}

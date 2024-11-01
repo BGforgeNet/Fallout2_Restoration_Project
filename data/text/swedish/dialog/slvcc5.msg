@@ -1,6 +1,6 @@
 {100}{}{You see a slaver.}
 {101}{}{This slaver looks like one mean dude.}
-{200}{}{There you are.}
+{200}{}{Där får du.}
 {201}{}{Now you die.}
 {202}{}{Shit, Rangers! Time to die!}
 {300}{}{You lost or something?}

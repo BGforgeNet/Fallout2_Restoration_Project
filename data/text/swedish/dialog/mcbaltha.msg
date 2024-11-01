@@ -62,7 +62,7 @@
 {201}{}{Well, maybe you're right. Thanks for listening.}
 {202}{}{I've heard of you. Look, I don't want any trouble; we're a peaceful community. Let's just keep
  the subject to business, OK?}
-{203}{}{I have some questions for you.}
+{203}{}{Jag har några frågor till dig.}
 {204}{}{I don't have any business with you for now. Bye.}
 {205}{}{Well... I'm worried about my missing son, Jonny. We've searched everywhere, but still can't find
  him. I fear that maybe wild animals got him.}

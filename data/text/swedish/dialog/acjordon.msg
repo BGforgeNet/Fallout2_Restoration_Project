@@ -3,7 +3,7 @@
 {102}{}{Good luck! I must get back to my training.}
 {103}{}{Hello Chosen One. I see you're in need of a little training. Can I be of help?}
 {104}{}{Visst.}
-{105}{}{No Thanks.}
+{105}{}{Nej tack.}
 {106}{}{This will take a little while.}
-{107}{}{There, you have learned what I can teach you about spears.}
+{107}{}{Sådär, du har lärt dig allt jag kan lära dig om spjut.}
 {108}{}{Thanks Jordan, that's going to help a lot.}

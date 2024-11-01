@@ -117,37 +117,37 @@
 {216}{}{Yes, two weeks for the virus to spread, another month or so for it to run its course and then the United States will be ready for recolonization by real humans. Our species will have been saved.}
 {217}{}{You really think you're doing the right thing don't you?}
 {218}{}{Aren't you the great humanitarian. I've got to get out of here before I have to kill you. Goodbye.}
-{219}{}{Your species may make it but you're sure not going to.}
-{220}{}{Yes, I do. There is no price too high to pay for the survival of one's species.}
-{221}{}{I'd agree with you on that. Has it occurred to you that the *mutants* as you call them are just another type of human?}
-{222}{}{I'd have to agree with you, doc. I think I'll strike a blow for us mutants. Starting with you!}
-{223}{}{I told you I need a moment to think this over.}
-{224}{}{I really do need some time to think.}
-{225}{}{This isn't a snap-decision.}
-{226}{}{I've got to think about this.}
-{227}{}{Give me a moment won't you?}
-{228}{}{I hate to admit this but you may be right. What we've been planning all along just isn't right. I was so blinded by trying to overcome the obstacles that I didn't think about the morality of my quest.}
-{229}{}{Well, now that you've thought about it. You should destroy the toxin.}
-{230}{}{That might... No, that wouldn't work.}
+{219}{}{Din art kanske klarar sig, men du kommer inte att göra det.}
+{220}{}{Ja, det gör jag. Det finns inget pris som är för högt att betala för ens egna arts överlevnad.}
+{221}{}{Jag håller med dig om det. Har det slagit dig att *mutanterna* som du kallar dem bara är en annan typ av människa?}
+{222}{}{Jag måste nog hålla med dig, doktorn. Jag tror att jag ska slå ett slag för oss mutanter. Jag börjar med dig!}
+{223}{}{Jag sa ju att jag behövde en stund att tänka på det här.}
+{224}{}{Jag behöver verkligen lite tid att tänka.}
+{225}{}{Det här är inte ett snabbt beslut.}
+{226}{}{Jag måste fundera på det här.}
+{227}{}{Ge mig ett ögonblick, okej?}
+{228}{}{Jag hatar att erkänna det, men du kan ha rätt. Det vi har planerat hela tiden är inte rätt. Jag var så förblindad av att försöka övervinna hindren att jag inte tänkte på det moraliska i min strävan.}
+{229}{}{Nu när du har tänkt på det. Du borde förstöra giftet.}
+{230}{}{Det kanske... Nej, det skulle inte fungera.}
 {231}{}{Why not?}
-{232}{}{Because they'd just start over. Even with me dead, there's enough data between here and Navarro to assure that they could replicate my work. Only something more drastic will be enough.}
-{233}{}{More drastic? What do you mean?}
+{232}{}{För att de bara skulle börja om. Även med mig död, finns det tillräckligt med data mellan här och Navarro för att försäkra att de ska kunna replikera mitt arbete. Bara något mer drastiskt skulle funka.}
+{233}{}{Mer drastisk? Vad menar du med det?}
 {234}{}{The Enclave must be destroyed. Completely destroyed. If we're not, then we'll just pick up the pieces and start over somewhere else.}
 {235}{}{I'm sorry to hear that. Uh, Doctor, how do you suggest that the Enclave be destroyed?}
 {236}{}{I think that the best way is to just release the FEV toxin into the air-filtration system. Since the Enclave is a sealed system that should take care of everyone.}
-{237}{}{What about my people? Or me? Or you, for that matter?}
+{237}{}{Vad händer då med mitt folk, då? Eller mig? Eller dig, för den delen?}
 {238}{}{I can release the antidote into the air-system for all the cells. The detention level is served by a separate air system from the rest of the Enclave. Everyone will think that I'm just running another test. You, I can inoculate directly, here and now. (he reaches for you with a syringe)}
 {239}{}{Ouch, thanks Doc. What happens when the FEV toxin is released?}
-{240}{}{Hey, wait a minute, you're not sticking me with that thing!}
+{240}{}{Vänta lite, du sticker mig inte med den saken!}
 {241}{}{It's not pretty. You should leave as soon as possible. But I'd rather have the weight of a thousand on my conscience than several hundred-thousand. Our time is through here. We had our chance.}
-{242}{}{How can I free my people from the detention area?}
-{243}{}{You should probably shut down the power. I know that the reactor is controlled by a large computer near the reactor bay but I don't know exactly what you'd need to do to shut the reactor down.}
-{244}{}{Thanks for the information you've given me. Your sacrifice will be remembered by all the peoples of the earth.}
-{245}{}{About time for you to come to your senses you old coot. Now get moving.}
-{246}{}{When the stars threw down their spears,}
-{247}{}{                      And water'd heaven with their tears,}
-{248}{}{                            Did he smile his work to see?}
-{249}{}{                                  Did he who made the Lamb make thee?}
+{242}{}{Hur kan jag befria mitt folk från häktet?}
+{243}{}{Du borde nog stänga av strömmen. Jag vet att reaktorn styrs av en stor dator nära reaktorhallen, men jag vet inte exakt vad man behöver göra för att stänga av reaktorn.}
+{244}{}{Tack för informationen du har givit mig. Din uppoffring kommer att minnas av alla jordens folk.}
+{245}{}{Det är dags för dig att ta ditt förnuft till fånga, din gamla gubbe. Sätt fart nu.}
+{246}{}{När stjärnorna kastade ner sina spjut,}
+{247}{}{                      Och vattnade himlen när de grät ut,}
+{248}{}{                            Log han när han sitt arbete ser?}
+{249}{}{                                  Gjorde han som gjorde Lammet er?}
 {250}{}{Vadå?}
 {251}{}{Oh, just something I remembered from a long dead poet. I was wondering if there's still a place for those who've worked towards such a dark end for so long. Our time is over, yours has just begun. Get going!}
 {252}{}{Oh, okay, thanks for all your help, doctor. You're a brave man.}

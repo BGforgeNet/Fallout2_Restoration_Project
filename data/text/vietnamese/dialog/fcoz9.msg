@@ -104,7 +104,7 @@
 {203}{}{Không.}
 {204}{}{No, I just want you to die.}
 {205}{}{This, then, is my bargain: return to the Shi and eliminate Ken Lee and the Emperor. I will repay you with more money than you have ever dreamed.}
-{206}{}{No, I don't think so.}
+{206}{}{Không, ta không nghĩ vậy.}
 {207}{}{You've got a deal, fat man.}
 {208}{}{Then go and smite those troublesome souls. I await word of your success. [He smiles beatifically.]}
 {209}{}{So long.}

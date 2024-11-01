@@ -1,4 +1,4 @@
-{100}{}{You see a computer terminal.}
+{100}{}{Du ser en datorterminal.}
 {101}{}{You see the voice interface terminal.}
 {102}{}{You see a standard computer terminal, modified for voice commands.}
 {103}{}{You examine the computer terminal, but cannot find anything obviously wrong with it. What do

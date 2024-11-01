@@ -40,7 +40,7 @@
 {139}{}{Me think about.}
 {140}{}{No way. Me be going.}
 {141}{}{What the hell. Me do.}
-{142}{}{I'll think about it.}
+{142}{}{Ta sẽ nghĩ về việc đó.}
 {143}{}{No way. Find yourself a new chump.}
 {144}{}{What the hell. I must be crazy, but I'll do it.}
 {145}{}{Fair enough. Come back to me when you reach a decision.}

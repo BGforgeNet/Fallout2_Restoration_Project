@@ -4,7 +4,7 @@
 {103}{}{Can guess you why I hermit? [It seems he hasn't spoken to anyone in years.]}
 {104}{}{Tại sao?}
 {105}{}{Just passing through.}
-{106}{}{Ug.}
+{106}{}{Hực.}
 {107}{}{Me want left alone.}
 {108}{}{Since I'm here, maybe we can barter. I'm sure I have something you might want.}
 {109}{}{I'll leave you alone then.}

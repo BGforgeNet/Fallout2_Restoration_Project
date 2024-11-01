@@ -1,7 +1,7 @@
 {100}{}{Bạn thấy một kĩ thuật viên.}
 {101}{}{Bạn thấy một kĩ sư máy tính.}
-{102}{}{You see someone wearing a lab coat complete with pocket protector and a stash of pens.}
-{103}{}{Good day soldier.}
+{102}{}{Bạn thấy một người mặc áo khoác phòng thí nghiệm kín người với miếng bảo hộ túi và một nắm bút.}
+{103}{}{Chào cậu lính.}
 {104}{}{Vui lòng đừng chạm vào thứ gì.}
 {105}{}{Lính cấp thấp đáng ra không được vào đây.}
 {106}{}{Cậu đang không mặc quân phục. }

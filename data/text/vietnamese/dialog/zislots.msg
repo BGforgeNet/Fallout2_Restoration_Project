@@ -74,7 +74,7 @@
 {2107}{}{Praise the Vault! Praise the Vault!}
 {2108}{}{Are you a water chip?}
 {2109}{}{Wander off, look for other shiny things}
-{2110}{}{Leave.}
+{2110}{}{Rời khỏi.}
 {2130}{}{The strange pretty golden metal box with three eyes and one arm does not answer.}
 {2131}{}{ME }
 {2132}{}{! YU ANSWER ME!}
@@ -89,9 +89,9 @@
 {2152}{}{Aighhhhh! Robot! Robot! Runnnnn}
 {2153}{}{(Leave.)}
 {2175}{}{(You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time...)}
-{2176}{}{Leave.}
+{2176}{}{Rời khỏi.}
 {2185}{}{(The "OUT OF SERVICE" light on the slot machine is flashing on and off.)}
-{2186}{}{Leave.}
+{2186}{}{Rời khỏi.}
 {2200}{}{(You can hear her laughing at you.)}
 {2201}{}{*Hehehe, why don't you just give up sweetie.*}
 {2202}{}{*Maybe you should let someone else pull my handle.*}

@@ -1,7 +1,7 @@
 {100}{}{You see someone in a floppy robe.}
 {101}{}{It's another robed Hubologist.}
 {102}{}{It appears to be someone wearing a robe.}
-{103}{}{Who are you? What are you doing here?}
+{103}{}{Vem är du? Vad gör du här?}
 {104}{}{You're not supposed to be here, are you?}
 {105}{}{Look! Rim meat!}
 {106}{}{Hey! Who let the rim meat in?}

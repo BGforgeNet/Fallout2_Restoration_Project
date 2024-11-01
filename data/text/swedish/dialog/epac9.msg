@@ -59,4 +59,4 @@
 {383}{}{Nothing}
 {390}{}{This is your lucky day! I have just enough chemicals in my storage tanks to make one batch of ERSIs! Would you like Mr. Chemmie to make them for you?!}
 {391}{}{Create.}
-{392}{}{Exit.}
+{392}{}{Avsluta.}

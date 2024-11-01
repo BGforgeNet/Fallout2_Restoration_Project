@@ -1,4 +1,4 @@
-{100}{}{You see a merchant.}
+{100}{}{Du ser en handlare.}
 {101}{}{You see Cal, the gun merchant.}
 {102}{}{You see a bored but friendly looking man.}
 {103}{}{Good day to you, sir. May I help you?}

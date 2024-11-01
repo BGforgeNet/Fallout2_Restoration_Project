@@ -1,7 +1,7 @@
 {100}{}{You see a slaver.}
 {101}{}{This slaver looks like one mean dude.}
 {102}{}{This slaver looks like one mean chick.}
-{200}{}{There you are.}
+{200}{}{Där får du.}
 {201}{}{Now you die.}
 {202}{}{Shit, Rangers! Time to kick ass.}
 {300}{}{You lost or something?}

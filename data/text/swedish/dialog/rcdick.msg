@@ -57,18 +57,18 @@
 {146}{}{Well, not much lately except about them goll-dang Wanamingos.}
 {147}{}{Want-a-mongols? What the heck is that?}
 {148}{}{Of course. Let me ask you about something else.}
-{149}{}{Well, that's all I needed to know. Goodbye.}
+{149}{}{Det var allt jag behövde veta. Hej då.}
 {150}{}{Atha-baska, Athabaska. That's not so dang hard to say, is it? Criminy. That's just my nickname.
  Do you really want to know how I got my nickname?}
-{151}{}{Uh, not really. Let me ask you something else.}
+{151}{}{Inte direkt. Låt mig fråga dig något annat.}
 {152}{}{I think that's all I need to know. Goodbye.}
 {153}{}{Key-rist! I'm sicker 'an a dog and I've been yelling at my feet for days now... ever since I had
  that last hit of Jet. Something must've gone bad with that batch. If'n I survive this, I ain't never
  gonna have Jet again.}
-{154}{}{Sounds bad. Let me ask you something else, then.}
+{154}{}{Det låter illa. Låt mig fråga dig något annat, då.}
 {155}{}{I understand. Well, that's all I needed to know. Goodbye.}
-{156}{}{I did it. Don't feel real great about it, yet. But I reckon that I'll be better off for it.}
-{157}{}{What do you mean? What happened?}
+{156}{}{Jag gjorde det. Det känns inte så bra än. Men jag räknar med att det blir bäst så.}
+{157}{}{Vad menar du? Vad hände?}
 {158}{}{You're tellin' me you ain't never heard of the Wanamingos?}
 {159}{}{Uh, well, um. Sure I've heard about the Wanamingos. Let me ask you something else.}
 {160}{}{Nope, never heard of anything like that. Tell me about them.}

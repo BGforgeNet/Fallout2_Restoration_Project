@@ -28,7 +28,8 @@
 {263}{}{Talán később.}
 {270}{}{Szólj, ha meggondoltad magad!}
 {271}{}{Értem.}
-{280}{}{Naszóval... innen keletre van egy templom. Metzger néhány embere őrzi, akármit is tárolnak odabenn. Derítsd ki, mi az, és fizetek érte 200  dollárt. }
+{280}{}{Naszóval... innen keletre van egy templom. Metzger néhány embere őrzi, akármit is
+ tárolnak odabenn. Derítsd ki, mi az, és fizetek érte 200 dollárt.}
 {281}{}{Ez nagyon egyszerű. Időközben megtudtam.}
 {282}{}{Persze.}
 {283}{}{Majd kiderül, mit tudok tenni az ügy érdekében.}
@@ -133,8 +134,8 @@
 {575}{}{Rendben, viszlát!}
 {576}{}{He?}
 {577}{}{Aghhh!}
-{590}{}{Azt mondtam, hogy együtt megyünk!  Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
-{591}{}{Azt mondtam, derítsd ki a gyenge pontjukat, nem azt, hogy öldd meg őket!  Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
+{590}{}{Azt mondtam, hogy együtt megyünk! Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös.}
+{591}{}{Azt mondtam, derítsd ki a gyenge pontjukat, nem azt, hogy öldd meg őket! Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös.}
 {592}{}{A francba! Azt mondtam, hogy kérdezd meg Metzgert, nem azt, hogy öldd meg őket! Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
 {593}{}{A francba! Megmondtam, hogy ne támadj rájuk! Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pipább, mint valaha!}
 {594}{}{Ó, igen, sajnos mennem kell.}

@@ -73,34 +73,34 @@
 {351}{}{Don't let the door hit your DRY ASS on the way out!}
 {352}{}{Time to finish what you couldn't even start!}
 {370}{}{Oh, that's nice.}
-{371}{}{Billy likes that.}
-{372}{}{Ohhhh yeah.}
+{371}{}{Billy gillar det.}
+{372}{}{Åhhhh ja.}
 {373}{}{Snyggt.}
-{374}{}{Jeezus and ramona.}
-{375}{}{Good Gracious.}
-{376}{}{I shoulda packed a box of tissue.}
-{377}{}{Hmmm, who should I imagine now.}
-{390}{}{Hey, can't you see I'm busy in here?}
-{391}{}{Hey, hey, get the hell out.}
-{392}{}{Hey, you couldn't finish the job, so get out.}
-{393}{}{Can you get me a mop and come back in 5?}
-{400}{}{Billy, you better not have made a mess on that mattress again!}
-{401}{}{Hey Billy, you need a mop?}
-{402}{}{Billy, your fly's down. AGAIN!}
-{403}{}{Yo Billy, don't forget to change your pants later.}
-{404}{}{Billy, you been eating doughnuts?}
+{374}{}{Jeezus och Ramona.}
+{375}{}{Gode Gud.}
+{376}{}{Jag borde ha packat ner en ask med näsdukar.}
+{377}{}{Hmmm, vem ska jag föreställa mig nu.}
+{390}{}{Hörru, kan du inte se att jag är upptagen här inne?}
+{391}{}{Hallå, hallå, dra åt helvete.}
+{392}{}{Du kunde inte avsluta jobbet, så ut med dig.}
+{393}{}{Kan du ge mig en mopp och komma tillbaka om 5?}
+{400}{}{Billy, det är bäst att du inte kladdat ner madrassen igen!}
+{401}{}{Hörru Billy, behöver du en mopp?}
+{402}{}{Billy, din gylf är nere. IGEN!}
+{403}{}{Hörru Billy, glöm inte att byta byxor senare.}
+{404}{}{Billy, har du ätit munkar?}
 {410}{}{Ehhh.}
 {411}{}{Attans}
 {412}{}{Jeesh}
 {413}{}{He, he, heee...}
 {414}{}{Vadå?}
-{500}{}{*SPIT, SPIT* Eccchhhh...}
-{510}{}{Hey buddy, care to "rent" that fine ho of yours?}
-{511}{}{Can't this wait? I've got to get a drink.}
-{512}{}{Yeah, if you want to talk to me, I'll be at The Hole.}
-{513}{}{How about you meet me at The Hole and I buy you a drink?}
-{520}{}{Sorry, I'm a hurry to get home. I just got some new porn in.}
-{521}{}{I'm uhhh, tired, please let me go home and uhhh, sleep...}
-{522}{}{I'm going over to Dave's. He's got a whole porn wing!}
-{530}{}{Uhhh, no thanks. I don't have money to piss away on that again.}
+{500}{}{*SPOTT, SPOTT* Eccchhhh...}
+{510}{}{Hej kompis, vill du "hyra ut" din fina hora?}
+{511}{}{Kan inte det här vänta? Jag måste ta en drink.}
+{512}{}{Ja, om du vill prata med mig, så är jag på Hålet.}
+{513}{}{Vad sägs om att du möter mig på Hålet så bjuder jag på en drink?}
+{520}{}{Ursäkta, jag har bråttom hem. Jag har precis fått in lite ny porr.}
+{521}{}{Jag är ehh, trött, snälla låt mig gå hem och ehhh, sova...}
+{522}{}{Jag ska gå över till Daves ställe. Han har en hel porrflygel!}
+{530}{}{Ehhh, nej tack. Jag har inte råd att slösa bort pengar på det igen.}
 {540}{}{Alright, I'll give your ass a try again.}

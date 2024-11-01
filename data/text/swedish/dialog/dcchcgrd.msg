@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du ser en vakt.}
 {150}{}{The guard is guarding the old church.}
 {151}{}{[TALA]}
 {152}{}{How dare you show your face again!}

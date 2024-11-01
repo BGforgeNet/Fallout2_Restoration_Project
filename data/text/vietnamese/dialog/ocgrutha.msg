@@ -134,14 +134,14 @@
 {192}{}{Uh, me sorry.}
 {193}{}{Greetings, human. Have you reconsidered? Will you help me?}
 {194}{}{Hell, no. I just wanted to listen to you butcher the language some more.}
-{195}{}{No, I don't think so.}
+{195}{}{Không, ta không nghĩ vậy.}
 {196}{}{Yes, Gruthar. I will help you.}
 {197}{}{Greetings, friend. Have you examined the machine yet?}
 {198}{}{Not yet, but I'll get on it.}
 {199}{}{Hello, my friend. You have saved the pack and we thank you.}
 {200}{}{}
 {201}{}{}
-{202}{}{Die, treacherous human!}
+{202}{}{Chết đi, loại người gian trá!}
 {203}{}{}
 {204}{}{}
 {205}{}{I have no quarrel with you, human, and I do not want one. I am trying to deal with you civilly.

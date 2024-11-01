@@ -27,9 +27,9 @@
  of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
 {401}{}{I think I just might. I have some questions though.}
 {402}{}{Thanks. I think I'll go do that now.}
-{500}{}{I am at your service. What would you like to know?}
-{501}{}{What can you tell me about this place?}
-{502}{}{You seem to be very poetic in your preaching. Any reason for this?}
+{500}{}{Jag står till er tjänst. Vad skulle du vilja veta?}
+{501}{}{Vad kan du berätta om den här platsen?}
+{502}{}{Du verkar vara väldigt poetisk i dina predikningar. Finns det någon anledning till det?}
 {503}{}{Nevermind. Take care.}
 {600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
  visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
@@ -43,8 +43,8 @@
 {604}{}{Interesting. Well, I must be going.}
 {700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
  and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
-{701}{}{Fair enough. Another question.}
-{800}{}{It is good to see you again }
-{801}{}{. What can I do for you?}
-{802}{}{I have some questions.}
-{803}{}{Nothing. See you around.}
+{701}{}{Rimligt nog. En annan fråga.}
+{800}{}{Det är trevligt att se dig igen }
+{801}{}{. Vad kan jag göra för dig?}
+{802}{}{Jag har några frågor.}
+{803}{}{Det var inget. Vi ses.}

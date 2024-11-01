@@ -22,7 +22,6 @@
 #include "../headers/command.h"
 #include "../headers/newreno.h"
 #include "../headers/partybkg.h"
-#include "../headers/newr1.h" //added by killap
 
 /* Standard Script Procedures */
 procedure start;
@@ -458,7 +457,7 @@ procedure timed_event_p_proc begin
          end
       end
    end
-   nr_add_timer_event_rand(self_obj, 80, 120, float_param); //edit by killap - was (25,45)
+   nr_add_timer_event_rand(self_obj, 60, 90, float_param); //edit by killap - was (25,45)
 end
 
 procedure map_update_p_proc begin

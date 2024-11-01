@@ -26,12 +26,12 @@
 {151}{}{Keeter. Heh, heh, heh.}
 {152}{}{Who're you?}
 {153}{}{What do you do here?}
-{154}{}{I have some questions for you.}
+{154}{}{Jag har några frågor till dig.}
 {155}{}{Oh, okay. I'll talk to Skeeter then. Thanks.}
 {160}{}{Hello there. Since you've already invited yourself in -- what can I do for you?}
 {161}{}{Me hungry.}
 {162}{}{Uh, I was wondering where Skeeter is?}
-{163}{}{I have some questions for you.}
+{163}{}{Jag har några frågor till dig.}
 {164}{}{Oh, sorry. I didn't mean to barge in. Goodbye.}
 {170}{}{I guard the brahmin or help Skeeter in his workshop.}
 {171}{}{Who's Skeeter?}

@@ -115,7 +115,7 @@
 {270}{}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
 {271}{}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
 {272}{}{Alright, here.}
-{273}{}{Nevermind.}
+{273}{}{Quên đi.}
 {274}{}{I'll do whatever I want. And I think I'll kill you now.}
 {275}{}{Tôi sẽ quay lại khi nào có tiền.}
 {280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}

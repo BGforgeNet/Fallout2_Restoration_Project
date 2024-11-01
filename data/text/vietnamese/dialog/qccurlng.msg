@@ -129,7 +129,7 @@
 {228}{}{I hate to admit this but you may be right. What we've been planning all along just isn't right. I was so blinded by trying to overcome the obstacles that I didn't think about the morality of my quest.}
 {229}{}{Well, now that you've thought about it. You should destroy the toxin.}
 {230}{}{That might... No, that wouldn't work.}
-{231}{}{Why not?}
+{231}{}{Sao lại chưa?}
 {232}{}{Because they'd just start over. Even with me dead, there's enough data between here and Navarro to assure that they could replicate my work. Only something more drastic will be enough.}
 {233}{}{More drastic? What do you mean?}
 {234}{}{The Enclave must be destroyed. Completely destroyed. If we're not, then we'll just pick up the pieces and start over somewhere else.}

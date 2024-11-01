@@ -94,7 +94,7 @@
 {179}{}{Change? What caravan do you want? Gecko leaves on the 1st, NCR on the 11th, and Vault City on the 21st.}
 {180}{}{NCR.}
 {181}{}{Gecko.}
-{182}{}{Vault City.}
+{182}{}{Valvstaden.}
 {183}{}{Yeah? Fine. Get out of my store. Come back when you got enough guts to make the trip.}
 {184}{}{Great. Then get going.}
 {185}{}{I wanted something else first.}

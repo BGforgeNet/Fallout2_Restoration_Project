@@ -19,7 +19,7 @@
 {118}{}{What's up?}
 {119}{}{How're you doing?}
 {120}{}{Good day to you.}
-{121}{}{Yup.}
+{121}{}{Chuẩn.}
 {122}{}{Heya.}
 {123}{}{You see a man with a cool drink in his hand.}
 {124}{}{You see a man ordering a beer.}

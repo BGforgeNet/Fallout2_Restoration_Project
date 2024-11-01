@@ -306,7 +306,7 @@
 {5256}{}{?}
 {5257}{}{. Idziesz z nami?}
 {5271}{}{. Rozwal ich i odejdź, albo jakoś inaczej.}
-{5273}{}{ próbuje z nami zadzierać? Niech spróbuje, a wszyscy pójdziecie karmić robaki. Spadaj stąd!}
+{5273}{}{próbuje z nami zadzierać? Niech spróbuje, a wszyscy pójdziecie karmić robaki. Spadaj stąd!}
 {5276}{}{? Właśnie skończyła całować mój tyłek. Ty też lepiej stąd zmiataj.}
 {5280}{}{, lepiej stąd odejdź.}
 {5320}{}{? Z takim prawym sierpowym nie masz chyba czego się obawiać.}
@@ -322,6 +322,6 @@
 {5542}{}{! Wielki, stary, dobry wojownik! Facet, jesteś niezły!}
 {5543}{}{! Wredna chica - wojowniczka! Jesteś niezła, chica!}
 {5560}{}{? }
-{6035}{}{ ręka Nie DOTYKA }
-{7035}{}{ ręka }
+{6035}{}{ręka Nie DOTYKA }
+{7035}{}{ręka }
 {8035}{}{ NIE LUBI}

@@ -22,91 +22,91 @@
 {1072}{}{Aaaarrrrggghhh!}
 {1080}{}{Ow!! My eyes!}
 {1081}{}{My face! My eyes! Arrrrgh!}
-{1082}{}{My eyes!}
-{1090}{}{Ooooooooo, my groin! Ooooooo...}
-{1091}{}{Oww... It burns!}
+{1082}{}{Mina ögon!}
+{1090}{}{Ååååååååå, mitt skrev! Ååååååå...}
+{1091}{}{Ajj... Det bränns!}
 {1092}{}{Urp!}
 {1093}{}{Ooorp! aoooww...}
-{1094}{}{I... can't... breathe...}
-{1095}{}{The pain, the pain...}
+{1094}{}{Jag... kan... inte... andas...}
+{1095}{}{Smärtan, smärtan...}
 {1100}{}{Förbannat!}
-{1101}{}{My aching skull!}
+{1101}{}{Min värkande skalle!}
 {1102}{}{My face! My face!}
-{1110}{}{Aggghhh! My arm!}
-{1111}{}{My arm!}
-{1112}{}{Oh man, that hurts!}
-{1120}{}{Aggghhh! My arm!}
-{1121}{}{My arm!}
+{1110}{}{Aggghhh! Min arm!}
+{1111}{}{Min arm!}
+{1112}{}{Åh jösses, det gör ont!}
+{1120}{}{Aggghhh! Min arm!}
+{1121}{}{Min arm!}
 {1122}{}{}
 {1130}{}{}
 {1131}{}{Oof!}
 {1132}{}{Ouch!}
-{1133}{}{Oof! My ribs hurt}
-{1134}{}{Ugh! That hurt!}
-{1135}{}{Damn! I spit on you!}
+{1133}{}{Oof! Mina revben gör ont}
+{1134}{}{Ugh! Det där gjorde ont!}
+{1135}{}{Fan också! Jag spottar på dig!}
 {1136}{}{Argh!}
 {1138}{}{Oh, my ribs!}
 {1139}{}{Ow!!!}
 {1140}{}{Oof!}
 {1160}{}{Aggghhh! My leg!}
-{1161}{}{My leg!}
-{1162}{}{There goes my knee}
+{1161}{}{Mitt ben!}
+{1162}{}{Där försvann mitt knä}
 {1170}{}{Aggghhh! My leg!}
-{1171}{}{My leg!}
-{1172}{}{There goes my knee}
-{1180}{}{Aggghhh! I'm blind!}
-{1181}{}{My eyes! My eyes!}
-{1182}{}{My eye! You'll pay for that one!}
-{1190}{}{Oooooo, my groin!}
-{1191}{}{Oooooooooo!}
-{1192}{}{I... can't... breathe...}
-{1193}{}{Erg! Right in the jewels!}
-{1194}{}{The pain, the pain...}
-{1195}{}{Damn, that hurts!}
-{1200}{}{Ow! You son of a...}
-{1201}{}{You broke my nose!}
-{1202}{}{I'll take your head off!}
-{1210}{}{Ow, my arm.}
-{1211}{}{You just made the biggest mistake of your life.}
-{1212}{}{My arm!}
-{1220}{}{Ow, my arm.}
-{1221}{}{You just made the biggest mistake of your life.}
-{1222}{}{My arm!}
+{1171}{}{Mitt ben!}
+{1172}{}{Där försvann mitt knä}
+{1180}{}{Aggghhh! Jag är blind!}
+{1181}{}{Mina ögon! Mina ögon!}
+{1182}{}{Mitt öga! Det där ska du få betala för!}
+{1190}{}{Åååååå, mitt skrev!}
+{1191}{}{Åååååååååå!}
+{1192}{}{Jag... kan... inte... andas...}
+{1193}{}{Erg! Mitt i juvelerna!}
+{1194}{}{Smärtan, smärtan...}
+{1195}{}{Fan, vad ont det gör!}
+{1200}{}{Aj! Din jävla...}
+{1201}{}{Du bröt min näsa!}
+{1202}{}{Jag ska hugga huvudet av dig!}
+{1210}{}{Aj, min arm.}
+{1211}{}{Du gjorde just ditt livs största misstag.}
+{1212}{}{Min arm!}
+{1220}{}{Aj, min arm.}
+{1221}{}{Du gjorde just ditt livs största misstag.}
+{1222}{}{Min arm!}
 {1230}{}{Urp!}
 {1231}{}{Oof!}
 {1232}{}{Ouch!}
 {1233}{}{}
-{1234}{}{Ugh! That hurt!}
+{1234}{}{Ugh! Det där gjorde ont!}
 {1235}{}{Ouch!}
 {1236}{}{Argh!}
-{1237}{}{Oh, I think you broke a rib!}
-{1238}{}{Ow!!! My spleen!}
+{1237}{}{Åh, jag tror att du bröt ett revben!}
+{1238}{}{Aj!!! Min mjälte!}
 {1239}{}{Oof!}
-{1260}{}{Ow, my leg.}
-{1261}{}{I don't need to stand to kill you!}
+{1260}{}{Aj, mitt ben.}
+{1261}{}{Jag behöver inte stå för att döda dig!}
 {1262}{}{My knee!}
-{1270}{}{Ow, my leg.}
-{1271}{}{I don't need to stand to kill you!}
+{1270}{}{Aj, mitt ben.}
+{1271}{}{Jag behöver inte stå för att döda dig!}
 {1272}{}{My knee!}
-{1280}{}{I can't see!}
-{1281}{}{This fight is getting worse by the second.}
+{1280}{}{Jag kan inte se!}
+{1281}{}{Den här striden blir värre för varje sekund.}
 {1282}{}{That was a real cheap shot!}
-{1290}{}{Oooooo, my groin!}
-{1291}{}{I'll feel that in the morning.}
+{1290}{}{Åååååå, mitt skrev!}
+{1291}{}{Jag kommer att känna det i morgon bitti.}
 {1292}{}{}
 {1293}{}{Urp!}
 {1294}{}{}
 {1295}{}{}
-{1300}{}{That'll be a cool scar!}
-{1301}{}{I'm starting to get annoyed.}
-{1302}{}{Do that again, pig.}
+{1300}{}{Det där blir ett häftigt ärr!}
+{1301}{}{Jag börjar bli irriterad.}
+{1302}{}{Gör det igen, din gris.}
 {1310}{}{You winged me!}
 {1311}{}{}
-{1312}{}{You broke my arm, but I'll break your neck!}
+{1312}{}{Du bröt min arm, men jag ska bryta nacken av dig!}
 {1320}{}{}
-{1321}{}{It's just a scratch...}
-{1322}{}{You broke my arm, so I'm gonna break your neck!}
-{1330}{}{A little blood ain't hurt no-one.}
+{1321}{}{Det är bara en skråma...}
+{1322}{}{Du bröt min arm, så jag ska bryta nacken av dig!}
+{1330}{}{Lite blo' ha' aldri' skada' nån.}
 {1331}{}{Oof! I'm gonna scrag you for that...}
 {1332}{}{Aj!}
 {1333}{}{I like the pain!}
@@ -118,7 +118,7 @@
 {1362}{}{You broke my leg, but I'll break your neck!}
 {1370}{}{I love the sound of bones crunching.}
 {1371}{}{}
-{1372}{}{You broke my arm, but I'll break your neck!}
+{1372}{}{Du bröt min arm, men jag ska bryta nacken av dig!}
 {1380}{}{Hey, I'm blind.}
 {1381}{}{I can't see. That'll make this fair.}
 {1382}{}{My eyes, bitch!}
@@ -313,7 +313,7 @@
 {1667}{}{You whacked my wingtips!}
 {1668}{}{And I just shaved them too.}
 {1669}{}{I'll bite your kneecaps off!}
-{1670}{}{My leg!}
+{1670}{}{Mitt ben!}
 {1671}{}{You gored my Gucci's!}
 {1672}{}{Ouch! Hey! That's below the belt!}
 {1673}{}{You can raise welts like nobody else.}
@@ -324,7 +324,7 @@
 {1678}{}{That's going to blister.}
 {1679}{}{Kai, yai, yippee, ai, ay!}
 {1680}{}{Damn blood in my eyes!}
-{1681}{}{My eye! You'll pay for that one!}
+{1681}{}{Mitt öga! Det där ska du få betala för!}
 {1682}{}{Din jävel!}
 {1683}{}{Who turned out the lights?}
 {1684}{}{Hah, that was my glass eye!}
@@ -930,42 +930,42 @@
 {12203}{}{You're just lucky I ain't got no stimpaks on me...}
 {12204}{}{Time to get the hell outta Dodge.}
 {12205}{}{Need to find some stimpaks, fast...}
-{12220}{}{I'm gonna roll you like dice.}
-{12221}{}{And here I was, thinking I wasn't gonna get to kill no one today...}
-{12222}{}{Looks like Golgotha just got a new resident...}
-{12223}{}{Looks like we'll be doing this the hard way...}
-{12224}{}{I'm gonna knock out your teeth and make dice out of them.}
-{12225}{}{Looks like someone's gambling with their life...}
-{12226}{}{I'm gonna kill you, your family, then your dog.}
-{12227}{}{Time to take out the trash...}
+{12220}{}{Jag ska kasta dig som en tärning.}
+{12221}{}{Och jag som trodde att jag inte skulle få döda nån idag...}
+{12222}{}{Ser ut som Golgata precis fått en ny invånare...}
+{12223}{}{Det ser ut som om vi får göra det här på det svåra sättet...}
+{12224}{}{Jag ska slå ut dina tänder och göra tärningar av dem.}
+{12225}{}{Det ser ut som om någon satsar sitt liv...}
+{12226}{}{Jag ska döda dig, din familj och sen din hund.}
+{12227}{}{Dags att gå ut med soporna...}
 {12228}{}{Gonna snap you like a wishbone...}
-{12240}{}{I'm going to kick your ass so hard you'll be wearing your ass as a hat.}
+{12240}{}{Jag ska sparka dig i röven så hårt att du kommer att bära din röv som en hatt.}
 {12241}{}{Lady Luck ain't with you today...}
-{12242}{}{I'm gonna beat you until you're ugly.}
-{12243}{}{Time to put your ass in a grave.}
-{12244}{}{I'm gonna kick your heart out and stomp on it.}
-{12245}{}{Wish I had time to put your head in a vise...}
-{12246}{}{Let me show you what we do with garbage around here...}
-{12247}{}{I'm going to hit you so hard you'll think it's an earthquake...}
-{12248}{}{I've had enough of this turd...}
-{12249}{}{Say hello to the angels for me...}
-{12260}{}{Moves like that'll put you in the hospital...}
+{12242}{}{Jag ska slå dig ful och blå.}
+{12243}{}{Dags att lägga dig i en grav.}
+{12244}{}{Jag ska sparka ut ditt hjärta och stampa på det.}
+{12245}{}{Jag önskar att jag hade tid att sätta ditt huvud i ett skruvstäd...}
+{12246}{}{Låt mig visa dig vad vi gör med sopor här...}
+{12247}{}{Jag kommer att slå dig så hårt att du tror att det är en jordbävning...}
+{12248}{}{Jag har fått nog av den här skiten...}
+{12249}{}{Säg hej till änglarna åt mig...}
+{12260}{}{Rör du dig så där kommer du att hamna i sjukhuset...}
 {12261}{}{You hit like a bitch...}
-{12262}{}{Nice one. I'll show you how it's done in a sec.}
-{12263}{}{You blind and stupid?}
+{12262}{}{Den var bra. Jag ska visa dig hur det går till om en stund.}
+{12263}{}{Är du blind och korkad?}
 {12264}{}{You flying on Jet or something?}
-{12265}{}{You couldn't hit the broad side of a casino.}
-{12266}{}{If you tried to hit the air, you'd miss.}
+{12265}{}{Du kan inte ens träffa bredsidan på ett kasino.}
+{12266}{}{Om du försökte träffa luften skulle du missa.}
 {12300}{}{Ngggg}
 {12301}{}{My... head... getting... dizzy}
 {12302}{}{Ugnnn!}
 {12303}{}{Not the face! Not the face!}
-{12310}{}{My... arm... my... beautiful... arm.}
+{12310}{}{Min...arm...min...vackra...arm.}
 {12311}{}{Medic! My arm's fucked!}
 {12312}{}{*hffff*}
 {12320}{}{My stroke hand! Have you no shame?!}
 {12321}{}{Medic! My arm's fucked!}
-{12322}{}{Looks like I can't polish my gun with that hand anymore...}
+{12322}{}{Det verkar som om jag inte kan polera min pistol med den handen längre...}
 {12330}{}{My spleen!}
 {12331}{}{Hnrgggg}
 {12332}{}{*hff*}
@@ -980,16 +980,16 @@
 {12371}{}{*Ergg*}
 {12372}{}{Gonna need a stimpak for my leg...}
 {12373}{}{Urggg... leg's... screwed...}
-{12380}{}{My eye! My beautiful eye!}
+{12380}{}{Mitt öga! Mitt vackra öga!}
 {12381}{}{Trying to cripple my depth perception, huh?}
 {12382}{}{Can't... see... blood... in... eyes...}
 {12390}{}{What do you think this is? Some cheap action flick?}
 {12391}{}{Now I can't sound off like a got a pair.}
 {12392}{}{Well, there go my brass balls.}
 {12393}{}{Excuse me for a moment while I throw up all over myself.}
-{12394}{}{Great. A player character with a ball fixation.}
+{12394}{}{Underbart. En spelarkaraktär med en fixering på kulor.}
 {12395}{}{Let me lie down for a second, then I'll come kill you.}
-{12396}{}{Nuts!}
+{12396}{}{Sablar!}
 {26000}{}{Flee! Flee!}
 {26001}{}{Retreat!}
 {26002}{}{Regroup!}
@@ -997,43 +997,43 @@
 {26004}{}{Withdraw!}
 {26005}{}{I'm outta here!}
 {26020}{}{Kill this fool!}
-{26021}{}{You're already dead...}
-{26022}{}{I'm gonna fuck you up!}
+{26021}{}{Du är redan död...}
+{26022}{}{Jag ska spöa upp dig!}
 {26023}{}{This one's mine!}
-{26024}{}{Take em!}
-{26025}{}{Your ears will make a nice trophy!}
+{26024}{}{Ta dom!}
+{26025}{}{Dina öron kommer att bli en fin trofé!}
 {26040}{}{Enjoy the last few seconds of your life!}
 {26041}{}{Blood! Blood! Blood!}
 {26042}{}{Your heart is mine!}
-{26043}{}{I love doing this to you!}
+{26043}{}{Jag älskar att göra det här mot dig!}
 {26044}{}{Your weapons will be my trophies!}
-{26045}{}{Death and dismemberment. Just two of my favorite things!}
+{26045}{}{Död och lemlästning. Bara två av mina favoritsaker!}
 {26046}{}{You are mine to kill!}
 {26047}{}{Your bones shall bleach in the wastes!}
 {26048}{}{Blood and darkness!}
-{26049}{}{I'm gonna loot your corpse!}
+{26049}{}{Jag ska plundra ditt lik!}
 {26050}{}{Drill the scraggin' bastard!}
 {26100}{}{Khans! Cover me!}
 {26101}{}{Retreat!}
 {26102}{}{Regroup!}
 {26103}{}{Fall back!}
 {26104}{}{Withdraw!}
-{26105}{}{Break off and regroup!}
-{26106}{}{Let the challenge begin!}
-{26107}{}{I'm going to use you for target practice!}
-{26108}{}{No mercy for you!}
+{26105}{}{Bryt av och omgruppera!}
+{26106}{}{Låt utmaningen börja!}
+{26107}{}{Jag ska använda dig som måltavla!}
+{26108}{}{Ingen nåd för dig!}
 {26109}{}{This one's mine!}
 {26110}{}{Khans attack!}
-{26111}{}{It's party time!}
-{26112}{}{Would someone please kill this waste of flesh!}
+{26111}{}{Nu är det dags för fest!}
+{26112}{}{Skulle någon vara snäll och döda det här slöseriet med kött!}
 {26113}{}{Khans kill!}
 {26114}{}{Khans are the elite of the wastes!}
-{26115}{}{I am supreme!}
+{26115}{}{Jag är överlägsen!}
 {26116}{}{Khans will rule!}
 {26117}{}{Khans are invincible!}
-{26118}{}{No retreat! No surrender!}
+{26118}{}{Ingen reträtt! Ingen kapitulation!}
 {26119}{}{You are mine to kill!}
-{26120}{}{I'll make a necklace out of your teeth!}
+{26120}{}{Jag ska göra ett halsband av dina tänder!}
 {26121}{}{Blood and darkness!}
 {26122}{}{Khans are the strong!}
 {26123}{}{Nice form but I'm over here!}
@@ -1068,12 +1068,12 @@
 {32080}{}{I can't see! You bastard!}
 {32081}{}{My face! My eyes! Arrrrgh!}
 {32082}{}{Where are you? Help!}
-{32090}{}{Ooooooooo, my groin! Ooooooo...}
+{32090}{}{Ååååååååå, mitt skrev! Ååååååå...}
 {32091}{}{I... I... ouch...}
 {32092}{}{::whimper::}
 {32093}{}{::vomit::}
-{32094}{}{I... can't... breathe...}
-{32095}{}{The pain, the pain...}
+{32094}{}{Jag... kan... inte... andas...}
+{32095}{}{Smärtan, smärtan...}
 {32100}{}{Your kung fu is better than mine!}
 {32101}{}{You are truly mighty. Goodbye.}
 {32102}{}{Aieee! Evil triumphs!}
@@ -1271,12 +1271,12 @@
 {32772}{}{Aaaarrrrggghhh!}
 {32780}{}{Ow!! My eyes!}
 {32781}{}{My face! My eyes! Arrrrgh!}
-{32782}{}{My eyes!}
-{32790}{}{Ooooooooo, my groin! Ooooooo...}
-{32791}{}{Oww... It burns!}
+{32782}{}{Mina ögon!}
+{32790}{}{Ååååååååå, mitt skrev! Ååååååå...}
+{32791}{}{Ajj... Det bränns!}
 {32792}{}{Urp!}
 {32793}{}{::gasp::}
-{32794}{}{I... can't... breathe...}
+{32794}{}{Jag... kan... inte... andas...}
 {32795}{}{good thing... I'm already... sterile...}
 {32800}{}{Star Father! Help us!}
 {32801}{}{My anodynes!}
@@ -1415,11 +1415,11 @@
 {36060}{}{Ow, my leg}
 {36061}{}{You're gonna pay for that!}
 {36062}{}{Ah! MY LEG!}
-{36070}{}{My leg!}
+{36070}{}{Mitt ben!}
 {36071}{}{Unh! Aiming a little low aren't you?}
 {36072}{}{You weren't trying to hit my leg were you!?!}
 {36080}{}{Damn blood in my eyes!}
-{36081}{}{My eye! You'll pay for that one!}
+{36081}{}{Mitt öga! Det där ska du få betala för!}
 {36082}{}{Din jävel!}
 {36090}{}{Oooooo, time out, I have to pick something up}
 {36091}{}{Ooo! Kaga gotta learn that move...}
@@ -1698,7 +1698,7 @@
 {44925}{}{Prepare to meet your doom!}
 {44926}{}{Best kiss your ass goodbye while you still can.}
 {44927}{}{I'm going to paint you red!}
-{44928}{}{It's party time!}
+{44928}{}{Nu är det dags för fest!}
 {44929}{}{I'm heading in!}
 {44930}{}{I'll see you on the front line!}
 {44931}{}{Time to reach out and touch someone!}

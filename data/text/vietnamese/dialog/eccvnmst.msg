@@ -5,7 +5,7 @@
 {103}{}{Where are you headed?}
 {104}{}{What's your cargo?}
 {105}{}{Chào.}
-{106}{}{Ug.}
+{106}{}{Hực.}
 {107}{}{I just picked up a shipment from }
 {108}{}{ and now I'm headed for }
 {109}{}{.}
@@ -47,7 +47,7 @@
 {135}{}{Where are you headed?}
 {136}{}{What's your cargo?}
 {137}{}{Chào.}
-{138}{}{Ug.}
+{138}{}{Hực.}
 {139}{}{That's... nice. You have a nice day now. }
 {150}{}{medicine.}
 {151}{}{gold ore.}

@@ -1,62 +1,62 @@
-{100}{}{You see a merchant.}
-{102}{}{You see a merchant who is trying to fix the waterpump.}
-{103}{}{I just can't get this thing working!}
-{104}{}{This seems to be very hard to fix.}
-{105}{}{What a piece of shit this is!}
-{106}{}{Stubborn little sonnuva bitch are we?}
-{107}{}{Could you lend me a hand?}
-{108}{}{Maybe you'll have better luck with this.}
-{109}{}{Hey, thanks for fixing the waterpump!}
-{110}{}{You should notify the headmonk that the waterpump is now fixed.}
-{200}{}{Thanks for helping us with this thing.}
-{300}{}{Ah, what a piece of shi- umm, I'm a little busy right now. Do you need something or are
- you just wasting my time?}
-{301}{}{Actually yes, the Abbot sent me. He said the water pump is having some trouble.}
-{302}{}{Heh, "having trouble" is an understatement. This ol' thing is totally busted. There's no way
- it's going to run again.}
-{303}{}{I see. Then I guess it wouldn't hurt anything if I took a look at it.}
-{304}{}{Sure, be my guest. Not like you could break it any more.}
-{305}{}{I don't mean to bother, but what seems to be the trouble here?}
-{306}{}{The main water pump for the Abbey is busted. The damn thing was breathing its last the past few days
- and now it's finally gone out.}
-{307}{}{I'm a bit of a techie, mind if I take a look?}
-{308}{}{Well, I'm not that great with machines, but perhaps I can see if something can be done.}
-{309}{}{Sure, no one's stopping you.}
-{310}{}{Uh, sorry. Bye.}
-{311}{}{I'll see what I can do then.}
-{312}{}{I thought I might be able to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
-{313}{}{I told the Abbot I'd be willing to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
-{320}{}{[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
- real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. }
-{321}{}{Well, what seems to be the problem then?}
-{322}{}{Whatever, bye.}
-{330}{}{Come back and talk to me in the morning.}
-{400}{}{Oh, it's you again. Any luck?}
-{401}{}{No, not yet. I'll get back to you if I do.}
-{402}{}{Actually, yes. I looked inside and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
-{500}{}{Hmm... the connectors are shot on the main motor, eh? Well, I got some wires here with me that will work, but not
- that specific motor. I am sure Vault City has the part though. Go there and speak with Harry in the main courtyard. Tell him
- Dave sent you. Damn motor is expensive, but he should give you a good deal.}
-{501}{}{I'll head there now. Be back soon.}
-{502}{}{Whoa, hold on a second. I was happy to help you figure out the problem, but who said I'm willing to trek across
- the wastes to go buy you an expensive motor? If you want my help, it's going to cost you.}
-{503}{}{How 'bout *you* tell Harry that when you go fetch it your damn self? I'm not your fucking errand boy. Bye.}
-{510}{}{Alright, I wouldn't expect someone to do work for free. The part will cost you bout 500 and I think 100 more for
- your trouble is reasonable. Here's 600.}
-{511}{}{That's better. I'll be back with the part.}
-{600}{}{Any luck on that part? This machine won't fix itself.}
-{601}{}{No, not yet. I'll be back when I get it.}
-{602}{}{Yep, got the part right here.}
-{700}{}{Excellent. Want me to install the damn thing, or do you want the pleasure?}
-{701}{}{I think I can handle it. Step aside.}
-{702}{}{Actually, I think I've done enough on this job. Go ahead and install it yourself.}
-{800}{}{Alright fine, hand it over.}
-{801}{}{Here you go.}
-{900}{}{That should do it.}
-{901}{}{The water pump has been repaired.}
-{910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
-{911}{}{The Abbot said you might need some assistance. What seems to be the trouble?}
+{100}{}{Du ser en handlare.}
+{102}{}{Du ser en handlare som försöker laga vattenpumpen.}
+{103}{}{Jag kan bara inte få den här saken att fungera!}
+{104}{}{Detta verkar vara mycket svårt att laga.}
+{105}{}{Vilken jävla skit den här är!}
+{106}{}{Envis liten skitunge är vi?}
+{107}{}{Kan du hjälpa mig?}
+{108}{}{Du kanske har mer tur med den här.}
+{109}{}{Hej, tack för att du lagade vattenpumpen!}
+{110}{}{Du borde meddela huvudmunken att vattenpumpen nu är lagad.}
+{200}{}{Tack för att du hjälper oss med den här saken.}
+{300}{}{Åh, vilken ski-... ehh, jag är lite upptagen just nu. Behöver du något eller
+ slösar du bara bort min tid?}
+{301}{}{Faktiskt ja, Abboten skickade mig. Han sa att vattenpumpen har lite problem.}
+{302}{}{Hah, "har problem" är en underdrift. Den här gamla grejen är helt förstörd. Det finns ingen chans
+ att den kommer att fungera igen.}
+{303}{}{Jag förstår. Då antar jag att det inte skulle skada något om jag tog en titt på den.}
+{304}{}{Visst, varsågod. Inte som att du kan förstöra den mer.}
+{305}{}{Jag vill inte störa, men vad är det som verkar vara problemet här?}
+{306}{}{Huvudvattenpumpen för klostret är trasig. Den jäkla saken har dragit sina sista andetag de senaste dagarna
+ och nu har den till sist stannat.}
+{307}{}{Jag är lite teknikintresserad, får jag ta en titt?}
+{308}{}{Jag är inte så bra på maskiner, men jag kanske kan se om det går att göra något.}
+{309}{}{Visst, ingen stoppar dig.}
+{310}{}{Eh, jag är ledsen. Hej då.}
+{311}{}{Jag ska se vad jag kan göra då.}
+{312}{}{Jag tänkte att jag kanske kunde hjälpa till, men om du vill vara en skitstövel så är du välkommen att lösa det på egen hand.}
+{313}{}{Jag sa till abboten att jag gärna hjälper till, men om du vill vara en skitstövel får du gärna lösa det på egen hand.}
+{320}{}{[Han kisar på dig ett ögonblick och släpper sedan långsamt ut andan i en suck.] Ledsen vän, den här saken är en
+ riktig bitch, och den ha' gjort mig helt upprörd. Jag menade inte att snäsa åt dig.}
+{321}{}{Tja, vad verkar vara problemet då?}
+{322}{}{Visst, hej då.}
+{330}{}{Kom tillbaka och prata med mig i morgon bitti.}
+{400}{}{Åh, det är du igen. Har du lyckats än?}
+{401}{}{Nej, inte än. Jag hör av mig om jag gör det.}
+{402}{}{Ja, faktiskt. Jag tittade inuti och det verkar som om motorn är helt paj. Anslutningarna är körda, så vi
+ måste få tag på en ny motor, samt några kablar för att återansluta allt eftersom de gamla kablarna är stekta.}
+{500}{}{Hmmm... Kontakterna är körda på huvudmotorn, va? Tja, jag har några kablar här med mig som kommer att fungera, men inte
+ den specifika motorn. Jag är säker på att Valvstaden har delen dock. Gå dit och prata med Harry på huvudgården. Säg till honom att
+ Dave skickade dig. Den jäkla motorn är dyr, men han borde ge dig en bra deal.}
+{501}{}{Jag ska dit nu. Kommer snart tillbaka.}
+{502}{}{Vänta lite. Jag var glad att hjälpa dig att förstå problemet, men vem sa att jag är villig att vandra över
+ ödemarken för att köpa en dyr motor till dig? Om du vill ha min hjälp, så kommer det att kosta dig.}
+{503}{}{Vad sägs om att *du* säger det till Harry när du hämtar den helt jäkla själv? Jag är inte din jävla springpojke. Hej då.}
+{510}{}{Okej, jag skulle inte förvänta mig att någon gör jobbet gratis. Delen kommer att kosta dig cirka 500 och jag tror att 100 mer för
+ ditt besvär är rimligt. Här får du 600.}
+{511}{}{Det var bättre. Jag kommer tillbaka med delen.}
+{600}{}{Nån tur med den där delen? Den här maskinen lagar inte sig själv.}
+{601}{}{Nej, inte än. Jag kommer tillbaka när jag får den.}
+{602}{}{Japp, jag har delen här.}
+{700}{}{Utmärkt. Ska jag installera den jäkla saken, eller vill du ha nöjet?}
+{701}{}{Jag tror att jag klarar av det. Stig åt sidan.}
+{702}{}{Jag tror att jag har gjort tillräckligt med det här jobbet. Kör igång och installera den själv.}
+{800}{}{Okej bra, lämna över den.}
+{801}{}{Varsågod.}
+{900}{}{Så där ja.}
+{901}{}{Vattenpumpen har reparerats.}
+{910}{}{(Torkar svetten från pannan.) Ja, behöver du något?}
+{911}{}{Abboten sa att du kanske behövde lite hjälp. Vad verkar vara problemet?}
 {912}{}{Nevermind. Goodbye.}
-{913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
+{913}{}{Jag tog en titt på vattenpumpen och det verkar som om motorn är helt paj. Anslutningarna är körda, så vi
+ måste få tag på en ny motor, samt några kablar för att återansluta allt eftersom de gamla kablarna är stekta.}

@@ -1,1 +1,1 @@
-{100}{}{You retrieved the K-9 motivator.}
+{100}{}{Bạn đã nhận được động cơ của K-9.}

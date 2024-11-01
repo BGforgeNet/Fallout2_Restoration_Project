@@ -319,7 +319,7 @@
 {1039}{}{Some stimpaks.}
 {1040}{}{Can you make super stimpaks?}
 {1041}{}{Nothing. I had some other questions...}
-{1042}{}{Nevermind.}
+{1042}{}{Quên đi.}
 {1050}{myn145a}{Uhm, I'm gonna need some radscorpion venom sacs first. Ironic, in'it?}
 {1051}{myn145b}{Oh, well, I'd looove to, beautiful, but I need radscorpion tails. Oh, well.}
 {1052}{}{Can you make any other drugs?}

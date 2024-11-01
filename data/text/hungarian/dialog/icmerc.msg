@@ -14,7 +14,7 @@
 {250}{}{Kimentünk piálni, erre beszólt szarul, mi meg jól szétrúgtuk a seggét.}
 {251}{}{Ellenőriznünk kéne a csapdákat a barlangban...}
 {252}{}{Mindjárt kezdődik az őrjárat...}
-{253}{}{Basszus, ez a rézbőrű *bűzlik*!  Akár az összes többi...}
+{253}{}{Basszus, ez a rézbőrű *bűzlik*! Akár az összes többi...}
 {254}{}{Rohadt menedékvárosi lézerágyúk...}
 {255}{}{Belefáradtam a fegyverem fényesítésébe... mindkettőébe.}
 {256}{}{Meddig kell még itt maradnunk?}

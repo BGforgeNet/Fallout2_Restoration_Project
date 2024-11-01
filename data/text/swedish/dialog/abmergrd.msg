@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
-{101}{}{He seems to be hired muscle for the merchant.}
-{102}{}{Talk to the boss if you need something.}
-{103}{}{Don't cause any trouble, ya hear?}
+{100}{}{Du ser en vakt.}
+{101}{}{Han verkar vara anställd som skydd för handlaren.}
+{102}{}{Prata med chefen om du behöver något.}
+{103}{}{Ställ inte till med några problem, hörru det?}

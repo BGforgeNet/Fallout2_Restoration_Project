@@ -1,1 +1,1 @@
-{100}{}{You retrieved the tanker fob.}
+{100}{}{Bạn đã nhận được chìa khóa tàu chở dầu.}

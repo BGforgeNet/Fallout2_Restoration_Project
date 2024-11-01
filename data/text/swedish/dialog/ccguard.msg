@@ -6,9 +6,9 @@
 {105}{}{To hell with waiting. I say we nuke all these primitives and get things over with.}
 {106}{}{Got a light? Oh wait, never mind. Got one.}
 {107}{}{Craps game behind the hanger tonight. Don't let the CO know.}
-{108}{}{Who the--? <zzzt> We got an intruder here!}
-{109}{}{You there! Halt!}
-{110}{}{Intruder on base!}
+{108}{}{Vem i--? <zzzt> Vi har en inkräktare här!}
+{109}{}{Du där! Stanna!}
+{110}{}{Inkräktare på basen!}
 {111}{}{Vänta du--åh, glöm det. }
 {112}{}{Bäst att du hämtar din legitimation. De här falska larmen gör alla nervösa.}
 {113}{}{Du ska vara här, eller hur? De här falska larmen går mig på nerverna!}
@@ -17,4 +17,4 @@
 {116}{}{Här borta! Låt 'em inte komma undan!}
 {117}{}{Vi blir attackerade på framsidan. Skicka förstärkning!}
 {118}{}{Låt inte inkräktaren komma fram till grinden!}
-{119}{}{Die, primitive!}
+{119}{}{Dö, din primitiva jävel!}

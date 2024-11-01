@@ -24,7 +24,6 @@
 
 #include "../headers/command.h"
 #include "../headers/modreact.h"
-#include "../headers/newr1.h"
 #include "../headers/epasl.h"
 
 #define PARTY_NODE_X                   Node1000
@@ -308,23 +307,23 @@ procedure use_obj_on_p_proc begin
    end
 
    if (Dex_In_Party) then begin
-         if ( (obj_pid(obj_being_used_with) == PID_FIRST_AID_KIT) or
-            (obj_pid(obj_being_used_with) == PID_DOCTORS_BAG) or
-            (obj_pid(obj_being_used_with) == PID_RADAWAY) or
-            (obj_pid(obj_being_used_with) == PID_ANTIDOTE) or
-            (obj_pid(obj_being_used_with) == PID_STIMPAK) or
-            (obj_pid(obj_being_used_with) == PID_SUPER_STIMPAK) ) then
-            call Node2009;
-         else if( (obj_pid(obj_being_used_with) == PID_BEER ) or
-            (obj_pid(obj_being_used_with) == PID_BOOZE ) or
-            (obj_pid(obj_being_used_with) == PID_ROT_GUT ) or
-            (obj_pid(obj_being_used_with) == PID_ROENTGEN_RUM ) or
-            (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER ) or
-            ( obj_pid(obj_being_used_with) == PID_PSYCHO ) or
-            ( obj_pid(obj_being_used_with) == PID_BUFFOUT ) or
-            ( obj_pid(obj_being_used_with) == PID_MENTATS ) or
-            ( obj_pid(obj_being_used_with) == PID_JET ) ) then
-            call Node2003;
+      if ( (obj_pid(obj_being_used_with) == PID_FIRST_AID_KIT) or
+         (obj_pid(obj_being_used_with) == PID_DOCTORS_BAG) or
+         (obj_pid(obj_being_used_with) == PID_RADAWAY) or
+         (obj_pid(obj_being_used_with) == PID_ANTIDOTE) or
+         (obj_pid(obj_being_used_with) == PID_STIMPAK) or
+         (obj_pid(obj_being_used_with) == PID_SUPER_STIMPAK) ) then
+         call Node2009;
+      else if( (obj_pid(obj_being_used_with) == PID_BEER ) or
+         (obj_pid(obj_being_used_with) == PID_BOOZE ) or
+         (obj_pid(obj_being_used_with) == PID_ROT_GUT ) or
+         (obj_pid(obj_being_used_with) == PID_ROENTGEN_RUM ) or
+         (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER ) or
+         (obj_pid(obj_being_used_with) == PID_PSYCHO) or
+         (obj_pid(obj_being_used_with) == PID_BUFFOUT) or
+         (obj_pid(obj_being_used_with) == PID_MENTATS) or
+         (obj_pid(obj_being_used_with) == PID_JET) ) then
+         call Node2003;
    end
 
 end
@@ -478,47 +477,46 @@ procedure Node902 begin
 end
 
 procedure timed_event_p_proc begin
- if (self_visible) then begin
-   if (combat_is_initialized == false) then begin
-      if (Dex_In_Party == false) then begin
-      //blah
-      end else begin
-         if (party_healed_bad) then begin
-            call Node2001;
-         end else if (self_is_poisoned) then begin
-            call Node2006;
-         end else if (self_rads > 0) then begin
-            call Node2002;
-         end else if (Is_Crippled(self_obj)) then begin
-            call Node2007;
-         end else if (Is_Blind(self_obj)) then begin
-            call Node2008;
-         end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2100;
-         end else if ( (Vic_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2101;
-         end else if ( (Miria_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2102;
-         end else if ( (Davin_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2103;
-         end else if ( (MacRae_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2104;
-         end else if ( (Lenny_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2105;
-         end else if ( (Marcus_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2106;
-         end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2107;
-         end else if ( (Goris_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2108;
+   if (self_visible) then begin
+      if (combat_is_initialized == false) then begin
+         if (Dex_In_Party == false) then begin
+         //blah
          end else begin
-            call Node2000;
+            if (party_healed_bad) then begin
+               call Node2001;
+            end else if (self_is_poisoned) then begin
+               call Node2006;
+            end else if (self_rads > 0) then begin
+               call Node2002;
+            end else if (Is_Crippled(self_obj)) then begin
+               call Node2007;
+            end else if (Is_Blind(self_obj)) then begin
+               call Node2008;
+            end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2100;
+            end else if ( (Vic_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2101;
+            end else if ( (Miria_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2102;
+            end else if ( (Davin_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2103;
+            end else if ( (MacRae_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2104;
+            end else if ( (Lenny_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2105;
+            end else if ( (Marcus_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2106;
+            end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2107;
+            end else if ( (Goris_In_Party) and (random(1,2) == 2) ) then begin
+               call Node2108;
+            end else begin
+               call Node2000;
+            end
          end
       end
    end
- end
-
- flush_add_timer_event_sec(self_obj, random(90, 120), 1);
+   flush_add_timer_event_sec(self_obj, random(60, 90), 1);
 end
 
 procedure Node000 begin

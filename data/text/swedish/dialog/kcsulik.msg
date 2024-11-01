@@ -268,7 +268,7 @@
  the rest. Let's ease on down.}
 {795}{}{Uh, yeah. OK, Sulik.}
 {796}{slk54}{What can we and I do ya for?}
-{797}{}{I have some questions for you.}
+{797}{}{Jag har några frågor till dig.}
 {798}{}{Where can I find trade, a healer, or a room?}
 {799}{}{Ever hear of a Garden of Eden Creation Kit?}
 {800}{}{What's going on in town?}

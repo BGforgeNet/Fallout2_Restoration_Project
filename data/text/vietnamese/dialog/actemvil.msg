@@ -63,7 +63,7 @@ Anh có thể lấy lại sau trận đấu. Hãy bắt đầu nào! Chúc may m
 {154}{}{Hãy đi theo đường bên trái tôi, Cứu tinh. Đấy là lối chính đi vào đền.
 Cổng hang đằng sau tôi sẽ đưa anh đến phòng cuối cùng.}
 {155}{}{Được, ngộ đi.}
-{156}{}{All right. Thanks.}
+{156}{}{Được rồi. Cám ơn.}
 {157}{}{Không, cám ơn, Cứu tinh. Tôi vẫn còn vết sẹo từ lần đấu trước và sẽ mất nhiều năm để
 phục hồi!}
 {158}{}{Đi đây chào, Cameron.}

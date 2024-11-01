@@ -26,7 +26,7 @@
 {291}{}{Your kids?}
 {292}{}{Well, I'm not really interested in music lessons for children. Let me ask you about something else.}
 {300}{}{Yeah, well they work for me. They bring me things. Little things. You know.}
-{301}{}{Uh, no.}
+{301}{}{Ừ, không.}
 {302}{}{Oh, OK. Let me ask you something else then.}
 {303}{}{Ah, I see. Well, I don't want to cramp your, uh, style. Goodbye.}
 {315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}

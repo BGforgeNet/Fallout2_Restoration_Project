@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Du ser en vakt.}
 {150}{}{You see a bored-looking guard. He looks like he would rather be anywhere else.}
 {151}{}{You see one of Myron's bored-looking guards.}
 {152}{}{You see one of Myron's bored-looking guards. He looks like he would rather be anywhere else.}

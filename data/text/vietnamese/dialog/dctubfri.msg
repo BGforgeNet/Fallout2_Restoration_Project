@@ -97,14 +97,14 @@
 {405}{}{Where's our big man at?}
 {406}{}{Doesn't it just make your skin tingle?}
 {407}{}{Tubby has the best supply in town.}
-{408}{}{I feel so alive!}
+{408}{}{Mình khỏe vãi lìn!}
 {420}{}{Did you hear a loud bang?}
 {421}{}{Haven't seen Tubby in a while.}
 {422}{}{Where's Tubby?}
 {423}{}{You seen Tubby?}
 {440}{}{Oh, my head!}
 {441}{}{Where's Tubby! I think I'm going to die!}
-{442}{}{I can't take this much longer.}
+{442}{}{Không chịu nổi thêm nữa.}
 {443}{}{Oh, the pain is getting really bad.}
 {444}{}{Tubby hasn't given us any in a while. Where he at?}
 {445}{}{My lips are numb.}

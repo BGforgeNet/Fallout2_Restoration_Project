@@ -13,7 +13,7 @@
 {330}{}{What did we do wrong?}
 {331}{}{Leave us alone, slaver!}
 {332}{}{Don't hurt me!}
-{333}{}{Get away from me!}
+{333}{}{Tránh xa ta ra!}
 {350}{}{Ai ông?}
 {351}{}{You no slaver.}
 {352}{}{You no hurt?}

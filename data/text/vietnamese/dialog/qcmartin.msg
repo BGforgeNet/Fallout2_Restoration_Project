@@ -14,7 +14,7 @@
 {113}{}{Hey you, over here!}
 {114}{}{Are you looking for me?}
 {115}{}{Want to know what happened?}
-{116}{}{Help!}
+{116}{}{Cứu với!}
 {117}{}{I'm Martin, over here.}
 {118}{}{Hey, you, I'm Frobisher. Here!}
 {119}{}{Over heeeere!}
@@ -81,5 +81,5 @@
 {180}{}{Incredible, that's our vault! Once again, the people of the vault must rely upon - uh, this time - the great grandson, of the Vault Dweller to save us.}
 {181}{}{Incredible, that's our vault! Once again, the people of the Vault must rely upon - uh, this time - the great granddaughter, of the Vault Dweller to save us.}
 {182}{}{I wish I knew how to save you.}
-{183}{}{I'll think about it.}
+{183}{}{Ta sẽ nghĩ về việc đó.}
 {184}{}{What a bizarre coincidence! Let me ask you about something else.}

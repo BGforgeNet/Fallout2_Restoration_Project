@@ -63,7 +63,7 @@ Try it, bucko. You'll have guards down on your ass and you'll never learn how to
 {158}{}{I see. Well, I have more questions.}
 {159}{}{Hmm. Gotta go. Bye.}
 {160}{}{Hey, I got no beef with you. Just don't hurt me.}
-{161}{}{I have some questions for you.}
+{161}{}{Jag har några frågor till dig.}
 {162}{}{I'm here for my armor.}
 {163}{}{Too late.}
 {164}{}{Hej då.}

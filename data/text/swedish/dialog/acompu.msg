@@ -1,5 +1,5 @@
-{100}{}{You see a small computer terminal.}
-{101}{}{You see the Abbey's computer terminal.}
+{100}{}{Du ser en liten datorterminal.}
+{101}{}{Du ser klostrets datorterminal.}
 {102}{}{You see a small computer terminal. It appears to be functional.}
 {103}{}{You access the computer and scan all available files. You find some files containing the keywords "GECK" and "Vault".}
 {104}{}{Read GECK info.}
@@ -102,4 +102,4 @@
  Vault to create homes and defensive structures for the new community. As you finish reading over the files, you decide that even though
  it's not the magical device the Elder seems to think it is, finding a GECK is still your best option if you hope to save your tribe.}
 {1000}{}{You upload the EPA Botany Holodisk.}
-{2000}{}{You format the Abbey's book databases.}
+{2000}{}{Du formaterar klostrets bokdatabaser.}

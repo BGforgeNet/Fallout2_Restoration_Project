@@ -15,7 +15,7 @@
 {114}{}{Proposition bets...}
 {115}{}{Place bets...}
 {116}{}{Place Field bet}
-{118}{}{Roll}
+{118}{}{Slå}
 {119}{}{Pass line bet set at:}
 {120}{}{Don't pass line bet set at:}
 {121}{}{Come line bet set at:}

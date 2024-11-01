@@ -1,29 +1,29 @@
 {100}{}{You see someone in power armor. }
-{101}{}{You see the Navarro base Commander.}
+{101}{}{Du ser befälhavaren för Navarro-basen.}
 {102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{}{Who the hell are you guys... Alert! Intruders on the base!}
+{103}{}{Vilka fan är ni... Varning! Inkräktare på basen!}
 {104}{}{I don't have time to chitchat with the grunts. You're dismissed.}
-{105}{}{Time to die.}
+{105}{}{Dags att dö.}
 {106}{}{Okej.}
 {107}{}{I told you I don't have time for you. Leave this office and do not come back here unless I send for you. Dismissed!}
-{108}{}{Disobeying a direct order of a superior officer is treason. I don't have time to court martial you so I'll handle this myself. Guards! Kill this idiot!}
+{108}{}{Att inte lyda en direkt order från en högre officer är förräderi. Jag har inte tid att ställa dig inför krigsrätt, så jag sköter det här själv. Vakter! Döda den här idioten!}
 {109}{}{Okej.}
-{110}{}{Screw you!}
+{110}{}{Fan ta dig!}
 {111}{}{The Fob is in the locker over there. Have the duty officer contact me once it's secured. Dismissed!}
-{112}{}{Yes sir!}
-{113}{}{Make it quick soldier, I don't have all day to stand around.}
-{114}{}{Yes sir!}
-{115}{}{Leave my locker alone or I will dish out some serious pain.}
-{116}{}{Yes sir!}
-{117}{}{This base is on alert and I don't recognize you. Show me your papers, soldier.}
-{118}{}{What papers?}
-{119}{}{You blow me!}
-{120}{}{I don't seem to have them with me...}
+{112}{}{Ja, sir!}
+{113}{}{Gör det snabbt soldat, jag har inte hela dagen på mig att stå här.}
+{114}{}{Ja, sir!}
+{115}{}{Lämna mitt skåp ifred annars kommer jag att göra ditt liv smärtsamt.}
+{116}{}{Ja, sir!}
+{117}{}{Den här basen är i beredskap och jag känner inte igen dig. Visa mig dina papper, soldat.}
+{118}{}{Vilka papper?}
+{119}{}{Dra åt helvete!}
+{120}{}{Jag verkar inte ha dem med mig...}
 {121}{}{Papers? I've got your papers right here!}
-{122}{}{Wrong answer, maggot. You're to carry your papers with you at all times. You should know that!}
-{123}{}{Fuck you.}
-{124}{}{Leave my locker alone or I will dish out some serious pain.}
-{125}{}{Time to die.}
+{122}{}{Fel svar, kryp. Du ska alltid ha dina papper med dig. Det borde du veta!}
+{123}{}{Fan ta dig.}
+{124}{}{Lämna mitt skåp ifred annars kommer jag att göra ditt liv smärtsamt.}
+{125}{}{Dags att dö.}
 {200}{}{Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work
  for the Salvatores? }
 {201}{}{None of your business, asshole.}

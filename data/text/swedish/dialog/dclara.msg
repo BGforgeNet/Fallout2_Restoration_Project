@@ -89,45 +89,45 @@
 {452}{}{Okej.}
 {460}{}{I don't know. That's why I'm asking you to help.}
 {461}{}{I'll try.}
-{462}{}{This is pointless.}
-{470}{}{Did you find anything?}
-{471}{}{Yes. They're having a party tonight.}
+{462}{}{Det här är meningslöst.}
+{470}{}{Hittade du något?}
+{471}{}{Ja. De ska ha fest ikväll.}
 {472}{}{Not yet. I'll let you know.}
 {473}{}{Gra.}
 {474}{}{Na.}
-{480}{}{Excellent! They're sure to leave a skeleton crew. Those should be good
- odds. We'll take out those at the party after we hit the church.}
-{481}{}{And my money?}
-{490}{}{I don't think so. You'll have to come with us if you want your money. You
- won't have to fight but just to be sure it's not a trap. We'll give you $300 total.}
-{491}{}{You ready?}
-{492}{}{Okay, let's do it.}
-{493}{}{Give me a bit to get ready.}
-{494}{}{No way. Keep your money!}
-{500}{}{Okay, but we've got to act soon so don't take too long or we'll ruin our chance.}
+{480}{}{Utmärkt! De kommer säkert att lämna ett skelett av personal. Det borde vara bra
+ odds. Vi ger oss på de som är på festen efter att vi har slagit till mot kyrkan.}
+{481}{}{Och mina pengar?}
+{490}{}{Jag tror inte det. Du måste följa med oss om du vill ha dina pengar. Du
+ behöver inte slåss, men bara för att vara säker på att det inte är en fälla. Vi ger dig $300 totalt.}
+{491}{}{Är du redo?}
+{492}{}{Okej, då gör vi det.}
+{493}{}{Ge mig lite tid att göra mig redo.}
+{494}{}{Inte en chans. Behåll dina pengar!}
+{500}{}{Okej, men vi måste agera snart, så ta inte för lång tid på dig, för då förstör vi vår chans.}
 {501}{}{Okej.}
-{510}{}{You don't have to fight. Easy money.}
-{511}{}{Well, have you changed your mind?}
-{512}{}{Let's go. I'm ready.}
-{513}{}{Okay, I'll be right back.}
+{510}{}{Du behöver inte slåss. Lättförtjänta pengar.}
+{511}{}{Nå, har du ändrat dig?}
+{512}{}{Nu kör vi. Jag är redo.}
+{513}{}{Okej, jag kommer strax tillbaka.}
 {514}{}{Nej.}
 {515}{}{Uk}
-{520}{}{Because of you we blew our chance.}
+{520}{}{På grund av dig sumpade vi vår chans.}
 {521}{}{Ynkrygg!}
-{522}{}{You get nothing.}
-{523}{}{It was probably a trap anyhow.}
-{524}{}{Sorry, you're not reliable.}
-{525}{}{I can't trust you.}
-{530}{}{We did it!}
+{522}{}{Du får ingenting.}
+{523}{}{Det var nog en fälla ändå.}
+{524}{}{Tyvärr, du är inte pålitlig.}
+{525}{}{Jag kan inte lita på dig.}
+{530}{}{Vi klarade det!}
 {531}{}{Tack för din hjälp.}
-{532}{}{Special thanks to you!}
-{533}{}{I've finally paid Tyler back for what he did to my brother.}
-{534}{}{Thank you again.}
-{540}{}{Now that Metzger's dead, I don't know what'll happen.}
-{541}{}{Maybe we should just pack up.}
-{542}{}{Did you hear Metzger died? I don't know what to do now.}
-{543}{}{What's going to happen to the Den now? Maybe something better.}
-{544}{}{This could actually be for the better.}
+{532}{}{Ett särskilt tack till dig!}
+{533}{}{Jag har äntligen givit igen för mot Tyler för vad han gjorde mot min bror.}
+{534}{}{Tack igen.}
+{540}{}{Nu när Metzger är död vet jag inte vad som kommer att hända.}
+{541}{}{Vi kanske bara ska packa ihop.}
+{542}{}{Hörde du att Metzger dog? Jag vet inte vad jag ska göra nu.}
+{543}{}{Vad kommer att hända med Lyan nu? Kanske något bättre.}
+{544}{}{Detta kan faktiskt vara till det bättre.}
 {550}{}{Din jävel!}
 {551}{}{Subba!}
 {560}{}{Thanks. Here's your money and $100 extra.}

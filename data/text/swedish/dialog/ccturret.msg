@@ -1,3 +1,3 @@
-{100}{}{You see a Plasma Turret.}
-{101}{}{You see a Mk II Plasma Turret.}
-{102}{}{A sign on the turret warns that tampering with it will most likely result in death.}
+{100}{}{Du ser ett Plasma-torn.}
+{101}{}{Du ser ett Mk II Plasma-torn.}
+{102}{}{En skylt på tornet varnar för att manipulering av tornet sannolikt kommer att leda till dödsfall.}

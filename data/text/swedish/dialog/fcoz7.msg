@@ -64,7 +64,7 @@
 {163}{}{Fine, I'll join.}
 {164}{}{Forget it. I don't like strong-arm tactics.}
 {165}{}{The oppressive Shi have been contesting our power and wreaking havoc among our brethren with their neurodyne-influencing ways. We believe that if their Emperor is killed, they will see the error of their ways. Will you kill the Emperor?}
-{166}{}{Yeah, I'll do it.}
+{166}{}{Ja, jag ska göra det.}
 {167}{}{No, the Shi have never done anything to me.}
 {168}{}{Perhaps you will reconsider. Let me know if you do. Now, is there anything the Hub can provide for you, recruit?}
 {169}{}{Yes, I have some questions.}

@@ -1,53 +1,53 @@
 {100}{}{Bạn thấy một người ở nhờ.}
-{101}{}{You see a man covered in dirt and filth.}
-{102}{}{You see a woman covered in dirt and filth.}
+{101}{}{Bạn thấy một người đàn ông ngập trong bụi đất và rác bẩn.}
+{102}{}{Bạn thấy một phụ nữ ngập trong bụi đất và rác bẩn.}
 {103}{}{Muốn gì?}
-{104}{}{I want you and your friends out of this building. It's come to my attention that Mom intends to turn this place
- into an orphanage to get all those homeless children off the streets. And she can't do that with you squatting here.}
-{105}{}{[He snickers uneasily and glances at his fellow squatters for support.] Mom knows the deal. We're not going anywhere
- until she coughs up the money. So unless you brought us a million coins, fuck off.}
-{106}{}{Look, Mom doesn't have that kind of money, and even if she did, she'd never pay you, so just forget it. Why not show
- some decency and go squat someplace else? Those homeless kids need this place a hell of a lot more than you do.}
-{107}{}{Who're you to say who deserves what? We *like* it here. You can't make us leave.}
-{108}{}{Listen, you have two choices: You can either walk out of here on your own two feet, or *I* can remove you -- by dragging
- you out, one corpse at a time.}
-{109}{}{([He exchanges a look with his fellow squatters, then looks back at you and shakes his head.] You can't intimidate us.
- No one's kicking us out of here. We'll fight you for our turf.}
-{110}{}{[He exchanges a look with his fellow squatters, then looks back at you and nods.] OK, you made your point. It's not like
- we hate kids or anything, hell, most of us were homeless kids ourselves. We were just trying to make some money, you know? The
- only jobs around here involve peddling drugs or pain, and we're not into that. [He sighs.] We'll leave, but where do you suggest
- we go? This place is our home.}
-{111}{}{I don't know. That's not my problem.}
-{112}{}{I may regret saying this, but if you're serious about wanting jobs, I'm sure Mom could use some help fixing this place up. She's a real nice lady,
- so maybe if you apologize, she'd give you a fair chance to prove you're more than a bunch of lazy opportunists. I'll talk to her about it. But if you try to
- fuck her over, I'll hunt you down and make you pay.}
-{113}{}{Screw this, I changed my mind. We ain't leaving. We're staying right here and fighting.}
-{114}{}{[He exchanges a look with the other squatters and ponders your words.] You know what? That doesn't sound too bad. In fact, that could work out great,
- if you really think Mom will go for it. While you go talk to her, we'll get started on cleaning this place up. Oh, and thanks for being so cool about things.}
-{115}{}{Nevermind.}
-{116}{}{She's not going to pay you. But I'm here to offer you a new deal: You and your friends walk away from here now, and you get to keep your lives.}
-{117}{}{Alright, well, I gave it a shot. Bye.}
-{120}{}{This is a great idea. We'll get things ready.}
+{104}{}{Tôi muốn ông và lũ bạn ra khỏi tòa nhà này. Tôi biết là Bà Má định biến nơi này thành một trại trẻ mồ côi và giúp
+lũ trẻ vô gia cư không phải bám đường nữa. Và bà ấy không thể làm vậy nếu các người cứ chầu ở đây.}
+{105}{}{[Hắn ta cười khẩy một cách chịu rồi liếc nhìn đám đồng bọn sống nhờ tìm kiếm sự trợ giúp]. Bà Má phải biết chứ. Bọn ta sẽ
+không đi đâu cho đến khi bà ta nôn tiền ra. Vì vậy trừ phi ngươi mang một triệu xu đến đây, không thì biến.}
+{106}{}{Xem này, Bà Má đào đâu ra khoản tiền đấy, mà nếu có thì bà ấy cũng không bao giờ đưa cho mấy người đâu, quên đi. Sao
+không tốt tính lên một chút và đi chầu chỗ khác ấy? Lũ trẻ vô gia cư cần nơi này hơn bất kì ai trong số các ông.}
+{107}{}{Mày là ai mà lên mặt dạy rằng ai xứng với cái gì? Bọn ta *thích* nơi này. Bọn ta sẽ không đi đâu cả.}
+{108}{}{Nghe này, các người có hai sự lựa chọn: Tự đứng lên bằng hai chân và bước ra khỏi đây, hoặc *ta* có thể giúp -- bằng cách
+kéo các ông ra, từng cái xác một.}
+{109}{}{(Hắn ta nhìn lũ sống nhờ đồng bọn, rồi nhìn lại bạn và lắc đầu]. Mày không dọa được bọn ta đâu. Không ai đuổi được
+bọn ta cả. Bọn ta sẽ chiến đấu vì lãnh thổ của mình.}
+{110}{}{[Hắn ta nhìn lũ sống nhờ đồng bọn, rồi nhìn lại bạn và gật đầu]. OK, ngươi nói cũng có lí. Bọn ta cũng đâu có ghét trẻ con đâu,
+mẹ nó chứ, phần lớn người ở đây đều từng là trẻ không nhà. Bọn ta chỉ đang cố kiếm chút tiền thôi, hiểu chứ? Công việc duy nhất
+ở đây là đi bán cần hoặc đấm nhau, và bọn ta không muốn làm vậy [Hắn ta thở dài]. Bọn ta sẽ đi, nhưng ngươi thử nói xem bọn ta
+phải đi đâu? Đây là nhà của bọn ta.}
+{111}{}{Ta không biết. Không phải vấn đề của ta.}
+{112}{}{Có thể ta sẽ thấy hối hận vì điều này, nhưng nếu các người thực sự muốn tìm việc thì chắc là Bà Má có thể sẽ cần người giúp sửa sang lại chỗ này. Bà ấy
+là một phụ nữ tốt bụng, nên nếu các người xin lỗi thì bà ấy sẽ cho các người cơ hội để chứng tỏ rằng mình không chỉ là một lũ kền kền lười biếng. Ta sẽ
+nói chuyện với bà ấy. Nhưng nếu các người giở trò thì ta sẽ đi săn từng đứa một và bắt các người trả giá.}
+{113}{}{Mẹ nó chứ, tao đổi ý rồi. Bọn tao không đi đâu. Bọn tao sẽ ở đây và chiến đấu.}
+{114}{}{[Hắn ta nhìn lũ đồng bọn sống nhờ và suy nghĩ về lời của bạn]. Biết gì không? Nghe có vẻ ổn đấy. Thật ra mà nói thì như vậy sẽ rất tốt, nếu ngươi thật sự
+nghĩ rằng Bà Má sẽ đồng ý. Trong lúc ngươi đi nói chuyện với bà ta, bọn ta sẽ bắt đầu dọn dẹp nơi này. Ồ, cám ơn đã không dùng bạo lực.}
+{115}{}{Quên đi.}
+{116}{}{Bà ấy sẽ không trả tiền cho các người đâu. Nhưng ta đây sẽ cho các ngươi một thỏa thuận mới: ngươi và lũ bạn cuốn xéo khỏi đây ngay thì vẫn còn được sống.}
+{117}{}{À, được rồi, để ta thử. Tạm biệt.}
+{120}{}{Ý hay đấy. Bọn ta sẽ chuẩn bị sẵn sàng mọi thứ.}
 {200}{}{Hở?}
-{201}{}{This is our turf.}
-{202}{}{You squatting here too?}
-{203}{}{Got anything to eat?}
-{300}{}{You see a man in work clothes.}
-{301}{}{You see a woman in work clothes.}
-{310}{}{Hey, thanks for helping to set this up for us. We'll work hard.}
-{311}{}{You better. Make sure the children stay out of trouble too.}
-{312}{}{We'll do our best.}
+{201}{}{Đây là lãnh địa của bọn ta.}
+{202}{}{Ngươi cũng đến đây chầu à?}
+{203}{}{Có gì đớp không?}
+{300}{}{Bạn thấy một người đàn ông trong bộ đồ lao động.}
+{301}{}{Bạn thấy một phụ nữ trong bộ đồ lao động.}
+{310}{}{Ầy, cám ơn đã giúp chúng tôi việc này. Chúng tôi sẽ làm việc chăm chỉ.}
+{311}{}{Phải vậy chứ. Nhớ trông chừng tránh để lũ trẻ gặp rắc rối nữa.}
+{312}{}{Bọn tôi sẽ cố hết sức.}
 {313}{}{Chào.}
-{350}{}{Anywhere but here. The Den's a big place, I'm sure you can find somewhere else to crash. Come on, do you really want the children to live on the streets?}
-{351}{}{Nah, you're right, that ain't cool for the children. Alright, we'll pack our things and move out. This place had a leaky roof anyway.}
-{352}{}{Thanks. This will mean a lot to them. Take care.}
-{353}{}{Nah, that ain't our problem. If Mom thinks it's that important to get those kids off the streets, then she should stop being stingy with her cash and share the
- wealth. Yeah, I've changed my mind, we're staying until she pays up. Now this conversation's over, so you better leave if you know what's good for you.}
-{360}{}{Alright. No need for this to get out of control. I'll leave you alone.}
-{361}{}{Time to clean this place up then. (Attack)}
-{400}{}{Thanks again!}
-{401}{}{We'll work hard.}
-{402}{}{Thanks for being so cool about things.}
-{403}{}{We won't let you down.}
-{500}{}{We'll collect our things and be out of here soon.}
-{600}{}{You've cleared out all the squatters.}
+{350}{}{Đâu chả được. The Den rộng thế này cơ mà, ta chắc là mấy người nằm chỗ nào cũng vừa. Thôi nào, các người thực sự muốn lũ trẻ phải bám đường sao?}
+{351}{}{Chẹp, ngươi nói đúng, đám trẻ không đáng bị như vậy. Được rồi, bọn ta sẽ dọn đồ và đi chỗ khác. Nơi này đằng nào cũng dột nát rồi.}
+{352}{}{Cám ơn. Bọn trẻ sẽ biết ơn lắm đấy. Bảo trọng.}
+{353}{}{Này, đâu phải vấn đề của bọn ta. Nếu Bà Má nghĩ rằng bọn trẻ không cần phải sống trên vỉa hè thì bà ta nên thôi cái tính ki bo đi và chìa tiền ra. Ừ, ta đổi ý rồi.
+Bọn ta sẽ ở đây cho đến lúc bà ta trả tiền. Bây giờ tán chuyện xong rồi, nếu ngươi biết điều thì tốt nhất là biến đi.}
+{360}{}{Được rồi. Không cần phải xửng cồ lên thế. Ta sẽ để mặc các người.}
+{361}{}{Đã đến lúc dọn dẹp chỗ này rồi. (Tấn công)}
+{400}{}{Cám ơn nhé!}
+{401}{}{Bọn tôi sẽ làm việc chăm chỉ.}
+{402}{}{Cám ơn đã không dùng bạo lực.}
+{403}{}{Bọn tôi sẽ không làm bạn thất vọng đâu.}
+{500}{}{Bọn ta sẽ dọn đồ và biến khỏi đây ngay.}
+{600}{}{Bạn đã tống cổ hết lũ sống nhờ.}

@@ -205,7 +205,7 @@
 {601}{}{ Fertig?}
 {700}{}{Du hast dich erfolgreich als Brahmin-Dieb betätigt.}
 {702}{}{Nein, Ich werde euch erzählen für was ihr die habt. Ihr verkleidet euch als "Wanzen Männer" und erschreckt den armen, alten Torr damit er von seiner Brahmin Herde wegrennt, oder?! Jetzt macht alles Sinn. Ihr seid einfach nur ein paar unnütze Raufbolde.}
-{703}{}{[Die beiden Brüder Dunton reißen die Augen weit auf und werden plötzlich ganz nervös.]  Jj..jjj...ja und... was geht dich das an Wilder? Jeder braucht hin und wieder etwas Extraeinkommen. Was geht dich das überhaupt an? Was willst du jetzt eigentlich überhaupt tun, häh?}
+{703}{}{[Die beiden Brüder Dunton reißen die Augen weit auf und werden plötzlich ganz nervös.] Jj..jjj...ja und... was geht dich das an Wilder? Jeder braucht hin und wieder etwas Extraeinkommen. Was geht dich das überhaupt an? Was willst du jetzt eigentlich überhaupt tun, häh?}
 {704}{}{Ich sag euch was. Wenn ihr aufhört die Brahmin zu stehlen und Torr zu verarschen, werde ich mich nicht einmischen. Alles was ich brauche ist euer Wort. Wenn ich aber einen von euch nochmal beim Brahminstehlen erwische, wird nicht mehr viel von euch übrig bleiben. Verstanden?!}
 {705}{}{[hyuk, hyuk, hyuk] Ja, Ok Wilder. Ich denke es wird mal Zeit. dass wir dir beibringen was man hier mit nervigen Wilden macht.}
 {706}{}{Also gut Wilder, du gewinnst dieses Mal. Wir werden aufhören, jetzt lass uns einfach in Ruhe.}

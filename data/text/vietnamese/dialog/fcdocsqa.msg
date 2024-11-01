@@ -16,7 +16,7 @@
 {115}{}{Leave my children alone!}
 {116}{}{Stop! Don't hurt us!}
 {117}{}{I'll do anything!}
-{118}{}{Help!}
+{118}{}{Cứu với!}
 {119}{}{Oh no! An oppressor!}
 {120}{}{Oh, if only we had guards!}
 {121}{}{I regret giving up the protection of society now...}

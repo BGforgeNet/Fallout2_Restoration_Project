@@ -211,7 +211,7 @@
  dollars for the Jet, your silence... and no more questions. Do you want the job?}
 {273}{}{Well, what do you know? I have a sample of Jet right here.}
 {274}{}{What's to keep me from turning you in right now?}
-{275}{}{Sure, I'll do it.}
+{275}{}{Được, ta sẽ làm vậy.}
 {276}{}{I'm not interested.}
 {277}{}{You do?}
 {278}{}{Excellent! Thank you, my friend... you have no idea how important this is to my work. Here is

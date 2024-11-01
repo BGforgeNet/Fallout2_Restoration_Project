@@ -110,7 +110,7 @@
 {435}{}{Sí, bueno, sólo ten cuidado. Se están diciendo cosas que no se deben de los Wright, así que no dispares así por la boca, ¿de acuerdo?}
 {436}{}{No se ciega a sí mismo a la posibilidad de que podría haber estado tomando. Jet es extremadamente adictivo.}
 {437}{}{OYE, chico, no me vengas con esas. Si sabes lo que te conviene, dejarás de darle vueltas todo el tiempo
-  a cualquier verdad que te muerde el culo de cerca que está.}
+ a cualquier verdad que te muerde el culo de cerca que está.}
 {438}{}{Lo siento, no quería ofender. Oye, tenía algunas preguntas más…}
 {439}{}{Entendido. Mejor será que me vaya. }
 {445}{}{Piérdete. No tengo nada más que decirte.}

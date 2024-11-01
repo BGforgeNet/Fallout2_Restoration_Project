@@ -1,5 +1,5 @@
 {100}{}{You see a well-traveled person.}
-{101}{}{You see a merchant.}
+{101}{}{Du ser en handlare.}
 {102}{}{Wow, I rarely see people out here.}
 {103}{}{Hey! Wait! I have things that could help you along!}
 {104}{}{Hey! Do you have anything to trade for these?}

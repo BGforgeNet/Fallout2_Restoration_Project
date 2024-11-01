@@ -109,7 +109,7 @@
 {1108}{}{Do smathed by teef out!}
 {1109}{}{Hey, I part my hair on the *other* side.}
 {1110}{}{Hah, at least you didn't hit anything important.}
-{1111}{}{Oooh, my head.}
+{1111}{}{Ồ ôi, cái đầu tôi.}
 {1112}{}{I feel kinda dizzy.}
 {1113}{}{Aggghhh! My arm!}
 {1114}{}{My arm!}
@@ -693,7 +693,7 @@
 {2000}{}{Mercy!}
 {2001}{}{Somebody help me!}
 {2002}{}{Please stop!}
-{2003}{}{Help!}
+{2003}{}{Cứu với!}
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
 {2006}{}{Somebody help meeeee!}
@@ -1273,7 +1273,7 @@
 {3165}{}{Too slow!}
 {3166}{}{OK, let's try that at full speed now.}
 {3167}{}{Were you actually aiming at me?}
-{3168}{}{What was that?}
+{3168}{}{Cái gì đấy?}
 {3169}{}{This is not a charade.}
 {3170}{}{Combat requires total concentration.}
 {3171}{}{Shame that your first time is gonna be your last too.}
@@ -1657,7 +1657,7 @@
 {14049}{}{Leave the earthman to me! Always wanted to say that.}
 {14060}{}{Hah, you clumsy biped!}
 {14061}{}{Off balance again!}
-{14062}{}{What was that?}
+{14062}{}{Cái gì đấy?}
 {14063}{}{This is not a charade!}
 {14064}{}{What? You again?}
 {14065}{}{Were you really trying? How sad.}
@@ -2955,7 +2955,7 @@
 {41369}{}{Swing, batta, batta. Swing!}
 {41370}{}{This old ghoul's more spry than you bargained for huh?}
 {41371}{}{You sure *talk* tough.}
-{41372}{}{What was that?}
+{41372}{}{Cái gì đấy?}
 {41373}{}{Dis is not a chawade.}
 {41374}{}{Dis wequires toto concentwation.}
 {41375}{}{You can do better than *that*.}
@@ -3037,7 +3037,7 @@
 {41671}{}{My knee!}
 {41672}{}{My ankle!}
 {41673}{}{My calf!}
-{41674}{}{Shit!}
+{41674}{}{Cứt thật!}
 {41675}{}{Mẹ kiếp!}
 {41676}{}{That's gonna scar.}
 {41677}{}{Ow!}

@@ -7,7 +7,7 @@
 {105}{}{You! Me! Go!}
 {106}{}{Vem är du?}
 {107}{}{Why are you in jail?}
-{108}{}{What can you tell me about this place?}
+{108}{}{Vad kan du berätta om den här platsen?}
 {109}{}{What can you tell me about Marcus?}
 {110}{}{I got no idea what you're saying, freak. Get out of my sight.}
 {111}{}{Oooooh...}

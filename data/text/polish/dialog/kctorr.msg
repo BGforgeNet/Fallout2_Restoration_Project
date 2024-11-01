@@ -9,7 +9,7 @@
 {115}{}{Torr cierpi. Zły ludzie! Zły!}
 {120}{}{Torr pomocy! (Proszę, pomóż mi. Jakaś istota nie pozwala mi się stąd wydostać.)}
 {121}{}{Torr pomocy!}
-{122}{}{Torr pomocy. (Zaraz ci pomogę, Torr. Wytrzymaj jeszcze chwilę!)}
+{122}{}{ Torr pomocy. (Zaraz ci pomogę, Torr. Wytrzymaj jeszcze chwilę!)}
 {123}{}{Próbuję ci pomóc, Torr.}
 {130}{}{Pii Pii złe! Pomusz Torr! (Uważaj na Ducha Który Chodzi! Porozmawiamy jak mnie stąd wydostaniesz.)}
 {131}{}{Pii Pii! Nów! Zły Duch! Pomusz Torr! Torr już iść!}
@@ -33,7 +33,7 @@
 {166}{}{Kupać Uu? (Zanim weźmiemy się do roboty Torr, możesz mi coś powiedzieć o kupcu zamieszkującym to miasto?)}
 {170}{}{Ty pomusz Torr. Pole muu-muu (wskazuje na wschód) ciemno tak? (uśmiecha się) (Dzięki za pomoc.)}
 {171}{}{Ty pomusz Torr. Pole muu-muu (wskazuje na wschód) ciemno tak? (uśmiecha się)}
-{172}{}{Pomusz Torr. (Spotkajmy się na pastwisku, na wschód stąd, o zachodzie słońca.)}
+{172}{}{ Pomusz Torr. (Spotkajmy się na pastwisku, na wschód stąd, o zachodzie słońca.)}
 {173}{}{Torr? (Pomogę ci pilnować stada, ale mam jeszcze kilka ważnych pytań.)}
 {174}{}{Pomogę ci pilnować stada dziś w nocy, Torr. Spotkamy się na pastwisku, na wschód stąd, o zachodzie słońca. Do zobaczenia.}
 {175}{}{Przykro mi Torr, ale nie mogę ci pomóc. Żegnaj.}

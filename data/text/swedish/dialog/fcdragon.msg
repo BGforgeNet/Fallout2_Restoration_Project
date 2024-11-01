@@ -57,7 +57,7 @@
 {156}{}{[BEGIN]}
 {157}{}{Yet, in a formalized fighting environment, you cannot dispute that you have entered this arena of your own choosing. Once you have so entered, should you not abide by its rules?}
 {158}{}{Yes, probably. But in a live or die situation, you must do anything to survive.}
-{159}{}{No, I don't think so.}
+{159}{}{Nej, det tror jag inte.}
 {160}{}{You have a point. Well then. If you wish to fight Lo Pan, will you do it unarmed and unarmored? If we are to ask for your aid in this, we request that you abide by our rules.}
 {161}{}{Yeah, I'll do it your way.}
 {162}{}{Nope. Forget it.}

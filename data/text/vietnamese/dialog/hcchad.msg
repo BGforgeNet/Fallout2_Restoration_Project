@@ -21,12 +21,12 @@
 {136}{}{I'd like to get a job with you.}
 {137}{}{Sounds exciting.}
 {138}{}{Sounds boring.}
-{139}{}{I have more questions.}
+{139}{}{Tôi muốn hỏi thêm.}
 {140}{}{Cám ơn. Tạm biệt.}
 {141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
  that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
-{142}{}{I have more questions.}
+{142}{}{Tôi muốn hỏi thêm.}
 {143}{}{Chào.}
 {144}{}{Like what?}
 {145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
@@ -34,13 +34,13 @@
 {147}{}{Look, I don't know anything about that, and I sure as hell don't like it when people accuse me of things. Now I suggest you leave.}
 {150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Talk to the Bill. He'll help you out.}
-{157}{}{I have more questions.}
+{157}{}{Tôi muốn hỏi thêm.}
 {158}{}{Cám ơn. Tạm biệt.}
 {159}{}{Yeah, it is. You wouldn't think it, but I get to travel and see the world... and I feel I
  contribute to the town here. It's a good life.}
 {160}{}{Sounds great. I'd like a job like that.}
 {161}{}{Actually, that sounds pretty boring.}
-{162}{}{I have more questions.}
+{162}{}{Tôi muốn hỏi thêm.}
 {163}{}{Chào.}
 {164}{}{Probably a hell of a lot more exciting than what you do with your life, jerkoff.}
 {165}{}{Yeah, whatever. I have more questions.}

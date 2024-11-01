@@ -1,11 +1,11 @@
-{100}{}{You see a guard.}
-{101}{}{You see one of the guards helping you with this caravan run.}
-{200}{}{You see a caravan driver.}
-{201}{}{You see one of the drivers helping you with this caravan run.}
-{300}{}{I hope we don't get too many more encounters along the way.}
-{301}{}{It'll be good to get that paycheck at the end of the run.}
-{302}{}{I hope they have the bar open for when I get there.}
-{303}{}{It'll be good to get some real food for once.}
-{304}{}{I always wanted to travel. I guess this is the closest thing to it.}
-{305}{}{My feet are killing me. I wish those stupid brahmin would hurry up.}
-{306}{}{I hear that we don't have much further to go on this trip.}
+{100}{}{Du ser en vakt.}
+{101}{}{Du ser en av vakterna som hjälper dig med karavanrundan.}
+{200}{}{Du ser en karavanförare.}
+{201}{}{Du ser en av förarna som hjälper dig med den här karavanrundan.}
+{300}{}{Jag hoppas att vi inte råkar ut för alltför många fler möten längs vägen.}
+{301}{}{Det ska bli skönt att få den där lönechecken i slutet av rundan.}
+{302}{}{Jag hoppas att de har baren öppen när jag kommer dit.}
+{303}{}{Det ska bli skönt att få lite riktig mat för en gångs skull.}
+{304}{}{Jag har alltid velat resa. Jag antar att det här är det närmaste jag kommer det.}
+{305}{}{Mina fötter tar kol på mig. Jag önskar att de där dumma brahminerna kunde skynda sig.}
+{306}{}{Jag har hört att vi inte har så långt kvar på den här resan.}

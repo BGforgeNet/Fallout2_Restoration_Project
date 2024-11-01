@@ -193,7 +193,7 @@
 {641}{}{You wait until it gets dark...}
 {642}{}{[...then you follow the kids into the desert.]}
 {700}{}{GET AWAY FROM ME!}
-{701}{}{Ahhh...}
+{701}{}{À à...}
 {702}{}{Help me, help me...}
 {703}{}{MEAN PERSON! GET AWAY!}
 {704}{}{GET AWAY FROM ME!}

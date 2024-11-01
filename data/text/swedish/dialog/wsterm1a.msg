@@ -37,7 +37,7 @@
 {131}{}{Hack into Security Systems}
 {132}{}{You don't have a clue. Exit.}
 {133}{}{[Pressing <Ctrl><Alt><C> causes the program to crash. You hope the rest of the security measures are this easy to defeat.]}
-{134}{}{Exit.}
+{134}{}{Avsluta.}
 {135}{}{Security Breach Level 1
                                    Activating Security Protocol
                                    User access to this terminal is terminated

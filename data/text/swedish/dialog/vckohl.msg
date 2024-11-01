@@ -94,13 +94,13 @@
 {185}{}{Here you go. I hope you enjoy reading them. They are some of my favorites... a little on the technical side, but still quite good.}
 {186}{}{Thanks. Do you mind if I ask you some other questions?}
 {187}{}{Great. I'll go check these out.}
-{188}{}{The books are being entered into one of the library terminals on the third level of the Vault.
- I don't recall which one... it's not one of the ones in the central core, though.}
-{189}{}{Why is everything being transcribed?}
+{188}{}{Böckerna matas in i en av biblioteksterminalerna på tredje våningen i Valvet.
+ Jag minns inte vilken... det är inte en av dem i den centrala kärnan, dock.}
+{189}{}{Varför transkriberas allt?}
 {190}{}{How can I get down to the Vault?}
-{191}{}{I see. Do you mind if I ask you some other questions?}
-{192}{}{Maybe I'll go see if I can find it.}
-{193}{}{! Well done! Bravo!}
+{191}{}{Jag förstår. Har du något emot att jag ställer några andra frågor?}
+{192}{}{Jag kanske ska se om jag kan hitta den.}
+{193}{}{! Bra gjort! Bravo!}
 {194}{}{Oh, I will for sure! I wish there were more people who did, too.}
 {195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
 {196}{}{Är det sant? Brukade du göra det?}

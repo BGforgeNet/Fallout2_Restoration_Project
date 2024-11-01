@@ -157,7 +157,7 @@
 {639}{}{Może opowiesz mi o tym ostatnim etapie, a ja zastanowię się, czy ci pomóc.}
 {640}{}{Komu go dać?}
 {641}{}{Drugi etap?}
-{650}{}{ Mimo twoich obiekcji co do sprawowania kontroli nad światem przez gryzonia, musisz pamiętać, że moje działania zmierzają ku poprawie życia tysięcy mieszkańców Kryptopolis i Gecko. Moje pobudki nie powinny przysłaniać ci szczytnego celu, ku któremu zmierzamy.}
+{650}{}{Mimo twoich obiekcji co do sprawowania kontroli nad światem przez gryzonia, musisz pamiętać, że moje działania zmierzają ku poprawie życia tysięcy mieszkańców Kryptopolis i Gecko. Moje pobudki nie powinny przysłaniać ci szczytnego celu, ku któremu zmierzamy.}
 {651}{}{Masz już dysk z danymi z reaktora. Teraz musisz coś z nim zrobić.}
 {652}{}{Dysk z danymi został już przeanalizowany. Teraz musisz go użyć.}
 {653}{}{Do naprawy naszego reaktora potrzebna jest pewna specjalistyczna część.}

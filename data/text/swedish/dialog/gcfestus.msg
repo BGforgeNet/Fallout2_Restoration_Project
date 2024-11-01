@@ -171,7 +171,7 @@
 {530}{}{Festus leaves and then comes back. He looks very pleased about something.}
 {600}{}{I have a reactor data disk that may help you optimize the reactor.}
 {610}{}{Okay, give it to me and I'll see what I can do.}
-{620}{}{Here you go.}
+{620}{}{Varsågod.}
 {630}{}{No, I think I'll keep it for now.}
 {640}{}{Okay. Looks good. Thanks for all your help.}
 {650}{}{Sure. No problem.}

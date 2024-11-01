@@ -11,7 +11,7 @@
 {110}{}{You are a hero to all fathers out there. Keep it up!}
 {111}{}{zzzZZZZzzz...}
 {112}{}{zZZZZzzZZzzz...}
-{113}{}{*mumbles*}
+{113}{}{*mumlar*}
 {114}{}{Can't you see I'm drinking here? *hickup*}
 {115}{}{Don't bother me. *hickup*}
 {116}{}{Actually it is a little before 11 O'clock, but that's not important right now. Seriously though, do you know where your children are?}

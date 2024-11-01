@@ -37,12 +37,12 @@
 {136}{}{It's juhst nuh-not muh-many people come inta the Vault.}
 {137}{}{(That's okay. It's just not many people come into the Vault.)}
 {138}{}{(Sorry. It's just not many people come into the Vault.)}
-{139}{}{What is it you do here?}
+{139}{}{Vad gör ni här?}
 {140}{}{Can you tell me where the Vault Central Computer is?}
 {141}{}{Oh. Great talking to you. Goodbye.}
 {142}{}{Itz juhst over th-there... itz th' tuh-tuh-talking cuh-cuh-compuhter.}
 {143}{}{(It's just over there. It's the talking computer.)}
-{144}{}{What is it you do here?}
+{144}{}{Vad gör ni här?}
 {145}{}{Thanks. Goodbye.}
 {146}{}{Juhst keep an uh-uh-eye on things in stuh-storage down here. Muh-Muh-Make shure all the doors stay luh-luh-locked.}
 {147}{}{(Just keep an eye on things in storage down here. Make sure all the doors stay locked.)}

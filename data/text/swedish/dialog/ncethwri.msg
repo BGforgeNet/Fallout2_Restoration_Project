@@ -102,7 +102,7 @@
 {347}{}{Maybe I'll go look for him right now.}
 {350}{}{Hmmph! Of all the crass rudeness! If you see me again, you had best simply pass by in silence.}
 {351}{}{That's the plan.}
-{352}{}{Very well.}
+{352}{}{Mycket bra.}
 {355}{}{Why, yes, yes, he is. (Squints at you again.) I'm sorry, do you know my husband?}
 {356}{}{Yes, I know him. The Wright family controls the distribution of alcohol in New Reno.}
 {357}{}{Not personally, but I know the Wrights control the distribution of alcohol in New Reno.}

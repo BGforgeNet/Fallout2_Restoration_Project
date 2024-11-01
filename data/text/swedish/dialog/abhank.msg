@@ -6,34 +6,34 @@
 {202}{}{This is perfect. Thanks!}
 {203}{}{Out of curiosity, what exactly are you doing here?}
 {204}{}{Sure. Since you brought me a lighter, here's one on the house.}
-{205}{}{[Drink it.]}
-{206}{}{I changed my mind I don't want any alcohol. Bye.}
-{207}{}{(You feel warm and relaxed after you gulp down the wine.)}
-{208}{}{Gimme another, Hank.}
-{209}{}{I'll go now, bye.}
-{210}{}{(Suddenly you feel like shit, then your vision begins to blur. You fall on the ground...)}
+{205}{}{[Drick det.]}
+{206}{}{Jag har ändrat mig Jag vill inte ha någon alkohol. Hej då.}
+{207}{}{(Du känner dig varm och avslappnad efter att du har druckit vinet).}
+{208}{}{Ge me' en till, Hank.}
+{209}{}{Jag ska gå nu, hej då.}
+{210}{}{(Plötsligt mår du skit, sedan börjar din syn bli suddig. Du faller på marken...)}
 {211}{}{[KLAR]}
-{212}{}{No, Sorry.}
-{213}{}{Hi, again.}
-{214}{}{Hi and bye.}
-{215}{}{This one won't be free. It'll cost you $20.}
-{216}{}{Sure. Here's the money.}
-{217}{}{Nah, I've had enough. Maybe next time.}
-{218}{}{(He pockets the money.) Alright then, here's the drink.}
-{219}{}{I'll come back when I have more money.}
-{220}{}{Any luck finding a lighter?}
-{250}{}{I would like to buy some of the alcohol you make here.}
-{251}{}{Just looking around. Take care.}
-{252}{}{Sure. $20 a bottle.}
-{253}{}{[Hold on to it.]}
-{300}{}{Where did I put my lighter?}
-{301}{}{I need a lighter.}
-{302}{}{COULD SOMEONE BRING ME A LIGHTER!?}
-{303}{}{Uh, hi there.}
-{304}{}{Sorry, I can't chat with you now.}
-{400}{}{Ooh, look at all those pretty stars!}
-{500}{}{Hello. Need something?}
-{501}{}{Hey, thanks again for the lighter. It's better than my old one.}
+{212}{}{Nej, tyvärr.}
+{213}{}{Hej igen.}
+{214}{}{Hej och hej då.}
+{215}{}{Den här kommer inte att vara gratis. Den kommer att kosta dig $20.}
+{216}{}{Visst. Här är pengarna.}
+{217}{}{Nej, jag har fått nog. Kanske nästa gång.}
+{218}{}{(Han stoppar pengarna i fickan.) Okej då, här är drinken.}
+{219}{}{Jag kommer tillbaka när jag har mer pengar.}
+{220}{}{Har du lyckats hitta en tändare?}
+{250}{}{Jag skulle vilja köpa lite av alkoholen som ni tillverkar här.}
+{251}{}{Jag ser mig bara omkring. Ta hand om dig.}
+{252}{}{Visst. $20 flaskan.}
+{253}{}{[Håll i den.]}
+{300}{}{Var har jag lagt min tändare?}
+{301}{}{Jag behöver en tändare.}
+{302}{}{KAN NÅGON GE MIG EN TÄNDARE!?}
+{303}{}{Eh, hej på dig.}
+{304}{}{Tyvärr, jag kan inte snacka med dig nu.}
+{400}{}{Åh, titta på alla vackra stjärnor!}
+{500}{}{Hallå. Behöver du något?}
+{501}{}{Hej, tack igen för tändaren. Den är bättre än min gamla.}
 {600}{}{We brew our own alcohol here at the monastery. Some of the most powerful stuff you'll taste in the Wastes.}
 {601}{}{Mind if I try some?}
 {602}{}{Sounds interesting. I must be going.}

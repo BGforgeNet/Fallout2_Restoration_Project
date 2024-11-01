@@ -1,48 +1,48 @@
-{100}{}{You see a gangster.}
-{150}{}{He seems to be a member of Lara's gang.}
-{151}{}{She seems to be a member of Lara's gang.}
+{100}{}{Du ser en gangster.}
+{150}{}{Han verkar vara medlem i Laras gäng.}
+{151}{}{Hon verkar vara medlem i Laras gäng.}
 {200}{}{Wise guy.}
-{201}{}{There you are.}
-{202}{}{Pay back.}
-{203}{}{Come here.}
-{204}{}{I'm not through with you.}
+{201}{}{Där får du.}
+{202}{}{Hämnd.}
+{203}{}{Kom hit.}
+{204}{}{Jag är inte färdig med dig.}
 {205}{}{Subba.}
-{225}{}{Wonder how long things will last around here with Metzger gone?}
-{226}{}{So, Metzger's finally dead?}
-{227}{}{Was that your handiwork?}
-{228}{}{The Den'll never be the same again.}
-{240}{}{I can't believe it, we actually beat them!}
-{241}{}{Metzger's got to show us respect now.}
-{242}{}{We sure showed them.}
-{243}{}{We gave 'em our own brand of justice.}
-{244}{}{We couldn't have done it without you!}
-{245}{}{Thank you for your help!}
-{246}{}{We did it!}
-{247}{}{You screwing around with us?}
-{248}{}{Better watch your step.}
-{249}{}{Lara's the only reason we don't string you up right now.}
-{250}{}{What were you trying to pull?}
+{225}{}{Undrar hur länge det kommer att hålla i sig här nu när Metzger är borta?}
+{226}{}{Så Metzger är äntligen död?}
+{227}{}{Var det ditt hantverk?}
+{228}{}{Lyan kommer aldrig att bli sig lik igen.}
+{240}{}{Jag kan inte tro det, vi slog dem faktiskt!}
+{241}{}{Metzger måste visa oss respekt nu.}
+{242}{}{Vi visade dem verkligen.}
+{243}{}{Vi gav 'em vår egen typ av rättvisa.}
+{244}{}{Vi skulle inte ha klarat det utan dig!}
+{245}{}{Tack för din hjälp!}
+{246}{}{Vi klarade det!}
+{247}{}{Jävlas du med oss?}
+{248}{}{Det är bäst att du är försiktig med var du går.}
+{249}{}{Lara är den enda anledningen till att vi inte hänger dig nu.}
+{250}{}{Vad försökte du åstadkomma?}
 {251}{}{Ynkrygg.}
-{252}{}{You make me sick.}
-{253}{}{Get lost.}
+{252}{}{Du gör mig illamående.}
+{253}{}{Försvinn.}
 {254}{}{Beat it.}
-{255}{}{We're ready when you are.}
-{256}{}{It's about time we pay them back.}
+{255}{}{Vi är redo när du är det.}
+{256}{}{Det är på tiden att vi hämnas på dem.}
 {257}{}{I hate waiting.}
 {258}{}{Let's go already.}
-{259}{}{You ready yet?}
-{260}{}{Just let Lara know when it's time.}
-{270}{}{You looking to join up?}
-{271}{}{You must be here to see Lara.}
-{272}{}{How's it going?}
-{273}{}{Lara's the person you should be talking to.}
+{259}{}{Är du redo än?}
+{260}{}{Säg bara till Lara när det är dags.}
+{270}{}{Vill du gå med i vårt gäng?}
+{271}{}{Du måste vara här för att träffa Lara.}
+{272}{}{Hur går det?}
+{273}{}{Lara är den du borde prata med.}
 {274}{}{Hej.}
-{275}{}{You here to see Lara?}
+{275}{}{Är du här för att träffa Lara?}
 {300}{}{Hej.}
-{301}{}{How's it going?}
-{302}{}{Hope things are going good.}
-{303}{}{So you might be able to help us out?}
-{304}{}{Good to see you.}
+{301}{}{Hur går det?}
+{302}{}{Hoppas att allt går bra.}
+{303}{}{Så du kanske kan hjälpa oss?}
+{304}{}{Kul att se dig.}
 {305}{}{We'll pay back Tyler soon...}
 {306}{}{Any new developments?}
 {310}{}{Thanks for the help. Too bad about Lara.}

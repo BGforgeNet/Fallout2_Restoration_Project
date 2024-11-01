@@ -423,7 +423,7 @@
 {2000}{}{Mercy!}
 {2001}{}{Somebody help me!}
 {2002}{}{Please stop!}
-{2003}{}{Help!}
+{2003}{}{Cứu với!}
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
 {2020}{}{Hmm, uh, stop!}
@@ -816,7 +816,7 @@
 {3165}{}{Too slow!}
 {3166}{}{OK, let's try that at full speed now.}
 {3167}{}{Were you actually aiming at me?}
-{3168}{}{What was that?}
+{3168}{}{Cái gì đấy?}
 {3169}{}{This is not a charade.}
 {3170}{}{Combat requires total concentration.}
 {3171}{}{Shame that your first time is gonna' be your last too.}

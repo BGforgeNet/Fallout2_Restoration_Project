@@ -67,7 +67,7 @@
 {166}{}{No.}
 {167}{}{Formateando... formateando... formateo completo. El reinicio requerirá una instalación completa. Apagando. Apagado... completado...}
 {168}{}{[HECHO]}
-{169}{}{Datos a encontrar: - Programa botánico  - Programa genético  - Programa Xeno.}
+{169}{}{Datos a encontrar: - Programa botánico - Programa genético - Programa Xeno.}
 {170}{}{Programa botánico.}
 {171}{}{Programa genético.}
 {172}{}{Programa Xeno.}
@@ -84,7 +84,7 @@
 {183}{}{Programa botánico.}
 {184}{}{Programa genético.}
 {185}{}{Atrás.}
-{186}{}{Base de datos Química: Combustible y derivados  - Polímeros}
+{186}{}{Base de datos Química: Combustible y derivados - Polímeros}
 {187}{}{Combustible y derivados.}
 {188}{}{Polímeros.}
 {189}{}{Atrás.}
@@ -99,14 +99,14 @@
 {198}{}{[HECHO]}
 {199}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
 {200}{}{[HECHO]}
-{201}{}{Base de datos Física: Exploración  - Teoría}
+{201}{}{Base de datos Física: Exploración - Teoría}
 {202}{}{Exploración.}
 {203}{}{Teoría.}
 {204}{}{Atrás.}
 {205}{}{"Con la reciente adquisición de planos de un vertibird, la posibilidad de crear una máquina voladora viable ha dado un cualitativo paso adelante. Esperamos tener un prototipo funcional a finales de año, y la habilidad de producir en masa este tipo de vehículos en dos años". -Dr. Wong}
 {206}{}{::copiar planos:: Atrás.}
 {207}{}{Atrás.}
-{208}{}{"Aún estamos preparando un modelo funcional de un vehículo aéreo. Ninguno de los diseños que hemos creado han demostrado ser seguros o aerodinámicos. Quizá si tuviéramos acceso a los planos de los antiguos..."  -Dr. Wong}
+{208}{}{"Aún estamos preparando un modelo funcional de un vehículo aéreo. Ninguno de los diseños que hemos creado han demostrado ser seguros o aerodinámicos. Quizá si tuviéramos acceso a los planos de los antiguos..." -Dr. Wong}
 {209}{}{Atrás.}
 {210}{}{(Tras sortear la introducción y las matemáticas, descubres que los Shi están aprendiendo a desarrollar de nuevo energía nuclear, reconstruyendo las teorías de los viajes espaciales de los antiguos -y se burlan de los Hubologistas mientras lo hacen- aprovechando la energía del sol, el viento y el mar. Al menos, eso es lo que pone en las notas).}
 {211}{}{Atrás.}

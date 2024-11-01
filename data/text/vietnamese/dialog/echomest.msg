@@ -13,7 +13,7 @@
  think you just might be one of them. What do you want?}
 {110}{}{I just wanted to trade for supplies.}
 {111}{}{I'm just passing through. I'll be on my way.}
-{112}{}{Ug.}
+{112}{}{Hực.}
 {113}{}{Well, I guess there's no harm in that. Here's what I got to trade.}
 {114}{}{[Barter]}
 {115}{}{OK, now git!}

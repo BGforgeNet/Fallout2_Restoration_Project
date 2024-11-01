@@ -51,7 +51,7 @@
 {312}{}{Looking very nice.}
 {313}{}{You look like crap!}
 {314}{}{Yuk!}
-{315}{}{Ug.}
+{315}{}{Hực.}
 {320}{}{Thank you. Thank you very much! Thanks to you, I have four sets just like these!}
 {321}{}{So you won it big after all?}
 {322}{}{So, where's my money?}
@@ -88,7 +88,7 @@
 {401}{}{Chào.}
 {410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
 {411}{}{Beat it!}
-{412}{}{Ug.}
+{412}{}{Hực.}
 {420}{}{What are you talking about? I don't owe anyone anything. Who the hell are you talking about?}
 {421}{}{Yea, you said that last time. I don't know what you're talking about? Who's this imaginary person again?}
 {422}{}{Becky says you owe her $500}
@@ -126,7 +126,7 @@
 {511}{}{Okay.}
 {520}{}{Say, you know what? That hundred's really going to uh... delay things. Do you think I could borrow a little bit back?}
 {521}{}{How much?}
-{522}{}{No way.}
+{522}{}{Không đời nào.}
 {530}{}{Wait! I know. Tell you what, I'll give you $100 and you spot me for the other $100 I owe Becky. I'll pay you back real soon.}
 {531}{}{Okay fine.}
 {532}{}{No deal.}

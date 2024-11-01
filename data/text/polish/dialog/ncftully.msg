@@ -225,7 +225,7 @@
 {784}{}{A więc Mordino sprzedają Jet do Redding, tak? Ciekawe. Dzięki, Ojcze.}
 {790}{}{Mordino mają... farmę... za miastem. Trzymają tam niewolników. Testują... na nich... Jet. Niewolnicy padają jak muchy. (Wzrusza ramionami) Tylko Mordino wiedzą, gdzie to dokładnie jest.}
 {792}{}{Wspomniał Ojciec o Redding?}
-{794}{}{ Mordinos testują Jet na niewolnikach, tak? Ciekawe. Dzięki, Ojcze.}
+{794}{}{Mordinos testują Jet na niewolnikach, tak? Ciekawe. Dzięki, Ojcze.}
 {800}{}{Mówiłem o Salvatore? (Mruga, wzrusza ramionami, pociąga z butelki) Nie wiem, co mógłbym o nich powiedzieć. Rodzina siedzi cicho jak mysz pod miotłą. Ale lepiej nie włazić im w drogę... wiesz czemu?}
 {803}{}{Chwilowo mnie to nie obchodzi, Ojczulku. Mogę cię zapytać o coś innego?}
 {804}{}{Słuchaj, może wrócimy do tej rozmowy, kiedy trochę wytrzeźwiejesz...}

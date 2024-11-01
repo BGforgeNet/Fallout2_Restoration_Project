@@ -13,13 +13,13 @@
 {112}{}{Move out of my way, you tin can.}
 {113}{}{Let's organize your inventory.}
 {114}{}{Chào.}
-{115}{}{Ug.}
+{115}{}{Hực.}
 {116}{}{[It looks like it wants a banana.]}
 {117}{}{Get out of my way, Bubbles.}
 {118}{}{Wait here.}
 {119}{}{Let's see what's in your inventory, Monkey Boy.}
 {120}{}{Chào.}
-{121}{}{Ug.}
+{121}{}{Hực.}
 {122}{}{N-n-n-n-new com... mands?}
 {123}{}{Move out of my way.}
 {124}{}{Wait for me here.}
@@ -27,7 +27,7 @@
 {126}{}{What weapons can you use?}
 {127}{}{Let's organize your pack.}
 {128}{}{Chào.}
-{129}{}{Ug.}
+{129}{}{Hực.}
 {130}{}{Give weapon                                                    Proceed to surface.}
 {131}{}{}
 {132}{}{Bye}
@@ -42,7 +42,7 @@
 {141}{}{Let's change formation.}
 {142}{}{Do you have any other skills?}
 {143}{}{Chào.}
-{144}{}{Ug.}
+{144}{}{Hực.}
 {145}{}{Skynet has learned all necessary information at this location.}
 {146}{}{Waaaaa......tinnnnnng.}
 {147}{}{        [It's right where you left it.]}

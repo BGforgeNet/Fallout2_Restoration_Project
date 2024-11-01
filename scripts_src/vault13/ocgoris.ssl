@@ -216,7 +216,7 @@ procedure timed_event_p_proc begin
                floater(2002);
          end
       end
-      add_timer_event(self_obj, random(50, 80), 900);
+      flush_add_timer_event_sec(self_obj, random(60, 90), 900);
    //end added by killap
    end else if (fixed_param == TIMER_DESTROY) then begin
       if (not obj_on_screen(self_obj)) then
@@ -256,7 +256,7 @@ procedure map_enter_p_proc begin
 //   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
 
    //added by killap
-   add_timer_event(self_obj, random(25, 40), 900);
+   flush_add_timer_event_sec(self_obj, random(25, 40), 900);
 end
 
 

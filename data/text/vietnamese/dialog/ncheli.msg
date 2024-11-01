@@ -1,7 +1,7 @@
 {100}{}{You see several crates filled with chemicals.}
 {150}{}{You see several crates filled with chemicals. You can't identify the chemicals, but they have
  been packed *very* carefully.}
-{175}{}{You see a Vertibird.}
+{175}{}{Bạn thấy một chiếc Máy bay trực thăng.}
 {199}{}{You see a Vertibird... an advanced form of helicopter. Unfortunately, you have no idea how
  to operate it. }
 {200}{}{(These guys give me the creeps...)}

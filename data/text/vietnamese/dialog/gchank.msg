@@ -59,4 +59,4 @@
 {232}{}{Why don't you take a little walk through those doors. Glowing pit, pretty-pretty. Heh, heh,
  heh.}
 {300}{}{You tricked Hank into starting a meltdown.}
-{900}{}{Can't you see that I am busy?}
+{900}{}{Không thấy là ta đang bận hả?}

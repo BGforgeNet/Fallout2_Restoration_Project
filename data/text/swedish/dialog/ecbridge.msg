@@ -8,7 +8,7 @@
  other side he see.}
 {105}{}{Cee... Deeee... Eee... Ffff... Gggg}
 {106}{}{Shamble off.}
-{107}{}{Very well.}
+{107}{}{Mycket bra.}
 {108}{}{Ask me the questions, bridge keeper. I'm not afraid.}
 {109}{}{Maybe I'll just come back later.}
 {110}{}{Vad heter du?}

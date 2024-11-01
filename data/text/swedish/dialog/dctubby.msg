@@ -14,12 +14,12 @@
 {161}{}{Hello, sir, and welcome to Tubby's. I am the proprietor. May I help
  you?}
 {162}{}{Yes, let's trade.}
-{163}{}{I need some information.}
+{163}{}{Jag behöver lite information.}
 {164}{}{Farväl.}
 {165}{}{Hello, madam. I am called Tubby by my friends, and I welcome you
  to my store. How may I help you?}
-{166}{}{I want to buy some things.}
-{167}{}{I need some information.}
+{166}{}{Jag vill köpa några saker.}
+{167}{}{Jag behöver lite information.}
 {168}{}{Farväl.}
 {169}{}{I would prefer that you leave, instead.}
 {170}{}{Hej då.}
@@ -64,4 +64,4 @@ town may use grain or gold. Redding is another prime example of a town fueled by
 {510}{}{Here you go, Petey.}
 {511}{}{You know, Petey, you should kick this shit.}
 {512}{}{Take this and get the hell outta here, Petey.}
-{520}{}{Pleasure doing business.}
+{520}{}{Nöje att göra affärer.}

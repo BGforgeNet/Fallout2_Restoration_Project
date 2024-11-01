@@ -36,33 +36,33 @@
 {320}{}{If anyone ever lays a finger on her, they'll regret it.}
 {321}{}{This is some good stuff.}
 {340}{}{We should kill you for what you did.}
-{341}{}{I don't know what she did to you but she didn't deserve to die.}
-{342}{}{Maybe we should head to New Reno, since Becky's is closed.}
-{343}{}{I miss Becky's smile.}
-{344}{}{No more cheap booze.}
-{345}{}{The Den isn't the same without Becky's.}
+{341}{}{Jag vet inte vad hon gjorde mot dig, men hon förtjänade inte att dö.}
+{342}{}{Vi kanske ska åka till New Reno, eftersom Becky's är stängt.}
+{343}{}{Jag saknar Beckys leende.}
+{344}{}{Ingen mer billig sprit.}
+{345}{}{Lyan är inte densamma utan Becky's.}
 {360}{}{Frankie's is truly a hole... in the wall, that is.}
-{361}{}{I like the Hole better than Becky's.}
-{362}{}{We call this place the Hole.}
-{363}{}{Take a seat. Oh, wait. Maybe not.}
+{361}{}{Jag gillar Hålet bättre än Becky's.}
+{362}{}{Vi kallar den här platsen för Hålet.}
+{363}{}{Sätt dig ner. Åh, vänta lite. Kanske inte.}
 {364}{}{Frankie's has action. Becky's is just a money pit.}
-{365}{}{Frankie sure doesn't like Becky.}
-{366}{}{Frankie says Becky's drinks are watered down.}
-{367}{}{How's it going?}
-{368}{}{Frankie knows how to party.}
-{369}{}{Becky's tables are rigged! Well, that's what Frankie says.}
-{370}{}{Bottoms up!}
-{390}{}{Damn, I warned Frankie about how he treated people.}
-{391}{}{Frankie should have watched his temper.}
-{392}{}{Now where we going to hang out?}
-{393}{}{Too bad Frankie's gone. He knew how to party.}
-{394}{}{You got quite a temper. What'd Frankie do to you?}
-{395}{}{Frankie insult your mom or something?}
+{365}{}{Frankie gillar verkligen inte Becky.}
+{366}{}{Frankie säger att Beckys drinkar är urvattnade.}
+{367}{}{Hur går det?}
+{368}{}{Frankie vet hur man festar.}
+{369}{}{Beckys bord är riggade! Eller, det är i alla fall vad Frankie säger.}
+{370}{}{Botten upp!}
+{390}{}{Fan, jag varnade Frankie för hur han behandlade folk.}
+{391}{}{Frankie borde ha hållit sig i skinnet.}
+{392}{}{Var ska vi nu hänga?}
+{393}{}{Synd att Frankie är borta. Han visste hur man festade.}
+{394}{}{Du har ett riktigt temperament. Vad har Frankie gjort mot dig?}
+{395}{}{Har Frankie förolämpat din mamma eller nåt?}
 {410}{}{I'm just looking around.}
-{411}{}{I'm not sure what I'm looking for.}
+{411}{}{Jag är inte säker på vad jag letar efter.}
 {412}{}{Tubby sure goes through a lot of Jet.}
-{413}{}{You see anything good?}
-{414}{}{Not much here.}
+{413}{}{Har du sett något bra?}
+{414}{}{Inte mycket här.}
 {415}{}{Tubby needs to get some better suppliers.}
 {416}{}{You need drugs? Tubby is normally well stocked.}
 {430}{}{What did you kill Tubby for?}

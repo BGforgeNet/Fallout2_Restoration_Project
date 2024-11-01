@@ -88,7 +88,7 @@
 {490}{}{You see: %s.}
 {491}{}{You see a dead: %s.}
 {492}{}{You see the remains of: %s.}
-{493}{}{You see nothing out of the ordinary.}
+{493}{}{Bạn không thấy có gì đặc biệt.}
 {500}{}{Dead}
 {501}{}{Almost Dead}
 {502}{}{Severely Wounded}

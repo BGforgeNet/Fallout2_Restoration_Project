@@ -1,3 +1,3 @@
-{100}{}{You see a Plasma Turret.}
-{101}{}{You see a Mk II Plasma Turret.}
-{102}{}{A sign on the turret warns that tampering with it will most likely result in death.}
+{100}{}{Bạn thấy một Tháp súng Plasma.}
+{101}{}{Bạn thấy một Tháp súng Plasma Mk II.}
+{102}{}{Miếng dán trên tháp súng cảnh báo rằng động vào tháp súng thì gần như chắc chắn chết.}

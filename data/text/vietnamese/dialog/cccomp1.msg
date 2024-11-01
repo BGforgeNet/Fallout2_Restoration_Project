@@ -1,6 +1,6 @@
 {100}{}{Bạn thấy một kĩ thuật viên.}
 {101}{}{Bạn thấy một kĩ sư máy tính.}
-{102}{}{Bạn thấy một người mặc áo khoác phòng thí nghiệm, đéo túi bảo vệ và một mớ bút.}
+{102}{}{Bạn thấy một người mặc áo khoác phòng thí nghiệm, đeo miếng bảo vệ túi và một mớ bút.}
 {103}{}{Xin chào, cậu lính.}
 {104}{}{Vui lòng đừng chạm vào thứ gì.}
 {105}{}{Lính cấp thấp đáng ra không được vào đây.}

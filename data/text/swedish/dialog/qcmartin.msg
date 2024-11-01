@@ -81,5 +81,5 @@
 {180}{}{Incredible, that's our vault! Once again, the people of the vault must rely upon - uh, this time - the great grandson, of the Vault Dweller to save us.}
 {181}{}{Incredible, that's our vault! Once again, the people of the Vault must rely upon - uh, this time - the great granddaughter, of the Vault Dweller to save us.}
 {182}{}{I wish I knew how to save you.}
-{183}{}{I'll think about it.}
+{183}{}{Jag ska tänka på det.}
 {184}{}{What a bizarre coincidence! Let me ask you about something else.}

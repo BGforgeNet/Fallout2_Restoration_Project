@@ -24,7 +24,7 @@
 {123}{}{Hogyan kerültél ide?}
 {124}{}{Miért gondolod, hogy kell egy biztonságos hely?}
 {125}{}{Kösz. Majd később beszélünk.}
-{126}{}{Nem, dehogy! Saját akaratomból vagyok itt, és tetszik ez a hely. Azt hiszem, jó darabig  biztonságban elleszek itt.}
+{126}{}{Nem, dehogy! Saját akaratomból vagyok itt, és tetszik ez a hely. Azt hiszem, jó darabig biztonságban elleszek itt.}
 {127}{}{Oké.}
 {128}{}{Viszlát!}
 {129}{}{Értem.}

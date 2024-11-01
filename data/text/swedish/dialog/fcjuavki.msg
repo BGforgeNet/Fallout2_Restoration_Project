@@ -17,7 +17,7 @@
 {116}{}{Him: If you won't accept our help... Her: ... then we can't help you. Goodbye.}
 {117}{}{Hej då!}
 {118}{}{Him: Ah, you see? The teachings of the Hub have demonstrated their worth again!}
-{119}{}{I have some questions.}
+{119}{}{Jag har några frågor.}
 {120}{}{Thanks! Bye!}
 {121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
 {122}{}{Him: But then, as a member of the industry, you already knew that.}

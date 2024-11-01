@@ -56,7 +56,7 @@
 {275}{}{Talán mégsem. Viszlát!}
 {276}{}{Uja! (bólintasz)}
 {277}{}{Nem, nem, nem, nem!}
-{285}{}{Mégis, mi a faszt képzelsz? Ez a Rabszolga-Céh. Rabszolgákat adok,  veszek.}
+{285}{}{Mégis, mi a faszt képzelsz? Ez a Rabszolga-Céh. Rabszolgákat adok, veszek.}
 {286}{}{Honnan szerzed a rabszolgákat?}
 {287}{}{Szeretnék beállni!}
 {288}{}{Még szeretnék valamit kérdezni.}
@@ -90,7 +90,7 @@
 {362}{}{Te hülye állat! Mi a francból gondoltad, hogy vissza akarom kapni ezt a hülyét? Egy örökkévalóságig tartott, amíg megjavította azt a rohadt rádiót. Egy rádiót! Veled marad. Nem akarom, hogy bármit is tönkre tegyen itt.}
 {363}{}{Hát nem is tudom... ez meglehetősen nyeszlett... okos legalább? Ez még érhet valamit. Kapsz érte }
 {364}{}{Ez egész jó harcosnak látszik. Hmmm... }
-{365}{}{Egy újabb benszülött? Fura egy szerzet... Mindegy, erősnek látszik, és ez a külső önmagában hozhat némi plussz pénzt.  Mit szólnál }
+{365}{}{Egy újabb benszülött? Fura egy szerzet... Mindegy, erősnek látszik, és ez a külső önmagában hozhat némi plussz pénzt. Mit szólnál }
 {366}{}{Mit szólnál valami máshoz?}
 {367}{}{Izé, hadd kérdezzek valami mást akkor.}
 {368}{}{Oké.}

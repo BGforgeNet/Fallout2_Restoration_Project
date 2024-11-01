@@ -36,7 +36,8 @@
 {156}{}{Talán elmondom az igaz történetet, ha meggondolod magad.}
 {157}{}{Oké. Mondd el!}
 {158}{}{Nem. Nem érdekel.}
-{159}{}{Ebben az esetben, egyszerűen nagyszerű itt lenni. Ennek a városnak mindene megvan, amit csak akarsz...  mutáns seriff, uránbánya, kórház, bolt... majdnem mindent megkaphatsz. Segíthetek még valamiben?}
+{159}{}{Ebben az esetben, egyszerűen nagyszerű itt lenni. Ennek a városnak mindene megvan, amit csak akarsz... mutáns
+ seriff, uránbánya, kórház, bolt... majdnem mindent megkaphatsz. Segíthetek még valamiben?}
 {160}{}{Igen.}
 {161}{}{Nem.}
 {162}{}{Nagyszerű! Viszlát!}

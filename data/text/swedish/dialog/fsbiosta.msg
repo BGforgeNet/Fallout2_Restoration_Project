@@ -1,4 +1,4 @@
-{100}{}{You see a computer terminal.}
+{100}{}{Du ser en datorterminal.}
 {101}{}{You see the biology workstation.}
 {102}{}{You see a functional computer terminal.}
 {103}{}{Greetings. Please confirm your identity.}

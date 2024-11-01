@@ -73,7 +73,7 @@
 {172}{}{Just give me the damn test.}
 {173}{}{Forget it then. Can I ask you some other questions?}
 {174}{}{Whatever. I'm outta here.}
-{175}{}{Very well.}
+{175}{}{Mycket bra.}
 {176}{}{Hmmm. Well, that is your right, though I doubt it will matter.}
 {177}{}{Here are forms 5028, 6112, and the Pip-Boy answer console. Please be sure to fill in each circle COMPLETELY. Now, if you would take a seat over here...}
 {178}{}{All right.}

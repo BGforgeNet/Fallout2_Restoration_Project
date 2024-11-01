@@ -26,8 +26,7 @@
 {125}{}{Keresés... Földrajzi adatok... Adat letöltve. A főparancsnokság a Csendes-óceánon található 175 tengeri mérföldre a kaliforniai partoktól. Koordináták: Északi szélesség 37,18'' Nyugati hosszúság 120,7''.}
 {126}{}{Mi szart ez jelenteni?}
 {127}{}{Mi a szart jelent ez?}
-{128}{}{Keresés... Szleng szótár... Információ feldolgozva. Ez négy dolgot jelent:
-                                                         1, Jó mélyen van az óceánon.                                      2, Kalifornia partjaitól is messze van.                            3, San Franciscótól nyugatra található.                          4, Ha nem tanultál földrajzot, úgysem fogod megérteni.         }
+{128}{}{Keresés... Szleng szótár... Információ feldolgozva. Ez négy dolgot jelent: 1, Jó mélyen van az óceánon. 2, Kalifornia partjaitól is messze van. 3, San Franciscótól nyugatra található. 4, Ha nem tanultál földrajzot, úgysem fogod megérteni.}
 {129}{}{Hogy menni oda?}
 {130}{}{Hogyan juthatok oda?}
 {131}{}{Keresés... Logisztikai adatbázis... Adat letöltve. A logisztikai napló szerint 1257 lehetséges módja van az odajutásnak. Viszont, most csak kettő elérhető: A gépmadár-szállítás igénybevétele a navarrói bázison, vagy hajóval történő szállítás San Franciscóban. Az öbölben állomásozó hajót a biztonsági parancsnokság a 9837-334-27A sz. rendelkezés hatálya alá vonja, tehát kódkártya nélkül működésképtelen. A felülírásahoz az F.B.K. szükséges, amit jelenleg a bázisparancsnok tart magánál.}

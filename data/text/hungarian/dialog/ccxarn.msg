@@ -18,7 +18,11 @@
 {117}{}{Gondolkozni rajta.}
 {118}{}{Rendben van, vállalom.}
 {119}{}{Gondolkodom még rajta.}
-{120}{}{(Xarn egy pillanatra felmér, mintha a szándékaidat fürkészné) Rendben, elmondom. Nemzetségemet az Enklávé teremtette, hogy rabszolgáik és harcosaik legyünk. Megnövelték az intelligenciánkat, hogy jobban megértsük a parancsokat, de arra vigyáztak, nehogy  rádöbbenjünk szolga mivoltunkra. Nem jött be a számításuk, sokkal okosabbak vagyunk, mint amilyennek láttatni engedjük.}
+{120}{}{(Xarn egy pillanatra felmér, mintha a szándékaidat fürkészné) Rendben, elmondom.
+ Nemzetségemet az Enklávé teremtette, hogy rabszolgáik és harcosaik legyünk. Megnövelték
+ az intelligenciánkat, hogy jobban megértsük a parancsokat, de arra
+ vigyáztak, nehogy rádöbbenjünk szolga mivoltunkra.
+ Nem jött be a számításuk, sokkal okosabbak vagyunk, mint amilyennek láttatni engedjük.}
 {121}{}{Elhatároztuk, hogy addig játsszuk a hülyét, amíg nem adódik alkalom a szabadságunk elnyerésére. Ez lehetségesnek látszott, mikor az Enklávé vezetése elhatározta, hogy a szárazföldön tesztel le bennünket. Schreber ellenkezett, de felülbírálták.}
 {122}{}{Mivel nyíltan szembeszegült a vezérkar döntésével, iderendelték Navarróba, hogy távol legyen a tűztől. Magával hozott engem is, hogy feltérképezze a valódi képességeimet. Sajnos ez sikerült is neki, nem tudtam kijátszani. Ha megírja a jelentését és elküldi az Enklávénak, vadászni fognak ránk, a többieket pedig egyszerűen lemészárolják. Meg kell szöknöm, és figyelmeztetnem őket.}
 {123}{}{(Xarn egy pillanatra felmér, mintha a szándékaidat fürkészné) Neked nincs mit mondanom, ember. Érzem, hogy sötétség van a lelkedben.}

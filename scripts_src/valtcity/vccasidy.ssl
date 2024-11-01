@@ -28,7 +28,6 @@
 #define SCRIPT_REALNAME "vccasidy"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
-#include "../headers/newr1.h" //added by killap
 
 #define NAME                    SCRIPT_VCCASIDY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
@@ -217,8 +216,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_SLAVES);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
 
-   //rm_timer_event( self_obj ); - comment out by killap
-   add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
+   flush_add_timer_event_sec(self_obj, random(40, 50), 1);
 end
 
 procedure map_update_p_proc begin
@@ -279,7 +277,7 @@ procedure timed_event_p_proc begin
                call Node2019;
          end
       end
-      add_timer_event( self_obj, game_ticks( random(100, 125) ), 1); //edit by killap - was (40,50)
+      flush_add_timer_event_sec(self_obj, random(60, 90), 1); //edit by killap - was (40,50)
    end
    else if( fixed_param == 2 ) then begin
       kill_critter( self_obj, ANIM_fall_front );

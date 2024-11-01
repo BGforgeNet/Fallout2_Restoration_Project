@@ -15,7 +15,7 @@
 {114}{}{Furms need?}
 {115}{}{Shamble off}
 {116}{}{Uh... what is this place?}
-{117}{}{All right. Thanks.}
+{117}{}{Được rồi. Cám ơn.}
 {118}{}{This is the CUSTOMS Office. Like the sign outside says. If you haven't got customs business, what are you doing here?}
 {119}{}{I was looking for the Vault.}
 {120}{}{I was looking to get inside the city.}

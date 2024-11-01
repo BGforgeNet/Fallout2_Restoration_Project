@@ -48,7 +48,7 @@
 {272}{}{Quizá creas que esta armadura de alta tecnología que llevo está mágicamente pegada a mí. Mira, corta el rollo del 'tribal',
  de acuerdo?}
 {273}{}{Oye, ¿crees que este arma que llevo es algún tótem místico que llevo para enseñarlo por ahí? Corta el rollo del
-  'tribal', ¿de acuerdo?}
+ 'tribal', ¿de acuerdo?}
 {274}{}{MEJOR ME VOY ANTES DE QUE ME ENFADE.}
 {280}{}{¡Oh! ¡Perdóname! (Parece espantada). ¡Lo siento, lo siento! Es sólo que pensé… bueno… no importa, olvidemos lo ocurrido.
  ¿Qué puedo hacer por ti?}
@@ -69,7 +69,7 @@
 {313}{}{Tengo que irme. Me parece oír a los de mi tribu llamándome.}
 {315}{}{(Divaga). }
 {316}{}{La Unión por la Templanza se creó para ayudar a la gente a dar la espalda al veneno de la bebida y guiarla hacia
-  objetivos más elevados.}
+ objetivos más elevados.}
 {317}{}{Oh. Bueno, acerca d--}
 {318}{}{Lo que q--}
 {320}{}{(Parece sorprendida). Seguramente te equivocas. Incluso un tribal primitivo como tú no puede
