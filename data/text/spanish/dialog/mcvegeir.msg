@@ -66,3 +66,4 @@
 {302}{}{Adiós.}
 {303}{}{¿Fantasmas?}
 {400}{}{El mensaje ha sido bien recibido. El pueblo de Modoc quiere comerciar con tu gente.}
+{401}{}{Modoc happy. Trade good!}

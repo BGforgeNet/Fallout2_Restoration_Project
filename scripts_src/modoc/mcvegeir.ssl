@@ -238,6 +238,7 @@ procedure Node001 begin
    ndebug("get_ending_state/happy == " + get_ending_state+"/"+ending_state_happy);
    if ((get_ending_state == ending_state_happy) and (jonny_at_home == false)) then begin
       NOption(400,Node003,004);
+      NOption(401,Node003,-003);
    end
    NOption(157,Node026,004);
    NOption(158,Node028,004);
@@ -245,6 +246,7 @@ procedure Node001 begin
       NOption(159,Node033,004);
    end
    NOption(g_bye,Node999,004);
+   NOption(g_grunt,Node999,-003);
 end
 procedure Node002 begin
    Reply(160);

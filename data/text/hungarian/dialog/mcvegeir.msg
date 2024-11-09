@@ -69,3 +69,4 @@
 {302}{}{Viszlát!}
 {303}{}{Szellemek?}
 {400}{}{Az üzenetet jól fogadták. Modoc városa szívesen kereskedne veletek.}
+{401}{}{Modoc happy. Trade good!}

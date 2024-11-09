@@ -66,3 +66,4 @@
 {302}{}{Bywaj.}
 {303}{}{Duchy?}
 {400}{}{Wiadomość została dobrze zaakceptowana. Mieszkańcy Modoc chcieliby zacząć z wami handlować.}
+{401}{}{Modoc happy. Trade good!}

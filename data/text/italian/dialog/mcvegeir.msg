@@ -66,3 +66,4 @@
 {302}{}{Addio.}
 {303}{}{Fantasmi?}
 {400}{}{La vostra proposta e' stata accolta positivamente. La citta' di Modoc avrebbe desiderio di intraprendere degli scambi commerciali con la vostra gente.}
+{401}{}{Modoc happy. Trade good!}

@@ -66,3 +66,4 @@
 {302}{}{Čau.}
 {303}{}{Duchové?}
 {400}{}{Zpráva byla přijata kladně. Obyvatelé Modocu chtějí obchodovat s tvými lidmi.}
+{401}{}{Modoc happy. Trade good!}

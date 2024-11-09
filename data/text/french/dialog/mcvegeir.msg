@@ -66,3 +66,4 @@
 {302}{}{Salut.}
 {303}{}{Fantômes ?}
 {400}{}{Message bien reçu. La ville de Modoc veut nouer des relations commerciales avec votre peuple.}
+{401}{}{Modoc happy. Trade good!}
