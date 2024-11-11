@@ -334,9 +334,9 @@ end
 procedure Node001 begin
    Reply(103);
 
-   if( dude_obj == 1 ) then
+   if( dude_iq == 1 ) then
       NOption(104, Node002, 001);
-   if( (dude_obj == 2) or (dude_obj == 3) ) then
+   if( (dude_iq == 2) or (dude_iq == 3) ) then
       NOption(105,Node003,002);
    NOption(106,Node004,004);
    GOption(107,Node005,004);
