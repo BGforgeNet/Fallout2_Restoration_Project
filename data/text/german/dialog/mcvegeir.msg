@@ -66,4 +66,4 @@
 {302}{}{Tschüss.}
 {303}{}{Geister?}
 {400}{}{Die Botschaft wurde gut aufgenommen. Die Stadt Modoc würde gern mit deinem Volk Handel treiben.}
-{401}{}{Modoc happy. Trade good!}
+{401}{}{Modoc zufrieden. Handel gut!}

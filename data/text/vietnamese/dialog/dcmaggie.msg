@@ -32,7 +32,7 @@
 {179}{}{Mommy! Mommy!}
 {180}{}{One more question.}
 {181}{}{Cám ơn. Tạm biệt.}
-{182}{}{Beat it.}
+{182}{}{Thôi đi.}
 {183}{}{Gwah.}
 {184}{}{I'll give you something to beat.}
 {185}{}{Quick question first?}

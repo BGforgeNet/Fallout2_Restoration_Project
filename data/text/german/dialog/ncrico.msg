@@ -9,7 +9,7 @@
 {179}{}{Klorgggg}
 {180}{}{Oog}
 {200}{}{Ich Monte Freund. DU Monte Freund?}
-{201}{}{Me hit people Monte tell me to.}
+{201}{}{Ich hauen Leute, Monte mir sagen.}
 {202}{}{Ich haun Leute.}
 {203}{}{Ich hau leute mit Faust wie Trommel haun.}
 {204}{}{Ich liebe haun.}

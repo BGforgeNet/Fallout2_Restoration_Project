@@ -46,7 +46,7 @@
 {145}{}{Damn! Who could possibly have turned me in?!}
 {146}{}{Hey! What was I imprisoned for?}
 {147}{}{Well, at least the food's not bad.}
-{148}{}{What are you staring at?}
+{148}{}{Đang nhìn gì đấy?}
 {149}{}{What will happen to my shop now?}
 {200}{}{$500? Hey, maybe you could give me some kind of discount, I mean, you and Dave are friends, right?}
 {201}{}{To tell you the truth, I never really cared for the fella. $500 for the motor. Take it or leave it.}

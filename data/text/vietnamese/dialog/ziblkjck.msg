@@ -20,7 +20,7 @@
 {118}{}{. Bust}
 {119}{}{.}
 {120}{}{The dealer has a }
-{121}{}{[more]}
+{121}{}{[thêm]}
 {122}{}{[while reshuffling] Care to play again?}
 {123}{}{Sorry, I think you've reached your limit here. I'm gonna have to ask you to leave.}
 {124}{}{You win the hand.}

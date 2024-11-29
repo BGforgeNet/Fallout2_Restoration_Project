@@ -1,14 +1,14 @@
-{100}{}{You see a citizen of the Den.}
-{101}{}{You see Derek.}
-{150}{}{He looks quite agile.}
-{200}{}{Beat it.}
-{201}{}{I'm too tired to talk.}
-{202}{}{Get out of my place.}
-{203}{}{Get your own place to sleep.}
-{204}{}{Stop bothering me.}
-{205}{}{I'm bushed.}
+{100}{}{Bạn thấy một cư dân của khu The Den.}
+{101}{}{Bạn thấy Derek.}
+{150}{}{Trông ông ta có vẻ khéo léo.}
+{200}{}{Thôi đi.}
+{201}{}{Tôi mệt, không muốn nói chuyện.}
+{202}{}{Ra khỏi chỗ của tôi đi.}
+{203}{}{Tự đi tìm chỗ riêng mà ngủ đi.}
+{204}{}{Đừng làm phiền tôi nữa.}
+{205}{}{Tôi cháy túi rồi.}
 {206}{}{Doh!}
-{207}{}{Hey, what are you doing here?}
+{207}{}{Này, cậu đang làm gì ở đây thế?}
 {220}{}{Stay away from Metzger, tribal.}
 {221}{}{Why is it always so damn hot?}
 {222}{}{Why do we live in the desert?}
@@ -60,4 +60,4 @@
 {313}{}{Chào.}
 {314}{}{Không có gì.}
 {320}{}{Hey! Get away from me!}
-{321}{}{Don't touch me!}
+{321}{}{Đừng chạm vào tôi!}

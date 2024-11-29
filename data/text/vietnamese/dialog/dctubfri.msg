@@ -79,7 +79,7 @@
 {320}{}{Don't talk to me, man. My head hurts.}
 {321}{}{I won't tell anyone.}
 {322}{}{Don't hurt me.}
-{323}{}{I didn't do anything.}
+{323}{}{Tôi chẳng làm gì cả.}
 {324}{}{I didn't see anything.}
 {325}{}{I didn't hear anything.}
 {326}{}{Please, just leave.}
@@ -113,5 +113,5 @@
 {461}{}{Please, don't!}
 {462}{}{I didn't take it!}
 {463}{}{It wasn't me!}
-{464}{}{Leave me alone!}
+{464}{}{Để tôi yên!}
 {465}{}{I didn't know it was yours!}

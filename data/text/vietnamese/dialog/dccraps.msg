@@ -1,1 +1,1 @@
-{100}{}{Sorry, the boss says we can't let you play here anymore.}
+{100}{}{Xin lỗi, sếp nói bọn tôi không được cho anh đến đây chơi nữa.}

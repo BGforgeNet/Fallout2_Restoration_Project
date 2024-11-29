@@ -51,7 +51,7 @@
 {230}{}{Haste Jules gesehen? Ich brauch Jet.}
 {231}{}{Haste Jagged Jimmy gesehen? ich brauche Jet.}
 {232}{}{Ich suche Renescos Apotheke. Renesco wird mich wieder auf die Beine bringen.}
-{233}{}{Ich weiß Fallout 2 ist kein 3D Spiel, aber es sollte trotzdem mit meiner neuen Grafikkarte laufen.}
+{233}{}{Ich weiß, Fallout 2 ist kein 3D-Spiel, aber es sollte trotzdem mit meiner neuen 3DFX-Karte laufen.}
 {240}{}{[Singt.] I...just want to fly. Put your arms around me, baby, put your arms around me, baby.}
 {241}{}{[Singt.] Rocketman, burning off the mmmmumble there alone...}
 {242}{}{Pass auf! Pinke Deathclaw, 3 Uhr!}
@@ -69,7 +69,7 @@
 {254}{}{Wow... wo ist denn der Himmel hin...?}
 {255}{}{Wenn meine Kleider jetzt noch länger mit mir reden, dann ziehe ich sie aus.}
 {256}{}{Meine Schuhe atmen.}
-{257}{}{Ich weiß Fallout 2 ist kein 3D Spiel, aber es sollte trotzdem mit meiner neuen Grafikkarte laufen.}
+{257}{}{Ich weiß, Fallout 2 ist kein 3D-Spiel, aber es sollte trotzdem mit meiner neuen 3DFX-Karte laufen.}
 {258}{}{Siehst du mich an?! Du siehst mich an?!! Ich töte dich!}
 {270}{}{Oh, ich würde dir gerne für deinen Sieg über die Enklave zujubeln, aber mein Kopf tut zu weh. Komme in der Nacht wieder.}
 {271}{}{::Versucht zu klatschen, trifft aber seine Hände nicht::}

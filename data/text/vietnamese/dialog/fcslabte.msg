@@ -8,7 +8,7 @@
 {107}{}{I want to see the sun again.}
 {108}{}{Mix this. Mix that. I get so bored sometimes.}
 {109}{}{Did you see the newest results of the big experiment! Most pleasing!}
-{110}{}{Excuse me.}
+{110}{}{Thứ lỗi.}
 {116}{}{Ha! Teach those spies to try to break in!}
 {117}{}{The hackers will never try THAT again.}
 {118}{}{If we can't beat them with science, we beat them with our fighters.}

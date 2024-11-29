@@ -10,7 +10,7 @@
 {201}{}{Don't shoot!}
 {202}{}{I don't have any money!}
 {203}{}{Why did you have to kill poor Becky?}
-{204}{}{What did she ever do to you?}
+{204}{}{Bà ấy đã làm gì cậu chứ?}
 {205}{}{I didn't do anything!}
 {206}{}{Please go, I won't tell.}
 {300}{}{Yes! The dice love me!}

@@ -1,4 +1,4 @@
-{100}{}{You see a citizen of the Den.}
+{100}{}{Bạn thấy một cư dân của khu The Den.}
 {101}{}{You see Fred.}
 {102}{}{You see Fred, wearing very fine clothes.}
 {150}{}{He seems to be busy thinking about something.}
@@ -16,7 +16,7 @@
 {222}{}{Do you know what time it is?}
 {223}{}{I don't have anything.}
 {224}{}{Bug me in the morning. I'm tired.}
-{225}{}{Beat it.}
+{225}{}{Thôi đi.}
 {226}{}{No one's home.}
 {227}{}{Can't talk. I'm getting ready for bed.}
 {228}{}{Hey, lady! It's late. Leave me alone.}

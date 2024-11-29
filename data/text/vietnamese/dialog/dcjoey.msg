@@ -1,4 +1,4 @@
-{100}{}{You see a thug.}
+{100}{}{Bạn thấy một kẻ du côn.}
 {101}{}{You see Joey.}
 {150}{}{This guy doesn't look too friendly.}
 {151}{}{[NÓI CHUYỆN]}

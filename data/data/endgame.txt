@@ -187,11 +187,11 @@
 424, 3, 473, nar_sf2c
 
 #####
-# Subnode: Vagrants
-#####
-425, 1, 466, nar_sf3          # New Myron Pic: 467
-
-#####
 # President Richardson
 #####
 697, 1, 472, nar_pres
+
+#####
+# Subnode: Vagrants
+#####
+425, 1, 466, nar_sf3          # New Myron Pic: 467

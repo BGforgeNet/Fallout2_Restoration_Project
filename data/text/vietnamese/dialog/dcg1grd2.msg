@@ -1,4 +1,4 @@
-{100}{}{You see a thug.}
+{100}{}{Bạn thấy một kẻ du côn.}
 {101}{}{He's Tyler's friend.}
 {110}{}{You here to party?}
 {111}{}{*hickup* Brews on me!}

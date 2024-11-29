@@ -68,7 +68,7 @@
 {167}{}{Well, anyone may take the test. I think in your case, however, it would be a waste of time... for both of us. Someone of your caliber is simply not Citizen material.}
 {168}{}{Được thôi.}
 {169}{}{Not now. Can I ask you some other questions?}
-{170}{}{Maybe some other time.}
+{170}{}{Có lẽ để sau đi.}
 {171}{}{I'd like to take the test anyway.}
 {172}{}{Just give me the damn test.}
 {173}{}{Forget it then. Can I ask you some other questions?}

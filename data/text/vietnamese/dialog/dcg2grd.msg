@@ -25,7 +25,7 @@
 {251}{}{Coward.}
 {252}{}{You make me sick.}
 {253}{}{Get lost.}
-{254}{}{Beat it.}
+{254}{}{Thôi đi.}
 {255}{}{We're ready when you are.}
 {256}{}{It's about time we pay them back.}
 {257}{}{I hate waiting.}
@@ -34,12 +34,12 @@
 {260}{}{Just let Lara know when it's time.}
 {270}{}{You looking to join up?}
 {271}{}{You must be here to see Lara.}
-{272}{}{How's it going?}
+{272}{}{Sao rồi?}
 {273}{}{Lara's the person you should be talking to.}
 {274}{}{Chào.}
 {275}{}{You here to see Lara?}
 {300}{}{Chào.}
-{301}{}{How's it going?}
+{301}{}{Sao rồi?}
 {302}{}{Hope things are going good.}
 {303}{}{So you might be able to help us out?}
 {304}{}{Good to see you.}

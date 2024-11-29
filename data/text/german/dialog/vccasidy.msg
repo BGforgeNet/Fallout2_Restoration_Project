@@ -289,4 +289,4 @@ Stimpaks übrig hättest, die könnt ich jetzt wirklich gebrauchen. Ich kann abe
 {30000}{}{Ah, das tut gut! Jetzt bin ich wieder voll da.}
 {30001}{}{Wow, ist ein bisschen komisch, aber diese Herzpillen sind echt gut.}
 {30100}{}{Yeah, why not... It'll help me feel like I'm dead.}
-{30300}{}{[Next]}
+{30300}{}{[Weiter]}

@@ -1,7 +1,7 @@
 {100}{}{You see bar patron.}
 {101}{}{You see Stacy.}
 {102}{}{She seems to be a little sad.}
-{103}{}{Stop it!}
+{103}{}{Thôi đi!}
 {104}{}{How could you?}
 {105}{}{Tránh xa ta ra!}
 {106}{}{Tại sao?}

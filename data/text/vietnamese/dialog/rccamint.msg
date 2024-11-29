@@ -86,6 +86,6 @@
 {177}{}{Maybe I'll do that. I sure don't want to hurt anyone. Goodbye.}
 {178}{}{All right, I think we can see the writing on the wall - right, Bette? (she nods) You got us.
  Take us in, Sheriff.}
-{179}{}{That's more like it.}
+{179}{}{Phải vậy chứ.}
 {180}{}{Nope, too late now. I'm gonna have to open up a can of whoop-ass on you two. }
 {181}{}{Don't worry; I won't be startin' any trouble tonight.}

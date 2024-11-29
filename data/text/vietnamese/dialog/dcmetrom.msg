@@ -14,11 +14,11 @@
 {253}{}{You'll get a lot of action if you're in the guild.}
 {254}{}{Talk to Metzger, not me, lady.}
 {255}{}{Metzger's not going to hire a bitch so beat it.}
-{256}{}{Beat it.}
+{256}{}{Thôi đi.}
 {257}{}{Hey, man.}
 {258}{}{You're lucky you only have to go on the runs.}
 {259}{}{Being a door guard's a boring life.}
-{260}{}{How's it going?}
+{260}{}{Sao rồi?}
 {261}{}{You're the first woman Metzger's ever hired.}
 {262}{}{Metzger must have a soft spot for you.}
 {263}{}{You're all alone little lady.}

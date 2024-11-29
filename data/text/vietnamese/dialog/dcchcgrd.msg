@@ -1,46 +1,46 @@
 {100}{}{Bạn thấy một lính gác.}
-{150}{}{The guard is guarding the old church.}
+{150}{}{Lính canh đang gác tòa nhà thờ cũ.}
 {151}{}{[NÓI CHUYỆN]}
-{152}{}{How dare you show your face again!}
+{152}{}{Sao mày dám thò lại cái mặt ra đây!}
 {153}{}{[Đã xong]}
-{154}{}{Ho! No one enters the Family Wright warehouse at night!}
-{155}{}{Well, Mr. Wright himself sent me on an errand. If you don't know about it, too bad.}
-{156}{}{I'll come back tomorrow.}
-{157}{}{I need to get in there now.}
-{158}{}{[Looking nervous] Sorry... I didn't know. Do you have any papers?}
-{159}{}{Please! Can you even read?}
-{160}{}{No, he didn't give me any.}
-{161}{}{I left them back with my guard. I'll go fetch them.}
-{162}{}{You cannot get in without papers.}
-{163}{}{Here's my authorization! Attack!}
+{154}{}{Dừng! Không ai được phép nhà kho của Nhà Wright vào buổi tối!}
+{155}{}{Ồ, Ngài Wright tự mình giao việc cho tôi. Nếu anh không biết về lệnh đó thì tệ thật đấy.}
+{156}{}{Mai tôi quay lại.}
+{157}{}{Tôi cần vào đó ngay bây giờ.}
+{158}{}{[Tỏ vẻ bối rối] Xin lỗi... Tôi không biết. Anh có giấy tờ gì không?}
+{159}{}{Thôi nào! Anh có đọc nổi không?}
+{160}{}{Không, ông ta chẳng đưa gì cho tôi cả.}
+{161}{}{Tôi để giấy tờ chỗ đám đệ rồi. Tôi sẽ đi lấy đây.}
+{162}{}{Anh không thể vào mà không có giấy tờ được.}
+{163}{}{Giấy tờ của ta đây! Tấn công!}
 {164}{}{Tôi sẽ trở lại.}
-{165}{}{[Embarrassed] No... um... alright, just go on in...}
+{165}{}{[Xấu hổ] Không... ờm... được rồi, vào đi...}
 {166}{}{Cám ơn.}
-{167}{}{That's more like it.}
-{168}{}{What do you people want?}
-{169}{}{We need to go inside.}
-{170}{}{We were sent here by the boss.}
-{171}{}{I would have heard if a group was sent here. Be off!}
-{172}{}{Off with your head!}
-{173}{}{OK, OK; we're going.}
-{174}{}{What is your business here?}
-{175}{}{I need to go inside.}
-{176}{}{I've been sent on official business by the boss. Stand aside!}
-{177}{}{Removing your head from your shoulders.}
-{178}{}{Sorry, wrong place.}
-{179}{}{Hello again. You can go on in.}
+{167}{}{Phải vậy chứ.}
+{168}{}{Mấy người muốn gì?}
+{169}{}{Chúng tôi cần vào trong.}
+{170}{}{Sếp cử chúng tôi đến đây.}
+{171}{}{Nếu cử một đội đến thì tôi phải được báo tin rồi. Biến đi!}
+{172}{}{Biến cái đầu mày ấy!}
+{173}{}{OK, OK; bọn tôi đi.}
+{174}{}{Anh có việc gì ở đây?}
+{175}{}{Tôi cần vào trong.}
+{176}{}{Sếp cử tôi đến đây có việc theo lệnh chính thức. Tránh ra!}
+{177}{}{Tháo đầu ông khỏi cái cổ thôi.}
+{178}{}{Xin lỗi, nhầm chỗ.}
+{179}{}{Chào lần nữa. Anh có thể vào trong.}
 {180}{}{Cám ơn.}
-{181}{}{Hey, get the hell away from the door!}
-{182}{}{Don't touch the door again unless you want trouble.}
-{183}{}{I see you touch that door again, you're gonna get a bullet in the head.}
-{184}{}{Hey, what do you think you're doing?}
-{185}{}{I've had enough of you.}
-{186}{}{Sorry; I can let you in, but your friends are gonna have to wait outside.}
-{187}{}{Only one of you are allowed in at a time.}
-{200}{}{Good evening.}
-{201}{}{Good afternoon.}
-{202}{}{Good morning.}
-{203}{}{Just finish up your business, thank you.}
-{250}{}{You know, pal, I've had enough of your shit!}
-{251}{}{You know, bitch, I've had enough of your shit!}
+{181}{}{Này, tránh xa cái cửa ra ngay!}
+{182}{}{Đừng có chạm vào cái cửa lần nữa nếu không muốn gặp rắc rối.}
+{183}{}{Tao mà thấy mày chạm vào cửa lần nữa thì đầu mày sẽ ăn đạn đấy.}
+{184}{}{Này, anh nghĩ mình đang làm cái quái gì thế?}
+{185}{}{Thế là đủ lắm rồi.}
+{186}{}{Xin lỗi; Tôi có thể để anh vào, nhưng mấy người bạn này phải chờ ở ngoài.}
+{187}{}{Mỗi lần chỉ được một người vào thôi.}
+{200}{}{Chào buổi tối.}
+{201}{}{Chào buổi chiều.}
+{202}{}{Chào buổi sáng.}
+{203}{}{Cứ lo việc của anh đi, cám ơn.}
+{250}{}{Này, anh bạn biết gì không, tao thấy mấy trò khỉ này đủ lắm rồi!}
+{251}{}{Này, cô đũy biết gì không, tao thấy mấy trò khỉ này đủ lắm rồi!}
 {252}{}{[KẾT THÚC]}

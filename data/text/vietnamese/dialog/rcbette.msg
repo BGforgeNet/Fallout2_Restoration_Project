@@ -90,6 +90,6 @@
 {177}{}{Maybe I'll do that. I sure don't want to hurt anyone. Goodbye.}
 {178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
  (to Caminetto) Right, my little fuckface?}
-{179}{}{That's more like it.}
+{179}{}{Phải vậy chứ.}
 {180}{}{Nope. Too late now. I'm gonna have to open up a can of whoop-ass on you two. }
 {181}{}{I guess I'll just kick Caminetto's ass another day.}

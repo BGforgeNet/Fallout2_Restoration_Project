@@ -19,7 +19,7 @@
 {164}{}{Eeeeeeeee!}
 {165}{}{I hate you!}
 {166}{}{Mommy, mommy, mommy!}
-{167}{}{Leave me alone!}
+{167}{}{Để tôi yên!}
 {168}{}{You stink!}
 {170}{}{Hello there.}
 {171}{}{Want to play house?}

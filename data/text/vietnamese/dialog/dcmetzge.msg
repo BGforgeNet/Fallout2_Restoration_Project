@@ -49,7 +49,7 @@
 {258}{}{Lara wanted me to ask you for permission to fight Tyler.}
 {259}{}{Can I join the guild?}
 {260}{}{What can you tell me about your guild?}
-{261}{}{I'd like to go on a slave run.}
+{261}{}{Tôi muốn đi lùa nô.}
 {262}{}{Never mind. Bye.}
 {263}{}{ want to ill.}
 {264}{}{Na.}

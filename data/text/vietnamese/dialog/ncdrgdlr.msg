@@ -1,5 +1,5 @@
 {150}{}{You see a man in wrinkled clothes. He is rubbing his nose and glancing around furtively.}
-{151}{}{You see a drug dealer.}
+{151}{}{Bạn thấy một kẻ buôn thuốc phiện.}
 {152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 {200}{}{Hey, hero! You lookin' to celebrate with some Jet? Talk to me!}
 {201}{}{Way to kick the Enclave's ass, hero! You want to kick back and celebrate with some Jet?}

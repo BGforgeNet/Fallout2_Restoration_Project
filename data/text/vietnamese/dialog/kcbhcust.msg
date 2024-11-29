@@ -1,6 +1,6 @@
 {100}{}{You see someone who could be a trapper.}
 {101}{}{You see someone relaxing.}
-{102}{}{You see a townsperson.}
+{102}{}{Bạn thấy một cư dân thị trấn.}
 {103}{}{You see a worker relaxing.}
 {104}{}{You see a person enjoying a drink.}
 {106}{}{You see a bar patron. They look happy and content.}

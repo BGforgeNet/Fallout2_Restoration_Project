@@ -33,7 +33,7 @@
 {141}{}{You obviously have some bad neurodynes!}
 {142}{}{No! Do not pollute me with your hatred!}
 {143}{}{Guards! Guards! The barbarian is here!}
-{144}{}{Don't touch me!}
+{144}{}{Đừng chạm vào tôi!}
 {145}{}{Help! Guards!}
 {146}{}{The enemy of our people!}
 {147}{}{The dark times are upon us again!}

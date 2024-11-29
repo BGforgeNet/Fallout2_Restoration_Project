@@ -112,7 +112,7 @@
 {402}{}{Er ist tot. Er wurde von Geckos gefressen.}
 {403}{}{Ich, äh, hab ihn gesehen. Er sagte, er würd mit 'ner andern Frau am Durchbrennen. Uahh! Oje, es ist spät geworden. Ich muss mich sputen.}
 {404}{}{Äh, ich, äh, das heißt... Äh, nein. Ich bin immer noch am Suchen. Aber ich bin sicher, dass er in den nächsten Tagen auftauchen wird. Äh, auf Wiedersehen.}
-{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
+{410}{}{Von Geckos gefressen? Das glaub ich einfach nicht. Geckos würden mein Smileylein niemals kriegen. Dafür ist er ein viel zu guter Fallensteller. Du musst dich irren.}
 {411}{}{Ja, vielleicht hast du recht. Tut mir leid, wenn ich dich erschreckt habe. Aber ich hätte da 'ne Frage an dich.}
 {412}{}{Nee. Ich hab ihn gesehen. Oder jedenfalls das, was noch von ihm übrig war. War kein schöner Anblick. Naja, bis demnächst. Tschüss.}
 {413}{}{Erwischt! Hä, ha, wollte dich nur auf 'n Arm nehmen. Ja, das war's. Mach's mal gut.}

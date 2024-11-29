@@ -123,7 +123,7 @@
 {220}{}{Show her your rifles.}
 {221}{}{Show her your general inventory.}
 {222}{}{Never mind. I wanted to know something else...}
-{223}{}{Maybe some other time.}
+{223}{}{Có lẽ để sau đi.}
 {224}{}{I could put a speed loader on that magnum of yours for $800.}
 {225}{}{Hmmmm. That Desert Eagle you have... I could give it an expanded magazine, if you want. That'll cost $1000.}
 {226}{}{Upgrade the magnum.}

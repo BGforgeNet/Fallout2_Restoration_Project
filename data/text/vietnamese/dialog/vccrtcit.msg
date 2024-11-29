@@ -5,7 +5,7 @@
  of lists. *Lots* of lists.}
 {104}{}{Can't wait to get back inside the walls.}
 {105}{}{Good day, Citizen.}
-{106}{}{Excuse me.}
+{106}{}{Thứ lỗi.}
 {107}{}{You are in my way.}
 {108}{}{Why don't you go back outside with the others?}
 {109}{}{Can you keep a little distance, please?}

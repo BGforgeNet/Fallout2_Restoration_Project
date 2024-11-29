@@ -36,7 +36,7 @@
 {222}{}{I need help. It hurts bad.}
 {223}{}{Lady, can you get me some help?}
 {225}{}{I greatly appreciate that.}
-{226}{}{Hey, what do you think you're doing?}
+{226}{}{Này, anh nghĩ mình đang làm cái quái gì thế?}
 {230}{}{Feels so good.}
 {231}{}{Uhhh...}
 {232}{}{[giggle]}

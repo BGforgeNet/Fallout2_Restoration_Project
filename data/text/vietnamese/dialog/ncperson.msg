@@ -324,7 +324,7 @@
 {634}{}{I got to get out of this town.}
 {635}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
 {636}{}{TRIED to quit, but...}
-{637}{}{Stop bothering me.}
+{637}{}{Đừng làm phiền tôi nữa.}
 {638}{}{Look, I ain't got the time to talk to you right now.}
 {650}{}{Yer friend has a bone through his nose.}
 {651}{}{Everybody in yer little band stick a bone through their nose to prove themselves?}
@@ -364,7 +364,7 @@
 {685}{}{I got to get out of this town.}
 {686}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
 {687}{}{TRIED to quit, but...}
-{688}{}{Stop bothering me.}
+{688}{}{Đừng làm phiền tôi nữa.}
 {689}{}{Look, I ain't got the time to talk to you right now.}
 {690}{}{She's yer "wife," huh? Can I borrow her fer an hour or two?}
 {691}{}{Wanna swap wives for a while?}
@@ -408,7 +408,7 @@
 {731}{}{I got to get out of this town.}
 {732}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
 {733}{}{TRIED to quit, but...}
-{734}{}{Stop bothering me.}
+{734}{}{Đừng làm phiền tôi nữa.}
 {735}{}{Look, I ain't got the time to talk to you right now.}
 {736}{}{Might head downtown, see if any new men are in town...}
 {737}{}{Glad they put that asshole on the rack...}

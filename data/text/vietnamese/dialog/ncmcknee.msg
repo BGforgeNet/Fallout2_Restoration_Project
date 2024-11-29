@@ -7,7 +7,7 @@
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}
 {202}{}{::Flexes::}
-{203}{}{I'm bushed.}
+{203}{}{Tôi cháy túi rồi.}
 {204}{}{I'm tired.}
 {205}{}{*Phewwww* Rough day.}
 {206}{}{Working out always makes me tired.}

@@ -50,7 +50,7 @@
 {302}{}{Bitch? I'll show you what this bitch can do.}
 {303}{}{Đmm.}
 {304}{}{[Leave]}
-{310}{}{Beat it.}
+{310}{}{Thôi đi.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
 {321}{}{Ur.}
 {322}{}{Ừ...}
@@ -72,7 +72,7 @@
 {370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
 {371}{}{Vâng?}
 {372}{}{What now?}
-{373}{}{How's it going?}
+{373}{}{Sao rồi?}
 {374}{}{Sorry, gotta go.}
 {375}{}{Uk.}
 {376}{}{Lub?}
@@ -93,7 +93,7 @@
 {413}{}{Not bad.}
 {414}{}{Tired.}
 {415}{}{Okay.}
-{416}{}{Beat it.}
+{416}{}{Thôi đi.}
 {417}{}{Been better.}
 {418}{}{Oh.}
 {430}{}{Can't wait for that party. Hope he has a few whores there again.}

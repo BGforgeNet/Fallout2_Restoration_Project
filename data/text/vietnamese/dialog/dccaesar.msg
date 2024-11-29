@@ -108,11 +108,11 @@ phía Đông Nam chỗ này và phần lớn người The Den đều trao đổi
 {252}{}{Bán!}
 {253}{}{Chưa đủ.}
 {254}{}{Thế thì ít quá. Tôi đi đây.}
-{255}{}{Mày muốn làm gì với Vic? Lão ta giờ là tài sản của ta rồi. Ai bảo đi chọc vào tao.}
+{255}{}{Mày muốn làm gì với Vic? Lão ta giờ là tài sản của tao rồi. Ai bảo đi chọc vào tao.}
 {256}{}{Tôi muốn mua ông ta.}
 {257}{}{Sao ông lại giữ ông ta ở đây?}
 {258}{}{Không có gì. Thôi quên đi.}
-{259}{}{Lão ta vẫn chưa được bán đâu.}
+{259}{}{Lão hói đấy vẫn chưa được xuất chuồng đâu.}
 {260}{}{Sao lại chưa?}
 {261}{}{Ồ, okay.}
 {262}{}{Lão ta có giá 2000$.}
@@ -120,39 +120,39 @@ phía Đông Nam chỗ này và phần lớn người The Den đều trao đổi
 {264}{}{Nhiều thế. Để sau đi.}
 {265}{}{Giá 1000$.}
 {266}{}{Tiền của ông đây.}
-{267}{}{Don't have that much yet. Bye.}
-{268}{}{Our radio is broken and he's in charge of fixing it.}
+{267}{}{Chưa đủ từng ấy tiền. Chào.}
+{268}{}{Đài radio của bọn tao bị hỏng và lão ta nhận sửa nó.}
 {269}{}{Hiểu rồi.}
-{270}{}{You haven't got the money!}
-{271}{}{Too bad for me. Can I ask you a question?}
-{272}{}{Sorry, I'll come back.}
-{307}{}{How dare you return after abandoning your brothers during a Slave Run! Guards! Attack!}
+{270}{}{Mày đã có tiền đâu!}
+{271}{}{Tệ thật đấy. Tôi hỏi một câu được không?}
+{272}{}{Xin lỗi, tôi sẽ trở lại.}
+{307}{}{Sao mày dám vác mặt về sau khi bỏ anh em trong lúc đi Lùa Nô hả? Lính gác đâu! Tấn công!}
 {308}{}{[xong]}
-{309}{}{Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?}
-{310}{}{No. I'll come back.}
-{311}{}{Yes, I'm ready. Let's go.}
-{312}{}{Ah, you are back from the Slave run. Let's see how you did...}
-{313}{}{[more]}
-{314}{}{[more]}
-{315}{}{You killed potential slaves! A dead man brings us no income! Only kill the ones that are a threat,
- the others are of no threat.}
-{316}{}{[more]}
-{317}{}{You returned no slaves at all! What the hell is wrong with you? We're trying to make money here,
- not lose it.}
-{318}{}{[more]}
-{319}{}{Overall, you did well this Run. Keep up the good work and I might keep you around a while.}
-{320}{}{Thank you. I will.}
-{321}{}{I don't know if I like this too much.}
-{322}{}{You need to improve your enslavement technique.}
+{309}{}{Tuyệt đấy! Mất khoảng vài ngày để mày làm một chuyến đến đó. Giờ mày đã sẵn sàng để đi chưa?}
+{310}{}{Không. Tôi sẽ trở lại.}
+{311}{}{Có, tôi sẵn sàng rồi. Đi thôi.}
+{312}{}{À, mày đi Lùa Nô về rồi đấy. Xem thử làm ăn ra răng nào...}
+{313}{}{[thêm]}
+{314}{}{[thêm]}
+{315}{}{Mày đã giết một kẻ có thể làm nô lệ! Mấy đứa chết rồi thì làm đéo gì ra tiền! Chỉ giết đứa nào
+nguy hiểm thôi, lũ còn lại thì mặc xác chúng.}
+{316}{}{[thêm]}
+{317}{}{Mày về mà chẳng có nổi một đứa nô lệ bám đít! Mày bị ăn lìn à? Chúng ta đang tìm cách kiếm tiền
+chứ không phải tiêu hoang.}
+{318}{}{[thêm]}
+{319}{}{Nói chung thì lần đi Lùa này mày làm tốt đấy. Cứ tiếp tục như thế đi và tao có thể sẽ cho mày làm lâu hơn.}
+{320}{}{Cám ơn. Chắc rồi.}
+{321}{}{Tôi không chắc là mình thích công việc này.}
+{322}{}{Ông cần phải cải thiện mấy trò quản nô của mình đi.}
 {323}{}{Tôi sẽ thử.}
-{324}{}{I apologize for my poor performance.}
-{325}{}{I think I'm good enough.}
-{326}{}{Damn it! You did terribly in this Run. Are you trying to ruin me? Be more careful next time.
- You don't need to kill them all! Just kill off the hostile ones. Leave the unarmed ones for collection.}
-{327}{}{I'm sorry, Metzger.}
-{328}{}{Hey, it's tough work to be a Slaver!}
-{329}{}{I'd like to see you do better.}
-{330}{}{I'd like to go on a slave run.}
-{331}{}{Damn it! I hate losing any guild member on a Run. Try to watch each other's back!}
-{332}{}{Overall, you did well this Run. Here is $}
-{333}{}{ as an incentive for you to keep up the good work.}
+{324}{}{Tôi xin lỗi vì đã làm không tốt.}
+{325}{}{Tôi nghĩ là mình làm đủ tốt rồi.}
+{326}{}{Mẹ nó chứ! Lần đi Lùa này mày làm ăn như cái củ cải ấy. Mày định làm tao phá sản à? Lần sau nhớ
+cẩn thận đấy. Đâu cần phải thịt tất cả chúng nó! Chỉ giết đứa nào hổ báo thôi. Mấy đứa tay không thì giữ lại.}
+{327}{}{Tôi xin lỗi, Metzger.}
+{328}{}{Này, làm Buôn người đâu có dễ!}
+{329}{}{Tôi thách ông làm tốt hơn đấy.}
+{330}{}{Tôi muốn đi lùa nô.}
+{331}{}{Mẹ kiếp! Tao ghét bị mất tay chân khi đi Lùa. Cố trông chừng lẫn nhau đi chứ!}
+{332}{}{Nói chung thì lần đi Lùa này mày làm tốt đấy. Đây là}
+{333}{}{ $ tiền thưởng cho mày để động viên.}

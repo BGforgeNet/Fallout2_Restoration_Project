@@ -37,7 +37,7 @@
  happier if you'd left them inactive.] Be on your way now. You are dismissed.}
 {321}{}{Cám ơn.}
 {322}{}{Dismissed? What am I, a guardsman? Later, old timer.}
-{330}{}{Leave me alone!}
+{330}{}{Để tôi yên!}
 {331}{}{I want nothing more to do with you.}
 {332}{}{MACH ES DIR SELBER!!}
 {333}{}{I'm busy right now.}
