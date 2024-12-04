@@ -37,6 +37,35 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
+### Version 32 (WIP)
+
+- General
+  - [Reordered](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/322) the ending slides to keep tank vagrants as the last one.
+
+- Abbey
+  - Edited map lighting handling for Abbey (and also Dr.Sheng's hideout) to be more natural.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/275) xp messages with correct Swift Learner bonus for Abbey.
+  - Fixed incorrect xp reward for causing Jack the healer to melt.
+- Arroyo
+  - Fixed missing light source in temple map.
+- Den
+  - Fixed Karl not disappearing after walking out of view.
+- Klamath
+  - Fixed the golden gecko pelt appearance in the locked room in Klamath downtown.
+- Navarro
+  - Added a failsafe for the player getting stuck in Navarro (if they killed the landing pad guards before boarding the vertibird during the secret transaction in New Reno).
+  - Added a check for the commander to the surrender dialog option, as there's no point in taking the player to an empty room.
+- NCR
+  - Fixed reputation check for Vortis (regardless of karma if PC has Cult perk).
+- Umbra Tribe
+  - Fixed the injured hunter (Serin) getting stuck in the cave on his way to exit.
+  - Tribesmen will no longer play equip spear animation every time that combat is started.
+  - One female tribal gets a sledgehammer instead, to show Pixote's extra tribal animation.
+  - Fishermen have their inventory fixed, before they had a stack of 0 poles.
+  - Patched up borders for the waterside map.
+- Vault Village
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/314) an intermittent crash on entering the zone.
+
 ### Version 30
 
 - General

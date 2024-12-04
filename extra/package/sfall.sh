@@ -16,6 +16,7 @@ files="
 ddraw.dll
 ddraw.ini
 sfall.dat
+sfall-FAQ.txt
 sfall-readme.txt
 mods/sfall-mods.ini
 translations
