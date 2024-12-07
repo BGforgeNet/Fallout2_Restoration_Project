@@ -64,6 +64,15 @@ jobs:
           name: rpu.zip
           path: rpu*.zip
 
+      # Create torrents
+      - name: Create torrents
+        uses: devopsx/action-torrent@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          files: |
+            rpu*.exe
+            rpu*.zip
+
       - name: Release
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
@@ -71,5 +80,6 @@ jobs:
           files: |
             rpu*.zip
             rpu*.exe
+            torrents/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
