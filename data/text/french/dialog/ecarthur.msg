@@ -28,13 +28,13 @@
 {127}{}{Bon. Merci pour ton aide. Voilà pour le dérangement.}
 {128}{}{Attendez, moi aussi j'ai une quête. Je cherche le J.E.K sacré. L'avez-vous vu ?}
 {129}{}{Bon, alors, ce n'est pas la peine de continuer cette conversation. Nous partons.}
-{130}{}{[FIN]}
+{130}{}{[Terminé]}
 {131}{}{Saleté de paysans !}
-{132}{}{[FIN]}
+{132}{}{[Terminé]}
 {133}{}{Un sacré J.E.K ? Eh bien oui, on en a deux. On n'en a pas besoin d'autres. Merci pour tout en tout cas.}
 {134}{}{Puisque vous en avez deux, vous pourriez peut-être m'en donner un ?!}
 {135}{}{Non. Je ne peux pas faire ça. Ca ne serait pas juste de terminer ta quête aussi facilement. Il te reste encore beaucoup à faire. Chacun sa quête. [Il te montre une direction de l'index, à peu près là où tu lui as indiqué l'emplacement de la Sainte Grenade d'Antioche.] }
-{136}{}{[FIN]}
+{136}{}{[Terminé]}
 {200}{}{Parles-tu la langue des rois ?}
 {201}{}{Bonjouuuur.}
 {202}{}{Hé, je suis là.}

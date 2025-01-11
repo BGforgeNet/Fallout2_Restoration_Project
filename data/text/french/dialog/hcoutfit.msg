@@ -34,7 +34,7 @@
 {133}{}{Ca t'intéresse pas ? Ok. Reviens si je peux faire quelque chose pour toi.}
 {134}{}{Ok !}
 {135}{}{En fait, c'est autre chose qui m'intéresse.}
-{136}{}{Salut.}
+{136}{}{Au revoir.}
 {137}{}{D'accord. Va pour Gecko. Reviens le premier du mois et tu partiras. J'peux faire autre chose pour toi ?}
 {138}{}{Oui.}
 {139}{}{Non.}
@@ -66,7 +66,7 @@
 {165}{}{Merci.}
 {166}{}{Je suis pas en service pour l'instant. Viens plutôt me voir à la boutique.}
 {167}{}{Il l'a cherché ? Pôv'tache, tuer pour de l'argent, c'est vraiment pas croyable... Tire-toi de ma boutique !}
-{168}{}{Salut.}
+{168}{}{Au revoir.}
 {169}{}{Les problèmes qu'il a, c'est sa faute. Dommage... C'était un maître de caravane vachement bien. Tu veux quelque chose ?}
 {170}{}{Sors de ma boutique. T'as pas ta place ici.}
 {171}{}{Sur le départ pour la Cité de l'Abri ?}
@@ -84,7 +84,7 @@
 {183}{}{Ouais ? Ok. Sors de là. Et reviens quand tu auras assez de cran pour faire le voyage.}
 {184}{}{Super. Tu peux y aller.}
 {185}{}{Je voulais autre chose d'abord.}
-{186}{}{D'accord.}
+{186}{}{Très bien.}
 {187}{}{Ecoute, j'peux rien faire d'autre pour toi pour le moment. Avec tous les mutants morts, on a personne pour faire marcher la mine de manière efficace. Cette ville va crever d'ici un an ou deux. Y'a rien d'autre ici. Tchao.}
 {188}{}{Désolé. J'ai plus rien pour toi. T'as ramassé toute la merde du coin.}
 {189}{}{Tu veux du boulot ? Bon, t'as déjà ramassé toute la merde des Brahmines, j'ai plus que les caravanes. Tu peux en escorter une pour $200. On a des caravanes pour Gecko, la RNC et la Cité de l'Abri. Une fois par semaine.}
@@ -108,7 +108,7 @@
 {208}{}{Pas tout à fait. Je te tiendrai au courant. Merci.}
 {209}{}{Pas encore. Je te tiendrai au courant. J'ai quelques autres questions.}
 {210}{}{Merci.}
-{211}{}{[Suite]}
+{211}{}{[Continuer]}
 {212}{}{Je regrette, mais sans Chad pour m'aider à diriger le personnel, je peux pas organiser le travail comme avant. Il va me manquer, ce pauvre nigaud. Aller mourir dans le désert comme une vulgaire Brahmine blessée !}
 {213}{}{Mes excuses. Au revoir.}
 {214}{}{Je regrette, mais sans Chad pour m'aider à diriger le personnel, je peux pas organiser le travail comme avant.}

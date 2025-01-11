@@ -39,7 +39,7 @@
 {273}{}{Ok.}
 {280}{}{Bon, d'accord, l'esclavagiste. Vas-y. Il croit peut-être que ça va s'envoler comme ça ? De toute façon, j'vois pas qui voudrait de cette merde...}
 {281}{}{Et merde. Vas-y. Il croit peut-être que ça va s'envoler comme ça ? De toute façon, j'vois pas qui voudrait de cette merde...}
-{282}{}{Salut.}
+{282}{}{Au revoir.}
 {290}{}{D'accord. De toute façon, je m'en fiche. Que pourrais-tu faire avec ces merdes de toute façon ?}
 {291}{}{Grrrr.}
 {292}{}{Merci.}
@@ -48,7 +48,7 @@
 {302}{}{Pétasse, hein ? Je vais te montrer moi ce que la pétasse peut faire !}
 {303}{}{Va te faire mettre !}
 {304}{}{[Partir]}
-{310}{}{Va-t'en !}
+{310}{}{Casse-toi.}
 {320}{}{Sympa ! Moi Tyler. Moi partir. Salut.}
 {321}{}{Heu.}
 {322}{}{Euh...}
@@ -84,14 +84,14 @@
 {393}{}{Je comprends. Amuse-toi bien.}
 {394}{}{A plus. }
 {400}{}{Crois-moi. On va boire jusqu'à ce qu'on tombe par terre !}
-{401}{}{Salut.}
+{401}{}{Au revoir.}
 {410}{}{En quoi ça t'regarde ? Casse-toi.}
 {411}{}{Ouais, ouais.}
 {412}{}{T'essaies de m'énerver ?}
 {413}{}{Pas mal.}
 {414}{}{Fatiguant.}
 {415}{}{Ok.}
-{416}{}{Va-t'en !}
+{416}{}{Casse-toi.}
 {417}{}{Ca pourrait aller mieux.}
 {418}{}{Oh !}
 {430}{}{Je me languis de cette fête ! J'espère qu'il va "réinviter" ses filles...}
@@ -145,5 +145,5 @@
 {716}{}{Ca ne fait rien.}
 {717}{}{Shaka ?}
 {800}{}{Qui est - Hé ! C'est toi. Tu viens faire la fête <Hips> avec nous. Je sais que tu en as envie. (Tyler trébuche sur toi et t'attrape l'épaule) Je t'ai déjà dit à quel point je - (Il remarque le gang de Lara) Putain de merde ! Pas question ! Cette fête ne se terminera pas <Hips> à cause d'une salope et ses larbins. C'est l'heure de se défoncer les gars !}
-{801}{}{[FIN]}
+{801}{}{[Terminé]}
 {1255}{}{ !}

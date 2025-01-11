@@ -1,4 +1,4 @@
-1:The strain of plant the scientists were growing mutated, gaining a measure of sentience.
-2:It killed the laboratory technicians and took over the laboratory in which it was first conceived.
-3:It took a massive concentration of resources to crush the being, and this left the Shi poverty-stricken.
-4:They disappeared into the wastes.
+1:Den växtstam som forskarna odlade muterade och fick ett visst mått av medvetande.
+2:Den dödade laboratorieteknikerna och tog över det laboratorium där den först skapades.
+3:Det krävdes en massiv koncentration av resurser för att krossa varelsen, och detta lämnade Shi-klanen fattiga.
+4:De försvann ut i ödemarken.

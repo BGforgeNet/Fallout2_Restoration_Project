@@ -10,7 +10,7 @@
 {109}{}{Non. Laisse tomber.}
 {110}{}{C'est de toi que Arch nous a parlé à la radio ?}
 {111}{}{Non, vraiment, c'est pas toi ?}
-{112}{}{Heinh ?}
+{112}{}{Hein ?}
 {113}{}{Oui.}
 {114}{}{Non.}
 {115}{}{Qui es-tu ? Que fais-tu ici ?}
@@ -28,11 +28,11 @@
 {127}{}{Fais chier !}
 {128}{}{(Ma parole mais t'es sourdingue ou quoi ?! J'ai dit que j'avais une combinaison. T'as juste à signer, là.)}
 {129}{}{Ah tu veux faire le clown hein ?! Bon, eh bien moi j'ai pas besoin de ça. Tu expliqueras au Sergent pourquoi tu n'as pas d'uniforme !}
-{130}{}{Heinh ?}
+{130}{}{Hein ?}
 {131}{}{Bon, très bien. Je vais le faire.}
 {132}{}{Laisse tomber !}
 {133}{}{Ton haut-parleur n'est pas cassé. Je t'entends bien. Signe juste les papiers et on en aura fini.}
-{134}{}{Heinh ?}
+{134}{}{Hein ?}
 {135}{}{Bon, j'abandonne !}
 {136}{}{Quoi ? Je ne suis pas ce genre de personne !}
 {137}{}{Bon, comment t'appelles-tu ?}
@@ -65,7 +65,7 @@
 {164}{}{Non.}
 {165}{}{Ok, faisons ça vite. Enlève ça et je vais te donner une nouvelle combinaison.}
 {166}{}{[Rester là sans bouger]}
-{167}{}{Heinh ?}
+{167}{}{Hein ?}
 {168}{}{Ok.}
 {169}{}{Tu me vires ! Non, je ne crois pas !}
 {170}{}{Oh bon, laisse tomber.}
@@ -90,7 +90,7 @@
 {189}{}{Hein ? [Tu restes immobile]}
 {190}{}{[Nom du joueur]}
 {191}{}{Pas si je tire le premier !}
-{192}{}{Attends une minute... ! tu n'es pas l'un des nôtres ! Gardes !!}
+{192}{}{Attends une minute... ! tu n'es pas l'un des nôtres ! Gardes !}
 {193}{}{Ecoute, j't'ai déjà donné ton équipement, alors maintenant sors d'ici.}
 {194}{}{Que veux-tu ?}
 {195}{}{Hein ?}

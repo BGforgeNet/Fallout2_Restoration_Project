@@ -15,7 +15,7 @@
 {112}{}{Sub-level Violet contains the memory core for storage of data in the EPA and other things that aren't of much interest to visitors. Sorry! However, it directly connects to Sub-level Yellow, which contains more interesting things, like the pharmacist of the future, Mr. Chemmie!}
 {113}{}{Sub-level Green is an exciting level that contains an arboretum, biological weapon research, fascinating new creatures and, every child's favorite, our unique petting zoo.}
 {114}{}{Sub-Level Blue does not exist. If someone told you otherwise, they're dirty liars and are most likely communist sympathizers. Please report them to our security department on Sub-Level Red so they may be dealt with accordingly. Thank you for doing your part as a proud American!}
-{115}{}{Return to main menu.}
+{115}{}{Återgå till huvudmenyn.}
 {116}{}{Thank you for using the location finder.}
 {117}{}{[KLAR]}
 {118}{}{You see a computer.}

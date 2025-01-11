@@ -202,7 +202,7 @@
  that Redding GOLD they dig up. So he ships them Jet, they ship back gold, everybody happy.}
 {695}{}{Quiet bunch. They're led by Louis Salvatore, an original gangster gettin' on in years. Their territory's on the West Side;
  their crib's this bar called Salvatore's on 2nd Street. Don't be making trouble there.}
-{696}{}{Why not?}
+{696}{}{Varför inte?}
 {710}{}{Some free advice: You see a Salvatore, keep your head down n' mouth shut, or they'll cut you in two. They got the best
  firepower this side of Cee-Ay, so nobody with any kinda sense fucks with them, understand?}
 {711}{}{What kind of "firepower" do the Salvatores have?}

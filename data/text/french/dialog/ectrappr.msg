@@ -15,7 +15,7 @@
 {114}{}{Je prends le tout.}
 {115}{}{La prochaine fois peut-être. Salut.}
 {116}{}{J'aime bien faire des affaires avec toi. A un de ces jours.}
-{117}{}{Salut.}
+{117}{}{Au revoir.}
 {118}{}{On dirait que t'es un peu à court de liquide. Prête-moi ta femme pendant 5 minutes. Tu ne le regretteras pas.}
 {119}{}{On dirait que t'es un peu à court de liquide. Prête-moi ton mec pendant 5 minutes. J'ai besoin d'affection virile. En échange, je te donne des peaux.}
 {120}{}{On dirait que t'es un peu à court de liquide. Ecoute, ça fait LONGTEMPS que je vis dans les bois, si tu vois ce que je veux dire. Tu ne le regretteras pas.}
@@ -24,9 +24,9 @@
 {123}{}{[Miria te pardonnera... peut-être. Le côté positif, c'est que le trappeur t'a donné des peaux.]}
 {124}{}{[Davin n'a pas l'air très frais après cette expérience. Mais il marchera normalement d'ici quelques jours, c'est sûr.]}
 {125}{}{[Tu te sens sale dans tous les sens du terme. Mais tu as eu des peaux de gecko.]}
-{126}{}{Salut.}
+{126}{}{Au revoir.}
 {127}{}{[Il lève la main droite et dit :] Hugh. Moi trappeur courageux. Chasser gros geckos. Moi pas passer sur tes terres. Partir en paix. [Il te fait cadeau d'une peau de gecko.]}
-{128}{}{[FIN]}
+{128}{}{[Terminé]}
 {129}{}{Je n'ai plus rien à faire avec toi.}
 {130}{}{Espèce de lâche !}
 {131}{}{Ici, c'est mon territoire de chasse. Va-t'en !}

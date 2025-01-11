@@ -10,7 +10,7 @@
 {206}{}{Les esprits t'acceptent comme l'un des nôtres désormais.}
 {207}{}{Merci de nous avoir aidés.}
 {208}{}{Je pensais que les étrangers étaient maléfiques. Ce n'est pas le cas...}
-{209}{}{Ne fais pas ça !}
+{209}{}{Ne fais pas ça.}
 {210}{}{Les esclavagistes ne sont pas les bienvenus ici !}
 {300}{}{Nous sommes honorés de ta présence, héros.}
 {301}{}{Ta victoire sur l'Enclave restera gravée dans les mémoires. Tes ancêtres sont fiers de toi.}

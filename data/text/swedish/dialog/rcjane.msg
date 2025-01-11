@@ -102,7 +102,7 @@
 {201}{}{I sure do.}
 {202}{}{I think I'll sit this next one out.}
 {203}{}{Look, nobody's forcing you to bet on them, are they? You don't like what you see here, then just keep walkin', you won't be missed. Understand?}
-{204}{}{I understand.}
+{204}{}{Jag förstår.}
 {205}{}{What a shot! }
 {206}{}{ took out }
 {207}{}{ in the very first round! What action!}

@@ -12,7 +12,7 @@
 {111}{}{Hum, j'ai besoin de me faire enlever une excroissance. Mon sixième orteil.}
 {112}{}{En fait, mon acolyte, là, aurait besoin de quelques soins médicaux.}
 {113}{}{En fait, mes amis, là, auraient besoin de quelques soins médicaux.}
-{114}{}{Où suis-je ici ?}
+{114}{}{Quel est cet endroit ?}
 {115}{}{Euh, c'est quoi, déjà, cet endroit ?}
 {116}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {117}{}{Pas maintenant. Ca a l'air pire que ça n'est.}
@@ -23,12 +23,12 @@
 {122}{}{'fistoleeer ? 'fistoler ! Prendre argeent, répppare fuites.}
 {123}{}{Salut !}
 {124}{}{Pas 'ssez argeent, Salut !}
-{125}{}{D'accord.}
+{125}{}{Très bien.}
 {126}{}{C'est pas donné. Que dirais-tu de }
 {127}{}{ ?}
 {128}{}{C'est pas grave. Pourquoi pas plutôt mon acolyte ?}
 {129}{}{C'est pas grave. Pourquoi pas plutôt mes amis ?}
-{130}{}{Où suis-je ici ?}
+{130}{}{Quel est cet endroit ?}
 {131}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {132}{}{J'ai pas assez. Je reviendrai quand j'aurai plus d'argent.}
 {133}{}{Non, merci. Peut-être une autre fois.}
@@ -40,7 +40,7 @@
 {139}{}{Shaalut.}
 {140}{}{Peux-tu soigner mon acolyte, là ?}
 {141}{}{Peux-tu soigner mes amis, là ?}
-{142}{}{Où suis-je ici ?}
+{142}{}{Quel est cet endroit ?}
 {143}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {144}{}{Je me sens beaucoup mieux, merci.}
 {145}{}{Heu, bon, ce n'est peut-être pas la chose la plus sûre pour toi. Vu la façon dont tu parles, on dirait que tu as déjà fait quelques tours dans le vieux Doc. Mais si tu veux...}
@@ -59,21 +59,21 @@
 {158}{}{Très bien... Vu l'état, ça va coûter }
 {159}{}{ dollars. Si t'as le fric, c'est bon.}
 {160}{}{Evidemment, je garantis rien avec le vieux Doc de la pièce du fond...}
-{161}{}{D'accord.}
+{161}{}{Très bien.}
 {162}{}{C'est pas donné. Que dirais-tu de }
 {163}{}{ ?}
 {164}{}{Tant pis. Et pourquoi pas moi, à la place ?}
-{165}{}{Où suis-je ici ?}
+{165}{}{Quel est cet endroit ?}
 {166}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {167}{}{J'ai pas assez. Je reviendrai quand j'aurai plus d'argent.}
 {168}{}{J'ai changé d'avis. Peut-être une autre fois.}
 {169}{}{Bon, alors, écoute... }
 {170}{}{ dollars pour vous tous, et on dira qu'on est quittes. Qu'en dis-tu ?}
-{171}{}{D'accord.}
+{171}{}{Très bien.}
 {172}{}{Je ne sais pas. C'est pas donné. Que dirais-tu de }
 {173}{}{ dollars ?}
 {174}{}{Peux-tu simplement me soigner moi, à la place ?}
-{175}{}{Où suis-je ici ?}
+{175}{}{Quel est cet endroit ?}
 {176}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {177}{}{J'ai pas assez. Je reviendrai quand j'aurai plus d'argent.}
 {178}{}{J'ai changé d'avis. Peut-être une autre fois.}
@@ -107,7 +107,7 @@
 {206}{}{Hum, j'ai besoin de me faire enlever une excroissance. Mon sixième orteil.}
 {207}{}{Mon acolyte, là, a besoin de soins médicaux.}
 {208}{}{Mes amis, là, ont besoin de soins médicaux.}
-{209}{}{Où suis-je ici ?}
+{209}{}{Quel est cet endroit ?}
 {210}{}{C'est quoi, déjà, cet endroit ?}
 {211}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {212}{}{C'est tout pour aujourd'hui, en fait.}

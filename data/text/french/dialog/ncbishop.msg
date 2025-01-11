@@ -198,7 +198,7 @@
 {735}{}{Tu aimes la défonce, la vraie ? Je peux te donner tout ce que tu veux. Tu veux des armes, du matos récent, un bon flingue pour tirer sur les cons ? Tout ça... c'est pour toi. SI... [Il lève l'index.] Si tu rentres dans la famille...}
 {736}{}{Ca marche. Mets-moi sur la liste... patron.}
 {740}{}{D'accord... ! Comment veux-tu qu'on t'appelle ?}
-{741}{}{<Grmmble...>}
+{741}{}{...}
 {745}{}{... Ca me plaît. Maintenant, si tu veux tirer profit de ta réputation, descends au bar, ou va dans la Rue de la Vierge, au Cat's Paw. Si tu veux des armes, va à l'Armurerie de New Reno.}
 {746}{}{Ca marche... patron.}
 {750}{}{Hé, }

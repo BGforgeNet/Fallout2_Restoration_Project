@@ -21,7 +21,7 @@
 {120}{}{Oui, certainement. Très bien. Si on se quitte en amis, humain, tu devrais parler à Goris. Il comprend mieux le sujet que moi. Il est souvent à la bibliothèque de l'abri.}
 {121}{}{Merci. J'ai hâte de rencontrer Goris.}
 {122}{}{Je n'ai aucunement l'intention d'ajouter un Griffemort à ma liste d'amis. Au revoir !}
-{123}{}{D'accord.}
+{123}{}{Très bien.}
 {124}{}{Ils sont partis, humain. Nous ne les avons pas tués, ni pris leur maison. On n'a pas l'habitude de tuer. Je comprendrais que tu ne veuilles pas me croire, mais j'espère que tu me jugeras au travers de mes actions envers toi et non à cause de la peur et des préjugés.}
 {125}{}{Hé, tu crois peut-être que je peux te botter le train ?}
 {126}{}{Tu as l'air de quelqu'un d'honorable, Gruthar.}
@@ -68,12 +68,12 @@
 {167}{}{J'en ai assez entendu pour le moment. J'ai besoin de temps pour réfléchir.}
 {168}{}{Je vois...}
 {169}{}{Ta décision me déplaît, mais je l'accepte. Tu peux partir, mais je t'en prie, reviens si tu changes d'avis.}
-{170}{}{C'est terminé.}
+{170}{}{Terminé.}
 {171}{}{Bonjour }
 {172}{}{Non, mais on verra.}
 {173}{}{Je regrette, Gruthar. Le module vocal ne fonctionne pas et je dois aller en chercher un autre.}
 {174}{}{Je ne comprends rien au fonctionnement de ces trucs, mais je te fais confiance, }
-{175}{}{C'est terminé.}
+{175}{}{Terminé.}
 {176}{}{Je reviendrai, je te le promets.}
 {177}{}{Bonjour }
 {178}{}{Non, je cherche toujours.}
@@ -126,9 +126,9 @@
 {225}{}{Ta présence ici n'est plus la bienvenue, tu peux partir.}
 {226}{}{Au revoir.}
 {227}{}{Au revoir.}
-{228}{}{C'est terminé.}
+{228}{}{Terminé.}
 {229}{}{J'accepte tes excuses, humain. Passe une bonne journée !}
-{230}{}{C'est terminé.}
+{230}{}{Terminé.}
 {231}{}{. As-tu examiné la machine ?}
 {232}{}{. Je vais attendre ton retour.}
 {233}{}{. As-tu trouvé la pièce pour réparer la machine ?}

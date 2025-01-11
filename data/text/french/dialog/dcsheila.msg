@@ -1,6 +1,6 @@
 {100}{}{Tu vois une prostituée.}
 {150}{}{Tu vois une prostituée tout ce qu'il y a de plus banal.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{Hé, je fais pas les nanas !}
 {154}{}{Peu importe.}
 {155}{}{Pardon.}
@@ -51,14 +51,14 @@
 {201}{}{J'ai déjà eu à faire à des mauvais coups, mais j'ai l'impression qu'après ça, c'est toi qui m'dois quelque chose.}
 {202}{}{On peut pas dire que tu valais l'argent que tu demandes.}
 {203}{}{Je vais te manquer.}
-{204}{}{Salut.}
+{204}{}{Au revoir.}
 {205}{}{Perdu ?}
 {206}{}{Reviens quand tu veux.}
 {207}{}{Ok. Salut.}
 {208}{}{Ouais, d'accord.}
 {209}{}{Hou la la !}
 {210}{}{A plus. }
-{211}{}{Salut.}
+{211}{}{Au revoir.}
 {212}{}{Salut.}
 {213}{}{C'est $ }
 {214}{}{ la séance. On paie d'avance.}

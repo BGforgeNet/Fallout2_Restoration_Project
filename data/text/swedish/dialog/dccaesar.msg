@@ -110,43 +110,43 @@
 {254}{}{That's way too little. I'm leaving.}
 {255}{}{What do you want with Vic? He's my property now. He shouldn't have fucked with me.}
 {256}{}{I'd like to buy him.}
-{257}{}{Why are you keeping him here?}
+{257}{}{Varför håller du honom här?}
 {258}{}{Nothing. Never mind.}
-{259}{}{He is not for sale, yet.}
-{260}{}{Why not?}
+{259}{}{Han är inte till salu, än.}
+{260}{}{Varför inte?}
 {261}{}{Oh, okay.}
-{262}{}{He will cost $2000.}
-{263}{}{Here is your money.}
-{264}{}{That's a lot. Maybe later.}
-{265}{}{The cost is $1000.}
-{266}{}{Here is your money.}
-{267}{}{Don't have that much yet. Bye.}
-{268}{}{Our radio is broken and he's in charge of fixing it.}
+{262}{}{Han kommer att kosta $2000.}
+{263}{}{Här får du dina pengar.}
+{264}{}{Det är en hel del. Kanske senare.}
+{265}{}{Kostnaden är $1000.}
+{266}{}{Här får du dina pengar.}
+{267}{}{Har inte så mycket än. Hej då.}
+{268}{}{Vår radio är trasig och han är ansvarig för att laga den.}
 {269}{}{I see.}
-{270}{}{You haven't got the money!}
-{271}{}{Too bad for me. Can I ask you a question?}
-{272}{}{Sorry, I'll come back.}
-{307}{}{How dare you return after abandoning your brothers during a Slave Run! Guards! Attack!}
+{270}{}{Du har inte pengarna!}
+{271}{}{Synd för mig. Får jag fråga dig en sak?}
+{272}{}{Ledsen, jag kommer tillbaka.}
+{307}{}{Hur vågar du återvända efter att ha övergett dina bröder under en slavjakt! Vakter! Anfall!}
 {308}{}{[färdig]}
-{309}{}{Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?}
-{310}{}{No. I'll come back.}
-{311}{}{Yes, I'm ready. Let's go.}
-{312}{}{Ah, you are back from the Slave run. Let's see how you did...}
+{309}{}{Utmärkt! Det kan ta några dagar för dig att resa fram och tillbaka. Är du redo att åka nu?}
+{310}{}{Nej. Jag kommer tillbaka.}
+{311}{}{Ja, jag är redo. Nu drar vi.}
+{312}{}{Ah, du är tillbaka från slavjakten. Nu ska vi se hur det gick för dig...}
 {313}{}{[mer]}
 {314}{}{[mer]}
-{315}{}{You killed potential slaves! A dead man brings us no income! Only kill the ones that are a threat,
- the others are of no threat.}
+{315}{}{Du dödade potentiella slavar! En död man ger oss ingen inkomst! Döda bara de som är ett hot,
+ de andra är inget hot.}
 {316}{}{[mer]}
-{317}{}{You returned no slaves at all! What the hell is wrong with you? We're trying to make money here,
- not lose it.}
+{317}{}{Ni återtog inga slavar alls! Vad fan är det för fel på dig? Vi försöker tjäna pengar här,
+ inte förlora dem.}
 {318}{}{[mer]}
-{319}{}{Overall, you did well this Run. Keep up the good work and I might keep you around a while.}
-{320}{}{Thank you. I will.}
-{321}{}{I don't know if I like this too much.}
-{322}{}{You need to improve your enslavement technique.}
+{319}{}{Överlag gjorde du bra ifrån dig den här rundan. Fortsätt med det goda arbetet så kanske jag behåller dig ett tag till.}
+{320}{}{Tack så mycket. Det ska jag göra.}
+{321}{}{Jag vet inte om jag gillar det här så mycket.}
+{322}{}{Du måste förbättra din förslavningsteknik.}
 {323}{}{Jag ska försöka.}
-{324}{}{I apologize for my poor performance.}
-{325}{}{I think I'm good enough.}
+{324}{}{Jag ber om ursäkt för min dåliga prestation.}
+{325}{}{Jag tror att jag är tillräckligt bra.}
 {326}{}{Damn it! You did terribly in this Run. Are you trying to ruin me? Be more careful next time.
  You don't need to kill them all! Just kill off the hostile ones. Leave the unarmed ones for collection.}
 {327}{}{I'm sorry, Metzger.}

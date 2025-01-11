@@ -57,4 +57,4 @@
 {156}{}{Toutes tes pitreries là, c'est bien gentil, mais tu me fatigues maintenant. Tire-toi, débile.}
 {157}{}{Bédile ? Salut.}
 {158}{}{Grrr ! Moi tuer !}
-{200}{}{Amenez-vous !}
+{200}{}{Vas-y, ramène-toi !}

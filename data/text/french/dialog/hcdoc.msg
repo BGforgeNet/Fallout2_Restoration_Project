@@ -76,7 +76,7 @@
 {175}{}{Ha ! Et elle fait des siennes dans le corps d'un vieil homme de 70 ans !}
 {176}{}{J'me passe de tes conneries, vieillard.}
 {177}{}{Hummm... Ouais. J'avais d'autres questions.}
-{178}{}{Salut.}
+{178}{}{Au revoir.}
 {179}{}{Tête de linotte, tu menaces le seul docteur de la ville ! [Toux.] Dis donc, si tu veux quelque chose, tu peux demander poliment. Sinon, fous le camp de mon hôpital.}
 {180}{}{Vas-y, vieillard. Prépare-toi à mourir.}
 {181}{}{Ouais. Comme tu veux.}
@@ -137,7 +137,7 @@
 {313}{}{Laisse tomber.}
 {314}{}{Tu as mal ? Laisse-moi faire. Je vais aussi m'occuper de tes compagnons.}
 {315}{}{Et voilà. En pleine forme.}
-{316}{}{[Suite]}
+{316}{}{[Continuer]}
 {400}{}{Canigou.}
 {401}{}{K9.}
 {402}{}{Kitsune.}

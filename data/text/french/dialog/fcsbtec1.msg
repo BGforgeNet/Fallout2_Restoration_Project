@@ -7,5 +7,5 @@
 {202}{}{Tous ces câbles étendus partout et aucune isolation de prévue...}
 {203}{}{J'espère que je ne serai pas électrocuté en rechargeant le générateur.}
 {300}{}{Hé, je suis occupé là.}
-{301}{}{Désolé, je travaille.}
+{301}{}{Pardon, mais je travaille.}
 {302}{}{Ces câbles ne vont pas se réparer tous seuls, Ok ? Va trouver quelqu'un d'autre à emmerder.}

@@ -63,17 +63,17 @@
 {301}{}{Les alcools sont toujours à $5, et ceux de la famille Dyer sont les meilleurs au monde.}
 {302}{}{Est-ce que ça va ? Tu veux un whisky ? Seulement $5.}
 {303}{}{Je prendrais bien un verre.}
-{304}{}{Why are your drinks so cheap?}
+{304}{}{Pourquoi tes boissons sont si bon marché ?}
 {305}{}{Dyer ?}
 {306}{}{Puis-je te poser une question ?}
-{307}{}{Salut.}
+{307}{}{Au revoir.}
 {308}{}{Ouik.}
 {309}{}{Urka.}
 {320}{}{Oh, c'est mon nom de famille. On est dans les alcools depuis très longtemps, bien avant la guerre bien sûr.}
 {321}{}{Comme je l'ai dit, c'est mon nom de famille. Avant, il y avait des pubs et des saloons portant le nom de Dyer dans le monde entier.}
 {322}{}{Je prendrais bien un verre.}
 {323}{}{Je peux te poser une autre question ?}
-{324}{}{Salut.}
+{324}{}{Au revoir.}
 {330}{}{Tu es un bon client, je vais te révéler un petit secret. En fait, c'est très simple: j'ai un alambic. Un ami qui habite dans un village voisin m'a appris à en fabriquer un. Alors, t'en veux un autre ?}
 {331}{}{Secret professionnel. Et puis, je ne te connais pas bien. Je ne voudrais pas que Frankie le sache. Il me pose déjà assez de problèmes. Tu en voulais un autre ? C'est du super.}
 {332}{}{D'accord, j'en prends un.}
@@ -92,7 +92,7 @@
 {355}{}{C'est quoi l'arnaque ?}
 {356}{}{Quoi d'autre ?}
 {357}{}{Je peux te poser une question ?}
-{358}{}{Salut.}
+{358}{}{Au revoir.}
 {370}{}{Arnaque ? Oh, si tu connaissais Fred, tu comprendrais. Il me doit cet argent depuis longtemps. J'avais fait une croix dessus, mais si je peux retrouver mon argent, ça me surprendrait beaucoup... et ça me ferait très plaisir évidemment. Il est quelque part en ville, j'en suis sûre.}
 {371}{}{Le titre du livre c'est "La Lavande". Derek doit être chez La Mamma dans le quartier Est.}
 {372}{}{Je vais voir ce que je peux faire.}
@@ -113,7 +113,7 @@
 {410}{}{C'est incroyable qu'ils soient tous les deux morts ! Quel dommage. Merci pour tout. Si tu veux bien m'excuser...}
 {411}{}{Je n'arrive pas à croire qu'il est mort... après toutes ces années !}
 {412}{}{Certainement.}
-{413}{}{<Grmmble...>}
+{413}{}{...}
 {420}{}{Ouais, je sais qui c'est. C'est Vic. Le gars que Metzger a enfermé.}
 {421}{}{Ouais, je le connais Vic. Metzger l'a enfermé. Mais je sais pas pourquoi.}
 {422}{}{Qui c'est Metzger ?}
@@ -128,8 +128,8 @@
 {443}{}{Je ne fais pas affaire avec les gens de ton espèce.}
 {444}{}{Je ne plierai pas sans me battre.}
 {450}{}{Buffy ?! C'est toi ?! Comment vas-tu ? Ca fait tellement longtemps.}
-{451}{}{Heinh ?}
-{452}{}{Heinh ?}
+{451}{}{Hein ?}
+{452}{}{Hein ?}
 {460}{}{David te passe le bonjour. Il aurait aimé être là mais il a dû fuir.}
 {461}{}{Où va-t-on ?}
 {470}{}{A cause d'un commando... ou peut-être poursuivait-il un commando ? Je ne sais pas exactement. Quelque chose dans le genre.}
@@ -169,4 +169,4 @@
 {572}{}{Alors.}
 {573}{}{Ca ne me surprendrait pas.}
 {580}{}{Alors, tu te débines ? Ca m'étonne pas.}
-{581}{}{<Grmmble...>}
+{581}{}{...}

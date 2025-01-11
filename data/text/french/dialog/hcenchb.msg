@@ -15,7 +15,7 @@
 {114}{}{Eh bien, Marcus le suspecte de voler de l'argent qui est supposé revenir aux Collines Brisées.}
 {115}{}{Merci. Au revoir.}
 {116}{}{Merci. Non, vraiment. Merci d'avoir fait foirer nos primes. Les seules personnes auxquelles Chad faisait du mal sont celles avec lesquelles on commerçait. Il nous aidait, et t'as tout fait foirer. Minable !}
-{117}{}{Salut.}
+{117}{}{Au revoir.}
 {118}{}{L'ennemi est là ! Crève !}
 {119}{}{Oh là là !}
 {120}{}{[Il baisse sa voix et regarde aux alentours.] Ecoute bien. Je l'ai vu un jour, se mettre dans la poche une part de l'argent qu'il avait obtenu pour avoir délivré l'uranium à Gecko. J'étais de garde sur cette caravane et j'ai entendu Chad discuter avec le mec de Gecko. Le gars se plaignait de la montée des prix de l'uranium en provenance des Collines Brisées. Apparemment le chargement était $6 000 plus cher que la dernière fois.}

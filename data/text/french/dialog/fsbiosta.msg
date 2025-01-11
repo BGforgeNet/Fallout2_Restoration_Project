@@ -42,6 +42,6 @@
 {141}{}{Activer la station.}
 {142}{}{[Quitter]}
 {143}{}{[Ton approche maladroite sur les touches te permet malgré tout de trouver le bon mot de passe... Tu as une chance incroyable !]}
-{144}{}{[suite]}
+{144}{}{[Suite]}
 {145}{}{L'ordinateur ne répond à aucune commande.}
 {146}{}{Tu ne trouves aucun endroit pour mettre ça.}

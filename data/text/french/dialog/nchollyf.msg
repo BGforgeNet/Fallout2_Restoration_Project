@@ -14,7 +14,7 @@
 {304}{}{Mike mordre oreilles à moi parce que lui avoir faim.}
 {305}{}{Moi entendre pas bien.}
 {306}{}{::Il gratte ses moignons d'oreille::}
-{307}{}{Heinh ?}
+{307}{}{Hein ?}
 {308}{}{Quoi ? Moi pas bien entendre.}
 {309}{}{Oreille ô désespoir}
 {310}{}{Tu mords ?}
@@ -27,6 +27,6 @@
 {317}{}{Mike mordre oreilles à moi parce que lui avoir faim.}
 {318}{}{Moi entendre pas bien.}
 {319}{}{::Il gratte ses moignons d'oreille::}
-{320}{}{Heinh ?}
+{320}{}{Hein ?}
 {321}{}{Quoi ? Moi pas bien entendre.}
 {322}{}{Oreille ô désespoir}

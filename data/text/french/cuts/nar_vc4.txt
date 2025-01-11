@@ -1,4 +1,4 @@
-1:DURANT LES ANNEES QUI SUIVIRENT, LA CITE DE L'ABRI SUBIT DE PLEIN FOUET DES ATTAQUES DE PILLARDS.
-2:DESESPERES, LES CITOYENS FURENT FORCES DE DEMANDER DE L'AIDE A LA RNC.
-3:EN L'ESPACE D'UN MOIS, UN DETACHEMENT MILITAIRE IMPORTANT DE LA RNC FUT POSTE DANS LA CITE.
-4:LA PRESENCE MILITAIRE SE CHANGEA VITE EN UNE FORCE D'OCCUPATION ET LA CITE DE L'ABRI DEVINT LE PREMIER TERRITOIRE ANNEXE DE LA REPUBLIQUE DE NOUVELLE CALIFORNIE.
+1:Durant les années qui suivirent, la Cité de l'Abri subit de plein fouet des attaques de pillards.
+2:Désespérés, les citoyens furent forcés de demander de l'aide à la RNC.
+3:En l'espace d'un mois, un détachement militaire important de la RNC fut posté dans la Cité.
+4:La présence militaire se changea vite en une force d'occupation et la Cité de l'Abri devint le premier territoire annexé de la République de Nouvelle Californie.

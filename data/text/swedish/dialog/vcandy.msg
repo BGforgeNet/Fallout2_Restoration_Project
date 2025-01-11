@@ -23,7 +23,7 @@
 {122}{}{Patshhh? Patshh! Take moneee, fixx leaks.}
 {123}{}{Bye-bye.}
 {124}{}{Not nuff moneee. Bye-bye.}
-{125}{}{All right.}
+{125}{}{Okej.}
 {126}{}{That's pretty steep. How about }
 {127}{}{?}
 {128}{}{Never mind. How about my friend instead?}
@@ -59,7 +59,7 @@
 {158}{}{All right... from the looks of it, it's gonna cost }
 {159}{}{ bucks. You got the cash, then you're good to go.}
 {160}{}{No guarantees with the ol' Doctor in the back room, of course...}
-{161}{}{All right.}
+{161}{}{Okej.}
 {162}{}{That's pretty steep. How about }
 {163}{}{?}
 {164}{}{Never mind. How about me instead?}
@@ -69,7 +69,7 @@
 {168}{}{I've changed my mind. Maybe some other time.}
 {169}{}{Well, now... tell you what. }
 {170}{}{ bucks for the whole lot of you, and we'll call it even. What do you say?}
-{171}{}{All right.}
+{171}{}{Okej.}
 {172}{}{I don't know. That's a little steep. How about }
 {173}{}{ bucks?}
 {174}{}{Can you heal just me instead?}

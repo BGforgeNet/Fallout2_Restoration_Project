@@ -49,7 +49,7 @@
 {141}{}{Me got it. Go now.}
 {142}{}{Need ask more.}
 {143}{}{You took a foolish chance and you're lucky it paid off.}
-{144}{}{All right.}
+{144}{}{Okej.}
 {145}{}{Good idea. I'm glad to see it worked.}
 {146}{}{Well, let's see... Deathclaws appear to be mutated Jackson's Chameleons, the horned variety.
  There are a lot of similarities still present, but an even greater number of differences. The mutation

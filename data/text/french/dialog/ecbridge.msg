@@ -4,7 +4,7 @@
 {103}{}{Tu vois un homme au regard sauvage. Il porte une barbe négligée et sa voix est grinçante. Son oeil gauche semble prêt à sortir de son orbite.}
 {104}{}{Arrête ! Pour traverser le Pont de la Mort, il faut répondre à trois questions. Après tu verras l'autre bord.}
 {105}{}{Cé... Dé... Eu... èF... Gé...}
-{106}{}{[Se déconnecter à regret]}
+{106}{}{[S'éclipser.]}
 {107}{}{Très bien.}
 {108}{}{Pose-moi les questions, gardien du pont. Je n'ai pas peur.}
 {109}{}{Je reviendrai peut-être plus tard.}
@@ -12,7 +12,7 @@
 {111}{}{Hache... Hi... Jii... Kaa... Elle...}
 {112}{}{ ?}
 {113}{}{Moi }
-{114}{}{[Se déconnecter à regret]}
+{114}{}{[S'éclipser.]}
 {115}{}{ de Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakuin.}

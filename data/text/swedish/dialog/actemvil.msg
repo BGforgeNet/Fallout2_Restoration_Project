@@ -21,29 +21,29 @@
 {119}{}{Säger du att vi ska strida obeväpnade?}
 {120}{}{Dags att få den här striden överstökad.}
 {121}{}{Jag behöver en stund för att förbereda mig för striden.}
-{122}{}{The path of the Chosen One is not an easy trail to walk, }
-{123}{}{. You will be faced with many challenges throughout your lifetime, and the most difficult
- of these will be dealing with your fellow man. There will come a time when diplomacy and tact
- will prove to be useless and your hand must be raised instead. This challenge prepares you to face
- another human, look him in the eyes, and know that you may have to kill him.}
+{122}{}{Den Utvaldes väg är inte en lätt stig att följa, }
+{123}{}{. Du kommer att ställas inför många utmaningar under din livstid, och den svåraste
+ av dessa kommer att vara att handskas med dina medmänniskor. Det kommer att komma en tid då diplomati och takt
+ visar sig vara värdelösa och din hand måste höjas istället. Denna utmaning förbereder dig för att möta
+ en annan människa, se honom i ögonen och veta att du kanske måste döda honom.}
 {124}{}{Okej.}
 {125}{}{I see.}
-{126}{}{No, my friend, you need only defeat me. When the time comes, we will end the battle.}
-{127}{}{Me understand.}
-{128}{}{All right.}
-{129}{}{Yes. Weapons tend to distance us from battle and desensitize the effects of our actions
- against others. When you strike another human being with your bare fist, you both see and feel the
- pain you cause. Battle becomes very personal and all too real then. This is an important lesson for
- you, }
+{126}{}{Nej, min vän, du behöver bara besegra mig. När tiden är inne kommer vi att avsluta striden.}
+{127}{}{Ja' förstå.}
+{128}{}{Okej.}
+{129}{}{Ja. Vapen tenderar att distansera oss från striden och göra oss okänsliga för effekterna av våra handlingar
+ mot andra. När du slår en annan människa med din bara näve, både ser och känner du den
+ smärta du orsakar. Striden blir då mycket personlig och alltför verklig. Detta är en viktig läxa för
+ dig, }
 {130}{}{.}
-{131}{}{Me got it.}
-{132}{}{I understand.}
-{133}{}{Very well. Shall we begin?}
-{134}{}{Me ready.}
+{131}{}{Ja' fatta.}
+{132}{}{Jag förstår.}
+{133}{}{Mycket bra. Ska vi börja?}
+{134}{}{Jag redo.}
 {135}{}{Nej, jag göra i ordning först.}
-{136}{}{I'm ready.}
-{137}{}{No, I need some time to prepare.}
-{138}{}{Very well. Return and tell me when you are ready for your challenge.}
+{136}{}{Jag är redo.}
+{137}{}{Nej, jag behöver lite tid för att förbereda mig.}
+{138}{}{Okej, då. Återvänd och säg till när du är redo för din utmaning.}
 {139}{}{Är du redo för din utmaning,}
 {140}{}{?}
 {141}{}{Jag redo. }
@@ -60,33 +60,33 @@
 {151}{}{Jag skulle vilja besöka templet igen.}
 {152}{}{Hej, Cameron. Redo för ännu en strid?}
 {153}{}{Jag tänkte bara säga hej. Vi ses senare.}
-{154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
- The cave entrance behind me will return you to the last chamber.}
-{155}{}{Okay, me go.}
-{156}{}{All right. Thanks.}
-{157}{}{No thank you, Chosen One. I still carry the bruises from our last encounter and will need
- years to recover!}
-{158}{}{Go bye, Cameron.}
-{159}{}{Ha! Good day to you, Cameron.}
-{160}{}{Chosen One, my ass. I am going to make you the dead one!}
-{161}{}{You have defeated me. You are worthy, Chosen One.}
-{165}{}{I disagree with you. I think that a peaceful solution to any problem is possible.}
-{166}{}{You may be correct, }
-{167}{}{, but not in our current situation. You must defeat me to succeed in your trial.}
-{168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
- Accidents do happen, so what if one of us inadvertently kills the other? Let's just
- end this now rather than take that chance, okay?}
-{169}{}{Hmm... I see your point. I wouldn't want to be responsible for
- killing you when all I meant to do was test your mettle. Very well -- you may
- pass, Chosen One.}
-{170}{}{Hmm... I see your point. However, we must still do battle. I will
- simply take care not to hurt you too much.}
-{171}{}{Thanks! I'll see you back in the village.}
+{154}{}{Ta stigen till vänster om mig, Utvalde. Den leder till det egentliga templet.
+ Grottingången bakom mig leder dig till den sista kammaren.}
+{155}{}{Okej, ja' gå.}
+{156}{}{Okej, då. Tack.}
+{157}{}{Nej, tack ska du ha, Utvalde. Jag bär fortfarande på blåmärkena från vårt senaste möte och kommer att behöva
+ år för att återhämta mig!}
+{158}{}{Hej då, Cameron.}
+{159}{}{Ha! Ha en god dag, Cameron.}
+{160}{}{Den Utvalde, i helvete heller. Jag ska göra dig till den döde!}
+{161}{}{Du har besegrat mig. Du är värdig, Utvalde.}
+{165}{}{Jag håller inte med dig. Jag tror att det är möjligt att hitta en fredlig lösning på alla problem.}
+{166}{}{Du kan ha rätt, }
+{167}{}{men inte i vår nuvarande situation. Du måste besegra mig för att lyckas med din utmaning.}
+{168}{}{Jag känner inte till alla dina styrkor och svagheter, och du känner inte till mina.
+ Olyckor händer, så vad händer om en av oss oavsiktligt dödar den andra? Låt'oss bara
+ avsluta det här nu istället för att ta den chansen, okej?}
+{169}{}{Hmm... Jag förstår vad du menar. Jag skulle inte vilja vara ansvarig för att
+ döda dig när allt jag ville göra var att testa din förmåga. Mycket bra -- du kan
+ passera, Utvalde.}
+{170}{}{Hmm... Jag förstår din poäng. Men vi måste fortfarande strida. Jag kommer
+ helt enkelt se till att inte skada dig för mycket.}
+{171}{}{Tack! Vi ses igen i byn.}
 {172}{}{I see.}
-{200}{}{I don't seem to remember our last battle, Chosen One. I will always wonder how you managed
- to get past me.}
-{201}{}{You have a tongue of purest silver, Chosen One. Your skill with words will open many doors
- for you.}
+{200}{}{Jag minns inte vår senaste strid, Utvalde. Jag kommer alltid att undra hur du lyckades
+ att ta dig förbi mig.}
+{201}{}{Du har en tunga av renaste silver, den Utvalde. Din skicklighet med ord kommer att öppna många dörrar
+ för dig.}
 {300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
 {301}{}{Thanks, Cameron.}
 {302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}

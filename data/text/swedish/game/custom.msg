@@ -4,7 +4,7 @@
 {3}{}{Distance}
 {4}{}{Attack Who}
 {5}{}{Chem Use}
-{10}{}{Done}
+{10}{}{Klar}
 {11}{}{Avbryt}
 {99}{}{Not Applicable.}
 {100}{}{Always!}
@@ -18,7 +18,7 @@
 {203}{}{Not feeling good}
 {204}{}{You need a tourniquet}
 {205}{}{Never!}
-{300}{}{None}
+{300}{}{Ingen}
 {301}{}{Melee}
 {302}{}{Melee then ranged}
 {303}{}{Ranged then melee}

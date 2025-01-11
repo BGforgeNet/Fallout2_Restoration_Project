@@ -62,7 +62,7 @@
 {339}{}{It could be a rough assignment: Can I have one of those laser weapons your family uses?}
 {340}{}{Uh, I don't do contract hits. I'll be leaving now.}
 {350}{}{Mason will have... the details. (Nods at exit.) Go now.}
-{351}{}{All right.}
+{351}{}{Okej.}
 {352}{}{Thank you, Mr. Salvatore. I will go ask Mason.}
 {360}{}{Then you are of... no use to me. Leave now.}
 {361}{}{Uh, waitaminute... I changed my mind. I'll do it.}

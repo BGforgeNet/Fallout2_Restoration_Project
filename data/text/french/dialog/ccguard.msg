@@ -15,6 +15,6 @@
 {114}{}{Des intrus par ici ! Attrapez-les !}
 {115}{}{Voilà l'intrus !}
 {116}{}{Par ici ! Ne les laissez pas s'échapper !}
-{117}{}{On nous attaque sur le front ! Envoyez-nous des renforts !!}
+{117}{}{On nous attaque sur le front ! Envoyez-nous des renforts !}
 {118}{}{Ne laissez pas l'intrus s'échapper !}
 {119}{}{Meurs, primitif !}

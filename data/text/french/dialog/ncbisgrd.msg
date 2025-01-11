@@ -59,7 +59,7 @@
 {337}{}{Ce robot va être transformé en pièces de rechange s'il reste.}
 {345}{}{Je *pensais* avoir senti du mutant. Tu ferais mieux de sortir ce cul jaune d'ici. Maintenant.}
 {346}{}{Ton ami mutant et toi, vous cherchez à servir de cibles ? Dégage-moi ça.}
-{347}{}{Ce mutant a intérêt à sortir d'ici immédiatement, ou je vais lui décalquer la tête contre le mur !!}
+{347}{}{Ce mutant a intérêt à sortir d'ici tout de suite, ou on va accrocher sa tête à un mur.}
 {355}{}{Je *pensais* avoir senti quelque chose de pourri. Dégage cette Goule d'ici.}
 {356}{}{Dégage cette Goule puante d'ici. Maintenant.}
 {357}{}{Si cette Goule n'est pas dehors dans une minute, elle peut faire sa prière. }
@@ -96,7 +96,7 @@
 {425}{}{ ECRASER HUMAINS FAIBLES.}
 {426}{}{[Crie et précipite-toi pour te mettre à l'abri]}
 {427}{}{[Approche en silence, et prépare-toi à faire des dégâts]}
-{428}{}{C'est ça que vous voulez, les gars ?!! C'EST CA ?! Alors venez le chercher, FILS DE P...}
+{428}{}{C'est ça que vous voulez, les gars ?! C'EST CA ?! Alors venez le chercher, FILS DE P...}
 {435}{}{Si tu ne sais pas, alors tu N'AS PAS à savoir. Maintenant, casse-toi.}
 {445}{}{Comme c'est dommage, parce que Bishop s'est envolé vers les cieux il n'y a pas longtemps. Maintenant, casse-toi.}
 {446}{}{T'as entendu ? John Bishop est MORT, putain ! Maintenant, casse-toi, sinon je vais t'envoyer le rejoindre !}
@@ -118,7 +118,7 @@
 {479}{}{Dis-lui que j'ai une sacoche pour lui... de la part de M. Moore.}
 {480}{}{Alors, tant pis.}
 {490}{}{[Le garde s'éloigne un instant, fait coulisser une paroi dans le mur et murmure quelque chose. Il attend une minute, écoute, et se retourne vers toi en haussant les épaules.] Il dit que tu peux monter.}
-{491}{}{D'accord.}
+{491}{}{Très bien.}
 {495}{}{Yo, }
 {496}{}{ !}
 {497}{}{M. Bishop t'attend ?}

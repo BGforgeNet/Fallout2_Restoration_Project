@@ -1,5 +1,5 @@
 {100}{}{Tu vois un garde.}
-{150}{}{Voici l'un des gardes de Tyler.}
+{150}{}{Tu vois l'un des gardes de Tyler.}
 {151}{}{C'est une des gardes de Tyler.}
 {200}{}{T'es encore en vie ?}
 {210}{}{On leur a donné une bonne leçon, hein ?}

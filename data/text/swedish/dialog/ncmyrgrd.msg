@@ -77,7 +77,7 @@
 {400}{}{Nope. Now piss OFF, you little shit.}
 {401}{}{I'm staying until you let me in. In fact, I'd like to see you TRY and move me.}
 {402}{}{I'm staying until you let me in. In fact, I'd like to see you sorry sacks of shit TRY and move me.}
-{404}{}{All right.}
+{404}{}{Okej.}
 {411}{}{Neither have I...}
 {412}{}{Defend yourself.}
 {425}{}{Yeah? Lemme see. Hmmmm. (Checks badge, shrugs.) All right, but keep it quick. Myron's busy, and he don't

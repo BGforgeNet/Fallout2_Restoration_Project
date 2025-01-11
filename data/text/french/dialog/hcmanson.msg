@@ -31,7 +31,7 @@
 {130}{}{C'est juste ! On doit... hum... avoir notre propre opinion ! C'est ce que Franc et Jacob disent toujours !}
 {131}{}{Dis donc, tu les lèches vraiment ces deux-là ! Pourquoi n'essaies-tu pas de penser pour toi-même plutôt que de faire le perroquet ?}
 {132}{}{T'aimes vraiment Franc, hein ?}
-{133}{}{Salut.}
+{133}{}{Au revoir.}
 {134}{}{De quoi j'me mêle ? Barre-toi d'là sinon j't'en envoie une !}
 {135}{}{Autrefois, un type nous a dit qu'on devait avoir nos propres opinions. Ma maman et mon papa disaient qu'il était de la famille. Il est mort en prison, mais il m'a beaucoup marqué. On le disait très intelligent. Je pense qu'ils avaient raison. Tiens, regarde moi !}
 {136}{}{Hum... Ouais. Regarde toi.}

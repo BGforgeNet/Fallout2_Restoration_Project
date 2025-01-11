@@ -18,7 +18,7 @@
 {222}{}{Catin ! Courtisane ! Traînée ! Et... qu'est-ce que tu plus tard ?}
 {225}{}{Qui êtes-vous ? On se connaît ? }
 {226}{}{Salutations... Qu'est-ce que l'Père Tully peut faire pour toi... }
-{227}{}{C'est toi qu'a battu l'Enclave à plates coutures... Euh, à plouc cature ? Quel hérrrroïsme !!}
+{227}{}{C'est toi qu'a battu l'Enclave à plates coutures... Euh, à plouc cature ? Quel hérrrroïsme !}
 {228}{}{Moi Ar...royo.}
 {229}{}{Moi are'foir.}
 {230}{}{J'ai eu affaire à l'Enclave, c'est vrai. Ils ont commencé. J'ai gagné. Mais faut pas se faire d'illusions, mon père. Je ne suis qu'un simple mortel, qui essaie de se frayer un chemin dans ce monde impitoyable... je n'ai rien d'un héros.}
@@ -61,7 +61,7 @@
 {305}{}{La Ligue Antialcoolique, Madame Wright... c'est la même chose. Elle essaie de faire le ménage à New Reno. Elle a fait du bon boulot avec moi.}
 {306}{}{Ca se voit. J'aurais d'autres questions...}
 {315}{}{Des quechtions ? On peut pas dire que je sais grand-chose. Mais pose toujours.}
-{316}{}{Avez-vous déjà entendu parler de l'Abri 13 ?}
+{316}{}{As-tu entendu parler de l'Abri 13 ?}
 {317}{}{Je suis ici parce que je suis à la recherche de ma tribu. Ils ont été kidnappés dans mon village.}
 {318}{}{Vous ne sauriez pas par hasard comment réparer un pétrolier ?}
 {319}{}{Avez-vous déjà entendu parler du Jardin d'Eden en Kit ?}
@@ -69,7 +69,7 @@
 {323}{}{Peut-être que je ferais mieux de repasser quand vous serez un peu moins saoul.}
 {325}{}{Eh bien... Reno... c'est... euh, c'est...}
 {326}{}{Le Chardin d'Eden en Kit ? J'connais pas. Eh bien, à part...}
-{327}{}{L'Appppri trèèèze ? Jamais entendu parler... mais, il y a la CITE de l'Abri au Nord-Est. C'est pt'être c'que tu cherches ? Eh, maintenant que j'y pense...}
+{327}{}{L'Appppri trèèèze ? Jamais entendu parler... mais, il y a la Cité de l'Abri au Nord-Est. C'est pt'être c'que tu cherches ? Eh, maintenant que j'y pense...}
 {328}{}{Les esclavagistes, peut-être ? J'ai entendu dire que c'était là où ils avaient le gros de leur stock... Eh bien, à part pour...}
 {329}{}{Un pétrolier ? Un truc avec des pieds et un baril... J'y connais pas grand-chose... Eh bien... Excepté...}
 {330}{}{Oui... ?}

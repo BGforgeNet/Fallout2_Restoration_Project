@@ -20,7 +20,7 @@
 {124}{}{Erreur !                                                                 Fichiers programme introuvables                                            Veuillez redémarrer}
 {126}{}{[Quitter]}
 {127}{}{Analyse de la commande. Veuillez patienter...                                  Dérivation des commandes utilisateur                                            Accès refusé}
-{128}{}{[Plus]}
+{128}{}{[Suite]}
 {129}{}{Pour désactiver l'alarme, appuyer sur - 1                                    Pour lancer le programme de diagnostic, appuyer sur - 2                             Pour quitter, appuyer sur - 3}
 {130}{}{[Appuyer sur 1]}
 {131}{}{[Appuyer sur 2]}
@@ -39,7 +39,7 @@
 {144}{}{Analyse de la commande Veuillez patienter...                           Terminer...                                                         Dérivation par code Skynet 667                                      L'accès à ce terminal est terminé.}
 {145}{}{[Quitter]}
 {146}{}{Quitter le programme de diagnostics.}
-{147}{}{[Plus]}
+{147}{}{[Suite]}
 {300}{}{ - IDENTITE confirmée}
 {301}{}{Dernier accès enregistré il y a : }
 {303}{}{Caporal Dixon}

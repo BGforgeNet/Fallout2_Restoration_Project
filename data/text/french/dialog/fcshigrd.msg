@@ -1,4 +1,4 @@
-{100}{}{Tu vois un garde portant des vêtements larges, et semblant mourir d'ennui.}
+{100}{}{Tu vois un garde portant des vêtements larges, semblant mourir d'ennui.}
 {101}{}{Tu vois un garde du palais.}
 {102}{}{Tu vois un garde du palais portant une arme qui semble dévastatrice.}
 {103}{}{Passe ton chemin et il n'y aura pas de problème.}

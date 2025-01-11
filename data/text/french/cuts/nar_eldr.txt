@@ -1,4 +1,4 @@
 1:La doyenne d'Arroyo vécut pendant plusieurs années après la destruction de l'Enclave.
-2:Elle s'est réjouie de voir que l'ancienne séparation entre l'Abri 13 et l'Habitant de l'Abri ait été abolie. Elle ne cessa de te répéter qu'elle aurait aimé que l'Habitant de l'Abri soit encore en vie pour voir cet événement...
-3:La doyenne s'est éteint dans son sommeil, certaine que ton nouveau village était en sécurité et serait bientôt florissant.
+2:Elle se réjouit de voir que l'ancienne séparation entre l'Abri 13 et l'Habitant de l'Abri ait été réunie. N'a-t-elle pas sans cesse répété qu'elle aurait aimé que l'Habitant de l'Abri soit encore en vie pour voir cet événement...
+3:La doyenne s'éteignit dans son sommeil, certaine que ton nouveau village était en sécurité et serait bientôt florissant.
 4:Nombreux sont les résidents d'Arroyo qui l'imaginent aujourd'hui dans l'abri des cieux, narrant tes actes de bravoure à l'Habitant de l'Abri.

@@ -11,7 +11,7 @@
 {214}{}{[Retour]}
 {220}{}{La rotation des cultures évite une diminution de la fertilité du sol, en effet la même culture répétée au même endroit a tendance à appauvrir le sol, en y épuisant les nutriments présents.
  Une culture qui absorbe un genre de nutriment dans le sol est suivie, pendant la saison suivante, d'une culture différente qui renvoie ce nutriment dans le sol ou puise des proportions différentes de nutriments.}
-{221}{}{[Plus]}
+{221}{}{[Suite]}
 {222}{}{La rotation des cultures est également employée afin d'éviter que les parasites et les maladies s'établissent dans le sol avec le temps. Les plantes de la même famille tendent à avoir des parasites et des microbes pathogènes semblables. En changeant régulièrement l'emplacement des cultures, le cycle du parasite peut-être cassé ou limité.}
 {223}{}{[Retour]}
 {230}{}{La botanique est l'étude scientifique des végétaux. Comme avec d'autres formes de vie dans la biologie, les plantes peuvent être étudiées suivant différentes perspectives, de la molécule jusqu'à la plante elle-même. Une bonne compréhension de la flore est cruciale pour le futur des humains car elle nous permettrait de :
@@ -31,7 +31,7 @@
 {250}{}{Diverses expériences ont été entreprises pour faire pousser de nouvelles plantes. Plusieurs de ces tentatives ont réussi et on peut observer les résultats de ces cultures, dans un état stable, à l'arboretum. Les réservoirs de stockage indiquent actuellement que des échantillons de graines sont encore disponibles pour d'avantages d'essais.}
 {251}{}{Une plante à spore est une forme mutée de l'Amanite-tue-mouche. Des tests additionnels ont montré que la plante est vraiment agressive et possède deux types d'attaques. L'une d'elles est l'expectoration de spores sur ses ennemis. L'autre est la morsure avec sa *bouche* épineuse. Une grande précaution est suggérée en manipulant et en travaillant avec ces formes de vie.}
 {252}{}{Après des essais plus poussés, les Centaures semblent être le sous-produit du virus à évolution forcée. Ils semblent être un mélange de chien, de chat, de Brahmine, et d'autres animaux. Le FEV n'est pas la seule cause de cette mutation, les radiations semblent aussi avoir une part de responsabilité. Ils semblent préférer vivre dans un environnement irradié.}
-{253}{}{[Plus]}
+{253}{}{[Suite]}
 {254}{}{Les origines et l'étymologie des Flotteurs sont inconnues mais ils sont vraisemblablement liés aux Centaures avec lesquels ils sont souvent. Ils semblent aussi être le résultat du FEV. Des tests additionnels ont montré qu'ils étaient complètement immunisés contre les dommages électriques.}
 {255}{}{Les radscorpions sont une version extrêmement grande du radscorpion Empereur Nord-Américain, qui a subi une mutation due aux rayonnements.
 Contrairement aux hypothèses, leur poison est devenu plus efficace, non dilué. Ils sont nocturnes et sensibles à la lumière. Davantage de tests ont prouvé que des échantillons de poison de leurs queues peuvent être employés pour préparer des antidotes.}

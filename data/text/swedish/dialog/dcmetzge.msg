@@ -104,7 +104,7 @@
 {350}{}{Once they start tagging the slaves, you can head back if you like. It takes
  special training, so don't try to subdue the others yourself. You can do whatever
  you want just as long as you don't damage the goods.}
-{351}{}{All right.}
+{351}{}{Okej.}
 {352}{}{Uh huh.}
 {360}{}{Ah, yeah. She's pretty nice. I'll give you $}
 {361}{}{He's okay. I could probably take him off your hands for, oh, say $}
@@ -151,7 +151,7 @@
 {442}{}{What about him?}
 {443}{}{Yeah, that's him.}
 {444}{}{Can I see him?}
-{445}{}{Why are you keeping him here?}
+{445}{}{Varför håller du honom här?}
 {446}{}{Okay, thanks. Bye.}
 {455}{}{That little fuck - he sold me a radio that he said would be able to pick up
  some transmissions. It didn't. I caught his ass trying to sneak out of town before
@@ -167,7 +167,7 @@
 {463}{}{What kind transmissions were you talking about before?}
 {475}{}{What for? Ah, fuck, never mind. Just don't keep him from fixing that damn
  radio - and he better fix it soon. I'm sick of feeding his lazy ass.}
-{476}{}{Why are you keeping him here?}
+{476}{}{Varför håller du honom här?}
 {477}{}{Tack.}
 {485}{}{The Enclave and New... Hey, what the hell you care for? It's business. I need to be sure no one's trying to fuck me over. That's all you need to know.}
 {486}{}{Mind your own business.}
@@ -264,7 +264,7 @@
 {742}{}{I'm not getting out of this am I?}
 {750}{}{Oh, but this will be fun. Trust me.}
 {751}{}{Fan ta dig.}
-{752}{}{Uh, okay.}
+{752}{}{Eh, okej.}
 {800}{}{You've killed the leader of the Slave Guild.}
 {900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}
 {901}{}{Uh, sorry. Let me ask you something else then.}

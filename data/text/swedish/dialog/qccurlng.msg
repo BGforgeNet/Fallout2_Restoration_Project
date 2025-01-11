@@ -129,7 +129,7 @@
 {228}{}{Jag hatar att erkänna det, men du kan ha rätt. Det vi har planerat hela tiden är inte rätt. Jag var så förblindad av att försöka övervinna hindren att jag inte tänkte på det moraliska i min strävan.}
 {229}{}{Nu när du har tänkt på det. Du borde förstöra giftet.}
 {230}{}{Det kanske... Nej, det skulle inte fungera.}
-{231}{}{Why not?}
+{231}{}{Varför inte?}
 {232}{}{För att de bara skulle börja om. Även med mig död, finns det tillräckligt med data mellan här och Navarro för att försäkra att de ska kunna replikera mitt arbete. Bara något mer drastiskt skulle funka.}
 {233}{}{Mer drastisk? Vad menar du med det?}
 {234}{}{The Enclave must be destroyed. Completely destroyed. If we're not, then we'll just pick up the pieces and start over somewhere else.}

@@ -182,7 +182,7 @@
 {1011}{}{Quoi ? Oh, bien sûr. Tu nous as énormément aidés, nous te devons au moins quelque chose. Voilà $150..}
 {1012}{}{Merci pour l'argent. A plus tard.}
 {2000}{}{Souriant ?}
-{2001}{}{Heinh ?}
+{2001}{}{Hein ?}
 {2002}{}{Ummm.}
 {2003}{}{Moi aider.}
 {2004}{}{Moi pas aimer histoire. CIAO !}

@@ -13,9 +13,9 @@
 {112}{}{Klamath}
 {113}{}{Klamath}
 {114}{}{Klamath}
-{115}{}{La Cite de l'Abri}
-{116}{}{La Cite de l'Abri}
-{117}{}{La Cite de l'Abri}
+{115}{}{La Cité de l'Abri}
+{116}{}{La Cité de l'Abri}
+{117}{}{La Cité de l'Abri}
 {118}{}{error:Map Name}
 {119}{}{City Ruins}
 {120}{}{Cote}
@@ -84,7 +84,7 @@
 {213}{}{}
 {214}{}{}
 {215}{}{Pont}
-{216}{}{Pont detruit}
+{216}{}{Pont détruit}
 {217}{}{}
 {218}{}{Quartier Ouest}
 {219}{}{}
@@ -92,7 +92,7 @@
 {221}{}{Zone Est}
 {222}{}{}
 {223}{}{}
-{224}{}{Residentiel}
+{224}{}{Résidentiel}
 {225}{}{}
 {226}{}{}
 {227}{}{Centre-ville}
@@ -104,16 +104,16 @@
 {233}{}{Grottes aux rats}
 {234}{}{Grottes aux rats}
 {235}{}{Grottes aux rats}
-{236}{}{Entree}
+{236}{}{Entrée}
 {237}{}{Grottes toxiques}
 {238}{}{Grottes toxiques}
 {239}{}{Terrains de chasse}
 {240}{}{Terrains de chasse}
 {241}{}{Terrains de chasse}
-{242}{}{Paturages}
-{243}{}{Paturages}
+{242}{}{Zone de pâturage}
+{243}{}{Zone de pâturage}
 {244}{}{}
-{245}{}{Entree}
+{245}{}{Cour intérieure}
 {246}{}{}
 {247}{}{}
 {248}{}{Centre-ville}
@@ -128,7 +128,7 @@
 {257}{}{Auberge}
 {258}{}{Auberge}
 {259}{}{}
-{260}{}{Paturages des Brahmines}
+{260}{}{Pâturages des Brahmines}
 {261}{}{}
 {262}{}{}
 {263}{}{Jardin de Farrel}
@@ -197,19 +197,19 @@
 {326}{}{Centre-ville}
 {327}{}{}
 {328}{}{}
-{329}{}{Hotel de ville}
+{329}{}{Hôtel de ville}
 {330}{}{}
 {331}{}{}
 {332}{}{Ranch de Westin}
 {333}{}{}
 {334}{}{}
-{335}{}{Paturages}
+{335}{}{Pâturages}
 {336}{}{}
 {337}{}{}
 {338}{}{Bazar}
 {339}{}{}
 {340}{}{}
-{341}{}{Hotel de ville}
+{341}{}{Hôtel de ville}
 {342}{}{}
 {343}{}{}
 {344}{}{Canyon}
@@ -221,7 +221,7 @@
 {350}{}{Niveau 3}
 {351}{}{Niveau 4}
 {352}{}{}
-{353}{}{Entree}
+{353}{}{Entrée}
 {354}{}{}
 {355}{}{}
 {356}{}{Desert}
@@ -233,7 +233,7 @@
 {362}{}{Rue de la Vierge}
 {363}{}{Sous-sol du Desperado}
 {364}{}{Desperado, 2eme étage}
-{365}{}{2eme rue}
+{365}{}{2ème rue}
 {366}{}{Shark Club, 2eme etage}
 {367}{}{Shark Club, 3eme etage}
 {368}{}{Rue marchande}
@@ -242,7 +242,7 @@
 {371}{}{Zone Est}
 {372}{}{Gare ferroviaire}
 {373}{}{}
-{374}{}{A l'entrecote}
+{374}{}{A l'entrecôte}
 {375}{}{}
 {376}{}{}
 {377}{}{Cimetiere}
@@ -263,9 +263,9 @@
 {392}{}{Centre-ville}
 {393}{}{Centre-ville}
 {394}{}{Centre-ville}
-{395}{}{Entree de la mine}
-{396}{}{Entree de la mine}
-{397}{}{Entree de la mine}
+{395}{}{Entrée de la mine}
+{396}{}{Entrée de la mine}
+{397}{}{Entrée de la mine}
 {398}{}{Tunnels}
 {399}{}{Tunnels}
 {400}{}{Tunnels}
@@ -305,7 +305,7 @@
 {434}{}{Centre-ville}
 {435}{}{Sous sol}
 {436}{}{Unused}
-{437}{}{Residentiel}
+{437}{}{Résidentiel}
 {438}{}{Souterrain}
 {439}{}{Mine}
 {440}{}{Caverne}
@@ -449,9 +449,9 @@
 {578}{}{Entree du temple}
 {579}{}{Entree du temple}
 {580}{}{Entree du temple}
-{581}{}{Pont detruit}
-{582}{}{Pont detruit}
-{583}{}{Pont detruit}
+{581}{}{Pont détruit}
+{582}{}{Pont détruit}
+{583}{}{Pont détruit}
 {584}{}{Cellules de detention}
 {585}{}{Cellules de detention}
 {586}{}{Cellules de detention}
@@ -473,9 +473,9 @@
 {602}{}{Couloir d'acces}
 {603}{}{Couloir d'acces}
 {604}{}{Couloir d'acces}
-{605}{}{Petrolier}
-{606}{}{Petrolier}
-{607}{}{Petrolier}
+{605}{}{Pétrolier}
+{606}{}{Pétrolier}
+{607}{}{Pétrolier}
 {608}{}{Quai}
 {609}{}{Quai}
 {610}{}{Quai}
@@ -521,7 +521,7 @@
 {650}{}{Desert}
 {651}{}{Desert}
 {652}{}{Desert}
-{653}{}{Entree}
+{653}{}{Entrée}
 {654}{}{Deuxieme etage}
 {655}{}{Troisieme etage}
 {656}{}{Sous sol}
@@ -539,7 +539,7 @@
 {668}{}{Zone de peche}
 {669}{}{Petite Grotte}
 {670}{}{pas de nom}
-{671}{}{Entree}
+{671}{}{Entrée}
 {672}{}{Air, Electricite et canalisations}
 {673}{}{Maintenance robotique}
 {674}{}{Niveau Un}
@@ -554,7 +554,7 @@
 {683}{}{Desert}
 {684}{}{Desert}
 {685}{}{Desert}
-{686}{}{Entree}
+{686}{}{Entrée}
 {687}{}{Niveau Un}
 {688}{}{Niveau Deux}
 {689}{}{Avant-poste des Rangers}
@@ -591,7 +591,7 @@
 {1501}{}{La Fosse}
 {1502}{}{Klamath}
 {1503}{}{Modoc}
-{1504}{}{La Cite de l'Abri}
+{1504}{}{La Cité de l'Abri}
 {1505}{}{Gecko}
 {1506}{}{Les Collines Brisées}
 {1507}{}{New Reno}

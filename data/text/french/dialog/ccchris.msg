@@ -5,17 +5,17 @@
 {104}{}{Salut. C'est la première fois que je te vois par ici. Que peut faire l'vieux Chris pour toi ?}
 {105}{}{Quoi être ici ?}
 {106}{}{Moi chercher Navarro. Ca être ici ?}
-{107}{}{Toi voir oiseaux métalliques voler par ici ?}
+{107}{}{Toi voir oiseaux de métal voler par ici ?}
 {108}{}{Toi entendre parler d'Enclave ? Eux ici ?}
 {109}{}{Moi juste regarder.}
-{110}{}{Où suis-je ici ?}
+{110}{}{Quel est cet endroit ?}
 {111}{}{Je cherche Navarro. C'est ici ?}
 {112}{}{As-tu vu des hélicos voler dans les environs ?}
 {113}{}{T'as déjà entendu parler de l'Enclave ? Ils sont par ici ?}
 {114}{}{Je fais juste un tour.}
 {115}{}{Tu vois ça, c'est chez moi, chez Chris. C'est une station service, t'en as jamais vu dans des vieux magazines ou ailleurs ? C'est tout ce qu'il y a ici, une station service.}
 {116}{}{Moi chercher Navarro. Ca être ici ?}
-{117}{}{Toi voir oiseaux métalliques voler par ici ?}
+{117}{}{Toi voir oiseaux de métal voler par ici ?}
 {118}{}{Toi entendre parler d'Enclave ? Eux ici ?}
 {119}{}{Heu... moi devoir partir.}
 {120}{}{Je cherche Navarro. C'est ici ?}
@@ -39,7 +39,7 @@
 {138}{}{Je ferais pas ça à ta place !}
 {139}{}{Non mais tu t'crois où ?}
 {140}{}{J'me casse.}
-{141}{}{(Il parle à la radio.) Alerte un intrus à la station service ! Alerte !!}
+{141}{}{(Il parle à la radio.) Alerte un intrus à la station service ! Alerte !}
 {142}{}{[Terminé]}
 {143}{}{Bon, content d'avoir fait ta connaissance. Mais écoute mes conseils : y a rien par ici sauf du désert et des radiations. La civilisation se trouve au Sud d'ici. J'irais dans cette direction si j'étais toi.}
 {144}{}{Merci.}
@@ -115,14 +115,14 @@
 {214}{}{Ton visage me dit quelque chose. Le vieux Chris a déjà dû te voir quelqu'part... Non, c'est pas possible.}
 {215}{}{Un intrus à la station ! Envoyez de l'aide !}
 {216}{}{Sonnez l'alarme !}
-{217}{}{Alerte un intrus !! Alerte un intrus !!}
-{218}{}{Crève, ordure !!}
+{217}{}{Alerte un intrus ! Alerte un intrus !}
+{218}{}{Crève, ordure !}
 {219}{}{L'Enclave va me promouvoir si j'te tue !}
 {220}{}{Crève !}
 {221}{}{Mais qu'est-ce... ?!}
 {222}{}{Toi utiliser radio et moi faire regretter à toi !}
 {223}{}{Utilise la radio et tu vas le regretter !}
-{224}{}{Va t'faire foutre ! Ah j'vais le regretter, hein ? J'ai ici des gars qui vont t'apprendre ce que c'est que le regret !! (Il allume la radio.)}
+{224}{}{Va t'faire foutre ! Ah j'vais le regretter, hein ? J'ai ici des gars qui vont t'apprendre ce que c'est que le regret ! (Il allume la radio.)}
 {225}{}{Moi te tuer !}
 {226}{}{Toi quoi faire ?}
 {227}{}{Moi partir.}
@@ -130,7 +130,7 @@
 {229}{}{Non mais tu t'crois où ?}
 {230}{}{J'me casse.}
 {231}{}{Ouais, d'accord.}
-{232}{}{Il sort une radio. Il va alerter toute la base !! Je dois me débarrasser de lui rapidement.}
+{232}{}{Il sort une radio. Il va alerter toute la base ! Je dois me débarrasser de lui rapidement.}
 {233}{}{Oh, non. Le monsieur a sorti une boite qui parle. Lui grosse balance. Moi arrêter lui.}
 {800}{}{Tu as dupé Chris pour avoir le mot de passe.}
 {810}{}{Tu as tué Chris avant qu'il ne puisse prévenir la base.}

@@ -7,9 +7,9 @@
 {300}{}{Tu n'es pas en uniforme.}
 {301}{}{Tu f'rais mieux de te mettre en uniforme.}
 {302}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller à la réserve.}
-{400}{}{Mais bon sang, qui es-tu ?! -- Alerte ! Des intrus !!!}
-{401}{}{La base a été infiltrée ! Alerte !!}
-{402}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
+{400}{}{Mais bon sang, qui es-tu ? -- Alerte ! Des intrus !}
+{401}{}{La base a été infiltrée ! Alerte !}
+{402}{}{Un groupe d'intrus ! Sonnez l'alarme !}
 {500}{}{Merde ! Lancez les sauvegardes !}
 {501}{}{Arrêtez toutes les opérations secrètes.}
 {502}{}{Verrouillez le système et activez tous les mots de passe.}

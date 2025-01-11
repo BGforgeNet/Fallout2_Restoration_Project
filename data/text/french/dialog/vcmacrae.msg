@@ -49,7 +49,7 @@
 {148}{}{Soigne-toi.}
 {149}{}{Je veux que tu attendes ici jusqu'à mon retour.}
 {150}{}{Toi ! Abnevaha !}
-{151}{}{Ca suffit.}
+{151}{}{C'est tout pour l'instant.}
 {152}{}{C'est bon, on peut y aller.}
 {153}{}{Ok, c'est mieux quand on peut respirer un peu.}
 {154}{}{Je me sens déjà mieux, mais deux ou trois Stimpaks me rétabliraient complètement.}

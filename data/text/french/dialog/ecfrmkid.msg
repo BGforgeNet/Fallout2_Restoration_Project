@@ -1,7 +1,7 @@
 {100}{}{Blblblb. Tu peux pas m'attraper.}
 {101}{}{Mon papa te fouettera.}
 {102}{}{Prends ça.}
-{103}{}{Allez-vous-en !}
+{103}{}{Va-t'en !}
 {104}{}{Blblblb !}
 {105}{}{Ahhhhh !}
 {106}{}{Maman !}

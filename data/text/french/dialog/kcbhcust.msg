@@ -1,8 +1,8 @@
-{100}{}{Voici quelqu'un qui a l'air d'un trappeur.}
-{101}{}{Voici quelqu'un qui se détend.}
-{102}{}{Voici un citadin.}
+{100}{}{Tu vois quelqu'un qui a l'air d'un trappeur.}
+{101}{}{Tu vois quelqu'un qui se détend.}
+{102}{}{Tu vois un habitant de la ville.}
 {103}{}{Voici un travailleur qui fait une pause.}
-{104}{}{Voici une personne qui boit un verre avec plaisir.}
+{104}{}{Tu vois une personne qui boit un verre avec plaisir.}
 {106}{}{Tu vois des clients du bar. Ils ont l'air content.}
 {107}{}{Tu vois des clients. Ils ont l'air bien nourri et en bonne santé.}
 {108}{}{Tu vois un client qui discute tranquillement avec son voisin.}

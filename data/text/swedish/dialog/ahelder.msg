@@ -94,7 +94,7 @@
 {179}{aeld20}{Child, our need is greater than ever before. Our people sicken, the brahmin
  are dying, and our food is all but gone. The blight of the land can only be cured with
  the GECK. Go, find the GECK and save our people.}
-{180}{}{Me understand.}
+{180}{}{Ja' förstå.}
 {181}{}{I'm on my way.}
 {182}{}{Forgive me Elder. I will find the GECK without delay.}
 {183}{}{Yeah, yeah. You're beginning to sound like a broken disk...}
@@ -119,7 +119,7 @@
 {217}{}{Nej.}
 {218}{eeld6}{If you destroy the machine, we will find the ship. Hurry, there are not many of us left. }
 {219}{}{What happened?}
-{220}{}{I understand.}
+{220}{}{Jag förstår.}
 {221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we cannot save our village. Now go!}
 {222}{}{Farväl.}
 {223}{eeld8}{I am still the Elder. Remember your place! Apologize or I will not help you anymore.}

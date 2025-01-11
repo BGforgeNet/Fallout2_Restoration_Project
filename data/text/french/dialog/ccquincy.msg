@@ -12,7 +12,7 @@
 {111}{}{Moi chercher plans hélicos. Où moi trouver ?}
 {112}{}{Technicien dire que moi trouver plans des hélicos ici.}
 {113}{}{Moi partir maintenant.}
-{114}{}{Où suis-je ici ?}
+{114}{}{Quel est cet endroit ?}
 {115}{}{Je cherche les plans des hélicos. Sais-tu où je peux les trouver ?}
 {116}{}{Un technicien m'a dit que je pouvais trouver les plans des hélicos ici.}
 {117}{}{Bon, il faut que j'y aille.}
@@ -56,16 +56,16 @@
 {155}{}{As-tu perdu la tête pour te promener sans uniforme ? Mets-toi en tenue !}
 {156}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {157}{}{Que fais-tu sans uniforme ?}
-{158}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
-{159}{}{Des envahisseurs ! Appelez la garde !!}
-{160}{}{Gardes !!! Des intrus à l'atelier de maintenance !!}
+{158}{}{Putain de merde ! Nous sommes envahis ! Alerte !}
+{159}{}{Des intrus ! Appelez la garde !}
+{160}{}{Gardes ! Des intrus à l'atelier de maintenance !}
 {161}{}{Que se passe-t-il ?! On nous attaque ?!}
 {162}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
-{163}{}{Mais que se passe-t-il, Bon Dieu ?!}
-{164}{}{Hé ! Ne farfouille pas dans ces tiroirs !!}
+{163}{}{Mais bordel qu'est-ce qui se passe ici ?}
+{164}{}{Hé ! Ne farfouille pas dans ces tiroirs !}
 {165}{}{Je t'ai dit de ne pas fouiller dans mes affaires ! Gardes !}
 {200}{}{Ouais. Eh bien, ne crois pas un mot de ce que tu as entendu.}
 {201}{}{Qui t'a dit ça ? Parce que c'est à lui que je vais m'en prendre après m'être occupé de toi.}
-{300}{}{Ca se voit pas que j'ai à faire ?!!}
+{300}{}{Ca se voit pas que j'ai à faire ?}
 {301}{}{Hé ! Ne fouille pas dans ces tiroirs !}
 {302}{}{Je t'ai dit de ne pas fouiller dans mes affaires ! Gardes !}

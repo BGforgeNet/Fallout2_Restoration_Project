@@ -13,7 +13,7 @@
 {112}{}{Et voilà, mon garçon.}
 {113}{}{Encore une fois.}
 {114}{}{Merci docteur. Je peux peut-être te poser quelques questions.}
-{115}{}{Salut.}
+{115}{}{Au revoir.}
 {116}{}{Ca te coûtera $50.}
 {117}{}{Contente-toi de me guérir.}
 {118}{}{Je ne reste pas ici.}

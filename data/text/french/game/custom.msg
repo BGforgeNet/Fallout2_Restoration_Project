@@ -4,7 +4,7 @@
 {3}{}{Distance}
 {4}{}{Cible}
 {5}{}{Stimulants}
-{10}{}{Terminé}
+{10}{}{Valider}
 {11}{}{Annuler}
 {99}{}{Non applicable.}
 {100}{}{Toujours !}
@@ -18,7 +18,7 @@
 {203}{}{Si tu ne te sens pas bien.}
 {204}{}{Si tu as besoin d'un garrot.}
 {205}{}{Jamais !}
-{300}{}{Aucune}
+{300}{}{Aucun}
 {301}{}{De Rixe.}
 {302}{}{De Rixe plutôt que longue portée.}
 {303}{}{Longue portée plutôt que de Rixe.}

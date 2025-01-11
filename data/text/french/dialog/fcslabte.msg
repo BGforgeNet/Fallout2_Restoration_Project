@@ -8,7 +8,7 @@
 {107}{}{Je veux revoir le soleil.}
 {108}{}{Mélanger ci. Mélanger ça. Y a des fois où je m'ennuie vraiment.}
 {109}{}{Tu as vu les derniers résultats de la grande expérience ? Ils sont très satisfaisants !}
-{110}{}{Pardon...}
+{110}{}{Excuse-moi.}
 {116}{}{Ha ! On va apprendre à ces espions à mettre leur nez dans nos affaires !}
 {117}{}{Les pirates informatiques ne referont plus JAMAIS ça.}
 {118}{}{Si nous ne pouvons pas les battre grâce à la science, nos combattants s'en chargeront.}

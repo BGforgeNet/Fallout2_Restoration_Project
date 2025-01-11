@@ -7,7 +7,7 @@
 {106}{}{Allez ! Prends un siège et repose-toi un peu !}
 {107}{}{C'est l'Etre Elu ! On se lève tous pour la VEDETTE de Fallout 2 !}
 {108}{}{Bonne journée, Capitaine.}
-{109}{}{La Cité de l'Abri avant tout, Capitaine !}
+{109}{}{La Cité de l'Abri avant tout, Capitaine.}
 {110}{}{Salut, citoyen.}
 {111}{}{La Cité de l'Abri avant tout, citoyen !}
 {112}{}{Un mutant ! Gardes ! Gardes !}

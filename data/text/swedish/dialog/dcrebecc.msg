@@ -130,7 +130,7 @@
 {413}{}{...}
 {420}{}{Yeah, I know who that is. That's Vic - the guy Metzger has locked up.}
 {421}{}{Yeah, I know Vic. Metzger's got him locked up. I'm not sure why though.}
-{422}{}{Who's Metzger?}
+{422}{}{Vem är Metzger?}
 {423}{}{I have another question.}
 {424}{}{Great! Bye.}
 {430}{}{You came to the Den and you don't know who Metzger is? He's the slave master.

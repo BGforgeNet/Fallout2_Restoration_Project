@@ -8,7 +8,7 @@
 {107}{}{Bon dieu, qu'est-ce-que c'est ? Des espions dans la base !}
 {108}{}{Merde ! Où est mon flingue ?}
 {109}{}{Ils ont déjà fouillé ici, et ils n'ont rien trouvé.}
-{110}{}{Nom de dieu, ces fausses alertes me mettent sur les nerfs !!}
+{110}{}{Nom de dieu, ces fausses alertes me mettent sur les nerfs.}
 {111}{}{Génial, une autre fausse alerte. Maintenant, on va devoir anéantir le système, et le remonter.}
 {112}{}{Par ici ! Arrêtez l'espion !}
 {113}{}{Merde ! C'est une attaque ! Où est mon flingue ?}

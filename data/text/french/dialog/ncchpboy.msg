@@ -21,7 +21,7 @@
 {228}{}{J'peux vérifier ton huile ? Héhé.}
 {229}{}{Tu veux voir ma clé de 8 ?}
 {230}{}{::Siffle::}
-{231}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
+{231}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !}
 {232}{}{Hé, saluuuut, ma petite beauté.}
 {233}{}{Waouh. On n'a pas tant de visiteurs par ici. Qu'est-ce que j'peux faire pour toi, mademoiselle ?}
 {234}{}{Tu cherches du sexe torride ? T-Ray est à l'arrière alors pas la peine d'y aller.}

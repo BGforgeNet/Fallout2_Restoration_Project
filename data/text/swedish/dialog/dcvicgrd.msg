@@ -75,7 +75,7 @@
 {393}{}{I just need to ask him a few questions.}
 {394}{}{Oh, come on. Just let me talk to him real quick.}
 {395}{}{Yes. Here.}
-{396}{}{No. I'll come back.}
+{396}{}{Nej. Jag kommer tillbaka.}
 {397}{}{Who's your boss?}
 {398}{}{Det är inte viktigt. Hej då.}
 {410}{}{Stop bothering me. Go talk to Metzger. He's the boss.}

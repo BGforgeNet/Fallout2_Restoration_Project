@@ -66,7 +66,7 @@
 {251}{}{Your potential worth? Sounds to me like you're just greedy.}
 {260}{}{Mostly on ways of maximizing potential worth. My potential worth. }
 {261}{}{Your potential worth? Sounds to me like you're just greedy.}
-{270}{}{Why not?}
+{270}{}{Varför inte?}
 {271}{}{I just don't buy your idea that greed is good. I bet you'd just sell off portions of whatever
  you were supposed to administer and take off with the money. Goodbye.}
 {272}{}{Because you left out the most important part of your plan. A partner -- namely, me.}

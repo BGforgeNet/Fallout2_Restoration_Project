@@ -15,9 +15,9 @@
 {240}{}{Eh bien, la totalité du centre est envahie par ces monstrueuses plantes créées par cet horrible docteur. J'ai besoin qu'elles soient annihilées pour rendre le centre parfait pour les visiteurs. Pouvez-vous le faire ? Vous ressemblez à un type aventureux.}
 {241}{}{Oui, je vais le faire. Je reviendrai quand j'aurai fini.}
 {242}{}{C'est plutôt facile. Je les ai déjà tous tués.}
-{250}{}{Re-bonjour. Que puis-je pour vous ? [Soupir.]}
+{250}{}{Rebonjour. Que puis-je pour vous ? [Soupir.]}
 {251}{}{Tu sembles très déprimé. Il y a un problème ?}
-{260}{}{Re-bonjour. Avez-vous changé d'avis ? Comme je vous l'ai dit, je vous le revaudrai.}
+{260}{}{Rebonjour. Avez-vous changé d'avis ? Comme je vous l'ai dit, je vous le revaudrai.}
 {261}{}{Ouais, pourquoi pas. Je n'ai rien de mieux à faire.}
 {262}{}{Non, je suis actuellement occupé. Je reviendrai plus tard.}
 {270}{}{Avez-vous fait ce que je voulais ?}

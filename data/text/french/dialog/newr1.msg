@@ -3,7 +3,7 @@
 {102}{}{Ca ressemble à une station de rechargement électrique d'avant-guerre. Un cimetière de carcasses de voitures entoure les bâtiments.}
 {103}{}{Tu arrives aux Etables. Une nouvelle clôture barbelée entoure les deux entrées de la ferme.}
 {150}{}{[PRECEDENT]}
-{151}{}{[Plus]}
+{151}{}{[Suite]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}

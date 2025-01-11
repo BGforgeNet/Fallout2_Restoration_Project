@@ -31,8 +31,8 @@
 {303}{}{Ouais, j'es -- Oh, attends une seconde. Je veux te donner un truc pour te remercier d'avoir aidé un vieux type comme moi. J'ai trouvé ça sur un gars que j'ai déterré il y a deux semaines. Je ne m’en sers pas. J'espère que ça te sera plus utile qu'à moi.}
 {304}{}{Merci Tom. Je suis sûr que ça me servira. A plus.}
 {305}{}{[Le vieil homme hoche la tête et retourne à ce qu'il faisait avant.]}
-{306}{}{[FIN]}
-{307}{}{Re-bonjour. Merci pour tout !}
+{306}{}{[Terminé]}
+{307}{}{Rebonjour. Merci pour tout !}
 {308}{}{::Siffle::}
 {400}{}{Vous, les jeunes, vous n'apprenez jamais rien. T'es pas mon patron. J'vais t'buter.}
 {450}{}{Ecoute, j'ai pillé quelques tombes moi aussi. Je suis un peu kleptomane. Et toi, pourquoi fais-tu ça ?}

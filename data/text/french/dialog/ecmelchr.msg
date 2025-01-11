@@ -1,6 +1,6 @@
 {100}{}{Tu vois une bête étrange.}
 {101}{}{Tu vois un Super Mutant qui a l'air un peu dérangé.}
-{102}{}{Stop !}
+{102}{}{Arrête !}
 {103}{}{N'approche pas ! C'est un ordre de Melchior le Magnifique !}
 {104}{}{Regarde, je suis le plus grand magicien du monde !}
 {105}{}{Trrrremble devant la puissance de Melchior le Magnifique !!}

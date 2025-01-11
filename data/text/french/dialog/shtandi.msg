@@ -35,7 +35,7 @@
 {134}{}{J'ai ramené de là-bas les pièces que tu cherchais.}
 {135}{}{J'ai déjà fait le travail. Les squatteurs veulent négocier. Tu les aides à s'en sortir et ils te donnent accès à l'abri. D'ailleurs, voici les pièces.}
 {136}{tand5}{Bon sang... Comme tu veux. Mais si tu changes d'avis...}
-{137}{}{C'est terminé.}
+{137}{}{Terminé.}
 {138}{tand6a}{D'accord. Si tu réussis, tu auras une récompense.}
 {139}{tand6b}{Seigneur, je sais que je fais une bêtise, mais... fais de ton mieux, si tu as compris quelque chose à ce que je viens de te dire.}
 {140}{}{Ok. Moi partir.}
@@ -56,7 +56,7 @@
 {155}{}{Ca être tout. Moi aller maintenant.}
 {156}{}{Que peux-tu me dire sur l'abri 15 ?}
 {157}{}{Pourquoi ne pas avoir négocié avec les squatteurs ?}
-{158}{}{Do you know where Vault 13 is?}
+{158}{}{Sais-tu où se trouve l'Abri 13 ?}
 {159}{}{Je recherche un J.E.K. En aurais-tu un par hasard ?}
 {160}{}{Que peux-tu me dire sur New Reno ?}
 {161}{}{Que peux-tu me dire à propos de Roger Westin ?}
@@ -113,7 +113,7 @@
 {212}{}{Bon, passons à autre chose.}
 {213}{tand20}{On ne peut rien cacher à personne ici. Nous sommes en négociations avec New Reno pour qu'ils deviennent membres de la RNC. Ils doivent avoir de l'influence sur des endroits comme la Cité de l'Abri.}
 {214}{}{Moi voir.}
-{215}{}{D'accord.}
+{215}{}{Très bien.}
 {216}{tand21}{La plupart des gens pensent qu'on doit s'associer avec New Reno d'une manière ou d'une autre. Mais les types comme Westin et les propriétaires de ranch accusent New Reno de voler le bétail entre ici et Redding.}
 {217}{}{Hum.}
 {218}{}{Qui est Westin ?}
@@ -212,7 +212,7 @@
 {311}{tand46}{Tu ne perds pas le Nord toi. Bien, va voir Gunther. Il va s'occuper de ça.}
 {312}{}{Merci.}
 {313}{tand47}{Les gars, jetez-moi cette morve de Brahmine hors de mon bureau !}
-{314}{}{Terminé}
+{314}{}{Valider}
 {315}{tand14b}{Mon père et Seth ont cherché pendant des années l'Abri 13. Ils sont morts en cherchant. Ils disaient toujours que c'était à l'Ouest d'ici. Si quelqu'un trouvait l'Abri 13, ça serait encore mieux que l'Abri 15. Il y aurait une très grosse récompense à la clé.}
 {316}{}{Tu devrais en parler à mon assistant, Gunther.}
 {400}{}{Squatters veulent deal. Vous enseigner, vous aider, eux donnent à toi l'abri.}

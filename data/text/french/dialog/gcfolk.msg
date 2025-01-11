@@ -1,4 +1,4 @@
-{100}{}{Tu vois quelqu'un qui a la peau gravement brûlée.}
+{100}{}{Tu vois quelqu'un dont la peau a été très gravement brûlée.}
 {101}{}{Tu vois une citoyene Goule de Gecko.}
 {102}{}{Tu vois quelqu'un dont la peau semble gravement brûlée par des radiations. L'intensité des radiations aurait dû le tuer, mais il semble relativement en forme.}
 {110}{}{La personne que tu vois rayonne légèrement. Sa peau semble gravement brûlée.}
@@ -14,7 +14,7 @@
 {127}{}{Si tu ne nous avais pas aidés, les habitants de la Cité nous auraient tués.}
 {128}{}{Quel héroïsme !}
 {129}{}{Encore merci !}
-{130}{}{Merci pour ton aide.}
+{130}{}{Merci de ton aide.}
 {131}{}{Bravo à toi et merci !}
 {132}{}{Pas mal, Peaudouce !}
 {140}{}{Bonjour, Peaudouce.}

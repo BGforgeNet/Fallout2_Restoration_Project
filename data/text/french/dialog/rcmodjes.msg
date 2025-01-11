@@ -38,7 +38,7 @@
 {137}{}{J'ai l'impression que beaucoup de monde plane. Que s'est-il passé en ville ces jours-ci ?}
 {138}{}{Des rumeurs intéressantes ?}
 {139}{}{Pourquoi t'appelle-t-on Madame Modjeska ?}
-{140}{}{Que t'est-il arrive ?}
+{140}{}{Qu'est-ce qui t'arrive ?}
 {141}{}{Qu'est-il arrivé ?}
 {142}{}{Je ne fais plus grand-chose. Je m'occupais en partie des affaires de Lou au Malamute Saloon, mais j'ai arrêté pour cause de récession.}
 {143}{}{Je voudrais savoir autre chose.}

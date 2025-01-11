@@ -24,7 +24,7 @@
 {123}{}{Forgive me, but I don't have the time for someone with your attitude. Good-day.}
 {124}{}{}
 {125}{}{}
-{126}{}{All right.}
+{126}{}{Okej.}
 {127}{}{What do you want to know?}
 {128}{}{You prisoner?}
 {129}{}{D'claws treat you ok?}
@@ -40,7 +40,7 @@
 {139}{}{I must be going now.}
 {140}{}{No, I can leave anytime I want. The deathclaws have made that very clear to me. They don't hold
  anyone here against their will, as far as I know.}
-{141}{}{Uh, okay.}
+{141}{}{Eh, okej.}
 {142}{}{Got it. Me go.}
 {143}{}{I see.}
 {144}{}{I think you're lying, bitch.}

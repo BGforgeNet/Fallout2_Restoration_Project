@@ -3,7 +3,7 @@
 {102}{}{Ce gars, c'est le règlement incarné : coupe en brosse, visage carré, le genre me-raconte-pas-d'histoire...}
 {103}{}{Bienvenue en RNC. J'm'appelle Dumont, shérif Dumont. J'espère que ton séjour ici est paisible et agréable.}
 {104}{}{Ecoute le conseil du shérif Dumont. Cette ville n'aime pas les gens de ton espèce. Un faux pas et je cogne. Sinon, qu'est-ce que je peux faire pour toi ?}
-{105}{}{Re-bonjour. Que puis-je faire pour toi ?}
+{105}{}{Rebonjour. Que puis-je faire pour toi ?}
 {106}{}{Allez, crache-les.}
 {107}{}{Argggh !}
 {108}{}{Je cherche l'Abri 13. Sais-tu où il se trouve ?}

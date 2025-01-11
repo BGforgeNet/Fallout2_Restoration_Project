@@ -7,7 +7,7 @@
 {106}{}{Mais... ?!! Un mutant ! GARDES !! GARDES !!!}
 {107}{}{Mais... ?!! Une Goule ! GARDES !! GARDES !!!}
 {108}{}{Bonne journée, Capitaine.}
-{109}{}{La Cité de l'Abri avant tout, Capitaine !}
+{109}{}{La Cité de l'Abri avant tout, Capitaine.}
 {110}{}{Salut, citoyen.}
 {111}{}{La Cité de l'Abri avant tout, citoyen !}
 {112}{}{Des listes, des listes, des listes... J'adore les listes !}
@@ -76,7 +76,7 @@
 {175}{}{Très bien.}
 {176}{}{Hummm. C'est ton droit, mais je doute que tu réussisses.}
 {177}{}{Voici les formulaires 5028, 6112 et la console de réponse du Pip-Boy. Veille à bien remplir chaque cercle ENTIEREMENT. Bon, si tu veux bien prendre place ici...}
-{178}{}{D'accord.}
+{178}{}{Très bien.}
 {179}{}{Tu as déjà terminé ? Tu ne veux vraiment pas vérifier encore une fois tes réponses ?}
 {180}{}{Bon, le temps imparti a expiré. Voyons ton formulaire...}
 {181}{}{J'ai déjà terminé. Voilà.}
@@ -91,7 +91,7 @@
 {190}{}{Si je peux m'exprimer ainsi, l'évaluation n'est pas en ta faveur. Une autre fois peut-être.}
 {191}{}{Peut-être une autre fois alors.}
 {192}{}{Bon, voyons voir... D'abord, voyons si... Oh, très bien, je vois que tu as compris ça, quant à... Oh bien, tu as retenu le deux, très intelligent, très intelligent... Mais pourquoi as-tu... Oh, tu as appliqué la dérivée de 5... Excellent !}
-{193}{}{BIEN SUR que c'est excellent !!}
+{193}{}{BIEN SUR que c'est excellent !}
 {194}{}{Mais... Tu as réussi ! Félicitations !}
 {195}{}{Génial. Alors je suis citoyen ?}
 {196}{}{Eh bien, tu dois encore passer l'examen de santé. Heureusement, j'ai tout ce qu'il faut ici. Enlève tes bottes.}
@@ -123,5 +123,5 @@
 {222}{}{Merci, au revoir.}
 {223}{}{Leur bidonville entoure les ruines d'une ancienne centrale atomique... Une centrale qu'elles ont REUSSI à remettre en service, et qui fuit ! Il faut absolument chasser ces créatures et fermer la centrale pour arrêter la radioactivité !}
 {224}{}{Hummm. Puis-je te poser encore quelques questions ?}
-{225}{}{Merci pour l'information. Au revoir.}
+{225}{}{Merci du renseignement. Au revoir.}
 {226}{}{Tu as réussi le test de citoyenneté et tu fais maintenant partie des citoyens de la Cité de l'Abri.}

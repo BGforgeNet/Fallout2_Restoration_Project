@@ -13,13 +13,13 @@
 {112}{}{Frazz-urb-luuw !}
 {113}{}{Dégage !}
 {114}{}{Qui es-tu ?}
-{115}{}{Où suis-je ici ?}
+{115}{}{Quel est cet endroit ?}
 {116}{}{Je pense que ton assistant, Skeev, est impliqué dans des affaires illégales.}
 {117}{}{Rien pour aujourd'hui, merci.}
 {118}{}{Eh bien, je vais devoir dire deux mots aux gardes à l'entrée. Il semblerait qu'ils laissent entrer N'IMPORTE QUI dans la Cité de l'Abri ces jours-ci !}
 {119}{}{M'man. Môman ? Mammmman.}
 {120}{}{Dégage !}
-{121}{}{Imbécile !}
+{121}{}{Imbécile.}
 {122}{}{*Maman*, tu dis ? Comme c'est fascinant. Pourquoi ne retournes-tu pas à l'entrée raconter tout ça à tes amis les étrangers ?}
 {123}{}{D'accoooord !}
 {124}{}{En fait, maintenant que j'y pense, tu ferais mieux de laisser tes armes et ton armure ici, par mesure de sécurité pour la Cité de l'Abri.}
@@ -82,7 +82,7 @@
 {181}{}{Eh bien, je dois parler à la Première citoyenne.}
 {182}{}{Qui est la Première citoyenne ?}
 {183}{}{C'est quoi ton travail, exactement ?}
-{184}{}{Merci pour l'information. Au revoir.}
+{184}{}{Merci du renseignement. Au revoir.}
 {185}{}{Bien sûr. Tout le monde veut avoir une audience avec la Première citoyenne. Malheureusement, elle n'accorde son temps qu'aux affaires de première importance.}
 {186}{}{J'ai bien peur que tu n'aies pas l'air assez important pour disposer de son temps.}
 {187}{}{C'est pourquoi il est vital que je lui parle. Je lui toucherai deux mots à propos de l'efficacité du bureau de douane, tu peux compter sur moi. Mais si tu ne peux pas m'aider, alors...}
@@ -147,7 +147,7 @@
 {246}{}{Que voulais-tu savoir d'autre ?}
 {247}{}{Frazz-urb-luuw !}
 {248}{}{Dégage !}
-{249}{}{Où suis-je ici ?}
+{249}{}{Quel est cet endroit ?}
 {250}{}{Quel genre de cargaisons recevez-vous ici ?}
 {251}{}{Ton assistant, Skeev, est impliqué dans des trafics illégaux.}
 {252}{}{Peux-tu me donner un autre passe pour un jour ?}
@@ -184,7 +184,7 @@
 {283}{}{Que sais-tu au sujet de la Fosse ?}
 {284}{}{Que peux-tu me dire sur les Collines Brisées ?}
 {285}{}{Je vois. J'ai d'autres questions à poser...}
-{286}{}{Merci pour l'information. Au revoir.}
+{286}{}{Merci du renseignement. Au revoir.}
 {287}{}{C'est vrai ? Excellente nouvelle ! Va le dire tout de suite au Conseiller McClure.}
 {288}{}{C'est vrai ? Excellente nouvelle ! Je te donne un passe pour un jour pour que tu puisses aller parler au Conseiller McClure. Ce passe n'est valable que pendant la journée. A la nuit tombée, tu dois quitter la cité. Vas-y maintenant.}
 {289}{}{Puis-je te poser une autre question avant de partir ?}

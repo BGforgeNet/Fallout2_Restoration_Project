@@ -8,15 +8,15 @@
 {107}{}{Rien pour aujourd'hui. Merci.}
 {108}{}{Ug.}
 {109}{}{Ohhh... C'est pas marrant à boire. [Il te donne ta boisson.]}
-{110}{}{[Fin]}
+{110}{}{[Terminé]}
 {111}{}{Et voilà. C'est un peu chaud, ça a pas eu le temps de refroidir. Ca me prend plus de temps à faire qu'à vendre. [C'est chaud, c'est jaune, c'est...]}
-{112}{}{[Fin]}
+{112}{}{[Terminé]}
 {113}{}{[Tu avales une gorgée et tu sens la paroi de ton estomac se dissoudre.]}
-{114}{}{[Fin]}
+{114}{}{[Terminé]}
 {115}{}{Hou la ! <Hic> J'crois qu't'en as déjà assez sifflé comme ça.}
-{116}{}{[Fin]}
+{116}{}{[Terminé]}
 {117}{}{Ahhh ! T'as pas assez de fric sur toi ! Reviens quand tu auras l'oseille.}
-{118}{}{[Fin]}
+{118}{}{[Terminé]}
 {119}{}{Il a l'air un peu sauvage.}
 {120}{}{Tu vois un junkie.}
 {121}{}{Il semble un peu nerveux.}
@@ -27,14 +27,14 @@
 {126}{}{Rien pour aujourd'hui. Merci.}
 {127}{}{Ug.}
 {128}{}{Super ! Filemoimonfrikékaseutoidela. Jéunkomerseuafèreutourné.}
-{129}{}{[Fin]}
+{129}{}{[Terminé]}
 {130}{}{Komeudileprovèrbeu : "Sitapadefriktupeupacétonchemin". Oh. Nonsacépourlesèxeu. "Padeflouzeupadebistouilleu"". "Revienkantuoradufrik"".}
-{131}{}{[Fin]}
+{131}{}{[Terminé]}
 {132}{}{Héhéhé ! Ondirékunedoseudeumentatsteferépademal. Filemoi $1 000.}
 {133}{}{[Donner $1 000 au gars.]}
 {134}{}{Moi aller.}
 {135}{}{Ahouais ! Seutrukvateuremonter !}
-{136}{}{[FIN]}
+{136}{}{[Terminé]}
 {150}{}{Hé, t'es pas mal, toi. C'est quoi ton petit nom ?}
 {151}{}{Encore un p'tit coup. Oh, ouais !}
 {152}{}{Tu es d'accord pour faire un petit voyage ? }

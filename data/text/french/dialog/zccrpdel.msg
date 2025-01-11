@@ -86,7 +86,7 @@
 {613}{}{Trois, Craps paie la Don't Pass line.}
 {614}{}{Douze, Craps pousse la Don't Pass line.}
 {620}{}{Mise de proposition sur 7}
-{621}{}{Mise de proposition sur double 4}
+{621}{}{Mise de proposition sur double 3}
 {622}{}{Mise de proposition sur double 4}
 {623}{}{Mise de proposition sur double 5}
 {624}{}{Mise de proposition sur double 2}

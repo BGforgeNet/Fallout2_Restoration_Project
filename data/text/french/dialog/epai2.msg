@@ -5,7 +5,7 @@
 {104}{}{ERREUR ! ERREUR ! LE PROBLEME ENCLENCHE LA SEQUENCE D'ARRET !}
 {105}{}{[Retourner au menu principal]}
 {106}{}{Diagnostic en cours... court-circuit erreur.... section 4... alimentation défaillante.}
-{107}{}{Terminé}
+{107}{}{Valider}
 {108}{}{Vous n'avez pas la compétence pour réparer cette machine.}
 {109}{}{Vous réparez la panne informatique et remettez la machine en ligne.}
 {110}{}{Soyez le bienvenu dans l'Ordinateur de Contrôle de Robot EPA. Vous n'avez plus l'autorisation de sécurité pour utiliser ces dossiers. Séquence d'arrêt.}

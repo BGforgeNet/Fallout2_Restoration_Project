@@ -121,7 +121,7 @@
 {480}{}{Forget it then.}
 {490}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something.
  He waits for a minute, listens, then turns back to you and shrugs.) He says you can head on up.}
-{491}{}{All right.}
+{491}{}{Okej.}
 {495}{}{Yo, }
 {496}{}{! }
 {497}{}{Mr. Bishop 'xpecting you?}

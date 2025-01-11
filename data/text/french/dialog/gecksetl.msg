@@ -1,1 +1,1 @@
-{100}{}{Tu es entré dans la petit village de Gecko.}
+{100}{}{Tu es entré dans le petit village de Gecko.}

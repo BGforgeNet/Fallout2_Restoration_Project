@@ -14,7 +14,7 @@
 {253}{}{Tu auras beaucoup d'action si tu es dans la Guilde.}
 {254}{}{Va parler à Metzger, poulette, pas à moi.}
 {255}{}{Metzger n'embauchera jamais une meuf, alors, casse-toi !}
-{256}{}{Va-t'en !}
+{256}{}{Casse-toi.}
 {257}{}{Hé !}
 {258}{}{T'as de la chance d'avoir que les chasses à faire.}
 {259}{}{Etre gardien de porte, c'est vraiment barbant !}

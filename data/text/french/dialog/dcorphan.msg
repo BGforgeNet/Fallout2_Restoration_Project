@@ -33,7 +33,7 @@
 {283}{}{Hé, toi là-bas ! Entre un peu dans le magasin de Flick.}
 {290}{}{Alors, tu entres ?}
 {291}{}{Salut.}
-{292}{}{Ne fais pas ça !}
+{292}{}{Ne fais pas ça.}
 {293}{}{Hé ! Frankie a plein de super trucs.}
 {300}{}{Tu devrais entrer. Babeth est très gentille.}
 {301}{}{Je surveille.}

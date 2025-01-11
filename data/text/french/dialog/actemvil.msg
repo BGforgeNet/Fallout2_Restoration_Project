@@ -26,7 +26,7 @@
 {125}{}{Je vois.}
 {126}{}{Non, tu dois seulement me battre. Lorsque le moment viendra, nous mettrons fin au combat.}
 {127}{}{Moi comprendre.}
-{128}{}{D'accord.}
+{128}{}{Très bien.}
 {129}{}{Oui. Les armes ont tendance à nous éloigner du combat et à désensibiliser les effets de nos actions contre les autres. Lorsque tu frappes un autre être humain avec tes seuls poings, tu ressens la douleur que tu lui causes. Le combat devient plus personnel et plus réaliste à la fois. C'est une importante leçon pour toi, }
 {130}{}{.}
 {131}{}{Moi comprendre.}

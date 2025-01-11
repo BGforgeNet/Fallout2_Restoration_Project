@@ -70,7 +70,7 @@
 {305}{}{Tu ne partiras pas d'ici avec mes amis.}
 {310}{}{Ahhh !}
 {311}{}{Pas tuer ! Pas tuer !}
-{312}{}{Stop !}
+{312}{}{Arrête !}
 {313}{}{Aiiiide !}
 {314}{}{Courrez !}
 {315}{}{Pas faire ça !}

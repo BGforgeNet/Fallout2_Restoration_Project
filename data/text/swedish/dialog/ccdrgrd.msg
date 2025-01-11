@@ -14,7 +14,7 @@
 {113}{}{Me have business with commander.}
 {114}{}{Bra.}
 {115}{}{I have business with the commander.}
-{116}{}{All right.}
+{116}{}{Okej.}
 {117}{}{What is the nature of your business, sir?}
 {118}{}{Eh...}
 {119}{}{Shit. Me screw up...}

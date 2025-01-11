@@ -9,7 +9,7 @@
 {108}{}{Mais ?! Un mutant ! Gardes !}
 {109}{}{Mais ? Une Goule ! Gardes !}
 {110}{}{Bonne journée, Capitaine.}
-{111}{}{La Cité de l'Abri avant tout, Capitaine !}
+{111}{}{La Cité de l'Abri avant tout, Capitaine.}
 {112}{}{Salut, citoyen.}
 {113}{}{La Cité de l'Abri avant tout, citoyen !}
 {114}{}{Il faut envoyer des tableaux de distribution aux Bureaux des Sous-équipements Collectifs A et B...}
@@ -100,7 +100,7 @@
 {199}{}{Rien aujourd'hui en fait.}
 {200}{}{Alors... Tu es le citoyen }
 {201}{}{Ouais, il a dit que tu passerais...}
-{202}{}{D'accord.}
+{202}{}{Très bien.}
 {203}{}{En fait, ça fait rien, je reviendrai plus tard.}
 {204}{}{Ok, voilà. Un Reg-Mag. Ca ressemble plutôt à une lampe de lave, non ? Oh, fais attention... C'est très fragile.}
 {205}{}{Dis-moi, qu'as-tu d'autre en stock ?}
@@ -127,4 +127,4 @@
 {226}{}{, hein ? Attends une seconde. Je vais chercher la magnéto... heu... le Reg-Mag.}
 {227}{}{, d'accord ? Attends une minute, je vais chercher la magnéto... heu... le Reg-Mag.}
 {228}{}{Merci.}
-{229}{}{[Suite]}
+{229}{}{[Continuer]}

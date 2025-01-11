@@ -13,5 +13,5 @@
 {112}{}{"Je reviendrai."}
 {250}{}{Il n'y a aucune inscription sur cette stèle.}
 {251}{}{L'inscription est trop endommagée pour être lue.}
-{252}{}{Le nom inscrit sur la stèle est Roger Rate.}
+{252}{}{Le nom inscrit sur la stèle est John Doe.}
 {253}{}{Le nom et la date sur cette pierre tombale ont été effacés par les intempéries.}

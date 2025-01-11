@@ -36,7 +36,7 @@
 {233}{}{Quelqu'un a enterré de l'argent sous la croix portant l'inscription « Détritus » à Golgotha.}
 {234}{}{Va parler au Père Tully à New Reno quand tu auras fini le jeu.}
 {235}{}{Il y a un oeuf de Pâques quelque part à New Reno.}
-{236}{}{Arrête de me secouer si fort !!}
+{236}{}{Arrête de me secouer si fort !}
 {237}{}{Ta CHANCE est très grande. Continue à me secouer pour avoir des indices !}
 {238}{}{Oui, nous SAVONS que la descente sous la montagne était nulle.}
 {239}{}{Si tu vends Bessie aux bouchers de Modoc, tu peux la libérer encore une fois.}

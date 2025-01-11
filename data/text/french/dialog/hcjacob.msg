@@ -11,7 +11,7 @@
 {110}{}{Que peux-tu me dire sur les Collines Brisées ?}
 {111}{}{J'ai des produits chimiques à mélanger.}
 {112}{}{On m'a dit de te contacter à propos d'une certaine affaire en rapport avec les mutants.}
-{113}{}{Salut.}
+{113}{}{Au revoir.}
 {114}{}{[Une expression de dégoût passe sur son visage.] Sors d'ici. Je n'ai pas de temps à perdre.}
 {115}{}{[Terminé]}
 {116}{}{Un Bric-à-Brac. C'est un Bric-à-Brac. Ecoute, tu veux quelque chose ?}
@@ -19,11 +19,11 @@
 {118}{}{'ui !}
 {119}{}{Gnnn heu.}
 {120}{}{D'accord. Voyons voir ce que tu veux.}
-{121}{}{[Plus]}
+{121}{}{[Suite]}
 {122}{}{Alors va-t'en.}
 {123}{}{[Terminé]}
 {124}{}{Voilà. C'est fait. Merci du conseil. Maintenant, va-t'en s'il te plaît.}
-{125}{}{D'OOkK !}
+{125}{}{Okééé !}
 {148}{}{Pourquoi ne commences-tu pas par me dire ce que tu penses des mutants ?}
 {149}{}{Je les déteste.}
 {150}{}{Je n'ai pas les idées claires à leur sujet.}
@@ -39,7 +39,7 @@
 {160}{}{Oui.}
 {161}{}{Non.}
 {162}{}{Formidable. Au revoir.}
-{163}{}{Salut.}
+{163}{}{Au revoir.}
 {164}{}{Il est au pouvoir ici depuis que le Maître a été détruit. Il réprime tous ceux qui ne sont pas d'accord avec lui... ou il les fait tout simplement disparaître. On dirait que la ville est civilisée, mais en fait c'est le théâtre de tueries perpétrées par des mutants assoiffés de sang. Trop d'amis à moi ont disparu pour s'être élevés contre lui.}
 {165}{}{Continue.}
 {166}{}{Ca suffit. Tu n'as pas tout ton esprit. Au revoir.}
@@ -74,7 +74,7 @@
 {195}{}{J'ai des produits chimiques à mélanger.}
 {196}{}{Rien. Salut.}
 {222}{}{Tu trahis les tiens, sale philo-mutant. Comment as-tu pu faire ça à Chad ? Je me fous de ce que tu as fait pour nous. Tu es la honte de l'humanité !}
-{223}{}{Salut.}
+{223}{}{Au revoir.}
 {224}{}{Bravo pour la prison !}
 {225}{}{Merci.}
 {226}{}{Tu pouvais vraiment pas éviter de tuer tout le monde ? Ils vont tous être inquiets maintenant. Enfin, tant pis.}
@@ -136,12 +136,12 @@
 {305}{}{Houpela ? T'as dit *Houpela* ? T'as rien à voir avec tout ça, n'est-ce pas ?}
 {306}{}{C'était un accident, j'le jure !}
 {307}{}{Bien sûr que non ! Saloperies de mutants !}
-{308}{}{Accident mon cul ! Tu vas me le payer !!}
+{308}{}{Accident mon cul ! Tu vas me le payer !}
 {309}{}{Ouais, bon... Leur tour viendra.}
 {310}{}{Je t'ai déjà dit tout ce que tu dois savoir sur cet endroit. Alors ! Tu veux quoi ?}
 {311}{}{J'ai d'autres questions à te poser.}
 {312}{}{Rien. Laisse tomber.}
 {313}{}{Merci.}
-{314}{}{[Continue]}
+{314}{}{[Continuer]}
 {315}{}{Hé, c'est vraiment sympa d'avoir tiré nos amis d'un mauvais pas. T'as une tête qui me revient bien.}
 {316}{}{Merci.}

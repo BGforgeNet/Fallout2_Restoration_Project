@@ -39,7 +39,7 @@
 {138}{}{Je reviendrai pour l'armure.}
 {139}{}{Je ne peux pas exercer mes talents si tu ne l'as pas. Reviens quand tu l'auras.}
 {140}{}{J'ai d'autres questions.}
-{141}{}{Salut.}
+{141}{}{Au revoir.}
 {142}{}{[Il hausse les épaules] Tu veux cette armure ou quoi ? C'est $10 000 à prendre ou à laisser.}
 {143}{}{Je reviendrai plus tard.}
 {144}{}{Très bien. Voilà.}
@@ -62,7 +62,7 @@
 {161}{}{J'ai quelques questions à te poser.}
 {162}{}{Je suis ici pour mon armure.}
 {163}{}{Trop tard.}
-{164}{}{Salut.}
+{164}{}{Au revoir.}
 {165}{}{C'est pas encore prêt. Tu dois me laisser du temps !}
 {166}{}{Très bien. J'ai quelques questions.}
 {167}{}{Très bien, je reviendrai.}

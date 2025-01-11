@@ -35,6 +35,6 @@
 {233}{}{Si tu actives la croix intitulée *Détritus* à Golgotha, tu trouveras un secret.}
 {234}{}{Va parler au Père Tully à New Reno quand tu auras fini le jeu.}
 {235}{}{Tu peux m'utiliser en tant qu'arme.}
-{236}{}{Arrête de me secouer si fort !!}
+{236}{}{Arrête de me secouer si fort !}
 {237}{}{Ta CHANCE est très grande. Continue à me secouer pour avoir des indices !}
 {238}{}{Oui, nous SAVONS que la descente sous la montagne était nulle.}

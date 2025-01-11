@@ -76,7 +76,7 @@
 {175}{}{Mycket bra.}
 {176}{}{Hmmm. Well, that is your right, though I doubt it will matter.}
 {177}{}{Here are forms 5028, 6112, and the Pip-Boy answer console. Please be sure to fill in each circle COMPLETELY. Now, if you would take a seat over here...}
-{178}{}{All right.}
+{178}{}{Okej.}
 {179}{}{Finished already? Are you certain you don't want to double-check your answers?}
 {180}{}{All right, time's up. Let's see your form.}
 {181}{}{Already did. Here.}

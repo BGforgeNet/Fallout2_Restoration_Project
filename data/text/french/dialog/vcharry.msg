@@ -23,7 +23,7 @@
 {125}{}{Ca marche. Voilà la monnaie.}
 {126}{}{500 ? Bon sang. J'espère que je serai remboursé. Bien, voilà le fric.}
 {127}{}{Merci pour cette affaire. Prends soin de toi.}
-{128}{}{Salut.}
+{128}{}{Au revoir.}
 {129}{}{Connar m'a envoyé pour les fournitures.}
 {130}{}{[Les yeux d'Harry tournent rapidement en tous sens pour regarder autour de lui, il semble un brin nerveux] Oui, bien sûr. Juste un petit instant...}
 {131}{}{[Harry t'amène les armes.] Tiens, prends ça. Ca te coûtera en tout $10 000.}
@@ -34,7 +34,7 @@
 {136}{}{Tu es sûr... ? Eh bien, prends-les. [Il met l'argent dans sa poche.] Mais souviens-toi, tu n'as pas acheté ces armes ici.}
 {137}{}{Excellent. Mais rappelle toi, tu n'as rien acheté ici, Ok ?}
 {138}{}{C'est entendu. Salut.}
-{139}{}{[Plus]}
+{139}{}{[Suite]}
 {140}{}{Eh bien alors, attends un instant avant que je ne trouve l'argent.}
 {141}{}{Alors, tu as apporté le fric ?}
 {142}{}{Que dirais-tu de $10 000 ?}

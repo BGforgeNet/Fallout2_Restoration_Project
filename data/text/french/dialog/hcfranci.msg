@@ -62,9 +62,9 @@
 {161}{}{Bien sûr. Merci. Au revoir.}
 {162}{}{Vraiment ? Ah, la belle mentalité ! Dommage qu'on n'ait pas écrasé ton village quand on contrôlait le désert. Barre-toi, vermine !}
 {200}{}{[Terminé]}
-{201}{}{Salut.}
+{201}{}{Au revoir.}
 {202}{}{Merci. Au revoir.}
-{203}{}{[Plus]}
+{203}{}{[Suite]}
 {204}{}{Bien sûr. Merci. Au revoir.}
 {300}{}{Camarade, je suis pas très sûr que tu saurais utiliser ce que j'ai à offrir. Reviens quand tu auras un peu plus d'expérience à ton actif.}
 {301}{}{Tu vois un Super Mutant à forte carrure. Il est habillé de cuir noir, et l'ennui se lit clairement sur son visage. Une sorte de gant énorme semble dépasser de son sac.}

@@ -893,13 +893,13 @@
 {46800}{}{Shaft}
 {46900}{}{Shaft}
 {47000}{}{Elevator Door}
-{47100}{}{Window}
+{47100}{}{Fönster}
 {47101}{}{Instead of glass, this window is using wax paper.}
-{47200}{}{Window}
+{47200}{}{Fönster}
 {47201}{}{Instead of glass, this window is using wax paper.}
-{47300}{}{Window}
+{47300}{}{Fönster}
 {47301}{}{Instead of glass, this window is using wax paper.}
-{47400}{}{Window}
+{47400}{}{Fönster}
 {47401}{}{Instead of glass, this window is using wax paper.}
 {47500}{}{Door}
 {47501}{}{This large metal roll-door has been jammed shut from the inside.}
@@ -2333,18 +2333,18 @@
 {143301}{}{You can climb over the wall with this rope.}
 {143400}{}{Door}
 {143500}{}{Door}
-{143600}{}{Window}
-{143700}{}{Window}
-{143800}{}{Window}
-{143900}{}{Window}
-{144000}{}{Window}
-{144100}{}{Window}
-{144200}{}{Window}
-{144300}{}{Window}
-{144400}{}{Window}
-{144500}{}{Window}
-{144600}{}{Window}
-{144700}{}{Window}
+{143600}{}{Fönster}
+{143700}{}{Fönster}
+{143800}{}{Fönster}
+{143900}{}{Fönster}
+{144000}{}{Fönster}
+{144100}{}{Fönster}
+{144200}{}{Fönster}
+{144300}{}{Fönster}
+{144400}{}{Fönster}
+{144500}{}{Fönster}
+{144600}{}{Fönster}
+{144700}{}{Fönster}
 {144800}{}{Pool Ladder}
 {144900}{}{Door}
 {145000}{}{Arch}

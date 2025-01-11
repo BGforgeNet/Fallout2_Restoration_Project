@@ -28,7 +28,7 @@
 {127}{}{Regarde, je suis un citoyen.}
 {128}{}{Rien à signaler, Capitaine.}
 {129}{}{Je surveille juste ce qui se passe ici, Capitaine.}
-{130}{}{La Cité de l'Abri avant tout, Capitaine !}
+{130}{}{La Cité de l'Abri avant tout, Capitaine.}
 {131}{}{Bonne journée, Capitaine.}
 {132}{}{Vous, là-bas ! Halte ! Que fout cette Goule dans la Cité de l'Abri ?!}
 {133}{}{Vous, là-bas ! Halte ! Que fout ce mutant dans la Cité de l'Abri ?!}

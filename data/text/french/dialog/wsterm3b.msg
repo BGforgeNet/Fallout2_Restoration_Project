@@ -50,7 +50,7 @@
 {149}{}{[Quitter]}
 {150}{}{[La porte de la pièce se ferme violemment alors que le mur à l'Est disparaît révélant une rangée de robots lourdement armés.]}
 {151}{}{Uhm... J'ai réfléchi à ton offre. Que puis-je faire pour toi ?}
-{152}{}{Amenez-vous !}
+{152}{}{Vas-y, ramène-toi !}
 {153}{}{Continuer vers Bio-stockage - Niveau 4                             Extraire cerveau cybernétique                                          Revenir pour instructions                                   -Fin de transmission-}
 {154}{}{}
 {155}{}{}

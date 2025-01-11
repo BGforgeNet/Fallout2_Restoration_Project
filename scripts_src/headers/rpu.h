@@ -38,6 +38,22 @@ procedure is_lockpick(variable item) begin
   return false;
 end
 
+/**
+ * True if any of addiction GVARs is set, false otherwise.
+ */
+procedure dude_is_addicted() begin
+  if global_var(GVAR_ADDICT_JET)
+    or global_var(GVAR_NUKA_COLA_ADDICT)
+    or global_var(GVAR_BUFF_OUT_ADDICT)
+    or global_var(GVAR_MENTATS_ADDICT)
+    or global_var(GVAR_PSYCHO_ADDICT)
+    or global_var(GVAR_RADAWAY_ADDICT)
+    or global_var(GVAR_ALCOHOL_ADDICT)
+    or global_var(GVAR_ADDICT_TRAGIC)
+  then return true;
+  return false;
+end
+
 #endif  // RPU_H
 
 

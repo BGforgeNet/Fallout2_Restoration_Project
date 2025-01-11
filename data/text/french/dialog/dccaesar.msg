@@ -1,6 +1,6 @@
-{100}{}{Voici un membre de la Guilde des Esclavagistes.}
+{100}{}{Tu vois un membre de la Guilde des Esclavagistes.}
 {150}{}{Voici Metzger, le chef de la Guilde des Esclavagistes.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Gardes ! Attaquez !}
 {153}{}{[Terminé]}
 {154}{}{Reviens demain matin, bon sang ! Je fais mes affaires pendant la journée.}
@@ -127,12 +127,12 @@
 {310}{}{Non. Je reviendrai.}
 {311}{}{Oui. Allons-y.}
 {312}{}{Ah, tu reviens de la chasse aux esclaves. Voyons voir comment tu te débrouilles...}
-{313}{}{[Plus]}
-{314}{}{[Plus]}
+{313}{}{[Suite]}
+{314}{}{[Suite]}
 {315}{}{Tu as tué des esclaves potentiels ! Un homme mort ne nous rapporte rien ! Ne tue que ceux qui sont une menace et épargne les autres.}
-{316}{}{[Plus]}
+{316}{}{[Suite]}
 {317}{}{Tu n'as ramené aucun esclave ! Qu'est-ce qui t'a pris ?! On essaie de faire de l'argent ici, pas d'en perdre !}
-{318}{}{[Plus]}
+{318}{}{[Suite]}
 {319}{}{Bon, tu t'en es pas mal tiré. Continue comme ça et je te garderai peut-être un moment.}
 {320}{}{Merci. Compte sur moi.}
 {321}{}{Je n'sais pas si tout ça me plaît vraiment.}
@@ -144,7 +144,7 @@
 {327}{}{Je m'excuse, Metzger.}
 {328}{}{Hé, c'est pas facile d'être esclavagiste !}
 {329}{}{Je voudrais te voir faire mieux.}
-{330}{}{J'aimerais participer à une chasse à l'esclave.}
+{330}{}{J'aimerais participer à une chasse aux esclaves.}
 {331}{}{Bon dieu ! Je déteste perdre un membre de la guilde lors d'une chasse. Tâchez de vous entr'aider !}
 {332}{}{Quoi qu'il en soit, belle chasse ! Voilà tes $}
 {333}{}{. Il faut continuer comme ça.}

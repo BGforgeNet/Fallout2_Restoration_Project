@@ -10,7 +10,7 @@
 {109}{}{Excuse-moi ! Je ne parle pas ta langue ! Passe une bonne journée !}
 {110}{}{Rrr ?}
 {111}{}{Ahh, une arme, hein ? Eh bien, voilà ce que j'ai.}
-{112}{}{[suite]}
+{112}{}{[Suite]}
 {113}{}{Formidable ! Vraiment merci. Reviens très vite !}
 {114}{}{D'autres questions !}
 {115}{}{Au revoir !}

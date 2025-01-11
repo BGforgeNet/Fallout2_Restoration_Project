@@ -27,11 +27,11 @@
 {132}{}{Soldier, that information is on a "need to know"-only basis. If you have to ask the question then you don't need to know.}
 {133}{}{Okej.}
 {134}{}{Come on, it's not like I'm some damn tribal or something. We're in the same outfit; notice the insignia on the armor?}
-{135}{}{I understand.}
+{135}{}{Jag förstår.}
 {136}{}{Yes, sir. The main base is located off the Pacific coast near the city of San Francisco. May I inquire why you are asking, sir?}
 {137}{}{Soldier, I told you that information is on a "need to know"-only basis.}
 {138}{}{For security purposes, I'm checking the level of information awareness among base personnel. Now, tell me all the ways you personally know of to get to main base.}
-{139}{}{I understand.}
+{139}{}{Jag förstår.}
 {140}{}{Yes, sir. First, the vertibirds are the primary method used in reaching main base. Due to the complexity of their operation it is doubtful that subversives could commandeer a vertibird. Second, there is an operational fuel tanker in San Francisco harbor. The ship has, however, been disabled and a passkey is required to restart it. The base commander has the passkey in his possession. Third, with the proper equipment, you could conceivably swim to main base but the probability of survival is next to nil.}
 {141}{}{Tack.}
 {142}{}{Tack.}

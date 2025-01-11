@@ -1,5 +1,5 @@
-1:DANS L'ANNEE QUI SUIVIT LA DESTRUCTION DE L'ENCLAVE, LA FAMILLE WRIGHT ABANDONNA SES ACTIVITES CRIMINELLES POUR DES DESSEINS PLUS LEGITIMES.
-2:PLUSIEURS ECOLES ET EGLISES FURENT CREEES DANS NEW RENO, AINSI QU'UN CORPS CHARGE DE FAIRE APPLIQUER LA LOI QUI MINIMISA L'INFLUENCE DES FAMILLES.
-3:BIEN QUE NEW RENO AVAIT PERDU DE SON AUTHENTICITE, LA VILLE GAGNA UNE CERTAINE SOLIDITE QUI ATTIRA DE NOUVEAUX ARRIVANTS.
-4:ILS VINRENT NOMBREUX, NON POUR VISITER MAIS POUR VIVRE. LA POPULATION TRIPLA.
-5:AUJOURD'HUI, LE NIVEAU SCOLAIRE DES LYCEES DE NEW RENO EST NETTEMENT SUPERIEUR A CELUI DES ETABLISSEMENTS CALIFORNIENS D'AVANT LA GUERRE.
+1:Dans l'année qui suivit la destruction de l'Enclave, la famille Wright abandonna ses activités criminelles pour des desseins plus légitimes.
+2:Plusieurs écoles et églises furent créées dans New Reno, ainsi qu'un corps chargé de faire appliquer la loi qui minimisa l'influence des familles.
+3:Bien que New Reno y perdit de son authenticité, la ville gagna une certaine solidité qui attira de nouveaux arrivants.
+4:Ils vinrent nombreux, non pour visiter mais pour vivre. La population tripla.
+5:Aujourd'hui, le niveau scolaire des lycées de New Reno est nettement supérieur à celui des établissements californiens d'avant la guerre.

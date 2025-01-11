@@ -37,6 +37,3 @@
 
 {900}{}{Something doesn't feel quite right in your stomach.}
 {901}{}{You feel an intense pressure in your stomach.}
-
-{1000}{}{You cannot think straight. You feel a burning desire to open another box of Tragic cards.}
-{1001}{}{You feel as if a great burden has been lifted from your mind. No longer is Tragic a constant part of your thoughts.}

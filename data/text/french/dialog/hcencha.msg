@@ -22,7 +22,7 @@
 {121}{}{Laisse tomber. A plus tard.}
 {122}{}{Moi ? Je suis }
 {123}{}{Tu regrettes pour Chad ? Ha ! T'as fait des bénéfices, hein ? Le nouveau patron c'est }
-{124}{}{Salut.}
+{124}{}{Au revoir.}
 {125}{}{Dans ce cas, c'est Bill que tu dois voir, c'est l'armateur des Collines Brisées. Il pourra t'arranger un truc.}
 {126}{}{Merci.}
 {127}{}{D'accord. A plus, alors.}

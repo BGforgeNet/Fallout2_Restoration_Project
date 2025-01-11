@@ -17,7 +17,7 @@
 {116}{}{Oui. Allons-y.}
 {117}{}{J'ai trouvé la salle dans laquelle j'étais. J'ai aussi trouvé une salle qui ressemblait à une zone de ravitaillement en carburant. Je ne suis pas allée plus loin à cause des monstres.}
 {118}{}{J'ai d'autres questions.}
-{119}{}{D'où tu viens ?}
+{119}{}{D'où viens-tu ?}
 {120}{}{Parfait. C'est tout pour le moment.}
 {121}{}{Je viens d'un endroit situé au Sud du Cimetière et au Sud du Rayon. Nous ne sommes pas très loin de la mer. Je gardais des enfants, mais ils se sont transformés en monstres.}
 {122}{}{J'ai d'autres questions.}
@@ -30,7 +30,7 @@
 {129}{}{Yaaaah.}
 {130}{}{Que faisais-tu là-dessous ?}
 {131}{}{As-tu trouvé quelque chose d'intéressant ?}
-{132}{}{D'où tu viens ?}
+{132}{}{D'où viens-tu ?}
 {133}{}{Comment as-tu rencontré Badger ?}
 {134}{}{Rien pour le moment. Au revoir.}
 {135}{}{C'est pas vrai... Badger est mort... Mais que vais-je devenir... Je n'ai pas d'amis ici... Toute ma famille est morte...}

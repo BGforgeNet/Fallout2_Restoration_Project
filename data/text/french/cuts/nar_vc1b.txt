@@ -1,5 +1,5 @@
-1:LE MASSACRE DE LA CITE DE L'ABRI EST ENTRE DANS LA LEGENDE.
-2:AUTREFOIS COMMUNAUTE PROSPERE, ELLE ETAIT DEVINT UNE CITE DE L'HORREUR. LES CORPS DE SES CITOYENS JONCHANT LES RUES, COMME SI DES PILLARDS AVAIENT RAVAGE LA VILLE.
-3:ET POURTANT, AUCUN CADAVRE DE SES ATTAQUANTS NE FUT JAMAIS RETROUVE.
-4:LEUR ABRI FUT PILLE DE TOUTE SA TECHNOLOGIE, ET DES REFUGIES VENANT DE GECKO INVESTIRENT BIENTOT LES RUINES DE LA CITE.
-5:EN QUELQUES MOIS, ILS AVAIENT RECONSTRUIT LA VILLE ET RESTAURE LA QUASI-TOTALITE DES SYSTEMES DETRUITS PAR LES PILLARDS.
+1:Le massacre de la Cité de l'Abri est entré dans la légende
+2:Autrefois communauté prospère, elle était devenue une cité de l'horreur. Les corps de ses citoyens jonchaient les rues, comme si des pillards avaient ravagé la ville.
+3:Et pourtant, aucun cadavre de ses attaquants ne fut jamais retrouvé.
+4:Leur Abri fut pillé de toute sa technologie, et des réfugiés venant de Gecko investirent bientôt les ruines de la Cité.
+5:En quelques mois, ils avaient reconstruit la ville et restauré la quasi-totalité des systèmes détruits par les pillards.

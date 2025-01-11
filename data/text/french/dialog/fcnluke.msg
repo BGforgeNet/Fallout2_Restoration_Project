@@ -22,7 +22,7 @@
 {121}{}{Toi savoir où moi trouver J.E.K ?}
 {122}{}{Toi savoir où moi trouver abri 13 ?}
 {123}{}{Mais bordel, vous êtes qui les gars ?}
-{124}{}{Sais-tu où je peux trouver un J.E.K. ?}
+{124}{}{Sais-tu où je peux trouver un J.E.K ?}
 {125}{}{Sais-tu où je peux trouver l'abri 13 ?}
 {126}{}{Mais bordel, vous êtes qui les gars ?}
 {127}{}{Oui, je crois que l'abri 13 n'a jamais utilisé le sien. Tu devrais pouvoir en trouver un. Bonne chance, }

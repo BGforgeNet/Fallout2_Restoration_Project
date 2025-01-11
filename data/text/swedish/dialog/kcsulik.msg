@@ -514,7 +514,7 @@
 {3091}{}{We and I go speak with our friends again before headin out.}
 {3100}{}{[MER]}
 {3101}{}{Where exactly is your tribe, Sulik?}
-{3102}{}{Thanks. Let me ask you something else.}
+{3102}{}{Tack för det. Låt mig fråga dig något annat.}
 {3103}{}{You too, Sulik. Take care of yourself.}
 {3200}{}{Yes, I spoke with Mrs. Buckner regarding your debt. I just now need to make all the arrangements with Maida. I'll check with you again after I speak  with her.}
 {3500}{}{We and I think something be wrong with us. You better be having a look at this limb of ours.}

@@ -1,4 +1,4 @@
-1:QUELQUES MOIS APRES LA DESTRUCTION DE L'ENCLAVE, UNE GUERRE ECLATA DANS LES RUES DE NEW RENO.
-2:LES WRIGHT, QUI CONSIDERAIENT LES MORDINO RESPONSABLES DE LA MORT D'UN MEMBRE DE LEUR FAMILLE, ATTAQUERENT LE CASINO DESPERADO.
-3:LA BATAILLE QUI S'ENSUIVIT DURA UN PEU MOINS D'UNE JOURNEE, ET LES WRIGHT FURENT MASSACRES JUSQU'AU DERNIER.
-4:LEUR MANOIR EST AUJOURD'HUI VIDE, ET SEULE UNE POIGNEE D'HABITANTS DE NEW RENO SE SOUVIENT DE SES ANCIENS OCCUPANTS.
+1:Quelques mois après la destruction de l'Enclave, une guerre éclata dans les rues de New Reno.
+2:Les Wright, qui portaient les Mordino responsables de la mort d'un membre de leur famille, attaquèrent le casino Desperado.
+3:La bataille qui s'ensuivit dura un peu moins d'une journée, et les Wright furent massacrés jusqu'au dernier.
+4:Leur manoir est aujourd'hui vide, et seule une poignée d'habitants de New Reno se souvient de ses anciens occupants.

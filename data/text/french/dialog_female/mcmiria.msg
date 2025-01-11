@@ -77,7 +77,7 @@
  se ressemblent quand on aborde ce sujet. [Tu ne l'as même pas vu venir... Mais c'est sûr, la marque rouge
  imprimée sur ton visage par une main vigoureuse disparaîtra un jour ou l'autre.]}
 {250}{}{Papa, au secours ! Fais-le partir !}
-{251}{}{Allez, va-t-en !}
+{251}{}{Dégage !}
 {260}{}{Papa, au secours ! Fais-la partir !}
 {270}{}{Au secours ! Fais-le partir !}
 {280}{}{Au secours ! Fais-le partir !}

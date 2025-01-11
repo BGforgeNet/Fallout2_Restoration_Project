@@ -173,7 +173,7 @@
 {272}{}{Oooooooh. Za soooonnnne.}
 {300}{}{Alors que tu t'apprêtais à retourner dans la liste des archives, tu remarques adroitement une entrée cachée dans la liste des archives..}
 {301}{}{Alors que tu allais éteindre le terminal, tu remarques une entrée cachée dans la liste des archives.}
-{302}{}{[Continue]}
+{302}{}{[Continuer]}
 {303}{}{Après quelques minutes, tu peux accéder à l'archive verrouillée. Il y a seulement un fichier de listé et il s'intitule "Classé". On dirait que tes points de compétences en Sciences te sont utiles.}
 {304}{}{[Lire]}
 {305}{}{Au fur et à mesure de ta lecture, il apparaît que le seul objectif de l'Abri 8 était d'agir en tant qu'"Abri de contrôle" dans une série d'Abris créés par une corporation nommée Vault-Tec. La mission de l'Abri 8 était de s'ouvrir et de recoloniser la surface après 10 ans. Il apparaît également que l'Abri 8 n'était pas le seul Abri avec un objectif autre que de protéger ses habitants de la Grande Guerre.}

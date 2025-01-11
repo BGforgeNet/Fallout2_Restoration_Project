@@ -1,7 +1,7 @@
 {100}{}{Tu vois quelqu'un en SuperArmure. }
 {101}{}{Tu vois le Commandant de la base Navarro.}
 {102}{}{Tu vois quelqu'un vêtu d'une SuperArmure quelque peu inhabituelle. Son plastron porte un insigne que tu n'as jamais vu avant.}
-{103}{}{Qui êtes-vous... ?! Alerte ! Des envahisseurs !}
+{103}{}{Qui êtes-vous... ?! Alerte ! Des intrus !}
 {104}{}{Je n'ai pas le temps de bavarder avec les bidasses. Rompez !}
 {105}{}{Je t'avais prévenu !}
 {106}{}{Ok.}

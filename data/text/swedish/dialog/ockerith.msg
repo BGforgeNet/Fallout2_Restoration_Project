@@ -22,10 +22,10 @@
 {120}{}{Yes, there are more mothers. Should anything happen to me, one will be chosen to take my place.
  The pack must survive.}
 {121}{}{Uh, me understand.}
-{122}{}{I understand.}
+{122}{}{Jag förstår.}
 {123}{}{These eggs were sired by Gruthar, the pack leader. It is Gruthar who decides who will mate and
  who will not. The pack will be made strong by Gruthar.}
-{124}{}{Uh, okay.}
+{124}{}{Eh, okej.}
 {125}{}{Hmmm. I see. Selective breeding to improve the strain.}
 {126}{}{That is a painful memory. A treacherous human sneaked in here and planted a bomb among the eggs
  while I was asleep. Fortunately he was not as stealthy leaving and I awoke to find the bomb. There was
@@ -47,7 +47,7 @@
 {138}{}{The guard was added after this incident occurred. We were more trusting back then. Now we are
  more careful.}
 {139}{}{What happen to human?}
-{140}{}{Me got it.}
+{140}{}{Ja' fatta.}
 {141}{}{What happened to this person?}
 {142}{}{I see.}
 {143}{}{We built the cave portion, and a human friend installed the door. He got the parts from a settlement

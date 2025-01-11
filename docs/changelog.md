@@ -5,6 +5,8 @@
 - Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 - Versions `2.4.*` contain [updated maps](https://forums.bgforge.net/viewtopic.php?t=371) produced by Pixote, and relevant script changes. Otherwise, they follow the same patch level convention.
 
+---
+
 - [Version 32](#version-32)
 - [Version 30](#version-30)
 - [Version 29](#version-29)
@@ -42,8 +44,11 @@
 
 (AKA 2.3.32, 2.4.32)
 
-- General
-  - [Reordered](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/322) the ending slides to keep tank vagrants as the last one.
+#### General
+
+[Reordered](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/322) the ending slides to keep tank vagrants as the last one.
+
+#### Locations
 
 - Abbey
   - Edited map lighting handling for Abbey (and also Dr.Sheng's hideout) to be more natural.
@@ -82,9 +87,13 @@
 
 ### Version 29
 
+#### General
+
 - Enhanced worldmap: visible city ruins are now present on tiles set as the "city" terrain type, by Lexx.
 - Installer
   - More components are optional.
+
+#### Locations
 
 - Abbey
   - PC now always [notes](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/266) Peterson's complaints about crops.

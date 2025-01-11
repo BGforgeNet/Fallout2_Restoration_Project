@@ -12,7 +12,7 @@
 {111}{}{J'ai parlé à Vikki. Juan et elle se sont moqués de toi et ont dit que tu n'étais pas un vrai homme.}
 {112}{}{J'ai parlé à Vikki. Elle a dit que tu étais canon et qu'elle aimerait bien te rencontrer un jour.}
 {113}{}{Tu veux que je parle à Vikki pour toi ?}
-{114}{}{Ca n'a pas d'importance. Salut.}
+{114}{}{Ca n'a pas d'importance. Au revoir.}
 {115}{}{Hum... Ok. Qu'importe. Eh, que se passe-t-il là ? [Alors que tu te retournes pour regarder, il se remet au travail et fait comme s'il ne te voyait pas.]}
 {116}{}{[Terminé]}
 {117}{}{Je m'appelle Dave Handy. Je viens du Canada.}
@@ -41,32 +41,32 @@
 {140}{}{Evidemment. Que veux-tu ?}
 {141}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
 {142}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
-{143}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{143}{}{Je veux que tu pirates la bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
 {144}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
 {145}{}{Rien. Au revoir.}
 {146}{}{Voilà. Maintenant, fiche le camp. Je vais formater l'ordinateur et partir.}
 {147}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
-{148}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{148}{}{Je veux que tu pirates la bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
 {149}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
 {150}{}{Eh bien, je plaisantais. En fait, elle n'a pas dit ça.}
 {151}{}{Bonne chance. Salut !}
 {152}{}{Voilà. Ca apprendra à ces bâtards à m'utiliser puis à me rejeter. Au revoir.}
 {153}{}{Eh bien, je plaisantais. En fait, elle n'a pas dit ça.}
-{154}{}{Salut.}
+{154}{}{Au revoir.}
 {155}{}{Elle n'a pas dit ça. Oh, bien.}
 {156}{}{Alors j'ai fait tout ce mal pour rien. Je vais te tuer maintenant.}
 {157}{}{Essaie un peu.}
 {158}{}{Elle a dit ça ? Vraiment ? Ouah ! [Un sourire béat s'affiche lentement sur son visage.] Merci ! Que puis-je faire pour toi ?}
 {159}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
 {160}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
-{161}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{161}{}{Je veux que tu pirates la bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
 {162}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
 {163}{}{Ahh, rien. Continue et amuse-toi bien.}
 {164}{}{Voilà. Autre chose ?}
 {165}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
 {166}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
 {167}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
-{168}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{168}{}{Je veux que tu pirates la bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
 {169}{}{Non. Au revoir !}
 {170}{}{Formater le disque dur ? Tu plaisantes ? Hors de question ! Je ne peux pas faire ça !}
 {171}{}{Il ne s'agit que d'un nettoyage de routine. J'ai déjà sauvegardé tout le reste.}

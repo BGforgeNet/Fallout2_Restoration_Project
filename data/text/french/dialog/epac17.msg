@@ -99,7 +99,7 @@
 {431}{}{Pas de problème. Je reviens aussitôt que je les ai.}
 {432}{}{Ho, j'ai déjà 10 peaux de gecko sur moi.}
 {440}{}{[Il te regarde.] Quoi ?}
-{441}{}{Euh, re-bonjour. Je ne pas compris qui tu étais la dernière fois que nous avons parlé.}
+{441}{}{Euh, rebonjour. Je ne pas compris qui tu étais la dernière fois que nous avons parlé.}
 {450}{}{Encore toi ? Que veux-tu maintenant ?}
 {451}{}{Que fais-tu ici ? L'endroit à l'air d'une ville fantôme.}
 {460}{}{Si tu ne veux pas m'aider, laisse-moi. Ou, serais-tu enfin décidé à me prêter main forte ?}
@@ -153,7 +153,7 @@
 {703}{}{Lorsque la guerre a commencé, les autres scientifiques et moi-même, avons utilisé les chambres cryogéniques. Nous avons remis la gestion des équipements aux hologrammes et aux robots, nous nous sommes congelés lorsque la catastrophe est arrivée.}
 {704}{}{Mais, mais la grande guerre a eu lieu il y a très, très longtemps déjà.}
 {705}{}{C'est vrai. Nous sommes sortis de l'hibernation environ 90 ans après, et nous avons découvert que cet endroit avait été très abîmé. La plupart des scientifiques ont continué leurs recherches originelles, car ils ne savaient pas vraiment quoi faire.}
-{706}{}{[Plus]}
+{706}{}{[Suite]}
 {707}{}{Je ne pouvais pas croire leur courte vision scientifique... Leur manque total d'imagination ! Nous avions une occasion fantastique de faire quelque chose d'incroyable. Nous avions la chance de refaire des choses comme nous en avions envie. Malheureusement, mes camarades ont payé pour leur manque de vision...}
 {708}{}{Tu les as tués !?}
 {709}{}{Indubitablement.}
@@ -197,7 +197,7 @@
 {840}{}{Quoi ?! Donne-moi ça ! [Il arrache l'objet de tes mains.] Comment t'as fait... ?! Oh, tant pis. Retourne à la planche à dessin alors...}
 {841}{}{[Tu ignores sa réaction.] Bien, si t'as besoin de quelque chose d'autre, fais-le-moi savoir. Salut.}
 {850}{}{Ce n'est pas tes affaires. [Il arrache l’outil de tes mains.] Maintenant va-t'en. J'ai des choses à faire. [Il regarde ailleurs murmurant à lui même.]}
-{851}{}{Allez va, salut.}
+{851}{}{Peu importe. Salut.}
 {852}{}{Je ne crois pas. Tu as essayé de me tuer et maintenant je vais te retourner la pareille. Meurs !}
 {860}{}{Euh, oui, bien sûr. Bon, au travail maintenant.}
 {861}{}{[Terminé]}

@@ -5,7 +5,7 @@
 {104}{}{Notre héros ! Regardez !}
 {105}{}{Mince ! Le héros, ici, dans la Cité de l'Abri !}
 {106}{}{Bonne journée, Capitaine.}
-{107}{}{La Cité de l'Abri avant tout, Capitaine !}
+{107}{}{La Cité de l'Abri avant tout, Capitaine.}
 {108}{}{Salut, citoyen.}
 {109}{}{La Cité de l'Abri avant tout, citoyen !}
 {110}{}{Un mutant ! Gardes ! Gardes !}
@@ -25,7 +25,7 @@
 {124}{}{Excuse-moi, en quoi puis-je t'être utile ?}
 {125}{}{Utiiile ? Guili-guili ?}
 {126}{}{Dégage !}
-{127}{}{Où suis-je ici ?}
+{127}{}{Quel est cet endroit ?}
 {128}{}{Je peux voir ce que tu as en stock ?}
 {129}{}{Rien pour aujourd'hui, merci.}
 {130}{}{Un instant, d'accord ? J'envoie quelqu'un pour t'accompagner.}
@@ -47,4 +47,4 @@
 {146}{}{Hé, là ! Reste pas là, toi !}
 {147}{}{C'est ça ! Tu te tires, maintenant !}
 {148}{}{Merci.}
-{149}{}{[Suite]}
+{149}{}{[Continuer]}

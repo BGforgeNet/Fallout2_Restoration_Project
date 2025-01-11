@@ -6,7 +6,7 @@
 {105}{}{Rrr ?}
 {106}{}{Excuse-moi, mais est-ce la plante qui parle ?}
 {107}{}{As-tu des relations avec ce chercheur de quelque sorte que ce soit ?}
-{108}{}{Salut.}
+{108}{}{Au revoir.}
 {109}{}{Oui, je parle. Mieux que certaines personnes, on dirait. Je te sourirais bien, là, maintenant, mais je n'ai pas de bouche. [Il rigole.] Dis, pourrais-tu me faire une faveur ?}
 {110}{}{Ouais.}
 {111}{}{Nan.}
@@ -21,7 +21,7 @@
 {120}{}{Très bien. Bon, euh... Je vais t'attendre ici. Enfin, j'ai pas trop le choix... A plus tard !}
 {121}{}{Saluuut !}
 {122}{}{Au cas où tu changerais d'avis, tu sais où me trouver. Je me suis enracinée ici. Ha ha ha ! Juste un peu d'humour de la part d'une plante. Oh mais, je ne veux pas te retenir. A plus tard !}
-{123}{}{Salut.}
+{123}{}{Au revoir.}
 {124}{}{Bien dit, bien dit ! Quel réconfort de voir un homosapiens utiliser toutes les ressources de son cerveau. Dis-moi mon ange, veux-tu bien me faire une faveur ?}
 {125}{}{Ouais.}
 {126}{}{Nan !}
@@ -44,7 +44,7 @@
 {143}{}{Haa, te revoilà mon ange. Cet emplacement est très agréable. L'ombre est parfaite, et la compagnie est tout simplement charmante. Ce Typhon, quel gosse ! Il renforce vraiment ma vigueur intellectuelle !}
 {144}{}{Echecs ?}
 {145}{}{Tu ne m'avais pas parlé d'échecs ?}
-{146}{}{Salut.}
+{146}{}{Au revoir.}
 {147}{}{Si, c'était au sujet de la manière de battre le radscorpion du professeur aux échecs. C'est d'une simplicité enfantine. La Flying Liver Attack est comme un piège pour cet insecte : il fonce directement dedans et ensuite, il ne peut pas s'en sortir. Je garantis ton succès.}
 {148}{}{Merci ! Au revoir !}
 {149}{}{Merci pour le tuyau ! Au revoir !}
@@ -69,7 +69,7 @@
 {168}{}{Certainement.}
 {169}{}{Je ne pense pas.}
 {170}{}{Hélas, il semble que tu n'as pas de pelle. Je ne pourrai pas partir, tant que tu n'en auras pas. J'attends ton retour avec impatience.}
-{171}{}{Salut.}
+{171}{}{Au revoir.}
 {172}{}{Psst ! Hé ! Hé ! Par ici !}
 {173}{}{Par ici ! Je promets de ne pas te faire de mal.}
 {174}{}{Allez, viens. Ne me dis pas que tu as peur d'une plante !}

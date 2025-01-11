@@ -27,7 +27,7 @@
 {254}{}{elektrisch}
 {255}{}{emp}
 {256}{}{Explosion}
-{300}{}{Keine}
+{300}{}{Aus}
 {301}{}{Rakete}
 {302}{}{Brennstoff für Flammenwerfer}
 {303}{}{C-Energiezelle}

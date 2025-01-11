@@ -24,4 +24,4 @@
 {123}{}{Vic.}
 {124}{}{Myron.}
 {125}{}{Personne. J'ai besoin d'autre chose.}
-{126}{}{Ca n'a pas d'importance. Salut.}
+{126}{}{Ca n'a pas d'importance. Au revoir.}

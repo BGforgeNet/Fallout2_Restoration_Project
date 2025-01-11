@@ -7,7 +7,7 @@
 {106}{}{Alors, qu'est-ce qui est à vendre ?}
 {107}{}{On dirait que tu sais te servir de tes mains. Tu as des mains, n'est-ce pas ?}
 {108}{}{J'ai $5. Tu connais des ragots ?}
-{109}{}{Salut.}
+{109}{}{Au revoir.}
 {110}{}{Tu vois celui-là ? C'est mon préféré, c'est Edna. Je donne des noms à toutes mes choses. Elles sont un peu comme mes enfants. Ca me fait mal de les vendre, mais il faut bien vivre.}
 {111}{}{T'embêtes tous mes enfants !}
 {112}{}{Ouais, c'est ça. Voilà $5. Tu connais quelques bons ragots ?}
@@ -34,7 +34,7 @@
 {133}{}{Ca marche. A plus tard.}
 {134}{}{Ecoute, si tu trouves du liquide, reviens me voir. Je l'aurai probablement encore.}
 {135}{}{Ca me semble honnête.}
-{136}{}{Salut.}
+{136}{}{Au revoir.}
 {137}{}{Et voilà ! Claudia est installée !}
 {138}{}{Donne-moi un peu plus de temps. Je travaille encore sur ce sacré machin.}
 {139}{}{Oh ! Je ne crois pas avoir un cerveau de rechange pour toi.}

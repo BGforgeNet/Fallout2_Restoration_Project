@@ -70,7 +70,7 @@
 {169}{}{Eh bien, $200 c'est un peu trop pour moi. Je reviendrai peut-être si je trouve l'argent.}
 {170}{}{Tant pis. On en reparlera peut-être une autre fois.}
 {171}{}{Hummm. Bon d'accord... Je suis d'humeur charitable aujourd'hui. Mais ne dis pas à tes amis étrangers que tu les as eus pour cette somme.}
-{172}{}{D'accord.}
+{172}{}{Très bien.}
 {173}{}{Allez, donne-les moi ces maudits papiers.}
 {174}{}{Très bien, ils sont en cours d'impression... *citoyen*. Ne parle de cela à personne, SURTOUT pas à Wallace, c'est d'accord ?}
 {175}{}{Pas de problème. Je ne ferai jamais une chose pareille à un citoyen intègre comme toi, en particulier lorsque j'ai une preuve de tes activités illégales juste ici dans ma poche.}
@@ -94,7 +94,7 @@
 {193}{}{Toi encore. Que veux-tu ?}
 {194}{}{Weu ? Weu !}
 {195}{}{Dégage !}
-{196}{}{Où suis-je ici ?}
+{196}{}{Quel est cet endroit ?}
 {197}{}{Je veux entrer dans la Cité.}
 {198}{}{J'aimerais acheter ces faux papiers de citoyenneté dont tu parlais.}
 {199}{}{J'ai décidé de te dénoncer pour la vente de faux papiers de citoyenneté.}
@@ -120,7 +120,7 @@
 {219}{}{2 secondes}
 {220}{}{Hummm... Je suppose que tu t'attends à une petite prime d'intermédiaire ?}
 {221}{}{2 secondes}
-{222}{}{BIEN SUR que je veux une prime d'intermédiaire !!}
+{222}{}{BIEN SUR que je veux une prime d'intermédiaire !}
 {223}{}{1 seconde, ne retire pas tout de suite le flotteur de Skeev.}
 {224}{}{Priiiime ? Piiiiiiiime !}
 {225}{}{1 seconde}

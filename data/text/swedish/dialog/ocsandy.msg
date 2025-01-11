@@ -16,7 +16,7 @@
 {111}{}{(Screams) Mommy! Mommy! Mommy!}
 {112}{}{I'm Sandy. I'm not really a cat, I just like to play.}
 {113}{}{Me play too. Me ask you questions?}
-{114}{}{Me leave now.}
+{114}{}{Jag gå nu.}
 {115}{}{I see. Can I ask you some questions?}
 {116}{}{Okay, I'm history.}
 {117}{}{What do you want to ask me?}

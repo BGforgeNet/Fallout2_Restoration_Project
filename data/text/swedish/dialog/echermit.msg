@@ -25,4 +25,4 @@
 {124}{}{Leave home!}
 {125}{}{How you dare me attack!}
 {126}{}{Leave alone me.}
-{127}{}{I go.}
+{127}{}{Jag går.}

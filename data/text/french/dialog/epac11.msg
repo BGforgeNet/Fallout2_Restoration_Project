@@ -29,7 +29,7 @@
 {281}{}{Ca semble correct, allons-y.}
 {282}{}{Comme tu dis.}
 {290}{}{T'en fais pas pour c'vieux Cat. Je trouverai ma place dans ce monde. Maintenant bouge-toi de là et laisse-le Cat faire ce qu'il a à faire .}
-{291}{}{[FIN]}
+{291}{}{[Terminé]}
 {300}{}{Alors, comment t'es-tu retrouvé dans cette chambre cryogénique ? Et qu'est-il arrivé à tes dents ?}
 {301}{}{J'étais le garde de l'un des labos de génétique. Ils manipulaient de l'ADN humain et félin. Ils essayaient de créer quelque chose avec le meilleur des deux mondes, je suppose. Et c'est la que j'interviens. [Cat vous lance un sourire plein de dents.] Ils voulaient un volontaire pour l'un de leurs projets. C'était pour les éclaireurs et autres trucs de ce genre, c'était censé te rendre plus agile et plus souple. J'ai trouvé que ça sonnait bien. Quoi qu'il en soit, ils m'ont désigné, ils m'ont endormi et quand je me suis réveillé, j'avais ces dents, et je me sentais plus...vif ? Un genre de prédateur.}
 {302}{}{Continue.}
@@ -87,7 +87,7 @@
 {820}{}{Au moins, j'ai pas fini comme TOI, Lenny !}
 {830}{}{Au moins, j'ai pas fini comme TOI, Marcus !}
 {2900}{}{Je dois d'abord m'habiller. [En regardant aux alentours, Cat repère un placard, l'ouvre et regarde dedans.] C'est vraiment pas mon genre, mais j'imagine que ça va aller. [Il enfile rapidement les vêtements.] Voila, je suis prêt à partir.}
-{2901}{}{[FIN]}
+{2901}{}{[Terminé]}
 {5000}{}{[L'homme se relève et commence à s'ébrouer comme le ferait un animal mouillé. A peine t'a-t-il regardé, que ses yeux s'exorbitent en même temps qu'il semble manquer d'air.]}
-{5001}{}{[FIN]}
+{5001}{}{[Terminé]}
 {5002}{}{Bordel de merde !}

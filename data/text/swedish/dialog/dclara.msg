@@ -28,7 +28,7 @@
 {262}{}{Sure what's that?}
 {263}{}{Maybe later.}
 {270}{}{Let me know if you change your mind.}
-{271}{}{All right.}
+{271}{}{Okej.}
 {280}{}{Well, there's a church east of here. Metzger has some people guarding whatever
  is inside. Find out what and I'll pay you $200.}
 {281}{}{That was easy. I already know.}

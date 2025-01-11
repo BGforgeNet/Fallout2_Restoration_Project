@@ -8,4 +8,4 @@
 {107}{}{Il est temps de partir.}
 {108}{}{Tu réussis à débloquer les faux contacts et à rétablir l'énergie !}
 {109}{}{Mince. C'est plus difficile que ça en a l'air.}
-{110}{}{C'est terminé.}
+{110}{}{Terminé.}

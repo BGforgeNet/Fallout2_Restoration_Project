@@ -1,4 +1,4 @@
-{100}{}{Voici une jeune femme.}
+{100}{}{Tu vois une jeune femme.}
 {101}{}{Tu vois Ann, la femme de Connar.}
 {102}{}{Elle a l'air très occupée à cuisiner.}
 {200}{}{Bonjour à toi, je m'appelle Ann et je suis la femme de Connar. Et tu dois être celui qui nous a aidés. Tu n'as pas idée à quel point nous apprécions ce que tu as fait. Il est dur de croire que nous allons enfin pouvoir vivre en paix sans avoir peur que les brutes épaisses de la Cité de l'Abri viennent nous enlever de nos maisons.}
@@ -34,7 +34,7 @@
 {406}{}{Merci pour tout ! Reviens nous voir quand on aura agrandi le village. Je vais enfin avoir une cuisine fonctionnelle.}
 {410}{}{Rebonjour.}
 {411}{}{Tu as l'air d'être plutôt occupée. As-tu besoin d'aide pour quelque chose ?}
-{412}{}{Ca n'a pas d'importance. Salut.}
+{412}{}{Ca n'a pas d'importance. Au revoir.}
 {420}{}{Comment ça s'est passé ?}
 {421}{}{Comment ça s'est passé ? Oh, le marchand. En réalité, j'en ai eu ma claque et je suis parti.}
 {430}{}{De quoi !? Tu réalises que c'était notre seule chance de négocier avec lui ? On va avoir l'air de quoi après ça ? Tu nous as bien baisés.}

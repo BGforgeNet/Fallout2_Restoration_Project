@@ -28,7 +28,7 @@
 {122}{}{Modifie la vitesse du joueur}
 {123}{}{Voix du Pip-Boy}
 {201}{}{Oui}
-{202}{}{Non}
+{202}{}{Désactivé}
 {203}{}{Facile}
 {204}{}{Normal}
 {205}{}{Difficile}
@@ -40,7 +40,7 @@
 {211}{}{Prolixe}
 {212}{}{Bref}
 {213}{}{Cibles uniquement}
-{214}{}{Aucune}
+{214}{}{Aucun}
 {215}{}{Minimum}
 {216}{}{Maximum}
 {217}{}{Lent}

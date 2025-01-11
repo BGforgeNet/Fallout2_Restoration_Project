@@ -14,7 +14,7 @@
 {252}{}{C'est le boucher de l'abattoir. Ses vêtements sont maculés de Brahmine morte.}
 {253}{}{Tu peux sentir ce pauvre type d'ici.}
 {275}{}{Bon sang, on dirait qu'on va encore avoir besoin de Brahmines ici.}
-{276}{}{Bon, je crois que ça suffit pour aujourd'hui. Nous n'avons plus de Brahmine. Wahoo !! Faites couler la bière !!!}
+{276}{}{Bon, je crois que ça suffit pour aujourd'hui. Nous n'avons plus de Brahmine. Wahoo ! Faites couler la bière !!!}
 {277}{}{Merde alors ! Plus de Brahmine à tuer ! Peut-être que je devrais aller voir Miria.}
 {280}{}{Ahhh, il est temps de rentrer et de me relaxer dans ma propre puanteur.}
 {281}{}{Il est temps de rentrer et de manger un bon steak.}

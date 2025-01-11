@@ -167,7 +167,7 @@
 {619}{}{All right, then. Catch you later.}
 {630}{}{(Shrugs) Sorry, we ain't got no batteries now... come back in a week or two, maybe some will have turned up.
  'Course... we could just conduct bitness ANYWAY...}
-{631}{}{All right.}
+{631}{}{Okej.}
 {632}{}{Sorry, only when it IS business. Later, T-Ray.}
 {640}{}{Damn, bitch! I just gave you sweet love five minutes ago! You trying to KILL me?}
 {641}{}{Now, hold on...}

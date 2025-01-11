@@ -14,7 +14,7 @@
 {155}{}{Arrête !}
 {156}{}{Quelqu'un peut-il m'aider ?}
 {157}{}{A l'aide !}
-{158}{}{Allez, va-t-en !}
+{158}{}{Dégage !}
 {159}{}{Ma tête me fait assez souffrir comme ça !}
 {160}{}{Laisse-moi tranquille.}
 {200}{}{Oh là là, tu brilles du noir...}

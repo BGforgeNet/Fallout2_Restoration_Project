@@ -86,7 +86,7 @@
 {185}{}{All right, all right. Just trying to be friendly...}
 {186}{}{(Leave.)}
 {187}{}{All right. Before you go in, we have to search your belongings first.}
-{188}{}{Uh, okay.}
+{188}{}{Eh, okej.}
 {189}{}{What for?}
 {190}{}{Forget it, then.}
 {191}{}{Stop right there. No Outworlders are allowed within Vault City after dark.}

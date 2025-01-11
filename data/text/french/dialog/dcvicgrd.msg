@@ -77,7 +77,7 @@
 {395}{}{Oui. Voilà.}
 {396}{}{Non. Je reviendrai.}
 {397}{}{Qui c'est ton patron ?}
-{398}{}{Ca n'a pas d'importance. Salut.}
+{398}{}{Ca n'a pas d'importance. Au revoir.}
 {410}{}{Arrête de m'emmerder. Va parler à Metzger. C'est lui le Patron.}
 {411}{}{Laisse-moi tranquille ! C'est quoi, ton problème ?}
 {412}{}{Je t'ai dit d'aller parler à Metzger !}
@@ -114,4 +114,4 @@
 {504}{}{Vic a intérêt à travailler dur pour toi.}
 {505}{}{Un jour je t'aurai pendant une chasse.}
 {506}{}{Comment ça va ?}
-{507}{}{Salut à nouveau.}
+{507}{}{Rebonjour.}

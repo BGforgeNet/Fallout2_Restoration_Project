@@ -39,7 +39,7 @@
 {138}{}{Très bien.}
 {139}{}{Ca m'a l'air honnête.}
 {140}{}{Merci d'avoir utilisé EnclaveNet. Déconnexion... }
-{141}{}{C'est terminé.}
+{141}{}{Terminé.}
 {142}{}{Commande ?}
 {143}{}{Activité non autorisée détectée sur le complexe de l'ordinateur central. Alerte de sécurité. Alerte de sécurité.}
 {144}{}{Lancement du programme d'accueil.}

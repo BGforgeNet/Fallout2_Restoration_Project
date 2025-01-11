@@ -1,7 +1,7 @@
 {100}{}{Tu vois un citoyen de La Fosse.}
 {101}{}{Tu vois Derek.}
 {150}{}{Il a l'air très agile.}
-{200}{}{Va-t'en !}
+{200}{}{Casse-toi.}
 {201}{}{J'ai pas la force de parler.}
 {202}{}{Sors de chez moi !}
 {203}{}{Trouve-toi un autre endroit pour dormir.}
@@ -38,7 +38,7 @@
 {270}{}{Oh, salut !}
 {271}{}{Je ne le trouve nulle part.}
 {272}{}{Hé, que dis-tu de ce pain ?}
-{273}{}{Salut.}
+{273}{}{Au revoir.}
 {280}{}{Ha ! C'est moi. Je t'ai dit que j'étais un vrai cordon bleu ? Babeth ne veut pas me prendre. Elle dit que je suis instable.}
 {281}{}{Elle a peut-être raison.}
 {282}{}{Je cherche le livre de Babeth.}
@@ -57,7 +57,7 @@
 {310}{}{Quoi ! Tu te moques de moi ! Va te faire foutre ! Je ne suis pas instable ! Je sais cuisiner ! J'entends pas de voix !}
 {311}{}{Je vais... merde ! Fais chier ! Arrête ça ! Silence ! Quoi ? D'accord.}
 {312}{}{Hé ! Arr... ne... merde.}
-{313}{}{Salut.}
+{313}{}{Au revoir.}
 {314}{}{Rien.}
 {320}{}{Hé ! Casse-toi de là !}
 {321}{}{Ne me touche pas !}

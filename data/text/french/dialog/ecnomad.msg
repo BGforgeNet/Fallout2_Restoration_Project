@@ -1,4 +1,4 @@
-{100}{}{Un nomade.}
+{100}{}{Tu vois un nomade.}
 {101}{}{Bonjour, tu n'es pas d'ici, on dirait.}
 {102}{}{Tu devrais parler au chef.}
 {103}{}{Je crois qu'aujourd'hui il ne fait pas aussi chaud qu'hier.}

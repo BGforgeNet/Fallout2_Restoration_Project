@@ -16,7 +16,7 @@
 {115}{}{Nous exploitons de l'or. Tout le monde en veut. On l'envoie jusqu'à la Cité de l'Abri, New Reno et même jusqu'à la RNC. Redding a quelque chose à offrir à tout le monde, c'est ce qui préserve notre indépendance.}
 {116}{}{C'est bien d'être autant apprécié. Je voudrais savoir autre chose.}
 {117}{}{Ca m'étonnerait pas que quelqu'un veuille prendre le contrôle de Redding.}
-{118}{}{Merci pour l'information. Au revoir.}
+{118}{}{Merci du renseignement. Au revoir.}
 {119}{}{Qu'est-ce qui te fait penser que non ? Tout le monde aimerait avoir Redding à sa botte. Je sens que quelqu'un prendra bientôt le contrôle de la ville. La seule chose que nous puissions faire, c'est choisir notre maître, si nous voulons survivre.}
 {120}{}{Que veux-tu dire ?}
 {121}{}{C'est sûrement pas idiot. Bien, bonne chance et au revoir.}

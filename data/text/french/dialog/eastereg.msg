@@ -137,7 +137,7 @@
 {1410}{}{Les gouverneurs régionaux ont désormais toute autorité sur leurs traductions. La peur, voilà ce qui bâillonnera les systèmes séditieux.}
 {1411}{}{Les erreurs de dialogues ont disparu. Leur fluide s'est tari dans tout l'univers. Toi, l'Etre Elu, tu es le dernier tenant de leur religion.}
 {1412}{}{Peut-être que vous réagiriez mieux si j'utilisais une autre forme de persuasion.}
-{1413}{}{Charmant et si délicat. Dire que j'ai tant hésité avant de traduire votre condamnation à mort.}
+{1413}{}{Charmant et si délicat. Dire que j'ai tant hésité avant de traduire ta condamnation à mort.}
 {1500}{}{Tu vois Adam Dravean.}
 {1501}{}{Il hoche la tête dans ta direction.}
 {1510}{}{Je suis M. Wolna. J'ai supervisé la traduction allemande.}
@@ -198,7 +198,7 @@
 {2040}{}{[Le robot déambule d'avant en arrière avec allégresse.] Je suis heureux de te l'entendre dire. Je dois m'en aller maintenant, j'ai d'autres goodies à libérer dans ce monde.}
 {2041}{}{D'accord. Prends soin de toi, salut.}
 {2050}{}{[La tête du robot s'abaisse avec tristesse.] Eh bien, je suppose que mon travail n'est pas apprécié de la même manière par tout le monde. Maintenant si tu veux bien m'excuser, je dois m'en aller. J'ai un certain nombre de goodies à libérer dans ce monde.}
-{2051}{}{Allez va, salut.}
+{2051}{}{Peu importe. Salut.}
 {2060}{}{J'aime créer de nouvelles choses.}
 {2061}{}{Il y a tellement de détails maintenant. C'est superbe.}
 {2100}{}{Tu vois Mash.}
@@ -213,7 +213,7 @@
 {2131}{}{D'accord je ne l'oublierai pas. Merci.}
 {2132}{}{Mouais. Allez salut.}
 {2140}{}{Excellent. Allez, prends soin de toi.}
-{2141}{}{Salut.}
+{2141}{}{Au revoir.}
 {2142}{}{A plus tard.}
 {2150}{}{La Source est fourbe, mais je sais la manier.}
 {2151}{}{Profite de l'extension de la visibilité de ce monde !}

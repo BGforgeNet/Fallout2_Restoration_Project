@@ -63,7 +63,7 @@
 {233}{}{Eh ben ! Je ne suis pas surpris que tu n'aies pas eu peur de nos petites astuces. Tu es trop stupide pour avoir peur. Je n'aime pas être obligé de dépendre d'un handicapé mental, mais nous avons besoin de tes services. Porte ce message à Modoc. Donne-le au chef de Modoc et essaie de ne pas te perdre.}
 {300}{}{Je vais partir maintenant.}
 {301}{}{Que veux-tu de moi ?}
-{302}{}{Salut.}
+{302}{}{Au revoir.}
 {303}{}{Fantômes ?}
 {400}{}{Message bien reçu. La ville de Modoc veut nouer des relations commerciales avec votre peuple.}
-{401}{}{Modoc happy. Trade good!}
+{401}{}{Heureux Modoc. Le commerce, c'est bien !}

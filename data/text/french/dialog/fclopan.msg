@@ -46,7 +46,7 @@
 {145}{}{Oui. Je le fais pour les Shi.}
 {146}{}{Non. Je le fais parce que je pense que t'es une ordure.}
 {147}{}{Tu te crois robuste, hein ? Tu vas d'abord affronter mes hommes et nous verrons si tu es digne de me combattre.}
-{148}{}{[commencer]}
+{148}{}{[Débuter]}
 {149}{}{Je suis Lo Pan. Je suis également *l'ennemi juré* du Dragon. Pourquoi cherche-t-il à avoir un ennemi juré ? Je n'en sais rien. Je me bats aussi bien que lui. Mais je pense qu'il manque de courage et permet aux autres de vivre dans son ombre. Nous sommes ennemis parce que nous avons le même style de combat et celui qui gagnera perpétuera la tradition.}
 {150}{}{Je ne me débrouille pas trop mal au combat au Corps à Corps. Tu veux essayer ?}
 {151}{}{C'est intéressant et certainement gratifiant. J'ai d'autres questions.}

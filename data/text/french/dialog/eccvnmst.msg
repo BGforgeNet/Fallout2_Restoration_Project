@@ -3,17 +3,17 @@
 {102}{}{Que puis-je faire pour vous ?}
 {103}{}{Où vas-tu ?}
 {104}{}{Que transportes-tu ?}
-{105}{}{Salut.}
+{105}{}{Au revoir.}
 {106}{}{Ug.}
 {107}{}{Je viens de prendre un chargement à }
 {108}{}{ et maintenant, je me dirige vers }
 {109}{}{.}
 {110}{}{Que transportes-tu ?}
-{111}{}{Salut.}
+{111}{}{Au revoir.}
 {112}{}{Nous transportons }
 {113}{}{Tu crois que je pourrais faire des échanges avec toi ?}
 {114}{}{Où vas-tu ?}
-{115}{}{Salut.}
+{115}{}{Au revoir.}
 {116}{}{Je ne vois pas de raison de refuser, si l'on considère que tu nous a aidés. Bien sûr, pourquoi pas ? Regarde, voilà ce que j'ai.}
 {117}{}{[Troquer]}
 {118}{}{J'ai changé d'avis.}
@@ -24,7 +24,7 @@
 {123}{}{Attends une minute ! J'ai entendu parler de toi. Tu es la bonne âme qui aide et sauve les gens. On n'aime pas les spécimens dans ton genre, alors casse-toi !}
 {124}{}{J'ai entendu parler en bien de quelqu'un qui te ressemble. Je crois qu'on pourrait faire des échanges. Voici ce que j'ai.}
 {125}{}{[Troquer]}
-{126}{}{Salut.}
+{126}{}{Au revoir.}
 {127}{}{J'ai entendu parler de toi. C'est toi qui fous le bordel partout où tu vas. Je voulais te rencontrer. Je peux te serrer la main ? En pensant à toutes ces rumeurs horribles qui courent sur ton compte, j'en ai les larmes aux yeux... Ce serait un honneur pour moi de faire des échanges avec toi.}
 {128}{}{[Troquer]}
 {129}{}{Salut.}
@@ -35,7 +35,7 @@
 {134}{}{Annonce la couleur.}
 {135}{}{Où vas-tu ?}
 {136}{}{Que transportes-tu ?}
-{137}{}{Salut.}
+{137}{}{Au revoir.}
 {138}{}{Ug.}
 {139}{}{C'est bien... Bonne journée.}
 {150}{}{des médicaments.}
@@ -49,7 +49,7 @@
 {199}{}{La Fosse}
 {200}{}{Arroyo}
 {201}{}{Redding}
-{202}{}{La Cite de l'Abri}
+{202}{}{La Cité de l'Abri}
 {203}{}{RNC}
 {204}{}{Les Collines Brisées}
 {205}{}{Gecko}

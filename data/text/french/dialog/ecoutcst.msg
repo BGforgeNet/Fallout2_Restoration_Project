@@ -4,4 +4,4 @@
 {103}{}{Saloperie !}
 {104}{}{Laisse-nous tranquilles !}
 {105}{}{Dégueulasse !}
-{106}{}{Allez-vous-en !}
+{106}{}{Va-t'en !}

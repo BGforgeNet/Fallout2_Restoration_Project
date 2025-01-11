@@ -45,7 +45,7 @@
 {261}{}{Je reviendrai jeter un coup d'oeil.}
 {262}{}{Parfait... Je peux jeter un coup d'oeil à la réserve ?}
 {270}{}{Ici, à l'Armurerie de New Reno, nous avons les accessoires dernier cri de protection personnelle pour arrêter net tous les salauds de trouillards. [Il sourit d'un air malveillant.]}
-{272}{}{Re-bonjour. Que puis-je faire pour toi ?}
+{272}{}{Rebonjour. Que puis-je faire pour toi ?}
 {273}{}{C'est-à-dire ?}
 {274}{}{Des trucs, comme... des choses. Machin-truc-bidule, quoi !}
 {276}{}{Tu es exactement la personne que je cherchais. Je peux voir ce que tu as en réserve ?}

@@ -4,6 +4,6 @@
 {103}{}{[Se déconnecter]}
 {104}{}{Aligner le satellite afin de recevoir les coordonnées géographiques de l'Enclave.}
 {105}{}{Satellite en cours de réalignement. Veuillez patienter...}
-{106}{}{[Plus]}
+{106}{}{[Suite]}
 {107}{}{Réalignement réussi. Plate-forme d'amarrage prête à accueillir les avions.}
 {108}{}{[Se déconnecter]}

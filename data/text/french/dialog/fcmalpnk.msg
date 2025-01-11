@@ -42,7 +42,7 @@
 {141}{}{Eh bien, tout le monde veut te parler maintenant.}
 {142}{}{Espèce d'anti-Chip !}
 {143}{}{Je peux faire quelque chose pour toi ? C'est dommage !}
-{144}{}{Ne me parle pas.}
+{144}{}{Ne m'adresse pas la parole.}
 {145}{}{C'est sympa de ta part d'essayer de faire quelque chose pour la rate de Chip.}
 {146}{}{Tu auras au moins essayé.}
 {147}{}{Pauvre Chip.}

@@ -1,3 +1,3 @@
-1:APRES LA DESTRUCTION DE L'ENCLAVE, LA CITE DE L'ABRI CONTINUA A STAGNER, ETOUFFEE PAR SA PROPRE POLITIQUE D'ISOLATIONNISME.
-2:LE GENERATEUR DE L'ABRI 8, QUI N'AVAIT JAMAIS ETE PREVU POUR UNE POPULATION SI IMPORTANTE, EMPECHA L'EXPANSION NECESSAIRE DE LA CITE DE L'ABRI.
-3:LA CITE FUT ALORS ABSORBEE PAR LA RNC, QUI, DEPUIS SA FONDATION, N'AVAIT CESSE DE S'ETENDRE VERS LE NORD.
+1:Après la destruction de l'Enclave, la cité de l'Abri continua à stagner, étouffée par sa propre politique d'isolationnisme.
+2:Le générateur de l'Abri 8, qui n'avait jamais été prévu pour une population si importante, empêcha l'expansion nécessaire de la Cité de l'Abri.
+3:La Cité fut alors absorbée par la RNC, qui, depuis sa fondation, n'avait cessé de s'étendre vers le nord.

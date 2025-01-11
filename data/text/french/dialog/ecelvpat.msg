@@ -1,6 +1,6 @@
 {100}{}{Tu vois un Patrouilleur de l'Enclave.}
 {200}{}{Tu as pénétré illégalement sur le territoire de l'Enclave. La proposition 312 nous ordonne de tirer à vue. Désolé.}
-{201}{}{C'est un espion mutant ! Qu'on l'attrape !!}
+{201}{}{C'est un espion mutant ! Qu'on l'attrape !}
 {202}{}{Je suis un soldat loyal de l'Enclave. J'ai l'ordre de te tuer. Tu ne m'en veux pas, hein ?}
 {203}{}{J'appelle la base... Intrus dans le secteur 3 ! Attendons vos ordres. - Exterminer ? Bien reçu.}
 {204}{}{Tu vas certainement me dire que tu cherches seulement une puce d'eau. J'ai l'air bête, ou quoi ? Attrapez-moi cette crapule !}

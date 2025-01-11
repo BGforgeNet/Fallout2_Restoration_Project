@@ -30,7 +30,7 @@
 {129}{}{Mr. Westin doesn't just 'chat' with anyone who walks in off the street. If you don't have specific business with him then I suggest you leave until such time as you do. Now please go away.}
 {130}{}{[KLAR]}
 {131}{}{(sigh) I've heard that Mr. Westin has a soft spot for people like you. Come on in.}
-{132}{}{Me thank you.}
+{132}{}{Jag tack dig.}
 {133}{}{Yeah, yeah. I am in the middle of something.}
 {134}{}{Hey, get away from there!}
 {135}{}{You should ask before you play with things that aren't yours.}

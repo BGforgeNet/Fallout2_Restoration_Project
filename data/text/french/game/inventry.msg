@@ -29,6 +29,6 @@
 {28}{}{Non, ton offre n'est pas satisfaisante.}
 {29}{}{Tu reçois %d points d'expérience pour avoir utilisé avec succès ta compétence Voleur.}
 {30}{}{Chg}
-{31}{}{Tu ne peux pas porter tout ça !!}
+{31}{}{Tu ne peux pas porter tout ça !}
 {32}{}{Malheureusement, tu ne peux pas porter tout ça.}
 {50}{}{Tu ne trouves rien de bon à prendre dans tout ça.}

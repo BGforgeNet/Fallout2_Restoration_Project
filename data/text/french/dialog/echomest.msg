@@ -21,7 +21,7 @@
 {120}{}{Euh...}
 {121}{}{Hé, hé, hé !}
 {122}{}{Bon, alors, on ne fait pas affaire ensemble. Passe ton chemin.}
-{123}{}{[FIN]}
+{123}{}{[Terminé]}
 {124}{}{Quitte ma ferme !}
 {125}{}{Personne ne prendra ma maison !}
 {126}{}{Sale bandits !}
@@ -35,5 +35,5 @@
 {134}{}{Je n'aimais pas être fermier de toute façon.}
 {135}{}{Je reviendrai.}
 {136}{}{Prends ma femme, je t'en prie !}
-{200}{}{Merci pour ton aide.}
+{200}{}{Merci de ton aide.}
 {201}{}{Il était temps que quelqu'un ramène de l'ordre dans ce désert de pouilleux.}

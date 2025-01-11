@@ -15,9 +15,9 @@
 {114}{}{J'achète.}
 {115}{}{Je passe.}
 {116}{}{Oh, tu ne le regretteras pas. Ca m'a fait plaisir de faire des affaires avec toi. A un de ces jours.}
-{117}{}{[Fin]}
+{117}{}{[Terminé]}
 {118}{}{Putain, tu me fais perdre mon temps ! Allez, casse-toi !}
-{119}{}{[Fin]}
+{119}{}{[Terminé]}
 {120}{}{Quel gaspillage de salive pour rien... $}
 {121}{}{Ouais !}
 {122}{}{Non.}

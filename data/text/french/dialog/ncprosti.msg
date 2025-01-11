@@ -1233,7 +1233,7 @@
 {2279}{}{ ?}
 {2280}{}{ botte tellement de culs qu'elle devait être une chaussure dans une autre vie.}
 {2285}{}{.}
-{2292}{}{<Grmmble...>}
+{2292}{}{...}
 {2293}{}{ ?}
 {2294}{}{... viens par là, mon ange...}
 {2295}{}{.}

@@ -16,5 +16,5 @@
 {115}{}{Va pas dans le coin là... J'y ai dégueulé.}
 {116}{}{Mec... une autre nuit dans la cuve à vin.}
 {117}{}{Tu veux t'battre ? J'suis une épave.}
-{118}{}{::Armure:: ::Chancellement::}
+{118}{}{::titube::}
 {119}{}{Je t'aime !}

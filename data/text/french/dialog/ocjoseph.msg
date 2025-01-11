@@ -42,7 +42,7 @@
 {141}{}{Moi comprendre. Partir maintenant.}
 {142}{}{Besoin demander plus.}
 {143}{}{Tu as pris un gros risque et tu as de la chance que ça ait marché.}
-{144}{}{D'accord.}
+{144}{}{Très bien.}
 {145}{}{Bonne idée. Quel plaisir de voir que ça a marché !}
 {146}{}{Eh bien, voyons... Les Griffemorts sont des caméléons Jackson ayant subi une mutation, de la famille des caméléons cornus. Il existe encore de nos jours de nombreuses similitudes, mais aussi des différences encore plus nombreuses. Le facteur de mutation est assez élevé. Cette espèce est très intelligente, l'équivalent d'un enfant de huit ans, mais certains atteignent le niveau d'humains normaux. Ils apprennent vite et sont capables de penser et de raisonner.}
 {147}{}{Euh... Quoi toi dire ?}

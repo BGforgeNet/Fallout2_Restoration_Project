@@ -49,7 +49,7 @@
 {292}{}{Haa ! Lâche-moi, tu t'es fait des idées !}
 {300}{}{Tu me dégoûtes, espèce de tentatrice ! Va séduire ailleurs. Je n'ai pas de temps à perdre avec toi.}
 {301}{}{Ouais, eh bien toi aussi va te faire foutre. A plus.}
-{302}{}{Allez va, salut.}
+{302}{}{Peu importe. Salut.}
 {310}{}{[Plusieurs heures s'écoulent dans un nuage de passion brutale et moite. A la fin, tu t'allonges sur le sol de la hutte de Krom, harassée. Krom est étendu à tes côtés, ses yeux dévorent les contours de ton corps.] Par les Dieux, fillette, tu es incroyable !}
 {311}{}{Merci. T'as été pas mal non plus.}
 {312}{}{Bien sûr que je le suis. Après tout, je suis l'Etre Elu.}
@@ -94,12 +94,12 @@
 {441}{}{Je ne t'en veux pas de ne pas avoir conclu l'affaire. J'avais également un mauvais pressentiment concernant l'échange. Il est vrai que ces Stimpaks se seraient révélés utiles, mais jusque-là on se débrouille bien sans eux, et ça devrait durer. Tu es la bienvenue si tu veux rester parmi nous, fillette, et considères notre tribu comme la tienne. Cependant, il se peut qu'à l'avenir j'ai encore besoin de ton assistance. Merci de ton aide.}
 {442}{}{Pas de problème.}
 {443}{}{Ce fut un plaisir de t'aider.}
-{444}{}{Allez va, salut.}
+{444}{}{Peu importe. Salut.}
 {450}{}{Si jamais je revois ce sale chien fourbe, je prendrai un grand plaisir à fendre son crâne hideux. Cependant, Tu as fait du beau travail en repérant sa combine. Je vois que j'ai pris la bonne décision en te faisant confiance. Tu es le bienvenu si tu veux rester parmi nous, et considères notre tribu comme la tienne. Toutefois, il se peut qu'à l'avenir j'ai encore besoin de ton assistance. Merci de ton aide.}
 {451}{}{Si jamais je revois ce sale chien fourbe, je prendrai un grand plaisir à fendre son crâne hideux. Cependant, Tu as fait du beau travail en repérant sa combine. Je vois que j'ai pris la bonne décision en te faisant confiance, fillette. Tu es la bienvenue si tu veux rester parmi nous, et considères notre tribu comme la tienne. Toutefois, il se peut qu'à l'avenir j'ai encore besoin de ton assistance. Merci de ton aide.}
 {452}{}{Pas de problème.}
 {453}{}{Ce fut un plaisir de t'aider.}
-{454}{}{Allez va, salut.}
+{454}{}{Peu importe. Salut.}
 {460}{}{[L'immense guerrier te salut de la tête tandis que tu t'approches.] Sois de nouveau le bienvenu, mon ami. As-tu besoin de quelque chose ?}
 {461}{}{[L'immense guerrier te sourit alors qu'il te regarde approcher.] Par les Dieux, j'avais presque oublié à quel point tu es belle. As-tu besoin de quelque chose, fillette ?}
 {462}{}{Je me demandais si je pouvais te poser quelques questions.}
@@ -168,7 +168,7 @@
 {863}{}{Je m'en vais.}
 {870}{}{Eh bien, on dirait que je suis d'humeur à te pardonner, l'ami. Que puis-je faire pour toi ?}
 {871}{}{Je n'aime pas être traité comme un jouet par une nana. Mais, par les dieux, comment puis-je en vouloir à une beauté comme toi ? Que puis-je faire pour toi ?}
-{872}{}{Ca n'a pas d'importance. Salut.}
+{872}{}{Ca n'a pas d'importance. Au revoir.}
 {1000}{}{[Respectueusement, l'immense guerrier te salut de la tête.] N'est-ce pas le grand héros des Terres Désolées ? C'est un sacré exploit que d'avoir envoyé en enfer ces chiens de l'Enclave. A dire vrai, le fait d'entendre raconter tes exploits m'a donné envie de reprendre la route dans le désert.}
 {1001}{}{Et où vas-tu aller ?}
 {1002}{}{Et tu vas partir comme ça ? Tu es le Chef Guerrier de la tribu.}

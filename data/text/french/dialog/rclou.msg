@@ -49,7 +49,7 @@
 {148}{}{San Fransisco est assez loin vers le Sud. Il te reste du chemin à faire. Plein Sud et juste un poil à l'Ouest. Tout près de l'océan. Je sais pas pourquoi quelqu'un de sensé voudrait y aller.}
 {149}{}{Pourquoi ? C'est dangereux ?}
 {150}{}{C'est intéressant. Puis-je te demander autre chose ?}
-{151}{}{Merci pour l'information. Au revoir.}
+{151}{}{Merci du renseignement. Au revoir.}
 {152}{}{J'ai entendu tout un tas de choses sur cette ville qui serait pleine d'adeptes fous d'une sorte de religion clandestine.}
 {153}{}{Des adeptes toqués ?}
 {154}{}{Certaines choses évoluent plus que d'autres. Merci. Au revoir.}
@@ -134,7 +134,7 @@
 {233}{}{Oui, il me faudrait autre chose.}
 {234}{}{S'passe quoi en ville, en ce moment ?}
 {300}{}{Tu as aidé Fannie à vaincre sa dépendance au Jet.}
-{301}{}{Salut.}
+{301}{}{Au revoir.}
 {310}{}{J'ai peut-être quelque chose qui puisse aider Fannie. [Donner à Lou l'antidote au Jet]}
 {1103}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Je tenais à ce que tu saches que je suis reconnaissante pour ce que t'as fait. Que puis-je faire pour toi ?}
 {1104}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. La prison est bien trop douce après ce qu'a fait ce salaud.}

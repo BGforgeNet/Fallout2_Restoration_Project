@@ -4,7 +4,7 @@
 {103}{}{La réunion du conseil d'hier a été très productive. On a fait des tas de listes. Des *tas* de listes.}
 {104}{}{J'suis impatient de revenir à l'intérieur.}
 {105}{}{Salut, citoyen.}
-{106}{}{Pardon...}
+{106}{}{Excuse-moi.}
 {107}{}{Tu es sur mon chemin.}
 {108}{}{Pourquoi tu retournes pas dehors avec les autres ?}
 {109}{}{Tu peux t'éloigner un peu, s'il te plaît ?}

@@ -44,4 +44,4 @@
 {231}{}{Comment as-tu fait pour entrer ici ?}
 {232}{}{Pourquoi ne vas-tu pas faire un tour de l'autre côté de ces portes. Oh la jolie fosse rayonnante, jolie, jolie. Hé ! Hé ! Hé !}
 {300}{}{Hank a déclenché une fusion. Tu l'as bien eu.}
-{900}{}{Ca se voit pas que j'ai à faire ?!!}
+{900}{}{Ca se voit pas que j'ai à faire ?}

@@ -204,7 +204,7 @@
 {640}{}{(Nods.) That is good. The man is old... a cripple... he hides in his bar, "Salvatore's," near the Bishop Casino.
  He is a... coward and never leaves his room upstairs. When he is... dead, return.}
 {641}{}{Cripple?}
-{642}{}{All right.}
+{642}{}{Okej.}
 {650}{}{(Nods.) The butcher's legs... are weak. (Jesus wipes his forehead, then draws another weak breath.)
  He also has... difficulty... breathing. He takes air through an... oxygen tank.}
 {651}{}{Oxygen tank, huh? Hmmmm. All right.}

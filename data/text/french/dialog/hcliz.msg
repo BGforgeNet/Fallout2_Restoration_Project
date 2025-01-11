@@ -59,7 +59,7 @@
 {158}{}{Ouais, comme tu veux la gribiche.}
 {159}{}{Les Goules sont des esclaves utiles. Ils ont pas beaucoup d'esprit, mais ça vaut pas non plus la peine de les tuer. Je suis contre leur exécution.}
 {160}{}{Ok. Je veux autre chose.}
-{161}{}{Allez va, salut.}
+{161}{}{Peu importe. Salut.}
 {162}{}{Si tu veux vraiment massacrer des mutants, tu pourrais peut-être parler à Jacob le chimiste.}
 {163}{}{Jacob, hein ? D'accord.}
 {164}{}{J'y avais pensé. Maintenant file.}
@@ -80,7 +80,7 @@
 {181}{}{Ca suffit ! Viens ici !}
 {182}{}{Que viens-tu m'enquiquiner encore ?}
 {183}{}{Merci.}
-{184}{}{[Continue]}
+{184}{}{[Continuer]}
 {185}{}{Hé ! Qui va là ?}
 {186}{}{J'sais pas qui tu es mais j'viens t'chercher !}
 {200}{}{Avez-vous quelque chose de spécial que vous souhaiteriez vendre et qui ne serait pas déjà sur les tablettes ?}

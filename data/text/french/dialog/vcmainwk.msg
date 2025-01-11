@@ -31,10 +31,10 @@
 {130}{}{Je cherchais l'Abri. Peux-tu me dire où il se trouve ?}
 {131}{}{En fait, j'allais justement partir.}
 {132}{}{C'est ce gros trou dans la montagne, à l'Est, derrière ces deux gardes armés jusqu'aux dents. Il y a autre chose que tu veux savoir ou je peux retourner bosser ?}
-{133}{}{Où suis-je ici ?}
+{133}{}{Quel est cet endroit ?}
 {134}{}{Fais gaffe. J'suis pas d'humeur à me laisser emmerder aujourd'hui.}
 {135}{}{Merci. Salut.}
-{136}{}{Comme si la Cité de l'Abri n'avait pas assez de Brahmines humaines... Ecoute, tu NE PEUX PAS RESTER LA, COMPRIS ? Tu pourrais te faire MAL ! ALLEZ, DEGAGE ! ALLEZ !!}
+{136}{}{Comme si la Cité de l'Abri n'avait pas assez de Brahmines humaines... Ecoute, tu NE PEUX PAS RESTER LA, COMPRIS ? Tu pourrais te faire MAL ! ALLEZ, DEGAGE ! ALLEZ !}
 {137}{}{[Sniff...] Toi pas yenti... [Sniff...] Moi va partir et pis faire la fête avec des clowns... [Sniff...] ... et pis la glassse... et le ggâteau... et pis moi invite pas michants côme TOI !}
 {138}{}{Dégage !}
 {139}{}{Fiche le camp d'ici, ou j'appelle les gardes pour te FAIRE dégager !}
@@ -143,7 +143,7 @@
 {242}{}{En fait, aucune. Il faut que j'y aille.}
 {243}{}{Je reviendrai quand j'aurai plus d'argent à dépenser.}
 {244}{}{Je pense que je pourrais te gonfler ce bâton d'élevage. Ca te coûtera $750.}
-{245}{}{D'accord.}
+{245}{}{Très bien.}
 {246}{}{Pourquoi pas plutôt $650?}
 {247}{}{En fait, tu pourrais pas plutôt améliorer une autre de mes armes ?}
 {248}{}{Bon. Il y a autre chose que je voulais...}
@@ -152,7 +152,7 @@
 {251}{}{Je vois que tu as piqué quelques trucs à mon radin de père. Donne-moi encore une heure, et ce sera bon...}
 {252}{}{Très bien, très bien. Tu parles vraiment comme mon radin de père. Donne-moi encore une heure, et ce sera bon...}
 {253}{}{Très bien, très bien, donne-moi encore une heure, et ce sera bon...}
-{254}{}{D'accord.}
+{254}{}{Très bien.}
 {255}{}{Voilà. Autre chose ?}
 {256}{}{J'ai d'autres questions...}
 {257}{}{Tu peux améliorer autre chose, dans ce que j'ai ?}

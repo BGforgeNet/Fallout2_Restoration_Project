@@ -6,7 +6,7 @@
 {108}{}{Hein ?}
 {109}{}{J'ai une lettre pour AHS-9. Que dois-je en faire ?}
 {110}{}{Je suis}
-{111}{}{Ca te regarde pas.}
+{111}{}{Ca ne te regarde pas.}
 {112}{}{Je veux rejoindre les Hubologistes.}
 {113}{}{Qui es-TU ? Et que fais-TU ici ?}
 {114}{}{Rien. Salut.}
@@ -18,13 +18,13 @@
 {120}{}{Bon, bon. Pas besoin d'avoir les couilles à l'envers pour ça.}
 {121}{}{En fait, ça me concerne. C'est mon vaisseau, et eux, ce sont mes gardes. Bon, qui es-tu et que fais-tu ici ?}
 {122}{}{Je suis}
-{123}{}{Ca te regarde pas.}
+{123}{}{Ca ne te regarde pas.}
 {124}{}{Je veux rejoindre les Hubologistes.}
 {125}{}{Qui es-TU ? Et que fais-TU ici ?}
 {126}{}{Rien. Salut.}
 {127}{}{Je suis Harry, le technicien en chef de la fusée.}
 {128}{}{Je suis}
-{129}{}{Ca te regarde pas.}
+{129}{}{Ca ne te regarde pas.}
 {130}{}{Je veux rejoindre les Hubologistes.}
 {131}{}{Rien. Salut.}
 {132}{}{Tu ne veux pas coopérer, hein ? Gardes ! Eliminez l'intrus !}

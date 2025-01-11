@@ -5,7 +5,7 @@
 {104}{}{Notre héros ! Regardez !}
 {105}{}{Mince ! Le héros, ici, dans la Cité de l'Abri !}
 {106}{}{Bonne journée, Capitaine.}
-{107}{}{La Cité de l'Abri avant tout, Capitaine !}
+{107}{}{La Cité de l'Abri avant tout, Capitaine.}
 {108}{}{Salut, citoyen.}
 {109}{}{La Cité de l'Abri avant tout, citoyen !}
 {110}{}{Un mutant ! Gardes ! Gardes !}
@@ -30,7 +30,7 @@
 {129}{}{Ils dorment ? Nooon, plus maintenant.}
 {130}{}{J't'en prie... Reviens dans la matinée. J'ai une longue journée demain, il faut que je fasse des listes.}
 {131}{}{Bonne journée, Capitaine.}
-{132}{}{La Cité de l'Abri avant tout, Capitaine !}
+{132}{}{La Cité de l'Abri avant tout, Capitaine.}
 {133}{}{Tu veux un beignet, Capitaine ?}
 {134}{}{Un problème, Capitaine ?}
 {135}{}{J'espère qu'aucun de ces sales étrangers ne vous donne de soucis, Capitaine.}

@@ -48,7 +48,7 @@
 {339}{}{C'est une mission difficile. Puis-je avoir l'une des armes laser que votre famille utilise ?}
 {340}{}{Hum, je ne suis pas un tueur à gages. Il faut que j'y aille maintenant.}
 {350}{}{Mason te donnera... les détails [Fait un signe de la tête pour indiquer la porte.] Va maintenant.}
-{351}{}{D'accord.}
+{351}{}{Très bien.}
 {352}{}{Merci, M.Salvatore. Je vais aller demander à Mason.}
 {360}{}{Alors, tu n'es d'aucune... utilité pour moi. Va-t'en.}
 {361}{}{Heu, une minute... J'ai changé d'avis. Je vais le faire.}
@@ -139,7 +139,7 @@
 {630}{}{[Hoche de la tête.] C'est un... bon nom. Va voir Mason. Il a... quelque chose pour toi.}
 {640}{}{Bonjour, }
 {645}{}{Je n'ai plus besoin de tes services, }
-{650}{}{<Grmmble...>}
+{650}{}{...}
 {651}{}{<Heurkkk...>}
 {652}{}{::Suffoque:: ... Je... ::Tousse:: ::Respire bruyamment::}
 {653}{}{Non... je... <Heurrkkk>}

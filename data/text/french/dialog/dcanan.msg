@@ -2,7 +2,7 @@
 {101}{}{Tu vois le Grand Ananias.}
 {102}{}{D'un coup d'oeil furtif, tu vois un petit homme moustachu.}
 {103}{}{Toi ! Que veux-tu faire au Grand Ananias ?}
-{104}{}{Dégage !}
+{104}{}{Ne t'approche pas de moi !}
 {105}{}{Va déranger quelqu'un d'autre.}
 {106}{}{Va faire ça à quelqu'un d'autre.}
 {107}{}{Tu m'as déjà fait subir le pire.}
@@ -28,7 +28,7 @@
 {132}{}{Je ne crois pas que ce soit pour toi.}
 {133}{}{Pourquoi tu vas pas voir ailleurs si j'y suis ?}
 {134}{}{Ca n'est pas vraiment pour toi.}
-{135}{}{Je vois... hmm... allez, DEGAGE !!}
+{135}{}{Je vois... hmm... allez, DEGAGE !}
 {136}{}{Je serais enchanté de montrer cet unique spécimen historique à une personne de ta classe. Et pour seulement $25.}
 {137}{}{Ok. Maint'nant... montre moi la momie !}
 {138}{}{Je ne veux pas dépenser autant. Je pense pouvoir survivre sans voir la chose. Au revoir.}
@@ -57,7 +57,7 @@
 {202}{}{Raconte-moi cette histoire de fantôme. Euh, j'ai droit à une tasse de chocolat chaud aussi ?}
 {203}{}{Je n'ai pas de temps à perdre à écouter tes salades.}
 {300}{}{Bien, tu vois, (Il te fait signe de t'avancer.) il était une fois une grande reine qui régnait sur la ville. Elle gardait le trône grâce aux vertus d'une amulette spéciale qu'elle gardait toujours autour du cou. Belle histoire, hein ?}
-{301}{}{Euh, ouais. Donc, cette princesse avait une amulette magique. Oh, allez, continue. J'peux pas supporter un suspense si intense !!}
+{301}{}{Euh, ouais. Donc, cette princesse avait une amulette magique. Oh, allez, continue. J'peux pas supporter un suspense si intense.}
 {302}{}{Ok. Je crois que j'en ai assez entendu.}
 {400}{}{Bien, j'en viens aux faits. Ainsi, le sorcier empoisonna la jeune princesse et lui prit son amulette. Elle erre depuis dans la pièce à côté. Mais, euh, c'est juste pendant le sabbat de toute façon. C'est pourquoi je laisse la porte fermée. Assez lugubre, hein ?}
 {401}{}{Le fantôme d'une princesse sans amulette dans le débarras à côté. C'est tout ? T'appelles ça une histoire toi ?! Je préfère entendre parler de la stupide momie que tu prétends garder ici.}

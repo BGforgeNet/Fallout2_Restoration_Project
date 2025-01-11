@@ -38,7 +38,7 @@
 {137}{}{Voici le disque du réacteur de Gecko. Peux-tu l'optimiser ?}
 {138}{}{Rien pour aujourd'hui, merci.}
 {139}{}{Je suis le Conseiller McClure, et tu es... ?}
-{140}{}{Ca te regarde pas.}
+{140}{}{Ca ne te regarde pas.}
 {141}{}{. C'est un plaisir de te connaître.}
 {142}{}{Je dois vraiment y aller, peut-être pourrions-nous faire connaissance plus tard.}
 {143}{}{Je peux tolérer une telle grossièreté de la part d'un étranger, mais pas de celle d'un citoyen. Je suis un membre du Conseil de la Cité de l'Abri et tu me dois le respect qui me revient, ou ta citoyenneté sera mise en jeu. Tu m'as bien compris ?}
@@ -181,7 +181,7 @@
 {280}{}{Encore une chose, ce disque magnétique contenant des données économiques t'intéressera sûrement.}
 {281}{}{Excellent !! Je commençais à me demander si les radiations n'allaient pas nous obliger à déménager. Je parlerai de toi autour de moi !!}
 {282}{}{La Cité de l'Abri avant tout, citoyen !}
-{283}{}{La Cité de l'Abri avant tout, Capitaine !}
+{283}{}{La Cité de l'Abri avant tout, Capitaine.}
 {284}{}{Voici tes papiers de citoyen. Viens me voir si tu as besoin de quoi que ce soit.}
 {285}{}{La Cité de l'Abri avant tout, Conseiller !}
 {286}{}{Merci.}
@@ -197,7 +197,7 @@
 {296}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {297}{}{Rien. Excuse-moi de te déranger.}
 {298}{}{Très bien, laisse-moi un instant...}
-{299}{}{D'accord.}
+{299}{}{Très bien.}
 {300}{}{Hmmm, comment as-tu eu ce disque ?}
 {301}{}{Je... Je l'ai trouvé.}
 {302}{}{Je l'ai trouvé quand je recherchais des documents dans la bibliothèque de la Cité de l'Abri.}
@@ -227,7 +227,7 @@
 {326}{}{D'accord, mais je n'ai pas le disque avec moi, je vais revenir avec.}
 {327}{}{Ce serait cool.}
 {328}{}{Excellent !}
-{329}{}{D'accord.}
+{329}{}{Très bien.}
 {330}{}{Laisse-moi prendre le disque du réacteur et je pourrai alors l'optimiser grâce à l'ordinateur de l'Abri.}
 {331}{}{Génial, merci.}
 {332}{}{Qu'y a-t-il ?}

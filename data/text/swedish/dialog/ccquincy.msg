@@ -38,7 +38,7 @@
  paperwork.}
 {133}{}{Look, Einstein, I can't give you the plans without authorization, okay?
  So, go back to whoever sent you here and get the proper paperwork.}
-{134}{}{Okay, me go.}
+{134}{}{Okej, ja' gå.}
 {135}{}{No, me shoot you first, find plans second, then... what come after two?}
 {136}{}{Hey, you got it.}
 {137}{}{No, I think I'll shoot you instead and look around for the plans while

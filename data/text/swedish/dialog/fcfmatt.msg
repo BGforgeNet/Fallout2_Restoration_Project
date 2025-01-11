@@ -98,7 +98,7 @@
 {197}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.}
 {198}{}{Okej.}
 {199}{}{You say you 'sources.' What they be?}
-{200}{}{All right.}
+{200}{}{Okej.}
 {201}{}{You mentioned your 'sources.' Who would they be?}
 {202}{}{I had an operative go and scout the base. Her reports recently stopped; I can only assume the worst. Please be careful}
 {203}{}{. I don't enjoy sending people to their deaths.}

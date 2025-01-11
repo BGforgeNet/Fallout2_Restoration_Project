@@ -30,7 +30,7 @@
  me to stay for a while.}
 {127}{}{Okej.}
 {128}{}{Hej då.}
-{129}{}{All right.}
+{129}{}{Okej.}
 {130}{}{I see. Well, I'll be going then.}
 {131}{}{Yeah, I've been told I'm free to go or stay. I'm staying for now.}
 {132}{}{Me see.}

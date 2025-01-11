@@ -1,4 +1,4 @@
-{100}{}{Tu vois un villageois.}
+{100}{}{Tu vois un paysan.}
 {101}{}{Tu vois un paysan en bonne santé.}
 {102}{}{Tu vois une personne}
 {103}{}{Bus trop d'alcool récemment ?}

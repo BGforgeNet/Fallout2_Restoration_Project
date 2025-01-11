@@ -1051,7 +1051,7 @@
 {54301}{}{Un journal qui a appartenu à une jeune fille. La couverture intérieure indique : "Propriété d'Anna". La plupart des pages sont déchirées. "Jour 271 : Ma mère m'a donné un pendentif en or. C'est la plus belle chose que j'ai jamais possédée. Je ne m'en séparerai jamais."}
 {54400}{}{Holodisque Botanique}
 {54401}{}{Ce disque rassemble des informations sur les différentes catégories de plantes qui poussaient avant la Grande Guerre.}
-{54500}{}{J.E.K. Expiré}
+{54500}{}{J.E.K expiré}
 {54501}{}{Le Jardin d'Eden en Kit. Cette unité se trouve dans tous les abris Vault-Tek. Le JEK sert à rebâtir la civilisation après la bombe. Il suffit d'ajouter de l'eau et de touiller. Celui-ci a dépassé sa date d'expiration. Quel gachis !}
 {54600}{}{Vieille pièce}
 {54601}{}{Une très vieille pièce de monnaie. Tu n'es pas certain du visage dessus, mais on dirait que c'est très rare et que ça vaut beaucoup d'argent.}

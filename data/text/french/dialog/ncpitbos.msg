@@ -126,7 +126,7 @@
 {445}{}{[Tu fais les comptes des jetons récoltés dans la soirée. Pas mal.]}
 {446}{}{Le cuir était une touche sympa. }
 {447}{}{Cette petite blague était sympa. }
-{448}{}{[Continue]}
+{448}{}{[Continuer]}
 {455}{}{Ouais, il pue encore plus que la merde de Brahmine. Encore toi... ? Aïe, bon sang, pourquoi pas ? Une petite improvisation ne peut pas faire de mal, mais la foule est un peu dure... J'espère que tu vas t'en sortir.}
 {456}{}{Oh, je vais m'en sortir... Regarde-moi.}
 {457}{}{Pas tout de suite, mais je vais revenir.}
@@ -135,7 +135,7 @@
 {502}{}{Je reviendrai. A bientôt.}
 {510}{}{C'était tout simplement atroce. Je ne sais pas comment tu as fait, mais pour de bon, tu es pire que le clown habituel. Je ne pense pas que nous aurons encore besoin de toi.}
 {511}{}{Bien, je vais donc montrer mon talent à quelqu'un qui SAURA l'apprécier.}
-{512}{}{Allez va, salut.}
+{512}{}{Peu importe. Salut.}
 {520}{}{Tu as fait un véritable tabac. Le prochain Traci Lords. }
 {521}{}{Je ne pense pas avoir jamais vu quelqu'un bouger comme ça sur la scène. Tu as un réel talent. }
 {522}{}{Je reviendrai. A bientôt.}
@@ -184,7 +184,7 @@
 {1349}{}{Ok, merci. Excuse-moi de t'avoir dérangé.}
 {1355}{}{. Ils ont énormément investi d'énergie dans cet endroit pour en faire un vrai lieu de nuit, un véritable bijou à New Reno.}
 {1356}{}{. Ca pose un problème ? Parce que si tu n'es pas ici pour jouer, ce n'est pas un endroit pour toi. Compris ?}
-{1361}{}{. J'adore tes filmes.}
+{1361}{}{. J'adore tes films.}
 {1365}{}{Ce type ? Le vieux McGee ? Un vieux fou... Voilà des années qu'il joue à cette machine en attendant de remporter le gros jackpot. La fortune de toute sa vie a probablement été engloutie dans cette machine, mais elle ne lui rendra pas une seule pièce.}
 {1366}{}{Ce type ? Le vieux McGee ? Un vieux fêlé, pour sûr. Hé. Ca a dû lui foutre les boules de te voir gagner cette fortune. A ta place, je me méfierais de lui.}
 {1367}{}{Est-ce que la machine est truquée ?}

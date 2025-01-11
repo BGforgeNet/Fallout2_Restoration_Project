@@ -1,4 +1,4 @@
-{100}{}{Tu vois un pillard des Khans.}
+{100}{}{Tu vois un membre des Khans.}
 {101}{}{Tu vois Phil, un garde Khan.}
 {102}{}{Tu vois un jeune homme robuste doté d'une armure métallique. Il est très lourdement armé.}
 {103}{}{Je devrais te tuer sur le champ, mais j'ai envie de savoir ce que tu peux bien avoir à me dire.}

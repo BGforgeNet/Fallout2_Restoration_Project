@@ -25,7 +25,7 @@
 {124}{}{Je cherche Roger Westin. Tu le connais ?}
 {125}{}{Où puis-je trouver Frank Carlson ?}
 {126}{}{Carl-son ?}
-{127}{}{Salut.}
+{127}{}{Au revoir.}
 {128}{}{Tu veux dire Roger Weston ? A l'Ouest de la ville.}
 {129}{}{C'est l'un des éleveurs, à l'Ouest de la ville. Je ne crois pas qu'il ait besoin de main d'oeuvre, si c'est à ça que tu penses.}
 {130}{}{C'est le vice-président. J'en sais pas plus que ça. Il passe tout son temps dans la demeure présidentielle. Il n'en sort presque jamais, surtout maintenant, après ce qui lui est arrivé.}

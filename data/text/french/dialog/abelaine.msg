@@ -4,7 +4,7 @@
 {200}{}{Bienvenue !}
 {201}{}{Bonjour, vous êtes ?}
 {202}{}{Que peux-tu me dire sur l'Abbaye ?}
-{203}{}{Salut.}
+{203}{}{Au revoir.}
 {300}{}{Si vous voulez en savoir plus sur notre ordre, adressez-vous à notre supérieur. Il est au troisième étage.}
 {301}{}{Je vois. Encore quelques questions...}
 {400}{}{Comme quoi ?}

@@ -5,7 +5,7 @@
 {301}{}{Je suis blessé, pouvez-vous m'aider ?}
 {302}{}{[Bave]}
 {303}{}{Que faites-vous ici, à l'Abbaye ?}
-{304}{}{Salut.}
+{304}{}{Au revoir.}
 {400}{}{C'est fait !}
 {401}{}{Merci.}
 {402}{}{Arrête ça! }

@@ -45,7 +45,7 @@
 {144}{}{You really think so?}
 {145}{}{Yes, Jack. It's true.}
 {146}{}{Of course. What do you think - I'm lying?}
-{147}{}{I don't know.}
+{147}{}{Jag vet inte.}
 {148}{}{Don't let her win, Jack.}
 {149}{}{Now's your chance. Be the big man. Really stand her down.}
 {150}{}{Screw it. You're just full of it. You don't care about me!}

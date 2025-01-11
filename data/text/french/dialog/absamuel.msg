@@ -2,7 +2,7 @@
 {101}{}{Tu vois frère Samuel, le gardien du cimetière.}
 {102}{}{Il a l'air saoul et assoupi.}
 {200}{}{<Hic> 'lut, j'm'appelle Samuel. Qu'est, euh, <Hic> c'qui vous 'méne ici ?}
-{201}{}{<Hic> Re-bonjour.}
+{201}{}{<Hic> Rebonjour.}
 {202}{}{Je jetais juste un coup d'oeil. Tu t'occupes du cimetière ?}
 {203}{}{Tu connais le Père Tully ?}
 {204}{}{Père Tully, tu dis ? [Il semble maltraiter son cerveau à la recherche d'un souvenir.] Ouais... Je... <Hic> m'rappelle de Tully. C'mment va c'type ? J'l'ai pas r'vu d'puis qu'y s'est fait virer d'ici y'a quelques années. C't'ait un rigolo. Lui et moi, <Hic> quel duo.}

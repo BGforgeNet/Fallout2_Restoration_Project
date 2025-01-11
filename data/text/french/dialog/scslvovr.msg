@@ -7,7 +7,7 @@
 {106}{}{Gardes ! Alerte !}
 {107}{}{Que veux-tu ?}
 {108}{}{Hein ?}
-{109}{}{Où suis-je ici ?}
+{109}{}{Quel est cet endroit ?}
 {110}{}{C'est le commando qui m'envoie.}
 {111}{}{Je cherche le propriétaire.}
 {112}{}{Frère esclavagiste, j'ai quelques questions à te poser.}

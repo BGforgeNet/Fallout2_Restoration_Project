@@ -95,7 +95,7 @@
 {310}{}{Vraiment ? Je savais pas. Eh bien, si tu aimes les pommes, je suppose qu'il y a du bon chez toi. Mais au fait, que veux-tu ?}
 {311}{}{J'avais quelques questions à te poser.}
 {320}{}{Des zombies ? Va te faire foutre ! Nous sommes des Goules. Les zombies sont des sortes de morts-vivants sans aucun libre arbitre. Même si nous avons certaines caractéristiques physiques en commun - en particulier la chair en décomposition et une morbidité caractéristique - nous avons un libre arbitre, nous. Et je vais te le prouver.}
-{321}{}{Heinh ?}
+{321}{}{Hein ?}
 {330}{}{Je vais te donner la preuve de mon libre arbitre en te demandant de TE CASSER ! Sale Peaudouce sectaire. Retourne chez toi, à la Cité de l'Abri.}
 {331}{}{Des Goules, des zombies. Qu'est-ce que ça peut faire ? Vous êtes tous des monstres.}
 {340}{}{Eh bien, Tragic : The Garnering n'est pas seulement un jeu, c'est une obsession. Ce n'est pas non plus un parfum si tu veux savoir. Certains pensent que la façon dont ça change la vie des gens est tragique, mais c'est parce qu'ils n'y comprennent rien.}

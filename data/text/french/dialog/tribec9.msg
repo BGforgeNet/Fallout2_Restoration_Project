@@ -12,9 +12,9 @@
 {204}{}{Jerem et moi on est parti chasser pour la tribu. Nous y allons toutes les semaines. Il y a un passage dans la grotte qui mène à un petit champ où vivent beaucoup de geckos. Mais la chasse s'est pas passée comme prévu et nous avons dû fuir. Plusieurs geckos énervés étaient sur nos traces et nous avons couru sur le chemin en criant à l'aide. [Il marque une pause un instant et semble souffrir alors qu'il se masse la jambe.]}
 {205}{}{Je t'en prie, parle.}
 {206}{}{On savait que ce passage ne tiendrait plus longtemps mais c'est un gros raccourci. Il y a un petit siphon juste au-dessus du passage et des gouttes d'eau gouttaient vers l'entrée. Mais des rochers et de la boue sont tombés du plafond. Bref, nos cris ont dû précipiter l'effondrement car au moment où on courait, des rochers ont commencé à tomber de partout.}
-{207}{}{[Continue]}
+{207}{}{[Continuer]}
 {208}{}{Pauvre Jerem. J'ai vu un énorme rocher l'écraser comme un insecte. J'ai pu l'éviter mais un gecko m'a mordu et je suis tombé en laissant échapper ma lance. Sans mon arme, j'ai cru que j'allais lui servir de repas. Mais les esprits avaient d'autres plans. Une dernière pierre lui est tombée sur la tête en le tuant. Mais le caillou est aussi tombé sur ma jambe.}
-{209}{}{[Continue]}
+{209}{}{[Continuer]}
 {210}{}{J'étais au sol et désarmé quand j'ai entendu quelques chose s'approcher de moi dans le noir. C'était un gros gecko en colère. Il était un peu sonné par l'éboulement mais cela l'avait rendu encore plus furieux. C'est là que tu es arrivé et il a fui. J'ai une dette envers toi.}
 {211}{}{Quelle histoire. Heureusement tu es toujours en vie. Comment va ta jambe ?}
 {212}{}{Pas très bien. On dirait que cette pierre est plus dur que l'os de ma jambe. Je sais pas si je vais pouvoir me lever et marcher.}

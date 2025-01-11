@@ -3,42 +3,61 @@
 #include "../headers/scripts.h"
 #include "../headers/command.h"
 
+#define TIME_TRAGIC_USAGE ONE_GAME_DAY
+#define TIME_DURATION_OF_ADDICTION ONE_GAME_WEEK
+#define INTERFACE_TAG_ADDICT 4
+
+#define MSG_FILE "k_tragic.msg"
+#define MSG_craving 1000
+#define MSG_relieved 1001
+
+/**
+ * Displays message `x` from **game** message file `msg`
+ * @arg {int} x - message number
+ */
+#define display_mymsg(x) display_msg(message_str_game(msg, x))
+
 procedure start;
 
 variable do_once;
 variable game_timer;
 variable game_timer2;
+variable msg;
 
 procedure start begin
-   if (is_loading_game) then return;
-	if (game_loaded) then begin
+    if is_loading_game then return;
+
+	if game_loaded then begin
 	  	set_global_script_repeat(60);
 		set_global_script_type(3);
-		do_once := 0;
-		//display_msg("var: " + do_once);
-	end else begin
-      if (global_var(GVAR_ADDICT_TRAGIC) == 1) then begin
-	     if (do_once != 1) then begin
-	         do_once := 1;
-            game_timer := game_time;
-            game_timer2 := game_time;
-            //display_msg("var: " + do_once);
-            //display_msg("var: " + game_timer);
-            //display_msg("var: " + game_timer2);
-        end
-        if (((game_time - game_timer) >= (24*(60*(60*(10)))))) then begin
-            if (in_world_map) then
-               force_encounter(0);
-            game_timer := game_time;
-            if (((game_time - game_timer2) < (7*(24*(60*(60*(10))))))) then
-              display_msg(message_str(SCRIPT_OBJ_DUDE,1000));
-        end
-        if (((game_time - game_timer2) >= (7*(24*(60*(60*(10))))))) then begin
-            set_global_var(GVAR_ADDICT_TRAGIC,0);
-            if not(dude_trait(TRAIT_drug_addict)) then
-               hide_iface_tag(4);
-            display_msg(message_str(SCRIPT_OBJ_DUDE,1001));
-        end
-      end
-   end
+		do_once = 0;
+        msg = add_extra_msg_file(MSG_FILE);
+        return;
+	end
+
+    // No addiction
+    if global_var(GVAR_ADDICT_TRAGIC) == 0 then return;
+
+
+    // Init timers
+    if do_once != 1 then begin
+        do_once = 1;
+        game_timer = game_time;
+        game_timer2 = game_time;
+    end
+
+    // Craving
+    if game_time - game_timer >= TIME_TRAGIC_USAGE then begin
+        if in_world_map then force_encounter(0);
+
+        game_timer = game_time;
+        if (game_time - game_timer2 < TIME_DURATION_OF_ADDICTION) then display_mymsg(MSG_craving);
+    end
+
+    // Addiction passed
+    if game_time - game_timer2 >= TIME_DURATION_OF_ADDICTION then begin
+        set_global_var(GVAR_ADDICT_TRAGIC, 0);
+        if not dude_is_addicted() then hide_iface_tag(INTERFACE_TAG_ADDICT);
+        display_mymsg(MSG_relieved);
+    end
 end

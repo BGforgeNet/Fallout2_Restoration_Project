@@ -6,7 +6,7 @@
 {105}{}{Heu... Moi ici depuis pas longtemps.}
 {106}{}{Moi nettoyer ici.}
 {107}{}{Moi pas rappeler. Moi partir.}
-{108}{}{Où suis-je ici ?}
+{108}{}{Quel est cet endroit ?}
 {109}{}{Bonjour, je suis ici depuis peu de temps.}
 {110}{}{Je suis ici pour nettoyer le bureau du Commandant.}
 {111}{}{Ca ne fait rien.}
@@ -14,7 +14,7 @@
 {113}{}{Moi avoir affaires à traiter avec Commandant.}
 {114}{}{Très bien.}
 {115}{}{J'ai des affaires à traiter avec le Commandant.}
-{116}{}{D'accord.}
+{116}{}{Très bien.}
 {117}{}{Quelle est nature de ces affaires ?}
 {118}{}{Euh...}
 {119}{}{Zut. Moi tout gâcher...}
@@ -46,17 +46,17 @@
 {145}{}{Ok.}
 {146}{}{Tu cherches sûrement l'armurerie. Retourne dans l'entrée, tourne à droite et c'est la première porte à gauche. Ils te donneront ton équipement réglementaire là-bas.}
 {147}{}{Merci.}
-{148}{}{Mais bon sang, qui es-tu ?! -- Alerte ! Des intrus !!!}
-{149}{}{La base a été infiltrée ! Alerte !!}
-{150}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
-{151}{}{Alerte de sécurité !! Condamnez la base !!!}
-{152}{}{Fermez toutes les stations !! Nous sommes en état alerte !!}
-{153}{}{Alerte intrus !! Activez le code rouge !!!}
-{154}{}{On va t'exterminer !!}
+{148}{}{Mais bon sang, qui es-tu ? -- Alerte ! Des intrus !}
+{149}{}{La base a été infiltrée ! Alerte !}
+{150}{}{Un groupe d'intrus ! Sonnez l'alarme !}
+{151}{}{Alerte de sécurité ! Verrouiller la base !}
+{152}{}{Fermez toutes les stations ! Nous sommes en état alerte !}
+{153}{}{Alerte intrus ! Activez le code rouge !}
+{154}{}{On va t'exterminer !}
 {155}{}{L'Enclave régnera sur le monde !}
 {156}{}{Ta mort permettra à l'Enclave de survivre !}
 {160}{}{Tu es de retour. As-tu apporté l'autorisation pour le passe ?}
 {161}{}{Non pas encore. Je vais la chercher.}
 {162}{}{Ouais, c'est ça. Juste quand j'te dis que l'équipe de nettoyage va arriver, comme par magie toi tu dis en faire partie ! Tu m'prends vraiment pour un con ou quoi ? J't'ai pas quitté des yeux ! Allez, dégage !}
 {200}{}{[Parlant à la radio :] Commandant. [Pause...] Vous êtes là Commandant ? [Pause...] Hmm...Pas de réponse. Ca ne lui ressemble pas. Je devrais aller le voir.}
-{201}{}{(Putain de merde, le Commandant est mort ! Alerte, nous avons un intrus !!}
+{201}{}{Putain de merde, le Commandant est mort ! Alerte, nous avons un intrus !!}

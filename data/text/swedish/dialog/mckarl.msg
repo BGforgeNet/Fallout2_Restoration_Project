@@ -80,7 +80,7 @@
  reaches into your purse and takes half your money.] Very kind of you (hic) if you needs anything,
  don't hesitate to ask.}
 {228}{}{GECK?}
-{229}{}{I go.}
+{229}{}{Jag går.}
 {230}{}{Jooky... hic... It's a party in a can.}
 {231}{}{Maybe later, then.}
 {232}{}{Gee... (hic) ...thanks. Maybe I can buy a (hic) bullet to shoot myself with. (hic) Course I'd

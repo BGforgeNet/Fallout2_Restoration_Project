@@ -1,2 +1,2 @@
-1:Tu peux maintenant voir ton cadavre.
-2:Il est dans un sale état.
+1:Ça c'est une photo de ton cadavre.
+2:Pas joli joli.

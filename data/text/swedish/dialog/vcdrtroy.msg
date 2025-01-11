@@ -235,7 +235,7 @@
 {295}{}{Nothing today. Good day, Doctor.}
 {296}{}{Certainly. I'm sorry... it's been some time since I actually had to administer them. Most
  Citizens received theirs many, many years ago. Let me prep the Auto-Doc for the procedure...}
-{297}{}{All right.}
+{297}{}{Okej.}
 {298}{}{All finished. A word of caution: This vaccination doesn't make you immune to poison and
  radiation, but it does bolster your natural resistance.}
 {299}{}{Much appreciated. Say, I had some other questions I wanted to ask you...}

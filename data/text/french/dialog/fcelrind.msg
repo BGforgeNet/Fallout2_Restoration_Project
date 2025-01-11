@@ -17,7 +17,7 @@
 {116}{}{Certains Hubologistes sont des stars, tu sais.}
 {117}{}{Juan Cruz et Vikki Goldman sont célèbres ! C'est pour ça que j'ai signé.}
 {118}{}{Je parie que les stars vont te parler si tu es aimable et cool.}
-{119}{}{J'aime Le Centre.}
+{119}{}{J'aime Hubol.}
 {120}{}{Ca me plaît d'être Hubologiste.}
 {121}{}{Je veux utiliser mon potentiel.}
 {122}{}{A vrai dire, j'apprends toujours la langue.}
@@ -39,7 +39,7 @@
 {147}{}{Les ténèbres nous guettent de nouveau !}
 {148}{}{Père Etoile ! Sauvez-moi de l'être barbare !}
 {149}{}{Tu paieras pour ta nature perfide !}
-{150}{}{J'aime Le Centre.}
+{150}{}{J'aime Hubol.}
 {151}{}{Ca me plaît d'être Hubologiste.}
 {152}{}{Je veux utiliser mon potentiel.}
 {153}{}{A vrai dire, j'apprends toujours la langue.}

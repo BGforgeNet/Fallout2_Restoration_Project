@@ -28,7 +28,7 @@
 {122}{}{Affect player speed}
 {123}{}{Pip-Boy speech}
 {201}{}{On}
-{202}{}{Off}
+{202}{}{Av}
 {203}{}{Easy}
 {204}{}{Normal}
 {205}{}{Hard}
@@ -40,7 +40,7 @@
 {211}{}{Verbose}
 {212}{}{Brief}
 {213}{}{Targeting Only}
-{214}{}{None}
+{214}{}{Ingen}
 {215}{}{Minimal}
 {216}{}{Maximum Blood}
 {217}{}{Slow}
@@ -49,7 +49,7 @@
 {220}{}{Lots}
 {221}{}{Quiet}
 {222}{}{Loud}
-{223}{}{Brighter}
+{223}{}{Ljusare}
 {224}{}{Wide}
 {300}{}{DONE}
 {301}{}{PAUSED}

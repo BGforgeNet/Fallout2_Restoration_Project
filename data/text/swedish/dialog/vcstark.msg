@@ -246,7 +246,7 @@
 {344}{}{I don't think I want this job. Maybe some other time.}
 {345}{}{That so? Heh.}
 {346}{}{All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
-{347}{}{All right.}
+{347}{}{Okej.}
 {348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
 {349}{}{What is it?}
 {350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.}

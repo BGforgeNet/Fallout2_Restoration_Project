@@ -88,7 +88,7 @@
 {187}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend }
 {188}{}{ points de dégâts.}
 {189}{}{Tu verrouilles adroitement la porte.}
-{190}{}{Tu ne parviens pas à fermer la porte à clé.}
+{190}{}{Tu ne parviens pas à verrouiller la porte.}
 {191}{}{ verrouille adroitement la porte.}
 {192}{}{ n'a pas réussi à verrouiller la porte.}
 {193}{}{Les explosifs n'occasionnent même pas une égratignure à la porte.}

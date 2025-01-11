@@ -11,7 +11,7 @@
 {303}{}{Parle-moi de ton chef.}
 {304}{}{Aurais-tu des informations sur le J.E.K ?}
 {305}{}{Sais-tu où se trouve l'Abri 13 ?}
-{306}{}{Salut.}
+{306}{}{Au revoir.}
 {307}{}{J'ai besoin de quelques informations.}
 {308}{}{C'est-à-dire ?}
 {400}{}{Oui, nous en avons plein. Trop à mon avis. C'est lourd de sauvegarder toutes ces données tous les jours. Ca fait beaucoup d'informations à préserver, mais c'est pour l'intérêt de tous.}

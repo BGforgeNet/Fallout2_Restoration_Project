@@ -1,7 +1,7 @@
 {100}{}{Tu vois un voyou.}
 {101}{}{Tu vois Joey.}
 {150}{}{Ce gars là n'a pas l'air très commode.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Hé, je vais te tailler en pièces !}
 {153}{}{Ah ouais ? Essaie un peu pour voir !}
 {154}{}{Hé, attends une minute !}
@@ -70,7 +70,7 @@
 {217}{}{J'ai besoin d'en savoir plus sur la maison hantée.}
 {218}{}{C'est quoi l'histoire avec la vieille église et ces gardes ?}
 {219}{}{Est-ce que tous les habitants de cette ville sont des junkies ?}
-{220}{}{Avez-vous déjà entendu parler de l'Abri 13 ?}
+{220}{}{As-tu entendu parler de l'Abri 13 ?}
 {221}{}{Heu, peu importe. A un de ces jours...}
 {222}{}{Oh tu veux parler de Tyler et de son gang ? Ils gardent ces trucs qui viennent de la Cité de l'Abri. Des putains de grosses boites. De temps en temps ils les chargent sur des caravanes en direction de New Reno.}
 {223}{}{J'aimerais savoir autre chose.}
@@ -102,7 +102,7 @@
 {249}{}{Je regrette. Si t'as pas le fric sur toi, reviens quand tu pourras te le permettre. Et va pas en chercher ailleurs ou je viendrais te botter le cul. Je suis le seul à avoir de la pure bonne cam, directement en provenance de New Reno.}
 {250}{}{Attends, j'vais l'acheter.}
 {251}{}{Est-ce que je peux te poser une question ?}
-{252}{}{Salut.}
+{252}{}{Au revoir.}
 {253}{}{Bon, $350, mais c'est mon dernier prix ! C'est normal de payer le prix fort pour de la super cam. Va pas l'acheter chez Tubby ou ces autres gros cons, ils coupent leur merde. Je suis le seul a avoir de la cam pure à 100% dans la région.}
 {254}{}{Laisse tomber. Je peux te poser une question ?}
 {255}{}{D'accord, j'achète.}

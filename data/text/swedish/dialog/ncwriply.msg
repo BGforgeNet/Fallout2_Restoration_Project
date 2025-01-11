@@ -187,7 +187,7 @@
 {610}{}{(The kid lets the pot fall down over his head, and resumes *bzzzzing* around.)}
 {620}{}{(The kid shrugs. He lets the pot fall down over his head, and resumes *bzzzzing* around.)}
 {630}{}{(He shakes his head. He lets the pot fall down over his head, and resumes *bzzzzing* around.)}
-{631}{}{Uh, okay.}
+{631}{}{Eh, okej.}
 {632}{}{You little punk... see if I save you when I'm saving the world...}
 {640}{}{You wait until it gets a little darker...}
 {641}{}{You wait until it gets dark...}

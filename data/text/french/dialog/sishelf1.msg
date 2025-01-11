@@ -4,4 +4,4 @@
 {200}{}{ ne pense pas que cette bibliothèque est piégée.}
 {206}{}{Hé, ne plante pas ta merde ici !}
 {207}{}{Laisse cette foutue bibliothèque tranquille sinon je vais te botter le cul.}
-{208}{}{Ne fais pas ça !}
+{208}{}{Ne fais pas ça.}

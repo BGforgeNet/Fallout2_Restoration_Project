@@ -44,7 +44,7 @@
 {359}{}{All right then.}
 {365}{}{Naw, I reckon you WILL be leaving, 'cause you look like the kinda person who likes living. Now get.}
 {366}{}{I'm NOT leaving.}
-{367}{}{All right.}
+{367}{}{Okej.}
 {375}{}{I WARNED you...}
 {376}{}{You want some of THIS, BOY?! You want some of THIS?! Then come GET s --}
 {380}{}{Uh... what about her? Has she gotten herself in trouble again?}

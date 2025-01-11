@@ -73,7 +73,7 @@
 {462}{}{Je pense que j'ai tout ce qu'il me faut. Au revoir.}
 {463}{}{Je crois que je vais rester... et te botter le cul.}
 {470}{}{Toi encore ? J'espère que t'es là pour le business, ou alors tu vas devoir te barrer fissa.}
-{471}{}{Faisons un échange.}
+{471}{}{Faisons affaire.}
 {472}{}{J'faisais juste un tour dans le coin. Salut, Flick.}
 {480}{}{T'as fini de me faire perdre mon temps ?}
 {481}{}{Laisse-moi regarder encore une fois.}

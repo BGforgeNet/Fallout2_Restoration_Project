@@ -34,22 +34,22 @@
 {201}{}{Nej, moster Morlis, jag...}
 {202}{}{Then get yourself out of here and find it! People are depending on you!}
 {203}{}{Ja, moster Morlis.}
-{204}{}{Well, here you are again. Have you once again failed to complete your quest?}
-{205}{}{Yes, Aunt Morlis, but...}
-{206}{}{Then get yourself out of here and don't come back until you do! Why waste time coming back here, when you could be using that time to continue your search!?}
+{204}{}{Ja, nu är du tillbaka igen. Har du än en gång misslyckats med att slutföra ditt uppdrag?}
+{205}{}{Ja, moster Morlis, men...}
+{206}{}{Ge dig då härifrån och kom inte tillbaka förrän du har gjort det! Varför slösa tid på att komma tillbaka hit, när du kan använda den tiden till att fortsätta ditt sökande!?}
 {207}{}{Ja, moster Morlis.}
-{208}{}{The fact that you are standing here must mean that you have completed your quest. You wouldn't waste precious time returning here empty-handed, would you?}
-{209}{}{Yes, Aunt Morlis. I mean no, Aunt Morlis. Uh, I've got to go, Aunt Morlis.}
-{210}{}{So, child. Once again you stand before me. Are you empty-handed yet again?}
+{208}{}{Eftersom du står här måste det betyda att du har slutfört ditt uppdrag. Du skulle inte slösa bort dyrbar tid på att återvända hit tomhänt, eller hur?}
+{209}{}{Ja, moster Morlis. Jag menar nej, moster Morlis. Eh, jag måste gå, moster Morlis.}
+{210}{}{Så, mitt barn. Ännu en gång står du framför mig. Är du tomhänt ännu en gång?}
 {211}{}{Ja, moster Morlis.}
 {212}{}{Lyssna,}
-{213}{}{. People are dying, cattle are dying, and crops are failing. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?}
+{213}{}{. Människor dör, boskap dör och skördarna slår fel. Alla är antingen hungriga, sjuka eller både och. Vår tid närmar sig. Om du inte hittar GECK snart, är vi dödsdömda. Förstår du vad jag säger?}
 {214}{}{Ja, moster Morlis.}
-{215}{}{Then get yourself out of here and find the GECK! People are depending on you!}
+{215}{}{Ge dig då av och hitta GECK! Folk är beroende av dig!}
 {216}{}{Ja, moster Morlis.}
-{300}{}{Well, I seem to have misplaced the flint. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
+{300}{}{Jag verkar ha tappat bort flintan. Nå ja, jag har i alla fall mitt pulver. Iväg med dig nu! Jag har inte tid att skvallra.}
 {301}{}{Why do you bother me, niece? Can't you see I'm busy?}
-{302}{}{Well, I can't seem to find the flint. I'm sure you took it from me when I wasn't looking though. I caught you before. Now off with you! I don't have time to gossip.}
-{303}{}{Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. }
-{304}{}{I already gave you the flint, stupid. Now stop wasting my time and get out of here!}
+{302}{}{Jag kan inte hitta flintan. Jag är säker på att du tog den från mig när jag inte tittade. Jag har fångat dig förut. Iväg med dig nu! Jag har inte tid att skvallra.}
+{303}{}{Jaha... Åh, jag är ledsen, men jag verkar ha tappat bort flintan. Jag önskar dig en säker resa, mitt barn. }
+{304}{}{Jag har redan gett dig flintan, dumbom. Sluta slösa bort min tid och stick härifrån!}
 {305}{}{I already gave you the flint, stupid. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}

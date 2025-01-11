@@ -30,7 +30,7 @@
 {174}{}{Je peux sans doute t'aider, si c'est pas trop dangereux.}
 {175}{}{Se passe-t-il des choses bizarres en ville ?}
 {180}{}{On dirait que ton porte-monnaie est à sec. Tu n'as pas assez d'argent pour offrir un verre à ce bon vieux Bob.}
-{181}{}{[Plus]}
+{181}{}{[Suite]}
 {190}{}{Alors voilà : je tiens un petit commerce et j'ai besoin que quelqu'un me donne un petit coup de main. J'ai une distillerie clandestine à l'extérieur de la ville qui a besoin d'être alimentée de temps à autre. Un gecko m'a mordu la jambe, et je ne peux pas y aller. Si je t'indiquais l'endroit où elle se trouve, irais-tu la ravitailler ? Selon moi, c'est un service qui vaut $50.}
 {191}{}{Ca m'a l'air honnête... Je t'écoute.}
 {192}{}{Je regrette Whiskey mais je ne peux pas te rendre ce service.}

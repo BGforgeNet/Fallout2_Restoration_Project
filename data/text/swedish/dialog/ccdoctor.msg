@@ -121,7 +121,7 @@
  Raul up in maintenance. It could always be put back in... Maybe
  I'll do that someday just to see if he's changed his attitude.}
 {185}{}{Okej.}
-{186}{}{All right.}
+{186}{}{Okej.}
 {187}{}{Are you a civilian?}
 {188}{}{This is the med lab. The armory is down the hall on your left.}
 {189}{}{Why are you out of uniform?}

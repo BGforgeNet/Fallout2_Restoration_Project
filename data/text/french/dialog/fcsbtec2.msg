@@ -24,5 +24,5 @@
 {360}{}{Non, je n'ai besoin ni d'aide, ni de nouvelles données. Je suis ici pour travailler et tu m'en empêches, alors va-t'en ou je devrais *faire en sorte* que tu t'en ailles !}
 {361}{}{Désolé de t'avoir dérangé.}
 {370}{}{Hé, je suis occupé là.}
-{371}{}{Désolé, je travaille.}
+{371}{}{Pardon, mais je travaille.}
 {400}{}{Tu as berné l'ingénieur et désactivé le sous-marin.}

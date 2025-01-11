@@ -19,14 +19,14 @@
 {402}{}{Merci. Salut.}
 {500}{}{Si quelqu'un est pauvre au point de devoir piller des tombes pour s'en sortir, c'est son problème. C'est pas comme si les morts en avaient quelque chose à foutre du matos avec lequel ils sont enterrés. C'est pas mon problème, et j'en dors très bien la nuit. Merci.}
 {501}{}{Je voudrais te demander autre chose.}
-{502}{}{Salut.}
+{502}{}{Au revoir.}
 {600}{}{Oui, et Frère Thomas a disparu aussi. C'était un mec intelligent, mais un peu téméraire. Je sais pas ce qu'il y a là dessous, mais je crois pas que ce soit juste des rats et des radscorpions.}
 {601}{}{Oui, et Frère Thomas a disparu aussi. C'était un mec intelligent, mais un peu téméraire. Je sais pas ce qu'il y a là dessous, mais je crois pas que ce soit juste des rats et des radscorpions. Pourquoi n'irais-tu pas y jeter un oeil, le costaud, hmm ?}
 {602}{}{Pourquoi vous n'y allez pas ?}
 {603}{}{C'est toi le costaud du coin, n'est-ce pas ? Pourquoi n'irais-tu pas traîner ton gros cul là-bas ?}
 {610}{}{C'est un peu gênant, mais après avoir passé autant de temps dehors avec les caravanes, je deviens très anxieux à l'idée d'aller sous terre. Les murs se referment sur moi et j'ai l'impression d'étouffer... Peut-être que tu pourrais aller voir ce qui est arrivé au Frère Thomas ?}
 {611}{}{Je verrai ce que je peux faire. Avant ça, j'aimerai te poser une autre question.}
-{612}{}{Salut.}
+{612}{}{Au revoir.}
 {613}{}{Je suis costaud, ouais, et c'est pour ça que je vais te botter les fesses.}
 {700}{}{Que veux-tu savoir d'autre ?}
 {800}{}{C'est bon de te revoir.}

@@ -173,7 +173,7 @@
 {500}{}{(musing to himself) So many things pass away. Times are not what they were. (sigh) I feel that my
  sole remaining kin has died. Mad, though he was, I wish it were not so. I had hoped that
  he might find some happiness even in his dotage. (to you) Well, enough of my sad musings.}
-{501}{}{Uh, okay.}
+{501}{}{Eh, okej.}
 {504}{}{A Hydroelectric Magnetosphere Regulator. That's the part that you need to get from
  Vault City. Then you need to bring it back here and get it installed in the reactor.}
 {505}{}{Get it installed in the reactor? How can I do that?}

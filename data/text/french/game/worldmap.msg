@@ -10,7 +10,7 @@
 {221}{}{Trapper town}
 {222}{}{Grottes aux rats}
 {223}{}{Terrains de chasse}
-{224}{}{Paturages}
+{224}{}{Zone de pâturage}
 {225}{}{Canyon}
 {230}{}{Rue principale}
 {231}{}{Auberge}
@@ -18,7 +18,7 @@
 {233}{}{Jardin de Farrel}
 {234}{}{Grottes}
 {235}{}{Puits de la ville}
-{240}{}{Entree}
+{240}{}{Cour intérieure}
 {241}{}{Centre-ville}
 {242}{}{Conseil}
 {243}{}{Abri}
@@ -27,12 +27,12 @@
 {252}{}{Depotoir}
 {253}{}{Tunnels}
 {260}{}{Centre-ville}
-{261}{}{Residentiel}
+{261}{}{Résidentiel}
 {270}{}{Rue de la Vierge}
-{271}{}{2eme rue}
+{271}{}{2ème rue}
 {272}{}{Rue marchande}
 {273}{}{Zone Est}
-{274}{}{A l'entrecote}
+{274}{}{A l'entrecôte}
 {275}{}{Ring de boxe}
 {276}{}{Zone d'helicopteres}
 {280}{}{Champ de bataille}
@@ -48,12 +48,12 @@
 {300}{}{Bazar}
 {301}{}{Conseil 2}
 {302}{}{Centre-ville}
-{303}{}{Hotel de ville}
+{303}{}{Hôtel de ville}
 {304}{}{Ranch de Westin}
-{305}{}{Paturages}
+{305}{}{Pâturages}
 {310}{}{Entree de la grotte}
 {311}{}{Abri 13}
-{320}{}{Entree}
+{320}{}{Entrée}
 {321}{}{Niveau 1}
 {322}{}{Niveau 2}
 {323}{}{Niveau 3}
@@ -61,7 +61,7 @@
 {330}{}{Centre-ville}
 {331}{}{Mine du Grand Wanamingo}
 {332}{}{Mine du Grand Wanamingo}
-{333}{}{Entree de la mine}
+{333}{}{Entrée de la mine}
 {334}{}{Tunnels du centre-ville}
 {335}{}{Tunnels de la mine}
 {340}{}{Chinatown}
@@ -80,10 +80,10 @@
 {364}{}{Quartier presidentiel}
 {365}{}{Reacteur}
 {366}{}{Salle piegee}
-{370}{}{Entree}
+{370}{}{Entrée}
 {380}{}{Foret}
 {381}{}{Tribu}
-{390}{}{Entree}
+{390}{}{Entrée}
 {391}{}{Canalisations}
 {392}{}{Services}
 {393}{}{Niveau Un}
@@ -94,7 +94,7 @@
 {401}{}{Caverne principale}
 {402}{}{Lac souterrain}
 {410}{}{Voiture en panne}
-{420}{}{Pont detruit}
+{420}{}{Pont détruit}
 {430}{}{Grottes toxiques}
 {440}{}{Fuite des esclaves de La Fosse}
 {450}{}{Puits}

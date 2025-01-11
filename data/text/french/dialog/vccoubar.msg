@@ -6,7 +6,7 @@
 {105}{}{Bienvenue. Je t'en prie, assieds-toi au bar.}
 {106}{}{Allez ! Prends un siège et repose-toi un peu !}
 {107}{}{Bonne journée, Capitaine.}
-{108}{}{La Cité de l'Abri avant tout, Capitaine !}
+{108}{}{La Cité de l'Abri avant tout, Capitaine.}
 {109}{}{Salut, citoyen.}
 {110}{}{La Cité de l'Abri avant tout, citoyen !}
 {111}{}{Un mutant ! Gardes ! Gardes !}

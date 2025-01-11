@@ -4,12 +4,12 @@
 {103}{sgnt1a}{Bienvenue au Camp Navarro... Un civil ! Mais comment ce civil a-t-il pu pénétrer dans la base ?! Je vais d'voir botter le cul de quelqu'un ! Qu'on l'emmène hors du territoire militaire !}
 {104}{sgnt1b}{Bienvenue au Camp Navarro... Des civils ! Comment diable ces civils ont-ils pu pénétrer dans la base ?! Je vais botter quelques culs, c'est sûr ! Sortez-moi ces civils du territoire militaire !}
 {105}{}{Attends. Je...}
-{106}{sgnt2a}{C'est pas possible ! Je t'ai déjà fait sortir de cette base et te revoilà. Je ne crois pas que tu sois un civil finalement. J'ai plutôt l'impression que t'es un espion ! Donnez l'alerte et exécutez-moi ce ver de terre !!}
-{107}{sgnt2b}{C'est pas possible ! Je vous ai déjà fait sortir de cette base et vous revoilà. Je ne crois pas que vous soyez des civils finalement. J'ai plutôt l'impression que vous êtes des espions ! Donnez l'alerte et exécutez-moi ces vers de terre !!}
+{106}{sgnt2a}{C'est pas possible ! Je t'ai déjà fait sortir de cette base et te revoilà. Je ne crois pas que tu sois un civil finalement. J'ai plutôt l'impression que t'es un espion ! Donnez l'alerte et exécutez-moi ce ver de terre !}
+{107}{sgnt2b}{C'est pas possible ! Je vous ai déjà fait sortir de cette base et vous revoilà. Je ne crois pas que vous soyez des civils finalement. J'ai plutôt l'impression que vous êtes des espions ! Donnez l'alerte et exécutez-moi ces vers de terre !}
 {108}{sgnt3}{Bienvenue au Camp Navarro. C'est donc toi l'remplaçant. Comment t'appelles-tu, recrue ?}
 {109}{}{Heu... moi }
 {110}{}{Je m'appelle }
-{111}{sgnt4}{Oh, super, ils m'ont envoyé un neu-neu ! Ouvre bien grand tes oreilles : tu monteras la garde près du hangar. C'est ton poste de garde. Prends-y place maintenant et n'en bouge pas jusqu'à nouvel ordre. Allez, remue-toi !!}
+{111}{sgnt4}{Oh, super, ils m'ont envoyé un neu-neu ! Ouvre bien grand tes oreilles : tu monteras la garde près du hangar. C'est ton poste de garde. Prends-y place maintenant et n'en bouge pas jusqu'à nouvel ordre. Allez, remue-toi !}
 {112}{}{Moi aller.}
 {113}{sgnt5}{Quoi ? T'aurais pas oublié quelque chose là ?}
 {114}{}{Je m'appelle }
@@ -67,7 +67,7 @@
 {166}{}{Gardes ! Des intrus !}
 {167}{}{Bon sang, mais qui a laissé passer ces connards ? Gardes !}
 {168}{}{Alerte ! Des espions dans le complexe !}
-{169}{}{Où est cet abruti de recrue ?!!}
+{169}{}{Où est cet abruti de recrue ?!}
 {200}{}{.}
 {201}{}{, monsieur !}
 {300}{}{Je t'ai dit de ne pas revenir ici sans ton uniforme !}

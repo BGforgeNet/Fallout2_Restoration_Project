@@ -36,7 +36,7 @@
 {135}{}{Parfait. Je savais que tu étais la bonne personne. Je t'ai promis un salaire et je ne renie pas mes engagements. Voilà ton argent.}
 {136}{}{Je peux faire autre chose pour toi ?}
 {137}{}{Merci. Tu peux peut-être m'aider. Je cherche l'Abri 13.}
-{138}{}{Salut.}
+{138}{}{Au revoir.}
 {139}{}{Dumont t'envoie, ça me suffit. Je te donnerai une récompense si tu me débarrasses de cette vermine qui massacre mon cheptel de Brahmines. J'ai besoin de savoir ce qui se passe. Pourquoi n'irais-tu pas là-bas pour moi ?}
 {140}{}{Ca a l'air facile. Je m'en charge.}
 {141}{}{Je suis contre.}

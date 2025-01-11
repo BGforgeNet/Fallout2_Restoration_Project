@@ -1,4 +1,4 @@
-{100}{}{Voici un citadin.}
+{100}{}{Tu vois un habitant de la ville.}
 {200}{}{J'espère qu'il va bientôt pleuvoir.}
 {201}{}{Nos récoltes sont en train de mourir du manque d'eau.}
 {202}{}{Même les puits sont secs.}

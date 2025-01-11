@@ -13,7 +13,7 @@
 {210}{}{Lancer un diagnostic de pré-décollage.}
 {211}{}{[Se déconnecter]}
 {212}{}{Démarrage du diagnostic. Progression : 35%... 75%... 100% Terminé. Tous les systèmes sont opérationnels. Attente d'une réponse de la plate-forme pétrolière...}
-{213}{}{[Plus]}
+{213}{}{[Suite]}
 {214}{}{Aucun signal reçu de la part de la plate-forme pétrolière. Motif : Le satellite n'est pas aligné, et ne peut donc garantir la mise à disposition de la plate-forme d'amarrage. Veuillez assurer la mise à quai de la plate-forme d'amarrage.}
 {215}{}{Mmmh... Je vais devoir trouver un moyen d'aligner ce satellite.}
 {216}{}{Hein ?}

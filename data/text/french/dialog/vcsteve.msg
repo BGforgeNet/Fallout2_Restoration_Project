@@ -5,7 +5,7 @@
 {104}{}{La ville, c'est juste ce qu'il y a dans cette enceinte ?}
 {105}{}{Qu'entends-tu par « la plus belle ville » ?}
 {106}{}{Je cherche l'Abri. Peux-tu me dire où il se trouve ?}
-{107}{}{Salut.}
+{107}{}{Au revoir.}
 {108}{}{Hum... [Regardant une brochure qu'il tient à la main.] Euh... On n'est pas censé poser ce genre de question. Il n'y a pas de réponse à ça, là-dedans.}
 {109}{}{Tu sais quelque chose ?}
 {110}{}{Merci quand même.}

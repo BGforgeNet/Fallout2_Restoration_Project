@@ -2,7 +2,7 @@
 {101}{}{Tu vois Vic.}
 {150}{}{On dirait que cet esclave est sous haute surveillance.}
 {151}{}{C'est Vic.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{Pourrais-tu lui dire que je ne peux pas... attendre ? Qui es-tu ? Tu n'es pas esclavagiste. Que fais-tu ici ?}
 {154}{}{Je m'appelle }
 {155}{}{. Je suis là pour t'aider à sortir d'ici.}
@@ -30,7 +30,7 @@
 {177}{}{Super ! Je vais réparer cette radio en un rien de temps.}
 {178}{}{D'accord. Je vais parler à Metzger.}
 {179}{}{Merci.}
-{180}{}{Salut.}
+{180}{}{Au revoir.}
 {181}{}{Pardon ? Je ne comprends pas.}
 {182}{}{Hum...}
 {183}{}{Merci ! Je te suis éternellement reconnaissant. Que puis-je faire pour te remercier ?}
@@ -87,7 +87,7 @@
 {803}{}{J'en doute. Bonne chance.}
 {810}{}{Pourquoi as-tu tué cette pauvre Mamma... J'imagine que tu avais tes raisons. Je regrette, Boss. Je n'ai pas à te poser de questions. C'est une sale ville. Elle avait dû faire quelque chose de mal.}
 {811}{}{Hé, Boss, merci de m'avoir tiré de ce bordel avec Metzger. T'as besoin de quelque chose ? Mamma a été assez gentille pour me nourrir en ton absence. Je lui donne un coup de main...}
-{812}{}{Salut.}
+{812}{}{Au revoir.}
 {813}{}{Oooh.}
 {814}{}{Beiye}
 {823}{}{Où est ton ami Ed, déjà ?}

@@ -17,11 +17,11 @@
 {116}{}{Ok.}
 {117}{}{Moi aller.}
 {118}{}{Content parler. Partir maintenant. Moi fatigué.}
-{119}{}{[FIN]}
+{119}{}{[Terminé]}
 {120}{}{Parler faire mal dans tête. Partir.}
 {121}{}{Moi fini parler avec toi.}
 {122}{}{Pas parler. Partir.}
-{123}{}{Allez-vous-en !}
+{123}{}{Va-t'en !}
 {124}{}{Quitter maison !}
 {125}{}{Comment toi oser attaquer moi ?}
 {126}{}{Laisser tranquille moi.}

@@ -27,7 +27,7 @@
 {254}{}{electrical}
 {255}{}{emp}
 {256}{}{explosion}
-{300}{}{None}
+{300}{}{Ingen}
 {301}{}{Rocket}
 {302}{}{Flamethrower Fuel}
 {303}{}{C Energy Cell}

@@ -8,7 +8,7 @@
 {107}{}{Qui es-tu ?}
 {108}{}{Je cherche du matériel.}
 {109}{}{Je cherche des renseignements.}
-{110}{}{Salut.}
+{110}{}{Au revoir.}
 {111}{}{Tu veux acheter quelque chose ?}
 {112}{}{[Signe de tête affirmatif]}
 {113}{}{[Signe de tête négatif]}
@@ -75,7 +75,7 @@
 {174}{}{Qui es-tu ?}
 {175}{}{Je cherche du matériel.}
 {176}{}{Je cherche des renseignements.}
-{177}{}{Salut.}
+{177}{}{Au revoir.}
 {178}{}{Tu les as déjà donnés aux Hubologistes. Non ?}
 {179}{}{Ah ouais... Heu... Puis-je te demander autre chose ?}
 {180}{}{Ah ouais... Au revoir.}
@@ -101,13 +101,13 @@
 {271}{}{Un sous-marin ?}
 {280}{}{Nous n'avons plus rien à nous dire alors.}
 {281}{}{Tu es sur ? Mon adorable femme Miria pourrait certainement te récompenser.}
-{282}{}{Salut.}
+{282}{}{Au revoir.}
 {285}{}{Tu es dur en affaires. Bien, $1 500.}
 {286}{}{Tiens. Mais les infos ont intérêt à les valoir.}
 {287}{}{[Lao Chou empoche les $1 500.] Ce pétrolier n'a rien de spécial. Comme tu l'as dit, c'est juste un tas de ferraille. Notre sous-marin par contre...}
 {288}{}{Un sous-marin ?}
 {290}{}{Ben si tu le présentes de cette façon, je suis coincé dans cette boutique poussiéreuse depuis longtemps. Ca fait un bail que je n'ai pas pu apprécier la compagnie d'une femme aussi charmante que la tienne.}
-{291}{}{[Continue]}
+{291}{}{[Continuer]}
 {300}{}{[Les heures s'écoulent et ça ne finit toujours pas. Tu commences à soupçonner Lao Chou de ne pas être entièrement humain. Finalement vous tombez dans les vapes.]}
 {301}{}{humm... Qu'est-ce qui s'est passé ?}
 {310}{}{Tu t'es évanouie alors que nous passions à la position du triple lotus, pour me satisfaire j'ai du me finir en utilisant la prise du panda béat. Mais un marché est un marché. Ce n'est pas le pétrolier qui est spécial, comme tu l'as dit c'est juste un tas de ferraille. Notre sous-marin en revanche...}
@@ -149,4 +149,4 @@
 {481}{}{D'accord. Voilà tes $10 000.}
 {482}{}{Pas question.}
 {490}{}{Tant pis pour toi. Je crois que nous n'avons plus rien à nous dire. Au revoir.}
-{491}{}{Salut.}
+{491}{}{Au revoir.}

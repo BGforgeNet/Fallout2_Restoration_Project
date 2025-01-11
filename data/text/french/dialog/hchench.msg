@@ -41,7 +41,7 @@
 {220}{}{Oui.}
 {221}{}{Non.}
 {222}{}{D'accord. A plus, alors.}
-{223}{}{Salut.}
+{223}{}{Au revoir.}
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}

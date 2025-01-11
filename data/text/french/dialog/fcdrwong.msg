@@ -48,7 +48,7 @@
 {147}{}{Il en a besoin pour survivre, tu sais. Elle vient de son corps.}
 {148}{}{Eh bien, je devrais peut-être te tuer pour ça.}
 {149}{}{Un marché est un marché. Elle ne lui appartient plus. Je regrette mais nous avons conclu un marché et ce n'est pas parce que Chip regrette qu'il peut revenir sur sa décision.}
-{150}{}{[Plus]}
+{150}{}{[Suite]}
 {151}{}{C'est une rate humaine ? Lao Chou ne me l'a pas dit !}
 {152}{}{Pourtant, à cause de la grossièreté du messager, je ne vais pas revenir sur notre marché. Je vais plutôt utiliser cette rate pour des expériences.}
 {153}{}{Dis à ton ami de venir la chercher demain, je la lui rendrai avec plaisir. J'espère simplement que tu trouveras un moyen de la lui réimplanter rapidement.}
@@ -150,7 +150,7 @@
 {510}{}{Intéressant. [Il prend l'échantillon.] Mon équipe va l'examiner plus tard. J'ai dû mal à faire confiance au Dr. Sheng mais j'imagine qu'il s'agit d'un ultime moyen de se sentir utile après tout. On verra bien. S'il n'y a rien d'autre, je dois me remettre au travail.}
 {511}{}{Intéressant. [Il prend l'échantillon.] Mon équipe va l'examiner plus tard. J'ai dû mal à faire confiance au Dr. Sheng mais j'imagine qu'il s'agit d'un ultime moyen de se sentir utile après tout. On verra bien. Mais je pensais que tu devais éliminer le Dr. Sheng, pas faire le facteur pour lui ? S'il n'y a rien d'autre, je dois me remettre au travail.}
 {512}{}{En fait, j'avais d'autres questions.}
-{513}{}{Salut.}
+{513}{}{Au revoir.}
 {514}{}{Eh bien, j'ai eu vraiment du mal à obtenir cet échantillon pour toi. Je pense que je mérite une récompense.}
 {520}{}{Voyez-vous ça ? Les Shis ne t'ont rien demandé, mais si tu penses que tu mérites une récompense, je crois bien que je pourrais me séparer de ça. [Il te donne un SuperStimpak.] Allez, je dois vraiment me remettre au travail là.}
 {521}{}{En fait, j'avais d'autres questions.}

@@ -24,7 +24,7 @@
 {123}{}{Excuse-moi, mais je n'ai pas de temps à accorder à quelqu'un comme toi. Au revoir.}
 {124}{}{}
 {125}{}{}
-{126}{}{D'accord.}
+{126}{}{Très bien.}
 {127}{}{Que veux-tu savoir ?}
 {128}{}{Toi prisonnier ?}
 {129}{}{Grif'morts gentils avec toi ?}
@@ -75,7 +75,7 @@
 {174}{}{}
 {175}{}{Casse-toi, bâtard ! Je n'ai rien à faire avec un type comme toi.}
 {176}{}{Fous le camp, salope ! Je n'ai rien à te dire.}
-{177}{}{Salut.}
+{177}{}{Au revoir.}
 {178}{}{.}
 {179}{}{. Oui, je suis ici depuis très peu de temps.}
 {180}{}{Je cachais Sandy derrière moi, pour la protéger du monstre qui avait tué Rand. Il se tenait près du corps de mon mari et riait tout en pointant son arme sur moi. Tout à coup, une immense griffe est sortie de l'obscurité, l'a attrapé par derrière et... Et grâce à dieu, Sandy n'a rien vu de ce qui s'est passé. Bref, les pillards ont été éliminés par ce groupe de Griffemorts. Celui qui nous a sauvées Sandy et moi est venu près de nous et nous a parlé. Il n'a pas arrêté de me rassurer en me disant que j'étais en sécurité et il s'est excusé de ne pas être arrivé plus tôt. Ensuite, les Griffemorts nous ont amenées ici.}

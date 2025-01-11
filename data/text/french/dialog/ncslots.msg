@@ -126,7 +126,7 @@
 {360}{}{[Tu poses ta tête fatiguée sur la machine.]}
 {361}{}{*Ca va aller, mon ange ? J'suis pas tranquille de te voir partir comme ça quand tu es dans cet état.*}
 {362}{}{*Ca va aller, mon chou ? J'suis pas tranquille de te voir partir comme ça quand tu es dans cet état.*}
-{363}{}{Cha va aller... merchi de m'avoar parlé, masssine à sous, je t'aiiiiime !!!!}
+{363}{}{Cha va aller... merchi de m'avoar parlé, masssine à sous, je t'aiiiiime !!!}
 {370}{}{[Une larme semble se former sur l'une des fenêtres.]}
 {371}{}{*Tu es la seule héroïne dans ce monde de pacotille de salauds et de voleurs, }
 {372}{}{. Tu fais bien attention à toi, tu entends, mon coeur ?* [Se détourne.] *Tu ferais mieux d'y aller si tu ne veux pas voir un homme pleurer.*}

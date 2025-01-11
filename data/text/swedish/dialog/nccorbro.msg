@@ -149,7 +149,7 @@
  First, you'll need a stage name, something that screams STAR. Any ideas?}
 {517}{}{Awright - how about another name?}
 {525}{}{I... hmmmm... I...hmmmm. Look, I'll agree to the 500 chips, but NO ROYALTIES. You hear me?}
-{526}{}{All right.}
+{526}{}{Okej.}
 {527}{}{No deal. I'll be seeing you.}
 {528}{}{No royalties, no }
 {535}{}{All right! "}

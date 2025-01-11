@@ -1,4 +1,4 @@
-{100}{}{Un petit garçon.}
+{100}{}{Tu vois un petit garçon.}
 {101}{}{Tu vois Jonny.}
 {102}{}{Cheveux blonds, yeux bleus, le gosse américain typique.}
 {150}{}{Ouiiin !}

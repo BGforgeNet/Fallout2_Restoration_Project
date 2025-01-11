@@ -2,12 +2,12 @@
 {101}{}{Tu vois Frankie, le propriétaire du Trou.}
 {150}{}{Voici le propriétaire de cet endroit.}
 {151}{}{Voici Frankie, c'est le propriétaire de ce bistrot.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{C'est moi, Frankie. Je suis l'proprio. Tu fais la queue comme tout l'monde, Ok ?}
 {154}{}{D'ac.}
 {155}{}{C'est cela même...}
 {156}{}{Je comprends pourquoi cet endroit s'appelle *Le Trou*.}
-{157}{}{Heinh ?}
+{157}{}{Hein ?}
 {158}{}{Que te faut-il ?}
 {159}{}{Du whisky.}
 {160}{}{Des femmes.}
@@ -76,7 +76,7 @@
 {223}{}{Non. Au revoir.}
 {224}{}{Tu as peut-être raison. Je vais lui parler. Merci.}
 {225}{}{Hé, les amis sont là pour ça !}
-{226}{}{Salut.}
+{226}{}{Au revoir.}
 {227}{}{Des renseignements que je n'ai pas.}
 {228}{}{Ah ? Comment se fait-il que les boissons de Babeth soient bien moins chères que les tiennes ?}
 {229}{}{Je croyais que les barmen savaient tout.}
@@ -96,7 +96,7 @@
 {244}{}{C'est toi qui détiens la palme pour le moment. Sérieux !}
 {245}{}{J'ai horreur qu'on me presse, mais...}
 {246}{}{Bon, à bientôt.}
-{247}{}{Salut.}
+{247}{}{Au revoir.}
 {248}{}{Ouais, c'est ça. Nettoie quand tu as fini cette fois-ci, hein !}
 {249}{}{Hé, la compagnie ! Un petit bravo pour Billy ! Il est en pleine action !}
 {250}{}{Tu veux une serpillière ?}

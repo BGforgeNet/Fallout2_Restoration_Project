@@ -1,7 +1,7 @@
 {100}{}{Tu vois un client du Trou.}
 {150}{}{Ce type n'est pas vraiment du genre beau gosse.}
 {151}{}{Ce gars n'a qu'une dent.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{Ta femme est vachement jolie !}
 {154}{}{Laisse-nous tranquille.}
 {155}{}{Elle te plaît, hein ?}
@@ -17,7 +17,7 @@
 {165}{}{D'accord. Viens voir Billy, ma puce.}
 {166}{}{Maintenant, casse-toi !}
 {167}{}{Merci. Au revoir.}
-{168}{}{Salut.}
+{168}{}{Au revoir.}
 {169}{}{Oh, mince alors !}
 {170}{}{[Terminé]}
 {171}{}{Je suis complètement à plat.}
@@ -35,7 +35,7 @@
 {183}{}{Laisse-moi tranquille. Je vais draguer les jolies petites.}
 {184}{}{Bonne chance. Tu en as besoin.}
 {185}{}{Qu'est-ce que j'ai ? Je sens le pâté ?}
-{186}{}{Salut.}
+{186}{}{Au revoir.}
 {187}{}{Oooh. D'accord. Salut.}
 {188}{}{[Te regardant de haut en bas.] Non. J'aime le pâté.}
 {189}{}{Je n'ai pas besoin de ça !}
@@ -93,7 +93,7 @@
 {411}{}{Mince !}
 {412}{}{Oh !}
 {413}{}{Hi hi hiiii...}
-{414}{}{Heinh ?}
+{414}{}{Hein ?}
 {500}{}{::Crache:: Arrrrrfts...}
 {510}{}{Hé, mon gars, ça te dirait de *louer* ta pute ?}
 {511}{}{Ca peut pas attendre ? Il faut que j'aille boire.}

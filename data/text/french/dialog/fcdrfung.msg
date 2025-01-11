@@ -9,7 +9,7 @@
 {108}{}{Qui es-tu ?}
 {109}{}{Un de mes amis a perdu sa rate. Peux-tu l'aider ?}
 {110}{}{Que pouvez-vous me dire sur cet endroit ?}
-{111}{}{Salut.}
+{111}{}{Au revoir.}
 {112}{}{Laisse-moi jeter un oeil à ça. Oui. Je vais devoir te faire payer, bien sûr.}
 {113}{}{Combien ?}
 {114}{}{Laisse tomber.}
@@ -70,9 +70,9 @@
 {184}{}{Merci. J'ai d'autres questions.}
 {185}{}{Merci.}
 {186}{}{La version longue... : nous sommes ici parce que notre peuple descend d'un sous-marin nucléaire appelé Shih-huang-ti. Lorsque les missiles se sont abattus lors du Grand Déluge, les instruments à bord du sous-marin ont cessé de fonctionner et nous avons dérivé dans l'obscurité pendant des jours et des jours.}
-{187}{}{[suite]}
+{187}{}{[Suite]}
 {188}{}{Enfin, nous avons dérivé vers le rivage pour nous retrouver près des ruines de San Francisco. La quasi-totalité de la ville avait été dévastée par la guerre. Nous avons dû y recréer une société avec les quelques survivants retrouvés dans la ville.}
-{189}{}{[suite]}
+{189}{}{[Suite]}
 {190}{}{Nous l'avons reconstruite avec ce que nous avons trouvé. Nous avons des scientifiques et une technologie que le monde entier doit nous envier. Nous reconstruisons la civilisation, mais pas comme cette monstrueuse créature qu'est le Maître.}
 {191}{}{Je vois. J'ai encore des questions.}
 {192}{}{Merci. Au revoir.}

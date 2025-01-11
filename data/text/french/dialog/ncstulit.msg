@@ -139,7 +139,7 @@
 {463}{}{Oh, c'est vraiment des conneries. Je me tire d'ici.}
 {470}{}{Hummmmm... D'accord, je te donne une chance... Mais je promets rien. Si ça nuit aux affaires, même un peu, je te vire. [Il met les mains sur ses hanches.] Je prends la moitié des gains, à prendre ou à laisser.}
 {471}{}{Hummmmm... Je te donne une chance... Mais je promets rien, je te fais une faveur en te prenant sous mon aile sans te connaître. Je prends la moitié des gains... A prendre ou à laisser.}
-{472}{}{C'est terminé.}
+{472}{}{Terminé.}
 {473}{}{Si tu descends à 25 %, c'est une affaire conclue.}
 {474}{}{Oh, c'est vraiment des conneries. Je me tire d'ici.}
 {480}{}{[Stuart fronce plus les sourcils. Il semble sur le point de protester, puis secoue la tête d'un air satisfait.] D'accord ! Bon, si t'as fini de voler mon gagne-pain, on peut discuter affaires.}

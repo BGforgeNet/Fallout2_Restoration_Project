@@ -284,5 +284,5 @@
 {603}{}{j}
 {604}{}{J. la meilleure cam' du monde}
 {605}{}{Donne-moi un J... hmmm...}
-{796}{}{ ! D'ENFER !!! ET ENSUITE, BEBE, ET ENSUITE ?!}
+{796}{}{! D'ENFER !!! ET ENSUITE, BEBE, ET ENSUITE ?!}
 {871}{}{ ? Tu peux me filer un peu de Jet ?}

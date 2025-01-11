@@ -214,7 +214,7 @@ Vielleicht bist du ja der rechte Mann zur rechten Zeit. Suchst du vielleicht 'ne
 {311}{tand46}{Du weißt, wie man feilscht. Na schön, sprich mit Gunther. Er wird die Sache regeln.}
 {312}{}{Danke.}
 {313}{tand47}{Jungs, schmeißt diesen Brahminfladen aus meinem Büro!}
-{314}{}{[Fertig]}
+{314}{}{Ok}
 {315}{tand14b}{Mein Vater und Seth haben jahrelang versucht, Vault 13 zu finden. Sie sind dabei umgekommen - sagten immer, er befinde sich westlich von hier. Wenn jemand Vault 13 finden würde, dann wär das noch viel besser als Vault 15. }
 {316}{}{Darüber musst du mit meinem Sekretär Gunther reden.}
 {400}{}{Siedler wollen Tausch. Du unterrichten und helfen, sie dir Vault lassen.}

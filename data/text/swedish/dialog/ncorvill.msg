@@ -224,7 +224,7 @@
 {671}{}{Word is it was the Salvatores. They pumped him with Jet laced with radscorpion venom, then left him for you to find.}
 {672}{}{I don't know which of the Salvatores did it. Renesco doctored up some Jet for them, not knowing they'd use it to
  poison your son.}
-{673}{}{I don't know.}
+{673}{}{Jag vet inte.}
 {680}{}{Now why in hell would they do that?}
 {681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the

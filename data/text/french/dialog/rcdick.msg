@@ -39,7 +39,7 @@
 {138}{}{Eh Dick... Que s'est-il passé en ville ces derniers temps ?}
 {139}{}{Des rumeurs intéressantes ?}
 {140}{}{Que veut dire At-ze-baskette ?}
-{141}{}{Que t'est-il arrive ?}
+{141}{}{Qu'est-ce qui t'arrive ?}
 {142}{}{Qu'est-il arrivé ?}
 {143}{}{Je fais de temps en temps des remplacements à la Morningstar. Ils ont toujours besoin d'un type expérimenté.}
 {144}{}{Je voudrais savoir autre chose.}

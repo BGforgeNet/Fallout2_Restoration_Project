@@ -40,7 +40,7 @@
 {211}{}{Lang}
 {212}{}{Kurz}
 {213}{}{Nur Zielen}
-{214}{}{Keine}
+{214}{}{Aus}
 {215}{}{Minimal}
 {216}{}{Maximal}
 {217}{}{Langsam}

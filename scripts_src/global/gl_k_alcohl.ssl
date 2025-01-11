@@ -106,8 +106,9 @@ procedure start begin
         ndebug("initialized");
         return;
     end
+
     // no addiction, skip run
-    if (global_var(GVAR_ALCOHOL_ADDICT) != 1) then return;
+    if (global_var(GVAR_ALCOHOL_ADDICT) == 0) then return;
 
     // Below: has addiction
 
@@ -131,7 +132,7 @@ procedure start begin
         set_critter_stat(dude_obj, STAT_ag, 1);
         set_critter_stat(dude_obj, STAT_ch, 1);
         display_mymsg(MSG_relieved);
-        if not dude_trait(TRAIT_drug_addict) then hide_iface_tag(INTERFACE_TAG_ADDICT);
+        if not dude_is_addicted() then hide_iface_tag(INTERFACE_TAG_ADDICT);
         count = 0;                                    // resetting the counter for the next addiction cycle
     end
 

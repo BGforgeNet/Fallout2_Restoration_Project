@@ -66,7 +66,7 @@
 {252}{}{Cette clé que tu as, elle m'intéresse.}
 {253}{}{Ca me suffit pour l'instant. Au revoir.}
 {260}{}{La chasse t'intéresse, hein ? [Il te dévisage de haut en bas.]}
-{261}{}{[Plus]}
+{261}{}{[Suite]}
 {270}{}{Si j'étais à ta place, je n'essaierais pas. Tu risquerais de te salir les mains et de te faire des ampoules. [Hé hé hé.] Tu veux savoir autre chose ?}
 {271}{}{Eh bien, c'est sûr que j'ai pas envie de me salir les mains... Parle-moi d'autre chose.}
 {272}{}{J'aimerais tellement être un trappeur aussi habile que toi. Tu pourrais sûrement m'apprendre beaucoup de choses.}

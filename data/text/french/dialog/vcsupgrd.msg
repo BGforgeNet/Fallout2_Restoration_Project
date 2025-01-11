@@ -27,7 +27,7 @@
 {126}{}{Que ?!! Aighhh !}
 {127}{}{Héééé !}
 {128}{}{Holà, doucement !}
-{129}{}{C'est quoi ton problème ?!! Du calme !}
+{129}{}{C'est quoi ton problème ?! Du calme !}
 {130}{}{Tu-tu as failli me fe-faire avoir une crise ca-cardiaque.}
 {131}{}{Héééé ! Hééééé !}
 {132}{}{Je regrette, je ne voulais pas te faire peur.}

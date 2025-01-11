@@ -20,14 +20,14 @@
 {301}{}{Ouga.}
 {302}{}{Ooga.}
 {303}{}{Ourg.}
-{350}{}{[FIN]}
+{350}{}{[Terminé]}
 {351}{}{[Au revoir]}
-{352}{}{[Plus]}
-{353}{}{[Continue]}
+{352}{}{[Suite]}
+{353}{}{[Continuer]}
 {354}{}{[Combat]}
 {355}{}{[Donner l'argent]}
-{375}{}{Salut.}
-{376}{}{Salut.}
+{375}{}{Au revoir.}
+{376}{}{Au revoir.}
 {400}{}{Tu meurs suite à l'injection mortelle du Dr Troy.}
 {450}{}{La zone est dégagée. Le secteur est pacifié. Beau travail. Allons-y !}
 {900}{}{On dirait qu'un explosif bien placé pourrait détruire cette très vieille porte.}
@@ -244,7 +244,7 @@
 {10004}{}{Reste près de moi.}
 {10005}{}{Ne t'en vas pas trop loin.}
 {10006}{}{On devrait se disperser un peu.}
-{10007}{}{Ca suffit.}
+{10007}{}{C'est tout pour l'instant.}
 {10008}{}{Il faut changer la distance entre nous.}
 {10009}{}{Il faut que je te parle de ton équipement.}
 {10010}{}{Après réflexion, je pense que cette distance convient pour l'instant.}

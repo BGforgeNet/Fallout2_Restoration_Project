@@ -63,7 +63,7 @@
 {327}{}{J'en connais un morceau sur la composition et la fabrication à base de composés neurochimiques. Je pourrais utilement contribuer à tes études.}
 {328}{}{Je dois partir.}
 {335}{}{Ha ! Je crois que je vais te laisser filer. Pars avant que j'appelle les gardes.}
-{336}{}{D'accord.}
+{336}{}{Très bien.}
 {337}{}{Je m'en vais... [Marmonne.] ... tête d'oeuf.}
 {345}{}{Hum. D'accord. Laisse-moi te briefer sur notre activité ici : nous testons les effets et la force d'une méta amphétamine qui s'appelle le Jet.}
 {346}{}{Je vois. Et où en sont les recherches ?}

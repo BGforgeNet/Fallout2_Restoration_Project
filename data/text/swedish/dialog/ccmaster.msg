@@ -51,7 +51,7 @@
 {147}{}{That with an S or a C?}
 {148}{}{Ja.}
 {149}{}{Nej.}
-{150}{}{I don't know.}
+{150}{}{Jag vet inte.}
 {151}{}{You'll get the damn armor when I'm good and ready! Now, answer the question.}
 {152}{}{[Spelarens namn]}
 {153}{}{Fiskarna?}

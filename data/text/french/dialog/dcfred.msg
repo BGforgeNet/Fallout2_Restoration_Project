@@ -16,7 +16,7 @@
 {222}{}{Tu sais quelle heure il est ?}
 {223}{}{Je n'ai rien.}
 {224}{}{J'ai sommeil. Reviens demain matin.}
-{225}{}{Va-t'en !}
+{225}{}{Casse-toi.}
 {226}{}{Y'a personne à la maison.}
 {227}{}{Je peux pas parler. Je vais me coucher.}
 {228}{}{Hé, poupée ! Il est tard. Laisse-moi tranquille.}
@@ -45,7 +45,7 @@
 {297}{}{Je viens chercher l'argent que tu dois à quelqu'un.}
 {298}{}{Ca ne fait rien.}
 {299}{}{Uk !}
-{300}{}{Salut.}
+{300}{}{Au revoir.}
 {310}{}{Hé ! Te voilà ! Je te cherchais partout ! Vise un peu ces fringues !}
 {311}{}{Encore merci !}
 {312}{}{Pas mal.}
@@ -85,7 +85,7 @@
 {393}{}{C'est pas sûr, mais je l'accepte.}
 {394}{}{Miam.}
 {400}{}{Quoi ? D'accord, si tu insistes. Merci infiniment. Prends bien soin de toi.}
-{401}{}{Salut.}
+{401}{}{Au revoir.}
 {410}{}{Quoi ? Tu prends des trucs ? Pourtant, t'as pas l'air de quelqu'un qui plane au Jet. Ne t'approche pas de moi, sale junkie !}
 {411}{}{Casse-toi !}
 {412}{}{Ug.}
@@ -131,7 +131,7 @@
 {531}{}{D'accord, c'est bon.}
 {532}{}{Pas question.}
 {540}{}{$50 seulement. Je t'en prie ! Ca fait partie du plan directeur !}
-{541}{}{D'accord.}
+{541}{}{Très bien.}
 {542}{}{Ca me laisse seulement $50 pour payer ton prêt de $200.}
 {543}{}{Non.}
 {550}{}{Quoi ? Heu... merde ! Tu ne le regretteras pas ! J'assure !}

@@ -292,7 +292,7 @@
 {1178}{}{Heu, merci, Jules, mais non. Dis, j'ai d'autres questions...}
 {1180}{}{Merci du tuyau. Je crois que je ferais mieux d'y aller, là.}
 {1181}{}{Heu, bon, merci, mais je crois que je ferais mieux d'y aller, là.}
-{1190}{}{Tu veux dire la CITE de l'Abri, hein ? C'est au Nord-Est. Tu peux pas la manquer, toutes les pistes caravanières y mènent.}
+{1190}{}{Tu veux dire la Cité de l'Abri, hein ? C'est au Nord-Est. Tu peux pas la manquer, toutes les pistes caravanières y mènent.}
 {1191}{}{D'accord. Dis, j'ai d'autres questions...}
 {1192}{}{Merci du tuyau. Je crois que je ferais mieux d'y aller, là.}
 {1200}{}{Jardin de qu -- ? C'est du matos, aussi ? C'est quoi, l'effet ? Ca fait planer ?}

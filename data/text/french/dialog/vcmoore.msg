@@ -76,7 +76,7 @@
 {175}{}{...l'attaché-case à Bishop ? J'ai bien essayé, sauf qu'il a lu le petit mot que tu avais laissé à l'intérieur, et qu'il a essayé de me TUER. Marrant, hein ? J'espère que tu es prêt à crever, Moore !}
 {176}{}{Si, mais je suis de retour pour te cribler de trous et recouvrir ton corps d'une fine couche de terre.}
 {177}{}{C'est juste pour que tu restes sur tes gardes. Salut.}
-{178}{}{Ah ! Re-bonjour, disciple de la vérité ! Que puis-je faire pour toi ?}
+{178}{}{Ah ! Rebonjour, disciple de la vérité ! Que puis-je faire pour toi ?}
 {179}{}{Que sais-tu de la RNC ?}
 {180}{}{J'avais une question : pourquoi y a-t-il des esclaves dans la Cité de l'Abri ? On m'avait dit que c'était une ville libre.}
 {181}{}{Je veux entendre la bonne parole, frère !}
@@ -123,7 +123,7 @@
 {222}{}{Oui, je voulais juste te dire que j'avais tout réglé.}
 {223}{}{Ca me fait plaisir d'entendre que mes paroles ont germé dans ton coeur. Peut-être que nos chemins se croiseront à nouveau.}
 {224}{}{Peut-être. Garde la foi, frère.}
-{225}{}{Salut.}
+{225}{}{Au revoir.}
 {226}{}{La RNC cherche à rendre l'honneur et l'autonomie à toute la Californie, et la Cité de l'Abri a les moyens de le faire ! Pense à tout le bien qu'on pourrait faire si on avait accès à la technologie de la Cité de l'Abri !}
 {227}{}{Je marche pas dans la combine. Je crois que je ferais mieux de te dénoncer. A moins, bien sûr, que tu ne veuilles acheter mon silence.}
 {228}{}{Mais c'est la technologie de la Cité de l'Abri, les autres n'y ont pas droit.}

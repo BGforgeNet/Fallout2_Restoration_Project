@@ -15,7 +15,7 @@
 {231}{}{Je... euhh... Bien, je fais une série de quêtes pour mon village, Arroyo. Au long de cette route semée d’embûches, j'ai eu besoin d'armes, d'armures et beaucoup, vraiment beaucoup de compétences. Je suis tombé par hasard sur l'EPA, et je cherche ce que je pourrais emporter.}
 {232}{}{Va au diable ! D'un point de vue logique, tu es un HOLOGRAMME, non ? Tu ne peux pas me blesser et pour ces boites de conserve que tu appelles robots, bah je suis sûr de ne rien craindre d'eux. Je dois avoir un ouvre-boite quelque part et je sais l'utiliser.}
 {240}{}{Emporter ! Comment oses-tu discréditer le nom de l'EPA de cette façon ! Personne n'a le droit d'enlever ne serait-ce qu'une feuille de papier de ce bâtiment sans mon autorisation ! Mais.. tu sembles avoir un peu d'expérience... Peut-être pourrais-tu m'être utile d'une façon ou d'une autre.}
-{241}{}{Heinh ?}
+{241}{}{Hein ?}
 {242}{}{Non, je pense que je vais juste fouiner un peu plus et partir. Au revoir !}
 {250}{}{Insolence ! Une telle insolence d'un tribal comme toi. Quand j'ai commencé ma formation, l'insolence était punie. Et punis nous étions ! Ecoute-moi, tribal. Que la langue fourchue des vôtres soit un jour la cause de ta mort.}
 {251}{}{Peut-être, peut-être. Et si ce jour devait venir, je ferais avec et c'est tout. Ce qui est certain, c'est qu'il ne viendra pas de toi. Tu n'es plus rien. Tu n'as rien pour commander, c'est pourquoi tu dissimules ta tristesse par de la colère. Depuis combien de temps les robots ont-ils arrêté de te répondre ?}

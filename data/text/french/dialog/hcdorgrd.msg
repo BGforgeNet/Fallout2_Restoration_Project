@@ -49,4 +49,4 @@
 {421}{}{Beuh aur'voir, m'sieur !}
 {422}{}{Moi vouloir cadeaux. Toi mourir.}
 {430}{}{Dernière chance. Va-t'en ou meurs.}
-{431}{}{Je t'ai prévenu !}
+{431}{}{Je t'avais prévenu !}

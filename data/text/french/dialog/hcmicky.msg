@@ -7,7 +7,7 @@
 {106}{}{Pas d'trézooors aujourd'hui.}
 {107}{}{Ouais. Besoin d'aide.}
 {108}{}{Qui toi ?}
-{109}{}{Salut.}
+{109}{}{Au revoir.}
 {110}{}{Non, pas aujourd'hui. Mais si j'en rencontre, tu le sauras.}
 {111}{}{Hé bien, oui, en fait. Je crois que tu serais le parfait partenaire pour, dirions-nous, une *association*.}
 {112}{}{Comment t'appelles-tu ?}

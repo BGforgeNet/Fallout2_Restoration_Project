@@ -66,7 +66,7 @@
  could be of some assistance in your studies.}
 {328}{}{I have to be going.}
 {335}{}{Ha! I think I'll just watch you go, period. Leave before I call the guards.}
-{336}{}{All right.}
+{336}{}{Okej.}
 {337}{}{I'm going...::mumble::...you bald-headed bitch.}
 {345}{}{Hmmmm. All right then. Let me give you a run-down on what we do here: we test the effects and potency of a metamphetamine
  called Jet.}

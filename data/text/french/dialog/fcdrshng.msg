@@ -42,7 +42,7 @@
 {311}{}{[Ses yeux s'enflamment de rage] Tuez-la, mes enfants ! Son corps fera un bon hôte pour votre prochain semblable !}
 {312}{}{[Terminé]}
 {320}{}{Excellent ! Je vais préparer ta récompense. Mets-toi à l'aise, cela pourrait prendre un peu de temps.}
-{321}{}{[Continue]}
+{321}{}{[Continuer]}
 {322}{}{Garde la récompense. Je n'ai pas le temps pour ça.}
 {330}{}{Oui, rapporte-moi les graines et tu obtiendras une récompense.}
 {331}{}{Je reviendrai.}
@@ -109,7 +109,7 @@
 {520}{}{Epissage génétique ! A travers la magie de la science, j'ai pu développer un sérum de sensibilité botanique. Mais donner aux plantes une intelligence humaine était seulement la moitié de l'équation. Pour pleinement utiliser une telle intelligence, je savais qu'elles auraient besoin d'un corps et de sens humains.}
 {521}{}{Ah, c'est donc là que les *cadavres humains frais* entrent en jeu. Tu dois me dire comment tu as fait pour que la vie de la plante se connecte et prenne le contrôle d'un système nerveux humain. Et d'un mort, en plus. Je ne n'aurais pas cru que c'était possible si je ne l'avais pas vu de mes yeux.}
 {530}{}{Très bien, je ne peux pas promettre que tu comprendras tout de ce que je suis sur le point de te dire, mais je ferai de mon mieux pour te l'expliquer. [Avec le zèle d'un prédicateur délirant au sujet de son dieu auprès d'un auditeur extasié, il passe 2 heures à détailler le processus de ses expériences, évidemment en ayant une grande fierté de ses réalisations.]}
-{531}{}{[Plus]}
+{531}{}{[Suite]}
 {540}{}{Et donc, maintenant tu comprends, j'espère ?}
 {541}{}{Oui. Ca semble totalement impossible, mais la façon dont tu me l'as expliqué a du sens. Et le truc à propos des éponges, du génie absolu ! Morbide, mais génial. Mais il y a une chose que tu n'as pas expliquée. D'où proviennent, exactement, ces *cadavres humains frais* ?}
 {550}{}{Attends une minute. le Dr. Wong est un peu un obstacle. S'il disparaissait du paysage, les choses se passeraient mieux. Donne à Dr. Wong l'échantillon. Même s'il se méfie de moi, sa curiosité le fera accepter. Ensuite, trouve une façon de l'éliminer sans alerter les autres Shi. Peut-être une sorte d'overdose. Fais-le, et je ferai en sorte que ta récompense soit triplée.}

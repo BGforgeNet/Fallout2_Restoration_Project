@@ -114,7 +114,7 @@
 {181}{}{Then I would suggest you tell me the best way into the base... now!}
 {182}{}{I suppose that would be through the trap door in the floor of my room.
  Just go and leave me be.}
-{183}{}{Okay, me go.}
+{183}{}{Okej, ja' gå.}
 {184}{}{All right. I'll do that.}
 {185}{}{I know they fly over here from time to time. They're usually heading
  south toward San Fran. If you're interested in vertibirds, I'd head there.}

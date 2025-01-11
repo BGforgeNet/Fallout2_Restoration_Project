@@ -1,2 +1,2 @@
-1:SUIVANT TON EXEMPLE, MARCUS A FINALEMENT TRAVERSE LES GRANDES MONTAGNES D'OUEST EN EST A LA RECHERCHE D'AUTRES REFUGIES DE L'ARMEE DU MAITRE.
-2:TU N'AS PLUS JAMAIS ENTENDU PARLER DE LUI.
+1:Suivant ton exemple, Marcus a finalement traversé les grandes montagnes d'ouest en est à la recherche d'autres réfugiés de l'armée du Maître.
+2:Tu n'as plus jamais entendu parler de lui.

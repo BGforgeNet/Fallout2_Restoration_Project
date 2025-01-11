@@ -47,19 +47,28 @@
 {210}{}{Una vez completado el nuevo sistema de irrigación, nuestra producción de comida excede nuestras necesidades. Nos gustaría comerciar con los de la superficie e intercambiar los excedentes por medicinas que necesitamos.}
 {213}{}{Por favor, ilumínanos con tu sabiduría.}
 {216}{}{Sabía que lo entenderías. Aquí hay un mensaje relativo a nuestra petición. Por favor, llévalo a Modoc y dáselo a la persona al cargo. Vuelve cuando hayas completado tu tarea. Le diré a los Protectores que esperen tu regreso. Te agradecemos que nos hagas este servicio.}
-{217}{}{Qué típico de los de la superficie. Nunca son capaces de hacer nada por nadie a menos que haya alguna clase de ganancia involucrada. Obviamente, no podemos confiar en una persona como tú. Encontraremos a otro que lleve el mensaje. Aunque no somos gente violenta, no intentes salir de las cuevas o lo lamentarás.}
-{218}{}{Hmm… Entiendo. Una decisión así no puede tomarse a la ligera. Por favor, mantenme informado de sus progresos.}
+{217}{}{How typical of surfacers. Never doing anything for anyone unless there is some kind of personal
+ gain involved. Obviously, we cannot trust such a person as you. We will find someone else to deliver the
+ message. Although we are not a violent people, do not attempt to leave the caves or you will regret it.}
+{218}{}{Hmm... I understand. Such a decision cannot be made lightly. Please keep me informed of their
+ progress.}
 {219}{}{Entonces no me molestes más.}
 {220}{}{¿Sobre qué?}
 {221}{}{No confían en vosotros. Creen que matásteis a los transeúntes y empalásteis sus cuerpos en la entrada de la granja.}
 {222}{}{Quieren saber qué le ocurrió al granjero que vivía aquí.}
-{223}{}{Somos gente pacífica y no hemos matado a nadie. Esos cuerpos son simplemente un atrezzo que creamos para asustar a aquellos que intentaran robarnos. Si examinas los cuerpos más de cerca, verás que no son más que muñecos y tripas de brahmin.}
-{224}{}{¿Entonces qué pasó con el pobre Karl? Ya sabes, el granjero que vivía en tu granja.}
-{225}{}{¿Ese era su nombre, Karl? Le asustamos para que se fuera, nada más. Suponía que habría vuelto a casa cuando descubrió que la granja estaba encantada. Los Protectores informaron de que se dirigía hacia el oeste. Quizá debas seguir buscando en esa dirección.}
-{226}{}{Te mantendré informado de mis progresos.}
-{227}{}{Le asustamos para que se fuera, nada más. Suponía que habría vuelto a casa cuando descubrió que la granja estaba encantada. Los Protectores informaron de que se dirigía hacia el oeste. Quizá debas seguir buscando en esa dirección.}
+{223}{}{We are a peaceful people, and have killed no one. Those bodies are merely props we manufactured
+ to scare off those who try to steal from us. If you examine the bodies closely, you'll notice that they
+ are nothing but brahmin guts and dummies.}
+{224}{}{Then what about poor Karl? You know, the farmer that was living on your farm?}
+{225}{}{¿Ese era su nombre, Karl? Le asustamos para que se fuera, nada más. Suponía que habría vuelto a
+ casa cuando descubrió que la granja estaba maldita. Los Protectores informaron de que se dirigía
+ hacia el oeste. Podrías intentar buscarlo por esa dirección.}
+{226}{}{I'll keep you informed of my progress.}
+{227}{}{We scared him off the farm -- nothing more. I assume he went back home when he discovered the
+ farm was haunted. The Protectors reported him headed northwest. You might try searching for him that
+ way.}
 {231}{}{Veo que has encontrado a Jonny. Le descubrimos vagando por la oscuridad de uno de nuestros túneles más profundos. Decía que se había caído por un pozo cerca de su casa, y entonces quedó atrapado en un túnel por un derrumbe. Le hemos tratado como si fuera uno de los nuestros y es querido por todos... así que comprenderás que no lo entregue a un extraño que aún debe probar que es digno de confianza. Llevaré a Jonny de vuelta a Modoc cuando esté seguro de que puede llegar a casa sano y salvo.}
-{232}{}{Has probado que eres digno de confianza, sin duda alguna. A pesar del hecho de que vamos a echar de menos al pequeño Jonny, he dispuesto una escolta para ti y Jonny para que volváis a Modoc ahora mismo.}
+{232}{}{Has probado que eres digna de confianza, sin duda alguna. A pesar del hecho de que vamos a echar de menos al pequeño Jonny aquí abajo, hemos dispuesto una escolta para ti y Jonny para que volváis a Modoc ahora mismo.}
 {233}{}{¡Oh, chico! No me extraña que no te asustaran nuestros truquillos. Eres demasiado estúpido para asustarte. Odio depender de un discapacitado intelectual como tú, pero necesito tus servicios. Lleva este mensaje a Modoc. Dáselo al líder de Modoc y procura no perderte.}
 {300}{}{Ya me voy.}
 {301}{}{¿Qué es lo que quieres de mí?}

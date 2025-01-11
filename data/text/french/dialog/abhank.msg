@@ -14,7 +14,7 @@
 {210}{}{[Tout à coup, tu te sens partir comme une merde, ta vision se trouble et tu t'effondres sur le sol...]}
 {211}{}{[Terminé]}
 {212}{}{Non désolé.}
-{213}{}{Salut à nouveau.}
+{213}{}{Rebonjour.}
 {214}{}{Salut et au revoir.}
 {215}{}{Ca ne sera pas gratuit cette fois. Ca te coûtera $20.}
 {216}{}{Ca marche. Voilà la monnaie.}

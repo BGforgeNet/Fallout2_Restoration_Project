@@ -12,7 +12,7 @@
 {206}{}{Les esprits t'acceptent comme l'un des nôtres désormais.}
 {207}{}{Merci de nous avoir aidés.}
 {208}{}{Je pensais que les étrangers étaient maléfiques. Ce n'est pas le cas...}
-{209}{}{Ne fais pas ça !}
+{209}{}{Ne fais pas ça.}
 {300}{}{Excuse-moi, mais pourrais-tu me faire une petite faveur ? Je suis un peu débordé et je ne sais pas si je peux laisser cette marmite sans surveillance.}
 {301}{}{Bien sûr. De quoi as-tu besoin ?}
 {302}{}{Je suis également très occupé. Peut-être un peu plus tard.}

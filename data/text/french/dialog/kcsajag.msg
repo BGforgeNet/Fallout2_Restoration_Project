@@ -15,7 +15,7 @@
 {134}{}{Je voudrais faire des échanges.}
 {135}{}{J'aimerais une chambre pour la nuit.}
 {136}{}{Merci de ton aide. Au revoir.}
-{137}{}{Salut.}
+{137}{}{Au revoir.}
 {140}{}{Et, une pisse de gecko doré, une ! Seulement $5 pour la meilleure bière de tout le Nord de Redding !}
 {141}{}{Tu m'as versé une chope de pisse !?!}
 {142}{}{Merci pour la bière. J'ai besoin d'un renseignement.}

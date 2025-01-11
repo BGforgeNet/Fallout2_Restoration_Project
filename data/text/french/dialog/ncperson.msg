@@ -60,7 +60,7 @@
 {275}{}{J'aimerais bien être sa petite culotte.}
 {276}{}{J'aimerais bien sentir sa culotte.}
 {277}{}{T'es trop bonne, bébé}
-{278}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
+{278}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !}
 {279}{}{Matte un peu ces bazoonkas !}
 {280}{}{Matte un peu ces gros nibards !}
 {281}{}{J'ai envie de me plonger dans tes beaux yeux bleus.}
@@ -233,8 +233,7 @@
 {493}{}{C'est comme ça qu'on botte le cul de L'Enclave, }
 {494}{}{L'Enclave ne m'a jamais causé de problème, mais je suis content qu'elle ne soit plus là.}
 {495}{}{J'arrive pas à croire que L'Enclave continuait à faire la guerre, après tout ce temps. Les idiots !}
-{496}{}{J'ai ressenti un grand bouleversement... Comme si les voix de centaines de bâtards sur une plateforme pétrolière avaient soudainement hurlé de terreur...
- Puis s'étaient éteintes aussitôt... Etrange.}
+{496}{}{J'ai ressenti un grand bouleversement... Comme si les voix de centaines de bâtards sur une plateforme pétrolière avaient soudainement hurlé de terreur... Puis s'étaient éteintes aussitôt... Etrange.}
 {497}{}{Bravo pour avoir vaincu L'Enclave, }
 {498}{}{Fallout 2 vous a été présenté par Interplay productions, le studio Black Isle, et la compagnie Nuka-Cola.}
 {499}{}{Tim Cain nous manque. Il avait l'habitude de faire du délicieux pain. Et il nous donnait la fessée comme aux petits enfants.}
@@ -273,7 +272,7 @@
 {552}{}{J'aimerais sentir ta culotte.}
 {553}{}{T'es trop bonne, bébé.}
 {554}{}{Dis-moi si j'me trompe, chérie, mais tu veux m'embrasser n'est-ce pas ?}
-{555}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
+{555}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !}
 {556}{}{Tu sais ce qui ferais bien sur toi ? Moi !}
 {557}{}{Ta culotte n'est peut-être pas ce qu'il y a de mieux sur terre, mais bon sang, on en est pas loin.}
 {558}{}{Jolis bazookas !}
@@ -415,6 +414,6 @@
 {737}{}{J'suis content de savoir qu'ils ont foutu cet enfoiré au pilori.}
 {1203}{}{ !}
 {1204}{}{ ! Tu troues l'cul ! Tu troues l'CUL !}
-{1205}{}{ ! T'es trop ENORME !!}
+{1205}{}{! T'es trop ENORME !}
 {1493}{}{ !}
 {1497}{}{ ! Tu troues l'cul ! Tu troues l'CUL !}

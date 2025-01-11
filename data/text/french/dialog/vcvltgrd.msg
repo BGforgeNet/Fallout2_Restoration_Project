@@ -71,7 +71,7 @@
 {170}{}{Bienvenue. Reste autant que tu veux à la Cité de l'Abri.}
 {171}{}{Faudrait enregistrer tes exploits contre l'Enclave et les mettre sur le serveur des listes.}
 {172}{}{Capitaine.}
-{173}{}{La Cité de l'Abri avant tout, Capitaine !}
+{173}{}{La Cité de l'Abri avant tout, Capitaine.}
 {174}{}{Bonne journée, Capitaine.}
 {175}{}{La Cité de l'Abri avant tout, citoyen !}
 {176}{}{citoyen.}

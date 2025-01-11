@@ -19,7 +19,7 @@
 {118}{}{. Fichu}
 {119}{}{.}
 {120}{}{Le croupier a un }
-{121}{}{[Plus]}
+{121}{}{[Suite]}
 {122}{}{[Tout en battant les cartes.] Tu veux encore jouer ?}
 {123}{}{Je regrette, tu as atteint ta limite. Je dois te demander de partir.}
 {124}{}{[Tu gagnes la partie.]}

@@ -1,5 +1,5 @@
-{100}{}{Tu vois une personne portant un pyjama amusant.}
-{101}{}{Tu vois un habitant de Shitown.}
+{100}{}{Tu vois une personne portant un drôle de pyjama.}
+{101}{}{Tu vois un citoyen Shi.}
 {102}{}{Cette personne semble différente de toutes celles que tu as pu voir par le passé. Elle semble ne pas faire attention à toi.}
 {103}{}{Tu es là pour espionner, pas vrai ?}
 {104}{}{Qui es-tu ?}
@@ -66,7 +66,7 @@
 {172}{}{Tu as déshonoré ta famille !}
 {173}{}{Laisse-nous tranquilles, gaijin !}
 {174}{}{N'as-tu pas causé assez de dégâts ?}
-{175}{}{Je te déteste.}
+{175}{}{Je te déteste !}
 {176}{}{Quitte cette ville !}
 {177}{}{Rentre chez toi !}
 {178}{}{N'assombris pas ma vie de ta présence !}

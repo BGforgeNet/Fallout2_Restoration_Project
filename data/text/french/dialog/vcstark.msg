@@ -29,7 +29,7 @@
 {128}{}{Je n'irai nulle part. Essaie de me faire bouger et tu le regretteras.}
 {129}{}{Très bien, j'y vais.}
 {130}{}{Capitaine. Puis-je t'aider ?}
-{131}{}{Puis-je t'aider ?}
+{131}{}{Puis-je t'aider, citoyen ?}
 {132}{}{Que veux-tu ?}
 {133}{}{Ouais !}
 {134}{}{Dégage !}
@@ -245,7 +245,7 @@
 {344}{}{Ca ne m'intéresse pas. Peut-être une autre fois.}
 {345}{}{C'est vrai ? Hein.}
 {346}{}{Très bien. Transfère les informations dans mon Pip-Boy et je les consignerai dans les ordinateurs de la patrouille.}
-{347}{}{D'accord.}
+{347}{}{Très bien.}
 {348}{}{Ces informations m'ont l'air correctes. Bien joué. Voilà ton paiement pour tes services, cinq cents dollars... plus ceci, qui devrait t'être utile.}
 {349}{}{Qu'y a-t-il ?}
 {350}{}{C'est un détecteur de mouvements Vault-Tec. Nous allions le démonter car il est trop vieux pour nos Pip Boys, mais il a l'air compatible avec ton modèle.}
@@ -296,7 +296,7 @@
 {395}{}{je vais y réfléchir. Puis-je te poser d'autres questions ?}
 {396}{}{Non, pas mon genre de boulot. Au revoir.}
 {397}{}{Excellent. Laisse-moi te montrer la position exacte du village. [Stark marque la position du village sur la carte de ton Pip-Boy.] La paie est de $750. Reviens une fois que ce sera fait. Une dernière chose, si tu ne t'en occupes pas ce mois-ci, j'enverrai une escouade pour éliminer les monstres et tout autre menace.}
-{398}{}{Salut.}
+{398}{}{Au revoir.}
 {399}{}{Eh bien... Tu vois... J'ai l'impression que ces monstres pourraient représenter une menace pour nos patrouilles et... hem... la sécurité même des villageois. C'est comme ça.}
 {400}{}{je vais prendre ce boulot.}
 {401}{}{C'est clair. Et à propos du village ?}

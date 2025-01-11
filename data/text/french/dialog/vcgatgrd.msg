@@ -6,7 +6,7 @@
 {105}{}{Bonne journée, Capitaine.}
 {106}{}{Content de vous voir !}
 {107}{}{A vos ordres !}
-{108}{}{La Cité de l'Abri avant tout, Capitaine !}
+{108}{}{La Cité de l'Abri avant tout, Capitaine.}
 {109}{}{Toutes mes excuses, citoyen, mais les Goules ne sont pas admises dans la Cité de l'Abri.}
 {110}{}{Toutes mes excuses, citoyen, mais les mutants ne sont pas admis dans la Cité de l'Abri.}
 {111}{}{Vaudrait mieux que cette Goule s'éloigne du portail. Tout de suite.}

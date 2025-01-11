@@ -26,8 +26,8 @@
 {125}{}{Merci, je te parlerai plus tard.}
 {126}{}{Non, pas du tout. Je suis ici de mon plein gré et j'aime cet endroit. Je pense que je vais être en sécurité ici pendant un moment.}
 {127}{}{Ok.}
-{128}{}{Salut.}
-{129}{}{D'accord.}
+{128}{}{Au revoir.}
+{129}{}{Très bien.}
 {130}{}{Je vois. Bon, je vais m'en aller alors.}
 {131}{}{Ouais, on m'a dit que j'étais libre de partir ou de rester. Alors, je reste pour le moment.}
 {132}{}{Moi voir.}
@@ -45,7 +45,7 @@
 {144}{}{Tu es en sécurité maintenant, Dalia. Tu n'as plus à craindre de représailles.}
 {145}{}{Merci,}
 {146}{}{Pas de quoi.}
-{147}{}{Salut.}
+{147}{}{Au revoir.}
 {148}{}{Pas d'quoi.}
 {149}{}{A plus tard.}
 {150}{}{Bonjour.}

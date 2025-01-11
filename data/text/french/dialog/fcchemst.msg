@@ -5,7 +5,7 @@
 {104}{}{Hein ?}
 {105}{}{Qui es-tu, TOI ?}
 {106}{}{Je suis}
-{107}{}{Ca te regarde pas.}
+{107}{}{Ca ne te regarde pas.}
 {108}{}{Laisse tomber. Je m'en vais maintenant.}
 {109}{}{Tu n'as rien à faire ici si tu es un imbécile. Fiche le camp avant que j'appelle les gardes.}
 {110}{}{Tu ne comprends pas, hein ? Tu comprendras peut-être mieux les gardes. Gardes ! Un intrus !}
@@ -68,7 +68,7 @@
 {167}{}{Je suis ici pour obtenir du carburant pour les Hubologistes.}
 {168}{}{Rien. Désolé.}
 {169}{}{Nous sommes tous à court de carburant maintenant. Je ne peux plus t'aider. J'ai trop à faire avec cette armure. Au revoir.}
-{170}{}{Salut.}
+{170}{}{Au revoir.}
 {171}{}{. Je jetais juste un oeil aux alentours.}
 {172}{}{, tu travailles ici en ce moment ?}
 {173}{}{ ça serait bien.}

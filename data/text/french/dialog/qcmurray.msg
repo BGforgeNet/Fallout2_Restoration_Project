@@ -31,7 +31,7 @@
 {130}{}{Des intrus ! Alerte !!}
 {131}{}{Sauve qui peut ! Les primitifs ont été lâchés !}
 {132}{}{Gardes ! A l'aaaaaaaide !}
-{133}{}{Alerte un intrus !! Alerte un intrus !!}
+{133}{}{Alerte un intrus ! Alerte un intrus !}
 {134}{}{L'arrêter ? T'as un grain toi ?! On n'arrête pas *mon* réacteur.}
 {135}{}{Mais si. Tu ferais mieux de me dire comment sinon je t'arrête aussi.}
 {136}{}{J'ai dit *Arrêter* ? Pardon, je voulais juste savoir comment fonctionne le réacteur.}

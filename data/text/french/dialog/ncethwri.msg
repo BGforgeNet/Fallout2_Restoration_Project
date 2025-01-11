@@ -11,7 +11,7 @@
 {208}{}{<Hmmmm-hmmm-hmmm-hm-hm -hmmmm>}
 {209}{}{Encore une belle nuit à Reno !}
 {210}{}{[La femme sursaute.] Oh mon Dieu ! Tu m'as fait peur ! [Elle plisse les yeux.] Oui, oui ?}
-{211}{}{[Mme Wright sursaute.] Oh mon Dieu ! Tu m'as fait peur ! [Elle plisse les yeux.] Re-bonjour !}
+{211}{}{[Mme Wright sursaute.] Oh mon Dieu ! Tu m'as fait peur ! [Elle plisse les yeux.] Rebonjour !}
 {212}{}{Qui, qui ?}
 {213}{}{Bonjour, bonjour !}
 {214}{}{Toi pas maman... Maman ? Maaamaaan... ?! Maman. Moi aller chercher maman.}
@@ -96,7 +96,7 @@
 {359}{}{Pas vraiment. Ecoute, il faut que je parte.}
 {360}{}{Oh. [Elle cligne des yeux.] Alors, que puis-je faire pour toi ?}
 {361}{}{Alors, je t'écoute. Pose-moi tes questions.}
-{362}{}{[Elle sursaute.] Mon dieu ! Tu m'as fait une de ces peurs ! [Elle plisse les yeux.] Re-bonjour !}
+{362}{}{[Elle sursaute.] Mon dieu ! Tu m'as fait une de ces peurs ! [Elle plisse les yeux.] Rebonjour !}
 {363}{}{Que disais-tu à propos de la Ligue Antialcoolique ?}
 {364}{}{Je cherche un Jardin d'Eden en Kit.}
 {365}{}{Je cherche un endroit appelé l'Abri 13.}

@@ -60,6 +60,6 @@
 {411}{}{Peu importe.}
 {412}{}{Pas de problème.}
 {420}{}{Ca fait plaisir de te revoir. Bon, si tu veux bien m'excuser, j'ai une pléthore de projets qui nécessitent mon attention.}
-{421}{}{[Fin]}
+{421}{}{[Terminé]}
 {500}{}{Tu as réparé Hologramme 00000.}
 {510}{}{Tu as testé le lance-flammes solaire pour le chef du département scientifique.}

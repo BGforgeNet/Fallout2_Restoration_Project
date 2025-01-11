@@ -9,7 +9,7 @@
 {108}{}{[Continuer de chercher]}
 {109}{}{Faites, s'il vous plaît, un choix parmi les possibilités ci-dessous.}
 {110}{}{L'une des plus grandes peurs dans l'esprit de nos fonctionnaires militaires était que les Chinois déploient des armes bactériologiques contre les troupes américaines. En conséquence, Tek Ouest, un éminent scientifique en défense biologique, avait été engagé pour développer un agent immunisant. Par la suite, Tek Ouest entama ces recherches sur le Projet Pan-Immunity Virion Project (PVP) avec l'intention de créer l'immunité au sein même des soldats en modifiant leur ADN. Pendant la mise à l'essai du PVP en 2076, des effets indésirables et anormaux ont été observés sur les sujets tests. Les animaux tests ont commencé à muter, et leur activité neuronale s'est accrût.}
-{111}{}{[Plus]}
+{111}{}{[Suite]}
 {112}{}{Voyant les possibilités d'un tel projet, l'Armée s'en empara et le rebaptisa FEV : Virus à Evolution Forcé. Ne se contentant pas d'immuniser contre les maladies, Le FEV transformerait les soldats en surhommes abominablement forts et intelligents. Après évaluation sur des animaux, la recherche de FEV fut déplacée à la Base militaire Mariposa où la mise à l'essai secrète sur les volontaires humains commença.}
 {113}{}{[Retour]}
 {120}{}{Un de nos chercheurs, le Dr.Hodkin, a fait une magnifique découverte dans sa récente recherche sur la façon dont le cerveau humain traite des réponses verbales. Apparemment, en répétant une série de lettres avec les inflexions nécessaires, un auditeur peut-être guéri d'un certain nombre de maladies neurologiques, comme l'autisme ou l'épilepsie. Est inclus dans ce journal la série exacte de lettres utilisée par le Dr.Hodkin dans cette expérience. C'est un grand pas dans le traitement pour les troubles neurologiques chroniques.}
@@ -21,7 +21,7 @@
 {134}{}{Après beaucoup de recherches pénibles, tu trouves par hasard un dossier caché.}
 {135}{}{Accès au fichier étiqueté : Projet de Fluoridification de Masse.}
 {136}{}{Dans le but de rendre les citoyens des Etats-Unis plus malléables, l'inclusion du fluorure de sodium dans la totalité de l'eau potable disponible fut testée en laboratoire. Les effets à long terme avaient eu comme résultat, que les sujets deviennent davantage *stupides et dociles*. Plus tard on découvrit que le fluorure de sodium avait endommagé une partie spécifique de leur cerveau, diminuant leur capacité à défendre leur propre liberté, et entraînant l'individu normal à se soumettre irrévocablement à l'autorité.}
-{137}{}{[Plus]}
+{137}{}{[Suite]}
 {138}{}{Dans une expérimentation plus récente, nous avions choisi un fonctionnaire militaire, le général J.Ripper, comme sujet. Au début il ignorait nos intentions mais cela semble quand même avoir été un succès. Il est devenu obsédé par l'expression *fluides corporels précieux* et évitait de boire toute substance dont il ignorait la provenance. Il a même arrêté d'avoir des rapports sexuels craignant que les femmes puisent dans son *essence de vie*.}
 {139}{}{[Retour]}
 {150}{}{Changement de sexe.}

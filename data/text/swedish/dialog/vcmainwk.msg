@@ -154,7 +154,7 @@
 {251}{}{I see you've picked up some tricks from my cheapskate father. Give me about an hour, and it'll be good to go...}
 {252}{}{All right, all right. You sound just like my cheapskate Dad. Give me about an hour, and it'll be good to go...}
 {253}{}{All right, give me about an hour, and it'll be good to go...}
-{254}{}{All right.}
+{254}{}{Okej.}
 {255}{}{There you go. Anything else?}
 {256}{}{I had some other questions...}
 {257}{}{Can you upgrade anything else I have?}

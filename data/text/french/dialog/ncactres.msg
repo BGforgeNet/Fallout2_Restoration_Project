@@ -51,7 +51,7 @@
 {275}{}{Dieu merci, ils ont enfin installé le dosseret rembourré.}
 {280}{}{Qu'est-ce que ça sent ?}
 {281}{}{Génial. Encore un péquenot de tribal.}
-{282}{}{Ne me parle pas.}
+{282}{}{Ne m'adresse pas la parole.}
 {283}{}{Voyons... *Oh ouiii* *Donne-le-moi* Merde ! Qu'est-ce qu'il y a après ?}
 {284}{}{Oui, mais quelle est ma MOTIVATION dans cette scène ?}
 {285}{}{Alors... ::Elle étudie le scénario:: Il entre, on fait l'amour. Ok, j'ai compris.}

@@ -194,7 +194,7 @@
 {294}{}{Au sujet de ce Jet... Je crois que les autres citoyens aimeraient bien être au courant, aussi.}
 {295}{}{Rien aujourd'hui. Bonne journée, docteur.}
 {296}{}{Certainement. Je regrette... Ca fait un moment que j'ai pas eu à en administrer. Il y a belle lurette que la plupart des citoyens ont reçu les leurs. Un instant, je vais programmer l'Autodoc pour qu'il en fabrique...}
-{297}{}{D'accord.}
+{297}{}{Très bien.}
 {298}{}{Voilà, c'est fini. Ah, un mot encore : ce vaccin n'immunise pas contre le poison et les radiations, mais il augmente la résistance naturelle.}
 {299}{}{Merci bien. Au fait, j'aurais encore une ou deux questions...}
 {300}{}{Super. Merci, docteur.}

@@ -113,7 +113,7 @@
 {212}{}{Ok, on to other things.}
 {213}{tand20}{No point trying to keep secrets around here. We're negotiating with New Reno for membership in the NCR. They should have some pull with places like Vault City.}
 {214}{}{Me see.}
-{215}{}{All right.}
+{215}{}{Okej.}
 {216}{tand21}{Most figure we've got to work with New Reno one way or another. But folks like Westin and the ranchers blame New Reno for rustling the cattle drives between here and Redding.}
 {217}{}{Humph.}
 {218}{}{Who Westin?}
@@ -212,7 +212,7 @@
 {311}{tand46}{A real horse trader you are. Fine, see Gunther. He'll handle the arrangements.}
 {312}{}{Tack.}
 {313}{tand47}{Boys, get this glob of brahmin spit out of my office! Time for you to head on out, stranger.}
-{314}{}{Done}
+{314}{}{Klar}
 {315}{tand14b}{My dad and Seth searched for years trying to find Vault 13. They died looking - always said it was west of here. If somebody were to find Vault 13, that'd do us even better than 15.}
 {316}{}{You'll have to talk to my aide, Gunther, about that.}
 {400}{}{Squatters want deal. You teach, you help, they give you vault.}

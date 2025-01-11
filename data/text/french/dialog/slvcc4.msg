@@ -13,7 +13,7 @@
 {330}{}{Qu'avons-nous fait de mal ?}
 {331}{}{Laisse-nous tranquilles, esclavagiste !}
 {332}{}{Ne me fais pas mal.}
-{333}{}{Dégage !}
+{333}{}{Ne t'approche pas de moi !}
 {350}{}{Qui toi ?}
 {351}{}{Toi pas esclavagiste.}
 {352}{}{Toi pas faire mal ?}

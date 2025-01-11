@@ -35,7 +35,7 @@
 {134}{}{Encore toi ? Alors, le boulot est terminé ?}
 {135}{}{<Glup>}
 {136}{}{Non.}
-{137}{}{I got some questions.}
+{137}{}{J'ai quelques questions.}
 {138}{}{Hum... Robuste... Imbécile... Si tu veux du boulot, va parler à Mira. Compris ? Mi-ra. Là-bas.}
 {139}{}{Tu aimes faire des bruits ? Quelqu'un peut-il jeter cette bouse dehors ?}
 {140}{}{T'es débile ou quoi ? Tu crois que je vais engager n'importe qui ? Si tu veux travailler pour moi, il faut montrer ce que tu sais faire.}
@@ -172,4 +172,4 @@
 {271}{}{Tu reçois }
 {272}{}{points d'expérience pour avoir récupéré les papiers du Dr Henry.}
 {300}{}{Où penses-tu aller ?! Essaie ça encore et je te botte le cul.}
-{301}{}{Je t'ai prévenu !}
+{301}{}{Je t'avais prévenu !}

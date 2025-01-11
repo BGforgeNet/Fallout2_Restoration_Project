@@ -96,7 +96,7 @@
 {195}{}{Un balayage ? Pourquoi pas ?}
 {196}{}{Tu en as déjà assez fait. Salut.}
 {197}{}{Alors, j'ai déjà trop parlé. Au revoir.}
-{198}{}{Re-bonjour. Comment l'Eglise d'Hubol peut-elle t'aider ?}
+{198}{}{Rebonjour. Comment l'Eglise d'Hubol peut-elle t'aider ?}
 {199}{}{::Bave::}
 {200}{}{Alors, c'est toi l'abcès que Merk veut crever ?}
 {201}{}{Heu, je ne sais vraiment pas de quoi tu parles.}

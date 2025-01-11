@@ -22,7 +22,7 @@
 {121}{}{Bonne chance, mutant. T'en auras besoin.}
 {122}{}{Halte ! Que fais-tu là ?}
 {123}{}{J'essaie de rejoindre mon peuple.}
-{124}{}{Ca te regarde pas.}
+{124}{}{Ca ne te regarde pas.}
 {125}{}{Je n'ai pas de temps à perdre avec vos questions.}
 {126}{}{Mais qui es-tu ?}
 {127}{}{Tu sais l'autre monstre, l'agent Horrigan, il vient de passer en trombe. Il attend que quelqu'un se jette à l'eau.}

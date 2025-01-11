@@ -1,7 +1,7 @@
 {100}{}{Tu vois quelqu'un en SuperArmure.}
 {101}{}{Tu vois l'intendant.}
 {102}{}{Tu vois une personne vêtue d'une SuperArmure hors du commun. Son plastron porte un insigne que tu n'as jamais vu.}
-{103}{}{Qui êtes-vous... ?! Alerte ! Des envahisseurs !}
+{103}{}{Qui êtes-vous... ?! Alerte ! Des intrus !}
 {104}{}{Mais qu'est-ce... Je sais pourquoi tu es ici. Tu veux sûrement te débarrasser de cette vieille combinaison que tu portes !}
 {105}{}{Que fais-tu sans uniforme, soldat ?}
 {106}{}{Crève !}

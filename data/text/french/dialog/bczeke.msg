@@ -7,9 +7,9 @@
 {106}{}{Très bien, je m'en vais.}
 {107}{}{Je voulais juste te poser quelques questions.}
 {108}{}{Eh bien, je pense que tu vas te rendre compte qu'on a pas de réponses ici. Pourquoi ne reviens-tu pas quand on aura reçu une nouvelle cargaison ?}
-{109}{}{C'est terminé.}
-{110}{}{Re-bonjour. Je n'ai toujours pas de réponses pour toi. Tu ne comprends pas ou quoi ? Pourquoi tu vas pas voir ailleurs si j'y suis ?}
-{111}{}{C'est terminé.}
+{109}{}{Terminé.}
+{110}{}{Rebonjour. Je n'ai toujours pas de réponses pour toi. Tu ne comprends pas ou quoi ? Pourquoi tu vas pas voir ailleurs si j'y suis ?}
+{111}{}{Terminé.}
 {112}{}{Elisabeth m'a dit ce que tu avais fait pour elle. Je tiens à m'excuser pour l'accueil que tu as reçu ici. Tu ne l'as certainement pas mérité. Que puis-je faire pour toi ?}
 {113}{}{Moi avoir questions.}
 {114}{}{Rien. Salut.}
@@ -47,13 +47,13 @@
 {146}{}{Ouais, je pense qu'il faut le faire.}
 {147}{}{Je n'sais pas.}
 {148}{}{Parfait. Bonne chance à toi et merci.}
-{149}{}{C'est terminé.}
+{149}{}{Terminé.}
 {150}{}{Eh bien, prends le temps d'y réfléchir, mais sache que tant que Darion sera dans les parages, je n'ai pas d'autre choix que de veiller à ce que rien ne change ici. C'est pour la sécurité de tous. Ce qui signifie aucun marché et tu es toujours persona non grata. Compris ?}
 {151}{}{Ok.}
 {152}{}{Bonjour. J'attends toujours que nos problèmes soient définitivement réglés. En d'autres termes, j'attends de jeter Darion dehors à coups de pieds au cul !}
-{153}{}{C'est terminé.}
+{153}{}{Terminé.}
 {154}{}{Tu as réussi. Nous ne sommes plus commandés par Darion. Merci. Je suis prêt à accepter ton pacte avec la RNC. Dis leur d'envoyer un de leurs représentants et c'est un marché conclu.}
-{155}{}{C'est terminé.}
+{155}{}{Terminé.}
 {156}{}{Merci pour cette nouvelle vie ! Nous te sommes très reconnaissants.}
 {157}{}{Va-t'en. Je n'ai rien à te dire.}
 {158}{}{Attends, avant que tu t'en ailles... J'ai trouvé cette carte d'accès il y a quelque temps et je ne sais vraiment pas à quoi elle sert. Elisabeth dit que tu as trouvé une sorte de porte derrière laquelle ils détenaient Chrissy. Cette carte permet peut-être de l'ouvrir. Tiens, prends-la.}

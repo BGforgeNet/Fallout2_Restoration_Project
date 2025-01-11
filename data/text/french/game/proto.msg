@@ -27,7 +27,7 @@
 {254}{}{électrique}
 {255}{}{emp}
 {256}{}{explosion}
-{300}{}{Aucune}
+{300}{}{Aucun}
 {301}{}{Roquette}
 {302}{}{Combustible pour lance-flammes}
 {303}{}{Cellule énergétique C}
@@ -145,7 +145,7 @@
 {625}{}{Pour avoir écrasé tes ennemis}
 {626}{}{Pour avoir anéanti tes ennemis sans une égratignure}
 {650}{}{[Terminé]}
-{651}{}{[Plus]}
+{651}{}{[Suite]}
 {652}{}{Suite}
 {653}{}{[Retour]}
 {654}{}{Retour}

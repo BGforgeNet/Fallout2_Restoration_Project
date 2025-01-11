@@ -87,7 +87,7 @@
 {186}{}{All right, then. Can I ask you another question?}
 {187}{}{Thanks for the warning. Maybe I should go talk to someone else.}
 {188}{}{It's down on the 3rd level, if I remember correctly. Haven't been down there in ages.}
-{189}{}{Why not?}
+{189}{}{Varför inte?}
 {190}{}{Can I ask you another question?}
 {191}{}{Thanks for the directions. Goodbye.}
 {192}{}{Oh, I don't know. Not much reason to go down into the Vault. It's mostly used for storage space nowadays. The only one down there is Martin, and... well, just between you and me, he's not a great conversationalist.}

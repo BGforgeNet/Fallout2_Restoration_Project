@@ -63,7 +63,7 @@
 {317}{}{Ce robot va être transformé en pièces de rechange s'il reste.}
 {320}{}{Ca sent le mutant, ici. Vire ton pote, et vite.}
 {321}{}{Ton ami mutant et toi, vous cherchez à servir de cibles ? Dégage-moi ça.}
-{322}{}{Ce mutant a intérêt à sortir d'ici immédiatement, ou je vais lui décalquer la tête contre le mur !!}
+{322}{}{Ce mutant a intérêt à sortir d'ici tout de suite, ou on va accrocher sa tête à un mur.}
 {325}{}{T'as vu le combat hier soir ?}
 {326}{}{Il faut aimer Reno...}
 {330}{}{Je croyais que le Président était un mythe, une sorte de père Fouettard pour faire peur aux enfants.}

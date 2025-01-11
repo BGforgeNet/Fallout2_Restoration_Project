@@ -95,7 +95,7 @@
 {276}{}{Salut.}
 {277}{}{Torr !}
 {279}{}{Torr voir }
-{280}{}{ ! (Re-bonjour. Puis-je t'aider ?)}
+{280}{}{! (Rebonjour. Puis-je t'aider ?)}
 {281}{}{ voir Torr (Eh bien, en fait, j'avais quelques questions à te poser.)}
 {282}{}{Au revoir, Torr. (Ca m'a fait plaisir de te revoir, Torr. Je ne faisais que passer. Au revoir.)}
 {300}{}{Torr aller chercher aide ! [Torr disparaît furtivement, te laissant avec les meuh-meuh... heu... les Brahmines.]}

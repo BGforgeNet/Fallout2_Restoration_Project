@@ -29,7 +29,7 @@
 {127}{}{Why yes, I do. I also have enough brains to decide who is or is not an asshole -- and I have
  concluded that you excel in that category! Now, why don't you leave before I dance on your face for
  half an hour?}
-{128}{}{All right.}
+{128}{}{Okej.}
 {129}{}{Bad lizard. Now I have to shoot you.}
 {130}{}{Hey, I'm sorry. I'll watch my tongue from now on.}
 {131}{}{Yes. We are quite diverse in our levels of education. I am doing my best to continue mine in my

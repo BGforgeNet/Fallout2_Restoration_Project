@@ -39,7 +39,7 @@
 {138}{}{Rebonjour. Les fonctions vitales de mon maître sont détruites. Es-tu mon nouveau maître ?}
 {139}{}{Ok.}
 {140}{}{Non.}
-{141}{}{D'accord.}
+{141}{}{Très bien.}
 {142}{}{Pas de problème.}
 {143}{}{Tu n'es pas mon maître. Je ne veux pas te parler. Au revoir.}
 {144}{}{Ok.}
@@ -80,7 +80,7 @@
 {179}{}{Ne t'en vas pas trop loin.}
 {180}{}{On devrait se disperser un peu.}
 {181}{}{C'est parti.}
-{182}{}{Ca suffit.}
+{182}{}{C'est tout pour l'instant.}
 {183}{}{Tous les systèmes fonctionnent à pleine capacité, maître.}
 {184}{}{Mes systèmes fonctionnent presque à pleine capacité, maître.}
 {185}{}{J'ai réparé ce que je pouvais, maître, mais j'aurais besoin d'une aide supplémentaire.}
@@ -98,7 +98,7 @@
 {197}{}{Ne t'en vas pas trop loin.}
 {198}{}{On devrait se disperser un peu.}
 {199}{}{C'est parti.}
-{200}{}{Ca suffit.}
+{200}{}{C'est tout pour l'instant.}
 {201}{}{J'attendrai ici ton retour, maître.}
 {202}{}{Toi te soigner.}
 {203}{}{Heu... ranger arme. Ok ?}
@@ -113,7 +113,7 @@
 {212}{}{Ne t'en vas pas trop loin.}
 {213}{}{On devrait se disperser un peu.}
 {214}{}{C'est parti.}
-{215}{}{Ca suffit.}
+{215}{}{C'est tout pour l'instant.}
 {216}{}{Rétraction des armes, maître.}
 {217}{}{Toi te soigner.}
 {218}{}{Toi attendre ici. Moi revenir.}
@@ -128,7 +128,7 @@
 {227}{}{Ne t'en vas pas trop loin.}
 {228}{}{Nous devrions nous disperser.}
 {229}{}{C'est parti.}
-{230}{}{Ca suffit.}
+{230}{}{C'est tout pour l'instant.}
 {231}{}{Diminution de la distance entre nous, maître.}
 {232}{}{Toi te soigner.}
 {233}{}{Toi attendre ici. Moi revenir.}
@@ -143,7 +143,7 @@
 {242}{}{Ne t'en vas pas trop loin.}
 {243}{}{On devrait se disperser un peu.}
 {244}{}{C'est parti.}
-{245}{}{Ca suffit.}
+{245}{}{C'est tout pour l'instant.}
 {246}{}{Augmentation de la distance entre nous, maître.}
 {247}{}{Toi te soigner.}
 {248}{}{Toi attendre ici. Moi revenir.}
@@ -158,7 +158,7 @@
 {257}{}{Reste près de moi.}
 {258}{}{On devrait se disperser un peu.}
 {259}{}{C'est parti.}
-{260}{}{Ca suffit.}
+{260}{}{C'est tout pour l'instant.}
 {261}{}{Augmentation maximale de la distance, maître.}
 {262}{}{Toi te soigner.}
 {263}{}{Toi attendre ici. Moi revenir.}
@@ -173,7 +173,7 @@
 {272}{}{Reste près de moi.}
 {273}{}{Ne t'en vas pas trop loin.}
 {274}{}{C'est parti.}
-{275}{}{Ca suffit.}
+{275}{}{C'est tout pour l'instant.}
 {276}{}{Je regrette, maître, mais il n'y a pas assez de place pour moi dans ton groupe. J'attendrai ici jusqu'à ce qu'une place se libère.}
 {277}{}{A tes ordres, maître.}
 {278}{}{Toi te soigner.}
@@ -189,7 +189,7 @@
 {288}{}{Reste près de moi.}
 {289}{}{Ne t'en vas pas trop loin.}
 {290}{}{On devrait se disperser un peu.}
-{291}{}{Ca suffit.}
+{291}{}{C'est tout pour l'instant.}
 {292}{}{Certainement. Tu as l'air d'un bon chien.}
 {293}{}{Non, merci.}
 {300}{}{Moi triste. Moi pas pouvoir réparer.}

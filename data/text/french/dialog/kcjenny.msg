@@ -24,8 +24,8 @@
 {291}{}{Parle-moi des trappeurs.}
 {292}{}{Je recherche un marchand. Tu en connais peut-être un qui fait dans les vieux objets, des trucs de *dans le temps*, par exemple ?}
 {293}{}{Sais-tu comment aller à La Fosse à partir d'ici ?}
-{294}{}{Salut.}
-{295}{}{Jenny, as-tu déjà entendu parler d'un J.E.K. ?}
+{294}{}{Au revoir.}
+{295}{}{Jenny, as-tu déjà entendu parler d'un J.E.K ?}
 {300}{}{Eh bien, il n'y a pas grand-chose à dire à propos des trappeurs. Ils attrapent quelques peaux de geckos. Parfois, ils ont de la chance et ils attrapent des geckos dorés... et ensuite ils viennent ici pour se défouler. C'est rapide et pas fatiguant... Juste comme j'aime.}
 {301}{}{C'est tout ce que je voulais savoir.}
 {302}{}{Intéressant. J'ai encore une question à te poser.}
@@ -64,7 +64,7 @@
 {390}{}{Tek de l'Abri ? Il a peut-être eu quelque chose dans ce genre-là. Je n'en suis pas sûre. Je sais qu'il avait pas mal de trucs anciens.}
 {391}{}{Merci, Jenny. J'aimerais te poser encore une question.}
 {392}{}{C'est tout ce que je voulais savoir pour l'instant.}
-{400}{}{Un J.E.K. ? C'est quoi ? Une sorte de petit gecko, je suppose. Désolée, je ne vois pas.}
+{400}{}{Un J.E.K ? C'est quoi ? Une sorte de petit gecko, je suppose. Désolée, je ne vois pas.}
 {401}{}{Merci, Jenny. J'aimerais te poser encore une question.}
 {402}{}{C'est tout ce que je voulais savoir pour le moment.}
 {500}{}{[Jenny te donne une petite tape.] Ne me touche pas ! }

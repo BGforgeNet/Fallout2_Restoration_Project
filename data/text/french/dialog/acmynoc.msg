@@ -1,7 +1,7 @@
 {100}{}{Tu vois le garde du pont.}
 {101}{}{Tu vois Mynoc, le garde du pont.}
 {150}{}{Devant toi se dresse un grand guerrier de ton village, tenant une lance.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Bonjour, Etre Elu. Tu pars chercher le J.E.K ?}
 {153}{}{Oui.}
 {154}{}{Oui. Mais avant de partir, j'aimerais te poser quelques questions.}
@@ -24,13 +24,13 @@
 {171}{}{Merci. Je dois partir. Au revoir.}
 {172}{}{Je l'espère.}
 {173}{}{Ta vanité exagérée nous fait tous souffrir ! Au revoir !}
-{174}{}{Salut.}
+{174}{}{Au revoir.}
 {175}{}{Pourquoi ? Regarde autour de toi, notre village se meurt. Les jardins se dessèchent et chaque jour les plus faibles disparaissent. Tu dois nous rapporter l'Eden avant qu'il ne soit trop tard !}
 {176}{}{Je vais m'en occuper. Au revoir.}
 {177}{}{Je suis l'Etre Elu. Je ne *dois* faire que ce qui me plaît. Au revoir.}
 {178}{}{Je ne me souviens pas de son nom, je me souviens juste qu'il était vieux et bruyant, trop bruyant pour faire preuve de bonnes manières. Mais il connaissait des tas de choses. Il venait de Klamath, à l'Est, comme je l'ai dit.}
 {179}{}{Merci, au revoir.}
-{180}{}{Tu es encore là ? Tu dois aller chercher le J.E.K. Ca ne nous aide pas que tu restes ici.}
+{180}{}{Tu es encore là ? Tu dois aller chercher le J.E.K Ca ne nous aide pas que tu restes ici.}
 {181}{}{Occupe-toi seulement de ce pont. Je peux me débrouiller sans l'aide de personne.}
 {182}{}{J'allais partir. Au revoir.}
 {183}{}{Je n'ai rien d'autre à te dire. Quelle insoumission !}
@@ -174,7 +174,7 @@
 {1103}{}{Voilà ce que serait notre beau village.}
 {1104}{}{Notre poste d'approvisionnement est à quelques jours à l'Est d'ici.}
 {1105}{}{L'Abri, c'est le paradis.}
-{1106}{}{Tu es l'Elu.}
+{1106}{}{Tu es l'Etre Elu.}
 {1107}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1108}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1109}{}{Avec cette poudre magique, tu vas guérir, mais cela te rendra somnolent.}

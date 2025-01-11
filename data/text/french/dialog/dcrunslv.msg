@@ -21,7 +21,7 @@
 {285}{}{Je mérite mieux que ça.}
 {300}{}{Ahhh !}
 {301}{}{Pas tuer ! Pas tuer !}
-{302}{}{Stop !}
+{302}{}{Arrête !}
 {303}{}{Aiiiide !}
 {304}{}{Courrez !}
 {305}{}{Laissez-moi tranquille !}

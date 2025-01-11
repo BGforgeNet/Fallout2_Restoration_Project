@@ -42,7 +42,7 @@
 {258}{}{Lara voulait que je te demande la permission de se battre avec Tyler.}
 {259}{}{Puis-je adhérer à la Guilde ?}
 {260}{}{Que peux-tu me dire sur ta Guilde ?}
-{261}{}{J'aimerais participer à une chasse à l'esclave.}
+{261}{}{J'aimerais participer à une chasse aux esclaves.}
 {262}{}{Tant pis. Salut.}
 {263}{}{ vouloir tuer.}
 {264}{}{Non.}
@@ -64,7 +64,7 @@
 {301}{}{Ca m'a l'air amusant. Comment pourrais-je participer ?}
 {302}{}{Je voudrais te poser une autre question.}
 {303}{}{Oh, Ok. Au revoir.}
-{310}{}{Regarde-moi ça, t'as même pas pleuré. Je suis fier de toi. Ca te va bien d'ailleurs ce tatouage. Pousse un bon beuglement quand tu voudras participer à ta première chasse à l'esclave.}
+{310}{}{Regarde-moi ça, t'as même pas pleuré. Je suis fier de toi. Ca te va bien d'ailleurs ce tatouage. Pousse un bon beuglement quand tu voudras participer à ta première chasse aux esclaves.}
 {311}{}{Merci. Au revoir.}
 {312}{}{J'accepte.}
 {313}{}{Moi Tuer MAINTENANT !}
@@ -82,7 +82,7 @@
 {341}{}{Ok.}
 {342}{}{Oh !}
 {350}{}{Quand ils commencent à marquer les esclaves, tu peux revenir si tu veux. Ils sont entraînés spécialement pour ça alors n'essaie pas de soumettre les survivants tout seul. Fais ce que tu veux tant que tu ne gâches pas la marchandise.}
-{351}{}{D'accord.}
+{351}{}{Très bien.}
 {352}{}{Euh...}
 {360}{}{Ah, ouais. Elle est pas mal. Je t'en donne $}
 {361}{}{Ca va. Je pourrais te le prendre pour... oh, disons... $}
@@ -216,7 +216,7 @@
 {731}{}{Ah bon ?}
 {732}{}{Heu, oh.}
 {740}{}{Oui, j'ai bien peur que les accidents arrivent souvent par ici. Et je crois qu'il va s'en produire un autre très bientôt. [Metzger sourit joyeusement puis acquiesce en direction de ses hommes.]}
-{741}{}{Amenez-vous !}
+{741}{}{Vas-y, ramène-toi !}
 {742}{}{Je ne m'en sortirai pas, c'est ça ?}
 {750}{}{Oh, mais ça sera amusant. Fais-moi confiance.}
 {751}{}{Va te faire mettre !}

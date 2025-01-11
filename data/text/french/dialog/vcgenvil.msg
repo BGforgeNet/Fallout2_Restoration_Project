@@ -1,5 +1,5 @@
-{100}{}{Tu vois un villageois.}
-{101}{}{Tu vois un villageois.}
+{100}{}{Tu vois un paysan.}
+{101}{}{Tu vois un paysan.}
 {102}{}{Bonjour.}
 {103}{}{Bonne journée.}
 {104}{}{Bienvenue dans notre Village.}

@@ -14,7 +14,7 @@
 {113}{}{Je veux voir la présidente Tandi.}
 {114}{}{Je veux voir la présidente Tandi.}
 {115}{}{Je cherche un emploi.}
-{116}{}{Où suis-je ici ?}
+{116}{}{Quel est cet endroit ?}
 {117}{}{Rien, merci.}
 {118}{}{Moi partir.}
 {119}{}{Je regrette, il n'y a pas de toilettes publiques ici. Va-t'en.}

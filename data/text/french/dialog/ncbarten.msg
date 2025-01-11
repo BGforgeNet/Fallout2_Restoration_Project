@@ -15,7 +15,7 @@
 {219}{}{On ne laisse pas les clients prendre du Buffout ici.}
 {225}{}{Tu ferais mieux de sortir d'ici avant que je te transforme en passoire, compris ?}
 {226}{}{Allez... Dégage. On ne veut pas d'ennuis.}
-{227}{}{Tu vas finir par te faire tuer si tu restes dans les parages. Fiche le camp !}
+{227}{}{Tu vas finir par te faire tuer si tu restes dans les parages. Casse-toi.}
 {228}{}{On est en rupture de stock. Pars maintenant.}
 {236}{}{ ! C'est quoi ton poison ?}
 {237}{}{Hééééééé, champion ! C'est quoi ton poison ?}

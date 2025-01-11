@@ -2,7 +2,7 @@
 {150}{}{Tu vois la Mamma, affairée à la cuisine et au ménage.}
 {151}{}{Tu vois une femme d'un certain âge, robuste, au sourire jovial.}
 {200}{}{Bonjour. Je suis la Mamma. Je m'trompe ou t'es pas d'ici ?!}
-{201}{}{Re-bonjour. Que peut faire la Mamma pour toi ?}
+{201}{}{Rebonjour. Que peut faire la Mamma pour toi ?}
 {202}{}{Moi }
 {203}{}{Hum. Ok ? Au revoir Môman.}
 {220}{}{Tu bouffes tellement que tu nous as presque mis sur la paille ! Trouve-toi donc un autre endroit ! Tu as assez mangé ici pour aujourd'hui.}
@@ -30,7 +30,7 @@
 {300}{}{Tu as bon appétit. J'aime les gens qui mangent bien. Est-ce que ça te suffira ?}
 {301}{}{Oh que non, Mamma, je vais en reprendre !}
 {302}{}{Certainement. Laisse-moi te poser une question.}
-{303}{}{Ca suffit pour le moment. Au revoir Mamma.}
+{303}{}{C'est tout pour le moment. Au revoir Mamma.}
 {320}{}{Bon, j'ai besoin de quelqu'un pour livrer un repas à Smitty. Il est au Sud-Ouest d'ici, au dépotoir. Tu veux bien me rendre ce service ? En échange, tu auras un repas gratuit.}
 {321}{}{Bien sûr. Ca ne me dérange pas.}
 {322}{}{Laisse-moi réfléchir. En attendant, j'aimerais te poser une autre question. }

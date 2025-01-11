@@ -77,7 +77,7 @@
 {176}{}{Certainement.}
 {177}{}{Essaie !}
 {178}{}{On a des agents et des sympathisants dans plusieurs villes du Nord. On fait passer le message et on attaque les esclavagistes à chaque occasion.}
-{179}{}{Re-bonjour. T'as changé d'avis... Tu te joins à nous ?}
+{179}{}{Rebonjour. T'as changé d'avis... Tu te joins à nous ?}
 {180}{}{Ca ne fait rien.}
 {181}{}{Ca ne t'appartient pas. Alors tu dégages ou je vais me mettre en rage !}
 {182}{}{Je ne sais pas ce que t'as fait à Gond, mais tu vas payer !}
@@ -114,7 +114,7 @@
 {230}{}{J'ai encore besoin de temps.}
 {231}{}{Je suis prêt à partir.}
 {232}{}{Tu rencontreras les autres rangers sur le chemin. Que la chance soit avec toi.}
-{233}{}{[FIN]}
+{233}{}{[Terminé]}
 {234}{}{J'ai entendu les nouvelles. Merci de ton aide. Nous sommes tes débiteurs.}
 {235}{}{S'il te plaît, ne sois pas trop long. Cette attaque est importante dans notre combat contre l'esclavage..}
 {236}{}{Tu aides les Rangers dans leur lutte continuelle contre l'esclavage.}

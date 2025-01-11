@@ -1,6 +1,6 @@
 {100}{}{Tu vois un garde.}
 {150}{}{Le garde se tient devant la vieille église.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Comment oses-tu te montrer encore ici ?!}
 {153}{}{[Terminé]}
 {154}{}{Hé ! Personne n'entre dans l'entrepôt de la Famille Wright la nuit !}
@@ -28,7 +28,7 @@
 {176}{}{J'ai été envoyé pour une affaire officielle par le boss. Ecarte-toi de mon chemin !}
 {177}{}{Je viens pour t'arracher la tête.}
 {178}{}{Désolé, je me suis trompé.}
-{179}{}{Re-bonjour. Tu peux entrer.}
+{179}{}{Rebonjour. Tu peux entrer.}
 {180}{}{Merci.}
 {181}{}{Hé, fous-moi le camp de devant cette porte !}
 {182}{}{Ne touche pas à cette porte sauf si tu veux avoir des problèmes.}
@@ -43,4 +43,4 @@
 {203}{}{Allez, termine ce que t'as à faire et merci.}
 {250}{}{Tu sais quoi mon salaud ? J'en ai vraiment marre de tes conneries !}
 {251}{}{Tu sais quoi salope ? J'en ai vraiment marre de tes conneries !}
-{252}{}{[FIN]}
+{252}{}{[Terminé]}

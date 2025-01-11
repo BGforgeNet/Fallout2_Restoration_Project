@@ -34,7 +34,7 @@
 {133}{}{Oui.}
 {134}{}{Non.}
 {135}{}{Arrgh ! Quelle folie de leur faire confiance ! Si tu changes d'avis, viens me chercher.}
-{136}{}{Salut.}
+{136}{}{Au revoir.}
 {137}{}{Tu as changé d'avis ? Tu vas m'aider à sortir d'ici ?}
 {138}{}{Oui.}
 {139}{}{Non.}

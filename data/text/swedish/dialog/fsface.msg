@@ -25,7 +25,7 @@
 {124}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. The healing process will require 5 minutes time.}
 {125}{}{Okej.}
 {126}{}{Never mind.}
-{127}{}{All right.}
+{127}{}{Okej.}
 {128}{}{Glöm det.}
 {129}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. The poison will first be analyzed and then an antidote will be synthesized. Tissue damage will then be repaired. This process will require 30 minutes.}
 {130}{}{Ok.}

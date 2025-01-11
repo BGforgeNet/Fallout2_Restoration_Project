@@ -1,4 +1,4 @@
-{100}{}{Tu vois un hubologiste.}
+{100}{}{Tu vois un Hubologiste.}
 {101}{}{Penses-tu pouvoir échapper à l'oeil courroucé du Centre ?}
 {102}{}{Vous n'êtes que de la chair à pâté, des recrues. Priez pour ne pas devenir des ennemis !}
 {103}{}{Tu aimerais peut-être te joindre aux Hubologistes ?}

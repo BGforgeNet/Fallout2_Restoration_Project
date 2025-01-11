@@ -1,6 +1,6 @@
 {100}{}{Halte, Wastelander ! Nous cherchons un ennemi de l'Enclave. Identifie-toi.}
 {101}{}{Tout le monde déteste l'enclave. Et vous y compris !}
-{102}{}{L'enclave ? Connais pas. Je suis un simple voyageur.}
+{102}{}{Ecoute, je ne suis qu'un simple voyageur. Je n'ai jamais entendu parler de l'Enclave. La personne que tu cherches doit être assez dangereuse, parce que tu as avez l'air d'être sérieux.}
 {103}{}{Assez. Tuez-le.}
 {104}{}{Oh, ça va être marrant !}
 {105}{}{[Fronce les sourcils.] Pourquoi devrais-je te croire ? T'es aux alentours de Gecko. Tu pourrais être celui que nous cherchons.}

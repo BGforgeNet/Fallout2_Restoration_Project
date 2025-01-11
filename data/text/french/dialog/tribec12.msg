@@ -7,7 +7,7 @@
 {106}{}{Je suis en quête du J.E.K sacré. Sais-tu quelque chose à son sujet ?}
 {107}{}{Je recherche une femme disparue. C'est la soeur de mon ami Sulik.}
 {108}{}{Y a-t-il quelque chose d'autre à faire par ici ?}
-{109}{}{Ca n'a pas d'importance. Salut.}
+{109}{}{Ca n'a pas d'importance. Au revoir.}
 {110}{}{Je connais un animal de ce nom là, peut-être est-ce ce que tu recherches ? Sinon, je suis désolé, nous sommes une tribu primitive et n'avons aucun contact avec le monde extérieur.}
 {111}{}{Je voudrais te demander autre chose.}
 {112}{}{C'est tout ce que je voulais savoir. Salut.}
@@ -24,7 +24,7 @@
 {130}{}{Je n'ai personnellement besoin de rien, mais je suis sûr que d'autres ont besoin d'aide. Demande aux gens à travers le village.}
 {140}{}{Moi chercher J.E.K.}
 {141}{}{Moi chercher femelle perdue. Elle soeur mon ami Sulik.}
-{142}{}{Salut.}
+{142}{}{Au revoir.}
 {150}{}{Moi demander plus.}
 {160}{}{Oh, lui Etre juste là. Sulik, chef vouloir parler toi.}
 {161}{}{Oh, lui Etre bien. Lui attendre moi.}

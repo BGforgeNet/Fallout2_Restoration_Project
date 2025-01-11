@@ -4,7 +4,7 @@
 {103}{}{Oui soldat ?}
 {104}{}{Quoi être ici ?}
 {105}{}{Moi disais juste bonjour. Moi partir maintenant.}
-{106}{}{Où suis-je ici ?}
+{106}{}{Quel est cet endroit ?}
 {107}{}{Salut. A plus.}
 {108}{}{Ici c'est le centre informatique. Par là, c'est le noyau, le terminal est juste à côté, et ces périphériques sont les unités de stockage des données sur holobandes. C'est le plus récent et le plus puissant des centres.}
 {109}{}{Oh. Heu, toi faire quoi ?}
@@ -29,12 +29,12 @@
 {128}{}{Tu ne portes pas ton uniforme.}
 {129}{}{Tu ferais mieux d'aller mettre ton uniforme. L'armurerie est sous le hall à gauche.}
 {130}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller à la réserve.}
-{131}{}{Mais bon sang, qui es-tu ?! -- Alerte ! Des intrus !!!}
-{132}{}{La base a été infiltrée ! Alerte !!}
-{133}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
+{131}{}{Mais bon sang, qui es-tu ? -- Alerte ! Des intrus !}
+{132}{}{La base a été infiltrée ! Alerte !}
+{133}{}{Un groupe d'intrus ! Sonnez l'alarme !}
 {134}{}{Merde ! Lancez les sauvegardes !}
 {135}{}{Arrêtez toutes les opérations secrètes.}
 {136}{}{Verrouillez le système et activez tous les mots de passe.}
-{137}{}{Je suis un chercheur, pas un combattant !}
+{137}{}{Je suis un scientifique, pas un combattant !}
 {138}{}{Le point rouge de la diode du laser se pose sur l'ennemi. Tu presses la détente.}
 {139}{}{A l'aide ! Au centre informatique !}

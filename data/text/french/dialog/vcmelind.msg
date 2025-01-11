@@ -19,7 +19,7 @@
 {118}{}{Mon nom ? Eh bien c'est Melinda. Je suis Premier Officier d'Accueil de la Cité de l'Abri.}
 {119}{}{Ca a l'air dur, comme boulot.}
 {120}{}{Puis-je te poser une autre question ?}
-{121}{}{Merci pour ton aide.}
+{121}{}{Merci de ton aide.}
 {122}{}{L'entrée est une zone dans laquelle nous protégeons les étrangers les moins fortunés. Beaucoup vivent sous notre protection et ajoutent à la splendeur de la Cité de l'Abri. Le centre-ville est la partie où vivent les citoyens.}
 {123}{}{Pourquoi seuls les citoyens vivent-ils dans le centre-ville ?}
 {124}{}{Puis-je te poser une autre question ?}
@@ -37,7 +37,7 @@
 {136}{}{Nous ne le faisons pas pour *nous-mêmes*. Nous le faisons pour le mieux-être de chacun.}
 {137}{}{Ouais, c'est sûr. Ca va mieux en le disant comme ça.}
 {138}{}{Puis-je te poser une autre question ?}
-{139}{}{Merci pour ton aide.}
+{139}{}{Merci de ton aide.}
 {140}{}{Tu n'as pas l'air d'être en mesure de comprendre ce que nous faisons ici.}
 {141}{}{C'est exactement ça. Je n'arrive pas à comprendre, parce que ça n'a aucun *sens*.}
 {142}{}{Simple curiosité. Merci de ton aide.}

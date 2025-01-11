@@ -21,7 +21,7 @@
 {120}{}{Euh...}
 {121}{}{Hé, hé, hé !}
 {122}{}{Bon, alors, on ne fait pas affaire ensemble. Passe ton chemin.}
-{123}{}{[FIN]}
+{123}{}{[Terminé]}
 {124}{}{Quitte ma ferme !}
 {125}{}{Personne ne prendra ma maison !}
 {126}{}{Sale bandits !}

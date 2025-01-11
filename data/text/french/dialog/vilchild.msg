@@ -1,4 +1,4 @@
-{100}{}{Un petit garçon.}
+{100}{}{Tu vois un petit garçon.}
 {101}{}{Tu vois une petite fille.}
 {102}{}{Il te sourit lorsqu'il te voit.}
 {103}{}{Elle te sourit lorsqu'elle te voit.}

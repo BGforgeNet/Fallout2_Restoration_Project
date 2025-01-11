@@ -12,7 +12,7 @@
 {111}{}{[Jouer à Pierre Papier Ciseaux]}
 {112}{}{[Retour]}
 {113}{}{[Déconnexion]}
-{114}{}{[Continue]}
+{114}{}{[Continuer]}
 {115}{}{Tu as trouvé des fichiers concernant le J.E.K et les Abris.}
 {116}{}{[Lire le fichier à propos du J.E.K]}
 {117}{}{[Lire le fichier à propos des Abris]}
@@ -21,7 +21,7 @@
 {120}{}{Les Abris ont été conçus par Vault-Tec au milieu du 21ème siècle. Ils étaient destinés à servir de refuge aux citoyens américains pendant la guerre.}
 {121}{}{Lors de tes recherches, tu trouves des centaines de livres et de magazines au format numérique répertoriés sur le disque dur. Tu ne saurais pas même par où commencer à chercher quelque chose d'utile.}
 {122}{}{Lors de tes recherches, tu trouves des centaines de livres et de magazines au format numérique répertoriés sur le disque dur. Puisque tu connais les méthodes usuelles de classement de l'information, peut-être qu'une recherche par thème révélera quelque chose d'intéressant.}
-{123}{}{[Plus]}
+{123}{}{[Suite]}
 {124}{}{D'après la pub, le kit comprend une *Unité Support à la Réplication*, laquelle *réplique la nourriture et les objets de base nécessaires pour la construction de votre nouveau monde*, un *Lecteur d'Holodisques avec sa bibliothèque*, qui contient un *assortiment d'encyclopédies de la bibliothèque du Congrès, et d'autres informations vitales, le tout contenu dans 460 holodisques faciles à utiliser !* et il comprend même un *crayon lampe-torche miniature !*. Sans aucun doute, cet appareil prodigieux est exactement ce dont tu as besoin pour sauver ton village mourant.}
 {125}{}{[En lire plus]}
 {126}{}{Tu continues à parcourir les fichiers, mais la seule mention que tu trouves à propos de l'Abri 13, indique simplement qu'il se situe en Californie, ce qui ne t'aide pas beaucoup.}
@@ -49,7 +49,7 @@
 {207}{}{L'ordinateur fait son choix... Calcul en cours... Match nul !}
 {300}{}{[L'écran de l'ordinateur affiche divers motifs colorés.]}
 {301}{}{Ohhh ! Jolies couleurs.}
-{302}{}{[Se déconnecter à regret]}
+{302}{}{[S'éclipser.]}
 {400}{}{[En lire plus]}
 {401}{}{[Retourner au menu]}
 {402}{}{Recherche par thème.}
@@ -72,7 +72,7 @@
 {430}{}{[Retour]}
 {500}{}{Le J.E.K était un dispositif créé par Future-Tec, une division de Vault-Tec, dans le but de redonner vie aux terres dévastées. Le kit contient une Unité de Réplication Moléculaire (réplique de la nourriture et les biens de première nécessité requis pour créer un nouveau monde) et un Lecteur d'Holodisque avec une bibliothèque complète (incluant une sélection de la Bibliothèque du Congrès, un lot entier d'encyclopédies et d'autres informations vitales, le tout sur quatre cent soixante holodisques.)}
 {501}{}{Le J.E.K n'est pas vraiment un réplicateur au sens propre du terme. Il contient un système de fertilisation rempli de graines alimentaires, d'engrais, et de produits chimiques capables de transformer une terre dévastée (et éventuellement des portions de la lune conditionnées pour accepter le J.E.K ) en un sol fertile prêt à être cultivé. Le J.E.K est conçu pour être "désassemblé" au long du processus pour aider à construire la collectivité. Pour tout autre information ou besoin, les livres d'aide/Bibliothèque du Congrès/Encyclopédies contenus dans la bibliothèque du J.E.K peuvent être consultés.}
-{502}{}{[Plus]}
+{502}{}{[Suite]}
 {503}{}{Il semble que le J.E.K lui-même soit conçu pour être démonté au cours de son utilisation. Tu lis un exemple de comment sa source d'alimentation à fusion froide, est destinée à être utilisée pour la production énergétique de la ville. Le J.E.K contient même des instructions sur le démontage des sections de l'Abri pour créer les maisons et les structures défensives pour la nouvelle communauté. Après avoir lu les fichiers, tu constates que ce n'est pas exactement l'appareil magique que la doyenne espérait, mais trouver le J.E.K semble toujours la meilleure option pour sauver ta tribu.}
 {1000}{}{Tu transfères l'Holodisque Botanique de l'EPA.}
 {2000}{}{Tu formates la base de données de l'Abbaye.}

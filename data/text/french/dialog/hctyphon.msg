@@ -6,7 +6,7 @@
 {105}{}{Maison des vieilles Goules ?}
 {106}{}{Qui es-tu ?}
 {107}{}{Hé, t'as déjà entendu parler du Jardin d'Eden en Kit ?}
-{108}{}{Salut.}
+{108}{}{Au revoir.}
 {109}{}{Encore un enfant du désert, hein ? Hé, tu veux qu j'te dise un secret ?}
 {110}{}{Ouaip !}
 {111}{}{Naan.}
@@ -18,7 +18,7 @@
 {117}{}{J'avais d'autres questions.}
 {118}{}{Au revoir !}
 {119}{}{Hé. Bon, d'accord. J'ai rien du tout pour toi du tout. Au r'voir.}
-{120}{}{Salut.}
+{120}{}{Au revoir.}
 {121}{}{Ha, tu dois d'abord me rendre un p'tit service.}
 {122}{}{D'accord !}
 {123}{}{Nan !}
@@ -138,7 +138,7 @@
 {312}{}{De la cervelle... De la cerveeeelle. Désolé, vieilles habitudes.}
 {313}{}{C'est pas grave. Tu sais bien que je n'en ai pas.}
 {314}{}{Bien sûr, le purin marche bien, mais y'a rien de mieux qu'un cadavre pourri en compost.}
-{315}{}{Alors c'est pour ça que tu m'as dit de venir !! Choix évident.}
+{315}{}{Alors c'est pour ça que tu m'as dit de venir ! Choix évident.}
 {316}{}{Ecoute, y'a rien de mieux qu'une bonne vieille course.}
 {317}{}{Tu sens vraiment le vent à travers tes mèches de cheveux ?}
 {318}{}{Je n'ai pas fécondé depuis des années !}
@@ -150,7 +150,7 @@
 {324}{}{J'aime cet endroit. Je pense planter mes racines ici.}
 {325}{}{Ok, j'en ai marre des vannes florales sans fin, mon pote.}
 {326}{}{Je me demande comment mes cousins d'Arroyo se débrouillent. J'espère qu'ils fleurissent.}
-{327}{}{Bien sûr qu'ils fleurissent !! A moins que des connards de base les butent tous.}
+{327}{}{Bien sûr qu'ils fleurissent ! A moins que des connards de base les butent tous.}
 {328}{}{Bon, je pense que je vais aller ouvrir une porte ou un truc comme ça...}
 {329}{}{Je ressens un manque de pouces opposables.}
 {330}{}{Surtout pour ne pas prendre racine...}

@@ -111,4 +111,4 @@
 {302}{}{Hej då.}
 {303}{}{Ghosts?}
 {400}{}{The message was received well. The town of Modoc would like to establish trade with your people.}
-{401}{}{Modoc happy. Trade good!}
+{401}{}{Modoc glad. Handel bra!}

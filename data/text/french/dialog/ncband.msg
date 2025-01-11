@@ -17,9 +17,9 @@
 {302}{}{Meeerci.}
 {303}{}{Merci les gars.}
 {400}{}{Hoooo...}
-{402}{}{My baby ain't comin' home...}
-{405}{}{My baby done me wroooong...}
-{408}{}{My baby gone an' left me all aloooone...}
+{402}{}{Mon bébé ne rentrera pas à la maison...}
+{405}{}{Mon bébé m'a fait du tort...}
+{408}{}{Mon bébé est parti et m'a laissé tout seul...}
 {409}{}{}
 {500}{}{Continue}
 {501}{}{Goûte à la souffrance.}
@@ -53,14 +53,14 @@
 {913}{}{Laisse-moi une chose avant qu'on se sépare...}
 {915}{}{Lorsque je suis seul...}
 {916}{}{Avec mes pensées...}
-{917}{}{Je serai avec toiiiiiii...}
+{917}{}{Je serai... avec toiiiiiii...}
 {918}{}{A tisser des romances...}
 {919}{}{En tâchant de croire qu'elles sont vraies...}
 {920}{}{Ho, donne-nous tes lèvres pour un bref instant...}
 {921}{}{Et mon imagination fera vivre ce moment...}
 {923}{}{Donne-moi ce que tu peux...}
 {925}{}{::Bouche en trompette::}
-{930}{}{Je serai avec toiiiiiii...}
+{930}{}{Je serai... avec toiiiiiii...}
 {933}{}{Hooooo...}
 {935}{}{Lèvres pour un instant...}
 {937}{}{Feront vivre ce moment...}

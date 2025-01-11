@@ -1,6 +1,6 @@
 {100}{}{Tu vois un bipède mâle de l'espèce des homo-sapiens.}
-{101}{}{Tu vois un citadin mâle.}
-{102}{}{Tu vois un citadin mâle. Il est sale, mais il a la tête haute.}
+{101}{}{Tu vois un habitant de la ville.}
+{102}{}{Tu vois un habitant de la ville. Il est sale, mais il a la tête haute.}
 {131}{}{Tous les mutants... morts... Je n'y crois pas.}
 {132}{}{Qui aurait fait une chose pareille ?}
 {133}{}{D'où venait donc ce poison ?}

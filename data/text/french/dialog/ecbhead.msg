@@ -51,7 +51,7 @@
 {150}{}{SALETE DE TOURISTES !}
 {151}{}{JE T'AI DEJA DONNE UN CADEAU.}
 {152}{}{HORS DE MA VUE !}
-{153}{}{Imbécile !}
+{153}{}{Imbécile.}
 {154}{}{QUOI ?!!}
 {155}{}{CREVE !}
 {156}{}{Désintégration du joueur avec une animation de mise à mort au plasma.}

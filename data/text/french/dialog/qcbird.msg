@@ -10,7 +10,7 @@
 {109}{}{Je suis juste ici pour revérifier nos projets secrets.}
 {110}{}{Je suis ici pour te tuer.}
 {111}{}{Continue soldat. Continue. Vous faites du super boulot les gars. Nous sommes prêts à faire face à n'importe quel imprévu.}
-{112}{}{Heinh ?}
+{112}{}{Hein ?}
 {113}{}{Euh, oui. Bien, je ferais mieux de terminer ma ronde. Au revoir.}
 {114}{}{Hmm, dis-moi, comment écrit-on patate ? Avec un ou deux "T" ?}
 {115}{}{Hmm, dis-moi, comment écrit-on cristal ? Avec un "I" ou un "Y" ?}

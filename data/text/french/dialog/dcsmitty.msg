@@ -30,9 +30,9 @@
 {282}{}{Réflexion faite, laisse-moi te poser une autre question.}
 {283}{}{Une autre fois, peut-être. Au revoir, Smitty.}
 {300}{}{Eh bien, à mon avis, ça ressemble à un vieux contrôleur de transmission. Hum, je parie que si je l'utilisais avec la vieille Highwayman, je la ferais ronronner comme un chaton.}
-{301}{}{Heinh ?}
+{301}{}{Hein ?}
 {310}{}{Hum, on dirait un régulateur de carburant. Si j'avais une voiture en état de marche, je pourrais améliorer sa consommation avec ça.}
-{311}{}{Heinh ?}
+{311}{}{Hein ?}
 {320}{}{C'était vraiment super sympa de ta part. Merci mucho. Voilà un petit quelque chose pour le dérangement. Ca te rendra service par ici. (Il te tend un Stimpak.)}
 {321}{}{Merci Smitty. Pas de problème. A un de ces jours !}
 {322}{}{Eh bien, heu... Merci, mais j'ai déjà fait un tour chez La Mamma et j'ai déjà mangé. Je ne veux plus rien.}
@@ -52,7 +52,7 @@
 {370}{}{Vas-y doucement, laisse-lui le temps de se chauffer !}
 {371}{}{D'accord. Merci Smitty.}
 {380}{}{Bon, c'est beaucoup et pas beaucoup en même temps.}
-{381}{}{Heinh ?}
+{381}{}{Hein ?}
 {390}{}{Bon, c'est bien d'avoir un Régulateur de carburant, mais il te faut un Contrôleur de transmission.}
 {391}{}{Pourquoi ça ?}
 {400}{}{Parce que si tu avais un contrôleur de transmission et $2 000, je pourrais te réparer la Chrysalis Motors Highwayman que j'ai ici et tu aurais beaucoup de style.}

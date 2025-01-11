@@ -14,7 +14,7 @@
 {233}{}{Laisse ça tranquille !}
 {234}{}{Non mais tu t'crois où ?}
 {240}{}{Au voleur !}
-{250}{}{On ne tolère pas ça ici !}
+{250}{}{On ne tolère pas ça ici.}
 {300}{}{Hé, ma jolie, tu fais quoi après le travail ?}
 {301}{}{Tu es superbe comme toujours.}
 {302}{}{Tu sais vraiment mettre les petits plats dans les grands, ma jolie.}

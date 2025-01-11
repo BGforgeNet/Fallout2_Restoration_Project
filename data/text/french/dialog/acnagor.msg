@@ -38,8 +38,8 @@
 {205}{}{Bienvenue à la maison, cousin. Les choses ne vont pas si bien que ça ici. As-tu trouvé le Saint-Treize et le J.E.K ?}
 {206}{}{Moi pas trouver. Pardon.}
 {207}{}{Je regrette Nagor, toujours pas.}
-{208}{}{Re-bonjour cousin. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
-{209}{}{Re-bonjour cousin. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
+{208}{}{Rebonjour cousin. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
+{209}{}{Rebonjour cousin. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
 {210}{}{Bonjour cousin.}
 {211}{}{Bonjour cousin.}
 {212}{}{Toi pas avoir l'air comme d'habitude.}

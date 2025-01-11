@@ -7,12 +7,12 @@
 {203}{}{Ouvert}
 {204}{}{Blé}
 {205}{}{Arbre}
-{206}{}{[FIN]}
+{206}{}{[Terminé]}
 {300}{}{Code incorrect. Verrouillage de la porte. Merci de contacter le chef des relations publiques pour le code.}
-{301}{}{[FIN]}
+{301}{}{[Terminé]}
 {400}{}{Confirmer le code.}
-{401}{}{[FIN]}
+{401}{}{[Terminé]}
 {402}{}{Cette porte est verrouillée électroniquement.}
 {403}{}{Porte déverrouillée. Merci d'utiliser l'équipement Vault-Tec.}
-{404}{}{[FIN]}
+{404}{}{[Terminé]}
 {500}{}{Il n'y a pas de serrure à crocheter.}

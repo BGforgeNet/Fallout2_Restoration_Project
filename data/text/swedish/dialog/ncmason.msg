@@ -122,7 +122,7 @@
 {515}{}{(Nods, frowning slightly.) Well, awright then... go tell Mr. Salvatore what you found.}
 {516}{}{Oh, REALLY? Is THAT what I should do? Thanks, Mason. Without you, I wouldn't even know how to get
  from place to place. Sheesh. Idiot.}
-{517}{}{All right.}
+{517}{}{Okej.}
 {520}{}{You done the job yet?}
 {525}{}{Go see Mr. Salvatore. He's waiting for you.}
 {530}{}{Awright, then. You're gonna be a one-man collection agency. Drill's simple: Visit Renesco's Pharmacy

@@ -80,7 +80,7 @@
 {490}{}{Well, you're probably right. I got kinda settled in here.}
 {491}{}{I see.}
 {500}{}{Well, then again, mebbe' I would too. I got all comfortable here.}
-{501}{}{I understand.}
+{501}{}{Jag förstår.}
 {510}{}{I wouldn't mind selling the car though. If someone brought me the battery - no strike that, uh, I guess I'd need a fuel cell controller. Yeah, if'n I had one of them, I'd sell the car for $2,000. Even install the controller so it'd run right.}
 {511}{}{That sounds interesting. I'll have to come back if I ever find a fuel cell controller. Let me ask you something else right now.}
 {512}{}{When I find one, I'll be back. Goodbye, Smitty.}

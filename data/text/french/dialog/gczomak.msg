@@ -1,7 +1,7 @@
 {100}{}{Tu vois une Goule plus grande que la moyenne.}
 {101}{}{Tu vois Zomak, que certains surnomment « Le Destructeur ».}
 {102}{}{Tu vois une grande Goule bourrue, dont le visage, sous un front pointu, reflète de grandes réserves de supériorité naïve.}
-{110}{}{Renouveau, Camarade ! Je suis Zomak. On m'appelle aussi « Zomak le Destructeur ». Que fais-tu ici ?}
+{110}{}{Renouveau, Camarade ! Je suis Zomak. On m'appelle aussi Zomak le Destructeur. Que fais-tu ici ?}
 {111}{}{Renouveau, Camarade ! Que fais-tu ici ? Décris ton problème à « Zomak le Destructeur ».}
 {112}{}{Reunouvoo !}
 {113}{}{Okéé ?}

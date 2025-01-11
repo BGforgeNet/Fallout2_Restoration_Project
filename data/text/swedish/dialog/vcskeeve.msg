@@ -15,7 +15,7 @@
 {114}{}{Furms need?}
 {115}{}{Shamble off}
 {116}{}{Uh... what is this place?}
-{117}{}{All right. Thanks.}
+{117}{}{Okej, då. Tack.}
 {118}{}{This is the CUSTOMS Office. Like the sign outside says. If you haven't got customs business, what are you doing here?}
 {119}{}{I was looking for the Vault.}
 {120}{}{I was looking to get inside the city.}
@@ -75,7 +75,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {170}{}{Never mind. Maybe we'll talk some other time.}
 {171}{}{Hmmm. Well, all right... I'm feeling charitable today. But don't tell any of your other Outsider
  friends you got them so cheap.}
-{172}{}{All right.}
+{172}{}{Okej.}
 {173}{}{Just give me the damn papers.}
 {174}{}{All right, they're all done printing. Here you are..."Citizen." And don't tell anyone about this,
  ESPECIALLY Wallace, all right?}

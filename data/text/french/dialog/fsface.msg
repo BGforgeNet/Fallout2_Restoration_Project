@@ -25,7 +25,7 @@
 {124}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre. Le processus de guérison prendra 5 minutes.}
 {125}{}{Ok.}
 {126}{}{Ca ne fait rien.}
-{127}{}{D'accord.}
+{127}{}{Très bien.}
 {128}{}{Laisse tomber.}
 {129}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre. Le poison va d'abord être analysé, l'antidote sera ensuite synthétisé, après quoi les lésions tissulaires seront réparées. Ce processus prendra 30 minutes.}
 {130}{}{Ok.}

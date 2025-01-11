@@ -189,6 +189,6 @@
 {288}{hak121}{En märklig dimma stal deras sinnen och skickade dem till Sömnens land. De onda vandrade bland drömmare, men drömde inte.}
 {289}{}{And then?}
 {290}{hak122}{För många årstider och för många sår, Utvalde. Istället måste du lyssna.}
-{291}{}{All right.}
+{291}{}{Okej.}
 {300}{}{De som stjäl bär på en stor börda. Kom ihåg detta, Utvalde.}
 {301}{}{Du måste nu betala för dina synder, Utvalde.}

@@ -1,4 +1,4 @@
-{100}{}{Tu vois quelqu'un qui a la peau gravement brûlée.}
+{100}{}{Tu vois quelqu'un dont la peau a été très gravement brûlée.}
 {101}{}{Tu vois une citoyene Goule de Gecko.}
 {102}{}{Tu vois quelqu'un dont la peau semble gravement brûlée par des radiations. L'intensité des radiations aurait dû le tuer, mais il semble relativement en forme.}
 {110}{}{Bonjour, as-tu besoin de marchandises ?}

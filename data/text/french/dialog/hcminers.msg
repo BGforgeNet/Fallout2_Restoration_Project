@@ -19,7 +19,7 @@
 {118}{}{A un des mineurs. Tu veux quelqu'un d'important ?}
 {119}{}{Oui.}
 {120}{}{Non.}
-{121}{}{Salut.}
+{121}{}{Au revoir.}
 {122}{}{Les personnages influents de la ville sont Marcus, qui est à la fois maire et shérif on va dire, Zaius, le chef de la mine et Chad, qui s'occupe des caravanes. Le tenancier Phil est le chef des Goules, enfin... si on peut dire qu'ils ont un chef. Qui tu es toi déjà ?}
 {123}{}{Où puis-je trouver Marcus ?}
 {124}{}{Où puis-je trouver Zaius ?}

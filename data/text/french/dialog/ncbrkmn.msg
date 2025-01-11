@@ -19,7 +19,7 @@
 {301}{}{Ouais. Ecoute attentivement la phrase que je vais prononcer...}
 {302}{}{[Tu prononces lentement la phrase que tu as découverte sur l'ordinateur de l'APE, en apportant un soin tout particulier à l'intonation mise sur chaque lettre.
 Quand tu as fini de lire la phrase, tu le regardes, il te regarde puis secoue tout son corps comme un chien se séchant après une averse.]}
-{303}{}{[Plus]}
+{303}{}{[Suite]}
 {304}{}{Oua- aaah. Hé, Je peux parler normalement ! Wow, c'est génial. Que m'as-tu fait ?}
 {305}{}{J'ai découvert que si tu lis une phrase spécifique, en prononçant chaque lettre avec l'intonation adéquate, tu peux guérir l'autisme ou l'épilepsie.}
 {306}{}{Extra. J'apprécie vraiment ce que tu as fait. Tiens, prends ces Stimpaks. Je les ai trouvés en fouillant les poubelles pour de la nourriture derrière ces bâtiments.}

@@ -3,7 +3,7 @@
 {102}{}{Elle a l'air un peu triste.}
 {103}{}{Arrête !}
 {104}{}{Comment as-tu pu ?}
-{105}{}{Dégage !}
+{105}{}{Ne t'approche pas de moi !}
 {106}{}{Pourquoi ?}
 {107}{}{Je t'en prie, arrête !}
 {108}{}{Tu es un assassin !}
@@ -60,5 +60,5 @@
 {165}{}{Quel dommage !}
 {166}{}{Oh...}
 {167}{}{Je suis triste rien que d'y penser...}
-{168}{}{Salut.}
+{168}{}{Au revoir.}
 {169}{}{Stacy t'a raconté une belle histoire à propos de Caresses, sa chatte adorée.}

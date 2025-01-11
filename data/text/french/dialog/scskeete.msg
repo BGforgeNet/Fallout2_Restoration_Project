@@ -23,20 +23,20 @@
 {122}{}{Scoua ?}
 {123}{}{Je suis pas un mec !}
 {124}{}{Que fais-tu ?}
-{125}{}{Où suis-je ici ?}
+{125}{}{Quel est cet endroit ?}
 {126}{}{Rien. Je t'ai pris pour quelqu'un d'autre. Salut.}
 {127}{}{Hé, mec, je te l'avais dit. Sale endroit. Sales gens par ici. J'ai entendu qu'on avait pillé ta caisse.}
 {128}{}{Brac ?}
 {129}{}{Comment t'as su ?}
 {130}{}{Génial. Merci. Super.}
 {131}{}{Skeeter s'en charge, mec. Même une mouche ne pourra pas se poser sur ta ba-gnole !}
-{132}{}{Où suis-je ici ?}
+{132}{}{Quel est cet endroit ?}
 {133}{}{Bon. Ferme-la.}
 {134}{}{Si t'as pas le fric, casse-toi ! J'ai des choses importantes à faire.}
 {135}{}{Hé, mec, Skeeter te l'avait d'jà dit.}
 {136}{}{Va te faire. Je réponds pas à tes questions.}
-{137}{}{Où suis-je ici ?}
-{138}{}{Salut.}
+{137}{}{Quel est cet endroit ?}
+{138}{}{Au revoir.}
 {139}{}{Salut !}
 {140}{}{Hé, ça c'est de la télépathie ! Je peux saisir les ondes ! Ouais, laisse-moi essayer... heu... heu...}
 {141}{}{Oui ?}

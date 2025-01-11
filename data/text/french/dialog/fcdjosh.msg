@@ -19,7 +19,7 @@
 {118}{}{Toi savoir où moi trouver J.E.K ?}
 {119}{}{Toi savoir où moi trouver abri 13 ?}
 {120}{}{Moi chercher marchand Vic. Où trouver ?}
-{121}{}{Sais-tu où je peux trouver un J.E.K. ?}
+{121}{}{Sais-tu où je peux trouver un J.E.K ?}
 {122}{}{Sais-tu où je peux trouver l'abri 13 ?}
 {123}{}{Je cherche un marchand répondant au nom de Vic. Sais-tu où je peux le trouver ?}
 {124}{}{Il y avait des J.E.K dans tous les abris. Si j'ai bonne mémoire, ils devaient être utilisés une fois l'abri ouvert pour reconstruire la civilisation. Je pense que le seul endroit où tu pourrais trouver ça, ce serait dans un abri non ouvert. Bonne chance,}

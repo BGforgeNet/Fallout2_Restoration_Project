@@ -17,7 +17,7 @@
 {116}{}{Je suis ici pour te proposer un autre marché : Toi et tes amis vous vous barrez d'ici et on vous laisse la vie sauve.}
 {117}{}{Très bien, au moins j'aurais essayé. Salut.}
 {120}{}{C'est une excellente idée. Nous nous tenons prêts.}
-{200}{}{Heinh ?}
+{200}{}{Hein ?}
 {201}{}{C'est notre territoire.}
 {202}{}{Toi aussi tu squattes ?}
 {203}{}{T'as rien à manger ?}
@@ -26,7 +26,7 @@
 {310}{}{Hé, merci de nous avoir laissés ici. Nous travaillerons dur, ne t'en fais pas.}
 {311}{}{Je l'espère. Prenez bien soin des enfants et qu'ils n'aient pas d'ennuis, surtout.}
 {312}{}{Nous ferons de notre mieux.}
-{313}{}{Salut.}
+{313}{}{Au revoir.}
 {350}{}{Il n'y a qu'ici. Les orphelins ont besoin d'un endroit pour vivre et il n'y a pas de bâtiment assez grand pour tous les accueillir. Je suis sûr que vous pourriez trouver d'autres endroits pour squatter. Sincèrement, vous voulez vraiment que les enfants vivent dans la rue ?}
 {351}{}{Non, t'as raison c'est pas cool pour les mômes. Il y a des trous dans le toit de toute façon. Très bien, on remballe nos affaires et on se casse. On est des squatteurs de toute façon, on peut être chez nous n'importe où.}
 {352}{}{Merci. C'est vraiment sympa pour eux. Fais attention à toi.}

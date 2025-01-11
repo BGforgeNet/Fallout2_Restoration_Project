@@ -54,7 +54,7 @@
 {153}{}{[Attaque maintenant, avec ton armure et tes armes.]}
 {154}{}{[Va sur le ring, débarrasse-toi de tes armes et de ton armure, et bats-toi au Corps à Corps.]}
 {155}{}{Ah, tu es de la race des guerriers. Je vais t'opposer à mes hommes pour voir comment tu t'en sors. Allons-y.}
-{156}{}{[commencer]}
+{156}{}{[Débuter]}
 {157}{}{Mais dans un environnement de combat formel, tu ne peux pas contester que tu as décidé d'entrer dans l'arène de ton plein gré. Dans un tel contexte, ne devrais-tu pas obéir aux règles ?}
 {158}{}{Oui, probablement. Mais dans une situation de vie ou de mort, tu dois tout faire pour survivre.}
 {159}{}{Non, je ne crois pas.}

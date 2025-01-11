@@ -30,7 +30,7 @@
 {129}{}{Bien sûr.}
 {130}{}{J'crois que j'ai rien à te prouver, voyou.}
 {131}{}{Barre-toi d'là ! J'te tuerais si je l'pouvais !}
-{132}{}{Salut.}
+{132}{}{Au revoir.}
 {133}{}{Ici le fondement de la loi c'est l'amour des mutants. Tu les détestes les mutants ?}
 {134}{}{Oui.}
 {135}{}{Non.}
@@ -48,7 +48,7 @@
 {147}{}{T'as tout fait foirer ! Tu vas crever !}
 {148}{}{Tirons-nous !}
 {149}{}{Foutaises. Salut.}
-{150}{}{Ca n'a pas d'importance. Salut.}
+{150}{}{Ca n'a pas d'importance. Au revoir.}
 {151}{}{C'est pas juste. Tu devrais avoir honte.}
 {152}{}{Merci pour ton aide. Allons voir Jacob et Hélène.}
 {153}{}{Tu as mené l'évasion à bien.}

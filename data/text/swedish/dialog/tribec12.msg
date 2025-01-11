@@ -14,14 +14,14 @@
 {120}{}{Sulik? [He nods.] One of our best men. Equally skilled at the art of the hunt, and the art of communing with bonespirits. He left us to find his sister, Kurisu, who never returned from a nearby tribe. Tell me, child, where is Sulik now?}
 {121}{}{Oh, he's right here. Hey, Sulik, come on in here...}
 {122}{}{Oh, he's alright. I told him to wait while I get some things done.}
-{123}{}{I am sorry, but he is dead.}
+{123}{}{Jag är ledsen, men han är död.}
 {124}{}{[Sulik and the tribe's chief exchange greetings.] It brings me great pleasure to see Sulik again. The bonespirits told me he had fallen into trouble. But what of his sister, Kurisu?}
 {125}{}{It is good to hear that Sulik is well. We were worried he got into trouble. So, his sister is still missing?
  She too is a member of our tribe.}
 {126}{}{[He frowns and smokes his pipe in silence for a long time. Just when you consider leaving. He finally speaks.] The spirits were strong with Sulik. I always thought, he might one day take my place. Now, I see the spirits had other plans for Sulik. But what of his sister, Kurisu?}
 {127}{}{She was captured by slavers. I've offered Sulik assistance in locating her. Do you know anything that might help in the search?}
 {128}{}{[He closes his eyes for a long time. Just as you think he might have fallen asleep, he begins speaking.] The slavers are led by a man with a dark soul. Metzger. He dwells in one of the ruined husks of the Old One's cities. They call it the Den. [He opens his eyes.] Perhaps, he is holding her there. The bonespirits say no more.}
-{129}{}{Thanks. Let me ask you something else.}
+{129}{}{Tack för det. Låt mig fråga dig något annat.}
 {130}{}{Thank you, child, but I am content. Perhaps others are not so. Ask around the village.}
 {140}{}{I look for GECK.}
 {141}{}{I looking for missing woman. She sister of friend Sulik.}

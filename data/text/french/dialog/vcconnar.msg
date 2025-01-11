@@ -70,7 +70,7 @@
 {169}{}{Tu seras toujours bienvenu ici ! Au revoir.}
 {170}{}{Oui, mais j'ai de meilleures nouvelles. J'ai convaincu le conseil de la Cité de l'Abri de ne pas toucher à ton village.}
 {171}{}{Je le ferai. Mais avant de partir, j'ai encore quelques questions.}
-{172}{}{Ca n'a pas d'importance. Salut.}
+{172}{}{Ca n'a pas d'importance. Au revoir.}
 {173}{}{Pas encore. Je reviendrai quand je les aurai.}
 {174}{}{Ce fut un plaisir. A la prochaine.}
 {200}{}{J'ai déjà ce genre d'armes avec moi.}

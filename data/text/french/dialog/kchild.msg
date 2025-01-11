@@ -15,7 +15,7 @@
 {162}{}{Ne me fais pas mal.}
 {163}{}{Ne t'approche pas de moi.}
 {164}{}{Ahhhhhhhh !}
-{165}{}{Je te déteste.}
+{165}{}{Je te déteste !}
 {166}{}{Maman, maman, maman !}
 {167}{}{Laisse-moi tranquille.}
 {168}{}{Tu pues !}
@@ -29,7 +29,7 @@
 {177}{}{Je suis sûr que tu es plus gentil que tu en as l'air.}
 {178}{}{On joue à touche-touche. Touché.}
 {179}{}{Tu ne sens pas si mauvais que ça.}
-{180}{}{Tu as vu mon copain invisible ?}
+{180}{}{Tu as vu mon ami invisible ?}
 {181}{}{Quand j'aurai ton âge, je veux voyager dans le monde entier.}
 {182}{}{Tu es un gentil tribal, pas comme les autres.}
 {183}{}{Je parie que ça vous arrive de vous laver.}
@@ -38,7 +38,7 @@
 {186}{}{Quand je serai grand, je veux être comme toi.}
 {187}{}{Mon chien adore la viande séchée.}
 {188}{}{J'ai un caillou brillant.}
-{189}{}{Tu as vu mon copain invisible ?}
+{189}{}{Tu as vu mon ami invisible ?}
 {190}{}{Est-ce que je peux venir dans votre tribu ?}
 {191}{}{Tu es gentil.}
 {192}{}{Tu as un drôle d'air. }
@@ -91,7 +91,7 @@
 {1103}{}{Voilà ce que serait notre beau village.}
 {1104}{}{Notre poste d'approvisionnement est à quelques jours à l'Est d'ici. }
 {1105}{}{L'Abri, c'est le paradis.}
-{1106}{}{Tu es l'Elu.}
+{1106}{}{Tu es l'Etre Elu.}
 {1107}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1108}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1109}{}{Avec cette poudre magique, tu vas guérir, mais cela te fera somnoler.}

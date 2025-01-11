@@ -20,7 +20,7 @@
 {119}{}{Des gens plus honnêtes ? Ces types ?}
 {120}{}{C'est quoi au juste l'Enclave ?}
 {121}{}{Comment fais-tu marcher ce truc ?}
-{122}{}{Salut.}
+{122}{}{Au revoir.}
 {123}{}{Comment on pilote ce rafiot ? Tu le remplis avec du carburant, t'as qu'à essayer chez les Hubologistes ou les Shis après que tu te sois occupé de tout le reste, et tu appuies sur le bouton. L'ordinateur s'occupera du reste, enfin, s'il marche toujours. Il naviguera jusqu'à la plate-forme pétrolière, à moins que ce vieux sous-marin ne le fasse exploser. Mais au moins tu n'auras pas à t'inquiéter que l'Enclave te tire dessus, parce que tu as le transpondeur IFF. Arrange-toi juste pour avoir tout le nécessaire pour obtenir un accès total : le passe FOB, un ordinateur qui marche et du carburant. Trop facile, hein ?}
 {124}{}{Certainement. Comment sais-tu tout ça ?}
 {125}{}{C'est quoi au juste ce transpondeur IFF et ce fameux passe ?}

@@ -1,4 +1,4 @@
-{100}{}{Un voyageur.}
+{100}{}{Tu vois un voyageur.}
 {101}{}{Hé ! Camarade voyageur !}
 {102}{}{Je cherche mon chemin. Peux-tu m'aider ?}
 {103}{}{Où vas-tu ?}

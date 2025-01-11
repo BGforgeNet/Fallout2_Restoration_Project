@@ -57,7 +57,7 @@
 {156}{}{Elle : Tu oses traiter le Centre (louange à lui) de cinglé ? Ici ? Dans ce bastion consacré à ses recherches ? Lui : Fiche le camp d'ici. N'adresse la parole à personne en partant, tu le regretterais. Infidèle. Tous les deux : Bon débarras.}
 {157}{}{Je devrais peut-être leur sauter dessus. De toute façon, j'ai toujours détesté vos films. Voyons comment vous jouez une scène de meurtre.}
 {158}{}{Vos films sont merdiques. Au revoir.}
-{159}{}{Salut.}
+{159}{}{Au revoir.}
 {160}{}{Elle : Les neurodines sont l'essence des âmes détruites lors de la Grande Guerre, polluant ton essence spirituelle et te guidant hors du droit chemin. Lui : Si tu veux en savoir plus sur nos enseignements, tu dois rejoindre notre église.}
 {161}{}{Oui, tout cela semble fascinant.}
 {162}{}{J'ai entendu dire que c'était de la science fiction, mais je ne savais pas dans quelle proportion. Hubol devait être un sacré cinglé.}
@@ -92,7 +92,7 @@
 {191}{}{Lui : Tu as pris une décision qui va changer ta vie. Elle : Et hélas, ce n'était pas la bonne. Tous les deux : Gardes ! Gardes !}
 {192}{}{Putain.}
 {193}{}{Lui : Salutations, }
-{194}{}{Bon, eh bien, je fais quoi maintenant que je suis Hubologiste ?}
+{194}{}{Bon, eh bien, je fais quoi maintenant que je suis un Hubologiste ?}
 {195}{}{Comment faire pour devenir comme vous ?}
 {196}{}{C'est à peu près tout ce que je voulais. Au revoir !}
 {197}{}{}

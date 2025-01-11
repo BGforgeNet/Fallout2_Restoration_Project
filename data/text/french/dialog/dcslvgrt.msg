@@ -27,7 +27,7 @@
 {250}{}{Tu connais un gars qui s'appelle Vic ?}
 {251}{}{Je cherche un marchand.}
 {252}{}{T'as déjà entendu parler de l'Abri 13 ?}
-{253}{}{Salut.}
+{253}{}{Au revoir.}
 {254}{}{Travail.}
 {255}{}{Manger.}
 {256}{}{Tuer.}

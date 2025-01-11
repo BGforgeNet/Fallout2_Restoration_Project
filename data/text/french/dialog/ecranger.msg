@@ -22,9 +22,9 @@
 {121}{}{Pas de chance. T'as déjà entendu parler du Commando de la RNC ? C'est nous. On tue les esclavagistes.}
 {122}{}{Espèce de tas de merde !!}
 {123}{}{Salut ! Je m'appelle Ezéchiel. Je fais partie du Commando de la RNC. Qui es-tu ?}
-{124}{}{Ca te regarde pas.}
+{124}{}{Ca ne te regarde pas.}
 {125}{}{Hé, j'ai déjà entendu ce nom. Tu fais partie du Commando, c'est ça ?}
 {126}{}{Oui.}
-{127}{}{Ca te regarde pas.}
+{127}{}{Ca ne te regarde pas.}
 {128}{}{Sois asocial si tu veux. Au moins tu n'es pas esclavagiste. Au revoir.}
 {129}{}{C'est un plaisir de te connaître. Garde les yeux ouverts en cas de danger. A plus tard.}

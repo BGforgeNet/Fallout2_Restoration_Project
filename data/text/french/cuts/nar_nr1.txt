@@ -1,4 +1,4 @@
-1:LES HABITANTS DE NEW RENO FURENT MASSACRES ET LA VILLE SOMBRA EN RUINE.
-2:AUCUNE LUMIERE N'Y BRILLE PLUS AUJOURD'HUI, LES RUES N'ABRITENT QUE DES HORDES DE CHIENS SAUVAGES ET DE VAUTOURS.
-3:LES TRIBUS DU DESERT EVITENT LE CIMETIERE GEANT ET PRETENDENT QUE LA VILLE EST HANTEE PAR DES ESPRITS MALEFIQUES.
-4:CERTAINS AVANCENT QUE LA DESTRUCTION DE NEW RENO ETAIT LE CHATIMENT D'UNE PUISSANCE SUPERIEURE.
+1:Les habitants de New Reno furent massacrés et la ville sombra dans la ruine.
+2:Aucune lumière n'y brille plus aujourd'hui, les rues n'abritent que des hordes de chiens sauvages et de vautours.
+3:Les tribus du désert évitent le cimetière géant et maintiennent que la ville est hantée par des esprits maléfiques.
+4:Certains avancent que la destruction de New Reno était le châtiment d'une puissance supérieure

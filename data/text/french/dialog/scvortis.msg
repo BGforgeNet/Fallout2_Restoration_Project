@@ -70,7 +70,7 @@
 {169}{}{Encore une ou deux questions.}
 {170}{}{Pas de problème. Salut.}
 {171}{}{Joli travail. Maintenant, fais-toi oublier, au cas où le Commando pigerait le coup.}
-{172}{}{Ce fût un plaisir.}
+{172}{}{C'est un plaisir de faire des affaires.}
 {173}{}{Eh ben, reste pas là, imbécile ! Ca va paraître louche !}
 {174}{}{D'accord, j'ai pigé.}
 {175}{}{Gardes ! Sortez-moi ce parasite !}

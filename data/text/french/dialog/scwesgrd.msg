@@ -34,7 +34,7 @@
 {133}{}{Ouais, ouais. Je suis en train de faire quelque chose.}
 {134}{}{Hé, bas les pattes !}
 {135}{}{Faudrait demander avant de jouer avec des trucs qui t'appartiennent pas.}
-{136}{}{Re-bonjour. Tu as encore besoin de voir M.Westin ?}
+{136}{}{Rebonjour. Tu as encore besoin de voir M.Westin ?}
 {137}{}{Oui.}
 {138}{}{Non.}
 {139}{}{Moi avoir choses de Cité de l'Abri pour M. Westin.}

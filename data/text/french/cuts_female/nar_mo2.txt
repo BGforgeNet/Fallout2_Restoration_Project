@@ -1,3 +1,3 @@
-1:ARME DE FUSEES ECLAIRANTES ET DE MATRAQUES, LE PEUPLE DE MODOC PRIT D'ASSAUT LA VILLE SOUTERRAINE DES SLAGS.
-2:LES SLAGS FURENT RAPIDEMENT VAINCUS ET LES RESIDENTS DE MODOC MASSACRERENT UN PAR UN TOUS LES HOMMES, FEMMES ET ENFANTS QU'ILS TROUVERENT.
-3:LA RUMEUR DE CETTE ATTAQUE BRUTALE SE REPANDIT COMME UNE TRAINEE DE POUDRE ET, FAISANT NAITRE LA PEUR, POUSSA LES VOISINS DE MODOC A ATTAQUER ET DETRUIRE LA VILLE.
+1:Armé de fusées éclairantes et de matraques, le peuple de Modoc prit d'assaut la ville souterraine des Slags.
+2:Les Slags furent rapidement vaincus et les résidents de Modoc massacrèrent un par un tous les hommes, femmes et enfants qu'ils trouvèrent
+3:La rumeur de cette attaque brutale se répandit comme une traînée de poudre et, faisant naître la peur, poussa les voisins de Modoc à attaquer et détruire la ville.

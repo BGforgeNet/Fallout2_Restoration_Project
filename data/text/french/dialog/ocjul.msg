@@ -7,7 +7,7 @@
 {106}{}{Qui toi ?}
 {107}{}{Très bien, je m'en vais.}
 {108}{}{Je vais où je veux, bave de lézard !}
-{109}{}{Où suis-je ici ?}
+{109}{}{Quel est cet endroit ?}
 {110}{}{Qui es-tu ?}
 {111}{}{Ici couveuse. Mère de la meute à l'intérieur. Oeufs à l'intérieur. Moi garder. Moi protéger meute.}
 {112}{}{Moi vouloir parler à mère.}
@@ -41,7 +41,7 @@
 {140}{}{Qui toi dire être ?}
 {141}{}{Quoi être ici ?}
 {142}{}{Je passais juste dire bonjour.}
-{143}{}{Où suis-je ici ?}
+{143}{}{Quel est cet endroit ?}
 {144}{}{Qui es-tu déjà ?}
 {145}{}{Mort de toi déjà là. Toi trop bête pour tomber.}
 {146}{}{. Moi vouloir parler mère.}

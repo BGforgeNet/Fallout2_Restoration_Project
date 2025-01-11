@@ -45,7 +45,7 @@
 {144}{}{Comme s'il y avait un intrus, ici !}
 {145}{}{Ouais, et d'où viendrait-il cet intrus ?!}
 {146}{}{Comme si on ne remarquerait pas un intrus s'approcher !}
-{147}{}{C'est pas vrai, encore une autre panne de l'alarme !!!}
+{147}{}{C'est pas vrai, encore une autre panne de l'alarme. Génial.}
 {148}{}{Je n'ai pas le temps pour cette merde.}
 {149}{}{Que veux-tu ?}
 {150}{}{Ca se voit pas que je travaille ?!}

@@ -27,7 +27,7 @@
 {330}{}{Qu'avons-nous fait de mal ?}
 {331}{}{Laisse-nous tranquilles, esclavagiste !}
 {332}{}{Ne me fais pas mal.}
-{333}{}{Dégage !}
+{333}{}{Ne t'approche pas de moi !}
 {350}{}{Qui toi ?}
 {351}{}{Toi pas esclavagiste.}
 {352}{}{Toi pas faire mal ?}
@@ -106,7 +106,7 @@
 {480}{}{Quoi toi vouloir ?}
 {481}{}{Que veux-tu ?}
 {482}{}{Oh, rien.}
-{500}{}{Heinh ?}
+{500}{}{Hein ?}
 {501}{}{Peu importe. Vous êtes libre de partir. Metzger est mort.}
 {510}{}{Quoi ? Libre ? Méchants partis ? Nous partir maintenant ! Merci ! Adieu !}
 {511}{}{Libre ? Quoi ? Tu les as tous tués ? Merci infiniment ! Nous devons partir tant qu'il encore temps. Merci encore, tu es un ange !}
@@ -131,7 +131,7 @@
 {602}{}{Partir !}
 {603}{}{A la maison !}
 {604}{}{Libre ?}
-{605}{}{Heinh ?}
+{605}{}{Hein ?}
 {606}{}{Quoi ?}
 {607}{}{Tu as dit libre ?}
 {608}{}{Je m'en vais !}

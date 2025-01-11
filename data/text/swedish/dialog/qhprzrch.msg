@@ -232,7 +232,7 @@
 {331}{}{There must be another way.}
 {332}{}{Kom hit.}
 {333}{}{I don't understand.}
-{334}{}{I don't know.}
+{334}{}{Jag vet inte.}
 {335}{}{That hurts.}
 {336}{}{That really hurts.}
 {337}{}{That's got to hurt.}

@@ -30,12 +30,12 @@
 {302}{}{En fait non. Je dois te demander quelque chose.}
 {303}{}{Non. Je dois y aller.}
 {310}{}{Bien, que voulez-vous savoir ? J'espère que cela concerne les toasts.}
-{311}{}{Où suis-je ici ?}
-{312}{}{Ca n'a pas d'importance. Salut.}
+{311}{}{Quel est cet endroit ?}
+{312}{}{Ca n'a pas d'importance. Au revoir.}
 {350}{}{Hé, vous m'avez réparé ! Je savais que ce robot avait fait du sale boulot. Je me sens mieux que jamais ! Merci.}
 {351}{}{Et oui, c'est l'effet que je fais à tout le monde. Allez, salut.}
 {352}{}{Attendez. J'ai des informations qui pourraient vous aider... Vous savez, ces distributeurs automatiques que vous trouvez dans les casinos ? Eh bien, j'ai calculé un algorithme qui peut extorquer de l'argent aux machines. Vous savez, j'ai quand même un QI de 6000. Quand je ne fais pas de toasts, j'aime réfléchir sur ce genre de choses. Pour m'avoir aidé à m'en sortir, je vais vous donner mes codes secrets. Utilisez une de ces machines comme ça et...}
-{353}{}{[Plus]}
+{353}{}{[Suite]}
 {354}{}{...Et voilà. Vous deviendrez riche en autant de temps qu'une dégustation de toast.}
 {355}{}{Merci pour cette astuce. Adieu.}
 {400}{}{Tu as réussi à réparer le grille-pain.}

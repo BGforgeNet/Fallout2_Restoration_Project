@@ -55,7 +55,7 @@
 {154}{}{Ca, mon enfant, tu devras le découvrir par toi-même. Demande autour de toi et tu trouveras la vérité.}
 {155}{}{Cela m'aide vraiment. J'ai d'autres questions.}
 {156}{}{Comment sais-tu tout ça ?}
-{157}{}{Allez va, salut.}
+{157}{}{Peu importe. Salut.}
 {158}{}{Mon enfant, je suis AHS-9. Je vois beaucoup de choses qui se passent dans le monde charnel. As-tu d'autres questions ou puis-je retourner à mes méditations ?}
 {159}{}{J'ai d'autres questions.}
 {160}{}{Retourne à tes méditations, j'en ai fini.}

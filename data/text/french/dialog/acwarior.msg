@@ -1,7 +1,7 @@
 {100}{}{Tu vois un homme de la tribu.}
 {101}{}{Tu vois une femme de la tribu.}
 {150}{}{Devant toi se trouve un robuste guerrier de ton village, il porte un pantalon en peaux d'animaux.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Bonjour, Etre Elu, que puis-je faire pour toi ?}
 {153}{}{Je faisais juste un tour dans le village une dernière fois avant de partir.}
 {154}{}{Que peux-tu me dire des marchands qui traitent avec nous ?}
@@ -62,7 +62,7 @@
 {1103}{}{Voilà ce que serait notre beau village.}
 {1104}{}{Notre poste d'approvisionnement est à quelques jours à l'Est d'ici.}
 {1105}{}{L'Abri, c'est le paradis.}
-{1106}{}{Tu es l'Elu.}
+{1106}{}{Tu es l'Etre Elu.}
 {1107}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1108}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1109}{}{Avec cette poudre magique, tu vas guérir, mais cela te rendra somnolent.}

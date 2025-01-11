@@ -3,10 +3,10 @@
 {102}{}{Certainement.}
 {103}{}{Je n'ai rien à échanger. Je regrette.}
 {104}{}{Booga.}
-{105}{}{Quel pot ! Tu ne peux pas parler, hein ? Tu ne peux raconter à personne où se trouve ma concession ! Faisons du troc.}
+{105}{}{Quel pot ! Tu ne peux pas parler, hein ? Tu ne peux raconter à personne où se trouve ma concession ! Faisons affaire.}
 {106}{}{[Troquer]}
 {107}{}{Allez, casse-toi. Et t'as pas intérêt à aller raconter où se trouve ma concession !}
-{108}{}{[Fin]}
+{108}{}{[Terminé]}
 {109}{}{Passe donc ton chemin.}
 {110}{}{On n'a plus rien à se dire.}
 {111}{}{Pars !}

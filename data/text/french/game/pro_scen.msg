@@ -893,13 +893,13 @@
 {46800}{}{Ascenseur}
 {46900}{}{Ascenseur}
 {47000}{}{Porte d'ascenseur}
-{47100}{}{Fenêtre}
+{47100}{}{Fenêtré}
 {47101}{}{En guise de vitre, cette fenêtre utilise du papier paraffiné.}
-{47200}{}{Fenêtre}
+{47200}{}{Fenêtré}
 {47201}{}{En guise de vitre, cette fenêtre utilise du papier paraffiné.}
-{47300}{}{Fenêtre}
+{47300}{}{Fenêtré}
 {47301}{}{En guise de vitre, cette fenêtre utilise du papier paraffiné.}
-{47400}{}{Fenêtre}
+{47400}{}{Fenêtré}
 {47401}{}{En guise de vitre, cette fenêtre utilise du papier paraffiné.}
 {47500}{}{Porte}
 {47501}{}{Cette grande porte tournante en métal est fermée de l'intérieur.}
@@ -2333,18 +2333,18 @@
 {143301}{}{Tu peux escalader le mur avec cette corde.}
 {143400}{}{Porte}
 {143500}{}{Porte}
-{143600}{}{Fenêtre}
-{143700}{}{Fenêtre}
-{143800}{}{Fenêtre}
-{143900}{}{Fenêtre}
-{144000}{}{Fenêtre}
-{144100}{}{Fenêtre}
-{144200}{}{Fenêtre}
-{144300}{}{Fenêtre}
-{144400}{}{Fenêtre}
-{144500}{}{Fenêtre}
-{144600}{}{Fenêtre}
-{144700}{}{Fenêtre}
+{143600}{}{Fenêtré}
+{143700}{}{Fenêtré}
+{143800}{}{Fenêtré}
+{143900}{}{Fenêtré}
+{144000}{}{Fenêtré}
+{144100}{}{Fenêtré}
+{144200}{}{Fenêtré}
+{144300}{}{Fenêtré}
+{144400}{}{Fenêtré}
+{144500}{}{Fenêtré}
+{144600}{}{Fenêtré}
+{144700}{}{Fenêtré}
 {144800}{}{Echelle de piscine}
 {144900}{}{Porte}
 {145000}{}{Arche}
@@ -2613,9 +2613,9 @@
 {170300}{}{Ombre}
 {170400}{}{Ombre}
 {170500}{}{Ombre}
-{170600}{}{Pont detruit}
+{170600}{}{Pont détruit}
 {170601}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
-{170700}{}{Pont detruit}
+{170700}{}{Pont détruit}
 {170701}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
 {170800}{}{Canyon}
 {170900}{}{Porte}

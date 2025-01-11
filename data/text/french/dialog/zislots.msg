@@ -73,7 +73,7 @@
 {2110}{}{[Quitter]}
 {2130}{}{[L'étrange et jolie boîte en métal doré avec trois yeux et un bras ne répond pas.]}
 {2131}{}{MOI }
-{2132}{}{ ! TOI, REPONDRE A MOI !!}
+{2132}{}{! TOI, REPONDRE A MOI !}
 {2133}{}{[Lui serrer la main]}
 {2134}{}{Moi enfant habitant de l'Abri. Toi parler à moi MAINTENANT.}
 {2135}{}{toi étrange mutant.}
@@ -97,7 +97,7 @@
 {2207}{}{*J'ai eu ce que je voulais de toi, ma beauté. Pourquoi ne renonces-tu pas ?*}
 {2208}{}{*Saleté !*}
 {2209}{}{*Ne laisse pas la porte du casino te botter le cul à la sortie.*}
-{2247}{}{*Oooooh ! C'est ça, mon chou ! Oh, oui ! Oui ! Oui ! Encore ! Plus vite ! Plus fort ! Qu'est-ce tu attends ?!! Encore !*}
+{2247}{}{*Oooooh ! C'est ça, mon chou ! Oh, oui ! Oui ! Oui ! Encore ! Plus vite ! Plus fort ! Qu'est-ce tu attends ?! Encore !*}
 {2248}{}{*C'est ça, mon chou... Continue à tirer la poignée... Plus vite, plus fort, plus vite... Allez...*}
 {2249}{}{*Allez, mon chou... Ca arrive à tout le monde au moins une fois... Essaie encore... Allez...*}
 {2250}{}{*Ne m'abandonne pas déjà, mon coeur ! J'ai plus que jamais besoin de toi !*}
@@ -134,7 +134,7 @@
 {2380}{}{*Ca va aller, mon ange ? J'suis pas tranquille de te voir partir comme ça quand tu es dans cet état.*}
 {2381}{}{[Tu poses ta tête fatiguée sur la machine.]}
 {2382}{}{*Ca va aller, mon chou ? J'suis pas tranquille de te voir partir comme ça quand tu es dans cet état.*}
-{2383}{}{Cha va aller... merchi de m'avoar parlé, masssine à sous, je t'aiiiiime !!!!}
+{2383}{}{Cha va aller... merchi de m'avoar parlé, masssine à sous, je t'aiiiiime !!!}
 {2400}{}{*Tu es la seule héroïne que nous ayons dans ce monde de pacotille plein de salauds et de voleurs ! Fais attention à toi, tu entends, ma chérie ? * [La machine se retourne.] *Tu ferais mieux de partir si tu ne veux pas voir un homme pleurer.*}
 {2401}{}{[Une larme semble se former sur l'une des fenêtres.]}
 {2402}{}{*Tu es le seul héros que nous ayons dans ce monde de pacotille plein de salauds et de voleurs ! Tu... Tu fais bien attention à toi, d'accord, mon chéri ? * [La machine se retourne.] *Tu ferais mieux de partir avant que je ne me mette à sangloter.*}

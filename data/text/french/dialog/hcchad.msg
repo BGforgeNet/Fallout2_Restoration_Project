@@ -16,7 +16,7 @@
 {132}{}{Je m'appelle Chad.}
 {133}{}{Ecoute, je suis très occupé. Va embêter quelqu'un d'autre.}
 {134}{}{Je suis le maître de caravane de la ville. Je m'occupe du business au terme des itinéraires. Ces temps-ci je me concentre surtout sur Gecko.}
-{135}{}{D'OOkK !}
+{135}{}{Okééé !}
 {136}{}{Je voudrais travailler pour toi.}
 {137}{}{Ca a l'air excitant.}
 {138}{}{Ca a l'air chiant.}
@@ -24,7 +24,7 @@
 {140}{}{Merci. Au revoir.}
 {141}{}{Te parler des Collines Brisées ? Bien... Je suis arrivé il y a quelques années. J'ai commencé à travailler pour Bill, l'armateur, et j'ai gravi les échelons. Je suis sous les ordres de Marcus et de Bill, mais je suis responsable du gagne-pain de la ville.}
 {142}{}{J'ai d'autres questions.}
-{143}{}{Salut.}
+{143}{}{Au revoir.}
 {144}{}{Comme quoi ?}
 {145}{}{Il suspecte, que tu as récupéré l'argent qui était supposé revenir aux Collines Brisées.}
 {146}{}{Apparemment rien, salut.}
@@ -37,7 +37,7 @@
 {160}{}{Ca a l'air génial. Je voudrais bien avoir un travail comme ça.}
 {161}{}{A vrai dire, ça a l'air plutôt ennuyeux.}
 {162}{}{J'ai d'autres questions.}
-{163}{}{Salut.}
+{163}{}{Au revoir.}
 {164}{}{Sûrement beaucoup plus excitant que ce que tu fais de ta vie, minable.}
 {165}{}{Ouais, comme tu le sens. J'ai d'autres questions.}
 {166}{}{Ha ha ha ha ! Ok. A plus, minable.}

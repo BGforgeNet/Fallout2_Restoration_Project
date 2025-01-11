@@ -98,7 +98,7 @@
 {197}{}{Navarro est relativement nouvelle et les effectifs n'y sont pas à leur maximum. Selon mes sources, elle reçoit de nouvelles recrues de temps en temps. Tu pourrais peut-être y aller seul et proposer ta candidature. Oui, c'est une bonne idée. Tes amis pourraient t'attendre ici.}
 {198}{}{Ok.}
 {199}{}{Toi dire *sources* à toi. Quoi être ?}
-{200}{}{D'accord.}
+{200}{}{Très bien.}
 {201}{}{Tu as parlé de tes *sources*. De quoi s'agit-il ?}
 {202}{}{Une de mes opératrices est allée en reconnaissance sur la base. Elle ne donne plus de nouvelles depuis peu et je ne peux m'empêcher de penser au pire. Fais attention.}
 {203}{}{. Je n'aime pas envoyer des gens au casse-pipe.}

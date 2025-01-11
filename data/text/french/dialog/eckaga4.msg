@@ -16,6 +16,6 @@
 {160}{}{Ce titre ne voudra plus rien dire lorsque Kaga t'arrachera la tête !}
 {161}{}{Aucune parole ne te sauvera la peau. Toi mort, mon honneur sera restauré. Kaga va maintenant prendre sa revanche !}
 {200}{}{Ooglie ?}
-{201}{}{Quoi !? C'est *toi* qu'ils ont choisi comme Etre Elu ? ho-la-la, ils doivent être désespérés.}
+{201}{}{Quoi !? C'est *toi* qu'ils ont choisi comme Etre Elu ? Ho-la-la, ils doivent être désespérés.}
 {202}{}{Moi pas aimer toi. Toi l'air méchant.}
 {203}{}{Je n'ai pas de temps à perdre à te parler. Prépare-toi à mourir des mains de Kaga !}

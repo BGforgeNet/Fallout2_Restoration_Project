@@ -59,7 +59,7 @@
 {204}{}{Finalement, je crois que je vais renoncer.}
 {205}{}{D'accord, j'y serai. Salut.}
 {206}{}{Mais en attendant, j'aimerais vous demander quelque chose.}
-{207}{}{Salut.}
+{207}{}{Au revoir.}
 {208}{}{Je m'appelle Chuck Dunton. Et toi ? Débile ?}
 {209}{}{Je m'appelle Buck Dunton. Et toi ? Débile ?}
 {210}{}{J'ai l'air si moche que ça ? Je m'appelle Chuck Dunton.}

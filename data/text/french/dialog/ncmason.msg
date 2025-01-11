@@ -106,7 +106,7 @@
 {514}{}{Alors, pourquoi ne l'as-tu pas dit TOUT de suite, imbécile ? Va dire à M.Salvatore ce que tu as trouvé.}
 {515}{}{[Il hoche la tête et fronce légèrement les sourcils.] Bon, d'accord... Va dire à M.Salvatore ce que tu as trouvé.}
 {516}{}{Oh, VRAIMENT ? C'est CA que je dois faire ? Merci, Mason. Sans toi, je saurais même pas comment aller d'un endroit à un autre. Pfffff. Idiot.}
-{517}{}{D'accord.}
+{517}{}{Très bien.}
 {520}{}{T'as fini le boulot ?}
 {525}{}{Va voir M.Salvatore. Il t'attend.}
 {530}{}{Bon. Tu vas te transformer en agence de recouvrement. C'est simple : tu vas à la pharmacie de Renesco, dans l'Ouest de la ville, tu récupères le tribut, 1000 jetons, et tu le ramènes.}

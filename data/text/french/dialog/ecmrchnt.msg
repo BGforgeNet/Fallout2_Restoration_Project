@@ -12,5 +12,5 @@
 {252}{}{Ahhh, moi avoir choses !}
 {253}{}{Moi aller.}
 {260}{}{C'est sympa de faire affaire avec toi. Bonne chance pour tes voyages !}
-{261}{}{Salut.}
+{261}{}{Au revoir.}
 {270}{}{Quel plaisir de te voir de retour ! Tu t'intéresses à autre chose ?}

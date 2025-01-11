@@ -29,7 +29,7 @@
  has more understanding in this matter than I. He can usually be found in the vault library.}
 {121}{}{Thank you. I look forward to meeting Goris.}
 {122}{}{I have no intention of adding a deathclaw to my list of friends. Bye!}
-{123}{}{All right.}
+{123}{}{Okej.}
 {124}{}{They are gone, human. We did not kill them and take their home. It is not our way to kill. I
  understand that you may not believe me, but I hope that you will judge me by my actions toward you and
  not out of fear or prejudice.}
@@ -177,7 +177,7 @@
 {231}{}{. Have you examined the machine?}
 {232}{}{. I will wait for your return.}
 {233}{}{. Have you found the part to fix the machine?}
-{234}{}{Uh, okay.}
+{234}{}{Eh, okej.}
 {235}{}{I hope you are enjoying your stay.}
 {236}{}{Unfortunately, it had to come to this. I allowed him to stay unharmed as long as he presented no threat to the pack. He chose his path. I hope you understand.}
 {237}{}{You bad.}

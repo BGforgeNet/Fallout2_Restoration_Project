@@ -1,5 +1,5 @@
-{100}{}{Tu vois un pillard des Khans.}
-{101}{}{Tu vois un pillard des Khans.}
+{100}{}{Tu vois un membre des Khans.}
+{101}{}{Tu vois un membre des Khans.}
 {102}{}{Tu vois une personne robuste dotée d'une armure, d'armes et d'un air mauvais. Sûrement un Khan.}
 {103}{}{Hé... Je ne crois pas qu'on se connaisse. Bon sang, mais qui es-tu ?}
 {104}{}{J'ai mes papiers ! Laisse-moi te les montrer.}
@@ -25,7 +25,7 @@
 {124}{}{J'me demande comment c'était d'être président à l'époque.}
 {125}{}{Je parie que tu pourrais faire ce que tu veux si t'étais président.}
 {126}{}{Je pense que mon père serait fier de moi aujourd'hui. Dommage que je l'aie tué...}
-{127}{}{JE DETESTE LES RATS, JE LES DETESTE, JE LES DETESTE, JE LES DETESTE !!}
+{127}{}{JE DETESTE LES RATS, JE LES DETESTE, JE LES DETESTE, JE LES DETESTE !}
 {128}{}{Hé, c'est une nouvelle armure que tu portes là ? Comment t'as fait pour avoir une nouvelle armure ?!}
 {129}{}{Ce foutu abri pue à mort. T'en as pas marre toi ?}
 {130}{}{Hé, qui doit-on surveiller de près ?}
@@ -33,7 +33,7 @@
 {132}{}{Je crois qu'on devrait liquider tout le monde là-haut et plus remettre les pieds ici.}
 {133}{}{Bon sang, c'est quoi ton problème avec les rats ?}
 {134}{}{As-tu déjà arraché une patte à un rat ?}
-{135}{}{J'aime les flingues, ouais ! J'AIME LES FLINGUES, JE LES ADORE !!}
+{135}{}{J'aime les flingues, ouais ! J'AIME LES FLINGUES, JE LES ADORE !}
 {136}{}{Hé, est-ce que quelqu'un m'écoute ?}
 {137}{}{Oh, de toute façon, je parle juste pour ne pas perdre la tête.}
 {138}{}{Hé, quelqu'un sait-il ce qu'il y avait dans le thé de Long Island ?}

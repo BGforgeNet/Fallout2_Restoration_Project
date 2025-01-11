@@ -1,6 +1,6 @@
 {100}{}{Tu vois une femme, de race humaine.}
-{101}{}{Tu vois une citadine.}
-{102}{}{Tu vois une citadine. Bien que ses vêtements ne soient pas beaux, elle a l'air assez fière.}
+{101}{}{Tu vois un habitante de la ville.}
+{102}{}{Tu vois une habitante de la ville. Bien que ses vêtements ne soient pas beaux, elle a l'air assez fière.}
 {147}{}{N'y a-t-il pas un endroit sûr ?}
 {148}{}{Depuis quand la violence est-elle aussi commune ?}
 {149}{}{Je déménagerai... on est pas en sécurité ici.}
@@ -51,7 +51,7 @@
 {194}{}{J'espère que tu y as pris autant de plaisir que Francis.}
 {195}{}{Ces pauvres gens.}
 {196}{}{Qui c'est qui est tombé de l'échelle de Jacob ?}
-{197}{}{(see other floats from 1)}
+{197}{}{(voir d'autres flotteurs à partir de 1)}
 {198}{}{C'est cool de t'avoir en ville.}
 {199}{}{Tu veux traîner ici un moment ?}
 {200}{}{J'espère que ça te plaît ici !}

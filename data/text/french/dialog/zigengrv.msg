@@ -12,7 +12,7 @@
 {253}{}{Le nom et la date sur cette pierre tombale ont été effacés par les intempéries.}
 {260}{}{Il n'y a aucune inscription sur cette stèle.}
 {261}{}{Le nom inscrit sur la stèle a été effacé.}
-{262}{}{Le nom inscrit sur la stèle est Roger Rate.}
+{262}{}{Le nom inscrit sur la stèle est John Doe.}
 {263}{}{Le nom et la date sur cette pierre tombale ont été effacés par les intempéries.}
 {275}{}{La pierre tombale indique : }
 {276}{}{La stèle indique : }

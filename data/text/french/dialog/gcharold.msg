@@ -1,5 +1,5 @@
 {100}{}{Tu vois une Goule à l'apparence ravagée.}
-{101}{}{Voici Harold.}
+{101}{}{Tu vois Harold.}
 {102}{}{Tu vois une très vieille Goule qui a pourtant l'air encore alerte.}
 {103}{hld1a}{Y faut que j'te dise, l'vieux Harold est un peu lent à se mettre en route. Alors si on discute tous les deux, on va pas aller très loin.}
 {104}{hld1b}{Ah, une andouille ! Ben, j'ai pas le temps d'essayer de comprendre ce que tu racontes.}

@@ -339,5 +339,5 @@
 {3260}{}{Donc ils étaient des traîtres à leur peuple, mais pour le bien de ce peuple. Je vois.}
 {3261}{}{Bon, j'en ai assez entendu sur tes parents. Et si tu passais directement au moment ou tu es devenue une espionne ?}
 {5000}{}{[La personne te regarde dans les yeux, ses yeux s'ouvrent soudainement et elle se met inspirer profondément.]}
-{5001}{}{[FIN]}
+{5001}{}{[Terminé]}
 {5002}{}{Bordel de merde !}

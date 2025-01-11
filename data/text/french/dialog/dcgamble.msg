@@ -82,8 +82,8 @@
 {530}{}{Je l'déteste ce jeu !}
 {531}{}{Merde ! C'était quoi mon chiffre sur le dernier jeu ?}
 {532}{}{Noir, encore ?!!}
-{600}{}{Allez, va-t-en !}
+{600}{}{Dégage !}
 {601}{}{Pourquoi as-tu fait ça ?}
-{602}{}{Allez, va-t-en !}
+{602}{}{Dégage !}
 {603}{}{Arrête, je suis fragile !}
 {604}{}{Je ne te ferai jamais ça !}

@@ -1,7 +1,7 @@
 {100}{}{Tu vois un marchand aux joues rondes avec un bandeau sur l'oeil.}
 {101}{}{Roy le borgne te dévisage avec son oeil valide alors qu'il éponge son front couvert de sueur.}
 {200}{}{[Alors que tu approches du site de rendez-vous avec Krom, tu es accueilli par un marchand aux joues rondes, avec un bandeau sur l'oeil, entouré de gardes du corps. Bien que le marchand sue en abondance, il t'apparaît particulièrement joyeux.]}
-{201}{}{[Plus]}
+{201}{}{[Suite]}
 {202}{}{[Après avoir donné une énergique accolade à Krom, il se tourne vers toi et te regarde. Bien qu'il ne cesse de sourire, son oeil valide trahit une certaine suspicion à ton égard.] Krom ici présent m'affirme que je dois faire affaire avec toi aujourd'hui. [Il hausse les épaules.] Ceux qui me connaissent m'appellent Roy le borgne, mais je me demande bien pourquoi. [Il rit de bon coeur de sa plaisanterie.] Et toi quel est ton nom mon ami ?}
 {203}{}{Je m'appelle }
 {204}{}{ d'Arroyo.}
@@ -24,9 +24,9 @@
 {253}{}{Ca devrait être intéressant. Voyons voir ça.}
 {254}{}{Je sais déjà comment ça fonctionne, j'en ai moi-même utilisé des quantités de fois.}
 {260}{}{[Il te sourit à toi et à Krom, puis se tourne vers un des ses gardes du corps.] Warren, donne-moi ta main. [Roy sort rapidement un couteau et entaille l'avant bras de Warren. Warren grimace mais ne crie pas. Roy vous sourit.] Comme vous pouvez le voir Warren vient de subir une vilaine blessure.}
-{261}{}{[Plus]}
+{261}{}{[Suite]}
 {262}{}{Je vous assure mes amis, que la blessure, et la douleur de Warren sont réelles. Vous pouvez voir que ça n'est pas une fausse lame. [Il tend le couteau à Krom, qui le regarde à peine avant de hocher la tète et de lui rendre.] A présent, regardez. [Il injecte la substance contenue dans le Stimpak dans le bras de Warren. Pratiquement instantanément le saignement s'arrête. Roy utilise un chiffon sale pour nettoyer le sang, révélant une entaille fraîchement cicatrisée.]}
-{263}{}{[Plus]}
+{263}{}{[Suite]}
 {264}{}{Maintenant, imaginez les avantages que vous donneraient ces Stimpak sur les tribus rivales. Et au contraire de la poudre de guérison que vos gars aiment concocter, le Stimpak n'a *aucune* contrepartie, en fait cette petite merveille est sans aucun effet secondaire. Mais je sais ce que vous pensez, cela doit coûter une fortune, n'est-ce pas ? Faux. Je vous apprécie les gars, et je vais pratiquement vous les donner.}
 {270}{}{[Ignorant ton commentaire, il sourit à Krom, puis se tourne vers un de ses gardes du corps.] Warren, donne-moi ta main. [Roy sort rapidement un couteau et entaille l'avant bras de Warren. Warren grimace mais ne crie pas. Roy vous sourit.] Comme vous pouvez le voir Warren vient de subir une vilaine blessure.}
 {275}{}{Combien ?}

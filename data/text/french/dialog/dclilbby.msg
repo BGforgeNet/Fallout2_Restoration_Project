@@ -1,4 +1,4 @@
-{100}{}{Un petit garçon.}
+{100}{}{Tu vois un petit garçon.}
 {101}{}{Vous voyez le petit Bobby.}
 {102}{}{Il porte des vêtements sales et a des bleus sur le cou et la figure.}
 {103}{}{Il porte des vêtements neufs et a un visage souriant.}

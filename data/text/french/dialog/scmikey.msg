@@ -6,7 +6,7 @@
 {105}{}{Donne-moi de la viande.}
 {106}{}{J'en prends une.}
 {107}{}{Que pouvez-vous me dire à propos de cette ville ?}
-{108}{}{Salut.}
+{108}{}{Au revoir.}
 {109}{}{Bon appétit !}
 {110}{}{Tu as de la moutarde et des oignons là-bas.}
 {111}{}{Hé !}

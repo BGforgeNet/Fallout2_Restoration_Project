@@ -22,4 +22,4 @@
 {242}{}{T'en es sûr ?}
 {250}{}{Dehors !}
 {251}{}{Touches-y encore une fois et ton compte est bon.}
-{252}{}{Je t'ai prévenu !}
+{252}{}{Je t'avais prévenu !}

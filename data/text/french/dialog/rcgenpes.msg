@@ -1,4 +1,4 @@
-{100}{}{Tu vois un citadin de Redding.}
+{100}{}{Tu vois un habitant de Redding.}
 {101}{}{Cet homme te semble être du coin.}
 {102}{}{Tu vois un mineur.}
 {103}{}{Tu vois un fermier de Redding.}
@@ -120,7 +120,7 @@
 {219}{}{Une fois, j'ai touché un gecko mort.}
 {220}{}{C'est vrai que tu manges les gens ?}
 {221}{}{Je croyais que tu avais des cornes sur la tête.}
-{222}{}{D'où tu viens ?}
+{222}{}{D'où viens-tu ?}
 {223}{}{Est-ce que tu viens de loin ?}
 {224}{}{T'peux pas m'attraper !}
 {225}{}{Na, na, nère !}

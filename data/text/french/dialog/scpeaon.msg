@@ -21,7 +21,7 @@
 {120}{}{Ils tueront les personnes comme toi. Tout simplement.}
 {121}{}{C'est quoi ton problème ?}
 {122}{}{Nous sommes des gens civilisés, pourquoi ne nous entendons-nous pas ?}
-{123}{}{Ne me parle pas.}
+{123}{}{Ne m'adresse pas la parole.}
 {124}{}{Quoique ce soit, parles-en à quelqu'un d'autre.}
 {125}{}{Je ne pense pas que tu sois si coriace que ça.}
 {126}{}{Pourquoi ne pars-tu pas ?}

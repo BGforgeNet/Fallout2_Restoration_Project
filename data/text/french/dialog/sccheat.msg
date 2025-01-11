@@ -2,11 +2,11 @@
 {101}{}{This guy shouldn't be here.}
 {102}{}{Hey it's a cheat character.}
 {103}{}{Hey that hurt.}
-{104}{}{Hello what would you like to happen.}
-{105}{}{Setting Westin's flags.}
-{106}{}{Set Accept Snuffing westin?}
+{104}{}{Bonjour, que veux-tu qu'il se passe ?}
+{105}{}{Mise en place des drapeaux de Westin.}
+{106}{}{Set Accept Snuffing Westin?}
 {107}{}{Unset Accept Snuffing Westin.}
-{108}{}{Set Westin Dead.}
+{108}{}{Etablir la mort de Westin.}
 {109}{}{Unset Westin Dead.}
 {110}{}{Set Westin Cancel Snuff}
 {111}{}{Unset Westin Cancel Snuff.}

@@ -13,10 +13,10 @@
 {308}{}{Content de te compter parmi nous.}
 {309}{}{Salut ! Comment ça va ?}
 {310}{}{T'as déjà bastonné un esclave ?}
-{311}{}{Re-bonjour !}
+{311}{}{Rebonjour !}
 {312}{}{Tu pars à la chasse ?}
 {313}{}{C'est plutôt calme en ce moment.}
 {314}{}{Quand est-ce qu'il y aura de l'action ?}
-{315}{}{La chasse à l'esclave me manque. La garde, c'est nul.}
-{316}{}{La chasse à l'esclave, c'est top.}
+{315}{}{La chasse aux esclaves me manque. La garde, c'est nul.}
+{316}{}{La chasse aux esclaves, c'est top.}
 {317}{}{Hé. Ca fait plaisir de t'avoir avec nous.}

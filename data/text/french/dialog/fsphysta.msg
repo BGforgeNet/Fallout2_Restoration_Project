@@ -6,7 +6,7 @@
 {105}{}{[Deviner le mot de passe]}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{[Pirater l'ordinateur]}
-{108}{}{Déconnexion.}
+{108}{}{[Déconnexion]}
 {109}{}{Base de données de physique : - Exploration - Théorie -}
 {110}{}{Exploration...}
 {111}{}{Théorie...}
@@ -27,7 +27,7 @@
 {126}{}{Activer la station.}
 {127}{}{[Quitter]}
 {128}{}{Tu entres au hasard une série de lettres et tu obtiens le plein accès ! Mais comment fais-tu pour être aussi chanceux ?}
-{129}{}{[suite]}
+{129}{}{[Suite]}
 {130}{}{L'ordinateur ne répond à aucune commande.}
 {131}{}{Tu ne trouves aucun endroit pour mettre ça.}
 {132}{}{Copie des plans en cours..... Copie terminée... Revenir à... Erreur I/O... GPF... Désactivation du terminal en cours.}

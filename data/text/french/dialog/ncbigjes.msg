@@ -178,7 +178,7 @@
 {633}{}{Très bien, je m'en vais. Tu peux me traiter de lâche, mais j'aime bien respirer.}
 {640}{}{[Il hoche la tête.] C'est bien. Il est vieux... et paralysé... Il se cache dans son bar, « Chez Salvatore », à côté du Casino Bishop. C'est un lâche qui ne quitte jamais sa chambre. Reviens quand il sera... mort.}
 {641}{}{Paralysé ?}
-{642}{}{D'accord.}
+{642}{}{Très bien.}
 {650}{}{[Il hoche la tête.] Les jambes de ce boucher... sont faibles. [Jésus s'essuie le front puis inspire poussivement.] Il a aussi... du mal... à respirer. Il utilise un... ballon d'oxygène.}
 {651}{}{Un ballon d'oxygène, hein ? Hum. D'accord.}
 {652}{}{Je reviendrai quand il sera mort, Señor Mordino.}
@@ -232,4 +232,4 @@
 {1278}{}{J'ai parlé à votre fils, Señor Mordino. Je suis esclavagiste et je cherche du travail.}
 {1291}{}{Très bien. Souhaites-tu acheter des esclaves ?}
 {1621}{}{Bien... d'accord. Je vais le faire.}
-{5268}{}{ ?!! Alors VIENS LA, ESPECE DE GROS PORC !!}
+{5268}{}{?!! Alors VIENS LA, ESPECE DE GROS PORC !}

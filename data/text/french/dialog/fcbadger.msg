@@ -51,7 +51,7 @@
 {150}{}{Quel est ton prix ?}
 {151}{}{Ouais, peu importe. Je dois y aller.}
 {152}{}{Ca veut dire que je peux trouver les données dont tu as besoin.}
-{153}{}{Can you do something for me?}
+{153}{}{Tu peux faire quelque chose pour moi ?}
 {154}{}{Je vois. Cool. J'ai d'autres questions.}
 {155}{}{Je vois. Merci.}
 {156}{}{Ouais, c'est ça. Bon, je dois m'y remettre.}

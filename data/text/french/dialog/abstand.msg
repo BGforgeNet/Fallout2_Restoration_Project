@@ -3,7 +3,7 @@
 {102}{}{C'est un citoyen de l'Abbaye.}
 {103}{}{C'est une citoyenne de l'Abbaye.}
 {200}{}{Bienvenue, étranger.}
-{201}{}{Paix à toi.}
+{201}{}{Sois en paix.}
 {202}{}{Cet endroit est génial !}
 {203}{}{Bonjour.}
 {204}{}{Beau temps.}

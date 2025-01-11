@@ -78,7 +78,7 @@
 {361}{}{Très bien, allons-y.}
 {362}{}{Pas encore. Je t'avertirai.}
 {370}{}{[En arrivant à Gecko tu présentes le jeune moine à Wooz. Ils sympathisent rapidement et commencent à comparer leurs decks respectifs. Tu t'apprêtes à partir quand frère Jason finit par décrocher suffisamment longtemps des Tragic pour venir te parler.]}
-{371}{}{[Plus]}
+{371}{}{[Suite]}
 {372}{}{Putain de merde, Wooz possède un Dahlia noir ! Cette carte à elle seule rend ce voyage indispensable. Bien sûr les Goules sont vraiment horribles, mais je me suis aperçu qu'en enlevant mes lunettes elles devenaient tout de suite beaucoup plus tolérables. Quoi qu'il en soit, merci beaucoup de m'avoir amené ici. Tiens j'ai... humm... emprunté ceci à l'abbaye Memorabilia, coup de chance, c'est une des dernières reliques technologiques encore en état de fonctionner. [Il te tend un Stealth Boy] A plus !}
 {373}{}{Merci. Au revoir.}
 {374}{}{Savoir que je n'aurais plus à t'écouter te plaindre me suffit largement. Salut.}

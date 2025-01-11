@@ -20,11 +20,11 @@
 {341}{}{En fait, oui, je suis aussi réparateur, avec une bonne part d'expérience sur les technologies anciennes. Je crois que je peux manipuler ces torpilles. Je ferai fonctionner correctement les propulseurs et m'assurerai qu'elles ne nous réduisent pas en petits morceaux.}
 {342}{}{Très bien, je vais y aller.}
 {350}{}{Oh, les spécialistes sur deux domaines ne sont pas légion dans les terres désolées. Je suppose que je peux te faire confiance, alors va et répare-moi ces torpilles que je puisse finalement me sentir un peu plus en sécurité.}
-{351}{}{D'accord.}
+{351}{}{Très bien.}
 {360}{}{Hé, je suis occupé là.}
-{361}{}{Désolé, je travaille.}
+{361}{}{Pardon, mais je travaille.}
 {370}{}{Ne touche pas à ça !}
 {371}{}{Qu'est-ce que je t'ai dit ?!}
-{372}{}{Je t'ai prévenu !}
+{372}{}{Je t'avais prévenu !}
 {375}{}{Qu'est-ce que tu fais, putain ! Gardes !}
 {380}{}{Arrête de perdre ton temps et va bosser.}

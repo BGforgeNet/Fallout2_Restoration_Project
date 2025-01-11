@@ -4,7 +4,7 @@
 {201}{}{Ah te voilà. Besoin d'autre chose ?}
 {202}{}{Faisons affaire.}
 {203}{}{A ce qu'il paraît vous pouvez m'aider au sujet des caravanes.}
-{204}{}{Ca n'a pas d'importance. Salut.}
+{204}{}{Ca n'a pas d'importance. Au revoir.}
 {210}{}{J'ai remarqué un grand nombre de vieux objets et d'équipements entreposés ici à l'Abbaye. Auriez-vous quelque chose de spécial qui pourrait nous intéresser ?}
 {211}{}{Hé hé, oui les habitants de l'Abbaye aiment collectionner les objets. C'est notre façon de nous remémorer le passé. [Il regarde Marcus.] C'est marrant que tu me demandes ça, car j'ai peut-être quelque chose qui pourrait t'intéresser.}
 {212}{}{Hé hé, oui les habitants de l'Abbaye aiment collectionner les objets. C'est notre façon de nous remémorer le passé. [Il te regarde toi et tes compagnons.] Désolé, je ne pense pas avoir quelque chose qui pourrait t'être utile pour le moment.}

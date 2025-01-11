@@ -69,7 +69,7 @@
 {430}{}{[Il sourit et commence à se déshabiller.] Tu es vraiment mon type de fille. Prépare-toi à l'expérience Dex, le duc du sexe.}
 {431}{}{[Continuer]}
 {440}{}{[Après une intense partie de jambe en l'air sur le sol de la chambre, vous finissez par vous effondrer d'épuisement. Dex tiens un petit objet sous ta gorge.] Crie pour elle, bébé. [Tu as tout juste le temps de réaliser qu'il s'agit d'une oreille humaine, que tu sens une lame te traverser la poitrine. Tu cries au fur et à mesure que les coups de poignard s'enfoncent dans ton corps...]}
-{441}{}{[Fin]}
+{441}{}{[Terminé]}
 {450}{}{Holà, holà, attends une seconde ma jolie. Tu m'as bien dit 150 ans ? [Il secoue la tète en signe de désapprobation.] Putain c'est incroyable... [Il pousse plus loin sa réflexion.] Mais tu dois admettre, que je suis pas mal pour mon âge. [Il te sourit, révélant une mâchoire aux dents nacrées, produit de la médecine dentaire d'avant guerre, vous laissant une impression étrange face à cette symétrie trop parfaite.]}
 {451}{}{Bien sûr, certaines femmes peuvent penser que tu es un type attirant, mais je suis sûre qu'elles seraient un peu gênées si elles venaient à connaître ton passé de tueur psychopathe, le genre de truc qui, tu sais, tue le côté attirant chez un mec.}
 {452}{}{Oui, t'es très attirant, mais honnêtement, je suis un peu nerveuse de te parler après ce que j'ai lu à propos de ton passé de tueur psychopathe.}
@@ -412,5 +412,5 @@
 {4260}{}{Pourquoi diable perdons-nous encore notre temps ici ? Sans déconner ?!}
 {4270}{}{Je pense pas avoir envie de rester dans cet endroit.}
 {5000}{}{[Il tourne rapidement la tête dans ta direction avant se lèver d'un bond. A peine t'a-t-il regardé, que ses yeux s'exorbitent et il commence à s'étouffer.]}
-{5001}{}{[FIN]}
+{5001}{}{[Terminé]}
 {5002}{}{Bordel de merde !}

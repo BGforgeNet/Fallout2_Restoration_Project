@@ -1,4 +1,4 @@
-{100}{}{Voici une jeune femme.}
+{100}{}{Tu vois une jeune femme.}
 {101}{}{Tu vois Chrissy, la fille d'Elisabeth.}
 {102}{}{Tu vois une jolie jeune fille. Elle semble sûre d'elle et capable de se débrouiller en cas de combat.}
 {103}{}{Si tu es ici pour essayer de me violer, je vais te faire bouffer tes bijoux de famille. Compris ?}

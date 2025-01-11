@@ -6,22 +6,22 @@
 {105}{}{Que puis-je faire pour toi ?}
 {106}{}{Oh ! Ah ! Oh !}
 {107}{}{Qui es-tu ?}
-{108}{}{Où suis-je ici ?}
+{108}{}{Quel est cet endroit ?}
 {109}{}{Qui est le responsable ici ?}
 {110}{}{Rien. Salut.}
 {111}{}{Hum. Je regrette, j'peux rien faire pour toi. Tu devrais peut-être demander à quelqu'un d'autre.}
 {112}{}{Anks ?}
 {113}{}{Je m'appelle Marc. Je suis très intelligent et je connais tout. [Il sourit.]}
 {114}{}{Oh ! J'ai d'autres questions.}
-{115}{}{Salut.}
+{115}{}{Au revoir.}
 {116}{}{Tu es sur le Vaisseau de Marine Poséidon Valdez, aussi appelé PMV Valdez. Si tu veux d'autres informations sur le Valdez, le Capitaine est le mieux placé pour te répondre.}
 {117}{}{Le Capitaine ? Qui c'est ça ?}
 {118}{}{J'ai d'autres questions.}
-{119}{}{Salut.}
+{119}{}{Au revoir.}
 {120}{}{Responsable ? Personne n'est responsable de nous.}
 {121}{}{D'où venez-vous tous ?}
 {122}{}{J'ai d'autres questions à te poser, alors.}
-{123}{}{Salut.}
+{123}{}{Au revoir.}
 {124}{}{Le Capitaine est un ancien militaire. Il est là-haut d'où il surveille tout. Il en connaît un rayon sur ce navire.}
 {125}{}{Merci. J'ai d'autres questions.}
 {126}{}{Merci. Au revoir.}
@@ -43,23 +43,23 @@
 {142}{}{Quels sont-ils ?}
 {143}{}{Où puis-je trouver le Capitaine ?}
 {144}{}{Je voulais te demander autre chose.}
-{145}{}{Salut.}
+{145}{}{Au revoir.}
 {146}{}{Ils sont fous. Ne leur fais pas confiance, sauf si tu es mentalement faible ou que tu aimes te faire arnaquer. Ils ne s'intéressent qu'à ton argent et à ton âme, qu'ils n'hésitent d'ailleurs pas à détruire pour arriver à leurs fins. Je l'ai trop souvent constaté.}
-{147}{}{Pouvez-vous le déplacer ce pétrolier ?}
+{147}{}{Avez-vous trouvé comment déplacer ce pétrolier ?}
 {148}{}{Parle-moi des Shis.}
 {149}{}{J'ai d'autres questions.}
-{150}{}{Salut.}
+{150}{}{Au revoir.}
 {151}{}{Ils ne sont pas désagréables. Ils se méfient un peu des étrangers, mais ce n'est peut-être pas un tort à notre époque. Ils ont d'étranges coutumes et ils parlent bizarrement, mais à part ça, ça va.}
-{152}{}{Pouvez-vous le déplacer ce pétrolier ?}
+{152}{}{Avez-vous trouvé comment déplacer ce pétrolier ?}
 {153}{}{Parle-moi des Hubologistes.}
 {154}{}{J'ai d'autres questions.}
-{155}{}{Salut.}
+{155}{}{Au revoir.}
 {156}{}{Tu veux en savoir plus sur nos projets ? Eh bien, on va continuer à se déplacer jusqu'à ce qu'on trouve un endroit qui n'ait pas été touché par l'avidité humaine et on essaiera d'y fonder une société meilleure.}
 {157}{}{Et comment allez-vous vous y prendre ?}
 {158}{}{J'ai d'autres questions.}
 {159}{}{Merci. Au revoir.}
 {160}{}{On espère qu'en évitant les erreurs de la société, les choses ne pourront pas être pires.}
-{161}{}{Pouvez-vous le déplacer ce pétrolier ?}
+{161}{}{Avez-vous trouvé comment déplacer ce pétrolier ?}
 {162}{}{Parle-moi des Hubologistes.}
 {163}{}{Parle-moi des Shis.}
 {164}{}{J'ai d'autres questions.}

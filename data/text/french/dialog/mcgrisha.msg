@@ -3,7 +3,7 @@
 {102}{}{Tu n'arrives pas exactement à le reconnaître, mais il a un air familier.}
 {151}{}{Je vous avais bien dit que votre tour viendrait !}
 {152}{}{Bwahahaha !}
-{153}{}{Allez-vous-en !}
+{153}{}{Va-t'en !}
 {154}{}{Je suis occupé !}
 {155}{}{Je me disais bien que ma fille était bizarre.}
 {156}{}{A chacun ses goûts, je suppose.}
@@ -148,6 +148,6 @@
 {1239}{}{Allons donc. On dirait plutôt que vous et mon neveu étiez en train de danser le tango horizontal sous les draps !}
 {1403}{}{Comment osez-vous souiller l'honneur de }
 {1412}{}{ma fille ?}
-{1413}{}{fils.}
+{1413}{}{mon fils ?}
 {1600}{}{. J'espère que tu prends bien soin de ma fille Miria. Elle est le soleil de ma vie et ça me briserait vraiment le coeur s'il lui arrivait quoi que ce soit. Où est-elle, d'ailleurs ? J'espérais bien pouvoir la revoir.}
 {1601}{}{. Comment ça se passe, la vie de couple ? Je vois que mon fils Davin ne t'accompagne pas. On peut dire qu'il me manque. Peut-être qu'à ta prochaine visite, tu l'amèneras avec toi. Ca ferait vraiment le bonheur d'un vieil homme, s'il pouvait revoir son seul fils.}

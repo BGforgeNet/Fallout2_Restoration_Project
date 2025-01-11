@@ -152,7 +152,7 @@
 {617}{}{J'aurais besoin de batteries, mais tu sais quoi ? J'ai pas envie de payer avec des jetons... Tu ne serais pas intéressé par AUTRE CHOSE ?}
 {619}{}{Bon, très bien. A bientôt.}
 {630}{}{[Hausse les épaules.] Désolé, on n'a pas de batteries en ce moment... Reviens dans une semaine ou deux, peut-être qu'on en aura. Bon, mais ça nous empêche pas de faire des AFFAIRES...}
-{631}{}{D'accord.}
+{631}{}{Très bien.}
 {632}{}{Je regrette, seulement s'il s'agit d'affaires. A plus tard, T-Ray.}
 {640}{}{Je t'ai déjà donné mon corps y a cinq minutes ! Tu veux me TUER ou quoi ?!}
 {641}{}{Attends un peu...}

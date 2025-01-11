@@ -24,7 +24,7 @@
 {123}{}{Ouaf ? <Boing> Scratch ?}
 {124}{}{Comment vas-tu ?}
 {125}{}{Je veux que tu attendes ici jusqu'à mon retour.}
-{126}{}{Ca suffit.}
+{126}{}{C'est tout pour l'instant.}
 {127}{}{<Clic> ::Gémissements::}
 {128}{}{Ca ne fait rien.}
 {129}{}{D'accord.}

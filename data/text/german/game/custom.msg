@@ -4,7 +4,7 @@
 {3}{}{Abstand}
 {4}{}{Wen angreifen}
 {5}{}{Medizin benutzen}
-{10}{}{[Fertig]}
+{10}{}{Ok}
 {11}{}{Abbrechen}
 {99}{}{Nicht anwendbar}
 {100}{}{Immer!}
@@ -18,7 +18,7 @@
 {203}{}{Dir geht es nicht gut}
 {204}{}{Du brauchst einen Druckverband}
 {205}{}{Niemals!}
-{300}{}{Keine}
+{300}{}{Aus}
 {301}{}{Nahkampf}
 {302}{}{Nahkampf, dann Fernkampf}
 {303}{}{Fernkampf, dann Nahkampf}

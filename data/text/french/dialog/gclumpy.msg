@@ -92,7 +92,7 @@
 {332}{}{Eh bien, l'un de nous est dingue, mais t'as pas l'air de savoir qui.}
 {340}{}{Eh bien, je ne sais pas si ce sont vraiment des gens, mais généralement ça se produit toutes les deux nuits. J'entends des bruits d'allées et venues provenant de la fosse du réacteur. Je ne sais pas ce qui se passe et d'ailleurs, je ne veux pas le savoir.}
 {341}{}{Je crois que je ne peux pas t'en vouloir. Sans parler de ce qu'il doit se passer là-bas.}
-{342}{}{Merci pour l'information. Au revoir.}
+{342}{}{Merci du renseignement. Au revoir.}
 {343}{}{La fosse du réacteur n'est-elle pas trop radioactive pour permettre toute forme de vie à l'intérieur ?}
 {350}{}{Non, cette partie du réacteur n'était pas terminée quand la guerre a éclaté.}
 {351}{}{Oh, je vois. Hum, dis-moi autre chose alors.}

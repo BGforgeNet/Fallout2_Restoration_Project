@@ -51,7 +51,7 @@
  you my new master?}
 {139}{}{Okej.}
 {140}{}{Nej.}
-{141}{}{All right.}
+{141}{}{Okej.}
 {142}{}{Nej tack.}
 {143}{}{You are not my master. I cannot speak to you. Good bye.}
 {144}{}{Okej.}

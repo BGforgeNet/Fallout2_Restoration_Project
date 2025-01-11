@@ -7,7 +7,7 @@
 {104}{}{Stop! Who would cross the Bridge of Death must answer me these questions three, 'ere the
  other side he see.}
 {105}{}{Cee... Deeee... Eee... Ffff... Gggg}
-{106}{}{Shamble off.}
+{106}{}{Stappla iväg.}
 {107}{}{Mycket bra.}
 {108}{}{Ask me the questions, bridge keeper. I'm not afraid.}
 {109}{}{Maybe I'll just come back later.}
@@ -15,7 +15,7 @@
 {111}{}{Hhhh....Eye... Jay... Kay... Lell...}
 {112}{}{?}
 {113}{}{Me}
-{114}{}{Shamble off.}
+{114}{}{Stappla iväg.}
 {115}{}{of Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakuin}

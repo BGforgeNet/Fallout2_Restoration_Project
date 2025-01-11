@@ -13,7 +13,7 @@
 {112}{}{Je recherche l'Abri.}
 {113}{}{Peux-tu me parler de la Cité de l'Abri ?}
 {114}{}{Que fais-tu dans le coin ?}
-{115}{}{Salut.}
+{115}{}{Au revoir.}
 {116}{}{Vic ?}
 {117}{}{Il t'a vendu une fiole d'eau ? Une fiole avec un *13* dessus ?}
 {118}{}{C'est pas grave. Je dois partir.}
@@ -51,7 +51,7 @@
 {150}{}{Je recherche l'Abri.}
 {151}{}{Peux-tu me parler de la Cité de l'Abri ?}
 {152}{}{Que fais-tu dans le coin ?}
-{153}{}{Salut.}
+{153}{}{Au revoir.}
 {154}{}{Ben... Il y a cet Abri, à l'intérieur de la Cité. L'as-tu déjà vu ? Ca pourrait être celui que tu cherches.}
 {155}{}{Ben... Il y a cet Abri, à l'intérieur de la Cité. C'est ça que tu cherches ?}
 {156}{}{Peut-être. J'ai d'autres questions...}

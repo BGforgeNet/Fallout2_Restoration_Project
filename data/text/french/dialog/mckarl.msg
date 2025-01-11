@@ -22,7 +22,7 @@
 {169}{}{Oh ! Une personne bonne et généreuse... <Hic> Qu'est-ce que Karl peut faire pour ton service ? [Il enlève sa casquette et tend la main.]}
 {170}{}{Tiens, voici $100.}
 {173}{}{Je m'excuse, je n'ai rien à te donner. Au revoir.}
-{174}{}{Sais-tu où je peux trouver un J.E.K. ?}
+{174}{}{Sais-tu où je peux trouver un J.E.K ?}
 {175}{}{Tu as parlé d'un jardin. J'aimerais en savoir plus à ce propos.}
 {178}{}{Moi aller.}
 {179}{}{Hé radin ! <Hic> Allez, je sais bien qu't'as d'l'argent... <Hic> Juste quelques p'tites pièces alors... <Hic> Quelque chose, quoi. Soyez pas égoïste !}
@@ -70,12 +70,12 @@
 {233}{}{Hein ? J'peux rentrer chez moi ? Y'a p'us d'fantômes ? [Karl s'effondre et pleure. Eh ben, y a rien de plus triste qu'un homme qui pleure...] Merci, je peux enfin rentrer chez moi !}
 {234}{}{Où ça ?! Noooonnnn ! Ils m'ont retrouvé !}
 {235}{}{Ben oui, j'vivais dans le jardin le plus grand... <Hic> qu'il pouvait exister... Sauf que... <Hic> d'où je viens, ça s'appelle une ferme...}
-{236}{}{Tu ne te souviens pas ? Nous parlions d'un J.E.K. et tu as parlé d'un paradis.}
+{236}{}{Tu ne te souviens pas ? Nous parlions d'un J.E.K et tu as parlé d'un paradis.}
 {237}{}{Ah, laisse tomber va.}
 {238}{}{Hé... <Hic> Tu es plutôt pas mal ! Toi et moi, on peut aller à l'arrière... <Hic> et faire plus ample connaissance. Je peux payer... J'ai $1 000. [Karl te dévisage d'un air suggestif.]}
 {239}{}{Tu as remarqué que tu parles à un homme, n'est-ce pas ?}
 {240}{}{Bien sûr, mais ça te coûtera $1 000.}
-{241}{}{Merci de ta proposition, mais je préférerais parler du J.E.K..}
+{241}{}{Merci de ta proposition, mais je préférerais parler du J.E.K.}
 {242}{}{Jamais de la vie !}
 {243}{}{T... tu es tellement adorable... <Hic> si tu ne dis rien, je ne dirai rien non plus. <Hic>}
 {244}{}{[Tu sens des hauts le coeur t'envahir.] Il faut que je m'en aille.}

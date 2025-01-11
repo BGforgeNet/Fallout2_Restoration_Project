@@ -57,7 +57,7 @@
 {156}{}{Voyons... Le contrat parle de $500. Voilà.}
 {157}{}{Elle m'a demandé à l'instant de modifier le montant. On dirait que tu as un bonus. Voilà $900 et les remerciements de la RNC. Bon, j'ai du travail. Au revoir.}
 {158}{}{Selon la Présidente, tu devrais savoir qu'il y a un espion chez toi, un certain Feargus.}
-{159}{}{Salut.}
+{159}{}{Au revoir.}
 {160}{}{Feargus ? J'y crois pas !}
 {161}{}{Jette un coup d'oeil sur ce disque.}
 {162}{}{C'est ça... J'me casse.}

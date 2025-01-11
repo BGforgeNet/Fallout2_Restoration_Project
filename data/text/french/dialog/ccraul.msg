@@ -35,12 +35,12 @@
 {134}{}{Raul pense que tu dois être dingue pour te balader sans uniforme.}
 {135}{}{Hé, si le Sergent t'attrape sans ton uniforme, il va te passer un sacré savon !}
 {136}{}{Que fais-tu sans uniforme ?}
-{137}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
-{138}{}{Des envahisseurs ! Appelez la garde !!}
-{139}{}{Gardes ! Des envahisseurs au hangar !}
+{137}{}{Putain de merde ! Nous sommes envahis ! Alerte !}
+{138}{}{Des intrus ! Appelez la garde !}
+{139}{}{Gardes ! Des intrus dans le hangar !}
 {140}{}{Hé, putain, qu'est-ce qu'il y a ? On est attaqués ?!}
 {141}{}{Pourquoi cette alerte ? Que se passe-t-il ?}
-{142}{}{Mais que se passe-t-il, Bon Dieu ?!}
+{142}{}{Mais bordel qu'est-ce qui se passe ici ?}
 {143}{}{Raul va t'emmener au Labo Médical.}
 {144}{}{Hé, fais tes prières !}
 {145}{}{Raul va te botter le cul !}

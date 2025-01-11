@@ -1,4 +1,4 @@
-1:MOINS D'UN MOIS APRES LA DESTRUCTION DE L'ENCLAVE, UNE GUERRE DES GANGS ECLATA DANS LES RUES DE NEW RENO.
-2:ARMES D'UN ARSENAL DATANT D'AVANT GUERRE, LES WRIGHT EMBRASERENT LES CASINOS DES AUTRES FAMILLES A L'AIDE DE LANCE-ROQUETTES.
-3:CETTE GUERRE DES GANGS DURA UN PEU PLUS DE QUARANTE-TROIS MINUTES, ET, LORSQUE LA FUMEE SE DISSIPA, LA MOITIE DE RENO AVAIT ETE DETRUITE.
-4:LE NOM DES WRIGHT EST AUJOURD'HUI COMMUNEMENT CITE COMME ETANT CELUI DES FONDATEURS DE NEW RENO.
+1:Moins d'un mois après la destruction de l'Enclave, une guerre des gangs éclata dans les rues de New Reno.
+2:Armés d'un arsenal datant d'avant-guerre, les Wright embrasèrent les casinos des autres familles à l'aide de lance-roquettes.
+3:Cette guerre des gangs dura un peu plus de quarante-trois minutes, et, lorsque la fumée se dissipa, la moitié de Reno avait été détruite.
+4:Le nom des Wright est aujourd'hui communément cité comme étant celui des fondateurs de New Reno.

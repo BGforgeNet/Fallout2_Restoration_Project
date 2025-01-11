@@ -7,7 +7,7 @@
 {106}{}{Boire.}
 {107}{}{Qui c'est le gros là-bas ?}
 {108}{}{Que peut-on faire dans cette ville ?}
-{109}{}{Salut.}
+{109}{}{Au revoir.}
 {110}{}{C'est Hoss, le garçon de la Présidente Tandi. Quand il boit, il est pas commode. Je ne m'approcherais pas de lui si j'étais toi.}
 {111}{}{C'était Hoss, le fils de la Présidente Tandi. Tu lui as filé une sacrée raclée !}
 {112}{}{La présidente Tandi ?}

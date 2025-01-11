@@ -11,12 +11,12 @@
 {304}{}{Content de te compter parmi nous.}
 {305}{}{Salut ! Comment ça va ?}
 {306}{}{T'as déjà bastonné un esclave ?}
-{307}{}{Re-bonjour !}
+{307}{}{Rebonjour !}
 {308}{}{T'es ici pour faire une autre rafle ?}
 {309}{}{C'est plutôt calme en ce moment.}
 {310}{}{Quand vais-je pouvoir voir de l'action ?}
 {311}{}{Attraper des esclaves me rend toujours souriant.}
-{312}{}{La chasse à l'esclave, c'est top.}
+{312}{}{La chasse aux esclaves, c'est top.}
 {313}{}{Hé, mec, heureux de t'avoir parmi nous.}
 {400}{}{Arrête-toi là. Tu crois que tu vas aller jusqu'où comme ça ?}
 {401}{}{Metzger m'envoie. Je dois parler au boss.}

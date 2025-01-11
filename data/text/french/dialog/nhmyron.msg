@@ -398,7 +398,7 @@
 {1275}{myn211}{Là, détends-toi, ma douceur...}
 {1276}{}{D'accoorzzzzzzz Zznnzznn Zzznnnzzzz.}
 {1285}{myn212}{Huuumm. Tu dois avoir la constitution d'une Brahmine. Sors d'ici beauté.}
-{1295}{myn213}{Ces gardes ne valent rien du tout... Bon, maintenant qu'on a été présentés, QU'EST-CE QUE T'ATTENDS POUR FOUTRE LE CAMP D'ICI ?!!}
+{1295}{myn213}{Ces gardes ne valent rien du tout... Bon, maintenant qu'on a été présentés, QU'EST-CE QUE T'ATTENDS POUR FOUTRE LE CAMP D'ICI ?!}
 {1296}{}{AIE OREILLES. TUER.}
 {1297}{}{Pas ami ?}
 {1305}{myn214a}{Ouais, bien sûr mon pote.}
@@ -529,7 +529,7 @@
 {1623}{}{Laisse tomber. J'ai d'autres questions à te poser...}
 {1624}{}{Oublie. Je me tire d'ici.}
 {1625}{}{Compte là-dessus, espèce de merde arrogante. Je me tire d'ici.}
-{1635}{myn237}{Amateur ? Amateur ?!! Chuis le génie du Jet, et n'oublie pas ça ! J'suis pas tombé dessus par hasard, je l'ai CREE.}
+{1635}{myn237}{Amateur ? Amateur ?! Chuis le génie du Jet, et n'oublie pas ça ! J'suis pas tombé dessus par hasard, je l'ai CREE.}
 {1636}{}{Je ne te crois pas. Montre-moi le procédé.}
 {1637}{}{Ouais, c'est ça, petit. Je me tire d'ici.}
 {1645}{myn238}{Trois mots : merde de Brahmine.}

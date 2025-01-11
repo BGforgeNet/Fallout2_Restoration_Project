@@ -1,4 +1,4 @@
-{100}{}{Un voyageur.}
+{100}{}{Tu vois un voyageur.}
 {101}{}{On dirait que cette personne cherche quelque chose.}
 {200}{}{A mort l'esclavagiste !}
 {201}{}{A bas l'oppresseur !}
@@ -33,7 +33,7 @@
 {335}{}{Non, parfois tu dois sacrifier quelques personnes pour en sauver d'autres. Et puis, ce sont des esclavagistes, pas vraiment des personnes.}
 {336}{}{Ouais, tu as raison. Bon, faut qu'je file.}
 {337}{}{Ah bon ? Pour moi, c'est comme si tu n'existais pas.}
-{338}{}{Allez va, salut.}
+{338}{}{Peu importe. Salut.}
 {340}{}{Salaud ! Je vais te tuer !}
 {341}{}{Salope ! Je vais te tuer !}
 {342}{}{Non, je te tuerai en premier !}
@@ -44,7 +44,7 @@
 {360}{}{Je veux arrêter le trafic d'esclaves.}
 {361}{}{Que veux-tu dire ?}
 {362}{}{Ah, d'accord. Bonne chance.}
-{363}{}{Allez va, salut.}
+{363}{}{Peu importe. Salut.}
 {370}{}{Essaie les esclavagistes. Ils font de très bonnes tueries.}
 {371}{}{Super. Merci pour le tuyau.}
 {372}{}{Tu es là. Je préférerais te tuer toi.}

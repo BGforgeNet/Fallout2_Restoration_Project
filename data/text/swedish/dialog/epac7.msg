@@ -12,16 +12,16 @@
 {230}{}{Of course I know the password, but unfortunately, I'm unable to share it with you. I understand your enthusiasm for wanting to experience all that this great facility has to offer, but there are rules we must follow for your own safety. Remember everyone, we offer guided tours of our complex at predetermined times.}
 {231}{}{Oh, you don't have to worry about my safety, I'm the Chosen One. Besides, when's the last time you had a *real* visitor? Do you really want to leave me disappointed?}
 {232}{}{Right then. Goodbye}
-{240}{}{Of course not. But, if I give you the password, then not only could I be endangering you, but I'd also be endangering the complex. Children, please do not taunt the holograms.}
-{241}{}{How could that endanger the complex? I hate to break it to you lady, but this complex has already gone to hell and back. There's nothing here but hazardous chemicals and broken robots. Honestly, I don't see how I could possibly make matters worse.}
-{242}{}{Oh forget it then.}
-{250}{}{I... I don't know. I'd be defying protocol. But... perhaps if you could assist me with something. Visitors, please note that the blue level is restricted for reasons that are very uninteresting. There's no need to be curious about it.}
-{251}{}{Sure, I could assist you. Just tell me what you need.}
-{260}{}{Ah yes, it looks much better in here now, thank you. The password is ABRE. Just speak clearly to the door and it
- will open. Now would everybody please...}
-{261}{}{YES, we've heard you already. Thanks for the code. Goodbye.}
-{270}{}{Hello again. What do you need? The EPA complex will be closed for the foreseeable future due to lack of staff.}
-{271}{}{Now that I have more time, could you tell me what you do here?}
+{240}{}{Självklart inte. Men om jag ger dig lösenordet, kan jag inte bara utsätta dig för fara, utan även komplexet. Barn, var snälla och reta inte hologrammen.}
+{241}{}{Hur kan det äventyra komplexet? Jag gillar inte att säga det, men det här komplexet har redan gått åt helvete. Det finns inget annat här än farliga kemikalier och trasiga robotar. Ärligt talat, jag ser inte hur jag skulle kunna göra saken värre.}
+{242}{}{Åh glöm det då.}
+{250}{}{Jag... jag vet inte. Jag skulle trotsa protokollet. Men... kanske om du kunde hjälpa mig med något. Besökare, observera att den blå nivån är begränsad av skäl som är mycket ointressanta. Det finns ingen anledning att vara nyfiken på det.}
+{251}{}{Visst, jag kan hjälpa dig. Berätta bara vad du behöver.}
+{260}{}{Ja, det ser mycket bättre ut här inne nu, tack. Lösenordet är ABRE. Tala bara tydligt till dörren och den
+ kommer att öppnas. Kan alla nu vara snälla och...}
+{261}{}{JA, vi har redan hört dig. Tack för koden. Hej då.}
+{270}{}{Hej igen. Vad är det du behöver? EPA-komplexet kommer att vara stängt under överskådlig framtid på grund av personalbrist.}
+{271}{}{Nu när jag har mer tid, kan du berätta vad du gör här?}
 {272}{}{Det är inte viktigt.}
 {280}{}{Welcome back, visitor. There isn't a tour at the moment, but if you'd like to wait around for enough visitors to arrive, I'd be happy to arrange one.}
 {281}{}{I don't want to go on a tour, thanks. Goodbye.}

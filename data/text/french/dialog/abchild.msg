@@ -2,7 +2,7 @@
 {101}{}{L'enfant semble joyeux.}
 {200}{}{Ouaiiis !}
 {201}{}{Cet endroit est cool.}
-{202}{}{Tu as vu mon copain invisible ?}
+{202}{}{Tu as vu mon ami invisible ?}
 {203}{}{Pouah tu pues !}
 {204}{}{Salut !}
 {500}{}{Maman !}

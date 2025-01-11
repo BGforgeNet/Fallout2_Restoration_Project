@@ -7,7 +7,7 @@
 {106}{}{Je suis}
 {107}{}{Assez bavardé. M. Merk veut des papiers que tu détiens. Donne-les moi et personne ne sera blessé.}
 {108}{}{Tu as déjà entendu parler d'un endroit appelé L'Enclave ?}
-{109}{}{Ca te regarde pas.}
+{109}{}{Ca ne te regarde pas.}
 {110}{}{Hum, développement crânien au-dessus de la moyenne... Retard dans le développement intellectuel. Pas de mutation physique notable. Non, tu ne fais pas l'affaire, je regrette. Bonne journée.}
 {111}{}{L'Etre Elu ? Bien sûr, c'est clair. Intéressant... Je ne pense pas pouvoir t'aider. Je m'occupe de la recherche cyber-génétique, pas du Projet d'Etude Comportementale de l'Abri.}
 {112}{}{De quoi parles-tu ?}

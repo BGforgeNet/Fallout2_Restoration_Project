@@ -25,11 +25,11 @@
 {128}{}{J'ai réussi l'épreuve. Je peux donc commencer.}
 {129}{}{Je dois y réfléchir.}
 {130}{}{Je n'ai pas envie de me faire tuer !}
-{131}{aeld7}{Ecoute bien. Trouve l'Abri 13 et rapporte le J.E.K. Vic, le marchand de Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes recherches avec lui. Le disque te rappellera ta mission. Que les dieux de l'Abri soient avec toi !}
+{131}{aeld7}{Ecoute bien. Trouve l'Abri 13 et rapporte le J.E.K Vic, le marchand de Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes recherches avec lui. Le disque te rappellera ta mission. Que les dieux de l'Abri soient avec toi !}
 {133}{}{Avant de partir, j'ai quelques questions.}
 {134}{}{La tribu peut compter sur moi. Au revoir.}
 {135}{aeld8}{Très bien. Viens me voir lorsque ta décision sera prise mais n'attends pas trop longtemps.}
-{136}{}{Salut.}
+{136}{}{Au revoir.}
 {137}{aeld9}{Je ne peux guère t'aider plus. Tant de choses se sont perdues depuis l'Antan. Quelle sagesse cherches-tu ?}
 {138}{aeld9b}{De quoi as-tu besoin ?}
 {139}{}{Dis-m'en plus sur le J.E.K.}
@@ -38,7 +38,7 @@
 {142}{}{Tout bien réfléchi, je ne pense pas avoir besoin d'aide. Au revoir.}
 {143}{aeld10}{C'est un artefact sacré : le Jardin d'Eden en Kit. Les disques disent qu'il rendra nos terres fertiles et notre village prospère. Il nous sauvera. Je ne peux t'en dire plus.}
 {144}{}{J'aimerais en savoir plus.}
-{145}{}{Salut.}
+{145}{}{Au revoir.}
 {146}{aeld11}{Klamath se trouve à l'Est.}
 {147}{}{Je pourrais en apprendre bien plus.}
 {148}{}{Je suis prêt. Au revoir.}
@@ -99,7 +99,7 @@
 {219}{}{Que s'est-il passé ?}
 {220}{}{Je comprends.}
 {221}{eeld7}{Tu dois détruire la machine et tuer tous les démons qui sont ici. On se retrouve dehors ! Etre Elu, si tu n'as pas encore trouvé le J.E.K, cherche ici. Notre liberté ne vaut rien si le village ne peut être sauvé. Vas-y maintenant !}
-{222}{}{Salut.}
+{222}{}{Au revoir.}
 {223}{eeld8}{N'oublie pas que je suis encore la Doyenne ! Fais-moi des excuses ou je ne t'aiderai pas.}
 {224}{}{Excuse-moi, tu n'es pas une vieille peau. Que se passe-t-il ?}
 {225}{}{Pff, comme si tu pouvais m'aider... Tu peux crever !}

@@ -14,5 +14,5 @@
 {113}{}{Va voir Wallace si tu veux entrer dans la Cité.}
 {114}{}{Rien à signaler, Capitaine.}
 {115}{}{Je surveille juste ce qui se passe ici, Capitaine.}
-{116}{}{La Cité de l'Abri avant tout, Capitaine !}
+{116}{}{La Cité de l'Abri avant tout, Capitaine.}
 {117}{}{Bonne journée, Capitaine.}

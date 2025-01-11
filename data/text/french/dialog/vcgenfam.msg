@@ -5,7 +5,7 @@
 {104}{}{Notre héros ! Regardez !}
 {105}{}{Mince ! Le héros, ici, dans la Cité de l'Abri !}
 {106}{}{Bonne journée, Capitaine.}
-{107}{}{La Cité de l'Abri avant tout, Capitaine !}
+{107}{}{La Cité de l'Abri avant tout, Capitaine.}
 {108}{}{Vous restez dîner, Capitaine ?}
 {109}{}{Salut, citoyen.}
 {110}{}{La Cité de l'Abri avant tout, citoyen !}
@@ -31,7 +31,7 @@
 {130}{}{Ils dorment ? Nooon, plus maintenant.}
 {131}{}{J't'en prie... Reviens dans la matinée. J'ai une longue journée demain, il faut que je fasse des listes.}
 {132}{}{Bonne journée, Capitaine.}
-{133}{}{La Cité de l'Abri avant tout, Capitaine !}
+{133}{}{La Cité de l'Abri avant tout, Capitaine.}
 {134}{}{Vous restez à dîner, Capitaine ? Notre domestique est en train de faire un excellent goulasch !}
 {135}{}{Quelques beignets, Capitaine ?}
 {136}{}{Un problème, Capitaine ?}

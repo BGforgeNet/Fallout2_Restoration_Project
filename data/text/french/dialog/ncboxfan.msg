@@ -69,7 +69,7 @@
 {304}{}{J'ai entendu dire que }
 {320}{}{ tuera toute personne qui reste en travers de son chemin !}
 {321}{}{ est le MEILLEUR. Le MEILLEUR.}
-{322}{}{ !!!}
+{322}{}{!!!}
 {323}{}{ assure !}
 {324}{}{ est le meilleur champion de boxe que j'ai jamais vu.}
 {325}{}{ est vraiment futé en plus. Il sait où et comment estropier quelqu'un.}
@@ -118,7 +118,7 @@
 {1203}{}{ !}
 {1204}{}{ !}
 {1206}{}{ est le MEILLEUR. Le MEILLEUR.}
-{1207}{}{ !!!}
+{1207}{}{!!!}
 {1208}{}{, tu assures !}
 {1209}{}{ est le meilleur champion de boxe que j'ai jamais vu.}
 {1210}{}{ est vraiment futé en plus. Il sait où et comment estropier quelqu'un.}
@@ -137,7 +137,7 @@
 {1258}{}{ !}
 {1259}{}{ !}
 {1261}{}{, tu es le MEILLEUR. Le MEILLEUR.}
-{1262}{}{ !!!}
+{1262}{}{!!!}
 {1265}{}{ est le meilleur champion de boxe que j'ai jamais vu.}
 {1266}{}{, tu es la femme la plus forte du monde !}
 {1268}{}{, tu assures !}
@@ -156,7 +156,7 @@
 {1291}{}{ !}
 {1292}{}{ !}
 {1294}{}{, tu es le MEILLEUR. Le MEILLEUR.}
-{1295}{}{ !!!}
+{1295}{}{!!!}
 {1298}{}{ est le meilleur champion de boxe que j'ai jamais vu.}
 {1299}{}{, tu es la femme la plus forte du monde !}
 {1301}{}{, tu assures !}
@@ -169,7 +169,7 @@
 {1355}{}{ !}
 {1356}{}{ !}
 {1357}{}{, tu es le MEILLEUR. Le MEILLEUR.}
-{1358}{}{ !!!}
+{1358}{}{!!!}
 {1360}{}{, tu es le meilleur champion de boxe que j'ai jamais vu.}
 {1361}{}{, tu sais où et comment estropier quelqu'un.}
 {1362}{}{, tu prends vraiment soin de tes fans. Tu ne les tues pas comme les autres boxeurs.}
@@ -183,7 +183,7 @@
 {1389}{}{ !}
 {1390}{}{ !}
 {1391}{}{, tu es le MEILLEUR. Le MEILLEUR.}
-{1392}{}{ !!!}
+{1392}{}{!!!}
 {1394}{}{, tu es le meilleur champion de boxe que j'ai jamais vu.}
 {1395}{}{, tu sais où et comment estropier quelqu'un.}
 {1396}{}{, tu prends vraiment soin de tes fans. Tu ne les tues pas comme les autres boxeurs.}

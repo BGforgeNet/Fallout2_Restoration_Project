@@ -197,7 +197,7 @@
 {296}{}{Never mind. I had some other questions.}
 {297}{}{Nothing. Sorry to disturb you.}
 {298}{}{Very well. Give me a moment...}
-{299}{}{All right.}
+{299}{}{Okej.}
 {300}{}{Hmmm. How did you come by this disk?}
 {301}{}{I... found it.}
 {302}{}{I found it while searching some of the archives in the Vault City library.}
@@ -227,7 +227,7 @@
 {326}{}{All right. But I don't have the reactor disk on me. I'll be back with it.}
 {327}{}{That'd be great.}
 {328}{}{Excellent!}
-{329}{}{All right.}
+{329}{}{Okej.}
 {330}{}{Let me take the reactor disk, and I'll have the Vault central computer optimize it.}
 {331}{}{Great. Thanks.}
 {332}{}{What is it?}

@@ -11,7 +11,7 @@
 {110}{}{Quoi de neuf ?}
 {111}{}{Il y a quelque chose que je voulais te dire.}
 {112}{}{Tu veux voyager avec moi ?}
-{113}{}{Salut.}
+{113}{}{Au revoir.}
 {114}{mcs3}{Ouais, chuis un affreux mutant. Et c'est moi qui dirige cette ville. Ca te pose un problème ?}
 {115}{}{Euh !}
 {116}{}{Nan.}
@@ -25,7 +25,7 @@
 {124}{mcs7}{Moi c'est Marcus. J'ai aidé à construire cet endroit. J'suis shérif maintenant.}
 {125}{}{T'as participé à la fondation de la ville ? Ca doit faire longtemps...}
 {126}{}{C'est des conneries. C'est pas possible que tu sois encore vivant !}
-{127}{}{Salut.}
+{127}{}{Au revoir.}
 {128}{mcs8}{C'est une longue histoire. Tu veux l'intégrale ou le résumé ?}
 {129}{}{Donne-moi le résumé.}
 {130}{}{J'ai le temps. Raconte-moi toute l'histoire.}
@@ -60,7 +60,7 @@
 {159}{}{Je peux te poser d'autres questions pendant que je réfléchis ?}
 {160}{}{Laisse-moi y réfléchir. Salut.}
 {161}{mcs17}{C'est pas assez bien pour toi ? Alors dégage !}
-{162}{}{Salut.}
+{162}{}{Au revoir.}
 {163}{mcs18}{J'ai quelques problèmes avec la mine. Si ça t'intéresse de me donner un coup de main, va voir Zaius, le chef de la mine.}
 {164}{}{Où puis-je le trouver ?}
 {165}{}{T'as quelque chose d'autre ?}
@@ -69,17 +69,17 @@
 {168}{mcs19}{Il est tout l'temps à la mine. Ou au saloon.}
 {169}{}{T'as autre chose ?}
 {170}{}{J'ai d'autres questions.}
-{171}{}{Salut.}
+{171}{}{Au revoir.}
 {172}{mcs20}{Quelqu'un a aidé deux tarés à se faire la belle à la banque. Trouve-les moi pour que je les remette en cabane.}
 {173}{}{T'as autre chose ?}
 {174}{}{J'ai d'autres questions.}
-{175}{}{Salut.}
+{175}{}{Au revoir.}
 {176}{mcs21}{Que veux-tu au juste ? Des gens ont disparu. Aucune idée de ce qui a pu leur arriver. Tu les trouves et je te donne $500.}
 {177}{}{Je le ferai gratuitement.}
 {178}{}{$500 ?! Pas mal.}
 {179}{}{J'ai pas le temps.}
 {180}{}{J'ai d'autres questions.}
-{181}{}{Salut.}
+{181}{}{Au revoir.}
 {182}{mcs22}{Super. Avertis-moi quand tu auras trouvé quelque chose.}
 {183}{}{Sans aucun doute. J'ai d'autres questions.}
 {184}{}{Je vais voir ce que je peux faire. Salut.}
@@ -113,17 +113,17 @@
 {212}{}{Non, pas maintenant.}
 {213}{mcs31}{En ce moment avec tout ce qui se passe c'est pas trop possible. Plus tard peut-être.}
 {214}{}{Ok. J'ai d'autres questions.}
-{215}{}{Salut.}
+{215}{}{Au revoir.}
 {216}{mcs32}{Tu l'as dit. Le meilleur ami que j'aie jamais eu !}
 {217}{}{Ouais, c'est ça... j'parie qu'tu l'aurais traité exactement comme les autres.}
-{218}{}{Salut.}
+{218}{}{Au revoir.}
 {219}{mcs33}{Ouais, je me serais gêné ! Quel grand mutant il aurait fait...}
 {220}{}{Je crois pas qu'il apprécierait de t'entendre dire ça.}
-{221}{}{Salut.}
+{221}{}{Au revoir.}
 {222}{mcs34}{On s'engueulait tout le temps à propos de ça. Cette tête de mule me manque.}
 {223}{}{Et la haine du Maître envers les humains ?}
 {224}{}{J'suis toujours d'avis que c'est un destin pourri.}
-{225}{}{Salut.}
+{225}{}{Au revoir.}
 {226}{mcs35}{Ca remonte à loin tout ça. Le monde a changé depuis. Tu veux que je te parle des temps anciens ?}
 {227}{}{Sans aucun doute.}
 {228}{}{Pas tout de suite. Mais je voudrais te poser d'autres questions.}
@@ -177,7 +177,7 @@
 {276}{mcs103a}{Y'a trop de monde. Les voyages en groupe, j'ai déjà donné.}
 {277}{mcs103b}{Moi qui croyais que tu faisais partie des gens bien... Salut.}
 {278}{mcs103c}{Je ne viens pas avec toi pour l'instant. Désolé. [Il te regarde de haut en bas d'un air dégoûté.]}
-{279}{}{D'accord.}
+{279}{}{Très bien.}
 {280}{}{Ca me fout bien les jetons.}
 {281}{}{Il y a pas grand-chose qui me fasse peur dans le désert, mais ça...}
 {282}{}{Tu dois être aussi stupide que tu en as l'air si tu veux te battre avec moi.}
@@ -194,7 +194,7 @@
 {293}{}{Comment te sens-tu ?}
 {294}{}{Soigne-toi.}
 {295}{}{Je veux que tu attendes ici jusqu'à mon retour.}
-{296}{}{Ca suffit.}
+{296}{}{C'est tout pour l'instant.}
 {297}{mcs111a}{J'suis guéri.}
 {298}{mcs111b}{Rien ne pourra nous arrêter.}
 {299}{mcs111c}{T'as pas quelque chose pour aider ?}
@@ -267,7 +267,7 @@
 {501}{}{Ca ne fait rien. Je peux te demander quelque chose ?}
 {502}{}{Tant pis. Salut.}
 {600}{}{Je me sens pas dans mon assiette, chef.}
-{601}{}{Ne fais pas ça !}
+{601}{}{Ne fais pas ça.}
 {602}{}{Tu trouves pas que cet endroit donne un peu la chair de poule ?}
 {603}{}{J'espère que t'as des cuissardes... On va marcher dans la merde.}
 {604}{}{Cet endroit ne me dit rien qui vaille.}

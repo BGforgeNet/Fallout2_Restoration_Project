@@ -131,7 +131,7 @@
 {531}{}{Okay fine.}
 {532}{}{No deal.}
 {540}{}{Just $50. Please! It's all part of the master plan!}
-{541}{}{All right.}
+{541}{}{Okej.}
 {542}{}{But that'll only leave me with $50 to pay your $200 loan.}
 {543}{}{Nej.}
 {550}{}{Wha- uh... Damn! You won't regret this! I'm good for it!}

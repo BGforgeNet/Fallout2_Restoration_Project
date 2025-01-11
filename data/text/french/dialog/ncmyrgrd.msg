@@ -75,7 +75,7 @@
 {400}{}{Non. Allez, DEGAGE, petite merde.}
 {401}{}{Je reste ici jusqu'à ce que tu me laisses entrer. Tu peux toujours ESSAYER de me faire bouger.}
 {402}{}{Je reste ici jusqu'à ce que tu me laisses entrer. Essayez un peu de me faire bouger, sac à merde.}
-{404}{}{D'accord.}
+{404}{}{Très bien.}
 {411}{}{Moi non plus...}
 {412}{}{Défends-toi.}
 {425}{}{Ah ouais ? Voyons voir. Hummm... [Vérifie le badge et hausse les épaules.] Très bien, mais ne fais pas de bruit. Myron est occupé et il n'aime pas être dérangé.}

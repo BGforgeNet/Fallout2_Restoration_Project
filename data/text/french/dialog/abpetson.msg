@@ -3,7 +3,7 @@
 {200}{}{Bonjour, mon ami. Je ne t'avais encore jamais vu ici. C'est la première fois que tu viens à l'Abbaye ?}
 {201}{}{Ravi de te revoir. En quoi puis-je t'être utile ?}
 {202}{}{Ouais. Quel est cet endroit ?}
-{203}{}{Je suis en quête du saint J.E.K. En as-tu déjà entendu parler ?}
+{203}{}{Je suis en quête du saint J.E.K En as-tu déjà entendu parler ?}
 {204}{}{Frère Samuel dit que tu sais peut-être quelque chose au sujet de ce qui dérange les tombes. Il a dit que tu avais entendu des bruits qui provenaient des récoltes.}
 {205}{}{Peu importe, je dois y aller.}
 {300}{}{Eh bien... L'Abbaye est un lieu où il fait bon vivre, pas comme ceux de l'extérieur. Personnellement, je ne suis arrivé ici, dans une caravane, qu'il y a quelques années avec ma femme. Nous avons tellement aimé que nous avons décidé de rester. Nous avons alors commencé à semer quelques récoltes pour avoir un peu d'argent... et depuis, nous n'avons pas bougé d'ici.}

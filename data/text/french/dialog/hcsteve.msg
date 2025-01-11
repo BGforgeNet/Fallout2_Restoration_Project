@@ -46,9 +46,9 @@
 {145}{}{Si on oublie la trahison de Chad et la façon dont tu as rendu la justice (et nous te sommes tous reconnaissants)...}
 {146}{}{Pas grand-chose, en fait.}
 {147}{}{J'ai d'autres questions.}
-{148}{}{Salut.}
+{148}{}{Au revoir.}
 {149}{}{Oh. Encore toi.}
-{150}{}{Re-bonjour !}
+{150}{}{Rebonjour !}
 {151}{}{Tu es ici chez toi.}
 {152}{}{Tu veux en savoir plus ?}
 {153}{}{Quelles sont les nouvelles ?}
@@ -64,15 +64,15 @@
 {163}{}{Tu me traites d'inculte ?}
 {164}{}{C'est vrai.}
 {165}{}{Pas nécessairement. Qui sait ce que le virus qui a entraîné sa mutation a fait à son esprit ?}
-{166}{}{Allez va, salut.}
+{166}{}{Peu importe. Salut.}
 {167}{}{Pour nous, ça marche tout à fait bien. Et puis, Marcus est éminemment juste.}
 {168}{}{Où puis-je le trouver Marcus ?}
-{169}{}{Salut.}
+{169}{}{Au revoir.}
 {170}{}{Il est vieux. Mais il tient le coup. C'est un mutant, et il semble que c'est une race qui vit plus longtemps que les autres.}
 {171}{}{Vous laissez un MUTANT aux commandes ? Vous êtes tarés ou quoi ?}
 {172}{}{Ah vraiment ? J'aurais pensé que la plupart étaient déjà morts...}
 {173}{}{Un shérif mutant, hein ? J'imagine que la plupart des gens d'ici respectent bien la loi... Ca doit pas mal fonctionner.}
-{174}{}{Salut.}
+{174}{}{Au revoir.}
 {175}{}{On vivote et on crée notre propre version de la civilisation, en essayant à tout prix de ne pas capituler devant la Cité de l'Abri ou RNC : on ne veut pas de leur style de gouvernement. C'est tout.}
 {176}{}{Génial. J'ai d'autres questions.}
 {177}{}{Merci. Au revoir.}
@@ -81,24 +81,24 @@
 {180}{}{Bon d'accord. Tu dois avoir raison.}
 {181}{}{C'est tout ce que je voulais dire. Bienvenue aux Collines Brisées.}
 {182}{}{[Attendre]}
-{183}{}{Salut.}
+{183}{}{Au revoir.}
 {184}{}{Si les mutants nous voulaient du mal, ce serait déjà fait. Ils ne vont pas vivre éternellement. En fait, la plupart sont aujourd'hui séniles. Le fait de créer une communauté ne va pas les aider à atteindre leurs buts.}
 {185}{}{Tu as raison.}
 {186}{}{Ils sont tout de même mauvais.}
-{187}{}{Salut.}
+{187}{}{Au revoir.}
 {188}{}{Plus je te parle et plus j'ai l'impression de devenir bête. Avec une telle attitude, tu n'as pas vraiment ta place aux Collines. Maintenant, excuse-moi. J'ai du travail.}
 {189}{}{Ordure.}
 {190}{}{Crève !}
 {191}{}{On a une mine, une raffinerie, une taverne, un hôtel (qui d'ailleurs n'a plus de propriétaire, les gens y séjournent gratuitement), un hôpital, un magasin et une pharmacie. On fait pousser notre nourriture.}
 {192}{}{Très bien. J'ai d'autres questions.}
-{193}{}{Salut.}
+{193}{}{Au revoir.}
 {194}{}{Oui, la plupart sont morts. Les mutants étant stériles... Du moins c'est ce que j'ai cru comprendre... Ils disparaissent. Ceux qui restent semblent devenir séniles aussi. Mais pas Marcus. Lui il est toujours aussi vif.}
 {195}{}{Où puis-je trouver Marcus ?}
 {196}{}{J'ai d'autres questions.}
-{197}{}{Salut.}
+{197}{}{Au revoir.}
 {198}{}{Marcus, sûr que tu ne veux pas rester et nous gouverner encore un peu ?}
 {199}{}{Marcus : c'est sans avenir. Vous vous débrouillerez très bien sans moi.}
-{200}{}{[Plus]}
+{200}{}{[Suite]}
 {201}{}{Tu es indésirable ici. Tu as déjà fait assez de mal.}
 {202}{}{[Terminé]}
 {300}{}{En général Marcus est à la prison ou à la banque (une prison plus stricte). Parfois il est à la taverne ou chez lui, mais en général tu le trouveras au travail.}

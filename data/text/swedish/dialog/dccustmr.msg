@@ -78,9 +78,9 @@
 {444}{}{I didn't do anything.}
 {445}{}{What are you staring at?}
 {446}{}{Just pretend you don't see me.}
-{447}{}{Don't mind me.}
-{460}{}{Damn. You killed Flick.}
-{461}{}{Flick rip you off?}
+{447}{}{Bry dig inte om mig.}
+{460}{}{Fan också. Du dödade Flick.}
+{461}{}{Lurade Flick dig?}
 {462}{}{Flick's been into some dangerous work.}
 {463}{}{That sucks about Flick.}
 {464}{}{Wonder what all those kids are going to do now that Flick is dead.}

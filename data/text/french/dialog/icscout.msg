@@ -95,7 +95,7 @@
 {727}{}{Aucune d'importance, Je m'en vais.}
 {728}{}{Je ne veux pas te parler plus longtemps, tu n'es que de la stupide viande à pneu ! Je te pisse à la raie ! Ta mère était un hamster et ton père puait le sirop de fraise !}
 {800}{}{Ombre-Ambulante ne te crois pas. Ombre-Ambulante n'est pas dupe. Au revoir.}
-{801}{}{[FIN]}
+{801}{}{[Terminé]}
 {802}{}{Ne me tourne pas le dos tribal. Je te parle.}
 {810}{}{Comment oses-tu menacer Ombre-Ambulante ? Va-t'en.}
 {811}{}{[Partir]}

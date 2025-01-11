@@ -7,7 +7,7 @@
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
 {108}{}{[Pirater l'ordinateur]}
-{109}{}{Déconnexion.}
+{109}{}{[Déconnexion]}
 {110}{}{Identité confirmée.}
 {111}{}{A quelle fonction voulez-vous accéder ?}
 {112}{}{Diagnostic.}
@@ -39,7 +39,7 @@
 {138}{}{Les vagabonds du pétrolier ont 0% de chance de se débarrasser de l'invasion de monstres sans aide extérieure. Traitement de la proposition d'aide en cours.}
 {139}{}{Données : pétrolier Poséidon incapable de prendre le large. Plus de données nécessaires.}
 {140}{}{Pas de traitement. Entrée requise.}
-{141}{}{[Plus]}
+{141}{}{[Suite]}
 {142}{}{[Retour]}
 {143}{}{Station de biologie : activée}
 {144}{}{Station de biologie : désactivée}
@@ -190,7 +190,7 @@ Attention ! Connexion au serveur central de CIN Pékin indisponible. Recherche d
 {420}{}{Scan des centres de communications...                                    Centre de communication de l'ALP...		déconnecté                                                CIN de Pékin...		déconnecté                                                   Chantier naval SSC...	déconnecté                                              Dragon oriental SCA...	déconnecté                                        Avertissement: Aucune connexion à un serveur externe n'a pu être établie.}
 {421}{}{C'est décevant...}
 {430}{}{Scan des disques locaux...}
-{431}{}{[Continue]}
+{431}{}{[Continuer]}
 {440}{}{Un fichier accessible trouvé. [Il semble que la plupart des archives sont corrompues. Cependant, l'ordinateur a réussi à retrouver un fichier intact.]}
 {441}{}{Journal personnel : Li Ye, Amiral, Capitaine}
 {450}{}{12-10-2077 : Nous sommes en train de perdre cette guerre. Je viens juste de recevoir la confirmation que le Parti a finalement décidé d'appliquer le plan R. Quelle folie ! Comment une guerre nucléaire nous donnera-t-elle la victoire ? Personne ne gagnera si nous lâchons cette sorte de puissance. Mais je suis un soldat et je suivrai les ordres jusqu'au bout.}

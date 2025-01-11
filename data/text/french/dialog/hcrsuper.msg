@@ -7,7 +7,7 @@
 {106}{}{'Sais pas.}
 {107}{}{J'ai du minerai à faire raffiner.}
 {108}{}{Qui es-tu ?}
-{109}{}{Où suis-je ici ?}
+{109}{}{Quel est cet endroit ?}
 {110}{}{Je veux de l'uranium.}
 {111}{}{Rien.}
 {112}{}{Laisse tomber. Salut.}
@@ -19,12 +19,12 @@
 {118}{}{Marché conclu.}
 {119}{}{$1 000 ? C'est ridicule. Laisse tomber.}
 {120}{}{Je suis le chef de cette raffinerie. Que veux-tu ?}
-{121}{}{Où suis-je ici ?}
+{121}{}{Quel est cet endroit ?}
 {122}{}{Je veux du minerai raffiné.}
 {123}{}{Je veux de l'uranium.}
 {124}{}{Rien.}
 {125}{}{Ici c'est la raffinerie des Collines Brisées. C'est ici que nous purifions le minerai extrait de la mine. Que veux-tu ?}
-{126}{}{Où suis-je ici ?}
+{126}{}{Quel est cet endroit ?}
 {127}{}{Je veux du minerai raffiné.}
 {128}{}{Je veux de l'uranium.}
 {129}{}{Rien.}
@@ -36,7 +36,7 @@
 {135}{}{Oui.}
 {136}{}{Non.}
 {137}{}{Bien. Tu n'as rien à faire ici. Sois sympa et laisse-nous faire notre boulot.}
-{138}{}{Salut.}
+{138}{}{Au revoir.}
 {139}{}{C'est ridicule. Nous ne t'en donnerons pas.}
 {140}{}{Alors meurs.}
 {141}{}{Très bien. Au revoir.}
@@ -49,6 +49,6 @@
 {148}{}{Pas question.}
 {149}{}{Certainement.}
 {150}{}{Bien. Alors voilà ton minerai. Maintenant, sors immédiatement de ma raffinerie.}
-{151}{}{Salut.}
+{151}{}{Au revoir.}
 {152}{}{Merci ! Voilà ton argent.}
 {153}{}{Pas de problème.}

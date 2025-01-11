@@ -22,11 +22,11 @@
 {256}{}{Ce n'était pas si mal. On a pris quelques esclaves convenables.}
 {257}{}{On a vu mieux, mais au moins, on sera payés.}
 {265}{}{Hé, on s'est pas mal défendus. On les a presque tous eus.}
-{266}{}{Merci pour ton aide.}
+{266}{}{Merci de ton aide.}
 {267}{}{C'est du bon boulot. La paie devrait être bonne.}
 {268}{}{C'était vraiment fun et en plus on devrait toucher un bon paquet !}
 {275}{}{On leur a foutu une belle raclée. Metzger a intérêt à nous filer un joli bonus !}
-{276}{}{C'était parfait ! Ce soir, je vais m'éclater !!}
+{276}{}{C'était parfait ! Ce soir, je vais m'éclater !}
 {277}{}{Putain ! On s'est fait respecter !}
 {278}{}{Voilà, c'est comme ça que ça doit se passer !}
 {285}{}{Où sont-ils ?}

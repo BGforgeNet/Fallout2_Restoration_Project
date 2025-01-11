@@ -148,7 +148,7 @@
 {247}{}{Hors de l'herbe humide, lève-toi !}
 {248}{}{La nuit s'épuise,}
 {249}{}{Et le matin surgit De la masse ensommeillée.}
-{250}{}{Heinh ?}
+{250}{}{Hein ?}
 {251}{}{Oh, juste quelques vers d'un poète mort il y a longtemps. Je me demandais s'il y avait toujours une place au paradis pour ceux qui ont travaillé à des fins si terribles pendant si longtemps. Notre ère est finie, la vôtre commence. Pars !}
 {252}{}{Oh, d'accord, merci de ton aide docteur. Tu es un homme courageux.}
 {253}{}{Tu es dingue mais un dingue utile. Adieu.}

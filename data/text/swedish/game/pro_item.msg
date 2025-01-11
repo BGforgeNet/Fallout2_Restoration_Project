@@ -532,7 +532,7 @@
 {27101}{}{The plentiful flower that forms the base for the powder of healing.}
 {27200}{}{Xander Root}
 {27201}{}{The rare root that gives healing properties to the powder of healing.}
-{27300}{}{Healing Powder}
+{27300}{}{Helande pulver}
 {27301}{}{A very powerful healing magic- though it will bring the feeling of sleep to your head.}
 {27400}{}{Robo Rocket Ammo}
 {27401}{}{Only used by rocket equipped robots.}

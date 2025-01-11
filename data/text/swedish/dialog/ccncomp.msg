@@ -33,7 +33,7 @@
 {132}{}{Okej.}
 {133}{}{Got it.}
 {134}{}{Searching... Accessing base architectural files... Data acquired. Armory is located below ground in the northwest quadrant of the base.}
-{135}{}{Me got it.}
+{135}{}{Ja' fatta.}
 {136}{}{Yeah, got it.}
 {137}{}{Searching... Accessing base architectural files... Data acquired. Base commander's office is located below ground in the northeast quadrant of the base.}
 {138}{}{Bra.}

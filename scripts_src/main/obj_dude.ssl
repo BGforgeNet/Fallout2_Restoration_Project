@@ -29,10 +29,6 @@
 
 #define TIMER_INIT_V13_SEQUENCE    (4)
 
-#define TRAGIC_ADDICTION           (5) //added by killap
-
-#define LVAR_Applied_Tragic_Addiction (1) //added by killap
-
 #define LVAR_Smoke_Count              (2) //added by killap
 
 //For the random bess encounter
@@ -119,51 +115,6 @@ procedure is_dropping_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-/*
-   variable Outdoor;
-   variable Doctor;
-   variable First_Aid;
-   variable tail;
-   variable flower;
-   variable root;
-   variable item;
-   variable count;
-   variable count1;
-   variable Junkit;
-   variable Junkit1;
-
-   if (not(is_loading_game)) then begin
-       if (self_item_count(PID_SCORPION_TAIL)) then begin
-           First_Aid:=has_skill(self_obj,SKILL_FIRST_AID);
-           Outdoor:=has_skill(self_obj,SKILL_OUTDOORSMAN);
-           if (((First_Aid + Outdoor) >= 125) and (skill_success(self_obj,SKILL_SCIENCE,0))) then begin
-               tail:=self_item(PID_SCORPION_TAIL);
-               count:=self_item_count(PID_SCORPION_TAIL);
-               Junkit:=rm_mult_objs_from_inven(self_obj,tail,count);
-               item:=create_object(PID_ANTIDOTE,0,0);
-               add_mult_objs_to_inven(self_obj,item,count);
-               display_msg(g_mstr(1050));
-           end
-       end
-       if ((self_item_count(PID_XANDER_ROOT)) and (self_item_count(PID_BROC_FLOWER))) then begin
-           Doctor:=has_skill(self_obj,SKILL_DOCTOR);
-           Outdoor:=has_skill(self_obj,SKILL_OUTDOORSMAN);
-           if (((Doctor + Outdoor) >= 125) and (skill_success(self_obj,SKILL_SCIENCE,0))) then begin
-               flower:=self_item(PID_BROC_FLOWER);
-               root:=self_item(PID_XANDER_ROOT);
-               count:=self_item_count(PID_BROC_FLOWER);
-               count1:=self_item_count(PID_XANDER_ROOT);
-               if (count > count1) then
-                   count:=count1;
-               Junkit:=rm_mult_objs_from_inven(self_obj,flower,count);
-               Junkit1:=rm_mult_objs_from_inven(self_obj,root,count);
-               item:=create_object(PID_HEALING_POWDER,0,0);
-               add_mult_objs_to_inven(self_obj,item,count);
-               display_msg(g_mstr(1051));
-           end
-       end
-   end
-*/
 end
 
 procedure timed_event_p_proc begin
@@ -180,10 +131,6 @@ procedure timed_event_p_proc begin
          add_timer_event(dude_obj, 1, CHECK_RNDBESS_FLOAT);
    end else if (fixed_param == TIMER_INIT_V13_SEQUENCE) then begin
       set_global_var(GVAR_DUDE_START_SEQ_1, game_time + (ONE_GAME_WEEK * 2));
-   //added by killap
-   end else if (fixed_param == TRAGIC_ADDICTION) then begin
-      if (global_var(GVAR_ADDICT_TRAGIC) == 1) then
-         set_global_var(GVAR_ADDICT_TRAGIC,0);
    end else if (fixed_param == SMOKE_NONPOWER) then begin
       script_overrides;
       reg_anim_clear(self_obj);

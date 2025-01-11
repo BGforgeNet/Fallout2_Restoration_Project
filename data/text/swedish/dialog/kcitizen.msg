@@ -48,28 +48,28 @@
 {204}{}{Trapper Town sure has a lot of rats.}
 {1000}{}{Äldste}
 {1001}{}{Grundare}
-{1002}{}{Vault Dweller}
+{1002}{}{Valvinvånare}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Valv}
-{1006}{}{Chosen One}
+{1006}{}{Den Utvalde}
 {1007}{}{Shaman}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
+{1009}{}{Helande pulver}
 {1010}{}{Bro}
 {1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
+{1100}{}{Den Äldste är din mamma och vår ledare.}
+{1101}{}{Vår store förfader som gav oss kunskap.}
+{1102}{}{Den förste att kämpa och vinna över kaos.}
+{1103}{}{Det skulle vara vår vackra by.}
 {1104}{}{That's trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
+{1105}{}{Valvet är himmelriket.}
+{1106}{}{Du är den Utvalde.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1109}{}{It is a magic powder which will heal you, but will make you
  sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
+{1110}{}{Den stora bron leder ut ur vår by i söder.}
 {1111}{}{He guards the bridge leading into our village.}

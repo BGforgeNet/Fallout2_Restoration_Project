@@ -9,7 +9,7 @@
 {108}{}{Je laisserai entrer toutes les foutues mouches que je veux ! Minable !}
 {109}{}{D'accord. Tchao.}
 {110}{}{Ferme la porte ! Je t'en prie ! Va-t'en et emmène ces saletés de mouches avec toi !}
-{111}{}{D'OOkK !}
+{111}{}{Okééé !}
 {112}{}{Désolé. Je suis un peu sur les nerfs. Toutes ces foutues mouches et pas d'air conditionné. Avec un peu plus d'énergie je pourrais les chasser... mais je ne peux pas.}
 {113}{}{Qui es-tu ?}
 {114}{}{D'où vient l'énergie ?}

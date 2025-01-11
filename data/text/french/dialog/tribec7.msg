@@ -1,11 +1,11 @@
 {100}{}{Tu vois une tribale.}
 {101}{}{Tu vois Kurisu, la soeur de Sulik.}
 {102}{}{Tu vois une jeune femme tribale.}
-{150}{}{[FIN]}
+{150}{}{[Terminé]}
 {200}{}{Sulik ! Est-ce... [Elle se pince et commence à murmurer :] Est-ce vraiment toi ?}
 {201}{}{Moi ? Non, je suis l'Etre Elu. Tu veux sans douter parler du gars avec un os dans le nez à côté de moi.}
 {202}{}{[Sulik se précipite à travers la porte et prend les mains de sa soeur dans les siennes. Les larmes coulent sur leurs visages tandis qu'ils se saluent. Soudain, le craquement d'une brindille se fait entendre au dehors, Sulik lâche sa soeur et dégaine son arme tandis qu'il se rue vers la porte. Plus aucun son ne parvient de l'extérieur.]}
-{203}{}{[Plus]}
+{203}{}{[Suite]}
 {204}{}{[La soeur de Sulik se tourne alors vers toi.] S'il te plaît, prends-moi avec toi et partons d'ici. Nous n'avons pas beaucoup de temps. Ils ont prévu de me faire partir d'ici dès demain. Ils ont déjà déplacé mes autres camarades tribals. Je t'en prie, tu dois faire quelque chose, je ne veux plus qu'ils me touchent. [En entendant cela, les yeux de Sulik s'écarquillent et la haine se lit sur son visage. Il s'empare de son arme.]}
 {205}{}{Patience Sulik, nous sommes dépassés en nombre. Laisse-moi voir si je peux crocheter cette porte et nous pourrons nous faufiler hors d'ici.}
 {206}{}{Patience Sulik, nous sommes dépassés en nombre. J'ai la clé de cette porte. Reste calme et nous pourrons nous faufiler hors d'ici.}
@@ -56,7 +56,7 @@
 {610}{}{Il y a un problème. Il est mort.}
 {611}{}{Il est mort !? Ho, c'est vraiment un jour sombre. J'aurais tant souhaité le revoir une dernière fois. [Elle détourne le regard, des larmes plein les yeux.] J'ai besoin d'être seule. Merci encore de m'avoir sauvée.}
 {650}{}{Rebonjour. Des nouvel... Sulik !}
-{651}{}{[Plus]}
+{651}{}{[Suite]}
 {652}{}{[Sulik et Kurisu se précipitent l'un vers l'autre et se prennent dans les bras, les yeux débordants de larmes.] Merci d'avoir retrouvé mon frère. Tu es vraiment formidable. Il m'a parlé d'une quête importante que tu tentes d'accomplir. Je te souhaite bonne chance et que les dieux te protègent.}
 {653}{}{Rebonjour. Des nouvelles de mon frère ?}
 {654}{}{Non, je cherche encore. Je reviendrai quand je l'aurai découvert.}

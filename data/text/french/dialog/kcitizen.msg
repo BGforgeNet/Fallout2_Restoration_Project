@@ -64,7 +64,7 @@
 {1103}{}{Voilà ce que serait notre beau village.}
 {1104}{}{Notre poste d'approvisionnement est à quelques jours à l'Est d'ici. }
 {1105}{}{L'Abri, c'est le paradis.}
-{1106}{}{Tu es l'Elu.}
+{1106}{}{Tu es l'Etre Elu.}
 {1107}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1108}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1109}{}{Avec cette poudre magique, tu vas guérir, mais cela te fera somnoler.}

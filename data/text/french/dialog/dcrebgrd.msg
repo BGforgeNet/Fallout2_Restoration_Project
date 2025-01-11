@@ -13,4 +13,4 @@
 {216}{}{Tu tentes ta chance ce soir ? Moi, mon truc c'est le Black Jack.}
 {217}{}{Babeth est juste là-bas si tu as besoin de quelque chose.}
 {218}{}{Les tables d'Elisabeth sont réglos, alors tente ta chance.}
-{230}{}{On ne tolère pas ça ici !}
+{230}{}{On ne tolère pas ça ici.}

@@ -1,3 +1,3 @@
-1:Ta mort a scellé le destin de toute l'humanité.
-2:L'Enclave a triomphé, libérant le virus FEV dans l'atmosphère.
-3:Les gens sont mort par millions, et la Terre est redevenue silencieuse.
+1:Ta mort a scellé le destin de tout le monde sur Terre.
+2:L'Enclave triomphe, libérant le virus FEV dans l'atmosphère.
+3:Les gens meurent par millions, et la Terre redevient silencieuse.

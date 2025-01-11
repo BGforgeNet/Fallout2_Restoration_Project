@@ -20,7 +20,7 @@
 {118}{}{Sorry, soldier. That area is off limits to base personnel. I have to ask you
  to leave.}
 {119}{}{Doc want me kill D'claw. He no want do himself.}
-{120}{}{Okay, me go.}
+{120}{}{Okej, ja' gå.}
 {121}{}{Doc wants me to kill the critter for him. He doesn't want to do it himself.}
 {122}{}{I knew the bastard wouldn't have the balls to do it himself. Oh no, it's okay
  if one of us gets fucked up. (sigh) Oh well. Go on in and good luck, soldier.}

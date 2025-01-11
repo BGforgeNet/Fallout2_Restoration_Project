@@ -25,7 +25,7 @@
 {251}{}{Mauviette !}
 {252}{}{Tu m'dégoûtes.}
 {253}{}{Casse-toi !}
-{254}{}{Va-t'en !}
+{254}{}{Casse-toi.}
 {255}{}{C'est quand tu veux.}
 {256}{}{C'est le moment de leur faire payer.}
 {257}{}{J'ai horreur d'attendre.}

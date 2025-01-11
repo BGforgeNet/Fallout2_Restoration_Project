@@ -5,7 +5,7 @@
 {104}{}{Doi ?}
 {105}{}{ !}
 {106}{}{.}
-{107}{}{Ca te regarde pas.}
+{107}{}{Ca ne te regarde pas.}
 {108}{}{Eh bien, on peut dire que je suis un agent secret.}
 {109}{}{C'est ton nom Doi ? Ha ! Je plaisante camarade. Tiens. Voilà un Nuka-Cola. Tâche de ne pas déranger les autres clients.}
 {110}{}{Derci !}
@@ -116,7 +116,7 @@
 {301}{}{.}
 {302}{}{Bon, }
 {303}{}{Merci, }
-{304}{}{Re-bonjour, }
+{304}{}{Rebonjour, }
 {305}{}{Hé, }
 {306}{}{Encore toi, }
 {307}{}{Pas de problème. Voilà ton verre. Hé, j'peux t'aider pour autre chose ?}

@@ -21,7 +21,7 @@
 {140}{}{Merci d'avoir réparé le réacteur. Il fait un peu plus frais maintenant, mais ça va.}
 {141}{}{Brrr... Merci d'avoir réparé le réacteur.}
 {142}{}{Si seulement j'avais pu trouver cette pièce !}
-{143}{}{Merci pour ton aide.}
+{143}{}{Merci de ton aide.}
 {144}{}{Ces gens de la Cité de l'Abri ne sont peut-être pas si mauvais que ça après tout.}
 {150}{}{Je ne me souviens pas d'avoir vu le réacteur fonctionner si bien.}
 {151}{}{Il fait frisquet aujourd'hui.}

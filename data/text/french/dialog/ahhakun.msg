@@ -49,7 +49,7 @@
 {148}{hak008}{Le fardeau qui te pèse toujours plus te pèsera.}
 {149}{hak009}{Que les dieux bénissent tes efforts, Etre Elu. Que ton aura honore ma présence le jour où le souffle de la terre sera à nouveau pur.}
 {150}{}{Si je comprends bien, tu veux me revoir lorsque j'aurai terminé... Tu aurais pu le dire plus simplement, tu sais...}
-{151}{}{Salut.}
+{151}{}{Au revoir.}
 {152}{hak010}{Ha ! L'esprit du fondateur vit en toi. Concentre-toi pour fortifier ton moi intérieur et développer la grandeur afin que celle-ci touche le monde. Bien sûr, les gratifications dépasseront celles de l'esprit.}
 {153}{}{Ca à l'air bien. Je reviendrai lorsque j'aurai terminé.}
 {154}{}{Alors, je vais obtenir quelque chose en guise de paiement. Parfait. A plus tard.}
@@ -94,7 +94,7 @@
 {193}{}{Ow ?}
 {194}{}{Ooog ! Bak !}
 {195}{hak020}{Ces mots me remplissent de joie. Hélas, les dieux m'appellent. Au revoir.}
-{196}{}{Salut.}
+{196}{}{Au revoir.}
 {197}{}{Euh, tu mélanges toujours les herbes ? Au revoir.}
 {198}{hak021}{Nous avons tous un jardin. Puissent tes voyages servir de remède à tes maux. Porte-toi bien, je m'en vais à présent demander audience auprès des dieux.}
 {199}{}{A plus. }
@@ -189,6 +189,6 @@
 {288}{hak121}{Une étrange brume a pris leurs esprits et les a expédiés au pays du sommeil. Les démons ont marché parmi les rêveurs, et pourtant n'ont pas rêvé.}
 {289}{}{Et ensuite ?}
 {290}{hak122}{Trop de saisons et trop de blessures, Etre Elu. Tu devrais plutôt écouter.}
-{291}{}{D'accord.}
-{300}{}{Ceux qui volent portent un grand fardeau. Rappelle-le-toi, être élu.}
-{301}{}{Tu dois maintenant payer pour tes péchés, être élu.}
+{291}{}{Très bien.}
+{300}{}{Ceux qui volent portent un lourd fardeau. N'oublie pas cela, Etre Elu.}
+{301}{}{Tu dois maintenant payer pour tes péchés, Etre Elu.}

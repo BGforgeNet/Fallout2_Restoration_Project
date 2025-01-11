@@ -39,10 +39,10 @@
 {138}{}{Non, mais je vais y réfléchir.}
 {139}{}{Non, je ne crois pas.}
 {140}{}{Très bien... J'attendrai ici jusqu'à ce que tu prennes une décision.}
-{141}{}{C'est terminé.}
+{141}{}{Terminé.}
 {142}{}{Bon... Je suis triste que tu aies pris cette décision mais c'est ton droit. Si tu changes d'avis, je serai ici.}
-{143}{}{Salut.}
-{144}{}{Salut.}
+{143}{}{Au revoir.}
+{144}{}{Au revoir.}
 {145}{}{Je voudrais que tu m'aides à m'échapper d'ici. Tu veux bien ?}
 {146}{}{Oui, moi faire ça.}
 {147}{}{Moi réfléchir d'abord.}
@@ -95,7 +95,7 @@
 {194}{}{Débrouille-toi tout seul mon pote. Moi je m'en vais.}
 {195}{}{Je te remercie, humain. Allons battre ces salauds de l'Enclave ! Meute de Gruthar ! Grrrrrrr !}
 {196}{}{Ok.}
-{200}{}{[Plus]}
+{200}{}{[Suite]}
 {201}{}{Oui. Qui es-tu ?}
 {202}{}{Oui. Pourquoi ?}
 {300}{}{Très bien. L'Enclave a créé mon peuple pour en faire une race de guerriers esclaves. Ils ont amélioré nos facultés intellectuelles en pensant qu'on pouvait mieux comprendre leurs ordres sans nous rendre compte que nous étions des esclaves. Ils ont échoué. Nous sommes beaucoup plus intelligents qu'ils ne le soupçonnent.}

@@ -760,7 +760,7 @@
 {3109}{}{Euh, c'est le moment de faire un retrait tactique.}
 {3110}{}{Sortie, côté cour.}
 {3111}{}{Il est plus tard que je ne pensais.}
-{3112}{}{Gotta run. See ya.}
+{3112}{}{Je dois y aller. A plus tard.}
 {3113}{}{Sauve qui peut !}
 {3114}{}{J'ai quelques parties à rafistoler.}
 {3115}{}{Ces vieux os n'en peuvent plus.}
@@ -795,7 +795,7 @@
 {3144}{}{C'est l'heure du casse-croûte.}
 {3145}{}{Je mangerai ton foie !}
 {3146}{}{J'espère que tu ne vas pas mourir trop vite...}
-{3147}{}{A table !!}
+{3147}{}{A table !}
 {3148}{}{Crève !}
 {3149}{}{Des crapules comme toi, j'en mange dix au p'tit déj'...}
 {3150}{}{Comment quelque chose d'aussi désordonné peut-il être mauvais ?}
@@ -915,7 +915,7 @@
 {12144}{}{}
 {12145}{}{Je mangerai ton foie !}
 {12146}{}{J'espère que tu ne mourras pas trop vite...}
-{12147}{}{A table !!}
+{12147}{}{A table !}
 {12148}{}{Crève !}
 {12149}{}{Des crapules comme toi, j'en mange dix au p'tit déj' !}
 {12160}{}{Tu peux pas m'faire mal !}

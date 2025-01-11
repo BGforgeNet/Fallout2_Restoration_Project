@@ -28,7 +28,7 @@
 {172}{}{Mess-aj.}
 {173}{}{Farm?}
 {174}{}{Bad things all gone!}
-{175}{}{I go.}
+{175}{}{Jag går.}
 {176}{}{I'll be back when I have more to report.}
 {179}{}{There's a drunkard in the Den who matches Karl's description. Says he used to be a farmer too.}
 {180}{}{Those bodies are fake. Just dummies covered in Brahmin guts. They were there to scare you away from the crops.}

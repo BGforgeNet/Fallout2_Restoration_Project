@@ -164,4 +164,4 @@
 {829}{}{Tu me remplis de fierté.}
 {830}{}{Merci. Maintenant, laisse-moi retourner à mon précieux travail.}
 {831}{}{Si tu continues, tu deviendras peut-être comme moi un jour.}
-{900}{}{Ca se voit pas que j'ai à faire ?!!}
+{900}{}{Ca se voit pas que j'ai à faire ?}
