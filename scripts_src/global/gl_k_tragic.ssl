@@ -40,15 +40,15 @@ procedure start begin
     if global_var(GVAR_ADDICT_TRAGIC) == 0 then return;
 
     // Craving
-    if game_time - time_of_last_craving >= TIME_TRAGIC_USAGE then begin
+    if game_time >= time_of_last_craving + TIME_TRAGIC_USAGE then begin
         if in_world_map then force_encounter(0);
 
         time_of_last_craving = game_time;
-        if (game_time - time_of_game_load < TIME_DURATION_OF_ADDICTION) then display_mymsg(MSG_craving);
+        if (game_time < time_of_game_load + TIME_DURATION_OF_ADDICTION) then display_mymsg(MSG_craving);
     end
 
     // Addiction passed
-    if game_time - time_of_game_load >= TIME_DURATION_OF_ADDICTION then begin
+    if game_time >= time_of_game_load + TIME_DURATION_OF_ADDICTION then begin
         set_global_var(GVAR_ADDICT_TRAGIC, 0);
         if not dude_is_addicted() then hide_iface_tag(INTERFACE_TAG_ADDICT);
         display_mymsg(MSG_relieved);
