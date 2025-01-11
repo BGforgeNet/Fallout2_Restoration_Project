@@ -68,7 +68,8 @@
  farm was haunted. The Protectors reported him headed northwest. You might try searching for him that
  way.}
 {231}{}{Veo que has encontrado a Jonny. Le descubrimos vagando por la oscuridad de uno de nuestros túneles más profundos. Decía que se había caído por un pozo cerca de su casa, y entonces quedó atrapado en un túnel por un derrumbe. Le hemos tratado como si fuera uno de los nuestros y es querido por todos... así que comprenderás que no lo entregue a un extraño que aún debe probar que es digno de confianza. Llevaré a Jonny de vuelta a Modoc cuando esté seguro de que puede llegar a casa sano y salvo.}
-{232}{}{Has probado que eres digna de confianza, sin duda alguna. A pesar del hecho de que vamos a echar de menos al pequeño Jonny aquí abajo, hemos dispuesto una escolta para ti y Jonny para que volváis a Modoc ahora mismo.}
+{232}{}{You have proven your trustworthiness without doubt. Despite the fact that we'll miss little Jonny
+ down here, we have arranged an escort for you and Jonny to go back to Modoc right now.}
 {233}{}{¡Oh, chico! No me extraña que no te asustaran nuestros truquillos. Eres demasiado estúpido para asustarte. Odio depender de un discapacitado intelectual como tú, pero necesito tus servicios. Lleva este mensaje a Modoc. Dáselo al líder de Modoc y procura no perderte.}
 {300}{}{Ya me voy.}
 {301}{}{¿Qué es lo que quieres de mí?}

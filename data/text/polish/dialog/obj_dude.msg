@@ -13,5 +13,3 @@
 {700}{}{Możesz połączyć podarte fragmenty papieru razem, otrzymując listę trzech haseł.}
 {900}{}{Coś nie dobrego dzieje się w twoim żołądku.}
 {901}{}{Czujesz spore ciśnienie w żołądku.}
-{1000}{}{Nie możesz myśleć. Czujesz palące pragnienie otworzenia kolejnego pudełka kart Tragic'a.}
-{1001}{}{Czujesz się tak, jakby wielki ciężar został zdjęty z twoich myśli. Tragic nie jest już stałą częścią twoich myśli.}

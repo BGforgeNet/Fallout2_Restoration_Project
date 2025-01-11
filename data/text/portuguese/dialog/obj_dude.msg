@@ -14,5 +14,3 @@
 {700}{}{Você junta os pedaços de papel rasgado para obter uma lista de três senhas.}
 {900}{}{Algo não parece muito certo em seu estômago.}
 {901}{}{Você sente uma pressão intensa no estômago.}
-{1000}{}{Você não consegue pensar direito. Sente um desejo ardente de abrir outra caixa de Tragic .}
-{1001}{}{Você sente como se um grande fardo tivesse sido tirado de sua mente. O Tragic não é mais uma parte constante de seus pensamentos.}

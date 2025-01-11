@@ -13,5 +13,3 @@
 {700}{}{Tu attaches les bouts de papier déchirés ensemble et tu récupères une liste de trois mots de passe.}
 {900}{}{Quelque chose ne va pas avec ton estomac, tu peux le sentir.}
 {901}{}{Tu ressens une pression intense dans ton estomac.}
-{1000}{}{Tu ne peux plus penser clairement. Tu ressens un désir ardent d'ouvrir une nouvelle boite de carte Tragic.}
-{1001}{}{Tu sens qu'un lourd fardeau s'est évacué de ton esprit. Tu réussis à ne plus penser aux cartes Tragic pendant un moment.}
