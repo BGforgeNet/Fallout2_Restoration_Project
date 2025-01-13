@@ -16,6 +16,10 @@
 #define LVAR_Herebefore                 (4)
 #define LVAR_Problem                    (5)
 #define LVAR_Personal_Enemy             (6)
+/**
+ * Minimal Repair skill level to fix the terminal
+ */
+#define MIN_REPAIR_LEVEL      41
 
 procedure start;
 procedure use_skill_on_p_proc;
@@ -34,30 +38,44 @@ procedure start
 begin
 end
 
-procedure use_skill_on_p_proc
-begin
-  if (action_being_used == SKILL_REPAIR) then
-  begin
-    if (has_skill(source_obj, SKILL_REPAIR) > 40) then
-    begin
-      if (local_var(LVAR_Problem) == 1) then
-      begin
-        script_overrides;
+/**
+ * Fixes the terminal if `skill_level >= MIN_REPAIR_LEVEL`
+ */
+procedure repair_self(variable skill_level) begin
+    if (skill_level >= MIN_REPAIR_LEVEL) then begin
+      if (local_var(LVAR_Problem) == 1) then begin
         set_global_var(GVAR_MAGNETIC_FIELD, 1);
         set_local_var(LVAR_Problem, 2);
         float_msg(source_obj, mstr(108), FLOAT_MSG_YELLOW);
         display_msg(mstr(109));
         give_xp(100);
       end else if (local_var(LVAR_Problem) == 2) then begin
-        script_overrides;
         display_msg(message_str(SCRIPT_EPAI2, 115));
       end
     end else begin
-      script_overrides;
       display_msg(message_str(SCRIPT_EPAI2, 108));
     end
-  end
 end
+
+
+procedure use_skill_on_p_proc begin
+    if (action_being_used == SKILL_REPAIR) then begin
+        call repair_self(has_skill(source_obj, SKILL_REPAIR));
+    end
+end
+
+procedure use_obj_on_p_proc begin
+    variable tool = obj_pid(obj_being_used_with);
+    if (tool == PID_MULTI_TOOL) or (tool == PID_SUPER_TOOL_KIT) then begin
+        variable skill = has_skill(source_obj, SKILL_REPAIR);
+        variable bonus = 0;
+        if (tool == PID_MULTI_TOOL) then bonus = 20;
+        if (tool == PID_SUPER_TOOL_KIT) then bonus = 40;
+        script_overrides;
+        call repair_self(skill + bonus);
+    end
+end
+
 
 procedure look_at_p_proc
 begin
