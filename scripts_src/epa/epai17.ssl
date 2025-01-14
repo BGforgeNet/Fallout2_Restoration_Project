@@ -42,6 +42,7 @@ end
  * Fixes the terminal if `skill_level >= MIN_REPAIR_LEVEL`
  */
 procedure repair_self(variable skill_level) begin
+    script_overrides;
     if (skill_level >= MIN_REPAIR_LEVEL) then begin
       if (local_var(LVAR_Problem) == 1) then begin
         set_global_var(GVAR_MAGNETIC_FIELD, 1);
@@ -71,7 +72,6 @@ procedure use_obj_on_p_proc begin
         variable bonus = 0;
         if (tool == PID_MULTI_TOOL) then bonus = 20;
         if (tool == PID_SUPER_TOOL_KIT) then bonus = 40;
-        script_overrides;
         call repair_self(skill + bonus);
     end
 end
