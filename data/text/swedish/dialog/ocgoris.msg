@@ -4,7 +4,7 @@
  about his stance, but you're not sure exactly what it is.}
 {103}{}{Hello, I'm Goris. I don't recognize you; are you new here?}
 {104}{}{Me}
-{105}{}{Me go.}
+{105}{}{Jag gå.}
 {106}{}{Yeah, so what?}
 {107}{}{Hi. I'm}
 {108}{}{Hello, Goris. Gruthar said I should look you up. He seems to think you're the man with the
@@ -18,7 +18,7 @@
  look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around
  a bit and accomplished things. Am I right?}
 {114}{}{Uh... 'seasoned'?}
-{115}{}{Me go.}
+{115}{}{Jag gå.}
 {116}{}{Sorry, but I think I'll be leaving.}
 {117}{}{Yes, I've had some adventures. Say, if you wouldn't mind answering some questions for me, I
  could tell you some of my adventures in return.}
@@ -127,7 +127,7 @@
  for you to have survived in the world this long... it must be that mean streak I can sense in you. Oh,
  well. Good-bye.}
 {190}{}{Uh... Okay.}
-{191}{}{Me go.}
+{191}{}{Jag gå.}
 {192}{}{I'm sorry, I didn't mean to pry into your private affairs.}
 {193}{}{Yeah, well, see that you don't do it again!}
 {194}{}{Whatever. I need some information from you, though.}

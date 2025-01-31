@@ -25,7 +25,7 @@
 {124}{}{I heard your president's got a job to be done.}
 {125}{}{The folks at Vault 15 want to make a deal.}
 {126}{}{}
-{127}{}{Such as?}
+{127}{}{Så som?}
 {128}{}{Someone's been selling her out.}
 {129}{}{It's none of your business.}
 {130}{}{That's nice. This isn't a hiring hall. Why don't you try downtown?}

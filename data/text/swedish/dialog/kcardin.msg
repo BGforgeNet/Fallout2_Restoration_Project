@@ -204,7 +204,7 @@
 {942}{}{Oh, it's true. They're probably both worm food by now - well, the few scraps that haven't been turned
  into gecko shit anyway. Well, them's the breaks. See ya.}
 {943}{}{Uh, I guess that was a bad *joke*, sorry.}
-{950}{}{I don't want to talk to you.}
+{950}{}{Jag vill inte prata med dig.}
 {951}{}{Get out of here.}
 {952}{}{Damn, tribals. Nothing but trouble.}
 {953}{}{Get out of here, you savage.}

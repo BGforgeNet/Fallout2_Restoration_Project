@@ -56,7 +56,7 @@
 {144}{}{What does this caravan transport?}
 {145}{}{Okay, thanks. Goodbye.}
 {146}{}{Sorry, pal, we've already got enough throwbacks working in this caravan.}
-{147}{}{Oh, okay.}
+{147}{}{Åh, okej.}
 {148}{}{We trade NCR's best brahmin for gold ore in Redding. Straight and simple - just the way I like
  things.}
 {149}{}{Gotcha. You said you're looking for guards?}

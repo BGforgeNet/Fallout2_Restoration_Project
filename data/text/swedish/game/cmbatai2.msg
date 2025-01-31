@@ -1281,7 +1281,7 @@
 {32800}{}{Star Father! Help us!}
 {32801}{}{My anodynes!}
 {32802}{}{I want to live to see Quetzel!}
-{32803}{}{Eeek!}
+{32803}{}{Jösses!}
 {32804}{}{Save our celebrities!}
 {32805}{}{OZ-9! Help us!}
 {32820}{}{I'm going to "adjust" you so hard...}

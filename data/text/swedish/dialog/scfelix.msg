@@ -28,7 +28,7 @@
 {127}{}{Then I guess we got to kill you.}
 {128}{}{Done with your meeting?}
 {129}{}{Westin. Job. Me}
-{130}{}{Me go.}
+{130}{}{Jag gå.}
 {131}{}{Fine, he wants you to have a job; I got a job for you. Someone, or something, kill moo-moos. You come me. You guard. Keep moo-moos safe. Make boss happy. Okay?}
 {132}{}{Okej.}
 {133}{}{No. Me no kill.}

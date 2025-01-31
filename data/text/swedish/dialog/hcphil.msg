@@ -16,7 +16,7 @@
 {113}{}{Oh no. No no no no.}
 {114}{}{, pleased to meet you. I'm Phil. I own this place. Now... what'll it be?}
 {115}{}{Nuka-Cola.}
-{116}{}{Beer.}
+{116}{}{Öl.}
 {117}{}{Rotgut.}
 {118}{}{Ingenting.}
 {119}{}{Nothing, sorry. Bye!}

@@ -25,7 +25,7 @@
 {173}{}{Ledsen, jag har inget åt dig. Hej då.}
 {174}{}{Do you know where I can find a GECK?}
 {175}{}{Du nämnde något om en trädgård tidigare. Berätta mer.}
-{178}{}{Me go.}
+{178}{}{Jag gå.}
 {179}{}{Hey cheapskate! (hic) Come on, I know you gots money... (hic) Just some spare change then... (hic)
  something, anything! Show some compassion.}
 {180}{}{Here. Here's $25.}

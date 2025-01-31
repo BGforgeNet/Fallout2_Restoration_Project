@@ -47,7 +47,7 @@
 {262}{}{Excelente... ¿puedo ver tu mercancía especial?}
 {270}{}{Aquí, en Armas Nuevo Reno, tenemos los últimos dispositivos de protección personal necesarios para detener a cualquier gallina hijoputa que se interponga en tu camino. (Esboza una sonrisa maliciosa).}
 {272}{}{Hola otra vez, amigo. ¿Qué puedo hacer por ti?}
-{273}{}{¿Como cuales?}
+{273}{}{¿Cómo qué?}
 {274}{}{Cosas yo gusta cosas tú gustas cosas tambieeen?}
 {276}{}{Entonces eres justo el hombre que estaba buscando. ¿Puedo ver lo que tienes a la venta?}
 {277}{}{¿Puedo ver lo que tienes a la venta?}

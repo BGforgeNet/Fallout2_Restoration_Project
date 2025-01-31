@@ -1,8 +1,8 @@
 {100}{}{Du ser din brorson Feargus gråta över något som vanligt.}
-{101}{}{Wahh!!! Please fix the well.}
-{102}{}{Wahh!!! I'm really thirsty but the well's broken!}
-{103}{}{Wahh!!! The well really needs fixing.}
-{104}{}{Hey, thanks for fixing the well!}
+{101}{}{Buuhuu!!! Var snäll och fixa brunnen.}
+{102}{}{Buuhuu!!! Jag är väldigt törstig men brunnen är trasig!}
+{103}{}{Buuhuu!!! Brunnen behöver verkligen lagas.}
+{104}{}{Hörru, tack för att du fixade brunnen!}
 {105}{}{Var försiktig}
-{106}{}{The well's fixed. You the one!}
+{106}{}{Brunnen är lagad. Du gjorde det!}
 {200}{}{You see your nephew, Feargus.}

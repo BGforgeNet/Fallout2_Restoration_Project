@@ -204,7 +204,7 @@
 {2809}{}{Don't worry, Boss. Sulik and I'll get along, honest.}
 {2810}{}{Let's go.}
 {2811}{}{Stay here. I'll be right back.}
-{2812}{}{Me go.}
+{2812}{}{Jag gå.}
 {3100}{}{What? Uh... okay, Boss. If you say so.}
 {3101}{}{Can I put something else on, Boss? I'm a little worried.}
 {3102}{}{Okay... you're not going to leave me here... Are you, Boss?}

@@ -1,2 +1,2 @@
 1:Du har dött.
-2:Your quest to find the Garden of Eden and return it to your village has failed.
+2:Din strävan att hitta Edens lustgård och återföra den till din by har misslyckats.

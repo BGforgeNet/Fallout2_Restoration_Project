@@ -95,7 +95,7 @@
 {217}{}{You're obviously not desperate enough. I'll pass.}
 {218}{}{What was that? Did you say GECK?}
 {219}{}{Unh. GECK.}
-{220}{}{Me go.}
+{220}{}{Jag gå.}
 {222}{}{My name's Jo. Can you say Jo? No matter; you see that rectangular thing over there? That's a
  door. Be careful not to let it hit you on the way out.}
 {223}{}{[You don't quite understand everything he's saying, but you grin and turn to leave.]}

@@ -87,7 +87,7 @@
 {174}{aeld19}{Chosen One, things are not well here. We need the GECK if our village is to
  survive. Our people grow weak with hunger and our food reserves will not last much
  longer. Please, find the holy Thirteen and return to us. Go now.}
-{175}{}{Me go.}
+{175}{}{Jag gå.}
 {176}{}{Very well. I'm on my way.}
 {177}{}{I will do my best to find the GECK and save our village.}
 {178}{}{Don't push me, old woman. I'm doing my best.}

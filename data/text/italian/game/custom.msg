@@ -4,8 +4,8 @@
 {3}{}{Distanza}
 {4}{}{Attacca}
 {5}{}{Usa droghe}
-{10}{}{-Fatto-}
-{11}{}{Canc.}
+{10}{}{Fatto}
+{11}{}{Annulla}
 {99}{}{Non Disponibile.}
 {100}{}{Sempre!}
 {101}{}{A volte, e non preoccuparti di non colpirmi}
@@ -18,7 +18,7 @@
 {203}{}{Non ti senti bene}
 {204}{}{Ti serve un laccio emostatico}
 {205}{}{Mai!}
-{300}{}{Nessuna}
+{300}{}{Nessuno}
 {301}{}{Mischia}
 {302}{}{Mischia e poi a distanza}
 {303}{}{A distanza e poi Mischia}

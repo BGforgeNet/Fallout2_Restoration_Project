@@ -15,7 +15,7 @@
 {231}{}{Got any work?}
 {232}{}{Tack. Hej då.}
 {240}{}{If you didn't come to the Den for a specific reason you should probably leave. It's not very safe around here.}
-{241}{}{Oh, okay.}
+{241}{}{Åh, okej.}
 {242}{}{Got any work?}
 {243}{}{I can handle myself.}
 {244}{}{Okay, thanks.}

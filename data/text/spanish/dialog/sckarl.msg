@@ -2,7 +2,7 @@
 {101}{}{Es Karl, el ayudante del sheriff de la ciudad.}
 {102}{}{Ves a un joven que apenas acaba de dejar atrás la adolescencia. Parece ansioso por agradar.}
 {103}{}{Bienvenido, forastero. Soy el ayudante Karl. ¿Qué puedo hacer por ti?}
-{104}{}{¿Como cuales?}
+{104}{}{¿Cómo qué?}
 {105}{}{Uh...nugh..}
 {106}{}{Soy nuevo en RNC. ¿Qué puedes contarme sobre vuestra ciudad?}
 {107}{}{Bueno, estoy buscando el Refugio 13.}

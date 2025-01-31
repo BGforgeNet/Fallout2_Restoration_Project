@@ -28,7 +28,7 @@
 {122}{}{Influenza velocita' giocatore}
 {123}{}{Pip-Boy speech}
 {201}{}{On}
-{202}{}{Off}
+{202}{}{Spento}
 {203}{}{Facile}
 {204}{}{Normale}
 {205}{}{Difficile}
@@ -40,7 +40,7 @@
 {211}{}{Prolisso}
 {212}{}{Breve}
 {213}{}{Solo con Mirino}
-{214}{}{Nessuna}
+{214}{}{Nessuno}
 {215}{}{Minimo}
 {216}{}{Massimo sangue}
 {217}{}{Lento}
@@ -49,7 +49,7 @@
 {220}{}{Molti}
 {221}{}{Basso}
 {222}{}{Alto}
-{223}{}{Piu' chiaro}
+{223}{}{Scoperto}
 {224}{}{Largo}
 {300}{}{OK}
 {301}{}{PAUSA}

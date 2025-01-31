@@ -48,7 +48,7 @@
 {262}{}{Excellent... can I see you special stock?}
 {270}{}{Here at New Reno Arms, we have the latest personal protection devices needed to stop any yellow-bellied sonuvabitch dead in his tracks. (Smiles evilly.)}
 {272}{}{Hello again, friend. What can I do for you?}
-{273}{}{Such as?}
+{273}{}{Så som?}
 {274}{}{Stuff me like stuff you like stuff tooooo?}
 {276}{}{You're just the man I was looking for then. Can I see what you got in stock?}
 {277}{}{Can I see what you got in stock?}

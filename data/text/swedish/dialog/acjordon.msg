@@ -1,9 +1,9 @@
-{100}{}{You see Jordan, twirling his spear as usual.}
-{101}{}{You see Jordan, twirling his spear as usual.}
-{102}{}{Good luck! I must get back to my training.}
-{103}{}{Hello Chosen One. I see you're in need of a little training. Can I be of help?}
+{100}{}{Du ser Jordan, som snurrar på sitt spjut som vanligt.}
+{101}{}{Du ser Jordan, som snurrar på sitt spjut som vanligt.}
+{102}{}{Lycka till! Jag måste återgå till min träning.}
+{103}{}{Hej, utvalde. Jag ser att du behöver lite träning. Kan jag vara till hjälp?}
 {104}{}{Visst.}
 {105}{}{Nej tack.}
-{106}{}{This will take a little while.}
+{106}{}{Det här kommer att ta en liten stund.}
 {107}{}{Sådär, du har lärt dig allt jag kan lära dig om spjut.}
-{108}{}{Thanks Jordan, that's going to help a lot.}
+{108}{}{Tack Jordan, det kommer att hjälpa mycket.}

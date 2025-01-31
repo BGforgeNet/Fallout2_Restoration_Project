@@ -22,7 +22,7 @@
 {140}{}{Thanks for fixing the reactor. It's a little cooler now, but not too bad.}
 {141}{}{Brrr... thanks for fixing our reactor.}
 {142}{}{I wish I could have gotten that part.}
-{143}{}{Thanks for your help.}
+{143}{}{Tack för din hjälp.}
 {144}{}{Maybe those Vault City people aren't so bad after all.}
 {150}{}{I can't remember when the reactor ran this well.}
 {151}{}{It's downright chilly in here today.}

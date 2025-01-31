@@ -16,46 +16,46 @@
 {110}{}{Förlåt, glömde fråga.}
 {111}{}{Ja.}
 {112}{}{Nej.}
-{113}{}{(sigh) Pay attention. Concentrate. Look me in the eyes. Now, are you ready?}
-{114}{}{Ready what?}
-{115}{}{Yes. Me ready.}
-{116}{}{I... If it were not for the fact that your IQ is less than my height in
- feet I would think that you are trying to irritate me. Now, be silent. Pay
- attention. Concentrate. Look me in the eyes. I am about to ask you a question.}
-{117}{}{So go ahead. Who stopping you?}
+{113}{}{(suck) Var uppmärksam. Koncentrera dig. Titta mig i ögonen. Är du redo nu?}
+{114}{}{Redo för vad?}
+{115}{}{Ja. Jag redo.}
+{116}{}{O... Om det inte vore för det faktum att din IQ är mindre än min längd i
+ fot skulle jag tro att du försöker irritera mig. Var tyst nu. Var
+ uppmärksam. Koncentrera dig. Titta mig i ögonen. Jag ska nu ställa en fråga till dig.}
+{117}{}{Så fortsätt. Vem hindrar dig?}
 {118}{}{Min herres livsfunktioner har upphört. Är du min nya mästare?}
 {119}{}{Eh... vovve prata?}
-{120}{}{Yes. Me want doggie.}
+{120}{}{Ja. Jag vill ha vovve.}
 {121}{}{Nej tack.}
-{122}{}{Sounds good.}
+{122}{}{Låter bra.}
 {123}{}{Nej tack.}
-{124}{}{I... I refuse to go through this with you a second time! Were I
- capable of full motivation I would bite you in the fleshy part of your
- anterior region commonly referred to as the...}
-{125}{}{Ass. Me know what ass is. Me not dummy. Me just joke with you.}
-{126}{}{Oh, a joke. Hardy har har har. Now, are you my new master or not?}
+{124}{}{Jag... Jag vägrar att gå igenom det här med dig en gång till! Vore jag
+ kapabel till fullständig motivation skulle jag bita dig i den köttiga delen av din
+ främre regionen som vanligtvis kallas för...}
+{125}{}{Röv. Jag vet vad röv är. Jag inte dummis. Bara skämta med dig.}
+{126}{}{Åh, ett skämt. Ha hi ho he hå. Nu, är du min nya mästare eller inte?}
 {127}{}{Okej. Jag gilla vovve.}
-{128}{}{No. No want doggie.}
-{129}{}{Excellent. I am in need of repairs, master. My motivation unit has
- been removed. Find it, replace it, and I will join you.}
-{130}{}{Uh... Where I find?}
-{131}{}{Any ideas on where I can find this part?}
-{132}{}{I am not sure, master. I would try maintenance. It is upstairs in the
- northeast corner of the base.}
-{133}{}{Okay. Me go.}
-{134}{}{I'll try there. If I don't find it, I'll look around for it.}
-{135}{}{Then leave me in peace.}
+{128}{}{Nej. Jag inte vill ha vovve.}
+{129}{}{Utmärkt. Jag är i behov av reparationer, mästare. Min motivationsenhet har
+ blivit borttagen. Hitta den, ersätt den, så kommer jag att följa med dig.}
+{130}{}{Eh... Var jag hittar?}
+{131}{}{Några idéer om var jag kan hitta den här delen?}
+{132}{}{Jag är inte säker, mästare. Jag skulle försöka med underhåll. Det är på övervåningen i
+ nordöstra hörnet av basen.}
+{133}{}{Okej. Ja' gå.}
+{134}{}{Jag ska försöka där. Om jag inte hittar den, letar jag runt efter den.}
+{135}{}{Lämna mig då i fred.}
 {136}{}{Okej.}
 {137}{}{Ska ske.}
-{138}{}{Hello again. The life functions of my master have terminated. Are
- you my new master?}
+{138}{}{Hej igen. Min mästares livsfunktioner har avslutats. Är
+ du min nya mästare?}
 {139}{}{Okej.}
 {140}{}{Nej.}
 {141}{}{Okej.}
 {142}{}{Nej tack.}
-{143}{}{You are not my master. I cannot speak to you. Good bye.}
+{143}{}{Du är inte min mästare. Jag kan inte tala med dig. Adjö.}
 {144}{}{Okej.}
-{145}{}{Hello master. Have you found my motivation unit?}
+{145}{}{Hej, mästare. Har du hittat min motivationsenhet?}
 {146}{}{No, me look more.}
 {147}{}{Yes. Me find.}
 {148}{}{No, I'm still looking for it.}
@@ -208,7 +208,7 @@
 {290}{}{We should spread out a bit.}
 {291}{}{That's it for now.}
 {292}{}{Sure. You look like a nice enough dog.}
-{293}{}{No, thanks.}
+{293}{}{Nej, tack.}
 {300}{}{Me sad. Me no can fix.}
 {301}{}{I'm sorry; I can't fix you.}
 {400}{}{You seem to be missing a part.}

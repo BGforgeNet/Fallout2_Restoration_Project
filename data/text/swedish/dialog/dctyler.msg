@@ -125,7 +125,7 @@
 {500}{}{Not so fast, slick. Just to be sure, we'll wait until after they show.
  You could be lying to me for all I know. You just be sure they show, and I'll pay you after.}
 {501}{}{But I'm a lover, not a fighter.}
-{502}{}{Sounds good.}
+{502}{}{Låter bra.}
 {510}{}{Look, I don't give a rat's ass what you are. I'm not giving you a dollar
  until after they show. We'll do the fighting, but you better be sure they show.}
 {511}{}{Okej.}

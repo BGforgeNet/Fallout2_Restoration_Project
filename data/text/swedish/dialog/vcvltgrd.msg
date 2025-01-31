@@ -42,7 +42,7 @@
 {137}{}{I'm sorry... I don't recognize you. I'm under orders to only let Citizens I know into the Vault.
  Perhaps First Citizen Lynette can help you. Good day.}
 {138}{}{Hello, Captain. Can I help you?}
-{139}{}{Oh, okay.}
+{139}{}{Åh, okej.}
 {140}{}{Oh, sure. I was just looking.}
 {141}{}{Umgh}
 {142}{}{Yeah, whatever, Mungoth. Talk to the hand.}

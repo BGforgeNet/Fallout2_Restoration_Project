@@ -69,7 +69,7 @@
 {642}{}{Too late, my dear tribal. You are going to join your ancestors in about...12 seconds.}
 {700}{}{(The tribal looks upon you with silence)}
 {701}{}{[Keep staring]}
-{702}{}{[Attack]}
+{702}{}{[Attackera]}
 {703}{}{My name is }
 {704}{}{. Who are you?}
 {705}{}{I'm on a mission for Vault City. Who are you?}
@@ -78,7 +78,7 @@
 {708}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
 {710}{}{(The tribal continues to look upon you with silence)}
 {711}{}{[Keep staring]}
-{712}{}{[Attack]}
+{712}{}{[Attackera]}
 {713}{}{My name is }
 {714}{}{. Who are you?}
 {715}{}{I'm on a mission for Vault City. Who are you?}
@@ -87,7 +87,7 @@
 {718}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
 {720}{}{(The tribal continues to look upon you with silence. It is clear he is becoming impatient.)}
 {721}{}{[Keep staring]}
-{722}{}{[Attack]}
+{722}{}{[Attackera]}
 {723}{}{My name is }
 {724}{}{. Who are you?}
 {725}{}{I'm on a mission for Vault City. Who are you?}
@@ -99,7 +99,7 @@
 {802}{}{Don't you turn your back on me tribal. I'm talking to you.}
 {810}{}{How dare you threaten Shadow Who Walks. Leave now.}
 {811}{}{[Walk Away]}
-{812}{}{[Attack]}
+{812}{}{[Attackera]}
 {850}{}{Who goes there?}
 {851}{}{Shhh... I'm huntin' wabbits.}
 {852}{}{HeeeeHeee! Hehe... He... You have nice paintings like a picture... Heeee!}

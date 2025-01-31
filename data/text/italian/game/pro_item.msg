@@ -106,7 +106,7 @@
 {5301}{}{Una confezione di droghe alteranti la mente. Aumenta le funzioni legate alla memoria, e velocizza gli altri processi mentali. Alto rischio di dipendenza.}
 {5400}{}{Stealth Boy}
 {5401}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
-{5500}{}{Water Chip}
+{5500}{}{Chip di depurazione dell'acqua.}
 {5501}{}{Questo e' un Water Chip della Vault-Tec. Di solito ogni scatola ne contiene cinque.}
 {5600}{}{Targhette Militari}
 {5601}{}{Targhette militari. Il nome Dickinson e la parola Enclave sono a malapena leggibili.}

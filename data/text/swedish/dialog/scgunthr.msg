@@ -66,7 +66,7 @@
 {165}{}{Thanks. Have a nice day.}
 {166}{}{Oh, it's you. Look, this is not a good time. In fact, I think Madam President would rather not get you involved in anything else. Thank you and good day.}
 {167}{}{Let me make myself clear. The President is not going to see you - now or ever. You've been paid. Now just leave.}
-{171}{}{Me go.}
+{171}{}{Jag gå.}
 {172}{}{Absolutely nothing.}
 {173}{}{You bitch! Guards! Assassin. Murderer!}
 {174}{}{I've been to Vault 15 and I need to talk to your boss about it.}

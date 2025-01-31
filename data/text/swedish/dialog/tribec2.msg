@@ -30,7 +30,7 @@
 {190}{}{[The corner of his mouth twitches up into a hint of a smile.] Ah, I suppose you outworlders aren't all bad, after all. Here, take this money. The spirits tell me you be needing this more than I.}
 {191}{}{Tack.}
 {200}{}{May your ancestors guide you well.}
-{201}{}{Thanks for your help.}
+{201}{}{Tack för din hjälp.}
 {202}{}{Nice to be seeing you again.}
 {210}{}{You won't take us alive, slaver!}
 {300}{}{All right, calm your spirits of anger. I'll do it myself. [He mumbles.] Crazy outworlder...}

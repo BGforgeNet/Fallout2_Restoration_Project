@@ -198,7 +198,7 @@
 {295}{}{I see. I had some other questions...}
 {296}{}{Hmmm. Interesting. Thanks for the information.}
 {297}{}{Our First Citizen is Joanne Lynette. She has done many good things for our city in her ten years of service.}
-{298}{}{Such as?}
+{298}{}{Så som?}
 {299}{}{She has kept our city untainted by the outside world. Even with NCR pressuring us to join the
  Republic and the raider attacks, she has kept our city strong. Now there are the troubles with Gecko....}
 {300}{}{What is the NCR?}

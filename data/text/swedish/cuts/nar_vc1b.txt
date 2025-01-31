@@ -1,5 +1,5 @@
-1:The slaughter of Vault City has become the stuff of legend.
-2:One day it was a thriving community, and the next, the body of its Citizens lay strewn throughout the streets.
-3:It looked as if raiders had sacked the city, but no bodies of the attackers were ever found.
-4:Their Vault was plundered of all its technology, and the inhabitants of Gecko soon moved into the broken walls of the city.
-5:In a few short months, they had rebuilt the city and restored much of the systems that had been damaged by the raiders.
+1:Slakten av Valvstaden har blivit en legend.
+2:Ena dagen var det ett blomstrande samhälle och nästa dag låg Medborgarnas kroppar utspridda på gatorna.
+3:Det såg ut som om plundrare hade länsat staden, men inga kroppar av angriparna hittades någonsin.
+4:Deras Valv plundrades på all sin teknologi och invånarna från Gecko bosatta sig snart innanför stadens trasiga murar.
+5:Efter några få månader hade de återuppbyggt staden och återställt många av de system som hade skadats av plundrarna.

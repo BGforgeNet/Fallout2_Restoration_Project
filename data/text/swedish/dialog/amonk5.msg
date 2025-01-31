@@ -13,7 +13,7 @@
 {305}{}{Do you know where I could find Vault 13?}
 {306}{}{Hej då.}
 {307}{}{Jag behöver lite specifik information.}
-{308}{}{Such as?}
+{308}{}{Så som?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files
  each and every day. There's just so much information to preserve, but, of course, it must be done.}
 {401}{}{Of course. Anyway, I have some other questions.}

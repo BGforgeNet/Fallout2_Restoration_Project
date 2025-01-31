@@ -1,29 +1,29 @@
-{100}{}{Ves a Bill el mercader.}
-{101}{}{Ves a un mercader de aspecto viejo.}
-{200}{}{Hola, viajero. Nombre es Bill. ¿Qué puedo hacer por ti?}
-{201}{}{Bienvenido de nuevo. ¿Quieres algo más?}
+{100}{}{Ves al comerciante Bill.}
+{101}{}{Ves a un comerciante de aspecto viejo.}
+{200}{}{Hola, viajero. Me llamo Bill. ¿Qué puedo hacer por ti?}
+{201}{}{Bienvenido de nuevo. ¿Necesitas algo más?}
 {202}{}{Vamos a comerciar.}
-{203}{}{He oído que eres el hombre con quien hablar de las caravanas.}
+{203}{}{He oído que eres el hombre con quien hablar sobre caravanas.}
 {204}{}{No importa. Adiós.}
-{210}{}{Digamos, que he notado que se han acumulado muchos equipos y objetos viejos aquí en la Abadía.
-¿Supongo que no has encontrado nada ... especial, durante tu tiempo aquí?}
-{211}{}{Heh, entonces lo notaste, ¿eh? Sí, la gente de Abbey tiene un poco de fascinación con cualquier cosa antes de la guerra,
-  especialmente si está relacionado con la tecnología. Han formado una especie de religión extravagante a su alrededor. No lo entiendo del todo,
-  yo mismo, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logré tener en mis manos. Pero de todos modos,
-  en cuanto a algo especial ... hmm, [Él mira a Marcus.] Es gracioso que preguntes, podría tener algo que
-  interesaría a tu amigo aquí.}
-{212}{}{Heh, entonces lo notaste, ¿eh? Sí, la gente de Abbey tiene un poco de fascinación con cualquier cosa antes de la guerra,
-  especialmente si está relacionado con la tecnología. Han formado una especie de religión extravagante a su alrededor. No lo entiendo del todo,
-  yo mismo, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logré tener en mis manos. Pero de todos modos,
-  en cuanto a algo especial ... hmm, [Echó un vistazo a tu fiesta.] Lo siento, no creo que tenga nada especial que encuentres
+{210}{}{Digamos que he notado que se han acumulado muchos equipos y objetos viejos aquí en la Abadía. 
+Supongo que no has encontrado nada... especial, durante tu tiempo aquí, ¿verdad?}
+{211}{}{Je, así que te diste cuenta, ¿eh? Sí, la gente de la Abadía tiene una especie de fascinación por todo lo anterior a la guerra,
+  especialmente si tiene que ver con la tecnología. Han formado una especie de religión rara en torno a eso. No lo entiendo del todo,
+  la verdad, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logre tener en mis manos. Pero de todos modos,
+  en cuanto a algo especial ... hmm, [Él mira a Marcus.] Es gracioso que preguntes, quizás tenga algo que
+  podría interesar a tu amigo aquí.}
+{212}{}{Je, así que te diste cuenta, ¿eh? Sí, la gente de la Abadía tiene una especie de fascinación por todo lo anterior a la guerra
+ especialmente si tiene que ver con la tecnología. Han formado una especie de religión rara en torno a eso. No lo entiendo del todo
+ la verdad, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logre tener en mis manos. Pero de todos modos
+ en cuanto a algo especial... hmm, [Él echa un vistazo a tu grupo.] Lo siento, no creo que tenga nada especial que te pueda ser
   útil en este momento.}
 {213}{}{Oh, bien. Déjame ver lo que tienes a la venta.}
-{214}{}{Eso está bien. Deja que te pregunte algo más.}
-{215}{}{¿Como cuales?}
-{216}{}{Verá, hace poco apareció una caravana que afirmaba haber venido del sur profundo. Dijeron que habrían
-  sido atacado por algunos de los viles mutantes (recurriendo a Marcus) sin ofender, gran tipo. De todos modos, hicieron mucho alardear
-  acerca de cómo habían desperdiciado todos los muties. Reclamó que había habido casi una docena de ellos, y llamé tonterías. Pero resulta
-  tenían alguna prueba.}
+{214}{}{Está bien. Déjame preguntarte otra cosa.}
+{215}{}{¿Cómo qué?}
+{216}{}{Verás, una caravana pasó por aquí hace no mucho, diciendo que venían del sur profundo. Dijeron que los
+  habían atacado algunos de esos malditos mutantes (mirando a Marcus) sin ofender, grandote. De todos modos, se pasaron alardeando
+  de cómo habían acabado con todos los mutantes. Afirmaron que habían sido casi una docena, y yo no les creí. Pero resulta
+  que tenían alguna prueba.}
 {217}{}{¿En serio? ¿Qué fue eso?}
 {218}{}{Un conjunto descomunal de armadura mutante que habían logrado salvar de uno de los cadáveres. Por supuesto, por lo que sé,
   se lo robó a los huesos de un mutie muerto hace mucho tiempo que encontraron en las ruinas, pero ¿quién sabe? De todos modos, no fueron

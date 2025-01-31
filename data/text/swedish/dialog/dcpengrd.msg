@@ -17,5 +17,5 @@
 {235}{}{Hej.}
 {236}{}{You're my kind of lady.}
 {237}{}{A female slaver - got to respect that.}
-{238}{}{Hi there.}
+{238}{}{Hej på dig.}
 {239}{}{Looking good.}

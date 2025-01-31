@@ -47,7 +47,7 @@
 {144}{}{Did you see someone go by here in a hurry?}
 {145}{}{I see people go by here every day. I really don't pay much attention to them.}
 {146}{}{Me not have time for you crap.}
-{147}{}{Oh, okay.}
+{147}{}{Åh, okej.}
 {148}{}{Girl life at stake. Young girl. Someone daughter. You please help?}
 {149}{}{I don't have time for your crap.}
 {150}{}{Fine, bye.}

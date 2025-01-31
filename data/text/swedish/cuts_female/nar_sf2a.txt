@@ -1,3 +1,3 @@
-1:The scientists grew tired of waiting for the Star Father to come for them or provide the fuel they needed.
-2:Using a cheap derivative fuel, they launched an abortive effort to reach the stars themselves.
-3:Their shuttle exploded moments after take off.
+1:Forskarna tröttnade på att vänta på att Stjärnfadern skulle komma och hämta dem eller ge dem det bränsle de behövde.
+2:Med hjälp av ett billigt derivatbränsle inledde de ett misslyckat försök att själva nå stjärnorna.
+3:Deras rymdfärja exploderade strax efter start.

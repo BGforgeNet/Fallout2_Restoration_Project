@@ -1,2 +1,2 @@
-{100}{}{The gecko sneers at you.}
-{101}{}{The gecko sneers at }
+{100}{}{Geckon fnyser åt dig.}
+{101}{}{Geckon fnyser åt }

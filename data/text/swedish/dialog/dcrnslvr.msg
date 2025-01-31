@@ -22,7 +22,7 @@
 {256}{}{That wasn't that bad. We got some decent slaves out of this.}
 {257}{}{I've seen better, but at least we'll get paid.}
 {265}{}{Hey, we did pretty good. We almost got them all.}
-{266}{}{Thanks for your help.}
+{266}{}{Tack för din hjälp.}
 {267}{}{Good job. The pay for this run should be nice.}
 {268}{}{That was fun and we should get a good cash out.}
 {275}{}{We kicked some serious ass. Metzger better give us a big bonus.}

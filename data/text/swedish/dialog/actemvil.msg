@@ -87,13 +87,13 @@
  att ta dig förbi mig.}
 {201}{}{Du har en tunga av renaste silver, den Utvalde. Din skicklighet med ord kommer att öppna många dörrar
  för dig.}
-{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
-{301}{}{Thanks, Cameron.}
-{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
-{303}{}{Yes, you teach.}
-{304}{}{No, me not need.}
-{305}{}{Yes, please teach me all that you can.}
-{306}{}{Thanks, but I think I can handle myself just fine.}
+{300}{}{Och till dig också, Utvalde. Må andarna vägleda dig i ditt sökande.}
+{301}{}{Tack, Cameron.}
+{302}{}{Utvalde, jag kunde inte undgå att märka att du saknar starka stridskunskaper. Det har varit min erfarenhet att man inte alltid kan förlita sig på sitt förstånd eller sina ord för skydd. Med din tillåtelse ska jag lära dig några saker som jag tror att du kommer att finna väldigt användbara.}
+{303}{}{Ja, du lära.}
+{304}{}{Nej, jag inte behöva.}
+{305}{}{Ja, var snäll och lär mig allt du kan.}
+{306}{}{Tack, men jag tror att jag klarar mig bra själv.}
 {307}{}{You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day.}
 {308}{}{Me thank you, Cameron.}
 {309}{}{Thanks, Cameron. I will remember your words.}

@@ -111,7 +111,7 @@
 {327}{}{Maybe so, but at least *I* don't live here.}
 {330}{}{Sorry, sir. Better luck next time.}
 {331}{}{Sorry, ma'am. Better luck next time.}
-{332}{}{Sorry, better luck next time.}
+{332}{}{Ledsen, bättre lycka nästa gång.}
 {333}{}{You have [C] chips. Keep playing?}
 {334}{}{Call it a day.}
 {335}{}{Call it a night.}

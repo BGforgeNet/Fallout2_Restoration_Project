@@ -79,7 +79,7 @@
 {310}{}{[He frowns.] I don't know what kind of an idiot would turn down a deal like this. [He shakes his head and turns
  to his men.] Alright, let's go. [He glances back at you.] And fuck you for wasting my time.}
 {311}{}{[Let them leave.]}
-{312}{}{[Attack]}
+{312}{}{[Attackera]}
 {320}{}{No catch, my friend. I simply already have all the stimpaks I need, so I'm offloading my excess supply.
  Golden pelts, on the other hand... I could never have enough of those. Sure, fifty stimpaks are worth far more than
  a mere twenty golden gecko pelts, but I'm being realistic. I can't expect your tribe -- skilled hunters though I'm sure
@@ -110,5 +110,5 @@
  fucking things -- I bought 'em. So *I'm* the one that was ripped off here -- not you. Now, since there's no deal, I'm not
  gonna waste my time here any longer. Bye.}
 {381}{}{[Let them leave.]}
-{382}{}{[Attack]}
+{382}{}{[Attackera]}
 {390}{}{Who the fuck do you think you are? [To his bodyguards.] Kill these goddamn tribals!}

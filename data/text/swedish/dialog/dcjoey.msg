@@ -37,7 +37,7 @@
 {182}{}{Then I guess I have to kill you.}
 {183}{}{Hey. How's it goin'?}
 {184}{}{OK, and you?}
-{185}{}{Not so good.}
+{185}{}{Inte så bra.}
 {186}{}{Did you take a locket from that haunted house?}
 {187}{}{What do you know about that ghost that comes around here at night?}
 {188}{}{Hey, man, I'm Joey. What're you doin' on my turf?}

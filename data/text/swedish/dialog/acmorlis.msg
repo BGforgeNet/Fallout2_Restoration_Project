@@ -32,7 +32,7 @@
 {156}{}{Ja, moster Morlis.}
 {200}{}{Så du har återvänt. Hittade du det heliga Tretton?}
 {201}{}{Nej, moster Morlis, jag...}
-{202}{}{Then get yourself out of here and find it! People are depending on you!}
+{202}{}{Ge dig av och hitta det! Folk är beroende av dig!}
 {203}{}{Ja, moster Morlis.}
 {204}{}{Ja, nu är du tillbaka igen. Har du än en gång misslyckats med att slutföra ditt uppdrag?}
 {205}{}{Ja, moster Morlis, men...}
@@ -48,7 +48,7 @@
 {215}{}{Ge dig då av och hitta GECK! Folk är beroende av dig!}
 {216}{}{Ja, moster Morlis.}
 {300}{}{Jag verkar ha tappat bort flintan. Nå ja, jag har i alla fall mitt pulver. Iväg med dig nu! Jag har inte tid att skvallra.}
-{301}{}{Why do you bother me, niece? Can't you see I'm busy?}
+{301}{}{Varför stör du mig, brorsdotter? Kan du inte se att jag är upptagen?}
 {302}{}{Jag kan inte hitta flintan. Jag är säker på att du tog den från mig när jag inte tittade. Jag har fångat dig förut. Iväg med dig nu! Jag har inte tid att skvallra.}
 {303}{}{Jaha... Åh, jag är ledsen, men jag verkar ha tappat bort flintan. Jag önskar dig en säker resa, mitt barn. }
 {304}{}{Jag har redan gett dig flintan, dumbom. Sluta slösa bort min tid och stick härifrån!}

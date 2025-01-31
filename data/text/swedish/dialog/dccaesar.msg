@@ -101,7 +101,7 @@
 {245}{}{Interesting. I'll give you }
 {246}{}{ mynt.}
 {247}{}{Såld!}
-{248}{}{No, thanks.}
+{248}{}{Nej, tack.}
 {249}{}{I want more money than that!}
 {250}{}{Alright, I'll give you }
 {251}{}{ but no more!}
@@ -114,7 +114,7 @@
 {258}{}{Nothing. Never mind.}
 {259}{}{Han är inte till salu, än.}
 {260}{}{Varför inte?}
-{261}{}{Oh, okay.}
+{261}{}{Åh, okej.}
 {262}{}{Han kommer att kosta $2000.}
 {263}{}{Här får du dina pengar.}
 {264}{}{Det är en hel del. Kanske senare.}

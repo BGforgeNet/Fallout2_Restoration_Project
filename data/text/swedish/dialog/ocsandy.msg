@@ -40,7 +40,7 @@
  gives me piggy back rides. Mom says I should leave Valdis alone. He's busy and doesn't have time to
  play but he always plays with me when I ask him. I just don't tell Mom about it anymore.}
 {132}{}{Piggy... (confused puppy look)}
-{133}{}{Me go.}
+{133}{}{Jag gå.}
 {134}{}{That's nice.}
 {135}{}{Ok, see ya.}
 {136}{}{Yeah. Mommy takes care of me and Valdis wouldn't let anyone hurt me. I'm safe here.}

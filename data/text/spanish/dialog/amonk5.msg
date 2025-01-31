@@ -13,7 +13,7 @@
 {305}{}{¿Sabes dónde puedo encontrar el Refugio 13?}
 {306}{}{Adiós.}
 {307}{}{Necesito alguna información específica.}
-{308}{}{¿Como cuales?}
+{308}{}{¿Cómo qué?}
 {400}{}{Sí tenemos. Demasiados, en mi opinión. No puedo expresarte el tedio de tener que respaldar todos estos archivos todos los días. Hay tanta información para preservar, pero, por supuesto, debe hacerse.}
 {401}{}{Por supuesto. De todos modos, tengo algunas otras preguntas.}
 {402}{}{Somos una comunidad independiente. Cualquiera es bienvenido siempre que se comporten.}

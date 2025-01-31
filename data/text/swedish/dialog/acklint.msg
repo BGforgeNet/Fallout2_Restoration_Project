@@ -8,14 +8,14 @@
 {107}{}{Jag har några frågor till dig.}
 {108}{}{Visst, nu ska jag göra prövningen.}
 {109}{}{(suck)}
-{110}{}{. You go temple. You take test. You not come back here until take test. Obey Elder. Go!}
-{111}{}{Me go.}
-{112}{}{Forgive me, }
-{113}{}{, but I cannot allow you to pass. If you wish to return to the village you may do so only by passing the trial set before you.}
-{114}{}{I see. I guess I'll be going then.}
-{115}{}{Can I ask you some questions then?}
-{116}{}{I could kick your ass and just walk out of here.}
-{117}{}{Forgive me, but I have no answers to your questions. Take the trial set before you by the Elder and prove yourself worthy to lead our people.}
+{110}{}{. Du gå tempel. Du gör test. Du inte komma tillbaka före du har gjort prov. Lyd Äldste. Gå!}
+{111}{}{Jag gå.}
+{112}{}{Förlåt mig, }
+{113}{}{, men jag kan inte låta dig passera. Om du vill återvända till byn kan du bara göra det genom att klara av den prövning som ställs inför dig.}
+{114}{}{Jag förstår. Jag antar att jag borde gå då.}
+{115}{}{Får jag ställa några frågor då?}
+{116}{}{Jag skulle kunna spöa dig och bara gå härifrån.}
+{117}{}{Förlåt mig, men jag har inga svar på dina frågor. Ta den prövning som den Äldste har satt dig inför och visa dig värdig att leda vårt folk.}
 {118}{}{Mycket bra.}
 {119}{}{Två personer som arbetar tillsammans kan flytta obelisken som blockerar vägen. Ensam skulle du misslyckas. Jag har inte för avsikt att hjälpa dig förrän du klarar den Äldstes prövning.}
 {120}{}{M-hm. Jag fattar.}

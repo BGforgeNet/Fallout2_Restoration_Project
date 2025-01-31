@@ -104,7 +104,7 @@
 {352}{}{[Dealer raises an eyebrow.] $}
 {354}{}{I will, thanks.}
 {355}{}{Maybe so.}
-{400}{}{Sorry, better luck next time.}
+{400}{}{Ledsen, bättre lycka nästa gång.}
 {401}{}{Sorry, sir. Better luck next time.}
 {402}{}{Sorry, ma'am. Better luck next time.}
 {410}{}{Match.}

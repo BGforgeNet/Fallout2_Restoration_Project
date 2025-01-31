@@ -37,7 +37,7 @@
 {136}{}{Yeah, got it.}
 {137}{}{Searching... Accessing base architectural files... Data acquired. Base commander's office is located below ground in the northeast quadrant of the base.}
 {138}{}{Bra.}
-{139}{}{Sounds good.}
+{139}{}{Låter bra.}
 {140}{}{Thank you for accessing EnclaveNet. Logging off... }
 {141}{}{Färdigt.}
 {142}{}{Kommando?}

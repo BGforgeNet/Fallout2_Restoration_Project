@@ -24,7 +24,7 @@
 {123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
 {124}{}{Aha.}
 {125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
-{126}{}{Such as?}
+{126}{}{Så som?}
 {127}{}{I don't believe you.}
 {128}{}{Take out Bishop instead. I'll pay cash, whatever he was paying plus 50%. How much was it?}
 {129}{}{(need info from Chris)}

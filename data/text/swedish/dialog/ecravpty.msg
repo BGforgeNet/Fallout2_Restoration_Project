@@ -34,7 +34,7 @@
 {131}{}{[End]}
 {132}{}{Heheheh! Lookslikeyoucanusesomementats. Giveme$1000.}
 {133}{}{[Give the man $1000]}
-{134}{}{Me go.}
+{134}{}{Jag gå.}
 {135}{}{OHYEAH! Thiswillpickyourightup!}
 {136}{}{[SLUT]}
 {150}{}{Hey, you're kinda cute; whats your name?}

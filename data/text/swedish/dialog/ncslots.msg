@@ -1,4 +1,4 @@
-{100}{}{You see a slot machine.}
+{100}{}{Du ser en spelautomat.}
 {101}{}{You see a glittering slot machine.}
 {150}{}{You see a slot machine. You swear you can see it looking at you out of the corner of your eye.}
 {151}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights.}
@@ -28,7 +28,7 @@
 {192}{}{Praise the Vault! Praise the Vault!}
 {193}{}{Are you a water chip?}
 {194}{}{Wander off, look for other shiny things}
-{195}{}{Lämna.}
+{195}{}{Gå härifrån.}
 {205}{}{The strange pretty golden metal box with three eyes and one arm does not answer.}
 {206}{}{ME }
 {207}{}{ ANSWER ME}
@@ -37,12 +37,12 @@
 {210}{}{you one strange mutant}
 {211}{}{Are you a water chip?}
 {212}{}{Wander off, look for other shiny things}
-{213}{}{Lämna.}
+{213}{}{Gå härifrån.}
 {220}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box speaks! "Please... insert... money."}
 {221}{}{Aighhhhh! Robot! Robot! Runnnnn}
-{222}{}{Lämna.}
+{222}{}{Gå härifrån.}
 {225}{}{You have enough money to play the slots, and you curse your poverty. Perhaps another time...}
-{226}{}{Lämna.}
+{226}{}{Gå härifrån.}
 {230}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights. It's coin slot beckons you, and you feel your face flush with anticipation.}
 {231}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, sugar... that's it... come on now... don't tease...*}
 {232}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, honey... that's it... grab the handle... grip it firmly... come on now...*}

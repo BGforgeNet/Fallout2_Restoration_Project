@@ -73,7 +73,7 @@
 {169}{}{Have you no shame, no decency?}
 {170}{}{Why do you try to destroy our town?}
 {171}{}{Don't you realize that if you'd destroyed the mine, you'd have destroyed us all as well?}
-{172}{}{I don't want to talk to you.}
+{172}{}{Jag vill inte prata med dig.}
 {173}{}{Go away.}
 {174}{}{Good work.}
 {175}{}{Too bad those people died under the city.}

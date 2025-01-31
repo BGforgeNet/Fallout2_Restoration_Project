@@ -62,7 +62,7 @@
 {161}{}{Hazlo a tu manera.}
 {162}{}{Cierto. Ha estado demasiado aburrido por aquí. Es hora de un poco de un uno-a-uno en el sótano. Vamos, Lenny, quiero verte matar a éste.}
 {163}{}{También yo tengo problemas que necesitan solución.}
-{164}{}{¿Como cuales?}
+{164}{}{¿Cómo qué?}
 {165}{}{¿Jet? ¿Estás proponiendo algo...?}
 {166}{}{Aquí mi amigo sabe cómo conseguirlo. ¿Te interesa?}
 {167}{}{¿Algo ilegal? No, no lo haría.}

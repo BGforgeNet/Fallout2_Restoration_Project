@@ -62,7 +62,7 @@
 {161}{}{Have it your way.}
 {162}{}{True. Been too dull around here. Time for a little one-on-one in the basement. Come on, Lenny, I want to watch you kill this}
 {163}{}{Like I've got problems that need solving.}
-{164}{}{Such as?}
+{164}{}{Så som?}
 {165}{}{Jet? Are you proposing something...?}
 {166}{}{My friend here knows how to make it. Interested?}
 {167}{}{Something illegal? No, I wouldn't do that.}

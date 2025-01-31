@@ -1,4 +1,4 @@
-1:Guerra.
+1:La guerra.
 2:La guerra nunca cambia.
 3:El fin del mundo ocurrió tal y como habíamos previsto.
 4:Demasiados humanos, sin suficientes recursos y espacio para todos.
@@ -25,7 +25,7 @@
 25:Viajó lejos hacia el norte, hasta que llegó a los grandes cañones.
 26:Allí fundó un pequeño poblado, Arroyo, donde vivió el resto de sus días.
 27:Desde entonces, la primera generación ha vivido en Arroyo en paz, aislada y resguardada por los cañones del resto del mundo.
-28:Un hogar. Tu hogar.
+28:Es el hogar. Tu hogar.
 29:Pero las heridas de la guerra aún no se han curado. Y la tierra no lo ha olvidado.
 30:Las heridas son profundas y ahora se sienten en Arroyo.
 31:La vida en Arroyo está a punto de cambiar…

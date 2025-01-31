@@ -24,7 +24,7 @@
 {123}{}{Oh, eres un simple, ¿verdad? Qué triste. Ha de ser un cruz difícil de soportar. Escucha: vete, y habla con Fee-lix. Él te dará trabajo. ¿Entiendes?}
 {124}{}{Uh-huh.}
 {125}{}{¿Qué crees? Sabes demasiado. ¿Qué pasa si vuelves a RNC y te venden, o te amenazan? Como mejor estás es muerto. Por otro lado, tengo una oferta mejor.}
-{126}{}{¿Como cuales?}
+{126}{}{¿Cómo qué?}
 {127}{}{No te creo.}
 {128}{}{Cárgate a Bishop. Te pagaré, lo que sea que recibirías más un 50%. ¿Qué me dices?}
 {129}{}{(need info from Chris)}

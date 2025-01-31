@@ -16,7 +16,7 @@
 {127}{}{If you didn't help us, Vault City would have destroyed us.}
 {128}{}{You're our hero.}
 {129}{}{Thanks again.}
-{130}{}{Thanks for your help.}
+{130}{}{Tack för din hjälp.}
 {131}{}{You're the best. Thanks.}
 {132}{}{Pretty good, for a smoothskin.}
 {140}{}{Hello there, my smoothskined friend.}
@@ -24,7 +24,7 @@
 {142}{}{Hello there, friend.}
 {143}{}{You're not like other smoothskins.}
 {144}{}{See anything interesting out in the wastes?}
-{145}{}{Hi there.}
+{145}{}{Hej på dig.}
 {146}{}{Howdy, friend.}
 {147}{}{Our atomic reactor makes me glow with pride.}
 {148}{}{We've harnessed the power of the atom here.}

@@ -54,7 +54,7 @@
 {144}{}{What does this caravan transport?}
 {145}{}{Okay, thanks. Goodbye.}
 {146}{}{Sorry, pal, we've already got enough throwbacks working in this caravan.}
-{147}{}{Oh, okay.}
+{147}{}{Åh, okej.}
 {148}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for
  gold ore.}
 {149}{}{That's interesting. You said you're looking for guards?}

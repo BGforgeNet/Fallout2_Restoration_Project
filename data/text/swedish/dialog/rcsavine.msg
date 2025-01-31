@@ -55,7 +55,7 @@
 {144}{}{What does this caravan transport?}
 {145}{}{OK, thanks. Goodbye.}
 {146}{}{Hey, pal, you've gotta know when to say no. And *I* do. So NO!}
-{147}{}{Oh, okay.}
+{147}{}{Åh, okej.}
 {148}{}{Well, we pick up mostly, uh, medical supplies - yeah, that's it - in New Reno, and trade it to
  Redding for gold ore.}
 {149}{}{That's interesting. You said you're looking for guards?}

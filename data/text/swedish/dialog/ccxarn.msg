@@ -79,7 +79,7 @@
 {153}{}{No want fight, want hear you story.}
 {154}{}{Me not want fight. Me here rescue you.}
 {155}{}{Nej. Jag gå.}
-{156}{}{Yes. Me ready.}
+{156}{}{Ja. Jag redo.}
 {157}{}{Jag vill egentligen inte slåss. Kan jag få höra din historia istället?}
 {158}{}{Jag är här för att rädda dig, inte för att slåss.}
 {159}{}{Nej, jag ska gå nu.}

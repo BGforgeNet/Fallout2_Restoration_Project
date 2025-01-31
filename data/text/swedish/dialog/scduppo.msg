@@ -14,7 +14,7 @@
 {113}{}{Well, sounds like you'll do. We're looking for guards for a brahmin drive up to Redding. Pay's $2000 minus any stock lost before you get there. If you're interested, be at the gate to Westin's place tomorrow. If you don't show, you don't go. Deal?}
 {114}{}{Me come.}
 {115}{}{No like. Me no do.}
-{116}{}{Sounds good.}
+{116}{}{Låter bra.}
 {117}{}{Nah, I don't want to go to Redding.}
 {118}{}{Well, then there's no work for you here. Countryside's a rough place. No place for weaklings, stranger. }
 {119}{}{Nåt annat?}

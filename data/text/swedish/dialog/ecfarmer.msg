@@ -1,5 +1,5 @@
 {100}{}{You see a lean, tan looking man.}
-{101}{}{You see a farmer.}
+{101}{}{Du ser en bonde.}
 {102}{}{You notice he has a farmer's tan.}
 {103}{}{You arrived just in the nick of time. If you hadn't gotten here when you did... Well, let's just
  be thankful that you came when you did. We don't have much, but I'd like you to accept this as a
@@ -39,5 +39,5 @@
 {135}{}{I'll be back.}
 {136}{}{Take my wife - please...}
 {200}{}{You see a lean, tanned woman.}
-{201}{}{You see a farmer.}
+{201}{}{Du ser en bonde.}
 {202}{}{You notice she has a farmer's tan.}

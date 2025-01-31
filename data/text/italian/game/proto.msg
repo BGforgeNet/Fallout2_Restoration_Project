@@ -27,7 +27,7 @@
 {254}{}{elettrico}
 {255}{}{emp}
 {256}{}{esplos.}
-{300}{}{Nessuna}
+{300}{}{Nessuno}
 {301}{}{Razzo}
 {302}{}{Gel per Lanciafiamme}
 {303}{}{Cella Energetica C}

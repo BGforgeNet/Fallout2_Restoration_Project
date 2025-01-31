@@ -270,7 +270,7 @@
 {25300}{}{un Membro della Squadra di Arruolamento}
 {25400}{}{un Mercenario}
 {25500}{}{un Mercenario}
-{25600}{}{un Nightkin}
+{25600}{}{Nightkin}
 {25700}{}{un Nightkin Tenace}
 {25800}{}{un Ghoul Tenace}
 {25900}{}{un Gangster}

@@ -25,7 +25,7 @@
 {124}{}{He oído que tu presidente tiene un trabajo que hacer.}
 {125}{}{La gente del Refugio 15 quiere hacer un trato.}
 {126}{}{}
-{127}{}{¿Como cuales?}
+{127}{}{¿Cómo qué?}
 {128}{}{Alguien la ha traicionado.}
 {129}{}{Nada que te concierna.}
 {130}{}{Qué bien. Esto no es un centro de contratación. ¿Por qué no lo intentas en el centro de la ciudad?}

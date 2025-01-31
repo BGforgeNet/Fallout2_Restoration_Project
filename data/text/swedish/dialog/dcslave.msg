@@ -115,7 +115,7 @@
 {522}{}{You'll pay for this.}
 {523}{}{Why are you even talking to me?}
 {524}{}{Leave me alone.}
-{525}{}{I don't want to talk to you.}
+{525}{}{Jag vill inte prata med dig.}
 {526}{}{How could you?!}
 {527}{}{I don't ever want to see you again.}
 {528}{}{This isn't going to change things.}

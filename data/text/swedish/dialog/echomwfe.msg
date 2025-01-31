@@ -1,5 +1,5 @@
 {100}{}{You see a lean, tan looking woman.}
-{101}{}{You see a farmer.}
+{101}{}{Du ser en bonde.}
 {102}{}{You notice she has a farmer's tan.}
 {200}{}{This is my house.}
 {201}{}{Damn bandits.}

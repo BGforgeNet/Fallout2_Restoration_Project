@@ -10,7 +10,7 @@
 {109}{}{Uh... me }
 {110}{}{Jag är }
 {111}{sgnt4}{Oh, lovely. They've sent me a mo-ron. Listen closely. You will stand guard at the hangar. This is your duty post. You will go there now and stay on guard until told otherwise. Now move it, soldier!}
-{112}{}{Me go.}
+{112}{}{Jag gå.}
 {113}{sgnt5}{What was that? Did you forget something, maggot?}
 {114}{}{My name is }
 {115}{sgnt6}{I am not a Sir. I work for a living, you mo-ron. You will call me Sergeant or Sergeant Dornan. Do you understand me! }

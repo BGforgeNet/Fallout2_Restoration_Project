@@ -15,7 +15,7 @@
 {114}{}{I'll be going now.}
 {115}{}{Hmm... I like you. No ear talk off. Stay, trade me and you.}
 {116}{}{K'}
-{117}{}{Me go.}
+{117}{}{Jag gå.}
 {118}{}{Nice talk. Go now. Tired am I.}
 {119}{}{[SLUT]}
 {120}{}{Talk give pain in head. Go.}

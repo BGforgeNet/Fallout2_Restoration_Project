@@ -198,7 +198,7 @@
 {295}{}{Ya veo. Tenías algunas preguntas más...}
 {296}{}{Hmmm. Interesante. Gracias por la información.}
 {297}{}{Nuestra Primer Ciudadano es Joanne Lynette. Ha hecho muchas cosas buenas por nuestra ciudad en sus diez años de servicio.}
-{298}{}{¿Como cuales?}
+{298}{}{¿Cómo qué?}
 {299}{}{Ha mantenido la ciudad libre de la contaminación del mundo exterior. Incluso con la RNC presionando para que nos unamos a la
  República y los ataques de saqueadores, ha mantenido fuerte a nuestra ciudad. Aunque ahora hay problemas con Gecko....}
 {300}{}{¿Qué es la RNC?}

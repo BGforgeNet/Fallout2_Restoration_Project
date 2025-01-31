@@ -212,7 +212,7 @@
 {311}{tand46}{Sei davvero un mercante nato. Bene, va' da Gunther. Si occupera' lui delle faccende pratiche.}
 {312}{}{Grazie.}
 {313}{tand47}{Ragazzi, portate questo ammasso di sputo di brahmin fuori dal mio ufficio! E' ora che tu te ne vada, straniero.}
-{314}{}{-Fatto-}
+{314}{}{Fatto}
 {315}{tand14b}{Mio padre e Seth hanno cercato per anni nel tentativo di trovare il Vault 13. Morirono cercando - dicevano sempre che era ad ovest di qui. Se qualcuno trovasse il Vault 13... ci sarebbe addirittura piu' utile del 15.}
 {316}{}{Devi parlarne con Gunther, il mio assistente.}
 {400}{}{'busivi volere accordo. Voi insegnare, voi aiutare, loro dare voi vault.}
