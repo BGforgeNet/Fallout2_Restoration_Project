@@ -1,39 +1,39 @@
-{100}{}{You see the bridge guard.}
-{101}{}{You see Mynoc, the bridge guard.}
-{150}{}{Before you stands a large warrior of your village,
- holding a spear.}
+{100}{}{Du ser brovakten.}
+{101}{}{Du ser Mynoc, brovakten.}
+{150}{}{Framför dig står en stor krigare från din by,
+ med ett spjut i handen.}
 {151}{}{[TALA]}
-{152}{}{Hello, Chosen One. Off to find the GECK?}
+{152}{}{Hej, Utvalde. På väg för att hitta GECK?}
 {153}{}{Ja.}
-{154}{}{Yes. But before I go, I would like to ask you some
- questions.}
-{155}{}{Not just yet. I'm going to look around a little
- bit more.}
-{156}{}{Well, may the gods watch over you.}
-{157}{}{Thank you, goodbye.}
-{158}{}{What do you want to know?}
-{159}{}{What can you tell me of the men who trade with our
- village?}
-{160}{}{What can you tell me about this object I have from
- a vault?}
-{161}{}{Nothing, never mind.}
+{154}{}{Ja. Men innan jag går skulle jag vilja ställa
+ några frågor till dig.}
+{155}{}{Inte riktigt än. Jag ska se mig omkring
+ lite mer.}
+{156}{}{Må gudarna vaka över dig.}
+{157}{}{Tack, hej då.}
+{158}{}{Vad vill du veta?}
+{159}{}{Vad kan du berätta om männen som handlar med våra
+ by?}
+{160}{}{Vad kan du berätta om det här föremålet jag har från
+ ett valv?}
+{161}{}{Inget, glöm det.}
 {162}{}{Very well, but don't waste too much time. Without the GECK,
  we're doomed.}
-{163}{}{I know, don't worry -- I've got it all under control.}
+{163}{}{Jag vet, oroa dig inte -- Jag har allt under kontroll.}
 {164}{}{Varför?}
-{165}{}{I must be going. Goodbye.}
-{166}{}{The traders? They come from Klamath about every two months. There
- won't be another here for a month or more, but Klamath's only a few days
- east of here.}
+{165}{}{Jag måste gå nu. Hej då.}
+{166}{}{Handlarna? De kommer från Klamath ungefär varannan månad. De
+ kommer inte förrän om en månad eller mer, men Klamath ligger bara några dagar
+ österut härifrån.}
 {167}{}{Tack. Hej då.}
-{168}{}{What can you tell me about this object I have from
- the sacred vault?}
-{169}{}{Looks like a metal water gourd. Maybe the
- vault sent it to us as an omen.}
-{170}{}{Can you tell me who brought this item to our village?}
-{171}{}{Thank you. I must be going. Goodbye.}
-{172}{}{I hope you do.}
-{173}{}{Your overconfidence makes all of us suffer! Goodbye!}
+{168}{}{Vad kan du berätta om det här föremålet jag har från
+ det heliga valvet?}
+{169}{}{Ser ut som en vattenkalebass gjord av metall. Kanske
+ valvet skickade den till oss som ett omen.}
+{170}{}{Kan du berätta vem som tog med sig det här föremålet till vår by?}
+{171}{}{Tack så mycket. Jag måste gå nu. Adjö.}
+{172}{}{Jag hoppas att du gör det.}
+{173}{}{Ditt överdrivna självförtroende får oss alla att lida! Adjö!}
 {174}{}{Farväl.}
 {175}{}{Why? Look around you -- our village dies. The gardens wither and
  every day children and old ones collapse. You must bring Eden to us before
@@ -44,7 +44,7 @@
 {178}{}{I don't remember his name, just that he was old and loud -- too
  loud for proper manners -- but he knew many things. He was from Klamath, east
  like I said.}
-{179}{}{Thank you, goodbye.}
+{179}{}{Tack, hej då.}
 {180}{}{Are you still here? You must go find the GECK. Staying here
  doesn't help us.}
 {181}{}{This bridge is all you need to worry about,

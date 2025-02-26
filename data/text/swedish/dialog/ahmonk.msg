@@ -9,7 +9,7 @@
 {302}{}{Have you ever heard of a device called a GECK?}
 {303}{}{Do you know where I could find Vault 13?}
 {304}{}{Hej då.}
-{400}{}{What do you want to know?}
+{400}{}{Vad vill du veta?}
 {401}{}{Okay. I'd like to know something else.}
 {402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}

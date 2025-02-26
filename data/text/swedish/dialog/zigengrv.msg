@@ -10,12 +10,12 @@
 {251}{}{The name on the headstone has been scratched out.}
 {252}{}{The name on the headstone reads John Doe.}
 {253}{}{The name and date on this headstone have been worn off by the weather.}
-{260}{}{There are no markings on this grave marker.}
+{260}{}{Det finns inget skrivet på denna gravmarkör.}
 {261}{}{The name on the grave marker has been scratched out.}
 {262}{}{The name on the grave marker reads John Doe.}
 {263}{}{The name and date on this headstone have been worn off by the weather.}
 {275}{}{The headstone reads: }
-{276}{}{The grave marker reads: }
+{276}{}{På gravmarkören står det: }
 {300}{}{"Here lies Chris Avellone, King of the Dance Floor."}
 {301}{}{"Chris Jones. Nightwing."}
 {302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': There are two and a half reasons to read this headstone... Normally you would expect those reasons to be listed."}
@@ -78,7 +78,7 @@
 {359}{}{"Here lies the body of Jonathan Blake stepped on the gas instead of the brake."}
 {360}{}{"Here lays Butch, we planted him raw. He was quick on the trigger, but slow on the draw."}
 {361}{}{"Sacred to the memory of my husband John Barnes who died January 3, 1803. His comely young widow, aged 23, has many qualifications of a good wife, and yearns to be comforted."}
-{362}{}{"Sir John Strange, here lies an honest lawyer, and that is Strange."}
+{362}{}{”Herr Johan Märklig, här ligger en ärlig advokat, och han är Märklig.”}
 {363}{}{"I was somebody. Who, is no business of yours."}
 {364}{}{"Here lies Lester Moore, four slugs from a .44, no less, no more."}
 {365}{}{"I told you I was sick!"}
@@ -109,7 +109,7 @@
 {516}{}{You do not find any traps on the grave.}
 {520}{}{ finds a trap on the grave.}
 {521}{}{ does not find any traps on the grave.}
-{525}{}{You skillfully disarm the trap.}
-{526}{}{You fail to disarm the trap.}
-{530}{}{ skillfully disarms the trap.}
+{525}{}{Du avväpnar skickligt fällan.}
+{526}{}{Du misslyckas med att desarmera fällan.}
+{530}{}{ avväpnar skickligt fällan.}
 {531}{}{ fail to disarm the trap.}

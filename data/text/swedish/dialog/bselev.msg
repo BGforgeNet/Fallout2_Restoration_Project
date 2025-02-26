@@ -126,15 +126,15 @@
 {163}{}{Du ser en gammal dörr med ett lås på.}
 {164}{}{Du ser en gammal dörr utan någon uppenbar låsanordning.}
 {165}{}{Du ser en gammal dörr med ett gammalt, rostigt lås.}
-{166}{}{You set off the trap and were hit for }
+{166}{}{Du utlöser fällan och skadades }
 {167}{}{ skadepoäng.}
-{168}{}{ sets off the trap and was hit for }
+{168}{}{ utlöser fällan och skadades }
 {169}{}{ skadepoäng.}
 {170}{}{Du dyrkar skickligt upp låset på dörren.}
-{171}{}{Your lack of skill has jammed the lock on this door.}
+{171}{}{Din oskicklighet har gjort låset på dörren obrukbart.}
 {172}{}{Du lyckas inte dyrka upp låset på den här dörren.}
 {173}{}{ dyrkar skickligt upp låset på dörren.}
-{174}{}{'s lack of skill has jammed the lock on this door.}
+{174}{}{s oskicklighet har gjort låset på dörren obrukbart.}
 {175}{}{ misslyckades med att dyrka upp låset på den här dörren.}
 {176}{}{Du slår bort låset från dörren.}
 {177}{}{While trying to bust the lock, you strain your back and
@@ -144,28 +144,28 @@
 {179}{}{ skadepoäng.}
 {180}{}{Du är för svag för att bryta upp låset.}
 {181}{}{ slår bort låset från dörren.}
-{182}{}{ strains his back while trying to bust the lock and takes
- a point of damage.}
-{183}{}{ strains his back while trying to bust the lock and takes }
+{182}{}{ sträcker ryggen när han försöker bryta upp låset och skadas
+ ett hälsopoäng.}
+{183}{}{ sträcker ryggen när han försöker bryta upp låset och skadas }
 {184}{}{ skadepoäng.}
 {185}{}{ är för svag för att bryta upp låset.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
-{187}{}{ strains her back while trying to bust the lock and takes }
+{186}{}{ sträcker ryggen när hon försöker bryta upp låset och skadas
+ ett hälsopoäng.}
+{187}{}{ sträcker ryggen när hon försöker bryta upp låset och skadas }
 {188}{}{ skadepoäng.}
-{189}{}{You deftly lock the door.}
-{190}{}{You fail to lock the door.}
-{191}{}{ deftly locks the door.}
-{192}{}{ failed to lock the door.}
+{189}{}{Du låser skickligt dörren.}
+{190}{}{Du misslyckas med att låsa dörren.}
+{191}{}{ låser skickligt dörren.}
+{192}{}{ misslyckades med att låsa dörren.}
 {193}{}{The explosives don't even put a scratch on the door.}
-{194}{}{You find a trap on the door.}
-{195}{}{You fail to find any traps on the door.}
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
-{199}{}{ finds a trap on the door.}
-{200}{}{ fails to find any traps on the door.}
-{201}{}{ skillfully disarms the trap.}
-{202}{}{ fails to disarm the trap.}
+{194}{}{Du hittar en fälla på dörren.}
+{195}{}{Du hittar inga fällor på dörren.}
+{196}{}{Du avväpnar skickligt fällan.}
+{198}{}{Du misslyckas med att desarmera fällan.}
+{199}{}{ hittar en fälla på dörren.}
+{200}{}{ hittar inga fällor på dörren.}
+{201}{}{ avväpnar skickligt fällan.}
+{202}{}{ misslyckas med att desarmera fällan.}
 {203}{}{The door appears to be locked. It looks like it takes some kind of thin card as a key.}
 {204}{}{You hear the crackling of electricity running through the door.}
 {205}{}{ notices the crackling of electricity running through the door.}
@@ -173,9 +173,9 @@
  the door is open.}
 {207}{}{ is unable to place a trap on this door because the
  door is open.}
-{208}{}{You skillfully set a trap in the door frame.}
+{208}{}{Du gillrar skickligt en fälla i dörrkarmen.}
 {209}{}{You fail to set the trap properly in the door frame.}
-{210}{}{ skillfully sets a trap in the door frame.}
+{210}{}{ gillrar skickligt en fälla i dörrkarmen.}
 {211}{}{ fails to set the trap properly in the door frame.}
 {300}{}{Du låser upp dörren.}
 {301}{}{Du låser dörren.}

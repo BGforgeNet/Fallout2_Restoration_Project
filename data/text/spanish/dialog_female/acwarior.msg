@@ -44,7 +44,7 @@
 {980}{}{No sé nada de eso.}
 {981}{}{Lo siento. Ni idea.}
 {982}{}{Nunca he oido hablar de ello.}
-{1000}{}{Elder}
+{1000}{}{Anciano}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

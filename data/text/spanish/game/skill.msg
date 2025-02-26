@@ -60,7 +60,7 @@
 {510}{}{\nskill_use: habilidad usada no válida.}
 {512}{}{No puedes curar a los muertos.}
 {513}{}{Deja que los muertos descansen en paz.}
-{514}{}{Está muerto, déjalo.}
+{514}{}{Déjalo, Esta muerto.}
 {520}{}{Te curas tu %s.}
 {521}{}{Te curas la %s.}
 {525}{}{No consigues curar tu %s.}

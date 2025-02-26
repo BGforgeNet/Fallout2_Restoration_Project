@@ -3,14 +3,14 @@
 {102}{}{Ves a Hakunin. Está a punto de morir.}
 {103}{}{Hakunin está gravemente quemado. Huele como a pollo asado, parece un pastel de carne quemado, y no sabes cómo ha sido capaz de sobrevivir hasta ahora.}
 {104}{hak001}{Saludos, Elegido. ¿Por qué la tierra ante mí se calienta con el roce de tu paso?}
-{105}{}{¿Eh? }
+{105}{}{Eh? }
 {106}{}{He venido a decirte adiós. Me marcho a mi sagrada búsqueda.}
 {107}{}{Me largo. Esperaba que por una vez hablaras como un ser humano.}
 {108}{}{Te metes demasiada droga. Me largo de aquí.}
 {109}{}{Estoy herido. ¿Puedes curarme?}
 {110}{}{Había algunas plantas bastante repugnantes infestando tu huerto. Me he ocupado de ellas.}
 {111}{hak001a}{Por favor, revela a estos nublados ojos el propósito de tu paso.}
-{112}{}{¿Eh? }
+{112}{}{Eh? }
 {113}{}{He venido a decirte adiós. Me marcho a mi sagrada búsqueda.}
 {114}{}{Me largo. Esperaba que por una vez hablaras como un ser humano.}
 {115}{}{Te metes demasiada droga. Me largo de aquí.}

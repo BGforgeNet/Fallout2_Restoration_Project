@@ -42,7 +42,7 @@
 {141}{}{Pez Espada.}
 {142}{}{De acuerdo. ¿Tú unidad?}
 {143}{}{Arroyo.}
-{144}{}{Nop.}
+{144}{}{Nope.}
 {145}{}{Eh... sí, estoy unido.}
 {146}{}{De la 42.}
 {147}{}{¿Eso se escribe con S o con C?}
@@ -80,7 +80,7 @@
 {179}{}{¡Que te den!}
 {180}{}{De acuerdo, J. ¿Unidad?}
 {181}{}{Arroyo.}
-{182}{}{Nop.}
+{182}{}{Nope.}
 {183}{}{Eh... sí, estoy unido.}
 {184}{}{De la 42.}
 {185}{}{¿Estás sordo? ¿Quién eres?}

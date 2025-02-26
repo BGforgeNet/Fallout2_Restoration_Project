@@ -63,7 +63,7 @@
 {162}{}{Me parece bien.}
 {163}{}{Olvídalo.}
 {164}{}{¿Reconsiderarás pasar nuestra prueba?}
-{165}{}{Nop.}
+{165}{}{Nope.}
 {166}{}{Oh, está bien. Lo haré.}
 {167}{}{¿Tribales perdidos? No he escuchado nada sobre eso. Tal vez el Emperador podría saber algo sobre ellos.}
 {168}{}{Tengo más preguntas.}

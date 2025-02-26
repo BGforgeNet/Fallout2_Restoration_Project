@@ -107,7 +107,7 @@
 {254}{}{Olvídalo. ¿puedo hacerte otra pregunta?}
 {255}{}{Vale, te la compro.}
 {256}{}{No importa. Adiós.}
-{257}{}{Refugio... Refugio... ¿Refugio 13? Nope, no lo he oído en la vida. ¡No me digas que han sacado una nueva droga! ¡Nada puede superar al Jet!}
+{257}{}{Refugio... Refugio... ¿Refugio 13? Nop, no lo he oído en la vida. ¡No me digas que han sacado una nueva droga! ¡Nada puede superar al Jet!}
 {258}{}{No, imbécil.}
 {259}{}{No, es un lugar. ¿Puedo hacerte otra pregunta?}
 {260}{}{Sí, una droga maravillosa.}

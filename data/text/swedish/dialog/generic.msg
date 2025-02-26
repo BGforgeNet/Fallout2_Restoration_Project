@@ -1,7 +1,7 @@
 {100}{}{You gain }
 {101}{}{ experience points.}
 {102}{}{You successfully disarm the trap.}
-{103}{}{You fail to disarm the trap.}
+{103}{}{Du misslyckas med att desarmera fällan.}
 {104}{}{You accidentally set off the trap.}
 {105}{}{ successfully disarms the trap.}
 {106}{}{ fail to disarms the trap.}

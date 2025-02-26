@@ -30,8 +30,8 @@
 {280}{}{Entrada}
 {281}{}{Fortaleza Nivel 1}
 {282}{}{Fortaleza Nivel 2}
-{283}{}{Cubas Nivel 1}
-{284}{}{Cubas Nivel 2}
+{283}{}{Vats Nivel 1}
+{284}{}{Vats Nivel 2}
 {290}{}{Crater}
 {291}{}{Nivel 1}
 {300}{}{Adytum}

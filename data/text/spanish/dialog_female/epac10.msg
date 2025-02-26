@@ -115,7 +115,7 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que
 {493}{}{Verás, mi gente me había elegido para intentar encontrar un refugio. Arriesgué mi vida en varias ocasiones
 para encontrar ese dichoso refugio y finalmente logré encontrarlo. Tengo curiosidad por lo que puedas saber sobre 
 esos sitios}
-{500}{}{Te diré algo, nena. Necesitas ayuda para encontrar esos refugios, y yo necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Así que, ¿qué me dices... socia?}
+{500}{}{Te diré algo, cariño. Tú necesitas ayuda para encontrar esos Vaults, y yo necesito a alguien que me muestre el camino, por así decirlo, en este mundo loco tuyo. Así que, ¿qué dices... socio?}
 {501}{}{Dice que tenemos un trato, compañero.}
 {502}{}{Bueno, tu conocimiento de los antiguos podría serme bastante útil... pero, ya sabes, está todo ese asunto del asesino psicótico...}
 {503}{}{No me veo con ganas de vagar por el desierto con un asesino psicótico. Así que vas por tu
@@ -124,9 +124,9 @@ esos sitios}
 {511}{}{Oye, tal y como te dije, puedo explicarlo. Estas malas vibraciones que percibes de mí son el resultado de los científicos que
  experimentaron conmigo.}
 {512}{}{Pero eso no tiene ningún sentido. ¿Qué te hicieron?}
-{513}{}{A la mierda. Creo que es hora de que te calle para siempre.}
+{513}{}{Mierda. Creo que es hora de que te calle para siempre.}
 {514}{}{Pero no tiene sentido, porque ellos mentirían acerca de ti?}
-{515}{}{La única mierda que hay por aquí es la que sale de tu boca, y creo que es hora de que te calle para siempre.}
+{515}{}{La única mierda que hay por aquí es la que escupes de tu boca, y creo que es hora de que te calle para siempre.}
 {520}{}{Oye, sé que no parece tener mucho sentido, pero ¿has echado un vistazo por este lugar? No hay muchas cosas que tengan sentido por aquí. Quién sabe lo que pasa en las jodidas mentes de estos científicos.}
 {521}{}{Hmm... en eso tienes razón. No digo que te crea... pero supongo que al menos puedo escuchar lo que tengas que decir.}
 {522}{}{Sí, no es broma. Continuar...}
@@ -218,7 +218,7 @@ profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
 {801}{}{Eh, oye...}
 {810}{}{[Gira la cabeza hacia ti y se pone de pie de un salto. Te mira atentamente, luego mira a su alrededor como un animal
  arrinconado. Cuando sus ojos vuelven a centrarse en ti, se suavizan y se relaja conforme sus recuerdos vuelven a él. Rápidamente
- altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] Hola muñeca, sé que soy todo un espectáculo para la vista,
+ altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] Hola muñeco, sé que soy todo un espectáculo para la vista,
  pero hace un poco de frío aquí. ¿Te importa si me visto?}
 {811}{}{Supongo que no hay daño-}
 {812}{}{Bueno, yo-}
@@ -237,7 +237,7 @@ profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
  das cuenta de que Dex va sigilosamente a por un cuchillo oculto. Rápidamente agarras sus genitales.]}
 {832}{}{Toca ese cuchillo, y te convertiré en el Duque Sin Pene. Además, ¿por qué arruinar algo bueno? Los dos podríamos
  divertirnos mucho juntos.}
-{833}{}{Yo... creo que estoy enamorado. [Dex se ha unido al grupo.]}
+{833}{}{Yo... creo que enamoré. [Dex se ha unido al grupo.]}
 {840}{}{Whoa, whoa, whoa. Retrocede un segundo, cariño. ¿Acabas de decir ciento cincuenta años? [Sacude la cabeza con incredulidad.]
   Eso no es jodidamente creíble. [Mira su reflejo.] Pero tienes que admitir que me veo muy bien para mi edad. [Él te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología anterior a la guerra que te parece extraño en todos sus
   simetría blanca nacarada.]}
@@ -250,18 +250,18 @@ profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
 {845}{}{Eh, no eres mi tipo. De todos modos, ¿por qué estabas congelado allí?}
 {846}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
 {850}{}{Bueno por lo general no ven ese lado de mi hasta que es demasiado tarde. Pero de todos modos... [Dex echa otro vistazo a la habitación y silba]
- Este lugar se ha ido a la mierda. ¿Qué me he perdido?}
+ Este lugar se ha ido a la mierda. ¿De que me perdí?}
 {851}{}{Han pasado más de ciento cincuenta años desde que el Gran Silencio puso fin a los Antiguos... * tu * gente.}
 {855}{}{Gran silencio? ¿Los viejos? ¿Qué tal si me ahorras esta mierda críptica y me cuentas qué pasó?}
 {856}{}{El Gran Silencio es lo que mi gente llama el fin de tu mundo. Cuando las grandes llamas llovieron del cielo y chamuscaron la tierra.
  Te darás cuenta de que el mundo no se parece en nada al que conocías.}
 {860}{}{No jodas, así que al final lanzaron las bombas, ¿eh? Supongo que el proyecto de los refugios no fue un gran desperdicio del dinero de los contribuyentes, después de todo.}
 {861}{}{Espera. ¿Sabes de los Refugios?}
-{870}{}{¿Qué si los conozco? Demonios, maté a mi primera prostituta no muy lejos de donde estaban construyendo el refugio de Chicago. Esos eran buenos
- tiempos... [Se detiene y te mira con una sonrisa.] Te lo has tragado, ¿verdad?}
+{870}{}{¿Qué si los conozco? Demonios, maté a mi primera prostituta no muy lejos de donde estaban construyendo el refugio de Chicago.
+ Esos eran buenos tiempos... [Se detiene y te mira con una sonrisa.] Te lo has tragado, ¿verdad?}
 {871}{}{¡DIME MAS ACERCA DE LAS BÓVEDAS!}
-{872}{}{Bueno, se supone que estoy intentando encontrar un Refugio para mi tribu. Cuando lo haga, espero encontrar un G.E.C.K. y
- usar su poder para salvar a mi moribunda aldea. Cualquier cosa que puedas contarme sobre los Refugios haría mi trabajo muchísimo más fácil.}
+{872}{}{Bueno, supongo que estoy intentando encontrar un Refugio para mi tribu. Cuando lo haga, espero encontrar un G.E.C.K. y
+ usar su poder para salvar a mi moribunda aldea. Cualquier cosa que puedas contarme sobre los Refugios haría mi trabajo mucho más  fácil.}
 {873}{}{Bueno, veras, mi gente me había elegido para tratar de encontrar el refugio. Arriesgué mi vida en varias ocasiones para
   encontrar ese maldito Refugio Sagrado y finalmente tuve éxito en encontrarlo. Tengo curiosidad por saber qué más puedes saber de estos lugares.}
 {880}{}{Te diré algo, nena. Necesitas ayuda para encontrar estos refugios, y necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Entonces, ¿qué dices ... compañero?}

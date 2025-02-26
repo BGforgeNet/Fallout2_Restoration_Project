@@ -20,12 +20,12 @@
 {119}{}{[Fin]}
 {120}{}{Bueno, he malgastado la saliva. }
 {121}{}{Sí.}
-{122}{}{Nop.}
+{122}{}{Nope.}
 {123}{}{Eh, eres tú otra vez. Tengo nueva mercancía... ¿te interesa?}
 {124}{}{Claro, a ver que tienes.}
 {125}{}{Ni de broma, Willy.}
 {126}{}{Sí.}
-{127}{}{Nop.}
+{127}{}{Nope.}
 {128}{}{¡Lárgate! Estoy ocupado.}
 {129}{}{Vuelve cuando tengas dinero.}
 {130}{}{¡VETE!}

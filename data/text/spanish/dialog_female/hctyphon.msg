@@ -70,7 +70,7 @@
 {168}{}{Nuh-uh.}
 {169}{}{Pues sí. Aquí la tienes. [Le das la revista a Typhon]}
 {170}{}{Aún no. Tenía otras preguntas.}
-{171}{}{Nop.}
+{171}{}{Nope.}
 {172}{}{¡Bueno, pues date prisa! Soy un viejo necrófago y, cómo quieres que te lo diga, necesito relajarme! ¡Ahora vete, vete, vete!}
 {173}{}{[HECHO]}
 {174}{}{Muchacho, esa revista ha revitalizado la sangre de mis venas, y supongo que por la clase de tesoro que estamos hablando, puedes conseguirme un par más de cosillas. Tráeme una muñeca hinchable. Seguramente encuentres alguna en Nuevo Reno.}

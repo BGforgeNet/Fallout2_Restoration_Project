@@ -216,7 +216,7 @@
 {315}{}{No me preguntes. No lo sé. }
 {316}{}{Sí.}
 {317}{}{Eso es.}
-{318}{}{Nop.}
+{318}{}{Nope.}
 {319}{}{¿Por qué me estás hablando así?}
 {320}{}{No es muy agradable.}
 {321}{}{Gracias. }

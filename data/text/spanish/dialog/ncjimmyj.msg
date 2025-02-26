@@ -136,7 +136,8 @@ Así que mi amigo piloto... ¿qué puede hacer Jeta Jimmy J por ti hoy?}
 {501}{}{Bien, solía obtenerla del amigo Myron, antes de que se volviera demasiado engreído y dejase el negocio… ¿no es cierto, Myron? ¡Ja!
  Ahora paso en su mayor parte mierda de Mordino.}
 {502}{}{Interesante. Tenía algunas preguntas más...}
-{510}{}{YO tengo contactos con el CREADOR, mi amigo piloto. Consigo mi Jet directamente del cerebrito, el dios viviente de los compuestos químicos, MYRON.}
+{510}{}{YO tengo contactos con el CREADOR, mi amigo piloto. Consigo mi Jet directamente del cerebrito, el dios viviente de los compuestos 
+ químicos, MYRON.}
 {511}{}{¿Myron?}
 {512}{}{Interesante. Decir, que yo tenía algunas otras preguntas...}
 {513}{}{Myron, ¿eh? ¿Dónde puede encontrar a este… dios viviente?}

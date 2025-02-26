@@ -120,7 +120,7 @@
 {219}{}{Gecko? It's a filthy shantytown to the north, inhabited by those creatures, those... "ghouls." They're responsible for poisoning our groundwater, you know! It's an obvious act of terrorism against Vault City!}
 {220}{}{How are they poisoning the water?}
 {221}{}{Hmmm. Can I ask you some other questions?}
-{222}{}{Thank you, goodbye.}
+{222}{}{Tack, hej då.}
 {223}{}{Their shantytown is built around the remains of an old atomic power plant... a plant they SOMEHOW started up again and that is now leaking radiation! Those creatures need to be driven out and that plant shut down!}
 {224}{}{Hmmm. Can I ask you some other questions?}
 {225}{}{Thanks for the information. Goodbye.}

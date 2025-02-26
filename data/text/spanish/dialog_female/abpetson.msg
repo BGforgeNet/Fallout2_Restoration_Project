@@ -33,15 +33,27 @@ yo estábamos preparándonos para irnos a la cama cuando escuchamos un crujido e
 si podia encontrar la fuente del ruido. Tan pronto como llegué a los campos, los ruidos se habían detenido.}
 {603}{}{Continúa.}
 {604}{}{Mira, realmente debo irme.}
-{605}{}{Bueno, la noche siguiente no escuchamos nada. Pero la noche después de eso, escuchamos crujidos provenientes del campo de nuevo. Esta vez me arrastré hasta la ventana y miré en vez de salir corriendo. Mirando en la oscuridad, vi una luz tenue, como de una linterna vieja o algo así, moviéndose entre los cultivos. Después de un par de minutos, la luz se movió hacia el cementerio.}
-{606}{}{Yo quería salir y enfrentarme a quien sea o lo que fuera, pero mi esposa me convenció para que permaneciera adentro y revisara las cosas en la mañana. Así que a la mañana siguiente, veo que se han comido algunos de mis cultivos y huellas frescas alrededor. Ahora, no me importa alimentar a los pobres, pero no me agradan los ladrones.}
-{607}{}{Trataré de atrapar a este individuo. Quizás espere alrededor de la medianoche y veré si puedo encontrar algo. Bueno, gracias por la información. Cuídese.}
+{605}{}{Bueno, la siguiente noche no escuchamos nada. Pero la noche después de esa, volvimos a escuchar ruidos provenientes del campo. 
+ Esta vez me acerqué sigilosamente a la ventana y miré hacia afuera en lugar de correr hacia fuera. Mirando hacia la oscuridad, 
+ vi una luz tenue, como la de una antigua linterna o algo así, moviéndose entre los cultivos. Después de un par de minutos, 
+ la luz se dirigió hacia el cementerio.}
+{606}{}{Yo quería salir y enfrentarme a quien sea o lo que fuera, pero mi esposa me convenció para que permaneciera adentro y revisara 
+ las cosas en la mañana. Así que a la mañana siguiente, veo que se han comido algunos de mis cultivos y huellas frescas alrededor. 
+ Ahora, no me importa alimentar a los pobres, pero no me agradan los ladrones.}
+{607}{}{Trataré de atrapar a este individuo. Quizás espere alrededor de la medianoche y veré si puedo encontrar algo. 
+ Bueno, gracias por la información. Cuídese.}
 {608}{}{Veré lo que puedo hacer. Tengo algunas preguntas más antes de irme...}
 {609}{}{Esta historia se está haciendo un poco demasiado largo. Adiós.}
-{610}{}{Déjeme entenderlo. Estarías feliz de ayudar a alguien que acecha en su casa por la noche, roba sus cultivos, y trata de robar a sus muertos? He conocido a muchos locos en mi época, pero es posible que te lleves el pastel. Es una maravilla que hallas sobrevivido tanto tiempo.}
+{610}{}{Déjeme entenderlo. Estarías feliz de ayudar a alguien que acecha en su casa por la noche, roba sus cultivos, 
+y trata de robar a sus muertos? He conocido a muchos locos en mi época, pero es posible que te lleves el pastel. 
+ Es una maravilla que hallas sobrevivido tanto tiempo.}
 {611}{}{[Él entorna los ojos, pero se las arregla para mantener la compostura.] Así es como hacemos las cosas aquí en la Abadía. Si amabilidad es tan ofensivo para ti, entonces te sugiero que te vayas de mi casa. No voy a sentarme aquí y dejar a una tribal errante me insulte frente a mi esposa.}
 {612}{}{Vale, vale, ya me voy.}
 {613}{}{OK tipo duro, ahora esta "tribal errante" te va a matar frente a tu esposa. Entonces tal vez la mate también. Demonios, tal vez mate a todos en este patético maldito lugar. ¿Pensabas que podías esconderte del horror del Yermo? Bueno, ¿sabes qué, mi ingenuo amigo? Horror te ha encontrado, y su nombre es }
-{700}{}{Lárgate de hache ya.}
+{700}{}{Vete al diablo aquí,}
 {710}{}{Qué bueno verte de nuevo. Tom ha sido de gran ayuda por aquí. Gracias de nuevo por ordenar todo eso. Ahora, ¿qué puedo hacer por ti?}
-{6061}{}{Después de eso, le pregunté al Hermano Samuel si algo había sucedido en el cementerio. Fue entonces cuando me dijo que alguien había comenzado a desenterrar algunas de las tumbas. Aparentemente, quien sea que haga esto no es lo suficientemente fuerte como para cavar en una noche. Supongo que es un viejo mendigo que espera desenterrar un tesoro. Si alguna vez descubres quién está haciendo esto, diles que se detengan. No hay necesidad de robar aquí en la Abadía y estaría feliz de ayudar a esta persona de cualquier manera que pueda.}
+{6061}{}{Después de eso, le pregunté al hermano Samuel si había pasado algo en el cementerio. Fue entonces cuando me dijo que alguien había comenzado a desenterrar algunas de las tumbas. 
+ Al parecer, quienquiera que esté haciendo esto no es lo suficientemente fuerte como para cavar en una sola noche. 
+ Supongo que es algún viejo mendigo que espera desenterrar algún tesoro. 
+ Si alguna vez descubres quién está haciendo esto, por favor dile que se detenga. 
+ No hay necesidad de robo aquí en la Abadía y estaré encantado de ayudar a esta persona en cualquier forma que pueda.}

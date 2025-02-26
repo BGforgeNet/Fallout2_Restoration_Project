@@ -19,7 +19,7 @@
 {114}{}{Inget. Vinkis.}
 {115}{}{Jag har några frågor till dig.}
 {116}{}{Inget för tillfället, tack.}
-{117}{}{What do you want to know?}
+{117}{}{Vad vill du veta?}
 {118}{}{Jobbar 'u för Darion?}
 {119}{}{Vad gör ni åt plundrare?}
 {120}{}{Var valvdörr?}

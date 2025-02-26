@@ -39,7 +39,9 @@
 {290}{}{¿No has oído hablar de la Familia Wright? Debes haber estado en el desierto mucho tiempo. La Familia Wright
  es la mayor familia criminal de Reno. Vamos a gobernar esta ciudad.}
 {291}{}{¿En serio? Suena como si la Familia Wright tuviese todos los ases en la mano. ¿Contratáis a alguien?}
-{292}{}{En realidad, tengo la impresión de que eran una de las familias más débiles... quiero decir, ellos sólo tratan con alcohol, no tienen casino o comercio de drogas, y sus números son mucho menores que otras familias.}
+{292}{}{En realidad, tengo la impresión de que eran una de las familias más débiles... quiero decir,
+ ellos sólo tratan con alcohol, no tienen casino o comercio de drogas, y sus números...
+ son mucho menores que otras familias.}
 {293}{}{Hablando de familia, me encontré con tu madre.}
 {294}{}{¿Puedes contarme qué le pasó a tu hermano Richard?}
 {295}{}{¿En serio? Qué interesante... oye, verás, tengo que irme.}

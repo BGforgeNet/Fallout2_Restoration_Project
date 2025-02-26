@@ -110,7 +110,7 @@
 {352}{}{Más.}
 {353}{}{Desconexión.}
 {360}{}{Estaciones PoseidoNet activas: Central nuclear #5, Refinería Navarro, Estación de control ENCLAVE, Control ENCLAVE de investigación de Refugios… acceso denegado.}
-{361}{}{Las luces están encendidas pero no hay nadie en casa.}
+{361}{}{Hay luz, pero no hay nadie en casa. }
 {362}{}{Todo está apagado excepto el control ENCLAVE de investigación de Refugios. Me pregunto qué es.}
 {363}{}{Hmm, parece que todo está desactivado o cerrado. Oh, en fin.}
 {370}{}{Accediendo… Acceso a estación Enclave denegado.}
@@ -121,7 +121,7 @@
 {375}{}{Se acabó. Ya he tenido bastante de esta constante insistencia. Si lo intentas sólo una vez más, vas a lamentarlo.}
 {376}{}{No digas que no te lo advertí. (Mientras estás leyendo esto sientes una oleada de electricidad procedente del teclado castigando tus dedos).}
 {377}{}{¿Quizá debería intentarlo de nuevo?}
-{378}{}{Ya es demasiado. Será mejor que consiga que esa unidad RR&MR funcione. }
+{378}{}{Es suficiente. Será mejor que consiga que esa unidad RR&MR funcione.}
 {379}{}{Maldición, he debido de haber perdido la comunicación.}
 {380}{}{Regulador hidroeléctrico magnetosférico requerido antes de poder comenzar secuencia de reparación.}
 {381}{}{Iniciar mantenimiento de refrigerante.}
@@ -136,10 +136,10 @@
 {411}{}{Los circuitos lógicos fallan. Me pregunto qué significa.}
 {412}{}{Parece que hay más cosas funcionando que no. A ver qué conseguimos aquí.}
 {420}{}{Reconocimiento de localización de tareas no operativo. Unidad incapaz de movimiento a localizaciones reconocidas en distancias extensas. Recomendación: Mover unidad a localizaciones intermedias como puntos de control hasta la localización de tarea definitiva.}
-{421}{}{Me pregunto qué ocurrirá si no introduzco las tareas en el orden correcto.}
+{421}{}{Me pregunto ¿qué ocurrirá si no introduzco las tareas en el orden correcto?}
 {422}{}{Creo que ya he leído suficientes avisos. Estoy lista para usar esta cosa ahora.}
 {430}{}{Unidad regresa a su bahía si el programa de mando contiene erores de terminal.}
-{431}{}{Oh, bueno; eso lo explica. Me pregunto qué pasa con el fallo del Circuito Lógico.}
+{431}{}{Bueno, eso lo explica todo. Sin embargo, ¿que es lo que falla del Circuito Lógico?}
 {432}{}{Estoy lista para usar esta cosa ahora.}
 {440}{}{Dirección manual: La unidad RR&MR debe dirigirse manualmente a su destino objetivo. La unidad seguirá las órdenes de mando dadas, pero si su camino está bloqueado o la unidad recibe excesivos daños volverá automáticamente a su bahía.}
 {441}{}{¿Dónde tengo que mover el robot? Déjame mirar los procedimientos.}

@@ -25,7 +25,7 @@
 {124}{}{}
 {125}{}{}
 {126}{}{Okej.}
-{127}{}{What do you want to know?}
+{127}{}{Vad vill du veta?}
 {128}{}{You prisoner?}
 {129}{}{D'claws treat you ok?}
 {130}{}{Want leave?}

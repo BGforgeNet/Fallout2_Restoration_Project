@@ -20,7 +20,7 @@
 {1101}{}{Una típica rata grande.}
 {1200}{}{Mantis}
 {1201}{}{Una Mantis mutante.}
-{1300}{}{Elder}
+{1300}{}{Anciano}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Planta de esporas}

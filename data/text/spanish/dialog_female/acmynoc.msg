@@ -156,7 +156,7 @@
 {660}{}{[Mynoc asiente sombríamente.] Es posible que se haya desviado del camino, pero una vez fue un gran guerrero respetado. Espero que su alma problematica haya encontrado la paz en el otro mundo.}
 {661}{}{De verdad. Hasta otra, Mynoc.}
 {662}{}{Lo que sea. Parecía como un capullo a mí. Nos vemos, Mynoc.}
-{1000}{}{Elder}
+{1000}{}{Anciano}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

@@ -206,7 +206,7 @@
 {1080}{}{Puedo degustar la radiación en el aire.}
 {1090}{}{¿Qué se supone que es esto, un campo de trabajo?}
 {1100}{}{Dentro de lo tienen mucho mejor que los que están fuera. El mundo no ha cambiado tanto.}
-{1110}{}{¿Qué clase de pueblo minero llamas a esto?}
+{1110}{}{¿Qué clase de pueblo minero le llamas a esto?}
 {1120}{}{No es mi tipo de lugar para nacer en el, sin ofender a nadie.}
 {1130}{}{Buen lugar para esconderse si la ley está en su cola.}
 {1140}{}{Me pregunto si hay más bunkers como este por aquí.}

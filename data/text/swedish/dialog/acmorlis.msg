@@ -52,4 +52,4 @@
 {302}{}{Jag kan inte hitta flintan. Jag är säker på att du tog den från mig när jag inte tittade. Jag har fångat dig förut. Iväg med dig nu! Jag har inte tid att skvallra.}
 {303}{}{Jaha... Åh, jag är ledsen, men jag verkar ha tappat bort flintan. Jag önskar dig en säker resa, mitt barn. }
 {304}{}{Jag har redan gett dig flintan, dumbom. Sluta slösa bort min tid och stick härifrån!}
-{305}{}{I already gave you the flint, stupid. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
+{305}{}{Jag har redan gett dig flintan, din idiot. Jag fick i alla fall mitt pulver. Iväg med dig nu! Jag har inte tid för skvaller.}

@@ -73,7 +73,7 @@
 {221}{}{¿Te gusto?}
 {222}{}{¿Estás casada?}
 {223}{}{Uno, dos, tres - ¡siii!}
-{1000}{}{Elder}
+{1000}{}{Anciano}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

@@ -1036,7 +1036,7 @@
 {1136}{}{Soldado}
 {1137}{}{Soldado}
 {1138}{}{Embalaje}
-{1139}{}{Señor Manitas}
+{1139}{}{Señor Mañoso}
 {1140}{}{Guardia de Salvatore}
 {1141}{}{Spacial Script}
 {1142}{}{Puerta}
@@ -1467,7 +1467,7 @@
 {1567}{}{Vertibird}
 {1568}{}{equipo}
 {1569}{}{espacial}
-{1570}{}{Señor Manitas}
+{1570}{}{Señor Mañoso}
 {1571}{}{Nuke}
 {1572}{}{Pozo}
 {1573}{}{Pozo}

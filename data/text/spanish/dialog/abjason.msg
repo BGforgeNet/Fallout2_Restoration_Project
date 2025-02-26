@@ -14,7 +14,7 @@
 {222}{}{Demonios sí, me encanta Tragic el Catering.}
 {223}{}{Lo he intentado, pero no es para mí.}
 {224}{}{Solía ser adicto al infierno para ese juego. Intento alejarme de eso ahora.}
-{225}{}{Nop.}
+{225}{}{Nope.}
 {226}{}{Diablos no ¿Te veo como un perdedor patético?}
 {230}{}{Oye, jódete, gilipollas. Déjame en paz.}
 {231}{}{Oye, jódete, puta. Déjame en paz.}

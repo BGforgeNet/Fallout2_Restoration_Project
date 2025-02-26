@@ -157,7 +157,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {243}{}{Hmmmm. How much for the Citizenship papers again?}
 {244}{}{If I have to pry it from his dead fingers, I will.}
 {245}{}{How do you become a real Citizen?}
-{246}{}{Nothing, never mind.}
+{246}{}{Inget, glöm det.}
 {247}{}{No, thanks. Maybe some other time.}
 {248}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of
  Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}

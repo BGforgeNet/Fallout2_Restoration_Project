@@ -90,8 +90,8 @@
 {330}{}{[Krom irrumpe en la carcajada.] Los dioses no, chica! A pesar de que podría hacer maravillas para mi guerrero de moral, me gustaría
  odio a compartir la miel tan dulce como usted. No, No tengo mucho más mundana tarea para usted, si usted está dispuesto.}
 {331}{}{De que depende. ¿Qué necesita usted que yo haga?}
-{340}{}{[Te hecha un vistazo, parece considerar algo por un momento.] Pronto me reuniré con uno de esos malditos
- comerciantes civilizados-- un gordiflón con pinta de perro tuerto, en quien confío tanto como en un escorpión hambriento. No nos ha agraviado aún,
+{340}{}{[Te hecha un vistazo, parece considerar algo por un momento.] Pronto me reuniré con uno de esos malditos comerciantes civilizados
+ un gordiflón con pinta de perro tuerto, en quien confío tanto como en un escorpión hambriento. No nos ha agraviado aún,
  pero tengo un presentimiento acerca de nuestro próximo encuentro.}
 {341}{}{¿Y eso por qué?}
 {342}{}{No veo cómo encajo en esto. ¿Cuál es tu punto?}

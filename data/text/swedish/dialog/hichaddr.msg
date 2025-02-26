@@ -7,4 +7,4 @@
 {105}{}{You are about to get to work lockpicking when you notice a small little trigger mechanism in the locking system.
  If triggered, you never would have been able to lockpick the door. You skillfully remove it and then in a matter of
  seconds you have the rest of the door lockpicked.}
-{106}{}{That doesn't even put a scratch on the door.}
+{106}{}{Det där sätter inte ens en skråma på dörren.}

@@ -17,7 +17,7 @@
  kopieringsrummet i källaren. Men du förstår, mitt vänstra knä har krånglat på sistone, och det är en riktig smärta för mig att gå upp och ner
  alla dessa trappor. Skulle det besvära dig alltför mycket att ge honom den här delen åt mig?}
 {601}{}{Visst.}
-{602}{}{Sorry, I don't have time for this. Bye.}
+{602}{}{Ledsen, jag har inte tid med det här. Hej då.}
 {603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}
 {604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew
  in the chapel area.}

@@ -81,7 +81,7 @@
 {179}{}{Don't get too far away.}
 {180}{}{We should spread out a bit.}
 {181}{}{C'mon, Cassidy. Time to head out.}
-{182}{}{Nothing, never mind.}
+{182}{}{Inget, glöm det.}
 {261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
 {262}{Cas0262}{What's on your mind?}
 {263}{}{Why do you want to cap Myron?}

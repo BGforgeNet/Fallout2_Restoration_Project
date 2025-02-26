@@ -46,7 +46,7 @@
 {136}{}{I need to think about this.}
 {137}{}{All right, Rebecca. I'll try to help you.}
 {138}{}{If I help you, what's in it for me?}
-{139}{}{What do you want to know?}
+{139}{}{Vad vill du veta?}
 {140}{}{What go on here?}
 {141}{}{Who boss?}
 {142}{}{Me try find Vault 13. You know where is?}

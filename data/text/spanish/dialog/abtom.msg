@@ -2,13 +2,13 @@
 {101}{}{El decrépito anciano apesta a sudor y posiblemente a orina. Está vestido con harapos, trapos andrajosos, y lleva una pala.}
 {102}{}{Ves a Tom.}
 {200}{}{[El anciano se sobresalta de sorpresa cuando te ve acercarse.] Uh, mira, realmente debo ir...}
-{201}{}{Ahora espera un minuto. [Agarras al hombre del brazo cuando comienza a alejarse.] ¿Quién eres? ¿Qué estas haciendo aquí a esta hora?}
-{202}{}{¿Qué? ¿Por qué, uh... el nombre es Tom y un anciano no puede disfrutar de un paseo nocturno sin que le hagan un montón de preguntas?}
+{201}{}{Espera un minuto. [Agarras al hombre del brazo cuando comienza a alejarse.] ¿Quién eres? ¿Qué estas haciendo aquí a esta hora?}
+{202}{}{¿Qué? ¿Por que, Eh?, uh... Me llamo Tom, ¿que un anciano no puede disfrutar de un paseo nocturno sin que le hagan un montón de preguntas?}
 {203}{}{No cuando se desliza como un ladrón y lleva una pala.}
 {204}{}{Muy bien, pero ¿por qué llevas una pala?}
 {205}{}{Lo que sea, me largo de aquí.}
 {206}{}{No importa. Lamento molestarte.}
-{207}{}{¿Te refieres a esto viejo? [Él mira hacia abajo a la pala oxidada en sus manos.] Bueno, nunca se sabe cuándo podría encontrar algo que necesite desenterrar. Siempre esté preparado, digo.}
+{207}{}{¿Te refieres a esta vieja cosa? [Mira hacia abajo la pala oxidada que sostiene en sus manos.] Bueno, nunca se sabe cuándo podría encontrar algo que necesite ser desenterrado. Siempre hay que estar preparado, digo yo.}
 {208}{}{Encontrar algo, eh? Que decir, como algo en una tumba?}
 {209}{}{Eso es un buen lema, de verdad. Bien, ten cuidado.}
 {210}{}{(Los ojos de Tom se ensanchan) No estoy muy seguro de lo que quieres decir.}
@@ -35,9 +35,9 @@
 {222}{}{Cuídate entonces, Tom. Lo consultaré más tarde y veré cómo van las cosas.}
 {223}{}{Espero que Peterson sea tan amable como dices que es.}
 {300}{}{Ves a Tom. Lleva ropa nueva de trabajador y silba alegremente.}
-{301}{}{¡Oye aqui! Wow, tenías razón. Que el Sr. Peterson es un tipo amable. Me perdonó por lo que hice e incluso me ofreció un trabajo de ayudante en el campo. Él dice que una vez que pague la comida que he tomado, entonces comenzaré a tener un salario semanal. Gracias de nuevo por la molestia.}
+{301}{}{¡Oye aqui! Wow, tenías razón. El Sr. Peterson es un tipo amable. Me perdonó por lo que hice e incluso me ofreció un trabajo de ayudante en el campo. Él dice que una vez que pague la comida que he tomado, entonces comenzaré a tener un salario semanal. Gracias de nuevo no debiste molestarte.}
 {302}{}{De nada, Tom. Cuídate.}
-{303}{}{Bien, yo ... Oh, espera un segundo. Quiero darte algo por ayudar a un viejo como yo. Encontré este encendedor en un chico que desenterré hace un par de semanas. No tengo uso para eso y espero que tu si puedas.}
+{303}{}{Bien, yo ... Oh, espera un segundo. Quiero darte algo por ayudar a un viejo como yo. Encontré este encendedor de un chico que desenterré hace un par de semanas. No lo usaré para nada, espero que tu si puedas.}
 {304}{}{Gracias, Tom. Estoy seguro de que esto será muy útil. Nos vemos.}
 {305}{}{(El viejo asiente y vuelve a lo que estoy haciendo).}
 {306}{}{[FIN]}
