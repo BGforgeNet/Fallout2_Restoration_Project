@@ -50,16 +50,19 @@ end
         create_object(WALL_BLOCKING_HEX,self_tile,self_elevation)
 
 procedure map_update_p_proc begin
-   if sierra_security_on then begin
-       if ((self_elevation == 0) and (map_var(MVAR_Security_Level_1) == 1))
-       or ((self_elevation == 1) and (map_var(MVAR_Security_Level_2) == 1))
-       or ( (self_elevation == 2)
-          and (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) or (map_var(MVAR_Security_Level_3) == 1) )
-       or ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1))
-       then begin
+    // If Robobrain is in party, he disables the alert almost immediately.
+    // Party check prevents guard bots from walking out in the "almost" time.
+    if sierra_security_on and not Robobrain_In_Party then begin
+        if ((self_elevation == 0) and (map_var(MVAR_Security_Level_1) == 1))
+        or ((self_elevation == 1) and (map_var(MVAR_Security_Level_2) == 1))
+        or ( (self_elevation == 2)
+            and (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) or (map_var(MVAR_Security_Level_3) == 1)
+        )
+        or ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1))
+        then begin
            release_bots;
-       end
-   end else begin
-       contain_bots;
-   end
+        end
+    end else begin
+        contain_bots;
+    end
 end
