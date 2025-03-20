@@ -1,43 +1,43 @@
-{100}{}{You see a Tough Guard.}
-{101}{}{You see an impressively muscled, but aging guard with sun burnt skin. He must have been quite something in his
- prime. His piercing gaze seems to follow you everywhere.}
-{200}{}{Hi there, traveler. Welcome to the Abbey. Keep your nose clean and we'll get along just fine.}
-{201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
- I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
- warped brain of yours.}
+{100}{}{Du ser en Tuff Vakt.}
+{101}{}{Du ser en imponerande muskulös, men åldrande vakt med hud bränd av solen. Han måste ha varit något alldeles extra under sina
+ bästa dagar. Hans genomträngande blick verkar följa dig överallt.}
+{200}{}{Hej på dig, resenär. Välkommen till Klostret. Håll dig på mattan så kommer vi att komma bra överens.}
+{201}{}{Jag håller koll på dig, slavhandlare. Ett felsteg och du kommer att besudla vår kyrkogård för resten av evigheten.
+ Jag skulle inte önska dig det, och jag är ganska säker på att du inte skulle njuta av det heller, så få inga roliga idéer i din
+ snedvridna hjärna.}
 {202}{}{Vem är du?}
-{203}{}{Where can I barter for some supplies?}
-{204}{}{Somebody is digging up graves, why don't you do anything about it?}
-{205}{}{I heard something about animals in the basement. Know anything about that?}
-{206}{}{I think it's time I send you to a grave. Let's dance, old man.}
-{207}{}{Nevermind. Goodbye.}
-{300}{}{Nobody... Just an old retired caravan guard. A lot of people mistake me for some sort of sheriff because I'm
- the closest thing resembling the law in these parts, but I'm not. I just look out for this community because I think
- it's worth protecting.}
+{203}{}{Var kan jag byta till mig lite förnödenheter?}
+{204}{}{Någon gräver upp gravar, varför gör ni inget åt det?}
+{205}{}{Jag hörde nåt om djur i källaren. Vet du något om det?}
+{206}{}{Jag tror det är dags att jag skickar dig till en grav. Dags att dansa, gamle gubbe.}
+{207}{}{Bry dig inte om det. Adjö.}
+{300}{}{Ingen... Bara en gammal pensionerad karavanvakt. Många människor misstar mig för någon slags sheriff eftersom jag får
+ folk att följa lagen häromkring, men det är jag inte. Jag tar bara hand om det här samhället eftersom jag tycker
+ att det är värt att skydda.}
 {301}{}{And in return the community looks out for me. I get some complimentary booze from the monks, Peterson makes
  sure I'm fed and Bill makes sure I've got ammo and stims. Not a bad retirement gig, if you ask me.}
-{302}{}{I'm the one keeping you in line, and that's all you need to know. Now get on with your business and leave me
- alone.}
-{303}{}{That is a nice arrangement. Let me ask you something else.}
-{304}{}{Whatever, goodbye.}
-{305}{}{You think you can keep me in line? Let's see you try it, old man. This should be fun.}
+{302}{}{Det är jag som håller ordning på dig, och det är allt du behöver veta. Fortsätt nu med dina affärer och lämna mig
+ ensam.}
+{303}{}{Det är ett trevligt arrangemang. Låt mig fråga dig något annat.}
+{304}{}{Visst, adjö.}
+{305}{}{Tror du att du kan håller koll på mig? Låt oss se dig försöka, gamle man. Det här ska bli kul.}
 {400}{}{You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go
  to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City.}
-{401}{}{Good to know. I have another question.}
-{402}{}{Thanks, bye.}
-{500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can
- use what they're buried with anyway. Not my problem... I'm not losing any sleep over it.}
-{501}{}{Let me ask you something else.}
+{401}{}{Bra att veta. Jag har en annan fråga.}
+{402}{}{Tack, hej då.}
+{500}{}{Om någon är fattig eller girig nog att försöka gräva upp gravar, så är det deras ensak. Det är inte som att de döda kan
+ använda det de är begravda med ändå. Inte mitt problem... Jag ligger inte sömnlös på grund av det.}
+{501}{}{Låt mig fråga dig något annat.}
 {502}{}{Hej då.}
-{600}{}{Yes, and Brother Thomas is missing. He was a smart man, but a bit foolhardy. I don't know what's down there,
- but I don't think it's just a bunch of rats and radscorpies.}
-{601}{}{Yes, and Brother Thomas is missing. I don't know what's down there, but I don't think it's just a bunch of rats
- and radscorpies. Why don't you find out, tough guy?}
-{602}{}{So why don't you go look?}
+{600}{}{Ja, och broder Thomas saknas. Han var en smart man, men lite dumdristig. Jag vet inte vad som finns där nere,
+ men jag tror inte att det bara är en massa råttor och radioaktiva skorpisar.}
+{601}{}{Ja, och broder Thomas saknas. Jag vet inte vad som finns där nere, men jag tror inte att det bara är ett gäng råttor
+ och radioaktiva skorpisar. Varför tar du inte reda på det, tuffing?}
+{602}{}{Så varför går du inte och kollar?}
 {603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
-{610}{}{It's a bit embarrassing, but after spending so much time outdoors with the caravans, I get very nervous when I
- go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to
- Brother Thomas?}
+{610}{}{Det är lite pinsamt, men efter att ha tillbringat så mycket tid utomhus med karavanerna blir jag väldigt nervös när jag
+ går under jorden. Väggarna bara sluter sig om mig och jag får svårt att andas... Du kanske kan ta reda på vad som hände med
+ Broder Thomas?}
 {611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
 {612}{}{Hej då.}
 {613}{}{I am a tough guy, which is why I'm gonna kick your ass.}

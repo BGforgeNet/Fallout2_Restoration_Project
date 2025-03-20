@@ -24,7 +24,7 @@
 {123}{}{It's nice to finally put faces to the names.}
 {124}{}{Who cares if YOU endorse it? Shouldn't I make my own choices?}
 {125}{}{I see. Well, I have more questions for you.}
-{126}{}{Thanks, bye.}
+{126}{}{Tack, hej då.}
 {127}{}{Her: Oh, yes, you should definitely make your own choices. Him: And with the Hub's latest book, you can learn how to make the RIGHT choice!}
 {128}{}{His latest book? Isn't he dead?}
 {129}{}{The "right" choice. Sure. What about free will?}

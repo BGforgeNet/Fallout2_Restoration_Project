@@ -5,15 +5,15 @@
 {150}{}{The grave site has been covered.}
 {151}{}{The grave site has been uncovered.}
 {200}{}{You see a headstone.}
-{201}{}{You see a grave marker.}
+{201}{}{Du ser en gravmarkör.}
 {250}{}{There are no markings on this headstone.}
 {251}{}{The name on the headstone has been scratched out.}
 {252}{}{The name on the headstone reads John Doe.}
-{253}{}{The name and date on this headstone have been worn off by the weather.}
+{253}{}{Namnet och datumet på denna gravsten har slitits bort av väder och vind.}
 {260}{}{Det finns inget skrivet på denna gravmarkör.}
 {261}{}{The name on the grave marker has been scratched out.}
-{262}{}{The name on the grave marker reads John Doe.}
-{263}{}{The name and date on this headstone have been worn off by the weather.}
+{262}{}{Namnet på gravstenen lyder Ola Okänd.}
+{263}{}{Namnet och datumet på denna gravsten har slitits bort av väder och vind.}
 {275}{}{The headstone reads: }
 {276}{}{På gravmarkören står det: }
 {300}{}{"Here lies Chris Avellone, King of the Dance Floor."}
@@ -74,7 +74,7 @@
 {355}{}{"Here lies Ezekial Aikle, age 102. The good die young."}
 {356}{}{"Here lies Ann Mann, who lived an old maid but died an old Mann. Dec. 8, 1767"}
 {357}{}{"The children of Israel wanted bread and the Lord sent them manna, old clerk Wallace wanted a wife, and the Devil sent him Anna."}
-{358}{}{"Here lies Johnny Yeast. Pardon me for not rising."}
+{358}{}{"Här ligger Jonny Jäst. Välkänd för sin jästfrihet."}
 {359}{}{"Here lies the body of Jonathan Blake stepped on the gas instead of the brake."}
 {360}{}{"Here lays Butch, we planted him raw. He was quick on the trigger, but slow on the draw."}
 {361}{}{"Sacred to the memory of my husband John Barnes who died January 3, 1803. His comely young widow, aged 23, has many qualifications of a good wife, and yearns to be comforted."}

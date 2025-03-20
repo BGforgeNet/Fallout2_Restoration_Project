@@ -30,7 +30,7 @@
 {154}{}{I guess that's all I need to know. Goodbye.}
 {160}{}{W'well, I h'help H'harold mostly. Wh'when people get hurt, I h'help them out.}
 {161}{}{Help Harold do what?}
-{162}{}{Let me ask you something else.}
+{162}{}{Låt mig fråga dig något annat.}
 {163}{}{You can heal people?}
 {164}{}{I'm wounded. Can you help me?}
 {165}{}{One of my friends is hurt. Can you help them?}

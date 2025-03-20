@@ -9,7 +9,7 @@
 {108}{}{Is there anything else that needs to be done around here?}
 {109}{}{Det är inte viktigt. Hej då.}
 {110}{}{The Holy GECK... [He takes a long hit off his pipe.] There is a creature that we sometimes hunt -- sometimes, it hunts us. A gecko. No, I sense that's not what you seek. I'm afraid your Holy GECK is beyond my ken.}
-{111}{}{Let me ask you something else.}
+{111}{}{Låt mig fråga dig något annat.}
 {112}{}{That's all I need to know. Bye.}
 {120}{}{Sulik? [He nods.] One of our best men. Equally skilled at the art of the hunt, and the art of communing with bonespirits. He left us to find his sister, Kurisu, who never returned from a nearby tribe. Tell me, child, where is Sulik now?}
 {121}{}{Oh, he's right here. Hey, Sulik, come on in here...}

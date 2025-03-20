@@ -66,4 +66,4 @@
  information, you could bring it to me? I'd be most grateful. Of course, it'd have to be our secret.}
 {4220}{}{I don't think I want to contribute to your plant obsession. Sorry.}
 {4221}{}{Oh, well then. Fine, forget I asked.}
-{4222}{}{Let me ask you something else.}
+{4222}{}{Låt mig fråga dig något annat.}

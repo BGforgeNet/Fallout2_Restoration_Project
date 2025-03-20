@@ -57,7 +57,7 @@
 {220}{slk7}{Vic the traitor, more like. Comes to village, says he knows about slavers, tell us
  to come see him. We go, he ain't there.}
 {221}{}{Your sister was taken by slavers?}
-{222}{}{Let me ask you something else.}
+{222}{}{Låt mig fråga dig något annat.}
 {223}{}{I guess that's all I need to know for now. Goodbye.}
 {230}{slk8}{We and I thank you. Name's Sulik. How can we repay?}
 {231}{}{Eh.}
@@ -238,7 +238,7 @@
 {769}{}{Would you like to come with me? We might be able to find your sister in the course of my travels.}
 {770}{}{I don't think I need to know anything else right now.}
 {771}{slk45}{The tribe's home is next to Great Salt Water. Two moons from here, fren.}
-{772}{}{Let me ask you something else.}
+{772}{}{Låt mig fråga dig något annat.}
 {773}{}{Two moons? That's a long ways. How did you travel so far safely?}
 {774}{}{That's all I need for now. Goodbye.}
 {775}{slk46}{Geckos. The little dudes don't bite hard. It's the Goldens. They go through your leg like an

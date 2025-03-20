@@ -7,28 +7,28 @@
 {106}{}{I have no tolerance for the simple.}
 {107}{}{Most of the rabble are just working to get enough Jet. They need something to take their minds
  off this place.}
-{108}{}{Let me ask you something else.}
+{108}{}{Låt mig fråga dig något annat.}
 {109}{}{Jet? What's Jet?}
 {110}{}{I see. Goodbye.}
 {111}{}{Jet does have its uses. It tends to make one care somewhat less about the surrounding squalor.}
-{112}{}{Let me ask you something else.}
+{112}{}{Låt mig fråga dig något annat.}
 {113}{}{Jet? What's Jet?}
 {114}{}{I see. Goodbye.}
 {115}{}{Jet is so expensive lately. It's just criminal. Speaking of which... I hear that our cherished
  Mayor Ascorti is working to get us more Jet. Always a champion of the masses, that man is.}
-{116}{}{Let me ask you something else.}
+{116}{}{Låt mig fråga dig något annat.}
 {117}{}{Mayor Asctorti? Who is that exactly?}
 {118}{}{Jet? What's Jet?}
 {119}{}{I see. Goodbye.}
 {120}{}{Seems like everyone's sick. That last batch of Jet had everyone swearing off the stuff. My
  guess is that they'll be back on Jet soon enough, though.}
-{121}{}{Let me ask you something else.}
+{121}{}{Låt mig fråga dig något annat.}
 {122}{}{Jet? What's Jet?}
 {123}{}{I see. Goodbye.}
 {124}{}{Looks like I was wrong. Most of the people who were real Jet pilots have sworn off the stuff.
  After that last bad batch, most of us can't so much as smell the stuff without getting sick to our
  stomachs.}
-{125}{}{Let me ask you something else.}
+{125}{}{Låt mig fråga dig något annat.}
 {126}{}{Jet? What's Jet?}
 {127}{}{I see. Goodbye.}
 {128}{}{I am... Madame Modjeska. What do you wish of me?}
@@ -57,7 +57,7 @@
 {149}{}{I used to work in the Malamute Saloon. As part of that job, people called me Madame. The name
  just stuck, even though I don't work there any more.}
 {150}{}{Where do you work now?}
-{151}{}{Let me ask you something else.}
+{151}{}{Låt mig fråga dig något annat.}
 {152}{}{I think that's all I need to know. Goodbye.}
 {153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
  batch. I 'm not eager to try that again. Oh well, back to the bottle, I suppose.}
@@ -145,14 +145,14 @@
 {212}{}{Let me ask you about something else.}
 {213}{}{I think I've listened to you long enough. Goodbye.}
 {214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
-{215}{}{Let me ask you something else.}
+{215}{}{Låt mig fråga dig något annat.}
 {216}{}{Interesting. Thanks and goodbye.}
 {217}{}{Jet's a drug that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
-{218}{}{Let me ask you something else.}
+{218}{}{Låt mig fråga dig något annat.}
 {219}{}{Interesting. Thanks, and goodbye.}
 {220}{}{Mmmm, I'll tell you what Jet is. It's delicious, that's what it is. Jet has something for
  everybody.}
-{221}{}{Let me ask you something else.}
+{221}{}{Låt mig fråga dig något annat.}
 {222}{}{Interesting. Thanks, and goodbye.}
 {223}{}{Jet used to be the thing. Now it's turning my guts around and around like a worn-out washing
  machine. I wouldn't recommend any of the current batch. This Jet has run out of fuel and crashed,
@@ -162,7 +162,7 @@
 {226}{}{Something was desperately wrong with the last batch of Jet that went through town. It crashed
  and burned on take-off. I think I'm through flying. Now, drinking - there's something that you can
  depend on.}
-{227}{}{Let me ask you something else.}
+{227}{}{Låt mig fråga dig något annat.}
 {228}{}{Interesting. Thanks, and goodbye.}
 {229}{}{Painless Doc Johnson's sort of a mystery man. I don't know where he came from, but he's a real
  M.D., all right. Only place he'd get training like that is Vault City. I'm betting he's been planted

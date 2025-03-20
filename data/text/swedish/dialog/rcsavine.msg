@@ -47,7 +47,7 @@
 {138}{}{Hey, I'm putting together a shipment of some delicate stuff. Stuff that takes time. Can't rush
  quality, ya' know. Should be ready to go on the 21st. Come back then if you still want a job.}
 {139}{}{What do you usually transport?}
-{140}{}{Let me ask you something else.}
+{140}{}{Låt mig fråga dig något annat.}
 {141}{}{Thanks, I'll do that. Goodbye.}
 {142}{}{We're usually looking for caravan guards, but I ain't ready to go just yet. I'll be ready to
  head out on the 21st. Come back then if you want a job.}
@@ -59,7 +59,7 @@
 {148}{}{Well, we pick up mostly, uh, medical supplies - yeah, that's it - in New Reno, and trade it to
  Redding for gold ore.}
 {149}{}{That's interesting. You said you're looking for guards?}
-{150}{}{Let me ask you something else.}
+{150}{}{Låt mig fråga dig något annat.}
 {151}{}{Oh, okay. Goodbye.}
 {152}{}{You came along at a good time. We're ready to go right now. The job pays $1500, but I'm only paying
  you for the job since I only need one more guard. Ready to join us?}

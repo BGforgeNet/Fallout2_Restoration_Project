@@ -157,7 +157,7 @@
  Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and a flower]}
 {491}{}{Tack!}
 {500}{}{No problem. I was just holding them for you. Well, I better get back to work.}
-{501}{}{Thanks, bye.}
+{501}{}{Tack, hej då.}
 {510}{}{Didn't you hear! He's dead! Oh, I know I shouldn't be happy, but he was a very
  evil man.}
 {511}{}{He sure put up a good fight.}

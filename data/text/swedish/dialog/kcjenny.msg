@@ -55,7 +55,7 @@
 {330}{}{The Den is a hive of scum and villainy southeast of here. I guess about a week or so? Don't
  remember too clearly. Anyhow, it's an exciting place. Dangerous, but exciting. Sorry to leave there,
  in a way.}
-{331}{}{Let me ask you something else.}
+{331}{}{Låt mig fråga dig något annat.}
 {332}{}{I think I'll leave now, thanks.}
 {340}{}{I don't rightly know where Vic is. I know he has a house just down the street from us, to the
  east. He could be out trading with tribals or even in the Den, for all I know. I hope he's okay. He was

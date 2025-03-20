@@ -1,2 +1,2 @@
-{100}{}{You see a grave marker.}
-{101}{}{Here lies the great Per: Author, walkthrough creator, rock hoarder. Alas, he died one rock too short.}
+{100}{}{Du ser en gravmarkör.}
+{101}{}{Här ligger den store Per: Författare, walkthrough-skapare, stensamlare. Tyvärr dog han en sten för kort.}

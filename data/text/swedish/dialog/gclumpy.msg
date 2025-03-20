@@ -35,7 +35,7 @@
 {164}{}{Oh, sorry. I didn't mean to barge in. Goodbye.}
 {170}{}{I guard the brahmin or help Skeeter in his workshop.}
 {171}{}{Who's Skeeter?}
-{172}{}{Let me ask you something else.}
+{172}{}{Låt mig fråga dig något annat.}
 {173}{}{I think that's all I need to know for now. Goodbye, Lumpy.}
 {180}{}{Well, it's sort of a joke. You see, they usually call people like you and me smoothskins. But I
  was treated so poorly by other Smoothskins down in Vault City that everyone here figured that I must

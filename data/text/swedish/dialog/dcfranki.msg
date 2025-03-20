@@ -65,7 +65,7 @@
 {210}{}{Then here's the $500. Thanks.}
 {211}{}{Nice doing business with you.}
 {212}{}{You know, Frankie, she's just going to build another one.}
-{213}{}{Thanks, bye.}
+{213}{}{Tack, hej då.}
 {214}{}{Damn! Well, in the mean time she'll have no booze.}
 {215}{}{Why fight her, Frankie? Join her.}
 {216}{}{Think. Where else can you get liquor?}

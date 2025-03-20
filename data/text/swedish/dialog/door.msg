@@ -174,9 +174,9 @@
 {207}{}{ kan inte placera en fälla på den här dörren, eftersom
  dörren är öppen.}
 {208}{}{Du gillrar skickligt en fälla i dörrkarmen.}
-{209}{}{You fail to properly set the trap in the door frame.}
+{209}{}{Du misslyckas med att sätta fällan i dörrkarmen på rätt sätt.}
 {210}{}{ gillrar skickligt en fälla i dörrkarmen.}
-{211}{}{ fails to properly set the trap in the door frame.}
+{211}{}{ misslyckas med att sätta fällan i dörrkarmen på rätt sätt.}
 {300}{}{Du låser upp dörren.}
 {301}{}{Du låser dörren.}
 {302}{}{Du kan inte låsa den här dörren medan den är öppen.}

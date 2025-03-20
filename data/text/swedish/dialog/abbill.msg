@@ -44,12 +44,12 @@ något annat.}
 {303}{}{Vid närmare eftertanke måste jag gå.}
 {304}{}{Jag får en ny leverans av varor två gånger i månaden. Ärligt talat önskar jag att de skulle komma oftare, men vi är bara på en
  mindre handelsväg så jag antar att det här är det bästa vi kan få.}
-{305}{}{I'm not quite sure. Usually, the ones that stop by here are pretty well equipped and not really interested in
- hanging around very long. But if you're looking to hook up with one of em, I'd head over to Redding or even down to NCR.
- They've got pretty active caravans and good help is always wanted.}
-{306}{}{Interesting. I was curious about something else.}
-{307}{}{Thanks. Let's barter.}
-{308}{}{Well, thanks for the information. See you around.}
-{400}{}{Found everything you need?}
-{401}{}{Actually, I'd like to take another look at your goods.}
+{305}{}{Jag är inte helt säker. Vanligtvis är de som kommer förbi här ganska välutrustade och inte särskilt intresserade av
+ att stanna kvar särskilt länge. Men om du vill ha kontakt med en av dem, skulle jag dra till Redding eller till och med ner till NKR.
+ De har ganska aktiva karavaner och bra hjälp önskas alltid.}
+{306}{}{Intressant. Jag var nyfiken på något annat.}
+{307}{}{Tack. Låt oss köpslå.}
+{308}{}{Nåväl, tack för informationen. Vi ses i framtiden.}
+{400}{}{Hittade du allt du behöver?}
+{401}{}{Egentligen skulle jag vilja ta en titt till på dina varor.}
 {402}{}{Ja, det gjorde jag. Vi ses.}

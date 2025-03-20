@@ -57,6 +57,6 @@
 {901}{}{Vattenpumpen har reparerats.}
 {910}{}{(Torkar svetten från pannan.) Ja, behöver du något?}
 {911}{}{Abboten sa att du kanske behövde lite hjälp. Vad verkar vara problemet?}
-{912}{}{Nevermind. Goodbye.}
+{912}{}{Bry dig inte om det. Adjö.}
 {913}{}{Jag tog en titt på vattenpumpen och det verkar som om motorn är helt paj. Anslutningarna är körda, så vi
  måste få tag på en ny motor, samt några kablar för att återansluta allt eftersom de gamla kablarna är stekta.}

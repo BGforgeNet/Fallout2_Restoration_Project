@@ -24,7 +24,7 @@
 {251}{}{So, what do you want this time?}
 {252}{}{Metzger sent me.}
 {253}{}{I'm here to inspect the church.}
-{254}{}{Nevermind. Goodbye.}
+{254}{}{Bry dig inte om det. Adjö.}
 {255}{}{Jag }
 {256}{}{Aruwa?}
 {260}{}{What the hell for? His stuff's not going anywhere.}

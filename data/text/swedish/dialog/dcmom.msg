@@ -111,12 +111,12 @@
  a little gold locket he kept for himself.}
 {561}{}{Do you remember his name?}
 {562}{}{Locket? Strange. Who was it?}
-{563}{}{Let me ask you something else.}
-{564}{}{Thanks, bye.}
+{563}{}{Låt mig fråga dig något annat.}
+{564}{}{Tack, hej då.}
 {580}{}{Not sure. Think it was Joseph, Joel or something like that. He's almost 19
  now.... A shame, really. I believe he's joined up with some local thugs.}
 {581}{}{Thanks. I have another question for you.}
-{582}{}{Thanks, bye.}
+{582}{}{Tack, hej då.}
 {600}{}{What do you know about that haunted house?}
 {800}{}{I noticed there seems to be a lot of orphans around town.}
 {801}{}{It's a shame, isn't it? Those poor children living on the streets like that... A lot of them steal to get by -- from

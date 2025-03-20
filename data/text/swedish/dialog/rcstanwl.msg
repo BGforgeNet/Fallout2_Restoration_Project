@@ -48,7 +48,7 @@
 {138}{}{We need to get the brahmin in from the outlying settlements before we can get going. We'll be
  ready to move early on the 11th. Stop back on then if you want a job.}
 {139}{}{What did you say you usually transport?}
-{140}{}{Let me ask you something else.}
+{140}{}{Låt mig fråga dig något annat.}
 {141}{}{Thanks, I'll do that. Goodbye}
 {142}{}{We're usually looking for caravan guards but, like I said, we won't be ready to go until the 11th
  of the month. If you still want a job with us, come back then.}
@@ -60,7 +60,7 @@
 {148}{}{We trade NCR's best brahmin for gold ore in Redding. Straight and simple - just the way I like
  things.}
 {149}{}{Gotcha. You said you're looking for guards?}
-{150}{}{Let me ask you something else.}
+{150}{}{Låt mig fråga dig något annat.}
 {151}{}{Oh, okay. Goodbye.}
 {152}{}{You came along at a good time. We're ready to go right now. The job pays $2000, but I'm only
  paying you for the job since I only need one more guard. Ready to join us?}

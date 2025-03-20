@@ -7,29 +7,29 @@
 {106}{}{You're 'bout as smart as bait.}
 {107}{}{I've used shovels with more brains 'an you.}
 {108}{}{Same old thing, mostly. All of us miners working jist enough to get our next flight on Jet.}
-{109}{}{Let me ask you something else.}
+{109}{}{Låt mig fråga dig något annat.}
 {110}{}{Jet? What's Jet?}
 {111}{}{I see. Goodbye.}
 {112}{}{Well, most of us are workin' our asses off to get enough Jet. Damn price's going up all the
  time now. Hate the way I feel when I'm not flyin' Jet.}
-{113}{}{Let me ask you something else.}
+{113}{}{Låt mig fråga dig något annat.}
 {114}{}{Jet? What's Jet?}
 {115}{}{I see. Goodbye.}
 {116}{}{Cain't hardly work enough to get the Jet I need to feel good. Mebbe' we can work somethin' out
  with New Reno, direct like. I heard that Ascorti might be workin' on that.}
-{117}{}{Let me ask you something else.}
+{117}{}{Låt mig fråga dig något annat.}
 {118}{}{Asctorti? Who's that?}
 {119}{}{Jet? What's Jet?}
 {120}{}{I see. Goodbye.}
 {121}{}{I don't feel so good lately, and it seems like I ain't alone, neither. I tried to fly more Jet
  but it shore don't seem to help none. I think it's jist makin' me feel worse than ever. I feel lower'n a snake's belly-jist like most of the miners.}
-{122}{}{Let me ask you something else.}
+{122}{}{Låt mig fråga dig något annat.}
 {123}{}{Jet? What's Jet?}
 {124}{}{I see. Goodbye.}
 {125}{}{I don't know what happened, but most everyone gave up on Jet after that last batch. I felt like
  we were going to fly Jet to that big airport in the sky. Nobody has much interest in takin' it no more.
  Jist the idea makes us sick.}
-{126}{}{Let me ask you something else.}
+{126}{}{Låt mig fråga dig något annat.}
 {127}{}{Jet? What's Jet?}
 {128}{}{I see. Goodbye.}
 {129}{}{Howdy. My name's Athabaska Dick. Mostly people just call me Dick. 'Course, there's some what
@@ -145,15 +145,15 @@
 {206}{}{Oh, okay. Well, go on with the rest of your story, then.}
 {207}{}{I think I've listened to you long enough. Goodbye.}
 {208}{}{Jet is jist a little somethin' from New Reno. I jist take enough to smooth out the rough edges.}
-{209}{}{Let me ask you something else.}
+{209}{}{Låt mig fråga dig något annat.}
 {210}{}{Interesting. Thanks and goodbye.}
 {211}{}{Jet's the way to go, man. If I'm not flying Jet, I just don't feel right no more. You've gotta
  get yourself some.}
-{212}{}{Let me ask you something else.}
+{212}{}{Låt mig fråga dig något annat.}
 {213}{}{Interesting. Thanks and goodbye.}
 {214}{}{I cain't make it without taking some Jet. Everyone's flyin' it lately. Gotta have it jist to get
  by. Heck, I don't feel so good with it as I feel shitty without it.}
-{215}{}{Let me ask you something else.}
+{215}{}{Låt mig fråga dig något annat.}
 {216}{}{Interesting. Thanks and goodbye.}
 {217}{}{The Jet's bad, man. Everyone who's using got all sick like they're gonna die. I think I better...
 (bends over and dry heaves a bit)...sorry. Say pardner, can we talk about something else?}
@@ -162,5 +162,5 @@
 {220}{}{I don't never want to hear about that god-damn Jet again. That stuff'll kill ya. Damn-sight
  worse'n Radscorp venom. I cain't believe that I ever liked that stuff. That last time... I
  thought I was a goner.}
-{221}{}{Let me ask you something else.}
+{221}{}{Låt mig fråga dig något annat.}
 {222}{}{Interesting. Thanks and goodbye.}

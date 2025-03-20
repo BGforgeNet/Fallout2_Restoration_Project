@@ -123,7 +123,7 @@
 {381}{}{That's a mighty fine trade. You should be able to jist plug that sucker in and git your car
  a'workin'. You know I could do you another favor by fixin' up some of yur stuff for free, too.}
 {382}{}{Really? For free, huh? What do I need to do for you?}
-{383}{}{Let me ask you something else.}
+{383}{}{Låt mig fråga dig något annat.}
 {384}{}{I'm going to go try that right away. Goodbye.}
 {390}{}{Well, ya see, I need a darn 3-Step Plasma Transformer. An the only place I can figger to git one
  is from the supply room.}

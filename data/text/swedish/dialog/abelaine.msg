@@ -18,18 +18,18 @@
  alla dessa trappor. Skulle det besvära dig alltför mycket att ge honom den här delen åt mig?}
 {601}{}{Visst.}
 {602}{}{Ledsen, jag har inte tid med det här. Hej då.}
-{603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}
-{604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew
- in the chapel area.}
-{605}{}{Not a problem. [You take the part.] I'll bring it down to Max right away.}
+{603}{}{Ser jag ut som din personliga leveransservice? Gör det själv, din feta, lata subba. Hej då.}
+{604}{}{Tack! Här har du delen. Kopieringsrummet ligger i källaren. Använd bara trappan direkt bakom broder Matthew
+ i kapellområdet.}
+{605}{}{Inga problem. [Du tar delen.] Jag tar ner den till Max på en gång.}
 {700}{}{Jag }
-{701}{}{. Who you?}
-{710}{}{Hehe. That pretty name.}
+{701}{}{. Vem du?}
+{710}{}{Hehe. Det fint namn.}
 {711}{}{Hej då!}
-{720}{}{You're a special little guy aren't you? Could you do me a BIG favor and be my special helper today?}
-{721}{}{You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?}
-{722}{}{Me special. Me help.}
-{723}{}{Me no wanna help.}
-{730}{}{Really? Great! Please give this machine part to Max in the copying room. He can be found in the BASEMENT. Okay?}
-{731}{}{I no let you down!}
+{720}{}{Du är en speciell liten kille, eller hur? Kan du göra mig en STOR tjänst och vara min speciella hjälpreda idag?}
+{721}{}{Du är en speciell liten tjej, eller hur? Kan du göra mig en STOR tjänst och vara min speciella hjälpreda idag?}
+{722}{}{Jag speciell. Jag hjälpa.}
+{723}{}{Jag inte vill hjälpa.}
+{730}{}{Verkligen? Jättebra! Ge den här maskindelen till Max i kopieringsrummet. Han kan hittas i KÄLLAREN. Okej?}
+{731}{}{Jag inte svika dig!}
 {740}{}{You keep on truckin' now.}

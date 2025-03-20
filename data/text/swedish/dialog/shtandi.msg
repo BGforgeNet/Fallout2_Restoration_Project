@@ -150,7 +150,7 @@
 {249}{}{Tell about NCR.}
 {250}{}{Me ask about something else.}
 {251}{}{Tell me about the NCR please.}
-{252}{}{Let me ask you something else.}
+{252}{}{Låt mig fråga dig något annat.}
 {253}{tand32}{Lord, I could talk about that forever and I just don't have the time. Here's a holodisk on the NCR. We make 'em to spread the good word.}
 {254}{}{Uh, thanks.}
 {255}{tand33}{So, they finally got reasonable. I can bull the Congress into sending supplies and techs. You sure we can get into the vault?}

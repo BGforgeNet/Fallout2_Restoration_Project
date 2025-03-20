@@ -374,7 +374,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {422}{lyn057}{What is it? Didn't you already take care of them?}
 {423}{}{It's a little more complicated than that. You see these guys weren't a roving band of raiders...
  they were mercenaries.}
-{424}{}{Nevermind. Goodbye.}
+{424}{}{Bry dig inte om det. Adjö.}
 {425}{lyn058}{I do not remember your induction. Let me see your papers.}
 {426}{}{Here you go. Everything should be in order.}
 {427}{}{Umm... I don't have my papers with me.}

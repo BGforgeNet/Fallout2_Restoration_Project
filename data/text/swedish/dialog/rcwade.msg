@@ -46,7 +46,7 @@
 {138}{}{Well, because I'm not exactly sure how long it will take to get all the medical supplies together. Probably not much
  longer than a couple of weeks. Then we can go. Just keep checking back with me.}
 {139}{}{What do you usually transport?}
-{140}{}{Let me ask you something else.}
+{140}{}{Låt mig fråga dig något annat.}
 {141}{}{Thanks, I'll do that. Goodbye.}
 {142}{}{We're usually looking for caravan guards, but this caravan won't be ready for a while yet. Feel
  free to check back with me, though.}
@@ -58,7 +58,7 @@
 {148}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for
  gold ore.}
 {149}{}{That's interesting. You said you're looking for guards?}
-{150}{}{Let me ask you something else.}
+{150}{}{Låt mig fråga dig något annat.}
 {151}{}{Oh, okay. Goodbye.}
 {152}{}{You came along at a good time. We're ready to go right now. The job pays $1000, but I'm only
  paying you for the job since I only need one more guard. Ready to join us?}
