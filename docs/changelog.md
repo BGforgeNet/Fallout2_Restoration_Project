@@ -7,6 +7,7 @@
 
 ---
 
+- [Version 32](#version-33)
 - [Version 32](#version-32)
 - [Version 30](#version-30)
 - [Version 29](#version-29)
@@ -39,6 +40,22 @@
 - killap's RP 2.3.3
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
+
+
+### Version 33
+
+(AKA 2.3.33, 2.4.33)
+
+#### General
+
+- Alcohol and Tragic addictions [will correctly show tags](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/326) when in effect.
+
+#### Locations
+
+- Arroyo
+  - Fixed scenery alignment in Temple.
+- EPA
+  - The hologram computer [can now be fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/325) using multitool and supertool.
 
 ### Version 32
 
