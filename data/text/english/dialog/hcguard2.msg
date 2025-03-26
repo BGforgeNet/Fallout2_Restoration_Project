@@ -1,7 +1,7 @@
 {100}{}{You see a tired Hubologist guard.}
 {101}{}{He looks pretty bored.}
 
-{200}{}{(Looks at your with bored eyes) Hey. What brings you all the way down here?}
+{200}{}{(Looks at you with bored eyes) Hey. What brings you all the way down here?}
 {201}{}{I'm here to let you off duty early. I'm on the next guard shift.}
 {202}{}{Ashton sent me to get you. He said he needed to check with you about the recent set of donations.}
 

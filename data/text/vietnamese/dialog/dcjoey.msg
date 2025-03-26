@@ -122,7 +122,7 @@
 {258}{}{No, you moron.}
 {259}{}{No, it's a place. Can I ask something else?}
 {260}{}{Yes, a wonderful drug.}
-{261}{}{No, bye.}
+{261}{}{Không, chào.}
 {262}{}{Joey here isn't much of a conversationalist.}
 {300}{}{Probably not. Bye.}
 {350}{}{You been sleeping? Turns out that Lara's a mean little bitch after all. She gunned Tyler down. I hear Metzger was in on it. Well, I better get back to... work.}

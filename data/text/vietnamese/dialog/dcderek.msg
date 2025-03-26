@@ -9,55 +9,55 @@
 {205}{}{Tôi cháy túi rồi.}
 {206}{}{Doh!}
 {207}{}{Này, cậu đang làm gì ở đây thế?}
-{220}{}{Stay away from Metzger, tribal.}
-{221}{}{Why is it always so damn hot?}
-{222}{}{Why do we live in the desert?}
-{223}{}{I'm a good cook.}
-{224}{}{I'm going to open my own restaurant someday.}
-{225}{}{I wish I had a real kitchen.}
-{226}{}{Why am I always getting the short end of life?}
-{227}{}{People are always screwing me.}
-{228}{}{Fred's a dreamer - master plan, my ass.}
-{240}{}{Shhhh! They're everywhere.}
-{241}{}{Make them stop!}
-{242}{}{So you found that damn book?}
-{243}{}{I don't know why Becky won't hire me.}
-{244}{}{I will not go insane!}
-{245}{}{I got my quarters!}
-{246}{}{They come out at night, mostly.}
-{247}{}{I like potatoes!}
-{248}{}{Don't walk on the green stuff without boots!}
-{249}{}{Just turn it inside out.}
-{250}{}{Oh, my head hurts really bad now.}
-{251}{}{I'm a grandmaster cook!}
-{252}{}{I would never poison a newbie's food.}
-{260}{}{Hey you looking for some freshly baked bread?}
+{220}{}{Tránh xa Metzger ra, đồ tộc.}
+{221}{}{Sao lúc đéo nào cũng nóng vãi thế?}
+{222}{}{Sao chúng ta lại sống ở sa mạc nhỉ?}
+{223}{}{Tôi nấu ăn khéo lắm đấy.}
+{224}{}{Một ngày nào đó tao sẽ mở nhà hàng riêng.}
+{225}{}{Ước gì có một căn bếp ra hồn.}
+{226}{}{Sao mình lúc nào cũng đen đủi thế không biết?}
+{227}{}{Mọi người chỉ phá đám là giỏi.}
+{228}{}{Gã Fred chỉ mơ mộng hão huyền. Kế hoạch vĩ đại cái củ kak ấy.}
+{240}{}{Suỵt! Chúng ở khắp nơi.}
+{241}{}{Bảo chúng dừng lại đi!}
+{242}{}{Cậu tìm thấy quyển sách chết tiệt đấy rồi à?}
+{243}{}{Chả hiểu sao Becky không thuê tôi nhỉ.}
+{244}{}{Tôi không điên đâu!}
+{245}{}{Tôi có xiền rồi!}
+{246}{}{Đa số chúng đến tối mới ra.}
+{247}{}{Tôi thích khoai!}
+{248}{}{Đừng có dẫm chân lên mấy bãi xanh xanh mà không đi giày!}
+{249}{}{Cứ lột ngược từ trong ra.}
+{250}{}{Ôi, đầu tôi giờ đau như búa bổ.}
+{251}{}{Tôi là đầu bếp bậc thầy đấy!}
+{252}{}{Tôi không bao giờ cho độc vào đồ của lũ lính mới đâu.}
+{260}{}{Này, muốn mua bánh mì mới ra lò không?}
 {261}{}{Đúng vậy.}
-{262}{}{I'm looking for Becky's book.}
-{263}{}{No, bye.}
-{270}{}{Oh, hi again.}
-{271}{}{So where's Becky's book?}
-{272}{}{Hey, how about some of that bread?}
+{262}{}{Tôi đang tìm kiếm quyển sách của Becky.}
+{263}{}{Không, chào.}
+{270}{}{Ồ, xin chào.}
+{271}{}{Thế sách của Becky đâu?}
+{272}{}{Này, thế vài ổ bánh mì đấy thì sao?}
 {273}{}{Chào.}
-{280}{}{Ha! So am I. Have I told you what a great cook I am? Becky wont' hire me for some reason. She says I'm unstable.}
-{281}{}{She's probably right.}
-{282}{}{I'm looking for Becky's book.}
-{283}{}{That's great. I've uh... got to go.}
-{290}{}{What? You! Screw you buddy! I'm not... Ow! Fuck.}
-{291}{}{What? You! Screw you lady! I'm not... Ow! Fuck.}
-{292}{}{Damn.}
-{293}{}{Nuf Said.}
-{300}{}{Oh yeah. I didn't like it. Too much kissing. I threw it in the corner of that building... no that building... no... was it a building? Maybe I dropped it somewhere else... or did I throw it? Ow! My head!}
-{301}{}{Book? Oh, that book. Who sent you? I'm not sure if that's the proper side. Don't forget the tissue.}
-{302}{}{I can't! They're... oh crap... Do you have the cheese? Hide!}
-{303}{}{Hey! Not my problem. What was I supposed to do? Fight them? Little green men, big pointy teeth! Fuck! Ouch! Stop that!}
-{304}{}{My head hurts! What... who said that?}
-{305}{}{That helps a lot.}
+{280}{}{Ha! Tôi cũng thế. Tôi có từng kể tôi là đầu bếp giỏi chưa ấy nhỉ? Becky vì sao đó mà không chịu thuê tôi. Cô ta bảo tôi không ổn.}
+{281}{}{Chắc hẳn là vậy rồi.}
+{282}{}{Tôi đang tìm kiếm quyển sách của Becky.}
+{283}{}{Hay đấy. Tôi ờ... phải đi rồi.}
+{290}{}{Cái gì? Thằng kia! Cút đi! Tao không... Ôi! ĐM.}
+{291}{}{Cái gì? Con kia! Cút đi! Tao không... Ôi! ĐM.}
+{292}{}{Mẹ kiếp.}
+{293}{}{Đừng nói thêm gì nữa.}
+{300}{}{Ồ đúng. Tôi không nuốt nổi. Nhiều đoạn hôn nhau quá. Tôi ném nó vào góc tòa nhà kia... không, tòa kia... không... có phải nhà không nhỉ? Có thể tôi để ở chỗ khác... hay tôi ném đi nhỉ? Ôi! Cái đầu tôi!}
+{301}{}{Sách? Ồ, quyển đó hả. Ai cử cậu đến? Tôi không chắc phía đó đúng đâu. Đừng có quên khăn giấy đấy.}
+{302}{}{Tôi không thể! Chúng là... ồ chết tiệt... cậu có phô mai không? Trốn đi!}
+{303}{}{Này! Đâu phải vấn đề của tôi. Tôi biết làm gì chứ? Đấm nhau à? Mấy gã da xanh bé tí, răng chìa nhọn hoắt! ĐM! Đau! Dừng lại!}
+{304}{}{Đau đầu thế! Cái gì... đứa nào vừa nói thế?}
+{305}{}{Có ích đấy.}
 {306}{}{Ừ.}
-{310}{}{What? Are you mocking me! Screw you! I'm not unstable! I can cook! I don't have voices in my head!}
-{311}{}{I'm gonna- shit! Fuck! Damn it! Stop that. Be quiet! What?... Okay.}
-{312}{}{Hey! Sto- do... fuck.}
+{310}{}{Cái gì? Cậu chọc tôi đấy à! Cút đi! Tôi đâu có không ổn! Tôi biết nấu ăn! Tôi đâu có nghe thấy giọng nói trong đầu đâu!}
+{311}{}{Tôi sẽ- cứt thật! Đm! Chết tiệt! Dừng lại đi. Trật tự! Cái gì?... Được rồi.}
+{312}{}{Này! Dừn- đừng... đm.}
 {313}{}{Chào.}
 {314}{}{Không có gì.}
-{320}{}{Hey! Get away from me!}
+{320}{}{Này! Tránh xa tôi ra!}
 {321}{}{Đừng chạm vào tôi!}

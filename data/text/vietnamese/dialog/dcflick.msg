@@ -1,21 +1,21 @@
-{100}{}{You see a thin, greasy looking, man.}
-{150}{}{You see Flick, giving his groin a thorough scratching.}
-{151}{}{You see an unclean fellow with a nasty facial-twitch.}
-{200}{}{Get outta heeya, you dumb-ass.}
-{201}{}{Hey meatball! Yeah, you. Get outta heeya.}
-{202}{}{You dumb or sumpin'?}
-{203}{}{Whatchur problem, eh?}
-{204}{}{Get the hell outta heeya.}
-{220}{}{Hey der, I'm Flick. What the fuck do you want, huh?}
-{221}{}{Now what? You wastin' my time heeya.}
-{222}{}{What's with the wacky accent, Flick?}
-{223}{}{What the hell do you do here?}
-{224}{}{I'm looking for a Vault - oh yeah, and some trader named Vic, too. Know where they might be?}
-{225}{}{I'd like to trade with you.}
-{240}{}{That 'bout do it for ya, pal?}
-{241}{}{Actually I'd like to take another look at your goods if I may.}
-{242}{}{Actually, I'd like to ask you a question.}
-{243}{}{That did it. See you around, Flick.}
+{100}{}{Bạn thấy một gã gày gò, nhờn mỡ.}
+{150}{}{Bạn thấy Flick, đang cật lực gãi chim.}
+{151}{}{Bạn thấy một gã bẩn thỉu với khuôn mặt nhăn như táo tàu.}
+{200}{}{Biến khỏi đây ngey, đồ đần độn.}
+{201}{}{Này thịt viên! Đúng, mày đấy. Biến khỏi đây ngey.}
+{202}{}{Mày bị đần hay seo thế?}
+{203}{}{Có dzấn đề gì, hả?}
+{204}{}{Cuốn xéo khỏi đây ngey.}
+{220}{}{Này nèy, tao là Flick. Mày muốn cái lìn gì thế?}
+{221}{}{Giờ thì sao? Mày đang làm lãng phí thời gian của tao đếy.}
+{222}{}{Nói cái giọng gì thế hả Flick?}
+{223}{}{Ông đang làm cái chó gì ở đây thế?}
+{224}{}{Tôi đang đi tìm Vault – ồ đúng rồi, một gã thương gia tên Vic nữa. Biết tìm ở đâu không?}
+{225}{}{Tôi muốn trao đổi.}
+{240}{}{Vệy đã được chưa, cậu bạn?}
+{241}{}{Thật ra là tôi muốn xem lại hàng lần nữa, nếu được.}
+{242}{}{Thật ra tôi muốn hỏi một câu.}
+{243}{}{Được rồi. Gặp lại sau, Flick.}
 {260}{}{I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.}
 {261}{}{Say what?}
 {262}{}{Yeah, uh, well... let me ask you something else.}
