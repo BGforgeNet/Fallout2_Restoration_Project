@@ -119,7 +119,7 @@
 {554}{}{No hay manera de que me estoy matando el Dr. Wong para usted. Estoy hecho aquí.}
 {560}{}{Excelente. Y lo del Dr. Wong?}
 {561}{}{Él todavía está vivo. Voy a volver una vez que él está fuera de la imagen.}
-{562}{}{Yo no voy a matar Dr. Sheng para usted. Les di la muestra de la planta, y ahora estoy hecho de ayudar a usted.}
+{562}{}{Yo no voy a matar Dr. Wong para usted. Les di la muestra de la planta, y ahora estoy hecho de ayudar a usted.}
 {570}{}{Necesito poner abajo, y se mira más que capaz de la tarea.}
 {571}{}{¿Por qué no enviar estos, eh, de mayor éxito en allí para cuidar de ellos?}
 {572}{}{Suena divertido. Lo voy a hacer.}

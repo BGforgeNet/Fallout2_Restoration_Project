@@ -3,7 +3,7 @@
 {200}{}{(Sieht dich mit gelangweilten Augen an) Hey. Was treibt dich hier soweit runter?}
 {201}{}{Ich bin hier um dich etwas früher abzulösen. Ich hab die nächste Wachschicht.}
 {202}{}{Ashton schickt mich um dich zu holen. Er sagt, er muss mit dir die jüngsten Spenden durchsehen.}
-{210}{}{Toll, Mann - Hey, wart mal ne Sekunde! Ich hab dich noch nie zuvor gesehen. Was willst du hier?}
+{210}{}{Oh, Mann - Hey, wart mal ne Sekunde! Ich hab dich noch nie zuvor gesehen. Was willst du hier?}
 {211}{}{Ich bin ein neuer Rekrut. Ich wurde erst vor kurzem hierher versetzt.}
 {212}{}{Na, mir wurde aufgetragen dich zu töten.}
 {220}{}{Scheiße. Ich hab keine Zeit für diesen Mist, meine Schicht ist fast zu Ende.}

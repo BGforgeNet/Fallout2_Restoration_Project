@@ -119,7 +119,7 @@
 {554}{}{Ich töte Dr. Wong auf keinen Fall für Sie. Ich bin hier fertig.}
 {560}{}{Gute Arbeit. Und was wird mit Dr. Wong?}
 {561}{}{Er ist immer noch am Leben. Ich werde zurückkehren, sobald er aus dem Weg geräumt ist.}
-{562}{}{Ich werde Dr. Sheng nicht für Sie töten. Ich gab ihm die Pflanzenprobe und jetzt bin ich fertig damit, Ihnen zu helfen.}
+{562}{}{Ich werde Dr. Wong nicht für Sie töten. Ich gab ihm die Pflanzenprobe und jetzt bin ich fertig damit, Ihnen zu helfen.}
 {570}{}{Sie müssen sie erledigen und Sie sehen mehr als fähig für die Aufgabe aus.}
 {571}{}{Warum schicken Sie nicht diese, ähm, erfolgreicheren Dinger, damit die sich darum kümmern?}
 {572}{}{Hört sich gut an, ich werd's machen.}

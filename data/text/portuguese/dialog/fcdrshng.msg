@@ -119,7 +119,7 @@
 {554}{}{Não há como matar o Dr. Wong por você. Eu acabei por aqui.}
 {560}{}{Excelente. E o que dizer do Dr. Wong?}
 {561}{}{Ele ainda está vivo. Eu vou retornar assim que ele sair de cena.}
-{562}{}{Não vou matar o Dr. Sheng por você. Eu dei-lhes a amostra da planta, e agora eu terminei de ajudá-lo.}
+{562}{}{Não vou matar o Dr. Wong por você. Eu dei-lhes a amostra da planta, e agora eu terminei de ajudá-lo.}
 {570}{}{Eu preciso deles derrubados, e você parece mais do que capaz da tarefa.}
 {571}{}{Por que você não envia estes, uh, mais bem sucedidos lá para cuidar deles?}
 {572}{}{Parece divertido. Eu vou fazer isso.}

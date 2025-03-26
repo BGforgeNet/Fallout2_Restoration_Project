@@ -158,9 +158,9 @@
 
 {560}{}{Excellent. And what of Dr. Wong?}
 {561}{}{He is still alive. I'll return once he's out of the picture.}
-{562}{}{I'm not going to kill Dr. Sheng for you. I gave them the plant sample, and now I'm done helping you.}
+{562}{}{I'm not going to kill Dr. Wong for you. I gave them the plant sample, and now I'm done helping you.}
 
-#from 240
+# from 240
 {570}{}{I need them put down, and you look more than capable of the task.}
 {571}{}{Why don't you send these, uh, more successful ones in there to take care of them?}
 {572}{}{Sounds fun. I'll do it.}

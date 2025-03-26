@@ -3,7 +3,7 @@
 {200}{}{(Mira a su aburrido con los ojos) Hola. ¿Qué te trae todo el camino hasta aquí?}
 {201}{}{Estoy aquí para dejar fuera de servicio temprana. Estoy en la próxima guardia de turno.}
 {202}{}{Ashton me envió a conseguir. Él dijo que necesitaba consultar con usted acerca de la reciente serie de donaciones.}
-{210}{}{El asombro, el hombre-Hey, espera un minuto! Yo nunca he visto todo antes. ¿Qué estás haciendo aquí?}
+{210}{}{Oh, hombre-Hey, espera un minuto! Yo nunca he visto todo antes. ¿Qué estás haciendo aquí?}
 {211}{}{Soy un nuevo recluta. Recientemente fue transferido aquí.}
 {212}{}{Sí, yo estaba asignado a matar.}
 {220}{}{Maldita sea. No tengo tiempo para esta mierda, mi turno casi excesiva.}
