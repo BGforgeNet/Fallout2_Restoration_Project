@@ -8,4 +8,4 @@
 {203}{}{Hej.}
 {204}{}{Nice weather.}
 {205}{}{I hope you enjoy your stay here.}
-{500}{}{Stop that!}
+{500}{}{Sluta med det där!}

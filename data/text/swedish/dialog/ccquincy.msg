@@ -57,9 +57,9 @@
 {145}{}{So you're back. Did you get the authorization?}
 {146}{}{You again? What is it now?}
 {147}{}{Yeah, me got plasma rifle. That good enough me!}
-{148}{}{No, not yet.}
+{148}{}{Nej, inte än.}
 {149}{}{Yeah, I've got a big fucking gun. That's good enough for me!}
-{150}{}{No, not yet.}
+{150}{}{Nej, inte än.}
 {151}{}{Me ask you something.}
 {152}{}{Me just say 'Hi'.}
 {153}{}{I need to ask you something.}

@@ -2,7 +2,7 @@
 {101}{}{You see Farrel.}
 {102}{}{You hear the sound of dry twigs cracking every time he moves.}
 {150}{}{Hey, get away from there!}
-{151}{}{Stop that!}
+{151}{}{Sluta med det där!}
 {152}{}{Tjuv!}
 {153}{}{I didn't steal the watch, so stop coming over here and harassing poor old Farrel!}
 {154}{}{Cornelius says you stole his gold watch.}

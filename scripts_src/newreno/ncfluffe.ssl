@@ -93,7 +93,7 @@ procedure timed_event_p_proc begin
          if (enclave_destroyed) then begin
             call Node003;
          end else if (dude_wearing_power_armor) then begin
-            call Node004 ;
+            call Node004;
          end else if (dude_has_porn_star_rep) then begin
             if (dude_is_female) then begin
                call Node006;
@@ -165,7 +165,7 @@ procedure talk_p_proc begin
    if (enclave_destroyed) then begin
       call Node015;
    end else if (dude_wearing_power_armor) then begin
-      call Node005;
+      call Node004;
    end else if (dude_has_porn_star_rep) then begin
       call Node016;
    end else if (dude_is_prizefighter) then begin
@@ -224,119 +224,79 @@ end
 procedure Node001 begin
    display_mstr(150 + (examined));
 end
+
 procedure Node002 begin
    display_mstr(160 + (examined));
 end
+
 procedure Node003 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
-      floater_rand_with_check(203-(3*dude_is_male), 206+(3*dude_is_female), dude_name, 1000);
-   //end else
-   //   floater_rand(202-dude_is_male, 202+dude_is_female);
+   floater_rand_with_check(203-(3*dude_is_male), 206+(3*dude_is_female), dude_name, 1000);
 end
+
 procedure Node004 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(225,228);
-   //else
-   //   floater_rand(225,226);
+   floater_rand(225,228);
 end
+
 procedure Node005 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
-      floater_rand_with_check(235, 242, porn_star_name, 1000);
-   //end else begin
-   //   floater_rand_with_check(235, 237, porn_star_name, 1000);
-   //end
+   floater_rand_with_check(235, 242, porn_star_name, 1000);
 end
+
 procedure Node006 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
-      floater_rand_with_check(245, 251, porn_star_name, 1000);
-   //end else
-   //   floater(247);
+   floater_rand_with_check(245, 251, porn_star_name, 1000);
 end
+
 procedure Node007 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
-      floater_rand_with_check(255, 262, prizefighter_name, 1000);
-   //end else begin
-   //   floater_rand_with_check(255, 256, prizefighter_name, 1000);
-   //end
+   floater_rand_with_check(255, 262, prizefighter_name, 1000);
 end
+
 procedure Node008 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
-      floater_rand_with_check(270, 274, prizefighter_name, 1000);
-   //end else begin
-   //   floater_rand_with_check(270, 271, prizefighter_name, 1000);
-   //end
+   floater_rand_with_check(270, 274, prizefighter_name, 1000);
 end
+
 procedure Node009 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
-      floater_rand_with_check(281-(dude_is_made_man),285 , made_man_name, 1000);
-   //end else begin
-   //   floater_rand_with_check(281-(dude_is_made_man),280 , made_man_name, 1000);
-   //end
+   floater_rand_with_check(281-(dude_is_made_man),285 , made_man_name, 1000);
 end
+
 procedure Node010 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
-      floater_rand_with_check(291-(dude_is_made_man), 294, made_man_name, 1000);
-   //end else begin
-   //   floater_rand_with_check(291-(dude_is_made_man), 291, made_man_name, 1000);
-   //end
+   floater_rand_with_check(291-(dude_is_made_man), 294, made_man_name, 1000);
 end
+
 procedure Node011 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(300,306);
-   //else
-   //   floater_rand(300,301);
+   floater_rand(300,306);
 end
+
 procedure Node012 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(316-(message_is_float),319+(message_is_click));
-   //else
-   //   floater_rand(316, 317);
+   floater_rand(316-(message_is_float),319+(message_is_click));
 end
+
 procedure Node013 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(325,333+(4*dude_is_female));
-   //else
-   //   floater_rand(325,329);
+   floater_rand(325,333+(4*dude_is_female));
 end
+
 procedure Node014 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(345,349+(4*dude_is_female));
-   //else
-   //   floater_rand(345,348);
+   floater_rand(345,349+(4*dude_is_female));
 end
+
 procedure Node015 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(360,366);
-   //else
-   //   floater_rand(360,361);
+   floater_rand(360,366);
 end
+
 procedure Node016 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
-      floater_rand_with_check(381-((381-370)*dude_is_male), 397+(3*dude_is_female), porn_star_name, 1000);
-   //end else
-   //   floater_rand(371, 373);
+   floater_rand_with_check(381-((381-370)*dude_is_male), 397+(3*dude_is_female), porn_star_name, 1000);
 end
+
 procedure Node017 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(423-(3*dude_is_male),432+(3*dude_is_female));
-   //else
-   //   floater_rand(420,422);
+   floater_rand(423-(3*dude_is_male),432+(3*dude_is_female));
 end
+
 procedure Node018 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(454-(4*dude_is_male),457+(3*dude_is_female));
-   //else
-   //   floater_rand(450,451);
+   floater_rand(454-(4*dude_is_male),457+(3*dude_is_female));
 end
+
 procedure Node019 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(467-(2*dude_is_male),489+(2*dude_is_female));
-   //else
-   //   floater_rand(467,472);
+   floater_rand(467-(2*dude_is_male),489+(2*dude_is_female));
 end
+
 procedure Node020 begin
-   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(502-(2*dude_is_male),518+(2*dude_is_female));
-   //else
-   //   floater_rand(500,502);
+   floater_rand(502-(2*dude_is_male),518+(2*dude_is_female));
 end

@@ -35,7 +35,7 @@
 {272}{}{Easy enough. Goodbye.}
 {280}{}{Ready to join the tech team?}
 {281}{}{Yes, I'm ready to go.}
-{282}{}{No, not yet.}
+{282}{}{Nej, inte än.}
 {290}{}{Can't you see I'm busy here?}
 {300}{}{Me ride metal fishy-fish?}
 {310}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride

@@ -82,7 +82,7 @@
 {181}{}{Hej då.}
 {182}{mcs22}{Great. Let me know when you've found something, right?}
 {183}{}{Sure. I have more questions.}
-{184}{}{Will do. Bye.}
+{184}{}{Fixar det. Hej då.}
 {185}{mcs23}{Yeah? What?}
 {186}{}{You wanted me to find those missing people. I've found some tunnels below the city. They might be there.}
 {187}{}{I've found those missing people. They're in tunnels beneath the city.}

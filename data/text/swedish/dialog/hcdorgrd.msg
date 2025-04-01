@@ -41,7 +41,7 @@
 {293}{}{Oh, I see. That's understandable. You're free to enter, just don't loiter around for too long.}
 {294}{}{Listen, I'm about to give a hefty sum of money to the Church. I want to make sure my donation will be safe and used
  appropriately.}
-{300}{}{Hello again.}
+{300}{}{Hej igen.}
 {301}{}{I hope everything is in order.}
 {400}{}{Me want in.}
 {410}{}{[He looks at you oddly.] Well, you'll need a password then.}

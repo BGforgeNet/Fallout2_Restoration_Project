@@ -15,4 +15,4 @@
 {404}{}{All sorts, but most of our Memorabilia consist of ancient tomes. So much information can be obtained from those texts. It is our mission to preserve this knowledge so that a future generation may use it to build a new world of peace and joy.}
 {405}{}{Okej.}
 {406}{}{Ok.}
-{500}{}{Stop that!}
+{500}{}{Sluta med det där!}

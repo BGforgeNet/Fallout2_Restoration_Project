@@ -18,7 +18,7 @@
 {113}{}{Jag kommer snart tillbaka med honom.}
 {114}{}{Har du hittat Smoke än?}
 {115}{}{Nej, inte än. Var sa du att jaktmarkerna fanns?}
-{116}{}{No, not yet.}
+{116}{}{Nej, inte än.}
 {117}{}{Har du hittat Smoke än?}
 {118}{}{Nej, inte än. Men jag kommer tillbaka snart.}
 {119}{}{Jag är ledsen, men han är död.}

@@ -77,7 +77,7 @@
 {176}{}{Hello. Have you thought about my offer?}
 {177}{}{No. Me not think yet.}
 {178}{}{Yes. Me take job.}
-{179}{}{No, not yet.}
+{179}{}{Nej, inte än.}
 {180}{}{Yeah, I think I'll take the job.}
 {181}{}{Hello. Have you changed your mind about my offer?}
 {182}{}{Nej.}

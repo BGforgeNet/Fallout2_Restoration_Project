@@ -345,7 +345,7 @@ and fifty years.}
 {1106}{}{I'm getting impatient over here.}
 {1110}{}{You ready to take me with you?}
 {1111}{}{Let's go.}
-{1112}{}{No, not yet.}
+{1112}{}{Nej, inte än.}
 {1200}{}{So, what can you tell me about the Vaults?}
 {1201}{}{So, now do you remember anything you can tell me about the Vaults?}
 {1202}{}{Is there anything useful you can tell me about the time before the Great Silence?}

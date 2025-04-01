@@ -139,8 +139,8 @@ procedure map_enter_p_proc begin
 
    //added by killap
    if (new_run and repeatable_brahmin_drive and not(cattle_drive(HAL_DEAD))) then begin
-   	if (cattle_drive(CATTLE_FINISHED) or cattle_drive(CATTLE_MISSED)) then begin
-        set_global_var(GVAR_NCR_CATTLE_DRIVE,0);
+      if (cattle_drive(CATTLE_FINISHED) or cattle_drive(CATTLE_MISSED)) then begin
+         set_global_var(GVAR_NCR_CATTLE_DRIVE,0);
       end
    end
    //added by killap
@@ -215,8 +215,8 @@ procedure talk_p_proc begin
    set_local_var(LVAR_Herebefore, 1);
 
    move_obj_inven_to_obj(self_obj, i_duppo_table);
-   self_caps_adjust(item_caps_total(i_duppo_table));
-   item_caps_adjust(i_duppo_table, -self_caps);
+   //self_caps_adjust(item_caps_total(i_duppo_table)); -comment out by NovaRain (expansion)
+   //item_caps_adjust(i_duppo_table, -self_caps); -comment out by NovaRain (expansion)
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like

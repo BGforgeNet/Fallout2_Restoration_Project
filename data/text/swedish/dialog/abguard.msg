@@ -34,13 +34,13 @@
 {601}{}{Ja, och broder Thomas saknas. Jag vet inte vad som finns där nere, men jag tror inte att det bara är ett gäng råttor
  och radioaktiva skorpisar. Varför tar du inte reda på det, tuffing?}
 {602}{}{Så varför går du inte och kollar?}
-{603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
+{603}{}{Du är tuffingen häromkring, eller hur? Varför drar du inte tummen ur röven och går ner dit?}
 {610}{}{Det är lite pinsamt, men efter att ha tillbringat så mycket tid utomhus med karavanerna blir jag väldigt nervös när jag
  går under jorden. Väggarna bara sluter sig om mig och jag får svårt att andas... Du kanske kan ta reda på vad som hände med
  Broder Thomas?}
-{611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
+{611}{}{Jag ska se vad jag kan göra. Under tiden vill jag fråga dig en annan sak.}
 {612}{}{Hej då.}
-{613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
+{613}{}{Jag är en tuffing, och därför kommer jag att ge dig stryk.}
 {700}{}{Vad mer vill du veta?}
-{800}{}{It's good to see you again.}
-{801}{}{I'm keeping my eye on you.}
+{800}{}{Det är trevligt att se dig igen.}
+{801}{}{Jag håller ett öga på dig.}

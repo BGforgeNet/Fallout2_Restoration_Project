@@ -61,7 +61,7 @@
 {160}{}{You have certain schematics to give to me?}
 {161}{}{Ken Lee told me to give these to you.}
 {162}{}{Yes. Now what do I get?}
-{163}{}{No, not yet.}
+{163}{}{Nej, inte än.}
 {164}{}{Speak to Ken Lee, and he shall discuss what happens in your future. Thank you. We shall be able to verify some of our test data with these. Good day.}
 {165}{}{I actually had other questions.}
 {166}{}{So long.}

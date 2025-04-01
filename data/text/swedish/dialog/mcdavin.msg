@@ -13,7 +13,7 @@
 {159}{}{What do you do at the slaughterhouse?}
 {160}{}{I hear rumors about you and the brahmin.}
 {161}{}{Tell me about your dad.}
-{162}{}{Hello again.}
+{162}{}{Hej igen.}
 {163}{}{I knew you'd come back to me.}
 {168}{}{Why don't we get more comfortable?}
 {171}{}{Stay here.}

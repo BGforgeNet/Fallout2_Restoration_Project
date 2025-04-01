@@ -193,12 +193,12 @@ procedure talk_p_proc begin
    GetReaction;
 
    //set_local_var(LVAR_Money, self_caps); -comment out by killap (expansion)
-   //item_caps_adjust(self_obj, -local_var(LVAR_Money)); -comment out by killap (expansion)
+   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap (expansion)
 
    move_obj_inven_to_obj(self_obj, swap_obj);
    move_obj_inven_to_obj(i_table_swap, self_obj);
 
-   //item_caps_adjust(self_obj, local_var(LVAR_Money)); -comment out by killap (expansion)
+   //self_caps_adjust(local_var(LVAR_Money)); -comment out by killap (expansion)
    //set_local_var(LVAR_Money, 0); -comment out by killap (expansion)
 
    if (san_fran_flag(SF_SHI_ENEMY)) then begin
@@ -230,7 +230,7 @@ procedure talk_p_proc begin
    end
 
    //set_local_var(LVAR_Money, self_caps); -comment out by killap (expansion)
-   //item_caps_adjust(self_obj, -local_var(LVAR_Money)); -comment out by killap (expansion)
+   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap (expansion)
 
    move_obj_inven_to_obj(self_obj, i_table_swap);
    move_obj_inven_to_obj(swap_obj, self_obj);

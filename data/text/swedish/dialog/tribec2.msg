@@ -22,7 +22,7 @@
 {161}{}{Just det.}
 {162}{}{How 'bout *you* reattach the bucket, and I'll see if I can restrain myself from beating your ass.}
 {170}{}{Did you attach the bucket?}
-{171}{}{No, not yet.}
+{171}{}{Nej, inte än.}
 {172}{}{Does it *look* like I attached the bucket?}
 {180}{}{So the well is fixed, yes? With the bucket attached and everything?}
 {181}{}{Yes, it's all done.}

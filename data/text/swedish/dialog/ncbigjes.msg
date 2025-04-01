@@ -162,7 +162,7 @@
 {543}{}{Oh. Guess I misheard.}
 {551}{}{Uh... yes, but I don't have the money on me. Just give me some time, and I'll return it to you.}
 {552}{}{Yes, here is the money.}
-{553}{}{No, not yet.}
+{553}{}{Nej, inte än.}
 {554}{}{No, uh, I'll go take care of it now.}
 {560}{}{Then... why are you here? (He wipes his forehead, then takes a deep breath.) WHY do you not have the money?}
 {561}{}{Well, you see, I had some questions first...}

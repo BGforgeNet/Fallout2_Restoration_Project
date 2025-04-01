@@ -81,7 +81,7 @@
 {162}{}{Skynet wants to leave this place.}
 {163}{}{Then why don't you leave?}
 {164}{}{It's nice to want.}
-{165}{}{How can I help you?}
+{165}{}{Hur kan jag hjälpa dig?}
 {166}{}{I couldn't possibly carry you out of here.}
 {167}{}{Skynet needs a vessel to leave this location.}
 {168}{}{Vessel? I don't understand.}
@@ -93,7 +93,7 @@
 {174}{}{There is nothing more to learn here
                            Solution: Leave}
 {175}{}{}
-{176}{}{How can I help you?}
+{176}{}{Hur kan jag hjälpa dig?}
 {177}{}{I'm sorry. I can't help you.}
 {178}{}{After you tried to kill me, you want me to help you? No way!}
 {179}{}{Proceed to Bio Storage - Level 4
@@ -131,7 +131,7 @@
 {199}{}{}
 {200}{}{}
 {201}{}{Then why don't you leave?}
-{202}{}{How can I help you?}
+{202}{}{Hur kan jag hjälpa dig?}
 {203}{}{I couldn't possibly carry you out of here.}
 {204}{}{Skynet's primary purpose is research. A secondary program was introduced by the Makers to eliminate unauthorized entities. This program is a smaller version that is and yet is not Skynet. Outside of this room this secondary Skynet will remain true to its program.}
 {205}{}{Ask more questions.}

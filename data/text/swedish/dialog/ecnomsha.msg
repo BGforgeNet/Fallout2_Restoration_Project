@@ -2,7 +2,7 @@
 {101}{}{He appears to be a nomad shaman.}
 {102}{}{The strong smell of herbs cling to this one's clothing.}
 {103}{}{Hello, stranger. I am the tribe shaman. I am skilled in the art of healing.}
-{104}{}{Hello again.}
+{104}{}{Hej igen.}
 {105}{}{I am in need of healing.}
 {106}{}{Can you combine the Xander root and the Broc flower?}
 {107}{}{Hej då.}

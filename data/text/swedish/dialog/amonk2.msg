@@ -8,4 +8,4 @@
 {203}{}{Good day... or is it night already?}
 {204}{}{There's so much work that must be done.}
 {205}{}{Life here at the Abbey is a peaceful one. Something rare in these wretched wastes.}
-{500}{}{Stop that!}
+{500}{}{Sluta med det där!}

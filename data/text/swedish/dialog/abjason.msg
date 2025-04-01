@@ -1,4 +1,4 @@
-{100}{}{You see a bespectacled young monk.}
+{100}{}{Du ser en ung munk med glasögon.}
 {101}{}{Du ser broder Jason.}
 {102}{}{Den här munken verkar grubbla.}
 {200}{}{[Den unge munken plockar snabbt fram en "Tragik"-kortlek när du närmar dig.] Vad är det du vill?}
@@ -67,28 +67,28 @@
 {286}{}{Om du inte har ändrat dig om att hjälpa mig, så dra åt helvete.}
 {287}{}{Okej, då. Jag gör det.}
 {288}{}{Nej, jag tänker inte göra det. Om du hatar att vara här, varför flyttar du inte bara?}
-{290}{}{You will? Seriously? Oh man, that's awesome. But first, you'll need to get access, 'cause they're pretty protective
- of the database. It shouldn't be too hard though, these monks are pretty trusting. They're gonna be pissed as hell when
- you format it, but they're all a bunch of wimps, so don't worry about it. Just try not to kill anyone -- I don't want things
- to get too out of hand, you know?}
-{291}{}{Sure. Anything else?}
+{290}{}{Gör du det? Allvarligt? Åh, det är ju fantastiskt. Men först måste du få tillgång, för de skyddar databasen ganska
+ noga. Men det borde inte vara så svårt, de här munkarna litar ganska enkelt på andra. De kommer att bli skitförbannade när
+ du formaterar den, men de är ett gäng mesar, så oroa dig inte för det. Försök bara att inte döda någon -- jag vill inte att saker
+ ska gå för långt, vet du?}
+{291}{}{Visst. Något annat?}
 {292}{}{Jag ger inga löften. Var det något mer?}
-{300}{}{Just format it, then take off, cause they're not going to want you around here. Don't even bother to come tell me
- you did it, because I'll have to act just as pissed as everyone else or they'll suspect something's up. Thanks again for
- doing this. It's for their own good.}
-{301}{}{Whatever you say. Bye.}
-{310}{}{Are you crazy? I've never been out in the wastes, but I've got a pretty damn good idea as to what it's like. I'd
- be lucky to make if fifty yards before a radscorpion shoved a foot-long stinger up my ass. Or even worse, I'd get captured
- and tortured by a gang of maniac raiders *or* I'd be eaten alive by cannibalistic tribals. Whatever. I just know that if
- I left here, I'd be fucked. So no, I'm stuck here.}
-{311}{}{Hey, it's not *that* bad out there... Actually, you're right. You probably wouldn't even make it to Gecko.
- At least, not without help. But what if I said I'd escort you?}
+{300}{}{Formatera den och stick sen, för de vill inte ha dig här. Bry dig inte ens om att komma och berätta för mig
+ att du gjorde det, för jag måste låtsas vara lika förbannad som alla andra, annars misstänker de att något är på gång. Tack igen för att du
+ gör det här. Det är för deras eget bästa.}
+{301}{}{Om du säger det så. Hej då.}
+{310}{}{Är du inte klok? Jag har aldrig varit ute i ödemarken, men jag har en jävligt bra uppfattning om hur det är. Jag skulle
+ ha tur om jag klarar mig femtio meter innan en radioaktiv skorpion kör upp en meterlång gadd i röven på mig. Eller ännu värre, jag skulle bli tillfångatagen
+ och torterad av ett gäng galna plundrare *eller* så skulle jag bli uppäten levande av en kannibalistisk stam. Hur som helst. Jag vet bara att om
+ jag drar härifrån, skulle jag vara körd. Så nej, jag är fast här.}
+{311}{}{Det är inte *så* illa där ute... Faktiskt, så har du rätt. Du skulle förmodligen inte ens ta dig till Gecko.
+ Åtminstone inte utan hjälp. Men tänk om jag sa att jag skulle eskortera dig?}
 {312}{}{Sucks to be you. Bye.}
-{313}{}{Keep your hopes up. I'm sure there is a town nearby that would be safe to travel to.}
-{315}{}{Yeah, well if you find one, let me know.}
-{316}{}{Will do. Bye.}
-{320}{}{To Gecko? That's the ghoul town, right? Thanks, but no thanks.}
-{321}{}{Hey, the ghouls there are actually really friendly. Besides, I know one in particular that loves a good game of Tragic.}
+{313}{}{Håll hoppet uppe. Jag är säker på att det finns en stad i närheten som är säker att resa till.}
+{315}{}{Ja, om du hittar en, så säg till.}
+{316}{}{Fixar det. Hej då.}
+{320}{}{Till Gecko? Det är ghulstaden, eller hur? Tack, men nej tack.}
+{321}{}{Ghulerna där är faktiskt riktigt vänliga. Dessutom vet jag en som älskar ett bra parti Tragik.}
 {322}{}{Hey, the ghouls there are actually really friendly.}
 {323}{}{Hey, I hear the ghouls there are actually really friendly.}
 {324}{}{Alright. Suit yourself. Bye.}

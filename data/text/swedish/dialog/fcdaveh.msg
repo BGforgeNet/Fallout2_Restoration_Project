@@ -4,7 +4,7 @@
 {103}{}{Why do you want to hurt us?}
 {104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
-{106}{}{How can I help you?}
+{106}{}{Hur kan jag hjälpa dig?}
 {107}{}{Vad vill du?}
 {108}{}{Da... oooh...}
 {109}{}{Vem är du?}

@@ -1,11 +1,11 @@
-{100}{}{You see Hank.}
-{101}{}{You see a greasy monk.}
-{102}{}{He is messing with a still.}
-{200}{}{Hey, buddy. Do you have a lighter on you?}
-{201}{}{Yep. [Hand your lighter to him.]}
-{202}{}{This is perfect. Thanks!}
-{203}{}{Out of curiosity, what exactly are you doing here?}
-{204}{}{Sure. Since you brought me a lighter, here's one on the house.}
+{100}{}{Du ser Hank.}
+{101}{}{Du ser en oljig munk.}
+{102}{}{Han mixtrar med en destilleringsmaskin.}
+{200}{}{Hej, kompis. Har du en tändare på dig?}
+{201}{}{Japp. [Ge honom din tändare.]}
+{202}{}{Det här är perfekt. Tack för det!}
+{203}{}{Av ren nyfikenhet, vad exakt gör du här?}
+{204}{}{Visst. Eftersom du gav mig en tändare, så bjuder jag på en.}
 {205}{}{[Drick det.]}
 {206}{}{Jag har ändrat mig Jag vill inte ha någon alkohol. Hej då.}
 {207}{}{(Du känner dig varm och avslappnad efter att du har druckit vinet).}
@@ -34,15 +34,15 @@
 {400}{}{Åh, titta på alla vackra stjärnor!}
 {500}{}{Hallå. Behöver du något?}
 {501}{}{Hej, tack igen för tändaren. Den är bättre än min gamla.}
-{600}{}{We brew our own alcohol here at the monastery. Some of the most powerful stuff you'll taste in the Wastes.}
-{601}{}{Mind if I try some?}
-{602}{}{Sounds interesting. I must be going.}
-{700}{}{That's too bad. I lost mine recently and I can't seem to find it anywhere. If you ever get a hold of one,
- I'd be glad to take it off your hands.}
-{701}{}{Sure. If I come across one I'll let you know. Bye.}
-{702}{}{Sorry. I'm a bit of a collector and keep all that I find. Bye.}
-{800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
-{810}{}{Yeah, that's what I need. Will you give it to me?}
-{811}{}{Otay. I no likee it.}
-{812}{}{I no give you.}
-{820}{}{You no now burn self too. Bye!}
+{600}{}{Vi brygger vår egen alkohol här i klostret. Några av de starkaste sakerna du kommer att smaka i ödemarkerna.}
+{601}{}{Får jag smaka lite?}
+{602}{}{Låter intressant. Jag måste gå.}
+{700}{}{Det var tråkigt. Jag förlorade min nyligen och jag kan inte hitta den någonstans. Om du någonsin får tag på en,
+ skulle jag gärna vilja ha den.}
+{701}{}{Visst. Om jag hittar en så hör jag av mig. Hej då.}
+{702}{}{Jag är ledsen. Jag är lite av en samlare och behåller allt jag hittar. Hej då.}
+{800}{}{Tenn-hare? Jag har en eldgörare. Den bränna mig många gånger. (Du håller upp en tändare.)}
+{810}{}{Ja, det är vad jag behöver. Kan du ge den till mig?}
+{811}{}{Otej. Jag inte gilla den.}
+{812}{}{Jag inte ge dig.}
+{820}{}{Du inte bränna dig också nu. Heddå!}

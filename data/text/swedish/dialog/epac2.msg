@@ -72,7 +72,7 @@
 {390}{}{Ah, welcome back. Have you gotten a chance to test the Solar Scorcher?}
 {391}{}{Sure did. It scorched the hell out of things.}
 {392}{}{Sure did, but the piece of shit broke on me. I had to trash it.}
-{393}{}{No, not yet.}
+{393}{}{Nej, inte än.}
 {394}{}{I'll get around to it.}
 {400}{}{Excellent! I'm delighted to know it works as intended. Thank you for assisting me with this. Why don't you go
  ahead and keep the Solar Scorcher, I'd rather it get some use than sit around here and collect dust.}

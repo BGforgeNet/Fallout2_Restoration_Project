@@ -38,35 +38,35 @@
 {175}{}{Why? Look around you -- our village dies. The gardens wither and
  every day children and old ones collapse. You must bring Eden to us before
  it is too late!}
-{176}{}{And I will take care of it. Goodbye.}
-{177}{}{I am the Chosen One -- I "must" do only as I
- please. Goodbye.}
-{178}{}{I don't remember his name, just that he was old and loud -- too
- loud for proper manners -- but he knew many things. He was from Klamath, east
- like I said.}
+{176}{}{Och jag ska ta hand om det. Adjö.}
+{177}{}{Jag är den Utvalde - jag "måste " bara göra som jag
+ behagar. Adjö.}
+{178}{}{Jag minns inte hans namn, bara att han var gammal och högljudd - för
+ högljudd för att uppföra sig ordentligt - men han visste många saker. Han var från Klamath, österut
+ som jag sa.}
 {179}{}{Tack, hej då.}
-{180}{}{Are you still here? You must go find the GECK. Staying here
- doesn't help us.}
-{181}{}{This bridge is all you need to worry about,
- friend. I can take care of myself.}
-{182}{}{I was just heading out. Goodbye, my friend.}
-{183}{}{I will speak to you no longer, insubordinate pig!}
-{184}{}{I would like to ask you another question.}
-{185}{}{That was quick! Have you found the holy Vault 13?}
+{180}{}{Är du kvar här? Du måste gå och hitta GECK. Att stanna här
+ hjälper oss inte.}
+{181}{}{Den här bron är allt du behöver bry dig om,
+ min vän. Jag kan ta hand om mig själv.}
+{182}{}{Jag var på väg ut. Adjö, min vän.}
+{183}{}{Jag tänker inte tala med dig längre, ditt olydiga svin!}
+{184}{}{Jag skulle vilja fråga dig något annat.}
+{185}{}{Det var snabbt! Har du hittat det heliga Valv 13?}
 {186}{}{Ja.}
-{187}{}{No, not yet.}
-{188}{}{You have? Wonderful! Did you bring back the
- GECK?}
+{187}{}{Nej, inte än.}
+{188}{}{Har du? Underbart! Tog du med dig GECK:en
+ tillbaka?}
 {189}{}{Nej.}
-{190}{}{No. I haven't spoken to the people of the vault yet.}
-{191}{}{I don't believe that's any business of yours, my friend.}
-{192}{}{No? Chosen One, three old ones have died since you left. You must
- not waste any more time.}
-{193}{}{I'll find it, don't worry.}
-{194}{}{I'm getting sick of your constant nagging.}
+{190}{}{Nej, jag har inte pratat med folket i valvet än.}
+{191}{}{Jag tror inte att du har med det att göra, min vän.}
+{192}{}{Inte? Utvalde, tre gamla har dött sedan du lämnade oss. Du får
+ inte slösa mer tid.}
+{193}{}{Jag ska hitta den, oroa er inte.}
+{194}{}{Jag börjar bli trött på ditt ständiga tjat.}
 {195}{}{Well, why are you talking to me? Talk to them, and get the GECK.}
 {196}{}{I will -- all in good time, my friend.}
-{197}{}{I'm getting sick of your constant nagging.}
+{197}{}{Jag börjar bli trött på ditt ständiga tjat.}
 {198}{}{What news of the GECK, Chosen One?}
 {199}{}{I have found the vault!}
 {200}{}{I have not been able to find Vault 13.}

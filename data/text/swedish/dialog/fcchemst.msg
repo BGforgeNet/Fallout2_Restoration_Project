@@ -57,7 +57,7 @@
 {156}{}{Fat chance. Bye.}
 {157}{}{Guards! Guards! The outsider is back! Kill him! }
 {158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
-{159}{}{No, not yet.}
+{159}{}{Nej, inte än.}
 {160}{}{Then why do you keep coming back here to bother me?}
 {161}{}{Because I have some questions.}
 {162}{}{I have no idea. Goodbye.}

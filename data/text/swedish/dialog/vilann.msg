@@ -40,7 +40,7 @@
 {404}{}{Thanks so much!}
 {405}{}{Finally we are safe.}
 {406}{}{Thanks for everything! Be sure to stop by again once we expand the place. I'll finally have a working kitchen to cook in.}
-{410}{}{Hello again.}
+{410}{}{Hej igen.}
 {411}{}{You seem to be quite busy here. Need some help with anything?}
 {412}{}{Det är inte viktigt. Hej då.}
 {420}{}{How did it go?}

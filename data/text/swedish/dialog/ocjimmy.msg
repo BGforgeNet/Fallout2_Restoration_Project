@@ -48,7 +48,7 @@
 {147}{}{All right, but I need to ask you a couple of things first.}
 {148}{}{This is a mainframe computer system and related support devices. From here all functions of the vault are remotely controlled.}
 {149}{}{Uh... what you said.}
-{150}{}{Ah, I see.}
+{150}{}{Åh, jag förstår.}
 {151}{}{Normally the vault overseer would be stationed here but Vault 13 has been fully automated.}
 {152}{}{Varför?}
 {153}{}{Okay, me ask more.}

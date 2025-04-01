@@ -185,7 +185,7 @@
 {461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
 {462}{}{You ready to take me with you?}
 {463}{}{Let's go.}
-{464}{}{No, not yet.}
+{464}{}{Nej, inte än.}
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
 {480}{}{No problem. I'm lighter on my feet without it.}
 {490}{}{Never been better. Let's keep going.}

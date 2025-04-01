@@ -100,7 +100,7 @@
  your words. I sense great wisdom in you, wanderer. It is a pity I have met very few like you.}
 {456}{}{Thanks. I'd like to know something else though.}
 {457}{}{Very well. I'd like to know something else though.}
-{500}{}{Stop that!}
+{500}{}{Sluta med det där!}
 {501}{}{You gain %d experience points for bringing back the book.}
 {600}{}{I fixed your broken waterpump.}
 {601}{}{That is great news, indeed. That waterpump had been acting up for quite some time. Those merchants said they
@@ -150,7 +150,7 @@
 {1112}{}{Do you mean this book?}
 {1113}{}{Before I go, let me ask you something else.}
 {1411}{}{Very interesting. I have to go now.}
-{3000}{}{How can I help you?}
+{3000}{}{Hur kan jag hjälpa dig?}
 {4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
 {4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
 {4177}{}{I've killed the beast.}
