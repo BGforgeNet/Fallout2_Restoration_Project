@@ -1,8 +1,8 @@
-{100}{}{You see a middle aged monk.}
-{101}{}{You see Brother Matthew.}
-{102}{}{He is standing at a podium preaching to the citizens of the Abbey.}
-{200}{}{Good people of the Abbey. Take a moment to listen, for I have much to say.}
-{201}{}{Here we collect, the holy relics of an age long past.}
+{100}{}{Du ser en medelålders munk.}
+{101}{}{Du ser broder Matthew.}
+{102}{}{Han står på ett podium och predikar för Klostrets invånare.}
+{200}{}{Gott folk i Klostret. Ta er en stund att lyssna, för jag har mycket att säga.}
+{201}{}{Här samlar vi de heliga relikerna från en svunnen tid.}
 {202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
 {203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}
 {204}{}{We must guard and care for it, though the flame has gone cold;}

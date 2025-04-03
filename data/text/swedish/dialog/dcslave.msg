@@ -114,7 +114,7 @@
 {521}{}{Rot in hell!}
 {522}{}{You'll pay for this.}
 {523}{}{Why are you even talking to me?}
-{524}{}{Leave me alone.}
+{524}{}{Lämna mig ifred.}
 {525}{}{Jag vill inte prata med dig.}
 {526}{}{How could you?!}
 {527}{}{I don't ever want to see you again.}
@@ -123,7 +123,7 @@
 {530}{}{Please, just let me leave.}
 {531}{}{Just let me be on my way.}
 {532}{}{I still don't want to talk to you.}
-{533}{}{Leave me alone.}
+{533}{}{Lämna mig ifred.}
 {534}{}{No chance.}
 {535}{}{You think this makes things better?}
 {600}{}{We go?}

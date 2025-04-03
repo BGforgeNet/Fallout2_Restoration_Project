@@ -66,7 +66,7 @@
 {209}{}{Don't bother me.}
 {210}{}{I can't help you. Go away.}
 {211}{}{Die in the desert, jerk.}
-{212}{}{Go away.}
+{212}{}{Gå härifrån.}
 {213}{}{Help me!}
 {214}{}{He's over here!}
 {215}{}{Aaaaaaaaaaaaah!}

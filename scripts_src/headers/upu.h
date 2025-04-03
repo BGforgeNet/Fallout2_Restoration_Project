@@ -155,6 +155,7 @@ end
 // call before restock
 procedure move_quest_items begin
    if wipe_inventory != 1 then return 0;
+   if map_first_run then return 0;
    variable tmp_box := create_object(PID_FOOTLOCKER_CLEAN_LEFT, 5, 0);
    variable pid;
    variable pids := [

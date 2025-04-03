@@ -43,9 +43,13 @@ procedure map_update_p_proc;
 procedure Initial_Inven;
 
 export variable i_table_swap    := 0;
+export variable i_gun_table_1   := 0;
+export variable i_gun_table_2   := 0;
 export variable i_gun_merchant  := 0;
 
 export variable i_lao_table_swap := 0;
+export variable i_lao_table_1    := 0;
+export variable i_lao_table_2    := 0;
 export variable i_lao_merchant   := 0;
 
 export variable i_dragon_obj := 0;

@@ -40,12 +40,19 @@
 #define LVAR_Restock_Time               (7)
 #define LVAR_Restock_Time_Fix           (8) //added by killap
 
+#define DUPPO_TBL_1 17327
+#define DUPPO_TBL_2 17724
+
 import variable i_duppo_table;
+import variable i_duppo_tbl_1;
+import variable i_duppo_tbl_2;
 import variable i_duppo_talk;
 import variable i_duppo_obj;
 
 procedure start begin
    i_duppo_table := self_obj;
+   if (self_tile == DUPPO_TBL_1) then i_duppo_tbl_1 := self_obj;
+   if (self_tile == DUPPO_TBL_2) then i_duppo_tbl_2 := self_obj;
 end
 
 /********************************************************************
@@ -147,9 +154,6 @@ procedure map_enter_p_proc begin
 
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
-
-#define DUPPO_TBL_1 17327
-#define DUPPO_TBL_2 17724
 
 //Tools & ammo
          if (self_tile == DUPPO_TBL_1) then begin

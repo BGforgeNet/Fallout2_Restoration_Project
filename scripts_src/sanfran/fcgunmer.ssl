@@ -94,6 +94,8 @@ procedure Node014;
    Needs to be saved, make it a map variable (MVAR_) */
 
 import variable i_table_swap;
+import variable i_gun_table_1;
+import variable i_gun_table_2;
 import variable i_gun_merchant;
 
 
@@ -126,16 +128,15 @@ procedure map_enter_p_proc begin
    if (not is_loading_game) then begin
       if (game_time > local_var(LVAR_Restock_Money)) then begin
          if (self_caps < 5000) then
-            item_caps_adjust(i_table_swap, Random(2000, 5000)); //edit by killap (expansion) - was self_obj
+            item_caps_adjust(i_table_swap, Random(2000, 5000)); //edit by killap - was self_obj
          set_local_var(LVAR_Restock_Money, game_time + (ONE_GAME_WEEK * Random(1, 3)));
       end
    end
 
-   i_gun_merchant := self_obj; //added by killap (expansion)
-
+   i_gun_merchant := self_obj; //added by killap
 end
 
-//added by killap (expansion)
+//added by killap
 procedure map_update_p_proc begin
    if (i_gun_merchant <= 0) then
       i_gun_merchant := self_obj;
@@ -184,6 +185,8 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
+   variable obj, caps;
+
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION1;
@@ -192,14 +195,23 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   //set_local_var(LVAR_Money, self_caps); -comment out by killap (expansion)
-   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap (expansion)
+   //set_local_var(LVAR_Money, self_caps); -comment out by killap
+   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap
 
    move_obj_inven_to_obj(self_obj, swap_obj);
    move_obj_inven_to_obj(i_table_swap, self_obj);
 
-   //self_caps_adjust(local_var(LVAR_Money)); -comment out by killap (expansion)
-   //set_local_var(LVAR_Money, 0); -comment out by killap (expansion)
+   if (i_table_swap == i_gun_table_1) then begin
+      obj := i_gun_table_2;
+   end else begin
+      obj := i_gun_table_1;
+   end
+   caps := item_caps_total(obj);
+   self_caps_adjust(caps);
+   item_caps_adjust(obj, -caps);
+
+   //self_caps_adjust(local_var(LVAR_Money)); -comment out by killap
+   //set_local_var(LVAR_Money, 0); -comment out by killap
 
    if (san_fran_flag(SF_SHI_ENEMY)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
@@ -229,8 +241,8 @@ procedure talk_p_proc begin
       end_dialogue;
    end
 
-   //set_local_var(LVAR_Money, self_caps); -comment out by killap (expansion)
-   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap (expansion)
+   //set_local_var(LVAR_Money, self_caps); -comment out by killap
+   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap
 
    move_obj_inven_to_obj(self_obj, i_table_swap);
    move_obj_inven_to_obj(swap_obj, self_obj);
@@ -241,8 +253,8 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
    end*/
-   //item_caps_adjust(self_obj, local_var(LVAR_Money)); -comment out by killap (expansion)
-   //set_local_var(LVAR_Money, 0); -comment out by killap (expansion)
+   //self_caps_adjust(local_var(LVAR_Money)); -comment out by killap
+   //set_local_var(LVAR_Money, 0); -comment out by killap
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like

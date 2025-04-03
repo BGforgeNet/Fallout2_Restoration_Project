@@ -102,6 +102,8 @@ procedure combat_p_proc;
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
 import variable i_duppo_table;
+import variable i_duppo_tbl_1;
+import variable i_duppo_tbl_2;
 import variable i_duppo_talk;
 import variable i_duppo_obj;
 
@@ -195,7 +197,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   variable obj;
+   variable obj, caps;
 
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_TOLERANT;
@@ -205,6 +207,14 @@ procedure talk_p_proc begin
 
    GetReaction;
 
+   if (i_duppo_table == i_duppo_tbl_1) then begin
+      obj := i_duppo_tbl_2;
+   end else begin
+      obj := i_duppo_tbl_1;
+   end
+   caps := item_caps_total(obj);
+   self_caps_adjust(caps);
+   item_caps_adjust(obj, -caps);
    move_obj_inven_to_obj(i_duppo_table, self_obj);
 
    start_gdialog(NAME,self_obj,4,-1,-1);
@@ -215,8 +225,8 @@ procedure talk_p_proc begin
    set_local_var(LVAR_Herebefore, 1);
 
    move_obj_inven_to_obj(self_obj, i_duppo_table);
-   //self_caps_adjust(item_caps_total(i_duppo_table)); -comment out by NovaRain (expansion)
-   //item_caps_adjust(i_duppo_table, -self_caps); -comment out by NovaRain (expansion)
+   //self_caps_adjust(item_caps_total(i_duppo_table)); -comment out by NovaRain
+   //item_caps_adjust(i_duppo_table, -self_caps); -comment out by NovaRain
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like

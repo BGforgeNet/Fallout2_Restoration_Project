@@ -92,7 +92,7 @@
 {462}{}{Det här är meningslöst.}
 {470}{}{Hittade du något?}
 {471}{}{Ja. De ska ha fest ikväll.}
-{472}{}{Not yet. I'll let you know.}
+{472}{}{Inte än. Jag hör av mig.}
 {473}{}{Gra.}
 {474}{}{Na.}
 {480}{}{Utmärkt! De kommer säkert att lämna ett skelett av personal. Det borde vara bra

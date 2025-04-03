@@ -144,6 +144,8 @@ procedure Node052;
    Needs to be saved, make it a map variable (MVAR_) */
 
 import variable i_lao_table_swap;
+import variable i_lao_table_1;
+import variable i_lao_table_2;
 import variable i_lao_merchant;
 
 /* Local variables which do not need to be saved between map changes. */
@@ -239,6 +241,8 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
+   variable obj, caps;
+
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_INTOLERANT;
    Karma_Perception:=KARMA_PERCEPTION0;
@@ -248,12 +252,21 @@ procedure talk_p_proc begin
    GetReaction;
 
    //set_local_var(LVAR_Money, self_caps); -comment out by killap
-   //item_caps_adjust(self_obj, -local_var(LVAR_Money)); -comment out by killap
+   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap
 
    move_obj_inven_to_obj(self_obj, swap_obj);
    move_obj_inven_to_obj(i_lao_table_swap, self_obj);
 
-   //item_caps_adjust(self_obj, local_var(LVAR_Money)); -comment out by killap
+   if (i_lao_table_swap == i_lao_table_1) then begin
+      obj := i_lao_table_2;
+   end else begin
+      obj := i_lao_table_1;
+   end
+   caps := item_caps_total(obj);
+   self_caps_adjust(caps);
+   item_caps_adjust(obj, -caps);
+
+   //self_caps_adjust(local_var(LVAR_Money)); -comment out by killap
    //set_local_var(LVAR_Money, 0); -comment out by killap
 
    if (san_fran_flag(SF_SHI_ENEMY)) then begin
@@ -273,12 +286,12 @@ procedure talk_p_proc begin
    end
 
    //set_local_var(LVAR_Money, self_caps); -comment out by killap
-   //item_caps_adjust(self_obj, -local_var(LVAR_Money)); -comment out by killap
+   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap
 
    move_obj_inven_to_obj(self_obj, i_lao_table_swap);
    move_obj_inven_to_obj(swap_obj, self_obj);
 
-   //item_caps_adjust(self_obj, local_var(LVAR_Money)); -comment out by killap
+   //self_caps_adjust(local_var(LVAR_Money)); -comment out by killap
    //set_local_var(LVAR_Money, 0); -comment out by killap
 end
 

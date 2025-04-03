@@ -53,6 +53,8 @@ procedure validHandle(variable handle);
    Needs to be saved, make it a map variable (MVAR_)
 *******************************************************************/
 import variable i_lao_table_swap;
+import variable i_lao_table_1;
+import variable i_lao_table_2;
 import variable i_lao_merchant;
 
 /*******************************************************************
@@ -74,6 +76,8 @@ import variable i_lao_merchant;
 
 procedure start begin
    i_lao_table_swap := self_obj;
+   if (self_tile == TABLE_1) then i_lao_table_1 := self_obj;
+   if (self_tile == TABLE_2) then i_lao_table_2 := self_obj;
 end
 
 procedure timed_event_p_proc begin

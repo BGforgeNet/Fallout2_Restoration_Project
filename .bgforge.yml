@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/BGforgeNet/bgforge.yml/refs/heads/main/schema.json
+
 translation:
   tra_dir: data/text
   extract_format: sfall

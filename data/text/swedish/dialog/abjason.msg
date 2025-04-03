@@ -89,47 +89,47 @@
 {316}{}{Fixar det. Hej då.}
 {320}{}{Till Gecko? Det är ghulstaden, eller hur? Tack, men nej tack.}
 {321}{}{Ghulerna där är faktiskt riktigt vänliga. Dessutom vet jag en som älskar ett bra parti Tragik.}
-{322}{}{Hey, the ghouls there are actually really friendly.}
-{323}{}{Hey, I hear the ghouls there are actually really friendly.}
-{324}{}{Alright. Suit yourself. Bye.}
+{322}{}{Hörru, ghulerna där är faktiskt riktigt trevliga.}
+{323}{}{Hörru, jag har hört att ghulerna där faktiskt är riktigt trevliga.}
+{324}{}{Okej, då. Skyll dig själv. Adjö.}
 {330}{}{No shit, another Tragic player? Hmm, that kind of changes things... I wonder if he'd have a Black Dahlia to
  trade. Alright. I'll go if you'll escort me.}
-{331}{}{Lets go.}
-{332}{}{Alright, but I need to take care of some things first. I'll let you know when I'm ready to go.}
-{340}{}{Oh yeah? That doesn't change the fact that they look like brahmin shit. No thanks.}
-{341}{}{Alright. Suit yourself. Bye.}
+{331}{}{Komså går vi.}
+{332}{}{Okej, men jag måste ta hand om några saker först. Jag hör av mig när jag är redo att resa.}
+{340}{}{Jasså? Det ändrar inte det faktum att de ser ut som brahminskit. Nej tack.}
+{341}{}{Okej, då. Skyll dig själv. Adjö.}
 {350}{}{Vad vill du?}
-{351}{}{I just wanted to say hi. See ya.}
-{352}{}{I changed my mind. I'll format the computer for you.}
-{353}{}{Hey, you might want to reconsider my offer to take you to Gecko, because I know
- someone there that loves a good game of Tragic.}
-{354}{}{Hey, I know someone in Gecko that loves a good game of Tragic. I could take you there.}
-{360}{}{Are we ready to go yet? I'm dying to know what kind of Tragic cards this guy's got.}
-{361}{}{Alright, let's go.}
-{362}{}{Not yet. I'll let you know.}
-{370}{}{[Upon arriving in Gecko you introduce the young monk to Wooz. They quickly hit it off and begin comparing their
- Tragic card decks. You're about to leave when Brother Jason pulls himself away from Tragic long enough to have a word with you.]}
+{351}{}{Jag ville bara säga hej. Vi ses.}
+{352}{}{Jag ändrade mig. Jag ska formatera datorn åt dig.}
+{353}{}{Du kanske vill tänka lite mer på mitt erbjudande att ta dig till Gecko, för jag känner
+ någon där som älskar att spela Tragik.}
+{354}{}{Jag känner nån i Gecko som älskar att spela Tragik. Jag kan ta med dig dit.}
+{360}{}{Är vi redo att dra snart? Jag vill gärna veta vad för slags Tragik-kort den här snubben har.}
+{361}{}{Okej, då drar vi.}
+{362}{}{Inte än. Jag hör av mig.}
+{370}{}{[När ni anländer till Gecko presenterar du den unge munken för Wooz. De kommer snabbt överens och börjar jämföra sina
+ Tragik-kortlekar. Du är på väg att gå därifrån när broder Jason drar sig undan från Tragik länge nog för att snacka lite med dig].}
 {371}{}{[MER]}
 {372}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me. Here,
  I, uh, "borrowed" this from the Abbey's Memorabilia, amazingly it's one of the few tech relics that still works.
  [He hands you a Stealth Boy.] See ya.}
 {373}{}{Tack. Hej då.}
-{374}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
+{374}{}{Jag är bara glad att jag slipper höra dig gnälla mer. Hej då.}
 {380}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me here.
  Here, [He reaches into his pocket, then frowns.] what the hell? I could swear I had it. Uh, sorry, but looks like I misplaced
  your reward, so you'll have to make due with a simple thanks. See ya.}
-{381}{}{Oh, uh, don't worry about it. Just glad I could help. Bye.}
-{382}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
-{400}{}{Can't talk... must build more powerful deck...}
-{500}{}{Leave me alone.}
-{501}{}{Go away.}
-{502}{}{Fuck off.}
-{600}{}{Oh, hey, it's you. Somebody blew up the reactor at Gecko and all the ghouls left. No reason for me to stay there,
- so I left and came back here. Luckily for me the monks here didn't question my absence, so I'm not in any trouble for leaving.
- This sucks though, I thought I was going to have a new life doing what I love. [He sighs deeply]}
-{601}{}{Sorry to hear that. See you around.}
-{602}{}{That's life. One minute you're on top of the world and the next instant you're face down in the mud. Live and learn. Bye.}
-{610}{}{Guess I just gotta get used to this place.}
-{1000}{}{You safely escort Brother Jason to his new home.}
+{381}{}{Oroa dig inte för det. Jag är bara glad att jag kunde hjälpa till. Hej då.}
+{382}{}{Jag är bara glad att jag slipper höra dig gnälla mer. Hej då.}
+{400}{}{Kan inte prata... måste bygga en starkare kortlek...}
+{500}{}{Lämna mig ifred.}
+{501}{}{Gå härifrån.}
+{502}{}{Dra åt helvete.}
+{600}{}{Åh, hej, det är du. Nån sprängde reaktorn vid Gecko och alla ghuler stack. Ingen anledning för mig att stanna där,
+ så jag gick därifrån och kom tillbaka hit. Lyckligtvis för mig ifrågasatte inte munkarna här min frånvaro, så jag är inte i trubbel för att jag stack.
+ Det här suger dock, jag trodde att jag skulle få ett nytt liv och göra det jag älskar. [Han suckar djupt]}
+{601}{}{Det var tråkigt att höra. Vi ses.}
+{602}{}{Sånt är livet. Ena stunden är du på toppen av världen och i nästa stund ligger du med ansiktet i leran. Lev och lär. Hej då.}
+{610}{}{Antar att jag bara får vänja mig vid det här stället.}
+{1000}{}{Du eskorterar broder Jason säkert till hans nya hem.}

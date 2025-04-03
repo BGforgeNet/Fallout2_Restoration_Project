@@ -50,7 +50,7 @@
 {174}{}{So those bodies are what that stench was, huh?}
 {175}{}{Why do you hurt us?}
 {176}{}{Humans never trust me.}
-{177}{}{Leave me alone.}
+{177}{}{Lämna mig ifred.}
 {178}{}{Why don't you die already?}
 {179}{}{Why is it that humans always crush what they fear?}
 {180}{}{You are scum.}

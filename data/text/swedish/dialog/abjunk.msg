@@ -1,4 +1,4 @@
-{100}{}{You see pre-war gadgets.}
-{101}{}{Displayed on the table, like holy relics, is an impressive array of pre-war gadgets and gizmos.
- Too bad none of it works anymore.}
-{102}{}{There is nothing of use here.}
+{100}{}{Du ser prylar från förkrigstiden.}
+{101}{}{På bordet, som heliga reliker, visas en imponerande mängd prylar och grunkor från förkrigstiden.
+ Synd bara att inget av det fungerar längre.}
+{102}{}{Det finns inget användbart här.}

@@ -38,6 +38,8 @@
 
 export variable cyber_dog_obj := 0;
 export variable i_duppo_table := 0;
+export variable i_duppo_tbl_1 := 0;
+export variable i_duppo_tbl_2 := 0;
 export variable i_duppo_talk  := 0;
 export variable i_duppo_obj   := 0;
 
