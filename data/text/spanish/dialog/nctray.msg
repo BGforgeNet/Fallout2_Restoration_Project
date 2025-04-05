@@ -153,7 +153,7 @@
 {552}{}{Por supuesto. Aquí están las 500 fichas.}
 {553}{}{¿Qué tal 300 fichas?}
 {554}{}{Ahora mismo no llevo encima tanto. ¿Qué tal si vuelvo cuando tenga el dinero?}
-{555}{}{¿Qué tal un poco más de dulce, dulce amor?}
+{555}{}{¿Qué tal un poco más de dulce amor?}
 {556}{}{¿Qué tal mi cuerpo? ¿Eso te interesa?}
 {558}{}{Estoy CANSADO de darle vueltas a esta gilipollez. Traga plomo, chatarrero...}
 {559}{}{No quiero que vuelvas a tocar mi coche. Me largo de aquí.}

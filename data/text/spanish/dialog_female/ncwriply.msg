@@ -117,7 +117,7 @@
 {434}{}{Nada.}
 {440}{}{(El hombre pequeño se pone blanco, da un paso atrás, se da la vuelta y echa a correr, gritando como un loco).}
 {441}{}{(El chico se pone blanco, da un paso atrás, se da la vuelta y echa a correr, gritando como un loco).}
-{442}{}{Jee Jee... ¡Corre, hombre pequeño! ¡CORRE!}
+{442}{}{Je Je... ¡Corre, hombre pequeño! ¡CORRE!}
 {443}{}{Gamberrete…}
 {450}{}{A insectos de metal y soldados. }
 {451}{}{(Mira tu equipamiento, y se fija en una de tus pistolas). ¿Puedo jugar con tu arma?}

@@ -5,7 +5,10 @@
 {104}{}{¿Qué estabas haciendo? ¿Intentar que me mataran en el templo?}
 {105}{}{Por supuesto.}
 {106}{}{Me gustaría pensármelo un poco más.}
-{107}{aeld2a}{Estoy orgullosa de ti, Elegido. Has superado muchos obstáculos. Ahora. Debes encontrar el Refugio 13. Refugio 13. Trae el GECK. GECK. Aquí hay una botella brillante. Vic nos la dio. Vic. Es un mercader en Klamath. Klamath. Busca a Vic. Encuentra el Refugio 13. Encuentra el GECK. Vuelve a casa. Haz lo que puedas, pequeño.}
+{107}{aeld2a}{Estoy orgullosa de ti, Elegido. Has superado muchos obstáculos. Ahora. Debes encontrar el Refugio 13.
+ Refugio 13. Trae el GECK a casa. GECK. Aquí hay una botella brillante. Vic nos la dio. Vic.
+ Es un mercader en Klamath. Klamath. Busca a Vic. Encuentra el Refugio 13. Encuentra el GECK.
+ Vuelve a casa. Haz lo que puedas, pequeño.}
 {112}{aeld2b}{No has encontrado el refugio. ¡Busca Refugio! Refugio 13.}
 {113}{}{Uh.}
 {114}{aeld3}{Elegido, ¿quieres que muramos todos? ¡Debes encontrar el Refugio!}

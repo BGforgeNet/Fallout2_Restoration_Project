@@ -153,7 +153,7 @@
 {618}{}{Será mejor que nos vayamos pronto por si acaso Metzger piensa que fuimos nosotros los que matamos a sus guardias.}
 {619}{}{¿Has estado en Nuevo Reno? Quizás nos dirijamos allí... o al norte.}
 {650}{}{¡De acuerdo! ¡Vamos! ¡Seguidme todos!}
-{700}{}{Muy bien, nos ocupamos de la pandilla esqueleto aquí en la iglesia, pero todavía Tyler y sus compinches están en el área residencial.  Deberían estar bastante borrachos por ahora y podemos atraparlos desprevenidos fácilmente. ¿Estás lista para terminar esto?}
+{700}{}{Muy bien, nos ocupamos de la pandilla esqueleto aquí en la iglesia, pero todavía Tyler y sus compinches están en el área residencial. Deberían estar bastante borrachos por ahora y podemos atraparlos desprevenidos fácilmente. ¿Estás lista para terminar esto?}
 {701}{}{Déjame sanar primero. Te avisaré cuando estoy listo.}
 {702}{}{Vamos.}
 {710}{}{¿Estás lista para atacar a Tyler y su equipo?}

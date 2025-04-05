@@ -165,7 +165,7 @@ Así que mi amigo piloto... ¿qué puede hacer Jeta Jimmy J por ti hoy?}
  distancia. Gran Jesús Mordino no permite que nadie se acerque a él si no es alguien de gran confianza de la Familia.}
 {561}{}{De acuerdo entonces, negociemos.}
 {564}{}{De acuerdo entonces. Gracias, Jimmy. Tengo que irme.}
-{570}{}{Bueno, es es una… historia… completamente distinta, mi amigo piloto. Oh sí, desde luego.}
+{570}{}{Bueno, es una historia… muy… diferente, mi amigo piloto. Oh sí.}
 {571}{}{Creo que esa es una historia que quiero escuchar. Venga, Jimmy…}
 {572}{}{No importa. Tenía algunas otras preguntas...}
 {573}{}{No creo que tenga tiempo para esa historia, Jimmy. He de irme.}

@@ -51,7 +51,7 @@
 {281}{}{Entro.}
 {282}{}{¿El símbolo?}
 {283}{}{Paso de símbolos. Adiós.}
-{290}{}{Sí, el sagrado talismán de la Renovación. ¡Renovación, Camarada! ¡Renovación!}
+{290}{}{Sí, el talismán sagrado de la renovación. ¡Renueva, camarada! ¡Renueva!}
 {291}{}{Sí, Reno también para ti. Adiós.}
 {300}{}{Renuévate, Hermano. Puedes pasar.}
 {301}{}{Renuévate, Hermana. Puedes pasar.}

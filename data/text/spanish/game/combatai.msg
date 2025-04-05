@@ -786,7 +786,7 @@
 {2113}{}{¡No quiero morir así!}
 {2114}{}{¡Déjanos en paz!}
 {2115}{}{Oh Dios, oh Dios, oh Dios, ¡noooooo!}
-{2116}{}{A mí no, no me mates, ¡por favor!}
+{2116}{}{A mí no, solo no me mates, ¡por favor!}
 {2117}{}{¡No te había hecho nada!}
 {2118}{}{¿Cuál es tu problema?}
 {2119}{}{¡Socorro! ¡Hay un psicópata suelto!}
@@ -1227,7 +1227,7 @@
 {3119}{}{Eh, deja de alejarte de mí.}
 {3120}{}{¡Eres historia!}
 {3121}{}{Carne fresca...}
-{3122}{}{Carne, carne, carne, ¡carne a la boloñesa!}
+{3122}{}{Carne, carne, ¡carne a la boloñesa!}
 {3123}{}{Cerebros...}
 {3124}{}{Cavaré tu tumba...}
 {3125}{}{Espero poder mantener tu cabeza intacta...}
@@ -1902,7 +1902,7 @@
 {32346}{}{¡Impresionante, ca-ri-ño!}
 {32347}{}{Oh, ¿eres tan feo?}
 {32348}{}{Tu cara es así como fea, ¿verdad?}
-{32360}{}{¡No le has dado a mi bazo! ¡JA JA!}
+{32360}{}{¡Fallaste mi bazo! ¡JA JA!}
 {32361}{}{¡APESTAS!}
 {32362}{}{¡Ja ja!¡Aquí mando yo!}
 {32363}{}{Dame un besito, amor.}
@@ -2521,7 +2521,7 @@
 {40066}{}{Nosotros vemos cómo a tú gusta las cojeras.}
 {40067}{}{Oh, eso nos duele a nosotros.}
 {40068}{}{¡Aaaaiiiiieeeeeee!}
-{40069}{}{Nosotros necesitamos mucha mucha hierba ahora.}
+{40069}{}{Nosotros necesitamos mucha hierba ahora.}
 {40070}{}{Nosotros no lo estamos pasando bien, migo.}
 {40071}{}{¿Dónde está hierba cuando nosotros necesitamos?}
 {40072}{}{Nosotros tenemos que hacerte daño por esto ahora.}
@@ -3435,7 +3435,7 @@
 {44864}{}{No necesito dos piernas para matarte.}
 {44870}{}{Genial. Una pierna rota.}
 {44871}{}{¡Maldición! La pierna...}
-{44872}{}{La pierna no... no puedo caminar bien sin ella.}
+{44872}{}{La pierna no... que ya camino mal.}
 {44873}{}{Tú me rompes la pierna, yo te la rompo a ti.}
 {44874}{}{¡Arrggh! ¡Me duele la rodilla!}
 {44880}{}{¡No puedo ver!}

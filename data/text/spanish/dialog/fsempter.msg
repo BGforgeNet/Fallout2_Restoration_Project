@@ -199,12 +199,12 @@ Advertencia! Ascendente a CIN el centro de Pekín servidor no esté disponible. 
 {338}{}{Informe de inteligencia 2077-10-12}
 {339}{}{Informe de inteligencia 2077-10-23}
 {340}{}{}
-{341}{}{::más: más:}
+{341}{}{::más::}
 {342}{}{::volver::}
-{345}{}{De: De La División De Contrainteligencia
- Los disturbios en el Tíbet y en provincias vecinas continúa amenazando la construcción
- de la Eastern Dragon satcom complejo. El presidente Xin órdenes de la intervención militar contra la población. Siguiente
- significativo de la insurgencia de las víctimas, la provincia de que se restauran Chino de control y el resto de los insurgentes son reubicados.}
+{345}{}{De: División De Contrainteligencia
+ Continúan los disturbios en el Tíbet y las provincias vecinas, amenazando la construcción del complejo de comunicaciones por satélite Dragón Oriental.
+ El presidente Xin ordena una intervención militar contra la población. Tras importantes bajas insurgentes,
+ la provincia queda devuelta al control chino y los insurgentes restantes son reasentados.}
 {346}{}{::volver::}
 {350}{}{De: Bioquímica De Guerra De La División De
  Brote de la epidemia en la Unión Soviética amenaza norte de protectorados de la república popular china. BioChem

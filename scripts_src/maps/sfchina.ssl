@@ -40,8 +40,6 @@ procedure start;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
-procedure Initial_Inven;
-
 export variable i_table_swap    := 0;
 export variable i_gun_table_1   := 0;
 export variable i_gun_table_2   := 0;
@@ -70,7 +68,6 @@ end
 
 
 procedure map_enter_p_proc begin
-//   override_map_start_hex(14095,0,2);
 
    //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
    if ((car_current_town == AREA_CAR_OUTTA_GAS) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
@@ -83,8 +80,6 @@ procedure map_enter_p_proc begin
       Check_Create_Car(CAR_SAN_FRANCISCO_HEX, CAR_SAN_FRANCISCO_ELEV)
    //end added
 
-   //Check_Create_Car(CAR_SAN_FRANCISCO_HEX, CAR_SAN_FRANCISCO_ELEV)
-
    //added by killap
    if (map_first_run) then begin
        display_msg(mstr(100));
@@ -96,8 +91,4 @@ end
 
 procedure map_update_p_proc begin
    Lighting;
-end
-
-
-procedure Initial_Inven begin
 end

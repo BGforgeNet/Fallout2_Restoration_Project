@@ -48,7 +48,7 @@
 {147}{}{¡Por supuesto, el universo es determinista! Después de todo, se nos ha puesto aquí con algún propósito que nuestro Creador ya conoce.}
 {148}{}{Absurdo. No hay una fuerza organizativa que determine nuestros destinos. El hecho es que no hay un 'poder superior' detrás de nada. El universo es solamente una casualidad. Soy el Elegido porque otros lo han dicho. Eso es todo.}
 {149}{}{AHS: Buscador Alineado del Eje. Obviamente no eres un Iluminado.}
-{150}{}{Una creencia primitiva... pero muestras signos prometedores.  Podemos mostrarte el verdadero camino. ¿Te gustaría saber más?}
+{150}{}{Una creencia primitiva... pero muestras signos prometedores. Podemos mostrarte el verdadero camino. ¿Te gustaría saber más?}
 {151}{}{Sí.}
 {152}{}{No.}
 {153}{}{No puedo ayudarte con eso. Sin embargo, nuestros científicos de San Francisco quizá sepan algo. Tal vez deberías viajar allí.}

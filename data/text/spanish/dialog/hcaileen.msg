@@ -1,6 +1,6 @@
 {100}{}{Ves una mujer ligeramente atractiva de mediana edad.}
 {101}{}{Ves a Aileen, una de las químicas de la ciudad.}
-{102}{}{Ves una una mujer ligeramente atractiva de mediana edad. Parece curtida y competente. Sus manos están impregnadas de sustancias químicas.}
+{102}{}{Ves una mujer ligeramente atractiva de mediana edad. Parece curtida y competente. Sus manos están impregnadas de sustancias químicas.}
 {103}{}{Gracias por ayudar a la causa.}
 {104}{}{Estoy encantada de que seas uno de nosotros.}
 {105}{}{Se lo demostraremos a esos mutantes.}

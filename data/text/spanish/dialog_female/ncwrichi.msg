@@ -110,12 +110,12 @@
 {529}{}{Pues sí. Se llama Marcus. No te preocupes, que no muerde.}
 {530}{}{Pues sí, ES un mutante. Dios, espero que no le apetezcan los niños pequeños.}
 {531}{}{Pues sí. Un mutante MUY hambriento. Y justo ahora es momento de tomarse un tentempié. Qué conveniente.}
-{532}{}{Pues sí. Oye, siento lo que he oído acerca de de tu hermano, Richie. ¿Sabes lo que le pasó?}
+{532}{}{Pues sí. Oye, siento lo que he oído acerca de tu hermano, Richie. ¿Sabes lo que le pasó?}
 {540}{}{Se detiene y te mira.}
 {541}{}{Hoooola}
 {544}{}{Hola, hombrecillo.}
 {545}{}{Hola, mujercita.}
-{546}{}{Siento lo que he oído acerca de de tu hermano, Richie. ¿Sabes lo que le pasó?}
+{546}{}{Siento lo que he oído acerca de tu hermano, Richie. ¿Sabes lo que le pasó?}
 {555}{}{¿Estás enferma?}
 {556}{}{¿Por qué lo preguntas?}
 {560}{}{PARECES enferma.}
@@ -137,7 +137,7 @@
 {650}{}{¿En serio? ¿Qué más?}
 {665}{}{¿Es un necrófago de VERDAD?}
 {666}{}{¿Necr-rófago?}
-{669}{}{Pues sí, sí que lo es. Se llama Lenny. No te preocupes, que no muerde.}
+{669}{}{Pues sí. Se llama Lenny. No te preocupes, no muerde.}
 {670}{}{Pues sí, ES un necrófago. Dios, espero que no le apetezcan los niños pequeños.}
 {671}{}{Pues sí. Un necrófago MUY hambriento. Y justo ahora es momento de tomarse un tentempié. Qué conveniente.}
 {685}{}{Hola, mutante Mar-cus. Eres terriblemente grande. Je-je... y tu animación inquieta es divertida.}

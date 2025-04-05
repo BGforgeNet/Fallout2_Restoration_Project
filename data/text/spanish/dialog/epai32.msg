@@ -11,7 +11,7 @@
 {214}{}{Atrás.}
 {220}{}{La rotación de cultivos evita una disminución en la fertilidad del suelo, como el crecimiento de la misma cosecha repetidamente en el mismo lugar
  finalmente agota el suelo de diversos nutrientes. Un cultivo que se filtra en el suelo de un tipo de nutriente es seguido
- durante la siguiente temporada de crecimiento por diferentes cultivos que devuelve ese nutriente en el suelo o dibuja una diferente relación de
+ durante la siguiente temporada de crecimiento por diferentes cultivos que devuelve ese nutriente en el suelo o dibuja una diferente relación
  de nutrientes.}
 {221}{}{[MÁS]}
 {222}{}{La rotación de cultivos también se utiliza para el control de plagas y enfermedades que pueden establecerse en el suelo a lo largo del tiempo.

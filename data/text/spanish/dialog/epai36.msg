@@ -15,7 +15,7 @@
  brillantes científicos están tratando de empalme humanos y de animales de ADN!}
 {201}{}{[MÁS]}
 {210}{}{En teoría, esta nueva ciencia puede que algún día nos permitan crear un "Super Persona". Imagina un Soldado de los estados unidos con la vista
- de un águila, la velocidad de un guepardo, y la fuerza de un mono! Imaginar cómo este "Super Soldado" iba a infundir miedo en los
+ de un águila, la velocidad de un guepardo, y la fuerza de un mono! Imaginar cómo este "Super Soldado" iba a infundir miedo en
  los corazones de los comunistas! Suena a ciencia ficción, pero pronto puede ser un hecho científico!}
 {211}{}{[MÁS]}
 {220}{}{Las criaturas que se ven aquí son los resultados de los experimentos que no hemos cumplido con éxito. En lugar de la eutanasia

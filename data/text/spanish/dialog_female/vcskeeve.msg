@@ -74,7 +74,7 @@ No parecen concebir que alguien deje que los siervos lleven encima nada importan
 {169}{}{Bueno, 200 dólares es demasiado para mí. Puede que vuelva si consigo más dinero.}
 {170}{}{No importa. Quizá hablemos en algún otro momento.}
 {171}{}{Hmmm. Bien, de acuerdo... hoy me siento caritativo. Pero no le cuentes a ningún otro de tus amigos
-  forasteros que los conseguiste tan baratos.}
+ forasteros que los conseguiste tan baratos.}
 {172}{}{De acuerdo.}
 {173}{}{Simplemente dame los malditos documentos.}
 {174}{}{De acuerdo, ya están impresos. Aquí están... "Ciudadano". Y no le cuentes a nadie nada de esto,

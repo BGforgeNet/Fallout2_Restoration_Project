@@ -16,7 +16,7 @@
 {227}{}{Esteroides}
 {228}{}{Mentats}
 {229}{}{Psico}
-{230}{}{¡Gran elección! Para hacer un Estimulante, por favor dame de comer: una Flor de Broquía, una Raíz de Xandría y una Aguja hipodérmica vacía. ¡Yum Yum!}
+{230}{}{¡Excelente elección! Para preparar un estimulante, por favor, aliméntame con: una flor de Broquia, una raíz de Xandria y una aguja hipodérmica vacía. ¡Ñam, ñam!}
 {231}{}{Hacer un estimulante. }
 {232}{}{No tengo esos en este momento.}
 {233}{}{Volver al menú principal.}

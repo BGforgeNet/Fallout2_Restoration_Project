@@ -27,7 +27,7 @@
 {126}{}{¡Socorro! ¡Un robot viene detrás de mí!}
 {127}{}{¿Hace calor ahí dentro? ¿Hola? ¿Me oyes?}
 {128}{}{¿Qué eres? ¿Eres una persona?}
-{129}{}{Eres muy muy grande.}
+{129}{}{Eres terriblemente grande.}
 {130}{}{¡Waaaaaah!}
 {131}{}{¡No me hagas daño!}
 {132}{}{::llora::}

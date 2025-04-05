@@ -41,7 +41,7 @@
 {294}{}{Sí, sigo teniendo el toque...}
 {305}{}{Giras el tirador, ¡pero la pequeña puerta no se abre!}
 {306}{}{Le das vueltas a la rueda durante varios minutos, y no ocurre nada.}
-{307}{}{¿Hooola? Hooola cajita...}
+{307}{}{¿Holaa? Hooola cajita...}
 {308}{}{Sigues girando su nariz.}
 {309}{}{Te alejas}
 {310}{}{Hmmmm. Quizás los números en estas tres chapas de identificación abran la caja...}

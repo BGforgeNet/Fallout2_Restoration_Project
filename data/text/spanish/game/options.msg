@@ -28,7 +28,7 @@
 {122}{}{Afecta a la velocidad del jugador}
 {123}{}{Pip-Boy discurso}
 {201}{}{Sí}
-{202}{}{No}
+{202}{}{Apagado}
 {203}{}{Fácil}
 {204}{}{Normal}
 {205}{}{Difícil}
@@ -40,7 +40,7 @@
 {211}{}{Detallado}
 {212}{}{Breve}
 {213}{}{Sólo al apuntar}
-{214}{}{Nada}
+{214}{}{Ninguno}
 {215}{}{Mínima}
 {216}{}{Gore}
 {217}{}{Lento}

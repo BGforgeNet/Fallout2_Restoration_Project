@@ -37,7 +37,8 @@
 {279}{}{(Atacas a Mason antes de que pueda continuar).}
 {285}{}{Mira, a lo mejor no lo has ESCUCHADO, tribal, pero esta es la casa de los Salvatore. MI trabajo es asegurarme de que el jefe
  no sea molestado por perritos falderos como tú. Y ahora vuelve con tu tribu y cocina a uno de los tuyos para cenar.}
-{295}{}{¿Estas pistolas? Eh, verás, no sabría decirlo.  Lo he olvidado por completo. (Frunce el ceño). Mira, tribal. Si no mueves tu culo ahora mismo, te quemo vivo. Y ahora lárgate.}
+{295}{}{¿Estas pistolas? Eh, verás, no sabría decirlo. Lo he olvidado por completo. (Frunce el ceño). Mira, tribal. Si no
+ mueves tu culo ahora mismo, te quemo vivo. Y ahora lárgate.}
 {298}{}{¡Está bien! Me voy, me voy.}
 {299}{}{Te vas en silencio.}
 {305}{}{Te he AVISADO, capullo, ahora vas a... (Mason se detiene de repente, escucha algo que tú no puedes oír. Tras un momento, aprieta los dientes). El señor Salvatore dice que puedes entrar... }
@@ -131,7 +132,7 @@
 {542}{}{Eh... lo tengo. Aquí está el dinero.}
 {543}{}{Lo hice, pero no traigo el dinero…}
 {544}{}{Casi. Lo tendré la próxima vez, Mason.}
-{546}{}{Tengo tu tributo aquí aquí mismo... cadáver.}
+{546}{}{Tengo tu tributo aquí mismo... hombre muerto.}
 {555}{}{*Farmacia de Renesco*. En la Zona Oeste. Mil fichas. Y ahora vete.}
 {556}{}{Eso es todo lo que necesitaba saber. Ahora aparta para que pueda hacer mi trabajo, Mason.}
 {565}{}{No tengas tanta prisa, amigo. Te lo voy a dejar MUY claro para que no te equivoques: No vengas a hablar conmigo
@@ -189,7 +190,7 @@
 {755}{}{Hola... señor.}
 {756}{}{Hola... señora.}
 {765}{}{(Mason se detiene de repente, escucha algo que tú no puedes oír. Tras un momento, aprieta los dientes). El señor Salvatore
-  dice que puedes entrar, }
+ dice que puedes entrar, }
 {766}{}{Gracias, capullo sin remedio, me aseguraré de mencionar tu comportamiento al señor Salvatore.}
 {775}{}{(Con expresión de enfado) Desde luego, si lo que INSINÚAS es que no hago bien mi TRABAJO, entonces tú y yo
  podemos mantener una discusión cara a cara ahora mismo. El señor Salvatore no preguntará qué le pasó a tu pobre culo.}
@@ -199,7 +200,7 @@
 {785}{}{No dejes que se ande con tonterías… si lo hace, dile que trabajas para el señor Salvatore. Eso debería solucionar cualquier malentendido. ¿Lo captas?}
 {786}{}{Lo capto. Ahora aparta y deja que vaya a hacer lo mío.}
 {795}{}{Deja de tocarte las pelotas, muchacho, y *encárgate de ello*.}
-{796}{}{Tendría que haberme imaginado esto cuando enviamos a una mujer a hacer el trabajo de un hombre. Deja de *joder* y  *encárgate de ello*.}
+{796}{}{Tendría que haberme imaginado esto cuando enviamos a una mujer a hacer el trabajo de un hombre. Deja de *joder* y *encárgate de ello*.}
 {797}{}{Me encargaré de ello, entonces. Gracias, Mason. Has sido de GRAN ayuda.}
 {798}{}{Me encargaré de ello, entonces.}
 {799}{}{Oh, me encargaré de ello. Comenzando por ti.}

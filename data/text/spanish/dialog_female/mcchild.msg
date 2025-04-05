@@ -29,7 +29,7 @@
 {175}{}{¿Los de tu tribu os coméis a la gente?}
 {176}{}{¿Quién te ha vestido tan raro?}
 {177}{}{Seguro que eres más maja de lo que pareces.}
-{178}{}{Vamos a jugar al pilla pilla. Tú la llevas.}
+{178}{}{Juguemos al pilla pilla. Tú la llevas.}
 {179}{}{No hueles tan mal.}
 {180}{}{¿Has visto a mi amigo invisible?}
 {181}{}{Quiero viajar por todo el mundo cuando sea mayor como tú.}

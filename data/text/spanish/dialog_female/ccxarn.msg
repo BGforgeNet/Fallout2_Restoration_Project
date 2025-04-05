@@ -65,7 +65,7 @@
 {164}{}{Hola de nuevo. ¿Has cambiado de idea? ¿Me ayudarás?}
 {165}{}{Sí.}
 {166}{}{No. Aún sigo pensando.}
-{167}{}{No. No ayudo.}
+{167}{}{No. Mi no ayudar.}
 {168}{}{No, todavía me lo estoy pensando.}
 {169}{}{No quiero ayudarte.}
 {170}{}{Hola de nuevo. ¿Has encontrado la llave de la puerta?}

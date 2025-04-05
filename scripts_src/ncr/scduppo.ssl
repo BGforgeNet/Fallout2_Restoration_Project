@@ -225,8 +225,6 @@ procedure talk_p_proc begin
    set_local_var(LVAR_Herebefore, 1);
 
    move_obj_inven_to_obj(self_obj, i_duppo_table);
-   //self_caps_adjust(item_caps_total(i_duppo_table)); -comment out by NovaRain
-   //item_caps_adjust(i_duppo_table, -self_caps); -comment out by NovaRain
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -523,5 +521,3 @@ procedure Node013 begin
    Reply(146);
    NOption(147, Node999, 4);
 end
-
-//xxxxxxxxxxxxxxxxxxxx

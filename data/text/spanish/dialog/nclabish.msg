@@ -323,7 +323,9 @@ igual que la madre… (suspira irritada). Bien, ¿eso es *todo*?}
 {692}{}{Olvídalo entonces. Mira, tengo más preguntas…}
 {700}{}{Si me voy, mi marido me traerá de vuelta. La Familia cuida de los
  suyos, no importa si éstos quieren ser cuidados o no.}
-{701}{}{Hmmm. Tal vez pueda… ahora que John ha sufrido su merecido accidente. (Sonríe con tristeza.) Tal vez lo haga. Reno se ha vuelto… aburrido (Piensa).  Tal vez sólo necesite una nueva dirección…}
+{701}{}{Hmmm. Tal vez pueda… ahora que John ha sufrido su merecido accidente.
+ (Sonríe con tristeza.) Tal vez lo haga. Reno se ha vuelto… aburrido (Piensa).
+ Tal vez sólo necesite una nueva dirección…}
 {702}{}{Eh, tenía algunas preguntas más...}
 {705}{}{No (Se gira, mascullando entre sueños). No seas idiota. En cuanto la gente
  se enterase, tendrías que huir durante el resto de tu corta vida.}
@@ -389,6 +391,7 @@ igual que la madre… (suspira irritada). Bien, ¿eso es *todo*?}
 {1512}{}{... mmm...}
 {1591}{}{. }
 {1665}{}{… (La señora Bishop… Leslie… se vuelve y se incorpora sobre los codos.) Su caja fuerte tiene una trampa. Así que ten cuidado, vale? No me sirves sin dedos. (Sonríe, y se recuesta de nuevo).}
-{1760}{}{.  El potenciador está en un compartimento en el fondo de la caja… un ladrón nunca lo encontraría salvo que supiera qué es lo que busca.}
+{1760}{}{. El potenciador está en un compartimento en el fondo de la caja… un ladrón
+ nunca lo encontraría salvo que supiera qué es lo que busca.}
 {2315}{}{'…¿qué, por amor de Dios, crees que puedo hacer por ti?}
 {2511}{}{... mmm}

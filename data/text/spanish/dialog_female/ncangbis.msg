@@ -13,7 +13,7 @@
 {221}{}{Hola a todos.}
 {222}{}{Tú. Habla conmigo. Ahora.}
 {223}{}{Tú. Ven aquí. Ahora.}
-{224}{}{Yum.}
+{224}{}{Ñam.}
 {225}{}{Hmmmm.}
 {226}{}{Bien, bien...}
 {230}{}{Estoy ABURRIDA.}

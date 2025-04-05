@@ -82,7 +82,7 @@
 {301}{}{Te digo que no he oído. Ahora deja de molestarme con eso.}
 {302}{}{Está bien, entonces déjame preguntarte acerca de algo más.}
 {310}{}{(Te mira fijamente a los ojos) ¿Escuchas voces dentro de tu cabeza? ¿Te suelen hablar de lo superior que eres a todos los demás? ¿Te dicen que algún día todos se arrodillarán ante tu grandeza? (sonríe y asiente)}
-{311}{}{Eh, no, no realmente.}
+{311}{}{Eh, no. No realmente.}
 {312}{}{Eh, sí, por supuesto, ¿Acaso no le pasa a todo el mundo?}
 {320}{}{Es bueno saberlo, ya empezaba a preocuparme por ti.}
 {321}{}{Bueno, gracias por preocuparte, déjame hacerte algunas preguntas.}

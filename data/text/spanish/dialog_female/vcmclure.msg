@@ -260,4 +260,4 @@
 {358}{}{¡Gracias!}
 {359}{}{Has solucionado el problema pueblo.}
 {360}{}{Esto es muy interesante.}
-{370}{}{Bien. Bien, no voy a entrar en tu camino entonces.}
+{370}{}{Está bien. Bueno, no me pondré en tu camino.}

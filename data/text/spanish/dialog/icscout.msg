@@ -66,7 +66,7 @@
 {632}{}{Quieres decir ERA importante, ¿verdad? Lo que estoy tratando de decir es que te vas a morir ahora, por mi mano.}
 {640}{}{[Una mirada de miedo, lentamente, llena su rostro, y él comienza a retroceder.] Por favor, no! Sombra Que Camina, no quieren morir!}
 {641}{}{A continuación, salir de este lugar, y estas personas, en forma permanente. Voy a contar hasta diez, y si usted no se ha ido para entonces, usted va a unirse a sus antepasados en los cielos. UNO...}
-{642}{}{Demasiado tarde, mi querido tribales. Que van a reunirse con sus antepasados en acerca de...de 12 segundos.}
+{642}{}{Muy tarde, mi querido tribal. Va a reunirse con sus antepasados en...12 segundos.}
 {700}{}{(El tribales mira con el silencio)}
 {701}{}{[Mantenga mirando]}
 {702}{}{[Atacas]}
@@ -117,7 +117,7 @@
  montañas, usted no va a regresar vivo. Usted debe salir de aquí inmediatamente o a los malos espíritus llevará.}
 {922}{}{Qué duda el Anciano?}
 {930}{}{W-¿por Qué... por Qué deben Sombra Que Camina cree usted? Cómo hizo el Élder prever estos acontecimientos?}
-{931}{}{Bueno... estaba viendo esta película de una vez... No, No... Uh, ella estaba jugando este videojuego... Mmmmm... ¡Sí! Se llama Fal-...}
+{931}{}{Bueno... estaba viendo esta película una vez... No, No... Uh, ella estaba jugando este videojuego... Mmmmm... ¡Sí! Se llama Fal-...}
 {932}{}{Ella bebió de esta bebida, olía muy fuerte, y de sueños vívidos, se acercó a ella.}
 {933}{}{El hueso de aquí nariz le dijo. Esta es la forma en que ella se comunica con nuestros antepasados.}
 {940}{}{Usted está mintiendo. Esto no es cómo uno habla con los espíritus. Ahora la Sombra Que Camina, va a ver cómo la lengua de mentiroso gustos con los favoritos de brock salsa.}

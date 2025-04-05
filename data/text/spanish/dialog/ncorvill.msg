@@ -240,7 +240,7 @@
  más allá de Reno, e incluso si no quedase más de uno, sería un problema. Para acabar con ellos, necesitaría...}
 {720}{}{(Frunce el ceño profundamente). Todo esto me parece un montón de mierda de brahmin...}
 {721}{}{¿No me crees? Mira, he inspeccionado el cuerpo de tu hijo, y APESTABA a veneno de escorpión rad.}
-{722}{}{Mira, confía en  mí... tu hijo fue ENVENENADO. No sé por quién, pero alguien hizo todo lo posible para hacerlo pasar por
+{722}{}{Mira, confía en mí... tu hijo fue ENVENENADO. No sé por quién, pero alguien hizo todo lo posible para hacerlo pasar por
  sobredosis de Jet.}
 {750}{}{Has resuelto el asesinato.}
 {775}{}{Has acusado a un sospechoso de la muerte de Richard Wright.}
@@ -249,7 +249,7 @@
 {5243}{}{!}
 {5249}{}{. Me interesa el trabajo.}
 {5261}{}{!}
-{5310}{}{." Me alegra que te hayas dejado caer por aquí, qué amable, joder. (La sonrisa sarcástica cambia a un ceño fruncido).  Buscas trabajar para la familia Wright, ¿eh?}
+{5310}{}{." Me alegra que te hayas dejado caer por aquí, qué amable, joder. (La sonrisa sarcástica cambia a un ceño fruncido). Buscas trabajar para la familia Wright, ¿eh?}
 {5467}{}{ accede a la base. }
 {5580}{}{. Ve a La Garra de la Gata y a Armas Nuevo Reno… diles que vas de mi parte, y te surtirán. Eres de la Familia ahora… un
  Iniciado, y todo Reno lo va a saber.}

@@ -78,12 +78,12 @@
 {381}{}{Lo siento, no puedo aceptarlo.}
 {382}{}{Gracias.}
 {383}{}{No lo creo, pero lo aceptaré.}
-{384}{}{Yum.}
+{384}{}{Ñam.}
 {390}{}{Toma. [Fred te da 2.000 dólares, 5 células de fusión, 5 células de energía y una granada de plasma]. Espero que te resulte de ayuda, al menos un poco.}
 {391}{}{Lo siento, no puedo aceptarlo.}
 {392}{}{Muchas gracias.}
 {393}{}{No lo creo, pero lo aceptaré.}
-{394}{}{Yum.}
+{394}{}{Ñam.}
 {400}{}{¿Qué? Bueno, bien, si insistes. Muchísimas gracias. Cuídate mucho.}
 {401}{}{Adiós.}
 {410}{}{¿Qué? ¿Te estás metiendo alguna droga rara? No pareces un colgado del jet. Aléjate de mí, bicho raro.}

@@ -5,7 +5,7 @@
 {104}{}{¿Ah? ¿Cluz? ¿Doldnin?}
 {105}{}{¿Famosos? ¿Qué os hace famosos?}
 {106}{}{¿Similitudes? ¿Qué queréis decir?}
-{107}{}{Quiero ser un un Hubologista. ¿Cómo me puedo unir?}
+{107}{}{Quiero ser un Hubologista. ¿Cómo me puedo unir?}
 {108}{}{Oye, Vikki, Dave H. está enamorado de ti.}
 {109}{}{Genial. He de irme.}
 {110}{}{Él: Un pobre chico del Yermo. Ella: ¿Quizá un alineamiento ayudaría? Él: Sí. Oye, tú, ¿te gustaría un alineamiento?}

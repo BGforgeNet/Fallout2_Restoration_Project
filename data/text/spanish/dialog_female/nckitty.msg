@@ -100,7 +100,7 @@
 {396}{}{¿Os podéis ocupar de Lenny? No creo que haya besado a una chica jamás.}
 {397}{}{¿Tienes a alguien que pueda, eh, "manejar" a Marcus?}
 {398}{}{Al pequeño pervertido de Myron, aquí presente.}
-{399}{}{"Nariz de hueso", si entiendes a lo que me refiero. Je Je.}
+{399}{}{Aquí mi "Nariz de Hueso", si sabes a lo que me refiero. Je je.}
 {400}{}{Cassidy. Creo que ha pasado tiempo desde la última vez.}
 {401}{}{Vic. "Comerciante" Vic.}
 {402}{}{¿Puede alguna de tus chicas comprobar la temperatura de Robocerebro? Eso estimula su módulo cerebral.}

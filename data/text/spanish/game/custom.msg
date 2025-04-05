@@ -18,7 +18,7 @@
 {203}{}{Si no te encuentras bien.}
 {204}{}{Si necesitas un torniquete.}
 {205}{}{¡Nunca!}
-{300}{}{Nada}
+{300}{}{Ninguno}
 {301}{}{Melee.}
 {302}{}{Melee antes que a distancia.}
 {303}{}{A distancia antes que melee.}

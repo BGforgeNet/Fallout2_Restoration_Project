@@ -515,7 +515,7 @@
 {615}{}{Puerta}
 {616}{}{Computadora}
 {617}{}{Brahmin}
-{618}{}{Garra mortal}
+{618}{}{Mortíclavo}
 {619}{}{Salida}
 {620}{}{Computadora}
 {621}{}{Feargus}
@@ -559,7 +559,7 @@
 {659}{}{Mapa de la entrada secreta al Refugio 15}
 {660}{}{Rebecca}
 {661}{}{Puerta}
-{662}{}{Garra mortal}
+{662}{}{Mortíclavo}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
@@ -1310,7 +1310,7 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Niño}
-{1413}{}{Garra mortal}
+{1413}{}{Mortíclavo}
 {1414}{}{La Hermana Elaine}
 {1415}{}{Tumba}
 {1416}{}{Tumba}

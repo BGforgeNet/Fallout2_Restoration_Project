@@ -170,7 +170,7 @@
 {267}{}{4 segundos}
 {268}{}{Eh, je je... ignórala, jefa, no sabe lo que dice... Val, cariño... verás, había esclavistas y...}
 {269}{}{4 segundos}
-{270}{}{Corta el rollo, papá. ¿TODAVÍA sigues llamando a todo con el que te te encuentras "jefe"? Siempre he odiado eso de ti.}
+{270}{}{Corta el rollo, papá. ¿TODAVÍA sigues llamando a todo con el que te encuentras "jefe"? Siempre he odiado eso de ti.}
 {271}{}{4 segundos}
 {272}{}{Valerie, cariño, por favor... déjame que te explique... verás...}
 {273}{}{2 segundos, y apagado}

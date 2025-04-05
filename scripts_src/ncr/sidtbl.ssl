@@ -210,9 +210,3 @@ procedure map_enter_p_proc begin
       end
    end
 end
-
-/***************************************************************************
-   This procedure is used should the player try to pry the door open using a
-   crowbar or some similar instrument.
-***************************************************************************/
-

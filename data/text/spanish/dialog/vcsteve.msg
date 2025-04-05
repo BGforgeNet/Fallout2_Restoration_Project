@@ -12,7 +12,7 @@
 {109}{}{¿Sabes algo?}
 {110}{}{Gracias de todos modos.}
 {111}{}{(Leyendo el panfleto). Si el errante… ese debes de ser
- tú…  te insulta… eso debe referirse a mí… entonces remítelo al Oficial Jefe
+ tú… te insulta… eso debe referirse a mí… entonces remítelo al Oficial Jefe
  de Bienvenidas. Oh… te remito a Melinda, la Oficial
  Jefe de Bienvenidas.}
 {112}{}{Iré a hablar con ella entonces.}

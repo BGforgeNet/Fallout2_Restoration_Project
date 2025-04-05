@@ -6,7 +6,7 @@
 {105}{}{.whirrrrr... No soy un perrito.}
 {106}{}{Grrrrrrrrrrrrrrrr--}
 {107}{}{¡Woof! Wo-wo-wo-<click>woof.}
-{108}{}{<sprzzzt>  Miau... error.}
+{108}{}{<sprzzzt> Miau... error.}
 {109}{}{¡Barkbarkbarkbarkbarkbarkbark!}
 {110}{}{Grrr...}
 {111}{}{¡How-woooo! <click-click> ¡How-wooo!}

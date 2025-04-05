@@ -92,8 +92,8 @@ este mundo de la infección de bichos. El único bicho bueno es un bicho muerto.
 {960}{}{Como quieras, joven }
 {961}{}{. Pero antes de seguir tu camino, recuerda esto: Muchas de las verdades a las que nos aferramos dependen en gran medida de nuestro propio punto de vista. Ahora vete, y que La Fuente esté contigo.}
 {962}{}{. Tus acciones en tu misión han demostrado ser buenas, amables y honestas. Toma esto para ayudarte en tu lucha contra el Lado Oscuro: Es el sable de luz de tu antepasado. Esta es el arma de un caballero de Java.
-  No tan torpe o aleatorio como un blaster; un arma elegante para una época más civilizada. Y aunque puedas estar tentada a usarlo para arbitrariamente cortar gente por la mitad para entretenimiento, debes usarlo solo en servicio del bien.
-  Buena suerte, y que La Fuente esté contigo, amiga mía.}
+ No tan torpe o aleatorio como un blaster; un arma elegante para una época más civilizada. Y aunque puedas estar tentada a usarlo para arbitrariamente cortar gente por la mitad para entretenimiento, debes usarlo solo en servicio del bien.
+ Buena suerte, y que La Fuente esté contigo, amiga mía.}
 {963}{}{¡¿Qué?! Mi antepasado, el Morador del Refugio, ¡¿Tenia uno de estos?! No recuerdo haber encontrado esto en Fallout 1! *sale corriendo a comprobarlo*}
 {964}{}{Gracias, Sr. Hombre Oso. Por Todo. Que La Fuente este con contigo también.}
 {1000}{}{Ves a Emperatriz Timeslip.}

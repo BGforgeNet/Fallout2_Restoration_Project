@@ -9,7 +9,7 @@
 {108}{}{¿Hola? Hola. ¿Hay alguien ahí?}
 {109}{}{Y en todo caso, ¿cómo has entrado aquí?}
 {110}{}{Fuera de mi laboratorio, soldado.}
-{111}{}{Esto no es parte de de tu ruta de patrulla.}
+{111}{}{Esto no es parte de tu ruta de patrulla.}
 {112}{}{Fuera de aquí, o avisaré a tu sargento.}
 {113}{}{Muévete, soldado.}
 {114}{}{No he informado de ningún problema por aquí.}

@@ -50,10 +50,10 @@
 {229}{}{No… no puedo seguir… así…}
 {230}{}{¿Has visto a Jules por aquí? Necesito un apaño.}
 {231}{}{¿Has visto a Jeta Jimmy J. por ahí? Necesito un apaño.}
-{232}{}{Estoy buscando la farmacia de Renesco. Renesco me pondrá a tono.}
+{232}{}{Estoy buscando la Farmacia de Renesco. Renesco me pondrá a tono.}
 {233}{}{Sé que Fallout 2 no es un juego 3D, pero aún así debería funcionar con mi nueva tarjeta 3DFX.}
 {240}{}{[canta] Sólo quiero volar. Pon tus brazos alrededor de mí, nena, pon tus brazos alrededor de mí, nena.}
-{241}{}{[canta] Rocketman, quemando el mmm mmm mmm…}
+{241}{}{[canta] Rocketman, quemando el mmmurmullo ahi solo…}
 {242}{}{¡Cuidado! Garra mortal rosa, a las tres en punto!}
 {243}{}{¡Demasiadas luces! Los ojos me arden, me arden…}
 {244}{}{Las luces son… tan brillantes… ::empieza a llorar::}

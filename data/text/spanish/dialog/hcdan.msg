@@ -20,7 +20,7 @@
 {119}{}{No. Estoy ocupado.}
 {120}{}{Puedo darte 500 dólares. Son los ahorros de mi vida.}
 {121}{}{Eso es suficiente. Lo haré.}
-{122}{}{No. No puedo hacerlo.}
+{122}{}{Nop. No puedo hacerlo.}
 {123}{}{Por favor. Por favor. Mi mujer... lo es todo para mí. Por favor.}
 {124}{}{¡He dicho que no!}
 {125}{}{Vale. Vale, pero deja de darme la lata.}

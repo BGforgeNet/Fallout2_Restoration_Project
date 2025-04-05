@@ -149,7 +149,7 @@ cartas.}
 clamando por su sangre.}
 {451}{}{¿Qué quieres decir?}
 {460}{}{Claro que fue hace mucho tiempo. ¿Cuál crees que es el origen de los necrófagos? A ver si te crees que nos levantamos un bonito día diciendo: "Joder, ¿que habrá pasado para tener todo mi jodido cuerpo agrietado?"}
-{461}{}{Ya, no, no sé. Dime, ¿cómo te conviertes en necrófago?}
+{461}{}{Bueno, no, no lo hice. Dime, ¿cómo se hace un necrófago?}
 {462}{}{Ya te imaginarás que me importa una mierda lo que te hizo tan feo. Adiós.}
 {470}{}{Esos cabrones de Ciudad Refugio. Si alguien nos va a joder, serán ellos. Están locos. Nadie ha estado jodido hasta que intentaron matarnos. Tendría cuidado con ellos si fuera tú.}
 {471}{}{Parece un buen consejo. Tendré cuidado. Déjame preguntarte una cosa, entonces.}

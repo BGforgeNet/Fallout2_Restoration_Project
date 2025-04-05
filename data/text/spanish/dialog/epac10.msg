@@ -155,7 +155,7 @@ profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
 {570}{}{Wow, eso es realmente interesante, cariño, y no puedo esperar para saber más sobre ti. Honesto. Pero antes que nada, ¿qué tal si me informas sobre lo que pasó desde que me pusieron en hielo?
  Quiero decir, este lugar se ha vuelto una mierda, y parece que has salido de algún tipo de historia de aventuras de ciencia ficción.}
 {580}{}{Muy bien, ¿realmente necesitas saberlo? Bien. Básicamente, estos locos doctores estaban haciendo algún tipo de prueba sobre la "naturaleza del mal humano" o alguna basura. Me inyectaron los recuerdos de un maníaco para ver cómo afectaría la personalidad de un tipo decente y respetuoso de la ley como yo. Al menos, eso es lo mejor que pude entender.}
-{581}{}{Veo. Entonces, ¿cómo * te * te afectó?}
+{581}{}{Ya veo. Entonces, ¿cómo *te* afectó?}
 {582}{}{No sé, me dio algunas pesadillas, ¿de acuerdo? Mira cariño, he pasado por muchas cosas y no estoy de humor para un jodido interrogatorio en este momento.
  Respondí tus preguntas, ahora, ¿qué tal si me informas sobre lo que pasó desde que me pusieron en hielo? Quiero decir, este lugar se ha vuelto una mierda, y parece que has salido de algún tipo de historia de aventuras de ciencia ficción.}
 {600}{}{[Cuando te acercas a la cámara criogénica, ves a un atractivo hombre desnudo tirado en el suelo. Él estira las rodillas

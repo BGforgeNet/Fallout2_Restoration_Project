@@ -51,7 +51,8 @@
 {208}{}{Te lo agradecería mucho. Cualquier cosa sería de ayuda. Mientras tanto, ¿quieres comprar o vender algo?}
 {210}{}{No, la verdad que no. Me marcharé ya, gracias.}
 {211}{}{Lo siento, nunca lo he oído.}
-{214}{}{Je, je, je. El viejo Cornelius te ha pedido que busques su reloj de bolsillo, ¿eh? No, no lo encontrarás aquí. Ese viejo chocho probablemente se lo dejó en algún lado y se le olvidó.}
+{214}{}{Je, je, je. El viejo Cornelius te ha pedido que busques su reloj de bolsillo, ¿eh? No, no lo encontrarás aquí.
+ Ese viejo chocho probablemente se lo dejó en algún lado y se le olvidó.}
 {215}{}{Gracias de todos modos. Seguiré buscando. Adiós.}
 {216}{}{[Te mira detenidamente y entonces sonríe]. ¿Por qué no eres una buena chica y sales a jugar afuera?}
 {217}{}{[Te mira detenidamente y entonces sonríe]. ¿Por qué no eres una buena chica y sales a jugar afuera?}

@@ -238,7 +238,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {309}{}{Espera... también necesito curarme.}
 {310}{}{Espera... me han envenenado. Necesito que me cures.}
 {311}{}{Espera... estoy irradiado. Necesito que me cures.}
-{312}{}{Un placer hacer negocios contigo.  Nos vemos, Doc.}
+{312}{}{Un placer hacer negocios contigo. Nos vemos, Doc.}
 {313}{}{No lo he olvidado. Tendrás tu dinero. Ahora vete.}
 {314}{}{Espera... también necesito curarme.}
 {315}{}{Espera... me han envenenado. Necesito que me cures.}

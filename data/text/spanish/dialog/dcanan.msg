@@ -52,7 +52,9 @@
 {156}{}{¿Un brahmin con una sola cabeza? ¡Claro, quién se va a creer eso! Adiós, charlatán.}
 {157}{}{Has despertado a Woody el necrófago y le has liberado de su momificación temporal.}
 {158}{}{Creo que prefiero oír la historia del fantasma.}
-{200}{}{Conozco secretos que los meros mortales no deberían saber. ¡IA IA! ¡Nyarloth...! Oh, perdón (je, je). Por un momento me he dejado llevar por la emoción. Conozco historias de un fantasma que aparece por estos mismos suelos, así como de una genuina momia egipci-a-na que podrás ver, aquí en este mismo sarcófago.}
+{200}{}{Conozco secretos que los meros mortales no deberían saber. ¡Aiiiaaaa! ¡Nyarloth...! Oh, perdón (je, je). Por un momento me he dejado llevar por la emoción.
+ Conozco historias de un fantasma que aparece por estos mismos suelos, así como de una genuina momia egipci-a-na que podrás ver,
+ aquí en este mismo sarcófago.}
 {201}{}{Háblame de la momia. Me muero por saber más de ella.}
 {202}{}{Tengo que oír esa historia de fantasmas. Eh, ¿me daré una buena taza caliente de cacao con eso?}
 {203}{}{No voy a perder el tiempo en lo que sea que trates de venderme.}

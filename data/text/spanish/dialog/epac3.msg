@@ -36,8 +36,7 @@
 {351}{}{Claro, es lo que hago. Nos vemos más tarde.}
 {352}{}{Ahora espera allí. Si no me dejas recompensarte con tostadas, entonces al menos permíteme darte un pequeño consejo. ¿Conoces esas máquinas tragamonedas que encuentras en los casinos? Bueno, calculé un método que puede desviar las máquinas de su efectivo. Tengo un coeficiente intelectual de 6000, ya sabes. Cuando no estoy haciendo tostadas, me gusta reflexionar sobre este tipo de cosas. Por ayudarme, te diré estos códigos secretos. Simplemente use una de las máquinas como lo haría normalmente y ...}
 {353}{}{[MÁS]}
-{354}{}{...Y eso es todo lo que hay que hacer. Serás rico en poco tiempo, comiendo pan tostado a tu gusto.
-}
+{354}{}{...Y eso es todo lo que hay que hacer. Serás rico en poco tiempo, comiendo pan tostado a tu gusto.}
 {355}{}{Gracias. Lo agradezco. Hasta la vista.}
 {400}{}{Has reparado con éxito la tostadora.}
 {401}{}{No has conseguido reparar la tostadora.}

@@ -42,6 +42,7 @@
 {222}{}{Funciona mejor que nunca.}
 {230}{}{Solo mantente fuera del camino y no toques nada.}
 {231}{}{¿Cómo entraste aquí?}
-{232}{}{¿Por qué no das un pequeño paseo por esa puerta? Foso brillante, bonito, bonito. Je, je, je.}
+{232}{}{¿Por qué no das un pequeño paseo por esa puerta? Foso brillante, bonito, bonito.
+Je, je, je.}
 {300}{}{Has engañado a Hank para que inicie una fusión nuclear.}
 {900}{}{¿Acaso no ves que estoy ocupado?}

@@ -74,11 +74,7 @@
  reacio a confiarlo a un extraño que aún no ha demostrado ser digno de confianza. Devolveré a Jonny
  cuando esté seguro de que llegará a casa con seguridad.}
 {232}{}{Has demostrado ser digna de confianza, aquí abajo echaremos de menos al pequeño Jonny.
- Para asegurar su regreso, les hemos asignado una escolta para que regresen a Modoc ahora mismo.
-
-
-
-}
+ Para asegurar su regreso, les hemos asignado una escolta para que regresen a Modoc ahora mismo.}
 {233}{}{¡Oh, chico! No me extraña que no te asustaran nuestros truquillos. Eres demasiado estúpido para asustarte. Odio depender de un discapacitado intelectual como tú, pero necesito tus servicios. Lleva este mensaje a Modoc. Dáselo al líder de Modoc y procura no perderte.}
 {300}{}{Ya me voy.}
 {301}{}{¿Qué es lo que quieres de mí?}

@@ -179,7 +179,7 @@
 {824}{}{Myron, ¿eh? De acuerdo entonces, Jesús. Gracias por la conversación.}
 {840}{}{El Desperado es el lugar adecuado, amigo. Tenemos el Jet, los juegos, la acción… y tenemos a todas las putas que necesitas
  justo a la entrada, húmedas y dispuestas. El Paraíso, amigo. Para jugar.}
-{841}{}{El Desperado es el lugar adecuado, chica.  Tenemos el Jet, los juegos, y la acción. No
+{841}{}{El Desperado es el lugar adecuado, chica. Tenemos el Jet, los juegos, y la acción. No
  necesitarás ir a ningún otro lugar.}
 {842}{}{Así que… ¿quieres relajarte, chica? Je... entonces, ¿qué te parece si tú y yo nos apuntamos a un poco de dulce amor?}
 {843}{}{Tentador, pero no dispongo de diez segundos para tu dulce amor ahora mismo, Pequeño Jesús.}

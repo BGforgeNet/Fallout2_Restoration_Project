@@ -11,10 +11,8 @@
 {110}{}{[Sus ojos se iluminan.] No eres como los demás que vienen aquí. Me gustas. [Suspira pesadamente] Ojalá mi papá se pareciera más a ti. A veces pienso en huir. Algunos de mis amigos no tienen hogar y dicen que no es tan malo. Siempre y cuando el Sr. Flick consiga suficientes cosas, pueden comer una vez al día. Pero el Sr. Flick no suena muy bien, en realidad, se parece mucho a mi padre.}
 {111}{}{¡Eres malo! Lárgate. No me gustas.}
 {112}{}{Tiene que haber algo que se pueda hacer al respecto. ¿Puedes pensar en cualquier adulto en esta ciudad que estaría dispuesto a cuidar de ti -- o cualquiera de estos niños sin hogar?}
-{113}{}{[Dijo "Bobby" encogiéndose de hombros.] ¿Tal vez mamá? No me refiero a mi madre, mi madre está muerta, pero hay una dama a la que la gente llama mamá. No sé porque.
-¿Tal vez porque ella es realmente agradable?[Apunta hacia el noreste.] Ella tiene un restaurante al otro lado de la ciudad.
-Mis amigos sin hogar van 
-allí y ella les ofrece comida gratis. Ojalá papá me llevaría allí, porque ella sabe cómo cocinar rata realmente delicioso!}
+{113}{}{[Bobby se encoge de hombros.] ¿Quizás mamá? No me refiero a *mi* mamá -- la mia murió -- pero hay una señora a la que llaman mamá. No sé por qué.
+¿Será porque es muy buena? Tiene un restaurante al otro lado de la ciudad. [Señala hacia el noreste.] Mis amigos sin hogar van allí y les da comida gratis a escondidas. ¡Desearia que papá me lleve, porque Ella sabe cómo hacer que la rata sepa riquísima!}
 {114}{}{Hmm, *estoy* sintiéndome un poco hambriento. Tal vez iré a visitar a mamá. Cuídate, Bobby.}
 {115}{}{Eres tan mamerto. Será mejor que me vaya ahora antes de que te saque la mierda a patadas. Adiós.}
 {116}{}{¿Adivina qué, Bobby? Hablé con Mamá, y ella va a abrir un gran nuevo hogar en el que tú y todos tus amigos sin hogar son bienvenidos a vivir juntos. Va a estar en el gran edificio que está cruzando la calle de aquí. Ella dijo que lo tendrá todo listo en un par de días.}

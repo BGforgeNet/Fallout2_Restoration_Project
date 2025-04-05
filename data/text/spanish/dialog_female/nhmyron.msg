@@ -541,7 +541,7 @@
 {1649}{}{De acuerdo entonces. Ya veo a dónde lleva esto. No importa.}
 {1655}{myn239a}{Muy bien. Y eso es todo de lo que te vas a enterar, compadre. Ya te harás una idea.}
 {1656}{myn239b}{Muy bien. Y eso es todo de lo que te vas a enterar, señorita. Ya te harás una idea.}
-{1657}{myn239c}{Muy bien, preciosa. Pero eso es todo de lo que te vas a enterar, así que no te calientes tu preciosa cabecita. Basta de hablar: ¿por qué tu y yo no, eh, je, je...}
+{1657}{myn239c}{Muy bien, preciosa. Pero eso es todo de lo que te vas a enterar, así que no calientes tu preciosa cabecita. Basta de hablar: ¿por qué tu y yo no, eh, je, je...}
 {1658}{}{¿Así que la mierda de brahmin tiene ciertas propiedades químicas que estimulan el sistema nervioso humano?}
 {1659}{}{Tal vez. Tenía algunas preguntas más…}
 {1660}{}{-- hablar algo más? ¡Excelente! Tenía algunas otras preguntas…}

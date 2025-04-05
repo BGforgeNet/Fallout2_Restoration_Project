@@ -149,7 +149,7 @@
 {1128}{}{Bloqueo Mental es la habilidad para aislarte de cualquier interferencia exterior. Debes haber aprendido esto de un gurú moribundo, o en alguna discoteca.}
 {1129}{}{Con cada nivel de este extra, ganas 4 puntos de salud (PS) adicionales cada vez que subes de nivel. Estos se añaden a los puntos que ya ganas en cada nivel por tu resistencia.}
 {1130}{}{Eres menos proclive a ser herido en combate si tienes este extra. Ganas un bono de +5 a tu clase de armadura, que se añade al bono por llevar armadura.}
-{1131}{}{¡Hmmm! ¡Sabe a pollo! Por cada nivel de este extra, ganas un 25%  de resistencia al veneno.}
+{1131}{}{¡Hmmm! ¡Sabe a pollo! Por cada nivel de este extra, ganas un 25% de resistencia al veneno.}
 {1132}{}{Este extra te da un bono único del 10% a tus habilidades de Ciencia y Reparar. Una noche empollando nunca ha herido a nadie, especialmente a ti.}
 {1133}{}{El extra Médico te da un bono único de 10% a tus habilidades Primeros Auxilios y Doctor. Las habilidades de curación son algo bueno.}
 {1134}{}{Un Maestro Ladrón es muy eficiente robando y forzando cerraduras. Ganas un bono único del 15% a Ganzúa y Robar. Roba a los ricos y... quédatelo para ti.}

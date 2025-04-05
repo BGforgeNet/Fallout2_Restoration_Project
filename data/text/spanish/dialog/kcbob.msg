@@ -99,7 +99,7 @@
 {392}{}{Hmm, interesante. Hablemos de otra cosa.}
 {393}{}{Es suficiente. Adiós, Whisky Bob.}
 {400}{}{Ojala no te hubiera dicho nada. No reabasteciste mi alambique a tiempo, ¡y mi último lote de whisky se ha echado a perder! No quiero volver a tratar nada contigo y espero que nadie más quiera.}
-{401}{}{Pero yo, yo creía que tenía más tiempo...}
+{401}{}{Pero yo, creía que tenía más tiempo...}
 {402}{}{Seguramente sabría igual lo hubiera hecho o no.}
 {403}{}{De todos modos tu whisky sabe a meado de perro.}
 {404}{}{El combustible no debió crear una llama a la suficiente temperatura para una fermentación correcta.}

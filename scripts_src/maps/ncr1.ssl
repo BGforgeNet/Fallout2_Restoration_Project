@@ -67,8 +67,6 @@ procedure start;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
-procedure Initial_Inven;
-
 variable inited := 0;
 
 procedure start begin
@@ -94,13 +92,9 @@ end
 
 procedure map_enter_p_proc begin
    variable critter;
-//   override_map_start_hex(14095,0,2);
-   if (map_first_run) then begin
-   end
    if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
      fadein(1);
-     //set_global_var(global_var(GVAR_LOAD_MAP_INDEX), 0);
-     set_global_var(GVAR_LOAD_MAP_INDEX, 0); //edit by killap
+     set_global_var(GVAR_LOAD_MAP_INDEX, 0);
      override_map_start_hex(ROPE_LOAD_POS, 0, 2);
    end
 
@@ -117,8 +111,4 @@ end
 
 procedure map_update_p_proc begin
    Lighting;
-end
-
-
-procedure Initial_Inven begin
 end

@@ -600,7 +600,7 @@
 {624}{lyn099}{¿Qué quieres decir?}
 {625}{}{Moore está trabajando, en realidad, para la República de Nueva California.}
 {626}{}{No importa. Tenía algunas preguntas más...}
-{627}{}{Nada.  Tengo que irme. Adiós.}
+{627}{}{Nada. Tengo que irme. Adiós.}
 {628}{}{Nada. Me he equivocado. Que te vaya bien, Primer Ciudadano.}
 {629}{lyn100}{¡¿Matarle?! El asesinato no se acepta de ninguna manera o forma en Ciudad Refugio... incluso aunque fuera lo mejor. No volveremos a hablar de esto.}
 {630}{}{Entendido. ¿Puedo hacerte alguna otra pregunta?}
@@ -666,8 +666,8 @@
 {683}{lyn112}{No me sorprendería. Bishop visitó Ciudad Refugio no hace mucho, y sugirió una
  alianza. Por supuesto que me negué. No nos asociamos con delincuentes.}
 {684}{}{Quizá fue su forma de forzarte a una alianza.}
-{685}{lyn113}{Antes preferiría pedir ayuda a la RNC. Si te encuentras con cualquier evidencia de la participación de
-  Bishop, por favor tráemela cuanto antes.}
+{685}{lyn113}{Antes preferiría pedir ayuda a la RNC. Si te encuentras con cualquier evidencia de la participación
+ de Bishop, por favor tráemela cuanto antes.}
 {686}{}{Me parece justo. Tenía algunas otras preguntas...}
 {687}{}{Si encuentro algo, te lo haré saber.}
 {688}{}{Lo haré, Primer Ciudadano. Que te vaya bien.}

@@ -27,7 +27,7 @@
 {1400}{}{Cohete explosivo}
 {1401}{}{Un cohete con una gran cabeza explosiva.}
 {1500}{}{Rifle de plasma}
-{1501}{}{Un rifle de plasma Winchester P94. Un arma energética de grado industrial, que dispara rayos de plasma supercalientes  por un cañón superconductor. Alimentado por células MF de microfusión. Min FU: 6.}
+{1501}{}{Un rifle de plasma Winchester P94. Un arma energética de grado industrial, que dispara rayos de plasma supercalientes por un cañón superconductor. Alimentado por células MF de microfusión. Min FU: 6.}
 {1600}{}{Pistola láser}
 {1601}{}{Una pistola láser Wattz 1000. Modelo civil, así que tiene menor potencia que las versiones militares y de la policía. Usa células PE de energía. Min FU: 3.}
 {1700}{}{Armadura de combate}
@@ -106,7 +106,7 @@
 {5301}{}{Una caja de píldoras que alteran la mente. Incrementa las funciones relacionadas con la memoria, y la velocidad de otros procesos mentales. Altamente adictiva.}
 {5400}{}{Sigilante}
 {5401}{}{Un dispositivo personal de sigilo Stealth Boy 3001, de RobCo. Genera un campo modulado que transmite la luz reflejada de la cara de un objeto sobre otra.}
-{5500}{}{Chip de agua}
+{5500}{}{Chip Acuatico}
 {5501}{}{Un chip de agua de Vault-Tec. Normalmente se empaquetan en grupos de cinco por caja.}
 {5600}{}{Chapas de identificación}
 {5601}{}{Un juego de chapas de identificación. El nombre Dickinson y la palabra Enclave son apenas legibles.}
@@ -671,7 +671,7 @@
 {34100}{}{Pase Presidencial}
 {34101}{}{El portador de este documento dispone de un pase de seguridad clase-A conforme a lo autorizado por la Presidencia de la República de Nueva California. Está firmado por la Presidente Tandi.}
 {34200}{}{Insignia de Ranger}
-{34201}{}{Esta insignia indica que eres un Ranger de de Nueva California. Fíjate: ¡tiene una rueda de códigos y todo!}
+{34201}{}{Esta insignia indica que eres un Ranger de Nueva California. Mira: ¡tiene una rueda de códigos y todo!}
 {34300}{}{Mapa de los Rangers}
 {34301}{}{Un mapa de los alrededores (no te servirá de mucho): tiene nombres en código para los pisos francos de los Rangers en el norte.}
 {34400}{}{Cementerio}

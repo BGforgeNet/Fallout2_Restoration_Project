@@ -113,7 +113,7 @@
 {415}{}{(Palidece, y luego recupera la compostura). Lo bastante como para volverlos locos. Gasté la mayor parte en sobornos para mantener alejados a los matones
  de los Salvatore el tiempo suficiente como para huir aquí abajo y esconderme. Temo dejarme ver por la ciudad…}
 {416}{}{(Parece sorprendido, luego recupera la compostura). Lo bastante como para volverlos locos. Gasté la mayor parte en sobornos para mantener alejados a los matones
-  el tiempo suficiente como para huir aquí abajo y esconderme. Temo dejarme ver por la ciudad…}
+ el tiempo suficiente como para huir aquí abajo y esconderme. Temo dejarme ver por la ciudad…}
 {417}{}{Te ayudaré, pero quiero la mitad del dinero que ganaste, Lloyd. No me engañes con esto si
  sabes lo que te conviene.}
 {418}{}{Dame la mitad de lo que ganaste en las mesas, y te ayudaré, Lloyd. Es un trato justo

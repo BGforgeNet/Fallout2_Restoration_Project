@@ -27,7 +27,7 @@
 {254}{}{eléctrico}
 {255}{}{IEM}
 {256}{}{explosión}
-{300}{}{Nada}
+{300}{}{Ninguno}
 {301}{}{Cohete}
 {302}{}{Comb. Lanzallamas}
 {303}{}{Cel. energía C}

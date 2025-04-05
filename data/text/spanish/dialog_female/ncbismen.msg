@@ -175,7 +175,7 @@
 {471}{}{Desaparece antes de que te use como diana para practicar.}
 {472}{}{¿Buscas problemas? Sigue hablando conmigo y los encontrarás.}
 {473}{}{No estoy tan borracho como para pensar en darte un meneo. Piérdete.}
-{474}{}{Debes ser ser la tribal más fea que jamás haya visto.}
+{474}{}{Debes ser la tribal más fea que jamás haya visto.}
 {475}{}{Lárgate de aquí antes de que te haga algo más fea de lo que eres.}
 {476}{}{Vete a ladrarle a algo que esté más bebido que yo, perra.}
 {490}{}{Me *pareció* oler a algo podrido. Saca a ese necrófago tuyo de aquí.}

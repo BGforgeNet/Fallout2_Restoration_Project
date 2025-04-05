@@ -5,7 +5,7 @@
 {201}{}{::Dispara su arma al aire, y comienza a menearse y a gritar:: ¡El Enclave está MUERTO! ¡MUERTO! ¡MUERTO! Yeeee-haw!}
 {202}{}{::Ding-dong, el Enclave está muerto, el Enclave está muerto... ::}
 {203}{}{El Enclave es una buena razón para que todo ciudadano tenga el derecho a portar armas.}
-{204}{}{La próxima vez, no vayas al Enclave sin pasar por aquí primero... me aseguraré que que tengas toda la potencia de fuego
+{204}{}{La próxima vez, no vayas al Enclave sin pasar por aquí primero... me aseguraré que tengas toda la potencia de fuego
  que NECESITAS.}
 {210}{}{Saaaanta madre de Dios. ¡Una servoarmadura!}
 {211}{}{Jeeeeesus. ::Se frota los ojos:: ¡¿Eso es una servoarmadura?!}

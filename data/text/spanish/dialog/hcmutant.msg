@@ -37,15 +37,15 @@
 {162}{}{Francis está impresionado. Yo también.}
 {163}{}{¿Cómo puede un humano batir a un mutante en un pulso? ¿Hiciste trampas?}
 {164}{}{¿Y cómo vas a utilizar tu nuevo premio?}
-{165}{}{Fuerte. Fuerte.}
+{165}{}{Fuerte. Muy uerte.}
 {166}{}{En cuanto pruebas a un muti, ya no quieres otra cosa.}
 {167}{}{He oído que tuviste lo tuyo... con Francis.}
 {168}{}{Me sorprende que aún puedas caminar.}
 {169}{}{Ja… ¡Francis puede estar mayor, pero aún tiene lo que hay que tener!}
 {170}{}{Esa pobre gente.}
 {171}{}{Estar atrapado bajo tierra…}
-{172}{}{Y entonces lo dije, dije, "Jacob y Aileen son problemáticos. Igual que Franc y Manson". ¿Pero alguien me 
- hizo caso? Noooooo.}
+{172}{}{Y entonces, dije, "Jacob y Aileen son problemáticos. Igual que Franc y Manson".
+ ¿Pero alguien me hizo caso? Noooooo.}
 {173}{}{Túneles, ¿eh? Siempre supe que esos bastardos eran ratas y gusanos.}
 {174}{}{Así que el hedor procedía de esos cuerpos, ¿eh?}
 {175}{}{¿Por qué nos haces daño?}

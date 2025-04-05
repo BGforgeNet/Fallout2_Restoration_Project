@@ -55,11 +55,11 @@
 {154}{}{Así que voy a conseguir una recompensa de verdad por mi trabajo. Suena bien. Nos vemos.}
 {155}{}{Creo que has estado jugando demasiado con esas plantas. Para evitar tu destino, me mantendré lejos de tu huerto.}
 {156}{hak011}{El tiempo no puede ser ni malgastado ni ahorrado: siempre será el presente. Las acciones crean la fábrica de tu vida.}
-{157}{}{Eh, sí, sí. Como dije, tengo que irme. Adiós.}
+{157}{}{Eh, sí. Como dije, tengo que irme. Adiós.}
 {158}{}{Sabes, hablar contigo me hace cuestionarme eso de que el tiempo no puede malgastarse. Me largo de aquí.}
 {159}{}{Si tan sólo tuviera tu sapiencia, sabio. Perdóname. Por supuesto, me ocuparé de ellas por ti.}
 {160}{hak012}{Puede que lleves contigo el manto del Elegido, pero tu alma impía grita desde tu interior.}
-{161}{}{Suplico por tu perdón, santa. ¿Cómo puedo limpiar mi alma?}
+{161}{}{Suplico por tu perdón, santidad. ¿Cómo puedo limpiar mi alma?}
 {162}{}{Es cierto, Hakunin, y serás un hombre realmente sabio si no lo olvidas.}
 {163}{}{Me duele la cabeza desde el interior de escucharte. Me largo.}
 {164}{}{¡Booka!}

@@ -24,7 +24,7 @@
  Has hecho mucho para ayudar a nosotros, estamos siempre en deuda con ustedes!}
 {331}{}{Es lo menos que podía hacer. Cuidado de la toma.}
 {332}{}{Crees que tengo que hacer todo esto de forma gratuita? Vamos a hablar de dinero.}
-{340}{}{[Ann se ve un poco nervioso.] Bueno, sí... bien bien. Yo tenía un poco de algo guardado para una emergencia, pero
+{340}{}{[Ann se ve un poco nervioso.] Bueno, sí... está bien. Yo tenía un poco de algo guardado para una emergencia, pero
  Supongo que se puede tener. Y pensar que yo veía como una buena persona.}
 {341}{}{Se ve en los ojos de quien la mira, señora. Buen día.}
 {342}{}{Lo sentimos, el dinero hace girar el mundo. Bye.}

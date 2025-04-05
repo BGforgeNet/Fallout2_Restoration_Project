@@ -67,7 +67,8 @@
 {253}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
 {260}{}{Te interesa la caza, ¿eh? (Te mira de arriba a abajo)}
 {261}{}{[MÁS]}
-{270}{}{Yo no lo intentaría si fuera tú. Podrías ensuciarte las manos y salirte callos (je, je, je) ¿Algo más que quieras saber?}
+{270}{}{Yo no lo intentaría si fuera tú. Podrías ensuciarte las manos y salirte callos
+(je, je, je) ¿Algo más que quieras saber?}
 {271}{}{Bueno, no quiero ensuciarme las manos. Hablemos de otra cosa.}
 {272}{}{Ojala fuera un trampero tan habilidoso como tú. Apuesto a que podrías enseñarme un montón.}
 {273}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
@@ -79,7 +80,9 @@
 {291}{}{Cuéntame más.}
 {300}{}{Un trampero verdaderamente bueno, llamado Smiley, fue al norte en busca de donde quiera que vengan. Estaba convencido de que todos venían de un mismo lugar. La cosa es que nadie sabe de él desde hace un par de meses.}
 {301}{}{¿Qué crees que le ha ocurrido?}
-{310}{}{Quizás encontró de dónde venían y se los comió a todos. (je, je, je) Pero te diré una cosa; el corazón de la señora Buckner se quedó roto cuando no volvió. Verás, él era su pretendiente. La señora Buckner es la que lleva Casa Buckner, ya sabes.}
+{310}{}{Quizás encontró de dónde venían y se los comió a todos. (je, je, je) Pero te diré una cosa;
+el corazón de la señora Buckner se quedó roto cuando no volvió. Verás, él era su pretendiente.
+La señora Buckner es la que lleva Casa Buckner, ya sabes.}
 {311}{}{Interesante. Cuéntame más cosas.}
 {312}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
 {320}{}{Tenemos un montón de coches. Todos están esperando a que sus dueños vuelvan de hacer las compras. La cosa es que, nunca volvieron. Aunque ni uno de ellos funciona. Hay una absoluta belleza de modelo 'Highwayman' de la marca Chrysalis Motors justo al este de aquí, pero todavía no he averiguado como llegar hasta él.}
@@ -96,8 +99,10 @@
 {341}{}{Interesante. Quizás alguien debería hacer algo al respecto. Dime, ¿tienes una llave a la parte norte del barrio de los tramperos?}
 {342}{}{Interesante. Cuéntame otra cosa.}
 {343}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
-{350}{}{Vaya, no es que seas una preciosidad, pero hace mucho tiempo que no... Supongo que puedo darte la llave siempre que tú me des lo que yo quiero. (je, je, je)}
-{351}{}{Vaya, pero si eres una preciosidad, ¿no? Estoy seguro que puedo darte esa llave que tanto quieres. Tú solo dame lo que yo quiero. (je, je, je)}
+{350}{}{Vaya, no es que seas una preciosidad, pero hace mucho tiempo que no...
+Supongo que puedo darte la llave siempre que tú me des lo que yo quiero. (je, je, je)}
+{351}{}{Vaya, pero si eres una preciosidad, ¿no? Estoy seguro que puedo darte esa llave que tanto quieres.
+ Tú solo dame lo que yo quiero. (je, je, je)}
 {352}{}{Vale, pero espero que te llamen 'Flaco' sólo por tu altura.}
 {353}{}{Eh, eso no es exactamente lo que tenía en mente.}
 {354}{}{Borra esa sonrisa de tu cara. Será mejor que me vaya antes de que resultes herido. Adiós.}

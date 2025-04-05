@@ -42,7 +42,7 @@
 {180}{}{Desde luego que el tiempo ha sido seco últimamente.}
 {181}{}{Maldita maleza.}
 {182}{}{Creo que el reactor nuclear empeora lo de esa maleza.}
-{183}{}{He oído que que algunas malezas son peligrosas.}
+{183}{}{He oído que algunas malezas son peligrosas.}
 {184}{}{He oído que los tribales saben invocar la lluvia.}
 {185}{}{Buena cosecha la de este año.}
 {186}{}{El maíz está creciendo tan alto como una Garra mortal.}

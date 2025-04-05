@@ -246,7 +246,10 @@
 {294}{}{La mejora de asalto para la armadura de implantes Phoenix.}
 {295}{}{Doc, creo que preferiría preguntarte sobre algo menos… eh, invasivo.}
 {296}{}{La verdad es que no quiero oír nada más sobre una operación ahora mismo. Adiós.}
-{297}{}{Por lo que he leído, la armadura dérmica de impacto te otorga un 5% de resistencia al daño normal  y explosivo, añadido a cualquier otra armadura que lleves. La operación necesita unos dos días, una armadura de combate (para las piezas), y te costará 5.000 dólares. El procedimiento debería ser bastante simple… creo. Hmm, puede que incluso las cicatrices no sean tan malas.}
+{297}{}{Por lo que he leído, la armadura dérmica de impacto te otorga un 5% de resistencia al daño normal y explosivo,
+ añadido a cualquier otra armadura que lleves. La operación necesita unos dos días,
+ una armadura de combate (para las piezas), y te costará 5.000 dólares. El procedimiento debería ser bastante simple… creo.
+ Hmm, puede que incluso las cicatrices no sean tan malas.}
 {298}{}{Eso suena genial, Doc. Hagámoslo. Estoy harto de que me disparen, me apuñalen y me revienten todo el
  puñetero día.}
 {299}{}{Déjame preguntarte sobre una de las otras operaciones, Doc.}

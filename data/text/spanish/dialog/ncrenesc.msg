@@ -103,7 +103,8 @@
 {412}{}{¿Quién se asegura de que Redding esté bien abastecido? ¿Y por qué?}
 {413}{}{Ya me he dado cuenta. Oye, tenía algunas preguntas más...}
 {414}{}{Ya veo… ahora debo irme.}
-{420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil. Es como una gran y brillante garrapata agarrada al desierto.  Ahora bien, Redding, por el contrario…}
+{420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil.
+ Es como una gran y brillante garrapata agarrada al desierto. Ahora bien, Redding, por el contrario…}
 {421}{}{Continúa.}
 {422}{}{… PRODUCE algo útil.}
 {423}{}{Ya he oído bastante.}
@@ -144,8 +145,7 @@
 {518}{}{Oye, ¿alguna vez has oído hablar de un Kit de Creación del Jardín del Edén? ¿O del Refugio 13?}
 {519}{}{De acuerdo, entonces… me voy de aquí.}
 {525}{}{(Renesco continúa mirándote en silencio).}
-{526}{}{Y a veces la Anciana se molesta con pequeñeces, como… je, je… esa noche en la que ignoré mi voto de
- celibato y me colé con Reyna - Cuyas - Piernas - Aplastan - con - la - Fuerza - de - Mil - Serpientes en el cañón de Arroyo…}
+{526}{}{Y a veces la anciana se enoja por pequeñas cosas, como... je, je... aquella noche cuando ignoré mi voto de celibato y me escabullí con Reyna - Cuyas - Piernas - Aplastan - Con - Fuerza - de - Mil - Serpientes al cañón Arroyo...}
 {535}{}{(Renesco te lanza una mirada fulminante).}
 {536}{}{Es como si hubiera pasado ayer. El cuerpo de Reyna brillaba como la plata con la luz de la luna cuando se arrodilló y… oye, ¿sabes qué?
  Tú podrías ser como la Anciana. Tiene más o menos tu edad.}
@@ -240,7 +240,7 @@
 {747}{}{¡¿Doscientos?! ¡Dijiste CIEN hace un segundo!}
 {748}{}{Eh, me las llevaré. Aquí tienes.}
 {749}{}{Eh, no llevo encima dos centenares… volveré más tarde con el dinero. }
-{755}{}{DUDO horrores que fuera eso lo que dijo.  No sería 'El canario estiró la pata', ¿verdad?}
+{755}{}{dudo ENORMEMENTE que fuera eso lo que dijo. No sería 'El canario estiró la pata', ¿verdad?}
 {756}{}{Bueno, sí.}
 {760}{}{¿Y...?}
 {761}{}{¿"Y"?}
@@ -352,7 +352,7 @@
 {995}{}{Los Salvatore lo pidieron: dijeron que era un... "pedido especial". No sabía que se lo iban a dar
  al chico de Wright. TIENES que creerme... ¡Yo no enveneno a niños!}
 {996}{}{Sólo a adultos, ¿eh, Renesco? Patético hijo de puta...}
-{997}{}{¿POR QUÉ envenenaste el Jet?  Tenías que saber que iban a matar a alguien con él.}
+{997}{}{¿POR QUÉ envenenaste el Jet? Tenías que saber que iban a matar a alguien con él.}
 {998}{}{Está bien, está bien, te creo. Tenía algunas otras preguntas...}
 {999}{}{Cierra el pico, anda. Bien, tengo algunas preguntas más...}
 {1000}{}{Los Salvatore, ¿eh? Creo que el señor Wright querrá enterarse de esto. }
@@ -385,7 +385,7 @@
 {6011}{}{Justo lo suficiente. De pasar, a continuación,...}
 {6012}{}{Vamos, podría humor mí? Sólo por esta vez? Bastante pleeease?}
 {6020}{}{Bien. Mi receta es de los cigarrillos y la carne roja, en grandes cantidades. Era eso todo? Si tengo que poner con mucho más vacua prattle hoy en día, soy responsable de tener un accidente cerebrovascular a mí mismo.}
-{6021}{}{Sí, está muy muy nervioso, no? Apuesto a Hakunin podría ayudar con eso. Él es el hombre de la medicina de vuelta a casa, en el Arroyo. Dicen que he dicho sobre el Arroyo?}
+{6021}{}{Sí, está muy nervioso, no? Apuesto a Hakunin podría ayudar con eso. Él es el hombre de la medicina de vuelta a casa, en Arroyo. Dicen que he dicho sobre Arroyo?}
 {6022}{}{Y ¿no sería una tragedia. La siguiente pregunta...}
 {6023}{}{Bueno, sólo una más rápida la cosa...}
 {6024}{}{Caramba, gracias Renesco. Yo sabía que podía contar con usted. Usted toma el cuidado ahora.}

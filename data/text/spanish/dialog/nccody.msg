@@ -98,7 +98,7 @@
 {1204}{}{ triste. ¿Has visto el coche de }
 {1205}{}{ al coche ahora? ¿Por faaaavor?}
 {1254}{}{?}
-{1282}{}{ ! ¡Dónde! ¡Dónde! ¡Llévame! ¡Llévame! ¿Por faaaavor? ¿Quieres? ¿Eh?}
+{1282}{}{ auto! ¡Dónde! ¡Dónde! ¡Llévame! ¡Llévame! ¿Por faaaavor? ¿Quieres? ¿Eh?}
 {1283}{}{ … ¡oh, mira! ¡Algo brillante! (Se aleja).}
 {1293}{}{y el puño de }
 {2204}{}{ ?}

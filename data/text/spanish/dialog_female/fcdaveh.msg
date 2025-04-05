@@ -39,7 +39,7 @@
 ::el dolor cruza su rostro::
 Oh, bueno.
 ::aparta la mirada::}
-{137}{}{Apuesto que que quieres vengarte de ella.}
+{137}{}{Apuesto que quieres vengarte de ella.}
 {138}{}{Lo siento. Tengo más preguntas.}
 {139}{}{Después de haber entregado esas noticias... ¡hasta luego!}
 {140}{}{Puedes apostarlo. ¿Qué necesitas?}

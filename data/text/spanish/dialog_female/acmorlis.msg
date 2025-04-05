@@ -7,19 +7,25 @@
 {106}{}{Que, emm... podrías tener un pedernal.}
 {107}{}{Lo tengo. Lo quieres, ¿no es eso?}
 {108}{}{Bueno, sí.}
-{109}{}{Bien... quiero tres dosis de polvos curativos. Se acercan malos tiempos y debo estar preparada. Traémelos y te daré el pedernal. ¡Ahora ve a conseguirlos!}
+{109}{}{Bien... quiero tres dosis de polvos curativos. Se acercan malos tiempos
+ y debo estar preparada. Traémelos y te daré el pedernal.
+ ¡Ahora ve a conseguirlos!}
 {110}{}{¡Si, señora!}
 {111}{}{No me hagas perder el tiempo. ¿Tienes los polvos?}
 {112}{}{Si, aquí están.}
 {113}{}{Emm... me temo que no.}
 {114}{}{Aquí está el pedernal. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
 {115}{}{Gracias, Tía Morlis.}
-{116}{}{Otra vez me haces perder el tiempo, ¡sobrino inútil! ¿Cómo es posible que te escogieran a ti como el Elegido?}
+{116}{}{Otra vez me haces perder el tiempo, ¡sobrino inútil! ¿Cómo es posible
+ que te escogieran a ti como el Elegido?}
 {117}{}{Si, tía Morlis.}
 {118}{}{Eh, tía Morlis, aquí tengo los tres.}
-{150}{}{Tía Morlis, estoy en una peligrosa misión para salvar al poblado. Mis posibilidades de supervivencia aumentarían mucho si me quedara con los polvos curativos y me dieras el pedernal. ¿No crees?}
+{150}{}{Tía Morlis, estoy en una peligrosa misión para salvar al poblado.
+ Mis posibilidades de supervivencia aumentarían mucho si me quedara con
+ los polvos curativos y me dieras el pedernal. ¿No crees?}
 {151}{}{¿Qué crees que estás haciendo, chiquilla? Esa no es manera de actuar para una Elegida. ¡Ahora desaparece de mi vista!}
-{152}{}{Si este pedernal es tan importante que estás dispuesto a deshonrar el nombre del Elegido, tenlo. Toma el pedernal y desaparece de mi vista.}
+{152}{}{Si este pedernal es tan importante que estás dispuesto a deshonrar el nombre del Elegido, tenlo.
+ Toma el pedernal y desaparece de mi vista.}
 {153}{}{Si, tía Morlis.}
 {154}{}{Bien... Oh, bien. Aquí está el pedernal. Te deseo un buen viaje, hija.}
 {155}{}{No, no lo creo. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!}

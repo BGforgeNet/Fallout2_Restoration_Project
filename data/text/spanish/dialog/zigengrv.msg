@@ -56,7 +56,7 @@
 {337}{}{"Amy Presnell."}
 {338}{}{"Stephen Bokkes, 25 años. Tumbado en su mejor momento por las hondas y las flechas de una asombrosa fortuna". }
 {339}{}{"D.E.P. Doug "Calavera" Finch (la fecha no importa). Asesinado por fumar en el Mercado Francés. Sus últimas palabras: "¡Probemos el Puñetazo de Burro!'"}
-{340}{}{"Aquí yace Donnie Cornwell, bien muerto.  En un ataúd extra-grande para que quepa su cabeza extra-grande".}
+{340}{}{"Aquí yace Donnie Cornwell, bien muerto. En un ataúd extra-grande para que quepa su cabeza extra-grande".}
 {341}{}{"Rob Giampa vivió su vida como le gustaban las mujeres: rápida, barata, y fácil".}
 {342}{}{"T. D. Hamilton: Aquí yace una hedionda golfa que debería haber muerto hace mucho tiempo. ¡Descansa SIN paz, ZORRA!"}
 {343}{}{"Otra víctima de las fechas límite".}
@@ -98,7 +98,7 @@
 {379}{}{"Jughead - Rey del Mundo de la reina Archie".}
 {380}{}{"D.E.P Casey Donahue. Muerto el 6/8/98. Asesinado por una lubina mutada de mal humor".}
 {381}{}{"Christopher 'Nightwing' Jones: administrador de la seta moretón."}
-{382}{}{"Jay "Pie de Patata" Nielson.  Músico.  Falleció a los 104 años, durante un solo de tambor".}
+{382}{}{"Jay "Pie de Patata" Nielson. Músico. Falleció a los 104 años, durante un solo de tambor".}
 {383}{}{"Nitsa - La razón por la que Charles no entendió bien lo del hockey".}
 {384}{}{"Thuy Dang. Que Dios tenga piedad de su nombre".}
 {500}{}{Consigues poner una trampa en la tumba.}

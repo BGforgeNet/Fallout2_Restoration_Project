@@ -53,8 +53,10 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que
 {320}{}{Bien, ya ves, es todo parte de sus "experimentos". Estos malditos doctores estaban haciendo algún tipo de pruebas en La "naturaleza del mal humano" o alguna mierda así. Me estaban inyectando los recuerdos de un maníaco para ver cómo funciona. Afectaría la personalidad de una persona normal. Al menos, eso es lo mejor que podía yo entenderlo.}
 {321}{}{Bueno ... si eso es verdad, entonces es terrible. Pero, ¿qué hizo que te eligieran como sujeto de prueba en primer lugar?}
 {322}{}{Wow hombre, eso realmente apesta. De todos modos, todo eso esta ya en el pasado. Esos gilipollas científicos llevan mucho tiempo muertos y no serán capaz de meterse más contigo. Ven conmigo y saldremos de este lugar.}
-{330}{}{Je, sabes que es lo gracioso. *Yo* en realidad  fui a *ellos* Respondiendo a un anuncio que publicaron diciendo que pagarían mucho dolares por ser sujeto de prueba sanos. Necesitaba el dinero y, bueno, resulto ser el peor error de mi vida.
- Ni siquiera puedo empezar a contarte los horrores a los que me sometieron. [Sus ojos brillan con lágrimas mientras reflexiona. Él suspira Profundamente y se limpia las lagrimas del rostro.] De todos modos, gracias a ti, amiga, finalmente estoy libre de esa pesadilla}
+{330}{}{Je, sabes que es lo gracioso. *Yo* en realidad fui a *ellos*. Respondí a un anuncio que publicaron diciendo que pagarían
+ muchos dolares por ser sujeto de prueba sanos. Necesitaba el dinero y, bueno, resulto ser el peor error de mi vida.
+ Ni siquiera puedo empezar a contarte los horrores a los que me sometieron. [Sus ojos brillan con lágrimas mientras reflexiona.
+ Él suspira Profundamente y se limpia las lagrimas del rostro.] De todos modos, gracias a ti, amiga, finalmente estoy libre de esa pesadilla}
 {331}{}{Eh. Bien, me alegra poder ayudar... Yo creo.}
 {332}{}{En realidad, gilipollas, tu pesadilla acaba de empezar, porque no voy a comprar una palabra de esto.}
 {340}{}{Entonces, ¿qué tal, amigo? ¿Podemos asociarnos? No solo te sentirás más fresco colgándome, sino que puedo manejarme en una pelea. Demonios, estaría bien yendo solo, pero no tengo idea de qué tipo de mierda loca está acechando ahora. Por lo que sé, el primer árbol en el que meo podría abrir su boca y morderme la polla.}
@@ -153,7 +155,7 @@ profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
 {570}{}{Wow, eso es realmente interesante, cariño, y no puedo esperar para saber más sobre ti. Honesto. Pero antes que nada, ¿qué tal si me informas sobre lo que pasó desde que me pusieron en hielo?
  Quiero decir, este lugar se ha vuelto una mierda, y parece que has salido de algún tipo de historia de aventuras de ciencia ficción.}
 {580}{}{Muy bien, ¿realmente necesitas saberlo? Bien. Básicamente, estos locos doctores estaban haciendo algún tipo de prueba sobre la "naturaleza del mal humano" o alguna basura. Me inyectaron los recuerdos de un maníaco para ver cómo afectaría la personalidad de un tipo decente y respetuoso de la ley como yo. Al menos, eso es lo mejor que pude entender.}
-{581}{}{Veo. Entonces, ¿cómo * te * te afectó?}
+{581}{}{Ya veo. Entonces, ¿cómo *te* afectó?}
 {582}{}{No sé, me dio algunas pesadillas, ¿de acuerdo? Mira cariño, he pasado por muchas cosas y no estoy de humor para un jodido interrogatorio en este momento.
  Respondí tus preguntas, ahora, ¿qué tal si me informas sobre lo que pasó desde que me pusieron en hielo? Quiero decir, este lugar se ha vuelto una mierda, y parece que has salido de algún tipo de historia de aventuras de ciencia ficción.}
 {600}{}{[Cuando te acercas a la cámara criogénica, ves a un atractivo hombre desnudo tirado en el suelo. Él estira las rodillas
@@ -168,7 +170,7 @@ profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
 {612}{}{Bueno, yo-}
 {620}{}{Por supuesto que no te importa. Gracias compañera. [Él pasa a tu lado y abre un casillero cercano. Se viste casualmente
  con un traje finamente confeccionado, luego guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y 
- peinar su  cabello oscuro peinado con la rápida precisión de un profesional experimentado. Entonces, ¿dónde está el doc? }
+ peinar su cabello oscuro peinado con la rápida precisión de un profesional experimentado. Entonces, ¿dónde está el doc? }
 {621}{}{Me gana Donde quiera que esté, ya hace mucho que está muerto. Verás, has estado haciendo esa impresión de paleta durante mucho tiempo REAL.}
 {622}{}{Escucha, chico lindo. No deshice tu trasero psicótico para poder responder tus preguntas y verte cuidarte.
  Solo te dejo vivir lo suficiente como para contarme cualquier información útil que puedas tener. Entonces comienza a hablar. Mas
@@ -239,8 +241,8 @@ profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
  divertirnos mucho juntos.}
 {833}{}{Yo... creo que enamoré. [Dex se ha unido al grupo.]}
 {840}{}{Whoa, whoa, whoa. Retrocede un segundo, cariño. ¿Acabas de decir ciento cincuenta años? [Sacude la cabeza con incredulidad.]
-  Eso no es jodidamente creíble. [Mira su reflejo.] Pero tienes que admitir que me veo muy bien para mi edad. [Él te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología anterior a la guerra que te parece extraño en todos sus
-  simetría blanca nacarada.]}
+ Eso no es jodidamente creíble. [Mira su reflejo.] Pero tienes que admitir que me veo muy bien para mi edad. [Él te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología anterior a la guerra que te parece extraño en todos sus
+ simetría blanca nacarada.]}
 {841}{}{Claro, algunas chicas podrían pensar que eres un tipo atractivo, pero estoy segura de que se ven desalentadas 
  por todo ese rollo de asesino psicótico.}
 {842}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}

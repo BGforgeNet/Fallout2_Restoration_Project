@@ -53,7 +53,7 @@
 {152}{}{ }
 {153}{}{¿Qué almacenáis aquí abajo?}
 {154}{}{Nos vemos. Adiós.}
-{155}{}{P-pi-piezas de recambio... s-su-suministros... y  o-o-oro...}
+{155}{}{P-pi-piezas de recambio... s-su-suministros... y o-o-oro...}
 {156}{}{ }
 {157}{}{¿¡Oro!?}
 {158}{}{Oh. Gracias por la información.}

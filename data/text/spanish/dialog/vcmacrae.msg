@@ -64,7 +64,7 @@
 {152}{}{Vale, ya lo he cosido todo. En marcha.}
 {153}{}{Vale, casi todo está más o menos parcheado.}
 {154}{}{Me las he arreglado bastante bien, pero podría usar un par de estimulantes más.}
-{155}{}{Usé lo que pude, pero pero aún sigo hecho un desastre. ¿Tienes algún estimulante?}
+{155}{}{Usé lo que pude, pero aún sigo hecho un desastre. ¿Tienes algún estimulante?}
 {156}{}{Usa Primeros Auxilios contigo mismo.}
 {157}{}{No importa.}
 {158}{}{Vale.}

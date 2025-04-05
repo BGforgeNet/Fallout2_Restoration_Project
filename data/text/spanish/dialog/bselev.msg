@@ -122,7 +122,7 @@ una ganzúa), que podrías ser capaz de forzar.}
 {175}{}{ no consigue abrir la cerradura de esta puerta.}
 {176}{}{Rompes la cerradura de la puerta.}
 {177}{}{Te lesionas la espalda mientras tratas de romper la cerradura y recibes un punto de daño.}
-{178}{}{Te lesionas la espalda mientras tratas de de romper la cerradura y recibes }
+{178}{}{Te lesionas la espalda mientras tratas de romper la cerradura y recibes }
 {179}{}{ puntos de daño.}
 {180}{}{Eres demasiado débil para romper la cerradura.}
 {181}{}{ rompe la cerradura de la puerta.}

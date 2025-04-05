@@ -2,7 +2,7 @@
 {101}{}{Ves a Cookie, el cocinero.}
 {102}{}{Ves a un hombre que lleva armadura, un gorro de chef y un delantal.}
 {103}{}{Eh, soldado. ¿Estás buscando algo de papeo o sólo quieres charlar?}
-{104}{}{¡Cooooomer!}
+{104}{}{mi querer comida.}
 {105}{}{Yo hablo.}
 {106}{}{Podría comer algo.}
 {107}{}{Vamos a charlar un rato.}

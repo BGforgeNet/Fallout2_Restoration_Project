@@ -96,7 +96,7 @@
 {195}{}{Yo irme ahora.}
 {196}{}{Gracias, supongo. Oye, ¿tienes un momento para una pregunta?}
 {197}{}{Gracias. Sólo pensé que deberías saberlo.}
-{198}{}{¿Lo hiciste? Oh, si no estuviera de servicio, saltaría por encima de esta barra y... bien, te besaría. El muy cabrón se lo merecía. De hecho, no se lo digas a nadie pero estaba esperando que algún tipo duro con pocas luces hiciera el trabajo por mí. Hasta tenía una pequeña recompensa guardada para ello.  Ahora es tuya: en lo que a mí respecta, te la has ganado.}
+{198}{}{¿Lo hiciste? Oh, si no estuviera de servicio, saltaría por encima de esta barra y... bien, te besaría. El muy cabrón se lo merecía. De hecho, no se lo digas a nadie pero estaba esperando que algún tipo duro con pocas luces hiciera el trabajo por mí. Hasta tenía una pequeña recompensa guardada para ello. Ahora es tuya: en lo que a mí respecta, te la has ganado.}
 {199}{}{Gracias, supongo. Oye, ¿tienes un momento para una pregunta?}
 {200}{}{Gracias. Sólo pensé que deberías saberlo.}
 {201}{}{¡Dumbo, me has hecho la mujer más feliz de por aquí! Tengo un pequeño regalo para ti, justo aquí, tras la barra. Es todo tuyo.}

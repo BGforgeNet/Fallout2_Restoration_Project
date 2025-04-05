@@ -26,7 +26,7 @@
 {125}{}{¿Qué es un transpondedor IAE y un FOB?}
 {126}{}{¿Qué plataforma petrolífera?}
 {127}{}{Sí. Adiós.}
-{128}{}{IAE: Identificador Amigo o Enemigo. Significa que este barco está identificado como amigo, así que otros elementos de Poseidon - como, digamos, una plataforma petrolifera - no te dispararán en cuanto estés a tiro. Oh, y un FOB es alguna clase de tecnología del Enclave que te permite acceder a una puerta electrónica. Seguramente encontrarías una de esas en en una de sus bases o un lugar similar.}
+{128}{}{IAE: Identificador Amigo o Enemigo. Significa que este barco está identificado como amigo, así que otros elementos de Poseidon - como, digamos, una plataforma petrolifera - no te dispararán en cuanto estés a tiro. Oh, y un FOB es alguna clase de tecnología del Enclave que te permite acceder a una puerta electrónica. Seguramente encontrarías una de esas en una de sus bases o un lugar similar.}
 {129}{}{¿Cómo sabes todo esto?}
 {130}{}{¿Qué plataforma petrolífera?}
 {131}{}{Gracias. Adiós.}

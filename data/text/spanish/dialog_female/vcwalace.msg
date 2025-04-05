@@ -91,7 +91,7 @@
 {190}{}{No importa, entonces.}
 {191}{}{Oh, dilo. Iré corriendo hacia la Primer Ciudadano para entregarle las noticias personalmente.}
 {192}{}{Bien, no he dicho que no pueda ayudarte, es sólo que... bueno... ¿cuál es el propósito de tu visita?}
-{193}{}{Uh... Tengo información que... podría conducir al establecimiento de una red  de... um, todos los Refugios del país. Eso es.}
+{193}{}{Uh... Tengo información que... podría conducir al establecimiento de una red de... um, todos los Refugios del país. Eso es.}
 {194}{}{No puedo decirte personalmente, oficial, tanto como quisiera. Es sólo para los oídos de la Primer Ciudadano. Por eso es vital que hable con ella.}
 {195}{}{Bueno... es... uh, muy, muy importante. ¿He mencionado lo importante que es?}
 {196}{}{¿Una... red de Refugios?}

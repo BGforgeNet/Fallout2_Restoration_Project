@@ -108,7 +108,7 @@
 {381}{}{Siento oír eso. ¿A dónde cree que fue Torr?}
 {390}{}{Vale.}
 {400}{}{Has encontrado Smiley? ¿Dónde está él?}
-{401}{}{¿Quién? Oh, no, no, no. No sé donde está. Eh, mire, déjeme preguntarle una cosa.}
+{401}{}{¿Quién? Ah, eh, no. No sé adónde fue. Eh, oye, déjame preguntarte algo más.}
 {402}{}{Está muerto. Se lo comieron los geckos.}
 {403}{}{Yo, eh... le he visto. Dijo que se había ido con otra mujer. ¡Caray! Mira qué tarde es. Debo irme ya.}
 {404}{}{Eh, yo, eh, nosotros, es que... eh, no, aún no le he encontrado. Seguro que aparece cualquier día de estos. Bueno, adiós.}

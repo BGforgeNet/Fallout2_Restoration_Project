@@ -770,7 +770,7 @@
 {3119}{}{Eh, deja de alejarte de mí.}
 {3120}{}{¡Eres historia!}
 {3121}{}{Carne fresca...}
-{3122}{}{Carne, carne, carne, ¡carne a la boloñesa!}
+{3122}{}{Carne, carne, ¡carne a la boloñesa!}
 {3123}{}{Cerebros...}
 {3124}{}{Cavaré tu tumba...}
 {3125}{}{Espero poder mantener tu cabeza intacta...}
@@ -1155,7 +1155,7 @@
 {32346}{}{¡Impresionante, ca-ri-ño!}
 {32347}{}{Oh, ¿eres tan feo?}
 {32348}{}{Tu cara es así como fea, ¿verdad?}
-{32360}{}{¡No le has dado a mi bazo! ¡JA JA!}
+{32360}{}{¡Fallaste mi bazo! ¡JA JA!}
 {32361}{}{¡APESTAS!}
 {32362}{}{¡Ja ja!¡Aquí mando yo!}
 {32363}{}{Dame un besito, amor.}
@@ -1667,7 +1667,7 @@
 {44864}{}{No necesito dos piernas para matarte.}
 {44870}{}{Genial. Una pierna rota.}
 {44871}{}{¡Maldición! La pierna...}
-{44872}{}{La pierna no... no puedo caminar bien sin ella.}
+{44872}{}{La pierna no... que ya camino mal.}
 {44873}{}{Tú me rompes la pierna, yo te la rompo a ti.}
 {44874}{}{¡Arrggh! ¡Me duele la rodilla!}
 {44880}{}{¡No puedo ver!}

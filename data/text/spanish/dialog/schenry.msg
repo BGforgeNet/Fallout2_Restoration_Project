@@ -48,7 +48,7 @@
 {147}{}{Y... ¿cómo funcionó?}
 {148}{}{¡Lo mató! ¡Dijiste que curaría a los mutantes!}
 {149}{}{Está muerto, Jim.}
-{150}{}{Lo entendiste mal. Dije que eliminaría su potencial mutagénico. Aunque el proceso parece resultar violento para el sistema.  En fin, habrá que refinar más.}
+{150}{}{Lo entendiste mal. Dije que eliminaría su potencial mutagénico. Aunque el proceso parece resultar violento para el sistema. En fin, habrá que refinar más.}
 {151}{}{¿Qué pasa con mi pago?}
 {152}{}{¡Eres un monstruo! No quiero nada contigo.}
 {153}{}{Sigue habiendo algunos errores, por lo que veo. En fin, a seguir intentándolo.}

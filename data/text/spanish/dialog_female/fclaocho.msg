@@ -42,7 +42,7 @@
 {141}{}{¿Cómo pierde uno un bazo?}
 {142}{}{Gracias. Tengo más preguntas.}
 {143}{}{Ah, ya. Adiós.}
-{144}{}{El doctor Wong el el científico jefe del Palacio de Acero. Mira por allí.}
+{144}{}{El doctor Wong el científico jefe del Palacio de Acero. Buscalo allí.}
 {145}{}{¿Cómo pierde uno un bazo, por cierto?}
 {146}{}{Gracias. Quería más información.}
 {147}{}{Gracias. Adiós.}

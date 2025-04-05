@@ -19,8 +19,7 @@
 {120}{}{Esa es una gran idea. Nosotros prepararemos las cosas.}
 {200}{}{¿Eh?}
 {201}{}{Este es nuestro territorio.}
-{202}{}{¿Eres un okupa también?
-}
+{202}{}{¿Eres un okupa también?}
 {203}{}{¿Tienes algo para comer?}
 {300}{}{Ves a un hombre en ropa de trabajo.}
 {301}{}{Ves a una mujer en ropa de trabajo.}

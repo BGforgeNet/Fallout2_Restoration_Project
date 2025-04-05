@@ -87,7 +87,7 @@
 {323}{}{Hagan sus apuestas, la apuesta mínima es }
 {324}{}{Yo más ap-apuesto que tú}
 {325}{}{Me juego los pantalones.}
-{326}{}{¿Qué es este juego? ¿Puedo apostar una piel de gecko?  Geck…ooooh… ¡luces brillantes! [Te alejas].}
+{326}{}{¿Qué es este juego? ¿Puedo apostar una piel de gecko? Geck…ooooh… ¡luces brillantes! [Te alejas].}
 {327}{}{[Tienes }
 {328}{}{Apuestas }
 {329}{}{Ey, demasiado rico para este planeta.}

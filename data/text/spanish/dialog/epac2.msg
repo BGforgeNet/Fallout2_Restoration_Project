@@ -27,9 +27,8 @@ Demasiado ocupados imponiéndose regulaciones unos a otros y discutiendo como to
 {272}{}{Ya solucioné ese problema. No más bucles sin fin.}
 {280}{}{¿Qué es eso? Oh, sí, sí, parece que un mal funcionamiento en algún lugar ha generado un poderoso campo magnético, que es borrando
 su memoria a corto plazo cada dos minutos, condenándolos a una especie de purgatorio de hologramas. Pero no importa eso,
-estamos mejor sin ellos. Con ellos atados en una discusión interminable, eso me deja, él, quiero decir, * nosotros *, a cargo de
-la instalación. Con mi intelecto supremo y tu cuerpo físico, podríamos hacer un buen dúo.
-}
+estamos mejor sin ellos. Con ellos atados en una discusión interminable, eso me deja, él, quiero decir, *nosotros*, a cargo de
+la instalación. Con mi intelecto supremo y tu cuerpo físico, podríamos hacer un buen dúo.}
 {281}{}{En primer lugar, ¿Por qué no me dices exactamente qué es este lugar?}
 {290}{}{De verdad? En mi opinión, estamos mejor sin ellos, pero si usted pensaba de otra manera ¿quién soy yo para quejarme. Con mi
  intelecto supremo, y su cuerpo físico, se podría hacer bastante el dúo, usted sabe.}

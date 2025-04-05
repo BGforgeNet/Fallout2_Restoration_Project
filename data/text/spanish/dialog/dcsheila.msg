@@ -17,7 +17,7 @@
 {166}{}{¡Yeehhee!}
 {167}{}{Mmmm, me gustan grandes y tontitos.}
 {168}{}{¡Ese soy yo!}
-{169}{}{¡Fuki Fuki!}
+{169}{}{¡Yay!}
 {170}{}{Oh. No. Adiós.}
 {171}{}{¡Qué chico más grande eres!}
 {172}{}{Como a ti te gustan.}

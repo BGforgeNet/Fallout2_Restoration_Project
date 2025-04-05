@@ -86,7 +86,7 @@
 {400}{}{¡Seguro! ¡Vamos a beber hasta caer redondos!}
 {401}{}{Adiós.}
 {410}{}{¿Y a ti qué te importa? Lárgate.}
-{411}{}{Sí, así, así.}
+{411}{}{Sí, más o menos.}
 {412}{}{¿Intentas molestarme?}
 {413}{}{No está mal.}
 {414}{}{Cansado.}

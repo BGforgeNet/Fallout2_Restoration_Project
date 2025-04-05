@@ -8,9 +8,9 @@
 {501}{}{Un pequeño escorpión mutante.}
 {600}{}{Escorpión rad}
 {601}{}{Un escorpión mutante.}
-{700}{}{Garra mortal}
+{700}{}{Mortíclavo}
 {701}{}{Una Garra mortal inmadura.}
-{800}{}{Garra mortal}
+{800}{}{Mortíclavo}
 {801}{}{Una Garra mortal inmadura.}
 {900}{}{Perro}
 {901}{}{Un perro, probablemente de raza cruzada.}
@@ -93,7 +93,7 @@
 {8200}{}{Perro salvaje}
 {8201}{}{Un perro salvaje de raza cruzada}
 {8300}{}{Gecko dorado}
-{8400}{}{Garra mortal}
+{8400}{}{Mortíclavo}
 {8500}{}{Huevo de Garra mortal}
 {8600}{}{Gecko dorado duro}
 {8700}{}{Lynette}
@@ -270,7 +270,7 @@
 {25300}{}{Gángster de la prensa}
 {25400}{}{Mercenario}
 {25500}{}{Mercenario}
-{25600}{}{Nocturno}
+{25600}{}{Nocturnos}
 {25700}{}{Nocturno duro}
 {25800}{}{Necrófago duro}
 {25900}{}{Gángster}

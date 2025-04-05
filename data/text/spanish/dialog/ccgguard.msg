@@ -4,7 +4,7 @@
 {103}{gate1}{¡Alto! Esto es propiedad federal. No se admite el acceso sin la debida autorización.}
 {104}{}{Eh... ¿fe-de-ral?}
 {105}{}{Tengo pase... ¿Dónde pongo yo?}
-{106}{}{Yo nuevo. Digo que que vosotros esperáis a yo.}
+{106}{}{Yo nuevo. Digo que vosotros esperáis a yo.}
 {107}{}{Oh. Perdón, marcho yo.}
 {108}{}{Tengo mi pase... estaba justo aquí.}
 {109}{}{Soy un nuevo recluta. Me dijeron que me estarían esperando.}

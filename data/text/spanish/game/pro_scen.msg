@@ -1590,15 +1590,15 @@
 {82900}{}{Pilar}
 {82901}{}{Pilar.}
 {83000}{}{Receptáculo para robot}
-{83001}{}{Esto es una bahía de de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
+{83001}{}{Esto es una bahía de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
 {83100}{}{Receptáculo para robot}
-{83101}{}{Esto es una bahía de de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
+{83101}{}{Esto es una bahía de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
 {83200}{}{Receptáculo para robot}
-{83201}{}{Esto es una bahía de de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
+{83201}{}{Esto es una bahía de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
 {83300}{}{Receptáculo para robot}
-{83301}{}{Esto es una bahía de de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
+{83301}{}{Esto es una bahía de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
 {83400}{}{Receptáculo para robot}
-{83401}{}{Esto es una bahía de de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
+{83401}{}{Esto es una bahía de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
 {83500}{}{Máquina}
 {83501}{}{Esta máquina tiene algo que ver con las bahías de servicio de robots. No parece particularmente interesante.}
 {83600}{}{Máquina}

@@ -53,8 +53,8 @@
 {257}{}{Suena bastante simple. Vamos a jugar. He aquí 20 fichas.}
 {258}{}{Hoy no, gracias.}
 {260}{}{(Entregas el dinero. Monte hace un gesto afirmativo, te muestra las cartas, y las pone boca abajo, barajándolas unos segundos.)}
-{261}{}{Así que... que uno de la reina, pal?}
-{262}{}{Así que... que uno de la reina, señora?}
+{261}{}{Entonces... ¿cuál es la reina, amigo?}
+{262}{}{Entonces... ¿cuál es la reina, señora?}
 {263}{}{(Que creo que es el de la izquierda.)}
 {264}{}{(Que creo que es el uno en el medio.)}
 {265}{}{(Que creo que es el de la derecha.)}
@@ -76,8 +76,8 @@
 {288}{}{Por supuesto. Aquí están las 500 fichas.}
 {289}{}{No, gracias.}
 {300}{}{(Entregas el dinero. Monte hace un gesto afirmativo, te muestra las cartas, luego las pone en el suelo. Al hacerlo, se guarda una bajo la palma, tan rápido que casi te lo pierdes. Entonces empieza a barajarlas unos segundos).}
-{301}{}{Así que... que uno de la reina, pal?}
-{302}{}{Así que... que uno de la reina, señora?}
+{301}{}{Entonces... ¿cuál es la reina, amigo?}
+{302}{}{Entonces... ¿cuál es la reina, señora?}
 {303}{}{Se puso en sleevie weevie que no se puede jugar feria}
 {304}{}{Lucy leftie}
 {305}{}{Medio de th'road}
@@ -103,8 +103,8 @@
 {334}{}{Todos los derechos, todos los derechos. Lo siento. He aquí 20 fichas. Vamos a jugar de nuevo.}
 {335}{}{Tornillo de usted. Mantener el dinero, me voy de aquí.}
 {340}{}{(Entregas el dinero. Monte hace un gesto afirmativo, y pone las cartas boca abajo, barajándolas unos segundos).}
-{341}{}{Así que... que uno de la reina, pal?}
-{342}{}{Así que... que uno de la reina, señora?}
+{341}{}{Entonces... ¿cuál es la reina, amigo?}
+{342}{}{Entonces... ¿cuál es la reina, señora?}
 {343}{}{(Monte del uso normal de la cubierta! Necesita robar su otro deck para completar el cambio.)}
 {344}{}{Se puso en sleevie weevie que no se puede jugar feria}
 {345}{}{Uh... Lucy leftie}
@@ -117,8 +117,8 @@
 {352}{}{Uh, el uno en el medio.}
 {360}{}{(Entregas el dinero. Monte hace un gesto afirmativo, te muestra las cartas, y las pone boca abajo, barajándolas unos segundos.)}
 {361}{}{(Entregar el dinero en efectivo. El Monte se ve incómodo.) Uh... todo bien... (Monte pone las cartas sobre la tierra y las baraja de ellos.)}
-{362}{}{Así que... que uno de la reina, pal?}
-{363}{}{Así que... que uno de la reina, señora?}
+{362}{}{Entonces... ¿cuál es la reina, amigo?}
+{363}{}{Entonces... ¿cuál es la reina, señora?}
 {364}{}{(Monte mediante el marcado de la cubierta. Cualquier selección es la de la derecha.)}
 {365}{}{Leftie! Leftie!}
 {366}{}{Rightie! Rightie!}
@@ -161,8 +161,8 @@
 {425}{}{(Entorna los ojos y se inclina) Yo le preguntaría al viejo Jules, en la parte delantera de la ciudad. Nada se le escapa… y
  si lo HICIERA, entonces es que tendría una mano metida en ello, ¿entiendes lo que digo?}
 {426}{}{Bien entonces, Monte. Estamos aún.}
-{430}{}{Bueno... ¿conoces a ese tal Eldridge que dirige Armas Nuevo Reno? Dice que mejora armas, pero nunca le he visto
- hacerlo. Quizá merecería la pena echar un ojo a su local... pero yo no te he he dicho nada.}
+{430}{}{Bueno... ¿conoces a ese tal Eldridge que maneja Armas Nuevo Reno? Dice que hace mejoras de armas, pero nunca lo he visto trabajando en ello.
+ Quizás valga la pena echarle un vistazo... pero yo no te lo dije.}
 {431}{}{Bien entonces, Monte. Estamos aún.}
 {435}{}{(Monte frunce el ceño al verte) Mira, hoy no voy a jugar más, ¿vale? Desaparece.}
 {436}{}{¿Puedo comprar esa tarjeta que usted me mostró antes?}

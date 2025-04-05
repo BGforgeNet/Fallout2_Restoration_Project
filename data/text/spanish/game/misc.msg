@@ -110,10 +110,10 @@
 {9180}{}{¡He aprendido cosas nuevas!}
 {9181}{}{¡He aprendido cosas nuevas!}
 {9190}{}{¡Guau GUAU!}
-{9191}{}{¡Guau Guau GUAU!}
-{9192}{}{¡Guau Guau GUAU!}
-{9193}{}{¡Guau Guau GUAU!}
-{9194}{}{¡Guau Guau GUAU!}
+{9191}{}{Guau Guau ¡GUAU!}
+{9192}{}{Guau Guau ¡GUAU!}
+{9193}{}{Guau Guau ¡GUAU!}
+{9194}{}{Guau Guau ¡GUAU!}
 {9195}{}{¡Ga-GUUUUAU!}
 {9200}{}{}
 {9210}{}{}

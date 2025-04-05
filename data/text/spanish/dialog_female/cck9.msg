@@ -4,7 +4,7 @@
 {103}{}{Las funciones vitales de mi amo han terminado. ¿Eres tú mi nueva ama?}
 {104}{}{Uh... ¿perrito habla?}
 {105}{}{Sí. Me gustaaa perrito.}
-{106}{}{No. No quiero perrito.}
+{106}{}{No. No querer perrito.}
 {107}{}{¡Ja! Un perro parlante.}
 {108}{}{Uno; soy un perro. Dos; estoy comunicándome contigo usando un lenguaje normal. A partir de aquí es seguro afirmar que la respuesta a tu pregunta es "sí, perrito habla.". Ahora, ¿vas a responder a la pregunta que te he planteado hace un momento?}
 {109}{}{Uno; soy un perro. Dos; estoy comunicándome contigo usando un lenguaje normal. A partir de aquí es seguro afirmar que soy un perro parlante. Ahora, ¿vas a responder a la pregunta que te he planteado hace un momento?}
@@ -22,7 +22,8 @@
 {121}{}{No, gracias.}
 {122}{}{Suena bien.}
 {123}{}{No, gracias.}
-{124}{}{Yo... ¡Yo me niego a pasar por esto una segunda vez! Si tuviera una unidad motriz completa te mordería en la parte carnosa de tu región posterior comúnmente conocida como...}
+{124}{}{Yo... ¡Me niego a pasar por esto contigo una segunda vez!
+ Si tuviera la motivación completa, te mordería en la parte carnosa de tu región anterior, comúnmente conocida como...}
 {125}{}{Culo. Yo sepo qué es culo. Yo no tonto. Sólo bromeo.}
 {126}{}{Oh, una broma. Ja Ja Ja. Ahora, ¿eres mi nueva ama o no?}
 {127}{}{Sí. Me gustaaa perrito.}
