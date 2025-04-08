@@ -259,9 +259,11 @@ end
 
 procedure critter_p_proc begin
    if (global_var(GVAR_DUDE_START_SEQ_1) != 0) then begin
-      if (game_time > global_var(GVAR_DUDE_START_SEQ_1) and not v13_status(FLG_GRUTHAR_DEAD) and cur_map_index != MAP_VAULT_13 and (global_var(GVAR_SCHREBER_DEAD) < 1)) then begin
- // Seraph's Code: "added global_var(GVAR_SCHREBER_DEAD) < 1"
-         ON_VAULT13_SEQ;
+      if (game_time > global_var(GVAR_DUDE_START_SEQ_1) and not v13_status(FLG_GRUTHAR_DEAD) and cur_map_index != MAP_VAULT_13) then begin
+         // Seraph's Code: "added global_var(GVAR_SCHREBER_DEAD) < 1"
+         if (global_var(GVAR_SCHREBER_DEAD) < 1) then begin
+            ON_VAULT13_SEQ;
+         end
          set_global_var(GVAR_DUDE_START_SEQ_1, 0);
       end
    end
