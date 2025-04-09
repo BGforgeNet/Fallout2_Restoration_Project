@@ -10,7 +10,7 @@ export release_dir
 export mods_dir="$release_dir/mods"
 export mpack_version=${mpack_version:-4.4.6}
 export mpack_7z="mpack.7z"
-export sfall_version=${sfall_version:-4.4.6}
+export sfall_version=${sfall_version:-4.4.6.1}
 export WINEARCH=win32
 export WINEDEBUG=-all
 export mod_name=rpu
