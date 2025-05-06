@@ -57,7 +57,7 @@
 {196}{}{A group of us were out hunting when we noticed the new farm. But that wasn't the strange thing.
  Soon after, some of us got together to visit our new neighbor, only to discover that there wasn't
  anybody there.}
-{197}{}{Go on.}
+{197}{}{Fortsätt.}
 {198}{}{After many months of trying to contact the owners with no success, it was decided that the farm
  must have been abandoned soon after it was built. So instead of letting the crops rot in the fields,
  young Karl moved in.}

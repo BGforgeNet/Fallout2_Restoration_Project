@@ -95,7 +95,7 @@
 {461}{}{Assist you with what?}
 {462}{}{No! I'm not going to assist you, asshole! Seymour was real! SEYMOUR WAS REAL!}
 {470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
-{471}{}{Go on.}
+{471}{}{Fortsätt.}
 {480}{}{When you look at a plant though, do you also think this? If you kick a plant, does it fight back? Does it respond to you in anyway? Does talking to a plant affect its growth? Some cultures before the Great War tested such theories. A people known as the Germans conducted experiments which lead them to believe that plants are capable of emotions and that one could promote healthy growth with talk, attention, and affection.}
 {481}{}{But plants lack a nervous system, and without one what you're suggesting just isn't possible.}
 {482}{}{I think all forms of life perceive in some way or another.}

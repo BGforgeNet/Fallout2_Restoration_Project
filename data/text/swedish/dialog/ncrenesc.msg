@@ -107,7 +107,7 @@
 {414}{}{I see... I must be going now.}
 {420}{}{Well, tribal, I doubt you have the sense to notice this yet, but New Reno doesn't produce anything useful.
  It's like a big, brightly-lit prairie tick sitting out in the desert. Now, Redding, on the other hand...}
-{421}{}{Go on.}
+{421}{}{Fortsätt.}
 {422}{}{...DOES produce something useful.}
 {423}{}{I've heard enough.}
 {430}{}{First and last time I'm gonna warn you, tribal: Don't finish my goddamn sentences. I don't like smartass primates

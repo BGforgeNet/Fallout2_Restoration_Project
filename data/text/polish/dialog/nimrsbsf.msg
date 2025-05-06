@@ -1,10 +1,27 @@
-{100}{}{You see a safe set securely into the wall. It is closed.}
-{150}{}{You see a safe set securely into the wall. It is open.}
-{200}{}{(There is a little door in the wall. A very, very small perhsun must live inside! There is a doorknob with numbers on it in the middle of the door.)}
-{220}{}{(There is a KER-KLANK, and the safe opens.)}
-{230}{}{(Podważasz mały panel na dnie sejfu. Sądzisz, że nie znalazłbyś go, gdyby pani Bishop Ci o nim nie powiedziała. W środku znajduje się dziwnie wyglądająca przystawka do Pip-Boya).}
-{240}{}{(You turn the dial slowly for several minutes, but you can't make out anything.)}
-{250}{}{(You don't find any traps on the safe.)}
-{260}{}{(You are turning the knob...when suddenly there is a KER-KLANK, and the door opens!)}
-{270}{}{(You turn the knob, but the tiny door won't open!)}
-{290}{}{(You don't hear anybody, and you can't see a doorbell. Maybe nobody's home.)}
+{100}{}{Widzisz sejf na kombinację wmurowany w ścianę. Jest zamknięty.}
+{101}{}{Widzisz sejf na kombinację wmurowany w ścianę. Jest otwarty.}
+{120}{}{Już chcesz otwierać sejf, gdy nagle zauważasz lont biegnący w ścianę tuż pod drzwiami. Wygląda na to, że ten sejf ma założoną pułapkę.}
+{121}{}{Wciąż widzisz założoną w sejfie pułapkę.}
+{150}{}{Słychać KER-KLANK, gdy sejf się otwiera.}
+{160}{}{Obracasz pokrętłem w przypadkowy sposób, gdy nagle trafia ono na kombinację... słychać KER-KLANK, i mechanizm sejfu jest otwarty.}
+{170}{}{Obracasz powoli pokrętło przez kilka minut, ale nic z tego nie wychodzi.}
+{171}{}{Obracasz pokrętło przez kilka minut, ale nic się nie dzieje.}
+{180}{}{Znajdujesz pułapkę założoną w sejfie i skutecznie ją rozbrajasz.}
+{181}{}{Udaje ci się skutecznie rozbroić pułapkę przy sejfie.}
+{190}{}{Znajdujesz pułapkę przy sejfie, ale nie udaje ci się jej rozbroić.}
+{200}{}{Nie wygląda na to, aby była tam jakaś pułapka.}
+{201}{}{Nie udaje ci się rozbroić pułapki.}
+{220}{}{Chyba najlepiej byłoby najpierw z powrotem uzbroić sejf plastikiem lub dynamitem.}
+{230}{}{Udało ci się zmienić kombinację sejfu... che che che...}
+{231}{}{Udało ci się zmienić kombinację sejfu... po raz kolejny.}
+{240}{}{Nie masz wystarczająco umiejętności, aby zmienić kombinację.}
+{241}{}{ nie ma wystarczająco umiejętności, aby zmienić kombinację.}
+{250}{}{Sejf musi być zamknięty.}
+{260}{}{Wygląda na to, że w sejfie już jest pułapka.}
+{270}{}{Nie udaje ci się założyć pułapki w sejfie.}
+{271}{}{ zawodzi przy zakładaniu pułapki w sejfie.}
+{280}{}{Pułapka w sejfie znowu jest aktywna.}
+{290}{}{Podczas poszukiwań w sejfie pułapki wywołujesz eksplozję.}
+{291}{}{Podczas rozbrajania pułapki pociągasz za nieodpowiedni kabel.}
+{300}{}{Słyszysz z góry stłumiony wybuch.}
+{400}{}{Podważasz mały panel na dnie sejfu. Sądzisz, że nie znalazłbyś go, gdyby pani Bishop Ci o nim nie powiedziała. W środku znajduje się dziwnie wyglądająca przystawka do Pip-Boya.}

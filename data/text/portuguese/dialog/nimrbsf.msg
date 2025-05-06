@@ -1,13 +1,30 @@
-{100}{}{Você vê um cofre bem preso na parede. Está fechado.}
-{150}{}{Você vê um cofre bem preso na parede. Está aberto.}
-{200}{}{(Há uma portinha na parede. Uma pessoa muito, muito pequena deve morar lá dentro! Há uma maçaneta com números no meio da porta.)}
-{220}{}{(Você escuta um CLIC e o cofre se abre.)}
-{230}{}{(Uma inspeção minuciosa revela um pequeno cubo de explosivo plástico colocado na parede logo abaixo do cofre, preparado para explodir se o usuário inserir a combinação errada. Ele foi coberto com uma fina camada de gesso para disfarçar.)}
-{240}{}{(Você gira o botão lentamente por vários minutos, mas não consegue nada.)}
-{250}{}{(Você não encontra nenhuma armadilha no cofre.)}
-{260}{}{(Você está girando a maçaneta... quando de repente ouve um CLIC e a porta se abre!)}
-{270}{}{(Você gira a maçaneta, mas a portinha não abre!)}
-{290}{}{(Você não ouve ninguém e não consegue ver uma campainha. Talvez ninguém esteja em casa.)}
-{300}{}{(Com precisão cirúrgica, você desarma o fusível e puxa o explosivo plástico da parede. A armadilha agora está desarmada.)}
-{310}{}{(Com precisão cirúrgica, você abre o fuzivel e ajusta o gatilho de combinação do tambor. O dono deste cofre terá uma surpresa
- quando tentar abri-lo novamente.)}
+{100}{}{Você vê um cofre de combinação instalado com segurança na parede. Está fechado.}
+{101}{}{Você vê um cofre de combinação instalado com segurança na parede. Está aberto.}
+{120}{}{Quando você está prestes a arrombar o cofre, percebe um fusível na parede
+ logo abaixo do cofre. Parece que esse desgraçado tem uma armadilha.}
+{121}{}{O cofre ainda tem uma armadilha.}
+{150}{}{Há um CLIC quando o cofre é desbloqueado.}
+{160}{}{Você está girando a roleta aleatoriamente, quando de repente ela atinge
+ um número e... CLIC e o cofre se abre.}
+{170}{}{Você gira a roda lentamente por vários minutos, mas não consegue fazer nada.}
+{171}{}{Você gira o dial por vários minutos e nada acontece.}
+{180}{}{Você encontra uma armadilha no cofre e a desarma com sucesso.}
+{181}{}{Você desarmou com sucesso a armadilha do cofre.}
+{190}{}{Você encontra uma armadilha no cofre, mas não consegue desarmá-la.}
+{200}{}{Não parece haver uma armadilha no cofre.}
+{201}{}{Você falha em desarmar a armadilha do cofre.}
+{220}{}{Provavelmente seria melhor rearmar o cofre com explosivos plásticos ou dinamite primeiro.}
+{230}{}{A combinação no cofre foi alterada com sucesso... heh heh heh...}
+{231}{}{A combinação no cofre foi alterada com sucesso... de novo.}
+{240}{}{Você não tem as habilidades para mudar a combinação.}
+{241}{}{ não tem as habilidades para mudar a combinação.}
+{250}{}{O cofre precisa ser fechado.}
+{260}{}{Parece haver uma armadilha já no cofre.}
+{270}{}{Você falha em por a armadilha no cofre.}
+{271}{}{ falha em por a armadilha no cofre.}
+{280}{}{A armadilha do cofre foi rearmada com sucesso.}
+{290}{}{Enquanto procurava uma armadilha no cofre, ocorre uma explosão.}
+{291}{}{Você puxou o fio errado ao desarmar a armadilha.}
+{300}{}{Você ouve um estrondo abafado no andar de cima.}
+{400}{}{Você abre um pequeno painel no fundo do cofre. Você não acha que teria encontrado se a Sra. Bishop
+ não tivesse lhe contado sobre isso. Dentro há um acessório Pip-Boy de aparência estranha.}

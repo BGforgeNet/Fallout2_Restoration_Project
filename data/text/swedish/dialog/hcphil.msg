@@ -139,4 +139,4 @@
 {1981}{}{A couple of loons've been locked up for spreading hate propaganda.}
 {1982}{}{Mine's purifiers are down.}
 {1983}{}{Caravans all over the place. That's about normal.}
-{1984}{}{Go on.}
+{1984}{}{Fortsätt.}

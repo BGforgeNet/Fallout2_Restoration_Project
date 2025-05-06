@@ -21,7 +21,7 @@
 {126}{}{[He frowns and smokes his pipe in silence for a long time. Just when you consider leaving. He finally speaks.] The spirits were strong with Sulik. I always thought, he might one day take my place. Now, I see the spirits had other plans for Sulik. But what of his sister, Kurisu?}
 {127}{}{She was captured by slavers. I've offered Sulik assistance in locating her. Do you know anything that might help in the search?}
 {128}{}{[He closes his eyes for a long time. Just as you think he might have fallen asleep, he begins speaking.] The slavers are led by a man with a dark soul. Metzger. He dwells in one of the ruined husks of the Old One's cities. They call it the Den. [He opens his eyes.] Perhaps, he is holding her there. The bonespirits say no more.}
-{129}{}{Thanks. Let me ask you something else.}
+{129}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
 {130}{}{Thank you, child, but I am content. Perhaps others are not so. Ask around the village.}
 {140}{}{I look for GECK.}
 {141}{}{I looking for missing woman. She sister of friend Sulik.}

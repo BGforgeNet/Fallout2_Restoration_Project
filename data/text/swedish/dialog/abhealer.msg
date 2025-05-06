@@ -22,7 +22,7 @@
 {601}{}{Jag förstår. Det låter som många år av att studera alla medicinska böcker från förkrigstiden i Klostrets bibliotek. Du måste vara en riktigt bra doktor.}
 {602}{}{Var fick du tag på all din medicinska utrustning?}
 {603}{}{Intressant. Jag tror att jag ska gå nu.}
-{604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
+{604}{}{[Han rynkar pannan.] Jag tycker att jag är en bra läkare, men jag kan inte ge böckerna äran för det eftersom jag inte ens får... glöm det, jag ska inte gå in på det. Min far var läkare och han förde sin kunskap vidare till mig.}
 {605}{}{Åh, jag förstår.}
 {700}{}{En del av medicinerna fick jag av min far. De flesta av de andra fanns redan här i Klostret.}
 {701}{}{Intressant, hej då.}

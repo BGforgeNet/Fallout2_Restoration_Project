@@ -31,7 +31,7 @@
 {602}{}{[John sits down in his chair and pours himself a shot of whiskey.] It all began a couple days ago. My wife and
  I were preparing for bed when we heard some rustling out in the field. I grabbed my lantern and rushed outside to see if
  I could find the source of the noise. As soon as I made it to the fields though, the noises had stopped.}
-{603}{}{Go on.}
+{603}{}{Fortsätt.}
 {604}{}{Look, I really must be going.}
 {605}{}{Well, the next night we didn't hear a thing. But the night after that, we heard rustling coming from the field
  again. This time I crept to the window and looked out rather than rushing outside. Peering into the darkness, I saw a

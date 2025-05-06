@@ -209,7 +209,7 @@
 {747}{}{Next time you better watch yourself. I'm outta here.}
 {755}{}{Aiight, aiight... here's the deal: we can do all the upgrades, spruce her up, and get it to Mr. Bishop pronto.
  Price... (Shrugs, smiles) ...question is: how CAN you put a price on a Highwayman like this?}
-{756}{}{Go on.}
+{756}{}{Fortsätt.}
 {757}{}{I don't have TIME for your bullshit. What's the bottom-line?}
 {758}{}{You're right. You can't. I will be taking the car with me, and Mr. Bishop will let you continue your operation here.}
 {759}{}{I don't have time for this. I'm outta here.}

@@ -1,45 +1,45 @@
-{100}{}{You see the owner of The Hole.}
-{101}{}{You see Frankie, owner of The Hole.}
-{150}{}{This appears to be the owner of this place.}
-{151}{}{This is Frankie. He owns this joint.}
+{100}{}{Bạn thấy chủ của The Hole.}
+{101}{}{Bạn thấy Frankie, chủ của The Hole.}
+{150}{}{Đây có vẻ là người chủ chỗ này.}
+{151}{}{Đây là Frankie. Ông ta là chủ quán này.}
 {152}{}{[NÓI CHUYỆN]}
-{153}{}{I'm Frankie and yer standing in 'The Hole.' Best damn bar for
- a hundred miles! Everyone crawls into The Hole when it's time to let loose.
- Now don't you be causing too much trouble, y'hear?}
-{154}{}{I hear ya.}
-{155}{}{Yeah, okay. Whatever.}
-{156}{}{I see why you call this place "The Hole."}
+{153}{}{Tôi là Frankie và cậu đang ở "The Hole". Quán bar tuyệt nhất trong vòng
+ trăm dặm quanh đây! Mọi người mò đến The Hole khi cần phê pha.
+ Giờ thì đừng giở trò rắc rối gì, được chứ?}
+{154}{}{Tôi nghe rồi.}
+{155}{}{Rồi, okay. Sao cũng được.}
+{156}{}{Tôi biết sao ông lại gọi chỗ này là "Cái lỗ" rồi.}
 {157}{}{Hở?}
-{158}{}{What's yer pleasure?}
+{158}{}{Cậu muốn thứ gì?}
 {159}{}{Whiskey.}
-{160}{}{Women.}
-{161}{}{Men.}
-{162}{}{Info.}
-{163}{}{Nothing today. Bye.}
+{160}{}{Gái.}
+{161}{}{Giai.}
+{162}{}{Thông tin.}
+{163}{}{Hôm nay thì không. Chào.}
 {164}{}{Wee wee.}
-{165}{}{Hey! You better shut your hole!}
+{165}{}{Này! Tốt hơn là câm cái mõm chó lại!}
 {166}{}{Không thì sao?}
-{167}{}{Just do your job and get me a drink.}
-{168}{}{I'll just leave instead.}
-{169}{}{Whiskey is $}
-{170}{}{ a shot.}
-{171}{}{Here's your money.}
-{172}{}{No way! That's too much!}
-{173}{}{Why does your whiskey cost so much more than Becky's?}
+{167}{}{Lo làm việc của ông và lấy đồ uống cho tôi đi.}
+{168}{}{Để tôi rời đi vậy.}
+{169}{}{Whiskey có giá $}
+{170}{}{ một ly.}
+{171}{}{Tiền đây.}
+{172}{}{Không được! Đắt quá!}
+{173}{}{Sao whiskey của ông lại đắt hơn chỗ Becky nhiều thế?}
 {174}{}{Không cám ơn.}
 {175}{}{Gì nữa không?}
 {176}{}{Đúng vậy.}
-{177}{}{Nope, thanks.}
-{178}{}{You don't have enough money! This ain't no charity!}
-{179}{}{Oh, sorry. I'm low on funds.}
+{177}{}{Không, cám ơn.}
+{178}{}{Cậu không có đủ tiền! Đây có phải chỗ từ thiện đâu!}
+{179}{}{Ồ, xin lỗi. Tôi đang cháy túi.}
 {180}{}{Tôi sẽ trở lại.}
 {181}{}{Muốn gì?}
 {182}{}{Whiskey.}
-{183}{}{Nothing. I'm leaving.}
+{183}{}{Không gì cả. Tôi đi đây.}
 {184}{}{Wahdo a peedee!}
-{185}{}{And stay out!}
-{186}{}{[EXIT]}
-{187}{}{I don't want people like you in my place. Get out!}
+{185}{}{Và đừng vào nữa!}
+{186}{}{[ĐI RA]}
+{187}{}{Tôi không muốn chứa người như cậu ở chỗ tôi. Biến đi!}
 {188}{}{Alright, I'm going.}
 {189}{}{Wa.}
 {190}{}{Those New Reno families charge an arm and a leg for their booze. I don't know how she does it!}

@@ -8,7 +8,7 @@
 {155}{}{Can I ask you something.}
 {156}{}{Chào.}
 {157}{}{I am so happy to see you again. What can I do for you today?}
-{158}{}{Let's trade.}
+{158}{}{Trao đổi nào.}
 {159}{}{Can I ask you something?}
 {160}{}{Nothing for now. Bye.}
 {161}{}{Hello, sir, and welcome to Tubby's. I am the proprietor. May I help

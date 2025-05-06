@@ -178,13 +178,13 @@
 {622}{}{hours} # Title line 3
 # -
 # -
-#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
-#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
-#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
-#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
-#{000}{}{  Intelligence: 00       Damage Res.: 000%}
-#{000}{}{       Agility: 00    Radiation Res.: 000%}
-#{000}{}{          Luck: 00       Poison Res.: 000%}
+#              Strength: 00        Hit Points: 000/000          Sequence: 00
+#            Perception: 00       Armor Class: 000          Healing Rate: 00
+#             Endurance: 00     Action Points: 000       Critical Chance: 000%
+#              Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.
+#          Intelligence: 00       Damage Res.: 000%
+#               Agility: 00    Radiation Res.: 000%
+#                  Luck: 00       Poison Res.: 000%
 #
 {623}{}{ ::: Statistics :::}
 {624}{}{       Strength:}
@@ -213,14 +213,14 @@
 {641}{}{       Poison Res.:}
 # -
 # -
-#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+#         Name: 01234567890        Age: 00         Gender: Female
 {642}{}{  Name:}
 {643}{}{Age:}
 {644}{}{               Gender:}
 {645}{}{Male}
 {646}{}{Female}
 #-
-#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+#         Level: 00                 Exp: 000,000    Next Level: 000,000
 {647}{}{ Level:}
 {648}{}{                Exp:}
 {649}{}{Next Level:}

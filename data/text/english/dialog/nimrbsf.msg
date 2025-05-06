@@ -1,94 +1,69 @@
-# 0. LOOK, CLOSED (WTG)
-{100}{}{You see a safe set securely into the wall. It is closed.}
+# 0.  LOOK, CLOSED (WTG)
+{100}{}{You see a combination safe set securely into the wall. It is closed.}
 
 # 1.  LOOK, OPEN (WTG)
-{150}{}{You see a safe set securely into the wall. It is open.}
+{101}{}{You see a combination safe set securely into the wall. It is open.}
 
-# 2.  EXAMINE SAFE, CLOSED (WTG, 10, 11)
-{200}{}{(There is a little door in the wall. A very, very small person must live inside! There is a doorknob with numbers on it in the middle of the door.)}
-{000}{}{(You examine the wall safe. It looks securely fastened into the wall and has a combination dial on the outside.)}
-{000}{}{Knock on door}
-{000}{}{Turn the knob}
-{000}{}{Wander off}
-{000}{}{[JBJBJB]}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial randomly.}
-{000}{}{Examine the safe for the trap Mrs. Bishop mentioned.}
-{000}{}{Examine the safe for traps.}
-{000}{}{Leave the safe alone.}
+# LOCKPICKING
+# trapped
+{120}{}{Just as you are about to begin lockpicking the safe, you notice a fuse running
+ into the wall just beneath the safe. Looks like this sucker's trapped.}
+{121}{}{The safe is still trapped.}
 
-# 3.  SAFE IS OPEN (WTG, 2, 5, 6, 7, 8)
-{220}{}{(There is a KER-KLANK, and the safe opens.)}
-{000}{}{(The safe is open.)}
-{000}{}{(The door swings open. Th' inside of the tiny house is reeeally dark. And small.)}
-{000}{}{(The door is open! Th' inside is reeeally dark. And small.)}
-{000}{}{Search the house for people}
-{000}{}{Wander off}
-{000}{}{Loot the safe.}
-{000}{}{Leave the safe alone.}
+# successfull unlock
+{150}{}{There is a KER-KLANK as the safe unlocks.}
 
-# 4.  TRAPS, SUCCESS . . . ? (2, 6)
-{230}{}{(Close inspection reveals a small cube of plastic explosive set into the wall just beneath the safe, primed to go off if the user enters the wrong combination. It was covered with a thin layer of plaster to disguise it.)}
-{000}{}{Try and disarm the trap.}
-{000}{}{Reset the trap to work with a different combination.}
-{000}{}{Leave the safe alone.}
+# lucky unlock
+{160}{}{You are spinning the dial randomly, when suddenly the dial catches on a number...
+ there is a KER-KLANK, and the safe unlocks.}
 
-# 5.  CLICKING (2, 5, 6, 8)
-{240}{}{(You turn the dial slowly for several minutes, but you can't make out anything.)}
-{000}{}{[JBJBJB]}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial randomly.}
-{000}{}{Leave the safe alone.}
+# failed unlocks
+{170}{}{You turn the dial slowly for several minutes, but you can't make out anything.}
+{171}{}{You spin the dial for several minutes, and nothing happens.}
 
-# 6.  TRAPS . . . ? (2, 6)
-{250}{}{(You don't find any traps on the safe.)}
-{000}{}{[JBJBJB]}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial randomly.}
-{000}{}{Examine the safe for traps again.}
-{000}{}{Leave the safe alone.}
+# TRAPS
+# disarm
+{180}{}{You find a trap on the safe and successfully disarm it.}
+{181}{}{You successfully disarm the trap on the safe.}
 
-# 7.  SPIN RANDOM, SUCCEED (2, 5, 6, 8, 9)
-{260}{}{(You are turning the knob... when suddenly there is a KER-KLANK, and the door opens!)}
-{000}{}{(You are spinning the dial randomly, when suddenly the dial catches on a number... there is a KER-KLANK, and the safe pops open!)}
-{000}{}{Hullo? Hulllooo? Anbody hoome?}
-{000}{}{Yeah, *I* got the touch...}
+# find trap
+{190}{}{You find a trap on the safe, but fail to disarm it.}
 
-# 8.  SPIN RANDOM, FAIL (2, 5, 6, 8, 9)
-{270}{}{(You turn the knob, but the tiny door won't open!)}
-{000}{}{(You spin the dial for several minutes, and nothing happens.)}
-{000}{}{Knock on door}
-{000}{}{Keep turning the knob}
-{000}{}{Wander off}
-{000}{}{[JBJBJB]}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Spin the dial, listen for clicking noises.}
-{000}{}{Keep spinning the dial randomly.}
-{000}{}{Leave the safe alone.}
+# fail
+{200}{}{Doesn't look like there's a trap on the safe.}
+{201}{}{You fail to disarm the trap on the safe.}
 
-# 9.  HELLO? (2, 8, 9)
-{290}{}{(You don't hear anybody, and you can't see a doorbell. Maybe nobody's home.)}
-{000}{}{(Nobody comes to the door.)}
-{000}{}{(Your hand is starting to hurt.)}
-{000}{}{(If anybody's home, they aren't answering the door.)}
-{000}{}{Knock on door again}
-{000}{}{Turn the knob}
-{000}{}{Wander off}
+# fail critical
 
-# 10.  TRAP DISARMED . . . ? (4)
-{300}{}{(With surgical precision, you disarm the fuse and pull the plastic explosive from the wall. The trap is now disarmed.)}
-{000}{}{Now to crack this safe...}
-{000}{}{Leave the safe alone.}
+# CHANGING COMBO ON SAFE
+# trap needs re-arming
+{220}{}{It probably would be best to re-arm the safe with plastic explosives or dynamite first.}
 
-# 11.  TRAP DISARMED . . . ? (4)
-{310}{}{(With surgical precision, you open the primer and adjust the tumbler combination trigger. The owner of this safe will be
- in for a surprise when he tries to open it again.)}
-{000}{}{Now to crack this safe...}
-{000}{}{Leave the safe alone.}
+# changed combination
+{230}{}{The combination on the safe has successfully been changed... heh heh heh...}
+{231}{}{The combination on the safe has successfully been changed... again.}
+
+# no skills
+{240}{}{You don't have the skills to change the combination.}
+{241}{}{ doesn't have the skills to change the combination.}
+
+# it's open
+{250}{}{The safe needs to be closed.}
+
+# REARMING TRAP
+{260}{}{There appears to be a trap already on the safe.}
+
+{270}{}{You fail to trap the safe.}
+{271}{}{ fails to trap the safe.}
+
+{280}{}{The trap on the safe has successfully been re-armed.}
+
+# trap_boom
+{300}{}{You hear a muffled boom upstairs.}
+
+{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
+ if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}
+
+# critical fail
+{290}{}{While searching the safe for a trap, you set off an explosion.}
+{291}{}{You pulled the wrong wire while disarming the trap.}

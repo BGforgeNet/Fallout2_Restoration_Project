@@ -55,7 +55,7 @@
 {305}{}{Có ích đấy.}
 {306}{}{Ừ.}
 {310}{}{Cái gì? Cô chọc tôi đấy à! Cút đi! Tôi đâu có không ổn! Tôi biết nấu ăn! Tôi đâu có nghe thấy giọng nói trong đầu đâu!}
-{311}{}{Tôi sẽ- cứt thật! Đm! Chết tiệt! Dừng lại đi. Trật tự! Cái gì?... Được rồi.}
+{311}{}{Tôi sẽ- cứt thật! Đm! Chết tiệt! Dừng lại đi. Im đi! Cái gì?... Được rồi.}
 {312}{}{Này! Dừn- đừng... đm.}
 {313}{}{Chào.}
 {314}{}{Không có gì.}

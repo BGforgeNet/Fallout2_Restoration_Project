@@ -14,14 +14,14 @@
 #
 # Special holiday dates
 #
-{100}{}{Szczęśliwego Nowego Roku!}            # New years
+{100}{}{Szczęśliwego Nowego Roku!}      # New years
 {101}{}{Szczęśliwego Dnia św. Walentego!}     # April fools
-{102}{}{Wesołego Prima Aprilis!}              # April fools
-{103}{}{Wesołego dnia wysyłki. }              # Shipping day!
+{102}{}{Wesołego Prima Aprilis!}      # April fools
+{103}{}{Wesołego dnia wysyłki.}            # Shipping day!
 {104}{}{Szczęśliwego Dnia Niepodległości!}    # Independence day
-{105}{}{Wesołego Halloween!}                  # Halloween
+{105}{}{Wesołego Halloween!}           # Halloween
 {106}{}{Szczęśliwego Dnia Dziękczynienia!}    # Thanksgiving
-{107}{}{Wesołych Świąt!}                      # X-mas
+{107}{}{Wesołych Świąt!}           # X-mas
 
 #
 # System messages
@@ -95,7 +95,7 @@
 {500}{}{Logo InterPlay}               # Not shown in Pipboy
 {501}{}{Wstęp}
 {502}{}{Przemowa Starszej Wioski}
-{503}{}{Odnalezienie kombinezonu z Krypty}
+{503}{}{Odnalezienie kombinezonu z krypty}
 {504}{}{Niepowodzenie w Arroyo}
 {505}{}{Unicestwienie Arroyo}
 {506}{}{Uruchomienie samochodu}
@@ -155,7 +155,7 @@
 {735}{}{Powstrzymaj Gizma}
 {736}{}{Rozbij Czachy.}
 #
-{740}{}{Najeźdźcy}
+{740}{}{Bandyci}
 #
 {750}{}{Nekropolis}
 {751}{}{Wyeliminuj supermutantów przy Wododziale.}
@@ -198,7 +198,7 @@
 #
 {1000}{}{HOLODYSK Ziggiego Z KRYPTY 13}
 {1001}{}{**END-PAR**}
-{1002}{}{Na tym dysku zapisane jest położenie Krypty 13. }
+{1002}{}{Na tym dysku zapisane jest położenie Krypty13. }
 {1003}{}{Lokalizacja została zaznaczona na twojej mapie. }
 {1004}{}{**END-DISK**}
 # *** ***
@@ -723,106 +723,106 @@
 {12140}{}{najpierw skoncentrować się na uczynieniu z nas}
 {12141}{}{samych sprawnych szprych.) Nowe życie skażone}
 {12142}{}{było umarłymi skrawkami dusz. Prowadziło to do}
-{12142}{}{nienawiści i nieporozumień, a przez Terrę}
-{12143}{}{przetaczały się kolejne wojny. Wreszcie przyszedł}
-{12144}{}{dzień, w którym pewien wizjoner uświadomił sobie,}
-{12145}{}{że jedyną drogą do pokoju, porozumienia}
-{12146}{}{i oświecenia było oczyszczenie ludzkich dusz}
-{12147}{}{z umarłych skrawków. Tym wizjonerem był Centrum.}
-{12148}{}{Proces oczyszczania trwa do dziś.}
-{12149}{}{**END-PAR**}
-{12150}{}{SKOROWIDZ}
-{12151}{}{UKC/Uszeregowany Kandydat Centrum: Poziomy}
-{12152}{}{oświecenia mierzone są stopniem oczyszczenia}
-{12153}{}{twoich neurodyn, w procesie odrzucania negatywnej}
-{12154}{}{energii twojej tkanki i zamiany jej w pozytywną}
-{12155}{}{energię psychiczną. Gdy osiągniesz odpowiedni}
-{12156}{}{poziom zetańskiej energii, możesz udać się w podróż}
-{12157}{}{na Quetzel, lub możesz czekać w nadziei, że}
-{12158}{}{Podniesienie odbędzie się jeszcze za twego życia.}
-{12159}{}{**END-PAR**}
-{12160}{}{Uszeregowanie: Gdy neurodyny pozostają}
-{12161}{}{zanieczyszczone i utrzymują niskie poziomy Zeta}
-{12162}{}{kandydata, poddajemy je "uszeregowaniu" -}
-{12163}{}{na uniwersalnym Okręgu przeprowadzając Skan Zeta}
-{12164}{}{uszkodzonej neurodyny i usuwając zanieczyszczenia.}
-{12165}{}{Zbyt częste i zbyt szybkie uszeregowanie jest}
-{12166}{}{szkodliwe dla ducha.}
-{12167}{}{**END-PAR**}
-{12168}{}{Oświecenie: Oświecenie jest stanem następującym}
-{12169}{}{po UKC-9 - gdy kandydat zdobył już na tyle dużą}
-{12170}{}{wiedzę, że staje się integralną częścią Wielkiego}
-{12171}{}{Okręgu i może zakończyć swą ziemską egzystencję.}
-{12172}{}{Niektórzy z oświeconych pozostają na Terrze,}
-{12172}{}{by doprowadzić resztę z nas do stanu łaski}
-{12173}{}{i udzielać wskazówek jak pokierować kołem własnego}
-{12174}{}{losu.}
-{12175}{}{**END-PAR**}
-{12176}{}{Wielki Okrąg: określenie to odnosi się do}
-{12177}{}{cyklicznej natury wszechświata, czasu}
-{12178}{}{i przestrzeni. Wszystko jest częścią Wielkiego}
-{12179}{}{Okręgu. Są tacy, którzy potrafią sterować Okręgiem}
-{12180}{}{- lub po prostu rozumieją w jakim kierunku się on}
-{12181}{}{porusza - my nazywamy ich bogami, prorokami}
-{12182}{}{i wizjonerami. Ci, którzy opanowali sztukę}
-{12183}{}{kierowania Wielkim Okręgiem są prawdziwie}
-{12184}{}{oświeceni.}
-{12185}{}{**END-PAR**}
-{12186}{}{Neurodyny: Neurodyny są stanami ducha. Starożytne}
-{12187}{}{religie nazywały je "shakrami". Mogą zostać}
-{12188}{}{zanieczyszczone umarłymi skrawkami dusz i negatywną}
-{12189}{}{energią emanującą z dręczycieli.}
-{12190}{}{**END-PAR**}
-{12191}{}{Dręczyciele: Osobnicy tak pełni negatywnej energii}
-{12192}{}{i skażonych skrawków dusz, że potrafią wywrzeć swój}
-{12193}{}{zły wpływ na szukających oświecenia samą swoją}
-{12194}{}{obecnością. Należy ich unikać - wielu z nich jest}
-{12195}{}{tak skażonych, że nie potrafią dojrzeć wartości}
-{12196}{}{płynącej z dobrego oczyszczenia i starają się}
-{12197}{}{zmienić kurs Wielkiego Okręgu.}
-{12198}{}{**END-PAR**}
-{12199}{}{Quetzel: Planeta, na którą zabierze nas Gwiezdny}
-{12200}{}{Ojciec, gdy staniemy się Zoptymalizowani, spotkamy}
-{12201}{}{na niej swych gwieździstych braci i dołączymy do}
-{12202}{}{nich w niebiańskiej wędrówce ognistych tarcz.}
-{12203}{}{**END-PAR**}
-{12204}{}{Wieniec Rozpaczy: Osoba lub osoby, które}
-{12205}{}{nie poddały się jeszcze procesowi uszeregowania}
-{12206}{}{i oczyszczenia neurodyn.}
-{12207}{}{**END-PAR**}
-{12208}{}{Gwiezdny Ojciec: Niektórzy nazwaliby go "bogiem".}
-{12209}{}{My wolimy o nim myśleć jako o uniwersalnej sile,}
-{12210}{}{z której pobieramy swoją energię i której tę}
-{12211}{}{energię oddajemy w cyklicznym związku.}
-{12212}{}{**END-PAR**}
-{12213}{}{Podniesienie: Czas, w którym Gwiezdny Ojciec wzywa}
-{12214}{}{nas od domu, na Quetzel, gdzie spotkamy swych}
-{12215}{}{pozaziemskich braci i zbliżymy się do środka}
-{12216}{}{Wielkiego Okręgu. Ci, którzy podjęli próbę}
-{12217}{}{zrozumienia słów Centrum, obojętnie jaki byłby}
-{12218}{}{ich poziom UKC, zostaną zaproszeni do połączenia}
-{12219}{}{się z Gwiezdny Ojcem w niebiosach planety Quetzel.}
-{12220}{}{**END-PAR**}
-{12221}{}{Skan Zeta: Inne określenie na "uszeregowanie",}
-{12222}{}{Skan Zeta pomaga w oczyszczeniu neurodyn i ducha.}
-{12223}{}{W procesie tym bierze udział urządzenie, które}
-{12224}{}{przepuszcza wielkie dawki elektryczności przez}
-{12225}{}{skórę - napięcie elektryczne jest dokładnie}
-{12226}{}{obliczone, co do wolta, do wartości potrzebnej}
-{12227}{}{do usunięcia negatywnej energii z neurodyny.}
-{12228}{}{Gdy poddajesz się Skanowi Zeta, ścieżka twego}
-{12229}{}{życia staje się bardziej zgodna z ruchem Wielkiego}
-{12130}{}{Okręgu.}
-{12231}{}{**END-PAR**}
-{12232}{}{BIBLIOGRAFIA}
-{12233}{}{Książki Centrum}
-{12234}{}{(Wymienione są tutaj setki tytułów, między innymi:}
-{12235}{}{Naukowa Duchowość, Pole bitewne Quetzel,}
-{12236}{}{A Ponad Nami Gwiezdny Ojciec, Zebrane Listy}
-{12237}{}{Zakupów, Notatki i Przemyślenia, Jak Skutecznie}
-{12238}{}{Pozwać Wroga, Jak Stworzyć Kult, Książki Które}
-{12239}{}{Napiszę Po Śmierci.)}
-{12240}{}{**END-DISK**}
+{12143}{}{nienawiści i nieporozumień, a przez Terrę}
+{12144}{}{przetaczały się kolejne wojny. Wreszcie przyszedł}
+{12145}{}{dzień, w którym pewien wizjoner uświadomił sobie,}
+{12146}{}{że jedyną drogą do pokoju, porozumienia}
+{12147}{}{i oświecenia było oczyszczenie ludzkich dusz}
+{12148}{}{z umarłych skrawków. Tym wizjonerem był Centrum.}
+{12149}{}{Proces oczyszczania trwa do dziś.}
+{12150}{}{**END-PAR**}
+{12151}{}{SKOROWIDZ}
+{12152}{}{UKC/Uszeregowany Kandydat Centrum: Poziomy}
+{12153}{}{oświecenia mierzone są stopniem oczyszczenia}
+{12154}{}{twoich neurodyn, w procesie odrzucania negatywnej}
+{12155}{}{energii twojej tkanki i zamiany jej w pozytywną}
+{12156}{}{energię psychiczną. Gdy osiągniesz odpowiedni}
+{12157}{}{poziom zetańskiej energii, możesz udać się w podróż}
+{12158}{}{na Quetzel, lub możesz czekać w nadziei, że}
+{12159}{}{Podniesienie odbędzie się jeszcze za twego życia.}
+{12160}{}{**END-PAR**}
+{12161}{}{Uszeregowanie: Gdy neurodyny pozostają}
+{12162}{}{zanieczyszczone i utrzymują niskie poziomy Zeta}
+{12163}{}{kandydata, poddajemy je "uszeregowaniu" -}
+{12164}{}{na uniwersalnym Okręgu przeprowadzając Skan Zeta}
+{12165}{}{uszkodzonej neurodyny i usuwając zanieczyszczenia.}
+{12166}{}{Zbyt częste i zbyt szybkie uszeregowanie jest}
+{12167}{}{szkodliwe dla ducha.}
+{12168}{}{**END-PAR**}
+{12169}{}{Oświecenie: Oświecenie jest stanem następującym}
+{12170}{}{po UKC-9 - gdy kandydat zdobył już na tyle dużą}
+{12171}{}{wiedzę, że staje się integralną częścią Wielkiego}
+{12172}{}{Okręgu i może zakończyć swą ziemską egzystencję.}
+{12173}{}{Niektórzy z oświeconych pozostają na Terrze,}
+{12174}{}{by doprowadzić resztę z nas do stanu łaski}
+{12175}{}{i udzielać wskazówek jak pokierować kołem własnego}
+{12176}{}{losu.}
+{12177}{}{**END-PAR**}
+{12178}{}{Wielki Okrąg: określenie to odnosi się do}
+{12179}{}{cyklicznej natury wszechświata, czasu}
+{12180}{}{i przestrzeni. Wszystko jest częścią Wielkiego}
+{12181}{}{Okręgu. Są tacy, którzy potrafią sterować Okręgiem}
+{12182}{}{- lub po prostu rozumieją w jakim kierunku się on}
+{12183}{}{porusza - my nazywamy ich bogami, prorokami}
+{12184}{}{i wizjonerami. Ci, którzy opanowali sztukę}
+{12185}{}{kierowania Wielkim Okręgiem są prawdziwie}
+{12186}{}{oświeceni.}
+{12187}{}{**END-PAR**}
+{12188}{}{Neurodyny: Neurodyny są stanami ducha. Starożytne}
+{12189}{}{religie nazywały je "shakrami". Mogą zostać}
+{12190}{}{zanieczyszczone umarłymi skrawkami dusz i negatywną}
+{12191}{}{energią emanującą z dręczycieli.}
+{12192}{}{**END-PAR**}
+{12193}{}{Dręczyciele: Osobnicy tak pełni negatywnej energii}
+{12194}{}{i skażonych skrawków dusz, że potrafią wywrzeć swój}
+{12195}{}{zły wpływ na szukających oświecenia samą swoją}
+{12196}{}{obecnością. Należy ich unikać - wielu z nich jest}
+{12197}{}{tak skażonych, że nie potrafią dojrzeć wartości}
+{12198}{}{płynącej z dobrego oczyszczenia i starają się}
+{12199}{}{zmienić kurs Wielkiego Okręgu.}
+{12200}{}{**END-PAR**}
+{12201}{}{Quetzel: Planeta, na którą zabierze nas Gwiezdny}
+{12202}{}{Ojciec, gdy staniemy się Zoptymalizowani, spotkamy}
+{12203}{}{na niej swych gwieździstych braci i dołączymy do}
+{12204}{}{nich w niebiańskiej wędrówce ognistych tarcz.}
+{12205}{}{**END-PAR**}
+{12206}{}{Wieniec Rozpaczy: Osoba lub osoby, które}
+{12207}{}{nie poddały się jeszcze procesowi uszeregowania}
+{12208}{}{i oczyszczenia neurodyn.}
+{12209}{}{**END-PAR**}
+{12210}{}{Gwiezdny Ojciec: Niektórzy nazwaliby go "bogiem".}
+{12211}{}{My wolimy o nim myśleć jako o uniwersalnej sile,}
+{12212}{}{z której pobieramy swoją energię i której tę}
+{12213}{}{energię oddajemy w cyklicznym związku.}
+{12214}{}{**END-PAR**}
+{12215}{}{Podniesienie: Czas, w którym Gwiezdny Ojciec wzywa}
+{12216}{}{nas od domu, na Quetzel, gdzie spotkamy swych}
+{12217}{}{pozaziemskich braci i zbliżymy się do środka}
+{12218}{}{Wielkiego Okręgu. Ci, którzy podjęli próbę}
+{12219}{}{zrozumienia słów Centrum, obojętnie jaki byłby}
+{12220}{}{ich poziom UKC, zostaną zaproszeni do połączenia}
+{12221}{}{się z Gwiezdny Ojcem w niebiosach planety Quetzel.}
+{12222}{}{**END-PAR**}
+{12223}{}{Skan Zeta: Inne określenie na "uszeregowanie",}
+{12224}{}{Skan Zeta pomaga w oczyszczeniu neurodyn i ducha.}
+{12225}{}{W procesie tym bierze udział urządzenie, które}
+{12226}{}{przepuszcza wielkie dawki elektryczności przez}
+{12227}{}{skórę - napięcie elektryczne jest dokładnie}
+{12228}{}{obliczone, co do wolta, do wartości potrzebnej}
+{12229}{}{do usunięcia negatywnej energii z neurodyny.}
+{12230}{}{Gdy poddajesz się Skanowi Zeta, ścieżka twego}
+{12231}{}{życia staje się bardziej zgodna z ruchem Wielkiego}
+{12232}{}{Okręgu.}
+{12233}{}{**END-PAR**}
+{12234}{}{BIBLIOGRAFIA}
+{12235}{}{Książki Centrum}
+{12236}{}{(Wymienione są tutaj setki tytułów, między innymi:}
+{12237}{}{Naukowa Duchowość, Pole bitewne Quetzel,}
+{12238}{}{A Ponad Nami Gwiezdny Ojciec, Zebrane Listy}
+{12239}{}{Zakupów, Notatki i Przemyślenia, Jak Skutecznie}
+{12240}{}{Pozwać Wroga, Jak Stworzyć Kult, Książki Które}
+{12241}{}{Napiszę Po Śmierci.)}
+{12242}{}{**END-DISK**}
 
 {13000}{}{ZAPISKI PROJEKTANTÓW KRYPTOPOLIS}
 {13001}{}{**END-PAR**}
@@ -889,7 +889,7 @@
 
 {14000}{}{PRZEWODNIK PODRÓŻNY Z KRYPTOPOLIS - PN KALIFORNIA}
 {14001}{}{**END-PAR**}
-{14002}{}{UWAGA: Jeśli Obywatele miasta uważają za konieczne}
+{14002}{}{UWAGA: Jeśli obywatele miasta uważają za konieczne}
 {14003}{}{udanie się w podróż, powinni zaopatrzyć się w niżej}
 {14004}{}{wymienione przedmioty:}
 {14005}{}{}
@@ -945,7 +945,7 @@
 {14055}{}{za technologie medyczne pochodzące z Kryptopolis.}
 {14056}{}{RNK nasiliła ostatnimi czasy próby wchłonięcia naszego}
 {14057}{}{miasta jako terytorium pogranicza, dlatego naszym}
-{14058}{}{Obywatelom doradza się zachowanie dużej ostrożności}
+{14058}{}{obywatelom doradza się zachowanie dużej ostrożności}
 {14059}{}{podczas podróży do RNK.}
 {14060}{}{}
 {14061}{}{LUDNOŚĆ: Mimo przeprowadzenia spisu ludności, nie mamy}
@@ -964,7 +964,7 @@
 {14074}{}{Przypuszcza się, że tutejsi ludzie zmuszeni są do}
 {14075}{}{koegzystencji z mutantami i ghulami. W związku ze}
 {14076}{}{specyficzną naturą mieszkańców i wysokim zagrożeniem}
-{14077}{}{skażeniem, Obywatele Kryptopolis powinni unikać Broken}
+{14077}{}{skażeniem, obywatele Kryptopolis powinni unikać Broken}
 {14078}{}{Hills za wszelką cenę!}
 {14079}{}{}
 {14080}{}{LUDNOŚĆ: Dokładne dane niedostępne. Przypuszczalna}
@@ -987,10 +987,10 @@
 {14097}{}{niezależna kolonia od czasu swego powstania z Krypty 8}
 {14098}{}{i prosperuje jako centrum eksportu technologii}
 {14099}{}{medycznych do Zewnętrznych regionów Północnej}
-{14100}{}{Kalifornii. Wszystkich Obywateli zachęca się do}
+{14100}{}{Kalifornii. Wszystkich obywateli zachęca się do}
 {14101}{}{pozostania w Kryptopolis, jeśli jest to tylko możliwe.}
 {14102}{}{}
-{14103}{}{LUDNOŚĆ: Stan obecny - 103 Obywateli.}
+{14103}{}{LUDNOŚĆ: Stan obecny - 103 obywateli.}
 {14104}{}{WŁADZE: Pierwszy Obywatel i Rada.}
 {14105}{}{POZIOM PROMIENIOWANIA TŁA: Pliki skasowane,}
 {14106}{}{brak następujących ciągów: [-$Gecko-/-$WodyGruntowe}
@@ -1209,7 +1209,7 @@
 {20027}{}{toksyczny środek.}
 {20028}{}{**END-PAR**}
 {20029}{}{Końcowe testy, przeprowadzone na potomkach}
-{20030}{}{mieszkańców krypty pochodzących z wioski "Arroyo",}
+{20030}{}{mieszkańców krypt, pochodzących z wioski "Arroyo",}
 {20031}{}{wykazały stuprocentową śmiertelność, z większością}
 {20032}{}{zejść występujących w ciągu godziny po wystawieniu}
 {20033}{}{na działanie 0.0001% roztworu aerozolowego.}
@@ -1259,7 +1259,7 @@
 {21015}{}{**END-PAR**}
 {21016}{}{Regulator Reaktora Energii Atomowej}
 {21017}{}{--------------------------------------------}
-{21018}{}{Uranowy Reaktor Jądrowy nowego typu firmy Krypt-Tech}
+{21018}{}{Uranowy Reaktor Jądrowy nowego typu firmy KrypTech}
 {21019}{}{działa jak dotąd bez zarzutu. Dzięki}
 {21020}{}{najnowocześniejszemu systemowi komputerowemu,}
 {21021}{}{stworzonemu specjalnie dla celów regulacji}

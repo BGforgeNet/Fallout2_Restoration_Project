@@ -45,7 +45,7 @@
  [Cat flashes you his toothy grin.] They wanted a volunteer for one of their projects. It was for scouts and the like, supposed to
  make you more agile and flexible. I liked the sound of that *leers*. Anyway, they gave me this shot, put me under, and
  the next thing I knew, I had these teeth, and I felt.... sharper? Kind of predatory.}
-{302}{}{Go on.}
+{302}{}{Fortsätt.}
 {303}{}{Well, apparently the experiment wasn't going as planned and whatever they put inside me wasn't sitting
  well with my system. I don't know what they meant by that, since I felt better than ever. They decided to throw me in
  the cryo freezer until they figured out what to do with me.}

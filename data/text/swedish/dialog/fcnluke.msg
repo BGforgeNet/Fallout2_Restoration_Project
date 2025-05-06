@@ -10,7 +10,7 @@
 {109}{}{What that mean?}
 {110}{}{What do you mean by that?}
 {111}{}{You're attracting the attention of a lot of people. You need to be careful.}
-{112}{}{Go on.}
+{112}{}{Fortsätt.}
 {113}{}{Go on, I'm listening.}
 {114}{}{I've said enough for now. I think you should get about your business.}
 {115}{}{This same blow off me get from Joshua. Me need ask question.}

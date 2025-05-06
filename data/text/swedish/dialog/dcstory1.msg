@@ -46,7 +46,7 @@
 {151}{}{Really big mutants with weapons as tall as you and me came from the south. Mom said it looked like a big migration of some sort.}
 {152}{}{How many?}
 {153}{}{Don't know, but there were multiple groups of them. Some would continue north, others headed east. No one knew where they were going.}
-{154}{}{Go on.}
+{154}{}{Fortsätt.}
 {155}{}{They were quite upset and seemed to be fleeing from something.}
 {156}{}{Verkligen?}
 {157}{}{Yeah, there were also others in dirty, tattered purple robes... they kept babbling about how the Master was dead...}

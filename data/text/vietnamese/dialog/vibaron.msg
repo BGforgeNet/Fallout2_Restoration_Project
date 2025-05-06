@@ -18,7 +18,7 @@
 {242}{}{Oh, come on, it's not that far out of your way. You pretty much pass right by it.}
 {243}{}{Is there *any* way I could get you to change your mind?}
 {250}{}{Now what? If you're not going to trade, then stop wasting my fucking time.}
-{251}{}{Let's trade.}
+{251}{}{Trao đổi nào.}
 {252}{}{Sorry, I'll go now.}
 {253}{}{I think I'll waste *you* asshole.}
 {254}{}{Is there *any* way I could get you to change your mind about trading with the village?}

@@ -197,7 +197,7 @@
 {682}{}{Forget this. Different topic...}
 {683}{}{I can see where this is going. Nevermind, Myron.}
 {690}{myn109}{Ah, Christ. Well... when I came across the Mordino family way back when, they were farming peyote cacti and trying to sell it to tourists as the 'Reno experience.' Total bullshit.}
-{691}{}{Go on.}
+{691}{}{Fortsätt.}
 {692}{}{Forget this. I had some other questions...}
 {693}{}{Forget I mentioned it.}
 {700}{myn110}{I mean, peyote? C'mon. It isn't even half the strength of, say, old school LSD.}

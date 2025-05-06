@@ -16,76 +16,76 @@
 #	  descriptions are just the map name itself (this also helps
 #	  pinpoint unfinished ones when you go through here).
 #
-{100}{}{Desert}                           // DESERT1.MAP
-{101}{}{Desert}                           // DESERT2.MAP
-{102}{}{Desert}                           // DESERT3.MAP
-{103}{}{Arroyo}                           // arcaves.MAP
-{104}{}{Arroyo}                           // arvillag.MAP
-{105}{}{Arroyo}                           // arbridge.MAP
-{106}{}{The Den}                          // denbus1.MAP
-{107}{}{The Den}                          // denbus2.MAP
-{108}{}{The Den}                          // denres1.MAP
-{109}{}{Klamath}                          // .MAP  ;Downtown
-{110}{}{Klamath}                          // .MAP  ;Mall
-{111}{}{Klamath}                          // .MAP  ;Rat Caves
-{112}{}{Klamath}                          // .MAP  ;Toxic Caves
-{113}{}{Klamath}                          // .MAP  ;Trapping Caves
-{114}{}{Klamath}                          // .MAP  ;Grazing Area
-{115}{}{Vault City}                       // vctyctyd.MAP
-{116}{}{Vault City}                       // vctydwtn.MAP
-{117}{}{Vault City}                       // vctycocl.MAP
-{118}{}{error:Map Name}                        // .MAP
-{119}{}{City Ruins}                            // CITY1.MAP
-{120}{}{Coast}                                 // COAST1.MAP
-{121}{}{Coast}                                 // COAST2.MAP
-{122}{}{Desert}                                // COLATRUK.MAP
-{123}{}{Desert}                                // FSAUSER.MAP
-{124}{}{error:Map Name}                              // RAIDERS.MAP
-{125}{}{error:Map Name}                          // SHADYE.MAP
-{126}{}{error:Map Name}                          // SHADYW.MAP
-{127}{}{error:Map Name}                                 // GLOWENT.MAP
-{128}{}{error:Map Name}                             // LAADYTUM.MAP
-{129}{}{error:Map Name}                             // LAFOLLWR.MAP
-{130}{}{error:Map Name}                        // MBENT.MAP
-{131}{}{error:Map Name}                        // MBSTRG12.MAP
-{132}{}{error:Map Name}                        // MBVATS12.MAP
-{133}{}{error:Map Name}                        // MSTRLR12.MAP
-{134}{}{error:Map Name}                        // MSTRLR34.MAP
-{135}{}{error:Map Name}                             // V13ENT.MAP
-{136}{}{error:Map Name}                                  // HUBENT.MAP
-{137}{}{Hub}                                  // DETHCLAW.MAP
-{138}{}{Hub}                                  // HUBDWNTN.MAP
-{139}{}{Hub}                                  // HUBHEIGT.MAP
-{140}{}{Hub}                                  // HUBOLDTN.MAP
-{141}{}{Hub}                                  // HUBWATER.MAP
-{142}{}{Glow}                                 // GLOW1.MAP
-{143}{}{Glow}                                 // GLOW2.MAP
-{144}{}{Boneyard}                             // LABLADES.MAP
-{145}{}{Boneyard}                             // LARIPPER.MAP
-{146}{}{Boneyard}                             // LAGUNRUN.MAP
-{147}{}{Cathedral}                            // CHILDEAD.MAP
-{148}{}{Military}                             // MBDEAD.MAP
-{149}{}{Mountains}                            // MOUNTN1.MAP
-{150}{}{Mountains}                            // MOUNTN2.MAP
-{151}{}{Desert}                               // FOOT.MAP
-{152}{}{Desert}                               // TARDIS.MAP
-{153}{}{Desert}                               // TALKCOW.MAP
-{154}{}{Desert}                               // USEDCAR.MAP
-{155}{}{Brotherhood}                          // BRODEAD.MAP
-{156}{}{Desert}                               // DESCRVN1.MAP
-{157}{}{Desert}                               // DESCRVN2.MAP
-{158}{}{Mountains}                            // MNTCRVN1.MAP
-{159}{}{Mountains}                            // MNTCRVN2.MAP
+{100}{}{Desert}                           # DESERT1.MAP
+{101}{}{Desert}                           # DESERT2.MAP
+{102}{}{Desert}                           # DESERT3.MAP
+{103}{}{Arroyo}                           # arcaves.MAP
+{104}{}{Arroyo}                           # arvillag.MAP
+{105}{}{Arroyo}                           # arbridge.MAP
+{106}{}{The Den}                          # denbus1.MAP
+{107}{}{The Den}                          # denbus2.MAP
+{108}{}{The Den}                          # denres1.MAP
+{109}{}{Klamath}                          # .MAP  ;Downtown
+{110}{}{Klamath}                          # .MAP  ;Mall
+{111}{}{Klamath}                          # .MAP  ;Rat Caves
+{112}{}{Klamath}                          # .MAP  ;Toxic Caves
+{113}{}{Klamath}                          # .MAP  ;Trapping Caves
+{114}{}{Klamath}                          # .MAP  ;Grazing Area
+{115}{}{Vault City}                       # vctyctyd.MAP
+{116}{}{Vault City}                       # vctydwtn.MAP
+{117}{}{Vault City}                       # vctycocl.MAP
+{118}{}{error:Map Name}                        # .MAP
+{119}{}{City Ruins}                            # CITY1.MAP
+{120}{}{Coast}                                 # COAST1.MAP
+{121}{}{Coast}                                 # COAST2.MAP
+{122}{}{Desert}                                # COLATRUK.MAP
+{123}{}{Desert}                                # FSAUSER.MAP
+{124}{}{error:Map Name}                              # RAIDERS.MAP
+{125}{}{error:Map Name}                          # SHADYE.MAP
+{126}{}{error:Map Name}                          # SHADYW.MAP
+{127}{}{error:Map Name}                                 # GLOWENT.MAP
+{128}{}{error:Map Name}                             # LAADYTUM.MAP
+{129}{}{error:Map Name}                             # LAFOLLWR.MAP
+{130}{}{error:Map Name}                        # MBENT.MAP
+{131}{}{error:Map Name}                        # MBSTRG12.MAP
+{132}{}{error:Map Name}                        # MBVATS12.MAP
+{133}{}{error:Map Name}                        # MSTRLR12.MAP
+{134}{}{error:Map Name}                        # MSTRLR34.MAP
+{135}{}{error:Map Name}                             # V13ENT.MAP
+{136}{}{error:Map Name}                                  # HUBENT.MAP
+{137}{}{Hub}                                  # DETHCLAW.MAP
+{138}{}{Hub}                                  # HUBDWNTN.MAP
+{139}{}{Hub}                                  # HUBHEIGT.MAP
+{140}{}{Hub}                                  # HUBOLDTN.MAP
+{141}{}{Hub}                                  # HUBWATER.MAP
+{142}{}{Glow}                                 # GLOW1.MAP
+{143}{}{Glow}                                 # GLOW2.MAP
+{144}{}{Boneyard}                             # LABLADES.MAP
+{145}{}{Boneyard}                             # LARIPPER.MAP
+{146}{}{Boneyard}                             # LAGUNRUN.MAP
+{147}{}{Cathedral}                            # CHILDEAD.MAP
+{148}{}{Military}                             # MBDEAD.MAP
+{149}{}{Mountains}                            # MOUNTN1.MAP
+{150}{}{Mountains}                            # MOUNTN2.MAP
+{151}{}{Desert}                               # FOOT.MAP
+{152}{}{Desert}                               # TARDIS.MAP
+{153}{}{Desert}                               # TALKCOW.MAP
+{154}{}{Desert}                               # USEDCAR.MAP
+{155}{}{Brotherhood}                          # BRODEAD.MAP
+{156}{}{Desert}                               # DESCRVN1.MAP
+{157}{}{Desert}                               # DESCRVN2.MAP
+{158}{}{Mountains}                            # MNTCRVN1.MAP
+{159}{}{Mountains}                            # MNTCRVN2.MAP
 {160}{}{Viper Camp}
 {161}{}{Desert}
 {162}{}{Mountains}
 {163}{}{Desert}
 {164}{}{Mountains}
-{165}{}{EPA}                                 // epax.MAP
-{166}{}{EPA}                                 // EPAMAIN.MAP
-{167}{}{EPA Warehouse}                       // epawrhse.MAP
-{168}{}{Merchant}                            // vilmerch.map
-{169}{}{Shi Submarine}                       // sfsub.map
+{165}{}{EPA}                                 # epax.MAP
+{166}{}{EPA}                                 # EPAMAIN.MAP
+{167}{}{EPA Warehouse}                       # epawrhse.MAP
+{168}{}{Merchant}                            # vilmerch.map
+{169}{}{Shi Submarine}                       # sfsub.map
 
 
 #

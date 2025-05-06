@@ -160,12 +160,12 @@
 {611}{}{[Mynoc mumbles something under his breath and shakes his head before beginning his tale.] As you should know, he was once the greatest warrior of our tribe. He led many expeditions into the outside world, and it was there where corruption began to poison his mind.}
 {612}{}{He became infatuated with the ways of the Outsiders, where power could bring anyone great respect and luxury. He began to view himself as superior to his fellow tribesmen who were content to live a more simple life.}
 {613}{}{What a jerk.}
-{614}{}{Go on.}
+{614}{}{Fortsätt.}
 {615}{}{When our tribe fell into these hard times, he deemed himself our people's savior and entered the Temple of Trials to prove himself to be the Chosen One.}
-{616}{}{Go on.}
+{616}{}{Fortsätt.}
 {617}{}{Nevermind, I don't want to hear this story anymore. Bye.}
 {618}{}{He made his way through the Temple, quickly reaching the final test: a hand-to-hand battle with a fellow warrior.}
-{619}{}{Go on.}
+{619}{}{Fortsätt.}
 {620}{}{Wait, he blew up that door and everything? Do we have it rebuilt every time someone goes through the temple? Speaking of that, who built the temple in the first place?}
 {621}{}{I don't have time to answer all your silly questions. Do you want me to finish the tale, or not?}
 {622}{}{Sorry. Please continue.}

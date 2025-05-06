@@ -10,7 +10,7 @@
 {109}{}{What that mean?}
 {110}{}{What do you mean by that?}
 {111}{}{Let's just say that you're the new kid on the block and you don't know what's going on in the neighborhood. There's a lot more going on than your simple quest...}
-{112}{}{Go on.}
+{112}{}{Fortsätt.}
 {113}{}{Go on, I'm listening.}
 {114}{}{I've said enough for now. I think you should get about your business.}
 {115}{}{Wait, me need ask question.}

@@ -46,7 +46,7 @@
  with him... or they just "disappear." The place looks civilized on the top of things, but the truth is
  that it's a killing ground for bloodthirsty mutants. There's a friend of a friend who had friends who
  disappeared after speaking up.}
-{165}{}{Go on.}
+{165}{}{Fortsätt.}
 {166}{}{That's enough. You're crazy. Goodbye.}
 {167}{}{We all pretend that this is a civilized town, that we're all on the up and up... but we all live
  in fear of the mutant rage. Each day, there are fewer and fewer humans.}

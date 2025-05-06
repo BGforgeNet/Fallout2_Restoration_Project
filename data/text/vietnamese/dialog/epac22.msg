@@ -23,7 +23,7 @@
 {322}{}{Oh, I see. That makes more sense. Well, there is another way in. There is a service elevator which stops on level two.
  It should be accessible from under the Doctor's workshop. He can be found outside, to the east of the main entrance to the EPA.
  You will need an access code to get inside, however. Since I am grateful for you repairing me, I shall tell you code. The code is "FLOWERPOT".}
-{323}{}{Thanks. Let me ask you something else.}
+{323}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
 {324}{}{Oh, I'm sorry but the Blue Level contains top secret research. Access to that level is restricted to... oh, to hell with it. You were kind enough to repair me, so I suppose I could give you the password. It's "FLOWERPOT".}
 {330}{}{I will do my best. What item would you like me to identify?}
 {331}{}{What is the purpose of this dog food?}

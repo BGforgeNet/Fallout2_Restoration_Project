@@ -108,16 +108,16 @@
 {207}{}{Maybe they have the right idea. Maybe it's time to put an end to freaks like you. Goodbye.}
 {208}{}{Uh, well, I uh, that is. Goodbye.}
 {209}{hld33}{Well, you might try talking to Wooz over in the Harp. You can't miss it - it's just across the way. }
-{210}{}{Thanks. Let me ask you something else.}
+{210}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
 {211}{}{Thanks, that's all I need to know for now. Goodbye.}
 {212}{hld34}{Jealous? His name's Herbert. I talk to him when I get lonely... Heh heh. Just kiddin'... His name's Bob.}
 {213}{}{Right... Well, maybe you or Bob will know the answer to this.}
 {214}{}{Thanks, that's way more than I need to know for now. Goodbye.}
 {215}{hld35}{A Garden of Eden Creation Kit? A GECK, right? I seem to remember Vaults had those. Don't know where you'd find one today. }
-{216}{}{Thanks. Let me ask you something else.}
+{216}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
 {217}{}{Thanks, that's all I need to know for now. Goodbye.}
 {218}{hld36}{Just talk to my assistant, Lenny. He'll be able to fix ya right up.}
-{219}{}{Thanks. Let me ask you something else.}
+{219}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
 {220}{}{Thanks, that's all I need to know for now. Goodbye.}
 {221}{hld37}{Another smoothskin. Had a lot of respect for that one.}
 {222}{}{Who was that?}

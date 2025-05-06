@@ -81,7 +81,6 @@ procedure damage_p_proc;
                                                    end                                                                           \
                                                 end                                                                              \
                                              end
-#define open_chance                          ((5 * (get_iq(source_obj) >= 7)) + (5 * ((has_skill(source_obj, SKILL_LOCKPICK) >= 50) or (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,0))))) + (5 * ((get_luck(source_obj) == 9) or (get_perception(source_obj) == 9) or (is_success(do_check(source_obj, STAT_lu, 0))))) + (25 * ((get_luck(source_obj) == 10) or (get_perception(source_obj) == 10))))
 
 variable prev_node;
 import variable new_reno_orville_wright_obj;
@@ -120,7 +119,7 @@ procedure description_p_proc begin
 end
 
 procedure damage_p_proc begin
-variable set_off;
+   variable set_off;
    if (target_obj != 0) then begin
       if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
          set_off := true;
@@ -141,18 +140,18 @@ variable set_off;
 end
 
 procedure pickup_p_proc begin
-variable send_warning := false;
+   variable send_warning := false;
    check_safe_tamper(send_warning)
 end
 
 procedure use_p_proc begin
-variable send_warning := false;
+   variable send_warning := false;
    check_safe_tamper(send_warning)
 end
 
 procedure use_skill_on_p_proc begin
-variable send_warning := false;
-variable the_roll;
+   variable send_warning := false;
+   variable the_roll;
    check_safe_tamper(send_warning)
    if (send_warning == false) then begin
       if (obj_is_locked(self_obj)) then begin
@@ -183,24 +182,24 @@ variable the_roll;
          end else if (action_being_used == SKILL_TRAPS) then begin
             script_overrides;
             gfade_out(ONE_GAME_MINUTE);
-               game_time_advance(15 * ONE_GAME_MINUTE);
-               if (get_boomw(boomw_none)) then begin
-                  the_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,-50);
-                  if (is_success(the_roll)) then begin
-                     set_boomw(boomw_disarmed);
-                     display_mstr(180 + found_trap);
-                  end else if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,-10))) and (found_trap == false)) then begin
-                     set_found_trap;
-                     display_mstr(190);
-                  end else if ((is_critical(the_roll)) and (found_trap)) then begin
-                     display_mstr(181);
-                     set_boomw(boomw_disarmed); //added by killap
-                  end else begin
-                     display_mstr(200 + found_trap);
-                  end
+            game_time_advance(15 * ONE_GAME_MINUTE);
+            if (get_boomw(boomw_none)) then begin
+               the_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,-50);
+               if (is_success(the_roll)) then begin
+                  set_boomw(boomw_disarmed);
+                  display_mstr(180 + found_trap);
+               end else if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,-10))) and (found_trap == false)) then begin
+                  set_found_trap;
+                  display_mstr(190);
+               end else if ((is_critical(the_roll)) and (found_trap)) then begin
+                  display_mstr(181);
+                  set_boomw(boomw_disarmed); //added by killap
                end else begin
-                  display_mstr(200);
+                  display_mstr(200 + found_trap);
                end
+            end else begin
+               display_mstr(200);
+            end
             gfade_in(ONE_GAME_MINUTE);
          end
       end

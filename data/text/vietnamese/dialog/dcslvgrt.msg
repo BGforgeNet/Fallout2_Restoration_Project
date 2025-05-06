@@ -11,7 +11,7 @@
 {216}{}{[Aidan looks you up and down.] You don't look like ya could stomach it, pal, but who
  am I ta judge? Ya gotta talk ta Metzger. He's through the back door.}
 {217}{}{I said ta talk ta Metzger. You fucking deaf and dumb or just dumb?}
-{218}{}{Who's Metzger?}
+{218}{}{Metzger là ai?}
 {219}{}{Another question for you then.}
 {220}{}{Thanks, I will.}
 {221}{}{Medger}
@@ -43,7 +43,7 @@
 {273}{}{Ừ.}
 {274}{}{Krook}
 {280}{}{Talk ta Metzger about that. He doesn't normally sell to the public. Has his hands full with... bigger customers.}
-{281}{}{Who's Metzger?}
+{281}{}{Metzger là ai?}
 {282}{}{Can I ask something else then?}
 {283}{}{Okay, tạm biệt.}
 {284}{}{What about Vic?}
@@ -53,7 +53,7 @@
 {293}{}{Hmph.}
 {300}{}{Not likely. That dumbass Vic pissed Metzger off about some radio or something. I doubt that he'd sell'm. You'll have to talk ta him yourself.}
 {301}{}{Well, I hear he finally fixed the radio. You should ask Metzger. He's not much use now, not very good trade quality.}
-{302}{}{Who's Metzger?}
+{302}{}{Metzger là ai?}
 {303}{}{Where's Metzger at?}
 {304}{}{Okay, thanks. Bye.}
 {310}{}{He's in the back room right through the door over there.}
@@ -87,7 +87,7 @@
 {380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's gonna start now.}
 {381}{}{Ya don't look the type. Hell, Metzger's never hired a woman before. Not sure why, but I doubt he's starting now.}
 {382}{}{I said ta talk ta Metzger.}
-{383}{}{Who's Metzger?}
+{383}{}{Metzger là ai?}
 {384}{}{Another question.}
 {385}{}{Thanks, I will.}
 {386}{}{Medger}
@@ -98,7 +98,7 @@
 {410}{}{Merchant? Oh, you must mean Vic, that guy that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
 {411}{}{Yeah, Vic... that Merchant guy, right? The one that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
 {412}{}{How many times you gonna ask me that? Metzger's got'm.}
-{413}{}{Who's Metzger?}
+{413}{}{Metzger là ai?}
 {414}{}{Can I ask another question?}
 {415}{}{Is he for sale?}
 {416}{}{Okay, thanks.}

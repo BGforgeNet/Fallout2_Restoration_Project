@@ -18,7 +18,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "nimrsbsf"
 #include "../headers/define.h"
-#define NAME                    SCRIPT_NIOWRISF
+#define NAME                    SCRIPT_NIMRSBSF
 #include "../headers/command.h"
 #include "../headers/newreno.h"
 
@@ -44,8 +44,6 @@ procedure use_obj_on_p_proc;
                                                 display_mstr(400);                              \
                                              end                                                \
                                              set_lvar_bit_on(LVAR_Flags, found_compartment_bit)
-
-#define open_chance                          ((5 * (get_iq(source_obj) >= 7)) + (5 * ((has_skill(source_obj, SKILL_LOCKPICK) >= 50) or (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,0))))) + (5 * ((get_luck(source_obj) == 9) or (get_perception(source_obj) == 9) or (is_success(do_check(source_obj, STAT_lu, 0))))) + (25 * ((get_luck(source_obj) == 10) or (get_perception(source_obj) == 10))))
 
 variable prev_node;
 import variable mrs_bishop_safe_obj;
@@ -134,24 +132,15 @@ variable the_roll;
             gfade_out(ONE_GAME_SECOND);
                game_time_advance(15 * ONE_GAME_MINUTE);
                the_roll := roll_vs_skill(dude_obj, SKILL_LOCKPICK, 0);
-               /*if (is_success(the_roll)) then begin
+               if (is_success(the_roll)) then begin
+                  display_mstr(150);
+                  obj_unlock(self_obj);
                end else if ((random(1,100) <= dude_luck) and (is_critical(the_roll) == false)) then begin
                   display_mstr(160);
                   obj_unlock(self_obj);
                end else begin
                   display_mstr(170 + (has_skill(source_obj,SKILL_LOCKPICK) < 50));
-               end*/
-               //edit by killap
-               if (is_success(the_roll)) then begin
-                     display_mstr(150);
-                     obj_unlock(self_obj);
-               end else if ((random(1,100) <= dude_luck) and (is_critical(the_roll) == false)) then begin
-                     display_mstr(160);
-                     obj_unlock(self_obj);
-               end else begin
-                     display_mstr(170 + (has_skill(source_obj,SKILL_LOCKPICK) < 50));
                end
-               //end edit by killap
             gfade_in(ONE_GAME_SECOND);
          end
       end else if (action_being_used == SKILL_STEAL) then begin
