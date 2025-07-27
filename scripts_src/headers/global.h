@@ -1323,11 +1323,29 @@
 #define SPEAR_GET_FLINT                     (2)
 #define SPEAR_FINISHED                      (3)
 
+/**
+ * Nagor-Smoke quest accepted
+ */
 #define DOG_ACCEPTED                        (1)
+/**
+ * Smoke found in wilderness and has joined PC
+ */
 #define DOG_RETURNED                        (2)
+/**
+ * PC told Nagor to go after Smoke himself
+ */
 #define DOG_RUN_OFF                         (3)
+/**
+ * Smoke died
+ */
 #define DOG_DEAD                            (4)
+/**
+ * Smoke returned to Nagor, quest completed
+ */
 #define DOG_FINISHED_GOOD                   (5)
+/**
+ * Smoke is dead, PC told Nagor, quest failed
+ */
 #define DOG_FINISHED_BAD                    (6)
 
 #define CHAD_SUSPICIOUS                     (1)

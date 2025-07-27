@@ -56,10 +56,10 @@
 {155}{}{Keep things nice and frosty.}
 {156}{}{Gå vidare.}
 {157}{}{Nothing to see here.}
-{158}{}{Have a nice day.}
+{158}{}{Ha en trevlig dag.}
 {159}{}{Welcome to Ascorti's.}
 {160}{}{Play friendly.}
-{161}{}{Have a nice day.}
+{161}{}{Ha en trevlig dag.}
 {162}{}{Everyone's an Ace here at Ascorti's.}
 {163}{}{So then I says to them, get your hands off my...}
 {164}{}{I can't believe that someone'd be dumb enough to double up on that.}

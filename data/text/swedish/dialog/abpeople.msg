@@ -5,18 +5,18 @@
 {104}{}{Håll dig borta från alkoholen ett tag.}
 {105}{}{Jag ser att du drack Hanks "speciella" blandning.}
 {106}{}{Välkommen, hjälte!}
-{107}{}{You really showed those Enclave bastards!}
+{107}{}{Du visade verkligen de där Enklavsjävlarna!}
 {108}{}{Du är sannerligen en hjälte!}
-{109}{}{I've heard that you destroyed the Enclave, well done!}
+{109}{}{Jag har hört att du förstörde Enklaven, bra gjort!}
 {110}{}{Hej.}
 {111}{}{Jag hoppas att det börjar regna snart, annars kommer mina grödor inte att överleva.}
 {112}{}{Vi får inte så många besökare här.}
 {113}{}{Välkommen!}
-{114}{}{Yeah, I know. It's pretty boring here, but at least we're safe from raiders and such...}
+{114}{}{Ja, jag vet. Det är ganska tråkigt här, men vi är i alla fall säkra från plundrare och sånt...}
 {115}{}{Hi, tribal.}
-{116}{}{It sure is a hot day today!}
-{117}{}{Good farming grounds here...}
-{118}{}{Have a nice day.}
-{119}{}{Welcome to the Abbey, wanderer!}
-{120}{}{Impressive monastery we have here, eh?}
-{200}{}{Get your freaking hands off me!}
+{116}{}{Det är verkligen en varm dag idag!}
+{117}{}{Bra jordbruksmark här...}
+{118}{}{Ha en trevlig dag.}
+{119}{}{Välkommen till Klostret, vandrare!}
+{120}{}{Imponerande kloster vi har här, va?}
+{200}{}{Ta bort dina jäkla händer från mig!}

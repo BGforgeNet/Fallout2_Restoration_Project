@@ -111,4 +111,4 @@
 {302}{}{Adeus.}
 {303}{}{Fantasmas?}
 {400}{}{A mensagem foi bem recebida. A cidade de Modoc gostaria de estabelecer comércio com o seu povo.}
-{401}{}{Modoc happy. Trade good!}
+{401}{}{Modoc está feliz. Boas trocas!}

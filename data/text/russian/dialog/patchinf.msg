@@ -1,2 +1,2 @@
-{100}{}{Вы запустили killap's Fallout 2 Restoration Project. Version 2.3.3u. Спасибо за установку!}
-{101}{}{Вы запустили killap's Fallout 2 Restoration Project. Version 2.3.3u. Спасибо за установку!}
+{100}{}{Вы запустили RPU версии 2.x.x, основанный на Fallout 2 Restoration Project от killap'а. Благодарим за установку.}
+{101}{}{Вы запустили RPU версии 2.x.x, основанный на Fallout 2 Restoration Project от killap'а. Благодарим за установку.}

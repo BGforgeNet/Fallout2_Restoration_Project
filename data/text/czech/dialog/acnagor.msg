@@ -31,20 +31,15 @@
 {130}{}{Já jít.}
 {131}{}{Jdu hledat Čmoudu.}
 {200}{}{Ahoj, sestřenko...ehm, vlastně Vyvolená. Doufám, že už jsi našla GECK. Hodně se mluví o zlých časech, které nás čekají.}
-{201}{}{Ahoj, sestřenko...ehm, vlastně Vyvolená. Doufám, že už jsi našla GECK. Hodně se mluví o zlých časech, které nás čekají.}
 {202}{}{Já stále hledat, Nagor.}
 {203}{}{Stále ho ještě hledám, bratranče}
 {204}{}{Vítej domů, sestřenko. Poslední dobou to tu jde od deseti k pěti. Už jsi našla svatý Vault 13 a GECK?}
-{205}{}{Vítej domů, sestřenko. Poslední dobou to tu jde od deseti k pěti. Už jsi našla svatý Vault 13 a GECK?}
 {206}{}{Já ho ještě nenajít. Velká lítost.}
 {207}{}{Lituju Nagore, ještě ne. Ale nepřestávám ho hledat.}
 {208}{}{Buď zdráva, sestřenko. Myslím, že sis všimla, jak se věci zhoršily. Prosím, najdi GECK rychle. Máme zoufalý nedostatek jídla!}
-{209}{}{Buď zdráva, sestřenko. Myslím, že sis všimla, jak se věci zhoršily. Prosím, najdi GECK rychle. Máme zoufalý nedostatek jídla!}
 {210}{}{Ahoj, sestřenko.}
-{211}{}{Ahoj, sestřenko.}
 {212}{}{Ty neznít jako jindy.}
 {213}{}{Co je s tebou? Mluvíš jinak než obvykle.}
 {214}{}{Promiň, bratránku. Od té doby, co jsi odešel, je nám všem čím dál tím hůř. Lidé jsou nemocní, brahmíny umírají a... já... můj pes Čmouda už není. Teta Morlis ho upekla. Tolik se mi po něm stýská. Promiň, ale už nemůžu dál mluvit...}
 {215}{}{Promiň, sestřenko. Od té doby, co jsi odešla, je nám všem čím dál tím hůř. Lidé jsou nemocní, brahmíny umírají a... já... můj pes Čmouda už není. Teta Morlis ho upekla. Tolik se mi po něm stýská. Promiň, ale už nemůžu dál mluvit...}
 {300}{}{Vidíš Nagora.}
-{302}{}{Sestřenko, to jsem rád, že tě vidím! Potřebuju tvoji pomoc.}

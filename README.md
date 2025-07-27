@@ -13,7 +13,7 @@
 | [**Translations**](docs/translations.md)
 | [**Additional mods**](#additional-mods)
 
-This is an updated version of [killap's Restoration Project](http://killap.net/) for Fallout 2.
+**Restoration Project, updated** is based on [killap's Restoration Project](http://killap.net/) for Fallout 2.
 
 ### Installation
 

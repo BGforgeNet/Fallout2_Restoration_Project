@@ -2,20 +2,20 @@
 {101}{}{Du ser broder Matthew.}
 {102}{}{Han står på ett podium och predikar för Klostrets invånare.}
 {200}{}{Gott folk i Klostret. Ta er en stund att lyssna, för jag har mycket att säga.}
-{201}{}{Här samlar vi de heliga relikerna från en svunnen tid.}
-{202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
+{201}{}{Här samlar vi de heliga reliker från ett sekel sedan länge förflutet.}
+{202}{}{Bränd av Eldfloden som fört oss mot det mörka slutet.}
 {203}{}{För att bevara den gamla visdomen, en minnessak vi skapa skall.}
-{204}{}{Vi måste vakta och vårda den, även om lågan har blivit kall;}
-{205}{}{It could ignite once again, should the wisdom be misused.}
-{206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
-{207}{}{But one day, men shall rise above their desire for destruction.}
-{208}{}{And the Memorabilia will be there, awaiting re-introduction.}
-{209}{}{So we tend to our holy task, lest all that wisdom, we lose.}
-{210}{}{We must preserve and protect it, but never shall we use.}
-{211}{}{So go now my friends, and let your spirits be lifted;}
-{212}{}{For the guardians of knowledge, we have each, been gifted.}
-{213}{}{Now, please take a moment and reflect on what I have said.}
-{224}{}{Now, please take a moment and reflect on what I have said.}
+{204}{}{Vi måste vakta och vårda den, även om lågan blivit kall;}
+{205}{}{Den kan tändas igen, om visdomen missanvänds.}
+{206}{}{Därmed ingen veta skall, vi rädes Eldfloden åter tänds.}
+{207}{}{Men en dag ska människor resa sig över sin vilja till förstörelse.}
+{208}{}{Och Minnesmärket ska finnas där, väntande på botgörelse.}
+{209}{}{Så vi utför vår heliga uppgift, all visdom i vår hand.}
+{210}{}{Aldrig mer använda, men skydda från tidens tand.}
+{211}{}{Så nu mina vänner, res iväg med huvudet högt;}
+{212}{}{För ni har alla visdomens väktare mött.}
+{213}{}{Ta nu ett ögonblick och reflektera över det jag sagt.}
+{224}{}{Ta nu ett ögonblick och reflektera över det jag sagt.}
 {300}{}{Var hälsad, min vän. Jag tror inte att jag har sett dig här förut. Mitt namn är broder Matthew och jag hjälper till
  att sprida ordet om vikten av att bevara de gamlas kunskap.}
 {301}{}{Det är trevligt att träffa dig, Matte. Jag heter }
@@ -30,10 +30,10 @@
 {500}{}{Jag står till er tjänst. Vad skulle du vilja veta?}
 {501}{}{Vad kan du berätta om den här platsen?}
 {502}{}{Du verkar vara väldigt poetisk i dina predikningar. Finns det någon anledning till det?}
-{503}{}{Nevermind. Take care.}
-{600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
- visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
- this old monastery not long after the great Flame Deluge.}
+{503}{}{Det var inget. Ha det så bra.}
+{600}{}{Klostret är ett hem för vem som helst, så länge de inte ställer till med problem. Vi är ett självständigt samhälle och får sällan
+ besökare, som du själv. Majoriteten av de du ser här härstammar från de ursprungliga grundarna som bosatte sig i
+ detta gamla kloster inte långt efter den stora Eldfloden.}
 {601}{}{Fortsätt.}
 {602}{}{Den lugna, fridfulla stämningen häromkring har gjort det till ett tilltalande hem för andra resenärer som har vandrat
  hit genom åren för att fly från det mörka kaoset i ödemarken. Naturligtvis ligger denna plats verkliga värde

@@ -1,2 +1,2 @@
-{100}{}{Se ejecuta killap del Fallout 2 Proyecto de Restauración. La versión 2.3.3 u. Gracias por instalar!}
-{101}{}{Se ejecuta killap del Fallout 2 Proyecto de Restauración. La versión 2.3.3 u. Gracias por instalar!}
+{100}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}
+{101}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}

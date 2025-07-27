@@ -38,22 +38,15 @@
 {131}{}{Eu vou por trás da fumaça.}
 {200}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi
  falar muito sobre os tempos difíceis que estão por vir.}
-{201}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi
- falar muito sobre os tempos difíceis que estão por vir.}
 {202}{}{Eu ainda estou olhando, Nagor.}
 {203}{}{Eu ainda estou procurando. Primo}
 {204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já
- encontrou o vault treze e o GECK?}
-{205}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já
  encontrou o vault treze e o GECK?}
 {206}{}{Eu não encontrei. Sinto muito.}
 {207}{}{Eu sinto muito, Nagor. Eu ainda estou procurando.}
 {208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo
  aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
-{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo
- aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
 {210}{}{Olá, primo.}
-{211}{}{Olá, primo.}
 {212}{}{Você não parece com você mesmo.}
 {213}{}{Você não soa como seu eu habitual.}
 {214}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você foi embora. As pessoas estão
@@ -63,4 +56,3 @@
   Os brahmins estão morrendo e ... eu ... meu cachorro Fumaça morreu. Sinto muita falta dele. Desculpe, mas não posso realmente
   falar mais ...}
 {300}{}{Você vê Nagor.}
-{302}{}{Primo, estou feliz em ver você! Eu preciso de sua ajuda.}

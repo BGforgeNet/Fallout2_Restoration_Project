@@ -31,20 +31,15 @@
 {130}{}{Moja iść.}
 {131}{}{Idę po Smoke'a.}
 {200}{}{Witaj, kuzyn... Eee... to znaczy Dziecko Przeznaczenia. Mam nadzieję, że udało ci się odnaleźć GECK. Słyszałem wiele rozmów o nadejściu ciężkich czasów.}
-{201}{}{Witaj, kuzyn... Eee... to znaczy Dziecko Przeznaczenia. Mam nadzieję, że udało ci się odnaleźć GECK. Słyszałem wiele rozmów o nadejściu ciężkich czasów.}
 {202}{}{Moja szuka, Nagor.}
 {203}{}{Wciąż szukam.}
 {204}{}{Witaj w domu, kuzynie. Ostatnio sprawy tu trochę się komplikują. Czy znalazłeś już Świętą Trzynastkę i GECK?}
-{205}{}{Witaj w domu, kuzynie. Ostatnio sprawy tu trochę się komplikują. Czy znalazłeś już Świętą Trzynastkę i GECK?}
 {206}{}{Moja nie znaleźć. Przykro.}
 {207}{}{Wciąż szukam, Nagorze. Przykro mi.}
 {208}{}{Witaj ponownie, kuzynie. Chyba już zauważyłeś, że wszystko się tu rozpada. Proszę, znajdź GECK. Jesteśmy zdesperowani!}
-{209}{}{Witaj ponownie, kuzynie. Chyba już zauważyłeś, że wszystko się tu rozpada. Proszę, znajdź GECK. Jesteśmy zdesperowani!}
 {210}{}{Cześć, kuzynie.}
-{211}{}{Cześć, kuzynie.}
 {212}{}{Ty nie zachowywać się zwyczajnie.}
 {213}{}{Nie zachowujesz się jak zwyczaj.}
 {214}{}{Przykro mi, kuzynie. Odkąd ostatnio odszedłeś jest tu coraz gorzej. Ludzie chorują, braminy zdychają i... ja... mój pies, Smoke umarł. Morlis zmuszona była go ugotować. Tak za nim tęsknię... Przepraszam... naprawdę nie mogę dłużej o tym rozmawiać..}
 {215}{}{Przykro mi kuzynko. Odkąd ostatnio odeszłaś jest tu coraz gorzej. Ludzie chorują, braminy zdychają i... ja... mój pies, Smoke umarł. Morlis zmuszona była go ugotować. Tak za nim tęsknię... Przepraszam... naprawdę nie mogę dłużej o tym rozmawiać..}
 {300}{}{Widzisz Nagora.}
-{302}{}{Kuzynie! Tak się cieszę że cię widzę. Potrzebuję twojej pomocy.}

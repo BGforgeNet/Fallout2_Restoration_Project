@@ -64,6 +64,12 @@ if [[ -d appearance ]]; then
     done
 fi
 
+# Backup old mods_order.txt if exists
+if [ -f mods/mods_order.txt ]; then
+    mv mods/mods_order.txt $bdir/
+fi
+mv -f mods_order.txt mods/mods_order.txt
+
 # sound path fix
 rm -f camlrt.dll initool.exe
 cp fallout2.cfg "$bdir"/

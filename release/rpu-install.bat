@@ -10,6 +10,12 @@ if exist f2_res.dat (
   move f2_res.dat %bdir%\
 )
 
+:: Backup old mods_order.txt if exists
+if exist mods\mods_order.txt (
+  move mods\mods_order.txt %bdir%\
+)
+move /y mods_order.txt mods\mods_order.txt
+
 :: I don't know how to iterate over files in batch properly, so just moving back and forth
 move /y data %bdir%\
 mkdir data\sound

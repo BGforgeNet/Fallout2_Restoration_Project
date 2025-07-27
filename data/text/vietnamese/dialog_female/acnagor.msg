@@ -38,22 +38,15 @@ buồn lắm đấy. Cậu không muốn làm dì buồn chứ, đúng không?}
 {131}{}{Tôi sẽ đi tìm Smoke.}
 {200}{}{Xin chào chị họ... ừ, ý em là Cứu tinh. Em hi vọng là chị đã tìm thấy GECK. Em nghe
 mọi người nói nhiều về thời kì khó khăn sắp đến rồi.}
-{201}{}{Xin chào chị họ... ừ, ý em là Cứu tinh. Em hi vọng là chị đã tìm thấy GECK. Em nghe
-mọi người nói nhiều về thời kì khó khăn sắp đến rồi.}
 {202}{}{Ngộ vẫn tìm, Nagor.}
 {203}{}{Tôi vẫn đang đi tìm, em họ ạ.}
 {204}{}{Chào mừng trở về, chị họ. Mọi thứ ở nhà đang hơi loạn. Chị đã tìm thấy số 13 thần thánh và
-GECK chưa?}
-{205}{}{Chào mừng trở về, chị họ. Mọi thứ ở nhà đang hơi loạn. Chị đã tìm thấy số 13 thần thánh và
 GECK chưa?}
 {206}{}{Ngộ không tìm. Xin lỗi.}
 {207}{}{Tôi xin lỗi, Nagor. Tôi vẫn đang tìm.}
 {208}{}{Xin chào, chị họ. Em chắc anh cũng thấy là mọi thứ nát như tương rồi. Làm ơn đi tìm
 GECK đi. Chúng ta nguy cấp lắm rồi!}
-{209}{}{Xin chào, chị họ. Em chắc anh cũng thấy là mọi thứ nát như tương rồi. Làm ơn đi tìm
-GECK đi. Chúng ta nguy cấp lắm rồi!}
 {210}{}{Chào, em họ.}
-{211}{}{Chào, em họ.}
 {212}{}{Cậu nghe không như mọi khi.}
 {213}{}{Cậu nghe có vẻ không giống như mọi khi.}
 {214}{}{Em xin lỗi, chị họ. Mọi thứ đang ngày càng tệ hơn sau khi chị đi. Mọi người thi nhau bị bệnh,
@@ -63,4 +56,3 @@ nhưng em không thể nói chuyện thêm nữa...}
 đàn bò thì chết và... em... con chó Smoke của em đã chết. Em nhớ nó quá. Xin lỗi, nhưng em
 không thể nói chuyện thêm nữa...}
 {300}{}{Bạn thấy Nagor.}
-{302}{}{Chị họ, rất vui được gặp chị! Em cần chị giúp.}

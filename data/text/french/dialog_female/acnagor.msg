@@ -31,20 +31,15 @@
 {130}{}{Je pars.}
 {131}{}{Je vais aller chercher Fumace.}
 {200}{}{Bonjour cousine... Euh, je veux dire bonjour l'Etre Elu. J'espère que tu as trouvé le J.E.K. Beaucoup de mauvais présages s'annoncent.}
-{201}{}{Bonjour cousine... Euh, je veux dire bonjour l'Etre Elu. J'espère que tu as trouvé le J.E.K. Beaucoup de mauvais présages s'annoncent.}
 {202}{}{Moi encore chercher, Nagor.}
 {203}{}{Je cherche toujours, cousin.}
 {204}{}{Bienvenue à la maison, cousine. Les choses ne vont pas si bien que ça ici. As-tu trouvé le Saint-Treize et le J.E.K ?}
-{205}{}{Bienvenue à la maison, cousine. Les choses ne vont pas si bien que ça ici. As-tu trouvé le Saint-Treize et le J.E.K ?}
 {206}{}{Moi pas trouver. Pardon.}
 {207}{}{Je regrette Nagor, toujours pas.}
 {208}{}{Rebonjour cousine. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
-{209}{}{Rebonjour cousine. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
 {210}{}{Bonjour cousine.}
-{211}{}{Bonjour cousine.}
 {212}{}{Toi pas avoir l'air comme d'habitude.}
 {213}{}{Tu n'as pas l'air comme d'habitude.}
 {214}{}{Je regrette, cousin. Les choses n'ont pas cessé de se détériorer depuis ton départ. Les gens sont malades, les Brahmines meurent... Je... Mon chien, Fumace, est mort... Morlis l'a fait cuire... Il me manque tellement... Pardon, mais je ne peux vraiment pas te parler davantage...}
 {215}{}{Je regrette, cousine. Les choses n'ont pas cessé de se détériorer depuis ton départ. Les gens sont malades, les Brahmines meurent... Je... Mon chien, Fumace, est mort... Il me manque tellement... Pardon, mais je ne peux vraiment pas te parler davantage...}
 {300}{}{Tu vois Nagor.}
-{302}{}{Quel plaisir de te voir cousine ! J'ai besoin de ton aide.}

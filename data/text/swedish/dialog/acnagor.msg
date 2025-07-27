@@ -38,22 +38,15 @@
 {131}{}{Jag letar efter Smoke.}
 {200}{}{Hej kusin... eh, jag menar Utvalde. Jag hoppas att du har hittat GECK. Jag 'har hört en hel del
  prat om kommande svåra tider.}
-{201}{}{Hej kusin... eh, jag menar Utvalde. Jag hoppas att du har hittat GECK. Jag 'har hört en hel del
- prat om kommande svåra tider.}
 {202}{}{Jag fortfarande letar, Nagor.}
 {203}{}{Jag letar fortfarande, kusin.}
 {204}{}{Välkommen hem, kusin. Det börjar bli lite tufft här. Har du hittat den heliga
- Tretton och GECK?}
-{205}{}{Välkommen hem, kusin. Det börjar bli lite tufft här. Har du hittat den heliga
  Tretton och GECK?}
 {206}{}{Jag inte hitta. Ledsen.}
 {207}{}{Jag är ledsen, Nagor. Jag letar fortfarande.}
 {208}{}{Hej igen, kusin. Jag antar att du har märkt att saker och ting verkligen faller samman här. Snälla
  hitta GECK. Vi är i desperat behov!}
-{209}{}{Hej igen, kusin. Jag antar att du har märkt att saker och ting verkligen faller samman här. Snälla
- hitta GECK. Vi är i desperat behov!}
 {210}{}{Hej, kusin.}
-{211}{}{Hej, kusin.}
 {212}{}{Du inte låta som vanligt.}
 {213}{}{Du låter inte som ditt vanliga jag.}
 {214}{}{Jag är ledsen, kusin. Saker och ting har blivit värre och värre sedan du senast var här. Folk är
@@ -63,4 +56,3 @@
  brahminerna är döende och... jag... min hund Smoke dog. Jag saknar honom så mycket. Ledsen, men jag kan inte
  riktigt prata längre...}
 {300}{}{Du ser Nagor.}
-{302}{}{Kusin, vad jag är glad att se dig! Jag behöver din hjälp.}

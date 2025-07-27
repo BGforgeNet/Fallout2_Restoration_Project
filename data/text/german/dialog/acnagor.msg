@@ -38,22 +38,15 @@
 {131}{}{Ich gehe Rauch suchen.}
 {200}{}{Hallo, Cousin... äh, ich meine Auserwähltes Wesen. Ich hoffe, du hast das GECK gefunden.
  Ich hab viel Gerede über schlechte Zeiten gehört.}
-{201}{}{Hallo, Cousin... äh, ich meine Auserwähltes Wesen. Ich hoffe, du hast das GECK gefunden.
- Ich hab viel Gerede über schlechte Zeiten gehört.}
 {202}{}{Ich noch such, Nagor.}
 {203}{}{Ich suche noch, Cousin.}
 {204}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige
- Dreizehn und das GECK gefunden?}
-{205}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige
  Dreizehn und das GECK gefunden?}
 {206}{}{Nix finden. Tut leid.}
 {207}{}{Tut mir leid, Nagor. Ich suche immer noch.}
 {208}{}{Hallo, Cousin. Du hast wohl schon bemerkt das es hier den Bach runtergeht. Bitte finde
  das GECK. Wir brauchen es dringend.}
-{209}{}{Hallo, Cousin. Du hast wohl schon bemerkt das es hier den Bach runtergeht. Bitte finde
- das GECK. Wir brauchen es dringend.}
 {210}{}{Hi, Cousin.}
-{211}{}{Hi, Cousin.}
 {212}{}{Du hören anders an als sonst.}
 {213}{}{Du hörst dich anders an als sonst.}
 {214}{}{Tut mir leid, Cousin. Die Lage hat sich weiter verschlimmert seitdem du weg bist. Die
@@ -63,4 +56,3 @@
  Leute sind krank, die Brahmin sterben und... ich... mein Hund Smoke ist gestorben. Ich vermisse
  ihn sehr. Tschuldigung, aber ich kann nicht mehr reden...}
 {300}{}{Du siehst Nagor.}
-{302}{}{Cousin, bin ich froh, dich zu sehen! Ich brauch deine Hilfe.}

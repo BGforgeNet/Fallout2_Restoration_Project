@@ -1,6 +1,5 @@
 # 0. Look
 {100}{}{You see a slaver.}
-{000}{}{You see a slaver named Aidan.}
 
 {150}{}{He looks like he could easily take care of himself in a fight.}
 

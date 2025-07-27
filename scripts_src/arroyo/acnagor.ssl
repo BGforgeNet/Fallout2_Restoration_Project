@@ -191,34 +191,6 @@ procedure talk_p_proc begin
        end_dialogue;
    end
 
-   else if (reached_tl_3) then begin
-       call Node015;
-    end
-
-   else if (reached_tl_2) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node014;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (reached_tl_1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node013;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (dude_iq < 4) then begin //moved here by killap
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node012;
-       gSay_End;
-       end_dialogue;
-   end
-
    else if (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF) then begin
        floater(131);
    end
@@ -256,6 +228,34 @@ procedure talk_p_proc begin
 
    else if (global_var(GVAR_ARROYO_DOG) == DOG_FINISHED_BAD) then begin
        call Node011;
+   end
+
+   else if (reached_tl_3) then begin
+       call Node015;
+   end
+
+   else if (reached_tl_2) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node014;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (reached_tl_1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node013;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (dude_iq < 4) then begin //moved here by killap
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node012;
+       gSay_End;
+       end_dialogue;
    end
 
    else if (local_var(LVAR_Herebefore) == 0) then begin
@@ -321,10 +321,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   if (dude_is_male) then
-       Reply(102);
-   else
-       Reply(302);
+   Reply(102);
 
    BOption(103,Node002,004);
    NOption(104,Node003,004);
@@ -443,47 +440,35 @@ procedure Node012 begin
 end
 
 procedure Node013 begin
-   if (dude_is_male) then
-       Reply(200);
-   else
-       Reply(201);
+   Reply(200);
 
    NLowOption(202,Node999);
    NOption(203,Node999,004);
 end
 
 procedure Node014 begin
-   if (dude_is_male) then
-       Reply(204);
-   else
-       Reply(205);
+   Reply(204);
 
    NLowOption(206,Node999);
    NOption(207,Node999,004);
 end
 
 procedure Node015 begin
-   if (dude_is_male) then
-       floater(208);
-   else
-       floater(209);
+   floater(208);
 end
 
 procedure Node016 begin
-   if (dude_is_male) then
-       Reply(210);
-   else
-       Reply(211);
+   Reply(210);
 
    NLowOption(212,Node017);
    NOption(213,Node017,004);
 end
 
 procedure Node017 begin
-   if (dude_is_male) then
-       NMessage(214);
+   // PC saved Smoke, but Morlis cooks him by TL4
+   if (global_var(GVAR_ARROYO_DOG) == DOG_FINISHED_GOOD) then
+      NMessage(214);
    else
-       NMessage(215);
+      // Else, it dies in an unspecified way
+      NMessage(215);
 end
-
-//xxxxxxxxxxxxxxxxxxxx

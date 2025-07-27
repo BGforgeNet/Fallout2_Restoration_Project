@@ -52,12 +52,23 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   if ( (global_var(GVAR_ARROYO_DOG) == QUEST_NONE) or (reached_tl_4) or (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF) ) then begin //edit by killap - added: or (reached_tl_4) or (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF)
-       set_self_invisible;          // invis
-   end
-   else begin
-       set_self_visible;          // vis
-   end
+    // If PC saved Smoke, by TL4 Morlis cooks it
+    if reached_tl_4 then begin
+        if (global_var(GVAR_ARROYO_DOG) != DOG_FINISHED_GOOD) then begin
+            // Cross off the quest
+            set_global_var(GVAR_ARROYO_DOG, DOG_FINISHED_BAD);
+        end
+        destroy_self;
+        return;
+    end
+
+   if ( (global_var(GVAR_ARROYO_DOG) == QUEST_NONE)
+        or (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF)
+    ) then begin    // edit by killap - added: or (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF)
+        set_self_invisible;
+    end else begin
+       set_self_visible;
+    end
 end
 
 procedure critter_p_proc begin
@@ -101,5 +112,4 @@ procedure destroy_p_proc begin
    set_global_var(GVAR_ARROYO_DOG,DOG_DEAD);
    if (cur_map_index == MAP_ARROYO_WILDERNESS) then
        set_map_var(MVAR_Dog_Already_Dead,1);
-
 end

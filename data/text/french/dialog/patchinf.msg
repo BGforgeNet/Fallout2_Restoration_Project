@@ -1,2 +1,2 @@
-{100}{}{Vous jouez avec le Restoration Project créé par Killap. Version 2.3.3u. Version française par fallout-generation.com. Merci de l'avoir installé !}
-{101}{}{Vous jouez avec le Restoration Project créé par Killap. Version 2.3.3u. Version française par fallout-generation.com. Merci de l'avoir installé !}
+{100}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}
+{101}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}

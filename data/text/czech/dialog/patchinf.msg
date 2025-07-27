@@ -1,2 +1,2 @@
-{100}{}{Používáte Killapův Fallout 2 Restoration Project v češtině. Verze 2.3.3. Děkujeme za instalaci!}
-{101}{}{Používáte Killapův Fallout 2 Restoration Project v češtině. Verze 2.3.3. Děkujeme za instalaci!}
+{100}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}
+{101}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}

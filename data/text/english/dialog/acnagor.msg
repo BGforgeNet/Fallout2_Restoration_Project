@@ -1,7 +1,6 @@
 {100}{}{You see your young cousin, Nagor. You don't see his dog, Smoke, anywhere.}
 {101}{}{You've known Nagor since he was an infant, and have always helped him when you could.}
 {102}{}{Cousin, am I glad to see you! I need your help.}
-{302}{}{Cousin, am I glad to see you! I need your help.}
 {103}{}{Sorry, but I don't have the time.}
 {104}{}{What do you need help with?}
 {105}{}{Then I'll go out in the wilds myself!}
@@ -41,22 +40,15 @@
 # new nodes for time limit
 {200}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
  talk about hard times to come.}
-{201}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
 {202}{}{Me still look, Nagor.}
 {203}{}{I'm still looking, cousin.}
 {204}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
-{205}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
  Thirteen and the GECK?}
 {206}{}{Me not find. Sorry.}
 {207}{}{I'm sorry, Nagor. I'm still looking.}
 {208}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
  find the GECK. We are in desperate need!}
-{209}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
 {210}{}{Hi, cousin.}
-{211}{}{Hi, cousin.}
 {212}{}{You not sound like usual self.}
 {213}{}{You don't sound like your usual self.}
 {214}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are

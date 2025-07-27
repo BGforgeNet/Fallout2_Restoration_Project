@@ -27,8 +27,7 @@ UsePreviousAppDir=no
 AlwaysShowDirOnReadyPage=yes
 
 [Files]
-Source: "release\*.*"; Excludes: "\mods\mods_order.txt"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
-Source: "release\mods\mods_order.txt"; DestDir: "{#mods_dir}"; Components: core; Flags: onlyifdoesntexist
+Source: "release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
 #include "files_translations.iss"
 Source: "optional\rpu_alternative_explosions.dat"; DestDir: "{#mods_dir}"; Components: alternative_explosions; Flags: ignoreversion overwritereadonly
 Source: "optional\rpu_enhanced_worldmap.dat"; DestDir: "{#mods_dir}"; Components: worldmap; Flags: ignoreversion overwritereadonly

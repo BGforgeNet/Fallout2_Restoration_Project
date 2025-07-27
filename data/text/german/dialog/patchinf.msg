@@ -1,2 +1,2 @@
-{100}{}{Es läuft Killap's Fallout 2 Restoration Project Version 2.3.3u. Vielen Dank für die Installation!}
-{101}{}{Es läuft Killap's Fallout 2 Restoration Project Version 2.3.3u. Vielen Dank für die Installation!}
+{100}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}
+{101}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}

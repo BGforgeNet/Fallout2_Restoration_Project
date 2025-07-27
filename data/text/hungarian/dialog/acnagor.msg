@@ -31,20 +31,15 @@
 {130}{}{Menek.}
 {131}{}{Elmegyek Füst után.}
 {200}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkező nehéz időkről beszélnek.}
-{201}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkező nehéz időkről beszélnek.}
 {202}{}{Én még keres, Nagor.}
 {203}{}{Még keresem unokaöcsém.}
 {204}{}{Üdvözöllek itthon, unokatestvérem. A problémák egyre szaporodnak. Megtaláltad a szent Tizenhármast, és az ÉLET-et?}
-{205}{}{Üdvözöllek itthon, unokatestvérem. A problémák egyre szaporodnak. Megtaláltad a szent Tizenhármast, és az ÉLET-et?}
 {206}{}{Nem találni. Bocsánat.}
 {207}{}{Sajnálom, Nagor, de még keresem.}
 {208}{}{Üdv, unokatestvérem. Azt hiszem, észrevetted, hogy a dolgok tényleg nagyon súlyosak itt. Kérlek, találd meg az ÉLET-et. Komolyan szükségünk van rá!}
-{209}{}{Üdv, unokatestvérem. Azt hiszem, észrevetted, hogy a dolgok tényleg nagyon súlyosak itt. Kérlek, találd meg az ÉLET-et. Komolyan szükségünk van rá!}
 {210}{}{Szia, unokatestvérem.}
-{211}{}{Szia, unokatestvérem.}
 {212}{}{Nem úgy beszélsz, ahogy szoktál.}
 {213}{}{Nem úgy beszélsz, ahogy régen.}
 {214}{}{Sajnálom, unokatesvérem. A dolgok egyre rosszabbak lettek az utolsó látogatásod óta. Az emberek betegek, a brahminok haldokolnak, ráadásul... a kutyám ... Füst elpusztult és Morlis megfőzte. Annyira hiányzik. Ne haragudj, de képtelen vagyok többet beszélni erről...}
 {215}{}{Sajnálom, unokatesvérem. A dolgok egyre rosszabbak lettek az utolsó látogatásod óta. Az emberek betegek, a brahminok haldokolnak, ráadásul... a kutyám ... Füst elpusztult és Morlis megfőzte. Annyira hiányzik. Ne haragudj, de képtelen vagyok többet beszélni erről...}
 {300}{}{Ő Nagor.}
-{302}{}{Unokatestvérem, jó hogy látlak! Szükségem van a segítségedre.}
