@@ -29,7 +29,7 @@
 {127}{}{What are you guarding the hall against?}
 {128}{}{Intruder. Human, deathclaw, whatever. Pack threatened, I attack.}
 {129}{}{Ah.}
-{130}{}{I see.}
+{130}{}{Jag förstår.}
 {131}{}{I'd be surprised if you're smart enough to tell a friend from a foe.}
 {132}{}{I feel sorry for any intruders who happen upon you.}
 {133}{}{Never mind. I'll be seeing you.}

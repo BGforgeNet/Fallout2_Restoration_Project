@@ -33,7 +33,7 @@
 {128}{}{Ja, det gör jag. Jag agerar mellanhand mellan honom och folket här uppe. Jag är inte särskilt glad över
  det faktumet, nu när jag vet vad han håller på med.}
 {129}{}{Okej.}
-{130}{}{I see.}
+{130}{}{Jag förstår.}
 {131}{}{Ingenting. De har vapnen, de kontrollerar vattnet och de kontrollerar maten. Det betyder
  att de bestämmer. Punkt slut. Vi har inga färdigheter och inget stöd utan Darions hjälp.
  Hur kan vi vända oss mot honom? Vi är utlämnade till hans nåd.}

@@ -32,7 +32,7 @@
 {302}{}{Hej, dzięki! Do widzenia.}
 {310}{}{Hej, to była dla mnie wielka przysługa więc bierz co chcesz lub potrzebujesz. W ten sposób chcę Ci podziękować za twoją pomoc.}
 {311}{}{W takim razie w porządku. A tak w ogóle, to kim jesteś? Dlaczego zabicie tych wszystkich roślin było dla ciebie takie ważne?}
-{320}{}{Jestem Dyrektorem Obsługi Gruntów. Dbam żeby na naszym terenie wszystko było w należytym porządku, ale ponieważ jestem tylko Hologramem nie mogę niczego zrobić sam, więc posługiwałem robotami żeby robiły wszystko za mnie.  Ale od kiedy większość robotów przestała działać, pracuję ze 100% nieefektywnością, od kilku lat. Twoja pomoc była niezastąpiona.}
+{320}{}{Jestem Dyrektorem Obsługi Gruntów. Dbam żeby na naszym terenie wszystko było w należytym porządku, ale ponieważ jestem tylko Hologramem nie mogę niczego zrobić sam, więc posługiwałem robotami żeby robiły wszystko za mnie. Ale od kiedy większość robotów przestała działać, pracuję ze 100% nieefektywnością, od kilku lat. Twoja pomoc była niezastąpiona.}
 {321}{}{Cóż, żaden problem. Muszę już iść.}
 {330}{}{Tak trzymaj, p.o. zarządcy.}
 {331}{}{Teraz pracuję z 1% efektywnością!}

@@ -231,4 +231,4 @@
 {30000}{}{Ach, po tym faktycznie poczułem się lepiej. Mam wrażenie, że teraz będę znacznie... skuteczniejszy.}
 {30001}{}{Łał, czuję się inaczej. Te pigułki na serce muszą naprawdę działać.}
 {30100}{}{Tak, dlaczego nie... To pomoże mi poczuć się jak martwy.}
-{30300}{}{[Next]}
+{30300}{}{[Dalej]}

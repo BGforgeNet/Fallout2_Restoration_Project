@@ -1227,19 +1227,19 @@
 {2210}{}{.}
 {2263}{}{ ! Vas-y, tombeur !}
 {2264}{}{ botte tellement de culs qu'il devait être une chaussure dans une autre vie.}
-{2268}{}{ ?}
-{2272}{}{ ?}
+{2268}{}{?}
+{2272}{}{?}
 {2278}{}{ ! Vas-y, minette !}
-{2279}{}{ ?}
+{2279}{}{?}
 {2280}{}{ botte tellement de culs qu'elle devait être une chaussure dans une autre vie.}
 {2285}{}{.}
 {2292}{}{...}
-{2293}{}{ ?}
+{2293}{}{?}
 {2294}{}{... viens par là, mon ange...}
 {2295}{}{.}
-{2855}{}{ ?}
-{2858}{}{ ?}
-{2861}{}{ ?}
+{2855}{}{?}
+{2858}{}{?}
+{2861}{}{?}
 {2865}{}{, et beau mec... Où est-ce que tu étais ?}
 {2867}{}{ ! Comment vas-tu ?}
 {2868}{}{. Puis-je t'aider en... *quoi que ce soit* ?}

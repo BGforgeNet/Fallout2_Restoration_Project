@@ -175,7 +175,7 @@
 {462}{}{Butch Coolidge}
 {463}{}{Alley Cat}
 {464}{}{Bad Mojo}
-{465}{}{Tank}
+{465}{made_man_name}{Tank}
 {466}{}{Bruiser}
 {467}{}{Mynx}
 {468}{}{Scorpion}

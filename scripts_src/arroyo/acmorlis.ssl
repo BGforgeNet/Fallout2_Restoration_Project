@@ -331,12 +331,6 @@ procedure Node003 begin
    NOption(106,Node004,004);
 end
 
-/*procedure Node004 begin
-   Reply(107);
-
-   NOption(108,Node005,004);
-end*/
-
 //edits by Darek
 procedure Node004 begin
    if ((self_item_count(PID_FLINT) or (local_var(LVAR_Stole_Flint) == 1)) and (local_var(LVAR_Gave_Flint) == 0)) then begin
@@ -360,18 +354,6 @@ begin
     call Node005a;
 end
 //end
-
-/*procedure Node005 begin
-   set_global_var(GVAR_ARROYO_SPEAR, SPEAR_GET_POWDER);
-
-   Reply(109);
-
-   NOption(110,Node999,004);
-   if (dude_item_count(PID_HEALING_POWDER) > 2) then
-       NOption(118,Node007,004);
-   if (has_skill(dude_obj,SKILL_SPEECH) > 50) then
-       NOption(150,Node018,004);
-end*/
 
 //added by Darek
 procedure Node005a begin
@@ -426,17 +408,6 @@ procedure Node006 begin
 end
 //end
 
-/*procedure Node006 begin
-   Reply(111);
-
-   if (dude_item_count(PID_HEALING_POWDER) > 2) then
-       NOption(112,Node007,004);
-   else
-       NOption(113,Node008,004);
-end*/
-
-
-
 procedure Node007 begin
    variable item;
    variable item2;
@@ -487,79 +458,6 @@ begin
       call Node008;
     end
 end
-
-
-
-
-/*procedure Node007 begin
-   variable item;
-   variable item2;
-   variable JunkIt;
-
-   if (self_item_count(PID_FLINT)) then begin
-      if (dude_item_count(PID_HEALING_POWDER) > 2) then begin //condition added by killap
-         //remove healing powders
-         item:=dude_item(PID_HEALING_POWDER);
-         JunkIt:=rm_mult_objs_from_inven(dude_obj,item,3);
-         add_mult_objs_to_inven(self_obj,item,3);
-         //remove flint
-         item2:=self_item(PID_FLINT);
-         rm_obj_from_inven(self_obj,item2);
-         add_obj_to_inven(dude_obj,item2);
-
-         set_local_var(LVAR_Gave_Flint,1);
-
-         Reply(114);
-
-         NOption(115,Node999,004);
-      end else begin
-         call Node008;  //added by killap: no more tricking Morlis that you have powder when you really dropped it.
-      end
-   end else begin
-         if (local_var(LVAR_Said_17) == 0) then
-            Reply(300); //added check if she is no longer carrying the flint.
-         else
-            Reply(302);
-
-         NOption(115,Node999,004);
-   end
-end*/
-
-/*procedure Node007 begin
-   variable item;
-   variable item2;
-   variable JunkIt;
-   if (dude_item_count(PID_HEALING_POWDER) > 2) then begin //condition added by killap
-      item:=dude_item(PID_HEALING_POWDER);
-      JunkIt:=rm_mult_objs_from_inven(dude_obj,item,3);
-      add_mult_objs_to_inven(self_obj,item,3);
-
-      //item2:=create_object(PID_FLINT,0,0); //comment out by killap
-      //added by killap
-      if (self_item_count(PID_FLINT)) then begin
-         item2:=self_item(PID_FLINT);
-         rm_obj_from_inven(self_obj,item2);
-         add_obj_to_inven(dude_obj,item2);
-         set_local_var(LVAR_Stole_Flint,0);
-      end
-      //end added
-
-      set_local_var(LVAR_Gave_Flint,1);
-
-      if (self_item_count(PID_FLINT)) then begin
-         Reply(114);
-      end else begin
-         if (local_var(LVAR_Said_17) == 0) then
-            Reply(300); //added check if she is no longer carrying the flint.
-         else
-            Reply(302);
-      end
-
-      NOption(115,Node999,004);
-   end
-   else
-      call Node008;  //added by killap: no more tricking Morlis that you have powder when you really dropped it.
-end*/
 
 procedure Node008 begin
   if (not self_item_count(PID_FLINT)) then
@@ -654,6 +552,9 @@ begin
         rm_obj_from_inven(self_obj,item);
         add_obj_to_inven(dude_obj,item);
         Reply(154);
+        // This node is gated behind int 4 anyway, but just in case use min of 1 here.
+        NOption(115, Node999, 001);
+        return;
       end
     end
     else
@@ -666,32 +567,6 @@ begin
   NOption(156,Node999,001);
 end
 //end
-
-/*procedure Node018 begin
-   variable item;
-
-   if (skill_success(dude_obj,SKILL_SPEECH,0)) then begin
-       if (self_item_count(PID_FLINT)) then begin
-           item:=self_item(PID_FLINT);
-           rm_obj_from_inven(self_obj,item);
-           add_obj_to_inven(dude_obj,item);
-
-           if (local_var(LVAR_Gave_Flint) == 0) then begin
-               set_local_var(LVAR_Gave_Flint,1);
-               give_xp(EXP_TALK_FLINT);
-           end
-
-           Reply(154);
-       end else begin
-           Reply(303); //added check if she is no longer carrying the flint.
-       end
-   end
-   else begin
-       Reply(155);
-   end
-
-   NOption(156,Node999,001);
-end*/
 
 //added by Darek
 procedure Node018a begin
@@ -710,5 +585,3 @@ procedure Node018b begin
   NOption(156,Node999,001);
 end
 //end added
-
-//xxxxxxxxxxxxxxxxxxxx

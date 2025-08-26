@@ -7,7 +7,7 @@
 {106}{}{Szczęście}
 {107}{}{Maks. PW}
 {108}{}{Maks. PA}
-{109}{}{Klasa pancerza}
+{109}{}{Klasa panc.}
 {110}{}{Obrażenia bez broni}
 {111}{}{Obr. wal. wręcz}
 {112}{}{Udźwig}

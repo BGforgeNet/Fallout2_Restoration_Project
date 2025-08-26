@@ -29,7 +29,7 @@
 {301}{}{Uh, no.}
 {302}{}{Åh, okej. Låt mig fråga dig något annat då.}
 {303}{}{Jaha, jag förstår. Jag vill inte störa din, eh, stil. Hej då.}
-{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{De ger mig saker som de hittar. Små, små saker. Saker som ingen använder längre. I utbyte tar jag hand om dem.}
 {316}{}{Låter som ett trevligt arrangemang.}
 {325}{}{(Flick rycker på axlarna) Jag klarar mig bra.}
 {326}{}{Låt mig fråga dig om något annat då.}
@@ -70,7 +70,7 @@
 {432}{}{Du är full av det. Jag är trött på skumma typer som du som utnyttjar folk för egen vinning. Dags att dö!}
 {440}{}{Pai-san-o, du vet, barnen. Mina barn.}
 {441}{}{Och du har en överenskommelse med dem?}
-{450}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{450}{}{De ger mig saker som de hittar. Små, små saker. Saker som ingen använder längre. I utbyte tar jag hand om dem.}
 {451}{}{Låter som ett trevligt arrangemang.}
 {460}{}{Yeah... business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
  Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,

@@ -124,7 +124,7 @@
 {472}{}{Nie, dzięki. Interesuje mnie coś jeszcze...}
 {473}{}{W takim razie podziękuję. Do zobaczenia.}
 {474}{}{Trochę za dużo jak na mój gust. Wrócę do ciebie jak zbiorę wystarczającą ilość gotówki.}
-{480}{}{(Widząc, że wyciągasz pieniądze uśmiecha się i zaciera ręce) Świetnie, proszę bardzo. Podać coś jeszcze? }
+{480}{}{(Widząc, że wyciągasz pieniądze uśmiecha się i zaciera ręce) Świetnie, proszę bardzo. }
 {481}{}{(Zastanawia się przez chwilę, obserwuje cię, kiwa głową) No dobra... Znaj moje dobre serce. (Daje ci moduł, bierze pieniądze.) }
 {482}{}{Coś jeszcze?}
 {485}{}{Tak interesuje mnie jeszcze coś...}

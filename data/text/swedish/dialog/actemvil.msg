@@ -27,7 +27,7 @@
  visar sig vara värdelösa och din hand måste höjas istället. Denna utmaning förbereder dig för att möta
  en annan människa, se honom i ögonen och veta att du kanske måste döda honom.}
 {124}{}{Okej.}
-{125}{}{I see.}
+{125}{}{Jag förstår.}
 {126}{}{Nej, min vän, du behöver bara besegra mig. När tiden är inne kommer vi att avsluta striden.}
 {127}{}{Ja' förstå.}
 {128}{}{Okej.}
@@ -82,7 +82,7 @@
 {170}{}{Hmm... Jag förstår din poäng. Men vi måste fortfarande strida. Jag kommer
  helt enkelt se till att inte skada dig för mycket.}
 {171}{}{Tack! Vi ses igen i byn.}
-{172}{}{I see.}
+{172}{}{Jag förstår.}
 {200}{}{Jag minns inte vår senaste strid, Utvalde. Jag kommer alltid att undra hur du lyckades
  att ta dig förbi mig.}
 {201}{}{Du har en tunga av renaste silver, den Utvalde. Din skicklighet med ord kommer att öppna många dörrar

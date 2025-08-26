@@ -3,7 +3,7 @@
 {102}{}{Chyba nie mył się od wielu lat.}
 {103}{}{Czy wiesz ty dlaczego ja pustelnik? [Pewnie nie odzywał się do nikogo od wielu lat.]}
 {104}{}{Dlaczego?}
-{105}{}{Niczego.}
+{105}{}{Ja tylko przechodzę.}
 {106}{}{Ug.}
 {107}{}{Ja chcieć być sam.}
 {108}{}{Skoro już tu jestem, to może pohandlujemy, co? Na pewno chciałbyś coś z moich rzeczy.}

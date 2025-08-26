@@ -50,7 +50,7 @@
 {139}{}{No, I can leave any time I like. I haven't done so because I don't want to travel alone. I'm
  pretty tough and can take care of myself, but I would still be one person alone in the desert if
  anything happened.}
-{140}{}{I see.}
+{140}{}{Jag förstår.}
 {141}{}{Ah, too much of a wimp to make it on your own. I got it.}
 {142}{}{I don't like traveling alone either, so I can't blame you.}
 {143}{}{Uh... a few months actually. I came here from the coast a while back.}
@@ -94,7 +94,7 @@
 {164}{}{No, only what I've told you. Wait, there is one other thing. The Enclave showed an interest in some ruins to the west of here. Why, I don't know. That's about it.}
 {165}{}{Well, every little bit of information helps, and I thank you for it.}
 {166}{}{This happens to be a very important subject to me and you've let me down!}
-{167}{}{I see.}
+{167}{}{Jag förstår.}
 {168}{}{I think it's called the FEV virus. The Enclave is, or was, doing extensive research on it. I'm
  sorry, but I don't know anything more.}
 {169}{}{That's okay; on to other things.}

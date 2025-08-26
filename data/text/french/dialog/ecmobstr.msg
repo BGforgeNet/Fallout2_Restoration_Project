@@ -5,10 +5,10 @@
 {104}{}{Bonjour, }
 {105}{}{.}
 {106}{}{Que fais-tu par ici, }
-{107}{}{ ?}
+{107}{}{?}
 {108}{}{On voulait seulement savoir comment tu allais, }
 {109}{}{. Quelle belle journée, hein, }
-{110}{}{ ?}
+{110}{}{?}
 {111}{}{Tu es ici pour échapper à tout ça ? }
 {112}{}{ ?}
 {113}{}{ se demandait ce que tu manigançais, }

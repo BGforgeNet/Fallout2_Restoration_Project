@@ -1,4 +1,4 @@
-{1}{}{You have become addicted to alcohol. The thirst for alcohol will soon consume you. You lost 1 Agility and 1 Charisma}
+{1}{}{Uzależniasz się od alkoholu. Nałóg cię wkrótce pochłonie. Tracisz 1 Zręczności i 1 Charyzmy.}
 {2}{}{Te zachcianki są coraz gorsze.}
 {3}{}{Dostajesz drgawek. Męczy cię intensywne pragnienie, musisz znaleźć coś do picia, koniecznie z alkoholem.}
-{4}{}{You feel as if a great burden has been lifted from your mind. No longer do you feel the need to drink alcohol. You regained 1 Agility and 1 Charisma}
+{4}{}{Czujesz się jakby wielki ciężar został zdjęty z twojego umysłu. Nie odczuwasz już potrzeby picia alkoholu. Odzyskujesz 1 Zręczności i 1 Charyzmy.}

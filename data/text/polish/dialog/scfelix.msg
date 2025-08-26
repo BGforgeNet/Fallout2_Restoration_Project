@@ -21,7 +21,7 @@
 {120}{}{A co byś powiedział na to, że Bishop z Nowego Reno przysłał mnie, żeby go zabić?}
 {121}{}{Ee, nie.}
 {122}{}{Ha! Kolejny pomyleniec. Idź pogadać z Peklowanym Bobem. Z pewnością doskonale się zrozumiecie.}
-{123}{}{Kim?}
+{123}{}{Kto?}
 {124}{}{Idę stąd.}
 {125}{}{Peklowany Bob - tam, w stajniach. Pan Westin pozwala mu tam być. A teraz przestań tracić mój czas.}
 {126}{}{Och, dzięki.}

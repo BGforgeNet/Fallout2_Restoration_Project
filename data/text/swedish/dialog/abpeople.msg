@@ -13,7 +13,7 @@
 {112}{}{Vi får inte så många besökare här.}
 {113}{}{Välkommen!}
 {114}{}{Ja, jag vet. Det är ganska tråkigt här, men vi är i alla fall säkra från plundrare och sånt...}
-{115}{}{Hi, tribal.}
+{115}{}{Hej, stammedlem.}
 {116}{}{Det är verkligen en varm dag idag!}
 {117}{}{Bra jordbruksmark här...}
 {118}{}{Ha en trevlig dag.}

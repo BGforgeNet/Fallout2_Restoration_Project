@@ -38,7 +38,7 @@
 {137}{}{Non, j'ai besoin d'un peu de temps pour me préparer.}
 {138}{}{Très bien. Reviens quand tu auras décidé de relever ce défi.}
 {139}{}{Alors, tu as décidé de relever le défi, }
-{140}{}{ ?}
+{140}{}{?}
 {141}{}{Quand tu veux.}
 {142}{}{Pas encore.}
 {143}{}{Je crois que oui.}

@@ -298,12 +298,12 @@
 {5201}{}{, on va leur montrer à ces connards d'abrutis de l'Enclave comment ça se passe EN VILLE.}
 {5230}{}{.}
 {5240}{}{ ? Les Mordino sont fiers.}
-{5250}{}{ ?}
+{5250}{}{?}
 {5251}{}{ ! Qué pasa ?}
-{5253}{}{ ?}
+{5253}{}{?}
 {5254}{}{. T'étais où ?}
 {5255}{}{.}
-{5256}{}{ ?}
+{5256}{}{?}
 {5257}{}{. Tu viens avec nous ?}
 {5271}{}{. Laisse tomber, sinon...}
 {5273}{}{Tu nous fait chier, et on te transforme en pâtée pour chien. Barre-toi !}
@@ -314,7 +314,7 @@
 {5343}{}{.}
 {5344}{}{. Si les autres familles te voient arriver, ils se dégonflent illico.}
 {5346}{}{. Tu *crevais* ce type.}
-{5347}{}{ ?}
+{5347}{}{?}
 {5380}{}{ ? Allez, marche la tête haute.}
 {5401}{}{ ! Qué pasa ? Tu vas m'arranger le coup avec les frères, ou quoi ?}
 {5402}{}{, un tabac !}

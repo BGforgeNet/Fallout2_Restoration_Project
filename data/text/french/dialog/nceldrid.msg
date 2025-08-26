@@ -124,7 +124,7 @@
 {472}{}{Alors, laisse tomber. Je voulais autre chose.}
 {473}{}{Alors, non merci. A un de ces quatre.}
 {474}{}{Trop cher pour moi. On en reparlera quand j'aurai les moyens. }
-{480}{}{[Il sourit, se frotte les mains pendant que tu allonges les billets sur la table.] D'accord, voilà. Autre chose ?}
+{480}{}{[Il sourit, se frotte les mains pendant que tu allonges les billets sur la table.] D'accord, voilà. }
 {481}{}{[Il réfléchit un instant, t'observe, puis acquiesce.] D'accord. C'est du vol, mais je te le laisse à ce prix. Voilà. [Il te tend le module et tu prends l'argent.]}
 {482}{}{Rien d'autre ?}
 {485}{}{Ouais, je m'intéresse à autre chose.}

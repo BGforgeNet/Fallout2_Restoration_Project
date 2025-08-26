@@ -299,7 +299,7 @@
 {5225}{}{ vaut de l'or !}
 {5232}{}{ ! Mon chou ! Tétons d'or !}
 {5246}{}{. Belle journée, n'est-ce pas ?}
-{5252}{}{ ?}
+{5252}{}{?}
 {5256}{}{, si tu voulais tourner avec nous...}
 {5528}{}{ se casse de ce studio de merde !}
 {5535}{}{ J'AIME CA ! J'AIME CA ! Allez, on tourne }

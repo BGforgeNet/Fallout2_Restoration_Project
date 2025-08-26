@@ -171,7 +171,7 @@
 {462}{}{Butch Coolidge}
 {463}{}{Zatoulaná Kočka}
 {464}{}{Bad Mojo}
-{465}{}{Tank}
+{465}{made_man_name}{Tank}
 {466}{}{Mlátička}
 {467}{}{Mynx}
 {468}{}{Škorpion}

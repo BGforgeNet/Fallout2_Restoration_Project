@@ -20,7 +20,7 @@
 {231}{}{Zrób stimpaki.}
 {232}{}{Nie mam przy sobie tych składników.}
 {233}{}{Wróć do menu.}
-{240}{}{Świetny wybór! Żeby zrobić super stimpaki,  nakarm mnie proszę: jednym zwykłym stimpakiem, jednym owocem i Nuka-Colą! Mniam-mniam!}
+{240}{}{Świetny wybór! Żeby zrobić super stimpaki, nakarm mnie proszę: jednym zwykłym stimpakiem, jednym owocem i Nuka-Colą! Mniam-mniam!}
 {241}{}{Zrób Super stimpack.}
 {250}{}{Świetny wybór! Żeby zrobić Psycho, nakarm mnie proszę: jednym pudełkiem Mentatów, jednym Wygrzewem, jednym owocem i stimpakiem! Mniam-mniam!}
 {251}{}{Zrób Psycho}

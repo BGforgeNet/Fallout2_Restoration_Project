@@ -205,7 +205,7 @@
 {601}{}{ Możemy iść?}
 {700}{}{Kradzież bramin zakończyła się powodzeniem.}
 {702}{}{Nie! Powiem ci do czego to jest potrzebne. Przebierasz się za "Skorpionoluda" i straszysz biednego starego Torra, prawda?! To ma sens. Po prostu jesteście oprychami.}
-{703}{}{[Oczy Dantonów robią się okrągłe i obaj zaczynają się nerwowo kręcić.]  Yy..yyy...tak i co...co ci do tego dzikusie? Wszyscy od czasu do czasu potrzebują trochę dodatkowej gotówki. Jaki masz w tym interes? I co zamierzasz z tym teraz zrobić, co?}
+{703}{}{[Oczy Dantonów robią się okrągłe i obaj zaczynają się nerwowo kręcić.] Yy..yyy... tak i co... co ci do tego dzikusie? Wszyscy od czasu do czasu potrzebują trochę dodatkowej gotówki. Jaki masz w tym interes? I co zamierzasz z tym teraz zrobić, co?}
 {704}{}{Nie wydam was jeżeli przestaniecie kraść braminy i nie będziecie dręczyć Torra. Wystarczy mi wasze słowo bo jeżeli to się powtórzy nie zostanie żaden z was, żeby ukraść kolejną braminę. Zrozumiano?!}
 {705}{}{[Chłe, chłe, chłe] Ta, jasne dzikusie. Najwyższy czas, żebym nauczył cię co się robi z hałaśliwymi dzikusami.}
 {706}{}{Dobra Plemienny, tym razem przegraliśmy. Odpuścimy, a teraz zostaw nas w spokoju.}

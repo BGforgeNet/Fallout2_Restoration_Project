@@ -25,7 +25,7 @@
 {124}{}{Pas 'ssez argeent, Salut !}
 {125}{}{Très bien.}
 {126}{}{C'est pas donné. Que dirais-tu de }
-{127}{}{ ?}
+{127}{}{?}
 {128}{}{C'est pas grave. Pourquoi pas plutôt mon acolyte ?}
 {129}{}{C'est pas grave. Pourquoi pas plutôt mes amis ?}
 {130}{}{Quel est cet endroit ?}
@@ -61,7 +61,7 @@
 {160}{}{Evidemment, je garantis rien avec le vieux Doc de la pièce du fond...}
 {161}{}{Très bien.}
 {162}{}{C'est pas donné. Que dirais-tu de }
-{163}{}{ ?}
+{163}{}{?}
 {164}{}{Tant pis. Et pourquoi pas moi, à la place ?}
 {165}{}{Quel est cet endroit ?}
 {166}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}

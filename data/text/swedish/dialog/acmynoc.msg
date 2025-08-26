@@ -118,13 +118,13 @@
 {408}{}{I'm doing my best. When I find the GECK I'll return with it.}
 {409}{}{We are a simple people and have little to offer in trade. The few towns that we have
  contacted while you were away have shown no interest in helping us.}
-{410}{}{Me see.}
-{411}{}{I see.}
-{412}{}{You are our only hope, Chosen One. Please do not fail us!}
-{413}{}{It is good to see you, Chosen One. How fares your quest?}
-{414}{}{Me still look.}
-{415}{}{I'm still looking.}
-{416}{}{I don't want to talk about it.}
+{410}{}{Jag fatta.}
+{411}{}{Jag förstår.}
+{412}{}{Du är vårt enda hopp, Utvalde. Snälla, svik oss inte!}
+{413}{}{Det är trevligt att se dig, Utvalde. Hur går det med ditt uppdrag?}
+{414}{}{Jag fortfarande leta.}
+{415}{}{Jag letar fortfarande.}
+{416}{}{Jag vill inte prata om det.}
 {417}{}{You must hurry. Things are getting worse here at home. Soon there will be little food and
  the Elder speaks of rationing what we have. I fear for the future of Arroyo.}
 {418}{}{Chosen One! Please tell me that you have completed your quest. Our village is dying, and so

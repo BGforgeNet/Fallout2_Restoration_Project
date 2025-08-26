@@ -171,7 +171,7 @@
 {462}{}{Butch Coolidge}
 {463}{}{Alley Cat}
 {464}{}{Rossz Mojó}
-{465}{}{Tartály}
+{465}{made_man_name}{Tank}
 {466}{}{Zúzó}
 {467}{}{Mynx}
 {468}{}{Skorpió}

@@ -1048,7 +1048,7 @@
 {54200}{}{butelka gorzałki}
 {54201}{}{Świeża butelka, najlepszego trunku z Opactwa.}
 {54300}{}{pamiętnik}
-{54301}{}{Wygląda na pamiętnik młodej dziewczyny. Napis na wewnętrznej okładce mówi: "Własność Anny"  Większość stron jest podarta lub wyblakła, ale jedna jest ciągle czytelna. "Dzień 271: Dzisiaj moja mama dała mi złoty naszyjnik. Jest najpiękniejszą rzeczą jaką kiedykolwiek miałam. Nigdy się z nim nie rozstanę."}
+{54301}{}{Wygląda na pamiętnik młodej dziewczyny. Napis na wewnętrznej okładce mówi: "Własność Anny" Większość stron jest podarta lub wyblakła, ale jedna jest ciągle czytelna. "Dzień 271: Dzisiaj moja mama dała mi złoty naszyjnik. Jest najpiękniejszą rzeczą jaką kiedykolwiek miałam. Nigdy się z nim nie rozstanę."}
 {54400}{}{holodysk Botaniki}
 {54401}{}{Ten dysk informacyjny zawiera dane na temat różnych roślin rosnących przed Wielka Wojną.}
 {54500}{}{przeterminowany G.E.C.K.}
@@ -1112,9 +1112,9 @@
 {57400}{}{Miecz Świetlny}
 {57401}{}{Starożytna broń z bardziej cywilizowanych czasów. Nie tak nieporęczna i przypadkowa jak blaster. Został ci podarowany przez Obi-Wana-Killapa. Min SI: 2}
 {57500}{}{Blaster}
-{57501}{}{'Przesądne religie i starożytna broń są bez porównania do dobrego blastera u boku, dzieciaku'  Min SI: 3}
+{57501}{}{Przesądne religie i starożytna broń nie dorównują dobremu blasterowi u boku, dzieciaku. Min SI: 3}
 {57600}{}{Miecz Świetlny}
-{57601}{}{Starożytna broń z bardziej cywilizowanych czasów. Nie tak nieporęczna i przypadkowa jak blaster. Został ci podarowany przez Imperatorową Timeslip. Min SI: 2.}
+{57601}{}{Starożytna broń z bardziej cywilizowanych czasów. Nie tak nieporęczna i przypadkowa jak blaster. Został ci podarowany przez Cesarzową Timeslip. Min SI: 2.}
 {57700}{}{szyb wymiany powietrza}
 {57701}{}{Krata na tym szybie wygląda inaczej.}
 {57800}{}{metalowa szafka}

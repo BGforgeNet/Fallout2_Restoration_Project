@@ -40,7 +40,7 @@
 {302}{}{Nie mamy wiele czasu, Dziecko. Proszę, skończ swą misję jak najszybciej. Nie możemy długo czekać. Jeśli mogę ci jakoś pomóc w ocaleniu wioski, daj mi znać.}
 {303}{}{Dziecko, nasza wioska jest już niemal wymarła... jesteś naszą jedyną nadzieją. Czy mogę ci jakoś dopomóc w twojej misji?}
 {400}{}{Czy możesz mi cokolwiek powiedzieć o Kadze?}
-{401}{}{[Gapi się na ciebie, szeroko otwartymi oczyma, poczym powoli odchodzi  nerwowo się rozglądając.]}
+{401}{}{[Gapi się na ciebie, szeroko otwartymi oczyma, po czym powoli odchodzi nerwowo się rozglądając.]}
 {402}{}{Czyli, nie. Rozumiem.}
 {1000}{}{Starsza}
 {1001}{}{Założyciel}

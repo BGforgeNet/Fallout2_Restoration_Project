@@ -171,10 +171,10 @@
 {325}{}{Błąd. Wymagana Tabela Kodów Rozkazów. Proszę wprowadzić prawidłową tabelę.}
 {330}{}{[Dzięki tabeli kodów rozkazów znalezionej na okręcie podwodnym, uzyskujesz dostęp do zastrzeżonych plików na dyskach twardych Cesarza]}
 {331}{}{Kod rozkazu rozpoznany. Zabezpieczenia zniesione. Chińska Sieć Wywiadu zainicjalizowana...
-                                                                           ...                                   
-                                        ...                             
- UWAGA! Połączenie z centralnym serwerem CSW w Pekinie nie dostępne. Odzyskiwanie zarchiwizowanych danych.
- [Wygląda, że większość archiwów jest uszkodzona. Jednak, jednostce centralnej udaje się odzyskać kilka plików]}
+... 
+... 
+UWAGA! Połączenie z centralnym serwerem CSW w Pekinie niedostępne. Odzyskiwanie zarchiwizowanych danych.
+[Wygląda na to, że większość archiwów jest uszkodzona. Jednak jednostce centralnej udaje się odzyskać kilka plików.]}
 {332}{}{Raport wywiadu 2069-11-5}
 {333}{}{Raport wywiadu 2072-4-18}
 {334}{}{Raport wywiadu 2073-12-4}
@@ -213,11 +213,11 @@
 {401}{}{::wróć::}
 {410}{}{Od: Dowództwa Głównego                                          Wszystkie formacje na pozycjach. Przesyłam ostateczne kody zatwierdzające. Rozpocząć operację Youmíng.}
 {411}{}{::wróć::}
-{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
-                                                CIN Beijing...		offline
-                                                   SSC Naval Yard...	offline
-                                              SCA Eastern Dragon..	offline
-                                        Warning: No connection to external servers could be made.}
+{420}{}{Szukanie nadajników komunikacyjnych...                                    PLA CentCom... 		niedostępny
+                                                CIN Pekin... 		niedostępny
+                                                   SSC Port Marynarki... 	niedostępny
+                                              SCA Wschodni Smok... 	niedostępny
+                                        Uwaga: Nie można nawiązać połączenia z zewnętrznymi serwerami.}
 {421}{}{To dopiero rozczarowanie...}
 {430}{}{Skanowanie dysków lokalnych...}
 {431}{}{[KONTYNUUJ]}
@@ -242,12 +242,14 @@
  Obecnie dryfujemy w oceanie. Cesarz padł, nawigacja jest rozwalona i wygląda, że to będzie nasz grób.}
 {491}{}{Czytaj dalej.}
 {492}{}{::wróć::}
-{500}{}{2077-11-04: Dryfujemy już od kilku dni. Jingowi udało się częściowo przywrócić zasilanie systemów pokładowych, więc powinniśmy mieść dość tlenu żeby przetrwać kilka tygodni. Teraz bardziej martwię się o jedzenie i wodę - mamy mało zapasów i nie wystarczy ich dla wszystkich. Załoga robi się niespokojna.}
+{500}{}{2077-11-04: Dryfujemy już od kilku dni. Jingowi udało się częściowo przywrócić zasilanie systemów pokładowych, więc 
+powinniśmy mieść dość tlenu żeby przetrwać kilka tygodni. Teraz bardziej martwię się o jedzenie i wodę - mamy mało 
+zapasów i nie wystarczy ich dla wszystkich. Załoga robi się niespokojna.}
 {501}{}{Czytaj dalej.}
 {502}{}{::wróć::}
-{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
- mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
- I fear we will kill each other.}
+{510}{}{2077-11-08: Cesarz znowu działa, ale ledwie. Ciągle nie mamy nawigacji, a załoga jest na krawędzi buntu -
+musiałem powstrzymać dwóch marynarzy przed pobiciem Jinga. Sytuacja jest rozpaczliwa.
+Jeżeli nie wynurzymy się w ciągu kilku następnych dni, obawiam się, że się pozabijamy.}
 {511}{}{Czytaj dalej.}
 {512}{}{::wróć::}
 {520}{}{2077-11-12: Nareszcie! Wpłynęliśmy na bieliznę w zatoce San Francisco. Marynarze cieszyli się dopóki nie otworzyliśmy włazów. Miasto jest zniszczone, spustoszone przez burze ogniowe i radioaktywny opad. Wysłałem na brzeg grupy które mają znaleźć miejsce na obóz. Jak do tej pory, żadna nie zgłosiła takiej lokacji. }

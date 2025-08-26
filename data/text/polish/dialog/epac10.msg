@@ -12,7 +12,8 @@
 {224}{}{Słuchaj, chłopczyku. Nie uwolniłem twojego psychotycznego tyłka żeby móc odpowiadać na twoje głupie pytania i patrzeć jak się pogrążasz. Pozwalam ci żyć tylko tak długo żebyś mógł przekazać mi wszelkie przydatne informacje jakie możesz mieć. Więc zacznij mówić. Im więcej mi możesz powiedzieć, tym dłużej pożyjesz.}
 {230}{}{[Jego opanowanie znika, a oczy rozpala furia.] Wydaje ci się, że możesz straszyć MNIE? Czy ty masz w ogóle pojęcie z kim rozmawiasz? Tylko tu podejdź a pokażę ci do czego jestem zdolny!}
 {231}{}{[Ok.]}
-{240}{}{[Dex szczerzy się do ciebie, odsłaniając zestaw idealnych zębów produktu przedwojennej stomatologii dla ciebie wyglądają dziwnie w całej swojej perłowej symetrii.]  Doktorek, moim przyjacielem? [Uniósł brew.] Ty naprawdę nie wiesz kim jestem, co?}
+{240}{}{[Dex szczerzy się do ciebie, odsłaniając zestaw idealnych zębów - produkt przedwojennej stomatologii, które w całej swojej 
+perłowej symetrii wydają ci się dziwne.] Doktorek, moim przyjacielem? [Uniósł brew.] Ty naprawdę nie wiesz kim jestem, co?}
 {241}{}{Uch, nie zupełnie. Odbywałem pewien rodzaj wędrówki po tym dziwnym obiekcie, pomajstrowałem trochę przy tej rzeczy i tak się stało, że trafiłem na ciebie. W każdym razie dlaczego byłeś zamrożony?}
 {242}{}{Cóż, według komputera, jesteś Dex, narcystycznym, socjopatycznym, seryjnym mordercą z przed wielkiej ciszy. Odmroziłem cię tylko po to żeby cię ubić jak chorego psa , którym jesteś.}
 {243}{}{Uch, nie zupełnie. Na pewno jesteś całkowicie normalnym gościem, który został zamrożony z całkowicie naturalnych i słusznych powodów. Do cholery, w końcu co ja tam wiem? Ja się tylko włóczę po tym dziwnym miejscu, bawię się sprzętami i przy okazji cię rozmroziłem.}

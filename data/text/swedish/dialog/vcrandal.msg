@@ -44,7 +44,7 @@
 {143}{}{Well, never mind then.}
 {144}{}{You could go scan the Vault Central Computer, see if it has any coordinates for any other Vaults. I doubt it, but no harm in checking.}
 {145}{}{Well, if you had access to our Vault Central Computer, you might be able to find some mention of some other Vaults. But only Citizens are allowed in the Vault.}
-{146}{}{Tanks}
+{146}{low_iq_thank_you}{Tak.}
 {147}{}{Mind if I ask you something else?}
 {148}{}{Thanks for the information.}
 {149}{}{Hey there, welcome back. Anything I can do for you?}

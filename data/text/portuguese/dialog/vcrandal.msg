@@ -44,7 +44,7 @@
 {143}{}{Bem, não importa então.}
 {144}{}{Você pode escanear o computador central da Vault, ver se ele tem alguma coordenada para qualquer outra Vault. Duvido, mas não custa nada verificar.}
 {145}{}{Bem, se você tivesse acesso ao nosso computador central da Vault, talvez encontrasse alguma menção a outras Vaults. Mas apenas cidadãos são permitidos na Vault.}
-{146}{}{Tanques}
+{146}{low_iq_thank_you}{Tanks}
 {147}{}{Se importa se eu te perguntar outra coisa?}
 {148}{}{Obrigado pela informação.}
 {149}{}{Olá, bem-vindo de volta. Algo que eu possa fazer por você?}

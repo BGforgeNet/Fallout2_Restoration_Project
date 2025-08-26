@@ -9,7 +9,7 @@
 {205}{}{I'm bushed.}
 {206}{}{Doh!}
 {207}{}{Hey, what are you doing here?}
-{220}{}{Stay away from Metzger, tribal.}
+{220}{}{Håll dig borta från Metzger, stammedlem.}
 {221}{}{Why is it always so damn hot?}
 {222}{}{Why do we live in the desert?}
 {223}{}{I'm a good cook.}

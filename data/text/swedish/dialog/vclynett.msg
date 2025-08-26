@@ -626,8 +626,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {644}{}{I had some other questions...}
 {645}{}{Great, thanks. Goodbye.}
 {646}{}{Thank you, First Citizen.}
-{647}{lyn104}{They started several months ago. The laser turrets have been able to hold them off, but I
- don't know how much longer we can stop them.}
+{647}{lyn104}{De började för flera månader sedan. Lasertornen har hållt dem borta, men jag
+ vet inte hur mycket längre vi kan stoppa dem.}
 {648}{}{Who are these raiders?}
 {649}{}{I had some other questions...}
 {650}{}{I have to be going. Goodbye.}

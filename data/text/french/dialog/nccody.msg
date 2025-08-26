@@ -90,7 +90,7 @@
 {395}{}{Petite merde ! Je te tuerai ! Je te tuerai --}
 {1204}{}{ triste. Toi avoir vu voiture de }
 {1205}{}{ Gné voiture maintenant ? St'eu plaît ?}
-{1254}{}{ ?}
+{1254}{}{?}
 {1282}{}{ ! Où ? Où ? Montre-moi ! Montre-moi ! Ste plaîîît ? Tu veux bien ? Hein ?}
 {1283}{}{... Oh regarde ! Un truc brillant ! [Tu t'enfuis.]}
 {1293}{}{ et le poing de }

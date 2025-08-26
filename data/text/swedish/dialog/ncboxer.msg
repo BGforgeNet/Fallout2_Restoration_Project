@@ -26,7 +26,7 @@
 {203}{}{::Boxaren tittar på dig med skrämda ögon::}
 {204}{}{Jaherrn?}
 {205}{}{Kam ja låna nåra tänner?}
-{206}{}{You need spotter?}
+{206}{}{Du behöva utkik?}
 {207}{}{Aha.}
 {208}{}{::Nickar dumt åt allt du säger::}
 {209}{}{Du stor peshon. Jag liten.}

@@ -1,2 +1,2 @@
-{100}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}
-{101}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}
+{100}{}{Korzystasz z RPU w wersji 2.x.x, opartego na Fallout 2 Restoration Project autorstwa killapa. Dziękujemy za instalację!}
+{101}{}{Korzystasz z RPU w wersji 2.x.x, opartego na Fallout 2 Restoration Project autorstwa killapa. Dziękujemy za instalację!}

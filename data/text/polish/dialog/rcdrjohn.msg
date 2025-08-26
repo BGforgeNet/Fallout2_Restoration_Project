@@ -89,7 +89,7 @@
 {188}{}{Co tym razem może dla ciebie zrobić stary doktor Johnson?}
 {189}{}{Cześć, doktorze. Chcę cię tylko o coś spytać.}
 {190}{}{Może masz jakieś medykamenty, które mógłbyś przehandlować?}
-{191}{}{doktorze, podobno istnieją jakieś specjalne implanty ochronne. Czy wiesz coś o tym?}
+{191}{}{Doktorze, podobno istnieją jakieś specjalne implanty ochronne. Czy wiesz coś o tym?}
 {192}{}{Tylko się rozglądam, doktorze. Miło mi ciebie widzieć. Na razie.}
 {193}{}{Dzięki tobie likwiduję powoli problem Jetu. Twoje antidotum, które dodałem do zapasów Jetu, doskonale przywraca tych odlotowców do normalności.}
 {194}{}{Cieszę się, że działa. Pozwól, że cię o coś spytam.}

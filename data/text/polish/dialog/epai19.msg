@@ -4,5 +4,5 @@
 {103}{}{Usterka w tej maszynę została usunięta.}
 {104}{}{Ta maszyna jest już naprawiona.}
 {105}{}{Naprawa tej maszyny wydaje się zbyt skomplikowana.}
-{106}{}{Czego ja  tu szukam?}
+{106}{}{Czego ja tu szukam?}
 {107}{}{Nawet przy użyciu narzędzi nie jesteś w stanie tego naprawić, brakuje ci umiejętności.}

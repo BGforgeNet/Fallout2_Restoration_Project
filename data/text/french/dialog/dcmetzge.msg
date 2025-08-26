@@ -234,10 +234,10 @@
 {915}{}{Bien reçu. Je voudrais te demander autre chose.}
 {916}{}{Merci. Je vais y aller. A plus.}
 {1360}{}{ pour elle. Combien ?}
-{1361}{}{ ?}
+{1361}{}{?}
 {1363}{}{.}
 {1364}{}{.}
-{1365}{}{ ?}
+{1365}{}{?}
 {1496}{}{.}
 {1540}{}{. Joli boulot, putain ! }
 {1541}{}{. Tu les as bien éclatés. Félicitations. Continue comme ça.}

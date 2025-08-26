@@ -71,11 +71,10 @@
 {145}{}{Wyjdź.}
 {146}{}{Zamykanie Programu Diagnostycznego.}
 {147}{}{[KONTYNUUJ]}
-{300}{}{                                       
- Tożsamość Potwierdzona: }
+{300}{}{ Tożsamość Potwierdzona: }
 {301}{}{
             Ostatnie Wejście: }
-{303}{}{Kapral Dixon    }
+{303}{}{Kapral Dixon }
 {304}{}{Generał Clifton}
 {305}{}{5 sierpnia 2077}
 {306}{}{ dni temu.}

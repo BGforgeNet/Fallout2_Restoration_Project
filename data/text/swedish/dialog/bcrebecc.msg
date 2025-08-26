@@ -65,7 +65,7 @@
  ancestral home, and they want it back.}
 {153}{}{Okej.}
 {154}{}{What here they want?}
-{155}{}{I see.}
+{155}{}{Jag förstår.}
 {156}{}{What is here that they want so badly?}
 {157}{}{Well... there is a vault here; I think it's number 15. They want to loot it for any of the old
  technology that may still be there.}
@@ -91,7 +91,7 @@
  anything to say, he says it through Zeke. I've only met him once, and he seemed like a nice guy.}
 {172}{}{Okej.}
 {173}{}{Nice guys finish last. I wonder what he's up to?}
-{174}{}{I see.}
+{174}{}{Jag förstår.}
 {175}{}{That's okay. You are very helpful.}
 {176}{}{I have nothing to give you other than my undying gratitude.}
 {177}{}{That's more than enough. I'll help you.}

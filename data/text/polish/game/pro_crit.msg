@@ -504,7 +504,7 @@
 {48401}{}{Duch Nessy}
 {48500}{}{Szaman}
 {48501}{}{Szaman Plemienia}
-{48600}{}{Wojownik 	   }
+{48600}{}{Wojownik }
 {48601}{}{wojownik Plemienia}
 {48700}{}{Strażnik}
 {48800}{}{siostra Sulika}
@@ -562,7 +562,7 @@
 {52900}{}{Chris3ParksO}
 {53000}{}{Yosan12}
 {53100}{}{Obi-Wan-Killap}
-{53200}{}{Emperor Timeslip}
+{53200}{}{Cesarzowa Timeslip}
 {53300}{}{Luke Skynet}
 {53400}{}{Mon-Morticia}
 {53500}{}{Kanhef}

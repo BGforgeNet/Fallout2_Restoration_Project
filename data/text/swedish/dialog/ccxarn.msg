@@ -11,8 +11,8 @@
 {109}{}{Vänta. Jag ändrat mig. Varför är du här?}
 {110}{}{Jag är redo. Nu kör vi.}
 {111}{}{Vänta lite nu. Varför är du här?}
-{112}{}{I find it hard to believe that an Enclave soldier is here to rescue me.
- More likely, you are here to build up my hopes so that you can dash them to pieces.}
+{112}{}{Jag har svårt att tro att en Enklav-soldat är här för att rädda mig.
+ Mer troligt är att du är här för att bygga upp mina förhoppningar så att du kan krossa dem.}
 {113}{}{Nej. Jag här rädda dig. Verkligen.}
 {114}{}{Jag är verkligen här för att rädda dig!}
 {115}{}{Du är mitt sista hopp, så jag litar på dig. Dörren
@@ -95,9 +95,9 @@
 {169}{}{Jag vill inte hjälpa dig.}
 {170}{}{Hello again. Have you found the key to the door?}
 {171}{}{Yes, me open for you.}
-{172}{}{Me still look.}
+{172}{}{Jag fortfarande leta.}
 {173}{}{Yeah, I've got it. I'll open the door for you.}
-{174}{}{I'm still looking.}
+{174}{}{Jag letar fortfarande.}
 {175}{}{Thank you. I will not forget this.}
 {176}{}{You welcome.}
 {177}{}{You are welcome.}

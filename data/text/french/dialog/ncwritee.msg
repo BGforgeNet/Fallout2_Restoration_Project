@@ -137,7 +137,7 @@
 {1204}{}{ ! Quelle belle façon de botter le cul de l'Enclave... Euh, les fesses !}
 {1205}{}{. Ca a dû demander un sacré courage.}
 {1240}{}{. Qu'est-ce que tu fabriquais ?}
-{1241}{}{ ?}
+{1241}{}{?}
 {1242}{}{. Comment vont les affaires ?}
 {1245}{}{ ! Et il est armé ! Préviens les autres !}
 {1250}{}{ ! Et elle est armée ! Préviens les autres !}

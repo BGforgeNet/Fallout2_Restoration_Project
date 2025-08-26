@@ -6,7 +6,10 @@
 {105}{}{W takim razie pójdę tam sam!}
 {106}{}{Poczekaj... w czym właściwie mam ci pomóc?}
 {107}{}{Radź sobie sam.}
-{108}{}{Smoke uciekł na tereny łowieckie i nie wrócił do tej pory. Morlis nie pozwoli mi tam po niego pójść. Mówi, że to zbyt niebezpieczne, a to jest tylko pies. Nie mogę go tam zostawić. Ale teraz ty tu jesteś i możesz mi pomóc, prawda?}
+{108}{}{Smoke uciekł na tereny łowieckie i nie wrócił, a teraz Morlis nie pozwala mi po 
+niego pójść. Mówi, że to zbyt niebezpieczne i że to przecież tylko pies, ale i tak 
+miałem zamiar tam iść. Ale teraz jesteś tutaj i ty możesz to zrobić, i wtedy ja nie 
+będę mieć kłopotów.}
 {109}{}{Jasne, tylko gdzie są te tereny łowieckie?}
 {110}{}{Jasne. Zaraz go znajdę.}
 {111}{}{Zapomnij. Nie mam na to czasu.}

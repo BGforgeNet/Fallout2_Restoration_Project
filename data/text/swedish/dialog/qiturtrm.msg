@@ -63,42 +63,42 @@
 {163}{}{Select: Security Status?}
 {164}{}{Security Status}
 {165}{}{End Access.}
-{166}{}{Download failed - Security Status file missing.}
+{166}{}{Nedladdning misslyckades - Säkerhetsstatus-fil saknas.}
 {167}{}{State of the Nation: Current Status}
 {168}{}{Download Word List.}
-{169}{}{Security/Level: Current Status.}
+{169}{}{Säkerhet/Nivå: Nuvarande status.}
 {170}{}{Download Chemical Corps: Project Status Report.}
 {171}{}{Download A. E. C.: Atomic Power plant Operations.}
 {172}{}{Return to User ID:}
-{173}{}{Download complete.}
+{173}{}{Nedladdning klar.}
 {174}{}{Download Word List.}
-{175}{}{Security/Level: Current Status.}
+{175}{}{Säkerhet/Nivå: Nuvarande status.}
 {176}{}{Download Chemical Corps: Project Status Report}
 {177}{}{Download A. E. C.: Atomic Power plant Operations}
 {178}{}{Security Status.}
 {179}{}{Return to User ID:}
-{180}{}{Download complete.}
+{180}{}{Nedladdning klar.}
 {181}{}{State of the Nation: Current Status}
-{182}{}{Security/Level: Current Status.}
+{182}{}{Säkerhet/Nivå: Nuvarande status.}
 {183}{}{Download Chemical Corps: Project Status Report}
 {184}{}{Download A. E. C.: Atomic Power plant Operations}
 {185}{}{Security Status.}
 {186}{}{Return to User ID:}
-{187}{}{Guard Barracks Level: Security turrets currently at Armed Alert status.}
-{188}{}{Guard Barracks Level: Security turrets currently at Normal status.}
-{189}{}{Guard Barracks Level: Security turrets currently at Deactivated Maintenance status.}
-{190}{}{Test Subject Holding Level: Security turrets currently at Armed Alert status.}
-{191}{}{Test Subject Holding Level: Security turrets currently at Normal status.}
-{192}{}{Test Subject Holding Level: Security turrets currently at Deactivated Maintenance status.}
-{193}{}{Research and Development Project Area: Security turrets currently at Armed Alert status.}
-{194}{}{Research and Development Project Area: Security turrets currently at Normal status.}
-{195}{}{Research and Development Project Area: Security turrets currently at Deactivated Maintenance status.}
-{196}{}{Executive Office Area: Security turrets currently at Armed Alert status.}
-{197}{}{Executive Office Area: Security turrets currently at Normal status.}
-{198}{}{Executive Office Area: Security turrets currently at Deactivated Maintenance status.}
-{199}{}{Information and Power plant Level: Security turrets currently at Armed Alert status.}
-{200}{}{Information and Power plant Level: Security turrets currently at Normal status.}
-{201}{}{Information and Power plant Level: Security turrets currently at Deactivated Maintenance status.}
+{187}{}{Vaktbarack-Nivå: Säkerhetstorn som för närvarande har Väpnad Varning-status.}
+{188}{}{Vaktbarack-Nivå: Säkerhetstorn som för närvarande har Normal-status.}
+{189}{}{Vaktbarack-Nivå: Säkerhetstorn som för närvarande har Avaktiverat Underhåll-status.}
+{190}{}{Förvaring av Testobjekt-Nivå: Säkerhetstorn som för närvarande har Väpnad Varning-status.}
+{191}{}{Förvaring av Testobjekt-Nivå: Säkerhetstorn som för närvarande har Normal-status.}
+{192}{}{Förvaring av Testobjekt-Nivå: Säkerhetstorn som för närvarande har Avaktiverat Underhåll-status.}
+{193}{}{Forsknings- och Utvecklingsprojektområde: Säkerhetstorn som för närvarande har Väpnad Varning-status.}
+{194}{}{Forsknings- och Utvecklingsprojektområde: Säkerhetstorn som för närvarande har Normal-status.}
+{195}{}{Forsknings- och Utvecklingsprojektområde: Säkerhetstorn som för närvarande har Avaktiverat Underhåll-status.}
+{196}{}{Chefskontor-Område: Säkerhetstorn som för närvarande har Väpnad Varning-status.}
+{197}{}{Chefskontor-Område: Säkerhetstorn som för närvarande har Normal-status.}
+{198}{}{Chefskontor-Område: Säkerhetstorn som för närvarande har Avaktiverat Underhåll-status.}
+{199}{}{Informations- och Kraftverksnivå: Säkerhetstorn som för närvarande har Väpnad Varning-status.}
+{200}{}{Informations- och Kraftverksnivå: Säkerhetstorn som för närvarande har Normal-status.}
+{201}{}{Informations- och Kraftverksnivå: Säkerhetstorn som för närvarande har Avaktiverat Underhåll-status.}
 {202}{}{Adjust security level.}
 {203}{}{State of the Nation: Current status}
 {204}{}{Download Word List.}
@@ -106,14 +106,14 @@
 {206}{}{Download A. E. C.: Atomic Power plant Operations.}
 {207}{}{Security status.}
 {208}{}{Return to User ID:}
-{209}{}{Download complete.}
+{209}{}{Nedladdning klar.}
 {210}{}{Download State of the Nation: Current status.}
 {211}{}{Download Word List.}
 {212}{}{Security/Level: Current Status}
 {213}{}{Download A. E. C.: Atomic Power plant Operations.}
 {215}{}{Security Status.}
 {216}{}{Return to User ID:}
-{217}{}{Download complete.}
+{217}{}{Nedladdning klar.}
 {218}{}{Download State of the Nation: Current status.}
 {219}{}{Download Word List.}
 {220}{}{Security/Level: Current status}

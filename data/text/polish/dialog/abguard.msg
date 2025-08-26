@@ -1,5 +1,6 @@
 {100}{}{Widzisz Twardego Strażnika.}
-{101}{}{Widzisz imponująco umięśnionego, starszego strażnika z mocną opaloną skórą. Musi być w sile wieku. Jego przenikliwy wzrok wydaje się podążać za tobą wszędzie.}
+{101}{}{Widzisz imponująco umięśnionego, starszego strażnika z mocno opaloną skórą. Musi być w sile wieku. Jego przenikliwy 
+wzrok wydaje się podążać za tobą wszędzie.}
 {200}{}{Witaj podróżniku. Zapraszamy do Opactwa. Trzymając swój nos z dala od kłopotów, unikniemy nieprzyjemności.}
 {201}{}{Obserwuję cię, łowco niewolników. Jeden fałszywy ruch i splugawimy nasz cmentarz twoim nieczystym ciałem na resztę wieczności. Nie chciałbym tego i jestem prawie pewien, że ty również nie będziesz zadowolony z tego faktu, więc zachowaj wszelkie zabawne pomysły w tym swoim wypaczonym umyśle.}
 {202}{}{Kim jesteś?}
@@ -14,7 +15,8 @@
 {303}{}{Ładny układ. Pozwól mi zapytać o coś innego.}
 {304}{}{Wszystko jedno, do widzenia.}
 {305}{}{Myślisz, że możesz trzymać mnie na dystans? Spróbuj staruszku. Przyda mi się jakaś rozrywka.}
-{400}{}{Tutaj możesz znaleźć Bill'a, naszego handlarza, urzęduje on w budynku naprzeciw tego, w którym jesteś. Poza tym, powinieneś udać się do "Survival Gear Locker" Percy'ego  na śmietnisku w Gecko albo do "Szczęśliwego Harry'ego" na podmurzu Kryptopolis.}
+{400}{}{Tutaj możesz znaleźć Bill'a, naszego handlarza, urzęduje on w budynku naprzeciw tego, w którym jesteś. Poza tym, powinieneś 
+udać się do "Survival Gear Locker" Percy'ego na śmietnisku w Gecko albo do "Szczęśliwego Harry'ego" na dziedzińcu Kryptopolis.}
 {401}{}{Dobrze wiedzieć. Mam jeszcze jedno pytanie.}
 {402}{}{Dziękuję. Do zobaczenia.}
 {500}{}{Jeśli ktoś jest biedny lub chciwy wystarczy, żę spróbuje rozkopać groby, to ich sprawa. To nie jest tak, że martwi mogą korzystać z tego co inni pochowali z nimi. Nie mój problem... Nie mam przez to problemów ze snem.}

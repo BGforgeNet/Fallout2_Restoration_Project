@@ -2537,12 +2537,12 @@
 {162700}{}{Mine Cart with Dynamite}
 {162800}{}{Destroyed Mine Cart}
 {162900}{}{Mine Cart}
-{163000}{}{Pool Table}
-{163100}{}{Pool Table}
-{163200}{}{Pool Table}
-{163300}{}{Pool Table}
-{163400}{}{Pool Table}
-{163500}{}{Pool Table}
+{163000}{}{Biljardbord}
+{163100}{}{Biljardbord}
+{163200}{}{Biljardbord}
+{163300}{}{Biljardbord}
+{163400}{}{Biljardbord}
+{163500}{}{Biljardbord}
 {163600}{}{Desk}
 {163700}{}{Flag}
 {163800}{}{Wall}

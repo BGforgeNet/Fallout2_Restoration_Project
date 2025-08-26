@@ -67,7 +67,7 @@
 {631}{}{Oui, j'ai là tout ce qu'il faut.}
 {632}{}{Je continue à chercher. Salut.}
 {640}{}{Excellent. Ceci devrait exactement faire l'affaire. Voici un peu de poudre de guérison pour toi.}
-{641}{}{Salut.}
+{641}{}{Merci. Au revoir.}
 {1000}{}{Tu as délivré le shaman de ses ennuis.}
 {2000}{}{Tu as apporté les herbes au shaman.}
 {3000}{}{J'ai toujours su que tu étais un grand héros... les esprits me l'ont soufflé.}

@@ -148,9 +148,9 @@
 {216}{}{Vad menar du?}
 {217}{}{I'm helping her to start a new life.}
 {218}{}{Yeah, whatever. Let's talk about something else.}
-{219}{}{What I mean is that Fannie's got a problem and money isn't the answer for it. I hate to break
- your heart, but Fannie's just playing you for a sucker. She just wants money so that she can buy Jet.
- Too damn much Jet.}
+{219}{}{Vad jag menar är att Fannie har ett problem och att pengar inte är lösningen. Jag hatar att krossa
+ ditt hjärta, men Fannie har lurat dig. Hon vill bara ha pengar så att hon kan köpa Jet.
+ För jävla mycket Jet.}
 {220}{}{Jag tror att du bara är orolig för att du kommer att förlora en av dina bästa inkomsttagare. Du vill bara
  hålla dina flickor nere.}
 {221}{}{Ja, visst. Jag har hört tillräckligt. Hej då.}

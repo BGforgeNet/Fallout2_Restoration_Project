@@ -28,7 +28,7 @@
 {270}{}{Wróciłeś! Dowiedziałeś się czegokolwiek interesującego?}
 {271}{}{Pracuję nad tym. Odezwę się.}
 {272}{}{Rozmawiałem z nią, rozmawiałem z duchem. Wydaje się, że została zdradzona i zamordowana przez swojego kochanka, niejakiego Thorg'a.}
-{280}{}{Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
+{280}{}{Thorg?! Był szamanem, u którego się uczyłem. Wow, wiedziałem, że bywał dupkiem, ale nie wziąłbym go za zabójcę ładnych, młodych dziewcząt. Hmm... chyba wyrzuty sumienia tłumaczą tamtą pijacką, nocną kąpiel, która zakończyła jego żywot. A więc Thorg to morderca... Kto by pomyślał...}
 {281}{}{Więc co teraz?}
 {290}{}{[Ciężko wzdycha] Teraz chyba muszę ją wysłać do mgły. Myślę, że będę w stanie to zrobić, ale musisz pójść ze mną. To jedyny sposób na to, bym mógł się do niej zbliżyć tak by nikt inny w wiosce się nie dowiedział - uważają, że to zły omen dla nowego szamana spotkać zagubioną duszę.}
 {291}{}{Niee. I tak już zrobiłem więcej niż trzeba. Resztę zostawiam tobie.}

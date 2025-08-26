@@ -11,7 +11,7 @@
 {110}{}{Nic nic.}
 {111}{}{Jestem Kapitanem. Dowodzę tym statkiem. Inne pytania możesz iść zadać któremuś z Shi, Borsukowi lub komuś innemu. Ja nie mam dla ciebie czasu.}
 {112}{}{[dalej]}
-{113}{}{Tan statek to tankowiec Posejdona. Wyposażony jest w technikę, która przetrwała wojnę. Posiada KD, która pozwala na dostęp do pokoju nawigacji komputerowej, i transponder IFF, który broni go przed działami Posejdona.}
+{113}{}{Ten statek to tankowiec Posejdona. Wyposażony jest w technikę, która przetrwała wojnę. Posiada KD, która pozwala na dostęp do pokoju nawigacji komputerowej, i transponder IFF, który broni go przed działami Posejdona.}
 {114}{}{Skąd ty to wszystko wiesz?}
 {115}{}{Co to jest transponder IFF?}
 {116}{}{Jak go wprawić w ruch?}

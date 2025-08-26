@@ -42,7 +42,7 @@
  anyone here against their will, as far as I know.}
 {141}{}{Eh, okej.}
 {142}{}{Got it. Me go.}
-{143}{}{I see.}
+{143}{}{Jag förstår.}
 {144}{}{I think you're lying, bitch.}
 {145}{}{I see. If you don't mind, I need to ask you about a few more things.}
 {146}{}{Yes. They provide me with food, water, shelter, and protection. I feel very safe here, and

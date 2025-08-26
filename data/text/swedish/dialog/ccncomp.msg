@@ -14,7 +14,7 @@
 {113}{}{Where base commander?}
 {114}{}{Me guess that all.}
 {115}{}{Where are the vertibird plans located?}
-{116}{}{Where is the Enclave main base located?}
+{116}{}{Var ligger Enklavens huvudbas?}
 {117}{}{Where is the armory located?}
 {118}{}{Where is the base commander's office located?}
 {119}{}{I guess that's all.}

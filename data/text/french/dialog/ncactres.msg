@@ -169,10 +169,10 @@
 {437}{}{Je regrette, non. Je ne peux pas être lesbos pour moins de 200 jetons. Pour toi, 300.}
 {438}{}{Je danse dans les casinos le jeudi. Viens me voir et apporte-moi des jetons.}
 {439}{}{Petite, tu n'as pas idée du stress qu'est ma vie.}
-{1230}{}{ ?}
+{1230}{}{?}
 {1231}{}{.}
-{1250}{}{ ?}
-{1265}{}{ ?}
-{1305}{}{ ?}
-{1350}{}{ ?}
+{1250}{}{?}
+{1265}{}{?}
+{1305}{}{?}
+{1350}{}{?}
 {1367}{}{, n'est-ce pas ?}

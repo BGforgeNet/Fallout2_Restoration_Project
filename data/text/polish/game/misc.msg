@@ -14,7 +14,7 @@
 {13}{}{TWÓRCY}
 {14}{}{WYJŚCIE}
 {15}{}{Punkty akcji}
-{16}{}{Punkty wytrzym.}
+{16}{}{PW}
 {17}{}{Detektor ruchu nie został zainstalowany.}
 {18}{}{Detektor ruchu jest rozładowany.}
 {20}{}{Copyright(c) 1998 Interplay Productions.  All rights reserved.}

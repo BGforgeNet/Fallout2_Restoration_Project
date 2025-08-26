@@ -1,7 +1,7 @@
 {100}{}{Du ser en lång man med ansiktstatueringar och ett stort ben genom näsan.}
 {101}{}{Du ser Sulik.}
-{102}{}{You see a tall, muscular, Tribal. He has a bone through his nose, facial tattooing, and a
- confident, composed demeanor.}
+{102}{}{Du ser en lång, muskulös Stammedlem. Han har ett ben genom näsan, ansiktstatueringar och ett
+ självsäkert och lugnt uppträdande.}
 {103}{}{.}
 {104}{slk1}{Hej, koppis. Vårt namn Sulik. Vad du behöva...}
 {105}{}{Eh?}

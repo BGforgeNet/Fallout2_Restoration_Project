@@ -49,7 +49,7 @@
 {148}{}{Mais tu n'es pas originaire de la Cité de l'Abri, je me trompe ? Je suis sûr que je me souviendrais de quelqu'un comme toi. D'où es-tu ?}
 {149}{}{Attends un peu... T'es un étranger, n'est-ce pas ? D'où viens-tu ?}
 {150}{}{D'un petit village, à l'Ouest, appelé Arroyo.}
-{151}{}{Qu'est-ce que ça peut faire ?}
+{151}{}{Pourquoi veux-tu le savoir ?}
 {152}{}{Ca te regarde pas, *docteur*. Je peux y aller, maintenant, ou tu as encore des questions ?}
 {153}{}{J'aime pas parler de mon passé.}
 {154}{}{Arroyo ? Je crois pas en avoir déjà entendu parler. Désolé d'avoir l'air de fouiner, mais je cherchais juste quelqu'un qui aurait franchi les murs de la Cité... La plupart des citoyens n'ont jamais quitté la Cité.}

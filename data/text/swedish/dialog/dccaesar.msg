@@ -48,7 +48,7 @@
 {197}{}{That was my great grandfather's name. He came from somewhere far to
  the east. Across a large body of water.}
 {198}{}{I read some book about a Metzger. He was a president, or something.}
-{199}{}{Look who's talking tribal.}
+{199}{}{Titta vem som pratar stammedlem.}
 {200}{}{It's Germen, German, Garmen, or something. Ancient language, from a
  long time ago.}
 {201}{}{Et tu, Brutus?}
@@ -122,7 +122,7 @@
 {266}{}{Här får du dina pengar.}
 {267}{}{Har inte så mycket än. Hej då.}
 {268}{}{Vår radio är trasig och han är ansvarig för att laga den.}
-{269}{}{I see.}
+{269}{}{Jag förstår.}
 {270}{}{Du har inte pengarna!}
 {271}{}{Synd för mig. Får jag fråga dig en sak?}
 {272}{}{Ledsen, jag kommer tillbaka.}

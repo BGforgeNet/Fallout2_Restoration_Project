@@ -23,7 +23,7 @@
 {121}{}{Uh... sure.}
 {122}{}{You talk funny. Me leave.}
 {123}{}{I'll be leaving now, Valdis.}
-{124}{}{I see.}
+{124}{}{Jag förstår.}
 {125}{}{Well, you certainly seem to know your job well.}
 {126}{}{Do you have the brains to decide who is or is not 'authorized?'}
 {127}{}{Why yes, I do. I also have enough brains to decide who is or is not an asshole -- and I have

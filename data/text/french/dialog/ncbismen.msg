@@ -179,7 +179,7 @@
 {492}{}{Si cette Goule n'est pas dehors dans une minute, elle peut faire sa prière. }
 {1200}{}{ ! C'est comme ça qu'on donne une leçon à l'Enclave !}
 {1210}{}{.}
-{1215}{}{ ?}
+{1215}{}{?}
 {1216}{}{... pourquoi ce mystère ?}
 {1220}{}{, quoi de neuf ?}
 {1221}{}{, que racontes-tu de beau ?}

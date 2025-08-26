@@ -36,11 +36,11 @@
 {202}{}{Co to za śmieszny kolorowy płyn, który można znaleźć wszędzie w AOŚ?}
 {203}{}{Skąd masz cały ten sprzęt?}
 {210}{}{W tych pierwszy klatkach pod tamtą ścianą są wieśniacy, którzy trafili tu przypadkiem, złapałem ich do późniejszych eksperymentów. Ci silniejsi to moi wojownicy na wypadek gdybym potrzebował... ochrony.}
-{211}{}{...późniejszych eksperymentów?  Co masz na myśli?}
+{211}{}{...późniejszych eksperymentów? Co masz na myśli?}
 {212}{}{Dzięki. Mogę ci zadać następne pytanie?}
 {213}{}{Jasne. Dzięki. Muszę już iść.}
 {220}{}{Różne chemikalia i zbiorniki z FEV. Wszystko to zostało zamknięte w wielkich beczkach i magazynowane tu w AOŚ. Niestety, zdarzył się mały wypadek, wyciek chemikaliów zmusił wszystkich do opuszczenia tego miejsca, wszystkich oprócz Hologramów. Część tych środków chemicznych przedostała się do niższych poziomów. Używam ich jako materiału do eksperymentów. Jak do tej pory, udało mi się uzyskać pewne obiecujące rezultaty!}
-{221}{}{Jakie rezultaty?  Masz na myśli te stwory?}
+{221}{}{Jakie rezultaty? Masz na myśli te stwory?}
 {222}{}{A skąd bierzesz potrzebny sprzęt?}
 {230}{}{Głównie stąd. AOŚ zostało wyposażone w pełny zakres potrzebnych urządzeń, a skoro większość naukowców opuściła to miejsce, spora część tego sprzętu nie została nigdy użyta. Jednak po tych wszystkich latach niektóre rzeczy zaczynają się kończyć...}
 {231}{}{Nieważne. Muszę już iść.}
@@ -51,7 +51,7 @@
 {250}{}{Tak, stworzyłem wiele potworów odkąd jestem w AOŚ. Jeżeli jesteś typem odkrywcy to na pewno zdarzyło ci się już na nie trafić. Centaury?  Wisielce? "Obcy"? Włóczą się po pustkowiach. Tutaj zatrzymałem tylko kilka okazów na później.}
 {251}{}{Chwileczkę. Mówisz że te wszystkie potwory, które buszują na pustkowiach, które mordują niewinnych ludzi są twoim dziełem?!}
 {252}{}{O cholera, zapamiętać: nie denerwować Doktora. Do widzenia.}
-{260}{}{'Co masz na myśli?'  Oczywiście FEV - wirusa wymuszonej ewolucji! Dopiero zaczynam eksperymenty z ludźmi. Wszyscy słyszeliśmy historie o Mistrzu. I pomyślałem, żeby zrobić coś podobnego. Własna armia na pewno, by mi się przydała!}
+{260}{}{'Co masz na myśli?' Oczywiście FEV - wirusa wymuszonej ewolucji! Dopiero zaczynam eksperymenty z ludźmi. Wszyscy słyszeliśmy historie o Mistrzu. I pomyślałem, żeby zrobić coś podobnego. Własna armia na pewno, by mi się przydała!}
 {261}{}{Nie sądzisz, że to ździebko niemoralne? Jak w ogóle mogło ci to przyjść do głowy?}
 {262}{}{Dopiero zaczynasz z ludźmi? To co robiłeś do tej pory?}
 {263}{}{Cóż, powodzenia. Muszę już iść.}
@@ -60,12 +60,12 @@
 {272}{}{Co to za dziwne fosforyzujące substancje?}
 {273}{}{Skąd masz potrzebny do eksperymentów sprzęt i środki do badań?}
 {280}{}{Nie, nie, nie. Zanim odejdziesz, muszę cię o coś zapytać. Wyświadczysz mi pewną przysługę? Nie opuszczam magazynu z obawy o kradzież. Potrzebuje trochę świeżego materiału. Możesz mi pomóc?}
-{281}{}{Ta. Myślę, że tak.  Czego potrzebujesz?}
+{281}{}{Ta. Myślę, że tak. Czego potrzebujesz?}
 {282}{}{Nie, mam za dużo do zrobienia. Może innym razem.}
 {290}{}{Tak, byłem ciekaw co wirus zrobi ze zwykłymi zwierzętami domowymi sprzed wojny, które zachowaliśmy w naszych magazynach. Nie przewidziałem, że wirus tak przyśpieszy ich rozmnażanie. Więc wkrótce po tym jak to zaważyłem, wypuściłem je na pustkowia.}
 {291}{}{Jesteś potworem! Nic dziwnego, że nikt w okolicy nic o tobie nie wie! Najwyższy czas się ciebie pozbyć.}
 {292}{}{Cóż, nie zgadzam się z tym co tutaj robisz, ale nic na to nie poradzę. Do widzenia.}
-{300}{}{Specjalne, mówisz?  Cóż, staram się wyhodować nową odmianę marihuany. To przedwojenny narkotyk, który przeleżał zamrożony w magazynie. Ale mam tu tylko nawóz od zmutowanych stworów, które tu widzisz, więc okazało się to bardziej niebezpieczne niż myślałem na początku. Zresztą i tak pierwsze próby nie były zbyt udane...}
+{300}{}{Specjalne, mówisz? Cóż, staram się wyhodować nową odmianę marihuany. To przedwojenny narkotyk, który przeleżał zamrożony w magazynie. Ale mam tu tylko nawóz od zmutowanych stworów, które tu widzisz, więc okazało się to bardziej niebezpieczne niż myślałem na początku. Zresztą i tak pierwsze próby nie były zbyt udane...}
 {301}{}{Mogę je dostać?}
 {302}{}{Czemu nie były udane? Co się stało?}
 {310}{}{Pan Mały Chemik! znajduje się w północno-wschodniej części najniższego piętra ośrodka. A może w północno-zachodniej... Właściwie to jest na najwyższym piętrze. Już nie pamiętam. To kawał maszyny, na pewno go nie przeoczysz.}
@@ -93,7 +93,7 @@
 {410}{}{To słoneczny spopielacz. Jeden z moich eksperymentów. Zasilany jest energią słoneczną, czyli nie wymaga żadnej amunicji. Myślę, że na pustkowiach będzie bardzo przydatny, ale w związku z tym mam do ciebie jeszcze jedną prośbę...}
 {411}{}{Co to takiego?}
 {420}{}{Wygląda, że dużo podróżujesz. Ja jestem ograniczony do terenu AOŚ, muszę mieć oko na moje eksperymenty, a potrzebuję pewnych rzeczy, które mi się skończyły. Może udałoby ci się je dla mnie zebrać?}
-{421}{}{Ta. Myślę, że tak.  Czego potrzebujesz?}
+{421}{}{Ta. Myślę, że tak. Czego potrzebujesz?}
 {422}{}{Nie, muszę uratować moją wioskę. Może innym razem.}
 {430}{}{Nie miałem jeszcze okazji zbadać złotego gekona. Potrzebuję trochę materiału do badań. Zbierz 10 skór złotego gekona i przynieś je tutaj? Na pewno znajdę tu coś godnego twojego trudu.}
 {431}{}{Nie ma problemu. Wrócę jak tylko je zbiorę.}

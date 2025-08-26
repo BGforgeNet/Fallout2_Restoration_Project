@@ -51,7 +51,7 @@
 {147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
 {148}{}{Okej.}
 {149}{}{Where that?}
-{150}{}{I see.}
+{150}{}{Jag förstår.}
 {151}{}{Where's that?}
 {152}{}{Northeast corner of the base, friend. Can't miss it.}
 {153}{}{Okay. Thanks.}

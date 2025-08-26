@@ -1,11 +1,11 @@
-{100}{}{You see a tech.}
-{101}{}{You see an Enclave technician.}
-{102}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
+{100}{}{Du ser en tekniker.}
+{101}{}{Du ser en Enklav-tekniker.}
+{102}{}{Du ser någon som bär en labbrock. Han verkar självsäker och trygg i sig själv.}
 {103}{}{Yes soldier?}
-{104}{}{What this place?}
+{104}{}{Vad det här stället?}
 {105}{}{Me just say hi. Me go now.}
 {106}{}{Vad är det här för ställe?}
-{107}{}{Just saying hi. See ya.}
+{107}{}{Jag säger bara hej. Vi ses.}
 {108}{}{This is the computer room. That's the mainframe over there, the interface terminal is next to it, and these devices are the holotape data storage units. This is the latest and the greatest.}
 {109}{}{Oh. Uh, What you do?}
 {110}{}{So, what do you do here?}

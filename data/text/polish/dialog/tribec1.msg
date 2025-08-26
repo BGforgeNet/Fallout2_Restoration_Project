@@ -59,9 +59,9 @@
 {323}{}{Chcesz żebym dała dupy reszcie plemienia? Za jaką dziewczynę ty mnie uważasz?}
 {330}{}{[Krom wybucha gromkim śmiechem.] Na Bogów nie, dziewczyno! Chociaż to mogłoby zdziałać cuda dla morale moich wojowników, to nie cierpię się dzielić taka słodyczą jak Ty. Nie, mam dla ciebie znacznie bardziej przyziemne zadanie, jeśli chcesz oczywiście.}
 {331}{}{To zależy. Co chcesz żebym zrobiła?}
-{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
- traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
- yet, but I've got a feeling about our next meeting.}
+{340}{}{[Przygląda ci się przez chwilę, sprawiając wrażanie, że coś rozważa.] Wkrótce mam się spotkać z jednym z tych cholernych 
+cywilizowanych handlarzy - niski, tłusty, jednooki, paskudny typ, któremu ufam niemal tak samo jak głodnemu radskorpionowi. 
+Do tej pory nas nie oszukał, ale mam pewne przeczucia co do następnego spotkania.}
 {341}{}{Dlaczego?}
 {342}{}{Jakoś się w tym nie widzę. Do czego zmierzasz?}
 {350}{}{Kiedy ostatnio rozmawialiśmy, wspomniał coś, że następnym razem przyniesie mi coś cudownego, i że powinienem zabrać wszystkie skóry złotych gekonów na następne spotkanie. Nie wiem jaki cudowny przedmiot miał na myśli, ale najprawdopodobniej będzie to jakieś cywilizacyjne świecidełko, które pewnie ma nadzieje, będę na tyle naiwny kupić za znacznie więcej niż jest ono warte. Dlatego chcę wysłać ciebie.}

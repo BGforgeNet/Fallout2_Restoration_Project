@@ -55,7 +55,7 @@
  Koordinaten anderer Vaults, so es sie gibt. Ich glaub's ja nicht, aber Nachsehen kostet nichts.}
 {145}{}{Wenn du an unseren Vaultzentralrechner rankämst, könntest du vielleicht Hinweise auf
  andere Vaults finden. Aber der Zutritt zur Vault ist nur Bürgern gestattet.}
-{146}{}{Tanke}
+{146}{low_iq_thank_you}{Tanks}
 {147}{}{Dürfte ich dich was anderes fragen?}
 {148}{}{Danke für die Auskunft.}
 {149}{}{Na so was, da bist du ja wieder. Willkommen! Kann ich etwas für dich tun?}

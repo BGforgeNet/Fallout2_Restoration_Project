@@ -87,7 +87,9 @@
 {236}{}{Czy mogę ci zadać kilka pytań?}
 {237}{}{Rzeźnia to interes Grishama i jego syna, Davina. Dwa kroki na wschód stąd. Robią tam najlepszą wędzonkę po tej stronie Skałek.}
 {242}{}{Pensjonat Rose leży w północnej części miasta. Wszyscy przybywający tu podróżnicy zaglądają tam, by spróbować jej światowej sławy omletów. Niektórzy powiadają, że te omlety potrafią wyleczyć człowieka ze wszystkiego, co go gnębi. Szczerze mówiąc uważam, że to stek bzdur.}
-{247}{}{Pozwól swojemu nosowi, żeby cię poprowadził. Czujesz ten obrzydliwy smród? Zawdzięczamy go kadziom garbarskim, znajdującym się niedaleko na północ stąd. Jeśli zapomni się o zapachu, to nie ma lepszego miejsca, w którym można  zaopatrzyć się w wyroby skórzane. Balthus potrafi czynić ze skórą cuda.}
+{247}{}{Idź za swoim nosem, a znajdziesz to miejsce. Czujesz ten obrzydliwy smród? To kadzie garbarskie 
+tuż na północ. Jeśli zapomnisz o zapachu, nie znajdziesz lepszego miejsca, by zaopatrzyć się w wyroby 
+skórzane. Balthas potrafi czynić cuda ze skórą.}
 {252}{}{Jak już wcześniej mówiłem, nazywam się Jo i prowadzę miejscową placówkę handlową. Organizuję handel między Modoc a innymi miastami, potrzebującymi żywności i wyrobów skórzanych. Ale przez tę suszę to się może niedługo skończyć. Powoli popadamy w desperację.}
 {257}{}{O czym chcesz rozmawiać. O rzeźni, Pensjonacie Rose, garbarni, czy placówce handlowej?}
 {262}{}{No, wykrztuś to z siebie. Nie mogę ci pomóc, jeśli mi nie powiesz, czego szukasz, a na pewno nie zamierzam stać tak tutaj i zgadywać, o co ci chodzi.}

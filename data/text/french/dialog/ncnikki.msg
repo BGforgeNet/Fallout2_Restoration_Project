@@ -206,7 +206,7 @@
 {1239}{}{, et gagne un peu d'argent.}
 {1241}{}{.}
 {1242}{}{. Dis-moi si je peux t'aider en quoi que ce soit.}
-{1243}{}{ ?}
+{1243}{}{?}
 {1244}{}{.}
 {1251}{}{::Clin d'oeil:: Tu viens pour parier ?}
 {1252}{}{::Sourire:: Tu veux tenter ta chance ?}

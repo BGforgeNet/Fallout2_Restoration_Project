@@ -181,7 +181,7 @@
 {280}{}{Uh... they stop short of breaking through the defenses?}
 {281}{}{I had some other questions...}
 {282}{}{I have to be going.}
-{283}{}{I've seen them do it. The last attack, they disabled a laser turret on the western perimeter. They had a clear shot into the city. Then I saw one of their "captains" ORDER them to fall back. Makes no sense.}
+{283}{}{Jag har sett dem göra det. Vid den senaste attacken, slog de ut ett lasertorn vid den västra gränsen. De hade fritt skottfält in i staden. Sen såg jag en av deras "kaptener" BEORDRA dem att dra sig tillbaka. Helt ologiskt.}
 {284}{}{Any idea where they're coming from?}
 {285}{}{Hmmm. I had some other questions...}
 {286}{}{Interesting. I have to be going.}

@@ -206,7 +206,7 @@
 {306}{}{Wild Dog}
 {307}{}{Rocks}
 {308}{}{Rocks}
-{309}{}{Wall Safe}
+{309}{}{Vägg-kassaskåp}
 {310}{}{Coin Bag}
 {311}{}{Toilet}
 {312}{}{Box}

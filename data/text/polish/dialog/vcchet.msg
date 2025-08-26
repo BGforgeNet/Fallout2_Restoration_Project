@@ -18,7 +18,7 @@
 {117}{}{Nic takiego... po prostu obniż moją karmę o 100.}
 {118}{}{Nieważne. Mam pytanie...}
 {119}{}{Nie, niczego.}
-{120}{}{Kim?}
+{120}{}{Kto?}
 {121}{}{Marcusa.}
 {122}{}{Lenny'ego.}
 {123}{}{Vica.}

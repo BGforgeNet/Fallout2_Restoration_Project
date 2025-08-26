@@ -112,12 +112,12 @@
 {211}{}{Rumor has it that the NCR is making a deal with the Bishops.}
 {212}{}{Ok, on to other things.}
 {213}{tand20}{No point trying to keep secrets around here. We're negotiating with New Reno for membership in the NCR. They should have some pull with places like Vault City.}
-{214}{}{Me see.}
+{214}{}{Jag fatta.}
 {215}{}{Okej.}
 {216}{tand21}{Most figure we've got to work with New Reno one way or another. But folks like Westin and the ranchers blame New Reno for rustling the cattle drives between here and Redding.}
 {217}{}{Humph.}
 {218}{}{Who Westin?}
-{219}{}{I see.}
+{219}{}{Jag förstår.}
 {220}{}{Who is this Westin person?}
 {221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
 {222}{}{Nej tack.}

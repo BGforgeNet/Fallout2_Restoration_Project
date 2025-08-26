@@ -47,13 +47,13 @@
 {610}{}{Let me get this straight. You'd be happy to help someone that lurks around your house at night, steals your
  crops, and tries to rob your dead? I've met a lot of loonies in my day, but you just might take the cake. It's a marvel
  you've survived this long.}
-{611}{}{[He narrows his eyes, but manages to hold his composure.] That's how we do things here at the Abbey. If kindness
- is so offensive to you, then I suggest you get the hell outta my house. I'm not gonna sit here and let some wandering
- tribal insult me in front of my wife.}
+{611}{}{[Han kisar med ögonen, men lyckas behålla fattningen.] Det är så vi gör saker här i Klostret. Om vänlighet
+ är så stötande för dig, då föreslår jag att du försvinner ut ur mitt hus. Jag tänker inte sitta här och låta någon vandrande
+ stammedlem förolämpa mig framför min fru.}
 {612}{}{Alright, alright, I'm leaving.}
-{613}{}{Okej, tuffing, nu kommer den här "vandrande stammen" att döda dig inför din fru. Då kanske jag också dödar henne.
- För helvete, jag kanske dödar alla på detta patetiska jävla ställe. Trodde du att ni alla kunde gömma er från ödemarkens fasor?
- Nå, gissa vad, min naiva vän? Skräcken har hittat dig, och dess namn är}
+{613}{}{Okej, tuffing, nu kommer den här "vandrande stammedlemmen" att döda dig inför din fru. Då kanske jag också dödar henne.
+ Va fan, jag kanske dödar alla på det här patetiska jävla ställe. Trodde du att ni alla kunde gömma er från ödemarkens fasor?
+ Nå, gissa vad, min naiva vän? Fasorna har hittat dig, och dess namn är }
 {700}{}{Get the hell outta here.}
 {710}{}{Good to see you again. Tom's been a big help around here. Thanks again for sorting all that out. Now, what can I do for you?}
 {6061}{}{After that, I asked Brother Samuel if anything had happened in the graveyard. That's when he told me someone

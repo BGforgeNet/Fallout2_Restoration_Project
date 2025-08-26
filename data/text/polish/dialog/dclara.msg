@@ -155,7 +155,7 @@
 {650}{}{Dobra! Do roboty! Wszyscy za mną!}
 {700}{}{Dobra, zajęliśmy się szczątkowa ekipą tutaj w kościele, ale ciągle Tyler i jego kolesie są w dzielnicy Mieszkalnej.
  Do tej pory pewnie są już pijani, możemy ich łatwo zaskoczyć. Czas to skończyć, idziesz?}
-{701}{}{Pozwól mi się najpierw podleczyć.Powiem ci jak skończę się przygotowywać.}
+{701}{}{Pozwól mi się najpierw podleczyć. Powiem ci jak skończę się przygotowywać.}
 {702}{}{Ruszajmy.}
 {710}{}{Czas żeby zdjąć Tylera i jego kumpli.}
 {720}{}{Hej, nie odchodź za daleko. Musimy to skończyć tej nocy lub zrobimy to bez ciebie.}

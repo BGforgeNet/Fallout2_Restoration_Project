@@ -171,7 +171,7 @@
 {462}{}{Butch Coolidge}
 {463}{}{Streuner}
 {464}{}{Bad Mojo}
-{465}{}{Panzer}
+{465}{made_man_name}{Tank}
 {466}{}{Schläger}
 {467}{}{Mynx}
 {468}{}{Skorpion}

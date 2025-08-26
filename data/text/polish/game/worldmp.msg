@@ -40,7 +40,7 @@
 {303}{}{Forteca}
 {304}{}{Magazyn}
 {310}{}{Wejście}
-{311}{}{Wnętrze.}
+{311}{}{Wnętrze}
 {500}{}{Zdobywasz 10000 PD!}
 {501}{}{ruiny}
 {1000}{}{Pustynia}

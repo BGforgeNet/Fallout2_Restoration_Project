@@ -44,7 +44,7 @@
 {143}{}{Bien, no importa entonces.}
 {144}{}{Podrías mirar en la computadora central del Refugio, para ver si tiene coordenadas de cualquier otro Refugio. Lo dudo, pero comprobarlo no hará daño.}
 {145}{}{Bien, si tuvieras acceso a nuestra computadora central del Refugio, tal vez podrías encontrar alguna mención a otros Refugios. Pero sólo se permite a los Ciudadanos entrar en el Refugio.}
-{146}{}{Tanques}
+{146}{low_iq_thank_you}{Tanks}
 {147}{}{¿Te importa si te pregunto otra cosa?}
 {148}{}{Gracias por la información.}
 {149}{}{Hola, bienvenido de nuevo. ¿Hay algo que pueda hacer por ti?}

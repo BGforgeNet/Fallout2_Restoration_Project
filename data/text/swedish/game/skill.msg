@@ -55,7 +55,7 @@
 {500}{}{You heal %d hit points.}
 {501}{}{You look healthy already.}
 {502}{}{%s looks healthy already.}
-{503}{}{You fail to do any healing.}
+{503}{}{Du lyckas inte läka något.}
 {505}{}{You earn %d XP for honing your skills.}
 {510}{}{\nskill_use: invalid skill used.}
 {512}{}{You can't heal the dead.}

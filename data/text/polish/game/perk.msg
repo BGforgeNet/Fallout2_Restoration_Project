@@ -195,8 +195,8 @@
 {1174}{}{Posiadasz wiedzę jak obdzierać gekony ze skóry.}
 {1175}{}{Posiadasz podskórny pancerz ochronny przeciwko fizycznym formom ataku.}
 {1176}{}{Posiadasz ulepszony podskórny pancerz ochronny przeciwko fizycznym formom ataku.}
-{1177}{}{You have inherent protection against thermal attacks.}
-{1178}{}{You have extra inherent protection against thermal attacks.}
+{1177}{}{Posiadasz podskórny pancerz ochronny przeciwko cieplnym formom ataku.}
+{1178}{}{Posiadasz ulepszony podskórny pancerz ochronny przeciwko cieplnym formom ataku.}
 {1179}{}{Otrzymałeś 10 procentowy wzrost odporności na trucizny i radiację.}
 {1180}{}{Z tym profitem otrzymasz 1 punkt do siły za każdym razem, gdy liczba punktów wytrzymałości spadnie poniżej połowy swej maksymalnej wartości.}
 {1181}{}{Jesteś wyczulony na niebezpieczeństwa czyhające na otwartej przestrzeni. Jest mało prawdopodobne, że ktoś zajdzie cię od tyłu. Otrzymujesz dodatkowe 3 punkty do percepcji w trakcie przypadkowych spotkań i podczas rozmieszczania postaci.}

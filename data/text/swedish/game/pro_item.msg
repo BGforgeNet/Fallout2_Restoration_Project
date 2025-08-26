@@ -959,23 +959,23 @@
 {49201}{}{An encoded passkey that provides access to high security areas.}
 {49300}{}{Teachings Holodisk}
 {49301}{}{The label reads: "Hubologist Teachings."}
-{49400}{}{Kokoweef Mine Scrip}
-{49401}{}{This is a small chit probably used to pay Kokoweef Mine Workers.}
-{49500}{}{Presidential Access Key}
-{49501}{}{This access key has what looks like the presidential seal on it. It appears as though it's used to gain Presidential level access to computers.}
+{49400}{}{Kokoweef-gruvpolett}
+{49401}{}{Detta är en liten polett som troligen användes för att betala gruvarbetarna i Kokoweef.}
+{49500}{}{Presidentens åtkomstnyckel}
+{49501}{}{Denna åtkomstnyckel har vad som ser ut som presidentens sigill på den. Det verkar som om den används för att få tillgång till datorer på Presidentnivå.}
 {49600}{}{Boxing Gloves}
 {49601}{}{A pair of boxing gloves that smell faintly of sweat. They look like they have seen a lot of use: many old blood stains still remain.}
 {49700}{}{Plated Boxing Gloves}
 {49701}{}{Someone has "accidentally" slipped metal plates into these boxing gloves. It could technically be considered cheating, but you prefer to think of it as an increased opportunity to dispense bone-crunching damage.}
-{49800}{}{Dual Plasma Cannon}
-{49801}{}{Only use for Gun Turret critter.}
+{49800}{}{Dubbel Plasmakanon}
+{49801}{}{Använd endast för Vapentorn-varelse.}
 {49900}{}{Pip-Boy Lingual Enhancer}
 {49901}{}{This Pip-Boy lingual enhancer consists of a storage holodisk, a microfilament cord, headgear, and an optical sensor that is placed over the user's right eye. When used, an optical flash transmits an entire dictionary into the user's memory, permanently improving the user's speech skills.}
 {50000}{}{FN FAL HPFA}
 {50001}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. The HPFA is more powerful than the standard FN FAL. Min ST: 5.}
-{50100}{}{Wall Safe}
-{50200}{}{Floor Safe}
-{50300}{}{Blue Memory Module}
+{50100}{}{Vägg-kassaskåp}
+{50200}{}{Golv-kassaskåp}
+{50300}{}{Blå minnesmodul}
 {50301}{}{A read only computer memory module containing medical information. This module details charisma enhancements.}
 {50400}{}{Green Memory Module}
 {50401}{}{A read only computer memory module containing medical information. This module details perception enhancements.}
@@ -988,14 +988,14 @@
 {50800}{}{Rubber Doll}
 {50801}{}{An inflatable rubber sex doll. This model is called "Tandi".}
 {50900}{}{Damaged Rubber Doll}
-{50901}{}{This inflatable rubber sex doll has a torn seam. It's obviously been well used.}
-{51000}{}{Pool Table}
-{51100}{}{Pool Table}
+{50901}{}{Denna uppblåsbara sexdocka av gummi har en uppriven söm. Den är uppenbarligen välanvänd.}
+{51000}{}{Biljardbord}
+{51100}{}{Biljardbord}
 {51101}{}{}
-{51200}{}{Pool Table}
-{51300}{}{Pool Table}
-{51400}{}{Pool Table}
-{51500}{}{Pool Table}
+{51200}{}{Biljardbord}
+{51300}{}{Biljardbord}
+{51400}{}{Biljardbord}
+{51500}{}{Biljardbord}
 {51600}{}{Pip-Boy Medical Enhancer}
 {51601}{}{This Pip-Boy medical enhancer consists of a storage holodisk, microfilament cord, headgear, and an optical sensor that is placed over the user's left eye. When used, an optical flash transmits a dictionary of physician skills and know-how into the user's memory, permanently improving the user's doctor skill.}
 {51700}{}{"Little Jesus"}

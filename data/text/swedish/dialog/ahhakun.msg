@@ -55,15 +55,15 @@
 {154}{}{So, I'm getting an actual thing in payment. Good enough. See ya later.}
 {155}{}{I think you've been playing with those plants way too much. To avoid your fate, I'm staying away from the garden.}
 {156}{hak011}{Time can neither be wasted or saved- it must always be now. The actions create the fabric of your life.}
-{157}{}{Uh, right. Like I said, I've got to go. Goodbye. }
-{158}{}{You know, talking to you makes me wonder about that time can't be wasted idea. I'm outta here. }
-{159}{}{If only I had your wisdom, wise one. Forgive me- of course I'll take care of it for you.}
-{160}{hak012}{You may bear the mantle of the Chosen, but your dark soul cries from within.}
-{161}{}{I beg your forgiveness, holy one. How can I cleanse my soul? }
-{162}{}{That's right, Hakunin, and you'd be a real wise man not to forget it.}
-{163}{}{My head aches from within listening to you. I'm gone.}
+{157}{}{Ja, just det. Som jag sa, jag måste gå. Hej då.}
+{158}{}{Att prata med dig får mig att fundera på idén om att tid inte kan slösas bort. Jag sticker härifrån. }
+{159}{}{Om jag bara hade din visdom, du vise. Förlåt mig - naturligtvis ska jag ta hand om det åt dig.}
+{160}{hak012}{Du må bära den Utvaldes mantel, men din mörka själ skriker inifrån.}
+{161}{}{Jag ber om din förlåtelse, du helige. Hur kan jag rena min själ? }
+{162}{}{Det stämmer, Hakunin, och du skulle vara en riktigt klok man om du inte glömde det.}
+{163}{}{Mitt huvud värker inifrån när jag lyssnar på dig. Jag är borta.}
 {164}{}{Booka!}
-{165}{hak013}{Cleanse your soul as you would banish demons from my garden.}
+{165}{hak013}{Rena din själ som du skulle fördriva demoner från min trädgård.}
 {166}{}{It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.}
 {167}{}{You're trying to say that weeding your garden will be good for me, right? Well, okay, I'll give it a try.}
 {168}{}{I kinda like my soul the way it is. Bye.}

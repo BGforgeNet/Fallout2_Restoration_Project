@@ -12,9 +12,15 @@
 {213}{}{Nie wiem co masz na myśli. Jestem typowym Jasiem Plemiennym. Nie ma we mnie nic niezwykłego.}
 {214}{}{A, to przez to co noszę? Widzisz, Staram się ustanowić nowy trend w modzie plemiennej. Mam dość wiecznie tych samych portek ze skóry braminy z paskiem przez klatkę. To wygląda *tak* 2240.}
 {215}{}{Kogo nazywasz “dziwnym”, ty tłusty jednooki matkojebco? [Atakujesz.]}
-{220}{}{[Jego uśmiech nieco blednie. Przytakuje.] Dobra, no to do interesów. Powiedzcie mi, przyjaciele, czy słyszeliście  kiedykolwiek o małym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadając ostatnie słowo, wyciąga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
-{230}{}{[Otwiera szeroko oczy i cicho gwiżdże.] Dziecko Przeznaczenia, co? Cóż wyobraź sobie, że jestem pod wrażeniem. A teraz zabierzmy się do interesów. Powiedzcie mi, przyjaciele, czy słyszeliście  kiedykolwiek o małym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadając ostatnie słowo, wyciąga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
-{240}{}{Cokolwiek powiesz, przyjacielu. A teraz bierzmy się do interesów, dobrze? Czy słyszeliście  kiedykolwiek o małym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadając ostatnie słowo, wyciąga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
+{220}{}{[Jego uśmiech nieco blednie. Przytakuje.] Dobra, no to do interesów. Powiedzcie mi, przyjaciele, czy słyszeliście 
+kiedykolwiek o małym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadając ostatnie słowo, wyciąga 
+z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
+{230}{}{[Otwiera szeroko oczy i cicho gwiżdże.] Dziecko Przeznaczenia, co? Cóż wyobraź sobie, że jestem pod wrażeniem. A teraz 
+zabierzmy się do interesów. Powiedzcie mi, przyjaciele, czy słyszeliście kiedykolwiek o małym przedmiocie nazywanym... stimpakiem? 
+[Dramatycznie wypowiadając ostatnie słowo, wyciąga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
+{240}{}{Cokolwiek powiesz, przyjacielu. A teraz bierzmy się do interesów, dobrze? Czy słyszeliście kiedykolwiek o małym 
+przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadając ostatnie słowo, wyciąga z kieszeni stimpak 
+i trzyma go w górze jak cudowny artefakt.]}
 {241}{}{Yyy, tak. Wyobraź sobie, są dość pospolite.}
 {242}{}{Oczywiście. Wręcz je zbieram. Cholera, dla mnie to praktycznie stimpakowe uzależnienie.}
 {243}{}{[Kręcisz głową i patrzysz na stimpak w zadumie.] Co to... stim-pak?}

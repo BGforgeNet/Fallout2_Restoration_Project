@@ -173,22 +173,22 @@
 {1210}{}{.}
 {1215}{}{ ? Les Mordino sont fiers.}
 {1221}{}{ ! Qué pasa ?}
-{1224}{}{ ?}
+{1224}{}{?}
 {1245}{}{ ? Avec ton crochet du droit, tu devrais marcher la tête haute.}
 {1255}{}{ ? T'es vicieux. T'as le truc.}
 {1259}{}{.}
 {1261}{}{. Si les autres familles te voient arriver, ils se dégonflent illico.}
 {1263}{}{.}
 {1265}{}{. Tu les a DETRUITS ces gars.}
-{1266}{}{ ?}
+{1266}{}{?}
 {1285}{}{ ? Allez, marche la tête haute.}
 {1297}{}{ ! Qué pasa ? Tu vas m'arranger le coup avec les frères, ou quoi ?}
 {1298}{}{, un tabac !}
 {1300}{}{... Allez. Je peux le faire.}
 {1357}{}{ ! C'est comme ça qu'on donne une leçon à l'Enclave !}
 {1358}{}{, leur montrer à ces connards de l'Enclave comment on procède ICI.}
-{1372}{}{ ?}
+{1372}{}{?}
 {1373}{}{. T'étais où ?}
-{1375}{}{ ?}
-{1377}{}{ ?}
-{1380}{}{ ?}
+{1375}{}{?}
+{1377}{}{?}
+{1380}{}{?}

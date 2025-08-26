@@ -33,7 +33,7 @@
  it's fair that she can do anything she wants but I've gotta do what she says all the time.}
 {127}{}{Ok.}
 {128}{}{Me got leave now.}
-{129}{}{I see.}
+{129}{}{Jag förstår.}
 {130}{}{I think I've heard enough for now. Bye.}
 {131}{}{I guess. I miss not having other kids to play with but Mom says that will change some day. She
  thinks other kids will come to live here. Until they do I like to play with Valdis. He's funny and he

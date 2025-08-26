@@ -32,7 +32,8 @@
 {402}{}{Właściwie, tak. Zajrzałem do środka i wygląda, że silnik jest do wymiany. Połączenia też są zerwane, czyli wygląda na to, że musimy zdobyć nowy silnik, a na dodatek też kable, żeby znowu wszystko podłączyć do kupy, bo stare są spalone.}
 {500}{}{Hmm...połączenia z głównym silnikiem są spalone, co? Cóż, mam tu trochę kabli ze sobą które powinny pasować, ale nie mam tego typu silnika. Jestem pewien, że w Vault City muszą mieć takie części. Idź tam i porozmawiaj z Harrym na głównym placu. Powiedz, że Dave cię przysłał. Przeklęty silnik jest drogi, ale powinien dać ci dobrą cenę.}
 {501}{}{W takim razie, komu w drogę... Wrócę wkrótce.}
-{502}{}{Co…  czekaj…  zaraz... Co innego pomóc ci znaleźć przyczynę, a co innego włóczyć się po pustkowiu w poszukiwaniu drogiego silnika? Jeżeli mam pomóc, to będzie cię to kosztowało.}
+{502}{}{Co… czekaj… zaraz... Co innego pomóc ci znaleźć przyczynę, a co innego włóczyć się po pustkowiu w poszukiwaniu 
+drogiego silnika? Jeżeli mam pomóc, to będzie cię to kosztowało.}
 {503}{}{A sam se porozmawiasz z Harrym jak sobie pójdziesz po tę pieprzoną część? Nie jestem twoim chłopcem na posyłki. Cześć.}
 {510}{}{Dobra, nie spodziewałem się, że będziesz dla mnie pracować za darmo. Część będzie kosztowała jakieś pięć stówek plus stówa za twój kłopot, sadzę że wystarczy. Trzymaj, sześć stów.}
 {511}{}{Tak lepiej. Wrócę z częścią.}

@@ -67,7 +67,7 @@
 {166}{}{You think they threat to people?}
 {167}{}{Do you think they are a threat to human society?}
 {168}{}{Oh, absolutely. They are far superior to us physically and they are our equals mentally. That makes them a pretty big threat. However, it all comes down to morals and ethics in the end. Fortunately, they seem to be ethical and morally well developed.}
-{169}{}{Me see.}
+{169}{}{Jag fatta.}
 {170}{}{Yeah, I see what you mean.}
 {171}{}{Hi there. It's good to see you again. What can I help you with?}
 {172}{}{Need ask question.}

@@ -6,7 +6,8 @@
 {105}{}{Ja iść.}
 {106}{}{Tak, a bo co?}
 {107}{}{Witaj. Jestem}
-{108}{}{Witaj Gorisie. Gruthar powiedział, że warto do ciebie zajrzeć. On chyba myśli, że jesteś człowiekiem, który zna odpowiedzi na wiele pytań.}
+{108}{}{Witaj Gorisie. Gruthar powiedział, że warto do ciebie zajrzeć. Wydaje się, że uważa cię za kogoś, 
+kto zna odpowiedzi na wiele pytań.}
 {109}{}{Czy mogę zadać ci kilka pytań?}
 {110}{}{Przepraszam, muszę już iść.}
 {111}{}{Miło mi cię widzieć,}

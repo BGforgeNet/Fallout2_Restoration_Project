@@ -171,7 +171,7 @@
 {462}{}{Bernard Froideure}
 {463}{}{Anne Halle}
 {464}{}{La Poisse}
-{465}{}{Le Char}
+{465}{made_man_name}{Tank}
 {466}{}{La Châtaigne}
 {467}{}{Coquine}
 {468}{}{L'Alligator}

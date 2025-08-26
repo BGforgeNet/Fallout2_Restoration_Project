@@ -17,7 +17,7 @@
 {115}{}{Yes. I am the current pack mother. After my eggs hatch, the other mothers will have their turn.}
 {116}{}{Okej.}
 {117}{}{Other mothers?}
-{118}{}{I see.}
+{118}{}{Jag förstår.}
 {119}{}{There are other mothers?}
 {120}{}{Yes, there are more mothers. Should anything happen to me, one will be chosen to take my place.
  The pack must survive.}
@@ -49,7 +49,7 @@
 {139}{}{What happen to human?}
 {140}{}{Ja' fatta.}
 {141}{}{What happened to this person?}
-{142}{}{I see.}
+{142}{}{Jag förstår.}
 {143}{}{We built the cave portion, and a human friend installed the door. He got the parts from a settlement
  north-east of here.}
 {144}{}{That nice.}

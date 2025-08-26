@@ -125,7 +125,7 @@
 {472}{}{Tak na to zapomeň. Potřebuju ještě něco jiného...}
 {473}{}{Ne, díky. Zatím.}
 {474}{}{To je na mě příliš drahé. Promluvíme si o tom, až budu mít víc peněz.}
-{480}{}{(Usměje se a mne si ruce, když položíš peníze na stůl.) Fajn, tady to máš. Ještě něco? }
+{480}{}{(Usměje se a mne si ruce, když položíš peníze na stůl.) Fajn, tady to máš. }
 {481}{}{(Chvíli o tom přemýšlí, prohlédne si tě a poté kývne.) No tak jo... dám ti to skoro zadarmo, tady máš. (Předá ti modul a vezme si peníze.) }
 {482}{}{Ještě něco?}
 {485}{}{Jo, ještě by se mi něco hodilo...}

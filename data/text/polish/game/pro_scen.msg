@@ -516,7 +516,7 @@
 {27000}{}{automat z gazetami}
 {27001}{}{Niestety, pusty. A szkoda, bo chyba niegdyś zawierał czasopisma dla dorosłych.}
 {27100}{}{złom}
-{27101}{}{Materac w fatalnym stanie -  nawet szczury nie chcą się do niego zbliżyć.}
+{27101}{}{Materac w fatalnym stanie - nawet szczury nie chcą się do niego zbliżyć.}
 {27200}{}{złom}
 {27201}{}{Podwójny materac, który przetrwał już wiele chwil lepszych od obecnej.}
 {27300}{}{złom}

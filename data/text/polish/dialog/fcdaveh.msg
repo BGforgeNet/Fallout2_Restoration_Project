@@ -35,7 +35,10 @@
 {133}{}{Cóż, tak... ale warto, w razie gdyby coś się stało!}
 {134}{}{Jeżeli tak mówisz... jeżeli tak mówisz. Mam inne pytania.}
 {135}{}{Jak chcesz. Na razie.}
-{136}{}{[Siada i przez chwilę nie może wydobyć z siebie dźwięku. Ból pojawia się na jego twarzy.] No cóż. [Odwraca głowę] }
+{136}{}{[Siada i przez chwilę nie może wydobyć z siebie dźwięku.] 
+[Ból pojawia się na jego twarzy.] 
+No cóż. 
+[Odwraca głowę] }
 {137}{}{Założę się, że chcesz się jej odwdzięczyć pięknym za nadobne.}
 {138}{}{Przykro mi. Mam kilka innych pytań.}
 {139}{}{No to wiadomość została dostarczona... na razie!}

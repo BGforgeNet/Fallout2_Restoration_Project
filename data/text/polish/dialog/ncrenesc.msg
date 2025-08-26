@@ -212,7 +212,7 @@
 {765}{}{No a druga część brzmiała...?}
 {766}{}{"Druga część"? Nic nie mówił o DRUGIEJ części. Ten podły...!}
 {769}{}{Tylko cię sprawdzam. Nie ma żadnej drugiej części. No dobra, jeśli Zaius cię przysłał, to PRZYPUSZCZAM, że mam kilka części, którymi mogę się podzielić.}
-{770}{}{ Proszę. Nie upuść.}
+{770}{}{Proszę. Nie upuść.}
 {771}{}{Dziękuję. Mam jeszcze kilka pytań...}
 {772}{}{Uch, dzięki. }
 {780}{}{Nie PRÓBUJ nawet obciążać mnie tym oskarżeniem. Jak chcesz wiedzieć, kto to zrobił, to zapytaj Tweedledupka i Tweedledebila, czy wciąż jeszcze sprzedają Jet zakrapiany arszenikiem.}

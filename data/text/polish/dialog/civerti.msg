@@ -31,5 +31,6 @@
 {300}{}{[Wspinasz się do samolotu i wchodzisz do kokpitu.] Witaj w PoseidoNet. Ten terminal jest ograniczony do trasy eskadra Enclave Vertibird - dok lądowiska platformy. Polecenia?}
 {301}{}{Status.}
 {302}{}{Wyloguj.}
-{303}{}{ Ten samolot ma wystarczającą ilość paliwa na podróż z posterunku Navarro do lądowiska platformy i z powrotem. Wszystkie procedury są automatyczne i żadne działania ze strony załogi nie są wymagane. Obecny stan zbiornika paliwa: Pusty.}
+{303}{}{Ten samolot ma wystarczającą ilość paliwa na podróż z posterunku Navarro do lądowiska platformy i z powrotem. Wszystkie 
+procedury są automatyczne i żadne działania ze strony załogi nie są wymagane. Obecny stan zbiornika paliwa: Pusty.}
 {304}{}{Wyloguj.}

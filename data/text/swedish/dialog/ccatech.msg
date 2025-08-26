@@ -1,50 +1,50 @@
-{100}{}{You see a tech.}
-{101}{}{You see an Enclave technician.}
-{102}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
-{103}{}{Yes, soldier?}
-{104}{}{Me new here. Need ask question.}
+{100}{}{Du ser en tekniker.}
+{101}{}{Du ser en Enklav-tekniker.}
+{102}{}{Du ser någon som bär en labbrock. Han verkar självsäker och trygg i sig själv.}
+{103}{}{Ja, soldat?}
+{104}{}{Jag ny här. Behöver ställa fråga.}
 {105}{}{Me just say hi. Me go now.}
-{106}{}{I'm new here and I'm trying to get familiar with the base. Can I ask you some questions?}
-{107}{}{Just saying hi. See ya.}
-{108}{}{Sure. I've got a few minutes.}
+{106}{}{Jag är ny här och jag försöker bekanta mig med basen. Får jag ställa några frågor?}
+{107}{}{Jag säger bara hej. Vi ses.}
+{108}{}{Visst. Jag har några minuter.}
 {109}{}{What can I help you with?}
-{110}{}{What this place?}
-{111}{}{What you job?}
-{112}{}{Where Enclave main base at?}
-{113}{}{Me look for vertibird plans. Where I find?}
-{117}{}{Me be go now.}
+{110}{}{Vad det här stället?}
+{111}{}{Vad du jobb?}
+{112}{}{Var Enklaven huvudbas någonstans?}
+{113}{}{Jag leta Vertibird-ritningar. Var hittar jag?}
+{117}{}{Jag gå ska nu.}
 {118}{}{Vad är det här för ställe?}
-{119}{}{What is your job here?}
-{120}{}{Where is the Enclave main base located?}
-{121}{}{I need to look at the vertibird plans. Where are they kept?}
-{125}{}{Nothing. I've got to go.}
-{126}{}{This is air traffic control. From here we can track all vertibird movement.}
-{127}{}{Me see. Me ask more.}
-{128}{}{All right. A couple more questions.}
-{129}{}{I'm a computer technician, first class. I maintain the link to the mainframe below.}
-{130}{}{Uh... yeah.}
-{131}{}{Good. Keep up the good work.}
-{132}{}{Didn't you come from there?}
-{133}{}{Uh... no, me come from up north.}
-{134}{}{No actually, I'm from up north.}
-{135}{}{Oh... I didn't know we had an outpost up there. Anyway, the main base is off the coast of San Fran a ways.}
-{136}{}{How we get there?}
-{137}{}{Well... How do we get there?}
-{138}{}{By vertibird, of course. There's no other way, unless you have a ship. It's way too far to swim.}
+{119}{}{Vad är ditt jobb här?}
+{120}{}{Var ligger Enklavens huvudbas?}
+{121}{}{Jag måste titta på Vertibird-planerna. Var förvaras de?}
+{125}{}{Ingenting. Jag måste gå.}
+{126}{}{Det här är flygtrafikledningen. Härifrån kan vi följa varje vertibirds rörelser.}
+{127}{}{Jag se. Jag mer fråga.}
+{128}{}{Okej, då. Ett par frågor till.}
+{129}{}{Jag är en datatekniker, första klass. Jag upprätthåller länken till stordatorn nedan.}
+{130}{}{Eh... visst.}
+{131}{}{Bra. Fortsätt med det goda arbetet.}
+{132}{}{Kom du inte därifrån?}
+{133}{}{Eh... nej, jag komma från uppe i norr.}
+{134}{}{Nej faktiskt, jag kommer norrifrån.}
+{135}{}{Åh... Jag visste inte att vi hade en utpost där uppe. Hur som helst, huvudbasen ligger en bit utanför San Frans kust.}
+{136}{}{Hur vi komma dit?}
+{137}{}{Men... Hur kommer vi dit?}
+{138}{}{Med vertibird, så klart. Det finns inget annat sätt, om du inte har ett skepp. Det är alldeles för långt att simma.}
 {139}{}{Tack.}
 {140}{}{Tack.}
 {141}{}{Vertibird plans... I don't see why you would need to know that. I suggest you talk to maintenance next door.}
 {142}{}{Okej.}
 {143}{}{Got it.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
-{154}{}{If the sergeant catches you out of uniform, he'll hand you your ass.}
-{155}{}{Why are you out of uniform? }
-{156}{}{Holy shit! We're being invaded! Alert!}
-{157}{}{Intruders! Call the guard!}
+{154}{}{Om sergeanten ser dig utan uniform kommer han att spöa upp dig.}
+{155}{}{Varför har du inte uniform på dig? }
+{156}{}{Jävla skit! Vi har blivit invaderade! Varning!}
+{157}{}{Inkräktare! Kalla på vakten!}
 {158}{}{Guard! Intruders in the comm center!}
-{159}{}{What's up? Are we under attack?}
-{160}{}{Why the alert? What's happening?}
-{161}{}{What the hell's going on?}
+{159}{}{Läget? Är vi under attack?}
+{160}{}{Varför går larmet? Vad händer?}
+{161}{}{Vad i helvete är på gång?}
 {162}{}{I'm just a tech! Don't shoot me!}
 {163}{}{I didn't sign up for combat, just tech training!}
 {164}{}{This is a lab coat, not armor! I'm outta here!}

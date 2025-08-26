@@ -5,7 +5,7 @@
  of those in years. What can old Chris do for you?}
 {104}{}{Howdy, stranger. Ain't seen you around these parts before. What can old
  Chris do for you?}
-{105}{}{What this place?}
+{105}{}{Vad det här stället?}
 {106}{}{Me look for Navarro. This it?}
 {107}{}{You see metal bird fly here?}
 {108}{}{You hear Enclave? They here?}
@@ -128,9 +128,9 @@
  with me. What you want with 'em?}
 {191}{}{Me want join.}
 {192}{}{I want to join.}
-{193}{}{Join up? You're a tribal! What makes you think they'd want a tribal?}
-{194}{}{Join up? You're a tribal! What makes you think they'd want a tribal,
- and his posse no less?}
+{193}{}{Gå med? Du är en stammedlem! Vad får dig att tro att de vill ha en stammedlem?}
+{194}{}{Gå med? Du är en stammedlem! Vad får dig att tro att de vill ha en stammedlem,
+ och särskilt i hans egna gäng?}
 {195}{}{Me serious. Me join Enclave.}
 {196}{}{Me serious. Me Join Enclave.}
 {197}{}{I'm serious. I'm looking to join the Enclave.}
@@ -139,7 +139,7 @@
  replacements?}
 {200}{}{Wait a minute. Are you trying to say you're one of the Enclave
  replacements?}
-{201}{}{Uh... yeah.}
+{201}{}{Eh... visst.}
 {202}{}{That's right.}
 {203}{}{Fan också. Ledsen för besväret. Jag ska rensa ett gäng nybörjare.
  men jag måste rensa ut soporna. Hur som helst, gå bara upp till porten,

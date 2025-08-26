@@ -44,7 +44,7 @@
 {143}{}{Hmm, nieważne.}
 {144}{}{Móżnaby to sprawdzić w głównym komputerze Krypty, być może znajdziesz w nim coś o innych. Pewnie nie znajdziesz, ale nie zaszkodzi sprawdzić.}
 {145}{}{Hmm, jeśli się ma dostęp do głównego komputera Krypty, można znaleźć w nim jakieś informacje o nich. Niestety tylko mieszkańcy mogą wchodzić do Krypty.}
-{146}{}{Dzięki.}
+{146}{low_iq_thank_you}{Dzinki}
 {147}{}{Mogę cię jeszcze o coś spytać?}
 {148}{}{Dzięki za informacje.}
 {149}{}{Witam ponownie.}

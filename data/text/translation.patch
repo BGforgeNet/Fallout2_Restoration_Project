@@ -40,3 +40,35 @@ index 57da2478..bdd3cb1a 100644
  {801}{}{Medium}
  {802}{}{Heavy}
  {803}{}{Extreme}
+diff --git a/data/text/english/dialog/vcrandal.msg b/data/text/english/dialog/vcrandal.msg
+index ca616a0bb..08e7b9b59 100644
+--- a/data/text/english/dialog/vcrandal.msg
++++ b/data/text/english/dialog/vcrandal.msg
+@@ -44,7 +44,7 @@
+ {143}{}{Well, never mind then.}
+ {144}{}{You could go scan the Vault Central Computer, see if it has any coordinates for any other Vaults. I doubt it, but no harm in checking.}
+ {145}{}{Well, if you had access to our Vault Central Computer, you might be able to find some mention of some other Vaults. But only Citizens are allowed in the Vault.}
+-{146}{}{Tanks}
++{146}{low_iq_thank_you}{Tanks}    # This a low IQ "Thanks", colliding with tanks=vats
+ {147}{}{Mind if I ask you something else?}
+ {148}{}{Thanks for the information.}
+ {149}{}{Hey there, welcome back. Anything I can do for you?}
+commit 5b21450aa7f3c4a7af8370d52350d0fedcdae389
+Author: Magus <magus@bgforge.net>
+Date:   Sun Aug 10 13:48:15 2025 +0700
+
+    Split Tank=Tank and Tank=Vat for translation, see https://forums.bgforge.net/viewtopic.php?t=594
+
+diff --git a/data/text/english/dialog/newr1.msg b/data/text/english/dialog/newr1.msg
+index 2287827ee..568578726 100644
+--- a/data/text/english/dialog/newr1.msg
++++ b/data/text/english/dialog/newr1.msg
+@@ -185,7 +185,7 @@
+ {462}{}{Butch Coolidge}
+ {463}{}{Alley Cat}
+ {464}{}{Bad Mojo}
+-{465}{}{Tank}
++{465}{made_man_name}{Tank}
+ {466}{}{Bruiser}
+ {467}{}{Mynx}
+ {468}{}{Scorpion}

@@ -57,7 +57,7 @@
 {352}{}{Zaraz skopiemy komuś dupę!}
 {400}{}{Konkretnie skopaliśmy im tyłki! Będziemy w kościele gdybyśmy byli potrzebni.}
 {500}{}{Cholera, nie mogę uwierzyć, że straciliśmy Larę. Załatwiliśmy tu tylko szkieletową obstawę, ale Tyler i jego ekipa ciągle żyją. Jeżeli zaatakujemy teraz podczas imprezy w dzielnicy Mieszkalnej, to na pewno ich zaskoczymy. Skończmy tę robotę. Idziesz z nami?}
-{501}{}{Pozwól mi się najpierw podleczyć.Powiem ci jak skończę się przygotowywać.}
+{501}{}{Pozwól mi się najpierw podleczyć. Powiem ci jak skończę się przygotowywać.}
 {502}{}{Ruszajmy.}
 {510}{}{Czas żeby zdjąć Tylera i jego kumpli.}
 {520}{}{Hej, nie odchodź za daleko. Musimy to skończyć tej nocy.}

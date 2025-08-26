@@ -120,7 +120,7 @@
 {219}{}{Przykro mi, ale nie mogę ci zaoferować naszego paliwa. Może gdyby Cesarz z tobą porozmawiał?}
 {220}{}{Jak mam to zrobić?}
 {221}{}{Czy mogę po prostu zadać kolejne pytanie?}
-{222}{}{Chciałbym ci zaoferować nasze paliwo, ale niestety nasze magazyny są puste. W jakiś sposób paliwo zostało skierowane do Centrologów. Możliwe, że zdołasz znaleźć kogoś, kto mógłby przekserować  je z powrotem.}
+{222}{}{Chciałbym ci zaoferować paliwo, ale niestety nasze magazyny są puste. W jakiś sposób paliwo zostało skierowane do Centrologów. Możliwe, że zdołasz znaleźć kogoś, kto mógłby przekierować je z powrotem.}
 {223}{}{Czy mogę teraz spotkać się z Cesarzem?}
 {224}{}{Uprzejmie ci przypominam, że dopóki nie dostarczysz planów lataczy doktorowi Wongowi Yi Tze, wrota do Cesarza pozostaną zamknięte. Mam nadzieję, że to rozumiesz.}
 {500}{}{Opuść ten teren, albo wezwę strażników.}

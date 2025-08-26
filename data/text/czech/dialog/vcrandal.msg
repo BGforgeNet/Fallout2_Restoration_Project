@@ -44,7 +44,7 @@
 {143}{}{No, nevadí.}
 {144}{}{Zkuste prohledat databázi centrálního počítače Vaultu. Třeba jsou v něm souřadnice nějakých jiných Vaultů. Sice o tom pochybuji, ale za pokus to stojí.}
 {145}{}{No, kdybyste měl přístup k našemu centrálnímu počítači, možná byste našel nějaké zmínky o jiných Vaultech. Ale pouze Občané města mohou vstoupit do Vaultu.}
-{146}{}{Dík.}
+{146}{low_iq_thank_you}{Tanks}
 {147}{}{Nebude vám vadit, když se zeptám na něco jiného?}
 {148}{}{Díky za informace.}
 {149}{}{Zdravím, vítejte zpět. Můžu pro vás něco udělat?}

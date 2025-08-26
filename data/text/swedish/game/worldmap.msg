@@ -976,11 +976,11 @@
 {4665}{}{Some robbers.}
 {4666}{}{A Redding caravan fending off highwaymen.}
 {4667}{}{A New Reno caravan fending off robbers.}
-{4668}{}{A Den caravan fending off highwaymen.}
-{4669}{}{Some robbers ambushing a caravan.}
-{4670}{}{A Den caravan attacking a Vault City caravan.}
-{4671}{}{Some highwaymen fighting some robbers.}
-{4672}{}{A Vault City caravan.}
+{4668}{}{En karavan från Lyan som motar bort stråtrövare.}
+{4669}{}{Några rånare som överfaller en karavan.}
+{4670}{}{En karavan från Lyan som attackerar en karavan från Valvstaden.}
+{4671}{}{Några stråtrövare som strider mot några rånare.}
+{4672}{}{En karavan från Valvstaden.}
 {4673}{}{A Den caravan.}
 {4674}{}{The remains of a whale.}
 {4675}{}{A giant stone head.}
@@ -1004,18 +1004,18 @@
 {4712}{}{A band of ruffians led by a Morton Brother.}
 {4713}{}{A Redding caravan fending off highwaymen.}
 {4714}{}{A New Reno caravan fending off robbers.}
-{4715}{}{A Den caravan fending off highwaymen.}
-{4716}{}{Some robbers ambushing a caravan.}
-{4717}{}{A Den caravan attacking a Vault City caravan.}
-{4718}{}{Some highwaymen fighting some robbers.}
-{4719}{}{A Vault City caravan.}
+{4715}{}{En karavan från Lyan som motar bort stråtrövare.}
+{4716}{}{Några rånare som överfaller en karavan.}
+{4717}{}{En karavan från Lyan som attackerar en karavan från Valvstaden.}
+{4718}{}{Några stråtrövare som strider mot några rånare.}
+{4719}{}{En karavan från Valvstaden.}
 {4720}{}{A Den caravan.}
 {4721}{}{A man guarding a bridge.}
 {4722}{}{King Arthur's Knights fighting a rat.}
 {4750}{}{Toxic waste dump.}
 {4751}{}{A lone surviving dog.}
 {4752}{}{A herd of brahmin.}
-{4753}{}{Some geckos and some wolves.}
+{4753}{}{Några geckoödlor och några vargar.}
 {4754}{}{Some bounty hunters.}
 {4755}{}{Some bounty hunters.}
 {4756}{}{Some bounty hunters.}
@@ -1026,16 +1026,16 @@
 {4761}{}{Some bounty hunters.}
 {4762}{}{A band of ruffians led by a Morton Brother.}
 {4763}{}{Some claim jumpers.}
-{4764}{}{Some wolves.}
+{4764}{}{Några vargar.}
 {4765}{}{Some golden geckos.}
 {4766}{}{Some prospectors fighting some claim jumpers.}
-{4767}{}{Some trappers fighting some Golden geckos.}
+{4767}{}{Några jägare som slåss mot några Gyllene geckoödlor.}
 {4768}{}{Some bootleggers fighting some wolves.}
 {4769}{}{Some homesteaders fighting some claim jumpers.}
-{4770}{}{Some homesteaders fending off some wolves.}
+{4770}{}{Några nybyggare som försvarar sig mot vargar.}
 {4771}{}{Some bootleggers.}
 {4772}{}{Some trappers.}
-{4773}{}{Some prospectors.}
+{4773}{}{Några prospektörer.}
 {4774}{}{The remains of a whale.}
 {4775}{}{A giant stone head.}
 {4776}{}{A crashed shuttle.}
@@ -1043,9 +1043,9 @@
 {4778}{}{King Arthur's Knights.}
 {4779}{}{A tin woodsman.}
 {4780}{}{The Unwashed Villagers hunting a spammer.}
-{4800}{}{Some golden geckos and some wolves.}
+{4800}{}{Några gyllene geckoödlor och några vargar.}
 {4801}{}{Some claim jumpers.}
-{4802}{}{Some wolves.}
+{4802}{}{Några vargar.}
 {4803}{}{Some golden geckos.}
 {4804}{}{Some bounty hunters.}
 {4805}{}{Some bounty hunters.}
@@ -1060,14 +1060,14 @@
 {4814}{}{Några jägare som slåss mot några gyllene geckoödlor.}
 {4815}{}{Some bootleggers fighting some wolves.}
 {4816}{}{Some homesteaders fighting some claim jumpers.}
-{4817}{}{Some homesteaders fending off some wolves.}
+{4817}{}{Några nybyggare som försvarar sig mot vargar.}
 {4818}{}{Some bootleggers.}
 {4819}{}{Some trappers.}
-{4820}{}{Some prospectors.}
+{4820}{}{Några prospektörer.}
 {4821}{}{A man guarding a bridge.}
 {4822}{}{King Arthur's Knights fighting a rat.}
 {4850}{}{En flock vargar och några mullvadsråttor.}
-{4851}{}{Some radscorpions and some wolves.}
+{4851}{}{Några radioaktiva skorpioner och några vargar.}
 {4852}{}{Några muterade mullvadsråttor och några radioaktiva skorpioner.}
 {4853}{}{A pack of golden geckos.}
 {4854}{}{Some bounty hunters.}
@@ -1088,7 +1088,7 @@
 {4869}{}{A man guarding a bridge.}
 {4870}{}{King Arthur's Knights fighting a rat.}
 {4900}{}{Ett band av plundrare.}
-{4901}{}{Some wolves.}
+{4901}{}{Några vargar.}
 {4902}{}{En karavan som försvarar sig mot några plundrare.}
 {4903}{}{En karavan som försvarar sig mot några plundrare.}
 {4904}{}{Some bounty hunters.}
@@ -1122,7 +1122,7 @@
 {4960}{}{Some bounty hunters.}
 {4961}{}{Some bounty hunters.}
 {4962}{}{A band of ruffians led by a Morton Brother.}
-{4963}{}{Some wolves.}
+{4963}{}{Några vargar.}
 {4964}{}{En karavan som försvarar sig mot några plundrare.}
 {4965}{}{En karavan som försvarar sig mot några plundrare.}
 {4966}{}{En karavan som försvarar sig mot några plundrare.}
@@ -1186,7 +1186,7 @@
 {5100}{}{Toxic waste dump.}
 {5101}{}{A lone surviving dog.}
 {5102}{}{A herd of brahmin.}
-{5103}{}{An Enclave Patrol.}
+{5103}{}{En Enklav-patrull.}
 {5104}{}{Some bounty hunters.}
 {5105}{}{Some bounty hunters.}
 {5106}{}{Some bounty hunters.}
@@ -1204,7 +1204,7 @@
 {5118}{}{A tin woodsman.}
 {5119}{}{The Unwashed Villagers hunting a spammer.}
 {5120}{}{The Cafe of Broken Dreams.}
-{5150}{}{An Enclave Patrol.}
+{5150}{}{En Enklav-patrull.}
 {5151}{}{Some bounty hunters.}
 {5152}{}{Some bounty hunters.}
 {5153}{}{Some bounty hunters.}
@@ -1216,7 +1216,7 @@
 {5159}{}{A band of ruffians led by a Morton Brother.}
 {5160}{}{A man guarding a bridge.}
 {5161}{}{King Arthur's Knights fighting a rat.}
-{5200}{}{An Enclave Patrol.}
+{5200}{}{En Enklav-patrull.}
 {5201}{}{Some bounty hunters.}
 {5202}{}{Some bounty hunters.}
 {5203}{}{Some bounty hunters.}
@@ -1229,7 +1229,7 @@
 {5250}{}{Toxic waste dump.}
 {5251}{}{A lone surviving dog.}
 {5252}{}{A herd of brahmin.}
-{5253}{}{Some aliens and deathclaws}
+{5253}{}{Några utomjordingar och dödsklor}
 {5254}{}{Some bounty hunters.}
 {5255}{}{Some bounty hunters.}
 {5256}{}{Some bounty hunters.}
@@ -1239,12 +1239,12 @@
 {5260}{}{Some bounty hunters.}
 {5261}{}{Some bounty hunters.}
 {5262}{}{A band of ruffians led by a Morton Brother.}
-{5263}{}{An army of floaters and centaurs.}
-{5264}{}{Some fire geckos.}
-{5265}{}{A large pack of aliens.}
-{5266}{}{Some deathclaws.}
-{5267}{}{Some fire geckos.}
-{5268}{}{Some aliens.}
+{5263}{}{En armé av svävare och kentaurer.}
+{5264}{}{Några eldsprutande geckoödlor.}
+{5265}{}{En stor grupp med utomjordingar.}
+{5266}{}{Några dödsklor.}
+{5267}{}{Några eldsprutande geckoödlor.}
+{5268}{}{Några utomjordingar.}
 {5269}{}{Ett paket kentaurer.}
 {5270}{}{En svärm av svävare.}
 {5271}{}{The remains of a whale.}
@@ -1257,9 +1257,9 @@
 {5278}{}{The Cafe of Broken Dreams.}
 {5279}{}{En samling av personer som ser viktiga ut.}
 {5300}{}{Några utomjordingar och dödsklor.}
-{5301}{}{An army of floaters and centaurs.}
-{5302}{}{Some fire geckos.}
-{5303}{}{A large pack of aliens.}
+{5301}{}{En armé av svävare och kentaurer.}
+{5302}{}{Några eldsprutande geckoödlor.}
+{5303}{}{En stor grupp med utomjordingar.}
 {5304}{}{Some bounty hunters.}
 {5305}{}{Some bounty hunters.}
 {5306}{}{Some bounty hunters.}
@@ -1269,18 +1269,18 @@
 {5310}{}{Some bounty hunters.}
 {5311}{}{Some bounty hunters.}
 {5312}{}{A band of ruffians led by a Morton Brother.}
-{5313}{}{Some deathclaws.}
-{5314}{}{Some fire geckos.}
-{5315}{}{Some aliens.}
+{5313}{}{Några dödsklor.}
+{5314}{}{Några eldsprutande geckoödlor.}
+{5315}{}{Några utomjordingar.}
 {5316}{}{Ett paket kentaurer.}
 {5317}{}{En svärm av svävare.}
 {5318}{}{A man guarding a bridge.}
 {5319}{}{King Arthur's Knights fighting a rat.}
 {5320}{}{En samling av personer som ser viktiga ut.}
 {5350}{}{Några utomjordingar och dödsklor.}
-{5351}{}{An army of floaters and centaurs.}
-{5352}{}{Some fire geckos.}
-{5353}{}{A large pack of aliens.}
+{5351}{}{En armé av svävare och kentaurer.}
+{5352}{}{Några eldsprutande geckoödlor.}
+{5353}{}{En stor grupp med utomjordingar.}
 {5354}{}{Some bounty hunters.}
 {5355}{}{Some bounty hunters.}
 {5356}{}{Some bounty hunters.}
@@ -1290,9 +1290,9 @@
 {5360}{}{Some bounty hunters.}
 {5361}{}{Some bounty hunters.}
 {5362}{}{A band of ruffians led by a Morton Brother.}
-{5363}{}{Some deathclaws.}
-{5364}{}{Some fire geckos.}
-{5365}{}{Some aliens.}
+{5363}{}{Några dödsklor.}
+{5364}{}{Några eldsprutande geckoödlor.}
+{5365}{}{Några utomjordingar.}
 {5366}{}{Ett paket kentaurer.}
 {5367}{}{En svärm av svävare.}
 {5368}{}{En samling av personer som ser viktiga ut.}
@@ -1648,7 +1648,7 @@
 {6200}{}{Toxic waste dump.}
 {6201}{}{A lone surviving dog.}
 {6202}{}{A herd of brahmin.}
-{6203}{}{An Enclave patrol.}
+{6203}{}{En Enklav-patrull.}
 {6204}{}{Some bounty hunters.}
 {6205}{}{Some bounty hunters.}
 {6206}{}{Some bounty hunters.}
@@ -1669,7 +1669,7 @@
 {6221}{}{A tin woodsman.}
 {6222}{}{The Unwashed Villagers hunting a spammer.}
 {6223}{}{The Cafe of Broken Dreams.}
-{6250}{}{An Enclave patrol.}
+{6250}{}{En Enklav-patrull.}
 {6251}{}{Rester av Mästarens armé.}
 {6252}{}{En flock dödsklor.}
 {6253}{}{A swarm of mantis.}

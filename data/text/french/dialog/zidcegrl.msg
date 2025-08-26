@@ -130,7 +130,7 @@
 {2258}{}{, et gagne un peu d'argent.}
 {2260}{}{.}
 {2261}{}{. Dis-moi si je peux t'aider en quoi que ce soit.}
-{2262}{}{ ?}
+{2262}{}{?}
 {2263}{}{.}
 {2321}{}{. Place ta mise...}
 {2327}{}{.]}

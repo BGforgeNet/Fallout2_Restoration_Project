@@ -33,7 +33,7 @@
 {129}{}{Okej.}
 {130}{}{I see. Well, I'll be going then.}
 {131}{}{Yeah, I've been told I'm free to go or stay. I'm staying for now.}
-{132}{}{Me see.}
+{132}{}{Jag fatta.}
 {133}{}{Okay then.}
 {134}{}{I don't know any more about them than you do, I guess. I'm still trying to get used to
  them talking to me instead of tearing my head off and using it for a golf ball. It's scary, you know?}

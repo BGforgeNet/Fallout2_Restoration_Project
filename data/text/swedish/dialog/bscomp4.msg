@@ -9,13 +9,13 @@
 {106}{}{Turn the force field on.}
 {107}{}{Färdigt.}
 {108}{}{You give the command to deactivate the force field.}
-{109}{}{You can't seem to get around the security codes to deactivate the force field.}
+{109}{}{Du verkar inte kunna komma runt säkerhetskoderna för att avaktivera kraftfältet.}
 {110}{}{Färdigt.}
 {111}{}{You give the command to activate the force field.}
-{112}{}{You can't seem to get around the security codes to activate the force field.}
+{112}{}{Du verkar inte kunna komma runt säkerhetskoderna för att aktivera kraftfältet.}
 {113}{}{Färdigt.}
-{114}{}{This terminal monitors the force field generators. It indicates that the force field is off.}
-{115}{}{This terminal monitors the force field generators. It indicates that the force field has been
- temporarily disabled.}
-{116}{}{This terminal monitors the force field generators. It indicates that the force field has been
- compromised.}
+{114}{}{Denna terminal övervakar kraftfältsgeneratorerna. Den indikerar att kraftfältet är avstängt.}
+{115}{}{Denna terminal övervakar kraftfältsgeneratorerna. Den indikerar att kraftfältet är
+ temporärt avstängt.}
+{116}{}{Denna terminal övervakar kraftfältsgeneratorerna. Den indikerar att kraftfältet 
+ äventyrats.}

@@ -175,7 +175,7 @@
 {462}{}{Butch Coolidge}
 {463}{}{Gatinha braba}
 {464}{}{Bad Mojo}
-{465}{}{Tanque}
+{465}{made_man_name}{Tank}
 {466}{}{Brutamonte}
 {467}{}{Mynx}
 {468}{}{Escorpião}

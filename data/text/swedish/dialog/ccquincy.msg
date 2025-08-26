@@ -9,7 +9,7 @@
 {107}{}{Never mind.}
 {108}{}{Okej, men det måste gå fort. Jag har en inventering att göra.}
 {109}{}{Vad behöver du veta?}
-{110}{}{What this place?}
+{110}{}{Vad det här stället?}
 {111}{}{Jag leta Vertibird-ritningar. Var hittar jag?}
 {112}{}{Jag veta från tekniker jag hitta Vertibird-planer här.}
 {113}{}{Jag gå nu.}
@@ -65,14 +65,14 @@
 {153}{}{I need to ask you something.}
 {154}{}{Nothing, just saying 'Hi'.}
 {155}{}{Are you nuts? Walking around here out of uniform? Get suited up!}
-{156}{}{If the sergeant catches you out of uniform, he'll hand you your ass.}
+{156}{}{Om sergeanten ser dig utan uniform kommer han att spöa upp dig.}
 {157}{}{Why are you out of uniform?}
-{158}{}{Holy shit! We're being invaded! Alert!}
-{159}{}{Intruders! Call the guard!}
+{158}{}{Jävla skit! Vi har blivit invaderade! Varning!}
+{159}{}{Inkräktare! Kalla på vakten!}
 {160}{}{Guard! Intruders in maintenance!}
-{161}{}{What's up? Are we under attack?}
-{162}{}{Why the alert? What's happening?}
-{163}{}{What the hell's going on?}
+{161}{}{Läget? Är vi under attack?}
+{162}{}{Varför går larmet? Vad händer?}
+{163}{}{Vad i helvete är på gång?}
 {164}{}{Hey! Don't be rummaging through those drawers.}
 {165}{}{I told you not to go through my stuff! Guards!}
 {200}{}{Yeah. Well, don't believe everything you hear.}

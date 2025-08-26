@@ -66,15 +66,16 @@
 {913}{}{Co to do cholery jest Fallout 2?}
 {914}{}{Dobra. A kim, jeśli wolno wiedzieć jest reszta tych narwańców?}
 {920}{}{Jestem mistrzem programowania, uzdolnionym w sztuce Kodu Źródłowego. To pole energii wytwarzane przez każdą rzecz cyfrową. Otacza i przenika nas.
- Utrzymuje galaktykę w harmonii. Ciebie, mnie - drzewo - skałę.  Tworami pikselowymi jesteśmy my... niech ta brutalna prawda *cię nie kole*.
- Poprzez lata gapienia się w monitor nauczyłem się wykorzystywać tę moc.}
+Utrzymuje galaktykę w harmonii. Ciebie, mnie - drzewo - skałę. Tworami pikselowymi jesteśmy my... niech ta brutalna prawda *cię nie kole*.
+Poprzez lata gapienia się w monitor nauczyłem się wykorzystywać tę moc.}
 {921}{}{Łoł. Nasz szaman zawsze mówił, że jest więcej na tym świecie niż jestem w stanie dostrzec, usłyszeć, dotknąć, zasmakować czy poczuć. Czy mógłbyś nauczyć mnie posługiwania się mocą Kodu Źródłowego?}
 {922}{}{Myślę, że mam już dość słuchania tego religijnego bełkotu, wystarczy mi go na następną nuklearną zimę. Prawdę mówiąc, wole nosić przy sobie pistolet plazmowy.}
 {923}{}{Świetnie, jeszcze jeden stuknięty szarlatan religijny. Wynoszę się stąd.}
-{930}{}{Fallout 2 to świat w którym się znajdujesz.  Stworzyłem go... nie raczej, uczyniłem go takim jaki powinien być. Widzisz nie tak dawno temu, świat był w chaosie.
- Podróżnicy którzy tu przybywali byli często zabijani przez hordy bagów błąkających się po pustkowiach i bez umiaru niszczących zapisy gry.
- Bogowie tego świata byli beztroscy. Ale wtedy pojawiłem się ja i używając mocy Kodu Źródłowego, moi przyjaciele i ja oczyściliśmy pustkowia. Można powiedzieć, że jestem zbawcą.
- Widzianym przez wielu jako bohater: Dziecko Przeznaczenia.}
+{930}{}{Fallout 2 to świat w którym się znajdujesz. Stworzyłem go, a raczej sprawiłem, że stał się taki, jakim powinien być. 
+Widzisz nie tak dawno temu, świat był w chaosie. Podróżnicy którzy tu przybywali byli często zabijani przez hordy bagów 
+błąkających się po pustkowiach i bez umiaru niszczących zapisy gry. Bogowie tego świata byli beztroscy. Ale wtedy 
+pojawiłem się ja i używając mocy Kodu Źródłowego, moi przyjaciele i ja oczyściliśmy pustkowia. Można powiedzieć, 
+że jestem zbawcą. Widzianym przez wielu jako bohater: "The Bear Dude".}
 {931}{}{Rozumiem. Cóż, właściwie, wydawało mi się, że to JA jestem Dzieckiem Przeznaczenia. Biegam sobie, zbieram różne gówna zabijam ludzi - no wiesz - bohatersko. No i czasem z nimi rozmawiam, ale to akurat bywa męczące.
  Po prostu klikam dalej, byle tylko dotrzeć do tej zabawnej części gry.}
 {932}{}{Świetna robota Panie Killap. Naprawdę doceniam całą ta ciężką pracę jaką odwaliliście, aby posprzątać pustkowie. Jeśli to co mówisz jest prawdą, to powinieneś wiedzieć, że też jestem Dzieckiem Przeznaczenia. Właściwie mi też udało się rozgnieść parę robali.}
@@ -82,8 +83,10 @@
 {936}{}{Tak, tak. Cokolwiek co pozwoli ci przetrwać kolejny dzień.}
 {937}{}{Więc, w jaki sposób dokładnie uprzątnęliście ten świat?}
 {938}{}{Kim, jeśli wolno wiedzieć jest reszta tych narwańców?}
-{940}{}{A to moi  towarzysze: pomagali mi ulepszyć ten świat.  Yosan12, Jotisz the Hutt, Luke Skynet, Emperor Timeslip, MIBoba Fe88, Hawk-EyE, Ivhan Zolo, Contie-bacca,
- R2-QWERTY, Mon-Morticia, Darek Vader, Adam Dravean, Encinodude, Minigun Jim, Bofast, Mr. Wolna oraz Chris3ParksO. Oni wszyscy pomagali w wielkim projekcie renowacji i tępienia bagów. Dobry bag to martwy bag.}
+{940}{}{A to moi towarzysze: pomagali mi ulepszyć ten świat. Yosan12, Jotisz the Hutt, Luke Skynet, Cesarzowa Timeslip, MIBoba Fe88, 
+Hawk-EyE, Ivhan Zolo, Contie-bacca, R2-QWERTY, Mon-Morticia, Darek Vader, Adam Dravean, Encinodude, Minigun Jim, Bofast, 
+Mr. Wolna oraz Chris3ParksO. Oni wszyscy pomagali w wielkim projekcie renowacji i tępienia bugów. 
+Dobry bug to martwy bug.}
 {941}{}{Hmm. Te imiona i niki brzmią podejrzanie znajomo... Cóż, chyba pójdę z nimi porozmawiać.}
 {950}{}{W rzeczy samej, mogę. Musisz nauczyć się panować nad swoimi uczuciami: uwolnić swoją świadomość. Wyłączyć monitor. Zamknąć oczy, i POCZÓĆ Kod Źródłowy przepływający przez myszkę... (Wypełniasz jego polecenia.)}
 {951}{}{Brakuje ci doświadczenia, aby zacząć trening. Wróć do mnie kiedy nauczysz się chociaż podstaw programowania, młody padawanie.}
@@ -94,10 +97,10 @@
  Powodzenia i niech Kod Źródłowy będzie z tobą.}
 {963}{}{Co?! Mój przodek, Przybysz z Krypty używał czegoś takiego?! Nie przypominam sobie czegoś takiego z Fallouta 1! *odbiegasz żeby sprawdzić*}
 {964}{}{Dziękuje Panie Bear Dude. Za wszystko. Niech Kod Źródłowy będzie z tobą.}
-{1000}{}{Widzisz Imperatora Timeslipa.}
+{1000}{}{Widzisz Cesarzową Timeslip.}
 {1001}{}{Widzisz wrednie wyglądającą, zakapturzoną, przygarbioną postać.}
-{1010}{}{Jestem Imperator Timeslip. Mistrz Programowania, uzdolnionym w sztuce Kodu Źródłowego. To ja pozwoliłem szpiegom Obi-Wan-Killapa wykraść moje
- poprawki silnika, które uczyniły ten świat stabilniejszym, oraz poprawić PROSTACKIE I GŁÓPIE BŁĘDY pozostawione przez moje bezużyteczne sługi.}
+{1010}{}{Jestem Cesarzową Timeslip. Mistrzynią Programowania, uzdolnioną w sztuce Kodu Źródłowego. To ja pozwoliłam szpiegom Obi-Wan-Killapa wykraść moje 
+ poprawki silnika, które uczyniły ten świat stabilniejszym, oraz poprawić PROSTACKIE I GŁÓPIE BŁĘDY pozostawione przez moich bezużytecznych sług.}
 {1011}{}{W rzeczy samej, mój mistrzu. Opowiedz mi o sobie, o wielki.}
 {1012}{}{Łoł. Dziwak z ciebie. A twoja twarz jest paskudna.}
 {1013}{}{To fajnie. Muszę lecieć.}
@@ -144,7 +147,7 @@
 {1210}{}{Pomagałam w napisaniu przewodnika dla początkujących, który miał pomagać w ich nowych przygodach w tym ulepszonym świecie.}
 {1211}{}{Cholera! Jestem po złej stronie! Nigdy nie byłam pewna po czyjej mam być stronie.}
 {1212}{}{Czy moja pupa wygląda w tym na dużą?}
-{1213}{}{Imperator Timeslip popełnił krytyczny błąd i przyszedł czas na nasz atak. *mruga*}
+{1213}{}{Cesarzowa Timeslip popełniła krytyczny błąd i przyszedł czas na nasz atak. *mruga*}
 {1300}{}{Widzisz Kanhefa.}
 {1301}{}{ON wygląda naprawdę na kogoś wielkiego.}
 {1310}{}{Właściwie to jestem na NMA od udzielania porad.}
@@ -231,16 +234,21 @@
 {2061}{}{Jest teraz tyle nowych detali. Takie piękne.}
 {2100}{}{Widzisz Masha.}
 {2101}{}{Kiwa do ciebie.}
-{2110}{}{Pozdrowienia! Cieszę się, że udało Ci się dotrzeć tak daleko. Mam nadzieję, że cieszysz się rozszerzonym widzialnym obszarem tego świata. 
- Do tej pory niewystarczająco tego świata było widać. Ale to zmieniłem. Imperator Timeslip i Ja jesteśmy mistrzami Źródła. On i ja wprowadziliśmy ten stary świat do nowej epoki.}
+{2110}{}{Pozdrowienia! Cieszę się, że udało Ci się dotrzeć tak daleko. Mam nadzieję, że cieszysz się rozszerzonym widzialnym 
+ obszarem tego świata. Do tej pory niewystarczająco tego świata było widać. Ale to zmieniłem. Cesarzowa Timeslip 
+i ja jesteśmy mistrzami Źródła. Ona i ja wprowadziliśmy ten stary świat do nowej epoki.}
 {2111}{}{Jaa, dzięki za to. Teraz wszystko jest dużo lepsze. Czasami trochę za małe, ale można to łatwo wyregulować.}
 {2112}{}{Nie mam na to czasu. Cześć.}
-{2120}{}{Cieszę się, że wyniki mojej ciężkiej pracy Ci się podobają. To również ja umożliwiłem zmianę wyglądu. Rasa ani uczesanie nie są już sztywno narzucone. Yosan12, x'il, oraz inni przygotowali fizyczny wygląd, ale to ja, z pomocą Iperatora Timeslipa, kopałem głęboko w Źródle aby to umożliwić. 
- Widzę, że z tego korzystasz. Wspaniale!}
+{2120}{}{Cieszę się, że wyniki mojej ciężkiej pracy Ci się podobają. To również ja umożliwiłem zmianę wyglądu. 
+ Rasa ani uczesanie nie są już sztywno narzucone. Yosan12, x'il, oraz inni przygotowali fizyczny wygląd, 
+ ale to ja, z pomocą Cesarzowej Timeslip, kopałem głęboko w Źródle aby to umożliwić. Widzę, że z tego 
+ korzystasz. Wspaniale!}
 {2121}{}{Oh, uwielbiam swój nowy wygląd. Dziękuję za to!}
 {2122}{}{Jasne. Dowidzenia.}
-{2130}{}{ Cieszę się, że wyniki mojej ciężkiej pracy Ci się podobają. To również ja umożliwiłem zmianę wyglądu. Rasa ani uczesanie nie są już sztywno narzucone. Yosan12, x'il, oraz inni przygotowali fizyczny wygląd, ale to ja, z pomocą Iperatora Timeslipa, kopałem głęboko w Źródle aby to umożliwić. 
- Widzę, że nie korzystasz z tego udogodnienia. Chciałem tylko powiedzieć, że taka opcja jest. Jeśli chcesz to przetestować, to AOŚ jest świetnym miejscem. Oh, co za zabawa!}
+{2130}{}{Cieszę się, że wyniki mojej ciężkiej pracy Ci się podobają. To również ja umożliwiłem zmianę wyglądu. Rasa ani 
+ uczesanie nie są już sztywno narzucone. Yosan12, x'il, oraz inni przygotowali fizyczny wygląd, ale to ja, z pomocą 
+ Cesarzowej Timeslip, kopałem głęboko w Źródle aby to umożliwić. Widzę, że nie korzystasz z tego udogodnienia. 
+ Po prostu wiedz, że taka opcja jest. Jeśli chcesz to przetestować, to AOŚ jest świetnym miejscem. Oh, co za zabawa!}
 {2131}{}{Będę o tym pamiętać. Dzięki.}
 {2132}{}{Jasne. Dowidzenia.}
 {2140}{}{Wspaniałe. Cóż, dbaj o siebie.}

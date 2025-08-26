@@ -114,7 +114,7 @@
 {213}{}{. Moi juste arriver ici.}
 {214}{}{. Oui, je ne suis pas de l'abri.}
 {215}{}{.}
-{216}{}{ ?}
+{216}{}{?}
 {217}{}{Alors l'Enclave a commencé à bricoler un virus et l'a injecté aux Griffemorts. Ce virus était capable de transformer des humains en super-êtres et l'Enclave a voulu voir l'effet que cela aurait sur les Griffemorts. Eh bien, ce faisant, ils ont créé une race de Griffemorts si intelligents qu'ils ont compris qu'ils étaient destinés à l'esclavage. Ils ont donc joué les idiots jusqu'à ce qu'ils puissent gagner leur liberté. Et les voilà !}
 {218}{}{Je suis contre l'idée d'attaquer les Griffemorts.}
 {219}{}{J'ai le soudain pressentiment que ma meute a des ennuis. Excuse-moi, mais je dois aller veiller à la sécurité de mes frères.}

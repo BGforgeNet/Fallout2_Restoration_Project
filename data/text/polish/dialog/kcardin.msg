@@ -55,7 +55,8 @@
 {242}{}{To ja dziękuję. Na pewno Sulik będzie wdzięczny za umorzenie długu. Natychmiast porozmawiam z Maidą. Do zobaczenia.}
 {243}{}{Cieszę się, że już nie potrzebujesz Sulika. Mam jeszcze jedno pytanie.}
 {244}{}{ przyjaciół.}
-{250}{}{Nie mam zbyt wiele, ale proszę - oto $100. Chętnie dałabym ci więcej, ale po stracie tak wielu bramin tylko na tyle mogę sobie pozwolić. Przykro mi.}
+{250}{}{Nie mam zbyt wiele, ale proszę - oto $100. Chętnie dałabym ci więcej, ale po stracie tak wielu 
+bramin tylko na tyle mogę sobie pozwolić. Przykro mi.}
 {251}{}{Dziękuję, pani Buckner. Do zobaczenia.}
 {252}{}{Może jeszcze dogadamy się co do tej nagrody?}
 {260}{}{Cóż, na pewno mogę coś dla ciebie zrobić, żeby okazać moją wdzięczność. Hmm, zwolnię Sulika z jego przymusowej służby. Będzie mógł pójść dokąd zechce. Widać nie wszyscy plemienni sprawiają kłopoty.}
@@ -67,8 +68,9 @@
 {273}{}{To bardzo ciekawe, ale mnie interesuje coś innego.}
 {274}{}{Cóż, widzę, że jesteś zajęta. Porozmawiamy później. Do zobaczenia}
 {280}{}{Uciekł wczoraj w nocy. Rozzłościłam się na niego po tym, jak znów straciliśmy kilka z tej naszej garstki bramin. Po prostu nie możemy sobie pozwolić na stratę kolejnych, ale on bez przerwy powtarza tylko te bajania o robaludach. Niemądry chłopiec.}
-{281}{}{Torr pójść?}
-{282}{}{Mam wrażenie, że za znikaniem bramin kryją się Duntonowie. Nie powinnaś za bardzo obwiniać Torra. Jak myślisz, dokąd mógł uciec?}
+{281}{}{Torr iść?}
+{282}{}{Mam wrażenie, że za znikaniem bramin kryją się Duntonowie. Nie powinnaś za bardzo obwiniać 
+Torra. Jak myślisz, dokąd mógł uciec?}
 {283}{}{Jak myślisz, dokąd mógł uciec?}
 {290}{}{Powtarzał, że spierze robaludy w ich własnym domu. Widzisz, jest tu taki kanion na wschodzie, gdzie wypasamy braminy. Ostatnio dobiegają stamtąd jakieś dziwne dźwięki. }
 {291}{}{Dźwięki?}
@@ -97,8 +99,10 @@
 {360}{}{Wiesz już coś o Smileyu?}
 {361}{}{Przykro mi, pani Buckner, dalej go szukam. Mam do pani jeszcze jedno pytanie.}
 {362}{}{Nie, ale właśnie wybieram się na poszukiwania. Do zobaczenia.}
-{370}{}{Obawiam się, że biednemu Torrowi przydarzyło się coś strasznego. Miałam nadzieję, że mi pomożesz (szlocha) go odnaleźć zanim będzie za późno. Ten biedny chłopiec... Jak ja mogłam w ciebie wierzyć?}
-{371}{}{Szkoda, że nie mogłam liczyć na twoją pomoc w poszukiwaniu Torra. To był taki dobry chłopiec a teraz na pewno nie żyje. Tak strasznie za nim tęsknię.}
+{370}{}{Obawiam się, że biednemu Torrowi przydarzyło się coś strasznego. Miałam nadzieję, że pomożesz (szlocha) 
+mi go odnaleźć zanim będzie za późno. Ten biedny chłopiec... Jak ja mogłam w ciebie wierzyć?}
+{371}{}{Szkoda, że nie mogłam liczyć na twoją pomoc w poszukiwaniu Torra. To był taki dobry chłopiec 
+a teraz na pewno nie żyje. Tak strasznie za nim tęsknię.}
 {372}{}{Przykro mi, pani Buckner, ale mimo wszelkich starań nie udało mi się go odnaleźć. Uhmmm, mam do pani pewną prośbę.}
 {373}{}{Może uda mi się chociaż odnaleźć jego szczątki. Do zobaczenia.}
 {374}{}{Torr? Jaki Torr? (wzruszasz ramionami) Żegnam.}
@@ -119,7 +123,7 @@
 {414}{}{Tak? Wiesz już coś?}
 {415}{}{Myślę, że bracia Dunton kradną wasze bydło. Sądzę, że powinna Pani o tym wiedzieć.}
 {416}{}{Yyy. Nieważne.}
-{417}{}{Co!? Na pewno?  Jaki masz dowód?}
+{417}{}{Co!? Na pewno? Jaki masz dowód?}
 {418}{}{W chatce Duntonów na pastwiskach były części skorpiona. Przyznali się, że używali ich do straszenia Torra.}
 {419}{}{W chatce Duntonów na pastwiskach były części skorpiona. Można ich było z łatwością użyć do straszenia Torra.}
 {420}{}{Wiedziałam, że ci łajdacy są niebezpieczni! Mój biedny mały Torr, co za chuligani. Cóż, to wyjaśnia co straszyło Torra, ale potrzebujemy dowodów, że Duntonowie byli też odpowiedzialni za kradzież bydła. Twoje słowo nie wystarczy.}

@@ -124,7 +124,7 @@
 {472}{}{Akkor felejtsd el! Térjünk valami másra...}
 {473}{}{Akkor nem kérem, kösz. Viszlát!}
 {474}{}{Ez túl sok nekem. Beszéljünk róla máskor, ha van elég pénzem.}
-{480}{}{(Mosolyog, és miközben leperkálod a pénzt, a kezét dörzsölgeti.) Tessék, a tied. Bármi egyéb? }
+{480}{}{(Mosolyog, és miközben leperkálod a pénzt, a kezét dörzsölgeti.) Tessék, a tied. }
 {481}{}{(Gondolkodik egy kicsit, fürkészően néz rád, aztán bólint.) Legyen... egy igazi rabló vagy, de nem számít. (Átnyújtja a modult, és bezsebeli a pénzét.) }
 {482}{}{Másvalamit?}
 {485}{}{Igen-igen, nézzünk valami egyebet...}

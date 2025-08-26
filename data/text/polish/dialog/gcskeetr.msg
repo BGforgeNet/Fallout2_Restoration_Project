@@ -154,9 +154,10 @@
 {627}{}{Jak dla mnie za drogo. Wrócę jak będę mieć więcej kasy.}
 {630}{}{Na pewno mam poprawić tę broń ręczną? Mogę ja podładować za $}
 {631}{}{Jasne.}
-{640}{}{[Skeeter bierze twój sprzęt i patrzy na niego z dziwnym błyskiem w 
- oku.] To dopiero wyzwanie! Ale myślę, że mogę zrobić z tego dla ciebie prawdziwe cudo. Usiądź sobie wygodnie i poczekaj chwilę. [Skeeter bierze broń na
-  biurko i ustawia ją w wielkim imadle.]}
+{640}{}{[Skeeter bierze twój sprzęt i patrzy na niego z dziwnym błyskiem w oku.] 
+To dopiero wyzwanie! Ale myślę, że mogę zrobić z tego dla ciebie prawdziwe 
+cudo. Usiądź sobie wygodnie i poczekaj chwilę. [Skeeter bierze broń na warsztat 
+i mocuje ją w wielkim imadle.]}
 {641}{}{W porządku.}
 {650}{}{[Czekasz, a tymczasem widzisz jak Skeeter pracuje nad twoją bronią. Nie
  bardzo wiesz co robi, ale to dziwne zgrzytanie i stukanie

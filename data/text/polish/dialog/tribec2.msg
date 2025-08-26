@@ -44,7 +44,7 @@
 {400}{}{[Kiedy zaczynasz odchodzić, Marli przygląda ci się uważnie.] Aaa! Widzę, że masz pistolet maszynowy. [Patrzy tęsknie na broń.] Mieliśmy kiedyś jeden, ale Sulik nigdy nie miał zbyt dobrego podejścia do broni. Zgubił go podczas walki. Taka szkoda. Moja magia byłaby przerażająco silna gdybym tylko miał "Odbieracz-dusz" taki jak ten.}
 {401}{}{Jeśli chcesz karabin, możesz go mieć. Jestem pewien, że znajdę inny. [Wręczasz Marli SMG.]}
 {402}{}{Po prostu weź go. Mi już się nie przyda. [Wręczasz Marli SMG.]}
-{403}{}{Tak, założę się. W każdym razie, teraz ja i  mój "Odbieracz-dusz" pójdziemy sobie gdzie indziej.}
+{403}{}{Tak, założę się. W każdym razie, teraz ja i mój "Odbieracz-dusz" pójdziemy sobie gdzie indziej.}
 {404}{}{Zachowaj swoją magię dla siebie, kolego. Pa.}
 {410}{}{[Gdy patrzy na broń, uśmiecha się jak wariat.] Oh, jesteś dobrym przyjacielem Marli, najlepszym, Trzymaj, długo ukrywałem tą słodką "bąbelkową-wodę", ale teraz myślę, że powinna trafić do ciebie. [Daje ci butelkę Nuka-Coli.] Teraz mogę stanąć na przekór ognistej śmierci z rąk.. eeee łap gekonów. [Biegnie na tereny łowieckie.]}
 {411}{}{Moja magia jest teraz przerażająco silna!}

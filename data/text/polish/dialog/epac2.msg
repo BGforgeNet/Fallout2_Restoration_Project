@@ -40,7 +40,8 @@
 {321}{}{Jasne, że mam!}
 {322}{}{Jasne.}
 {323}{}{Myślę, że sobie daruję.}
-{330}{}{No cóż, rozumiem. Szkoda. Trudno, nie chowam urazy. Po prostu  poczekam, aż znowu ktoś z krwi i kości zawędruje do tego ośrodka. W ciągu następnego wieku czy dwóch na pewno ktoś tu trafi. Do widzenia.}
+{330}{}{No cóż, rozumiem. Szkoda. Trudno, nie chowam urazy. Po prostu poczekam, aż znowu ktoś z krwi i kości 
+zawędruje do tego ośrodka. W ciągu następnego wieku czy dwóch na pewno ktoś tu trafi. Do widzenia.}
 {340}{}{Witaj ponownie. Nie przypuszczam, żeby moja propozycja przetestowania eksperymentalnej broni została przez ciebie ponownie przemyślana, prawda?}
 {341}{}{Nie sądzę. Przykro mi.}
 {342}{}{Jasne. Zgadzam się.}

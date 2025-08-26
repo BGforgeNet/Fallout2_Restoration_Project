@@ -171,7 +171,7 @@
 {462}{}{Butch Coolidge}
 {463}{}{Kotka}
 {464}{}{Zły Urok}
-{465}{}{Czołg}
+{465}{made_man_name}{Czołg}
 {466}{}{Mięśniak}
 {467}{}{Mynx}
 {468}{}{Skorpion}

@@ -75,7 +75,7 @@
 {705}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteś?}
 {706}{}{Moje imię nie jest ważne. Jestem tu żeby cię ostrzec. Jesteś w wielkim niebezpieczeństwie!}
 {707}{}{Nieważne, odchodzę.}
-{708}{}{ Nie chcę z tobą więcej rozmawiać, pusto-głowy, wycieraczko zwierzęcego koryta! A tak w ogóle, mój pierd leci w twoją stronę! Twoja matka była chomikiem, a ojciec śmierdział od starych jagód!}
+{708}{}{Nie chcę z tobą więcej rozmawiać, pusto-głowy, wycieraczko zwierzęcego koryta! A tak w ogóle, mój pierd leci w twoją stronę! Twoja matka była chomikiem, a ojciec śmierdział od starych jagód!}
 {710}{}{[Dzikus dalej patrzy w twoją stronę w milczeniu.]}
 {711}{}{[Patrz na niego dalej.]}
 {712}{}{[Zaatakuj]}
@@ -84,7 +84,7 @@
 {715}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteś?}
 {716}{}{Moje imię nie jest ważne. Jestem tu żeby cię ostrzec. Jesteś w wielkim niebezpieczeństwie!}
 {717}{}{Nieważne, odchodzę.}
-{718}{}{ Nie chcę z tobą więcej rozmawiać, pusto-głowy, wycieraczko zwierzęcego koryta! A tak w ogóle, mój pierd leci w twoją stronę! Twoja matka była chomikiem, a ojciec śmierdział od starych jagód!}
+{718}{}{Nie chcę z tobą więcej rozmawiać, pusto-głowy, wycieraczko zwierzęcego koryta! A tak w ogóle, mój pierd leci w twoją stronę! Twoja matka była chomikiem, a ojciec śmierdział od starych jagód!}
 {720}{}{[Dzikus dalej patrzy w twoją stronę w milczeniu. Wygląda, że zaczyna tracić cierpliwość.]}
 {721}{}{[Patrz na niego dalej.]}
 {722}{}{[Zaatakuj]}
@@ -93,7 +93,7 @@
 {725}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteś?}
 {726}{}{Moje imię nie jest ważne. Jestem tu żeby cię ostrzec. Jesteś w wielkim niebezpieczeństwie!}
 {727}{}{Nieważne, odchodzę.}
-{728}{}{ Nie chcę z tobą więcej rozmawiać, pusto-głowy, wycieraczko zwierzęcego koryta! A tak w ogóle, mój pierd leci w twoją stronę! Twoja matka była chomikiem, a ojciec śmierdział od starych jagód!}
+{728}{}{Nie chcę z tobą więcej rozmawiać, pusto-głowy, wycieraczko zwierzęcego koryta! A tak w ogóle, mój pierd leci w twoją stronę! Twoja matka była chomikiem, a ojciec śmierdział od starych jagód!}
 {800}{}{Cień Który Chodzi wierzy ci nie. Cień Który Chodzi skończył mówić. Żegnaj.}
 {801}{}{[KONIEC]}
 {802}{}{Nie odwracaj się ode mnie dzikusie. Mówię do ciebie.}

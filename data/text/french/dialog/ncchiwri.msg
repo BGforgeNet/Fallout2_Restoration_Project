@@ -124,6 +124,6 @@
 {1201}{}{Génial !}
 {1202}{}{ !}
 {1220}{}{. Qu'est-ce que tu fabriquais ?}
-{1221}{}{ ?}
+{1221}{}{?}
 {1222}{}{. Comment vont les affaires ?}
 {1246}{}{ ? Les gens te traitent-ils bien ? As-tu besoin de quelque chose ?}

@@ -9,7 +9,7 @@
 {108}{}{Hej, ty. Nazywam się Earl Marion i jestem szeryfem tego miasta. Brzmi to jak kwestia Johna Wayne'a... ale cóż, taka jest moja praca.}
 {109}{}{Co mógłbym dla ciebie zrobić?}
 {110}{}{Co tu robisz jako szeryf?}
-{111}{}{Jestem tu, aby albo pożuć sobie gumę i skopać komuś dupę - a wygląda na to, że zabrakło mi gum.}
+{111}{}{Jestem tu, żeby żuć gumę i skopać komuś dupę - a właśnie skończyła mi się guma.}
 {112}{}{Nie będzie ze mną problemów. Już wychodzę, do widzenia.}
 {113}{}{Witaj, Strażniku. Nazywam się Earl Marion i jestem szeryfem miasta Redding. Cieszę się, że mamy tu kogoś takiego, jak ty.}
 {114}{}{Hej, Strażniku. Co mógłbym dla ciebie zrobić?}
@@ -40,7 +40,7 @@
 {139}{}{Mówisz, że masz kłopoty z nogą?}
 {140}{}{Cóż, nie należałem do najlepszych tancerzy, zanim to się stało, przypuszczam, że teraz się to już nie zmieni. Mogę trochę kuśtykać, ale dr Johnson mówi, abym siedział spokojnie, jeśli chcę, aby się szybko zagoiło. Przydałaby się pomocna dłoń.}
 {141}{}{Z tą nogą na niewiele się zdaję. Dr Johnson mówi, abym jej nie nadwyrężał. W czym mogę ci pomóc?}
-{142}{}{Chciałbys ją trochę pomęczyć? Służę pomocą.}
+{142}{}{A tym razem czym chcesz mi zawracać głowę?}
 {143}{}{Kim jest doktor Johnson?}
 {144}{}{Potrzebujesz pomocy, szeryfie?}
 {145}{}{Kiedy kota nie ma...}

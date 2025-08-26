@@ -24,22 +24,22 @@
 {123}{}{Sure, it's a deal.}
 {124}{}{Nej, tack.}
 {125}{}{New California Republic - that's what it is. President Tandi and the bunch say they're trying to rebuild the old days; I figure they're just trying to grab whatever they can. Hell, I got no complaint with them - the old days is all before my time. They're kind of a prissy bunch, though - don't like slaves, gambling, whatnot. That's why I set up out here. Don't like rules - never have.}
-{126}{}{I see.}
+{126}{}{Jag förstår.}
 {127}{}{Farväl.}
 {128}{}{I don't mess with Mr. Merk and it don't pay to go gossiping about him. You got questions, go ask about him at the Rawhide.}
-{129}{}{I see.}
+{129}{}{Jag förstår.}
 {130}{}{Farväl.}
 {131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town. Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
-{132}{}{I see.}
+{132}{}{Jag förstår.}
 {133}{}{Farväl.}
 {134}{}{Funny you go asking that after what happened to Roger Westin. Not that I'd know, but there's a fellow - Merk - down at the Rawhide who might be able to help you.}
-{135}{}{I see.}
+{135}{}{Jag förstår.}
 {136}{}{Farväl.}
 {137}{}{That one of them pre-war imports? Let me guess, 14mm ammo? Nope, ain't got one.}
-{138}{}{I see.}
+{138}{}{Jag förstår.}
 {139}{}{Farväl.}
 {140}{}{Look, I can't do this on anything but a hunting rifle. It's the way the mount's built, understand?}
-{141}{}{I see.}
+{141}{}{Jag förstår.}
 {142}{}{Farväl.}
 {143}{}{The joint's closed. Bug off.}
 {144}{}{God! Come back at a decent hour, will ya?}

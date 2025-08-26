@@ -79,7 +79,7 @@
 {301}{}{Om du säger det så. Hej då.}
 {310}{}{Är du inte klok? Jag har aldrig varit ute i ödemarken, men jag har en jävligt bra uppfattning om hur det är. Jag skulle
  ha tur om jag klarar mig femtio meter innan en radioaktiv skorpion kör upp en meterlång gadd i röven på mig. Eller ännu värre, jag skulle bli tillfångatagen
- och torterad av ett gäng galna plundrare *eller* så skulle jag bli uppäten levande av en kannibalistisk stam. Hur som helst. Jag vet bara att om
+ och torterad av ett gäng galna plundrare *eller* så skulle jag bli uppäten levande av kannibalistiska stammedlemmar. Hur som helst. Jag vet bara att om
  jag drar härifrån, skulle jag vara körd. Så nej, jag är fast här.}
 {311}{}{Det är inte *så* illa där ute... Faktiskt, så har du rätt. Du skulle förmodligen inte ens ta dig till Gecko.
  Åtminstone inte utan hjälp. Men tänk om jag sa att jag skulle eskortera dig?}

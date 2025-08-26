@@ -35,7 +35,7 @@
 {134}{}{Zabierz jego ciało. Doktor chciał dostać próbkę.}
 {135}{}{Ich krew będzie płynęła jak Nil!}
 {200}{}{Witaj, Przybyszu z Krypty. Dla twojej wygody, ten terminal firmy KrypTech został zmodyfikowany by reagować na polecenia głosowe. Proszę podać komendę.}
-{201}{}{Yy, musiałeś mnie z kimś pomylić. Do zobaczenia, nie jestem Przybyszem z Krypty, jestem Dzieckiem Przeznaczenia. }
+{201}{}{Yy, musiałeś mnie z kimś pomylić. Widzisz, ja nie jestem Przybyszem z Krypty, tylko Dzieckiem Przeznaczenia.}
 {202}{}{Przeprowadź diagnostykę.}
 {203}{}{Przełącz na wprowadzanie komend przez klawiaturę.}
 {204}{}{Nagrania ochrony.}

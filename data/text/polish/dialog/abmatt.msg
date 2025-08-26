@@ -10,13 +10,14 @@
 {206}{}{By nikt nie poznał strachu przed następnym, Potopem Ognia.}
 {207}{}{Pewnego dnia, ludzie wzniosą się ponad swą chęć zagłady.}
 {208}{}{A wtedy Arka Pamięci tam będzie, by przywrócić to co utracone.}
-{209}{}{Więc kontujemy naszą świętą misję, aby  utrwalić wiedzę, którą straciliśmy.}
+{209}{}{Więc kontujemy naszą świętą misję, aby utrwalić wiedzę, którą straciliśmy.}
 {210}{}{Musimy przetrwać i ją chronić, ale nigdy z niej nie korzystać.}
 {211}{}{Więc idźcie moi przyjaciele i nie wasze dusze będą pełne nadziei;}
 {212}{}{Gdyż jako strażnicy wiedzy, wszyscy zostaliśmy, nagrodzeni.}
 {213}{}{A teraz, proszę poświęćcie chwilę na przemyślenie tego co tu usłyszeliście.}
 {224}{}{A teraz, proszę poświęćcie chwilę na przemyślenie tego co tu usłyszeliście.}
-{300}{}{Witaj. Chyba się jeszcze nie znamy. Jestem Brat Matthew, pomagam szerzyć słowo, o tym jak ważne jest przetrwanie wiedzy starożytnych.}
+{300}{}{Witaj. Chyba się jeszcze nie znamy. Jestem Brat Matthew, pomagam szerzyć słowo, o tym jak ważne jest 
+przetrwanie wiedzy starożytnych.}
 {301}{}{Miło mi cię poznać Matt. Nazywam się }
 {302}{}{ i podróżuję z misją odnalezienia świętego GECKa.}
 {303}{}{Wybacz, muszę już iść.}

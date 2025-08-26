@@ -1,14 +1,14 @@
-{100}{}{A soldier in a duty uniform.}
+{100}{}{En soldat i tjänsteuniform.}
 {101}{}{Some Pfc-Tech, grade X.}
-{102}{}{He's wearing a military uniform, but it's clear this guy's more a technician than a soldier.}
-{103}{}{Look, how many times I got to tell you goons? Don't get in the way!}
-{104}{}{Don't you have something to shoot?}
-{105}{}{Greetings, trooper.}
-{106}{}{Who are you? Guards!}
-{107}{}{What the hell is this? Infiltrator on base!}
-{108}{}{Shit! Where's my gun!}
-{109}{}{Look, they already searched here and they didn't find anything.}
-{110}{}{Jeez, these false alarms make me jumpy as hell.}
+{102}{}{Han bär en militäruniform, men det är uppenbart att han är mer av en tekniker än en soldat.}
+{103}{}{Hörni, hur många gånger måste jag säga det till er klåpare? Stå inte i vägen!}
+{104}{}{Har du inte något att skjuta?}
+{105}{}{Var hälsad, soldat.}
+{106}{}{Vem är du? Vakter!}
+{107}{}{Vad i helvete är det här? Infiltratör på basen!}
+{108}{}{Fan! Var är mitt gevär!}
+{109}{}{De har redan letat här och inte hittat nåt.}
+{110}{}{Jösses, de här falska larmen gör mig nervös som fan.}
 {111}{}{Great, another false alarm. Now we'll have to tear the whole system down and put it back
  together again. }
 {112}{}{Goddamn it! Over here! Get the spy!}

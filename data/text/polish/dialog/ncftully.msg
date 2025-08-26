@@ -268,7 +268,10 @@
 {1004}{}{Muszę wstać wcześniej i pójść do spowiedzi.}
 {1005}{}{Może tu sobie chwilkę poleżę.}
 {2000}{}{Muszę przyznać, Ojcze, Nowe Reno nie jest miejscem w którym można by się spodziewać duchownego.}
-{2001}{}{A dzie jak nie tu, co? Posa tym, s całą cholerną pewnośśścią nie chcsieli mnie już w tamtym przeklętym Opacstwie. A chuj! Niech sobie schowają swój ssspokojny, durny, chlasztor. Kto go poszebuje? So? Nie ja! Ale wiesz so? Ci mnisi pędzą naprawdę dobry bimber. O rany, najlepsiejszy  cholerny bimber. (Oblizuje wargi.) S-stary Sa-Samuel i ja, mieliśmy sssporo sabawy z tą gorzałą, wierz mi.}
+{2001}{}{A dzie jak nie tu, co? Posa tym, s całą cholerną pewnośśścią nie chcsieli mnie już w tamtym przeklętym Opacstwie. 
+A chuj! Niech se schowają swój ssspokojny, durny, chlasztor. Kto go poszebuje? So? Nie ja! Ale wiesz so? Ci mnisi pędzą 
+naprawdę dobry bimber. O rany, najlepsiejszy cholerny bimber. (Oblizuje wargi.) S-stary Sa-Samuel i ja, mieliśmy sssporo 
+sabawy z tą gorzałą, wierz mi.}
 {2002}{}{Wóda w klasztorze. Interesujące. Dobra, mógłbyś mi pokazać na mojej mapie gdzie to jest.}
 {2003}{}{Czyli, jeśli dobrze rozumiem twoje pijackie majaczenia, wygląda na, to że pochodzisz z jakiegoś klasztoru, gdzie dużo piłeś razem z jakimś gościem o imieniu Samuel. Ojcze, jeżeli pokażesz mi jego położenia na mapie, to może spotkam twojego przyjaciela i skosztuję tego bimbru, którym tak się zachwycasz.}
 {2004}{}{(Wyciągasz PipBoya i trzymasz go dla Ojca Tully. Najpierw pokazuje na ocean, potem przypadkowy obszar górski na południu. Po tym jak mało nie wybił sobie oka, Ojciec Tully pokazuje miejsce bliżej górnej krawędzi twojej mapy) Ta, to tu, ooo tu. Jezdem tego pewien.}
@@ -288,11 +291,12 @@
 {2020}{}{Opactwo, co? Zdarzyło mi się już kiedyś tam trafić. Był tam taki koleś Samuel, zachowywał się bardzo podobnie do ciebie.}
 {2021}{}{Samuel!? So u niego słychać? Nie wiziałem go od lat. Siągle chla na umór?}
 {2022}{}{Ta, śmierdzi od niego alkoholem, podobnie jak od ciebie.}
-{2023}{}{O, to  źwietnie. Dobrze wiezieć, że se razi. Jeśli go jeszcze kiedyś zobaszysz, przekasz mu moje pos-rowienia. Więdz... (Klasnął i zaciera ręce.) Więdz, mosze masz ze sobą butelkę słynnego bimbru s Opacstwa?}
+{2023}{}{O, to źwietnie. Dobrze wiezieć, że se razi. Jeśli go jeszcze kiedyś zobaszysz, przekasz mu moje pos-rowienia. Więdz... 
+(Klasnął i zaciera ręce.) Więdz, mosze masz ze sobą butelkę słynnego bimbru s Opacstwa?}
 {2024}{}{Tak, mam ją tutaj.}
 {2025}{}{Wypita po drodze, przykro mi. Mocna rzecz.}
 {2026}{}{Nie, nie mam.}
-{2027}{}{Nie ma się szym szszycić. Tak dawno go nie piłem... Naprawdę przydałaby się  butelka, albo i z dwie. Jakieś szanse, że jeszcze zajszysz do Opacstwa?}
+{2027}{}{Nie ma się szym szszycić. Tak dawno go nie piłem... Naprawdę przydałaby się butelka, albo i z dwie. Jakieś szanse, że jeszcze zajszysz do Opacstwa?}
 {2028}{}{Szkoda. Tak dawno go nie piłem. Naprawdę byłbym wdzięczny za butelkę, albo dwie. Jakieś szanse, że jeszcze zajszysz do Opacstwa?}
 {2029}{}{Masz? Tak dawno go nie piłem. Odstąpisz mi butelkę?}
 {2030}{}{Możliwe. Jak tam będę postaram się nie zapomnieć o butelce dla ciebie. Do zobaczenia Ojcze.}

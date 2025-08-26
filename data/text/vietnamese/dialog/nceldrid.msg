@@ -130,7 +130,7 @@
 {472}{}{Forget it, then. I wanted something else...}
 {473}{}{No thanks, then. See you around.}
 {474}{}{Too rich for my blood. Let's talk some other time when I have some more money.}
-{480}{}{(Smiles, rubs hands as you lay the money on the table.) Awright, here you go. Anything else? }
+{480}{}{(Smiles, rubs hands as you lay the money on the table.) Awright, here you go. }
 {481}{}{(Thinks about it for a moment, studies you, then nods.) Awright then... I'm letting you have it for a steal, but
  here you go. (Hands you the module, takes your money.) }
 {482}{}{Gì nữa không?}

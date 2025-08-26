@@ -44,7 +44,7 @@
 {143}{}{Beh, come non detto, allora.}
 {144}{}{Potresti controllare il Computer Centrale del Vault e vedere se sono riportate le coordinate di qualche altro Vault. Io ne dubito, ma tentar non nuoce. }
 {145}{}{Beh, se tu avessi la possibilita' di accedere al Computer Centrale del nostro Vault, dovresti poter trovare qualche riferimento agli altri Vault. Ma solamente i Cittadini posso entrare nel Vault.}
-{146}{}{Gazie}
+{146}{low_iq_thank_you}{Tanks}
 {147}{}{Le dispiace se le chiedo qualcos'altro?}
 {148}{}{Grazie delle informazioni.}
 {149}{}{Ehila', bentornato. Posso fare qualcosa per te?}

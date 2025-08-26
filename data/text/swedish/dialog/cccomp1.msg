@@ -1,4 +1,4 @@
-{100}{}{You see a tech.}
+{100}{}{Du ser en tekniker.}
 {101}{}{You see a computer tech.}
 {102}{}{You see someone wearing a lab coat, complete with pocket protector and a stash of pens.}
 {103}{}{Good day, soldier.}

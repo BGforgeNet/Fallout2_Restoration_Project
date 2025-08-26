@@ -52,12 +52,12 @@
 {135}{}{Hey, man, if the sergeant catches you out of uniform he'll hand
  you your ass.}
 {136}{}{Why are you out of uniform, man?}
-{137}{}{Holy shit! We're being invaded! Alert!}
-{138}{}{Intruders! Call the guard!}
+{137}{}{Jävla skit! Vi har blivit invaderade! Varning!}
+{138}{}{Inkräktare! Kalla på vakten!}
 {139}{}{Guard! Intruders in the hangar!}
 {140}{}{Hey, man, what's up? We under attack?}
 {141}{}{Why the alert, man? What's happening?}
-{142}{}{What the hell's going on?}
+{142}{}{Vad i helvete är på gång?}
 {143}{}{Raul's going to put you in med lab, man.}
 {144}{}{Hey, man, say your prayers!}
 {145}{}{Raul's going to kick your ass!}

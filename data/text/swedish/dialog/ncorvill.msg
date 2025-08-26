@@ -139,8 +139,8 @@
 {480}{}{(Mr. Wright's expression tightens for a moment, then he snorts.) Heh. Not exactly. The fellas I got the map from are dead.
  They were a tough bunch, but they all got wiped out tryin' to get inside the base.}
 {481}{}{They didn't even get INSIDE?}
-{485}{}{Yeah, the only survivor said... shortly before his unfortunate death... said that there were some kind of super gun turrets
- guarding the entrance. Wiped out most of his boys.}
+{485}{}{Ja, den enda överlevande sa... strax före sin olyckliga död... sa att det fanns någon form av super-vapentorn
+ som vaktade ingången. Utplånade de flesta av hans pojkar.}
 {486}{}{What happened to the survivor?}
 {487}{}{Hmmmm. I'll have to be careful then. I'll take the job.}
 {488}{}{Forget this. No one said it would be that dangerous.}

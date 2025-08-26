@@ -327,7 +327,7 @@
 {426}{}{Wiem kto zaopatrzył ich w broń. To ten handlarz z podmurza, Harry.}
 {427}{}{Szczęśliwy Harry, mówisz?... domyślałem się, że to jeden z tych drani z podmurza. Dobra zajmę się nim. Zobaczymy jaki będzie “Szczęśliwy” kiedy z nim skończę. A co do ciebie, możesz wziąć cokolwiek znajdziesz w jego sklepie jako nagrodę za wydanie go.}
 {428}{}{Nie wiem dlaczego, ale prokonsul McClure rozkazał mi wstrzymać ataki na wioskę. Dotyczy to też ciebie. }
-{429}{}{Hmm...  Dobra.}
+{429}{}{Hmm... Dobra.}
 {1215}{}{Udało mi się przekonać ich przewodnika, żeby nie przeprowadzał ich więcej przez góry. Bez niego nigdy nie znajdą drogi.}
 {1224}{}{Naprawdę? Więc, nie będą nam już zagrażać?}
 {1251}{}{Właściwie, to już mi się udało powstrzymać Najeźdźców. Ich przewodnik nie będzie im więcej przewodził przez góry. Bez niego nigdy nie znajdą drogi.}

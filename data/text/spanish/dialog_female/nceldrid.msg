@@ -128,7 +128,7 @@
 {472}{}{Olvídalo entonces. Quería alguna otra cosa...}
 {473}{}{Entonces no, gracias. Ya nos veremos.}
 {474}{}{Demasiado para lo que puedo pagar. Hablaremos en otro momento, cuando tenga más dinero.}
-{480}{}{(Sonríe, se frota las manos mientras pones el dinero sobre la mesa). Muy bien, aquí lo tienes. ¿Algo más? }
+{480}{}{(Sonríe, se frota las manos mientras pones el dinero sobre la mesa). Muy bien, aquí lo tienes. }
 {481}{}{(Piensa en ello un momento, te estudia, y luego asiente). De acuerdo entonces... voy a dejar que lo consigas casi regalado, pero
  aquí lo tienes. (Te entrega el módulo y se guarda tu dinero). }
 {482}{}{¿Algo más?}

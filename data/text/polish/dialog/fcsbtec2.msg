@@ -8,7 +8,8 @@
 {203}{}{Wolałbym żeby baza danych IFF ciągle działała. Byłoby mi dużo łatwiej.}
 {300}{}{Czego chcesz, lao wai? Nie widzisz, że próbuje przekonfigurować system namierzania celu?}
 {301}{}{Właściwie, po to tu jestem. Mam nowe specyfikacje dla tych systemów, sprawdzonych przez Cesarza, uch, osobiście. Możesz je wprowadzić? Wydajesz się wiedzieć najwięcej o tym podsystemie.}
-{302}{}{Po to tu jestem, mogę ci pomóc w konfiguracji systemów. Wygląda, że połączenie między systemem nawigacji i transpondera  IFF okrętu w końcu padło, więc będziesz musiał zrobić obejście. Mogę ci pomóc?}
+{302}{}{Po to tu jestem, mogę ci pomóc w konfiguracji systemów. Wygląda na to, że połączenie między systemem nawigacji 
+a transponderem IFF okrętu w końcu padło, więc będziesz musiał zrobić obejście. Mogę ci tym pomóc?}
 {303}{}{Przepraszam, już nie przeszkadzam.}
 {310}{}{Hm, wieki czekałem na te nowe specyfikacje! Powinienem je dostać tydzień temu, kiedy pracowałem nad tym co zostało z bojowej bazy danych. Teraz znowu będę musiał to rozkładać... Cóż, takie życie technika, jak sądzę.}
 {311}{}{Miłej zabawy. Sprawdzę co jeszcze potrzebuje naprawy.}

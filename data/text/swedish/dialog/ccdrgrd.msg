@@ -2,7 +2,7 @@
 {101}{}{You see the commander's door guard.}
 {102}{}{You see someone in combat armor. There is an insignia on the breastplate that you are not familiar with.}
 {103}{}{Sir! What is your business here?}
-{104}{}{What this place?}
+{104}{}{Vad det här stället?}
 {105}{}{Uh... me new here.}
 {106}{}{Me here clean.}
 {107}{}{Me not remember. Me go.}

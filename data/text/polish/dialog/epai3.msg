@@ -27,7 +27,10 @@
 {150}{}{Otwórz plik: Zmiana Płci.}
 {151}{}{Otwórz plik: Zawirusowane Muszki Owocówki.}
 {160}{}{Doktor Glen Wood ogłosił, że dokonał ogromnego przełomu w dziedzinie zmiany płci, jak twierdzi ma to zrewolucjonizować metody wywiadowcze naszego kraju. Prosta procedura ma zmieniać mężczyznę w kobietę i odwrotnie. Doktor Wood nalega, aby być pierwszym który przejdzie tą radykalna zmianę. Prosi by po operacji zwracać się do niego, lub niej, dr Glenda.}
-{170}{}{Zmutowane muszki owocówki z powodzeniem przenoszą teraz wirus. Zanim jednak, zrzucimy je na teren innych krajów, muszki owocówki zostaną najpierw przetestowane na małej odizolowanej Amerykańskiej społeczności, gdzie będziemy mogli obserwować efekty w środowisku nie laboratoryjnym.  Nieuniknione straty wśród ludności cywilnej są oczywiście przykre, ale ofiary są niezbędne. Poza tym, to honor dla każdego prawdziwego Amerykanina, poświęcić życie dla dobra naszego wspaniałego narodu.}
+{170}{}{Zmutowane muszki owocówki z powodzeniem przenoszą teraz wirusa. Zanim jednak zrzucimy je na teren innych krajów, 
+muszki owocówki zostaną najpierw przetestowane na małej, odizolowanej amerykańskiej społeczności, gdzie będziemy mogli 
+obserwować efekty w środowisku nielaboratoryjnym. Nieuniknione straty wśród ludności cywilnej są oczywiście przykre, ale ofiary 
+są niezbędne. Poza tym to honor dla każdego prawdziwego Amerykanina poświęcić życie dla dobra naszego wspaniałego narodu.}
 {200}{}{Poznajesz prawdziwy powód fluoryzacji wody.}
 {311}{}{Buczenie....}
 {312}{}{Biip!!}

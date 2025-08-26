@@ -96,7 +96,7 @@
 {377}{}{"Sarah Smart: Oratorka, Autorka, Profesorka, De Amicitia."}
 {378}{}{"Tim Winkle - Nie zniosę niczyjej hipokryzji, poza swoją."}
 {379}{}{"Jughead – Król Świta Królowej Archie."}
-{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
+{380}{}{„Casey Donahue. Zmarł 08.06.98r. Padł z „rąk” zmutowanego, wściekłego okonia morskiego. Spoczywaj w pokoju.”}
 {381}{}{"Christopher 'Nietoperz' Jones: zapalony zielarz."}
 {382}{}{"Jay "Kartoflane Stopy" Nielson. Muzyk. Zmarł w wieku 104 lat, podczas solówki na perkusji."}
 {383}{}{"Nitsa - Powód, dla którego Charles NIE DOSTAŁ hokeja."}

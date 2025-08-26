@@ -101,19 +101,23 @@
 {521}{}{Dwa lata? A od tego czasu ktoś tam mieszkał?}
 {522}{}{Pewnie masz rację. Dziękuję.}
 {540}{}{Któryś z chłopców kiedyś tam nocował. Może on coś wie.}
-{541}{}{Kim?}
+{541}{}{Kto?}
 {542}{}{Pewnie nie. Cześć.}
-{560}{}{Przychodził kiedyś do mnie i próbował sprzedawać różne drobiazgi. Głównie biżuterię. Pamiętam, że jeden złoty medalion zachował dla siebie.}
+{560}{}{Przychodził kiedyś do mnie i próbował sprzedawać różne drobiazgi. 
+Głównie biżuterię. Pamiętam, że jeden złoty medalion zachował dla siebie.}
 {561}{}{Pamiętasz jak się nazywał?}
 {562}{}{Medalion? Dziwne. Kto to był?}
 {563}{}{Pozwól, że zapytam o coś innego.}
 {564}{}{Dziękuję. Do zobaczenia.}
-{580}{}{Nie jestem pewna. Joseph... Joel... coś w tym stylu. Ma teraz jakieś 19 lat. Obawiam się, że włóczy się z miejscowymi bandziorami.}
+{580}{}{Nie jestem pewna. Joseph... Joel... coś w tym stylu. Ma teraz jakieś 19 lat. 
+Obawiam się, że włóczy się z miejscowymi bandziorami.}
 {581}{}{Dzięki. Mam jeszcze jedno pytanie.}
 {582}{}{Dziękuję. Do zobaczenia.}
 {600}{}{Co możesz mi powiedzieć o nawiedzonym domu?}
 {800}{}{Nie da się nie zauważyć, że na ulicach jest mnóstwo sierot.}
-{801}{}{To naprawdę przykre, prawda? Te biedne dzieci żyjące na ulicy, w taki sposób… Wiele z nich kradnie żeby przetrwać, głównie od przyjezdnych, więc jeśli przyłapiesz któreś na odciążaniu twoich kieszeni, proszę miej litość. Nie usprawiedliwiam ich, ale żyjemy w brutalnym świecie i wszyscy robimy co musimy żeby przetrwać kolejny dzień.}
+{801}{}{To naprawdę przykre, prawda? Te biedne dzieci żyjące na ulicy, w taki sposób… Wiele z nich kradnie żeby przetrwać, 
+głównie od przyjezdnych, więc jeśli przyłapiesz któreś na odciążaniu twoich kieszeni, proszę miej litość. Nie usprawiedliwiam 
+ich, ale żyjemy w brutalnym świecie i wszyscy robimy co musimy żeby przetrwać kolejny dzień.}
 {802}{}{Musi być coś, co da się z tym zrobić. A ty wydajesz się jedyną osobą, którą obchodzą te dzieci.}
 {803}{}{Oczywiście, że mnie obchodzą. Dzieci to nasza przyszłość. Nie *muszą* wyrosnąć na ćpunów, oprychów, złodziei i dziwki jak
  większość ich nic niewartych rodziców. Dzięki edukacji, odrobinie miłości i opieki, te dzieci mogą wyrosnąć na dobrych 
@@ -127,7 +131,7 @@
 {809}{}{Ach... rozumiem. Naprawdę szkoda. Ale dziękuję za dobre chęci. Chcesz coś przed wyjściem?}
 {810}{}{Nie. Cześć Mamuśka.}
 {811}{}{Jeżeli złapie któregoś z tych gówniarzy na okradaniu mnie, to będzie ostatnia rzecz jaką zrobi. Nie obchodzą mnie ich wymówki, złodziej to złodziej. Cześć.}
-{820}{}{Udało mi się oczyścić budynek. Pojawił się oporny, ale ci dzicy lokatorzy nie będą  nam się już naprzykrzać.}
+{820}{}{Dobre wieści. Budynek jest już twój. Napotkałem mały problem, ale dzicy lokatorzy już ci nie będą przeszkadzać.}
 {821}{}{Squatterzy mówią, że opuszczą budynek i przepraszają za sprawianie kłopotów. Teraz tam sprzątają, żeby ci to wynagrodzić. Tak sobie myślę, jeśli dobrze, by się z tym sprawili, może mogłabyś zaoferować im pracę.}
 {822}{}{To świetne wieści. Jestem Ci taka wdzięczna! Mam nadzieje, że nikt przy tym nie ucierpiał. Dobrze, pozwól, że skontaktuję się z kilkoma przyjaciółmi i zaczynamy. Jeśli za kilka dni będziesz jeszcze w mieście, odwiedź mnie. Przy odrobinie szczęścia, wszystko będzie już gotowe. Tak się cieszę! Dziękuję. Proszę, to danie na mój koszt.}
 {823}{}{Hm... Sądzę, że każdy zasługuje na druga szansę. Zaglądnę tam z kilkoma przyjaciółmi i omówimy to z nimi. Jestem ci taka wdzięczna, za twoją pomoc. Jeśli za kilka dni będziesz jeszcze w mieście, odwiedź mnie. Przy odrobinie szczęścia, wszystko będzie już gotowe. Tak się cieszę! Dziękuję. Proszę, to danie na mój koszt.}

@@ -112,4 +112,4 @@
 {4092}{}{Myślę, że to możliwe, ale musisz zrozumieć. Jesteśmy spokojnymi ludźmi. Myśl o zejściu tam i walczeniu z tym potworem z pustkowi przeraża nas. Nie jesteśmy odpowiednio wyposażeni do takiej konfrontacji. }
 {4177}{}{Udało mi się zabić bestię.}
 {4188}{}{Świetnie! A co z książką, udało ci się ją odzyskać?}
-{6020}{}{Jeśli naprawdę chcesz okazać mi wdzięczność, zapłać.}
+{6020}{}{Jeśli naprawdę chcesz wyrazić swoją wdzięczność, to może trochę pieniędzy za mój trud?}

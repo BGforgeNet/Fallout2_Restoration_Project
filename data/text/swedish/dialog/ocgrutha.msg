@@ -22,7 +22,7 @@
  out of trouble, and you will always be welcome here.}
 {116}{}{Forgive me. I do not mean to be rude, but I do not see that this is relevant to our conversation.
  I can speak your tongue, I can read your written word. What more needs be said?}
-{117}{}{I see.}
+{117}{}{Jag förstår.}
 {118}{}{I don't mean to pry, but surely you can understand my interest in this matter.}
 {119}{}{Yeah, well, how about letting me decide what is or is not relevant?}
 {120}{}{Yes, I certainly can. Very well. If we part as friends, human, you should speak with Goris. He
@@ -83,7 +83,7 @@
  them in the wild. However, I am certain that you have noticed that we are an exception. My pack poses
  no threat to you or your human communities. We have evolved beyond our base cousins and wish simply to
  be left alone.}
-{157}{}{Uh... yeah.}
+{157}{}{Eh... visst.}
 {158}{}{Your heightened intellect could make you even more of a threat than the average deathclaw,
  Gruthar.}
 {159}{}{I can see that you are not the savage killers that deathclaws are known to be.}

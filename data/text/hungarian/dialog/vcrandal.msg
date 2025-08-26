@@ -44,7 +44,7 @@
 {143}{}{Köszönöm a segítséget, de most mennem kell. Viszlát!}
 {144}{}{Én a helyedben a Menedék Központi Számítógépében keresném, az majd talán kiadja a koordinátákat. Őszintén szólva kétlem, de próbálkozni azért még lehet.}
 {145}{}{Én a helyedben a Menedék Központi Számítógépében keresném, az majd talán kiadja a koordinátákat. Sajnos oda csak Polgárok léphetnek be.}
-{146}{}{Tartályok}
+{146}{low_iq_thank_you}{Tanks}
 {147}{}{Kérdezhetnék valami mást?}
 {148}{}{Köszönöm az információkat.}
 {149}{}{Megint itt vagy? Tehetek érted valamit?}

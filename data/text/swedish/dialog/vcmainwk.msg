@@ -48,7 +48,7 @@
 {146}{}{What do you repair here?}
 {147}{}{Watch it. I'm not in the mood for any bullshit today.}
 {148}{}{Just dumb questions today, actually. Talk to you later.}
-{149}{}{Synthetic alcohol dispensers, radios, firearms, laser turret parts, computer monitors, you name it... when I can get the tools to do my job.}
+{149}{}{Syntetiska spritdispensrar, radioapparater, skjutvapen, delar till lasertorn, datorskärmar, allt möjligt... när jag kan få tag på verktygen för att göra mitt jobb.}
 {150}{}{Tools?}
 {151}{}{Sounds like a tough job. I'll leave you to it.}
 {152}{}{Right now, I've got the metal lathe barely working, and my wrench has gone missing... AGAIN... and my pliers' teeth are stripped.}

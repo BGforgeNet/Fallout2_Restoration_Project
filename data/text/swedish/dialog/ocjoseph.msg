@@ -41,7 +41,7 @@
 {135}{}{Okay. Need know more.}
 {136}{}{Tack. Hej då.}
 {137}{}{That's very commendable of you.}
-{138}{}{I see.}
+{138}{}{Jag förstår.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}
 {140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
  stopped. I used to wonder if the deathclaws were secretly following me and whether or not they would

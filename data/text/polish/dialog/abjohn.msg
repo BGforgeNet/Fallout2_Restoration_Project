@@ -9,7 +9,7 @@
 {401}{}{Czy się tu zajmujesz?}
 {402}{}{Rozumiem, cześć.}
 {403}{}{Cóż, kiedyś pracowałem na farmie, ale to źle służyło mojemu sercu.}
-{404}{}{Masz problemy  z sercem?}
+{404}{}{Masz problemy z sercem?}
 {405}{}{Taa. To smutne, cześć!}
 {406}{}{Tak, mam słabe serce. Gdybym tylko miał swoje tabletki na serce, bardzo by mi to ułatwiło życie. Wiesz, w dzisiejszym świecie trudno jest znaleźć lekarstwo na tę chorobę.}
 {407}{}{Zdaje się, że mam rozwiązanie na twoje problemy z sercem...}

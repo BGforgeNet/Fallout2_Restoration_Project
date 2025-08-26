@@ -5,8 +5,8 @@
 {4}{}{IN}
 {5}{}{ZR}
 {6}{}{SZ}
-{7}{}{Punkty wytrzym.}
-{8}{}{Klasa pancerza}
+{7}{}{PW}
+{8}{}{Klasa panc.}
 {9}{}{  Konw.}
 {10}{}{  Laser}
 {11}{}{  Ogień}

@@ -27,7 +27,9 @@
 {243}{}{Czytaj o Centaurach i Wisielcach.}
 {244}{}{Czytaj o Radskorpionach.}
 {250}{}{Przeprowadziliśmy różne eksperymenty mające na celu wyhodowanie nowej rośliny. Kilka z tych prób było udanych, a powstałe w ten sposób rośliny można zobaczyć w szkółce leśnej. Stan zbiorników wskazuje, że pozostały w nich próbki nasion do dalszych testów.}
-{251}{}{Drapieżna roślina jest zmutowaną formą rośliny podobnej do rosiczki. Testy wykazały, że jest bardzo agresywna i stosuje dwa rodzaje ataków. Pierwszym jest wystrzeliwany  ostry zarodnik. Kolejnym jest ugryzienie kolczastą paszczą. Zalecamy szczególną ostrożność przy przeprowadzaniu na nich testów.}
+{251}{}{Drapieżna roślina jest zmutowaną formą gatunku przypominającego rosiczkę. Dodatkowe testy wykazały, że jest wyjątkowo 
+agresywna i stosuje dwa rodzaje ataków. Pierwszy polega na wystrzeleniu w przeciwnika ostrego zarodnika, drugi - na ugryzieniu kolczastą 
+paszczą. Zaleca się zachowanie szczególnej ostrożności podczas kontaktu i pracy z tymi organizmami.}
 {252}{}{Po przeprowadzeniu szerokich badaniach wynika, że centaury są produktem ubocznym Wirusa Wymuszonej Ewolucji. Wydają się być mieszanką kota, psa, braminy i kilku innych form życia. FEV nie jest jednak jedynym czynnikiem mutacyjnym, radiacja miała tu również swój udział. Lubią silnie napromieniowane miejsca, a one same napromieniowują wszystko wokół nich.}
 {253}{}{[KONTYNUUJ]}
 {254}{}{Źródło i etymologia wisielców pozostają nieznane, lecz wydają się mieć związek z centaurami, w pobliżu których często są spotykane. One również są wynikiem działania FEV. Dalsze testy wykazują u nich kompletną niewrażliwość na działanie elektryczności.}

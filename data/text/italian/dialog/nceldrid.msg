@@ -124,7 +124,7 @@
 {472}{}{Lasciamo perdere, allora. Vorrei qualcos'altro...}
 {473}{}{No grazie, allora. Ci si vede.}
 {474}{}{E' troppo per le mie tasche. Riparliamone un'altra volta, quando avro' qualche soldo in piu'.}
-{480}{}{(Sorride e si strofina le mani mentre tu appoggi il denaro sul tavolo.) Bene, ecco a te. Altro? }
+{480}{}{(Sorride e si strofina le mani mentre tu appoggi il denaro sul tavolo.) Bene, ecco a te. }
 {481}{}{(Ci pensa su per un attimo, ti osserva, poi annuisce.) D'accordo, allora... E' praticamente un furto, ma ecco qua. (Ti porge il modulo, prende i tuoi soldi.) }
 {482}{}{Altro?}
 {485}{}{Si', mi interessa un'altra cosa...}

@@ -56,7 +56,7 @@
 {152}{}{[Spelarens namn]}
 {153}{}{Fiskarna?}
 {154}{}{Svärdfisk.}
-{155}{}{Arroy-- Wait a minute! We just hit that place. You're a damn tribal! Guards!}
+{155}{}{Arroy... Vänta lite! Vi slog precis till mot det stället. Du är en jävla stammedlem! Vakter!}
 {156}{}{Look, clown, don't be making trouble or I'll have your insubordinate ass up on report. Just
  answer the question. }
 {157}{}{Arroyo.}
