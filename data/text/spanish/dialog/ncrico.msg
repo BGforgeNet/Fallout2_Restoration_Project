@@ -19,8 +19,8 @@
 {208}{}{Grunt.}
 {209}{}{Grrr - Grrr}
 {210}{}{No gusto hablar.}
-{211}{}{Yoo olor guuud...}
+{211}{}{Tú hueles biiien...}
 {212}{}{Yoo huele a mamá.}
 {213}{}{Yoo lindo. No Me golpeó.}
-{214}{}{Yoo me hacen sonrojar...}
+{214}{}{Tú me haces ruborizar...}
 {215}{}{Uhhh...Yo Rico...}

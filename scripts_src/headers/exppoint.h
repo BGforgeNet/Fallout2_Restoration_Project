@@ -487,7 +487,7 @@
  a message informing the player how many
  points he received.
 ***************************************/
-#define calc_actual_xp_gain(x)                  (x + ((x * 5 / 100) * dude_perk(PERK_swift_learner)))
+#define calc_actual_xp_gain(x)                  (x + ((x * (5 * dude_perk(PERK_swift_learner))) / 100))
 #define give_xp(x)                              give_exp_points(x); \
                                                 display_msg(g_mstr(100) + calc_actual_xp_gain(x) + g_mstr(101))
 

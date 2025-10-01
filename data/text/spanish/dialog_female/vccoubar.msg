@@ -130,7 +130,7 @@
 {229}{}{Hmmm. Tenía curiosidad acerca de algo más...}
 {230}{}{Ya veo. Bien, podría tomarme una copa. ¿Qué tienes para trasegar?}
 {231}{}{Interesante. Gracias por la información. Adiós.}
-{232}{}{Oh, no, no... no es esclavitud. Aquellas personas que trabajan en la ciudad son siervos... incluido yo mismo. Nos han tratado muy bien aquí, le enseñó a leer y a escribir, y le da atención médica, las casas y los alimentos.}
+{232}{}{Oh, no, no... eso no es esclavitud. Esa gente que ves trabajando en la ciudad son siervos... al igual que yo. Aquí se nos trata muy bien, se nos enseña a leer y escribir, recibimos atención médica, vivienda y alimentos.}
 {233}{}{Tenéis todo excepto la libertad, ¿eh?}
 {234}{}{Si no tienes quejas, entonces no hay problema. Olvida que te he preguntado.}
 {235}{}{No importa. Quería una copa. ¿Qué tienes para trasegar?}

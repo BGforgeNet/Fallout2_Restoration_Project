@@ -100,7 +100,7 @@
 {354}{}{I'm still looking for that book of mine.}
 {355}{}{What's the catch?}
 {356}{}{Tell me more.}
-{357}{}{Can I ask you a question?}
+{357}{}{Får jag ställa en fråga?}
 {358}{}{Hej då.}
 {370}{}{Catch? Oh, well, if you knew Fred you'd understand. He's owed me the money
  for quite a long time. I'd written it off as a loss, but if you can get it back, I'd be

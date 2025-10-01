@@ -35,7 +35,7 @@
 {127}{}{Damn mutants. Just as I thought.}
 {128}{}{Yeah, I am a tough guy. If I weren't in jail, I'd prove it to you. You think you're tough?
  Think you can prove it, loser?}
-{129}{}{Of course.}
+{129}{}{Självklart.}
 {130}{}{I don't have anything to prove to you, lowlife.}
 {131}{}{Get the hell out of my sight, you jerk! I'd kill you if I had the chance!}
 {132}{}{Hej då.}

@@ -33,7 +33,7 @@
 {175}{}{????}
 {176}{}{You betray us. You must die.}
 {177}{}{A traitor to your own people!}
-{178}{}{Why do you do this?}
+{178}{}{Varför gör du så här?}
 {179}{}{Death to the evil one!}
 {180}{}{They are nothing to us! They scavenge the dying corpse
  of the wastes to live.}

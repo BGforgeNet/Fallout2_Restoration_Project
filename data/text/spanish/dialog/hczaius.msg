@@ -77,8 +77,8 @@
 {159}{}{Me marcharé.}
 {160}{}{Bien. Déjalo, entonces. Nada, gracias.}
 {161}{}{Lo que sea.}
-{162}{}{Hola, amigo!}
-{163}{}{Oh, bien. Eres tú de nuevo. }
+{162}{}{¡Hola, colega!}
+{163}{}{Oh, bien. Eres tú otra vez.}
 {164}{}{Hola.}
 {165}{}{Verás, yo sabía lo que esos bastardos de Franc, Manson, Jacob, y Aileen tenían preparado para nosotros. ¡Bien hecho! Así que…}
 {166}{}{Espero que te hayas pensado un poco lo de devolver el mineral a la ciudad… así que…}

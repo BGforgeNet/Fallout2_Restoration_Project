@@ -1,12 +1,12 @@
-{100}{}{You see the Elder of your village.}
-{101}{}{It is the Elder.}
-{102}{}{The Elder is just that - old, older than you can remember. Still, she has the
- strength and fire to lead the village through these hard times.}
-{103}{aeld1}{Congratulations, Chosen One, you have survived the Temple of Trials. Are
- you ready for your quest?}
-{104}{}{What were you doing - trying to get me killed in the temple?}
-{105}{}{Of course.}
-{106}{}{I'd like to think about it some more.}
+{100}{}{Du ser din bys Äldste.}
+{101}{}{Det är den Äldste.}
+{102}{}{Den Äldste är just det - gammal, äldre än du kan minnas. Ändå har hon
+ styrkan och glöden som krävs för att leda byn genom dessa svåra tider.}
+{103}{aeld1}{Gratulerar, Utvalde, du har överlevt Prövningarnas Tempel. Är
+ du redo för ditt uppdrag?}
+{104}{}{Vad höll du på med? Försökte du få mig dödad i templet?}
+{105}{}{Självklart.}
+{106}{}{Jag skulle vilja tänka på det lite mer.}
 {107}{aeld2a}{I am proud of you, Chosen. You have overcome much. Now. You must go find Vault
  13. Vault 13. Bring the GECK home. GECK. Here is a shiny bottle. Vic gave us this. Vic.
  He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do

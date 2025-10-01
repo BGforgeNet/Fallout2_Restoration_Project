@@ -6,8 +6,8 @@
 {122}{}{¡Deerk deegler!}
 {123}{}{¿Quién?}
 {124}{}{Marcus ha estado haciendo algunas preguntas sobre ti.}
-{125}{}{No hay suficiente evidencia para arrestar a usted para robar el dinero que se supone que va a ir a Broken Hills. Vas hacia abajo.}
-{126}{}{No hay suficiente evidencia para arrestar a usted para robar el dinero que se supone que va a ir a Broken Hills. Cortar conmigo para $1000 y la voy a hacer seguro de que usted puede huir de la ciudad.}
+{125}{}{Hay suficiente evidencia para arrestarte por robar dinero destinado a Broken Hills. Vas a caer.}
+{126}{}{Hay suficiente evidencia para arrestarte por robar dinero destinado a Broken Hills. Dame $1000 y me aseguraré de que huyas de la ciudad.}
 {127}{}{¿Quién eres?}
 {128}{}{Háblame sobre este lugar.}
 {129}{}{Nada. Adiós.}
@@ -29,7 +29,7 @@
 {145}{}{Él sospecha que está rozando el dinero que se supone que se va a Broken Hills.}
 {146}{}{Nada en realidad. Adiós.}
 {147}{}{Mira, yo no sé nada acerca de eso, y estoy seguro como el infierno que no le gusta cuando la gente me acusan de cosas. Ahora le sugiero que deje.}
-{150}{}{Voy a averiguar la verdad. Bye.}
+{150}{}{Voy a descubrir la verdad. Adiós.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
 {158}{}{Gracias. Adiós.}

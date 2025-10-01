@@ -18,7 +18,7 @@
 {117}{}{¿Qué puedes decirme de Roger Westin?}
 {118}{}{Estoy intentando reunirme con el viejo Carlson. ¿Sabes de alguien que pueda ayudarme?}
 {119}{}{¿Tienes un GECK?}
-{120}{}{Que bueno, extraño, pero no hay caridad.}
+{120}{}{Esto está bien, forastero, pero no me dedico a la caridad.}
 {121}{}{Tal vez. Sólo podría tener un Triveld x10 rifle de alcance - encajaría bien en un rifle de caza, si alguien estaba interesado. Let it go barato - $500.}
 {122}{}{Oye, ya me has limpiado.}
 {123}{}{Claro, es un trato.}

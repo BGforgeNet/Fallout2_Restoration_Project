@@ -180,7 +180,7 @@
 {730}{}{So, are you happy with this situation? I mean, being the only one here?}
 {731}{}{What else would you like to know about?}
 {800}{}{Actually, wait one second. You look like an adventurous type. I may have a use for someone of your skills.}
-{801}{}{Sure. What do you need?}
+{801}{}{Visst. Vad behöver du?}
 {802}{}{No thanks. Bye.}
 {803}{}{Well, I was out collecting samples at one of my work sites and I seem to have left one of my tools there. Normally
  I would just go and get it myself, but I'm extremely busy at the moment and for the life of me I cannot remember the exact

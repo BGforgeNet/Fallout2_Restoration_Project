@@ -120,8 +120,8 @@
 {482}{}{Hi tee hi tee hi tee ho}
 {490}{}{Puedo conseguirte CUALQUIER cosa, hermano. Si necesitas volar, colocarte, y flipar de lo lindo, Jules sabe
  dónde IR. La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
-{491}{}{Cualquier cosa que necesites, Jules es el HOMBRE, hermana. Si usted necesita para volar, llegar alto, deslice hacia abajo baja, Jules sabe a dónde IR.
- La pregunta es: ¡tengo el tesoro, así que ¿cuál es TU placer?}
+{491}{}{Cualquier cosa que necesites, Jules es tu HOMBRE, hermana. Si necesitas volar, colocarte, y flipar de lo lindo, Jules sabe dónde IR.
+La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
 {492}{}{Para cualquier cosa que quieras, Jules es tu HOMBRE, hermanita. Si necesitas volar, colocarte, y flipar de lo lindo, Jules sabe
  dónde IR. La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
 {493}{}{Sin duda, sin duda... la pregunta es: Tengo la solución, así que ¿cual es tu problema?}

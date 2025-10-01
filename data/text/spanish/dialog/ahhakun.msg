@@ -190,5 +190,5 @@
 {289}{}{¿Y entonces?}
 {290}{hak122}{Demasiadas estaciones y demasiadas heridas, Elegido. En vez de eso, debes escuchar.}
 {291}{}{De acuerdo.}
-{300}{}{Los que roban llevan una gran carga. Recuerda eso, Elegido.}
+{300}{}{Aquellos que roban llevan un gran peso encima. Recuerda esto, Elegido.}
 {301}{}{Ahora debes pagar por tus pecados, Elegido.}

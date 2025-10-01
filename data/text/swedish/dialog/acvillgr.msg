@@ -30,8 +30,8 @@
 {175}{}{????}
 {176}{}{We're doomed! You have failed your quest.}
 {177}{}{You cannot continue like this.}
-{180}{}{You are a traitor to your own people.}
-{181}{}{Why do you do this?}
+{180}{}{Du är en förrädare mot ditt eget folk.}
+{181}{}{Varför gör du så här?}
 {182}{}{You are evil. The Chosen One is evil!}
 {183}{}{They come to our village from the east, but their goods are poor.}
 {184}{}{Could you tell me where I can find some healing herbs?}

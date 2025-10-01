@@ -175,7 +175,7 @@
 {462}{}{Butch Coolidge}
 {463}{}{Gata Callejera}
 {464}{}{Bad Mojo}
-{465}{made_man_name}{Tank}
+{465}{made_man_name}{Tanque}
 {466}{}{Grandullón}
 {467}{}{Mynx}
 {468}{}{Escorpión}

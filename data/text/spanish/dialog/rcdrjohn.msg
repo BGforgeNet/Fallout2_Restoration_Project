@@ -306,4 +306,4 @@
 {326}{}{Hemos recobrado la consciencia, ¿eh? Ya estás simplemente repleto de disipadores termales y membranas disipadoras. No parecerás tan hinchado en unas semanas, pero tampoco vas a ganar ningún concurso de belleza. Intenta no rascarte las costras purulentas de las incisiones de drenaje hasta que dejen de supurar.}
 {327}{}{Gracias por el consejo, Doc. Esto es genial. Oye, déjame preguntarte algo más.}
 {328}{}{Gracias por el trabajito, Doc. Será mejor que me ponga en marcha. Adiós.}
-{329}{}{Entregar el Jet antídoto a Doc Johnson.}
+{329}{}{Le entregas el antídoto de Jet al Doctor Johnson.}

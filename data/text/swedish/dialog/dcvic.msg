@@ -180,7 +180,7 @@
 {2502}{}{I'll help you if I can, Boss.}
 {2503}{}{I'm not in trouble am I, Boss?}
 {2504}{}{Did I do something wrong, Boss?}
-{2505}{}{Of course.}
+{2505}{}{Självklart.}
 {2600}{}{What'll we do now, Boss?}
 {2601}{}{What's the plan, Boss?}
 {2602}{}{Doing my best, Boss.}

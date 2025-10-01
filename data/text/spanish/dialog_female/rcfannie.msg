@@ -105,7 +105,7 @@
 {183}{}{Bueno, ayuda no tener el olfato muy desarrollado. Esos mineros no son demasiado aficionados al agua y el jabón.}
 {184}{}{¿En serio? Quizá esto no sea para mí, después de todo. Aunque gracias por la oferta. Adiós.}
 {185}{}{No sé cómo puedes soportarlo, así que supongo que no lo haces. Soportarlo, eso es. Adiós.}
-{186}{}{[Fannie parece como un gran peso ha levantado de sus hombros] ¡Oye, eres tú! Lou me dijo lo que hiciste. Esa cosa que me deslizó me hizo enfermar por supuesto, pero no he sentido necesidad de Jet desde entonces. (Ella te besa en la mejilla) No sé como puedo darte las gracias... bien, sí sé *una* manera. Siempre que estás en el humor, ven a visitarme, gratis. (guiño)}
+{186}{}{[Fannie se ve como si un gran peso se hubiera levantado de sus hombros] ¡Oye, eres tú! Lou me dijo lo que hiciste. Esa cosa que ella me dejó me hizo enfermar por supuesto, pero no he sentido necesidad de Jet desde entonces. (Ella te besa en la mejilla) No sé como puedo darte las gracias... bueno, sí sé *una* manera. Siempre que estés de humor, ven a visitarme; gratis. (guiño)}
 {187}{}{Lo tendré en mente. Gracias, Fannie.}
 {188}{}{Gracias de nuevo. (besa) Recuerda, la casa te invita siempre. (guiño)}
 {189}{}{¡Hola! ¿Quieres pasar algún tiempo con Fannie? En la casa, por supuesto. (mueca)}

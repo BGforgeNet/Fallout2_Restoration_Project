@@ -50,7 +50,7 @@ Q: I'm using the new appearance mod and my character is spinning too quickly/slo
 A: Sure. Go to your Fallout 2 directory and look for a file called ddraw.ini. Search for something called "SpeedInventoryPCRotation=" The default value is 220. Larger values make it slower, smaller values make it faster.
 
 Q: I don't like some of the options I chose in the installer. Can I go back and change them?
-A: Many of the options you picked in the installer can be changed at any time. Go to your Fallout 2 directory and look for a file called ddraw.ini. Look through it for any options you wish to modify. "EnableHeroAppearanceMod=", "DamageFormula=" and "NPCAutoLevel=" are some of the options you could have set via the RP installer. The file is well documented, so it is pretty easy to tell what each option will do to your game. However, I suggest only making changes to this file if you really know what you're doing or were told to make a specific change.
+A: Many of the options you picked in the installer can be changed at any time. Go to your Fallout 2 directory and look for a file called ddraw.ini. Look through it for any options you wish to modify. "EnableHeroAppearanceMod=", "DamageFormula=" and "PartyMemberNonRandomLevelUp=" are some of the options you could have set via the RP installer. The file is well documented, so it is pretty easy to tell what each option will do to your game. However, I suggest only making changes to this file if you really know what you're doing or were told to make a specific change.
 
 Q: I'm stuck on this one quest. Help me!
 A: Morticia and others have compiled a detailed walkthrough for my work. You can access it here: https://f2rp.bgforge.net/
@@ -80,3 +80,4 @@ Acknowledgements:
 • Thanks to Darek for finding out the cause of the Primitive Tribe crash under windows 9x, narrowing down the items involved in the infamous "too many items" bug, the shopkeeper restocking problem, and so much more!
 • Thanks to NovaRain for being an outstanding beta tester!
 • And lastly, thanks to all the friendly people over at No Mutants Allowed with all the help they have provided. Thanks!
+

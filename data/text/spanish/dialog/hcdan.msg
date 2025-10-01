@@ -23,11 +23,11 @@
 {122}{}{Nop. No puedo hacerlo.}
 {123}{}{Por favor. Por favor. Mi mujer... lo es todo para mí. Por favor.}
 {124}{}{¡He dicho que no!}
-{125}{}{Vale. Vale, pero deja de darme la lata.}
-{126}{}{Aquí está el dinero. Ahora, por favor, por favor, por favor... buscar a mi esposa, y dime de donde ella es. Quizás ha acostado con alguien más, tal vez ella me dejó... pero necesito saber.}
+{125}{}{Bien! Bien! Solo deja de molestarme.}
+{126}{}{Aquí tienes el dinero. Ahora por favor, por favor, POR FAVOR... encuentra a mi mujer y dime dónde está. Quizá se haya ido a vivir con otro, quizás me haya dejado... pero necesito saberlo.}
 {127}{}{Vale, amigo. ¿Qué aspecto tiene?}
 {128}{}{Por supuesto. Lo haré lo mejor que pueda.}
-{129}{}{::él gemía incontrolablemente por unos momentos:: Muy bien. Vaya. Y darse cuenta de que has roto mi corazón.}
+{129}{}{::solloza descontroladamente durante unos momentos:: Muy bien. Vete. Y que sepas que me has roto el corazón.}
 {130}{}{Nos vemos, perdedor.}
 {131}{}{Es rubia, sexy, y tiene la mejor voz para cantar... La última vez que la vi estaba paseándose por esta zona. No le gustan los mutantes ni los necrófagos, por lo que no habrá estado cerca de uno de ellos. Nadie sabe a dónde fue. Ha desaparecido.}
 {132}{}{Eso debería ser suficiente.}
@@ -42,7 +42,7 @@
 {141}{}{¿Era una cachonda sin piernas?}
 {142}{}{Encontré un grupo de personas muertas en los túneles bajo la ciudad. Ella estaba entre ellas. Lo siento.}
 {143}{}{¿Que? ¡No! ¡Tenía unas piernas estupendas!}
-{144}{}{Oh. A la derecha. Bueno, ella no tiene buenas piernas ahora. Ella realmente tiene agredida, y las piernas están FUERA. Ella estaba totalmente muerto, y ella sufrió antes de morir.}
+{144}{}{Oh. Vale. Bueno, ya no tiene esas estupendas piernas. Fue atacada despiadadamente, y PERDIÓ las piernas. Está totalmente muerta, y sufrió antes de morir.}
 {145}{}{Vale. Bueno, creo que la encontré en los túneles bajo la ciudad. Está muerta. Lo siento mucho.}
 {146}{}{Gracias por decírmelo. Creo que voy a llorar.}
 {147}{}{Sí, ve a llorar, nenaza perdedora.}

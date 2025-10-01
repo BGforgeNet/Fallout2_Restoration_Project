@@ -165,7 +165,7 @@
 {462}{}{I was wondering if I could ask you a couple questions.}
 {463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
 {464}{}{[[Smile seductively] Yeah, big guy. I need something, alright. [Wink.]}
-{470}{}{Of course.}
+{470}{}{Självklart.}
 {471}{}{You look like you've been through a lot. I was wondering what your story is.}
 {472}{}{What could you tell me about this village?}
 {473}{}{Is there anything going on here I could help you with?}
@@ -197,7 +197,7 @@
 {522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
 {530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
 {531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}
-{532}{}{Sure. What do you need?}
+{532}{}{Visst. Vad behöver du?}
 {533}{}{Sorry, I'm busy now. Perhaps later.}
 {540}{}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled up until I know what's going on. So, will you seek them out for me?}
 {541}{}{Alright, but where should I look?}

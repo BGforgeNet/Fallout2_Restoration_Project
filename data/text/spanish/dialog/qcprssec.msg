@@ -4,7 +4,7 @@
 {103}{}{¿Sí? ¿Qué buscas, cariño?}
 {104}{}{Otra vez no, acabo de limpiar el vestido.}
 {105}{}{Entonces, ¿qué está dispuesto a hacer el Señor Importante?}
-{106}{}{Ellos no lo llaman *Dick* Richardson para nuthin'.}
+{106}{}{Por algo lo llaman *Dick* Richardson.}
 {107}{}{Yo también sé mecanografiar.}
 {108}{}{Deberías llamar antes de entrar de ese modo.}
 {109}{}{Necesito un elixir bucal.}

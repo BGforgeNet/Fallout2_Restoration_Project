@@ -18,7 +18,7 @@
 {114}{}{Marcus me dijo que los sospechosos Chad de rozar algunos de la caravana de dinero que se supone que se va a Broken Hills.
  Yo le dije que iba a mirar en él.}
 {115}{}{Gracias. Adiós.}
-{116}{}{Gracias. Estoy seguro de que me alegro de que haya terminado. Mejor ver su espalda, aunque.}
+{116}{}{Gracias. Estoy muy contento de que haya terminado. Pero será mejor que vigiles tu espalda.}
 {117}{}{Adiós.}
 {118}{}{¡Es la enemiga! ¡Muere!}
 {119}{}{Ups.}
@@ -26,7 +26,7 @@
  Gecko, y escuché a Chad discutiendo con su ghoul rep. Al parecer, Roto Colinas que se acababan de levantar el
  precio del uranio, y el demonio no estaba demasiado feliz por eso. Entonces oigo el Chad explicarle nuestro suministro de uranio fue
  baja debido a una reciente mineros en huelga, pero la cosa es que nunca hubo una huelga.}
-{121}{}{De verdad? Entonces, ¿por qué no informan de que a Marcus?}
+{121}{}{De verdad? Entonces por qué no se lo dijiste a Marcus?}
 {122}{}{Está usted loco? Chad es un tipo poderoso en esta ciudad, y él tiene un montón de amigos. Si yo trato a la rata de él, hay un montón de gente que gusta de mí. El infierno, que incluso podría morir.}
 {123}{}{Hmm, entonces tal vez yo podría decir algo a Marcus. No pienso quedarme por aquí mucho tiempo más, de todos modos.}
 {124}{}{Hola, haces lo que tienes que hacer, simplemente no me llevan a ti. De hecho, nunca hemos tenido esta conversación, OK?}

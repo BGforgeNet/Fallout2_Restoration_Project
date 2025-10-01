@@ -832,7 +832,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {825}{}{Ja.}
 {826}{}{Nej.}
 {827}{}{Certainly.}
-{828}{}{Of course.}
+{828}{}{Självklart.}
 {829}{}{Correct.}
 {830}{}{Exactly.}
 {831}{}{Just det.}

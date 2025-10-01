@@ -64,31 +64,31 @@
  inte slösa mer tid.}
 {193}{}{Jag ska hitta den, oroa er inte.}
 {194}{}{Jag börjar bli trött på ditt ständiga tjat.}
-{195}{}{Well, why are you talking to me? Talk to them, and get the GECK.}
-{196}{}{I will -- all in good time, my friend.}
+{195}{}{Varför pratar du med mig? Prata med dem, och hämta GECK:en.}
+{196}{}{Det ska jag göra -- allt i sinom tid, min vän.}
 {197}{}{Jag börjar bli trött på ditt ständiga tjat.}
-{198}{}{What news of the GECK, Chosen One?}
-{199}{}{I have found the vault!}
-{200}{}{I have not been able to find Vault 13.}
-{201}{}{Well, look, it's the Chosen One.}
+{198}{}{Vad nytt om GECK:en, Utvalde?}
+{199}{}{Jag har hittat valvet!}
+{200}{}{Jag har inte lyckats hitta Valv 13.}
+{201}{}{Ser man på, det är ju Den Utvalde.}
 {202}{}{Hej.}
-{203}{}{Shut up.}
-{204}{}{Can I ask you a question?}
-{205}{}{No, I've no time for you.}
-{206}{}{Whatever. Good bye.}
-{207}{}{Oh well. See you around.}
-{208}{}{Go die.}
-{209}{}{Greetings, dull one! See bridge? You cross, you be careful.
- Bridge dangerous. You not want to fall. Okay?}
-{210}{}{Umm... Hunh?}
-{211}{}{Wretch! You have failed the village!}
-{212}{}{You betray us. For that you'll die!}
-{213}{}{You are a traitor to your own people.}
-{214}{}{Why do you do this?}
-{215}{}{The Elder was wrong. You are evil.}
-{300}{}{My father taught me how to make stronger blades than most. Get me a piece
- of flint and I'll fix your spear, too. You'll need it in the wilderness.}
-{301}{}{Where would I get some of this flint?}
+{203}{}{Håll tyst.}
+{204}{}{Får jag ställa en fråga?}
+{205}{}{Nej, jag har inte tid med dig.}
+{206}{}{Visst. Adjö.}
+{207}{}{Nåväl. Vi ses.}
+{208}{}{Gå och dö.}
+{209}{}{Var hälsad, ers tröghet! Se bro? Du korsa, du var försiktig.
+ Bro farlig. Du inte vill falla. Okej?}
+{210}{}{Ehh... Hunh?}
+{211}{}{Din usling! Du har svikit byn!}
+{212}{}{Du förråder oss. För det kommer du att dö!}
+{213}{}{Du är en förrädare mot ditt eget folk.}
+{214}{}{Varför gör du så här?}
+{215}{}{Den Äldste hade fel. Du är ond.}
+{300}{}{Min far lärde mig att göra starkare blad än de flesta. Ge mig en bit
+ flinta så lagar jag ditt spjut också. Du kommer att behöva det i vildmarken.}
+{301}{}{Var skulle jag få tag på den här flintstenen?}
 {302}{}{They say your Aunt Morlis has been hoarding a piece. She's so
  ill-tempered I don't think anyone's asked her. Of course, the witch will want
  something in return.}
