@@ -1,4 +1,4 @@
-{100}{}{You see a Khan raider.}
+{100}{}{Du ser en Khan-plundare.}
 {101}{}{Du ser Phil, en Khanvakt.}
 {102}{}{Du ser en tuff ung man i metallrustning. Han är tungt beväpnad.}
 {103}{}{Jag borde skjuta ihjäl dig, men jag är lite nyfiken på vad du kan tänkas ha att säga till

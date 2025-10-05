@@ -1,14 +1,14 @@
-{100}{}{You see a hunched over old man.}
-{101}{}{The decrepit old man reeks of sweat and possibly urine. He's garbed in tattered, muddy rags, and is carrying a shovel.}
-{102}{}{You see Tom.}
-{200}{}{[The old man jolts with surprise when he sees you approach.] Uh, look, I really must be going...}
-{201}{}{Now you hold on a minute. [You grab the man by the arm as he begins to walk away.] Who are you, and what are you
- doing here at this hour?}
-{202}{}{What? Why, uh... the name's Tom and can't an old man enjoy a nightly stroll anymore without getting asked a bunch of
- questions?}
-{203}{}{Not when he's slinking around like a thief and carrying a shovel.}
-{204}{}{Alright fine, but why are you carrying a shovel?}
-{205}{}{Whatever, I'm out of here.}
+{100}{}{Du ser en krumbuktande gammal man.}
+{101}{}{Den skröplige gamle mannen stinker av svett och möjligen urin. Han är klädd i slitna, leriga trasor och bär på en spade.}
+{102}{}{Du ser Tom.}
+{200}{}{[Den gamle mannen hoppar till av förvåning när han ser dig komma närmare.] Eh, Jag måste verkligen gå...}
+{201}{}{Nu får du vänta lite. [Du tar tag i mannens arm när han börjar gå iväg.] Vem är du, och vad gör du
+ här vid denna tid?}
+{202}{}{Va? Varför? Eh... jag heter Tom... och kan inte en gammal man få njuta av en nattlig promenad längre utan att få en massa
+ frågor?}
+{203}{}{Inte när han smyger runt som en tjuv och bär på en spade.}
+{204}{}{Okej, visst, men varför bär du runt på en spade?}
+{205}{}{Hur som helst, jag ska vidare.}
 {206}{}{Nevermind. Sorry to bother you.}
 {207}{}{You mean this ol' thing? [He glances down at the rusty shovel in his hands.] Well, uh, you never know when you
  might find something that needs digging up. Always be prepared I say.}

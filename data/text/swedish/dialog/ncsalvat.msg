@@ -5,7 +5,7 @@
  to have difficulty breathing.}
 {200}{}{*Host*}
 {201}{}{::Wheeze::}
-{202}{}{*Cough* *Cough*}
+{202}{}{*Host* *Host*}
 {210}{}{Guards! Gu...*cough* *cough*...Guards!}
 {215}{}{(Salvatore turns to you with a stone-faced expression. He studies you for a fraction
  of a second, then makes a strange motion with his hand. Instantly, an alarm rings throughout the casino.)}

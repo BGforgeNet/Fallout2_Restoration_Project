@@ -1,4 +1,4 @@
 {100}{}{Du ser en hund.}
-{101}{}{You see Darion's dog.}
-{102}{}{You see an animal with a lot of fur and four legs. If a dog could grin evilly, you would swear
- this one is doing it.}
+{101}{}{Du ser Darions hund.}
+{102}{}{Du ser ett djur med mycket päls och fyra ben. Om en hund kunde flina ondskefullt, skulle du svära
+ på att den här gör det.}

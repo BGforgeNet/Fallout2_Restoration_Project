@@ -5,7 +5,7 @@
 {201}{}{That does not... belong to you.}
 {202}{}{Touch that again, and you shall... die on Golgotha.}
 {210}{}{::Wheeze::}
-{211}{}{*Cough* *Cough*}
+{211}{}{*Host* *Host*}
 {212}{}{::Wipes sweat from forehead.::}
 {220}{}{You are the... *cough*... most valued of my men.}
 {221}{}{Are the people of Reno showing you... *cough*... proper respect?}

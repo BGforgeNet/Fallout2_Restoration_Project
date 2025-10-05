@@ -21,9 +21,9 @@
 {400}{}{Vad mer skulle du vilja veta?}
 {401}{}{Vad kan du berätta om Klostret?}
 {402}{}{Do you know anything about a Garden of Eden Creation Kit?}
-{500}{}{Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
- in the monastery's computers. Unfortunately for you, those monks are real protective of their information--afraid that it'll
- lead to another war or something if people learn too much. Still, it might be worth asking around there.}
+{500}{}{Ledsen, jag har aldrig hört talas om det. Men om det har att göra med förkrigstiden, så slår jag vad om att det finns något om det
+ i Klostrets datorer. Oturligt nog för dig, så är de där munkarna väldigt rädda om sin information--förskräckta att det ska
+ leda till ett nytt krig eller något liknande om folk lär sig för mycket. Men det kan ändå vara värt att fråga runt där.}
 {501}{}{Tack, jag ska göra det. Jag har dock några fler frågor.}
 {502}{}{Tack för tipset. Jag ska gå och kolla upp det direkt.}
 {600}{}{Skickade broder Samuel hit dig? Vad håller den där fyllbulten på med?}

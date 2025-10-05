@@ -1,7 +1,7 @@
 {100}{}{Du ser Abboten, Klostrets andlige ledare.}
 {101}{}{Det är något med den här munken som får dig att tro att han är ganska viktig.}
 {200}{}{Välkommen resenär.}
-{201}{}{Peace to you.}
+{201}{}{Frid vare med dig.}
 {202}{}{Vi är kunskapens väktare.}
 {203}{}{I'm sorry, but knowledge of our books is of no use to you.}
 {300}{}{Welcome to the Abbey, traveler. How can I help you?}
