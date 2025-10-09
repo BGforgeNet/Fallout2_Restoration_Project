@@ -1,4 +1,4 @@
-{100}{}{You see a Khan raider.}
+{100}{}{Du ser en Khan-plundare.}
 {101}{}{Du ser Karla, en Khan.}
 {102}{}{Du ser en tuff kvinna i metallrustning. Hon skulle vara söt, om det inte vore för ärren
  som kantar hennes ansikte.}

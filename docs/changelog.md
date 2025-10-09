@@ -7,6 +7,7 @@
 
 ---
 
+- [Version 34](#version-34)
 - [Version 33](#version-33)
 - [Version 32](#version-32)
 - [Version 30](#version-30)
@@ -41,6 +42,11 @@
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
+### Version 34
+
+(AKA 2.3.34, 2.4.34)
+
+All the same fixes as in [UPU v34](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md#version-34).
 
 ### Version 33
 

@@ -1,3 +1,3 @@
 {100}{}{Du ser en vakt.}
-{101}{}{You see one of Darion's personal guards.}
-{102}{}{He has armor, weapons, and a bad attitude - not the type of guy who likes your company.}
+{101}{}{Du ser en av Darions personliga vakter.}
+{102}{}{Han har rustning, vapen och en dålig attityd - inte den sortens snubbe som gillar ditt sällskap.}

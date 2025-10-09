@@ -57,9 +57,9 @@
  this trail. Other than that, I don't know what's going on around here. I had a daughter once, though,
  and... yeah, some guy went by here. I let him through because he knew the proper sign... just like the
  sign you gave me. Go on. I'm outta here. }
-{153}{}{Thanks. Me no forget this, Dalia.}
-{154}{}{Thanks. I won't forget this, Dalia.}
-{155}{}{Then go the hell away and leave me be!}
+{153}{}{Tack. Jag inte glömma det här, Dalia.}
+{154}{}{Tack. Jag kommer inte att glömma det här, Dalia.}
+{155}{}{Dra åt helvete då och låt mig vara!}
 {156}{}{Färdigt.}
-{157}{}{Then go the hell away and leave me be!}
+{157}{}{Dra åt helvete då och låt mig vara!}
 {158}{}{Färdigt.}

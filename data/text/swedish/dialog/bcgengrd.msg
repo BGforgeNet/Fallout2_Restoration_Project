@@ -1,35 +1,35 @@
-{100}{}{You see a Khan raider.}
-{101}{}{You see a Khan raider.}
-{102}{}{You see a tough looking person with armor, weapons, and a bad attitude. It must be a Khan.}
-{103}{}{What the... I don't think I know you. Who the hell are you?}
-{104}{}{I got my ID right here! Let me show ya.}
-{105}{}{The name's... umm... Pat, and I'm new here.}
-{106}{}{All right, wise-ass. Take your best shot.}
-{107}{}{Oh yeah. Sorry. Didn't recognize you at first. Go on about your business.}
-{108}{}{Hey, I'm not as stupid as you look.}
-{109}{}{You're not dead yet? Shit.}
-{110}{}{Man, Darion doesn't pay me enough to stand around here and do nothing.}
-{111}{}{Sometimes I sit and think about absolutely nothing.}
-{112}{}{I generally don't care what anyone else thinks.}
-{113}{}{Ignorance is bliss... I think.}
-{114}{}{When's the next caravan passing through? I could use some action.}
-{115}{}{I could use a break.}
-{116}{}{Damn, I still hurt from that bitch Chrissy kicking me.}
+{100}{}{Du ser en Khan-plundare.}
+{101}{}{Du ser en Khan-plundare.}
+{102}{}{Du ser en tuff person med rustning, vapen och en dålig attityd. Det måste vara en Khan.}
+{103}{}{Vad i...? Jag tror inte att jag känner dig. Vem fan är du?}
+{104}{}{Jag har mitt ID här! Jag ska visa dig.}
+{105}{}{Jag heter... ehh... Pat, och jag är ny här.}
+{106}{}{Okej, lustigkurre. Gör ett bra försök.}
+{107}{}{Jaha. Jag är ledsen. Kände inte igen dig först. Fortsätt med vad du höll på med.}
+{108}{}{Jag är inte så dum som du ser ut.}
+{109}{}{Är du inte död än? Skit också.}
+{110}{}{Asså, Darion betalar mig inte tillräckligt för att bara stå här och inte göra något.}
+{111}{}{Ibland sitter jag och tänker på absolut ingenting.}
+{112}{}{Jag bryr mig i allmänhet inte om vad någon annan tycker.}
+{113}{}{Okunnighet är lycka... tror jag.}
+{114}{}{När passerar nästa karavan? Jag skulle behöva lite mer spänning.}
+{115}{}{Jag skulle behöva en rast.}
+{116}{}{Fan, jag har fortfarande ont efter att den där slynan Chrissy sparkade mig.}
 {117}{}{Hey, we never get any new blood around here.}
-{118}{}{So when are we going to get out of this stupid place?}
-{119}{}{I don't know about you, but I think this sucks.}
-{120}{}{There ain't nothin' to kill around here.}
-{121}{}{Where's the damn bathroom?}
-{122}{}{Hey, we never get a break around here. Isn't there some law or something?}
-{123}{}{We should start up a government like in the old days.}
-{124}{}{Man, I wonder what it was like to be President back then?}
-{125}{}{I bet you could do anything you wanted if you were President.}
-{126}{}{I think my father would be proud of me today. Too bad I killed him.}
-{127}{}{I HATE RATS! HATE HATE HATE!}
-{128}{}{Hey, is that new armor you have on? How do you rate getting new armor?}
-{129}{}{This damn vault smells. Don't you hate it?}
-{130}{}{Hey, who is it we're supposed to be keeping an eye open for?}
-{131}{}{All I do is stand, stand, stand.}
+{118}{}{När ska vi dra iväg från det här dumma stället?}
+{119}{}{Jag vet inte vad du tycker, men jag tycker att det här suger.}
+{120}{}{De' e ju inge' att döda härikring.}
+{121}{}{Var fan är toaletten?}
+{122}{}{Vi får aldrig nån rast här. Finns det ingen lag eller nåt?}
+{123}{}{Vi borde starta en regering som förr i tiden.}
+{124}{}{Asså, jag undrar hur det var att vara president på den tiden?}
+{125}{}{Jag slår vad om att du skulle kunna göra vad du ville om du var president.}
+{126}{}{Jag tror att min pappa skulle vara stolt över mig idag. Synd att jag dödade honom.}
+{127}{}{JAG HATAR RÅTTOR! HATAR HATAR HATAR!}
+{128}{}{Är det ny rustning du har på dig? Vad tycker du om att ha ny rustning?}
+{129}{}{Det här jäkla valvet stinker. Visst hatar du det?}
+{130}{}{Hörru, vem är det vi ska hålla ögonen öppna efter?}
+{131}{}{Allt jag gör är att stå, stå, stå.}
 {132}{}{I think we should just waste everyone upstairs and say to hell with this place.}
 {133}{}{What the hell is your problem with rats?}
 {134}{}{Have you ever pulled one of the legs off of a rat?}

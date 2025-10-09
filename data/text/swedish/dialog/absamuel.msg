@@ -44,11 +44,11 @@
 {502}{}{[He grins, revealing a gap filled set of rotten teeth.] Well, *hickup* let's just say that th' other monks don't
  take *hickup* too kindly to my, uh, drinking habits.}
 {503}{}{Makes sense I guess. I got some more questions.}
-{504}{}{I guess so. See you around Sammy.}
-{505}{}{I see. Look I must be going.}
-{600}{}{Hmm... *hickup* lemme... lemme tink a minute. Yeah, I might got somethin, if yer up to it.}
-{601}{}{Uh, nevermind Sam. I must be going now.}
-{602}{}{Sure Sam, what do you need?}
+{504}{}{Jag antar det. Vi ses, Sammy.}
+{505}{}{Jag förstår. Jag måste gå nu.}
+{600}{}{Hmm... *Hick* lå' me t'nka lite. Ja, jag kanske har nåt, om du ä' sugen på de'.}
+{601}{}{Eh, glöm det, Sam. Jag måste gå nu.}
+{602}{}{Visst, Sam, vad behöver du?}
 {603}{}{Well, th' past coupla days I've *hickup* noticed some of these graves are bein dug up. Now, whoever's doin this
  don't appear to be gettin that far, but it's a *hickup* a pain fer me to fill 'em back up.}
 {604}{}{Hmm, well did you try and figure out who has been doing this?}
@@ -67,9 +67,9 @@
 {703}{}{Well, take care then.}
 {704}{}{I don't think open graves are the real reason you're falling down Samuel, but you take it easy now.}
 {1000}{}{*Vissling*}
-{1001}{}{*Cough* *Cough*}
-{1002}{}{*Clears throat*}
+{1001}{}{*Host* *Host*}
+{1002}{}{*Rensar halsen*}
 {1003}{}{*Host*}
 {1004}{}{*Suck*}
 {1005}{}{*Hick*}
-{2000}{}{It's been a *hickup* long day. Come back in th' morning.}
+{2000}{}{Det har varit en *hick* lång dag. Kom te'baks imorrn.}

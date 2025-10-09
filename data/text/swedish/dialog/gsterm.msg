@@ -83,7 +83,7 @@
 {304}{}{Hoppsan.}
 {305}{}{I better be more careful.}
 {306}{}{I better not make a mistake this time.}
-{307}{}{That doesn't sound good.}
+{307}{}{Det låter inte bra.}
 {308}{}{Logga ut.}
 {310}{}{Enter Secondary Security Access Code Sequence: 70Y644, 008Z21, 9X7299, A46123.}
 {311}{}{70Y644}
