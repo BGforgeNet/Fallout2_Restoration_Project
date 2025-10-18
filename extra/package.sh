@@ -77,6 +77,9 @@ cd ..
 # ammo mod from sfall
 "$extra_dir"/package/ammo.sh
 
+# hi-res patch files
+"$extra_dir"/package/f2_res.sh
+
 # manual package: linux/mac os
 pushd .
 # shellcheck disable=SC2154  # from env.sh

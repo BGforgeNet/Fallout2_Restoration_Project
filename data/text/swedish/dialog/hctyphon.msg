@@ -102,7 +102,7 @@
 {200}{}{That's a bit vague, but thanks. See ya.}
 {201}{}{You find that treasure yet, kid?}
 {202}{}{Nuh uh.}
-{203}{}{Not yet.}
+{203}{}{Inte än.}
 {204}{}{Nope. I had some questions.}
 {205}{}{Nope. Bye.}
 {206}{}{Well, keep lookin'. You're bound to get it eventually.}

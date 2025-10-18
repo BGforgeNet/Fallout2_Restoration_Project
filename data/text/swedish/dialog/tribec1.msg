@@ -115,7 +115,7 @@
 {372}{}{Alright, but give me a moment to get ready.}
 {373}{}{Not interested. Bye.}
 {375}{}{Are you ready to go?}
-{376}{}{Not yet.}
+{376}{}{Inte än.}
 {377}{}{Alright. Let's do this.}
 {380}{}{It's up to you to decide.}
 {390}{}{[Krom examines one of the tribe's newly acquired stimpaks.] These should prove to be quite useful. [He brings

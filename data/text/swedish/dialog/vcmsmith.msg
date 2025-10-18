@@ -15,7 +15,7 @@
 {112}{}{Varför är du inte i stan?}
 {113}{}{What do you do here?}
 {114}{}{Can I ask you something else?}
-{115}{}{Thanks. Goodbye.}
+{115}{}{Tack. Hej då.}
 {116}{}{Min familj och jag arbetar på en gård här på Innergården. Vi klarar oss. Vet inte
  för hur länge, dock.}
 {117}{}{What's the problem?}
@@ -44,7 +44,7 @@
  skydd från Valvstaden.}
 {136}{}{Vilken typ av skydd?}
 {137}{}{Can I ask you something else?}
-{138}{}{Thanks. Goodbye.}
+{138}{}{Tack. Hej då.}
 {139}{}{They keep us safe from the outside, but it costs me and the wife quite
  a bit. And without a plow... well, making ends meet is difficult.}
 {140}{}{Can I help with the plow?}

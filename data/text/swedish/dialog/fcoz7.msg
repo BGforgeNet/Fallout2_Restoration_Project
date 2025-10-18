@@ -82,7 +82,7 @@
 {181}{}{Will do. I have more questions.}
 {182}{}{Sure thing. Bye.}
 {183}{}{Have you removed the Emperor's oppressive stain from this material existence?}
-{184}{}{Not yet.}
+{184}{}{Inte än.}
 {185}{}{Yes, AHS-7. He is dead.}
 {186}{}{The de facto leader of the Tanker vagrants is a piece of anti-therapeutic raw meat named Badger. With his death, they will come to understand our position. Will you remove him?}
 {187}{}{I'll do it.}
@@ -91,7 +91,7 @@
 {190}{}{I'll do it.}
 {191}{}{I'd still rather not.}
 {192}{}{Have you removed this "Badger"?}
-{193}{}{Not yet.}
+{193}{}{Inte än.}
 {194}{}{Yes. He's gone.}
 {195}{}{His people shall embrace the Hub! All will be well! You have performed a great service!}
 {196}{}{Thanks! I have more questions.}

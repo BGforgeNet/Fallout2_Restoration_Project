@@ -23,7 +23,7 @@
 {216}{}{I got the keys. Time to get you out of here.}
 {217}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. Who be... Sulik? Do the spirits be teasing, or is that really you, brother?}
 {218}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. And I sense you be the one sending em. What you be needin', Ghost-maker?}
-{219}{}{I've come to rescue you.}
+{219}{}{Jag har kommit för att rädda dig.}
 {221}{}{Praise the spirits! Please, you needin' to get us out of cage. Away from this evil place.}
 {222}{}{Spirits praise you! Now I must go and return to my people. Long have I been missed. Please, stop by my village. It be near the Great Salt Water, a few days south west of here. Thank you, fren.}
 {223}{}{[Sulik rushes to the gate door and clasps the outstretched hands of his sister. You turn away to give some privacy to their emotional reunion. Moments later, his sister turns to you.] Bonespirits say you be leading Sulik. Name's Kurisu, but now not the time for proper greetin'. The Slavers, they be dead, yes?}

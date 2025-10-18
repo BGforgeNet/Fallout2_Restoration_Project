@@ -38,7 +38,7 @@
 {181}{}{A quest?}
 {190}{}{I just handle the rooms here. If you want to buy or trade something, talk to my daughter, Maida.}
 {191}{}{Oh, I see. Tell me something else then.}
-{192}{}{Thanks. Goodbye.}
+{192}{}{Tack. Hej då.}
 {200}{}{We're pretty full right now. Sorry.}
 {201}{}{Well, let's see here. We should have a room available. That will be $25.}
 {202}{}{I'll take it. Here's the $25. Thanks.}
@@ -77,7 +77,7 @@
 {270}{}{I just don't know what to think. My boy Torr's missing. I sure wish someone would help me find
  him. He's never been gone from home so long before.}
 {271}{}{Torr?}
-{272}{}{What happened?}
+{272}{}{Vad hände?}
 {273}{}{That's nice, lady, but I need something from you.}
 {274}{}{Well, I can tell you're busy. I'll come back later. Goodbye.}
 {280}{}{He took off last night. I got mad at him after we lost those last few brahmin. We just can't

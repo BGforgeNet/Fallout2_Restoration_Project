@@ -66,7 +66,7 @@
 {390}{}{So did you find out what's in there?}
 {391}{}{Raw chemical compounds in large crates.}
 {392}{}{Big containers holding chemicals of some kind.}
-{393}{}{Not yet.}
+{393}{}{Inte än.}
 {400}{}{So did you talk to him yet? What did he say?}
 {401}{}{He said yes. If you win, you can have their job, like before.}
 {402}{}{Na.}

@@ -27,7 +27,7 @@
 {126}{}{Then stop wasting my time, "Citizen." Come on, let's move it.}
 {127}{}{Your business is over for the day. Come on, let's move it.}
 {128}{}{I'm not going anywhere. You try and move me, you'll regret it.}
-{129}{}{All right, I'm going.}
+{129}{}{Okej, jag går nu.}
 {130}{}{Captain. Can I help you... sir?}
 {131}{}{Can I help you, Citizen?}
 {132}{}{Vad vill du?}
@@ -57,7 +57,7 @@
 {156}{}{Raiders?}
 {157}{}{About those Raiders...}
 {158}{}{Can I ask you some questions?}
-{159}{}{Thanks. Goodbye.}
+{159}{}{Tack. Hej då.}
 {160}{}{Permission to speak freely, sir.}
 {161}{}{Granted.}
 {162}{}{No. I had some other questions for you, first.}
@@ -100,7 +100,7 @@
 {199}{}{Can I ask you something else?}
 {200}{}{But I am a Citizen.}
 {201}{}{How do you become a citizen?}
-{202}{}{Thanks. Goodbye.}
+{202}{}{Tack. Hej då.}
 {203}{}{That so? I don't recognize you, and I know every Citizen in Vault City.}
 {204}{}{Here's my papers. I think you'll find everything in order.}
 {205}{}{Uh, never mind. I had some other questions...}
@@ -305,7 +305,7 @@
 {403}{}{You killed all those big ugly rats? Really?}
 {404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
 {405}{}{Ja.}
-{406}{}{Not yet.}
+{406}{}{Inte än.}
 {407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
 {408}{}{They're happy right where they are.}
 {409}{}{Doesn't matter. Will you complete your task or not?}

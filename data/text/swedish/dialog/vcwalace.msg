@@ -237,7 +237,7 @@
  Here you go. The pass is only good during the day; at night you will be asked to leave. Now go.}
 {329}{}{Before I leave, can I ask you another question?}
 {330}{}{I'll go do that.}
-{331}{}{Thanks. Goodbye.}
+{331}{}{Tack. Hej då.}
 {332}{}{Oh, uh, that's not my place to say. You'd have to speak with the First Citizen about such matters.}
 {333}{}{What were you saying about NCR?}
 {334}{}{What were you saying about raiders?}

@@ -6,7 +6,7 @@
 {104}{}{Doi?}
 {105}{}{!}
 {106}{}{.}
-{107}{}{None of your business, pal.}
+{107}{}{Det har du inte med att göra, kompis.}
 {108}{}{Well, I'm kind of undercover right now.}
 {109}{}{Doi's your name? Ha! Just kidding, pal. Here. Have a Nuka-Cola. Try not to disturb the other
  customers.}

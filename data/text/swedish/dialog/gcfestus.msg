@@ -148,7 +148,7 @@
 {450}{}{Well, okay. Here's your Part Requisition Form. I guess you have your reasons for needing it.}
 {451}{}{Well, okay. Here's your... Hey? Where'd I put that darn thing? It must be here somewhere... Hmm, I guess
  I can't find it right now. It'll turn up, though.}
-{452}{}{Thanks. Goodbye.}
+{452}{}{Tack. Hej då.}
 {453}{}{Oh, well. Maybe I'll come back later, then. Goodbye.}
 {460}{}{I don't care what you want. Those Part Requisition Forms are for official business only. They
  only entrust them to key personnel. That's why I have them. Get me? Key personnel, only. }

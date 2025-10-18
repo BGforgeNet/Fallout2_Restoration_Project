@@ -372,7 +372,7 @@
  in your eye.}
 {735}{}{(Her expression crumbles for a moment, then she rolls over so you can't see her.)
  Don't mention that place.}
-{736}{}{What happened?}
+{736}{}{Vad hände?}
 {740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so... rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
 {741}{}{Och?}
 {745}{}{They had memory enhancers for the Pip-Boys there. Had dictionaries

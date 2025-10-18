@@ -57,7 +57,7 @@
 {152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
  stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
  in or around the bar. He'll know what to do.}
-{153}{}{I'm on my way.}
+{153}{}{Jag är på väg.}
 {154}{}{Can I ask you a few questions?}
 {155}{}{Certainly, what's on your mind?}
 {156}{}{Where did these mole rats come from, and why aren't they aggressive?}

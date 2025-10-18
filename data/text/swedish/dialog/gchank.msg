@@ -39,7 +39,7 @@
 {173}{}{Not yet. Maybe I'll go do that now. Goodbye.}
 {180}{}{Festus is out the way you came in. He's in the control room. Can't miss him... he's the smelly,
  whiny one tottering about underneath that huge ego. He should be able to help you.}
-{181}{}{Thanks. Goodbye.}
+{181}{}{Tack. Hej då.}
 {190}{}{Well, if you could control the maintenance robot, it might be able to install it. Or, you could
  just walk in there and install it yourself.}
 {191}{}{Maintenance robot?}
@@ -47,7 +47,7 @@
 {200}{}{Well, it hasn't worked too well, lately. It kept overheating. We don't need to use it anyway, so
  we didn't bother to fix the heat shielding on it. If you can figure out the control codes and don't run
  it for too long, you may be able to get it to do what you want.}
-{201}{}{Thanks. Goodbye.}
+{201}{}{Tack. Hej då.}
 {210}{}{Thanks for fixing the reactor.}
 {211}{}{Is it cooler in here lately?}
 {212}{}{Thanks for helping us out.}

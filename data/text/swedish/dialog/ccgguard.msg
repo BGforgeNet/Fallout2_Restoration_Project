@@ -41,7 +41,7 @@
 {140}{gate10}{This is your final warning. I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
 {141}{}{Ok, me go again...}
 {142}{}{In words of ancients... Fuck you!}
-{143}{}{All right, I'm going.}
+{143}{}{Okej, jag går nu.}
 {144}{}{In the words of the ancients... Fuck you!}
 {145}{gate11a}{Halt! -- You again? You were warned. Alarm! Intruder at the gate! }
 {146}{}{Förbannat!}

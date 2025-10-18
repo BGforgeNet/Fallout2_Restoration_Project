@@ -160,7 +160,7 @@
 {259}{}{ guy.}
 {260}{}{ chick.}
 {261}{}{A Hubologist is a nut-case religious fanatic. It can be found at the church in town.}
-{262}{}{I'm on my way.}
+{262}{}{Jag är på väg.}
 {263}{}{I'm not talking to you until the job's done! I need those papers from Dr. Henry's place, pronto.}
 {264}{}{No, but I need some information.}
 {265}{}{I know Lenny's death ain't no accident, you bastard.}

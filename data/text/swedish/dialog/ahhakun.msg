@@ -147,7 +147,7 @@
 {246}{hak035}{Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...}
 {247}{hak101}{Chosen - the shadow of darkness arrived before you.}
 {248}{}{Ajjjj!}
-{249}{}{What happened?}
+{249}{}{Vad hände?}
 {250}{}{You look bad. Let me help.}
 {251}{hak102}{Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.}
 {252}{}{Ehhh?}
@@ -187,7 +187,7 @@
 {286}{hak120}{Ett hav av tårar, gråtit av en mor för sina barn.}
 {287}{}{Åh, havet. Men vad skall jag göra?}
 {288}{hak121}{En märklig dimma stal deras sinnen och skickade dem till Sömnens land. De onda vandrade bland drömmare, men drömde inte.}
-{289}{}{And then?}
+{289}{}{Och sedan?}
 {290}{hak122}{För många årstider och för många sår, Utvalde. Istället måste du lyssna.}
 {291}{}{Okej.}
 {300}{}{De som stjäl bär på en stor börda. Kom ihåg detta, Utvalde.}

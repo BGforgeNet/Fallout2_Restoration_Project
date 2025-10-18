@@ -40,7 +40,7 @@
  prat om kommande svåra tider.}
 {202}{}{Jag fortfarande letar, Nagor.}
 {203}{}{Jag letar fortfarande, kusin.}
-{204}{}{Välkommen hem, kusin. Det börjar bli lite tufft här. Har du hittat den heliga
+{204}{}{Välkommen hem, kusin. Det börjar bli lite tufft här. Har du hittat det heliga
  Tretton och GECK?}
 {206}{}{Jag inte hitta. Ledsen.}
 {207}{}{Jag är ledsen, Nagor. Jag letar fortfarande.}

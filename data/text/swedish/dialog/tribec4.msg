@@ -15,7 +15,7 @@
 {221}{}{Hold on there, Captain Pity. Why don't you tell me how exactly you thought I could help you?}
 {222}{}{No. I'm not going to excuse you--I'm going to eliminate you and purge the world of your pathetic existence!}
 {230}{}{Well, up until just recently I was merely the underling of the village shaman. That was easy, I just had to follow his lead. Then he went for a drunken midnight swim in the Great Salt Water and, well, I suddenly found myself promoted. I didn't think it would be so bad. I figured I could just spout off some mystical mumbo-jumbo and everyone would be happy. But no. The very day that I acquire the title of shaman I find myself dealing with something that's way over my head.}
-{231}{}{What happened?}
+{231}{}{Vad hände?}
 {240}{}{There's an *actual* lost spirit roaming the woods just south of the village! It's true, I've seen her with my own eyes--a pretty girl with the blank look of the dead. The sight chilled me to the very core. The moment I saw her I pissed myself and ran as fast as I could. The others expect me to go back and guide her into the mists, but how can I? I'm too petrified to go near her again.}
 {241}{}{So what could I do to help?}
 {242}{}{Unless you got an extra pair of balls laying around that I could pin onto you, I don't know what I could do to help.}

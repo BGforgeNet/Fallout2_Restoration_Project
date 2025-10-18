@@ -17,8 +17,8 @@
 {160}{}{Vad kan du berätta om det här föremålet jag har från
  ett valv?}
 {161}{}{Inget, glöm det.}
-{162}{}{Very well, but don't waste too much time. Without the GECK,
- we're doomed.}
+{162}{}{Nå väl, men slösa inte för mycket tid. Utan GECK,
+ är vi dödsdömda.}
 {163}{}{Jag vet, oroa dig inte -- Jag har allt under kontroll.}
 {164}{}{Varför?}
 {165}{}{Jag måste gå nu. Hej då.}
@@ -92,32 +92,32 @@
 {302}{}{They say your Aunt Morlis has been hoarding a piece. She's so
  ill-tempered I don't think anyone's asked her. Of course, the witch will want
  something in return.}
-{303}{}{Thanks. Goodbye.}
+{303}{}{Tack. Hej då.}
 {304}{}{Did you talk your aunt out of her flint?}
-{305}{}{Yes, I have some right here.}
-{306}{}{Not yet.}
-{307}{}{It's a good piece. Give me your spear.}
+{305}{}{Ja, jag har lite här.}
+{306}{}{Inte än.}
+{307}{}{Det är en bra bit. Ge mig ditt spjut.}
 {308}{}{Varsågod.}
-{309}{}{I guess I don't have one.}
-{310}{}{Now, you put the pieces like so...}
-{311}{}{The Chosen One without a spear? Well, you'll have to take one of
- mine. Now, let's get to work...}
-{312}{}{Here is your new spear.}
-{313}{}{Thank you, my friend -- this will help a lot.}
-{314}{}{Yes, but I was wondering about your spear. It looks a little
- different.}
-{400}{}{Welcome home, Chosen One! Did you find the vault? Have you returned with the GECK?}
-{401}{}{Me not find yet.}
-{402}{}{No, I haven't found it yet.}
-{403}{}{I'm not in the mood for your questions. Goodbye.}
-{404}{}{Things are not going well, Chosen One. The drought is getting worse and our crops are
- sure to fail. We are trying to salvage what we can to build up our food reserves.}
-{405}{}{Why no trade with other villages?}
-{406}{}{Me doing best me can. Me find GECK. Me return.}
-{407}{}{Why can't we trade with other villages for the food we need? }
-{408}{}{I'm doing my best. When I find the GECK I'll return with it.}
-{409}{}{We are a simple people and have little to offer in trade. The few towns that we have
- contacted while you were away have shown no interest in helping us.}
+{309}{}{Jag antar att jag inte har någon.}
+{310}{}{Nu sätter du ihop delarna så här...}
+{311}{}{Den Utvalde utan spjut? Tja, du får ta ett av
+ mina. Låt oss nu sätta igång...}
+{312}{}{Här är ditt nya spjut.}
+{313}{}{Tack, min vän -- det här kommer att hjälpa mycket.}
+{314}{}{Ja, men jag undrade över ditt spjut. Det ser lite
+ annorlunda ut.}
+{400}{}{Välkommen hem, Utvalde! Hittade du valvet? Har du återvänt med GECK?}
+{401}{}{Jag inte hitta än.}
+{402}{}{Nej, jag har inte hittat det än.}
+{403}{}{Jag är inte på humör för dina frågor. Adjö.}
+{404}{}{Det går inte så bra, Utvalde. Torkan blir värre och våra grödor kommer
+ säkert på att vissna. Vi försöker rädda vad vi kan för att bygga upp våra matreserver.}
+{405}{}{Varför inte byta andra byar?}
+{406}{}{Jag göra gott jag kan. Jag hitta GECK. Jag återvända.}
+{407}{}{Varför kan vi inte handla med andra byar för att få den mat vi behöver? }
+{408}{}{Jag gör mitt bästa. När jag hittar GECK kommer jag tillbaka med det.}
+{409}{}{Vi är ett enkelt folk och har inte mycket att erbjuda i handeln. De få städer som vi har
+ kontaktat medan du var borta har inte visat något intresse för att hjälpa oss.}
 {410}{}{Jag fatta.}
 {411}{}{Jag förstår.}
 {412}{}{Du är vårt enda hopp, Utvalde. Snälla, svik oss inte!}
@@ -125,15 +125,15 @@
 {414}{}{Jag fortfarande leta.}
 {415}{}{Jag letar fortfarande.}
 {416}{}{Jag vill inte prata om det.}
-{417}{}{You must hurry. Things are getting worse here at home. Soon there will be little food and
- the Elder speaks of rationing what we have. I fear for the future of Arroyo.}
-{418}{}{Chosen One! Please tell me that you have completed your quest. Our village is dying, and so
- are our people. }
-{419}{}{No, me still look.}
-{420}{}{No, I'm still looking.}
-{421}{}{How are things?}
-{422}{}{I am sorry, Chosen One, but I am beginning to question my faith in you. The very lives of
- our people are in your hands. Please find the holy Thirteen and return to us with the GECK!}
+{417}{}{Du måste skynda. Saker och ting blir värre här hemma. Snart kommer det att finnas lite mat och
+ den Äldste talar om att ransonera det vi har. Jag fruktar för Arroyos framtid.}
+{418}{}{Utvalde! Snälla, säg att du har slutfört ditt uppdrag. Vår by håller på att dö, och så
+ gör vårt folk.}
+{419}{}{Nej, jag fortfarande leta.}
+{420}{}{Nej, jag letar fortfarande.}
+{421}{}{Hur är det?}
+{422}{}{Jag är ledsen, Utvalde, men jag börjar tvivla på mitt förtroende för dig. Självaste livet för
+ vårt folk ligger i dina händer. Snälla, hitta det heliga Tretton och återvänd till oss med GECK!}
 {423}{}{Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night
  allow no one any sleep. We are becoming a desperate people.}
 {424}{}{Me continue look.}
