@@ -5,9 +5,9 @@
 #define version "v0"
 
 [Setup]
-AppName=Fallout 2 Restoration Project
-AppVerName=Fallout 2 Restoration Project {#version}
-AppId=Fallout 2 Restoration Project
+AppName=Fallout 2 Restoration Project, updated
+AppVerName=Fallout 2 Restoration Project, updated {#version}
+AppId=Fallout 2 Restoration Project, updated
 AppPublisher=BGforge
 AppPublisherURL=https://bgforge.net
 AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
