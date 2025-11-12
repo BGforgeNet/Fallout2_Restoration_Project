@@ -14,8 +14,8 @@
 {300}{}{Ingen... Bara en gammal pensionerad karavanvakt. Många människor misstar mig för någon slags sheriff eftersom jag får
  folk att följa lagen häromkring, men det är jag inte. Jag tar bara hand om det här samhället eftersom jag tycker
  att det är värt att skydda.}
-{301}{}{And in return the community looks out for me. I get some complimentary booze from the monks, Peterson makes
- sure I'm fed and Bill makes sure I've got ammo and stims. Not a bad retirement gig, if you ask me.}
+{301}{}{Och i gengäld tar samhället hand om mig. Jag får lite gratis sprit från munkarna, Peterson ser till
+ att jag får mat och Bill ser till att jag har ammunition och stimulanter. Inget dåligt pensionärsjobb, om du frågar mig.}
 {302}{}{Det är jag som håller ordning på dig, och det är allt du behöver veta. Fortsätt nu med dina affärer och lämna mig
  ensam.}
 {303}{}{Det är ett trevligt arrangemang. Låt mig fråga dig något annat.}

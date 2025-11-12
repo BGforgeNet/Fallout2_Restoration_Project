@@ -3,14 +3,14 @@
 {200}{}{Välkommen resenär.}
 {201}{}{Frid vare med dig.}
 {202}{}{Vi är kunskapens väktare.}
-{203}{}{I'm sorry, but knowledge of our books is of no use to you.}
-{300}{}{Welcome to the Abbey, traveler. How can I help you?}
+{203}{}{Jag är ledsen, men kunskap om våra böcker är inte till någon nytta för dig.}
+{300}{}{Välkommen till Klostret, resenär. Hur kan jag hjälpa dig?}
 {301}{}{What can you tell me about your order?}
-{302}{}{Have you ever heard of a device called a GECK?}
-{303}{}{Do you know where I could find Vault 13?}
+{302}{}{Har du någonsin hört talas om en apparat som kallas GECK?}
+{303}{}{Vet du var jag kan hitta Vault 13?}
 {304}{}{Hej då.}
 {400}{}{Vad vill du veta?}
-{401}{}{Okay. I'd like to know something else.}
+{401}{}{Okej. Jag skulle vilja veta något annat.}
 {402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
 {404}{}{Jag vet ingenting om det.}

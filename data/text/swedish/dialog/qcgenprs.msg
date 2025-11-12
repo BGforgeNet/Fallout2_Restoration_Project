@@ -19,7 +19,7 @@
 {118}{}{Are you- are you the Chosen One?}
 {119}{}{You should talk to the Elder.}
 {120}{}{The Elder said you would save us!}
-{121}{}{Have you talked to the Elder yet?}
+{121}{}{Har du pratat med den Äldste än?}
 {122}{}{The Elder's in the first cell. You should talk to her.}
 {123}{}{Talk to the Elder.}
 {124}{}{Free us!}

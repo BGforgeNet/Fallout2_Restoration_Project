@@ -83,5 +83,5 @@
 {180}{}{Don't hurt me.}
 {181}{}{Lämna mig ifred.}
 {182}{}{No! No! No!}
-{183}{}{I'll be going now.}
+{183}{}{Jag ska gå nu.}
 {184}{}{Leave our town!}

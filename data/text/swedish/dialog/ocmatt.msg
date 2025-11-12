@@ -26,7 +26,7 @@
 {123}{}{Me outta here.}
 {124}{}{Varför?}
 {125}{}{Jag förstår.}
-{126}{}{I'll be going now.}
+{126}{}{Jag ska gå nu.}
 {127}{}{Because, unlike the rest of the sheep who live here, I recognize them as a threat to humanity.
  They know that if I get out of here I will see to it that they are wiped off the face of the earth!
  Look: They can think for themselves, they can learn, they can read and even write if they dip a claw

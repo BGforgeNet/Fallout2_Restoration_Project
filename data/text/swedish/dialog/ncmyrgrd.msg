@@ -93,7 +93,7 @@
 {455}{}{You? Ha! Chica, unless Myron suddenly went blind, you ain't going in there. I know his tastes, right?
  He ain't interested in any skanky Jet-begging whore.}
 {457}{}{Look, I'm here to see Myron. I have a badge.}
-{458}{}{I'll be going now.}
+{458}{}{Jag ska gå nu.}
 {465}{}{Oh, sorry. Thought you were someone else. What do you want, chica?}
 {466}{}{What's behind that door?}
 {475}{}{Myron expecting you?}

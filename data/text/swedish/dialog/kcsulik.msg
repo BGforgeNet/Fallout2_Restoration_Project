@@ -61,7 +61,7 @@
 {223}{}{I guess that's all I need to know for now. Goodbye.}
 {230}{slk8}{We and I thank you. Name's Sulik. How can we repay?}
 {231}{}{Eh.}
-{232}{}{Bye bye.}
+{232}{}{Hej då.}
 {233}{}{Who's "we?"}
 {234}{}{I was happy to help, Sulik. Tell me about yourself.}
 {235}{}{How about telling me what's going on in town?}

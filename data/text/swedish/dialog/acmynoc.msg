@@ -136,15 +136,15 @@
  vårt folk ligger i dina händer. Snälla, hitta det heliga Tretton och återvänd till oss med GECK!}
 {423}{}{Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night
  allow no one any sleep. We are becoming a desperate people.}
-{424}{}{Me continue look.}
-{425}{}{I'll do what I can.}
-{426}{}{Once again you return to us, Chosen One. Not empty-handed, I hope?}
-{427}{}{Me sorry, no find GECK yet.}
-{428}{}{I'm sorry, I still haven't found the GECK.}
-{429}{}{I've had enough of this.}
-{430}{}{People are dying here while you stroll about the lands. Perhaps you should be searching
- elsewhere instead of returning here.}
-{500}{}{Have you talked to the Elder yet?}
+{424}{}{Jag fortsätta titta.}
+{425}{}{Jag ska göra vad jag kan.}
+{426}{}{Ännu en gång återvänder du till oss, Utvalde. Inte tomhänt, hoppas jag?}
+{427}{}{Jag ledsen, jag inte hitta GECK än.}
+{428}{}{Jag är ledsen, men jag har fortfarande inte hittat GECK.}
+{429}{}{Jag har fått nog av det här.}
+{430}{}{Folk dör här medan du strosar runt i landet. Du kanske borde söka
+ någon annanstans istället för att återvända hit.}
+{500}{}{Har du pratat med den Äldste än?}
 {600}{}{Any final advice for me before I head out into the unknown?}
 {601}{}{Certainly. Beware the weapons of the Outsiders. The gecko's bite is nothing compared to the destructive power of their boom-sticks.}
 {602}{}{Got it. Anything else?}

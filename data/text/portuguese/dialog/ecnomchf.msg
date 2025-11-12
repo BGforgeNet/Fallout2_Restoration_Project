@@ -23,8 +23,8 @@
 {120}{}{Sai!}
 {121}{}{Deixe-nos.}
 {122}{}{Somos uma tribo pacífica.}
-{200}{}{Ah, um viajante. Eu sinto muito que nós não temos nenhuma tenda a partir do qual você pode tirar a máscara do infinito calor da terra. Descansar um momento, para que possamos conversar.}
-{201}{}{Obrigado; eu graciosamente aceitar a sua oferta.}
-{202}{}{Lamentável. Descansar um momento; você é bem-vindo entre nós.}
-{203}{}{Eu espero que você tenha achado o que você precisava. Mais alguma coisa?}
+{200}{}{Ah, um viajante. Desculpe-me por não termos uma tenda para que você possa se abrigar da sombra desta terra que faz um calor infernal. Descanse um momento para que possamos conversar depois.}
+{201}{}{Obrigado; Aceito generosamente sua oferta.}
+{202}{}{Que pena. Então descanse um pouco; você é bem vindo entre nós.}
+{203}{}{Espero que você encontre o que está procurando. Precisa de mais alguma coisa?}
 {204}{}{Hoje não. Devo estar indo.}

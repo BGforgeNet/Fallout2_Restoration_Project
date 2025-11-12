@@ -10,7 +10,7 @@
 {302}{}{Vad kan du berätta om Klostret?}
 {303}{}{Berätta om er ledare.}
 {304}{}{Do you have any info about a GECK?}
-{305}{}{Do you know where I could find Vault 13?}
+{305}{}{Vet du var jag kan hitta Vault 13?}
 {306}{}{Hej då.}
 {307}{}{Jag behöver lite specifik information.}
 {308}{}{Så som?}

@@ -38,7 +38,7 @@ crudini --merge "$release_ini" <"$custom_ini"
 # set version string
 sed -i "s|^;VersionString=|VersionString=|" "$release_ini"
 # shellcheck disable=SC2154  # from env.sh
-crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02d  RP ${version}"
+crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02d  RPU ${version}"
 # crudini adds spaces arouns the values, need to remove them
 sed -i "s|^\([[:alnum:]]\+\) = |\1=|" "$release_ini"
 # for windows users

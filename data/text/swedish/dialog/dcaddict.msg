@@ -94,13 +94,13 @@
 {376}{}{<cough> <cough> <cough>}
 {377}{}{Ooh, my head!}
 {378}{}{Where'd I put my stash?}
-{400}{}{A demon!}
-{401}{}{The enemy is upon us!}
-{402}{}{You murderer! You killed my son!}
-{403}{}{A monster! Kill it!}
+{400}{}{En demon!}
+{401}{}{Fienden står inför oss!}
+{402}{}{Din mördare! Du dödade min son!}
+{403}{}{Ett monster! Döda det!}
 {404}{}{Ah! Pargasraka!}
 {405}{}{Feet fom chin rat going! Ahhh!}
-{406}{}{You won't take it from me!}
-{407}{}{Give it back!}
+{406}{}{Du kommer inte att ta det från mig!}
+{407}{}{Ge tillbaka den!}
 {408}{}{Nej!!!!}
-{409}{}{My family!}
+{409}{}{Min familj!}

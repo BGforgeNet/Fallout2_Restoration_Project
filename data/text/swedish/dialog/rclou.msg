@@ -20,7 +20,7 @@
 {117}{}{Sorry, I don't have much time or patience for stupid people. What do you want?}
 {118}{}{Grink?}
 {119}{}{Room?}
-{120}{}{Bye bye.}
+{120}{}{Hej då.}
 {121}{}{A drink huh? Well that'll be $25 for a nice cold bottle of beer. I'm giving you the special
  discount price too, 'cause I have a soft spot in my heart for the simple.}
 {122}{}{Grink? (you hold out your purse in your hand)}

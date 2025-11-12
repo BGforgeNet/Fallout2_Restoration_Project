@@ -32,4 +32,4 @@
 {723}{}{Jag inte vill hjälpa.}
 {730}{}{Verkligen? Jättebra! Ge den här maskindelen till Max i kopieringsrummet. Han kan hittas i KÄLLAREN. Okej?}
 {731}{}{Jag inte svika dig!}
-{740}{}{You keep on truckin' now.}
+{740}{}{Knata vidare nu.}

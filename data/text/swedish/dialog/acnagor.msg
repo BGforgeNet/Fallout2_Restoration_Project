@@ -13,8 +13,8 @@
 {109}{}{Visst. Men var är jaktmarkerna?}
 {110}{}{Visst. Jag ska leta efter honom nu.}
 {111}{}{Glöm det, jag har inte tid med det här.}
-{112}{}{What'd you do, get hit in the head with a rock? They're on the far side of
- Hakunin's tent, north of the village.}
+{112}{}{Vad gjorde du, fick du en sten i huvudet? De är på andra sidan av
+ Hakunins tält, norr om byn.}
 {113}{}{Jag kommer snart tillbaka med honom.}
 {114}{}{Har du hittat Smoke än?}
 {115}{}{Nej, inte än. Var sa du att jaktmarkerna fanns?}

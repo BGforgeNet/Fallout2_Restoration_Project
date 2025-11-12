@@ -12,7 +12,7 @@
 {110}{}{Vem är du?}
 {111}{}{Vad är det du gör?}
 {112}{}{You look like you're guarding that trail.}
-{113}{}{I'll be going now.}
+{113}{}{Jag ska gå nu.}
 {114}{}{Well, hello to you. Now, I'm sorry, but you should go.}
 {115}{}{Me want talk.}
 {116}{}{Ok, me go.}

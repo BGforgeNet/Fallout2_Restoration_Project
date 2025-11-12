@@ -12,7 +12,7 @@
 {111}{}{OK, here's what I have to trade.}
 {112}{}{I best leave.}
 {113}{}{Leave now.}
-{114}{}{I'll be going now.}
+{114}{}{Jag ska gå nu.}
 {115}{}{Hmm... I like you. No ear talk off. Stay, trade me and you.}
 {116}{}{K'}
 {117}{}{Jag gå.}

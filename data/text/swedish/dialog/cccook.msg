@@ -1,60 +1,60 @@
-{100}{}{You see a cook.}
-{101}{}{You see Cookie, the cook.}
-{102}{}{You see a man in armor wearing a chef's hat and an apron.}
-{103}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
-{104}{}{Me want food.}
+{100}{}{Du ser en kock.}
+{101}{}{Du ser Kakan, kocken.}
+{102}{}{Du ser en man i rustning som bär en kockmössa och ett förkläde.}
+{103}{}{Hej, soldat. Letar 'u efter lite käk eller bara någon att prata med?}
+{104}{}{Jag vill mat ha.}
 {105}{}{Me want talk.}
-{106}{}{I could use something to eat.}
-{107}{}{Let's chat a while.}
-{108}{}{Well, here ya go. Have some shit on a shingle. The snow and fly shit's over there. Anything else?}
-{109}{}{What you want me eat?}
-{110}{}{Shit? Snow? What the hell kind of food is this?}
-{111}{}{I'm sorry, ya must be new to the army. Don't take offense to what I said, that's just what we call stuff here.
- Shit on a shingle's chipped beef on toast. Snow and fly shit's another name for salt and pepper.}
-{112}{}{Oh... thanks. We talk while eat.}
-{113}{}{Got it, sorry. Let's chat while I eat.}
-{114}{}{What ya want to talk about?}
+{106}{}{Jag äter gärna något.}
+{107}{}{Vi kan snacka en stund.}
+{108}{}{Här har du. Ta en blajja på en skyffel. Snön och flugskiten är där borta. Nåt annat?}
+{109}{}{Vad du vill att jag äta?}
+{110}{}{Skit? Snö? Vad fan är det här för mat?}
+{111}{}{Jag är ledsen, du måste va' ny i armén. Ta inte illa upp för det jag sa, det är bara vad vi kallar saker här.
+ Blajja på en skyffel är köttfärs på toast. Snö och flugskit är andra ord för salt och peppar.}
+{112}{}{Åh... tack. Vi prata medan äter.}
+{113}{}{Jag fattar, förlåt. Vi kan prata medan jag äter.}
+{114}{}{Vad ville ru snacka om?}
 {115}{}{What go on here?}
 {116}{}{Where vertibird plans?}
-{118}{}{Where main base at?}
-{119}{}{Me need get back on duty. Thanks.}
+{118}{}{Var huvudbas?}
+{119}{}{Jag tillbaka i tjänst måste. Tack.}
 {120}{}{Vad är på gång häromkring?}
 {121}{}{I'm interested in the vertibirds. If I wanted to look at the plans, where could I find them?}
-{123}{}{Where's the Enclave main base located?}
-{124}{}{Thanks. I need to get back to my duty post.}
-{125}{}{Looking for some gossip? I could give ya the latest on what's happening in maintenance, med lab, or among the grunts.}
-{126}{}{What ya want to hear?}
-{127}{}{What about maintenance?}
-{128}{}{What about med lab?}
-{129}{}{What about grunts?}
+{123}{}{Var är Enklavens huvudbas?}
+{124}{}{Tack. Jag måste återgå till min tjänstgöringsplats.}
+{125}{}{Letar du efter lite skvaller? Jag kan ge dig det senaste om vad som händer i underhåll, medicinlabbet eller bland soldaterna.}
+{126}{}{Vad ville ru höra?}
+{127}{}{Hur är det med underhåll?}
+{128}{}{Vad medicinlabb du vet?}
+{129}{}{Vad soldater du vet?}
 {130}{}{Nåt annat?}
-{131}{}{Me hear enough.}
-{132}{}{What's going on in maintenance?}
-{133}{}{What can you tell me about med lab?}
-{134}{}{What about us grunts?}
-{135}{}{Anything else happening?}
-{136}{}{I've heard enough, I think.}
+{131}{}{Jag tillräckligt hört.}
+{132}{}{Vad händer på underhållssidan?}
+{133}{}{Vad kan du berätta om medicinlabbet?}
+{134}{}{Hur är det med oss soldater?}
+{135}{}{Händer det något annat?}
+{136}{}{Jag har hört tillräckligt, tror jag.}
 {137}{}{Raul, the vertibird mechanic, doesn't like Quincy, the head of maintenance. Those two are always
  getting into it. I don't think it's a case of professional rivalry either. Anyway, Raul's an arrogant
  ass but Quincy's an okay kind of guy. I hope he wins in the end.}
 {138}{}{Okej.}
-{139}{}{Yeah, I hear you.}
+{139}{}{Ja, jag håller med.}
 {140}{}{Med lab's been taken over by an Enclave egghead named Schreber. Mean son of a bitch; don't care
  for nothing or nobody. He's been doing some sort of experiments on deathclaws down there, don't know
  what though. Anyway, he was making all kinds of noise until the commander ordered the room soundproofed.}
 {141}{}{Got it.}
 {142}{}{That's interesting. }
 {143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}
-{144}{}{Söt.}
-{145}{}{Nah, that's it around this place. If I hear anything more I'll let ya know. I like talking about it just as much as I like hearing it!}
+{144}{}{Gulligt.}
+{145}{}{Nej, det är allt häromkring. Om jag hör något mer så säger ja' till. Jag gillar att prata om det lika mycket som jag gillar att höra det!}
 {146}{}{Tack.}
-{147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
+{147}{}{Varför är 'u intresserad av dem? Nåja, spelar roll. Quincy har dem borta i underhållet tror jag. }
 {148}{}{Okej.}
-{149}{}{Where that?}
+{149}{}{Var det?}
 {150}{}{Jag förstår.}
-{151}{}{Where's that?}
-{152}{}{Northeast corner of the base, friend. Can't miss it.}
-{153}{}{Okay. Thanks.}
+{151}{}{Var är det?}
+{152}{}{Nordöstra hörnet av basen, kompis. Kan inte missa det.}
+{153}{}{Okej. Tack.}
 {156}{}{I'm surprised ya don't know, ya must be a local, I guess. Anyway, main base's in the middle of the goddamned
  ocean. Well, not smack ass in the middle, but it might as well be. Only way to get there is by ship or vertibird
  and the damn ship's been tinkered with. Ya need a fob to operate the damn thing.}
@@ -78,9 +78,9 @@
  If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
 {173}{}{Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.
  If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
-{174}{}{Where that?}
+{174}{}{Var det?}
 {175}{}{Okej.}
-{176}{}{Where's that?}
+{176}{}{Var är det?}
 {177}{}{I'll take care of it.}
 {178}{}{Take the elevator in the next room down, follow the hall to the main junction, turn left, and it's the first door on your left. Off you go.}
 {179}{}{Tack.}

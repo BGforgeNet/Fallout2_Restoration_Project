@@ -39,7 +39,7 @@
 {135}{}{Lizard breath... Oh, I get it. Ha ha! Now you get this. I guard here because I meanest,
  toughest, ruthless son of bitch in whole damn vault. Screw with me, you screw with best.
  You leave here or I rip you head off and make you watch me crap down throat.}
-{136}{}{I'll be going now.}
+{136}{}{Jag ska gå nu.}
 {137}{}{Oh yeah? Let's see just how tough you are!}
 {138}{}{It you again. What you want?}
 {139}{}{Me say hi. Me go.}

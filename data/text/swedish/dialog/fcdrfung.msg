@@ -55,7 +55,7 @@
 {169}{}{We're done. Now, you go and be careful!}
 {170}{}{Tanks!}
 {171}{}{You need more?}
-{172}{}{I need healing.}
+{172}{}{Jag behöver läkning.}
 {173}{}{I have a friend who needs healing.}
 {174}{}{Vem är du?}
 {175}{}{Tell me about this place.}
