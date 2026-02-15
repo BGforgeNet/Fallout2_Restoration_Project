@@ -90,7 +90,7 @@
 {189}{}{Mira, tengo algunos amigos que quieren que encuentre los vertibird. Dicen que vienen de aquí.}
 {190}{}{¿Enclave? ¿Eso es un grupo o algo? No me suenan. ¿Qué quieres de ellos?}
 {191}{}{Quiero unir a ellos.}
-{192}{}{Quiero alistarme.}
+{192}{}{Quiero unirme.}
 {193}{}{¿Alistarte? ¡Eres un tribal! ¿Qué te hace pensar que ellos puedan querer a un tribal?}
 {194}{}{¿Alistarte? ¡Eres un tribal! ¿Qué te hace pensar que ellos puedan querer a un tribal y a su grupito?}
 {195}{}{Yo serio. Yo uno a Enclave.}

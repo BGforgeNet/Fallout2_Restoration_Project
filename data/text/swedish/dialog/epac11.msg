@@ -28,7 +28,7 @@
 {251}{}{You were in the army?}
 {260}{}{Yep. I was the energy weapons expert. Pretty nimble on my feet too. I was only in the army for about a year
  before I was reassigned here. It's a shame I'll never see any of my friends again. I would have liked to have exchanged some goodbyes.}
-{261}{}{I'm sorry.}
+{261}{}{Jag är ledsen.}
 {262}{}{I'm sorry for your losses, but you have to move on. Wallowing in your own misery won't get you anywhere.}
 {270}{}{Yeah, ain't we all. What am I gonna to do now though?}
 {271}{}{I guess you're right. What am I going to do now though?}

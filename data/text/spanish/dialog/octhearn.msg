@@ -1,6 +1,6 @@
-{100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
-{101}{}{Ves a Thearn, la Garra mortal.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
+{100}{}{Ves a una sanguinaria. Te observa con ojos extrañamente inteligentes.}
+{101}{}{Ves a Thearn, el sanguinario.}
+{102}{}{Ves al típico sanguinario. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
  garras.}
 {103}{}{Tú perdonar. No hablar bien. Yo intentar hablar contigo.}
 {104}{}{¿Que quieres qué?}
@@ -27,7 +27,7 @@
 {125}{}{¡Estás haciendo un gran trabajo!}
 {126}{}{¿Te llamas a ti mismo guardia? ¡Ja!}
 {127}{}{¿De qué estás protegiendo la estancia?}
-{128}{}{Intrusos. Humanos, Garras mortales, cualquier cosa. Si amenazar manada, yo atacar.}
+{128}{}{Intrusos. Humanos, sanguinarios, cualquier cosa. Si amenazar manada, yo atacar.}
 {129}{}{Ah.}
 {130}{}{Ya veo.}
 {131}{}{Me sorprendería que fueras lo bastante listo como para distinguir un amigo de un enemigo.}

@@ -1,4 +1,4 @@
-{100}{}{You see a squatter.}
+{100}{}{Du ser en ockupant.}
 {101}{}{You see a man covered in dirt and filth.}
 {102}{}{You see a woman covered in dirt and filth.}
 {103}{}{Vad vill du?}

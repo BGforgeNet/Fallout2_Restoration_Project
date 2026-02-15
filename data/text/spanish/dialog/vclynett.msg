@@ -323,7 +323,7 @@
 {374}{}{No creo que sea el indicado para el trabajo... adiós.}
 {375}{}{Creo que realmente debería irme. Que te vaya bien, Primer Ciudadano.}
 {376}{lyn052}{Oh... es correcto. El procónsul mencionó que habíamos ganado un nuevo Ciudadano. Bienvenido,
- pues. En cuanto a los archivos, sí... se encuentran en el interior de nuestro Refugio. Examínalos a tu discreción.}
+Ciudadano. En cuanto a los archivos, sí... se encuentran en el interior de nuestro Refugio. Examínalos a tu discreción.}
 {377}{}{Antes de ir a examinar los archivos, quería hacerte algunas preguntas más...}
 {378}{}{¿Por casualidad no tendréis un GECK también?}
 {379}{}{¡Genial! Gracias.}

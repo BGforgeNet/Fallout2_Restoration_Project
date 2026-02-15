@@ -210,6 +210,18 @@ variable step_tile;
 
 #define critter_is_armed(x)                 (((obj_item_subtype(critter_inven_obj(x,INVEN_TYPE_RIGHT_HAND))) == item_type_weapon) or \
                                              ((obj_item_subtype(critter_inven_obj(x,INVEN_TYPE_LEFT_HAND))) == item_type_weapon))
+/**
+ * Returns True if anyone is party carries a weapon openly, False othewise.
+ * - Goris is skipped, as he's cloaked.
+ * @ret {bool} armed
+ */
+procedure party_is_armed() begin
+   foreach (variable who in party_member_list_critters) begin
+      if obj_pid(who) == PID_GORIS then continue;
+      if critter_is_armed(who) then return true;
+   end
+   return false;
+end
 #define critter_weight(x)                   (100 + ((get_critter_stat(x,STAT_gender) == GENDER_MALE) * 50) + (get_critter_stat(x,STAT_st) * 5) - ((get_critter_stat(x,STAT_ag) + get_critter_stat(x,STAT_en))/3))
 #define critter_wearing_armor(x)            (obj_item_subtype(critter_inven_obj(x,INVEN_TYPE_WORN)) == item_type_armor)
 
@@ -289,7 +301,7 @@ variable step_tile;
 #define dude_wearing_metal_armor            ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_METAL_ARMOR) or \
                                              (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_METAL_ARMOR_MK_II))
 
-#define dude_wearing_vault_suit             COND019(1)
+#define dude_wearing_vault_suit             ((critter_inven_obj2(dude_obj, INVEN_TYPE_WORN)) == 0)
 #define dude_wearing_coc_robe               (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_PURPLE_ROBE)
 
 #define dude_has_gambling_skills            ((dude_iq > 3) and (has_skill(dude_obj, SKILL_GAMBLING) >= 25))

@@ -201,7 +201,7 @@
 {300}{}{No soy de los que simplemente entregan una mina de oro gratuitamente. Quiero 20 de los grandes o te puedes ir olvidando.}
 {301}{tand43}{¿Qué?}
 {302}{}{Lleno de Garras mortales. Listos. Hablan.}
-{303}{}{Está lleno de Garras mortales inteligentes. Incluso pueden hablar.}
+{303}{}{Está lleno de sanguinarios inteligentes. Incluso pueden hablar.}
 {304}{tand44a}{Ya, claro (mueve la cabeza). Dios, eres más tonta incluso de lo que dijo Hoss! (suspira) Ahí está la puerta.}
 {305}{tand44b}{Vale (mueve la cabeza). Está bien, dejemos de perder el tiempo. (suspira) Ahí está la puerta.}
 {306}{}{Yo irme ahora.}

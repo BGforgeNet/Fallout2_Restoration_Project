@@ -18,7 +18,7 @@
 {116}{}{Me}
 {117}{}{I see. Well I've got to go now.}
 {118}{}{Jag är}
-{119}{}{Got it.}
+{119}{}{Jag förstår.}
 {120}{}{Warrior! Ha! That's a good one. Know any more?}
 {121}{}{Dar guard hall and keep peace. Nothing more.}
 {122}{}{Me hear before.}
@@ -32,7 +32,7 @@
 {130}{}{Elder in village do same me.}
 {131}{}{Ah.}
 {132}{}{Gruthar is right; you should all try to educate yourselves.}
-{133}{}{Got it.}
+{133}{}{Jag förstår.}
 {134}{}{So, you're so stupid that someone else has to force you to educate yourself. How nice.}
 {135}{}{Hello. You pack friend.}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}

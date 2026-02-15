@@ -1,30 +1,28 @@
-{100}{}{You see the monastery graveyard keeper.}
-{101}{}{You see Brother Samuel, the graveyard keeper.}
-{102}{}{He looks drunk and a bit drowsy.}
-{200}{}{*hickup* Why, 'ello there, my name's Samuel. What, uh, *hickup* brings you here?}
-{201}{}{*hickup* Hello again.}
-{202}{}{I'm just looking around. Do you tend to this graveyard?}
-{203}{}{Do you know a Father Tully?}
+{100}{}{Du ser klostrets kyrkogårdsvaktmästare.}
+{101}{}{Du ser broder Samuel, kyrkogårdsvaktmästaren.}
+{102}{}{Han ser full och lite sömnig ut.}
+{200}{}{*hick* Men, 'allå där, jag heter Samuel. Vad, eh, *hick* för dig hit?}
+{201}{}{*hick* Hej igen.}
+{202}{}{Jag ser mig bara omkring. Sköter du om den här kyrkogården?}
+{203}{}{Känner du en Fader Tully?}
 {204}{}{Father Tully, you say? [He appears to be racking his brain trying to remember.] Yeah... I *hickup* 'member Tully.
  How's that fella doin anyway? I 'aven't seen him since he was kicked out of 'ere long time *hiccup* long time ago.
  [He grins drunkenly as he reflects.] Boy he was a hoot. Him and me together, *hickup* what a combo.}
-{205}{}{He lives in New Reno now, preachin' the good word, er, something like that. You know, you two seem a lot alike.}
-{206}{}{New Reno, huh? [He leans on his shovel, pulls out a small flask and takes a big swig.] I 'member him sayin he'd
- *hickup* be headin that way. I'm glad he made it there safely. I always *hickup* liked that fella. A real hoot. If you
- see him again, tell him Ol' Sammy is still alive an' kickin.}
-{207}{}{I'll do that. I got some other questions though.}
-{208}{}{I'll do that. Take care Sam.}
-{209}{}{Nevermind. Sorry to bother you.}
-{210}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. I got some other questions though.}
-{211}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. Take care Sam.}
-{300}{}{What do you *hickup* wanna know?}
-{301}{}{Are you the gravekeeper?}
+{205}{}{Han bor i Nya Reno nu, predikar det goda ordet eller nåt sånt. Ni är ganska lika ni två, faktiskt.}
+{206}{}{Nya Reno, va? [han lutar över sin spade, tar fram en liten flaska och tar en klunk.] Ja' minns när han sa han *hick* skulle ditåt. Bra att han kom dit säkert. Jag har alltid *hick* gillat den gubben. Möts ni igen kan du säga att gamle Sammy fortfarande är vid livs levande.}
+{207}{}{Det ska jag. Jag har några fler frågor.}
+{208}{}{Det ska jag. Ha det bra Sam.}
+{209}{}{Strunt i det. Förlåt att jag stör.}
+{210}{}{Jag skulle just säga att han hälsar. Jag ska nämna att du säger hej också. Jag har några fler frågor.}
+{211}{}{Jag skulle just säga att han hälsar. Jag ska nämna att du säger hej också. Ha det bra Sam.}
+{300}{}{Vad vill du *hick* veta?}
+{301}{}{Är du gravvakt?}
 {302}{}{Vad kan du berätta om Klostret?}
-{303}{}{Anything I can help you with?}
-{400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
- not as bad as one might think. It's got its... perks, if you know what I mean. [He grins sloppily and wiggles his bushy
- eyebrows at you.]}
-{401}{}{No. I don't know what you mean, and I never want to. Bye.}
+{303}{}{Någonting jag kan hjälpa dig med?}
+{400}{}{Ja, *hick* jag ta' hand om grava'na här. Ingen annan vill *hick* gör' det, så gamle Sammy fick jobbet. Det e' inte så 
+ illa som du kan tro. Det har... fö'måner, om du fattar vad jag mena'. [Han flinar och vinkar sina buskiga
+ ögonbryn mot dig.]}
+{401}{}{Nej. Jag vet inte vad du menar, och jag vill aldrig göra det. Hej då.}
 {402}{}{No. I don't know what you mean. But I think I'd rather ask you something else. }
 {403}{}{No. I don't know what you mean, but I'm morbidly curious...}
 {404}{}{Hell yeah I do. Nothing turns me on like a rotten cadaver.}
@@ -49,12 +47,12 @@
 {600}{}{Hmm... *Hick* lå' me t'nka lite. Ja, jag kanske har nåt, om du ä' sugen på de'.}
 {601}{}{Eh, glöm det, Sam. Jag måste gå nu.}
 {602}{}{Visst, Sam, vad behöver du?}
-{603}{}{Well, th' past coupla days I've *hickup* noticed some of these graves are bein dug up. Now, whoever's doin this
- don't appear to be gettin that far, but it's a *hickup* a pain fer me to fill 'em back up.}
-{604}{}{Hmm, well did you try and figure out who has been doing this?}
-{605}{}{Sure *hickup* I tried. One night I stayed around till midnight or so and no one showed up. I must've fallen asleep
- soon afterwards. Too much drinking I s'pose. [He grins, pulls out his flask and takes a hefty swig.] So, what do you
- *hickup* say? You wanna help out?}
+{603}{}{De sen'ste dagar'a har jag *hick* märkt att nå'ra av gravarna grävts upp. Så, vem som än gö' det här
+ verkar inte ha kommi' så långt, men det är *hick* förjäkligt fö' mig att fylla opp dem igen.}
+{604}{}{Hmm, så har du försökt ta reda på vem som har gjort det här?}
+{605}{}{Visst *hick* försökte jag. En kväll stannade jag kvar till midnatt eller så och ingen dök upp. Jag måste ha somnat
+ strax efter. För mycket drickande tro' ja'. [Han flinar, tar fram sin plunta och tar en rejäl klunk.] Så, vad säger
+ *hick* du? Vill du hjälpa till?}
 {606}{}{Alright, I'll see what I can do. Do you know anything else that might help me?}
 {607}{}{Well, now that you mention it, I do *hickup* 'member Mr. Peterson sayin something about hearing some noises comin
  from his field. He might know something about this. He and that pretty little wife a his live right over there.

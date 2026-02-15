@@ -29,9 +29,9 @@
 {702}{}{Tror du att du kan ge mig lite av dina mediciner? Du verkar ha mer än du använder.}
 {703}{}{Vill du att jag bara ska *ge* dem till dig? Vad får dig att tro att du förtjänar dem mer än folket i Klostret?}
 {704}{}{För att jag brukar bli skadad... ofta.}
-{705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
- I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
- much healing equipment. I'm not asking for a lot, even the smallest amount you could give me would help me greatly.}
+{705}{}{Eftersom jag är på ett heligt äventyr efter ett Garden Of Eden Creation Kit. 
+Hela min by kommer gå under om jag inte hittar denna apparat, förstår du, men ert folk verkar leva fredfullt utan så mycket läkemedel. 
+Jag ber inte om mycket, bara en liten mängd skulle hjälpa ytterst mycket.}
 {706}{}{[Han funderar över dina ord ett ögonblick och nickar sedan.] Okej, jag ska ge dig lite av vår överblivna medicinska utrustning.
  Det låter som om du kommer att behöva dem. Här. [Han ger dem till dig.] Lycka till, vandrare.}
 {707}{}{Tack, Jack. Du har räddat mig från ödemarkens faror. Adjö.}

@@ -1,7 +1,7 @@
 {100}{}{You see a dirty, unshaven man.}
 {200}{}{You see a dirty, haggard woman.}
 {101}{}{Trapper.}
-{102}{}{Best not get too close. Some of the critters in his clothes might be looking for a cleaner
+{102}{}{Best not get too close. Some of the critters in those clothes might be looking for a cleaner
  home.}
 {103}{}{Howdy. Don't come across people too often out here in trapper country. Whatcha want?}
 {104}{}{Do you have any gecko pelts for sale?}
@@ -12,7 +12,7 @@
 {108}{}{What do you have?}
 {109}{}{Never mind.}
 {110}{}{Ug.}
-{111}{}{Here's what I got: }
+{111}{}{Here's what I got:}
 {112}{}{regular gecko pelts.}
 {113}{}{golden gecko pelts.}
 {114}{}{I'll take all you got.}

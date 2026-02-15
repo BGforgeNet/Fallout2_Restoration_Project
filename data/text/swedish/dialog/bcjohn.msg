@@ -1,4 +1,4 @@
-{100}{}{You see a squatter.}
+{100}{}{Du ser en ockupant.}
 {101}{}{Du ser John, ockupanten.}
 {102}{}{Du ser en medelålders man som bär slitna kläder.}
 {103}{}{Ledsen, främling, jag har inte tid att prata med dig.}

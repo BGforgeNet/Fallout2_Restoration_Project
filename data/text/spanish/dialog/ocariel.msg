@@ -33,12 +33,12 @@
 {132}{}{¿Cómo llegaste aquí?}
 {133}{}{Tengo que ir ahora yo.}
 {134}{}{¿Eres prisionero aquí?}
-{135}{}{¿Las Garras mortales te tratan bien?}
+{135}{}{¿Los sanguinarios te tratan bien?}
 {136}{}{¿Te gustaría abandonar el Refugio?}
 {137}{}{Entonces dime, Ariel: ¿Por qué estás tan triste?}
 {138}{}{¿Cómo llegaste a este Refugio?}
 {139}{}{Debo irme ahora.}
-{140}{}{No, puedo irme cuando quiera. Las Garras mortales me lo han dejado muy claro. No retienen
+{140}{}{No, puedo irme cuando quiera. Los sanguinarios me lo han dejado muy claro. No retienen
  a nadie contra su voluntad, al menos que yo sepa.}
 {141}{}{Eh, está bien.}
 {142}{}{Entiendo. Me voy yo.}
@@ -85,7 +85,7 @@
 {180}{}{Tenía a Sandy detrás de mí, intentando mantenerla lejos del monstruo que había disparado a Rand. Estaba
  cerca del cuerpo de mi marido y se rió mientras me apuntaba a la cabeza con su arma. De repente, esa enorme Garra
  surgió de la oscuridad, lo agarró por detrás y... bueno, gracias al cielo que Sandy no vio
- lo que sucedió a continuación. De todas formas, los saqueadores fueron eliminados por este grupo de Garras mortales. La que nos
+ lo que sucedió a continuación. De todas formas, los saqueadores fueron eliminados por este grupo de sanguinarios. La que nos
  salvó a Sandy y a mí se nos acercó y me habló. Me aseguró que estaba a salvo, y que
- sentía no haber podido llegar antes para ayudarnos. Después de eso, las Garras mortales nos trajeron
+ sentía no haber podido llegar antes para ayudarnos. Después de eso, los sanguinarios nos trajeron
  aquí.}

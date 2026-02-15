@@ -22,6 +22,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "abbilbox"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_ABBILBOX
 
@@ -79,12 +80,8 @@ procedure map_enter_p_proc begin
        set_local_var(LVAR_Trapped,TRAPPED_STATUS);
    end
 
-   if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
-      set_local_var(LVAR_Restock_Time, game_time - 1);
-      set_local_var(LVAR_Restock_Time_Fix, 1);
-   end
-
-   if (local_var(LVAR_Restock_Time) < game_time) then begin
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
+      variable tmp_box := move_quest_items();
       check_restock_item(PID_BOTTLE_CAPS, 150, 225, 100)
       check_restock_item(PID_LEATHER_ARMOR, 1, 1, 100)
       check_restock_item(PID_HEALING_POWDER, 2, 4, 100)
@@ -102,6 +99,7 @@ procedure map_enter_p_proc begin
       check_restock_item(PID_FIRST_AID_KIT, 0, 1, 100)
       check_restock_item(PID_SPEAR, 1, 1, 100)
       check_restock_item(PID_FLARE, 1, 3, 100)
+      call restore_critical_items(tmp_box);
       set_local_var(LVAR_Restock_Time, (10 * ONE_GAME_DAY) + game_time);
    end
 

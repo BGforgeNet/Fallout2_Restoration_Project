@@ -1,8 +1,8 @@
-{100}{}{Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits....}
-{101}{}{You see Hakunin lying on the ground. He's badly wounded.}
-{102}{}{You see Hakunin. He's very near death.}
-{103}{}{Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.}
-{104}{hak001}{Var hälsad, utvalde. Varför värms jorden framför mig vid beröringen av din passage?}
+{100}{}{Framför dig står Hakunin, byns shaman. Han betraktar dig med sina galna ögon från någonstans i den värld som bara han lever i.....}
+{101}{}{Du ser Hakunin ligga på marken. Han är svårt skadad.}
+{102}{}{Du ser Hakunin. Han är mycket nära döden.}
+{103}{}{Hakunin är svårt brännskadad. Han luktar grillad kyckling, ser ut som bränd köttfärslimpa och du förstår inte hur han har lyckats hålla sig vid liv så här länge.}
+{104}{hak001}{Var hälsad, Utvalde. Varför värms jorden framför mig vid beröringen av din passage?}
 {105}{}{Eh? }
 {106}{}{Jag har kommit för att säga adjö. Jag ger mig av på mitt heliga uppdrag. }
 {107}{}{Jag är på väg ut. Jag hoppades att du för en gångs skull kunde prata som en riktig person. }

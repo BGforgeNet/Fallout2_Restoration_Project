@@ -139,7 +139,7 @@
 {421}{}{Me pregunto ¿qué ocurrirá si no introduzco las tareas en el orden correcto?}
 {422}{}{Creo que ya he leído suficientes avisos. Estoy listo para usar esta cosa ahora.}
 {430}{}{Unidad regresa a su bahía si el programa de mando contiene erores de terminal.}
-{431}{}{Bueno, eso lo explica todo. Sin embargo, ¿que es lo que falla del Circuito Lógico?}
+{431}{}{Oh, bueno; eso lo explica. Aunque me pregunto qué pasa con el fallo del Circuito Lógico.}
 {432}{}{Estoy listo para usar esta cosa ahora.}
 {440}{}{Dirección manual: La unidad RR&MR debe dirigirse manualmente a su destino objetivo. La unidad seguirá las órdenes de mando dadas, pero si su camino está bloqueado o la unidad recibe excesivos daños volverá automáticamente a su bahía.}
 {441}{}{¿Dónde tengo que mover el robot? Déjame mirar los procedimientos.}

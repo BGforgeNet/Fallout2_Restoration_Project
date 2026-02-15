@@ -23,6 +23,7 @@
 #define SCRIPT_REALNAME "hijacbox"
 #include "../headers/define.h"
 #include "../headers/broken1.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_HIJACBOX
 
@@ -46,8 +47,7 @@ end
 procedure map_enter_p_proc begin
    broken_hills_jacob_box := self_obj;
    if (is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          variable tmp_box := move_quest_items();
          check_restock_item(PID_BOTTLE_CAPS, 200, 1250, 100)
          check_restock_item(PID_BUFFOUT, 0, 3, 25)

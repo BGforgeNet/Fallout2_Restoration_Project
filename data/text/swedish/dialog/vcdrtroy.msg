@@ -306,7 +306,7 @@
  convenience. The risk is too great, and the implants are not a substantial improvement over standard
  combat armor.}
 {351}{}{Hmmm. Okay, I had some other questions...}
-{352}{}{Well, thanks anyway.}
+{352}{}{Nåväl, tack ändå.}
 {353}{}{Well, thanks anyway. Maybe I can find somebody else to perform the operation.}
 {354}{}{I'm sorry. The facilities are only for Citizens, and a list of all patients is kept in the
  database... [Lowers voice.] However, the stimpaks in the lower level supply lockers would not be missed

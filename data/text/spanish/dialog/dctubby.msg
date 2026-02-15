@@ -21,7 +21,7 @@
 {168}{}{Adiós.}
 {169}{}{En vez de eso, preferiría que te largaras.}
 {170}{}{Adiós.}
-{171}{}{¿Qué es lo que quieres saber?}
+{171}{}{¿Qué te gustaría saber?}
 {172}{}{¿Quién está al mando en el pueblo?}
 {173}{}{¿Por qué todo el mundo vende drogas?}
 {174}{}{¿Sabes dónde se encuentra el Refugio 13?}

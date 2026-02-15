@@ -12,7 +12,7 @@
 {404}{}{My name is not important. I have come to warn you. You are in great danger!}
 {405}{}{I am your nemesis. Prepare to join your ancestors!}
 {406}{}{I'm French. Why do you think I have this outrageous accent? [Stare at him oddly.]}
-{407}{}{Nevermind. Sorry to bother you.}
+{407}{}{Strunt i det. Förlåt att jag stör.}
 {410}{}{You speak to Shadow Who Walks. Why have you come here?}
 {411}{}{I'm trying to stop raider attacks on Vault City, and I have reason to believe that this is the raiders' base of operations. What do you know about the raiders?}
 {412}{}{I was sent by Vault City on account of Raiders attacking them.}

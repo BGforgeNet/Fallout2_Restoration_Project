@@ -11,7 +11,7 @@ do miasta.}
 {108}{}{Co tam masz?}
 {109}{}{Nieważne.}
 {110}{}{Ug.}
-{111}{}{Oto co mam: }
+{111}{}{Oto co mam:}
 {112}{}{skóry zwykłych gekonów.}
 {113}{}{skóry złocistych gekonów.}
 {114}{}{Wezmę wszystko.}

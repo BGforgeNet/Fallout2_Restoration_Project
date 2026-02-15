@@ -8,7 +8,7 @@
 {107}{}{Puedes empezar respondiendo algunas preguntas.}
 {108}{}{Nada por ahora. Volveré más tarde.}
 {109}{}{Creo que mereces respuestas a tus preguntas.}
-{110}{}{¿Puedo ayudarte en algo?}
+{110}{}{¿En que puedo ayudarte?}
 {111}{}{¿Quienes vosotros?}
 {112}{}{¿Por qué nadie dice nada de ti?}
 {113}{}{¿Por qué hay sólo una gente aquí?}

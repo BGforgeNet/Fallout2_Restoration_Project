@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "fctnkbar"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_FCTNKBAR
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
@@ -105,8 +106,7 @@ procedure map_enter_p_proc begin
 
    //added by killap
    if (is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          check_restock_item(PID_MUTATED_FRUIT, 1, 2, 100)
          check_restock_item(PID_BEER, 1, 5, 100)
          check_restock_item(PID_BOOZE, 2, 10, 100)

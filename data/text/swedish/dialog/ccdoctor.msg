@@ -25,7 +25,7 @@
  other things. Don't bother with your name, soldier. All of you grunts look
  the same in that armor of yours.}
 {123}{}{Okej.}
-{124}{}{Got it.}
+{124}{}{Jag förstår.}
 {125}{}{I work as the base physician but that's just a sideline. Actually,
  I'm a geneticist.}
 {126}{}{Vad det där?}

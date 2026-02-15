@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "scdusty"
 #include "../headers/define.h"
 #include "../headers/ncr1.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_SCDUSTY
 #define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
@@ -100,8 +101,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_NCR);
    set_self_ai(AI_TOUGH_CITIZEN);
 
-   restock_fix
-   if (local_var(LVAR_Restock_Time) < game_time) then begin
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
       ndebug("Should have restocked");
       variable tmp_box := move_quest_items();
       check_restock_item(PID_BOOZE, 10, 20, 100)

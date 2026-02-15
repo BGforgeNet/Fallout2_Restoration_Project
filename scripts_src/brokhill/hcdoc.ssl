@@ -505,22 +505,23 @@ procedure Node003 begin
 end
 
 procedure Node003a begin
-   variable health;
+   variable health, max_hits;
 
-   health := get_cur_hits( member);
-   if( Is_Crippled( member ) ) then begin
+   health := get_cur_hits(member);
+   max_hits := get_max_hits(member);
+   if( Is_Crippled(member) ) then begin
       Heal_Cost := 300;
       call Node016;
    end
-   else if( health >= ( dude_max_hits * 9 ) / 10 ) then begin
+   else if( health >= ( max_hits * 9 ) / 10 ) then begin
       Heal_Cost := 50;
       call Node012;
    end
-   else if( health >= ( dude_max_hits * 6 ) / 10 ) then begin
+   else if( health >= ( max_hits * 6 ) / 10 ) then begin
       Heal_Cost := 100;
       call Node013;
    end
-   else if( health >= ( dude_max_hits * 3 ) / 10 ) then begin
+   else if( health >= ( max_hits * 3 ) / 10 ) then begin
       Heal_Cost := 150;
       call Node014;
    end

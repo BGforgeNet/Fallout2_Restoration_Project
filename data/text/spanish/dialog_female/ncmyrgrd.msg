@@ -106,7 +106,7 @@
 {495}{}{(Se encoge de hombros). No me importa. Si quieres esperar por él, adelante. No sé cuando volverá… o si
  lo hará.}
 {5225}{}{! ¿Cómo estás?}
-{5230}{}{! ¡Acabad con ella!}
+{5230}{}{s! ¡Acabad con ella!}
 {5236}{}{ hombre que no sabe cuando está a punto de morir.}
 {5240}{}{ perrera, basura?}
 {5241}{}{ zorra que ni siquiera sabe cuando va a morir.}

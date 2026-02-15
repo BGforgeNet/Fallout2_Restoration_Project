@@ -165,7 +165,7 @@ procedure critter_p_proc begin
    if (map_var(MVAR_Slavers_Attack) == 1) then begin
       set_local_var(LVAR_Hostile, 2);
    end else begin
-      if (/*onPatrol and */seep) then begin
+      if (seep) then begin
          if (tile_in_tile_rect(13725, 12485, 19125, 19085, dude_tile)) then begin
             set_map_var(MVAR_Slavers_Attack, 1);
          end

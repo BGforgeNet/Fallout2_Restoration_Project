@@ -3,7 +3,7 @@
 {102}{}{You see a guard. His armor and weapons are in excellent condition.}
 {103}{}{This is private property, please move along.}
 {104}{}{Who live here?}
-{105}{}{Ok, me go.}
+{105}{}{Ok, ja' gå.}
 {106}{}{Excuse me but who lives here?}
 {107}{}{All right, I'll be going.}
 {108}{}{Are you ready to leave?}

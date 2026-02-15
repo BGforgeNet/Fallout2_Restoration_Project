@@ -275,7 +275,7 @@ variable the_roll;
       // draw propper card 2
       if ((GetCardValue(card_1)+10) <= target_total) then begin
          card_2 := DrawCard(10);
-      end begin
+      end else begin
          card_2 := DrawCard(random(1,target_total - GetCardValue(card_1)));
       end
       // draw card 3 if needed

@@ -61,64 +61,61 @@ procedure Node999;                                      // This Node is Always E
 // The next lines are added in by the Designer Tool.
 // Do NOT add in any lines here.
 //~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
-#define ndef(x) procedure Node##x
-#define nbody(x) procedure Node##x begin
-#define nbodyEnd end
 
-ndef(001);
-ndef(002);
-ndef(003);
-ndef(004);
-ndef(005);
-ndef(006);
-ndef(007);
-ndef(008);
-ndef(009);
-ndef(010);
-ndef(011);
-ndef(012);
-ndef(013);
-ndef(014);
-ndef(015);
-ndef(016);
-ndef(017);
-ndef(018);
-ndef(019);
-ndef(020);
-ndef(021);
-ndef(022);
-ndef(023);
-ndef(024);
-ndef(025);
-ndef(026);
-ndef(027);
-ndef(028);
-ndef(029);
-ndef(030);
-ndef(031);
-ndef(032);
-ndef(033);
-ndef(034);
-ndef(035);
-ndef(036);
-ndef(037);
-ndef(038);
-ndef(039);
-ndef(040);
-ndef(041);
-ndef(042);
-ndef(043);
-ndef(044);
-ndef(045);
-ndef(046);
-ndef(047);
-ndef(048);
-ndef(049);
-ndef(050);
-ndef(051);
-ndef(052);
-ndef(053);
-ndef(054);
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
 procedure Node055;
 
 procedure loadMapPosition;
@@ -578,16 +575,16 @@ procedure doMerkAttack begin
 //   set_global_var(GVAR_NCR_SCMERK_HOSTILE, 2);
 end
 
-nbody(001)
+procedure Node001 begin
    if (dude_is_pornstar) then
       float_msg(self_obj, mstr(103), FLOAT_MSG_NORMAL);
    else begin
       floater((104));
       add_timer_event(self_obj, game_ticks(5), MERK_TIMER_PRIVACY);
    end
-nbodyEnd
+end
 
-nbody(002)
+procedure Node002 begin
    variable msgNum := 105;
 
    msgNum += Random(0, 8);
@@ -603,9 +600,9 @@ nbody(002)
       msgNum := 105;
 
    float_msg(self_obj, mstr(msgNum), FLOAT_MSG_NORMAL);
-nbodyEnd
+end
 
-nbody(003)
+procedure Node003 begin
    variable msgNum := 114;
 
    msgNum += Random(0, 6);
@@ -617,11 +614,11 @@ nbody(003)
       msgNum := 114;
 
    float_msg(self_obj, mstr(msgNum), FLOAT_MSG_NORMAL);
-nbodyEnd
+end
 
-nbody(004)
+procedure Node004 begin
    float_msg(self_obj, mstr(121 + Random(0, 3)), FLOAT_MSG_NORMAL);
-nbodyEnd
+end
 
 procedure Node1011a begin
    if (bad_critter_reaction or merk_status == MERK_STATUS_BAD_REACTION) then
@@ -637,7 +634,7 @@ procedure Node1211a begin
       call Node011;
 end
 
-/*nbody(005)
+/*procedure Node005 begin
    if (merk_status == MERK_STATUS_MET or global_var(GVAR_NCR_SCMERK_HEREBEFORE) == 1) then
       Reply(126);
    else if (bad_critter_reaction or merk_status == MERK_STATUS_BAD_REACTION) then
@@ -659,9 +656,9 @@ end
    if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
       NOption(266, Node037, 4);
 
-nbodyEnd*/
+end*/
 
-nbody(005)
+procedure Node005 begin
    if (merk_status == MERK_STATUS_MET or global_var(GVAR_NCR_SCMERK_HEREBEFORE) == 1) then
       Reply(126);
    else if (bad_critter_reaction or merk_status == MERK_STATUS_BAD_REACTION) then
@@ -689,23 +686,23 @@ nbody(005)
    if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
       NOption(266, Node037, 4);
 
-nbodyEnd
+end
 
-nbody(006)
+procedure Node006 begin
    Reply(134);
    NLowOption(135, Node044);
    NOption(136, Node045, 4);
    NOption(137, Node046, 4);
-nbodyEnd
+end
 
-nbody(007)
+procedure Node007 begin
    if (dude_strength > 6) then
       Reply(138);
    else
       Reply(139);
 
    NOption(ENDSTRING, Node999, 1);
-nbodyEnd
+end
 
 procedure Node2122a begin
    if (has_rep_childkiller or has_rep_berserker) then
@@ -718,7 +715,7 @@ procedure Node999a begin
    set_merk_status(MERK_STATUS_BAD_REACTION);
 end
 
-nbody(008)
+procedure Node008 begin
    ndebug("" + merk_seed_status(MSS_ELRON_DEAD));
    Reply(140);
    if (global_var(GVAR_NCR_LENNY_MET) == 1 and map_var(MVAR_Lenny_Dead) == 0) then
@@ -729,7 +726,7 @@ nbody(008)
       NOption(143, Node017, 4);
    NOption(mstr(144) +  " " + dude_name + mstr(258) , Node2122a, 4);
    NOption(145, Node999a, 4);
-nbodyEnd
+end
 
 procedure Node999b begin
    inc_general_rep(REP_BONUS_KILLED_GOOD_CRITTER);
@@ -738,16 +735,16 @@ procedure Node999b begin
    call Node999;
 end
 
-nbody(009)
+procedure Node009 begin
    Reply(146);
    NOption(147, Node999b, 4);
    NOption(148, Node022, 4);
-nbodyEnd
+end
 
-nbody(010)
+procedure Node010 begin
    Reply(149);
    NOption(ENDSTRING, Node998, 1);
-nbodyEnd
+end
 
 procedure Node2413a begin
    set_merk_status(MERK_STATUS_BAD_REACTION);
@@ -767,55 +764,55 @@ procedure Node1312a begin
    end
 end
 
-nbody(011)
+procedure Node011 begin
    Reply(150);
    BOption(151, Node2413a, 4);
    NOption(152, Node1312a, 4);
    NOption(153, Node999, 4);
-nbodyEnd
+end
 
 procedure Node25a begin
    UpReact;
    call Node025;
 end
 
-nbody(012)
+procedure Node012 begin
    Reply(154);
    if (get_critter_stat(dude_obj, SKILL_BARTER) > 60) then
       NOption(155, Node25a, 4);
    BOption(156, Node2413a, 4);
    NOption(157, Node027, 4);
-nbodyEnd
+end
 
-nbody(013)
+procedure Node013 begin
    Reply(158);
    NOption(ENDSTRING, Node998, 4);
-nbodyEnd
+end
 
-nbody(014)
+procedure Node014 begin
    Reply(159);
    NOption(160, Node015, 4);
    NOption(161, Node999, 4);
-nbodyEnd
+end
 
-nbody(015)
+procedure Node015 begin
    variable str := 0;
    if (dude_is_male) then str := mstr(259);
    else str := mstr(260);
    Reply(mstr(162) + str);
    NOption(ENDSTRING, Node997, 4);
-nbodyEnd
+end
 
-nbody(016)
+procedure Node016 begin
    Reply(163);
    NOption(164, Node028, 4);
-nbodyEnd
+end
 
-nbody(017) // Note already check to see if Myron was in team
+procedure Node017 begin // Note already check to see if Myron was in team
    Reply(165);
    GOption(166, Node018, 4);
    NOption(167, Node023, 4);
-nbodyEnd
+end
 
 procedure Node19a begin //Just making sure he is in the party.
 /*   if (Myron_In_Party) then begin
@@ -853,11 +850,11 @@ procedure Node19a begin //Just making sure he is in the party.
 //end killap's code
 end
 
-nbody(018)
+procedure Node018 begin
    Reply(168);
    NOption(169, Node19a, 4);
    NOption(170, Node999, 4);
-nbodyEnd
+end
 
 procedure Node39a begin
    set_merk_seed_status(MSS_DR_HENRY_ACCEPT);
@@ -865,11 +862,11 @@ procedure Node39a begin
    call Node039;
 end
 
-nbody(019)
+procedure Node019 begin
    Reply(171);
    NOption(172, Node39a, 4);
    NOption(173, Node023, 4);
-nbodyEnd
+end
 
 procedure Node20Rep begin
    Merk_Question := 1;
@@ -879,7 +876,7 @@ procedure Node20Rep begin
    call Node020;
 end
 
-nbody(020)
+procedure Node020 begin
    if (Merk_Question == 1) then
       call Node029;
    else begin
@@ -892,50 +889,50 @@ nbody(020)
          NOption(176, Node20Rep, 4);
       NOption(177, Node999, 4);
    end
-nbodyEnd
+end
 
-nbody(021)
+procedure Node021 begin
    Reply(178);
    MOREOPTION(Node019); //178 == continue used more instead
-nbodyEnd
+end
 
-nbody(022)
+procedure Node022 begin
    set_merk_status(MERK_STATUS_BAD_REACTION);
    Reply(180);
    ENDOPTION;
-nbodyEnd
+end
 
-nbody(023)
+procedure Node023 begin
    set_merk_status(MERK_STATUS_BAD_REACTION);
    Reply(181);
    ENDOPTION;
-nbodyEnd
+end
 
 procedure Node999c begin
    set_global_var(GVAR_NCR_CAR_JACKED, 2);
    call Node999;
 end
 
-nbody(024)
+procedure Node024 begin
    Reply(182);
    NOption(183, Node999c, 4);
    BOption(184, Node998, 4);
-nbodyEnd
+end
 
 procedure NodeBarter begin
    gdialog_barter;
    call Node026;
 end
 
-nbody(025)
+procedure Node025 begin
    Reply(185);
    MOREOPTION(NodeBarter);
-nbodyEnd
+end
 
-nbody(026)
+procedure Node026 begin
    Reply(186);
    ENDOPTION;
-nbodyEnd
+end
 
 procedure Node4041a begin
    if (get_critter_stat(dude_obj, SKILL_SPEECH) >= 90) then
@@ -944,11 +941,11 @@ procedure Node4041a begin
       call Node041;
 end
 
-nbody(027)
+procedure Node027 begin
    Reply(187);
    NOption(188, Node4041a, 4);
    NOption(189, Node026, 4);
-nbodyEnd
+end
 
 procedure Node055d begin
    set_merk_seed_status(MSS_KILL_ELRON);
@@ -956,13 +953,13 @@ procedure Node055d begin
    call Node055;
 end
 
-nbody(028)
+procedure Node028 begin
    Reply(190);
    GOption(191, Node055d, 4);
    if (global_var(GVAR_NCR_ELRON_ADJUST) == 1) then
       BOption(192, Node998, 4);
    NOption(193, Node023, 4);
-nbodyEnd
+end
 
 procedure Node3731a begin
    Merk_Question := 0;
@@ -993,7 +990,7 @@ procedure Node35a begin
    call Node035;
 end
 
-nbody(029)
+procedure Node029 begin
    if (Node029Repeat == 0) then
       Reply(194);
    else
@@ -1009,7 +1006,7 @@ nbody(029)
    if (get_carlson_flag(CARLSON_ACCEPT_SNUFF) and not get_carlson_flag(CARLSON_DEAD)) then
       NOption(200, Node35a, 4);
    NOption(201, Node999, 4);
-nbodyEnd
+end
 
 procedure Node29a begin
    Merk_Question := 1;
@@ -1018,12 +1015,12 @@ procedure Node29a begin
    call Node029;
 end
 
-nbody(030)
+procedure Node030 begin
    Reply(202);
    if (dude_caps >= 50) then
       NOption(203, Node29a, 4);
    NOption(204, Node999, 4);
-nbodyEnd
+end
 
 procedure Node36a begin
    variable holodisk;
@@ -1043,32 +1040,32 @@ procedure Node36a begin
    call Node036;
 end
 
-nbody(031)
+procedure Node031 begin
    Reply(205);
    if (dude_caps > 999) then
       NOption(206, Node36a, 4);
    NOption(207, Node037, 7);
    if (dude_iq <= 6) then
       NOption(208, Node036, 1);
-nbodyEnd
+end
 
-nbody(032)
+procedure Node032 begin
    Reply(209);
    NOption(210, Node030, 4);
    NOption(211, Node999, 4);
-nbodyEnd
+end
 
-nbody(033)
+procedure Node033 begin
    Reply(212);
    NOption(213, Node030, 4);
    NOption(214, Node999, 4);
-nbodyEnd
+end
 
-nbody(034)
+procedure Node034 begin
    Reply(215);
    NOption(216, Node030, 4);
    NOption(217, Node999, 4);
-nbodyEnd
+end
 
 procedure Node3836a begin
    if (merk_seed_status(MSS_DR_HENRY_DONE)) then
@@ -1077,18 +1074,18 @@ procedure Node3836a begin
       call Node036;
 end
 
-nbody(035)
+procedure Node035 begin
    Reply(218);
    if (not (bad_critter_reaction) and (merk_status != MERK_STATUS_BAD_REACTION)) then
       NOption(219, Node3836a, 4);
    NOption(220, Node999, 4);
-nbodyEnd
+end
 
-nbody(036)
+procedure Node036 begin
    Reply(221);
    NOption(222, Node030, 4);
    NOption(223, Node999, 4);
-nbodyEnd
+end
 
 procedure Node37a begin
    Reply(268);
@@ -1096,7 +1093,7 @@ procedure Node37a begin
    NOption(270, Node999, 4);
 end
 
-nbody(037)
+procedure Node037 begin
    if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == 0) then
       Reply(224);
    else if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
@@ -1107,36 +1104,36 @@ nbody(037)
    NOption(228, Node999, 4);
    if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
       BOption(267, Node37a, 4);
-nbodyEnd
+end
 
 procedure NodeCarlsonSec begin
    set_carlson_flag(CARLSON_SECURITY_DUTY);
    call Node999;
 end
 
-nbody(038)
+procedure Node038 begin
    Reply(229);
    NOption(230, NodeCarlsonSec, 4);
    NOption(231, Node999, 4);
-nbodyEnd
+end
 
-nbody(039)
+procedure Node039 begin
    Reply(232);
    ENDOPTION;
-nbodyEnd
+end
 
-nbody(040)
+procedure Node040 begin
    Reply(233);
    ENDHOSTILE;
-nbodyEnd
+end
 
-nbody(041)
+procedure Node041 begin
    set_merk_status(MERK_STATUS_BAD_REACTION);
    Reply(234);
    ENDOPTION;
-nbodyEnd
+end
 
-nbody(042)
+procedure Node042 begin
 
    //moved here from scenlone.ssl - killap
    if (global_var(GVAR_NCR_SCMERK_SEED_STATUS) bwand (MSS_KILL_ELRON+MSS_ELRON_DEAD))
@@ -1154,7 +1151,7 @@ nbody(042)
    NOption(264, Node020, 4);
 
    set_merk_status(MERK_STATUS_PLEASED); //added by killap
-nbodyEnd
+end
 
 procedure Node522a begin
    if (dude_charisma >= 7) then
@@ -1163,42 +1160,42 @@ procedure Node522a begin
       call Node022;
 end
 
-nbody(043)
+procedure Node043 begin
    Reply(238);
    NOption(239, Node522a, 4);
    NOption(240, Node013, 4);
-nbodyEnd
+end
 
-nbody(044)
+procedure Node044 begin
    Reply(241);
    ENDOPTION;
-nbodyEnd
+end
 
-nbody(045)
+procedure Node045 begin
    Reply(242);
    ENDOPTION;
-nbodyEnd
+end
 
-nbody(046)
+procedure Node046 begin
    if (merk_seed_status(MSS_DR_HENRY_ACCEPT) and not merk_seed_status(MSS_DR_HENRY_DONE)) then
       Reply(263);
    else
       Reply(243);
    ENDOPTION;
-nbodyEnd
+end
 
-nbody(047)
+procedure Node047 begin
    set_merk_status(MERK_STATUS_BAD_REACTION);
    Reply(244);
    ENDOPTION;
-nbodyEnd
+end
 
-nbody(048)
+procedure Node048 begin
    Reply(245);
    if (dude_item_count(PID_DOC_PAPERS)) then
       NOption(246, Node049, 4);
    NOption(247, Node046, 4);
-nbodyEnd
+end
 
 procedure Node5051a begin
    variable papers;
@@ -1224,10 +1221,10 @@ procedure Node5051a begin
       call Node051;
 end
 
-nbody(049)
+procedure Node049 begin
    Reply(248);
    MOREOPTION(Node5051a);
-nbodyEnd
+end
 
 procedure Node5253a begin
    if (dude_charisma >= 9) then
@@ -1236,36 +1233,36 @@ procedure Node5253a begin
       call Node053;
 end
 
-nbody(050)
+procedure Node050 begin
    Reply(249);
    NOption(250, Node5253a, 4);
    NOption(251, Node053, 4);
-nbodyEnd
+end
 
-nbody(051)
+procedure Node051 begin
    Reply(252);
    NOption(253, Node999, 4);
-nbodyEnd
+end
 
-nbody(052)
+procedure Node052 begin
    dude_caps_adjust(-500);
    self_caps_adjust(500);
    Reply(254);
    ENDOPTION;
-nbodyEnd
+end
 
-nbody(053)
+procedure Node053 begin
    Reply(255);
    ENDHOSTILE;
-nbodyEnd
+end
 
-nbody(054)
+procedure Node054 begin
    if (merk_seed_status(MSS_DR_HENRY_DEAD)) then begin
       floater((256));
       call doMerkAttack;
    end else
       float_msg(self_obj, mstr(257), FLOAT_MSG_NORMAL);
-nbodyEnd
+end
 
 procedure Node055 begin
    Reply(261);

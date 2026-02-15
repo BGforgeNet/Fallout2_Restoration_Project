@@ -1,6 +1,6 @@
-{100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
-{101}{}{Ves a Jul, la Garra mortal.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
+{100}{}{Ves a una sanguinaria. Te observa con ojos extrañamente inteligentes.}
+{101}{}{Ves a Jul, el sanguinario.}
+{102}{}{Ves al típico sanguinario. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
  garras.}
 {103}{}{Párate. No venir aquí. Este lugar es prohibido.}
 {104}{}{Vale. Marcho.}

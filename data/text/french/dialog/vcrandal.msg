@@ -44,7 +44,7 @@
 {143}{}{Bon, c'est pas grave.}
 {144}{}{Tu pourrais interroger l'ordinateur central de l'Abri, pour voir s'il contient des informations sur d'autres abris. J'en doute, mais ça vaut le coup d'essayer.}
 {145}{}{Eh bien, si tu avais accès à l'ordinateur central de l'Abri, tu pourrais trouver des indications sur d'autres abris. Malheureusement, seuls les citoyens sont autorisés à entrer dans l'Abri.}
-{146}{low_iq_thank_you}{Tanks}
+{146}{low_iq_thank_you}{Merchi.}
 {147}{}{Puis-je te demander autre chose ?}
 {148}{}{Merci pour les informations.}
 {149}{}{Salut, content de te revoir. Puis-je faire quelque chose pour toi ?}

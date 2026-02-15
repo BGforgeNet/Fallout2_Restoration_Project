@@ -110,7 +110,7 @@
 {501}{}{Da igual. Eres libre de irte. Metzger está muerto.}
 {510}{}{¿Qué? ¿Libre? ¿Hombre malo irse? ¡Nosotros marchar ahora! Gracias. ¡Tú amiga! ¡Adiós!}
 {511}{}{¿Libre? ¿Qué? ¿Los has matado a todos? ¡Muchas gracias! Será mejor que nos vayamos mientras podamos. Gracias de nuevo, ¡eres una santa!}
-{520}{}{¡Te maldigo!}
+{520}{}{¡Maldito seas!}
 {521}{}{¡Púdrete en el infierno!}
 {522}{}{Pagarás por esto.}
 {523}{}{¿Por qué hablas conmigo?}

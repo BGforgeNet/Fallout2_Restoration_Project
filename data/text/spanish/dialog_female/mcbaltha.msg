@@ -12,7 +12,7 @@
 {159}{}{Volveré más tarde.}
 {160}{}{Estoy buscando un objeto llamado GECK. ¿Por casualidad no sabrás algo de él, o cómo podría conseguir uno?}
 {161}{}{GECK?}
-{163}{}{¿Puedo ayudarte en algo?}
+{163}{}{¿En que puedo ayudarte?}
 {168}{}{Tan sólo miraba, gracias.}
 {171}{}{¿Alguna noticia de Jonny?}
 {172}{}{He encontrado esto en el fondo del viejo pozo seco. Una parte del pozo se ha derrumbado, y esto estaba entre los escombros. Lo siento, pero creo que Jonny ha muerto.}

@@ -49,7 +49,7 @@
 {216}{}{Si, tía Morlis.}
 {300}{}{Bien, parece que he extraviado el pedernal. Oh bien, al menos tengo mis polvos. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
 {301}{}{¿Por qué me molestas, sobrina? ¿No ves que estoy ocupada?}
-{302}{}{Bien, no puedo encontrar la pedernal. Pero estoy seguro de que me la quitaste cuando no estaba mirando. Te cogí antes. ¡Ahora fuera con usted! No tengo tiempo para chismear.}
+{302}{}{Bien, no puedo encontrar el pedernal. Pero estoy seguro de que me la quitaste cuando no estaba mirando. Te cogí antes. ¡Ahora vete! No tengo tiempo para cotillear.}
 {303}{}{Bien... Oh, lo siento, pero parece que he extraviado el pedernal. Sin embargo te deseo un buen viaje, hija.}
 {304}{}{Ya te di el pedernal, estúpida. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!}
 {305}{}{Ya te di el pedernal, estúpida. Oh bien, al menos tengo mis polvos. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}

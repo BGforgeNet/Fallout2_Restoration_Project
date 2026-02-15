@@ -57,7 +57,7 @@
  far. Enjoy the glove!}
 {147}{}{Didn't you get enough of me before? Do you want to try again? Same deal?}
 {148}{}{Yeah, let's do it.}
-{149}{}{No, sorry.}
+{149}{}{Nej, tyvärr.}
 {150}{}{I've heard about you. I don't associate with scum.}
 {151}{}{Buddy, thanks for stepping in to save our town. Let me buy you a drink.}
 {152}{}{Howdy, hero!}

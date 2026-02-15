@@ -11,13 +11,13 @@
 {111}{}{¡Oh-oh!}
 {112}{}{¡Gug! (le miras preocupado)}
 {113}{slk4}{¿No quieres un agujero? Ve a ver Torr, él tu espíritu hermano. Él trabaja para Maida-sin-sonrisa. Como nosotros y yo.}
-{114}{}{Uh-huh.}
+{114}{}{Ah-Vale.}
 {115}{}{¿Eh?}
 {116}{slk5a}{Ah, mierda, migo. Esclavistas se llevaron a hermana. Vinimos bebiendo, después rompiendo. Ahora pagando a Maida. Cuando eso hecho, nosotros buscar hermana.}
 {117}{slk5b}{Nosotros ahora listos para ir. Ir a buscar hermana. Ella secuestrada por esclavistas.}
 {118}{}{¿Eh?}
 {119}{}{Hmm, ¿cuánto tienes que pagar para poder irte libremente?}
-{120}{}{Uh-huh.}
+{120}{}{Ah-Vale.}
 {121}{}{Estoy buscando una cosa. Quizás puedas unirte a mí.}
 {122}{slk6}{Nosotros le debemos Maida 350 de dinero. ¿Tú vas a sur? Nosotros caminar contigo y buscar a hermana. ¿Tú tienes 350 de dinero?}
 {123}{}{Nuh-uh.}
@@ -214,7 +214,7 @@
 {755}{slk43b}{Sí. Puedes ser feo por fuera, pero eres bueno por dentro. Ahora ser libres para encontrar a hermana.}
 {756}{slk43c}{Oh, sí. Muy bueno. Iríamos contigo, pero ya tienes a mucha gente.}
 {757}{}{Nuh-uh.}
-{758}{}{Uh-huh.}
+{758}{}{Ah-Vale.}
 {759}{}{Ahora mismo no, gracias.}
 {760}{}{Eso sería genial.}
 {761}{slk44a}{Nosotros y yo sabemos muchas cosas. Viajamos del Gran Mar Salado al hogar de los lagartos que muerden.}
@@ -376,7 +376,7 @@
 {947}{}{Suena peligroso. ¿Qué iba a hacer Torr allí?}
 {948}{slk80b}{Torr ser objeto de muchas burlas. Así que él pensar que encontrar y matar a este mal espíritu convertirle en héroe. Nosotros pensamos que él en problemas. ¿Vas a ayudar a Torr?}
 {949}{}{¡Huh-uh!}
-{950}{}{Uh-huh.}
+{950}{}{Ah-Vale.}
 {951}{}{Iré a buscarle ahora mismo.}
 {952}{}{Por supuesto, le ayudaré. Pero primero necesito algo de información.}
 {953}{}{Deberíamos darle algo más de tiempo. No puede convertirse en un héroe si nos entrometemos. Me vendría bien algo de información local.}
@@ -384,7 +384,7 @@
 {955}{slk81a}{Encontrar a hermana. Nosotros mandarla a casa. Ella es fuerte, puede lograrlo. Nosotros querer ir contigo. Abuelo Hueso dice que tú tienes un gran camino por andar.}
 {956}{slk81b}{¿Tú dejar nosotros ir contigo ahora?}
 {957}{}{Nuh-uh.}
-{958}{}{Uh-huh.}
+{958}{}{Ah-Vale.}
 {959}{}{Deberías volver a tu aldea para asegurarte de que está a salvo. Te echaré de menos, Sulik.}
 {960}{}{Vamos, Sulik.}
 {961}{slk82a}{Cuando terminar con esto, no quedará una persona mala en el mundo.}

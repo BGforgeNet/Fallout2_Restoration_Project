@@ -64,7 +64,7 @@
 {460}{}{Robots}
 {461}{}{Perros}
 {462}{}{Mantis}
-{463}{}{Deathclaws}
+{463}{}{Sanguinarios}
 {464}{}{Plantas}
 {465}{}{Esta línea muestra el número de hombres a las que has matado durante el curso de tus aventuras.}
 {466}{}{Esta línea muestra el número de mujeres a las que has matado durante el curso de tus aventuras.}
@@ -79,7 +79,7 @@
 {475}{}{El número de robots que has destruido o desmontado.}
 {476}{}{El número total de perros que has enviado al cielo de los perros.}
 {477}{}{El número total de mantis, o bichos similares que has aplastado hasta ahora.}
-{478}{}{La cantidad de Garras mortales que has matado, y cualquiera de su estirpe.}
+{478}{}{La cantidad de Sanguinarios que has matado, y cualquiera de su estirpe.}
 {479}{}{The number of plants whose quest for sunlight you have terminated.}
 {480}{}{Ves: %s.}
 {485}{}{Buscas en %s.}
@@ -192,7 +192,7 @@
 {1460}{}{Robots}
 {1461}{}{Perros}
 {1462}{}{Mantis}
-{1463}{}{Deathclaws}
+{1463}{}{Sanguinarios}
 {1464}{}{Plantas}
 {1465}{}{Geckos}
 {1466}{}{Aliens}
@@ -211,7 +211,7 @@
 {1479}{}{El número de robots que has destruido o desmontado.}
 {1480}{}{El número total de perros que has enviado al cielo de los perros.}
 {1481}{}{El número total de mantis, o bichos similares que has aplastado hasta ahora.}
-{1482}{}{La cantidad de Garras mortales que has matado, y cualquiera de su estirpe.}
+{1482}{}{La cantidad de Sanguinarios que has matado, y cualquiera de su estirpe.}
 {1483}{}{La cantidad de plantas que has arrancado de este mundo.}
 {1484}{}{El número de lagartos que has borrado de la faz de la tierra.}
 {1485}{}{La cantidad de alienigenas asesinados con tus propias manos.}

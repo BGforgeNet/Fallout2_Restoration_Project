@@ -23,6 +23,7 @@
 
 #include "../headers/ncr1.h"
 #include "../headers/ncr.h"
+#include "../sfall/lib.math.h"
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_INACTIVE
@@ -152,8 +153,7 @@ procedure map_enter_p_proc begin
    ndebug("I_duppo_obj " + i_duppo_obj);
    if (i_duppo_obj != -1) then begin
 
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
 
 //Tools & ammo
          if (self_tile == DUPPO_TBL_1) then begin

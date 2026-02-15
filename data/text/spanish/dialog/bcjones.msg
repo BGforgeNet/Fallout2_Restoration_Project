@@ -21,7 +21,7 @@
 {120}{}{Lo siento, pero no tengo las instalaciones apropiadas para realizar una operación quirúrgica. Te sugiero que vayas a unas de las grandes ciudades y veas a un cirujano. Prueba en Ciudad Refugio. Está al norte de aquí.}
 {121}{}{Vale. Adiós.}
 {122}{}{De acuerdo. Gracias de todos modos.}
-{123}{}{¿Qué es lo que quieres saber?}
+{123}{}{¿Qué te gustaría saber?}
 {124}{}{¿Trabajas para Darion?}
 {125}{}{¿Puedes irte si quieres?}
 {126}{}{¿Sabes de Darion?}

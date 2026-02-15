@@ -22,7 +22,7 @@
 {121}{}{¿Qué quieres decir?}
 {122}{}{Cierra el pico.}
 {123}{}{Oh, eres un simple, ¿verdad? Qué triste. Ha de ser un cruz difícil de soportar. Escucha: vete, y habla con Fee-lix. Él te dará trabajo. ¿Entiendes?}
-{124}{}{Uh-huh.}
+{124}{}{Ah-Vale.}
 {125}{}{¿Qué crees? Sabes demasiado. ¿Qué pasa si vuelves a RNC y te venden, o te amenazan? Como mejor estás es muerto. Por otro lado, tengo una oferta mejor.}
 {126}{}{¿Cómo qué?}
 {127}{}{No te creo.}

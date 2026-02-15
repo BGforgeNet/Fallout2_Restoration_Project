@@ -770,22 +770,17 @@ end
 
 // Cassidy dialog
 procedure Node1101 begin
-   if( Myron_Ptr != 0 ) then
+   if( Myron_Ptr != 0 ) then begin
       Reply(261);
-   else
-      Reply(262);
-
-   if( Myron_Ptr != 0 ) then
       NOption(263, Node1110, 001);
-   //NOption(264, Node1102, 001);
-   if( Myron_Ptr != 0 ) then
+      //NOption(264, Node1102, 001);
       NOption(265, Node019, 001);
-   if( Myron_Ptr == 0 ) then
-      NOption(266, Node019, 001);
-   if( Myron_Ptr == 0 ) then
-      NOption(267, Node1101a, 001);
-   if( Myron_Ptr != 0 ) then
       NOption(268, Node1101a, 001);
+   end else begin
+      Reply(262);
+      NOption(266, Node019, 001);
+      NOption(267, Node1101a, 001);
+   end
 end
 
 procedure Node1101a begin

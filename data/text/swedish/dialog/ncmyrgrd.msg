@@ -82,7 +82,7 @@
 {412}{}{Defend yourself.}
 {425}{}{Yeah? Lemme see. Hmmmm. (Checks badge, shrugs.) All right, but keep it quick. Myron's busy, and he don't
  like being disturbed.}
-{426}{}{Got it.}
+{426}{}{Jag förstår.}
 {435}{}{(Eyes roam up and down your body.) Yeah, for now... heh heh... though, I might need ANOTHER fill a little
  later on. When you're done inside, that is.}
 {436}{}{I'll... keep that in mind. Can I head on in?}

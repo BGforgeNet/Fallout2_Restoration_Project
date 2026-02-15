@@ -11,7 +11,7 @@
 {108}{}{O que você tem?}
 {109}{}{Não importa.}
 {110}{}{Ug.}
-{111}{}{Aqui está o que eu recebi: }
+{111}{}{Aqui está o que eu recebi:}
 {112}{}{Pele comum de gecko.}
 {113}{}{pele dourada de gecko.}
 {114}{}{Eu vou levar tudo que você tem.}

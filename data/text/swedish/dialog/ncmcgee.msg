@@ -113,7 +113,7 @@
  Stubborn machine! I'm gonna get my chips back anyday now...}
 {407}{}{ go now! By-yye}
 {409}{}{Uh... how long have you been doing this?}
-{410}{}{Nevermind. Sorry to bother you.}
+{410}{}{Strunt i det. Förlåt att jag stör.}
 {415}{}{}
 {416}{}{}
 {417}{}{Close now to five years... I reckon anyday now this machine's gotta break, and when it DOES...

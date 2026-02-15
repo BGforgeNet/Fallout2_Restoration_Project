@@ -32,7 +32,7 @@
 {126}{}{¿Jet? ¿Qué es el Jet?}
 {127}{}{Ya veo. Adiós.}
 {128}{}{Soy… Madame Modjeska. ¿Qué quieres de mí?}
-{129}{}{¿Puedo ayudarte en algo?}
+{129}{}{¿En que puedo ayudarte?}
 {130}{}{No tengo tiempo que perder. ¿Qué quieres de Madame Modjeska?}
 {131}{}{Apenas se me puede molestar con eso ahora. ¿Qué es lo que quieres?}
 {132}{}{Madame Modjeska se encuentra indispuesta hoy. ¿Qué quieres de ella?}

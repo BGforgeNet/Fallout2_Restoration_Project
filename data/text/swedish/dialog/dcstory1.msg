@@ -1,7 +1,7 @@
 {100}{}{You see a bar patron.}
 {101}{}{You see Leanne.}
 {102}{}{She's very beautiful, but seems to be lost in thought.}
-{103}{}{Stop it!}
+{103}{}{Sluta!}
 {104}{}{Why are you doing this?}
 {105}{}{Lämna mig ifred!}
 {106}{}{Please stop!}

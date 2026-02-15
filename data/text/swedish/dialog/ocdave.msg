@@ -44,7 +44,7 @@
 {136}{}{Stop! I don't want to know!}
 {137}{}{Oh. Hi. What can I do for you?}
 {138}{}{Uh, what you story again?}
-{139}{}{Sorry, me go.}
+{139}{}{Ledsen, jag gå.}
 {140}{}{I was wondering if I could hear your tale once again?}
 {141}{}{Wait a minute, I thought you were someone else.}
 {142}{}{At last, my time has come. Are you going to kill me now?}

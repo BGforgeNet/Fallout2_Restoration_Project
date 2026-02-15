@@ -63,7 +63,7 @@
 {151}{}{No tengo dinero, pero sí cosas para intercambiar. ¿Puedo darte algo a cambio de tus servicios?}
 {152}{}{Antes de irme, deja que te pregunte algo.}
 {153}{}{Vale, trataré de reunir algo de dinero. Adiós.}
-{154}{}{¿Qué es lo que quieres saber?}
+{154}{}{¿Qué te gustaría saber?}
 {155}{}{¿Y ahora qué?}
 {156}{}{Creo que tengo una solución para el problema que tenéis aquí con el Jet.}
 {157}{}{He oído que Redding está teniendo problemas últimamente con sus exportaciones.}

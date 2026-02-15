@@ -87,8 +87,8 @@ procedure Node025;
 // by Lujo - pointer to Abbey (flow fix)
 procedure Node025a;
 procedure Node026;
-Procedure Node027;
-Procedure Node028;
+procedure Node027;
+procedure Node028;
 // end by Lujo
 
 

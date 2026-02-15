@@ -3,11 +3,11 @@
 {102}{}{Du ser någon som bär en labbrock med ett fickskydd och massor av pennor i. Han ser lite förvirrad ut som någon som är ny på ett jobb.}
 {103}{}{Ja, sir?}
 {104}{}{Jag ny här. Behöver ställa fråga.}
-{105}{}{Me just say hi. Me go now.}
+{105}{}{Jag bara säga hej. Jag gå nu.}
 {106}{}{Jag är ny här. Jag behöver ställa några frågor för att bekanta mig med basen.}
 {107}{}{Ledsen att störa dig. Jag säger bara hej.}
 {108}{}{Jag är själv nyrekryterad, sir. Jag vet inte om jag kan svara på alla dina frågor, men jag ska försöka.}
-{109}{}{What can I help you with?}
+{109}{}{Vad kan jag hjälpa dig med?}
 {110}{}{Vad det här stället?}
 {111}{}{Vad du jobb?}
 {112}{}{Where Enclave main base at.}
@@ -35,7 +35,7 @@
 {140}{}{Tack.}
 {141}{}{De skulle finnas på underhållsavdelningen, bredvid flygledningen. }
 {142}{}{Okej.}
-{143}{}{Got it.}
+{143}{}{Jag förstår.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {154}{}{Om sergeanten ser dig utan uniform kommer han att spöa upp dig.}
 {155}{}{Varför har du inte uniform på dig? }

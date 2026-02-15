@@ -1217,7 +1217,7 @@
 {3109}{}{Uh, time for a tactical withdrawal here.}
 {3110}{}{Exit, stage left.}
 {3111}{}{It's later than I thought.}
-{3112}{}{Gotta run. See ya.}
+{3112}{}{Måste sticka. Vi ses.}
 {3113}{}{Run awaaaaay!}
 {3114}{}{I've gotta go reattach some parts.}
 {3115}{}{These old bones can't take this anymore.}

@@ -18,11 +18,11 @@
 {241}{}{Åh, okej.}
 {242}{}{Got any work?}
 {243}{}{I can handle myself.}
-{244}{}{Okay, thanks.}
+{244}{}{Okej, tack.}
 {250}{}{No doubt. Otherwise you probably wouldn't have made it here alive.}
 {251}{}{Uh, yes, so I heard. You said that already.}
 {252}{}{Got any work?}
-{253}{}{Okay, thanks.}
+{253}{}{Okej, tack.}
 {260}{}{Well it depends on what you're good at. There is something I'm curious about. If you can find out, I'll pay you a bit.}
 {261}{}{As I said, I'm looking for more information on a certain something... or someplace. I'll pay of course.}
 {262}{}{Sure what's that?}
@@ -49,7 +49,7 @@
 {322}{}{Åh.}
 {340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Where's New Reno?}
-{342}{}{Okay, thanks.}
+{342}{}{Okej, tack.}
 {350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}
 {351}{}{Oh, okay. Thanks.}
 {360}{}{You looking for some more quick and easy cash? $50. Easy money.}

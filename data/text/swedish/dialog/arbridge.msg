@@ -1,2 +1,2 @@
-{100}{}{You are standing at the Great Bridge, passageway from
- your village to the vast Wasteland.}
+{100}{}{Du står vid Den Stora Bron, passage från
+ din by till det vidsträckta Ödelandet.}

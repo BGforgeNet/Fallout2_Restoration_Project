@@ -1,7 +1,7 @@
-{100}{}{You see a simple vase.}
-{101}{}{You see a small chest.}
-{102}{}{You see a sun-baked clay vase.}
-{103}{}{You see a chest for the shaman's herbs.}
-{104}{}{You deftly steal from the shaman's things.}
-{105}{}{You skillfully lock the chest.}
-{106}{}{You skillfully unlock the chest.}
+{100}{}{Du ser en enkel vas.}
+{101}{}{Du ser en liten kista.}
+{102}{}{Du ser en solblekt lervas.}
+{103}{}{Du ser en kista för shamanens örter.}
+{104}{}{Du stjäl skickligt från shamanens saker.}
+{105}{}{Du låser skickligt kistan.}
+{106}{}{Du låser skickligt upp kistan.}

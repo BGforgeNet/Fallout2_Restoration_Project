@@ -26,7 +26,7 @@
 {120}{}{Salir.}
 {121}{}{[Recoges un pedazo de metal y reflexionas sobre qué escribir en la consola].}
 {122}{}{Tallar la palabra "Mutante" en la consola.}
-{123}{}{Tallar la palabra 'Deathclaw' en la consola.}
+{123}{}{Tallar la palabra 'Sanguinario' en la consola.}
 {124}{}{Salir.}
 {125}{}{La Selección Actual: }
 {126}{}{Especie:- }
@@ -73,7 +73,7 @@
 {173}{}{Road Runner }
 {174}{}{Roedores }
 {175}{}{Mutante }
-{176}{}{Deathclaw }
+{176}{}{Sanguinario}
 {180}{}{Cerebro }
 {181}{}{Corazón }
 {182}{}{Riñón }

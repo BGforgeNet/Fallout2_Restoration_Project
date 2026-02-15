@@ -8,6 +8,7 @@
 
 #define SCRIPT_REALNAME "ectrappr"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_ECTRAPPR
 
@@ -73,9 +74,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_RND_TRAPPER);
    set_self_ai(AI_GENERIC_GUARDS);
 
-   restock_fix
-
-   if (local_var(LVAR_Restock_Time) < game_time) then begin
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
       check_restock_item(PID_GECKO_PELT, 5, 7, 80)
       check_restock_item(PID_GOLDEN_GECKO_PELT, 1, 5, 60)
       set_local_var(LVAR_Restock_Time, (random(6,12) * ONE_GAME_DAY) + game_time);

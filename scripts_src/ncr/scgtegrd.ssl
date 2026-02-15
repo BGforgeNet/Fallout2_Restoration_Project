@@ -141,10 +141,10 @@ procedure critter_p_proc begin
       if (checkWeaponAttack or checkBadAttack) then begin
          dist := canSeePlayer;
          if (dist <= GUARDATTACKDIST and dist != 0) then begin
-            If_Party_Is_Armed then begin
+            if party_is_armed() then begin
             end
 
-            if (How_Many_Party_Members_Armed > 0) then begin
+            if (party_is_armed()) then begin
                set_global_var(GVAR_NCR_GTEGRD_ATTACK, 1);
             end else if (checkBadAttack) then begin
                set_global_var(GVAR_NCR_GTEGRD_ATTACK, 1);
@@ -234,14 +234,14 @@ procedure talk_p_proc begin
 
    ReactToLevel; //added by killap
 
-   If_Party_Is_Armed then begin
+   if party_is_armed() then begin
    end
 
    if (bad_critter_reaction) then begin
       checkbadattack := 0;
       call Node004;
       add_timer_event(self_obj, game_ticks(10), TIMER_SET_CHECKBADATTACK);
-   end else if (How_Many_Party_Members_Armed > 0) then begin
+   end else if (party_is_armed()) then begin
       checkweaponattack := 0;
       call Node002;
       call spewArmed;

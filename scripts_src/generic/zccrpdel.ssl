@@ -1113,7 +1113,7 @@ procedure check_Pass_Line begin
 end
 
 procedure exchangeCaps(variable amount) begin
-   amount := floor amount;
+   amount = floor2(amount);
 #ifdef DEALER_KEEP_CAPS
    self_caps_adjust(-amount);
 #endif

@@ -42,7 +42,7 @@
 {138}{}{Okej.}
 {139}{}{Alright! With these babies, we should able to make something of this place over the next couple months. Thanks a
  lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
-{140}{}{You're welcome.}
+{140}{}{Det var så lite.}
 {141}{}{Hello! Things are going well. We're going to work on expanding the Village in the next month.}
 {142}{}{Hello again! Things have been going well, as you can see. Look around if you have the time.}
 {143}{}{We're still building. We're hoping to expand the walls again in the next month.}

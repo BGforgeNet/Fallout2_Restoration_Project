@@ -49,7 +49,7 @@
 {220}{}{Mucho}
 {221}{}{Bajo}
 {222}{}{Alto}
-{223}{}{Máximo}
+{223}{}{Más claro}
 {224}{}{Ancho}
 {300}{}{HECHO}
 {301}{}{PAUSA}

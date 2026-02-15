@@ -3,6 +3,7 @@
 #include "../headers/define.h"
 #include "../headers/den.h"
 #include "../headers/denres1.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_DCDEALER
 
@@ -147,8 +148,7 @@ procedure map_enter_p_proc begin
       dealer := 1;
 
    if (dealer and is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          check_restock_item(PID_JET, 2, 5, 100)
          check_restock_item(PID_BUFFOUT, 0, 1, 100)
          check_restock_item(PID_STIMPAK, 2, 3, 100)

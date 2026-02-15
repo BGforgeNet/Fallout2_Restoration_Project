@@ -1621,7 +1621,7 @@
 {85000}{}{Puerta}
 {85001}{}{Una puerta normal de madera.}
 {85100}{}{Cartel}
-{85101}{}{Este cartel señala la Compañía de Préstamo Amistoso.}
+{85101}{}{Este cartel significa "Compañía de Préstamo Amistoso".}
 {85200}{}{Emblema}
 {85201}{}{Esto parece ser un emblema religioso.}
 {85300}{}{Mesa médica}

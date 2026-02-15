@@ -3,7 +3,7 @@
 {102}{}{Du ser en man i rustning som bär en kockmössa och ett förkläde.}
 {103}{}{Hej, soldat. Letar 'u efter lite käk eller bara någon att prata med?}
 {104}{}{Jag vill mat ha.}
-{105}{}{Me want talk.}
+{105}{}{Jag prata vill.}
 {106}{}{Jag äter gärna något.}
 {107}{}{Vi kan snacka en stund.}
 {108}{}{Här har du. Ta en blajja på en skyffel. Snön och flugskiten är där borta. Nåt annat?}
@@ -42,7 +42,7 @@
 {140}{}{Med lab's been taken over by an Enclave egghead named Schreber. Mean son of a bitch; don't care
  for nothing or nobody. He's been doing some sort of experiments on deathclaws down there, don't know
  what though. Anyway, he was making all kinds of noise until the commander ordered the room soundproofed.}
-{141}{}{Got it.}
+{141}{}{Jag förstår.}
 {142}{}{That's interesting. }
 {143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}
 {144}{}{Gulligt.}

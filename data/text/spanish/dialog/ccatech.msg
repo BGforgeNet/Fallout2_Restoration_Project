@@ -7,7 +7,7 @@
 {106}{}{Soy nuevo aquí y estoy intentado familiarizarme con la base. ¿Puedo hacerte algunas preguntas?}
 {107}{}{Sólo pasaba a saludar. Nos vemos.}
 {108}{}{Claro. Tengo unos minutos.}
-{109}{}{¿Puedo ayudarte en algo?}
+{109}{}{¿En que puedo ayudarte?}
 {110}{}{¿Qué es este lugar?}
 {111}{}{¿Cuál es tu trabajo?}
 {112}{}{¿Dónde está la base principal del Enclave?}

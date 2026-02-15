@@ -21,6 +21,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "simbox"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_SIMBOX
 
@@ -65,8 +66,7 @@ procedure map_enter_p_proc begin
        obj_lock(self_obj);
    end
 
-   restock_fix
-   if (local_var(LVAR_Restock_Time) < game_time) then begin
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
       variable tmp_box := move_quest_items();
       check_restock_item(PID_IGUANA_ON_A_STICK, 10, 100, 100)
       check_restock_item(PID_MEAT_ON_A_STICK, 25, 30, 100) //moved here from scmikey

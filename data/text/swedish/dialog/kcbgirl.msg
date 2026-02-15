@@ -4,7 +4,7 @@
 {103}{}{You see a bored looking woman.}
 {104}{}{You see a woman checking you out.}
 {105}{}{You're being mentally undressed by this woman.}
-{106}{}{You see a young woman.}
+{106}{}{Du ser en ung kvinna.}
 {110}{}{You see an attractive young woman. Her face is covered with a light dusting of some kind of
  white powder.}
 {111}{}{You see a middle-aged woman with an ample bosom.}

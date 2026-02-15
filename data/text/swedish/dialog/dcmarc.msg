@@ -1,8 +1,8 @@
 {100}{}{Du ser en vakt.}
-{101}{}{You see Marc, a guard.}
-{102}{}{You see Marc, one of Tyler's guards.}
-{150}{}{Yo, Tyler!}
-{200}{}{What the...?}
+{101}{}{Du ser Marc, en vakt.}
+{102}{}{Du ser Marc, en av Tylers vakter.}
+{150}{}{Tja, Tyler!}
+{200}{}{Vad i...?}
 {225}{}{Thanks for the tip. That was some fun stuff.}
 {226}{}{I knew we could take those pussies.}
 {227}{}{Too bad we killed them all. Now what are we to do?}

@@ -1,7 +1,7 @@
 {150}{}{Ves a un joven quemado por el sol, vestido con cuero negro y cadenas. Tiene la cara marcada por
  cicatrices de acné.}
-{151}{}{Ves a Pequeño Jesús Mordino.}
-{152}{}{Ves a Pequeño Jesús Mordino. Está vestido casi de arriba abajo con cuero negro y juega con uno de sus cuchillos.}
+{151}{}{Ves al Pequeño Jesus Mordino.}
+{152}{}{Ves al Pequeño Jesus Mordino. Está vestido casi de arriba abajo con cuero negro y juega con uno de sus cuchillos.}
 {200}{}{¡Tú! }
 {201}{}{Jodidamente sobresaliente, }
 {202}{}{::Te muestra el pulgar levantado::}
@@ -139,7 +139,7 @@
 {646}{}{¿Sabes algo acerca de la sobredosis de Jet de Richard Wright?}
 {647}{}{¿Puedes enseñarme a pelear a cuchillo?}
 {648}{}{No importa. Te veo más tarde.}
-{660}{}{¿Yo? Pues si tienes que preguntarlo… je. Me llamo Jesús. Jesús Mordino. Igual que mi padre, que es GRAN Jesús, líder de TODA la Familia Mordino aquí, en Reno. Así que la mayoría me llaman Pequeño Jesús. Evita confusiones, ¿sabes?}
+{660}{}{¿Yo? Pues si tienes que preguntarlo… je. Me llamo Jesus. Jesus Mordino. Igual que mi padre, que es el GRAN Jesus, líder de TODA la Familia Mordino aquí, en Reno. Así que la mayoría me llaman Pequeño Jesús. Evita confusiones. ¿Sabes?}
 {661}{}{¿Familia Mordino? ¿Quienes son?}
 {662}{}{He oído hablar de tu Familia. He oído que sois una fuerza a tener en cuenta.}
 {663}{}{Estoy buscando un trabajo. ¿La Familia Mordino contrata a alguien?}
@@ -273,7 +273,7 @@
 {1014}{}{Renesco, Jules y Jeta Jimmy J. Lo tengo. Gracias por la información.}
 {1020}{}{PORQUE, hijo puta, yo NO soy un traficante. }
 {1021}{}{PORQUE YO NO soy un traficante, ZORRA. }
-{1022}{}{Puede que venda Jet en ocasiones, pero yo soy Pequeño Jesús MORDINO, no un descerebrado camello de Jet que provoca adicción a diez clientes por día sólo para ganar lo suficiente como para comer. Así que QUE TE JODAN.}
+{1022}{}{Puede que venda Jet en ocasiones, pero yo soy el Pequeño Jesus MORDINO, no un descerebrado camello de Jet que provoca adicción a diez clientes por día sólo para ganar lo suficiente como para comer. Así que QUE TE JODAN.}
 {1023}{}{Será mejor que vigiles tu boca conmigo, Jesús.}
 {1024}{}{Tranquilo, que sólo era curiosidad… oye, tengo algunas otras preguntas…}
 {1025}{}{Está bien. Gracias por la información.}

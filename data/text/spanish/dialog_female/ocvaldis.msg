@@ -1,6 +1,6 @@
-{100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
-{101}{}{Ves a Valdis, la Garra mortal.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
+{100}{}{Ves a una sanguinaria. Te observa con ojos extrañamente inteligentes.}
+{101}{}{Ves a Valdis, el sanguinario.}
+{102}{}{Ves al típico sanguinario. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
  garras.}
 {103}{}{Saludos, humana.}
 {104}{}{¿Cómo puedo ayudarte?}
@@ -9,7 +9,7 @@
 {107}{}{Mi cabeza duele. Yo vuelvo más tarde.}
 {108}{}{Hola, ¿quién eres?}
 {109}{}{¿Cuál es tu trabajo?}
-{110}{}{No quiero ofender a tus compañeros, pero tú pareces más... ¿educado, podríamos decir?}
+{110}{}{No quiero ofender a tus compañeros sanguinarios, pero tú pareces más... ¿educado, podríamos decir?}
 {111}{}{Bueno, tan sólo pasando el tiempo.}
 {112}{}{Me llaman Valdis. ¿Y tú eres...?}
 {113}{}{Yo humana.}

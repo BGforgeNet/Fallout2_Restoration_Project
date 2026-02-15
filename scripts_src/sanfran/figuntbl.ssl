@@ -20,6 +20,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "figuntbl"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_FIGUNTBL
 #define CUR_COMP_SCRIPT         SCRIPT_FIGUNTBL
@@ -151,8 +152,7 @@ procedure map_enter_p_proc begin
 
    if (validHandle(i_gun_merchant)) then begin
       ndebug("self_tile: " + self_tile);
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          if (self_tile == TABLE_1) then begin //Armor table
             ndebug("table 1 set");
             tmp_box := move_quest_items();

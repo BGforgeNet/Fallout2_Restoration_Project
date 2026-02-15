@@ -48,7 +48,7 @@
 {182}{}{¡Eres tan fuerte!}
 {183}{}{Eres realmente duro, ¿eh?}
 {184}{}{A veces me siento como una bola-8 mágica. Digo cosas al azar y me voy.}
-{185}{}{¿Alguna vez has combatido contra una Garra mortal?}
+{185}{}{¿Alguna vez has combatido contra un sanguinario?}
 {186}{}{¿Eres tan inteligente como fuerte?}
 {187}{}{Desde luego, Francis parece feliz últimamente.}
 {188}{}{Francis parece resplandecer. ¿Habrá tenido sexo?}

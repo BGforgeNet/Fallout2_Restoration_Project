@@ -17,7 +17,7 @@
 {115}{}{Hey, I'm the one asking the questions here.}
 {116}{}{I've got to go.}
 {117}{}{Glad to meet you, I'm}
-{118}{}{Got it.}
+{118}{}{Jag förstår.}
 {119}{}{I am currently guarding this area of the vault against any unauthorized personnel.}
 {120}{}{Un awe thor iced person el?}
 {121}{}{Uh... sure.}

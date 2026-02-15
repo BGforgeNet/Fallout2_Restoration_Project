@@ -17,11 +17,7 @@
 #define map_enter_action                     match_dude_elevation;                                          \
                                              if (is_loading_game == false) then begin                       \
                                                 if (not(jo_dead)) then begin                                \
-                                                   if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin \
-                                                      set_local_var(LVAR_Restock_Time, game_time - 1); \
-                                                      set_local_var(LVAR_Restock_Time_Fix, 1); \
-                                                   end \
-                                                   if (local_var(LVAR_Restock_Time) < game_time) then begin    \
+                                                   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin \
                                                       destroy_obj_inven(self_obj);                             \
                                                       check_restock_item(PID_ROPE, 1, 2, 100)                  \
                                                       check_restock_item(PID_10MM_JHP, 1, 2, 100)              \
@@ -44,4 +40,5 @@
                                              end
 
 #include "../headers/modmain.h"
+#include "../sfall/lib.math.h"
 #include "../generic/zilocker.ssl"

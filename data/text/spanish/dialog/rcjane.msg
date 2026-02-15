@@ -73,7 +73,7 @@
 {172}{}{Los lagartos grandes me dan miedo. Creo que no hace. Gracias por la advertencia. Adiós. (piensas para ti mismo) *Uf, eso estuvo cerca*.}
 {173}{}{La parte deportiva es la apuesta sobre el resultado de la pelea. Así es como funciona: vienes y me dices que quieres apostar. Te indico qué dos criaturas van a pelear a continuación y me dices en cuál fías tu dinero.}
 {174}{}{¿Y entonces qué?}
-{175}{}{Simple, si tu criatura gana, duplicas tu dinero. ¡Lo TRIPLICAS en caso de un derribo en el primer asalto! Si tu criatura pierde, entonces tu dinero me lo quedo yo. Normalmente hay varias peleas al día. Hasta que el número de criaturas sea demasiado bajo, puedes apostar en todas las peleas. Pero una sola apuesta por combate. Ah, sí, para hacerlo sencillo y emocionante, todas las apuestas son de 100 dólares.}
+{175}{}{Simple, si tu criatura gana, duplicas tu dinero. ¡Lo TRIPLICAS en caso de un derribo en el primer asalto! Si tu criatura pierde, entonces tu dinero me lo quedo yo. Normalmente hay varias peleas al día. Hasta que el número de criaturas sea demasiado bajo, puedes apostar en todas las peleas. Pero una sola apuesta por combate. Ah, y para hacerlo sencillo y emocionante, todas las apuestas son de 100 dólares.}
 {176}{}{Vale. Ya lo he entendido. Déjame intentarlo.}
 {177}{}{Ya veo. Hmm, creo que probaré en otro momento. Adiós.}
 {178}{}{Este va a ser un buen intercambio de golpes. }

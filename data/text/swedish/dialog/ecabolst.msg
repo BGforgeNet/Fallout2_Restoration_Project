@@ -4,7 +4,7 @@
 {201}{}{Kill the oppressor!}
 {202}{}{Kill the evil slaver!}
 {203}{}{Down with slavery! Kill the slavers!}
-{204}{}{Die, slaving scum!}
+{204}{}{Dö, slavdrivande avskum!}
 {250}{}{Hello there!}
 {251}{}{Hey stranger!}
 {300}{}{Hey stranger, what are you doing out in these parts?}

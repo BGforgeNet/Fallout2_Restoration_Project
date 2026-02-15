@@ -19,7 +19,7 @@
 {251}{}{. }
 {252}{}{Play last $}
 {253}{}{.}
-{254}{}{Call it a day.}
+{254}{}{Sluta för dagen.}
 {255}{}{You are broke. You are forced to call it a night.}
 {256}{}{Call it a night.}
 {257}{}{You are broke. You are forced to call it a day.}

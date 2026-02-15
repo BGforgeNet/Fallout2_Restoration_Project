@@ -11,9 +11,9 @@
 {150}{}{You see a very grimy woman.}
 {151}{}{She doesn't seem to have ever bathed.}
 {160}{}{You see a rather large woman.}
-{161}{}{She looks like strong fighter.}
+{161}{}{Hon ser ut som stark kämpe.}
 {170}{}{You see a scrawny looking woman.}
-{171}{}{This one doesn't seem like much trouble.}
+{171}{}{Den här verkar inte vara något större problem.}
 {200}{}{Dö!}
 {201}{}{Where you at?}
 {202}{}{I'm gunna hurt you.}
@@ -30,18 +30,18 @@
 {233}{}{I won't fight; don't kill me!}
 {234}{}{Please, I don't want to die!}
 {235}{}{You're slavers aren't you? Oh, god.}
-{245}{}{Quiet! They near.}
+{245}{}{Tyst! De närmar sig.}
 {246}{}{Kill bad men.}
-{247}{}{No take family from me.}
-{248}{}{I protect family.}
-{249}{}{Must not find us.}
-{250}{}{They bad people.}
-{260}{}{Slavers are coming. Everyone quiet.}
+{247}{}{Inte ta familj från mig.}
+{248}{}{Jag skydda familj.}
+{249}{}{Får inte hitta oss.}
+{250}{}{De dåliga människor.}
+{260}{}{Slavhandlare kommer. Tysta allihop.}
 {261}{}{Get ready; I think they're close now.}
-{262}{}{I'm not going down without a fight.}
-{263}{}{They'll never enslave us.}
-{264}{}{Those slavers will pay for this.}
-{265}{}{No slaver's going to take my family.}
+{262}{}{Jag tänker inte ge mig utan strid.}
+{263}{}{De kommer aldrig att förslava oss.}
+{264}{}{De där slavhandlarna ska få betala för det här.}
+{265}{}{Ingen slavhandlare kommer att ta min familj.}
 {270}{}{They no find me.}
 {271}{}{Must hide. Must hide.}
 {272}{}{Why they want hurt.}
@@ -55,16 +55,16 @@
 {283}{}{I don't want to die.}
 {284}{}{I don't want to be a slave.}
 {285}{}{I deserve better than this.}
-{290}{}{You die now!}
+{290}{}{Du dör nu!}
 {291}{}{Jag döda!}
-{292}{}{You no hurt family!}
-{293}{}{You no take family!}
-{294}{}{I protect!}
-{295}{}{I hurt you!}
-{296}{}{You pay!}
-{300}{}{You're not going to take my family, slaver!}
-{301}{}{Die, slaving scum!}
-{302}{}{You'll pay, you bastard!}
+{292}{}{Du inte skada familj!}
+{293}{}{Du inte ta familj!}
+{294}{}{Jag skydda!}
+{295}{}{Jag skada dig!}
+{296}{}{Du betala!}
+{300}{}{Du kommer inte att få ta min familj, slavhandlare!}
+{301}{}{Dö, slavdrivande avskum!}
+{302}{}{Du ska få betala, din jävel!}
 {303}{}{I'll fight to the death for my family!}
 {304}{}{You won't get away with this!}
 {305}{}{You're not leaving here with my friends!}

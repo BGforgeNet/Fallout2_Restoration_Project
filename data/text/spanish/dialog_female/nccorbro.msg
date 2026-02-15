@@ -78,7 +78,7 @@
 {351}{}{Te alejas}
 {353}{}{Desde luego.}
 {354}{}{En realidad, lo es mi esposa.}
-{356}{}{No. Estoy aquí por el dinero de Gran Jesús Mordino.}
+{356}{}{No. Estoy aquí por el dinero del Gran Jesus Mordino.}
 {357}{}{No. Perdona por molestarte.}
 {358}{}{Ni de coña. Perdona por molestarte.}
 {370}{}{Muy bien, genio. Pagamos 5… er, 3 fichas por rodaje. Entra en la habitación trasera y encera el mandoble de ese tipo.}
@@ -226,12 +226,12 @@
 {721}{}{Tú y yo no tenemos nada que decirnos. Desaparece.}
 {730}{}{¡Oye, bienvenido de nuevo, }
 {732}{}{¿Primero puedes contarme algo acerca del estudio?}
-{733}{}{Me alegra que digas eso. Verás, estoy aquí por el dinero de Gran Jesús Mordino.}
+{733}{}{Me alegra que digas eso. Verás, estoy aquí por el dinero del Gran Jesus Mordino.}
 {734}{}{Está bien. Volveré en otro momento.}
 {735}{}{(Te guiña un ojo). ¡Tú eres dinero, nena, ni más ni menos que dinero!}
 {740}{}{Los Hermanos Corsican a tu servicio… (El hombre te contempla y sonríe). ¡Vaya, bienvenida de nuevo, }
 {743}{}{Claro que sí. Rompamos unos cuantos muelles de cama.}
-{745}{}{En realidad no. Estoy aquí por el dinero de Gran Jesús Mordino.}
+{745}{}{En realidad no. Estoy aquí por el dinero del Gran Jesus Mordino.}
 {746}{}{No, gracias.}
 {755}{}{Pero q... ¡¿que NO quieres hacerlo?! ¿Qué pasa, que ahora eres demasiado BUENO para nosotros? ¡Nosotros te convertimos en lo que eres, '}
 {756}{}{No olvido y no enfades yo triste yo vuelvo pero yo marcho ahora.}
@@ -250,7 +250,7 @@
 {784}{}{¿Puedes contarme algo sobre el estudio?}
 {785}{}{¿Tienes alguna… abertura… que yo pueda llenar?}
 {786}{}{¿Tienes algo de trabajo para alguien como yo?}
-{787}{}{Estoy aquí por el dinero de Gran Jesús Mordino.}
+{787}{}{Estoy aquí por el dinero del Gran Jesus Mordino.}
 {788}{}{Nada. Lamento molestarte.}
 {795}{}{El Golden Globes, el estudio para todos los talentos que aún hay en el mundo. Y tú, amigo, tú podrías ser una ESTRELLA, ¿sabes
  lo que digo? ¿Te interesa actuar?}

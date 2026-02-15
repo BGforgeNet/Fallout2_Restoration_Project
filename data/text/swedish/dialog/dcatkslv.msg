@@ -4,32 +4,32 @@
 {201}{}{This one looks fairly strong.}
 {202}{}{He moves with great speed.}
 {210}{}{She doesn't seem to have ever bathed.}
-{211}{}{She looks like strong fighter.}
-{212}{}{This one doesn't seem like much trouble.}
-{245}{}{Quiet! They near.}
+{211}{}{Hon ser ut som stark kämpe.}
+{212}{}{Den här verkar inte vara något större problem.}
+{245}{}{Tyst! De närmar sig.}
 {246}{}{Kill bad men.}
-{247}{}{No take family from me.}
-{248}{}{I protect family.}
-{249}{}{Must not find us.}
-{250}{}{They bad people.}
-{260}{}{Slavers are coming. Everyone quiet.}
-{261}{}{Get ready. I think they're close now.}
-{262}{}{I'm not going down without a fight.}
-{263}{}{They'll never enslave us.}
-{264}{}{Those slavers will pay for this.}
-{265}{}{No slaver's going to take my family.}
-{300}{}{You die now!}
+{247}{}{Inte ta familj från mig.}
+{248}{}{Jag skydda familj.}
+{249}{}{Får inte hitta oss.}
+{250}{}{De dåliga människor.}
+{260}{}{Slavhandlare kommer. Tysta allihop.}
+{261}{}{Gör dig redo. Jag tror att de är nära nu.}
+{262}{}{Jag tänker inte ge mig utan strid.}
+{263}{}{De kommer aldrig att förslava oss.}
+{264}{}{De där slavhandlarna ska få betala för det här.}
+{265}{}{Ingen slavhandlare kommer att ta min familj.}
+{300}{}{Du dör nu!}
 {301}{}{Jag döda!}
-{302}{}{You no hurt family!}
-{303}{}{You no take family!}
-{304}{}{I protect!}
-{305}{}{I hurt you!}
-{306}{}{You pay!}
+{302}{}{Du inte skada familj!}
+{303}{}{Du inte ta familj!}
+{304}{}{Jag skydda!}
+{305}{}{Jag skada dig!}
+{306}{}{Du betala!}
 {307}{}{Dö!}
-{308}{}{I'm gonna hurt you.}
-{350}{}{You're not going to take my family, slaver!}
-{351}{}{Die, slaving scum!}
-{352}{}{You'll pay, you bastard!}
+{308}{}{Jag kommer att skada dig.}
+{350}{}{Du kommer inte att få ta min familj, slavhandlare!}
+{351}{}{Dö, slavdrivande avskum!}
+{352}{}{Du ska få betala, din jävel!}
 {353}{}{I'll fight to the death for my family!}
 {354}{}{You won't get away with this!}
 {355}{}{You're not leaving here with my friends!}

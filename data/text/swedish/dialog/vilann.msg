@@ -1,4 +1,4 @@
-{100}{}{You see a young woman.}
+{100}{}{Du ser en ung kvinna.}
 {101}{}{You see Ann, Connar's wife.}
 {102}{}{She appears to be busily cooking.}
 {200}{}{Why hello there, I'm Connar's wife, Ann. You must be the one who helped us out. I can't tell you how much

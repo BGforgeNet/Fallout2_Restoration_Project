@@ -1,7 +1,7 @@
 {100}{}{You see bar patron.}
 {101}{}{You see Stacy.}
 {102}{}{She seems to be a little sad.}
-{103}{}{Stop it!}
+{103}{}{Sluta!}
 {104}{}{How could you?}
 {105}{}{Försvinn från mig!}
 {106}{}{Varför?}
@@ -57,7 +57,7 @@
 {162}{}{I can understand that.}
 {163}{}{Those were the wild ones, but I'm sure that's what happened to mine. Now I know why Mom always kept a close eye on her.}
 {164}{}{How sad.}
-{165}{}{I'm sorry.}
+{165}{}{Jag är ledsen.}
 {166}{}{Åh...}
 {167}{}{It makes me sad to think about it...}
 {168}{}{Hej då.}

@@ -72,7 +72,7 @@
 {171}{}{Uh, I'm in. I guess.}
 {172}{}{Big lizards scare me. I better stay out of this. Thanks for the warning. Goodbye. (you think to yourself) *Phew, that was close.*}
 {173}{}{The sportin' part is the bet on the outcome of the fight. Here's how it works. You come up to me and say you want to place a bet. I tell you which two critters are fightin' next and you tell me which one you're putting your money on.}
-{174}{}{Then what?}
+{174}{}{Sen då?}
 {175}{}{Simple, if your critter wins you double your money. TRIPLE in the event of a first-round takedown! If your critter loses, then your money belongs to me. There are usually several fights each day. Until the stock of critters runs low, you can bet on all of 'em. But just one bet per fight. Oh, yeah, just to keep things nice an' easy, all bets are $100.}
 {176}{}{OK. I get it. Let me try it.}
 {177}{}{I see. Hmm, I think I'll try this another time. Goodbye.}

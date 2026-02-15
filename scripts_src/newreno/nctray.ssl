@@ -17,6 +17,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "nctray"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 #define NAME                    SCRIPT_NCTRAY
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
 #include "../headers/command.h"
@@ -103,7 +104,7 @@ procedure Node058;
 
 #define LVAR_Flags                     (4)
 #define LVAR_Sex_T_Ray                 (5)
-#define LVAR_Restock_Time              (6)  // Seraph's Code - expansion
+#define LVAR_Restock_Time              (6) // Seraph's Code
 #define LVAR_Restock_Time_Fix          (7) // added by killap - expansion
 
 #define gave_car_exp_bit               bit_10
@@ -240,13 +241,12 @@ procedure map_enter_p_proc begin
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end
-      restock_fix
-// Begin Seraph's Code - expansion
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
-         check_restock_item(PID_SMALL_ENERGY_CELL, 2, 6, 80)
-         check_restock_item(PID_MICRO_FUSION_CELL, 1, 3, 60)
-         set_local_var(LVAR_Restock_Time, game_time + (ONE_GAME_WEEK * Random(1, 2)));
-      end
+// Begin Seraph's Code
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
+      check_restock_item(PID_SMALL_ENERGY_CELL, 2, 6, 80)
+      check_restock_item(PID_MICRO_FUSION_CELL, 1, 3, 60)
+      set_local_var(LVAR_Restock_Time, game_time + (ONE_GAME_WEEK * Random(1, 2)));
+   end
 // End Seraph's Code
 end
 procedure map_exit_p_proc begin

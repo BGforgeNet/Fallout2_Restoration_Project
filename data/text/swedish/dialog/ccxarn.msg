@@ -99,7 +99,7 @@
 {173}{}{Yeah, I've got it. I'll open the door for you.}
 {174}{}{Jag letar fortfarande.}
 {175}{}{Thank you. I will not forget this.}
-{176}{}{You welcome.}
+{176}{}{Det så lite.}
 {177}{}{You are welcome.}
 {178}{}{Thank you again, my friend. I owe you a debt that can not be repaid.}
 {179}{}{Greetings, human. The base is on full alert. Are you by any chance the cause?}

@@ -47,8 +47,8 @@
  the vault, I found the deathclaws were already here. Needless to say, I was in shock. However, I am
  convinced that they are not responsible for what happened to my fellow citizens. If, by chance, you
  want more information on this matter, you can seek out Goris in the library.}
-{140}{}{Okay, thanks.}
-{141}{}{Okay, bye.}
+{140}{}{Okej, tack.}
+{141}{}{Okej, hej då.}
 {142}{}{I'll keep this in mind.}
 {143}{}{I don't need you telling me where to go or who to see.}
 {144}{}{Thank you for your help. I have more questions, though.}
@@ -89,5 +89,5 @@
 {173}{}{Ask question?}
 {174}{}{Me been here before? Sorry. Got go.}
 {175}{}{I wanted to talk with you once again.}
-{176}{}{Just saying hello.}
+{176}{}{Säger bara hej.}
 {177}{}{. Can I ask you some questions?}

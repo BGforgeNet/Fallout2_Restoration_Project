@@ -1,50 +1,50 @@
-{100}{}{You see a young woman in tattered clothing.}
-{101}{}{You see Dalia.}
-{102}{}{You see a young woman in tattered clothing. She seems very alert, and watches her surroundings
- carefully.}
-{103}{}{Hi. I'm Dalia. What can I help you with?}
-{104}{}{Nothing, just say hi.}
-{105}{}{Uh, who you?}
-{106}{}{What you do here?}
-{107}{}{You look like guard.}
+{100}{}{Du ser en ung kvinna i trasiga kläder.}
+{101}{}{Du ser Dalia.}
+{102}{}{Du ser en ung kvinna i trasiga kläder. Hon verkar mycket alert och iakttar sin omgivning
+ noggrant.}
+{103}{}{Hej. Jag heter Dalia. Vad kan jag hjälpa dig med?}
+{104}{}{Inget, bara säg hej.}
+{105}{}{Öh, vem du?}
+{106}{}{Vad du gör här?}
+{107}{}{Du ser ut som vakt.}
 {108}{}{Jag gå nu.}
-{109}{}{Just saying hello.}
+{109}{}{Säger bara hej.}
 {110}{}{Vem är du?}
 {111}{}{Vad är det du gör?}
-{112}{}{You look like you're guarding that trail.}
+{112}{}{Du ser ut som om du vaktar den där stigen.}
 {113}{}{Jag ska gå nu.}
-{114}{}{Well, hello to you. Now, I'm sorry, but you should go.}
-{115}{}{Me want talk.}
-{116}{}{Ok, me go.}
-{117}{}{I want to talk to you.}
+{114}{}{Ja men, hej på dig. Jag är ledsen, men du borde gå.}
+{115}{}{Jag prata vill.}
+{116}{}{Ok, ja' gå.}
+{117}{}{Jag vill prata med dig.}
 {118}{}{Hej då.}
-{119}{}{I said I'm Dalia. Look, I don't mean to be rude, but I don't want to talk to anyone right now. Okay?}
-{120}{}{Okay, bye.}
-{121}{}{Just little more.}
-{122}{}{Then I'll leave.}
-{123}{}{I just want to ask you a question.}
-{124}{}{I like the fresh air, I like the trees, so I'm standing here. Do you have a problem with that?}
-{125}{}{Sorry, me go.}
-{126}{}{No, not problem. Me ask you something.}
-{127}{}{I don't have a problem, but I am curious about something.}
-{128}{}{Sorry, I'll be going then.}
-{129}{}{No, I'm not guarding the trail. There's nothing in this hole worth guarding. I told you, I'm
- enjoying the fresh air. Now go away.}
-{130}{}{You nice talk to. Me talk more.}
-{131}{}{Sorry me bother. Me go.}
-{132}{}{But we're having such a nice conversation, why stop?}
-{133}{}{I guess it's time to leave.}
-{134}{}{Oh no, it's the pest again. Look, I have nothing to say to you. Go away!}
+{119}{}{Jag sa att jag heter Dalia. Jag vill inte vara oförskämd, men jag vill inte prata med någon just nu. Okej?}
+{120}{}{Okej, hej då.}
+{121}{}{Bara mer lite.}
+{122}{}{Då går jag.}
+{123}{}{Jag vill bara ställa en fråga till dig.}
+{124}{}{Jag gillar den friska luften, jag gillar träden, så jag står här. Har du något problem med det?}
+{125}{}{Ledsen, jag gå.}
+{126}{}{Nej, inte problem. Jag fråga dig något.}
+{127}{}{Jag har inget problem, men jag är nyfiken på en sak.}
+{128}{}{Ledsen, jag ska gå då.}
+{129}{}{Nej, jag vaktar inte stigen. Det finns inget i det här hålet som är värt att vakta. Jag sa ju att jag
+ njuter av den friska luften. Försvinn nu.}
+{130}{}{Du trevlig prata med. Jag prata mer.}
+{131}{}{Ledsen jag stör. Jag gå.}
+{132}{}{Men vi har ett så trevligt samtal, varför sluta?}
+{133}{}{Jag antar att det är dags att gå.}
+{134}{}{Åh nej, det är skadedjuret igen. Jag har inget att säga till dig. Gå din väg!}
 {135}{}{}
 {136}{}{}
-{137}{}{I have no quarrel with you. Leave me be.}
+{137}{}{Jag har inget otalt med dig. Låt mig vara i fred.}
 {138}{}{}
 {139}{}{}
-{140}{}{Hi. I'm Dalia. What can I help you with?}
-{141}{}{Person go by here? In hurry?}
+{140}{}{Hej. Jag heter Dalia. Vad kan jag hjälpa dig med?}
+{141}{}{Person som förbi här? Bråttom?}
 {142}{}{Ingenting.}
 {143}{}{Ingenting.}
-{144}{}{Did you see someone go by here in a hurry?}
+{144}{}{Såg du någon ha bråttom förbi här?}
 {145}{}{I see people go by here every day. I really don't pay much attention to them.}
 {146}{}{Me not have time for you crap.}
 {147}{}{Åh, okej.}

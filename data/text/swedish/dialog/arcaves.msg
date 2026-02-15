@@ -1,2 +1,2 @@
-{100}{}{You are in a dark, musty temple. The shadows seem to
- play tricks with your eyes, and you can hear the faint sound of movement.}
+{100}{}{Du befinner dig i ett mörkt, unket tempel. Skuggorna tycks
+ spela ett spratt för dina ögon och du kan höra det svaga ljudet av rörelser.}

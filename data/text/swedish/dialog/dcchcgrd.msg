@@ -38,9 +38,9 @@
 {186}{}{Sorry; I can let you in, but your friends are gonna have to wait outside.}
 {187}{}{Only one of you are allowed in at a time.}
 {200}{}{Good evening.}
-{201}{}{Good afternoon.}
-{202}{}{Good morning.}
-{203}{}{Just finish up your business, thank you.}
+{201}{}{God eftermiddag.}
+{202}{}{God morgon.}
+{203}{}{Avsluta bara vad du håller på med, tack.}
 {250}{}{You know, pal, I've had enough of your shit!}
 {251}{}{You know, bitch, I've had enough of your shit!}
 {252}{}{[SLUT]}

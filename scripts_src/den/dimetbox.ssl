@@ -18,6 +18,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "dimetbox"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_DIMETBOX
 
@@ -46,8 +47,7 @@ procedure map_enter_p_proc begin
    /* Set up the door state when the player first enters the map */
    den_metzger_box_obj := self_obj;
    if (is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          if (gave_metzger_party_stuff) then begin
             off_gave_metzger_party_stuff;
             the_box_to_kill := create_object(PID_FOOTLOCKER_CLEAN_RIGHT, 0, 0);

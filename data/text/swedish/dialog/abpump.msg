@@ -1,16 +1,16 @@
-{100}{}{You see a waterpump.}
-{101}{}{You see a really old waterpump that appears to be broken.}
-{102}{}{The waterpump is working fine now.}
-{103}{}{You are going to need more than just your hands to fix this machine. Perhaps some tools would help with installing
- this part.}
-{104}{}{You repaired the waterpump.}
-{105}{}{You failed to repair the pump.}
-{106}{}{You find out what is wrong with the water pump.}
-{200}{}{You open the machine and look inside. You see a lot of rusty gears and motors. One of the motors
- has a crack in it.}
-{201}{}{Call it a day.}
-{202}{}{Investigate more.}
-{203}{}{Upon closer inspection you see that the crack is not the cause of the trouble, but rather
- the connection for where the wires go. The connectors seem to have burned out over the years of use. It's going to
- take a whole new motor as well as a new set of wires to get this machine working again.}
+{100}{}{Du ser en vattenpump.}
+{101}{}{Du ser en riktigt gammal vattenpump som ser ut att vara trasig.}
+{102}{}{Vattenpumpen fungerar bra nu.}
+{103}{}{Du kommer att behöva mer än bara dina händer för att fixa den här maskinen. Kanske några verktyg skulle hjälpa till med att installera
+ den här delen.}
+{104}{}{Du reparerade vattenpumpen.}
+{105}{}{Du misslyckades med att reparera pumpen.}
+{106}{}{Du tar reda på vad som är fel på vattenpumpen.}
+{200}{}{Du öppnar maskinen och tittar in. Du ser en massa rostiga kugghjul och motorer. En av motorerna
+ har en spricka i sig.}
+{201}{}{Sluta för dagen.}
+{202}{}{Undersök mer.}
+{203}{}{Vid närmare granskning ser du att sprickan inte är orsaken till problemet, utan snarare
+ anslutningen för sladdarna. Kontakterna verkar ha brunnit ut under åren av användning. Det kommer att
+ behövas en helt ny motor och en ny uppsättning sladdar för att få den här maskinen att fungera igen.}
 {204}{}{Avsluta.}

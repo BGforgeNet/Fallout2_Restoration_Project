@@ -54,7 +54,7 @@
 {238}{}{Bet }
 {239}{}{ chips?}
 {240}{}{Call it a night.}
-{241}{}{Call it a day.}
+{241}{}{Sluta för dagen.}
 {245}{}{The chamber spin, and... come up nothing.}
 {246}{}{NOTHING. NOTHING! You hear her laughing, and you become enraged... the Bouncers are forced to pry your screaming body off the machine.}
 {247}{}{(The machine chuckles.) *I got what I want out of this relationship. Sorry, sweetheart. Don't let the casino door hit you in the ass on the way out. Ha ha ha ha ha ha.*}
@@ -65,7 +65,7 @@
 {252}{}{You are broke. You are forced to call it a night.}
 {253}{}{You are broke. You are forced to call it a day.}
 {254}{}{Call it a night.}
-{255}{}{Call it a day.}
+{255}{}{Sluta för dagen.}
 {260}{}{Three daggers. You break even.}
 {261}{}{(The machine continues to whisper at you.) *Come on, sugar... it happens to every one at least once... try again... please...*}
 {262}{}{(The machine continues to whisper at you.) *Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
@@ -74,14 +74,14 @@
 {265}{}{You now still have }
 {266}{}{ chips. Keep playing?}
 {267}{}{Call it a night.}
-{268}{}{Call it a day.}
+{268}{}{Sluta för dagen.}
 {275}{}{Three Bullets! You double your money!}
 {276}{}{(The machine gives a gasp of pleasure.) *That's it, sugah... keep pulling the handle... faster, harder, faster... come on now...*}
 {277}{}{(The machine gives a groan of pleasure.) *That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
 {278}{}{You now have }
 {279}{}{ chips! Keep playing?}
 {280}{}{Call it a night.}
-{281}{}{Call it a day.}
+{281}{}{Sluta för dagen.}
 {290}{}{Three Grenades! Hot damn! You triple your money!}
 {291}{}{(The machine squeals in pleasure as the chips clatter into the tray.) *Aieeeeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
 {292}{}{(The machine grunts in pleasure as the chips clatter into the tray.) *Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
@@ -90,7 +90,7 @@
 {295}{}{You now have }
 {296}{}{ chips. Keep playing?}
 {297}{}{Call it a night.}
-{298}{}{Call it a day.}
+{298}{}{Sluta för dagen.}
 {305}{}{(You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights. Its coin slot beckons you, and you feel your face flush with anticipation. As you stare at it, one of its three windows winks at you. From the coin slot you hear a throaty voice.) *Well, my word! Helloooo there, sugah. Show a girl a good time?*}
 {306}{}{(You see a slot machine. Its strong, rugged frame and golden handle gleam like a sun god beneath New Reno's lights. Its coin slot beckons you seductively, and you feel your thighs burn with anticipation. As you stare at it, suddenly a heavy male voice whispers from the coin slot.) *Ain't seen a pretty woman like you around before, miss. You looking to take a chance?*}
 {307}{}{::Pinch self::}
@@ -145,7 +145,7 @@
 {389}{}{Bet }
 {390}{}{ chips?}
 {391}{}{Call it a night.}
-{392}{}{Call it a day.}
+{392}{}{Sluta för dagen.}
 {400}{}{The chamber spin, and... come up nothing.}
 {401}{}{NOTHING. NOTHING! You hear her laughing, and you become enraged... the Bouncers are forced to pry your screaming body off the machine.)}
 {402}{}{(The machine chuckles.) *I got what I want out of this relationship. Sorry, sweetheart. Don't let the casino door hit you in the ass on the way out. Ha ha ha ha ha ha.*}
@@ -156,21 +156,21 @@
 {407}{}{You can't afford to play any more. You are forced to call it a night.}
 {408}{}{You can't afford to play any more. You are forced to call it a day.}
 {409}{}{Call it a night.}
-{410}{}{Call it a day.}
+{410}{}{Sluta för dagen.}
 {415}{}{Three bombs... you break even.}
 {416}{}{(The machine continues to whisper at you.) *Come on, sugar... it happens to every one at least once... try again... please...*}
 {417}{}{(The machine continues to whisper at you.) *Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
 {418}{}{You still have }
 {419}{}{ chips. Keep playing?}
 {420}{}{Call it a night.}
-{421}{}{Call it a day.}
+{421}{}{Sluta för dagen.}
 {425}{}{Three Nukes! You double your money!}
 {426}{}{(The machine gives a gasp of pleasure.) *That's it, sugah... keep pulling the handle... faster, harder, faster... come on now...*}
 {427}{}{(The machine gives a groan of pleasure.) *That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
 {428}{}{You now have }
 {429}{}{ chips! Keep playing?}
 {430}{}{Call it a night.}
-{431}{}{Call it a day.}
+{431}{}{Sluta för dagen.}
 {435}{}{Three Mushroom Clouds! You triple your money!}
 {436}{}{(The machine squeals in pleasure as the chips clatter into the tray.) *Aieeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
 {437}{}{(The machine grunts in pleasure as the chips clatter into the tray.) *Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
@@ -179,7 +179,7 @@
 {440}{}{You now have }
 {441}{}{ chips. Keep playing?}
 {442}{}{Call it a night.}
-{443}{}{Call it a day.}
+{443}{}{Sluta för dagen.}
 {1000}{}{The odds don't seem quite right.}
 {1001}{}{Odds look right.}
 {1005}{}{You can't gauge the odds for certain.}

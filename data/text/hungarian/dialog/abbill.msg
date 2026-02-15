@@ -1,12 +1,12 @@
-{100}{}{You see trader Bill.}
+{100}{}{Látod Bill kereskedőt.}
 {101}{}{You see an older looking merchant.}
-{200}{}{Hello there, traveler. Name's Bill. What can I get for you?}
-{201}{}{Welcome back. Need something else?}
+{200}{}{Üdvözlöm, utazó! Bill a nevem. Mit tehetek érted?}
+{201}{}{Üdv ismét! Kell még valami?}
 {202}{}{Let's barter.}
 {203}{}{I hear you're the man to talk to about caravans.}
 {204}{}{Nem fontos! Üdv!}
-{210}{}{Say, I've noticed a lot of old equipment and items have been collected here at the Abbey.
- I don't suppose you've found anything... special, during your time here?}
+{210}{}{Észrevettem, hogy sok régi felszerelést és tárgyat gyűjtöttek össze itt az apátságban.
+Gondolom, nem találtál semmi... különlegeset az itt töltött időd alatt?}
 {211}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
  especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
  myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
@@ -25,15 +25,15 @@
 {219}{}{Hát, biztos vagyok benne, hogy Marcusnak jól jönne ez. Mennyiért adod?}
 {220}{}{Az érdekes. Nos, Marcus elég kemény legény. Nem hiszem, hogy szükségünk lenne erre az tárgyra. Hadd kérdezzek meg valami mást.}
 {221}{}{Ez a rossz fiú könnyen megolvadhat, és belőle három vagy négy darab fém páncél készülhet. Mondjuk 3000 dollárt.}
-{222}{}{I've got enough for that.}
-{223}{}{I think I'll pass for right now. Let me ask you something else.}
+{222}{}{Elég ebből.}
+{223}{}{Most nincs erre szükségem. Hadd kérdezzek valami másról.}
 {224}{}{Rendben. Ehhez ketten kellünk, hogy mozgassuk ezt a cuccot, szóval segítek neked felhúzni a barátodra.}
 {225}{}{[Kész]}
 {226}{}{Hey, this fits nicely!}
 {300}{}{I might know a thing or two. What would you like to know?}
 {301}{}{How often do you get resupplied?}
 {302}{}{Are the caravans hiring?}
-{303}{}{On second thought, I have to go.}
+{303}{}{Ez túl veszélyes, nem vállalom. Viszlát.}
 {304}{}{I get a new shipment of supplies twice a month. Frankly, I wish they'd come more often, but we're only on a
  minor trade route so I guess this is the best we can get.}
 {305}{}{I'm not quite sure. Usually, the ones that stop by here are pretty well equipped and not really interested in

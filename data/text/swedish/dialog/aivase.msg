@@ -1,2 +1,2 @@
-{100}{}{You see a simple vase.}
-{101}{}{You see a sun-baked clay vase.}
+{100}{}{Du ser en enkel vas.}
+{101}{}{Du ser en solblekt lervas.}

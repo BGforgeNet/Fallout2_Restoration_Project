@@ -1,7 +1,7 @@
 {100}{}{Du möter skurkar och vargar.}
 {101}{}{Du möter skurkar.}
 {102}{}{Du möter vargar.}
-{103}{}{You encounter radscorpions.}
+{103}{}{Du möter radioaktiva skorpioner.}
 {104}{}{Du möter sporväxter.}
 {105}{}{Du möter en Enighetspatrull som slåss mot skurkar.}
 {106}{}{Du möter en Enighetspatrull som slåss mot vargar.}
@@ -9,12 +9,12 @@
 {150}{}{Du möter slavhandlare och hundar.}
 {151}{}{Du möter slavhandlare.}
 {152}{}{Du möter gyllene geckoödlor.}
-{153}{}{Du möter vilda hundar.}
+{153}{}{Du möter vildhundar.}
 {154}{}{Du möter en patrull och hundar som slåss mot slavhandlare.}
 {155}{}{Du möter slavhandlare som slåss mot gyllene geckoödlor.}
 {156}{}{Du möter en patrull som slåss mot slavhandlare.}
 {157}{}{Du möter en patrull som slåss mot gyllene geckoödlor.}
-{158}{}{Du möter en patrull som slåss mot vilda hundar.}
+{158}{}{Du möter en patrull som slåss mot vildhundar.}
 {159}{}{Du möter en patrull.}
 {200}{}{Du blir överfallen av plundrare.}
 {201}{}{Du möter vargar.}
@@ -28,11 +28,11 @@
 {209}{}{Du möter en karavan.}
 {250}{}{Du möter marodörer.}
 {251}{}{Du möter vargar.}
-{252}{}{You encounter radscorpions.}
+{252}{}{Du möter radioaktiva skorpioner.}
 {253}{}{Du möter en karavan som försvarar sig mot marodörer.}
 {254}{}{Du möter en karavan som försvarar sig mot marodörer.}
 {255}{}{Du möter en karavan som försvarar sig mot vargar.}
-{256}{}{You encounter a caravan fending off radscorpions.}
+{256}{}{Du möter en karavan som försvarar sig mot radioaktiva skorpioner.}
 {257}{}{Du möter en karavan.}
 {258}{}{Du möter en karavan.}
 {259}{}{Du möter en karavan.}
@@ -47,53 +47,53 @@
 {306}{}{You encounter NCR Rangers.}
 {307}{}{Du möter bönder.}
 {350}{}{Du möter en slavhandlarkaravan.}
-{351}{}{You encounter highwaymen and robbers.}
-{352}{}{You encounter highwaymen.}
+{351}{}{Du möter stråtrövare och rånare.}
+{352}{}{Du möter stråtrövare.}
 {353}{}{Du möter rånare.}
-{354}{}{You encounter a caravan fending off highwaymen.}
+{354}{}{Du möter en karavan som försvarar sig mot stråtrövare.}
 {355}{}{Du möter en karavan som slåss mot rånare.}
-{356}{}{You encounter a caravan fighting highwaymen.}
+{356}{}{Du möter en karavan som slåss mot stråtrövare.}
 {357}{}{Du möter en karavan belägrad av rånare.}
 {358}{}{Du möter en slavkaravan som slåss mot en karavan.}
-{359}{}{You encounter highwaymen fighting robbers.}
+{359}{}{Du möter stråtrövare som slåss mot rånare.}
 {360}{}{Du möter en karavan.}
 {361}{}{Du möter en karavan.}
-{400}{}{You encounter highwaymen.}
+{400}{}{Du möter stråtrövare.}
 {401}{}{Du möter rånare.}
-{402}{}{You encounter robbers and highwaymen.}
-{403}{}{You encounter golden geckos and radscorpions.}
+{402}{}{Du möter rånare och stråtrövare.}
+{403}{}{Du möter gyllene geckoödlor och radioaktiva skorpioner.}
 {404}{}{Du möter gyllene geckoödlor.}
 {405}{}{You encounter mole rats and pig rats.}
-{406}{}{You encounter radscorpions.}
+{406}{}{Du möter radioaktiva skorpioner.}
 {407}{}{Du möter sporväxter.}
-{408}{}{You encounter robbers fighting highwaymen.}
-{409}{}{You encounter a caravan fending off highwaymen.}
-{410}{}{You encounter a caravan fending off robbers.}
-{411}{}{You encounter a caravan fending off radscorpions.}
-{412}{}{You encounter geckos fighting radscorpions.}
+{408}{}{Du möter rånare som slåss mot stråtrövare.}
+{409}{}{Du möter en karavan som försvarar sig mot stråtrövare.}
+{410}{}{Du stöter på en karavan som försvarar sig mot rånare.}
+{411}{}{Du möter en karavan som försvarar sig mot radioaktiva skorpioner.}
+{412}{}{Du möter geckoödlor som slåss mot radioaktiva skorpioner.}
 {413}{}{Du möter en karavan.}
-{450}{}{You encounter highwaymen and robbers.}
-{451}{}{You encounter highwaymen and geckos.}
+{450}{}{Du möter stråtrövare och rånare.}
+{451}{}{Du möter stråtrövare och geckoödlor.}
 {452}{}{Du möter gyllene geckoödlor.}
-{453}{}{You encounter radscorpions and spore plants.}
-{454}{}{You encounter robbers fighting radscorpions.}
-{455}{}{You encounter radscorpions fighting robbers.}
-{456}{}{You encounter a caravan fending off highwaymen.}
-{457}{}{You encounter a caravan fending off robbers.}
-{458}{}{You encounter some highwaymen weeding out some spore plants.}
+{453}{}{Du möter radioaktiva skorpioner och sporväxter.}
+{454}{}{Du möter rånare som slåss mot radioaktiva skorpioner.}
+{455}{}{Du möter radioaktiva skorpioner som slåss mot rånare.}
+{456}{}{Du möter en karavan som försvarar sig mot stråtrövare.}
+{457}{}{Du stöter på en karavan som försvarar sig mot rånare.}
+{458}{}{Du möter några stråtrövare som rensar bort några sporväxter.}
 {459}{}{Du möter en karavan.}
-{500}{}{You encounter highwaymen and wild dogs.}
-{501}{}{Du möter rånare och vilda hundar.}
+{500}{}{Du möter stråtrövare och vildhundar.}
+{501}{}{Du möter rånare och vildhundar.}
 {502}{}{Du möter rånare.}
-{503}{}{You encounter highwaymen.}
+{503}{}{Du möter stråtrövare.}
 {504}{}{Du möter en svärm med bönsyrsor och några sporväxter.}
 {505}{}{Du möter hundar och sporväxter.}
 {506}{}{Du möter en svärm med bönsyrsor.}
-{507}{}{Du möter vilda hundar.}
+{507}{}{Du möter vildhundar.}
 {508}{}{Du möter rånare som slåss mot hundar.}
 {509}{}{Du möter en karavan som försvarar sig mot hundar.}
-{510}{}{You encounter a caravan fending off robbers.}
-{511}{}{You encounter a caravan fending off highwaymen.}
+{510}{}{Du stöter på en karavan som försvarar sig mot rånare.}
+{511}{}{Du möter en karavan som försvarar sig mot stråtrövare.}
 {512}{}{Du möter en karavan.}
 {550}{}{Du stöter på geckoödlor och vargar.}
 {551}{}{You encounter claim jumpers.}

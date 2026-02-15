@@ -119,7 +119,7 @@
 {480}{}{Yeah, fuck you. It depends on what it is. You tell me, then I'll decide
  if I pay you anything for it.}
 {481}{}{Lara's planning on hitting this place tonight.}
-{482}{}{No, sorry.}
+{482}{}{Nej, tyvärr.}
 {490}{}{Oh really? So that bitch has got some balls after all? Well, that's worth a $100.}
 {491}{}{Tack.}
 {500}{}{Not so fast, slick. Just to be sure, we'll wait until after they show.

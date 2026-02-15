@@ -606,8 +606,8 @@
 {30801}{}{An impressive tool set made by "Snap-Off".}
 {30900}{}{Talisman}
 {30901}{}{A talisman which is worn by followers of The Brain.}
-{31000}{}{Gamma Gulp Beer}
-{31001}{}{A bottle of Gamma Gulp beer. It glows in the dark!}
+{31000}{}{Gamma-Glufs-öl}
+{31001}{}{En flaska Gamma-Glufs-öl. Den lyser i mörkret!}
 {31100}{}{Roentgen Rum}
 {31101}{}{A bottle of Roentgen rum. It glows in the dark!}
 {31200}{}{Part Requisition Form}

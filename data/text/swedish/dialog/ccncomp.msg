@@ -31,7 +31,7 @@
 {130}{}{How can I get there?}
 {131}{}{Searching... Accessing transportation directory... Data acquired. Transportation files indicate that 1,257 methods can be used to reach Enclave headquarters. However, records also indicate that only 2 of these methods are currently available. Vertibird transportation can be acquired at Navarro outpost. Ship transportation can be acquired at San Francisco harbor. Please note that ship transportation has been flagged as inaccessible due to security act 9837-334-27A. Ship has been disabled and a passkey is required for reactivation. Base commander, Navarro outpost, currently holds the passkey.}
 {132}{}{Okej.}
-{133}{}{Got it.}
+{133}{}{Jag förstår.}
 {134}{}{Searching... Accessing base architectural files... Data acquired. Armory is located below ground in the northwest quadrant of the base.}
 {135}{}{Ja' fatta.}
 {136}{}{Yeah, got it.}

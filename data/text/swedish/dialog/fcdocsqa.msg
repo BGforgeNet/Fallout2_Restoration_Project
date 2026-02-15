@@ -1,5 +1,5 @@
 {100}{}{You see a dirty, ill-kempt person.}
-{101}{}{You see a squatter.}
+{101}{}{Du ser en ockupant.}
 {102}{}{You see a dirty, ill-kempt person.}
 {103}{}{This is one of the best homes we've had in years!}
 {104}{}{Ahh... sea air!}

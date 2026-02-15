@@ -9,7 +9,7 @@
 {203}{}{Inte när han smyger runt som en tjuv och bär på en spade.}
 {204}{}{Okej, visst, men varför bär du runt på en spade?}
 {205}{}{Hur som helst, jag ska vidare.}
-{206}{}{Nevermind. Sorry to bother you.}
+{206}{}{Strunt i det. Förlåt att jag stör.}
 {207}{}{You mean this ol' thing? [He glances down at the rusty shovel in his hands.] Well, uh, you never know when you
  might find something that needs digging up. Always be prepared I say.}
 {208}{}{Find something, eh? You mean like something in a grave?}

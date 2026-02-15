@@ -36,13 +36,13 @@
 {160}{}{Not much to tell, really. Just a bunch of ghouls clinging tenaciously to the ass-end of life.}
 {161}{}{No, I meant tell me about this bar.}
 {162}{}{Well, that describes a lot of people. Nothing new in that.}
-{170}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5/bottle and, for
- special occasions, our Roentgen Rum at $12/bottle.}
+{170}{}{Vill du ha en drink? Vi har vår egen Gamma-Glufs-öl för $5/flaska och, för
+ speciella tillfällen, vår Röntgen-Rom för $12/flaska.}
 {171}{}{What'll it be?}
 {172}{}{Gulp?}
-{173}{}{I'd like a Gamma Gulp Beer. Is it supposed to glow like that?}
+{173}{}{Jag skulle vilja ha en Gamma-Glufs-öl. Är det meningen att den ska lysa så där?}
 {174}{}{This is a special occasion, of a sort. I'd like a bottle of your Roentgen Rum.}
-{175}{}{I want to buy a round of your fabulous Gamma Gulp Beer for everyone here.}
+{175}{}{Jag vill köpa en omgång av er fantastiska Gamma-Glufs-öl till alla här.}
 {176}{}{Uh uh, goodbye.}
 {180}{}{You don't have enough money. Are you dumb?}
 {181}{}{Umb?}
@@ -236,8 +236,8 @@
 {718}{}{MOOAHAHAHAH!!! I AM VICTORIOUS!}
 {719}{}{NOO!! HOW COULD I HAVE LOST!? Ahhhgghhhgh.}
 {720}{}{Yeah... just can't seem to stop. Just one more game...}
-{721}{}{Yeah, Gamma Gulp Beer. You deaf or something?}
-{722}{}{Yeah, it is. One Gamma Gulp coming right up.}
+{721}{}{Ja, Gamma-Glufs-öl. Är du döv eller?}
+{722}{}{Ja, det är det. En Gamma-Glufs-öl på väg.}
 {723}{}{Alright, enjoy. Anything else?}
 {724}{}{Special occasion, huh? Well lah-de-dah, aren't we special today. One Roentgen coming right up then.}
 {725}{}{Nej, tack.}

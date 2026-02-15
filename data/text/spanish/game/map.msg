@@ -122,7 +122,7 @@
 {251}{}{Área del Consejo}
 {252}{}{}
 {253}{}{}
-{254}{}{Calle Principal}
+{254}{}{Calle principal}
 {255}{}{}
 {256}{}{}
 {257}{}{Cama y Comida de Rose}
@@ -248,7 +248,7 @@
 {377}{}{Cementerio}
 {378}{}{Refugio atómico}
 {379}{}{}
-{380}{}{Potreros de Esclavos}
+{380}{}{Corrales de Esclavos}
 {381}{}{Laboratorio}
 {382}{}{}
 {383}{}{Zona de boxeo}
@@ -458,9 +458,9 @@
 {587}{}{Muelle}
 {588}{}{Vertibird Descarga De La Almohadilla.}
 {589}{}{Muelle}
-{590}{}{Sala de Entrada}
-{591}{}{Sala de Entrada}
-{592}{}{Sala de Entrada}
+{590}{}{Recibidor}
+{591}{}{Recibidor}
+{592}{}{Recibidor}
 {593}{}{Barracones de la guardia}
 {594}{}{Barracones de la guardia}
 {595}{}{Barracones de la guardia}
@@ -595,11 +595,11 @@
 {1505}{}{Gecko}
 {1506}{}{Broken Hills}
 {1507}{}{Nuevo Reno}
-{1508}{}{Almacén Militar Sierra}
+{1508}{}{Depósito del Ejército de Sierra}
 {1509}{}{Refugio 15}
 {1510}{}{RNC}
 {1511}{}{Refugio 13}
-{1512}{}{Base Militar}
+{1512}{}{Base militar}
 {1513}{}{Redding}
 {1514}{}{San Francisco}
 {1515}{}{Navarro}

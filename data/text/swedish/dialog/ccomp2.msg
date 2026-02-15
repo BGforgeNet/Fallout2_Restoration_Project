@@ -3,7 +3,7 @@
 {102}{}{Du ser någon som bär en labbrock. Han verkar självsäker och trygg i sig själv.}
 {103}{}{Yes soldier?}
 {104}{}{Vad det här stället?}
-{105}{}{Me just say hi. Me go now.}
+{105}{}{Jag bara säga hej. Jag gå nu.}
 {106}{}{Vad är det här för ställe?}
 {107}{}{Jag säger bara hej. Vi ses.}
 {108}{}{This is the computer room. That's the mainframe over there, the interface terminal is next to it, and these devices are the holotape data storage units. This is the latest and the greatest.}

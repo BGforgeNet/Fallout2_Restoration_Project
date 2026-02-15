@@ -21,6 +21,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "viranbox"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_VIRANBOX
 
@@ -44,8 +45,7 @@ end
 procedure map_enter_p_proc begin
    vault_city_randal_box := self_obj;
    if (is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          variable tmp_box := move_quest_items();
          check_restock_item(PID_BOTTLE_CAPS, 200, 600, 100)
          check_restock_item(PID_BIG_BOOK_OF_SCIENCE, 1, 2, 75)

@@ -95,7 +95,7 @@
 {461}{}{What? Metzger's dead? Oh, thank you so much! We better leave before others show up. Thank you again.}
 {462}{}{You're welcome. Now get out of here.}
 {463}{}{Take care.}
-{464}{}{You're welcome.}
+{464}{}{Det var så lite.}
 {470}{}{Wait, one more thing. I'm looking for someone specific and I don't see her here. Do you know where other slaves might be held?}
 {471}{}{Big camp near here. (The tribal points south west) Two moons from here.}
 {472}{}{There's a camp about two days travel south west from here. That's where I was first at.}

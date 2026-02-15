@@ -73,7 +73,7 @@
  mostly. Make 'em work better... sometimes. Keepin' myself outta trouble. Know what I mean?}
 {261}{}{I guess. Let me ask you something else.}
 {262}{}{Well, I think I better go do something myself. Goodbye.}
-{263}{}{Anything I can help you with?}
+{263}{}{Någonting jag kan hjälpa dig med?}
 {270}{}{You're lookin' fer a GECK, huh? Well, I don't rightly know where ya might find one of them thar
  things. I know that Vault City prolly used ta have themselves one.}
 {271}{}{Vault City had one?}

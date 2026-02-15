@@ -27,7 +27,7 @@
 {204}{}{¿S-si, señor?}
 {205}{}{¿P-puedo ayu-yudarte?}
 {206}{}{¿Tú necesitas ayudante?}
-{207}{}{Uh-huh.}
+{207}{}{Ah-Vale.}
 {208}{}{::Asiente estúpidamente a todo lo que dices::}
 {209}{}{Tú persona grande. Yo pequeño.}
 {210}{}{Tú duro. Yo débil.}

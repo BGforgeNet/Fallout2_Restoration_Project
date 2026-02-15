@@ -26,20 +26,20 @@
 {119}{}{¿Te importa si te algo algunas preguntas?}
 {120}{}{¡Trato hecho! Me encantaría escuchar cualquier cosa que puedas contarme.}
 {121}{}{Además, no puedo rechazar a un amigo de Gruthar.}
-{122}{}{¿Qué es lo que quieres saber?}
+{122}{}{¿Qué te gustaría saber?}
 {123}{}{¿Qué estás haciendo aquí?}
 {124}{}{¿Eres prisionero aquí?}
 {125}{}{¿Cuánto hace que estás aquí?}
-{126}{}{¿Qué puedes decirme de las Garras mortales que hay por aquí?}
+{126}{}{¿Qué puedes decirme de los sanguinarios que hay por aquí?}
 {127}{}{¿Sabes qué ha pasado con la gente que vivía en este Refugio?}
 {128}{}{¿Que puedes decirme de Gruthar?}
-{129}{}{¿Crees que las Garras mortales que viven aquí pueden ser una amenaza para los humanos?}
+{129}{}{¿Crees que los sanguinarios que viven aquí pueden ser una amenaza para los humanos?}
 {130}{}{¿Tienes alguna información de ese Enclave del que hablas?}
 {131}{}{¿Qué sabes de ese virus?}
 {132}{}{Mencionaste que querías hacer algún viaje. ¿Y si te unes a mí?}
 {133}{}{Lo siento, tengo que irme ahora.}
 {134}{}{Hmm... me sorprende que Gruthar no te hablase de mí. Oh, qué mas da. }
-{135}{}{Estudio un poco de todo. Intento aprender todo lo que puedo acerca del mundo y las diferentes culturas que se han desarrollado. Ahora mismo estoy estudiando la cultura que las Garras mortales están formando y comparándola con el desarrollo humano en líneas similares. He conseguido bastante de la información que necesito aquí. Ayudaría mucho a mis estudios el poder viajar un poco. No obstante, no quiero ir solo, ya sabes a lo que me refiero.}
+{135}{}{Estudio un poco de todo. Intento aprender todo lo que puedo acerca del mundo y las diferentes culturas que se han desarrollado. Ahora mismo estoy estudiando la cultura que los sanguinarios están formando y comparándola con el desarrollo humano en líneas similares. He conseguido bastante de la información que necesito aquí. Ayudaría mucho a mis estudios el poder viajar un poco. No obstante, no quiero ir solo, ya sabes a lo que me refiero.}
 {136}{}{Interesante. ¿Puedo preguntarte algo más?}
 {137}{}{Conque eres un estudiante. Eso tiene mucho mérito en el mundo en el que vivimos.}
 {138}{}{Qué aburrido. Oh, bueno... es tu vida la que desperdicias. De todas formas, necesito más información.}
@@ -53,7 +53,7 @@
 {144}{}{Caray, eres bastante nuevo aquí. Si no te importa, necesito saber más.}
 {145}{}{No te has extendido mucho con esa respuesta. ¿Te importa contarme más?}
 {146}{}{Ya veo. Necesito hacerte un par de preguntas más.}
-{147}{}{Estas no son Garras mortales comunes, como seguramente habrás podido notar. Su inteligencia ha sido mejorada por métodos que no comprenden. Lo hizo un grupo de humanos conocidos como 'El Enclave'. Parece que ese Enclave necesitaba un ejército y eligieron a las Garras por su ferocidad, destreza física, y... bueno, ya te lo imaginas. De todas formas, lo único que fallaba con las Garras era su inteligencia. Debían ser suficientemente inteligentes como para comprender instrucciones complejas, pero no tanto como para resultar una amenaza para los 'jefazos'.}
+{147}{}{Estas no son sanguinarios comunes, como seguramente habrás podido notar. Su inteligencia ha sido mejorada por métodos que no comprenden. Lo hizo un grupo de humanos conocidos como 'El Enclave'. Parece que ese Enclave necesitaba un ejército y eligieron a las sanguinarios por su ferocidad, destreza física, y... bueno, ya te lo imaginas. De todas formas, lo único que fallaba con las sanguinarios era su inteligencia. Debían ser suficientemente inteligentes como para comprender instrucciones complejas, pero no tanto como para resultar una amenaza para los 'jefazos'.}
 {148}{}{¡Esa es la mayor gilipollez que he escuchado en toda mi vida!}
 {149}{}{Increíble. Pareces muy documentado. ¿Puedo preguntarte más cosas?}
 {150}{}{Hmm... de acuerdo.}
@@ -63,7 +63,7 @@
  ahora en la conciencia de Gruthar. Nunca se ha perdonado del todo por su complicidad en ese
  asunto. Los humanos fueron capturados vivos pero quién sabe qué les ha podido ocurrir desde entonces.}
 {153}{}{Hmm... necesito hacer mas preguntas.}
-{154}{}{¡Sabía que las malditas Garras mortales eran responsables de alguna manera! Pero necesito más información.}
+{154}{}{¡Sabía que los malditos sanguinarios eran responsables de alguna manera! Pero necesito más información.}
 {155}{}{A veces nos vemos obligados a hacer cosas desastrosas en situaciones que están fuera de nuestro control.
  Gruthar debería aprender a perdonarse a sí mismo.}
 {156}{}{Gruthar no es el monstruo que parece. Realmente se preocupa de todos nosotros, y
@@ -71,12 +71,12 @@
  No sé qué más podría decir de él. Deberías conocerlo y juzgarlo por ti mismo.}
 {157}{}{No voy a tomar ninguna decisión sobre él bajo presión. Merece algo mejor.}
 {158}{}{Claro. Hablemos de otras cosas.}
-{159}{}{Es una Garra mortal. Me parece difícil de creer que tenga alguna buena cualidad.}
+{159}{}{Es un sanguinario. Me parece difícil de creer que tenga alguna buena cualidad.}
 {160}{}{Bueno... el potencial esta ahí, especialmente si tienes en cuenta su nueva inteligencia.
  No obstante, dudo que Grunthar y su manada supongan una amenaza. Todos parecen respetar la vida y
  la libertad personal sobre cualquier otra cosa. De todas formas no espero que me creas. Te pido que juzgues
  por ti mismo. Hay otros que viven aquí y pueden responder tus preguntas.}
-{161}{}{¡Sólo un redomado imbécil no se daría cuenta de la amenaza que suponen estas Garras mortales!}
+{161}{}{¡Sólo un redomado imbécil no se daría cuenta de la amenaza que suponen estos sanguinarios!}
 {162}{}{Gracias por el consejo; preguntare por ahí. ¿Puedo hacerte algunas preguntas más?}
 {163}{}{Hmm... Vale, ¿qué tal si te hago algunas preguntas más?}
 {164}{}{No, sólo lo que te he contado. Espera, hay otra cosa. El Enclave mostró interés en ciertas ruinas al oeste de aquí. El por qué, no lo sé. Eso es todo.}
@@ -131,10 +131,10 @@
 {203}{}{Oye, yo estoy buscando a un compañero de viaje. ¿Te animas?}
 {204}{}{¿Qué puedo hacer por ti, }
 {205}{}{¡Tú cosa mala! ¿Por que no deciste a mí?}
-{206}{}{¿Eres una Garra mortal? ¿Hay alguna buena razón por la que no me lo hayas dicho?}
+{206}{}{¿Eres un sanguinario? ¿Hay alguna buena razón por la que no me lo hayas dicho?}
 {207}{}{Tengo que explicar... malo tu matas y no hablar. Yo no te digo y tú me ves cosa buena. No
  me matas. Vale, ¿me quedo contigo?}
-{208}{}{Siento haberlo ocultado, pero los humanos tienen el hábito de disparar a las Garras mortales en cuanto las ven. Supuse que estaba en mi derecho de ocultar mi identidad hasta que vieses por ti mismo que soy tu aliado en esta aventura. Si quieres que me vaya, lo haré. Pero prefiero quedarme y ayudarte en tu misión. Quiero mostrar a los humanos que las Garras mortales pueden trabajar con ellos como amigos, no como enemigos.}
+{208}{}{Siento haberlo ocultado, pero los humanos tienen el hábito de disparar a los sanguinarios en cuanto las ven. Supuse que estaba en mi derecho de ocultar mi identidad hasta que vieses por ti mismo que soy tu aliado en esta aventura. Si quieres que me vaya, lo haré. Pero prefiero quedarme y ayudarte en tu misión. Quiero mostrar a los humanos que los sanguinarios pueden trabajar con ellos como amigos, no como enemigos.}
 {209}{}{No gusta a mí, tú te vas.}
 {210}{}{De acuerdo, te quedas.}
 {211}{}{Lo siento, pero no me gusta que me engañen. Deberías irte.}
@@ -144,12 +144,12 @@
 {214}{}{. Sí, soy de fuera del Refugio.}
 {215}{}{.}
 {216}{}{?}
-{217}{}{Así que el Enclave comenzó a experimentar con un virus, o algo parecido, y se lo inyectó a las Garras mortales. Se sabía que ese virus mutaba a los humanos en súper criaturas, así que el Enclave quería ver si daba el mismo resultado con las Garras mortales. Bien, el resultado fue una camada de Garras tan inteligentes que pudieron ver que su destino era la esclavitud. Así que ocultaron su inteligencia hasta que pudieron obtener su libertad. ¡Y aquí están!}
-{218}{}{Estoy en contra de atacar a cualquier Garra mortal.}
+{217}{}{Así que el Enclave comenzó a experimentar con un virus, o algo parecido, y se lo inyectó a los sanguinarios. Se sabía que ese virus mutaba a los humanos en súper criaturas, así que el Enclave quería ver si daba el mismo resultado con los sanguinarios. Bien, el resultado fue una camada de sanguinarios tan inteligentes que pudieron ver que su destino era la esclavitud. Así que ocultaron su inteligencia hasta que pudieron obtener su libertad. ¡Y aquí están!}
+{218}{}{Estoy en contra de atacar a cualquier sanguinario.}
 {219}{}{Percibo de pronto que mi manada está en problemas. Siento dejarte, pero debo ver a mis hermanos.}
 {220}{}{Vale.}
 {221}{}{Las cámaras de seguridad han registrado lo ocurrido. Deberías ir a comprobarlo.}
-{222}{}{Ves una Garra mortal gris. Es Goris.}
+{222}{}{Ves un sanguinario gris. Es Goris.}
 {223}{}{Ves una figura humanoide que viste una túnica larga con capucha. Es Goris.}
 {1000}{}{¿Sí, }
 {1001}{}{Cúrate tú mismo.}
@@ -161,7 +161,7 @@
 {1011}{}{Necesito que esperes aquí hasta que vuelva.}
 {1012}{}{Asegúrate de no tener un arma a la vista, ¿vale?}
 {1016}{}{Vamos.}
-{1017}{}{¿Eres una Garra mortal? ¿Hay alguna razón por que no lo hayas mencionado antes?}
+{1017}{}{¿Eres un sanguinario? ¿Hay alguna razón por que no lo hayas mencionado antes?}
 {1018}{}{Esto es todo por ahora.}
 {1019}{}{Estoy curado y listo para seguir, }
 {1020}{}{Estoy casi completamente curado, }

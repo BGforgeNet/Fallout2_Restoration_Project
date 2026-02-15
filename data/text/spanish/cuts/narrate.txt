@@ -4,13 +4,13 @@
 4:Demasiados humanos, sin suficientes recursos y espacio para todos.
 5:Los detalles son triviales y sin sentido, las razones, como siempre, puramente humanas.
 6:La vida humana casi fue eliminada de la faz de la tierra.
-7:Una gran limpieza, una chispa atómica encendida por manos humanas, pero pronto fuera de control.
+7:Una gran limpieza, una chispa atómica encendida por manos humanas, rápidamente se salió de control.
 8:Lanzas de fuego nuclear llovieron de los cielos.
-9:Las llamas tragaron a los continentes, que se hundieron en los océanos en ebullición.
+9:Continentes fueron tragados por llamas y hundidos en los océanos en ebullición.
 10:La humanidad estuvo a punto de ser destruida, sus espíritus se convirtieron en parte de la radiación de fondo que cubría la tierra.
 11:Una silenciosa oscuridad cubrió el planeta durante muchos años.
 12:Muy pocos sobrevivieron a la devastación.
-13:Algunos tuvieron la suerte de salvarse resguardándose en grandes Refugios subterráneos.
+13:Algunos tuvieron la suerte de salvarse resguardándose en grandes refugios subterráneos.
 14:Cuando la gran oscuridad pasó, estos Refugios se abrieron, y sus habitantes emergieron para comenzar sus vidas de nuevo.
 15:Una de las tribus del norte asegura descender de uno de esos Refugios.
 16:Mantienen que su fundador y ancestro, alguien conocido como el "Morador del Refugio", salvó al mundo de un gran mal en una ocasión.
@@ -21,7 +21,7 @@
 21:Cuando al fin volvió al hogar por el cual había luchado tanto, fue rechazado.
 22:Desterrado.
 23:Al enfrentarse a lo que temían, a sus ojos volvió convertido en aquel mismo mal... y ya no era su campeón.
-24:Abandonado por su gente, se adentró en el Yermo.
+24:Abandonado por su gente, se adentró en el yermo.
 25:Viajó lejos hacia el norte, hasta que llegó a los grandes cañones.
 26:Allí fundó un pequeño poblado, Arroyo, donde vivió el resto de sus días.
 27:Desde entonces, la primera generación ha vivido en Arroyo en paz, aislada y resguardada por los cañones del resto del mundo.

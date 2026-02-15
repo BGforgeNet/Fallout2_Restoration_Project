@@ -33,30 +33,30 @@
  jag kunde hitta källan till ljudet. Men så fort jag kom ut på fälten hade oljudet upphört.}
 {603}{}{Fortsätt.}
 {604}{}{Jag måste verkligen gå.}
-{605}{}{Well, the next night we didn't hear a thing. But the night after that, we heard rustling coming from the field
- again. This time I crept to the window and looked out rather than rushing outside. Peering into the darkness, I saw a
- dim light, like from an old lantern or something, moving among the crops. After a couple minutes the light moved toward
- the cemetery.}
-{606}{}{I wanted to go out and confront whoever--or whatever--it was, but the wife convinced me to stay inside and check
- on things in the morning. So the next morning, I see some of my crops had been eaten and there's fresh footprints all
- around. Now, I don't mind feeding the poor, but I don't take kindly to thieves.}
-{607}{}{I'll try and catch this individual. Maybe I'll wait around midnight and see if I can find anything out. Well,
- thanks for the information. Take care.}
-{608}{}{I'll see what I can do. I have some more questions before I go.}
-{609}{}{This story is getting a little too long. Bye.}
-{610}{}{Let me get this straight. You'd be happy to help someone that lurks around your house at night, steals your
- crops, and tries to rob your dead? I've met a lot of loonies in my day, but you just might take the cake. It's a marvel
- you've survived this long.}
+{605}{}{Men, nästa natt hörde vi ingenting. Natten därefter däremot hörde vi prassel från fältet
+ igen. Den här gången smög jag mig fram till fönstret och tittade ut i stället för att rusa ut. När jag kikade in i mörkret såg jag ett
+ svagt ljus, som från en gammal lykta eller något, som rörde sig bland grödorna. Efter ett par minuter rörde sig ljuset mot
+ kyrkogården.}
+{606}{}{Jag ville gå ut och konfrontera vem eller vad det nu var, men frugan övertalade mig att stanna inne och kolla
+ på det morgonen efter. Så morgonen därpå ser jag att några av mina grödor har ätits upp och det finns färska fotspår
+ överallt. Jag har inget emot att ge mat till de fattiga, men jag gillar inte tjuvar.}
+{607}{}{Jag ska försöka fånga på den här personen. Jag kanske väntar till midnatt och ser om jag får reda på nåt. Nåväl,
+ tack för informationen. Ta hand om er.}
+{608}{}{Jag ska se vad jag kan göra. Jag har några frågor till innan jag går.}
+{609}{}{Den här historien börjar bli lite för lång. Hej då.}
+{610}{}{Låt mig förstå det här rätt. Du'skulle gärna hjälpa någon som smyger runt ditt hus på natten, stjäl dina
+ grödor och försöker råna dina döda? Jag har träffat många galningar i mina dagar, men du kanske tar priset. Det är ett mirakel
+ att du har överlevt så här länge.}
 {611}{}{[Han kisar med ögonen, men lyckas behålla fattningen.] Det är så vi gör saker här i Klostret. Om vänlighet
  är så stötande för dig, då föreslår jag att du försvinner ut ur mitt hus. Jag tänker inte sitta här och låta någon vandrande
  stammedlem förolämpa mig framför min fru.}
-{612}{}{Alright, alright, I'm leaving.}
+{612}{}{Okej, okej, jag går nu.}
 {613}{}{Okej, tuffing, nu kommer den här "vandrande stammedlemmen" att döda dig inför din fru. Då kanske jag också dödar henne.
  Va fan, jag kanske dödar alla på det här patetiska jävla ställe. Trodde du att ni alla kunde gömma er från ödemarkens fasor?
  Nå, gissa vad, min naiva vän? Fasorna har hittat dig, och dess namn är }
-{700}{}{Get the hell outta here.}
-{710}{}{Good to see you again. Tom's been a big help around here. Thanks again for sorting all that out. Now, what can I do for you?}
-{6061}{}{After that, I asked Brother Samuel if anything had happened in the graveyard. That's when he told me someone
- had begun digging up some of the graves. Apparently, whoever's doing this isn't strong enough to dig in one night.
- I'd guess it's an old beggar hoping to dig up some treasure. If you ever find out who's doing this, please tell 'em to
- stop by. There's no need for thievery here in the Abbey and I'd be happy to help this person in any way I can.}
+{700}{}{Dra åt helvete.}
+{710}{}{Kul att se dig igen. Tom har varit till stor hjälp här. Tack igen för att du löste allt det där. Nu, vad kan jag göra för dig?}
+{6061}{}{Efter det frågade jag broder Samuel om något hade hänt på kyrkogården. Det var då han berättade för mig att någon
+ hade börjat gräva upp några av gravarna. Tydligen är den som gör det inte tillräckligt stark för att gräva på en natt.
+ Jag skulle gissa att det är en gammal tiggare som hoppas på att gräva upp en skatt. Om du någonsin får reda på vem som gör det här, säg till dem att
+ komma förbi. Det finns inget behov av tjuveri här i Klostret och jag skulle gärna hjälpa den här personen på alla sätt jag kan.}

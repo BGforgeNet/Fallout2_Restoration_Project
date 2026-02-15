@@ -265,7 +265,7 @@ if (dude_is_stupid) then begin
             gSay_End;
             end_dialogue;
          end
-      end else dude_wearing_vault_suit begin
+      end else if dude_wearing_vault_suit then begin
          if (party_size_biped == 0) then begin
             start_gdialog(NAME,self_obj,4,HEAD_PRESIDENT,BACKGROUND_PRESIDENT);
             gSay_Start;
@@ -370,7 +370,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   dude_wearing_vault_suit
+   if dude_wearing_vault_suit then
       Reply(103);
    else if (WEARING_DISGUISE) then
       Reply(104);
@@ -383,7 +383,7 @@ procedure Node001 begin
 end
 
 procedure Node002 begin
-   dude_wearing_vault_suit
+   if dude_wearing_vault_suit then
       Reply(109);
    else if (WEARING_DISGUISE) then
       Reply(110);

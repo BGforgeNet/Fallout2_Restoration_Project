@@ -30,29 +30,29 @@
 {220}{}{es golpeado al azar}
 {221}{}{se rompe un miembro al azar}
 {222}{}{le alcanzan los fragmentos}
-{250}{}{queda fuera de combate}
-{251}{}{derribada}
-{252}{}{te deja lisiada la pierna izquierda}
-{253}{}{te deja lisiada la pierna derecha}
-{254}{}{te deja lisiado el brazo izquierdo}
-{255}{}{te deja lisiado el brazo derecho}
-{256}{}{cegado}
-{257}{}{mueres}
-{258}{}{es herido}
+{250}{female_pc}{knocked out}
+{251}{female_pc}{knocked down}
+{252}{female_pc}{crippled your left leg}
+{253}{female_pc}{crippled your right leg}
+{254}{female_pc}{crippled your left arm}
+{255}{female_pc}{crippled your right arm}
+{256}{female_pc}{blinded}
+{257}{female_pc}{were killed}
+{258}{female_pc}{hit}
 {259}{}{críticamente}
 {260}{}{ardiendo}
-{261}{}{traspasa tu armadura}
-{262}{}{tu arma explota}
-{263}{}{destruye tu arma}
-{264}{}{tu arma se cae}
-{265}{}{pierdes el siguiente turno}
-{266}{}{te hieres a ti mismo}
-{267}{}{pierdes el resto de tu munición}
-{268}{}{dispara un proyectil defectuoso}
-{269}{}{hiriéndote}
-{270}{}{es golpeado al azar}
-{271}{}{se rompe un miembro al azar}
-{272}{}{le alcanzan los fragmentos}
+{261}{female_pc}{had your armor bypassed}
+{262}{female_pc}{your weapon exploded}
+{263}{female_pc}{destroyed your weapon}
+{264}{female_pc}{dropped your weapon}
+{265}{female_pc}{lost your next turn}
+{266}{female_pc}{hit yourself}
+{267}{female_pc}{lost the rest of your ammo}
+{268}{female_pc}{fired a dud shot}
+{269}{female_pc}{hurt yourself}
+{270}{female_pc}{hit randomly}
+{271}{female_pc}{crippled a random limb}
+{272}{female_pc}{peppered with fragments}
 {300}{}{queda fuera de combate}
 {301}{}{derribada}
 {302}{}{rompe su pierna izquierda}
@@ -76,15 +76,15 @@
 {320}{}{es golpeado al azar}
 {321}{}{se rompe un miembro al azar}
 {322}{}{le alcanzan los fragmentos}
-{400}{}{queda fuera de combate}
-{401}{}{derribada}
+{400}{female_npc}{knocked out}
+{401}{female_npc}{knocked down}
 {402}{}{rompe su pierna izquierda}
 {403}{}{rompe su pierna derecha}
 {404}{}{rompe su brazo izquierdo}
 {405}{}{rompe su brazo derecho}
-{406}{}{cegado}
-{407}{}{ha muerto}
-{408}{}{es herido}
+{406}{female_npc}{blinded}
+{407}{female_npc}{was killed}
+{408}{female_npc}{hit}
 {409}{}{críticamente}
 {410}{}{ardiendo}
 {411}{}{traspasa su armadura}
@@ -94,11 +94,11 @@
 {415}{}{pierde su siguiente turno}
 {416}{}{se hiere a sí misma}
 {417}{}{pierde el resto de su munición}
-{418}{}{dispara un proyectil defectuoso}
+{418}{female_npc}{fired a dud shot}
 {419}{}{hiriéndose}
-{420}{}{es golpeado al azar}
-{421}{}{se rompe un miembro al azar}
-{422}{}{le alcanzan los fragmentos}
+{420}{female_npc}{hit randomly}
+{421}{female_npc}{crippled a random limb}
+{422}{female_npc}{peppered with fragments}
 {506}{}{Usted}
 {509}{}{¡Ups! %s es herido en vez de %s!}
 {511}{}{%s es herido críticamente en %s, pierdes %d puntos de salud}
@@ -118,23 +118,23 @@
 {533}{}{%s falla críticamente y pierde 1 punto de salud}
 {534}{}{%s falla críticamente y pierde %d puntos de salud}
 {556}{}{Usted}
-{559}{}{¡Ups! %s es herido en vez de %s!}
-{561}{}{%s es herido críticamente en %s, pierdes %d puntos de salud}
-{562}{}{%s es herido en %s perdiendo %d puntos de salud}
-{563}{}{%s es herido perdiendo %d puntos de salud}
-{564}{}{%s falla críticamente}
-{565}{}{%s falla}
-{570}{}{%s es herido críticamente, pierdes %d puntos de salud}
-{571}{}{%s es herido críticamente en %s perdiendo 1 punto de salud}
-{572}{}{%s es herido en %s y pierdes 1 punto de salud}
-{573}{}{%s es herido y pierdes 1 punto de salud}
-{574}{}{%s eres críticamente herido y pierdes 1 punto de salud}
-{575}{}{%s eres críticamente herido en %s, sin sufrir daño alguno}
-{576}{}{%s eres herida en %s sin sufrir daño}
-{577}{}{%s recibes un golpe pero no te hace daño}
-{578}{}{%s eres críticamente herida sin sufrir daño}
-{583}{}{%s falla críticamente y pierde 1 punto de salud}
-{584}{}{%s falla críticamente y pierde %d puntos de salud}
+{559}{female_pc}{Oops! %s were hit instead of %s!}
+{561}{female_pc}{%s were critically hit in %s for %d hit points}
+{562}{female_pc}{%s were hit in %s for %d hit points}
+{563}{female_pc}{%s were hit for %d hit points}
+{564}{female_pc}{%s critically missed}
+{565}{female_pc}{%s missed}
+{570}{female_pc}{%s were critically hit for %d hit points}
+{571}{female_pc}{%s were critically hit in %s for 1 hit point}
+{572}{female_pc}{%s were hit in %s for 1 hit point}
+{573}{female_pc}{%s were hit for 1 hit point}
+{574}{female_pc}{%s were critically hit for 1 hit point}
+{575}{female_pc}{%s were critically hit in %s for no damage}
+{576}{female_pc}{%s were hit in %s for no damage}
+{577}{female_pc}{%s were hit for no damage}
+{578}{female_pc}{%s were critically hit for no damage}
+{583}{female_pc}{%s critically missed and took 1 hit point}
+{584}{female_pc}{%s critically missed and took %d hit points}
 {608}{}{¡Ups! ¡Le dieron a %s en vez de a ti!}
 {609}{}{¡Ups! ¡%s es herido en vez de %s!}
 {611}{}{%s es herido críticamente en %s, perdiendo %d puntos de salud}
@@ -153,24 +153,24 @@
 {628}{}{%s es críticamente herida sin que sufra daño}
 {633}{}{%s falla críticamente y pierde 1 punto de salud}
 {634}{}{%s falla críticamente y pierde %d puntos de salud}
-{708}{}{¡Ups! ¡Le dieron a %s en vez de a ti!}
-{709}{}{¡Ups! ¡%s es herido en vez de %s!}
-{711}{}{%s es herido críticamente en %s, perdiendo %d puntos de salud}
-{712}{}{%s es herido en %s, pierde %d puntos de salud}
-{713}{}{%s es herido, pierde %d puntos de salud}
-{714}{}{%s falla críticamente}
-{715}{}{%s falla}
-{720}{}{%s es críticamente herido, pierde %d puntos de salud}
-{721}{}{%s es críticamente herido en %s y pierde 1 punto de salud}
-{722}{}{%s es herido en %s y pierde 1 punto de salud}
-{723}{}{%s es herido y pierde 1 punto de salud}
-{724}{}{%s es críticamente herido y pierde 1 punto de salud}
-{725}{}{%s es críticamente herida en %s sin que sufra daño}
-{726}{}{%s es herida en %s sin que sufra daño}
-{727}{}{%s es herida sin que sufra daño}
-{728}{}{%s es críticamente herida sin que sufra daño}
-{733}{}{%s falla críticamente y pierde 1 punto de salud}
-{734}{}{%s falla críticamente y pierde %d puntos de salud}
+{708}{female_npc}{Oops! %s was hit instead of you!}
+{709}{female_npc}{Oops! %s was hit instead of %s!}
+{711}{female_npc}{%s was critically hit in %s for %d hit points}
+{712}{female_npc}{%s was hit in %s for %d hit points}
+{713}{female_npc}{%s was hit for %d hit points}
+{714}{female_npc}{%s critically missed}
+{715}{female_npc}{%s missed}
+{720}{female_npc}{%s was critically hit for %d hit points}
+{721}{female_npc}{%s was critically hit in %s for 1 hit point}
+{722}{female_npc}{%s was hit in %s for 1 hit point}
+{723}{female_npc}{%s was hit for 1 hit point}
+{724}{female_npc}{%s was critically hit for 1 hit point}
+{725}{female_npc}{%s was critically hit in %s for no damage}
+{726}{female_npc}{%s was hit in %s for no damage}
+{727}{female_npc}{%s was hit for no damage}
+{728}{female_npc}{%s was critically hit for no damage}
+{733}{female_npc}{%s critically missed and took 1 hit point}
+{734}{female_npc}{%s critically missed and took %d hit points}
 {1110}{}{la cabeza}
 {1111}{}{el brazo izquierdo}
 {1112}{}{el brazo derecho}
@@ -729,8 +729,8 @@
 {6209}{}{, traspasando su caparazón y tirando a la mantis}
 {6210}{}{, cegando al insecto con un golpe certero}
 {6300}{}{. Incluso esta bestia parece desconcertada por ese impresionante ataque}
-{6301}{}{, yendo más allá de las enormes garras para golpear al monstruo. Éste se sacude y gruñe}
-{6302}{}{. El resultado es un masivo daño en los ojos de la Garra mortal}
+{6301}{}{, yendo más allá de las enormes garras para golpear al monstruo. El sanguinario se sacude y gruñe}
+{6302}{}{. El resultado es un masivo daño en los ojos del sanguinario}
 {6400}{}{, rompiendo las defensas de la planta}
 {6401}{}{, arrancando algunas de sus hojas}
 {6402}{}{, rompiendo algunas de sus hojas}

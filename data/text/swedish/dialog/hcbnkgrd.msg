@@ -15,7 +15,7 @@
 {114}{}{Oh. All right.}
 {115}{}{We can help everyone who comes here for a reason. If you can't be helped, then you gotta go. Get going before we help you.}
 {116}{}{Gonna make me?}
-{117}{}{Got it.}
+{117}{}{Jag förstår.}
 {118}{}{You're here to talk to them, eh? Well, you can talk to us. What do you have to say?}
 {119}{}{Have you considered that you're holding them illegally?}
 {120}{}{Eat this, mutie!}

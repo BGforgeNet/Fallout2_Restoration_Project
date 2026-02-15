@@ -5,7 +5,7 @@
 {104}{}{I am sorry. I won't do it again.}
 {105}{}{I was just leaving.}
 {106}{}{Guards, he's back!}
-{107}{}{Please leave me alone.}
+{107}{}{Snälla lämna mig ifred.}
 {108}{}{Look, I don't want to be around you either.}
 {109}{}{You are just evil. Please don't talk to me.}
 {110}{}{Leave our children alone.}

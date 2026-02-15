@@ -420,7 +420,7 @@ procedure Node011 begin
    NLowOption(140, Node999);
 end
 
-procedure Node012 begin\
+procedure Node012 begin
 //killap's code
    if((local_var(LVAR_EMP_PAYMENT) == 0)) then begin
       COMPLETE_KILL_EMP_QST

@@ -100,7 +100,7 @@
 {402}{}{Sí, fue Jules, el camello de la parte delantera de la ciudad.}
 {403}{}{Jeta Jimmy J, el camello de la Calle Segunda.}
 {404}{}{Ese viejo chiflado, Renesco el Astronauta.}
-{405}{}{Pequeño Jesús Mordino. Vende Jet.}
+{405}{}{El Pequeño Jesús Mordino. El vende Jet.}
 {406}{}{Tu hijo no murió de sobredosis. Fue envenenado.}
 {415}{}{¿Es así? Se dice que el bastardo YA está muerto, pero no te estoy diciendo nada nuevo. Te DIJE que no le tocaras:
  estás bien jodido. Y ahora, además, estás MUERTO.}

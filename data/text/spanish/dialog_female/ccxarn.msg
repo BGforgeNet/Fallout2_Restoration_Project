@@ -25,7 +25,7 @@
 {124}{}{¿Si doctor es amenaza por qué no matas?}
 {125}{}{Te jodan. Yo pateo tu culo.}
 {126}{}{Si ese tipo es una amenaza así, ¿entonces por qué simplemente no lo matas?}
-{127}{}{Entonces vete al infierno. Muere, Garra mortal.}
+{127}{}{Entonces vete al infierno. Muere, sanguinario.}
 {128}{}{(suspira) Recientemente he empezado a considerar semejante acto, aunque no es mi forma de actuar. Estoy seguro de que el doctor lo ha notado porque ha dejado de verme en persona. No es algo que pueda elegir.}
 {129}{}{Tú no preocupas. Doctor muerto. Él ya no informa.}
 {130}{}{Gracias a tú por la historia.}
@@ -108,9 +108,9 @@
 {600}{}{Juntos destruiremos a nuestros enemigos.}
 {601}{}{Tú me los alineas y yo los derribaré.}
 {602}{}{Hora de destrozar cabezas.}
-{700}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
-{701}{}{Ves a Xarn, la Garra mortal.}
-{702}{}{Ves a una típica Garra mortal. La criatura es enorme, con un cuerpo poderoso, dientes afilados y largas garras.}
+{700}{}{Ves a una sanguinaria. Te observa con ojos extrañamente inteligentes.}
+{701}{}{Ves a Xarn, la Sanguinaria.}
+{702}{}{Ves a un típico sanguinario. La criatura es enorme, con un cuerpo poderoso, dientes afilados y largas garras.}
 {800}{}{Has matado a Xarn.}
 {810}{}{Has liberado a Xarn.}
 {820}{}{Xarn se te ha unido.}

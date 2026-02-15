@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "ricshbox"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
+#include "../sfall/lib.math.h"
 
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
 
@@ -49,8 +50,7 @@ end
 procedure map_enter_p_proc begin
    CashBox_Ptr:=self_obj;
 
-   restock_fix
-   if (local_var(LVAR_Restock_Time) < game_time) then begin
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
       variable tmp_box := move_quest_items();
       set_local_var(LVAR_Restock_Time, (game_time + (2*ONE_GAME_WEEK)));
       check_restock_item(PID_BOTTLE_CAPS,1000,5000,100)

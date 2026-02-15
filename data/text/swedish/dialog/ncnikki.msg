@@ -113,25 +113,25 @@
 {331}{}{Sorry, ma'am. Better luck next time.}
 {332}{}{Ledsen, bättre lycka nästa gång.}
 {333}{}{You have [C] chips. Keep playing?}
-{334}{}{Call it a day.}
+{334}{}{Sluta för dagen.}
 {335}{}{Call it a night.}
 {340}{}{Winner! Well done, sir!}
 {341}{}{Winner! Well done, ma'am!}
 {342}{}{Winner!}
 {343}{}{You have [C] chips. Keep playing?}
-{344}{}{Call it a day.}
+{344}{}{Sluta för dagen.}
 {345}{}{Call it a night.}
 {350}{}{Winner! You've doubled your money! Well done, sir!}
 {351}{}{Winner! You've doubled your money! Well done, ma'am!}
 {352}{}{Winner! You've doubled your money!}
 {353}{}{You have [C] chips. Keep playing?}
-{354}{}{Call it a day.}
+{354}{}{Sluta för dagen.}
 {355}{}{Call it a night.}
 {360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 {362}{}{Winner! You've tripled your money!}
 {363}{}{You have [C] chips. Keep playing?}
-{364}{}{Call it a day.}
+{364}{}{Sluta för dagen.}
 {365}{}{Call it a night.}
 {370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
 {371}{}{I'm whoever you WANT me to be, sweetheart. Now, you gonna place a bet?}

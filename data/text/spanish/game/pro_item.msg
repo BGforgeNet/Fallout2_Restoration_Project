@@ -106,7 +106,7 @@
 {5301}{}{Una caja de píldoras que alteran la mente. Incrementa las funciones relacionadas con la memoria, y la velocidad de otros procesos mentales. Altamente adictiva.}
 {5400}{}{Sigilante}
 {5401}{}{Un dispositivo personal de sigilo Stealth Boy 3001, de RobCo. Genera un campo modulado que transmite la luz reflejada de la cara de un objeto sobre otra.}
-{5500}{}{Chip Acuatico}
+{5500}{}{Chip De Agua}
 {5501}{}{Un chip de agua de Vault-Tec. Normalmente se empaquetan en grupos de cinco por caja.}
 {5600}{}{Chapas de identificación}
 {5601}{}{Un juego de chapas de identificación. El nombre Dickinson y la palabra Enclave son apenas legibles.}
@@ -170,7 +170,7 @@
 {8501}{}{Un trozo de Cordex, una marca militar de explosivo plástico. Altamente inestable, y muy destructivo. Incluye un temporizador.}
 {8600}{}{Manual del explorador}
 {8601}{}{Un libro de ideales y consejos para exploradores. Contiene mucha información práctica respecto a la vida en el exterior.}
-{8700}{}{Esteroides}
+{8700}{}{Musculeína}
 {8701}{}{Esteroides altamente avanzados. Mientras hacen efecto, incrementan la fuerza y los reflejos. Muy adictivos.}
 {8800}{}{Reloj}
 {8801}{}{Un reloj caro. En realidad no funciona, pero sigue pareciendo bonito.}
@@ -596,13 +596,13 @@
 {30301}{}{En la etiqueta de este holodisco pone: "Datos de rendimiento del reactor de Gecko". Este disco contiene una serie de números que no significan nada para ti. De todas formas, estás seguro de que mucha de la información que contiene es importante para alguien.}
 {30400}{}{Baraja de cartas "Tragic"}
 {30401}{}{Una baraja de un juego de cartas coleccionables. Parece que podría ser un pasatiempo caro si te enganchases a él.}
-{30500}{}{Pase amarillo del reactor}
+{30500}{}{Tarjeta de Acceso al Reactor Amarilla}
 {30501}{}{Una tarjeta electrónica de seguridad, codificada en color amarillo.}
 {30600}{}{Pase rojo del reactor}
 {30601}{}{Una tarjeta de seguridad, codificada en color rojo.}
 {30700}{}{Transformador de plasma}
 {30701}{}{Esto es un transformador trifásico de plasma.}
-{30800}{}{Super-set de herramientas}
+{30800}{}{Super Kit de Herramientas}
 {30801}{}{Una impresionante colección de herramientas fabricadas por la marca 'Snap-Off'.}
 {30900}{}{Talismán}
 {30901}{}{Un talismán usado por los seguidores de El Cerebro.}
@@ -610,7 +610,7 @@
 {31001}{}{Una botella de cerveza radiactiva. ¡Brilla en la oscuridad!}
 {31100}{}{Ron Roetgen}
 {31101}{}{Una botella de ron Roetgen. ¡Brilla en la oscuridad!}
-{31200}{}{Formulario de solicitud de piezas}
+{31200}{}{Formulario de Solicitud de Piezas}
 {31201}{}{Esto es un formulario de solicitud de piezas.}
 {31300}{}{Revólver mágnum .44}
 {31301}{}{Siendo éste el mejor revólver del mundo, capaz de volarte los sesos de un tiro, ¿no crees que debieras pensar que eres afortunado? ¿Verdad que sí, vago? Min FU: 5.}
@@ -715,7 +715,7 @@
 {36401}{}{Es el mecanismo de movimiento de un robot.}
 {36500}{}{Pincho de planta}
 {36501}{}{Una semilla-pincho orgánica que las plantas carnívoras escupen sobre portadores potenciales de alimentos o semillas.}
-{36600}{}{G.E.C.K.}
+{36600}{}{G.E.C.K}
 {36601}{}{El Kit de Creación del Jardín del Edén. Esta unidad es un equipamiento estándar para todos los Refugios de Vault-Tec. Un GECK es una fuente de reconstrucción de la civilización tras las bombas. Tan solo añadir agua y agitar.}
 {36700}{}{Caja de munición}
 {36800}{}{Caja de munición}
@@ -838,9 +838,9 @@
 {43000}{}{Proyectil de Howitzer}
 {43001}{}{Un proyectil de 75mm. de un cañón Howitzer. La mayoría del revestimiento esta corroído, pero puedes ver estas letras: EXP. 25-09-98.}
 {43100}{}{Maleta de Ramirez, cerrada}
-{43101}{}{Esta es la maleta que recibiste de Gran Jesús Mordino para dársela a Ramirez en el Establo.}
+{43101}{}{Esta es la maleta que recibiste del Gran Jesus Mordino para dársela a Ramirez en el Establo.}
 {43200}{}{Maleta de Ramirez, abierta}
-{43201}{}{Esta es la maleta que recibiste de Gran Jesús Mordino para dársela a Ramirez en el Establo. Está abierta, y has sacado el Jet que había dentro.}
+{43201}{}{Esta es la maleta que recibiste de Gran Jesus Mordino para dársela a Ramirez en el Establo. Está abierta y has sacado el Jet que había dentro.}
 {43300}{}{Gafas de espejo}
 {43301}{}{Un par de gafas de sol a la última moda. Sólo con tenerlas en tu inventario hace que te sientas más guay.}
 {43400}{}{Carro}
@@ -999,7 +999,7 @@
 {51600}{}{Realzador médico PipBoy}
 {51601}{}{Este realzador consiste en un holodisco de almacenamiento, un cable de microfilamentos, un casco, y un sensor óptico que se sitúa sobre el ojo derecho. Al usarlo, un destello óptico transmite un diccionario de habilidades y conocimientos médicos en la memoria del usuario, mejorando de forma permanente su habilidad médica.}
 {51700}{}{"Jesusito"}
-{51701}{}{Esta hoja de apariencia maléfica perteneció a Pequeño Jesús Mordino. Tiene numerosos rasguños y cortes por toda su superficie, pero su hoja está bien afilada. En su mango está grabado "Jesusito".}
+{51701}{}{Esta hoja de apariencia maléfica perteneció al Pequeño Jesus Mordino. Tiene numerosos rasguños y cortes por toda su superficie, pero su hoja está bien afilada. En su mango está grabado "Pequeño Jesus".}
 {51800}{}{Minicañón doble}
 {51801}{}{Lo usan sólo los personajes con auto-cañón.}
 {51900}{}{Chapas de botella}
@@ -1051,7 +1051,7 @@
 {54301}{}{Parece ser un diario que pertenecía a una joven. La escritura en la portada interna dice: "Propiedad de Anna"
 La mayoría de las paginas fueron arrancadas o están muy descoloridas, pero una es aun legible. "Día 271: Hoy mi madre me dio un medallón de oro.
 Es la cosa más hermosa que he tenido. Nunca me separare de el"}
-{54400}{}{Botánica Holodisk}
+{54400}{}{Holodisco de Botánica}
 {54401}{}{Esta información de disco clasifica las diversas vida de la planta que creció antes de la Gran Guerra.}
 {54500}{}{Expirado G. E. C. K.}
 {54501}{}{El Jardín de Eden Creation Kit. Esta unidad es un equipo estándar para todos los de Vault-Tec bóvedas. Un GECK es el recurso para la reconstrucción de la civilización después de la bomba. Sólo añadir agua y remover. Esto es así más allá de la fecha de caducidad. Qué desperdicio!}

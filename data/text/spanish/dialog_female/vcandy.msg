@@ -102,7 +102,7 @@
 {201}{}{Adelante. Llámalos. No estarán aquí a tiempo de salvarte el culo.}
 {202}{}{De acuerdo entonces. De nada.}
 {203}{}{Yo... ¿hay algo más en lo que pueda ayudarte?}
-{204}{}{¿Puedo ayudarte en algo?}
+{204}{}{¿En que puedo ayudarte?}
 {205}{}{Necesitaría cierta atención médica.}
 {206}{}{Um, necesito eliminar una excrecencia. Mi sexto dedo del pie.}
 {207}{}{Aquí mi amigo podría necesitar algo de atención médica.}

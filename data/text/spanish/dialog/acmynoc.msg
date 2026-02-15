@@ -14,7 +14,7 @@
 {158}{}{¿Qué quieres saber?}
 {159}{}{¿Qué puedes decirme de los hombres
  que comercian con nuestro poblado?}
-{160}{}{¿Qué puedes decirme sobre este objeto que tengo de un Refugio?}
+{160}{}{¿Qué puedes decirme sobre este objeto que tengo de un refugio?}
 {161}{}{Nada, no importa.}
 {162}{}{Muy bien, pero no pierdas mucho tiempo.
  Sin el GECK, estamos condenados.}
@@ -53,8 +53,8 @@
 {185}{}{¡Qué rápido! ¿Has encontrado ya el sagrado Refugio 13?}
 {186}{}{Sí.}
 {187}{}{No, aún no.}
-{188}{}{¿Lo lograste?, ¡maravilloso!,
- ¿trajiste el GECK?}
+{188}{}{¿Lo lograste?, ¡Maravilloso!,
+ ¿Trajiste el GECK?}
 {189}{}{No.}
 {190}{}{No. Todavía no he hablado con la gente del Refugio.}
 {191}{}{No creo que sea asunto tuyo, amigo.}
@@ -187,7 +187,7 @@
 {660}{}{[Mynoc asiente sombríamente.] Es posible que se haya desviado del camino, pero una vez fue un gran guerrero respetado. Espero que su alma problematica haya encontrado la paz en el otro mundo.}
 {661}{}{De verdad. Hasta otra, Mynoc.}
 {662}{}{Lo que sea. Parecía como un capullo a mí. Nos vemos, Mynoc.}
-{1000}{}{Anciano}
+{1000}{}{Elder}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

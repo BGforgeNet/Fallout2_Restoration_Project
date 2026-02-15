@@ -71,7 +71,7 @@
 {170}{}{Could you stop that goddamn singing?! It's driving me crazy.}
 {171}{}{You have a great singing voice. You should keep practicing.}
 {172}{}{What was it you do here again?}
-{173}{}{Nevermind. Sorry to bother you.}
+{173}{}{Strunt i det. Förlåt att jag stör.}
 {174}{}{Th-th-thanks! That's n-nice of you to say.}
 {175}{}{What was it you do here again?}
 {176}{}{Just thought you should know. Take care.}

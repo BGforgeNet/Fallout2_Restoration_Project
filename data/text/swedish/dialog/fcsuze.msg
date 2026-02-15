@@ -19,7 +19,7 @@
 {118}{}{I have more questions.}
 {119}{}{Where are you from?}
 {120}{}{Great. That's all for now.}
-{121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea. I used to be a nanny, but then the kids mutated into monsters.}
+{121}{}{Jag är från en plats söder om Bengården och söder om Strålningen. Vi är inte så långt från havet. Jag brukade vara barnflicka, men sen muterade barnen till monster.}
 {122}{}{I have more questions.}
 {123}{}{How'd you meet Badger?}
 {124}{}{Fascinating. That's all for now.}

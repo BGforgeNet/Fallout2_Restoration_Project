@@ -207,7 +207,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-   else If_Party_Is_Armed then begin
+   else if party_is_armed() then begin
       call Node008;
    end
    else if (critter_is_armed(dude_obj)) then begin

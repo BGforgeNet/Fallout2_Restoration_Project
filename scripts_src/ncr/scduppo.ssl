@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "scduppo"
 #include "../headers/define.h"
 #include "../headers/ncr1.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_SCDUPPO
 #define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
@@ -133,8 +134,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_NCR);
    set_self_ai(AI_STORE_OWNER);
 
-   restock_fix
-   if (local_var(LVAR_Restock_Time) < game_time) then begin
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
       check_restock_item(PID_BOTTLE_CAPS, 30, 30, 100)
       set_local_var(LVAR_Restock_Time, (random(1,6) * ONE_GAME_DAY) + game_time);
    end

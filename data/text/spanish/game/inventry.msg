@@ -5,7 +5,7 @@
 {4}{}{IN}
 {5}{}{AG}
 {6}{}{SU}
-{7}{}{Puntos de Salud}
+{7}{}{Puntos de salud}
 {8}{}{Clase de armadura}
 {9}{}{  Normal}
 {10}{}{  Láser}

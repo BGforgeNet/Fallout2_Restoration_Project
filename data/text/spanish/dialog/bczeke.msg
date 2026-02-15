@@ -32,7 +32,10 @@
 {131}{}{Nada. Ellos tienen las armas, controlan el agua y la comida. Eso significa que están al cargo. Punto. No tenemos medios ni forma de subsistir sin el respaldo de Darion. ¿Cómo podríamos volvernos contra él? Estamos a su merced.}
 {132}{}{Hmm. Veo.}
 {133}{}{Hmm. Ya veo.}
-{134}{}{Está detrás de esa puerta de ahí, pero está cerrada desde el otro lado y también tiene trampas. No tengo manera de abrirla... espera un momento. Encontré esta tarjeta hace algún tiempo, pero no tengo ni idea de para qué sirve. Rebecca dice que tú has encontrado la puerta donde están reteniendo a Chrissy. Quizás esta tarjeta la abra. Toma, guárdala.}
+{134}{}{Está detrás de esa puerta de ahí, pero está cerrada desde el otro lado y también tiene trampas. No tengo
+manera de abrirla... Espera un momento. Encontré esta tarjeta hace tiempo, pero no tengo ni idea
+de para qué sirve. Rebecca dice que tú has encontrado la puerta donde están reteniendo a Chrissy. Quizás esta
+tarjeta la abra. Toma, cógela.}
 {135}{}{Agradezco a tú.}
 {136}{}{Gracias. La probaré.}
 {137}{}{Hay una ciudad al oeste de aquí llamada RNC. Dicen que el Refugio 15 es su hogar ancestral y quieren recuperarlo. Han estado mandando gente aquí para intentar que nos vayamos, pero no vamos a hacerlo. Este es el único hogar que conocemos.}
@@ -58,7 +61,7 @@
 {157}{}{Vete, no tengo nada que decirte.}
 {158}{}{Espera un momento... antes de que te vayas. Encontré esta tarjeta hace algún tiempo, pero no tengo ni idea de para qué sirve. Rebecca dice que tú has encontrado la puerta donde están reteniendo a Chrissy. Quizás esta tarjeta la abra. Toma, guárdala.}
 {159}{}{Gracias.}
-{160}{}{¿Puedo ayudarte en algo?}
+{160}{}{¿En que puedo ayudarte?}
 {161}{}{Sólo los problemas con la RNC, pero creo que el trato que nos ofreciste los solventará.}
 {162}{}{¡Lo has conseguido, amigo! Ya no estaremos más bajo el yugo de Darion. ¡Gracias!}
 {163}{}{Ahora que Darion ya no está no tenemos forma de conseguir comida. ¡Estoy seguro de que pereceremos! Muchas gracias.}

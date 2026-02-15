@@ -1660,7 +1660,7 @@
 {44847}{}{En cuanto pueda volver a moverme, te voy a dar lo tuyo}
 {44848}{}{¡Soy impermeable al dolor!}
 {44849}{}{¡Te desfiguraré la cara por eso!}
-{44860}{}{Genial. Voy a ser la única Garra mortal con cojera de la manada.}
+{44860}{}{Genial. Voy a ser el único sanguinario con cojera de la manada.}
 {44861}{}{¡Ouch! Mi pierna...}
 {44862}{}{Pagarás con tu pierna lo que le has hecho a la mía.}
 {44863}{}{Voy a echar de menos esa pierna...}
@@ -1716,7 +1716,7 @@
 {44943}{}{¡Si alguna parte del cuerpo no te duele, lo va ha hacer ahora!}
 {44944}{}{Deportes de contacto. ¡Me encantan!}
 {44945}{}{Dime tu nombre para contactar con tu pariente más próximo.}
-{44946}{}{¡Yo soy la razón por la que se nos conoce como Garra MORTAL!}
+{44946}{}{¡Yo soy la razón por la que se nos conoce como SANGUINARIOS!}
 {44947}{}{¡Es mejor dar que recibir!}
 {44948}{}{¡Espero que estés disfrutando de esto tanto como yo!}
 {44949}{}{¿Ha dolido? Porque puedo hacer más daño para la próxima.}
@@ -1733,7 +1733,7 @@
 {44960}{}{¿Podrías dejar de moverte para que pueda darte?}
 {44961}{}{Gafas. Debería buscarme unas gafas.}
 {44962}{}{No te rías. ¡Cuando te golpee, te va a doler, y mucho!}
-{44963}{}{¡Arrg! ¡Grng! ¡Ghrr! Thpt! (palabras de cuatro letras de Garra mortal)}
+{44963}{}{¡Arrg! ¡Grng! ¡Ghrr! Thpt! (Palabras de cuatro letras de sanguinario)}
 {44964}{}{Supongo que no debería dedicarme profesionalmente a pelear.}
 {44965}{}{¡Cómo puedo fallarle a algo tan gordo como tú!}
 {44966}{}{Tan pronto esté a la distancia adecuada, tendrás problemas.}

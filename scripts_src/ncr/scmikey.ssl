@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "scmikey"
 #include "../headers/define.h"
 #include "../headers/ncrent.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_SCMIKEY
 #define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
@@ -103,7 +104,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_NCR_ENTRANCE);
    set_self_ai(AI_STORE_OWNER);
    // comment out by killap
-   //if (local_var(LVAR_Restock_Time) < game_time) then begin
+   //if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
    //   check_restock_item(PID_BOTTLE_CAPS, 50, 100, 100)
    //   check_restock_item(PID_MEAT_ON_A_STICK, 25, 30, 100)
    //   set_local_var(LVAR_Restock_Time, (random(6,12) * ONE_GAME_DAY) + game_time);

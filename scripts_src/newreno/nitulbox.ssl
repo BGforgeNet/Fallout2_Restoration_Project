@@ -17,6 +17,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "nitulbox"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 #define NAME                    SCRIPT_NITULBOX
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
 #include "../headers/command.h"
@@ -60,8 +61,7 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (tully_dead == false) then begin
 
-         restock_fix
-         if (local_var(LVAR_Restock_Time) < game_time) then begin
+         if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
             self_caps_adjust(random(1,50) - self_caps);
             set_local_var(LVAR_Poor_Box_Caps, self_caps);
             set_local_var(LVAR_Restock_Time, (7 * ONE_GAME_DAY) + game_time);

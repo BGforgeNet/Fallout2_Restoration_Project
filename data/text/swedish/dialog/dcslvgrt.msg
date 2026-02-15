@@ -45,7 +45,7 @@
 {280}{}{Talk ta Metzger about that. He doesn't normally sell to the public. Has his hands full with... bigger customers.}
 {281}{}{Vem är Metzger?}
 {282}{}{Can I ask something else then?}
-{283}{}{Okay, bye.}
+{283}{}{Okej, hej då.}
 {284}{}{What about Vic?}
 {290}{}{Ya don't say. Beat it!}
 {291}{}{Dumb bitch.}
@@ -55,7 +55,7 @@
 {301}{}{Well, I hear he finally fixed the radio. You should ask Metzger. He's not much use now, not very good trade quality.}
 {302}{}{Vem är Metzger?}
 {303}{}{Where's Metzger at?}
-{304}{}{Okay, thanks. Bye.}
+{304}{}{Okej, tack. Hej då.}
 {310}{}{He's in the back room right through the door over there.}
 {311}{}{You playing with me? He's right back there. Just go through that door.}
 {312}{}{Okej.}
@@ -63,12 +63,12 @@
 {320}{}{Damn, you don't know Metzger? What're ya doin' in this town, if not ta see him? He's the head of the Slaver's Guild.}
 {321}{}{How many times do I have to tell ya? He's the slave master. He runs things in this town.}
 {322}{}{Can I ask you something else?}
-{323}{}{Okay, thanks.}
+{323}{}{Okej, tack.}
 {330}{}{I ain't talkin' about that. Metzger'll string me up. Plus, we wouldn't want any outside competition.}
 {331}{}{I already said. I ain't gonna talk about that.}
 {332}{}{Tell me before I blow a hole through your head.}
 {333}{}{I understand. Another question?}
-{334}{}{Okay, bye.}
+{334}{}{Okej, hej då.}
 {340}{}{Listen here, ya li'le shit head, don't you dare threaten me or anyone else in our guild, or you're dead. Get that? Dead.}
 {341}{}{Listen here, ya li'l cunt. Don't you dare threaten me or anyone else in our guild, or your dead. Get that? Dead.}
 {342}{}{Now, young Jet eye, you will die.}
@@ -94,14 +94,14 @@
 {387}{}{Uh... kay.}
 {400}{}{Nope, but I'd check with the boss. He's probably been all over the fuckin' place.}
 {401}{}{Another question.}
-{402}{}{Okay, thanks. Bye.}
+{402}{}{Okej, tack. Hej då.}
 {410}{}{Merchant? Oh, you must mean Vic, that guy that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
 {411}{}{Yeah, Vic... that Merchant guy, right? The one that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
 {412}{}{How many times you gonna ask me that? Metzger's got'm.}
 {413}{}{Vem är Metzger?}
 {414}{}{Can I ask another question?}
 {415}{}{Is he for sale?}
-{416}{}{Okay, thanks.}
+{416}{}{Okej, tack.}
 {430}{}{Hey, boys, look who's back.}
 {431}{}{Run, it's a slaver! Ah, I crack m'self up.}
 {432}{}{Back for some action?}

@@ -66,7 +66,7 @@
 {350}{}{Bien. Toma [Fred te da 500 dólares]. Hay un pequeño extra por haber confiado en mí. Bien, nos vemos. Gracias de nuevo.}
 {351}{}{¡Gracias!}
 {352}{}{Como quieras.}
-{360}{}{Gracias por prestarme el dinero. De verdad que significó mucho para mí que un completo extraño confiara en mí. Déjame darte esto.}
+{360}{}{Gracias por prestarme el dinero. De verdad que significó mucho que un completo extraño confiara en mí. Déjame darte esto.}
 {361}{}{Vale.}
 {362}{}{No tienes por qué.}
 {363}{}{Uh.}

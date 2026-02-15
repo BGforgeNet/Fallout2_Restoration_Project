@@ -1,6 +1,6 @@
-{100}{}{Ves a Gran Jesús Mordino.}
+{100}{}{Ves al Gran Jesus Mordino.}
 {150}{}{Ves a un hombre gordo con lacrimosos ojos negros. Está cubierto de sudor y respira pesadamente.}
-{151}{}{Ves a Gran Jesús Mordino. Está cubierto de sudor y respira pesadamente.}
+{151}{}{Ves al Gran Jesus Mordino. Está cubierto de sudor y le cuesta respirar.}
 {200}{}{Aléjate de ahí.}
 {201}{}{Eso… no te pertenece.}
 {202}{}{Toca eso otra vez, y… morirás en el Gólgota.}
@@ -22,7 +22,7 @@
 {246}{}{[Mirada hacia él con los afectados desinterés.]}
 {247}{}{[Te alejas]}
 {248}{}{¿Quién eres?}
-{249}{}{¿Eres Jesús Mordino?}
+{249}{}{¿Eres Jesus Mordino?}
 {250}{}{Lo siento. He entrado en la estancia equivocada.}
 {260}{}{Tú. (Mordino penetra con la mirada a Myron cuando entra, como si relámpagos oscuros ardieran en sus ojos). Has… abandonado tu puesto. Tu UTILIDAD
  para mí ha… finalizado. (Hace un gesto, y sus guardias desenfundan sus armas).}
@@ -34,7 +34,7 @@
 {266}{}{¡Eh! ¡eh…!}
 {267}{}{¡Oye! ¡Espera un asegundo...!}
 {268}{}{¡¿Quieres un poco de ESTO, *gordo?!* ¿Quieres UN POCO de }
-{275}{}{(El hombre habla con voz áspera) Soy… Jesús Mordino. Tú… te dirigirás a mí como SEÑOR Mordino. (Un chorro de sudor gotea
+{275}{}{(El hombre habla con voz áspera) Soy… Jesus Mordino. Tú… te dirigirás a mí como SEÑOR Mordino. (Un chorro de sudor gotea
  por su frente). ¿Qué… tienes que tratar conmigo?}
 {276}{}{Has... vuelto. (Un chorro de sudor gotea por su frente). ¿Qué… tienes que tratar conmigo?}
 {277}{}{Estoy buscando trabajo.}
@@ -53,7 +53,7 @@
 {305}{}{(Chorros de sudor caen por la cara de Mordino. Su expresión se oscurece) He… hablado. NO tengo trabajo para ti. Vete... y NO vuelvas.}
 {306}{}{Venga, Gran Jesús… sólo una oportunidad…}
 {307}{}{De acuerdo entonces. Adiós.}
-{315}{}{(Mordino guarda silencio un momento, luego habla) Soy Jesús Mordino. El cabeza de la familia Mordino. Vienes
+{315}{}{(Mordino guarda silencio un momento, luego habla) Soy Jesus Mordino. El cabeza de la familia Mordino. Vienes
  a… mi casino. Mi hogar. No me muestras… respeto. APRENDERÁS.}
 {316}{}{Creo que eres TÚ quien va a aprender un par de cosas...}
 {317}{}{¡Hey! Espera… ¡hablemos de esto! Venga, ahora…}
@@ -222,7 +222,7 @@
 {690}{}{(Asiente) Tu éxito... me complace. Serías bienvenido a la Familia Mordino. (Te agarra por los hombros) ¿Te
  unirías a nuestra familia? Tu fuerza será... nuestra fuerza.}
 {691}{}{Sería un placer convertirme en miembro de la Familia Mordino.}
-{692}{}{No puedo unirme a los Mordino. Pero no me entienda mal, Gran Jesús: ha sido un placer trabajar con usted.}
+{692}{}{No puedo unirme a los Mordino. Pero no me entienda mal, Gran Jesus: Ha sido un placer trabajar con usted.}
 {693}{}{No quiero unirme, gracias. Primero tengo un pueblo que salvar.}
 {700}{}{(Asiente) Lamento tu elección. Como he dicho, tu éxito me complace... odiaría que tus talentos
  fueran utilizados por mis... competidores. (Hace un gesto a sus guardias, que desenfundan sus armas).}

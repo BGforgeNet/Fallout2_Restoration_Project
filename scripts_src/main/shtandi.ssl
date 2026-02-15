@@ -369,7 +369,7 @@ end
 
 procedure Node1215a begin
    q3 := 1;
-   dude_wearing_vault_suit
+   if dude_wearing_vault_suit then
       call Node012;
    else
       call Node015;

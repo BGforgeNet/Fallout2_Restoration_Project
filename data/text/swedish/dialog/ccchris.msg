@@ -175,7 +175,7 @@
 {228}{}{That's a bad move, partner.}
 {229}{}{What do you think you're doing?}
 {230}{}{Hey, I'm outta here.}
-{231}{}{Yeah, right.}
+{231}{}{Ja, visst.}
 {232}{}{He's pulling out a radio. He's going to alert the whole base! I've got to deal with him quickly.}
 {233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
 {800}{}{Du lurade Chris att ge dig lösenordet.}

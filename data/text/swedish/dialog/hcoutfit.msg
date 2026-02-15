@@ -34,7 +34,7 @@
  sometimes I pay you. I'm the caravan outfitter for this town. I plan the caravan routes and
  arrange for provisioning. I hire people for jobs, and I'm also in charge of the Unity Patrols.}
 {130}{}{Jobs? What sort of jobs?}
-{131}{}{Thanks. Bye!}
+{131}{}{Tack. Hej då!}
 {132}{}{All right. Get started.}
 {133}{}{Not interested? All right. Come back when I can do something for you.}
 {134}{}{Okay!}

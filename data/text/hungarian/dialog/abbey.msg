@@ -1,1 +1,1 @@
-{100}{}{You have encountered a monastery and a small community built around it.}
+{100}{}{Találkoztál egy kolostorral és egy köré épült kis közösséggel.}

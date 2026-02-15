@@ -346,7 +346,7 @@ procedure talk_p_proc begin
                call Node002;
             gSay_End;
             end_dialogue;
-         end else dude_wearing_vault_suit begin
+         end else if dude_wearing_vault_suit then begin
             start_gdialog(NAME,self_obj,4,-1,-1);
             gSay_Start;
                call Node001;

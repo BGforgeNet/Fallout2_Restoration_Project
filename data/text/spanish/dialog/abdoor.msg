@@ -3,18 +3,18 @@
 {102}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con
 una ganzúa, y una trampa explosiva en el marco, que podrías
 ser capaz de forzar.}
-{103}{}{Ves una puerta robusta, con una cerradura y una trampa
- altamente explosiva en el marco, la cual puedes ser capaz de
- forzar.}
-{104}{}{Ves una puerta robusta, aparentemente sin cerradura, y
- con una trampa altamente explosiva en el marco, la cual puedes ser capaz
- de forzar.}
-{105}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y una
- trampa altamente explosiva en el marco, la cual puedes ser capaz
- de forzar.}
+{103}{}{Ves una puerta robusta que puede ser forzada con una ganzúa
+y una trampa muy potente en el marco que tal vez puedas usar
+para abrirla.}
+{104}{}{Ves una puerta robusta aparentemente sin cerradura, y
+ con una trampa altamente explosiva en el marco, tal vez puedas ser capaz
+ de usarla para abrirla.}
+{105}{}{Ves una puerta robusta con una cerradura oxidada y antigua,
+tambien ves una trampa muy explosiva en el marco. Tal vez puedas
+intentar forzar la puerta con una palanca.}
 {106}{}{Ves una robusta puerta con una cerradura (que puede ser abierta
-con una ganzúa) y una trampa en el marco, que podrías ser capaz
-de forzar.}
+con una ganzúa) y una trampa en el marco, quizás podrías ser capaz
+de forzarla.}
 {107}{}{Ves una puerta robusta, con una cerradura y una trampa en
  el marco, la cual puedes ser capaz de forzar.}
 {108}{}{Ves una puerta robusta, aparentemente sin cerradura y
@@ -27,18 +27,18 @@ de forzar.}
 {111}{}{Ves una puerta robusta, con una cerradura y un cable roto
  en el marco, la cual puedes ser capaz de forzar.}
 {112}{}{Ves una puerta robusta, aparentemente sin cerradura, y
- un cable roto en el marco, la cual puedes ser capaz de
- forzar.}
+ un cable roto en el marco, tal vez puedas ser capaz de
+forzarla.}
 {113}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y un
  cable cortado en el marco, la cual puedes ser capaz de forzar.}
 {114}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con 
 una ganzúa), que podrías ser capaz de forzar.}
-{115}{}{Ves una puerta robusta con una cerradura, la cual puedes ser
+{115}{}{Ves una puerta robusta con una cerradura, la cual podrías ser
  capaz de abrir.}
 {116}{}{Ves una puerta robusta, aparentemente sin cerradura,
- la cual puedes ser capaz de abrir.}
+ la cual podrías ser capaz de abrir.}
 {117}{}{Ves una puerta robusta, con una vieja y oxidada cerradura, la
- cual puedes ser capaz de abrir.}
+ cual podrías ser capaz de abrir.}
 {118}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con
 una ganzúa, y una trampa explosiva en el marco.}
 {119}{}{Ves una puerta robusta, con una cerradura y con una trampa
@@ -186,10 +186,10 @@ con una ganzúa.}
 {400}{}{Abres la puerta.}
 {414}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con 
 una ganzúa), que podrías ser capaz de forzar.}
-{415}{}{Ves una puerta robusta con una cerradura, la cual puedes ser
+{415}{}{Ves una puerta robusta con una cerradura, la cual podrías ser
  capaz de abrir.}
 {416}{}{Ves una puerta robusta, aparentemente sin cerradura,
- la cual puedes ser capaz de abrir.}
+ la cual podrías ser capaz de abrir.}
 {417}{}{Ves una robusta puerta que podrías ser capaz de forzar.}
 {500}{}{Esta puerta es demasiado pesada para forzarla.}
 {501}{}{Parece que antes necesitarás hacer funcionar el generador.}

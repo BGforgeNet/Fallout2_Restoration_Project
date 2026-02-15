@@ -20,6 +20,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "zinuke"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_ZINUKE
 #define CUR_COMP_SCRIPT         SCRIPT_ZINUKE
@@ -218,8 +219,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   restock_fix
-   if (game_time > local_var(LVAR_Restock_Time)) then begin
+   if (unsigned_int_compare(game_time, local_var(LVAR_Restock_Time)) > 0) then begin
       if (local_var(LVAR_Stock) < MAX_STOCK) then
          set_local_var(LVAR_Stock, Random(MAX_STOCK / 2, MAX_STOCK));
 

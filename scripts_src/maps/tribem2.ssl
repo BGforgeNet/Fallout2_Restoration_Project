@@ -6,6 +6,7 @@
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 #include "../headers/tribe02.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_TRIBEM2          //Script name from scripts.h
 
@@ -20,34 +21,29 @@ procedure Make_Fish;
 export variable WARRIOR_obj := 0;
 export variable GECKO_obj := 0;
 
-procedure start
-begin
+procedure start begin
 end
 
-procedure map_exit_p_proc
-begin
+procedure map_exit_p_proc begin
 end
 
-procedure map_enter_p_proc
-begin
+procedure map_enter_p_proc begin
    variable Critter;
 
    if (map_first_run) then begin
-         display_msg(mstr(100));
+      display_msg(mstr(100));
 
-         Critter:=create_object_sid(PID_TOUGH_GOLDEN_GECKO,13295,1,SCRIPT_TRIBEC10);
+      Critter:=create_object_sid(PID_TOUGH_GOLDEN_GECKO,13295,1,SCRIPT_TRIBEC10);
 
-         Critter:=create_object_sid(PID_MALE_PRIMITIVE_HUNTER,13493,1,SCRIPT_TRIBEC9);
+      Critter:=create_object_sid(PID_MALE_PRIMITIVE_HUNTER,13493,1,SCRIPT_TRIBEC9);
    end
 
-   restock_fix_map
-
-   if (map_var(MVAR_Restock_Time) < game_time) then begin
-       set_map_var(MVAR_Restock_Time, (random(6,8) * ONE_GAME_DAY) + game_time);
-       call Make_Fish;
+   if (unsigned_int_compare(map_var(MVAR_Restock_Time), game_time) < 0) then begin
+      set_map_var(MVAR_Restock_Time, (random(6,8) * ONE_GAME_DAY) + game_time);
+      call Make_Fish;
    end
 
-   if( dude_elevation == 0) then
+   if (dude_elevation == 0) then
       Lighting;
    else
       Cavern_Lighting;
@@ -55,10 +51,9 @@ begin
 end
 
 
-procedure map_update_p_proc
-begin
+procedure map_update_p_proc begin
 
-   if( dude_elevation == 0) then
+   if (dude_elevation == 0) then
       Lighting;
    else
       Cavern_Lighting;
@@ -66,20 +61,20 @@ begin
 end
 
 procedure Make_Fish begin
-  variable fish;
-  if (not(tile_contains_obj_pid(19695,0,PID_FISH2))) then begin
-    fish:=create_object(PID_FISH2,19695,0);
-  end
-  if (not(tile_contains_obj_pid(19495,0,PID_FISH2))) then begin
-    fish:=create_object(PID_FISH2,19495,0);
-  end
-  if (not(tile_contains_obj_pid(19492,0,PID_FISH))) then begin
-    fish:=create_object(PID_FISH,19492,0);
-  end
-  if (not(tile_contains_obj_pid(21721,0,PID_FISH2))) then begin
-    fish:=create_object(PID_FISH2,21721,0);
-  end
-  if (not(tile_contains_obj_pid(21519,0,PID_FISH2))) then begin
-    fish:=create_object(PID_FISH2,21519,0);
-  end
+   variable fish;
+   if (not(tile_contains_obj_pid(19695,0,PID_FISH2))) then begin
+      fish:=create_object(PID_FISH2,19695,0);
+   end
+   if (not(tile_contains_obj_pid(19495,0,PID_FISH2))) then begin
+      fish:=create_object(PID_FISH2,19495,0);
+   end
+   if (not(tile_contains_obj_pid(19492,0,PID_FISH))) then begin
+      fish:=create_object(PID_FISH,19492,0);
+   end
+   if (not(tile_contains_obj_pid(21721,0,PID_FISH2))) then begin
+      fish:=create_object(PID_FISH2,21721,0);
+   end
+   if (not(tile_contains_obj_pid(21519,0,PID_FISH2))) then begin
+      fish:=create_object(PID_FISH2,21519,0);
+   end
 end

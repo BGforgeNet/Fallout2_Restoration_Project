@@ -41,7 +41,7 @@
 {140}{}{If you want to get into Vault City, you need to speak to Wallace, Head of Customs. He can issue you a Day Pass.}
 {141}{}{Where can I find Wallace?}
 {142}{}{A Day Pass? What's that?}
-{143}{}{Okay, thanks.}
+{143}{}{Okej, tack.}
 {144}{}{Wallace is in the Customs building right over there. }
 {145}{}{Now move along. I don't have time to talk to Outworlders.}
 {146}{}{What's a Day Pass?}

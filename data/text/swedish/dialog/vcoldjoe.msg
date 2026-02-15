@@ -19,7 +19,7 @@
 {116}{}{I've been living up in a small village.}
 {117}{}{Well, you better be careful around here. Things ain't as clear as they once were. You best watch
  your back.}
-{118}{}{Okay, thanks.}
+{118}{}{Okej, tack.}
 {119}{}{Yeah, I looked for your Vault for a while, but never found it. So you got any good stories for
  your old friend Ian?}
 {120}{}{Ian?}

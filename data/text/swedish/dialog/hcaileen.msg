@@ -39,6 +39,6 @@
 {138}{}{Nice of you to visit. Now get out.}
 {139}{}{Why'd you track in all that mud?}
 {140}{}{Would you act that way in your own, uh, tent?}
-{141}{}{Please leave me alone.}
+{141}{}{Snälla lämna mig ifred.}
 {142}{}{I don't know what you want, but I wish you'd just leave me alone.}
 {143}{}{We were set up! We didn't kill those people in the tunnels!}

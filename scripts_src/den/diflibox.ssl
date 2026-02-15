@@ -1,5 +1,5 @@
 /*
-   Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 /*
@@ -18,6 +18,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "diflibox"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_DIFLIBOX
 
@@ -40,8 +41,7 @@ procedure map_enter_p_proc begin
 /* Set up the door state when the player first enters the map */
    den_flick_box_obj := self_obj;
    if (is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          variable tmp_box := move_quest_items();
          self_caps_adjust(random(55, 61) - self_caps);
          check_restock_item(PID_JET, 0, 1, 100)

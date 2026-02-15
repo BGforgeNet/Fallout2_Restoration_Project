@@ -25,7 +25,7 @@
  fueras a una de las ciudades más grandes y buscases a un cirujano. Inténtalo en la República de Nueva California. Está al este de aquí.}
 {121}{}{Vale. Adiós.}
 {122}{}{De acuerdo. Gracias de todos modos.}
-{123}{}{¿Qué es lo que quieres saber?}
+{123}{}{¿Qué te gustaría saber?}
 {124}{}{¿Tú prisionero?}
 {125}{}{¿Puedes irte si quieres?}
 {126}{}{¿Qué sabes de Garras?}
@@ -33,29 +33,29 @@
 {128}{}{Yo irme ahora.}
 {129}{}{¿Eres prisionero aquí?}
 {130}{}{¿Puedes marcharte si lo deseas?}
-{131}{}{¿Qué puedes contarme de las Garras mortales?}
+{131}{}{¿Qué puedes contarme de los sanguinarios?}
 {132}{}{¿Cómo llegaste aquí en principio?}
 {133}{}{Gracias por la información. Me dirigiré afuera.}
-{134}{}{No, no soy un prisionero. Estoy aquí porque me necesitan. He aprendido a aceptar el hecho de que algunos de mis pacientes son Garras mortales.}
+{134}{}{No, no soy un prisionero. Estoy aquí porque me necesitan. He aprendido a aceptar el hecho de que algunos de mis pacientes son sanguinarios.}
 {135}{}{Vale. Necesito saber más.}
 {136}{}{Gracias. Adiós.}
 {137}{}{Eso dice mucho de ti.}
 {138}{}{Ya veo.}
 {139}{}{Esa es una decisión con la que no puedo estar de acuerdo, pero es tu vida.}
-{140}{}{Sí puedo, y a menudo lo hago. Tengo que recolectar mis hierbas de vez en cuando, y nunca me lo han impedido. Solía preguntarme si las Garras mortales me seguían en secreto y me detendrían de todos modos si intentase escapar. Así que un día puse a prueba esa teoría.}
+{140}{}{Sí puedo, y a menudo lo hago. Tengo que recolectar mis hierbas de vez en cuando, y nunca me lo han impedido. Solía preguntarme si los sanguinarios me seguían en secreto y me detendrían de todos modos si intentase escapar. Así que un día puse a prueba esa teoría.}
 {141}{}{Lo tengo. Marcho ahora.}
 {142}{}{Necesito preguntar más.}
 {143}{}{Era una opción estúpida y tienes suerte de que diera resultado.}
 {144}{}{De acuerdo.}
 {145}{}{Buena idea. Me alegra comprobar que funcionó.}
-{146}{}{Bien, veamos... las Garras mortales parecen ser mutaciones de los camaleones Jackson, la variedad cornamentada.
+{146}{}{Bien, veamos... los sanguinarios parecen ser mutaciones de los camaleones Jackson, la variedad cornamentada.
  Muchas similitudes siguen presentes, pero el número de diferencias es aún mayor. El factor de
  mutación es realmente elevado. Esta especie es muy inteligente, el equivalente de un ser humano de ocho años,
  con algunos individuos que alcanzan el nivel humano normal. Su capacidad de aprendizaje es muy alta y son
  capaces de pensamientos abstractos y razonamientos.}
 {147}{}{Eh... lo que has dicho.}
 {148}{}{Tengo que ir ahora yo.}
-{149}{}{Uh-huh.}
+{149}{}{Ah-Vale.}
 {150}{}{Vaya, estoy impresionado con tus conocimientos.}
 {151}{}{A mí me suena a un montón de tonterías.}
 {152}{}{Una noche estaba recogiendo unas hierbas cuando una voz me llamó desde la oscuridad. 'Te he estado
@@ -70,7 +70,7 @@
 {159}{}{Viajé a otra ciudad y me quedé allí una semana más o menos, antes de volver. Cuando lo hice, fui
  acogido cálidamente. Gruthar, el líder de la manada, me visitó en privado y me dio las gracias personalmente por haber 
  regresado. No, definitivamente estoy aquí porque así lo quiero.}
-{160}{}{Aunque no tienen cuerdas vocales, las Garras mortales parecen imitar el habla humana como
+{160}{}{Aunque no tienen cuerdas vocales, los sanguinarios parecen imitar el habla humana como
  lo hace un loro. Aún tengo que descubrir el mecanismo exacto que hay tras ello, así que no puedo decir más
  de momento. Socialmente, son animales de manada con un código ético muy rígido. Los lidera un 'macho
  alfa' que gobierna con el consentimiento común de la manada. Parece que son extremadamente leales a la manada como un
@@ -81,6 +81,6 @@
  los resuelven. Hmmm. Eso es todo lo que se me ocurre por ahora. Espero que te ayude.}
 {162}{}{Le respondí que respetaba la vida en general y que haría todo lo posible por curar a los heridos, sin importar
  de quién o qué se trataba. Pensé que se trataría de algún ladrón o saqueador que se había herido a sí mismo y necesitaba
- un doctor. Puedes imaginar mi sorpresa cuando un par de Garras mortales surgieron de la oscuridad
+ un doctor. Puedes imaginar mi sorpresa cuando un par de sanguinarios surgieron de la oscuridad
  con un compañero herido. Alguien le había disparado a base de bien. Les dije que no podía encargarme de él
  donde estábamos, así que me vendaron los ojos y me trajeron aquí. Y aquí he estado desde ese día.}

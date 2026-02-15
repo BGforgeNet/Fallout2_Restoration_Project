@@ -31,7 +31,7 @@
 {179}{}{¿O qué?}
 {180}{}{De acuerdo. ¡Pero volveré!}
 {181}{}{Vale. Adiós.}
-{182}{}{¿Qué es lo que quieres saber?}
+{182}{}{¿Qué te gustaría saber?}
 {183}{}{Sobre Vic el Mercader...}
 {184}{}{¿Puedo unirme al Gremio de Esclavistas?}
 {185}{}{Me gustaría vender a mi marido.}

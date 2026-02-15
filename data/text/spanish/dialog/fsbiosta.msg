@@ -1,4 +1,4 @@
-{100}{}{Ves un terminal de computadora.}
+{100}{}{Ves un terminal de ordenador.}
 {101}{}{Ves la estación de trabajo de Biología.}
 {102}{}{Ves un terminal funcional de computadora.}
 {103}{}{Saludos. Por favor, confirme su identidad.}
@@ -7,7 +7,7 @@
 {106}{}{INTLVR-Dnky-Pnch-98790}
 {107}{}{::piratear la computadora::}
 {108}{}{Salir}
-{109}{}{Datos a encontrar: - Programa botánico - Programa genético - Programa Xeno-}
+{109}{}{Datos a encontrar: -Programa botánico- -Programa genético- -Programa Xeno-}
 {110}{}{Programa botánico.}
 {111}{}{Programa genético.}
 {112}{}{Programa Xeno.}

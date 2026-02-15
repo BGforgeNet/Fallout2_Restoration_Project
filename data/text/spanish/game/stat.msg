@@ -11,7 +11,7 @@
 {110}{}{Daño desarmado}
 {111}{}{Daño a Melé}
 {112}{}{Peso máximo soportado}
-{113}{}{Capacidad de reacción}
+{113}{}{Secuencia}
 {114}{}{Ritmo de curación}
 {115}{}{Posibilidad de críticos}
 {116}{}{Mejores Críticos}

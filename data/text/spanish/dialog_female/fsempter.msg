@@ -1,4 +1,4 @@
-{100}{}{Ves un terminal de computadora.}
+{100}{}{Ves un terminal de ordenador.}
 {101}{}{Ves un terminal de computadora Emperador.}
 {102}{}{Ves una computadora con una pantalla táctil incorporada como interfaz. Tiene grabado en un lateral "Terminal de computadora Emperador v8.8".}
 {103}{}{Saludos. Por favor, introduzca su contraseña para confirmar su identidad.}

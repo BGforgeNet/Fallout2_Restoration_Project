@@ -188,16 +188,16 @@ procedure timed_event_p_proc begin
       if (game_time - local_var(LVAR_Warn_Time) >= ONE_GAME_SECOND * 10) then begin
          set_local_var(LVAR_Warn_Time, 0);
          waiting := 0;
-         If_Party_Is_Armed then begin
+         if party_is_armed() then begin
             set_local_var(LVAR_Hostile, 2);
          end
       end else begin
          add_timer_event(self_obj, game_ticks(2), TIMER_ATTACK);
       end
    end else if (fixed_param == TIMER_LOOK) then begin
-      If_Party_Is_Armed then begin
+      if party_is_armed() then begin
       end
-      if (self_can_see_dude and How_Many_Party_Members_Armed and tile_distance_objs(self_obj, dude_obj) <= POLICE_WARN_DIST) then
+      if (self_can_see_dude and party_is_armed() and tile_distance_objs(self_obj, dude_obj) <= POLICE_WARN_DIST) then
          if (waiting == 0) then
             call talk_p_proc;
       add_timer_event(self_obj, game_ticks(2), TIMER_LOOK);
@@ -250,7 +250,7 @@ procedure critter_p_proc begin
 
    if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
-       If_Party_Is_Armed then begin
+       if party_is_armed() then begin
           attack(Get_Armed_Party_Member);
        end else
           attack(dude_obj);
@@ -307,10 +307,10 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   If_Party_Is_Armed then begin
+   if party_is_armed() then begin
    end
 
-   if (How_Many_Party_Members_Armed and waiting == 0) then begin
+   if (party_is_armed() and waiting == 0) then begin
       call Node001;
       set_local_var(LVAR_Warn_Time, game_time);
       add_timer_event(self_obj, game_ticks(10), TIMER_ATTACK);

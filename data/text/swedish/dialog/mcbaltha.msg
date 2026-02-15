@@ -13,7 +13,7 @@
 {160}{}{I'm searching for an item called a GECK. Do you by any chance know anything about it, or how I
  might obtain one?}
 {161}{}{GECK?}
-{163}{}{What can I help you with?}
+{163}{}{Vad kan jag hjälpa dig med?}
 {168}{}{Just looking, thanks.}
 {171}{}{Any luck finding Jonny?}
 {172}{}{I found this at the bottom of the old dry well. A part of the well had fallen in, and

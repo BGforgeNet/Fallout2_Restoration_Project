@@ -74,11 +74,11 @@
 {155}{}{Färdigt.}
 {156}{}{Tack för att du gav oss chansen till ett nytt liv. Vi står alla i din skuld.}
 {157}{}{Bara gå härifrån. Jag har inget att säga till dig.}
-{158}{}{Wait, before you go... I found this key card some time ago, and I have no idea what it's for.
- Rebecca says that you found some sort of entrance where they were holding Chrissy. Maybe this card will
- open it. Here, take it.}
+{158}{}{Vänta, innan du går... Jag hittade det här nyckelkortet för ett tag sen, och jag har ingen aning om vad det är till för.
+ Rebecca säger att du hittade nån sorts ingång där de höll Chrissy. Kanske det här kortet kommer
+ öppna den. Här, ta det.}
 {159}{}{Tack.}
-{160}{}{What can I help you with?}
-{161}{}{Just the problems with the NCR, but I think the deal you offered will solve that.}
-{162}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you!}
-{163}{}{Now that Darion's gone we don't have any way to get food. We will surely perish! Thanks a lot.}
+{160}{}{Vad kan jag hjälpa dig med?}
+{161}{}{Bara problemen med NKR, men jag tror att avtalet du erbjöd kommer att lösa det.}
+{162}{}{Du har gjort det, min vän! Vi är inte längre under Darions ok. Tack!}
+{163}{}{Nu när Darion är borta har vi inget sätt att skaffa mat. Vi kommer säkert att förgås! Tack så mycket.}

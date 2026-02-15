@@ -81,7 +81,7 @@
 {180}{hak018}{Ahh. Devuelves el espíritu del Morador al mundo y traes la sonrisa al alma de un viejo con tu presencia. Por eso, te daré los polvos curativos. Recuerda, nublan la mente y limpian el cuerpo.}
 {181}{}{Gracias.}
 {182}{hak018a}{Y también, mezclaré la flor de broquia con la raíz de xandria cada vez que me traigas ambas. Que tus caminos sean verdaderos y tu corazón siga su ejemplo.}
-{183}{}{¿Dónde puedo encontrar esas cosas?}
+{183}{}{¿Dónde puedo encontrar estas cosas?}
 {184}{}{Gracias.}
 {185}{}{Casi siento irme. Empezaba a entenderte ahora. Adiós.}
 {186}{hak019}{Ah, Elegido, mi huerto está bien. ¿Cómo está el tuyo?}
@@ -126,18 +126,18 @@
 {225}{}{Uh.}
 {226}{}{¡¿Huh?!}
 {227}{hak029}{Bienvenido, Elegido. Veo por tu rostro que la salvación del GECK aún no es nuestra. Se incansable como la hormiga antes de que se acaben nuestras reservas. Eres nuestra última esperanza.}
-{228}{}{Uh-huh.}
+{228}{}{Ah-Vale.}
 {229}{}{Lo intento. Me gustaría ver a la hormiga recorriendo las millas que yo recorro.}
 {230}{}{Lo estoy haciendo lo mejor que puedo.}
 {231}{}{Redoblaré mis esfuerzos, Santo. No os abandonaré.}
 {232}{}{Sí, sí. Ya lo he oído antes.}
 {233}{hak030}{Elegido... el poblado llora de desesperación. Los niños se debilitan con el hambre. Por favor, no podemos aguantar mucho más.}
-{234}{}{Uh-huh.}
+{234}{}{Ah-Vale.}
 {235}{}{Lo intento, lo intento. ¡Dame un respiro!}
 {236}{}{Encontraré el GECK, Santo. Tienes mi palabra.}
 {237}{}{Haré todo lo que este en mi mano para encontrar el GECK.}
 {238}{hak031}{Elegido, sólo quedan unos pocos granos de las arenas del tiempo. Por favor. Trae el GECK pronto y haz que el futuro del poblado sea como la playa del océano. Rápido, antes de que caiga el último grano.}
-{239}{}{Uh-huh.}
+{239}{}{Ah-Vale.}
 {240}{}{De acuerdo. Me marcho a buscarlo.}
 {241}{}{La vida es una playa, ¿eh?}
 {242}{}{Encontraré el GECK, Santo. No abandonaré a nuestro pueblo.}

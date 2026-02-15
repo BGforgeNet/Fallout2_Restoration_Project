@@ -45,7 +45,7 @@
 {183}{}{He oído que algunas malezas son peligrosas.}
 {184}{}{He oído que los tribales saben invocar la lluvia.}
 {185}{}{Buena cosecha la de este año.}
-{186}{}{El maíz está creciendo tan alto como una Garra mortal.}
+{186}{}{El maíz está creciendo tan alto como un sanguinario.}
 {187}{}{Los vegetales son buenos para el cuerpo.}
 {188}{}{Ya casi estamos listos para la cosecha.}
 {189}{}{No nos vendría mal algo más de lluvia.}
@@ -123,7 +123,7 @@
 {329}{}{Nunca me encontrarás adorando a una maldita rata sobredimensionada.}
 {340}{}{Deberías ir a ver a Lenny por esas heridas.}
 {341}{}{Pareces demasiado magullado. Ve a ver a Lenny.}
-{342}{}{No deberías boxear con una Garra mortal. Ve a ver a Lenny.}
+{342}{}{No deberías boxear con un sanguinario. Ve a ver a Lenny.}
 {343}{}{Lenny está en la oficina de Harold. Deberías pedirle que eche un vistazo a esas heridas.}
 {344}{}{¿Cómo te has hecho tanto daño?}
 {345}{}{Auch. Deberías ir a ver a Lenny.}

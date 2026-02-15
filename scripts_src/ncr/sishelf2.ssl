@@ -21,6 +21,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "sishelf2"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_SISHELF2
 
@@ -194,8 +195,7 @@ end
 
 procedure map_enter_p_proc begin
    if (buster_obj != -1 and buster_obj) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          variable tmp_box := move_quest_items();
          //Common
          check_restock_item(PID_KNIFE, 1, 5, 100)

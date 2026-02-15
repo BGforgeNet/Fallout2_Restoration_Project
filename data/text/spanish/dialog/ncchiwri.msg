@@ -132,7 +132,8 @@
 {486}{}{Oye, señorita, GRACIAS.}
 {487}{}{Descubriste quién mató a mi hermano, y toda la familia Wright te lo agradecerá. Y no será un agradecimiento pequeño, ¿entiendes?}
 {488}{}{Entiendo. Nos veremos más tarde, Chris. }
-{495}{}{Jules en la cabeza de la ciudad también vende Jet, pero en su mayoría vende a los turistas... luego está el Pequeño Jesús Mordino: él podría haber empujado a las drogas a Rich mientras Rich estaba solo. Él pasa el rato en el Desperado.}
+{495}{}{Jules en la entrada de la ciudad también vende Jet, pero vende principalmente a turistas... luego está el Pequeño Jesus Mordino:
+El podría haber empujado a las drogas a Rich mientras estaba solo. Pasa el rato en el Desperado.}
 {496}{}{Lo tengo. Oye, tenía algunas otras preguntas…}
 {497}{}{Jeta Jimmy J, Renesco el Astronauta, Jules y Pequeño Jesús… los investigaré. Gracias por la información, Chris. }
 {1200}{}{! ¡Qué forma de patearle el culo al Enclave!}

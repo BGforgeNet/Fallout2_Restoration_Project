@@ -161,8 +161,8 @@ Así que mi amigo piloto... ¿qué puede hacer Jeta Jimmy J por ti hoy?}
 {551}{}{Venga, debe haber algún modo en que pueda verle.}
 {554}{}{El Establo, ¿eh? A las afueras de la ciudad, al norte… (lo grabaré en el PipBoy lo antes posible)… gracias por el
  chivatazo, Jimmy.}
-{560}{}{A mí ni me preguntes, amigo. Yo VENDO para el chico, y apenas he conseguido verlo una o dos veces desde cien yardas de
- distancia. Gran Jesús Mordino no permite que nadie se acerque a él si no es alguien de gran confianza de la Familia.}
+{560}{}{A mí ni me preguntes, amigo. Yo VENDO para el chico, y casi no lo he visto más que una o dos veces a cien metros de
+distancia. El Gran Jesus Mordino no permite que nadie se acerque a él si no es alguien de gran confianza de la familia.}
 {561}{}{De acuerdo entonces, negociemos.}
 {564}{}{De acuerdo entonces. Gracias, Jimmy. Tengo que irme.}
 {570}{}{Bueno, es una historia… muy… diferente, mi amigo piloto. Oh sí.}

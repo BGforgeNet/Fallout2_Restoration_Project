@@ -8,4 +8,4 @@
 {107}{}{Mira. }
 {108}{}{. Nosotros irnos.}
 {109}{}{Raro. ¿Las cosas malas hablan?}
-{110}{}{¿Garras mortales parlantes? Esto es de locos...}
+{110}{}{¿Sanguinarios que hablan? Esto es de locos...}

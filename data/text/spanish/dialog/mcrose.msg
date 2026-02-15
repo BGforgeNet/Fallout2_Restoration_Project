@@ -47,7 +47,7 @@
 {197}{}{[El frito de brahmin numero 38 debe viajar a la velocidad de la luz cuando de repente sale disparado de tu boca].}
 {198}{}{Oh, no podemos contar ese último, ¡pero has dejado el récord en 37! Aquí está tu dinero. ¡Enhorabuena!}
 {199}{}{[Te sientes enfermo].}
-{200}{}{Ah, esa es mi especialidad. Espero que estés hambriento; te garantizo que nunca has probado una tortilla como ésta en ninguna parte. [Se marcha y vuelve con la mayor tortilla que hayas visto en tu maldita vida].}
+{200}{}{Ah, esa es mi especialidad. Espero que tengas hambre; Te garantizo que nunca has probado una tortillacomo ésta en ninguna parte. [Se marcha y vuelve con la mayor tortilla que hayas visto en tu maldita vida].}
 {201}{}{[Te sientes revitalizado después de semejante comilona].}
 {202}{}{[Desaparece rápidamente tras la barra y vuelve con tu pedido].}
 {203}{}{¿Puedo hacerte algunas preguntas?}

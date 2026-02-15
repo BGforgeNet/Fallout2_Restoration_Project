@@ -142,7 +142,7 @@
 {581}{}{I will. Goodbye.}
 {590}{}{Have you decided to help me yet?}
 {591}{}{Yes, I will help you. I'll return when the power is restored.}
-{592}{}{No, sorry.}
+{592}{}{Nej, tyvärr.}
 {600}{}{I'm sorry, but there's nothing more I can do for you now. I have no more jobs left to be done. Thanks for your help.}
 {601}{}{Bye then.}
 {602}{}{Yes, there were some loose wires and I had to find some junk to-}

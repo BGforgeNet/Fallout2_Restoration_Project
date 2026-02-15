@@ -1,21 +1,21 @@
 {100}{}{Du ser en vakt.}
-{150}{}{He's one of Tyler's guards.}
-{151}{}{She's one of Tyler's guards.}
-{200}{}{You still alive?}
-{210}{}{We showed them, didn't we?}
-{211}{}{No one messes with us.}
+{150}{}{Han är en av Tylers vakter.}
+{151}{}{Hon är en av Tylers vakter.}
+{200}{}{Fortfarande vid liv?}
+{210}{}{Vi visade dem, eller hur?}
+{211}{}{Ingen bråkar med oss.}
 {212}{}{We kicked ass.}
-{213}{}{About time we finished them off.}
-{214}{}{I can't forget the look on his face. It was great.}
-{215}{}{I'm surprised Metzger didn't get pissed.}
-{216}{}{I wonder why Metzger didn't step in.}
-{225}{}{I don't know why Metzger has us guard this shit.}
-{226}{}{Who's going to try and steal this crap?}
-{227}{}{This job is a cakewalk.}
-{228}{}{No one ever messes with us.}
-{229}{}{I think this stuff came from a Vault or something.}
-{230}{}{What are you looking for anyway?}
-{231}{}{There's nothing in here but us mice.}
+{213}{}{Det var på tiden att vi gjorde slut på dem.}
+{214}{}{Jag kan inte glömma hans ansiktsuttryck. Det var fantastiskt.}
+{215}{}{Jag är förvånad över att Metzger inte blev förbannad.}
+{216}{}{Jag undrar varför Metzger inte ingrep.}
+{225}{}{Jag vet inte varför Metzger har sagt åt oss att vakta den här skiten.}
+{226}{}{Vem kommer att försöka stjäla den här skiten?}
+{227}{}{Det här jobbet är lätt som en plätt.}
+{228}{}{Ingen bråkar någonsin med oss.}
+{229}{}{Jag tror att det här kommer från ett Valv eller nåt.}
+{230}{}{Vad letar du efter egentligen?}
+{231}{}{Det finns inget här inne förutom oss möss.}
 {232}{}{Don't waste your time, we've checked this stuff over a million times.}
 {233}{}{Tonight's the night.}
 {234}{}{I hate waiting.}

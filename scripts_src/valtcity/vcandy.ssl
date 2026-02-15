@@ -412,7 +412,7 @@ procedure Node001 begin
       NOption(110, Node002, 004);
    if( global_var(GVAR_HAVE_MUTATED) == 1 ) then
       NOption(111, Node033, 004);
-   If_Party_Has_Injured then begin
+   if (party_has_injured()) then begin
       if(party_size == 2) then
          NOption(112, Node001a, 004);
       else if(party_size > 2) then
@@ -462,7 +462,7 @@ procedure Node002 begin
       NOption(125, Node002b, 004);
    if( (dude_caps >= Heal_Barter) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
       NOption( mstr(126) + Heal_Barter + mstr(127), Node002c, 004);
-   If_Party_Has_Injured then begin
+   if (party_has_injured()) then begin
       if(party_size == 2) then
          NOption(128, Node001a, 004);
       else if(party_size > 2) then
@@ -833,7 +833,7 @@ procedure Node014 begin
       NOption(205, Node002, 004);
    if( global_var(GVAR_HAVE_MUTATED) == 1 ) then
       NOption(206, Node033, 004);
-   If_Party_Has_Injured then begin
+   if (party_has_injured()) then begin
       if(party_size == 2) then
          NOption(207, Node001a, 004);
       else if(party_size > 2) then

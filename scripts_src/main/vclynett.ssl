@@ -434,7 +434,7 @@ procedure talk_p_proc begin
        start_gdialog(NAME,self_obj,4,HEAD_LYNETTE,BACKGROUND_ADOBE);
        gSay_Start;
 // the following macro has an if in it
-           dude_wearing_vault_suit
+           if dude_wearing_vault_suit then
                call Node008;
            else
                call Node011;
@@ -1402,7 +1402,7 @@ procedure Node053 begin
 end
 
 procedure Node053a begin
-   dude_wearing_vault_suit
+   if dude_wearing_vault_suit then
        call Node009;
    else
        call Node010;

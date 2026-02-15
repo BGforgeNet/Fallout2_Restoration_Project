@@ -131,11 +131,11 @@
 {229}{}{Var skulle jag gå?}
 {230}{}{Jag ville bara reta dig. Jag jobbar på det. Oroa dig inte.}
 {231}{eeld11}{(suck) Gå ner. Döda. Krossa maskiner. Gå nu!}
-{232}{eeld12}{Listen this time! Go to the levels below us. Find the machine that makes power. Stop it and we can escape. The men here are not true to the Vault dream. They are evil. Also, if you have not yet found the GECK, seek it here. Our freedom is nothing if our village cannot be saved. Now go!}
-{233}{}{Got it.}
+{232}{eeld12}{Lyssna den här gången! Gå till våningarna under oss. Hitta maskinen som gör ström. Stoppa den så kan vi fly. Männen här är inte trogna till Valv-drömmen. De är onda. Och om du ännu inte har hittat GECK, sök den här. Vår frihet är ingenting om vår by inte kan räddas. Gå nu!}
+{233}{}{Jag förstår.}
 {234}{eeld13}{That is what they call it. They stick needles into our skin, like stimpaks, but then terrible things happen. Then... (chokes up)}
-{235}{}{Then what?}
-{236}{}{This is going to make me sick, isn't it?}
-{237}{eeld13a}{Then the skin bubbles like maggots beneath it. Boils grow and burst. Blood runs from your ears and your tongue swells. Those who are lucky choke to death. Those who are not...}
-{238}{}{They'll pay.}
-{239}{}{That certainly was disgusting. What am I supposed to do?}
+{235}{}{Sen då?}
+{236}{}{Det här kommer att få mig att må illa, eller hur?}
+{237}{eeld13a}{Sedan bubblar huden som om det vore likmaskar under den. Bölder växer och spricker. Blodet rinner ur öronen och tungan sväller. De som har tur kvävs till döds. De som inte har det...}
+{238}{}{De kommer att få betala för det här.}
+{239}{}{Det var verkligen äckligt. Vad ska jag göra?}

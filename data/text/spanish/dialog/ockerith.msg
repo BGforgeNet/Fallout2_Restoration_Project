@@ -1,15 +1,15 @@
-{100}{}{Ves una Garra mortal.}
-{101}{}{Ves a Kerith, la Garra mortal madre.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas garras. Parece hembra pero no puedes asegurarlo. Notas las cicatrices de varias heridas en su torso.}
+{100}{}{Ves un sanguinario.}
+{101}{}{Ves a Kerith, la sanguinaria madre.}
+{102}{}{Ves al típico sanguinario. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas garras. Parece hembra pero no puedes asegurarlo. Notas las cicatrices de varias heridas en su torso.}
 {103}{}{Un visitante humano es un hecho inesperado pero no por ello menos bienvenido. Soy Kerith.}
-{104}{}{¿Puedo ayudarte en algo?}
+{104}{}{¿En que puedo ayudarte?}
 {105}{}{¿Tú madre de Garras?}
 {106}{}{¿Quién padre de Garras?}
 {107}{}{Puerta jodida. ¿Por qué?}
 {108}{}{¿Quién hizo habitación de nido?}
 {109}{}{Yo irme ahora.}
-{110}{}{Así que, ¿eres la Garra mortal madre?}
-{111}{}{¿Quién es el Garra mortal padre?}
+{110}{}{Así que, ¿Eres la madre sanguinaria?}
+{111}{}{¿Quién es el padre sanguinario?}
 {112}{}{¿Qué le pasó a la puerta? Parece haber tenido días mejores.}
 {113}{}{¿Quién construyó este criadero?}
 {114}{}{Me iré ahora.}

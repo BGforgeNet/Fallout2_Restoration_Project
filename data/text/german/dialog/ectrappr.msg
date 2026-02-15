@@ -9,7 +9,7 @@
 {108}{}{Was hast du denn?}
 {109}{}{Macht nichts.}
 {110}{}{Agh.}
-{111}{}{Das ist, was ich habe: }
+{111}{}{Das ist, was ich habe:}
 {112}{}{normale Geckohäute.}
 {113}{}{goldene Geckohäute.}
 {114}{}{Ich nehm alle.}

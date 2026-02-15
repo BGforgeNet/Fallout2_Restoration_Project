@@ -42,29 +42,29 @@
 #
 # Combat Flag Strings (all of these happen to you, the FEMALE player)
 #
-{250}{}{knocked out}
-{251}{}{knocked down}
-{252}{}{crippled your left leg}
-{253}{}{crippled your right leg}
-{254}{}{crippled your left arm}
-{255}{}{crippled your right arm}
-{256}{}{blinded}
-{257}{}{were killed}
-{258}{}{hit}
+{250}{female_pc}{knocked out}
+{251}{female_pc}{knocked down}
+{252}{female_pc}{crippled your left leg}
+{253}{female_pc}{crippled your right leg}
+{254}{female_pc}{crippled your left arm}
+{255}{female_pc}{crippled your right arm}
+{256}{female_pc}{blinded}
+{257}{female_pc}{were killed}
+{258}{female_pc}{hit}
 {259}{}{critical}
 {260}{}{on fire}
-{261}{}{had your armor bypassed}
-{262}{}{your weapon exploded}
-{263}{}{destroyed your weapon}
-{264}{}{dropped your weapon}
-{265}{}{lost your next turn}
-{266}{}{hit yourself}
-{267}{}{lost the rest of your ammo}
-{268}{}{fired a dud shot}
-{269}{}{hurt yourself}
-{270}{}{hit randomly}
-{271}{}{crippled a random limb}
-{272}{}{peppered with fragments}
+{261}{female_pc}{had your armor bypassed}
+{262}{female_pc}{your weapon exploded}
+{263}{female_pc}{destroyed your weapon}
+{264}{female_pc}{dropped your weapon}
+{265}{female_pc}{lost your next turn}
+{266}{female_pc}{hit yourself}
+{267}{female_pc}{lost the rest of your ammo}
+{268}{female_pc}{fired a dud shot}
+{269}{female_pc}{hurt yourself}
+{270}{female_pc}{hit randomly}
+{271}{female_pc}{crippled a random limb}
+{272}{female_pc}{peppered with fragments}
 #
 # Combat Flag Strings (all of these happen to a male)
 #
@@ -94,15 +94,15 @@
 #
 # Combat Flag Strings (all of these happen to a female)
 #
-{400}{}{knocked out}
-{401}{}{knocked down}
+{400}{female_npc}{knocked out}
+{401}{female_npc}{knocked down}
 {402}{}{crippled her left leg}
 {403}{}{crippled her right leg}
 {404}{}{crippled her left arm}
 {405}{}{crippled her right arm}
-{406}{}{blinded}
-{407}{}{was killed}
-{408}{}{hit}
+{406}{female_npc}{blinded}
+{407}{female_npc}{was killed}
+{408}{female_npc}{hit}
 {409}{}{critical}
 {410}{}{on fire}
 {411}{}{had her armor bypassed}
@@ -112,11 +112,11 @@
 {415}{}{lost her next turn}
 {416}{}{hit herself}
 {417}{}{lost the rest of her ammo}
-{418}{}{fired a dud shot}
+{418}{female_npc}{fired a dud shot}
 {419}{}{hurt herself}
-{420}{}{hit randomly}
-{421}{}{crippled a random limb}
-{422}{}{peppered with fragments}
+{420}{female_npc}{hit randomly}
+{421}{female_npc}{crippled a random limb}
+{422}{female_npc}{peppered with fragments}
 #
 # Miscellaneous combat messages (all of these happen to you, the male player)
 # Note: the first %s will be replaced by the value of line 506, which
@@ -156,23 +156,23 @@
 #          in the 1000's in this file, with the exception of line 559
 #          where the second %s is the name of another creature
 {556}{}{You}
-{559}{}{Oops! %s were hit instead of %s!}
-{561}{}{%s were critically hit in %s for %d hit points}
-{562}{}{%s were hit in %s for %d hit points}
-{563}{}{%s were hit for %d hit points}
-{564}{}{%s critically missed}
-{565}{}{%s missed}
-{570}{}{%s were critically hit for %d hit points}
-{571}{}{%s were critically hit in %s for 1 hit point}
-{572}{}{%s were hit in %s for 1 hit point}
-{573}{}{%s were hit for 1 hit point}
-{574}{}{%s were critically hit for 1 hit point}
-{575}{}{%s were critically hit in %s for no damage}
-{576}{}{%s were hit in %s for no damage}
-{577}{}{%s were hit for no damage}
-{578}{}{%s were critically hit for no damage}
-{583}{}{%s critically missed and took 1 hit point}
-{584}{}{%s critically missed and took %d hit points}
+{559}{female_pc}{Oops! %s were hit instead of %s!}
+{561}{female_pc}{%s were critically hit in %s for %d hit points}
+{562}{female_pc}{%s were hit in %s for %d hit points}
+{563}{female_pc}{%s were hit for %d hit points}
+{564}{female_pc}{%s critically missed}
+{565}{female_pc}{%s missed}
+{570}{female_pc}{%s were critically hit for %d hit points}
+{571}{female_pc}{%s were critically hit in %s for 1 hit point}
+{572}{female_pc}{%s were hit in %s for 1 hit point}
+{573}{female_pc}{%s were hit for 1 hit point}
+{574}{female_pc}{%s were critically hit for 1 hit point}
+{575}{female_pc}{%s were critically hit in %s for no damage}
+{576}{female_pc}{%s were hit in %s for no damage}
+{577}{female_pc}{%s were hit for no damage}
+{578}{female_pc}{%s were critically hit for no damage}
+{583}{female_pc}{%s critically missed and took 1 hit point}
+{584}{female_pc}{%s critically missed and took %d hit points}
 #
 # Miscellaneous combat messages (all of these happen to a male)
 # Note: the first %s is the name of the male creature
@@ -207,24 +207,24 @@
 #          in the 1000's in this file, with the exception of line 709
 #          where the second %s is the name of another creature
 #
-{708}{}{Oops! %s was hit instead of you!}
-{709}{}{Oops! %s was hit instead of %s!}
-{711}{}{%s was critically hit in %s for %d hit points}
-{712}{}{%s was hit in %s for %d hit points}
-{713}{}{%s was hit for %d hit points}
-{714}{}{%s critically missed}
-{715}{}{%s missed}
-{720}{}{%s was critically hit for %d hit points}
-{721}{}{%s was critically hit in %s for 1 hit point}
-{722}{}{%s was hit in %s for 1 hit point}
-{723}{}{%s was hit for 1 hit point}
-{724}{}{%s was critically hit for 1 hit point}
-{725}{}{%s was critically hit in %s for no damage}
-{726}{}{%s was hit in %s for no damage}
-{727}{}{%s was hit for no damage}
-{728}{}{%s was critically hit for no damage}
-{733}{}{%s critically missed and took 1 hit point}
-{734}{}{%s critically missed and took %d hit points}
+{708}{female_npc}{Oops! %s was hit instead of you!}
+{709}{female_npc}{Oops! %s was hit instead of %s!}
+{711}{female_npc}{%s was critically hit in %s for %d hit points}
+{712}{female_npc}{%s was hit in %s for %d hit points}
+{713}{female_npc}{%s was hit for %d hit points}
+{714}{female_npc}{%s critically missed}
+{715}{female_npc}{%s missed}
+{720}{female_npc}{%s was critically hit for %d hit points}
+{721}{female_npc}{%s was critically hit in %s for 1 hit point}
+{722}{female_npc}{%s was hit in %s for 1 hit point}
+{723}{female_npc}{%s was hit for 1 hit point}
+{724}{female_npc}{%s was critically hit for 1 hit point}
+{725}{female_npc}{%s was critically hit in %s for no damage}
+{726}{female_npc}{%s was hit in %s for no damage}
+{727}{female_npc}{%s was hit for no damage}
+{728}{female_npc}{%s was critically hit for no damage}
+{733}{female_npc}{%s critically missed and took 1 hit point}
+{734}{female_npc}{%s critically missed and took %d hit points}
 #
 # Hit Locations (by art_num alias)
 #

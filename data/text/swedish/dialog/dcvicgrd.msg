@@ -41,20 +41,20 @@
 {295}{}{Oh, sure. I didn't mean you could see him, now that you're a slaver and all.}
 {296}{}{Oh, sure. I guess so. He's not busy and he's not going anywhere, so no harm I guess.}
 {297}{}{Well, could you open the door then?}
-{298}{}{Okay, thanks.}
+{298}{}{Okej, tack.}
 {305}{}{Of course. I didn't know you wanted to talk to him right now, sorry. I just thought you were curious or something.}
 {306}{}{Tack.}
 {310}{}{Huh? You just in the habit of walking around into places you don't know? This is the Slaver's Guild.}
 {311}{}{Oh, so that would make your boss's name...}
 {312}{}{Oh, that's where I am? I thought I was in Kansas.}
-{313}{}{Okay, thanks.}
+{313}{}{Okej, tack.}
 {320}{}{Where? No, never heard of it. This is the Den. Not sure about that place, but I don't get out much. Sorry.}
 {321}{}{Idiot.}
 {322}{}{Uh, okay. Thanks.}
 {330}{}{Damn, man. Metzger's the slaver master. He runs things around here.}
 {331}{}{Damn, lady. This is the last place a lady like you would want to be. Metzger's the slaver master.}
 {332}{}{Oh, where's his office?}
-{333}{}{Okay, bye.}
+{333}{}{Okej, hej då.}
 {340}{}{Right through the back door there.}
 {341}{}{Tack.}
 {350}{}{Sorry, I don't understand.}
@@ -95,7 +95,7 @@
 {460}{}{He's busy.}
 {461}{}{Please, he won't leave the room. I promise.}
 {462}{}{Can't we work something out - financially maybe?}
-{463}{}{Okay, bye.}
+{463}{}{Okej, hej då.}
 {470}{}{Well, uh... I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.}
 {471}{}{You're nuts. That's too much!}
 {472}{}{Screw you, buddy!}
@@ -104,7 +104,7 @@
 {480}{}{Fine, see if I care.}
 {481}{}{Okej.}
 {482}{}{Bra.}
-{490}{}{No, sorry.}
+{490}{}{Nej, tyvärr.}
 {491}{}{I said no. Now beat it. You've got to talk to Metzger.}
 {492}{}{Okej.}
 {500}{}{Too bad you didn't join us.}

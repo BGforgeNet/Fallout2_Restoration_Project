@@ -1,14 +1,14 @@
-{100}{}{Ves una enorme Garra mortal. La criatura tiene enormes músculos, dientes afilados, y garras.}
-{101}{}{Ves a Gruthar, líder de las Garras mortales.}
-{102}{}{Ves la Garra mortal más impresionante que podrías imaginar. La criatura debe ser única en su especie.}
-{103}{}{No me temas, humano. No tengo la intención de hacerte daño. Soy Gruthar, el líder de este grupo de Garras mortales. ¿Para qué has venido?}
+{100}{}{Ves una enorme sanguinario. La criatura tiene enormes músculos, dientes afilados, y garras.}
+{101}{}{Ves a Gruthar, líder de los sanguinarios.}
+{102}{}{Ves al sanguinario más impresionante que podrías imaginar. La criatura debe ser única en su especie.}
+{103}{}{No me temas, humano. No tengo la intención de hacerte daño. Soy Gruthar, el líder de este grupo de sanguinarios. ¿Para qué has venido?}
 {104}{}{¿Para qué has venido?}
 {105}{}{Eh...}
 {106}{}{¡Para patearte el culo!}
-{107}{}{¿Cómo es posible que una Garra mortal pueda hablar... y tan bien?}
+{107}{}{¿Cómo es posible que un sanguinario pueda hablar... y tan bien?}
 {108}{}{Quiero saber lo que ocurrió con la gente que vivía aquí.}
 {109}{}{Estoy buscando algo llamado GECK. Me dijeron que podría encontrar uno aquí.}
-{110}{}{Me han pedido que elimine una guarida de peligrosas Garras mortales...}
+{110}{}{Me han pedido que elimine una guarida de peligrosos sanguinarios...}
 {111}{}{Investigo incursiones en los ranchos de brahmines locales. ¿Sabes algo de esto?}
 {112}{}{Creo que debo irme ahora.}
 {113}{}{Tú no eres tonto, humano. Puedo ver la verdad en tus ojos. Por favor, no intentes engañarme.
@@ -26,7 +26,7 @@
 {120}{}{Sí, sí puedo. Muy bien. Si nos despedimos como amigos, humano, deberías hablar con Goris. Él
  tiene más conocimientos sobre este tema que yo. Normalmente se le puede encontrar en la biblioteca del Refugio.}
 {121}{}{Gracias. Voy a buscar a Goris.}
-{122}{}{No tengo la intención de añadir una Garra mortal a mi lista de amigos. ¡Adiós!}
+{122}{}{No tengo la intención de añadir un sanguinario a mi lista de amigos. ¡Adiós!}
 {123}{}{De acuerdo.}
 {124}{}{Se fueron, humano. No los matamos y arrebatamos su hogar. Esa no es nuestra forma de actuar.
  Entiendo que no quieras creerme, pero espero que me juzgues por mis acciones hacia ti y
@@ -59,7 +59,7 @@
 {142}{}{Muy bien. Creo que una lobotomía a base de balas es una solución viable a mi problema.}
 {143}{}{Siento que lo veas de esa manera, Gruthar.}
 {144}{}{Entonces me iré.}
-{145}{}{Hay máquinas aquí, máquinas construidas por humanos. Las manos de una Garra mortal no pueden usar estas
+{145}{}{Hay máquinas aquí, máquinas construidas por humanos. Las manos de un sanguinario no pueden usar estas
  máquinas. Sin embargo, había una máquina que entiende las preguntas. Le pedía que hiciera funcionar las otras máquinas
  y obedecía. Esta máquina ya no me escucha. Ya no hace funcionar las demás máquinas. Nos estamos quedando
  sin comida ni agua. He ordenado irrumpir en las tierras humanas para poder sobrevivir. No estoy orgulloso
@@ -70,15 +70,15 @@
 {148}{}{Hmm... parece que el módulo de reconocimiento de voz ha fallado. Vamos a echarle un vistazo.}
 {149}{}{He cambiado de opinión. Creo que tendré que pensarlo un poco más.}
 {150}{}{Haré lo que pueda para ayudaros.}
-{151}{}{Me niego a ayudar a unas Garras mortales.}
+{151}{}{Me niego a ayudar a unos sanguinarios.}
 {152}{}{Gracias. La máquina está en el centro de mando del Refugio, en el tercer nivel. Si puedes repararla, por favor, hazlo. Estoy depositando mi confianza en ti. Por favor no la traiciones. Eres bienvenida aquí.}
 {153}{}{No te decepcionaré, Gruthar. Tienes mi palabra.}
 {154}{}{Gracias. Me pondré a ello.}
 {155}{}{Es cierto que nace uno cada minuto...}
-{156}{}{Ya veo... Bien, las Garras mortales son peligrosas por naturaleza y se debe tener mucho cuidado al encontrárselas en el Yermo. Sin embargo, estoy seguro de que has notado que nosotros somos una excepción. Mi manada no representa amenaza alguna a ti o vuestras comunidades humanas. Hemos evolucionado más allá de nuestros primos salvajes y simplemente deseamos estar solos.}
+{156}{}{Ya veo... Bien, los sanguinarios son peligrosos por naturaleza y se debe tener mucho cuidado al encontrárselos en el Yermo. Sin embargo, estoy seguro de que has notado que nosotros somos una excepción. Mi manada no representa amenaza alguna a ti o vuestras comunidades humanas. Hemos evolucionado más allá de nuestros primos salvajes y simplemente deseamos estar solos.}
 {157}{}{Eh... ya.}
-{158}{}{Tu elevado intelecto podría convertirte en más que una amenaza que la Garra mortal promedio, Gruthar.}
-{159}{}{Ya veo que no sois los salvajes asesinos que las otras Garras mortales conocidas.}
+{158}{}{Tu elevado intelecto podría convertirte en más que una amenaza que el sanguinario promedio, Gruthar.}
+{159}{}{Puedo ver que no sois asesinos salvajes como se conoce normalmente a los sanguinarios.}
 {160}{}{He pasado muchas noches sin dormir, sumido en mis pensamientos, reflexionando sobre tales cuestiones. Finalmente he
  llegado a la conclusión de que las cargas y responsabilidades asociadas al don de la inteligencia
  son incontables. Sólo hay dos opciones para cualquier ser pensante. Puede aceptar la vida como
@@ -88,7 +88,7 @@
 {161}{}{Sí, bueno... puede que tenga una mente pequeña, pero lo que sí tengo es un arma GRANDE.}
 {162}{}{No podría estar más de acuerdo. No creo que seas una amenaza, Gruthar.}
 {163}{}{Eh... sí. Lo que has dicho.}
-{164}{}{(Gruthar se detiene y parece considerar cuidadosamente su respuesta). Siento decir que se me ordenaron los ataques a tierras humanas. Soy responsable de las vidas de muchos. Nos quedábamos sin comida, agua, y otros suministros. Hasta que la situación se corrija, necesito tomar lo que, como Garra mortal, no se puede pedir a los humanos.}
+{164}{}{(Gruthar se detiene y parece considerar cuidadosamente su respuesta). Siento decir que se me ordenaron los ataques a tierras humanas. Soy responsable de las vidas de muchos. Nos quedábamos sin comida, agua, y otros suministros. Hasta que la situación se corrija, necesito tomar lo que, como sanguinario, no se puede pedir a los humanos.}
 {165}{}{¡Excelente, ahora que sé cual es la fuente de los ataques, la eliminaré!}
 {166}{}{Lamento oír eso. ¿Hay alguna forma en que pueda ayudarte para que puedas detener
  los ataques?}
@@ -135,7 +135,7 @@
 {205}{}{No tengo nada contra ti, humano, y nada quiero tener. Estoy intentando comportarme contigo civilizadamente.
  ¡Por favor, devuélveme esa cortesía!}
 {206}{}{De acuerdo, hablemos entonces.}
-{207}{}{Eres una Garra mortal y eso significa pena de muerte... ¡para ti, quiero decir!}
+{207}{}{Eres un sanguinario y eso significa pena de muerte... ¡para ti, quiero decir!}
 {208}{}{Lo siento, Gruthar. Hablemos.}
 {209}{}{Lo que sea. Me largo.}
 {210}{}{No. Yo soy el líder aquí, así que yo decido. ¡Si esto no te gusta, puedes volver a tus tierras humanas!}

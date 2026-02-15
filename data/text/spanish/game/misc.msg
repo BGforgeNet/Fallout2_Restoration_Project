@@ -14,7 +14,7 @@
 {13}{}{CREDITOS}
 {14}{}{SALIR}
 {15}{}{Ptos. Acción}
-{16}{}{Puntos de Salud}
+{16}{}{Puntos de salud}
 {17}{}{El sensor de movimiento no está instalado.}
 {18}{}{Al Sensor de Movimiento no le queda carga.}
 {20}{}{Copyright(c) 1998 Interplay Productions.  Todos los derechos reservados.}

@@ -1,4 +1,4 @@
-{100}{}{Ves un terminal de computadora.}
+{100}{}{Ves un terminal de ordenador.}
 {101}{}{Ves la estación de trabajo de Química.}
 {102}{}{Ves una computadora tipo estación de trabajo.}
 {103}{}{Saludos. Por favor, introduzca su contraseña para confirmar su identidad.}
@@ -6,7 +6,7 @@
 {105}{}{TIUASPO-Lo-Shi-S12908}
 {106}{}{Piratear la computadora.}
 {107}{}{Salir.}
-{108}{}{Base de datos Química: Combustible y derivados - Polímeros}
+{108}{}{Base de datos Química: -Combustible y derivados- -Polímeros-}
 {109}{}{Combustible y derivados.}
 {110}{}{Polímeros.}
 {111}{}{Desactivar estación de trabajo.}

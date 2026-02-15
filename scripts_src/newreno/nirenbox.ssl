@@ -21,6 +21,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "nirenbox"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_NIRENBOX
 
@@ -45,8 +46,7 @@ end
 procedure map_enter_p_proc begin
    new_reno_renesco_box := self_obj;
    if (is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          variable tmp_box := move_quest_items();
          self_caps_adjust(random(250,500) - self_caps);
          check_restock_item(PID_JET, 5, 10, 100)

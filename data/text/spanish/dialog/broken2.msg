@@ -1,1 +1,1 @@
-{100}{}{Has llegado a la zona este de Broken Hills.}
+{100}{}{Has llegado a la zona Este de Broken Hills.}

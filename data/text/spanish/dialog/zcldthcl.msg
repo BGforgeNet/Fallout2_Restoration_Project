@@ -1,1 +1,1 @@
-{100}{}{Ves una Garra mortal.}
+{100}{}{Ves un sanguinario.}

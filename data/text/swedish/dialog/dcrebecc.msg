@@ -46,7 +46,7 @@
 {254}{}{Well, okay. What is it?}
 {255}{}{I suppose.}
 {256}{}{Vad?}
-{257}{}{No, sorry.}
+{257}{}{Nej, tyvärr.}
 {258}{}{Inte just nu}
 {270}{}{I need a drink.}
 {271}{}{I'm looking for a merchant who sells Vault equipment.}
@@ -86,10 +86,10 @@
  really hit the spot.}
 {332}{}{Sure. I'll have one.}
 {333}{}{Can I ask another question?}
-{334}{}{Okay, thanks.}
+{334}{}{Okej, tack.}
 {340}{}{There you are. Thank you very much.}
 {341}{}{Thanks. Can I ask you a question?}
-{342}{}{Okay, thanks.}
+{342}{}{Okej, tack.}
 {343}{}{Thankey youey.}
 {344}{}{Asky?}
 {350}{}{Sorry. I don't think so.}
@@ -117,12 +117,12 @@
 {389}{}{Sorry, but Derek's also dead.}
 {390}{}{I'm sorry, but he's dead.}
 {391}{}{Yes. Here it is.}
-{392}{}{No, sorry.}
+{392}{}{Nej, tyvärr.}
 {400}{}{I can't believe it. How did you do it? Oh, never mind. I'm just stunned,
  that's all. To show my appreciation, I'll split it with you, right down the
  middle. Thank you again, that was very honest of you.}
 {401}{}{Oh, I'm so glad you were able to find it... Thank you very much. Here's your money.}
-{402}{}{You're welcome.}
+{402}{}{Det var så lite.}
 {410}{}{I can't believe they are both dead. I'm sorry. Thank you for finding out for
  me. If you'll excuse me...}
 {411}{}{I can't believe he's dead... after all these years.}

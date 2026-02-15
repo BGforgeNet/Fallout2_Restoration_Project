@@ -143,17 +143,17 @@
 {571}{}{I don't owe her anything.}
 {572}{}{She said you were forgetful.}
 {573}{}{Look, I don't have time for this. Pay up damn it!}
-{574}{}{Rebecca said she lent it to you a while ago.}
-{580}{}{I am not! I... wait. There was that one time. Didn't I pay her back? I thought I did...}
-{581}{}{No, you didn't. That's why she sent me.}
-{582}{}{Just pay up so I can get out of here.}
-{590}{}{I don't remember... but Becky sure has helped me and my friends out in the past.}
-{591}{}{Hand over the $200.}
-{592}{}{Just give me the money.}
+{574}{}{Rebecca sa att hon lånade ut den till dig för ett tag sen.}
+{580}{}{Det är jag inte! Jag... vänta. Det var den där gången. Betalade jag inte tillbaka till henne? Jag trodde att jag gjorde det...}
+{581}{}{Nej, det gjorde du inte. Det var därför hon skickade mig.}
+{582}{}{Betala bara så att jag kan komma härifrån.}
+{590}{}{Jag minns inte... men Becky har verkligen hjälpt mig och mina vänner tidigare.}
+{591}{}{Ge mig $200.}
+{592}{}{Ge mig bara pengarna.}
 {600}{}{Lämna mig ifred.}
 {601}{}{Hur som helst.}
 {602}{}{Okej.}
-{610}{}{Uh. Hi again. So, uh, I suppose you want the money. Do you think you could cover me for half?}
-{611}{}{No, sorry.}
-{612}{}{If she lent you $200, you'll pay it.}
+{610}{}{Eh. Hej igen. Så, eh, jag antar att du vill ha pengarna. Tror du att du kan nöja dig med hälften?}
+{611}{}{Nej, tyvärr.}
+{612}{}{Om hon lånade dig $200 betalar du det.}
 {613}{}{Okay fine.}

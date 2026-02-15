@@ -7,7 +7,7 @@
 {106}{}{¡Ay, caramba! ¡Nalgas con queso!}
 {107}{}{¡Ey ey ey ey ey eeeey!}
 {108}{}{Me largo de aquí.}
-{109}{}{Conocí a Gran Jesús Mordino cuando era Bebé Jesús.}
+{109}{}{Conocí al Gran Jesus Mordino cuando el era el Pequeño Jesús.}
 {110}{}{¡Jesús y María Madre de Dios!}
 {111}{}{Soy un productor. Hago juegos. Los juegos son divertidos. Juega a mis juegos.}
 {112}{}{A las locazas, fuego purificador.}

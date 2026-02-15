@@ -6,6 +6,7 @@
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 #include "../headers/tribe01.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_TRIBEM1          //Script name from scripts.h
 
@@ -22,12 +23,10 @@ export variable GHOST_obj := 0;
 export variable WARRIOR_obj;
 export variable SULIK_SIS_obj;
 
-procedure start
-begin
+procedure start begin
 end
 
-procedure map_exit_p_proc
-begin
+procedure map_exit_p_proc begin
    if (global_var(GVAR_SULIK_SISTER) == 4) then begin
       set_global_var(GVAR_SULIK_SISTER,5);
    end
@@ -39,15 +38,13 @@ begin
    end
 end
 
-procedure map_enter_p_proc
-begin
+procedure map_enter_p_proc begin
    variable Critter;
 
    if (dude_elevation == 0) then begin
-      restock_fix_map
-      if (map_var(MVAR_Restock_Time) < game_time) then begin
-          set_map_var(MVAR_Restock_Time, (random(6,8) * ONE_GAME_DAY) + game_time);
-          call Make_Plants;
+      if (unsigned_int_compare(map_var(MVAR_Restock_Time), game_time) < 0) then begin
+         set_map_var(MVAR_Restock_Time, (random(6,8) * ONE_GAME_DAY) + game_time);
+         call Make_Plants;
       end
    end
 
@@ -67,7 +64,7 @@ begin
    end
 
    if (map_first_run) then begin
-         display_msg(mstr(100));
+      display_msg(mstr(100));
    end
 
 
@@ -137,23 +134,22 @@ begin
 end
 
 
-procedure map_update_p_proc
-begin
-  Lighting;
+procedure map_update_p_proc begin
+   Lighting;
 end
 
 procedure Make_Plants begin
-  variable plant;
-  if (not(tile_contains_obj_pid(16081,0,PID_XANDER_ROOT))) then begin
-    plant:=create_object(PID_XANDER_ROOT,16081,0);
-  end
-  if (not(tile_contains_obj_pid(21251,0,PID_XANDER_ROOT))) then begin
-    plant:=create_object(PID_XANDER_ROOT,21251,0);
-  end
-  if (not(tile_contains_obj_pid(16850,0,PID_BROC_FLOWER))) then begin
-    plant:=create_object(PID_BROC_FLOWER,16850,0);
-  end
-  if (not(tile_contains_obj_pid(21134,0,PID_BROC_FLOWER))) then begin
-    plant:=create_object(PID_BROC_FLOWER,21134,0);
-  end
+   variable plant;
+   if (not(tile_contains_obj_pid(16081,0,PID_XANDER_ROOT))) then begin
+      plant:=create_object(PID_XANDER_ROOT,16081,0);
+   end
+   if (not(tile_contains_obj_pid(21251,0,PID_XANDER_ROOT))) then begin
+      plant:=create_object(PID_XANDER_ROOT,21251,0);
+   end
+   if (not(tile_contains_obj_pid(16850,0,PID_BROC_FLOWER))) then begin
+      plant:=create_object(PID_BROC_FLOWER,16850,0);
+   end
+   if (not(tile_contains_obj_pid(21134,0,PID_BROC_FLOWER))) then begin
+      plant:=create_object(PID_BROC_FLOWER,21134,0);
+   end
 end

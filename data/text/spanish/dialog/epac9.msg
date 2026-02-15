@@ -13,7 +13,7 @@
 {224}{}{Antídoto de veneno}
 {225}{}{Botiquín de 1º Auxilios}
 {226}{}{Maletín de Médico}
-{227}{}{Esteroides}
+{227}{}{Musculeína}
 {228}{}{Mentats}
 {229}{}{Psico}
 {230}{}{¡Excelente elección! Para preparar un estimulante, por favor, aliméntame con: una flor de Broquia, una raíz de Xandria y una aguja hipodérmica vacía. ¡Ñam, ñam!}

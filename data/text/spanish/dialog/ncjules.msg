@@ -169,12 +169,12 @@ La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
 {580}{}{Háblame de la Familia Wright.}
 {581}{}{Tenía algunas preguntas sobre Nuevo Reno…}
 {582}{}{No importa, en realidad. Hablaremos en algún otro momento.}
-{590}{}{(Levanta dos dedos). Los Mordino son una bestia de dos cabezas, amigo, y las dos tienen por nombre Jesús Mordino.}
+{590}{}{(Levanta dos dedos). Los Mordino son una bestia de dos cabezas, amigo, y las dos tienen por nombre Jesus Mordino.}
 {591}{}{Ir en...}
 {592}{}{Siempre sospeché que Jesús tenía vínculos con el crimen organizado.}
 {594}{}{Volvamos a las otras Familias.}
 {596}{}{En realidad no importa. Gracias por hablar conmigo.}
-{615}{}{Está el padre, Gran Jesús Mordino, y el hijo, Pequeño Jesús, y ambos son los más mezquinos hijos de puta con los que te hayas topado alguna vez.
+{615}{}{Está el padre, el Gran Jesus Mordino y el hijo, el Pequeño Jesús. Ambos son los más mezquinos hijos de puta con los que te hayas topado alguna vez.
  Eran esclavos, pero cambiaron las tornas hace años y se labraron su propio pequeño imperio.}
 {616}{}{¿Qué tan grande es su "imperio"?}
 {625}{}{Poseen el Desperado al final de la calle. No tiene pérdida. También tienen el mayor suministro de Jet de TODO Nuevo Reno.
@@ -368,10 +368,10 @@ La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
 {1252}{}{Reno es un lugar grande, Jules. ¿Alguien más podría haber sido el responsable?}
 {1253}{}{Tenía algunas preguntas más...}
 {1254}{}{De acuerdo. Lo comprobaré.}
-{1270}{}{Hay muchos vendedores en la ciudad… Pequeño Jesús Mordino, quizá, pero no tendría sentido que le vendiera a un Wright. Está Jeta
+{1270}{}{Hay muchos vendedores en la ciudad… El pequeño Jesus Mordino, quizá, pero no tendría sentido que le vendiera a un Wright. Está Jeta
  Jimmy J, en la calle Segunda, al norte de aquí, pero lleva poco tiempo. Aunque yo seguiría investigando a Renesco.}
 {1272}{}{¿"Jeta Jimmy J"? ¿Quién es?}
-{1273}{}{¿Pequeño Jesús Mordino? ¿Dónde puedo encontrarle?}
+{1273}{}{¿El Pequeño Jesus Mordino? ¿Dónde puedo encontrarle?}
 {1274}{}{Tal vez lo haga. Oye, tenía algunas otras preguntas…}
 {1275}{}{Pequeño Jesús… Jeta Jimmy J… Renesco. Lo tengo. Gracias.}
 {1290}{}{(La sonrisa de Jules se desvanece). Busco gente como tú que quiera entrar en Reno. Eso lo primero. Además, ciertos
@@ -423,7 +423,7 @@ La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
 {1408}{}{Nos vemos, Jules.}
 {1415}{}{Es ese tonto hijoputa que se cree un gran traficante. No puedes equivocarte... tiene la cara llena de cicatrices.
  El imbécil se colocó con Jet una noche e intentó afeitarse con un cuchillo de combate. Lo triste es que eso NO lo mató.}
-{1416}{}{¿Y Pequeño Jesús Mordino? ¿Dónde puedo encontrarlo?}
+{1416}{}{¿Y el Pequeño Jesús Mordino? ¿Dónde puedo encontrarlo?}
 {1417}{}{Cuánto amor hay en esta ciudad... oye, tenía algunas preguntas más…}
 {1425}{}{Bueno, amigo, yo tendría cuidado de ir por ahí acusando a Pequeño Jesús de nada. Pero si REALMENTE quieres
  hablar con él, no voy a detenerte. Pasa el tiempo en el Desperado, al lado de esta calle.}

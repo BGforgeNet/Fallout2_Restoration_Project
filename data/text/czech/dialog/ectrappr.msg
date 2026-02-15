@@ -9,7 +9,7 @@
 {108}{}{Co nabízíš?}
 {109}{}{Zapomeň na to.}
 {110}{}{Eh.}
-{111}{}{Mám tohle: }
+{111}{}{Mám tohle:}
 {112}{}{kůží geckona.}
 {113}{}{kůží zlatého geckona.}
 {114}{}{Vezmu si všechno co máš.}

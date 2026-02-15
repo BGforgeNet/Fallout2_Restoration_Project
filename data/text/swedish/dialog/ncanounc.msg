@@ -8,9 +8,9 @@
 {107}{}{And in this corner... weighing in at }
 {108}{}{So, without further ado...}
 {109}{}{Let's get reeeeeeeady to BEAT SOME ASS!}
-{123}{}{...Gamma Gulp Beer!}
+{123}{}{...Gamma-Glufs-öl!}
 {124}{}{When your skin's lacking that "special glow"...}
-{125}{}{Choose Gamma Gulp Beer!}
+{125}{}{Välj Gamma-Glufs-öl!}
 {143}{}{...the Cat's Paw!}
 {144}{}{When you got that itch that you NEED to scratch...}
 {145}{}{Head to the Cat's Paw!}

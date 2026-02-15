@@ -9,7 +9,7 @@
 {108}{}{Cos'hai?}
 {109}{}{Nulla.}
 {110}{}{Ug.}
-{111}{}{Here's what I got: }
+{111}{}{Ecco quello che ho:}
 {112}{}{pelli di gecko comune.}
 {113}{}{pelli di gecko dorato.}
 {114}{}{Prendo tutto quello che hai.}

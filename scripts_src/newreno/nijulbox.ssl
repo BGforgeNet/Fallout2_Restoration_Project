@@ -21,6 +21,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "nijulbox"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_NIJULBOX
 
@@ -45,8 +46,7 @@ end
 procedure map_enter_p_proc begin
    new_reno_jules_box := self_obj;
    if (is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
          variable tmp_box := move_quest_items();
          check_restock_item(PID_JET, 1, 7, 100)
          check_restock_item(PID_STIMPAK, 1, 5, 100)

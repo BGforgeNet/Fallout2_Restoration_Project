@@ -7,7 +7,7 @@
 {204}{}{Tenemos botín blanco, botín negro, botín sureño, botín norteño...}
 {205}{}{Tenemos botín caliente, botín frío, tenemos botín fresco, botín… ::snifff::… *aromático*…}
 {206}{}{Tenemos botín tribal, botín mutante, botín de escorpiones rad, botín robot.}
-{207}{}{Incluso tenemos botín de brahmines, necrófagos y Garras mortales.}
+{207}{}{Incluso tenemos botín de brahmines, necrófagos y sanguinarios.}
 {208}{}{Vamos, ¿queréis botín? ¡Entrad, amantes del botín!}
 {209}{}{Si no lo tenemos, es porque no lo querías! ¡Entrad, amantes del botín!}
 {210}{}{¡Atención, compradores de botín! ¡Aprovechad esta venta de botín!}

@@ -32,7 +32,7 @@
 {126}{}{Jet? What's Jet?}
 {127}{}{I see. Goodbye.}
 {128}{}{I am... Madame Modjeska. What do you wish of me?}
-{129}{}{What can I help you with?}
+{129}{}{Vad kan jag hjälpa dig med?}
 {130}{}{I don't have time to waste. What do you want of Madame Modjeska?}
 {131}{}{I can hardly be bothered with this now. What do you want?}
 {132}{}{Madame Modjeska feels indisposed today. What do you want of her?}

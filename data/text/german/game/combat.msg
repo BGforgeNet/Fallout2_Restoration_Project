@@ -30,29 +30,29 @@
 {220}{}{wahllos umher gefeuert}
 {221}{}{irgendwelche Gliedmaßen verletzt}
 {222}{}{mit Splittern übersät}
-{250}{}{k.o. geschlagen}
-{251}{}{umgehauen}
-{252}{}{dein linkes Bein verletzt}
-{253}{}{dein rechtes Bein verletzt}
-{254}{}{deinen linken Arm verletzt}
-{255}{}{deinen rechten Arm verletzt}
-{256}{}{blind}
-{257}{}{wurdest getötet}
-{258}{}{getroffen}
+{250}{female_pc}{knocked out}
+{251}{female_pc}{knocked down}
+{252}{female_pc}{crippled your left leg}
+{253}{female_pc}{crippled your right leg}
+{254}{female_pc}{crippled your left arm}
+{255}{female_pc}{crippled your right arm}
+{256}{female_pc}{blinded}
+{257}{female_pc}{were killed}
+{258}{female_pc}{hit}
 {259}{}{kritisch}
 {260}{}{brennt}
-{261}{}{hat deine Rüstung durchschlagen}
-{262}{}{deine Waffe ist explodiert}
-{263}{}{deine Waffe wurde zerstört}
-{264}{}{deine Waffe ist heruntergefallen}
-{265}{}{hast deinen nächsten Zug verspielt}
-{266}{}{hast dich selbst getroffen}
-{267}{}{hast deine restliche Munition verloren}
-{268}{}{hat einen Blindgänger abgefeuert}
-{269}{}{hast dich selbst verletzt}
-{270}{}{wahllos umher gefeuert}
-{271}{}{irgendwelche Gliedmaßen verletzt}
-{272}{}{mit Splittern übersät}
+{261}{female_pc}{had your armor bypassed}
+{262}{female_pc}{your weapon exploded}
+{263}{female_pc}{destroyed your weapon}
+{264}{female_pc}{dropped your weapon}
+{265}{female_pc}{lost your next turn}
+{266}{female_pc}{hit yourself}
+{267}{female_pc}{lost the rest of your ammo}
+{268}{female_pc}{fired a dud shot}
+{269}{female_pc}{hurt yourself}
+{270}{female_pc}{hit randomly}
+{271}{female_pc}{crippled a random limb}
+{272}{female_pc}{peppered with fragments}
 {300}{}{k.o. geschlagen}
 {301}{}{umgehauen}
 {302}{}{sein linkes Bein verletzt}
@@ -76,15 +76,15 @@
 {320}{}{wahllos umher gefeuert}
 {321}{}{irgendwelche Gliedmaßen verletzt}
 {322}{}{mit Splittern übersät}
-{400}{}{k.o. geschlagen}
-{401}{}{umgehauen}
+{400}{female_npc}{knocked out}
+{401}{female_npc}{knocked down}
 {402}{}{ihr linkes Bein verletzt}
 {403}{}{ihr rechtes Bein verletzt}
 {404}{}{ihren linken Arm verletzt}
 {405}{}{ihren rechten Arm verletzt}
-{406}{}{blind}
-{407}{}{ist tot}
-{408}{}{getroffen}
+{406}{female_npc}{blinded}
+{407}{female_npc}{was killed}
+{408}{female_npc}{hit}
 {409}{}{kritisch}
 {410}{}{brennt}
 {411}{}{hat ihre Rüstung durchschlagen}
@@ -94,11 +94,11 @@
 {415}{}{hat ihren nächsten Zug verspielt}
 {416}{}{hat sich selbst getroffen}
 {417}{}{hat ihre restliche Munition verloren}
-{418}{}{hat einen Blindgänger abgefeuert}
+{418}{female_npc}{fired a dud shot}
 {419}{}{hat sich selbst verletzt}
-{420}{}{wahllos umher gefeuert}
-{421}{}{irgendwelche Gliedmaßen verletzt}
-{422}{}{mit Splittern übersät}
+{420}{female_npc}{hit randomly}
+{421}{female_npc}{crippled a random limb}
+{422}{female_npc}{peppered with fragments}
 {506}{}{Du}
 {509}{}{Uups! %s wurdest anstelle von %s getroffen!}
 {511}{}{%s wurdest kritisch getroffen (%s) für %d Trefferpunkte}
@@ -118,23 +118,23 @@
 {533}{}{%s hat voll danebengetroffen (1 Trefferpunkt weniger)}
 {534}{}{%s hat voll danebengetroffen (%d Trefferpunkte weniger)}
 {556}{}{Du}
-{559}{}{Uups! %s wurdest anstelle von %s getroffen!}
-{561}{}{%s wurdest kritisch getroffen (%s) für %d Trefferpunkte}
-{562}{}{%s wurdest getroffen (%s) für %d Trefferpunkte}
-{563}{}{%s wurdest für %d Trefferpunkte getroffen}
-{564}{}{%s hat nicht getroffen}
-{565}{}{%s hat voll danebengetroffen}
-{570}{}{%s wurdest für %d Trefferpunkte kritisch getroffen}
-{571}{}{%s wurdest für 1 Trefferpunkt kritisch getroffen (%s)}
-{572}{}{%s wurdest für 1 Trefferpunkt getroffen (%s)}
-{573}{}{%s wurdest für 1 Trefferpunkt getroffen}
-{574}{}{%s wurdest für 1 Trefferpunkt kritisch getroffen}
-{575}{}{%s wurdest ohne Schaden kritisch getroffen (%s)}
-{576}{}{%s wurdest ohne Schaden getroffen (%s)}
-{577}{}{%s wurdest ohne Schaden getroffen}
-{578}{}{%s wurdest ohne Schaden kritisch getroffen}
-{583}{}{%s hat voll danebengetroffen (1 Trefferpunkt weniger)}
-{584}{}{%s hat voll danebengetroffen (%d Trefferpunkte weniger)}
+{559}{female_pc}{Oops! %s were hit instead of %s!}
+{561}{female_pc}{%s were critically hit in %s for %d hit points}
+{562}{female_pc}{%s were hit in %s for %d hit points}
+{563}{female_pc}{%s were hit for %d hit points}
+{564}{female_pc}{%s critically missed}
+{565}{female_pc}{%s missed}
+{570}{female_pc}{%s were critically hit for %d hit points}
+{571}{female_pc}{%s were critically hit in %s for 1 hit point}
+{572}{female_pc}{%s were hit in %s for 1 hit point}
+{573}{female_pc}{%s were hit for 1 hit point}
+{574}{female_pc}{%s were critically hit for 1 hit point}
+{575}{female_pc}{%s were critically hit in %s for no damage}
+{576}{female_pc}{%s were hit in %s for no damage}
+{577}{female_pc}{%s were hit for no damage}
+{578}{female_pc}{%s were critically hit for no damage}
+{583}{female_pc}{%s critically missed and took 1 hit point}
+{584}{female_pc}{%s critically missed and took %d hit points}
 {608}{}{Uups! %s wurde anstelle von dir getroffen!}
 {609}{}{Uups! %s wurde anstelle von %s getroffen!}
 {611}{}{%s wurde kritisch getroffen (%s) für %d Trefferpunkte}
@@ -153,24 +153,24 @@
 {628}{}{%s wurde ohne Schaden kritisch getroffen}
 {633}{}{%s hat voll danebengetroffen (1 Trefferpunkt weniger)}
 {634}{}{%s hat voll danebengetroffen (%d Trefferpunkte weniger)}
-{708}{}{Uups! %s wurde anstelle von dir getroffen!}
-{709}{}{Uups! %s wurde anstelle von %s getroffen!}
-{711}{}{%s wurde kritisch getroffen (%s) für %d Trefferpunkte}
-{712}{}{%s wurde getroffen (%s) für %d Trefferpunkte}
-{713}{}{%s wurde für %d Trefferpunkte getroffen}
-{714}{}{%s hat nicht getroffen}
-{715}{}{%s hat voll danebengetroffen}
-{720}{}{%s wurde für %d Trefferpunkte kritisch getroffen}
-{721}{}{%s wurde für 1 Trefferpunkt kritisch getroffen (%s)}
-{722}{}{%s wurde für 1 Trefferpunkt getroffen (%s)}
-{723}{}{%s wurde für 1 Trefferpunkt getroffen}
-{724}{}{%s wurde für 1 Trefferpunkt kritisch getroffen}
-{725}{}{%s wurde ohne Schaden kritisch getroffen (%s)}
-{726}{}{%s wurde ohne Schaden getroffen (%s)}
-{727}{}{%s wurde ohne Schaden getroffen}
-{728}{}{%s wurde ohne Schaden kritisch getroffen}
-{733}{}{%s hat voll danebengetroffen (1 Trefferpunkt weniger)}
-{734}{}{%s hat voll danebengetroffen (%d Trefferpunkte weniger)}
+{708}{female_npc}{Oops! %s was hit instead of you!}
+{709}{female_npc}{Oops! %s was hit instead of %s!}
+{711}{female_npc}{%s was critically hit in %s for %d hit points}
+{712}{female_npc}{%s was hit in %s for %d hit points}
+{713}{female_npc}{%s was hit for %d hit points}
+{714}{female_npc}{%s critically missed}
+{715}{female_npc}{%s missed}
+{720}{female_npc}{%s was critically hit for %d hit points}
+{721}{female_npc}{%s was critically hit in %s for 1 hit point}
+{722}{female_npc}{%s was hit in %s for 1 hit point}
+{723}{female_npc}{%s was hit for 1 hit point}
+{724}{female_npc}{%s was critically hit for 1 hit point}
+{725}{female_npc}{%s was critically hit in %s for no damage}
+{726}{female_npc}{%s was hit in %s for no damage}
+{727}{female_npc}{%s was hit for no damage}
+{728}{female_npc}{%s was critically hit for no damage}
+{733}{female_npc}{%s critically missed and took 1 hit point}
+{734}{female_npc}{%s critically missed and took %d hit points}
 {1110}{}{am Kopf}
 {1111}{}{am linken Arm}
 {1112}{}{am rechten Arm}

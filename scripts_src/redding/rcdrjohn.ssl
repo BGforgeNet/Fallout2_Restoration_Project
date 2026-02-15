@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "rcdrjohn"
 #include "../headers/define.h"
 #include "../headers/reddown.h" // seraph's code
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_RCDRJOHN
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
@@ -177,10 +178,7 @@ procedure map_enter_p_proc begin
    Doc_Johnson_Ptr:=self_obj;
 
    //added by killap - expansion
-
-   restock_fix
-
-   if (local_var(LVAR_Restock_Time) < game_time) then begin
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
       ndebug("Should have restocked");
       check_restock_item(PID_STIMPAK, 4, 5, 100)
       check_restock_item(PID_ANTIDOTE, 1, 1, 80)
@@ -265,7 +263,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       If_Party_Has_Injured then begin
+       if (party_has_injured()) then begin
            start_gdialog(NAME,self_obj,4,-1,-1);
            gSay_Start;
                call Node002;
@@ -350,13 +348,13 @@ procedure Node002 begin
    if (local_var(LVAR_Said_2) == 0) then begin
        inc_local_var(LVAR_Said_2);
 
-       If_Party_Has_Injured then
+       if (party_has_injured()) then
            Reply(114);
        else
            Reply(111);
    end
    else begin
-       If_Party_Has_Injured then begin
+       if (party_has_injured()) then begin
            Reply(118);
        end
        else
@@ -370,8 +368,8 @@ procedure Node002 begin
 end
 
 procedure Node002a begin
-   If_Party_Has_Injured then begin
-       if (How_Many_Party_Members_Armed == 1) then
+   if (party_has_injured()) then begin
+       if (party_injured_count() == 1) then
            call Node003;
        else
            call Node004;
@@ -674,7 +672,7 @@ procedure Node010 begin
        NOption(156,Node020,004);
    if (((global_var(GVAR_VAULT_REDDING_PROBLEM) == REDDING_PROBLEM_KNOW_JET) or (global_var(GVAR_VAULT_REDDING_PROBLEM) == REDDING_PROBLEM_KNOW_EXISTS)) and (vault_city_visit)) then
        NOption(157,Node010a,004);
-   If_Party_Has_Injured or (dude_cur_hits < dude_max_hits) then /* Seraph's Fix: combined with the commented out lines below */
+   if (party_has_injured()) or (dude_cur_hits < dude_max_hits) then /* Seraph's Fix: combined with the commented out lines below */
        NOption(158,Node002,004);
    /*if (dude_cur_hits < dude_max_hits) then
        NOption(158,Node002,004);*/ // Commented out by Seraph

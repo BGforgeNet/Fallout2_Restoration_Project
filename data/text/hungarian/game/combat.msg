@@ -30,29 +30,29 @@
 {220}{}{véletlenszerűen talált el}
 {221}{}{véletlenszerűen roncsolta szét egy végtagod}
 {222}{}{beterítettek a repeszek}
-{250}{}{kiütött}
-{251}{}{padlóra küldött}
-{252}{}{szétroncsolta a bal lábad}
-{253}{}{szétroncsolta a jobb lábad}
-{254}{}{szétroncsolta a bal kezed}
-{255}{}{szétroncsolta a jobb kezed}
-{256}{}{megvakított}
-{257}{}{végzett veled}
-{258}{}{eltalált}
+{250}{female_pc}{knocked out}
+{251}{female_pc}{knocked down}
+{252}{female_pc}{crippled your left leg}
+{253}{female_pc}{crippled your right leg}
+{254}{female_pc}{crippled your left arm}
+{255}{female_pc}{crippled your right arm}
+{256}{female_pc}{blinded}
+{257}{female_pc}{were killed}
+{258}{female_pc}{hit}
 {259}{}{súlyos}
 {260}{}{égsz}
-{261}{}{átütötte a páncélzatodat}
-{262}{}{felrobbant a fegyvered}
-{263}{}{destroyed your weapon}
-{264}{}{dropped your weapon}
-{265}{}{kimaradsz a következő körből}
-{266}{}{eltaláltad magad}
-{267}{}{elvesztetted a maradék muníciód}
-{268}{}{csütörtököt mondott a fegyvered}
-{269}{}{megsebezted magad}
-{270}{}{véletlenszerűen talált el}
-{271}{}{véletlenszerűen roncsolta szét egy végtagod}
-{272}{}{beterítettek a repeszek}
+{261}{female_pc}{had your armor bypassed}
+{262}{female_pc}{your weapon exploded}
+{263}{female_pc}{destroyed your weapon}
+{264}{female_pc}{dropped your weapon}
+{265}{female_pc}{lost your next turn}
+{266}{female_pc}{hit yourself}
+{267}{female_pc}{lost the rest of your ammo}
+{268}{female_pc}{fired a dud shot}
+{269}{female_pc}{hurt yourself}
+{270}{female_pc}{hit randomly}
+{271}{female_pc}{crippled a random limb}
+{272}{female_pc}{peppered with fragments}
 {300}{}{kiütött}
 {301}{}{padlóra küldött}
 {302}{}{szétroncsolta a bal lábát}
@@ -76,15 +76,15 @@
 {320}{}{véletlenszerűen talált el}
 {321}{}{véletlenszerűen roncsolta szét egy végtagod}
 {322}{}{beterítettek a repeszek}
-{400}{}{kiütött}
-{401}{}{padlóra küldött}
+{400}{female_npc}{knocked out}
+{401}{female_npc}{knocked down}
 {402}{}{szétroncsolta a bal lábát}
 {403}{}{szétroncsolta a jobb lábát}
 {404}{}{szétroncsolta a bal kezét}
 {405}{}{szétroncsolta a jobb kezét}
-{406}{}{megvakított}
-{407}{}{meghalt}
-{408}{}{eltalált}
+{406}{female_npc}{blinded}
+{407}{female_npc}{was killed}
+{408}{female_npc}{hit}
 {409}{}{súlyos}
 {410}{}{égsz}
 {411}{}{átütötte a páncélzatát}
@@ -94,11 +94,11 @@
 {415}{}{kimarad a következő körből}
 {416}{}{eltalálta magát}
 {417}{}{elveszette a maradék munícióját}
-{418}{}{csütörtököt mondott a fegyvered}
+{418}{female_npc}{fired a dud shot}
 {419}{}{megsebezte magát}
-{420}{}{véletlenszerűen talált el}
-{421}{}{véletlenszerűen roncsolta szét egy végtagod}
-{422}{}{beterítettek a repeszek}
+{420}{female_npc}{hit randomly}
+{421}{female_npc}{crippled a random limb}
+{422}{female_npc}{peppered with fragments}
 {506}{}{You}
 {509}{}{Francba! Téged találtak el %s%s helyett!}
 {511}{}{%s A karaktered csúnyán megsérült %s, %d ÉP-t vesztett}
@@ -118,23 +118,23 @@
 {533}{}{%s Hát ezt elcseszted, és megsebesítetted magad. Vesztettél 1 ÉP-t}
 {534}{}{%s Nagyon melléfogtál, és csúnyán megsebesítetted magad. %d ÉP-t vesztettél}
 {556}{}{You}
-{559}{}{Francba! Téged találtak el %s%s helyett!}
-{561}{}{%s A karaktered csúnyán megsérült %s, %d ÉP-t vesztett}
-{562}{}{%s A karaktered megsérült %s, %d ÉP-t vesztett}
-{563}{}{%s Megsérültél, %d ÉP-t vesztettél}
-{564}{}{%s Béna voltál}
-{565}{}{%s Elvétetted}
-{570}{}{%s Csúnyán megsebesí- tettek, ezért %d ÉP-t vesztettél}
-{571}{}{%s A karaktered könnyebben megsérült %s, így 1 ÉP-t vesztett}
-{572}{}{%s A karaktered apró sebet kapott %s, ezért 1 ÉP-t vesztett}
-{573}{}{%s Ez csak egy karcolás, 1 ÉP-t vesztettél}
-{574}{}{%s Ez brutális támadás volt, de szerencsére csak 1 ÉP-t vesztettél}
-{575}{}{%s A karaktered jelentéktelen sebet szerzett %s. Meg sem érezted}
-{576}{}{%s A karaktered megsérült %s. Ez csak egy jelentéktelen karcolás}
-{577}{}{%s A hajad szála sem görbült}
-{578}{}{%s Nem sérültél meg}
-{583}{}{%s Hát ezt elcseszted, és megsebesítetted magad. Vesztettél 1 ÉP-t}
-{584}{}{%s Nagyon melléfogtál, és csúnyán megsebesítetted magad. %d ÉP-t vesztettél}
+{559}{female_pc}{Oops! %s were hit instead of %s!}
+{561}{female_pc}{%s were critically hit in %s for %d hit points}
+{562}{female_pc}{%s were hit in %s for %d hit points}
+{563}{female_pc}{%s were hit for %d hit points}
+{564}{female_pc}{%s critically missed}
+{565}{female_pc}{%s missed}
+{570}{female_pc}{%s were critically hit for %d hit points}
+{571}{female_pc}{%s were critically hit in %s for 1 hit point}
+{572}{female_pc}{%s were hit in %s for 1 hit point}
+{573}{female_pc}{%s were hit for 1 hit point}
+{574}{female_pc}{%s were critically hit for 1 hit point}
+{575}{female_pc}{%s were critically hit in %s for no damage}
+{576}{female_pc}{%s were hit in %s for no damage}
+{577}{female_pc}{%s were hit for no damage}
+{578}{female_pc}{%s were critically hit for no damage}
+{583}{female_pc}{%s critically missed and took 1 hit point}
+{584}{female_pc}{%s critically missed and took %d hit points}
 {608}{}{Hehe... %s kapta az áldást!}
 {609}{}{Hoppszla! A szerencsés %s helyett a kevésbé szerencsés %s szívta meg!}
 {611}{}{%s csúnyán megsérült %s, %d ÉP-t vesztett}
@@ -153,24 +153,24 @@
 {628}{}{%s megúszta egy karcolással}
 {633}{}{%s Hát ezt elcseszted, és megsebesítetted magad. Vesztettél 1 ÉP-t}
 {634}{}{%s Nagyon melléfogtál, és csúnyán megsebesítetted magad. %d ÉP-t vesztettél}
-{708}{}{Hehe... %s kapta az áldást!}
-{709}{}{Hoppszla! A szerencsés %s helyett a kevésbé szerencsés %s szívta meg!}
-{711}{}{%s csúnyán megsérült %s, %d ÉP-t vesztett}
-{712}{}{%s megsérült %s, %d ÉP-t vesztett}
-{713}{}{%s megsérült, %d ÉP-t vesztett}
-{714}{}{%s Béna voltál}
-{715}{}{%s Elvétetted}
-{720}{}{%s súlyosan megsérült, %d ÉP-t vesztett}
-{721}{}{%s apró sebet kapott %s, és 1 ÉP-t vesztett}
-{722}{}{%s könnyebben megsebesült %s, és 1 ÉP-t vesztett}
-{723}{}{%s 1 ÉP-t vesztett}
-{724}{}{%s ezt szinte meg se érezte. 1 ÉP-t vesztett}
-{725}{}{%s jelentéktelen sebet kapott %s. Meg sem érezte}
-{726}{}{%s könnyebben megsebesült %s. Apró karcolás az egész}
-{727}{}{%s ezt meg sem érezte}
-{728}{}{%s megúszta egy karcolással}
-{733}{}{%s Hát ezt elcseszted, és megsebesítetted magad. Vesztettél 1 ÉP-t}
-{734}{}{%s Nagyon melléfogtál, és csúnyán megsebesítetted magad. %d ÉP-t vesztettél}
+{708}{female_npc}{Oops! %s was hit instead of you!}
+{709}{female_npc}{Oops! %s was hit instead of %s!}
+{711}{female_npc}{%s was critically hit in %s for %d hit points}
+{712}{female_npc}{%s was hit in %s for %d hit points}
+{713}{female_npc}{%s was hit for %d hit points}
+{714}{female_npc}{%s critically missed}
+{715}{female_npc}{%s missed}
+{720}{female_npc}{%s was critically hit for %d hit points}
+{721}{female_npc}{%s was critically hit in %s for 1 hit point}
+{722}{female_npc}{%s was hit in %s for 1 hit point}
+{723}{female_npc}{%s was hit for 1 hit point}
+{724}{female_npc}{%s was critically hit for 1 hit point}
+{725}{female_npc}{%s was critically hit in %s for no damage}
+{726}{female_npc}{%s was hit in %s for no damage}
+{727}{female_npc}{%s was hit for no damage}
+{728}{female_npc}{%s was critically hit for no damage}
+{733}{female_npc}{%s critically missed and took 1 hit point}
+{734}{female_npc}{%s critically missed and took %d hit points}
 {1110}{}{a fején}
 {1111}{}{a bal karján}
 {1112}{}{a jobb karján}

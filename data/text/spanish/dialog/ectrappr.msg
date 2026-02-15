@@ -9,7 +9,7 @@
 {108}{}{¿Qué tienes?}
 {109}{}{No importa.}
 {110}{}{Uhg.}
-{111}{}{Esto es lo que tengo: }
+{111}{}{Esto es lo que tengo:}
 {112}{}{pieles de gecko normal.}
 {113}{}{pieles de gecko dorado.}
 {114}{}{Me quedaré con todo lo que tienes.}

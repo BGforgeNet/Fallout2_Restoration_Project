@@ -16,7 +16,7 @@
 {115}{}{Oye, lo siento. No tenía intención de ofenderte. Te dejaré con tus cosas.}
 {116}{}{Bien.}
 {117}{}{Encantado de conocerte, }
-{118}{}{¿Qué es lo que quieres saber?}
+{118}{}{¿Qué te gustaría saber?}
 {119}{}{¿Qué haces aquí?}
 {120}{}{Qué hacen maquinas?}
 {121}{}{Refugio tiene supervisor. ¿Esto cuarto de supervisor?}
@@ -28,7 +28,7 @@
 {127}{}{¿Para qué es toda esa maquinaria?}
 {128}{}{¿No es éste el cuarto del Supervisor del Refugio?}
 {129}{}{¿Estás en el Refugio porque quieres?}
-{130}{}{¿Qué piensas sobre las Garras mortales?}
+{130}{}{¿Qué piensas sobre los sanguinarios?}
 {131}{}{La computadora necesita una pieza. ¿Sabes dónde podría conseguirla?}
 {132}{}{Creo que me iré ahora.}
 {133}{}{Bien... estamos teniendo problemas con la computadora y estoy en ello. Desgraciadamente mi fuerte es el software, no el hardware.}

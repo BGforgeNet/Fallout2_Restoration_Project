@@ -154,7 +154,7 @@
 {328}{}{¿Dónde está el fuego?}
 {329}{}{Muchacho, déjame convertirte en un hombre.}
 {330}{}{¿Quieres jugar a esclavista y siervo?}
-{331}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
+{331}{}{¿Quieres fingir que somos sanguinarios en época de apareamiento?}
 {332}{}{¿Quieres que te ponga cachondo, esclavista?}
 {333}{}{¿Quieres ayudar a una virgen a perder su virginidad?}
 {334}{}{Ese esclavista hace que mi contador Geiger titile.}
@@ -221,7 +221,7 @@
 {395}{}{Necesitas sacudir tu jaula, esclavista?}
 {396}{}{He oído que las cosas entre las familias vuelven a estar tensas.}
 {397}{}{Las cosas están bastante paradas. Ojalá llegase alguna caravana.}
-{398}{}{Así que se puso ese disfraz de Garra mortal, y entonces…}
+{398}{}{Así que se puso ese disfraz de sanguinario, y entonces…}
 {399}{}{Necesito ayuda para salir de este vestido.}
 {400}{}{¿Subirme la cremallera? ¿Para bajarla otra vez?}
 {401}{}{Mmm-mmm. Parece que es época de apareamiento.}
@@ -342,7 +342,7 @@
 {516}{}{¿Dónde está el fuego?}
 {517}{}{Muchacho, déjame convertirte en un hombre.}
 {518}{}{A veces, me ofende la forma en como están diseñadas las mujeres en esta ciudad.}
-{519}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
+{519}{}{¿Quieres fingir que somos sanguinarios en época de apareamiento?}
 {520}{}{Ese hombre hace titilar mi contador Geiger.}
 {521}{}{Si tengo que hablar contigo al terminar, es un extra.}
 {522}{}{¿Hay algo en lo que pueda ayudarte, forastero?}
@@ -409,7 +409,7 @@
 {583}{}{Jules sigue queriendo pruebas gratuitas.}
 {584}{}{He oído que las cosas entre las familias vuelven a estar tensas.}
 {585}{}{Las cosas están bastante paradas. Ojalá llegase alguna caravana.}
-{586}{}{Así que se puso ese disfraz de Garra mortal, y entonces…}
+{586}{}{Así que se puso ese disfraz de sanguinario, y entonces…}
 {587}{}{Necesito ayuda para salir de este vestido.}
 {588}{}{¿Subirme la cremallera? ¿Para bajarla otra vez?}
 {589}{}{Mmm-mmm. Parece que es época de apareamiento.}
@@ -514,7 +514,7 @@
 {688}{}{¿Dónde está el fuego?}
 {689}{}{Muchacho, déjame convertirte en un hombre.}
 {690}{}{Mmmmm-mmmmm.}
-{691}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
+{691}{}{¿Quieres fingir que somos sanguinarios en época de apareamiento?}
 {692}{}{Ese hombre hace titilar mi contador Geiger.}
 {693}{}{Si tengo que hablar contigo al terminar, es un extra.}
 {694}{}{¿Hay algo en lo que pueda ayudarte, forastero?}
@@ -572,7 +572,7 @@
 {746}{}{Jules sigue queriendo pruebas gratuitas.}
 {747}{}{He oído que las cosas entre las familias vuelven a estar tensas.}
 {748}{}{Las cosas están bastante paradas. Ojalá llegase alguna caravana.}
-{749}{}{Así que se puso ese disfraz de Garra mortal, y entonces…}
+{749}{}{Así que se puso ese disfraz de sanguinario, y entonces…}
 {750}{}{Necesito ayuda para salir de este vestido.}
 {751}{}{¿Subirme la cremallera? ¿Para bajarla otra vez?}
 {752}{}{Mmm-mmm. Parece que es época de apareamiento.}
@@ -806,7 +806,7 @@
 {976}{}{Jules sigue queriendo pruebas gratuitas.}
 {977}{}{He oído que las cosas entre las familias vuelven a estar tensas.}
 {978}{}{Las cosas están bastante paradas. Ojalá llegase alguna caravana.}
-{979}{}{Así que se puso ese disfraz de Garra mortal, y entonces…}
+{979}{}{Así que se puso ese disfraz de sanguinario, y entonces…}
 {980}{}{Necesito ayuda para salir de este vestido.}
 {981}{}{¿Subirme la cremallera? ¿Para bajarla otra vez?}
 {982}{}{Lo siento, ¿qué decías? Estaba demasiado ocupada mirándote el trasero.}
@@ -836,7 +836,7 @@
 {1006}{}{::Rrrrrowrrr::}
 {1007}{}{Deja de hacerme cosquillas.}
 {1008}{}{Estoy levantada desde anoche...}
-{1009}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
+{1009}{}{¿Quieres fingir que somos sanguinarios en época de apareamiento?}
 {1010}{}{No soy barata, pero soy especial.}
 {1011}{}{Atarte cuesta un extra.}
 {1012}{}{¿Dónde habré dejado mi látigo?}
@@ -981,7 +981,7 @@
 {1151}{}{Jules sigue queriendo pruebas gratuitas.}
 {1152}{}{He oído que las cosas entre las familias vuelven a estar tensas.}
 {1153}{}{Las cosas están bastante paradas. Ojalá llegase alguna caravana.}
-{1154}{}{Así que se puso ese disfraz de Garra mortal, y entonces…}
+{1154}{}{Así que se puso ese disfraz de sanguinario, y entonces…}
 {1155}{}{Necesito ayuda para salir de este vestido.}
 {1156}{}{¿Subirme la cremallera? ¿Para bajarla otra vez?}
 {1157}{}{Lo siento, ¿qué decías? Estaba demasiado ocupada mirándote el trasero.}
@@ -1011,7 +1011,7 @@
 {1181}{}{::Rrrrrowrrr::}
 {1182}{}{Deja de hacerme cosquillas.}
 {1183}{}{Estoy levantada desde anoche...}
-{1184}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
+{1184}{}{¿Quieres fingir que somos sanguinarios en época de apareamiento?}
 {1185}{}{No soy barata, pero soy especial.}
 {1186}{}{Atarte cuesta un extra.}
 {1187}{}{¿Dónde habré dejado mi látigo?}
@@ -1154,7 +1154,7 @@
 {1324}{}{Jules sigue queriendo pruebas gratuitas.}
 {1325}{}{He oído que las cosas entre las familias vuelven a estar tensas.}
 {1326}{}{Las cosas están bastante paradas. Ojalá llegase alguna caravana.}
-{1327}{}{Así que se puso ese disfraz de Garra mortal, y entonces…}
+{1327}{}{Así que se puso ese disfraz de sanguinario, y entonces…}
 {1328}{}{Necesito ayuda para salir de este vestido.}
 {1329}{}{¿Subirme la cremallera? ¿Para bajarla otra vez?}
 {1330}{}{Lo siento, ¿qué decías? Estaba demasiado ocupada mirándote el trasero.}
@@ -1184,7 +1184,7 @@
 {1354}{}{::Rrrrrowrrr::}
 {1355}{}{Deja de hacerme cosquillas.}
 {1356}{}{Estoy cansada de estar en Reno...}
-{1357}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
+{1357}{}{¿Quieres fingir que somos sanguinarios en época de apareamiento?}
 {1358}{}{No soy barata, pero soy especial.}
 {1359}{}{Atarte cuesta un extra.}
 {1360}{}{¿Dónde habré dejado mi látigo?}

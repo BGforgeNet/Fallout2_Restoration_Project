@@ -95,7 +95,7 @@
 {195}{}{Maestro del Kamasutra}
 {196}{}{Karma resplandeciente}
 {197}{}{Paso ligero}
-{198}{}{Anatomía vital}
+{198}{}{Anatomía viviente}
 {199}{}{Personalidad magnética}
 {200}{}{Negociador}
 {201}{}{Sherpa}

@@ -8,7 +8,7 @@
 {107}{}{You can start by answering some questions.}
 {108}{}{Nothing for now. I'll come back later.}
 {109}{}{I think you deserve to have answers to your questions.}
-{110}{}{What can I help you with?}
+{110}{}{Vad kan jag hjälpa dig med?}
 {111}{}{Who you guys?}
 {112}{}{Why nobody mention you?}
 {113}{}{Why only one person here?}
@@ -92,8 +92,8 @@
 {191}{}{Well, keep working on it. I know it's a difficult mission, but I think you can pull it off.}
 {192}{}{Okej.}
 {193}{}{Excellent work! Let me have the plans, and I'll make a copy of them. As promised, I'll give you full access to our facilities. Thank you.}
-{194}{}{You welcome.}
-{195}{}{You're welcome.}
+{194}{}{Det så lite.}
+{195}{}{Det var så lite.}
 {196}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps you could pose as a new arrival. I would suggest that.}
 {197}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.}
 {198}{}{Okej.}

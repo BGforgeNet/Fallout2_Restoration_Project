@@ -506,7 +506,7 @@ procedure Node004 begin
    //if (global_var(GVAR_BH_CHAD) == CHAD_SUSPICIOUS) then
    if ( (global_var(GVAR_BH_CHAD) >= CHAD_SUSPICIOUS) and (global_var(GVAR_BH_CHAD) <= CHAD_CONFIRMED_GECKO) ) then //edit by killap (expansion pack)
       NOption(124,Node008,004);
-   if ( /*(global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED) or (global_Var(GVAR_BH_CHAD) == CHAD_CONFIRMED_GECKO) or*/ (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) ) then begin
+   if ((global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) ) then begin
       //NOption(125,Node009,004); // killap - expansion pack
       NOption(126,Node022,004); //was 009 - killap - expansion pack
    end

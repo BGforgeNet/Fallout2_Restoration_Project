@@ -4,7 +4,7 @@
 {103}{}{You see a bored looking woman.}
 {104}{}{You see a woman checking you out.}
 {105}{}{You're being mentally undressed by this woman.}
-{106}{}{You see a young woman.}
+{106}{}{Du ser en ung kvinna.}
 {110}{}{That was quick.}
 {111}{}{Been a long time, honey?}
 {112}{}{Maybe it will last longer next time.}

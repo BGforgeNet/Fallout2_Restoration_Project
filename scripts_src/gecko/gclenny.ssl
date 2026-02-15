@@ -942,7 +942,7 @@ procedure Node02a begin
    Reply(125);
    if ( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
       NOption(116,Node006,004);
-   If (k > 0) then begin
+   if (k > 0) then begin
       NOption(117,Node007,004);
       //NOption(118,Node007,004);
    end
@@ -987,7 +987,6 @@ procedure Node005 begin
    NOption(163,Node009,004);
    if ( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then // added ( dude_is_crippled ) - killap
       NOption(164,Node006,004);
-   //If_Party_Has_Injured then
    if (k > 0) then
      NOption(165,Node007,004);
    NOption(166,Node999,004);

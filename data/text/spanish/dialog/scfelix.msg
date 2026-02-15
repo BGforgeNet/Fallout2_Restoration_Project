@@ -10,7 +10,7 @@
 {109}{}{Estoy buscando el Refugio 13.}
 {110}{}{Sólo estaba mirando.}
 {111}{}{Genial, otro idiota. ¿Supongo que quieres ver al jefe?}
-{112}{}{Uh-huh.}
+{112}{}{Ah-Vale.}
 {113}{}{Nooo.}
 {114}{}{Bien. Pasa dentro.}
 {115}{}{Es tarde. Vuelve por la mañana.}

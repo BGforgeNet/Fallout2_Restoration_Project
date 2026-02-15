@@ -1,6 +1,6 @@
 {100}{}{You see a scruffy looking person.}
 {101}{}{You see a citizen of Klamath.}
-{102}{}{You see a squatter.}
+{102}{}{Du ser en ockupant.}
 {103}{}{You see a backwoodsman.}
 {104}{}{You see a trapper.}
 {105}{}{You see a trapper.}

@@ -42,7 +42,7 @@
 {400}{}{¿Hay algo que puedas decirme sobre Kaga?}
 {401}{}{[El aldeano te mira, con los ojos muy abiertos, luego se aleja lentamente de ti mientras mira nerviosamente a su alrededor.]}
 {402}{}{Bueno, supongo que no.}
-{1000}{}{Anciano}
+{1000}{}{Elder}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

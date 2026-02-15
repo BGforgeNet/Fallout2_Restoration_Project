@@ -8,10 +8,10 @@
 {501}{}{Un pequeño escorpión mutante.}
 {600}{}{Escorpión rad}
 {601}{}{Un escorpión mutante.}
-{700}{}{Mortíclavo}
-{701}{}{Una Garra mortal inmadura.}
-{800}{}{Mortíclavo}
-{801}{}{Una Garra mortal inmadura.}
+{700}{}{Sanguinario}
+{701}{}{Un sanguinario inmaduro.}
+{800}{}{Sanguinario}
+{801}{}{Un sanguinario inmaduro.}
 {900}{}{Perro}
 {901}{}{Un perro, probablemente de raza cruzada.}
 {1000}{}{Brahmin}
@@ -20,7 +20,7 @@
 {1101}{}{Una típica rata grande.}
 {1200}{}{Mantis}
 {1201}{}{Una Mantis mutante.}
-{1300}{}{Anciano}
+{1300}{}{Elder}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Planta de esporas}
@@ -93,8 +93,8 @@
 {8200}{}{Perro salvaje}
 {8201}{}{Un perro salvaje de raza cruzada}
 {8300}{}{Gecko dorado}
-{8400}{}{Mortíclavo}
-{8500}{}{Huevo de Garra mortal}
+{8400}{}{Sanguinario}
+{8500}{}{Huevo de sanguinario}
 {8600}{}{Gecko dorado duro}
 {8700}{}{Lynette}
 {8800}{}{Doctor Troy}
@@ -258,8 +258,8 @@
 {24100}{}{Gecko de fuego duro}
 {24200}{}{Alien}
 {24300}{}{Alien duro}
-{24400}{}{Garra mortal duro}
-{24500}{}{Garra mortal dura}
+{24400}{}{Sanguinario duro}
+{24500}{}{Sanguinario duro}
 {24600}{}{Nómada}
 {24700}{}{Nómada sucio}
 {24800}{}{Centauro}
@@ -287,13 +287,13 @@
 {27000}{}{Extraño Misterioso}
 {27100}{}{Extraño Misterioso}
 {27200}{}{Hakeswill}
-{27300}{}{Gran Jesús Mordino}
+{27300}{}{El Gran Jesus Mordino}
 {27400}{}{Dumar}
-{27500}{}{Garra mortal madre}
+{27500}{}{Madre sanguinaria}
 {27600}{}{El Dragón}
 {27700}{}{Lo Pan}
-{27800}{}{Hubologista}
-{27900}{}{Hubologista}
+{27800}{}{Hubólogo}
+{27900}{}{Hubólogo}
 {28000}{}{Extraño Misterioso}
 {28100}{}{Extraño Misterioso}
 {28200}{}{Extraño Misterioso}
@@ -303,7 +303,7 @@
 {28600}{}{Extraño Misterioso}
 {28700}{}{Extraño Misterioso}
 {28800}{}{Guardaespaldas del Presidente}
-{28900}{}{Huevo Garra mortal}
+{28900}{}{Huevo de sanguinario}
 {29000}{}{Metzger}
 {29100}{}{Persona}
 {29200}{}{Persona que lleva una especie de armadura extraña.}

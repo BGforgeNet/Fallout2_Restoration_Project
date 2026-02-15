@@ -223,7 +223,7 @@
 {765}{myn116}{Sin embargo, realmente quería conseguir un caramelito que no dependiera de extractos vegetales. Pues fui un idiota, porque la respuesta resultó ESTAR en los extractos, o, más precisamente, en AQUELLO en lo que crecían.}
 {766}{}{No te importa lo que digo, ¿verdad? Te encanta contar tu historia.}
 {767}{}{¿Qué quieres decir?}
-{775}{myn117}{Verás, el viejo Jesús Mordino quería algo que volviera a los mineros de Redding adictos con rapidez Y A LA VEZ les hiciera trabajar más duro. Así que dije, 'sin problemas', ¿vale?}
+{775}{myn117}{Verás, el viejo Jesus Mordino quería algo que volviera a los mineros de Redding adictos con rapidez Y A LA VEZ les hiciera trabajar más duro. Así que dije, 'sin problemas', ¿vale?}
 {776}{}{¿Qué era eso de Redding?}
 {777}{}{Repíteme qué era eso de Redding.}
 {778}{}{Vale. Continúa.}

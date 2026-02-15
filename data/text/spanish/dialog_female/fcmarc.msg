@@ -11,7 +11,7 @@
 {110}{}{Nada. Adiós.}
 {111}{}{Hmm. No, lo siento, no puedo ayudarte con eso. Quizá deberías probar con algún otro.}
 {112}{}{¿G-gracias?}
-{113}{}{Yo soy Marc. Yo soy el residente smart-ass y sabe-lo-todo. ::sonríe::}
+{113}{}{Soy Marc. Soy el sabelotodo y sabihondo local.  ::sonríe::}
 {114}{}{Oh. Tengo otras preguntas.}
 {115}{}{Adiós.}
 {116}{}{Esto es un navío de la Poseidon, el PMV Valdez. Si quieres más información sobre el barco, la mejor persona con la que puedes hablar es el capitán.}

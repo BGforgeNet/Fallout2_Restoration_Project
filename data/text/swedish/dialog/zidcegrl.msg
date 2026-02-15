@@ -116,7 +116,7 @@
 {430}{}{Winner! You've tripled your money!}
 {431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
-{440}{}{Call it a day.}
+{440}{}{Sluta för dagen.}
 {441}{}{Call it a night.}
 {450}{}{Sorry, this table has been closed. Someone has been tampering with the dice.}
 {451}{}{Sorry sir, this table has been closed. Someone has been tampering with the dice.}

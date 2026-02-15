@@ -94,7 +94,7 @@ procedure map_enter_p_proc begin
    set_self_ai(AI_GENERIC_GUARDS);
 end
 
-procedure map_exit_p_proc begin\
+procedure map_exit_p_proc begin
    //added by killap - expansion
    unset_rnd_flag(HOMESTEAD_REWARDED);
    unset_rnd_flag(HOMESTEAD_SAVED);

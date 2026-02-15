@@ -309,7 +309,7 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
    end
-   else dude_wearing_vault_suit begin
+   else if dude_wearing_vault_suit then begin
       if( local_var(LVAR_Gave_Day_Pass) == 0 ) then begin
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;

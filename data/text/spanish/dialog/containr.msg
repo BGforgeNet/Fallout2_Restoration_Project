@@ -119,4 +119,4 @@
 {610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
 {611}{}{ Fallas espectacularmente, y el explosivo detona prematuramente.}
 {620}{}{Doblas la palanca más allá de sus límites. Ahora no sirve para nada.}
-{621}{}{ dobla la palanca más allá de sus límites. Ahora no sirve para nada.}
+{621}{}{ *Doblas la palanca más allá de sus límites. Ahora no sirve para nada.}

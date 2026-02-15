@@ -24,7 +24,7 @@
 {123}{}{Me llamo Martin.}
 {124}{}{Te puedo contar lo que le ocurrió.}
 {125}{}{Hola, soy Martin Frobisher. Represento a esta gente. Gracias a Dios que estás aquí.}
-{126}{}{¿Qué es lo que quieres saber?}
+{126}{}{¿Qué te gustaría saber?}
 {127}{}{Bonita ropa, igual que la mía. ¿Quienes sois?}
 {128}{}{¿Qué estáis haciendo vosotros aquí?}
 {129}{}{¿Eres el Supervisor?}

@@ -21,6 +21,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "nieldbx2"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_NIELDBOX
 
@@ -45,9 +46,8 @@ end
 procedure map_enter_p_proc begin
    new_reno_eldridge_box_2 := self_obj;
    if (is_loading_game == false) then begin
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
-         variable tmp_box = move_quest_items();
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
+         variable tmp_box := move_quest_items();
          check_restock_item(PID_ASSAULT_RIFLE, 1, 1, 25)
          check_restock_item(PID_COMBAT_SHOTGUN, 1, 1, 25)
          check_restock_item(PID_ROCKET_LAUNCHER, 1, 1, 25)

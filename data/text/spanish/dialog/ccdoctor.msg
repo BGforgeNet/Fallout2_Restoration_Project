@@ -17,7 +17,7 @@
 {116}{}{¿Qué haces aquí?}
 {117}{}{¿Qué lugar es éste?}
 {118}{}{¿Por qué esta habitación está insonorizada?}
-{119}{}{¿Por qué tienes un Garra mortal en la otra habitación?}
+{119}{}{¿Por qué tienes un sanguinario en la otra habitación?}
 {120}{}{¿Qué le ocurre al perro de la puerta?}
 {121}{}{Debo irme.}
 {122}{}{Mi nombre es Schreber, doctor Schreber. Soy el médico de la base, entre otras cosas. No me importa tu nombre, soldado. Todos los reclutas parecéis iguales con esa armadura.}
@@ -32,7 +32,9 @@
 {131}{}{Este era el pabellón médico de la base. Sin embargo, sentía que mis experimentos tenían preferencia sobre las insignificantes necesidades médicas de los soldados, así que lo convertí en un laboratorio.}
 {132}{}{Qué... bien.}
 {133}{}{Eso está bien. Cuéntame más.}
-{134}{}{¿Que por qué la habitación no hace ruido? Oh, ¡te refieres a la insonorización! Durante mis investigaciones realicé... experimentos en sujetos de prueba. A veces gritaban un... poco, pero el comandante de la base lo encontraba perturbador, así que insonorizó la sala.}
+{134}{}{¿Que por qué la habitación no hace ruido? Oh, ¡Te refieres a la insonorización! Durante
+mis investigaciones realicé... experimentos en sujetos de prueba.
+A veces gritaban un... poco, pero el comandante de la base lo encontraba perturbador, así que insonorizó la sala.}
 {135}{}{Durante mis investigaciones realicé... experimentos en sujetos de prueba. A veces gritaban... un poco, pero el comandante de la base lo encontraba perturbador, así que insonorizó la sala.}
 {136}{}{Oh...}
 {137}{}{Ya veo.}
@@ -41,20 +43,20 @@
 {140}{}{¿Por qué vas a matarlo?}
 {141}{}{Oh, Dios... no eres muy avispado, ¿verdad? Matar, aniquilar, acabar, sacrificar... ¿Lo pillas?}
 {142}{}{Lo pillo. ¿Por qué matar Garra?}
-{143}{}{El Enclave ha estado buscando soldados baratos y prescindibles. Estamos interesados en las Garras mortales porque han desarrollado blindaje y armas propias, y porque son malas como demonios. Tan sólo necesitan ser más listas para poder entender ordenes, pero no lo suficiente como para que tengan voluntad propia. ¿Me sigues?}
+{143}{}{El Enclave ha estado buscando soldados baratos y prescindibles. Estamos interesados en los sanguinarios porque han desarrollado blindaje y armas propias, y porque son malas como demonios. Tan sólo necesitan ser más listas para poder entender ordenes, pero no lo suficiente como para que tengan voluntad propia. ¿Me sigues?}
 {144}{}{Oh... sí.}
 {145}{}{Sí, te sigo.}
 {146}{}{Bien, ¡tuvimos éxito! Conseguimos aumentar su inteligencia. Sin embargo, empecé a sospechar que tuvimos demasiado éxito. Puede que fueran bastante más listas de lo que pensamos. Así que cuando me transfirieron aquí me traje una de ellas conmigo para poder probar mi teoría.}
 {147}{}{¿Y?}
-{148}{}{¡Tenía razón! Las Garras mortales han estado jugando a hacerse las tontas, a la expectativa, e intentando aprender lo máximo posible de nosotros. ¡Incluso pueden imitar el habla humana! He llegado a tener una conversación de verdad con ese amigo de ahí.}
+{148}{}{¡Tenía razón! Los sanguinarios han estado jugando a hacerse los tontos, a la expectativa, e intentando aprender lo máximo posible de nosotros. ¡Incluso pueden imitar el habla humana! He llegado a tener una conversación de verdad con ese amigo de ahí.}
 {149}{}{De todas formas, el hecho de que puedan ser capaces de concebir un plan como ese y mantener el engaño es prueba de lo peligrosas que son.}
 {150}{}{¿Qué pensar hacer ahora?}
 {151}{}{Entonces, ¿qué planeas hacer ahora?}
-{152}{}{Voy a escribir un informe con mis descubrimientos y transmitirlo al Enclave. Por supuesto recomendaré el exterminio de toda la raza de Garras mortales. Son una amenaza demasiado peligrosa.}
+{152}{}{Voy a escribir un informe con mis descubrimientos y transmitirlo al Enclave. Por supuesto recomendaré el exterminio de toda la raza de sanguinarios. Son una amenaza demasiado peligrosa.}
 {153}{}{Comprendo. Tengo preguntar más.}
 {154}{}{Uh... ¿Tu seguro cuarto insonorizado?}
 {155}{}{¡Yo quiero matar Garra mortal por ti!}
-{156}{}{Eh, ¿me dejas que mate a la Garra mortal?}
+{156}{}{Eh, ¿me dejas que mate a la sanguinaria?}
 {157}{}{Interesante. ¿Puedo hacerte otras preguntas?}
 {158}{}{Dime Doc, ¿estás seguro de que esta sala está insonorizada?}
 {159}{}{Por supuesto que estoy seguro. Si no, al comandante le daría un ataque. ¿Por qué?}

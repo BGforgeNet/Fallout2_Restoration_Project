@@ -16,7 +16,7 @@
 {115}{}{¡Au-au-au-au-au!}
 {116}{}{¡Mierda! ¡Me largo de aquí!}
 {117}{}{¡No pienso morir por esto!}
-{118}{}{Veo que tienes un tatuaje ahí... la marca de los esclavistas. No serás un esclavista, ¿no?}
+{118}{}{Veo que tienes un tatuaje ahí... la marca de los esclavistas. No serás un esclavista, ¿No?}
 {119}{}{Sí.}
 {120}{}{No.}
 {121}{}{Qué mala suerte... para ti. Somos los Rangers de la RNC. ¿Has oído hablar de nosotros? Matamos esclavistas.}

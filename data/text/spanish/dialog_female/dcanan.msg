@@ -26,7 +26,7 @@
 {130}{}{No tengo ningún interés en esa clase de cosas. Los cadáveres me aterran.}
 {131}{}{Fuera de la fila, estás estorbando a mis clientes.}
 {132}{}{No creo que esto sea adecuado para ti.}
-{133}{}{Porqué no te llevas tu pequeño culo tribal a otra parte.}
+{133}{}{Por qué no te llevas tu pequeño culo tribal a otra parte.}
 {134}{}{De verdad que esto no es para ti.}
 {135}{}{Ya veo, hmmm, ¡¿qué tal si (señala) TE VAS?!}
 {136}{}{Para una persona de tu distinguida clase, estaría encantado de mostrarte éste único e histórico espécimen por una mera suma de $25.}

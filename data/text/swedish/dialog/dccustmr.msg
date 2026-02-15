@@ -11,7 +11,7 @@
 {200}{}{Försvinn från mig!}
 {201}{}{Lämna mig ifred!}
 {202}{}{Don't touch me!}
-{203}{}{Stop it!}
+{203}{}{Sluta!}
 {204}{}{Vad är det du gör?}
 {300}{}{Sorry, can't talk now.}
 {301}{}{Where was I going again?}

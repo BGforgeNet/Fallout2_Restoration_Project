@@ -9,7 +9,7 @@
 {108}{}{Mutasd, mid van!}
 {109}{}{Rá se ránts!}
 {110}{}{Aghhh!}
-{111}{}{Here's what I got: }
+{111}{}{Tessék:}
 {112}{}{gekkóbőr.}
 {113}{}{aranygekkó bőr.}
 {114}{}{Mindet megveszem.}

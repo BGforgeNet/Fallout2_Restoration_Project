@@ -211,7 +211,7 @@ procedure talk_p_proc begin
          gSay_End;
          end_dialogue;
       end
-   end else if (/*armor_flag(ARMOR_SOLDFUELTANKER) or */armor_flag(ARMOR_SOLDMONEY)) then begin //killap's fix: commented out since this is the tanker variable and in addition, the elron variable is not needed since the fuel was requested for the spaceship and not Crocke (why would he get mad then?)
+   end else if (armor_flag(ARMOR_SOLDMONEY)) then begin  // killap's fix: commented out armor_flag(ARMOR_SOLDFUELTANKER) since this is the tanker variable and in addition, the elron variable is not needed since the fuel was requested for the spaceship and not Crocke (why would he get mad then?)
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node021;

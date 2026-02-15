@@ -17,7 +17,7 @@
 {115}{}{Me leave.}
 {116}{}{I've got to go.}
 {117}{}{It's a pleasure to meet you, Thearn. I'm}
-{118}{}{Got it.}
+{118}{}{Jag förstår.}
 {119}{}{Now that I think about it, I don't give a radrat's ass who you are.}
 {120}{}{I guard hall. Safety of pack goal.}
 {121}{}{Oh... Uh...}

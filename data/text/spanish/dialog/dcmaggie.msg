@@ -23,7 +23,7 @@
 {170}{}{¿Refugio 13? No, nunca he oído hablar de él.}
 {171}{}{Hmm, ¿puedo hacerte otra pregunta?}
 {172}{}{Maldición, necesito encontrarlo. Adiós.}
-{173}{}{¿Qué es lo que quieres saber?}
+{173}{}{¿Qué te gustaría saber?}
 {174}{}{¿Dónde hay un buen sitio para comer?}
 {175}{}{¿Sabes dónde está el Refugio 13?}
 {176}{}{¿Por qué son tan baratas tus copas?}

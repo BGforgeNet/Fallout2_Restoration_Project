@@ -19,7 +19,7 @@
 {119}{}{}
 {120}{}{Escorpión menor}
 {121}{}{Mantis menor}
-{122}{}{Garra mortal menor}
+{122}{}{Sanguinario menor}
 {123}{}{Jarrón}
 {124}{}{Cofre}
 {125}{}{Cuevas de Arroyo}
@@ -427,7 +427,7 @@
 {527}{}{Ethyl Wright}
 {528}{}{Padre Tully}
 {529}{}{HumperdumperDIDO}
-{530}{}{Pequeño Jesús Mordino}
+{530}{}{El Pequeño Jesus Mordino}
 {531}{}{Jeta Jimmy J}
 {532}{}{Keith Wright}
 {533}{}{Lee Anne Bishop}
@@ -453,7 +453,7 @@
 {553}{}{Camarero}
 {554}{}{Diputado Karl}
 {555}{}{Puerta de celda}
-{556}{}{Gran Jesús Mordino}
+{556}{}{El Gran Jesus Mordino}
 {557}{}{Hoss}
 {558}{}{Suero mutagénico}
 {559}{}{Caja}
@@ -515,7 +515,7 @@
 {615}{}{Puerta}
 {616}{}{Computadora}
 {617}{}{Brahmin}
-{618}{}{Mortíclavo}
+{618}{}{Sanguinario}
 {619}{}{Salida}
 {620}{}{Computadora}
 {621}{}{Feargus}
@@ -543,7 +543,7 @@
 {643}{}{Terminal de computadora}
 {644}{}{Taquilla metálica}
 {645}{}{Baúl}
-{646}{}{Guardia Garra mortal}
+{646}{}{Guardia sanguinario}
 {647}{}{Goris}
 {648}{}{Caja}
 {649}{}{Taquilla metálica}
@@ -559,7 +559,7 @@
 {659}{}{Mapa de la entrada secreta al Refugio 15}
 {660}{}{Rebecca}
 {661}{}{Puerta}
-{662}{}{Mortíclavo}
+{662}{}{Sanguinario}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
@@ -763,7 +763,7 @@
 {863}{}{Explorador}
 {864}{}{Pandillero}
 {865}{}{Jefe Nómada}
-{866}{}{Hubologista}
+{866}{}{Hubólogo}
 {867}{}{Loco}
 {868}{}{Incursor}
 {869}{}{Caníbal}
@@ -803,7 +803,7 @@
 {903}{}{Presidente Richardson}
 {904}{}{Howitzer}
 {905}{}{Puerta}
-{906}{}{Cría de Garra mortal}
+{906}{}{Cría de sanguinario}
 {907}{}{"Peligroso" Dan}
 {908}{}{Doc Johnson}
 {909}{}{Sheriff Marion}
@@ -1018,7 +1018,7 @@
 {1118}{}{Campo de fuerza}
 {1119}{}{Campo de fuerza}
 {1120}{}{Campo de fuerza}
-{1121}{}{Hubologista}
+{1121}{}{Hubólogo}
 {1122}{}{Computadora}
 {1123}{}{Puerta del búnker}
 {1124}{}{Puerta}
@@ -1310,7 +1310,7 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Niño}
-{1413}{}{Mortíclavo}
+{1413}{}{Sanguinario}
 {1414}{}{La Hermana Elaine}
 {1415}{}{Tumba}
 {1416}{}{Tumba}
@@ -1380,7 +1380,7 @@
 {1480}{}{Persona con un extraño tipo de armadura}
 {1481}{}{seguro}
 {1482}{}{la guardia}
-{1483}{}{Hubologista}
+{1483}{}{Hubólogo}
 {1484}{}{Guardia Hubologista}
 {1485}{}{Guardia Hubologista}
 {1486}{}{Puerta metálica}

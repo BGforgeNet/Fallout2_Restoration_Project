@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "fcdrfung"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_FCDRFUNG
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
@@ -141,8 +142,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_SAN_FRAN_SHI);
    set_self_ai(AI_SF_SHI);
 
-   restock_fix
-   if (game_time > local_var(LVAR_Restock_Time)) then begin
+   if (unsigned_int_compare(game_time, local_var(LVAR_Restock_Time)) > 0) then begin
       variable tmp_box := move_quest_items();
       check_restock_item(PID_STIMPAK, 5, 7, 100)
       check_restock_item(PID_FIRST_AID_KIT, 1, 3, 60)
@@ -294,8 +294,6 @@ procedure Node001 begin
    NLowOption(104, Node020);
    if ( (dude_max_hits - dude_cur_hits) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
       NOption(105, Node002, 4);
-//   if (If_Party_Has_Injured) then
-//      NOption(106, Node003, 4);// this could get complicated
    NOption(107, NodeBarter, 4);
    NOption(108, Node004, 4);
    if (spleen_flag(SP_FOUND)) then

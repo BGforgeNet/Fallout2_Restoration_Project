@@ -264,13 +264,13 @@ procedure Node002 begin
 end
 
 procedure Node003 begin
-   If_Party_Is_Armed then begin
+   if party_is_armed() then begin
    end
 
    if (dude_is_armed) then begin
       Reply(112);
       ENDOPTION;
-   end else if (How_Many_Party_Members_Armed > 0) then begin
+   end else if (party_is_armed()) then begin
       Reply(113);
       ENDOPTION;
    end else begin

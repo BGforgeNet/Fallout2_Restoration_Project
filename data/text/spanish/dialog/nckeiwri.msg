@@ -67,9 +67,9 @@
  porque son los que fabrican más Jet. Apostaría a que fue uno de ellos.}
 {431}{}{¿De qué traficantes sospechas?}
 {432}{}{¿Puedes contarme algo más sobre Richard?}
-{440}{}{Un puñado: Jeta Jimmy J en la calle Segunda, el viejo hijoputa de Renesco en la zona Oeste… y Jules
- también trapichea en la entrada a la ciudad, pero casi siempre a turistas imbéciles. Y luego está Pequeño Jesús Mordino.}
-{441}{}{¿Pequeño Jesús Mordino?}
+{440}{}{Un monton de ellos: Jeta Jimmy J en la calle Segunda, el viejo hijoputa de Renesco en la zona Oeste… y Jules
+ también trapichea en la entrada a la ciudad, pero casi siempre a turistas imbéciles. Y luego está el Pequeño Jesus Mordino.}
+{441}{}{¿El Pequeño Jesus Mordino?}
 {442}{}{¿Puedes contarme algo más sobre Richard?}
 {443}{}{Gracias por la información, Keith.}
 {450}{}{Un chico callado, limpio. Se mantenía lejos de los problemas, y para un Wright eso no está mal. Lo enterramos

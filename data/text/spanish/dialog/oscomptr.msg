@@ -1,4 +1,4 @@
-{100}{}{Ves un terminal de computadora.}
+{100}{}{Ves un terminal de ordenador.}
 {101}{}{Ves la interfaz de voz del terminal.}
 {102}{}{Ves un terminal de computadora estándar, modificado para recibir comandos por voz.}
 {103}{}{Examinas el terminal, pero no puedes encontrar nada que esté obviamente mal. ¿Qué

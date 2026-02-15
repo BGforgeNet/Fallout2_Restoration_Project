@@ -89,22 +89,6 @@ variable ValueOfRollCheck:=ROLL_FAILURE;
 
 /* Weapon And Armor */
 #define COND018(x)              if (dude_is_armed) then
-#define COND019(x)              if ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_LEATHER_ARMOR) and             \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_METAL_ARMOR) and               \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_POWERED_ARMOR) and             \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_COMBAT_ARMOR) and              \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_LEATHER_JACKET) and            \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_PURPLE_ROBE) and               \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_BRIDGEKEEPERS_ROBE) and /*added by killap*/   \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_HARDENED_POWER_ARMOR) and      \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_BROTHERHOOD_COMBAT_ARMOR) and  \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_TESLA_ARMOR) and               \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_CURED_LEATHER_ARMOR) and       \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR) and      \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR_MK2) and  \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_LEATHER_ARMOR_MK_II) and       \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_METAL_ARMOR_MK_II) and         \
-                                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_COMBAT_ARMOR_MK_II) ) then
 #define COND020(x)              if (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_PURPLE_ROBE) then
 #define COND021(x)              if (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_LEATHER_JACKET) then
 #define COND022(x)              if (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_LEATHER_ARMOR) then

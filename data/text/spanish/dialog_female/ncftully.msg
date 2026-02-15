@@ -236,7 +236,7 @@
 {740}{}{¿Jesús? Un buen hijo de p-puta… (Toma un trago y chasquea la lengua). Tdafica con esclavos, Jet, y p-putas. Sólo hay una pedsona
  peod que él y es su inmundo hi-hijo.}
 {741}{}{¿Su hijo?}
-{742}{}{¿Así que Jesús Mordino senior controla la mayoría de drogas y putas de Nuevo Reno?}
+{742}{}{¿Así que Jesus Mordino padre controla la mayoría de drogas y putas de Nuevo Reno?}
 {743}{}{Una gran familia. ¿Puedo hacerle algunas otras preguntas, Padre?}
 {744}{}{De tal palo tal astilla. Bien, gracias por hablar conmigo, Padre.}
 {750}{}{¿Pequeño Jesús? ¡Un bastar-do! Es como una ga-garra-pata, chupando la sangde del tdabajo de su padde. Todo Deno tenddá pdoblemas si él toma el

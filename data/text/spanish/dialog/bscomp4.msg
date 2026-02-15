@@ -1,7 +1,7 @@
-{100}{}{Ves un terminal de computadora.}
-{101}{}{Ves el terminal de seguridad de una computadora.}
-{102}{}{Ves un terminal estándar. Parece estar funcionando y listo para usar.}
-{103}{}{Este terminal monitoriza los generadores del campo de fuerza. Indica que todo funciona normalmente.}
+{100}{}{Ves un terminal de ordenador.}
+{101}{}{Ves el terminal del ordenador de seguridad.}
+{102}{}{Ves el terminal de un ordenador estandar. Parece estar funcionando y listo para usar.}
+{103}{}{Este terminal monitoriza los generadores del campo de fuerza. Indica que todo funciona con normalidad.}
 {104}{}{Este terminal monitoriza los generadores del campo de fuerza. Indica que la unidad está desactivada por falta de energía.}
 {105}{}{Apagas el campo de fuerza.}
 {106}{}{Enciendes el campo de fuerza.}

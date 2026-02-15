@@ -22,11 +22,11 @@
 {121}{}{¿No?}
 {122}{}{¡Oye, deja de beberte toda mi cerveza!}
 {123}{}{¡Rahhhg!}
-{124}{}{Fue allá por el 78, yo y Bessie -el mejor robot que haya tenido un hombre- buscábamos u-ra-nio al oeste de aquí. No habíamos conseguido ni una mala piedra radiactiva cuando de repente cinco -no, estoy seguro de que eran diez- Garras mortales nos saltaron encima.}
+{124}{}{Fue allá por el 78, yo y Bessie -el mejor robot que haya tenido un hombre- buscábamos u-ra-nio al oeste de aquí. No habíamos conseguido ni una mala piedra radiactiva cuando de repente cinco -no, estoy seguro de que eran diez- sanguinarios nos saltaron encima.}
 {125}{}{Luchaban como demonios. Disparé tantas veces que el cañón de mi rifle se derritió, y ya iba a enfrentarme a ellas cuchillo contra garra cuando la vieja Bessie finalmente fundió su último circuito integrado. Bien, intenté salvarla, pero no hubo forma. Finalmente tuve que dejarlo y correr, manteniéndolas a raya a base de pedradas durante todo el camino.}
 {126}{}{Bien, las cosas pintaban mal cuando me metí dentro de aquella cueva. Estaba seguro de que me iba a convertir en fiambre. Supuse que era su madriguera, pero tomé una antorcha y entré. Buf, era una cueva profunda. Y entonces fue cuando la vi.}
 {127}{}{Era una puerta enorme, del tipo de las que se ven en las viejas cintas de vídeo. Grande y hecha de acero. ¡Y en ella estaba grabado un enorme 13!}
-{128}{}{Sabía que lo había encontrado, la veta madre, el Refugio 13. Me senté allí mismo y preparé un mapa. Casi la palmo cuando salí de allí, enfrentado a las Garras mortales y después al sol del desierto sin agua.}
+{128}{}{Sabía que lo había encontrado, la veta madre, el Refugio 13. Me senté allí mismo y preparé un mapa. Casi la palmo cuando salí de allí, enfrentado a los sanguinarios y después al sol del desierto sin agua.}
 {129}{}{Con el tiempo llegué a Arenas Sombrías tambaleándome, casi muerto. Me llevaron al doctor y me parchearon, pero ese doctor me robó el mapa. Estoy seguro y eso es todo lo que tengo que decir.}
 {130}{}{(Continuar)}
 {131}{}{¡Maldita sea, es un hombre bueno y honesto, eso es lo que es! Los chicos me dejan cocinar aquí y si no fueras un cabeza de chorlito lo sabrías y sabrías respetar a tus mayores.}

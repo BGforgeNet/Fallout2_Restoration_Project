@@ -127,7 +127,7 @@
 {372}{}{I'm convinced, alright. Convinced that I've got to get out of this nuthouse.}
 {380}{}{I was just one of many normal rats in an advanced research lab. Then, one day, there were
  explosions. Our cages were broken open, and we were doused with some sort of fluid from a huge vat.}
-{381}{}{Then what?}
+{381}{}{Sen då?}
 {390}{}{I crawled outside. As I began to heal, I noticed that I had changed. I tried to communicate with
  people, but they all just tried to kill me. Humans are just too violent to survive under their own
  leadership -- but that's another story. The first step is to repair the reactor.}

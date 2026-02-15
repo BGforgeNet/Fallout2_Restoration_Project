@@ -55,7 +55,7 @@
 {205}{}{Vilse?}
 {206}{}{Come back anytime.}
 {207}{}{OK. Bye.}
-{208}{}{Yeah, right.}
+{208}{}{Ja, visst.}
 {209}{}{Whoo!}
 {210}{}{Vi ses.}
 {211}{}{Hej då.}
@@ -63,7 +63,7 @@
 {213}{}{It will cost $}
 {214}{}{ for a session. Pay first.}
 {215}{}{Follow me.}
-{216}{}{I'm waiting.}
+{216}{}{Jag väntar.}
 {217}{}{I'm not gonna stand here in this cold room all day.}
 {218}{}{Would you hurry up?}
 {219}{}{Last chance.}

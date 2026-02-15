@@ -29,7 +29,7 @@
 {225}{}{No estoy de buen humor. ¿Qué quieres?}
 {226}{}{¿Ya has vuelto? Supongo que querrás una copa?}
 {240}{}{Claro, guapo.}
-{241}{}{¿Qué es lo que quieres saber?}
+{241}{}{¿Qué te gustaría saber?}
 {242}{}{Me encantaría.}
 {243}{}{Por supuesto.}
 {244}{}{Claro.}

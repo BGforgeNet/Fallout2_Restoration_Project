@@ -62,7 +62,7 @@
 {205}{}{I don't associate with your kind.}
 {206}{}{Who let you in?}
 {207}{}{I don't know why they don't run you out of town.}
-{208}{}{Please leave me alone.}
+{208}{}{Snälla lämna mig ifred.}
 {209}{}{Don't bother me.}
 {210}{}{I can't help you. Go away.}
 {211}{}{Die in the desert, jerk.}

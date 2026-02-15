@@ -8,6 +8,7 @@
 
 #define SCRIPT_REALNAME "ectrader"
 #include "../headers/define.h"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_ECTRADER
 
@@ -84,9 +85,8 @@ procedure map_enter_p_proc begin
    if (not is_loading_game) then begin
       call ChooseItem;
 
-      restock_fix
-      if (local_var(LVAR_Restock_Time) < game_time) then begin
-         check_restock_item(local_var(LVAR_Item_Pid), 1, 5, 100));
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
+         check_restock_item(local_var(LVAR_Item_Pid), 1, 5, 100)
          set_local_var(LVAR_Restock_Time, (random(6,12) * ONE_GAME_DAY) + game_time);
       end
    end
