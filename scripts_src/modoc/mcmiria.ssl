@@ -643,7 +643,6 @@ procedure Node1100 begin
    // rejoin party after waiting
    if (rpu_msetting(set_miria_can_wait)) then begin
       if (dude_at_max_party_size) then begin
-         set_self_abandon_party;
          Reply(1520);
          NOption(g_mstr(10007), Node999, 001);
       end else begin
