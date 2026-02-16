@@ -336,7 +336,7 @@ procedure talk_p_proc begin
             did_node_14 := 0;
             start_gdialog(NAME,self_obj,4,-1,-1);
             gSay_Start;
-               if (Miria_In_Party) then begin
+               if ((Miria_In_Party) or (party_is_waiting)) then begin
                   call PARTY_NODE_X;
                end else begin
                   call Node000;
@@ -586,7 +586,12 @@ procedure Node1001 begin
 end
 procedure Node1002 begin
    // wait here
-   Reply(1500);
+   if (rpu_msetting(set_miria_can_wait)) then begin
+      set_party_waiting;
+      Reply(random(1501, 1505));
+   end else begin
+      Reply(1500);
+   end
    party_member_default_options;
 end
 procedure Node1003 begin
@@ -633,5 +638,16 @@ procedure Node1010 begin
    party_member_default_options;
 end
 procedure Node1100 begin
-   // doesn't use the rejoin cuz you can't get rid of them, but this node needs to be here
+   // rejoin party after waiting
+   if (rpu_msetting(set_miria_can_wait)) then begin
+      if (dude_at_max_party_size) then begin
+         set_self_abandon_party;
+         Reply(1520);
+         NOption(g_mstr(10007), Node999, 001);
+      end else begin
+         end_party_waiting;
+         Reply(random(1510, 1514));
+         party_member_default_options;
+      end
+   end
 end
