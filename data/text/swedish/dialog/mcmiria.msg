@@ -107,6 +107,17 @@
 {1300}{}{Well, I'm mostly healed -- but I could use more healing when we get a chance.}
 {1400}{}{I healed myself as much as I could but I'm still pretty badly hurt.}
 {1500}{}{No, baby; I wanna come with you.}
+{1501}{}{Visst, älskling. Jag väntar här.}
+{1502}{}{Okej, älskling, var bara försiktig där ute!}
+{1503}{}{Okej, jag väntar här på dig, hjärtat.}
+{1504}{}{Inga problem, sötnos. Jag stannar här.}
+{1505}{}{Jag väntar, men skynda dig tillbaka, älskling!}
+{1510}{}{Du är tillbaka! Jag saknade dig, älskling!}
+{1511}{}{Hej älskling, vad skönt att du kom tillbaka för mig.}
+{1512}{}{Där är du ju! Jag började bli orolig, sötnos.}
+{1513}{}{Hej hjärtat! Nu går vi!}
+{1514}{}{Min älskling är tillbaka! Kom igen, sötnos.}
+{1520}{}{Jag skulle följa med, men det ser ut som att du redan har för många med dig, älskling.}
 {1600}{}{Sure thing, I'll put it away.}
 {1700}{}{}
 {1800}{}{No, no, sweet pea. I need to be close to you.}

@@ -107,6 +107,17 @@
 {1300}{}{Well, I'm mostly healed -- but I could use more healing when we get a chance.}
 {1400}{}{I healed myself as much as I could but I'm still pretty badly hurt.}
 {1500}{}{No, baby; I wanna come with you.}
+{1501}{}{Sure thing, baby. I'll be right here.}
+{1502}{}{OK baby, just be careful out there!}
+{1503}{}{Alright, I'll wait right here for you, honey.}
+{1504}{}{No problem, sugar. I'll stay put.}
+{1505}{}{I'll wait, but hurry back, lover!}
+{1510}{}{You're back! I missed you, baby!}
+{1511}{}{Hey lover, glad you came back for me.}
+{1512}{}{There you are! I was starting to worry, pooky.}
+{1513}{}{Hey honey! Let's get going!}
+{1514}{}{My baby is back! Let's go, sugar.}
+{1520}{}{I'd come with you, but it looks like you've got too many people with you already, baby.}
 {1600}{}{Sure thing, I'll put it away.}
 {1700}{}{}
 {1800}{}{No, no, sweet pea. I need to be close to you.}
