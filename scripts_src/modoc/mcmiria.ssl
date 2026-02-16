@@ -277,6 +277,8 @@ procedure critter_p_proc begin
             end
 //         end //comment out by killap
       end
+   end else if (party_is_waiting) then begin
+      // do nothing - stay in place when waiting
    end else begin
       if (self_can_see_dude) then begin
          if ((local_var(LVAR_Hostile) != 0) or (dude_enemy_modoc)) then begin
