@@ -90,6 +90,17 @@ y te sientas aquí conmigo?}
 {1300}{}{Bueno, estoy casi curada pero cuando tengamos la oportunidad me vendría bien algo más de atención médica.}
 {1400}{}{Me he curado todo lo que he podido pero sigo bastante malherida.}
 {1500}{}{No, cariño; quiero ir contigo.}
+{1501}{}{Claro, cariño. Me quedaré aquí.}
+{1502}{}{Vale, cariño, sólo ten cuidado ahí fuera.}
+{1503}{}{De acuerdo, te esperaré aquí, querida.}
+{1504}{}{No hay problema, azucarito. Me quedaré aquí.}
+{1505}{}{Esperaré, pero vuelve pronto, amorcito.}
+{1510}{}{¡Has vuelto! Te he echado de menos, cariño.}
+{1511}{}{Eh, amor, me alegro de que hayas vuelto por mí.}
+{1512}{}{¡Ahí estás! Ya empezaba a preocuparme, tesoro.}
+{1513}{}{¡Eh, querida! ¡Vámonos!}
+{1514}{}{¡Mi cariño ha vuelto! Vamos, azucarito.}
+{1520}{}{Iría contigo, pero parece que ya llevas demasiada gente contigo, cariño.}
 {1600}{}{Sí, lo dejaré a un lado.}
 {1700}{}{}
 {1800}{}{No, no, mi dulcecito. Necesito estar cerca de ti.}

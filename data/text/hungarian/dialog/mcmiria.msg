@@ -91,6 +91,17 @@
 {1300}{}{Ha úgy nézzük, tulajdonképpen meggyógyultam... persze ha van rá lehetőség, nem ártana még némi gyógykezelés.}
 {1400}{}{Amennyire tudtam, próbáltam magam ellátni, de még mindig rossz bőrben vagyok.}
 {1500}{}{Nem, kicsim. Veled akarok menni.}
+{1501}{}{Persze, bébi. Itt várlak.}
+{1502}{}{Rendben, bébi, csak légy óvatos odakint!}
+{1503}{}{Jó, itt várok rád, drágám.}
+{1504}{}{Semmi gond, édesem. Itt maradok.}
+{1505}{}{Várok, de siess vissza, kedvesem!}
+{1510}{}{Visszajöttél! Hiányoztál, bébi!}
+{1511}{}{Szia, kedvesem, örülök, hogy visszajöttél értem.}
+{1512}{}{Végre itt vagy! Már kezdtem aggódni, cicabogár.}
+{1513}{}{Szia, drágám! Induljunk!}
+{1514}{}{Visszajött a bébim! Gyerünk, édesem.}
+{1520}{}{Mennék veled, de úgy tűnik, már túl sokan vannak veled, bébi.}
 {1600}{}{Hát hogyne, elteszem...}
 {1700}{}{}
 {1800}{}{Nem, nem, tündérbogár. Közel akarok lenni hozzád.}

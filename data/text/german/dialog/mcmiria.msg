@@ -90,6 +90,17 @@
 {1300}{}{Ich bin so gut wie geheilt, aber ich könnte noch 'n bisschen Heilung brauchen, wenn wir dazu kommen.}
 {1400}{}{Ich hab mich so gut wie möglich selber geheilt, aber ich bin noch in ziemlich schlechter Verfassung.}
 {1500}{}{Nein, Baby, ich will mitkommen.}
+{1501}{}{Klar, Baby. Ich warte hier.}
+{1502}{}{OK, Baby, aber pass da draußen auf!}
+{1503}{}{Alles klar, ich warte hier auf dich, Schnuckelchen.}
+{1504}{}{Kein Problem, Zuckerschnute. Ich bleib hier.}
+{1505}{}{Ich warte, aber komm schnell zurück, Liebling!}
+{1510}{}{Du bist zurück! Ich hab dich vermisst, Baby!}
+{1511}{}{Hey, Liebling, schön dass du wieder da bist.}
+{1512}{}{Da bist du ja! Ich hab mir schon Sorgen gemacht, Schnuckelchen.}
+{1513}{}{Hey, Spatzl! Los geht's!}
+{1514}{}{Mein Baby ist wieder da! Los, Schnuckelchen.}
+{1520}{}{Ich würd ja mitkommen, aber du hast wohl schon zu viele Leute dabei, Baby.}
 {1600}{}{Klare Sache, ich tu's weg.}
 {1700}{}{}
 {1800}{}{Nein, Schnuckelchen, ich muss ganz nah bei dir sein.}
