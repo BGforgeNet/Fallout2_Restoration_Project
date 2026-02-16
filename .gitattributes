@@ -14,6 +14,9 @@ data/text/tchinese/**   working-tree-encoding=cp950
 data/text/ukrainian/**  working-tree-encoding=cp1251
 data/text/vietnamese/**     working-tree-encoding=cp1258
 
+# Keep review/update files as UTF-8 in the working tree.
+data/text/**/*.utf8.msg     working-tree-encoding=UTF-8
+
 data/ai.txt             linguist-language=ini
 data/aibdymsg.txt       linguist-language=ini
 data/aigenmsg.txt       linguist-language=ini
