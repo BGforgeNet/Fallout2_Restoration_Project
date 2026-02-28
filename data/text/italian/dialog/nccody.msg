@@ -94,5 +94,5 @@
 {1282}{}{ ! Dove?! Dove?! Portare me! Portare me! Preeeeego? Tu fare? Eh?}
 {1283}{}{ essere ...oh, guarda! Un luccichino! (Allontanati.)}
 {1293}{}{e la macchina di }
-{2204}{}{ car?}
+{2204}{}{ auto?}
 {2293}{}{si scambieranno quattro parole dall'altra parte della strada.}

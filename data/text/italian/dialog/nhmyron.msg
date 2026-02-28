@@ -56,28 +56,28 @@
 {414}{}{Brillo piu' intensamente di New Reno a mezzanotte. Qualcuno ha un po' di RadAway?}
 {415}{}{Perfetto. Un po' di radiazioni, e divento subito una torcia umana.}
 {416}{}{Fatemi tenere il RadAway. Non lo usero' tutto. Prometto.}
-{425}{}{Why don't we go back to the first level of the dungeon where all the kobolds are?}
-{426}{}{Good thing playing D&D all those years taught me a few things about courage.}
-{427}{}{Pass the Buffout. I think I'm going to need it soon.}
-{428}{}{Great place. Great place to visit. How about we keep our stay short?}
-{429}{}{Oh, this is MUCH better than being in some cozy whorehouse.}
-{430}{}{Let's get in, get out, all right?}
-{431}{}{How about we visit this place later?}
-{432}{}{Why the hell are we here?}
-{433}{}{This place ain't doing much for my morale.}
+{425}{}{Perche' non ce ne torniamo al primo livello del dungeon dove ci sono solo i coboldi?}
+{426}{}{Per fortuna tutti quegli anni passati a giocare a D&D mi hanno insegnato qualcosa sul coraggio.}
+{427}{}{Passami del Buffout. Credo mi servira' molto presto.}
+{428}{}{Gran bel posto da visitare... Gran bel posto davvero. Cosa ne diresti di andarcene il piu' presto possibile?}
+{429}{}{Oh, questo e' MOLTO meglio che starsene in un accogliente bordello!}
+{430}{}{Entriamo e usciamo, d'accordo?}
+{431}{}{Cosa ne diresti di visitarlo piu' tardi, questo posto?}
+{432}{}{Perche' diavolo siamo qui?}
+{433}{}{Questo posto non aiuta molto il mio morale.}
 {434}{}{Dico di mandare il buon vecchio Osso-al-Naso a esplorare la zona. Da solo.}
 {435}{}{Perche' non mandiamo avanti il buon vecchio Osso-al-Naso a esplorare la zona?}
 {445}{}{Perche' non mandiamo avanti il buon vecchio Marcus a esplorare la zona?}
 {446}{}{Dico di mandare avanti il buon vecchio Marcus. Da solo.}
-{447}{}{Pass the Buffout. I think I'm going to need it soon.}
-{448}{}{Why don't we go back to the first level of the dungeon where all the kobolds are?}
-{449}{}{Good thing playing D&D all those years taught me a few things about courage.}
-{450}{}{Great place. Great place to visit. How about we keep our stay short?}
-{451}{}{Oh, this is MUCH better than being in some cozy whorehouse.}
-{452}{}{Let's get in, get out, all right?}
-{453}{}{How about we visit this place later?}
-{454}{}{Why the hell are we here?}
-{455}{}{This place ain't doing much for my morale.}
+{447}{}{Passami del Buffout. Credo mi servira' molto presto.}
+{448}{}{Perche' non ce ne torniamo al primo livello del dungeon dove ci sono solo i coboldi?}
+{449}{}{Per fortuna tutti quegli anni passati a giocare a D&D mi hanno insegnato qualcosa sul coraggio.}
+{450}{}{Gran bel posto da visitare... Gran bel posto davvero. Cosa ne diresti di andarcene il piu' presto possibile?}
+{451}{}{Oh, questo e' MOLTO meglio che starsene in un accogliente bordello!}
+{452}{}{Entriamo e usciamo, d'accordo?}
+{453}{}{Cosa ne diresti di visitarlo piu' tardi, questo posto?}
+{454}{}{Perche' diavolo siamo qui?}
+{455}{}{Questo posto non aiuta molto il mio morale.}
 {456}{}{Mandiamo avanti il buon vecchio Lenny a esplorare questa zona. Da solo.}
 {457}{}{Perche' non mandiamo il vecchio Lenny a esplorare questa zona?}
 {465}{}{Ehi, grazie. Avevo proprio bisogno di tirarmi su.}
@@ -198,7 +198,7 @@
 {683}{}{Ho gia' capito dove andremo a finire. Lasciamo perdere, Myron.}
 {690}{myn109}{Ah, Cristo. Beh... quando mi sono imbattuto nella famiglia Mordino, tempo fa, coltivavano dei cactus di peyote e cercavano di venderli ai turisti con il nome di "Reno experience". Che stronzata.}
 {691}{}{Continua.}
-{692}{}{Forget this. I had some other questions...}
+{692}{}{Lasciamo perdere. Avrei delle altre domande...}
 {693}{}{Fa' come se non te l'avessi chiesto.}
 {700}{myn110}{Voglio dire: peyote? Maddai. Non ha nemmeno la meta' della forza del, diciamo, vecchio LSD.}
 {701}{}{Uh, e il Jet...?}
@@ -261,7 +261,7 @@
 {882}{}{Myron, sei piu' infimo dell'ombra di un serpente. Uccidere degli esseri umani per testare delle droghe... e' la cosa piu' disumana che abbia mai sentito.}
 {883}{}{Myron, hai ucciso piu' di cento esseri umani per testare delle droghe? Ti hanno per caso lobotomizzato la coscienza quando eri piccolo?}
 {884}{}{Non parlarmene. I prezzi degli schiavi continuano a salire. Se solo gli esseri umani potessero riprodursi piu' rapidamente. A parte questo, ho delle altre domande...}
-{885}{}{I... see. Look, I had some other questions...}
+{885}{}{Capisco. Senti, ho delle altre domande...}
 {886}{}{Credo di aver sentito abbastanza.}
 {887}{}{Oh, beh, QUESTO mette tutto a posto, allora. Ho sentito abbastanza. Me ne vado.}
 {890}{myn128}{Te la stai prendendo con me per un gruppo di schiavi? Ehi, dovevamo essere sicuri che il Jet non uccidesse i nostri clienti.}
@@ -322,7 +322,7 @@
 {1050}{myn145a}{Uhm, mi serviranno delle sacche velenifere di radscorpione. Ironico, non trovi?}
 {1051}{myn145b}{Oh, beh, mi piacerebbe taaaaanto farlo, bellezza, ma mi servono code di radscorpione. Oh, beh.}
 {1052}{}{Puoi fabbricare qualche altro tipo di medicinali?}
-{1053}{}{Forget it then. I had some questions...}
+{1053}{}{Lasciamo stare. Ho delle altre domande...}
 {1060}{myn146a}{Hmmm, non dovrebbe essere troppo difficile. Quante bottiglie di antidoto vuoi?}
 {1061}{myn146b}{Ah, perdindirindina. Hai mai pensato che forse sarebbe meglio stare a debita distanza da quei cazzo di scorpioni, genio? Quanto ne vuoi questa volta?!}
 {1062}{myn146c}{Qualsiasi cosa per te, bellezza. Eh-ah! Quanto ne vuoi?}
@@ -337,7 +337,7 @@
 {1085}{}{Grazie. Senti, avrei delle domande...}
 {1086}{}{Grazie, Myron. Sei davvero gentile.}
 {1095}{myn148}{Mi spiace, mi mancano le "materie prime" necessarie... e nemmeno vorrei procurarmele, a dire il vero.}
-{1097}{}{Forget it then. I had some other questions...}
+{1097}{}{Lasciamo perdere. Avrei delle altre domande...}
 {1098}{}{D'accordo. Grazie mille, Myron.}
 {1105}{myn149a}{Facilissimo. Quante dosi vuoi?}
 {1106}{myn149b}{Ehi, genio. Non ti e' mai passato per la mente che sarebbe piu' semplice starsene fuori dai guai, eh? OK, quanti?}
@@ -460,7 +460,7 @@
 {1466}{myn224b}{Non affaticare il tuo piccolo cervellino con questo pensiero, bellezza. Posso darti qualcos'altro da fare con la testa.}
 {1467}{}{Sei felice qui?}
 {1468}{}{Certo, immagino che a un idiota come me non si chieda di capire il processo di produzione di un ibrido allucinogeno-anfetamina come il Jet, eh?}
-{1469}{}{Yeah, I guess a bimbo like me couldn't be expected to understand the process of manufacturing a hallucinogenic-amphetamine hybrid like Jet, huh?}
+{1469}{}{Certo, immagino che a una sciacquetta come me non si chieda di capire il processo di produzione di un ibrido allucinogeno-anfetamina come il Jet, eh?}
 {1472}{}{Credo che resterai sorpreso dalla quantita' di cose che so a proposito del tuo ibrido allucinogeno-anfetamina da quattro soldi. Non sono nemmeno tanto sicuro che un bambino come te non l'abbia scoperto PER CASO, Myron.}
 {1473}{}{Beh, grazie per aver fatto un tentativo, Myron. Adesso devo andare.}
 {1485}{myn225}{Abbastanza. Mi danno troie, soldi, droga. Un laboratorio privato. La liberta' creativa che mi serve per creare magie, ma, beh... no, naaa, e' una bella roba.}
@@ -498,7 +498,7 @@
 {1550}{}{D'accordo, allora. Avrei delle altre domande...}
 {1551}{}{Un modo di pensare davvero illuminato... Ci pensero', Myron.}
 {1552}{}{No, vale almeno il doppio di te. A dopo, ragazzo.}
-{1553}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
+{1553}{}{Ragazzo, il tuo ego ha appena firmato un assegno che il tuo corpo non puo' pagare. Preparati a morire.}
 {1554}{}{Lo farebbero, invece! Vedrai.}
 {1555}{}{Sei tu quello che ci perde, Myron. A dopo.}
 {1565}{myn231}{Davvero? Sto ascoltando...}
@@ -548,7 +548,7 @@
 {1675}{myn240}{Certo che ne fai di dannate domande. La risposta e' si', forse... dimmi, do-dove hai imparato tutte queste robe? Vieni da Vault City o una cosa simile?}
 {1676}{}{Per rispondere alla tua domanda: si'... FORSE. Dov'e' che TU hai imparato tutte queste cose?}
 {1677}{}{Non esattamente. Queste cose le ho scoperte da solo. E' abbastanza semplice, davvero.}
-{1678}{}{No. Look, I had some other questions...}
+{1678}{}{Oh. Senta, ho delle altre domande...}
 {1679}{}{Vault City. Dove si trova?}
 {1680}{}{Ti lascero' con questo interrogativo. Mi hai gia' detto tutto quello che mi serviva sapere.}
 {1685}{myn241a}{Dai, continua pure a fare il gradasso, sapientone. Potrei ossidare cerchi intorno a te. Sono un genio nato. Un autodidatta. Non ho niente a che fare con quell'atteggiamento da stronzi 'santerellini' di Vault City, capito?}
@@ -604,7 +604,7 @@
 {1844}{}{Vabbe'. Adesso andiamo.}
 {1845}{}{Se si trattasse solo della puzza, potrei anche sopportarla. Andiamo.}
 {1860}{myn232a}{D'accordo.}
-{1863}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
+{1863}{}{Ragazzo, il tuo ego ha appena firmato un assegno che il tuo corpo non puo' pagare. Preparati a morire.}
 {1866}{}{Andiamo.}
 {1870}{}{Me sente strano ora.}
 {1875}{}{Hai convinto Myron della possibile esistenza di una cura.}
@@ -650,7 +650,7 @@
 {6208}{}{?}
 {6218}{}{ andare}
 {6226}{}{ UCCIDE}
-{6247}{}{'s fren?}
+{6247}{}{e tu amici?}
 {6256}{}{ beve}
 {6257}{}{ amico?}
 {6287}{}{ va.}

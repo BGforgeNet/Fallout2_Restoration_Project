@@ -1,5 +1,5 @@
-{100}{}{You see a drug dealer.}
-{101}{}{You see a drug dealer.}
+{100}{}{Vedi uno spacciatore di droga.}
+{101}{}{Vedi uno spacciatore di droga.}
 {102}{}{If you are looking to deal, I got the stuff.}
 {103}{}{Sure, show me.}
 {104}{}{Magari un'altra volta.}

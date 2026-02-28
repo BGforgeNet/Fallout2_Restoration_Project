@@ -1,1 +1,1 @@
-{100}{}{The map seems to show some raider encampment in the east. You log it on your Pip-Boy.}
+{100}{}{Questa mappa sembra indicare un accampamento di predoni ad est. La registri nel tuo PipBoy.}

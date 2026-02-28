@@ -15,7 +15,7 @@
 {114}{}{Non ho richiesto alcun intervento armato.}
 {115}{}{Benvenuto nei laboratori della Divisione Chimica, soldato. Io sono il Ten. Col. Dr. Charles Curling. Adesso che ci siamo presentati - fila via dal mio laboratorio.}
 {116}{}{Io non sono chi lei pensa. Mi chiamo }
-{117}{}{ from Arroyo and we've got something to talk about.}
+{117}{}{ , vengo da Arroyo e noi due abbiamo qualcosa di cui parlare.}
 {118}{}{Mi scusi, signore. Errore mio. Buona giornata.}
 {119}{}{Seguite tutti le procedure d'emergenza.}
 {120}{}{Fuori dai piedi!}

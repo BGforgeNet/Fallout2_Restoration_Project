@@ -207,7 +207,7 @@
 {1176}{}{! Raccontaci la storia dell'Enclave! Daaaaaaaai?}
 {1177}{}{! Yaaaaay!}
 {1178}{}{!}
-{1181}{}{ when I grow up.}
+{1181}{}{ quando saro' grande.}
 {1296}{}{: quando sarai grande potrai diventare TUTTO cio' che vuoi.}
 {1310}{}{. Non ti dimentichero' MAI.}
 {1311}{}{ si sente meglio. Me felice me salvato voi}

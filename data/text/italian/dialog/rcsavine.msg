@@ -41,7 +41,7 @@
 {140}{}{Lascia che ti chieda qualcos'altro.}
 {141}{}{Grazie, lo faro'. Arrivederci.}
 {142}{}{Di solito cerchiamo sempre guardie per la carovana, ma adesso non siamo ancora pronti per partire. Lasceremo la citta' il giorno 21 di questo mese. Torna per allora se vuoi il lavoro.}
-{143}{}{Why on the 21st?}
+{143}{}{A che ora del 21?}
 {144}{}{Che cosa trasporta la carovana?}
 {145}{}{Okay, grazie. Arrivederci.}
 {146}{}{Sai, amico... bisogna sapere quando dire no. E *io* so quando dirlo. Per cui... NO!}

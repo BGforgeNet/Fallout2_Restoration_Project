@@ -1,5 +1,5 @@
 {150}{}{Vedi un uomo con gli abiti spiegazzati. Si sta strofinando il naso e si guarda attorno furtivamente.}
-{151}{}{You see a drug dealer.}
+{151}{}{Vedi uno spacciatore di droga.}
 {152}{}{Vedi uno spacciatore. Sembra sia in cerca di clienti.}
 {200}{}{Ehi, eroe! Che ne diresti di celebrare la vittoria con un po' di Jet? Vieni qua!}
 {201}{}{Sei stato grande a spaccare il culo all'Enclave, eroe! Adesso che ne diresti di venire qua e celebrare la vittoria con un po' di Jet?}

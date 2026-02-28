@@ -70,8 +70,8 @@
 {308}{}{Er, prof... prof-i-ter...? Eh, beh, credo che ne abbiamo usato uno... qualunque cosa sia. Sa una cosa? Credo che andro' subito a controllare.}
 {309}{}{Cioe', un goldone? Certo che l'abbiamo usato. Credo. Voglio dire, sono abbastanza sicuro. Forse farei meglio ad andare subito a controllare.}
 {315}{}{"}
-{316}{}{(Frowns.) A simple traveler. How remarkably open and trusting of you. And what, pray
- tell, do you think I can do for you, "simple traveler?"}
+{316}{}{(Accigliandosi.) Un semplice viaggiatore. Come mai cosi' aperto e fiducioso. 
+E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {321}{}{Nulla, grazie. Devo proprio andare.}
 {325}{}{So dove potresti trovare *un* Kit di Creazione... ma non ti sara' molto utile. E' gia' stato usato.}
 {326}{}{Dov'e' questo Kit di Creazione del Giardino dell'Eden?}

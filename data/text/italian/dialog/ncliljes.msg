@@ -9,7 +9,7 @@
 {230}{}{Hai proprio un bel pezzo di artiglieria, }
 {240}{}{Perche' ti muovi come una faina, eh, }
 {250}{}{Come butta, }
-{251}{}{Heeey... }
+{251}{}{Ehi... }
 {252}{}{Caaaaa-zzo, e' bollente.}
 {253}{}{Ehi! 'zzo hai fatto di bello, }
 {254}{}{Mi fa piacere vederti, }
@@ -172,7 +172,7 @@
 {820}{}{Il nome del ragazzo e' Myron. Per quanto riguarda il DOVE si trova, questa e' una cosa che non ti serve sapere.}
 {821}{}{Il nome del ragazzo e' Myron. L'abbiamo sistemato giu' alle Stalle, a nord della citta', a sperimentare nuove droghe. Puoi andare a trovarlo, se vuoi, ma e' molto occupato... sia con le droghe che con le donne.}
 {822}{}{Perche' non ti fai furbo e non me lo dici lo stesso?}
-{823}{}{Got it. I had some other questions...}
+{823}{}{Lasciamo perdere. Avrei delle altre domande...}
 {824}{}{Myron, eh? D'accordo, allora. Grazie per la chiacchierata, Jesus.}
 {840}{}{Il Desperado e' il posto giusto, homes. Abbiamo il Jet, i giochi, il divertimento... e abbiamo tutte le putas che ti servono proprio qua fuori, calde e vogliose. Il Paradiso, homes. Il Pa-ra-di-so.}
 {841}{}{Il Desperado e' il posto giusto, chica. Abbiamo il Jet, i giochi, il divertimento. Non hai bisogno di andare da nessun'altra parte. }
@@ -187,7 +187,7 @@
 {862}{}{Provaci, PICCOLO Jesus e vediamo cosa succede.}
 {863}{}{Provaci, e aggiungero' talmente tante cicatrici alla tua faccia da farti assomigliare ad un puzzle.}
 {864}{}{Calmati... stavo solo scherzando.}
-{865}{}{Chill. I had some other questions...}
+{865}{}{Oh. Avrei delle altre domande...}
 {867}{}{Me ne vado. E' stato bello parlare con una persona raffinata come te.}
 {880}{}{Ah! Okay, chica. Okay. Lil' Jesus ti terra' d'occhio... e davvero non potrei fare altrimenti. Cosa posso fare per te?}
 {881}{}{La prima cosa che potresti fare per me e' tenere i tuoi occhi al loro posto, PICCOLO Jesus. Preferirei baciare un porcospino piuttosto che toccare quell'ammasso di crateri che tu chiami faccia.}
@@ -225,7 +225,7 @@
 {951}{}{Oh, davvero? Beh, i Mordino sono i maggiori fornitori di Jet a New Reno. Cio' vi rende i maggiori indiziati in casi come questo.}
 {952}{}{Non ti credo. Penso che tu SIA il responsabile. Tu e il resto dei Mordino.}
 {953}{}{Chi pensate possa averlo fatto?}
-{954}{}{Okay... look, I had some other questions...}
+{954}{}{Oh. Senta, ho delle altre domande...}
 {955}{}{D'accordo. Chiedevo solo.}
 {965}{}{(Sgrana gli occhi.) Ascolta, non ho NIENTE a che fare con la morte di quel ragazzo. Non so cosa tu abbia sentito dire in giro, ma se avessi voluto ucciderlo, l'avrei fatto a fette con il mio coltello; non l'avrei mai fatto sballare a morte con il Jet, capito?}
 {966}{}{Certo... e con cio'? Non significa che l'abbiamo FATTO. Quell'idiota s'e' fatto troppa roba in un colpo solo. Non mi dispiace che sia morto. E se il vecchio Wright comincia a fare storie, lo sotterreremo proprio accanto a quel tossico di suo figlio.}
@@ -275,7 +275,7 @@
 {1054}{}{Ti daro' cento dollari.}
 {1055}{}{Ti daro' duecento dollari.}
 {1056}{}{Anche il mio modo di fare all'amore e' molto artistico. Che ne diresti di scambiarci le nostre conoscenze?}
-{1058}{}{Actually, I had some questions...}
+{1058}{}{Veramente, avrei delle altre domande...}
 {1059}{}{Un'altra volta, allora... quando avro' abbastanza soldi da farti cambiare idea.}
 {1060}{}{Magari un'altra volta, grazie.}
 {1070}{}{Hmmmmm. 200 e siamo d'accordo.}
@@ -306,7 +306,7 @@
 {5256}{}{?}
 {5257}{}{. Vieni con noi?}
 {5271}{}{. Abbassa la cresta e smamma, o preparati al peggio.}
-{5273}{}{s fuck with us, you'll be wormfood. Get outta here!}
+{5273}{}{non provate a fare i furbi con noi, o diventerete cibo per vermi. Vattene da qui!}
 {5276}{}{? Ha appena finito di baciarmi il culo e se n'e' andata. Faresti meglio ad andartene anche tu.}
 {5280}{}{, faresti meglio ad andartene.}
 {5320}{}{? Con quel gancio destro che ti ritrovi, dovresti camminare a testa alta.}
@@ -322,6 +322,6 @@
 {5542}{}{! Il vecchio combattente! Cavoli, sei forte!}
 {5543}{}{! La terribile chica combattente! Sei grande, chica!}
 {5560}{}{? }
-{6035}{}{'s hand No TOUCH }
+{6035}{}{No TOCCARE mano di }
 {7035}{}{'s hand }
 {8035}{}{ NO PIACE}

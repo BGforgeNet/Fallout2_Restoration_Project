@@ -56,7 +56,7 @@
 {309}{}{Tipo vendere droga al figlio di Wright?}
 {310}{}{Torna a fare quello che stavi facendo.}
 {320}{}{(Renesco ti fissa. Sembra che ti stia spogliando lentamente, e poi che ti stia strappando gli arti ad uno ad uno.)}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{Come non detto, allora. Avrei delle altre domande...}
 {322}{}{Lasciamo perdere, allora.}
 {330}{}{(Renesco ti guarda disgustato.) Si'. Nel NEGOZIO. Non siamo nel 20esimo secolo, dove la droga erano venduta agli angoli delle strade da pidocchi che vivevano nel terrore delle autorita'.}
 {331}{}{Bene, allora -}
@@ -163,7 +163,7 @@
 {632}{}{Mi sembri proprio un uomo acculturato. Hai mai sentito parlare di un GECK o di un posto chiamato Vault 13?}
 {634}{}{Nulla, non importa.}
 {640}{}{(Renesco ti strappa gli occhiali dalle mani e li indossa. I suoi occhi si spalancano.) Santissima Reno! Dunque e' QUESTO l'aspetto di 'sto dannato negozio. (Aggrotta le sopracciglia) Che casino... e cosa c'e' sopra gli scaffali? Sembra merda di brahmin.}
-{641}{}{You're welcome...}
+{641}{}{Di nulla...}
 {642}{}{Divertiti.}
 {650}{}{Hmpphh! Io...hmmm...ehm...dove li hai presi questi?}
 {651}{}{Beh, vedi, c'era questo piccolo radscorpione e c'era questo scienziato che lo stava addestrando e...sai una cosa? Anch'io stento a crederci. Tieniteli e basta, ok?}

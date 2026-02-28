@@ -202,7 +202,7 @@
 {5277}{}{! Raccontaci la storia dell'Enclave! Daaaaaaaai?}
 {5278}{}{! Yaaaaay!}
 {5279}{}{!}
-{5282}{}{ when I grow up.}
+{5282}{}{ quando saro' grande.}
 {5321}{}{ giocareee?}
 {5334}{}{ vuole essere incesto!}
 {5353}{}{ no piace gridare.}

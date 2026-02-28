@@ -5,7 +5,7 @@
 {104}{}{Oooh. Pelosetti.}
 {105}{}{Pelosi belli.}
 {106}{}{Ah, capisco. Devi essere nuovo di qui. Bene, ascoltami. Piazzero' una scommessa speciale per te, durante gli incontri di domani. Che ne dici, vuoi che lo faccia?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse)}
+{107}{}{(Annuisci) Ook, ook. (e le porgi il portamonete).}
 {108}{}{Mook? Gaga. Ciao pelosetti.}
 {109}{}{Bravo. Torna qui domani e se la tua creatura ha vinto il suo incontro, io ti daro' i tuoi soldi. Okay?}
 {110}{}{OK, ottima mossa. Faro' in modo di piazzare una scommessa davvero speciale, con questi. Ci vediamo.}

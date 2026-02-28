@@ -1,4 +1,4 @@
-{100}{}{You see... Sheb.}
+{100}{}{Vedi...Sheb.}
 {150}{}{Vedi un uomo magro che indossa degli abiti azzurri. Come se i suoi vestiti non fossero gia' abbastanza appariscenti, si sta pure spremendo i polmoni a furia di urlare.}
 {200}{}{Passere, passere, pas-se-re!}
 {201}{}{Venite, amanti delle belle passere!}

@@ -71,7 +71,7 @@
 {261}{}{Ti prego, lasciami in pace. Ce l'ho gia', un padrone.}
 {262}{}{Ti prego: hai visto due bambini con i capelli scuri...? Due anni fa sono stati presi da altri schiavisti e sono stati venduti a nord.}
 {263}{}{Ti prego... non mi e' permesso parlare con nessuno.}
-{264}{}{Please... let me be. My master will be back soon.}
+{264}{}{Ti prego... lasciami in pace. Il mio padrone tornera' presto.}
 {265}{}{Se il mio padrone mi becca a parlare con uno schiavista, verro' picchiato.}
 {266}{}{Ho gia' una padrona. Non sara' contenta se continui a parlare con me.}
 {267}{}{Non posso parlare con lei. Ho del lavoro da fare.}
@@ -88,7 +88,7 @@
 {287}{}{Se il mio padrone mi becca a parlare con te, verro' picchiato.}
 {288}{}{Il mio padrone e' buono. Non mi picchia molto spesso.}
 {289}{}{Non mi manca la mia famiglia. Il mio padrone e' gentile.}
-{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
+{290}{}{Sono stato preso da un villaggio tribale a nord di qui. La vita e'... molto migliore qui.}
 {291}{}{Mi hanno catturato al Den.}
 {292}{}{Non posso parlare con lei. Ho del lavoro da fare.}
 {293}{}{Devo finire le mie mansioni prima che torni il mio padrone.}

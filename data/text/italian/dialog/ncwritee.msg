@@ -12,7 +12,7 @@
 {200}{}{::Cheers::}
 {201}{}{::Applaude::}
 {202}{}{::Fischia::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
+{203}{}{(Canta.) "We don't need another hero, we don't need to know the way home..."}
 {204}{}{Ehi! }
 {205}{}{Sei stato grande a distruggere l'Enclave, }
 {206}{}{Devi essere piu' tosto di Tommy the Balls per aver distrutto l'Enclave a quel modo.}
@@ -58,7 +58,7 @@
 {299}{}{Quel mutante fara' bene a stare attento, quando si trova da queste parti... hai capito?}
 {305}{}{Cosa vuoi?}
 {306}{}{Posso aiutarti?}
-{307}{}{Damn hot...}
+{307}{}{Cazzo che caldo...}
 {308}{}{New Reno diventa piu' brutta ogni giorno che passa...}
 {309}{}{Che cosa ci fai da queste parti?}
 {310}{}{Se sei in cerca di alcolici, dirigiti alla stazione dei treni nella zona nord'... qui non li vendiamo.}
@@ -78,7 +78,7 @@
 {340}{}{Papa' dice che sarebbe pronto a strangolarci se dovesse venire a sapere che prendiamo il Jet.}
 {341}{}{Papa' e' ancora arrabbiato, quindi fa' attenzione quando parli con lui, okay?}
 {342}{}{Chris si becchera' una bella punizione se continua a intrufolarsi nel bordello.}
-{343}{}{Damn hot...}
+{343}{}{Cazzo che caldo...}
 {344}{}{E' da un po' che non vedo la mamma. Se la vedi, non dirle nulla a proposito dei distillatori, ok?}
 {345}{}{Keith ha smontato il piano, la settimana scorsa, e poi l'ha rimontato. E' un ragazzo sveglio.}
 {346}{}{Tra qualche giorno andremo ancora a caccia di radscorpioni.}
@@ -103,7 +103,7 @@
 {368}{}{Papa' dice che sarebbe pronto a strangolarci se dovesse venire a sapere che prendiamo il Jet.}
 {369}{}{Papa' e' ancora arrabbiato, quindi fa' attenzione quando parli con lui, okay?}
 {370}{}{Chris si becchera' una bella punizione se continua a intrufolarsi nel bordello.}
-{371}{}{Damn hot...}
+{371}{}{Cazzo che caldo...}
 {372}{}{Keith ha smontato il piano, la settimana scorsa, e poi l'ha rimontato. E' un ragazzo sveglio.}
 {373}{}{Tra qualche giorno andremo ancora a caccia di radscorpioni.}
 {374}{}{Ma quando fai sesso sul set, parli DAVVERO con Dio?}
@@ -139,8 +139,8 @@
 {1240}{}{. Cos'hai fatto di bello?}
 {1241}{}{?}
 {1242}{}{. Come vanno le cose?}
-{1245}{}{ family! And he's armed! Call the others!}
-{1250}{}{ family! And she's armed! Call the others!}
+{1245}{}{ famiglia! Ed e' armato! Chiamate gli altri!}
+{1250}{}{ famiglia! Ed e' armata! Chiamate gli altri!}
 {1255}{}{ che cerca di introdursi nella nostra proprieta'! Chiamate gli altri!}
 {1335}{}{? Ti sei azzuffato con qualcuno, giu' in citta'?}
 {1350}{}{, vero? Sei forte sul ring; il migliore che abbia mai visto da queste parti.}

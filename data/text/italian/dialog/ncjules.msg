@@ -104,7 +104,7 @@
 {463}{}{Me stare cercando... um. Me dimenticato ancora}
 {464}{}{-Allontanati-}
 {465}{}{Okay. Come puoi aiutarmi?}
-{466}{}{Well, I had some questions...}
+{466}{}{Beh, prima avrei delle domande...}
 {467}{}{Sai cos'e' successo al figlio del signor Wright, Jules?}
 {468}{}{Jules, hai visto la mia macchina? L'ho parcheggiata qui un attimo fa e adesso e' sparita.}
 {469}{}{Senti..."Jules", giusto? Tu ovviamente ti aspetti di ottenere qualcosa da questa conversazione, per cui vediamo di pareggiare il conto. TU, cosa stai cercando?}
@@ -115,8 +115,7 @@
 {481}{}{Eh... non sforzare il cervello, sorellina. Pensa solo a non farti male, capito?}
 {482}{}{Hi tee hi tee hi tee ho}
 {490}{}{Puoi avere QUALSIASI cosa ti serva, fratello. Se vuoi farti un trip, sballare, tuffarti in un turbine di lussuria, Jules conosce i luoghi dove ANDARE. La domanda e': io ho i tesori, TU cosa desideri?}
-{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOUR pleasure?}
+{491}{}{Qualunque siano i tuoi bisogni, Jules e' l'UOMO giusto, sorella. Se vuoi farti un trip, sballare, fare sesso, Jules conosce i luoghi dove ANDARE. La domanda e': io ho i tesori, TU cosa desideri?}
 {492}{}{Qualunque siano i tuoi bisogni, Jules e' l'UOMO giusto, dolce sorella. Se vuoi farti un trip, sballare, fare sesso, Jules conosce i luoghi dove ANDARE. La domanda e': io ho i tesori, TU cosa desideri?}
 {493}{}{Certamente, certamente... io ho i tesori, TU cosa desideri?}
 {494}{}{Puoi parlarmi un po' di New Reno?}
@@ -161,7 +160,7 @@
 {581}{}{Avrei delle domande su New Reno...}
 {582}{}{In realta', non mi interessa. Parleremo qualche altra volta.}
 {590}{}{(Alza due dita.) I Mordino sono una bestia con due teste, amico, ognuna delle quali porta il nome di Jesus Mordino.}
-{591}{}{Go on...}
+{591}{}{Continua...}
 {592}{}{Ho sempre sospettato che Gesu' avesse dei contatti con la malavita organizzata.}
 {594}{}{Torniamo alle altre famiglie.}
 {596}{}{In realta', non mi interessa. Grazie per aver parlato con me.}
@@ -234,8 +233,8 @@
 {946}{}{Ti do una dritta riguardo alle preoccupazioni dei Wright, schiavista.. vedi, gli Wright sono l'unica famiglia che e' DAVVERO una famiglia.}
 {947}{}{Sono una famiglia? Quanti sono?}
 {960}{}{Almeno venti o piu' Wright purosangue. Cattivi come cani e uno piu' brutto dell'altro.}
-{961}{}{Almost twenty or more true-blooded Wrights, and they don't take kindly to people in your line of work. Word is, they
- lost a sister way back when to a slaver, and they ain't liked slavers ever since.}
+{961}{}{Quasi venti o piu' Wright purosangue, e non sono molto gentili con le persone che fanno il tuo lavoro.
+Si dice che abbiano perso una sorella, tempo fa, per colpa di uno schiavista e da allora gli schiavisti non gli vanno molto a genio.}
 {962}{}{Cosa controllano gli Wright a New Reno?}
 {975}{}{Non hanno un casino'... per lo piu' producono alcol e lo vendono alle altre famiglie. Percio', se cerchi del liquore... Si trovano giu' nell'East Side in una grande magione.}
 {985}{}{Fratello, non ti serve cercare oltre: c'e' qui l'umile Jules che fa al caso tuo. }
@@ -256,8 +255,7 @@
 {1036}{}{Myron, eh? Dove posso trovarlo?}
 {1045}{}{(Si avvicina.) Beh, non vorrei dilungarmi troppo sul posto meno PIACEVOLE di New Reno, ma devi sapere che c'e' un posto, le "Stalle", a nord della citta'. Strettamente sorvegliato dalla famiglia Mordino. Ecco dove si trova Myron.}
 {1046}{}{Delle stalle fuori citta'?}
-{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
- was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
+{1055}{}{Yeah, i Mordino tengono il loro "golden boy" li' dentro, gli danno denaro, donne, tutto cio' che desidera affinche' continui a creare droghe. Il Jet e' il suo CAPOLAVORO. E' da secoli che non si vedeva una droga in grado di creare tanta dipendenza come questa. Ha davvero rivoltato Reno.}
 {1056}{}{Credi che potrei incontrare questo Myron?}
 {1065}{}{(Jules si blocca e inizia a studiarti, mentre i suoi occhi corrono su e giu' sul tuo corpo.)}
 {1066}{}{Jules? Ehila'? Ti ho chiesto se esiste un modo per incontrare Myron.}
@@ -280,7 +278,7 @@
 {1120}{}{Beh, dopo aver sentito questo, credo sia meglio che me ne vada.}
 {1121}{}{Che proprieta' di linguaggio. Quando parli, sei proprio un poeta - l'uso di "foglia d'insalata" denota la conoscenza di eccezionali figure retoriche. GRAZIE mille.}
 {1130}{}{Se tu fossi una bella donna, forse. Altrimenti, ti servirebbe prima il permesso dei Mordino. E' molto difficile che tu riesca a soddisfare una di queste condizioni.}
-{1132}{}{I see. Say, I had some other questions...}
+{1132}{}{Capisco. Avrei delle altre domande...}
 {1145}{}{Se vuoi delle armi, devi andare dal mio amico Eldridge nel West End. Ha di quelle robe che ti permetteranno di uccidere persone che non hai ancora nemmeno INCONTRATO. Digli che ti ho mandato io.}
 {1146}{}{Ho capito, fratello, ho capito. Se cerchi il meglio, fai un salto dal mio amico Eldridge nel West End. Ha di quelle robe che ti permetteranno di uccidere persone che non hai ancora nemmeno INCONTRATO. Digli che ti ho mandato io.}
 {1147}{}{Ho capito, sorella, ho capito. Se cerchi il meglio, fai un salto dal mio amico Eldridge nel West End. Ha di quelle robe che ti permetteranno di uccidere persone che non hai ancora nemmeno INCONTRATO. Digli che ti ho mandato io.}
@@ -347,7 +345,7 @@
 {1362}{}{...Ho visto alcuni tizi prendere la macchina non molto tempo fa. Ma erano in troppi e non potevo certo fermarli, capisci, e --}
 {1363}{}{Sta' zitto e portami dove sono andati. Subito.}
 {1364}{}{Non importa. Li cerchero' senza il tuo aiuto.}
-{1375}{}{Okay, okay...}
+{1375}{}{Okay, okay.}
 {1376}{}{A proposito... Jules? Se anche solo GUARDI nel modo sbagliato quel bambino al di la' della strada, tornero' per ucciderti talmente tante volte che dovrai redigere piu' di un testamento. Capito? Adesso fammi strada.}
 {1377}{}{Un'altra cosa, Jules: se anche solo dovessi sentir dire che hai trattato male Cody, io ti uccidero'. Adesso portami dove si trova la mia macchina.}
 {1378}{}{(Seguilo.)}
@@ -381,6 +379,6 @@
 {1486}{}{E "Jimmy J. lo Sfregiato"? Dove posso trovarlo?}
 {1487}{}{D'accordo...senti, avrei delle altre domande...}
 {1500}{}{Va' a dire a quello stronzo che se continua a dire queste stronzate, lo uccidero' IO prima che ci pensi il vecchio Wright. Sai che discorso e' questo? E' il discorso di un uomo che ha PAURA, ecco cos'e'.}
-{1501}{}{I see... say, I had some other questions...}
+{1501}{}{Capisco...avrei delle altre domande...}
 {1502}{}{Ho capito. Andro' a controllare.}
 {2000}{}{Quella e' una MACCHINA? Caaaaavoli.}

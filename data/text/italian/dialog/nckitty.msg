@@ -31,7 +31,7 @@
 {247}{}{Dipende... cosa c'e' sul menu?}
 {248}{}{Mi piacerebbe sistemare il mio amico con qualcosa di speciale.}
 {249}{}{Mi piacerebbe sistemare uno dei miei amici. E' il suo...uh, compleanno.}
-{250}{}{I'd like to ask you some questions...}
+{250}{}{Vorrei farvi alcune domande...}
 {251}{}{Veramente, ho cambiato idea. Dev'essere l'ansia da prestazione. Arrivederci.}
 {255}{}{Sono lusingata, ma...no. Non posso.}
 {256}{}{Aw, dai. Solo un drink. Nessuna pressione. Staremo benissimo.}
@@ -170,7 +170,7 @@
 {596}{}{no, non credo che potresti farcela. Forse se ti curassi un po' di piu', se ti rendessi piu'... presentabile... ma cosi' no. Mi dispiace.}
 {597}{}{si'... si', credo che andrai benissimo. Ti interessa davvero il lavoro? Tutte le altre mie ragazze sono... stufe.}
 {598}{}{Bene.}
-{599}{}{Hmmmph. I had some other questions...}
+{599}{}{Hmmm. Avrei delle altre domande...}
 {600}{}{No, ma potrebbe interessarmi piu' tardi. Avrei delle altre domande...}
 {610}{}{(Annuisce.) Magnifico. Uno degli uomini di Mordino dovrebbe farsi vivo a momenti. Se intanto vuoi sederti, ti presentero' come una delle... aspiranti.}
 {611}{}{D'accordo... aspettero'.}

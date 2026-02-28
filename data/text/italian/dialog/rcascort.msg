@@ -169,8 +169,7 @@
 {268}{}{Grazie. Lasci che le chieda qualcos'altro.}
 {269}{}{Magari faro' un salto lassu' e andro' a parlare con loro. Grazie, Sindaco. Arrivederci.}
 {270}{}{Ultimamente le nostre carovane d'oro hanno cominciato a subire dei ritardi perche' i minatori passano troppo tempo a "volare" con il Jet.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
- are up, and our exports are down. Bad for business all the way around.}
+{271}{}{Praticamente tutti i minatori passano piu' tempo a farsi di Jet che ad estrarre l'oro... per questo motivo i nostri prezzi sono saliti e le importazioni sono diminuite. Un periodo nero per gli affari, da tutti i punti di vista.}
 {272}{}{Tutti sono troppo fatti di Jet per lavorare con efficienza. L'estrazione d'oro e' calata del novanta percento e per questo siamo stati costretti ad aumentare i prezzi. Questa situazione non puo' durare.}
 {273}{}{Sembra che tutti abbiano preso una partita di Jet tagliata male. Tutti i Jet-tossici abituali hanno intrapreso una specie di massiccia disintossicazione. Non so cosa sia successo, ma credo che le cose andranno per il meglio.}
 {274}{}{Le cose sono tornate quasi alla normalita'. Tutti quelli che subivano gli effetti del Jet stanno guarendo. Anche la produzione delle nostre miniere e la frequenza delle spedizioni sono tornate a livelli normali. Sembra proprio che il peggio sia passato.}

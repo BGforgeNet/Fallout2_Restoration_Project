@@ -58,7 +58,7 @@
 {304}{}{Nuh-uh}
 {306}{}{-Ci dai "dentro"-}
 {307}{}{Uh, no grazie. Ho cambiato idea. Ci vediamo.}
-{320}{}{Aiight then...}
+{320}{}{Allora, d'accordo...}
 {321}{}{Uh-uh-uh}
 {330}{}{Ah, e cosi' stai GIOCANDO con T-Ray? D'accordo... Sparisci, donna! Posso trovare cagne migliori, senza sprecare il mio tempo con te.}
 {331}{}{Il tempo continua a ticchettare, ticchettare, ticchettare... nel futuuuuro...}
@@ -77,7 +77,7 @@
 {365}{}{Non male. Allora... ci becchiamo dopo.}
 {375}{}{Hai intenzione di eguagliare l'offerta di BISHOP? Guarda che e' un sacco di grana, amico. Un SACCO di quattrini. In piu', lui e' uno dei pezzi grossi di Reno, sai? Dandogli questa macchina mi assicurero' dei... benefici AGGIUNTIVI.}
 {376}{}{Hai intenzione di eguagliare l'offerta di BISHOP? Guarda che e' un sacco di grana, donna. Un SACCO di quattrini. In piu', lui e' uno dei pezzi grossi di Reno, sai? Dandogli questa macchina mi assicurero' dei... benefici AGGIUNTIVI.}
-{377}{}{I'm listening...}
+{377}{}{Sono tutto orecchi...}
 {378}{}{1000 dollari ti fanno cambiare idea?}
 {379}{}{750 dollari ti fanno cambiare idea?}
 {380}{}{500 dollari ti fanno cambiare idea?}
@@ -155,7 +155,7 @@
 {631}{}{Okay.}
 {632}{}{Scusa, ma pago solo quando SERVE. A dopo, T-Ray.}
 {640}{}{Diamine, donna! Ti ho appena dato il mio amore cinque minuti fa! Stai cercando di UCCIDERMI?}
-{641}{}{Now, hold on...}
+{641}{}{Ehi, aspetta un secondo...}
 {642}{}{Eddai, ho bisogno di una bella scarica, e solo il TUO dolce amore e' in grado di darmela.}
 {643}{}{Come non detto, allora. Fa' come vuoi.}
 {650}{}{Nah, ho gia' un cane da tenere a bada e non ho intenzione di metter su un canile. Da cio' che vedo, non hai niente che possa valere il mio tempo. Se vuoi che ti rimetta a nuovo la Highwayman dovrai sborsare 500 dollari.}
@@ -260,7 +260,7 @@
 {1100}{}{Troppo...sesso...sto...per...scoppiare...}
 {2000}{}{Hai ricevuto una batteria per la Highwayman.}
 {2010}{}{Hai ottenuto il potenziamento per la Highwayman.}
-{5286}{}{. I'm here for the car.}
+{5286}{}{.Sono qui per la macchina.}
 {5731}{}{?! Mi avevano detto che }
 {5733}{}{. Mi stai forse sfidando?}
 {6731}{}{ era un po' piu' alto e un po' piu'... (sembra scettico) ..."cazzuto".}

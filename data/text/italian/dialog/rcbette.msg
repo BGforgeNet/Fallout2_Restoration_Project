@@ -76,8 +76,7 @@
 {175}{}{Sei piu' sveglio di quanto non sembri. Ma non c'e' da stupirsi; riesci a mantenere una posizione eretta. Adesso corri a casa dalla mamma e dille che non c'era niente che il tuo coraggio ti permettesse di fare.}
 {176}{}{Adesso basta. Ne ho avuto abbastanza della tua linguaccia. Questa e' la tua ultima possibilita': vattene senza fare storie o ti apriro' in due.}
 {177}{}{Forse sara' meglio fare come dici. Di certo non voglio fare male a qualcuno. Addio.}
-{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
- (to Caminetto) Right, my little fuckface?}
+{178}{}{Ho capito che piega ha preso la cosa, piccolo pezzo di merda. OK, puoi portarmi dentro... con Caminetto. (a Caminetto) Giusto, mio piccolo faccia da culo?}
 {179}{}{Cosi' va meglio.}
 {180}{}{No, adesso e' troppo tardi. Vi faro' patire le pene dell'inferno. }
 {181}{}{Mi sa che prendero' Caminetto a calci in culo un altro giorno.}

@@ -24,5 +24,4 @@
 {290}{}{Mentre esamini la cassaforte in cerca di una trappola, provochi un'esplosione.}
 {291}{}{Hai tirato il filo sbagliato mentre disarmavi la trappola.}
 {300}{}{Senti un boato sordo provenire dal piano di sopra.}
-{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
- if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}
+{400}{}{Apri un piccolo pannello sul fondo della cassaforte. Dubiti che saresti riuscito a trovarlo se la signora Bishop non te ne avesse parlato. All'interno c'e' uno strano dispositivo da collegare al pip-boy.}
