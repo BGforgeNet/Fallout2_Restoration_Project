@@ -78,7 +78,7 @@ saia. Xô, xô.}
 {324}{}{Gerda não é realmente uma mulher em tudo, não é? Eu não quero ser limpo nas partes íntimas por um robusto drag-queen.
  Eu vou sair daqui.}
 {330}{}{É uma excelente opção se você não tiver muito tempo ou dinheiro.}
-{340}{}{Eu acho que vou gostar disso.}
+{340}{}{Eu acho que você vai gostar muito disso.}
 {350}{}{Eu acho que você vai desfrutar de Jenny banhando você mais do que qualquer outro banho que você já teve.}
 {360}{}{Nós não lidamos com esse tipo de negocio aqui. Trate de falar com meus filhos, Chuck e Buck Dunton.
  Eu entendo que o seus brahmins são popularmente muito importantes.}

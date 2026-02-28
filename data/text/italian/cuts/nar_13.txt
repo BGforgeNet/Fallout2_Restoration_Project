@@ -1,2 +1,2 @@
-1:I ghouls di Necropolis impararono a manutenere la pompa dell'acqua riparata  e riscoprirono, infine, molti segreti perduti dell'ingegneria.
-2:Fondarono un business vendendo questa tecnologia ad altre citta'.
+1:I ghoul di Necropoli hanno imparato a mantenere la pompa dell'acqua riparata, e col tempo riscoprono molti segreti dimenticati dell'ingegneria. 
+2:Hanno creato un giro d'affari vendendo questa tecnologia alle altre citta'.

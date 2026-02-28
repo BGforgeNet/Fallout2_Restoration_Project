@@ -2,6 +2,8 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
+#include "../sfall/lib.arrays.h"
+
 #ifndef CVGENENC_H
 #define CVGENENC_H
 /*
@@ -26,11 +28,20 @@ variable begin
    active_encounter_pids := 0;
    total_encounter_mobs := 0; //Per area in map
 
-
    special_theif_encounter := 0;
 
    choose_enc_pid := 0;
    choose_enc_sid := 0;
+
+   encounter_mobs_min := 0;
+   encounter_mobs_max := 0;
+
+   caverns_reduce_mobs;
+end
+
+procedure SetMobCount(variable min, variable max) begin
+   encounter_mobs_min := min;
+   encounter_mobs_max := max;
 end
 
 procedure Choose_Encounter begin
@@ -43,69 +54,69 @@ procedure Choose_Encounter begin
         if (dude_level < 6) then begin
             encounter_pid1 := PID_GECKO_SMALL;
             encounter_sid1 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end else if (dude_level < 12) then begin
             encounter_pid1 := PID_TOUGH_GECKO_SMALL;
             encounter_sid1 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end else if (dude_level < 13) then begin
             encounter_pid1 := PID_FIRE_GECKO;
             encounter_sid1 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end else begin
             encounter_pid1 := PID_TOUGH_FIRE_GECKO;
             encounter_sid1 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end
     end else if (val == 2) then begin
         active_encounter_pids := 1;
         if (dude_level < 5) then begin
             encounter_pid1 := PID_GOLDEN_GECKO;
             encounter_sid1 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end else if (dude_level < 12) then begin
             encounter_pid1 := PID_TOUGH_GOLDEN_GECKO;
             encounter_sid1 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end else if (dude_level < 13) then begin
             encounter_pid1 := PID_FIRE_GECKO;
             encounter_sid1 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end else begin
             encounter_pid1 := PID_TOUGH_FIRE_GECKO;
             encounter_sid1 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end
     end else if (val == 3) then begin
         active_encounter_pids := 1;
         encounter_pid1 := PID_SMALL_RADSCORPION;
         encounter_sid1 := SCRIPT_ECSCORP;
-        total_encounter_mobs := Random(3, 5);
+        call SetMobCount(3, 5);
     end else if (val == 4) then begin
         active_encounter_pids := 1;
         encounter_pid1 := PID_LARGE_RADSCORPION;
         encounter_sid1 := SCRIPT_ECSCORP;
-        total_encounter_mobs := Random(3, 5);
+        call SetMobCount(3, 5);
     end else if (val == 5) then begin
         active_encounter_pids := 1;
         encounter_pid1 := PID_SMALL_DEATHCLAW;
         encounter_sid1 := SCRIPT_ZCLDTHCL;
-        total_encounter_mobs := Random(3, 5);
+        call SetMobCount(3, 5);
     end else if (val == 6) then begin
         active_encounter_pids := 1;
         encounter_pid1 := PID_LARGE_DEATHCLAW;
         encounter_sid1 := SCRIPT_ZCLDTHCL;
-        total_encounter_mobs := 5;
+        call SetMobCount(5, 5);
     end else if (val == 7) then begin
         active_encounter_pids := 1;
         encounter_pid1 := PID_MUTATED_MOLE_RAT;
         encounter_sid1 := SCRIPT_ECRAT;
-        total_encounter_mobs := Random(3, 5);
+        call SetMobCount(3, 5);
     end else if (val == 8) then begin
         active_encounter_pids := 1;
         encounter_pid1 := PID_MUTATED_PIG_RAT;
         encounter_sid1 := SCRIPT_ECRAT;
-        total_encounter_mobs := Random(4, 5);
+        call SetMobCount(4, 5);
     end else if (val == 9) then begin
         active_encounter_pids := 2;
         if (dude_level < 5) then begin
@@ -113,7 +124,7 @@ procedure Choose_Encounter begin
             encounter_pid2 := PID_GOLDEN_GECKO;
             encounter_sid1 := SCRIPT_ECGECKO;
             encounter_sid2 := SCRIPT_ECGECKO;
-            total_encounter_mobs := Random(3, 5);
+            call SetMobCount(3, 5);
         end else begin
             encounter_pid1 := PID_TOUGH_GECKO_SMALL;
             encounter_pid2 := PID_TOUGH_GOLDEN_GECKO;
@@ -128,7 +139,7 @@ procedure Choose_Encounter begin
                 encounter_pid3 := PID_TOUGH_FIRE_GECKO;
                 encounter_sid3 := SCRIPT_ECGECKO;
             end
-            total_encounter_mobs := 5;
+            call SetMobCount(5, 5);
         end
     end else if (val == 10) then begin
         active_encounter_pids := 2;
@@ -136,21 +147,21 @@ procedure Choose_Encounter begin
         encounter_pid2 := PID_LARGE_RADSCORPION;
         encounter_sid1 := SCRIPT_ECSCORP;
         encounter_sid2 := SCRIPT_ECSCORP;
-        total_encounter_mobs := Random(3, 5);
+        call SetMobCount(3, 5);
     end else if (val == 11) then begin
         active_encounter_pids := 2;
         encounter_pid1 := PID_SMALL_DEATHCLAW;
         encounter_pid2 := PID_LARGE_DEATHCLAW;
         encounter_sid1 := SCRIPT_ZCLDTHCL;
         encounter_sid2 := SCRIPT_ZCLDTHCL;
-        total_encounter_mobs := 5;
+        call SetMobCount(5, 5);
     end else if (val == 12) then begin
         active_encounter_pids := 2;
         encounter_pid1 := PID_MUTATED_MOLE_RAT;
         encounter_pid1 := PID_MUTATED_PIG_RAT;
         encounter_sid1 := SCRIPT_ECRAT;
         encounter_sid2 := SCRIPT_ECRAT;
-        total_encounter_mobs := 5;
+        call SetMobCount(5, 5);
     end else if (val == 13) then begin
         if (stat_success(dude_obj, STAT_lu, 0)) then begin
             special_theif_encounter := 1;
@@ -160,19 +171,19 @@ procedure Choose_Encounter begin
                 encounter_pid2 := PID_MYSTERIOUS_STRANGER_FEMALE;
                 encounter_sid1 := SCRIPT_ECROBBER;
                 encounter_sid2 := SCRIPT_ECROBBER;
-                total_encounter_mobs := Random(2, 3);
+                call SetMobCount(2, 3);
             end else if (dude_level < 11) then begin
                 encounter_pid1 := PID_BOUNTY_MALE_7_12;
                 encounter_pid2 := PID_BOUNTY_FEMALE_7_12;
                 encounter_sid1 := SCRIPT_ECROBBER;
                 encounter_sid2 := SCRIPT_ECROBBER;
-                total_encounter_mobs := Random(3, 4);
+                call SetMobCount(3, 4);
             end else begin
                 encounter_pid1 := PID_BOUNTY_MALE_13_18;
                 encounter_pid2 := PID_BOUNTY_FEMALE_13_18;
                 encounter_sid1 := SCRIPT_ECROBBER;
                 encounter_sid2 := SCRIPT_ECROBBER;
-                total_encounter_mobs := Random(3, 4);
+                call SetMobCount(3, 4);
             end
         end
     end
@@ -241,6 +252,92 @@ procedure placeCritter(variable pid, variable sid, variable baseTile) begin
     end
     else begin
         ndebug("Pid < 1. Pid == "+pid+".");
+    end
+end
+
+procedure PlaceCritterGroup(variable tile) begin
+    variable count;
+
+    count := random(encounter_mobs_min, encounter_mobs_max)
+        if caverns_reduce_mobs
+        else total_encounter_mobs;
+    while (count > 0) do begin
+        call Choose_Pid;
+        call placeCritter(choose_enc_pid, choose_enc_sid, tile);
+        count -= 1;
+    end
+end
+
+procedure DistributeCritters(variable areaList, variable numActiveAreas) begin
+    variable i, idx, tile;
+
+    caverns_reduce_mobs := upu_msetting(caverns_reduce_mobs);
+    if (not caverns_reduce_mobs) then begin
+        numActiveAreas := len_array(areaList);
+        total_encounter_mobs := random(encounter_mobs_min, encounter_mobs_max);
+    end else
+        total_encounter_mobs := -1;
+
+    ndebug("total_encounter_mobs = " + total_encounter_mobs + ", areas = " + len_array(areaList) + ", numActive = "+numActiveAreas);
+
+    if (numActiveAreas >= len_array(areaList)) then begin
+        foreach (tile in areaList) begin
+            call PlaceCritterGroup(tile);
+        end
+    end else begin
+        for (i := 0; i < numActiveAreas and len_array(areaList) > 0; i++) begin
+            idx := random(0, len_array(areaList) - 1);
+            tile := areaList[idx];
+            call array_cut(areaList, idx, 1);
+            call PlaceCritterGroup(tile);
+        end
+    end
+end
+
+
+procedure LoadGenericChests(variable elev, variable tile1, variable tile2, variable tile3) begin
+    variable obj;
+    
+    ndebug("Making Chests.");
+
+    obj := create_object(PID_CHEST, tile1, elev);
+    if (obj) then begin
+        if (Random(1, 2) == 1) then
+            add_mult_objs_to_inven(obj, create_object(PID_STIMPAK, tile1, elev), Random(1, 5));
+        if (Random(1, 4) == 1) then
+            if (dude_level > 7) then
+                add_obj_to_inven(obj, create_object(PID_POWER_FIST, tile1, elev));
+            else
+                add_obj_to_inven(obj, create_object(PID_CATTLE_PROD, tile1, elev));
+        item_caps_adjust(obj, 20 * Random(1, dude_luck));
+    end
+
+    obj := create_object(PID_CHEST, tile2, elev);
+    if (obj) then begin
+        if (Random(1, 2) == 1) then
+            add_mult_objs_to_inven(obj, create_object(PID_STIMPAK, tile2, elev), Random(1, 5));
+        if (Random(1, 4) == 1) then
+            if (dude_level > 5) then
+                add_obj_to_inven(obj, create_object(PID_SUPER_SLEDGE, tile2, elev));
+            else
+                add_obj_to_inven(obj, create_object(PID_HUNTING_RIFLE, tile2, elev));
+        item_caps_adjust(obj, 20 * Random(dude_luck, dude_luck * dude_luck));
+    end
+
+    obj := create_object(PID_CHEST, tile3, elev);
+    if (obj) then begin
+        if (Random(1, 2) == 1) then
+            if (dude_level < 7) then
+                add_mult_objs_to_inven(obj, create_object(PID_FRAG_GRENADE, tile3, elev), Random(1, 5));
+            else
+                add_mult_objs_to_inven(obj, create_object(PID_PLASMA_GRENADE, tile3, elev), Random(1, 5));
+
+        if (Random(1, 4) == 1) then
+            if (dude_level > 10) then
+                add_obj_to_inven(obj, create_object(PID_PLASMA_RIFLE, tile3, elev));
+            else
+                add_obj_to_inven(obj, create_object(PID_HUNTING_RIFLE, tile3, elev));
+        item_caps_adjust(obj, 20 * Random(dude_luck, dude_luck * dude_luck));
     end
 end
 

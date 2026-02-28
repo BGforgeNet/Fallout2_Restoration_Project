@@ -30,7 +30,7 @@
 {128}{}{Não, esqueça.}
 {129}{}{A recrutadora dos Hub, Vikki Goldman. Eu vi um de seus filmes no Canadá, e eu só sabia que ela se apaixonaria por mim. Ainda não aconteceu, mas estou trabalhando nisso.}
 {130}{}{Vou mantê-lo debaixo do meu chapéu. Eu tenho mais algumas perguntas.}
-{131}{}{Ha Ha! Você é um vagabundo! Ela é uma estrela pornô, amigo. Ela não quer você.}
+{131}{}{Ha ha! Que trouxa você é! Ela é uma atriz pornô, amigão. Ela não te quer.}
 {132}{}{Você percebe que ela apenas irá interessar-se em você para garantir que você permaneça um bom Hubologista, certo?}
 {133}{}{Bem, sim... mas vale a pena no caso de algo acontecer!}
 {134}{}{Se você diz que sim ... se você diz isso. Eu tenho mais perguntas.}

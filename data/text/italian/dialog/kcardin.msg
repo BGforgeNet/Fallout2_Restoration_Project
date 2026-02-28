@@ -54,7 +54,7 @@
 {241}{}{Maida libera Sulik. Maida amica di }
 {242}{}{Grazie. Sono certo che Sulik vi sara' riconoscente per aver annullato il suo debito nei vostri confronti. Parlero' con Maida immediatamente. Arrivederci.}
 {243}{}{Sono felice che non abbiate piu' bisogno di Sulik. C'e' qualcosa che vorrei chiederle.}
-{244}{}{.}
+{244}{}{ friend.}
 {250}{}{Non ho molto, ma... ecco 100$. Avrei voluto darti di piu', ma con tutti i brahmin che abbiamo perso, questo e' tutto cio' che possiamo permetterci. Mi dispiace.}
 {251}{}{Grazie, signora Buckner. Arrivederci.}
 {252}{}{Forse dovrei scegliere una ricompensa diversa.}

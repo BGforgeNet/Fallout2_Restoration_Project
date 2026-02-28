@@ -17,7 +17,7 @@
 {16}{}{Punti Vita}
 {17}{}{Il sensore di movimento non e' installato.}
 {18}{}{Il sensore di movimento ha esaurito la carica.}
-{20}{}{(C) 1998 Interplay Prod. All rights reserved. Traduzione Italiana: Ragfox}
+{20}{}{(C) 1998 Interplay Prod. Tutti i diritti riservati. Traduzione Italiana: Ragfox & Collaboratori bgforge.net }
 {30}{}{Vuoi continuare a giocare?}
 {50}{}{Fallout 2 richiede il CD per funzionare!}
 {100}{}{Errore nel salvataggio della configurazione!}

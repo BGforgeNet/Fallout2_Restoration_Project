@@ -1,31 +1,31 @@
 1:La guerra.
 2:La guerra non cambia mai.
-3:The end of the world occurred pretty much as we had predicted.
-4:Too many humans, not enough space or resources to go around.
-5:The details are trivial and pointless, the reasons, as always, purely human ones.
+3:La fine del mondo e' avvenuta piu' o meno come avevamo previsto.
+4:Troppi esseri umani, non abbastanza spazio o risorse per tutti.
+5:I dettagli sono banali e privi di senso, le ragioni, come sempre, puramente umane.
 6:Nel 2077, quasi ogni vita umana fù spazzata via dalla terra.
-7:A great cleansing, an atomic spark struck by human hands, quickly raged out of control.
-8:Spears of nuclear fire rained from the skies.
-9:Continents were swallowed in flames and fell beneath the boiling oceans.
+7:Una grande purificazione, una scintilla atomica accesa dalle mani umane, si e' rapidamente propagata fuori controllo.
+8:Lance di fuoco nucleare sono piovute dal cielo.
+9:I continenti sono stati divorati dalle fiamme e sommersi dagli oceani in ebollizione. 
 10:L'umanità si era quasi estinta, i loro spiriti erano diventati parte della radiazione di fondo che ricopriva la terra.
-11:A quiet darkness fell across the planet, lasting many years.
-12:Few survived the devastation.
-13:Some had been fortunate enough to reach safety, taking shelter in great underground vaults.
+11:Una silenziosa oscurita' avvolse il pianeta, rimanendovi per molti anni.
+12:Pochi dopravvissero alla devastazione.
+13:Alcuni sono stati abbastanza fortunati da raggiungere la salvezza, rintanandosi in grandi vault sotterranei.
 14:When the great darkness passed, these vaults opened, and their inhabitants emerged to begin their lives again.
-15:One of the northern tribes claims they are descended from one such Vault.
+15:Una delle tribu' del nord reclama la discendenza dalla gente di uno di questi Vault.
 16:They hold that their founder and ancestor, one known the "Vault Dweller," once saved the world from a great evil.
-17:According to their legend, this evil arose in the far south.
-18:It corrupted all it touched, twisting men inside, turning them into beasts.
+17:Secondo le loro leggende, questo Male sorse dal profondo sud.
+18:Ha corrotto tutto cio' che ha toccato, stravolgendo gli uomini dall'interno, trasformandoli in bestie.
 19:Only through the bravery of this Vault Dweller was the evil destroyed.
 20:But in so doing, he lost many of his friends and suffered greatly, sacrificing much of himself to save the world.
-21:When at last he returned to the home he had fought so hard to protect, he was cast out.
-22:Exiled.
+21:Quando alla fine torno' alla casa per cui aveva combattuto cosi' duramente, fu scacciato.
+22:Esiliato.
 23:In confronting that which they feared, he had become something else in their eyes...and no longer their champion.
-24:Forsaken by his people, he strode into the wasteland.
-25:He traveled far to the north, until he came to the great canyons.
-26:There, he founded a small village, Arroyo, where he lived out the rest of his years.
+24:Abbandonato dal suo popolo, a grandi passi si incammino' nelle lande desolate.
+25:Viaggio' a lungo verso nord, fino a giungere al grande canyon.
+26:Qui', fondo' un piccolo villaggio, Arroyo, dove visse il resto dei suoi anni.
 27:And so, for a generation since its founding, Arroyo has lived in peace, its canyons sheltering it from the outside world.
-28:It is home. Your home.
+28:E' casa. La tua casa.
 29:But in the world outside, the scars left by the war have not yet healed.
 30:The wounds run deep, and now they are being felt in Arroyo.
 31:La vita in Arroyo sta per cambiare...

@@ -3,7 +3,7 @@
 {102}{}{Você vê um homem em roupas funcionais e confortáveis.}
 {103}{}{Saudações! Bem vindo à minha loja, Flying Dragon 8.}
 {104}{}{O que posso fazer por você?}
-{105}{}{Pastel de flango!}
+{105}{}{Da aggle oo!}
 {106}{}{Coisas!}
 {107}{}{Quem é você?}
 {108}{}{Estou procurando equipamento.}

@@ -1,18 +1,18 @@
-{100}{}{You see Max.}
-{101}{}{You see a regular Abbey monk.}
-{102}{}{He looks a little nervous.}
-{200}{}{Hello. What can I do for you?}
-{201}{}{I have something from Elaine...}
+{100}{}{Vedi Max.}
+{101}{}{Vedi un monaco ordinario dell'Abbazia.}
+{102}{}{Sembra un po' nervoso.}
+{200}{}{Ciao. Cosa posso fare per te?}
+{201}{}{Ho qualcosa da parte di Elaine...}
 {202}{}{Cos'e' questo posto?}
 {203}{}{Addio.}
 {300}{}{Let me guess. It's that service part I requested, right?}
-{301}{}{Yes, here it is.}
-{302}{}{No, I was just testing you.}
+{301}{}{Si'. Ecco qua.}
+{302}{}{No, stavo solo mettendoti alla prova.}
 {303}{}{(He takes the part from your hands) Finally! Now we can fix this printing machine. Thanks, take this survival manual for your trouble.}
 {304}{}{Grazie.}
-{305}{}{Look, I don't have time for this. Do you have the part or not?}
-{306}{}{Yeah, I have it.}
-{307}{}{Whatever, I'm outta here.}
+{305}{}{Senti, non ho tempo per questo. Hai il pezzo o no?}
+{306}{}{Si', ce l'ho.}
+{307}{}{Vabbene, me ne vado.}
 {400}{}{This is our printing works. We copy our books here.}
 {401}{}{Ok, thanks for the info.}
 {500}{}{You gain %d experience points for delivering the part.}

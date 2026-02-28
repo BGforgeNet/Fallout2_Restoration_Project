@@ -62,7 +62,7 @@
 {161}{}{Si'?}
 {162}{}{C'e' del lavoro da fare in citta'?}
 {163}{}{Lasciamo perdere. Me ne vado.}
-{164}{}{ E vedi di assicurarti che le cose rimangano cosi'. Arrivederci.}
+{164}{}{Just make sure things stay that way. Goodbye.}
 {165}{}{E' stato davvero un ottimo lavoro quello che hai fatto con il vecchio Jack, straniero. Come sceriffo, adesso la gestione del caso passa nelle mie mani.}
 {166}{}{E' tutto suo.}
 {167}{}{Non c'e' una ricompensa?}

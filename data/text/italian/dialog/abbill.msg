@@ -5,48 +5,47 @@
 {202}{}{Barattiamo.}
 {203}{}{Ho saputo che sei la persona giusta con la quale parlare riguardo le carovane.}
 {204}{}{Lasciamo perdere. Ci vediamo.}
-{210}{}{Say, I've noticed a lot of old equipment and items have been collected here at the Abbey.
- I don't suppose you've found anything... special, during your time here?}
-{211}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
- especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
- myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special... hmm, [He glances over at Marcus.] It's funny you should ask, I just might have something that
- would interest your friend here.}
-{212}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
- especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
- myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special... hmm, [He glances over your party.] Sorry, I don't think I have anything special you'd find
- useful right now.}
+{210}{}{Senti, ho notato che qui all'Abbazia è stata raccolta molta attrezzatura e molti oggetti vecchi.
+Non è che hai trovato qualcosa di... speciale, durante il tuo tempo qui?}
+{211}{}{Eh, l'hai notato, eh? Sì, la gente dell'Abbazia ha una certa fascinazione per qualsiasi cosa pre-guerra,
+specialmente se è legata alla tecnologia. Si sono formati una specie di strana religione attorno ad essa. Non la capisco del tutto,
+io, ma sono brave persone e pagano bene per qualsiasi cosa pre-guerra riesca a mettere le mani. Ma comunque,
+per quanto riguarda qualcosa di speciale... hmm, [Lancia un'occhiata a Marcus.] È strano che tu lo chieda, potrei proprio avere qualcosa che
+interesserebbe al tuo amico qui.}
+{212}{}{Eh, l'hai notato, eh? Sì, la gente dell'Abbazia ha una certa fascinazione per qualsiasi cosa pre-guerra,
+specialmente se è legata alla tecnologia. Si sono formati una specie di strana religione attorno ad essa. Non la capisco del tutto,
+io, ma sono brave persone e pagano bene per qualsiasi cosa pre-guerra riesca a mettere le mani. Ma comunque,
+per quanto riguarda qualcosa di speciale... hmm, [Lancia uno sguardo al tuo gruppo.] Mi dispiace, non credo di avere nulla di speciale che
+potresti trovare utile al momento.}
 {213}{}{Davvero? Vediamo cos'hai da vendermi.}
 {214}{}{Grazie. Lascia che ti chieda qualcos'altro.}
 {215}{}{Ovvero?}
-{216}{}{You see, a caravan came through here not too long ago, claiming to have come up from the deep south. Said they'd
- been attacked by some of them vile mutants (turning to Marcus) no offense, big guy. Anyway, they did a lot of bragging
- about how they'd wasted all the muties. Claimed there'd been nearly a dozen of 'em, and I called bullshit. But it turns
- out they had some proof.}
+{216}{}{Vedete, non molto tempo fa è passata di qui una carovana, che diceva di venire dal profondo sud. Dissero di essere
+stati attaccati da alcuni di quei vili mutanti (rivolgendosi a Marcus) niente di personale, amico. Comunque, si vantarono molto di come
+avevano fatto fuori tutti i muties. Sostenevano che fossero stati quasi una dozzina, e io dissi una stronzata. Ma si è scoperto
+che avevano delle prove.}
 {217}{}{Si? Cos'era?}
-{218}{}{A hulking set of mutant armor they'd managed to salvage off one of the corpses. Of course, for all I know, they
- stole it off the bones of some long dead mutie they'd stumbled upon in the wastes, but who knows? Anyway, they weren't
- eager to keep lugging the heavy thing around, so they offered it to me for dirt cheap. I didn't know what I'd ever do
- with it, but I figured a deals a deal.}
-{219}{}{Well, I'm sure Marcus here could benefit from this. How much for it?}
-{220}{}{That's interesting. Well, Marcus here is tough enough. I don't think we'll be needing that item. Let me ask you
- something else.}
-{221}{}{Well, this bad boy could easily be melted down to make three or four sets of metal armor. Let's say $3000.}
+{218}{}{Un'armatura da mutante massiccia che erano riusciti a recuperare da uno dei cadaveri. Per quanto ne so, potrebbe
+essere stata rubata dalle ossa di qualche mutante morto da tempo che avevano trovato per caso nelle terre desolate, ma chi lo sa? Comunque, non
+erano molto entusiasti di continuare a trascinarsi dietro quella cosa pesante, quindi me la offrirono per quattro soldi. Non sapevo cosa farmene
+con essa, ma pensai che un affare è un affare.}
+{219}{}{Beh, sono sicuro che Marcus potrebbe trarne vantaggio. Quanto vuoi per essa?}
+{220}{}{Interessante. Beh, Marcus è già abbastanza duro. Non credo che avremo bisogno di quell'oggetto. Lasciami chiedere
+un'altra cosa.}
+{221}{}{Beh, questo bestione potrebbe facilmente essere fuso per fare tre o quattro set di armatura metallica. Diciamo 3000$.}
 {222}{}{Ne ho avuto abbastanza.}
 {223}{}{Non credo di volerla subito. Lasci che ti chieda qualcos'altro.}
-{224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
+{224}{}{Bene allora. Ci vorranno due persone per spostare questa cosa, quindi lasciami aiutarti ad adattarla al tuo amico qui.}
 {225}{}{[Fatto]}
-{226}{}{Hey, this fits nicely!}
+{226}{}{Ehi, si adatta perfettamente!}
 {300}{}{Potrei sapere una cosa o due. Cosa ti piacerebbe sapere?}
 {301}{}{Quanto spesso vieni rifornito?}
 {302}{}{Le carovane cercano qualcuno da assumere?}
 {303}{}{Ripensandoci, devo andarmene.}
-{304}{}{I get a new shipment of supplies twice a month. Frankly, I wish they'd come more often, but we're only on a
- minor trade route so I guess this is the best we can get.}
-{305}{}{I'm not quite sure. Usually, the ones that stop by here are pretty well equipped and not really interested in
- hanging around very long. But if you're looking to hook up with one of em, I'd head over to Redding or even down to NCR.
- They've got pretty active caravans and good help is always wanted.}
+{304}{}{Ricevo una nuova spedizione di rifornimenti due volte al mese. Francamente, vorrei che arrivassero più spesso, ma siamo solo su una rotta commerciale minore quindi immagino che questo sia il meglio che possiamo ottenere.}
+{305}{}{Non ne sono del tutto sicuro. Di solito, quelli che passano da qui sono ben equipaggiati e non sono molto interessati a
+fermarsi a lungo. Ma se stai cercando di unirti a uno di loro, ti dirigerei verso Redding o anche giù verso NCR.
+Hanno carovane piuttosto attive e il buon aiuto è sempre ricercato.}
 {306}{}{Interessante. Ero curioso riguardo altro.}
 {307}{}{Grazie. Barattiamo.}
 {308}{}{Beh, grazie dell'informazione. Ci vediamo.}

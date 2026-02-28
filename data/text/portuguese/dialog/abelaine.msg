@@ -6,13 +6,13 @@
 {202}{}{O que você pode me dizer sobre a Abadia?}
 {203}{}{Adeus.}
 {300}{}{Se você quer saber mais sobre nossa ordem, falar com o Abade. Você pode encontrá-lo em seus aposentos no terceiro andar.}
-{301}{}{Eu vejo. Mais algumas perguntas...}
+{301}{}{Certo. Só mais algumas perguntas...}
 {400}{}{Claro. O que você gostaria de saber?}
 {401}{}{Qual é o seu nome?}
 {402}{}{Nada realmente, tchau.}
 {403}{}{O que você pode me dizer sobre a Abadia?}
 {500}{}{Meu nome é Elaine.}
-{501}{}{Eu vejo. Mais algumas perguntas...}
+{501}{}{Certo. Só mais algumas perguntas...}
 {600}{}{Ei! Antes de ir, talvez você possa me fazer um favor. Eu deveria trazer essa máquina para Max na
   sala de cópia do porão. Mas você vê, meu joelho esquerdo tem doído ultimamente, e é uma dor real para eu subir e descer
   todas aquelas escadas. Você se incomodaria demais para lhe trazer essa parte?}

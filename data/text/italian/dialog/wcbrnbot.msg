@@ -45,7 +45,7 @@
 {144}{}{Ug.}
 {145}{}{Skynet ha raccolto tutte le informazioni necessarie riguardanti questo luogo.}
 {146}{}{Aaaaapet......taaaaaaaae.}
-{147}{}{[E' rimasto dove l'avevi lasciato.]}
+{147}{}{        [It's right where you left it.]}
 {148}{}{Andiamo.}
 {149}{}{Rimani qui. Tornero'.}
 {150}{}{Skynet e' lieto di rivedere questo umano.}

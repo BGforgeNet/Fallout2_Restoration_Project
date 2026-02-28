@@ -64,7 +64,7 @@
 {209}{}{Me? Uh, I'm the tooth fairy. I have come to bring you great riches.}
 {210}{}{Yeah and I'm Saint Nick. Now who the fuck are you and why are you in my house?}
 {211}{}{Really? I met a guy in New Reno who also claims to be Saint Nick.}
-{212}{}{*Stares blankly*}
+{212}{}{*Fissa nel vuoto*}
 {213}{}{(going on) Yeah, and then I told him my life story about Arroyo...}
 {214}{}{Listen, I don't give a flying fuck about any of your rambling bullshit. You're the one who's been snooping around, asking questions about the missing caravan money.}
 {215}{}{That's right. And I'm here to collect the final piece of evidence I need to put you away.}

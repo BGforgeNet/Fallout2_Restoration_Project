@@ -37,7 +37,7 @@
 {196}{}{Sono davvero toccata. Nessuno cerca mai di conoscermi meglio. Tutto quel che vogliono e' sesso, sesso, sesso! Mi sono stufata di fare sempre del sesso selvaggio. Sono felice che tu non sia come gli altri.}
 {197}{}{Sgualdrina! Per un attimo credevo che tu fossi speciale.}
 {198}{}{Sai, sono solo un ragazzo normale, come tutti gli altri. Beh, i miei amici dicono, "}
-{199}{}{, tu sei un grande proprio perche' sei normale come chiunque altro". Gia', sono proprio normale.}
+{199}{}{ you're just so cool because you're normal just like everyone else." Yep, normal that's me.}
 {200}{}{Beh, non avevo mai incontrato nessuna interessante come te, prima d'ora.}
 {202}{}{Voglio cosa? Che cosa stai insinuando?}
 {203}{}{Credo che tu sappia di cosa sto parlando, baby. Sai che e' questo quello che vuoi. [Sorridi e cominci a spogliarti.]}

@@ -17,9 +17,9 @@
 {116}{}{Puntata sul Field.}
 {118}{}{Tira}
 {119}{}{Puntata sul Passline:}
-{120}{}{Puntata sul don't Passline: }
-{121}{}{Puntata sul Comeline: }
-{122}{}{Puntata sul don't Comeline: }
+{120}{}{Don't pass line bet set at:}
+{121}{}{Come line bet set at:}
+{122}{}{Don't come line set at:}
 {123}{}{7:}
 {124}{}{d3:}
 {125}{}{d4:}
@@ -36,18 +36,18 @@
 {136}{}{Pls 8:}
 {137}{}{Pls 9:}
 {138}{}{Pls 10:}
-{139}{}{ Sul 4:}
-{140}{}{ Sul 5:}
-{141}{}{ Sul 6:}
-{142}{}{ Sull'8:}
-{143}{}{ Sul 9:}
-{144}{}{ Sul 10:}
-{145}{}{ Vincita sul 4:}
-{146}{}{ Vincita sul 5:}
-{147}{}{ Vincita sul 6:}
-{148}{}{ Vincita sull'8:}
-{149}{}{ Vincita sul 9:}
-{150}{}{ Vincita sul 10:}
+{139}{}{On 4:}
+{140}{}{On 5:}
+{141}{}{On 6:}
+{142}{}{On 8:}
+{143}{}{On 9:}
+{144}{}{On 10:}
+{145}{}{Odds 4:}
+{146}{}{Odds 5:}
+{147}{}{Odds 6:}
+{148}{}{Odds 8:}
+{149}{}{Odds 9:}
+{150}{}{Odds 10:}
 {151}{}{Puntata sul Field fissata a:}
 {152}{}{Che tipo di scommessa su combinazioni di numeri vuole fare?}
 {153}{}{Quanto?}
@@ -133,7 +133,7 @@
 {714}{}{Il gioco cambia.}
 {800}{}{Puntata sui numeri di gioco.}
 {801}{}{Scegliere moltiplicatore. Puntata su:}
-{802}{}{ volte la quota giocata.}
+{802}{}{x's odds.}
 {803}{}{quota attuale:}
 {804}{}{Puntata sul numero di gioco 4.}
 {805}{}{Puntata sul numero di gioco 5.}

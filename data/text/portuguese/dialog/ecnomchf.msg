@@ -27,4 +27,4 @@
 {201}{}{Obrigado; Aceito generosamente sua oferta.}
 {202}{}{Que pena. Então descanse um pouco; você é bem vindo entre nós.}
 {203}{}{Espero que você encontre o que está procurando. Precisa de mais alguma coisa?}
-{204}{}{Hoje não. Devo estar indo.}
+{204}{}{Hoje não. Tenho que ir.}

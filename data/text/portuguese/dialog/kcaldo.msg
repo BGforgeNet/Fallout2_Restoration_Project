@@ -84,8 +84,8 @@
 {861}{}{Valeu pelas informações, Aldo. Chega de conversa por enquanto.}
 {862}{}{Que bom que encontrou outro fornecedor. Ah, tem como você respirar um pouco mais na direção do
  vento? Tenho outra pergunta pra você.}
-{870}{}{E aí, amizade! Você parece meio confuso. O que precisa é de um amigo aqui na cidade. Sou Aldo, o
- anfitrião oficial da cidade.}
+{870}{}{Olá, amigo! Você parece meio perdido. O que você precisa é de um amigo aqui na cidade. Eu sou Aldo, 
+ o anfitrião oficial da cidade.}
 {871}{}{Amizade? Heh, heh, }
 {872}{}{ gostar de amigo.}
 {873}{}{Urk, (funga, funga) cheiro ruim. cai fora.}

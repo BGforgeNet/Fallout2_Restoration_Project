@@ -1,3 +1,3 @@
 {100}{}{Vedi una normale libreria.}
-{101}{}{This bookcase has various books on it.}
-{102}{}{This bookcase has a lot of books from pre-war days. So much information, it's a pity you don't have the time to sit down and read them all.}
+{101}{}{Questa libreria ha vari libri sopra.}
+{102}{}{Questa libreria contiene molti libri pre-bellici. Tante informazioni, peccato che non si abbia il tempo di sedersi e leggerle tutte.}

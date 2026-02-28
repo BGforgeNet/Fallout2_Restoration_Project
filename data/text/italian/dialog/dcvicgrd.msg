@@ -114,4 +114,4 @@
 {504}{}{Sara' bene che Vic lavori bene per te.}
 {505}{}{Magari ci becchiamo durante un raid.}
 {506}{}{Come va?}
-{507}{}{Ciao.}
+{507}{}{Ciao, di nuovo.}

@@ -1,2 +1,2 @@
-1:Your mission beneath the Cathedral is successful.
-2:Your actions today will influence the outside world for years to come.
+1:La tua missione sotto la Cattedrale ha successo.
+2:Le tue azioni ora influenzeranno il mondo esterno per gli anni a venire.

@@ -1,2 +1,2 @@
 {100}{}{Vedi un paletto segnatombe. }
-{101}{}{Here lies the great Per: Author, walkthrough creator, rock hoarder. Alas, he died one rock too short.}
+{101}{}{Qui giace il grande Per: Autore, creatore di guide, accumulatore di sassi. Ahimè, morì con un sasso di meno.}

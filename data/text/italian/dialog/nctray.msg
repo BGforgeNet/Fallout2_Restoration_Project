@@ -260,7 +260,7 @@
 {1100}{}{Troppo...sesso...sto...per...scoppiare...}
 {2000}{}{Hai ricevuto una batteria per la Highwayman.}
 {2010}{}{Hai ottenuto il potenziamento per la Highwayman.}
-{5286}{}{ il braccio destro di Bishop. Sono qui per la macchina.}
+{5286}{}{. I'm here for the car.}
 {5731}{}{?! Mi avevano detto che }
 {5733}{}{. Mi stai forse sfidando?}
 {6731}{}{ era un po' piu' alto e un po' piu'... (sembra scettico) ..."cazzuto".}

@@ -71,5 +71,5 @@
 {170}{}{Addio.}
 {171}{}{. Sto solo dando un'occhiata in giro.}
 {172}{}{, sei qui per qualcosa in particolare?}
-{173}{}{$ non sarebbero male.}
+{173}{}{ would be nice.}
 {174}{}{Ho tutto quel che mi serve. Parla con Wong se proprio devi.}

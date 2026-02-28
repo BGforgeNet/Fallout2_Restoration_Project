@@ -102,7 +102,7 @@
 {5225}{}{! Come butta?}
 {5230}{}{! Facciamolo secco!}
 {5236}{}{ che non sa di essere ad un passo dalla morte.}
-{5240}{}{?}
+{5240}{}{ kennel, puta?}
 {5241}{}{ che non sa di essere ad un passo dalla morte.}
 {5476}{}{! Myron e' proprio dietro a quella porta. Ti aspetta?}
 {5486}{}{, come butta? Oh, ehi...Myron non c'e'.}

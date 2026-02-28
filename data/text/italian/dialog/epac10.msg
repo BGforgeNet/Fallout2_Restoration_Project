@@ -336,7 +336,7 @@ and fifty years.}
 {1013}{}{[Dex smiles.] What's up, doll?}
 {1014}{}{You need something? Anything? [Dex grins.]}
 {1015}{}{What can Dex do for ya baby?}
-{1100}{}{We ready to roll?}
+{1100}{}{Sei pronto ad andare?}
 {1101}{}{We takin' off, or what?}
 {1102}{}{You ready yet? I'm itchin' to move.}
 {1103}{}{So, you realized you're better off with me, huh?}

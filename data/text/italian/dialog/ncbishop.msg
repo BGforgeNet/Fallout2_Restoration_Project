@@ -5,7 +5,7 @@
 {201}{}{Hai del fegato. }
 {202}{}{Perche' non ti attacchi un cartello sul petto che dice "idiota rottinculo"?}
 {203}{}{Assaggia questo piombo, bastardo di un }
-{204}{}{.}
+{204}{}{ bastard.}
 {205}{}{Assaggia questo piombo, stupido figlio di puttana.}
 {206}{}{Assaggia questo piombo, puttana.}
 {207}{}{Me no PIACE; sapore di piombo cattivo!}

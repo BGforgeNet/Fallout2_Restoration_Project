@@ -47,7 +47,7 @@
 {310}{}{No, nessun'altra domanda. Sara' meglio che vada.}
 {315}{}{(Il giovane ti squadra. I suoi occhi si fermano sul marchio che hai sulla fronte.) Bene, bene. (Ridacchia, poi ti sputa sui piedi.) Perche' non ti rendi utile e lo tiri su con la lingua, schiavista?}
 {316}{}{(Il giovane ti squadra.) Bene, bene. (Ridacchia, poi ti sputa sui piedi.) Perche' non ti rendi utile e lo tiri su con la lingua, brutto pezzo di merda }
-{317}{}{?}
+{317}{}{ dogshit?}
 {318}{}{Tiragli un calcio con lo stivale sul quale ha sputato.}
 {320}{}{Ignoralo. Per questa volta. }
 {325}{}{Beh, io… cioe', la famiglia Wright… la mia famiglia… potrebbe avere qualcosa da farti fare. Non ti prometto nulla, ma va' nella grande casa che c'e' subito a sud di qui, trova mio fratello Keith e digli che ti mando io. Mi chiamo Chris. Chris Wright.}

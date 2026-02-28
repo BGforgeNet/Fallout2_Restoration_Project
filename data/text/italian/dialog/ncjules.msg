@@ -234,7 +234,8 @@
 {946}{}{Ti do una dritta riguardo alle preoccupazioni dei Wright, schiavista.. vedi, gli Wright sono l'unica famiglia che e' DAVVERO una famiglia.}
 {947}{}{Sono una famiglia? Quanti sono?}
 {960}{}{Almeno venti o piu' Wright purosangue. Cattivi come cani e uno piu' brutto dell'altro.}
-{961}{}{ Almeno venti o piu' Wright purosangue, e non sono molto gentili con le persone che fanno il tuo lavoro. Si dice che abbiano perso una sorella, tempo fa, per colpa di uno schiavista e da allora gli schiavisti non gli vanno molto a genio.}
+{961}{}{Almost twenty or more true-blooded Wrights, and they don't take kindly to people in your line of work. Word is, they
+ lost a sister way back when to a slaver, and they ain't liked slavers ever since.}
 {962}{}{Cosa controllano gli Wright a New Reno?}
 {975}{}{Non hanno un casino'... per lo piu' producono alcol e lo vendono alle altre famiglie. Percio', se cerchi del liquore... Si trovano giu' nell'East Side in una grande magione.}
 {985}{}{Fratello, non ti serve cercare oltre: c'e' qui l'umile Jules che fa al caso tuo. }

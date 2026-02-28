@@ -1,46 +1,46 @@
-{100}{}{You see a Tough Guard.}
-{101}{}{You see an impressively muscled, but aging guard with sun burnt skin. He must have been quite something in his
- prime. His piercing gaze seems to follow you everywhere.}
-{200}{}{Hi there, traveler. Welcome to the Abbey. Keep your nose clean and we'll get along just fine.}
-{201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
- I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
- warped brain of yours.}
+{100}{}{Vedi una guardia tosta.}
+{101}{}{Vedi una guardia dai muscoli imponenti, ma anziana, con la pelle bruciata dal sole. Dev'essere stato qualcosa di notevole
+nel suo periodo migliore. Il suo sguardo penetrante sembra seguirti ovunque.}
+{200}{}{Fatti gli affari tuoi rispettando la legge, straniero, e non ci saranno guai.}
+{201}{}{Ti sto tenendo d'occhio, schiavista. Una mossa sbagliata e contaminerai il nostro cimitero per il resto dell'eternità.
+Non te lo augurerei, e sono abbastanza sicuro che neanche tu lo gradirebbe, quindi non farti venire strane idee in quel
+cervello contorto che hai.}
 {202}{}{Chi sei?}
-{203}{}{Where can I barter for some supplies?}
-{204}{}{Somebody is digging up graves, why don't you do anything about it?}
-{205}{}{I heard something about animals in the basement. Know anything about that?}
-{206}{}{I think it's time I send you to a grave. Let's dance, old man.}
+{203}{}{Dove posso trovare dei medicinali?}
+{204}{}{Qualcuno sta dissotterrando le tombe, perché non fai nulla al riguardo?}
+{205}{}{Ho sentito qualcosa riguardo ad animali nel seminterrato. Ne sai qualcosa?}
+{206}{}{Penso che sia ora di mandarti nella tomba. Balliamo, vecchio.}
 {207}{}{Non importa. Arrivederci.}
-{300}{}{Nobody... Just an old retired caravan guard. A lot of people mistake me for some sort of sheriff because I'm
- the closest thing resembling the law in these parts, but I'm not. I just look out for this community because I think
- it's worth protecting.}
-{301}{}{And in return the community looks out for me. I get some complimentary booze from the monks, Peterson makes
- sure I'm fed and Bill makes sure I've got ammo and stims. Not a bad retirement gig, if you ask me.}
-{302}{}{I'm the one keeping you in line, and that's all you need to know. Now get on with your business and leave me
- alone.}
-{303}{}{That is a nice arrangement. Let me ask you something else.}
-{304}{}{Whatever, goodbye.}
-{305}{}{You think you can keep me in line? Let's see you try it, old man. This should be fun.}
-{400}{}{You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go
- to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City.}
-{401}{}{Good to know. I have another question.}
+{300}{}{Nessuno... Solo un vecchio guardia carovane in pensione. Molte persone mi scambiano per una specie di sceriffo perché sono
+la cosa più simile alla legge da queste parti, ma non lo sono. Mi prendo semplicemente cura di questa comunità perché penso
+che valga la pena proteggerla.}
+{301}{}{E in cambio la comunità si prende cura di me. Ricevo un po' di alcol in omaggio dai monaci, Peterson si assicura
+che io sia nutrito e Bill si assicura che abbia munizioni e stim. Non un brutto lavoro da pensionato, se me lo chiedi.}
+{302}{}{Sono io quello che ti tiene in riga, e questo è tutto quello che devi sapere. Ora occupati dei fatti tuoi e lasciami
+in pace.}
+{303}{}{E' un bel accordo. Lasciami chiedere un'altra cosa.}
+{304}{}{Comunque, arrivederci.}
+{305}{}{Pensi di potermi tenere in riga? Vediamo se ci riesci, vecchio. Questo dovrebbe essere divertente.}
+{400}{}{Puoi trovare Bill, il nostro commerciante residente, nell'edificio di fronte a qui. Per il resto, dovresti andare
+da Percy's Survival Gear Locker al Junkyard di Gecko o da Happy Harry's nel Cortile di Vault City.}
+{401}{}{Buono a sapersi. Ho un'altra domanda.}
 {402}{}{Grazie, arrivederci.}
-{500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can
- use what they're buried with anyway. Not my problem... I'm not losing any sleep over it.}
+{500}{}{Se qualcuno è abbastanza povero o avido da cercare di dissotterrare le tombe, sono affari suoi. Non è che i morti possano
+usare ciò con cui sono sepolti comunque. Non è un mio problema... Non ci perdo il sonno.}
 {501}{}{Lascia che ti chieda qualcos'altro.}
 {502}{}{Addio.}
-{600}{}{Yes, and Brother Thomas is missing. He was a smart man, but a bit foolhardy. I don't know what's down there,
- but I don't think it's just a bunch of rats and radscorpies.}
-{601}{}{Yes, and Brother Thomas is missing. I don't know what's down there, but I don't think it's just a bunch of rats
- and radscorpies. Why don't you find out, tough guy?}
-{602}{}{So why don't you go look?}
-{603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
-{610}{}{It's a bit embarrassing, but after spending so much time outdoors with the caravans, I get very nervous when I
- go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to
- Brother Thomas?}
-{611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
+{600}{}{Sì, e Fratello Thomas è scomparso. Era un uomo intelligente, ma un po' avventato. Non so cosa ci sia laggiù,
+ma non credo che siano solo un mucchio di ratti e radscorpioni.}
+{601}{}{Sì, e Fratello Thomas è scomparso. Non so cosa ci sia laggiù, ma non credo che siano solo un mucchio di ratti
+e radscorpioni. Perché non lo scopri tu, duro?}
+{602}{}{Allora perche' non vai a guardare tu stesso?}
+{603}{}{Sei il duro della situazione, vero? Perché non trascini il tuo culo laggiù?}
+{610}{}{È un po' imbarazzante, ma dopo aver trascorso così tanto tempo all'aperto con le carovane, mi innervosisco molto quando
+vado sottoterra. Le pareti mi si chiudono addosso e ho difficoltà a respirare... Forse puoi scoprire cosa è successo a
+Fratello Thomas?}
+{611}{}{Vedro' di fare del mio meglio. Prima, pero', lascia che ti chieda qualcos'altro.}
 {612}{}{Addio.}
-{613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
+{613}{}{Sono un duro, ed è per questo che ti spaccerò la faccia.}
 {700}{}{Cos'altro vuoi sapere?}
-{800}{}{It's good to see you again.}
-{801}{}{I'm keeping my eye on you.}
+{800}{}{E' bello rivederti.}
+{801}{}{Ti sto tenendo d'occhio.}

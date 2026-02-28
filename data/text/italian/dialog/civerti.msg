@@ -31,7 +31,7 @@
  It's time to show the world what }
 {242}{}{ is made of. Bring it on, Enclave!}
 {243}{}{Hehe... Fly birdie, fly! }
-{244}{}{ save day now.}
+{244}{}{ me lasciare te, ora.}
 {300}{}{[You climb into the aircraft and access the pilot terminal.] Welcome to PoseidoNet. This terminal is limited to transmission between Enclave Vertibird squad and docking rig. Command?}
 {301}{}{Status.}
 {302}{}{Esci.}

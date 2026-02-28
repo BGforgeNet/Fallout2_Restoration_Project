@@ -56,28 +56,28 @@
 {414}{}{Brillo piu' intensamente di New Reno a mezzanotte. Qualcuno ha un po' di RadAway?}
 {415}{}{Perfetto. Un po' di radiazioni, e divento subito una torcia umana.}
 {416}{}{Fatemi tenere il RadAway. Non lo usero' tutto. Prometto.}
-{425}{}{ perche' non ce ne torniamo al primo livello del dungeon dove ci sono solo i coboldi?}
-{426}{}{ per fortuna tutti quegli anni passati a giocare a D&D mi hanno insegnato qualcosa sul coraggio.}
-{427}{}{ passami del Buffout. Credo mi servira' molto presto.}
-{428}{}{ Gran bel posto da visitare... Gran bel posto davvero. Cosa ne diresti di andarcene il piu' presto possibile?}
-{429}{}{ Oh, questo e' MOLTO meglio che starsene in un accogliente bordello!}
-{430}{}{ entriamo e usciamo, d'accordo?}
-{431}{}{ cosa ne diresti di visitarlo piu' tardi, questo posto?}
-{432}{}{ perche' diavolo siamo qui?}
-{433}{}{ questo posto non aiuta molto il mio morale.}
+{425}{}{Why don't we go back to the first level of the dungeon where all the kobolds are?}
+{426}{}{Good thing playing D&D all those years taught me a few things about courage.}
+{427}{}{Pass the Buffout. I think I'm going to need it soon.}
+{428}{}{Great place. Great place to visit. How about we keep our stay short?}
+{429}{}{Oh, this is MUCH better than being in some cozy whorehouse.}
+{430}{}{Let's get in, get out, all right?}
+{431}{}{How about we visit this place later?}
+{432}{}{Why the hell are we here?}
+{433}{}{This place ain't doing much for my morale.}
 {434}{}{Dico di mandare il buon vecchio Osso-al-Naso a esplorare la zona. Da solo.}
 {435}{}{Perche' non mandiamo avanti il buon vecchio Osso-al-Naso a esplorare la zona?}
 {445}{}{Perche' non mandiamo avanti il buon vecchio Marcus a esplorare la zona?}
 {446}{}{Dico di mandare avanti il buon vecchio Marcus. Da solo.}
-{447}{}{ passami del Buffout. Credo mi servira' molto presto.}
-{448}{}{ perche' non ce ne torniamo al primo livello del dungeon dove ci sono solo i coboldi?}
-{449}{}{ per fortuna tutti quegli anni passati a giocare a D&D mi hanno insegnato qualcosa sul coraggio.}
-{450}{}{ Gran bel posto da visitare... Gran bel posto davvero. Cosa ne diresti di andarcene il piu' presto possibile?}
-{451}{}{ Oh, questo e' MOLTO meglio che starsene in un accogliente bordello!}
-{452}{}{ entriamo e usciamo, d'accordo?}
-{453}{}{ cosa ne diresti di visitarlo piu' tardi, questo posto?}
-{454}{}{ perche' diavolo siamo qui?}
-{455}{}{ questo posto non aiuta molto il mio morale.}
+{447}{}{Pass the Buffout. I think I'm going to need it soon.}
+{448}{}{Why don't we go back to the first level of the dungeon where all the kobolds are?}
+{449}{}{Good thing playing D&D all those years taught me a few things about courage.}
+{450}{}{Great place. Great place to visit. How about we keep our stay short?}
+{451}{}{Oh, this is MUCH better than being in some cozy whorehouse.}
+{452}{}{Let's get in, get out, all right?}
+{453}{}{How about we visit this place later?}
+{454}{}{Why the hell are we here?}
+{455}{}{This place ain't doing much for my morale.}
 {456}{}{Mandiamo avanti il buon vecchio Lenny a esplorare questa zona. Da solo.}
 {457}{}{Perche' non mandiamo il vecchio Lenny a esplorare questa zona?}
 {465}{}{Ehi, grazie. Avevo proprio bisogno di tirarmi su.}
@@ -460,7 +460,7 @@
 {1466}{myn224b}{Non affaticare il tuo piccolo cervellino con questo pensiero, bellezza. Posso darti qualcos'altro da fare con la testa.}
 {1467}{}{Sei felice qui?}
 {1468}{}{Certo, immagino che a un idiota come me non si chieda di capire il processo di produzione di un ibrido allucinogeno-anfetamina come il Jet, eh?}
-{1469}{}{ Certo, immagino che a una sciacquetta come me non si chieda di capire il processo di produzione di un ibrido allucinogeno-anfetamina come il Jet, eh?}
+{1469}{}{Yeah, I guess a bimbo like me couldn't be expected to understand the process of manufacturing a hallucinogenic-amphetamine hybrid like Jet, huh?}
 {1472}{}{Credo che resterai sorpreso dalla quantita' di cose che so a proposito del tuo ibrido allucinogeno-anfetamina da quattro soldi. Non sono nemmeno tanto sicuro che un bambino come te non l'abbia scoperto PER CASO, Myron.}
 {1473}{}{Beh, grazie per aver fatto un tentativo, Myron. Adesso devo andare.}
 {1485}{myn225}{Abbastanza. Mi danno troie, soldi, droga. Un laboratorio privato. La liberta' creativa che mi serve per creare magie, ma, beh... no, naaa, e' una bella roba.}
@@ -498,7 +498,7 @@
 {1550}{}{D'accordo, allora. Avrei delle altre domande...}
 {1551}{}{Un modo di pensare davvero illuminato... Ci pensero', Myron.}
 {1552}{}{No, vale almeno il doppio di te. A dopo, ragazzo.}
-{1553}{}{ Ragazzo, il tuo ego ha appena firmato un assegno che il tuo corpo non puo' pagare. Preparati a morire.}
+{1553}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
 {1554}{}{Lo farebbero, invece! Vedrai.}
 {1555}{}{Sei tu quello che ci perde, Myron. A dopo.}
 {1565}{myn231}{Davvero? Sto ascoltando...}
@@ -604,7 +604,7 @@
 {1844}{}{Vabbe'. Adesso andiamo.}
 {1845}{}{Se si trattasse solo della puzza, potrei anche sopportarla. Andiamo.}
 {1860}{myn232a}{D'accordo.}
-{1863}{}{ Ragazzo, il tuo ego ha appena firmato un assegno che il tuo corpo non puo' pagare. Preparati a morire.}
+{1863}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
 {1866}{}{Andiamo.}
 {1870}{}{Me sente strano ora.}
 {1875}{}{Hai convinto Myron della possibile esistenza di una cura.}
@@ -650,7 +650,7 @@
 {6208}{}{?}
 {6218}{}{ andare}
 {6226}{}{ UCCIDE}
-{6247}{}{ e tu amici?}
+{6247}{}{'s fren?}
 {6256}{}{ beve}
 {6257}{}{ amico?}
 {6287}{}{ va.}

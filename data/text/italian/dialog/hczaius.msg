@@ -53,7 +53,9 @@
 {152}{}{Nessun problema. Addio.}
 {153}{}{No? Beh, se dovessi cambiare idea, sai dove trovarmi.}
 {154}{}{Certo. Addio.}
-{155}{}{$, allora. Meta' te la do subito. L'altra meta' te la daro' quando avrai finito. Vai a New Reno e cerca un certo Renesco. Ha attrezzi sparsi per tutto il negozio. Lui dovrebbe essere in grado di fornirti i pezzi che ti servono.}
+{155}{}{ it is, then. Take half now. I'll give you the other half when you're done. Go to New Reno and
+ look for Renesco. He's got tools just lying around his office. He should be able to help you with the
+ parts.}
 {156}{}{Ci vediamo.}
 {157}{}{Mi dispiace. Questo e' il massimo che posso offrirti. Prendere o lasciare.}
 {158}{}{La prendo.}

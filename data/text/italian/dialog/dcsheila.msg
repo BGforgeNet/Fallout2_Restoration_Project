@@ -61,7 +61,7 @@
 {211}{}{Addio.}
 {212}{}{Bye bye.}
 {213}{}{Una 'seduta' ti costera' }
-{214}{}{$. Pagamento anticipato.}
+{214}{}{ for a session. Pay first.}
 {215}{}{Seguimi.}
 {216}{}{Sto aspettando.}
 {217}{}{Non staro' qui in questa stanza gelida per tutto il giorno.}

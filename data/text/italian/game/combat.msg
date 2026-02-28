@@ -511,7 +511,7 @@
 {5013}{}{. Adesso quel braccio sembra un moncone insanguinato}
 {5014}{}{. Il colpo le ha spappolato il braccio destro}
 {5015}{}{. Il suo braccio destro e' stato polverizzato dal potente colpo}
-{5016}{}{. Che colpo potente}
+{5016}{}{ in a forceful blow}
 {5017}{}{. Il colpo ha attravesato le sue difese}
 {5018}{}{. La potenza del colpo le ha causato qualche danno in piu' del normale}
 {5019}{}{ in un punto non protetto dall'armatura. Il combattente e' stato scaraventato al tappeto}
@@ -549,7 +549,7 @@
 {5113}{}{. Adesso quel braccio sembra un moncone insanguinato}
 {5114}{}{. Il colpo le ha spappolato il braccio destro}
 {5115}{}{. Il potente colpo le ha ridotto in poltiglia il braccio destro}
-{5116}{}{. Che colpo potente}
+{5116}{}{ in a forceful blow}
 {5117}{}{. Il colpo ha attraversato le sue difese}
 {5118}{}{. La potenza del colpo le ha causato qualche danno in piu' del normale}
 {5119}{}{ in un punto non protetto dall'armatura. La combattente vola al tappeto}
@@ -580,7 +580,7 @@
 {5208}{}{. Il colpo gli ha spezzato quel braccio come fosse un pezzo di torrone morbido}
 {5209}{}{. Il braccio destro inizia a gonfiarsi, come un palloncino}
 {5210}{}{. L'infante inizia a piangere}
-{5211}{}{. Il punto colpito era molto sensibile}
+{5211}{}{ in a sensitive spot}
 {5212}{}{. L'attacco ad un organo vitale fa crollare a terra il bambino}
 {5213}{}{; il colpo fa rotolare a terra il bambino come fosse un giocattolo}
 {5214}{}{. Adesso questo bambino non potra' piu' scoprire la vita}
@@ -683,7 +683,7 @@
 {5809}{}{; il colpo colpisce una zona sensibile}
 {5810}{}{. La creatura e' chiaramente agitata}
 {5900}{}{. Strapazzato come un vecchio straccio, il centauro crolla a terra e sviene}
-{5901}{}{. Il colpo ha raggiunto un punto vitale}
+{5901}{}{ as the blow strikes a critical spot}
 {5902}{}{. Il colpo causa uno shock intenso ai centri nervosi}
 {5903}{}{. La violenza del colpo stordisce l'immondo centauro}
 {5904}{}{. La potenza del colpo gli tronca il braccio}
@@ -702,7 +702,7 @@
 {6004}{}{. Il robot cerca di compensare}
 {6005}{}{. Il robot si sforza di compensare}
 {6006}{}{. Il colpo ha centrato alcuni componenti chiave causando danni pesanti}
-{6007}{}{ che si vanno ad aggiungere ai gravi danni strutturali}
+{6007}{}{, inflicting heavy structural damage}
 {6008}{}{. Il colpo ha centrato un componente critico e causa gravi danni}
 {6009}{}{. Il robot ondeggia a causa di questo duro attacco}
 {6010}{}{. Il colpo ha praticamente smantellato il robot}

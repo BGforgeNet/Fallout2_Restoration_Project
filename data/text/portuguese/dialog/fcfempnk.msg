@@ -2,7 +2,7 @@
 {101}{}{Você vê uma mulher punk.}
 {102}{}{Você vê uma mulher jovem bem bonita… e cínica.}
 {103}{}{Eu aposto que meu namorado ofereceu me dividir.}
-{104}{}{As vezes eu fico enjoada quando viajo.}
+{104}{}{Às vezes eu me canso de viajar.}
 {105}{}{Com certeza seria bom morar aqui.}
 {106}{}{Eu aposto que a gente conseguiria fazer uma puta cena.}
 {107}{}{Você já esteve no leste, depois da água?}

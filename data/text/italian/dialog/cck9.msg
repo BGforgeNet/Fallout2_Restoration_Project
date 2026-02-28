@@ -174,7 +174,8 @@
 {273}{}{Non allontanarti troppo.}
 {274}{}{Andiamo.}
 {275}{}{E' tutto, per ora.}
-{276}{}{ Mi spiace padrone, ma non sembra esserci posto per me nel suo gruppo. Aspettero' qui finche' non si sara' liberato un posto.}
+{276}{}{I am sorry, master, but there does not appear to be room for me in
+ your party. I will wait here until a position opens.}
 {277}{}{Come desidera, padrone.}
 {278}{}{Tu curare te.}
 {279}{}{Tu aspettare qui. Me torna e prende te.}
@@ -201,14 +202,17 @@
 {1000}{}{Si', padrone?}
 {1100}{}{Tutti i sistemi funzionano a regime massimo, padrone.}
 {1200}{}{I miei sistemi funzionano a regime quasi massimo, padrone.}
-{1300}{}{ Ho effettuato tutte le riparazioni che potevo, padrone, ma avro' bisogno di ulteriore assistenza.}
-{1400}{}{ Ho effettuato tutte le riparazioni che potevo, padrone, ma il collasso del sistema sara' inevitabile se non mi verra' prestata ulteriore assistenza.}
+{1300}{}{Ho eseguito le riparazioni che potevo, padrone, ma avro' bisogno di
+ulteriore assistenza.}
+{1400}{}{Ho effettuato tutte le riparazioni che potevo, padrone, ma il collasso del sistema sara'
+ inevitabile senza assistenza.}
 {1500}{}{Aspettero' il suo ritorno, padrone.}
 {1600}{}{Vuole che ingoi i miei denti, padrone?}
 {1700}{}{La seguiro' stando al suo fianco, padrone.}
 {1800}{}{Mi muovero' a media distanza, padrone.}
 {1900}{}{Mi muovero' alla massima distanza accettabile, padrone.}
-{2000}{}{ Mi spiace padrone, ma non sembra esserci posto per me nel suo gruppo. Aspettero' qui finche' non si sara' liberato un posto.}
+{2000}{}{I am sorry, master, but there does not appear to be room for me in
+ your party. I will wait here until a position opens.}
 {2200}{}{Come desidera, padrone.}
 {2300}{}{Ho il pelo, padrone. Non indosso altro.}
 {2400}{}{Non ho intenzione di rimuovere il mio pelo, padrone.}

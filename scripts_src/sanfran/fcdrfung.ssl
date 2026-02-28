@@ -307,17 +307,15 @@ procedure Node001 begin
 end
 
 procedure NodeHowMuch begin
-   variable val;
-
-   val := ((dude_cur_hits - dude_max_hits) / -dude_max_hits) * 100;
+   variable hpPercent := dude_cur_hits * 100 / dude_max_hits;
 
    if (Is_Crippled(dude_obj)) then
       call Node011;
-   else if (val >= 90) then
+   else if (hpPercent >= 90) then
       call Node007;
-   else if (val >= 60) then
+   else if (hpPercent >= 60) then
       call Node008;
-   else if (val >= 35) then
+   else if (hpPercent >= 35) then
       call Node009;
    else
       call Node010;

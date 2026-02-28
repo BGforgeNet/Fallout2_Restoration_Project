@@ -18,7 +18,7 @@
 {203}{}{Non ti senti bene}
 {204}{}{Ti serve un laccio emostatico}
 {205}{}{Mai!}
-{300}{}{Nessuno}
+{300}{}{No}
 {301}{}{Mischia}
 {302}{}{Mischia e poi a distanza}
 {303}{}{A distanza e poi Mischia}

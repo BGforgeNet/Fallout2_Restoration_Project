@@ -327,8 +327,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {425}{lyn058}{Non ricordo la tua investitura. Fammi vedere i tuoi documenti.}
 {426}{}{Ecco a lei. Dovrebbe essere tutto in ordine.}
 {427}{}{Umm... Non ho i miei documenti con me.}
-{428}{}{ I miei documenti? Non sono ancora pronti. Dovrebbero arrivare sulla sua scrivania uno dei prossimi giorni.}
-{429}{}{ I miei documenti? Non sono ancora pronti. Dovrebbero arrivare sulla sua scrivania uno dei prossimi giorni.}
+{428}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
+{429}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
 {430}{lyn059}{Non giocare con me, "Cittadino," o faro' in modo che tu non metta piu' piede sulle strade di Vault City. Adesso vattene.}
 {431}{}{Nessun problema...adesso me ne vado. Addio.}
 {432}{}{Buona giornata, Primo Cittadino.}

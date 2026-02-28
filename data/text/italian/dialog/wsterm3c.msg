@@ -34,11 +34,11 @@
 {162}{}{}
 {163}{}{}
 {164}{}{Inizio sequenza d'avviamento in corso...}
-{165}{}{Livelli Energetici - nella norma}
-{166}{}{Tasso di Sincronia - 75%}
-{167}{}{L'unita' e' in funzione}
-{170}{}{Tasso di Sincronia - 50%}
-{174}{}{Tasso di Sincronia - 10%}
+{165}{}{                                   Power Levels - nominal}
+{166}{}{                                              Synch Ratio - 75%}
+{167}{}{                                               Unit is operational}
+{170}{}{                                              Synch Ratio - 50%}
+{174}{}{                                              Synch Ratio - 10%}
 {176}{}{Esci}
 {200}{}{ non e' in grado di leggere quello che c'e' sul monitor.}
 {300}{}{Questo computer sembra avere un qualche tipo di meccanismo difensivo.}

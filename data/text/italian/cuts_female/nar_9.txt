@@ -1,7 +1,7 @@
 1:E' fatta.
-2:Il Vault tredici appartiene alla Unity e al Master.
+2:Il Vault 13 appartiene alla Unity e al Master.
 3:La tua conoscenza delle difese del Vault ha salvato la vita di molti mutanti durante l'attacco.
 4:Hai preso la decisione finale di prendere la vita del Sovrintendente.
 5:Diventerai di certo uno dei migliori soldati della Unity, le tue abilita' verranno premiate spesso in futuro.
 6:Sei felice.
-7:Ma ti rimane un piccolo dubbio su cosa potrebbe essere stato...
+7:Ma rimane un piccolo dubbio su cosa sarebbe potuto essere...

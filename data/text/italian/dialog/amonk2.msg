@@ -1,6 +1,6 @@
 {100}{}{You see a monk.}
 {101}{}{Vedi una santona.}
-{102}{}{You see a regular Abbey monk.}
+{102}{}{Vedi un monaco ordinario dell'Abbazia.}
 {103}{}{You see a regular Abbey nun.}
 {200}{}{Greetings.}
 {201}{}{Welcome to the Abbey.}

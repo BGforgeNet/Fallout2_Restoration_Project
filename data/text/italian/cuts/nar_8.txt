@@ -1,2 +1,2 @@
-1:Hai combattuto valorosamente, ma senza successo.
-2:Il tuo corpo contorto e devastato crolla in un tripudio di pallottole, e cosi' la tua vita finisce nelle Lande.
+1:Hai combattuto valorosamente, ma senza successo.  
+2:Il tuo corpo contorto e distrutto cade in un pioggia di proiettili, e cosi' finisce la tua vita nelle terre desolate.

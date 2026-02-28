@@ -1,2 +1,2 @@
-1:Your mission beneath the Mutant Stronghold is successful.
-2:Your actions today will influence the outside world for years to come.
+1:La tua missione sotto il Fortino dei Mutanti ha successo.
+2:Le tue azioni ora influenzeranno il mondo esterno per gli anni a venire.

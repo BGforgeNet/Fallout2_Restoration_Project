@@ -22,13 +22,13 @@
 {330}{}{Uh, you don't look like a mechanic. Frankly, I don't think you can tell a spanner from a screwdriver from the
  looks of it, so why don't you go back and help the rest of the guys, instead of loitering in the torpedo room? I don't
  want you to blow us up accidentally.}
-{331}{}{Fine, I'll go.}
+{331}{}{Bene, me ne vado.}
 {340}{}{That's all fine and good, but, uh, why are you looking for the console in the torpedo room? It's in the room behind
  you. I need a mechanic, not another technician, so unless you are also a talented repairman, I need you to leave.}
 {341}{}{Actually, yes, I'm also a repairman, with quite a bit of experience in dealing with ancient technology. I believe
  I can handle those torpedoes. I'll get the propellers working properly and make sure they don't turn us into finely ground
  scrap.}
-{342}{}{Fine, I'll go.}
+{342}{}{Bene, me ne vado.}
 {350}{}{Oh, specialists in both fields are not common in the wastelands. I guess I can trust you, so go ahead and fix those
  torpedoes so that I can finally feel a little safer.}
 {351}{}{Okay.}

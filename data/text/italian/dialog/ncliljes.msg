@@ -306,7 +306,7 @@
 {5256}{}{?}
 {5257}{}{. Vieni con noi?}
 {5271}{}{. Abbassa la cresta e smamma, o preparati al peggio.}
-{5273}{}{ non provate a fare i furbi con noi, o diventerete cibo per vermi. Vattene da qui!}
+{5273}{}{s fuck with us, you'll be wormfood. Get outta here!}
 {5276}{}{? Ha appena finito di baciarmi il culo e se n'e' andata. Faresti meglio ad andartene anche tu.}
 {5280}{}{, faresti meglio ad andartene.}
 {5320}{}{? Con quel gancio destro che ti ritrovi, dovresti camminare a testa alta.}
@@ -322,6 +322,6 @@
 {5542}{}{! Il vecchio combattente! Cavoli, sei forte!}
 {5543}{}{! La terribile chica combattente! Sei grande, chica!}
 {5560}{}{? }
-{6035}{}{ No TOCCARE mano di }
+{6035}{}{'s hand No TOUCH }
 {7035}{}{'s hand }
 {8035}{}{ NO PIACE}

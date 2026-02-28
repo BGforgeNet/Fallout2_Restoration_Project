@@ -1,8 +1,12 @@
 {100}{}{Vedi una porta di legno.}
 {101}{}{Vedi una porta di metallo.}
 {102}{}{Vedi una porta robusta, con una serratura che puo' essere aperta con un set da scassinatore e una trappola esplosiva posta nello stipite. Usando una leva, dovresti essere in grado di forzare questa porta.}
-{103}{}{Vedi una porta robusta chiusa, con una serratura e una trappola esplosiva posta nello stipite. Usando una leva dovresti essere in grado di forzare questa porta.}
-{104}{}{Vedi una porta robusta, apparentemente senza serrature, e una trappola esplosiva posta nello stipite. Usando una leva dovresti essere in grado di forzare questa porta.}
+{103}{}{Vedi una porta robusta chiusa, con una serratura
+ e una trappola esplosiva posta nello stipite. 
+Usando una leva dovresti essere in grado di forzare questa porta.}
+{104}{}{Vedi una porta robusta, apparentemente senza serrature,
+ e una trappola esplosiva posta nello stipite. 
+Usando una leva dovresti essere in grado di forzare questa porta.}
 {105}{}{Vedi una porta robusta con una vecchia serratura arrugginita e una trappola esplosiva posta nello stipite. Usando una leva dovresti essere in grado di forzare questa porta.}
 {106}{}{Vedi una porta robusta con una serratura (che puo' essere aperta con un set da scassinatore) e una trappola nello stipite. Usando una leva, dovresti essere in grado di forzare questa porta.}
 {107}{}{Vedi una porta robusta con una serratura e una trappola nello stipite. Usando una leva dovresti essere in grado di forzare questa porta.}

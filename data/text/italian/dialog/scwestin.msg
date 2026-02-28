@@ -66,7 +66,7 @@
 {165}{}{Un lavoro. Vuoi forse dire--}
 {166}{}{Mi manda Bishop. Ho un breve messaggio da consegnarle. }
 {167}{}{Buonanotte e sogni d'oro, vecchio.}
-{168}{}{ dollari per te, allora. Tu esegui il lavoro, e io ti pago. Tu mi dici di no, e tu non esci vivo di qui. D'accordo?}
+{168}{}{dollars it is. You do the job, I pay you. You say no, you don't get out of here alive. Well?}
 {169}{}{Ohh, certo. Beh, avevo un problema con dei predatori, ma non si sono piu' fatti vedere. Mi dispiace. Prova con Felix e vedi se ha qualcosa da farti fare.}
 {170}{}{Ok, grazie.}
 {171}{}{Ehhh.... Ho il cuore in cattive condizioni... non posso prendere...}

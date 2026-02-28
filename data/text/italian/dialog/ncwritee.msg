@@ -139,8 +139,8 @@
 {1240}{}{. Cos'hai fatto di bello?}
 {1241}{}{?}
 {1242}{}{. Come vanno le cose?}
-{1245}{}{! Ed e' armato! Chiamate gli altri!}
-{1250}{}{! Ed e' armata! Chiamate gli altri!}
+{1245}{}{ family! And he's armed! Call the others!}
+{1250}{}{ family! And she's armed! Call the others!}
 {1255}{}{ che cerca di introdursi nella nostra proprieta'! Chiamate gli altri!}
 {1335}{}{? Ti sei azzuffato con qualcuno, giu' in citta'?}
 {1350}{}{, vero? Sei forte sul ring; il migliore che abbia mai visto da queste parti.}

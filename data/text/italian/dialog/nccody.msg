@@ -91,8 +91,8 @@
 {1204}{}{ triste. Tu visto macchina di }
 {1205}{}{ a macchina ora? Preeeego?}
 {1254}{}{?}
-{1282}{}{! Dove?! Dove?! Portare me! Portare me! Preeeeego? Tu fare? Eh?}
+{1282}{}{ car! Where! Where! Take me! Take me! Pleeease? Will you? Huh?}
 {1283}{}{ essere ...oh, guarda! Un luccichino! (Allontanati.)}
-{1293}{}{ e il pugno di }
-{2204}{}{?}
-{2293}{}{ si scambieranno quattro parole dall'altra parte della strada.}
+{1293}{}{'s car and }
+{2204}{}{ car?}
+{2293}{}{'s fist will be having a private conversation across the street.}

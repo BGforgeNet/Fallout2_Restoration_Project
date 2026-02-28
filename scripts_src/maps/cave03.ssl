@@ -42,7 +42,6 @@ procedure map_update_p_proc;
 procedure map_exit_p_proc;
 
 procedure LoadCritters;
-procedure LoadCritterPos;
 procedure LoadChests;
 
 #define AREA_1 19108
@@ -50,8 +49,8 @@ procedure LoadChests;
 #define AREA_3 20692
 
 #define CHEST_1 21675
-#define CHEST_2 18092
-#define CHEST_3 17908
+#define CHEST_2 18294
+#define CHEST_3 17910
 
 variable Critter;
 variable Critter_Tile;
@@ -170,67 +169,11 @@ end
 
 procedure LoadCritters begin
    call Choose_Encounter;
-   call LoadCritterPos;
-end
-
-#define AREABLK(area)                                         \
-   count := total_encounter_mobs;                             \
-   while (count > 0) do begin                                 \
-      call Choose_Pid;                                        \
-      call placeCritter(choose_enc_pid, choose_enc_sid, area);\
-      count -= 1;                                             \
-   end
-
-procedure LoadCritterPos begin
-   variable tile;
-   variable count;
-   variable obj;
-
-   AREABLK(AREA_1)
-   AREABLK(AREA_2)
-   AREABLK(AREA_3)
+   call DistributeCritters([AREA_1, AREA_2, AREA_3], random(1, 2));
 end
 
 procedure LoadChests begin
    variable obj;
 
-   obj := create_object(PID_CHEST, CHEST_1, 1);
-   if (obj) then begin
-      if (Random(1, 2) == 1) then
-         add_mult_objs_to_inven(obj, create_object(PID_STIMPAK, CHEST_1, 1), Random(1, 5));
-      if (Random(1, 4) == 1) then
-         if (dude_level > 7) then
-            add_obj_to_inven(obj, create_object(PID_POWER_FIST, CHEST_1, 1));
-         else
-            add_obj_to_inven(obj, create_object(PID_CATTLE_PROD, CHEST_1, 1));
-      item_caps_adjust(obj, 20 * Random(1, dude_luck));
-   end
-
-   obj := create_object(PID_CHEST, CHEST_2, 1);
-   if (obj) then begin
-      if (Random(1, 2) == 1) then
-         add_mult_objs_to_inven(obj, create_object(PID_STIMPAK, CHEST_2, 1), Random(1, 5));
-      if (Random(1, 4) == 1) then
-         if (dude_level > 5) then
-            add_obj_to_inven(obj, create_object(PID_SUPER_SLEDGE, CHEST_2, 1));
-         else
-            add_obj_to_inven(obj, create_object(PID_HUNTING_RIFLE, CHEST_2, 1));
-      item_caps_adjust(obj, 20 * Random(dude_luck, dude_luck * dude_luck));
-   end
-
-   obj := create_object(PID_CHEST, CHEST_3, 1);
-   if (obj) then begin
-      if (Random(1, 2) == 1) then
-         if (dude_level < 7) then
-            add_mult_objs_to_inven(obj, create_object(PID_FRAG_GRENADE, CHEST_3, 1), Random(1, 5));
-         else
-            add_mult_objs_to_inven(obj, create_object(PID_PLASMA_GRENADE, CHEST_3, 1), Random(1, 5));
-
-      if (Random(1, 4) == 1) then
-         if (dude_level > 10) then
-            add_obj_to_inven(obj, create_object(PID_PLASMA_RIFLE, CHEST_3, 1));
-         else
-            add_obj_to_inven(obj, create_object(PID_HUNTING_RIFLE, CHEST_3, 1));
-      item_caps_adjust(obj, 20 * Random(dude_luck, dude_luck * dude_luck));
-   end
+   call LoadGenericChests(1, CHEST_1, CHEST_2, CHEST_3);
 end

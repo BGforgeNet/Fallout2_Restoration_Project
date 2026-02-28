@@ -5,7 +5,7 @@ on:
   pull_request:
 
 env:
-  sfall_version: 4.4.9
+  sfall_version: 4.4.9.1
   mpack_version: 4.4.9
 
 jobs:
