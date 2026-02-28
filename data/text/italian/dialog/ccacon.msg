@@ -1,7 +1,7 @@
 {100}{}{Vedi una persona che indossa un'uniforme militare.}
 {101}{}{Vedi una persona che indossa un'uniforme militare.}
 {102}{}{Vedi una persona che indossa un'uniforme militare, ma sembra essere piu' un tecnico che un soldato.}
-{103}{}{Hey. How's it going?}
+{103}{}{Hey. Come va?}
 {104}{}{‘Ricevuto, ti ho sul radar’ ... scusa, ma adesso sono impegnato.}
 {105}{}{Adesso non posso parlare.}
 {106}{}{Guarda pure, ma non toccare.}

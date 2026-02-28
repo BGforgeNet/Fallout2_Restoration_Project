@@ -38,7 +38,7 @@
 {200}{}{Ciao, cugina... uh, voglio dire Prescelta. Spero tu abbia trovato il GECK. Ho sentito dire che
  ci aspettano tempi duri.}
 {202}{}{Me ancora cercando, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{La sto ancora cercando, cugino.}
 {204}{}{Bentornata a casa, cugina. Qui le cose si sono fatte un po' piu' difficili. Hai trovato il
  sacro Tredici e il GECK?}
 {206}{}{Me no trovato. Scusa.}

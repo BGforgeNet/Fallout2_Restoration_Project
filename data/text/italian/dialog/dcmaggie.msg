@@ -5,12 +5,12 @@
 {152}{}{[PARLA]}
 {153}{}{Hello, stranger, and welcome to my saloon. I'm Becky.}
 {154}{}{Hello, I am }
-{155}{}{. What's there to do around here?}
-{156}{}{Hi, I'm }
+{155}{}{. Cosa c'e' da fare da queste parti?}
+{156}{}{Ciao, sono }
 {157}{}{. Can I ask some questions?}
 {158}{}{Mammina?}
 {159}{}{Mag gah.}
-{160}{}{Run along. I don't need your kind here.}
+{160}{}{Smamma. Non ho bisogno di gente come te da queste parti.}
 {161}{}{Mmmm...}
 {162}{}{Fottiti.}
 {163}{}{Sto andando.}
@@ -24,7 +24,7 @@
 {171}{}{Hmm, can I ask something else?}
 {172}{}{Damn, I need to find it. Bye.}
 {173}{}{Cosa vorresti sapere?}
-{174}{}{Where's a good place to eat?}
+{174}{}{C'e' un buon posto dove mangiare?}
 {175}{}{Sa dove si trova il Vault 13?}
 {176}{}{Come mai i tuoi drink sono cosi' a buon mercato?}
 {177}{}{Nulla. Arrivederci.}
@@ -34,33 +34,33 @@
 {181}{}{Grazie. Ciao.}
 {182}{}{Smamma.}
 {183}{}{Gwah.}
-{184}{}{I'll give you something to beat.}
+{184}{}{Ti daro' io qualcosa da battere.}
 {185}{}{Quick question first?}
 {186}{}{Addio.}
 {187}{}{A shot of whiskey is $5. Pay first.}
 {188}{}{Eh?}
-{189}{}{Here's the money.}
+{189}{}{Ok. Ecco i soldi.}
 {190}{}{Changed my mind.}
-{191}{}{I'm a little short of cash. Can I have a tab?}
+{191}{}{Sono un po' a corto di soldi. Posso mettere in conto?}
 {192}{}{Posso farti una domanda?}
 {193}{}{Gotta go.}
-{194}{}{Here's the drink. Anything else?}
+{194}{}{Ecco l'ordinazione. Serve qualcos'altro?}
 {195}{}{Question?}
 {196}{}{Yeha, how about you and I...}
 {197}{}{No.}
 {198}{}{Hey, you don't enough cash for this drink. You're poorer than even these sops!}
 {199}{}{Scusa.}
-{200}{}{Hmm, I'll come back.}
+{200}{}{Hmm, tornero' piu' tardi.}
 {201}{}{Hmm. Let me get someone to watch the bar. You and I can go into the back room and play a little
  game I call "First Strike." If you're good, well, there's "Ground Zero."}
 {202}{}{OK!}
-{203}{}{Er... uh... I have to go.}
+{203}{}{Er... uh... devo andare.}
 {205}{}{You were OK.}
 {206}{}{Next time, let's play "Into the Glow." But for now...}
 {207}{}{Puoi fare qualcosa per me?}
-{208}{}{I have to go, but I'll come back.}
+{208}{}{Devo andare, ma tornero' piu' tardi.}
 {209}{}{What can I do for you, sweet cheeks?}
-{210}{}{I need some more lovin'.}
+{210}{}{Ho bisogno di un altro po' d'amore.}
 {211}{}{I got some questions.}
 {212}{}{How can you sell your drinks so cheaply?}
 {213}{}{How about a drink?}
@@ -71,14 +71,14 @@
 {218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno
  gangsters.}
 {219}{}{Smart girl! I like that!}
-{220}{}{Hmm, I have to go. I'll see you later.}
+{220}{}{Hmm, devo andare. Ci vedremo piu' tardi.}
 {221}{}{Why? Why did you destroy my still? You bastard!}
 {222}{}{Nothing personal. I got paid to do it.}
 {223}{}{Mi dispiace.}
 {224}{}{Addio.}
-{225}{}{I'll just make another one, you know.}
+{225}{}{Ne faro' semplicemente un altro, lo sai.}
 {226}{}{I know.}
-{227}{}{Well, that's good.}
+{227}{}{Beh, e' un bene.}
 {228}{}{Addio.}
 {232}{}{Why? Why did you destroy my still? You bitch!}
 {233}{}{Where are you, baby?}

@@ -2,8 +2,7 @@
 {101}{}{Vedi Metzger, il Mastro Schiavista.}
 {150}{}{Metzger e' il capo della Gilda degli Schiavisti.}
 {200}{}{La pagherai per questo.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
+{210}{}{Che cosa cazzo vuoi? Questa e' la Gilda degli Schiavisti e non e' il posto adatto per i fottuti sballati di jet come te.}
 {211}{}{Che cosa diavolo vuoi, brutta troia? Questa e' la Gilda degli Schiavisti e non un fottuto bordello.}
 {212}{}{Che cosa diavolo vuoi, troia? Questa e' la Gilda degli Schiavisti e non un fottuto bordello.}
 {213}{}{Stai cominciando a farmi incazzare. Che cosa diavolo vuoi, adesso?}
@@ -240,7 +239,7 @@
  spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
 {915}{}{Got it. Let me ask you something else.}
 {916}{}{Thanks. I'll be on my way now. Bye.}
-{1360}{}{ for her. How about it?}
+{1360}{}{ per lei. Che ne dici?}
 {1361}{}{?}
 {1363}{}{.}
 {1364}{}{.}
@@ -250,14 +249,14 @@
 {1541}{}{$. Sei stato grande. Continua cosi'.}
 {1542}{}{.}
 {1543}{}{, }
-{1544}{}{ isn't something to laugh at, but you can't make a lot more than that.}
-{1545}{}{ this time. Pretty good job.}
+{1544}{}{ Non c'e' molto da sorridere, ma non potevi pretendere di piu'.}
+{1545}{}{ per stavolta. Bel lavoro.}
 {1546}{}{.}
 {1547}{}{$? Non male.}
 {1548}{}{$? Puoi fare di meglio.}
 {1549}{}{.}
 {1550}{}{$! Pietoso! Rimettiti in riga o ti caccio.}
-{1551}{}{ and get out.}
+{1551}{}{ e sparisci.}
 {2540}{}{.}
 {2543}{}{.}
 {15401}{}{$. Un lavoro niente male, }

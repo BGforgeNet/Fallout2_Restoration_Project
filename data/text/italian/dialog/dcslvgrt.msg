@@ -12,7 +12,7 @@
 {219}{}{Ti faro' un'altra domanda, allora.}
 {220}{}{Grazie, lo faro'.}
 {221}{}{Medger}
-{222}{}{Uh... kay.}
+{222}{}{Uh... okay.}
 {230}{}{Adesso morirai.}
 {240}{}{Mi stai pigliando per il culo?! Noi catturiamo e vendiamo schiavi. E' per questo che sei qui, no? Cerchi un po' di azione?}
 {241}{}{Ya gotta be shittin' me! We capture and sell slaves. If ya ain't here for that, whatta
@@ -87,7 +87,7 @@
 {384}{}{Un'altra domanda.}
 {385}{}{Grazie, lo faro'.}
 {386}{}{Medger}
-{387}{}{Uh... kay.}
+{387}{}{Uh... okay.}
 {400}{}{No, ma prova a parlare con il capo. Probabilmente lui conosce un sacco di posti, da queste parti.}
 {401}{}{Un'altra domanda.}
 {402}{}{Okay, grazie. Ci vediamo.}

@@ -112,8 +112,8 @@
 {211}{}{ non riesce a piazzare una trappola nel contenitore.}
 {212}{}{Vedi un refrigeratore.}
 {400}{}{Apri il contenitore.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
+{601}{}{E' aperto, scemo.}
+{610}{}{Fallisci clamorosamente e l'esplosivo esplode prematuramente.}
 {611}{}{ fallisce clamorosamente e l'esplosivo esplode prematuramente.}
 {620}{}{Pieghi il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
 {621}{}{ Piega il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}

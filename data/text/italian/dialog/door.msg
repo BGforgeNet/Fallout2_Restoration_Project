@@ -131,8 +131,8 @@ Usando una leva dovresti essere in grado di forzare questa porta.}
 {501}{}{Pare tu debba prima riattivare il generatore.}
 {502}{}{Vedi: Porta dell'Ascensore.}
 {503}{}{Pare tu abbia bisogno di un dispositivo elettrico per aprire questa porta.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
+{601}{}{E' aperto, scemo.}
+{610}{}{Fallisci clamorosamente e l'esplosivo esplode prematuramente.}
 {611}{}{ fallisce clamorosamente e l'esplosivo esplode prematuramente.}
 {620}{}{Pieghi il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
 {621}{}{ Piega il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}

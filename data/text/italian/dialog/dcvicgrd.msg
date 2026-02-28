@@ -105,9 +105,9 @@
 {481}{}{Okay.}
 {482}{}{Bene.}
 {490}{}{No, mi dispiace.}
-{491}{}{I said no. Now beat it. You've got to talk to Metzger.}
+{491}{}{Ho detto no. Adesso sparisci. Devi parlare con Metzger.}
 {492}{}{Okay.}
-{500}{}{Too bad you didn't join us.}
+{500}{}{E' un peccato che tu non ti sia unito a noi.}
 {501}{}{Dovresti entrare nella nostra gilda.}
 {502}{}{Faccio solo la guardia.}
 {503}{}{Spero che Vic ti sia utile.}
