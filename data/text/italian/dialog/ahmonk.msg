@@ -34,7 +34,7 @@
 {415}{}{Ok, bye.}
 {416}{}{Hello, my friend.}
 {417}{}{I've killed your beast, and I've got your book.}
-{418}{}{Excellent! Let me have it!}
+{418}{}{Ottimo! Fammelo avere!}
 {419}{}{Ecco qua.}
 {420}{}{Not so fast. How much is it worth to you?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
@@ -127,7 +127,7 @@
 {806}{}{Really? Please, do tell.}
 {807}{}{The motor gave out and fried all the connectors. I'm going to Vault City to get a new part.}
 {808}{}{Oh thank you. You are indeed a great help. Please report back once you install the new part.}
-{809}{}{I will. Be back soon.}
+{809}{}{Lo farò. Torno subito.}
 {900}{}{You explain to the Abbot that while the information they hold could lead to mankind's annihilation, it could also lead to mankind's salvation.}
 {901}{}{You learn about the original founder of the Abbey.}
 {1000}{}{I killie scary monster down in cave.}
