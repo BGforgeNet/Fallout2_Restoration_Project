@@ -115,8 +115,8 @@
 {601}{}{It is open, dummy.}
 {610}{}{You fail spectacularly, and the explosive goes off prematurely.}
 {611}{}{ fallisce clamorosamente e l'esplosivo esplode prematuramente.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{620}{}{Pieghi il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
+{621}{}{ Piega il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
 {800}{}{Hai recuperato il FOB.}
 {810}{}{Hai recuperato gli schemi tecnici.}
 {820}{}{Hai recuperato il motivatore di K-9.}

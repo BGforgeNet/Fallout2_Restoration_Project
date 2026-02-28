@@ -1,9 +1,9 @@
-{100}{}{You see a member of the Slaver's Guild.}
-{150}{}{You see Metzger, head of the Slaver's Guild.}
+{100}{}{Vedi un membro della Gilda degli Schiavisti.}
+{150}{}{Vedi Metzger, il capo della Gilda degli Schiavisti.}
 {151}{}{[PARLA]}
-{152}{}{Guards! Attack!}
+{152}{}{Guardie! Attaccate!}
 {153}{}{[fatto]}
-{154}{}{Come back in the morning damn it! I do my business during the day.}
+{154}{}{Torna di mattina, dannazione! Faccio affari durante il giorno.}
 {155}{}{[fatto]}
 {156}{}{What is it now? You're really starting to piss me off.}
 {157}{}{I would like to apologize.}

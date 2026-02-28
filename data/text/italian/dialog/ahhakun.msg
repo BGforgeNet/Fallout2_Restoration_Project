@@ -190,5 +190,5 @@
 {289}{}{E poi?}
 {290}{hak122}{Troppe stagioni e troppe ferite, Prescelto. Piuttosto, tu devi ascoltare.}
 {291}{}{Okay.}
-{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
+{300}{}{Coloro che rubano portano un grande fardo. Ricorda questo, Prescelto.}
 {301}{}{You must now pay for your sins, Chosen One.}
