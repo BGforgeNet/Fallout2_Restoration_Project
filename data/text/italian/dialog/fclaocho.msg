@@ -28,7 +28,7 @@
 {127}{}{Sto cercando una milza.}
 {128}{}{Mi e' stato detto che alcune macchine volanti hanno portato qui un carico di selvaggi.}
 {129}{}{Nulla. Arrivederci.}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Parli con Crocket, giu' al campo Hubologista. E' il loro scienziato capo.}
 {131}{}{Grazie. Vorrei delle altre informazioni.}
 {132}{}{Grazie. Ciao.}
 {133}{}{Provi a nord, a Navarro. C'e' una base segreta vicino alla pompa di benzina.}

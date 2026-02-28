@@ -50,7 +50,7 @@
 {199}{}{[Stringi la mano a Grisham]}
 {200}{}{Aspetta solo un secondo. Adesso che ci penso, quei brahmin mi sembravano piuttosto magri. Facciamo 750$, che ne dici?}
 {201}{}{Ho cambiato idea, non voglio pagarti.}
-{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
+{202}{}{[Ti fa un gran sorriso con tutti i denti.] Bello vedere che sei una persona di carattere.}
 {203}{}{[Grisham diventa rosso come una rapa e ti parla con i denti serrati.] OK, 750$ allora. Dammi i soldi!}
 {204}{}{Sai, 750$ mi sembrano ancora un po' troppi. Quei brahmin sarebbero morti lo stesso anche se i cani non li avessero sbranati. Ma non sono cosi' egoista: ti daro' 50$.}
 {206}{}{BENE! DAMMI I SOLDI E VATTENE!}
@@ -124,8 +124,8 @@
 {603}{}{Uhhh, e' morta.}
 {604}{}{Miria era viva quando l'ho lasciata, ma sono quasi sicuro che a quest'ora sia morta.}
 {605}{}{Davin era vivo quando l'ho lasciato, ma sono quasi sicuro che a quest'ora sia morto.}
-{606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
-{607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
+{606}{}{Davin, uhhh, non poteva viaggiare, ma gli diro' che lo saluti, quando lo rivedro'.}
+{607}{}{Miria, uhhh, non poteva viaggiare, ma le daro' un abbraccio da parte tua, quando la rivedro'.}
 {700}{}{Aggg... [Un'espressione scioccata compare sul volto di Grisham mentre, con una mano, improvvisamente si stringe il petto e crolla per terra.]}
 {750}{}{Beh, adesso devo tornare al lavoro. Ci vediamo.}
 {800}{}{Hai salvato i brahmin di Grisham.}
@@ -147,7 +147,7 @@
 {1238}{}{Vediamo un po'... A me sembra che tu e mia nipote steste imitando due brahmin durante la stagione degli amori.}
 {1239}{}{Vediamo un po'... A me sembra che tu e mio nipote steste ballando il tango orizzontale tra le lenzuola.}
 {1403}{}{Come osi disonorare }
-{1412}{}{daughter.}
+{1412}{}{la mia bambina}
 {1413}{}{son.}
 {1600}{}{. Spero che tu ti sia preso cura di mia figlia Miria. E' la luce della mia vita e mi si spezzerebbe il cuore se le succedesse qualcosa. A proposito, dov'e'? Speravo tanto di rivederla.}
 {1601}{}{. Come va la vita matrimoniale? Vedo che mio figlio Davin non e' con te. Mi manca davvero molto. Magari la prossima volta che vieni a farmi visita potresti portarlo con te. Rivedere il mio unico figlio mi renderebbe un vecchio felice.}

@@ -40,7 +40,7 @@
 {920}{}{Ti imbatti nei resti di Nagor, morto mentre cercava di salvare il suo cane.}
 {921}{}{Nagor e' morto mentre cercava di riportare al villaggio il cadavere del suo cane.}
 {930}{}{Hoooooowl!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
+{950}{}{Ti prendi un po' di tempo per esercitarti con alcune mosse. Le tue abilita' di combattimento senza armi aumentano.}
 {951}{}{Il ratto-talpa combattente si avventa sull'avversario per infliggergli il colpo di grazia.}
 {952}{}{L'incontro e' terminato.}
 {1000}{}{Hai superato il Test di Cittadinanza.}

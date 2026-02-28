@@ -33,8 +33,7 @@
 {132}{}{Liz, che non e' male per essere un'umana, gestisce l'emporio a ovest della banca. Nient'altro?}
 {133}{}{D'accordo, allora. Ci vediamo dopo.}
 {134}{}{Cameron e' il leader degli umani normali. Non ama molto i mutanti e i ghoul, ma ci tratta bene. E' un politico, per cui di solito lo trovi alla banca o al saloon. A volte lo puoi persino trovare che lavora dal fabbro. Nient'altro. E a parte questo: dove sono? Ah si'... allora... nient'altro?}
-{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
- the jail. Anything else?}
+{135}{}{Marcus e' il nostro leader. E' uno di quelli che hanno fondato Broken Hills. Di solito lo puoi trovare alla banca o al carcere. Nient'altro?}
 {136}{}{Taccagno bastardo. Sai quanto duramente lavoriamo? Spero tu marcisca.}
 {137}{}{Grazie per l'uranio!}
 {138}{}{Non posso credere che la miniera sia esplosa. Adesso moriremo tutti di fame. Quella miniera era l'unica cosa che mandava avanti questa citta'. Beh, almeno posso invecchiare senza lavorare...}

@@ -21,7 +21,7 @@
 {130}{}{Non mi sembri un cannibale.}
 {131}{}{Qui non c'e' posto per i tipi come te.}
 {132}{}{Troppi stranieri ultimamente.}
-{133}{}{Well at least your teeth ain't filed into points.}
+{133}{}{Beh, almeno i tuoi denti non sono affilati.}
 {134}{}{Possiamo scordarci la tranquillita'.}
 {135}{}{Non dovresti avere un osso, infilato nel naso?}
 {136}{}{(ti guarda e poi scuote la testa)}
@@ -29,7 +29,7 @@
 {138}{}{Probabilmente sei tu il responsabile delle mutilazioni sui brahmin.}
 {139}{}{Some of our trappers' have gone missing; you're prob'ly why.}
 {140}{}{Ci sono degli uomini-insetto che si aggirano nei pressi della citta'.}
-{141}{}{There's a spirit in a canyon East of town.}
+{141}{}{C'e' un fantasma nel canyon a est del paese.}
 {142}{}{Non farti beccare dallo Spirito!}
 {143}{}{Farai meglio a non rubare i nostri brahmin.}
 {144}{}{Ti teniamo d'occhio.}

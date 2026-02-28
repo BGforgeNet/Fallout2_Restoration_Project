@@ -50,8 +50,7 @@
 {149}{}{Uh... ascolta. Qui sotto c'e' un enorme coso con diverse gambe dal quale vorrei allontanarmi. Potresti sbrigarti?}
 {150}{}{Typhon avrebbe dovuto sapere che i tappi sono ormai inutili. O no?}
 {151}{}{Oh mio DIO! Si sta arrampicando su di me! AIUTO!}
-{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
- shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
+{152}{}{Sai, tutto assume un sapore diverso quando ci pensi. Lui pensava davvero di aiutarmi. Forse non dovrei essere cosi' duro con quel vecchio. ::sigh:: Al diavolo il tesoro. Ho altro da fare.}
 {153}{}{::Piagnucolio...::}
 {154}{}{Me no interessa piu' pozzo, ormai.}
 {155}{}{Hmmmm... Continuo ad avere questa strana sensazione... come se mi fossi dimenticato qualcosa a proposito del pozzo. Oh beh, meglio non perdere altro tempo...}

@@ -53,8 +53,7 @@
 {317}{}{Tiragli un calcio con lo stivale sul quale ha sputato.}
 {318}{}{-Allontanati- }
 {319}{}{Ignoralo. Per questa volta. }
-{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{Beh, io… cioe', la famiglia Wright… la mia famiglia… potrebbe avere qualcosa da farti fare. Non ti prometto nulla, ma va' nella grande casa che c'e' subito a sud di qui, trova mio fratello Keith e digli che ti mando io. Mi chiamo Chris. Chris Wright.}
 {326}{}{Uh, la famiglia Wright? E chi sarebbero?}
 {327}{}{Wright, eh? Ho conosciuto tua madre.}
 {328}{}{Puoi dirmi cos'e' successo a tuo fratello Richard?}

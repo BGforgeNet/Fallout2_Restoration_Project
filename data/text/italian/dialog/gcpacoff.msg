@@ -35,7 +35,7 @@
 {134}{}{Ecco... cosi' dovrebbe andare. Va' meglio?}
 {135}{}{Fortunato? Pensi che io creda ancora nella fortuna? Ho vissuto troppo a lungo in questo mondo per illudermi che esista una tale entita'.}
 {136}{}{Provero' di nuovo piu' tardi. Chiudo.}
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
+{137}{powr6_a}{Il Prescelto, eh? Beh, uh, mi perdoni per non averle subito incensato le chiappe, ma sono troppo occupato per badare a questa sua nobilta'.}
 {138}{}{Inginocchiati davanti a me e potrei anche decidere di risparmiarti la vita. Gee, mi piace come suona.}
 {139}{}{Non insistero' oltre sulla genuflessione. Un leggero inchino e un bacio sul mio anello saranno sufficienti.}
 {140}{}{Uh, quello che volevo dire e' che sono stato *scelto* per riparare questo comunicatore. Pare non ci sia piu' nulla che funzioni bene.}

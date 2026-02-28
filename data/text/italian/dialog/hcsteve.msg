@@ -23,7 +23,7 @@
 {122}{}{Quello che estraiamo lo vendiamo alle citta' vicine. Lo trovano vantaggioso. Se vuoi vendere qualcosa, puoi parlare con i molti mercanti presenti in citta'. Ad ogni modo, adesso devo tornare al lavoro. Fa' il bravo e sta' attento, okay?}
 {123}{}{Oh-kay! Ciaooooo!}
 {124}{}{Adesso devo tornare al lavoro. Fa' il bravo e sta' attento, okay?}
-{125}{}{You again? Well, you know what you have to do -- be good and careful. Take care!}
+{125}{}{Ancora tu? Beh, sai quello che devi fare -– fare il bravo e stare attento. Buona fortuna!}
 {126}{}{Oh-kay! Ciaoooooooooooo!}
 {127}{}{Metti via quelle armi, amico. Finche' sventolerai il tuo arsenale a quel modo non riceverai risposte da me.}
 {128}{}{Siamo una piccola comunita' di minatori. La nostra citta' e' stata fondata diverse decadi fa da Marcus, il nostro sceriffo, e da un uomo di nome Jacob. I due scelsero questo posto perche' era vicino ad alcuni giacimenti di uranio. Vuoi saperne di piu'?}
@@ -43,7 +43,7 @@
 {142}{}{A parte il fatto che i mutanti sono morti e la nostra unica fonte di sostentamento e' stata distrutta... }
 {143}{}{A parte il tuo voler fare l'eroe, svelando la corruzione che si annidava in mezzo a noi... }
 {144}{}{A parte l'aver scoperto di avere un cancro in mezzo a noi, dopo la fuga di Franc e Manson... }
-{145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
+{145}{}{A parte il tradimento ai danni della citta' ad opera di Chad e della tua giustizia -... della quale ti siamo tutti davvero grati -– }
 {146}{}{Non molte, in verita'...}
 {147}{}{Ho delle altre domande.}
 {148}{}{Addio.}
@@ -73,8 +73,7 @@
 {172}{}{Davvero? Credevo che la maggior parte di loro fossero ormai morti.}
 {173}{}{Uno sceriffo mutante, eh? Allora e' probabile che la legge sia rispettata piuttosto alla lettera, in questa citta'. Un'idea che funziona.}
 {174}{}{Addio.}
-{175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
- to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
+{175}{}{E' per questo che noi cerchiamo di sopravvivere, nel tentativo di dare vita alla nostra idea di civilta', facendo del nostro meglio per non arrenderci a Vault City o a NCR -– non abbiamo bisogno del loro stile di governo. Questo e' tutto.}
 {176}{}{Ottimo. Ho delle altre domande.}
 {177}{}{Grazie. Ciao.}
 {178}{}{Se intendi continuare a credere di poter giudicare l'animo di una persona basandoti su cio' che vedi all'esterno, allora si'. Sei innegabilmente un ignorante.}
@@ -83,17 +82,14 @@
 {181}{}{Comunque sia, questo e' tutto quello che avevo da dire. Benvenuto a Broken Hills.}
 {182}{}{Aspetta.}
 {183}{}{Addio.}
-{184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
- forever -- in fact, most of them are going senile now. Building a community isn't going to help them
- achieve their aims.}
+{184}{}{Se i mutanti avessero voluto farci del male, ci avrebbero gia' sterminato. Nemmeno loro dureranno in eterno... infatti, la maggior parte dei mutanti sta invecchiando. Dare vita ad una comunita' non li aiuta certo a raggiungere i loro antichi scopi.}
 {185}{}{Mi hai convinto.}
 {186}{}{Rimangono pur sempre cattivi.}
 {187}{}{Addio.}
 {188}{}{Amico, piu' parlo con te e piu' mi mancano le parole. Con un carattere come il tuo, non sarai il benvenuto a Broken Hills. Se vuoi scusarmi, ho del lavoro da fare.}
 {189}{}{Stronzo.}
 {190}{}{E' tempo di morire, stronzo.}
-{191}{}{We have a mine, a refinery, a tavern, a hotel -- which, by the way, has lost its owner, so we
- just let people stay there free -- a hospital, a general store, and a chemist. We grow our own food.}
+{191}{}{Ci sono una miniera, una raffineria, una taverna, un hotel -– il quale, tra parentesi, non ha piu' un proprietario, per cui lasciamo che la gente vi soggiorni gratis -– un ospedale, un emporio, e una farmacia. Coltiviamo da noi il nostro cibo.}
 {192}{}{D'accordo. Avrei delle altre domande.}
 {193}{}{Addio.}
 {194}{}{Beh, molti lo sono. Dal momento che i mutanti sono sterili... o almeno e' cosi' che sono portato a credere... si stanno estinguendo. Quelli che sono rimasti stanno ormai diventando vecchi. Non Marcus, pero'. Lui e' ancora in gran forma.}
@@ -105,8 +101,7 @@
 {200}{}{[AVANTI]}
 {201}{}{Amico, non sei desiderato qui. Hai fatto gia' abbastanza danni.}
 {202}{}{[FATTO]}
-{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
- Jail. Sometimes he's in the tavern or at home, but he's usually working.}
+{300}{}{Di solito puoi trovare Marcus vicino alla Banca... che serve anche come carcere di sicurezza... oppure al carcere. A volte e' alla taverna o a casa, ma di solito lavora.}
 {301}{}{Merda!}
 {302}{}{Dannazione!}
 {303}{}{Urra'!}

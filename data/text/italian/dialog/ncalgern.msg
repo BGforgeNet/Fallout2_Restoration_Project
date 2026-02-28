@@ -61,5 +61,5 @@
 {291}{}{Che ne dici di un sorsetto di questo carburante per lanciafiamme?}
 {292}{}{Ecco qua del carburante per lanciafiamme. Puoi farci qualcosa?}
 {301}{}{Dagli il tuo pungolo per bestiame. Uh... dopo aver fatto attenzione che lo prenda per l'impugnatura.}
-{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
+{302}{}{Il tuo Power-Fist BeatCo. "Gran Prepotente".}
 {400}{}{Me ucciso Al. Me meglio andare via da qua.}

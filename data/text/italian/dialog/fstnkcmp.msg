@@ -14,11 +14,11 @@
 {113}{}{[INDIETRO]}
 {114}{}{Disconnetti.}
 {115}{}{ERRORE: Serbatoi Carburante Vuoti.}
-{116}{}{ERROR: Navigation Computer non Functional.}
+{116}{}{ERRORE: Computer di Navigazione non Funzionante.}
 {117}{}{-Serbatoi Carburante: Vuoti- -Magazzini di Carico: Vuoti- -Computer Navigazione: Funzionante- -Ormeggi: Assicurati a terra-}
 {118}{}{-Serbatoi Carburante: Pieni- -Magazzini di Carico: Vuoti- -Computer Navigazione: Funzionante- -Ormeggi: Assicurati a terra-}
-{119}{}{You see a PoseidoNet Navigation Computer.}
+{119}{}{Vedi un Computer di Navigazione PoseidoNet.}
 {129}{}{[Completi rapidamente la sequenza di salpamento e la nave schizza via dal molo.]}
 {130}{}{[FATTO]}
-{131}{}{Navigation Computer on-line.}
+{131}{}{Computer di Navigazione Attivo.}
 {200}{}{WARNING: Submarine still active. Proceeding would result in the ship's destruction.}

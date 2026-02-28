@@ -74,7 +74,7 @@
 {401}{}{COSA? Hai barato!}
 {402}{}{Cacatto?}
 {403}{}{Devi accettare la sconfitta.}
-{404}{}{And... checkmate!}
+{404}{}{E...scacco matto!}
 {405}{}{Scaccomatto!}
 {406}{}{::chitter:: Uccide pianta! ::click-clack-click::}
 {407}{}{Hai dimostrato di poter sconfiggere un radscorpione piu' intelligente di te.}

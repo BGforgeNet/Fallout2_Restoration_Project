@@ -5,7 +5,7 @@
 {104}{}{Tu. Per quale ragione ti trovi qui?}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Ho una lettera per AHS-9 da parte dell'Illuminata di NCR.}
-{107}{}{I'm here to speak to Crockett about some armor.}
+{107}{}{Sono qui per parlare con Crocket a proposito di un'armatura.}
 {108}{}{Vorrei dare un'occhiata in giro.}
 {109}{}{Sarei interessato ad unirmi alla vostra religione.}
 {110}{}{Chi sei?}
@@ -28,7 +28,7 @@
 {127}{}{Ooh! Celebrita'!}
 {128}{}{Io sono AHS-7, il secondo in comando di questa organizzazione. Prima che tu me lo chieda: AHS sta per Allineato all'Hub Supremo, e significa che ho purificato sette livelli di neuronodi nel mio spirito. Questo significa che ho raggiunto un grado d'illuminazione superiore e che sono piu' vicino di te al Centro della Grande Ruota. E cio' significa che tu mi dirai cosa ci fai qui. Adesso.}
 {129}{}{Ho una lettera per AHS-9 da parte dell'Illuminata di NCR.}
-{130}{}{I'm here to speak to Crockett about some armor.}
+{130}{}{Sono qui per parlare con Crocket a proposito di un'armatura.}
 {131}{}{Vorrei dare un'occhiata in giro.}
 {132}{}{Sarei interessato ad unirmi alla vostra religione.}
 {133}{}{Sono qui per uccidervi tutti.}
@@ -76,7 +76,7 @@
 {175}{}{Dove posso trovare del carburante per la petroliera Poseidon?}
 {176}{}{Dove posso trovare il significato di tutti i termini che usate?}
 {177}{}{Quand'e' che partira' l'astronave?}
-{178}{}{Where is Crockett?}
+{178}{}{Dov'e' Crocket?}
 {179}{}{Niente, grazie. Ci vediamo.}
 {180}{}{Facci sapere quando avrai portato a termine il tuo compito.}
 {181}{}{Lo faro'. Ho delle altre domande.}

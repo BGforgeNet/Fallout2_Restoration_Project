@@ -42,7 +42,7 @@
 {242}{}{Okay. Ci vediamo.}
 {250}{}{Yup. Ne sono sicuro. Adesso vattene.}
 {251}{}{Beh, se lo dici tu... ci vediamo.}
-{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
+{260}{}{Oh, eh, eh... certo. Lo sapevo. Umm, beh, err, ho passato l'esame? }
 {261}{}{Certo. Adesso lasciami passare.}
 {262}{}{No, non ce l'hai fatta, e adesso saro' costretto a fare rapporto.}
 {270}{}{Okay, allora. Puoi passare.}

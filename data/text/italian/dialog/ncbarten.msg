@@ -8,7 +8,7 @@
 {212}{}{Un altro, amico?}
 {213}{}{Eccoti un ricostituente, se ne hai bisogno.}
 {214}{}{Non inalare il Jet tutto in una volta... prendine un colpo, un respiro profondo, poi aspetta che la scarica si esaurisca.}
-{215}{}{You want two half ounce bags, or a canister?}
+{215}{}{Vuoi due dosi da mezza oncia, o una fiala?}
 {216}{}{L'inalatore per Jet devi comprarlo a parte...}
 {217}{}{Lasciami indovinare: te lo devo mettere sul conto?}
 {218}{}{Un'atomica on the rocks, in arrivo.}

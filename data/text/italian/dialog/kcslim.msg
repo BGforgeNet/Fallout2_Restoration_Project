@@ -79,9 +79,7 @@
 {291}{}{Continua.}
 {300}{}{Un trapper davvero in gamba, di nome Smiley, e' andato a nord per cercare la loro tana. E' convinto che provengano tutti da un unico luogo. Il fatto e' che nessuno ha piu' avuto sue notizie. E sono gia' passati piu' di due mesi.}
 {301}{}{Cosa pensi che gli sia successo?}
-{310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
- Buckner runs Buckner house, y'know.}
+{310}{}{Forse ha scoperto la loro tana ed e' stato divorato. (heh, hee, hee) Ma ti diro' una cosa: alla signora Buckner si e' quasi spezzato il cuore quando ha visto che non tornava. Vedi, lui era il suo bello. La signora Buckner e' la proprietaria della locanda Buckner.}
 {311}{}{Interessante. Parliamo di qualcos'altro.}
 {312}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
 {320}{}{Abbiamo proprio un casino di automobili. Tutte pronte in attesa dei loro proprietari di ritorno dallo shopping. Peccato che non torneranno mai. E ormai quelle auto sono tutte dei rottami. Ce n'e' una che mi fa ancora impazzire, pero': una Highwayman della Chrysalis Motors, parcheggiata proprio a est di qui. Non ho ancora scoperto come raggiungerla.}

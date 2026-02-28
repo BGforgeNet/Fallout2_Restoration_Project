@@ -16,10 +16,10 @@
 {240}{}{(L'uomo gira la testa verso di te. Sembra malato e febbricitante: gocce di sudore gli rigano il volto e bagnano i suoi vestiti. }
 {241}{}{Ti ignora e fissa Myron. Sembra stia aspettando che Myron dica qualcosa.)}
 {242}{}{Ti sta fissando; sembra stia aspettando che tu dica qualcosa.)}
-{243}{}{[Stare back at him with your meanest stare.]}
-{244}{}{[Stare back at him with mild disinterest.]}
-{245}{}{[Stare back at him with a sneering gaze.]}
-{246}{}{[Stare back at him with affected disinterest.]}
+{243}{}{[Lo fissi a tua volta con il tuo sguardo piu' truce.]}
+{244}{}{[Ricambi lo sguardo con moderato disinteresse.]}
+{245}{}{[Lo fissi a tua volta con uno sguardo beffardo.]}
+{246}{}{[Ricambi lo sguardo con discreto disinteresse.]}
 {247}{}{[Allontanati.]}
 {248}{}{Chi sei?}
 {249}{}{Sei tu Jesus Mordino?}
@@ -116,11 +116,11 @@
 {452}{}{Come non detto, allora. Rinuncio all'incarico.}
 {460}{}{Dirigiti a nord lungo Virgin street, oltre i casino'... segui il sentiero che porta fuori citta'. Arriverai... alle Stalle. Adesso va'.}
 {461}{}{(Segui le indicazioni...)}
-{470}{}{Have... you done as I asked?}
+{470}{}{Hai... fatto quello che ti ho chiesto?}
 {471}{}{No, non ho ancora consegnato il pacco.}
 {472}{}{Si', l'ho consegnato a Ramirez come mi aveva chiesto.}
 {473}{}{Si', sono stato alle Stalle e ho consegnato il pacco... e sai cosa FANNO li' dentro? Torturano degli schiavi usando delle droghe.}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Si', ho consegnato il suo pacco a quella guardia, Ramirez... Lo sa che quel tizio e' strafatto di Jet? PUZZA persino di Jet.}
 {480}{}{Allora... perche' sei qui? (Big Jesus si asciuga la fronte, poi prende un profondo respiro.) PERCHE' non hai consegnato il pacco?}
 {481}{}{Beh, prima avrei delle domande...}
 {482}{}{Vado subito a farlo.}
@@ -189,7 +189,7 @@
 {664}{}{Salvatore e' troppo ben sorvegliato. Mi vedo costretto a rinunciare al lavoro.}
 {670}{}{Se... rinunci a questo lavoro, saro' costretto ad... UCCIDERTI.}
 {671}{}{Dal momento che la metti su questo piano, tornero' quando sara' morto.}
-{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
+{672}{}{Prova a fare qualcosa, e ti unirai ai Mordino che i Salvatore hanno fatto a pezzi.}
 {680}{}{Cosi' ho sentito anch'io. (Annuisce con rispetto.) Hai fatto un... buon lavoro. La mia fiducia in te non e' mal posta. Ecco il... tuo pagamento. Cinquemila... dollari. }
 {681}{}{Grazie.}
 {682}{}{Puo' bastare... per adesso.}
@@ -216,7 +216,7 @@
 {751}{}{Lo faro'. Ho delle altre domande...}
 {752}{}{Lo faro'. La ringrazio, Senor Mordino.}
 {760}{}{Questa temperatura non mi va a... genio. A volte il mio respiro si fa... affannoso. Se sottoposto a stress o ad altre attivita' fisiche, mi stanco facilmente. A volte, ho dei dolori al petto.}
-{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
+{761}{}{Capisco. Beh, sara' meglio che non assuma metanfetamine o altri stimolanti, allora. Avrei delle altre domande...}
 {762}{}{Capisco. Sara' meglio che vada, adesso.}
 {770}{}{Io non ti conosco... tu arrivi da me... senza che nessuno possa mettere una buona parola per... te. (Si asciuga la fronte, poi prende un profondo, affannoso respiro.) NON ho lavori da darti.}
 {771}{}{Dai, dammi una possibilita'. Dammi un lavoro, uno qualsiasi... posso farcela.}

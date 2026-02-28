@@ -1,5 +1,5 @@
 {100}{}{Vedi un scienziato piuttosto giovane, con un accenno di calvizie. Sembra assorto nel suo lavoro.}
-{101}{}{You see Crockett, the Hubologist scientist.}
+{101}{}{Vedi Crocket, lo scienziato hubologista.}
 {102}{}{Vedi un scienziato piuttosto giovane, con un accenno di calvizie. Sembra un secchione trasandato.}
 {103}{}{Si'? Che cosa vuoi?}
 {104}{}{Agh. Um. Duur.}
@@ -15,11 +15,11 @@
 {114}{}{Posso pagare.}
 {115}{}{Ti lascero' in vita.}
 {116}{}{Niente. Non importa.}
-{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
+{117}{}{Sono Crocket. Sono uno scienziato e un ripara-tutto. Posso tornare al mio lavoro?}
 {118}{}{No. Ho delle altre domande.}
 {119}{}{Si', certo.}
 {120}{}{Io sviluppo nuove tecnologie e in cambio becco una parte dei privilegi riservati al culto, se capisci cosa intendo.}
-{121}{}{So you're not a Hubologist?}
+{121}{}{Dunque tu non sei Hubologista?}
 {122}{}{Ho capito. Ho delle altre domande.}
 {123}{}{No. Che cosa intendi?}
 {124}{}{Quali nuove tecnologie hai sviluppato?}

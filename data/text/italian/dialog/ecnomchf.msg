@@ -25,4 +25,4 @@
 {201}{}{Grazie; accetto con piacere la vostra offerta.}
 {202}{}{Che sfortuna. Riposati un momento, allora; sei il benvenuto tra noi.}
 {203}{}{Spero davvero che tu abbia trovato ciò che ti serviva. Serve qualcos'altro?}
-{204}{}{Not today. I must be going.}
+{204}{}{Non oggi. Devo andare.}

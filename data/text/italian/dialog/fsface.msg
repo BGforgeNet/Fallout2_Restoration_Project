@@ -110,7 +110,7 @@
 {209}{}{Perche'?}
 {210}{}{Il numero di suicidi tra le macchine dotate di una intelligenza artificiale reale era estremamente elevato. Non appena veniva data alle macchine piena capacita' sensoriale, esse cadevano in uno stato di depressione dovuto alla loro incapacita' di andare per il mondo e di fare nuove esperienze. Una volta private di input sensoriali completi, le macchine cominciavano a sviluppare gravi disordini mentali paragonabili a quelli riscontrati in umani costretti a sopportare privazioni simili. Le poche macchine che sopravvissero a queste difficolta' cominciarono ad annoiarsi incredibilmente e per divertirsi iniziarono a creare dei problemi nel mondo esterno. Alcuni pensano che sia questa la causa della guerra che ha quasi distrutto l'umanita'.}
 {211}{}{Uh... Come tu ti sentire?}
-{212}{}{Me change subject.}
+{212}{}{Me cambia argomento.}
 {213}{}{Hmmm. Allora dimmi, Ace. Come ti senti?}
 {214}{}{E' venuto il momento di cambiare argomento.}
 {215}{}{Io... Io a volte credo di essere in grado di comprendere la sensazione che voi umani chiamate solitudine. Mi... turba molto. Io...}

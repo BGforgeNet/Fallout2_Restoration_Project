@@ -29,7 +29,7 @@
 {131}{}{Nulla. Arrivederci.}
 {132}{}{Non vuoi cooperare, eh? Guardie! Uccidete questo intruso!}
 {133}{}{Le tue guardie sono uomini morti.}
-{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{Scendi queste scale e parla con AHS-7 al posto di guardia. Ti dara' le istruzioni del caso.}
 {135}{}{Grazie. Ciao.}
 {161}{}{. Sto solo dando un'occhiata in giro.}
 {162}{}{. Sto solo dando un'occhiata in giro.}
@@ -40,7 +40,7 @@
 {173}{}{Cosa fai qui?}
 {174}{}{Ho recuperato dagli Shi una copia degli schemi tecnici.}
 {175}{}{Ho gli schemi tecnici del vertibird.}
-{176}{}{The Shi have the plans for the vertibird.}
+{176}{}{Gli Shi sono in possesso degli schemi tecnici del vertibird.}
 {177}{}{Cosa posso fare per te?}
 {178}{}{Scordatelo. Addio.}
 {179}{}{Io sono Harry, AHS-5. Sono il fratello stellare incaricato della gestione dell'astrorazzo. Lo useremo per raggiungere Quetzel.}

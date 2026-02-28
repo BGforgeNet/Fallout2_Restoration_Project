@@ -110,7 +110,7 @@
 {230}{}{Per prima cosa devi dimostrare di essere in grado di farlo. Ti mettero' di fronte a cinque dei miei allievi - uno alla volta. Se li batti tutti, allora sarai pronto ad affrontare l'esame finale.}
 {231}{}{Cos'e' quello?}
 {232}{}{Sembra un po' troppo rischioso. Addio.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
+{233}{}{Dovrai sconfiggere il mio apprendista preferito. Tuttavia, nessuna di queste sfide sara' all'ultimo sangue - per proteggere i miei uomini, naturalmente. [sghignazza]}
 {234}{}{Cominciamo subito!}
 {235}{}{Puoi sconfiggere Dragon da solo.}
 {236}{}{[Lo Pan ti osserva e poi tira un pugno cosi' rapido che ti becca in pieno naso prima ancora che tu possa reagire.] Non sei abbastanza bravo.}

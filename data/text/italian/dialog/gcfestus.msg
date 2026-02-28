@@ -58,8 +58,7 @@
 {261}{}{Ma con la tua perizia tecnica te ne saresti gia' accorto, se si trattasse di una bomba. Per favore, installa il pezzo.}
 {262}{}{Credo tu abbia ragione. Sara' meglio trovare un altro modo per installare il pezzo.}
 {270}{}{Okay, d'accordo. Ma non sono ancora convinto se questo sia il pezzo giusto o se invece si tratti di una qualche trappola. Sai, sono troppo prezioso per correre certi rischi. Potrei farlo fare a qualcun altro... piu' tardi... molto piu' tardi.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
+{271}{}{Dev'essere fatto subito. E tu sei l'unica persona che puo' farlo nel modo corretto. Forza, la salvezza di Gecko dipende da te!}
 {272}{}{Credo tu abbia ragione. Sara' meglio trovare un altro modo per installare il pezzo.}
 {300}{}{Beh, consuma davvero un sacco di uranio. Ed ha pure qualche perdita. Vedi, io l'avrei anche chiesto a qualcuno di andare a ripararla, ma nessuno mi da' retta.}
 {301}{}{Ho sentito dire che c'e' una perdita di radiazioni che contamina la falda acquifera. E' vero?}

@@ -401,12 +401,12 @@
 {1023}{}{Noi non essere mai amici di uccisore di bambini.}
 {1025}{}{Tu causato problemi a Klamath. Noi ce ne andiamo.}
 {1026}{}{You be causing trouble in my home village. We're gone.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Gli spiriti ci muovono.}
+{2301}{}{Noi e io ci muovere.}
 {2302}{}{OK, calma.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Non preoccuparti, noi e io ci muovere}
 {2304}{}{Noi pensa tu avere bisogno di un po' di tempo per annusare i fiori. Nonno-Osso dire che tu essere troppo pressante. Prendere la vita con piu' calma.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{Noi ci muoviamo alla grande.}
 {2306}{}{Adesso noi e io andare la'.}
 {2307}{}{Rilassati, tranquillo, ci muoviamo, adesso.}
 {3000}{}{A Nord.}

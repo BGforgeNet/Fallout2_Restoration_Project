@@ -56,8 +56,7 @@
 {282}{}{Okay, prendero' il disco. Sono sicuro che sapro' metterlo nelle mani giuste. Ci vediamo.}
 {290}{}{Humph, non mi serve il tuo aiuto. Sei solo un selvaggio.}
 {291}{}{Beh, pare proprio che non tutti i bigotti vivano a Vault City, eh, Gordie, vecchio mio? Addio.}
-{300}{}{Our atomic power plant is still barely operational. You must not take the information to
- Vault City yet.}
+{300}{}{La nostra centrale nucleare e' ancora a malapena operativa. Non devi ancora portare le informazioni a Vault City.}
 {301}{}{Non credo che a Vault City prestino molta attenzione alle informazioni fornite dai ghoul.}
 {302}{}{No, non ancora... ma lo faro'. Ci vediamo.}
 {303}{}{Consegnare quelle informazioni a Vault City e' solo uno dei tanti passi che devi fare. La nostra centrale nucleare funziona ancora male e ha bisogno di essere riparata.}

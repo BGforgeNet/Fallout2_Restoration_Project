@@ -98,10 +98,10 @@ because this is going to cost ::cough:: $200.}
 {196}{}{Avrei delle altre domande.}
 {197}{}{Grazie. Ci vediamo.}
 {198}{}{Sei ferito? Lascia che ti rimetta a posto.}
-{199}{}{Umm...}
+{199}{}{Mmmm...}
 {200}{}{Grazie. Ciao!}
 {201}{}{Chi e' ferito? Oh, mettetevi in fila e mi occupero' di voi.}
-{202}{}{One more thing...}
+{202}{}{Solo un'altra cosa...}
 {203}{}{Grazie! Ciao!}
 {204}{}{Davvero poco, sorprendentemente. Mi dispiace, ma quando mi concentro nella cura di qualcuno, non faccio attenzione ai loro segreti piu' reconditi.}
 {205}{}{Oh. Puoi rispondere a qualche altra domanda?}

@@ -30,8 +30,7 @@
 {190}{}{Basta parlare; rovinerai tutto se continui cosi'. Siediti e divertiti.}
 {191}{}{Dev'esserci un errore; volevo solo farti qualche domanda.}
 {192}{}{Grazie per l'offerta, ma... no. Ehmmm... Devo proprio andare.}
-{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
- imagination.]}
+{193}{}{Oh dio! Prendimi! Prendimi adesso! [Si strappa di dosso i suoi vestiti, poi i tuoi... poi... usa un po' di fantasia!]}
 {194}{}{[Fa una risatina] Io faccio la "galleria"! La prossima volta puoi farla tu.}
 {195}{}{[Due ore dopo: la terra si e' mossa, e questo letto non sara' mai piu' lo stesso.]}
 {196}{}{[Un'ora -e il miglior orgasmo che tu abbia mai avuto- dopo...]}

@@ -32,7 +32,7 @@
 {210}{}{Ook? Che cosa vuol dire? Cosa sei, stupido?}
 {211}{}{Goop?}
 {220}{}{Fuori di qui. Il Prof non ha tempo da perdere con i tipi come te.}
-{221}{}{OK. I'll be going now.}
+{221}{}{OK, me ne vado.}
 {230}{}{Qui sotto non c'e' altro che il covo del Prof. Cavoli se sei stupido.}
 {231}{}{Il Prof?}
 {232}{}{Stavo semplicemente mettendoti alla prova. Hai superato l'esame. Adesso lasciami passare.}

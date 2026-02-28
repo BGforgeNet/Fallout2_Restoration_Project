@@ -37,7 +37,7 @@
 {160}{}{Farai meglio a stare attento, qui dentro.}
 {161}{}{Benvenuto nell'area di controllo.}
 {162}{}{Non toccare nulla.}
-{163}{}{If something goes wrong in there, we'll come looking for you.}
+{163}{}{Se qui dentro succede qualcosa, verremo a cercarti.}
 {164}{}{Se succede qualcosa noi incolpiamo te.}
 {170}{}{Sono piuttosto sorpreso di vedere un pelle-liscia come te qui dentro.}
 {171}{}{Mi sembra che tu stia cominciando ad abbronzarti.}

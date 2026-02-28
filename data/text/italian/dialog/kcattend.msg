@@ -50,7 +50,7 @@
 {167}{}{Ehila', tigre.}
 {168}{}{Ehi, baaaaaby...}
 {169}{}{Va' a parlare con Sally, se vuoi divertirti un po'.}
-{170}{}{Scrub a-dub-dub...}
+{170}{}{A mezzanotte va, la ronda del piacere...}
 {171}{}{Credo proprio tu abbia bisogno di un bel bagno.}
 {172}{}{Oh, un selvaggio; adoro le cose esotiche.}
 {173}{}{I selvaggi non sono il mio tipo, di solito.}

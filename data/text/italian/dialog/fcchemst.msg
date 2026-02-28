@@ -23,7 +23,7 @@
 {122}{}{Mi piacerebbe sapere cosa fate qui.}
 {123}{}{Sono qui per ottenere del carburante per gli Hubologisti.}
 {124}{}{No. Me ne stavo giusto andando.}
-{125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crockett, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
+{125}{}{Vuoi del carburante per la petroliera? E io voglio una Power-Armor rinforzata. So che un Hubologista, un tipo di nome Crocket, conosce un processo attraverso il quale e' possibile potenziare una Power-Armor standard. Procurami un'armatura di questo tipo e io trasferiro' il carburante per te.}
 {126}{}{Lo faro'.}
 {127}{}{Non posso promettere nulla.}
 {128}{}{Ne ho una proprio qui.}
@@ -31,7 +31,7 @@
 {130}{}{In realta' mi interessa. Vorrei del carburante per la petroliera Poseidon Oil.}
 {131}{}{Scommetto che interesserebbe molto agli Hubologisti. Vogliono del carburante.}
 {132}{}{No, non ancora. Ma tornero'.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
+{133}{}{Vogliono del carburante? Davvero? Beh, sebbene siano cosi' irritanti, anche loro potrebbero tornare utili. Ho sentito dire che hanno sviluppato un processo attraverso il quale riescono a rendere una Power-Armor ancora piu' impenetrabile. Se potenzieranno un'armatura di questo tipo per me, io inviero' il carburante al condotto. Immagino sia per la loro astronave-giocattolo. E' il tipo chiamato Crocket, quello con il quale devi parlare.}
 {134}{}{Lo faro'.}
 {135}{}{Non posso promettere nulla.}
 {136}{}{Ne ho una proprio qui.}
@@ -56,7 +56,7 @@
 {155}{}{Lo faro'. Arrivederci.}
 {156}{}{Credici. Addio.}
 {157}{}{Guardie! Guardie! L'intruso e' tornato! Uccidetelo! }
-{158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
+{158}{}{Hai parlato con questo Hubologista che si fa chiamare Crocket? Hai ottenuto l'armatura?}
 {159}{}{No, non ancora.}
 {160}{}{E allora perche' continui a tornare qui a disturbarmi?}
 {161}{}{Perche' ho delle domande.}
@@ -71,5 +71,5 @@
 {170}{}{Addio.}
 {171}{}{. Sto solo dando un'occhiata in giro.}
 {172}{}{, sei qui per qualcosa in particolare?}
-{173}{}{ would be nice.}
+{173}{}{ non sarebbero male.}
 {174}{}{Ho tutto quel che mi serve. Parla con Wong se proprio devi.}

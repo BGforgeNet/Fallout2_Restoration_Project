@@ -67,7 +67,7 @@
 {166}{}{No.}
 {167}{}{Formattazione in corso... formattazione in corso... formattazione completa. Il riavvio richiede l'installazione completa. Spegnimento in corso. Spegnimento... completato...}
 {168}{}{[FATTO]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{169}{}{Dati da consultare: - Programma botanico - Programma genetico - Programma Xeno}
 {170}{}{Programma botanico.}
 {171}{}{Programma genetico.}
 {172}{}{Programma Xeno.}
@@ -80,7 +80,7 @@
 {179}{}{Programma botanico.}
 {180}{}{Programma Xeno.}
 {181}{}{Indietro.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{"Il soggetto sul quale speravamo di poter eseguire una serie di importanti esperimenti e' scomparso; si presume che sia stato distrutto o rubato dagli Hubologisti. Ulteriori indagini si sono rivelate vane. Finche' non saranno disponibili altri campioni, questo database rimarra' non operativo." - Dr. Sheng}
 {183}{}{Programma botanico.}
 {184}{}{Programma genetico.}
 {185}{}{Indietro.}
@@ -88,7 +88,7 @@
 {187}{}{Combustibile e derivati.}
 {188}{}{Polimeri.}
 {189}{}{Indietro.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{(Dopo aver esaminato le complesse formule chimiche e le note di laboratorio, giungi alla conclusione che gli Shi hanno creato un tipo di combustibile a base di estratti di piante terrestri e marine. Pare che gli Shi si siano agganciati a tubature pre-esistenti in modo tale da poter trasferire il combustibile verso varie destinazioni.)}
 {191}{}{(Ti imbatti in una vasta serie di formule chimiche complesse e note di laboratorio. Non sei molto sicuro di cosa possano significare.)}
 {192}{}{Inviare il combustibile alla petroliera Poseidon.}
 {193}{}{Inviare il combustibile agli Hubologisti.}
@@ -100,8 +100,8 @@
 {199}{}{Combustibile inviato come richiesto. Cisterne = Vuote. Chiusura programma in corso.}
 {200}{}{[FATTO]}
 {201}{}{Database Fisica: Esplorazione - Teoria}
-{202}{}{Exploration.}
-{203}{}{Theory.}
+{202}{}{Esplorazione.}
+{203}{}{Teoria.}
 {204}{}{Indietro.}
 {205}{}{"Con la recente acquisizione degli schemi tecnici del vertibird, le possibilita' di creare una macchina volante operativa sono aumentate esponenzialmente. Riteniamo di poter avere un prototipo funzionante entro la fine dell'anno e di essere in grado di avviare la produzione di massa di questi veicoli entro due anni." -Dr. Wong}
 {206}{}{::copia schemi tecnici:: Indietro.}

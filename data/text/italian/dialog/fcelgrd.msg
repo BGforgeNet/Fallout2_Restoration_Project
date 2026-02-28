@@ -1,5 +1,5 @@
 {100}{}{Vedi una guardia ben armata.}
-{101}{}{You see a Hubologist guard.}
+{101}{}{Vedi una guardia hubologista.}
 {102}{}{Vedi una persona ben armata e con uno sguardo crudele.}
 {103}{}{Intruso!}
 {104}{}{Prendete l'intruso!}
