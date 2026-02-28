@@ -1,9 +1,9 @@
-{100}{}{You see Mrs. Peterson.}
-{101}{}{You see a young, pretty woman. She smiles when she sees you.}
-{200}{}{Welcome to the Abbey, friend.}
-{201}{}{Talk to my husband if you need something.}
-{202}{}{Beautiful day, isn't it?}
-{300}{}{Welcome to the Abbey, friend.}
-{301}{}{Talk to my husband if you need something.}
-{302}{}{Lovely evening, isn't it?}
-{400}{}{I have nothing to say to you. Please go away.}
+{100}{}{Vedi la Signora Peterson.}
+{101}{}{Vedi una giovane e bella donna. Sorride quando ti vede.}
+{200}{}{Benvenuto all'Abbazia, amico.}
+{201}{}{Se hai bisogno di qualcosa, parla con mio marito.}
+{202}{}{Bella giornata, vero?}
+{300}{}{Benvenuto all'Abbazia, amico.}
+{301}{}{Se hai bisogno di qualcosa, parla con mio marito.}
+{302}{}{Bella serata, vero?}
+{400}{}{Non ho niente da dirti. Per favore, vattene.}

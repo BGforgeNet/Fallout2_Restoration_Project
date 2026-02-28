@@ -1,5 +1,5 @@
-{100}{}{You see a peasant.}
-{101}{}{You see a peasant.}
+{100}{}{Vedi un contadino.}
+{101}{}{Vedi un contadino.}
 {102}{}{Salve.}
 {103}{}{Buona giornata a te.}
 {104}{}{Welcome to our village.}

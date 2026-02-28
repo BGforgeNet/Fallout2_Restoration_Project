@@ -14,9 +14,9 @@
 {112}{}{Quincy dire tu stronzo. Tu no avere palle per vedere lui.}
 {113}{}{Bene.}
 {114}{}{Quincy ha detto che sei uno stronzo e che non hai le palle per presentarti da lui.}
-{115}{}{ Hey man, Raul don't take no shit from nobody. You see Quincy working on these
- birds? No way, man. Only Raul works on these babies. You know why? Cause
- Quincy don't know DICK, man, that's why!}
+{115}{}{ Ehi amico, Raul non si fa dare del filo da torcere da nessuno. Vedi Quincy lavorare su questi
+uccellacci? Neanche per sogno, amico. Solo Raul lavora su questi gioielli. Sai perche'?
+Perche' Quincy non capisce UN CAZZO, amico, ecco perche'!}
 {116}{}{Uh...}
 {117}{}{Beh...}
 {118}{}{Ehi, escusame, amigo. Raul no dovrebbe cridare co ti. No es tua la colpa; tu es solo el messajero. Ehi, amigo, hai da fare adesso?}

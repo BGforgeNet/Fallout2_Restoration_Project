@@ -53,10 +53,10 @@
 {702}{}{Actually, I think I've done enough on this job. Go ahead and install it yourself.}
 {800}{}{Va bene, consegnalo.}
 {801}{}{Ecco qua.}
-{900}{}{That should do it.}
+{900}{}{Questo dovrebbe bastare.}
 {901}{}{The water pump has been repaired.}
 {910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
-{911}{}{The Abbot said you might need some assistance. What seems to be the trouble?}
+{911}{}{L'Abate ha detto che potresti aver bisogno di aiuto. Qual e' il problema?}
 {912}{}{Non importa. Arrivederci.}
 {913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
  going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}

@@ -114,6 +114,6 @@
 {400}{}{Apri il contenitore.}
 {601}{}{It is open, dummy.}
 {610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
+{611}{}{ fallisce clamorosamente e l'esplosivo esplode prematuramente.}
 {620}{}{You bend the crowbar beyond recognition. It's useless now.}
 {621}{}{ bends the crowbar beyond recognition. It's useless now.}

@@ -1,13 +1,13 @@
-{100}{}{You see a peasant.}
-{101}{}{You see a healthy looking peasant.}
-{102}{}{You see a person.}
+{100}{}{Vedi un contadino.}
+{101}{}{Vedi un contadino dall'aspetto sano.}
+{102}{}{Vedi una persona.}
 {103}{}{Drinking too much booze lately?}
-{104}{}{Stay away from the alcohol for a while.}
+{104}{}{Stai lontano dall'alcol per un po'.}
 {105}{}{I see that you drank Hank's "special" mix.}
 {106}{}{Welcome, hero!}
 {107}{}{You really showed those Enclave bastards!}
-{108}{}{You are truly a hero!}
-{109}{}{I've heard that you destroyed the Enclave, well done!}
+{108}{}{Sei davvero un eroe!}
+{109}{}{Ho sentito dire che hai distrutto l'Enclave, ben fatto!}
 {110}{}{Salve.}
 {111}{}{I hope that it starts to rain soon, or my crops will not survive.}
 {112}{}{We don't get too many visitors here.}
@@ -19,4 +19,4 @@
 {118}{}{Buona giornata.}
 {119}{}{Welcome to the Abbey, wanderer!}
 {120}{}{Impressive monastery we have here, eh?}
-{200}{}{Get your freaking hands off me!}
+{200}{}{Toglimi quelle fottute mani di dosso!}

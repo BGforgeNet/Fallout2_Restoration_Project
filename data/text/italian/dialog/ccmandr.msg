@@ -27,7 +27,7 @@
 {200}{}{Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work
  for the Salvatores? }
 {201}{}{None of your business, asshole.}
-{202}{}{I work for no one.}
+{202}{}{Non lavoro per nessuno.}
 {203}{}{So what if I do?}
 {204}{}{Yeah, I work for the Salvatores.}
 {205}{}{Before I answer any questions, I've got a few of my own.}
