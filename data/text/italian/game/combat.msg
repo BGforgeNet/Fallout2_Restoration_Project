@@ -128,7 +128,7 @@
 {571}{female_pc}{%sHai subito un colpo critico %s per 1 punto vita}
 {572}{female_pc}{%sSei stata colpita %s per 1 punto vita}
 {573}{female_pc}{%sSei stata colpita per 1 punto vita}
-{574}{female_pc}{%s were critically hit for 1 hit point}
+{574}{female_pc}{%sHai subito un colpo critico per 1 punto vita}
 {575}{female_pc}{%sHai subito un colpo critico %s senza danni}
 {576}{female_pc}{%sSei stata colpita %s senza danni}
 {577}{female_pc}{%sSei stata colpita senza danni}

@@ -5,9 +5,9 @@
 {153}{}{[fatto]}
 {154}{}{Torna di mattina, dannazione! Faccio affari durante il giorno.}
 {155}{}{[fatto]}
-{156}{}{What is it now? You're really starting to piss me off.}
-{157}{}{I would like to apologize.}
-{158}{}{Sorry, I was drugged earlier. I didn't mean anything.}
+{156}{}{Cosa c'e' adesso? Stai davvero cominciando a farmi incazzare.}
+{157}{}{Vorrei scusarmi.}
+{158}{}{Scusa, ero drogato prima. Non volevo dire niente.}
 {159}{}{Whoa, what's your problem?}
 {160}{}{I wanted to ask you a question.}
 {161}{}{Apparently I have. Good bye.}
