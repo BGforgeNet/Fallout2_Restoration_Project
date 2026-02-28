@@ -35,7 +35,6 @@
 
 #include "../headers/command.h"
 #include "../headers/cvgenenc.h"
-#include "../sfall/lib.arrays.h"
 
 procedure start;
 procedure map_enter_p_proc;
@@ -47,12 +46,12 @@ procedure LoadChests;
 
 #define AREA_1 12666
 #define AREA_2 16067
-#define AREA_3 20265
+#define AREA_3 20266
 #define AREA_4 21888
 #define AREA_5 28901
 #define AREA_6 24506
 #define AREA_7 20326
-#define AREA_8 14899
+#define AREA_8 14901
 
 #define CHEST_1 19929
 #define CHEST_2 29304
@@ -81,7 +80,6 @@ procedure map_enter_p_proc begin
    variable the_elev;
 
    set_cur_exit;
-
    if (not is_loading_game) then begin
       call LoadCritters;
 

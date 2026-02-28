@@ -50,7 +50,7 @@ procedure LoadChests;
 
 #define CHEST_1 21491
 #define CHEST_2 24301
-#define CHEST_3 19697
+#define CHEST_3 19897
 
 variable Critter;
 variable Critter_Tile;
