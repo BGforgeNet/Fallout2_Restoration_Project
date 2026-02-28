@@ -120,7 +120,7 @@
 {220}{}{Alcohol Addiction}
 {221}{}{Smoker}
 {1101}{}{Con la Consapevolezza, ti vengono date informazioni dettagliate su ogni creatura da te esaminata. Puoi vedere i loro punti vita esatti e varie informazioni sull'arma da loro impugnata.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
+{1102}{}{Hai imparato le arti segrete dell'Oriente, o semplicemente sai dare pugni piu' velocemente. In ogni caso, i tuoi attacchi Corpo a Corpo richiedono 1 PA in meno.}
 {1103}{}{L'esperienza nel combattimento a mani nude ti ha dato un vantaggio quando si tratta di fare danni. Infliggi +2 punti danno negli attacchi a mani nude o in mischia per ogni livello di questa Strenna.}
 {1104}{}{Per ogni livello di Bonus: Mossa, guadagni 2 PA al turno utilizzabili solo per muoverti. In parole povere, puoi spostarti di 2 caselle in piu' per ogni livello di questa Strenna.}
 {1105}{}{Il tuo allenamento con le armi da fuoco ti ha reso piu' letale nel combattimento a distanza. Per ogni livello di questa Strenna, infliggi +2 punti danno con le armi a distanza.}
@@ -195,8 +195,8 @@
 {1174}{}{Conosci il modo corretto per scuoiare i gecki senza rovinare le loro pelli.}
 {1175}{}{Hai una protezione interna contro gli attacchi fisici.}
 {1176}{}{Hai una protezione interna extra contro gli attacchi fisici.}
-{1177}{}{You have inherent protection against thermal attacks.}
-{1178}{}{You have extra inherent protection against thermal attacks.}
+{1177}{}{Hai una protezione innata contro gli attacchi termici.}
+{1178}{}{Hai una protezione innata extra contro gli attacchi termici.}
 {1179}{}{Guadagni +10% nella resistenza al veleno e alle radiazioni.}
 {1180}{}{Con questa Strenna aggiungi +1 alla tua Forza quando scendi sotto la meta' del numero massimo di punti vita.}
 {1181}{}{Sei un viaggiatore che sta sempre in guardia ed e' piu' difficile che i nemici ti sorprendano. Con questa Strenna aggiungi +3 alla tua Percezione negli incontri casuali per determinare le posizioni.}

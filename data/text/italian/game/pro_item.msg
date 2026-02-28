@@ -159,7 +159,7 @@
 {8000}{}{Manuale di Pronto Soccorso}
 {8001}{}{Un libro per studenti che descrive i concetti base e l'uso pratico delle abilita' di Pronto Soccorso.}
 {8100}{}{Spiedino}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Un iguana cucinato e grigliato nella sua stessa pelle.}
 {8200}{}{Chiave}
 {8201}{}{Una chiave. Una chiave aprira' una determinata serratura.}
 {8300}{}{Portachiavi}
@@ -191,7 +191,7 @@
 {9600}{}{Tessera magnetica Rossa}
 {9601}{}{Una chiave elettronica di sicurezza, codice colore: rosso.}
 {9700}{}{Tessera magnetica Blu}
-{9701}{}{An electronic security key, color coded blue.}
+{9701}{}{Una chiave elettronica di sicurezza, codice colore: blu.}
 {9800}{}{Rifiuti}
 {9801}{}{Un ammasso di cianfrusaglie. Di tutto un po'.}
 {9900}{}{Medaglione d'Oro}
@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Una splendida urna dorata, con il nome "Harriet" inciso sul davanti e con un pugno di cenere all'interno.}
 {11300}{}{Saio}
-{11301}{}{Worn-looking robes.}
+{11301}{}{Vesti consunte.}
 {11400}{}{Mano di Tangler}
 {11401}{}{Un manipolatore cybernetico, dall'aspetto e dalla forma di una mano. Danneggiata a causa della natura maldestra del processo di rimozione.}
 {11500}{}{Super Sledge}
@@ -377,15 +377,15 @@
 {18900}{}{Armadietto}
 {18901}{}{Un armadietto.}
 {19000}{}{Disco sul FEV}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Un olonastro contenente informazioni mediche. Puo' essere usato per immettere informazioni nel tuo PIPboy.}
 {19100}{}{Disco della Sicurezza}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Un olonastro con la scritta "Sicurezza - Rapporto" sull'etichetta. Puoi usarlo per trasferire i dati che contiene nel tuo PIPboy.}
 {19200}{}{Disco sull'Esperimento Alpha}
 {19201}{}{L'etichetta su questo olonastro dice: "Rapporto sull'Esperimento Alpha"}
 {19300}{}{Disco sull'Esperimento Delta}
 {19301}{}{L'etichetta su questo olonastro dice: "Rapporto sull'Esperimento Delta"}
 {19400}{}{Disco sull'Esperimento di Vree}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Questo olonastro e' stato aggiornato con testimonianze mediche da Vree della CdA. Puo' essere usato per trasferire i dati nel tuo PIPboy.}
 {19500}{}{Codice d'Onore della Confraternita}
 {19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
 {19600}{}{Trasmissioni dei Mutanti}

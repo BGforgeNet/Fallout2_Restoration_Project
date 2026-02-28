@@ -30,29 +30,29 @@
 {220}{}{ha colpito alla cieca}
 {221}{}{ha ferito un arto a caso}
 {222}{}{e' stata colpita dai frammenti}
-{250}{female_pc}{knocked out}
-{251}{female_pc}{knocked down}
-{252}{female_pc}{crippled your left leg}
-{253}{female_pc}{crippled your right leg}
-{254}{female_pc}{crippled your left arm}
-{255}{female_pc}{crippled your right arm}
-{256}{female_pc}{blinded}
-{257}{female_pc}{were killed}
-{258}{female_pc}{hit}
+{250}{female_pc}{svenuta}
+{251}{female_pc}{abbattuta}
+{252}{female_pc}{la tua gamba sx e' ferita}
+{253}{female_pc}{la tua gamba dx e' ferita}
+{254}{female_pc}{il tuo braccio sx e' ferito}
+{255}{female_pc}{il tuo braccio dx e' ferito}
+{256}{female_pc}{accecata}
+{257}{female_pc}{Sei stata uccisa}
+{258}{female_pc}{colpita}
 {259}{}{critica}
 {260}{}{incendiata}
-{261}{female_pc}{had your armor bypassed}
-{262}{female_pc}{your weapon exploded}
-{263}{female_pc}{destroyed your weapon}
-{264}{female_pc}{dropped your weapon}
-{265}{female_pc}{lost your next turn}
-{266}{female_pc}{hit yourself}
-{267}{female_pc}{lost the rest of your ammo}
-{268}{female_pc}{fired a dud shot}
-{269}{female_pc}{hurt yourself}
-{270}{female_pc}{hit randomly}
-{271}{female_pc}{crippled a random limb}
-{272}{female_pc}{peppered with fragments}
+{261}{female_pc}{hai visto perforare la tua armatura}
+{262}{female_pc}{la tua arma e' esplosa}
+{263}{female_pc}{hai distrutto la tua arma}
+{264}{female_pc}{hai fatto cadere la tua arma}
+{265}{female_pc}{hai perso il prossimo turno}
+{266}{female_pc}{ti sei colpita}
+{267}{female_pc}{hai perso il resto delle munizioni}
+{268}{female_pc}{ha fatto cilecca}
+{269}{female_pc}{ti sei fatta male da sola}
+{270}{female_pc}{ha colpito alla cieca}
+{271}{female_pc}{ha ferito un arto a caso}
+{272}{female_pc}{e' stata colpita dai frammenti}
 {300}{}{scaraventata a terra}
 {301}{}{abbattuta}
 {302}{}{la sua gamba sx e' ferita}
@@ -76,15 +76,15 @@
 {320}{}{ha colpito alla cieca}
 {321}{}{ha ferito un arto a caso}
 {322}{}{e' stata colpita dai frammenti}
-{400}{female_npc}{knocked out}
-{401}{female_npc}{knocked down}
+{400}{female_npc}{svenuta}
+{401}{female_npc}{abbattuta}
 {402}{}{la sua gamba sx e' ferita}
 {403}{}{la sua gamba dx e' ferita}
 {404}{}{il suo braccio sx e' ferito}
 {405}{}{il suo braccio dx e' ferito}
-{406}{female_npc}{blinded}
-{407}{female_npc}{was killed}
-{408}{female_npc}{hit}
+{406}{female_npc}{accecata}
+{407}{female_npc}{e' stata uccisa}
+{408}{female_npc}{colpita}
 {409}{}{critica}
 {410}{}{incendiata}
 {411}{}{ha visto perforata la sua armatura}
@@ -94,11 +94,11 @@
 {415}{}{ha perso il prossimo turno}
 {416}{}{si e' colpita}
 {417}{}{ha perso il resto delle munizioni}
-{418}{female_npc}{fired a dud shot}
+{418}{female_npc}{ha fatto cilecca}
 {419}{}{si e' fatta male da sola}
-{420}{female_npc}{hit randomly}
-{421}{female_npc}{crippled a random limb}
-{422}{female_npc}{peppered with fragments}
+{420}{female_npc}{ha colpito alla cieca}
+{421}{female_npc}{ha ferito un arto a caso}
+{422}{female_npc}{e' stata colpita dai frammenti}
 {506}{}{You}
 {509}{}{Oops! %sSei stata colpita al posto di %s!}
 {511}{}{%sHai subito un colpo critico %s per %d punti vita}
@@ -118,23 +118,23 @@
 {533}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
 {534}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
 {556}{}{You}
-{559}{female_pc}{Oops! %s were hit instead of %s!}
-{561}{female_pc}{%s were critically hit in %s for %d hit points}
-{562}{female_pc}{%s were hit in %s for %d hit points}
-{563}{female_pc}{%s were hit for %d hit points}
-{564}{female_pc}{%s critically missed}
-{565}{female_pc}{%s missed}
-{570}{female_pc}{%s were critically hit for %d hit points}
-{571}{female_pc}{%s were critically hit in %s for 1 hit point}
-{572}{female_pc}{%s were hit in %s for 1 hit point}
-{573}{female_pc}{%s were hit for 1 hit point}
+{559}{female_pc}{Oops! %sSei stata colpita al posto di %s!}
+{561}{female_pc}{%sHai subito un colpo critico %s per %d punti vita}
+{562}{female_pc}{%sSei stata colpita %s per %d punti vita}
+{563}{female_pc}{%sSei stata colpita per %d punti vita}
+{564}{female_pc}{%s ha mancato miseramente il bersaglio}
+{565}{female_pc}{%s ha mancato il bersaglio}
+{570}{female_pc}{%sHai subito un colpo critico per %d punti vita}
+{571}{female_pc}{%sHai subito un colpo critico %s per 1 punto vita}
+{572}{female_pc}{%sSei stata colpita %s per 1 punto vita}
+{573}{female_pc}{%sSei stata colpita per 1 punto vita}
 {574}{female_pc}{%s were critically hit for 1 hit point}
-{575}{female_pc}{%s were critically hit in %s for no damage}
-{576}{female_pc}{%s were hit in %s for no damage}
-{577}{female_pc}{%s were hit for no damage}
-{578}{female_pc}{%s were critically hit for no damage}
-{583}{female_pc}{%s critically missed and took 1 hit point}
-{584}{female_pc}{%s critically missed and took %d hit points}
+{575}{female_pc}{%sHai subito un colpo critico %s senza danni}
+{576}{female_pc}{%sSei stata colpita %s senza danni}
+{577}{female_pc}{%sSei stata colpita senza danni}
+{578}{female_pc}{%sHai subito un colpo critico senza danni}
+{583}{female_pc}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
+{584}{female_pc}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
 {608}{}{Oops! %s e' stata colpita al posto tuo!}
 {609}{}{Oops! %s e' stata colpita al posto di %s!}
 {611}{}{%s ha subito un colpo critico %s per %d punti vita}
@@ -153,24 +153,24 @@
 {628}{}{%s ha subito un colpo critico senza danni}
 {633}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
 {634}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
-{708}{female_npc}{Oops! %s was hit instead of you!}
-{709}{female_npc}{Oops! %s was hit instead of %s!}
-{711}{female_npc}{%s was critically hit in %s for %d hit points}
-{712}{female_npc}{%s was hit in %s for %d hit points}
-{713}{female_npc}{%s was hit for %d hit points}
-{714}{female_npc}{%s critically missed}
-{715}{female_npc}{%s missed}
-{720}{female_npc}{%s was critically hit for %d hit points}
-{721}{female_npc}{%s was critically hit in %s for 1 hit point}
-{722}{female_npc}{%s was hit in %s for 1 hit point}
-{723}{female_npc}{%s was hit for 1 hit point}
-{724}{female_npc}{%s was critically hit for 1 hit point}
-{725}{female_npc}{%s was critically hit in %s for no damage}
-{726}{female_npc}{%s was hit in %s for no damage}
-{727}{female_npc}{%s was hit for no damage}
-{728}{female_npc}{%s was critically hit for no damage}
-{733}{female_npc}{%s critically missed and took 1 hit point}
-{734}{female_npc}{%s critically missed and took %d hit points}
+{708}{female_npc}{Oops! %s e' stata colpita al posto tuo!}
+{709}{female_npc}{Oops! %s e' stata colpita al posto di %s!}
+{711}{female_npc}{%s ha subito un colpo critico %s per %d punti vita}
+{712}{female_npc}{%s e' stata colpita %s per %d punti vita}
+{713}{female_npc}{%s e' stata colpita per %d punti vita}
+{714}{female_npc}{%s ha mancato miseramente il bersaglio}
+{715}{female_npc}{%s ha mancato il bersaglio}
+{720}{female_npc}{%s ha subito un colpo critico per %d punti vita}
+{721}{female_npc}{%s ha subito un colpo critico %s per 1 punto vita}
+{722}{female_npc}{%s e' stata colpita %s per 1 punto vita}
+{723}{female_npc}{%s e' stata colpita per 1 punto vita}
+{724}{female_npc}{%s ha subito un colpo critico per 1 punto vita}
+{725}{female_npc}{%s ha subito un colpo critico %s senza danni}
+{726}{female_npc}{%s e' stata colpita %s senza danni}
+{727}{female_npc}{%s e' stata colpita senza danni}
+{728}{female_npc}{%s ha subito un colpo critico senza danni}
+{733}{female_npc}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
+{734}{female_npc}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
 {1110}{}{alla testa}
 {1111}{}{al braccio sx}
 {1112}{}{al braccio dx}
@@ -496,7 +496,7 @@
 {2037}{}{alle ali}
 {2038}{}{uncalled}
 {5000}{}{. Fa veramente male}
-{5001}{}{. Serious pain is inflicted}
+{5001}{}{. Una grave ferita e' stata inflitta}
 {5002}{}{ in un punto non protetto dall'armatura}
 {5003}{}{. Il violento colpo lo fa cadere senza sensi al suolo}
 {5004}{}{. Il colpo lo manda al tappeto}
@@ -511,7 +511,7 @@
 {5013}{}{. Adesso quel braccio sembra un moncone insanguinato}
 {5014}{}{. Il colpo le ha spappolato il braccio destro}
 {5015}{}{. Il suo braccio destro e' stato polverizzato dal potente colpo}
-{5016}{}{ in a forceful blow}
+{5016}{}{ . Che colpo potente}
 {5017}{}{. Il colpo ha attravesato le sue difese}
 {5018}{}{. La potenza del colpo le ha causato qualche danno in piu' del normale}
 {5019}{}{ in un punto non protetto dall'armatura. Il combattente e' stato scaraventato al tappeto}
@@ -534,7 +534,7 @@
 {5036}{}{. Il dolore e' troppo forte e crolla a terra come un sacco}
 {5037}{}{. Mormora "Mamma", mentre i suoi occhi si girano all'indietro}
 {5100}{}{. Fa veramente male}
-{5101}{}{. Serious pain is inflicted}
+{5101}{}{. Una grave ferita e' stata inflitta}
 {5102}{}{ in un punto non protetto dall'armatura}
 {5103}{}{. Il violento colpo la fa cadere senza sensi al suolo}
 {5104}{}{. Il colpo la manda al tappeto}
@@ -549,7 +549,7 @@
 {5113}{}{. Adesso quel braccio sembra un moncone insanguinato}
 {5114}{}{. Il colpo le ha spappolato il braccio destro}
 {5115}{}{. Il potente colpo le ha ridotto in poltiglia il braccio destro}
-{5116}{}{ in a forceful blow}
+{5116}{}{ . Che colpo potente}
 {5117}{}{. Il colpo ha attraversato le sue difese}
 {5118}{}{. La potenza del colpo le ha causato qualche danno in piu' del normale}
 {5119}{}{ in un punto non protetto dall'armatura. La combattente vola al tappeto}
@@ -580,7 +580,7 @@
 {5208}{}{. Il colpo gli ha spezzato quel braccio come fosse un pezzo di torrone morbido}
 {5209}{}{. Il braccio destro inizia a gonfiarsi, come un palloncino}
 {5210}{}{. L'infante inizia a piangere}
-{5211}{}{ in a sensitive spot}
+{5211}{}{ . Il punto colpito era molto sensibile}
 {5212}{}{. L'attacco ad un organo vitale fa crollare a terra il bambino}
 {5213}{}{; il colpo fa rotolare a terra il bambino come fosse un giocattolo}
 {5214}{}{. Adesso questo bambino non potra' piu' scoprire la vita}
@@ -683,7 +683,7 @@
 {5809}{}{; il colpo colpisce una zona sensibile}
 {5810}{}{. La creatura e' chiaramente agitata}
 {5900}{}{. Strapazzato come un vecchio straccio, il centauro crolla a terra e sviene}
-{5901}{}{ as the blow strikes a critical spot}
+{5901}{}{ . Il colpo ha raggiunto un punto vitale}
 {5902}{}{. Il colpo causa uno shock intenso ai centri nervosi}
 {5903}{}{. La violenza del colpo stordisce l'immondo centauro}
 {5904}{}{. La potenza del colpo gli tronca il braccio}
@@ -702,7 +702,7 @@
 {6004}{}{. Il robot cerca di compensare}
 {6005}{}{. Il robot si sforza di compensare}
 {6006}{}{. Il colpo ha centrato alcuni componenti chiave causando danni pesanti}
-{6007}{}{, inflicting heavy structural damage}
+{6007}{}{che si vanno ad aggiungere ai gravi danni strutturali}
 {6008}{}{. Il colpo ha centrato un componente critico e causa gravi danni}
 {6009}{}{. Il robot ondeggia a causa di questo duro attacco}
 {6010}{}{. Il colpo ha praticamente smantellato il robot}

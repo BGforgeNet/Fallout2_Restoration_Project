@@ -45,12 +45,12 @@
 {326}{}{"Thomas French: Morto mentre cercava di imparare la Ghigliottina Volante."}
 {327}{}{"Tim Cain. Fondatore, Amante, Guerriero, Programmatore."}
 {328}{}{"Tramell Ray Isaac: Qui giace uno dei piu' indefessi lavoratori di quest'industria. Animatore straordinario. Credo. R.I.P. T.Ray"}
-{329}{}{"Zeb -- Still Older Than Dirt."}
+{329}{}{"Zeb -- Piu' anziano della polvere."}
 {330}{}{"Dennis Presnell. Possiamo quasi sentire la sua voce... 'E quello lo chiamate un funerale?! Faceva schifo! Ragazzi, siete dei veri !@#£ioni! Non ho intenzione di morire un'altra volta! Blah blah blah...'" Un'incisione piu' in basso recita, "Dio dia riposo a 'Piagnone' D. Se solo si fosse concentrato di piu' sulla patch..."}
-{331}{}{"Rupert Diukos, died 9/24/96."}
-{332}{}{"Sal De Ban, died 9/24/96."}
-{333}{}{"Greg Zeschule, Fall '99."}
-{334}{}{"Ray Muzyka, Summer '98."}
+{331}{}{"Rupert Diukos, morto il 24/9/96"}
+{332}{}{"Sal De Ban, morto il 24/9/96"}
+{333}{}{"Greg Zeschule, Autunno '99"}
+{334}{}{"Ray Muzyka, Estate '98"}
 {335}{}{"Evan Chantland, 74-??: Non era paranoico, c'era davvero qualcuno che lo seguiva."}
 {336}{}{"Qui giace Moose, morto ammazzato. Lo abbiamo trovato qui, decapitato."}
 {337}{}{"Amy Presnell."}
@@ -61,14 +61,14 @@
 {342}{}{"T. D. Hamilton: Qui giace una fetida zoccola che sarebbe stato meglio fosse morta prima. Riposa all'inferno, Troia!"}
 {343}{}{"Un'altra vittima dei tempi di consegna."}
 {344}{}{"Canebomba e' morto. Lunga vita al Cane."}
-{345}{}{"Kris Snider: Too competitive."}
+{345}{}{"Kris Snider: Trooooppo competitivo."}
 {346}{}{"Stai facendo qualcosa di utile con la tua vita?"}
 {347}{}{"Perche' non ti ammazzi da solo e risparmi a qualcun altro il disturbo?"}
 {348}{}{"Charles Cuevas: Una volta disse, 'o Hockey o morte.' Non sembra abbia avuto l'hockey."}
 {349}{}{"William Lebus."}
 {350}{}{"Reg Arnedo: Possiamo ancora sentire la sua voce nei corridoi."}
 {351}{}{"Shanna SanPaolo."}
-{352}{}{"Brahmin Wrangler."}
+{352}{}{"Mandriano di brahmin."}
 {353}{}{"Josh Walters, 1971-2011. Morto per complicazioni durante il suo quinto trapianto di fegato."}
 {354}{}{"Doug Avery. Odio' la guerra per avergli tolto la possibilita' di andare in campeggio."}
 {355}{}{"Qui giace Ezekial Aikle, anni 102. I migliori muoiono giovani."}
@@ -89,15 +89,15 @@
 {370}{}{"Owen Moore sta facendo un viaggio piu' lungo di quanto potesse permettersi."}
 {371}{}{"In memoria di Little Chris Wood, detto "Pino". Qui giace un 'Pino' chiuso in una bara d'abete; un albero dentro un altro. Il legno esterno e' davvero molto buono, ma quello interno non possiamo giurare che lo sia.}
 {372}{}{"Sotto la terra e sotto le foglie giacciono di Jonathan Pease le spoglie. C'e' solo il guscio, ei qui non e' piu': Pease ne sguscio' e da Dio ando' lassu'."}
-{373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
+{373}{}{"Morto per le ustioni letali riportate il 21 marzo 1870, dopo l'esplosione di una lampada riempita con il 'Combustibile Non Esplosivo di R.E. Danforth'"}
 {374}{}{"Nato 1903 -- Morto 1942. Guardo' nel pozzo dell'ascensore per vedere se la cabina stava scendendo. E lo stava facendo."}
 {375}{}{"Qui giace un Ateo vestito di tutto punto, ma senza un posto dove andare."}
-{376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
+{376}{}{"Eileen Cardillo: Frequento' la Scuola Legale W&M; adesso e' Eileen Cavillo"}
 {377}{}{"Sarah Smart: Oratrice, Autrice, Professoressa, De Amicitia."}
-{378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
-{379}{}{"Jughead - King of Queen Archie's World."}
-{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
-{381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
+{378}{}{"Tim Winkle - Non sopporto l'ipocrisia... a parte la mia"}
+{379}{}{"Jughead - Re del Queen Archie's World"}
+{380}{}{"R.I.P Casey Donahue. Morto il 6/8/98. Ucciso da una Spigola Mutante molto irritabile."}
+{381}{}{"Qui giace G.M. e giace e giace e giace. p.s. Non bacio' mai una brutta ragazza"}
 {382}{}{"Jay "Piedi a Patata" Nielson. Musicista. Passato a miglior vita all'eta' di 104 anni, durante un assolo di tamburo."}
 {383}{}{"Nitsa - La ragione per cui Charles non ebbe il suo hockey."}
 {384}{}{"Thuy Dang. Possa Dio avere pieta' del suo nome."}
