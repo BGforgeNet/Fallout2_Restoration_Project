@@ -5,7 +5,7 @@
 {104}{}{Cerca di essere gentile con Mr. Buster... cosi' non dovremo sprecare munizioni.}
 {105}{}{Sono qui per far casino e masticare chewing gum. Sei fortunato che abbia ancora un pacchetto di gomme.}
 {106}{}{Cosa diavolo stai guardando? Smamma.}
-{107}{}{Hey, I am not into that. Just make sure you keep a good distance from me.}
+{107}{}{Ehi, non voglio saperne nulla. Fa' solo in modo di stare ad una certa distanza da me.}
 {108}{}{Si', vieni dal paparino. Perche' non ci vediamo dopo per un drink?}
 {109}{}{Dolcezza, preferirei dormire con un brahmin piuttosto che guardarti un'altra volta.}
 {110}{}{Sbrigati a comprare qualcosa e poi sparisci.}

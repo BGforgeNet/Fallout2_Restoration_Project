@@ -22,13 +22,13 @@
 {121}{}{Un duro, eh?}
 {122}{}{Cosa pensate di fargli?}
 {123}{}{Di' un po'... non e' che ho gia' sentito parlare di te, da qualche parte? Certo - non male quello che hai fatto. Senti, ci sono delle persone che conosco alle quali farebbe comodo un tipo come te. Vai al negozio di auto e chiedi di Elise. Dille che Karl le manda i suoi saluti.}
-{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{124}{}{Lavoro? L'Associazione Allevatori sta cercando delle guardie. I Predoni stanno nuovamente colpendo duro le carovane. E ho sentito che il Presidente Tandi sta cercando una persona "piena di risorse", come dice lei. Ti e' d'aiuto, questo?}
 {125}{}{Bene, avrei delle altre domande.}
 {126}{}{Un po'. Grazie.}
 {127}{}{Quello e' l'agente Jack, straniero. Uno dei nostri uomini. Non hai parlato con Mira, vero?}
 {128}{}{Si'.}
 {129}{}{Mira chi?}
-{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
+{130}{}{Quel figlio di puttana? Ha una fattoria appena fuori citta'. Prendi la strada subito dopo la sede degli Allevatori.}
 {131}{}{Non provi molta simpatia per lui...}
 {132}{}{Bene, avrei delle altre domande.}
 {133}{}{Grazie.}

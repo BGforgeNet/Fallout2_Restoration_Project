@@ -74,7 +74,7 @@
 {173}{}{Come producete questi alcolici sintetici?}
 {174}{}{In realta', vorrei delle informazioni.}
 {175}{}{Nient'altro per oggi, grazie.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for chem addicts before the war.}
+{176}{}{Gli Auto-Doc di Vault City sono in grado di produrre dei sostituti sintetici di sostanze in grado di creare dipendenza. Per quel che ne so io, prima della guerra questi sostituti erano usati come placebo per i tossicodipendenti.}
 {177}{}{Sembri molto ferrato in materia di sostituti sintetici...}
 {178}{}{Uh, non avete degli alcolici veri?}
 {179}{}{Oh. Beh, allora prendero' un po' d'acqua.}
@@ -130,7 +130,7 @@
 {229}{}{Hmmm. Mi piacerebbe sapere qualcos'altro...}
 {230}{}{Capisco. Beh, adesso vorrei bere qualcosa. Che cosa avete? Ho una sete del demonio...}
 {231}{}{Interessante. Grazie delle informazioni. Arrivederci.}
-{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Oh, no, no... non e' schiavitu'. Le persone che vede lavorare qui a Vault City sono servi... me incluso. Ci trattano molto bene, ci hanno insegnato a leggere e a scrivere, ci forniscono assistenza medica, un tetto e il cibo.}
 {233}{}{Avete tutto tranne la liberta', eh?}
 {234}{}{Se non avete nulla di cui lamentarvi, allora il problema non sussiste. Come non detto.}
 {235}{}{Lasciamo perdere. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}

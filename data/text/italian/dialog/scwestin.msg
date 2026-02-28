@@ -5,7 +5,7 @@
 {104}{}{Ancora tu? Che cosa vuoi?}
 {105}{}{Cosa vuoi?}
 {106}{}{Duh...}
-{107}{}{Me look Vault 13. You help?}
+{107}{}{Me cerca Vault 13... Tu aiutare?}
 {108}{}{Sto cercando il Vault 13. Lei puo' aiutarmi?}
 {109}{}{Ho portato a termine il suo sporco lavoro.}
 {110}{}{Cose cattive venute. Me spaventate. Mu-mu' salvate.}
@@ -54,7 +54,7 @@
 {153}{}{Non sono sicuro di poter credere alle tue parole, ma ecco la tua ricompensa. Diavolo, se stai mentendo, i miei ragazzi ti scoveranno. Ti ho anche detto che ti avrei dato delle informazioni, percio' eccole. Ho sentito un sacco di racconti riguardanti Tandi e l'Abitante del Vault. Sembra che lui l'abbia salvata anni prima che NCR fosse fondata. Comunque, la leggenda vuole che passo' molto tempo esplorando un vault ad est di qui. Se quello non e' il vault 13, forse li' dentro potrai trovare qualche indizio che ti conduca ad esso.}
 {154}{}{Me ringrazia te!}
 {155}{}{Grazie.}
-{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
+{156}{}{Il Primo Cittadino? Eccellente, questo e' proprio quello che stavo aspettando. Sei un Cittadino del Vault?}
 {157}{}{Si'.}
 {158}{}{No.}
 {159}{}{E un buon Cittadino, ne sono certo. Vorrei che tu portassi questo olodisco al Primo Cittadino. E' importante. Contiene le informazioni che le servono per smascherare i progetti di NCR e New Reno.}
@@ -66,7 +66,7 @@
 {165}{}{Un lavoro. Vuoi forse dire--}
 {166}{}{Mi manda Bishop. Ho un breve messaggio da consegnarle. }
 {167}{}{Buonanotte e sogni d'oro, vecchio.}
-{168}{}{dollars it is. You do the job, I pay you. You say no, you don't get out of here alive. Well?}
+{168}{}{dollari per te, allora. Tu esegui il lavoro, e io ti pago. Tu mi dici di no, e tu non esci vivo di qui. D'accordo?}
 {169}{}{Ohh, certo. Beh, avevo un problema con dei predatori, ma non si sono piu' fatti vedere. Mi dispiace. Prova con Felix e vedi se ha qualcosa da farti fare.}
 {170}{}{Ok, grazie.}
 {171}{}{Ehhh.... Ho il cuore in cattive condizioni... non posso prendere...}

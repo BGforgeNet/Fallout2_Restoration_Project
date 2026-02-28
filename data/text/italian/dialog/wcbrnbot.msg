@@ -1,10 +1,10 @@
 {100}{}{Vedi un robot cibernetico.}
 {101}{}{Un bell'esempio di bio-ingegneria applicata che rende ancora piu' sottile il confine tra l'uomo e il robot.}
 {102}{}{Skynet viaggera' con te.}
-{103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
+{103}{}{Skynet ringrazia l'umano.                                      Skynet vorrebbe chiedere un favore.                          Skynet vorrebbe viaggiare con l'umano.}
 {104}{}{}
 {105}{}{}
-{106}{}{                              [This contraption could be useful.]}
+{106}{}{                              [Questo marchingegno potrebbe rivelarsi utile.]}
 {107}{}{Prendi il robot con te.}
 {108}{}{Lascia il robot.}
 {109}{}{Esci}
@@ -45,7 +45,7 @@
 {144}{}{Ug.}
 {145}{}{Skynet ha raccolto tutte le informazioni necessarie riguardanti questo luogo.}
 {146}{}{Aaaaapet......taaaaaaaae.}
-{147}{}{        [It's right where you left it.]}
+{147}{}{        [E' rimasto dove l'avevi lasciato.]}
 {148}{}{Andiamo.}
 {149}{}{Rimani qui. Tornero'.}
 {150}{}{Skynet e' lieto di rivedere questo umano.}
@@ -105,7 +105,7 @@
 {204}{}{Disattivazione completa sistemi di Sicurezza - Livello 1 - in corso...}
 {205}{}{Disattivazione completa sistemi di Sicurezza - Livello 2 - in corso...}
 {206}{}{Disattivazione completa sistemi di Sicurezza - Livello 3 - in corso...}
-{207}{}{Deactivating all Security - Level 4}
+{207}{}{Disattivazione di tutta la Sicurezza - Livello 4}
 {306}{}{[Questo marchingegno potrebbe rivelarsi utile.]}
 {400}{}{Metti via la tua arma.}
 {410}{}{Whirrr}

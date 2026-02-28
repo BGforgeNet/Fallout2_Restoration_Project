@@ -25,7 +25,7 @@
 {124}{}{Cos'e' questa - l'ora dedicata alla socializzazione?}
 {125}{}{Sono Merk. Che vuoi? }
 {126}{}{Ancora tu?}
-{127}{}{Well, keep it polite, punk, or this could get ugly.}
+{127}{}{Beh, comportati bene, stronzetto, o finira' male.}
 {128}{}{Oort.}
 {129}{}{Sto cercando lavoro.}
 {130}{}{Fonti ben informate mi dicono che sei tu la persona cui rivolgersi per parlare di certi affari, se capisci cio' che intendo.}
@@ -95,7 +95,7 @@
 {194}{}{Beh, io sono un uomo erudito. Qual e' la tua domanda?}
 {195}{}{Chiedi pure.}
 {196}{}{Sto cercando il Vault 13.}
-{197}{}{Ever heard of a GECK?}
+{197}{}{Hai mai sentito parlare del GECK?}
 {198}{}{Che cosa mi puoi dire di un gruppo chiamato "I Ranger"?}
 {199}{}{Che cosa mi sai dire di un tipo di nome Westin?}
 {200}{}{Sto cercando delle informazioni a proposito del Vicepresidente Carlson.}
@@ -120,7 +120,7 @@
 {219}{}{Oh, beh, immagino che non riusciro' mai a incontrarlo... anch'io ho sentito molto parlare di lui.}
 {220}{}{E' tutto quello che mi serviva sapere.}
 {221}{}{E' tutto?}
-{222}{}{No, I've got some more questions.}
+{222}{}{No, ho delle altre domande da farti.}
 {223}{}{Si', per il momento e' tutto.}
 {224}{}{Ehi, io ci ho provato. Il Vault 13 e' praticamente una religione, da queste parti. Hanno persino eretto una statua in onore di un tale, un imbecille che *pare* provenisse da quel luogo. E' tutto quel che so.}
 {225}{}{Ti ho venduto una mappa. Prova ad usare quella.}

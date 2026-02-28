@@ -19,7 +19,7 @@
 {300}{}{"Qui giace Chris Avellone, Re del Dance Floor."}
 {301}{}{"Chris Jones. Figlio della notte."}
 {302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': Ci sono due ragioni e mezza per leggere questa lapide... Normalmente ci si aspetterebbe che queste ragioni fossero elencate."}
-{303}{}{"Colin McComb: Another pointless life."}
+{303}{}{"Colin McComb: Un'altra vita inutile."}
 {304}{}{"David Hendee: il piu' chiassoso tra i morti. Possa riposare in pace, e in silenzio."}
 {305}{}{"Ed Hyland. Mando' a quel paese il mondo."}
 {306}{}{"Eric Demilt. Il VERO Tipo da Combattimento."}
@@ -36,7 +36,7 @@
 {317}{}{"Leonard Boyarski. Esiliato da Vault City."}
 {318}{}{"Rupert Dinkos, morto nell'Inverno '00."}
 {319}{}{"Matt Norton. Avrebbe potuto essere qualcuno. Avrebbe potuto essere un combattente, invece del coglione che era."}
-{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
+{320}{}{"Nick Kesting." [C'e' un piccolo secchiello pieno di pallottole di rame sopra la tomba]}
 {321}{}{"Robert Collier. Silenzioso. Mortale. Rob."}
 {322}{}{"Robert Hertenstein 2. Il suo dottore aveva cercato di dirglielo, ma lui insisteva, 'Sono un po' troppe informazioni.'"}
 {323}{}{"Scott Campbell. Non la zuppa."}
@@ -44,7 +44,7 @@
 {325}{}{"Scott Rodenhizer. Modello' le teste in 3D."}
 {326}{}{"Thomas French: Morto mentre cercava di imparare la Ghigliottina Volante."}
 {327}{}{"Tim Cain. Fondatore, Amante, Guerriero, Programmatore."}
-{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
+{328}{}{"Tramell Ray Isaac: Qui giace uno dei piu' indefessi lavoratori di quest'industria. Animatore straordinario. Credo. R.I.P. T.Ray"}
 {329}{}{"Zeb -- Still Older Than Dirt."}
 {330}{}{"Dennis Presnell. Possiamo quasi sentire la sua voce... 'E quello lo chiamate un funerale?! Faceva schifo! Ragazzi, siete dei veri !@#£ioni! Non ho intenzione di morire un'altra volta! Blah blah blah...'" Un'incisione piu' in basso recita, "Dio dia riposo a 'Piagnone' D. Se solo si fosse concentrato di piu' sulla patch..."}
 {331}{}{"Rupert Diukos, died 9/24/96."}

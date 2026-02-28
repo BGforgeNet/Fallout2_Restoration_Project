@@ -1,5 +1,5 @@
 {100}{}{Vedi un uomo dal volto rubizzo, ma amichevole.}
-{101}{}{It's Duppo. He runs the Stockman's Association.}
+{101}{}{E' Duppo. Gestisce l'Associazione Allevatori.}
 {102}{}{E' un tipo tozzo, con una faccia sempre rossa e i sottili capelli biondi spettinati. Cammina zoppicando leggermente.}
 {103}{}{Benvenuto, straniero. Non ti ho mai visto da queste parti, percio' dubito che tu sia un mandriano. Sei qui per un lavoro, oppure vuoi comprare qualcosa?}
 {104}{}{Cosa vuoi, straniero?}

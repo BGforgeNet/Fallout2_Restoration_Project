@@ -25,8 +25,7 @@
 {121}{}{Do you know anything about the Vault?}
 {122}{}{It can't be that bad.}
 {123}{}{Nulla. Arrivederci.}
-{124}{}{Ah... hit on the head a little too often, I see. Sorry, I don't speak
- imbecile.}
+{124}{}{Hai sbattuto la testa un po' troppo spesso, eh? Scusa, ma non parlo con gli imbecilli.}
 {125}{}{Here you go. Drink up. It's about the only fun you'll see in this
  tight-ass place.}
 {126}{}{It can't be that bad.}
@@ -36,7 +35,7 @@
  asked.}
 {129}{}{Sorry. Thought I had the cash. Not being able to see your money in the
  dialogue screen creates some problems, y'know?}
-{130}{}{Yeah... whatever. I'm out of here.}
+{130}{}{Vabbe', come vuoi. Io me ne vado.}
 {131}{}{It's worse. The Citizens don't drink much, so I'm stuck here giving merchants
  drinks. The next cheap bastard who tries to haggle for a drink is going to find
  my boot in his ass.}
@@ -50,7 +49,7 @@
 {139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
 {140}{}{Io sto per andarmene da qui. Perche' non vieni con me?}
 {141}{}{Beh, buona fortuna.}
-{142}{}{Naw... you look like you got enough people following you around.}
+{142}{}{Nah... mi pare che tu abbia gia' una discreta folla al tuo seguito.}
 {143}{}{D'accordo. Beh, buona fortuna.}
 {144}{}{You know, that doesn't sound like a half bad idea. Count me in.}
 {145}{}{Yeah, what?}
@@ -74,5 +73,5 @@
 {163}{}{OK.}
 {164}{}{Look, you have enough people following your coat tails now.}
 {165}{}{Yeah, you go with that.}
-{166}{}{Naw... I think I'll pass.}
+{166}{}{Credo che non prendero' nulla, grazie.}
 {167}{}{I think I'm just going to hang around here a little longer.}

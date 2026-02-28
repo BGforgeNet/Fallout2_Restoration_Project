@@ -2,7 +2,7 @@
 {101}{}{Vedi un contadino.}
 {102}{}{Salve.}
 {103}{}{Buona giornata a te.}
-{104}{}{Welcome to our village.}
+{104}{}{Benvenuto nel nostro Villaggio.}
 {105}{}{I mostri ci proteggono.}
 {106}{}{Welcome.}
 {107}{}{We will need those rifles soon.}

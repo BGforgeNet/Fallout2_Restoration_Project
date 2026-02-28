@@ -34,8 +34,8 @@
 {139}{}{Esci}
 {140}{}{Accesso Negato...                                               Accesso Negato...                                             Accesso Concesso                                                   Disattivazione Sistemi d'Allarme in corso - Livello 2}
 {141}{}{Esci}
-{142}{}{Unauthorized Access
-                                        Initiating Security Lock-Out of this Terminal}
+{142}{}{Accesso non Autorizzato
+                                        Inizio blocco di sicurezza del terminale remoto in corso...}
 {143}{}{Esci}
 {144}{}{Analisi del comando in corso. Attendere prego...                 Annullare All...                                             Ignorato da Skynet; Codice 667                                     L'accesso a questo terminale e' stato interrotto.}
 {145}{}{Esci}

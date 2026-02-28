@@ -18,10 +18,10 @@
 {117}{}{Cosa puoi dirmi a proposito di Roger Westin?}
 {118}{}{Vorrei fissare un appuntamento con il vecchio Carlson. Conosci qualcuno che potrebbe aiutarmi?}
 {119}{}{Hai un GECK?}
-{120}{}{That's nice, stranger, but I ain't no charity.}
+{120}{}{Molto bene, straniero, ma io non faccio la carita'.}
 {121}{}{Forse. Avrei qui un mirino telescopico Triveld x10 - sta benissimo su un fucile da caccia, se sei interessato. Ti faccio un prezzo basso -- 500$.}
 {122}{}{Ehi, mi hai gia' ripulito abbastanza.}
-{123}{}{Sure, it's a deal.}
+{123}{}{Certo, d'accordo.}
 {124}{}{No, grazie.}
 {125}{}{New California Republic - ecco cos'e'. La Presidente Tandi e il suo gruppo dicono di voler far rivivere i vecchi tempi. Io invece penso che stiano cercando di arraffare tutto il possibile. Diamine, non ho niente di cui lamentarmi nei loro confronti - i "vecchi tempi" risalgono a molti anni prima che io nascessi. Sono dei tipi un po' severi, pero' - non amano gli schiavi, il gioco d'azzardo e cose simili. E' per questo che mi sono stabilito qui. Non mi piacciono le leggi - mai piaciute.}
 {126}{}{Capisco.}

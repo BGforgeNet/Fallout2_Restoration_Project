@@ -27,7 +27,7 @@
 {126}{}{No, sto cercando un GECK.}
 {127}{}{Aiutarmi? E come?}
 {128}{}{Un lanciarazzi mi da' tutta la pace interiore che mi serve, signorina.}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
+{129}{}{"Conosci veramente" questo! (gesto volgare con il dito medio)}
 {130}{}{Merk? Che cosa vuole?}
 {131}{}{Semplice. Ti vuole morta. Fa' ciaociao con la manina.}
 {132}{}{Non so cosa tu abbia fatto, ma Merk ha emesso una condanna a morte nei tuoi confronti.}

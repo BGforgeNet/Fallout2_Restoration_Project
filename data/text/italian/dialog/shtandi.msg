@@ -74,7 +74,7 @@
 {173}{}{Me serve sapere piu'.}
 {174}{}{Qualche altra domanda, per favore.}
 {175}{tand11}{Muoviti. Non posso perdere tutto il giorno con te.}
-{176}{}{Ok, me hurry.}
+{176}{}{Ok, me veloce}
 {177}{}{Cerchero' di fare in fretta.}
 {178}{tand12}{Vista la tuta che indossi pensavo che tu lo sapessi gia'.}
 {179}{}{Tuta stata in villaggio molto tempo. Appartenere a AbitanteVaut, fondatore di tribu'.}
@@ -168,7 +168,7 @@
 {267}{}{Solo un'altra cosa. Come reagirebbe se io le dicessi che ho trovato il Vault 13?}
 {268}{}{Gli parlero' io. Arrivederci.}
 {269}{tand36}{Gli affari sono affari, eh? Bene. Cinquecento, quando avrai fatto. Io non tiro sul prezzo, per cui o prendi o la smetti di sprecare il mio tempo.}
-{270}{}{Me take but me need ask questions.}
+{270}{}{Me prende ma deve fare domande.}
 {271}{}{Me no interessa.}
 {272}{}{Prendo, ma mi servono delle informazioni.}
 {273}{}{Non mi interessa.}

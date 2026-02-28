@@ -53,8 +53,8 @@
 {152}{}{Grazie. Lo faro'.}
 {153}{}{Sa nulla a proposito di un GECK?}
 {154}{}{Beh, sei davvero gentile, straniero - e anche dannatamente presuntuoso. Non conosco la tua storia da Adamo ed Eva e non mi piace la tua faccia! Non mettero' una buona parola per te con nessuno. Adesso ho del lavoro da fare.}
-{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
-{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
+{155}{}{Beh, ci sarebbe Duppo, giu' dagli Allevatori. E' lui che si occupa di assumere personale per gli spostamenti di bestiame. Poi c'e' il signor Westin. Se parli con lui, digli che ti ho mandato io. Persino il Presidente Tandi, ultimamente, e' in cerca di un aiuto.}
+{156}{}{Duppo, giu' all'Associazione Allevatori, cerca uomini per gli spostamenti di bestiame. Prova da lui.}
 {157}{}{Westin?}
 {158}{}{Presidente Tandi?}
 {159}{}{Devo andare.}
@@ -62,7 +62,7 @@
 {161}{}{Si'?}
 {162}{}{C'e' del lavoro da fare in citta'?}
 {163}{}{Lasciamo perdere. Me ne vado.}
-{164}{}{Just make sure things stay that way. Goodbye.}
+{164}{}{E vedi di assicurarti che le cose rimangano cosi'. Arrivederci.}
 {165}{}{E' stato davvero un ottimo lavoro quello che hai fatto con il vecchio Jack, straniero. Come sceriffo, adesso la gestione del caso passa nelle mie mani.}
 {166}{}{E' tutto suo.}
 {167}{}{Non c'e' una ricompensa?}
@@ -75,6 +75,6 @@
 {174}{}{Tandi?}
 {175}{}{Lo terro' in considerazione.}
 {176}{}{Che io sappia, non ci sono altri lavori.}
-{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
+{177}{}{Duppo, giu' all'Associazione Allevatori, cerca uomini per gli spostamenti di bestiame. Anche il Presidente Tandi e' in cerca di un aiuto.}
 {178}{}{Altri tipi come te avrebbero gia' lasciato la citta', figurarsi cercare un lavoro.}
-{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}
+{179}{}{Duppo, giu' all'Associazione Allevatori, cerca uomini per gli spostamenti di bestiame. Prova da lui. Poi c'e' Mr. Westin. Se parli con lui, digli che ti mando io.}

@@ -269,7 +269,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {367}{}{Devo trovare il Vault dal quale la mia gente proviene.}
 {368}{}{Ho bisogno di un Kit del Giardino dell'Eden. Ne avete uno?}
 {369}{}{Oh, e cosi' ADESSO sono benvenuto nella vostra citta'? Al diavolo... me ne vado di qui.}
-{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
+{370}{}{Non hai idea di quello che ho passato... ma ti raccontero' del Tempio della Prova un'altra volta. Addio.}
 {371}{lyn051}{Ti sto dando un'opportunita' concessa a pochissimi Esterni. Puoi affrontare il test, se vuoi. Ma risolvere questo problema per noi potrebbe rivelarsi piu' remunerativo. Capisci quello che voglio dire?}
 {372}{}{Siamo d'accordo, allora. Che tipo di problema?}
 {373}{}{Capisco. Di qualsiasi cosa abbiano bisogno i vault, e' mio dovere provvedere.}
@@ -327,8 +327,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {425}{lyn058}{Non ricordo la tua investitura. Fammi vedere i tuoi documenti.}
 {426}{}{Ecco a lei. Dovrebbe essere tutto in ordine.}
 {427}{}{Umm... Non ho i miei documenti con me.}
-{428}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
-{429}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
+{428}{}{I miei documenti? Non sono ancora pronti. Dovrebbero arrivare sulla sua scrivania uno dei prossimi giorni.}
+{429}{}{I miei documenti? Non sono ancora pronti. Dovrebbero arrivare sulla sua scrivania uno dei prossimi giorni.}
 {430}{lyn059}{Non giocare con me, "Cittadino," o faro' in modo che tu non metta piu' piede sulle strade di Vault City. Adesso vattene.}
 {431}{}{Nessun problema...adesso me ne vado. Addio.}
 {432}{}{Buona giornata, Primo Cittadino.}
@@ -629,7 +629,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {727}{lyn122}{Roger Westin e' probabilmente l'unico uomo onesto di NCR ed e' solidale con la nostra causa. }
 {728}{}{Va bene, gli consegnero' il disco.}
 {729}{}{No grazie. Adesso sono troppo occupato.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{730}{lyn123}{Il tuo patriottismo non rimarra' senza ricompensa. Adesso vai. Ogni momento e' prezioso.}
 {731}{}{Prima che io vada, avrei delle altre domande...}
 {732}{}{Lo faro'.}
 {733}{}{Puo' contare su di me, Primo Cittadino. Tornero' dopo aver consegnato il disco a Westin.}

@@ -14,7 +14,7 @@
 {113}{}{O-kay - sei proprio un tipo speciale! Credo che andro' a vendere la mia roba da qualche altra parte.}
 {114}{}{Fammi vedere un'altra volta la tua roba.}
 {115}{}{Credo che adesso io ed Edna ce ne andremo.}
-{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
+{116}{}{Beh, grazie al cielo quello straniero non ti ha portata via, figlia mia... La mia roba e' come una famiglia per me, sai?}
 {117}{}{Uhh - naturalmente.}
 {118}{}{Beh, credo che adesso me ne andro'.}
 {119}{}{Posso riparare ogni genere di roba. Ho qui un compressore, di nome Claudia, che si puo' installare in quasi tutte le automobili - garantisce un sacco di potenza in piu'. Costa solo 1000$. Ti interessa?}

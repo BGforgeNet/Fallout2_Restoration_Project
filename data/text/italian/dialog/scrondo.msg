@@ -1,7 +1,7 @@
 {100}{}{Vedi un uomo che indossa degli abiti ricoperti di grasso. Probabilmente e' un meccanico.}
 {101}{}{E' Rondo, il proprietario di questa officina.}
 {102}{}{Pensi sia un meccanico, ma ha un'arma al fianco che sembra un tantino strana.}
-{103}{}{Greetings, Ranger. Time's been good, I hope.}
+{103}{}{Saluti, ranger. Tutto bene, spero.}
 {104}{}{Un giorno spazzeremo via quegli schiavisti.}
 {105}{}{Beh (player name), gli altri sono nel retro.}
 {106}{}{Scusa, non siamo piu' in affari.}
