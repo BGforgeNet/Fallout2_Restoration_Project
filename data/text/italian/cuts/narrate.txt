@@ -2,7 +2,7 @@
 2:La guerra non cambia mai.
 3:La fine del mondo e' avvenuta piu' o meno come avevamo previsto.
 4:Troppi esseri umani, non abbastanza spazio o risorse per tutti.
-5:I dettagli sono banali e privi di senso, le ragioni, come sempre, puramente umane.
+5:I dettagli sono banali e irrilevanti; le ragioni, come sempre, sono puramente umane.
 6:Nel 2077, quasi ogni vita umana fù spazzata via dalla terra.
 7:Una grande purificazione, una scintilla atomica accesa dalle mani umane, si e' rapidamente propagata fuori controllo.
 8:Lance di fuoco nucleare sono piovute dal cielo.
