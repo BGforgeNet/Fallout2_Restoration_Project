@@ -92,7 +92,7 @@
 {191}{}{Lui: Hai preso una di quelle decisioni che cambiano la vita. Lei: E purtroppo, era quella sbagliata. Entrambi: Guardie! Guardie!}
 {192}{}{Dannazione.}
 {193}{}{Lui: Salve, }
-{194}{}{So what do I do now that I'm a Hubologist?}
+{194}{}{Adesso che sono un Hubologista che cosa faccio?}
 {195}{}{Cosa devo fare per entrare nel vostro gruppo?}
 {196}{}{E' tutto quello che volevo sapere. Ci vediamo!}
 {197}{}{}

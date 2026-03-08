@@ -1,14 +1,14 @@
-{100}{}{You see Mr. Cheater.}
-{101}{}{He still looks like a cheater.}
-{200}{}{Hello I am Mr. Cheater. How may I help you?}
-{201}{}{Will you kidnap my tribe?}
-{202}{}{Will you put me on the Shi quest?}
-{203}{}{Will you put me on the Elron quest?}
-{204}{}{Will you put me on the Brotherhood quest?}
-{205}{}{Make it so I've already been to the military base.}
-{206}{}{I've kidnapped your tribe.}
-{207}{}{I've put you on the Shi quest.}
-{208}{}{I've put you on the Elron quest.}
-{209}{}{I've put you on the Brotherhood quest.}
-{210}{}{Now you have been to the military base.}
-{211}{}{Thank you, Mr. Cheater.}
+{100}{}{Vedi Mr. Cheater.}
+{101}{}{Ha comunque l'aria di un cheater.}
+{200}{}{Ciao, sono Mr. Cheater. Come posso aiutarti?}
+{201}{}{Rapiresti la mia tribu'?}
+{202}{}{Mi manderesti alla missione degli Shi?}
+{203}{}{Mi manderesti alla missione degli Elron?}
+{204}{}{Mi manderesti alla missione della Confraternita?}
+{205}{}{Fa' in modo che io sia gia' stato alla base militare.}
+{206}{}{Ho rapito la tua tribu'.}
+{207}{}{Ti ho assegnato alla missione degli Shi.}
+{208}{}{Ti ho assegnato alla missione degli Elron.}
+{209}{}{Ti ho assegnato alla missione della Confraternita.}
+{210}{}{Ora sei stato alla base militare.}
+{211}{}{Grazie, Mr. Cheater.}

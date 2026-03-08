@@ -188,7 +188,7 @@
 {1347}{}{Chi sei?}
 {1348}{}{Who owns this casino?}
 {1349}{}{Okay, thanks. Sorry to bother you.}
-{1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
+{1355}{}{ Famiglia. Hanno pompato molta vita in questo posto, ne hanno fatto un vero locale notturno, un gioiello splendente di New Reno.}
 {1356}{}{ Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
 {1361}{}{. Love your films.}
 {1365}{}{That guy? Old Man McGee? Crazy sumabitch…he's been playing that machine there for the past few years, waiting for the big jackpot. His life fortune must be sitting in that thing, but it won't give him a single chip.}

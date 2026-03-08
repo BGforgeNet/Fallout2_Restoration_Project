@@ -1,4 +1,4 @@
-{100}{}{You see a drug addict.}
+{100}{}{Vedi un tossicodipendente.}
 {101}{}{Vedi Petey.}
 {150}{}{This here is a poor drug addict.}
 {151}{}{Petey sembra aver bisogno di aiuto.}

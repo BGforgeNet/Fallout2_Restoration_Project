@@ -12,11 +12,11 @@
 {219}{}{Ti faro' un'altra domanda, allora.}
 {220}{}{Grazie, lo faro'.}
 {221}{}{Medger}
-{222}{}{Uh... kay.}
+{222}{}{Uh... okay.}
 {230}{}{Adesso morirai.}
 {240}{}{Mi stai pigliando per il culo?! Noi catturiamo e vendiamo schiavi. E' per questo che sei qui, no? Cerchi un po' di azione?}
-{241}{}{Ya gotta be shittin' me! We capture and sell slaves. If ya ain't here for that, whatta
- want?}
+{241}{}{Ma stai scherzando! Catturiamo e vendiamo schiavi. Se non sei qui per quello, cosa
+ vuoi?}
 {242}{}{E cosi' sei diventato uno di noi. Interessante. Se ti piace l'azione, sei nel posto giusto. Se non ti piace, non durerai molto.}
 {243}{}{Non avrei mai pensato di vedere quel tatuaggio su una donna. Non sembra male, pero'. Hai stupito persino Metzger... e che cazzo, direi! Allora, che cosa vuoi?}
 {244}{}{Che cosa vuoi? Ti sei perso, o cosa?}
@@ -87,7 +87,7 @@
 {384}{}{Un'altra domanda.}
 {385}{}{Grazie, lo faro'.}
 {386}{}{Medger}
-{387}{}{Uh... kay.}
+{387}{}{Uh... okay.}
 {400}{}{No, ma prova a parlare con il capo. Probabilmente lui conosce un sacco di posti, da queste parti.}
 {401}{}{Un'altra domanda.}
 {402}{}{Okay, grazie. Ci vediamo.}

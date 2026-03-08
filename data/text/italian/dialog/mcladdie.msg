@@ -1,5 +1,5 @@
 {100}{}{Sembra essere un Border Collie.}
-{101}{}{You see Laddie.}
+{101}{}{Vedi Laddie.}
 {102}{}{Questo cane sembra essere davvero sveglio e intelligente.}
 {103}{}{Non hai dubbi sul fatto che questo cane sia probabilmente piu' intelligente di te.}
 {150}{}{Uff!}
@@ -8,7 +8,7 @@
 {153}{}{[Questo cane sembra molto agitato.]}
 {154}{}{Bel cagnolino.}
 {155}{}{Sai dove si trova Jonny, ragazzo?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Sta' qui, Laddie.}
 {157}{}{Andiamo a cercare Jonny.}
 {158}{}{Jonny e' caduto nel pozzo, Laddie?}
 {159}{}{Cosa c'e', ragazzo? Stai cercando di dirmi qualcosa?}

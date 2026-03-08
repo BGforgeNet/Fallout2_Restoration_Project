@@ -8,7 +8,7 @@
  [He shrugs.] Folks call me One-Eyed Roy, but I can't for the life of me figure out why. [He laughs heartily at his joke.]
  What's your name, friend?}
 {203}{}{Sono }
-{204}{}{ of Arroyo.}
+{204}{}{ di Arroyo.}
 {205}{}{. Now let's get this underway.}
 {210}{}{A true pleasure to meetcha, }
 {211}{}{. If you don't mind me saying, you're a bit of an odd sort for a tribal.}

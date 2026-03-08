@@ -13,7 +13,7 @@
 {112}{}{Ancora tu? Vattene.}
 {113}{}{Che merda di lavoro abbiamo fatto! Temo che stavolta non ci saranno soldi per noi. Accontentati di aver salvato la pelle.}
 {114}{}{Beh, i proprietari non sono troppo contenti - Questo e' un lavoro da soli 1000$. Che sfortuna.}
-{115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
+{115}{}{Beh, abbiamo avuto un po' di sfortuna ma ce l'abbiamo fatta. Eccoti i 2000$ pattuiti.}
 {116}{}{Per tutti i vitelli da latte! Hai fatto davvero un ottimo lavoro! Eccoti i tuoi 2000$ e anche 1000$ di bonus. Redding fara' bene a stare in guardia, stanotte!}
 {117}{}{Adesso puoi andare. E' stato bello viaggiare con te.}
 {118}{}{Sei la peggior guardia che abbia mai visto in vita mia. Sparisci!}

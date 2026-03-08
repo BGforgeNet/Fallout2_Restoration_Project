@@ -1,158 +1,157 @@
-{100}{}{You see a member of the Slaver's Guild.}
-{150}{}{You see Metzger, head of the Slaver's Guild.}
+{100}{}{Vedi un membro della Gilda degli Schiavisti.}
+{150}{}{Vedi Metzger, il capo della Gilda degli Schiavisti.}
 {151}{}{[PARLA]}
-{152}{}{Guards! Attack!}
+{152}{}{Guardie! Attaccate!}
 {153}{}{[fatto]}
-{154}{}{Come back in the morning damn it! I do my business during the day.}
+{154}{}{Torna di mattina, dannazione! Faccio affari durante il giorno.}
 {155}{}{[fatto]}
-{156}{}{What is it now? You're really starting to piss me off.}
-{157}{}{I would like to apologize.}
-{158}{}{Sorry, I was drugged earlier. I didn't mean anything.}
-{159}{}{Whoa, what's your problem?}
-{160}{}{I wanted to ask you a question.}
-{161}{}{Apparently I have. Good bye.}
+{156}{}{Cosa c'e' adesso? Stai davvero cominciando a farmi incazzare.}
+{157}{}{Vorrei scusarmi.}
+{158}{}{Scusa, ero drogato prima. Non volevo dire niente.}
+{159}{}{Ehi, qual e' il tuo problema?}
+{160}{}{Volevo farti una domanda.}
+{161}{}{A quanto pare si'. Arrivederci.}
 {162}{}{Wah.}
-{163}{}{Well, it's too late for that. Get out.}
-{164}{}{Please, please, please; I'm sorry.}
-{165}{}{Oh well, I tried.}
-{166}{}{Screw you, then!}
-{167}{}{Alright, alright. Apology accepted.}
-{168}{}{Whew. Can I ask you some questions?}
-{169}{}{I'm glad we straightened that out. See you later.}
-{170}{}{Hello. It's good to see you.}
-{171}{}{Hi Metzger. We need to talk.}
-{172}{}{You too. Bye.}
+{163}{}{Beh, e' troppo tardi per quello. Vattene.}
+{164}{}{Per favore, per favore, per favore; mi dispiace.}
+{165}{}{Oh beh, ci ho provato.}
+{166}{}{Allora vaffanculo!}
+{167}{}{Va bene, va bene. Scuse accettate.}
+{168}{}{Uff. Posso farti alcune domande?}
+{169}{}{Sono contento che abbiamo chiarito. A piu' tardi.}
+{170}{}{Ciao. Fa' piacere vederti.}
+{171}{}{Ciao Metzger. Dobbiamo parlare.}
+{172}{}{Anche a te. Ciao.}
 {173}{}{Blurp.}
-{174}{}{I am Metzger, Head of the Slaver's Guild. Whatcha need?}
+{174}{}{Sono Metzger, capo della Gilda degli Schiavisti. Cosa ti serve?}
 {175}{}{Si', avrei delle domande.}
-{176}{}{No thanks. I'll just go now.}
-{177}{}{Swavuh???}
-{178}{}{Please leave. Now.}
+{176}{}{No grazie. Me ne vado.}
+{177}{}{Schiavisti???}
+{178}{}{Per favore vattene. Adesso.}
 {179}{}{Oppure cosa?}
-{180}{}{Alright. But I'll be back!}
+{180}{}{D'accordo. Ma tornero'!}
 {181}{}{OK. ciao.}
 {182}{}{Cosa vorresti sapere?}
-{183}{}{About Trader Vic...}
-{184}{}{Can I join the Slaver's Guild?}
-{185}{}{I'd like to sell my husband into slavery.}
-{186}{}{I'd like to sell my wife. How much?}
-{187}{}{I'd like to sell one of my friends here.}
-{188}{}{Tell me about the guild.}
-{189}{}{What cities buy your slaves?}
-{190}{}{I'd like to buy a slave.}
-{191}{}{I'm looking for Vault 13. Have you heard of it?}
-{192}{}{Metzger? That's a strange name.}
-{193}{}{Nothing. I have to go.}
-{195}{}{It's from an old language, prewar or something.}
-{196}{}{Metzger means butcher. Fitting, don't you think?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
-{198}{}{I read some book about a Metzger. He was a president, or something.}
-{199}{}{Look who's talking tribal.}
-{200}{}{It's Germen, German, Garmen, or something. Ancient language, from a
- long time ago.}
+{183}{}{A proposito del Mercante Vic...}
+{184}{}{Posso unirmi alla Gilda degli Schiavisti?}
+{185}{}{Vorrei vendere mio marito come schiavo.}
+{186}{}{Vorrei vendere mia moglie. Quanto mi date?}
+{187}{}{Vorrei vendere uno dei miei amici qui.}
+{188}{}{Parlami della gilda.}
+{189}{}{Quali citta' comprano i vostri schiavi?}
+{190}{}{Vorrei comprare uno schiavo.}
+{191}{}{Sto cercando il Vault 13. Ne hai sentito parlare?}
+{192}{}{Metzger? E' un nome strano.}
+{193}{}{Niente. Devo andare.}
+{195}{}{Viene da una lingua antica, del prima guerra o qualcosa del genere.}
+{196}{}{Metzger significa macellaio. Appropriato, non credi?}
+{197}{}{Era il nome di mio bisnonno. Veniva da qualche posto lontano a
+ est. Al di la' di un grande specchio d'acqua.}
+{198}{}{Ho letto di un certo Metzger in un libro. Era un presidente, o qualcosa del genere.}
+{199}{}{Guarda chi parla, selvaggio.}
+{200}{}{E' Germen, Tedesco, Garmen, o qualcosa del genere. Una lingua antica, di
+ molto tempo fa.}
 {201}{}{Et tu, Brutus?}
-{202}{}{I see. I still have a question, though.}
-{203}{}{That is the dumbest thing I have ever heard.}
-{204}{}{Fascinating. Gotta go.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
-{206}{}{Sure. Sounds great.}
+{202}{}{Capisco. Ho ancora una domanda, pero'.}
+{203}{}{E' la cosa piu' stupida che abbia mai sentito.}
+{204}{}{Affascinante. Devo andare.}
+{205}{}{La nostra missione e' fornire una forza lavoro stabile e di alta qualita' per
+ soddisfare la crescente domanda delle citta' piu' grandi. Vuoi unirti a noi?}
+{206}{}{Certo. Sembra ottimo.}
 {207}{}{Assolutamente no.}
-{208}{}{I'll get back to you on that. What cities buy your slaves?}
-{209}{}{Sorry, that's private guild information.}
-{210}{}{OK. Sign me up!}
-{211}{}{No! You guys are sick people!}
-{212}{}{I'll consider that. I have more questions.}
-{213}{}{Hmm, I'll come back later.}
-{214}{}{We will need to brand a small marking on your forehead to show to all
- your allegiance with the slavers guild. Are you ready?}
-{215}{}{Sounds great! Do it!}
-{216}{}{I've changed my mind. Can I ask another question?}
-{217}{}{I don't have time right now. I have to go.}
-{218}{}{Welcome to the guild!}
-{219}{}{Great, I have questions!}
-{220}{}{OK, thanks. I'll be back.}
-{221}{}{Vault 13? No. Wait... I think Vic's from Vault City. Maybe that's it.}
-{222}{}{Yes, where is it?}
-{223}{}{No. I have another question though.}
-{224}{}{No, never mind.}
-{225}{}{We sell most of our slaves to Vault City and New Reno. New Reno is
- south east of here and most of the Den trades with it.}
-{226}{}{Where is Vault City?}
+{208}{}{Ci pensero' su. Quali citta' comprano i vostri schiavi?}
+{209}{}{Spiacente, sono informazioni riservate della gilda.}
+{210}{}{Ok. Iscrivimi!}
+{211}{}{No! Siete dei malati!}
+{212}{}{Ci pensero'. Ho altre domande.}
+{213}{}{Hmm, tornero' piu' tardi.}
+{214}{}{Dovremo marchiare una piccola incisione sulla tua fronte per mostrare a tutti
+ la tua appartenenza alla gilda degli schiavisti. Sei pronto?}
+{215}{}{Ottimo! Fallo!}
+{216}{}{Ho cambiato idea. Posso fare un'altra domanda?}
+{217}{}{Non ho tempo adesso. Devo andare.}
+{218}{}{Benvenuto nella gilda!}
+{219}{}{Ottimo, ho delle domande!}
+{220}{}{Ok, grazie. Tornero'.}
+{221}{}{Vault 13? No. Aspetta... credo che Vic venga da Vault City. Forse e' quello.}
+{222}{}{Si', dov'e'?}
+{223}{}{No. Ho un'altra domanda, pero'.}
+{224}{}{No, lascia perdere.}
+{225}{}{Vendiamo la maggior parte dei nostri schiavi a Vault City e New Reno. New Reno e'
+ a sud-est di qui e la maggior parte del Den commercia con essa.}
+{226}{}{Dov'e' Vault City?}
 {227}{}{Ho delle altre domande.}
-{228}{}{Thanks, gotta go.}
-{229}{}{Vault City is east of here, and a little south. Vic's from there.}
+{228}{}{Grazie, devo andare.}
+{229}{}{Vault City e' a est di qui, un po' a sud. Vic viene da li'.}
 {230}{}{Ho delle altre domande.}
-{231}{}{Thanks; gotta go.}
-{232}{}{Hmm, looks like a healthy slave. I'll give you }
-{233}{}{ coins.}
-{234}{}{OK! It's a deal.}
-{235}{}{Uh, never mind.}
-{236}{}{No way! I want double!}
-{237}{}{You drive a hard bargain. Here is your money!}
-{238}{}{Thanks. I have some more questions.}
+{231}{}{Grazie, devo andare.}
+{232}{}{Hmm, sembra uno schiavo in buona salute. Ti daro'}
+{233}{}{ monete.}
+{234}{}{Ok! Affare fatto.}
+{235}{}{Uh, lascia perdere.}
+{236}{}{Neanche per sogno! Ne voglio il doppio!}
+{237}{}{Sei un osso duro. Ecco i tuoi soldi!}
+{238}{}{Grazie. Ho altre domande.}
 {239}{}{Grazie. Ciao.}
 {240}{}{Altro?}
-{241}{}{Yes, I have a question.}
+{241}{}{Si', ho una domanda.}
 {242}{}{No. Ci vediamo.}
-{243}{}{Which "friend" are you selling?}
-{244}{}{Um, never mind.}
-{245}{}{Interesting. I'll give you }
-{246}{}{ coins.}
-{247}{}{Sold!}
+{243}{}{Quale "amico" vuoi vendere?}
+{244}{}{Uhm, lascia perdere.}
+{245}{}{Interessante. Ti daro'}
+{246}{}{ monete.}
+{247}{}{Venduto!}
 {248}{}{No, grazie.}
-{249}{}{I want more money than that!}
-{250}{}{Alright, I'll give you }
-{251}{}{ but no more!}
-{252}{}{Sold!}
-{253}{}{Not good enough.}
-{254}{}{That's way too little. I'm leaving.}
-{255}{}{What do you want with Vic? He's my property now. He shouldn't have fucked with me.}
-{256}{}{I'd like to buy him.}
+{249}{}{Voglio piu' soldi di cosi'!}
+{250}{}{D'accordo, ti daro'}
+{251}{}{ ma non di piu'!}
+{252}{}{Venduto!}
+{253}{}{Non basta.}
+{254}{}{E' decisamente troppo poco. Me ne vado.}
+{255}{}{Che cosa vuoi da Vic? Ora e' roba mia. Non avrebbe dovuto mettersi contro di me.}
+{256}{}{Vorrei comprarlo.}
 {257}{}{Perche' lo trattieni qui?}
 {258}{}{Nulla. Non importa.}
-{259}{}{He is not for sale, yet.}
+{259}{}{Non e' ancora in vendita.}
 {260}{}{Perche' no?}
 {261}{}{Oh, okay.}
-{262}{}{He will cost $2000.}
-{263}{}{Here is your money.}
-{264}{}{That's a lot. Maybe later.}
-{265}{}{The cost is $1000.}
-{266}{}{Here is your money.}
-{267}{}{Don't have that much yet. Bye.}
-{268}{}{Our radio is broken and he's in charge of fixing it.}
+{262}{}{Costera' 2000$.}
+{263}{}{Ecco i tuoi soldi.}
+{264}{}{E' tanto. Forse piu' tardi.}
+{265}{}{Il costo e' 1000$.}
+{266}{}{Ecco i tuoi soldi.}
+{267}{}{Non ho ancora cosi' tanti soldi. Ciao.}
+{268}{}{La nostra radio e' rotta e lui e' incaricato di ripararla.}
 {269}{}{Capisco.}
-{270}{}{You haven't got the money!}
-{271}{}{Too bad for me. Can I ask you a question?}
-{272}{}{Sorry, I'll come back.}
-{307}{}{How dare you return after abandoning your brothers during a Slave Run! Guards! Attack!}
+{270}{}{Non hai i soldi!}
+{271}{}{Peccato per me. Posso farti una domanda?}
+{272}{}{Scusa, torno dopo.}
+{307}{}{Come osi tornare dopo aver abbandonato i tuoi fratelli durante una Caccia agli Schiavi! Guardie! Attaccate!}
 {308}{}{[fatto]}
-{309}{}{Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?}
+{309}{}{Eccellente! Potrebbero volerci alcuni giorni per andare e tornare. Sei pronto a partire adesso?}
 {310}{}{No. Tornero'.}
-{311}{}{Yes, I'm ready. Let's go.}
-{312}{}{Ah, you are back from the Slave run. Let's see how you did...}
+{311}{}{Si, sono pronto. Andiamo.}
+{312}{}{Ah, sei tornato dalla Caccia agli schiavi. Vediamo come te la sei cavata...}
 {313}{}{[avanti]}
 {314}{}{[avanti]}
-{315}{}{You killed potential slaves! A dead man brings us no income! Only kill the ones that are a threat,
- the others are of no threat.}
+{315}{}{Hai ucciso potenziali schiavi! Un uomo morto non ci porta alcun guadagno! Devi uccidere solo quelli che sono una minaccia, gli altri non lo sono.}
 {316}{}{[avanti]}
-{317}{}{You returned no slaves at all! What the hell is wrong with you? We're trying to make money here,
- not lose it.}
+{317}{}{Non hai portato nemmeno uno schiavo! Che diavolo ti prende? Stiamo cercando di fare soldi qui,
+ non di perderli.}
 {318}{}{[avanti]}
-{319}{}{Overall, you did well this Run. Keep up the good work and I might keep you around a while.}
-{320}{}{Thank you. I will.}
-{321}{}{I don't know if I like this too much.}
-{322}{}{You need to improve your enslavement technique.}
+{319}{}{Tutto sommato, hai fatto un buon lavoro in questa Caccia. Continua cosi' e potrei tenerti ancora un po' in giro.}
+{320}{}{Grazie. Lo faro'.}
+{321}{}{Non so se mi piace molto questa cosa.}
+{322}{}{Devi migliorare la tua tecnica di schiavizzazione.}
 {323}{}{Ci provero'.}
-{324}{}{I apologize for my poor performance.}
-{325}{}{I think I'm good enough.}
-{326}{}{Damn it! You did terribly in this Run. Are you trying to ruin me? Be more careful next time.
- You don't need to kill them all! Just kill off the hostile ones. Leave the unarmed ones for collection.}
-{327}{}{I'm sorry, Metzger.}
-{328}{}{Hey, it's tough work to be a Slaver!}
-{329}{}{I'd like to see you do better.}
+{324}{}{Mi scuso per la mia scarsa prestazione.}
+{325}{}{Penso di essere abbastanza bravo.}
+{326}{}{Dannazione! Hai fatto una pessima figura in questa Caccia. Stai cercando di rovinarmi? Sta' piu' attento la prossima volta.
+ Non devi ucciderli tutti! Ammazza solo quelli ostili. Lascia quelli disarmati per la raccolta.}
+{327}{}{Mi dispiace, Metzger.}
+{328}{}{Ehi, fare lo Schiavista e' un lavoro duro!}
+{329}{}{Vorrei vederti fare di meglio.}
 {330}{}{Vorrei partecipare ad un rastrellamento di schiavi.}
-{331}{}{Damn it! I hate losing any guild member on a Run. Try to watch each other's back!}
-{332}{}{Overall, you did well this Run. Here is $}
-{333}{}{ as an incentive for you to keep up the good work.}
+{331}{}{Dannazione! Odio perdere membri della gilda durante una Caccia. Cercate di coprirvi le spalle a vicenda!}
+{332}{}{Tutto sommato, hai fatto un buon lavoro in questa Caccia. Ecco $}
+{333}{}{ come incentivo per continuare a fare un buon lavoro.}

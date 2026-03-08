@@ -1,33 +1,33 @@
-{100}{}{You see a cheat character.}
-{101}{}{This guy shouldn't be here.}
-{102}{}{Hey it's a cheat character.}
-{103}{}{Hey that hurt.}
-{104}{}{Hello what would you like to happen.}
-{105}{}{Setting Westin's flags.}
-{106}{}{Set Accept Snuffing westin?}
-{107}{}{Unset Accept Snuffing Westin.}
-{108}{}{Set Westin Dead.}
-{109}{}{Unset Westin Dead.}
-{110}{}{Set Westin Cancel Snuff}
-{111}{}{Unset Westin Cancel Snuff.}
-{112}{}{Set Westin Drugs Known.}
-{113}{}{Unset westin Drugs known.}
-{114}{}{Set Westin Fail}
-{115}{}{Unset westin Fail.}
-{116}{}{Set Westin Complete}
-{117}{}{Unset Westin Complete.}
-{118}{}{Set Westin Snuff Known.}
-{119}{}{Unset westin snuff known.}
-{120}{}{Setting Carlson's Flags.}
-{121}{}{Set Carlson Accept Snuff.}
-{122}{}{Unset Carlson Accept Snuff.}
-{123}{}{Set Carlson Dead.}
-{124}{}{Unset Carlson Dead.}
-{125}{}{Set Carlson Security Duty.}
-{126}{}{Unset Carlson Security Duty.}
-{127}{}{Set Carlson Cancel Snuff.}
-{128}{}{Unset Carlson Cancel Snuff.}
-{129}{}{Set Carlson Complete.}
-{130}{}{Unset Carlson Complete.}
-{131}{}{Set Carlson fail.}
-{132}{}{Unset Carlson Fail.}
+{100}{}{Vedi un personaggio che bara.}
+{101}{}{Questo tizio non dovrebbe essere qui.}
+{102}{}{Ehi, è un personaggio che bara.}
+{103}{}{Ehi, questo fa male.}
+{104}{}{Ciao, cosa vorresti che succedesse?}
+{105}{}{Impostazione dei flag di Westin.}
+{106}{}{Impostare “Accetta l’eliminazione di Westin”?}
+{107}{}{Annulla “Accetta l’eliminazione di Westin”.}
+{108}{}{Imposta Westin come morto.}
+{109}{}{Annulla “Westin morto”.}
+{110}{}{Imposta “Annulla l’eliminazione di Westin”.}
+{111}{}{Annulla “Annulla l’eliminazione di Westin”.}
+{112}{}{Imposta “Westin conosce le droghe”.}
+{113}{}{Annulla “Westin conosce le droghe”.}
+{114}{}{Imposta “Fallimento di Westin”.}
+{115}{}{Annulla “Fallimento di Westin”.}
+{116}{}{Imposta “Westin completato”.}
+{117}{}{Annulla “Westin completato”.}
+{118}{}{Imposta “Westin conosce lo snuff”.}
+{119}{}{Annulla “Westin conosce lo snuff”.}
+{120}{}{Impostazione dei flag di Carlson.}
+{121}{}{Imposta “Carlson accetta l’eliminazione”.}
+{122}{}{Annulla “Carlson accetta l’eliminazione”.}
+{123}{}{Imposta “Carlson morto”.}
+{124}{}{Annulla “Carlson morto”.}
+{125}{}{Imposta “Carlson in servizio di sicurezza”.}
+{126}{}{Annulla “Carlson in servizio di sicurezza”.}
+{127}{}{Imposta “Carlson annulla l’eliminazione”.}
+{128}{}{Annulla “Carlson annulla l’eliminazione”.}
+{129}{}{Imposta “Carlson completato”.}
+{130}{}{Annulla “Carlson completato”.}
+{131}{}{Imposta “Carlson fallito”.}
+{132}{}{Annulla “Carlson fallito”.}

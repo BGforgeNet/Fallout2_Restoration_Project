@@ -4,7 +4,7 @@
 {103}{}{A NCR non piacciono i codardi. Fuori di qui.}
 {104}{}{Sai bene come la penso sui tipi come te. Sparisci dalla mia vista.}
 {105}{}{Hee-yah! Portateli fuori.}
-{106}{}{Okay, let's go.}
+{106}{}{Okay, andiamo.}
 {107}{}{Io sono Stanwell. Guido la carovana tra Redding e la New California Republic. Brahmin in cambio d'oro. Ci farebbe comodo una guardia in piu' e siamo pronti per partire immediatamente. }
 {108}{}{La gente mi chiama Stanwell. Guido la carovana tra Redding e la New California Republic. Brahmin in cambio d'oro. Di solito ci fanno comodo un paio di braccia in piu'. Lasciamo la citta' l'11esimo giorno di ogni mese. Se vuoi unirti a noi, fa' in modo di trovarti qui per quella data.}
 {109}{}{Altro?}

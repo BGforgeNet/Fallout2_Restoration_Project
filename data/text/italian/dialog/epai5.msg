@@ -1,7 +1,7 @@
 {100}{}{Vedi una porta.}
 {101}{}{You see an electronic door.}
 {102}{}{You see an electronic door with an override, voice activated, lock.}
-{200}{}{Confirm code:}
+{200}{}{Conferma il codice:}
 {201}{}{XY104FD}
 {202}{}{BFN12}
 {203}{}{Open}

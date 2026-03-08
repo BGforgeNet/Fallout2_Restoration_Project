@@ -4,7 +4,7 @@
 {103}{}{Si'? Cosa vuoi, zucchero?}
 {104}{}{Non di nuovo! Avevo appena fatto lavare il vestito...}
 {105}{}{Allora... cosa sta facendo "Sua Importanza"?}
-{106}{}{They don't call him *Dick* Richardson for nuthin'.}
+{106}{}{Non lo chiamano Dick "Ricazzon" per niente...}
 {107}{}{Non so battere a macchina.}
 {108}{}{Dovreste bussare prima di entrare a quel modo.}
 {109}{}{Avrei bisogno di fare un po' di sciacqui.}

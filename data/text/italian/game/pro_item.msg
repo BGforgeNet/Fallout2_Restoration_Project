@@ -159,7 +159,7 @@
 {8000}{}{Manuale di Pronto Soccorso}
 {8001}{}{Un libro per studenti che descrive i concetti base e l'uso pratico delle abilita' di Pronto Soccorso.}
 {8100}{}{Spiedino}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Un iguana cucinato e grigliato nella sua stessa pelle.}
 {8200}{}{Chiave}
 {8201}{}{Una chiave. Una chiave aprira' una determinata serratura.}
 {8300}{}{Portachiavi}
@@ -191,7 +191,7 @@
 {9600}{}{Tessera magnetica Rossa}
 {9601}{}{Una chiave elettronica di sicurezza, codice colore: rosso.}
 {9700}{}{Tessera magnetica Blu}
-{9701}{}{An electronic security key, color coded blue.}
+{9701}{}{Una chiave elettronica di sicurezza, codice colore: blu.}
 {9800}{}{Rifiuti}
 {9801}{}{Un ammasso di cianfrusaglie. Di tutto un po'.}
 {9900}{}{Medaglione d'Oro}
@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Una splendida urna dorata, con il nome "Harriet" inciso sul davanti e con un pugno di cenere all'interno.}
 {11300}{}{Saio}
-{11301}{}{Worn-looking robes.}
+{11301}{}{Vesti consunte.}
 {11400}{}{Mano di Tangler}
 {11401}{}{Un manipolatore cybernetico, dall'aspetto e dalla forma di una mano. Danneggiata a causa della natura maldestra del processo di rimozione.}
 {11500}{}{Super Sledge}
@@ -377,19 +377,19 @@
 {18900}{}{Armadietto}
 {18901}{}{Un armadietto.}
 {19000}{}{Disco sul FEV}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Un olonastro contenente informazioni mediche. Puo' essere usato per immettere informazioni nel tuo PIPboy.}
 {19100}{}{Disco della Sicurezza}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Un olonastro con la scritta "Sicurezza - Rapporto" sull'etichetta. Puoi usarlo per trasferire i dati che contiene nel tuo PIPboy.}
 {19200}{}{Disco sull'Esperimento Alpha}
 {19201}{}{L'etichetta su questo olonastro dice: "Rapporto sull'Esperimento Alpha"}
 {19300}{}{Disco sull'Esperimento Delta}
 {19301}{}{L'etichetta su questo olonastro dice: "Rapporto sull'Esperimento Delta"}
 {19400}{}{Disco sull'Esperimento di Vree}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Questo olonastro e' stato aggiornato con testimonianze mediche da Vree della CdA. Puo' essere usato per trasferire i dati nel tuo PIPboy.}
 {19500}{}{Codice d'Onore della Confraternita}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
+{19501}{}{Un olodisco, con inciso un grezzo simbolo della Confraternita d'Acciaio. Usa il nastro per trasferire i dati nel tuo PIPboy.}
 {19600}{}{Trasmissioni dei Mutanti}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19601}{}{Questo olonastro sembra sia stato impostato per registrare dati audio da una ricetrasmittente. Usa il nastro per trasferire le informazioni nel tuo PIPboy.}
 {19700}{}{Scatola}
 {19800}{}{Scatola}
 {19900}{}{Scatola}
@@ -419,7 +419,7 @@
 {21400}{}{Scrivania}
 {21401}{}{Una scrivania. Dopo un ulteriore esame, decidi che e' ancora una scrivania.}
 {21500}{}{Storia della Confraternita}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
+{21501}{}{Un olonastro contenente informazioni riguardanti la Confraternita d'Acciaio. Puo' essere usato per immettere informazioni nel tuo PIPboy 2000.}
 {21600}{}{Storia di Maxon}
 {21700}{}{Diario di Maxon}
 {21800}{}{Cura Leggera}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Il Jet e' una potente metanfetamina che stimola il sistema nervoso centrale. L'iniziale scarica euforica raramente dura piu' di qualche minuto, ma, durante questo periodo, chi l'assume e' pieno di energie.}
 {26000}{}{Antidoto al Jet}
-{26001}{}{This antidote cures the Jet addiction.}
+{26001}{}{Questo antidoto cura gli effetti della dipendenza da Jet.}
 {26100}{}{Fucile ad Aria Compressa di Jonny}
 {26101}{}{Un fucile ad aria compressa Red Ryder con il nome 'Jonny' inciso sul calcio. Min FZ: 3.}
 {26200}{}{Stivali di Gomma}
@@ -920,7 +920,7 @@
 {47100}{}{"Il Fiore di Lavanda"}
 {47101}{}{Sembra essere una specie di romanzo, scritto da Dorothy Rixon. La copertina rappresenta una donna stesa su un letto circondata da centinaia di fiori.}
 {47200}{}{Olodisco sugli Hubologisti}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
+{47201}{}{L'olodisco e' etichettato "Hubologia: La Verita' dietro la Bugia". Sembra compatibile con il tuo PIPBoy.}
 {47300}{}{Dito Mutante}
 {47301}{}{Vedi il tuo sesto dito. E' una piccola parte mutante di te. Per qualche ragione, senti un terribile senso di vuoto mentre guardi il tuo piccolo dito amputato.}
 {47400}{}{Margherite}
@@ -934,7 +934,7 @@
 {47800}{}{Olodisco sulla Missione Sierra}
 {47801}{}{L'etichetta dice: "Stato della Missione".}
 {47900}{}{Componenti NavCom}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
+{47901}{}{Questi sono parti di computer da installare all'interno di qualche macchinario. Il fatto che dicano "Poseidon Oil" e "Computer di Navigazione" ti induce a pensare che vadano installati in un Computer di Navigazione della Poseidon Oil.}
 {48000}{}{Bonus: +1 Agilita'}
 {48100}{}{Bonus: +1 Intelligenza}
 {48200}{}{Bonus: +1 Forza}
@@ -1045,7 +1045,7 @@
 {54001}{}{The operations manual to the KV-75; a portable, tactical cryptographic device. Also used by non-tactical users for high-level communications in the local wideband telephone networks and wideband satellite terminals.}
 {54100}{}{Chinese Army: Special Ops Manual}
 {54101}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
-{54200}{}{Bottle of wine}
+{54200}{}{Bottiglie di Birra...}
 {54201}{}{A fresh bottle of Abbey's finest wine.}
 {54300}{}{Diario}
 {54301}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna" Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket. It is the most beautiful thing I have ever owned. I will never part with it."}
@@ -1069,14 +1069,14 @@
 {55201}{}{Several cans of dog food.}
 {55300}{}{Bug Spray}
 {55301}{}{A spray can full of a substance that kills all known bugs.}
-{55400}{}{Environmental Armor}
+{55400}{}{Armatura ambientale}
 {55401}{}{Armor best worn against biological attacks.}
 {55500}{}{EPA Pamphlet}
 {55501}{}{A leaflet given out at the beginning of tours.}
 {55600}{}{Drugs}
 {55601}{}{Some sort of drugs preserved from before the war.}
 {55700}{}{Security Rooms Key Card}
-{55701}{}{A key card to unlock the security rooms.}
+{55701}{}{Un tesserino per sbloccare le stanze di sicurezza.}
 {55800}{}{Test tube rack}
 {55801}{}{A rack for holding chemical test tubes.}
 {55900}{}{Keys}

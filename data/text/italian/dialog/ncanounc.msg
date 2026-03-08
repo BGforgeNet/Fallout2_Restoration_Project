@@ -12,7 +12,7 @@
 {124}{}{Quando alla vostra pelle manca quell'"alone speciale"...}
 {125}{}{Scegliete la Birra Gamma Gulp!}
 {143}{}{...il Cat's Paw!}
-{144}{}{When you got that itch that you NEED to scratch...}
+{144}{}{Quando avete dei pruriti che DOVETE farvi passare...}
 {145}{}{Andate al Cat's Paw!}
 {163}{}{...New Reno Arms!}
 {164}{}{Quando avete bisogno di uccidere qualcuno da una distanza di sicurezza...}

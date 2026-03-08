@@ -15,7 +15,7 @@
 {223}{}{Tu. Vieni qui. Subito.}
 {224}{}{Yum.}
 {225}{}{Hmmmm.}
-{226}{}{Well, well...}
+{226}{}{Bene, bene...}
 {230}{}{Che NOIA. }
 {231}{}{Sembra proprio una delle nuove puttane di papa'...}
 {232}{}{Ecco una delle sgualdrine da quattro soldi di papa'...}
@@ -179,7 +179,7 @@
 {680}{}{Vedi Angela Bishop, addormentata. Sta russando sommessamente, ha i capelli in disordine e un largo sorriso sul viso.}
 {690}{}{Vedi una giovane donna che indossa un completo di pelle attillato. Sta gridando a squarciagola.}
 {700}{}{Zzxxssnnn...oh, }
-{701}{}{Zzzzz...}
+{701}{}{Zzzzzzz...}
 {800}{}{Uno stupratore! Aiuto!}
 {801}{}{Aiuto, mi e' saltato addosso! Aiuto!}
 {802}{}{Mi vogliono stuprare! Aiuto!}

@@ -29,8 +29,7 @@
 {150}{}{Non mi fanno ne' caldo ne' freddo.}
 {151}{}{Mi piacciono!}
 {152}{}{In questo caso, ti raccontero' la vera storia di Broken Hills. }
-{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
- and forced everyone under his rule. }
+{153}{}{Un umano di nome Jacob – sono stato chiamato cosi' in suo onore – fondo' questa citta'. Qualche tempo dopo comparve questo Marcus, il mutante, che ci impose la sua legge. }
 {154}{}{Basta cosi'. Tu sei pazzo. Addio.}
 {155}{}{Continua.}
 {156}{}{Forse, se ti raccontassi la vera storia, cambieresti idea.}
@@ -69,7 +68,7 @@
 {189}{}{Nessun problema. Tanto sono tutti mutanti. Ma non fare troppo rumore, per l'amor del cielo.}
 {190}{}{Ho capito. Ho delle altre domande.}
 {191}{}{Ho capito. Ci si vede.}
-{192}{}{More questions?}
+{192}{}{Altre domande? }
 {193}{}{Ho qui dell'uranio che vorrei far raffinare, ma non vorrei pagare la tariffa della raffineria.}
 {194}{}{Cosa puo' dirmi a proposito di Broken Hills?}
 {195}{}{Vorrei che tu miscelassi per me delle sostanze chimiche.}

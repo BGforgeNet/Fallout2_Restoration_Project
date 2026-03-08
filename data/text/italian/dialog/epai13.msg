@@ -84,7 +84,7 @@
  for service and in fact, he is likely more capable than before as a result of the treatment. Until more funding is
  received for this project, Sgt. Jules shall remain in suspended animation.
  -Dr. R.D. Crichton, 11/04/2075}
-{300}{}{Choose a subject:}
+{300}{}{Scegli un argomento:}
 {301}{}{Sergeant Christopher "Cat" Jules}
 {302}{}{Dexter "Dex" Patrick}
 {303}{}{Kitsune}

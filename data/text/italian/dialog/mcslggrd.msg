@@ -24,6 +24,6 @@
 {242}{}{[Uccidili tutti e lascia che qualsivoglia dio essi venerino si occupi di loro.]}
 {250}{}{Mi dispiace; non puoi andartene da questa parte.}
 {251}{}{Questa e' l'entrata dei lavoratori.}
-{252}{}{It takes too much effort to set up the ramps for just one person.}
+{252}{}{Sarebbe uno sforzo eccessivo montare le rampe per una sola persona.}
 {253}{}{Se vuoi andartene, chiedi a Vegeir.}
 {260}{}{Ogey Dogey.}

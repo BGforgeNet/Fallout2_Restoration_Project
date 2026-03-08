@@ -27,4 +27,4 @@
 {360}{}{Fammi uscire da qui.}
 {400}{}{Oh, why me!}
 {401}{}{*cough*}
-{402}{}{*scratches self*}
+{402}{}{*Si gratta*}

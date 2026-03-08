@@ -54,7 +54,7 @@
 {450}{}{Uomini -}
 {451}{}{Donne -}
 {452}{}{Bambini -}
-{453}{}{Super mutants}
+{453}{}{Super mutanti}
 {454}{}{Ghoul -}
 {455}{}{un Brahmin}
 {456}{}{Radscorpioni -}
@@ -64,7 +64,7 @@
 {460}{}{Robot -}
 {461}{}{Cani -}
 {462}{}{Mantidi -}
-{463}{}{Deathclaws}
+{463}{}{Deathclaw}
 {464}{}{Pianta}
 {465}{}{Questa riga mostra il numero di maschi umani che hai ucciso durante le tue avventure.}
 {466}{}{Questa riga mostra il numero di femmine umane che hai ucciso durante le tue avventure.}
@@ -192,7 +192,7 @@
 {1460}{}{Robot -}
 {1461}{}{Cani -}
 {1462}{}{Mantidi -}
-{1463}{}{Deathclaws}
+{1463}{}{Deathclaw}
 {1464}{}{Piante -}
 {1465}{}{Gecki -}
 {1466}{}{Alieni -}

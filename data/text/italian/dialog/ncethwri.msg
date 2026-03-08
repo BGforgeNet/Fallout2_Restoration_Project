@@ -204,6 +204,6 @@
 {1251}{}{. Avrei delle domande da farle riguardo a New Reno...}
 {1415}{}{(Sobbalza.) Oh, cielo! (Ti guarda di traverso, poi arriccia le labbra con disprezzo.) Beh, per Diana! }
 {1430}{}{(Sobbalza.) Oh, cielo! }
-{1431}{}{(Squints at you, then her gaze becomes glacial.) }
+{1431}{}{(Ti squadra, poi il suo sguardo diventa glaciale.)}
 {1480}{}{La distruggerai tu? Io... beh, d'accordo... (Il fumo dell'ira gli esce dalle orecchie.) }
 {1530}{}{. Faro' in modo che la famiglia Wright righi dritto, d'ora in poi.}

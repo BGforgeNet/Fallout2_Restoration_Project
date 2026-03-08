@@ -29,11 +29,11 @@
 {402}{}{Colpisci da lontano}
 {403}{}{Da solo}
 {404}{}{Stai dove sei}
-{500}{}{Whoever is attacking me}
+{500}{}{Chiunque mi stia attaccando}
 {501}{}{Il piu' forte}
 {502}{}{Il piu' debole}
 {503}{}{Chi vuoi}
-{504}{}{Whoever is closest}
+{504}{}{Il piu' vicino}
 {600}{}{Sono contrario all'uso di droghe}
 {601}{}{Stimpak se ferito leggermente}
 {602}{}{Stimpak se ferito gravemente}

@@ -60,7 +60,7 @@
 {372}{}{That's it? I went and got those damn seeds for you and this is what I get for my trouble? Yet another seed? Fuck you and your creepy plant zombies. I think I'll do the world a favor and put an end to this morbid operation of yours.}
 {380}{}{The Shi have been attempting to create plant life that is resistant to radiation. I was the head of that project, but during my research I made a discovery that led me down a different path. I created a plant sentience serum, but after a few ... unfortunate incidences, the Shi wanted to shut the project down. So I left to continue my work unimpeded.}
 {381}{}{Okay. So how does this plant sample figure into this?}
-{382}{}{Go on...}
+{382}{}{Continua...}
 {390}{}{Ironically, just as my focus was shifting to my new sentient plant creations, I happened to make a major breakthrough in radiation-resistant plant research. I kept this breakthrough a secret, as I did not want to draw attention away from my more significant discovery. When the others failed to see the importance of my sentient plants, I decided to keep my secret out of spite. That is, until now. With the plant sample I have given you, even a narrow-minded fool like Dr. Wong could achieve the goal of radiation-resistant plant life.}
 {391}{}{So why the change of heart?}
 {392}{}{Okay. I'll deliver it to Dr. Wong.}

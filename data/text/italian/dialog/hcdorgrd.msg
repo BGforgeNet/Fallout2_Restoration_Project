@@ -1,4 +1,4 @@
-{100}{}{You see a Hubologist guard.}
+{100}{}{Vedi una guardia hubologista.}
 {101}{}{He is built like a rock and is well armed.}
 {200}{}{Halt! This is private property of the Church of Hubology. What is your business here?}
 {201}{}{I've come to loot this place. I hear there's plenty of wealth for the taking.}

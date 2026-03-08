@@ -48,8 +48,7 @@
 {147}{}{Dal momento che molti Esterni non sanno leggere, ne' fare calcoli trigonometrici, ne' scrivere correttamente "Australopiteco", puoi immaginare da solo il motivo. E' solo un pretesto per impedire agli Esterni di diventare Cittadini.}
 {148}{}{Cos'altro potrei fare per superare la dogana, oltre a diventare un Cittadino?}
 {149}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
-{150}{}{Hide the goods on your slaves... your "Servants." You see, Vault City mentality is this:
-They don't seem to catch on that anyone would let Servants carry anything important... or questionable. Go figure.}
+{150}{}{Nascondi la merce ai tuoi schiavi… ai tuoi “Servitori”. Vedi, la mentalità di Vault City e' questa: non gli passa nemmeno per la testa che qualcuno lasci ai Servitori qualcosa di importante… o discutibile. Vai a capire.}
 {151}{}{Ci sono altre possibilita'?}
 {152}{}{D'accordo, allora. Grazie.}
 {153}{}{Beh, PUOI diventare un Cittadino... non ufficialmente.}

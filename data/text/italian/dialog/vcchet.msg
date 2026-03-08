@@ -1,27 +1,27 @@
-{100}{}{You see the Illicit Allocations Chief, Chet.}
-{101}{}{You see a shifty-looking man wearing a Vault 13 jumpsuit.}
-{102}{}{You see the Illicit Allocations Chief, Chet.}
-{103}{}{You see a shifty-looking man wearing a Vault 13 jumpsuit.}
-{104}{}{Hey, there. I'm the Illicit Allocations Chief... but you can call me Chet. You need something?}
-{105}{}{Need anything else?}
-{106}{}{Set the endgame flag, Chet. I'm all done.}
-{107}{}{Make me Captain of the Guard. Now.}
-{108}{}{Make me a real citizen, if you please.}
-{109}{}{Make me a fake citizen and give me the papers.}
-{110}{}{Make me a kicked out citizen.}
-{111}{}{Change my reputation.}
-{112}{}{(Doesn't work) I need a character in my party.}
-{113}{}{Nope, nothing.}
-{114}{}{To what?}
-{115}{}{Make me a slaver.}
-{116}{}{Make me a childkiller.}
-{117}{}{Nothing... just lower my karma by a 100.}
+{100}{}{Vedi il Capo delle Assegnazioni Illecite, Chet.}
+{101}{}{Vedi un uomo dall’aria losca che indossa una tuta del Vault 13.}
+{102}{}{Vedi il Capo delle Assegnazioni Illecite, Chet.}
+{103}{}{Vedi un uomo dall’aria losca che indossa una tuta del Vault 13.}
+{104}{}{Ehi. Sono il Capo delle Assegnazioni Illecite… ma puoi chiamarmi Chet. Ti serve qualcosa?}
+{105}{}{Ti serve altro?}
+{106}{}{Imposta il flag di fine partita, Chet. Ho finito.}
+{107}{}{Fammi Capitano della Guardia. Subito.}
+{108}{}{Rendimi un vero cittadino, per favore.}
+{109}{}{Fammi diventare un cittadino fasullo e dammi i documenti.}
+{110}{}{Fammi diventare un cittadino espulso.}
+{111}{}{Cambia la mia reputazione.}
+{112}{}{(Non funziona) Mi serve un personaggio nel gruppo.}
+{113}{}{No, niente.}
+{114}{}{A cosa?}
+{115}{}{Fammi diventare uno schiavista.}
+{116}{}{Fammi diventare un assassino di bambini.}
+{117}{}{Niente… abbassami il karma di 100.}
 {118}{}{Non importa. Vorrei qualcos'altro...}
-{119}{}{Nope, nothing.}
+{119}{}{No, niente.}
 {120}{}{Chi e'?}
 {121}{}{Marcus.}
 {122}{}{Lenny.}
 {123}{}{Vic.}
 {124}{}{Myron.}
-{125}{}{Nobody. I have more needs.}
+{125}{}{Nessuno. Ho altre esigenze.}
 {126}{}{Lasciamo perdere. Ci vediamo.}

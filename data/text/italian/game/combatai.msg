@@ -750,7 +750,7 @@
 {2057}{}{Oh, si', sono cattivo, sono cattivo.}
 {2058}{}{Ti faro' fuori!}
 {2059}{}{Io sono... ehm... un duro. Faresti bene a stare attento.}
-{2060}{}{I'm wilier than I look.}
+{2060}{}{Sono più furbo di quanto sembri.}
 {2061}{}{Mi hai mancato!}
 {2062}{}{Wow, poteva farmi male!}
 {2063}{}{Whew! Sono ancora vivo!}
@@ -791,7 +791,7 @@
 {2118}{}{Qual e' il tuo problema?}
 {2119}{}{Aiutooooo! C'e' un pazzo in liberta'!}
 {2120}{}{Aspetta solo che ti prenda...}
-{2121}{}{That's it, I've had enough of your type.}
+{2121}{}{Basta, ne ho abbastanza di gente come te.}
 {2122}{}{Ehi tu!}
 {2123}{}{Non sei benvenuto qui}
 {2124}{}{Nessuno prendera' possesso di questa zona...}
@@ -2403,7 +2403,7 @@
 {36828}{}{Pensavi che non avresti pagato per i tuoi crimini contro gli innocenti?}
 {36829}{}{La feccia come te merita di morire.}
 {36830}{}{Preparati a morire!}
-{36831}{}{Ti spediro' dritto dritto all'Inferno!}
+{36831}{}{Ti spediro' dritto, dritto all'Inferno!}
 {36832}{}{C'e' una bella taglia sulla tua testa.}
 {36833}{}{Non prendertela troppo, ma ti ammazzero' proprio ora.}
 {36834}{}{Un altro giorno e un altro assassino.}

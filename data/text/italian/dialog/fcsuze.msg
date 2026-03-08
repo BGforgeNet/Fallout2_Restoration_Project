@@ -33,5 +33,5 @@
 {132}{}{Da dove vieni?}
 {133}{}{Come hai conosciuto Badger?}
 {134}{}{Non ne ho nessuna al momento. Ciao.}
-{135}{}{Oh my god... Badger is dead... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
+{135}{}{O mio dio... Badger e' morto ... non so cosa faro'...non ho amici qui...tutta la mia famiglia e' morta... oh, mio dio...}
 {136}{}{Grazie dell'aiuto. Andro' a cercare Badger.}

@@ -31,7 +31,7 @@
 {130}{}{Dal momento che sei un attaccabrighe, mi vedo costretto a ridurti in poltiglia.}
 {131}{}{Coglione.}
 {132}{}{Non puoi fare una cosa del genere e farla franca.}
-{133}{}{Time to take you outta' da' gene-pool.}
+{133}{}{E' giunta l'ora di eliminare il tuo codice genetico dalla faccia della terra.}
 {134}{}{Avresti dovuto comportarti meglio.}
 {135}{}{Mi dispiace che sia finita cosi'.}
 {136}{}{Sfigato.}
@@ -42,7 +42,7 @@
 {141}{}{Adesso saro' costretto a farti male per davvero.}
 {142}{}{Questo fara' molto male… a te.}
 {143}{}{Faresti meglio a metter via quel "ferro", amico.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
+{144}{}{Non vogliamo guai qui dentro, amico. Mettila via.}
 {145}{}{Meglio se metti via quel cannone.}
 {146}{}{Tienila nella fondina, ragazzo.}
 {147}{}{Metti via quell'arma.}

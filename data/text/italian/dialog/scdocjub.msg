@@ -102,7 +102,7 @@
 {242}{}{miss, }
 {243}{}{I wish I could help you, but I'm not taking on any new patients right now. Council's got me on retainer. Can't sell you no pills, neither-- Councilman Westin's people are supposed to pick those ones up in }
 {244}{}{ days, }
-{245}{}{ day, }
+{245}{}{ giorno, }
 {246}{}{and just ain't no way I'm going to have time to mix up another batch before then.}
 {247}{}{I understand, doc. Maybe I'll find a decent pharmacist somewhere else. If it's not too much to ask, though, is there any advice you could give me on the subject? You don't find medicine like that too often.}
 {248}{}{Those are the breaks, I guess. Anyway, I should be alright. I've picked up *tons* about cardamomagy from old comic books. Cut the hard chems back to twice a day, TOPS, make sure to get your exercise in short, strenuous bursts so your heart doesn't have time to act up, all kinds of good stuff.}
@@ -115,7 +115,7 @@
 {265}{}{Uh, actually, I think I'd better check with my accountant before I do anything rash. See you later, doc.}
 {270}{}{No can do, I'm afraid. Those are for Councilman Westin. His people are due by to pick them up in }
 {271}{}{ days, }
-{272}{}{ day, }
+{272}{}{ giorno, }
 {273}{}{and I'm not going to have the time to mix up another batch before then. I'm sure you can find a pharmacist with a lighter workload.}
 {274}{}{I see. Well, thanks anyway.}
 {280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
@@ -135,7 +135,7 @@
 {296}{}{Sorry for the trouble. I think I'd better just go before I dig myself a bigger hole.}
 {300}{}{(Doc Jubilee begins to turn red.) I don't think you heard me the first time,}
 {301}{}{ boy, }
-{302}{}{ woman, }
+{302}{}{ donna, }
 {303}{}{so listen close: I am a doctor of the NCR. It's a solemn duty, and it came with a solemn oath. You ask me one more time to piss on that oath, the ONLY part of it that's going out the window is "first, do no harm." You got me?}
 {304}{}{Alright, screw it. If you're as great as you seem to think you are, maybe you'll be able to sew yourself back together after this.}
 {305}{}{Whoa, now. Didn't mean to step on any toes, doc. I'll just leave you be for awhile.}
@@ -143,7 +143,7 @@
 {311}{}{Are you sure you can't reconsider selling me some of those pills?}
 {320}{}{Sorry, Councilman Westin's people are due by to pick those up in }
 {321}{}{ days, }
-{322}{}{ day, }
+{322}{}{ giorno, }
 {323}{}{and I'm just too busy to mix up another batch in time.}
 {324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
  Oh, sorry. What can I do for you today?}

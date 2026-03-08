@@ -20,7 +20,7 @@
 {300}{}{What do you *hickup* wanna know?}
 {301}{}{Are you the gravekeeper?}
 {302}{}{Cosa puoi dirmi a proposito dell'Abazia?}
-{303}{}{Anything I can help you with?}
+{303}{}{Posso aiutarti in qualcosa?}
 {400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
  not as bad as one might think. It's got its... perks, if you know what I mean. [He grins sloppily and wiggles his bushy
  eyebrows at you.]}

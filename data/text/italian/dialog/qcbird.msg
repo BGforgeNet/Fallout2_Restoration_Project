@@ -60,7 +60,7 @@
 {159}{}{Io non faccio parte del problema. Io sono un Repubblicano.}
 {160}{}{Come ho gia' detto, una parte del problema.}
 {161}{}{Ah, capisco. Beh, come forse saprai, e' da molto che ritengo sia giunto il momento per la razza umana di entrare nel sistema solare.}
-{162}{}{Aren't we already in the... Uh, to go *where*?}
+{162}{}{Gia', siamo tutti pronti per... Uh, per andare *dove*?}
 {163}{}{E come dovremmo fare?}
 {164}{}{Credo che Marte sarebbe un buon posto, dal momento che Marte ha essenzialmente la stessa orbita... Marte ha piu' o meno la stessa distanza dal Sole, il che e' molto importante. Abbiamo alcune immagini nelle quali si vedono dei canali e, crediamo, dell'acqua. Se c'e' acqua, cio' vuol dire che c'e' anche ossigeno. Se c'e' ossigeno, significa che possiamo respirare.}
 {165}{}{Non mi aspettavo una risposta cosi', uh, *completa*.}

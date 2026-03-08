@@ -21,7 +21,7 @@
 {120}{}{Al che io gli faccio, "Senti," gli faccio...}
 {121}{}{Prova l'arrosto di ratto-talpa. E' il migliore della zona.}
 {122}{}{Ciao. Di che segno sei?}
-{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
+{123}{}{Se stai cercando un lavoro, straniero, vai dagli Allevatori.}
 {124}{}{Merda! L'hai visto?}
 {125}{}{Oh cavoli, credo che mi sentiro' male.}
 {126}{}{Basta cosi' per me.}

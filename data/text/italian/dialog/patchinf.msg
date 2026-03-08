@@ -1,2 +1,2 @@
-{100}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}
-{101}{}{You are running RPU v2.x.x, based on killap's F2 Restoration Project. Thanks for installing!}
+{100}{}{Stai utilizzando RPU v2.x.x, basato sul progetto F2 Restoration di killap. Grazie per averla installata!}
+{101}{}{Stai utilizzando RPU v2.x.x, basato sul progetto F2 Restoration di killap. Grazie per averla installata!}

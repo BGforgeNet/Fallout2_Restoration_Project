@@ -88,7 +88,7 @@
 {187}{}{Vattene all'inferno! Va' all'inferno e muori!}
 {188}{}{Ti odio.}
 {189}{}{Mi fai schifo.}
-{190}{}{Pecora pecora pecora!}
+{190}{}{Pecora, pecora, pecora!}
 {191}{}{Pazzo fanatico!}
 {192}{}{Immagino che alcune persone nascano stupide.}
 {193}{}{Ehi! E' l'idiota che non sa pensare con la sua testa!}

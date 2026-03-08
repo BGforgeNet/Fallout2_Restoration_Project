@@ -36,7 +36,7 @@
 {140}{}{Adesso devo proprio andare. E' stato bello parlare con te.}
 {141}{}{Forse ci incontreremo ancora.}
 {142}{}{Vorrei arrivare alla prossima citta' prima che cali la notte. Farei meglio ad andare.}
-{143}{}{I'd better be going.}
+{143}{}{Sara' meglio che vada.}
 {144}{}{Imboscata!}
 {145}{}{Non ci si puo' fidare di nessuno, di questi tempi.}
 {146}{}{Hai infranto il codice del viaggiatore.}
@@ -47,7 +47,7 @@
 {1107}{}{New Reno.}
 {1108}{}{Vault City.}
 {1109}{}{Redding.}
-{1110}{}{The Den.}
+{1110}{}{Il Den.}
 {1111}{}{San Francisco.}
 {1112}{}{New California Republic.}
 {1113}{}{Una miniera abbandonata.}

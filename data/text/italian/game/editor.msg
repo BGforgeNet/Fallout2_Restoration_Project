@@ -14,7 +14,7 @@
 {113}{}{Livello:}
 {114}{}{Esp:}
 {115}{}{Pros. Liv:}
-{116}{}{CHAR POINTS}
+{116}{}{PUNTI CARISMA}
 {117}{}{ABILITA'}
 {118}{}{Devi usare tutti i punti personaggio}
 {119}{}{comprese tra 1 e 10 prima di cominciare!}
@@ -140,14 +140,14 @@
 {630}{}{      Resistenza:}
 {631}{}{     Punti Azione:}
 {632}{}{      % Col. Critici:}
-{633}{}{       Charisma:}
+{633}{}{       Carisma:}
 {634}{}{      Danno Mischia:}
 {635}{}{         Peso portato:}
 {636}{}{   Intelligenza:}
 {637}{}{       Res al Danno:}
 {638}{}{        Agilita':}
 {639}{}{    Res. a Radiaz.:}
-{640}{}{           Luck:}
+{640}{}{           Fortuna:}
 {641}{}{       Res. al Veleno:}
 {642}{}{  Nome:}
 {643}{}{Eta':}

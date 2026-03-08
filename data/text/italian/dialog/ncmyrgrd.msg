@@ -94,7 +94,7 @@
 {475}{}{Myron ti sta aspettando?}
 {477}{}{Si'. Posso entrare? Ho degli affari da discutere con lui.}
 {478}{}{No, non adesso. Statemi bene, ragazzi.}
-{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
+{479}{}{Si'. Posso entrare? Ho degli "affari" da discutere con lui. Se capisci cosa voglio dire (Strizzi l'occhio alla guardia)}
 {480}{}{Eh, ne sono convinto. Cerca di non fare troppo casino mentre sei qui. (Tra se' e se': Dannazione, Myron e' un uomo cosi' fortunato.)}
 {485}{}{Myron non c'e'.}
 {487}{}{Posso entrare lo stesso?}
@@ -102,7 +102,7 @@
 {5225}{}{! Come butta?}
 {5230}{}{! Facciamolo secco!}
 {5236}{}{ che non sa di essere ad un passo dalla morte.}
-{5240}{}{ kennel, puta?}
+{5240}{}{ canile, puta?}
 {5241}{}{ che non sa di essere ad un passo dalla morte.}
 {5476}{}{! Myron e' proprio dietro a quella porta. Ti aspetta?}
 {5486}{}{, come butta? Oh, ehi...Myron non c'e'.}

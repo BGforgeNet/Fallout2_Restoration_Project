@@ -11,7 +11,7 @@
 {212}{}{Sono }
 {213}{}{. But, what's your name?}
 {214}{}{Don't you get cocky with me. What's with this place anyway?}
-{215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
+{215}{}{Capisco. Bene, Serg. Jules, cosa sta succedendo qui comunque?}
 {216}{}{How come you're alive? The Doctor said he was the only survivor.}
 {220}{}{The name's Sgt. Jules, but you can call me Cat. I'm the fastest and best-looking soldier on this base.}
 {221}{}{Right, whatever you say. So, what's with this place?}

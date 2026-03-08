@@ -5,7 +5,7 @@
 {104}{}{Io sono il guardiano delle auto, fratello. Tengo d'occhio le macchine - 5$. Nessuno le tocca, perche' Doofus e' in servizio. }
 {105}{}{Certo, fratello.}
 {106}{}{Allora, fratello, la vuoi la mia protezione?}
-{107}{}{Good. Do.}
+{107}{}{Bene. Fa'.}
 {108}{}{No. Tu no toccare.}
 {109}{}{Fratello? Io non sono un uomo!}
 {110}{}{Che posto e' questo?}
@@ -48,7 +48,7 @@
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
+{150}{}{Giusto - obbedire al gigante, fratello. E' cosi' che le cose devono andare. Cosa devo fare, gigante?}
 {151}{}{Cavoli, e' un sacco di roba. Gigante, mi chiamo Doofus e sono il guardiano delle auto e dovrei fare la guardia alle macchine che la gente porta qui, ma, sai, ho questo... problema, vedi, e talvolta mi serve qualche soldo extra, capisci? }
 {152}{}{Si', esatto. Percio' se a volte sono un po' a corto e ho i miei bisogni, sai, tipo quando comincio a sentirmi male, allora devo recuperare qualche spicciolo, e allora vado a parlare con Merk. }
 {153}{}{Fratello, Merk e' un grande. Ha le mani in pasta un po' dappertutto. A volte mi lascia dormire nel Rawhide, dopo la chiusura. Ma poi vuole che gli faccia dei piccoli favori. }
@@ -66,8 +66,8 @@
 {165}{}{Esatto, fratello. Va' da Merk. Lui ha sempre bisogno di qualcuno che gli faccia qualcosa.}
 {166}{}{Va ciao ciao!}
 {167}{}{Oh cavoli, l'hai fatta grossa! Merk non sara' contento quando lo verra' a sapere.}
-{168}{}{Goodbye, dope-head.}
-{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
+{168}{}{Addio, drogato.}
+{169}{}{Okay! Ascolta, e' stata la banda di Merk. La scorsa notte erano in giro a rubare macchine. Prova a chiedere in giro e forse li troverai.}
 {170}{}{Tu mentire, me uccidere.}
 {171}{}{Non contarmi frottole. Se l'hai fatto, tornero'.}
 {172}{}{Certo. Mi hai terrorizzato.}

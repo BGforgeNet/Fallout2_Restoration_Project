@@ -26,7 +26,7 @@
 {173}{}{So di potercela fare; mi servono solo alcuni pezzi di ricambio. C'e' una vecchia ricetrasmittente nella mia baracca, a Klamath, che e' proprio quello che mi serve. Hai presente la casa dei Dunton? La mia baracca... ecco, e' proprio a est della loro abitazione.}
 {174}{}{Stai parlando di questa ricetrasmittente?}
 {175}{}{Andro' a cercarla.}
-{176}{}{Hmmm... I'll be back.}
+{176}{}{Hmmm... Tornero'.}
 {177}{}{Splendido! Riparero' questa ricetrasmittente in un batter d'occhio.}
 {178}{}{Okay, parlero' con Metzger.}
 {179}{}{Grazie.}
@@ -98,7 +98,7 @@
 {834}{}{Credo che siate un po' in troppi, Boss. Ti aspettero' qui finche' non avrai fatto quel che devi. I piatti di Mama mi ricordano la mia ex-moglie... non so se questa sia una buona o una cattiva cosa...}
 {835}{}{Mi piacerebbe, davvero, Boss. E' solo che non mi pare tu abbia molto spazio per me. Me ne andro' da Mama. E' da un po' che non ci vado. Vieni a prendermi se trovi un po' di posto per me.}
 {840}{}{Ed vive giu' a Vault City. E' un venditore di Brahmin. E' solo uno dei miei molti fornitori. Vault City non e' molto distante da qui.}
-{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
+{845}{}{Te l'ho detto, e' qui. [Vic indica un punto sul tuo PIPBoy2000.]}
 {900}{}{Hai scoperto degli elementi sul passato da mercante di Vic.}
 {1000}{}{Devo chiederti una cosa.}
 {1100}{}{Completamente a posto, Boss. Qualcos'altro?}

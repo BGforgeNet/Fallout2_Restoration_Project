@@ -15,7 +15,7 @@
 {162}{}{Hai rubato un medaglione da quella casa stregata?}
 {163}{}{Nulla. Non importa.}
 {164}{}{Come non detto. Prima ti uccidero' e vedro' poi di scoprire quel che voglio.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{I-Io non so di cosa tu stia parlando.}
 {166}{}{Oh, credo proprio di si', invece! Tu hai rubato il medaglione di una ragazza morta e adesso il suo spirito non ha pace.}
 {167}{}{Allora lo prendero' con la forza.}
 {168}{}{Q-queste sono f-fottute s-stronzate! L-la roba di T-tubby d-deve proprio a-averti fatto m-male. I-io non ho v-visto f-fantasmi q-quando sono entrato l-la' d-dentro... E-ero s-solo sballato, n-non era r-reale.}

@@ -586,7 +586,7 @@ and fifty years.}
 {4230}{}{There's too many cops here. I say we bail.}
 {4240}{}{Great, more freaks. We better not stay here longer than we have to.}
 {4250}{}{We're wasting our time here. Zombie chicks aren't my thing. I generally don't like gals to look dead until AFTER I'm through with 'em.}
-{4260}{}{Why the hell are we even wasting our time here? Seriously?}
+{4260}{}{Perche' diavolo stiamo perdendo il nostro tempo qui? Sul serio?}
 {4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
 {5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
 {5001}{}{[FINE]}

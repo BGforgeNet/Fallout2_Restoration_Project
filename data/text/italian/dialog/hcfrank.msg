@@ -9,7 +9,7 @@
 {108}{}{Cosa puoi dirmi di questo posto?}
 {109}{}{Cosa puoi dirmi riguardo a Marcus?}
 {110}{}{Non ho idea di cosa tu stia dicendo, scherzo della natura. Sparisci dalla mia vista.}
-{111}{}{Oooooh...}
+{111}{}{Oooooh}
 {112}{}{Io sono Franc. Ti chiederei chi sei, ma non me ne frega nulla.}
 {113}{}{Oh, un duro, eh?}
 {114}{}{Siamo pari, allora. A me non interessa chi sei tu.}

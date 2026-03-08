@@ -153,10 +153,8 @@
 {532}{}{Grazie mille.}
 {533}{}{Grassie!}
 {534}{}{Ug! Signora gentile.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Sei un uomo meraviglioso. Sebbene non possa giustificare le tue azioni, hai reso un grande servizio al mondo.}
+{541}{}{Sei una donna splendida. Sebbene non possa giustificare le tue azioni, hai reso un grande servizio al mondo.}
 {542}{}{Grazie.}
 {550}{}{Non sei il benvenuto qui. Sei pregato di andartene.}
 {551}{}{Sei pregato di andartene.}

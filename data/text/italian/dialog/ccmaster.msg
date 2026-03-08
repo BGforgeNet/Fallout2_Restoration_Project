@@ -15,11 +15,11 @@
 {114}{}{No.}
 {115}{}{Chi sei tu? Che cosa ci fai qui?}
 {116}{}{Cosa?}
-{117}{}{Uh... I'm new here?}
+{117}{}{Uh... sono nuovo qui?}
 {118}{}{Peek-a-boo!}
 {119}{}{Chi sei tu? Che cosa ci fai qui?}
 {120}{}{Cosa?}
-{121}{}{Uh... I'm new here?}
+{121}{}{Uh... sono nuovo qui?}
 {122}{}{Peek-a-boo!}
 {123}{}{Cosa vuoi dire? Questa armatura funziona benissimo! Li vuoi firmare questi documenti o no?}
 {124}{}{Non capisco una parola.}

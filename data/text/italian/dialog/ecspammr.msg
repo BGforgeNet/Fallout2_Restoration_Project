@@ -11,6 +11,6 @@
 {128}{}{Non farmi del male.}
 {129}{}{Non volevo fare lo stupido.}
 {130}{}{Non dicevo sul serio a proposito di quelle minacce di morte.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
+{131}{}{Mi dispiace, Buffy!}
+{132}{}{Mi dispiace, "Unwashed"! Volevo solo farmi notare.}
 {133}{}{Voglio una versione on-line!}

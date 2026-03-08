@@ -47,8 +47,8 @@
 {146}{}{Quando avevo quattordici anni, mio fratello ha perso la mano a causa di un piccolo canguro. Quando avevo quindici anni, mia zia si e' strozzata con un osso di pollo. Quando avevo sedici anni, mio cugino e' stato ucciso da un tasso. A diciassette anni, mi sono tranciato l'alluce con una zappa. Quando avevo diciotto anni, mio padre ha perso la gamba destra a causa dello stesso trattore che aveva ucciso il mio cane. A diciannove anni... }
 {147}{}{Beh, io ero la', in mezzo al deserto, in attesa che il mondo ingoiasse la mia misera esistenza, quand'ecco che comparve un branco di Deathclaw. Beh, pensavo tra me e me, ci siamo. Adesso posso morire. Posso andarmene sottoforma di un mucchio di letame di Deathclaw in mezzo al deserto. Ma no... il fato aveva ancora una crudele carta da giocare contro di me. }
 {148}{}{Vedi, i Deathclaw non mi uccisero. Mi diedero dell'acqua, invece, mi portarono qui, mi diedero questa stanza, mi diedero del cibo, mi ripulirono e adesso non mi lasciano andar via. So bene che mi stanno facendo ingrassare per qualche ignoto, orribile scopo. Continuo a dire loro che probabilmente avrei un gusto migliore se fossi piu' magro, ma non serve a nulla. Loro semplicemente sorridono -- se di sorriso si puo' parlare -- e mi danno delle pacche amichevoli sulla testa e dicono "Non preoccuparti, umano, le cose miglioreranno". Ah! Entrambi sappiamo cosa significa.}
-{149}{}{Anyway, to make matters worse, then they started giving me some sort of medication. It was
- making me gassy, so I stopped taking it -- and it's a good thing I did. I think it was some sort of
- 'mind control' pill, because I started to feel like things weren't actually as bad as I thought!
- Anyway, that's about it. I'm just waiting for the dinner bell to chime, so that they can feast on my
- bloated body.}
+{149}{}{Comunque, per peggiorare le cose, hanno iniziato a darmi una sorta di medicinale. 
+ Mi faceva venire dei gas, così ho smesso di prenderlo — e ho fatto bene. Credo fosse una specie di pillola per il “controllo mentale”, 
+ perché ho iniziato a sentire che le cose non erano poi così brutte come pensavo! Comunque, è tutto. 
+ Sto solo aspettando che suoni la campana della cena, così potranno banchettare con il mio corpo
+ gonfio.}

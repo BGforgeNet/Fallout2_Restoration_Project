@@ -60,7 +60,7 @@
 {921}{}{And my imagination will make that moment live…}
 {923}{}{Give me what you alone can give}
 {925}{}{::Mouth Trumpet::}
-{930}{}{I'll... be with yoooou}
+{930}{}{Saro'... con teeee}
 {933}{}{Ohhhh}
 {935}{}{lips for just a moment}
 {937}{}{Will make that moment live}

@@ -503,7 +503,7 @@
 {48400}{}{Nessa}
 {48401}{}{The ghost of dead Nessa.}
 {48500}{}{Shaman}
-{48501}{}{Tribal shaman.}
+{48501}{}{Sciamano tribale.}
 {48600}{}{Warrior 	}
 {48601}{}{Tribe warrior.}
 {48700}{}{una Guardia}

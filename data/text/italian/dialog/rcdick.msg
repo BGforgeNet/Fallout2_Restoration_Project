@@ -90,8 +90,8 @@
 {189}{}{Hmm, forse e' cosi'. Lascia che ti chieda qualcos'altro.}
 {190}{}{Parlami di questi Vacca-mungo, allora.}
 {191}{}{Grazie. Dovro' darci un'occhiata. Ci vediamo.}
-{192}{}{Well you see - here's the god's honest truth - I know someone who saw one up close-like, it was...
-(time passes)...With huge fangs that it uses to...(more time passes)...}
+{192}{}{Beh vedete - questa e' la pura verita' - conosco qualcuno che ne ha visto uno da vicino, era...
+(passa del tempo)...Con enormi zanne che usa per...(altro tempo passa)...}
 {193}{}{Tempo fa avevo un amico che lavorava con me e un giorno... (il tempo passa)... grande come un brahmin e persino piu' puzzolente... (passa altro tempo)... }
 {194}{}{Ti addormenteresti comunque, quindi tanto vale che io continui. Era notte fonda, vedi, e cosi'... (il tempo passa)... orme a meta' tra quelle di un Radscorpione e quelle di un Gecko... (passa altro tempo)... Visto? Te l'avevo detto che ti saresti addormentato.}
 {195}{}{Eh? Cosa? (la tua testa scatta; devi esserti appisolato). }
@@ -116,8 +116,9 @@
 {214}{}{Non riesco a tirare avanti, senza Jet. Tutti volano con lui, ultimamente. Mi devo fare una dose solo per stare in piedi. Diamine, il piacere che sento quando mi faccio e' di gran lunga inferiore al male che sto quando non mi faccio.}
 {215}{}{Lascia che ti chieda qualcos'altro.}
 {216}{}{Interessante. Grazie e arrivederci.}
-{217}{}{The Jet's bad, man. Everyone who's using got all sick like they're gonna die. I think I better...
-(bends over and dry heaves a bit)...sorry. Say pardner, can we talk about something else?}
+{217}{}{Il Jet è roba pesante, amico. Tutti quelli che lo usano si sono messi male, come se stessero per crepare. Forse è meglio che… 
+(si piega in avanti e conati a vuoto)… scusa.
+Senti, compare, possiamo parlare d’altro?}
 {218}{}{Certo, scusa se te l'ho chiesto. Lascia che ti chieda qualcos'altro.}
 {219}{}{Interessante. Grazie e arrivederci.}
 {220}{}{Non voglio piu' sentir parlare di quel dannato Jet. Quella roba ti uccide. E' peggio del veleno di Radscorpione. Non posso credere che quella roba mi piacesse davvero. L'ultima volta... credevo di essere spacciato.}

@@ -79,47 +79,48 @@ Almeno, non senza aiuto. Ma cosa diresti se ti dicessi che ti scorto io?}
 {316}{}{Lo faro'. Ci vediamo.}
 {320}{}{A Gecko? E' la citta' dei ghoul, giusto? Grazie, ma no grazie.}
 {321}{}{Ehi, i ghoul la' sono davvero molto amichevoli. Inoltre, ne conosco uno in particolare che ama fare una bella partita a Tragic.}
-{322}{}{Hey, the ghouls there are actually really friendly.}
-{323}{}{Hey, I hear the ghouls there are actually really friendly.}
+{322}{}{Ehi, i ghoul la' sono davvero molto amichevoli.}
+{323}{}{Ehi, ho sentito che i ghoul la' sono davvero molto amichevoli.}
 {324}{}{Bene. Come preferisci. Arrivederci.}
-{330}{}{No shit, another Tragic player? Hmm, that kind of changes things... I wonder if he'd have a Black Dahlia to
- trade. Alright. I'll go if you'll escort me.}
+{330}{}{Caspita, un altro giocatore di Tragic? Hmm, questo cambia le cose... Mi chiedo se avesse una Black Dahlia da
+ scambiare. Va bene. Ci andro' se mi scortate.}
 {331}{}{Andiamo.}
 {332}{}{Va bene, ma devo prima sistemare alcune cose. Ti faro' sapere quando sono pronto a partire.}
-{340}{}{Oh yeah? That doesn't change the fact that they look like brahmin shit. No thanks.}
+{340}{}{Oh si'? Questo non cambia il fatto che sembrano escrementi di brahmin. No grazie.}
 {341}{}{Bene. Come preferisci. Arrivederci.}
 {350}{}{Cosa vuoi?}
 {351}{}{Volevo solo salutarti. Ci vediamo.}
 {352}{}{Ho cambiato idea. Formattero' il computer per te.}
-{353}{}{Hey, you might want to reconsider my offer to take you to Gecko, because I know
- someone there that loves a good game of Tragic.}
-{354}{}{Hey, I know someone in Gecko that loves a good game of Tragic. I could take you there.}
-{360}{}{Are we ready to go yet? I'm dying to know what kind of Tragic cards this guy's got.}
+{353}{}{Ehi, potresti voler riconsiderare la mia offerta di portarti a Gecko, perche' conosco
+ qualcuno la' che ama una buona partita a Tragic.}
+{354}{}{Ehi, conosco qualcuno a Gecko che ama una buona partita a Tragic. Potrei portarti la'.}
+{360}{}{Siamo pronti a partire? Muoio dalla voglia di sapere che tipo di carte Tragic ha questo tizio.}
 {361}{}{D'accordo, andiamo.}
 {362}{}{Non ancora. Te lo faro' sapere.}
-{370}{}{[Upon arriving in Gecko you introduce the young monk to Wooz. They quickly hit it off and begin comparing their
- Tragic card decks. You're about to leave when Brother Jason pulls himself away from Tragic long enough to have a word with you.]}
+{370}{}{[Arrivati a Gecko, presenti il giovane monaco a Wooz. I due fanno subito amicizia e iniziano a confrontare i loro
+ mazzi di carte Tragic. Stai per andartene quando Fratello Jason si stacca da Tragic quel tanto che basta per scambiare due parole con te.]}
 {371}{}{[AVANTI]}
-{372}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
- as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me. Here,
- I, uh, "borrowed" this from the Abbey's Memorabilia, amazingly it's one of the few tech relics that still works.
- [He hands you a Stealth Boy.] See ya.}
+{372}{}{Wooz ha davvero una Black Dahlia! Da sola ha reso il viaggio degno. Certo, i ghoul sono brutti come il
+ demonio, ma ho scoperto che se tolgo gli occhiali, sono quasi tollerabili. Comunque, grazie mille per avermi portato. Ecco, io,
+ ehm, l'ho "preso in prestito" dai Memorabilia dell'Abbazia, stranamente e' una delle poche reliquie tecnologiche che funziona ancora.
+ [Ti porge uno Stealth Boy.] Ci vediamo.}
 {373}{}{Grazie. Ciao.}
 {374}{}{Sono solo felice di non doverti sentire lamentare ancora. Arrivederci.}
-{380}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
- as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me here.
- Here, [He reaches into his pocket, then frowns.] what the hell? I could swear I had it. Uh, sorry, but looks like I misplaced
- your reward, so you'll have to make due with a simple thanks. See ya.}
+{380}{}{Porca miseria, Wooz ha davvero una Black Dahlia! Da sola ha reso il viaggio degno. Certo, i ghoul sono brutti come il
+ demonio, ma ho scoperto che se tolgo gli occhiali, sono quasi tollerabili. Comunque, grazie mille per avermi portato qui.
+ Ecco, [Fruga in tasca, poi corruga la fronte.] che diavolo? Avrei giurato di averlo. Ehm, mi dispiace, ma sembra che abbia
+ perso la tua ricompensa, quindi dovrai accontentarti di un semplice grazie. Ci vediamo.}
 {381}{}{Oh, uh, non preoccuparti. Sono solo contento di aver potuto aiutare. Arrivederci.}
 {382}{}{Sono solo felice di non doverti sentire lamentare ancora. Arrivederci.}
-{400}{}{Can't talk... must build more powerful deck...}
+{400}{}{Non posso parlare... devo costruire un mazzo piu' potente...}
 {500}{}{Lasciami in pace.}
 {501}{}{Vattene.}
 {502}{}{Vaffanculo.}
-{600}{}{Oh, hey, it's you. Somebody blew up the reactor at Gecko and all the ghouls left. No reason for me to stay there,
- so I left and came back here. Luckily for me the monks here didn't question my absence, so I'm not in any trouble for leaving.
- This sucks though, I thought I was going to have a new life doing what I love. [He sighs deeply]}
+{600}{}{Oh, ehi, sei tu. Qualcuno ha fatto saltare il reattore a Gecko e tutti i ghoul se ne sono andati. Non avevo motivo di
+ restare li', cosi' me ne sono andato e sono tornato qui. Fortunatamente per me i monaci qui non hanno messo in discussione
+ la mia assenza, quindi non ho guai per essermene andato. Fa schifo pero', pensavo di avere una nuova vita facendo quello
+ che amo. [Sospira profondamente]}
 {601}{}{Mi dispiace sentire questo. A presto.}
-{602}{}{That's life. One minute you're on top of the world and the next instant you're face down in the mud. Live and learn. Bye.}
+{602}{}{E' la vita. Un momento sei in cima al mondo e quello dopo hai la faccia nel fango. Si vive e si impara. Ciao.}
 {610}{}{Immagino che dovro' solo abituarmi a questo posto.}
 {1000}{}{You safely escort Brother Jason to his new home.}

@@ -13,8 +13,8 @@
 {112}{}{Ho parlato con Vikki. Dice che sei un figo e che qualche volta gli piacerebbe stare un po' con te.}
 {113}{}{Vuoi che parli di te con Vikki?}
 {114}{}{Lasciamo perdere. Ci vediamo.}
-{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[As you turn to look, he whips back to what he was doing and ignores you.]}
+{115}{}{Ummm... oookay. Come vuoi. Senti, cos'e' quella cosa la'?
+[Mentre ti giri a guardare, lui torna di scatto a quello che stava facendo e ti ignora.]}
 {116}{}{[FATTO]}
 {117}{}{Io sono Dave Handy. Vengo dal Canada.}
 {118}{}{E tu di che cosa ti occupi?}
@@ -35,10 +35,10 @@
 {133}{}{Beh, si'... ma se succedesse qualcosa ne sarebbe valsa la pena!}
 {134}{}{Se lo dici tu... se lo dici tu. Ho delle altre domande.}
 {135}{}{Vabbe'. Ci si vede.}
-{136}{}{::he sits in stunned silence for a moment::
-::pain crosses his face::
-Oh well.
-::he turns his head away::}
+{136}{}{::rimane in silenzio attonito per un momento::
+::un'espressione di dolore gli attraversa il viso::
+Pazienza.
+::gira la testa dall'altra parte::}
 {137}{}{Immagino che tu voglia vendicarti.}
 {138}{}{Mi dispiace. Ho delle altre domande.}
 {139}{}{Dopo averti consegnato il messaggio... posso andare!}

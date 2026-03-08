@@ -163,7 +163,7 @@
 {530}{}{E che cosa ti fa pensare che io abbia mai visto uno spettacolo circense, o, peggio, che io sia stato rapito da un circo?}
 {531}{}{Uh...beh, mi pare che molti dei cittadini di New Reno si comportino come se fossero appena usciti da un circo, e quindi pensavo che...}
 {540}{}{TU pensavi che, poiche' sono una persona di bassa statura, l'unica carriera che potevo intraprendere era quella di essere rinchiuso in un cosiddetto "circo"!}
-{541}{}{Uh... well, now...}
+{541}{}{Uh... beh, insomma...}
 {550}{}{Mi hai dato solo una RAPIDA occhiata e hai pensato di conoscere la mia intera vita. Non ti sarebbe mai passato per l'anticamera del cervello che una persona della mia statura potesse far carriera come *agente di pugili*.}
 {551}{}{Mi dispiace, non volevo offenderti.}
 {560}{}{E perche' avrei dovuto offendermi? Solo perche' sembra che tutti, in questo gioco, abbiano il vizio di dare giudizi istantanei sugli altri PNG, basandosi solamente sul loro aspetto fisico?}
@@ -176,7 +176,7 @@
 {591}{}{E tu rimarresti sorpreso nello scoprire quanti maschi la pensino come loro.}
 {600}{}{Mi sono lasciato ingannare dal tuo fisico ridicolmente super-muscoloso, dal tuo audace comportamento da Mad Maxx dei poveri, dalla tua distribuzione di punti-personaggio priva di fantasia e ti ho bollato come un bulletto rissoso.}
 {601}{}{Mi sono lasciato ingannare dal tuo seno iper-pixellato, dalla tua ridicola andatura sculettante, dalla tua distribuzione di punti-personaggio priva di fantasia e ti ho bollato come una Laura Kroft dei poveri...una "bulletta".}
-{602}{}{I...}
+{602}{}{Io...}
 {610}{}{Non sei nient'altro che il tipico "Modello Maschile di Eroe di GdR" e, se vuoi, uno di TANTI modelli simili; cosi' tanti che sembrano essere presenti in massa, in questo mondo.}
 {611}{}{Non sei nient'altro che il tipico "Modello Femminile di Eroe di GdR" e, se vuoi, uno di TANTI modelli simili; cosi' tanti che sembrano essere presenti in massa, in questo mondo.}
 {612}{}{Beh...}

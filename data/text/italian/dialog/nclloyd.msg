@@ -19,7 +19,7 @@
 {233}{}{Non me ne frega molto dei tuoi consigli... amico. Che problema hai?}
 {234}{}{Si direbbe che tu abbia dei problemi. Forse potrei aiutarti.}
 {235}{}{Mi sembri proprio il tipo d'uomo che ha a cuore la sua privacy. Per una persona chiacchierona come me, dimenticarti potrebbe essere molto... difficile.}
-{236}{}{All right then... sorry to bother you.}
+{236}{}{D'accordo, allora. Scusa il disturbo.}
 {245}{}{Che problema ho? Il mio problema mi sta proprio davanti. }
 {246}{}{Non te lo diro' un'altra volta, compare: vattene.}
 {247}{}{Non te lo diro' un'altra volta, dolcezza: vattene.}
@@ -40,7 +40,7 @@
 {284}{}{Io credo che tu ce l'ABBIA, un problema. Vedi, tutta questa privacy rende difficile che qualcuno possa sentire quel che succede qui sotto. Forse potrei ucciderti... che ne dici?}
 {285}{}{Mi sembra che tu sia in un mare di guai e forse io potrei aiutarti. Che ne dici?}
 {286}{}{Mi sembri proprio il tipo d'uomo che ha a cuore la sua privacy. Per una persona chiacchierona come me, dimenticarti potrebbe essere molto... difficile.}
-{287}{}{All right then... sorry to bother you.}
+{287}{}{D'accordo, allora. Scusa il disturbo.}
 {295}{}{Uh... ehi, aspetta... non c'e', uh, bisogno di dire cosi'. Magari potremmo parlare di qualcos'ALTRO: ad esempio, di quello che il tuo amico Lloyd potrebbe fare per te.}
 {296}{}{Mi interessa. Va' avanti.}
 {297}{}{Non m'interessa. Me ne vado.}
@@ -130,7 +130,7 @@
 {615}{}{(Sembra esausto.) Come... parte dei tuoi... compiti di guardia, sarei molto... felice se fossi tu a... scavare.}
 {616}{}{Uh...}
 {617}{}{Vedi Lloyd, il mondo si divide in due categorie. Chi ha la pistola in mano e chi scava.}
-{620}{}{All right then, I'll do it...}
+{620}{}{D'accordo, allora. Lo faro'...}
 {625}{}{(Lloyd borbotta tra un respiro e l'altro, poi comincia a scavare.)}
 {626}{}{(Lloyd borbotta tra un respiro e l'altro, poi comincia a scavare... molto attentamente. Dopo meno di un minuto, estrae una mina dal terreno e la appoggia li' accanto. Per un attimo trema come un pecora.)}
 {627}{}{Eeeecco. Stai andando benissimo. Continua cosi'. Scava un po' piu' rapidamente.}

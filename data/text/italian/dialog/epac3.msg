@@ -52,5 +52,5 @@
 {400}{}{You successfully repair the toaster.}
 {401}{}{You fail to repair the toaster.}
 {402}{}{The toaster is already repaired.}
-{403}{}{ successfully repairs the toaster.}
+{403}{}{ ripara con successo il tostapane.}
 {404}{}{ fails to repair the toaster.}

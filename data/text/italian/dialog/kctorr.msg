@@ -59,7 +59,7 @@
 {229}{}{Torr piace }
 {230}{}{. Torr grazie. Uomi insetto cattivi, no lascia uomi insetto mangiare mu'-mu'! (Grazie mille dell'aiuto. Quegli uomini insetto mi fanno venire i brividi. Spero che riusciremo ad evitare di perdere altri brahmin.)}
 {231}{}{. Torr grazie. Uomi insetto cattivi, no lascia uomi insetto mangiare mu'-mu'!}
-{232}{}{Torr. (I'm sure that they won't take your brahmin if we're both here.)}
+{232}{}{Torr. (Sono sicuro che non prenderanno i tuoi brahmin, se ci siamo noi due.)}
 {233}{}{Spero che riusciremo a mettere fine agli attacchi di quei cosi contro i tuoi mu'-mu'. Uh, voglio dire, brahmin. Credo che nessuno li attacchera' con noi due qui a fare la guardia.}
 {234}{}{Veramente sono qui per avvertirti. Ho visto degli uomini insetto proprio dietro a quella roccia. Come amico, faro' la guardia ai mu'-mu' per te mentre tu vai a cercare aiuto.}
 {240}{}{Ook? Auta mu'-mu' Auta Torr? No uomi insetto! Uomi insetto cattivi! (Sei qui per aiutarmi a proteggere i brahmin dall'assalto degli uomini insetto?)}

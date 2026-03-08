@@ -74,7 +74,7 @@
 {360}{}{Ecco! Lo SAPEVO che ti avevo gia' visto da qualche parte! Diamine, perche' non l'hai detto subito? Perche' non hai subito fatto abbassare la cresta a Jimmy?! Per tutti i diavoli, che cosa posso fare per te?}
 {361}{}{Um... me dimenticato. Me va.}
 {363}{}{Beh, sto cercando del Jet...}
-{364}{}{Hey, I wanted something else...}
+{364}{}{Ehi, volevo qualcos'altro...}
 {365}{}{Devo andare. Ci vediamo un'altra volta, Jimmy.}
 {375}{}{(Jimmy cade in un silenzio attonito. Probabilmente gli hai paralizzato il cervello.)}
 {376}{}{(Ruba tutto quel che ha.)}
@@ -137,7 +137,7 @@
 {534}{}{Interessante. Grazie delle informazioni, Jimmy.}
 {540}{}{Guardie, guardie, e ancora guardie. In piu' e' protetto dai piu' impenetrabili sistemi elettronici di sicurezza di tutta New Reno. E' talmente ben sorvegliato che sarai fortunato anche solo se riuscirai a SENTIR parlare di QUALCUNO che ha visto Myron.}
 {541}{}{Ben sorvegliato, eh? E dove, esattamente?}
-{543}{}{I see. Say, I had some other questions...}
+{543}{}{Capisco. Avrei delle altre domande...}
 {550}{}{L'hanno piazzato in un posto chiamato "Stalle", a nord di qui, fuori dai confini cittadini. Sono stato la' soltanto una volta - non mi lasciano mai superare i cancelli... e io LAVORO per la famiglia Mordino.}
 {551}{}{Dai, ci deve pur essere un modo per vederlo.}
 {554}{}{Le Stalle, eh? Fuori citta', a nord... (Sara' meglio segnarselo in fretta sul PipBoy)... grazie per le dritte, Jimmy.}
@@ -156,13 +156,13 @@
 {592}{}{Interessante... Cosi', tanto per CURIOSITA': dove le prendono i Mordino queste prostitute, e qual e' il criterio di scelta?}
 {600}{}{(Alza le spalle.) Uno dei Mordino va al Cat's Paw che c'e' in fondo alla strada, cosi' mi hanno detto, e sceglie una delle ragazze di Miss Kitty che potrebbe piacere a Myron... (Jimmy smette improvvisamente di parlare. Ti guarda di traverso e aggrotta le sopracciglia) Aspetta un secondo...}
 {601}{}{Cosa c'e'?}
-{602}{}{Uh... nevermind. Say, I had some other questions...}
+{602}{}{Uh... lascia perdere. Senti, avevo altre domande...}
 {603}{}{Uh, beh, grazie per le informazioni, Jimmy.}
 {610}{}{Perche' vuoi sapere tutte queste stronzate? Io ho il Jet, e questo e' tutto quello che TI serve sapere. Non ti serve sapere nulla su Myron, o su quello che ha mangiato a pranzo, o su cosa fa prima di andare a letto la sera.}
 {611}{}{Perche' vuoi sapere tutte queste stron... (Si ferma, poi sorride e ti osserva per bene.) Aw, adesso ho capito il tuo gioco. Tu vuoi andare direttamente alla fonte per avere il Jet, giusto sorella?}
 {612}{}{No, per il momento. Vediamo un po' cos'hai da vendermi, Jimmy.}
 {613}{}{Lasciamo stare, allora. Parliamo di affari.}
-{614}{}{Nevermind then. I had some other questions...}
+{614}{}{Come non detto, allora. Avrei delle altre domande...}
 {615}{}{Forse si'. Senti, avrei delle altre domande...}
 {616}{}{No, ero solo curiosa. Grazie, Jimmy. Devo andare.}
 {617}{}{D'accordo. A dopo, Jimmy. Devo andare.}
@@ -209,5 +209,5 @@
 {5281}{}{ tu mentito a }
 {5314}{}{ UCCIDERE TE}
 {5340}{}{?}
-{5341}{}{ family.}
+{5341}{}{ famiglia.}
 {6281}{}{ su jet?}

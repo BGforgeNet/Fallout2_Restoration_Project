@@ -4,7 +4,7 @@
 {103}{}{She smiles when she sees you.}
 {104}{}{He looks at you with uncertainty.}
 {105}{}{She looks at you with uncertainty.}
-{106}{}{He glares at you.}
+{106}{}{Ti fulmina con lo sguardo.}
 {107}{}{She glares at you.}
 {200}{}{Thanks for helping us mister!}
 {201}{}{Yippie we are safe now!}

@@ -1,4 +1,4 @@
-{100}{}{You see an elderly, frail man.}
+{100}{}{Vedi un uomo vecchio e debole.}
 {101}{}{E' il Vice Presidente Carlson.}
 {102}{}{Sebbene abbia un fisico debole, i suoi occhi rivelano un'incredibile forza morale. E' un uomo determinato.}
 {103}{}{Che cosa ci fai qui? Guardie!}

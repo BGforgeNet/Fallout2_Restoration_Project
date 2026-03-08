@@ -1,5 +1,5 @@
 {100}{}{Un grosso macchinario.}
-{101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
+{101}{}{Il purificatore d'aria emette sordi rumori metallici. Sembra essere rotto. Forse ha bisogno di un pezzo di ricambio.}
 {102}{}{Il purificatore d'aria emette un lieve sibilo. Sembrerebbe essere in funzione.}
 {110}{}{Quel pezzo non puo' ripararlo.}
 {120}{}{Hai riparato il purificatore d'aria.}

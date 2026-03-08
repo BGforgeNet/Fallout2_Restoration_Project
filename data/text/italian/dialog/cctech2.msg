@@ -39,7 +39,7 @@
 {144}{}{Okay.}
 {145}{}{Capito.}
 {155}{}{Ma sei matto, andartene in giro senza uniforme? Vatti a vestire!}
-{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{156}{}{Se il sergente ti becca senza uniforme, ti fa un culo cosi'.}
 {157}{}{Perche' sei senza l'uniforme?}
 {158}{}{Merda! Ci stanno invadendo! Allarme!}
 {159}{}{Intrusi! Qualcuno chiami le guardie!}

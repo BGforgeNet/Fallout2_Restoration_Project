@@ -47,7 +47,7 @@
 {193}{}{Cosa stai indossando?}
 {194}{}{Voglio andare al pascolo con i brahmin!}
 {195}{}{Vieni da lontano?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{Weeee! Ah, ah, ah!}
 {197}{}{Non andartene!}
 {198}{}{Hai del cibo?}
 {199}{}{Ti do fastidio?}

@@ -1,4 +1,4 @@
-{100}{}{You see a drug addict.}
+{100}{}{Vedi un tossicodipendente.}
 {110}{}{Vedi uno schiavo del Jet.}
 {111}{}{Vedi uno schiavo del Jet di Tubby.}
 {150}{}{Sembra essere un amico di Tubby.}
@@ -47,7 +47,7 @@
 {271}{}{Si', sai cos'era?}
 {272}{}{Credo fosse un uccello.}
 {273}{}{No, un cane.}
-{274}{}{But it was flying, man.}
+{274}{}{Ma era un uomo volante.}
 {275}{}{No - e' sfrecciato a pochi metri dal terreno.}
 {276}{}{Certo... hai le visioni.}
 {277}{}{No. Era reale.}
@@ -98,7 +98,7 @@
 {406}{}{Non ti fa venire i brividi?}
 {407}{}{Tubby ha la miglior fornitura della citta'.}
 {408}{}{Mi sento cosi' viva!}
-{420}{}{Did you hear a loud bang?}
+{420}{}{Hai sentito quel rumore?}
 {421}{}{E' da un po' che non vedo Tubby.}
 {422}{}{Dov'e' Tubby?}
 {423}{}{Hai visto Tubby?}

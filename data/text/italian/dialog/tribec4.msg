@@ -69,7 +69,7 @@
 {631}{}{Yup, I have everything right here.}
 {632}{}{I'm still looking. Bye.}
 {640}{}{Lets see here... Oh, excellent. These will work well. Here, take some healing powder for your time.}
-{641}{}{Thank you. Bye.}
+{641}{}{Grazie. Ciao.}
 {1000}{}{You relieve the Tribe's Shaman of his troubles.}
 {2000}{}{You deliver the herbs to the Shaman.}
 {3000}{}{I knew you were a great hero all along... The spirits told me so.}

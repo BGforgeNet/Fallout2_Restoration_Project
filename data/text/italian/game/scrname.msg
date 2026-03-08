@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{il Proconsole Gregory}
-{218}{}{Nurse Phyllis}
+{218}{}{Infermiera Phyllis.}
 {219}{}{Randal}
 {220}{}{Sostanza Gelatinosa}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Wolf}
 {444}{}{Generatore}
 {445}{}{Porta}
-{446}{}{Super mutant}
+{446}{}{Super mutanti}
 {447}{}{un Uomo di Salvatore}
 {448}{}{un Uomo di Bishop}
 {449}{}{un Uomo di Mordino}
@@ -503,7 +503,7 @@
 {603}{}{un Abusivo}
 {604}{}{un Abolizionista}
 {605}{}{un Donna Contrabbandiere}
-{606}{}{Super mutant}
+{606}{}{Super mutanti}
 {607}{}{un Pescatore}
 {608}{}{Schiavista}
 {609}{}{una Trapper}

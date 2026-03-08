@@ -28,7 +28,7 @@
 {127}{}{Totalmente incapace.}
 {128}{}{Ancora tu, eh?}
 {129}{}{Ork! Ooo! Ug ug!}
-{130}{}{Hi! HIIIII! Me }
+{130}{}{Ciao! CIAOOO! Io }
 {131}{}{Amico, ti ho gia' dato dei soldi. Va' a disturbare qualcun altro, eh?}
 {132}{}{Chi si rivede. Perche' non provi ad andare… umm… alla banca, giu' in citta'? Sono sicuro che c'e' un sacco di gente che non vede l'ora di parlare con te.}
 {133}{}{Beh, se mai ti dovesse venire in mente una soluzione, fammelo sapere.}
@@ -53,17 +53,17 @@
 {152}{}{Nessun problema. Addio.}
 {153}{}{No? Beh, se dovessi cambiare idea, sai dove trovarmi.}
 {154}{}{Certo. Addio.}
-{155}{}{ it is, then. Take half now. I'll give you the other half when you're done. Go to New Reno and
- look for Renesco. He's got tools just lying around his office. He should be able to help you with the
- parts.}
+{155}{}{ E' cosi' allora. Prendi meta' ora. Ti daro' l'altra meta' quando hai finito. Vai a New Reno e
+cerca Renesco. Ha degli attrezzi sparsi nel suo ufficio. Dovrebbe essere in grado di aiutarti con
+i pezzi.}
 {156}{}{Ci vediamo.}
 {157}{}{Mi dispiace. Questo e' il massimo che posso offrirti. Prendere o lasciare.}
 {158}{}{La prendo.}
 {159}{}{Lascio.}
 {160}{}{Bene. Lascia pure, allora. Non aspettarti un grazie.}
 {161}{}{Vabbe'.}
-{162}{}{Hi, friend!}
-{163}{}{Oh, good. It's you again.}
+{162}{}{Ehila', amico! }
+{163}{}{Oh, bene... Ancora tu. }
 {164}{}{Ehila'.}
 {165}{}{Lo sapevo che quei bastardi di Franc, Manson, Jacob e Aileen stavano tramando alle nostre spalle. Ben fatto! Allora... }
 {166}{}{Spero che tu abbia preso una decisione, riguardo al restituire l'uranio alla citta'... allora... }
@@ -72,7 +72,7 @@
 {169}{}{Allora, cosa vuoi?}
 {170}{}{Puoi dirmi qualcosa sulla citta'?}
 {171}{}{Ho sentito che avete dei problemi con la miniera.}
-{172}{}{How're things?}
+{172}{}{Come vanno le cose?}
 {173}{}{Siete in buoni rapporti con gli umani?}
 {174}{}{Hai cambiato idea riguardo alla questione della miniera?}
 {175}{}{Io cosa ne ricavo?}
@@ -103,13 +103,10 @@
 {200}{}{D'accordo... d'accordo...}
 {201}{}{Beh, credo che le persone piu' adatte con cui parlare di questo argomento siano Marcus, giu' alla banca, o Steve, la guida cittadina.}
 {202}{}{Hmm. D'accordo. }
-{203}{}{I'll go ask them, then.}
+{203}{}{Andro' a chiederlo a loro, allora. }
 {204}{}{Vorrei poter dire che tutto va bene. Tuttavia si spera sempre che le cose vadano meglio.}
 {205}{}{Eh eh. Grazie per tutte le informazioni.}
-{206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
- something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
- far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
- from the other places around here... now those are some bastards.}
+{206}{}{Beh, dal momento che i mutanti non invecchiano rapidamente - pare che il gas li mantenga giovani - direi che le cose vanno piuttosto bene. Voglio dire, noi non vogliamo uccidere nessuno e, per quanto ne so, gli umani non pensano troppo male di noi. Certo, questo non include gli altri umani che vengono dalle citta' qui attorno... quelli si' che sono dei bastardi.}
 {207}{}{Okay, grazie. Ci vediamo.}
 {300}{}{$. Che ne pensi?}
 {301}{}{$. Che ne pensi?}

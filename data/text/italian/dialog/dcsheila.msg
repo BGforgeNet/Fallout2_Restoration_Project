@@ -44,7 +44,7 @@
 {194}{}{Yeah.}
 {195}{}{Grande!}
 {196}{}{OK, abbiamo finito. Ciao.}
-{197}{}{That's it?}
+{197}{}{Tutto qui?}
 {198}{}{OK. Ciao.}
 {199}{}{E' stato bello.}
 {200}{}{Bye bye.}
@@ -61,7 +61,7 @@
 {211}{}{Addio.}
 {212}{}{Bye bye.}
 {213}{}{Una 'seduta' ti costera' }
-{214}{}{ for a session. Pay first.}
+{214}{}{ per una prestazione. Paga prima.}
 {215}{}{Seguimi.}
 {216}{}{Sto aspettando.}
 {217}{}{Non staro' qui in questa stanza gelida per tutto il giorno.}

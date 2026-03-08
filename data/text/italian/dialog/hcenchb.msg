@@ -17,7 +17,7 @@
 {114}{}{Marcus told me he suspects Chad of skimming some of the caravan money that supposed to be going to Broken Hills.
  I told him I'd look into it.}
 {115}{}{Grazie. Ciao.}
-{116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
+{116}{}{Grazie. Sono davvero felice che sia finita. Tu pero' faresti bene a guardarti le spalle.}
 {117}{}{Addio.}
 {118}{}{Il nemico! Muori!}
 {119}{}{Oops.}
@@ -25,7 +25,7 @@
  Gecko, and I overheard Chad arguing with their ghoul rep. Apparently, Broken Hills had recently been jacking up the
  price of uranium, and the ghoul wasn't too happy about it. Then I hear Chad explain to him our uranium supply was
  running low due to a recent miners' strike, but the thing is, there never was a strike.}
-{121}{}{Really? Then why didn't you report that to Marcus?}
+{121}{}{Davvero? Allora perche' non l'hai riferito a Marcus?}
 {122}{}{Are you insane? Chad's a powerful guy in this town and he's got a lot of friends. If I try to rat him out, there's a lot of people that'd hate me. Hell, I might even get killed.}
 {123}{}{Hmm, then perhaps I could say something to Marcus. I don't plan to stay around here too much longer anyway.}
 {124}{}{Hey, you do what you need to do, just don't drag me into it. In fact, we never had this conversation, OK?}

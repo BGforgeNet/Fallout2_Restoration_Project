@@ -7,7 +7,7 @@
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{Fa lo stesso. Dammi la specialita' della casa.}
-{109}{}{Gimme a beer.}
+{109}{}{Dammi una birra.}
 {110}{}{Informazioni.}
 {111}{}{Sto cercando lavoro.}
 {112}{}{Beh, sei davvero un tipo particolare! Proprio come piace a me.}

@@ -348,21 +348,21 @@
 {18100}{}{Parte Superiore dell'Ascensore}
 {18101}{}{Stai osservando una porzione di un ascensore.}
 {18200}{}{Console del Computer}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18201}{}{Questo e' un terminale muto, collegato via cavo a un grande computer.}
 {18300}{}{Console del Computer}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18301}{}{Questo e' un terminale muto, collegato via cavo a un grande computer.}
 {18400}{}{Emblema}
 {18401}{}{Il simbolo della Confraternita. Gli ingranaggi rappresentano le loro conoscenze tecniche, la spada e' la loro volonta' di difendersi e le ali sono la speranza che si eleva.}
 {18500}{}{Emblema}
 {18501}{}{Il simbolo della Confraternita. Gli ingranaggi rappresentano le loro conoscenze tecniche, la spada e' la loro volonta' di difendersi e le ali sono la speranza che si eleva.}
 {18600}{}{Cartello Livello 'Uno'}
-{18601}{}{You think this could mean that you are on level one.}
+{18601}{}{Pensi che questo potrebbe significare che sei al livello uno.}
 {18700}{}{Cartello Livello 'Due'}
-{18701}{}{You are on level two.}
+{18701}{}{Sei al livello due.}
 {18800}{}{Cartello Livello 'Tre'}
-{18801}{}{This must mean that you are on level three.}
+{18801}{}{Questo deve significare che sei al livello tre.}
 {18900}{}{Cartello Livello 'Quattro'}
-{18901}{}{You must be on level four.}
+{18901}{}{Devi essere al livello quattro.}
 {19000}{}{Letto a Castello}
 {19001}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
 {19100}{}{Letto a Castello}
@@ -398,9 +398,9 @@
 {20700}{}{Vecchio Materasso}
 {20701}{}{Anche se tu dormissi da solo su questa cosa, non saresti veramente solo.}
 {20800}{}{Letto}
-{20801}{}{A makeshift bed. The material was scavenged from some other source.}
+{20801}{}{Un letto di fortuna. Il materiale e' stato recuperato da qualche altra fonte.}
 {20900}{}{Letto}
-{20901}{}{A makeshift bed. The material was scavenged from some other source.}
+{20901}{}{Un letto di fortuna. Il materiale e' stato recuperato da qualche altra fonte.}
 {21000}{}{Letto}
 {21001}{}{Questo letto ha visto giorni migliori (e anche notti, probabilmente.)}
 {21100}{}{Letto}
@@ -918,7 +918,7 @@
 {48200}{}{Porta}
 {48201}{}{Questa porta assomiglia sospettosamente a una porta che potresti trovare in un magazzino.}
 {48300}{}{Banderuola}
-{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
+{48301}{}{Questa semplice banderuola segnavento aiuta gli abitanti delle Lande a studiare il tempo.}
 {48400}{}{Altare}
 {48401}{}{Un semplice altare fatto con legno dipinto.}
 {48500}{}{Podio}
@@ -1136,8 +1136,8 @@
 {59501}{}{Questo tavolo di metallo e' ricoperto da un qualche tipo di biomassa.}
 {59600}{}{Bacheca degli Annunci}
 {59601}{}{Annunci di lavoro sono attaccati alla bacheca. Sembra molto usata.}
-{59700}{}{Shack}
-{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Baracca}
+{59701}{}{Questa struttura sembra vecchia di almeno un secolo, ma e' ancora in eccellenti condizioni.}
 {59800}{}{Insegna}
 {59801}{}{Quest'insegna dice: Emporio.}
 {59900}{}{Insegna}
@@ -2270,11 +2270,11 @@
 {137600}{}{Torcia}
 {137601}{}{Una torcia accesa, posta in un sostegno a muro.}
 {137700}{}{Vertibird}
-{137701}{}{A large military aircraft.}
+{137701}{}{Un grande velivolo militare.}
 {137800}{}{Porta Distrutta}
-{137801}{}{The rubble completely blocks the entrance.}
+{137801}{}{Le macerie bloccano completamente l'ingresso.}
 {137900}{}{Porta Distrutta}
-{137901}{}{The rubble completely blocks the entrance.}
+{137901}{}{Le macerie bloccano completamente l'ingresso.}
 {138000}{}{Parete}
 {138100}{}{Parete}
 {138200}{}{Parete}
@@ -2604,12 +2604,12 @@
 {169400}{}{Ombra}
 {169500}{}{Ombra}
 {169600}{}{Ombra}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{Strana macchina, schiantata}
+{169800}{}{Strana macchina, schiantata}
+{169900}{}{Strana macchina, schiantata}
+{170000}{}{Strana macchina, schiantata}
+{170100}{}{Strana macchina, schiantata}
+{170200}{}{Strana macchina, schiantata}
 {170300}{}{Ombra}
 {170400}{}{Ombra}
 {170500}{}{Ombra}
@@ -2637,9 +2637,9 @@
 {172300}{}{Vetro Presumibilmente Anti-Proiettile}
 {172301}{}{Vetro presumibilmente infrangibile. Non provarci nemmeno!}
 {172400}{}{Torretta Laser Pesante}
-{172401}{}{The turret rotates in a menacing way.}
+{172401}{}{La torretta ruota in modo minaccioso.}
 {172500}{}{Torretta Laser Pesante}
-{172501}{}{The turret rotates in a menacing way.}
+{172501}{}{La torretta ruota in modo minaccioso.}
 {172600}{}{Rocce}
 {172700}{}{Rocce}
 {172800}{}{Rocce}
@@ -3462,11 +3462,11 @@
 {229200}{}{Heavy Laser Tower}
 {229201}{}{The laser turret rests on this concrete tower.}
 {229300}{}{Torretta Laser Pesante}
-{229301}{}{The turret rotates in a menacing way.}
+{229301}{}{La torretta ruota in modo minaccioso.}
 {229400}{}{Heavy Laser Tower}
 {229401}{}{The laser turret rests on this concrete tower.}
 {229500}{}{Torretta Laser Pesante}
-{229501}{}{The turret rotates in a menacing way.}
+{229501}{}{La torretta ruota in modo minaccioso.}
 {229800}{}{Film Poster}
 {229801}{}{An old tatered film poster. "Hobo With a Shotgun".}
 {229900}{}{An odd looking creature}

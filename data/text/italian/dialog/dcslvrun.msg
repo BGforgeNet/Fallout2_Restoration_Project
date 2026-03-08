@@ -7,7 +7,7 @@
 {130}{}{Vedi un uomo dall'aspetto rozzo.}
 {131}{}{Questo sembra essere discretamente forte.}
 {140}{}{Vedi un uomo che indossa degli abiti consunti.}
-{141}{}{He moves with suggesting speed.}
+{141}{}{Si muove con una velocita' inquietante.}
 {150}{}{Vedi una donna molto sporca.}
 {151}{}{Sembra che non si sia mai fatta un bagno in vita sua.}
 {160}{}{Vedi una donna abbastanza robusta.}

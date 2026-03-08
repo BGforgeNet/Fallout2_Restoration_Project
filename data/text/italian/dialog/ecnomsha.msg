@@ -25,8 +25,7 @@
 {124}{}{[Continua]}
 {125}{}{Non hai bisogno di questo tipo di terapia.}
 {126}{}{[Continua]}
-{127}{}{Ahh... You are familiar with the healing properties of these two plants. It will only cost
- you}
+{127}{}{Ahh... Conosci le proprieta' curative di queste due piante. Ti costera'}
 {128}{}{Per favore, mischia queste due piante per me.}
 {129}{}{Magari piu' tardi, arrivederci.}
 {130}{}{[Lo osservi mentre con attenzione pesta e mischia le due piante e poi ti porge le dosi precisamente misurate della polvere.]}

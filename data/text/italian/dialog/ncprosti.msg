@@ -8,13 +8,13 @@
 {156}{}{Vedi una prostituta. Ha l'aspetto di una che uccide i suoi amanti e se li mangia.}
 {157}{}{Vedi una prostituta. Ti sta valutando come fossi un gioiello.}
 {158}{}{Vedi una prostituta. I suoi abiti consunti le fasciano sensualmente il corpo.}
-{175}{}{Oh my... it's him.}
+{175}{}{Oh mio... e' lui!}
 {176}{}{Sei il piu' grande stallone del mondo.}
 {177}{}{::Sviene::}
 {178}{}{Vai, }
 {179}{}{::Applaude::}
 {180}{}{::Cheers::}
-{181}{}{Oh my... it's her.}
+{181}{}{Oh mio... e' lei. }
 {182}{}{Vai cosi', ragazza mia!}
 {183}{}{::Ti fa il gesto del pollice alzato::}
 {190}{}{Non basterebbero tutti i tuoi soldi per convincermi a farlo con te mentre indossi QUELLA COSA.}
@@ -171,7 +171,7 @@
 {345}{}{Cerchi qualcuno che ti tiri il guinzaglio, Schiavista?}
 {346}{}{Myron continua a farsi vedere da queste parti...}
 {347}{}{La figlia di Bishop e' una vera puledra in calore.}
-{348}{}{She ain't no Jet addict, she's a BONE addict.}
+{348}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {349}{}{L'atmosfera al Cat's Paw si sta scaldando...}
 {350}{}{Ieri notte mi sono allenata per la maratona: dovevo scappare da Myron...}
 {351}{}{Cerchi un po' di TLC, Schiavista?}
@@ -283,7 +283,7 @@
 {457}{}{E' qui la festa, ragazza-schiavista?}
 {458}{}{Quella ragazza schiavista e' davvero sexy.}
 {459}{}{Quella ragazza schiavista fa ticchettare il mio contatore Geiger.}
-{460}{}{I guarantee I'm better in the sack than that robot following you around.}
+{460}{}{Ti garantisco che sono piu' brava a letto io di quel robot che ti segue.}
 {461}{}{Quel robot ha TUTTE le funzioni?}
 {462}{}{E' una specie di slot machine quella cosa che ti sta seguendo?}
 {463}{}{E' per caso una robo-slot machine?}
@@ -364,7 +364,7 @@
 {538}{}{Cosa ti aspetti che faccia? Che mi metta in ginocchio per lui?}
 {539}{}{Continuo a pensare che quell'insegna di Reno finira' per cadere...}
 {540}{}{La figlia di Bishop e' una vera puledra in calore.}
-{541}{}{She ain't no Jet addict, she's a BONE addict.}
+{541}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {542}{}{Ho sentito dire che a Vault City ci sono solo due tipi di Cittadini. Forse si e' trattato di un qualche errore di clonazione.}
 {543}{}{Sono cosi' stanca che mi pare di aver partecipato ad una maratona, la scorsa notte...}
 {544}{}{Cerchi l'amore, tesoro?}
@@ -527,7 +527,7 @@
 {701}{}{Cosa ti aspetti che faccia? Che mi metta in ginocchio per lui?}
 {702}{}{Continuo a pensare che quell'insegna di Reno finira' per cadere...}
 {703}{}{La figlia di Bishop e' una vera puledra in calore.}
-{704}{}{She ain't no Jet addict, she's a BONE addict.}
+{704}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {705}{}{Ho sentito dire che a Vault City ci sono solo due tipi di Cittadini. Forse si e' trattato di un qualche errore di clonazione.}
 {706}{}{Sono cosi' stanca che mi pare di aver partecipato ad una maratona, la scorsa notte...}
 {707}{}{Cerchi l'amore, tesoro?}
@@ -760,7 +760,7 @@
 {934}{}{Myron e' un vero tormento.}
 {935}{}{AC-DC, B n' D, quel che e'.}
 {936}{}{La figlia di Bishop e' una vera puledra in calore.}
-{937}{}{She ain't no Jet addict, she's a BONE addict.}
+{937}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {938}{}{Ho sentito dire che a Vault City ci sono solo due tipi di Cittadini. Forse si e' trattato di un qualche errore di clonazione.}
 {939}{}{Sono cosi' stanca che mi pare di aver partecipato ad una maratona, la scorsa notte...}
 {940}{}{Cerchi l'amore, tesoro?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron e' un vero tormento.}
 {1109}{}{AC-DC, B n' D, quel che e'.}
 {1110}{}{La figlia di Bishop e' una vera puledra in calore.}
-{1111}{}{She ain't no Jet addict, she's a BONE addict.}
+{1111}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {1112}{}{Ho sentito dire che a Vault City ci sono solo due tipi di Cittadini. Forse si e' trattato di un qualche errore di clonazione.}
 {1113}{}{Sono cosi' stanca che mi pare di aver partecipato ad una maratona, la scorsa notte...}
 {1114}{}{Cerchi l'amore, tesoro?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron e' un vero tormento.}
 {1282}{}{AC-DC, B n' D, quel che e'.}
 {1283}{}{La figlia di Bishop e' una vera puledra in calore.}
-{1284}{}{She ain't no Jet addict, she's a BONE addict.}
+{1284}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {1285}{}{Ho sentito dire che a Vault City ci sono solo due tipi di Cittadini. Forse si e' trattato di un qualche errore di clonazione.}
 {1286}{}{Sono cosi' stanca che mi pare di aver partecipato ad una maratona, la scorsa notte...}
 {1287}{}{Cerchi l'amore, tesoro?}

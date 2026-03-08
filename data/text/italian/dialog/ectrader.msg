@@ -1,8 +1,7 @@
 {100}{}{Un venditore.}
 {101}{}{Willy.}
 {102}{}{Un viscido venditore ambulante.}
-{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
+{103}{}{Salve, amico. Il mio nome e' Willy e ho un affare da proporle. [Sembra stia leggendo da un pezzo di carta e dopo qualche istante ti addormenti.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[Apri intontito gli occhi quando finalmente ti accorgi che qualcuno ti sta dando dei calci.] Beh, e' interessato o no?}
 {106}{}{Interessato in cosa?}

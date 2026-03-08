@@ -48,7 +48,7 @@
 {196}{}{Alcuni di noi erano andati a caccia quando notarono questa nuova fattoria. Ma non era questa la cosa strana. Il giorno dopo, alcuni di noi si recarono a far visita al nostro nuovo vicino, per poi scoprire che laggiu' non c'era anima viva.}
 {197}{}{Continua.}
 {198}{}{Dopo molti mesi passati nel vano tentativo di contattare i proprietari, si decise che la fattoria era stata abbandonata subito dopo esser stata costruita. Cosi', per evitare che i raccolti andassero a male, il giovane Karl ci ando' a vivere.}
-{199}{}{Hmm... }
+{199}{}{Hmmm...}
 {200}{}{E' stato allora che la situazione e' precipitata. Karl comincio' a raccontare storie di strane figure luminose che facevano la guardia ai campi e che nutrivano gli animali durante la notte. Lo prendemmo in giro, credendo che si fosse inventato tutto. Poi, un giorno, Karl smise di farsi vedere in citta'.}
 {201}{}{Che cosa gli e' successo? L'avete cercato?}
 {202}{}{Certo che l'abbiamo fatto! Ci siamo recati alla fattoria non appena abbiamo cominciato a sospettare che fosse successo qualcosa. [Comincia a tremare violentemente.] Orrore. Cadaveri dappertutto. Alcuni erano stati crocifissi, mentre altri erano lasciati a marcire sotto il sole. Ancora oggi, nel bel mezzo della notte, mi sveglio urlando a causa delle terribili immagini che vidi quel giorno.}

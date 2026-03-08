@@ -136,8 +136,8 @@
 {617}{}{Oh, davvero? Fatti sotto, cosi' potro' massacrare a uno a uno tutti i membri della tua famiglia.}
 {620}{}{Molto bene. Adesso devi sceglierti un soprannome...}
 {621}{}{Che ne dice di...}
-{630}{}{(Nods) That is a... good name. Now go speak to Mason. He will have...
-something for you.}
+{630}{}{(Annuisce) Questo e' un... bel nome. Ora vai a parlare con Mason. Lui avra'...
+qualcosa per te.}
 {640}{}{Bentornato, }
 {645}{}{Non ho piu' bisogno dei tuoi servigi, }
 {650}{}{...}

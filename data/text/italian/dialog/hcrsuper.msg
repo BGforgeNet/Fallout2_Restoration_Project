@@ -32,7 +32,7 @@
 {131}{}{[FATTO]}
 {132}{}{D'accordo. Dacci un giorno e lo prepareremo per te.}
 {133}{}{Ottimo... Ci vediamo.}
-{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional should do it. You want it or not?}
+{134}{}{Dubito che riuscirai a fartelo raffinare da qualche altra parte. Il procedimento e' pericoloso... solo un professionista dovrebbe farlo. Vuoi che lo facciamo noi o no?}
 {135}{}{Si'.}
 {136}{}{No.}
 {137}{}{Bene. Allora qui non c'e' nulla per te. Per favore, vattene: abbiamo del lavoro da fare.}

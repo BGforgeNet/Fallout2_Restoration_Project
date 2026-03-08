@@ -26,7 +26,7 @@
 {120}{}{PREDEF.}
 {121}{}{CANC.}
 {122}{}{Influenza velocita' giocatore}
-{123}{}{Pip-Boy speech}
+{123}{}{Voce del PipBoy}
 {201}{}{On}
 {202}{}{Spe.}
 {203}{}{Facile}

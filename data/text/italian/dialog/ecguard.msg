@@ -1,4 +1,4 @@
-{100}{}{You see a scarred traveler.}
+{100}{}{Vedi un viaggiatore con uno sfregio sul volto.}
 {101}{}{Vedi la guardia del mercante.}
 {200}{}{Nessuna arma sfoderata davanti al capo.}
 {201}{}{Nessuno incontra il capo, se armato.}

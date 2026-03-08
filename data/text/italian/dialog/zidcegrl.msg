@@ -32,12 +32,12 @@
 {215}{}{Salve, }
 {216}{}{Se cerchi un po' di compagnia per dopo...}
 {217}{}{Ehi, tu...[fa l'occhiolino]...vuoi giocare un po'?}
-{218}{}{He looks so...[shivers]...dangerous.}
+{218}{}{Sembra cosi'...[trema]...pericoloso.}
 {219}{}{Benvenuto nel nostro casino', }
 {220}{}{Puo' mettere una buona parola con il boss per me?}
 {221}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
 {222}{}{Vuole giocare, signora?}
-{223}{}{She looks so...[shivers]...dangerous.}
+{223}{}{Sembra cosi'...[trema]...pericolosa.}
 {235}{}{Looks like this one's already gambling with his life.}
 {236}{}{Uh, credo che sia entrato nel casino' sbagliato...}
 {237}{}{Se non se ne va prima che lo vedano i ragazzi...}

@@ -35,4 +35,4 @@
 {440}{}{Torr. (Guarda l'unico annuncio che ha un po' di senso.)}
 {450}{}{Ook}
 {460}{}{Un rozzo disegno di un qualcosa che sembrerebbe un brahmin con una grossa 'X' sopra e la parola 'Torr' scarabocchiata sotto. (Non e' esattamente un Lascaux ma il significato e' abbastanza chiaro.)}
-{470}{}{Eruu. (Well, plainly some poor soul named Torr needs help with his brahmin in some way.)}
+{470}{}{Eruu. (Beh, chiaramente un povero tipo di nome Torr ha bisogno di aiuto con i suoi brahmin in qualche modo.)}

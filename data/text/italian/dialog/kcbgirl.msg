@@ -54,7 +54,7 @@
 {177}{}{Ehila', tigre.}
 {178}{}{Ehi, baaaaaby...}
 {179}{}{Va' a parlare con Sally, se vuoi divertirti un po'.}
-{180}{}{Scrub a-dub-dub...}
+{180}{}{A mezzanotte va, la ronda del piacere...}
 {181}{}{Credo proprio tu abbia bisogno di un bel bagno.}
 {182}{}{Oh, un selvaggio; adoro le cose esotiche.}
 {183}{}{I selvaggi non sono il mio tipo, di solito.}

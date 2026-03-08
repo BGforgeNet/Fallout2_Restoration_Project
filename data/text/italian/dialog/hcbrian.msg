@@ -26,7 +26,7 @@
 {125}{}{Se questa centrale funziona davvero con pepite di uranio, allora avete a disposizione abbastanza energia da alimentare questa citta' E New Reno senza che si verifichino cali di tensione. Adesso sputa fuori l'energia che ti ho chiesto.}
 {126}{}{Ma... ma... lui sta male!}
 {127}{}{Ma non c'e' proprio verso di fare un paio di piccole regolazioni?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
+{128}{}{[Guarda in modo accigliato gli indicatori e dice a bassa voce] Sei cattivo.}
 {129}{}{Yup. Ciao!}
 {130}{}{Ehi! Non toccare nulla! Questi sono macchinari delicati! Fuori! Out! Via! Torna a casa!}
 {131}{}{Ooooh! Butunz!}

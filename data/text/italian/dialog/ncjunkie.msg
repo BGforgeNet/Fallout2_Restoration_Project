@@ -285,4 +285,4 @@
 {604}{}{J}
 {605}{}{Dammi del J... ummm...}
 {796}{}{! SEI GRANDE!! E ADESSO, BABY, E ADESSO?!!!}
-{871}{}{ family? Can you set me up with some Jet?}
+{871}{}{ famiglia? Mi puoi passare un po' di Jet?}

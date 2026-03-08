@@ -1,5 +1,5 @@
 {100}{}{Vedi un scienziato piuttosto giovane, con un accenno di calvizie. Sembra assorto nel suo lavoro.}
-{101}{}{You see Crockett, the Hubologist scientist.}
+{101}{}{Vedi Crocket, lo scienziato hubologista.}
 {102}{}{Vedi un scienziato piuttosto giovane, con un accenno di calvizie. Sembra un secchione trasandato.}
 {103}{}{Si'? Che cosa vuoi?}
 {104}{}{Agh. Um. Duur.}
@@ -15,11 +15,11 @@
 {114}{}{Posso pagare.}
 {115}{}{Ti lascero' in vita.}
 {116}{}{Niente. Non importa.}
-{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
+{117}{}{Sono Crocket. Sono uno scienziato e un ripara-tutto. Posso tornare al mio lavoro?}
 {118}{}{No. Ho delle altre domande.}
 {119}{}{Si', certo.}
 {120}{}{Io sviluppo nuove tecnologie e in cambio becco una parte dei privilegi riservati al culto, se capisci cosa intendo.}
-{121}{}{So you're not a Hubologist?}
+{121}{}{Dunque tu non sei Hubologista?}
 {122}{}{Ho capito. Ho delle altre domande.}
 {123}{}{No. Che cosa intendi?}
 {124}{}{Quali nuove tecnologie hai sviluppato?}
@@ -31,8 +31,8 @@
 {130}{}{10.000$? E' fuori di testa! Non ho tutti quei soldi!}
 {131}{}{D'accordo. Ecco a te.}
 {132}{}{Tornero'.}
-{133}{}{::he looks amused::
-Are you really threatening me for this?}
+{133}{}{::sembra divertito::
+Stai davvero minacciandomi per questo?}
 {134}{}{Si'. Fallo o morirai.}
 {135}{}{No, stavo solo scherzando.}
 {136}{}{Lasciamela per un giorno e io faro' il lavoro. Prima che tu vada, devi sapere che ho materiale sufficiente solo per due armature.}
@@ -41,17 +41,17 @@ Are you really threatening me for this?}
 {139}{}{Non sara' facile applicare la mia magia su di essa se non ce l'hai con te. Torna quando l'avrai.}
 {140}{}{Ho delle altre domande.}
 {141}{}{Addio.}
-{142}{}{::he shrugs::
-You want this armor or not? It's $10,000 flat out.}
+{142}{}{::si stringe nelle spalle::
+Vuoi quest'armatura o no? Sono $10.000 prezzo fisso.}
 {143}{}{Tornero'.}
 {144}{}{Bene. Ecco.}
 {145}{}{Questo e' un furto. Assolutamente no.}
-{146}{}{::he looks into your eyes and decides that you're serious::
-Do you have the armor here?}
+{146}{}{::ti guarda negli occhi e decide che fai sul serio::
+Hai l'armatura qui?}
 {147}{}{Si'.}
 {148}{}{No.}
-{149}{}{::he looks into your eyes and decides that you're bluffing::
-Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.}
+{149}{}{::ti guarda negli occhi e decide che stai bluffando::
+Provaci, amico. Ti ritroverai le guardie addosso e non imparerai mai come rinforzare la tua armatura.}
 {150}{}{Bene. Muori, testa quadra.}
 {151}{}{Merda. Hai scoperto il mio bluff.}
 {152}{}{Ti piace bluffare, eh? Vedremo cosa ne pensano le guardie.}

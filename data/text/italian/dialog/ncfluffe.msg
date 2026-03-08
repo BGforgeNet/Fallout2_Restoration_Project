@@ -22,7 +22,7 @@
 {237}{}{Guardate! E' lui!}
 {238}{}{E' }
 {239}{}{Vorrei tanto poter girare una scena con }
-{240}{}{Quel ragazzo ragazzo mi fa bagnare ogni volta che lo vedo.}
+{240}{}{Quel ragazzo mi fa bagnare ogni volta che lo vedo.}
 {241}{}{Quello stallone puo' passarmi lo scolo quando vuole.}
 {242}{}{Hai proprio un bel cobra inguinale.}
 {245}{}{Hai bisogno di qualcosa, }
@@ -38,7 +38,7 @@
 {258}{}{Guarda il cannone di quel carro armato...}
 {259}{}{E' tutto mio...}
 {260}{}{::Sigh::}
-{261}{}{Quel ragazzo ragazzo mi fa bagnare ogni volta che lo vedo.}
+{261}{}{Quel ragazzo mi fa bagnare ogni volta che lo vedo.}
 {262}{}{Hai proprio un bel cobra inguinale.}
 {270}{}{Oh mio... e' lei. }
 {271}{}{Benvenuta nel nostro studio, signora.}
@@ -49,7 +49,7 @@
 {281}{}{Benvenuto nel nostro studio, signore.}
 {282}{}{Sembra cosi'...(trema)...pericoloso.}
 {283}{}{Quello e' un vero *duro*.}
-{284}{}{Quel ragazzo ragazzo mi fa bagnare ogni volta che lo vedo.}
+{284}{}{Quel ragazzo mi fa bagnare ogni volta che lo vedo.}
 {285}{}{Hai proprio un bel cobra inguinale.}
 {290}{}{Oh mio... e' lei. }
 {291}{}{Benvenuta nel nostro studio, signora.}

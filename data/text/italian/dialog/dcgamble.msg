@@ -66,7 +66,7 @@
 {514}{}{Non male.}
 {515}{}{Com'e' potuto succedere?}
 {516}{}{Oops.}
-{517}{}{No whammies, no whammies. Stop!}
+{517}{}{Non portate sfiga, non portate sfiga. Stop!}
 {518}{}{Beh, il gioco non tradisce la sua fama.}
 {519}{}{Mi basta una sola grossa vincita.}
 {520}{}{Forza!}
@@ -86,4 +86,4 @@
 {601}{}{Perche' l'hai fatto?}
 {602}{}{Vattene!}
 {603}{}{Smettila, sono fragile.}
-{604}{}{I wouldn't do that to you.}
+{604}{}{Non ti farei mai una cosa del genere.}

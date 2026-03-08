@@ -1,4 +1,4 @@
-{100}{}{You see a Hubologist guard.}
+{100}{}{Vedi una guardia hubologista.}
 {101}{}{You see a well-armed person with a cruel look in their eyes.}
 {110}{}{Vedi un Hubologista.}
 {111}{}{He is staring at the various computer equipment before him.}

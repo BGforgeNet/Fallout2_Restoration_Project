@@ -41,5 +41,4 @@
 {140}{}{Non sembri in grado di capire quello che facciamo qui.}
 {141}{}{Ha ragione. Non lo capisco perche' non ha alcun *senso*.}
 {142}{}{Ero solo curioso. Grazie dell'aiuto.}
-{143}{}{I am very busy at the moment. Speak to the Sub-Greeting Officer if you
- require assistance.}
+{143}{}{Sono molto impegnata al momento. Rivolgiti al Vice Addetto all’Accoglienza se hai bisogno di assistenza.}

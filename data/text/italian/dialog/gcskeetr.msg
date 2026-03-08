@@ -64,7 +64,7 @@
 {260}{}{Principalmente lavoro su oggetti di vario tipo. Li smonto e poi cerco di rimetterli insieme... se possibile. Funzionano anche meglio di prima... a volte. E poi mi tengo fuori dai guai. Capisci cosa intendo?}
 {261}{}{Credo di si'. Lascia che ti chieda qualcos'altro.}
 {262}{}{Beh, credo sia meglio che anch'io vada in cerca di qualcosa da fare. Ci vediamo.}
-{263}{}{Anything I can help you with?}
+{263}{}{Posso aiutarti in qualcosa?}
 {270}{}{Stai cercando un GECK, eh? Beh, non so con esattezza dove potresti trovarlo, uno di quei cosi. So che Vault City probabilmente ne aveva uno, una volta.}
 {271}{}{Vault City ne aveva uno?}
 {272}{}{Hmm. Beh, lascia che ti chieda qualcos'altro, allora.}
@@ -95,7 +95,7 @@
 {362}{}{Sei un tipo pieno di risposte, eh? Spero che tu sappia anche cosa c'e' nell'aldila', dal momento che ti sto per spedire proprio laggiu' - adesso.}
 {363}{}{Ci dovro' pensare. Addio... per adesso.}
 {370}{}{Vedo che hai uno splendido set di attrezzi, li' con te. Snap-off, giusto? Ti posso dare questo Combinatore di Celle di Carburante, in cambio di quello.}
-{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
+{371}{}{Ehila'! Sei tornato con il mio kit per le riparazioni. Mmm, Snap-off... il migliore. Sei pronto per lo scambio?}
 {372}{}{Affare fatto.}
 {373}{}{Non adesso. Vorrei tenerlo ancora per un po'. Ci vediamo.}
 {380}{}{Questo e' davvero un ottimo affare. Adesso ti bastera' piazzare quell'aggeggio nella tua macchina per farla funzionare.}
@@ -154,14 +154,9 @@
 {627}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
 {630}{}{Vuoi una bella iniezione di energia in quell'arma da mischia? Io posso "sovraccaricartela" per soli }
 {631}{}{Bene.}
-{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye.] Well, this is a mite challengin', but I think I can fix this up real nice
- for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
- workbench and locks it in a really big vise.]}
+{640}{}{[Skeeter prende cio' che gli hai dato e inizia a guardarlo con uno sguardo strano] Beh, non sara' per niente facile, ma credo proprio di poterci fare un bel lavoretto. Aspetta solo un attimo. [Skeeter mette l'arma sul suo tavolo da lavoro e la fissa con un enorme presa.]}
 {641}{}{Okay.}
-{650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
- don't know exactly what he's doing but that weird chuckle and all the pounding are
- making you nervous.]}
+{650}{}{[Mentre aspetti, puoi vedere Skeeter darti le spalle mentre lavora sulla tua arma. Non sai esattamente cosa stia facendo, ma quegli strani rumori e tutti quei colpi di martello ti rendono nervoso.]}
 {651}{}{Aspetta...}
 {660}{}{[Mentre aspetti si odono altri colpi e rumori...]}
 {661}{}{[Fischietti sommessamente e fai delle ombre cinesi sul muro dell'officina di Skeeter...]}

@@ -10,8 +10,8 @@
 {109}{}{Mi dispiace per Chad. Chi e' il nuovo capo?}
 {110}{}{No, grazie.}
 {111}{}{Se stai cercando lavoro devi parlare con Bill, il tipo la' dentro. Den-TRO. Forse lui sara' in grado di capirti. Buona fortuna!}
-{112}{}{Duhhhh...}
-{113}{}{That'd be }
+{112}{}{Duhhh...}
+{113}{}{Sono }
 {114}{}{Si'.}
 {115}{}{No.}
 {116}{}{Tu hai delle domande e forse io ho delle risposte. Che cosa vuoi sapere?}
@@ -43,7 +43,7 @@
 {142}{}{Sei pronto per partire?}
 {143}{}{Grazie. Ecco i tuoi 500$. Se vuoi un altro lavoro, parla con Bill.}
 {144}{}{Stronzo bastardo! Adesso morirai!}
-{145}{}{Umm...}
+{145}{}{Mmmm...}
 {150}{}{, una guardia della carovana.}
 {151}{}{. Sono una guardia delle carovane di Bill. Altro?}
 {152}{}{.}

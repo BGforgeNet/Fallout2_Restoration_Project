@@ -5,7 +5,7 @@
 {104}{}{Le 18:00 sono gia' passate. Adesso devi tornare nel Cortile.}
 {105}{}{Okay. Me ne vado subito.}
 {106}{}{Okay. Me ne vado tra un secondo.}
-{107}{}{I got things to do. I'll go when I'm ready to go.}
+{107}{}{Ho delle cose da fare. Me ne andro' solo quando saro' pronto per farlo.}
 {108}{}{Umag Nak!?! Umag NAK!}
 {109}{}{Bene, mi assicurero' che tu raggiunga il Cortile sano e salvo. Su, andiamo.}
 {110}{}{Okay. Andiamo.}

@@ -72,8 +72,8 @@
 {341}{}{Per quanto tempo dovra' lavorare qui?}
 {350}{}{Deve ancora pagarmi 350$. Se non fosse cosi' pigro e incapace, la cosa sarebbe piu' rapida. Non se ne andra' di qui finche non avra' saldato completamente il suo debito.}
 {351}{}{Sono un sacco di soldi. Credo che rimarra' qui per molto tempo...}
-{360}{}{Well, he may be slow, but he does sort of grow on you after a while. (looks away wistfully)...
-(flustered) Now that's enough jaw flapping; do you need anything else?}
+{360}{}{Be', forse e' lento, ma in qualche modo ti si affeziona col tempo. (guarda altrove con malinconia)...
+(imbarazzata) Ora basta chiacchiere; hai bisogno di qualcos'altro?}
 {361}{}{Vorrei sapere delle altre cose.}
 {362}{}{E se qualcun altro volesse pagare i danni di Sulik?}
 {363}{}{E' tutto, per il momento. Arrivederci.}

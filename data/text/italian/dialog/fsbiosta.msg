@@ -28,15 +28,15 @@
 {127}{}{Programma Xeno.}
 {128}{}{Note recenti sul Personale.}
 {129}{}{Indietro.}
-{130}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative."
-- Dr. Sheng}
+{130}{}{"Il soggetto su cui speravamo di condurre una serie di esperimenti significativi e' scomparso, presumibilmente distrutto o rubato dagli Hubologi. Ulteriori indagini si sono rivelate infruttuose. Fino a quando non verranno ottenuti altri esemplari, questo database rimarra' inoperativo."
+- Dott. Sheng}
 {131}{}{Programma botanico.}
 {132}{}{Programma genetico.}
 {133}{}{Note recenti sul Personale.}
 {134}{}{Indietro.}
-{135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
-Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
-Dr. Long: Recently deceased via FEV serum.}
+{135}{}{Dott. Wong: Nuovo responsabile del Progetto Biologia, oltre alla Ricerca Fisica.
+Dott. Sheng: Responsabile del Progetto Biologia fino a due mesi fa. Un mese di sabbatico con il nuovo "siero di sentienza botanica" e' giustificato; la prolungata assenza rimane un mistero. Il Dott. Wong assume il controllo del Programma Biologia.
+Dott. Long: Recentemente deceduto a causa del siero FEV.}
 {136}{}{Programma botanico.}
 {137}{}{Programma genetico.}
 {138}{}{Programma Xeno.}

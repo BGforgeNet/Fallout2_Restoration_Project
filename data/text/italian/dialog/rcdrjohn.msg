@@ -29,7 +29,7 @@
 {128}{}{Sai una cosa...? Credo che vi faro' uno sconto comitiva, dal momento che siete tutti ridotti male. 100$ per curare l'intero gruppo.}
 {129}{}{Ecco i tuoi soldi, Doc. Rimettici a posto.}
 {130}{}{Al momento non credo che ce lo possiamo permettere. Mi spiace, Doc; magari un'altra volta.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{131}{}{100$, eh? Magari in un secondo momento. Arrivederci, Doc.}
 {132}{}{Sembra che tu non stia molto bene. Posso curare cio' che ti affligge per 100$. Vuoi che ci provi?}
 {133}{}{Il tuo amico non sembra stare molto bene. Credo di poter curare cio' che lo affligge per 100$. Vuoi che ci provi?}
 {134}{}{Spero tu possa fare qualcosa in piu' che provarci soltanto, Doc. Ecco i tuoi soldi.}

@@ -70,7 +70,7 @@
 {169}{}{Hai qualcos'altro?}
 {170}{}{Ho delle altre domande.}
 {171}{}{Addio.}
-{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
+{172}{mcs20}{Qualcuno ha fatto evadere due matti dal carcere della Banca. Trovali. Dimmi dove sono e li rischiaffo dentro.}
 {173}{}{Hai qualcos'altro?}
 {174}{}{Ho delle altre domande.}
 {175}{}{Addio.}

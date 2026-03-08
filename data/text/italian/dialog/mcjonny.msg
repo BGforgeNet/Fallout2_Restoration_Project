@@ -3,7 +3,7 @@
 {102}{}{Capelli biondi, occhi azzurri; il tipico ragazzo americano.}
 {150}{}{Waaaaa!}
 {151}{}{Rivoglio il mio cane!}
-{152}{}{Whimper... }
+{152}{}{Piagnucolio...}
 {153}{}{Straniero!}
 {154}{}{Laddie! Mi sei mancato, piccolo. Grazie per avermi riportato il mio cane.}
 {155}{}{Ciao, non ti ho mai visto da queste parti, prima d'ora.}

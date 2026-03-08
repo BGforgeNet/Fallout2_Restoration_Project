@@ -14,9 +14,9 @@
 {113}{}{Scusa, ho sbagliato persona.}
 {114}{}{Muoviti, vattene da qui. Ho gia' abbastanza idioti tra le mie guardie!}
 {115}{}{Sei forse cieco, idiota? Questo e' un recinto di schiavi. Se vuoi saperne di piu', parla con Vortis.}
-{116}{}{Is that so? Well, I'm sending you back in a body bag.}
+{116}{}{Ah, e' cosi'? Bene, ti rispediro' ai tuoi amici in un sacco nero.}
 {117}{}{Si tratta di Vortis, quel tipo vecchio.}
-{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
+{118}{}{Grazie. Senti, tu mi sembri un ragazzo sveglio. Scommetto che saprai rispondere a un paio di domande.}
 {119}{}{Il vecchio, eh? Okay.}
 {120}{}{Beh, se la metti su questo piano, non posso davvero dire di no. Che cosa vuoi sapere?}
 {121}{}{Grazie, straniero.}
@@ -42,7 +42,7 @@
 {141}{}{L'Enclave.... sai, c'e' un dottore in citta', che di nome fa Henry. Una notte, quand'era ubriaco, ha cominciato a parlare di alcuni tizi che lui chiamava l'Enclave.}
 {142}{}{Questo e' proprio quello che mi serviva sapere. Sei un uomo davvero ben informato.}
 {143}{}{Non voglio disturbarti oltre. Grazie.}
-{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
+{144}{}{Dal canto mio, io sono sempre attento a queste cose - il problema e' che nessuno vuole piu' assumere uno schiavista. Vortis, il mio capo, e' invischiato in qualcosa top secret. E in citta' l'Associazione Allevatori assume sempre, mentre a Dorothy puo' sempre servire una mano giu' alla centrale elettrica, se sei capace. Si dice che anche il Presidente Tandi stia cercando uno "specialista".}
 {145}{}{Cavoli, sai un sacco di cose. Potrei stare qui tutto il giorno a farti domande.}
 {146}{}{Bene, seguiro' subito queste tracce.}
 {147}{}{Taglierai i loro... sai cosa... per me, okay?}

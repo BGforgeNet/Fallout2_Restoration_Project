@@ -94,7 +94,7 @@
 {305}{}{(Vedi una slot machine. La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci di New Reno. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione. Come la osservi, una delle sue tre finestrelle ti fa l'occhiolino. Dalla fessura per le monete senti provenire una voce gutturale.) *Beh, perbacco! Ehilaaaaaaa', zucchero. Hai voglia di far divertire una ragazza?*}
 {306}{}{(Vedi una slot machine. La sua struttura solida e ruvida e la sua leva dorata scintillano come un dio solare sotto le luci di New Reno. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione. Come la osservi, improvvisamente una profonda voce maschile ti sussurra dalla fessura delle monete.) *Non vedo una ragazza bella come te da tempo... Vuoi tentare la fortuna?*}
 {307}{}{::Ti dai un pizzicotto::}
-{308}{}{Uh... hello?}
+{308}{}{Uhh, ehila'?}
 {309}{}{::Respiri profondamente, te ne vai.::}
 {315}{}{*Sono ancora qui, carina.* (La slot machine abbassa la voce.) *Dai, vieni...vuoi giocare?*}
 {316}{}{*Sohno ancora qui, zuccheroh.* (La slot machine abbassa la voce.) *Sei un gran pezzo d'uomo, lo sai? Vieni, dai... non vuoi mettere qualche monetina dentro di me?*}

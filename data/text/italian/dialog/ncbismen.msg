@@ -42,7 +42,7 @@
 {281}{}{Il tuo Eiacula il Vampiro e' un capolavoro.}
 {282}{}{La tua interpretazione in La Lampo di Aladino e' stata eccezionale.}
 {283}{}{Sono un grande fan del tuo Porka e Onta.}
-{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
+{284}{}{Ho amato alla follia "Luci Rosse nel Vault". Davvero intenso. Un vero tour-de-force cinematografico.}
 {285}{}{::Fischia::}
 {295}{}{Desideri forse andare a riempire una fossa vuota giu' al Golgotha, schiavista? Metti via quel ferro.}
 {296}{}{Metti via quell'arma, schiavista, o ti usero' come bersaglio mobile.}
@@ -116,7 +116,7 @@
 {391}{}{Dove ti alleni?}
 {392}{}{Sta' attento al Masticatore. Adora le orecchie.}
 {393}{}{Ti offrirei da bere, se solo non avessi perso tutti i miei soldi puntando sul tuo avversario.}
-{394}{}{Wanna wrestle?}
+{394}{}{Vuoi avvinghiarti con me?}
 {395}{}{Non sembri poi cosi' forte, signor "Gancio Sinistro".}
 {396}{}{Posso vedere i tuoi addominali in flessione?}
 {400}{}{Ho sentito che la signora Bishop ti sta cercando. Occhio, amico.}

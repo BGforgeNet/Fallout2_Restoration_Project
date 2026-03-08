@@ -47,7 +47,7 @@
 {301}{}{Avanti Unwashed! Distruggiamo lo Spammer!}
 {302}{}{A morte lo Spammer!}
 {303}{}{Questo e' per aver minacciato di morte le persone!}
-{304}{}{Now you will die, Grim Reaper.}
+{304}{}{Adesso tu morirai, Grim Reaper.}
 {305}{}{Ti rivolteremo come un calzino!}
 {306}{}{Il tuo brodo primordiale era andato a male.}
 {307}{}{E' l'ora della vendetta!}
@@ -60,14 +60,14 @@
 {314}{}{Proteggiamo il Prescelto dalle idiozie dello Spammer!}
 {315}{}{Prescelto! Unisciti a noi!}
 {316}{}{UNWASHED VENDETTA!}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Non sarai mai un "Unwashed" stupido moccioso!}
 {318}{}{Non hai scampo!}
 {319}{}{Non abbiamo ancora finito!}
 {320}{}{Aspettavo questo giorno da mooooooolto tempo.}
 {400}{}{Questo e' per avermi minacciata!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
+{401}{}{Ne sono certa! Non faresti mai del male ad una ragazza, vero?}
 {402}{}{"La vendetta e' un piatto che va servito freddo."}
-{403}{}{I'm Buffy... you're toast.}
+{403}{}{Io sono Buffy... la tua preferita.}
 {405}{}{Nessuno minaccia Doombot!}
 {406}{}{Acchiappa-Grim!}
 {410}{}{Solo un guanabana ha un sapore simile a questa vittoria...}

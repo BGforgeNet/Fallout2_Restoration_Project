@@ -87,10 +87,10 @@
 {295}{}{Me no minimo! Me grande!}
 {296}{}{Buoni zuccherini! YUM! (mordi i dadi) Ouch! No buoni!}
 {297}{}{What this game? Can you bet Gecko skin? Me got geck... ooooh... pretty lights over there!}
-{298}{}{Bet 5 chips?}
-{299}{}{Bet 15 chips?}
-{300}{}{Bet 25 chips?}
-{301}{}{Bet 50 chips?}
+{298}{}{Scommetti 5 fiches?}
+{299}{}{Scommetti 15 fiches?}
+{300}{}{Scommetti 25 fiches?}
+{301}{}{Scommetti 50 fiches?}
 {302}{}{You Nikki?}
 {303}{}{How you doing, Nikki?}
 {304}{}{Whoa, too rich for my blood. I'm outta here.}
@@ -112,25 +112,25 @@
 {330}{}{Sorry, sir. Better luck next time.}
 {331}{}{Mi spiace, signore. Ritentate, sarete piu' fortunata.}
 {332}{}{Mi spiace. Ritenta, sarai piu' fortunato.}
-{333}{}{You have [C] chips. Keep playing?}
+{333}{}{Hai [C] fiches. Continui a giocare?}
 {334}{}{Smetti di giocare.}
 {335}{}{Smetti di giocare.}
 {340}{}{Winner! Well done, sir!}
 {341}{}{Winner! Well done, ma'am!}
 {342}{}{Winner!}
-{343}{}{You have [C] chips. Keep playing?}
+{343}{}{Hai [C] fiches. Continui a giocare?}
 {344}{}{Smetti di giocare.}
 {345}{}{Smetti di giocare.}
 {350}{}{Winner! You've doubled your money! Well done, sir!}
 {351}{}{Avete vinto! Prendete il doppio dei soldi che avevate puntato. Ben fatto, signora!}
 {352}{}{Hai vinto! Prendi il doppio dei soldi che avevi puntato!}
-{353}{}{You have [C] chips. Keep playing?}
+{353}{}{Hai [C] fiches. Continui a giocare?}
 {354}{}{Smetti di giocare.}
 {355}{}{Smetti di giocare.}
 {360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {361}{}{Avete vinto! Prendete il triplo dei soldi che avevate puntato. La Fortuna ci ha fatto visita, stanotte! Ben fatto, signora!}
 {362}{}{Hai vinto! Prendi il triplo dei soldi che avevi puntato!}
-{363}{}{You have [C] chips. Keep playing?}
+{363}{}{Hai [C] fiches. Continui a giocare?}
 {364}{}{Smetti di giocare.}
 {365}{}{Smetti di giocare.}
 {370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}

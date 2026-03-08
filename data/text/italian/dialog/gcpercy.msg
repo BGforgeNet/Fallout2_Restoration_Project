@@ -18,7 +18,7 @@
 {117}{}{Vorrei comprare o barattare qualcosa. Hai qualcosa da vendermi?}
 {118}{}{Veramente... nulla; stavo solo dando un'occhiata in giro. Ci vediamo.}
 {119}{}{Comprare?}
-{120}{}{Goo? Me va ciao ciao.}
+{120}{}{Guh? Me va ciao, ciao.}
 {121}{}{Volevo solo con-gratta-lammi co' te pe' ave' messo in sesto il nostro reattore atommico. Fa le fusa come un gattino, adesso. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
 {122}{}{Devo essetti riconoscenne pe' ave' riparato il nostro reattore nucleare. Quel dannato d'un Festus e' un buono a nulla. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
 {123}{}{Nun e' successo molto in paese, ultimamenne. Me hanno detto che ieri Wooz ha fregato una Orchidea Nera ad un pivello. Heh, heh, hee. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
@@ -30,7 +30,7 @@
 {129}{}{Hmm, vediamo un po' quel che hai.}
 {130}{}{Fammi dare un'altra occhiata alla tua roba.}
 {131}{}{Mi basta cosi'. Grazie, Percy. Ci vediamo.}
-{132}{}{Oog. Me va ciao ciao.}
+{132}{}{Oog. Me va ciao, ciao.}
 {133}{}{Questa grossa scatola de medicine anni-radiazioni de sicuro nun me serve a nienne. Sono in ritaddo di cicca cenn'anni, pe' usalle. Heh, heh, heee. Prennile pure, di anno in anno sto scoprenno quanto valgano lli amici. Grazie... amico.}
 {134}{}{E' stato un piacere aiutare te e Woody. Grazie per le medicine.}
 {135}{}{Forte: un lavoro facile ricompensato con un sacco di roba. Mi piace.}

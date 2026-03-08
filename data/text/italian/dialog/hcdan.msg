@@ -23,8 +23,8 @@
 {122}{}{No. Non posso farlo.}
 {123}{}{Ti prego. Ti prego. Mia moglie... lei e' tutto per me. Ti prego.}
 {124}{}{Ho detto no!}
-{125}{}{Fine! Fine! Just stop pestering me.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
+{125}{}{D'accordo. D'accordo, adesso smettila di rompere.}
+{126}{}{Ecco i soldi. Ora, ti prego, ti prego, TI PREGO... trova mia moglie e dimmi dove si trova. Forse e' scappata con un altro, magari mi ha lasciato... ma io devo saperlo.	}
 {127}{}{Mi hai convinto, amico. Che aspetto ha?}
 {128}{}{Certo. Faro' del mio meglio.}
 {129}{}{::singhiozza incontrollabilmente per qualche secondo:: Molto bene. Vattene. E sappi che mi hai spezzato il cuore.}
@@ -42,7 +42,7 @@
 {141}{}{Era un gran pezzo di donna senza gambe?}
 {142}{}{Ho trovato un gruppo di cadaveri nei tunnel sotto la citta'. Lei era una di loro. Mi dispiace.}
 {143}{}{Cosa? No! Aveva delle gambe splendide!}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.}
+{144}{}{Oh. Giusto. Beh, adesso non ha piu' delle gambe splendide. E' stata letteralmente massacrata e le sue gambe non ci sono PIU'. E' completamente morta e ha sofferto molto prima di morire.}
 {145}{}{Giusto. Beh, credo di averla trovata nei tunnel sotto la citta'. E' morta. Sono desolato.}
 {146}{}{Grazie per avermelo detto. Credo che andro' a piangere.}
 {147}{}{Certo, va' a piangere, finocchio sfigato.}

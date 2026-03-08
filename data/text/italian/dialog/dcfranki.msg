@@ -20,7 +20,7 @@
 {167}{}{Fa' il tuo lavoro e dammi da bere.}
 {168}{}{Me ne andro', invece.}
 {169}{}{Per il whiskey sono }
-{170}{}{ a shot.}
+{170}{}{ al bicchiere.}
 {171}{}{Eccoti i soldi.}
 {172}{}{Scordatelo! E' troppo!}
 {173}{}{Perche' il tuo whiskey e' molto piu' caro di quello di Becky?}

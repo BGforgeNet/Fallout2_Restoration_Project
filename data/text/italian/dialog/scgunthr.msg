@@ -27,7 +27,7 @@
 {126}{}{Ho sentito che il presidente sta cercando qualcuno per un lavoro.}
 {127}{}{La signora Presidente non concede piu' colloqui riguardanti il Vault 13. Mi dispiace. E' troppo impegnata per ricevere tutti i cercatori che passano da queste parti.}
 {128}{}{Eh? Non capisco.}
-{129}{}{What about a GECK? She might know something about that?}
+{129}{}{E cosa mi dici del GECK? Il presidente potrebbe sapere qualcosa a proposito?}
 {130}{}{Ho sentito parlare di un certo lavoro...}
 {131}{}{Sei inutile. Me ne vado.}
 {132}{}{Allora ti consiglio di leggere la targa sulla statua che c'e' all'esterno. Buona giornata.}

@@ -11,5 +11,5 @@
 {110}{}{Sono in servizio. Non ho tempo per socializzare.}
 {111}{}{Ehi, belle scarpe.}
 {112}{}{Faresti meglio a pensare agli affari tuoi.}
-{113}{}{There you are, sir. Have a good day.}
+{113}{}{Eccoti signore. Buona giornata.}
 {114}{}{There's been an incident. Move along.}

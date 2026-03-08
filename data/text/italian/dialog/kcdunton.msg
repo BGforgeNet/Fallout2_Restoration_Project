@@ -1,5 +1,4 @@
-{100}{}{You see one of two very similar looking men -- they could be twins.
- Both are heavily muscled and have beetling brows.}
+{100}{}{Vedi uno di due uomini molto simili d'aspetto -- potrebbero essere gemelli. Sono entrambi molto muscolosi e hanno la fronte sporgente.}
 {101}{}{Vedi Chuck... o forse Buck... Dunton; si assomigliano talmente tanto che distinguerli e' impossibile.}
 {102}{}{Vedi un uomo alto e molto muscoloso. La sua faccia, sotto una fronte sporgente, e' perennemente deformata da una smorfia da bullo sorridente. E' identico a suo fratello.}
 {110}{}{Faresti meglio a smammare, oppure io e mio fratello ti ridurremo in poltiglia.}

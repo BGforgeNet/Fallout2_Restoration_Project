@@ -30,8 +30,8 @@
 {307}{}{Thanks. See you around.}
 {350}{}{Uff!}
 {351}{}{Woof! Woooof!}
-{352}{}{*scratches self*}
+{352}{}{*Si gratta*}
 {400}{}{Woof! Heh, just kidding. Thanks again for curing me.}
 {500}{}{You cure the Barking Man.}
 {600}{}{*whimper*}
-{601}{}{He looks at you with big, scared eyes.}
+{601}{}{Il pugile ti guarda con occhi terrorizzati}

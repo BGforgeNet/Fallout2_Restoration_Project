@@ -130,7 +130,7 @@
 {1522}{}{Eliminate Dr. Wong without alerting the Shi.}
 {1523}{}{Clear out Dr. Sheng's lab.}
 {1600}{}{Occupati del Deathclaw.}
-{1601}{}{Fix K-9.}
+{1601}{}{Ripara K9.}
 {1602}{}{Recupera il FOB dal comandante della base.}
 {1700}{}{}
 {1800}{}{Kill the beast beneath the church.}

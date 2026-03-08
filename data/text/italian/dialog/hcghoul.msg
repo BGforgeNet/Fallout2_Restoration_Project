@@ -61,7 +61,7 @@
 {160}{}{Broken Hills sara' mai in grado di ricucire lo strappo tra umani e mutanti?}
 {161}{}{Quei due bastardi, Jacob e Aileen, mi hanno sempre trattato come un cittadino di serie B. Che questo gli serva da lezione.}
 {162}{}{Non credo che Broken Hills si riprendera' mai dalla perdita della miniera...}
-{163}{}{All the mutants... dead...}
+{163}{}{Tutti i mutanti... morti...}
 {164}{}{...adesso non sapremo mai se ci sarebbe potuta essere pace tra mutanti e umani...}
 {165}{}{E' venuto il momento di partire e vedere cos'ha da offrire il resto del mondo... non vale la pena riaprire la miniera.}
 {166}{}{Chissa' se esistono altri posti in California dove siano richiesti raffinatori di uranio...}

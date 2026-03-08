@@ -5,7 +5,7 @@
 {4}{}{Caricamento rapido effettuato.}
 {5}{}{Salvataggio rapido effettuato.}
 {6}{}{Demo time limit exceeded.}
-{7}{}{Pip-Boy not available in combat!}
+{7}{}{Il Pipboy non e' accessibile in combattimento!}
 {8}{}{Errore nel salvare l'immagine.}
 {9}{}{INTRO}
 {10}{}{NUOVO}
@@ -17,7 +17,7 @@
 {16}{}{Punti Vita}
 {17}{}{Il sensore di movimento non e' installato.}
 {18}{}{Il sensore di movimento ha esaurito la carica.}
-{20}{}{(C) 1998 Interplay Prod. Tutti i diritti riservati. Traduzione Italiana: Ragfox & Collaboratori bgforge.net }
+{20}{}{Copyright(c) Interplay Productions. Tutti i diritti riservati. }
 {30}{}{Vuoi continuare a giocare?}
 {50}{}{Fallout 2 richiede il CD per funzionare!}
 {100}{}{Errore nel salvataggio della configurazione!}
@@ -43,7 +43,7 @@
 {5001}{}{ha finito le munizioni per}
 {5002}{}{ricarica}
 {6000}{}{Chiedi a proposito di?}
-{7000}{}{You aren't wearing the Pip-Boy!}
+{7000}{}{Non stai indossando il PipBoy!}
 {8000}{}{Sei troppo carico.}
 {8001}{}{%s e' troppo carico.}
 {8500}{}{Guadagni %d punti esperienza per aver utilizzato con successo l'abilita' Escursionista.}

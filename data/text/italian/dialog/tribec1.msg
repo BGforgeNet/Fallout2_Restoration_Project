@@ -81,7 +81,7 @@
 {310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted.
  Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}
 {311}{}{Thanks. You're not so bad yourself.}
-{312}{}{Of course I am. After all, I'm the Chosen One.}
+{312}{}{Certo che lo sono. Dopotutto, sono il Prescelto.}
 {320}{}{[Krom gives you a strange grin.] The God's know you've done wonders for me, girl, but perhaps you'd be interested
  in assisting the rest of the tribe?}
 {321}{}{Sure, I suppose I could help out a bit. What would you like me to do?}

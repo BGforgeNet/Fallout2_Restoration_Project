@@ -46,7 +46,7 @@
 {271}{}{L'ultimo tuo incontro e' stato qualcosa di epico, chica.}
 {272}{}{Dove ti alleni, eh? Ti serve un assistente?}
 {273}{}{Fa' attenzione al Masticatore. Gli piace mangiare le orecchie… e' completamente schizzato.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{280}{}{Ehi, ehi, ehi! Chica, vuoi forse costringermi a toglierti quell'arma?}
 {281}{}{Cos'e', vuoi che ti spogli e che ti perquisisca? Su, metti via quell'arnese prima che sia costretto a diventare scortese.}
 {285}{}{Perche' diavolo ti muovi silenziosamente, }
 {290}{}{Con quel corpo che ti ritrovi, chica, e' impossibile che un Mordino non ti noti.}

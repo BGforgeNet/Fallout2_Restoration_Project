@@ -9,8 +9,8 @@
 {108}{}{*Hrnnnnn*}
 {109}{}{Facendo affidamento sulla tua sola forza fisica, riesci a forzare la porta.}
 {110}{}{Wow. Non le hai fatto nemmeno un graffio.}
-{111}{}{BOOM no hurt door.}
+{111}{}{BOOM no male a porta.}
 {112}{}{La porta e' bloccata, non e' chiusa a chiave.}
-{113}{}{Door stuckie not lockie.}
+{113}{}{Porta bloccata no chiusata.}
 {114}{}{La porta non si chiude. E' bloccata.}
 {115}{}{Porta no spostare.}
