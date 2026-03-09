@@ -78,7 +78,7 @@ procedure Node009;
 #define SAVE_TILE        14698
 #define SAVE_TILE1       21282
 #define BADGER_GIRL_TILE 21082
-#define SAVE_ME_TILE     15065
+#define SAVE_ME_TILE     14664
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -106,6 +106,12 @@ procedure combat_p_proc begin
    if (local_var(LVAR_Follow_Dude)) then begin
       script_overrides;
       Follow_Dude(1, 2)
+   end else if (self_elevation == 1 and fixed_param == COMBAT_SUBTYPE_TURN) then begin
+      script_overrides;
+      ndebug("Stays in safe spot");
+      if (self_tile != SAVE_ME_TILE) then begin
+         animate_run_to_tile(SAVE_ME_TILE);
+      end
    end
 end
 
