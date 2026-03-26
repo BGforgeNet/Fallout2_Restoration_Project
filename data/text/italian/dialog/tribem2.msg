@@ -1,2 +1,2 @@
-{100}{}{You enter the western side of the village. Tribals with fishing poles move about.}
+{100}{}{Entri nel lato ovest del villaggio. Tribali con canne da pesca si aggirano.}
 {101}{}{You enter a small cave. You hear a commotion further in the cave.}

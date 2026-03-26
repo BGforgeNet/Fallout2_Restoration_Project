@@ -3388,10 +3388,10 @@
 {44549}{}{Eliminazione minaccia in corso.}
 {44560}{}{Target missed.}
 {44561}{}{Sensors indicate enemy target missed.}
-{44562}{}{Negative damage inflicted. Adjusting targeting scanners.}
+{44562}{}{Danno negativo inflitto. Regolazione degli scanner di puntamento in corso.}
 {44563}{}{Enemy missed. Recalibrating targeting sensors.}
-{44564}{}{Error. Malfunction in targeting sensors.}
-{44565}{}{Analyzing firing data... corrections complete.}
+{44564}{}{Errore. Malfunzionamento nei sensori di puntamento.}
+{44565}{}{Analisi dei dati di fuoco... correzioni completate.}
 {44566}{}{Enemy target undamaged.}
 {44800}{}{Ho la testa dura, ma questo mi ha fatto male.}
 {44801}{}{Ho un enorme mal di testa.}
@@ -3548,8 +3548,8 @@
 {70021}{}{Shit! My arm!}
 {70022}{}{Hey, lay off the guns.}
 {70023}{}{Son of a bitch, that hurt!}
-{70030}{}{I'm technically over a hundred and eighty years old, you should feel ashamed.}
-{70031}{}{I'm bleeding... that's not how this is supposed to work.}
+{70030}{}{Tecnicamente ho piu' di centottant'anni, dovresti vergognarti.}
+{70031}{}{Sto sanguinando... non e' cosi' che dovrebbe funzionare.}
 {70032}{}{You can't kill me, I've got the heart of a demon.}
 {70033}{}{Hit me again and I'll knife you in the groin.}
 {70040}{}{You trying to make me a gimp?}
@@ -3567,30 +3567,30 @@
 {70070}{}{FUCK!}
 {70071}{}{You just made this REAL personal.}
 {70072}{}{Oh, you're going to regret that.}
-{70073}{}{That's top of the line pre-war tech you're fucking with.}
-{70074}{}{Jealous?}
-{70075}{}{Whoa! Whoa! Whoa! That was uncalled for!}
+{70073}{}{Quella con cui stai giocando e' tecnologia prebellica di altissimo livello.}
+{70074}{}{Geloso?}
+{70075}{}{Ehi! Ehi! Ehi! Questo era del tutto immotivato!}
 {70100}{}{Look, this was all just a big misunderstanding.}
 {70101}{}{I'm sorry alright, now leave me alone.}
 {70102}{}{Fuck this, I'm outta' here.}
 {70103}{}{I'll come back later and knife you in your sleep.}
 {70104}{}{It was just a joke.}
 {70105}{}{I'm terribly sorry, I don't know what came over me.}
-{70106}{}{They made me do it, I swear!}
-{70107}{}{Let me live and I'll never kill again, I promise!}
+{70106}{}{Mi hanno costretto, lo giuro!}
+{70107}{}{Lasciami vivere e non uccidero' mai piu', lo prometto!}
 {70108}{}{Can't we just talk this over like civilized people?}
 {70120}{}{Oh, I'm going to enjoy this.}
 {70121}{}{I can't wait to hear some screams.}
 {70122}{}{I've been just itching to kill...}
-{70123}{}{Time to indulge in the joys of an unpoliced society.}
-{70124}{}{Alright! Groin shot time!}
+{70123}{}{E' ora di indulgere nelle gioie di una societa' senza polizia.}
+{70124}{}{Va bene! E' ora di un colpo all'inguine!}
 {70140}{}{Urla per me.}
 {70141}{}{Let me get a better look at your blood.}
 {70142}{}{I'll try and make this as painful as possible.}
 {70143}{}{This violence is giving me a hard-on.}
 {70160}{}{What a fuckin' joke.}
 {70161}{}{Holy shit do you suck.}
-{70162}{}{You're lucky you missed. Actually, you're not lucky, cuz I'm still gonna kill you.}
+{70162}{}{Sei fortunato ad aver mancato. Anzi, non sei fortunato, perche' ti uccidero' comunque.}
 {70163}{}{Way to fail, champ.}
 {70200}{}{You best hope that don't leave a scar...}
 {70201}{}{Damn! You chipped my tooth, monkey!}
@@ -3601,59 +3601,59 @@
 {70220}{}{Shit! You got my arm!}
 {70221}{}{Ohh, that stings!}
 {70222}{}{That's gonna leave an ugly smegging bruise.}
-{70230}{}{Ah! Right in my smegging chest!}
+{70230}{}{Ah! Proprio nel mio fottuto petto!}
 {70231}{}{There goes one of my lives...}
 {70232}{}{You missed my heart, monkey!}
 {70240}{}{You can't keep this cat from strutting.}
-{70241}{}{Shit, right in my kneecap!}
+{70241}{}{Merda, proprio nella rotula!}
 {70242}{}{You can't slow me down!}
 {70250}{}{You can't keep this cat from strutting.}
-{70251}{}{Shit, right in my kneecap!}
+{70251}{}{Merda, proprio nella rotula!}
 {70252}{}{You can't slow me down!}
 {70260}{}{Motherfucker hit me in the eyes!}
 {70261}{}{Oh! I think my eye's bleeding!}
 {70262}{}{I miei occhi!}
 {70270}{}{Whoa, no hitting below the belt.}
-{70271}{}{Going for the groin's not cool. Not cool at all.}
-{70272}{}{Hey now! The groin's off limits.}
-{70273}{}{This cat don't wanna be neutered!}
-{70300}{}{A cat's got to look after himself!}
+{70271}{}{Puntare all'inguine non e' bello. Per niente.}
+{70272}{}{Ehi! L'inguine e' fuori limite.}
+{70273}{}{Questo gatto non vuole essere castrato!}
+{70300}{}{Un gatto deve badare a se stesso!}
 {70301}{}{Screw it, you're not worth it.}
 {70302}{}{Fuck this, I'm outta' here.}
-{70303}{}{Gotta Jet while I've still got a life to spare.}
+{70303}{}{Devo filare finche' ho ancora una vita da perdere.}
 {70304}{}{You won this time, monkey!}
 {70320}{}{Don't worry, this'll be over *real* soon.}
 {70321}{}{This cat's about to pounce!}
 {70322}{}{Let's waste these smegheads.}
-{70340}{}{Hurry up and die so I can go take a nap.}
+{70340}{}{Sbrigatevi a dare un morso, così posso farlo anch'io!}
 {70341}{}{At least I'm killing you with style.}
 {70342}{}{You best not bleed on my clothes. }
 {70343}{}{I better not break a nail. }
 {70360}{}{Looks like this cat's too quick for you.}
 {70361}{}{Now that's just sad.}
 {70362}{}{Here, let me show you how to actually *hit* something.}
-{70363}{}{Hell, I almost feel sorry for you. Almost.}
+{70363}{}{Cavolo, quasi mi dispiace per te. Quasi.}
 {70400}{}{Ah! My head!}
 {70401}{}{I think my ear's bleeding.}
-{70402}{}{Cào! I hope that didn't break my nose.}
+{70402}{}{Cào! Spero che non mi abbia rotto il naso.}
 {70410}{}{Cào! My arm!}
 {70411}{}{Dannazione, che male!}
-{70412}{}{At least it's not broken... I don't think.}
+{70412}{}{Almeno non e' rotto... credo.}
 {70420}{}{Cào! My arm!}
 {70421}{}{Dannazione, che male!}
-{70422}{}{At least it's not broken... I don't think.}
+{70422}{}{Almeno non e' rotto... credo.}
 {70430}{}{I think I broke a rib.}
 {70431}{}{I won't die that easily.}
 {70432}{}{Cào! That hurt!}
 {70440}{}{Not the legs!}
 {70441}{}{Ah! Right in the shin.}
-{70442}{}{That hurt, but at least I can still walk.}
+{70442}{}{Fa male, ma almeno posso ancora camminare.}
 {70450}{}{Not the legs!}
 {70451}{}{Ah! Right in the shin.}
-{70452}{}{That hurt, but at least I can still walk.}
+{70452}{}{Fa male, ma almeno posso ancora camminare.}
 {70460}{}{Cào! My eyes!}
 {70461}{}{Cheap shot!}
-{70462}{}{Hey! I can't afford another eye surgery!}
+{70462}{}{Ehi! Non posso permettermi un'altra operazione agli occhi!}
 {70470}{}{I can't believe you just hit me there.}
 {70471}{}{I'm not that kind of girl!}
 {70472}{}{You just made this *real* personal.}

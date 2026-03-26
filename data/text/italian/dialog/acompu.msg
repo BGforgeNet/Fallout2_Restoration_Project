@@ -2,104 +2,104 @@
 {101}{}{You see the Abbey's computer terminal.}
 {102}{}{You see a small computer terminal. It appears to be functional.}
 {103}{}{You access the computer and scan all available files. You find some files containing the keywords "GECK" and "Vault".}
-{104}{}{Read GECK info.}
+{104}{}{Leggi informazioni GECK.}
 {105}{}{Read Vault info.}
-{106}{}{ERROR! access card not found. Please, insert access card into encryption slot.}
-{107}{}{(You insert the access card into the slot) BEEP!, access card accepted. LOADING Winblows 2075......DONE.}
+{106}{}{ERRORE! Tessera di accesso non trovata. Inserire la tessera di accesso nell'apposito slot.}
+{107}{}{(Inserisci la tessera di accesso nello slot) BIP!, tessera di accesso accettata. CARICAMENTO Winblows 2075......FATTO.}
 {108}{}{Input command.}
-{109}{}{Scan files for any information about GECK or VAULT 13.}
+{109}{}{Scansiona i file per informazioni su GECK o VAULT 13.}
 {110}{}{Access other files.}
-{111}{}{Play Rock Paper Scissors.}
+{111}{}{Gioca a Morra Cinese.}
 {112}{}{Indietro.}
 {113}{}{Esci.}
 {114}{}{[CONTINUA]}
-{115}{}{You find some files containing the keywords "GECK" and "Vault".}
-{116}{}{Browse files pertaining to "GECK".}
-{117}{}{Browse files pertaining to "Vault".}
-{118}{}{The search program seems to be a little too difficult for you.}
-{119}{}{Your eyes widen and your heart quickens as you discover what appears to be an old advertisement for a Garden of Eden
- Creation Kit. The ad depicts a grinning cartoon guy in a vault suit holding up a large case that says, "Survival Kit". It's
- almost as if the smiling bastard is taunting you.}
-{120}{}{You browse over the files, which contain mostly government propaganda for how amazing life in the Vaults would be.
- You learn that in the mid-21st century, the US government commissioned Vault-Tec to construct 122 Vaults across the United States.
- These Vaults were meant to serve as shelters for up to 1,000 US citizens in the event of a nuclear holocaust. Within the safe confines
- of the underground Vaults, the Vault Dwellers could live out a luxurious existence as they await the signal informing them that the
- surface world is once again inhabitable.}
-{121}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. You
- wouldn't even know where to begin searching for something of use.}
-{122}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. Since
- you are skilled in how information is usually stored, perhaps searching by topic would yield something of use.}
+{115}{}{Trovi alcuni file contenenti le parole chiave "GECK" e "Vault".}
+{116}{}{Sfoglia i file riguardanti il "GECK".}
+{117}{}{Sfoglia i file riguardanti il "Vault".}
+{118}{}{Il programma di ricerca sembra essere un po' troppo difficile per te.}
+{119}{}{I tuoi occhi si spalancano e il tuo cuore accelera quando scopri quella che sembra essere una vecchia pubblicita' per un Garden of Eden
+ Creation Kit. La pubblicita' raffigura un personaggio dei cartoni animati sorridente in una tuta da vault che regge una grande custodia con scritto "Kit di Sopravvivenza". E'
+ quasi come se il bastardo sorridente ti stesse prendendo in giro.}
+{120}{}{Sfoglia i file, che contengono per lo piu' propaganda governativa su quanto sarebbe stata meravigliosa la vita nei Vault.
+ Scopri che a meta' del XXI secolo, il governo degli Stati Uniti commissiono' alla Vault-Tec la costruzione di 122 Vault in tutti gli Stati Uniti.
+ Questi Vault erano destinati a fungere da rifugi per un massimo di 1.000 cittadini americani in caso di olocausto nucleare. All'interno dei confini sicuri
+ dei Vault sotterranei, gli Abitanti del Vault avrebbero potuto vivere un'esistenza lussuosa in attesa del segnale che li informasse che
+ il mondo in superficie era di nuovo abitabile.}
+{121}{}{Mentre cerchi nel sistema trovi centinaia di libri e riviste digitalizzati catalogati sull'hard drive. Non sapresti
+ nemmeno da dove iniziare a cercare qualcosa di utile.}
+{122}{}{Mentre cerchi nel sistema trovi centinaia di libri e riviste digitalizzati catalogati sull'hard drive. Dato che
+ sei esperto di come vengono solitamente archiviate le informazioni, forse cercare per argomento potrebbe darti qualcosa di utile.}
 {123}{}{[AVANTI]}
-{124}{}{According to the ad, the kit includes a "Base Replicator Unit", which "replicates food and basic items needed for building
- your new world", a "Holodisc Reader with Library", which "includes selections from the Library of Congress, complete set of encyclopedias,
- and other life saving information, all contained on four-hundred and sixty handy holodiscs!" and it even contains a "Miniature Pen Flashlight!"
- Surely, this miracle device is exactly what you need to save your dying village.}
+{124}{}{Secondo la pubblicita', il kit include un "Replicatore di Base", che "replica cibo e oggetti fondamentali necessari per costruire
+ il tuo nuovo mondo", un "Lettore di Holodisc con Biblioteca", che "include selezioni dalla Biblioteca del Congresso, enciclopedie complete,
+ e altre informazioni salvavita, contenute in quattrocentosessanta pratici holodisc!" e contiene persino una "Penna Torcia Tascabile!"
+ Sicuramente, questo miracoloso dispositivo e' esattamente cio' di cui hai bisogno per salvare il tuo villaggio morente.}
 {125}{}{Read more.}
-{126}{}{You continue browsing the files, but the only mention you find of Vault 13, simply states that it's located in California,
- which doesn't help you much.}
+{126}{}{Continui a sfogliare i file, ma l'unica menzione che trovi del Vault 13 afferma semplicemente che si trova in California,
+ il che non ti aiuta molto.}
 {130}{}{Add information.}
 {131}{}{[You have nothing to add.] Back.}
 {132}{}{Input Botony information.}
 {133}{}{Input [Blah] information.}
-{140}{}{Read Help/About file.}
-{141}{}{Congratulations on successfully installing Winblows 2075! This version is the most advanced Winblows version to date.
- With the probability of only one crash per million function calls confirmed, our technicians are confident that Winblows is perfect
- for any corporate environment. The newest addition to Winblows 2075 is an improved and tweaked code base which now only wastes 15%
- of your CPU cycles on background administration as opposed to previous versions which would waste up to 25% of your CPU cycles.
- Of course, much user consideration has been put into this latest release. As with previous versions of Winblows, the common
- commands of Search, Add, Move, Delete, and Format are available to the user.}
-{142}{}{Format file system, including all backup databases on host and networked machines.}
+{140}{}{Leggi il file Guida/Informazioni.}
+{141}{}{Congratulazioni per aver installato con successo Winblows 2075! Questa versione e' la piu' avanzata di Winblows fino ad oggi.
+ Con la probabilita' confermata di un solo crash per milione di chiamate di funzione, i nostri tecnici sono certi che Winblows sia perfetto
+ per qualsiasi ambiente aziendale. La novita' di Winblows 2075 e' una base di codice migliorata che ora spreca solo il 15%
+ dei cicli CPU in amministrazione in background, rispetto alle versioni precedenti che ne sprecavano fino al 25%.
+ Naturalmente, molta attenzione e' stata dedicata all'utente in questa ultima versione. Come nelle versioni precedenti di Winblows, i comandi
+ comuni di Cerca, Aggiungi, Sposta, Elimina e Formatta sono disponibili per l'utente.}
+{142}{}{Formatta il file system, inclusi tutti i database di backup sull'host e sulle macchine in rete.}
 {143}{}{Indietro.}
-{144}{}{Formatting backup database... SUCCESS... Formatting current file system... WAITING... Warning: There has been a catastrophic error.
- Please stand by...}
+{144}{}{Formattazione database di backup... COMPLETATA... Formattazione file system corrente... ATTESA... Attenzione: si e' verificato un errore catastrofico.
+ Attendere prego...}
 {145}{}{Aspetta.}
-{146}{}{...System Error: The operation completed successfully...(A screeching sound begins to emanate from inside the computer and others nearby.}
+{146}{}{...Errore di Sistema: L'operazione e' stata completata con successo...(Un suono stridulo inizia a provenire dall'interno del computer e da quelli vicini.}
 {147}{}{[Walk Away.]}
-{148}{}{Error: No keyboard found. Please press any key to reboot.}
-{150}{}{Uploading Environmental Protection Agency Botany information disk... Upload complete. Have a nice day.}
-{200}{}{Rock, Paper, Scissors V.0.3. Select an option.}
+{148}{}{Errore: Nessuna tastiera trovata. Premere un tasto qualsiasi per riavviare.}
+{150}{}{Caricamento disco informazioni di Botanica dell'Agenzia per la Protezione Ambientale... Caricamento completato. Buona giornata.}
+{200}{}{Sasso, Carta, Forbice V.0.3. Seleziona un'opzione.}
 {201}{}{Select ROCK.}
 {202}{}{Select PAPER.}
-{203}{}{Select SCISSORS.}
+{203}{}{Seleziona FORBICE.}
 {204}{}{Return to main menu.}
-{205}{}{Terminal makes selection.....Calculating.....Terminal wins!}
-{206}{}{Terminal makes selection.....Calculating.....User wins!}
-{207}{}{Terminal makes selection.....Calculating.....Draw!}
-{300}{}{(The computer screen shows various color patterns.)}
+{205}{}{Il terminale fa la sua scelta.....Calcolo.....Il terminale vince!}
+{206}{}{Il terminale fa la sua scelta.....Calcolo.....L'utente vince!}
+{207}{}{Il terminale fa la sua scelta.....Calcolo.....Pareggio!}
+{300}{}{(Lo schermo del computer mostra vari schemi di colori.)}
 {301}{}{Ohhh! Pretty colors.}
 {302}{}{-Allontanati-}
 {400}{}{Read more.}
 {401}{}{Return to menu.}
-{402}{}{Search by topic.}
+{402}{}{Cerca per argomento.}
 {403}{}{Please enter a topic to search for.}
 {404}{}{Science.}
 {405}{}{Repair.}
 {406}{}{Medicine.}
 {407}{}{Weapon Usage.}
-{408}{}{Persuasive Arguments.}
-{410}{}{After a few hours of reading you learn more about the art of science.}
-{411}{}{After a few hours of reading you learn more about the art of repairing machines.}
-{412}{}{After a few hours of reading you learn more about the art of medicine.}
-{413}{}{After a few hours of reading you learn more about the art of defending oneself with a weapon.}
-{414}{}{After a few hours of reading you learn more about the art of persuasion.}
-{420}{}{After a few hours of reading you learn nothing new about the art of science.}
-{421}{}{After a few hours of reading you learn nothing new about the art of repairing machines.}
-{422}{}{After a few hours of reading you learn nothing new about the art of medicine.}
-{423}{}{After a few hours of reading you learn nothing new about the art of firing a gun.}
-{424}{}{After a few hours of reading you learn nothing new about the art of persuasion.}
+{408}{}{Argomenti Persuasivi.}
+{410}{}{Dopo alcune ore di lettura impari di piu' sull'arte della scienza.}
+{411}{}{Dopo alcune ore di lettura impari di piu' sull'arte della riparazione delle macchine.}
+{412}{}{Dopo alcune ore di lettura impari di piu' sull'arte della medicina.}
+{413}{}{Dopo alcune ore di lettura impari di piu' sull'arte di difendersi con un'arma.}
+{414}{}{Dopo alcune ore di lettura impari di piu' sull'arte della persuasione.}
+{420}{}{Dopo alcune ore di lettura non impari nulla di nuovo sull'arte della scienza.}
+{421}{}{Dopo alcune ore di lettura non impari nulla di nuovo sull'arte della riparazione delle macchine.}
+{422}{}{Dopo alcune ore di lettura non impari nulla di nuovo sull'arte della medicina.}
+{423}{}{Dopo alcune ore di lettura non impari nulla di nuovo sull'arte di sparare con un'arma da fuoco.}
+{424}{}{Dopo alcune ore di lettura non impari nulla di nuovo sull'arte della persuasione.}
 {430}{}{Indietro.}
-{500}{}{As you read over more articles, you learn the GECK was developed by Future-Tec, a division of Vault-Tec, and that
- it was standard issue in all Vault-Tec vaults. It was meant to be used upon exiting a Vault, to help re-establish life in
- the harsh environments of a world devastated by nuclear war.}
-{501}{}{Upon further reading, you discover the GECK isn't quite the miracle device the ad made it out to be. The "Base Replicator"
- is actually nothing more than a fertilizer system containing food seeds, soil supplements, and chemicals specifically engineered to
- turn arid wasteland into fertile soil. Its claim that it can "build basic items" actually alludes to new codes it provides for the
- Vault's machines, allowing them to create new items from the dispensers. The GECK also contains schematics for basic force fields
- and the construction of "sand-crete" walls and buildings.}
+{500}{}{Mentre leggi altri articoli, scopri che il GECK e' stato sviluppato dalla Future-Tec, una divisione della Vault-Tec, e che
+ era dotazione standard in tutti i vault della Vault-Tec. Era destinato ad essere usato all'uscita da un Vault, per aiutare a ristabilire la vita
+ negli ambienti ostili di un mondo devastato dalla guerra nucleare.}
+{501}{}{Leggendo oltre, scopri che il GECK non e' proprio il dispositivo miracoloso che la pubblicita' lasciava intendere. Il "Replicatore di Base"
+ non e' altro che un sistema di fertilizzazione contenente semi alimentari, integratori del suolo e sostanze chimiche appositamente progettate per
+ trasformare le aride Lande in terreno fertile. L'affermazione che possa "costruire oggetti di base" allude in realta' ai nuovi codici che fornisce alle
+ macchine del Vault, consentendo loro di creare nuovi oggetti dai distributori. Il GECK contiene anche schemi per campi di forza di base
+ e per la costruzione di muri ed edifici in "sabbia-cemento".}
 {502}{}{[AVANTI]}
-{503}{}{It seems the GECK itself is meant to be disassembled over the course of its use. You read an example of how its cold fusion
- power source is intended be used for main city power production. The GECK even contains instructions on disassembling sections of the
- Vault to create homes and defensive structures for the new community. As you finish reading over the files, you decide that even though
- it's not the magical device the Elder seems to think it is, finding a GECK is still your best option if you hope to save your tribe.}
-{1000}{}{You upload the EPA Botany Holodisk.}
-{2000}{}{You format the Abbey's book databases.}
+{503}{}{Sembra che il GECK stesso sia destinato a essere smontato nel corso del suo utilizzo. Leggi un esempio di come la sua fonte di energia a fusione fredda
+ sia destinata alla produzione di energia per la citta'. Il GECK contiene persino istruzioni per smontare sezioni del
+ Vault per creare case e strutture difensive per la nuova comunita'. Mentre finisci di leggere i file, decidi che anche se
+ non e' il dispositivo magico che l'Anziana sembra credere, trovare un GECK e' ancora la tua migliore opzione se speri di salvare la tua tribu'.}
+{1000}{}{Carichi l'Holodisc di Botanica dell'EPA.}
+{2000}{}{Formatti i database di libri dell'Abbazia.}

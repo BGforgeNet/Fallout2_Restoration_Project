@@ -48,7 +48,7 @@
 {234}{}{Chissa' se posso rivolgergli la parola...}
 {235}{}{Ehi, }
 {236}{}{Se vuoi vincere dei soldi, sei venuto nel posto giusto.}
-{237}{}{Best casino in New Reno. In the WORLD, even.}
+{237}{}{Il miglior casino' di New Reno. Del MONDO, addirittura.}
 {238}{}{Donna Fortuna e' qui da noi, stasera... vincono tutti!}
 {239}{}{Vieni qui, }
 {240}{}{Vuoi bere qualcosa?}
@@ -60,7 +60,7 @@
 {251}{}{Ehi, }
 {252}{}{Ehi, }
 {253}{}{Se vuoi vincere dei soldi, }
-{254}{}{Best casino in New Reno. In the WORLD, even.}
+{254}{}{Il miglior casino' di New Reno. Del MONDO, addirittura.}
 {255}{}{Donna Fortuna e' qui da noi, stasera... vincono tutti!}
 {266}{}{Vieni qui, }
 {267}{}{Vuoi bere qualcosa?}
@@ -70,7 +70,7 @@
 {271}{}{Hey, sweetie...(winks)...you looking to gamble?}
 {272}{}{Hey, sweetie...(smiles)...wanna take a chance?}
 {273}{}{Se vuoi vincere dei soldi, sei venuto nel posto giusto.}
-{274}{}{Best casino in New Reno. In the WORLD, even.}
+{274}{}{Il miglior casino' di New Reno. Del MONDO, addirittura.}
 {275}{}{Donna Fortuna e' qui da noi, stasera... vincono tutti!}
 {276}{}{Vieni qui, e vinci!}
 {277}{}{Vuoi bere qualcosa, tesoro?}
@@ -108,7 +108,7 @@
 {324}{}{5 chips? 'Too rich for your blood?' Girl, you're in the wrong town.}
 {325}{}{5 chips? 'Too rich for your blood?' Girl, you're in the wrong town.}
 {326}{}{Lo faro', grazie.}
-{327}{}{Maybe so, but at least *I* don't live here.}
+{327}{}{Forse, ma almeno *io* non ci vivo.}
 {330}{}{Sorry, sir. Better luck next time.}
 {331}{}{Mi spiace, signore. Ritentate, sarete piu' fortunata.}
 {332}{}{Mi spiace. Ritenta, sarai piu' fortunato.}
@@ -134,72 +134,72 @@
 {364}{}{Smetti di giocare.}
 {365}{}{Smetti di giocare.}
 {370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
-{371}{}{I'm whoever you WANT me to be, sweetheart. Now, you gonna place a bet?}
-{372}{}{I'm whoever you WANT me to be, girlfriend. Now, you gonna place a bet?}
+{371}{}{Sono chiunque tu VOGLIA che io sia, tesoro. Allora, vuoi puntare?}
+{372}{}{Sono chiunque tu VOGLIA che io sia, cara. Allora, vuoi puntare?}
 {373}{}{Place a bet.}
 {374}{}{Yeah. I'm betting you know where Pretty Boy Lloyd is.}
-{375}{}{Yeah, I'm betting you and Pretty Boy Lloyd were both stealing money from Mr. Salvatore. Hard to believe you
- didn't notice him cheating all those times.}
-{376}{}{You know somebody named Pretty Boy Lloyd?}
+{375}{}{Si', scommetto che tu e Pretty Boy Lloyd stavate entrambi rubando soldi al signor Salvatore. Difficile credere che
+ non ti sia accorta di lui che barava tutte quelle volte.}
+{376}{}{Conosci qualcuno di nome Pretty Boy Lloyd?}
 {377}{}{We'll talk later, Nikki.}
 {380}{}{Yeah, I heard he's DEAD. That what you want to hear, killer?! Huh?! Now you gonna place a bet or bullshit me some more?}
 {381}{}{Nope. You gonna place a bet?}
 {382}{}{Place a bet.}
 {383}{}{Yeah. I'm betting you know where Pretty Boy Lloyd is.}
-{384}{}{Yeah, I'm betting you and Pretty Boy Lloyd were both stealing money from Mr. Salvatore. Hard to believe you didn't notice
- Lloyd cheating all those times.}
+{384}{}{Si', scommetto che tu e Pretty Boy Lloyd stavate entrambi rubando soldi al signor Salvatore. Difficile credere che non ti sia accorta
+ che Lloyd barava tutte quelle volte.}
 {385}{}{We'll talk later, Nikki.}
 {390}{}{Then that's a bet you'd LOSE, sweetheart, but if you're as stupid as you are ugly, you'd probably bet anyway. I ain't
  seen that bum since he conned Mr. Salvatore.}
 {391}{}{Then that's a bet you'd lose, sweetheart. I ain't seen that bum since he pulled that swindle on Mr. Salvatore.}
 {392}{}{Then that's a bet you'd lose, girlfriend. I ain't seen that bum since he pulled that swindle on Mr. Salvatore.}
-{393}{}{Maybe you didn't hear me the first time, so for the benefit of the hearing impaired: Where is Lloyd?}
-{394}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
+{393}{}{Forse non mi hai sentito la prima volta, quindi per i non udenti: dov'e' Lloyd?}
+{394}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {395}{}{Fine. We'll talk later, Nikki.}
 {400}{}{Sweetheart, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
 {401}{}{Girlfriend, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
-{402}{}{Nikki, Nikki... I'm losing PATIENCE here. If you don't tell me where Lloyd is, I'm going to lose my temper, too.}
-{403}{}{Nikki, I don't know what happened between you and Lloyd. But guess what? I don't NEED to know. I'll just tell
- Mr. Salvatore what I suspect.}
-{404}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{405}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
+{402}{}{Nikki, Nikki... sto perdendo la PAZIENZA. Se non mi dici dov'e' Lloyd, perdo anche le staffe.}
+{403}{}{Nikki, non so cosa e' successo tra te e Lloyd. Ma sai una cosa? Non ho BISOGNO di saperlo. Diro' semplicemente
+ al signor Salvatore quello che sospetto.}
+{404}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
+{405}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {406}{}{We'll talk later then, Nikki.}
 {410}{}{You touch me, and Mr. Salvatore will skin you alive.}
-{411}{}{Salvatore won't protect you; dealers like you are a chip a dozen. Cut the shit and tell me where Lloyd is or ELSE.}
-{412}{}{Salvatore won't protect you; he's dead. Cut the shit and tell me where Lloyd is or ELSE.}
-{413}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{414}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
+{411}{}{Salvatore non ti proteggera'; mazzieri come te se ne trovano a bizzeffe. Smettila di menare il can per l'aia e dimmi dov'e' Lloyd, o ALTRIMENTI.}
+{412}{}{Salvatore non ti proteggera'; e' morto. Smettila di menare il can per l'aia e dimmi dov'e' Lloyd, o ALTRIMENTI.}
+{413}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
+{414}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {415}{}{We'll talk later then, Nikki.}
 {420}{}{Di cosa stai parlando?}
-{421}{}{Nikki, if you don't tell me everything right now, I'll tell Mr. Salvatore you were in on it, whether you were or not.
- He'll have Mason cut you up seven ways to Sunday, and have your job filled in an hour.}
-{422}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{423}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
+{421}{}{Nikki, se non mi dici tutto adesso, diro' al signor Salvatore che eri coinvolta, che lo fossi o no.
+ Fara' fare a Mason un macello di te, e trovera' qualcuno al tuo posto in un'ora.}
+{422}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
+{423}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {424}{}{We'll talk later then, Nikki.}
 {430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
  something there. Now, if you don't mind, I got to get back to work.}
-{431}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{432}{}{Pretty suspicious that you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
+{431}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
+{432}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {433}{}{We'll talk later then, Nikki.}
 {440}{}{Look, I just STARTED working here, and I can't recognize every card counter and two-bit cheat that walks in.
  I gotta pretty good line on shitheads like you, though.}
-{441}{}{Oh, so that's how you and Lloyd hooked up then?}
-{442}{}{So you just started work, huh? Pretty convenient. Well, that's all I need to know. Tell Lloyd he's a dead man.}
-{443}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
+{441}{}{Oh, quindi e' cosi' che tu e Lloyd vi siete messi insieme?}
+{442}{}{Quindi hai appena cominciato a lavorare, eh? Molto conveniente. Be', e' tutto quello che mi serve sapere. Di' a Lloyd che e' un uomo morto.}
+{443}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {444}{}{We'll talk later then, Nikki.}
 {450}{}{Yeah, you take enough Jet, and everything seems suspicious, don't it?}
-{451}{}{It IS suspicious. You should have had Lloyd pegged for what he was as soon as he walked in this casino.}
-{452}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
+{451}{}{E' DAVVERO sospetto. Avresti dovuto capire che tipo era Lloyd appena e' entrato in questo casino'.}
+{452}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {453}{}{We'll talk later then, Nikki.}
 {460}{}{You get the hell outta here right now. I ain't got nothing else to say to you.}
 {461}{}{I got nothing to say to you. Get out of here.}
-{462}{}{Not now, maybe. We'll talk later though, Nikki. Count on it.}
+{462}{}{Per ora, forse no. Ma parlero' con te piu' tardi, Nikki. Puoi contarci.}
 {470}{}{You talk smooth...but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
 {471}{}{Maybe. Depends on what you got for me.}
 {480}{}{COULD be that Lloyd still has my take, and I ain't sure he's gonna give it to me. So COULD be that - for 500 chips - I
  COULD tell you where his lying ass is hanging out.}
-{481}{}{Done. Here's the 500 chips. Tell me where he is.}
-{482}{}{That's a pretty steep price for a whole bunch of "maybes" and "coulds." I'll find him on my own.}
+{481}{}{Fatto. Ecco i 500 chip. Dimmi dov'e'.}
+{482}{}{E' un prezzo piuttosto alto per un mucchio di "forse" e "potrebbe". Lo trovero' da solo.}
 {483}{}{I don't have enough chips, but I'll be back. You better still be here when I return.}
 {490}{}{(Pockets the money) Check the boiler room in the basement of the Desperado. That's where the son of a bitch was
  going to run if things got hot.}
@@ -207,8 +207,8 @@
 {500}{}{Would you get outta here?! People see us talking like this, then THEY'RE gonna talk. Understand?}
 {501}{}{All right then. Later, Nikki.}
 {510}{}{Go to hell, then! I ain't got nothing else to say to you, EVER.}
-{511}{}{Breaks my heart. Later, Nikki.}
-{600}{}{You bribe Nikki in telling you where Lloyd might be hiding.}
+{511}{}{Mi spezza il cuore. A dopo, Nikki.}
+{600}{}{Corrompi Nikki per farti dire dove potrebbe nascondersi Lloyd.}
 {1210}{}{. Can I help you with... anything?}
 {1214}{}{.}
 {1235}{}{. Che ne dici di giocare un po'?}

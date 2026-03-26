@@ -66,7 +66,7 @@
 {364}{}{Certo. Grazie, Mason.}
 {365}{}{Ce la posso fare. Adesso levati e lasciami lavorare.}
 {366}{}{Mi sono gia' occupato del "problema" Lloyd.}
-{367}{}{Who was the dealer at the table Lloyd won the money from?}
+{367}{}{Chi era il mazziere al tavolo da cui Lloyd ha vinto i soldi?}
 {375}{}{Davvero? Per esempio?}
 {381}{}{E' tutto quello che volevo sapere. Grazie, Mason.}
 {382}{}{E' tutto quello che volevo sapere. Adesso levati e lasciami lavorare, Mason.}
@@ -194,7 +194,7 @@
 {826}{}{Non credo che uccidere ME sia tanto facile quanto avvelenare quel ragazzo...}
 {835}{}{Niente da fare. Il lavoro e' stato cancellato. Vattene.}
 {840}{}{Sono felice che tu sia tornato. Il boss vuole vederti.}
-{900}{}{Her name's Nikki. She's downstairs in the backroom. (Mason stares off into the distance.) Man does she have a perfect ass.}
+{900}{}{Si chiama Nikki. E' al piano di sotto nel retro. (Mason fissa il vuoto.) Cazzo che culo perfetto che ha.}
 {901}{}{Avrei delle altre domande...}
 {1305}{}{.}
 {5735}{}{. Mr. Salvatore mi ha detto della tua promozione. Congratulazioni. Ho della roba per te... vediamo... (ti da' un mucchio di oggetti). Sta' attento con questa roba...}

@@ -59,7 +59,7 @@
 {281}{}{Grazie. Adesso non avro' bisogno di zoppicare fin li' -- anche se mi e' costato 55$. Eccoti i tuoi soldi. Hai qualche domanda alla quale potrei rispondere?}
 {282}{}{Si'. Dimmi cos'e' successo in citta' negli ultimi tempi.}
 {283}{}{No grazie, Bob. Credo di sapere gia' tutto quello che mi serve.}
-{290}{}{All sorts of things going on hereabouts lately. We've got }
+{290}{}{Ultimamente qui intorno succedono un sacco di cose. Abbiamo...}
 {291}{}{Parlami degli attacchi contro i brahmin.}
 {292}{}{Dimmi tutto quello che sai a proposito degli spiriti vaganti.}
 {293}{}{Ratti giganteschi? *Devo* saperne di piu'.}
@@ -113,7 +113,7 @@
 {501}{}{Cosa succede da queste parti?}
 {502}{}{Nulla, grazie.}
 {550}{}{Bob non sembra aver voglia di parlare con te.}
-{2900}{}{Things have slowed down recently. Nothing really to tell ya.}
+{2900}{}{Le cose si sono calmate di recente. Niente di davvero interessante da raccontarti.}
 {2901}{}{brahmin mutilators}
 {2902}{}{walking spirits}
 {2903}{}{gigantical rats}

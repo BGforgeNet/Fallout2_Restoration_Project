@@ -218,7 +218,7 @@
 {1123}{}{Sei un "Picciotto" della famiglia Mordino. Sei ben conosciuto, rispettato e stai benissimo con la coppola.}
 {1124}{}{Sei un "Picciotto" della famiglia Wright. Sei ben conosciuto, rispettato e stai benissimo con la coppola.}
 {1125}{}{La tua dolce meta' non e' piu' con te. Spero tu sia contento.}
-{1126}{}{You are a smoker. They say it'll kill ya, but you're not dead yet. And anyway, it's a good way to look damn cool in a post-apocalyptic world.}
+{1126}{}{Sei un fumatore. Dicono che ti uccidera', ma non sei ancora morto. E comunque, e' un buon modo per sembrare dannatamente figo in un mondo post-apocalittico.}
 {2000}{}{Idolatrato}
 {2001}{}{Amato}
 {2002}{}{Accettato}

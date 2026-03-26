@@ -7,9 +7,9 @@
 {141}{}{Oh mio Dio, e' Bess!}
 {150}{}{Guadagni }
 {151}{}{ punti esperienza per aver recuperato il GECK.}
-{400}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
+{400}{}{Non riesci a capire nulla dal testo, ma le illustrazioni sono piuttosto informative.}
 {600}{}{Something doesn't feel quite right in your stomach.}
-{601}{}{You feel an intense pressure in your stomach.}
-{700}{}{You attach the torn pieces of paper together to yield a list of three passwords.}
+{601}{}{Senti una pressione intensa allo stomaco.}
+{700}{}{Unisci i pezzi di carta strappati per ottenere un elenco di tre password.}
 {900}{}{Something doesn't feel quite right in your stomach.}
-{901}{}{You feel an intense pressure in your stomach.}
+{901}{}{Senti una pressione intensa allo stomaco.}

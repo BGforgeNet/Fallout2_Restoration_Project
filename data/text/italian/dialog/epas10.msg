@@ -1,1 +1,1 @@
-{100}{}{You have reached the EPA's Air, Water, and Power Facility Level.}
+{100}{}{Hai raggiunto il Livello Aria, Acqua ed Energia dell'EPA.}

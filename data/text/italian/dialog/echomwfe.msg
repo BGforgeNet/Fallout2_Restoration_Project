@@ -14,4 +14,4 @@
 {210}{}{Vi prego, non incendiate la casa.}
 {220}{}{Non scocciarmi.}
 {230}{}{Grazie per averci aiutato.}
-{231}{}{I wish there were more people like you in this world.}
+{231}{}{Vorrei che ci fossero piu' persone come te in questo mondo.}

@@ -1,76 +1,74 @@
 {100}{}{You see a small, young man dressed in rags.}
 {101}{}{You see the village shaman.}
-{102}{}{This young man is staring off into the distance. He has a haunted look on his face.}
+{102}{}{Questo giovane fissa l'orizzonte. Ha un'espressione tormentata sul volto.}
 {103}{}{The shaman appears to be much more at ease.}
-{200}{}{[He appears deep in thought. Upon noticing you, he does a startled jump, then quickly regains his composure.] Uh, yes, outworlder? If you come seeking spiritual guidance, I'm afraid I'm not up to it at the moment. Perhaps... perhaps some other time.}
-{201}{}{Huh?! Oh, it's you again. You shouldn't sneak up on people like that. Look, I've got a lot on my mind at the moment. Perhaps I could help you some other time.}
+{200}{}{[Sembra immerso nei pensieri. Quando ti nota, sobbalza, poi si ricompone in fretta.] Uh, si', forestiero? Se cerchi guida spirituale, temo di non essere in grado al momento. Forse... forse un'altra volta.}
+{201}{}{Eh?! Oh, sei di nuovo tu. Non dovresti avvicinarti alla gente di soppiatto cosi'. Senti, ho molte cose per la testa al momento. Forse potrei aiutarti un'altra volta.}
 {202}{}{It seems like something is troubling you. Is there anything I could help you with?}
 {203}{}{I'll come back later.}
-{204}{}{Huh-huh! I skeered yu! Booh!}
-{210}{}{The offer is appreciated, but... No, no, this is a personal matter that I must face on my own.}
-{211}{}{[He contemplates for a moment, then sighs.] This is rather embarrassing to admit but... You see, I've never actually *believed* in spirits, the afterlife, any of it. I know what you're thinking, what good is a shaman that doesn't believe? It's just that, well, it was either this or I take up a spear and hunt geckos with the warriors. Do I look like a warrior to you? Wait, don't answer that.}
+{204}{}{Huh-huh! Io spaventato te! Buuu!}
+{210}{}{Apprezzo l'offerta, ma... No, no, questa e' una questione personale che devo affrontare da solo.}
+{211}{}{[Riflette un momento, poi sospira.] E' piuttosto imbarazzante da ammettere ma... Vedi, non ho mai davvero *creduto* negli spiriti, nell'aldila', in nulla di tutto cio'. So cosa stai pensando: a cosa serve uno sciamano che non crede? E' che, beh, o facevo questo o prendevo una lancia e andavo a caccia di gecko con i guerrieri. Ti sembro un guerriero? Aspetta, non rispondere.}
 {212}{}{So you're a coward and a deceiver. You disgust me.}
-{213}{}{If you don't believe, then how do you tend to the spiritual needs of the village?}
-{220}{}{Oh, I don't blame you. In fact, I disgust myself quite thoroughly. I don't know why I thought you might help me. I certainly don't deserve to be helped. I got myself into this situation, so it's up to me to get myself out of it. Now if you'll excuse me...}
-{221}{}{Hold on there, Captain Pity. Why don't you tell me how exactly you thought I could help you?}
-{222}{}{No. I'm not going to excuse you--I'm going to eliminate you and purge the world of your pathetic existence!}
-{230}{}{Well, up until just recently I was merely the underling of the village shaman. That was easy, I just had to follow his lead. Then he went for a drunken midnight swim in the Great Salt Water and, well, I suddenly found myself promoted. I didn't think it would be so bad. I figured I could just spout off some mystical mumbo-jumbo and everyone would be happy. But no. The very day that I acquire the title of shaman I find myself dealing with something that's way over my head.}
+{213}{}{Se non credi, allora come fai a occuparti dei bisogni spirituali del villaggio?}
+{220}{}{Oh, non ti biasimo. Anzi, faccio abbastanza schifo anche a me stesso. Non so perche' abbia pensato che potessi aiutarmi. Non merito certo aiuto. Mi sono cacciato da solo in questa situazione, quindi tocca a me uscirne. Ora, se vuoi scusarmi...}
+{221}{}{Aspetta un attimo, Capitano Autocommiserazione. Perche' non mi dici esattamente come pensavi che potessi aiutarti?}
+{222}{}{No. Non ti scusero' affatto — ti eliminero' e purghero' il mondo della tua patetica esistenza!}
+{230}{}{Be', fino a poco tempo fa ero solo il sottoposto dello sciamano del villaggio. Era facile, bastava seguire il suo esempio. Poi lui ha deciso di farsi una nuotata notturna ubriaco nella Grande Acqua Salata e, beh, mi sono ritrovato improvvisamente promosso. Pensavo non sarebbe stato cosi' male. Credevo di poter dire qualche sciocchezza mistica e rendere tutti felici. Ma no. Il giorno stesso in cui divento sciamano mi ritrovo a dover affrontare qualcosa che mi supera completamente.}
 {231}{}{Cos'e' successo?}
-{240}{}{There's an *actual* lost spirit roaming the woods just south of the village! It's true, I've seen her with my own eyes--a pretty girl with the blank look of the dead. The sight chilled me to the very core. The moment I saw her I pissed myself and ran as fast as I could. The others expect me to go back and guide her into the mists, but how can I? I'm too petrified to go near her again.}
+{240}{}{C'e' un *vero* spirito perduto che vaga nei boschi a sud del villaggio! E' vero, l'ho vista con i miei occhi — una bella ragazza con lo sguardo vuoto dei morti. La vista mi ha gelato fino al midollo. Appena l'ho vista mi sono pisciato addosso e sono scappato piu' veloce che potevo. Gli altri si aspettano che io torni e la guidi nelle nebbie, ma come potrei? Sono troppo terrorizzato per avvicinarmi di nuovo.}
 {241}{}{So what could I do to help?}
-{242}{}{Unless you got an extra pair of balls laying around that I could pin onto you, I don't know what I could do to help.}
-{250}{}{You could go to her. Try to figure out why she lingers in the mortal realm. She appears in the woods to the south at night. If you could find out anything that could help me, I'd greatly appreciate it.}
-{251}{}{Not my problem. It's time for you to man-up and do your job.}
+{242}{}{A meno che tu non abbia un paio di palle di scorta da attaccarmi addosso, non so proprio come potrei aiutare.}
+{250}{}{Potresti andare tu da lei. Cercare di capire perche' resta nel mondo dei mortali. Appare nei boschi a sud durante la notte. Se riuscissi a scoprire qualcosa che possa aiutarmi, te ne sarei davvero grato.}
+{251}{}{Non e' un mio problema. E' ora che tu ti faccia coraggio e faccia il tuo lavoro.}
 {252}{}{I'll look into it.}
 {260}{}{Did you change your mind? Will you help me with the lost spirit?}
 {261}{}{Like I said before, it's not my problem. Bye.}
-{262}{}{Eh, I suppose I could look into it. I'll let you know what I find out.}
+{262}{}{Eh, suppongo di poterci dare un'occhiata. Ti faro' sapere cosa scopro.}
 {270}{}{You're back. Did you discover anything about the lost spirit?}
 {271}{}{I'm working on it. I'll get back to you.}
-{272}{}{I spoke to--er, listened to--the spirit. It seems she was betrayed and murdered by her lover, someone named Thorg.}
-{280}{}{Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
+{272}{}{Ho parlato... cioe', ho ascoltato lo spirito. Sembra sia stata tradita e uccisa dal suo amante, qualcuno di nome Thorg.}
+{280}{}{Thorg?! Era lo sciamano di cui ero apprendista. Wow, sapevo che fosse un po' stronzo, ma non l'avrei mai preso per un assassino di giovani ragazze. Hmm, immagino che una coscienza sporca spieghi quella nuotata notturna ubriaca che l'ha portato alla morte. Quindi Thorg era un assassino... guarda un po'...}
 {281}{}{So what now?}
-{290}{}{[Heavy sigh.] Now I suppose I have to send her into the mists. I think I'll be able to do it, but I need you to come with me. There's just no way I'd be able to face her alone and none of the others in the village will go--they believe it's an ill omen for a non-shaman to encounter a lost spirit.}
-{291}{}{Nah. I've already done too much for you. You're on your own.}
+{290}{}{[Sospira profondamente.] Ora immagino che tocchi a me mandarla nelle nebbie. Credo di potercela fare, ma ho bisogno che tu venga con me. Non potrei mai affrontarla da solo e nessuno degli altri villaggi verrebbe — credono che sia un cattivo presagio per un non-sciamano incontrare uno spirito perduto.}
+{291}{}{Nah. Ho gia' fatto fin troppo per te. Te la caverai da solo.}
 {292}{}{Don't worry, I'll help you get through this.}
-{293}{}{Okay, I'll do it. But only because it'll be fun to watch you squirm.}
-{300}{}{Please tell me you've reconsidered. You'll come with me to take care of the lost spirit, right?}
+{293}{}{D'accordo, lo faro'. Ma solo perche' sara' divertente vederti contorcerti dalla paura.}
+{300}{}{Ti prego dimmi che ci hai ripensato. Verrai con me a occuparci dello spirito perduto, vero?}
 {301}{}{Wrong. You're on your own. Bye.}
-{302}{}{Okay, I'll do it. But only because it'll be fun to watch you squirm.}
-{310}{}{Oh, shit... oh, shit... No, I can do this... Okay. Nessa?}
+{302}{}{D'accordo, lo faro'. Ma solo perche' sara' divertente vederti contorcerti dalla paura.}
+{310}{}{Oh, merda... oh, merda... No, posso farcela... Okay. Nessa?}
 {311}{}{Ohhh... So cold and alone...}
-{312}{}{Nessa, you must hear my voice. I am calling to you from the mortal world.}
-{313}{}{I... I hear someone! Who is there? }
-{314}{}{I am the shaman of this village. You must enter the mists. There, you will find peace.}
-{315}{}{Yes! Yes I see the mists now. I see spirits beckoning to me.}
-{316}{}{Go to them, Nessa. Go into the mists and join your ancestors.}
+{312}{}{Nessa, devi udire la mia voce. Ti sto chiamando dal mondo dei mortali.}
+{313}{}{Io... io sento qualcuno! Chi c'e'? }
+{314}{}{Io sono lo sciamano di questo villaggio. Devi entrare nelle nebbie. Li' troverai la pace.}
+{315}{}{Si'! Si', ora vedo le nebbie. Vedo gli spiriti che mi chiamano.}
+{316}{}{Va' da loro, Nessa. Entra nelle nebbie e raggiungi i tuoi antenati.}
 {317}{}{I'm not alone anymore.}
-{320}{}{Thank you for helping us rescue Serin. I gave him some herbs to help him rest and ease his pain. Spirits willing, he should be back up and about after a couple days.}
-{330}{}{Let's see here... Oh, excellent. These will work well. Here, take some healing powder for your time. May your ancestors guide you well.}
-{400}{}{Yes, yes, very funny. Now run along. I'm busy.}
-{401}{}{::Turn to leave, then quickly whirl back around:: Booh!}
+{320}{}{Grazie per averci aiutato a salvare Serin. Gli ho dato alcune erbe per aiutarlo a riposare e alleviare il dolore. Se gli spiriti vogliono, dovrebbe rimettersi in piedi tra un paio di giorni.}
+{330}{}{Vediamo qui... Oh, eccellente. Queste andranno bene. Tieni, prendi un po' di polvere curativa per il tuo tempo. Che i tuoi antenati ti guidino bene.}
+{400}{}{Si', si', molto divertente. Ora vai. Sono occupato.}
+{401}{}{::Ti giri per andartene, poi ti volti di scatto:: Buu!}
 {410}{}{Ah! Dammit! Get out of here! Go!}
 {411}{}{Huh-huh! Bu-bye!}
-{420}{}{I told you before, Simple One, go on and leave me be.}
-{500}{}{You've given me the courage I need to serve this village. I can't thank you enough.}
+{420}{}{Te l'ho gia' detto, Sempliciotto, vai e lasciami in pace.}
+{500}{}{Mi hai dato il coraggio di cui avevo bisogno per servire questo villaggio. Non so come ringraziarti abbastanza.}
 {501}{}{I will forever be in your debt.}
-{600}{}{Thank you for helping us rescue Serin. I gave him some herbs to help him rest and ease his pain. He should be back up and about after a couple days.}
+{600}{}{Grazie per averci aiutato a salvare Serin. Gli ho dato alcune erbe per aiutarlo a riposare e alleviare il dolore. Dovrebbe rimettersi in piedi tra un paio di giorni.}
 {601}{}{That's good to hear. Anything else I can do?}
-{602}{}{I'm glad Serin will make it. Take care.}
-{610}{}{Actually, yes, I suppose there is something. Healing Serin has exhausted most of my herb supply. If you could fetch me five Xander Roots and three Broc Flowers, I'd be most grateful.}
-{611}{}{Five Xander Roots and three Broc Flowers, got it. I'll return once I've found them for you.}
-{612}{}{Looks like today's your lucky day. I already have what you're looking for right here. Take em, they're yours.}
-{613}{}{Sorry, but I'm far too busy to go gallivanting through the woods, gathering herbs for you.}
-{614}{}{Why such an exact amount?}
-{620}{}{Because, I'm very... particular about things. It's all about balance, certain numbers... [He frowns.] Look, I
- don't expect you to understand, but that's just the way I am. I need five Xander Roots and three Broc Flowers, no more,
- no less. Will you help me?}
+{602}{}{Sono felice che Serin ce la fara'. Stammi bene.}
+{610}{}{In effetti, si', credo ci sia qualcosa. Curare Serin ha consumato gran parte delle mie erbe. Se potessi portarmi cinque Radici di Xander e tre Fiori di Broc, te ne sarei molto grato.}
+{611}{}{Cinque Radici di Xander e tre Fiori di Broc, capito. Tornero' quando li avro' trovati.}
+{612}{}{Sembra che oggi sia il tuo giorno fortunato. Ho gia' quello che cerchi proprio qui. Prendili, sono tuoi.}
+{613}{}{Mi dispiace, ma sono troppo occupato per andare a spasso nei boschi a raccogliere erbe per te.}
+{614}{}{Perche' una quantita' cosi' precisa?}
+{620}{}{Perche' sono molto... particolare riguardo a certe cose. E' tutta una questione di equilibrio, certi numeri... [Aggronfia la fronte.] Senti, non mi aspetto che tu capisca, ma sono fatto cosi'. Mi servono cinque Radici di Xander e tre Fiori di Broc, non di piu', non di meno. Mi aiuterai?}
 {630}{}{Have you obtained the items I need?}
 {631}{}{Yup, I have everything right here.}
 {632}{}{I'm still looking. Bye.}
-{640}{}{Lets see here... Oh, excellent. These will work well. Here, take some healing powder for your time.}
+{640}{}{Vediamo qui... Oh, eccellente. Queste andranno bene. Tieni, prendi un po' di polvere curativa per il tuo tempo.}
 {641}{}{Grazie. Ciao.}
-{1000}{}{You relieve the Tribe's Shaman of his troubles.}
+{1000}{}{Hai liberato lo sciamano della tribu' dalle sue preoccupazioni.}
 {2000}{}{You deliver the herbs to the Shaman.}
-{3000}{}{I knew you were a great hero all along... The spirits told me so.}
-{3001}{}{I'm glad my healing powders protected you from the Enclave.}
+{3000}{}{Sapevo fin dall'inizio che eri un grande eroe... Me l'hanno detto gli spiriti.}
+{3001}{}{Sono felice che le mie polveri curative ti abbiano protetto dall'Enclave.}

@@ -1,3 +1,3 @@
 {100}{}{You see stairs.}
 {101}{}{You see utility stairs.}
-{200}{}{There appears to have been a cave-in below. You're going to have to find another way.}
+{200}{}{Sembra che ci sia stato un crollo piu' in basso. Dovrai trovare un'altra strada.}

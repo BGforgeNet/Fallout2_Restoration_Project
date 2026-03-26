@@ -204,12 +204,12 @@
 {600}{}{Persino quell'idiota di Torr ha piu' cervello di te, ladro!}
 {601}{}{ Sei pronto ad andare?}
 {700}{}{Hai rubato i brahmin con successo.}
-{702}{}{No, I'll tell you what you have these for. You dress up as "Bug Men" and scare poor old Torr out of his Brahmin, don't you -- don't you?! It all makes sense now. You're just a couple of no good ruffians.}
-{703}{}{[The Dunton brothers' eyes get really wide and the two men begin to fidget uncomfortably.] Yy..yyy... yeah so... what's it to you, tribal? Everyone needs a little extra cash now and then. What's it to you anyway? What are you gonna do about it, huh?}
-{704}{}{I'll tell you what. If you stop stealing brahmin and bothering Torr, then I won't turn you in. All I need is your word, since if it happens again, there won't be any of you left to steal another brahmin. Got it?!}
-{705}{}{[hyuk, hyuk, hyuk] Yeah right, tribal. I think it's about time we teach you what happens to nosy tribals 'round here.}
-{706}{}{Alright Tribal, you win this time. We'll stop, now just leave us alone.}
-{707}{}{You scare the Dunton brothers into never bothering Torr again.}
+{702}{}{No, ti dico io a cosa vi servono. Vi travestite da "Uomini Insetto" e spaventate il povero Torr lontano dai suoi brahmin, vero? Vero?! Ora tutto ha senso. Siete solo due teppisti da quattro soldi.}
+{703}{}{[Gli occhi dei fratelli Dunton si spalancano e iniziano a muoversi nervosamente.] S-s-si... e allora...? Che te ne importa, tribale? A tutti serve qualche soldo extra ogni tanto. Che ti importa, eh? Che pensi di fare, eh?}
+{704}{}{Ti dico questo. Se smettete di rubare brahmin e di tormentare Torr, non vi denuncero'. Mi basta la vostra parola, perche' se succede di nuovo, non restera' abbastanza di voi per rubare un altro brahmin. Chiaro?!}
+{705}{}{[hyuk, hyuk, hyuk] Si, come no, tribale. Credo sia ora di insegnarti cosa succede ai tribali ficcanaso da queste parti.}
+{706}{}{Va bene, Tribale, hai vinto stavolta. Smetteremo, ora lasciaci in pace.}
+{707}{}{Spaventi i fratelli Dunton abbastanza da non infastidire mai piu' Torr.}
 {708}{}{[FATTO]}
 {709}{}{Just leave us alone.}
 {710}{}{Yeah, whatever tribal. Just mind your own business.}

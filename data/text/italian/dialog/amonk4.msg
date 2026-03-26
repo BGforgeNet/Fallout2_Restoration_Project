@@ -8,11 +8,11 @@
 {301}{}{What can you tell me about your order?}
 {302}{}{Barattiamo.}
 {303}{}{Addio.}
-{400}{}{Our holy mission is to collect and preserve the sacred relics of the forgotten past. Anyone is welcome here, as long as they don't damage anything.}
+{400}{}{La nostra sacra missione e' raccogliere e preservare le reliquie del passato dimenticato. Chiunque e' il benvenuto, finche' non danneggia nulla.}
 {401}{}{Who is your leader?}
 {402}{}{What kind of relics?}
-{403}{}{He can be found on the third floor. If you wish to learn more about our order, he is the one to talk to.}
-{404}{}{All sorts, but most of our Memorabilia consist of ancient tomes. So much information can be obtained from those texts. It is our mission to preserve this knowledge so that a future generation may use it to build a new world of peace and joy.}
+{403}{}{Lo trovi al terzo piano. Se vuoi sapere di piu' sul nostro ordine, e' lui quello con cui parlare.}
+{404}{}{Di ogni tipo, ma la maggior parte delle nostre Memorie consiste in antichi tomi. Da quei testi si puo' ricavare moltissima conoscenza. La nostra missione e' preservarla affinche' le generazioni future possano usarla per costruire un nuovo mondo di pace e gioia.}
 {405}{}{Okay.}
 {406}{}{Ok.}
 {500}{}{Smettila!}

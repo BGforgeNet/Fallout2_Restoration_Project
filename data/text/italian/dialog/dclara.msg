@@ -153,12 +153,12 @@
 {618}{}{Faremo meglio ad andarcene in fretta in caso Metzger pensasse che siamo stati noi ad uccidere le sue guardie.}
 {619}{}{Sei mai stato a New Reno? Forse ci dirigeremo la' - o a nord.}
 {650}{}{Okay! Andiamo! Seguitemi!}
-{700}{}{Alright, we took care of the skeleton crew here at the church, but there still is Tyler and his cronies over in the Residential area.
- They should be pretty drunk by now and we can easily catch them off guard. You ready to finish this?}
+{700}{}{Ok, abbiamo sistemato il gruppo rimasto qui alla chiesa, ma ci sono ancora Tyler e i suoi tirapiedi nella zona residenziale.
+ Dovrebbero essere abbastanza ubriachi ormai e possiamo coglierli facilmente di sorpresa. Sei pronto a finire il lavoro?}
 {701}{}{Let me heal first. I'll tell you when I am ready.}
 {702}{}{Andiamo.}
 {710}{}{You ready to take Tyler and his crew out?}
-{720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
+{720}{}{Bene, non allontanarti troppo. Dobbiamo finire tutto stanotte o lo faremo senza di te.}
 {721}{}{I'll be back shortly.}
 {722}{}{Andiamo.}
-{730}{}{We did it. I can't believe it! We're heading back to the church to take charge. Meet us back there for your reward.}
+{730}{}{Ce l'abbiamo fatta. Non ci posso credere! Torniamo alla chiesa per prendere il controllo. Vieni li' per la tua ricompensa.}

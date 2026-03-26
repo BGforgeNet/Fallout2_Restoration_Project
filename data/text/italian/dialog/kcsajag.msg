@@ -80,7 +80,7 @@
 {282}{}{Sono felice di esser stato d'aiuto; ovviamente, i 50$ non mi hanno certo fatto male.}
 {283}{}{Bene, sono sicuro che dormiro' sonni piu' tranquilli sapendo che Klamath non ha piu' nulla da temere dal liquore di Bob.}
 {284}{}{Non me ne frega granche', amico.}
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's }
+{290}{}{Be', vediamo. Ultimamente in citta' succedono un sacco di cose. (conta sulle dita) C'e'...}
 {291}{}{Parlami degli uomini insetto che attaccano i brahmin, per favore.}
 {292}{}{Parlami dei RTF, per favore.}
 {293}{}{Parlami del fantasma, per favore.}
@@ -111,7 +111,7 @@
 {392}{}{Questo e' tutto quello che volevo sapere, per il momento.}
 {2900}{}{Things are pretty quiet around here now, actually.}
 {2901}{}{brahmin-mutilating bugmen}
-{2902}{}{rodents of unusual size}
+{2902}{}{roditori di dimensioni insolite}
 {2903}{}{a walking spirit}
 {2904}{}{a missing trapper}
 {2905}{}{. Klamath's become a real hot spot lately.}

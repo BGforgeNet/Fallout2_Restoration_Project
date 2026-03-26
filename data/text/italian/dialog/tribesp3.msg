@@ -1,1 +1,1 @@
-{100}{}{To the right you see a group of rats feasting on the dead body of a young girl.}
+{100}{}{Alla tua destra vedi un gruppo di topi che banchettano sul cadavere di una giovane ragazza.}

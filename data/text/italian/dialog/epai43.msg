@@ -1,2 +1,2 @@
-{200}{}{The locker refuses to budge. A passcode is required.}
+{200}{}{L'armadietto non si muove di un millimetro. Serve un codice di accesso.}
 {201}{}{You enter the passcode and the locker swings open.}

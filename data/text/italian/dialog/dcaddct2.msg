@@ -2,49 +2,49 @@
 {101}{}{You see a man covered in dirt and filth.}
 {102}{}{You see a woman covered in dirt and filth.}
 {103}{}{Cosa vuoi?}
-{104}{}{I want you and your friends out of this building. It's come to my attention that Mom intends to turn this place
- into an orphanage to get all those homeless children off the streets. And she can't do that with you squatting here.}
-{105}{}{[He snickers uneasily and glances at his fellow squatters for support.] Mom knows the deal. We're not going anywhere
- until she coughs up the money. So unless you brought us a million coins, fuck off.}
-{106}{}{Look, Mom doesn't have that kind of money, and even if she did, she'd never pay you, so just forget it. Why not show
- some decency and go squat someplace else? Those homeless kids need this place a hell of a lot more than you do.}
-{107}{}{Who're you to say who deserves what? We *like* it here. You can't make us leave.}
-{108}{}{Listen, you have two choices: You can either walk out of here on your own two feet, or *I* can remove you -- by dragging
- you out, one corpse at a time.}
-{109}{}{([He exchanges a look with his fellow squatters, then looks back at you and shakes his head.] You can't intimidate us.
- No one's kicking us out of here. We'll fight you for our turf.}
-{110}{}{[He exchanges a look with his fellow squatters, then looks back at you and nods.] OK, you made your point. It's not like
- we hate kids or anything, hell, most of us were homeless kids ourselves. We were just trying to make some money, you know? The
- only jobs around here involve peddling drugs or pain, and we're not into that. [He sighs.] We'll leave, but where do you suggest
- we go? This place is our home.}
+{104}{}{Voglio che tu e i tuoi amici usciate da questo edificio. Ho saputo che Mom vuole trasformare questo posto
+ in un orfanotrofio per togliere quei bambini senzatetto dalle strade. E non puo' farlo finche' voi ci vivete abusivamente.}
+{105}{}{[Ridacchia nervosamente e guarda gli altri abusivi in cerca di supporto.] Mom conosce l'accordo. Non ce ne andiamo
+ finche' non sgancia i soldi. Quindi, a meno che tu non ci abbia portato un milione di monete, vaffanculo.}
+{106}{}{Senti, Mom non ha quei soldi, e anche se li avesse non vi pagherebbe mai, quindi scordatelo. Perche' non mostrate
+ un po' di decenza e andate ad accamparvi da un'altra parte? Quei bambini senzatetto hanno bisogno di questo posto molto piu' di voi.}
+{107}{}{Chi sei tu per decidere chi merita cosa? A *noi* piace stare qui. Non puoi costringerci ad andarcene.}
+{108}{}{Ascolta, hai due scelte: puoi uscire da qui con le tue gambe, oppure posso farlo io -- trascinandoti fuori,
+ un cadavere alla volta.}
+{109}{}{([Scambia uno sguardo con gli altri abusivi, poi ti guarda e scuote la testa.] Non ci intimidisci.
+ Nessuno ci caccia da qui. Combatteremo per il nostro territorio.}
+{110}{}{[Scambia uno sguardo con gli altri abusivi, poi ti guarda e annuisce.] Ok, hai ragione. Non e' che odiamo i bambini,
+ anzi, la maggior parte di noi era un bambino senzatetto. Stavamo solo cercando di fare un po' di soldi, capisci? Qui gli unici lavori
+ riguardano spacciare droga o fare male alla gente, e non e' il nostro stile. [Sospira.] Ce ne andremo, ma dove suggerisci
+ di andare? Questo posto e' casa nostra.}
 {111}{}{I don't know. That's not my problem.}
-{112}{}{I may regret saying this, but if you're serious about wanting jobs, I'm sure Mom could use some help fixing this place up. She's a real nice lady,
- so maybe if you apologize, she'd give you a fair chance to prove you're more than a bunch of lazy opportunists. I'll talk to her about it. But if you try to
- fuck her over, I'll hunt you down and make you pay.}
-{113}{}{Screw this, I changed my mind. We ain't leaving. We're staying right here and fighting.}
-{114}{}{[He exchanges a look with the other squatters and ponders your words.] You know what? That doesn't sound too bad. In fact, that could work out great,
- if you really think Mom will go for it. While you go talk to her, we'll get started on cleaning this place up. Oh, and thanks for being so cool about things.}
+{112}{}{Potrei pentirmene, ma se davvero volete un lavoro, sono sicuro che Mom avrebbe bisogno di aiuto per sistemare questo posto. E' una brava donna,
+ quindi magari, se vi scusate, vi dara' una possibilita' per dimostrare che non siete solo un branco di opportunisti pigri. Parlero' con lei. Ma se provate
+ a fregarla, vi trovero' e ve la faro' pagare.}
+{113}{}{Al diavolo, ho cambiato idea. Non ce ne andiamo. Restiamo qui e combattiamo.}
+{114}{}{[Scambia uno sguardo con gli altri abusivi e riflette sulle tue parole.] Sai una cosa? Non sembra affatto male. Anzi, potrebbe funzionare alla grande,
+ se davvero pensi che Mom accettera'. Mentre vai a parlarle, noi iniziamo a pulire questo posto. Ah, e grazie per essere stato cosi' comprensivo.}
 {115}{}{Lasciamo stare.}
-{116}{}{She's not going to pay you. But I'm here to offer you a new deal: You and your friends walk away from here now, and you get to keep your lives.}
+{116}{}{Non vi paghera'. Ma sono qui per offrirvi un nuovo accordo: tu e i tuoi amici ve ne andate subito, e vi tenete la vita.}
 {117}{}{Alright, well, I gave it a shot. Bye.}
-{120}{}{This is a great idea. We'll get things ready.}
+{120}{}{E' un'ottima idea. Ci prepareremo subito.}
 {200}{}{Eh?}
 {201}{}{This is our turf.}
 {202}{}{You squatting here too?}
 {203}{}{Got anything to eat?}
 {300}{}{You see a man in work clothes.}
 {301}{}{You see a woman in work clothes.}
-{310}{}{Hey, thanks for helping to set this up for us. We'll work hard.}
+{310}{}{Ehi, grazie per averci aiutato a sistemare tutto. Lavoreremo duro.}
 {311}{}{You better. Make sure the children stay out of trouble too.}
 {312}{}{We'll do our best.}
 {313}{}{Addio.}
-{350}{}{Anywhere but here. The Den's a big place, I'm sure you can find somewhere else to crash. Come on, do you really want the children to live on the streets?}
-{351}{}{Nah, you're right, that ain't cool for the children. Alright, we'll pack our things and move out. This place had a leaky roof anyway.}
+{350}{}{Ovunque ma non qui. The Den e' un posto grande, sono sicuro che potete trovare un altro posto dove stare. Dai, volete davvero che quei bambini vivano per strada?}
+{351}{}{No, hai ragione, non e' giusto per i bambini. Va bene, faremo le valigie e ce ne andremo. Tanto questo posto aveva pure il tetto che perdeva.}
 {352}{}{Thanks. This will mean a lot to them. Take care.}
-{353}{}{Nah, that ain't our problem. If Mom thinks it's that important to get those kids off the streets, then she should stop being stingy with her cash and share the
- wealth. Yeah, I've changed my mind, we're staying until she pays up. Now this conversation's over, so you better leave if you know what's good for you.}
-{360}{}{Alright. No need for this to get out of control. I'll leave you alone.}
-{361}{}{Time to clean this place up then. (Attack)}
+{353}{}{No, non e' un nostro problema. Se Mom pensa che sia cosi' importante togliere quei bambini dalla strada, allora dovrebbe smetterla di essere tirchia e condividere
+ la ricchezza. Si', ho cambiato idea, restiamo finche' non paga. Ora la conversazione e' finita, quindi e' meglio che te ne vada se sai cosa e' meglio per te.}
+{360}{}{Va bene. Non c'e' bisogno che la situazione degeneri. Vi lascio in pace.}
+{361}{}{E' ora di ripulire questo posto, allora. (Attacca)}
 {400}{}{Thanks again!}
 {401}{}{We'll work hard.}
 {402}{}{Thanks for being so cool about things.}

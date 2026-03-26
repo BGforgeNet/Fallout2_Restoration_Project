@@ -1,48 +1,48 @@
 {100}{}{Vedi un monaco di mezza eta'.}
 {101}{}{Vedi Fratello Matthew.}
-{102}{}{He is standing at a podium preaching to the citizens of the Abbey.}
-{200}{}{Good people of the Abbey. Take a moment to listen, for I have much to say.}
-{201}{}{Here we collect, the holy relics of an age long past.}
-{202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
-{203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}
-{204}{}{We must guard and care for it, though the flame has gone cold;}
-{205}{}{It could ignite once again, should the wisdom be misused.}
-{206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
-{207}{}{But one day, men shall rise above their desire for destruction.}
-{208}{}{And the Memorabilia will be there, awaiting re-introduction.}
-{209}{}{So we tend to our holy task, lest all that wisdom, we lose.}
-{210}{}{We must preserve and protect it, but never shall we use.}
-{211}{}{So go now my friends, and let your spirits be lifted;}
-{212}{}{For the guardians of knowledge, we have each, been gifted.}
-{213}{}{Now, please take a moment and reflect on what I have said.}
-{224}{}{Now, please take a moment and reflect on what I have said.}
-{300}{}{Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
- spread the word about the importance of preserving the knowledge of the old ones.}
+{102}{}{E' in piedi a un podio a predicare ai cittadini dell'Abbazia.}
+{200}{}{Buona gente dell'Abbazia. Prendetevi un momento per ascoltare, perche' ho molto da dire.}
+{201}{}{Qui raccogliamo le sacre reliquie di un'eta' ormai lontana.}
+{202}{}{Bruciati dal Diluvio di Fiamme, nel buio fummo gettati.}
+{203}{}{Un Memorabilia creeremo, per preservare la saggezza del passato.}
+{204}{}{Dobbiamo custodirlo e preservarlo, anche se la fiamma si e' spenta;}
+{205}{}{Potrebbe divampare di nuovo, se la saggezza venisse usata male.}
+{206}{}{Percio', nessuno dovra' imparare, per timore di un altro Diluvio di Fiamme.}
+{207}{}{Ma un giorno, gli uomini si eleveranno al di sopra del loro desiderio di distruzione.}
+{208}{}{E il Memorabilia sara' li', in attesa di essere reintrodotto.}
+{209}{}{Cosi' ci dedichiamo al nostro sacro compito, affinche' tutta quella saggezza non vada perduta.}
+{210}{}{Dobbiamo preservarlo e proteggerlo, ma mai dovremmo usarlo.}
+{211}{}{Ora andate, amici miei, e lasciate che il vostro spirito si sollevi;}
+{212}{}{Poiche' custodi della conoscenza, ognuno di noi e' stato dotato di un dono.}
+{213}{}{Ora, prendetevi un momento per riflettere su cio' che ho detto.}
+{224}{}{Ora, prendetevi un momento per riflettere su cio' che ho detto.}
+{300}{}{Salve, amico. Non credo di averti mai visto da queste parti. Mi chiamo Fratello Matteo e aiuto
+ a diffondere la parola sull'importanza di preservare la conoscenza degli antichi.}
 {301}{}{E' un piacere conoscerti Matt. Il mio nome e'}
 {302}{}{ sono alla ricerca del sacro GECK.}
 {303}{}{Scusa, devo andare.}
-{400}{}{A GECK, huh? I seem to remember reading something about that during one of my transcribing sessions. So it must
- be in our database, but I'm afraid access to our computers is restricted. However, if you talk to the Abbot, it's
- possible he'll grant you access. It couldn't hurt to try, anyway. Oh, and feel free to browse through our collection
- of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
+{400}{}{Un GECK, eh? Mi sembra di ricordare di aver letto qualcosa in merito durante una delle mie sessioni di trascrizione. Quindi deve
+ essere nel nostro database, ma temo che l'accesso ai nostri computer sia limitato. Tuttavia, se parli con l'Abate, e'
+ possibile che ti conceda l'accesso. Non costa nulla provare, comunque. Oh, e sentiti libero di curiosare tra la nostra collezione
+ di sacre reliquie pre-guerra. Ti chiederei di non danneggiare nulla, ma temo che sia gia' tutto rotto oltre ogni riparazione.}
 {401}{}{Penso proprio di si'. Ho alcune domande pero'.}
 {402}{}{Grazie. Penso che lo faro' ora.}
 {500}{}{Sono a tua disposizione. Cosa vorresti sapere?}
 {501}{}{Cosa puoi dirmi di questo posto?}
-{502}{}{You seem to be very poetic in your preaching. Any reason for this?}
+{502}{}{Sembri molto poetico nelle tue prediche. C'e' un motivo?}
 {503}{}{Non importa. Prenditi cura di te.}
-{600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
- visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
- this old monastery not long after the great Flame Deluge.}
+{600}{}{L'Abbazia e' la casa di chiunque, a patto che non causi problemi. Siamo una comunita' indipendente e riceviamo raramente
+ visitatori come te. La maggior parte di coloro che vedi qui sono discendenti dei fondatori originali che si stabilirono in
+ questo vecchio monastero non molto tempo dopo il grande Diluvio di Fiamme.}
 {601}{}{Continua.}
-{602}{}{The quiet, peaceful quality of this place has made it an appealing home to other travelers that have wandered
- here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
- in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
- fancy ourselves the keepers and guardians of that wisdom.}
+{602}{}{La qualita' tranquilla e pacifica di questo luogo ne ha fatto una casa accogliente per altri viaggiatori che vi sono giunti
+ nel corso degli anni, cercando di fuggire dal buio caos delle Lande. Certo, il vero valore di questo posto risiede
+ nella sua vasta biblioteca. E' piena di antichi tomi contenenti la strana saggezza di un'eta' perduta. Col tempo, ci siamo
+ considerati i custodi e i guardiani di quella saggezza.}
 {603}{}{Molto interessante. Un'altra domanda.}
 {604}{}{Interessante. Beh, devo andare.}
-{700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
- and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
+{700}{}{[L'uomo ride della tua domanda] No, nessun motivo particolare. Ho semplicemente letto molta poesia nel corso della mia vita
+ e mi piace applicarla ai miei insegnamenti. Aiuta a lasciare un impatto maggiore su chi ascolta.}
 {701}{}{Abbastanza giusto. Un'altra domanda.}
 {800}{}{E' bello rivederti.}
 {801}{}{. Cosa posso fare per te?}

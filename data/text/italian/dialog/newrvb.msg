@@ -35,9 +35,9 @@
 {402}{}{-Allontanati-}
 {403}{}{Entra nel Vertibird.}
 {404}{}{Lo lasci stare.}
-{450}{}{[Once you climb inside the cargo hold, the door seals behind you! You attempt to force it open, but it won't
- budge. As you try to think of a way out, you hear the armored soldiers board the Vertibird, which then takes off with
- you trapped inside!]}
+{450}{}{[Una volta salito nel vano di carico, la porta si sigilla dietro di te! Cerchi di forzarla, ma non si
+ muove. Mentre cerchi di trovare una via d'uscita, senti i soldati corazzati salire sul Vertibird, che poi decolla con
+ te intrappolato all'interno!]}
 {451}{}{Uh-oh}
 {452}{}{Oh, merda...}
 {500}{}{Queste casse sono riempite con pesanti cilindri di metallo. A giudicare dalla cura con la quale sono state imballate, sospetti che contengano un qualche tipo di prodotto chimico pericoloso.}

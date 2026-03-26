@@ -7,4 +7,4 @@
 {106}{}{Grazie. Arrivederci.}
 {200}{}{Vedi un delinquente.}
 {201}{}{Vedi un delinquente.}
-{202}{}{I'm here for protection. Talk to the dealer if you wanna buy.}
+{202}{}{Sono qui per protezione. Parla con il venditore se vuoi comprare.}

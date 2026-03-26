@@ -1,4 +1,4 @@
-{100}{}{You stumble and cut yourself on an exposed piece of metal.}
-{101}{}{Some old wires smack you across the face.}
-{102}{}{Your foot falls through the rusted grating. You break free, but hurt your leg in the process.}
-{103}{}{The stench of rust and decay is overbearing. You have trouble breathing freely and hit an exposed rebar. Ouch.}
+{100}{}{Inciampi e ti tagli su un pezzo di metallo esposto.}
+{101}{}{Alcuni vecchi cavi ti colpiscono in faccia.}
+{102}{}{Il tuo piede sfonda la grata arrugginita. Ti liberi, ma ti fai male alla gamba nel processo.}
+{103}{}{Il fetore di ruggine e decomposizione e' opprimente. Hai difficolta' a respirare liberamente e urti un tondino di ferro esposto. Ahi.}

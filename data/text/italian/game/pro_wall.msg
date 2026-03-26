@@ -1807,41 +1807,41 @@
 {179500}{}{Parete}
 {179600}{}{Hatchway}
 {179700}{}{Hatchway}
-{179800}{}{Internal Submarine Wall}
-{179900}{}{Internal Submarine Wall}
-{180000}{}{Internal Submarine Wall}
-{180100}{}{Internal Submarine Wall}
-{180200}{}{External Submarine Wall}
-{180300}{}{External Submarine Wall}
-{180400}{}{External Submarine Wall}
-{180500}{}{External Submarine Wall}
-{180600}{}{External Submarine Wall}
-{180700}{}{External Submarine Wall}
-{180800}{}{External Submarine Wall}
-{180900}{}{External Submarine Wall}
-{181000}{}{External Submarine Wall}
-{181100}{}{External Submarine Wall}
-{181200}{}{Internal Submarine Wall}
-{181300}{}{Internal Submarine Wall}
-{181400}{}{Internal Submarine Wall}
-{181500}{}{External Submarine Wall}
-{181600}{}{External Submarine Wall}
-{181700}{}{External Submarine Wall}
-{181800}{}{External Submarine Wall}
-{181900}{}{External Submarine Wall}
-{182000}{}{External Submarine Wall}
-{182100}{}{External Submarine Wall}
-{182200}{}{External Submarine Wall}
-{182300}{}{External Submarine Wall}
-{182400}{}{Internal Submarine Wall}
-{182500}{}{Internal Submarine Wall}
-{182600}{}{Internal Submarine Wall}
+{179800}{}{Parete interna del sottomarino}
+{179900}{}{Parete interna del sottomarino}
+{180000}{}{Parete interna del sottomarino}
+{180100}{}{Parete interna del sottomarino}
+{180200}{}{Parete esterna del sottomarino}
+{180300}{}{Parete esterna del sottomarino}
+{180400}{}{Parete esterna del sottomarino}
+{180500}{}{Parete esterna del sottomarino}
+{180600}{}{Parete esterna del sottomarino}
+{180700}{}{Parete esterna del sottomarino}
+{180800}{}{Parete esterna del sottomarino}
+{180900}{}{Parete esterna del sottomarino}
+{181000}{}{Parete esterna del sottomarino}
+{181100}{}{Parete esterna del sottomarino}
+{181200}{}{Parete interna del sottomarino}
+{181300}{}{Parete interna del sottomarino}
+{181400}{}{Parete interna del sottomarino}
+{181500}{}{Parete esterna del sottomarino}
+{181600}{}{Parete esterna del sottomarino}
+{181700}{}{Parete esterna del sottomarino}
+{181800}{}{Parete esterna del sottomarino}
+{181900}{}{Parete esterna del sottomarino}
+{182000}{}{Parete esterna del sottomarino}
+{182100}{}{Parete esterna del sottomarino}
+{182200}{}{Parete esterna del sottomarino}
+{182300}{}{Parete esterna del sottomarino}
+{182400}{}{Parete interna del sottomarino}
+{182500}{}{Parete interna del sottomarino}
+{182600}{}{Parete interna del sottomarino}
 {182700}{}{Hatchway}
 {182800}{}{Hatchway}
-{182900}{}{Internal Submarine Wall}
-{183000}{}{Internal Submarine Wall}
-{183100}{}{Internal Submarine Wall}
-{183200}{}{Internal Submarine Wall}
+{182900}{}{Parete interna del sottomarino}
+{183000}{}{Parete interna del sottomarino}
+{183100}{}{Parete interna del sottomarino}
+{183200}{}{Parete interna del sottomarino}
 {183300}{}{Parete}
 {183400}{}{Parete}
 {183500}{}{Glowing Cave Wall}

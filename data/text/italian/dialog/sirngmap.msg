@@ -1,3 +1,3 @@
-{100}{}{There appears to be several Ranger safe houses to the north of NCR. You mark
- their locations in your Pip-Boy.}
-{101}{}{The locations of the safe houses have already been marked in your Pip-Boy.}
+{100}{}{Sembra ci siano diversi rifugi dei Rangers a nord della NCR. Segni
+ le loro posizioni nel tuo Pip-Boy.}
+{101}{}{Le posizioni dei rifugi sono gia' state segnate nel tuo Pip-Boy.}

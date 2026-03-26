@@ -228,7 +228,7 @@
 {20005}{}{Come non detto. Manteniamo la formazione che abbiamo adesso.}
 {20006}{}{Non importa. Non ho bisogno di sapere nulla riguardo al tuo equipaggiamento.}
 {20007}{}{Voglio che tu tolga l'armatura che stai indossando.}
-{30000}{}{Ah, that actually feels good. I feel like I can handle things much better now.}
-{30001}{}{Wow, this feels different. Those heart pills must be working.}
-{30100}{}{Yeah, why not... It'll help me feel like I'm dead.}
+{30000}{}{Ah, questo in effetti fa bene. Mi sembra di riuscire a gestire le cose molto meglio ora.}
+{30001}{}{Wow, questa sensazione e' diversa. Quelle pillole per il cuore devono stare funzionando.}
+{30100}{}{Si', perche' no... Mi aiutera' a sentirmi come se fossi morto.}
 {30300}{}{[Avanti]}

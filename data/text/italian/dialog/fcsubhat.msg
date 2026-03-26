@@ -1,16 +1,16 @@
-{100}{}{This hatch looks odd - unlike the rest of the vessel, it's relatively rust free and has an intricate,
- complicated lock.}
-{200}{}{You struggle with the hatch, but eventually you manage to rip it open. Pieces of the broken lock litter the
- tower and crunch under your boots.}
-{201}{}{You try your best, but the hatch just won't budge. Maybe explosives will help.}
-{202}{}{Looks like the hatch can be opened if you apply enough force. Marcus might help with that.}
+{100}{}{Questo portello sembra strano – a differenza del resto dell'imbarcazione, e' relativamente privo di ruggine e ha una serratura
+ intricata e complessa.}
+{200}{}{Lotti con il portello, ma alla fine riesci a strapparlo. Pezzi della serratura rotta ricoprono la
+ torre e scricchiolano sotto i tuoi stivali.}
+{201}{}{Fai del tuo meglio, ma il portello proprio non si muove. Forse degli esplosivi potrebbero aiutare.}
+{202}{}{Sembra che il portello possa essere aperto applicando abbastanza forza. Marcus potrebbe aiutare con quello.}
 {210}{}{Hey Marcus, can you help me open this hatch?}
 {211}{}{Sure, just give me some room.}
 {212}{}{*hrrrgnnnr*}
-{213}{}{The supermutant struggles to pull the hatch up. For a moment, it looks as if he was about to bust a gut, but
- just then, he rips it open, littering the tower with pieces of the broken lock.}
-{220}{}{You fiddle with the lock for a while and open it. Lockpicking's definitely more than just a hobby for you.}
-{221}{}{You fiddle with the lock, but ultimately give up. There's got to be another way to open the lock.}
+{213}{}{Il supermutante fatica a sollevare il portello. Per un momento sembra che stia per spaccarsi in due, ma
+ proprio allora lo strappa, spargendo pezzi della serratura rotta sulla torre.}
+{220}{}{Trafficchi con la serratura per un po' e la apri. Scassinare e' decisamente piu' di un semplice hobby per te.}
+{221}{}{Trafficchi con la serratura, ma alla fine rinunci. Deve esserci un altro modo per aprirla.}
 {230}{}{The explosion rips open the hatch and the lock, apart from deafening you.}
-{240}{}{You fiddle with the lock for a while and relock it. Lockpicking's definitely more than just a hobby for you.}
-{241}{}{You fiddle with the lock, but ultimately give up. There's got to be another way to relock this.}
+{240}{}{Trafficchi con la serratura per un po' e la richiudi. Scassinare e' decisamente piu' di un semplice hobby per te.}
+{241}{}{Trafficchi con la serratura, ma alla fine rinunci. Deve esserci un altro modo per richiuderla.}

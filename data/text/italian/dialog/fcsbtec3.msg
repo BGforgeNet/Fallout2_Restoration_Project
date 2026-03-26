@@ -2,35 +2,29 @@
 {101}{}{You see a Shi submarine technician.}
 {150}{}{Uh, what are you doing, sneaking around like that?}
 {151}{}{Are you some kind of spy?}
-{200}{}{This is filthy, look at all that rust!}
-{201}{}{I can't fathom why we need to keep this running.}
+{200}{}{E' disgustoso, guarda tutta quella ruggine!}
+{201}{}{Non capisco perche' dobbiamo continuare a far funzionare questa cosa.}
 {202}{}{Those torpedoes are an accident waiting to happen.}
-{300}{}{I don't recall ever seeing you around here, what are you doing in the torpedo room? And who are you anyway?}
-{301}{}{You again? What are you still doing in the torpedo room? And who are you anyway?}
-{302}{}{I'm a last-minute addition to your tech team. Sorry for not informing you earlier. Oh, and I'm here to do some
- maintenance on the torpedoes. They look horrible, an accident waiting to happen!}
-{303}{}{I was added to your roster just recently. I was asked to work with the targeting systems of the torpedoes,
- since they've been acting up recently. I think it might be due to certain uncorrectable flaws in the design of the
- Sungsam motherboards.}
-{304}{}{I'm a repairman, freshly added to your roster. I'm supposed to be doing periodic maintenance on the torpedoes,
- since they look like hell! Look at all that rust! And the propellers look like they're about to fall off!}
+{300}{}{Non ricordo di averti mai visto da queste parti, cosa ci fai nella sala siluri? E chi sei, esattamente?}
+{301}{}{Ancora tu? Cosa ci fai ancora nella sala siluri? E chi sei, esattamente?}
+{302}{}{Sono un'aggiunta dell'ultimo minuto alla vostra squadra tecnica. Scusa se non ti ho avvisato prima. Oh, e sono qui per fare un po' di manutenzione ai siluri. Sembrano terribili, un incidente che aspetta solo di accadere!}
+{303}{}{Sono stato aggiunto alla vostra lista solo di recente. Mi hanno chiesto di lavorare sui sistemi di puntamento dei siluri, visto che ultimamente danno problemi. Credo possa dipendere da certi difetti non correggibili nel design delle schede madri Sungsam.}
+{304}{}{Sono un riparatore, appena aggiunto alla vostra lista. Dovrei fare la manutenzione periodica ai siluri, visto che sono messi malissimo! 
+Guarda tutta quella ruggine! E le eliche sembrano sul punto di staccarsi!}
 {305}{}{Sorry, wrong room.}
-{310}{}{Oh, good to finally have a qualified mechanic on board. I've been meaning to fix these, but I just can't get over
- my fear of those torps. Did you know that they carry enough explosives to turn this entire vessel into finely ground scrap?}
-{311}{}{I'll exercise caution, I promise.}
-{320}{}{They finally sent me a mechanic, after all those weeks of begging...}
-{330}{}{Uh, you don't look like a mechanic. Frankly, I don't think you can tell a spanner from a screwdriver from the
- looks of it, so why don't you go back and help the rest of the guys, instead of loitering in the torpedo room? I don't
- want you to blow us up accidentally.}
+{310}{}{Oh, finalmente un meccanico qualificato a bordo. Volevo sistemarli da tempo, ma non riesco a superare la mia paura di quei siluri. 
+Sapevi che trasportano abbastanza esplosivo da trasformare l'intera nave in rottami finissimi?}
+{311}{}{Faro' attenzione, lo prometto.}
+{320}{}{Finalmente mi hanno mandato un meccanico, dopo tutte quelle settimane a supplicare...}
+{330}{}{Uh, non sembri un meccanico. Sinceramente, non credo tu sappia distinguere una chiave inglese da un cacciavite, a giudicare dall'aspetto. 
+Perche' non torni ad aiutare gli altri invece di bighellonare nella sala siluri? Non voglio che ci fai saltare in aria per sbaglio.}
 {331}{}{Bene, me ne vado.}
-{340}{}{That's all fine and good, but, uh, why are you looking for the console in the torpedo room? It's in the room behind
- you. I need a mechanic, not another technician, so unless you are also a talented repairman, I need you to leave.}
-{341}{}{Actually, yes, I'm also a repairman, with quite a bit of experience in dealing with ancient technology. I believe
- I can handle those torpedoes. I'll get the propellers working properly and make sure they don't turn us into finely ground
- scrap.}
+{340}{}{Tutto bello, ma... perche' stai cercando la console nella sala siluri? E' nella stanza dietro di te. Ho bisogno di un meccanico, non di un altro tecnico, quindi a meno che tu non sia anche un riparatore capace, ho bisogno che tu vada.}
+{341}{}{In realta' si', sono anche un riparatore, con parecchia esperienza nella tecnologia antica. Credo di poter gestire quei siluri. 
+Rimettero' a posto le eliche e mi assicuro che non ci trasformino in rottami finissimi.}
 {342}{}{Bene, me ne vado.}
-{350}{}{Oh, specialists in both fields are not common in the wastelands. I guess I can trust you, so go ahead and fix those
- torpedoes so that I can finally feel a little safer.}
+{350}{}{Oh, specialisti in entrambi i campi non sono comuni nelle Lande. Credo di potermi fidare di te, quindi vai e sistema quei
+ siluri cosi' posso finalmente sentirmi un po' piu' al sicuro.}
 {351}{}{Okay.}
 {360}{}{Hey, I'm busy here.}
 {361}{}{Sorry, I'm working.}

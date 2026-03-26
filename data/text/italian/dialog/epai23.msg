@@ -1,7 +1,7 @@
 {100}{}{Vedi un terminale.}
 {101}{}{You see a forcefield control unit.}
-{200}{}{Forcefield control terminal. Enter command:}
+{200}{}{Terminale di controllo del campo di forza. Inserisci un comando:}
 {201}{}{Disable forcefield.}
 {202}{}{Esci.}
-{203}{}{You fiddle with the interface to no avail. You feel sure you could crack it with higher skills.}
-{204}{}{[After several minutes of tinkering, a countdown of 5 seconds is displayed along with a message.] Releasing specimens...}
+{203}{}{Giocherelli con l'interfaccia senza ottenere nulla. Sei sicuro che potresti violarla con abilita' piu' elevate.}
+{204}{}{[Dopo diversi minuti di tentativi, compare un conto alla rovescia di 5 secondi insieme a un messaggio.] Rilascio dei soggetti in corso...}

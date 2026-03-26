@@ -1,5 +1,5 @@
-{100}{}{After about a quarter of an hour, the rickety motorboat arrives at a rusty conning tower sticking out of the
- water, off the coast of San Francisco. The shallow waters are murky, but you can see the outline of the massive submarine quite clearly.}
-{101}{}{The Shi tech crew quickly disembarks and disappears into the sub.}
-{102}{}{As you get away from the submarine, a massive explosion rips through the air, sending gallons of water in all
- directions. You look back and notice that where a conning tower once stood, there is absolutely nothing now.}
+{100}{}{Dopo circa un quarto d'ora, la motovedetta traballante arriva a una torretta arrugginita che spunta dall'acqua, al largo della costa di San Francisco. 
+Le acque basse sono torbide, ma puoi vedere chiaramente il profilo del gigantesco sottomarino.}
+{101}{}{La squadra tecnica degli Shi sbarca rapidamente e scompare all'interno del sottomarino.}
+{102}{}{Mentre ti allontani dal sottomarino, una massiccia esplosione squarcia l'aria, scagliando litri d'acqua in tutte
+ le direzioni. Ti volti e noti che dove prima c'era una torretta, ora non c'e' assolutamente piu' nulla.}

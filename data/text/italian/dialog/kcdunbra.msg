@@ -1,3 +1,2 @@
-{100}{}{That's strange. These brahmin don't have the same brands on them. It looks like someone clumsily put their
- own brand over whatever was there before.}
-{101}{}{Mmmm... moo-moos' burn marks not same. Look like bad-mans put new one over old ones.}
+{100}{}{Strano. Questi brahmin non hanno gli stessi marchi. Sembra che qualcuno abbia messo goffamente il proprio marchio sopra quello che c'era prima.}
+{101}{}{Mmmm... segni di bruciatura moo-moo non uguali. Sembra che uomini-cattivi messo nuovo sopra vecchio.}

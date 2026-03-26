@@ -123,4 +123,4 @@ Almeno, non senza aiuto. Ma cosa diresti se ti dicessi che ti scorto io?}
 {601}{}{Mi dispiace sentire questo. A presto.}
 {602}{}{E' la vita. Un momento sei in cima al mondo e quello dopo hai la faccia nel fango. Si vive e si impara. Ciao.}
 {610}{}{Immagino che dovro' solo abituarmi a questo posto.}
-{1000}{}{You safely escort Brother Jason to his new home.}
+{1000}{}{Scorti Fratello Jason sano e salvo nella sua nuova casa.}

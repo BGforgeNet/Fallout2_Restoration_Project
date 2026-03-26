@@ -1,23 +1,23 @@
 {100}{}{You see a tired Hubologist guard.}
 {101}{}{He looks pretty bored.}
-{200}{}{(Looks at you with bored eyes) Hey. What brings you all the way down here?}
-{201}{}{I'm here to let you off duty early. I'm on the next guard shift.}
-{202}{}{Ashton sent me to get you. He said he needed to check with you about the recent set of donations.}
+{200}{}{(Ti guarda con aria annoiata) Ehi. Cosa ti porta fin qua giu'?}
+{201}{}{Sono qui per darti il cambio in anticipo. Sono io nel prossimo turno di guardia.}
+{202}{}{Ashton mi ha mandato a chiamarti. Ha detto che doveva parlarti riguardo l'ultimo gruppo di donazioni.}
 {210}{}{Oh, man -- Hey, wait a minute! I've never seen you around before. What are you doing here?}
 {211}{}{I'm a new recruit. I was recently transferred here.}
 {212}{}{Yeah, I was assigned to kill you.}
 {220}{}{Dammit. I don't have time for this crap, my shift's almost over.}
-{221}{}{Look, he seemed pretty pissed. I wouln't keep him waiting.}
-{230}{}{Ah, hell. Fine. Watch over things while I'm gone. I'll be back in a few minutes.}
+{221}{}{Senti, sembrava piuttosto incazzato. Io non lo farei aspettare.}
+{230}{}{Ah, merda. Va bene. Tieni d'occhio tutto mentre sono via. Torno tra qualche minuto.}
 {231}{}{Nessun problema.}
-{240}{}{New recruit, huh? We get those here from time to time. Pretty boring job doing security here if you ask me. It's better than recruitment
- though, so I aint complaining. Good to have you aboard.}
+{240}{}{Nuova recluta, eh? Ogni tanto ne arrivano qui. Lavoro piuttosto noioso fare la sicurezza qui, se vuoi saperlo. Meglio del reclutamento,
+ comunque, quindi non mi lamento. Benvenuto a bordo.}
 {241}{}{Thanks. So, I wouldn't keep Ashton waiting if I were you.}
-{242}{}{I appreciate the welcome. So, interested in getting off shift early?}
-{250}{}{Sure, why the hell not? Nothing exciting happens down here anyway. See you around.}
+{242}{}{Apprezzo il benvenuto. Allora, ti interessa finire il turno in anticipo?}
+{250}{}{Certo, perche' no? Tanto qui non succede mai niente di interessante. Ci si vede.}
 {251}{}{In bocca al lupo.}
-{260}{}{New recruit? Bullshit. Reinforcements are way too rare out here. Sounds like we got a rat on our hands. So long!}
-{300}{}{What the fuck! Aston never asked to see me. I don't know what the hell's going on but there's no record of you being allowed here. Looks to me like we got an intruder on our hands -- Soon to be a dead intruder}
-{400}{}{Woah, what the hell do you think you're doing!? Trying to rob us, right before my eyes... holy shit, you're a dumbass. Finally, I get to kill someone.}
-{401}{}{Woah, what the hell do you think you're doing!? This is private property, so don't be touching any of this stuff. This is your only warning.}
-{402}{}{I warned you. Trying to rob us, right before my eyes... holy shit, you're a dumbass. Finally, I get to kill someone.}
+{260}{}{Nuova recluta? Stronzate. I rinforzi sono troppo rari da queste parti. Sembra che abbiamo un topo tra le mani. Addio!}
+{300}{}{Ma che cazzo! Aston non ha mai chiesto di vedermi. Non so che diavolo stia succedendo ma non c'e' traccia del tuo permesso di stare qui. Mi sembra proprio che abbiamo un intruso tra le mani — presto un intruso morto.}
+{400}{}{Ehi, che diavolo credi di fare!? Cercando di derubarci, proprio davanti ai miei occhi... santo cielo, sei un idiota. Finalmente posso uccidere qualcuno.}
+{401}{}{Ehi, che diavolo credi di fare!? Questa e' proprieta' privata, quindi non toccare nulla. Questo e' il tuo unico avvertimento.}
+{402}{}{Te l'avevo detto. Cercando di derubarci, proprio davanti ai miei occhi... santo cielo, sei un idiota. Finalmente posso uccidere qualcuno.}

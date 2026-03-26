@@ -80,83 +80,76 @@
 {179}{}{Oh, certo... ahem... Posso chiederle qualcos'altro?}
 {180}{}{Oh, certo... Arrivederci.}
 {200}{}{What else can you tell me about the tanker?}
-{210}{}{Even if you could get the NavCom working and the tanker fueled up, you'll still need considerable good fortune
- if you really want the ship to sail again.}
+{210}{}{Anche se riuscissi a far funzionare il NavCom e a rifornire la petroliera, avrai comunque bisogno di una considerevole fortuna se vuoi davvero che la nave torni a navigare.}
 {211}{}{What do you mean by 'considerable good fortune?'}
-{220}{}{I mean, the hunk of junk is older than most ghouls. It would be a miracle if it didn't sink on you. That is all
- I meant.}
-{221}{}{I have a feeling that there's something you're not telling me about the tanker.}
-{230}{}{Perhaps there is. (smiles) Perhaps the wasteland has made you paranoid.}
-{231}{}{Listen, I need to find my tribe. Those bastards who took them are dangerous and need to be stopped.}
-{232}{}{Come on. What's so special about the tanker? We're just two people talking.}
+{220}{}{Voglio dire, quel rottame e' piu' vecchio della maggior parte dei ghoul. Sarebbe un miracolo se non ti affondasse sotto i piedi. E' tutto quello che intendevo.}
+{221}{}{Ho la sensazione che ci sia qualcosa che non mi stai dicendo sulla petroliera.}
+{230}{}{Forse si'. (sorride) Forse la terra desolata ti ha reso paranoico.}
+{231}{}{Senti, ho bisogno di trovare la mia tribu'. Quei bastardi che li hanno presi sono pericolosi e devono essere fermati.}
+{232}{}{Dai. Cosa c'e' di cosi' speciale nella petroliera? Siamo solo due persone che parlano.}
 {233}{}{You sure? I'll make it worth your while.}
 {234}{}{I don't have time for these mind games. Goodbye.}
-{240}{}{Bah. They are nothing. However, it's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
+{240}{}{Bah. Non sono niente. Comunque, non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
 {241}{}{Submarine?}
-{250}{}{Let's talk, then. But there's nothing special about the tanker. I give you my word.}
+{250}{}{Parliamo, allora. Ma non c'e' niente di speciale nella petroliera. Te lo giuro.}
 {251}{}{What if I paid you to tell me?}
-{260}{}{Hmm... Business has been slow lately. I could use more customers. Or a donation from a very generous one. Say, $2000?}
+{260}{}{Hmm... Gli affari sono stati lenti ultimamente. Potrei usare piu' clienti. O una donazione da uno molto generoso. Diciamo, 2000 dollari?}
 {261}{}{Here you go. But your information better be worth it.}
 {262}{}{$1500 and that's my final offer.}
 {263}{}{I don't think so. That's too much.}
-{270}{}{(Lao Chou pockets the $2000.) It's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
+{270}{}{(Lao Chou intasca i 2000 dollari.) Non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
 {271}{}{Submarine?}
 {280}{}{We have nothing further to discuss, then.}
-{281}{}{You sure? My lovely wife Miria will certainly make it worth your while.}
+{281}{}{Sei sicuro? La mia adorabile moglie Miria lo fara' valere la pena di certo.}
 {282}{}{Arrivederci.}
 {285}{}{You drive a hard bargain. Fine, $1500.}
 {286}{}{Here you go. But your information better be worth it.}
-{287}{}{(Lao Chou pockets the $1500.) It's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
+{287}{}{(Lao Chou intasca i 1500 dollari.) Non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
 {288}{}{Submarine?}
-{290}{}{Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since
- I enjoyed the company of a charming woman like yourself.}
+{290}{}{Be', se la metti cosi', sono stato rinchiuso in questo negozio polveroso per molto tempo. E' passato un bel po' da quando ho goduto della compagnia di una donna affascinante come te.}
 {291}{}{[CONTINUA]}
-{300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
+{300}{}{[Passano ore senza che si intraveda una fine. Cominci a sospettare che Lao Chou non sia completamente umano. Alla fine, perdi i sensi.]}
 {301}{}{hhh... What happened?}
-{310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata.
- But a deal's a deal. It's not the tanker that's special -- it's just a big rusty tanker like you said. Our submarine, on the other hand...}
+{310}{}{Sei svenuto mentre ci muovevamo nella posizione del triplo?loto, e ho dovuto finire da solo con la kata del panda?sorridente.
+ Ma un accordo e' un accordo. Non e' la petroliera a essere speciale — e' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}
 {311}{}{Submarine?}
 {330}{}{I... don't think so.}
-{331}{}{Don't try and fight it now. You want me and you know it.}
+{331}{}{Non provare a resistere ora. Mi desideri e lo sai.}
 {340}{}{No, actually. You are not my type.}
 {341}{}{Oh, I see. You're not into women.}
-{350}{}{I am. I just do not find you very attractive. Perhaps if I were drunk.}
+{350}{}{Lo so. E' solo che non ti trovo molto attraente. Forse se fossi ubriaco.}
 {351}{}{You're obviously blind. Whatever. It's your loss.}
-{360}{}{What are you proposing? Ahh... well, I have been cooped up in this shop for a long time. I will reveal all I know
- in exchange for a sample of your lady friend's charms.}
-{361}{}{Miria, honey... I guess you'll have to, erm, pump this guy for information.}
-{362}{}{I was joking, old man. Like I'd let you make time with my wife... I'm leaving.}
-{370}{}{[You wait outside and hear faint moans from inside the Flying Dragon 8. An hour passes, and then another. You
- bang on the door, shouting, "Hurry up in there!" Finally, the moans become a primal scream.]}
+{360}{}{Cosa stai proponendo? Ahh... beh, sono rimasto chiuso in questo negozio per molto tempo. Rivelero' tutto cio' che so
+ in cambio di un assaggio delle grazie della tua amica.}
+{361}{}{Miria, tesoro... credo che dovrai, ehm, spremere questo tizio per ottenere informazioni.}
+{362}{}{Scherzavo, vecchio. Come se ti lasciassi passare del tempo con mia moglie... Me ne vado.}
+{370}{}{[Aspetti fuori e senti gemiti soffocati provenire dall'interno del Flying Dragon 8. Passa un'ora, poi un'altra.
+ Bussi alla porta gridando: "Sbrigatevi la' dentro!" Alla fine, i gemiti diventano un urlo primordiale.]}
 {371}{}{[Bang on the door] Hey, what are you two doing in there!?}
-{380}{}{A smiling Lao Chou emerges from his bedroom, still pulling on his pants. A few moments later Miria stumbles out behind him, looking dazed and confused but deeply satisfied] Your wife is a great deal more experienced than she looks.}
-{381}{}{I, erm, know. Now pull your damn pants up and tell me what's so special about the tanker.}
-{390}{}{There's nothing special about the tanker. It's just a big rusty tanker like you said. Our submarine, on the other hand...}
+{380}{}{Un Lao Chou sorridente esce dalla sua stanza, ancora intento a tirarsi su i pantaloni. Pochi istanti dopo Miria barcolla fuori dietro di lui, stordita e confusa ma profondamente soddisfatta.] Tua moglie e' molto piu' esperta di quanto sembri.}
+{381}{}{Lo... ehm... so. Ora tirati su quei dannati pantaloni e dimmi cosa c'e' di cosi' speciale nella petroliera.}
+{390}{}{Non c'e' nulla di speciale nella petroliera. E' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}
 {391}{}{Submarine?}
-{400}{}{The Shi-Huang-Ti. My great grandfather, Ye Li, was its captain. He unleashed her nuclear fires like a horrible dragon upon California's coast.}
+{400}{}{Lo Shi?Huang?Ti. Mio bisnonno, Ye Li, ne era il capitano. Scateno' i suoi fuochi nucleari come un terribile drago sulla costa della California.}
 {401}{}{No shit.}
-{410}{}{Ironically, a malfunctioning missile from our own ancestral nation went off course and exploded over the ocean near the submarine's location. The blast knocked out the Shi-Huang-Ti's systems, leaving Captain Ye Li and his crew stranded at sea.}
+{410}{}{Ironia della sorte, un missile difettoso della nostra stessa nazione ancestrale usci' dalla rotta ed esplose sull'oceano vicino al sottomarino. L'esplosione mise fuori uso i sistemi dello Shi?Huang?Ti, lasciando il capitano Ye Li e il suo equipaggio alla deriva.}
 {411}{}{That's karma for you.}
-{420}{}{But there was salvation. After weeks of drifting, the sub finally came to rest out in the shallow waters of the
- San Francisco bay. This city became our new home. We eventually restored the Shi-Huang-Ti; its targeting systems, its
- weapons. It has enough firepower to blow any potential invaders out of the water. So even if you got that old tanker
- running, it wouldn't get far, as the submarine will destroy any non-Chinese vessel that sails through the bay.}
+{420}{}{Ma ci fu salvezza. Dopo settimane alla deriva, il sottomarino si fermo' nelle acque basse della baia di San Francisco.
+ Questa citta' divenne la nostra nuova casa. Alla fine restaurammo lo Shi?Huang?Ti: i suoi sistemi di puntamento, le sue armi.
+ Ha abbastanza potenza di fuoco da spazzare via qualsiasi invasore. Quindi, anche se riuscissi a far partire quella vecchia petroliera,
+ non andrebbe lontano: il sottomarino distruggera' qualsiasi nave non cinese che attraversi la baia.}
 {421}{}{That sounds like a problem alright. So how would I get to the submarine?}
-{430}{}{You swim. Or take the motorboat at the docks. It is guarded, though, by one of our best soldiers, and he will
- not let an outsider like you past him.}
-{431}{}{You have any idea how I can get past him then, without shooting him in the face?}
-{440}{}{He's under strict orders to guard it 24/7. He will not let anyone without the right password through.}
+{430}{}{Puoi nuotare. Oppure prendere il motoscafo al molo. Ma e' sorvegliato da uno dei nostri migliori soldati, e non lascera' passare un estraneo come te.}
+{431}{}{Hai idea di come potrei passare, allora, senza sparargli in faccia?}
+{440}{}{E' sotto ordini severi di sorvegliarlo 24 ore su 24. Non lascera' passare nessuno senza la password corretta.}
 {441}{}{I don't suppose you know it?}
-{450}{}{That depends. I don't suppose you have $10000 to ensure the continued prosperity of my shop?}
+{450}{}{Dipende. Non e' che per caso hai 10000$ per garantire la continua prosperita' del mio negozio?}
 {451}{}{Here's your $10000.}
-{452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
+{452}{}{E' assurdo per una semplice password. Arrivo al massimo a 5000$.}
 {453}{}{No.}
-{460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
+{460}{}{Ah, molto apprezzato. La password e' XY8QIV2SHI. Potrebbero tenermi d'occhio dopo questo, quindi non dimenticarla. Se dovessimo parlarne di nuovo, avro' bisogno di ancora piu' soldi per le tangenti.}
 {461}{}{Grazie. Arrivederci.}
-{470}{}{You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.}
+{470}{}{Sei furbo, questo te lo concedo. Va bene. Accetto la tua offerta. La password e' XY8QIV2SHI. Non dimenticarla, o dovrai ricomprarla da me.}
 {471}{}{Grazie. Arrivederci.}
 {480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
 {481}{}{Fine. Here's your $10000.}

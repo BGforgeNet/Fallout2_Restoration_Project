@@ -1,10 +1,9 @@
 {100}{}{You see a functional computer.}
 {101}{}{You see the air traffic control terminal.}
-{102}{}{Welcome to air traffic control. This terminal controls satellite alignment for the movement of Vertibirds.
- Please enter a command.}
+{102}{}{Benvenuto al controllo del traffico aereo. Questo terminale gestisce l'allineamento dei satelliti per il movimento dei Vertibird. Inserire un comando.}
 {103}{}{Esci.}
-{104}{}{Align satellite to receive Enclave coordinates.}
-{105}{}{Satellite realigning. One moment please...}
+{104}{}{Allinea il satellite per ricevere le coordinate dell'Enclave.}
+{105}{}{Riallineamento del satellite in corso. Un momento...}
 {106}{}{[AVANTI]}
-{107}{}{Realignment successful. Docking rig ready to receive incoming aircrafts.}
+{107}{}{Riallineamento completato. La piattaforma di attracco e' pronta a ricevere i velivoli in arrivo.}
 {108}{}{Esci.}

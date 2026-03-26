@@ -54,33 +54,33 @@
 {402}{}{Grazie, ma cosa mi sai dire di Mama?}
 {403}{}{Grazie. Lascia che ti chieda qualcos'altro.}
 {404}{}{Grazie, e' tutto quello che mi serviva sapere. Ci vediamo.}
-{410}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with his presence.
- You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
- fuckin' orphanage idea a reality.}
-{411}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with her presence.
- You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
- fuckin' orphanage idea a reality.}
+{410}{}{Ma guarda chi si vede, fanculo. Il buon samaritano che ha "salvato i bambini" ha deciso di onorarmi della sua presenza.
+ Sai, anch'io sono un bravo Samurai-itan -- mi prendevo cura di quei piccoli paisanos e tutto il resto. Cioe', finche' non sei arrivato tu
+ a trasformare quella cazzo di idea dell'orfanotrofio in realta'.}
+{411}{}{Ma guarda chi si vede, fanculo. La buona samaritana che ha "salvato i bambini" ha deciso di onorarmi della sua presenza.
+ Sai, anch'io sono un bravo Samurai-itan -- mi prendevo cura di quei piccoli paisanos e tutto il resto. Cioe', finche' non sei arrivata tu
+ a trasformare quella cazzo di idea dell'orfanotrofio in realta'.}
 {412}{}{Vendi fiori?}
-{413}{}{You sound like you don't like the fact that the children are no longer roaming the streets.}
-{420}{}{Hey, don't get me wrong. Life on the street is tough fer them kids, but it's the end of our little arrangement that gets me down.}
+{413}{}{Sembra che non ti piaccia il fatto che i bambini non vaghino piu' per strada.}
+{420}{}{Ehi, non fraintendermi. La vita per strada e' dura per quei bambini, ma e' la fine del nostro piccolo accordo che mi butta giu'.}
 {421}{}{What arrangement?}
-{422}{}{You mean them pickpocketing from people and bringing the items to you to sell.}
-{430}{}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
+{422}{}{Intendi che borseggiavano la gente e ti portavano gli oggetti da vendere.}
+{430}{}{Non fare lo spiritoso con me, stronzo. I bambini mi portano oggetti che *trovano.* Non so dove li prendono e, sinceramente, non me ne frega un cazzo.}
 {431}{}{Right.}
-{432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
+{432}{}{Sei pieno di merda. Sono stufo di feccia come te che usa gli altri per il proprio tornaconto. E' ora di morire!}
 {440}{}{Fi-o-i, ti sa, i bambini. I miei bambini.}
-{441}{}{And you have an arrangement with them?}
+{441}{}{E avevi un accordo con loro?}
 {450}{}{Mi portano la roba che trovano. Piccole, piccole cose. Roba che nessuno usa piu'. In cambio, io mi prendo cura di loro.}
 {451}{}{Sembra un ottimo accordo.}
-{460}{}{Yeah... business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
- Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,
- get to it. If not, fuck off.}
+{460}{}{Gia'... gli affari andavano bene finche' non sei arrivato tu. Vedi, la tua piccola trovata mi costera'. I miei affari ne risentiranno grazie a te.
+ Per questo, non mi stai molto simpatico. Anzi, ti odio proprio. Ma sono un uomo d'affari, quindi se devi barattare,
+ fallo. Altrimenti, vaffanculo.}
 {461}{}{Alright, let's see what you have in stock then.}
 {462}{}{I think I have all I need. Goodbye.}
 {463}{}{I think I'll stay... and kick your ass.}
-{470}{}{You again? You better be here to make some good trades, 'cause I'm getting real fuckin' sick of looking at you.
- In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to
- trade, then I suggest you turn around and walk the fuck outta here.}
+{470}{}{Ancora tu? Spero che tu sia qui per fare qualche buon affare, perche' mi sto rompendo il cazzo di guardarti.
+ Anzi, vomito un po' in bocca ogni volta che vedo la tua faccia. E' cosi' che mi fai schifo. E se non sei qui per
+ commerciare, allora ti suggerisco di girarti e levarmi dal cazzo.}
 {471}{}{Barattiamo.}
 {472}{}{Ero solo curioso. Beh, ci vediamo, Flick.}
 {480}{}{You done wastin' my time?}

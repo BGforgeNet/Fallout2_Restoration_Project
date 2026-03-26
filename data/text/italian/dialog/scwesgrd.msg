@@ -41,4 +41,4 @@
 {140}{}{Ho qualcosa da parte di Vault City per il signor Westin.}
 {141}{}{Va bene, entra. Non provare a creare problemi, pero': ti terro' d'occhio.}
 {142}{}{Non ti e' permesso entrare nel ranch senza un motivo ufficiale.}
-{150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}
+{150}{}{Mi dispiace, c'e' stato un incidente e nessuno puo' entrare nella proprieta'. Avanti, circolare.}

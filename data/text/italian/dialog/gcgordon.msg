@@ -24,7 +24,7 @@
 {161}{}{Okay, e allora?}
 {170}{}{Beh, adesso che ci hai dato una mano a riparare la nostra centrale nucleare, ho migliori possibilita' di ottenere quello che voglio. Massimizzare il mio potenziale.}
 {171}{}{Massimizzare il tuo potenziale? Che cosa vuoi dire?}
-{172}{}{Is this greed talking again, Gordon?}
+{172}{}{E' di nuovo l'avarizia che parla, Gordon?}
 {180}{}{Ho anche scoperto, da una fonte molto attendibile, che le possibilita' di espansione di Vault City sono limitate dalla sua scarsa produzione di energia.}
 {181}{}{Vault City non si puo' espandere?}
 {182}{}{Una fonte molto attendibile? Chi?}

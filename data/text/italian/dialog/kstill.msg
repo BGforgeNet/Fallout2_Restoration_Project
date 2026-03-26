@@ -8,4 +8,4 @@
 {130}{}{Accendi il distillatore ma il whisky sembra essere andato a male.}
 {140}{}{Non c'e' spazio per altra legna nel distillatore.}
 {150}{}{Questo distillatore non funziona piu'. Non avrebbe senso rifornirlo di legna.}
-{160}{}{You better not. It's best not to do something before being told to do so, right?}
+{160}{}{Meglio di no. E' meglio non fare qualcosa prima che ti venga detto di farlo, giusto?}

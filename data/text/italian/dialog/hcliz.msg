@@ -83,11 +83,11 @@
 {184}{}{[CONTINUA]}
 {185}{}{Ehi! Chi diavolo c'e' la' fuori?}
 {186}{}{Non so chi tu sia, ma sto arrivando per suonartele.}
-{200}{}{Do you have anything special you could set me up with that isn't on the shelves?}
-{201}{}{Actually... yeah. Seein' that mangy dog of yours reminds me of something I found that might be of some use. Are you interested in some armor for it? It'll cost you $2000.}
+{200}{}{Hai qualcosa di speciale che potresti procurarmi e che non sia sugli scaffali?}
+{201}{}{In realta'... si. Vedere quel tuo cane spelacchiato mi ricorda qualcosa che ho trovato e che potrebbe esserti utile. Ti interessa un'armatura per lui? Ti costera' 2000$.}
 {202}{}{Hell yeah!}
-{203}{}{Nah, this dog can take on anybody already. Thanks anyway. Let's see what else you've got.}
-{204}{}{(Looks at you and your party) No, sorry. I don't think I have anything special that you would find useful. What you see out here is what you get.}
+{203}{}{No, questo cane puo' gia' affrontare chiunque. Comunque grazie. Vediamo cos'altro hai.}
+{204}{}{(Guarda te e il tuo gruppo) No, mi spiace. Non credo di avere nulla di speciale che possa esserti utile. Quello che vedi qui e' quello che c'e'.}
 {205}{}{Oh well. Let's see what you've got.}
 {206}{}{I told you I'd let it go for $2000. Come back when you've got the cash for it!}
 {207}{}{Alright. Show me what else you've got.}

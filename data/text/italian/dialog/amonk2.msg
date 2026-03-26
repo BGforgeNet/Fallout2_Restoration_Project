@@ -5,7 +5,7 @@
 {200}{}{Greetings.}
 {201}{}{Welcome to the Abbey.}
 {202}{}{You should talk to our leader if you wish to gain any information.}
-{203}{}{Good day... or is it night already?}
+{203}{}{Buona giornata... o e' gia' notte?}
 {204}{}{There's so much work that must be done.}
-{205}{}{Life here at the Abbey is a peaceful one. Something rare in these wretched wastes.}
+{205}{}{La vita qui all'Abbazia e' tranquilla. Qualcosa di raro in queste miserabili Lande.}
 {500}{}{Smettila!}

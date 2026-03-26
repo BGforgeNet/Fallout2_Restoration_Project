@@ -1,26 +1,26 @@
 {100}{}{You see a man dressed in robes.}
 {101}{}{You see Ashton. He is in charge here.}
 {102}{}{He has a smirk on his face.}
-{200}{}{Greetings. My name is Ashton, and I'm in charge of things here. Were you sent here for security detail?}
+{200}{}{Saluti. Il mio nome e' Ashton, e sono io a occuparmi delle cose qui. Sei stato mandato per il turno di sicurezza?}
 {201}{}{Yeah, actually, I was.}
-{202}{}{No, I was sent by AHS-9 to check on everything.}
-{210}{}{Excellent! Never can have too much security with what we have stored here, I say. Good to have you here.}
-{211}{}{Really? That's... interesting. You're free to look around, of course. I'm sure you'll find that everything is in order.}
+{202}{}{No, sono stato mandato da AHS?9 per controllare tutto.}
+{210}{}{Eccellente! Non si ha mai troppa sicurezza con quello che conserviamo qui, dico io. Felice di averti qui.}
+{211}{}{Davvero? Questo e'... interessante. Sei libero di guardarti intorno, naturalmente. Sono certo che troverai tutto in ordine.}
 {220}{}{Thanks. What exactly are we storing here, anyway?}
 {221}{}{Alright then. See you around.}
-{230}{}{As you're certainly aware, every donation to the Church of Hubology over the last several decades is stored here -- and I must say,
- it's quite a stash. Some donations are small; others quite large. We get all kinds of stuff, from weapons and ammunition, to jewelry,
- and antiques, and even a few old vehicles. Why, just a few months ago, actor Don Ravolta donated a genuine 20th century Harkley Sports
- motorcycle -- best of its time. Heck, a working Howitzer was even donated to the Church. Our most common donation, however, is money -- lots and
- lots of money.}
-{240}{}{Impressive. It sounds like the Church does quite well for itself.}
-{241}{}{Yes, of course -- and for good reason. Advertising campaigns and a massive space shuttle aren't cheap activities you know.}
-{242}{}{Yeah, I can imagine. So, how large is this place?}
+{230}{}{Come certamente saprai, ogni donazione alla Chiesa di Hubologia degli ultimi decenni e' conservata qui — e devo dire,
+ e' un bel tesoro. Alcune donazioni sono piccole; altre piuttosto grandi. Riceviamo ogni tipo di roba, da armi e munizioni, a gioielli,
+ e oggetti antichi, e persino qualche vecchio veicolo. Solo pochi mesi fa, l'attore Don Ravolta ha donato una vera motocicletta Harkley Sports
+ del XX secolo — la migliore del suo tempo. Diamine, ci hanno persino donato un obice funzionante. La donazione piu' comune, comunque, e' il denaro — tanto,
+ tantissimo denaro.}
+{240}{}{Impressionante. Sembra che la Chiesa se la cavi piuttosto bene.}
+{241}{}{Si, certo — e per una buona ragione. Le campagne pubblicitarie e un enorme shuttle spaziale non sono attivita' economiche, sai.}
+{242}{}{Gia', posso immaginare. Quindi, quanto e' grande questo posto?}
 {243}{}{I know what you mean. Well, I must be going. Bye.}
-{250}{}{The structure we're standing in is an older bunker, probably built for private use rather than military. There's two levels below us.
- Directly below us is the living area -- we got some beds there, bathrooms, exercise machines, security equipment. Below that is what I call the "vault."}
+{250}{}{La struttura in cui ci troviamo e' un vecchio bunker, probabilmente costruito per uso privato piuttosto che militare. Ci sono due livelli sotto di noi.
+ Subito sotto c'e' l'area abitativa — abbiamo dei letti, bagni, attrezzi da esercizio, equipaggiamento di sicurezza. Sotto quello c'e' quello che chiamo il "vault".}
 {251}{}{A vault?}
-{252}{}{It's not *really* a vault, I just call it that. It's more of a storage room full of goods. That's where we keep all the donations. It's guarded all day, everyday.}
+{252}{}{Non e' *davvero* un vault, lo chiamo cosi'. E' piu' una stanza di stoccaggio piena di roba. E' li' che teniamo tutte le donazioni. E' sorvegliato tutto il giorno, ogni giorno.}
 {260}{}{Interesting. Well, I'm going to have a look around. See you later.}
 {270}{}{So, how large is this place?}
 {300}{}{Hello again. Help you with something?}

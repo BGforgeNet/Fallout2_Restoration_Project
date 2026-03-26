@@ -1,3 +1,3 @@
-{100}{}{That's not what I'd hoped for from these seeds!}
+{100}{}{Non e' quello che speravo da questi semi!}
 {101}{}{That'll help with the food problem.}
-{102}{}{After a week's accelerated growth, cornstalks have grown around the seeding site.}
+{102}{}{Dopo una settimana di crescita accelerata, sono cresciute piante di mais attorno al punto di semina.}

@@ -219,32 +219,32 @@
 {5002}{}{Credo di p'poter essere a'avvelenato.}
 {5100}{}{I'm f'feeling a b'bit warm now.}
 {5101}{}{That's b'better.}
-{6000}{}{I need a professional opinion, Lenny. What do you know about managing a heart condition?}
+{6000}{}{Ho bisogno di un parere professionale, Lenny. Cosa sai sulla gestione di una malattia cardiaca?}
 {6001}{}{Can you tell me anything about these pills I found, Doc?}
-{6010}{}{What seems to be the t'trouble? Your t'ticker ain't g'givin' out on you now, is it?}
+{6010}{}{Qu'qual e' il p'problema? Il t'tuo c'cuore non ti sta ab'bandonando adesso, v'vero?}
 {6011}{}{No, I was actually wondering if there was anything we could do for Cassidy.}
-{6012}{}{No. I'm going to murder an infirmed old man and I was trying to come up with something more creative than sneaking up and popping a paper bag.}
-{6013}{}{Just chalk it up to academic curiosity, I guess.}
+{6012}{}{No. Ho intenzione di assassinare un vecchio malato e stavo cercando di trovare qualcosa di piu' creativo che avvicinarmi di soppiatto e far scoppiare un sacchetto di carta.}
+{6013}{}{Mettilo pure in conto alla curiosita' accademica, suppongo.}
 {6020}{}{Heh. No need to get t'tetchy, now.}
-{6021}{}{Well, mostly, it's just c'common sense stuff. Eatin' right, steerin' c'clear of the harder c'chems, that sorta thing. K'keepin' stress to a m'minimum. B'basically, livin' m'more like an old l'lady, and less like... well, us. Heh. O'course, the b'best thing you could d'do would probably be to t'tamp it down with some c'cardiac regulators, m'maybe some v'vasodilators.}
+{6021}{}{Be', per lo p'piu', e' roba di s'senso c'comune. M'mangiare bene, s'stare alla l'larga dai c'chem piu' duri, quel g'genere di cose. M'mantenere lo s'stress al m'minimo. F'fondamentalmente, v'vivere p'piu' come una v'vecchia s'signora, e m'meno come... be', noi. Eh. O'ovviamente, la c'cosa m'migliore che p'potresti f'fare sarebbe p'probabilmente t'tamponarlo con qualche r'regolatore c'cardiaco, f'forse qualche v'vasodilatatore.}
 {6022}{}{Cardiac what now?}
 {6023}{}{Hmm. Heart pills.}
-{6030}{}{Let's see, now... (Lenny mutters to himself as he reads over the label.)}
-{6040}{}{Heart pills. I guess what they're p'puttin' out in Vault City and NCR these d'days ain't much different than w'what we were usin' b'back before the w'war. Strong m'medicine. G'get a fella on that stuff, he'd have the h'heart of a m'mutant m'marathon runner. Heck, if he minded his d'doc and took 'em r'regular-like, he could probably live on hot b'buttered chems and n'not have to worry about it skippin' a s'single b'beat. Uh, n'not that I'd recommend that sort o' thing, of course. D'doctors orders are always supposed to be c'clean livin' and p'plenty of r'roughage, right?}
+{6030}{}{V'vediamo, adesso... (Lenny borbotta tra se' mentre legge l'etichetta.)}
+{6040}{}{P'pillole per il c'cuore. I'immagino che quello che p'producono a Vault City e NCR o'oggi non sia molto d'diverso da q'quello che u'usavamo p'prima della g'guerra. M'medicina f'forte. D'dai quelle robe a un t'tizio e avrebbe il c'cuore di un m'maratoneta m'mutante. C'cavolo, se s'seguisse le i'indicazioni del d'dottore e le p'prendesse r'regolarmente, potrebbe p'probabilmente v'vivere di c'chem al b'burro c'caldo e n'non preoccuparsi che s'salti un s'singolo b'battito. Eh, n'non che io r'raccomanderei quel g'genere di c'cose, ovviamente. Gli o'ordini del d'd'ottore sono s'sempre s'supposti essere v'vita s'sana e m'molte f'fibre, g'giusto?}
 {6041}{}{Uh, right. Thanks, Lenny. Let me ask you about something else.}
-{6042}{}{Are they dangerous at all? Any side-effects to look out for?}
+{6042}{}{Sono pericolose in qualche modo? Ci sono effetti collaterali da tenere d'occhio?}
 {6043}{}{Do you think these could help Cassidy?}
-{6050}{}{They could be j'just the thing, now that you m'mention it. In fact, I think they w'would be. He'd hafta be careful about a c'coupla' things, though.}
+{6050}{}{P'potrebbero essere p'proprio la c'cosa g'giusta, adesso che lo m'menzioni. In f'fatti, p'penso che lo s'sarebbero. D'dovrebbe s'stare attento a un p'paio di c'cose, pero'.}
 {6051}{}{Ad esempio?}
 {6052}{}{I knew there'd be a catch.}
-{6060}{}{Nothin' that'd be likely to c'come up t'too often. They've been known to c'cause dizziness. And y'you shouldn't t'take 'em with g'grapefruit juice, though I d'don't think that's gonna be m'much of a p'problem, these days. Unless that's what those l'lumpy g'green things are supposed to be. Hmmm... (Lenny puts a hand to his chin and stares off into space).}
+{6060}{}{N'niente che s'succeda t'troppo s'spesso. S'sono note per c'causare v'vertigini. E n'non d'dovresti p'prenderle con il s'succo di p'pompelmo, anche s'se n'non p'penso che s'sara' un g'gran p'problema, o'oggigiorno. A m'meno che non s'siano q'quelle c'cose v'verdi e g'grumose. Hmmm... (Lenny si porta una mano al mento e fissa il vuoto).}
 {6061}{}{Lenny?}
-{6070}{}{S'sorry. Oh! One more b'big one. Unless you're l'lookin' to meet a l'less-than-d'dignified end, you *do not* want to g'go mixin' those things with N'new Reno p'pep pills.}
-{6071}{}{Pep... pills?}
+{6070}{}{S'scusa. Oh! Un'altra c'cosa im'importante. A m'meno che tu n'non v'voglia f'fare una f'fine p'poco d'dignitosa, *n'non* v'vuoi m'mescolare q'quelle c'cose con le p'pilloline d'dinamizzanti di N'new Reno.}
+{6071}{}{P'pilloline... d'dinamizzanti?}
 {6072}{}{Bad reaction, then?}
-{6080}{}{Ayup. Y'know, for when your l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
-{6081}{}{Ayup. Y'know, for when a man's l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
-{6082}{}{Oh, yeah. You g'get those two into your s'system together, and KER-BLAM! Your heart'll explode like a b'blood s'sausage. I remember d'doin' p'post-mortems on m'more than one poor g'geezer who was t'too b'busy sowing his oats to r'read a w'warning label.}
+{6080}{}{Eh s'si'. S'sai, p'per q'quando il t'tuo p'piccolo s'soldato n'non v'vuole m'mettersi s'sull'attenti? Il n'nome t'tecnico era "i'inibitori PDE-5" ma v'visti i t'tempi, e N'new Reno e'essendo q'quello c'che E'E'... C'comunque, d'dove ero r'rimasto?}
+{6081}{}{Eh s'si'. S'sai, p'per q'quando il p'piccolo s'soldato di un u'uomo n'non v'vuole m'mettersi s'sull'attenti? Il n'nome t'tecnico era "i'inibitori PDE-5" ma v'visti i t'tempi, e N'new Reno e'essendo q'quello c'che E'E'... C'comunque, d'dove ero r'rimasto?}
+{6082}{}{Ah, s'si'. P'prendi q'quelle d'due nel t'tuo s'sistema ins'sieme, e KER-BLAM! Il t'tuo c'cuore esp'plodera' c'come un s'sanguinaccio. R'ricordo di a'aver f'fatto p'post-mortem s'su p'piu' di un p'povero v'vecchio c'che era t'troppo o'occupato a s'seminare per l'leggere un'e'etichetta d'di av'vertimento.}
 {6083}{}{Blood Sausage?}
 {6084}{}{Huh. Good to know. Thanks a lot, Lenny.}
 {6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}

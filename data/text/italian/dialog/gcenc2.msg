@@ -1,20 +1,20 @@
-{100}{}{Halt, mutant wastelander! We are searching the area for an enemy of the Enclave. Identify yourself immediately.}
-{101}{}{Who are you calling a mutant, asshole? You want an enemy? You've got one -- right here.}
-{102}{}{Look, I'm just a simple traveler. I've never even heard of the Enclave. This person you're looking for must be pretty dangerous, because you guys look like you mean business.}
+{100}{}{Alt, mutante della Zona Contaminata! Stiamo perlustrando l'area alla ricerca di un nemico dell'Enclave. Identificati immediatamente.}
+{101}{}{Chi stai chiamando mutante, stronzo? Vuoi un nemico? Ne hai uno -- proprio qui.}
+{102}{}{Senti, sono solo un semplice viaggiatore. Non ho mai nemmeno sentito parlare dell'Enclave. Questa persona che state cercando deve essere piuttosto pericolosa, perche' voi ragazzi sembrate fare sul serio.}
 {103}{}{That's enough for me. Kill him.}
 {104}{}{Oh, this will be fun!}
-{105}{}{Oh yeah, they're dangerous alright, and we suspect them to be fleeing Gecko. For all we know, you're the one we're looking for.}
-{106}{}{Well I'm sure glad I'm not, because you don't look like anyone I'd want to mess with. But listen, if there's a dangerous person on the loose around here, I should really be getting back to my family so I can warn them.}
+{105}{}{Oh si', sono pericolosi eccome, e sospettiamo che stiano fuggendo da Gecko. Per quanto ne sappiamo, potresti essere tu quello che stiamo cercando.}
+{106}{}{Be' sono proprio contento di non esserlo, perche' non sembrate il tipo con cui vorrei avere a che fare. Ma senti, se c'e' una persona pericolosa in giro da queste parti, dovrei davvero tornare dalla mia famiglia per avvertirli.}
 {107}{}{All right, I give up. Let's party!}
 {108}{}{You're not going anywhere just yet. Have you ever been to Gecko?}
-{109}{}{Yeah, of course I have. Lovely place. I mean, the locals are hideous and it kinda smells and there's all that radiation and stuff, but it sure is fun to mess around on the computers. Ha! You should have been there when I was messing with this one jackass--you know, he looked a lot like you fellas.}
-{110}{}{Gecko? Hell no, this is as close as I get. Don't you know that place is full of them ugly-ass ghouls? Why do you ask?}
-{111}{}{OK, I believe you. Fan out, men. Search the area. We gotta find this person.}
+{109}{}{Si', certo che ci sono stato. Posto meraviglioso. Voglio dire, la gente del posto e' orribile e puzza un po' e c'e' tutta quella radiazione e roba del genere, ma e' proprio divertente smanettare sui computer. Ah! Avreste dovuto essere li' quando stavo prendendo in giro questo coglione -- sapete, somigliava molto a voi ragazzi.}
+{110}{}{Gecko? Assolutamente no, questo e' il piu' vicino che mi avvicino. Non lo sapete che quel posto e' pieno di quei ghoul brutti come il peccato? Perche' lo chiedete?}
+{111}{}{OK, ti credo. Sparpagliatevi, uomini. Perlustrate la zona. Dobbiamo trovare questa persona.}
 {112}{}{No. I don't believe you. This is our man, boys!}
 {113}{}{No. I don't believe you. This is our woman, boys!}
-{114}{}{Whoa! Whoa! Just hold on a second. Why don't you believe me? What am I supposed to have done?}
-{115}{}{Somebody hacked into the Enclave computer network from the Poseidon Oil Reactor. We're trying to track him down.}
-{116}{}{Hacked into it!? Well, that couldn't have been me. I'm just a tribal. Hell, I don't even know how to use a -- what did you call it? Kom-pu-tor?}
-{200}{}{Gecko? Hell no, this is as close as I get. Don't you know that place is full of them ugly-ass ghouls? It's bad enough that I have to watch over my Uncle Lenny, here. Why do you ask?}
+{114}{}{Whoa! Whoa! Aspettate un secondo. Perche' non mi credete? Cosa avrei dovuto fare?}
+{115}{}{Qualcuno ha violato la rete informatica dell'Enclave dal Reattore Petrolifero Poseidon. Stiamo cercando di rintracciarlo.}
+{116}{}{Violato!? Be', non posso essere stato io. Sono solo un tribale. Accidenti, non so nemmeno come usare un -- come lo avete chiamato? Kom-pu-ter?}
+{200}{}{Gecko? Assolutamente no, questo e' il piu' vicino che mi avvicino. Non lo sapete che quel posto e' pieno di quei ghoul brutti come il peccato? E' gia' abbastanza brutto dover badare al mio Zio Lenny, qui. Perche' lo chiedete?}
 {201}{}{Urgh?}
 {202}{}{Me kill baddies!}

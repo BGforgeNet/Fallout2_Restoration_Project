@@ -15,29 +15,29 @@
 {308}{}{Heading out on another run?}
 {309}{}{La situazione e' piuttosto tranquilla.}
 {310}{}{When am I gonna see some action?}
-{311}{}{Bagging slaves always brings a smile to my face.}
+{311}{}{Catturare schiavi mi mette sempre di buon umore.}
 {312}{}{I raid per gli schiavi sono davvero grandiosi.}
 {313}{}{Hey, glad to have you with us.}
 {400}{}{Hold it right there. Where the hell do you think you're going?}
-{401}{}{Metzger sent me. I need to speak with whoever is in charge here.}
+{401}{}{Metzger mi ha mandato. Devo parlare con chi comanda qui.}
 {402}{}{I got some slaves you guys might be interested in.}
-{403}{}{I was called because of a rodent problem. Namely all of you here.}
-{404}{}{[The man's eyes flare up.] You've picked the wrong group to fuck with. HEY GUYS, WE GOT AN INTRUDER!}
-{405}{}{[He looks up and down your party members.] I think we might be interested. Go inside and speak with Don.}
-{406}{}{Isn't it a little early for another shipment? What does Metzger need?}
-{407}{}{He needs a few healthy slaves. Specifically female slaves, if you know what I mean.}
-{408}{}{Hehe. I sure do. Well, go inside and speak to Don. I'm sure he's got what the boss needs.}
-{409}{}{Umm... well, he uhh, said he needs more slaves.}
-{410}{}{More slaves? He got a huge shipment last week. You're full of shit and I don't have time for this. Leave now
- or you'll find a bullet in your head.}
+{403}{}{Mi hanno chiamato per un problema di roditori. Vale a dire tutti voi qui.}
+{404}{}{[Gli occhi dell'uomo si infiammano.] Hai scelto il gruppo sbagliato con cui scherzare. EHI RAGAZZI, ABBIAMO UN INTRUSO!}
+{405}{}{[Osserva dall'alto in basso i membri del tuo gruppo.] Penso che potremmo essere interessati. Entra e parla con Don.}
+{406}{}{Non e' un po' presto per un'altra consegna? Di cosa ha bisogno Metzger?}
+{407}{}{Gli servono alcuni schiavi in buona salute. In particolare schiave donne, se capisci cosa intendo.}
+{408}{}{Hehe. Certo che capisco. Be', entra e parla con Don. Sono sicuro che ha quello che il capo vuole.}
+{409}{}{Umm... be', lui ehm... ha detto che gli servono altri schiavi.}
+{410}{}{Altri schiavi? Ha ricevuto un enorme carico la settimana scorsa. Sei pieno di stronzate e non ho tempo per questo. Vattene ora
+ o ti ritrovi una pallottola in testa.}
 {411}{}{Me ne stavo andando.}
 {412}{}{I think I'll stay and kill you first.}
-{500}{}{Umm..uhh... the boss sent me.}
-{501}{}{The "boss" huh? Sounds like your full of shit me. Looks like we got a trespasser.}
-{502}{}{Listen, I'm on orders from the boss. You know how he gets when we keep him waiting.}
-{503}{}{Metzger sent you, huh? Man, he can be a real pain sometimes. But, uh, (The man fidgets) don't tell anyone I said that.}
-{504}{}{Yep, Metzger sent me alright. Now, I need to speak with whose in charge here.}
+{500}{}{Umm... ehm... il capo mi ha mandato.}
+{501}{}{Il "capo", eh? Sembra proprio che tu sia pieno di stronzate. Direi che abbiamo un intruso.}
+{502}{}{Senti, sono qui per ordine del capo. Sai come diventa quando lo facciamo aspettare.}
+{503}{}{Metzger ti ha mandato, eh? A volte sa essere davvero una rottura. Ma, ehm, (l'uomo si agita) non dire a nessuno che l'ho detto.}
+{504}{}{Si', Metzger mi ha mandato davvero. Ora devo parlare con chi comanda qui.}
 {599}{}{Touch it again and you die.}
 {600}{}{I warned you asshole!}
 {800}{}{[FATTO]}
-{900}{}{What the!? Rangers! Shit, how did they find us. Alright, time to kick some ass!}
+{900}{}{Cosa!? I Rangers! Merda, come ci hanno trovato? Va bene, e' ora di spaccare qualche culo!}

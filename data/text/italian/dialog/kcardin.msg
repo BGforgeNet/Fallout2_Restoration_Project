@@ -120,25 +120,24 @@
 {415}{}{Credo che i fratelli Dunton stiano rubando i vostri brahmin. Pensavo fosse importante farglielo sapere, signora.}
 {416}{}{Uh, nevermind.}
 {417}{}{What!? Are you sure about this? What proof do you have?}
-{418}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I confronted the Duntons about it, and they admitted to using them to scare your boy, Torr.}
-{419}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I think the Duntons are wearing these to scare Torr--hence his fear of "bug men".}
-{420}{}{I thought they were up to their usual tricks! My poor little Torr, what bullies those boys are. Well, that explains what's been spooking Torr, but I'd like to get more proof that the Duntons are the ones that've been stealing our cattle. I'm afraid word of mouth just isn't good enough.}
-{421}{}{I thought they were up to their usual tricks! My poor little Torr, what bullies those boys were. Well, that explains what's been spooking Torr, but I wish there was more proof that it was the Duntons. I'm afraid word of mouth just isn't good enough. And now that the Duntons are dead, I'm not sure if we'll ever get to the bottom of this. But if you come up with anything else, please let me know.}
+{418}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei tuoi brahmin. Ho affrontato i Dunton e hanno ammesso di usarle per spaventare tuo figlio, Torr.}
+{419}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei tuoi brahmin. Credo che i Dunton le indossino per spaventare Torr — da qui la sua paura degli "uomini insetto".}
+{420}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli quei ragazzi. Be', questo spiega cosa lo spaventava, ma vorrei avere piu' prove che siano stati i Dunton a rubare il nostro bestiame. Ho paura che il sentito dire non sia abbastanza.}
+{421}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli quei ragazzi erano. Be', questo spiega cosa lo spaventava, ma vorrei ci fossero piu' prove che fossero i Dunton. Ho paura che il sentito dire non sia abbastanza. E ora che i Dunton sono morti, non so se scopriremo mai la verita'. Ma se trovi qualcos'altro, fammelo sapere.}
 {422}{}{Alright, I'll go see if I can scrounge up some more evidence.}
-{423}{}{Actually, I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one--which I assume was yours.}
-{424}{}{That settles it then. With the bug parts and the double branding, we got enough to turn those no good boys in. I'll
- take it from here. Those ruffians won't be causing trouble anymore. Thanks for your help.}
-{425}{}{That settles it then. With the bug parts and the double branding, we got enough to pin the crime on them. Too bad they're dead, or I would've shown them a thing or two. I guess they got what they deserve. Thanks for your help.}
+{423}{}{In realta', ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
+{424}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per consegnare quei buoni a nulla. Da qui me ne occupo io. Quei teppisti non daranno piu' problemi. Grazie per il tuo aiuto.}
+{425}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per attribuire loro il crimine. Peccato siano morti, o gli avrei insegnato un paio di cose. Immagino abbiano avuto cio' che meritavano. Grazie per il tuo aiuto.}
 {426}{}{Happy to help, ma'am. Let me ask you about something.}
-{427}{}{Those Duntons make me sick. I'm glad you'll take care of them. Goodbye now.}
+{427}{}{Quei Dunton mi fanno schifo. Sono felice che te ne occuperai tu. Addio, ora.}
 {428}{}{The Duntons got what they deserve. Goodbye.}
-{429}{}{You did? Well, go on then, what did you find?}
-{430}{}{I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one--which I assume was yours.}
+{429}{}{Davvero? Be', avanti allora, cosa hai trovato?}
+{430}{}{Ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
 {500}{}{About your missing brahmin...}
 {510}{}{Non e' che hai visto un Trapper di nome Smiley nei dintorni del paese? (Parlando anche a se stessa) Se ne e' andato da troppo tempo. Non avrei mai dovuto permettergli di partire per la sua folle ricerca.}
 {520}{}{Ti sei dimostrato davvero utile per noi. Grazie.}
 {530}{}{Mi stavo domandando cos'altro succede da queste parti.}
-{540}{}{I found more proof in the Dunton case.}
+{540}{}{Ho trovato altre prove nel caso dei Dunton.}
 {600}{}{Sei meraviglioso.}
 {610}{}{Sei meraviglioso. Hai riportato mio figlio Torr e il mio Smiley da me. Non potro' mai ringraziarti abbastanza.}
 {620}{}{Hai ritrovato Torr, mio figlio. Grazie mille.}
@@ -178,9 +177,9 @@
 {957}{}{Lasciami in pace.}
 {958}{}{Selvaggio menagramo, fuori dal mio locale.}
 {959}{}{Ne ho abbastanza di te. Fuori.}
-{1000}{}{You solve the mystery behind the missing brahmin.}
-{1010}{}{Actually, some monetary compensation would be nice in this situation.}
-{1011}{}{What? Oh, of course. You've helped us out greatly, so we do owe you at least something. Here's $150.}
+{1000}{}{Hai risolto il mistero dei brahmin scomparsi.}
+{1010}{}{In realta', un po' di compenso in denaro sarebbe gradito in questa situazione.}
+{1011}{}{Cosa? Oh, certo. Ci hai aiutato molto, quindi ti dobbiamo almeno qualcosa. Ecco 150$.}
 {1012}{}{Thanks for the money. See you around.}
 {2000}{}{Smilie?}
 {2001}{}{Eh?}

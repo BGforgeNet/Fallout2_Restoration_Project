@@ -1,14 +1,14 @@
-{100}{}{Welcome to the EPA Robot Control Computer. What do you wish to do?}
+{100}{}{Benvenuto nel Computer di Controllo dei Robot dell'EPA. Cosa desideri fare?}
 {101}{}{Command Robots.}
 {102}{}{Run diagnostic check.}
 {103}{}{Te ne vai.}
-{104}{}{!ERROR! !ERROR! PROBLEM ENCOUNTERED TERMINATING SEQUENCE!}
+{104}{}{!ERRORE! !ERRORE! RISCONTRATO PROBLEMA DURANTE LA SEQUENZA DI TERMINAZIONE!}
 {105}{}{Ritorna al Menu Principale}
-{106}{}{Diagnostic Check... circuit board error....section four... loose wiring.}
+{106}{}{Controllo diagnostico... errore nella scheda di circuito... sezione quattro... cablaggio allentato.}
 {107}{}{Fatto}
 {108}{}{It's too difficult to repair this.}
-{109}{}{The fault in the computer is repaired and the machine is brought back online.}
-{110}{}{Welcome to the EPA Robot Control Computer. You no longer have security authorization to use these files. Terminating sequence.}
+{109}{}{Il guasto nel computer viene riparato e la macchina torna online.}
+{110}{}{Benvenuto nel Computer di Controllo dei Robot dell'EPA. Non hai piu' l'autorizzazione di sicurezza per usare questi file. Sequenza terminata.}
 {111}{}{OK}
 {112}{}{BEEP!}
 {113}{}{BOOP!}

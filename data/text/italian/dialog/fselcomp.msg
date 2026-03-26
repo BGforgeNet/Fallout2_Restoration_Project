@@ -45,7 +45,7 @@
  it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.
  You already determined the coordinates of it.]}
 {210}{}{Hack the system.}
-{211}{}{[After some time you gain full administrative access to the mainframe. You can now do whatever you want to the system.]}
+{211}{}{[Dopo qualche tempo ottieni pieno accesso amministrativo al mainframe. Ora puoi fare quello che vuoi al sistema.]}
 {212}{}{Formatta il sistema.}
 {213}{}{Procedura di formattazione... Inizializzata... Formattazione... Formattazione Completata... Il sistema verra' spento . Arrivederci}
 {220}{}{You format the Hubologist mainframe.}

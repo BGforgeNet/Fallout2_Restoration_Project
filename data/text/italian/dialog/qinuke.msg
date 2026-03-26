@@ -1,18 +1,18 @@
 {100}{}{You see a functional computer.}
 {101}{}{This computer appears to control the nuclear bombing sitting nearby.}
-{200}{}{Welcome to PoseidoNet. This terminal controls the operations of the MK-17 Fusion Bomb. Current Status of bomb is: Deactivated.}
+{200}{}{Benvenuto in PoseidoNet. Questo terminale controlla le operazioni della Bomba a Fusione MK-17. Stato attuale della bomba: Disattivata.}
 {201}{}{Activate bomb.}
 {202}{}{Esci.}
-{210}{}{Activation of the bomb requires two forms of security overrides. Override 1: Red Reactor Keycard, given only to
- top U.S. Research officials. Override 2: Presidential Security Passkey, given only to the President of the United States.}
+{210}{}{L'attivazione della bomba richiede due forme di sovrascrittura di sicurezza. Sovrascrittura 1: Tesserino Rosso del Reattore, fornito solo ai
+ massimi funzionari della Ricerca statunitense. Sovrascrittura 2: Chiave di Sicurezza Presidenziale, fornita solo al Presidente degli Stati Uniti.}
 {220}{}{Looks like I don't have all of these keycards.}
 {221}{}{Insert Red Reactor Keycard.}
-{222}{}{Keycard accepted. Security override 1 complete. Level 2 Security still activated.}
+{222}{}{Tesserino accettato. Sovrascrittura di sicurezza 1 completata. Sicurezza di livello 2 ancora attiva.}
 {223}{}{Insert Presidential Security Passkey.}
 {224}{}{Looks like I am still missing a keycard.}
-{225}{}{Keycard accepted. Security override 2 complete.}
+{225}{}{Tesserino accettato. Sovrascrittura di sicurezza 2 completata.}
 {226}{}{Activate bomb.}
 {227}{}{Esci.}
-{228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
- T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
+{228}{}{La bomba e' stata attivata e detonera' in T-meno 5 min. Errore nella procedura di conto alla rovescia. Conto alla rovescia riavviato a
+ T-meno 5 secondi. Assicurati di essere ad almeno 80 miglia dall'area dell'esplosione. Buona giornata.}
 {229}{}{Mother of God...}

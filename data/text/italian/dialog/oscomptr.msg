@@ -34,76 +34,76 @@
 {133}{}{Ed ora io ti daro' la morte.}
 {134}{}{Prendete il suo cadavere. Il dottore voleva un esemplare.}
 {135}{}{Il loro sangue scorrera' come il Nilo!}
-{200}{}{Welcome, Vault Dweller. For your convenience, this Vault-Tec terminal has been modified to respond to vocal commands. Please vocalize your command now.}
-{201}{}{Oh, you've got me confused with someone else. You see, I'm not the Vault Dweller, I'm the Chosen One. }
+{200}{}{Benvenuto, Abitante del Vault. Per tua comodita', questo terminale Vault-Tec e' stato modificato per rispondere ai comandi vocali. Pronuncia il tuo comando adesso.}
+{201}{}{Oh, mi stai confondendo con qualcun altro. Vedi, io non sono l'Abitante del Vault, sono il Prescelto. }
 {202}{}{Run diagnostics.}
 {203}{}{Switch to keyboard input mode.}
 {204}{}{Access security footage.}
 {205}{}{Esci.}
 {206}{}{Urk?}
-{210}{}{[A light blinks on the terminal as it makes various clicking and whirling sounds. After several seconds, text
- appears on the monitor.] Sorry, I did not understand your command. Please repeat your command, making sure to speak
- directly into the microphone in a clear and precise manner. Vault-Tec apologizes for any inconvenience. Thank you.}
+{210}{}{[Una spia lampeggia sul terminale mentre emette vari suoni di clic e ronzii. Dopo alcuni secondi, del testo
+ appare sul monitor.] Spiacente, non ho capito il tuo comando. Ripeti il tuo comando, assicurandoti di parlare
+ direttamente nel microfono in modo chiaro e preciso. Vault-Tec si scusa per l'inconveniente. Grazie.}
 {211}{}{Run diagnostics.}
 {212}{}{Switch to keyboard input mode.}
 {213}{}{Access security footage.}
 {214}{}{Esci.}
-{220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience... Thank you for waiting... Diagnostic
- checks complete. All systems are working properly. After all, you're using Vault-Tec. }
+{220}{}{Attendi mentre avvio i controlli diagnostici..Vault-Tec apprezza la tua pazienza... Grazie per aver atteso... Controlli
+ diagnostici completati. Tutti i sistemi funzionano correttamente. Dopotutto, stai usando Vault-Tec. }
 {221}{}{Indietro.}
 {222}{}{Esci.}
-{230}{}{Switching to manual interface mode... manual interface mode initiated. For the convenience of others, this
- terminal will automatically revert to vocal interface mode once you have logged off. Please input command.}
+{230}{}{Passaggio alla modalita' interfaccia manuale... modalita' interfaccia manuale avviata. Per comodita' degli altri, questo
+ terminale tornera' automaticamente alla modalita' interfaccia vocale una volta effettuato il logout. Inserisci il comando.}
 {231}{}{Search database for anything of interest.}
 {232}{}{Esci.}
-{240}{}{After a bit of searching, you discover three files that might be worth a look: Vault Dweller's Survival Guide
- (Abridged Version), Vault 13 Timeline, and Overseer Logs.}
-{241}{}{Access Vault Dweller's Survival Guide (Abridged Version). }
-{242}{}{Access Vault 13 Timeline. }
-{243}{}{Access Overseer Logs.}
+{240}{}{Dopo una breve ricerca, scopri tre file che potrebbero valere un'occhiata: Guida alla Sopravvivenza dell'Abitante del Vault
+ (Versione Abbreviata), Cronologia del Vault 13, e Diari del Supervisore.}
+{241}{}{Accedi alla Guida alla Sopravvivenza dell'Abitante del Vault (Versione Abbreviata). }
+{242}{}{Accedi alla Cronologia del Vault 13. }
+{243}{}{Accedi ai Diari del Supervisore.}
 {244}{}{Esci.}
-{250}{}{Welcome to Vault-13, the latest in a series of public defense works from Vault-Tec, your contractor of choice
- when it comes to the best in nuclear shelters. Vault-Tec, America's Final Word in Homes.}
+{250}{}{Benvenuto nel Vault-13, l'ultimo di una serie di opere di difesa pubblica di Vault-Tec, il tuo appaltatore di fiducia
+ quando si tratta dei migliori rifugi nucleari. Vault-Tec, l'Ultima Parola dell'America sulle Case.}
 {251}{}{[AVANTI]}
-{252}{}{The Vault series of survival shelters are designed from the ground up to provide the best chance for a good life
- following nuclear armageddon. It is the duty of every American citizen to learn and use the skills necessary for a comfortable Vault life. The best place to start is with a description of your new home.}
+{252}{}{La serie di rifugi di sopravvivenza Vault e' progettata dalle fondamenta per offrire la migliore possibilita' di una buona vita
+ dopo l'armageddon nucleare. E' dovere di ogni cittadino americano imparare e usare le competenze necessarie per una vita confortevole nel Vault. Il posto migliore da cui cominciare e' con una descrizione della tua nuova casa.}
 {253}{}{[AVANTI]}
-{254}{}{IMPORTANT VAULT 13 STATISTICS
-                                    Starting construction date: August 2063
-                        Ending construction date: March 2069
-                             Starting Budget: $400,000,000,000
-                                Final Budget, with interest: $645,000,000,000
-                   Total number of occupants: 1,000 (at capacity)
-                 Total duration: 10 years (at capacity)
-                            Number of living quarters: 100 (hot bunking required if at maximum capacity)}
+{254}{}{STATISTICHE IMPORTANTI DEL VAULT 13
+                                    Data inizio costruzione: Agosto 2063
+                        Data fine costruzione: Marzo 2069
+                             Budget iniziale: $400.000.000.000
+                                Budget finale, con interessi: $645.000.000.000
+                   Numero totale di occupanti: 1.000 (a piena capacita')
+                 Durata totale: 10 anni (a piena capacita')
+                            Numero di alloggi: 100 (turni di riposo necessari a capacita' massima)}
 {255}{}{[AVANTI]}
-{256}{}{To help Vault Dwellers record information (and information is extremely valuable, in fact, it might be the most
- valuable weapon we have against the end of civilization, so pay attention!) Vault-Tec has selected the RobCo Industries RobCo Pip-Boy 2000 as the Personal Information Processor of choice for its Vault Dwellers.}
+{256}{}{Per aiutare gli Abitanti del Vault a registrare informazioni (e le informazioni sono estremamente preziose, anzi, potrebbero essere l'arma piu'
+ preziosa che abbiamo contro la fine della civilta', quindi presta attenzione!) Vault-Tec ha selezionato il RobCo Pip-Boy 2000 della RobCo Industries come Elaboratore di Informazioni Personali di riferimento per i suoi Abitanti del Vault.}
 {257}{}{[AVANTI]}
-{258}{}{The RobCo Pip-Boy 2000 is a handy device that you wear on your wrist. It's small, especially by today's standards, and it will store a goodly amount of information for you. And using modern super-deluxe
- graphics to boot! Please refer to your Pip-Boy manual for more information.}
+{258}{}{Il RobCo Pip-Boy 2000 e' un pratico dispositivo che indossi al polso. E' piccolo, specialmente per gli standard odierni, e conservera' una buona quantita' di informazioni per te. E con una grafica moderna super-deluxe
+ per di piu'! Consulta il manuale del tuo Pip-Boy per ulteriori informazioni.}
 {259}{}{[AVANTI]}
-{260}{}{The key to a successful reintroduction of civilization following a massive scale nuclear war is people. Here at Vault-Tec, we are working to ensure to your fellow man (and woman) is up to the task of bringing America back from the dead.}
+{260}{}{La chiave per un reinserimento riuscito della civilta' dopo una guerra nucleare su vasta scala e' la gente. Qui a Vault-Tec, stiamo lavorando per assicurarci che i tuoi simili (uomini e donne) siano all'altezza del compito di riportare l'America dalla morte.}
 {261}{}{[AVANTI]}
-{262}{}{We believe that a positive attitude is one of the best tools at our disposal. Should you encounter any fellow Vault Dwellers displaying a less than positive attitude, you are encouraged to report them to your Vault's Overseer. Remember, once the doors are sealed, the Overseer's word is law.}
+{262}{}{Crediamo che un atteggiamento positivo sia uno dei migliori strumenti a nostra disposizione. Se dovessi incontrare degli Abitanti del Vault che mostrano un atteggiamento meno che positivo, sei incoraggiato a segnalarli al Supervisore del tuo Vault. Ricorda, una volta sigillate le porte, la parola del Supervisore e' legge.}
 {263}{}{[AVANTI]}
-{264}{}{Vault-13 comes prepared with the latest in survival equipment. The items in your storage containers will last 1,000 people over 10 years in comfortable and modern surroundings. When it is time to leave the Vault, and return to rebuild America, your friends at Vault-Tec have provided you with everything that you will need.}
+{264}{}{Il Vault-13 viene fornito con gli ultimi equipaggiamenti di sopravvivenza. Gli oggetti nei tuoi contenitori di stoccaggio basteranno a 1.000 persone per 10 anni in un ambiente confortevole e moderno. Quando sara' il momento di lasciare il Vault e tornare a ricostruire l'America, i tuoi amici di Vault-Tec ti hanno fornito tutto cio' di cui avrai bisogno.}
 {265}{}{[AVANTI]}
-{266}{}{Thank you for taking the time to read The Vault Dweller's Survival Guide (Abridged Version). We at Vault-Tec feel confident that you'll love your new underground dwelling.}
-{267}{}{Access Vault 13 Timeline. }
-{268}{}{Access Overseer Logs.}
+{266}{}{Grazie per aver preso il tempo di leggere la Guida alla Sopravvivenza dell'Abitante del Vault (Versione Abbreviata). Noi di Vault-Tec siamo certi che amerai la tua nuova abitazione sotterranea.}
+{267}{}{Accedi alla Cronologia del Vault 13. }
+{268}{}{Accedi ai Diari del Supervisore.}
 {269}{}{Esci.}
-{270}{}{As you read over the beginning of the timeline, you find it interesting that no reason is given for why the Vault didn't open 10 years after the Great War, as it was originally designed to. }
+{270}{}{Mentre leggi l'inizio della cronologia, trovi interessante che non venga fornita alcuna ragione per cui il Vault non si e' aperto 10 anni dopo la Grande Guerra, come era stato originariamente progettato. }
 {271}{}{[AVANTI]}
-{272}{}{Browsing ahead, you don't find much of interest until the year 2161, when the Vault's only working water chip breaks down. You feel a surge of pride as you read about your grandfather being selected for the important task of leaving the Vault and scouring the wasteland for a replacement water chip. However, it feels a little odd seeing your tribe's most revered legend told in a simple bullet point format.}
+{272}{}{Scorrendo avanti, non trovi nulla di interessante fino all'anno 2161, quando l'unico chip dell'acqua funzionante del Vault si rompe. Senti un moto di orgoglio mentre leggi di tuo nonno selezionato per l'importante compito di lasciare il Vault e perlustrare il wasteland alla ricerca di un chip dell'acqua sostitutivo. Tuttavia, e' un po' strano vedere la leggenda piu' venerata della tua tribu' raccontata in un semplice formato a punti elenco.}
 {273}{}{[AVANTI]}
-{274}{}{Continuing down the timeline, you read of your grandfather's success and subsequent exile, and how several other vault dwellers chose to join him rather than remain in the relative safety of the Vault. You also discover that the Overseer was eventually tried and executed by the remaining vault dwellers.}
+{274}{}{Continuando lungo la cronologia, leggi del successo di tuo nonno e del successivo esilio, e di come diversi altri abitanti del Vault abbiano scelto di unirsi a lui piuttosto che restare nella relativa sicurezza del Vault. Scopri anche che il Supervisore fu infine processato e giustiziato dagli abitanti rimasti.}
 {275}{}{[AVANTI]}
-{276}{}{The final entry in the timeline is dated May of 2242. It seems that, for the first time, Vault 13 was sent an "all clear" signal from an unknown source. After some debate, the vault dwellers decided to open the Vault doors and see what awaited them on the surface world. There is no record of what happened to them after that.}
-{277}{}{Access Vault Dweller's Survival Guide (Abridged Version). }
-{278}{}{Access Overseer Logs.}
+{276}{}{L'ultima voce della cronologia e' datata maggio 2242. Sembra che, per la prima volta, il Vault 13 abbia ricevuto un segnale di "via libera" da una fonte sconosciuta. Dopo un po' di dibattito, gli abitanti del Vault decisero di aprire le porte e vedere cosa li aspettava nel mondo esterno. Non c'e' nessuna registrazione di cosa sia successo loro dopo.}
+{277}{}{Accedi alla Guida alla Sopravvivenza dell'Abitante del Vault (Versione Abbreviata). }
+{278}{}{Accedi ai Diari del Supervisore.}
 {279}{}{Esci.}
-{280}{}{Authorization required. Please enter password. }
+{280}{}{Autorizzazione richiesta. Inserisci la password. }
 {281}{}{[INDIETRO]}
 {282}{}{[Guess password]}
 {283}{}{[Attempt to hack into it.]}
@@ -113,57 +113,57 @@
 {292}{}{[Guess password]}
 {293}{}{[Attempt to hack into it.]}
 {294}{}{Esci.}
-{300}{}{Incorrect. You are now locked out of these files. Vault-Tec apologizes for any inconvenience.}
+{300}{}{Errata. L'accesso a questi file e' ora bloccato. Vault-Tec si scusa per l'inconveniente.}
 {301}{}{[INDIETRO]}
 {302}{}{[Attempt to hack into it.]}
 {303}{}{Esci.}
-{310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}
+{310}{}{[Provi tutto quello che ti viene in mente, ma non riesci ad ottenere l'accesso. Con un sospiro di resa, torni al menu principale.]}
 {311}{}{Run diagnostics.}
 {312}{}{Switch to keyboard input mode.}
 {313}{}{Access security footage.}
 {314}{}{Esci.}
-{320}{}{Password correct. All entries but one have been removed from the system. Final entry in the Overseer's Logs is still accessible.}
-{321}{}{[After several long minutes of working your technical magic, you manage to hack your way into the Overseer's Logs. However, it seems that every entry except for the final one has been deleted.]}
-{322}{}{Alright, let's see what this Overseer had to say. [Read Log.] }
+{320}{}{Password corretta. Tutte le voci tranne una sono state rimosse dal sistema. L'ultima voce dei Diari del Supervisore e' ancora accessibile.}
+{321}{}{[Dopo diversi lunghi minuti a lavorare la tua magia tecnica, riesci ad hackerare i Diari del Supervisore. Tuttavia, sembra che ogni voce tranne l'ultima sia stata cancellata.]}
+{322}{}{Bene, vediamo cosa aveva da dire questo Supervisore. [Leggi il diario.] }
 {323}{}{Eh, whatever. [Logoff.]}
-{330}{}{This is it. Consider these my final words, as I doubt I'll live to write another entry. Oh no, the people of the Vault have spoken, and they've made it quite clear that they want my head. I knew this day would come, ever since HE managed to rile them up by doing the impossible. Sure, he saved all our lives, but he also ruined everything.}
+{330}{}{E' questo. Considera queste le mie ultime parole, poiche' dubito di vivere abbastanza da scrivere un'altra voce. Oh no, la gente del Vault ha parlato, e ha reso abbastanza chiaro che vuole la mia testa. Sapevo che questo giorno sarebbe arrivato, da quando LUI e' riuscito ad agitarli facendo l'impossibile. Certo, ha salvato le nostre vite, ma ha anche rovinato tutto.}
 {331}{}{[AVANTI]}
-{332}{}{Let it be known that I took little joy in exiling our "great hero", but I had no choice in the matter. His adventures in the outside world had changed him too much. He was too great a threat to the project. Had I let him remain among us, he might have uncovered the true nature of the Vaults and jeopardized the experiment. Even if he didn't, he'd at least inspire others to venture outside, which would be just as bad.}
+{332}{}{Sia noto che ho ricavato poco piacere nell'esiliare il nostro "grande eroe", ma non avevo scelta in merito. Le sue avventure nel mondo esterno lo avevano cambiato troppo. Era una minaccia troppo grande per il progetto. Se lo avessi lasciato restare tra noi, avrebbe potuto scoprire la vera natura dei Vault e mettere a rischio l'esperimento. Anche se non l'avesse fatto, avrebbe almeno ispirato gli altri ad avventurarsi fuori, il che sarebbe stato altrettanto grave.}
 {333}{}{[AVANTI]}
-{334}{}{He simply had to go. There was no other option. But even that wasn't enough. No, I'm afraid the damage had already been done. I allowed his most stubborn supporters to follow him into exile, and then tried to reassert my control over those who remained. But it was no use -- I'd already been vilified. So be it. The only thing I'm guilty of is an entire lifetime of carrying out the demands of our Great Nation.}
+{334}{}{Doveva semplicemente andarsene. Non c'era altra opzione. Ma anche questo non e' bastato. No, temo che il danno fosse gia' stato fatto. Ho permesso ai suoi sostenitori piu' testardi di seguirlo in esilio, e poi ho cercato di ristabilire il mio controllo su coloro che rimanevano. Ma non e' servito a nulla -- ero gia' stato demonizzato. Cosi' sia. L'unica cosa di cui sono colpevole e' una vita intera a portare avanti le richieste della nostra Grande Nazione.}
 {335}{}{[AVANTI]}
-{336}{}{My only regret is that Vault 13 is not likely to complete the social experiment. Once I've been disposed of, I feel certain the others will leave the Vault. Not right away, of course -- I've instilled too much fear in them of the outside world. But eventually, they're bound to overcome that fear. I have very little faith that Vault 13 will remained closed until 2277, as the experiment dictates.}
+{336}{}{Il mio unico rimpianto e' che il Vault 13 probabilmente non completera' l'esperimento sociale. Una volta che saro' stato eliminato, sono certo che gli altri lasceranno il Vault. Non subito, ovviamente -- ho instillato in loro troppa paura del mondo esterno. Ma alla fine, sono destinati a superare quella paura. Ho pochissima fiducia che il Vault 13 rimanga chiuso fino al 2277, come prescrive l'esperimento.}
 {337}{}{[AVANTI]}
-{338}{}{I'm afraid I have failed my duty as Overseer. I can only hope that the rest of the public Vaults involved in the Societal Preservation Program have been more successful. To my superiors, who I'm certain will one day read this: forgive me. And may God bless America.}
-{339}{}{Search for any other files that contain information on "Societal Preservation Program".}
+{338}{}{Temo di aver mancato al mio dovere di Supervisore. Posso solo sperare che il resto dei Vault pubblici coinvolti nel Programma di Preservazione Sociale abbiano avuto piu' successo. Ai miei superiori, che sono certo leggeranno un giorno questo: perdonatemi. E Dio benedica l'America.}
+{339}{}{Cerca altri file che contengano informazioni sul "Programma di Preservazione Sociale".}
 {340}{}{Esci.}
-{350}{}{After hours of scouring through the computer's archives, you're unable to find anything else that mentions the Societal Preservation Program. As you give up your search, you vow never again to waste so much time staring at a computer monitor.}
+{350}{}{Dopo ore a setacciare gli archivi del computer, non riesci a trovare nient'altro che menzioni il Programma di Preservazione Sociale. Mentre rinunci alla ricerca, giuri di non sprecare mai piu' cosi' tanto tempo a fissare uno schermo di computer.}
 {351}{}{Esci.}
-{360}{}{After hours of scouring through the computer's archives, you're able to locate a few hidden documents concerning the Societal Preservation Program. As you read over them, you uncover a rather disturbing truth about the Vaults: they were never intended to save the population of the United States.}
+{360}{}{Dopo ore a setacciare gli archivi del computer, riesci a localizzare alcuni documenti nascosti riguardanti il Programma di Preservazione Sociale. Mentre li leggi, scopri una verita' piuttosto inquietante sui Vault: non erano mai stati concepiti per salvare la popolazione degli Stati Uniti.}
 {361}{}{[AVANTI]}
-{362}{}{Incredibly, all 122 of Vault-Tec's public Vaults were part of a grand social experiment orchestrated by the US government. Only 17 of those Vaults, dubbed "control Vaults", were designed to function correctly (it seems Vault 8 was one of the lucky few). The rest were meant to have various critical flaws, so that the government could study the pre-selected occupants, and see how they react to the stresses of their situations, and how well they're able to re-colonize once their Vaults open.}
+{362}{}{Incredibilmente, tutti e 122 i Vault pubblici di Vault-Tec facevano parte di un grande esperimento sociale orchestrato dal governo statunitense. Solo 17 di quei Vault, denominati "Vault di controllo", erano progettati per funzionare correttamente (sembra che il Vault 8 fosse uno dei pochi fortunati). Il resto era destinato ad avere vari difetti critici, in modo che il governo potesse studiare gli occupanti preselezionati e vedere come reagiscono alle pressioni delle loro situazioni e quanto bene riescono a ricolonizzare una volta aperti i loro Vault.}
 {363}{}{[AVANTI]}
-{364}{}{It seems Vault 13's role in the experiment was to remain closed for 200 years to test the effects of prolonged isolation. Apparently, the breaking down of the water chip was un-intended, and forced the Overseer to improvise by selecting your grandfather to go out and fetch a new chip. After some more digging around, you manage to find descriptions of some of other Vault experiments.}
+{364}{}{Sembra che il ruolo del Vault 13 nell'esperimento fosse di restare chiuso per 200 anni per testare gli effetti dell'isolamento prolungato. A quanto pare, la rottura del chip dell'acqua non era prevista, e ha costretto il Supervisore ad improvvisare selezionando tuo nonno per uscire a procurarsi un nuovo chip. Dopo ulteriori ricerche, riesci a trovare descrizioni di alcuni altri esperimenti dei Vault.}
 {365}{}{[AVANTI]}
-{366}{}{Vault 12's door was designed never to close, so that the assholes behind this experiment could "study the effects of radiation on the selected population". If you recall the legend correctly, Vault 12 was located under the ghoul filled city of Necropolis, where the Vault Dweller finally found the water chip. It seems quite likely that the ghouls were the result of this experiment.}
+{366}{}{La porta del Vault 12 era progettata per non chiudersi mai, in modo che gli stronzi dietro questo esperimento potessero "studiare gli effetti delle radiazioni sulla popolazione selezionata". Se ricordi correttamente la leggenda, il Vault 12 era situato sotto la citta' piena di ghoul di Necropolis, dove l'Abitante del Vault trovo' infine il chip dell'acqua. Sembra abbastanza probabile che i ghoul fossero il risultato di questo esperimento.}
 {367}{}{[AVANTI]}
-{368}{}{Vault 15, another key location in the Vault Dweller's quest, was to be populated by people with "radically diverse ideologies" that would be sealed in the Vault together for 50 years. Vault 27 was to be purposely overcrowded with 2,000 people -- double the maximum capacity. That couldn't have been pretty. Vault 29 was to be populated only by those under the age of sixteen, with their parents "purposely redirected to other Vaults".}
+{368}{}{Il Vault 15, un'altra location chiave nella missione dell'Abitante del Vault, doveva essere popolato da persone con "ideologie radicalmente diverse" che sarebbero state sigillate nel Vault insieme per 50 anni. Il Vault 27 doveva essere deliberatamente sovraffollato con 2.000 persone -- il doppio della capacita' massima. Non dev'essere stato bello. Il Vault 29 doveva essere popolato solo da chi aveva meno di sedici anni, con i genitori "deliberatamente reindirizzati ad altri Vault".}
 {369}{}{[AVANTI]}
-{370}{}{Vault 34's experiment involved an armory overstocked with weapons and ammo, and, of course, not provided with a lock. How pleasant. Vault 36 suffered from food extruders that were designed to produce only "a thin, watery gruel", while Vault 42 was outfitted only with dim lighting--no light bulbs of over 40 watts were provided.}
+{370}{}{L'esperimento del Vault 34 prevedeva un arsenale sovraccarico di armi e munizioni, e, ovviamente, privo di serratura. Che piacere. Il Vault 36 soffriva di estrusori alimentari progettati per produrre solo "una brodaglia acquosa e misera", mentre il Vault 42 era dotato solo di illuminazione fioca -- non erano fornite lampadine da piu' di 40 watt.}
 {371}{}{[AVANTI]}
-{372}{}{Vault 53's equipment was designed to break down every few months. While repairable, the constant breakdowns were meant to test the stress of the inhabitants. You wonder how many expert mechanics and technicians that Vault produced. Vault 55 would have all its entertainment tapes removed, while Vault 56 would have all its entertainment tapes removed, with the exception of one featuring a particularly bad comic actor.}
+{372}{}{Le attrezzature del Vault 53 erano progettate per guastarsi ogni pochi mesi. Sebbene riparabili, i guasti continui erano destinati a testare lo stress degli abitanti. Ti chiedi quanti meccanici e tecnici esperti abbia prodotto quel Vault. Il Vault 55 avrebbe tutte le sue cassette di intrattenimento rimosse, mentre il Vault 56 avrebbe tutte le sue cassette di intrattenimento rimosse, ad eccezione di una con un attore comico particolarmente scarso.}
 {373}{}{[AVANTI]}
-{374}{}{Vault 68 was to be occupied by 999 males and only one female. You can only imagine the horrors that took place there... Vault 69, on the other hand, was to be occupied by 999 females and only one male... interesting. Vault 70's jumpsuit extruders were designed to fail after 6 months. And finally, Vault 106 was designed so that 10 days after being sealed, it would begin "releasing psychoactive drugs into the air filtration system".}
+{374}{}{Il Vault 68 doveva essere occupato da 999 maschi e una sola femmina. Puoi solo immaginare gli orrori che vi hanno avuto luogo... Il Vault 69, d'altro canto, doveva essere occupato da 999 femmine e un solo maschio... interessante. Gli estrusori di tute del Vault 70 erano progettati per guastarsi dopo 6 mesi. E infine, il Vault 106 era progettato in modo che 10 giorni dopo essere stato sigillato, avrebbe cominciato a "rilasciare droghe psicoattive nel sistema di filtrazione dell'aria".}
 {375}{}{Esci.}
 {500}{}{You learn about the Vault Experiments and the roles of the various Vaults.}
-{510}{}{You learn about the history of Vault 13 and the Overseer's role in the Vault Experiments.}
+{510}{}{Apprendi la storia del Vault 13 e il ruolo del Supervisore negli Esperimenti dei Vault.}
 {520}{}{I'm sorry, I did not understand that.}
 {521}{}{Esci.}
-{2541}{}{Door thickness: 4 yards, steel
-                                       Earth coverage: 3,200,000 tons of soil, at 200 feet
-           Computer control system: Think machine
-                          Primary power supply: Geo-thermal
-                                Secondary power supply: General Atomics Nuclear Power backup systems
-                                                         Power requirements: 3.98mkw/day
-                                 Stores: Complete construction equipment, hydro-agricultural farms, water purification system from underground river,
- defensive weaponry to equip 10 men, communication, social and entertainment files (for total duration)}
+{2541}{}{Spessore porta: 4 iarde, acciaio
+                                       Copertura terrestre: 3.200.000 tonnellate di terreno, a 200 piedi
+           Sistema di controllo computer: Calcolatore
+                          Alimentazione primaria: Geo-termica
+                                Alimentazione secondaria: Sistemi di backup a energia nucleare General Atomics
+                                                         Requisiti energetici: 3,98mkw/giorno
+                                 Scorte: Equipaggiamento da costruzione completo, fattorie idro-agricole, sistema di purificazione dell'acqua da fiume sotterraneo,
+ armamento difensivo per equipaggiare 10 uomini, file di comunicazione, sociali e di intrattenimento (per tutta la durata)}

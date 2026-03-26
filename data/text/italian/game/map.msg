@@ -534,13 +534,13 @@
 {663}{}{Villaggio}
 {664}{}{Villaggio}
 {665}{}{Woodland}
-{666}{}{Tribe}
-{667}{}{Tribe}
+{666}{}{Tribu'}
+{667}{}{Tribu'}
 {668}{}{Fishing Area}
 {669}{}{Small Cave}
 {670}{}{enter name}
 {671}{}{Entrance}
-{672}{}{Air, Water, and Power Facility Level}
+{672}{}{Livello Impianto Aria, Acqua e Energia}
 {673}{}{Robot Maintenance}
 {674}{}{Level One}
 {675}{}{Level Two}
@@ -557,15 +557,15 @@
 {686}{}{Entrance}
 {687}{}{Level One}
 {688}{}{Level Two}
-{689}{}{Ranger Safe House}
-{690}{}{Ranger Safe House}
-{691}{}{Ranger Safe House}
-{692}{}{Ranger Safe House}
-{693}{}{Ranger Safe House}
-{694}{}{Ranger Safe House}
-{695}{}{Ranger Safe House}
-{696}{}{Ranger Safe House}
-{697}{}{Ranger Safe House}
+{689}{}{Rifugio Sicuro dei Ranger}
+{690}{}{Rifugio Sicuro dei Ranger}
+{691}{}{Rifugio Sicuro dei Ranger}
+{692}{}{Rifugio Sicuro dei Ranger}
+{693}{}{Rifugio Sicuro dei Ranger}
+{694}{}{Rifugio Sicuro dei Ranger}
+{695}{}{Rifugio Sicuro dei Ranger}
+{696}{}{Rifugio Sicuro dei Ranger}
+{697}{}{Rifugio Sicuro dei Ranger}
 {698}{}{Deserto}
 {699}{}{Deserto}
 {700}{}{Deserto}
@@ -605,7 +605,7 @@
 {1515}{}{Navarro}
 {1516}{}{L'Enclave}
 {1517}{}{Abbazia}
-{1518}{}{Umbra Tribe}
+{1518}{}{Tribu' Umbra}
 {1519}{}{EPA}
 {1520}{}{Fattoria Fantasma}
 {1521}{}{Macchina a secco}

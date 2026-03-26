@@ -1,50 +1,50 @@
 {100}{}{Vedi un ragazzino.}
 {101}{}{You see Little Bobby.}
-{102}{}{He is wearing dirty clothing and has bruises on his neck and face.}
+{102}{}{Indossa vestiti sporchi e ha lividi sul collo e sul viso.}
 {103}{}{He is wearing new clothing and has a smile on his face.}
-{104}{}{Hi mister! My name's Bobby and I live here with my Dad.}
-{105}{}{Hi miss! My name's Bobby and I live here with my Dad.}
+{104}{}{Ciao signore! Mi chiamo Bobby e vivo qui con mio papa'.}
+{105}{}{Ciao signora! Mi chiamo Bobby e vivo qui con mio papa'.}
 {106}{}{I see. Well tha-}
-{107}{}{Are you here 'cause my dad owes you money? I don't know if he's here or not. But if I knew where he was,
- I'd tell you, 'cause maybe you'd beat him up so bad he wouldn't ever come home again.}
-{108}{}{This sounds horrible, Bobby. Your father has no right to treat you that way -- no parent does.}
-{109}{}{Hah! I'd beat my son too if he didn't listen to me. Your father sounds like a good man.}
-{110}{}{[His eyes light up.] You aren't like the others that come through here. I like you. [He sighs heavily.]
- I wish my dad was more like you. Sometimes I think about running away. Some of my friends don't have homes, and they say
- it's not so bad. As long as they bring Mr. Flick enough things, they get to eat once a day. But Mr. Flick doesn't sound very
- nice either -- actually, he sounds a lot like my dad.}
+{107}{}{Sei qui perche' mio papa' ti deve dei soldi? Non so se e' qui o no. Ma se sapessi dov'e',
+ te lo direi, perche' magari lo picchieresti cosi' forte da non farlo tornare mai piu' a casa.}
+{108}{}{E' terribile, Bobby. Tuo padre non ha il diritto di trattarti cosi' -- nessun genitore ce l'ha.}
+{109}{}{Ah! Picchierei anche mio figlio se non mi ascoltasse. Tuo padre sembra un brav'uomo.}
+{110}{}{[Gli si illuminano gli occhi.] Non sei come gli altri che passano di qui. Mi piaci. [Sospira forte.]
+ Vorrei che mio papa' fosse piu' come te. A volte penso di scappare. Alcuni miei amici non hanno una casa, e dicono
+ che non e' poi cosi' male. Finche' portano abbastanza cose a Mr. Flick, possono mangiare una volta al giorno. Ma Mr. Flick non sembra molto
+ gentile nemmeno lui -- anzi, sembra proprio come mio papa'.}
 {111}{}{You're a meanie! Go away. I don't like you.}
-{112}{}{There's gotta be something that can be done about this. Can you think of any adults in this town that'd be willing to
- look after you -- or any of these homeless kids?}
-{113}{}{[Bobby shrugs.] Maybe Mom? I don't mean *my* mom -- my mom's dead -- but there's a lady that people call Mom. I dunno why.
- Maybe 'cause she's really nice? She's got a diner on the other side of town. [He points to the Northeast.] My homeless friends go
- there and she sneaks them free food. I wish Dad would take me there, 'cause she knows how to make rat taste really yummy!}
-{114}{}{Hmm, I *am* feeling a bit hungry. Perhaps I'll go pay Mom a visit. You take care of yourself, Bobby.}
-{115}{}{You're such a little brat. I better leave now before I kick the shit outta you. Bye.}
-{116}{}{Guess what, Bobby? I spoke with Mom, and she's going to be opening up a nice big new home where you and all your
- homeless friends are welcome to go live together. It's going to be in the big building that's right across the street from here.
- She said she'll have it all set up in a couple days.}
-{117}{}{[A huge smile lights up the boy's face.] Really? That's great! [He hugs you.] I can't wait to live there with all my
- friends! I'm so excited! Thanks again mister, you're the best!}
-{118}{}{[A huge smile lights up the boy's face.] Really? That's great! [He hugs you.] I can't wait to live there with all my
- friends! I'm so excited! Thanks again miss, you're the best!}
+{112}{}{Ci deve essere qualcosa che si puo' fare. Ti viene in mente qualche adulto in questa citta' disposto a
+ occuparsi di te -- o di questi bambini senzatetto?}
+{113}{}{[Bobby scrolla le spalle.] Forse Mom? Non intendo *mia* mamma -- la mia e' morta -- ma c'e' una signora che tutti chiamano Mom. Non so perche'.
+ Forse perche' e' molto gentile? Ha una tavola calda dall'altra parte della citta'. [Indica a nord-est.] I miei amici senzatetto vanno
+ li' e lei gli passa del cibo gratis di nascosto. Vorrei che papa' mi portasse li', perche' lei sa rendere il ratto davvero buono!}
+{114}{}{Hmm, ho *un po'* di fame. Forse andro' a fare visita a Mom. Stammi bene, Bobby.}
+{115}{}{Sei proprio un moccioso. Meglio che me ne vada prima di riempirti di botte. Ciao.}
+{116}{}{Indovina, Bobby? Ho parlato con Mom, e aprira' una bella casa grande dove tu e tutti i tuoi amici senzatetto
+ potrete andare a vivere insieme. Sara' nel grande edificio proprio dall'altra parte della strada.
+ Ha detto che sara' tutto pronto in un paio di giorni.}
+{117}{}{[Un enorme sorriso illumina il volto del ragazzo.] Davvero? Fantastico! [Ti abbraccia.] Non vedo l'ora di vivere li' con tutti i miei
+ amici! Sono cosi' felice! Grazie ancora signore, sei il migliore!}
+{118}{}{[Un enorme sorriso illumina il volto del ragazzo.] Davvero? Fantastico! [Ti abbraccia.] Non vedo l'ora di vivere li' con tutti i miei
+ amici! Sono cosi' felice! Grazie ancora signora, sei la migliore!}
 {119}{}{You're welcome kid. See you around.}
 {120}{}{Hi again! Did you talk to the Mom lady?}
 {121}{}{Don't worry Bobby, I'm working on it.}
-{122}{}{You help Bobby find a better life.}
-{123}{}{Hi again! Thanks for everything. I love this new place. Mom is such a great lady!}
-{124}{}{I love this new place. Mom is such a great lady!}
+{122}{}{Aiuti Bobby a trovare una vita migliore.}
+{123}{}{Ciao di nuovo! Grazie di tutto. Adoro questo nuovo posto. Mom e' davvero una grande donna!}
+{124}{}{Adoro questo nuovo posto. Mom e' davvero una grande donna!}
 {125}{}{I'm so excited! Time to pack my stuff.}
 {126}{}{I wonder if dad will notice I am gone.}
 {127}{}{This is going to be so much better.}
 {200}{}{I don't like you. Go away!}
-{210}{}{It sounds like you're not too fond of your dad. Mind if I ask why?}
-{211}{}{You little brat, what gives you the right to talk about your dad like that?}
-{220}{}{Cause my dad's not very nice. He leaves me home alone all the time, and when he *is* home, he's always drunk or
- he says he's flying on Jet, which is a lie 'cause I never see him fly anywhere. Sometimes, he brings a
- girlfriend home -- he's got lots of girlfriends -- and he makes me go outside for awhile, even if its the middle of the night
- and it's cold or raining.}
+{210}{}{Sembra che tuo padre non ti piaccia molto. Posso chiederti perche'?}
+{211}{}{Moccioso, chi ti credi di essere per parlare cosi' di tuo padre?}
+{220}{}{Perche' il mio papa' non e' molto gentile. Mi lascia sempre da solo a casa, e quando *c'e'* e' sempre ubriaco oppure
+ dice che sta volando con il Jet, che e' una bugia perche' non lo vedo mai volare da nessuna parte. A volte porta
+ a casa una fidanzata -- ne ha tante -- e mi fa uscire per un po', anche se e' notte fonda
+ e fa freddo o piove.}
 {221}{}{That's-}
-{230}{}{Oh! And sometimes he tells me to take things from people in secret. He says it's a game and that he gives it back later,
- but I don't' believe him. But if I don't do it, then he gets real mad and his eyes get all scary looking, and he hurts me.
- See? [He lifts up his shirt sleeve, revealing a nasty bruise on his arm.]}
+{230}{}{Oh! E a volte mi dice di prendere di nascosto delle cose alla gente. Dice che e' un gioco e che poi le restituisce,
+ ma non gli credo. Ma se non lo faccio, allora si arrabbia davvero e i suoi occhi diventano spaventosi, e mi fa male.
+ Vedi? [Alza la manica, mostrando un brutto livido sul braccio.]}

@@ -28,7 +28,7 @@
 {122}{}{Influenza velocita' giocatore}
 {123}{}{Voce del PipBoy}
 {201}{}{On}
-{202}{}{Spe.}
+{202}{}{Off}
 {203}{}{Facile}
 {204}{}{Normale}
 {205}{}{Difficile}

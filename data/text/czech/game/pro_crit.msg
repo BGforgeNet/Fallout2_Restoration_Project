@@ -504,7 +504,7 @@
 {48401}{}{Duch mrtvé Nessy.}
 {48500}{}{Saman}
 {48501}{}{Šaman kmene.}
-{48600}{}{Válečník   }
+{48600}{}{Válečník	}
 {48601}{}{Válečník kmene.}
 {48700}{}{Stráž}
 {48800}{}{Sulikova sestra}

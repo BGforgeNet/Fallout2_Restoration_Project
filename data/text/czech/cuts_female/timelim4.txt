@@ -1,8 +1,8 @@
-1:Chosen?
-2:Chosen?
-3:Do you hear me?
-4:[The] village [dies].
-5:[All of our] futures die, too.
-6:We have little [left in both time and] essence.
-7:Hurry.
-8:Hur-...
+1:Vyvolený?
+2:Vyvolený?
+3:Slyšíš mě?
+4:Vesnice [umírá].
+5:I [všechna naše] budoucnost umírá.
+6:Zbývá nám jen málo [času i ] sil.
+7:Pospěš si.
+8:Posp-...

@@ -1,5 +1,5 @@
 {100}{}{You see a Mr. Handy Robot.}
-{101}{}{This robot appears to have been designed to carry heavy supplies and equipment around.}
+{101}{}{Questo robot sembra essere stato progettato per trasportare rifornimenti e attrezzature pesanti.}
 {200}{}{Beep.}
 {201}{}{*Click*}
 {202}{}{*Beeboop*}

@@ -785,5 +785,5 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {883}{}{Uh, errore mio... Non intendevo dire --}
 {884}{}{Mi perdoni, Primo Cittadino. Io --}
 {885}{}{Guardie!}
-{1663}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
-{1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
+{1663}{}{Si erano rintanati in una serie di grotte nelle colline a sud. Ho convinto la loro guida a non aiutarli piu'. Senza di lui, non riusciranno a trovare la strada attraverso le montagne.}
+{1708}{}{Si erano rintanati in una serie di grotte nelle colline a sud. Ho convinto la loro guida a non aiutarli piu'. Senza di lui, non riusciranno a trovare la strada attraverso le montagne.}

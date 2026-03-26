@@ -1,1 +1,1 @@
-{100}{}{This locker is electronically locked. There is no way to unlock it from here.}
+{100}{}{Questo armadietto e' bloccato elettronicamente. Da qui non c'e' modo di aprirlo.}

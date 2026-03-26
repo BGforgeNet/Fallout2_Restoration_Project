@@ -74,4 +74,4 @@
 {173}{}{Wow, credo proprio che avesse qualche problema di cuore.}
 {174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! BRUCIA!!!}
 {175}{}{Hai consegnato l'olodisco a Westin.}
-{176}{}{His heart go boom boom.}
+{176}{}{Il suo cuore fa boom boom.}

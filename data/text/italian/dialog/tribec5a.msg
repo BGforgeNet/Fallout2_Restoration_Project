@@ -1,2 +1,2 @@
 {100}{}{You see the dead body of a young girl.}
-{101}{}{Though the body has been partially eaten by rats and other critters, you see evidence of stab wounds. The girl's face is a mask of torment and anguish. Surely her soul is distressed.}
+{101}{}{Anche se il corpo e' stato parzialmente mangiato da ratti e altre creature, vedi segni di coltellate. Il volto della ragazza e' una maschera di tormento e angoscia. Di certo la sua anima e' inquieta.}

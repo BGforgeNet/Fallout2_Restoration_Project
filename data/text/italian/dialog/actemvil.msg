@@ -83,12 +83,12 @@
 {310}{}{Molto bene. Torna da me se cambi idea.}
 {311}{}{Me ringrazia, Cameron.}
 {312}{}{Grazie, Cameron. Mi ricordero' della tua offerta.}
-{400}{}{Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.}
-{401}{}{Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?}
+{400}{}{Hai mai pensato di rinunciare al tuo ruolo di prova finale del Tempio? Voglio dire, puo' essere piuttosto rischioso.}
+{401}{}{La vita e' una costante serie di rischi, Prescelto. Ad ogni nuova alba, ognuno di noi si assume un rischio semplicemente uscendo di casa per affrontare il giorno ignoto. Perche' lo chiedi?}
 {402}{}{No reason. I'll talk with you later, Cameron.}
-{403}{}{Well, I was just thinking about what happened to your predecessor, you know, during his battle with... uh, "He-Who-Must-Not-Be-Named".}
-{410}{}{Ah, that was a dark day, indeed, for our tribe lost two good men: one in body, the other in spirit. But the foul deed of that day is no concern of mine. My time will come when the Gods deem it so.}
-{411}{}{And may that day be a long time coming. Good day, Cameron.}
-{412}{}{Are they even going to have other people attempt the Temple? Hasn't it already been determined that I'm the Chosen One?}
-{420}{}{There will always be a need to test the might of our people. And I take great honor in doing my part.}
+{403}{}{Be', stavo solo pensando a quello che e' successo al tuo predecessore, sai, durante il suo combattimento con... ehm, "Colui-Che-Non-Deve-Essere-Nominato".}
+{410}{}{Ah, fu davvero un giorno buio, poiche' la nostra tribu' perse due buoni uomini: uno nel corpo, l'altro nello spirito. Ma il vile atto di quel giorno non mi riguarda. Il mio momento verra' quando gli Dei lo riterranno opportuno.}
+{411}{}{E che quel giorno tardi ad arrivare. Buona giornata, Cameron.}
+{412}{}{Faranno tentare il Tempio anche ad altri? Non e' gia' stato stabilito che sono il Prescelto?}
+{420}{}{Ci sara' sempre bisogno di mettere alla prova la forza del nostro popolo. E mi onoro molto di fare la mia parte.}
 {421}{}{Alright, I'll see you later, Cameron.}

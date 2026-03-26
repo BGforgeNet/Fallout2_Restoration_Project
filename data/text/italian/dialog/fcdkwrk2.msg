@@ -1,56 +1,56 @@
 {100}{}{You see a dockworker. He looks up at you as you approach.}
-{101}{}{You see a melancholy dockworker. His sorrow-filled eyes glance up at you as you approach.}
-{200}{}{[Mumbles to himself.] Oh, what atrocities did poor Meng do in a past life to deserve such
- misfortune? Now the lao wai comes to me, and what good could possibly come of it? None, of course. None at all...}
-{201}{}{Why do you not leave poor Meng in peace? [Mumbles to himself.] Not that I've ever known peace. Or, if I did,
- then it's long forgotten, like a distant dream...}
-{202}{}{Uh, I seem to have caught you at a bad time. Bye.}
+{101}{}{Vedi un portuale malinconico. I suoi occhi pieni di tristezza si alzano verso di te mentre ti avvicini.}
+{200}{}{[Borbottando tra se'.] Oh, quali atrocita' avra' mai commesso il povero Meng in una vita passata per meritare
+ tanta sfortuna? Ora arriva il lao wai da me, e quale bene potrebbe mai venire da cio'? Nessuno, ovviamente. Nessuno...}
+{201}{}{Perche' non lasci in pace il povero Meng? [Borbottando tra se'.] Non che io abbia mai conosciuto la pace. O, se l'ho conosciuta,
+ e' ormai dimenticata, come un sogno lontano...}
+{202}{}{Uh, sembra di averti beccato in un brutto momento. Ciao.}
 {203}{}{What's your problem, Mumbles?}
-{204}{}{I noticed you seem to be upset about something. I was just wondering if I could help.}
-{210}{}{My problem? [He laughs bitterly.] Loa wai, you do not wish to know my problem. To hear of sorrows such as mine
- is to forget the sound of a child's laughter, and the warm embrace of a lover. No, trust me, you do not wish to glimpse my personal Hell.}
-{211}{}{I've witnessed a lot of terrible things in my time. I'm sure that whatever your problem is, I can handle it.}
-{212}{}{You think *your* problems are bad? I bet they don't *compare* to things I've been through.}
-{213}{}{I'm sorry things have been rough for you, but it might help to talk about it. If you're willing to talk, then I'm willing to listen.}
-{214}{}{All right Mr. Melodrama, I'm gonna leave now before you make me depressed. Bye.}
-{220}{}{Fine. You want to know my problem. I'll tell you. Two years ago, my brother, who looks very similar to me, had
- an affair with a local gang leader's girlfriend. The gang leader found out about it and my brother fled town. The gang
- caught me instead, and, thinking I was my brother, they severed my penis as punishment. Now I piss through a tube.}
+{204}{}{Ho notato che sembri turbato da qualcosa. Mi chiedevo se potessi aiutarti.}
+{210}{}{Il mio problema? [Ride amaramente.] Lao wai, non vuoi conoscere il mio problema. Sentire dolori come i miei
+ significa dimenticare il suono della risata di un bambino e il caldo abbraccio di un amante. No, fidati, non vuoi dare uno sguardo al mio inferno personale.}
+{211}{}{Ho visto molte cose terribili nella mia vita. Sono sicuro che qualunque sia il tuo problema, posso affrontarlo.}
+{212}{}{Pensi che i *tuoi* problemi siano gravi? Scommetto che non *reggono il confronto* con quello che ho passato io.}
+{213}{}{Mi dispiace che tu abbia passato momenti difficili, ma parlarne potrebbe aiutare. Se hai voglia di raccontarlo, io sono qui ad ascoltare.}
+{214}{}{Va bene, signor Dramma, me ne vado prima che tu deprima anche me. Ciao.}
+{220}{}{Va bene. Vuoi sapere qual e' il mio problema? Te lo dico. Due anni fa, mio fratello, che mi assomiglia molto,
+ ebbe una relazione con la ragazza di un capo banda locale. Il capo lo scopri' e mio fratello fuggii' dalla citta'.
+ La banda prese me al suo posto e, credendo che fossi lui, mi punii' in modo terribile. Ora devo urinare attraverso un tubo.}
 {221}{}{Oh, well-- }
-{230}{}{Oh no! I'm not done yet. Then my beautiful girlfriend left me, because I was no longer a "real man" and could not
- satisfy her. She then married my next door neighbor, who also happens to be my boss. Now, all day at work, he orders me
- around and mocks me with my co-workers. And every night I must try to fall asleep to the sound of him making love to the
- girl I should have married.}
-{231}{}{Hahaha! Holy shit, you're a loser. Why don't you do yourself a favor and just end it?}
-{232}{}{I, uh, wow, I'm not sure what to say. That's a terrible story.}
-{233}{}{I'm sorry that happened to you, Meng. Life can be cruel, but it can always get better. If I were you, I'd move
- somewhere else and find a different job. Otherwise you'll never be able to move on.}
-{240}{}{Yes. Yes, this is what I should have done long ago. It is the only way to retain what little honor I have left.
- Thank you, lao wai. [He takes out a knife and slits his throat. You watch as he quickly bleeds to death.]}
+{230}{}{Oh no! Non ho ancora finito. Poi la mia splendida ragazza mi lascio', perche' secondo lei non ero piu' un "vero uomo"
+ e non potevo piu' renderla felice. Sposo' il mio vicino di casa, che per giunta e' anche il mio capo. Ora, tutto il giorno,
+ lui mi comanda e mi prende in giro davanti ai colleghi. E ogni notte devo cercare di dormire sentendo lui con la donna che
+ avrei dovuto sposare io.}
+{231}{}{Ahah! Santo cielo, che disastro. Perche' non ti fai un favore e la smetti di rovinarti la vita cosi'?}
+{232}{}{Io... wow, non so cosa dire. E' una storia davvero terribile.}
+{233}{}{Mi dispiace per quello che ti e' successo, Meng. La vita puo' essere crudele, ma puo' anche migliorare. Se fossi in te,
+ me ne andrei altrove e cercherei un altro lavoro. Altrimenti non riuscirai mai ad andare avanti.}
+{240}{}{Si. Si, e' cio' che avrei dovuto fare molto tempo fa. E' l'unico modo per conservare quel poco di onore che mi resta.
+ Grazie, lao wai. [Estrae un coltello e si ferisce mortalmente alla gola. Cadi' a terra in pochi istanti.]}
 {241}{}{[FATTO]}
 {250}{}{Yes. This I warned you about. Now, let me be. I have nothing else to say to you.}
 {251}{}{[FATTO]}
-{260}{}{Perhaps you are right. All my life, I've known nothing but the Shi. But there is nothing left here for me but sorrow.
- Yes, I think I shall venture out into the world and forge a new destiny. Even if the wastes offer me nothing but a swift
- death, that is preferable to remaining here. Thank you, lao wai.}
-{261}{}{Good luck, Meng. I hope your fortunes improve.}
-{262}{}{Before you start packing, I was wondering if you could answer a question or two for me?}
-{270}{}{Why not? I'm severing all ties to the Shi. Their secrets now mean nothing to me. Ask what you will.}
+{260}{}{Forse hai ragione. Per tutta la vita ho conosciuto solo gli Shi. Ma qui non mi resta altro che dolore.
+ Si, credo che andro' nel mondo a cercare un nuovo destino. Anche se le Lande mi offrissero solo una fine rapida,
+ sarebbe comunque meglio che restare qui. Grazie, lao wai.}
+{261}{}{Buona fortuna, Meng. Spero che la tua vita migliori.}
+{262}{}{Prima che tu faccia i bagagli, mi chiedevo se potessi rispondere a un paio di domande.}
+{270}{}{Perche' no? Sto recidendo ogni legame con gli Shi. I loro segreti ormai non significano piu' nulla per me. Chiedi pure.}
 {271}{}{What can you tell me about that guarded motorboat over there? }
 {272}{}{Never mind. Good luck on your new life, Meng.}
-{280}{}{The Shi use that motorboat to access our sleeping guardian, the sub.}
+{280}{}{Gli Shi usano quel motoscafo per raggiungere il nostro guardiano addormentato, il sottomarino.}
 {281}{}{What can you tell me about the sub?}
-{290}{}{The Shi-Huang-Ti is the submarine that brought our ancestors to this place from a far away land. In the aftermath
- of the Great War it lost power and ran aground in the San Francisco bay. Captain Ye Li and his crew then made their way
- to this city and established what would become the Shi society.}
-{291}{}{You referred to it as a "sleeping guardian." What do you mean by that?}
-{300}{}{Like a hibernating dragon whose snores can still produce deadly fire -- the sub is immobile, but not helpless.
- The Shi have been working on it in secret, making clandestine trips to the sub under cover of night. Its weapons have
- been reactivated and will surly destroy any non-Chinese vessels that dare to sail through this bay.}
-{301}{}{So, let's say, *hypothetically*, if that big tanker that's docked here where to try and set sail...}
-{310}{}{Then... BOOM!}
+{290}{}{Lo Shi-Huang-Ti e' il sottomarino che porto' qui i nostri antenati da una terra lontana. Dopo la Grande Guerra
+ perse potenza e si incaglio' nella baia di San Francisco. Il Capitano Ye Li e il suo equipaggio raggiunsero la citta'
+ e fondarono quella che sarebbe diventata la societa' degli Shi.}
+{291}{}{Lo hai chiamato "guardiano addormentato". Cosa intendevi?}
+{300}{}{Come un drago in letargo le cui fauci possono ancora sputare fuoco mortale: il sottomarino e' immobile, ma non indifeso.
+ Gli Shi ci lavorano in segreto, facendo visite clandestine durante la notte. Le sue armi sono state riattivate e distruggeranno
+ qualsiasi nave non cinese che osi attraversare questa baia.}
+{301}{}{Quindi, diciamo *ipoteticamente*, se quella grande petroliera attraccata qui provasse a salpare...}
+{310}{}{Allora... BOOM!}
 {311}{}{Gotcha. I don't suppose you know how I could disarm it?}
-{320}{}{Only the Shi's technicians would know such a thing. I've told you all I know.}
+{320}{}{Solo i tecnici degli Shi saprebbero una cosa del genere. Ti ho detto tutto cio' che so.}
 {321}{}{Thanks, Meng. Good luck with your new life.}
 {330}{}{Now it is time to begin anew...}
 {350}{}{Leave me be, lao wai.}

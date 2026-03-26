@@ -112,39 +112,38 @@
 {581}{}{Grazie. Ho un'altra domanda da farti.}
 {582}{}{Grazie, arrivederci.}
 {600}{}{Cosa sai a proposito della casa infestata?}
-{800}{}{I noticed there seems to be a lot of orphans around town.}
-{801}{}{It's a shame, isn't it? Those poor children living on the streets like that... A lot of them steal to get by -- from
- outsiders mostly -- so if you catch one trying to relieve you of something, please take pity on 'em. I'm not saying it's
- right, but it's a harsh world we live in, and we all do what we have to in order to make it through the day.}
-{802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that
- actually gives a damn about those kids.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
-{804}{}{Maybe it's time to give it another try. I'm not going to be in town for too much longer, but I'll do what I can to help while I'm here.}
+{800}{}{Ho notato che sembra ci siano molti orfani in giro per la citta'.}
+{801}{}{E' un peccato, vero? Quei poveri bambini che vivono per strada cosi'... Molti di loro rubano per sopravvivere -- soprattutto da
+ forestieri -- quindi se ne becchi uno che cerca di sfilarti qualcosa, abbi pieta' di loro. Non dico che sia
+ giusto, ma e' un mondo duro quello in cui viviamo, e tutti facciamo quello che dobbiamo per arrivare a fine giornata.}
+{802}{}{Deve esserci qualcosa che possiamo fare. Da quello che sento, sembri essere l'unica persona in giro che
+ si preoccupi davvero di quei bambini.}
+{803}{}{Certo che mi importa. I bambini sono il nostro futuro. Non *devono* per forza crescere per diventare drogati, delinquenti e prostitute come
+ la maggior parte dei loro genitori inetti. Con un'istruzione e un po' d'amore e cura, questi bambini potrebbero diventare il tipo di
+ gente perbene di cui abbiamo cosi' disperatamente bisogno in questo mondo. Ho provato a fondare un orfanotrofio per loro, ma purtroppo non e' andato in porto.}
+{804}{}{Forse e' ora di riprovare. Non restera' in citta' ancora per molto, ma faro' quello che posso per aiutare finche' sono qui.}
 {805}{}{That's too bad. Well, nice talking with you. Bye.}
-{806}{}{Yes, perhaps you *could* help. You see, I procured a large building over on the south-west side that, with a little work, would make an excellent
- orphanage. But a bunch of lowlifes are squatting there and refuse to leave unless I pay an absurd fee. Even if I *had* the money, I wouldn't give
- it to them bullies -- they'd just use it to further poison themselves. I'd go to the authorities, but unfortunately, there's no such thing in the Den.
- Perhaps you'd have better luck at convincing them to leave?}
-{807}{}{I'm sure I could get them out of there. One way, or another. I'll let you know once they're gone.}
-{808}{}{Never was a fan of evicting people. Perhaps someone else is better suited for this.}
-{809}{}{Oh... I see. That's really too bad. Thanks for trying though. Would you like anything before you go?}
+{806}{}{Si', forse *potresti* aiutare. Vedi, ho procurato un grande edificio sul lato sud-ovest che, con un po' di lavoro, farebbe un ottimo
+ orfanotrofio. Ma un branco di miserabili lo occupa abusivamente e si rifiuta di andarsene a meno che non paghi una cifra assurda. Anche se *avessi* i soldi, non li darei
+ a quei bulli -- li userebbero solo per avvelenarsi ulteriormente. Andrei dalle autorita', ma purtroppo non esistono al Den.
+ Forse avresti piu' fortuna a convincerli ad andarsene?}
+{807}{}{Sono sicuro di poterli cacciare via. In un modo o nell'altro. Ti faro' sapere quando se ne sono andati.}
+{808}{}{Non sono mai stato un fan dello sfrattare la gente. Forse qualcun altro e' piu' adatto per questo.}
+{809}{}{Oh... capisco. E' davvero un peccato. Grazie comunque per aver provato. Vuoi qualcosa prima di andare?}
 {810}{}{Nope. Bye Mom.}
-{811}{}{If I catch one of them little bastards stealing from me, it'll be the last thing they ever do. I don't care what
- their excuse is, a thief is a thief. Bye.}
-{820}{}{Good news, Mom. The building's all yours. I ran into a little snag, but those squatters won't be bothering you again.}
-{821}{}{The squatters said they'd leave and that they're sorry for causing trouble. They're currently cleaning the place up to try and make it up to you. I was thinking maybe, if they do well enough, you could offer some of them jobs.}
-{822}{}{Oh, that's great news! Thank you so much! I just hope no one was hurt in the process. I'll get in touch with some friends and we'll get
- started right away. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh,
- I'm so excited! Thanks again. Here, this meal's on me.}
-{823}{}{Hmm... I suppose everyone deserves a second chance. I'll stop over there with some friends and we'll talk things over with 'em. Thank you so much
- for helping me with this. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so
- excited! Thanks again. Here, this meal's on me.}
+{811}{}{Se beco uno di quei piccoli bastardi a rubarmi qualcosa, sara' l'ultima cosa che fanno. Non mi importa quale
+ sia la loro scusa, un ladro e' un ladro. Ciao.}
+{820}{}{Buone notizie, mamma. L'edificio e' tutto tuo. Ho incontrato un piccolo ostacolo, ma quegli occupanti abusivi non ti daranno piu' fastidio.}
+{821}{}{Gli occupanti hanno detto che se ne andrebbero e che sono dispiaciuti per i problemi causati. Stanno attualmente pulendo il posto per cercare di rimediare. Pensavo che forse, se la cavano abbastanza bene, potresti offrire a qualcuno di loro un lavoro.}
+{822}{}{Oh, che bella notizia! Grazie mille! Spero solo che nessuno si sia fatto male nel processo. Contattero' alcuni amici e inizieremo
+ subito. Se sei ancora in citta' tra qualche giorno, dovresti passare. Speriamo di avere tutto operativo entro allora. Oh,
+ sono cosi' emozionata! Grazie ancora. Ecco, questo pasto e' offerto da me.}
+{823}{}{Hmm... suppongo che tutti meritino una seconda chance. Passero' la' con alcuni amici e ne parleremo con loro. Grazie mille
+ per avermi aiutato con questo. Se sei ancora in citta' tra qualche giorno, dovresti passare. Speriamo di avere tutto operativo entro allora. Oh, sono cosi'
+ emozionata! Grazie ancora. Ecco, questo pasto e' offerto da me.}
 {824}{}{Thanks Mom. See you around.}
-{850}{}{You help establish an orphanage for the children of The Den.}
-{1821}{}{Good news, Mom. The building's all yours. It took a little convincing, but I got the squatters to agree to pack up and move on.
- I don't think they'll be bothering you again.}
-{1822}{}{Oh, that's great news! Thank you so much! I'll get in touch with some friends and we'll get started right away. If you're still in town
- a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so excited! Thanks again. Here, this meal's on me.}
+{850}{}{Aiuti a fondare un orfanotrofio per i bambini del Den.}
+{1821}{}{Buone notizie, mamma. L'edificio e' tutto tuo. Ci e' voluto un po' di convincimento, ma ho fatto accettare agli occupanti abusivi di fare i bagagli e andarsene.
+ Non credo che ti daranno piu' fastidio.}
+{1822}{}{Oh, che bella notizia! Grazie mille! Contattero' alcuni amici e inizieremo subito. Se sei ancora in citta' tra qualche giorno, dovresti passare.
+ Speriamo di avere tutto operativo entro allora. Oh, sono cosi' emozionata! Grazie ancora. Ecco, questo pasto e' offerto da me.}

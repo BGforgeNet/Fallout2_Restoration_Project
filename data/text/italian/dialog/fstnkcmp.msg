@@ -21,4 +21,4 @@
 {129}{}{[Completi rapidamente la sequenza di salpamento e la nave schizza via dal molo.]}
 {130}{}{[FATTO]}
 {131}{}{Computer di Navigazione Attivo.}
-{200}{}{WARNING: Submarine still active. Proceeding would result in the ship's destruction.}
+{200}{}{AVVISO: Sottomarino ancora attivo. Procedere comporterebbe la distruzione della nave.}

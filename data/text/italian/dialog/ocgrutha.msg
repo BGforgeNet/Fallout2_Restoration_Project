@@ -83,7 +83,7 @@
 {182}{}{Avevi detto che mi avresti fatto sapere se aveste trovato un GECK. Ne avete trovato uno?}
 {183}{}{Si', sto cercando un GECK. Mi e' stato detto che qui avrei potuto trovarne uno. Sai dove si trova?}
 {184}{}{No, grazie. Ho tutto quel che mi serve.}
-{185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
+{185}{}{Ah, fammi vedere. [Se ne va, poi ritorna un momento dopo, stringendo goffamente una specie di contenitore metallico tra i suoi grandi artigli.] Si', c'era un G.E.C.K. nel deposito del vault. E' tuo, con tanta gratitudine.}
 {186}{}{Si', nel magazzino del vault era conservato un geck. Purtroppo e' scomparso. Mi dispiace, ma non posso dartelo come ricompensa per tutto quello che hai fatto per noi.}
 {187}{}{Grazie!}
 {188}{}{Uh... non c'e' problema. Ne cerchero' uno da qualche altra parte.}

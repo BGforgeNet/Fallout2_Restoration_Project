@@ -36,21 +36,6 @@ procedure Node001;
 
 #define max_skill(x)                   critter_mod_skill(dude_obj, x, (300 - (has_skill(dude_obj, x))))
 
-/*#define max_stat(x)                    set_critter_stat(dude_obj, x, (10 - (get_critter_stat(dude_obj,x)))) */
-
-/*#define max_stat(x)                    while (get_critter_stat(dude_obj,x) < 10) do begin \
-                                           set_critter_stat(dude_obj, x, 1);   \
-                                         end   \*/
-
-#define max_stat(x)                    counter := 0; \
-                                       current_stat := get_critter_stat(dude_obj,x); \
-                                       while (counter < (10 - (current_stat - (get_pc_extra_stat(x))))) do begin \
-                                          set_critter_stat(dude_obj, x, 1); \
-                                          counter := (counter + 1); \
-                                       end; \
-
-
-
 #define read_book                      lvar_bit(LVAR_Flags, read_book_bit )
 
 /*#define set_read_book                  if (read_book == false) then begin                          \
@@ -59,6 +44,18 @@ procedure Node001;
 
 variable counter := 0;
 variable current_stat := 0;
+
+/**
+ * Maximize PC stat
+ */
+procedure max_stat(variable x) begin
+   counter := 0;
+   current_stat := get_critter_stat(dude_obj,x);
+   while (counter < (10 - (current_stat - (get_pc_extra_stat(x))))) do begin
+      set_critter_stat(dude_obj, x, 1);
+      counter := (counter + 1);
+   end
+end
 
 procedure start begin
 end
@@ -75,10 +72,10 @@ script_overrides;
          //set_critter_stat(dude_obj, STAT_max_hp, (999 - (get_critter_stat(dude_obj,STAT_max_hp))));
          set_pc_base_stat(STAT_max_hp, 999); //added by killap - requires Timeslip's compiler and dlls
          set_pc_extra_stat(STAT_max_hp, 999); //added by killap - requires Timeslip's compiler and dlls
-         max_stat(STAT_st);
-         max_stat(STAT_pe);
-         max_stat(STAT_en);
-         max_stat(STAT_ch);
+         call max_stat(STAT_st);
+         call max_stat(STAT_pe);
+         call max_stat(STAT_en);
+         call max_stat(STAT_ch);
          //When PC obtains any of the enhanced combat implants, internally the game assigns a permanent
          //-1 to the bonus charisma stat. The script for the Hintbook only tries to increase the base
          //charisma stat. Since base charisma stat remains unchanged (i.e. at 10), ultimately nothing happens.
@@ -87,9 +84,9 @@ script_overrides;
             set_pc_extra_stat(STAT_ch, get_pc_extra_stat(STAT_ch) + 1);
          if (dude_perk(PERK_phoenix_enhancement_perk)) then
             set_pc_extra_stat(STAT_ch, get_pc_extra_stat(STAT_ch) + 1);
-         max_stat(STAT_iq);
-         max_stat(STAT_ag);
-         max_stat(STAT_lu);
+         call max_stat(STAT_iq);
+         call max_stat(STAT_ag);
+         call max_stat(STAT_lu);
          max_skill(SKILL_SMALL_GUNS);
          max_skill(SKILL_BIG_GUNS);
          max_skill(SKILL_ENERGY_WEAPONS);

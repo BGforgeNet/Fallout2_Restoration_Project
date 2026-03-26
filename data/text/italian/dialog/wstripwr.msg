@@ -1,2 +1,2 @@
-{100}{}{You spot a trip wire and narrowly avoid it.}
-{101}{}{ spots a trip wire and narrowly avoids it.}
+{100}{}{Noti un filo d'inciampo e lo eviti per un soffio.}
+{101}{}{ nota un filo d'inciampo e lo evita per un soffio.}

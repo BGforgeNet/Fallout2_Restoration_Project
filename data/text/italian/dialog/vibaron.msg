@@ -1,86 +1,86 @@
 {100}{}{You see the caravan master.}
 {101}{}{You see Mr. Baron, the master of this caravan.}
-{200}{}{Hello Traveler, name's Robert Baron, master of this here caravan. Are you looking to make a trade?}
+{200}{}{Salve viaggiatore, mi chiamo Robert Baron, capo di questa carovana. Cerchi di fare uno scambio?}
 {201}{}{Sure. Let's see what you've got.}
 {202}{}{Actually, I wanted to speak with you on behalf of a nearby village.}
 {203}{}{Nope. I'll be on my way now.}
-{204}{}{Robert Baron, huh? Ever think about going by Bobby Baron? That's got a nice bounce to it, don't you think?}
-{210}{}{I think your mom might've bounced you on your head a couple times. Now, do you want to trade, or not? I'm a busy man.}
+{204}{}{Robert Baron, eh? Hai mai pensato di farti chiamare Bobby Baron? Suona bene, non credi?}
+{210}{}{Penso che tua madre ti abbia fatto rimbalzare la testa un paio di volte. Ora, vuoi commerciare o no? Sono un uomo impegnato.}
 {220}{}{D'accordo. C'e' qualcos'altro?}
-{221}{}{Yes actually, I wanted to speak with you on behalf of a nearby village.}
+{221}{}{Si', in effetti volevo parlarti a nome di un villaggio qui vicino.}
 {222}{}{Nope. I'll be on my way now.}
-{230}{}{[He furrows his brow.] Village? Not sure what your--oh! Are you talking about that rat infested little shit-hole down the way?}
+{230}{}{[Aggrinza la fronte.] Villaggio? Non so di cosa stai--oh! Stai parlando di quel piccolo cesso infestato dai ratti laggiu'?}
 {231}{}{Uh, maybe.}
 {232}{}{Si', lo sono.}
-{233}{}{It's not a shit-hole. They're a struggling community that's making some real progress.}
-{240}{}{Look, I already met with them, and I'm going to tell you the same thing I told them. They're simply too small for me to bother with. Besides, that place is fetid as all hell.}
+{233}{}{Non e' un cesso. Sono una comunita' in difficolta' che sta facendo veri progressi.}
+{240}{}{Senti, li ho gia' incontrati, e ti diro' la stessa cosa che ho detto a loro. Sono semplicemente troppo piccoli per valere il mio tempo. Inoltre, quel posto e' fetido come l'inferno.}
 {241}{}{Alright. I gave it a shot. Bye.}
-{242}{}{Oh, come on, it's not that far out of your way. You pretty much pass right by it.}
+{242}{}{Oh, dai, non e' cosi' fuori mano. Ci passi praticamente davanti.}
 {243}{}{Is there *any* way I could get you to change your mind?}
-{250}{}{Now what? If you're not going to trade, then stop wasting my fucking time.}
+{250}{}{Se non hai intenzione di acquistare nulla, allora vattene!}
 {251}{}{Barattiamo.}
 {252}{}{Sorry, I'll go now.}
 {253}{}{I think I'll waste *you* asshole.}
-{254}{}{Is there *any* way I could get you to change your mind about trading with the village?}
-{260}{}{So what if I do? I don't care if it's only a *minute* out of my way, it's just not worth the hassle.}
+{254}{}{C'e' *qualche* modo per convincerti a cambiare idea sul commerciare con il villaggio?}
+{260}{}{E allora? Non mi importa se e' solo un *minuto* fuori strada, non vale la seccatura.}
 {261}{}{Alright. I see it's useless to reason with you. Bye.}
 {262}{}{Is there *any* way I could get you to change your mind?}
-{263}{}{That's too bad, because a smart merchant would jump on this opportunity. But hey, if you're not interested, I suppose I'll have to go elsewhere...}
-{270}{}{Now just hold on a moment. I didn't say for certain that I wasn't interested. What's this opportunity you speak of?}
-{271}{}{You see, that village might not be much to look at now, but I've got some insider information that all but guarantees that place is going to be the new hot spot. Trust me, it's going to be booming in the coming years. So if I were you, I'd want to build up relations now, before they get too big and you miss your chance.}
-{280}{}{Haha! You expect me to believe that shit-hole is going to turn into something worthwhile? I think I'm about done wasting my time with you.}
+{263}{}{E' un peccato, perche' un mercante intelligente coglierebbe al volo questa opportunita'. Ma ehi, se non sei interessato, immagino che dovro' rivolgermi altrove...}
+{270}{}{Aspetta un momento. Non ho detto con certezza che non fossi interessato. Qual e' questa opportunita' di cui parli?}
+{271}{}{Vedi, quel villaggio forse ora non sembra un granche', ma ho informazioni privilegiate che praticamente garantiscono che diventera' il nuovo posto caldo. Fidati, esplodera' nei prossimi anni. Quindi, se fossi in te, vorrei costruire rapporti adesso, prima che diventino troppo grandi e tu perda l'occasione.}
+{280}{}{Ahah! Ti aspetti che creda che quel cesso diventera' qualcosa di valido? Credo di aver finito di perdere tempo con te.}
 {281}{}{Alright. I see it's useless to reason with you. Bye.}
 {282}{}{Is there *any* way I could get you to change your mind?}
-{290}{}{You're not kidding, are you? Hmm, I suppose it couldn't hurt to take a little detour over there now and then. Hell, it's hardly even out of my way. Thanks for the tip, friend.}
+{290}{}{Non stai scherzando, vero? Hmm, suppongo che non faccia male fare una piccola deviazione ogni tanto. Diamine, non e' nemmeno fuori mano. Grazie del consiglio, amico.}
 {291}{}{No problem. See ya.}
 {292}{}{Yep. Addio.}
-{300}{}{[He seems to consider your question.] Perhaps . . . exactly what are we talking here?}
-{301}{}{You make that village a regular stop on your route, and in return, I'll pay you $500.}
-{302}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
-{303}{}{You make that village a regular stop on your route, and in return, I'll show you a good time you'll never forget.}
-{304}{}{You make that village a regular stop on your route, and in return, my wife here will show you a good time you'll never forget.}
+{300}{}{[Sembra riflettere sulla tua domanda.] Forse... esattamente di cosa stiamo parlando?}
+{301}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, ti paghero' 500$.}
+{302}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, faro' la mia parte per assicurarmi che nulla di "spiacevole" accada alla tua carovana.}
+{303}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, ti faro' divertire come non dimenticherai mai.}
+{304}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, mia moglie qui ti fara' divertire come non dimenticherai mai.}
 {305}{}{Actually, never mind. Bye.}
-{310}{}{Now you're speaking my language! Alright, it's a deal. [He greedily snatches the money from you and shakes your hand.]}
+{310}{}{Ora si' che parli la mia lingua! Va bene, affare fatto. [Ti strappa avidamente i soldi di mano e ti stringe la mano.]}
 {311}{}{Pleasure doing business with you. Bye.}
 {312}{}{Addio.}
 {320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
 {321}{}{I don't have that much. Bye.}
 {322}{}{Alright, fine. $1,000 it is.}
 {323}{}{No deal. Goodbye.}
-{330}{}{Now you're speaking my language! You've got yourself a deal. [He greedily snatches the money from you and shakes your hand.]}
+{330}{}{Ora si' che parli la mia lingua! Affare fatto. [Ti strappa avidamente i soldi di mano e ti stringe la mano.]}
 {331}{}{Pleasure doing business with you. Bye.}
 {332}{}{Addio.}
-{340}{}{Are you threatening me? No one threatens me and lives! (to his caravan guards) Kill this stupid fuck!}
+{340}{}{Mi stai minacciando? Nessuno mi minaccia e resta vivo! (ai suoi guardiani della carovana) Uccidete questo stupido stronzo!}
 {341}{}{Fatevi sotto!}
-{350}{}{Look, I don't want any trouble. If you want me to swing by and trade with that village, fine, no big deal. Hell, it's hardly even out of my way. No problem.}
-{351}{}{I'm glad we have an understanding. I'll be watching you. Bye.}
-{352}{}{You better hope there's not a problem. Cause if there is, I'll solve it. Bye.}
-{353}{}{[Glare at him intently for a moment, then slowly walk away.]}
-{360}{}{Ugh! God no! I'd rather fuck a brahmin. Now get out of here and stop wasting my time.}
+{350}{}{Senti, non voglio problemi. Se vuoi che passi da quel villaggio a commerciare, va bene, nessun problema. Diamine, non e' nemmeno fuori mano. Nessun problema.}
+{351}{}{Sono contento che ci siamo capiti. Ti terro' d'occhio. Addio.}
+{352}{}{Speriamo per te che non ci siano problemi. Perche' se ci sono, li risolvo io. Addio.}
+{353}{}{[Lo fissi intensamente per un momento, poi ti allontani lentamente.]}
+{360}{}{Ugh! Dio no! Preferirei scopare una brahmin. Ora vattene e smettila di farmi perdere tempo.}
 {361}{}{Fuck you, asshole! [Attack.]}
-{362}{}{Fine, but you could've just said no. No need to be a jerk about it.}
+{362}{}{Va bene, ma potevi semplicemente dire di no. Non c'era bisogno di fare lo stronzo.}
 {363}{}{You don't know what you're missing.}
-{364}{}{[Bury your ugly face in your hands and run away crying.]}
-{370}{}{Eh, sorry girl. I'm just not in the mood right now. You got anything else to offer?}
-{371}{}{You make that village a regular stop on your route, and in return, I'll pay you $500.}
-{372}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
+{364}{}{[Ti copri la faccia brutta con le mani e scappi via piangendo.]}
+{370}{}{Eh, scusa ragazza. Non sono dell'umore giusto adesso. Hai qualcos'altro da offrire?}
+{371}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, ti paghero' 500$.}
+{372}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, faro' la mia parte per assicurarmi che nulla di "spiacevole" accada alla tua carovana.}
 {373}{}{No. Ci vediamo.}
-{380}{}{[He looks you up and down, then grins.] I think you've got yourself a deal. Do you take it in the backdoor?}
+{380}{}{[Ti guarda dall'alto in basso, poi sorride.] Credo che abbiamo un accordo. Lo prendi dal retro?}
 {381}{}{Baby, I take it any way you want to give it.}
 {382}{}{You'll just have to find out, won't you?}
-{383}{}{Ugh! Hell no! Now let's hurry up and get this over with before I puke.}
-{390}{}{[The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
-{391}{}{[Shudder.] Once was enough. Bye.}
+{383}{}{Ugh! Assolutamente no! Ora sbrighiamoci a finire questa cosa prima che vomiti.}
+{390}{}{[Il mercante ti sorride mentre si riallaccia la cintura.] Cazzo, sai davvero come concludere un buon affare. Se mai avrai bisogno di convincere un mercante a fare qualcos'altro, assicurati di cercarmi. Ora dovrei proprio andare. E' stato un piacere fare affari con te.}
+{391}{}{[Rabbrividisci.] Una volta e' piu' che sufficiente. Addio.}
 {392}{}{Anytime. Bye.}
 {393}{}{Addio.}
-{400}{}{[He looks Miria up and down, then grins.] I think you've got yourself a deal. [He shakes your hand, then puts his arm around Miria and walks her to someplace more private.]}
-{401}{}{[Tap your foot while you wait.]}
+{400}{}{[Guarda Miria dall'alto in basso, poi sorride.] Credo che abbiamo un accordo. [Ti stringe la mano, poi mette un braccio attorno a Miria e la accompagna in un posto piu' appartato.]}
+{401}{}{[Batti il piede mentre aspetti.]}
 {402}{}{[Fischietta mentre lavora]}
 {403}{}{[Check your weapons while you wait.]}
-{404}{}{[Stand there silently and make awkward eye contact with the caravan guards while you listen to the sounds of your wife being defiled by the merchant master.]}
-{410}{}{[An hour later, you see Robert Baron and Miria, now sweaty and disheveled from their sexual romp, walking back towards you. You notice Miria is walking with a slight limp. The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
+{404}{}{[Rimani li' in silenzio e incroci sguardi imbarazzanti con le guardie della carovana mentre ascolti i suoni di tua moglie che viene profanata dal mercante.]}
+{410}{}{[Un'ora dopo, vedi Robert Baron e Miria, ora sudati e spettinati dopo il loro amplesso, tornare verso di te. Noti che Miria cammina con una lieve zoppia. Il mercante ti sorride mentre si riallaccia la cintura.] Cazzo, sai davvero come concludere un buon affare. Se mai avrai bisogno di convincere un mercante a fare qualcos'altro, assicurati di cercarmi. Ora dovrei proprio andare. E' stato un piacere fare affari con te.}
 {411}{}{Vabbe'. Ci vediamo.}
 {412}{}{Anytime. Bye.}
 {413}{}{Addio.}
-{500}{}{You convince the merchant to add the village to his trade route.}
-{510}{}{You kill the merchant, thus ensuring that the village won't be able to trade.}
+{500}{}{Hai convinto il mercante ad aggiungere il villaggio alla sua rotta commerciale.}
+{510}{}{Uccidi il mercante, assicurandoti cosi' che il villaggio non possa commerciare.}

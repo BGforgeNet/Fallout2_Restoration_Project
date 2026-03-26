@@ -1,2 +1,2 @@
 {100}{}{Woah...}
-{101}{}{You come to after about two hours. Your head is throbbing and you feel a little different.}
+{101}{}{Riprendi conoscenza dopo circa due ore. La testa ti pulsa e ti senti un po' diverso.}

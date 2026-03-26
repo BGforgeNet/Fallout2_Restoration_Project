@@ -244,18 +244,18 @@
 {343}{}{Hai riferito a McClure l'avvenuta consegna dell'antidoto contro il Jet.}
 {344}{}{Il disco indica che la centrale, essendo ora pienamente funzionale e ottimizzata, puo' produrre una gran quantita' di energia, ben superiore ai bisogni di Gecko. A Vault City potrebbe far comodo quest'energia. Credo che il Consiglio dovrebbe prendere in considerazione cio' che questo disco ha da offrire.}
 {345}{}{Do you know anything about the nearby village that's swarming with mole rats?}
-{346}{}{Actually, yes. Sergeant Stark reported something on this to me recently. What interest do you have in this matter?}
-{347}{}{Is it true that you intend to make servants of those people?}
+{346}{}{In effetti, si'. Il sergente Stark mi ha riferito qualcosa a riguardo di recente. Che interesse hai in questa faccenda?}
+{347}{}{E' vero che intendete fare servi di quella gente?}
 {348}{}{Nothing really. May I ask you about something else?}
 {349}{}{Doesn't matter. Bye.}
-{350}{}{Recruiting servants is not the issue here. The issue is the threat that these monsters pose to Vault City. According to Sergeant Stark's report, the people of that village seem to coexist with those huge rat creatures. If that's true, they may have found a way to control them, and perhaps that's why these creatures have begun to attack our patrols. Sergeant Stark plans to eliminate these pests, and he has my full support.}
-{351}{}{I assure you the people of that village aren't controlling the mole rats. In fact, I've got a proposition for you: I'll take care of this mole rat problem, and in return, I want your assurance that Vault City will leave the people of that village alone.}
-{352}{}{An interesting proposition, but how exactly do you plan to deal with all those rat creatures?}
+{350}{}{Reclutare servi non e' il problema qui. Il problema e' la minaccia che quei mostri rappresentano per Vault City. Secondo il rapporto del sergente Stark, la gente di quel villaggio sembra convivere con quelle enormi creature simili a ratti. Se e' vero, potrebbero aver trovato un modo per controllarle, e forse e' per questo che hanno iniziato ad attaccare le nostre pattuglie. Il sergente Stark intende eliminare questi parassiti, e ha il mio pieno supporto.}
+{351}{}{Ti assicuro che la gente di quel villaggio non sta controllando le talpe giganti. Anzi, ho una proposta per te: mi occupero' io del problema delle talpe giganti, e in cambio voglio la tua garanzia che Vault City lascera' in pace quella gente.}
+{352}{}{Una proposta interessante, ma come esattamente pensi di affrontare tutte quelle creature simili a ratti?}
 {353}{}{I think I might know who *is* controlling them.}
-{354}{}{Don't really know, but I'll think of something. I always do.}
-{355}{}{Really? Very well then, I'll take your word for it. The raid will be postponed for a month.}
-{356}{}{You're a good man, McClure, and you won't regret this. I'll be back once the problem's taken care of.}
-{357}{}{It's amazing, the mole rat attacks on our patrols suddenly stopped without warning. I don't know how you did it, but I thank you. Also, I shall uphold my end of the bargain -- I'll order Stark to cancel the raid at once. As long as the people of that village pose no threat to Vault City, they'll have nothing to fear from us -- I'll see to that.}
+{354}{}{Non lo so davvero, ma trovero' qualcosa. Lo faccio sempre.}
+{355}{}{Davvero? Molto bene allora, mi fidero' della tua parola. Il raid verra' rimandato di un mese.}
+{356}{}{Sei un brav'uomo, McClure, e non te ne pentirai. Tornero' quando il problema sara' risolto.}
+{357}{}{E' incredibile, gli attacchi delle talpe giganti alle nostre pattuglie sono improvvisamente cessati senza preavviso. Non so come tu abbia fatto, ma ti ringrazio. Inoltre, manterro' la mia parte dell'accordo -- ordinero' a Stark di annullare immediatamente il raid. Finche' la gente di quel villaggio non rappresentera' una minaccia per Vault City, non avra' nulla da temere da noi -- me ne occupero' personalmente.}
 {358}{}{Thank you!}
 {359}{}{You solved the village problem.}
 {360}{}{Davvero interessante.}

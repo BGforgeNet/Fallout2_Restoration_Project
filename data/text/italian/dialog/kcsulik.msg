@@ -472,15 +472,15 @@
 {3070}{}{Sulik, puoi consultare gli spiriti per me?}
 {3071}{}{Sulik, per favore: riponi la tua arma.}
 {3080}{}{Tu no amico di me. Nonno-Osso dire no parlare con te.}
-{3081}{}{No, I think it is time we part our ways. Stay here with you sister, she needs you.}
+{3081}{}{No, credo sia ora di separarci. Resta qui con tua sorella, ha bisogno di te.}
 {3082}{}{Essere bello essere di nuovo a casa.}
 {3083}{}{Cosi' tante giovani vergini cui raccontare i nostri viaggi - e cosi' poco tempo per farlo.}
 {3084}{}{Noi dobbiamo parlare con l'erba-superba. Poi lasciate che il mondo ondeggi.}
 {3086}{}{Take care, fren.}
 {3087}{}{We and I wish you the best of luck.}
 {3088}{}{Thanks again for everything, fren.}
-{3090}{}{This here be our village. We and I go speak with our friends.}
-{3091}{}{We and I go speak with our friends again before headin out.}
+{3090}{}{Questo qui essere nostro villaggio. Noi e io andare parlare con nostri amici.}
+{3091}{}{Noi e io andare parlare di nuovo con nostri amici prima di partire.}
 {3100}{}{[AVANTI]}
 {3101}{}{Where exactly is your tribe, Sulik?}
 {3102}{}{Grazie. Lascia che ti chieda qualcos'altro.}

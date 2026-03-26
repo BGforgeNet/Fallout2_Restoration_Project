@@ -9,8 +9,8 @@
 {205}{}{You will always be welcome here.}
 {206}{}{The spirits accept you as one of us.}
 {207}{}{Grazie per averci aiutato.}
-{208}{}{I thought all outworlders were evil. It is not so...}
+{208}{}{Credevo che tutti i forestieri fossero malvagi. Non e' cosi'...}
 {209}{}{Non farlo.}
 {210}{}{Slavers aren't welcome here!}
 {300}{}{We're honored to have you here, hero.}
-{301}{}{Your defeat of the Enclave shall be recorded in legends. Your ancestors are proud.}
+{301}{}{La tua sconfitta dell'Enclave sara' ricordata nelle leggende. I tuoi antenati sono fieri di te.}

@@ -20,10 +20,10 @@
 {127}{}{Grazie. Ciao.}
 {128}{}{E' cosi'! Poco fa mi sono imbattuto in una miniera abbandonata. Pensavo di fermarmi li' per un giorno o due, ma sono comparsi dei lupi e ho preferito andarmene. Un vero peccato: sembra che i minatori l'abbiano abbandonata in tutta fretta. Hanno lasciato un sacco di roba. Non credo di tornarci, percio' credo non ci siano problemi se ti mostro dov'e'.}
 {129}{}{Grazie. Ciao.}
-{130}{}{Yeah, a while back I came across an old facility that looked like it'd been abandoned since the Great War.
- Looked pretty important too, so I bet it's chock full of pre-war goods. I would've scavenged the place myself,
- but it's grounds were covered with some real pissed off man-eating plants. I'm not planning on going back, so I guess
- it's all right if I show you where it is.}
+{130}{}{Si', un po' di tempo fa ho trovato una vecchia struttura che sembrava abbandonata dalla Grande Guerra.
+ Sembrava anche piuttosto importante, quindi scommetto che e' piena di roba prebellica. L'avrei saccheggiata io stesso,
+ ma il terreno era coperto da piante carnivore davvero incazzate. Non ho intenzione di tornarci, quindi immagino
+ che vada bene mostrarti dove si trova.}
 {131}{}{Grazie. Ciao.}
 {132}{}{Oh... non ha molta importanza. Semplicemente, un giorno ho deciso di viaggiare e... beh, eccomi qua.}
 {133}{}{Forse puoi aiutarmi. Ho bisogno di informazioni.}

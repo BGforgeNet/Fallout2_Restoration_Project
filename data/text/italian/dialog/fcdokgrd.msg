@@ -13,33 +13,32 @@
 {211}{}{Can't you be any more specific?}
 {220}{}{No. Now back away, outsider.}
 {221}{}{Okay. Ci vediamo.}
-{222}{}{Nobody tells me what to do. You're fucking dead!}
-{230}{}{And I need you to fuck right off. You're not permitted to use the motorboat, hell, you're a lao wai, not a Shi.}
-{231}{}{Listen, I'm in a desperate situation. If you don't let me use that motorboat, then my entire tribe could die.
- Right now, they're in the clutches of those Enclave bastards and they're counting on me to save them. But in order to
- do that, I'm going to need to use that motorboat. If you won't let me use it, I'll have to take it by force and one of
- us will end up dead. Please, don't let it come to that.}
-{232}{}{Actually, I'm an honorary member of the Shi. I was hired for the submarine maintenance team due to my expertise in... subology. Here's my password...}
+{222}{}{Nessuno mi dice cosa fare. Sei finito!}
+{230}{}{E io ho bisogno che tu te ne vada subito. Non ti e' permesso usare il motoscafo, sei un lao wai, non uno Shi.}
+{231}{}{Ascolta, sono in una situazione disperata. Se non mi lasci usare quel motoscafo, la mia intera tribu' potrebbe morire.
+ In questo momento sono nelle mani di quei bastardi dell'Enclave e contano su di me per salvarli. Ma per farlo ho bisogno
+ di quel motoscafo. Se non me lo lasci usare, dovro' prenderlo con la forza e uno di noi finira' male. Ti prego, non arriviamo a questo.}
+{232}{}{In realta' sono un membro onorario degli Shi. Sono stato assunto per il team di manutenzione del sottomarino grazie alla mia esperienza in... subologia. Ecco la mia password...}
 {233}{}{I don't think you realize who you're insulting. Time to die, asshole.}
 {234}{}{Alright, I'm going... Sheesh, some people...}
-{240}{}{[He stares at you for a long moment, then sighs.] Look, no one gets on this boat without giving the proper password. You know, like the one you just gave me. [Mumbles.] Ken Lee's going to have my head for this...}
-{241}{}{Thank you, friend. And don't worry, I won't speak a word of this anyone.}
-{250}{}{I hope not, for both our sakes... Let me know when you're ready to use the boat. You can't bring anyone with you, as it'll draw too much attention. You'll have to go at this alone.}
+{240}{}{[Ti fissa a lungo, poi sospira.] Senti, nessuno sale su questa barca senza la password corretta. Sai, come quella che mi hai appena dato. [Borbottando.] Ken Lee mi fara' a pezzi per questo...}
+{241}{}{Grazie, amico. E non preoccuparti, non diro' una parola a nessuno.}
+{250}{}{Spero di no, per il bene di entrambi... Fammi sapere quando sei pronto a usare la barca. Non puoi portare nessuno con te, attirerebbe troppa attenzione. Dovrai andare da solo.}
 {251}{}{I'd like to use it right now.}
 {252}{}{Non adesso.}
-{260}{}{[The guard listens to the password and nods.] I guess you really are a technician. Hmm, the Shi must be getting desperate to hire outsiders... Anyway, you're early. Didn't they tell you that the tech team doesn't leave port until midnight? You can wait for the rest of the team here, if you wish.}
+{260}{}{[La guardia ascolta la password e annuisce.] Immagino che tu sia davvero un tecnico. Hmm, gli Shi devono essere disperati per assumere stranieri... Comunque, sei in anticipo. Non ti hanno detto che la squadra tecnica parte solo a mezzanotte? Puoi aspettare qui il resto del team, se vuoi.}
 {261}{}{I don't really have anything better to do, so sure...}
 {262}{}{I'll come back later.}
-{270}{}{Just use the mooring post and slide down the rope to the boat. Don't take too long out there, though, I don't want to get into any trouble.}
+{270}{}{Usa il palo d'ormeggio e scivola lungo la corda fino alla barca. Ma non starci troppo, non voglio finire nei guai.}
 {271}{}{Capito. Ci vediamo.}
 {272}{}{Easy enough. Goodbye.}
 {280}{}{Ready to join the tech team?}
 {281}{}{Yes, I'm ready to go.}
 {282}{}{No, non ancora.}
 {290}{}{Can't you see I'm busy here?}
-{300}{}{Me ride metal fishy-fish?}
-{310}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride
- metal fishy-fish. You go. You go, or I shoot. Understand?}
+{300}{}{Io andare su pesce?pesce di metallo?}
+{310}{}{[Ti guarda come se fossi la creatura piu' stupida che possa immaginare. Scuote lentamente la testa.] Tu no andare
+ su pesce?pesce di metallo. Tu vai. Tu vai, o io sparo. Capito?}
 {311}{}{Okie, bu-bye!}
-{312}{}{You meanie-man. Me smash meanie-man!}
-{500}{}{You talk your way into gaining access to the motor boat.}
+{312}{}{Tu uomo?cattivo. Io spacco uomo?cattivo!}
+{500}{}{Riesci a convincerlo e ottieni l'accesso al motoscafo.}

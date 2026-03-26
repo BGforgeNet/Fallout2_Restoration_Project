@@ -125,17 +125,17 @@
 {9243}{}{Modificazione del software in corso, Padrone... Massima efficienza dei sistemi!}
 {9250}{}{}
 {9260}{}{There's more than one way to skin a cat.}
-{9261}{}{The lower I fall, the higher I fly.}
-{9262}{}{Live. Learn. Evolve.}
-{9263}{}{I hear and I forget; I see and I remember; I do and I understand.}
+{9261}{}{Piu' in basso cado, piu' in alto volo.}
+{9262}{}{Vivi. Impara. Evolvi.}
+{9263}{}{Sento e dimentico; vedo e ricordo; faccio e capisco.}
 {9264}{}{I *am* the Nine.}
 {9270}{}{You know, I think I'm starting to recover from that whole being frozen thing.}
-{9271}{}{Ahh... yes. I can feel the old magic coming back to me now.}
+{9271}{}{Ahh... si'. Sento la vecchia magia tornare da me ora.}
 {9272}{}{I don't want to blow your mind, but I just got even better.}
-{9273}{}{Head's up, I've just become perfect. Now lets find some whores so we can celebrate.}
-{9274}{}{It seems I've surpassed perfection. I suppose if anyone was capable of it, it was me.}
+{9273}{}{Attenzione, sono appena diventato perfetto. Ora troviamo qualche prostituta cosi' possiamo festeggiare.}
+{9274}{}{Sembra che abbia superato la perfezione. Suppongo che, se qualcuno poteva riuscirci, quello ero io.}
 {9280}{}{The Cat is back!}
-{9281}{}{Are my eyes playing tricks or does my ass look better than ever?}
+{9281}{}{I miei occhi mi ingannano o il mio sedere sembra meglio che mai?}
 {9282}{}{My cat senses are tingling!}
-{9283}{}{If only I had some fish to go with this experience.}
+{9283}{}{Se solo avessi un po' di pesce da accompagnare a questa esperienza.}
 {9284}{}{This Cat is unstoppable!}

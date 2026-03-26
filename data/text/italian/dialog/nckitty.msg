@@ -95,7 +95,7 @@
 {405}{}{Miria vorrebbe fare quattro passi in un territorio selvaggio.}
 {406}{}{In realta', nessuno, grazie.}
 {407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
-{408}{}{Cat Jules here. Watch out though, he might bite the girls.}
+{408}{}{Questo e' il Gatto Jules. Attento pero', potrebbe mordere le ragazze.}
 {409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
 {420}{}{Il tuo amico qui? (Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {421}{}{(Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
@@ -185,10 +185,10 @@
 {703}{}{Wow.}
 {704}{}{*Whew*}
 {705}{}{Eh... spero proprio di non averla messa incinta.}
-{706}{}{It just isn't the same when their blood's still warm, ya know?}
+{706}{}{Non e' la stessa cosa quando il loro sangue e' ancora caldo, sai?}
 {707}{}{I hope you took notes.}
-{708}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
-{709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
+{708}{}{Le ragazze sono diventate piuttosto strane dalla fine del mondo... mi piace.}
+{709}{}{...ed e' per questo che le ragazze mi chiamavano "Dex, il Duca del Sesso".}
 {710}{}{(Parlate per ore. Le ragazze del Cat's Paw hanno un incredibile intuito per la natura umana).}
 {711}{}{(L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle").}
 {720}{}{*fischia*}
@@ -202,6 +202,6 @@
 {760}{}{*Bzzzt*}
 {770}{}{Cosi' si fa, Boss! Anch'io non faccio sesso da mooooooooooooolto tempo.}
 {800}{}{Hai consegnato le riviste Cat's Paw a Miss Kitty.}
-{900}{}{You feel more coordinated and in tune with your body now.}
+{900}{}{Ti senti piu' coordinato e in sintonia con il tuo corpo adesso.}
 {1218}{}{ ti avrebbe mandato qui...(Ti fa l'occhiolino.) }
 {1336}{}{ dollari a settimana.}

@@ -171,15 +171,14 @@
 {270}{}{Cerca negli archivi.}
 {271}{}{Spegni il terminale.}
 {272}{}{Oooooooh. Pizzszica.}
-{300}{}{As you are about to return to the archive listing, you skillfully notice a hidden entry in the list of archives..}
-{301}{}{As you are about to log off the terminal, you skillfully notice a hidden entry in the list of archives.}
+{300}{}{Proprio mentre stai per tornare all'elenco degli archivi, noti abilmente una voce nascosta nella lista.}
+{301}{}{Proprio mentre stai per disconnetterti dal terminale, noti abilmente una voce nascosta nella lista degli archivi.}
 {302}{}{[CONTINUA]}
-{303}{}{After a few minutes you are able to gain access to the locked archive. There is only one file listed and it is
- entitled "Classified." It looks like your skill points in Science are paying off.}
+{303}{}{Dopo qualche minuto <g id="26198">è </g>possibile chiudere il rubinetto di lavaggio botte}
 {304}{}{[Read entry.]}
-{305}{}{Reading through the file, it appears as if the sole purpose of Vault 8 was to act as a "control Vault" in a series of Vaults created by a corporation called Vault-Tec.
- The intent was for Vault 8 to open and re-colonize the surface after 10 years. It also appears Vault 8 was not the only Vault with a purpose other than protecting its inhabitants from the Great War.
- Perhaps more can be found out about the true purpose of these Vaults at another location.}
+{305}{}{Leggendo il file, sembra che l'unico scopo del Vault 8 fosse quello di agire come un "Vault di controllo" in una serie di Vault creati da una corporazione chiamata Vault-Tec.
+ L'intento era che il Vault 8 si aprisse e ricolonizzasse la superficie dopo 10 anni. Sembra anche che il Vault 8 non fosse l'unico Vault con uno scopo diverso dal proteggere i suoi abitanti dalla Grande Guerra.
+ Forse si puo' scoprire di piu' sul vero scopo di questi Vault in un altro luogo.}
 {306}{}{[Return to archive listing.]}
 {307}{}{[Log off.]}
-{308}{}{You learn about the real purpose of Vault 8 and that there is more to the construction of all the Vaults than meets the eye.}
+{308}{}{Scopri il vero scopo del Vault 8 e che c'e' molto di piu' nella costruzione di tutti i Vault di quanto sembri.}

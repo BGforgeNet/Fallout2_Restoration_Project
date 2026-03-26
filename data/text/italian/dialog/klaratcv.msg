@@ -1,6 +1,5 @@
-{100}{}{You enter a series of tunnels beneath Trapper Town. The smell of rat droppings is quite strong.}
-{101}{}{The explosion causes the damaged supports to break and an avalanche of rocks comes down from above. As this occurs, you hear
- what seems to be a loud crack echo throughout the cavern. As you look around you see that the other weak supports are beginning to give way.}
-{103}{}{You have trapped Keeng Ra'at! With no means out, starvation is all that is left for him to enjoy.}
-{104}{}{I better get out of the way of these supports before I get crushed to death or trapped.}
-{105}{}{Another support beam gives way and an avalanche of rocks comes tumbling down.}
+{100}{}{Entri in una serie di tunnel sotto Trapper Town. L'odore di escrementi di ratto e' piuttosto forte.}
+{101}{}{L'esplosione fa cedere i supporti danneggiati e una valanga di rocce cade dall'alto. Mentre accade, senti un forte schianto riecheggiare nella caverna. Guardandoti attorno, vedi che anche gli altri supporti deboli stanno cedendo.}
+{103}{}{Hai intrappolato Keeng Ra'at! Senza via d'uscita, la fame sara' tutto cio' che gli restera' da assaporare.}
+{104}{}{Meglio levarmi dalla traiettoria di questi supporti prima di essere schiacciato o intrappolato.}
+{105}{}{Un altro trave di supporto cede e una valanga di rocce precipita giu'.}

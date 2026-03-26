@@ -1,11 +1,11 @@
 {100}{}{You see a pamphlet.}
 {101}{}{}
-{102}{}{This is an introductory leaflet given out at the start of tours.}
-{200}{}{Welcome to the EPA! When touring our facility, please don't be alarmed by the sight of translucent people
- wandering the halls. They're not ghosts -- they're our friendly new staff of holograms! Think of them as computer programs
- given human form through the magic and wonders of science! They'd be happy to answer any questions you may have,
- so please, don't hesitate to approach them. WARNING! Holograms exist via a suspended crystal with anti-gravimetric
- properties. These can be highly volatile if tampered with, so please, for your own safety, do not attempt to touch any
- of the holograms. Thank you and enjoy your tour!}
+{102}{}{Questo e' un opuscolo introduttivo distribuito all'inizio delle visite guidate.}
+{200}{}{Benvenuto all'EPA! Durante la visita della nostra struttura, non allarmarti alla vista di persone traslucide
+ che vagano per i corridoi. Non sono fantasmi -- sono il nostro amichevole nuovo personale di ologrammi! Considerali come programmi informatici
+ a cui e' stata data forma umana grazie alla magia e alle meraviglie della scienza! Saranno felici di rispondere a qualsiasi domanda tu possa avere,
+ quindi non esitare ad avvicinarti. ATTENZIONE! Gli ologrammi esistono grazie a un cristallo sospeso con proprieta' antigravitazionali.
+ Questi possono essere altamente instabili se manomessi, quindi, per la tua sicurezza, non tentare di toccare
+ nessuno degli ologrammi. Grazie e buona visita!}
 {201}{}{END}
 {202}{}{You need to take this out of inventory first.}

@@ -3,8 +3,8 @@
 {102}{}{Salve.}
 {103}{}{E' bello vederti.}
 {104}{}{Not from around here, are you?}
-{105}{}{Mom is a great lady, isn't she?}
-{106}{}{I'm glad the orphans of The Den have a place to live now.}
+{105}{}{Mamma e' una gran bella persona, vero?}
+{106}{}{Sono contento che gli orfani del Den abbiano un posto dove vivere adesso.}
 {200}{}{Hi mister!}
 {201}{}{I'm glad the other kids aren't stealing anymore.}
 {300}{}{Hi miss!}

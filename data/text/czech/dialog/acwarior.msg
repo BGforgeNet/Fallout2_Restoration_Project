@@ -24,7 +24,7 @@
 {171}{}{Zapomeň na to.}
 {172}{}{A hele, naše trdlo. Říká se o tobě, že jsi Vyvolený. Musím říct, že duch našeho Zakladatele má opravdu divný vkus.}
 {173}{}{Lhúnhetyk.}
-{174}{}{Přeju ti bezpečnou cestu, trdlo... pro naše vlastní dobro.}
+{174}{}{ Přeju ti bezpečnou cestu, trdlo... pro naše vlastní dobro.}
 {175}{}{Héé????}
 {176}{}{Zrádče! Musíš zemřít.}
 {177}{}{Zrádce svých vlastních lidí!}

@@ -256,7 +256,7 @@
 {950}{}{Hai eliminato Carlson.}
 {975}{}{Sei diventato un picciotto della famiglia Bishop.}
 {1805}{}{Yeah... rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
-{1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains.
- And it could be I don't LIKE what you did down there.}
+{1820}{}{Be', devi essere un bel figlio di puttana furbo per convincere la loro guida a smettere di portarli attraverso le montagne.
+ E potrebbe essere che non mi PIACCIA quello che hai fatto laggiù.}
 {1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
 {1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}

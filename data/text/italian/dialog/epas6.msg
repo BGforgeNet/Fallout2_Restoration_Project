@@ -1,1 +1,1 @@
-{100}{}{There is a low humming noise in the air, like a magnetic field is somewhere nearby.}
+{100}{}{Nell'aria c'e' un ronzio basso, come se un campo magnetico fosse nelle vicinanze.}

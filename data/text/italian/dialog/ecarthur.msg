@@ -43,5 +43,5 @@
 {205}{}{Eddai! Non ignorarmi.}
 {206}{}{Ti preeeeeeego! Devo chiederti una cosa importante.}
 {207}{}{Adesso dobbiamo continuare la nostra missione alla ricerca della Sacra Granata di Antiochia. Vieni, Patsy.}
-{300}{}{Our quest has been fulfilled!}
+{300}{}{La nostra missione e' stata compiuta!}
 {301}{}{Arthur, at your service.}

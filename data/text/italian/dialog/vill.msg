@@ -1,5 +1,5 @@
-{100}{}{As you enter the small village, your nose is assaulted by the familiar stench of rodent. You see several mole rats milling about. Strangely, they don't seem interested in attacking you or the peasants that dwell here.}
-{101}{}{The village appears to be empty. The air reeks of rotting mole rat carcasses.}
-{102}{}{The village has changed a lot since your last visit.}
-{103}{}{Even more has changed since you were last here. It seems the protection of the mole rats has been replaced with a wall.}
+{100}{}{Quando entri nel piccolo villaggio, il tuo naso viene assalito dal familiare tanfo di roditore. Vedi diverse talpe giganti che si aggirano. Stranamente, non sembrano interessate ad attaccare te o i contadini che vivono qui.}
+{101}{}{Il villaggio sembra vuoto. L'aria puzza di carcasse di talpe giganti in decomposizione.}
+{102}{}{Il villaggio e' cambiato molto dalla tua ultima visita.}
+{103}{}{E' cambiato ancora di piu' dall'ultima volta che sei stato qui. Sembra che la protezione delle talpe giganti sia stata sostituita da un muro.}
 {104}{}{Hey! Where'd everybody go?}

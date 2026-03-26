@@ -28,7 +28,7 @@
 {144}{}{Ad esempio?}
 {145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
 {146}{}{Non proprio. Arrivederci.}
-{147}{}{Look, I don't know anything about that, and I sure as hell don't like it when people accuse me of things. Now I suggest you leave.}
+{147}{}{Senti, non so niente di questo, e di certo non mi piace quando la gente mi accusa di cose. Ora ti suggerisco di andartene.}
 {150}{}{Scopriro' la verita'. Arrivederci.}
 {156}{}{Parla con Bill. Ti aiutera' lui.}
 {157}{}{Ho delle altre domande.}
@@ -50,35 +50,35 @@
 {173}{}{Occhi aperti.}
 {174}{}{Ti copro io.}
 {175}{}{Non lasciare che i bastardi ti colgano di sorpresa.}
-{200}{}{I don't know what yer talking about. I suggest you drop this matter before you start to piss people off. Now get outta here.}
-{201}{}{I got a better idea. How about I beat you to death instead.}
+{200}{}{Non so di cosa stai parlando. Ti suggerisco di lasciar perdere questa faccenda prima di iniziare a far incazzare la gente. Ora vattene.}
+{201}{}{Ho un'idea migliore. Che ne dici se ti picchio a morte invece.}
 {202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
 {203}{}{Fine, goodbye.}
-{204}{}{Ah dammit, I knew this wouldn't last forever. [Looks around and lowers his voice.] Alright, listen. Keep your mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money.] Now, if you'll excuse me, I have to get going.}
+{204}{}{Ah accidenti, sapevo che non sarebbe durato per sempre. [Si guarda intorno e abbassa la voce.] Va bene, ascolta. Tieni la bocca chiusa su questa faccenda. Ecco $1000 per tenerti zitto. [Ti da' i soldi.] Ora, se mi scusi, devo andare.}
 {205}{}{[FATTO]}
 {206}{}{Help! We have a thief on our hands here.}
 {207}{}{}
 {208}{}{What the!? Who the hell are you?}
-{209}{}{Me? Uh, I'm the tooth fairy. I have come to bring you great riches.}
-{210}{}{Yeah and I'm Saint Nick. Now who the fuck are you and why are you in my house?}
-{211}{}{Really? I met a guy in New Reno who also claims to be Saint Nick.}
+{209}{}{Io? Ehm, sono la fatina dei denti. Sono venuto a portarti grandi ricchezze.}
+{210}{}{Si' e io sono Babbo Natale. Ora chi cazzo sei e perche' sei in casa mia?}
+{211}{}{Davvero? Ho incontrato un tizio a New Reno che sostiene anche lui di essere Babbo Natale.}
 {212}{}{*Fissa nel vuoto*}
-{213}{}{(going on) Yeah, and then I told him my life story about Arroyo...}
-{214}{}{Listen, I don't give a flying fuck about any of your rambling bullshit. You're the one who's been snooping around, asking questions about the missing caravan money.}
-{215}{}{That's right. And I'm here to collect the final piece of evidence I need to put you away.}
-{216}{}{Oh yeah? Let me help. The documents you're looking for are in a briefcase that's locked away in the bottom drawer
- of that dresser over there. But you're never gonna touch it, 'cause I'm gonna kill you, you fuckin' do-gooder. If it
- weren't for you, I coulda kept skimming off the caravan runs for another couple months. But no, you had to go an'
- meddle in affairs that aren't any of your fuckin' concern. So now I gotta flee town, but at least I'll have the pleasure
- of leaving your corpse behind.}
-{217}{}{No one has to die here, Chad. Instead of doing something stupid that might get you killed, you should calm down, and we'll talk this over with Marcus.}
-{218}{}{You think I'm stupid? That big ugly prick would lock me up in a second. No, I'm afraid someone's certainly going to die here. And it's not gonna be me!}
-{219}{}{I'm here for the last piece of evidence in the caravan skimming case.}
-{220}{}{Oh really?...I thought I recognized you.}
-{221}{}{Alright, Alright. I admit to everything. I don't want to die for this. Tell Marcus I'll come peacefully.}
+{213}{}{(continuando) Si', e poi gli ho raccontato la storia della mia vita ad Arroyo...}
+{214}{}{Ascolta, non me ne frega un cazzo delle tue cavolate deliranti. Sei tu quello che ha curiosato in giro, facendo domande sul denaro mancante della carovana.}
+{215}{}{Esatto. E sono qui per raccogliere l'ultima prova di cui ho bisogno per metterti dentro.}
+{216}{}{Oh si'? Lasciami aiutare. I documenti che cerchi sono in una valigetta chiusa a chiave nel cassetto inferiore
+ di quel comò la'. Ma non la toccherai mai, perche' ti ammazzero', fottuto benefattore. Se non fosse
+ stato per te, avrei potuto continuare a sgraffignare dalle carovane per un altro paio di mesi. Ma no, dovevi andare a
+ ficcarti negli affari che non ti riguardano un cazzo. Ora devo fuggire dalla citta', ma almeno avro' il piacere
+ di lasciare il tuo cadavere dietro di me.}
+{217}{}{Nessuno deve morire qui, Chad. Invece di fare qualcosa di stupido che potrebbe farti uccidere, dovresti calmarti, e ne parleremo con Marcus.}
+{218}{}{Pensi che sia stupido? Quel grosso stronzo brutto mi chiuderebbe dentro in un secondo. No, temo che qualcuno morra' di sicuro qui. E non saro' io!}
+{219}{}{Sono qui per l'ultima prova nel caso del furto dalla carovana.}
+{220}{}{Oh davvero?... Pensavo di riconoscerti.}
+{221}{}{Va bene, va bene. Ammetto tutto. Non voglio morire per questo. Di' a Marcus che verra' pacificamente.}
 {222}{}{Alright, don't move. I'll go get Marcus.}
-{300}{}{You allow Chad to skip town.}
+{300}{}{Permetti a Chad di lasciare la citta'.}
 {400}{}{Lasciami in pace.}
-{2040}{}{Ah dammit I knew this wouldn't last forever. (Looks around and lowers his voice.) Alright listen. Keep your
- mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money and you hand him his briefcase.]
- Now if you excuse me I have to get going.}
+{2040}{}{Ah accidenti sapevo che non sarebbe durato per sempre. (Si guarda intorno e abbassa la voce.) Va bene ascolta. Tieni la
+ bocca chiusa su questa faccenda. Ecco $1000 per tenerti zitto. [Ti da' i soldi e tu gli consegni la sua valigetta.]
+ Ora se mi scusi devo andare.}

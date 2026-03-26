@@ -1,69 +1,68 @@
 {100}{}{You see a hologram.}
 {101}{}{You see a hologram.}
-{200}{}{Zzzzzt... Hello... zzZzzt..Are..zzzZzzZtt... stand... me?}
+{200}{}{Zzzzzt... Ciao... zzZzzt..Mi..zzzZzzZtt... capi... sci?}
 {201}{}{Excuse me?}
 {202}{}{Certo. Addio.}
-{203}{}{My... zZzzzt..sensor... ZzzzzzZzt...*garble*..fixed?}
-{204}{}{Sorry, but I can't understand you. There's too much static. I'll see if I can maybe fix it somehow.}
+{203}{}{Il mio... zZzzzt..sensore... ZzzzzzZzt...*disturbi*..riparato?}
+{204}{}{Mi dispiace, ma non riesco a capirti. C'e' troppo disturbo. Vedro' se riesco a sistemarlo in qualche modo.}
 {205}{}{I don't have time for this. Bye.}
-{300}{}{Ah, thank you so much for repairing me! I was dreading the thought of some visitor happening along and asking me questions which I'd be unable to properly answer due to all the static. Of course, you're the first visitor I've seen since the war, but still, *had* I encountered someone else, that could have been quite embarrassing.}
-{301}{}{No problem. So what exactly is this place anyway?}
-{302}{}{[He grins, seemingly delighted at the prospect of having questions to answer.] You're standing in the Environmental Protection Agency, more commonly referred to as the EPA. We're a government research facility that specializes in testing chemicals to ensure that they're safe for the Earth's environment. But that's just scratching the surface. We had all sorts of exciting things going on here, at least until the facility was vacated due to the war. Things haven't quite been the same since.}
-{303}{}{Interesting. So, what exactly is your purpose here?}
-{304}{}{Well, unlike the other holograms you will encounter, I wasn't created for a specific task. I'm merely here to answer visitor's questions or help solve difficult mathematical problems that the human mind cannot accomplish.}
+{300}{}{Ah, grazie mille per avermi riparato! Temevo l'idea che qualche visitatore potesse arrivare e farmi domande a cui non avrei potuto rispondere correttamente a causa di tutto il disturbo. Certo, sei il primo visitatore che vedo dalla guerra, ma comunque, *se* ne avessi incontrato un altro, sarebbe stato piuttosto imbarazzante.}
+{301}{}{Nessun problema. Quindi, che posto e' esattamente questo?}
+{302}{}{[Sorride, apparentemente felice di avere domande a cui rispondere.] Ti trovi nell'Environmental Protection Agency, piu' comunemente chiamata EPA. Siamo una struttura di ricerca governativa specializzata nel testare sostanze chimiche per garantire che siano sicure per l'ambiente terrestre. Ma questo e' solo l'inizio. Qui succedevano un sacco di cose interessanti, almeno finche' la struttura non e' stata evacuata a causa della guerra. Da allora le cose non sono piu' state le stesse.}
+{303}{}{Interessante. Quindi, qual e' esattamente il tuo scopo qui?}
+{304}{}{Beh, a differenza degli altri ologrammi che incontrerai, non sono stato creato per un compito specifico. Sono qui semplicemente per rispondere alle domande dei visitatori o aiutare a risolvere problemi matematici difficili che la mente umana non puo' affrontare.}
 {305}{}{I see. Then perhaps you could answer some questions for me?}
-{310}{}{Oh, I'd love to answer your questions. Ask away and I'll answer them to the best of my ability.}
-{311}{}{I keep seeing references to a Blue Level. How do I access it?}
-{312}{}{I found another way into this facility, but it requires a passcode. The service elevator brings you to it.}
+{310}{}{Oh, adorerei rispondere alle tue domande. Chiedi pure e rispondero' al meglio delle mie capacita'.}
+{311}{}{Continuo a vedere riferimenti a un Livello Blu. Come posso accedervi?}
+{312}{}{Ho trovato un altro modo per entrare nella struttura, ma richiede un codice di accesso. L'ascensore di servizio ci porta.}
 {313}{}{Can you identify some items I found around here?}
 {314}{}{Nevermind. I don't need anything.}
-{320}{}{Why of course, the main elevator at the surface should take you where you want to go! Why would you go through the
- ventilation system?}
-{321}{}{Well, that elevator is not working anymore and the only way in I found was through the vents.}
-{322}{}{Oh, I see. That makes more sense. Well, there is another way in. There is a service elevator which stops on level two.
- It should be accessible from under the Doctor's workshop. He can be found outside, to the east of the main entrance to the EPA.
- You will need an access code to get inside, however. Since I am grateful for you repairing me, I shall tell you code. The code is "FLOWERPOT".}
+{320}{}{Ma certo, l'ascensore principale in superficie dovrebbe portarti dove vuoi andare! Perche' dovresti passare dal sistema di ventilazione?}
+{321}{}{Beh, quell'ascensore non funziona piu' e l'unico modo che ho trovato per entrare era attraverso le prese d'aria.}
+{322}{}{Oh, capisco. Ha piu' senso. Beh, c'e' un altro modo per entrare. C'e' un ascensore di servizio che si ferma al livello due. 
+Dovrebbe essere accessibile da sotto l'officina del Dottore. Lo trovi all'esterno, a est dell'ingresso principale dell'EPA. 
+Avrai bisogno di un codice di accesso per entrare, comunque. Poiche' ti sono grato per avermi riparato, ti diro' il codice. Il codice e' "FLOWERPOT".}
 {323}{}{Grazie. Lascia che ti chieda qualcos'altro.}
-{324}{}{Oh, I'm sorry but the Blue Level contains top secret research. Access to that level is restricted to... oh, to hell with it. You were kind enough to repair me, so I suppose I could give you the password. It's "FLOWERPOT".}
+{324}{}{Oh, mi dispiace, ma il Livello Blu contiene ricerche top secret. L'accesso a quel livello e' limitato a... oh, al diavolo. Sei stato cosi' gentile da ripararmi, quindi credo di poterti dare la password. E' "FLOWERPOT".}
 {330}{}{I will do my best. What item would you like me to identify?}
 {331}{}{What is the purpose of this dog food?}
-{332}{}{I found this syringe full of an unknown substance. Could you tell me what it does?}
-{333}{}{I found this rack of test tubes. Anything specific I can do with it?}
+{332}{}{Ho trovato questa siringa piena di una sostanza sconosciuta. Puoi dirmi cosa fa?}
+{333}{}{Ho trovato questo supporto con provette. C'e' qualcosa di specifico che posso farci?}
 {334}{}{What are the effects of using these drugs I found?}
-{335}{}{I made some unknown chemicals with the Mr. Chemmie! machine. What do they do?}
-{336}{}{I found some dynamite that was different than ones that I have encountered. How do I use it?}
+{335}{}{Ho creato alcune sostanze sconosciute con la macchina Mr. Chemmie!. A cosa servono?}
+{336}{}{Ho trovato della dinamite diversa da quella che ho visto finora. Come la uso?}
 {337}{}{Actually, let me ask you something else.}
-{340}{}{Well, the original designers of this place always liked to place little references from movies, books, and other
- such sources all over the place. They found it funny and so did many others. The dog food is a reference to a movie,
- but I'll leave it up to you to figure out.}
+{340}{}{Beh, i progettisti originali di questo posto amavano inserire piccoli riferimenti a film, libri e altre
+ fonti simili ovunque. Lo trovavano divertente, e anche molti altri. Il cibo per cani e' un riferimento a un film,
+ ma lascero' a te il compito di capirlo.}
 {341}{}{Alright. Let me ask you something else.}
-{350}{}{Well, those basic instruments for any chemist. I suppose if you want to create something then one would find
- a use for them.}
+{350}{}{Beh, sono strumenti di base per qualsiasi chimico. Suppongo che, se vuoi creare qualcosa, potresti
+ trovarci un utilizzo.}
 {351}{}{Alright. Let me ask you something else.}
-{360}{}{Ah, that's an interesting specimen you have there. I'm afraid I don't recognize it. Please, place it in the container next to me and I'd be happy to analyze it for you.}
-{361}{}{Alright. [You place the item in the container and close the lid.]}
+{360}{}{Ah, quello e' uno specimen interessante. Temo di non riconoscerlo. Per favore, mettilo nel contenitore accanto a me e saro' felice di analizzarlo per te.}
+{361}{}{D'accordo. [Metti l'oggetto nel contenitore e chiudi il coperchio.]}
 {362}{}{On second thought, let me ask you something else.}
-{363}{}{Reading molecular make-up of liquid in syringe... Success. Analysis Complete. Interesting, it seems this syringe contains a unique serum with traces of feline DNA. It appears to be an experimental drug with the potential to enhance a human's agility. Of course, I wouldn't recommend you use anything that's still in the experimental stage.}
+{363}{}{Lettura della composizione molecolare del liquido nella siringa... Successo. Analisi completata. Interessante, sembra che questa siringa contenga un siero unico con tracce di DNA felino. Sembra essere una droga sperimentale con il potenziale di aumentare l'agilita' umana. Ovviamente, non consiglierei di usare qualcosa che e' ancora in fase sperimentale.}
 {364}{}{Alright. Let me ask you something else.}
-{370}{}{Ah, that would be cannabis, also known as marijuana, weed, and ganja, among other things. It's a type of illegal drug that may induce psychoactive effects when smoked or consumed. Some of the technicians here used to be fond of smoking it to help them relax. If you smoke it, you should be aware that it may cloud your mind and lower your reaction time for a period of time.}
+{370}{}{Ah, quella sarebbe cannabis, conosciuta anche come marijuana, weed e ganja, tra le altre cose. E' una droga illegale che puo' indurre effetti psicoattivi quando viene fumata o consumata. Alcuni tecnici qui erano soliti fumarla per rilassarsi. Se la fumi, devi sapere che potrebbe offuscare la mente e ridurre i tuoi tempi di reazione per un certo periodo.}
 {371}{}{Alright. Let me ask you something else.}
-{380}{}{Ah, that's an interesting specimen you have there. I'm afraid I don't recognize it. Please, place it in the container next to me and I'd be happy to analyze it for you.}
-{381}{}{Alright. [You place the item in the container and close the lid.]}
+{380}{}{Ah, quello e' uno specimen interessante. Temo di non riconoscerlo. Per favore, mettilo nel contenitore accanto a me e saro' felice di analizzarlo per te.}
+{381}{}{D'accordo. [Metti l'oggetto nel contenitore e chiudi il coperchio.]}
 {382}{}{On second thought, let me ask you something else.}
-{383}{}{Unfortunately, I have no information in my database which describes this item. As with any unknown substance, I'd advise you to take great caution before deciding to use it. Sorry I couldn't be of more help.}
+{383}{}{Sfortunatamente, non ho informazioni nel mio database che descrivano questo oggetto. Come per qualsiasi sostanza sconosciuta, ti consiglierei di essere molto cauto prima di decidere di usarla. Mi dispiace di non poter essere piu' utile.}
 {384}{}{Alright. Let me ask you something else.}
-{390}{}{This is an interesting item. Unlike other dynamite which has a timer, this dynamite is controlled by a radio trigger.
- Just place the dynamite where ever you want it to go off and press the trigger to detonate it. Quite a nifty item, don't
- you think?}
+{390}{}{Questo e' un oggetto interessante. A differenza della dinamite normale, che ha un timer, questa e' controllata da un detonatore radio.
+ Basta posizionarla dove vuoi che esploda e premere il grilletto per farla detonare. Un oggetto davvero ingegnoso,
+ non credi?}
 {391}{}{Definitely. Let me ask you something else.}
 {400}{}{Hello again. Something else I can help you with?}
 {401}{}{Ho delle domande da farvi.}
 {402}{}{Lasciamo perdere. Ci vediamo.}
-{500}{}{You open up the side panel to the hologram emitter and look inside. You see a mess of cables and circuit boards.}
+{500}{}{Apri il pannello laterale dell'emettitore olografico e guardi all'interno. Vedi un groviglio di cavi e schede elettroniche.}
 {501}{}{Well, let's get started.}
-{502}{}{After some time you isolate the problem and correct it. You close up the panel and wipe the sweat from your brow.}
+{502}{}{Dopo un po' riesci a isolare il problema e a correggerlo. Richiudi il pannello e ti asciughi il sudore dalla fronte.}
 {503}{}{You have successfully repaired the hologram.}
-{504}{}{After some experimentation you fail to figure out what is wrong with the hologram.}
-{505}{}{Damn. This is too hard for me. Repair just isn't my forte.}
+{504}{}{Dopo alcuni tentativi non riesci a capire cosa non va nell'ologramma.}
+{505}{}{Maledizione. E' troppo difficile per me. Le riparazioni non sono il mio forte.}
 {506}{}{You fail to repair the hologram.}
 {507}{}{[FATTO]}

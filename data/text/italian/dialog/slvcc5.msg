@@ -14,19 +14,19 @@
 {308}{}{Heading out on another run?}
 {309}{}{La situazione e' piuttosto tranquilla.}
 {310}{}{Quand'e' che potro' menare un po' le mani?}
-{311}{}{Bagging slaves always brings a smile to my face.}
+{311}{}{Catturare schiavi mi mette sempre di buon umore.}
 {312}{}{I raid per gli schiavi sono davvero grandiosi.}
 {313}{}{Hey, glad to have you with us.}
 {500}{}{Hey you! What do you think you're doing? I ain't seen you before.}
-{501}{}{Metzger sent me to check on his goods. You know how he is. If it isn't perfect, shit hits the fan.
- Now I'm already running late. I need to finish this inspection and report back to him. Do you want to be held responsible
- for delaying me?}
-{502}{}{Umm.. uhh... Okay, go right ahead then. I'll be here if you need something.}
+{501}{}{Metzger mi ha mandato a controllare la sua merce. Sai com'e'. Se non e' perfetta, vola tutto per aria.
+ E sono gia' in ritardo. Devo finire questa ispezione e riferire a lui. Vuoi essere tu il responsabile
+ del mio ritardo?}
+{502}{}{Umm... ehm... Okay, allora vai pure. Io resto qui se ti serve qualcosa.}
 {503}{}{Thanks. I'll put in a good word for you with the big man. Bye.}
-{504}{}{Funny that Metzger would send someone that doesn't have our tattoo. You ain't fooling me. Time to take out the trash.}
+{504}{}{Strano che Metzger mandi qualcuno senza il nostro tatuaggio. Non mi freghi. E' ora di buttare la spazzatura.}
 {505}{}{Look, a one headed brahmin!}
-{506}{}{But, uh, I've never seen you before. Where's the usual guy?}
-{507}{}{He's sick. Bad case of the flu.}
+{506}{}{Ma, ehm, non ti ho mai visto prima. Dov'e' il tizio di solito?}
+{507}{}{E' malato. Brutta influenza.}
 {508}{}{He was killed during a slave run.}
 {509}{}{Damn, that's too bad. Well, go ahead then. I'll be here if you need something.}
 {510}{}{The flu? Yeah, right. Looks like we got an intruder on our hands.}

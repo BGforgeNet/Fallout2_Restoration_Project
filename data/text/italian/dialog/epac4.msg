@@ -1,45 +1,44 @@
 {100}{}{You see a Hologram.}
 {101}{}{You see the The Director of Security.}
-{102}{}{Hologram 10001. He oversees the EPA's security.}
-{200}{}{Halt! Do not attempt to come any closer. Identify yourself, intruder.}
+{102}{}{Ologramma 10001. Supervisiona la sicurezza dell'EPA.}
+{200}{}{Alt! Non provare ad avvicinarti. Identificati, intruso.}
 {201}{}{I'm the Chosen One of Arroyo. I'm exploring the EPA.}
-{202}{}{I'm not an intruder and now I need to be leaving.}
+{202}{}{Non sono un intruso e ora devo andare.}
 {203}{}{Sono }
-{204}{}{, and I'm not trying to intrude, I'm just exploring.}
-{210}{}{Exploring!? Exploring... MY... EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
-{211}{}{No, wait! I'm not doing you any harm! Let me explain...}
-{220}{}{You aren't going anywhere fast, Pisskopf. Nobody saunters into MY EPA without explaining themselves. How do I know you're not a Chinese spy?}
-{221}{}{I guess you don't. But if you give me a chance to explain myself, I'm sure we can sort this whole mess out.}
-{222}{}{So what if I am? Does it even matter? Your precious EPA isn't exactly relevant anymore. It's just another decaying relic of a lost age.}
-{230}{}{Go on then, Schwachkopf, explain yourself. Make it good though, or I'll have the robots beat you and drag you down to the electric chair!}
-{231}{}{Alright. First off, I'm not a Chinese spy -- I'm what you might call a tribal. I've been chosen to embark on a perilous quest so that I might save my tribe from destruction. I only entered this complex in hope of scavenging something that could aid me in my quest.}
-{232}{}{Fuck off. Seriously, you're a *hologram*. The worst you can do is try and shout me to death, which you seem to be giving your best shot. As for those scrap heaps you call robots, I might be a little more intimidated if I saw any around here that actually work.}
-{240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill... perhaps I could find a use for you after all. }
+{204}{}{, e non sto cercando di intrufolarmi, sto solo esplorando.}
+{210}{}{Esplorando!? Esplorando... LA MIA... EPA!? Come osi avere la faccia tosta di entrare qui e gironzolare come niente fosse! Vollidiot! Mi verrebbe voglia di arrestarti e buttarti nello zoo tattile -- dare a quei mostri un vero banchetto!}
+{211}{}{No, aspetta! Non ti sto facendo alcun male! Lascia che spieghi...}
+{220}{}{Non andrai da nessuna parte, Pisskopf. Nessuno entra nella MIA EPA senza spiegarsi. Come faccio a sapere che non sei una spia cinese?}
+{221}{}{Immagino che tu non possa saperlo. Ma se mi dai la possibilita' di spiegarmi, sono sicuro che possiamo sistemare tutto questo casino.}
+{222}{}{E se lo fossi? Che importa? La tua preziosa EPA non e' piu' rilevante. E' solo un'altra reliquia in decomposizione di un'epoca perduta.}
+{230}{}{Avanti allora, Schwachkopf, spiegati. Ma fallo bene, o faro' picchiare i robot e ti faro' trascinare alla sedia elettrica!}
+{231}{}{Va bene. Prima di tutto, non sono una spia cinese -- sono quello che potresti chiamare un tribale. Sono stato scelto per intraprendere una missione pericolosa per salvare la mia tribu' dalla distruzione. Sono entrato in questo complesso solo nella speranza di recuperare qualcosa che potesse aiutarmi nella mia missione.}
+{232}{}{Vaffanculo. Sul serio, sei un *ologramma*. La cosa peggiore che puoi fare e' cercare di urlarmi fino alla morte, e ci stai provando alla grande. Quanto a quei rottami che chiami robot, forse sarei piu' intimorito se ne vedessi uno che funziona davvero.}
+{240}{}{Saccheggiare! Tu, Pissnelke! Come osi screditare il nome dell'EPA in questo modo! Nessuno rimuove nemmeno un foglio di carta da questo edificio senza il mio permesso! Tuttavia, arrivare cosi' lontano nell'EPA richiede una certa abilita'... forse potrei trovare un uso per te dopotutto.}
 {241}{}{Eh?}
 {242}{}{No, I think I'll just scavenge some more and go. Bye!}
-{250}{}{Insolence! Such insolence from a Blödes Arschloch! When I began my training, insolence was to be punished. And punished we were! Mark my words scheisskopf, that forked tongue of yours will one day be the death of you.}
-{251}{}{Maybe it will, maybe it will. And if that day were ever to come, I shall deal with it then and there. What is certain, is it will not come from you. You're a nobody. You have nothing left to rule over, which is why you cover up your sadness with anger. How long have the robots failed to respond to you?}
-{260}{}{Well, as you may already have guessed, the robots no longer work here at the EPA. The computer consoles no longer register my verbal commands and I don't have a body to activate the console. I... I can't properly secure anything. Could you fix the robot control computer for me? I need the ability to command the robots for... well, for things.}
+{250}{}{Insolenza! Che insolenza da un Blödes Arschloch! Quando iniziai il mio addestramento, l'insolenza veniva punita. E puniti lo eravamo! Ricorda le mie parole, scheisskopf, quella tua lingua biforcuta un giorno ti fara' morire.}
+{251}{}{Forse si', forse no. E se quel giorno dovesse arrivare, me ne occupero' allora. Una cosa e' certa: non verra' da te. Non sei nessuno. Non hai piu' nulla da comandare, ed e' per questo che copri la tua tristezza con la rabbia. Da quanto tempo i robot non rispondono piu' ai tuoi comandi?}
+{260}{}{Beh, come avrai gia' intuito, i robot non funzionano piu' qui all'EPA. Le console non registrano piu' i miei comandi vocali e non ho un corpo per attivarle. Io... non posso piu' mettere in sicurezza nulla. Potresti riparare il computer di controllo dei robot per me? Ho bisogno di poter comandare i robot per... beh, per certe cose.}
 {261}{}{Well why not? I'll see what I can do.}
 {262}{}{No, I don't have the time. Bye.}
-{270}{}{Fick dich du verdammter Arschficker! I ought to... to... [He sighs.] You're right. The robots can't understand what I say anymore. They sit there motionless like damn penners! The computers have ceased functioning and, as a hologram, I can't touch the keyboards. As I've been saying for many years now, this whole place needs leveling and rebuilding. Maybe one day I'll have the power to do just that.}
-{271}{}{Maybe I could help you somehow? I'm pretty good with computers.}
-{280}{}{Thanks. If you can repair the robot control computer, I'll grant you full access to the security wing on the red level. You can take what you like from the stores. I'm afraid we have no use for them now anyway.}
+{270}{}{Fick dich du verdammter Arschficker! Dovrei... dovrei... [Sospira.] Hai ragione. I robot non capiscono piu' quello che dico. Stanno li' immobili come dannati barboni! I computer hanno smesso di funzionare e, essendo un ologramma, non posso toccare le tastiere. Come dico da anni, questo posto va raso al suolo e ricostruito. Forse un giorno avro' il potere di farlo.}
+{271}{}{Forse potrei aiutarti in qualche modo? Me la cavo abbastanza bene con i computer.}
+{280}{}{Grazie. Se riesci a riparare il computer di controllo dei robot, ti concedero' pieno accesso all'ala di sicurezza del livello rosso. Potrai prendere quello che vuoi dai depositi. Temo che ormai non ci servano piu' comunque.}
 {281}{}{Thanks. I'll get back to you when I'm done.}
 {290}{}{Lech mich! I have nothing more to say to you.}
 {291}{}{Bene.}
-{300}{}{Have you managed to complete the task yet? *Eyes gleam expectantly*}
+{300}{}{Hai gia' completato il compito? *Gli occhi brillano in attesa*}
 {301}{}{No, not yet. I'll keep working on it.}
-{310}{}{Are the computers back online yet?}
-{311}{}{Yes. I've repaired them for you. You can command the robots again.}
-{320}{}{Excellent! Brilliant! I can crush those fools now! The EPA will be cleansed once more! Alright, now I have something for you. [Speaking to the robots] Get yer metal ass in gear and come give this civie a reward for serving this great nation!
- [A robot wheels over to you and holds out a keycard. Once you take the card, you watch it wheel back out of the room. Somehow, you get the impression that these robots would have been
- happier if you'd left them inactive.] Be on your way now. You are dismissed.}
+{310}{}{I computer sono di nuovo online?}
+{311}{}{Si'. Li ho riparati per te. Ora puoi comandare di nuovo i robot.}
+{320}{}{Eccellente! Brillante! Ora posso schiacciare quegli sciocchi! L'EPA sara' purificata ancora una volta! Bene, ora ho qualcosa per te. [Parlando ai robot] Muovete il vostro culo di metallo e venite a dare a questo civile una ricompensa per aver servito questa grande nazione!
+ [Un robot si avvicina e ti porge una keycard. Quando la prendi, lo vedi allontanarsi dalla stanza. In qualche modo hai l'impressione che questi robot sarebbero stati piu' felici se li avessi lasciati inattivi.] Ora vai. Sei congedato.}
 {321}{}{Grazie.}
-{322}{}{Dismissed? What am I, a guardsman? Later, old timer.}
+{322}{}{Congedato? Cosa sono, una guardia? A dopo, vecchio.}
 {330}{}{Lasciami in pace!}
 {331}{}{I want nothing more to do with you.}
-{332}{}{MACH ES DIR SELBER!!}
+{332}{}{FALLO DA SOLO!!}
 {333}{}{I'm busy right now.}
 {334}{}{Come back later.}
 {335}{}{Can't you see I'm in conference?}
@@ -49,15 +48,15 @@
 {339}{}{Only with destruction of the old can the new be reborn.}
 {340}{}{All in favor?}
 {341}{}{The robots must be reactivated!}
-{342}{}{Warmduschers! All of you!}
-{343}{}{Our weapon defenses are in dire need of ammunition!}
-{344}{}{If I was in charge, things would actually get done around here!}
-{345}{}{Halt die Schnauze!}
-{400}{}{Arrest me? You're a hologram. You can't even touch me.}
-{401}{}{I see I got a goddamn Klugscheißer on my hands! You think I can't beat the piss out of a Warmduscher like you? Well, maybe I can't, but that's what the damn robots are for! Now I'm running out of patience real fast. You best start explaining yourself. How do I know you're not a Chinese spy?}
-{410}{}{You the one that brought the robot control computer back online?}
+{342}{}{Warmduscher! Tutti quanti!}
+{343}{}{Le nostre difese armate hanno disperatamente bisogno di munizioni!}
+{344}{}{Se fossi io al comando, qui le cose si farebbero davvero!}
+{345}{}{Stai zitto!}
+{400}{}{Arrestarmi? Sei un ologramma. Non puoi nemmeno toccarmi.}
+{401}{}{Vedo che ho a che fare con un dannato Klugscheisser! Pensi che non possa pestare un Warmduscher come te? Beh, forse non posso, ma e' per questo che ci sono quei dannati robot! Ora sto perdendo la pazienza molto in fretta. Faresti meglio a spiegarti. Come faccio a sapere che non sei una spia cinese?}
+{410}{}{Sei tu quello che ha rimesso online il computer di controllo dei robot?}
 {411}{}{Proprio cosi'.}
 {412}{}{Uh... maybe.}
 {413}{}{Nope. Wasn't me.}
-{420}{}{Quatsch! You're the only flesh and blood being around, so I damn well know it was you.}
+{420}{}{Quatsch! Sei l'unico essere in carne e ossa qui intorno, quindi so bene che sei stato tu.}
 {421}{}{Alright, fine, it was me.}

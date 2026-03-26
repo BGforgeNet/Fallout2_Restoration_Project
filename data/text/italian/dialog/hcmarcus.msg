@@ -90,7 +90,7 @@
 {189}{}{Jacob e Aileen mi hanno chiesto di far evadere due prigionieri. Credo che abbiano qualcosa in mente.}
 {190}{}{Jacob e Aileen mi hanno chiesto di far saltare la miniera. Pensavo che ti avrebbe fatto piacere saperlo.}
 {191}{}{Uno scienziato di NCR vuole testare un composto sperimentale in grado di eliminare i mutanti. Fate attenzione a quello che bevete e mangiate.}
-{192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
+{192}{}{Sembra che avessi ragione su Chad che si intascava soldi. Ha mentito al rappresentante di Gecko riguardo uno sciopero dei minatori per giustificare un aumento dei prezzi. Immagino che si stia intascando i profitti.}
 {193}{}{Chad si e' intascato circa 1000$ dall'ultima consegna di uranio. Sta pensando di lasciare la citta'. Ho una valigetta con alcuni documenti che lo provano.}
 {194}{}{Niente. Non importa.}
 {195}{mcs24}{Dei tunnel sotto la citta'? Immagino che non ci sia da stupirsi, considerando la presenza della miniera. Continuerai a cercare quelle persone, d'accordo? }

@@ -96,9 +96,9 @@
 {462}{}{Di nulla. Adesso andatevene da qui.}
 {463}{}{In bocca al lupo.}
 {464}{}{Di nulla.}
-{470}{}{Wait, one more thing. I'm looking for someone specific and I don't see her here. Do you know where other slaves might be held?}
-{471}{}{Big camp near here. (The tribal points south west) Two moons from here.}
-{472}{}{There's a camp about two days travel south west from here. That's where I was first at.}
+{470}{}{Aspetta, un'ultima cosa. Sto cercando qualcuno di specifico e non la vedo qui. Sai dove potrebbero essere tenuti altri schiavi?}
+{471}{}{Grande accampamento vicino qui. (Il tribale indica a sudovest) Due lune da qui.}
+{472}{}{C'e' un accampamento a circa due giorni di viaggio a sudovest da qui. E' li' che mi trovavo all'inizio.}
 {473}{}{Thank you. Now get out of here.}
 {474}{}{Thank you. Take care then.}
 {475}{}{Wait. I look for someone. Where more slaves?}

@@ -40,36 +40,28 @@
 {327}{}{Diamine! Ah, pazienza. Qua dentro non mi dice mai nulla nessuno. D'accordo. Vai pure.}
 {328}{}{Woah, sembra piuttosto grave. Farai meglio ad andare subito. Questa patata bollente te la lascio volentieri. Oh, e non temere: non diro' nulla a nessuno.}
 {329}{}{[FATTO]}
-{400}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then
- turns to the others.] Holy shit! One of those mutie wastlanders stowed away in the 'bird! ALERT! We got an intruder!}
-{401}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then
- turns to the others.] Holy shit! Some of those mutie wastlanders stowed away in the 'bird! ALERT! We got intruders!}
-{402}{}{[Jump out and see how many you can take down before they waste you.]}
-{403}{}{[Raise hands in surrender and hope for the best.]}
-{410}{}{Aw, it doesn't look like the mutie's gonna put up a fight. Maybe we should bring him to the Commander -- see
- what he wants to do about this.}
-{411}{}{Aw, it doesn't look like the mutie's gonna put up a fight. Maybe we should bring her to the Commander -- see
- what he wants to do about this.}
-{412}{}{Aw, it doesn't look like the muties are gonna put up a fight. Maybe we should bring them to the Commander -- see
- what he wants to do about this.}
-{420}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of Enclave soldiers. One of them does a double-take at you.] What the hell
- are you doing back here? You weren't authorized to be on that mission. What's your name, soldier?}
-{421}{}{It doesn't matter what my name is, 'cause I'm not here to talk. [Jump out and start fighting.]}
-{422}{}{Me? Oh, I'm, uh, *cough*mumble*cough*. Don't mind me, though. In fact, I should probably be going now.
- [Get out and attempt to walk away nonchalantly.]}
+{400}{}{[Dopo mezz'ora seduto nel buio della stiva, senti il velivolo toccare terra di nuovo. Un attimo dopo, il portellone si apre e vedi una squadra di soldati in armatura potenziata. 
+Uno di loro ti guarda due volte, poi si gira verso gli altri.] Merda! Uno di quei mutanti della Landa si e' nascosto nel 'bird! ALLERTA! Abbiamo un intruso!}
+{401}{}{[Dopo mezz'ora seduto nel buio della stiva, senti il velivolo toccare terra di nuovo. Un attimo dopo, il portellone si apre e vedi una squadra di soldati in armatura potenziata. 
+Uno di loro ti guarda due volte, poi si gira verso gli altri.] Merda! Alcuni di quei mutanti della Landa si sono nascosti nel 'bird! ALLERTA! Abbiamo degli intrusi!}
+{402}{}{[Salta fuori e vedi quanti riesci a buttar giu' prima che ti facciano fuori.]}
+{403}{}{[Alza le mani in segno di resa e spera nel meglio.]}
+{410}{}{Oh, sembra che il mutante non voglia combattere. Forse dovremmo portarlo dal Comandante, vedere cosa vuole farne.}
+{411}{}{Oh, sembra che la mutante non voglia combattere. Forse dovremmo portarla dal Comandante, vedere cosa vuole farne.}
+{412}{}{Oh, sembra che i mutanti non vogliano combattere. Forse dovremmo portarli dal Comandante, vedere cosa vuole farne.}
+{420}{}{[Dopo mezz'ora seduto nel buio della stiva, senti il velivolo toccare terra di nuovo. Un attimo dopo, il portellone si apre e vedi una squadra di soldati dell'Enclave. 
+Uno di loro ti guarda due volte.] Che diavolo ci fai qui dietro? Non eri autorizzato a essere in quella missione. Come ti chiami, soldato?}
+{421}{}{Il mio nome non importa, perche' non sono qui per parlare. [Salta fuori e inizia a combattere.]}
+{422}{}{Io? Oh, sono, uh, *coff*mumble*coff*. Non badare a me. Anzi, forse dovrei andare. [Esci e prova ad allontanarti con noncuranza.]}
 {423}{}{Il mio nome e' }
 {424}{}{. Where am I?}
-{425}{}{No, what's *your* name, soldier? I was put here to test you and I gotta say you FAILED. If I were a wasteland
- suicide assassin you and your whole crew would be dead right now! That is unacceptable! Shape up, soldier!}
+{425}{}{No, qual e' il *tuo* nome, soldato? Sono stato messo qui per testarti e devo dire che hai FALLITO. Se fossi un assassino suicida della Landa, tu e tutta la tua squadra sareste morti adesso! Inaccettabile! Datti una regolata, soldato!}
 {426}{}{Uh . . . my name }
-{427}{}{. I take fun ride in metal birdie! Go again! Wanna go again!}
-{428}{}{You not need know my name. I no like you. I kill. [Jump out and start fighting.]}
-{430}{}{What are you, drunk? You're at Navarro, of course. If you're having memory problems, soldier, you might wanna go get yourself checked out. Maybe some of that radiation out there got to you.}
-{440}{}{Don't give me that bullshit. You're one of the new recruits, aren't you? Heh. That smart mouth of yours is gonna land you in all sorts of trouble--and I can't wait to see it happen. Now get back to your post, soldier.}
+{427}{}{. Io fare giro divertente su uccellino di metallo! Andare ancora! Voglio andare ancora!}
+{428}{}{Tu non serve sapere mio nome. Io non ti piace. Io uccido. [Salta fuori e inizia a combattere.]}
+{430}{}{Che sei, ubriaco? Sei a Navarro, ovviamente. Se hai problemi di memoria, soldato, forse dovresti farti controllare. Magari un po' di quella radiazione la' fuori ti ha colpito.}
+{440}{}{Non dirmi stronzate. Sei una delle nuove reclute, vero? Heh. Quella tua linguaccia ti mettera' nei guai, e non vedo l'ora di vederlo. Ora torna al tuo posto, soldato.}
 {450}{}{Sir! Yes sir!}
 {451}{}{Ma'am! Yes ma'am!}
-{460}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made him retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bastard out of his misery before he contaminates us.}
-{461}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made her retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bitch out of her misery before she contaminates us.}
+{460}{}{[Il soldato guarda uno dei suoi compagni.] Mio Dio, il contatto con tutti quei mutanti e la radiazione deve averlo rincoglionito. Vedi? *Ecco* perche' non mi offro mai volontario per quelle missioni nella Landa. Comunque, togliamo questo idiota dalla sua miseria prima che ci contamini.}
+{461}{}{[Il soldato guarda uno dei suoi compagni.] Mio Dio, il contatto con tutti quei mutanti e la radiazione deve averla rincoglionita. Vedi? *Ecco* perche' non mi offro mai volontario per quelle missioni nella Landa. Comunque, togliamo questa idiota dalla sua miseria prima che ci contamini.}

@@ -37,7 +37,7 @@
 {136}{}{OK, capo. Hai vinto tu.}
 {137}{}{Per tua fortuna, devo andare a controllare le mie trappole.}
 {138}{}{Credo che la mamma mi stia chiamando.}
-{140}{}{Looks like I don't have any regular gecko pelts, but I do have }
-{141}{}{Looks like I don't have any golden gecko pelts, but I do have }
+{140}{}{Sembra che non abbia pelli di gecko normali, ma ho }
+{141}{}{Sembra che non abbia pelli di gecko dorato, ma ho }
 {142}{}{Sorry, looks like I'm all out of stock.}
 {200}{}{Vedi una donna sporca e dall'aspetto stanco.}

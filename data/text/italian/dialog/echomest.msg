@@ -36,4 +36,4 @@
 {135}{}{Tornero'.}
 {136}{}{Prendi mia moglie - ti prego...}
 {200}{}{Thanks fer your help.}
-{201}{}{Bout time some order was brought to these here lands.}
+{201}{}{Era ora che un po' di ordine tornasse in queste terre.}

@@ -8,26 +8,26 @@
 {400}{}{Mi chiamo John, sono uno dei monaci piu' anziani qui.}
 {401}{}{Allora, qual e' il tuo compito?}
 {402}{}{Capisco. Arrivederci.}
-{403}{}{Well, I used to work on a farm, but it was bad for my heart.}
+{403}{}{Be', lavoravo in una fattoria, ma faceva male al mio cuore.}
 {404}{}{Hai problemi al cuore?}
 {405}{}{Che peccato, arrivederci!}
-{406}{}{Yeah, I have a bad heart. If I still had my heart pills, it would ease my life a lot more. It is very difficult
- to find medicine for that problem in today's world you know.}
+{406}{}{Si', ho un cuore malato. Se avessi ancora le mie pillole per il cuore, la mia vita sarebbe molto piu' semplice. E' molto difficile 
+ trovare medicine per quel problema nel mondo di oggi, sai.}
 {407}{}{Potrei avere una soluzione per i tuoi problemi al cuore...}
 {408}{}{Mi dispiace sentire questo. Arrivederci.}
 {410}{}{Addio.}
-{411}{}{You do? Are you saying that you actually HAVE heart pills?}
+{411}{}{Davvero? Stai dicendo che hai DAVVERO le pillole per il cuore?}
 {412}{}{Si', ce li ho. Sarebbe un piacere darteli.}
 {413}{}{Si', ho delle pillole per il cuore. Puoi averle per $400.}
-{414}{}{I was only joking. I don't have any heart pills.}
-{415}{}{[He takes the pills from you.] Thank you, my friend! Here, please take this item as a gesture of gratitude.}
+{414}{}{Stavo solo scherzando. Non ho pillole per il cuore.}
+{415}{}{[Ti prende le pillole.] Grazie, amico mio! Ecco, ti prego di accettare questo oggetto come gesto di gratitudine.}
 {416}{}{Felice di aver aiutato, e grazie per l'oggetto. Arrivederci!}
-{417}{}{(He becomes quite angry, but then calms down) Ok, fine, here's your money. Now give me the pills!}
+{417}{}{(Diventa piuttosto arrabbiato, ma poi si calma) Ok, va bene, ecco i tuoi soldi. Ora dammi le pillole!}
 {418}{}{Ho deciso di tenermi le pillole. Grazie per i soldi!}
 {419}{}{E' stato un piacere fare affari con te. Arrivederci.}
-{420}{}{Hmmm, sorry, I haven't. Talk to the Abbot, he might know something.}
+{420}{}{Hmm, mi dispiace, non ne so nulla. Parla con l'Abate, potrebbe sapere qualcosa.}
 {421}{}{Lo faro', grazie. Ora ho altre domande.}
-{422}{}{If I weren't so sick, I would beat the shit out of you. NOW GET OUT OF HERE!}
+{422}{}{Se non fossi cosi' malato, ti farei a pezzi. ORA VATTENE DA QUI!}
 {423}{}{Bene, me ne vado.}
 {500}{}{Grazie ancora per quelle pillole per il cuore, amico mio. Buona fortuna nei tuoi viaggi.}
 {600}{}{Vai via, per favore.}

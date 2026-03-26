@@ -82,7 +82,7 @@
 {366}{}{Stanza Trappola}
 {370}{}{Entrance}
 {380}{}{Woodland}
-{381}{}{Tribe}
+{381}{}{Tribu'}
 {390}{}{Entrance}
 {391}{}{Condotti}
 {392}{}{Locali tecnici}
@@ -167,9 +167,9 @@
 {668}{}{Deserto}
 {670}{}{Stalle}
 {680}{}{Villaggio}
-{690}{}{Umbra Tribe}
-{700}{}{Umbra Tribe}
-{710}{}{Umbra Tribe}
+{690}{}{Tribu' Umbra}
+{700}{}{Tribu' Umbra}
+{710}{}{Tribu' Umbra}
 {1000}{}{Deserto}
 {1001}{}{Montagne}
 {1002}{}{Citta'}

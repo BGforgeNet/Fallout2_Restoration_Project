@@ -1,7 +1,7 @@
-{200}{}{If I tie some rope to this I could probably climb down there.}
-{201}{}{Some rope would definitely be useful here.}
+{200}{}{Se ci legassi una corda, probabilmente potrei calarmi laggiu'.}
+{201}{}{Della corda sarebbe sicuramente utile qui.}
 {300}{}{Questo dovrebbe bastare.}
 {301}{}{I already placed the rope.}
-{302}{}{You tie the rope to one of the bars of the vent and drop the rest of the rope down. You hear a thud as it hits
- the bottom.}
-{400}{}{You enter one of the EPA's ventilation systems. You can hear various insects scurrying about.}
+{302}{}{Lighi la corda a una delle sbarre della grata e lasci cadere il resto. Senti un tonfo quando raggiunge
+ il fondo.}
+{400}{}{Entri in uno dei condotti di ventilazione dell'EPA. Senti vari insetti che si muovono rapidamente.}

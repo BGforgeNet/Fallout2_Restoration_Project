@@ -18,37 +18,36 @@
 {120}{}{Tornero' con i soldi.}
 {121}{}{Nessun problema. Lo faro' consegnare immediatamente.}
 {122}{}{Credevi di poterti servire da solo, eh? Dannato ladro... Guardie! Guardie!}
-{123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
-{124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
- [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
- hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
+{123}{}{Dave mi ha mandato. Stiamo cercando di riparare una pompa dell'acqua rotta, e ha detto che tu avresti un motore di ricambio.}
+{124}{}{Lavori con Dave, eh? Si', conosco quel tizio. Vedo che ha ancora il talento di far fare agli altri il lavoro duro--bastardo pigro.
+ [Ride.] Comunque, credo di avere quello che cerchi, ma fammi controllare dietro. [Harry va nel retrobottega dove senti scatole spostate e mosse. Torna un minuto dopo.] Si', ce l'ho proprio qui. 500$ e' tutta tua.}
 {125}{}{Certo. Ecco i soldi.}
-{126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
+{126}{}{500? Dannazione. Spero che mi rimborsino per questo. Va bene, ecco i soldi.}
 {127}{}{Thanks for the business. Take care.}
 {128}{}{Addio.}
 {129}{}{Connar sent me for the goods.}
-{130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
-{131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
+{130}{}{[Gli occhi di Harry guizzano rapidamente, sembra un po' nervoso] Si', certo. Solo un momento...}
+{131}{}{[Harry ti porta i fucili.] Tieni, prendili. Sono diecimila, e facciamo in fretta.}
 {132}{}{Of course, here's the money.}
-{133}{}{But Connar only gave me five grand.}
-{134}{}{But Connar only gave me two grand.}
-{135}{}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with weapons, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
-{136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
-{137}{}{Excellent. But remember, you didn't buy these weapons here.}
+{133}{}{Ma Connar mi ha dato solo cinque mila.}
+{134}{}{Ma Connar mi ha dato solo due mila.}
+{135}{}{Non e' un mio problema. Guarda, la mia attivita' fatica gia' abbastanza cosi'. Se qualcuno scopre che sto fornendo armi a Connar, le cose si metteranno davvero male, molto in fretta. Inoltre, gli sto gia' facendo uno sconto.}
+{136}{}{Guarda, ci sto mettendo il collo... Oh, al diavolo, non ho tempo per discutere. Prendili e basta. [Si infila rapidamente i tuoi soldi in tasca.] Ora vattene. E ricorda, non li hai comprati da me.}
+{137}{}{Eccellente. Ma ricorda, non hai comprato queste armi qui.}
 {138}{}{It's a deal. Bye.}
 {139}{}{[AVANTI]}
 {140}{}{Well then, wait a bit until I get the money.}
 {141}{}{Well, have you brought the money?}
 {142}{}{What if I just give you five grand?}
 {143}{}{What about two grand?}
-{144}{}{Ehmmm... ten grand?! I don't have that much money; wait a bit until I get it.}
-{145}{}{Damn! Who could possibly have turned me in?!}
+{144}{}{Ehmmm... diecimila?! Non ho tutti quei soldi; aspetta un po' finche' non li recupero.}
+{145}{}{Dannazione! Chi diavolo potrebbe avermi denunciato?!}
 {146}{}{Hey! What was I imprisoned for?}
 {147}{}{Well, at least the food's not bad.}
 {148}{}{Che cosa stai guardando?}
 {149}{}{What will happen to my shop now?}
-{200}{}{$500? Hey, maybe you could give me some kind of discount, I mean, you and Dave are friends, right?}
-{201}{}{To tell you the truth, I never really cared for the fella. $500 for the motor. Take it or leave it.}
+{200}{}{500$? Ehi, magari potresti farmi un qualche sconto, voglio dire, tu e Dave siete amici, giusto?}
+{201}{}{A dire la verita', non mi e' mai importato molto di quel tizio. 500$ per il motore. Prendere o lasciare.}
 {202}{}{Fine. Here's the money.}
 {203}{}{Forget it, I'm outta here.}
 {204}{}{$500!? Forget this, I'm outta here.}

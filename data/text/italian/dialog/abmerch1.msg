@@ -3,60 +3,60 @@
 {103}{}{Non riesco proprio a far funzionare questa cosa!}
 {104}{}{Sembra davvero difficile da riparare.}
 {105}{}{Che pezzo di merda!}
-{106}{}{Stubborn little sonnuva bitch are we?}
+{106}{}{Piccolo testardo figlio di puttana, eh?}
 {107}{}{Potresti darmi una mano?}
 {108}{}{Forse tu avrai piu' fortuna con questa.}
 {109}{}{Ehi, grazie per aver riparato la pompa dell'acqua!}
-{110}{}{You should notify the headmonk that the waterpump is now fixed.}
+{110}{}{Dovresti avvisare il monaco capo che la pompa dell'acqua e' stata riparata.}
 {200}{}{Grazie per averci aiutato con questa cosa.}
-{300}{}{Ah, what a piece of shi- umm, I'm a little busy right now. Do you need something or are
- you just wasting my time?}
-{301}{}{Actually yes, the Abbot sent me. He said the water pump is having some trouble.}
-{302}{}{Heh, "having trouble" is an understatement. This ol' thing is totally busted. There's no way
- it's going to run again.}
+{300}{}{Ah, che pezzo di mer- ehm, sono un po' occupato adesso. Hai bisogno di qualcosa o stai solo
+ sprecando il mio tempo?}
+{301}{}{In realta' si', l'Abate mi ha mandato. Ha detto che la pompa dell'acqua ha qualche problema.}
+{302}{}{Eh, "qualche problema" e' dire poco. Questo vecchio arnese e' completamente a pezzi. Non c'e' modo
+ che funzioni di nuovo.}
 {303}{}{Capisco. Allora immagino che non farebbe male se dessi un'occhiata.}
-{304}{}{Sure, be my guest. Not like you could break it any more.}
+{304}{}{Certo, fai pure. Come se potessi romperla ancora di piu'.}
 {305}{}{Non voglio disturbare, ma qual e' il problema qui?}
-{306}{}{The main water pump for the Abbey is busted. The damn thing was breathing its last the past few days
- and now it's finally gone out.}
-{307}{}{I'm a bit of a techie, mind if I take a look?}
-{308}{}{Well, I'm not that great with machines, but perhaps I can see if something can be done.}
+{306}{}{La pompa dell'acqua principale dell'Abbazia e' rotta. Il dannato aggeggio stava tirando le cuoia negli ultimi giorni
+ e ora ha finalmente ceduto.}
+{307}{}{Sono abbastanza esperto di tecnologia, ti dispiace se do un'occhiata?}
+{308}{}{Be', non sono molto bravo con le macchine, ma forse riesco a vedere se si puo' fare qualcosa.}
 {309}{}{Certo, nessuno te lo impedisce.}
 {310}{}{Uh, scusa. Arrivederci.}
 {311}{}{Vedro' di fare il possibile.}
-{312}{}{I thought I might be able to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
-{313}{}{I told the Abbot I'd be willing to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
-{320}{}{[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
- real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. }
+{312}{}{Pensavo di poter aiutare, ma se vuoi fare lo stronzo, arrangiatevi pure da solo.}
+{313}{}{Ho detto all'Abate che ero disposto ad aiutare, ma se vuoi fare lo stronzo, arrangiatevi pure da solo.}
+{320}{}{[Ti fissa per un momento, poi lascia lentamente uscire il respiro in un sospiro.] Scusa amico, questa cosa e' una
+ vera rottura, e mi ha fatto perdere la pazienza. Non volevo scattarti contro. }
 {321}{}{Beh, qual e' il problema allora?}
 {322}{}{Vabbe', ciao.}
 {330}{}{Torna a trovarmi domani mattina.}
 {400}{}{Oh, sei tu di nuovo. Hai avuto fortuna?}
 {401}{}{No, non ancora. Ti faro' sapere se ne avro'.}
-{402}{}{Actually, yes. I looked inside and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
-{500}{}{Hmm... the connectors are shot on the main motor, eh? Well, I got some wires here with me that will work, but not
- that specific motor. I am sure Vault City has the part though. Go there and speak with Harry in the main courtyard. Tell him
- Dave sent you. Damn motor is expensive, but he should give you a good deal.}
+{402}{}{In realta' si'. Ho guardato dentro e sembra che il motore sia completamente a pezzi. I collegamenti sono bruciati, quindi
+ dovremo procurarci un motore nuovo, oltre a dei cavi per ricollegare tutto dato che quelli vecchi sono fusi.}
+{500}{}{Hmm... i connettori del motore principale sono bruciati, eh? Be', ho dei cavi qui con me che andrebbero bene, ma non
+ quel motore specifico. Sono sicuro che Vault City abbia il pezzo. Vai la' e parla con Harry nel cortile principale. Digli
+ che ti manda Dave. Il dannato motore e' costoso, ma dovrebbe farti un buon prezzo.}
 {501}{}{Ci vado subito. Torno presto.}
-{502}{}{Whoa, hold on a second. I was happy to help you figure out the problem, but who said I'm willing to trek across
- the wastes to go buy you an expensive motor? If you want my help, it's going to cost you.}
-{503}{}{How 'bout *you* tell Harry that when you go fetch it your damn self? I'm not your fucking errand boy. Bye.}
-{510}{}{Alright, I wouldn't expect someone to do work for free. The part will cost you bout 500 and I think 100 more for
- your trouble is reasonable. Here's 600.}
+{502}{}{Aspetta un secondo. Ero felice di aiutarti a capire il problema, ma chi ha detto che sono disposto a traversare
+ le Lande per andare a comprare un costoso motore? Se vuoi il mio aiuto, avra' un costo.}
+{503}{}{Perche' non lo dici *tu* a Harry quando vai a prendertelo da solo? Non sono il tuo cazzo di fattorino. Ciao.}
+{510}{}{Va bene, non mi aspetto che qualcuno lavori gratis. Il pezzo ti costera' circa 500 e penso che altri 100 per
+ il disturbo siano ragionevoli. Ecco 600.}
 {511}{}{Meglio cosi'. Tornero' con il pezzo.}
-{600}{}{Any luck on that part? This machine won't fix itself.}
+{600}{}{Hai trovato il pezzo? Questa macchina non si ripara da sola.}
 {601}{}{No, non ancora. Tornero' quando l'avro'.}
 {602}{}{Si', ho il pezzo proprio qui.}
-{700}{}{Excellent. Want me to install the damn thing, or do you want the pleasure?}
+{700}{}{Eccellente. Vuoi che installi il dannato aggeggio, o vuoi il piacere di farlo tu?}
 {701}{}{Penso di farcela. Fatti da parte.}
-{702}{}{Actually, I think I've done enough on this job. Go ahead and install it yourself.}
+{702}{}{In realta', penso di aver fatto abbastanza in questo lavoro. Vai avanti e installalo tu stesso.}
 {800}{}{Va bene, consegnalo.}
 {801}{}{Ecco qua.}
 {900}{}{Questo dovrebbe bastare.}
 {901}{}{La pompa dell'acqua e' stata riparata.}
-{910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
+{910}{}{(Si asciuga il sudore dalla fronte.) Si', hai bisogno di qualcosa?}
 {911}{}{L'Abate ha detto che potresti aver bisogno di aiuto. Qual e' il problema?}
 {912}{}{Non importa. Arrivederci.}
-{913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
+{913}{}{Ho dato un'occhiata alla pompa dell'acqua e sembra che il motore sia completamente a pezzi. I collegamenti sono bruciati, quindi
+ dovremo procurarci un motore nuovo, oltre a dei cavi per ricollegare tutto dato che quelli vecchi sono fusi.}

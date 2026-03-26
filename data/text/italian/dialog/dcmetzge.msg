@@ -46,8 +46,8 @@
 {262}{}{Nulla. Arrivederci.}
 {263}{}{ vuole fare male.}
 {264}{}{Na.}
-{265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of
- them are quite what I'm looking for. Are these all the slaves you have to offer?}
+{265}{}{Stavo guardando gli schiavi che hai la' dietro, ma vedi, ho gusti molto, ehm...*selettivi*, e nessuno di
+ loro e' proprio quello che cerco. Sono tutti gli schiavi che hai da offrire?}
 {270}{}{Credi di potercela fare? Io non prendo il primo venuto... E che cazzo. Se sgarri, ti liquido all'istante. Dovrai farti fare un tatuaggio sulla fronte che ti identifichi come schiavista. E' permanente, percio' niente ripensamenti.}
 {271}{}{E cosi' il nostro gentile fiorellino e' tornato... Hai cambiato idea, allora? Hai deciso di farti fare quel tatuaggio?}
 {272}{}{Si', perche' no? Non hai bisogno di molto cervello per partecipare ad un raid. Tanto, se sgarri, ti liquido all'istante. Se pensi di potercela fare dovrai farti fare un tatuaggio sulla fronte che ti identifichi come schiavista.}
@@ -223,20 +223,20 @@
 {751}{}{Fottiti.}
 {752}{}{Uh, okay.}
 {800}{}{Hai ucciso il leader della Gilda degli Schiavisti.}
-{900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}
+{900}{}{Quello che vedi e' quello che ottieni. Se non ti piace la mia merce, togliti dal cazzo dai piedi e smettila di farmi perdere tempo.}
 {901}{}{Uh, sorry. Let me ask you something else then.}
 {902}{}{Right. I think I'll go then.}
-{903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
-{910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp.
- Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the
- fucking same, so if that's not your thing, you might be shit outta luck.}
-{911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some
- way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
+{903}{}{In realta', penso che faro' fuori *te* e tutta la tua maledetta operazione malata.}
+{910}{}{E' tutto quello che ho in magazzino qui, rompisc***, ma ho sempre nuova merce in arrivo dal mio altro campo schiavi.
+ Forse se torni piu' tardi, avro' qualcosa che stuzzica la tua fantasia -- ma sono per lo piu' tribali ignoranti che sembrano tutti
+ uguali, quindi se non e' quello che cerchi, potresti essere proprio sfigato.}
+{911}{}{Senti, potrebbe essere una richiesta insolita, ma vorrei davvero avere la precedenza su qualsiasi nuova merce che hai. C'e' un modo
+ per andare a controllare le scorte nel tuo altro campo? Naturalmente, sarei disposto a pagare un prezzo maggiorato.}
 {912}{}{Alright, I'll keep checking back then.}
-{913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
+{913}{}{Bene, ma la prossima volta fammi un favore e non farmi perdere tempo a meno che tu non abbia affari concreti da discutere.}
+{914}{}{Prezzo maggiorato, eh? Ora parli la mia lingua. Di solito gestiamo le vendite qui, ma suppongo si possa fare un'eccezione,
+ purche' tu sia serio. Ti dico come arrivare la', ma tienilo per te, cazzo. Te lo giuro, se risulta che sei una
+ spia di quei maledetti Ranger, ti daro' la caccia e ti scortichero' vivo. [Ascolti le sue indicazioni e annoti la posizione del Campo degli Schiavisti nel tuo Pip-Boy.]}
 {915}{}{Got it. Let me ask you something else.}
 {916}{}{Thanks. I'll be on my way now. Bye.}
 {1360}{}{ per lei. Che ne dici?}

@@ -43,9 +43,9 @@
 {507}{}{Consegna delle pinze (attrezzi) e una chiave inglese a Valerie.}
 {508}{}{Esplora gli otto settori intorno a Gecko e torna da Stark.}
 {509}{}{Entra a NCR e torna da Stark.}
-{510}{}{Resolve the problem with the nearby village.}
-{511}{}{Get weapons for Connar to be used at the nearby village.}
-{512}{}{Put the Village on a trade route.}
+{510}{}{Risolvi il problema con il villaggio vicino.}
+{511}{}{Recupera armi per Connar da usare nel villaggio vicino.}
+{512}{}{Inserisci il villaggio in una rotta commerciale.}
 {600}{}{Risolvi il problema della centrale energetica di Gecko.}
 {601}{}{Ripara la centrale.}
 {602}{}{Ottimizza la centrale.}
@@ -79,7 +79,7 @@
 {816}{}{Consegna il pacco di Big Jesus a Ramirez presso le Stalle.}
 {817}{}{Incassa il pizzo dai fratelli Corsican.}
 {818}{}{Uccidi il Boss Salvatore per conto di Mordino.}
-{819}{}{Bring a bottle of Abbey's hootch to Father Tully.}
+{819}{}{Porta una bottiglia del liquore dell'Abbazia a Padre Tully.}
 {900}{}{}
 {1000}{}{}
 {1100}{}{Recupera i componenti/Ottieni l'accesso al Vault 15.}
@@ -122,43 +122,43 @@
 {1514}{}{Recupera la milza di Chip.}
 {1515}{}{Prendi qualche Power-Armor rinforzata da Crockett.}
 {1516}{}{Recupera i piani per un vertibird per la Confraternita d'Acciaio.}
-{1517}{}{Disable the Shi submarine threatening the tanker.}
-{1518}{}{Investigate the whereabouts of Dr. Sheng.}
-{1519}{}{Bring Dr. Sheng some plant seeds.}
+{1517}{}{Disattiva il sottomarino degli Shi che minaccia la petroliera.}
+{1518}{}{Indaga sulla scomparsa del dottor Sheng.}
+{1519}{}{Porta al dottor Sheng alcuni semi di piante.}
 {1520}{}{Eliminate Dr. Sheng.}
 {1521}{}{Deliver the plant seed sample to Dr. Wong.}
-{1522}{}{Eliminate Dr. Wong without alerting the Shi.}
-{1523}{}{Clear out Dr. Sheng's lab.}
+{1522}{}{Elimina il dottor Wong senza allertare gli Shi.}
+{1523}{}{Sgombera il laboratorio del dottor Sheng.}
 {1600}{}{Occupati del Deathclaw.}
 {1601}{}{Ripara K9.}
 {1602}{}{Recupera il FOB dal comandante della base.}
 {1700}{}{}
 {1800}{}{Kill the beast beneath the church.}
 {1801}{}{Deliver the machine part to Brother Max.}
-{1802}{}{Repair the waterpump and report the status to the headmonk.}
+{1802}{}{Ripara la pompa dell'acqua e riferisci lo stato al monaco capo.}
 {1803}{}{Find out who is digging up the graves.}
-{1804}{}{Inform Brother Samuel and Father Tully about the whereabouts of each other.}
-{1805}{}{Bring a lighter to Brother Hank.}
+{1804}{}{Informa Fratello Samuel e Padre Tully sulla posizione l'uno dell'altro.}
+{1805}{}{Porta un accendino a Fratello Hank.}
 {1806}{}{Collect information about Botany for Brother Paul.}
-{1807}{}{Format the Abbey's book database.}
+{1807}{}{Formatta il database dei libri dell'Abbazia.}
 {1808}{}{Escort Brother Jason to Gecko.}
 {1900}{}{Collect some weapons for the Tribe's warriors.}
-{1901}{}{Fix the well for Marli and the tribe.}
+{1901}{}{Sistema il pozzo per Marli e la tribù.}
 {1902}{}{Find out what's haunting the tribe's shaman.}
-{1903}{}{Find Sulik's missing sister.}
+{1903}{}{Trova la sorella scomparsa di Sulik.}
 {1904}{}{Find out what happened to the hunting party.}
-{1905}{}{Collect firewood for the tribe's fishermen.}
-{1906}{}{Reunite Sulik and his sister, Kurisu.}
-{1907}{}{Accompany Krom to meet with the trader.}
-{1908}{}{Bring some herbs (5 Xander Roots, 3 Broc Flowers) to the Shaman.}
-{2000}{}{Fix Hologram 00000.}
+{1905}{}{Raccogli legna da ardere per i pescatori della tribù.}
+{1906}{}{Riunisci Sulik e sua sorella, Kurisu.}
+{1907}{}{Accompagna Krom all'incontro con il mercante.}
+{1908}{}{Porta alcune erbe (5 Radici di Xander, 3 Fiori di Broc) allo Sciamano.}
+{2000}{}{Sistema l’Ologramma 00000.}
 {2001}{}{Fix the Voice Computer.}
 {2002}{}{Clear out the plant problem.}
-{2003}{}{Fix EPA lighting problem.}
+{2003}{}{Risolvi il problema dell’illuminazione dell’EPA.}
 {2004}{}{Collect Gecko Pelts for the Doctor.}
-{2005}{}{Fix the hologram that speaks with static.}
-{2006}{}{Find the tool the Doctor left behind.}
-{2007}{}{Test the Solar Scorcher for the Director of Science.}
+{2005}{}{Sistema l’ologramma che parla con interferenze.}
+{2006}{}{Trova l’attrezzo lasciato dal Dottore.}
+{2007}{}{Testa il Solar Scorcher per il Direttore della Scienza.}
 {2100}{}{}
 {2200}{}{}
 {2300}{}{}

@@ -1,5 +1,5 @@
 {100}{}{You see an old, rusty fan.}
-{101}{}{You could easily jam this fan with some piece of metal.}
+{101}{}{Potresti facilmente bloccare questa ventola con un pezzo di metallo.}
 {102}{}{There is a metal pole jamming the fan.}
-{200}{}{You jam the pole into the fan. You hear scraping of metal and the fan comes to a stop. It makes a clunking
- noise as it tries to spin its now jammed blades.}
+{200}{}{Incastri l'asta nella ventola. Senti il metallo grattare e la ventola si ferma. Fa un rumore sordo mentre tenta di far girare
+ le pale ormai bloccate.}

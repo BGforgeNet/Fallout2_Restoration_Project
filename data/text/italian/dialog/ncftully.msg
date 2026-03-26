@@ -267,73 +267,72 @@
 {1003}{}{Oh Gesu', Giuseppe e Maria, non berro' mai piu' cosi' tanto.}
 {1004}{}{Farei meglio ad alzarmi presto e andare a confessarmi.}
 {1005}{}{Magari rimarro' qui steso ancora per un po'.}
-{2000}{}{I gotta say, Father, New Reno isn't exactly the first place I'd expect to find a preaching man.}
-{2001}{}{Whatza better place than here? B'sidez, they sure as hell didn't want to keep me at their damned Abbey.
- Bah! Lettem keep their peazful, dull, monastery. Who needs it? Huh? Not me! But ya know what? Those monks sure could
- make sum good hooch. Oh boy, best damn hooch ever. (He licks his lips.) Ol' Samuel and I, we had ourselfz a lotta fun
- wit that hooch, lemme tell ya.}
-{2002}{}{Booze at a monastery. Interesting, I think I might have to visit this place. Do you think you could point out its location on my map?}
-{2003}{}{Alright, if I'm interpreting your drunken ramblings correctly, then it sounds like you came from some sort of monastery, where you did a
- lot of drinking with some guy named Samuel. Father, if you could point out its location on my map, then maybe I could go meet your friend and try
- some of this hooch you're so fond of.}
-{2004}{}{(You pull out your Pip-Boy and hold it out for Father Tully to point out the location. He first points at the ocean, then at a random
- mountain range to the south. After almost poking his eye out, he finally settles his finger on the northeast corner of the map.) Yep, there'z
- the Abbey. That seemz bout right.}
+{2000}{}{Devo dire, Padre, New Reno non e' esattamente il primo posto dove mi aspetterei di trovare un uomo di chiesa.}
+{2001}{}{Che posto migliore di questo? Tra l'altro, di sicuro non volevano tenermi nella loro maledetta Abbazia.
+ Bah! Che si tengano il loro monastero tranquillo e noioso. Chi ne ha bisogno? Eh? Io no! Ma sai una cosa? Quei monaci sapevano
+ fare un buon distillato. Accidenti, il miglior distillato di sempre. (Si lecca le labbra.) Il vecchio Samuel ed io ci siamo divertiti
+ un sacco con quel distillato, credimi.}
+{2002}{}{Alcolici in un monastero. Interessante, credo che dovro' visitare questo posto. Potresti indicarmi la sua posizione sulla mia mappa?}
+{2003}{}{Bene, se sto interpretando correttamente i tuoi vaneggiamenti da ubriaco, sembra che tu venga da una specie di monastero, dove hai
+ bevuto parecchio con un tizio di nome Samuel. Padre, se potessi indicarmi la sua posizione sulla mia mappa, forse potrei andare a trovare il tuo
+ amico e provare un po' di questo distillato di cui vai tanto fiero.}
+{2004}{}{(Tiri fuori il tuo Pip-Boy e lo porgi a Padre Tully perche' indichi la posizione. Prima punta verso l'oceano, poi verso una catena
+ montuosa a caso a sud. Dopo essersi quasi cavato un occhio, alla fine posa il dito sull'angolo nordest della mappa.) Si', la'
+ c'e' l'Abbazia. Sembra giusto.}
 {2005}{}{I appreciate it, Father. I have some other questions though.}
-{2006}{}{Thanks. But I'm curious, why'd you leave the Abbey?}
+{2006}{}{Grazie. Ma sono curioso, perche' hai lasciato l'Abbazia?}
 {2007}{}{Thanks, Father. I must be going now.}
-{2008}{}{Well dat wuz a loooong time ago. I haddent quite gotten my act together yet. It waz before th' angel Mrs Wright put me in line. Ya see,
- them monks didn't take kindly to my wild ways. Me and Brother Samuel, we useta get a lil crazy. Hehe, this one night, Sammy and I went 'round to
- the sleepin monks, and put their handz in bowls a warm water. Even got the Abbot! Ha! Those were the dayz, lemme tell ya.}
-{2009}{}{That's pretty childish, Father. I take it you were eventually kicked out?}
-{2010}{}{Right. I've had enough of these amateur drunk stories. See you around, Father.}
-{2011}{}{I dunno if I'd say they *kicked* me out... but they zure as hell didn't want me to stick around--not after that night I passed out and
- axidently set fire to one a th' lieberrys. Boy, you shoulda seen the Abbot's face... if he had half a backbone, he'd a prolly strangled me. Ha! So I
- left, and good riddenze! I sure do miss that hooch though. And Samuel, it'd be nice ta know how that ol' dog's doing.}
-{2012}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll look up this Samuel friend of yours. Hell, maybe
- I'll even bring you back some of that booze.}
-{2013}{}{Oh, couldja, please? That'd make me happier than a disease-free Reno whore. Thanks fren.}
+{2008}{}{Be' era tantoooo tempo fa. Non mi ero ancora messo in riga. Era prima che l'angelo della signora Wright mi raddrizzasse. Vedi,
+ quei monaci non gradivano le mie maniere da selvaggio. Io e Fratello Samuel, ogni tanto si faceva un po' i matti. Hehe, una notte, Sammy ed io andammo
+ in giro dai monaci addormentati e gli mettemmo le mani in bacinelle d'acqua calda. Anche l'Abate! Ha! Quelli erano i bei tempi, credimi.}
+{2009}{}{E' piuttosto infantile, Padre. Immagino che alla fine ti abbiano cacciato?}
+{2010}{}{Giusto. Ne ho abbastanza di queste storie da ubriacone dilettante. A presto, Padre.}
+{2011}{}{Non so se direi che mi hanno *cacciato*... ma di sicuro non volevano che restassi--non dopo quella notte che sono svenuto e
+ ho accidentalmente dato fuoco a una delle biblioteche. Ragazzo, avresti dovuto vedere la faccia dell'Abate... se avesse avuto un minimo di coraggio, mi avrebbe probabilmente strangolato. Ha! Cosi' me ne sono andato, e meno male! Mi manca quel distillato pero'. E Samuel, sarebbe bello sapere come se la passa quel vecchio cane.}
+{2012}{}{Viaggero' molto, quindi se capita di passare dall'Abbazia, magari andro' a trovare questo tuo amico Samuel. Cazzo, magari
+ ti porto anche un po' di quel distillato.}
+{2013}{}{Oh, potresti, per favore? Mi renderebbe piu' felice di una puttana di Reno senza malattie. Grazie amico.}
 {2014}{}{No problem. I have some other questions though.}
 {2015}{}{Sure. See you around.}
-{2016}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll bring you back some of that booze.}
+{2016}{}{Viaggero' molto, quindi se capita di passare dall'Abbazia, magari ti porto un po' di quel distillato.}
 {2017}{}{Interesting. See you around.}
-{2020}{}{The Abbey, huh? I've been there before. In fact, I ran into a fellow named Samuel that acts very much like you.}
-{2021}{}{Samuel!? Ha! Howzzat fella doin? Been years since I've seen 'im. Still drinking away, is he?}
+{2020}{}{L'Abbazia, eh? Ci sono stato. Anzi, ho incontrato un tizio di nome Samuel che si comporta molto come te.}
+{2021}{}{Samuel!? Ha! Come sta quel tipo? Sono anni che non lo vedo. Sta ancora a sbevazzare, vero?}
 {2022}{}{Yeah, he reeks of alcohol, much like you.}
-{2023}{}{Ah, thaz great. Good to hear he's doin alright. If you see him again, tell him I say hello. So... (He clasps his
- hands together and rubs them eagerly.) So, mebbe you pick up summa the Abbey's famous hooch while yer there?}
+{2023}{}{Ah, fantastico. Bello sapere che sta bene. Se lo rivedi, digli che lo saluto. Allora... (Si strofina le
+ mani con entusiasmo.) Allora, magari hai preso un po' del famoso distillato dell'Abbazia mentre eri la'?}
 {2024}{}{Yeah, I got some right here.}
-{2025}{}{I did, but I drank it. Wow is it powerful stuff.}
+{2025}{}{Si', ma l'ho bevuto. Accidenti se e' roba forte.}
 {2026}{}{No.}
-{2027}{}{No need ta rub it in my face. Itz been so long since I've had some... I could really go for a bottle or two. Any chance you'll stop by the Abbey again?}
-{2028}{}{Thatz too bad. Itz been so long since I've had some. I could really go for a bottle or two. Any chance you
- will be stopping by the Abbey again?}
-{2029}{}{You do? Itz been so long since I've had some. Would you be willing to part with it?}
-{2030}{}{We'll see. If I do, I'll try to remember to pick some up for you. See you around, Father.}
+{2027}{}{Non devi strofinarmi il sale sulla ferita. E' cosi' tanto che non ne bevo... me la caverei bene con una bottiglia o due. C'e' qualche possibilita' che tu passi di nuovo dall'Abbazia?}
+{2028}{}{Peccato. E' cosi' tanto che non ne bevo. Me la caverei bene con una bottiglia o due. C'e' qualche possibilita' che
+ tu passi di nuovo dall'Abbazia?}
+{2029}{}{Davvero? E' cosi' tanto che non ne bevo. Saresti disposto a cedermelo?}
+{2030}{}{Vedremo. Se ci passo, cerchero' di ricordarmi di prenderne un po' per te. A presto, Padre.}
 {2031}{}{Probably not. Look, I must be going.}
 {2032}{}{Probably. I pick one up for you when I am passing through. I had some other question though.}
 {2033}{}{Sure. Here you go.}
 {2034}{}{Actually, I think I'll hold on to this for awhile. Gotta run. Bye.}
 {2035}{}{Sure. For a price though.}
-{2036}{}{(Father Tully grabs the bottle from your hand and takes a big swig.) Oh yeah, jus like I remember it. (He takes
- several more swigs, waves weakly at you, then stumbles away to the back room. You hear groaning, followed by a thud.)}
-{2037}{}{(Father Tully opens the donations box, grabs a handful of coins and hands them to you. You nod and hand him the
- bottle. He snatches it from your hand and takes a big swig.) Oh yeah, jus like I remember it. (He takes several more swigs,
- waves weakly at you and stumbles away to the back room. You hear groaning, followed by a thud.)}
-{2040}{}{The Abbey, huh? I've been there before, but I don't recall meeting anyone named Samuel.}
-{2041}{}{He's a great fella. If ya ever do run inna him, let him know I'm living the good life in New Reno. I haven't talked with him since I left th' Abbey.}
-{2042}{}{Sure. But I'm curious, why'd you leave the Abbey?}
-{2045}{}{Really? Thaz too bad. He was a good fella. I'll miss him.}
+{2036}{}{(Padre Tully afferra la bottiglia dalla tua mano e fa un lungo sorso.) Oh si', proprio come lo ricordavo. (Fa
+ altri sorsi, ti saluta debolmente con la mano, poi barcolla verso il retro. Senti dei gemiti, seguiti da un tonfo.)}
+{2037}{}{(Padre Tully apre la cassetta delle offerte, prende una manciata di monete e te le porge. Annuisci e gli dai la
+ bottiglia. La strappa dalla tua mano e fa un lungo sorso.) Oh si', proprio come lo ricordavo. (Fa altri sorsi,
+ ti saluta debolmente con la mano e barcolla verso il retro. Senti dei gemiti, seguiti da un tonfo.)}
+{2040}{}{L'Abbazia, eh? Ci sono stato, ma non ricordo di aver incontrato nessuno di nome Samuel.}
+{2041}{}{E' un gran tipo. Se mai lo incontri, fagli sapere che me la vivo bene a New Reno. Non ci parlo da quando ho lasciato l'Abbazia.}
+{2042}{}{Certo. Ma sono curioso, perche' hai lasciato l'Abbazia?}
+{2045}{}{Davvero? Peccato. Era un gran tipo. Mi manchera'.}
 {2046}{}{Yeah. Well, I have some other questions.}
 {2047}{}{Never was much of a mourner. See you around.}
 {2050}{}{I'm curious, why'd you leave the Abbey?}
-{2060}{}{I spoke with Brother Samuel. He's apparently still drinking himself away.}
-{2061}{}{I got a bottle of the Abbey's famous booze.}
-{2062}{}{Hehe, good ol' Sam. Thaz good to hear. I s'pose someday I should try an get out there again.}
+{2060}{}{Ho parlato con Fratello Samuel. A quanto pare sta ancora a sbevazzare.}
+{2061}{}{Ho una bottiglia del famoso distillato dell'Abbazia.}
+{2062}{}{Hehe, il buon vecchio Sam. Bello saperlo. Suppongo che prima o poi dovrei provare ad andarci di nuovo.}
 {2063}{}{Well, see you around, Father.}
-{2064}{}{I also got a bottle of the Abbey's famous booze that you wanted.}
-{2065}{}{Hehe, good ol' Sam. Thaz good to hear. I s'pose someday I should try an get out there again.}
-{3000}{}{You inform both Father Tully and Brother Samuel about the whereabouts of each other.}
-{3001}{}{You deliver a bottle of the Abbey's famous brew to Father Tully.}
+{2064}{}{Ho anche una bottiglia del famoso distillato dell'Abbazia che volevi.}
+{2065}{}{Hehe, il buon vecchio Sam. Bello saperlo. Suppongo che prima o poi dovrei provare ad andarci di nuovo.}
+{3000}{}{Informi sia Padre Tully che Fratello Samuel di dove si trova l'altro.}
+{3001}{}{Consegni una bottiglia del famoso distillato dell'Abbazia a Padre Tully.}
 {3022}{}{Actually, he's dead.}
-{20091}{}{Hah! That's classic. I pulled the same prank on my nephew Feargus once, and when he woke up and realized he'd pissed himself, he started bawling -- it was great. Anyway, so did they end up kicking you out?}
+{20091}{}{Hah! E' un classico. Ho fatto lo stesso scherzo a mio nipote Feargus una volta, e quando si e' svegliato e ha capito che se l'era fatta addosso, ha cominciato a frignare -- e' stato grandioso. Comunque, ti hanno poi cacciato?}

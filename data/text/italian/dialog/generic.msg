@@ -257,4 +257,4 @@
 {21020}{}{venti}
 {30000}{}{Hai derubato la tua tribu'.}
 {40000}{}{Slot Jinxer}
-{40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}
+{40001}{}{Grazie a un piccolo ma coraggioso elettrodomestico da cucina, conosci un modo segreto per far sputare alle slot machine tutto il loro denaro. Peccato che rompa la macchina nel processo. Ops!}

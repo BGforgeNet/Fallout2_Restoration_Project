@@ -2,17 +2,17 @@
 {101}{}{He is unshaven and reeks of alcohol.}
 {102}{}{*hickup* Do I know you?}
 {103}{}{It's 11 O'clock. Do you know where your children are?}
-{104}{}{(Looks at you sleepily) What? *hickup* It's 11 already?}
-{105}{}{Actually no it isn't, I just wanted to say that. But seriously, do you know where your children are?}
-{106}{}{Actually yeah it is, but that's not important right now. Seriously though, do you know where your children are?}
-{107}{}{*hickup* I have children? *hickup* Oh yeah, I do. He..or is it she..*hickup* should be around here somewhere.}
-{108}{}{Wow, you're such a drunk. Well, good thing I am working on a way to get your child out of here.}
-{109}{}{(Ignores what you just said.) Yeah that's great. *hickup* Now let me get back to this drink.}
-{110}{}{You are a hero to all fathers out there. Keep it up!}
+{104}{}{(Ti guarda assonnato) Cosa? *hic* Sono gia' le undici?}
+{105}{}{In realta' no, non lo sono, volevo solo dirlo. Ma seriamente, sai dove sono i tuoi figli?}
+{106}{}{In realta' si', lo sono, ma non e' importante adesso. Seriamente, sai dove sono i tuoi figli?}
+{107}{}{*hic* Ho dei figli? *hic* Oh si', e' vero. Lui... o lei... *hic* dovrebbe essere qui da qualche parte.}
+{108}{}{Wow, sei proprio un ubriacone. Beh, per fortuna sto lavorando a un modo per portare via tuo figlio da qui.}
+{109}{}{(Ignora quello che hai appena detto.) Si', fantastico. *hic* Ora fammi tornare al mio drink.}
+{110}{}{Sei un eroe per tutti i padri la' fuori. Continua cosi'!}
 {111}{}{zzzZZZZzzz...}
 {112}{}{zZZZZzzZZzzz...}
-{113}{}{*mumbles*}
+{113}{}{*borbotta*}
 {114}{}{Can't you see I'm drinking here? *hickup*}
 {115}{}{Don't bother me. *hickup*}
-{116}{}{Actually it is a little before 11 O'clock, but that's not important right now. Seriously though, do you know where your children are?}
-{117}{}{Actually it is a little past 11 O'clock, but that's not important right now. Seriously though, do you know where your children are?}
+{116}{}{In realta' e' un po' prima delle undici, ma non e' importante adesso. Seriamente, sai dove sono i tuoi figli?}
+{117}{}{In realta' e' un po' dopo le undici, ma non e' importante adesso. Seriamente, sai dove sono i tuoi figli?}

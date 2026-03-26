@@ -1,29 +1,29 @@
 {100}{}{Vedi un computer.}
 {101}{}{You see the EPA's museum computer.}
-{200}{}{Welcome to the EPA's museum! This terminal will project a movie using exciting new holographic technology!
- The movie is an entertaining and informational look at the scary, but possible, reality of a post-nuclear world.}
+{200}{}{Benvenuto nel museo dell'EPA! Questo terminale proiettera' un film utilizzando una nuova ed entusiasmante tecnologia olografica!
+ Il film offre una visione divertente e informativa della spaventosa, ma possibile, realta' di un mondo post-nucleare.}
 {201}{}{[Play movie.]}
 {202}{}{[Logoff.]}
-{210}{}{[The terminal projects a hologram of a tall bespectacled man in a lab coat. He waves and gives you a friendly smile.]
- Hello, I'm Dr. Caleb, and I'll be hosting this holographic video on a post-holocaust America.}
+{210}{}{[Il terminale proietta l'ologramma di un uomo alto, con occhiali e camice da laboratorio. Ti saluta con un sorriso cordiale.]
+ Salve, sono il Dr. Caleb, e saro' la guida di questo video olografico sull'America post-olocausto.}
 {211}{}{[AVANTI]}
-{220}{}{[A living room materializes around Dr. Caleb, where a family appears to be relaxing for the evening. Dr. Caleb
- pats the head of the family dog, then smiles at you.] Meet the Johnsons. They're your average American family. Dad smokes
- his pipe, Mom reads her cook book, and little Billy and Susie catch some boob-tube before bedtime. They think everything
- will be just fine. They ignore the warning sirens, thinking that it's just another drill. Oh, but what's this?}
+{220}{}{[Attorno al Dr. Caleb si materializza un soggiorno, dove una famiglia sembra rilassarsi per la serata. Il Dr. Caleb
+ accarezza il cane di famiglia, poi ti sorride.] Ti presento i Johnson. Sono la tipica famiglia americana. Papa' fuma
+ la pipa, mamma legge il suo libro di cucina, e i piccoli Billy e Susie guardano un po' di televisione prima di andare a letto. Pensano che
+ andra' tutto bene. Ignorano le sirene d'allarme, convinti che sia solo un'altra esercitazione. Oh, ma cos'e' questo?}
 {221}{}{[AVANTI]}
-{230}{}{[Through the back window, you see a large bomb crash to the earth, creating a massive mushroom cloud explosion,
- followed by a blinding light. Once the light fades away, you see Dr. Caleb is now standing in the burnt ruins of the
- living room, with the family replaced by skeletons.] Uh-oh! It looks like the commies dropped the big one, and the
- Johnsons weren't quite as safe as they thought. Now, what can we learn from the Johnson family's mistake?}
+{230}{}{[Attraverso la finestra sul retro, vedi una grande bomba schiantarsi al suolo, creando un'enorme esplosione a fungo,
+ seguita da una luce accecante. Quando la luce svanisce, il Dr. Caleb si trova tra le rovine bruciate del soggiorno,
+ con la famiglia ridotta a scheletri.] Uh-oh! Sembra che i comunisti abbiano sganciato il "botto grosso", e i Johnson
+ non erano poi cosi' al sicuro come credevano. Ora, cosa possiamo imparare dall'errore della famiglia Johnson?}
 {231}{}{[AVANTI]}
-{240}{}{That's right! In the event of a nuclear war, you want your family to be safe within the shelter of a Vault-Tec
- brand vault. Vault-Tec have constructed 122 public vaults around our great nation, so there's bound to be one near you.
- As you can imagine, space is very limited, so reserve your space today, or else *your* family might end up like the
- Johnsons here. [Dr. Caleb pats the head of the skeletal dog. The skull detaches from the body and hits the floor,
- shattering. A Mr. Handy robot hovers over and sweeps up the skull fragments.]}
+{240}{}{Esatto! In caso di guerra nucleare, vorrai che la tua famiglia sia al sicuro all'interno di un Vault marchiato Vault-Tec.
+ Vault-Tec ha costruito 122 vault pubblici in tutta la nostra grande nazione, quindi ce ne sara' sicuramente uno vicino a te.
+ Come puoi immaginare, lo spazio e' molto limitato, quindi prenota il tuo posto oggi stesso, altrimenti *la tua* famiglia potrebbe finire come
+ i Johnson qui. [Il Dr. Caleb accarezza la testa del cane scheletrico. Il cranio si stacca dal corpo e cade a terra,
+ frantumandosi. Un robot Mr. Handy arriva fluttuando e spazza via i frammenti.]}
 {241}{}{[AVANTI]}
-{250}{}{It looks like Mr. Handy's going to have his work cut out for him if he plans to clean up *this* mess. [Dr. Caleb
- laughs as the image fades away and is replaced by text.] Thank you for watching. This educational video was brought to
- you by the fine folks at Vault-Tec. Vault-Tec, America's Final Word in Homes.}
+{250}{}{Sembra che Mr. Handy avra' parecchio lavoro da fare se intende ripulire *questo* disastro. [Il Dr. Caleb
+ ride mentre l'immagine svanisce e viene sostituita da del testo.] Grazie per la visione. Questo video educativo e' stato offerto
+ dai gentili collaboratori della Vault-Tec. Vault-Tec, l'ultima parola americana in fatto di abitazioni.}
 {251}{}{[Logoff.]}

@@ -1,7 +1,7 @@
-{100}{}{Electric Chair Computer Station: Select an option.}
-{101}{}{Empower Electric Chair.}
-{102}{}{Disempower Electric Chair.}
-{103}{}{Chair empowered. Please encourage person to move as close to chair as possible from either side. Thank you.}
+{100}{}{Postazione Computer della Sedia Elettrica: Seleziona un'opzione.}
+{101}{}{Attiva la Sedia Elettrica.}
+{102}{}{Disattiva la Sedia Elettrica.}
+{103}{}{Sedia attivata. Per favore, incoraggia la persona ad avvicinarsi il piu' possibile alla sedia da entrambi i lati. Grazie.}
 {104}{}{Chair disempowered.}
 {105}{}{Esci.}
 {106}{}{You see a computer whirring to itself.}

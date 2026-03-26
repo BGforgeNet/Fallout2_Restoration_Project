@@ -14,7 +14,7 @@
 {142}{}{Uhm... te lo sarai sicuramente scordato.}
 {143}{}{E' solo il mio dopobarba. "Eau de Fogn"... ti piace?}
 {144}{}{Ho ucciso uno dei tuoi schiavi e gliel'ho strappato mentre il suo corpo era ancora caldo.}
-{145}{}{I got it from a village near Vault City. The people there said your followers left these with them.}
+{145}{}{L'ho preso da un villaggio vicino a Vault City. La gente del posto ha detto che i tuoi seguaci hanno lasciato queste cose con loro.}
 {150}{}{Sei pronto per diventare uno di noi?}
 {151}{}{Io sono nato pronto. Dove devo firmare?}
 {152}{}{A diventare un ratto gigante?}
@@ -28,13 +28,13 @@
 {180}{}{Non m'interessa dove tu l'abbia preso. La vera domanda e' se hai intenzione di unirti a noi e indossarlo con sincerita'. }
 {181}{}{Unirmi a voi? Cosa vuoi dire?}
 {182}{}{Preferirei pulire la tua gabbietta piuttosto che unirmi a voi.}
-{183}{}{That depends. Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
-{184}{}{Why of course I am. All part of my grand scheme to take over the world. I wouldn't expect your deficient human brain to understand. But alas, what concern is it of yours?}
-{185}{}{I just want your molerats to stop attacking Vault City's patrols.}
-{186}{}{Do you? Interesting... Alright, I propose a deal, human. I shall comply with your request, *if* you complete a certain task for me.}
+{183}{}{Dipende. Le pattuglie di Vault City continuano a essere attaccate dai talpe-ratto. Suppongo che tu sia dietro a questo?}
+{184}{}{Ma certo che si'. Tutto parte del mio grande piano per conquistare il mondo. Non mi aspetterei che il tuo cervello umano deficiente capisca. Ma ahime', che cosa te ne importa?}
+{185}{}{Voglio solo che i tuoi talpe-ratto smettano di attaccare le pattuglie di Vault City.}
+{186}{}{Davvero? Interessante... Va bene, propongo un accordo, umano. Accettero' la tua richiesta, *se* completi un certo compito per me.}
 {187}{}{Cosa vuoi che faccia?}
-{188}{}{Look, we had a deal -- I repair the reactor, and you call off your creatures. I did my part of the bargain, now it's your turn.}
-{189}{}{The reactor is repaired, yes. But is it optimized? No, I'm afraid not. I said I'd call off my molerats when you *complete* the task. Getting it half-done isn't good enough.}
+{188}{}{Senti, avevamo un accordo -- io riparo il reattore, e tu ritiri le tue creature. Ho fatto la mia parte del patto, ora tocca a te.}
+{189}{}{Il reattore e' riparato, si'. Ma e' ottimizzato? No, temo di no. Ho detto che avrei ritirato i miei talpe-ratto quando *completi* il compito. Farlo a meta' non basta.}
 {190}{}{Beh, come parte del mio piano per la conquista del mondo, ho intenzione di ricompensare i miei seguaci ghoul trovando un modo per restituire loro l'umanita' perduta.}
 {191}{}{Come intendi farlo?}
 {200}{}{Quando avro' unito Gecko e Vault City sotto il mio dominio, sfruttero' i laboratori medici di Vault City per scoprire un modo per annullare gli effetti delle radiazioni che hanno trasformato le persone in ghoul. Allora saranno rinnovati, rinati nuovamente come umani.}
@@ -171,21 +171,21 @@
 {659}{}{Perche' non mi parli di questo ultimo sforzo? Potrei anche decidere di aiutarti.}
 {670}{}{Il reattore, sempre il reattore (sigh). Torna quando avrai ottenuto qualche risultato con il reattore.}
 {671}{}{Torna piu' tardi. Sto comunicando con un potere superiore, o qualcosa del genere (sheesh).}
-{672}{}{Look, if you don't call off the attacks, the people in the village could end up enslaved by Vault City.}
+{672}{}{Senti, se non ritiri gli attacchi, la gente del villaggio potrebbe finire schiavizzata da Vault City.}
 {700}{}{Non ho nient'altro da dirti.}
-{701}{}{Alright you ugly son-of-a-bitch, now I've got a new deal for you: Either you call off your rodents, or I swear to you I'll blow the damn reactor!}
-{702}{}{All right, all right... Consider it done. Just, don't touch the reactor. (mumbles) Damn psychotic humans...}
+{701}{}{Va bene brutto figlio di puttana, ora ho un nuovo accordo per te: o ritiri i tuoi roditori, o ti giuro che faccio saltare il dannato reattore!}
+{702}{}{Va bene, va bene... Considera fatto. Solo, non toccare il reattore. (borbotta) Maledetti umani psicotici...}
 {703}{}{Now that we're in agreement, what were you saying about the optimization?}
 {704}{}{It's settled then. Goodbye.}
-{705}{}{You came to an agreement about the molerats with The Brain.}
-{706}{}{Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
-{707}{}{You ask for my assistance, yet you leave a task half-finished. (to himself) Typical human. (to you) Optimize the reactor, then, and only then, shall I assist you.}
+{705}{}{Hai raggiunto un accordo sui talpe-ratto con Il Cervello.}
+{706}{}{Le pattuglie di Vault City continuano a essere attaccate dai talpe-ratto. Suppongo che tu sia dietro a questo?}
+{707}{}{Chiedi il mio aiuto, eppure lasci un compito a meta'. (tra se') Tipico umano. (a te) Ottimizza il reattore, allora, e solo allora, ti assistero'.}
 {708}{}{That depends. What is it?}
-{709}{}{Listen here, you radioactive rat. You're really starting to piss me off. You said your "kin" had kicked the bucket... Well, I want you to know -- it was me, who finished him off. And now I think I'll finish the job of rendering your kind extinct.}
-{710}{}{Listen here, you radioactive rat. You're really starting to piss me off. I think it's time I put a stop to this madness.}
+{709}{}{Ascoltami bene, ratto radioattivo. Stai davvero iniziando a farmi incazzare. Hai detto che il tuo "simile" aveva tirato le cuoia... Be', voglio che tu sappia -- sono stato io a finirlo. E ora penso che finiro' il lavoro di rendere la tua specie estinta.}
+{710}{}{Ascoltami bene, ratto radioattivo. Stai davvero iniziando a farmi incazzare. Penso che sia ora che io metta fine a questa follia.}
 {711}{}{I need to think this over.}
-{712}{}{Most interesting... and here I thought you were concerned for the well-being of Vault City. Anyway, the safety of that village is integral to my plan. Therefore, I shall grant your request, human.}
-{713}{}{It seems to me, that because you have fixed and optimized the reactor, you deserve my help. What is it that you want?}
+{712}{}{Molto interessante... e qui pensavo che fossi preoccupato per il benessere di Vault City. Comunque, la sicurezza di quel villaggio e' parte integrante del mio piano. Pertanto, accettero' la tua richiesta, umano.}
+{713}{}{Mi sembra che, poiche' hai riparato e ottimizzato il reattore, ti meriti il mio aiuto. Cosa vuoi?}
 {714}{}{Thank you! What were you saying about the optimization?}
 {715}{}{Thank you! Bye.}
 {716}{}{Sembra che Gordon ti abbia gia' consegnato questo rapporto economico di cui parlo. Portalo subito a Vault City.}
@@ -193,5 +193,5 @@
 {718}{}{Umm... Si', forse piu' tardi.}
 {719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
 {720}{}{Very well, I shall help you.}
-{721}{}{No, screw you rat brain! I've had enough of this. Time to die!}
+{721}{}{No, vaffanculo cervello di ratto! Ne ho abbastanza. E' ora di morire!}
 {4211}{}{Uh, credo che faro' meglio ad andare da Gordon a prendere quel disco. A dopo.}

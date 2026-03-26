@@ -3,38 +3,37 @@
 {200}{}{[You climb into the aircraft and access the pilot terminal.] Welcome to PoseidoNet. This terminal is limited to transmission between Enclave Vertibird squad and docking rig. Command?}
 {201}{}{Status.}
 {202}{}{Esci.}
-{203}{}{This aircraft has only enough fuel for a complete round trip flight from the Navarro outpost, to the docking rig, and back again.
- All procedures are fully automated and thus no intervention by crew members is needed. Current fuel status is: Full.}
-{204}{}{Fly to Oil Rig.}
+{203}{}{Questo velivolo ha carburante sufficiente solo per un viaggio completo dal avamposto di Navarro alla piattaforma di attracco e ritorno. 
+Tutte le procedure sono completamente automatizzate e non e' richiesto intervento dell'equipaggio. Stato carburante attuale: Pieno.}
+{204}{}{Vola verso la Piattaforma Petrolifera.}
 {205}{}{Esci.}
-{206}{}{Error. Yellow Reactor Keycard not inserted. All pilots are issued this card upon clearance for takeoff.
- Automated flight cannot occur without the presence of this clearance card.}
+{206}{}{Errore. La scheda gialla del reattore non e' inserita. Tutti i piloti ricevono questa scheda al momento dell'autorizzazione al decollo. 
+Il volo automatico non puo' avvenire senza la presenza di questa scheda.}
 {207}{}{Insert card.}
 {208}{}{Shit. Looks like I will have to find this card.}
-{209}{}{Keycard accepted. Aircraft is now activated.}
+{209}{}{Scheda accettata. Il velivolo e' ora attivato.}
 {210}{}{Run pre-flight diagnostics.}
 {211}{}{Esci.}
-{212}{}{Beginning system diagnostics...35% complete...75% complete...100% complete. All systems appear operational. Checking for response from docking rig...}
+{212}{}{Avvio diagnostica di sistema... 35% completato... 75% completato... 100% completato. Tutti i sistemi sembrano operativi. Controllo risposta dalla piattaforma di attracco...}
 {213}{}{[AVANTI]}
-{214}{}{No signal returned from docking rig. Reason: Satellites not aligned for automated docking with Oil Rig. Please make sure docking rig is aware of the presence of incoming aircrafts.}
-{215}{}{Hmm... Looks like I will have to find a way to align the satellites.}
+{214}{}{Nessun segnale ricevuto dalla piattaforma di attracco. Motivo: satelliti non allineati per l'attracco automatico con la Piattaforma Petrolifera. Assicurarsi che la piattaforma sia consapevole dell'arrivo dei velivoli.}
+{215}{}{Hmm... Sembra che dovro' trovare un modo per allineare i satelliti.}
 {216}{}{Urg?}
-{220}{}{Aircraft currently activated. Command?}
+{220}{}{Velivolo attualmente attivato. Comando?}
 {221}{}{Run pre-flight diagnostics.}
 {222}{}{Esci.}
-{230}{}{Test signal received. Retrieving docking coordinates... complete. Aircraft ready for takeoff.}
+{230}{}{Segnale di test ricevuto. Recupero coordinate di attracco... completato. Velivolo pronto al decollo.}
 {231}{}{Vai.}
 {232}{}{Esci.}
-{240}{}{Aircraft is locked in on target. Flight time is approximately 6 hours. Enjoy your flight.}
-{241}{}{This is it -- the moment of truth. The tribe is in trouble and it's all up to me. My feet are sore, my entire body
- aches, and I don't remember the last time I ate a decent meal. These are the moments we live for. There's no turning back.
- It's time to show the world what }
-{242}{}{ is made of. Bring it on, Enclave!}
-{243}{}{Hehe... Fly birdie, fly! }
+{240}{}{Il velivolo e' agganciato al bersaglio. Tempo di volo stimato: circa 6 ore. Buon viaggio.}
+{241}{}{Eccoci -- il momento della verita'. La tribu' e' nei guai e dipende tutto da me. I piedi mi fanno male, tutto il corpo duole, e non ricordo l'ultima volta che ho mangiato un pasto decente.
+Sono questi i momenti per cui viviamo. Non si torna indietro. E' il momento di mostrare al mondo di cosa }
+{242}{}{ siamo fatti. Avanti, Enclave!}
+{243}{}{Hehe... Vola uccellino, vola!}
 {244}{}{ me lasciare te, ora.}
 {300}{}{[You climb into the aircraft and access the pilot terminal.] Welcome to PoseidoNet. This terminal is limited to transmission between Enclave Vertibird squad and docking rig. Command?}
 {301}{}{Status.}
 {302}{}{Esci.}
-{303}{}{This aircraft has only enough fuel for a complete round trip flight from the Navarro outpost, to the docking rig, and back again.
- All procedures are fully automated and thus no intervention by crew members is needed. Current fuel status is: Empty.}
+{303}{}{Questo velivolo ha carburante sufficiente solo per un viaggio completo dall'avamposto di Navarro alla piattaforma di attracco e ritorno. 
+Tutte le procedure sono completamente automatizzate e non e' richiesto intervento dell'equipaggio. Stato carburante attuale: Vuoto.}
 {304}{}{Esci.}

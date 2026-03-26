@@ -262,5 +262,5 @@
 {361}{}{Ottimo. Ecco a te... come ti dicevo prima, e' valido solo per il giorno - al tramonto ti sara' chiesto di lasciare la citta'. Inoltre, i Cittadini si riservano il diritto di revocare i privilegi del Pass Giornaliero in qualsiasi momento, per cui comportati bene.}
 {362}{}{Ho capito. Posso farle qualche altra domanda?}
 {363}{}{Grazie.}
-{1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
-{1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}
+{1255}{}{Ho trovato il campo dei predoni e ho convinto la loro guida a non aiutarli. Senza di lui non riusciranno a trovare la strada.}
+{1314}{}{Non dovrai piu' preoccuparti di quei predoni. Ho convinto la loro guida ad andarsene e senza il suo aiuto non troveranno mai la strada attraverso le montagne.}

@@ -69,25 +69,22 @@
 {168}{}{Adesso e' paranoico. Crede che Tandi sia ancora sulle sue tracce. E' ossessionato dalla vendetta, e vorrebbe vedere Tandi morta. E' tormentato dal rimorso, dato che lui preferi' nascondersi e sopravvivere, invece di morire con la sua banda... e la lista potrebbe continuare.}
 {200}{}{Darion is dead.}
 {201}{}{Dar-e-on dead.}
-{202}{}{He is!? Oh, this is wonderful news.}
+{202}{}{Lo e'!? Oh, questa e' una splendida notizia.}
 {203}{}{What are you going to do now?}
 {204}{}{What yoo do?}
-{205}{}{Well, I see no reason to return to my old life. The town above us doesn't have any medical assistance, so I think
- I will go up and help them. Thank you again for freeing me.}
+{205}{}{Beh, non vedo motivo per tornare alla mia vecchia vita. La citta' sopra di noi non ha assistenza medica, quindi penso che andro' ad aiutarli. Grazie ancora per avermi liberato.}
 {206}{}{Of course. See you later.}
 {207}{}{Ciao!}
-{210}{}{I still need to pack a few things. I'll see you on the outside.}
-{220}{}{Hey there, good to see you again! Everyone here really appreciates what you have done. I personally am glad
- to be out of there. Working for Darion was a nightmare.}
+{210}{}{Devo ancora preparare alcune cose. Ci vediamo fuori.}
+{220}{}{Ehi, che bello rivederti! Qui tutti apprezzano davvero quello che hai fatto. Personalmente sono felice di essere uscito da li'. Lavorare per Darion era un incubo.}
 {221}{}{Glad I could help. So, tell me a little bit more about yourself.}
 {222}{}{Alright, see you around.}
-{230}{}{Well you see, I'm originally from the New California Republic, but I realized I had a gift for medical practices.
- So I trained as much as I could under the NCR medical staff, and once I had learned all I could, I decided to try and
- learn more by making my way to Vault City. I was lucky enough to meet Dr. Troy while he was tending an injured citizen
- outside the vault, and long story short, he agreed to finalize my training in Vault City. I had just finished my training
- and was heading out when Darion captured me.}
+{230}{}{Vedi, io vengo originariamente dalla Nuova Repubblica della California, ma ho capito di avere un talento per la medicina. 
+Cosi' mi sono formato quanto piu' possibile con il personale medico della NCR, e una volta imparato tutto cio' che potevo, ho deciso di cercare di imparare ancora di piu' andando a Vault City. 
+Sono stato abbastanza fortunato da incontrare il dottor Troy mentre curava un cittadino ferito fuori dal Vault, e per farla breve ha accettato di completare il mio addestramento a Vault City. 
+Avevo appena finito l'addestramento e stavo per partire quando Darion mi ha catturato.}
 {231}{}{That's terrible. Well, I hope everything works out for you now.}
-{240}{}{I hope so too. I think I can put my medical skills to good use here.}
+{240}{}{Lo spero anch'io. Credo di poter mettere a frutto le mie abilita' mediche qui.}
 {241}{}{Addio.}
 {250}{}{Thanks again for everything.}
 {251}{}{It feels good to be helping civilized people again.}

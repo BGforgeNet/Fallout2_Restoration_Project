@@ -513,20 +513,20 @@
 {49100}{}{Kaga}
 {49200}{}{Kaga}
 {49300}{}{Kaga}
-{49400}{}{Hologram 00000}
+{49400}{}{Ologramma 00000}
 {49401}{}{The hologram for the director of science.}
-{49500}{}{Hologram 10001}
+{49500}{}{Ologramma 10001}
 {49501}{}{The hologram for the director of security.}
-{49600}{}{Hologram 12001}
+{49600}{}{Ologramma 12001}
 {49601}{}{The hologram for the director of operations.}
-{49700}{}{Hologram 10031}
-{49701}{}{Hologram for the director of Ground Maintenance.}
-{49800}{}{Hologram 40011}
-{49801}{}{Hologram for the Director of Public Relations.}
+{49700}{}{Ologramma 10031}
+{49701}{}{Ologramma per il direttore della Manutenzione del Suolo.}
+{49800}{}{Ologramma 40011}
+{49801}{}{Ologramma per il Direttore delle Relazioni Pubbliche.}
 {49900}{}{Mr. Handy Robot}
-{49901}{}{A seriously depressed version of the Mr. Handy Robot.}
+{49901}{}{Una versione gravemente depressa del robot Mr. Handy.}
 {50000}{}{The Doctor}
-{50001}{}{The leading, and only, Doctor left in the EPA.}
+{50001}{}{Il principale, e unico, dottore rimasto nell'EPA.}
 {50100}{}{EPA Spore Plant}
 {50101}{}{A hideously mutated spore plant.}
 {50200}{}{Kitsune}
@@ -536,8 +536,8 @@
 {50501}{}{A warrior for the doctor.}
 {50600}{}{Fruit fly}
 {50601}{}{A mutated fruit fly.}
-{50700}{}{A hologram}
-{50701}{}{A hologram.}
+{50700}{}{Un ologramma}
+{50701}{}{Un ologramma.}
 {50800}{}{Kitsune - level 1}
 {50900}{}{Kitsune - level 2}
 {51000}{}{Kitsune - level 3}
@@ -551,8 +551,8 @@
 {51800}{}{Cat Jules - level 1}
 {51900}{}{Cat Jules - level 2}
 {52000}{}{Cat Jules - level 3}
-{52100}{}{Cat Jules - level 4}
-{52200}{}{Cat Jules - level 5}
+{52100}{}{Cat Jules - livello 4}
+{52200}{}{Cat Jules - livello 5}
 {52300}{}{MIBoba Fe88}
 {52400}{}{Hivan Zolo}
 {52500}{}{Contie-bacca}

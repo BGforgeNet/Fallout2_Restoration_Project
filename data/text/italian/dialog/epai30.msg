@@ -1,2 +1,2 @@
-{100}{}{You clean the goo out of the fan and the blades start turning. The air around you feels a little better.}
-{101}{}{You clean the goo out of the fan and the blades start turning. It is now safe to be in the area -- at least at this end of the room.}
+{100}{}{Pulisci la melma dalla ventola e le pale ricominciano a girare. L'aria attorno a te sembra un po' migliore.}
+{101}{}{Pulisci la melma dalla ventola e le pale ricominciano a girare. Ora e' sicuro stare nella zona -- almeno da questo lato della stanza.}

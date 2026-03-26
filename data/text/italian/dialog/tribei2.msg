@@ -1,10 +1,10 @@
 {100}{}{You see a crate.}
 {101}{}{A crate that appears to be full of stimpaks.}
-{102}{}{You see a crate full of useless fake stimpaks.}
-{200}{}{[After giving the crate a brief look-over, you determined that there's about fifty stimpaks in it, just like the merchant said.]}
+{102}{}{Vedi una cassa piena di inutili Stimpak falsi.}
+{200}{}{[Dopo una rapida occhiata alla cassa, hai stabilito che ci sono circa cinquanta Stimpak, proprio come aveva detto il mercante.]}
 {201}{}{[Examine them further.]}
 {202}{}{[DONE.]}
-{203}{}{After examining them closely, you detect nothing unusual about the stimpaks.}
+{203}{}{Dopo averli esaminati attentamente, non noti nulla di insolito negli Stimpak.}
 {204}{}{[DONE.]}
-{205}{}{Upon closer inspection, these stimpaks look a bit odd to you. You take one and squirt a little of its fluid onto your palm. Upon sniffing the crimson liquid, you realize what it truly is: brahmin blood.}
+{205}{}{A un'ispezione piu' attenta, questi Stimpak ti sembrano un po' strani. Ne prendi uno e spruzzi un po' del suo liquido sul palmo. Annusando il liquido cremisi, capisci cos'e' davvero: sangue di brahmin.}
 {206}{}{[DONE.]}

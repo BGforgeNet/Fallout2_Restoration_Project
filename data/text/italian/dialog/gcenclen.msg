@@ -1,1 +1,1 @@
-{100}{}{You have entered a large plain just outside of Gecko. There are people here wearing some high-tech armor.}
+{100}{}{Hai attraversato una grande pianura appena fuori Gecko. Ci sono persone qui che indossano un'armatura hi-tech.}

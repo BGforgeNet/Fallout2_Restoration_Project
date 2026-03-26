@@ -1,16 +1,16 @@
 {100}{}{You see MIBoba Fe88.}
 {101}{}{You see a tough, ruthless bounty hunter.}
-{110}{}{You see a tough, ruthless bounty hunter. He doesn't look like he talks much. He helped with the new scripts and ideas. And with killing people.}
+{110}{}{Vedi un duro e spietato cacciatore di taglie. Non sembra che parli molto. Ha aiutato con i nuovi script e le idee. E con l'uccidere persone.}
 {200}{}{You see Hivan Zolo.}
-{201}{}{A scruffy lookin', but handsome rogue.}
-{210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything.
- 'Cause no mystical energy field controls *my* destiny. It's all a lot of simple tricks and nonsense. Hokey religions and ancient weapons are no match for a good blaster at your side. I can tell when a guy is handy
- with a gun, so take this. Trust me: it'll come in handy when you've got a price on your head. (He hands you a blaster.)}
+{201}{}{Un farabutto dall'aspetto trasandato, ma affascinante.}
+{210}{}{Ragazzo, ho volato da un lato all'altro di questa galassia, e ho visto un sacco di roba strana, ma non ho mai visto *nulla* che mi faccia credere che ci sia una Forza onnipotente che controlla tutto.
+ Perche' nessun campo di energia mistico controlla *il mio* destino. E' tutta una questione di trucchi semplici e sciocchezze. Religioni bizzarre e armi antiche non valgono un buon blaster al tuo fianco. Capisco quando uno e' bravo
+ con una pistola, quindi prendi questo. Fidati: tornera' utile quando hai una taglia sulla testa. (Ti porge un blaster.)}
 {211}{}{My real name is Ivan Zaharath.}
-{212}{}{I translated the RP into Polski for the benefit of the great and powerful Republic of Poland ... I mean Rebel Alliance.}
-{213}{}{Laugh it up, fuzzball.}
-{214}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid.}
-{215}{}{Who're you callin' 'scruffy lookin'!?}
+{212}{}{Ho tradotto l'RP in Polski a beneficio della grande e potente Repubblica di Polonia... voglio dire Alleanza Ribelle.}
+{213}{}{Ridi pure, pallone di pelo.}
+{214}{}{Religioni bizzarre e armi antiche non valgono un buon blaster al tuo fianco, ragazzo.}
+{215}{}{Chi stai chiamando 'dall'aspetto trasandato'!?}
 {300}{}{You see Contie-bacca.}
 {301}{}{He looks like a walking carpet.}
 {310}{}{Roow rooo arrrrr rooow.}
@@ -18,256 +18,256 @@
 {312}{}{Nowrrrrragh.}
 {313}{}{Yawrrrk!}
 {314}{}{Roow rooo Nowrrrrragh!}
-{315}{}{He says he's Continuum, and he made new & unique graphics.}
-{316}{}{He says he made them using 3D modeling. He's quite clever you know. For a human.}
-{317}{}{He says he's not speaking Czech-speak, though it does sound a bit like baby-talk.}
-{318}{}{He says it's not a crossbow, it's a blaster. And no you can't have it.}
+{315}{}{Dice di chiamarsi Continuum, e ha creato grafica nuova e unica.}
+{316}{}{Dice di averli creati usando la modellazione 3D. E' piuttosto intelligente, sai. Per essere un umano.}
+{317}{}{Dice che non sta parlando in ceco, anche se suona un po' come il linguaggio dei bambini.}
+{318}{}{Dice che non e' una balestra, e' un blaster. E no, non puoi averlo.}
 {319}{}{He says you should thank him for bringing the sub back into the game.}
 {400}{}{You see Darek Vader.}
-{401}{}{This guy looks hard as hell and appears to be more machine than man.}
-{410}{}{I'm Darek. I helped answer a million noob questions for Obi-Wan-Killap.}
-{411}{}{Join me! Together we can rule the galaxy!}
-{412}{}{Did you know that the great Obi-Wan-Killap asked ME for help?}
-{413}{}{Don't tell Obi-Wan-Killap, but I think he might be losing his mind.}
-{414}{}{I helped squash several nasty bugs. You can thank me later.}
+{401}{}{Questo tipo sembra duro come la roccia e appare piu' macchina che uomo.}
+{410}{}{Sono Darek. Ho aiutato a rispondere a un milione di domande da novellino per Obi-Wan-Killap.}
+{411}{}{Unisciti a me! Insieme possiamo governare la galassia!}
+{412}{}{Sapevi che il grande Obi-Wan-Killap ha chiesto aiuto a ME?}
+{413}{}{Non dirlo a Obi-Wan-Killap, ma penso che stia perdendo il senno.}
+{414}{}{Ho aiutato a schiacciare diversi bug fastidiosi. Puoi ringraziarmi dopo.}
 {500}{}{You see Jotisz the Hutt.}
-{501}{}{This guy is big, fat and green.}
-{510}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing.
- Those were created by Yosan12 and me. I know! And with these stubby hands!}
-{511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy... hey where
- is Sulik? You should go get him and see how he looks. His threads were created by Yosan12 and me. I know! And with these stubby hands!}
-{512}{}{*whistles* I'm a big fat green slug...}
+{501}{}{Questo tipo e' grande, grasso e verde.}
+{510}{}{Sono Jotisz lo Hutt. Potrei sembrare una grossa lumaca verde e grassa, ma ho effettivamente aiutato a creare quei bei nuovi abiti corazzati che indossa il tuo amico Sulik.
+ Sono stati creati da Yosan12 e da me. Lo so! E con queste manine tozze!}
+{511}{}{Sono Jotisz lo Hutt. Potrei sembrare una grossa lumaca verde e grassa, ma ho effettivamente aiutato a creare quei bei nuovi abiti corazzati del tuo amico... ehi dov'e'
+ Sulik? Dovresti andare a prenderlo e vedere come appare. I suoi abiti sono stati creati da Yosan12 e da me. Lo so! E con queste manine tozze!}
+{512}{}{*fischietta* Sono una grossa lumaca verde e grassa...}
 {513}{}{In case you didn't notice, I'm suspiciously easy to strangle.}
 {514}{}{Now, where did I put Leia...?}
 {600}{}{You see R2Qwerty.}
-{601}{}{A feisty little robot. He flashes and beeps.}
+{601}{}{Un robotino vivace. Lampeggia e bippa.}
 {610}{}{Beep beep!}
-{611}{}{Rrrrrr beep Rrrrwow!}
-{612}{}{*flashes and jiggles excitedly*}
-{613}{}{Crossbows! Tactics! Crossbows!}
+{611}{}{Rrrrrr bip Rrrrwow!}
+{612}{}{*lampeggia e si agita eccitato*}
+{613}{}{Balestre! Tattiche! Balestre!}
 {700}{}{You see Chris3ParksO.}
-{701}{}{A shiny gold humanoid robot. He looks surprised.}
-{710}{}{Hi, I'm Chris3ParksO, human-cyborg relations. I am well versed in over 3 million programming languages.}
-{711}{}{I helped lay the groundwork for the Umbra Tribe and the EPA.}
-{712}{}{This is R2QWERTY: my faithful sidekick. He created new critters and graphics.}
+{701}{}{Un robot umanoide dorato e lucente. Sembra sorpreso.}
+{710}{}{Salve, sono Chris3ParksO, relazioni umano-cyborg. Sono esperto in oltre 3 milioni di linguaggi di programmazione.}
+{711}{}{Ho aiutato a gettare le basi per la Tribu' Umbra e l'EPA.}
+{712}{}{Questo e' R2QWERTY: il mio fedele assistente. Ha creato nuove creature e grafica.}
 {800}{}{You see Yosan12.}
-{801}{}{A little green guy. He looks OLD.}
-{810}{}{Yosan12 am I. Created the NPC armor mod I did. Lift Xwing from swamp did I too. Talk in strange very also way do I.
- Difficult to understand, hmmm? Hagh Hah ha! Also, created the new Sniper, Wakizashi and lightsaber animations I did. }
-{811}{}{Remember: anger, fear, hatred: of the dark side are they.}
-{812}{}{When gone am I, a little fuzzy glowing ghost will I become.}
-{813}{}{Once, a puppet with wisdom and character was I. Now, a hollow, CGI character for the kids I have become.}
-{814}{}{Stupid JarJar Binks is.}
+{801}{}{Un ometto verde. Sembra VECCHIO.}
+{810}{}{Yosan12 sono io. Creato la mod dell'armatura degli NPC ho. Sollevato l'Xwing dalla palude ho fatto anche io. Parlare in modo molto strano anche faccio io.
+ Difficile da capire, hmmm? Hagh Hah ha! Inoltre, create le nuove animazioni di Cecchino, Wakizashi e spada laser ho. }
+{811}{}{Ricorda: rabbia, paura, odio: del lato oscuro sono essi.}
+{812}{}{Quando andato sono io, un piccolo fantasma luminoso e sfocato diventero'.}
+{813}{}{Un tempo, un burattino con saggezza e carattere ero io. Ora, un personaggio CGI vuoto per i bambini sono diventato.}
+{814}{}{Stupido JarJar Binks e'.}
 {900}{}{You see Obi-Wan-Killap.}
-{901}{}{He seems like a kindly old man with something slightly bear-like about him.}
+{901}{}{Sembra un vecchio bonario con qualcosa di vagamente orso in lui.}
 {910}{}{Greetings }
-{911}{}{. I see you've been doing quite well for yourself. I'm Obi-Wan-Killap: I make Fallout work like it should have from the very beginning.}
-{912}{}{Wow. Well, thank you for that, Mr. Killap. How did you do it?}
+{911}{}{. Vedo che te la sei cavata abbastanza bene. Sono Obi-Wan-Killap: faccio funzionare Fallout come avrebbe dovuto fin dall'inizio.}
+{912}{}{Wow. Be', grazie per questo, Sig. Killap. Come l'ha fatto?}
 {913}{}{What the Hell is Fallout?}
-{914}{}{Ok. And who, pray tell, are these other people?}
-{920}{}{I am a Programming Master, skilled in the way of The Source. It is an energy field created by all digital things. It surrounds us and penetrates us.
- It binds the galaxy together. You, me - the tree - the rock. Pixilated beings are we....not this crude matter *pokes you*.
- I have learned to use this power through years of staring at a computer screen.}
-{921}{}{Wow. Our shaman always said there was more to this world than what I can see, hear, touch, taste and feel. Can you teach me to use the power of The Source?}
-{922}{}{I think I've heard enough religious mumbo-jumbo to keep me stocked for another nuclear winter. Frankly, I prefer a plasma pistol at my side.}
+{914}{}{Ok. E chi sono, di grazia, queste altre persone?}
+{920}{}{Sono un Maestro della Programmazione, esperto nella via del Sorgente. E' un campo energetico creato da tutte le cose digitali. Ci circonda e ci penetra.
+ Tiene insieme la galassia. Tu, io - l'albero - la roccia. Esseri pixelati siamo....non questa rozza materia *ti punge*.
+ Ho imparato a usare questo potere attraverso anni di fissare uno schermo di computer.}
+{921}{}{Wow. Il nostro sciamano diceva sempre che c'era piu' in questo mondo di quello che posso vedere, sentire, toccare, gustare e percepire. Puoi insegnarmi a usare il potere del Sorgente?}
+{922}{}{Penso di aver sentito abbastanza gergo religioso da tenermi rifornito per un altro inverno nucleare. Francamente, preferisco una pistola al plasma al mio fianco.}
 {923}{}{Oh great, another kookie religious nutbag. I'm outta here.}
-{930}{}{Fallout is the world you are in. I created it, or at least, made it work like it was supposed to. You see, not
- long ago, this world was in chaos. Travelers that came here were often killed by the huge number of bugs that roamed
- the wasteland corrupting saved games indiscriminately. The gods of this world had been careless. But then I came, and,
- using the power of The Source, my friends and I cleaned up the wasteland. You could say I am the savior. I am seen by
- many as a hero: The Bear Dude.}
-{931}{}{I see. Well, actually, I was under the impression I was the hero of this story. I run around looting shit and killing people - you know - heroically. Oh, and I talk to them sometimes, but that part can get tiresome.
- I just click through it to get to the fun bit.}
-{932}{}{Great work, Mr. Killap. I really appreciate all your time and hard work spent cleaning up the wasteland. If what you say is true, then you should know that I, too, am a hero. In fact, I've squashed quite a few bugs myself.}
-{935}{}{And we are grateful that you have destroyed the Enclave. You are the true hero here.}
+{930}{}{Fallout e' il mondo in cui ti trovi. L'ho creato io, o almeno, l'ho fatto funzionare come avrebbe dovuto. Vedi, non
+ molto tempo fa, questo mondo era nel caos. I viaggiatori che venivano qui venivano spesso uccisi dall'enorme numero di bug che vagavano
+ per le Lande corrompendo i salvataggi indiscriminatamente. Gli dei di questo mondo erano stati negligenti. Ma poi sono arrivato io, e,
+ usando il potere del Sorgente, io e i miei amici abbiamo ripulito le Lande. Si potrebbe dire che sono il salvatore. Sono visto da
+ molti come un eroe: L'Uomo Orso.}
+{931}{}{Capisco. Be', in realta', avevo l'impressione di essere l'eroe di questa storia. Giro a saccheggiare roba e ammazzare gente - sai - eroicamente. Oh, e parlo con loro a volte, ma quella parte puo' diventare stancante.
+ Clicco velocemente per arrivare alla parte divertente.}
+{932}{}{Ottimo lavoro, Sig. Killap. Apprezzo davvero tutto il tempo e il duro lavoro che hai speso per ripulire le Lande. Se quello che dici e' vero, allora dovresti sapere che anch'io sono un eroe. In effetti, ho schiacciato parecchi bug anch'io.}
+{935}{}{E siamo grati che tu abbia distrutto l'Enclave. Tu sei il vero eroe qui.}
 {936}{}{Whatever gets you through the day.}
 {937}{}{So, how exactly did you clean up this world?}
 {938}{}{Who, pray tell, are these other people?}
-{940}{}{These are my companions. They helped me improve this world: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz the Hutt,
- R2Qwerty, Chris3ParksO, Yosan12, Empress Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr. Wolna, encinodude,
- Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, and the Masses. They all helped in the great project to restore
- this world from the bug infestation. The only good bug is a dead bug.}
-{941}{}{Hmm. those names somehow sound familiar... Well, I think I'll go talk to them.}
-{950}{}{Indeed I can. You must learn to use your feelings: let go of your conscious mind. Turn off the monitor. Close your eyes, and FEEL The Source flowing through the mouse ... (Follow his instructions.)}
-{951}{}{You lack the experience to start training. Return to me when you've at least learned some basic Programming, young padawan.}
+{940}{}{Questi sono i miei compagni. Mi hanno aiutato a migliorare questo mondo: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz lo Hutt,
+ R2Qwerty, Chris3ParksO, Yosan12, Imperatrice Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Sig. Wolna, encinodude,
+ Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, e le Masse. Hanno tutti aiutato nel grande progetto per ripristinare
+ questo mondo dall'infestazione di bug. L'unico bug buono e' un bug morto.}
+{941}{}{Hmm. Quei nomi suonano in qualche modo familiari... Be', penso che vada a parlare con loro.}
+{950}{}{Certo che posso. Devi imparare a usare i tuoi sentimenti: lascia andare la tua mente cosciente. Spegni il monitor. Chiudi gli occhi, e SENTI il Sorgente scorrere attraverso il mouse... (Segui le sue istruzioni.)}
+{951}{}{Ti manca l'esperienza per iniziare l'addestramento. Torna da me quando avrai imparato almeno la Programmazione di base, giovane padawan.}
 {960}{}{As you wish, young }
-{961}{}{. But before you go on your way, remember this: Many of the truths we cling to depend greatly on our own point of view. Now go, and may The Source be with you.}
-{962}{}{. Your actions on your quest have proved you good, kind and honest. Take this to aid you in your struggle against the Dark Side: it is your ancestor's light saber. This is the weapon of a Java Knight.
- Not as clumsy or random as a blaster; an elegant weapon for a more civilized age. And though you may be tempted to use it to arbitrarily cut people in half for entertainment, you should use it only in service of good.
- Good luck, and may The Source be with you, my friend.}
-{963}{}{What?! My ancestor, The Vault Dweller, had one of these?! I don't remember finding this in Fallout 1! *run off to check*}
-{964}{}{Thank you, Mr. Bear Dude. For everything. May The Source be with you too.}
+{961}{}{. Ma prima di andare per la tua strada, ricorda questo: molte delle verita' a cui ci aggrappiamo dipendono molto dal nostro punto di vista. Ora vai, e che il Sorgente sia con te.}
+{962}{}{. Le tue azioni nella tua missione ti hanno dimostrato buono, gentile e onesto. Prendi questo per aiutarti nella tua lotta contro il Lato Oscuro: e' la spada laser del tuo antenato. Questa e' l'arma di un Cavaliere Java.
+ Non cosi' goffa o casuale come un blaster; un'arma elegante per un'era piu' civilizzata. E anche se potresti essere tentato di usarla per tagliare arbitrariamente le persone a meta' per divertimento, dovresti usarla solo al servizio del bene.
+ Buona fortuna, e che il Sorgente sia con te, amico mio.}
+{963}{}{Cosa?! Il mio antenato, l'Abitante del Vault, ne aveva una?! Non ricordo di averla trovata in Fallout 1! *corre a controllare*}
+{964}{}{Grazie, Sig. Bear Dude. Per tutto. Che il Sorgente sia con te anche.}
 {1000}{}{You see Empress Timeslip.}
 {1001}{}{You see a mean-looking cloaked figure with a stoop.}
-{1010}{}{I'm Empress Timeslip. I'm a Programming Master, skilled in the way of The Source. It was I who allowed Obi-Wan-Killap's spies to steal my
- engine fixes to greatly improve the stability of this world, and correct FOOLISH AND STUPID MISTAKES left by the original ones.}
-{1011}{}{Indeed, my master. Tell me about yourself oh great one.}
-{1012}{}{Wow. You're creepy. And your face looks awful.}
+{1010}{}{Sono l'Imperatrice Timeslip. Sono una Maestra della Programmazione, esperta nella via del Sorgente. Sono stata io a permettere alle spie di Obi-Wan-Killap di rubare le mie
+ correzioni al motore per migliorare notevolmente la stabilita' di questo mondo, e correggere gli STUPIDI ED INSENSATI ERRORI lasciati dagli originali.}
+{1011}{}{Davvero, mio maestro. Parlami di te, oh grande.}
+{1012}{}{Wow. Sei inquietante. E la tua faccia e' orribile.}
 {1013}{}{That's nice. Gotta go.}
-{1020}{}{I can change that which is hardcoded into The Source with the merest thought, and determine the fate of entire universes!
- An entire legion of my best bug fixes await you in the rest of your adventure. I'm master of the Dark side of The Source.}
-{1021}{}{Silence! Years of working in the dark may have distorted my looks, but in this mind are the powers of a God! Using The Source I create weather, mastered entire worlds and tweak that which cannot be tweaked!
- It was I who allowed the Evil Beth to rule the RPG world with my mods. Everything that has transpired has done so according to MY desires.}
-{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
-{1023}{}{Yeah yeah. Jeeze, whatever you say. I think I will leave now.}
-{1024}{}{Uh, ok. that's great. Well, I need to go..erm ...water my plants...}
-{1030}{}{Ignorant fool. Your overconfidence is your weakness, and my faith in your friends is ... er ... mine. *looks confused* Be gone from my sight!}
-{1040}{}{Wait! You will leave IF and WHEN I decide. In case you haven't noticed, you have been exceedingly evil in your quest.
- Your hate has made you powerful and your character has developed according to my desires. Anger, fear, hatred ... of the dark side are they.
- Now you will become my apprentice and fulfill your place AT MY SIDE!}
+{1020}{}{Posso cambiare cio' che e' hardcodificato nel Sorgente con il solo pensiero, e determinare il destino di interi universi!
+ Un'intera legione delle mie migliori correzioni di bug ti attende nel resto della tua avventura. Sono la maestra del Lato Oscuro del Sorgente.}
+{1021}{}{Silenzio! Anni di lavoro nel buio potrebbero aver distorto il mio aspetto, ma in questa mente ci sono i poteri di un Dio! Usando il Sorgente creo il meteo, ho dominato interi mondi e modifico cio' che non puo' essere modificato!
+ Sono stata io a permettere alla Malvagia Beth di dominare il mondo degli RPG con le mie mod. Tutto cio' che e' accaduto e' avvenuto secondo I MIEI desideri.}
+{1022}{}{Sorgente? Che tipo di sorgente? Stai dicendo che cucinare e' la chiave per controllare l'universo? Come vuoi, chef.}
+{1023}{}{Si' si'. Accidenti, come vuoi. Penso che me ne vada adesso.}
+{1024}{}{Eh, ok. Fantastico. Be', devo andare... ehm... annaffiare le mie piante...}
+{1030}{}{Sciocco ignorante. La tua eccessiva sicurezza e' la tua debolezza, e la mia fede nei tuoi amici e'... ehm... mia. *sembra confusa* Sparisci dalla mia vista!}
+{1040}{}{Aspetta! Te ne andrai SE e QUANDO lo decidero' io. Nel caso non te ne fossi accorto, sei stato estremamente malvagio nella tua missione.
+ Il tuo odio ti ha reso potente e il tuo personaggio si e' sviluppato secondo i miei desideri. Rabbia, paura, odio... del lato oscuro sono essi.
+ Ora diventerai il mio apprendista e occuperai il tuo posto AL MIO FIANCO!}
 {1041}{}{As you wish, my master. I'm at your bidding.}
 {1042}{}{Not interested. Bye.}
-{1045}{}{Go forth and wreak havoc my child.}
+{1045}{}{Vai e semina il caos, figlio mio.}
 {1046}{}{Begone!}
-{1050}{}{Eeeeeeexcellent. Then take this Java weapon. Use it. Kill indiscriminately. USE YOUR AGRRESSIVE FEELINGS, CHILD! (He hands you a red lightsaber.)}
-{1051}{}{So.... basically carry on as I've been doing. No problem. Bye!}
+{1050}{}{Ecceeeellente. Allora prendi quest'arma Java. Usala. Uccidi indiscriminatamente. USA I TUOI SENTIMENTI AGGRESSIVI, FIGLIO! (Ti porge una spada laser rossa.)}
+{1051}{}{Quindi.... in pratica continuo come ho fatto finora. Nessun problema. Ciao!}
 {1052}{}{I will not fail you, my master.}
 {1053}{}{Kill everything? you mean ... even the children?}
-{1060}{}{ESPECIALLY the children.}
+{1060}{}{SOPRATTUTTO i bambini.}
 {1100}{}{You see Luke Skynet.}
-{1101}{}{A hooded figure who looks quietly confident.}
+{1101}{}{Una figura incappucciata dall'aria tranquillamente sicura di se'.}
 {1110}{}{I'm Luke Skynet: I'm here to rescue you.}
 {1111}{}{Rescue me?}
 {1112}{}{Do I look like a princess? What do you mean 'rescue'?}
-{1113}{}{Right. I think you're the one that needs rescuing, pal... from your own movie career. Bye.}
-{1120}{}{Yes, I'm here to rescue you. I created the basis to what you see at the Abbey, and there you will find salvation. There you will find the light!}
-{1121}{}{I've actually already been there. I 'rescued' a lot stuff from getting lost in all those drawers and containers.}
-{1122}{}{Amen brother. Thank you for aiding in the creation of that place of peace and solace. And just when I needed to rest my radiated feet and seek spiritual rejuvenation.}
-{1123}{}{I remember that place. No qualified shaman though, and no herb-superb. I don't know who's idea of a spiritual center that is, but it's not mine.}
+{1113}{}{Giusto. Penso che tu sia quello che ha bisogno di essere salvato, amico... dalla tua stessa carriera cinematografica. Ciao.}
+{1120}{}{Si', sono qui per salvarti. Ho creato le basi di cio' che vedi all'Abbazia, e li' troverai la salvezza. Li' troverai la luce!}
+{1121}{}{In realta' ci sono gia' stato. Ho 'salvato' un sacco di roba dal perdersi in tutti quei cassetti e contenitori.}
+{1122}{}{Amen fratello. Grazie per aver contribuito alla creazione di quel luogo di pace e conforto. E proprio quando avevo bisogno di riposare i miei piedi irradiati e cercare un rinnovamento spirituale.}
+{1123}{}{Ricordo quel posto. Nessuno sciamano qualificato pero', e niente erbe-superbe. Non so di chi sia l'idea di centro spirituale, ma non e' la mia.}
 {1124}{}{Oh? And where is this place that can rescue me?}
-{1125}{}{Cuck-oo! Bye bye now!}
+{1125}{}{Cu-cu'! Ciao ciao!}
 {1130}{}{You should return there again. It is a safe haven in these harsh Wastes.}
 {1131}{}{I'm on my way, Mr. Skynet. Thanks for everything. Goodbye.}
-{1132}{}{Well, I think YOU should go there Skybrain, and stay there. I'm outta here. Freak.}
-{1135}{}{Here. (He shows you on your Pip-Boy). You should go there now.}
+{1132}{}{Be', penso che DOVRESTI andarci tu, Skybrain, e restare li'. Me ne vado. Strambo.}
+{1135}{}{Ecco. (Te lo mostra sul Pip-Boy). Dovresti andarci adesso.}
 {1138}{}{The Abbey is a place of solitude.}
 {1139}{}{Be careful out there.}
 {1200}{}{You see Mon-Morticia.}
 {1201}{}{A very diplomatic looking lady.}
-{1210}{}{I helped with writing a walkthrough to aid all the noobs on their new adventures in this improved world.}
-{1211}{}{Shit! I'm on the wrong side! I never was quite sure who's side I was supposed to be on.}
-{1212}{}{Does my bum look big in this?}
-{1213}{}{Empress Timeslip has made a critical error and the time for our attack has come. *wink*}
+{1210}{}{Ho aiutato a scrivere una guida per aiutare tutti i novellini nelle loro nuove avventure in questo mondo migliorato.}
+{1211}{}{Cazzo! Sono dalla parte sbagliata! Non ero mai del tutto sicuro da che parte avrei dovuto stare.}
+{1212}{}{Il mio sedere sembra grosso con questo?}
+{1213}{}{L'Imperatrice Timeslip ha commesso un errore critico e il momento del nostro attacco e' arrivato. *strizza l'occhio*}
 {1300}{}{You see Kanhef.}
 {1301}{}{Now HE looks like a great guy.}
-{1310}{}{I'm basically the NMA helpdesk.}
+{1310}{}{Sono fondamentalmente l'helpdesk di NMA.}
 {1311}{}{I'm not with these weirdoes.}
-{1312}{}{Damn. Why is the no. 23 always late?}
-{1313}{}{In case you didn't know, I'm just an all-round useful guy.}
+{1312}{}{Accidenti. Perche' il n. 23 e' sempre in ritardo?}
+{1313}{}{Nel caso non lo sapessi, sono semplicemente un tipo utile a tutto tondo.}
 {1400}{}{You see HawkEyE.}
-{1401}{}{A glittering gem of hatred.}
+{1401}{}{Una gemma scintillante di odio.}
 {1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
-{1411}{}{I'm Hawk-EyE. I headed the translation of the French version. Vive la France!!}
-{1412}{}{I like to eat .... little fishies so sweeeet!}
+{1411}{}{Sono Hawk-EyE. Ho guidato la traduzione della versione francese. Vive la France!!}
+{1412}{}{Mi piace mangiare .... pesciolini cosi' dolciii!}
 {1413}{}{Nobody here but us chickens.}
 {1500}{}{You see Adam Dravean.}
 {1501}{}{He nods in your direction.}
-{1510}{}{I'm Mr. Wolna. I headed the translation of the German version.}
-{1511}{}{[plz bitch-slap me!!]}
-{1512}{}{Good work, guys! Keep it up!}
+{1510}{}{Sono il Sig. Wolna. Ho guidato la traduzione della versione tedesca.}
+{1511}{}{[per favore schiaffeggiami!!]}
+{1512}{}{Ottimo lavoro, ragazzi! Continuate cosi'!}
 {1513}{}{Look! A golden Eagle!}
-{1514}{}{Ich komme aus Deutschland!}
+{1514}{}{Ich komme aus…Vengo da… Deutschland! Io Tedesco!}
 {1600}{}{You see Mr. Wolna.}
-{1601}{}{This guy is seriously enthusiastic...}
-{1610}{}{[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?}
-{1611}{}{Pretty good. It's been a rocky road, but I've finally come to the end.}
+{1601}{}{Questo tipo e' seriamente entusiasta...}
+{1610}{}{[Si toglie l'elmo e butta via il mantello cremisi, rivelando un uomo dall'aspetto rozzo ma affascinante con la testa rasata e una giacca di pelle. Sembra emanare carisma e grandiosita'.] Ehi straniero, mi chiamo Adam. Come va?}
+{1611}{}{Abbastanza bene. E' stata una strada accidentata, ma sono finalmente arrivato alla fine.}
 {1612}{}{I don't have time for this. Bye.}
-{1620}{}{That's good to hear. [He looks around, then furrows his brow.] Where's Dex? I spent a lot of time writing that dude's dialogue, and you're not even using him? [He sighs heavily and shakes his head.]}
+{1620}{}{Bello sentirlo. [Si guarda intorno, poi corruga la fronte.] Dov'e' Dex? Ho passato un sacco di tempo a scrivere i dialoghi di quel tipo, e non lo stai nemmeno usando? [Sospira pesantemente e scuote la testa.]}
 {1621}{}{Dex? Wrote his dialogue? What are you talking about?}
-{1630}{}{That's good to hear. Excuse me a moment. [He walks over to Dex, gives him a high five, then returns to you.] I'm glad to see you and my man Dex have stuck together. You know I spent a lot of time writing that dude's dialogue.}
+{1630}{}{Bello sentirlo. Scusami un momento. [Va da Dex, gli da' il cinque, poi torna da te.] Sono contento di vedere che tu e il mio amico Dex siate rimasti insieme. Sai che ho passato un sacco di tempo a scrivere i dialoghi di quel tipo.}
 {1631}{}{How do you know Dex? And you "wrote his dialogue"? What are you talking about?}
-{1640}{}{Look, don't worry about it. But if you ever decide to embark on another epic quest, make sure to stop by the EPA. There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion. [He looks you over and grins.] Yeah, you're just Dex's type, so you'll be friends for sure.}
+{1640}{}{Senti, non preoccupartene. Ma se mai dovessi decidere di intraprendere un'altra epica missione, assicurati di passare dall'EPA. C'e' un sacco di roba da fare la' e se giochi bene le tue carte, potresti trovare un nuovo compagno. [Ti guarda e sorride.] Si', sei proprio il tipo di Dex, quindi sarete sicuramente amici.}
 {1641}{}{Grazie. Me ne ricordero'.}
-{1650}{}{Look, don't worry about it. But if you ever decide to embark on another epic quest, make sure to stop by the EPA. There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion. [He looks you over.] You'll probably have to change your attitude if you want to make friends with Dex. He likes his companions to be a bit more ... morally impaired.}
+{1650}{}{Senti, non preoccupartene. Ma se mai dovessi decidere di intraprendere un'altra epica missione, assicurati di passare dall'EPA. C'e' un sacco di roba da fare la' e se giochi bene le tue carte, potresti trovare un nuovo compagno. [Ti guarda.] Probabilmente dovrai cambiare atteggiamento se vuoi fare amicizia con Dex. Preferisce che i suoi compagni siano un po' piu'... moralmente compromessi.}
 {1651}{}{Grazie. Me ne ricordero'.}
-{1660}{}{[He nods and looks off into the distance.] You know, Dex wasn't my only contribution. I also helped the Bear Dude in sprucing this world up by serving as adviser, tester, and guardian of canon and original intent. But mostly, I was tasked with bringing all the new wasteland speech up to par. It's been a hell of a long road, but if you ask me, this thing turned out pretty fuckin' sweet. [He looks back at you and grins.]}
+{1660}{}{[Annuisce e guarda lontano.] Sai, Dex non e' stato il mio unico contributo. Ho anche aiutato l'Uomo Orso a migliorare questo mondo servendo come consigliere, tester e custode del canone e dell'intento originale. Ma soprattutto, sono stato incaricato di portare tutti i nuovi dialoghi delle Lande al livello giusto. E' stato un lungo cammino, ma se me lo chiedi, questa cosa e' venuta fuori dannatamente bene. [Ti guarda di nuovo e sorride.]}
 {1661}{}{Whatever. I'm tired of listening to this. Bye.}
-{1662}{}{That's quite noble of you. You've done a remarkable job. Take care of yourself. Bye.}
-{1670}{}{*Looks over at your party members* Lookin' good, Dex.}
-{1671}{}{Keep your eye on Dex, alright? I don't want him getting into trouble. After all, he's my creation.}
+{1662}{}{E' molto nobile da parte tua. Hai fatto un lavoro notevole. Prenditi cura di te. Ciao.}
+{1670}{}{*Guarda i membri del tuo gruppo* Stai bene, Dex.}
+{1671}{}{Tieni d'occhio Dex, ok? Non voglio che si metta nei guai. Dopotutto, e' una mia creazione.}
 {1672}{}{You're welcome for cleaning up the dialogue of the wastes.}
-{1673}{}{Hey, where's Dex? Did I mention I'm his creator?}
+{1673}{}{Ehi, dov'e' Dex? Ho menzionato che sono il suo creatore?}
 {1700}{}{You see encinodude.}
 {1701}{}{He looks like a good guy.}
-{1710}{}{*Looks over at your party members* Lookin' good Kitsune.}
-{1711}{}{You keep an eye on Kitsune, you hear. I don't want her getting into trouble. She's my creation, you know.}
+{1710}{}{*Guarda i membri del tuo gruppo* Stai bene Kitsune.}
+{1711}{}{Tieni d'occhio Kitsune, hai capito. Non voglio che si metta nei guai. E' una mia creazione, sai.}
 {1712}{}{I helped out with the sub, you know.}
-{1713}{}{Hey, where's Kitsune? I wrote her dialogue you know.}
+{1713}{}{Ehi, dov'e' Kitsune? Ho scritto i suoi dialoghi, sai.}
 {1714}{}{I helped out with the sub, you know.}
 {1800}{}{You see Minigun Jim.}
-{1801}{}{He is wearing a Red Dwarf T-shirt under his armor.}
-{1810}{}{*Looks over at your party members* Lookin' good Cat.}
-{1811}{}{You keep an eye on Cat, you hear. I don't want him getting into trouble. He's my creation, you know.}
-{1812}{}{Hey, where's Cat? I wrote his dialogue you know.}
+{1801}{}{Indossa una maglietta dei Red Dwarf sotto l'armatura.}
+{1810}{}{*Guarda i membri del tuo gruppo* Stai bene Cat.}
+{1811}{}{Tieni d'occhio Cat, hai capito. Non voglio che si metta nei guai. E' una mia creazione, sai.}
+{1812}{}{Ehi, dov'e' Cat? Ho scritto i suoi dialoghi, sai.}
 {1900}{}{You see Bofast.}
 {1901}{}{He stands up straight as he sees you looking at him.}
-{1910}{}{Good going bringing a peaceful end to the Raiders attacking Vault City. I helped make that possible.}
-{1911}{}{You didn't have to kill all those Raiders attacking Vault City. There is a peaceful solution now, thanks to me.}
+{1910}{}{Bravo per aver portato una fine pacifica ai Predoni che attaccavano Vault City. Ho aiutato a rendere possibile tutto cio'.}
+{1911}{}{Non dovevi uccidere tutti quei Predoni che attaccavano Vault City. Ora esiste una soluzione pacifica, grazie a me.}
 {2000}{}{You see Pixote.}
 {2001}{}{You see a noble repair bot.}
-{2010}{}{[The robot nods as you approach.] Hello there. Are you enjoying your time in this world?}
+{2010}{}{[Il robot annuisce mentre ti avvicini.] Salve. Stai godendo il tuo tempo in questo mondo?}
 {2011}{}{Yes I am. Thanks for asking.}
 {2012}{}{Not really. Things could be better.}
 {2013}{}{I'm not in the mood to chat. Bye.}
-{2020}{}{That's great to hear! I hope all the hard work I have done to make each location appear as unique and detailed as possible is in some way responsible for your happiness. It took a lot of work to tidy things up, but the overall atmosphere and appearance is top notch now. Don't you agree?}
-{2021}{}{Oh, definitely. Everything looks amazing. You're quite talented!}
+{2020}{}{Bello sentirlo! Spero che tutto il duro lavoro che ho fatto per rendere ogni luogo il piu' unico e dettagliato possibile sia in qualche modo responsabile della tua felicita'. E' stato un gran lavoro sistemare tutto, ma l'atmosfera e l'aspetto generale sono di prima qualita' ora. Non sei d'accordo?}
+{2021}{}{Oh, assolutamente. Tutto sembra fantastico. Sei davvero talentuoso!}
 {2022}{}{Meh, it's alright.}
 {2023}{}{That's nice. Bye.}
-{2030}{}{I'm sorry to hear that. Perhaps you haven't taken a good look at the world around you. I have done much
- to make each location appear as unique and detailed as possible. Maybe if you look at the details, this will lift your
- spirits. It took a lot of work to tidy things up, but the overall atmosphere and appearance is top notch now.
- Don't you agree?}
+{2030}{}{Mi dispiace sentirlo. Forse non hai dato un'occhiata attenta al mondo intorno a te. Ho fatto molto
+ per rendere ogni luogo il piu' unico e dettagliato possibile. Forse se guardi i dettagli, questo ti tirera' su il morale.
+ E' stato un gran lavoro sistemare tutto, ma l'atmosfera e l'aspetto generale sono di prima qualita' ora.
+ Non sei d'accordo?}
 {2031}{}{Now that you mention it, I did notice things look a lot nicer now.}
 {2032}{}{Didn't really notice.}
 {2033}{}{That's nice. Bye.}
-{2040}{}{[The robot rocks back and forth with glee.] I'm glad you like it. Well, I must be going now. I've got more goodies
- to unleash upon this world.}
+{2040}{}{[Il robot si dondola avanti e indietro di gioia.] Sono contento che ti piaccia. Be', devo andare adesso. Ho altre chicche
+ da scatenare su questo mondo.}
 {2041}{}{Alright. Take care.}
-{2050}{}{[The robot's head lowers in sadness.] Well, my work isn't for everyone I suppose. Now, if you'll excuse me,
- I must be going. I've got more goodies to unleash upon this world.}
+{2050}{}{[La testa del robot si abbassa con tristezza.] Be', suppongo che il mio lavoro non sia per tutti. Ora, se mi scusi,
+ devo andare. Ho altre chicche da scatenare su questo mondo.}
 {2051}{}{Vabbe'. Ci vediamo.}
-{2060}{}{I so enjoy creating new things.}
-{2061}{}{So many new details now. So beautiful.}
+{2060}{}{Mi piace tanto creare cose nuove.}
+{2061}{}{Cosi' tanti nuovi dettagli adesso. Cosi' bello.}
 {2100}{}{You see Mash.}
 {2101}{}{He nods at you.}
-{2110}{}{Greetings! Glad you've made it this far. I hope you are enjoying the expanded visible size of this world. Not enough
- of this world could be shown at any one time. I changed all this though. Empress Timeslip and I are masters of the
- Source. He and I have brought this old world into a new era.}
-{2111}{}{Wow, thanks for that. Everything is a lot better. Sometimes a bit too small, but I can easily adjust that.}
+{2110}{}{Saluti! Contento che tu sia arrivato fin qui. Spero che tu stia apprezzando la visibilita' espansa di questo mondo. Non abbastanza
+ di questo mondo poteva essere mostrato in un solo momento. Ho cambiato tutto cio' pero'. L'Imperatrice Timeslip ed io siamo maestri del
+ Sorgente. Lei ed io abbiamo portato questo vecchio mondo in una nuova era.}
+{2111}{}{Wow, grazie per questo. Tutto e' molto meglio. A volte un po' troppo piccolo, ma posso facilmente regolarlo.}
 {2112}{}{I don't have time for this. Bye.}
-{2120}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have taken advantage of this
- new ability. Outstanding!}
-{2121}{}{Oh, I love my new looks. Thanks for that!}
+{2120}{}{Sono contento che tu stia apprezzando il mio duro lavoro. Ho anche reso possibile cambiare aspetto. Non sei piu' bloccato
+ con una razza o un tipo di capelli specifici. Yosan12, x'il e altri hanno creato gli aspetti fisici stessi, ma io, con l'
+ aiuto dell'Imperatrice Timeslip, ho scavato a fondo nel Sorgente per rendere tutto possibile. Vedo che hai approfittato di questa
+ nuova abilita'. Eccellente!}
+{2121}{}{Oh, adoro il mio nuovo aspetto. Grazie per questo!}
 {2122}{}{Right. Goodbye.}
-{2130}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have not taken advantage of
- this feature. Just know that it is there and available. A great place to test it out is at the EPA. Oh, what fun!}
+{2130}{}{Sono contento che tu stia apprezzando il mio duro lavoro. Ho anche reso possibile cambiare aspetto. Non sei piu' bloccato
+ con una razza o un tipo di capelli specifici. Yosan12, x'il e altri hanno creato gli aspetti fisici stessi, ma io, con l'
+ aiuto dell'Imperatrice Timeslip, ho scavato a fondo nel Sorgente per rendere tutto possibile. Vedo che non hai approfittato di
+ questa funzione. Sappi solo che e' li' e disponibile. Un ottimo posto per provarla e' all'EPA. Oh, che divertimento!}
 {2131}{}{I'll keep that in mind. Thanks.}
 {2132}{}{Right. Goodbye.}
 {2140}{}{Most excellent. Well, you take care.}
 {2141}{}{Arrivederci.}
 {2142}{}{Ci si vede.}
-{2150}{}{The Source is tricky, but I can handle it.}
-{2151}{}{Enjoy the expanded visibility of this world!}
+{2150}{}{Il Sorgente e' complicato, ma riesco a gestirlo.}
+{2151}{}{Goditi la visibilita' espansa di questo mondo!}
 {2152}{}{Enjoy the new you!}
 {2200}{}{You see Mikael Grizzly.}
 {2201}{}{This animal is extremely furry.}
-{2210}{}{Hello there. I helped bring the submarine back into this world.}
-{2211}{}{You like how furry I am? I know I do.}
+{2210}{}{Salve. Ho aiutato a riportare il sottomarino in questo mondo.}
+{2211}{}{Ti piace quanto sono peloso? A me si'.}
 {2212}{}{Hope you enjoyed the sub.}
 {2300}{}{You see x'il.}
 {2301}{}{He looks at you with admiration.}
-{2310}{}{I helped a lot with critter appearances. Hope you have enjoyed it!}
-{2311}{}{Nice hair, man. I helped make that possible.}
+{2310}{}{Ho aiutato molto con gli aspetti delle creature. Spero che tu l'abbia apprezzato!}
+{2311}{}{Bei capelli, amico. Ho contribuito a renderlo possibile.}
 {2400}{}{You see a pile of rocks.}
 {2401}{}{There is a plaque on the rocks.}
-{2410}{}{There is a plaque on the pile of rocks. It reads: "Dedicated to Per Jorner. Master of the walkthroughs,
- King of the lizards, and Accumulator of all rocks.}
+{2410}{}{C'e' una targa sul mucchio di rocce. Recita: "Dedicato a Per Jorner. Maestro delle guide,
+ Re delle lucertole, e Accumulatore di tutte le rocce.}
 {2500}{}{You see a large mass of goo.}
-{2501}{}{This mass of goo seems to spell out something: "Dedicated to all those whose names have been forgotten, but
- yet helped make everything possible."}
+{2501}{}{Questa massa di melma sembra formare una scritta: "Dedicato a tutti coloro i cui nomi sono stati dimenticati, ma
+ che hanno comunque contribuito a rendere tutto possibile."}
 {2510}{}{}
 {5000}{}{Combat is not allowed here.}

@@ -92,15 +92,15 @@
 {191}{}{Capisco. Le dispiace se le faccio qualche altra domanda?}
 {192}{}{Andro' a vedere se riesco a trovarlo.}
 {193}{}{! Ben fatto! Bravo!}
-{194}{}{Oh, I will for sure! I wish there were more people who did, too.}
-{195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
+{194}{}{Oh, lo faro' di sicuro! Vorrei che ci fossero piu' persone che lo facessero.}
+{195}{}{Condivido pienamente il sentimento! E' passato un po' da quando ho visto qualcuno anche solo minimamente interessato. Conoscevo un mercante che condivideva la passione pero'...}
 {196}{}{Really? Used to?}
 {197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
-{198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
-{199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
-{200}{}{Wow, that's a very comforting thought! Where was his home?}
+{198}{}{Beh, spero che ci siano piu' persone come noi in giro. Grazie mille e arrivederci!}
+{199}{}{Si', veniva nel cortile per commerciare bevande alcoliche, ma entrava per comprare libri da me. Non gli avrei nemmeno fatto pagare nulla, ma insisteva. Diceva che alla sua gente, a casa, piacevano molto.}
+{200}{}{Wow, e' un pensiero davvero confortante! Da dove veniva?}
 {201}{}{Why doesn't he come around anymore?}
-{202}{}{He said it was a place they call the Abbey, a bit north of here. He even showed me exactly where, it's right... here. I'd love to see it, but the sight of the courtyard is enough to make me panic.}
-{203}{}{Well, I suppose he might have tried selling alcoholic beverages inside the city. It is illegal, you know.}
+{202}{}{Diceva che era un posto chiamato l'Abbazia, un po' a nord di qui. Mi ha perfino mostrato esattamente dove, proprio... qui. Mi piacerebbe vederla, ma la vista del cortile e' gia' abbastanza per farmi andare nel panico.}
+{203}{}{Beh, suppongo che possa aver provato a vendere bevande alcoliche dentro la citta'. E' illegale, sai.}
 {204}{}{Ah, most unfortunate. Well, thank you for the information. Mind if I ask you something else?}
-{205}{}{Ah, pushed his luck. Where did he say he was from?}
+{205}{}{Ah, ha tirato troppo la corda. Da dove diceva di venire?}

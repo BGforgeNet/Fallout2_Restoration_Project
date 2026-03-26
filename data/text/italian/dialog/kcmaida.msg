@@ -92,15 +92,12 @@
 {400}{}{Sei tornato, eh? Spero che tu ti stia occupando di Sulik. Sono certa che si sente perso senza di me che gli dico cosa fare.}
 {401}{}{Sono tornato perche' mi serve qualcosa.}
 {402}{}{Beh, sono sicuro di non poter essere cosi' bravo ad occuparmi di lui come hai fatto tu, ma ci provero'.}
-{420}{}{A trapper named Smiley has gone missing. Momma sure is upset about that. I'm sure she would be grateful if
- someone found him.}
+{420}{}{Un cacciatore di nome Smiley e' scomparso. La mamma e' davvero sconvolta. Sono sicuro che sarebbe grata a chiunque lo trovasse.}
 {421}{}{Well, have you seen Torr anywhere? It seems as though he's run off, and we're sure worried.}
 {422}{}{OK, ne parlero' con la signora Buckner, allora. Lascia che ti chieda qualcos'altro.}
 {423}{}{No, non ho visto Torr da nessuna parte. Se dovessi vederlo, ve lo faro' sapere. Lascia che ti chieda qualcos'altro.}
-{424}{}{Well, Torr has been complaining about "Bug Men" scaring the brahmin. Not sure if I really believe all his stories,
- but someone or something has been rustling cattle here in town.}
-{425}{}{I'll admit I haven't been paying too much attention to all the gossip around town. Head over to the Golden Gecko,
- I'm sure someone there might know a thing or two.}
+{424}{}{Be', Torr si lamenta degli "Uomini Insetto" che spaventano i brahmin. Non so se credo davvero a tutte le sue storie, ma qualcuno o qualcosa sta rubando bestiame qui in citta'.}
+{425}{}{Ammetto di non aver prestato molta attenzione ai pettegolezzi in giro per la citta'. Vai al Golden Gecko, sono sicuro che qualcuno li' sapra' qualcosa.}
 {426}{}{Cattle rustling, huh? I'll look into this. Let me ask you something else, though.}
 {427}{}{Interesting. Anything else I should know?}
 {428}{}{Thanks for the tip. Let me ask you something else, though.}
@@ -142,9 +139,9 @@
 {542}{}{Oh, magari tornero' quando ne avro' di piu'. Arrivederci.}
 {550}{}{Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob) }
 {600}{}{[AVANTI]}
-{700}{}{I found out what's been happening to your brahmin.}
-{701}{}{You have? That's great, but mom's the one you'll want to talk to about that.}
+{700}{}{Ho scoperto cosa sta succedendo ai tuoi brahmin.}
+{701}{}{Davvero? Ottimo, ma e' con la mamma che devi parlare di questo.}
 {702}{}{Sure, I'll go talk to her then.}
-{710}{}{Cattle rustling? Any leads?}
-{711}{}{Not really. I'm not even sure if there's a connection between this and the brahmin mutilations.}
+{710}{}{Furto di bestiame? Qualche pista?}
+{711}{}{Non proprio. Non sono nemmeno sicuro che ci sia un collegamento tra questo e le mutilazioni dei brahmin.}
 {712}{}{Interesting. Any other local news I should know about?}

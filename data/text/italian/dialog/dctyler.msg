@@ -144,8 +144,8 @@
 {715}{}{Non sono affaracci tuoi. Se il capo vuole che io controlli la sua roba, io eseguo gli ordini. Non faccio domande.}
 {716}{}{Nulla.}
 {717}{}{Shaka?}
-{800}{}{Who the- Hey! It's you. You came to *hickup* party with us. I knew you would. (Tyler stumbles over to you and grabs your shoulder)
- Did I ever tell you how much I-(He spies Lara's gang) What the fuck! No fuckin way! This party ain't endin *hickup* cause of some fuckin bitch
- and her cronies. Time to lock and load guys!}
+{800}{}{Chi ca- Ehi! Sei tu. Sei venuto a far *hic* festa con noi. Lo sapevo. (Tyler barcolla verso di te e ti afferra per la spalla)
+ Ti ho mai detto quanto io-(Scorge la banda di Lara) Che cazzo! Non ci credo! Questa festa non finisce *hic* per colpa di una certa str***
+ e i suoi scagnozzi. E' ora di caricare le armi ragazzi!}
 {801}{}{[FINE]}
 {1255}{}{!}
