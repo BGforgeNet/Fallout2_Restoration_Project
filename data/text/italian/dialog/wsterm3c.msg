@@ -1,14 +1,14 @@
-{100}{}{Un terminale di computer.}
+{100}{}{Un terminale di computer}
 {101}{}{C'e' un piccolo adesivo che dice: 'I*tel inside'.}
 {102}{}{[Non sei in grado di leggere quello che c'e' sul monitor.]}
 {103}{}{Terminale di controllo                                         Progetto: Esperimento di Fusione Organico-Robotica}
 {104}{}{}
 {105}{}{Analisi del Sistema.}
-{106}{}{Attivare robot.}
+{106}{}{Attivare robot}
 {107}{}{Esci}
 {108}{}{Erg?}
 {109}{}{[Non sei in grado di leggere quello che c'e' sul monitor.]}
-{110}{}{Fine Programma.}
+{110}{}{Fine Programma}
 {111}{}{Esci}
 {112}{}{Urg}
 {113}{}{Attendere prego...                                             Corpo del Robot - OK                                         Riserve di gel Biomed - OK                                        Dispositivo di Immagazzinamento Organico - Presente               Pronto all'attivazione}
@@ -33,7 +33,7 @@
 {161}{}{}
 {162}{}{}
 {163}{}{}
-{164}{}{Inizio sequenza d'avviamento in corso...}
+{164}{}{Avvio della sequenza di inizializzazione}
 {165}{}{                                   Livelli Energetici - nella norma}
 {166}{}{                                              Tasso di Sincronia - 75%}
 {167}{}{                                               L'unita' e' in funzione}

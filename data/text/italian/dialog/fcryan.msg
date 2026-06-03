@@ -23,5 +23,5 @@
 {122}{}{Awww, DAAAAI!}
 {123}{}{Aggro-suuuuuuuuuurge!}
 {124}{}{Non costringermi a mettere il broncio.}
-{125}{}{Gia', certo...}
+{125}{}{Gia', no?}
 {126}{}{Esatto, signore. Heh heh heh.}

@@ -18,7 +18,7 @@
 {118}{}{Uh?}
 {119}{}{Hmm, quanto ti manca da pagare prima di potertene andare?}
 {120}{}{Uh-huh.}
-{121}{}{Anch'io sono alla ricerca di qualcosa. PerchÃ© non vieni con me?}
+{121}{}{Sto cercando qualcosa. Magari potresti unirti a me.}
 {122}{slk6}{Noi dobbiamo a Maida 350$. Tu andando a sud? Noi camminare con te e cercare sorella. Tu ha 350$?}
 {123}{}{Noh-oh.}
 {124}{}{Ah-a!}
@@ -48,14 +48,14 @@
 {201}{}{Ehi, fino adesso ho sentito parlare solo te.}
 {210}{slk6h}{Noi andremo proprio d'accordo.}
 {211}{}{Magari ne riparliamo piu' tardi, ok? Ciao.}
-{220}{slk7}{Vic il traditore, tu dire. Viene a villaggio, dice che sa di schiavisti, dice di andare a trovarlo. Noi andati, lui non c'Ã¨.}
+{220}{slk7}{Vic il traditore, tu dire. Viene a villaggio, dice che sa di schiavisti, dice di andare a trovarlo. Noi andati, lui non c'e'.}
 {221}{}{Tua sorella e' stata presa dagli schiavisti?}
 {222}{}{Lascia che ti chieda qualcos'altro.}
 {223}{}{Credo sia tutto, per ora. Arrivederci.}
 {230}{slk8}{Noi e io ti ringraziamo. Mio nome Sulik. Come noi potere ripagare?}
 {231}{}{Uh.}
-{232}{}{Bye bye.}
-{233}{}{Chi sono questi "noi"?}
+{232}{}{Ciao ciao.}
+{233}{}{Chi sono questi "noi?"}
 {234}{}{Felice di aiutarti, Sulik. Parlami di te.}
 {235}{}{Che ne diresti di parlarmi di quello che succede in citta'?}
 {236}{}{Non sopportavo l'idea di saperti prigioniero qui, ecco tutto. Addio.}
@@ -152,7 +152,7 @@
 {521}{slk27rb}{Agisci silenziosamente e imparerai molto.}
 {522}{slk27rc}{Un seme forte e' stato piantato qui. Un buon seme.}
 {530}{slk27sa}{Un guscio vuoto riposa sotto quelli che riposano.}
-{531}{slk27sb}{Gli artigli della morte sono vicini}
+{531}{slk27sb}{Gli artigli della morte sono vicini.}
 {532}{slk27sc}{Piccoli morti ti seguiranno.}
 {540}{slk27ta}{La voce fa piu' rumore del suono di qualsiasi pistola.}
 {541}{slk27tb}{Il male balla qui.}
@@ -186,7 +186,7 @@
 {725}{slk35b}{Scusa, amico.}
 {726}{slk35c}{Ci muoviamo per te, no problem.}
 {727}{slk36a}{Lo faremo.}
-{728}{slk36b}{Nonno-Osso dire noi stessa cosa.}
+{728}{slk36b}{Nonno-Osso dire noi stessa cosa}
 {729}{slk36c}{Molte lotte. Servire arma migliore.}
 {730}{slk37a}{Anche spiriti aiutare. Questo e armatura essere quasi sufficienti.}
 {731}{slk37b}{Buona idea. Tu attiri gente arrabbiata come mosche su torte di brahmin.}
@@ -400,11 +400,11 @@
 {1021}{}{Tu hai avuto un sacco di problemi con la gente. Noi ce ne andiamo finche' non avrai risolto questo.}
 {1023}{}{Noi non essere mai amici di uccisore di bambini.}
 {1025}{}{Tu causato problemi a Klamath. Noi ce ne andiamo.}
-{1026}{}{You be causing trouble in my home village. We're gone.}
+{1026}{}{Tu portato guai nel mio villaggio. Noi andare via.}
 {2300}{}{Gli spiriti ci muovono.}
 {2301}{}{Noi e io ci muovere.}
 {2302}{}{OK, calma.}
-{2303}{}{Non preoccuparti, noi e io ci muovere}
+{2303}{}{Non preoccuparti, noi e io ci muovere.}
 {2304}{}{Noi pensa tu avere bisogno di un po' di tempo per annusare i fiori. Nonno-Osso dire che tu essere troppo pressante. Prendere la vita con piu' calma.}
 {2305}{}{Noi ci muoviamo alla grande.}
 {2306}{}{Adesso noi e io andare la'.}
@@ -423,14 +423,14 @@
 {3011}{}{Che cosa ti aspetti da noi?}
 {3012}{}{Non e' carino.}
 {3013}{}{Grazie mille.}
-{3014}{}{This is good.}
-{3015}{}{This isn't good.}
+{3014}{}{Questo è un bene.}
+{3015}{}{Questo non va bene.}
 {3016}{}{Abbiamo un buon presentimento.}
 {3017}{}{Abbiamo un cattivo presentimento.}
-{3018}{}{These people are crazy.}
-{3020}{}{There must be another way.}
+{3018}{}{Queste persone sono pazze.}
+{3020}{}{Ci deve essere un altro modo.}
 {3021}{}{Seguici.}
-{3022}{}{Try this.}
+{3022}{}{Prova questo.}
 {3023}{}{Noi va li', adesso.}
 {3024}{}{E' andato da questa parte.}
 {3025}{}{Sono andati da questa parte.}
@@ -442,11 +442,11 @@
 {3031}{}{Non e' sicuro accamparsi qui.}
 {3032}{}{Possiamo riposare qui.}
 {3033}{}{Siamo fortunati.}
-{3034}{}{You need to fix this.}
-{3035}{}{You need to turn this on.}
-{3036}{}{You need to unlock this.}
-{3037}{}{You need to open this.}
-{3038}{}{Maybe we should come back here.}
+{3034}{}{Devi sistemare questa cosa.}
+{3035}{}{Devi accendere questo.}
+{3036}{}{Devi sbloccarlo.}
+{3037}{}{Devi aprire questo.}
+{3038}{}{Forse dovremmo tornare qui.}
 {3039}{}{Noi non capiamo.}
 {3040}{}{Noi non sappiamo.}
 {3050}{slk86}{Essere a casa e' bello, ma questo posto sembra troppo piccolo adesso. Ci manca la strada e la compagnia di un cosi' caro amico come te. Noi volere unire a te di nuovo.}
@@ -460,7 +460,7 @@
 {3058}{}{Si'.}
 {3059}{}{No, credo sia tempo che tu la cerchi da solo.}
 {3060}{slk90}{Forse e' cosi. Mancherai a noi e io, pero'. Buoni spiriti con te, amico.}
-{3061}{}{Thanks, Sulik. Goodbye. [Sulik hands you his gear.]}
+{3061}{}{Grazie, Sulik. Addio.}
 {3062}{}{Beh, forse potresti rimanere con me. Credo che potremmo ancora trovare tua sorella.}
 {3063}{slk91a}{Dopotutto, tu volere buona compagnia allora?}
 {3064}{slk91b}{Essere bello essere di nuovo a casa.}
@@ -476,15 +476,15 @@
 {3082}{}{Essere bello essere di nuovo a casa.}
 {3083}{}{Cosi' tante giovani vergini cui raccontare i nostri viaggi - e cosi' poco tempo per farlo.}
 {3084}{}{Noi dobbiamo parlare con l'erba-superba. Poi lasciate che il mondo ondeggi.}
-{3086}{}{Take care, fren.}
-{3087}{}{We and I wish you the best of luck.}
-{3088}{}{Thanks again for everything, fren.}
+{3086}{}{Abbi cura di te, amico.}
+{3087}{}{Noi e io ti auguriamo la miglior fortuna.}
+{3088}{}{Grazie ancora di tutto, amico.}
 {3090}{}{Questo qui essere nostro villaggio. Noi e io andare parlare con nostri amici.}
 {3091}{}{Noi e io andare parlare di nuovo con nostri amici prima di partire.}
 {3100}{}{[AVANTI]}
-{3101}{}{Where exactly is your tribe, Sulik?}
+{3101}{}{Dov’è esattamente la tua tribù, Sulik?}
 {3102}{}{Grazie. Lascia che ti chieda qualcos'altro.}
-{3103}{}{You too, Sulik. Take care of yourself.}
+{3103}{}{Anche tu, Sulik. Stammi bene.}
 {3200}{}{Si', ho parlato con la signora Buckner riguardo al tuo debito. Adesso devo solo mettermi d'accordo con Maida. Ti faro' sapere com'e' andata non appena avro' parlato con lei.}
 {3500}{}{Noi e io pensiamo che qualcosa non andare in noi. Tu fai meglio a controllare nostre braccia o nostre gambe.}
 {3501}{}{Noi e io pensiamo che qualcosa non andare in noi. Noi brillanti come sole.}

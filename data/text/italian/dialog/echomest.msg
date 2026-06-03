@@ -35,5 +35,5 @@
 {134}{}{Tanto non mi piaceva fare il contadino.}
 {135}{}{Tornero'.}
 {136}{}{Prendi mia moglie - ti prego...}
-{200}{}{Thanks fer your help.}
+{200}{}{Grazie per l'aiuto.}
 {201}{}{Era ora che un po' di ordine tornasse in queste terre.}

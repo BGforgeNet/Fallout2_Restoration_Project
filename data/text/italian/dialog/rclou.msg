@@ -6,19 +6,19 @@
 {105}{}{Non posso credere che tu abbia lasciato libero il bastardo che ha accoltellato la mia ragazza. Hai del fegato a tornare qui. Cosa diavolo vuoi?}
 {106}{}{Rimani un dannato idiota, ma per noi altri la vita va avanti. Ora: cosa diavolo vuoi?}
 {107}{}{Ricorda cio' che ho detto. Tutti quei soldi non fanno bene a quella ragazza. Di cosa hai bisogno?}
-{108}{}{Ehila'. Io sono Lou. Proprietaria del Malamute Saloon, il miglior locale a nord di SanFran. }
+{108}{}{Ehila'. Io sono Lou. Proprietaria del Malamute Saloon, il miglior locale a nord di SanFran.}
 {109}{}{E adesso cosa c'e'?}
 {110}{}{Ooo?}
-{111}{}{Salve, Lou. Vorrei comprare qualcosa. }
+{111}{}{Salve, Lou. Vorrei comprare qualcosa.}
 {112}{}{Hai mai sentito parlare di un qualcosa chiamato Kit per la Creazione del Giardino dell'Eden?}
 {113}{}{Salve, Lou. Cosa succede di bello in citta'?}
 {114}{}{Cos'e' un Malamute?}
 {115}{}{In che direzione si trova "SanFran"?}
-{116}{}{Sto aiutando lo Sceriffo. Mi ha detto che una delle tue ragazze e' stata accoltellata.}
+{116}{}{Sto dando una mano allo Sceriffo. Mi ha detto che una delle tue ragazze e' stata tutta tagliuzzata?}
 {117}{}{Scusa, non ho molto tempo ne' pazienza per parlare con gli stupidi. Che cosa vuoi?}
 {118}{}{Pere?}
 {119}{}{'tanza?}
-{120}{}{Bye bye.}
+{120}{}{Ciao ciao.}
 {121}{}{Da bere, eh? Bene, per una bella bottiglia di birra fresca sono 25$. Ti sto anche facendo un prezzo speciale e scontato, dal momento che gli stupidi mi fanno pena.}
 {122}{}{Pere? (tieni in mano la borsa dei soldi)}
 {123}{}{'tanza?}
@@ -121,7 +121,7 @@
 {220}{}{Credo che tu sia preoccupata solo perche' stai per perdere una delle tue migliori fonti di reddito. Tu vuoi solo tenere al guinzaglio le tue ragazze.}
 {221}{}{Si', certo. Ho sentito abbastanza. Addio.}
 {222}{}{Aiutarla a raggiungere l'aldila': ecco cosa stanno facendo i tuoi soldi. Lei li usa solo per comprarsi quantita' esagerate di Jet. Uno di questi giorni morira' di overdose, se continui ad accontentarla.}
-{223}{}{Hmm, dovro' pensarci su. }
+{223}{}{Hmm, dovro' pensarci su.}
 {224}{}{Ci pensero' su. Addio.}
 {225}{}{Puoi pensarla come vuoi. Mi pareva giusto dirti chiaro e tondo come stanno le cose. Adesso sta a te decidere se ascoltarmi o meno.}
 {226}{}{Queste cose le ho gia' sentite altre volte. Dedichiamoci ad altro.}
@@ -135,15 +135,9 @@
 {234}{}{Che cosa succede di bello in citta'?}
 {300}{}{Hai contribuito a disintossicare Fannie.}
 {301}{}{Arrivederci.}
-{310}{}{I may have something that can help Fannie. [Give Lou the Jet antidote]}
-{1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
- I just want you to know that I'm thankful for what you did. How can I help you?}
-{1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
- Jail's too good for what that bastard done.}
-{1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe
- that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell
- do you want?}
-{1106}{}{You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute
- Saloon, finest house north of San Fran. Now just what the hell do you want?}
-{1107}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember,
- too much money ain't good for that gal. Now whattya need?}
+{310}{}{Forse ho qualcosa che può aiutare Fannie. [Consegni a Lou l’antidoto per il Jet]}
+{1103}{}{Ciao. Sono Lou, proprietaria del Malamute Saloon, il miglior locale a nord di San Fran. Voglio che tu sappia che ti sono grata per quello che hai fatto. Come posso aiutarti?}
+{1104}{}{Sono Lou, proprietaria del Malamute Saloon, il miglior locale a nord di San Fran. Il carcere è troppo poco per quello che quel bastardo ha fatto.}
+{1105}{}{Sono Lou, proprietaria del Malamute Saloon. Non riesco a credere che tu abbia lasciato libero il bastardo che ha ferito la mia ragazza. Hai un bel coraggio a tornare qui. Che diavolo vuoi?}
+{1106}{}{Rimani un dannato idiota. Ma la vita va avanti, per noi altri. Sono Lou. Ora, cosa diavolo vuoi?}
+{1107}{}{Sono Lou. Ricorda: troppi soldi non fanno bene a quella ragazza. Di cosa hai bisogno?}

@@ -12,7 +12,7 @@
 {120}{}{Perche' diavolo cammini in punta di piedi?}
 {121}{}{Se vuoi passare inosservato, devi cercare di essere molto piu' silenzioso di cosi'.}
 {122}{}{Oh, ma sei davvero un tipo furtivo.}
-{123}{}{Sai fare davvero bene il tuo lavoro. Si', signore, come no?}
+{123}{}{Sei bravo nel tuo lavoro. Gia'.}
 {124}{}{Imbecille, cammina normalmente!}
 {125}{}{Un altro esponente del Ministero delle Camminate Stupide.}
 {126}{}{Posso vederti. E infatti adesso ti spacco la testa.}
@@ -25,7 +25,7 @@
 {133}{}{Niente tessera, niente passaggio.}
 {134}{}{Non puoi superare questa porta senza una Tessera Gialla, amico.}
 {140}{}{Mi fa piacere che tu abbia l'autorizzazione.}
-{141}{}{Ehila', pelle-liscia!}
+{141}{}{Ehila', pelle-liscia.}
 {142}{}{Se succede qualcosa, sapremo chi incolpare.}
 {143}{}{Farai meglio a stare attento, li' dentro. Fa un po' troppo caldo per i tipi come te.}
 {144}{}{Bene, quella tessera sembra proprio quella giusta.}

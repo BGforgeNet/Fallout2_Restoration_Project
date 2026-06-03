@@ -2,6 +2,8 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
+#define SCRIPT_REALNAME "direbdor"
+
 import variable becky_guard_obj;
 import variable becky_door_guard_obj;
 import variable becky_obj;
@@ -10,23 +12,6 @@ variable check_guard;
 variable user_of_door;
 
 #define LOCKED_STATUS                   ((STATE_ACTIVE * (becky_dead == false)) + (STATE_INACTIVE * becky_dead))
-
-#define send_tamper_to_guard_who_sees                                                                    \
-         check_guard := 0;                                                                               \
-         if (becky_guard_obj != 0) then begin                                                            \
-            if (obj_can_see_obj(becky_guard_obj, user_of_door)) then begin                               \
-               check_guard := becky_guard_obj;                                                           \
-            end                                                                                          \
-         end else if (becky_obj != 0) then begin                                                         \
-            if (obj_can_see_obj(becky_obj, user_of_door)) then begin                                     \
-               check_guard := becky_obj;                                                                 \
-            end                                                                                          \
-         end                                                                                             \
-         if (becky_door_guard_obj != 0) then begin                                                       \
-            if ((obj_can_see_obj(becky_door_guard_obj, user_of_door)) or (check_guard != 0)) then begin  \
-               check_guard := becky_door_guard_obj;                                                      \
-            end                                                                                          \
-         end
 
 procedure def_use_p_proc;
 procedure def_use_skill_on_p_proc;
@@ -62,9 +47,38 @@ end
 
 #include "../den/didoor.ssl"
 
+/**
+ * Return the critter who's currently watching Becky's backroom door. The critter will issue a warning.
+ * One of the guards or Becky herself.
+ * @param {ObjectPtr} door_user Critter using the door, usually PC.
+ * @ret {ObjectPtr} Guard critter or 0.
+ */
+procedure get_guard_object(variable door_user) begin
+   if (becky_door_guard_obj != 0) then begin
+      if (obj_can_see_obj(becky_door_guard_obj, door_user)) then begin
+         ndebug("guard = door guard");
+         return becky_door_guard_obj;
+      end
+   end
+   if (becky_guard_obj != 0) then begin
+      if (obj_can_see_obj(becky_guard_obj, door_user)) then begin
+         ndebug("guard = normal guard");
+         return becky_guard_obj;
+      end
+   end
+   if (becky_obj != 0) then begin
+      if (obj_can_see_obj(becky_obj, door_user)) then begin
+         ndebug("guard = Becky");
+         return becky_obj;
+      end
+   end
+   return 0;
+end
+
 procedure test_use_tamper begin
    ndebug("test_use_tamper");
-   send_tamper_to_guard_who_sees
+   check_guard = get_guard_object(user_of_door);
+   ndebug("check_guard = " + check_guard);
    if (check_guard != 0) then begin
       if (user_of_door == dude_obj) then begin
          ndebug("   user_of_door == dude_obj");
@@ -82,7 +96,7 @@ end
 
 procedure test_door_open begin
    if ((obj_is_open(self_obj) == false) and (obj_is_locked(self_obj) == false)) then begin
-      send_tamper_to_guard_who_sees
+      check_guard = get_guard_object(user_of_door);
       if (check_guard != 0) then begin
          if (user_of_door == dude_obj) then begin
             flush_add_timer_event(check_guard, 0, timed_event_attack);
@@ -97,7 +111,7 @@ procedure test_door_open begin
 end
 
 procedure test_use_skill_tamper begin
-   send_tamper_to_guard_who_sees
+   check_guard = get_guard_object(user_of_door);
    ndebug("test_use_skill_tamper");
    if (check_guard != 0) then begin
       if ((action_being_used == SKILL_LOCKPICK) or (action_being_used == SKILL_TRAPS)) then begin

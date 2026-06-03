@@ -5,6 +5,7 @@
 
 #include "scripts.h"
 #include "define.h"
+#include "../sfall/define_extra.h"
 #ifndef NAME
   #define NAME                    SCRIPT_DOOR
 #endif

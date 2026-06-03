@@ -615,6 +615,17 @@ variable caught_thief;
             end                                                                        \
          end
 
+/**
+ * Set `becky_guard_obj` to current critter if currently unset or closer to PC that current guard obj.
+ */
+#define set_becky_guard \
+   if (becky_guard_obj == 0) then begin \
+      becky_guard_obj := self_obj; \
+   end else if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(becky_guard_obj, dude_obj)) then begin \
+      becky_guard_obj := self_obj; \
+   end
+
+
 // gang war start
 #define setup_gang_fight                           gfade_out(ONE_GAME_SECOND);                   \
                                                       set_gangwar(state_gangwar_in_fight);       \

@@ -8,14 +8,14 @@
 {107}{}{Dovresti provare i tavoli, selvaggio.}
 {108}{}{Dovresti provare le slot machine, selvaggio. C'e' un picco di magia positiva.}
 {109}{}{Vacci piano con l'alcol, selvaggio.}
-{110}{}{Ehila'; benvenuto nell'accogliente citta' di Redding... e benvenuto nel mio casino'. Ogni persona e' un Asso, qui all'Ascorti's Ace. Io sono Ascorti, il proprietario del casino' e il sindaco di questa ridente cittadina. }
+{110}{}{Ehila'; benvenuto nell'accogliente citta' di Redding... e benvenuto nel mio casino'. Ogni persona e' un Asso, qui all'Ascorti's Ace. Io sono Ascorti, il proprietario del casino' e il sindaco di questa ridente cittadina.}
 {111}{}{Cosa puo' fare per te il sindaco Ascorti?}
 {112}{}{Ci sono opportunita' di lavoro, qui a Redding?}
 {113}{}{Cos'e' successo ultimamente in citta'?}
 {114}{}{Ha mai sentito parlare di un qualcosa chiamato Kit di Creazione del Giardino dell'Eden?}
 {115}{}{Di che cosa ti occupi?}
 {116}{}{Stavo solo dando un'occhiata in giro, Sindaco. Ci vediamo.}
-{117}{}{Gestisco questo casino' e faccio del mio meglio per mandare avanti questa citta'. Mi occupo di atti di proprieta' e cose simili. }
+{117}{}{Gestisco questo casino' e faccio del mio meglio per mandare avanti questa citta'. Mi occupo di atti di proprieta' e cose simili.}
 {118}{}{Atti di proprieta'? Proprieta' di cosa?}
 {119}{}{Capisco; lasci che le chieda qualcos'altro, Sindaco.}
 {120}{}{Atti di proprieta' come quello della Miniera Grande Wanamingo che vorrei comprare da te. Sei disposto a vendermelo?}
@@ -155,7 +155,7 @@
 {254}{}{Grazie della dritta. Prima che io vada, pero', lasci che le chieda qualcos'altro.}
 {255}{}{Ehi, mi dica qualcosa riguardo ai proprietari delle miniere.}
 {256}{}{Magari daro' un'occhiata laggiu', allora. Grazie.}
-{257}{}{Beh, c'e' lo Sceriffo. Poi ci sono i proprietari delle miniere che cercano qualcuno che recuperi un qualche tipo di pezzo per una delle loro macchine. }
+{257}{}{Beh, c'e' lo Sceriffo. Poi ci sono i proprietari delle miniere che cercano qualcuno che recuperi un qualche tipo di pezzo per una delle loro macchine.}
 {258}{}{Cosa mi puo' dire dello Sceriffo?}
 {259}{}{Cosa mi puo' dire dei proprietari delle miniere?}
 {260}{}{Interessante. Lasci che le chieda qualcos'altro, Sindaco.}

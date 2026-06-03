@@ -11,7 +11,7 @@
 {110}{}{Ehi, Eric e' davvero felice nella sua bella casa fresca. E mi piace notare come non ci siano stati blackout, in citta'.}
 {111}{}{Sono andato a parlare con Eric e mi ha detto che una volta era lui che gestiva questo posto. Mi ha detto anche che c'e' talmente tanta energia nelle pepite di uranio che non si notera' nemmeno il piccolo surplus di energia che richiede per la sua casa. Percio' sputa fuori l'energia.}
 {112}{}{Nulla. Arrivederci.}
-{113}{}{Io? Io sono Brian. Mi occupo del generatore che da' energia a questo posto. }
+{113}{}{Io? Io sono Brian. Mi occupo del generatore che da' energia a questo posto.}
 {114}{}{Allora tu sei il tizio con cui devo parlare. Eric dice che casa sua e' diventata invivibile e che ha bisogno di piu' energia per il suo sistema di condizionamento dell'aria.}
 {115}{}{Capisco. Molto interessante. Dev'essere un lavoro appagante.}
 {116}{}{Ottimo. Ho delle altre domande.}
@@ -20,11 +20,11 @@
 {119}{}{Pepite di uranio?}
 {120}{}{Interessante. Arrivederci,}
 {121}{}{Un GECK? Mai sentito. E presumo che nessuno in questa citta' l'abbia mai sentito nominare. Dal nome si direbbe un animale o qualcosa con degli artigli pericolosi, pero'.}
-{122}{}{No, that's not what I'm looking for. I have more questions though.}
+{122}{}{No, non è quello che cercavo. Però ho altre domande.}
 {123}{}{Non ci siamo proprio. Arrivederci.}
 {124}{}{Eric vuole altra energia? Eric NON puo' avere altra energia. Quello che dobbiamo gestire qui e' un delicatissimo equilibrio e se Eric dovesse ricevere piu' energia, allora l'ospedale non avrebbe piu' energia sufficiente per funzionare. Potrebbe succedere la stessa cosa alle luci. O alla miniera. Non possiamo permettere che succeda una cosa simile.}
 {125}{}{Se questa centrale funziona davvero con pepite di uranio, allora avete a disposizione abbastanza energia da alimentare questa citta' E New Reno senza che si verifichino cali di tensione. Adesso sputa fuori l'energia che ti ho chiesto.}
-{126}{}{Ma... ma... lui sta male!}
+{126}{}{Ma… ma… sta soffrendo.}
 {127}{}{Ma non c'e' proprio verso di fare un paio di piccole regolazioni?}
 {128}{}{[Guarda in modo accigliato gli indicatori e dice a bassa voce] Sei cattivo.}
 {129}{}{Yup. Ciao!}

@@ -3,14 +3,14 @@
 {200}{}{*Ehila', giovan...::cough:: ::cough:: ::wheeze:: ...vieni a...::hack::...giocare un po' con me.*}
 {201}{}{*Ehila', giovan- ::cough:: ::cough::*}
 {202}{}{*Ehila', giovanot- ::cough:: ::hack:: ::wheeze:: ...perche'...::hack::...non vieni a giocare?*}
-{203}{}{*Rattle*}
+{203}{}{*Cling cling*}
 {204}{}{*Clink*}
-{205}{}{*Thwunk*}
+{205}{}{*Tunk*}
 {206}{}{*Ker-chunka-chunka*}
 {207}{}{*Zzzztttt*}
 {208}{}{*Ka-dink-thunk-snap*}
 {209}{}{*Ka-chuuuunk-snap-creeeeeak*}
-{210}{}{*Clunk*}
+{210}{}{*Clonk*}
 {211}{}{*Tink-tinkety-tink*}
 {212}{}{*Effetto sonoro stupido*}
 {213}{}{*Ehila', bellez...::cough:: ::cough:: ::wheeze:: ...vieni a...::hack::...giocare un po' con me.*}
@@ -22,7 +22,7 @@
 {240}{}{Afferri il suo braccio e lo scuoti calorosamente. Non appena lo fai, si sente un secco rumore di ferraglia!}
 {245}{}{(Vedi una slot machine. Forse e' la piu' brutta slot machine che tu abbia visto a New Reno. La sua leva e' piegata, due finestrelle sono rotte ed e' piena di ammaccature.)}
 {246}{}{La tua mano trema mentre raggiunge le monete che hai in tasca. (La slot machine continua a sussurrarti con la sua voce stridula.) *Su, dai...::cough::...ci sei...*}
-{250}{}{Un rumore assordante di ferraglia accompagna l'incerto ruotare dei cilindri, e... }
+{250}{}{Un rumore assordante di ferraglia accompagna l'incerto ruotare dei cilindri, e...}
 {251}{}{NULLA! (La slot machine ridacchia sarcasticamente.) *Sarai piu' fortunato la prossima volta, giovan -- ::cough:: ::cough:: ::wheeze::}
 {255}{}{(La slot machine continua a sussurrarti.) *Riprovaci, giovanotto... ancora una volta - ::cough:: ::hack:: - la fortuna e' dalla tua.*}
 {260}{}{Tutto d'un tratto, i meccanismi si fermano con un rantolo e... }
@@ -34,7 +34,7 @@
 {285}{}{::Cough:: ::Cough:: *Non ho TEMPO per raccontarti le solite stronzate, giovanotto. E di sicuro tu hai cose piu' importanti da fare che rimanere qui a chiacchierare con me, eh? Cosa diamine ti passa per la testa?*}
 {295}{}{*Calmo, calmo, giovanotto. Chiudi quelle fontanelle che ti escono dagli occhi. Tutto andra' per il meglio... hai capito? Ci sono qui io con te, 'kay?*}
 {300}{}{*Ehi su, dai, adesso basta. Fatti un bel giretto, libera la mente...::cough::...rilassati. Sei sicuro che vada tutto bene, giovanotto?*}
-{301}{}{Staro' bene... grasshie per aveee paalato co me', vechia slot masciiin.}
+{301}{}{Staro' bene... grasshie per aveee paalato co me', vechia slot masciiin}
 {305}{}{*Pah! Non serve che mi ringrazi. Adesso, esci fuori di qui e fagliela VEDERE a quelli. Tu sei l'unico eroe che abbiamo in questo mondo pieno di furfanti e ladri... ::cough:: ::wheeze:: ::cough::...in gamba, capito?*}
 {306}{}{Sceeeeerto, lo faro'-- anche tuuuu, okayyy?}
 {310}{}{(Mentre tiri la leva piegata, ti pare di sentire la slot machine emettere un sospiro di sollievo, seguito da un lungo silenzio. Proprio quando stai per lasciar perdere, senti un rumore provenire dal fondo della macchina. In pochi secondi il rumore cresce, diventando un frastuono assordante quando le monete cominciano ad uscire fuori a valanga!) JACKPOT!}

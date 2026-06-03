@@ -87,7 +87,7 @@ subisci }
 {181}{}{ forza la serratura.}
 {182}{}{ nel tentativo di forzare la serratura, si stira la schiena
  e subisce un punto di danno.}
-{183}{}{ nel tentativo di forzare la serratura si stira la schiena e subisce}
+{183}{}{ nel tentativo di forzare la serratura si stira la schiena e subisce }
 {184}{}{ punti di danno.}
 {185}{}{ e' troppo debole per forzare la serratura.}
 {186}{}{ si stira la schiena nel tentativo di forzare la serratura e subisce un punto di danno.}

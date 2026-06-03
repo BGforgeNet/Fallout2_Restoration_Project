@@ -7,7 +7,7 @@
 {106}{}{Niente. Me torna piu' tardi.}
 {107}{}{Potresti cominciare rispondendo ad alcune domande.}
 {108}{}{Nulla, per adesso. Tornero' piu' tardi.}
-{109}{}{Credo che tu ti sia guadagnato il diritto di ricevere le risposte alle tue domande. }
+{109}{}{Credo che tu ti sia guadagnato il diritto di ricevere le risposte alle tue domande.}
 {110}{}{Come posso aiutarla?}
 {111}{}{Chi essere voi?}
 {112}{}{Perche' nessuno me parlato di voi?}
@@ -23,19 +23,19 @@
 {122}{}{Un tempo noi eravamo gli unici bastioni della tecnologia rimasti sul pianeta. Ci imponemmo come una forza che si potrebbe ben descrivere con l'espressione "polizia tecnologica". Noi raccoglievamo l'antica conoscenza e la distribuivamo esclusivamente a piccole dosi. E, naturalmente, solo a quelli che ritenevamo degni e dotati della saggezza necessaria per usarla correttamente.}
 {123}{}{E adesso?}
 {124}{}{Hai detto "un tempo". E adesso, invece?}
-{125}{}{Diversi mesi fa ci siamo imbattuti per la prima volta in un gruppo noto con il nome di "Enclave". Con nostra somma sorpresa scoprimmo che il loro livello tecnologico superava persino il nostro. La cosa ci allarmava non poco, quindi prendemmo in cosiderazione l'idea di contattarli. Tuttavia, alla fine decidemmo di tenere una condotta piu' cauta fino a quando non fossimo in grado di stabilire con esattezza chi fossero i membri dell'Enclave e quali i fini alla base della loro organizzazione. }
+{125}{}{Diversi mesi fa ci siamo imbattuti per la prima volta in un gruppo noto con il nome di "Enclave". Con nostra somma sorpresa scoprimmo che il loro livello tecnologico superava persino il nostro. La cosa ci allarmava non poco, quindi prendemmo in cosiderazione l'idea di contattarli. Tuttavia, alla fine decidemmo di tenere una condotta piu' cauta fino a quando non fossimo in grado di stabilire con esattezza chi fossero i membri dell'Enclave e quali i fini alla base della loro organizzazione.}
 {126}{}{Per questo motivo, abbiamo riattivato dei piccoli avamposti nei pressi delle zone di attivita' dell'Enclave dai quali possiamo osservare le loro azioni senza correre rischi. Al momento, abbiamo attivato gli avamposti al Den, a NCR e qui a San Francisco.}
 {127}{}{Cosa voi imparare?}
 {128}{}{Interessante. Cosa avete scoperto?}
 {129}{}{Abbiamo scoperto che l'Enclave si occupa in modo massiccio di droghe, armi e schiavi. Tuttavia, queste sono solo attivita' secondarie, volte al conseguimento di uno scopo piu' grande. Uno scopo che non siamo stati ancora in grado di scoprire. E allora continuiamo ad osservare.}
 {130}{}{Perche' tu detto me tutto questo?}
 {131}{}{Prima di proseguire, perche' mi hai raccontato tutto questo?}
-{132}{}{(sigh) Gli Enclave hanno sviluppato la tecnologia vertibird, macchine volanti che permettono loro di raggiungere con facilita' i territori limitrofi. Senza una simile tecnologia per contrastare questa minaccia, la Confraternita non sarebbe in grado di fermare un'invasione sferrata dall'Enclave. Dobbiamo ottenere la tecnologia vertibird, oppure un mezzo efficace per contrastarla. }
+{132}{}{(sigh) Gli Enclave hanno sviluppato la tecnologia vertibird, macchine volanti che permettono loro di raggiungere con facilita' i territori limitrofi. Senza una simile tecnologia per contrastare questa minaccia, la Confraternita non sarebbe in grado di fermare un'invasione sferrata dall'Enclave. Dobbiamo ottenere la tecnologia vertibird, oppure un mezzo efficace per contrastarla.}
 {133}{}{Ora... recentemente l'Enclave ha costruito una base chiamata Navarro, a nord di qui. E' usata come punto di scalo per la manutenzione e il rifornimento dei vertibird. E' mia opinione che in quella base potrebbero trovarsi gli schemi tecnici completi dei vertibird. Tutto quello che mi serve e' qualcuno che si infiltri all'interno della base, rubi i piani e li riporti da me.}
 {134}{}{Uh... me fa?}
 {135}{}{Lasciami indovinare. Vuoi che io mi infiltri in questa base per te.}
 {136}{}{Voglio essere franco con te,}
-{137}{}{. La Confraternita d'Acciaio non ha piu' il potere di un tempo. Credevamo di essere l'unica fonte di tecnologia rimasta per l'umanita'. Confidando in questa convinzione abbiamo lasciato che il nostro ordine conoscesse la decadenza. Le risorse attualmente a nostra disposizione non sono sufficienti per contrastare l'Enclave. Abbiamo bisogno del tuo aiuto. }
+{137}{}{. La Confraternita d'Acciaio non ha piu' il potere di un tempo. Credevamo di essere l'unica fonte di tecnologia rimasta per l'umanita'. Confidando in questa convinzione abbiamo lasciato che il nostro ordine conoscesse la decadenza. Le risorse attualmente a nostra disposizione non sono sufficienti per contrastare l'Enclave. Abbiamo bisogno del tuo aiuto.}
 {138}{}{Sono disposto a farti un'offerta. Porta a termine questa missione per me e io ti concedero' l'accesso alla nostra installazione. Il meglio della tecnologia della Confraternita sara' messa a tua disposizione, in maniera esclusiva. Cosa ne dici?}
 {139}{}{Me pensa su.}
 {140}{}{No. Me andare via.}

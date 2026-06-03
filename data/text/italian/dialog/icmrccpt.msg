@@ -7,7 +7,7 @@
 {203}{}{All'erta, ragazzi, abbiamo un intruso!}
 {204}{}{Bene, sembra che qualcuno abbia voglia di farsi ammazzare…}
 {205}{}{Dannazione! Qualcuno ci ha scoperto!}
-{206}{}{Sbaglio o e' puzza di cadavere, quella che sento?}
+{206}{}{Hai un bel po’ di fegato a presentarti qui…}
 {207}{}{Sei appena entrata nel posto *sbagliato*, troia.}
 {208}{}{Beh, non si puo' dire che questa puttana non sia coraggiosa...}
 {215}{}{Sara' meglio richiamare presto quelle squadre della morte...}

@@ -86,33 +86,33 @@
 {231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
 {232}{}{Wait, that's not what I want!}
 {233}{}{Tack. Hej då.}
-{234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
-{235}{}{Fine! Something else then.}
-{236}{}{Why, you little...}
+{234}{}{Ja, det tror jag verkligen. Det måste vara en upplevelse för dig att försöka få tag på män. Leta vidare någon annanstans, syster. Välgörenhet är inte för mig.}
+{235}{}{Okej! Något annat då.}
+{236}{}{Åh, din lilla...}
 {237}{}{I don't need this from you!}
-{238}{}{I have a room over there. You and I can use it.}
+{238}{}{Jag har ett rum där borta. Du och jag kan använda det.}
 {239}{}{OK.}
-{240}{}{No, I didn't mean that!}
-{242}{}{Neither were you.}
-{243}{}{I might have tried if you knew how to please a woman.}
-{244}{}{You were the best I ever had. Really. I mean that.}
-{245}{}{I hate to eat and run, but...}
-{246}{}{Well, see you later.}
+{240}{}{Nej, det var inte det jag menade!}
+{242}{}{Det var inte du heller.}
+{243}{}{Jag hade kanske försökt om du visste hur man tillfredsställer en kvinna.}
+{244}{}{Du var den bästa jag någonsin varit med. Verkligen. Jag menar det.}
+{245}{}{Jag vill helst inte äta och sticka direkt, men...}
+{246}{}{Okej, vi ses senare.}
 {247}{}{Hej då.}
-{248}{}{Yeah, whatever. Just clean up after yourself this time, will ya?}
-{249}{}{Hey, everyone! Let's hear it for Billy. He's actually getting some!}
-{250}{}{You need a mop?}
-{251}{}{See ya in five.}
-{252}{}{Sheila! Watch the bar!}
-{253}{}{Hey, Billy, get outta here!}
-{254}{}{Now where were we?}
-{255}{}{Where are you, woman?}
-{256}{}{Would you get in here?}
-{257}{}{Come on, baby.}
+{248}{}{Ja, ja, hur som helst. Städa upp efter dig den här gången, okej?}
+{249}{}{Hej, allihop! En stor applåd för Billy. Han får faktiskt till det!}
+{250}{}{Behöver du en mopp?}
+{251}{}{Ses om fem.}
+{252}{}{Sheila! Håll koll på baren!}
+{253}{}{Hörru, Billy, stick härifrån!}
+{254}{}{Var var vi nu igen?}
+{255}{}{Var är du, kvinna?}
+{256}{}{Kan du komma in hit?}
+{257}{}{Kom igen, älskling.}
 {258}{}{Follow me.}
-{259}{}{No woman stands me up. Get the hell out!}
+{259}{}{Ingen kvinna lämnar mig i sticket. Dra härifrån!}
 {260}{}{Bra.}
-{261}{}{I forgot; I had something else I had to attend to right away. Please forgive me, baby.}
+{261}{}{Jag glömde; jag hade något annat jag var tvungen att ta itu med direkt. Förlåt mig, älskling.}
 {262}{}{I decided I didn't want to sleep with your ugly ass after all.}
 {263}{}{Lucky for you, I'm a nice guy. Just don't pull that crap with me again.}
 {264}{}{I won't, baby, I promise.}

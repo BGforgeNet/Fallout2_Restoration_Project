@@ -24,7 +24,7 @@
 {123}{}{Chi sei?}
 {124}{}{Volevo farti qualche domanda.}
 {125}{}{Stavo solo passando di qua. E credo che me ne andro' subito. Addio.}
-{126}{}{Ehila'. Io sono Marge. Marge LeBarge, e gestisco questa miniera. }
+{126}{}{Ehila'. Io sono Marge. Marge LeBarge, e gestisco questa miniera.}
 {127}{}{Cosa puo' fare Marge per te?}
 {128}{}{Che cosa estraete qui?}
 {129}{}{Hai mai sentito parlare di un qualcosa chiamato Kit di Creazione del Giardino dell'Eden?}
@@ -65,7 +65,7 @@
 {164}{}{Ottimo. Prima tornerai qui con il chip e meglio sara'.}
 {165}{}{Vedro' di fare del mio meglio. Prima, pero', lascia che ti chieda qualcos'altro.}
 {166}{}{Okay. Ci vediamo, allora.}
-{167}{}{Beh, ci sono sempre le solite voci che parlano di un'occupazione di Redding, o dei Wanamingo che escono di notte dal cimitero. Cavolo, qualcuno ha persino detto di aver visto una specie di macchina volante passare sopra la citta', qualche mese fa. }
+{167}{}{Beh, ci sono sempre le solite voci che parlano di un'occupazione di Redding, o dei Wanamingo che escono di notte dal cimitero. Cavolo, qualcuno ha persino detto di aver visto una specie di macchina volante passare sopra la citta', qualche mese fa.}
 {168}{}{Cos'altro volevi sapere?}
 {169}{}{Che cosa mi sai dire di questa "occupazione" di Redding?}
 {170}{}{Cos'e' un Wanamingo?}

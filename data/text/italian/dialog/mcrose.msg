@@ -13,7 +13,7 @@
 {159}{}{[Fai schioccare le labbra, le quali emettono un forte POP]}
 {160}{}{E' bello rivederti! Cosa posso fare per te?}
 {165}{}{Oh, cielo! Sei tu. Tutti non parlano d'altro che di te, dei rischi che hai corso per noi e di come tu abbia risolto il mistero della Fattoria Fantasma. Sappi che sarai sempre il benvenuto qui, e naturalmente tutti i pasti che farai qui non te li faro' pagare. Come ricompensa speciale, puoi anche rovistare nella cassetta degli oggetti smarriti e prendere quello che desideri.}
-{166}{}{L'eroe di Modoc! Bentornato. }
+{166}{}{L'eroe di Modoc! Bentornato.}
 {167}{}{Mi piacerebbe tanto mangiare subito una delle tue deliziose omelette.}
 {168}{}{Queste sono le parole che mi piace sentire. Un ragazzo che sta crescendo deve mangiare per conservare le forze e mi pare che tu non abbia mangiato in modo corretto, ultimamente. Siediti e da' un'occhiata al menu.}
 {169}{}{Ed e' giusto che tu lo sia. Quand'e' stata l'ultima volta che hai messo qualcosa di sostanzioso sotto i denti, ragazza mia? Beh, sei magra come un chiodo. Da' un'occhiata al menu e di' a Rose cosa vorresti mangiare.}
@@ -59,20 +59,20 @@
 {209}{}{Che cosa sai a proposito della Fattoria Fantasma?}
 {210}{}{Non ho mai visto un'omelette grande come quella che mi hai portato. Che tipo di animale depone uova cosi' grosse?}
 {211}{}{Di cos'e' fatto un canis burger?}
-{212}{}{Oh, cielo! Hai parlato con mio marito Cornelius? Tutta questa faccenda dell'orologio e' proprio terribile. Cornelius ha convinto l'intero paese che sia stato Farrel, il suo migliore amico, a rubare il suo orologio. Se hai parlato con lui, certamente ti sarai accorto che la sua testa non funziona perfettamente. Sono quasi certa che il mio povero caro abbia semplicemente lasciato il suo orologio da qualche parte e che si sia dimenticato dove. }
+{212}{}{Oh, cielo! Hai parlato con mio marito Cornelius? Tutta questa faccenda dell'orologio e' proprio terribile. Cornelius ha convinto l'intero paese che sia stato Farrel, il suo migliore amico, a rubare il suo orologio. Se hai parlato con lui, certamente ti sarai accorto che la sua testa non funziona perfettamente. Sono quasi certa che il mio povero caro abbia semplicemente lasciato il suo orologio da qualche parte e che si sia dimenticato dove.}
 {213}{}{Ora, se non ti serve altro, avrei altri clienti dei quali occuparmi.}
 {214}{}{Posso farti qualche altra domanda?}
 {215}{}{Un attimo, ho ancora fame.}
 {216}{}{Hai detto GECK? No, non posso dire di averlo mai sentito. Conosco una buona ricetta per una zuppa che richiede tre gecki. Ma no, non ho mai sentito nulla a proposito di un GECK.}
-{217}{}{[Ha un tremito involontario.] Sta' lontano da quel posto! I viaggiatori raccontano che laggiu' ci sono dei corpi in putrefazione legati a dei pali, e figure luminose che si muovono di notte tra i campi. Non so quanto di vero ci sia in questi racconti, ma so che un po' di tempo fa Karl si e' trasferito la' e da allora non si e' piu' visto. }
-{218}{}{Ah, hai mangiato l'omelette delle Lande. Deliziosa, vero? Alcuni dicono possegga proprieta' curative. [Si guarda in giro nervosamente.] Oh! Alcuni clienti sono appena entrati. Torno subito. [Hmm... Non ha risposto alla tua domanda.] }
-{220}{}{I nostri panini sono fatti esclusivamente con il migliore, super-selezionato, cane di prima qualita'. La carne viene macinata e raccolta in pasticci da mezza libbra. E per dare ai panini quel sapore affumicato che li rende speciali, vengono grigliati a fuoco lento sopra letame secco di brahmin. }
-{221}{}{Povera creatura. Sembri morto di fame. Vieni a sederti e lascia che Rose ti dia qualcosa da mangiare. [Lascia per un attimo il bancone e ritorna con una grossa omelette.] Adesso non ti muoverai da li' finche' non avrai finito di mangiare anche l'ultima briciola. }
-{222}{}{Mi spiace, siamo pieni. I membri di una grossa carovana hanno preso tutte le camere. }
+{217}{}{[Ha un tremito involontario.] Sta' lontano da quel posto! I viaggiatori raccontano che laggiu' ci sono dei corpi in putrefazione legati a dei pali, e figure luminose che si muovono di notte tra i campi. Non so quanto di vero ci sia in questi racconti, ma so che un po' di tempo fa Karl si e' trasferito la' e da allora non si e' piu' visto.}
+{218}{}{Ah, hai mangiato l'omelette delle Lande. Deliziosa, vero? Alcuni dicono possegga proprieta' curative. [Si guarda in giro nervosamente.] Oh! Alcuni clienti sono appena entrati. Torno subito. [Hmm... Non ha risposto alla tua domanda.]}
+{220}{}{I nostri panini sono fatti esclusivamente con il migliore, super-selezionato, cane di prima qualita'. La carne viene macinata e raccolta in pasticci da mezza libbra. E per dare ai panini quel sapore affumicato che li rende speciali, vengono grigliati a fuoco lento sopra letame secco di brahmin.}
+{221}{}{Povera creatura. Sembri morto di fame. Vieni a sederti e lascia che Rose ti dia qualcosa da mangiare. [Lascia per un attimo il bancone e ritorna con una grossa omelette.] Adesso non ti muoverai da li' finche' non avrai finito di mangiare anche l'ultima briciola.}
+{222}{}{Mi spiace, siamo pieni. I membri di una grossa carovana hanno preso tutte le camere.}
 {225}{}{Davvero!? Devi essere davvero assetato. Ho alzato il prezzo per scoraggiare i clienti dall'ordinarla. L'acqua potabile e' diventata una cosa molto preziosa da queste parti, con la siccita' e il pozzo secco. La vuoi lo stesso?}
 {226}{}{Si'! Ho un bisogno disperato d'acqua.}
 {227}{}{In realta', ho molta fame.}
-{228}{}{Mi spiace, abbiamo smesso di preparare omlette. Qualche pazzo si e' introdotto nella nostra stia e ha ucciso la nostra... gallina. }
+{228}{}{Mi spiace, abbiamo smesso di preparare omlette. Qualche pazzo si e' introdotto nella nostra stia e ha ucciso la nostra... gallina.}
 {229}{}{Ho molta fame, per cui vediamo cos'altro avete.}
 {230}{}{Peccato, non vedevo l'ora di assaggiare la tua omelette famosa in tutto il mondo. Credo che mi terro' la fame.}
 {231}{}{Ahh! Oogie!}

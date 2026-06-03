@@ -44,7 +44,7 @@
 {276}{}{}
 {277}{}{Tu! Tu sei quello che si e' beccato il jackpot della MIA slot! Quella con cui ho giocato per cinque... dannatissimi.. anni e da cui non ho cavato mai neanche una moneta!}
 {278}{}{Ernnhh?}
-{279}{}{Ehi, aspetta un... }
+{279}{}{Ehi, aspetta un --}
 {285}{}{Ci ho versato tutti i risparmi di una vita, in quella puttana con un braccio solo. E mai una volta che mi abbia dato soddisfazione. Poi arrivi TU e ti prendi tutto quanto! }
 {286}{}{Ti ho inquadrato, piccolo succhiacazzi!}
 {287}{}{Ti ho inquadrata, puttanella da quattro soldi!}
@@ -114,7 +114,7 @@
 {416}{}{}
 {417}{}{Tra un po' saranno cinque anni... Sono certo che questa macchinetta è sul punto di cedere. E quando lo fara'... JACKPOT! Eh eh eh!}
 {418}{}{Uh, ti auguro buona fortuna, allora.}
-{419}{}{Caaaaaaaavoli. Ci vediamo dopo, eh?}
+{419}{}{Faaaaantastico. Ci sentiamo dopo, allora.}
 {425}{}{}
 {426}{}{}
 {427}{}{(Sbuffa) Farti toccare la mia slot? E rovinarmi la fortuna?! Diavolo, no! Sparisci da qui!}

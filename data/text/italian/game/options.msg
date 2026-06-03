@@ -8,9 +8,9 @@
 {102}{}{DIFFICOLTA' LOTTA}
 {103}{}{LIVELLO VIOLENZA}
 {104}{}{EVIDENZIA BERSAGLIO}
-{105}{}{DESCRIZ. IN COMBAT.}
-{106}{}{MESSAGGI COMBAT.}
-{107}{}{INSULTI COMBAT.}
+{105}{}{DESCRIZ. IN COMBAT}
+{106}{}{MESSAGGI COMBAT}
+{107}{}{INSULTI COMBAT}
 {108}{}{FILTRO LINGUAGGIO}
 {109}{}{CORSA}
 {110}{}{SOTTOTITOLI}
@@ -23,12 +23,12 @@
 {117}{}{VOLUME VOCI}
 {118}{}{LIVELLO LUMINOSITA'}
 {119}{}{SENSIBILITA' MOUSE}
-{120}{}{PREDEF.}
-{121}{}{CANC.}
+{120}{}{PREDEF}
+{121}{}{CANC}
 {122}{}{Influenza velocita' giocatore}
 {123}{}{Voce del PipBoy}
 {201}{}{On}
-{202}{}{Off}
+{202}{}{Spento}
 {203}{}{Facile}
 {204}{}{Normale}
 {205}{}{Difficile}
@@ -53,5 +53,5 @@
 {224}{}{Largo}
 {300}{}{OK}
 {301}{}{PAUSA}
-{1000}{}{Sorry, the preferences menu is not}
-{1001}{}{available in the demo version.}
+{1000}{}{Spiacente, il menu delle preferenze non e'}
+{1001}{}{disponibile nella versione demo.}

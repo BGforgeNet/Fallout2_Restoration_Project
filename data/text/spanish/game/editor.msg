@@ -74,7 +74,7 @@
 {301}{}{Ptos acción}
 {302}{editor}{Clase de armad.}
 {303}{}{Daño desarmado}
-{304}{}{Daño a Melé}
+{304}{editor}{Melee Damage}
 {305}{}{Resist daño}
 {306}{}{Resis veneno}
 {307}{}{Resis radiación}

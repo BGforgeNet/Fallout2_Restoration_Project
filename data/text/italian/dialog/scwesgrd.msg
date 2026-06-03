@@ -1,5 +1,5 @@
 {100}{}{Vedi una guardia.}
-{101}{}{Vedi Grant, la guardia.}
+{101}{}{Vedi Grant, la guardia}
 {102}{}{Vedi una guardia. La sua armatura e le sue armi sono in eccellenti condizioni.}
 {103}{}{Questa e' proprieta' privata, sei pregato di girare al largo.}
 {104}{}{Chi vivere qui?}

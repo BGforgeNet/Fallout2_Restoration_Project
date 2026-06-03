@@ -170,3 +170,8 @@
 {573}{}{Ca ne me surprendrait pas.}
 {580}{}{Alors, tu te débines ? Ca m'étonne pas.}
 {581}{}{...}
+{1230}{}{Eloigne-toi de là tout de suite !}
+{1231}{}{N'y r'touche plus !}
+{1232}{}{Bas les pattes !}
+{1233}{}{Laisse ça tranquille !}
+{1234}{}{Non mais tu t'crois où ?}

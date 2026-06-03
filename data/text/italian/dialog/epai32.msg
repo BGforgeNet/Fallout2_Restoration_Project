@@ -1,12 +1,12 @@
-{100}{}{You see a functional computer.}
-{101}{}{You see the EPA's botany terminal.}
+{100}{}{Vedi un computer funzionante.}
+{101}{}{Vedi il terminale di botanica dell'EPA.}
 {200}{}{Benvenuto nel terminale di botanica dell'EPA. Seleziona una delle seguenti opzioni.}
-{201}{}{Access information database.}
-{202}{}{Access seed storage.}
+{201}{}{Accedi al database informazioni.}
+{202}{}{Accedi al deposito sementi.}
 {203}{}{Esci.}
 {210}{}{Attualmente sono disponibili due database da consultare. Effettua la tua scelta qui sotto.}
-{211}{}{Access file on crop rotation.}
-{212}{}{Access file on botany.}
+{211}{}{Accedi al file sulla rotazione delle colture.}
+{212}{}{Accedi al file di botanica.}
 {213}{}{Accedi al file sui test animali e biologici.}
 {214}{}{Indietro.}
 {220}{}{La rotazione delle colture evita la diminuzione della fertilita' del suolo, poiche' coltivare ripetutamente la stessa pianta nello stesso punto
@@ -32,9 +32,9 @@
 {240}{}{Questa struttura e' stata il luogo di vari esperimenti su diverse forme di vita animali e vegetali. Sono stati condotti test approfonditi
  su una forma di vita simile a una pianta chiamata pianta delle spore e su alcune creature simili ad animali note come Centauri, Fluttuanti e Radscorpioni.}
 {241}{}{Leggi sugli esperimenti botanici.}
-{242}{}{Read about Spore Plants.}
-{243}{}{Read about Centuars and Floaters.}
-{244}{}{Read about Radscorpions.}
+{242}{}{Leggi sulle Piante Sporigene.}
+{243}{}{Leggi sui Centauri e i Fluttuanti.}
+{244}{}{Leggi sugli Scorpioni Radioattivi.}
 {250}{}{Sono stati condotti vari esperimenti per far crescere nuove forme di vita vegetale. Diversi di questi tentativi hanno avuto successo
  e ora possono essere visti crescere in buone condizioni nell'arboreto. I serbatoi di stoccaggio indicano che sono ancora disponibili campioni di semi per ulteriori test.}
 {251}{}{La pianta delle spore e' una forma mutata di una pianta simile a una Venere acchiappamosche. Ulteriori test hanno mostrato che la pianta e' piuttosto
@@ -56,13 +56,13 @@
 {261}{}{I contenitori di stoccaggio dell'EPA indicano che ci sono ancora semi nel Serbatoio Due.}
 {262}{}{I contenitori di stoccaggio dell'EPA indicano che ci sono ancora semi nel Serbatoio Uno.}
 {263}{}{I contenitori di stoccaggio dell'EPA riportano che non ci sono piu' semi in nessuno dei Serbatoi.}
-{264}{}{Access Storage Tank One.}
+{264}{}{Accedi al Serbatoio di Stoccaggio Uno.}
 {265}{}{Accedi al Serbatoio Due.}
 {266}{}{Indietro.}
 {270}{}{Il Serbatoio Uno riporta 5 pacchetti rimanenti dal Programma di Potenziamento Alimentare degli Stati Uniti. I semi di mais sono stati geneticamente modificati
  per essere immuni a malattie e infestazioni di insetti.}
 {271}{}{Il Serbatoio Due riporta 2 pacchetti di semi rimanenti, ciascuno di famiglie simili o differenti. Non e' stata condotta alcuna ricerca e l'esito della germinazione e' sconosciuto.}
-{273}{}{Retrieve seeds.}
+{273}{}{Recupera i semi.}
 {280}{}{Raccolta dei campioni di semi... Raccolti con successo 5 pacchetti di semi di mais geneticamente modificati. Deposito dei pacchetti nel contenitore di raccolta... Successo...
  Chiusura del contenitore di stoccaggio... Successo.}
 {281}{}{Raccolta dei campioni di semi... Raccolti con successo 2 pacchetti di semi sconosciuti. Deposito dei pacchetti nel contenitore di raccolta... Successo...

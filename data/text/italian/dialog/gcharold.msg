@@ -54,7 +54,7 @@
 {153}{}{Grazie. Spero di essere un degno erede del mio antenato. Dato che sono qui, lascia che ti chieda qualcos'altro che potrebbe essermi d'aiuto.}
 {154}{}{E' stato un piacere. Lascia che ti chieda qualcos'altro.}
 {155}{}{Beh, e' una cosa normale per me. Adesso devo proprio andare, pero'. Persone da salvare, mostri da trucidare, disastri da prevenire, sai, questo genere di cose. Ci vediamo.}
-{156}{hld14}{Di solito tagli con la parte opposta alla lama, vero? Non hai l'aspetto di una buccia d'arancia lasciata al sole per un giorno intero. La tua pelle e' ancora liscia e morbida.}
+{156}{hld14}{Di solito tagli con la parte opposta alla lama, vero? Non hai l'aspetto di una buccia d'arancia lasciata al sole per un giorno intero. La tua pelle e' ancora liscia e morbida. }
 {157}{}{Uno a zero per te. Spero che la mia prossima domanda sia un po' piu' sensata.}
 {158}{}{Oh. Certo. Ehi, lascia che ti chieda qualcos'altro.}
 {159}{}{Farai meglio a non farti venire strane idee riguardo alla mia pelle morbida.}
@@ -94,7 +94,7 @@
 {193}{hld28}{Certo, beh, sono sicuro che qualche zucca vuota, molto simile a te, abbia detto la stessa cosa a proposito del Master.}
 {194}{}{Sembra una bella storia. Vorrei avere il tempo di ascoltarla, ma devo andare.}
 {195}{}{Il Master? Il mio antenato l'ha ucciso!}
-{196}{hld29}{Nulla, eh? Non me la dai a bere. Ci hai messo in un bel guaio. Che ne diresti di dartela a gambe mentre io penso al da farsi?}
+{196}{hld29}{Niente, eh? Sì, come no. Ci hai appena incasinati. Adesso levati dai piedi mentre penso a cosa fare.}
 {197}{}{Uh, mi dispiace.}
 {198}{}{Certo, sicuro. Fa' pure. Cavolo, tu cerchi di aiutare la gente e...}
 {199}{hld30}{Perche'?! Adesso Vault City sa quanto bisogno abbiamo dell'uranio di Broken Hills. Potrebbero tagliarci i rifornimenti e noi saremmo finiti.}
@@ -132,7 +132,7 @@
 {231}{hld39}{Davvero? Bene, bene, bene. Questo spiega un paio di cose. Mi domandavo perche' tu mi fossi familiare. Non ho ancora perso i due neuroni che mi rimangono.}
 {232}{}{Ci somigliamo cosi' tanto?}
 {233}{}{Dimmi com'era l'Abitante del Vault.}
-{234}{hld40}{Si', assomigliava proprio a quella. E, ora che ci penso, aveva anch'essa un 13.}
+{234}{hld40}{Si', assomigliava proprio a quella. E, ora che ci penso, aveva anch'essa un 13. }
 {235}{}{Veramente, questo e' il completo del mio antenato, l'Abitante del Vault.}
 {236}{hld41}{C'e' qualche somiglianza. Per quello che posso ricordare, ad ogni modo. Sai, il tuo antenato ci ha salvati tutti.}
 {237}{}{L'Abitante del Vault ha salvato tutti i ghoul?}
@@ -175,48 +175,48 @@
 {274}{hld53}{Beh, ci aiuterebbero solo se, nel farlo, pensassero di ottenere qualche vantaggio. Eh. E' difficile che succeda una cosa del genere.}
 {275}{}{Hmm, forse hai ragione. Pero', se qualcuno riuscisse a convincerli che aiutandovi farebbero anche il loro bene...}
 {276}{hld54}{Sparano a vista, ai ghoul. Cio' rende la conversazione un po' complessa.}
-{277}{}{E se glielo dicesse qualcun altro?}
+{277}{}{Mi chiedo se qualcun altro potrebbe dirglielo.}
 {278}{}{Si', immagino. Adesso avrei un'altra domanda.}
 {279}{}{Ehi, non si puo' mai sapere. Ci vediamo piu' tardi.}
-{280}{}{To the north}
-{281}{}{To the northwest}
-{282}{}{To the west}
-{283}{}{To the southwest}
-{284}{}{To the south}
-{285}{}{To the southeast}
-{286}{}{To the east of here}
-{287}{}{To the northeast}
-{288}{}{I don't understand.}
-{289}{}{I don't know.}
-{290}{}{That hurts.}
-{291}{}{That really hurts.}
-{292}{}{That's got to hurt.}
-{293}{}{I don't know anything about that.}
+{280}{}{A nord}
+{281}{}{A nordovest}
+{282}{}{A ovest}
+{283}{}{A sud-ovest}
+{284}{}{A sud}
+{285}{}{A sud-est}
+{286}{}{A est di qui}
+{287}{}{A nord-est}
+{288}{}{Non capisco.}
+{289}{}{Non lo so.}
+{290}{}{Questo fa male.}
+{291}{}{Questo fa davvero male.}
+{292}{}{Deve fare male.}
+{293}{}{Non ne so nulla.}
 {294}{}{Si'}
 {295}{}{No}
-{296}{}{Why do you talk to me this way?}
-{297}{}{You're not nice.}
-{298}{}{Thank you. }
-{299}{}{This is good.}
-{300}{}{This isn't good.}
-{301}{}{I have a good feeling about this.}
-{302}{}{I have a bad feeling about this.}
-{303}{}{These people are crazy.}
-{304}{}{I didn't learn anything.}
-{305}{}{I learned something}
-{306}{}{Is everyone else crazy here?}
-{307}{}{There must be another way.}
+{296}{}{Perché mi parli in questo modo?}
+{297}{}{Non sei gentile.}
+{298}{}{Grazie. }
+{299}{}{Questo è un bene.}
+{300}{}{Questo non va bene.}
+{301}{}{Ho un buon presentimento al riguardo.}
+{302}{}{Ho un brutto presentimento.}
+{303}{}{Queste persone sono pazze.}
+{304}{}{Non ho imparato nulla.}
+{305}{}{Ho imparato qualcosa}
+{306}{}{Sono tutti pazzi qui?}
+{307}{}{Ci deve essere un altro modo.}
 {308}{}{Seguimi.}
-{309}{}{Try this.}
-{310}{}{Come here.}
-{311}{}{I'm scared.}
-{312}{}{I'm worried.}
-{313}{}{I found something.}
-{314}{}{I got lucky.}
-{315}{}{You need to fix this.}
-{316}{}{You need to turn this on.}
-{317}{}{You need to unlock this.}
-{318}{}{You need to open this.}
-{319}{}{Maybe we should come back here.}
+{309}{}{Prova questo.}
+{310}{}{Vieni qui.}
+{311}{}{Ho paura.}
+{312}{}{Sono preoccupato.}
+{313}{}{Ho trovato qualcosa.}
+{314}{}{Ho avuto fortuna.}
+{315}{}{Devi sistemare questa cosa.}
+{316}{}{Devi accendere questo.}
+{317}{}{Devi sbloccarlo.}
+{318}{}{Devi aprire questo.}
+{319}{}{Forse dovremmo tornare qui.}
 {320}{}{Non mento. Faro' in modo che il reattore sia riparato. In un modo o nell'altro. Hmm, mi domando se posso convincere Festus a farlo. Oh beh, ci vediamo.}
 {321}{}{Ehi, Harold. Ho qui con me il dispositivo che vi serve per riparare il vostro reattore. Vado a provare ad installarlo. Tornero' a riferire quando ho fatto. Ci vediamo.}

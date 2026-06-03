@@ -7,23 +7,23 @@
 {106}{}{Un muh-muh-mutante! Aiuto!}
 {107}{}{Un gah-gah-ghoul! Aiuto!}
 {108}{}{::Bum-ba-bum-ba::}
-{109}{}{2 Seconds}
+{109}{}{2 Secondi}
 {110}{}{"Maaaay-beeee..."}
-{111}{}{2 Seconds}
+{111}{}{2 Secondi}
 {112}{}{"Yoooou'll think of meee...when you are alllll alone..."}
-{113}{}{2 Seconds}
+{113}{}{2 Secondi}
 {114}{}{"Maaaay-beeee...the one whooo...is waaaaah-ting for yooou..."}
-{115}{}{2 Seconds}
-{116}{}{"...will prove un-truuuuuue..."}
-{117}{}{2 Seconds}
-{118}{}{"...then what will yooou dooooo?"}
-{119}{}{2 Seconds}
+{115}{}{2 Secondi}
+{116}{}{"...si rivele-raaaa falsooo..."}
+{117}{}{2 Secondi}
+{118}{}{"...e allora cosa faraaai tuuuu?"}
+{119}{}{2 Secondi}
 {120}{}{::Mima un applauso, e simula il boato di un pubblico::}
-{121}{}{2 Seconds}
+{121}{}{2 Secondi}
 {122}{}{Grah-grah-grazie, grah-grah-grazie... siete un puh-puh-pubblico magnifico.}
-{123}{}{2 Seconds}
+{123}{}{2 Secondi}
 {124}{}{Un bih-bis? Ouh-okay!}
-{125}{}{*Snfff*}
+{125}{}{*Annusa*}
 {126}{}{Cos-?! Aighhh!}
 {127}{}{Aieeeee!}
 {128}{}{Whoa, calma!}

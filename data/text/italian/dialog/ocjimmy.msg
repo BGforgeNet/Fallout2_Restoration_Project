@@ -3,10 +3,10 @@
 {102}{}{Vedi un uomo alto e dinoccolato che indossa degli occhiali spessi. Parla da solo girando per la stanza e la sua fronte e' corrugata in profondi pensieri.}
 {103}{}{Oh, salve. Io sono Jim, o Jimmy. Cosa ci fai qui?}
 {104}{}{Me guarda intorno.}
-{105}{}{Me }
+{105}{}{Me}
 {106}{}{Uh... Me gironzola. Me va ora.}
 {107}{}{Stavo solo dando un'occhiata in giro.}
-{108}{}{Ciao, Jim. Io sono }
+{108}{}{Ciao, Jim. Io sono}
 {109}{}{Non sono affari tuoi, quattr'occhi. Stammi lontano.}
 {110}{}{Stavo solo facendo un giro. Adesso me ne vado.}
 {111}{}{Guarda pure tutto quello che vuoi, ma per favore non toccare nulla. Qui dentro ci sono degli strumenti delicati.}
@@ -15,7 +15,7 @@
 {114}{}{Sei noioso. Vattene.}
 {115}{}{Ehi, scusa. Non avevo intenzione di pestarti i piedi. Ti lascio ai tuoi affari.}
 {116}{}{Bene.}
-{117}{}{E' un piacere conoscerti, }
+{117}{}{E' un piacere conoscerti,}
 {118}{}{Cosa vorresti sapere?}
 {119}{}{Cosa fare qui dentro?}
 {120}{}{Cosa essere tutte queste macchine?}
@@ -54,7 +54,7 @@
 {153}{}{Okay, me chiede altro.}
 {154}{}{Perche'? Voglio dire, non e' strana una cosa del genere?}
 {155}{}{Capisco. Parliamo d'altro.}
-{156}{}{Non conosco l'intera storia, ma ad un certo punto della storia del vault ci fu una ribellione. Il Supervisore fu ucciso o rovesciato, non sono sicuro. Ad ogni modo, i capi della rivoluzione non vollero affidare il destino della gente nelle mani di un altro Supervisore, per cui installarono questo mainframe. Le cronache dicono che fu acquistato da... oh, qual era quel nome... ah, ora ricordo, la "Confraternita d'Acciaio".}
+{156}{}{Non conosco l'intera storia, ma ad un certo punto della storia del vault ci fu una ribellione. Il Supervisore fu ucciso o rovesciato, non sono sicuro. Ad ogni modo, i capi della rivoluzione non vollero affidare il destino della gente nelle mani di un altro Supervisore, per cui installarono questo mainframe. Le cronache dicono che fu acquistato da... oh, qual era quel nome... ah, ora ricordo, la "Confraternita d'Acciaio."}
 {157}{}{Potere tu parlare di Confraternita?}
 {158}{}{Puoi dirmi qualcosa a proposito di questa Confraternita?}
 {159}{}{No, mi dispiace, non ho informazioni su di loro. Tutto e' successo diversi anni fa e non ho mai trovato altri riferimenti a loro oltre a questo. Tuttavia, e' mia opinione che la Confraternita fosse un corpo militare e a ovest di qui ci sono delle vecchie rovine di quella che sembrerebbe essere una base militare. Potrebbe essere cio' che rimane di loro.}

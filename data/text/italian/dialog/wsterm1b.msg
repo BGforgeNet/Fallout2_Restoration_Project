@@ -1,8 +1,15 @@
 {100}{}{Un terminale di computer.}
 {101}{}{Il salvaschermo e' in funzione.}
 {102}{}{Non sei in grado di leggere quello che c'e' sul monitor.}
-{103}{}{Skynet: Sistemi di Sicurezza                                     Intruso - Livello 1                                            Attivazione Contromisure - Livello 1                                Contromisure - Trasmissione interrotta                              Attivazione Sistemi di Riparazione Automatici in corso.}
-{104}{}{Skynet: Sistemi di Sicurezza                                     Intruso - Livello 1                                         Attivazione Contromisure - Livello 1                                Tentativo di reinoltrare energia ai generatori dei campi di forza in corso.}
+{103}{}{Skynet: Sistemi di Sicurezza
+                                     Intruso - Livello 1
+                                            Attivazione Contromisure - Livello 1
+                                Contromisure - Trasmissione interrotta
+                              Attivazione Sistemi di Riparazione Automatici in corso}
+{104}{}{Skynet: Sistemi di Sicurezza
+                                     Intruso - Livello 1
+                                         Attivazione Contromisure - Livello 1
+                                Tentativo di reinoltrare energia ai generatori dei campi di forza in corso}
 {105}{}{Skynet: Sistemi di Sicurezza                                      Intruso - Livello 1                                           Attivazione Contromisure - Livello 1}
 {106}{}{Annullare Allarme - Livello 1 - Falso Allarme}
 {107}{}{[Noti un tasto della tastiera sul quale c'e' scritto "Aiuto"]. Premi tasto.}

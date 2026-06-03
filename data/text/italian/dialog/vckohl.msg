@@ -38,8 +38,8 @@
 {137}{}{Sa dove potrei trovare il Vault?}
 {138}{}{Per oggi niente, grazie.}
 {139}{}{Un GECK? Questo nome mi suona familiare. Che cosa fa, esattamente?}
-{140}{}{Veramente... non lo so nemmeno io. A sentire quello che dice l'Anziana del mio villaggio, dovrebbe essere una specie di panacea per il mio villaggio. Io sono un po' piu' scettico. }
-{141}{}{Non saprei dirlo. }
+{140}{}{Veramente... non lo so nemmeno io. A sentire quello che dice l'Anziana del mio villaggio, dovrebbe essere una specie di panacea per il mio villaggio. Io sono un po' piu' scettico.}
+{141}{}{Non saprei dirlo.}
 {142}{}{Posso farle qualche altra domanda?}
 {143}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {144}{}{Il Vault? Beh, l'entrata si trova proprio alla fine della strada... e' quel grande foro nel fianco della montagna.}
@@ -65,7 +65,7 @@
 {164}{}{Obsoleta?}
 {165}{}{Oh. Avrei delle altre domande...}
 {166}{}{Mi dispiace. Devo andare.}
-{167}{}{Vuol dire che la mia figura qui non e' piu' necessaria. E' per il bene della comunita'... }
+{167}{}{Vuol dire che la mia figura qui non e' piu' necessaria. E' per il bene della comunita'...}
 {168}{}{Al Consiglio si sta discutendo la possibilita' di installare un terminale informatico in ogni casa. Questi nuovi terminali sarebbero tutti collegati al Server Centrale e agli Archivi Informatici. Una volta fatto cio', il Centro Informazioni... ed io... diventeremo inutili. Ma le cose in citta' miglioreranno, davvero.}
 {169}{}{Ne sei sicura?}
 {170}{}{Oh. Avrei delle altre domande...}
@@ -94,13 +94,13 @@
 {193}{}{! Ben fatto! Bravo!}
 {194}{}{Oh, lo faro' di sicuro! Vorrei che ci fossero piu' persone che lo facessero.}
 {195}{}{Condivido pienamente il sentimento! E' passato un po' da quando ho visto qualcuno anche solo minimamente interessato. Conoscevo un mercante che condivideva la passione pero'...}
-{196}{}{Really? Used to?}
-{197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
+{196}{}{Davvero? Una volta?}
+{197}{}{Bene, è bello sapere che non sono l’unico. Posso chiederti qualcos’altro?}
 {198}{}{Beh, spero che ci siano piu' persone come noi in giro. Grazie mille e arrivederci!}
 {199}{}{Si', veniva nel cortile per commerciare bevande alcoliche, ma entrava per comprare libri da me. Non gli avrei nemmeno fatto pagare nulla, ma insisteva. Diceva che alla sua gente, a casa, piacevano molto.}
 {200}{}{Wow, e' un pensiero davvero confortante! Da dove veniva?}
-{201}{}{Why doesn't he come around anymore?}
+{201}{}{Perché non passa più da queste parti?}
 {202}{}{Diceva che era un posto chiamato l'Abbazia, un po' a nord di qui. Mi ha perfino mostrato esattamente dove, proprio... qui. Mi piacerebbe vederla, ma la vista del cortile e' gia' abbastanza per farmi andare nel panico.}
 {203}{}{Beh, suppongo che possa aver provato a vendere bevande alcoliche dentro la citta'. E' illegale, sai.}
-{204}{}{Ah, most unfortunate. Well, thank you for the information. Mind if I ask you something else?}
+{204}{}{Ah, che sfortuna. Grazie per l’informazione. Posso chiederti qualcos’altro?}
 {205}{}{Ah, ha tirato troppo la corda. Da dove diceva di venire?}

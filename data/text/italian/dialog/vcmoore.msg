@@ -24,7 +24,7 @@
 {123}{}{Si'! Sappi che e' giunto il TEMPO... il tempo per questa citta', costruita sul peccato e la schiavitu', di aprire i suoi cancelli a tutti! }
 {124}{}{Devo andare. E' stato bello parl... er, ascoltarti.}
 {125}{}{Allora lascia che ti chieda questo, amico mio - fino a che PUNTO sei disposto a diffondere il verbo?}
-{126}{}{Beh, dipende da quanti soldi hai con te... "amico".}
+{126}{}{Beh, dipende da quanti soldi hai con te... "amico."}
 {127}{}{Nessuna distanza e' troppo grande... nessun fossato e' troppo largo, quando la causa e' giusta e il verbo veritiero. Qualunque cosa si debba fare, io la faro'!}
 {128}{}{Non mi piace la piega che sta prendendo questa conversazione. Buona giornata.}
 {129}{}{Anche se significasse l'esilio da quest'oasi?}
@@ -33,7 +33,7 @@
 {132}{}{Non saprei... che cosa vuoi che faccia?}
 {133}{}{Hmmm. Beh, dal momento che la metti su questo piano... no, credo di no. Buon giorno.}
 {134}{}{(Si avvicina.) Ho una valigetta... contenente informazioni vitali per la nostra causa. La porteresti fino a New Reno per me? Lo farei io, ma i Cittadini mi tengono d'occhio...}
-{135}{}{Quindi ammetti di avere dei legami con New Reno, eh? Questo ti costera'... "amico".}
+{135}{}{Quindi ammetti di avere dei legami con New Reno, eh? Questo ti costera'... "amico."}
 {136}{}{Certo. Dammela pure.}
 {137}{}{No, grazie... e' un pochino troppo rischioso per me. Considerami fuori.}
 {138}{}{Eccola... consegnala ad un uomo, John Bishop, a New Reno. Cammina facendo attenzione, figliolo, e porta il verbo con te.}

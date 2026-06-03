@@ -7,5 +7,5 @@
 {106}{}{Questo e' il computer che il PipBoy ha detto di usare.}
 {107}{}{Non succede nulla.}
 {108}{}{Con l'aiuto delle informazioni presenti nel tuo PipBoy, accedi al computer.}
-{109}{}{Whoa.}
+{109}{}{Wow.}
 {110}{}{Hai imparato TONNELLATE di informazioni riguardanti Fallout 2.}

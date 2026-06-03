@@ -27,7 +27,7 @@
 {136}{}{(ti guarda e poi scuote la testa)}
 {137}{}{(ti fa un gesto finemente volgare)}
 {138}{}{Probabilmente sei tu il responsabile delle mutilazioni sui brahmin.}
-{139}{}{Some of our trappers' have gone missing; you're prob'ly why.}
+{139}{}{Alcuni dei nostri cacciatori sono scomparsi; probabilmente è colpa tua.}
 {140}{}{Ci sono degli uomini-insetto che si aggirano nei pressi della citta'.}
 {141}{}{C'e' un fantasma nel canyon a est del paese.}
 {142}{}{Non farti beccare dallo Spirito!}
@@ -56,7 +56,7 @@
 {170}{}{Uno dei nostri migliori trapper e' scomparso.}
 {201}{}{Beh, questa bevuta mi ha proprio rinfrescato la gola.}
 {202}{}{Grazie.}
-{203}{}{Mmm-mmh... "fenomenaly"!}
+{203}{}{Mmm-mm… buono.}
 {204}{}{Non c'e' niente di meglio della Buckner's Best.}
 {205}{}{Grazie per la bevuta.}
 {206}{}{Huzzah!}

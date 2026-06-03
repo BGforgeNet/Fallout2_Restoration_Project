@@ -12,7 +12,7 @@
 {160}{}{Vedi una delle clienti del casino'. Ti strizza vistosamente l'occhio, poi si allontana barcollando.}
 {161}{}{Vedi una delle clienti del casino'. Sta cercando di attirare l'attenzione del cameriere.}
 {200}{}{::Applaude::}
-{201}{}{::Cheers::}
+{201}{}{::Saluti::}
 {202}{}{Sei stato grande ad incenerire il culo a quei bastardi dell'Enclave! Cosi' si fa!}
 {203}{}{Sei stato grande a distruggere l'Enclave, }
 {204}{}{Congratulazioni per aver schiacciato l'Enclave, }
@@ -56,7 +56,7 @@
 {242}{}{Non sembri poi cosi' forte, signor "Gancio Sinistro".}
 {243}{}{Posso vedere i tuoi addominali in flessione?}
 {244}{}{Whoa. Guardate un po'.}
-{245}{}{Guardate un po' chi abbiamo qui.}
+{245}{}{Ma guarda un po’.}
 {246}{}{::Dice silenziosamente la parola "cazzo"::}
 {247}{}{Lo SAPEVO che oggi dovevo farmi la barba.}
 {248}{}{Vieni a chiacchierare con me per un po', tettine d'oro.}
@@ -175,7 +175,7 @@
 {361}{}{Lo SAPEVO che oggi dovevo farmi la barba.}
 {362}{}{Vieni a chiacchierare con me per un po', tettine d'oro.}
 {363}{}{Dai, labbra di zucchero... vieni a fare due passi con me.}
-{364}{}{Sei una piccola civetta leggiadra...}
+{364}{}{Furbetta agile, eh?}
 {365}{}{Per te sarei disposto persino a farmi il bagno.}
 {366}{}{Ho qui la tua filmografia completa.}
 {367}{}{Ma fin dove arrivano quelle gambe?}

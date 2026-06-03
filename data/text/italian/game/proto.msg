@@ -26,7 +26,7 @@
 {253}{}{plasma}
 {254}{}{elettrico}
 {255}{}{emp}
-{256}{}{esplos.}
+{256}{}{esplosione}
 {300}{}{No}
 {301}{}{Razzo}
 {302}{}{Gel per Lanciafiamme}
@@ -121,8 +121,8 @@
 {547}{}{ e impugna %s con %d/%d munizioni %s.}
 {548}{}{L'automobile non sembra funzionare.}
 {549}{}{L'automobile ha il %d%% di carburante.}
-{550}{}{\nError: lookup_val out of range!}
-{551}{}{\nError: obj_examine: proto_ptr failed!}
+{550}{}{\nErrore: lookup_val fuori intervallo!}
+{551}{}{\nErrore: obj_examine: proto_ptr non riuscito!}
 {580}{}{Usi %s.}
 {581}{}{Usi %s su %s.}
 {582}{}{Non ha effetto.}
@@ -160,7 +160,7 @@
 {674}{}{Ci provero'.}
 {675}{}{Non posso farlo.}
 {676}{}{Non credo di poterlo fare.}
-{677}{}{Arf!}
+{677}{}{Ouaf!}
 {678}{}{Uff!}
 {700}{}{Non hai abbastanza Punti Azione.}
 {800}{}{Leggi il libro.}

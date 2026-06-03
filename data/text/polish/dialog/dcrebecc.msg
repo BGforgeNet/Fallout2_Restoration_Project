@@ -172,3 +172,8 @@
 {573}{}{Nie zaskoczyłoby mnie to.}
 {580}{}{Więc, ty też tchórzysz?}
 {581}{}{...}
+{1230}{}{Odsuń się od tych drzwi!}
+{1231}{}{Nigdy więcej tego nie dotykaj.}
+{1232}{}{Cofnij się!}
+{1233}{}{Nie dotykaj tych drzwi.}
+{1234}{}{Co ty właściwie robisz, co?}

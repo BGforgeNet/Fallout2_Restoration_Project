@@ -39,10 +39,10 @@
 {138}{}{Continua.}
 {139}{}{Il tipo che ha aiutato a creare la citta' e' ancora in carica? Ma ormai dovrebbe essere molto, molto vecchio.}
 {140}{}{Grazie. Ciao.}
-{141}{}{A parte il fatto che i mutanti sono tutti MORTI e che questa citta' e' CONDANNATA... }
-{142}{}{A parte il fatto che i mutanti sono morti e la nostra unica fonte di sostentamento e' stata distrutta... }
-{143}{}{A parte il tuo voler fare l'eroe, svelando la corruzione che si annidava in mezzo a noi... }
-{144}{}{A parte l'aver scoperto di avere un cancro in mezzo a noi, dopo la fuga di Franc e Manson... }
+{141}{}{A parte il fatto che i mutanti sono tutti MORTI e che questa citta' e' CONDANNATA...}
+{142}{}{A parte il fatto che i mutanti sono morti e la nostra unica fonte di sostentamento e' stata distrutta...}
+{143}{}{A parte il tuo voler fare l'eroe, svelando la corruzione che si annidava in mezzo a noi...}
+{144}{}{A parte l'aver scoperto di avere un cancro in mezzo a noi, dopo la fuga di Franc e Manson...}
 {145}{}{A parte il tradimento ai danni della citta' ad opera di Chad e della tua giustizia -... della quale ti siamo tutti davvero grati -– }
 {146}{}{Non molte, in verita'...}
 {147}{}{Ho delle altre domande.}

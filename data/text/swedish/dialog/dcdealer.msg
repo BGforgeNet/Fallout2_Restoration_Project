@@ -1,10 +1,10 @@
-{100}{}{You see a drug dealer.}
-{101}{}{You see a drug dealer.}
-{102}{}{If you are looking to deal, I got the stuff.}
-{103}{}{Sure, show me.}
-{104}{}{Maybe some other time.}
-{105}{}{Find what you need?}
+{100}{}{Du ser en knarklangare.}
+{101}{}{Du ser en knarklangare.}
+{102}{}{Om du är ute efter att göra en affär, så har jag det du söker.}
+{103}{}{Visst, visa mig.}
+{104}{}{Kanske en annan gång.}
+{105}{}{Hittade du det du letade efter?}
 {106}{}{Tack. Hej då.}
-{200}{}{You see a thug.}
-{201}{}{You see a thug.}
-{202}{}{I'm here for protection. Talk to the dealer if you wanna buy.}
+{200}{}{Du ser en ligist.}
+{201}{}{Du ser en ligist.}
+{202}{}{Jag är här för att skydda stället. Prata med langaren om du vill köpa något.}

@@ -74,7 +74,7 @@
 {301}{}{Punkty akcji}
 {302}{editor}{Klasa pancerza}
 {303}{}{Obrażenia bez broni}
-{304}{}{Obr. wal. wręcz}
+{304}{editor}{Melee Damage}
 {305}{}{Odp. na obr.}
 {306}{}{Odp. na truc.}
 {307}{}{Odp. na prom.}

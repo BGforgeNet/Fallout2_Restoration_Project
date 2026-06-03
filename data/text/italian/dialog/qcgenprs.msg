@@ -54,7 +54,7 @@
 {153}{}{Prima la siccita' e adesso questo.}
 {154}{}{Basta aghi, basta!}
 {155}{}{Non ce la faccio piu'! Sento i muri che mi opprimono!}
-{156}{}{(Sob, sob)}
+{156}{}{(Sniff, sniff)}
 {157}{}{Fate uscire la mia gente!}
 {158}{}{Anziana, guidateci voi!}
 {159}{}{Cosa abbiamo fatto per offendere questi spiriti maligni?}

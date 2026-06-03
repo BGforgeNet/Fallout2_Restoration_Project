@@ -52,7 +52,7 @@
 {211}{}{Dobra, ale to już OSTATNIA szansa.}
 {212}{}{Mądry chłopiec.}
 {213}{}{No to chyba muszę cię zabić.}
-{220}{}{Hej, Frankie, mogę na trochę zając pokój na zapleczu?}
+{220}{}{Hej, Frankie, mogę na trochę zająć pokój na zapleczu?}
 {221}{}{Hej, Frankie, zobacz, co złowiłem.}
 {222}{}{Eee, Frankie, jakby ktoś... eee... o mnie pytał, to jestem za zapleczu.}
 {223}{}{Chodź za mną.}

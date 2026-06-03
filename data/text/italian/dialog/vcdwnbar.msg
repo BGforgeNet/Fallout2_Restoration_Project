@@ -16,7 +16,7 @@
 {115}{}{Mi spiace, le ordinazioni sono chiuse. Torna domattina.}
 {116}{}{Siamo chiusi. Appena avro' finito di compilare la lista delle scorte del locale me ne andro' a letto.}
 {117}{}{Ehila', Prescelto! Stavamo giusto parlando delle tue avventure... posso portarti qualcosa da bere?}
-{118}{}{Lazzo, pazzo, come pozzo nero puzzo.}
+{118}{}{Lazzo, pazzo, come pozzo nero puzzo}
 {119}{}{-Allontanati-}
 {120}{}{Cosa avete da bere?}
 {121}{}{Vorrei alcune informazioni.}
@@ -34,14 +34,14 @@
 {133}{}{Uh... cosa posso fare per lei, Capitano?}
 {134}{}{Cosa posso fare per te, Cittadino?}
 {135}{}{Si'? Posso aiutarla?}
-{136}{}{Ti? Tu? Tuu? Tuiiiii. Ptuiiiii essere suono che altri fare quando vedere me.}
+{136}{}{Ti? Tu? Tuu? Tuiiiii. Ptuiiiii essere suono che altri fare quando vedere me}
 {137}{}{-Allontanati-}
 {138}{}{Cosa avete da bere?}
 {139}{}{Vorrei alcune informazioni.}
 {140}{}{Ho la partita di alcolici che mi avevi chiesto.}
 {141}{}{Per oggi niente, grazie.}
 {142}{}{Credo che questa sia la cosa piu' affascinante che io abbia mai sentito. Voglio che anche le guardie la sentano... aspetta.}
-{143}{}{Ta? To. Tu. Tuuu sexiiii for mai cloooss.}
+{143}{}{Ta? To. Tu. Tuuu sexiiii for mai cloooss}
 {144}{}{-Allontanati-}
 {145}{}{Abbiamo birra e liquori sintetici... vodka-H, e i derivati W e W2 della tequila. Oh, e acqua. E latte di brahmin. La birra e gli altri alcolici sintetici vengono 10 dollari, acqua o latte tre.}
 {146}{}{Tipo...?}

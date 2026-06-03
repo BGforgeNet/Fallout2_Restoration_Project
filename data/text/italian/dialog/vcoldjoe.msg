@@ -21,10 +21,10 @@
 {120}{}{Ian?}
 {121}{}{Certo, Ian. Non ti ricordi di me? Sono passati un sacco di anni. Pensavo che non avresti mai dimenticato il tuo migliore amico. Beh... a parte quella faccenda degli spari alla schiena. Scusami ancora per quello.}
 {122}{}{Mi dispiace, ma forse mi hai scambiato l'Abitante del Vault. Il mio villaggio e' stato fondato da una persona che proveniva dal Vault.}
-{123}{}{Beh, questo spiega un po' le cose. Beh, mi fa piacere sentire che il mio amico ha fatto qualcosa di buono. Beh, il vecchio Ian ha un consiglio per te. Sta' attento. Questo posto non e' cosi' candido come sembra.}
+{123}{}{Beh, questo spiega un po' le cose. Beh, mi fa piacere sentire che il mio amico ha fatto qualcosa di buono. Beh, il vecchio Ian ha un consiglio per te. Sta' attento. Questo posto non e' cosi' candido come sembra. }
 {124}{}{Cosa sta succedendo?}
 {125}{}{Beh, i Cittadini di Vault City tengono molto alla loro stirpe e non considerano molto le persone come me e te. Prendi questa. Ti proteggera' se le cose dovessero complicarsi un po'. Probabilmente non dovresti farti vedere a parlare con un vecchio pazzo. Farai meglio ad andartene.}
-{126}{}{Thanks for your help. Bye.}
+{126}{}{Grazie per l’aiuto. Addio.}
 {127}{}{Lascia riposare questo povero vecchio.}
 {128}{}{Cosi' familiare...}
 {129}{}{Adesso lasciami solo.}
@@ -36,33 +36,33 @@
 {135}{}{Sta cercando di procurarsi delle armi. Pensa che con un po' di potenza di fuoco potrebbero tenere a bada le pattuglie di Vault City.}
 {136}{}{Ah, quindi questo e' il suo nuovo piano, eh? Bene, vai al negozio di Happy Harry. Di' a Harry che ti manda Connar, e dovrebbe sistemarti -- credo che abbia qualche arma nascosta proprio per un'occasione del genere. Ma se vuoi il mio parere, non sono sicuro che sia il modo migliore di affrontare la situazione.}
 {137}{}{Allora vado a parlare con Harry. Stammi bene, vecchio amico.}
-{138}{}{Why, what do you mean?}
+{138}{}{Perché, cosa intendi?}
 {139}{}{Connar e la sua gente hanno un forte spirito combattivo, ma in questo caso non bastera'. Vault City ha risorse quasi illimitate, e alla fine avra' la meglio. A volte e' meglio parlare e cercare di ragionare con le persone. E' una lezione che ho imparato dal mio vecchio amico, l'Abitante del Vault. Il Consigliere Anziano McClure si e' dimostrato un uomo ragionevole. Forse si puo' trovare un accordo con lui?}
 {140}{}{Hmm... potrei doverci pensare. Grazie di tutto, ciao.}
 {141}{}{Forse andro' a parlare con lui allora. Tuttavia, ero curioso riguardo alle talpe giganti che stanno proteggendo il villaggio.}
 {142}{}{Si', cosa vuoi dirmi?}
-{143}{}{Any idea where they're from or who's controlling them?}
+{143}{}{Hai idea da dove vengano o chi li controlli?}
 {144}{}{Di quello non sono sicuro. Un gruppo di ghoul e' passato con loro. Portavano strani amuleti e parlavano di una sorta di "Rinascita". Questo e' piu' o meno tutto cio' che so. Potresti voler dare un'occhiata a Gecko comunque. Quel posto pullula di ghoul. A proposito di grossi ratti, ti ho mai raccontato di quando l'Abitante del Vault ed io siamo andati al Vault 15?}
 {145}{}{No, ma conosco bene la storia, e' diventata una leggenda sacra nella mia tribu'. Comunque, forse andro' a vedere cosa posso trovare a Gecko. Stammi bene, Ian.}
-{146}{}{Uh, thanks for the tip. I think you are the man I need to see though. Connar sent me to ask you for some things.}
-{147}{}{Wait a minute! Connar told me you have some information.}
+{146}{}{Grazie della dritta. Credo però che tu sia la persona con cui devo parlare: Connar mi ha mandato a chiederti alcune cose.}
+{147}{}{Un momento! Connar mi ha detto che hai delle informazioni.}
 {148}{}{No, ma conosco bene la storia, e' diventata una leggenda sacra nella mia tribu'. Comunque, forse andro' a vedere cosa posso trovare a Gecko. Stammi bene.}
 {150}{}{Era interessato a procurarsi delle armi per respingere le pattuglie di Vault City, ma l'ho convinto che c'e' una soluzione migliore.}
 {151}{}{Ah, quindi questo e' il suo nuovo piano, eh? Si', Connar e' un brav'uomo, ma non sempre pensa le cose fino in fondo. A volte e' meglio parlare e cercare di ragionare con le persone. E' una lezione che ho imparato dal mio vecchio amico, l'Abitante del Vault.}
-{152}{}{Well, any idea who on the council I might be able to talk to?}
+{152}{}{Hai idea con chi del consiglio potrei parlare?}
 {153}{}{Penso che il Consigliere Anziano McClure possa essere l'uomo giusto con cui parlare. Che ne pensi?}
 {154}{}{Il Consigliere Anziano McClure e' un uomo intelligente qui a Vault City. Forse si puo' trovare un accordo con lui?}
-{155}{}{Alright. I'll try to speak with him. Bye.}
+{155}{}{D’accordo. Proverò a parlare con lui. Addio.}
 {156}{}{Forse andro' a parlare con lui allora. Tuttavia, ero curioso riguardo alle talpe giganti che stanno proteggendo il villaggio.}
 {157}{}{Sarebbe la tua scelta migliore. E' l'unico nel consiglio ad avere ancora un briciolo di ragionevolezza.}
-{158}{}{Alright. I'll try to speak with him. Bye.}
+{158}{}{D’accordo. Proverò a parlare con lui. Addio.}
 {159}{}{Allora andro' a parlare con lui. Tuttavia, ero curioso riguardo alle talpe giganti che stanno proteggendo il villaggio.}
 {200}{}{Ehi, se sei davvero lo stesso Ian che viaggio' con il mio antenato, allora ho una domanda per te.}
-{201}{}{Alright, let's hear it.}
+{201}{}{D’accordo, sentiamo.}
 {202}{}{Come diavolo fai a essere ancora vivo? Devi avere piu' di cent'anni. Senza contare le memorie dell'Abitante del Vault, che dicono che sei stato bruciato vivo a Necropolis da un supermutante con un lanciafiamme.}
 {203}{}{[Scoppia in una risata roca per un po'; poi si calma e si asciuga un paio di lacrime.] Oh, questa e' buona. Bruciato vivo da un lanciafiamme, ah! Vedi, dissi all'Abitante del Vault di inventarsi una storia su come fossi morto, perche' non volevo che i nostri vecchi nemici cercassero di darmi la caccia -- ecco perche' ho cambiato nome. Gli dissi di farmi morire in un'esplosione di gloria, e a quanto pare l'ha presa alla lettera. Ah, questa e' fantastica.}
 {204}{}{Heh, immagino che questo chiarisca tutto. Comunque, ero curioso riguardo alle talpe giganti che stanno proteggendo il villaggio.}
-{205}{}{That still doesn't explain how you're still alive and well after all these years.}
+{205}{}{Questo però non spiega come tu sia ancora vivo e in salute dopo tutti questi anni.}
 {206}{}{Ehi, sono confuso quanto te. Chissa'? Forse ha a che fare con tutte le radiazioni a cui sono stato esposto ai vecchi tempi. Diamine, quando siamo andati al Bagliore, ricordo che l'Abitante del Vault ingoiava Rad-X come fossero caramelle, ma ne ha offerto qualcuno al vecchio Ian? Certo che no. Credo fosse ancora arrabbiato per un piccolo incidente di fuoco amico. Heh heh. [Sospira.] Bei tempi quelli.}
 {207}{}{Ne sono certo. Grazie per la storia Joe, ehm, Ian. Stammi bene.}
 {208}{}{Ne sono certo. Grazie per la storia Joe, ehm, Ian. Comunque, ero curioso riguardo alle talpe giganti che stanno proteggendo il villaggio.}

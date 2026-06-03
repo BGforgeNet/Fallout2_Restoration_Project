@@ -1,4 +1,4 @@
-{100}{}{You see an old console.}
+{100}{}{Vedi una vecchia console.}
 {101}{}{Sembra che questa sia la vecchia console di controllo dei bersagli dei siluri. La maggior parte dei monitor e' rotta o mancante, con
  solo uno appena funzionante. Di tanto in tanto compaiono frammenti casuali di dati sullo schermo tremolante.}
 {200}{}{Sembra che il sistema operativo sia corrotto, dato che non risponde ai tuoi comandi come dovrebbe. Potresti

@@ -24,7 +24,7 @@
 {123}{}{Ti prego. Ti prego. Mia moglie... lei e' tutto per me. Ti prego.}
 {124}{}{Ho detto no!}
 {125}{}{D'accordo. D'accordo, adesso smettila di rompere.}
-{126}{}{Ecco i soldi. Ora, ti prego, ti prego, TI PREGO... trova mia moglie e dimmi dove si trova. Forse e' scappata con un altro, magari mi ha lasciato... ma io devo saperlo.	}
+{126}{}{Ecco i soldi. Ora, ti prego, ti prego, TI PREGO... trova mia moglie e dimmi dove si trova. Forse e' scappata con un altro, magari mi ha lasciato... ma io devo saperlo.}
 {127}{}{Mi hai convinto, amico. Che aspetto ha?}
 {128}{}{Certo. Faro' del mio meglio.}
 {129}{}{::singhiozza incontrollabilmente per qualche secondo:: Molto bene. Vattene. E sappi che mi hai spezzato il cuore.}

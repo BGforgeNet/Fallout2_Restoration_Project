@@ -23,7 +23,7 @@
 {122}{}{Ti obbligano a rimanere qui?}
 {123}{}{Ti piace stare qui?}
 {124}{}{Sei al sicuro qui?}
-{125}{}{Non importa. Ciao.}
+{125}{}{Non importa. Ciao}
 {126}{}{Si'. La mia mamma mi dice sempre dove devo andare e dove invece non devo. Lei mi dice dove posso giocare e quando mangiare e quando andare a letto e quando usare il vasino e quando andare a scuola e tutto il resto. Non penso sia giusto che lei puo' fare tutto quello che vuole mentre io devo fare sempre quello che dice lei.}
 {127}{}{Ok.}
 {128}{}{Me deve andare, adesso.}

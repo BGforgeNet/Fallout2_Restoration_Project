@@ -30,7 +30,7 @@
 {129}{}{Se loro mi lasciano in pace, io lascio in pace loro.}
 {130}{}{Alcuni dei miei migliori amici sono schiavisti.}
 {131}{}{L'unica cosa che ti interessa sono i soldi?}
-{132}{}{Certo che no. Io credo nella verita', nella giustizia e nella lotta a difesa degli oppressi.}
+{132}{}{Certo che no. Io credo nella verita', nella giustizia e nella lotta a difesa degli oppressi,}
 {133}{}{E' un inizio - a meno che qualcuno non mi indichi una causa migliore per la quale combattere.}
 {134}{}{Esiste forse qualcos'altro?}
 {135}{}{Non dire stronzate. Vedo bene che tipo di persona sei. Addio.}
@@ -43,7 +43,7 @@
 {142}{}{C'e' uno schiavista, subito fuori citta'. Forse hai visto casa sua. Libera gli schiavi che sono li' e poi torna a parlare con me.}
 {143}{}{Posso farlo.}
 {144}{}{Assolutamente no. Non voglio fare casino da queste parti.}
-{145}{}{Beh, e' il tuo giorno fortunato. }
+{145}{}{Beh, e' il tuo giorno fortunato.}
 {146}{}{Questo e' il tipo di comportamento che permette l'esistenza dell'atrocita' dello schiavismo . Mi dispiace, ma non c'e' posto per te nella nostra organizzazione.}
 {147}{}{Ok.}
 {148}{}{Allora, hai cambiato idea? Sei pronto a dimostrare il tuo valore?}
@@ -82,40 +82,40 @@
 {181}{}{Quello non ti appartiene. Adesso vattene, oppure diventero' violenta.}
 {182}{}{Non so cosa tu abbia fatto a Gond, ma la pagherai!}
 {200}{}{Congratulazioni, ora sei un Ranger. E' tuo dovere giurato combattere la schiavitu' ovunque essa si manifesti. Prenditi cura di te, amico mio.}
-{201}{}{Before I go, I have some information that may interest you.}
-{202}{}{Alright, let's hear it.}
+{201}{}{Prima di andare, ho delle informazioni che potrebbero interessarti.}
+{202}{}{D’accordo, sentiamo.}
 {203}{}{Caso vuole che abbia le coordinate di uno dei piu' grandi campi di schiavisti di Metzger. E' molto a nordovest di qui, un paio di giorni di viaggio dal Den.}
 {204}{}{Dici sul serio? I nostri Ranger del nord hanno cercato di rintracciare i campi di schiavisti di Metzger da una vita. E' una notizia eccellente, ora dobbiamo solo
  distruggere quel posto orribile. Sai quanto e' ben sorvegliato?}
 {205}{}{Le uniche cose che sorvegliano quel posto adesso sono i cadaveri. Ho gia' eliminato tutto il campo.}
-{206}{}{It looked like it had about a dozen guards.}
-{207}{}{I couldn't tell you--I haven't been there yet.}
+{206}{}{Sembra che ci fossero una dozzina di guardie.}
+{207}{}{Non saprei dirtelo — non ci sono ancora stato.}
 {208}{}{Davvero? E' incredibile! Dovro' diffondere la notizia agli altri Ranger. E' il momento per noi di alzarci e colpire mentre sono
  occupati a leccarsi le ferite. Non posso ringraziarti abbastanza. Siamo davvero in debito con te.}
 {209}{}{Il tuo ringraziamento e' tutto cio' di cui ho bisogno. Prenditi cura di te.}
 {210}{}{Se sei cosi' soddisfatto del mio lavoro, che ne dici di una piccola ricompensa in contanti?}
 {211}{}{Dobbiamo attaccarli subito. Vuoi eliminare questi farabutti per noi?}
-{212}{}{I think I've done enough for the day. Goodbye.}
+{212}{}{Penso di aver fatto abbastanza per oggi. Addio.}
 {213}{}{Come Ranger e' mio dovere giurato. Certo che aiutero'.}
-{214}{}{Excellent! Please report back when you have wiped out the camp.}
-{215}{}{Give me some time. I will return when I am ready.}
-{216}{}{Of course. See you soon.}
-{217}{}{I'm a spontaneous individual. I don't need to prepare. Let's get this show on the road.}
+{214}{}{Eccellente! Torna quando avrai eliminato il campo.}
+{215}{}{Dammi un po’ di tempo. Tornerò quando sarò pronto.}
+{216}{}{Certo. A presto.}
+{217}{}{Sono uno spontaneo. Non ho bisogno di prepararmi. Mettiamoci in moto.}
 {218}{}{In realta', ho cambiato idea. Sono sicuro che tu e gli altri Ranger ve la cavate benissimo senza di me. Buona fortuna.}
 {219}{}{In realta', credo che sarebbe meglio se alcuni Ranger venissero con me. Garantirebbe maggior successo sia per la mia parte
  che nella lotta generale contro la schiavitu'.}
 {220}{}{No, mi dispiace. Non ho le risorse per radunare degli uomini. E' qualcosa che dovrai fare da solo.}
-{221}{}{Alright, I'll do it alone. I'll report back when I have finished.}
-{222}{}{Alright, I'll do it alone. I need time to prepare though. I'll be back.}
-{223}{}{I'll have to decline then. Goodbye.}
+{221}{}{D’accordo, lo farò da solo. Farò rapporto quando avrò finito.}
+{222}{}{D’accordo, lo farò da solo. Ma ho bisogno di prepararmi. Tornerò.}
+{223}{}{Allora devo rifiutare. Addio.}
 {224}{}{Hai ragione. Mettera' insieme un piccolo gruppo e lo mandero' con te. Sei pronto ad andare adesso?}
-{225}{}{I need time to prepare. I'll be back.}
-{226}{}{I'm ready. Let's go.}
+{225}{}{Ho bisogno di prepararmi. Tornerò.}
+{226}{}{Sono pronto. Andiamo.}
 {227}{}{Soldi? Be', suppongo che sia il minimo che potremmo fare. Ecco, 1000 dollari per il tuo disturbo. Grazie ancora.}
-{228}{}{My pleasure. Goodbye.}
-{229}{}{Are you ready to attack the slaver camp?}
+{228}{}{È stato un piacere. Addio.}
+{229}{}{Sei pronto ad attaccare il campo degli schiavisti?}
 {230}{}{Ho bisogno di altro tempo.}
-{231}{}{I am ready to go. Let's do it.}
+{231}{}{Sono pronto. Facciamolo.}
 {232}{}{I tuoi compagni Ranger ti raggiungeranno lungo la strada. In bocca al lupo.}
 {233}{}{[FINE]}
 {234}{}{Ho sentito la notizia. Grazie mille per il tuo aiuto. Questo dara' sicuramente un bel colpo agli schiavisti. Siamo davvero in debito con te.}
@@ -124,21 +124,21 @@
 {240}{}{Grazie. Arrivederci.}
 {250}{}{In realta', un'ultima cosa. Sembri una persona di cui ci si puo' fidare. Qualcuno a cui gli Schiavisti non piacciono affatto.}
 {251}{}{Be', ho appena spazzato via un loro intero campo. Cosa avevi in mente?}
-{252}{}{I think I've done enough for humanity today. See you around.}
+{252}{}{Penso di aver fatto abbastanza per l’umanità oggi. Ci vediamo.}
 {260}{}{Cosa ci fai qui? Questo e' un posto priv— Ehi, un momento, credo di aver sentito parlare di te. Non sei quello che ha distrutto uno dei campi di schiavi di Metzger?}
-{261}{}{Yep. That was me.}
-{262}{}{I sure as hell did. You got a problem with that? }
-{263}{}{Maybe... why?}
-{264}{}{I have no idea what you're talking about. Now if you'll excuse me, I'll be on my way.}
-{270}{}{That was a fine thing you did and I just want to shake your hand.}
-{271}{}{Not at all. In fact, I'd like to shake your hand.}
-{272}{}{Because that was a fine thing you did and I just want to shake your hand.}
+{261}{}{Già, ero io.}
+{262}{}{Certo che l’ho fatto. Hai qualche problema? }
+{263}{}{Forse… perché?}
+{264}{}{Non ho idea di cosa tu stia parlando. Ora, se non ti dispiace, vado.}
+{270}{}{Quello che hai fatto è stato davvero ammirevole, e vorrei stringerti la mano.}
+{271}{}{Affatto. Anzi, vorrei stringerti la mano.}
+{272}{}{Perché quello che hai fatto è stato ammirevole, e vorrei stringerti la mano.}
 {273}{}{Se sei cosi' soddisfatto del mio lavoro, che ne dici di una piccola ricompensa in contanti?}
-{274}{}{You're welcome. Now why don't you tell me who you are?}
+{274}{}{Prego. Ora, perché non mi dici chi sei?}
 {280}{}{Non abbiamo molti fondi da parte, ma ci hai reso un grande servizio, quindi credo possiamo separarci da qualcosa. Ecco 1000$.}
 {281}{}{Grazie. Ciao.}
-{282}{}{Thanks. Now why don't you tell me who you are?}
+{282}{}{Grazie. Ora, perché non mi dici chi sei?}
 {290}{}{Io sono Elsie. Lui e' Gond. Siamo membri di un gruppo anti-schiavitu' chiamato New California Rangers. Ci servirebbe qualcuno come te. Se ti interessa unirti a noi, ho un incarico per te.}
-{291}{}{Let's hear it.}
-{292}{}{Not interested. Bye.}
-{300}{}{Help you with something, Ranger?}
+{291}{}{Sentiamo.}
+{292}{}{Non mi interessa. Ciao.}
+{300}{}{Posso aiutarti in qualcosa, Ranger?}

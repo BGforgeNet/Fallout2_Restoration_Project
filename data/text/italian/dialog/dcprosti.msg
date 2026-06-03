@@ -1,5 +1,5 @@
 {100}{}{Vedi una prostituta.}
-{101}{}{She looks quite "worn".}
-{110}{}{Hey handsome.}
-{111}{}{Hey baby.}
-{112}{}{You here to party too?}
+{101}{}{Sembra piuttosto "consumata".}
+{110}{}{Ehi, bello.}
+{111}{}{Ehi, baby.}
+{112}{}{Sei qui per divertirti anche tu?}

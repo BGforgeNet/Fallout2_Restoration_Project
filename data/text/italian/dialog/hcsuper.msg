@@ -41,7 +41,7 @@
 {140}{}{Sei morto, allora.}
 {141}{}{D'accordo. Addio.}
 {142}{}{Ehi! Allontanati da li' o ne subirai le conseguenze!}
-{143}{}{Fuori dalla mia raffineria. Ora.}
+{143}{}{Fuori dalla mia raffineria. Ora!}
 {144}{}{Ci stiamo ancora lavorando. Dacci tempo. Non e' una cosa istantanea.}
 {145}{}{Vorrei chiederti qualcosa.}
 {146}{}{D'accordo. Addio.}

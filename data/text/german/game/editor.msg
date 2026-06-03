@@ -74,7 +74,7 @@
 {301}{}{Aktionspunkte}
 {302}{editor}{Rüstung}
 {303}{}{Schaden ohne Bewaffnung}
-{304}{}{Nahkampf-Sch.}
+{304}{editor}{Melee Damage}
 {305}{}{Verletz.-Res.}
 {306}{}{Giftresistenz}
 {307}{}{Strahlungsres.}

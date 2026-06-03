@@ -20,7 +20,7 @@
 {201}{}{Incontri dei lupi.}
 {202}{}{Incontri una carovana che si difende dai predoni.}
 {203}{}{Incontri una carovana che si difende dai predoni.}
-{204}{}{Incontri una carovana che si difende dai predoni.}
+{204}{}{Incontri una carovana che si difende dai predoni}
 {205}{}{Incontri una carovana che si difende dai predoni.}
 {206}{}{Incontri una carovana.}
 {207}{}{Incontri una carovana.}

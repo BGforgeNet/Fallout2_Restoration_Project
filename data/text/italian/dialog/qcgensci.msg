@@ -27,8 +27,8 @@
 {126}{}{Dovrebbero avvertirci quando hanno intenzione di verificare i sistemi d'emergenza.}
 {127}{}{Mi bruciano i polmoni.}
 {128}{}{Non ci vedo! Chi ha spento la luce?}
-{129}{}{(Cough, hack, cough)}
-{130}{}{(Splutter, cough)}
+{129}{}{(Tosse, ack, tosse)}
+{130}{}{(Starnuti, colpi di tosse)}
 {131}{}{La mia gola sta sanguinando!}
 {132}{}{Ho gli occhi in fiamme!}
 {133}{}{Mi sento male.}
@@ -44,7 +44,7 @@
 {143}{}{Che perdita di tempo.}
 {144}{}{Come se ci potesse essere un intruso, qui dentro.}
 {145}{}{Certo... e da dove mai potrebbe entrare un intruso?}
-{146}{}{Credono forse che se fosse entrato un intruso non ce ne accorgeremmo?}
+{146}{}{Come se non ci accorgessimo di un intruso che si avvicina.}
 {147}{}{Un altro guasto all'allarme. Splendido.}
 {148}{}{Non ho tempo per queste stronzate.}
 {149}{}{Cosa vuoi?}

@@ -21,7 +21,7 @@
 {120}{}{Se ti comporti male, ti "allineo" io.}
 {121}{}{Ho l'approvazione della Grande Ruota.}
 {122}{}{Salve, compagno viaggiatore.}
-{123}{}{Salve, }
+{123}{}{Salve,}
 {124}{}{Sono felice di averti tra noi.}
 {125}{}{Fa' quello che devi fare.}
 {126}{}{Non disturbare quelli che cercano di concentrarsi.}

@@ -93,4 +93,4 @@
 {192}{}{Torna quando vuoi! E' sempre bello avere dei clienti affezionati.}
 {193}{}{[FATTO]}
 {200}{}{Hai versato l'antidoto contro il Jet nel drink di Fannie Mae.}
-{210}{}{Alright, here's $60. How 'bout another round?}
+{210}{}{D’accordo, ecco 60$. Che ne dici di un altro giro?}

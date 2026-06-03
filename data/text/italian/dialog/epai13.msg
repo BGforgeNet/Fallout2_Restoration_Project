@@ -1,32 +1,32 @@
 {100}{}{Computer di Controllo delle Camere di Ibernazione. Seleziona un'opzione.}
-{101}{}{Subject history.}
-{102}{}{Retrieve a test subject.}
+{101}{}{Storico del soggetto.}
+{102}{}{Recupera un soggetto di prova.}
 {103}{}{[FATTO]}
 {104}{}{Camere di Ibernazione. Tre individui sono stati sigillati in queste camere prima della guerra, ciascuno per motivi
  classificati. I soggetti restano sigillati e ignari dell'ambiente circostante. Sono disponibili registri per ogni soggetto.}
-{105}{}{Return to Main Menu.}
+{105}{}{Torna al Menu Principale.}
 {106}{}{ATTENZIONE: Periodi prolungati in un ambiente di congelamento profondo alterano i processi chimici del corpo.
  Senza la corretta applicazione di sostanze chimiche al corpo del soggetto all'uscita dalle camere, potrebbero soffrire di ERS
  (Sindrome da Rigetto Ambientale). Per garantire la sicurezza del soggetto, si raccomanda vivamente di inserire un contenitore ERSI
  (Inibitore della Sindrome da Rigetto Ambientale) nel distributore prima di procedere.}
 {107}{}{Oh, fantastico. Ho appena svegliato un mucchio di ossa.}
-{108}{}{No, return to Main Menu.}
-{109}{}{Retrieving test subject.}
-{110}{}{Retrieving test subject.}
-{111}{}{Retrieving test subject.}
-{112}{}{Thank you for using the Hibernation Control Computer.}
-{113}{}{You see a large computer.}
-{114}{}{You see The Hibernation Control Computer.}
+{108}{}{No, torna al Menu Principale.}
+{109}{}{Recupero del soggetto di prova in corso.}
+{110}{}{Recupero del soggetto di prova in corso.}
+{111}{}{Recupero del soggetto di prova in corso.}
+{112}{}{Grazie per aver utilizzato il Computer di Controllo dell'Ibernazione.}
+{113}{}{Vedi un grande computer.}
+{114}{}{Vedi il Computer di Controllo dell'Ibernazione.}
 {115}{}{Vedi un computer usato per regolare tutto cio' che riguarda le Vasche di Ibernazione.}
 {116}{}{Inserisci il contenitore ERSI nel distributore.}
-{117}{}{Proceed anyway.}
+{117}{}{Procedi comunque.}
 {118}{}{Gli Inibitori della Sindrome da Rigetto Ambientale sono stati applicati con successo al soggetto. Il battito cardiaco del soggetto appare normale. Per favore,
  procedi alla camera criogenica per il recupero.}
 {119}{}{ATTENZIONE: Nessun Inibitore della Sindrome da Rigetto Ambientale e' stato applicato al soggetto. Lo stato del soggetto e' sconosciuto. Per favore,
  procedi alla camera criogenica per il recupero.}
 {120}{}{Hmm, forse dovrei vedere se riesco a trovare uno di questi contenitori ERSI. Ci sara' sicuramente un posto qui intorno dove prendere quelle sostanze...}
-{200}{}{Read log entries.}
-{210}{}{Please choose a subject.}
+{200}{}{Leggi le voci del registro.}
+{210}{}{Scegli un soggetto.}
 {211}{}{Soggetto A.}
 {212}{}{Soggetto B.}
 {213}{}{Soggetto C.}

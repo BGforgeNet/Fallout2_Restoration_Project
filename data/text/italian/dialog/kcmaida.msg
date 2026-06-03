@@ -15,7 +15,7 @@
 {220}{}{Hmm - sembra proprio che il tuo ascensore non arrivi ai piani alti... Perche' non parli con mio fratello Torr? Ha una velocita' piu' simile alla tua. Addio.}
 {230}{}{Il mio nome e' Maida Buckner; mi occupo del negozio e del bar. Non tollero che dei selvaggi facciano casino nel locale della mia famiglia. Quindi, farai meglio a stare molto attento quando ti trovi qui dentro, o finirai come Sulik. Cosa vuoi?}
 {231}{}{Il mio nome e' Maida Buckner; mi occupo del negozio e del bar. Cosa desideri, amico?}
-{232}{}{Ehila', carissimo amico. }
+{232}{}{Ehila', carissimo amico.}
 {233}{}{Come posso aiutarti?}
 {234}{}{Beh, faresti meglio a comportarti in maniera piu' civile, d'ora in poi. Comunque: che cos'e' che vuoi? Come posso aiutarti?}
 {235}{}{Ho qualche domanda per te.}
@@ -84,7 +84,7 @@
 {380}{}{Beh, okay, allora. Se vuoi davvero pagare per i danni che ha fatto... immagino che sia una sorta di solidarieta' tra voi gente di tribu'.}
 {381}{}{Si', voglio pagare. Ho abbastanza denaro per risarcirvi dei danni che ha provocato.}
 {382}{}{Forse sono troppi soldi. Dopotutto non credo di voler pagare per i danni che ha fatto. Arrivederci.}
-{390}{}{Devi essere matto. Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob) }
+{390}{}{Devi essere matto. Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob)}
 {391}{}{(sob) Mi pare uno scambio equo: un fratello stupido per uno stupido (sob) selvaggio. Non mi manchera' per niente.}
 {392}{}{Beh, per certi versi credo che a Sulik potrebbe mancare lo stare qui. Ma sono sicuro che torneremo a farvi visita, qualche volta. In questo momento, pero', ho bisogno di qualcosa.}
 {393}{}{Credo che Sulik stara' molto meglio, lontano da te.}
@@ -93,14 +93,14 @@
 {401}{}{Sono tornato perche' mi serve qualcosa.}
 {402}{}{Beh, sono sicuro di non poter essere cosi' bravo ad occuparmi di lui come hai fatto tu, ma ci provero'.}
 {420}{}{Un cacciatore di nome Smiley e' scomparso. La mamma e' davvero sconvolta. Sono sicuro che sarebbe grata a chiunque lo trovasse.}
-{421}{}{Well, have you seen Torr anywhere? It seems as though he's run off, and we're sure worried.}
+{421}{}{Hai visto Torr da qualche parte? Sembra che sia scappato, e siamo davvero preoccupati.}
 {422}{}{OK, ne parlero' con la signora Buckner, allora. Lascia che ti chieda qualcos'altro.}
 {423}{}{No, non ho visto Torr da nessuna parte. Se dovessi vederlo, ve lo faro' sapere. Lascia che ti chieda qualcos'altro.}
 {424}{}{Be', Torr si lamenta degli "Uomini Insetto" che spaventano i brahmin. Non so se credo davvero a tutte le sue storie, ma qualcuno o qualcosa sta rubando bestiame qui in citta'.}
 {425}{}{Ammetto di non aver prestato molta attenzione ai pettegolezzi in giro per la citta'. Vai al Golden Gecko, sono sicuro che qualcuno li' sapra' qualcosa.}
-{426}{}{Cattle rustling, huh? I'll look into this. Let me ask you something else, though.}
-{427}{}{Interesting. Anything else I should know?}
-{428}{}{Thanks for the tip. Let me ask you something else, though.}
+{426}{}{Furto di bestiame, eh? Vedrò di occuparmene. Ma lasciami chiederti un’altra cosa.}
+{427}{}{Interessante. C’è qualcos’altro che dovrei sapere?}
+{428}{}{Grazie del consiglio. Lascia che ti chieda qualcos’altro.}
 {430}{}{Grazie per aver ritrovato mio fratello Torr. Mamma e io eravamo cosi' preoccupate... Cosa posso fare per te?}
 {431}{}{Ancora grazie per aver ritrovato Torr. Cosa posso fare per te?}
 {432}{}{E' stato un piacere aiutare Torr.}
@@ -137,11 +137,11 @@
 {540}{}{Sembra proprio che tu non abbia abbastanza soldi. }
 {541}{}{Uh, beh, magari chiedero' solo delle informazioni, allora.}
 {542}{}{Oh, magari tornero' quando ne avro' di piu'. Arrivederci.}
-{550}{}{Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob) }
+{550}{}{Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob)}
 {600}{}{[AVANTI]}
 {700}{}{Ho scoperto cosa sta succedendo ai tuoi brahmin.}
 {701}{}{Davvero? Ottimo, ma e' con la mamma che devi parlare di questo.}
-{702}{}{Sure, I'll go talk to her then.}
+{702}{}{Va bene, andrò a parlarle allora.}
 {710}{}{Furto di bestiame? Qualche pista?}
 {711}{}{Non proprio. Non sono nemmeno sicuro che ci sia un collegamento tra questo e le mutilazioni dei brahmin.}
-{712}{}{Interesting. Any other local news I should know about?}
+{712}{}{Interessante. C’è qualche altra novità in zona?}

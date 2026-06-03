@@ -57,7 +57,7 @@ Pazienza.
 {152}{}{Ecco. Insegnero' a quei bastardi che nessuno puo' comportarsi cosi' con Dave! Addio.}
 {153}{}{Beh, guarda che stavo solo scherzando. Non ha mai detto una cosa del genere.}
 {154}{}{Arrivederci.}
-{155}{}{Vikki non l'ha mai detto?! Oh, cavolo... }
+{155}{}{Lei non ha detto questo. Meno male.}
 {156}{}{Quindi ho provocato questo disastro per nulla. Adesso sono costretto ad ucciderti.}
 {157}{}{Provaci.}
 {158}{}{L'ha detto? Davvero? Wow. ::un sorriso beato compare lentamente sul suo viso:: Grazie! Cosa posso fare per te?}
@@ -89,11 +89,11 @@ Pazienza.
 {184}{}{Trasferisci del carburante nella petroliera Poseidon.}
 {185}{}{Non mi viene in mente nulla, al momento. Ti faro' sapere.}
 {186}{}{Oh, tipo:}
-{187}{}{"Il mio terminale supporta le schede 3D?" }
-{188}{}{"Perche' non posso avere una configurazione multiutente?" }
-{189}{}{"Credo che dovremmo cambiare l'interfaccia... non importa se questa funziona perfettamente!" }
-{190}{}{"Perche' non posso usare una spada o una motosega sul mio monitor?" }
-{191}{}{"Dovrei essere in grado di impugnare due pistole. Perche' non posso usare due pistole?" }
+{187}{}{"Il mio terminale supporta le schede 3D?"}
+{188}{}{"Perche' non posso avere una configurazione multiutente?"}
+{189}{}{"Credo che dovremmo cambiare l'interfaccia... non importa se questa funziona perfettamente!"}
+{190}{}{"Perche' non posso usare una spada o una motosega sul mio monitor?"}
+{191}{}{"Dovrei essere in grado di impugnare due pistole. Perche' non posso usare due pistole?"}
 {192}{}{"L'interfaccia del mio terminale e' lenta. Credo che la colpa sia tua."}
 {193}{}{Ecco, tipo queste.}
 {194}{}{Capisco. Queste persone devono proprio essere dei gran simpaticoni. Ho delle altre domande.}

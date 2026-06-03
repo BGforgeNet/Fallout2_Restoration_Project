@@ -1,4 +1,4 @@
-{100}{}{You see a thug.}
+{100}{}{Du ser en ligist.}
 {101}{}{You see Joey.}
 {150}{}{This guy doesn't look too friendly.}
 {151}{}{[TALA]}

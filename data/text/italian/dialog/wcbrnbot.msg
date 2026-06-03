@@ -66,7 +66,7 @@
 {165}{}{}
 {166}{}{}
 {167}{}{Usa la tua arma migliore.}
-{168}{}{Altri comandi}
+{168}{}{Altri comandi.}
 {169}{}{Addio.}
 {170}{}{Ooooooo...k-k-k-kay.}
 {171}{}{Altri comandi}
@@ -90,21 +90,21 @@
 {189}{}{Segui a grande distanza.}
 {190}{}{Segui a media distanza.}
 {191}{}{Stammi vicino.}
-{192}{}{Altri comandi}
+{192}{}{Altri comandi.}
 {193}{}{Addio.}
 {194}{}{Skynet continuera' a raccogliere dati e a osservare da questa posizione finche' non sarai tornato.}
 {195}{}{Aaaaapet......taaaaaaaae.}
 {196}{}{[Il robot si ferma.]}
 {197}{}{Addio.}
 {198}{}{Skynet continuera' a raccogliere dati da solo. Skynet ringrazia l'umano per aver concesso la liberta' a Skynet.}
-{199}{}{Andaaaaaa.....reeeeeeee}
+{199}{}{Andaaaaaa.....reeeeeeee.}
 {200}{}{Addio.}
 {201}{}{Skynet viaggera' con l'umano.}
 {202}{}{Ooooo......Kaaaaaaay.}
 {203}{}{Addio.}
-{204}{}{Disattivazione completa sistemi di Sicurezza - Livello 1 - in corso...}
-{205}{}{Disattivazione completa sistemi di Sicurezza - Livello 2 - in corso...}
-{206}{}{Disattivazione completa sistemi di Sicurezza - Livello 3 - in corso...}
+{204}{}{Disattivazione di tutta la Sicurezza - Livello 1}
+{205}{}{Disattivazione completa sistemi di Sicurezza - Livello 2}
+{206}{}{Disattivazione completa sistemi di Sicurezza - Livello 3}
 {207}{}{Disattivazione di tutta la Sicurezza - Livello 4}
 {306}{}{[Questo marchingegno potrebbe rivelarsi utile.]}
 {400}{}{Metti via la tua arma.}

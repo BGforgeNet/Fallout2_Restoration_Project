@@ -101,7 +101,7 @@
 {385}{}{Ommioddio! }
 {386}{}{Dammi un pugno! Dammi un pugno! Voglio dire ai miei figli che mi hai dato un pugno!}
 {387}{}{Sei il migliore }
-{388}{}{Ammazzali, }
+{388}{}{Ammazzali, !}
 {389}{}{Sei il migliore, }
 {390}{}{Rompigli il muso, }
 {391}{}{.}

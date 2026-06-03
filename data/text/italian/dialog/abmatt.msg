@@ -18,7 +18,7 @@
 {224}{}{Ora, prendetevi un momento per riflettere su cio' che ho detto.}
 {300}{}{Salve, amico. Non credo di averti mai visto da queste parti. Mi chiamo Fratello Matteo e aiuto
  a diffondere la parola sull'importanza di preservare la conoscenza degli antichi.}
-{301}{}{E' un piacere conoscerti Matt. Il mio nome e'}
+{301}{}{E' un piacere conoscerti Matt. Il mio nome e' }
 {302}{}{ sono alla ricerca del sacro GECK.}
 {303}{}{Scusa, devo andare.}
 {400}{}{Un GECK, eh? Mi sembra di ricordare di aver letto qualcosa in merito durante una delle mie sessioni di trascrizione. Quindi deve
@@ -44,7 +44,7 @@
 {700}{}{[L'uomo ride della tua domanda] No, nessun motivo particolare. Ho semplicemente letto molta poesia nel corso della mia vita
  e mi piace applicarla ai miei insegnamenti. Aiuta a lasciare un impatto maggiore su chi ascolta.}
 {701}{}{Abbastanza giusto. Un'altra domanda.}
-{800}{}{E' bello rivederti.}
+{800}{}{E' bello rivederti. }
 {801}{}{. Cosa posso fare per te?}
 {802}{}{Ho delle domande da farvi.}
 {803}{}{Niente. A presto.}

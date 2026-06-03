@@ -11,7 +11,7 @@
 {110}{}{Qui sappiamo come trattare i tipi come te.}
 {111}{}{Cazzo hai da guardare?}
 {112}{}{Sparisci, tu, prima che perda la pazienza.}
-{113}{}{Un giorno, ti becchero' quando non stai guardando.}
+{113}{}{Un giorno, ti becchero' quando non stai guardando}
 {114}{}{Non puoi uccidermi. Ci hanno gia' provato altre volte.}
 {115}{}{Me la cavero' anche stavolta. Vedrai.}
 {116}{}{Quella troia ha avuto quello che si meritava.}

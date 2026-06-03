@@ -172,3 +172,8 @@
 {573}{}{Nem lennék meglepve.}
 {580}{}{Tehát te is ilyen beszari vagy? Jellemző...}
 {581}{}{Ó...}
+{1230}{}{Takarodj onnan most azonnal!}
+{1231}{}{Ne merj még egyszer hozzáérni!}
+{1232}{}{Állj hátrébb!}
+{1233}{}{Hagyd békén!}
+{1234}{}{Mi a szart csinál?}

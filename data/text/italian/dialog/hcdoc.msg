@@ -74,13 +74,13 @@ perche' questo costera' ::colpo di tosse:: $200.}
 {172}{}{Si'. Adesso... ecco! Abbiamo finito. Buona fortuna e non farti male!}
 {173}{}{Acie!}
 {174}{}{Esatto. Sono un dottore. E' bello vedere che l'intelligenza e' ancora viva, nel mondo post-nucleare.}
-{175}{}{Ah! E di certo non manca nel corpo di un vecchio settantenne.}
+{175}{}{Ah! E sta scalciando dentro il corpo di un uomo di settant’anni!}
 {176}{}{Non mi piace essere preso per il culo da te, vecchio.}
 {177}{}{Ummm... Cerrrrto. Ho delle altre domande.}
 {178}{}{Addio.}
 {179}{}{Minacciare l'unico dottore della citta'. Bella pensata. ::cough:: Amico, se vuoi qualcosa, puoi chiederlo educatamente. Altrimenti, esci subito dal mio ospedale.}
 {180}{}{Al diavolo, vecchio. Preparati a morire.}
-{181}{}{Certo, come no?}
+{181}{}{Sì, come vuoi.}
 {182}{}{Scusa. E' una giornataccia.}
 {183}{}{Stavo solo scherzando.}
 {184}{}{Giovanotto, hai molto da imparare riguardo al rispetto.}
@@ -143,4 +143,4 @@ perche' questo costera' ::colpo di tosse:: $200.}
 {401}{}{K-9.}
 {402}{}{Kitsune.}
 {403}{}{Dex.}
-{404}{}{Cat Jules.}
+{404}{}{Gatto Jules.}

@@ -1,7 +1,14 @@
 {100}{}{Un terminale di computer.}
 {101}{}{Il salvaschermo e' in funzione.}
-{103}{}{Skynet: Sistemi di Sicurezza.                                   Intruso - Livello 2.                                          Attivazione Contromisure - Livello 2.                              Contromisure - Trasmissione interrotta.                            Attivazione Sistemi di Riparazione Automatici in corso.}
-{104}{}{Skynet: Sistemi di Sicurezza                                    Intruso - Livello 2                                           Attivazione Contromisure - Livello 2                               Tentativo di reinoltrare energia ai generatori dei campi di forza in corso.}
+{103}{}{Skynet: Sistemi di Sicurezza
+                                   Intruso - Livello 2
+                                          Attivazione Contromisure - Livello 2
+                              Contromisure - Trasmissione interrotta
+                            Attivazione Sistemi di Riparazione Automatici in corso}
+{104}{}{Skynet: Sistemi di Sicurezza
+                                    Intruso - Livello 2
+                                           Attivazione Contromisure - Livello 2
+                               Tentativo di reinoltrare energia ai generatori dei campi di forza in corso}
 {105}{}{Skynet: Sistemi di Sicurezza                                    Intruso - Livello 2                                           Attivazione Contromisure - Livello 2}
 {106}{}{Annullare Allarme - Livello 2 - Falso Allarme}
 {107}{}{[Noti un tasto della tastiera sul quale c'e' scritto "Aiuto"]. Premi il tasto.}
@@ -10,7 +17,9 @@
 {110}{}{Esci}
 {111}{}{Arg! [Per la frustrazione, sbatti un pugno sulla tastiera.]}
 {113}{}{Skynet: Sistemi di Sicurezza}
-{114}{}{Scanner della Retina Attivato                                      Scansione in corso...                                              Ricerca Database in corso...}
+{114}{}{Scanner della Retina Attivato
+                                      Scansione in corso...
+                                              Ricerca Database in corso...}
 {115}{}{Attivare Sistema di Allarme - Livello 2}
 {116}{}{Avviare programma auto-diagnostico.}
 {117}{}{Esci}
@@ -53,8 +62,8 @@
 {308}{}{
                                              Allarme! Intruso rilevato - Livelli: }
 {309}{}{
- }
+                               }
 {310}{}{
- }
+                                             }
 {311}{}{
- }
+                       }

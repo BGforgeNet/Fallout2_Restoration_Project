@@ -10,7 +10,7 @@
 {151}{}{Mostri dappertutto!}
 {152}{}{Ho sentito una cosa strana.}
 {153}{}{Sto sanguinando?}
-{154}{}{Di solito non sembra cosi' reale}
+{154}{}{Di solito non sembra cosi' reale.}
 {155}{}{Smettila, cavoli!}
 {156}{}{Nessuno mi aiuta?}
 {157}{}{Aiuto!}
@@ -76,7 +76,7 @@
 {358}{}{Eccolo!}
 {359}{}{Whoa, no! Stop! Aspetta! Okay, va' avanti.}
 {360}{}{Qui, qui... ahh...}
-{361}{}{Yea, baby!}
+{361}{}{Sì, tesoro!}
 {362}{}{Cos'era?}
 {363}{}{Sasha? Dove sei, Sasha?}
 {364}{}{I colori stanno svanendo!}

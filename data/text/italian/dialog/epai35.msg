@@ -1,9 +1,9 @@
 {100}{}{Vedi un computer.}
-{101}{}{You see the EPA's museum computer.}
+{101}{}{Vedi il computer del museo dell'EPA.}
 {200}{}{Benvenuto nel museo dell'EPA! Questo terminale proiettera' un film utilizzando una nuova ed entusiasmante tecnologia olografica!
  Il film offre una visione divertente e informativa della spaventosa, ma possibile, realta' di un mondo post-nucleare.}
-{201}{}{[Play movie.]}
-{202}{}{[Logoff.]}
+{201}{}{[Riproduci filmato.]}
+{202}{}{[Disconnetti.]}
 {210}{}{[Il terminale proietta l'ologramma di un uomo alto, con occhiali e camice da laboratorio. Ti saluta con un sorriso cordiale.]
  Salve, sono il Dr. Caleb, e saro' la guida di questo video olografico sull'America post-olocausto.}
 {211}{}{[AVANTI]}
@@ -26,4 +26,4 @@
 {250}{}{Sembra che Mr. Handy avra' parecchio lavoro da fare se intende ripulire *questo* disastro. [Il Dr. Caleb
  ride mentre l'immagine svanisce e viene sostituita da del testo.] Grazie per la visione. Questo video educativo e' stato offerto
  dai gentili collaboratori della Vault-Tec. Vault-Tec, l'ultima parola americana in fatto di abitazioni.}
-{251}{}{[Logoff.]}
+{251}{}{[Disconnetti.]}

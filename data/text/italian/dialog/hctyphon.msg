@@ -138,7 +138,7 @@
 {312}{}{Cervelli...cerveeeeelli... scusa, un vecchio vizio.}
 {313}{}{Non preoccuparti. Io non ne ho uno, ricordi?}
 {314}{}{Beh, sicuramente il concime fa il suo dovere, ma non c'e' niente di meglio che un corpo in decomposizione, per crescere bene.}
-{315}{}{Allora e' per questo che sei venuto a vivere qui! Che furbacchione!}
+{315}{}{Ah, ecco perché volevi trasferirti qui! Prede facili.}
 {316}{}{Lascia che te lo dica, non c'e' niente di meglio che una bella corsa.}
 {317}{}{Ti piace sentire il vento attraversare i pochi capelli che ti sono rimasti, eh?}
 {318}{}{Non impollino da anni!}

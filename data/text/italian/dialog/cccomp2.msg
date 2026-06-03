@@ -17,7 +17,7 @@
 {116}{}{Beh... Mi e' permesso concedere l'accesso alle strumentazioni solo al personale qualificato e a nessun altro.}
 {117}{}{Prego? Me no rompe.}
 {118}{}{Prometto di non romperlo.}
-{119}{}{Va bene. Puoi accedere al sistema tramite il terminale la' in fondo. Fa' attenzione, ti prego. Ci fucilerebbero entrambi se tu dovessi rovinare il computer. Ah, la password e' 'Snookie'.}
+{119}{}{Va bene. Puoi accedere al sistema tramite il terminale la' in fondo. Fa' attenzione, ti prego. Ci fucilerebbero entrambi se tu dovessi rovinare il computer. Ah, la password e' 'Snookie.'}
 {120}{}{Mi spiace, ma non se ne parla nemmeno. Non mi sarebbe nemmeno permesso far entrare i soldati in questa stanza; figurarti se posso lasciare che usino il computer.}
 {121}{}{Snookie? Cosa essere snookie?}
 {122}{}{Ok. Me capisce.}

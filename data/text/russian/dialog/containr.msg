@@ -75,17 +75,18 @@
 {174}{}{неумело ковыряется в замке на контейнере. Замок заклинило.}
 {175}{}{ не может вскрыть замок на контейнере.}
 {176}{}{Вы сбиваете замок с контейнера.}
-{177}{}{Вы надрываете спину при попытке сбить замок и получаете одно очко урона.}
-{178}{}{Вы надрываете спину при попытке сбить замок и получаете }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and
+ take }
 {179}{}{ ед. урона.}
-{180}{}{У вас не хватает силы, чтобы сбить замок.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ сбивает замок с контейнера.}
-{182}{}{ надрывает спину при попытке сбить замок и получает одно очко урона.}
-{183}{}{ надрывает спину при попытке сбить замок и получает }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ ед. урона.}
 {185}{}{ использует всю силу, чтобы сбить замок, но этого мало.}
-{186}{}{ надрывает спину при попытке сбить замок и получает одно очко урона.}
-{187}{}{ надрывает спину при попытке сбить замок и получает }
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ ед. урона.}
 {189}{}{Вы ловко запираете контейнер.}
 {190}{}{Вам не удалось запереть контейнер.}

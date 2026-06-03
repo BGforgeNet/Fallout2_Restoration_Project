@@ -21,7 +21,7 @@
 {142}{}{Grazie per la birra. Ho bisogno di alcune informazioni.}
 {143}{}{Grazie. Per il momento e' tutto. Arrivederci.}
 {150}{}{Un giro di piscia per l'intero bar, allora! Huzzah! Sono 30$. (Fa un largo sorriso)}
-{151}{}{Qui dentro stanno tutti bevendo piscio di lucertola?!?}
+{151}{}{Qui dentro stanno tutti bevendo piscio di lucertola!?!}
 {152}{}{Spero che tutti gradiscano la birra. Sajag, mi servono alcune informazioni.}
 {153}{}{Gustatevi tutti il vostro piscio. Ci vediamo.}
 {160}{}{Sembra proprio che tu non abbia abbastanza soldi per quello. Mi spiace, amico. Non si fa credito qui dentro. (sorride)}
@@ -80,12 +80,11 @@
 {282}{}{Sono felice di esser stato d'aiuto; ovviamente, i 50$ non mi hanno certo fatto male.}
 {283}{}{Bene, sono sicuro che dormiro' sonni piu' tranquilli sapendo che Klamath non ha piu' nulla da temere dal liquore di Bob.}
 {284}{}{Non me ne frega granche', amico.}
-{290}{}{Be', vediamo. Ultimamente in citta' succedono un sacco di cose. (conta sulle dita) C'e'...}
+{290}{}{Be', vediamo. Ultimamente in citta' succedono un sacco di cose. (conta sulle dita) C'e'... }
 {291}{}{Parlami degli uomini insetto che attaccano i brahmin, per favore.}
 {292}{}{Parlami dei RTF, per favore.}
 {293}{}{Parlami del fantasma, per favore.}
-{294}{}{I'm not surprised that a trapper's gone missing with all this excitement, but tell me about him,
- too.}
+{294}{}{Non mi sorprende che un cacciatore sia scomparso, con tutto questo trambusto. Parlami anche di lui.}
 {295}{}{Vorrei chiederti qualcos'altro.}
 {296}{}{Non voglio sapere altro.}
 {300}{}{Beh, i fratelli Dunton sono sempre in cerca di qualcuno che faccia il lavoro sporco. E poi c'e' Torr, il ragazzo dei Buckner, che ha paura di andare a far la guardia ai brahmin di notte a causa degli uomini insetto.}
@@ -109,9 +108,9 @@
 {390}{}{Giardino dell'Eden, eh? Beh, per me e' Jenny, la cosa che piu' si avvicina al Giardino dell'Eden. Bastano pochi dollari per crearlo. (sorride) Non sembra male, ma non so dove potresti trovare la cosa che cerchi, altrimenti. }
 {391}{}{Beh, non e' proprio quello che intendevo. Lascia che ti faccia qualche altra domanda.}
 {392}{}{Questo e' tutto quello che volevo sapere, per il momento.}
-{2900}{}{Things are pretty quiet around here now, actually.}
-{2901}{}{brahmin-mutilating bugmen}
+{2900}{}{A dire il vero, ora qui è tutto abbastanza tranquillo.}
+{2901}{}{uomini?insetto che mutilano i brahmin}
 {2902}{}{roditori di dimensioni insolite}
-{2903}{}{a walking spirit}
-{2904}{}{a missing trapper}
-{2905}{}{. Klamath's become a real hot spot lately.}
+{2903}{}{uno spirito che cammina}
+{2904}{}{un cacciatore scomparso}
+{2905}{}{. Klamath è diventata un posto piuttosto movimentato, ultimamente.}

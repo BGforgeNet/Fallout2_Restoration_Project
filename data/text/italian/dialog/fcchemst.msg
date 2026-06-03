@@ -4,7 +4,7 @@
 {103}{}{Chi sei? Cosa vuoi?}
 {104}{}{Cosa?}
 {105}{}{Chi sei TU?}
-{106}{}{Io sono }
+{106}{}{Io sono}
 {107}{}{Non sono affari tuoi.}
 {108}{}{Niente. Me ne stavo andando.}
 {109}{}{Non puoi essere uno dei nostri se sei un imbecille. Sparisci subito, prima che chiami le guardie.}
@@ -46,7 +46,7 @@
 {145}{}{Hai una Power-Armor rinforzata? Magnifico! In che modo vuoi essere pagato?}
 {146}{}{Indirizza il carburante verso i serbatoi degli Hubologisti.}
 {147}{}{Indirizza il carburante verso la petroliera Poseidon Oil.}
-{148}{}{Cosa ne diresti di un po' di soldi? Credo che }
+{148}{}{Cosa ne diresti di un po' di soldi? Credo che $}
 {149}{}{Ho deciso che preferisco tenermela.}
 {150}{}{Consideralo fatto. Eseguiro' le operazioni necessarie a breve. Adesso, se vuoi scusarmi, devo tornare al mio lavoro.}
 {151}{}{Grazie. Ciao.}

@@ -111,7 +111,7 @@
 {468}{}{.}
 {469}{}{Non ti serve sapere il mio nome. Fammi solo andare da lui.}
 {471}{}{Lascia perdere. Non serve che tu vada da lui... me ne vado.}
-{475}{}{(La guardia si allontana per un attimo, apre un pannello in uno dei muri e sussurra qualcosa. Aspetta un secondo, ascolta, poi torna da te.)}
+{475}{}{(La guardia si allontana per un attimo, apre un pannello in uno dei muri e sussurra qualcosa. Aspetta un secondo, ascolta, poi torna da te.) }
 {476}{}{Non ti conosce. Smamma, amico. Ci stai solo facendo perdere del tempo.}
 {477}{}{Non ti conosce. Smamma, tesoro. Ci stai solo facendo perdere del tempo.}
 {478}{}{Fatemi andare da lui. Adesso.}

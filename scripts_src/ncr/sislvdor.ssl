@@ -137,21 +137,8 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
+   call map_enter_p_proc_vanilla;
 
-/* Set up the door state when the player first enters the map */
-   if (local_var(LVAR_Set_Door_Status) == 0) then begin
-       set_local_var(LVAR_Set_Door_Status,1);
-       set_local_var(LVAR_Locked,LOCKED_STATUS);
-       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
-   end
-
-   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       obj_lock(self_obj);
-   end
-
-   else begin
-       obj_unlock(self_obj);
-   end
    if (self_tile == SLVDORG1D1) then
       set_slave_door(g1d1);
    else if (self_tile == SLVDORG1D2) then
@@ -179,4 +166,3 @@ procedure map_enter_p_proc begin
    else if (self_tile == SLVDORG4D3) then
       set_slave_door(g4d3);
 end
-

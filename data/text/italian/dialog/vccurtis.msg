@@ -5,7 +5,7 @@
 {104}{}{Vedi un ragazzino con i capelli castani. Sembra molto piu' felice di prima.}
 {105}{}{Vedi Curtis.}
 {106}{}{Vedi un ragazzino con i capelli castani. Sembra molto piu' felice di prima.}
-{107}{}{*Snfffff*}
+{107}{}{*Annusa*}
 {108}{}{Vuoi una tazza di the, Mr. Nixon?}
 {109}{}{"Ma si', certamente, Curtis."}
 {110}{}{Ecco a te. Bevi!}

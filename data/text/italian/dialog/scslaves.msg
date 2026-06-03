@@ -17,7 +17,7 @@
 {116}{}{E i miti erediteranno la terra.}
 {117}{}{Saro' buono. Sono un buono schiavo.}
 {118}{}{Liberta'! Dolce, benedetta Liberta'!}
-{119}{}{Guarda cos'hai fatto - mi hai rovinato la vita.}
+{119}{}{Guarda cos'hai fatto - mi hai rovinato la vita!}
 {120}{}{Non posso fermarmi. Devo scappare. Non posso lasciare che mi prendano.}
 {121}{}{Merda! Sono condannato - mi cercheranno e poi mi ammazzeranno.}
 {122}{}{Dove andro' adesso? Cosa faro'?}

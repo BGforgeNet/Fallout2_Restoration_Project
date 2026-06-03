@@ -28,10 +28,10 @@
 {127}{}{Si', credo che il Vault 13 non abbia mai usato il suo. Dovresti essere in grado di trovarne uno, laggiu'. Buona fortuna,}
 {128}{}{Aspettare! Dove vault?}
 {129}{}{Aspetta un secondo! Dov'e' il vault?}
-{130}{}{Si', la sua posizione e' registrata nel computer del vault 15, a est di qui. Buona fortuna, }
+{130}{}{Si', la sua posizione e' registrata nel computer del vault 15, a est di qui. Buona fortuna,}
 {131}{}{.}
 {132}{}{Grazie.}
-{133}{}{Noi siamo la Confraternita d'Acciaio. Non ti diro' nient'altro, per adesso. Buona fortuna, }
+{133}{}{Noi siamo la Confraternita d'Acciaio. Non ti diro' nient'altro, per adesso. Buona fortuna,}
 {134}{}{Aspettare! Me serve sapere piu', ora!}
 {135}{}{Aspetta, non puoi lasciare il discorso in sospeso a quel modo!}
 {136}{}{Spiacente. Non ho nient'altro da dirti.}

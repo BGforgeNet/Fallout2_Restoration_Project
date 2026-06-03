@@ -3,7 +3,7 @@
 {102}{}{Ha la patta aperta.}
 {103}{}{Salute a voi, viandante. Il mio e' Artu', figlio di Uther Pendragon, della Confraternita d'Acciaio. Stiamo cercando la Sacra Granata di Antiochia. L'avete voi, per caso, vista?}
 {104}{}{Sacra che?}
-{105}{}{Player Response}
+{105}{}{Risposta del giocatore}
 {106}{}{Unga.}
 {107}{}{Non abbiamo tempo per parlare. Siamo in missione.}
 {108}{}{Cerchiamo la Sacra Granata di Antiochia.}
@@ -44,4 +44,4 @@
 {206}{}{Ti preeeeeeego! Devo chiederti una cosa importante.}
 {207}{}{Adesso dobbiamo continuare la nostra missione alla ricerca della Sacra Granata di Antiochia. Vieni, Patsy.}
 {300}{}{La nostra missione e' stata compiuta!}
-{301}{}{Arthur, at your service.}
+{301}{}{Arthur, al tuo servizio.}

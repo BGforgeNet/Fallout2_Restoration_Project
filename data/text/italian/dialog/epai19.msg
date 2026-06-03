@@ -1,8 +1,8 @@
-{100}{}{You see a peculiar machine.}
+{100}{}{Vedi una macchina peculiare.}
 {101}{}{Vedi il proiettore di backup dell'Ologramma 00000.}
 {102}{}{Vedi una macchina che proietta esclusivamente l'Ologramma della Scienza.}
-{103}{}{The fault in the machine has been fixed.}
-{104}{}{This machine is working fine already.}
+{103}{}{Il guasto nella macchina e' stato riparato.}
+{104}{}{Questa macchina funziona gia' bene.}
 {105}{}{Riparare questa macchina sembra troppo complicato.}
-{106}{}{What am I looking for here?}
+{106}{}{Cosa sto cercando qui?}
 {107}{}{Anche con i tuoi strumenti, non hai le capacita' necessarie per riparare questa macchina.}

@@ -14,7 +14,7 @@
 {1013}{}{Cristo, non ho piu' il braccio!}
 {1014}{}{Oh Dio, non il braccio.}
 {1015}{}{Basta, ti prego, basta.}
-{1016}{}{(Sob, sob)}
+{1016}{}{(Sniff, sniff)}
 {1017}{}{Il mio braccio e' davvero messo male.}
 {1018}{}{Come mi guadagnero' da vivere, adesso?}
 {1019}{}{L'hai rotto.}
@@ -26,7 +26,7 @@
 {1025}{}{Quanto sangue.}
 {1026}{}{Cristo, fate smettere il dolore!}
 {1027}{}{Non le mie dita, tutto ma non questo. Noooooo!}
-{1028}{}{Mi hai staccato il braccio. Oddio, no!}
+{1028}{}{Mi hanno strappato il braccio. Oh Dio, no.}
 {1029}{}{Non uccidermi.}
 {1030}{}{Ow! Fa davvero male!}
 {1031}{}{Sto per svenire.}
@@ -208,7 +208,7 @@
 {1207}{}{Che male.}
 {1208}{}{Hai fottuto la mia bellissima faccia.}
 {1209}{}{Questo lascera' una cicatrice.}
-{1210}{}{Ow, il braccio!}
+{1210}{}{Ahi, il mio braccio.}
 {1211}{}{Hai appena fatto il piu' grosso errore della tua vita.}
 {1212}{}{Il braccio!}
 {1213}{}{Hah, non sono mancino.}
@@ -218,7 +218,7 @@
 {1217}{}{Dannazione, posso dire addio al mio rovescio incrociato.}
 {1218}{}{Posso ancora cancellarti dalla faccia della terra.}
 {1219}{}{Dannazione, il braccio si e' spezzato in due.}
-{1220}{}{Ow, il braccio!}
+{1220}{}{Ahi, il mio braccio.}
 {1221}{}{Hai appena fatto il piu' grosso errore della tua vita.}
 {1222}{}{Il braccio!}
 {1223}{}{Ti posso ammazzare anche usando il braccio sinistro.}
@@ -477,7 +477,7 @@
 {1545}{}{Non sento piu' le gambe.}
 {1546}{}{Improvvisamente, sento caldo e ho sonno.}
 {1547}{}{Errrggggg!}
-{1548}{}{Gack! cough, cough.}
+{1548}{}{Gack! Cof, cof.}
 {1549}{}{Devo andare avanti, devo ammazzare i nemici....}
 {1550}{}{Le tenebre mi stanno chiamando.}
 {1551}{}{L'ora della mia morte si avvicina.}
@@ -566,14 +566,14 @@
 {1634}{}{Ora che mi hai sviscerato, sono cosi' snello! Grazie!}
 {1635}{}{./~ Ho lasciato il mio cuore.../~}
 {1636}{}{Mi hai solleticato le costole.}
-{1637}{}{A chi serve un'appendice, comunque?}
+{1637}{}{Chi ne ha bisogno di un'appendice, dopotutto.}
 {1638}{}{Solo un po' piu' in la', dottore.}
 {1639}{}{Arrggghh, la spina dorsale!}
 {1640}{}{Le gambe, non sento piu' le gambe.}
 {1641}{}{E' una gastroen-ferita, sergente.}
 {1642}{}{I polmoni sono roba da femminucce.}
 {1643}{}{Ehi, ho le costole!}
-{1660}{}{Ow, la gamba!}
+{1660}{}{Ahi, la mia gamba}
 {1661}{}{La pagherai per questo!}
 {1662}{}{Argh! Tu mi hai rotto la gamba, io ti rompero' il collo!}
 {1663}{}{Dannazione, con tutti i soldi che ho speso per imparare il Tango.}
@@ -590,7 +590,7 @@
 {1674}{}{Sculacciami mammina, sono stato cattivo.}
 {1675}{}{Verra' fuori una bella crosta.}
 {1676}{}{E' tutto mio quel sangue?}
-{1677}{}{Marshall Dillon, Marshall Dillon!}
+{1677}{}{Walker Texas Ranger, Walker Texas Ranger!}
 {1678}{}{Mi verranno le vesciche.}
 {1679}{}{Kai, yai, yippee, ai, ay!}
 {1680}{}{Dannato sangue negli occhi!}
@@ -737,7 +737,7 @@
 {2044}{}{Prendi questo!}
 {2045}{}{Bestia!}
 {2046}{}{Non voglio farlo!}
-{2047}{}{Si'! Chi e' che ha paura, adesso?}
+{2047}{}{Si'! Chi e' che ha paura, adesso?!}
 {2048}{}{Non volevo questo scontro, ma...}
 {2049}{}{Canaglia!}
 {2050}{}{Fa-faresti bene a sta-stare attento!}
@@ -809,7 +809,7 @@
 {2136}{}{I tuoi giorni qui sono finiti.}
 {2137}{}{Vai a quel paese, non ho intenzione di perdonarti.}
 {2138}{}{Sono incazzato come un mulo e non ho intenzione di fartela passare liscia!}
-{2139}{}{Voglio uscire da questa dannata prigione!}
+{2139}{}{Vattene al diavolo.}
 {2140}{}{Non avresti dovuto farlo.}
 {2141}{}{Sappiamo badare a noi stessi.}
 {2142}{}{Questo e' cio' che facciamo ai parassiti!}
@@ -832,7 +832,7 @@
 {2159}{}{Yeah, prendi questo!}
 {2160}{}{Io non miro cosi' male, vero?}
 {2161}{}{Ho visto brahmin piu' svegli di te.}
-{2162}{}{Whew!}
+{2162}{}{Fiuu!}
 {2163}{}{Non e' cosi' facile sconfiggermi.}
 {2164}{}{Grazie al cielo!}
 {2165}{}{Mi hai mancato!}
@@ -890,7 +890,7 @@
 {2244}{}{Ci si vede!}
 {2245}{}{Cominciamo subito!}
 {2246}{}{Feccia piantagrane!}
-{2247}{}{Ti randellero' come un figliastro pel-di-carota!}
+{2247}{}{Ti pestero' come un figliastro dai capelli rossi...}
 {2248}{}{Animale!}
 {2249}{}{Ti pentirai di aver messo piede qui dentro!}
 {2250}{}{Senti come brucia.}
@@ -903,14 +903,14 @@
 {2257}{}{Dai amico, vieni a prenderle.}
 {2258}{}{E beccati questo!}
 {2259}{}{Adoro il sapore del sangue.}
-{2260}{}{Non sei poi cosi' bravo come pensavi}
-{2261}{}{Patetico}
-{2262}{}{Sei solo un criminale da strapazzo}
-{2263}{}{Non sei niente di speciale}
-{2264}{}{Non saro' la tua vittima}
+{2260}{}{Non sei poi cosi' bravo come pensavi.}
+{2261}{}{Patetico.}
+{2262}{}{Sei solo un criminale da strapazzo.}
+{2263}{}{Non sei niente di speciale.}
+{2264}{}{Non saro' la tua vittima.}
 {2265}{}{Questo e' stato il tuo ultimo errore.}
 {2266}{}{Questo era il tuo colpo migliore?}
-{2267}{}{E io che pensavo che questo sarebbe stato un combattimento *serio*.}
+{2267}{}{E io che pensavo che questo sarebbe stato un combattimento *serio.*}
 {2268}{}{Prova a mirare nella *mia* direzione, la prossima volta.}
 {2269}{}{Sei solo un fottuto pagliaccio.}
 {2270}{}{Dannati principianti!}
@@ -992,7 +992,7 @@
 {2400}{}{Me ne vado!}
 {2401}{}{Forse non e' stata una buona idea!}
 {2402}{}{Attacca qualcun altro, okay!}
-{2403}{}{Yikes!}
+{2403}{}{Urca!}
 {2404}{}{Non moriro' per questo!}
 {2405}{}{Questo e' troppo per me!}
 {2420}{}{Ehi tu!}
@@ -1184,7 +1184,7 @@
 {3004}{}{Download del programma di fuga in corso.}
 {3005}{}{Iniziata sequenza di ritiro.}
 {3020}{}{Bersaglio acquisito!}
-{3021}{}{Terminare! Terminare}
+{3021}{}{Terminare! Terminare!}
 {3022}{}{L'umanoide non deve scappare!}
 {3023}{}{Terminare l'intruso!}
 {3024}{}{Iniziata sequenza di combattimento.}
@@ -1204,7 +1204,7 @@
 {3062}{}{Attacco da parte del bersaglio: fallito. Risposta in elaborazione.}
 {3063}{}{L'unita' non e' stata danneggiata dall'attacco.}
 {3064}{}{Ricalcolo delle capacita' offensive del bersaglio.}
-{3065}{}{Analisi: Errore del bersaglio nella scelta tattica. L'unita' non ha subito danni.}
+{3065}{}{Analisi: Errore del bersaglio nella scelta tattica. L'unita' non ha subito danni}
 {3100}{}{Devo andarmene da qui!}
 {3101}{}{Tornero'...}
 {3102}{}{Non mi ammazzerai oggi!}
@@ -1216,7 +1216,7 @@
 {3108}{}{Sto solo eseguendo un'avanzata all'indietro.}
 {3109}{}{Uh, e' ora di effettuare una ritirata strategica.}
 {3110}{}{Exit.}
-{3111}{}{E' tardissimo!}
+{3111}{}{E' piu' tardi di quanto pensassi.}
 {3112}{}{Devo correre. Ci si vede.}
 {3113}{}{Viaaaaaa!}
 {3114}{}{Devo andare a riattaccare un po' di pezzi.}
@@ -1235,7 +1235,7 @@
 {3127}{}{Mandate altri sbirri!}
 {3128}{}{Mandate altri paramedici!}
 {3129}{}{Avrei bisogno di pezzi freschi.}
-{3130}{}{Una Tartara al tavolo 5!}
+{3130}{}{Bistecca alla tartara in arrivo.}
 {3131}{}{Vieni!}
 {3132}{}{E' pronta la zuppa?}
 {3133}{}{Dov'e' la bistecca?}
@@ -1355,7 +1355,7 @@
 {10123}{}{Chi e' il creatore?}
 {10124}{}{Errore di calcolo! Errore di calcolo!}
 {10125}{}{Mi dispiace, Dave.}
-{10126}{}{./~ Daisy, Daisy, give me your answer, do ./~}
+{10126}{}{./~ Daisy, Daisy, dammi la tua risposta, fallo ./~}
 {10127}{}{Pericolo Bill Williamson, Pericolo!}
 {10128}{}{Gort! Klaatu Berada Nictu!}
 {10129}{}{Sssszzzzztt *POP*}
@@ -1375,7 +1375,7 @@
 {10143}{}{Chi e' il creatore?}
 {10144}{}{Errore di calcolo! Errore di calcolo!}
 {10145}{}{Mi dispiace, Dave.}
-{10146}{}{./~ Daisy, Daisy, give me your answer, do ./~}
+{10146}{}{./~ Daisy, Daisy, dammi la tua risposta, fallo ./~}
 {10147}{}{Pericolo Bill Williamson, Pericolo!}
 {10148}{}{Gort! Klaatu Berada Nictu!}
 {10149}{}{Sssszzzzztt *POP*}
@@ -1411,7 +1411,7 @@
 {12032}{}{Il perimetro e' stato violato!}
 {12033}{}{Abbiamo un intruso, ragazzi!}
 {12034}{}{All'erta, ragazzi, abbiamo un intruso!}
-{12035}{}{Sbaglio o e' puzza di cadavere, quella che sento?}
+{12035}{}{Hai un bel po’ di fegato a presentarti qui…}
 {12036}{}{Con la forza del numero, gente, con la forza del numero.}
 {12037}{}{Attenzione ai dettagli, gente!}
 {12038}{}{Voglio un fuoco di sbarramento! Non fategli alzare la testa!}
@@ -1480,7 +1480,7 @@
 {12243}{}{E' ora di mettere la tua fottuta carcassa nella fossa.}
 {12244}{}{Ti faro' sputare il cuore e ci camminero' sopra.}
 {12245}{}{Mi dispiace solo di non avere il tempo di mettere la tua testa in una pressa...}
-{12246}{}{Lascia che ti mostri cosa facciamo alla spazzatura, da queste parti}
+{12246}{}{Lasciatemi mostrare cosa facciamo con i rifiuti qui intorno...}
 {12247}{}{Ti colpiro' cosi' forte che penserai si tratti di un terremoto...}
 {12248}{}{Ne ho abbastanza di questo stronzo...}
 {12249}{}{Saluta gli angeli da parte mia...}
@@ -1519,7 +1519,7 @@
 {12381}{}{Cercavi di togliermi la visione a tre dimensioni, eh?}
 {12382}{}{Non...ci...vedo...il...sangue...negli...occhi...}
 {12390}{}{Cosa pensi che fosse questo? Un colpetto da niente?}
-{12391}{}{Le mie palle!!! Vieni qui e lascia che ti restituisca il favore!}
+{12391}{}{Ora non posso farmi sentire come se ne avessi un paio.}
 {12392}{}{Beh, adesso non ho piu' le mie famose palle di bronzo.}
 {12393}{}{Scusami un secondo, ma ho bisogno di vomitare anche l'anima.}
 {12394}{}{Grande. Sto combattendo contro un nemico che ha la fissa per le palle altrui.}
@@ -1648,7 +1648,7 @@
 {14040}{}{Ecco a te, allora.}
 {14041}{}{Touche'!}
 {14042}{}{En Garde!}
-{14043}{}{Hai-Kee-Baaa!}
+{14043}{}{Hai?Ki'?Baaa!}
 {14044}{}{Ti avro'!}
 {14045}{}{Tira fuori i tuoi pugni.}
 {14046}{}{Uh, estrai, Pellegrino - e' cosi' che dite, vero?}
@@ -1717,7 +1717,7 @@
 {18150}{}{Colpisci!}
 {18151}{}{Reagisci!}
 {18152}{}{SUPER... NUCLEAR... TORNADO... FIST... }
-{18153}{}{Ti spiezzo in due.}
+{18153}{}{Ti spiezzo in due. }
 {18154}{}{Ti schiaccero' come un insetto...}
 {18160}{}{Troppo lento!}
 {18161}{}{Sei solo chiacchiere...}
@@ -1771,7 +1771,7 @@
 {26122}{}{Nessuna pieta'!}
 {26123}{}{Quello e' mio!}
 {26124}{}{Khan, all'attacco!}
-{26125}{}{E' qui la festa?}
+{26125}{}{E' ora di far festa!}
 {26126}{}{Qualcuno puo' far fuori questo spreco di carne?}
 {26140}{}{I Khan uccidono!}
 {26141}{}{I Khan sono l'elite delle Lande!}
@@ -1787,7 +1787,7 @@
 {26161}{}{Non mi puoi colpire!}
 {26162}{}{Sono indistruttibile!}
 {26163}{}{Il mio sangue e' piu' forte del tuo!}
-{26164}{}{Forse dovremmo fermarci qualche secondo per permetterti di esercitarti...}
+{26164}{}{Forse dovremmo fermarci un attimo cosi' puoi fare qualche tiro di pratica!}
 {26165}{}{Non sei degno di combattere con me!}
 {26166}{}{Perche' sto sprecando il mio tempo con tipi come te?}
 {32000}{}{La mia faccia! La mia faccia!}
@@ -1809,7 +1809,7 @@
 {32060}{}{Ow, la gamba!}
 {32061}{}{Il mio ginocchio!}
 {32062}{}{Hai beccato l'arteria!}
-{32070}{}{Ow, la gamba!}
+{32070}{}{Ahi, la mia gamba}
 {32071}{}{::hop... hop::}
 {32072}{}{Aaaarrrrggghhh!}
 {32080}{}{Non ci vedo! Bastardo!}
@@ -1836,7 +1836,7 @@
 {32126}{}{Se insisti nel volere la lotta...}
 {32128}{}{Pensi davvero di potermi sconfiggere?}
 {32140}{}{Haiiiiiiii-YA!}
-{32141}{}{Chop-socky!}
+{32141}{}{Hai?yaa!}
 {32142}{}{rooOOOooo!}
 {32143}{}{Hai!}
 {32144}{}{Huh!}
@@ -1873,7 +1873,7 @@
 {32245}{}{L'Inferno dei morti bolliti vivi ti attende!}
 {32246}{}{Saluta i tuoi antenati da parte mia!}
 {32247}{}{Sono immortale!}
-{32248}{}{Chop-suey!}
+{32248}{}{Hai?yaa!}
 {32249}{}{Hai-YA!}
 {32260}{}{Mi sento invincibile!}
 {32261}{}{Fammi vedere di cosa sei capace.}
@@ -1926,7 +1926,7 @@
 {32441}{}{Cavoli, deve far male, eh?}
 {32442}{}{Uf-da!}
 {32443}{}{Adoro l'odore di sangue al mattino...}
-{32444}{}{Cavoli se sanguini!}
+{32444}{}{Ragazzo, sei proprio un emorragico, vero?}
 {32445}{}{::::rutta!:::::}
 {32446}{}{Ti si e' rotta la maglietta, amico!!!!}
 {32447}{}{Ecco del bel piombo caldo in arrivo!!}
@@ -1952,7 +1952,7 @@
 {32526}{}{Ne ho anche per te, oh yeah.}
 {32540}{}{Adesso devi ballare.}
 {32541}{}{::canta::}
-{32542}{}{Iii... will always love YOOUUUUU}
+{32542}{}{Iooo... ti amero' per SEMPREEEE}
 {32543}{}{Non possiamo semplicemente essere amici?}
 {32544}{}{Sei COSI' morto.}
 {32545}{}{Piegati un secondo...}
@@ -2022,7 +2022,7 @@
 {32790}{}{Ooooooooo, il pube! Ooooooo...}
 {32791}{}{Oww...brucia!}
 {32792}{}{Urp!}
-{32793}{}{::gasp::}
+{32793}{}{::sussulto::}
 {32794}{}{Non...posso...respirare...}
 {32795}{}{Non c'e' problema... sono gia'... sterile...}
 {32800}{}{Padre Stellare! Aiutaci Tu!}
@@ -2153,7 +2153,7 @@
 {36020}{}{Ow, il braccio!}
 {36021}{}{Hai rotto il braccio!}
 {36022}{}{Te ne pentirai!}
-{36030}{}{(Grunt!)}
+{36030}{}{(Grugnisce!)}
 {36031}{}{E' solo una ferita della carne!}
 {36032}{}{Grrr!}
 {36033}{}{Te ne pentirai!}
@@ -2173,7 +2173,7 @@
 {36092}{}{Urg! Petey! Va tutto bene laggiu'?}
 {36093}{}{Che...wheeeeze...male!}
 {36094}{}{Urp!}
-{36095}{}{Gasp!}
+{36095}{}{Sussulta!}
 {36100}{}{Ci rivedremo!}
 {36101}{}{Tornero'...}
 {36102}{}{Non sono mai stato sconfitto prima d'ora!}
@@ -2285,7 +2285,7 @@
 {36505}{}{}
 {36520}{}{Kaga e' pronto ad affrontarti adesso.}
 {36521}{}{Sei un moscerino al confronto di Kaga.}
-{36522}{}{Kaga ti spedira' nei pascoli del cielo.}
+{36522}{}{Kaga ti manderà alla tua prossima vita!}
 {36523}{}{Mancherai a Kaga.}
 {36540}{}{Assaggia l'ira di Kaga!}
 {36541}{}{Kaga diventera' famoso per averti ucciso!}
@@ -2390,7 +2390,7 @@
 {36815}{}{Qualcuno mi aiuti!}
 {36816}{}{In teoria dovrei essere IO a cacciare TE!}
 {36817}{}{Ho dei soldi da parte. Lasciami andare e te li daro'.}
-{36818}{}{L'Inferno s'e' appena congelato!}
+{36818}{}{L’inferno dev’essersi appena congelato.}
 {36819}{}{Dannazione, sei bravo!}
 {36820}{}{Hai un'idea di quanto tempo io sia stato sulle tue tracce?}
 {36821}{}{Sei ricercato... MORTO.}
@@ -2506,7 +2506,7 @@
 {40051}{}{Noi non vogliamo che il vino rosso rosso esca.}
 {40052}{}{Tu fatto male a noi, noi fare male a te.}
 {40053}{}{Aiiiiiieeeeee!}
-{40054}{}{Shing-ding-ding!}
+{40054}{}{Cling?cling?cling!}
 {40055}{}{Gli spiriti oscuri ci mordono spalla.}
 {40056}{}{Il cielo essere cosi' chiaro adesso.}
 {40057}{}{Nonn-osso non permettera' che noi muore.}
@@ -2542,7 +2542,7 @@
 {40087}{}{Adesso diventiamo molto piu' potenti di quanto tu potere immaginare, amico.}
 {40088}{}{Per la prima volta ci vediamo bene, fratello.}
 {40089}{}{Nonn-osso vedra' per noi adesso.}
-{40090}{}{Unnh!}
+{40090}{}{Unnh!.}
 {40091}{}{Vivremo in capanna di donne, ora.}
 {40092}{}{Aaiiiiiiiiieeeeeeee!}
 {40093}{}{Non ci servivano altri bambini.}
@@ -2771,7 +2771,7 @@
 {40965}{}{Non hai le palle per sconfiggermi.}
 {40966}{}{Sembra proprio che tu sia stupido E cieco.}
 {40967}{}{Mi hai mancato solo per pochi punti percentuali.}
-{40968}{}{Sei uno di quegli stronzi con il prosciutto sugli occhi?}
+{40968}{}{Devi essere uno strabico figlio di puttana}
 {40969}{}{La tua mira e' andata. La prossima volta, sara' il turno della tua testa.}
 {40970}{}{Diavolo, sono praticamente un fossile, eppure riesco a colpire meglio di te.}
 {40971}{}{Che peccato che TU non possa ricaricare il gioco e riprovare...}
@@ -2836,7 +2836,7 @@
 {41250}{}{Merda! Ho le termiti!}
 {41251}{}{Non pensavo di essere cosi' secco e fragile.}
 {41252}{}{Dannazione, nessuno ha del nastro adesivo?}
-{41253}{}{(Cough, cough, wheeeeeeeeze)}
+{41253}{}{(Tossisce, wheeeeeeeeze)}
 {41254}{}{Foro di entrata, foro di uscita, un'altra aggiunta alla mia collezione di fori!}
 {41255}{}{Dannazione, mi hanno disossato.}
 {41256}{}{Pazienza, era il mio profilo peggiore.}
@@ -2918,7 +2918,7 @@
 {41332}{}{Siete sicuri che questo sia davvero necessario?}
 {41333}{}{Beh, se questo e' l'unico modo...}
 {41334}{}{Non penso di essere tagliato per questo.}
-{41335}{}{Ehi, si puo' rimanere feriti facendo questo, sapete?}
+{41335}{}{Ehi, sai, uno potrebbe farsi male facendo una cosa del genere.}
 {41336}{}{Non c'e' un altro modo per risolvere la questione?}
 {41337}{}{Non possiamo semplicemente essere amici?}
 {41338}{}{Qualcuno si fara' male... probabilmente io.}
@@ -3129,7 +3129,7 @@
 {41763}{}{Prendi un numero.}
 {41764}{}{Bzzt! Bersaglio mancato!}
 {41765}{}{Ma voi non la smettete mai?}
-{41766}{}{Yawn.}
+{41766}{}{Sbadiglia.}
 {41767}{}{Pivellini.}
 {41768}{}{Torna al poligono di tiro, ragazzo.}
 {41769}{}{Continua cosi'. Forse un giorno riuscirai a colpirmi.}
@@ -3158,14 +3158,14 @@
 {42012}{}{IL BRACCIO! il braccio! SONO STATO COLPITO AL BRACCIO! AIUTO! AIUTO!}
 {42013}{}{Non il mio braccio sinistro! E' il mio braccio dominante!}
 {42014}{}{Non la mia mano! Rosie! Rosie Palmer! Parlami, cara!}
-{42015}{}{Aighhh! Il mio osso cubitale!}
+{42015}{}{Aighhh! Il mio osso del gomito! I... Io...Io... devo... resistere... dal... ridere...}
 {42016}{}{Aieeee! Non sento piu' il braccio sinistro!}
 {42017}{}{*Urkkk*...il braccio sinistro...sembra stia andando a fuoco...}
 {42020}{}{Ignora il dolore al braccio ignora il dolore al braccio}
 {42021}{}{Aighh! Il mio braccio e' coperto di sangue! Aiuto! Datemi una cassa di stimpak! Aiuto!}
 {42022}{}{IL BRACCIO! il braccio! SONO STATO COLPITO AL BRACCIO! AIUTO! AIUTO!}
 {42023}{}{Non la mia mano! Rosie! Rosie Palmer! Parlami, cara!}
-{42024}{}{Aighhh! Il mio osso cubitale!}
+{42024}{}{Aighhh! Il mio osso del gomito! I... Io...Io... devo... resistere... dal... ridere...}
 {42025}{}{Aieeee! Non sento piu' il braccio destro!}
 {42026}{}{*Urkkk*...il braccio destro...sembra che stia andando a fuoco...}
 {42027}{}{Non il mio braccio destro! Lo uso nei fine settimana!}
@@ -3220,7 +3220,7 @@
 {42080}{}{...hah-hah-hai colpito il mio oh-oh-occhio...}
 {42081}{}{Il mio occhio! Il mio occhio! Aiuto! Qualcuno mi aiuti!}
 {42082}{}{Aighh! Non ci vedo piu'! Aiuto! Uno stimpak! Aiuto!}
-{42083}{}{IL MIO OCCHIO! IL MIO OCCHIO}
+{42083}{}{IL MIO OCCHIO! IL MIO OCCHIO!}
 {42084}{}{Sono diventato cieco! E non per le masturbazioni!}
 {42085}{}{Owwwww! L'occhio! Il mio occhio!}
 {42086}{}{Aieeeee! Sono stato colpito ad un occhio! Guardatemi tutti!}
@@ -3289,7 +3289,7 @@
 {42157}{}{Non rimanevo coinvolto in una rissa dai tempi della quinta elementare.}
 {42158}{}{Hai morso un boccone troppo grande da masticare, faccia da culo.}
 {42159}{}{Muori! Uh, per favore?}
-{42160}{}{Yikes!}
+{42160}{}{Urca!}
 {42161}{}{Aieeeee...oh, aspetta... mi hai mancato. Dimentica la parte in cui urlavo.}
 {42162}{}{Non hai preso niente!}
 {42163}{}{Questo era DAVVERO vicino...}
@@ -3306,7 +3306,7 @@
 {42174}{}{Mi serviranno delle mutande nuove, una volta finita questa battaglia.}
 {42175}{}{Non possiamo discuterne amichevolmente?}
 {42176}{}{Ah! Mi hai mancato, merdaccia!}
-{42177}{}{Zoiks!}
+{42177}{}{Ouh!}
 {44000}{}{Bzzzt!}
 {44010}{}{Zzzzzzt!}
 {44020}{}{Fizzzzzzzzt!}
@@ -3386,13 +3386,13 @@
 {44547}{}{Individuato bersaglio per l'assalto.}
 {44548}{}{Attacco in corso.}
 {44549}{}{Eliminazione minaccia in corso.}
-{44560}{}{Target missed.}
-{44561}{}{Sensors indicate enemy target missed.}
+{44560}{}{Bersaglio mancato.}
+{44561}{}{I sensori indicano che il nemico ha mancato il bersaglio.}
 {44562}{}{Danno negativo inflitto. Regolazione degli scanner di puntamento in corso.}
-{44563}{}{Enemy missed. Recalibrating targeting sensors.}
+{44563}{}{Nemico mancato. Ricalibrazione dei sensori di puntamento in corso.}
 {44564}{}{Errore. Malfunzionamento nei sensori di puntamento.}
 {44565}{}{Analisi dei dati di fuoco... correzioni completate.}
-{44566}{}{Enemy target undamaged.}
+{44566}{}{Bersaglio nemico non danneggiato.}
 {44800}{}{Ho la testa dura, ma questo mi ha fatto male.}
 {44801}{}{Ho un enorme mal di testa.}
 {44802}{}{Umph. Non la testa!}
@@ -3466,7 +3466,7 @@
 {44925}{}{Preparati ad incontrare il tuo destino!}
 {44926}{}{Faresti meglio a dire le preghiere finche' sei ancora in tempo.}
 {44927}{}{Ti dipingero' di rosso!}
-{44928}{}{E' qui la festa?}
+{44928}{}{E' ora di far festa!}
 {44929}{}{Sto arrivando!}
 {44930}{}{Ci vediamo al fronte!}
 {44931}{}{E' ora di raggiungere e colpire qualcuno!}
@@ -3517,7 +3517,7 @@
 {44976}{}{Inizio a pensare che tu non sia tagliato per questo lavoro.}
 {44977}{}{Stai cercando di farmi morire di risate?}
 {44978}{}{Quel colpo ha centrato in pieno l'aria!}
-{44979}{}{Mi hai mancato, o sbaglio?}
+{44979}{}{Mi hai appena mancato o cosa?!}
 {50000}{}{}
 {50010}{}{}
 {50020}{}{}
@@ -3533,139 +3533,139 @@
 {60000}{}{Sistemi offensivi ignorati.}
 {60020}{}{Sistemi offensivi attivati.}
 {60040}{}{Whrrr. Click. Click. Woof!}
-{60041}{}{Arg! Click. Woof!}
+{60041}{}{Arg! Clic. Bau!}
 {60060}{}{Azione offensiva evitata.}
-{70000}{}{You better hope that doesn't leave a scar.}
-{70001}{}{Woah! Not the face!}
-{70002}{}{My face! My beautiful face!}
-{70003}{}{Hey! Don't mess with perfection.}
-{70004}{}{Try that again motherfucker and see what happens.}
-{70010}{}{That hurt, asshole.}
-{70011}{}{Shit! My arm!}
-{70012}{}{Hey, lay off the guns.}
-{70013}{}{Son of a bitch, that hurt!}
-{70020}{}{That hurt, asshole.}
-{70021}{}{Shit! My arm!}
-{70022}{}{Hey, lay off the guns.}
-{70023}{}{Son of a bitch, that hurt!}
+{70000}{}{Speriamo per te che non lasci una cicatrice.}
+{70001}{}{Ehi! Non la faccia!}
+{70002}{}{La mia faccia! La mia bellissima faccia!}
+{70003}{}{Ehi! Non rovinare la perfezione.}
+{70004}{}{Riprova, bastardo, e vedi cosa succede.}
+{70010}{}{Fa male, stronzo.}
+{70011}{}{Merda! Il mio braccio!}
+{70012}{}{Ehi, piano con le armi.}
+{70013}{}{Maledizione, fa un sacco male!}
+{70020}{}{Fa male, stronzo.}
+{70021}{}{Merda! Il mio braccio!}
+{70022}{}{Ehi, piano con le armi.}
+{70023}{}{Maledizione, fa un sacco male!}
 {70030}{}{Tecnicamente ho piu' di centottant'anni, dovresti vergognarti.}
 {70031}{}{Sto sanguinando... non e' cosi' che dovrebbe funzionare.}
-{70032}{}{You can't kill me, I've got the heart of a demon.}
-{70033}{}{Hit me again and I'll knife you in the groin.}
-{70040}{}{You trying to make me a gimp?}
-{70041}{}{Ah! My knee!}
-{70042}{}{Shit! My leg!}
-{70043}{}{You gave me a fucking Charley horse!}
-{70050}{}{You trying to make me a gimp?}
-{70051}{}{Ah! My knee!}
-{70052}{}{Shit! My leg!}
-{70053}{}{You gave me a fucking Charley horse!}
+{70032}{}{Non puoi uccidermi, ho il cuore di un demone.}
+{70033}{}{Colpiscimi ancora e ti pianto un coltello all’inguine.}
+{70040}{}{Vuoi ridurmi uno storpio?}
+{70041}{}{Ah! Il mio ginocchio!}
+{70042}{}{Merda! La mia gamba!}
+{70043}{}{Mi hai dato un crampo del cazzo!}
+{70050}{}{Vuoi ridurmi uno storpio?}
+{70051}{}{Ah! Il mio ginocchio!}
+{70052}{}{Merda! La mia gamba!}
+{70053}{}{Mi hai dato un crampo del cazzo!}
 {70060}{}{I miei occhi!}
-{70061}{}{Oh fuck, not my eyes!}
-{70062}{}{MAh! I can't see shit!}
-{70063}{}{My eyes! My dreamboat eyes!}
-{70070}{}{FUCK!}
-{70071}{}{You just made this REAL personal.}
-{70072}{}{Oh, you're going to regret that.}
+{70061}{}{Oh cazzo, non gli occhi!}
+{70062}{}{Non vedo un cazzo!}
+{70063}{}{I miei occhi! I miei splendidi occhi!}
+{70070}{}{CAZZO!}
+{70071}{}{Adesso la cosa è diventata personale.}
+{70072}{}{Oh, te ne pentirai.}
 {70073}{}{Quella con cui stai giocando e' tecnologia prebellica di altissimo livello.}
 {70074}{}{Geloso?}
 {70075}{}{Ehi! Ehi! Ehi! Questo era del tutto immotivato!}
-{70100}{}{Look, this was all just a big misunderstanding.}
-{70101}{}{I'm sorry alright, now leave me alone.}
-{70102}{}{Fuck this, I'm outta' here.}
-{70103}{}{I'll come back later and knife you in your sleep.}
-{70104}{}{It was just a joke.}
-{70105}{}{I'm terribly sorry, I don't know what came over me.}
+{70100}{}{Senti, è stato tutto un grande malinteso.}
+{70101}{}{Ho detto che mi dispiace, ora lasciami in pace.}
+{70102}{}{Al diavolo, me ne vado.}
+{70103}{}{Tornerò più tardi e ti pugnalerò nel sonno.}
+{70104}{}{Era solo uno scherzo.}
+{70105}{}{Mi dispiace davvero, non so cosa mi sia preso.}
 {70106}{}{Mi hanno costretto, lo giuro!}
 {70107}{}{Lasciami vivere e non uccidero' mai piu', lo prometto!}
-{70108}{}{Can't we just talk this over like civilized people?}
-{70120}{}{Oh, I'm going to enjoy this.}
-{70121}{}{I can't wait to hear some screams.}
-{70122}{}{I've been just itching to kill...}
+{70108}{}{Non possiamo parlarne come persone civili?}
+{70120}{}{Oh, questo me lo godrò.}
+{70121}{}{Non vedo l’ora di sentire qualche urlo.}
+{70122}{}{Mi prudono le mani dalla voglia di uccidere...}
 {70123}{}{E' ora di indulgere nelle gioie di una societa' senza polizia.}
 {70124}{}{Va bene! E' ora di un colpo all'inguine!}
 {70140}{}{Urla per me.}
-{70141}{}{Let me get a better look at your blood.}
-{70142}{}{I'll try and make this as painful as possible.}
-{70143}{}{This violence is giving me a hard-on.}
-{70160}{}{What a fuckin' joke.}
-{70161}{}{Holy shit do you suck.}
+{70141}{}{Fammi dare un’occhiata migliore al tuo sangue.}
+{70142}{}{Cercherò di rendere la cosa il più dolorosa possibile.}
+{70143}{}{Questa violenza mi eccita.}
+{70160}{}{Che fottuta barzelletta.}
+{70161}{}{Santo cielo, fai schifo.}
 {70162}{}{Sei fortunato ad aver mancato. Anzi, non sei fortunato, perche' ti uccidero' comunque.}
-{70163}{}{Way to fail, champ.}
-{70200}{}{You best hope that don't leave a scar...}
-{70201}{}{Damn! You chipped my tooth, monkey!}
-{70202}{}{Hey! Watch the face!}
-{70210}{}{Shit! You got my arm!}
-{70211}{}{Ohh, that stings!}
-{70212}{}{That's gonna leave an ugly smegging bruise.}
-{70220}{}{Shit! You got my arm!}
-{70221}{}{Ohh, that stings!}
-{70222}{}{That's gonna leave an ugly smegging bruise.}
+{70163}{}{Bel fallimento, campione.}
+{70200}{}{Speriamo per te che non lasci una cicatrice...}
+{70201}{}{Maledizione! Mi hai scheggiato un dente, scimmia!}
+{70202}{}{Ehi! Attento alla faccia!}
+{70210}{}{Merda! Il mio braccio!}
+{70211}{}{Ahi, brucia!}
+{70212}{}{Quello lascerà un livido orribile.}
+{70220}{}{Merda! Il mio braccio!}
+{70221}{}{Ahi, brucia!}
+{70222}{}{Quello lascerà un livido orribile.}
 {70230}{}{Ah! Proprio nel mio fottuto petto!}
-{70231}{}{There goes one of my lives...}
-{70232}{}{You missed my heart, monkey!}
-{70240}{}{You can't keep this cat from strutting.}
+{70231}{}{Addio a una delle mie vite...}
+{70232}{}{Hai mancato il cuore, scimmia!}
+{70240}{}{Non puoi fermare questo gatto dal pavoneggiarsi.}
 {70241}{}{Merda, proprio nella rotula!}
-{70242}{}{You can't slow me down!}
-{70250}{}{You can't keep this cat from strutting.}
+{70242}{}{Non puoi rallentarmi!}
+{70250}{}{Non puoi fermare questo gatto dal pavoneggiarsi.}
 {70251}{}{Merda, proprio nella rotula!}
-{70252}{}{You can't slow me down!}
-{70260}{}{Motherfucker hit me in the eyes!}
-{70261}{}{Oh! I think my eye's bleeding!}
+{70252}{}{Non puoi rallentarmi!}
+{70260}{}{Bastardo, mi hai colpito agli occhi!}
+{70261}{}{Oh! Credo che il mio occhio stia sanguinando!}
 {70262}{}{I miei occhi!}
-{70270}{}{Whoa, no hitting below the belt.}
+{70270}{}{Ehi, niente colpi sotto la cintura.}
 {70271}{}{Puntare all'inguine non e' bello. Per niente.}
 {70272}{}{Ehi! L'inguine e' fuori limite.}
 {70273}{}{Questo gatto non vuole essere castrato!}
 {70300}{}{Un gatto deve badare a se stesso!}
-{70301}{}{Screw it, you're not worth it.}
-{70302}{}{Fuck this, I'm outta' here.}
+{70301}{}{Al diavolo, non ne vali la pena.}
+{70302}{}{Al diavolo, me ne vado.}
 {70303}{}{Devo filare finche' ho ancora una vita da perdere.}
-{70304}{}{You won this time, monkey!}
-{70320}{}{Don't worry, this'll be over *real* soon.}
-{70321}{}{This cat's about to pounce!}
-{70322}{}{Let's waste these smegheads.}
+{70304}{}{Hai vinto tu, stavolta, scimmia!}
+{70320}{}{Non preoccuparti, finirà *molto* presto.}
+{70321}{}{Questo gatto sta per balzare!}
+{70322}{}{Sbarazziamoci di questi idioti.}
 {70340}{}{Sbrigatevi a dare un morso, così posso farlo anch'io!}
-{70341}{}{At least I'm killing you with style.}
-{70342}{}{You best not bleed on my clothes. }
-{70343}{}{I better not break a nail. }
-{70360}{}{Looks like this cat's too quick for you.}
-{70361}{}{Now that's just sad.}
-{70362}{}{Here, let me show you how to actually *hit* something.}
+{70341}{}{Almeno ti uccido con stile.}
+{70342}{}{Sarà meglio che tu non sporchi i miei vestiti di sangue. }
+{70343}{}{Speriamo di non spezzarmi un’unghia. }
+{70360}{}{Sembra che questo gatto sia troppo veloce per te.}
+{70361}{}{Questo è semplicemente triste.}
+{70362}{}{Vieni, lascia che ti mostri come si colpisce *davvero* qualcosa.}
 {70363}{}{Cavolo, quasi mi dispiace per te. Quasi.}
-{70400}{}{Ah! My head!}
-{70401}{}{I think my ear's bleeding.}
+{70400}{}{Ahi! La mia testa!}
+{70401}{}{Credo che il mio orecchio stia sanguinando.}
 {70402}{}{Cào! Spero che non mi abbia rotto il naso.}
-{70410}{}{Cào! My arm!}
+{70410}{}{Ahi! Il mio braccio!}
 {70411}{}{Dannazione, che male!}
 {70412}{}{Almeno non e' rotto... credo.}
-{70420}{}{Cào! My arm!}
+{70420}{}{Ahi! Il mio braccio!}
 {70421}{}{Dannazione, che male!}
 {70422}{}{Almeno non e' rotto... credo.}
-{70430}{}{I think I broke a rib.}
-{70431}{}{I won't die that easily.}
-{70432}{}{Cào! That hurt!}
-{70440}{}{Not the legs!}
-{70441}{}{Ah! Right in the shin.}
+{70430}{}{Credo di essermi rotto una costola.}
+{70431}{}{Non morirò così facilmente.}
+{70432}{}{Ahi! Fa male!}
+{70440}{}{Non le gambe!}
+{70441}{}{Ahi! Proprio allo stinco.}
 {70442}{}{Fa male, ma almeno posso ancora camminare.}
-{70450}{}{Not the legs!}
-{70451}{}{Ah! Right in the shin.}
+{70450}{}{Non le gambe!}
+{70451}{}{Ahi! Proprio allo stinco.}
 {70452}{}{Fa male, ma almeno posso ancora camminare.}
-{70460}{}{Cào! My eyes!}
-{70461}{}{Cheap shot!}
+{70460}{}{Ahi! I miei occhi!}
+{70461}{}{Colpo basso!}
 {70462}{}{Ehi! Non posso permettermi un'altra operazione agli occhi!}
-{70470}{}{I can't believe you just hit me there.}
-{70471}{}{I'm not that kind of girl!}
-{70472}{}{You just made this *real* personal.}
-{70500}{}{Looks like I've no choice but to run...}
-{70501}{}{I'd rather flee than die.}
-{70502}{}{Alright. That's enough of this...}
-{70520}{}{Let's get this over with.}
-{70521}{}{Your death shall come swiftly.}
-{70522}{}{Looks like it's come to this...}
-{70540}{}{You asked for this.}
-{70541}{}{I take no pleasure from this.}
-{70542}{}{Now you see the consequence of your actions.}
-{70560}{}{Wow, that's pathetic.}
-{70561}{}{Too quick for you, huh?}
+{70470}{}{Non posso credere che tu mi abbia colpito lì.}
+{70471}{}{Non sono quel tipo di ragazza!}
+{70472}{}{Ora la cosa è diventata *davvero* personale.}
+{70500}{}{Sembra che non abbia altra scelta che scappare...}
+{70501}{}{Preferisco fuggire che morire.}
+{70502}{}{D’accordo. Adesso basta...}
+{70520}{}{Finiamola qui.}
+{70521}{}{La tua morte sarà rapida.}
+{70522}{}{Sembra che si sia arrivati a questo...}
+{70540}{}{Te la sei cercata.}
+{70541}{}{Non traggo alcun piacere da questo.}
+{70542}{}{Ora vedi le conseguenze delle tue azioni.}
+{70560}{}{Wow, che patetico.}
+{70561}{}{Troppo veloce per te, eh?}
 {70562}{}{Non ci sei andato nemmeno vicino.}

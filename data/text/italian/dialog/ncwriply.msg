@@ -24,7 +24,7 @@
 {227}{}{Muori, faccia da Enclave!}
 {228}{}{Aighhhhhhhh...mi hanno colpito...}
 {240}{}{Guardatemi, sono l'insetto metallico! Bzzzzzz}
-{241}{}{Blam blam!}
+{241}{}{Bla bla!}
 {242}{}{Attenti, sta arrivando l'insetto metallico!}
 {243}{}{Prendi questo!}
 {244}{}{Tu fai SEMPRE l'insetto metallico!}
@@ -60,22 +60,23 @@
 {312}{}{Tu sei una cattiva persona. Faresti meglio ad andartene prima che lo vada a dire ai miei fratelli.}
 {320}{}{(Il bambino smette di fare *bzzzzz* e solleva la pentola per guardarti meglio.)}
 {321}{}{Puo' anche }
-{322}{}{Scusaaaa. Me pensava tu essere pentola. Ciaoooo.}
+{322}{}{Scusaaaa. Me pensava tu essere pentola. Ciaoooo}
 {323}{}{Perche' vai in giro con una pentola in testa?}
 {324}{}{A cosa state giocando?}
 {325}{}{Dove sono i tuoi genitori?}
 {326}{}{(Lascialo giocare.)}
 {330}{}{Beh...okay. (Ti osserva per bene.) Ma l'insetto metallico lo faccio IO!}
-{331}{}{Okee dokee piccola persona ape, }
+{331}{}{Okee dokee piccola persona ape}
 {332}{}{ okay con questo.}
 {333}{}{Che incesto?}
 {334}{}{No! }
 {335}{}{Ooooh...cosa essere laggiu'?}
 {340}{}{(Il piccolo ometto si cala di nuovo la pentola sugli occhi e ricomincia a correre facendo *bzzzzzz*.)}
-{341}{}{-Corri un po' con lui, facendo *bzzzzzz* anche tu-}
+{341}{}{Corri un po' con lui, facendo *bzzzzzz* anche tu.}
 {342}{}{-Allontanati-}
 {343}{}{(Te ne vai.)}
-{350}{}{INSETTO, stupido che non sei altro! Ne abbiamo VISTO uno quando stavamo giocando nel deserto! Era grosso... (prende un grosso respiro) ...grosso come una CASA! E aveva delle PERSONE dentro!}
+{350}{}{INSETTO, stupi?do! Ne abbiamo visto uno quando eravamo nel deserto! Era grande… (fa un bel respiro) …grande come una CASA!
+E dentro c’erano persone di METALLO.}
 {351}{}{Nuh-uh}
 {352}{}{No chiamare me stupido}
 {353}{}{No gridare. }
@@ -85,7 +86,7 @@
 {360}{}{Ah-a! L'abbiamo visto.}
 {362}{}{Ah-ah-ah-ah}
 {363}{}{Noh-oh-oh-oh}
-{364}{}{-Ti allontani e fai "ahhh" a qualcun altro-}
+{364}{}{Ti allontani e fai "ahhh" a qualcun altro.}
 {370}{}{Ah-a! Te lo faro' vedere! Andremo a vederlo quando fara' DAVVEEERO buio. }
 {371}{}{Ah-a! Te lo faro' vedere! Andremo a vederlo stanotte. }
 {372}{}{Vuoi venire? (Il piccolo ometto ti guarda con occhio furbo) Ma devi fare mooooolto silenzio. Moooooolto silenzio.}
@@ -97,7 +98,7 @@
 {383}{}{-Ti copri le orecchie e scappi via-}
 {384}{}{D'accordo...per questa volta. Vacci piano con il Jet, ragazzo.}
 {390}{}{(Ti guarda con occhio furbo.) Fai gli stessi versi che la mamma e il papa' fanno quando vanno a letto.}
-{391}{}{Dove voi visto incesto? Me anche volere vedere.}
+{391}{}{Dove voi visto incesto? Me anche volere vedere}
 {400}{}{Non sto dicendo una bugia, stupido! Andremo a vederlo quando fara' DAVVEEERO buio. }
 {401}{}{Non sto dicendo una bugia, stupido! Andremo a vederlo stanotte. }
 {403}{}{NO chiamare me stupido, STUPIDO}
@@ -124,7 +125,7 @@
 {453}{}{No. Rischieresti di spararti un colpo in testa.}
 {454}{}{Beh, ma certo, piccola "testa in padella". Ecco qua. (Gli dai una pistola scarica.)}
 {455}{}{Beh, ma certo, piccola "testa in padella". Ecco qua. (Gli dai una pistola carica.)}
-{456}{}{"Insetti Metallici"?}
+{456}{}{"Insetti Metallici?"}
 {457}{}{Oh, okay. Ero solo curioso.}
 {458}{}{Nooooo... Credo sia meglio che io vada.}
 {470}{}{(Ti fissa.) Eddai, so come usare una pistola come quella! Sono un Wright! Lasciamela vedere! Daaaaai?}
@@ -134,7 +135,7 @@
 {474}{}{Beh, d'accordo. [Gli dai una pistola scarica.]}
 {475}{}{Beh, d'accordo. [Gli dai una pistola carica.]}
 {476}{}{Scordatelo. Va' a giocare con i tuoi amici.}
-{485}{}{Si', insetti metallici! Ne abbiamo VISTO uno quando stavamo giocando nel deserto! Era grosso... (prende un grosso respiro) ...grosso come una CASA! E aveva delle PERSONE dentro!}
+{485}{}{Si', insetti metallici! Ne abbiamo VISTO uno quando stavamo giocando nel deserto! Era grosso... (prende un grosso respiro) ...grosso come una CASA! E dentro c’erano persone di METALLO.}
 {486}{}{Davvero? Wow! Dove l'avete visto?}
 {487}{}{Stai mentendo!}
 {488}{}{Non ci credo. Stai mentendo.}
@@ -160,7 +161,7 @@
 {543}{}{Okay, okay. Come non detto. Torna pure a giocare.}
 {550}{}{NON ti sto dicendo una bugia! L'abbiamo VISTO nel deserto! Posso DIMOSTRARTELO! (Ti fissa.) Andremo a vederlo quando fara' un po' piu' buio. }
 {551}{}{NON ti sto dicendo una bugia! L'abbiamo VISTO nel deserto! Posso DIMOSTRARTELO! (Ti fissa.) Andremo a vederlo stanotte. }
-{552}{}{Vieni con noi e te lo faro' vedere. (Ridacchia) Se non hai PAURA... }
+{552}{}{Vieni con noi e te lo faro' vedere. (Ridacchia) Se non hai PAURA...}
 {556}{}{No, grazie. Torna pure a giocare.}
 {560}{}{(Prendi la pistola piu' schifosa che hai e la dai al bambino. Lui sorride e la tiene in mano, guardandosela e riguardandosela.) La MIA pistola! Forte! }
 {561}{}{E so anche dove trovare i proiettili!}
@@ -184,8 +185,8 @@
 {630}{}{(Il bambino scuote la testa. Si cala di nuovo la pentola sugli occhi e ricomincia a correre facendo *bzzzzzz*.)}
 {631}{}{Uh, okay.}
 {632}{}{Piccola canaglia... vedrai se salvero' te, quando avro' salvato il mondo...}
-{640}{}{Aspetti finche' non fa un po' piu' buio... }
-{641}{}{Aspetti finche' non fa buio... }
+{640}{}{Aspetti finche' non fa un po' piu' buio...}
+{641}{}{Aspetti finche' non fa buio...}
 {642}{}{[...poi segui i bambini nel deserto.]}
 {700}{}{STA' LONTANO DA ME!}
 {701}{}{Ahhh...}

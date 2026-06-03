@@ -1,6 +1,6 @@
 {100}{}{OK}
 {101}{}{OPZIONI}
-{102}{}{CANC.}
+{102}{}{CANC}
 {103}{}{STAMPA}
 {104}{}{ETA'}
 {105}{}{SESSO}
@@ -17,7 +17,7 @@
 {116}{}{PUNTI CARISMA}
 {117}{}{ABILITA'}
 {118}{}{Devi usare tutti i punti personaggio}
-{119}{}{comprese tra 1 e 10 prima di cominciare!}
+{119}{}{prima di iniziare il gioco!}
 {120}{}{Punti personaggio}
 {121}{}{Ammontare di punti personaggio gratuiti che possono essere aggiunti a una delle tue caratteristiche di base.}
 {122}{}{Prossimo Livello}
@@ -41,7 +41,7 @@
 {140}{}{Hai gia' un massimo di}
 {141}{}{tre "Scelte"!}
 {142}{}{Devi selezionare tutte le "Scelte"}
-{143}{}{comprese tra 1 e 10 prima di cominciare!}
+{143}{}{prima di iniziare il gioco!}
 {144}{}{"Scelte"}
 {145}{}{Le "Scelte" sono abilita' nelle quali il tuo personaggio si specializza. Ogni abilita' "Scelta" prende un bonus +20% e aumenta al doppio della velocita'. Devi selezionare tre "Scelte".}
 {146}{}{Tratti Opzionali}
@@ -56,8 +56,8 @@
 {155}{}{SCEGLI UN NUOVA "SCELTA"}
 {156}{}{TRATTI}
 {157}{}{Tutte le caratteristiche devono essere}
-{158}{}{comprese tra 1 e 10 prima di cominciare!}
-{160}{}{Attento: non hai inserito un nome.}
+{158}{}{prima di iniziare il gioco!}
+{160}{}{Attento: non hai inserito un nome}
 {161}{}{Utilizzi lo stesso il personaggio?}
 {175}{}{Pr. Lvl:}
 {200}{}{Pessim}
@@ -71,17 +71,17 @@
 {208}{}{Ecclnt}
 {209}{}{Eroico}
 {300}{editor}{Punti Vita}
-{301}{}{Punti Azione}
-{302}{editor}{Classe Armatura}
+{301}{}{Punti Azione }
+{302}{editor}{Clas. Armatura}
 {303}{}{Danno Corpo-a-Corpo}
-{304}{}{Danno in Mischia}
-{305}{}{Res. al Danno }
-{306}{}{Res. al Veleno}
+{304}{editor}{Danno Mischia}
+{305}{}{Res. al Danno  }
+{306}{}{Res. al Veleno   }
 {307}{}{Res. a Radiaz.}
 {308}{editor}{Sequenza}
-{309}{editor}{Tasso di Guarigione}
-{310}{editor}{% di Colpi Critici}
-{311}{editor}{Massimo Peso Trasportabile}
+{309}{editor}{Tas. Guarigione}
+{310}{editor}{% Colpi Critici}
+{311}{editor}{Cap. Trasporto}
 {312}{}{Avvelenato}
 {313}{}{Irradiato}
 {314}{}{Danno agli Occhi}
@@ -111,7 +111,7 @@
 {600}{}{SALVA}
 {601}{}{CARICA}
 {602}{}{STAMPA SU FILE}
-{603}{}{CANC.}
+{603}{}{CANC}
 {604}{}{OK}
 {605}{}{Sei sicuro di voler cancellare}
 {606}{}{questo personaggio?}
@@ -180,7 +180,7 @@
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexperto}
 {1014}{}{Campione}
-{1015}{}{Gigolo}
+{1015}{}{Gigolo'}
 {1016}{}{Tombarolo}
 {1017}{}{Picciotto: Salvatore}
 {1018}{}{Sposato}
@@ -191,11 +191,11 @@
 {1023}{}{Picciotto: Mordino}
 {1024}{}{Picciotto: Wright}
 {1025}{}{Divorziato}
-{1026}{}{Smoker}
+{1026}{}{Fumatore}
 {1100}{}{Questa statistica rappresenta la tua reputazione generale. Piu'alto il valore, piu' sei conosciuto e rispettato. Se la tua reputazione e' negativa, qualcuno ti odia per le tue cattive azioni.}
 {1101}{}{Hai ucciso un gran numero di persone. Di solito non e' molto positivo diventare famosi per questo. Delinquenti e sbandati, tuttavia, ti rispetteranno di piu'.}
 {1102}{}{Le tue azioni ti hanno fatto diventare l'eroe della gente. Notizie della tua guerra contro il male e la delinquenza sono giunte in molti luoghi. Le persone onorevoli ti rispetteranno di piu'.}
-{1103}{}{Hai ucciso dei bambini, la gioventu' di queste lande desolate. Questa e' considerata una cosa molto malvagia. Brutto cattivaccio!}
+{1103}{}{Hai ucciso dei bambini, la gioventu' delle lande desolate Questo e' considerato una cosa davvero brutta. Sei una persona cattiva, cattiva.}
 {1104}{}{Ti sei riempito di Nuka-Cola, la bibita del mondo post-nucleare.}
 {1105}{}{Sei dipendente dalla droga Buffout. Devi assumere questa droga regolarmente oppure soffrirai gli effetti dell'astinenza.}
 {1106}{}{Stai male a causa della dipendenza da Mentat. Devi assumere questa particolare droga oppure soffrirne le crisi d'astinenza.}
@@ -204,7 +204,7 @@
 {1109}{}{Hai un problema di alcolismo. In realta', hai molti problemi causati dalle tue abitudini nel bere.}
 {1110}{}{Sei tossicodipendente. Devi assumere Jet con regolarita'.}
 {1111}{}{Tragicamente, sei dipendente da "L'Accozzaglia". Sei continuamente alla ricerca di nuove espansioni.}
-{1112}{}{TEMPORARY - What is this?}
+{1112}{}{TEMPORANEO - Cos'e' questo?}
 {1113}{}{Conosci il sesso. Conosci le tecniche. Sai come far godere una persona di sesso opposto e lasciarla con una voglia matta di rifarlo.}
 {1114}{}{Sei il campione dei pesi massimi del Nord California. Hai ottenuto fama, rispetto, l'amore delle folle... e un bonus per la resistenza fisica e l'abilita' Disarmato.}
 {1115}{}{Siamo onesti: vai a letto con qualsiasi cosa cammini su due gambe. Talvolta, non sei neanche cosi' pignolo.}
@@ -246,11 +246,11 @@
 {4001}{}{Dipendenze}
 {4100}{}{Rappresenta la tua reputazione in una data locazione.}
 {4101}{}{Le cose per le quali sei diventato dipendente.}
-{5000}{}{Sorry, you can only print your}
-{5001}{}{character in the full version.}
-{5002}{}{Sorry, you can only save your}
-{5003}{}{character in the full version.}
-{5004}{}{Sorry, you can only load a saved}
-{5005}{}{character in the full version.}
+{5000}{}{Spiacente, puoi stampare il tuo}
+{5001}{}{personaggio solo nella versione completa.}
+{5002}{}{Spiacente, puoi salvare il tuo}
+{5003}{}{personaggio solo nella versione completa.}
+{5004}{}{Spiacente, puoi caricare un salvataggio}
+{5005}{}{personaggio solo nella versione completa.}
 {5006}{}{CHEAT MODE}
-{5007}{}{Not available in demo.}
+{5007}{}{Non disponibile nella demo.}

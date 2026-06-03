@@ -15,8 +15,8 @@
 {114}{}{Si', lo so. E' abbastanza noioso qui, ma almeno siamo al sicuro dai predoni e simili...}
 {115}{}{Ciao, selvaggio.}
 {116}{}{Che giornata calda oggi!}
-{117}{}{Good farming grounds here...}
+{117}{}{Buoni terreni coltivabili qui...}
 {118}{}{Buona giornata.}
-{119}{}{Welcome to the Abbey, wanderer!}
+{119}{}{Benvenuto all'Abbazia, viandante!}
 {120}{}{Impressionante monastero quello che abbiamo qui, eh?}
 {200}{}{Toglimi quelle fottute mani di dosso!}

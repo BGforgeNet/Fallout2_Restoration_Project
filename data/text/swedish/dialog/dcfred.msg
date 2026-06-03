@@ -1,4 +1,4 @@
-{100}{}{You see a citizen of the Den.}
+{100}{}{Du ser en invånare från Lyan.}
 {101}{}{You see Fred.}
 {102}{}{You see Fred, wearing very fine clothes.}
 {150}{}{He seems to be busy thinking about something.}
@@ -6,17 +6,17 @@
 {200}{}{I'm going to make it big some day.}
 {201}{}{Oh, leave me alone. I'm busy.}
 {202}{}{The master plan...}
-{203}{}{Going to figure it out some day...}
-{204}{}{Why do I always lose?}
-{205}{}{Tables must be rigged.}
-{206}{}{...I'll own my own place some day.}
+{203}{}{En dag kommer jag nog att lista ut det...}
+{204}{}{Varför förlorar jag alltid?}
+{205}{}{Borden måste vara riggade.}
+{206}{}{...En dag ska jag ha ett eget ställe.}
 {207}{}{Going to get nice clothes.}
 {220}{}{Hey, man! It's late. Leave me alone.}
 {221}{}{No, I don't need any company.}
 {222}{}{Do you know what time it is?}
 {223}{}{I don't have anything.}
 {224}{}{Bug me in the morning. I'm tired.}
-{225}{}{Beat it.}
+{225}{}{Stick härifrån.}
 {226}{}{No one's home.}
 {227}{}{Can't talk. I'm getting ready for bed.}
 {228}{}{Hey, lady! It's late. Leave me alone.}

@@ -75,17 +75,17 @@
 {174}{}{ist nicht besonders geschickt. Deshalb verklemmt sich das Schloss an der Tür.}
 {175}{}{ schafft es nicht, das Schloss an der Tür zu öffnen.}
 {176}{}{Du sprengst das Schloss von der Tür.}
-{177}{}{Beim Aufbrechen des Schlosses verrenkst du dir den Rücken und wirst mit einem Trefferpunkt bestraft.}
-{178}{}{Beim Aufbrechen des Schlosses verrenkst du dir den Rücken und erhältst }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and take }
 {179}{}{ Trefferpunkte.}
-{180}{}{Du bist zu schwach, das Schloss zu sprengen.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ sprengt das Schloss von der Tür.}
-{182}{}{ verrenkt sich den Rücken, während er versucht, das Schloss zu sprengen und wird mit einem Trefferpunkt bestraft.}
-{183}{}{ verrenkt sich den Rücken, während er versucht, das Schloss zu sprengen und erhält}
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ Trefferpunkte.}
 {185}{}{ ist zu schwach, um das Schloss zu sprengen.}
-{186}{}{ verrenkt sich den Rücken, während sie versucht, das Schloss zu sprengen und wird mit einem Trefferpunkt bestraft.}
-{187}{}{ verrenkt sich den Rücken, während sie versucht, das Schloss zu sprengen und erhält}
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ Trefferpunkte.}
 {189}{}{Du sperrst die Tür geschickt ab.}
 {190}{}{Du konntest die Tür nicht abschließen.}

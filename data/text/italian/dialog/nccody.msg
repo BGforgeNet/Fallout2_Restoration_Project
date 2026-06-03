@@ -1,5 +1,5 @@
 {125}{}{Vedi Cody.}
-{175}{}{Vedi un orfano cencioso. Su cio' che resta della sua maglietta c'e' scritto "Cody".}
+{175}{}{Vedi un orfano cencioso. Su cio' che resta della sua maglietta c'e' scritto "Cody."}
 {176}{}{Vedi Cody. Ti fissa con aria accigliata.}
 {177}{}{Vedi Cody. Il suo sguardo sarebbe in grado di far spostare le montagne.}
 {178}{}{Vedi Cody. Il nome e' scarabocchiato su cio' che resta della sua maglietta.}
@@ -31,7 +31,7 @@
 {252}{}{Vuoi un goccetto, ragazzino? Non si e' mai troppo giovani per cominciare, diceva sempre la mia mamma. Uh, quand'era sobria, almeno.}
 {253}{}{Ho un po' di Jet qui con me, Cody. Che ne dici di farti un voletto con lo zio }
 {254}{}{Ho un po' di Jet qui con me, Cody. Che ne dici di farti un voletto con la zia }
-{255}{}{Ehi, Cody... che ne dici di un po' di metanfetamine davvero potenti?}
+{255}{}{Ehi, Cody… vuoi delle metanfetamine potentissime? Potresti catturare e mangiare la tua preda. Anche altri bambini.}
 {256}{}{Uh, beh, stammi bene, Cody.}
 {257}{}{Mi dispiace, ragazzo... sembra proprio che io non abbia nulla da darti.}
 {261}{}{Vuoi un frutto, Cody?}

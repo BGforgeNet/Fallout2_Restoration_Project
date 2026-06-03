@@ -42,7 +42,7 @@
 {141}{}{Controlla di nuovo il database per assicurarti di non esserti lasciato sfuggire nulla.}
 {142}{}{Continua la ricerca negli archivi.}
 {143}{}{Spegni il terminale.}
-{144}{}{Passi quasi un'ora visionando gli archivi. Non appena fai una ricerca piu' approfondita nel database, ti imbatti in una serie di archivi piu' vecchi che contengono degli schemi tecnici di alcuni "innesti da combattimento".}
+{144}{}{Passi quasi un'ora visionando gli archivi. Non appena fai una ricerca piu' approfondita nel database, ti imbatti in una serie di archivi piu' vecchi che contengono degli schemi tecnici di alcuni "innesti da combattimento."}
 {145}{}{Esamina le informazioni riguardanti gli innesti.}
 {146}{}{Gli schemi descrivono le operazione necessarie per innestare placche di rinforzo e membrane dissipa-calore in uno scheletro umano, conferendo al soggetto resistenza ai traumi fisici e al calore. Sembra essere una procedura complicata.}
 {147}{}{Prendi nota, poi controlla il database in cerca di altre informazioni.}
@@ -54,12 +54,12 @@
 {153}{}{Spegni il terminale.}
 {200}{}{Hai finito di esaminare il database medico di Vault City.}
 {201}{}{Il tuo amico cerca di attirare la tua attenzione verso la finestra colorata che fa BEEP BEEP, ma non riesci a capire come aprirla, per cui alla fine ti annoi e la lasci perdere.}
-{202}{}{-Allontanati-}
-{203}{}{*Beep*}
-{204}{}{*Beeee-oop*}
+{202}{}{Allontanati.}
+{203}{}{*Bip*}
+{204}{}{\Biiip?oop\**}
 {205}{}{*Dweeee-oop*}
-{206}{}{*Bee-Oop*}
-{207}{}{*Beep*}
+{206}{}{*Bip-Oop*}
+{207}{}{*Bip*}
 {208}{}{PING!}
 {209}{}{Mi dispiace, Dave. Non posso farlo.}
 {210}{}{Allarme! Will Robinson!}

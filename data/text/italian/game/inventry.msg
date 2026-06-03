@@ -11,7 +11,7 @@
 {10}{}{  Laser}
 {11}{}{  Fuoco}
 {12}{}{  Plasma}
-{13}{}{  Esplos.}
+{13}{}{  Esplos}
 {14}{}{Nessun oggetto}
 {15}{}{Dan:}
 {16}{}{Git:}

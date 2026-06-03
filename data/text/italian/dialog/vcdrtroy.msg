@@ -46,9 +46,9 @@
 {145}{}{E' un piacere conoscerla, }
 {146}{}{. Se dovesse avere bisogno di me, puo' trovarmi qui.}
 {147}{}{Grazie. Arrivederci.}
-{148}{}{Pero' lei non e' nativo di Vault City, vero? Sono certo che mi ricorderei di una persona come lei. Da dove viene? }
+{148}{}{Non sei originaria di Vault City, giusto? Sono sicuro che ricorderei una persona come te. Da dove provieni?}
 {149}{}{Aspetti un secondo... lei e' un Esterno, vero? Da dove viene?}
-{150}{}{Da un piccolo villaggio ad occidente, Arroyo. }
+{150}{}{Da un piccolo villaggio ad occidente, Arroyo.}
 {151}{}{Perche' lo vuole sapere?}
 {152}{}{Non sono affari tuoi, "dottore". Posso andare, adesso, o hai delle altre domande da farmi?}
 {153}{}{Non mi piace parlare del mio passato.}
@@ -114,8 +114,8 @@
 {213}{}{Beh, lei sa che la dipendenza chimica da Jet e' probabilmente la piu' difficile da estirpare, quindi stavo pensando che se noi introducessimo degli inibitori di endorfine nell'organismo di un Jet-dipendente, noi potremmo...}
 {215}{}{Sono... senza parole. Questa e' semplicemente la soluzione piu' brillante che io abbia mai sentito. Per mesi ho sperimentato vari metodi di cura contro il Jet, ma non sono mai giunto a nulla di concreto.}
 {216}{}{Anche lei stava lavorando ad un antidoto?}
-{217}{}{Si', e' per questo che avevo bisogno di un campione di Jet. }
-{218}{}{Si'... ma senza successo. }
+{217}{}{Si', e' per questo che avevo bisogno di un campione di Jet.}
+{218}{}{Si'... ma senza successo.}
 {219}{}{La stretta mortale di questa droga dev'essere fermata prima che possa diffondersi. Beh... con le informazioni da lei fornite, siamo in grado di produrre un antidoto gia' da adesso! Aspetti un secondo.}
 {220}{}{Perfetto! La ringrazio, dottore.}
 {221}{}{Quest'uomo qui? Ha creato il Jet?}
@@ -215,7 +215,7 @@
 {315}{}{Aspetta... sono stato avvelenato. Devi curarmi.}
 {316}{}{Aspetta... sono stato contaminato. Devi curarmi.}
 {317}{}{Questo e' tutto cio' che volevo. Ci vediamo presto, Doc.}
-{318}{}{Capisco. Prima di tutto, devo controllare i tuoi segni vitali... stenditi qui mentre ti collego all'Autodoc. }
+{318}{}{Capisco. Prima di tutto, devo controllare i tuoi segni vitali... stenditi qui mentre ti collego all'Autodoc.}
 {320}{}{Hmmmm. Sembra che durante la procedura d'avviamento, per un comando forzato da parte dell'operatore, l'Autodoc ti abbia "accidentalmente" iniettato del Sodio Tri-Etilene.}
 {321}{}{Cosa? Cosa significa?}
 {322}{}{Significa che ti restano meno di dieci secondi di vita. La tua stupidita' e' davvero sconcertante. Ricatti qualcuno e poi metti la tua vita nelle sue mani? Semplicemente incredibile. Addio... e va' all'inferno.}
@@ -225,8 +225,8 @@
 {326}{}{Come hai fatto ad arrivare quaggiu'? Mi spiace, ma devi andartene. Aspetta un attimo mentre chiamo delle guardie per farti condurre all'esterno.}
 {327}{}{ME NO VAH!}
 {328}{}{(Aspetta qualche istante)}
-{329}{}{Ho delle buone notizie. Studiando quel campione di Jet che mi ha portato, sono riuscito a creare un antidoto. }
-{330}{}{Buone notizie... Sono stato in grado di utilizzare le informazioni che lei mi ha fornito per creare un antidoto. }
+{329}{}{Ho delle buone notizie. Studiando quel campione di Jet che mi ha portato, sono riuscito a creare un antidoto.}
+{330}{}{Buone notizie... Sono stato in grado di utilizzare le informazioni che lei mi ha fornito per creare un antidoto.}
 {331}{}{Una volta assunto, neutralizza gli effetti da astinenza tipici del Jet e inoltre... rimuove lo stato di euforia associato all'assunzione di questa droga.}
 {332}{}{Perfetto. Posso averne un po'?}
 {333}{}{Potrei averne un campione? Penso che potrebbe essere d'aiuto per la gente di Redding.}

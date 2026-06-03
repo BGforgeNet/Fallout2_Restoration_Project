@@ -1,2 +1,2 @@
-{100}{}{You see a Hologram Generator.}
+{100}{}{Vedi un Generatore di Ologrammi.}
 {102}{}{Generatore per gli Ologrammi. NON MANOMETTERE!}

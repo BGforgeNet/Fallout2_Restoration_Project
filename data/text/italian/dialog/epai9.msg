@@ -1,9 +1,9 @@
-{100}{}{This door is locked.}
+{100}{}{Questa porta e' chiusa a chiave.}
 {101}{}{Vedi una porta chiusa a chiave, che impedisce qualsiasi ulteriore accesso.}
-{102}{}{You see a sturdy-looking door.}
-{103}{}{The door is now unlocked.}
-{104}{}{This door is already unlocked and open.}
-{105}{}{You fail to unlock the door.}
-{106}{}{The lock is now jammed.}
-{107}{}{The door is now locked.}
+{102}{}{Vedi una porta dall'aspetto robusto.}
+{103}{}{La porta e' ora sbloccata.}
+{104}{}{Questa porta e' gia' sbloccata e aperta.}
+{105}{}{Non riesci a sbloccare la porta.}
+{106}{}{La serratura si e' inceppata.}
+{107}{}{La porta e' ora chiusa a chiave.}
 {108}{}{Non riesci a chiudere a chiave la porta.}

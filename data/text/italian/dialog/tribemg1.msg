@@ -1,5 +1,5 @@
-{100}{}{You see a disgruntled bodyguard.}
+{100}{}{Vedi una guardia del corpo irritata.}
 {101}{}{Warren guarda con una smorfia il braccio appena tagliato.}
-{200}{}{How come he always cuts *me*?}
-{201}{}{I'm getting real fed up with this gig.}
-{202}{}{Next time, he should just cut one of the fucking tribals.}
+{200}{}{Perché taglia sempre *me*?}
+{201}{}{Mi sto davvero stufando di questo lavoro.}
+{202}{}{La prossima volta dovrebbe tagliare uno di quei dannati tribali.}

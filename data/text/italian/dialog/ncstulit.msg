@@ -1,4 +1,4 @@
-{100}{}{Vedi una bella "personcina".}
+{100}{}{Vedi una bella "personcina."}
 {101}{}{Vedi Stuart Little.}
 {150}{}{Vedi un nanerottolo che indossa dei vestiti da bambino. Sta masticando uno stuzzicadenti e ti osserva con attenzione.}
 {151}{}{Vedi Stuart Little, il minuscolo agente dei pugili. Sta masticando uno stuzzicadenti e ti osserva con attenzione.}
@@ -30,19 +30,19 @@
 {247}{}{Chi sei?}
 {248}{}{Niente. Stavo solo dando un'occhiata in giro.}
 {250}{}{(Ti fa cenno di smammare.) Sparisci, testa di cazzo. Mi stai facendo perdere del tempo.}
-{251}{}{Me no mago, me no sa sparire. Ma me andare via, ora.}
+{251}{}{Bzzzzzzz-bzzzzzz}
 {260}{}{(Sospira, sembra quasi essere sul punto di dire qualcosa, poi si blocca e osserva il tuo corpo.) Hai mai fatto dei combattimenti? Sembreresti essere bell'e pronto per cominciare a combattere.}
 {261}{}{Me combatte MOLTO. Me combatte te?}
-{262}{}{Me no sembrare bello. Tu piacere uomini? Me disposto.}
+{262}{}{Me no sembrare bello. Tu piacere uomini? Me disposto}
 {270}{}{No, no... sto parlando di combattere sul RING! Sai, il ring? (indica il ring, mima dei pugni.) E' una cosa che potrebbe interessarti?}
 {271}{}{(Dai un pugno sul muso all'ometto e prendi i suoi soldi per il pranzo)}
 {272}{}{Uh-huh}
 {273}{}{Me puo' avere gelato se me combatte?}
 {274}{}{Nuh-uh}
-{275}{}{Me sposato all'avenciura. Me andare.}
+{275}{}{Me sposato all'avenciura. Me andare}
 {280}{}{(Fa un salto indietro.) Ehi, testa di cazzo! Conserva queste cose per il ring. Ascolta: sei dentro o fuori?}
-{281}{}{Me dentro.}
-{283}{}{Me fuori.}
+{281}{}{Me dentro}
+{283}{}{Me fuori}
 {290}{}{(Sorride.) Bene, allora siamo d'accordo. Io sono Stuart; molti mi chiamano Stuart Little, ma solo perche'... beh, tutto quello che serve sapere A TE e' che sono grande in tutte le cose importanti. Hai un nome, testa di cazzo?}
 {291}{}{Me }
 {292}{}{Me... uh... me...}
@@ -70,8 +70,8 @@
 {334}{}{[Ti allontani colmo di rabbia.]}
 {336}{}{[Te ne vai.]}
 {337}{}{(Diventa rosso.) }
-{340}{}{Un'altra possibilita'. A me va il 75%... e niente discussioni.}
-{341}{}{Un'altra possibilita'. A me va sempre il 75%... e niente discussioni.}
+{340}{}{Un'altra possibilita'. A me va il 75%... e niente discussioni. }
+{341}{}{Un'altra possibilita'. A me va sempre il 75%... e niente discussioni. }
 {342}{}{Ci sto. Sono pronto per combattere ancora. Fa' strada, Stuart.}
 {343}{}{Ci sto. Dammi un po' di tempo per riposarmi e saro' pronto per combattere ancora.}
 {344}{}{Non vale la pena soffrire cosi' tanto.}
@@ -79,9 +79,9 @@
 {346}{}{Sgarra un'altra volta e sei fuori.}
 {350}{}{(Stuart sta sorridendo come uno sciacallo.) Davvero un'ottima performance, }
 {351}{}{Me pronto ora PRONTO FARE DANNI ORA ORA}
-{352}{}{Me fa breve sonnellino poi me pronto combattere ancora.}
-{353}{}{Me vuole gelato.}
-{355}{}{Sono pronto. Al lavoro!}
+{352}{}{Me fa breve sonnellino poi me pronto combattere ancora}
+{353}{}{Me vuole gelato}
+{355}{}{Sono pronto. Mettiamoci al lavoro.}
 {356}{}{Lasciami riposare un attimo, poi saro' pronto.}
 {357}{}{Credo di averne avuto abbastanza di questo mondo, Stuart... lassu', sul ring, ho visto la morte e mi ha spaventato. Appendo i guantoni al chiodo.}
 {360}{}{(Il nanerottolo sbatte le palpebre, poi aggrotta le sopracciglia) Gela-CHE?}
@@ -104,7 +104,7 @@
 {404}{}{Hmmmph. Ok. Come ti chiami?}
 {405}{}{Sono }
 {407}{}{Hai mai lavorato in un circo, Stuart?}
-{408}{}{"Stuart Little"?}
+{408}{}{"Stuart Little?"}
 {409}{}{Oltre alle gambe c'e' di piu', Stuart. Quindi fa' il bravo, altrimenti per te sara' ancora piu' difficile avere un appuntamento galante in questa citta'. Siamo intesi?}
 {410}{}{Veramente stavo solo dando un'occhiata in giro. Ci vediamo dopo, Stuart.}
 {411}{}{(Si rimette lo stuzzicadenti in bocca e comincia a morderlo) Hai un nome?}
@@ -162,9 +162,9 @@
 {526}{}{Piacere di conoscerti, Stu. Non ho tempo per parlare, adesso. Ci vediamo dopo.}
 {530}{}{E che cosa ti fa pensare che io abbia mai visto uno spettacolo circense, o, peggio, che io sia stato rapito da un circo?}
 {531}{}{Uh...beh, mi pare che molti dei cittadini di New Reno si comportino come se fossero appena usciti da un circo, e quindi pensavo che...}
-{540}{}{TU pensavi che, poiche' sono una persona di bassa statura, l'unica carriera che potevo intraprendere era quella di essere rinchiuso in un cosiddetto "circo"!}
+{540}{}{Tu pensavi che, solo perché sono di bassa statura, l’unica carriera che potessi ottenere fosse confinata sotto il cosiddetto ‘tendone del circo.’}
 {541}{}{Uh... beh, insomma...}
-{550}{}{Mi hai dato solo una RAPIDA occhiata e hai pensato di conoscere la mia intera vita. Non ti sarebbe mai passato per l'anticamera del cervello che una persona della mia statura potesse far carriera come *agente di pugili*.}
+{550}{}{Mi hai dato solo una RAPIDA occhiata e hai pensato di conoscere la mia intera vita. Non ti sarebbe mai passato per l'anticamera del cervello che una persona della mia statura potesse far carriera come *agente di pugili.*}
 {551}{}{Mi dispiace, non volevo offenderti.}
 {560}{}{E perche' avrei dovuto offendermi? Solo perche' sembra che tutti, in questo gioco, abbiano il vizio di dare giudizi istantanei sugli altri PNG, basandosi solamente sul loro aspetto fisico?}
 {561}{}{Beh, non so cosa tu intenda per giudizio ISTANTANEO...}
@@ -175,7 +175,7 @@
 {590}{}{Non tutte le donne sono attratte dai modelli umani maschili dal torace possente e dai muscoli super-pompati. Rimarresti sorpreso nello scoprire quante donne trovino la mia taglia affascinante e ATTRAENTE.}
 {591}{}{E tu rimarresti sorpreso nello scoprire quanti maschi la pensino come loro.}
 {600}{}{Mi sono lasciato ingannare dal tuo fisico ridicolmente super-muscoloso, dal tuo audace comportamento da Mad Maxx dei poveri, dalla tua distribuzione di punti-personaggio priva di fantasia e ti ho bollato come un bulletto rissoso.}
-{601}{}{Mi sono lasciato ingannare dal tuo seno iper-pixellato, dalla tua ridicola andatura sculettante, dalla tua distribuzione di punti-personaggio priva di fantasia e ti ho bollato come una Laura Kroft dei poveri...una "bulletta".}
+{601}{}{Mi sono lasciato ingannare dal tuo seno iper-pixellato, dalla tua ridicola andatura sculettante, dalla tua distribuzione di punti-personaggio priva di fantasia e ti ho bollato come una Laura Kroft dei poveri...una "bulletta."}
 {602}{}{Io...}
 {610}{}{Non sei nient'altro che il tipico "Modello Maschile di Eroe di GdR" e, se vuoi, uno di TANTI modelli simili; cosi' tanti che sembrano essere presenti in massa, in questo mondo.}
 {611}{}{Non sei nient'altro che il tipico "Modello Femminile di Eroe di GdR" e, se vuoi, uno di TANTI modelli simili; cosi' tanti che sembrano essere presenti in massa, in questo mondo.}

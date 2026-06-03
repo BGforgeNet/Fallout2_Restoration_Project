@@ -4,15 +4,15 @@
 {103}{}{Vedi un uomo dallo sguardo allucinato con una barba incolta e una voce rauca. Il suo occhio sinistro sembra esser quasi sul punto di saltar fuori dall'orbita.}
 {104}{}{Alt! Chiunque voglia attraversare il Ponte della Morte a tre mie domande deve dar risposta, prima di ricever da me il nulla osta.}
 {105}{}{Cii...Diiii...Eee...Ffff...Gggg}
-{106}{}{-Allontanati-}
+{106}{}{Allontanati.}
 {107}{}{Molto bene.}
 {108}{}{Fammi pure queste domande, guardiano del ponte. Io non ho paura.}
 {109}{}{Magari ripasso piu' tardi.}
 {110}{}{Qual e' il tuo nome?}
 {111}{}{Hhhh....I...Jei...K...Lelle...}
 {112}{}{?}
-{113}{}{Me }
-{114}{}{-Allontanati-}
+{113}{}{Me}
+{114}{}{Allontanati.}
 {115}{}{di Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakunin}
@@ -45,7 +45,7 @@
 {144}{}{Che cosa intendi? Consideri come parte del seguito anche gli incontri speciali oppure sono da intendersi come eventi particolari?}
 {145}{}{Che cosa intendi? PNG alleati o PNG nemici?}
 {146}{}{Quanto peso puo' trasportare una persona con forza pari a sei supponendo che abbia anche la strenna Schiena Robusta?}
-{147}{}{Non saprei dirlo. }
+{147}{}{Non saprei dirlo.}
 {148}{}{Uh...duecento libbre?}
 {149}{}{Uh...duecentoventicinque libbre?}
 {150}{}{Uh...duecentocinquanta libbre?}
@@ -54,7 +54,7 @@
 {153}{}{Uh...trecentoventicinque libbre?}
 {154}{}{Quanti livelli di Schiena Robusta ha questa persona?}
 {155}{}{Qual e' il requisito minimo per la strenna Tasche Rapide?}
-{156}{}{Non saprei dirlo. }
+{156}{}{Non saprei dirlo.}
 {157}{}{Uh...cinque di forza?}
 {158}{}{Uh...cinque di agilita'?}
 {159}{}{Uh...sei di agilita'?}

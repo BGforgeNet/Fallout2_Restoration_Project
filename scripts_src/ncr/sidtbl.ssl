@@ -134,28 +134,14 @@ end
 
 procedure map_enter_p_proc begin
    variable tmp_box;
-
-   /* Set up the door state when the player first enters the map */
-   if (local_var(LVAR_Set_Door_Status) == 0) then begin
-       set_local_var(LVAR_Set_Door_Status,1);
-       set_local_var(LVAR_Locked,LOCKED_STATUS);
-       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
-   end
-
-   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       obj_lock(self_obj);
-   end
-
-   else begin
-       obj_unlock(self_obj);
-   end
+   call map_enter_p_proc_vanilla;
 
    ndebug("I_duppo_obj " + i_duppo_obj);
    if (i_duppo_obj != -1) then begin
 
       if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
 
-//Tools & ammo
+         //Tools & ammo
          if (self_tile == DUPPO_TBL_1) then begin
             tmp_box := move_quest_items();
             check_restock_item(PID_DESERT_EAGLE, 1, 3, 100)
@@ -179,9 +165,9 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_METAL_ARMOR_MK_II, 1, 3, 50)
             call restore_critical_items(tmp_box);
          end
-//Tools & ammo
+         //Tools & ammo
 
-//Weapons
+         //Weapons
          if (self_tile == DUPPO_TBL_2) then begin
             tmp_box := move_quest_items();
             check_restock_item(PID_9MM_AMMO, 1, 5, 100)

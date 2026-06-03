@@ -2,11 +2,11 @@
 {101}{}{Vedi una donna bruna, vestita con una tuta marrone e un'armatura di metallo. Si direbbe un meccanico.}
 {102}{}{Vedi Val. O Valerie. O quel che e'.}
 {103}{}{Vedi una donna bruna, vestita con una tuta marrone e un'armatura di metallo. Si direbbe un meccanico.}
-{104}{}{Oh, ciao, "Papa'".}
-{105}{}{1 Second}
+{104}{}{Oh, ciao, "Papa'."}
+{105}{}{1 Secondo}
 {106}{}{Valerie. E' bello rivederti.}
 {107}{}{Oh, uh, ciao, Papa'. E' bello rivederti. Davvero.}
-{108}{}{1 Second}
+{108}{}{1 Secondo}
 {109}{}{Ciao, Valerie. Anche per me e' un piacere rivederti.}
 {110}{}{Faresti meglio a portare quel mutante fuori di qui prima che le guardie lo vedano.}
 {111}{}{Faresti meglio a portare quel ghoul fuori di qui prima che le guardie lo vedano.}
@@ -93,7 +93,7 @@
 {192}{}{Cos'hai da vendermi?}
 {193}{}{Cos'e' successo tra te e tuo padre?}
 {194}{}{Niente. Ti lascio tornare al tuo lavoro.}
-{195}{}{Niente di particolarmente importante. E' arrivato qui venti anni fa durante uno dei suoi viaggi, ha messo incinta mia madre e se ne e' andato. Ormai erano cinque anni che non lo vedevo. Non certo una grossa perdita. }
+{195}{}{Niente di particolarmente importante. E' arrivato qui venti anni fa durante uno dei suoi viaggi, ha messo incinta mia madre e se ne e' andato. Ormai erano cinque anni che non lo vedevo. Non certo una grossa perdita.}
 {196}{}{Mi pare che voi due abbiate alcune cose da chiarire.}
 {197}{}{Oh. Bene, ehm, avrei delle altre domande...}
 {198}{}{Niente. Ti lascio tornare al tuo lavoro.}
@@ -105,7 +105,7 @@
 {204}{}{Senti, ha avuto un casino di problemi con gli schiavisti e adesso sta cercando di recuperare il tempo perduto. Pero' hai ragione, dovrebbe decidersi a perdere un po' di peso.}
 {205}{}{Oh, ehm, okay. Avrei delle altre domande...}
 {206}{}{Niente. Ti lascio tornare al tuo lavoro.}
-{207}{}{Eh-eh. Sai essere davvero sarcastico. Mi piace. Per quanto riguarda il vecchio " Pa' "... beh... hmmm. Cerchero' di essere un po' piu' cortese. Per un po', almeno. }
+{207}{}{Eh-eh. Sai essere davvero sarcastico. Mi piace. Per quanto riguarda il vecchio " Pa' "... beh... hmmm. Cerchero' di essere un po' piu' cortese. Per un po', almeno.}
 {208}{}{Uhm... fa' in modo che resti lontano dai guai, d'accordo?}
 {209}{}{Ottimo. Senti, avrei qualche altra domanda che vorrei farti...}
 {210}{}{Faro' del mio meglio. Avrei qualche altra domanda che vorrei farti...}
@@ -161,90 +161,90 @@
 {260}{}{Scusi?}
 {261}{}{Uh, no, non lo sono. O almeno, non credo.}
 {262}{}{Papa'?!}
-{263}{}{2 Seconds}
+{263}{}{2 Secondi}
 {264}{}{Valerie?! Tesoro, sei tu?}
-{265}{}{2 Seconds}
+{265}{}{2 Secondi}
 {266}{}{Dove diavolo sei stato?! Sempre a correre su e giu' per le Lande vendendo spazzatura luccicante ai selvaggi?}
-{267}{}{4 Seconds}
+{267}{}{4 Secondi}
 {268}{}{Uh, eh-eh... non farle caso, Boss, non sa quello che dice... Val, tesoro... vedi, c'erano gli schiavisti e...}
-{269}{}{4 Seconds}
+{269}{}{4 Secondi}
 {270}{}{Lascia perdere 'ste stronzate, papa'. Chiami ANCORA "Boss" tutti quelli che incontri? Ho sempre odiato questo tuo modo di fare.}
-{271}{}{4 Seconds}
+{271}{}{4 Secondi}
 {272}{}{Valerie, tesoro, ti prego... lascia che ti spieghi... vedi...}
-{273}{}{2 Seconds, then Fade Out}
+{273}{}{2 Secondi, poi Fade Out}
 {274}{}{... ed e' cosi che ce ne siamo andati dal Den.}
-{275}{}{2 Seconds}
+{275}{}{2 Secondi}
 {276}{}{Che marea di stronzate.}
-{277}{}{2 Seconds}
+{277}{}{2 Secondi}
 {278}{}{E' la verita'!}
-{279}{}{2 Seconds}
+{279}{}{2 Secondi}
 {280}{}{Non cominciare. Sono contenta che la mamma non sia qui a sentire queste cose.}
-{281}{}{2 Seconds}
+{281}{}{2 Secondi}
 {282}{}{Cosa? Cos'e' successo a tua madre?}
-{283}{}{2 Seconds}
+{283}{}{2 Secondi}
 {284}{}{Febbre Encefalica. L'ha contratta nelle Lande. Probabilmente mentre cercava TE.}
-{285}{}{2 Seconds}
+{285}{}{2 Secondi}
 {286}{}{Oh. Io... uh... mi dispiace, Val.}
-{287}{}{2 Seconds}
+{287}{}{2 Secondi}
 {288}{}{Stavo solo scherzando.}
-{289}{}{2 Seconds}
+{289}{}{2 Secondi}
 {290}{}{Cos -?!}
-{291}{}{2 Seconds}
+{291}{}{2 Secondi}
 {292}{}{In realta' e' morta per avvelenamento da radiazioni. Ha bevuto un po' dell'acqua non filtrata del pozzo del Cortile.}
-{293}{}{4 Seconds}
+{293}{}{4 Secondi}
 {294}{}{Cos...cosa?!}
-{295}{}{2 Seconds}
+{295}{}{2 Secondi}
 {296}{}{Non e' stata colpa tua. Aveva troppe particelle radioattive nell'organismo ed e' stato impossibile per il Dr. Troy salvarla. Emetteva luce come una lampada.}
-{297}{}{2 Seconds}
+{297}{}{2 Secondi}
 {298}{}{Oh. Io... beh, Io...}
-{299}{}{2 Seconds}
+{299}{}{2 Secondi}
 {300}{}{Non preoccuparti. Era gia' messa male anche prima. Era solo questione di tempo.}
-{301}{}{3 Seconds}
+{301}{}{3 Secondi}
 {302}{}{Sono comunque dispiaciuto di non aver avuto la possibilita' di rivederla ancora una volta.}
-{303}{}{2 Seconds}
+{303}{}{2 Secondi}
 {304}{}{No, non lo sei. Eri solito chiamarla "vipera del deserto", o sbaglio?}
-{305}{}{2 Seconds}
+{305}{}{2 Secondi}
 {306}{}{Beh... si'. Ma non dovresti chiamare tua madre in quest--}
-{307}{}{2 Seconds}
+{307}{}{2 Secondi}
 {308}{}{Perche' no? Era la verita'. Sapeva essere una vera cagna rabbiosa, quando voleva.}
-{309}{}{3 Seconds}
+{309}{}{3 Secondi}
 {310}{}{Uh... sembra che tu te la sia cavata bene anche da sola. Hai ereditato l'abilita' di tuo padre a riparare le cose, mi pare.}
-{311}{}{4 Seconds}
+{311}{}{4 Secondi}
 {312}{}{Papa'... riesci a malapena ad allacciarti le scarpe, e ancor meno riesci a riparare qualcosa senza usare pezzi di ricambio.}
-{313}{}{3 Seconds}
+{313}{}{3 Secondi}
 {314}{}{Cos-?! Non e' vero!}
-{315}{}{2 Seconds}
-{316}{}{Sentiamo cosa dice il tuo "boss".}
-{317}{}{2 Seconds}
+{315}{}{2 Secondi}
+{316}{}{Sentiamo cosa dice il tuo "boss."}
+{317}{}{2 Secondi}
 {318}{}{Beh... sa riparare ricetrasmittenti. E altra roba.}
 {319}{}{Ub nuwb ub}
-{320}{}{2 Seconds}
+{320}{}{2 Secondi}
 {321}{}{Se gli dai TUTTI i pezzi, giusto?}
 {322}{}{Noto che stai viaggiando con persone poco piu' sveglie di te.}
-{323}{}{2 Seconds}
+{323}{}{2 Secondi}
 {324}{}{Beh, si'.}
 {325}{}{Ub nuwm ub?}
-{326}{}{2 Seconds}
+{326}{}{2 Secondi}
 {327}{}{Ah! Lo sapevo. Imbranato, imbranato.}
 {328}{}{Il tuo "boss" e' probabilmente piu' abile di te, a riparare le cose.}
-{329}{}{2 Seconds}
+{329}{}{2 Secondi}
 {330}{}{Beh, Val, l'ultima volta che ti ho vista, riuscivi a malapena a distinguere un dado da una chiave inglese.}
-{331}{}{2 Seconds}
+{331}{}{2 Secondi}
 {332}{}{Continua a dire certe cose, papa', e avrai BISOGNO di una chiave inglese per tirare fuori il mio stivale dal tuo culo.}
-{333}{}{2 Seconds}
+{333}{}{2 Secondi}
 {334}{}{Oh, davvero?! Bene, "tesoro", farai meglio a stare attenta o -}
-{335}{}{2 Seconds}
+{335}{}{2 Secondi}
 {336}{}{State zitti! State zitti tutti e due! Questa storia e' andata avanti ABBASTANZA! Su, Vic, andiamo.}
 {337}{}{UGRGHH! VIA! NO ANCORA PARLARE! NOI ANDARE!}
-{338}{}{3 Seconds}
+{338}{}{3 Secondi}
 {339}{}{Parleremo piu' tardi, Val.}
-{340}{}{2 Seconds}
+{340}{}{2 Secondi}
 {341}{}{Si', certo, Papa'.}
-{342}{}{2 Seconds}
-{343}{}{Fade out for 3 Seconds}
-{344}{}{Ehi! Sono felice che tu sia tornato. L'ultima volta che ho avuto tue notizie, stavi girando giu' a sud, guidando una vecchia petroliera e facendo esplodere piattaforme petrolifere. }
-{345}{}{Sei tornato qui per un po' di pace e tranquillita', Mister Grande Eroe? }
-{346}{}{Sei tornato qui per un po' di pace e tranquillita', Miss Grande Eroina? }
+{342}{}{2 Secondi}
+{343}{}{Dissolvenza in uscita per 3 secondi}
+{344}{}{Ehi! Sono felice che tu sia tornato. L'ultima volta che ho avuto tue notizie, stavi girando giu' a sud, guidando una vecchia petroliera e facendo esplodere piattaforme petrolifere.}
+{345}{}{Sei tornato qui per un po' di pace e tranquillita', Mister Grande Eroe?}
+{346}{}{Sei tornato qui per un po' di pace e tranquillita', Miss Grande Eroina?}
 {347}{}{Ero-e'? Eh-eh! Yup!}
 {348}{}{-Allontanati-}
 {349}{}{Ho pensato di tornare e di fermarmi a Vault City per un po'. Un po' di pace e di tranquillita' non fanno certo male. Avrei prima bisogno di qualcosa, pero'...}

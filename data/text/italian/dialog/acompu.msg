@@ -1,14 +1,14 @@
-{100}{}{You see a small computer terminal.}
-{101}{}{You see the Abbey's computer terminal.}
-{102}{}{You see a small computer terminal. It appears to be functional.}
-{103}{}{You access the computer and scan all available files. You find some files containing the keywords "GECK" and "Vault".}
+{100}{}{Vedi un piccolo terminale di computer.}
+{101}{}{Vedi il terminale del computer dell'Abbazia.}
+{102}{}{Vedi un piccolo terminale di computer. Sembra essere funzionante.}
+{103}{}{Accedi al computer e passi in rassegna tutti i file disponibili. Trovi alcuni file contenenti le parole chiave "G.E.C.K." e "Vault".}
 {104}{}{Leggi informazioni GECK.}
-{105}{}{Read Vault info.}
+{105}{}{Leggi le informazioni sul Vault.}
 {106}{}{ERRORE! Tessera di accesso non trovata. Inserire la tessera di accesso nell'apposito slot.}
 {107}{}{(Inserisci la tessera di accesso nello slot) BIP!, tessera di accesso accettata. CARICAMENTO Winblows 2075......FATTO.}
-{108}{}{Input command.}
+{108}{}{Inserisci un comando.}
 {109}{}{Scansiona i file per informazioni su GECK o VAULT 13.}
-{110}{}{Access other files.}
+{110}{}{Accedi ad altri file.}
 {111}{}{Gioca a Morra Cinese.}
 {112}{}{Indietro.}
 {113}{}{Esci.}
@@ -34,13 +34,13 @@
  il tuo nuovo mondo", un "Lettore di Holodisc con Biblioteca", che "include selezioni dalla Biblioteca del Congresso, enciclopedie complete,
  e altre informazioni salvavita, contenute in quattrocentosessanta pratici holodisc!" e contiene persino una "Penna Torcia Tascabile!"
  Sicuramente, questo miracoloso dispositivo e' esattamente cio' di cui hai bisogno per salvare il tuo villaggio morente.}
-{125}{}{Read more.}
+{125}{}{Leggi altro.}
 {126}{}{Continui a sfogliare i file, ma l'unica menzione che trovi del Vault 13 afferma semplicemente che si trova in California,
  il che non ti aiuta molto.}
-{130}{}{Add information.}
-{131}{}{[You have nothing to add.] Back.}
-{132}{}{Input Botony information.}
-{133}{}{Input [Blah] information.}
+{130}{}{Aggiungi informazioni.}
+{131}{}{[Non hai nulla da aggiungere.] Indietro.}
+{132}{}{Inserisci informazioni di Botanica.}
+{133}{}{Inserisci informazioni [Blah].}
 {140}{}{Leggi il file Guida/Informazioni.}
 {141}{}{Congratulazioni per aver installato con successo Winblows 2075! Questa versione e' la piu' avanzata di Winblows fino ad oggi.
  Con la probabilita' confermata di un solo crash per milione di chiamate di funzione, i nostri tecnici sono certi che Winblows sia perfetto
@@ -54,28 +54,28 @@
  Attendere prego...}
 {145}{}{Aspetta.}
 {146}{}{...Errore di Sistema: L'operazione e' stata completata con successo...(Un suono stridulo inizia a provenire dall'interno del computer e da quelli vicini.}
-{147}{}{[Walk Away.]}
+{147}{}{[Allontanati.]}
 {148}{}{Errore: Nessuna tastiera trovata. Premere un tasto qualsiasi per riavviare.}
 {150}{}{Caricamento disco informazioni di Botanica dell'Agenzia per la Protezione Ambientale... Caricamento completato. Buona giornata.}
 {200}{}{Sasso, Carta, Forbice V.0.3. Seleziona un'opzione.}
-{201}{}{Select ROCK.}
-{202}{}{Select PAPER.}
+{201}{}{Scegli SASSO.}
+{202}{}{Scegli CARTA.}
 {203}{}{Seleziona FORBICE.}
-{204}{}{Return to main menu.}
+{204}{}{Torna al menu principale.}
 {205}{}{Il terminale fa la sua scelta.....Calcolo.....Il terminale vince!}
 {206}{}{Il terminale fa la sua scelta.....Calcolo.....L'utente vince!}
 {207}{}{Il terminale fa la sua scelta.....Calcolo.....Pareggio!}
 {300}{}{(Lo schermo del computer mostra vari schemi di colori.)}
-{301}{}{Ohhh! Pretty colors.}
-{302}{}{-Allontanati-}
-{400}{}{Read more.}
-{401}{}{Return to menu.}
+{301}{}{Ohhh! Che bei colori.}
+{302}{}{Allontanati.}
+{400}{}{Leggi altro.}
+{401}{}{Torna al menu.}
 {402}{}{Cerca per argomento.}
-{403}{}{Please enter a topic to search for.}
-{404}{}{Science.}
-{405}{}{Repair.}
-{406}{}{Medicine.}
-{407}{}{Weapon Usage.}
+{403}{}{Inserisci un argomento da cercare.}
+{404}{}{Scienza.}
+{405}{}{Riparazione.}
+{406}{}{Medicina.}
+{407}{}{Uso delle armi.}
 {408}{}{Argomenti Persuasivi.}
 {410}{}{Dopo alcune ore di lettura impari di piu' sull'arte della scienza.}
 {411}{}{Dopo alcune ore di lettura impari di piu' sull'arte della riparazione delle macchine.}

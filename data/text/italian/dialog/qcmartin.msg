@@ -23,7 +23,7 @@
 {122}{}{Posso dirti quello che vuoi sapere.}
 {123}{}{Mi chiamo Martin.}
 {124}{}{Io posso dirti cos'e' successo.}
-{125}{}{Salve, sono Martin Frobisher. Parlo a nome di queste persone. Grazie a Dio sei qui. }
+{125}{}{Salve, sono Martin Frobisher. Parlo a nome di queste persone. Grazie a Dio sei qui.}
 {126}{}{Cosa vorresti sapere?}
 {127}{}{Bel vestito, proprio come il mio. Chi siete?}
 {128}{}{Cosa ci fate qui?}
@@ -31,8 +31,8 @@
 {130}{}{Come avete fatto ad arrivare qui?}
 {131}{}{Piacere di conoscerti, Martin, ma devo liberare delle persone. Arrivederci.}
 {132}{}{Si', speravo proprio tu fossi giunto qui per questo. Devi liberarci.}
-{133}{}{Liberarvi? Io volevo solo liberare la mia tribu'. }
-{134}{}{Certo, non permettero' che qualcuno rimanga prigioniero in questo posto. }
+{133}{}{Liberarvi? Io volevo solo liberare la mia tribu'.}
+{134}{}{Certo, non permettero' che qualcuno rimanga prigioniero in questo posto.}
 {135}{}{A proposito, cosa ci fate voi qui?}
 {136}{}{Ci stanno usando come cavie per sperimentare una sorta di antidoto per un virus letale.}
 {137}{}{Che tipo di virus?}

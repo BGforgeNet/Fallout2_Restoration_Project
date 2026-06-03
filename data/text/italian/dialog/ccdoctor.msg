@@ -46,7 +46,7 @@
 {145}{}{Si', la sto seguendo.}
 {146}{}{Beh... ce l'abbiamo fatta! Alla fine riuscimmo ad amplificare la loro intelligenza. Tuttavia, iniziai a pensare di essermi spinto troppo avanti. Sospettai che essi potessero essere molto piu' intelligenti di quanto credessimo. Per questo, quando sono stato trasferito qui, ho portato con me uno di loro per dimostrare la mia teoria.}
 {147}{}{E?}
-{148}{}{Avevo ragione! I deathclaw facevano soltanto finta di essere stupidi, ma in realta' aspettavano il momento opportuno per scappare e, in piu', cercavano di imparare piu' cose possibili da noi. Possono anche imitare la voce umana! Pensa: io e quel "tipo" nella stanza accanto abbiamo persino conversato. }
+{148}{}{Avevo ragione! I deathclaw facevano soltanto finta di essere stupidi, ma in realta' aspettavano il momento opportuno per scappare e, in piu', cercavano di imparare piu' cose possibili da noi. Possono anche imitare la voce umana! Pensa: io e quel "tipo" nella stanza accanto abbiamo persino conversato.}
 {149}{}{Ad ogni modo... Il fatto che siano in grado di architettare un piano del genere e che siano stati capaci di ingannarci dimostra quanto siano pericolosi.}
 {150}{}{Allora cosa tu pensare di fare ora?}
 {151}{}{Allora cosa pensa di fare, adesso?}
@@ -76,7 +76,7 @@
 {175}{}{Non voglio che qualcuno senta le tue urla mentre eseguo degli esperimenti su di te.}
 {176}{}{Prego, prego. E' nella stanza qui accanto.}
 {177}{}{Grazie!}
-{178}{}{Quello e' K-9, il mio cane. Ho provato ad aumentare la sua intelligenza usando degli innesti cibernetici. Ha funzionato, ma K-9 ha sviluppato uno strano senso morale. Ha deciso che il mio lavoro (o io, non ho capito) non gli va molto a genio e mi ha morso. }
+{178}{}{Quello e' K-9, il mio cane. Ho provato ad aumentare la sua intelligenza usando degli innesti cibernetici. Ha funzionato, ma K-9 ha sviluppato uno strano senso morale. Ha deciso che il mio lavoro (o io, non ho capito) non gli va molto a genio e mi ha morso.}
 {179}{}{Come punizione ho disattivato le sue zampe, ma il resto l'ho lasciato abbastanza funzionante. Ora e' costretto a rimanere li' e a guardare tutte le cose disgustose che faccio.}
 {180}{}{Oh...}
 {181}{}{Lui potere essere riparato?}

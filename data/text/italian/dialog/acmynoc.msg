@@ -99,7 +99,7 @@
 {415}{}{La sto ancora cercando.}
 {416}{}{Non ho voglia di parlarne.}
 {417}{}{Devi sbrigarti. Qui le cose vanno sempre peggio. Presto ci sara' poco cibo e l'Anziana sta pensando di razionare quello che abbiamo. Temo per il futuro di Arroyo.}
-{418}{}{Prescelto! Per favore, dimmi che hai portato a termine la tua missione. Il nostro villaggio sta morendo, cosi' come la nostra gente.}
+{418}{}{Prescelto! Per favore, dimmi che hai portato a termine la tua missione. Il nostro villaggio sta morendo, cosi' come la nostra gente. }
 {419}{}{No, me ancora cercare.}
 {420}{}{No, sto ancora cercando.}
 {421}{}{Come vanno le cose?}
@@ -115,40 +115,40 @@
 {500}{}{Hai gia' parlato con l'Anziana?}
 {600}{}{Hai qualche consiglio finale per me prima che mi avventuri nell'ignoto?}
 {601}{}{Certamente. Guardati dalle armi degli Estranei. Il morso del gecko non e' nulla rispetto al potere distruttivo dei loro bastoni-tuono.}
-{602}{}{Got it. Anything else?}
+{602}{}{Capito. C'e' altro?}
 {603}{}{Non dare la tua fiducia liberamente. L'onore significa molto poco nelle Lande. Resta vigile e metti sempre in dubbio le motivazioni degli altri.}
-{604}{}{Sure thing. Is that all?}
+{604}{}{Certo. E' tutto?}
 {605}{}{Non dimenticare mai le tue radici. Il mondo fuori dal nostro villaggio e' pieno di giocattoli luccicanti e lussi che potrebbero far sembrare la nostra vita qui ad Arroyo semplice e banale.
  Ma ricorda che lo stile di vita degli Estranei produce uomini malvagi dominati dall'avidita' e dalla corruzione. Stai attento a non diventare come Colui-Che-Non-Deve-Essere-Nominato.}
-{606}{}{I'll never forget my roots. Thanks for the advice, Mynoc.}
+{606}{}{Non dimentichero' mai le mie origini. Grazie per il consiglio, Mynoc.}
 {607}{}{Colui-Che-Non-Deve-Essere-Nominato? Ehm... chi?}
 {608}{}{Sei cosi' ubriaco della gloria di essere il Prescelto da aver dimenticato... [Mynoc si guarda velocemente intorno per assicurarsi che nessuno stia ascoltando, poi si sporge in avanti e abbassa la voce fino a un sussurro.] ... Kaga?}
 {609}{}{Oh! Si', quel tipo. Faro' in modo di non finire come lui. Grazie.}
 {610}{}{Oh, e' quello che pensavo intendessi. Ma, ehm, perche' non mi racconti di nuovo la sua storia. Adoro davvero quella storia.}
 {611}{}{[Mynoc borbotta qualcosa tra se' e se' e scuote la testa prima di iniziare il racconto.] Come dovresti sapere, era un tempo il piu' grande guerriero della nostra tribu'. Ha guidato molte spedizioni nel mondo esterno, ed e' li' che la corruzione ha iniziato ad avvelenare la sua mente.}
 {612}{}{Si infatuo' dei modi degli Estranei, dove il potere poteva portare a chiunque grande rispetto e lusso. Comincio' a considerarsi superiore ai suoi compagni di tribu' che erano contenti di vivere una vita piu' semplice.}
-{613}{}{What a jerk.}
+{613}{}{Che stronzo.}
 {614}{}{Continua.}
 {615}{}{Quando la nostra tribu' cadde in questi tempi difficili, si ritenne il salvatore del nostro popolo ed entro' nel Tempio delle Prove per dimostrare di essere il Prescelto.}
 {616}{}{Continua.}
-{617}{}{Nevermind, I don't want to hear this story anymore. Bye.}
+{617}{}{Lascia perdere, non voglio piu' sentire questa storia. Addio.}
 {618}{}{Si fece strada attraverso il Tempio, raggiungendo rapidamente la prova finale: un combattimento corpo a corpo con un altro guerriero.}
 {619}{}{Continua.}
 {620}{}{Aspetta, ha fatto saltare quella porta e tutto il resto? Lo facciamo ricostruire ogni volta che qualcuno attraversa il tempio? A proposito, chi ha costruito il tempio in primo luogo?}
 {621}{}{Non ho tempo di rispondere a tutte le tue domande stupide. Vuoi che finisca il racconto, o no?}
-{622}{}{Sorry. Please continue.}
-{623}{}{Actually, I think I'm ready to go. See you around.}
+{622}{}{Scusa. Per favore, continua.}
+{623}{}{In realta', penso di essere pronto ad andare. A presto.}
 {624}{}{Durante la prova finale, Colui-Che-Non-Deve-Essere-Nominato sfodero' una lama nascosta e la uso' per uccidere il suo avversario. Quando l'Anziano lo confronto' sul disonorevole uso di un'arma nascosta, sostenne che non era barare, ma piuttosto che dimostrava di essere un guerriero astuto.}
 {625}{}{L'Anziano non era d'accordo. Colui-Che-Non-Deve-Essere-Nominato fu esiliato a forza dalla nostra tribu' e il suo nome non doveva essere mai piu' pronunciato tra noi. Mentre veniva scacciato nelle Lande, giuro' un voto di vendetta. Vendetta contro la nostra tribu', e specialmente contro di te.}
-{626}{}{Me? What'd I do?}
-{627}{}{Thanks for the story, but I'd best be on my way now.}
+{626}{}{Io? Cosa avrei fatto?}
+{627}{}{Grazie per il racconto, ma sara' meglio che vada adesso.}
 {628}{}{Tu sei il Prescelto, un titolo che lui ritiene essere giustamente suo. Il suo orgoglio non gli permettera' di lasciarti vivere.}
 {629}{}{Non mi preoccupero' di questo. E' probabilmente morto nelle Lande ormai, comunque.}
 {630}{}{Staro' in guardia. Sperabilmente e' morto nelle Lande ormai.}
 {631}{}{Ascolta e capisci. Colui-Che-Non-Deve-Essere-Nominato e' la' fuori. Non si puo' trattare con lui. Non si puo' ragionare con lui. Non provera' pieta', ne' rimorso, ne' paura. E non si fermera' assolutamente mai, finche' non sarai morto.}
 {632}{}{Sai, penso che tu stia esagerando un po' con il melodramma. Comunque, grazie per il consiglio. Ci vediamo in giro, Mynoc.}
-{633}{}{I'll keep that in mind. Take care, Mynoc.}
-{640}{}{Could you tell me anything about this Kaga guy?}
+{633}{}{Lo terro' a mente. Abbi cura di te, Mynoc.}
+{640}{}{Puoi dirmi qualcosa a proposito di questo tale Kaga?}
 {641}{}{[I suoi occhi si spalancano e si guarda intorno nervosamente come se si aspettasse di essere colpito all'improvviso da un fulmine.] Hai perso il senno nelle Lande?! Dovresti sapere che non si deve pronunciare il nome del reietto! Deve essere indicato solo come Colui-Che-Non-Deve-Essere-Nominato.
  Il nostro villaggio soffre abbastanza senza attirare l'ira degli Dei su di noi. [Alza gli occhi nervosamente verso il cielo.]}
 {642}{}{Mi dispiace, Mynoc. Ma ti dispiacerebbe raccontarmi ancora la storia di Ka... voglio dire, di "Colui-Che"? Adoro davvero quella storia.}
@@ -156,29 +156,29 @@
 {650}{}{L'ho gia' affrontato, quindi sono sicuro di poterlo gestire se le nostre strade si incroceranno di nuovo.}
 {651}{}{In realta', e' gia' morto. Ho lasciato il suo cadavere la' fuori a marcire nelle Lande.}
 {660}{}{[Mynoc annuisce cupamente.] Potrebbe essersi allontanato dal cammino, ma era un tempo un grande e rispettato guerriero. Spero che la sua anima tormentata abbia trovato pace nell'altro mondo.}
-{661}{}{Indeed. I'll see you around, Mynoc.}
-{662}{}{Whatever. He seemed like an asshole to me. I'll see you around, Mynoc.}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{661}{}{Infatti. A presto, Mynoc.}
+{662}{}{Vabbene. Mi sembrava uno stronzo. A presto, Mynoc.}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1006}{}{l'Eletto}
+{1007}{}{Sciamano}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{Polvere curativa}
+{1010}{}{Ponte}
 {1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
+{1100}{}{L'Anziana e' tua madre e la nostra guida.}
+{1101}{}{Il nostro grande antenato che ci ha donato la conoscenza.}
+{1102}{}{I primi a combattere e a vincere sul caos.}
+{1103}{}{Quello sarebbe il nostro bellissimo villaggio.}
 {1104}{}{E' un avamposto commerciale a pochi giorni a est di qui.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
+{1105}{}{Il Vault e' il paradiso.}
+{1106}{}{Tu sei il Prescelto.}
 {1107}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1108}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1109}{}{E' una polvere magica che ti guarisce, ma che ti intorpidisce.}
-{1110}{}{The Great Bridge exits our village in the south.}
+{1110}{}{Il Grande Ponte esce dal nostro villaggio a sud.}
 {1111}{}{Si tratta di me.}

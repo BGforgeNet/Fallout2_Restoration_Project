@@ -66,7 +66,7 @@
 {326}{}{Non prendiamoci per il culo.}
 {327}{}{Di' a quello stronzo figlio di puttana che...}
 {328}{}{Beh, lui ha preso una scatola di scoiattoli di pezza e poi...}
-{329}{}{Questo non e' semplice cinema. Questa e' *arte*.}
+{329}{}{Questo non e' semplice cinema. Questa e' *arte.*}
 {330}{}{20 minuti, baby.}
 {331}{}{Vediamo... (Controlla il copione.) Entra Randy, lui e Sylvia lo fanno... Christy va al bagno, Peter la raggiunge, lo fanno. Entra Ron...}
 {345}{}{I Fratelli Corsican al vostro servizio... (Ti rivolge un'occhiata irritata, poi ti guarda un'altra volta.) Ehi... ma tu sei quello di prima - eri qui per il posto di assistente, giusto?}
@@ -85,7 +85,7 @@
 {371}{}{Lucidare asta? Ma me servire stracci e --}
 {372}{}{[Fai come ti dice.]}
 {380}{}{Ti bastera' la lingua.}
-{381}{}{Lingua! Ma come potere...}
+{381}{}{Sto parlando di Shaft!}
 {390}{}{Senti, hai presente l'asta che ogni uomo ha in mezzo alle gambe? Ti assicuro che basta la lingua per tirarla a lucido.}
 {391}{}{-Vai a lucidare l'asta del tipo-}
 {400}{}{Hmmmm. Quante flessioni fai al giorno?}
@@ -97,7 +97,7 @@
 {415}{}{Cerrrrrrto. Amico, so da dove vieni e so ESATTAMENTE dove stai andando. Che ne diresti di recitare?}
 {416}{}{Cerrrrrrto. Tettine d'oro, so da dove vieni e so ESATTAMENTE dove stai andando. Che ne diresti di recitare?}
 {417}{}{Me piace questo!}
-{418}{}{Recitare come?}
+{418}{}{Comportarmi come cosa}
 {425}{}{Davvero? Anche a me piace! Abbiamo gia' cosi' tante cose in comune! Vedi, noi siamo uno studio cinematografico... qui noi creiamo la MAGIA. Tu...}
 {426}{}{tu, amico, puoi essere PARTE di questa magia!}
 {427}{}{tu, tettine d'oro, puoi essere PARTE di questa magia!}
@@ -116,8 +116,8 @@
 {459}{}{Ci puoi scommettere. E non hai ancora visto NIENTE.}
 {465}{}{Mi dispiace, amico, ma non sei abbastanza FLESSIBILE per quello che ci serve. Lavoraci su, e magari piu' avanti potremo parlare ancora d'affari, okay?}
 {466}{}{Mi dispiace, tettine d'oro, ma non sei abbastanza FLESSIBILE per quello che ci serve. Lavoraci su, e magari piu' avanti potremo parlare ancora d'affari, okay?}
-{467}{}{Me PIACE fare affari qui. Me TORNERA'.}
-{468}{}{*Snffff* O-kay. *Snffff* Me sentire oggetto.}
+{467}{}{Me PIACE fare affari qui. Me TORNERA'}
+{468}{}{*Snffff* O-kay. *Snffff* Me sentire oggetto}
 {469}{}{Cerchero' di migliorare la mia agilita'. Sara' per un'altra volta.}
 {470}{}{Forse tornero'. Dopo una doccia. Una lunga doccia.}
 {475}{}{Mi dispiace, amico... sei bellissimo ed anche abbastanza flessibile, e' solo che non hai la, ehm, resistenza che ci serve... Allenati un po', e poi, forse, potremo parlare ancora d'affari, okay?}
@@ -129,8 +129,8 @@
 {495}{}{Amico, sei stato in-credibile. }
 {496}{}{Tettine d'oro, sei stata in-credibile. }
 {497}{}{La tua performance e' stata oro, puro oro di Reno! Una cosa del genere vale almeno un MIGLIAIO di erezioni! Che ne diresti di fare un film con noi? Dai, parliamone, baby, PARLIAMONE!}
-{498}{}{Okeei... me parla con te. Me vuole fare questa cosa ancora e ancora.}
-{499}{}{Uh-uh. Me vuole andare, ora. Me sente sporco dentro.}
+{498}{}{Okeei... me parla con te. Me vuole fare questa cosa ancora e ancora}
+{499}{}{Uh-uh. Me vuole andare, ora. Me sente sporco dentro}
 {500}{}{Mi interessa. Il mio prezzo: 200 dollari a... botta.}
 {501}{}{Mi interessa. Ma prima, alcune condizioni. Per prima cosa, io lavoro solo con partner PULITI, mi aspetto almeno 500 dollari a scena, il 20% delle royalties, e niente STRONZATE. Io sono una stella, e tuo lo sai.}
 {503}{}{Puoi scordartelo. Mi serve una doccia. Una lunga doccia.}
@@ -146,18 +146,18 @@
 {537}{}{[Ti dai da fare.]}
 {545}{}{Ehm... non QUEL nome, 'kay? Evoca brutte sensazioni. Cioe', nessuno vuole vedere un attore con quel nome in un porno decente. Scegli un altro nome, eh?}
 {546}{}{Okay...}
-{547}{}{Ma PIACERE davvero quel nome.}
+{547}{}{Ma PIACERE davvero quel nome}
 {548}{}{Ma a me piace davvero, quel nome.}
 {555}{}{Wow, QUESTO si' che e' un nome cosi' brillante e luminoso che ESPLODERA' per la sua immensa potenza! Ottima scelta, amico, ottima scelta. E adesso... si GIRA! Luci! Camera! Azione!}
 {556}{}{QUESTO e' un nome che racchiude in se' storia e magia. Ottima scelta, amico, ottima scelta. E adesso... si GIRA! Luci! Camera! Azione!}
 {557}{}{QUESTO e' un nome che porta in se' una carica magica. Ottima scelta, tettine d'oro, ottima scelta. E ora... si GIRA! Luci! Camera! Azione!}
 {558}{}{Wow, QUESTO si' che e' un nome cosi' brillante e luminoso che ESPLODERA' per la sua immensa potenza! Ottima scelta, tettine d'oro, ottima scelta. E ora... si GIRA! Luci! Camera! Azione!}
 {565}{}{D'accordo! D'accordo! Gente, si comincia! Forza! Sveglia! Sei pronto?}
-{566}{}{Me pronto.}
+{566}{}{Me pronto}
 {567}{}{Io sono NATO pronto.}
 {575}{}{Bene, mio vulcanico amico. Per oggi abbiamo finito. Una performance STELLARE! STELLARE! E quell'ultimo amplesso! Perfetto! Se vuoi fare un altro film, puoi tornare qui tra un mese, okay?}
 {576}{}{Bene, tettine d'oro. Per oggi abbiamo finito. Una performance STELLARE! STELLARE! Se vuoi fare un altro film, puoi tornare qui tra un mese, okay?}
-{577}{}{Okee... Ciao ciao.}
+{577}{}{Okee... Ciao ciao}
 {585}{}{Stop! Bene, amico. }
 {586}{}{Stop! Bene, tettine d'oro. }
 {587}{}{Grande interpretazione. Una performance STELLARE! }
@@ -217,18 +217,18 @@
 {745}{}{Veramente no. Sono qui per i soldi di Big Jesus Mordino.}
 {746}{}{No, grazie.}
 {755}{}{Whoa... non vuoi FARLO?! Cos'e'? Sei troppo FIGO per noi, adesso? Siamo stati noi a fare di te quello che sei, "}
-{756}{}{Me no dimentica no arrabbiare fare me triste me torna ma adesso deve andare.}
+{756}{}{Me no dimentica no arrabbiare fare me triste me torna ma adesso deve andare}
 {758}{}{-Ignoralo e allontanati-}
 {759}{}{Calma. Oggi non ho voglia di recitare, okay? Tornero' un'altra volta, quando ti sarai calmato.}
 {760}{}{Andate al diavolo. Non mi servono queste stronzate. Io sono una stella! Una grande, luminosa, brillante stella!}
 {765}{}{Ehi... tutto bene? Sembri un po' strano. Non ti sei drogato, vero? Perche' non ho ALCUNA intenzione di riprenderti in questo stato.}
-{766}{}{Me vuole fare film ORA, piccola persona.}
+{766}{}{Me vuole fare film ORA, piccola persona}
 {768}{}{Tu non sei il mio capo! Io voglio fottere, il cazzo e' mio, quindi preparatevi tutti a girare questo cazzo di film. ADESSO!}
 {769}{}{Tu non sei il mio capo! Io voglio fottere, la figa e' mia, quindi preparatevi tutti a girare questo cazzo di film. ADESSO!}
 {770}{}{D'accordo. Tornero' quando mi saro', ehm, calmato un po'.}
-{780}{}{I Fratelli Corsican al vostro servizio... (L'uomo alza lo sguardo, sconvolto, poi ti guarda nuovamente.) Cristo... }
+{780}{}{I Fratelli Corsican al vostro servizio... (L'uomo alza lo sguardo, sconvolto, poi ti guarda nuovamente.) Cristo...}
 {781}{}{Me no perte! Me vince!}
-{782}{}{Niente.}
+{782}{}{Niente}
 {783}{}{Cos'e' questo posto?}
 {784}{}{Puoi dirmi qualcosa a proposito di questo studio?}
 {785}{}{Hai qualche "spazio vuoto" da farmi riempire?}
@@ -241,7 +241,7 @@
 {805}{}{Diavolo, si'! Vediamo come te la cavi! Ehi! Portatemi qualcosa di speciale! Abbiamo un astro nascente, qui!}
 {806}{}{[Fa' come dice.]}
 {810}{}{I Fratelli Corsican al vostro servizio... (L'uomo alza lo sguardo, sconvolto, poi ti guarda nuovamente.) Cristo...uh... ehi come va, }
-{812}{}{Niente.}
+{812}{}{Niente}
 {813}{}{Cos'e' questo posto?}
 {814}{}{Soddisfami. Parlami un po' di questo studio.}
 {815}{}{Bella domanda. Hai qualche "spazio vuoto" da farmi riempire?}
@@ -278,7 +278,7 @@
 {920}{}{Sai a cosa stavo pensando, }
 {921}{}{Sei un eroe, }
 {922}{}{Yup}
-{924}{}{Yuppity-yup. Ciaooo.}
+{924}{}{Yuppity-yup. Ciaooo}
 {926}{}{Certo, e che diavolo. Ho finito il gioco. Facciamolo.}
 {927}{}{Graaaande. Grazie...}
 {928}{}{Prima lasciami andare a salvare il gioco. Piu' tardi potrei anche tornare qui e accettare la tua proposta...}
@@ -287,7 +287,7 @@
 {937}{}{Oh, crudeli, crudeli divinita' del sesso! Quale offesa possiamo mai avervi rivolto per convincervi a privarci del cubo?}
 {938}{}{::Sigh:: Adesso che il cubo non c'e' piu', forse dovrei appendere il macrame' al chiodo.}
 {1000}{}{Me sentire malato-malatino in pancino.}
-{1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
+{1001}{}{Hai un sapore nauseante in bocca e lo stomaco ti si rivolta. Ma, ehi... 3 fiches sono 3 fiches!}
 {1100}{}{Ack! ::sputo, sputo:: che SCHIFO!}
 {1101}{}{Hai un sapore malsano e nauseante in bocca, e il tuo stomaco protesta. Ma, ehi! 5 dollari sono 5 dollari!}
 {1200}{}{Non... mi sento tanto bene.}

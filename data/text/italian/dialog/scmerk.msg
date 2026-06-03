@@ -23,7 +23,7 @@
 {122}{}{Se vuoi parlare con qualcuno, vatti a trovare un amico.}
 {123}{}{Non do informazioni e non cambio soldi. Smamma.}
 {124}{}{Cos'e' questa - l'ora dedicata alla socializzazione?}
-{125}{}{Sono Merk. Che vuoi? }
+{125}{}{Sono Merk. Che vuoi?}
 {126}{}{Ancora tu?}
 {127}{}{Beh, comportati bene, stronzetto, o finira' male.}
 {128}{}{Oort.}
@@ -47,7 +47,7 @@
 {146}{}{E' stato quel dannato Doofus, vero? Quel tossico ha il vizio di parlare troppo... Ascolta: fallo fuori per me -- consideralo un "favore" -- e poi potremo parlare.}
 {147}{}{D'accordo.}
 {148}{}{Whoa - non ho tutto questo sangue freddo!}
-{149}{}{E adesso ti dira' che sei stato un coglione. Ragazzi...}
+{149}{}{E adesso ti dira' che sei stato un coglione. Ragazzi-}
 {150}{}{Interessante. E chi sarebbe questo uccellino?}
 {151}{}{Non raccontarmi stronzate, grassone. Se non riavro' subito cio' che mi appartiene, qualcuno dovra' andarti a comprare un vestito per il tuo funerale.}
 {152}{}{Carino... Vuoi rispondere alla mia domanda, o no?}
@@ -73,7 +73,7 @@
 {172}{}{Lo faro'.}
 {173}{}{No, non e' nel mio stile.}
 {174}{}{La conoscenza costa. Sono stato abbastanza chiaro?}
-{175}{}{"La conoscenza non ha prezzo".}
+{175}{}{"La conoscenza non ha prezzo."}
 {176}{}{Ecco 50$.}
 {177}{}{Scordatelo.}
 {178}{}{Oh, sei tu quella persona.}
@@ -148,7 +148,7 @@
 {247}{}{No.}
 {248}{}{Giornate come questa mi rendono davvero felice. Bene, vediamo di concludere il nostro accordo.}
 {249}{}{Mi e' stato riferito che il geniale dottore e' spirato durante la tua visita. Cio' va contro gli ordini che ti avevo impartito. Per rifarmi delle future perdite credo sia necessario che io riceva un indennizzo.}
-{250}{}{Senti, ti daro' 500 bigliettoni e poi potremo dimenticare l'intera faccenda, okay?}
+{250}{}{Guarda, ti do 500 bigliettoni e lasciamo perdere tutta la faccenda.}
 {251}{}{Fottiti.}
 {252}{}{Bene, buona fortuna. Non vedo altra ragione perche' noi si parli ancora.}
 {253}{}{A me sta bene.}
@@ -171,5 +171,5 @@
 {270}{}{Hmmphf.}
 {271}{}{Ti sei "preso cura" dell'Hubologista per Merk.}
 {272}{}{Hai recuperato i documenti del Dr. Henry.}
-{300}{}{Where the hell do you think you are going?! Try that again and I'll kick your ass.}
-{301}{}{I warned you!}
+{300}{}{Dove diavolo credi di andare?! Riprovaci e ti rompo il culo.}
+{301}{}{Ti avevo avvertito!}

@@ -3,13 +3,13 @@
 {151}{}{Vedi una "assistente di scena". Sembra che si stia chiedendo se debba "assisterti" o meno.}
 {160}{}{Vedi una donna discretamente attraente. Ti guarda come se fossi una rivale.}
 {161}{}{Vedi una "assistente di scena". Ti guarda come se fossi una rivale.}
-{200}{}{Oh mio... e' lui!}
+{200}{}{Oh mio... e' lui! }
 {201}{}{Sei il piu' grande stallone del mondo.}
 {202}{}{::Sviene::}
 {203}{}{Ho sentito che i Fratelli ti stanno cercando. Vogliono fare un film basato sulle tue avventure.}
 {204}{}{Vai, }
 {205}{}{::Applaude::}
-{206}{}{::Cheers::}
+{206}{}{::Saluti::}
 {207}{}{Oh mio... e' lei. }
 {208}{}{Vai cosi', ragazza mia!}
 {209}{}{::Ti fa il gesto del pollice alzato::}
@@ -32,12 +32,12 @@
 {249}{}{La settimana scorsa ho dato a Jules un bel calcio nei gioielli di famiglia.}
 {250}{}{Vorrei tanto che i Fratelli mi lasciassero recitare.}
 {251}{}{Non capisco cosa VEDANO in lei i Fratelli Corsican...}
-{255}{}{Oh mio... e' lui!}
+{255}{}{Oh mio... e' lui! }
 {256}{}{Guarda quei muscoli! Mi sento svenire...}
 {257}{}{E' massiccio come un carro armato. E guardate quel cannone.}
 {258}{}{Guarda il cannone di quel carro armato...}
 {259}{}{E' tutto mio...}
-{260}{}{::Sigh::}
+{260}{}{::Sospiro::}
 {261}{}{Quel ragazzo mi fa bagnare ogni volta che lo vedo.}
 {262}{}{Hai proprio un bel cobra inguinale.}
 {270}{}{Oh mio... e' lei. }
@@ -45,7 +45,7 @@
 {272}{}{Sembra cosi'...(trema)...pericolosa.}
 {273}{}{E' piuttosto sexy.}
 {274}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
-{280}{}{Oh mio... e' lui!}
+{280}{}{Oh mio... e' lui! }
 {281}{}{Benvenuto nel nostro studio, signore.}
 {282}{}{Sembra cosi'...(trema)...pericoloso.}
 {283}{}{Quello e' un vero *duro*.}
@@ -127,7 +127,7 @@
 {396}{}{Vorrei tanto recitare.}
 {397}{}{La mia ragazza non sa che lavoro qui.}
 {398}{}{Posso avere il tuo autografo?}
-{399}{}{Um, non ti piacerebbe uscire per un drink, vero? Che ne dici, invece, di un po' di sesso senza sentimento?}
+{399}{}{“Uh, ti andrebbe di uscire a bere qualcosa? Sempre che ti piacciano le donne, voglio dire.}
 {400}{}{::Ti ignora::}
 {420}{}{Vuoi fare un salto sul ring con me, campione?}
 {421}{}{Bel pezzo d'artiglieria che hai li'.}

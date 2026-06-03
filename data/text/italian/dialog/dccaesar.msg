@@ -85,7 +85,7 @@
 {229}{}{Vault City e' a est di qui, un po' a sud. Vic viene da li'.}
 {230}{}{Ho delle altre domande.}
 {231}{}{Grazie, devo andare.}
-{232}{}{Hmm, sembra uno schiavo in buona salute. Ti daro'}
+{232}{}{Hmm, sembra uno schiavo in buona salute. Ti daro' }
 {233}{}{ monete.}
 {234}{}{Ok! Affare fatto.}
 {235}{}{Uh, lascia perdere.}
@@ -98,12 +98,12 @@
 {242}{}{No. Ci vediamo.}
 {243}{}{Quale "amico" vuoi vendere?}
 {244}{}{Uhm, lascia perdere.}
-{245}{}{Interessante. Ti daro'}
+{245}{}{Interessante. Ti daro' }
 {246}{}{ monete.}
 {247}{}{Venduto!}
 {248}{}{No, grazie.}
 {249}{}{Voglio piu' soldi di cosi'!}
-{250}{}{D'accordo, ti daro'}
+{250}{}{D'accordo, ti daro' }
 {251}{}{ ma non di piu'!}
 {252}{}{Venduto!}
 {253}{}{Non basta.}

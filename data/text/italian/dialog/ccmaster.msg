@@ -16,11 +16,11 @@
 {115}{}{Chi sei tu? Che cosa ci fai qui?}
 {116}{}{Cosa?}
 {117}{}{Uh... sono nuovo qui?}
-{118}{}{Peek-a-boo!}
+{118}{}{Cucu'!}
 {119}{}{Chi sei tu? Che cosa ci fai qui?}
 {120}{}{Cosa?}
 {121}{}{Uh... sono nuovo qui?}
-{122}{}{Peek-a-boo!}
+{122}{}{Cucu'!}
 {123}{}{Cosa vuoi dire? Questa armatura funziona benissimo! Li vuoi firmare questi documenti o no?}
 {124}{}{Non capisco una parola.}
 {125}{}{Il tuo comunicatore e' rotto.}
@@ -36,7 +36,7 @@
 {135}{}{D'accordo, mi arrendo!}
 {136}{}{Vuoi che faccia cosa? Non sono quel tipo di persona!}
 {137}{}{Okay, qual e' il tuo nome?}
-{138}{}{[Player name]}
+{138}{}{[Nome del giocatore]}
 {139}{}{Pesci?}
 {140}{}{Voglio la Power-Armor.}
 {141}{}{Pesce Spada.}
@@ -48,9 +48,9 @@
 {147}{}{Con un P o un B?}
 {148}{}{Si'.}
 {149}{}{No.}
-{150}{}{I don't know.}
+{150}{}{Non lo so.}
 {151}{}{Avrai la tua dannata armatura quando avro' finito! Adesso rispondi alla domanda.}
-{152}{}{[Player name]}
+{152}{}{[Nome del giocatore]}
 {153}{}{Pesci?}
 {154}{}{Pesce Spada.}
 {155}{}{Arroy— Aspetta un secondo! Siamo appena stati laggiu'. Sei un dannato selvaggio! Guardie!}
@@ -88,7 +88,7 @@
 {187}{}{No, non li ho mai sentiti nominare.}
 {188}{}{Nuovo, eh? Immagino che tu voglia la tua uniforme. Perche' nessuno mi dice mai queste cose? Qual e' il tuo nome?}
 {189}{}{Eh? Non sento nulla di quello che dici.}
-{190}{}{[Player name]}
+{190}{}{[Nome del giocatore]}
 {191}{}{Non se saro' io il primo a sparare!}
 {192}{}{Aspetta un secondo - tu non sei uno di noi! GUARDIE!}
 {193}{}{Ascolta, soldato: ti ho gia' dato la tua armatura, per cui vattene da qui.}

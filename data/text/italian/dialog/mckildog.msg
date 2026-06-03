@@ -1,3 +1,3 @@
-{100}{}{:: Bark ::}
-{101}{}{:: Bark Bark ::}
-{102}{}{:: Bark Bark Bark ::}
+{100}{}{:: Abbaio ::}
+{101}{}{:: Bau Bau ::}
+{102}{}{:: Bau Bau Bau ::}

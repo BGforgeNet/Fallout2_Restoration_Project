@@ -1,6 +1,6 @@
 {100}{}{Vedi un pugile.}
 {150}{}{Vedi un uomo nero molto muscoloso. Sembra che abbia appena finito di allenarsi.}
-{151}{}{Vedi un enorme uomo nero. E quando dico enorme voglio proprio dire ENORME. }
+{151}{}{Vedi un enorme uomo nero. E quando dico enorme voglio proprio dire ENORME.}
 {152}{}{Sembra che abbia appena finito di allenarsi.}
 {153}{}{Per un attimo lo avevi scambiato per una piccola montagna.}
 {154}{}{E' enorme. Enoooooorme.}
@@ -37,7 +37,7 @@
 {216}{}{::Sorride senza denti::}
 {217}{}{::Si gratta::}
 {218}{}{::Gonfia i muscoli::}
-{219}{}{Grunt}
+{219}{}{Grugnito}
 {220}{}{Tu combattere me?}
 {221}{}{Arrabbiati arrabbiati arrabbiati.}
 {222}{}{Con-centrati, Con-centrati.}
@@ -93,4 +93,4 @@
 {366}{}{Perdonami, Mick.}
 {367}{}{Ricorda, vai di gancio!}
 {368}{}{Ne vedo tre!}
-{400}{}{He is sweating profusely.}
+{400}{}{Sta sudando copiosamente.}

@@ -3,7 +3,7 @@
 {150}{}{Se si escludono il colorito pallido e le pupille dilatate, sembra una persona normale.}
 {200}{}{Oh, merda!}
 {201}{}{Oooh! Quello deve far male.}
-{210}{}{Sai che puoi entrare anche dalla porta sul retro...?}
+{210}{}{Sai che puoi entrare anche dalla porta sul retro...}
 {211}{}{Bwahahahaha!}
 {212}{}{Non diro' una parola.}
 {213}{}{Oh, dio! Sei troppo divertente! Rifallo ancora!}

@@ -76,7 +76,7 @@
 {250}{}{Questo terminale e' bloccato per motivi di sicurezza. Siete pregati di informare il responsabile PoseidoNet.}
 {251}{}{Hmm, sembra proprio che non possa farci nulla.}
 {252}{}{Hmm, chissa' se c'e' un tasto di riavvio locale... Eccone uno. Proviamo un po'.}
-{300}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. }
+{300}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto.}
 {301}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. Accesso Negato. Prego inserire codice corretto. Avete ancora due tentativi.}
 {302}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. Accesso Negato. Avete ancora un tentativo.}
 {303}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. Accesso Negato. Attivate Procedure Interne di Sicurezza.}
@@ -109,9 +109,9 @@
 {351}{}{Download procedure per Robot Manutenzione.}
 {352}{}{Procedi.}
 {353}{}{Esci.}
-{360}{}{Postazioni PoseidoNet Attive: Centrale Nucleare #5, Raffineria di Navarro, Postazione di Controllo ENCLAVE, ENCLAVE - Laboratorio di Ricerca sui Vault... Accesso Negato.}
+{360}{}{Postazioni PoseidoNet Attive: Centrale Nucleare #5, Raffineria di Navarro, Postazione di Controllo ENCLAVE, ENCLAVE - Laboratorio di Ricerca sui Vault... Accesso Negato}
 {361}{}{Le luci sono accese, ma in casa non c'e' nessuno. }
-{362}{}{E' tutto spento a parte questo ENCLAVE - Laboratorio di Ricerca sui Vault. Mi domando cosa sia...}
+{362}{}{È tutto spento, tranne il Controllo Ricerca dei Vault dell’ENCLAVE. Chissà che cos’è...}
 {363}{}{Hmm, sembra che tutto sia o spento o chiuso. Beh, pazienza.}
 {370}{}{Accesso in corso... Postazione Enclave - Accesso Negato.}
 {371}{}{Accesso in corso... ancora... Postazione Enclave - Accesso Negato.}
@@ -120,11 +120,11 @@
 {374}{}{Accesso in corso... ancora una volta... Ma non hai niente di meglio da fare nella vita?... Postazione Enclave - Accesso Negato.}
 {375}{}{Adesso basta. Ne ho abbastanza della tua insistenza. Se ci riprovi un'altra volta, te ne pentirai.}
 {376}{}{Non dire che non ti avevo avvertito. (Non appena leggi questo messaggio una scarica elettrica proveniente dalla tastiera ti attraversa le dita.)}
-{377}{}{Forse dovrei provarci ancora...}
+{377}{}{Forse dovrei provarci ancora?}
 {378}{}{Cosi' puo' bastare. Sara' meglio rimettere in funzione quell'unita' RM&RR.}
 {379}{}{Dannazione, deve avermi tagliato fuori.}
 {380}{}{Regolatore Idroelettrico di Magnetosfera richiesto per dare inizio alla sequenza di Riparazione.}
-{381}{}{Iniziare Manutenzione del Sistema di Raffreddamento.}
+{381}{}{Iniziare Manutenzione del Sistema di Raffreddamento}
 {382}{}{Esci.}
 {390}{}{Regolatore Idroelettrico di Magnetosfera accettato. Scansione in corso... Lo strumento rientra nei limiti standard di qualita'... Trasferimento ad unita' di riparazione completato... Procedere?}
 {391}{}{Si'.}
@@ -181,8 +181,8 @@
 {522}{}{Gira a Sinistra.}
 {524}{}{Gira a Destra.}
 {526}{}{Vai Avanti.}
-{530}{}{Esegui Procedura: Installa Regolatore Idroelettrico di Magnetosfera.}
-{531}{}{Esegui Procedura: Posiziona Valvola Principale Sistema di Raffreddamento - Chiusa.}
+{530}{}{Esegui Procedura: Installa Regolatore Idroelettrico di Magnetosfera}
+{531}{}{Esegui Procedura: Posiziona Valvola Principale Sistema di Raffreddamento - Chiusa}
 {535}{}{Controllo Manuale d'Emergenza Unita' RM&RR:}
 {540}{}{Aggiungi un comando.}
 {541}{}{Visualizza programma.}

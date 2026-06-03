@@ -8,8 +8,8 @@
 {150}{}{Guadagni }
 {151}{}{ punti esperienza per aver recuperato il GECK.}
 {400}{}{Non riesci a capire nulla dal testo, ma le illustrazioni sono piuttosto informative.}
-{600}{}{Something doesn't feel quite right in your stomach.}
+{600}{}{Senti qualcosa di strano allo stomaco.}
 {601}{}{Senti una pressione intensa allo stomaco.}
 {700}{}{Unisci i pezzi di carta strappati per ottenere un elenco di tre password.}
-{900}{}{Something doesn't feel quite right in your stomach.}
+{900}{}{Senti qualcosa di strano allo stomaco.}
 {901}{}{Senti una pressione intensa allo stomaco.}

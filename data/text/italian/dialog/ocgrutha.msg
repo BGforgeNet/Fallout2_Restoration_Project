@@ -69,13 +69,13 @@
 {168}{}{Capisco...}
 {169}{}{La tua decisione mi rammarica, ma l'accetto. Puoi andartene, ma ti prego, ritorna se cambi idea.}
 {170}{}{Fatto.}
-{171}{}{Bentornato }
+{171}{}{Ciao}
 {172}{}{No. Me ne occupo subito.}
 {173}{}{Mi dispiace, Gruthar. Il modulo vocale e' saltato. Devo andare a procurarmene uno.}
-{174}{}{Non capisco il funzionamento di queste cose, ma ti credo }
+{174}{}{Non capisco il funzionamento di queste cose, ma ti credo,}
 {175}{}{Fatto.}
 {176}{}{Tornero'... hai la mia parola.}
-{177}{}{Bentornato }
+{177}{}{Ciao}
 {178}{}{No, sto ancora cercando.}
 {179}{}{Si', eccolo qui!}
 {180}{}{}

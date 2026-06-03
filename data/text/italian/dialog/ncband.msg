@@ -17,13 +17,13 @@
 {302}{}{Grassshie}
 {303}{}{Grazie, ragazzi.}
 {400}{}{Oooooh}
-{402}{}{My baby ain't comin' home...}
-{405}{}{My baby done me wroooong...}
-{408}{}{My baby gone an' left me all aloooone...}
+{402}{}{La mia donna non torneraaaa a casaaa...}
+{405}{}{La mia donna mi ha fattoooo del maaale...}
+{408}{}{La mia donna se n'e' andataaa e mi ha lasciatooo da solooo...}
 {409}{}{}
 {500}{}{Go on}
-{501}{}{Taste the pain}
-{502}{}{Cum again sum otha day}
+{501}{}{Assapora il dolore}
+{502}{}{Torna a trovarci un altro giorno}
 {503}{}{}
 {600}{}{ Bottiglie di Birra sul Muro...}
 {601}{}{ Bottiglie di Birra...}
@@ -31,39 +31,39 @@
 {603}{}{Passala di mano...}
 {605}{}{}
 {700}{}{Row Row Row}
-{701}{}{Yer Boat}
-{702}{}{Gently Down the Stream}
-{703}{}{Merrily}
-{706}{}{Life is but a dream...}
+{701}{}{La tua barca}
+{702}{}{Dolcemente giu' per il torrente}
+{703}{}{Allegramente}
+{706}{}{La vita non e' che un sogno...}
 {707}{}{}
-{800}{}{We don't need another hero...}
-{801}{}{We don't needta know the way home...}
-{802}{}{All we need is whaz beyond...}
-{803}{}{Methadone}
+{800}{}{Non abbiamo bisogno di un altro eroe...}
+{801}{}{Non abbiamo bisogno di sapere la strada di casa...}
+{802}{}{Tutto cio' di cui abbiamo bisogno e' cio' che sta oltre...}
+{803}{}{Metadone}
 {804}{}{}
-{900}{}{Give me}
-{901}{}{A kiss to build a dream on}
-{902}{}{And my imagination}
-{903}{}{Will thrive upon that kiss}
+{900}{}{Dammi}
+{901}{}{Un bacio su cui costruire un sogno}
+{902}{}{E la mia immaginazione}
+{903}{}{Prosperera' grazie a quel bacio}
 {904}{}{Mmmmm}
-{905}{}{Sweetheart,}
-{906}{}{I ask no more than this:}
-{910}{}{A kiss before you leave me}
-{912}{}{Will feed my hungry heart}
+{905}{}{Tesoro,}
+{906}{}{Non chiedo altro che questo:}
+{910}{}{Un bacio prima che tu mi lasci}
+{912}{}{Nutrira' il mio cuore affamato}
 {913}{}{Leave me one thing before we part…}
-{915}{}{When I'm alone}
-{916}{}{With my fancies}
-{917}{}{I'lllll be with yoooou}
-{918}{}{Weaving ro-mances}
-{919}{}{Making believe they're true}
-{920}{}{Oh, give me your lips for just a moment}
+{915}{}{Quando sono solo}
+{916}{}{Con le mie fantasie}
+{917}{}{Saròòòò con teeeeee}
+{918}{}{Tessendo ro-manze}
+{919}{}{Facendo finta che siano vere}
+{920}{}{Oh, dammi le tue labbra per un solo momento}
 {921}{}{And my imagination will make that moment live…}
-{923}{}{Give me what you alone can give}
-{925}{}{::Mouth Trumpet::}
+{923}{}{Dammi ciò che solo tu puoi darmi}
+{925}{}{::Tromba a bocca::}
 {930}{}{Saro'... con teeee}
 {933}{}{Ohhhh}
-{935}{}{lips for just a moment}
-{937}{}{Will make that moment live}
+{935}{}{labbra per un solo momento}
+{937}{}{Renderò quel momento vivo}
 {941}{}{}
 {1200}{}{! Il grande eroe! Come possiamo aiutarti? Forse potremmo cantarti qualcosa di speciale, eh?}
 {1201}{}{. Possiamo aiutarti?}

@@ -67,7 +67,7 @@
 {166}{prs16}{Ah-ha. Oh, ma certamente, Vostra Eccellenza. Che ne direbbe di un... rinfresco? Possiamo parlare e risolvere la questione - Perche' non possiamo semplicemente essere amici?}
 {167}{}{Mi sembra un'idea davvero grandiosa.}
 {168}{}{Bel tentativo, signor Presidente.}
-{169}{prs17}{Uh, bene... solo un secondo. (all'interfono) Ahh, vorrei un rinfresco per me e per un *ospite inatteso*. Un ospite molto importante e -inatteso-. Subito.}
+{169}{prs17}{Uh, bene... solo un secondo. (all'interfono) Ahh, vorrei un rinfresco per me e per un *ospite inatteso*. Un ospite molto importante e -inatteso-. Subito?}
 {170}{}{Grazie. Dopotutto non credo che tu sia un tipo cattivo.}
 {171}{}{Una mossa stupida. Adesso qualcuno si fara' sicuramente del male.}
 {172}{prs18}{Qui dentro qualcuno e' matto, sicuramente. Oh certo. Oooooh certo.}
@@ -121,7 +121,7 @@
 {220}{prs34}{Beh, no. No... non proprio. Vedi, avevamo gia' pianificato tutto. Eravamo pronti. }
 {221}{}{Che cosa vuoi dire?}
 {222}{prs35}{Noi avevamo dei rifugi che avrebbero permesso alla gloriosa civilta' americana di sopravvivere. Tali installazioni - i vault - facevano parte del grande progetto.}
-{223}{}{Quei dannati vault non funzionarono come avrebbero dovuto! Un sacco di gente e' morta!}
+{223}{}{Quei dannati vault non hanno funzionato come avrebbero dovuto. Molta gente al loro interno e' morta.}
 {224}{prs36}{Veramente hanno funzionato esattamente come avrebbero dovuto. Lo si puo' chiamare un esperimento sociale su larga scala.}
 {225}{}{Un esperimento?}
 {226}{prs36a}{I vault furono progettati per condurre dei test sul genere umano. Alcuni non avevano abbastanza sintetizzatori di cibo, altri al loro interno avevano solo maschi, altri ancora erano impostati per aprirsi dopo 6 mesi. Ognuno di essi aveva le sue specifiche caratteristiche per testare gli occupanti.}
@@ -198,7 +198,7 @@
 {297}{}{Come mai? Cosa sta succedendo qui?}
 {298}{prs64}{Ti assicuro che sono nel pieno delle mie facolta' mentali, cosi' come tutte le persone coinvolte nel Progetto. Siamo votati alla salvezza della razza umana. Il perseguire ossessivamente un ideale si puo' chiamare follia, immagino, ma se questo fosse il caso, sarebbe una follia divina.}
 {299}{}{Di cosa stai parlando? Cosa sta succedendo qui?}
-{300}{}{Anch'io perseguo ossessivamente uno scopo: ucciderti all'istante!}
+{300}{}{Che ne dici della mia assoluta dedizione ad ammazzarti in questo momento?}
 {301}{}{Sei un pazzo. Adesso non ho tempo da perdere con la tua pazzia. Addio.}
 {302}{prs65}{Non credo che questo vecchio e stanco Pianeta sia abbastanza grande per due galli. Se dev'essere un "o noi, o voi"... Beh, io scelgo "noi".}
 {303}{}{Non credo che dovresti essere tu a fare questo genere di scelte.}
@@ -206,34 +206,34 @@
 {305}{}{E come intendi farlo? Cosa sta succedendo qui?}
 {306}{}{Permettimi di toglierti questo fardello. Per sempre.}
 {307}{}{Dev'essere bello, dal tuo punto di vista. Ci vediamo, signor Testa Bacata.}
-{308}{}{To the North}
-{309}{}{To the Northwest}
-{310}{}{To the West}
-{311}{}{To the Southwest}
-{312}{}{To the South}
-{313}{}{To the Southeast}
-{314}{}{To the East of here}
-{315}{}{To the Northeast}
+{308}{}{A Nord}
+{309}{}{A Nordovest}
+{310}{}{A Ovest}
+{311}{}{A Sudovest}
+{312}{}{A Sud}
+{313}{}{A Sudest}
+{314}{}{A Est da qui}
+{315}{}{A Nordest}
 {316}{}{Si'}
 {317}{}{No}
-{318}{}{Ouch}
-{319}{}{(cry of pain)}
-{320}{}{Why are you talking to me like that?}
-{321}{}{I don't know anything about that.}
-{322}{}{You're not very nice.}
-{323}{}{Thank-you. }
-{324}{}{This is good.}
-{325}{}{This isn't good.}
-{326}{}{I have a good feeling about this.}
-{327}{}{I have a bad feeling about this.}
-{328}{}{You people are crazy.}
+{318}{}{Ahi}
+{319}{}{(grido di dolore)}
+{320}{}{Perche' mi parli in quel modo?}
+{321}{}{Non ne so nulla.}
+{322}{}{Non sei molto gentile.}
+{323}{}{Grazie, }
+{324}{}{Questo è un bene.}
+{325}{}{Questo non va bene.}
+{326}{}{Ho un buon presentimento al riguardo.}
+{327}{}{Ho un brutto presentimento.}
+{328}{}{Siete tutti pazzi.}
 {329}{}{Di cosa stai parlando?}
-{330}{}{Is everyone else crazy here?}
-{331}{}{There must be another way.}
-{332}{}{Come here.}
-{333}{}{I don't understand.}
-{334}{}{I don't know.}
-{335}{}{That hurts.}
-{336}{}{That really hurts.}
-{337}{}{That's got to hurt.}
-{338}{}{Actually, Mr. President, I'm back.}
+{330}{}{Sono tutti pazzi qui?}
+{331}{}{Ci deve essere un altro modo.}
+{332}{}{Vieni qui.}
+{333}{}{Non capisco.}
+{334}{}{Non lo so.}
+{335}{}{Questo fa male.}
+{336}{}{Questo fa davvero male.}
+{337}{}{Deve fare male.}
+{338}{}{A dire il vero, signor Presidente, sono tornato.}

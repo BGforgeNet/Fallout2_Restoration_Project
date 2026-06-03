@@ -174,7 +174,7 @@
 {273}{}{Tôi chỉ tò mò thôi.}
 {274}{}{Look, I'm walking out of here right now. If you try and stop me, there's going to be trouble.}
 {275}{}{I don't know. These raiders don't make much sense. IF they are raiders.}
-{276}{}{What do you mean?}
+{276}{}{Ý cậu là sao?}
 {277}{}{I had some other questions...}
 {278}{}{I have to be going.}
 {279}{}{They've got heavy firepower. Expensive firepower. They know military tactics. They stay in formation. They never cross their lines of fire. And they always stop short of breaking through our defenses.}
@@ -202,7 +202,7 @@
 {301}{}{Sorry to hear that. I had some other questions...}
 {302}{}{Never mind then. Goodbye.}
 {303}{}{Scouting.}
-{304}{}{What do you mean?}
+{304}{}{Ý cậu là sao?}
 {305}{}{I could do some recon for you if you're short-handed.}
 {306}{}{Forget it. I had some other questions...}
 {307}{}{Never mind then. Goodbye.}

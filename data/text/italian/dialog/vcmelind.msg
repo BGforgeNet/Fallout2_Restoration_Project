@@ -39,6 +39,6 @@
 {138}{}{Posso chiederle qualcos'altro?}
 {139}{}{Grazie dell'aiuto.}
 {140}{}{Non sembri in grado di capire quello che facciamo qui.}
-{141}{}{Ha ragione. Non lo capisco perche' non ha alcun *senso*.}
+{141}{}{Ha ragione. Non lo capisco perche' non ha alcun *senso.*}
 {142}{}{Ero solo curioso. Grazie dell'aiuto.}
 {143}{}{Sono molto impegnata al momento. Rivolgiti al Vice Addetto all’Accoglienza se hai bisogno di assistenza.}

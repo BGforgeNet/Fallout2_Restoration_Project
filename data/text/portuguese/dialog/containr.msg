@@ -137,21 +137,18 @@ que você poderá abrir.}
 {174}{}{A falta de habilidade bloqueou o bloqueio neste recipiente.}
 {175}{}{ não conseguiu colher o bloqueio neste recipiente.}
 {176}{}{Você emperra o bloqueio do recipiente.}
-{177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
-  toma um ponto de dano.}
-{178}{}{Você pressiona suas costas enquanto tenta abrir o
- bloqueio e toma }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and
+ take }
 {179}{}{ pontos de dano.}
-{180}{}{Você é muito fraco para ultrapassar o bloqueio.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ emperra o bloqueio do recipiente.}
-{182}{}{ Estica as costas enquanto tenta violar a fechadura e
- recebe pontos de dano.}
-{183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}
-{186}{}{ massageia suas costas enquanto tenta arrombar a fechadura e leva
- um ponto de dano.}
-{187}{}{ pressiona suas costas enquanto tenta abrir o bloqueio e toma}
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ pontos de dano.}
 {189}{}{Você bloqueia habilmente o recipiente.}
 {190}{}{Você não bloqueia o recipiente.}

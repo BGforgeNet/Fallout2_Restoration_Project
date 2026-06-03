@@ -3,12 +3,12 @@
 {151}{}{Vedi Mr. Bishop. Ha un aspetto sinistro.}
 {200}{}{Hai del fegato per venire qui. }
 {201}{}{Hai del fegato. }
-{202}{}{Perche' non ti attacchi un cartello sul petto che dice "idiota rottinculo"?}
+{202}{}{Perche' non ti appendi un cartello al petto con scritto ‘gran coglione?’ }
 {203}{}{Assaggia questo piombo, bastardo di un }
 {204}{}{ bastardo.}
 {205}{}{Assaggia questo piombo, stupido figlio di puttana.}
 {206}{}{Assaggia questo piombo, puttana.}
-{207}{}{Me no PIACE; sapore di piombo cattivo!}
+{207}{}{Me no PIACE sapore di piombo cattivo!}
 {208}{}{-Allontanati-}
 {209}{}{Se sono queste le parole che vuoi incise sulla tua lapide, sara' fatto...}
 {210}{}{Le tue ultime parole non sono state un granche'.}
@@ -33,12 +33,12 @@
 {253}{}{Beh, ho consegnato la valigetta come Moore mi aveva chiesto... ora, per il pagamento...?}
 {254}{}{Sono curioso. Cosa c'e' nella valigetta?}
 {255}{}{Sono contento che sia tutto a posto... senta, adesso devo andare.}
-{265}{}{Frena i bollenti spiriti, selvaggio... non abbiamo ancora discusso del pagamento.}
-{266}{}{Frena i bollenti spiriti, selvaggio... ho delle domande da farti, prima.}
+{265}{}{Frena i bollenti spiriti, selvaggio... non abbiamo ancora discusso del pagamento. }
+{266}{}{Frena i bollenti spiriti, selvaggio... ho delle domande da farti, prima. }
 {267}{}{(Ti studia.) Allora... come fai TU a conoscere Moore? Sta cercando di fare della politica all'interno delle tribu', adesso? Ah! Quel ragazzo ha sbagliato lavoro.}
 {268}{}{L'ho incontrato a Vault City, mentre diffondeva il verbo. Mi sono offerto di aiutarlo consegnandole questa valigetta.}
 {269}{}{L'ho incontrato casualmente durante il mio viaggio. Mi sono offerto di aiutarlo consegnando questa valigetta a lei.}
-{275}{}{Heh... dannatamente gentile da parte tua... con tutto quel suo predicare, il vecchio "Tomcat" Moore sembra proprio non avere l'opportunita' di scendere dal suo palco abbastanza a lungo da poter fare lavori che richiedano spostamenti. Eh eh... tuttavia, questo non lo rende differente da nessun altro tizio di NCR. }
+{275}{}{Heh... dannatamente gentile da parte tua... con tutto quel suo predicare, il vecchio "Tomcat" Moore sembra proprio non avere l'opportunita' di scendere dal suo palco abbastanza a lungo da poter fare lavori che richiedano spostamenti. Eh eh... tuttavia, questo non lo rende differente da nessun altro tizio di NCR.}
 {276}{}{Predica molto. Tuttavia, le sue parole sembrano avere senso.}
 {277}{}{Ha un certo... "stile", con le parole.}
 {278}{}{Certo, beh, ad un certo punto il lavoro deve essere fatto e io vengo chiamato per fare in modo che le cose vengano consegnate... proprio come quella valigetta.}
@@ -48,7 +48,7 @@
 {295}{}{(Annuisce osservando la valigetta.) Bene, questa valigetta ha il suo bel valore. Contiene una piccola fetta di Vault City, un po' di quella preziosa tecnologia da cui quella puttana frigida di Lynette non vuole separarsi... ma, ehi, selvaggio, non ti ho ancora pagato. Ecco la tua parte.}
 {296}{}{Senta... non ho altri lavori in agenda al momento. Lei per caso avrebbe qualcosa da farmi fare?}
 {297}{}{Gia'... grazie. Adesso devo andare.}
-{305}{}{No... non ho altri lavori per te... ma, ehi, grazie per tutto quello che hai fatto.}
+{305}{}{No... non ho altri lavori per te... ma, ehi, grazie per tutto quello che hai fatto. }
 {306}{}{No... non ho niente per te. Tutte quelle morti giu' a NCR hanno reso la mia vita un po' piu' facile... ma, ehi, grazie per la consegna. }
 {307}{}{(Fa un cenno verso l'uscita.) Adesso ti muovi e te ne vai da qui. Ho altre cose delle quali occuparmi.}
 {308}{}{Ho portato qui quella stupida valigetta fin da Vault City e adesso mi mandi via cosi'? Credo che prendero' il RESTO del mio pagamento direttamente dalla tua cassaforte.}
@@ -63,17 +63,17 @@
 {328}{}{Non mi interessa. Si trovi qualcun altro.}
 {335}{}{Fermo. Non ho ancora FINITO di dirti tutto. Voglio vedere questo tipo morto, ma non deve SEMBRARE che sia stato freddato. Non ficcargli un proiettile nel cranio, non pugnalarlo a morte, non fare NULLA che possa assomigliare ad un assassinio.}
 {336}{}{Cosa? Come --}
-{337}{}{Questo le costera' un ex...}
+{337}{}{Questo ti costera' un be--}
 {338}{}{Perche'...?}
 {345}{}{Perche' e' cosi' che BISOGNA fare. Fa' che qualcuno laggiu' s'incazzi, fa' che qualcuno sospetti che io abbia QUALCOSA a che fare con la tirata di cuoia di quello stronzo, e sta' sicuro che faro' in modo che nessuno sia in grado di identificare il tuo cadavere.}
 {346}{}{Come diavolo dovrei fare ad uccidere qualcuno SENZA che sembri un assassinio?}
 {347}{}{Se lo scordi... non e' nel mio stile. Si trovi qualcun altro. Me ne vado.}
-{355}{}{Questo e' un TUO problema, selvaggio, non mio. Fa' qualche macumba, prepara delle piante velenose e versale nel suo drink, soffocalo nel sonno, spingilio giu' da un palazzo... non mi interessa. Solo fa' in modo che non sembri un assassinio. }
-{356}{}{D'accordo... te lo diro' un'altra volta nel caso in cui non fossi stato ASSOLUTAMENTE chiaro: deve sembrare un incidente, altrimenti non serve a niente. }
-{357}{}{Ho capito. Tornero' dopo che Westin avra' avuto il suo... "incidente".}
-{358}{}{L'avevo gia' CAPITO. Tornero' dopo che Westin avra' avuto il suo... "incidente".}
+{355}{}{Questo e' un TUO problema, selvaggio, non mio. Fa' qualche macumba, prepara delle piante velenose e versale nel suo drink, soffocalo nel sonno, spingilio giu' da un palazzo... non mi interessa. Solo fa' in modo che non sembri un assassinio.}
+{356}{}{D'accordo... te lo diro' un'altra volta nel caso in cui non fossi stato ASSOLUTAMENTE chiaro: deve sembrare un incidente, altrimenti non serve a niente.}
+{357}{}{Ho capito. Tornero' dopo che Westin avra' avuto il suo... "incidente."}
+{358}{}{L'avevo gia' CAPITO. Tornero' dopo che Westin avra' avuto il suo... "incidente."}
 {359}{}{Se non vuole che gli ficchi un proiettile in testa, le costera' un po' di piu'.}
-{360}{}{Vuole che lo faccia sembrare un incidente, eh? Allora mi serve sapere qualcosa di piu' a proposito di questo "Westin".}
+{360}{}{Vuole che lo faccia sembrare un incidente, eh? Allora mi serve sapere qualcosa di piu' a proposito di questo "Westin."}
 {361}{}{Non sono la persona adatta per questo lavoro. Se lo scordi.}
 {370}{}{D'accordo, allora. Aspetto presto tue notizie. E ricorda, selvaggio, tu non mi conosci, e noi non abbiamo mai avuto questa conversazione. Fanne parola con qualcuno e sei morto.}
 {371}{}{Non si preoccupi per ME, Bishop. Piuttosto, veda di avere il denaro per me, quando saro' tornato.}
@@ -188,7 +188,7 @@
 {707}{}{Grazie, ma non posso accasarmi... il mio villaggio e la mia gente contano su di me.}
 {715}{}{Fermo... non avrai davvero pensato che ti avrei lasciato andar via COSI' dopo quello che hai fatto, vero? Heh. Orsu'... ci sono alcuni scheletri che devono essere seppelliti prima che la questione sia chiusa. Lasciarti andare via... sarebbe solo una cattiva linea di condotta.}
 {716}{}{Fermo... non crederai davvero che la questione tra noi due sia risolta, vero? Eh-eh. Orsu'... secondo i miei calcoli, tu hai ancora un SACCO da pagare. In piu', dal momento che sai troppe cose, non posso certo lasciarti andare via... sarebbe una cattiva linea di condotta.}
-{717}{}{Non dire stupidaggini, Bishop. Lasciami andare, o trasformero' il tuo casino' da quattro soldi in un inferno. "Capish"?}
+{717}{}{Non dire stupidaggini, Bishop. Lasciami andare, o trasformero' il tuo casino' da quattro soldi in un inferno. "Capisce?"}
 {718}{}{Mi sembra giusto. Lascia che ti presenti la mia "linea di condotta" da 9mm.}
 {719}{}{"Cattiva linea di condotta"? TE LA MOSTRO IO LA MIA CATTIVA LINEA DI CONDOTTA, BRUTTO FIGLIO DI P --}
 {725}{}{D'accordo, allora: }
@@ -207,7 +207,7 @@
 {753}{}{Va tutto alla grande. La SUA famiglia in particolare mi sta dimostrando... MOLTA cortesia. (Fai un sorriso ostentato e poi te ne vai.)}
 {755}{}{Ehi, prima che tu te ne vada... hai intenzione di tornare a far visita ancora a mia moglie, selvaggio? }
 {756}{}{Ehi, prima che tu te ne vada... hai intenzione di tornare ancora per far festa con mia figlia, selvaggio? }
-{757}{}{Abbiamo fatto una bella festicciola? Eh? (Bishop sta sorridendo, ma non c'e' traccia di benevolenza in quel sorriso.) }
+{757}{}{Abbiamo fatto una bella festicciola? Eh? (Bishop sta sorridendo, ma non c'e' traccia di benevolenza in quel sorriso.)}
 {758}{}{Quello che e' successo tra me e Leslie... er, la signora Bishop... non significa nulla. Potremmo benissimo esserci soltanto... stretti le mani.}
 {759}{}{Ehi... senti, non e' successo niente, okay?}
 {760}{}{Qualche problema a riguardo, Bishop?}
@@ -231,8 +231,8 @@
 {801}{}{Delle voci?}
 {805}{}{Si'... nelle Lande gira voce che qualcuno che corrisponde alla tua descrizione ha spazzato via quei predoni a sud di Vault City. }
 {806}{}{E insieme a lui c'era un grosso mutante con una morsa attaccata alla spalla. }
-{807}{}{E insieme a lui c'era un robot con un cervello dentro una calotta.}
-{808}{}{E insieme a lui c'era un selvaggio con un osso infilato nel naso.}
+{807}{}{E insieme a lui c'era un robot con un cervello dentro una calotta. }
+{808}{}{E insieme a lui c'era un selvaggio con un osso infilato nel naso. }
 {809}{}{Cos'hai da dire a proposito?}
 {810}{}{Dire a cosa?}
 {811}{}{Oh, ma quello sono IO! IO! Io l'ho fatto!}
@@ -255,8 +255,8 @@
 {925}{}{Hai assassinato Westin.}
 {950}{}{Hai eliminato Carlson.}
 {975}{}{Sei diventato un picciotto della famiglia Bishop.}
-{1805}{}{Yeah... rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
+{1805}{}{Sì... nelle Lande gira voce che qualcuno che ti assomiglia abbia fermato i predoni a sud di Vault City. }
 {1820}{}{Be', devi essere un bel figlio di puttana furbo per convincere la loro guida a smettere di portarli attraverso le montagne.
  E potrebbe essere che non mi PIACCIA quello che hai fatto laggiù.}
-{1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
-{1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}
+{1836}{}{Per come la vedo io, mi devi un grosso favore, tribale. Non mi piace chi mette il naso negli affari altrui. }
+{1840}{}{Non ti devo niente, e non farò i tuoi lavori sporchi. Chiaro?}

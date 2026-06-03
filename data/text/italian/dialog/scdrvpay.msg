@@ -12,4 +12,4 @@
 {213}{}{Accidenti, Hal e' morto! E anche i brahmin! Temo che non ci siano soldi in questo viaggio per nessuno di noi. Sii felice di essere ancora vivo.}
 {214}{}{Accidenti, Hal e' morto! E i mandriani non sono affatto contenti - e' solo un viaggio da 1000$. Che sfortuna.}
 {215}{}{Accidenti, Hal e' morto! Almeno i brahmin stanno bene. Ecco i 2000$ pattuiti.}
-{216}{}{Per tutti i vitelli da latte! Hai fatto davvero un ottimo lavoro! Eccoti i tuoi 2000$ e anche 1000$ di bonus.}
+{216}{}{Dannazione, Hal e' morto! Comunque, te la sei cavata bene. C'e' un bonus di $1.000 per te. Quello e $2.000 fanno il tuo compenso. Redding farebbe bene a stare in guardia stanotte!}

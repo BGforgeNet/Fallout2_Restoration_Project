@@ -5,7 +5,7 @@
 {104}{}{Uhm, mancavano delle cose dalla carovana. Le leggi di NCR non mi permettono di pagare un ladro. Mi dispiace.}
 {105}{}{Un ladro? Mi ricordero' di quello che hai detto, dannato ingrato. Me ne vado. Addio.}
 {106}{}{Un giorno, presto, ti pentirai di avermi trattato cosi'. Addio.}
-{107}{}{Non posso pagare una carovana cosi' disastrosa. Non ti daro' un centesimo}
+{107}{}{Non posso pagare una carovana cosi' disastrosa. Non ti daro' un centesimo.}
 {108}{}{Taccagno bastardo! La pagherai per questo. Addio.}
 {109}{}{Beh, a volte si e' piu' fortunati di altre. Questa volta sono stato sfortunato. Addio.}
 {110}{}{Questa e' carovana non e' stata molto redditizia. Posso darti solo 50$ come pagamento.}

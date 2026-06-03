@@ -37,10 +37,10 @@
 {271}{}{Io? Io sono il buon vecchio Babbo Natale. E TU devi essere quello stupido teppista a pagamento che gira per la citta' come un cane affamato in cerca dei suoi escrementi.}
 {272}{}{Io? Io sono il buon vecchio Babbo Natale. E TU devi essere quello stupido pezzo di spazzatura porno che monta come un cavallo ed e' stupido come un asino.}
 {273}{}{Io? Io sono il buon vecchio Babbo Natale. E TU devi essere quello stupido pezzo di spazzatura porno che i vecchi incappottati usano per soddisfare le loro fantasie masturbatorie.}
-{274}{}{Bene, sono felice di non aver bisogno di presentarmi. Cosa ci fai qui, "Natale"?}
+{274}{}{Bene, sono felice di non aver bisogno di presentarmi. Cosa ci fai qui, "Nick?"}
 {275}{}{Babbo Natale? Che diavolo di nome e'?}
 {276}{}{Senti nonnetto, un'altra osservazione come questa e usero' i tuoi denti come collana.}
-{277}{}{Senti, sorvolero' sulle tue osservazioni... per questa volta. Adesso dimmi chi sei.}
+{277}{}{Senti, stavolta lascio correre il tuo commento… stavolta. Ora, chi sei?}
 {278}{}{Un vocabolario davvero impressionante... "Natale". Sei di queste parti?}
 {279}{}{Come non detto. Me ne vado.}
 {290}{}{(Ti guarda, poi sbuffa.) Mi chiamo Renesco. Dimmi che cos'e' che vuoi, tu...beh, qualunque cosa tu sia. (Ti da' un'occhiata.) Sembreresti uno di quei primati adoratori del sole, sotto i vestiti.}
@@ -179,7 +179,7 @@
 {682}{}{Beh...}
 {683}{}{Okay! Okay! Ti faro' uno sconto! Hmphhh.}
 {684}{}{Dai. Solo un piccolo sconticino. Dai...}
-{687}{}{Ottimo! Vediamo quello che hai, "amico".}
+{687}{}{Ottimo! Vediamo quello che hai, "amico."}
 {688}{}{Splendido! Senti, avrei delle altre domande...}
 {689}{}{Tornero' piu' tardi. }
 {700}{}{Dimmi tutto.}
@@ -188,14 +188,14 @@
 {703}{}{Si'?}
 {704}{}{Ti ho mai parlato di Arroyo, il mio villaggio?}
 {706}{}{Hai venduto del Jet a Richard Wright?}
-{707}{}{Sono venuto a prendere il tributo per Mr. Salvatore.}
+{707}{}{Sono venuto a prendere il tributo per Don Salvatore.}
 {710}{}{Sto cercando dei pezzi di ricambio per la miniera di Broken Hills...}
 {711}{}{Hai un vocabolario interessante... sei di queste parti?}
 {712}{}{Lasciamo perdere. }
 {725}{}{(Socchiude gli occhi.) E allora?}
 {726}{}{Beh, mi servono delle parti per riparare il purificatore d'aria nella loro miniera. Mi e' stato detto che tu potevi aiutarmi.}
 {727}{}{Beh, mi servono delle parti per riparare il purificatore d'aria nella loro miniera. Mi manda Zaius. Ha detto, uhm...detto...uhm...merda.}
-{728}{}{Beh, mi servono delle parti per riparare il purificatore d'aria nella loro miniera. Mi manda Zaius. Ha detto, "Il canarino ha tirato le cuoia".}
+{728}{}{Beh, mi servono delle parti per riparare il purificatore d'aria nella loro miniera. Mi manda Zaius. Ha detto, "Il canarino ha tirato le cuoia."}
 {735}{}{Si', si da' il caso che io abbia alcune parti che potrebbero riparare il purificatore d'aria. 100 verdoni.}
 {736}{}{Le prendo. Ecco a te.}
 {737}{}{Che ne diresti di cinquanta verdoni?}
@@ -208,7 +208,7 @@
 {755}{}{Dubito FORTEMENTE che abbia detto questo. Non era "Il canarino ha tirato le cuoia", per caso?}
 {756}{}{Beh, si'.}
 {760}{}{E...?}
-{761}{}{"E"?}
+{761}{}{"E?"}
 {765}{}{E la SECONDA parte e'...?}
 {766}{}{"Seconda parte"? Non ha detto nulla a proposito di una SECONDA parte. Quel brutto bast -!}
 {769}{}{Ti stavo solo mettendo alla prova. Non c'e' nessuna seconda parte. Beh, se e' Zaius che ti manda, CREDO di avere qualche pezzo di ricambio da darti. }
@@ -253,17 +253,17 @@
 {855}{}{NON ne ho idea. Non conoscevo il ragazzo, per cui non conosco i suoi amici O le sue abitudini. L'unico che potrebbe dirtelo con certezza e' troppo occupato a fare il morto al Golgotha per dirtelo.}
 {856}{}{Golgotha?}
 {858}{}{Ci pensero'. Addio. }
-{865}{}{Allora hai fatto un viaggio per niente. Ho PAGATO a Mr. Salvatore il suo "omaggio" *due settimane fa*, come da programma. Io non so chi tu sia, o cosa tu creda di fare, ma non avrai un cent da me. Fuori!}
+{865}{}{Allora hai fatto un viaggio per niente. Ho PAGATO a Don Salvatore il suo "omaggio" *due settimane fa*, come da programma. Io non so chi tu sia, o cosa tu creda di fare, ma non avrai un cent da me. Fuori!}
 {866}{}{Senti, nonnetto. Smettila di farmi perdere tempo. Sputa fuori i soldi o ti ritroverai a sputare sangue.}
-{867}{}{Io rappresento Mr. Salvatore. Tu mi darai il tributo che ti ho chiesto, e lo farai subito.}
-{868}{}{Andro' ad informarmi da Mr. Salvatore riguardo al programma, poi tornero'. }
+{867}{}{Io rappresento Don Salvatore. Tu mi darai il tributo che ti ho chiesto, e lo farai subito.}
+{868}{}{Andro' ad informarmi da Don Salvatore riguardo al programma, poi tornero'. }
 {875}{}{Sei diventato sordo, ragazzo? }
 {876}{}{Sei diventata sorda, ragazza? }
 {877}{}{TI HO DETTO CHE HO. GIA'. PAGATO. IL. PIZZO. *Due settimane fa*. Se sei davvero un uomo di Salvatore, dovresti saperlo. Adesso smamma!}
-{878}{}{Senti. Per l'ultima volta: tira fuori i quattrini!}
-{879}{}{Sei tu quello che e' diventato sordo. Io rappresento Mr. Salvatore e tu pagherai il pizzo.}
+{878}{}{Senti. Per l'ultima volta: tira fuori i quattrini.}
+{879}{}{Sei tu quello che e' diventato sordo. Io rappresento Don Salvatore e tu pagherai il pizzo.}
 {880}{}{Ti avevo avvertito, nonnetto. Vorra' dire che dovro' procedere con le cattive. E' tempo di morire.}
-{881}{}{Mi informero' con Mr. Salvatore a proposito del pagamento, poi tornero'. }
+{881}{}{Mi informero' con Don Salvatore a proposito del pagamento, poi tornero'. }
 {890}{}{Dimostrami che sei un uomo di Salvatore, e PRENDERO' in considerazione la possibilita' di darti la grana. Altrimenti non avrai un cazzo da me.}
 {891}{}{Non ho bisogno di dimostrare un bel nulla. Io sono il suo rappresentante, e questo e' tutto quello che ti serve sapere.}
 {892}{}{Cosa? Credi che questa pistola laser ce l'abbia per bellezza?}
@@ -271,13 +271,13 @@
 {900}{}{Vattene via, delinquente da quattro soldi! Fa' vedere la tua faccia qui dentro un'altra volta e ti uccidero' con le mie mani!}
 {901}{}{Ti avevo avvisato. Preparati a morire.}
 {910}{}{Hmmmph. Non ha importanza, non posso pagare. L'ultima 'donazione' mi ha lasciato praticamente a secco.}
-{911}{}{Questo non mi interessa. Tu mi darai quei soldi adesso. Mr. Salvatore non ha voglia di sentire le tue scuse.}
-{920}{}{Minacciarmi non ti sara' d'aiuto. Mr. Salvatore vuole i suoi soldi. Io non li ho. S'incazzera' con me, ma anche con te. A Salvatore non PIACCIONO le persone che lo deludono...farai meglio ad escogitare in fretta qualcosa.}
+{911}{}{Questo non mi interessa. Tu mi darai quei soldi adesso. Don Salvatore non ha voglia di sentire le tue scuse.}
+{920}{}{Minacciarmi non ti sara' d'aiuto. Don Salvatore vuole i suoi soldi. Io non li ho. S'incazzera' con me, ma anche con te. A Salvatore non PIACCIONO le persone che lo deludono...farai meglio ad escogitare in fretta qualcosa.}
 {921}{}{L'ho gia' fatto. Paghero' la tua parte, per questa volta. In cambio, tu mi farai degli sconti nel tuo negozio.}
 {924}{}{Cerchero' di inventarmi qualcosa... tornero'.}
 {930}{}{Aspetta un secondo, Neanderthaliano...}
 {931}{}{Non discutero' un minuto di piu' con te. La mia pazienza ha raggiunto il limite. Queste sono le mie condizioni.}
-{940}{}{Io...senti, ehm, io...hmmmm...d'accordo, allora. Avrai uno..."sconto".}
+{940}{}{Io...senti, ehm, io...hmmmm...d'accordo, allora. Avrai uno..."sconto."}
 {941}{}{Fammi vedere la tua merce. Faro' i miei "acquisti" adesso.}
 {943}{}{Non voglio niente al momento; ma non temere, tornero'. }
 {950}{}{(Incrocia le braccia.) Soddisfacente. Se ti aspetti qualche elemosina perche' sei un Buon Samaritano, ti sbagli DI GROSSO. Ora... che cosa vuoi?}
@@ -295,7 +295,7 @@
 {972}{}{Tu ne sai qualcosa, vero?}
 {980}{}{Whoa! Aspetta un secondo...!}
 {981}{}{Non fare il furbo con me, Renesco! Prova a fregarmi e andrai a far compagnia a Richard. Capito?}
-{982}{}{Adesso basta. Io e il signor Wright stiamo per fare un bel discorsetto. Buona giornata, Renesco...o forse dovrei dire "addio".}
+{982}{}{Adesso basta. Io e il signor Wright stiamo per fare un bel discorsetto. Buona giornata, Renesco...o forse dovrei dire "addio."}
 {990}{}{Aspetta un secondo! Senti...io non l'ho VENDUTO al ragazzo! Non ha mai comprato NULLA da me! Mi... e' stato CHIESTO di fare un po' di Jet corretto con del veleno di radscorpione, ma... ma io NON l'ho venduto al ragazzo!}
 {991}{}{Ti e' stato CHIESTO di fare del Jet avvelenato? Per chi?}
 {992}{}{A chi l'hai VENDUTO?}
@@ -327,14 +327,14 @@
 {5260}{}{...*sniff*... vado a cercare il mio fratellone perche' ti picchi, vecchio! Poi ci mangeremo un gelato e...*sniff*... una TORTA e ci sara' una grossa festa con i clown e...}
 {6000}{}{Stavo cercando qualche consiglio sulla salute del cuore. Pensi di potermi spiegare un paio di cose?}
 {6010}{}{So che questo deve venirti come uno shock, ma un camice bianco non conferisce automaticamente una laurea in cardiologia. Sono un farmacista. Produco chem. Poi tu li compri. Poi, te ne vai. In silenzio.}
-{6011}{}{Fair enough. Moving on, then...}
+{6011}{}{D’accordo. Andiamo avanti, allora…}
 {6012}{}{Dai, potresti accontentarmi? Solo questa volta? Tiiii pregoooo?}
 {6020}{}{Bene. La mia ricetta e' sigarette e carne rossa, in grandi quantita'. E' tutto? Se devo sopportare ancora questa ciarla vuota oggi, rischio di avere un ictus io stesso.}
 {6021}{}{Si', sei proprio teso, vero? Scommetto che Hakunin potrebbe aiutarti con quello. E' lo sciamano a casa mia, ad Arroyo. Senti, ti ho mai parlato di Arroyo?}
 {6022}{}{E non sarebbe una tragedia. Prossima domanda...}
-{6023}{}{Okay then, just one more quick thing...}
-{6024}{}{Gee, thanks Renesco. I knew I could count on you. You take care now.}
-{6030}{}{I need you to fix me up with a special order.}
+{6023}{}{Ok, solo un’ultima cosa veloce…}
+{6024}{}{Accidenti, grazie Renesco. Sapevo di poter contare su di te. Stammi bene.}
+{6030}{}{Ho bisogno che tu mi prepari un ordine speciale.}
 {6031}{}{Quindi, riguardo a quell'ordine speciale di cui stavamo parlando...}
 {6040}{}{Si'? E allora? Ti aspettavi che leggessi nel pensiero, o vorresti che ti facessi una sorpresa?}
 {6041}{}{Neanche per sogno, stronzo. Quello di cui ho bisogno sono alcune... um... pillole. Per, um... (lasci cadere la voce, guardi in modo eloquente verso la fibbia della cintura, guardi Renesco negli occhi e ti schiarisca la voce).}
@@ -359,7 +359,7 @@
 {6080}{}{Hmmm. E' tutto? Roba elementare, davvero. E i materiali di base costano pochissimo. Tenendo conto della manodopera... 200 dollari dovrebbero bastare.}
 {6081}{}{Cosa?! Se volevo farmi fregare, sarei andato al Cat's Paw! Almeno saprei in cosa mi stavo cacciando.}
 {6082}{}{Lo sai bene quanto me che stiamo parlando di 15 dollari di chem e cinque minuti di lavoro col mortaio. Credo che dobbiamo parlare un po' di cifre qui.}
-{6083}{}{All right. You've got overhead, I've got better places to be. $200.}
+{6083}{}{D’accordo. Tu hai le tue spese, io ho posti migliori dove stare. 200$.}
 {6084}{}{Non sono sicuro di potermi permettere cosi' tanto al momento. Forse ci torniamo dopo.}
 {6090}{}{(Il suo cipiglio si accentua.) Non sono dell'umore per menare il can per l'aia con te. Pensi che mi beva che sei solo un homo not-so-erectus particolarmente schizzinoso? PREGO! Hai idea di quanto tempo faccio questo lavoro?}
 {6091}{}{Evidentemente non hai passato molto tempo fuori dalla tua caverna, quindi fidati di me quando dico che non ci sono molti tipi di pillole in giro che corrispondono a quella descrizione stranamente specifica tua, e una *molto nota* mi viene in mente immediatamente. Articoli "speciali", prezzi speciali, tribale. Benvenuto a New Reno. Saranno 300 dollari.}
@@ -367,11 +367,11 @@
 {6093}{}{Ti ho coperto il culo con Salvatore. Considera questo il saldo del tuo debito.}
 {6094}{}{Non credo che *il signor Bishop* sarebbe molto contento di te se sapesse che stai ostacolando i suoi interessi in questo modo, Renesco.}
 {6095}{}{Bene. 300 dollari, e quello e' per le pillole *e* la tua discrezione. Capito?}
-{6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
+{6096}{}{Ehi, calma. Forse ripasso quando sarai di umore migliore.}
 {6100}{}{Bene. Immagino che concluda i nostri affari, allora. Devo dire, tribale, che e' stato... quasi *tollerabile*. Ora, stai buono e cerca di non rovinare il momento. (Renesco prende i tuoi soldi e si mette al lavoro.)}
 {6101}{}{(Passano alcuni minuti. Renesco si spolvera le mani e fa scorrere un flacone di pillole indistinguibile da quello di Westin sul bancone verso di te.) Ecco fatto. Ora, abbiamo finito?}
 {6102}{}{Lascia che ti chieda qualcos'altro.}
-{6103}{}{That's it for me. See you around.}
+{6103}{}{Per me è tutto. Ci vediamo.}
 {6110}{}{(Renesco diventa rosso, le narici che fremono di rabbia, ma poi abbassa lo sguardo e comincia a pulire gli occhiali con grande attenzione sul camice mentre parla.) Primate, le UNICHE due cose per cui saro' MAI in debito con te sono UN CAZZO e NIENTE.}
 {6111}{}{Ora, detto questo... se servira' a toglierti dalla testa questa intollerabile illusione provinciale che tu abbia in qualche modo qualcosa su di me, il solo PENSIERO della quale mi fa stare male in modi che mi mancano le parole per descrivere... }
 {6112}{}{SUPPONGO... che le tue tre volte maledette pillole siano un prezzo modesto da pagare. E se SENTIRO' MAI PIU' dire una parola che fa anche solo RIMA con "debito," il negozio avra' un nuovo tappeto di pelle di scimpanze'. Siediti, stai zitto, e lavora sul farti crescere un paio di pollici opponibili mentre preparo questo composto. (Renesco si mette al lavoro.)}

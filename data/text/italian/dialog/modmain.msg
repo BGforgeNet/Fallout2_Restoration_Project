@@ -1,7 +1,7 @@
 {100}{}{Una piccola, caratteristica comunita' rurale, circondata da vasti campi con le coltivazioni morte o morenti.}
 {500}{}{Pare proprio che tu li abbia uccisi tutti.}
 {501}{}{Tutti cattivi morsatori morti.}
-{502}{}{You cleared out Farrel's garden.}
+{502}{}{Hai ripulito il giardino di Farrel.}
 {600}{}{Vedi un sacchetto pieno di monete.}
 {601}{}{Vedi un sacchetto pieno di monete. Probabilmente qualcuno l'ha buttato nel pozzo per esprimere un desiderio.}
 {610}{}{Questo e' il MIO sogno, il MIO desiderio e me lo riprendo indietro. Me li riprendo tutti!}

@@ -48,7 +48,7 @@
 {147}{}{The good always die young.}
 {148}{}{I hope we can survive without Ken Lee.}
 {149}{}{I hear that Ken Lee was the only one who kept the Emperor in line.}
-{150}{}{I hear that the Emperor was only a fac?ade for Ken Lee. }
+{150}{}{I hear that the Emperor was only a façade for Ken Lee. }
 {151}{}{Maybe Lo Pan could take Ken Lee's spot...}
 {152}{}{Work, work, work. Rice, rice, rice. ::sigh::}
 {153}{}{Isn't there more to life than this?}

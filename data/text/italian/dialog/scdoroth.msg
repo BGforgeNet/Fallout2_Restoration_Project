@@ -47,4 +47,4 @@
 {146}{}{Non startene li' impalato -- fermalo!}
 {147}{}{Fuori di qui, sacco di merda di brahmin.}
 {148}{}{Non parlare con me, codardo.}
-{149}{}{Sei una persona inutile!!}
+{149}{}{Sei una persona inutile!?}

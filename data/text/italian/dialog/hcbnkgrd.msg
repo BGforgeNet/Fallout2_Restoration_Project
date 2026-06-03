@@ -37,13 +37,13 @@
 {136}{}{Okay.}
 {137}{}{Tu! Cosa diavolo stai facendo? Esci immediatamente da qui!}
 {138}{}{Metti via quelle armi, amico. E subito.}
-{139}{}{You again? Do you need something?}
+{139}{}{Ancora tu? Ti serve qualcosa?}
 {140}{}{Stavo solo dando un'occhiata in giro.}
 {141}{}{Err... no, niente. Davvero.}
 {142}{}{Sono qui per parlare con i prigionieri.}
 {143}{}{Avete mai pensato che forse state trattenendo i vostri prigionieri illegalmente?}
 {144}{}{Non dovresti gironzolare da queste parti. Vattene.}
 {145}{}{Se mai riusciro' a scoprire dove sono scappati quei dannati prigionieri, le conseguenze saranno terribili!}
-{150}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the... Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
+{150}{}{Ma... ma... d’accordo. Sono fuori. La responsabilità è tua. Spero solo che tu abbia ragione. Ecco la... Ehi, dov’è finita la mia chiave!? Merda, Marcus mi farà a pezzi se l’ho persa. Scusa, devo andare.}
 {151}{}{Okay.}
-{152}{}{I actually took that key from you. What are going to do about it?}
+{152}{}{In realtà ti ho preso io quella chiave. Che vuoi farci?}

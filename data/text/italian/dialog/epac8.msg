@@ -1,1 +1,1 @@
-{100}{}{Looks like you've weeded out all the spore plants.}
+{100}{}{Sembra che tu abbia eliminato tutte le piante di spore.}

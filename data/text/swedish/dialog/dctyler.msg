@@ -50,7 +50,7 @@
 {302}{}{Bitch? I'll show you what this bitch can do.}
 {303}{}{Fan ta dig.}
 {304}{}{[Lämna]}
-{310}{}{Beat it.}
+{310}{}{Stick härifrån.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
 {321}{}{Ur.}
 {322}{}{Eh...}
@@ -93,7 +93,7 @@
 {413}{}{Not bad.}
 {414}{}{Utmattad.}
 {415}{}{Okej.}
-{416}{}{Beat it.}
+{416}{}{Stick härifrån.}
 {417}{}{Been better.}
 {418}{}{Åh.}
 {430}{}{Can't wait for that party. Hope he has a few whores there again.}

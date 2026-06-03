@@ -7,7 +7,7 @@
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}
 {202}{}{::Spänner::}
-{203}{}{I'm bushed.}
+{203}{}{Jag är helt slut.}
 {204}{}{Jag är trött.}
 {205}{}{*Phewwww* Rough day.}
 {206}{}{Working out always makes me tired.}

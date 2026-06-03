@@ -6,7 +6,7 @@
 {105}{}{Me solo dice ciao. Me va ora.}
 {106}{}{Sono nuovo di qui. Vorrei farti qualche domanda per familiarizzare con la base.}
 {107}{}{Scusa se ti ho disturbato. Volevo solo salutare.}
-{108}{}{Anch'io sono una nuova recluta, signore. Non so se saro' in grado di rispondere a tutte le sue domande, ma ci provero'. }
+{108}{}{Anch'io sono una nuova recluta, signore. Non so se saro' in grado di rispondere a tutte le sue domande, ma ci provero'.}
 {109}{}{Come posso aiutarla?}
 {110}{}{Cosa essere questo posto?}
 {111}{}{Cosa essere tuo lavoro?}

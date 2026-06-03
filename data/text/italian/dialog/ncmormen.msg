@@ -97,10 +97,10 @@
 {376}{}{Caaaaa-zzo, e' bollente.}
 {377}{}{Come si comporta il Grande Boss Mordino? Digli che lo tengo d'occhio, eh, }
 {378}{}{Ho ammazzato uno scorpione, ieri notte. Mi aveva quasi punto.}
-{379}{}{Che i Bishop ci provino, a fare i furbi con noi: diventeranno cibo per vermi!}
+{379}{}{Se i Bishop ci vengono a cercare, finiranno a far da cibo ai vermi, giusto?}
 {380}{}{Cosa dicono giu' in citta', eh, }
 {381}{}{Quand'e' che andremo a far fuori qualche Bishop, eh? La mia pistola si sta arrugginendo.}
-{382}{}{Quei Salvatore vanno in giro come se New Reno fosse loro. Sai, credo che qualcuno dovrebbe rimetterli al loro posto...}
+{382}{}{Quei Salvatore vanno in giro come se New Reno fosse loro. Sai, credo che qualcuno dovrebbe rimetterli al loro posto, capisci?}
 {383}{}{Ho sentito che Tommy the Balls e' in citta'. Meglio stare in guardia.}
 {384}{}{Hai del Jet, chica? Sto morendo.}
 {400}{}{Hai del fegato a farti vedere da queste parti. Ti consiglio pero' di abbassare la cresta e di andartene.}

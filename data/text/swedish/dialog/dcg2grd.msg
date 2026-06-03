@@ -25,7 +25,7 @@
 {251}{}{Ynkrygg.}
 {252}{}{Du gör mig illamående.}
 {253}{}{Försvinn.}
-{254}{}{Beat it.}
+{254}{}{Stick härifrån.}
 {255}{}{Vi är redo när du är det.}
 {256}{}{Det är på tiden att vi hämnas på dem.}
 {257}{}{I hate waiting.}

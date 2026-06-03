@@ -24,13 +24,13 @@
 {123}{}{Fottiti.}
 {124}{}{Lascia in pace il mio armadietto o te ne faro' pentire amaramente.}
 {125}{}{E' tempo... di morire.}
-{200}{}{Ok, sbrighiamola -- non mi piace avere mutanti che puzzano nel mio ufficio, e ho un sacco da fare. Lavori per i Salvatores?}
-{201}{}{None of your business, asshole.}
+{200}{}{Ok, sbrighiamola -- non mi piace avere mutanti che puzzano nel mio ufficio, e ho un sacco da fare. Lavori per i Salvatores? }
+{201}{}{Non sono affari tuoi, stronzo.}
 {202}{}{Non lavoro per nessuno.}
-{203}{}{So what if I do?}
-{204}{}{Yeah, I work for the Salvatores.}
-{205}{}{Before I answer any questions, I've got a few of my own.}
-{210}{}{I don't have time for this bullshit. Guards! Kill this mutie!}
+{203}{}{E allora?}
+{204}{}{Si', lavoro per i Salvatore.}
+{205}{}{Prima di rispondere a qualsiasi domanda, ne ho anch'io alcune.}
+{210}{}{Non ho tempo per queste stronzate. Guardie! Ammazzate questo mutante!}
 {220}{}{Quindi stai dicendo di essere solo un topo randagio della Landa capitato per caso in uno dei nostri vertibird?}
 {221}{}{Uh, si', piu' o meno... tranne la parte in cui sarei un topo.}
 {222}{}{Proprio cosi'.}
@@ -42,14 +42,14 @@ Guardie! Uccidete questo mutante!}
 {251}{}{Uhh... no? Aspetta, si'. Forse.}
 {252}{}{No. Giocare a nascondino nel vostro aggeggio volante e' stata tutta una mia idea. Geniale, lo so.}
 {253}{}{Si', ha pensato di addolcire lo scambio mandando me. Che affare, eh?}
-{254}{}{Before I answer any questions, I've got a few of my own.}
-{260}{}{I don't have time for this bullshit. Guards! Kill this mutie!}
+{254}{}{Prima di rispondere a qualsiasi domanda, ne ho anch'io alcune.}
+{260}{}{Non ho tempo per queste stronzate. Guardie! Ammazzate questo mutante!}
 {270}{}{Dovrebbe essere divertente, mutante? Sarai molto piu' divertente quando sarai un cadavere sanguinante. Guardie! Uccidete questo mutante!}
 {280}{}{Oh, davvero? [Ride.] Beh, perche' no? Tanto stai per morire comunque. Cosa vuoi sapere, mutante?}
 {281}{}{Ma perche' continui a darmi del mutante?}
 {282}{}{Chi diavolo siete voi?}
-{283}{}{Where am I? }
-{284}{}{How can I get some of that sweet armor?}
+{283}{}{Dove sono? }
+{284}{}{Come posso procurarmi quella bella armatura?}
 {285}{}{Ho sentito abbastanza.}
 {290}{}{Perche' LO SEI. Certo, potresti sembrare quasi umano, ma non lasciarti ingannare. Sei comunque un mutante. 
 Tu e tutti gli altri sulla terraferma. Tutti contaminati. Prossima domanda?}

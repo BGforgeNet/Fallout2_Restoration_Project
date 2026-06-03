@@ -15,8 +15,8 @@
 {131}{}{Aivedecci!}
 {132}{}{Io sono Chad. }
 {133}{}{Guarda, sono molto occupato. Per favore, va' a disturbare qualcun altro.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days, I'm focusing primarily on Gecko.}
-{135}{}{D'okay!}
+{134}{}{Sono il capo carovaniere della città. Gestisco gli affari all’altro capo delle rotte commerciali. Ultimamente mi sto occupando soprattutto di Gecko.}
+{135}{}{D'accordo!}
 {136}{}{Vorrei lavorare con te.}
 {137}{}{Sembra eccitante.}
 {138}{}{Sembra noioso.}
@@ -26,7 +26,7 @@
 {142}{}{Ho delle altre domande.}
 {143}{}{Addio.}
 {144}{}{Ad esempio?}
-{145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
+{145}{}{Sospetta che tu stia trattenendo parte del denaro destinato a Broken Hills.}
 {146}{}{Non proprio. Arrivederci.}
 {147}{}{Senti, non so niente di questo, e di certo non mi piace quando la gente mi accusa di cose. Ora ti suggerisco di andartene.}
 {150}{}{Scopriro' la verita'. Arrivederci.}
@@ -52,13 +52,13 @@
 {175}{}{Non lasciare che i bastardi ti colgano di sorpresa.}
 {200}{}{Non so di cosa stai parlando. Ti suggerisco di lasciar perdere questa faccenda prima di iniziare a far incazzare la gente. Ora vattene.}
 {201}{}{Ho un'idea migliore. Che ne dici se ti picchio a morte invece.}
-{202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
-{203}{}{Fine, goodbye.}
+{202}{}{Risposta sbagliata. Hai scelto la persona sbagliata con cui scherzare.}
+{203}{}{D’accordo. Addio.}
 {204}{}{Ah accidenti, sapevo che non sarebbe durato per sempre. [Si guarda intorno e abbassa la voce.] Va bene, ascolta. Tieni la bocca chiusa su questa faccenda. Ecco $1000 per tenerti zitto. [Ti da' i soldi.] Ora, se mi scusi, devo andare.}
 {205}{}{[FATTO]}
-{206}{}{Help! We have a thief on our hands here.}
+{206}{}{Aiuto! Abbiamo un ladro qui!}
 {207}{}{}
-{208}{}{What the!? Who the hell are you?}
+{208}{}{Che diavolo!? Chi sei tu?}
 {209}{}{Io? Ehm, sono la fatina dei denti. Sono venuto a portarti grandi ricchezze.}
 {210}{}{Si' e io sono Babbo Natale. Ora chi cazzo sei e perche' sei in casa mia?}
 {211}{}{Davvero? Ho incontrato un tizio a New Reno che sostiene anche lui di essere Babbo Natale.}
@@ -76,7 +76,7 @@
 {219}{}{Sono qui per l'ultima prova nel caso del furto dalla carovana.}
 {220}{}{Oh davvero?... Pensavo di riconoscerti.}
 {221}{}{Va bene, va bene. Ammetto tutto. Non voglio morire per questo. Di' a Marcus che verra' pacificamente.}
-{222}{}{Alright, don't move. I'll go get Marcus.}
+{222}{}{D’accordo, non muoverti. Vado a chiamare Marcus.}
 {300}{}{Permetti a Chad di lasciare la citta'.}
 {400}{}{Lasciami in pace.}
 {2040}{}{Ah accidenti sapevo che non sarebbe durato per sempre. (Si guarda intorno e abbassa la voce.) Va bene ascolta. Tieni la

@@ -51,13 +51,6 @@ import variable becky_guard_obj;
    prepended by LVAR_ */
 #define LVAR_Flags                        (4)
 
-#define set_becky_guard                                                                                                    \
-         if (becky_guard_obj == 0) then begin                                                                              \
-            becky_guard_obj := self_obj;                                                                                   \
-         end else if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(becky_guard_obj, dude_obj)) then begin   \
-            becky_guard_obj := self_obj;                                                                                   \
-         end
-
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */

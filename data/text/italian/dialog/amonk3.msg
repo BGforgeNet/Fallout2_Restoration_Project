@@ -1,14 +1,14 @@
-{100}{}{You see a monk.}
-{101}{}{You see a nun.}
-{102}{}{This monk looks like he knows a thing or two about computers.}
+{100}{}{Vedi un monaco.}
+{101}{}{Vedi una suora.}
+{102}{}{Questo monaco sembra saperne qualcosa di computer.}
 {103}{}{Questa suora sembra sapere qualcosa di computer.}
-{200}{}{Don't break anything.}
-{201}{}{Sorry, I'm rather busy at the moment.}
-{202}{}{Greetings.}
-{203}{}{Feel free to look around.}
+{200}{}{Non rompere nulla.}
+{201}{}{Scusa, sono piuttosto occupato al momento.}
+{202}{}{Salve.}
+{203}{}{Sentiti libero di guardarti intorno.}
 {204}{}{Copiamo la conoscenza per le generazioni future.}
-{205}{}{These old books are very fragile.}
+{205}{}{Questi vecchi libri sono molto fragili.}
 {206}{}{Copiare libri e' un lavoro piuttosto duro.}
 {207}{}{Salve.}
-{208}{}{There's much to copy down from these books.}
+{208}{}{C'e' molto da copiare da questi libri.}
 {500}{}{Smettila!}

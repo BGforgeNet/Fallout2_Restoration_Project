@@ -80,7 +80,7 @@
 {168}{}{In this game, Redding is the greased brahmin - and a golden one at that. New Reno, the New
  California Republic, and Vault City are all trying to catch us... or at least keep the others from
  catching us.}
-{169}{}{What do you mean?}
+{169}{}{Ý cậu là sao?}
 {170}{}{That's nice. Well, I better be going, Madame. Thanks for the insight. Goodbye.}
 {171}{}{Here in Redding we mine gold. Then we ship it to New Reno, the NCR, and Vault City in return for
  goods. Each of those places would like to have the gold - and the trade - all to themselves.}
@@ -88,7 +88,7 @@
 {173}{}{Who wouldn't? I think I'll try to find some of that gold myself. Thanks, and goodbye.}
 {174}{}{We're big enough, and far enough away, to make a take-over expensive as well as dangerous. Much
  more efficient to have us join willingly.}
-{175}{}{What do you mean?}
+{175}{}{Ý cậu là sao?}
 {176}{}{That makes sense. Thanks for clueing me in. Goodbye.}
 {177}{}{The three powers are trying to get Redding to choose which side to ally themselves with. They've
  all got powerful allies in town, and it looks like things are coming to a head. Soon, Redding's going to

@@ -4,7 +4,7 @@
 {200}{}{Adesso non posso parlare. Va' da Quincy.}
 {201}{}{Quincy e' il capo, qui. Va' da lui.}
 {202}{}{Sono solo un aiuto meccanico. Dovresti parlare con Quincy.}
-{300}{}{Sei senza uniforme. }
+{300}{}{Sei senza uniforme.}
 {301}{}{Faresti meglio ad andare a vestirti, soldato.}
 {302}{}{Stai prendendo un grosso rischio a girare senza armatura. Faresti meglio a presentarti all'armeria.}
 {400}{}{Chi diavolo...? Allarme! Intrusi!}

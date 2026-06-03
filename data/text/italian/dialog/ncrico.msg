@@ -16,8 +16,8 @@
 {205}{}{::Sorride senza denti::}
 {206}{}{::Si gratta::}
 {207}{}{::Gonfia i muscoli::}
-{208}{}{Grunt.}
-{209}{}{Grunt - Grunt.}
+{208}{}{Grugnito.}
+{209}{}{Grrr - Grrr.}
 {210}{}{Me no piace parlare.}
 {211}{}{Tu odorare buono...}
 {212}{}{Tu odorare come mamma.}

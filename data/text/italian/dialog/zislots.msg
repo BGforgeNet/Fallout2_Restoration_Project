@@ -3,7 +3,7 @@
 {102}{}{Vedi una scintillante slot machine. }
 {103}{}{Vedi una luccicante slot machine. }
 {130}{}{Ha tre occhi e un braccio.}
-{140}{}{La puntata minima e' }
+{140}{}{La puntata minima e' $}
 {141}{}{.}
 {150}{}{Giureresti di averla beccata, con la coda dell'occhio, che ti stava guardando. }
 {151}{}{La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci. }
@@ -12,9 +12,9 @@
 {200}{}{(La tua mano trema mentre cerchi le monete. La slot machine continua a sussurrarti.) *Vieni, zucchero...ecco...vieni adesso...non scherzare...*}
 {201}{}{Vedi una slot machine. La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione.}
 {202}{}{(La tua mano trema mentre cerchi le monete. La slot machine continua a sussurrarti.) *Vieni, dolcezza...ecco...impugna il manico...impugnalo saldamente...vieni adesso...*}
-{250}{}{Inserisci }
+{250}{}{Inserisci $}
 {251}{}{. }
-{252}{}{Gioca gli ultimi }
+{252}{}{Gioca gli ultimi $}
 {253}{}{.}
 {254}{}{Smetti di giocare.}
 {255}{}{Sei al verde. Sei costretto a smettere di giocare.}
@@ -31,7 +31,7 @@
 {604}{}{JACKPOT! }
 {605}{}{DOPPIO JACKPOT!!! }
 {613}{}{. }
-{700}{}{La vincita ammonta a }
+{700}{}{La vincita ammonta a $}
 {701}{}{.}
 {1001}{}{ciliegia}
 {1002}{}{arancia}
@@ -55,8 +55,8 @@
 {2005}{}{*Bing*}
 {2006}{}{*Kaaa-ching*}
 {2007}{}{*Zzzzzzz*}
-{2008}{}{*Ring-a-ling*}
-{2009}{}{*Dingity-ding*}
+{2008}{}{*Driin-dir*}
+{2009}{}{Ding dong ding}
 {2010}{}{*Ehila', bellezza. Vieni a giocare con me.*}
 {2011}{}{*Ehila', bellezza.*}
 {2012}{}{*Sei proprio una cosettina carina. Perche' non vieni a giocare con me?*}
@@ -117,7 +117,7 @@
 {2305}{}{::Respiri profondamente, te ne vai.:: (Vai via.)}
 {2320}{}{*Sono il tuo uomo ideale.* (La slot machine ti fa l'occhiolino.) *Dammi un po' di monete, e ti faro' provare piacere in modi che nessun uomo ha MAI usato prima.*}
 {2321}{}{*Sono la tua donna ideale, zucchero. Tutto cio' che voglio e' un po' di attenzione. Puoi aiutarmi? Dai, solo una moneta o due?*}
-{2322}{}{Nooon posssciamo sholo ppa..rlaree?}
+{2322}{}{Non possiamo… parla' un attimo}
 {2340}{}{*Certo che possiamo, dolcezza, certo che possiamo.* (La slot machine sembra comprensiva.) *Cosa turba la tua piccola dolce testolina?*}
 {2341}{}{*Certo che possiamo, zucchero, certo che possiamo.* (La slot machine sembra comprensiva.) *Che cosa ti turba, splendore?*}
 {2342}{}{Me manca MAMMA e manca ARROYO e me......no trova GECK e...*sniff*}
@@ -126,7 +126,7 @@
 {2345}{}{Ho fiiinito il sgioco... e ora shto sholo vagabondando e... ho paura shia tutto ffinito e... *sniff*}
 {2346}{}{E' che Fhallowt dueee non s'porta la mia sshcheda 3DFxxxxx e ho shpeso coshi' tanti *shooldi* per comprarla e *sniff*}
 {2347}{}{Ho provato a creare un bbuon pe...personaggio ma... penso di aver shbajato *completamente* la dishtribusshione dei punti... e ora ho un pershonaggio di meeerda... e......*sniff*}
-{2348}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh.}
+{2348}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh}
 {2370}{}{*Su, su... non pensarci piu'... lascia fare tutto a me. Dai, appoggia la tua testa su di me. Ecco. Sfogati pure.*}
 {2371}{}{*Su, su... non pensarci piu', zucchero... lascia fare tutto a me. Dai, appoggia la tua splendida testa su di me. Ecco. Sfogati pure.*}
 {2372}{}{Grascie, shlot mashiiin *sniff* sei la migliore}

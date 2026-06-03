@@ -60,8 +60,8 @@
 {159}{}{Mi hanno detto che lo Sceriffo ha trovato qualcuno a cui far fare il lavoro sporco al suo posto.}
 {160}{}{Non e' successo molto ultimamente. Solo il solito scavare, le carovane e robe cosi'.}
 {161}{}{Si', beh, quel pivello sono io. C'e' qualche problema?}
-{162}{}{Qualcuno dovra' pur mantenere l'ordine in questa pulciosa citta'. }
-{163}{}{Lascia che ti chieda qualcosa. }
+{162}{}{Qualcuno dovra' pur mantenere l'ordine in questa pulciosa citta'.}
+{163}{}{Lascia che ti chieda qualcosa.}
 {164}{}{Volevo solo controllare. Grazie lo stesso. Ci vediamo.}
 {165}{}{No, nessun problema. Lo sai che ti stai immischiando in affari politici, vero?}
 {166}{}{Che cosa vuoi dire?}
@@ -72,6 +72,6 @@
 {171}{}{Beh, se la miniera alla quale darai il chip dovesse essere la Kokoweef, sta' sicuro che in giro si vedranno un sacco di luridi NCR. Se darai il chip a Dan McGrew, giu' alla Morningstar, allora vedremo scorrere in citta' fiumi di Jet. In entrambi i casi, qualcuno vince e qualcuno perde.}
 {172}{}{Se non lo facessi io, lo farebbe qualcun altro. Parliamo di qualcos'altro.}
 {173}{}{Cosi' va il mondo, no? Ci vediamo.}
-{174}{}{Almeno finche' non riguarda me, amico. Almeno finche' non riguarda me. }
-{175}{}{Lascia che ti chieda qualcosa. }
+{174}{}{Almeno finche' non riguarda me, amico. Almeno finche' non riguarda me.}
+{175}{}{Lascia che ti chieda qualcosa.}
 {176}{}{Controllavo solo. Ci vediamo.}

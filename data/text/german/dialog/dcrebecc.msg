@@ -199,3 +199,8 @@
 {573}{}{Ich wäre nicht überrascht.}
 {580}{}{Also bist du auch noch ein Feigling? Eigentlich klar.}
 {581}{}{...}
+{1230}{}{Geh sofort da weg.}
+{1231}{}{Fass das nicht noch einmal an.}
+{1232}{}{Zurück!}
+{1233}{}{Lass das sein.}
+{1234}{}{Was glaubst du denn, was du da machst?}

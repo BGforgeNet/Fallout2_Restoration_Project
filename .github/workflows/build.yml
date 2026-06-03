@@ -5,8 +5,8 @@ on:
   pull_request:
 
 env:
-  sfall_version: 4.4.9.1
-  mpack_version: 4.4.9
+  sfall_version: 4.5
+  mpack_version: 4.5
 
 jobs:
   build:
@@ -25,7 +25,6 @@ jobs:
           scripts_lst: data/scripts/scripts.lst
           scripts_dir: scripts_src
           dialog_dir: data/text/english/dialog
-          worldmap_path: false
 
       - name: Install wine
         uses: devopsx/gha-ubuntu-i386-fix@master

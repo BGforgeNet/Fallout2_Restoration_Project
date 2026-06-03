@@ -29,7 +29,7 @@
 {175}{}{La tua tribu' ha smesso di mangiare le persone?}
 {176}{}{Chi ti ha vestito in un modo cosi' buffo?}
 {177}{}{Scommetto che sei piu' buono di quanto sembra.}
-{178}{}{Giochiamo a prenderci! Ce l'hai tu!}
+{178}{}{Giochiamo a ce l’hai! Ce l’hai tu.}
 {179}{}{Non puzzi cosi' tanto.}
 {180}{}{Hai visto il mio amico invisibile?}
 {181}{}{Quando saro' vecchio come te, voglio viaggiare per il mondo.}

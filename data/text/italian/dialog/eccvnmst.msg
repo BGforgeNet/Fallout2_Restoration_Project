@@ -38,7 +38,7 @@
 {137}{}{Addio.}
 {138}{}{Ug.}
 {139}{}{Molto… carino da parte tua. Buona giornata. }
-{150}{}{medicine.}
+{150}{}{medicinale.}
 {151}{}{oro.}
 {152}{}{uranio.}
 {153}{}{prodotti agricoli.}

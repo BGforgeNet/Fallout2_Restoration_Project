@@ -4,14 +4,14 @@
 {151}{}{Vedi la signora Bishop. Sembra distratta e ha lo sguardo perso nel vuoto.}
 {200}{}{(La donna gira il volto verso di te. E' molto attraente, con un corto completo di pelle di gecko dorato. Ti osserva per un momento, poi corruga la fronte.) Si', cosa c'e'?}
 {201}{}{(Aggrotta leggermente le sopracciglia.) Si'? E adesso cosa c'e'?}
-{203}{}{Knock-knock}
+{203}{}{Toc-toc}
 {204}{}{(Fissa il suo seno e sbava.)}
 {205}{}{-Allontanati-}
 {206}{}{Chi sei?}
 {207}{}{Vorrei farle qualche domanda, signora Bishop.}
 {208}{}{Mi scusi, credevo fosse qualcun altro. Addio.}
 {210}{}{*Cosa?*}
-{211}{}{Knock-KNOCK!}
+{211}{}{Toc-TOC!}
 {212}{}{(Fissa il suo seno e sbava.)}
 {215}{}{(Ti fa l'occhiolino.) Chi c'e'?}
 {216}{}{Bu'}
@@ -38,13 +38,13 @@
 {253}{}{Il mio nome e' }
 {254}{}{Sono un semplice viandante.}
 {255}{}{Sono un viandante in cerca del Vault 13. Ne ha mai sentito parlare?}
-{256}{}{Sono un viandante... sa dove potrei trovare un qualcosa chiamato "Kit di Creazione del Giardino dell'Eden"?}
+{256}{}{Sono un viandante... sa dove potrei trovare un qualcosa chiamato "Kit di Creazione del Giardino dell'Eden?"}
 {257}{}{Senta, forse farei meglio ad andare. Addio.}
 {260}{}{Si'?}
 {261}{}{Puo' dirmi qualcosa a proposito del signor Bishop?}
 {262}{}{Puo' dirmi qualcosa a proposito della famiglia Bishop?}
 {263}{}{Ha mai sentito parlare di un posto chiamato Vault 13?}
-{264}{}{Sa dove potrei trovare un qualcosa chiamato "Kit di Creazione del Giardino dell'Eden"?}
+{264}{}{Sa dove potrei trovare un qualcosa chiamato "Kit di Creazione del Giardino dell'Eden?"}
 {265}{}{Non importa. Sara' meglio che vada.}
 {270}{}{Mio marito? E' semplice. E' morto. CHE tragedia. Sto ancora cercando di riprendermi da tutto lo champagne che ho bevuto quando l'ho saputo.}
 {271}{}{Mio marito? E' il capo della famiglia Bishop. In ambito diplomatico, affaristico e criminale, possiede una certa astuzia animale che una persona non puo' che ammirare, anche se disprezza le sue altre qualita'.}
@@ -52,7 +52,7 @@
 {273}{}{Altre qualita'?}
 {275}{}{Mi scuso per averglielo chiesto. Faro' meglio ad andare.}
 {276}{}{Mi dispiace, signora Bishop. Non era mia intenzione essere indiscreto. Me ne andro'.}
-{280}{}{(Aggrotta le sopracciglia.) Lascio a te il compito di immaginarle. (Sembra infastidita.) E' *tutto*?}
+{280}{}{(Aggrotta le sopracciglia.) Lascio a te il compito di immaginarle. (Sembra infastidita.) E' *tutto?*}
 {281}{}{Veramente avrei delle altre domande...}
 {285}{}{Non c'e' molto da dire a proposito della "Famiglia" Bishop. Ah... ci sono i parenti "acquisiti": banditi prezzolati, mercenari, puttane, spacciatori e schiavi, ma la "famiglia" Bishop non conta altri membri.}
 {286}{}{Sembra che il vostro matrimonio non sia cosi' felice come dovrebbe essere.}
@@ -66,7 +66,7 @@
 {300}{}{Sua figlia Angela?}
 {301}{}{Avrei delle altre domande...}
 {305}{}{Si', la stessa Angela con la quale tu hai *dormito*. Sicuramente te lo ricordi, no? (Ti rivolge uno sguardo raggelante.) *Spero* tu abbia usato un profilattico. I suoi ormoni sono cosi' fuori controllo che il solo pronunciare la parola "sperma" la metterebbe incinta.}
-{306}{}{Si', mia figlia Angela. E diventata quasi una piccola vagabonda. (sorride mestamente) Tale madre, tale figlia... (singhiozza di rabbia.) Ora... e' *tutto*?}
+{306}{}{Sì, mia figlia, Angela. E' diventata proprio una piccola sbandata. (Sorride amaramente.) Tale madre, tale figlia… (Sospira, irritato.) Ora, e' *tutto?*}
 {308}{}{Er, prof... prof-i-ter...? Eh, beh, credo che ne abbiamo usato uno... qualunque cosa sia. Sa una cosa? Credo che andro' subito a controllare.}
 {309}{}{Cioe', un goldone? Certo che l'abbiamo usato. Credo. Voglio dire, sono abbastanza sicuro. Forse farei meglio ad andare subito a controllare.}
 {315}{}{"}
@@ -137,7 +137,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {441}{}{Okay, allora. Solo un drink.}
 {443}{}{Mi dispiace, ma non posso, signora Bishop. Devo proprio andare.}
 {445}{}{Ah, si'... il tentativo ben congegnato da mio marito di costringere gli altri ad accettare il suo gesto d'amicizia. Avrei preferito che quei predoni venissero inceneriti dai cannoni laser di Vault City.}
-{446}{}{"Gesto d'amicizia"?}
+{446}{}{"Un gesto di buona volonta'?"}
 {447}{}{Capisco. Avrei delle altre domande...}
 {448}{}{Interessante... beh, grazie delle informazioni. Arrivederci.}
 {449}{}{Hmmm... Interessante. Grazie per il suo tempo, signora Bishop.}
@@ -154,7 +154,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {473}{}{Uh, grazie dell'avvertimento. Avrei delle altre domande... piu' prudenti...}
 {474}{}{Lo faro'. Arrivederci.}
 {475}{}{La ringrazio per il suo tempo... e per il suo consiglio, signora Bishop.}
-{480}{}{*Sigh*}
+{480}{}{*Sospiro*}
 {481}{}{Un'altra SPLENDIDA giornata a Reno. Il diavolo stara' facendo baldoria.}
 {482}{}{A giudicare dalla folla al casino', sembra proprio che altri rifiuti umani di fogna siano traboccati a Reno...}
 {483}{}{Reno... "la piu' grande piccola fogna nel mondo". Hmmmph.}
@@ -163,7 +163,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {500}{}{Vedi la signora Bishop. E' difficile riuscire a concentrarsi sul suo aspetto mentre sta chiamando le guardie.}
 {510}{}{Mmmmm...oh, }
 {511}{}{Mmmzrrmnmn... ancora, }
-{512}{}{Combinazzzz... cassaforzzz...}
+{512}{}{Combinazzzz... cassaforzzz... }
 {515}{}{Un intruso! Aiuto!}
 {516}{}{Al ladro! Al ladro!}
 {517}{}{Un intruso! Guardie! Guardie!}
@@ -172,8 +172,8 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {522}{}{Nuh-uh}
 {525}{}{Hmmmm. Molto bene. Allora rimani pure steso sul letto e io faro' il resto.}
 {526}{}{Me rifiuta me no VUOLE fare me vuole tornare a CASA a Arroyo-yo}
-{527}{}{-Fa' quello che ti dice-}
-{530}{}{(Prende un grande respiro, poi comincia a gridare cosi' forte che ti fanno male le orecchie! Grida qualcosa tipo 'garze' e 'quadro', ma non riesci a capire bene, perche' sta gridando molto forte.) }
+{527}{}{Fa' quello che ti dice.}
+{530}{}{(Prende un grande respiro, poi comincia a gridare cosi' forte che ti fanno male le orecchie! Grida qualcosa tipo 'garze' e 'quadro', ma non riesci a capire bene, perche' sta gridando molto forte.)}
 {531}{}{Shhhh! Se tu no stare tranquilla, George no fare giocare me con conigli! Shhhh!}
 {532}{}{Cosa avere tuo quadro? A cosa te servire garze?}
 {533}{}{No urlare! No urlare!}
@@ -188,7 +188,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {543}{}{Devo andare.}
 {545}{}{(Ti unisci alla signora Bishop per un drink nelle sue stanze. Voi due parlate per un po', poi lei si avvicina e comincia ad accarezzarti.)}
 {546}{}{[Fatelo.]}
-{547}{}{-Abbracciala...-}
+{547}{}{Abbracciala...}
 {548}{}{Uh, signora Bishop, sono andato a letto con sua figlia. Forse non dovremmo...}
 {549}{}{Prima di "farlo", non e' che aprirebbe la cassaforte a muro come ha fatto sua figl... ehm, com'e' tradizione?}
 {550}{}{Senta, devo proprio andare, signora Bishop.}
@@ -215,12 +215,12 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {586}{}{Fiuuu.}
 {590}{}{(Fate all'amore. Non e' il migliore. Non e' il piu' bello. Ma, per un breve momento delle vostre turbolente vite, tu e la signora Bishop dimenticate le crudelta' del mondo e vi perdete l'uno nell'altra e viceversa...) }
 {591}{}{(Cominciate impetuosamente a fare all'amore. Alla fine della vostra maratona sessuale, la signora Bishop ti abbraccia, sorridendo soddisfatta.) Mmmmm, }
-{592}{}{Sei un vero *uomo*. (Trema.) Quel tuo giochetto con la lingua e' stato -- }
-{593}{}{Sei una vera *donna*. (Trema.) Quel tuo giochetto con la lingua e' stato -- }
+{592}{}{Sei un vero *uomo*. (Trema.) Quel tuo giochetto con la lingua e' stato --}
+{593}{}{Sei una vera *donna*. (Trema.) Quel tuo giochetto con la lingua e' stato --}
 {594}{}{Allora... cosa vuoi fare adesso?}
 {595}{}{Mmmmm, Leslie.}
 {596}{}{Uh, senti, nel CASO in cui, proprio in questo momento, qualcuno ci stesse guardando dall'alto e sentisse tutto quello che facciamo e diciamo, cerchiamo di tenere certi segreti solo per noi. Piuttosto, abbandoniamoci a un po' di rilassanti chiacchiere da letto.}
-{600}{}{(La signora Bishop sospira soddisfatta e si stiracchia.) }
+{600}{}{(La signora Bishop sospira soddisfatta e si stiracchia.)}
 {601}{}{Parlami di tuo marito.}
 {602}{}{Parlami di tua figlia.}
 {603}{}{Parlami della tua famiglia.}
@@ -300,7 +300,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {771}{}{Scivola silenziosamente fuori dal letto e vestiti.}
 {780}{}{L'unico "amore" che c'e' tra noi consiste in lui che, entrato con la forza nella mia stanza da letto, mi monta come un brahmin ubriaco. E questa e' forse la sua qualita' meno spregevole, considerate le altre.}
 {781}{}{Le altre?}
-{790}{}{Probabilmente vuole anche che ci sia qualcuno a controllare il mercato della droga nella Repubblica della Nuova California... lui stesso. Sta cercando di truccare le elezioni, giu' a suuuud... *yawn* }
+{790}{}{Probabilmente vuole anche che ci sia qualcuno a controllare il mercato della droga nella Repubblica della Nuova California... lui stesso. Sta cercando di truccare le elezioni, giu' a suuuud... *yawn*}
 {791}{}{Quindi, in realta', sta cercando di far diventare Reno un MEMBRO della Repubblica... hmmmm. Okay, allora, parliamo di qualcos'altro...}
 {792}{}{Interessante. Vorrei sapere delle altre cose a proposito dei piani di John...}
 {800}{}{Le droghe sono illegali a Vault City, naturalmente. Gli altri Cittadini mi scoprirono e mi tolsero la Cittadinanza. John era l'unico al quale potessi rivolgermi... lo sapeva, naturalmente. Aveva progettato tutto.}

@@ -1,2 +1,2 @@
 {100}{}{Entri nel lato ovest del villaggio. Tribali con canne da pesca si aggirano.}
-{101}{}{You enter a small cave. You hear a commotion further in the cave.}
+{101}{}{Entri in una piccola grotta. Senti dei rumori più avanti.}

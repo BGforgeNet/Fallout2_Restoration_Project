@@ -14,7 +14,7 @@
 {143}{}{...il Cat's Paw!}
 {144}{}{Quando avete dei pruriti che DOVETE farvi passare...}
 {145}{}{Andate al Cat's Paw!}
-{163}{}{...New Reno Arms!}
+{163}{}{......La nuova armeria di New Reno!}
 {164}{}{Quando avete bisogno di uccidere qualcuno da una distanza di sicurezza...}
 {165}{}{Venite al New Reno Arms!}
 {200}{}{E il vincitoooooreeeee e'...}

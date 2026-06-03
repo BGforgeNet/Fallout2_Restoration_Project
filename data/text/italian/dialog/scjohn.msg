@@ -1,5 +1,5 @@
 {100}{}{Vedi un abusivo.}
-{101}{}{Vedi John, l'abusivo.}
+{101}{}{Vedi John, l'abusivo}
 {102}{}{Vedi un uomo di mezz'eta' che indossa dei vestiti consunti.}
 {103}{}{Scusa, straniero. Non ho tempo per chiacchierare con te.}
 {104}{}{Perche' no parlare?}

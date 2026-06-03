@@ -55,7 +55,7 @@
 {2800}{}{Mitra Laser}
 {2801}{}{Un mitragliatore laser H&K L30. Progettata per uso militare, tale arma era un prototipo all'inizio della Guerra. Le canne multiple consentono un volume di fuoco maggiore prima del surriscaldamento. Alimentato da Celle a Micro-Fusione. Min FZ: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Munizioni. Calibro: 10mm, camiciate a punta cava}
+{2901}{}{Munizioni. Calibro: 10mm, camiciate a punta cava.}
 {3000}{}{10mm AP}
 {3001}{}{Munizioni. Calibro: 10mm, perfora armature.}
 {3100}{}{.44 Magnum JHP}
@@ -77,7 +77,7 @@
 {3900}{}{Cella a Micro-Fusione}
 {3901}{}{Un'unita' di produzione d'energia di medie dimensioni. Centrale a fusione autonoma.}
 {4000}{}{Stimpak}
-{4001}{}{Un farmaco curativo. Quando iniettato, il farmaco assicura l'immediata guarigione di piccole ferite. }
+{4001}{}{Un farmaco curativo. Quando iniettato, il farmaco assicura l'immediata guarigione di piccole ferite.}
 {4100}{}{Soldi}
 {4101}{}{Valuta corrente nel mondo delle Lande.}
 {4200}{}{Frigo}
@@ -97,16 +97,16 @@
 {4900}{}{Antidoto}
 {4901}{}{Una bottiglia contenente un antidoto fatto in casa. Un liquido latteo con pezzi di radscorpione in sospensione.}
 {5000}{}{Reserved Item}
-{5001}{}{This is a reserved item. DO NOT USE.}
+{5001}{}{Questo e' un elemento riservato. NON USARE.}
 {5100}{}{Dinamite}
 {5101}{}{Un potente esplosivo, a base di nitroglicerina mischiata con del kieselgur, una sostanza assorbente. E' provvista di un timer.}
 {5200}{}{Contatore Geiger}
 {5201}{}{Un contatore Geiger Wattz Electronics modello C-Radz. Rileva la presenza e l'intensita' di campi di radioattivita'.}
 {5300}{}{Mentat}
 {5301}{}{Una confezione di droghe alteranti la mente. Aumenta le funzioni legate alla memoria, e velocizza gli altri processi mentali. Alto rischio di dipendenza.}
-{5400}{}{Stealth Boy}
+{5400}{}{Mimetizzatore}
 {5401}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
-{5500}{}{Chip di depurazione dell'acqua.}
+{5500}{}{Chip di depurazione dell'acqua}
 {5501}{}{Questo e' un Water Chip della Vault-Tec. Di solito ogni scatola ne contiene cinque.}
 {5600}{}{Targhette Militari}
 {5601}{}{Targhette militari. Il nome Dickinson e la parola Enclave sono a malapena leggibili.}
@@ -226,11 +226,11 @@
 {11301}{}{Vesti consunte.}
 {11400}{}{Mano di Tangler}
 {11401}{}{Un manipolatore cybernetico, dall'aspetto e dalla forma di una mano. Danneggiata a causa della natura maldestra del processo di rimozione.}
-{11500}{}{Super Sledge}
+{11500}{}{Super martello}
 {11501}{}{Un Super Martello da Guerra, costruito dalla Confraternita d'Acciaio, utilizzando le migliori tecniche di costruzione disponibili. Include un dispositivo di stoccaggio di energia cinetica, per aumentare la violenza del colpo. Min FZ: 5.}
-{11600}{}{Ripper}
+{11600}{}{Sventratore}
 {11601}{}{Una lama a vibrazione modello "Ripper"(tm). Alimentata da una piccola cella a energia, questa specie di motosega taglia e macella il suo bersaglio. Min FZ: 4.}
-{11700}{}{Flower}
+{11700}{}{Fiore}
 {11701}{}{Uno splendido fiore.}
 {11800}{}{Fucile Laser}
 {11801}{}{Un fucile laser Wattz 2000. Utilizza celle a Micro-Fusione per colpi piu' potenti, e una lunga canna per una gittata maggiore. Min FZ: 6.}
@@ -408,7 +408,7 @@
 {20801}{}{Un sensore di movimento Wattz Electronics modello C-U. Rileva il movimento di materiale biologico su una distanza espressa in metri usando un dispositivo radar appostiamente tarato. E' acceso.}
 {20900}{}{Esplosivo al Plastico}
 {20901}{}{Un pezzo di Cordex, una marca militare di esplosivi al plastico. Altamente stabile, molto distruttivo. E' provvisto di un timer, che sta ticchettando.}
-{21000}{}{Stealth Boy}
+{21000}{}{Mimetizzatore}
 {21001}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
 {21100}{}{Ossa}
 {21101}{}{Vedi Ed. Ed e' morto.}
@@ -495,7 +495,7 @@
 {25300}{}{Combinatore Celle di Carburante}
 {25301}{}{Questo chip combina il flusso di energia che entra nel motore elettrico di un'automobile. Molti guidatori hanno bruciato velocemente questo chip effettuando frequenti, rapide accelerazioni. E' a tutt'oggi un oggetto prezioso da possedere -- se solo tu avessi una macchina dove installarlo.}
 {25400}{}{Regolatore Celle di Carburante}
-{25401}{}{Alcuni proprietari d'auto installarono questo regolatore, che raddoppia i km/litro tra un rifornimento e l'altro; a molti guidatori, pero', non interessava quanta benzina consumasse la loro macchina, dato che, in fondo, "la benzina e' economica e abbondante, perche' preoccuparsene?".}
+{25401}{}{Alcuni proprietari d'auto installarono questo regolatore, che raddoppia i km/litro tra un rifornimento e l'altro; a molti guidatori, pero', non interessava quanta benzina consumasse la loro macchina, dato che, in fondo, la benzina e' economica e abbondante, perche' preoccuparsene?}
 {25500}{}{Pass Giornaliero}
 {25501}{}{Questo foglietto spiegazzato ti garantisce l'accesso a tutte le zone di Vault City, tranne il Vault stesso, solo per le ore diurne.}
 {25600}{}{Falsi Documenti di Cittadinanza}
@@ -532,7 +532,7 @@
 {27101}{}{L'abbondante fiore usato come base nella creazione della polvere curativa.}
 {27200}{}{Radice di Xander}
 {27201}{}{La rara radice che dona proprieta' di guarigione alla polvere curativa.}
-{27300}{}{Healing Powder}
+{27300}{}{Polvere curativa}
 {27301}{}{Una sostanza magica curativa molto potente - il suo utilizzo portera' con se' una sensazione di sonnolenza nella tua testa.}
 {27400}{}{Missile per Robot}
 {27401}{}{Usato solo da robot attrezzati con missili.}
@@ -552,7 +552,7 @@
 {28101}{}{Un piccolo vasetto contenente un occhio umano sospeso in una specie di liquido. L'etichetta dice: Caporale Dixon.}
 {28200}{}{Occhio di Clifton}
 {28201}{}{Un piccolo vasetto contenente un occhio umano sospeso in una specie di liquido. L'etichetta dice: Generale Clifton.}
-{28300}{}{Tommy Gun}
+{28300}{}{Mitragliatore}
 {28301}{}{Il mitra Thompson M1928 e' un'arma dall'aspetto sinistro; ogni volta che lo impugni, senti il bisogno di indossare un fedora e di far scrocchiare le dita. Il Thompson e' alimentato da un grosso caricatore a tamburo da 50 colpi. Min FZ: 6.}
 {28400}{}{Carne Affumicata}
 {28401}{}{Questi pezzi di carne animale affumicati ed essiccati rimangono stoppacciosi e persino nutrienti (per certi versi) per anni, e anni, e anni....}
@@ -650,7 +650,7 @@
 {33001}{}{Questo e' il luogo dove un vertibird e' precipitato. Dev'essersi schiantato molti mesi fa.}
 {33100}{}{Cat's Paw #5}
 {33101}{}{Questo e' il rarissimo Numero 5 della rivista Cat's Paw. A parte le foto, questo numero ha uno splendido articolo sulle armi a energia.}
-{33200}{}{M3A1 "Grease Gun" SMG}
+{33200}{}{Mitragliatrice M3A1}
 {33201}{}{Questa mitraglietta e' andata a riempire gli arsenali della Guardia Nazionale dopo che l'esercito l'ha sostituita con armi piu' nuove. Tuttavia, la "Grease Gun" era facile ed economica da costruire e percio' ce ne sono ancora un discreto numero in uso. Min FZ: 4.}
 {33300}{}{Pillole per il Cuore}
 {33301}{}{Queste pillole sono usate da persone con problemi cardiaci.}
@@ -691,7 +691,7 @@
 {35201}{}{Questa e' un'arma rivoluzionaria. Spara una cartuccia senza bossolo, consistente di un blocco di propellente con un proiettile affogato al suo interno. Tale risparmio di peso e spazio consente a quest'arma di avere un caricatore molto capiente. Min FZ: 5.}
 {35300}{}{XL70E3}
 {35301}{}{Ai tempi della Guerra questa era un'arma sperimentale. Costruita con polimeri ad alta resistenza, e' praticamente indistruttibile. E' leggera, veloce, accurata, e puo' essere smontata senza l'uso di attrezzi. Min FZ: 5.}
-{35400}{}{Pancor Jackhammer}
+{35400}{}{Pancor Martellone}
 {35401}{}{Il Jackhammer, nonostante il suo nome, e' un fucile a pompa facile da controllare, anche quando si spara in automatico completo. Il design bullpup, che colloca il caricatore dietro il grilletto, rende quest'arma ben bilanciata e facile da controllare. Min FZ: 5.}
 {35500}{}{Arma Leggera da Supporto}
 {35501}{}{Arma leggera da supporto tipo "squad", design bullpup. Difficile da usare quando stesi a terra. Per questo motivo e' stata inviata alle unita' della G.N. Si e' tuttavia guadagnata la fama di arma affidabile che rilascia un bel po' di potenza per la sua taglia. Min FZ: 6.}
@@ -705,7 +705,7 @@
 {35901}{}{Munizioni. Calibro: 4.7mm, senza bossolo.}
 {36000}{}{9mm}
 {36001}{}{Munizioni. Calibro: 9mm.}
-{36100}{}{Cartuccia per SparaAghi HN }
+{36100}{}{Cartuccia per SparaAghi HN}
 {36101}{}{Munizioni. Questa cartuccia sembra essere la munizione per la pistola sparaaghi. Ogni "proiettile" e' una piccola siringa ipodermica progettata per iniettare il suo contenuto nel bersaglio al momento dell'impatto.}
 {36200}{}{Cartuccia per SparaAghi HN AP}
 {36201}{}{Munizioni. Questa cartuccia sembra essere la munizione perfora armature (AP) per la pistola sparaaghi HN. Le punte delle ipodermiche sono fatte con una strana lega e sono incredibilmente appuntite.}
@@ -742,13 +742,13 @@
 {38101}{}{Armatura ad alta tecnologia, costruita con polimeri difensivi avanzati.}
 {38200}{}{Carburante per Lanciafiamme Ver.II}
 {38201}{}{Questo carburante per lanciafiamme usa una miscela super-infiammabile avanzata.}
-{38300}{}{Shiv}
+{38300}{}{Punteruolo}
 {38301}{}{Questo coltello fatto in casa e' molto pericoloso in quanto facilmente celabile. La sua presenza non puo' essere notata dagli altri. Min FZ: 1.}
 {38400}{}{Chiave Inglese}
 {38401}{}{Tipica chiave utilizzata dai meccanici. Min FZ: 3.}
 {38500}{}{Fucile a Canne Mozze}
 {38501}{}{Qualcuno ha trovato il tempo per tagliare via gli ultimi centimetri della canna e del calcio di questo fucile. Ora, l'ampio sventagliamento dei colpi di questo cannone da braccio a canne corte lo rende perfetto per il controllo a corto raggio della folla. Min FZ: 4.}
-{38600}{}{Louisville Slugger}
+{38600}{}{Mazza di Louisville}
 {38601}{}{Questa americanissima, dura, mazza da baseball fara' vedere le stelle a chiunque. Min FZ: 4.}
 {38700}{}{M60}
 {38701}{}{Questa mitragliatrice relativamente leggera era apprezzata dai militari di tutto il mondo per il suo alto ritmo di fuoco. Questo modello affidabile, testato sui campi di battaglia, era usato su veicoli e come supporto armato per operazioni di squadra. Min FZ: 7.}
@@ -803,7 +803,7 @@
 {41200}{}{Lattina d'Olio}
 {41201}{}{Vedi una lattina di Armor-Go. Un lubrificante dell'era spaziale, a polimeri, per armature potenziate.}
 {41300}{}{Tessera d'Identita' per le Stalle}
-{41301}{}{Questa e' una tessera d'identita' temporanea. E' attraversata da una striscia rossa, che sembra indicare il tuo impiego: "Ricercatore delle Stalle".}
+{41301}{}{Questa e' una tessera d'identita' temporanea. E' attraversata da una striscia rossa, che sembra indicare il tuo impiego: "Ricercatore delle Stalle."}
 {41400}{}{Chiave della Baracca del Vault 15}
 {41401}{}{Una normale chiave.}
 {41500}{}{Occhiali}
@@ -858,11 +858,11 @@
 {44000}{}{Gel Biomedico}
 {44001}{}{Un vasetto di BioGel usato in campo biomedico.}
 {44100}{}{Targhette de "il Biondo"}
-{44101}{}{Queste targhette militari hanno il nome del proprietario cancellato e il nome "il Biondo" inciso sul retro. Sotto al nome c'e' il numero "11".}
+{44101}{}{Queste targhette militari hanno il nome del proprietario cancellato e il nome "il Biondo" inciso sul retro. Sotto al nome c'e' il numero "11."}
 {44200}{}{Targhette di Sentenza}
-{44201}{}{Queste targhette militari indentificano il proprietario come "Sentenza". Sotto al nome c'e' il numero "16".}
+{44201}{}{Queste targhette militari indentificano il proprietario come "Sentenza". Sotto al nome c'e' il numero "16."}
 {44300}{}{Targhette di Tuco}
-{44301}{}{Queste targhette militari puzzolenti indentificano il proprietario come "Tuco Benedicto Pacifico Juan Maria Ramirez", seguito dal numero "27".}
+{44301}{}{Queste targhette militari puzzolenti indentificano il proprietario come "Tuco Benedicto Pacifico Juan Maria Ramirez", seguito dal numero "27."}
 {44400}{}{Mappa dei Predoni}
 {44401}{}{Questa e' una mappa spiegazzata del Nord California pre-bellico. Reno e le circostanti piste per carovane sono evidenziati in rosso, e c'e' una "X" rossa lontano ad est di Reno con la scritta "Predoni" scarabocchiata sotto.}
 {44500}{}{Stella dello Sceriffo}
@@ -873,8 +873,8 @@
 {44701}{}{Questo Olodisco contiene informazioni che svelano l'accordo segreto tra Bishop e NCR. Pare che Bishop abbia assoldato mercenari per attaccare Vault City nella speranza che Vault City si rivolgesse a NCR per aiuto militare. L'Olodisco e' solo audio e non ha testo. Vault City potrebbe esserne interessata.}
 {44800}{}{Libro Contabile}
 {44801}{}{Questo libro contabile elenca una serie di pagamenti mensili versati alla banda di mercenari da parte della Famiglia Bishop di New Reno. La portata dei pagamenti dipendeva molto dalla "pressione" esercitata su Vault City dai mercenari. Vault City potrebbe trovarlo interessante.}
-{44900}{}{Unused}
-{44901}{}{Unused}
+{44900}{}{Inutilizzato}
+{44901}{}{Inutilizzato}
 {45000}{}{Foglio Strappato 1}
 {45001}{}{Vedi un foglio di carta con delle scritte. Sembra fare parte di una specie di codice. Sfortunatamente il codice e' incompleto. Se solo tu potessi trovare tutti e tre i pezzi. Riesci a cavarci il seguente: 1. Fisica, Password KSLJ, 2. Chimica, Password TIU, 3. Biologia, Password INTL}
 {45100}{}{Foglio Strappato 2}
@@ -925,14 +925,14 @@
 {47301}{}{Vedi il tuo sesto dito. E' una piccola parte mutante di te. Per qualche ragione, senti un terribile senso di vuoto mentre guardi il tuo piccolo dito amputato.}
 {47400}{}{Margherite}
 {47401}{}{Un vaso di margherite. Non sono carine?}
-{47500}{}{Unused}
-{47501}{}{Unused}
+{47500}{}{Inutilizzato}
+{47501}{}{Inutilizzato}
 {47600}{}{Lettera dell'Illuminata}
 {47601}{}{Un resoconto indirizzato all'AHS-9 di San Francisco. E' assolutamente noioso da leggere: tabelle di aggiustamenti oppressivi, rapporti spese e altre ciarle indegne del tuo tempo.}
 {47700}{}{Olodisco di una Trasmissione}
-{47701}{}{L'etichetta dice: "Galaxy News Network".}
+{47701}{}{L'etichetta dice: "Galaxy News Network."}
 {47800}{}{Olodisco sulla Missione Sierra}
-{47801}{}{L'etichetta dice: "Stato della Missione".}
+{47801}{}{L'etichetta dice: "Stato della Missione."}
 {47900}{}{Componenti NavCom}
 {47901}{}{Questi sono parti di computer da installare all'interno di qualche macchinario. Il fatto che dicano "Poseidon Oil" e "Computer di Navigazione" ti induce a pensare che vadano installati in un Computer di Navigazione della Poseidon Oil.}
 {48000}{}{Bonus: +1 Agilita'}
@@ -999,7 +999,7 @@
 {51600}{}{Amlpificatore Medico PIPboy}
 {51601}{}{Questo amplificatore consiste di un olodisco, un cavo a microfilamenti, una fascia per la testa, e un sensore ottico che va piazzato sull'occhio sx dell'utente. Un lampo ottico trasmette un'intera enciclopedia e altre conoscenze nella memoria, aumentando permanentemente le abilita' mediche.}
 {51700}{}{"Little Jesus"}
-{51701}{}{Questa lama dall'aspetto cattivo un tempo apparteneva a Little Jesus Mordino. Ha molte tacche e tagli sulla sua superficie, ma il suo filo e' tagliente come un rasoio. Sul manico e' inciso "Little Jesus".}
+{51701}{}{Questa lama dall'aspetto cattivo un tempo apparteneva a Little Jesus Mordino. Ha molte tacche e tagli sulla sua superficie, ma il suo filo e' tagliente come un rasoio. Sul manico e' inciso "Little Jesus."}
 {51800}{}{Doppio Mitragliatore}
 {51801}{}{Usato solo da Auto-Cannone.}
 {51900}{}{Tappi di Bottiglia}
@@ -1029,17 +1029,17 @@
 {53201}{}{Questa mappa disegnata grossolanamente mostra la zona che circonda New Reno. Sembra che a nord ci sia una base militare di qualche tipo.}
 {53300}{}{Pelle del Gecko di Fuoco}
 {53301}{}{Questa e' la pelle di un gecko di fuoco, disseccata e trattata. Presenta ampie bruciature che la rendono di scarso valore.}
-{53400}{}{Bucket}
+{53400}{}{Secchio}
 {53401}{}{Un secchio di medie dimensioni usato per tirare su l'acqua da un pozzo.}
-{53500}{}{Scaly Fish}
+{53500}{}{Pesce Squamoso}
 {53501}{}{Un pesce dall'aspetto squamoso. Se cucinato, probabilmente sarebbe un pasto gustoso.}
-{53600}{}{Fish}
+{53600}{}{Pesce}
 {53601}{}{Un pesce dall'aspetto crudo. Se cucinato, probabilmente sarebbe un pasto gustoso.}
 {53700}{}{Ode al Diluvio di Fiamme}
 {53701}{}{Un romanzo ambientato dopo una devastante guerra nucleare. L'estratto descrive come, subito dopo la guerra, ci fu una violenta reazione contro la cultura del sapere avanzato e della tecnologia che aveva portato allo sviluppo delle armi nucleari. Chiunque fosse istruito, e alla fine anche chiunque sapesse leggere, rischiava di essere ucciso.}
 {53800}{}{Libro di testo}
 {53801}{}{Un vecchio libro di testo di prima della Grande Guerra. E' piuttosto tecnico e non sembra contenere informazioni utili.}
-{53900}{}{Army Technical Manual}
+{53900}{}{Manuale Tecnico dell’Esercito}
 {53901}{}{Un vecchio manuale tecnico progettato per il Corpo degli Ingegneri dell'Esercito degli Stati Uniti.}
 {54000}{}{Manuale Operativo}
 {54001}{}{Il manuale operativo del KV-75; un dispositivo crittografico tattico portatile. Usato anche da utenti non tattici per comunicazioni di alto livello nelle reti telefoniche locali a banda larga e nei terminali satellitari a banda larga.}
@@ -1049,33 +1049,33 @@
 {54201}{}{Una bottiglia fresca del miglior vino dell'Abbazia.}
 {54300}{}{Diario}
 {54301}{}{Sembra essere un diario appartenuto a una giovane ragazza. La scritta sulla copertina interna dice: "Proprieta' di Anna". La maggior parte delle pagine e' strappata o sbiadita, ma una e' ancora leggibile. "Giorno 271: Oggi mia madre mi ha dato un ciondolo d'oro. E' la cosa piu' bella che abbia mai posseduto. Non me ne separero' mai."}
-{54400}{}{Botany Holodisk}
+{54400}{}{Olodisco di Botanica}
 {54401}{}{Questo disco informativo categorizza le varie forme di vita vegetale che crescevano prima della Grande Guerra.}
-{54500}{}{Expired G.E.C.K.}
-{54501}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir. This one is well beyond is expiration date. What a waste!}
-{54600}{}{Old Coin}
+{54500}{}{G.E.C.K. Scaduto}
+{54501}{}{Il Kit di Creazione del Giardino dell’Eden. Questa unità è equipaggiamento standard di tutti i vault della Vault-Tec. Un GECK è la risorsa per ricostruire la civiltà dopo la bomba: basta aggiungere acqua e mescolare. Questo è ben oltre la data di scadenza. Che spreco!}
+{54600}{}{Moneta Antica}
 {54601}{}{Una moneta molto antica. Non sei sicuro di chi sia il volto raffigurato, ma sembra rara e potrebbe valere molti soldi.}
-{54700}{}{A watch}
+{54700}{}{Un orologio}
 {54701}{}{Un orologio antico. Questa marca ha smesso di essere prodotta molto prima della Grande Guerra.}
-{54800}{}{Pack of Cigarettes}
+{54800}{}{Pacchetto di Sigarette}
 {54801}{}{Un pacchetto di "Commies". Sul retro c'e' scritto: "Fuma un Commie per fare la tua parte per la democrazia e sentirti meglio". Piu' in basso c'e' un avviso sanitario: "Come tuo dottore, raccomando i Commies per un alito piu' fresco e un sorriso vincente". Sembra che ce ne siano circa 10 nel pacchetto.}
 {54900}{}{Maschera antigas}
 {54901}{}{La Maschera Protettiva: la tua maschera e' la tua prima linea di difesa contro gli agenti biologici. Abbine cura.}
-{55000}{}{Toaster}
+{55000}{}{Tostapane}
 {55001}{}{Un tostapane argentato appoggiato su una scrivania.}
 {55100}{}{Siringa}
 {55101}{}{Uno strumento prebellico per somministrare farmaci. E' pieno di una sostanza sconosciuta.}
-{55200}{}{Dog Food}
-{55201}{}{Several cans of dog food.}
+{55200}{}{Cibo per Cani}
+{55201}{}{Diverse scatolette di cibo per cani.}
 {55300}{}{Spray Antiparassitario}
 {55301}{}{Una bomboletta spray piena di una sostanza che uccide tutti i parassiti conosciuti.}
 {55400}{}{Armatura ambientale}
 {55401}{}{Armatura ideale contro attacchi biologici.}
 {55500}{}{Opuscolo EPA}
 {55501}{}{Un volantino distribuito all'inizio delle visite guidate.}
-{55600}{}{Drugs}
+{55600}{}{Droghe}
 {55601}{}{Una sorta di farmaci conservati da prima della guerra.}
-{55700}{}{Security Rooms Key Card}
+{55700}{}{Tessera delle Stanze di Sicurezza}
 {55701}{}{Un tesserino per sbloccare le stanze di sicurezza.}
 {55800}{}{Portaprovette}
 {55801}{}{Un supporto per contenere provette chimiche.}
@@ -1083,75 +1083,75 @@
 {55901}{}{Chiavi che permettono l'accesso al capanno di stoccaggio in superficie.}
 {56000}{}{Sostanze chimiche casuali}
 {56001}{}{PERICOLO! Sostanze chimiche sconosciute. Usare con cautela.}
-{56100}{}{Corn Seeds}
+{56100}{}{Semi di mais}
 {56101}{}{Buste di semi, usate per coltivare piante. Questi sono etichettati come semi di mais geneticamente modificati, immuni sia alle malattie che alle infestazioni di insetti.}
-{56200}{}{Plant Spray}
+{56200}{}{Spray per piante}
 {56201}{}{Una bomboletta spray piena di una sostanza che uccide vari tipi di piante.}
-{56300}{}{Trigger activated dynamite}
+{56300}{}{Dinamite con innesco}
 {56301}{}{A differenza della dinamite normale, che viene impostata con un timer, questa dinamite e' attivata da un grilletto.}
-{56400}{}{Trigger switch}
-{56401}{}{Trigger for dynamite.}
+{56400}{}{Interruttore di innesco}
+{56401}{}{Innesco per dinamite.}
 {56500}{}{Carta}
 {56501}{}{Un foglio con un codice d'accesso scarabocchiato sopra.}
-{56600}{}{Experimental Seeds}
+{56600}{}{Semi sperimentali}
 {56601}{}{Busta di semi sperimentali. Il risultato della germinazione e' sconosciuto.}
-{56700}{}{A drill}
+{56700}{}{Un trapano}
 {56701}{}{Un trapano elettrico.}
-{56800}{}{Trigger activated dynamite}
+{56800}{}{Dinamite con innesco}
 {56801}{}{A differenza della dinamite normale, che viene impostata con un timer, questa dinamite e' attivata da un grilletto. Questa e' armata e pronta per essere attivata.}
-{56900}{}{Pop Rocks}
+{56900}{}{Caramelle frizzanti}
 {56901}{}{Una busta non aperta di una gustosa caramella frizzante fatta di zucchero, lattosio (altro zucchero), sciroppo di mais (ancora piu' zucchero) e aromi. Si dice che, se mescolata con bevande come la Nuka-Cola, lo stomaco possa esplodere.}
-{57000}{}{Bottle of Shampoo}
+{57000}{}{Bottiglia di shampoo}
 {57001}{}{Una bottiglia premium di shampoo. A differenza delle altre marche principali, questo shampoo viene in una insolita bottiglia in plastica flessibile. E' stata progettata appositamente cosi', in modo che, quando la bottiglia viene spremuta, esca la giusta quantita' di shampoo — non di piu', non di meno. Basta un colpo al tappo, e sei pronto.}
-{57100}{}{K-9 Kevlar}
+{57100}{}{Kevlar per K-9}
 {57101}{}{Un vecchio set impolverato di robuste piastre in kevlar inserite in maniche di nylon nero. Pensi che debba essere della misura per un nano, finche' non noti un'etichetta all'interno che dice: Kevlar Canino. Taglia Large. Un prodotto DoggieBuddy. Made in Taiwan.}
-{57200}{}{Human Ear}
+{57200}{}{Orecchio umano}
 {57201}{}{Un orecchio di donna. Che schifo! Solo una persona mentalmente instabile rimuoverebbe un orecchio umano.}
 {57300}{}{Contenitore ERSI}
 {57301}{}{Un contenitore di Inibitori della Sindrome da Rigetto Ambientale. Applicati a esemplari che escono da un lungo periodo di ibernazione.}
-{57400}{}{Lightsaber}
+{57400}{}{Spada laser}
 {57401}{}{Un'arma antica di un'epoca piu' civilizzata. Non goffa o casuale come un blaster. Ti e' stata data da Obi-Wan-Killap. Forza min: 2}
 {57500}{}{Blaster}
 {57501}{}{Religioni strampalate e armi antiche non sono all'altezza di un buon blaster al tuo fianco, ragazzo. Forza min: 3}
-{57600}{}{Lightsaber}
+{57600}{}{Spada laser}
 {57601}{}{Un'arma antica di un'epoca piu' civilizzata. Non goffa o casuale come un blaster. Ti e' stata data dall'Imperatrice Timeslip. Forza min: 2.}
-{57700}{}{Air Processing Vent}
-{57701}{}{The grill on this vent looks different.}
-{57800}{}{Metal Locker}
+{57700}{}{Unita' di processazione dell'aria}
+{57701}{}{La griglia di questo condotto sembra diversa.}
+{57800}{}{Armadietto Metallico}
 {57801}{}{Uno stipetto dove riporre effetti personali.}
-{57900}{}{Metal Locker}
+{57900}{}{Armadietto Metallico}
 {57901}{}{Uno stipetto dove riporre effetti personali.}
 {58000}{}{Tabella di Codici Cinesi}
 {58001}{}{Non ne sei certo, ma sembra essere una tabella contenente vari codici di comando cinesi. Forse, se trovassi un posto dove inserirli, potresti imparare qualcosa.}
-{58100}{}{Dead Tribal}
+{58100}{}{Selvaggio morto}
 {58101}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58200}{}{Dead Tribal}
+{58200}{}{Selvaggio morto}
 {58201}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
 {58300}{}{Spina di Pianta}
-{58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
-{58400}{}{Dead Vault Dweller}
+{58301}{}{Un seme-spina organico che le piante carnivore sputano contro cibo potenziale o trasportatori di semi. Questa e' piu' affilata e dura del solito.}
+{58400}{}{Abitante del Vault morto}
 {58401}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58500}{}{Dead Vault Dweller}
+{58500}{}{Abitante del Vault morto}
 {58501}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58600}{}{Dead Tribal}
+{58600}{}{Selvaggio morto}
 {58601}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58700}{}{Dead Tribal}
+{58700}{}{Selvaggio morto}
 {58701}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58800}{}{K-9 Kevlar}
+{58800}{}{Kevlar per K-9}
 {58801}{}{Kevlar K-9 Indossabile (FALSA)}
-{58900}{}{Mutant Armor}
-{58901}{}{Mutant Armor}
-{59000}{}{Mutant Armor}
+{58900}{}{Armatura mutante}
+{58901}{}{Armatura mutante}
+{59000}{}{Armatura mutante}
 {59001}{}{Armatura Mutante Indossabile (FALSA)}
-{59100}{}{Small Scorpion Tail}
-{59101}{}{The severed tail of a small radscorpion.}
-{59200}{}{Plant seed}
+{59100}{}{Coda di scorpione piccolo}
+{59101}{}{La coda recisa di un piccolo radscorpione.}
+{59200}{}{Seme di pianta}
 {59201}{}{Un seme di pianta datoti dal dottor Sheng.}
-{59300}{}{Nothing out of the ordinary}
-{59301}{}{Nothing out of the ordinary.}
-{59400}{}{Nothing out of the ordinary}
-{59401}{}{Nothing out of the ordinary.}
-{59500}{}{Nothing out of the ordinary}
-{59501}{}{Nothing out of the ordinary.}
-{59600}{}{Fake Heart Pills}
+{59300}{}{Niente fuori dall'ordinario}
+{59301}{}{Niente fuori dall'ordinario.}
+{59400}{}{Niente fuori dall'ordinario}
+{59401}{}{Niente fuori dall'ordinario.}
+{59500}{}{Niente fuori dall'ordinario}
+{59501}{}{Niente fuori dall'ordinario.}
+{59600}{}{Pillole finte per il cuore}
 {59601}{}{Queste pillole sarebbero normalmente usate da persone con problemi cardiaci, tranne che in questo caso porterebbero alla morte. Sono state mescolate con altre sostanze chimiche, garantendo un'esperienza di cuore che esplode.}

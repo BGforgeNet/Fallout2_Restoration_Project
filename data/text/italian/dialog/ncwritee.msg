@@ -9,7 +9,7 @@
 {162}{}{Vedi una delle figlie di Wright. Ti ignora, ma fa cadere la sua mano sulla fondina con un gesto palese.}
 {163}{}{Vedi una delle figlie di Wright. Sembra piu' pericolosa di un serpente a sonagli.}
 {164}{}{Vedi una delle figlie di Wright. Sembra piu' pericolosa di un serpente a sonagli. Per qualche motivo, la cosa ti eccita.}
-{200}{}{::Cheers::}
+{200}{}{::Saluti::}
 {201}{}{::Applaude::}
 {202}{}{::Fischia::}
 {203}{}{(Canta.) "We don't need another hero, we don't need to know the way home..."}

@@ -8,13 +8,13 @@
 {107}{}{Annulla “Accetta l’eliminazione di Westin”.}
 {108}{}{Imposta Westin come morto.}
 {109}{}{Annulla “Westin morto”.}
-{110}{}{Imposta “Annulla l’eliminazione di Westin”.}
+{110}{}{Imposta “Annulla l’eliminazione di Westin”}
 {111}{}{Annulla “Annulla l’eliminazione di Westin”.}
 {112}{}{Imposta “Westin conosce le droghe”.}
 {113}{}{Annulla “Westin conosce le droghe”.}
-{114}{}{Imposta “Fallimento di Westin”.}
+{114}{}{Imposta “Fallimento di Westin”}
 {115}{}{Annulla “Fallimento di Westin”.}
-{116}{}{Imposta “Westin completato”.}
+{116}{}{Imposta “Westin completato”}
 {117}{}{Annulla “Westin completato”.}
 {118}{}{Imposta “Westin conosce lo snuff”.}
 {119}{}{Annulla “Westin conosce lo snuff”.}

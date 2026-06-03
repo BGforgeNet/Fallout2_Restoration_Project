@@ -9,7 +9,7 @@
 {108}{}{Umag Nak!?! Umag NAK!}
 {109}{}{Bene, mi assicurero' che tu raggiunga il Cortile sano e salvo. Su, andiamo.}
 {110}{}{Okay. Andiamo.}
-{111}{}{Brog Frup.}
+{111}{}{Brog Frup}
 {112}{}{Posso andarci anche da solo.}
 {113}{}{Mi spiace, ho i miei ordini. Devo scortarti dall'altra parte del cancello.}
 {114}{}{Okay... ma non ne sono felice. Potrei presentare una protesta uffic --}
@@ -32,7 +32,7 @@
 {131}{}{Buon giorno, Capitano.}
 {132}{}{Ehi voi! Alt! Che cosa ci fa un ghoul qui a Vault City?!}
 {133}{}{Ehi voi! Alt! Che cosa ci fa un mutante qui a Vault City?!}
-{134}{}{Breep-oop foop foop.}
+{134}{}{Breep-oop foop foop}
 {135}{}{Un ghoul? Dove?}
 {136}{}{Un mutante? Dove?}
 {137}{}{Sta con me.}

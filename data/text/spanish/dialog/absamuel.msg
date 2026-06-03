@@ -9,9 +9,9 @@
  ¿Cómo le va a ese tipo? No lo he visto desde que lo expulsaron de aquí ya hace mucho *hip* tiempo atrás.
  [Sonríe melancolicamente.] ¡Ese tipo era divertido! Él y yo juntos, eramos un exelente dúo}
 {205}{}{Ahora vive en Nuevo Reno, predicando la buena palabra, er, algo así. Sabes, ustedes dos se parecen mucho.}
-{206}{}{Nuevo Reno, ¿eh? [Se apoya en su pala, saca una pequeña botella y da un gran trago.] Recuerdo que dijo que iba a *hip* 
- dirigirse hacia allí. Me alegra que llegara allí con seguridad. Siempre *hip* me gustó ese tipo. Un verdadero personaje. 
- Si lo ves de nuevo, dile a Ol' Sammy que todavía está vivo y coleando.}
+{206}{}{Nuevo Reno, ¿eh? [Se apoya en su pala, saca una pequeña botella y da un gran trago.] Recuerdo que dijo que iba a *hip*
+dirigirse hacia allí. Me alegra que llegara allí a salvo. Siempre *hip* me agradó ese tipo. Todo un personaje.
+Si lo ves de nuevo, dile que El Viejo Sammy todavía está vivo y coleando.}
 {207}{}{Lo haré. Aunque tengo algunas preguntas más.}
 {208}{}{Lo haré. Cuídate, Sam.}
 {209}{}{No importa. Lamento molestarte.}
@@ -21,16 +21,16 @@
 {301}{}{¿Eres el guardián del cementerio?}
 {302}{}{¿Qué puedes contarme acerca de la Abadía?}
 {303}{}{¿Puedo ayudarle en algo?}
-{400}{}{Sí, *hip* me encargo de cuidar estas tumbas. Nadie más quiere *hip* hacerlo, así que Ol' Sammy se quedó con el trabajo. 
- No es tan malo como podría parecer. Tiene sus... ventajas, si sabes a qué me refiero. [Sonríe con torpeza y mueve sus cejas pobladas 
- hacia ti.]}
-{401}{}{No. Ni sé a lo que te refieres y ni quiero saberlo. Adiós.}
-{402}{}{No. Ni sé a lo que te refieres. Pero déjeme preguntarle otra cosa.}
-{403}{}{No. Ni sé a lo que quieres decir, pero tengo una curiosidad mórbida...}
+{400}{}{Sí, *hip* me encargo de cuidar estas tumbas. Nadie más quiere *hip* hacerlo, así que El Viejo Sammy se quedó con el trabajo.
+No es tan malo como podría parecer. Tiene sus... ventajas, si sabes a qué me refiero. [Sonríe con torpeza y mueve sus cejas pobladas
+hacia ti.]}
+{401}{}{No. No sé a lo que te refieres y tampoco quiero saberlo. Adiós.}
+{402}{}{No. No sé a lo que se refiere. Pero déjeme preguntarle otra cosa. }
+{403}{}{No, no sé qué quieres decir, pero soy morbosamente curioso...}
 {404}{}{Demonios, sí lo hago. Nada me excita como un cadáver podrido.}
-{410}{}{Por qué, puedo estar al aire libre y no hay nadie cerca para decirle a Ol' Sammy cuando ha tenido suficiente. Yo *sé* cuando he 
- tenido suficiente... cuando no queda nada. [Se ríe, lo que rápidamente se convierte en un espantoso exceso de tos. 
- Después de toser hasta sacar los pulmones, sonríe hacia ti.]}
+{410}{}{Por qué, puedo estar al aire libre y no hay nadie que le diga a El Viejo Sammy cuando ya ha bebido suficiente. Yo *sé* cuando he
+bebido suficiente... ¡cuando ya no queda!. [Se ríe, lo que rápidamente se convierte en un espantoso exceso de tos.
+Después de toser hasta sacar los pulmones, el te sonríe.]}
 {411}{}{Eh, *por supuesto* eso es lo que quería decir. [Suspiro de alivio]. Sin embargo, permíteme preguntarte otra cosa.}
 {420}{}{[Sus ojos se abren con sorpresa y parece estar instantáneamente sobrio.] Eso no es lo que quise decir, tú... ¡ERES UN MONSTRUO, MANÍACO! 
  ¡Aléjate de mí! }

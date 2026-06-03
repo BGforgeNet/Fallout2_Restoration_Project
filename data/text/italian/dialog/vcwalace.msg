@@ -83,7 +83,7 @@
 {182}{}{Chi e' il Primo Cittadino?}
 {183}{}{Di cosa si occupa, esattamemte?}
 {184}{}{Grazie per le informazioni. Ci vediamo.}
-{185}{}{Beh, ma certo. Tutti chiedono di poter vedere il Primo Cittadino. Purtroppo, il suo tempo puo' essere dedicato solo a questioni della massima importanza. }
+{185}{}{Beh, ma certo. Tutti chiedono di poter vedere il Primo Cittadino. Purtroppo, il suo tempo puo' essere dedicato solo a questioni della massima importanza.}
 {186}{}{Non sembri abbastanza importante da meritarti il suo tempo, temo.}
 {187}{}{E' per questo che e' di vitale importanza che io parli con lui. Sono certo che potrei mettere una buona parola riguardo all'efficienza dell'Ufficio Doganale e del suo responsabile. Ma se proprio non puo' aiutarmi, allora...}
 {188}{}{Le informazioni in mio possesso sono davvero importanti. Davvero.}
@@ -206,7 +206,7 @@
 {305}{}{NCR e' la sigla della "New California Republic", nonche' il nome della sua capitale. Il loro scopo dichiarato e' quello di unificare l'intera California sotto un unico governo, ma sappiamo benissimo che si tratta di un patetico stratagemma.}
 {306}{}{"Stratagemma"? Cos'e'? Un'arma che NCR poss--?}
 {307}{}{Uno stratagemma? Ne siete sicuri?}
-{308}{}{Anche se fossero sinceri, dovremmo forse dividere le nostre risorse con i tagliagole e i ladri che vivono all'esterno di queste mura? Io credo di *no*.}
+{308}{}{Anche se fossero sinceri, dovremmo forse dividere le nostre risorse con i tagliagole e i ladri che vivono all'esterno di queste mura? Io credo di *no.*}
 {309}{}{Capisco. Cosa stava dicendo a proposito dei predoni?}
 {310}{}{Che tipo di problemi ha Vault City con Gecko?}
 {311}{}{Posso farle qualche altra domanda?}

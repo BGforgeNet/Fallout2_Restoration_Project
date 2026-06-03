@@ -74,7 +74,7 @@
 {301}{}{Akční body}
 {302}{editor}{Třída zbroje}
 {303}{}{Boj beze zbraně}
-{304}{}{Boj zblízka}
+{304}{editor}{Melee Damage}
 {305}{}{Odol. v. pošk.}
 {306}{}{Odol. v. jedu}
 {307}{}{Odol. v. radiaci}

@@ -45,7 +45,8 @@
 {144}{}{E allora?}
 {145}{}{Nun riesci a fa' due piu' due? Temo che Woody si sia fatto una pennichella al Den - e' un lunno viaggio, dopotutto - e che la genne del posto abbia seppellito vivo il poveretto! Ho bisogno che qualcuno lo vada a cerca' laggiu'.}
 {146}{}{E...?}
-{147}{}{Beh, mi manca. Ecco tutto. (Percy ha gli occhi lucidi) Oh, certo, forse vuoi sape' cosa ne viene a te...}
+{147}{}{Be', mi manca. Ecco perche'.
+(Percy sbatte le palpebre, con gli occhi lucidi, guardandoti) Ah, capisco… vuoi sapere cosa ci guadagni tu, eh?}
 {148}{}{Questa e' di solito la parte che mi interessa di piu'. Dimmi tutto.}
 {149}{}{Beh, so dove potrei trova' un sacco de confezioni prebbelliche de Rad-X e RadAway. Nun me servono a nulla, adesso, ma credo che dovrebbero vale' qualcosa per un liscetto come te. Accetti il lavoro o no? Te paghero' soltanno quanno sapro' che Woody e' sano e salvo.}
 {150}{}{Quann'e'...er... Quant'e' esattamente "un sacco"?}

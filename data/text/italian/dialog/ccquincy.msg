@@ -6,7 +6,7 @@
 {105}{}{Nulla.}
 {106}{}{Salve. Dovrei chiederti un paio di cose.}
 {107}{}{Nulla.}
-{108}{}{Va bene, ma fa' in fretta. Devo aggiornare l'inventario. }
+{108}{}{Va bene, ma fa' in fretta. Devo aggiornare l'inventario.}
 {109}{}{Che cosa vuoi sapere?}
 {110}{}{Cosa essere questo posto?}
 {111}{}{Me cerca progetti di vertibird. Dove trova?}

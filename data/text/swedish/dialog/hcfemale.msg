@@ -74,7 +74,7 @@
 {217}{}{Scumbag!}
 {218}{}{Lämna mig ifred!}
 {219}{}{No! No! No!}
-{220}{}{Don't touch me!}
+{220}{}{Rör mig inte!}
 {221}{}{Gör mig inte illa!}
 {250}{}{Those poor people.}
 {251}{}{Who fell down Jacob's ladder?}

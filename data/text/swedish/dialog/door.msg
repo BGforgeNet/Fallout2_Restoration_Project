@@ -137,21 +137,17 @@
 {174}{}{s oskicklighet har gjort låset på dörren obrukbart.}
 {175}{}{ misslyckades med att dyrka upp låset på den här dörren.}
 {176}{}{Du slår bort låset från dörren.}
-{177}{}{Du sträcker ryggen när du försöker bryta upp låset och skadas
- ett hälsopoäng.}
-{178}{}{Du sträcker ryggen när du försöker bryta upp låset och
- skadas }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and take }
 {179}{}{ skadepoäng.}
-{180}{}{Du är för svag för att bryta upp låset.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ slår bort låset från dörren.}
-{182}{}{ sträcker ryggen när han försöker bryta upp låset och skadas
- ett hälsopoäng.}
-{183}{}{ sträcker ryggen när han försöker bryta upp låset och skadas }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ skadepoäng.}
 {185}{}{ är för svag för att bryta upp låset.}
-{186}{}{ sträcker ryggen när hon försöker bryta upp låset och skadas
- ett hälsopoäng.}
-{187}{}{ sträcker ryggen när hon försöker bryta upp låset och skadas }
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ skadepoäng.}
 {189}{}{Du låser skickligt dörren.}
 {190}{}{Du misslyckas med att låsa dörren.}

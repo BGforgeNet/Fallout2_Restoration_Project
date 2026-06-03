@@ -87,7 +87,7 @@
 {8200}{}{Tubature}
 {8300}{}{Tubatura}
 {8400}{}{Tubatura}
-{8500}{}{Gizmo}
+{8500}{}{Aggeggio}
 {8600}{}{Palizzata in Legno}
 {8700}{}{Palizzata in Legno}
 {8800}{}{Palizzata in Legno}
@@ -1544,11 +1544,11 @@
 {153000}{}{Entrata}
 {153100}{}{Parete}
 {153200}{}{Parete}
-{153300}{}{Stone Pillar}
-{153400}{}{Stone Pillar}
-{153500}{}{Stone Pillar}
-{153600}{}{Stone Pillar}
-{153700}{}{Stone Pillar}
+{153300}{}{Pilastro di pietra}
+{153400}{}{Pilastro di pietra}
+{153500}{}{Pilastro di pietra}
+{153600}{}{Pilastro di pietra}
+{153700}{}{Pilastro di pietra}
 {153800}{}{Parete}
 {153900}{}{Parete}
 {154000}{}{Parete}
@@ -1675,19 +1675,19 @@
 {166100}{}{Emettitore di Campo di Forza}
 {166200}{}{Emettitore di Campo di Forza}
 {166300}{}{Emettitore di Campo di Forza}
-{166400}{}{Stone Pillar}
-{166500}{}{Stone Pillar}
-{166600}{}{Stone Pillar}
-{166700}{}{Stone Pillar}
-{166800}{}{Stone Pillar}
+{166400}{}{Pilastro di pietra}
+{166500}{}{Pilastro di pietra}
+{166600}{}{Pilastro di pietra}
+{166700}{}{Pilastro di pietra}
+{166800}{}{Pilastro di pietra}
 {166900}{}{Parete}
 {167000}{}{Parete}
 {167100}{}{Parete}
 {167200}{}{Parete}
-{167300}{}{Wall Pillar}
-{167400}{}{Wall Pillar}
-{167500}{}{Wall Pillar}
-{167600}{}{Wall Pillar}
+{167300}{}{Pilastro a parete}
+{167400}{}{Pilastro a parete}
+{167500}{}{Pilastro a parete}
+{167600}{}{Pilastro a parete}
 {167700}{}{Parete}
 {167800}{}{Parete}
 {167900}{}{Parete}
@@ -1730,19 +1730,19 @@
 {171800}{}{Entrata}
 {171900}{}{Entrata}
 {172000}{}{Parete}
-{172100}{}{Rusty Steel Railing}
-{172200}{}{Rusty Steel Railing}
-{172300}{}{Rusty Steel Railing}
-{172400}{}{Rusty Steel Railing}
-{172500}{}{Rusty Steel Railing}
-{172600}{}{Rusty Steel Railing}
-{172700}{}{Rusty Steel Railing}
-{172800}{}{Rusty Steel Railing}
-{172900}{}{Rusty Steel Railing}
-{173000}{}{Rusty Steel Railing}
-{173100}{}{Rusty Steel Railing}
-{173200}{}{Rusty Steel Railing}
-{173300}{}{Rusty Steel Railing}
+{172100}{}{Ringhiera d'acciaio arrugginita}
+{172200}{}{Ringhiera d'acciaio arrugginita}
+{172300}{}{Ringhiera d'acciaio arrugginita}
+{172400}{}{Ringhiera d'acciaio arrugginita}
+{172500}{}{Ringhiera d'acciaio arrugginita}
+{172600}{}{Ringhiera d'acciaio arrugginita}
+{172700}{}{Ringhiera d'acciaio arrugginita}
+{172800}{}{Ringhiera d'acciaio arrugginita}
+{172900}{}{Ringhiera d'acciaio arrugginita}
+{173000}{}{Ringhiera d'acciaio arrugginita}
+{173100}{}{Ringhiera d'acciaio arrugginita}
+{173200}{}{Ringhiera d'acciaio arrugginita}
+{173300}{}{Ringhiera d'acciaio arrugginita}
 {173400}{}{Parete}
 {173500}{}{Parete}
 {173600}{}{Parete}
@@ -1796,7 +1796,7 @@
 {178400}{}{Parete}
 {178500}{}{Emettitore di Campo di Forza}
 {178600}{}{Emettitore di Campo di Forza}
-{178700}{}{Rusty Steel Railing}
+{178700}{}{Ringhiera d'acciaio arrugginita}
 {178800}{}{Parete}
 {178900}{}{Parete}
 {179000}{}{Emettitore di Campo di Forza}
@@ -1805,8 +1805,8 @@
 {179300}{}{Parete}
 {179400}{}{Parete}
 {179500}{}{Parete}
-{179600}{}{Hatchway}
-{179700}{}{Hatchway}
+{179600}{}{Portello}
+{179700}{}{Portello}
 {179800}{}{Parete interna del sottomarino}
 {179900}{}{Parete interna del sottomarino}
 {180000}{}{Parete interna del sottomarino}
@@ -1836,66 +1836,66 @@
 {182400}{}{Parete interna del sottomarino}
 {182500}{}{Parete interna del sottomarino}
 {182600}{}{Parete interna del sottomarino}
-{182700}{}{Hatchway}
-{182800}{}{Hatchway}
+{182700}{}{Portello}
+{182800}{}{Portello}
 {182900}{}{Parete interna del sottomarino}
 {183000}{}{Parete interna del sottomarino}
 {183100}{}{Parete interna del sottomarino}
 {183200}{}{Parete interna del sottomarino}
 {183300}{}{Parete}
 {183400}{}{Parete}
-{183500}{}{Glowing Cave Wall}
-{183600}{}{Glowing Cave Wall}
-{183700}{}{Glowing Cave Wall}
-{183800}{}{Glowing Cave Wall}
-{183900}{}{Glowing Cave Wall}
-{184000}{}{Glowing Cave Wall}
-{184100}{}{Glowing Cave Wall}
-{184200}{}{Glowing Cave Wall}
-{184300}{}{Glowing Cave Wall}
-{184400}{}{Glowing Cave Wall}
-{184500}{}{Glowing Cave Wall}
-{184600}{}{Glowing Cave Wall}
-{184700}{}{Glowing Cave Wall}
-{184800}{}{Glowing Cave Wall}
-{184900}{}{Glowing Cave Wall}
-{185000}{}{Glowing Cave Wall}
-{185100}{}{Glowing Cave Wall}
-{185200}{}{Glowing Cave Wall}
-{185300}{}{Glowing Cave Wall}
-{185400}{}{Glowing Cave Wall}
-{185500}{}{Glowing Cave Wall}
-{185600}{}{Glowing Cave Wall}
-{185700}{}{Glowing Cave Wall}
-{185800}{}{Glowing Cave Wall}
-{185900}{}{Glowing Cave Wall}
-{186000}{}{Glowing Cave Wall}
-{186100}{}{Glowing Cave Wall}
-{186200}{}{Glowing Cave Wall}
-{186300}{}{Glowing Cave Wall}
-{186400}{}{Glowing Cave Wall}
-{186500}{}{Glowing Cave Wall}
-{186600}{}{Glowing Cave Wall}
-{186700}{}{Glowing Cave Wall}
-{186800}{}{Glowing Cave Wall}
-{186900}{}{Glowing Cave Wall}
-{187000}{}{Glowing Cave Wall}
-{187100}{}{Glowing Cave Wall}
-{187200}{}{Glowing Cave Wall}
-{187300}{}{Glowing Cave Wall}
-{187400}{}{Glowing Cave Wall}
-{187500}{}{Glowing Cave Wall}
-{187600}{}{Glowing Cave Wall}
-{187700}{}{Glowing Cave Wall}
-{187800}{}{Glowing Cave Wall}
-{187900}{}{Glowing Cave Wall}
-{188000}{}{Glowing Cave Wall}
-{188100}{}{Glowing Cave Wall}
-{188200}{}{Glowing Cave Wall}
-{188300}{}{Glowing Cave Wall}
-{188400}{}{Glowing Cave Wall}
-{188500}{}{Glowing Cave Wall}
-{188600}{}{Glowing Cave Wall}
+{183500}{}{Parete della grotta luminescente}
+{183600}{}{Parete della grotta luminescente}
+{183700}{}{Parete della grotta luminescente}
+{183800}{}{Parete della grotta luminescente}
+{183900}{}{Parete della grotta luminescente}
+{184000}{}{Parete della grotta luminescente}
+{184100}{}{Parete della grotta luminescente}
+{184200}{}{Parete della grotta luminescente}
+{184300}{}{Parete della grotta luminescente}
+{184400}{}{Parete della grotta luminescente}
+{184500}{}{Parete della grotta luminescente}
+{184600}{}{Parete della grotta luminescente}
+{184700}{}{Parete della grotta luminescente}
+{184800}{}{Parete della grotta luminescente}
+{184900}{}{Parete della grotta luminescente}
+{185000}{}{Parete della grotta luminescente}
+{185100}{}{Parete della grotta luminescente}
+{185200}{}{Parete della grotta luminescente}
+{185300}{}{Parete della grotta luminescente}
+{185400}{}{Parete della grotta luminescente}
+{185500}{}{Parete della grotta luminescente}
+{185600}{}{Parete della grotta luminescente}
+{185700}{}{Parete della grotta luminescente}
+{185800}{}{Parete della grotta luminescente}
+{185900}{}{Parete della grotta luminescente}
+{186000}{}{Parete della grotta luminescente}
+{186100}{}{Parete della grotta luminescente}
+{186200}{}{Parete della grotta luminescente}
+{186300}{}{Parete della grotta luminescente}
+{186400}{}{Parete della grotta luminescente}
+{186500}{}{Parete della grotta luminescente}
+{186600}{}{Parete della grotta luminescente}
+{186700}{}{Parete della grotta luminescente}
+{186800}{}{Parete della grotta luminescente}
+{186900}{}{Parete della grotta luminescente}
+{187000}{}{Parete della grotta luminescente}
+{187100}{}{Parete della grotta luminescente}
+{187200}{}{Parete della grotta luminescente}
+{187300}{}{Parete della grotta luminescente}
+{187400}{}{Parete della grotta luminescente}
+{187500}{}{Parete della grotta luminescente}
+{187600}{}{Parete della grotta luminescente}
+{187700}{}{Parete della grotta luminescente}
+{187800}{}{Parete della grotta luminescente}
+{187900}{}{Parete della grotta luminescente}
+{188000}{}{Parete della grotta luminescente}
+{188100}{}{Parete della grotta luminescente}
+{188200}{}{Parete della grotta luminescente}
+{188300}{}{Parete della grotta luminescente}
+{188400}{}{Parete della grotta luminescente}
+{188500}{}{Parete della grotta luminescente}
+{188600}{}{Parete della grotta luminescente}
 {188700}{}{Entrata}
 {188800}{}{Entrata}
 {188900}{}{Parete}

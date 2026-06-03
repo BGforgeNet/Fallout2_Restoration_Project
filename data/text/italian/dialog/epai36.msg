@@ -1,14 +1,14 @@
 {100}{}{Vedi un computer.}
-{150}{}{Please select an option below.}
-{151}{}{Information}
-{152}{}{Employee Access}
-{160}{}{Please select an option below.}
-{161}{}{Lower Force Field}
+{150}{}{Seleziona un'opzione qui sotto.}
+{151}{}{Informazioni}
+{152}{}{Accesso Dipendenti}
+{160}{}{Seleziona un'opzione qui sotto.}
+{161}{}{Abbassa Campo di Forza}
 {162}{}{[INDIETRO]}
 {170}{}{Per abbassare i campi di forza, inserisci la password di accesso. (Se la password e' stata persa o dimenticata, rivolgiti all'Ologramma 40011, Direttore delle Pubbliche Relazioni.)}
 {171}{}{ABRE}
 {172}{}{[INDIETRO]}
-{180}{}{Thank you. Force fields are now disengaged.}
+{180}{}{Grazie. I campi di forza sono ora disattivati.}
 {181}{}{[FATTO]}
 {200}{}{Benvenuto nello Zoo Tattile dell'EPA! Qui avrai il piacere di interagire con queste creature uniche che
  sembrano esseri umani orribilmente deformati! Questo perche' queste bestie sono il risultato di entusiasmanti esperimenti in cui i nostri
@@ -22,7 +22,7 @@
  queste abominazioni fallite, abbiamo pensato che sarebbe stato divertente metterle in uno zoo tattile. Non preoccuparti, nonostante il loro aspetto terrificante,
  e' improbabile che attacchino finche' sono ben nutrite. Siamo lieti di riportare che solo tre visitatori sono rimasti uccisi
  nell'ultimo anno!}
-{221}{}{[Logoff.]}
+{221}{}{[Disconnetti.]}
 {300}{}{Benvenuto nella nostra nuova esposizione! Le strane creature tentacolate che vedi in questa gabbia potrebbero sembrare venute
  dallo spazio, ma non sono alieni: in realta' sono state create proprio qui in America! Come avrai intuito,
  non sono state create da madre natura, ma dalla scienza!}
@@ -35,7 +35,7 @@
 {320}{}{Stai osservando il futuro della guerra biologica! Ma non preoccuparti, queste feroci macchine da macello non possono
  raggiungerti, perche' sono rinchiuse in sicurezza nella loro gabbia altamente protetta. Scusa la scarsa illuminazione,
  ma questi tipi sono piu' felici quando vivono in luoghi freschi e bui, e non vorresti farli arrabbiare, vero?}
-{321}{}{[Logoff.]}
+{321}{}{[Disconnetti.]}
 {400}{}{Qui puoi vedere forme di vita vegetale come non ne hai mai viste! Questa nuova ed entusiasmante specie, derivata dalla Venere
  acchiappamosche, e' stata progettata dai nostri brillanti scienziati per sopravvivere in un mondo devastato da una guerra nucleare.
  Perche' vorremmo farlo? E' semplice.}
@@ -48,4 +48,4 @@
 {420}{}{Sembra terribile, vero? Ma non preoccuparti. Queste nuove piante potrebbero essere la risposta al problema. Invece di
  dipendere dal suolo fertile e dalla pioggia, sono in grado di ottenere nutrienti uccidendo e mangiando animali, proprio come
  le persone! Tutto grazie alle meraviglie della scienza!}
-{421}{}{[Logoff.]}
+{421}{}{[Disconnetti.]}

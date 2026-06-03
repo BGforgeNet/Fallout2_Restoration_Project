@@ -916,10 +916,10 @@
 {4563}{}{Some outcasts.}
 {4564}{}{Some wilders.}
 {4565}{}{A war party.}
-{4566}{}{Some geckos hiding in some spore plants.}
-{4567}{}{Some geckos and some radscorpions.}
+{4566}{}{Några geckoödlor som gömmer sig bland några sporväxter.}
+{4567}{}{Några geckoödlor och några radioaktiva skorpioner.}
 {4568}{}{Some geckos.}
-{4569}{}{Some radscorpions hiding in some spore plants.}
+{4569}{}{Några radioaktiva skorpioner som gömmer sig bland några sporväxter.}
 {4570}{}{Some radscorpions.}
 {4571}{}{Some geckos attacking some outcasts.}
 {4572}{}{Some geckos fighting some wilders.}
@@ -946,10 +946,10 @@
 {4610}{}{Some bounty hunters.}
 {4611}{}{Some bounty hunters.}
 {4612}{}{A band of ruffians led by a Morton Brother.}
-{4613}{}{Some geckos hiding in some spore plants.}
-{4614}{}{Some geckos and some radscorpions.}
+{4613}{}{Några geckoödlor som gömmer sig bland några sporväxter.}
+{4614}{}{Några geckoödlor och några radioaktiva skorpioner.}
 {4615}{}{Some geckos.}
-{4616}{}{Some radscorpions hiding in some spore plants.}
+{4616}{}{Några radioaktiva skorpioner som gömmer sig bland några sporväxter.}
 {4617}{}{Some radscorpions.}
 {4618}{}{Some geckos attacking some outcasts.}
 {4619}{}{Some geckos fighting some wilders.}

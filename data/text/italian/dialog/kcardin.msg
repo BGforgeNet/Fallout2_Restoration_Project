@@ -21,7 +21,7 @@
 {170}{}{Spero che tu non abbia in mente di fare qualcosa di strano. Che cosa vuoi?}
 {171}{}{Come posso aiutarti, amico?}
 {172}{}{Mi parli di Smiley, il trapper.}
-{173}{}{Mi chiedevo se lei fosse la persona giusta con la quale parlare di notizie e fatti locali.}
+{173}{}{Mi chiedevo se fossi la persona giusta con cui parlare di notizie e fatti locali.}
 {174}{}{Avrei bisogno di una stanza, per favore.}
 {175}{}{Avremmo bisogno di una stanza, per favore.}
 {176}{}{Vorrei comprare qualcosa.}
@@ -43,8 +43,8 @@
 {221}{}{Torr amico.}
 {222}{}{Sono felice d'esser stato d'aiuto.}
 {223}{}{Non si era parlato di una ricompensa?}
-{230}{}{Beh, grazie. Credo che tu abbia bisogno di qualcuno con un po' di sale in zucca che ti faccia da balia - un compagno d'avventure. Parlero' con Maida per convincerla a liberare Sulik. }
-{231}{}{Beh, non so proprio cosa fare per ringraziarti. }
+{230}{}{Beh, grazie. Credo che tu abbia bisogno di qualcuno con un po' di sale in zucca che ti faccia da balia - un compagno d'avventure. Parlero' con Maida per convincerla a liberare Sulik.}
+{231}{}{Beh, non so proprio cosa fare per ringraziarti.}
 {232}{}{Torr amico }
 {233}{}{Non e' necessario ringraziarmi. C'era bisogno d'aiuto e io mi trovavo qui...}
 {234}{}{Beh, del denaro e' sempre un bel modo per dire grazie.}
@@ -107,33 +107,33 @@
 {380}{}{Beh, per qualche ragione questo non mi sorprende molto. Oh, santo cielo... ho rimproverato il mio povero ragazzo per una cosa della quale non aveva colpa. (sob) Quei Dunton me la pagheranno. Questa volta l'hanno fatta grossa.}
 {381}{}{Mi dispiace. Dove pensa che sia andato Torr?}
 {390}{}{Ok.}
-{400}{}{You found Smiley? Where is he?}
-{401}{}{Who? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
-{402}{}{He's dead. He was eaten by geckos.}
-{403}{}{I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
+{400}{}{Hai trovato Smiley? Dov’è?}
+{401}{}{Chi? Oh, ehm… no. Non so dove sia andato. Uh… senti, lasciami chiederti qualcos’altro.}
+{402}{}{È morto. È stato mangiato dai gecko.}
+{403}{}{L’ho… ehm… visto. Ha detto che scappava con un’altra donna. Whoa! Guarda l’ora. Devo andare.}
 {404}{}{Uh, io, uh, noi, ecco...Uh, no. Lo sto ancora cercando. Sono sicuro che presto si fara' vedere. Ehm, addio.}
 {410}{}{Mangiato dai gecki? Non ci credo. Il mio Smiley non si sarebbe mai lasciato prendere: e' un Trapper troppo in gamba. Devi esserti sbagliato.}
 {411}{}{Si', probabilmente ha ragione. Mi perdoni per averle fatto prendere uno spavento. Lasci che le faccia alcune domande.}
 {412}{}{No, l'ho visto, o meglio: ho visto quello che rimaneva di lui. Non era una bella visione. Beh, ci vediamo dopo. Arrivederci.}
 {413}{}{Credo proprio che tu mi abbia beccato. Heh, heh, stavo semplicemente prendendoti, ehm, in giro. Si', proprio cosi'. Beh, arrivederci.}
-{414}{}{Yes, have you found something out?}
+{414}{}{Sì, hai scoperto qualcosa?}
 {415}{}{Credo che i fratelli Dunton stiano rubando i vostri brahmin. Pensavo fosse importante farglielo sapere, signora.}
-{416}{}{Uh, nevermind.}
-{417}{}{What!? Are you sure about this? What proof do you have?}
+{416}{}{Niente, lascia stare.}
+{417}{}{Cosa?! Ne sei sicuro? Che prove hai?}
 {418}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei tuoi brahmin. Ho affrontato i Dunton e hanno ammesso di usarle per spaventare tuo figlio, Torr.}
 {419}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei tuoi brahmin. Credo che i Dunton le indossino per spaventare Torr — da qui la sua paura degli "uomini insetto".}
 {420}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli quei ragazzi. Be', questo spiega cosa lo spaventava, ma vorrei avere piu' prove che siano stati i Dunton a rubare il nostro bestiame. Ho paura che il sentito dire non sia abbastanza.}
 {421}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli quei ragazzi erano. Be', questo spiega cosa lo spaventava, ma vorrei ci fossero piu' prove che fossero i Dunton. Ho paura che il sentito dire non sia abbastanza. E ora che i Dunton sono morti, non so se scopriremo mai la verita'. Ma se trovi qualcos'altro, fammelo sapere.}
-{422}{}{Alright, I'll go see if I can scrounge up some more evidence.}
+{422}{}{D’accordo, vedrò se riesco a trovare altre prove.}
 {423}{}{In realta', ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
 {424}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per consegnare quei buoni a nulla. Da qui me ne occupo io. Quei teppisti non daranno piu' problemi. Grazie per il tuo aiuto.}
 {425}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per attribuire loro il crimine. Peccato siano morti, o gli avrei insegnato un paio di cose. Immagino abbiano avuto cio' che meritavano. Grazie per il tuo aiuto.}
-{426}{}{Happy to help, ma'am. Let me ask you about something.}
+{426}{}{Felice di aiutarla, signora. Lasci che le chieda un’altra cosa.}
 {427}{}{Quei Dunton mi fanno schifo. Sono felice che te ne occuperai tu. Addio, ora.}
-{428}{}{The Duntons got what they deserve. Goodbye.}
+{428}{}{I Dunton hanno avuto ciò che meritavano. Addio.}
 {429}{}{Davvero? Be', avanti allora, cosa hai trovato?}
 {430}{}{Ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
-{500}{}{About your missing brahmin...}
+{500}{}{Riguardo ai tuoi brahmin scomparsi...}
 {510}{}{Non e' che hai visto un Trapper di nome Smiley nei dintorni del paese? (Parlando anche a se stessa) Se ne e' andato da troppo tempo. Non avrei mai dovuto permettergli di partire per la sua folle ricerca.}
 {520}{}{Ti sei dimostrato davvero utile per noi. Grazie.}
 {530}{}{Mi stavo domandando cos'altro succede da queste parti.}
@@ -149,7 +149,7 @@
 {680}{}{Gurrrrg bloop?}
 {690}{}{Si figuri, signora. Arrivederci.}
 {700}{}{Torr e' morto.}
-{710}{}{Yes I did.}
+{710}{}{Si', l'ho fatto.}
 {720}{}{Io, uh, non so dove si trovano. Senta, posso farle una domanda?}
 {730}{}{Sono entrambi stecchiti come due rami secchi.}
 {740}{}{Torr se n'e' andato? Cosa vuole dire?}
@@ -157,7 +157,7 @@
 {760}{}{Li sto ancora cercando. Farei meglio a riprendere le ricerche. Arrivederci.}
 {770}{}{Lo sto ancora cercando. Farei meglio a riprendere le ricerche. Arrivederci.}
 {780}{}{Io, uh, non so dove sia. Hmm... Wow, guarda che ore sono. Devo andare.}
-{790}{}{Senta, posso farle qualche domanda?}
+{790}{}{Ehi, fammi chiederti una cosa.}
 {800}{}{Beh, ho un sacco di lavoro da fare. Addio.}
 {810}{}{Urrrrrgh.}
 {900}{}{Hai trovato Torr, mio figlio? Sono cosi' preoccupata per lui.}
@@ -180,13 +180,13 @@
 {1000}{}{Hai risolto il mistero dei brahmin scomparsi.}
 {1010}{}{In realta', un po' di compenso in denaro sarebbe gradito in questa situazione.}
 {1011}{}{Cosa? Oh, certo. Ci hai aiutato molto, quindi ti dobbiamo almeno qualcosa. Ecco 150$.}
-{1012}{}{Thanks for the money. See you around.}
-{2000}{}{Smilie?}
+{1012}{}{Grazie per i soldi. Ci vediamo.}
+{2000}{}{Smiley?}
 {2001}{}{Eh?}
 {2002}{}{Ummm}
-{2003}{}{I help.}
-{2004}{}{Me no like story. BYE!}
-{2005}{}{Oh, thank you. Let me mark on your map where he talked about looking. I sure hope you can
- find him. He isn't much, but I still love him and I miss him more than I thought I could. Please find
- him for me. You sure you can handle this... mentally?}
-{2006}{}{Me strong. Me believe in me self.}
+{2003}{}{Me aiuta.}
+{2004}{}{Me no piace storia. BYE!}
+{2005}{}{Oh, grazie. Lascia che ti indichi sulla tua mappa il posto dove aveva detto che sarebbe andato. 
+Spero davvero che tu possa trovarlo. Non sarà granché, ma lo amo ancora e mi manca più di quanto avrei mai immaginato. 
+Ti prego, trovalo per me. Sei sicuro di potercela fare… mentalmente?}
+{2006}{}{Me forte. Me crede in me stesso.}

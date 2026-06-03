@@ -9,14 +9,14 @@
 {115}{}{Parlami di questo posto.}
 {116}{}{Hai mai sentito parlare di un qualcosa chiamato Kit di Creazione del Giardino dell'Eden?}
 {117}{}{Non voglio niente da te. Addio.}
-{120}{}{Ti ho appena detto che ogni Vault ne aveva uno. Ti sembra un Vault, questo? Sei stupido? Perche' stai cercando un GECK in questo posto? Prova in un Vault.}
+{120}{}{Ti ho appena detto che ogni Vault ne aveva uno. Ti sembra un Vault, questo? Sei stupido? Perche' stai cercando un GECK in questo posto? Prova in un Vault. }
 {121}{}{Dove si trova il Vault piu' vicino?}
 {122}{}{Ti dico io cos'e' stupido. Parlarmi a quel modo, e' stupido. Io sono il Prescelto, sai?}
 {123}{}{Uh, beh, io stavo per... e pensavo che tu... oh, come non detto. Addio.}
 {130}{}{Un Kit di Creazione del Giardino dell'Eden? Intendi forse quel dispositivo presente in ogni Vault che dovrebbe essere usato per ricostruire la civilta'?}
 {131}{}{Si'! Proprio quello! Dove posso trovarne uno?}
 {132}{}{Uh, no, mi riferivo a un altro Kit di Creazione del Giardino dell'Eden.}
-{140}{}{Gestisco questo locale. Sei stupido? Vendo da bere, baratto cose, racconto storie e gioco a Tragic. }
+{140}{}{Gestisco questo locale. Sei stupido? Vendo da bere, baratto cose, racconto storie e gioco a Tragic.}
 {141}{}{Allora, cosa vuoi?}
 {142}{}{Voglio da bere.}
 {143}{}{Voglio barattare.}
@@ -33,7 +33,7 @@
 {160}{}{Non c'e' molto da dire, davvero. Solo un gruppo di ghoul aggrappati tenacemente al bordo piu' esterno dell'esistenza.}
 {161}{}{No, volevo che tu mi parlassi di questo bar.}
 {162}{}{Beh, questa tua descrizione si adatta a un sacco di gente. Non mi hai detto niente di nuovo.}
-{170}{}{Vuoi da bere, eh? Beh, abbiamo la nostra Birra Gamma Gulp a 5$ la bottiglia e, per le occasioni speciali, il nostro Rum Roentgen a 12$ la bottiglia. }
+{170}{}{Vuoi da bere, eh? Beh, abbiamo la nostra Birra Gamma Gulp a 5$ la bottiglia e, per le occasioni speciali, il nostro Rum Roentgen a 12$ la bottiglia.}
 {171}{}{Cosa desideri?}
 {172}{}{Gulp?}
 {173}{}{Vorrei una birra Gamma Gulp. E' normale che sia fosforescente?}
@@ -52,12 +52,12 @@
 {192}{}{Wooz, vecchio compare, voglio offrire da bere a tutti i miei amici qui presenti. Questi ragazzi sono i migliori.}
 {193}{}{Wooz, vieni qua... queshti ragasshi shono i mishgliori amishi che una pershona possha deshiderare. Porta ancora da bere a tuuuutti i miei amishi.}
 {194}{}{Wooz! Vooooglio offriresh un altro gi... giro a tuuuutti i miei comparrrri. Queeeeshti ragaaasshi shono il meglio. VI AMO RAGASSHI! Vi abbrasshio tutti!}
-{195}{}{Ripensandoci, devo essere davvero impazzito per pensare di offrire da bere a un branco di zombie in decomposizione. }
+{195}{}{Ripensandoci, devo essere davvero impazzito per pensare di offrire da bere a un branco di zombie in decomposizione.}
 {196}{}{Credo che prendero' da bere solo per me.}
 {200}{}{Ho un'ottima storiella da raccontarti. E' davvero divertente. Vedi... c'era questa testa, no?}
 {201}{}{Una testa?}
 {202}{}{Ehm, questa credo di averla gia' sentita. Adesso non ho tempo. Ci vediamo.}
-{210}{}{Sei stupido? Tragic l'Accozzaglia e', dopo il Jet, la cosa che da' piu' dipendenza in assoluto. }
+{210}{}{Sei stupido? Tragic l'Accozzaglia e', dopo il Jet, la cosa che da' piu' dipendenza in assoluto.}
 {211}{}{E' proprio come ti dicevo. Tragic l'Accozzaglia e' IL gioco.}
 {212}{}{Dimmi di piu' a proposito di questo Tragic l'Accozzaglia.}
 {213}{}{Cos'e' il Jet?}
@@ -68,11 +68,12 @@
 {230}{}{Io adoro le mele, ma in giro non ne sono rimaste molte. Se ne vedono pochissime.}
 {231}{}{Non sapevo che tu fossi un simile feticista della frutta. Parliamo di qualcos'altro.}
 {232}{}{Ho sentito dire che delle mele si riesce a gustare tutto il sapore proprio perche' sono un frutto che si mangia lentamente.}
-{240}{}{Lentamente?!? Sei proprio uno stupido. Vaffanculo! Le mele si mangiano alla stessa velocita' dell'altra frutta. Se non fosse stato per un complotto architettato dalla lobby dei frutticoltori, oggi tutti avremmo le mele!}
+{240}{}{Lentamente?!? Sei proprio uno stupido. Vaffanculo! Le mele si mangiano alla stessa velocita' dell'altra frutta. 
+Se non fosse stato per un complotto architettato dalla lobby dei frutticoltori, oggi tutti avremmo le mele.}
 {241}{}{Tu sei pazzo, vero? Credo che tu abbia assaggiato qualche goccia di troppo della tua birra. Parliamo di qualcos'altro.}
 {242}{}{Oh, si'... le mele sono davvero meravigliose. (ti allontani lentamente) Si', e' proprio cosi'. Buono Wooz, sta' calmo. Addio.}
 {250}{}{Mi pare che alla fine siamo riusciti a raggiungere un accordo. Ti serve qualcos'altro?}
-{251}{}{Si', credo che dovrei comprare anche qualcos'altro.}
+{251}{}{Si', credo che dovrei comprare anche qualcos'altro. }
 {252}{}{Per adesso sono a posto cosi'. In compenso, ho delle domande da farti.}
 {253}{}{Non mi serve nient'altro, per adesso. Ci vediamo.}
 {260}{}{Oh, il Prescelto. Oh cielo, non me n'ero reso conto. Vostra Magnificenza, quest'umile barista provera' a smettere di tremare il tempo necessario per riuscire a dirvi qualcosa. (Wooz sorride) Venite piu' vicino, ve lo diro' in un orecchio.}
@@ -125,27 +126,29 @@
 {411}{}{Uh, vabbe'. Hai vinto. Addio.}
 {412}{}{Che sorpresa. Beh, almeno non sono stato costretto ad ascoltare una delle tue barzellette. Addio.}
 {420}{}{Nulla, te lo assicuro. Cominciamo. Ho un nuovo mazzo che vorrei provare.}
-{421}{}{Okay. Giochiamo!}
+{421}{}{Ok. Allora giochiamo.}
 {422}{}{No, devo resistere al canto delle sirene. Vade retro, Tragic! Wooz, devo chiederti qualcos'altro.}
 {430}{}{So cosa vuoi dire. Ma io posso smettere quando voglio. Solo, non ho voglia di farlo oggi.}
 {431}{}{Ma ti ascolti quando parli? Davvero, volevo solo chiederti qualcos'altro.}
 {432}{}{Arrrgh! Devo andarmene, finche' posso. Addio.}
 {440}{}{Beh, l'Harp prende il nome da uno dei miei locali favoriti che frequentavo prima della guerra. Immagino sia soltanto un ricordo dei tempi passati. E' anche una specie di scherzo sull'unico modo che noi ghoul abbiamo per essere trattati meglio.}
-{441}{}{Prima della guerra? Ma stiamo parlando di un sacco di tempo fa!}
+{441}{}{Prima della guerra? Ma è stato tanto tempo fa.}
 {442}{}{Trattati meglio? Che cosa vuoi dire?}
 {450}{}{Potra' anche essere cosi', ma non tutti hanno una citta' piena di pazzi bigotti.}
 {451}{}{Che cosa vuoi dire?}
-{460}{}{Certo che stiamo parlando di un sacco di tempo fa! Come credi siano nati i ghoul? Credi forse che qualcuno di noi si sia svegliato una mattina e abbia detto: "Cavoli, mi domando che sensazioni proverei se la mia pelle, putrefatta, si staccasse dal mio fottuto corpo"?}
+{460}{}{Certo che stiamo parlando di un sacco di tempo fa! Come credi siano nati i ghoul? Credi forse che qualcuno di noi si sia svegliato una mattina e abbia detto: "Cavoli, mi domando che sensazioni proverei se la mia pelle, putrefatta, si staccasse dal mio fottuto corpo?"}
 {461}{}{Beh, no, non credo. Dimmi, come nasce un ghoul?}
 {462}{}{Sai, non me ne frega un emerito cazzo del perche' siete diventati cosi' brutti. Addio.}
 {470}{}{Quegli stronzi di Vault City. Se c'e' qualcuno che ci fara' fuori, quelli sono loro. Sono dei fottuti pazzi. Se qualcuno non ha una testa di cazzo come la loro, lo vogliono vedere morto. Starei ben attento a quella gente, se fossi in te.}
 {471}{}{Questo sembra proprio un buon consiglio. Staro' attento. Lascia che adesso ti chieda qualcos'altro.}
 {472}{}{Penso che abbiano avuto un'ottima idea. Giusto un po' di pulizia genetica. Spero proprio che comincino da te. Addio.}
-{473}{}{Well, right now they're pretty crazed about the village nearby. Do you know anything about this?}
+{473}{}{Al momento sono piuttosto agitati riguardo al villaggio qui vicino. Ne sai qualcosa?}
 {480}{}{L'unico momento nel quale noi ghoul veniamo trattati bene e' quando portiamo con noi un'arpa.}
 {481}{}{Non sapevo che i ghoul fossero dei musicisti.}
 {482}{}{Oh, capisco. Eh, eh. Vorrei chiederti qualcos'altro.}
-{490}{}{Allora, ci sono l'ape radioattiva e il fiore... Cavoli, sei stupido, vero? Intense radiazioni. Ecco come. Hai presente che tipo di radiazioni? Un sacco di bombe esplodono, un lampo di luce e calore, la pelle si ustiona e si stacca, ma tu non muori... ecco di che intense radiazioni sto parlando!}
+{490}{}{Con campanellini d’argento e conchigliette e… Ragazzo, sei proprio stupido, vero? Radiazioni pesanti. 
+È così che succede. Come pensavi? 
+Sai, quando tante bombe fanno boom, lampo di luce e calore, la carne ti brucia via… ma non muori del tutto, quel tipo di radiazioni pesanti?}
 {491}{}{Uh beh, io volevo dire...}
 {500}{}{So bene quel che volevi dire. Vaffanculo con tutto il cuore per avermi riportato alla memoria tutti questi dolorosissimi ricordi. Coglione. Noi siamo una citta' di fottuti avanzi... Avanzi leggermente bruciacchiati.}
 {501}{}{Io preferisco la carne al sangue. Ehi, lascia che ti chieda qualcos'altro.}
@@ -203,4 +206,4 @@
 {732}{}{Si', un altro giro per tutti.}
 {740}{}{Eh, si' ho sentito che quegli stronzi vengono attaccati dai talpe-ratto che proteggono quelle pelli lisce. Se lo meritano per essersi cacciati negli affari altrui. Non so molto di piu' pero'. Lumpy laggiù nel deposito di rottami potrebbe saperne di piu'. Quella pelle liscia sente sempre le cose in giro.}
 {741}{}{Grazie per l'informazione. Addio.}
-{742}{}{Good to know. Let me ask you something else.}
+{742}{}{Bene a sapersi. Lascia che ti chieda qualcos’altro.}

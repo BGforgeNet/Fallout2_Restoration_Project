@@ -111,7 +111,7 @@
 {210}{}{Dato che stiamo parlando di eta', ho notato che in citta' non ci sono bambini.}
 {211}{}{L'AVEVO NOTATA anch'io la somiglianza tra i Cittadini.}
 {212}{}{Pazienza. Io ci ho provato.}
-{213}{}{Uh no... "ottuagenario" e' un aggettivo che si riferisce ad una persona che ha ottant'anni.}
+{213}{}{Uh no... "ottuagenario" e' un aggettivo che si riferisce ad una persona che ha ottant'anni }
 {214}{}{Uh, okay. Posso farti un'altra domanda?}
 {215}{}{D'accordo. Ci vediamo.}
 {216}{}{Beh... si'. Non ci sono. Per ora. Non so se qualcuno gliel'ha gia' detto, ma Vault City e' una comunita' "programmata". Non avremo un altro ciclo di gravidanze se non tra qualche anno.}

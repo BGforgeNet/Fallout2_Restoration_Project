@@ -137,21 +137,17 @@ bị đứt trên khung cửa.}
 {174}{}{do thiếu kĩ năng đã làm kẹt ổ khóa trên cửa.}
 {175}{}{ không cậy được khóa trên cửa.}
 {176}{}{Bạn đã phá khóa khỏi cửa.}
-{177}{}{Bạn bị căng cơ lưng khi cố gắng phá khóa và
-nhận một điểm sát thương.}
-{178}{}{Bạn bị căng cơ lưng khi cố gắng phá khóa và
-nhận }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and take }
 {179}{}{ điểm sát thương.}
-{180}{}{Bạn quá yếu để có thể phá khóa.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ đã phá khóa khỏi cửa.}
-{182}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận một
- điểm sát thương.}
-{183}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ điểm sát thương.}
 {185}{}{ quá yếu để có thể phá khóa.}
-{186}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận một
- điểm sát thương.}
-{187}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận}
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ điểm sát thương.}
 {189}{}{Bạn khéo léo khóa cửa.}
 {190}{}{Bạn không khóa được cửa.}

@@ -1,1 +1,1 @@
-{100}{}{You use up the entire can of bug spray.}
+{100}{}{Usi l'intero contenuto dello spray insetticida.}

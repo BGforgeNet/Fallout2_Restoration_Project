@@ -212,7 +212,7 @@
 {4101}{}{Ho bisogno di un dottore.}
 {4102}{}{Oh, cavoli. Fa davvero male.}
 {4103}{}{Ow!}
-{4104}{}{Ouch.}
+{4104}{}{Ahi.}
 {4105}{}{Dannazione.}
 {4106}{}{Un dottore?}
 {4107}{}{Mi sto trascinando... a fatica.}

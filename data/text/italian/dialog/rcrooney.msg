@@ -23,7 +23,7 @@
 {123}{}{Oh, niente, davvero. Stavo solo dando un'occhiata in giro. Addio.}
 {124}{}{Non sono la tua dannata mamma. Ho gia' un brahmin cui badare e, sicuro come il demonio, non me ne serve un altro. Adesso via! Esci di qui.}
 {125}{}{Ciao ciao. Mamma.}
-{126}{}{Capisco. Quindi adesso sei tu quello che fa il lavoro sporco per Ascorti... Che cosa vuoi fare? Vuoi uccidermi? Vuoi sbattermi fuori al freddo? }
+{126}{}{Capisco. Quindi adesso sei tu quello che fa il lavoro sporco per Ascorti... Che cosa vuoi fare? Vuoi uccidermi? Vuoi sbattermi fuori al freddo?}
 {127}{}{Spero che questo dia sollievo a quella che tu chiami "coscienza".}
 {128}{}{Ascorti? E chi e'?}
 {129}{}{Un po' d'aria fresca ti fara' bene. Datti una mossa, nonna, se ci tieni alla pelle.}

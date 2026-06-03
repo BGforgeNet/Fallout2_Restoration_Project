@@ -16,7 +16,7 @@
 {2004}{}{Ho gia' detto che i ghoul puzzano?}
 {2005}{}{Uhm, dunque, trovo questo ghoul, cioe', e gli dico, "Voialtri siete invidiosi del fatto che io non puzzo?"}
 {2006}{}{E lui fa, "No. Uhm, perche' me lo chiedi?"}
-{2007}{}{E io gli dico "Perche' siete VERDI!"}
+{2007}{}{Ho detto, perche' sei VERDE.}
 {2008}{}{Uhm…verdi d'invidia. Capito?}
 {2010}{}{Buuu!}
 {2011}{}{}
@@ -34,10 +34,10 @@
 {4005}{}{Gia', cosa dire?}
 {4006}{}{}
 {5000}{}{E i Tratti opzionali?}
-{5001}{}{*Yawn*}
+{5001}{}{*Sbadiglio*}
 {5002}{}{Sapete... come gli "Sfigati"... Qualcuno li ha mai visti?}
 {5003}{}{E qualcuno ha visto il tuo minuscolo cazzo, ultimamente?}
-{5004}{}{Uhmmm... Ci pensate: c'e' davvero qualcuno che dice: "Ehi, credo proprio di volere piu' errori critici"!}
+{5004}{}{Uhhh… pensi davvero che ci sia qualcuno che dice: "Ehi, voglio più fallimenti critici?"}
 {5005}{}{Chi... sono queste persone?}
 {5006}{}{Ehi, questa l'ho gia' sentita da qualche parte.}
 {5007}{}{}
@@ -64,7 +64,7 @@
 {8003}{}{Quand'e' stata l'ultima volta che hai visto un super mutante...?}
 {8004}{}{Per caso tirano giu' i gattini dagli alberi?}
 {8005}{}{Neanche per sogno! Sapete perche'?}
-{8006}{}{*Yawn*}
+{8006}{}{*Sbadiglio*}
 {8007}{}{Uhhh... perche' i super mutanti non salvano i gattini...}
 {8008}{}{Loro uccidono spietatamente!}
 {8009}{}{Vorrei tanto che qualcuno uccidesse *te* spet...spietamen...}
@@ -82,7 +82,7 @@
 {9007}{}{Certo... ritieniti fortunato che non ti spacco il culo, amico!}
 {9008}{}{}
 {10000}{}{Allora, avete sentito che quella stupida della figlia di Bishop si e' fatta mettere incinta?}
-{10001}{}{*Clap* *Clap* *Clap*}
+{10001}{}{*Applausi* *Applausi* *Applausi*}
 {10002}{}{::Fischia::}
 {10003}{}{Spettacolare!}
 {11000}{}{Eh-eh. Avete sentito quella a proposito del selvaggio che ha spazzato via l'Enclave?}

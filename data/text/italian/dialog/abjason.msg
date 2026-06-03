@@ -55,12 +55,12 @@ finalmente abbandonare questo stupido stile di vita. Allora, che ne dici?}
 {280}{}{Stai scherzando? Mi crocifiggerebbero se lo facessi. Tu, invece… tu sei un avventuriero esperto. 
 Diamine, scommetto che potresti massacrare tutti qui senza nemmeno sudare. Allora, lo fai o hai paura di un branco di monaci pacifisti?}
 {281}{}{Non ho paura di nessuno. Lo faro'.}
-{282}{}{Va bene, lo faro'. }
+{282}{}{Va bene, lo faro'.}
 {283}{}{Nah, invece penso che mettero' alla prova la tua teoria del massacro. A partire da te.}
 {284}{}{Passo. Non e' proprio il mio stile. Ciao.}
 {285}{}{No, non lo faro'. Se ti trovi cosi' male qui, perche' non te ne vai tu?}
 {286}{}{A meno che tu non abbia cambiato idea sull'aiutarmi, vaffanculo.}
-{287}{}{Va bene, lo faro'. }
+{287}{}{Va bene, lo faro'.}
 {288}{}{No, non lo faro'. Se ti trovi cosi' male qui, perche' non te ne vai tu?}
 {290}{}{Lo farai? Sul serio? Oh, amico, fantastico. Pero' prima dovrai riuscire ad avere accesso, perche' sono parecchio protettivi riguardo al database. 
 Non dovrebbe essere troppo difficile comunque: questi monaci si fidano di chiunque. Si incazzeranno da morire quando lo formatterai, ma sono tutti dei deboli, quindi non preoccuparti. Cerca solo di non ammazzare nessuno — non voglio che la situazione degeneri troppo, ok?}
@@ -103,7 +103,7 @@ Almeno, non senza aiuto. Ma cosa diresti se ti dicessi che ti scorto io?}
 {372}{}{Wooz ha davvero una Black Dahlia! Da sola ha reso il viaggio degno. Certo, i ghoul sono brutti come il
  demonio, ma ho scoperto che se tolgo gli occhiali, sono quasi tollerabili. Comunque, grazie mille per avermi portato. Ecco, io,
  ehm, l'ho "preso in prestito" dai Memorabilia dell'Abbazia, stranamente e' una delle poche reliquie tecnologiche che funziona ancora.
- [Ti porge uno Stealth Boy.] Ci vediamo.}
+ [Ti porge un Mimetizzatore.] Ci vediamo.}
 {373}{}{Grazie. Ciao.}
 {374}{}{Sono solo felice di non doverti sentire lamentare ancora. Arrivederci.}
 {380}{}{Porca miseria, Wooz ha davvero una Black Dahlia! Da sola ha reso il viaggio degno. Certo, i ghoul sono brutti come il

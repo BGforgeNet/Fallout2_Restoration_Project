@@ -116,7 +116,7 @@ a teraz na pewno nie żyje. Tak strasznie za nim tęsknię.}
 {402}{}{Nie żyje. Zżarły go gekony.}
 {403}{}{Ja... Eee... udało mi się go znaleźć, ale obawiam się, że ten łajdak uciekł z inną kobietą. Ojej! Ale się zrobiło późno. Muszę już lecieć.}
 {404}{}{Eee... Ja... to znaczy my... Eee, nie. Ciągle go szukam. Na pewno niedługo się znajdzie. Do widzenia.}
-{410}{}{Gekony... zżarły Smileya? Nie wierzę ci. Smiley nigdy by się nie dał złapać gekonowi. Jest zbyt dobrym traperem. Na pewno się mylisz.}
+{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Pewnie ma pani rację. Przepraszam, jeśli się pani przestraszyła. Muszę panią o coś zapytać.}
 {412}{}{Nie, to były na pewno jego zwłoki. I mówię pani - nie wyglądało to najlepiej. Cóż, życie jest okrutne. Do zobaczenia.}
 {413}{}{No to się wydało. He, he, tak tylko panią nabieram. To taki dowcip, rozumie pani? No tak, do widzenia.}

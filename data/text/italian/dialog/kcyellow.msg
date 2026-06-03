@@ -18,9 +18,9 @@
 {141}{}{Woof, woof? Eru?}
 {142}{}{Bel cagnolino, beeeeello lui.}
 {143}{}{Hai fame, vero, piccolo? Scommetto che vorresti un po' di deliziosa carne, vero? Vediamo se ne ho un po'... }
-{200}{}{Woof! (pant, pant, pant -- Slurp!)}
+{200}{}{Woof! (ha, ha, ha - slurp !)}
 {201}{}{Woof-woof!}
-{202}{}{Arf!}
-{203}{}{Arf, arf, arf!}
+{202}{}{Ouaf!}
+{203}{}{Ouaf, ouaf, ouaf !}
 {204}{}{(Ti guarda amorevolmente)}
 {205}{}{Uff!}

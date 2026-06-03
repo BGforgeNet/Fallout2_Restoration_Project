@@ -36,17 +36,17 @@
 {135}{}{Il loro sangue scorrera' come il Nilo!}
 {200}{}{Benvenuto, Abitante del Vault. Per tua comodita', questo terminale Vault-Tec e' stato modificato per rispondere ai comandi vocali. Pronuncia il tuo comando adesso.}
 {201}{}{Oh, mi stai confondendo con qualcun altro. Vedi, io non sono l'Abitante del Vault, sono il Prescelto. }
-{202}{}{Run diagnostics.}
-{203}{}{Switch to keyboard input mode.}
-{204}{}{Access security footage.}
+{202}{}{Esegui diagnostica.}
+{203}{}{Passa alla modalità di inserimento da tastiera.}
+{204}{}{Accedi ai filmati di sicurezza.}
 {205}{}{Esci.}
 {206}{}{Urk?}
 {210}{}{[Una spia lampeggia sul terminale mentre emette vari suoni di clic e ronzii. Dopo alcuni secondi, del testo
  appare sul monitor.] Spiacente, non ho capito il tuo comando. Ripeti il tuo comando, assicurandoti di parlare
  direttamente nel microfono in modo chiaro e preciso. Vault-Tec si scusa per l'inconveniente. Grazie.}
-{211}{}{Run diagnostics.}
-{212}{}{Switch to keyboard input mode.}
-{213}{}{Access security footage.}
+{211}{}{Esegui diagnostica.}
+{212}{}{Passa alla modalità di inserimento da tastiera.}
+{213}{}{Accedi ai filmati di sicurezza.}
 {214}{}{Esci.}
 {220}{}{Attendi mentre avvio i controlli diagnostici..Vault-Tec apprezza la tua pazienza... Grazie per aver atteso... Controlli
  diagnostici completati. Tutti i sistemi funzionano correttamente. Dopotutto, stai usando Vault-Tec. }
@@ -54,7 +54,7 @@
 {222}{}{Esci.}
 {230}{}{Passaggio alla modalita' interfaccia manuale... modalita' interfaccia manuale avviata. Per comodita' degli altri, questo
  terminale tornera' automaticamente alla modalita' interfaccia vocale una volta effettuato il logout. Inserisci il comando.}
-{231}{}{Search database for anything of interest.}
+{231}{}{Cerca nel database qualsiasi informazione utile.}
 {232}{}{Esci.}
 {240}{}{Dopo una breve ricerca, scopri tre file che potrebbero valere un'occhiata: Guida alla Sopravvivenza dell'Abitante del Vault
  (Versione Abbreviata), Cronologia del Vault 13, e Diari del Supervisore.}
@@ -105,27 +105,27 @@
 {279}{}{Esci.}
 {280}{}{Autorizzazione richiesta. Inserisci la password. }
 {281}{}{[INDIETRO]}
-{282}{}{[Guess password]}
-{283}{}{[Attempt to hack into it.]}
+{282}{}{[Prova a indovinare la password]}
+{283}{}{[Tenta di hackerarlo]}
 {284}{}{Esci.}
-{290}{}{Incorrect. Please enter password.}
+{290}{}{Password errata. Inserire la password.}
 {291}{}{[INDIETRO]}
-{292}{}{[Guess password]}
-{293}{}{[Attempt to hack into it.]}
+{292}{}{[Prova a indovinare la password]}
+{293}{}{[Tenta di hackerarlo]}
 {294}{}{Esci.}
 {300}{}{Errata. L'accesso a questi file e' ora bloccato. Vault-Tec si scusa per l'inconveniente.}
 {301}{}{[INDIETRO]}
-{302}{}{[Attempt to hack into it.]}
+{302}{}{[Tenta di hackerarlo]}
 {303}{}{Esci.}
 {310}{}{[Provi tutto quello che ti viene in mente, ma non riesci ad ottenere l'accesso. Con un sospiro di resa, torni al menu principale.]}
-{311}{}{Run diagnostics.}
-{312}{}{Switch to keyboard input mode.}
-{313}{}{Access security footage.}
+{311}{}{Esegui diagnostica.}
+{312}{}{Passa alla modalità di inserimento da tastiera.}
+{313}{}{Accedi ai filmati di sicurezza.}
 {314}{}{Esci.}
 {320}{}{Password corretta. Tutte le voci tranne una sono state rimosse dal sistema. L'ultima voce dei Diari del Supervisore e' ancora accessibile.}
 {321}{}{[Dopo diversi lunghi minuti a lavorare la tua magia tecnica, riesci ad hackerare i Diari del Supervisore. Tuttavia, sembra che ogni voce tranne l'ultima sia stata cancellata.]}
 {322}{}{Bene, vediamo cosa aveva da dire questo Supervisore. [Leggi il diario.] }
-{323}{}{Eh, whatever. [Logoff.]}
+{323}{}{Eh, come vuoi. [Disconnessione]}
 {330}{}{E' questo. Considera queste le mie ultime parole, poiche' dubito di vivere abbastanza da scrivere un'altra voce. Oh no, la gente del Vault ha parlato, e ha reso abbastanza chiaro che vuole la mia testa. Sapevo che questo giorno sarebbe arrivato, da quando LUI e' riuscito ad agitarli facendo l'impossibile. Certo, ha salvato le nostre vite, ma ha anche rovinato tutto.}
 {331}{}{[AVANTI]}
 {332}{}{Sia noto che ho ricavato poco piacere nell'esiliare il nostro "grande eroe", ma non avevo scelta in merito. Le sue avventure nel mondo esterno lo avevano cambiato troppo. Era una minaccia troppo grande per il progetto. Se lo avessi lasciato restare tra noi, avrebbe potuto scoprire la vera natura dei Vault e mettere a rischio l'esperimento. Anche se non l'avesse fatto, avrebbe almeno ispirato gli altri ad avventurarsi fuori, il che sarebbe stato altrettanto grave.}
@@ -155,9 +155,9 @@
 {373}{}{[AVANTI]}
 {374}{}{Il Vault 68 doveva essere occupato da 999 maschi e una sola femmina. Puoi solo immaginare gli orrori che vi hanno avuto luogo... Il Vault 69, d'altro canto, doveva essere occupato da 999 femmine e un solo maschio... interessante. Gli estrusori di tute del Vault 70 erano progettati per guastarsi dopo 6 mesi. E infine, il Vault 106 era progettato in modo che 10 giorni dopo essere stato sigillato, avrebbe cominciato a "rilasciare droghe psicoattive nel sistema di filtrazione dell'aria".}
 {375}{}{Esci.}
-{500}{}{You learn about the Vault Experiments and the roles of the various Vaults.}
+{500}{}{Scopri gli Esperimenti dei Vault e i ruoli dei vari Vault.}
 {510}{}{Apprendi la storia del Vault 13 e il ruolo del Supervisore negli Esperimenti dei Vault.}
-{520}{}{I'm sorry, I did not understand that.}
+{520}{}{Mi dispiace, non ho capito.}
 {521}{}{Esci.}
 {2541}{}{Spessore porta: 4 iarde, acciaio
                                        Copertura terrestre: 3.200.000 tonnellate di terreno, a 200 piedi

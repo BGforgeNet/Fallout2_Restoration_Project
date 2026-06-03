@@ -42,7 +42,7 @@
 {141}{}{Me ha domande.}
 {142}{}{D'accordo. Vado.}
 {143}{}{Vorrei farvi alcune domande.}
-{144}{tand7a}{Beh, ho poco tempo da dedicarti. }
+{144}{tand7a}{Beh, ho poco tempo da dedicarti.}
 {145}{tand7b}{Che cosa vuoi sapere?}
 {146}{}{Cosa tu dire di Vault 15?}
 {147}{}{Tu no fare accordo con 'busivi?}
@@ -74,7 +74,7 @@
 {173}{}{Me serve sapere piu'.}
 {174}{}{Qualche altra domanda, per favore.}
 {175}{tand11}{Muoviti. Non posso perdere tutto il giorno con te.}
-{176}{}{Ok, me veloce}
+{176}{}{Ok, me veloce.}
 {177}{}{Cerchero' di fare in fretta.}
 {178}{tand12}{Vista la tuta che indossi pensavo che tu lo sapessi gia'.}
 {179}{}{Tuta stata in villaggio molto tempo. Appartenere a AbitanteVaut, fondatore di tribu'.}

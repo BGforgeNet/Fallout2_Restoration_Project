@@ -155,10 +155,10 @@
 {650}{}{Okay! Andiamo! Seguitemi!}
 {700}{}{Ok, abbiamo sistemato il gruppo rimasto qui alla chiesa, ma ci sono ancora Tyler e i suoi tirapiedi nella zona residenziale.
  Dovrebbero essere abbastanza ubriachi ormai e possiamo coglierli facilmente di sorpresa. Sei pronto a finire il lavoro?}
-{701}{}{Let me heal first. I'll tell you when I am ready.}
+{701}{}{Lasciami curare prima. Ti faro' sapere quando sono pronto.}
 {702}{}{Andiamo.}
-{710}{}{You ready to take Tyler and his crew out?}
+{710}{}{Sei pronto a fare fuori Tyler e la sua banda?}
 {720}{}{Bene, non allontanarti troppo. Dobbiamo finire tutto stanotte o lo faremo senza di te.}
-{721}{}{I'll be back shortly.}
+{721}{}{Torno presto.}
 {722}{}{Andiamo.}
 {730}{}{Ce l'abbiamo fatta. Non ci posso credere! Torniamo alla chiesa per prendere il controllo. Vieni li' per la tua ricompensa.}

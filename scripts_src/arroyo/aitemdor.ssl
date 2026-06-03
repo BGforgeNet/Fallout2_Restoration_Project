@@ -74,8 +74,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-
-/* Set up the door state when the player first enters the map */
+   /* Set up the door state when the player first enters the map */
    if (local_var(LVAR_Set_Door_Status) == 0) then begin
        set_local_var(LVAR_Set_Door_Status,1);
        set_local_var(LVAR_Trapped,TRAPPED_STATUS);
@@ -86,12 +85,12 @@ procedure map_enter_p_proc begin
        set_local_var(LVAR_Locked,STATE_ACTIVE);
    end
 
-   if ( (local_var(LVAR_Locked) == STATE_ACTIVE) and (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE) ) then begin //edit by killap - added (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE)
-       obj_lock(self_obj);
-   end else begin
-       obj_unlock(self_obj);
-       set_local_var(LVAR_Locked,STATE_INACTIVE); //added by killap
-   end
+    if ( (local_var(LVAR_Locked) == STATE_ACTIVE) and (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE) ) then begin //edit by killap - added (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE)
+        call close_and_lock_self;
+    end else begin
+        obj_unlock(self_obj);
+        set_local_var(LVAR_Locked,STATE_INACTIVE); //added by killap
+    end
 end
 
 /**************************************************************************************

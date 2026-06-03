@@ -52,12 +52,12 @@
 {151}{}{Capisco. Grazie. Arrivederci.}
 {152}{}{Ah, si'?! Ho visto alcuni dei tuoi film. Tuttavia non credo che questo sia il tuo vero nome... o sbaglio?}
 {153}{}{Certo che e' il mio vero nome.}
-{154}{}{No. Il mio vero nome e' }
+{154}{}{No. Il mio vero nome e'}
 {155}{}{Questo e' l'unico nome che ti serve sapere, vecchio.}
 {156}{}{Credo sia piuttosto improbabile. Buona giornata.}
 {157}{}{[FATTO]}
 {158}{}{Non dovresti sottovalutarmi in questo modo. So come funziona quel "mondo". Ho gia' visitato New Reno, in passato.}
-{159}{}{Okay, mi chiamo }
+{159}{}{Okay, mi chiamo}
 {160}{}{Questo e' il mio vero nome! Adesso lasciami parlare con l'Imperatore!}
 {161}{}{Eccellente. Ecco cos'e' che ti chiedo: c'e' una piccola base militare a nord di qui, chiamata Navarro. Ci sono molti vertibird, laggiu'. Abbiamo bisogno di progetti e di schemi tecnici per riuscire a costruirli anche noi. Portaceli e potrai incontrare l'Imperatore.}
 {162}{}{Va bene.}
@@ -76,7 +76,7 @@
 {175}{}{Yep. Addio.}
 {176}{}{Non aspetto altro che vedere come te la caverai. Buona giornata.}
 {177}{}{Buona giornata.}
-{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.}
+{178}{}{Sto accusando qualcuno? Chiunque abbia fatto un minimo di ricerche sa che le fondamenta di Shi?town sono i resti di questo sottomarino. È inutile discutere con chi sostiene il contrario.}
 {179}{}{E' un atteggiamento molto moderato, il suo.}
 {180}{}{Puo' dirlo forte. E pensare che io ho a che fare con persone del genere ogni giorno. Ahime'!}
 {181}{}{Beh, ho delle altre domande da farle.}

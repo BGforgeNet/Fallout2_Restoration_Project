@@ -61,7 +61,7 @@
 {160}{}{Divertiti.}
 {161}{}{Buona giornata.}
 {162}{}{Qui da Ascorti, tutti sono dei campioni.}
-{163}{}{Allora io ho detto: "togliete le vostre manacce dal mio…"}
+{163}{}{Allora io ho detto: togliete le vostre manacce dal mio…}
 {164}{}{Non credevo che qualcuno potesse essere cosi' stupido da raddoppiare la puntata.}
 {165}{}{Yup, quella io la chiamo la tipica puntata da idioti.}
 {166}{}{Cavoli, non mi sento troppo bene.}

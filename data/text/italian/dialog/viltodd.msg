@@ -1,18 +1,18 @@
-{100}{}{You see a very hyperactive little boy.}
-{101}{}{You see Little Todd.}
+{100}{}{Vedi un bambino molto iperattivo.}
+{101}{}{Vedi il piccolo Todd.}
 {200}{}{BOOM!!! Amo le 'splosioni!}
 {201}{}{Bam-bam! Io sparo ai mutanti!}
-{202}{}{I wish I saw more 'splosions!}
-{203}{}{Everything should explode!}
-{300}{}{Can you blow something up, Mister?}
+{202}{}{Vorrei vedere più esplosioni!}
+{203}{}{Tutto dovrebbe esplodere!}
+{300}{}{Puoi far esplodere qualcosa, signore?}
 {301}{}{Quando saro' grande, governero' il mondo!}
 {302}{}{Non mi piace stare qui, voglio trasferirmi sulla costa est!}
-{303}{}{My clothes are magic!}
-{304}{}{Grownups talk too much!}
+{303}{}{I miei vestiti sono magici!}
+{304}{}{I grandi parlano troppo!}
 {305}{}{La Confraternita d'Acciaio sono i cavalieri della Zona Contaminata!}
-{306}{}{All mutants are evil!}
-{307}{}{I bet my teddy bear could kill you!}
+{306}{}{Tutti i mutanti sono cattivi!}
+{307}{}{Scommetto che il mio orsacchiotto potrebbe ucciderti!}
 {308}{}{Mio papa' e' scomparso di nuovo!}
 {309}{}{A volte bevo dai cessi!}
-{310}{}{What's cont-i-newy-t mean?}
-{311}{}{Can you blow something up, Misses?}
+{310}{}{Cosa significa “cont-i-newy-t”?}
+{311}{}{Puoi far esplodere qualcosa, signora?}

@@ -1,7 +1,7 @@
 {100}{}{Vedi una guardia dall'aspetto diligente. La guardia indossa un'armatura di metallo e impugna un fucile d'assalto.}
 {101}{}{Vedi una guardia di Vault City.}
 {102}{}{Si'? Cosa c'e'?}
-{103}{}{Me va in dentro grande BUSO in lato di collina.}
+{103}{}{Me va in dentro grande BUSO in lato di collina}
 {104}{}{Vorrei entrare nel Vault.}
 {105}{}{Niente, scusa se ti ho disturbato.}
 {106}{}{Sono passate le 1800. Devi andartene.}
@@ -11,7 +11,7 @@
 {110}{}{Umag Nak!?! Umag NAK!}
 {111}{}{Chiamero' delle guardie perche' ti accompagnino fuori.}
 {112}{}{Okay. Andiamo.}
-{113}{}{Brog Frup.}
+{113}{}{Brog Frup}
 {114}{}{Non disturbarti. Posso trovare la strada da solo.}
 {115}{}{Mi dispiace, ma sono questi i miei ordini.}
 {116}{}{Okay... ma non ne sono certo felice. Potrei essere costretto a presentare un reclamo formale--}
@@ -21,7 +21,7 @@
 {120}{}{Prova solo a toccarmi, e indosserai il tuo culo come un cappello.}
 {121}{}{Salve, Cittadino. Posso aiutarla?}
 {122}{}{Vorrei entrare nel Vault.}
-{123}{}{Me va in dentro grande BUSO in lato di collina.}
+{123}{}{Me va in dentro grande BUSO in lato di collina}
 {124}{}{Per adesso no.}
 {125}{}{Mi spiace, solo ai Cittadini e' permesso entrare nel Vault. Sono sicuro che capirai.}
 {126}{}{Solo i Cittadini posso entrare. Adesso vattene.}
@@ -43,7 +43,7 @@
 {142}{}{Certo, come no? Mungoth...}
 {143}{}{Ehi, tu! Cosa ci fa quel ghoul qui a Vault City?!}
 {144}{}{Ehi, tu! Cosa ci fa quel mutante qui a Vault City?!}
-{145}{}{Breep-oop foop foop.}
+{145}{}{Breep-oop foop foop}
 {146}{}{Un ghoul? Dove?}
 {147}{}{Un mutante? Dove?}
 {148}{}{Sta con me.}

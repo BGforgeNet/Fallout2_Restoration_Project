@@ -47,7 +47,7 @@
 {243}{}{Le serve qualcosa, signore?}
 {244}{}{Se qualcuno la infastidisce, signore, ce lo faccia sapere.}
 {245}{}{Sta' in guardia, se incontri Tommy the Balls. Ha il cazzo lungo, ma la pazienza corta.}
-{246}{}{Quando lo conobbi, Mr. Salvatore era gia' cagionevole di salute. E' molto anziano.}
+{246}{}{Quando lo conobbi, Don Salvatore era gia' cagionevole di salute. E' molto anziano.}
 {247}{}{Queste nuove pistole ci hanno permesso di guadagnare terreno, qui a New Reno.}
 {248}{}{Queste nuove pistole avranno anche un aspetto strano, ma sono davvero facili da usare.}
 {249}{}{Ho sparato ad uno dei Bishop con questa pistola. Non ho aperto una voragine solamente nel suo corpo, ma ANCHE nel muro che aveva alle spalle.}

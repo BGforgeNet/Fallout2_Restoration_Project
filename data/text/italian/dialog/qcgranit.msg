@@ -59,6 +59,6 @@
 {158}{}{Okay, okay. Non posso parlare per tutti, ma la mia squadra ed io faremo del nostro meglio per aiutarti a far fuori quel mostro di Horrigan. Non ho intenzione di annegare come un ratto.}
 {159}{}{Bella pensata. Andiamo. Dobbiamo andarcene da qui.}
 {160}{}{Sergente Granite, EC Company.}
-{161}{}{EC Company?}
+{161}{}{Compagnia EC?}
 {162}{}{Enclave Control Company. Siamo i responsabili della difesa del perimetro, *di solito*.}
-{163}{}{Oh, capisco. Cosa vuol dire *di solito*?}
+{163}{}{Oh, capisco. Cosa vuol dire *di solito?*}

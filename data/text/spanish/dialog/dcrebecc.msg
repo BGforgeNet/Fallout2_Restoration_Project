@@ -170,3 +170,8 @@
 {573}{}{No me sorprendería.}
 {580}{}{Así que, ¿tú también eres un cobarde? Ya me lo figuraba.}
 {581}{}{...}
+{1230}{}{Aléjate de ahí ahora mismo.}
+{1231}{}{No vuelvas a tocarla.}
+{1232}{}{¡Atrás!}
+{1233}{}{Deja la puerta tranquila.}
+{1234}{}{¿Qué crees que estás haciendo?}

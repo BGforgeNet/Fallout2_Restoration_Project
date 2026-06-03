@@ -79,80 +79,80 @@
 {178}{}{Li ha gia' consegnati agli Hubologisti. No?}
 {179}{}{Oh, certo... ahem... Posso chiederle qualcos'altro?}
 {180}{}{Oh, certo... Arrivederci.}
-{200}{}{What else can you tell me about the tanker?}
+{200}{}{Cos'altro può dirmi riguardo al tanker?}
 {210}{}{Anche se riuscissi a far funzionare il NavCom e a rifornire la petroliera, avrai comunque bisogno di una considerevole fortuna se vuoi davvero che la nave torni a navigare.}
-{211}{}{What do you mean by 'considerable good fortune?'}
+{211}{}{Cosa intendi per “notevole buona fortuna”?}
 {220}{}{Voglio dire, quel rottame e' piu' vecchio della maggior parte dei ghoul. Sarebbe un miracolo se non ti affondasse sotto i piedi. E' tutto quello che intendevo.}
 {221}{}{Ho la sensazione che ci sia qualcosa che non mi stai dicendo sulla petroliera.}
 {230}{}{Forse si'. (sorride) Forse la terra desolata ti ha reso paranoico.}
 {231}{}{Senti, ho bisogno di trovare la mia tribu'. Quei bastardi che li hanno presi sono pericolosi e devono essere fermati.}
 {232}{}{Dai. Cosa c'e' di cosi' speciale nella petroliera? Siamo solo due persone che parlano.}
-{233}{}{You sure? I'll make it worth your while.}
-{234}{}{I don't have time for these mind games. Goodbye.}
+{233}{}{Sei sicuro? Posso rendere la cosa conveniente per te.}
+{234}{}{Non ho tempo per questi giochetti mentali. Arrivederci.}
 {240}{}{Bah. Non sono niente. Comunque, non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
-{241}{}{Submarine?}
+{241}{}{Sottomarino?}
 {250}{}{Parliamo, allora. Ma non c'e' niente di speciale nella petroliera. Te lo giuro.}
-{251}{}{What if I paid you to tell me?}
+{251}{}{E se ti pagassi per dirmelo?}
 {260}{}{Hmm... Gli affari sono stati lenti ultimamente. Potrei usare piu' clienti. O una donazione da uno molto generoso. Diciamo, 2000 dollari?}
-{261}{}{Here you go. But your information better be worth it.}
-{262}{}{$1500 and that's my final offer.}
-{263}{}{I don't think so. That's too much.}
+{261}{}{Ecco. Ma spero davvero che le informazioni valgano il prezzo.}
+{262}{}{1500$. È la mia ultima offerta.}
+{263}{}{Non credo proprio. È troppo.}
 {270}{}{(Lao Chou intasca i 2000 dollari.) Non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
-{271}{}{Submarine?}
-{280}{}{We have nothing further to discuss, then.}
+{271}{}{Sottomarino?}
+{280}{}{Allora non abbiamo altro di cui discutere.}
 {281}{}{Sei sicuro? La mia adorabile moglie Miria lo fara' valere la pena di certo.}
 {282}{}{Arrivederci.}
-{285}{}{You drive a hard bargain. Fine, $1500.}
-{286}{}{Here you go. But your information better be worth it.}
+{285}{}{Dura trattativa… va bene, 1500$.}
+{286}{}{Ecco. Ma spero davvero che le informazioni valgano il prezzo.}
 {287}{}{(Lao Chou intasca i 1500 dollari.) Non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
-{288}{}{Submarine?}
+{288}{}{Sottomarino?}
 {290}{}{Be', se la metti cosi', sono stato rinchiuso in questo negozio polveroso per molto tempo. E' passato un bel po' da quando ho goduto della compagnia di una donna affascinante come te.}
 {291}{}{[CONTINUA]}
 {300}{}{[Passano ore senza che si intraveda una fine. Cominci a sospettare che Lao Chou non sia completamente umano. Alla fine, perdi i sensi.]}
-{301}{}{hhh... What happened?}
+{301}{}{Hhh… cosa è successo?}
 {310}{}{Sei svenuto mentre ci muovevamo nella posizione del triplo?loto, e ho dovuto finire da solo con la kata del panda?sorridente.
  Ma un accordo e' un accordo. Non e' la petroliera a essere speciale — e' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}
-{311}{}{Submarine?}
-{330}{}{I... don't think so.}
+{311}{}{Sottomarino?}
+{330}{}{Non credo proprio.}
 {331}{}{Non provare a resistere ora. Mi desideri e lo sai.}
-{340}{}{No, actually. You are not my type.}
-{341}{}{Oh, I see. You're not into women.}
+{340}{}{No, davvero. Non sei il mio tipo.}
+{341}{}{Ah, capisco. Non ti piacciono le donne.}
 {350}{}{Lo so. E' solo che non ti trovo molto attraente. Forse se fossi ubriaco.}
-{351}{}{You're obviously blind. Whatever. It's your loss.}
+{351}{}{Sei chiaramente cieco. Come vuoi. Peggio per te.}
 {360}{}{Cosa stai proponendo? Ahh... beh, sono rimasto chiuso in questo negozio per molto tempo. Rivelero' tutto cio' che so
  in cambio di un assaggio delle grazie della tua amica.}
 {361}{}{Miria, tesoro... credo che dovrai, ehm, spremere questo tizio per ottenere informazioni.}
 {362}{}{Scherzavo, vecchio. Come se ti lasciassi passare del tempo con mia moglie... Me ne vado.}
 {370}{}{[Aspetti fuori e senti gemiti soffocati provenire dall'interno del Flying Dragon 8. Passa un'ora, poi un'altra.
  Bussi alla porta gridando: "Sbrigatevi la' dentro!" Alla fine, i gemiti diventano un urlo primordiale.]}
-{371}{}{[Bang on the door] Hey, what are you two doing in there!?}
+{371}{}{[Bussa alla porta] Ehi! Che state facendo lì dentro!?}
 {380}{}{Un Lao Chou sorridente esce dalla sua stanza, ancora intento a tirarsi su i pantaloni. Pochi istanti dopo Miria barcolla fuori dietro di lui, stordita e confusa ma profondamente soddisfatta.] Tua moglie e' molto piu' esperta di quanto sembri.}
 {381}{}{Lo... ehm... so. Ora tirati su quei dannati pantaloni e dimmi cosa c'e' di cosi' speciale nella petroliera.}
 {390}{}{Non c'e' nulla di speciale nella petroliera. E' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}
-{391}{}{Submarine?}
+{391}{}{Sottomarino?}
 {400}{}{Lo Shi?Huang?Ti. Mio bisnonno, Ye Li, ne era il capitano. Scateno' i suoi fuochi nucleari come un terribile drago sulla costa della California.}
-{401}{}{No shit.}
+{401}{}{Ma va’!}
 {410}{}{Ironia della sorte, un missile difettoso della nostra stessa nazione ancestrale usci' dalla rotta ed esplose sull'oceano vicino al sottomarino. L'esplosione mise fuori uso i sistemi dello Shi?Huang?Ti, lasciando il capitano Ye Li e il suo equipaggio alla deriva.}
-{411}{}{That's karma for you.}
+{411}{}{È il karma, sai com’è.}
 {420}{}{Ma ci fu salvezza. Dopo settimane alla deriva, il sottomarino si fermo' nelle acque basse della baia di San Francisco.
  Questa citta' divenne la nostra nuova casa. Alla fine restaurammo lo Shi?Huang?Ti: i suoi sistemi di puntamento, le sue armi.
  Ha abbastanza potenza di fuoco da spazzare via qualsiasi invasore. Quindi, anche se riuscissi a far partire quella vecchia petroliera,
  non andrebbe lontano: il sottomarino distruggera' qualsiasi nave non cinese che attraversi la baia.}
-{421}{}{That sounds like a problem alright. So how would I get to the submarine?}
+{421}{}{Sembra davvero un bel problema. Come faccio ad arrivare al sottomarino?}
 {430}{}{Puoi nuotare. Oppure prendere il motoscafo al molo. Ma e' sorvegliato da uno dei nostri migliori soldati, e non lascera' passare un estraneo come te.}
 {431}{}{Hai idea di come potrei passare, allora, senza sparargli in faccia?}
 {440}{}{E' sotto ordini severi di sorvegliarlo 24 ore su 24. Non lascera' passare nessuno senza la password corretta.}
-{441}{}{I don't suppose you know it?}
+{441}{}{Non sapresti dirmelo, vero?}
 {450}{}{Dipende. Non e' che per caso hai 10000$ per garantire la continua prosperita' del mio negozio?}
-{451}{}{Here's your $10000.}
+{451}{}{Ecco i tuoi 10000$.}
 {452}{}{E' assurdo per una semplice password. Arrivo al massimo a 5000$.}
 {453}{}{No.}
 {460}{}{Ah, molto apprezzato. La password e' XY8QIV2SHI. Potrebbero tenermi d'occhio dopo questo, quindi non dimenticarla. Se dovessimo parlarne di nuovo, avro' bisogno di ancora piu' soldi per le tangenti.}
 {461}{}{Grazie. Arrivederci.}
 {470}{}{Sei furbo, questo te lo concedo. Va bene. Accetto la tua offerta. La password e' XY8QIV2SHI. Non dimenticarla, o dovrai ricomprarla da me.}
 {471}{}{Grazie. Arrivederci.}
-{480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
-{481}{}{Fine. Here's your $10000.}
+{480}{}{Non insultarmi con offerte ridicole. 10000$. Prendere o lasciare.}
+{481}{}{Va bene. Ecco i tuoi 10000$.}
 {482}{}{No.}
-{490}{}{Your loss then. I don't believe we have anything else to discuss. Goodbye.}
+{490}{}{Peggio per te. Non abbiamo altro di cui parlare. Addio.}
 {491}{}{Addio.}

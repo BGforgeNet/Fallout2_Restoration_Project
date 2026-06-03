@@ -3,7 +3,7 @@
 {102}{}{SALVA}
 {103}{}{SALVATAGGIO RAPIDO}
 {104}{}{OK}
-{105}{}{CANC.}
+{105}{}{CANC}
 {106}{}{Errore nel caricamento della lista giochi salvati!}
 {107}{}{La directory giochi salvati:}
 {108}{}{Non esiste o e' danneggiata.}
@@ -38,5 +38,5 @@
 {137}{}{Mappa}
 {140}{}{Gioco Salvato.}
 {141}{}{Gioco Caricato.}
-{200}{}{Sorry you can't save or load}
+{200}{}{Spiacente, non puoi salvare o caricare}
 {201}{}{in the demo version.}

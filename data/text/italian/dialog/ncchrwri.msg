@@ -4,7 +4,7 @@
 {200}{}{Ehi! }
 {201}{}{Che ganzo, }
 {202}{}{Sei un maranza, }
-{203}{}{::Cheers::}
+{203}{}{::Saluti::}
 {204}{}{::Applaude::}
 {205}{}{::Fischia::}
 {215}{}{Come fai ad andare in bagno con quella roba indosso?}
@@ -64,7 +64,7 @@
 {355}{}{Cos'e', uno scherzo? Se e' cosi', ti sei dimenticato di aggiungere la parte divertente. Stai cercando di avere dei casini con la Famiglia Wright?}
 {356}{}{Se sto cercando dei casini? No, sto solo cercando di farvi TUTTI SECCHI.}
 {357}{}{Si', mi dispiace. Non intendevo dire nulla di male. Senti, avrei delle altre domande…}
-{358}{}{Si', alla perfezione. Credo sia meglio che me ne vada.}
+{358}{}{Si', alla perfezione. Credo sia meglio che me ne vada. }
 {365}{}{(Alza le spalle.) Semplicemente non presta attenzione a quello che succede intorno a lei. Le voglio bene, certo, ma a volte e' piu' testarda di un mulo e piu' cieca di una talpa.}
 {366}{}{Beh, non molto tempo fa, ha fatto dei casini con il nostro distillatore e ha mandato in malora l'intera distilleria, distruggendo la nostra fonte di reddito! Le voglio bene, certo, ma a volte e' piu' cieca di una talpa.}
 {367}{}{Eh eh. E le assomiglia, anche.}

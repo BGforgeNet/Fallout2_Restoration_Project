@@ -32,7 +32,7 @@
 {181}{}{Sei stupido come un sasso, vero?}
 {182}{}{Non cadere nel pozzo del reattore.}
 {183}{}{Uh, adesso sono troppo occupato per leggerti una storia.}
-{184}{}{Continua a camminare... va' avanti. E bravo pelle-liscia!}
+{184}{}{Avanti, muoviti… su. Bravo, bel pelleliscia.}
 {190}{}{Ti serve un che? Beh, dovrai metterti in lista d'attesa per uno di quelli. Ti serve qualcos'altro?}
 {191}{}{Uh, credo che mi accontentero' di un trasformatore di plasma trifasico.}
 {192}{}{Diamine. No, non voglio nient'altro. Dovro' tornare un'altra volta. Arrivederci.}

@@ -1,1 +1,1 @@
-{100}{}{You see no way in which you could open the door.}
+{100}{}{Non vedi alcun modo per aprire la porta.}

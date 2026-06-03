@@ -193,3 +193,8 @@
 {573}{}{I wouldn't be surprised.}
 {580}{}{So, you're a coward too? Figures.}
 {581}{}{...}
+{1230}{}{Get away from that right now.}
+{1231}{}{Don't touch that again.}
+{1232}{}{Back off!}
+{1233}{}{Leave that alone.}
+{1234}{}{What do you think you're doing?}

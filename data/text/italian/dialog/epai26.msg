@@ -1,2 +1,2 @@
-{100}{}{You press the trigger but nothing happens.}
-{101}{}{You press the trigger and detonate the dynamite.}
+{100}{}{Premi il grilletto ma non succede nulla.}
+{101}{}{Premi il grilletto e fai esplodere la dinamite.}

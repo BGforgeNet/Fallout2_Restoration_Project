@@ -117,14 +117,14 @@ procedure Node029;
 /* Local variables which do not need to be saved between map changes. */
 variable prev_node;
 import variable becky_guard_obj;
+import variable becky_obj;
 
 procedure start begin
 end
 
 procedure timed_event_p_proc begin
-   if (fixed_param == timed_event_float) then begin
-      if (combat_is_initialized == false) then begin
-      end
+   if (fixed_param == timed_event_door_tamper) then begin
+      floater_rand(1230, 1234);
    end
 end
 
@@ -137,6 +137,7 @@ procedure map_enter_p_proc begin
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
    end
+   becky_obj = self_obj;
 end
 
 procedure map_exit_p_proc begin

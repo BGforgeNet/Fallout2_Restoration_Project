@@ -30,8 +30,8 @@
 {220}{}{es golpeado al azar}
 {221}{}{se rompe un miembro al azar}
 {222}{}{le alcanzan los fragmentos}
-{250}{female_pc}{knocked out}
-{251}{female_pc}{knocked down}
+{250}{female_pc}{queda fuera de combate}
+{251}{female_pc}{tumbada}
 {252}{female_pc}{crippled your left leg}
 {253}{female_pc}{crippled your right leg}
 {254}{female_pc}{crippled your left arm}

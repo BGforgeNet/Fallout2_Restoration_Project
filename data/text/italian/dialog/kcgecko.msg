@@ -4,7 +4,7 @@
 {200}{}{Ti troverai benissimo qui.}
 {201}{}{Perche' non ci offri un giro di bevute?}
 {202}{}{Vuoi sfidare i Dunton a braccio di ferro?}
-{203}{}{Arrivi dal Den, per caso?}
+{203}{}{Hai l'aria di uno che viene da nord, da Den.}
 {204}{}{Cos'hai da guardare?}
 {205}{}{Hai una pelle cosi' liscia, dolcezza. Heh, heh, heh.}
 {206}{}{Urp, avrei proprio bisogno di un altro boccale di piscio di gecko.}

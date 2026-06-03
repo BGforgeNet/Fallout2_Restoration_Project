@@ -137,21 +137,17 @@ no alizar de porta.}
 {174}{}{A sua falta de habilidade emperrou a trava na porta.}
 {175}{}{ falhou em arrombar a fechadura dessa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
-{177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
-  toma um ponto de dano.}
-{178}{}{Você pressiona suas costas enquanto tenta abrir o
- bloqueio e toma }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and take }
 {179}{}{ pontos de dano.}
-{180}{}{Você é muito fraco para ultrapassar o bloqueio.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ arrombou a fechadura da porta.}
-{182}{}{ Estica as costas enquanto tenta violar a fechadura e
- recebe pontos de dano.}
-{183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}
-{186}{}{ massageia suas costas enquanto tenta arrombar a fechadura e leva
- um ponto de dano.}
-{187}{}{ pressiona suas costas enquanto tenta abrir o bloqueio e toma}
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ pontos de dano.}
 {189}{}{Você seguramente bloqueia a porta.}
 {190}{}{Você não bloqueia a porta.}

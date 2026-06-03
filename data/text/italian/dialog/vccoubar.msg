@@ -105,7 +105,7 @@
 {204}{}{Andro' a darci un'occhiata, grazie.}
 {205}{}{Forse andro' da qualche altra parte, allora.}
 {206}{}{Forse dovrebbe recarsi al nostro Centro Informazioni, invece di starsene qui. Lo puo' trovare vicino ai cancelli cittadini. Adesso se ne vada... ho altri clienti.}
-{207}{}{Aspetta, volevo qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
+{207}{}{Aspetta, volevo da bere. Cosa hai alla spina?}
 {208}{}{No, credo che prima tu mi dirai quello che voglio sapere. E vedi anche di moderare il tono, se non vuoi avere guai.}
 {209}{}{Bene. Allora, buona giornata.}
 {210}{}{Certo. Che cosa le serve sapere, signore?}
@@ -114,33 +114,33 @@
 {213}{}{Certo. Che cosa le serve sapere, Cittadino?}
 {214}{}{Puoi dirmi chi e' il leader di Vault City?}
 {215}{}{Puoi dirmi due parole riguardo alla pratica della schiavitu' qui a Vault City?}
-{216}{}{Lasciamo perdere. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
+{216}{}{Lascia perdere. Volevo da bere. Cosa hai alla spina?}
 {217}{}{Per oggi niente, grazie.}
 {218}{}{Beh, e' il Primo Cittadino Lynette, naturalmente. Ricopre questa carica da quasi due mandati. Sebbene debba comunque rendere conto al Consiglio, e' la responsabile primaria per quanto riguarda i punti fondamentali della legislazione di Vault City.}
 {219}{}{Al Consiglio?}
 {220}{}{Puoi dirmi due parole riguardo alla pratica della schiavitu' qui a Vault City?}
-{221}{}{Lasciamo perdere. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
+{221}{}{Lascia perdere. Volevo da bere. Cosa hai alla spina?}
 {222}{}{Interessante. Grazie delle informazioni. Arrivederci.}
 {223}{}{Si', esiste anche un Consiglio cittadino di Vault City. Il suo portavoce e' il Senatore McClure. (Si avvicina) McClure e il Primo Cittadino si sono scontrati parecchie volte, infatti.}
 {224}{}{Davvero...?}
 {225}{}{Puoi dirmi due parole riguardo alla pratica della schiavitu' qui a Vault City?}
-{226}{}{Lasciamo perdere. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
+{226}{}{Lascia perdere. Volevo da bere. Cosa hai alla spina?}
 {227}{}{Interessante. Grazie delle informazioni. Arrivederci.}
 {228}{}{Oh, si'. Ultimamente, alcuni Cittadini hanno chiesto a McClure e al Consiglio di annullare alcune delle decisioni del Primo Cittadino. E lasci che glielo dica, la cosa ha creato un bel po' di scalpore.}
 {229}{}{Hmmm. Mi piacerebbe sapere qualcos'altro...}
-{230}{}{Capisco. Beh, adesso vorrei bere qualcosa. Che cosa avete? Ho una sete del demonio...}
+{230}{}{Capisco. Beh, potrei usare un drink. Cosa hai alla spina?}
 {231}{}{Interessante. Grazie delle informazioni. Arrivederci.}
 {232}{}{Oh, no, no... non e' schiavitu'. Le persone che vede lavorare qui a Vault City sono servi... me incluso. Ci trattano molto bene, ci hanno insegnato a leggere e a scrivere, ci forniscono assistenza medica, un tetto e il cibo.}
 {233}{}{Avete tutto tranne la liberta', eh?}
 {234}{}{Se non avete nulla di cui lamentarvi, allora il problema non sussiste. Come non detto.}
-{235}{}{Lasciamo perdere. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
+{235}{}{Lascia perdere. Volevo da bere. Cosa hai alla spina?}
 {236}{}{Capisco. Beh, grazie per aver parlato con me. Addio.}
 {237}{}{Se non vuole ordinare qualcosa da bere, forse farebbe meglio ad andarsene, signora.}
 {238}{}{Se non vuole ordinare qualcosa da bere, forse farebbe meglio ad andarsene, signore.}
 {239}{}{Se non vi lamentate della vostra condizione di... servi, allora il problema non sussiste. Come non detto.}
-{240}{}{Prendero' qualcosa da bere, allora. Che cosa avete? Ho una sete del demonio...}
+{240}{}{Allora prendo qualcosa da bere. Cosa hai alla spina?}
 {241}{}{Forse hai ragione. Buona giornata.}
 {242}{}{D'accordo. C'e' qualcos'altro che posso fare per aiutarla?}
-{243}{}{Prendero' qualcosa da bere, allora. Che cosa avete? Ho una sete del demonio...}
+{243}{}{Allora prendo qualcosa da bere. Cosa hai alla spina?}
 {244}{}{Non adesso. Buona giornata.}
 {245}{}{Zzzzzz.}

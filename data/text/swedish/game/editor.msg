@@ -74,7 +74,7 @@
 {301}{}{Action Points }
 {302}{editor}{Armor Class}
 {303}{}{Unarmed Damage}
-{304}{}{Melee Damage}
+{304}{editor}{Melee Damage}
 {305}{}{Damage Res.  }
 {306}{}{Poison Res.   }
 {307}{}{Radiation Res.}

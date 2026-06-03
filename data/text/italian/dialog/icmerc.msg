@@ -8,7 +8,7 @@
 {204}{}{All'erta, ragazzi, abbiamo un intruso!}
 {205}{}{Bene, sembra che qualcuno abbia voglia di farsi ammazzare…}
 {206}{}{Dannazione! Qualcuno ci ha scoperto!}
-{207}{}{Sbaglio o e' puzza di cadavere, quella che sento?}
+{207}{}{Hai un bel po’ di fegato a presentarti qui…}
 {208}{}{Sei appena entrata nel posto *sbagliato*, troia.}
 {209}{}{Beh, non si puo' dire che questa puttana non sia coraggiosa...}
 {250}{}{Siamo andati fuori a bere, e lui l'ha definita "ora di correzione comportamentale". Allora noi gli abbiamo rotto il culo.}

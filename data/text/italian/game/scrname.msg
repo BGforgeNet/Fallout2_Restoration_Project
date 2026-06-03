@@ -13,7 +13,7 @@
 {113}{}{Porta}
 {114}{}{Generico}
 {115}{}{Baule}
-{116}{}{Lockbox}
+{116}{}{Cassaforte}
 {117}{}{un Brahmin}
 {118}{}{una Pianta Sporigena}
 {119}{}{}
@@ -56,20 +56,20 @@
 {156}{}{un'Abitante del Villaggio}
 {157}{}{Raid Schiavista}
 {158}{}{il Carro Schiavista}
-{159}{}{Den Business Area}
-{160}{}{Den Business Area}
-{161}{}{Den Residential Area}
-{162}{}{Grave}
-{163}{}{Grave}
-{164}{}{Grave}
+{159}{}{Den, Zona Commerciale}
+{160}{}{Den, Zona Commerciale}
+{161}{}{Den Zona Residenziale}
+{162}{}{Tomba}
+{163}{}{Tomba}
+{164}{}{Tomba}
 {165}{}{Ossa}
 {166}{}{Diario}
 {167}{}{Medaglione}
 {168}{}{Distillatore}
-{169}{}{Grave}
-{170}{}{Black Jack}
+{169}{}{Tomba}
+{170}{}{Tavolo del Black Jack}
 {171}{}{uno Schiavo}
-{172}{}{Black Jack}
+{172}{}{Tavolo del Black Jack}
 {173}{}{Porta}
 {174}{}{Whiskey Bob}
 {175}{}{Dadi}
@@ -80,9 +80,9 @@
 {180}{}{Maida}
 {181}{}{Sajag}
 {182}{}{Sally}
-{183}{}{Smiley}
+{183}{}{Sorridente}
 {184}{}{Jenny}
-{185}{}{Slim}
+{185}{}{Magro}
 {186}{}{Torr}
 {187}{}{uno dei due Dunton}
 {188}{}{un Cittadino}
@@ -112,10 +112,10 @@
 {212}{}{la Sig.ra Smith}
 {213}{}{Melinda}
 {214}{}{una Trapper}
-{215}{}{Mr. Smith}
+{215}{}{Signor Smith}
 {216}{}{Skeeve}
 {217}{}{il Proconsole Gregory}
-{218}{}{Infermiera Phyllis.}
+{218}{}{Infermiera Phyllis}
 {219}{}{Randal}
 {220}{}{Sostanza Gelatinosa}
 {221}{}{Barkus}
@@ -132,7 +132,7 @@
 {232}{}{Gordon}
 {233}{}{Hank}
 {234}{}{Jeremy}
-{235}{}{Lumpy}
+{235}{}{Bitorzoluto}
 {236}{}{Skeeter}
 {237}{}{Zomak}
 {238}{}{Wooz}
@@ -143,14 +143,14 @@
 {243}{}{una Guardia Ghoul}
 {244}{}{un Robot}
 {245}{}{un Cittadino Ghoul}
-{246}{}{Map Script}
-{247}{}{Map Script}
-{248}{}{Map Script}
+{246}{}{Script Mappa}
+{247}{}{Script Mappa}
+{248}{}{Script Mappa}
 {249}{}{un Robot della Sicurezza}
 {250}{}{un Robot Riparatore}
-{251}{}{Holodisk}
-{252}{}{Holodisk}
-{253}{}{Holodisk}
+{251}{}{Olodisco}
+{252}{}{Olodisco}
+{253}{}{Olodisco}
 {254}{}{Terminale}
 {255}{}{Terminale}
 {256}{}{Terminale}
@@ -167,8 +167,8 @@
 {267}{}{BrainBot}
 {268}{}{Ascensore}
 {269}{}{Ascensore}
-{270}{}{Lockbox}
-{271}{}{Lockbox}
+{270}{}{Cassaforte}
+{271}{}{Cassaforte}
 {272}{}{Tandi}
 {273}{}{Trappola-Lancia}
 {274}{}{Trappola-Lancia}
@@ -187,16 +187,16 @@
 {287}{}{Trappola-Lancia}
 {288}{}{Trappola-Lancia}
 {289}{}{Grotta Fantasma Uno}
-{290}{}{Ghost Cave Two}
+{290}{}{Grotta Fantasma Due}
 {291}{}{Fattoria Fantasma}
-{292}{}{Modoc Brahmin Field}
-{293}{}{Modoc Garden}
-{294}{}{Modoc Inn}
-{295}{}{Modoc Main}
-{296}{}{Modoc Shit}
-{297}{}{Mod Well}
+{292}{}{Campo dei Brahmin di Modoc}
+{293}{}{Giardino di Modoc}
+{294}{}{Locanda di Modoc}
+{295}{}{Modoc Centrale}
+{296}{}{Il letamaio di Modoc}
+{297}{}{Pozzo di Modoc}
 {298}{}{Ncr Area 2}
-{299}{}{Arroyo Gardens}
+{299}{}{Giardini di Arroyo}
 {300}{}{Gecko}
 {301}{}{Fiore di Broc}
 {302}{}{Radice di Xander}
@@ -216,39 +216,39 @@
 {316}{}{Feargus}
 {317}{}{Pozzo}
 {318}{}{Gruthar}
-{319}{}{Map Script}
+{319}{}{Script Mappa}
 {320}{}{Doofus}
 {321}{}{Nagor}
 {322}{}{Smoke}
 {323}{}{Ncr Area 1}
 {324}{}{Ncr Area 3}
 {325}{}{Ncr Area 4}
-{326}{}{Ncr Area Entrance}
+{326}{}{Ingresso Area Ncr}
 {327}{}{Mikey}
 {328}{}{Scatola di Mikey}
-{329}{}{Emitter}
-{330}{}{Emitter}
-{331}{}{Emitter}
-{332}{}{Emitter}
-{333}{}{Emitter}
-{334}{}{Emitter}
-{335}{}{Emitter}
-{336}{}{Emitter}
-{337}{}{Emitter}
-{338}{}{Emitter}
-{339}{}{Emitter}
-{340}{}{Force Field}
-{341}{}{Force Field}
-{342}{}{Force Field}
-{343}{}{Force Field}
-{344}{}{Force Field}
-{345}{}{Force Field}
-{346}{}{Force Field}
-{347}{}{Force Field}
-{348}{}{Force Field}
-{349}{}{Force Field}
-{350}{}{Force Field}
-{351}{}{Klaxon}
+{329}{}{Emettitore}
+{330}{}{Emettitore}
+{331}{}{Emettitore}
+{332}{}{Emettitore}
+{333}{}{Emettitore}
+{334}{}{Emettitore}
+{335}{}{Emettitore}
+{336}{}{Emettitore}
+{337}{}{Emettitore}
+{338}{}{Emettitore}
+{339}{}{Emettitore}
+{340}{}{Campo di Forza}
+{341}{}{Campo di Forza}
+{342}{}{Campo di Forza}
+{343}{}{Campo di Forza}
+{344}{}{Campo di Forza}
+{345}{}{Campo di Forza}
+{346}{}{Campo di Forza}
+{347}{}{Campo di Forza}
+{348}{}{Campo di Forza}
+{349}{}{Campo di Forza}
+{350}{}{Campo di Forza}
+{351}{}{Sirena}
 {352}{}{Buster}
 {353}{}{Scaffale}
 {354}{}{Scaffale}
@@ -259,8 +259,8 @@
 {359}{}{una Guardia}
 {360}{}{un Cliente del Rawhide}
 {361}{}{Pavimento}
-{362}{}{Plasma Trap}
-{363}{}{Plasma Trap}
+{362}{}{Trappola al Plasma}
+{363}{}{Trappola al Plasma}
 {364}{}{Terminale}
 {365}{}{Bacheca degli Annunci}
 {366}{}{Cancello}
@@ -269,53 +269,53 @@
 {369}{}{Porta}
 {370}{}{}
 {371}{}{}
-{372}{}{Map Script}
-{373}{}{Map Script}
-{374}{}{Map Script}
-{375}{}{Map Script}
-{376}{}{Map Script}
-{377}{}{Map Script}
-{378}{}{Map Script}
-{379}{}{Map Script}
-{380}{}{Map Script}
-{381}{}{Map Script}
-{382}{}{Map Script}
-{383}{}{Map Script}
-{384}{}{Map Script}
-{385}{}{Map Script}
-{386}{}{Map Script}
-{387}{}{Map Script}
-{388}{}{Map Script}
-{389}{}{Map Script}
-{390}{}{Map Script}
-{391}{}{Map Script}
-{392}{}{Map Script}
-{393}{}{Map Script}
-{394}{}{Map Script}
-{395}{}{Map Script}
+{372}{}{Script Mappa}
+{373}{}{Script Mappa}
+{374}{}{Script Mappa}
+{375}{}{Script Mappa}
+{376}{}{Script Mappa}
+{377}{}{Script Mappa}
+{378}{}{Script Mappa}
+{379}{}{Script Mappa}
+{380}{}{Script Mappa}
+{381}{}{Script Mappa}
+{382}{}{Script Mappa}
+{383}{}{Script Mappa}
+{384}{}{Script Mappa}
+{385}{}{Script Mappa}
+{386}{}{Script Mappa}
+{387}{}{Script Mappa}
+{388}{}{Script Mappa}
+{389}{}{Script Mappa}
+{390}{}{Script Mappa}
+{391}{}{Script Mappa}
+{392}{}{Script Mappa}
+{393}{}{Script Mappa}
+{394}{}{Script Mappa}
+{395}{}{Script Mappa}
 {396}{}{Distillatore}
 {397}{}{un Cliente del Bar}
 {398}{}{un Cliente del Bar}
 {399}{}{Vortis}
 {400}{}{un'Inserviente della Bath House}
 {401}{}{uno Schiavo}
-{402}{}{Scorpion}
+{402}{}{Scorpione}
 {403}{}{un Brahmin}
 {404}{}{Automobile}
 {405}{}{Tavolo}
-{406}{}{Map Script}
-{407}{}{Map Script}
-{408}{}{Map Script}
-{409}{}{Map Script}
+{406}{}{Script Mappa}
+{407}{}{Script Mappa}
+{408}{}{Script Mappa}
+{409}{}{Script Mappa}
 {410}{}{Corvega}
-{411}{}{Map Script}
-{412}{}{Metal Door}
-{413}{}{Map Script}
-{414}{}{Map Script}
-{415}{}{Map Script}
-{416}{}{Lockbox}
-{417}{}{Lockbox}
-{418}{}{Lockbox}
+{411}{}{Script Mappa}
+{412}{}{Porta in Metallo}
+{413}{}{Script Mappa}
+{414}{}{Script Mappa}
+{415}{}{Script Mappa}
+{416}{}{Cassaforte}
+{417}{}{Cassaforte}
+{418}{}{Cassaforte}
 {419}{}{Ratch}
 {420}{}{un Pugile}
 {421}{}{Pete McKneely}
@@ -328,10 +328,10 @@
 {428}{}{un Cliente del Casino'}
 {429}{}{un Pappone}
 {430}{}{un Drogato}
-{431}{}{Furniture}
+{431}{}{Mobili}
 {432}{}{Pavimento}
 {433}{}{Terreno}
-{434}{}{Holodisk}
+{434}{}{Olodisco}
 {435}{}{Lenny}
 {436}{}{Scatola}
 {437}{}{una Prostituta}
@@ -339,8 +339,8 @@
 {439}{}{Rico}
 {440}{}{un'Attrice Porno}
 {441}{}{un'Assistente}
-{442}{}{Map Script}
-{443}{}{Wolf}
+{442}{}{Script Mappa}
+{443}{}{Lupo}
 {444}{}{Generatore}
 {445}{}{Porta}
 {446}{}{Super mutanti}
@@ -350,24 +350,24 @@
 {450}{}{uno dei Figli di Wright}
 {451}{}{un Buttafuori del Casino'}
 {452}{}{Mira}
-{453}{}{New Reno Virgin Street}
-{454}{}{New Reno 2nd Street}
-{455}{}{New Reno Commercial Row}
-{456}{}{New Reno East Side}
-{457}{}{New Reno Stables}
-{458}{}{New Reno Chop Shop}
+{453}{}{New Reno - Via della Vergine}
+{454}{}{New Reno - Seconda Strada}
+{455}{}{New Reno - Viale Commerciale}
+{456}{}{New Reno - Lato Est}
+{457}{}{New Reno - Scuderie}
+{458}{}{New Reno - Officina di smontaggio}
 {459}{}{New Reno Gologtha}
-{460}{}{New Reno Bishop Basement}
-{461}{}{Holodisk}
-{462}{}{Holodisk}
-{463}{}{Holodisk}
-{464}{}{Holodisk}
-{465}{}{Holodisk}
+{460}{}{New Reno - Sotterranei dei Bishop}
+{461}{}{Olodisco}
+{462}{}{Olodisco}
+{463}{}{Olodisco}
+{464}{}{Olodisco}
+{465}{}{Olodisco}
 {466}{}{una Guardia}
 {467}{}{Carretto da Minatore}
 {468}{}{Melchior}
 {469}{}{una Bestia Mutante}
-{470}{}{FEV Goo}
+{470}{}{Melma FEV}
 {471}{}{il Capitano delle Guardie}
 {472}{}{un Guardiano degli Schiavi}
 {473}{}{uno dei Cuccioli di Melchior}
@@ -378,12 +378,12 @@
 {478}{}{un Bambino}
 {479}{}{Sheb}
 {480}{}{una Guardia}
-{481}{}{Emitter}
-{482}{}{Force Field}
+{481}{}{Emettitore}
+{482}{}{Campo di Forza}
 {483}{}{Sulik}
 {484}{}{il Dr. Henry}
 {485}{}{una Guardia}
-{486}{}{Carlson Guards Attack}
+{486}{}{Attacco delle guardie di Carlson}
 {487}{}{una Guardia di Carlson addetta al Cancello}
 {488}{}{un Prigioniero}
 {489}{}{un Prigioniero}
@@ -409,16 +409,16 @@
 {509}{}{Bob}
 {510}{}{una Ragazza del Casino'}
 {511}{}{una Ragazza del Casino'}
-{512}{}{Magic Eight Ball}
+{512}{}{Palla Magica 8}
 {513}{}{un Brahmin}
 {514}{}{Slot Machine}
 {515}{}{il Vecchio McGee}
-{516}{}{Three Card Monte}
+{516}{}{Gioco delle Tre Carte}
 {517}{}{Algernon}
 {518}{}{Bill}
 {519}{}{una Guardia del Corpo di Bishop}
 {520}{}{John Bishop}
-{521}{}{Casino Machine}
+{521}{}{Macchina da Casinò}
 {522}{}{un "Chop Shop Boy"}
 {523}{}{Chris Wright}
 {524}{}{Cody}
@@ -452,7 +452,7 @@
 {552}{}{Miss Kitty}
 {553}{}{un Barista}
 {554}{}{il Vicesceriffo Karl}
-{555}{}{Cell Door}
+{555}{}{Porta della Cella}
 {556}{}{Big Jesus Mordino}
 {557}{}{Hoss}
 {558}{}{Siero Mutagenico}
@@ -502,7 +502,7 @@
 {602}{}{un Ladro di Bestiame}
 {603}{}{un Abusivo}
 {604}{}{un Abolizionista}
-{605}{}{un Donna Contrabbandiere}
+{605}{}{una Contrabbandiera}
 {606}{}{Super mutanti}
 {607}{}{un Pescatore}
 {608}{}{Schiavista}
@@ -526,14 +526,14 @@
 {626}{}{Dar}
 {627}{}{Dave}
 {628}{}{Gordon}
-{629}{}{Out of Business Sign}
-{630}{}{Reactor Control Machinery}
+{629}{}{Cartello "Chiuso per fallimento"}
+{630}{}{Macchinari di controllo del reattore}
 {631}{}{Jimmy}
 {632}{}{Joseph}
 {633}{}{Matt}
 {634}{}{}
-{635}{}{Map Script}
-{636}{}{V13 map script}
+{635}{}{Script Mappa}
+{636}{}{Script mappa V13}
 {637}{}{Sandy}
 {638}{}{Scatola}
 {639}{}{Thearn}
@@ -541,17 +541,17 @@
 {641}{}{Scatola}
 {642}{}{Valdis}
 {643}{}{Computer Terminal}
-{644}{}{Metal Locker}
+{644}{}{Armadietto Metallico}
 {645}{}{Contenitore}
 {646}{}{una Guardia Deathclaw}
 {647}{}{Goris}
 {648}{}{Scatola}
-{649}{}{Metal Locker}
+{649}{}{Armadietto Metallico}
 {650}{}{un Imbroglione}
-{651}{}{V15 map Script}
+{651}{}{Script mappa V15}
 {652}{}{Phil}
 {653}{}{Bill}
-{654}{}{Butcher}
+{654}{}{Macellaio}
 {655}{}{Dalia}
 {656}{}{John}
 {657}{}{Jones}
@@ -572,12 +572,12 @@
 {672}{}{Cassidy}
 {673}{}{Pozzo}
 {674}{}{un Ratto-talpa}
-{675}{}{Brahmin Chunk}
+{675}{}{Pezzo di Brahmin}
 {676}{}{un Brahmin}
 {677}{}{Porta dell'Ascensore}
 {678}{}{un Cane}
 {679}{}{un Ratto}
-{680}{}{Sun Spot}
+{680}{}{Macchia di Sole}
 {681}{}{Bess}
 {682}{}{Scatola}
 {683}{}{una Croupier}
@@ -606,8 +606,8 @@
 {706}{}{il Supervisore}
 {707}{}{Zaius}
 {708}{}{Jacob}
-{709}{}{Chemistry Set}
-{710}{}{Prop}
+{709}{}{Kit di chimica}
+{710}{}{Ogg. Scena}
 {711}{}{Porta}
 {712}{}{Computer}
 {713}{}{Chad}
@@ -627,7 +627,7 @@
 {727}{}{Schiavista}
 {728}{}{uno Schiavo}
 {729}{}{un Partecipante al Party}
-{730}{}{Mantis}
+{730}{}{Mantide}
 {731}{}{un Brahmin}
 {732}{}{un Cane Selvatico}
 {733}{}{Computer}
@@ -635,50 +635,50 @@
 {735}{}{Computer Terminal}
 {736}{}{Computer}
 {737}{}{Generatore Elettrico}
-{738}{}{Force Field}
+{738}{}{Campo di Forza}
 {739}{}{un Contadino}
-{740}{}{Emitter}
+{740}{}{Emettitore}
 {741}{}{Porta del Vault}
 {742}{}{Porta di Sicurezza}
-{743}{}{Bess Encounter}
+{743}{}{Incontro con Bess}
 {744}{}{Bess}
 {745}{}{un Brahmin}
 {746}{}{Angela Bishop}
-{747}{}{Tommy "The Balls"}
-{748}{}{Safe}
-{749}{}{Safe}
-{750}{}{Safe}
-{751}{}{Safe}
-{752}{}{Grave}
+{747}{}{Tommy "Palle d’Acciaio"}
+{748}{}{Sicura}
+{749}{}{Sicura}
+{750}{}{Sicura}
+{751}{}{Sicura}
+{752}{}{Tomba}
 {753}{}{Credenza}
-{754}{}{Grave}
+{754}{}{Tomba}
 {755}{}{Distillatore}
 {756}{}{Ramirez}
-{757}{}{Cave 1 Random Encounter Map}
+{757}{}{Mappa incontro casuale - Caverna 1}
 {758}{}{Scatola}
 {759}{}{Porta}
-{760}{}{Cave 2 Random Encounter Map}
-{761}{}{Cave 3 Random Encounter Map}
-{762}{}{Cave 4 Random Encounter Map}
-{763}{}{Cave 2 Random Encounter Map}
+{760}{}{Mappa incontro casuale - Caverna 2}
+{761}{}{Mappa incontro casuale - Caverna 3}
+{762}{}{Mappa incontro casuale - Caverna 4}
+{763}{}{Mappa incontro casuale - Caverna 2}
 {764}{}{Porta}
-{765}{}{Map Script}
-{766}{}{Trap Door}
-{767}{}{Lockbox}
-{768}{}{Room}
+{765}{}{Script Mappa}
+{766}{}{Botola}
+{767}{}{Cassaforte}
+{768}{}{Stanza}
 {769}{}{Thomas Moore}
 {770}{}{Porta}
 {771}{}{Armadietto}
 {772}{}{Tombino}
-{773}{}{Grave}
+{773}{}{Tomba}
 {774}{}{la Guardia del Magazzino}
-{775}{}{Map Script}
-{776}{}{Map Script}
+{775}{}{Script Mappa}
+{776}{}{Script Mappa}
 {777}{}{Brahmin Pazzo}
 {778}{}{Hakeswill}
-{779}{}{Redding Downtown}
-{780}{}{Map Script}
-{781}{}{Map Script}
+{779}{}{Redding - Centro}
+{780}{}{Script Mappa}
+{781}{}{Script Mappa}
 {782}{}{Lou}
 {783}{}{Artu'}
 {784}{}{Robin}
@@ -694,7 +694,7 @@
 {794}{}{Marge}
 {795}{}{Madame Modjeska}
 {796}{}{James Hoffy}
-{797}{}{Map Script}
+{797}{}{Script Mappa}
 {798}{}{Patsy}
 {799}{}{Concorde}
 {800}{}{Eric}
@@ -712,7 +712,7 @@
 {812}{}{Scatola}
 {813}{}{Scatola}
 {814}{}{Scatola}
-{815}{}{Map Script}
+{815}{}{Script Mappa}
 {816}{}{Ratto Vorpal}
 {817}{}{un Cane}
 {818}{}{il Sergente Istruttore}
@@ -722,14 +722,14 @@
 {822}{}{Chris}
 {823}{}{il Furiere}
 {824}{}{una Guardia}
-{825}{}{Grave}
+{825}{}{Tomba}
 {826}{}{Automobile}
 {827}{}{Automobile}
-{828}{}{Grave}
+{828}{}{Tomba}
 {829}{}{il Figuro Incappucciato}
 {830}{}{un Compratore di Bestiame}
-{831}{}{Map Script}
-{832}{}{la Straniera Mistriosa}
+{831}{}{Script Mappa}
+{832}{}{Straniero Misterioso}
 {833}{}{Brahmin Pazzo}
 {834}{}{un Membro della Yakuza}
 {835}{}{una Selvaggia}
@@ -742,14 +742,14 @@
 {842}{}{uno Sciacallo}
 {843}{}{un Mercante}
 {844}{}{un Contadino}
-{845}{}{Arroyo Temple}
+{845}{}{Tempio di Arroyo}
 {846}{}{un Lavoratore del Porto}
 {847}{}{un Contadino}
 {848}{}{una Guardia}
 {849}{}{Cameron}
 {850}{}{Porta}
 {851}{}{Klint}
-{852}{}{Crops}
+{852}{}{Coltivazioni}
 {853}{}{un Tecnico del Lab. Shi}
 {854}{}{un Bambino}
 {855}{}{un Ghoul}
@@ -795,7 +795,7 @@
 {895}{}{un Capitano di Merc}
 {896}{}{un Predone di Merc}
 {897}{}{"Ombra-che-Cammina"}
-{898}{}{Safe}
+{898}{}{Sicura}
 {899}{}{}
 {900}{}{}
 {901}{}{}
@@ -804,8 +804,8 @@
 {904}{}{Obice}
 {905}{}{Porta}
 {906}{}{un cucciolo di Deathclaw}
-{907}{}{Dangerous Dan}
-{908}{}{Doc Johnson}
+{907}{}{Dan il Pericoloso}
+{908}{}{Dottor Johnson}
 {909}{}{lo Sceriffo Marion}
 {910}{}{il Sindaco Ascorti}
 {911}{}{Nording}
@@ -818,14 +818,14 @@
 {918}{}{uno Slag}
 {919}{}{uno Slag}
 {920}{}{Lo Pan}
-{921}{}{Badger}
+{921}{}{Tasso}
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
 {925}{}{Mai Da Chiang}
 {926}{}{Porta}
 {927}{}{Porta}
-{928}{}{Emitter}
+{928}{}{Emettitore}
 {929}{}{il Dio Ratto}
 {930}{}{}
 {931}{}{Kaga}
@@ -842,13 +842,13 @@
 {942}{}{un Cliente del Bar}
 {943}{}{un Cittadino del Vault}
 {944}{}{un Servo del Vault}
-{945}{}{Ventilation Shaft}
+{945}{}{Condotto di ventilazione}
 {946}{}{Charlie}
-{947}{}{Coolant Control Panel}
+{947}{}{Pannello di controllo del refrigerante}
 {948}{}{Poo}
 {949}{}{Grant}
-{950}{}{Emitter}
-{951}{}{Emitter}
+{950}{}{Emettitore}
+{951}{}{Emettitore}
 {952}{}{Computer Terminal}
 {953}{}{il Computer Imperatore v8.8}
 {954}{}{il Vicepresidente Bird}
@@ -856,22 +856,22 @@
 {956}{}{Ken Lee}
 {957}{}{il Ser. Granite}
 {958}{}{Frank Horrigan}
-{959}{}{Map Script}
-{960}{}{Map Script}
+{959}{}{Script Mappa}
+{960}{}{Script Mappa}
 {961}{}{Porta}
 {962}{}{Porta}
 {963}{}{Porta}
 {964}{}{Corda}
-{965}{}{Emitter}
+{965}{}{Emettitore}
 {966}{}{il Dr. Curling}
 {967}{}{Bacheca degli Annunci}
 {968}{}{un Ratto-talpa}
 {969}{}{la Segretaria del Presidente}
 {970}{}{Tom Murray}
-{971}{}{Sturdy Door}
+{971}{}{Porta robusta}
 {972}{}{un Paesano}
-{973}{}{Vault City Council Area}
-{974}{}{Air Purifier}
+{973}{}{Vault City - Area del Consiglio}
+{974}{}{Purificatore d'aria}
 {975}{}{Rocce}
 {976}{}{Giocatore d'Azzardo}
 {977}{}{Spatial Script}
@@ -883,10 +883,10 @@
 {983}{}{Terminale}
 {984}{}{}
 {985}{}{}
-{986}{}{Emitter}
-{987}{}{Blast Door}
-{988}{}{Blast Door}
-{989}{}{Darrow's Stock}
+{986}{}{Emettitore}
+{987}{}{Porta Blindata}
+{988}{}{Porta Blindata}
+{989}{}{Scorte di Darrow}
 {990}{}{Porta}
 {991}{}{un Super Mega Mutante}
 {992}{}{il Dr. Jing Tie Gahng}
@@ -894,11 +894,11 @@
 {994}{}{Melchior Jr.}
 {995}{}{Scanner della Retina}
 {996}{}{Porta dell'Ascensore}
-{997}{}{Cybernetic Receptacle}
+{997}{}{Recettore Cibernetico}
 {998}{}{Parete}
-{999}{}{Map Script}
-{1000}{}{Farrell's Stock}
-{1001}{}{Harry's Stock}
+{999}{}{Script Mappa}
+{1000}{}{Scorte di Farrel}
+{1001}{}{Scorte di Harry}
 {1002}{}{Scatola}
 {1003}{}{Scatola}
 {1004}{}{Derek}
@@ -909,7 +909,7 @@
 {1009}{}{Schiavista}
 {1010}{}{Lara}
 {1011}{}{Tyler}
-{1012}{}{Marc}
+{1012}{}{Mark}
 {1013}{}{Bacheca degli Annunci}
 {1014}{}{Schiavista}
 {1015}{}{Schiavista}
@@ -924,44 +924,44 @@
 {1024}{}{Computer Terminal}
 {1025}{}{Lao Chou}
 {1026}{}{}
-{1027}{}{Ventilation Shaft}
-{1028}{}{Map Script}
+{1027}{}{Condotto di ventilazione}
+{1028}{}{Script Mappa}
 {1029}{}{Cadavere}
-{1030}{}{Exposed wires}
+{1030}{}{Cavi scoperti}
 {1031}{}{Scatola}
 {1032}{}{uno Schiavo}
 {1033}{}{uno Schiavo}
 {1034}{}{Schiavista}
 {1035}{}{Chip}
 {1036}{}{Reattore}
-{1037}{}{Reactor Computer}
+{1037}{}{Computer del Reattore}
 {1038}{}{il Cassiere}
-{1039}{}{Cash Box}
+{1039}{}{Cassetta dei Contanti}
 {1040}{}{un Wanamingo}
 {1041}{}{un Cliente del Bar}
 {1042}{}{un Cliente del Bar}
-{1043}{}{Jail Door}
+{1043}{}{Porta della Cella}
 {1044}{}{Suze}
 {1045}{}{il Capitano Ron Meyers}
-{1046}{}{Pen Door}
-{1047}{}{Wanamingo Mine}
-{1048}{}{Wanamingo Mine Entrance}
+{1046}{}{Porta del Recinto}
+{1047}{}{Miniera di Wanamingo}
+{1048}{}{Ingresso della Miniera di Wanamingo}
 {1049}{}{Frog Morton}
 {1050}{}{Dave H.}
 {1051}{}{Porta}
 {1052}{}{Porta}
 {1053}{}{"Vomitino" Charlie}
-{1054}{}{Painting}
-{1055}{}{Map Script}
+{1054}{}{Dipinto}
+{1055}{}{Script Mappa}
 {1056}{}{un Barista}
 {1057}{}{Scatola}
 {1058}{}{Auto-Doc}
 {1059}{}{}
-{1060}{}{Mining Tunnel}
+{1060}{}{Galleria Mineraria}
 {1061}{}{un Robot}
 {1062}{}{}
-{1063}{}{Map Script}
-{1064}{}{Map Script}
+{1063}{}{Script Mappa}
+{1064}{}{Script Mappa}
 {1065}{}{Lydia}
 {1066}{}{}
 {1067}{}{Harry l'Addetto al Razzo}
@@ -970,15 +970,15 @@
 {1070}{}{Amanda}
 {1071}{}{Joshua}
 {1072}{}{Valerie}
-{1073}{}{Teaching System}
+{1073}{}{Sistema Didattico}
 {1074}{}{Cassa}
 {1075}{}{il Tipo che Piscia}
 {1076}{}{Curtis}
-{1077}{}{Marc}
+{1077}{}{Mark}
 {1078}{}{Computer}
 {1079}{}{AHS-9}
 {1080}{}{una Guardia}
-{1081}{}{Pile of rocks}
+{1081}{}{Mucchio di rocce}
 {1082}{}{Porta}
 {1083}{}{una Guardia}
 {1084}{}{una Guardia}
@@ -993,7 +993,7 @@
 {1093}{}{Scatola}
 {1094}{}{}
 {1095}{}{Tombino}
-{1096}{}{Map Script}
+{1096}{}{Script Mappa}
 {1097}{}{Scala}
 {1098}{}{Sacco da Pugile}
 {1099}{}{Porta}
@@ -1012,38 +1012,38 @@
 {1112}{}{Piastrella del Pavimento}
 {1113}{}{Piastrella del Pavimento}
 {1114}{}{Piastrella del Pavimento}
-{1115}{}{Emitter}
-{1116}{}{Emitter}
-{1117}{}{Emitter}
-{1118}{}{Force Field}
-{1119}{}{Force Field}
-{1120}{}{Force Field}
+{1115}{}{Emettitore}
+{1116}{}{Emettitore}
+{1117}{}{Emettitore}
+{1118}{}{Campo di Forza}
+{1119}{}{Campo di Forza}
+{1120}{}{Campo di Forza}
 {1121}{}{una Hubologista}
 {1122}{}{Computer}
-{1123}{}{Bunker Door}
+{1123}{}{Porta del Bunker}
 {1124}{}{Cancello}
 {1125}{}{Scatola}
 {1126}{}{uno dei Fratelli Morton}
-{1127}{}{Emitter}
-{1128}{}{Emitter}
-{1129}{}{Emitter}
-{1130}{}{Map Script}
+{1127}{}{Emettitore}
+{1128}{}{Emettitore}
+{1129}{}{Emettitore}
+{1130}{}{Script Mappa}
 {1131}{}{Chet}
-{1132}{}{Map Script}
+{1132}{}{Script Mappa}
 {1133}{}{Vertibird}
 {1134}{}{una delle Guardie di Salvatore}
 {1135}{}{una delle Guardie di Salvatore}
 {1136}{}{un Soldato}
 {1137}{}{un Soldato}
 {1138}{}{Cassa}
-{1139}{}{Mr. Handy}
+{1139}{}{Signor Handy}
 {1140}{}{una delle Guardie di Salvatore}
 {1141}{}{Spacial Script}
 {1142}{}{Porta}
 {1143}{}{Porta}
 {1144}{}{Porta}
 {1145}{}{}
-{1146}{}{Map Script}
+{1146}{}{Script Mappa}
 {1147}{}{uno Schiavo}
 {1148}{}{un Cittadino del Vault}
 {1149}{}{Porta}
@@ -1055,7 +1055,7 @@
 {1155}{}{il Furiere}
 {1156}{}{una Guardia}
 {1157}{}{K-9}
-{1158}{}{Doctor Schreber}
+{1158}{}{Dottor Schreber}
 {1159}{}{un Tecnico}
 {1160}{}{un Tecnico}
 {1161}{}{una Guardia}
@@ -1068,16 +1068,16 @@
 {1168}{}{un Tecnico}
 {1169}{}{Frana}
 {1170}{}{un Soldato di Pattuglia dell'Enclave}
-{1171}{}{Blast Door}
-{1172}{}{Map Script}
-{1173}{}{Map Script}
-{1174}{}{Map Script}
-{1175}{}{Map Script}
-{1176}{}{Map Script}
-{1177}{}{Map Script}
+{1171}{}{Porta Blindata}
+{1172}{}{Script Mappa}
+{1173}{}{Script Mappa}
+{1174}{}{Script Mappa}
+{1175}{}{Script Mappa}
+{1176}{}{Script Mappa}
+{1177}{}{Script Mappa}
 {1178}{}{un Robot della Sicurezza}
 {1179}{}{Cassetta delle elemosine}
-{1180}{}{Body}
+{1180}{}{Cadavere}
 {1181}{}{Scatola}
 {1182}{}{Scatola}
 {1183}{}{Scatola}
@@ -1088,26 +1088,26 @@
 {1188}{}{un Pugile}
 {1189}{}{Porta}
 {1190}{}{l'Imbroglione}
-{1191}{}{Holodisk}
-{1192}{}{Holodisk}
-{1193}{}{Holodisk}
+{1191}{}{Olodisco}
+{1192}{}{Olodisco}
+{1193}{}{Olodisco}
 {1194}{}{Note}
-{1195}{}{Dogmeat}
+{1195}{}{Polpetta}
 {1196}{}{Cat's Paw Magazine #5}
 {1197}{}{Mappa dei Predoni}
 {1198}{}{Cane Paria}
-{1199}{}{Klaxon}
+{1199}{}{Sirena}
 {1200}{}{Miniera}
 {1201}{}{Pit}
 {1202}{}{Cal}
-{1203}{}{Slim}
+{1203}{}{Magro}
 {1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
-{1207}{}{Emitter}
-{1208}{}{Emitter}
-{1209}{}{Emitter}
-{1210}{}{Emitter}
+{1207}{}{Emettitore}
+{1208}{}{Emettitore}
+{1209}{}{Emettitore}
+{1210}{}{Emettitore}
 {1211}{}{Libro degli Indizi per Fallout 2}
 {1212}{}{}
 {1213}{}{}
@@ -1118,12 +1118,12 @@
 {1218}{}{Dan}
 {1219}{}{un Comico da Strapazzo}
 {1220}{}{un Cantante di Strada}
-{1221}{}{Map Script}
+{1221}{}{Script Mappa}
 {1222}{}{}
-{1223}{}{Grave}
+{1223}{}{Tomba}
 {1224}{}{"Becchino" Willie}
-{1225}{}{Keyless entry computer}
-{1226}{}{Keyless entry Door}
+{1225}{}{Computer d'accesso senza chiave}
+{1226}{}{Porta d'accesso senza chiave}
 {1227}{}{Computer}
 {1228}{}{Kohl}
 {1229}{}{un Bambino}
@@ -1143,13 +1143,13 @@
 {1243}{}{uno Scorpione Gigante}
 {1244}{}{Jane}
 {1245}{}{}
-{1246}{}{Map Script}
+{1246}{}{Script Mappa}
 {1247}{}{Dermal Pip Boy}
 {1248}{}{un Cuccioletto}
 {1249}{}{Rattray}
 {1250}{}{un Consorte}
 {1251}{}{una Guardia di Lo Pan}
-{1252}{}{Map Script}
+{1252}{}{Script Mappa}
 {1253}{}{Porta}
 {1254}{}{un Cane Cybernetico}
 {1255}{}{Luke}
@@ -1176,7 +1176,7 @@
 {1276}{}{Scatola}
 {1277}{}{Seymour}
 {1278}{}{John Sullivan}
-{1279}{}{Lumpy}
+{1279}{}{Bitorzoluto}
 {1280}{}{}
 {1281}{}{}
 {1282}{}{}
@@ -1185,7 +1185,7 @@
 {1285}{}{}
 {1286}{}{Typhon}
 {1287}{}{una Guardia del Corpo}
-{1288}{}{Map Script}
+{1288}{}{Script Mappa}
 {1289}{}{Armadietto}
 {1290}{}{Pozzo}
 {1291}{}{Micky}
@@ -1197,7 +1197,7 @@
 {1297}{}{Croce}
 {1298}{}{Aratro}
 {1299}{}{Aratro}
-{1300}{}{Scorpion}
+{1300}{}{Scorpione}
 {1301}{}{Generatore}
 {1302}{}{Porta}
 {1303}{}{Porta}
@@ -1222,16 +1222,16 @@
 {1322}{}{Armadietto}
 {1323}{}{Armadietto}
 {1324}{}{Armadietto}
-{1325}{}{Map Script}
+{1325}{}{Script Mappa}
 {1326}{}{Non puoi vedermi}
 {1327}{}{Uomo di Latta}
-{1328}{}{Map Script}
+{1328}{}{Script Mappa}
 {1329}{}{una Formazione Rocciosa}
 {1330}{}{}
 {1331}{}{Terminale}
 {1332}{}{Armadietto}
 {1333}{}{}
-{1334}{}{Map Script}
+{1334}{}{Script Mappa}
 {1335}{}{un Robot della Sicurezza}
 {1336}{}{un Robot della Sicurezza}
 {1337}{}{Armadietto}
@@ -1256,25 +1256,25 @@
 {1356}{}{Armadietto}
 {1357}{}{un Abusivo del Porto}
 {1358}{}{un Ragazzo del Porto}
-{1359}{}{Map Script}
+{1359}{}{Script Mappa}
 {1360}{}{Percy Crump}
 {1361}{}{Scatola}
 {1362}{}{Scatola}
 {1363}{}{Porta}
 {1364}{}{il Grande Ananias}
-{1365}{}{Map Script}
+{1365}{}{Script Mappa}
 {1366}{}{un "Unwashed Villager"}
 {1367}{}{uno Spammer}
 {1368}{}{Mappa}
-{1369}{}{Map Script}
-{1370}{}{Map Script}
-{1371}{}{Map Script}
-{1372}{}{Map Script}
+{1369}{}{Script Mappa}
+{1370}{}{Script Mappa}
+{1371}{}{Script Mappa}
+{1372}{}{Script Mappa}
 {1373}{}{Distributore di Nuka-Cola}
 {1374}{}{Porto}
 {1375}{}{Porta}
-{1376}{}{Land Mine}
-{1377}{}{Land Mine}
+{1376}{}{Mina terrestre}
+{1377}{}{Mina terrestre}
 {1378}{}{l'ex}
 {1379}{}{Mel}
 {1380}{}{Presa d'Aria}
@@ -1291,7 +1291,7 @@
 {1391}{}{}
 {1392}{}{}
 {1393}{}{}
-{1394}{}{un Donna Contrabbandiere}
+{1394}{}{una Contrabbandiera}
 {1395}{}{}
 {1396}{}{}
 {1397}{}{un ragazzetto}
@@ -1311,136 +1311,136 @@
 {1411}{}{}
 {1412}{}{un Bambino}
 {1413}{}{Deathclaw}
-{1414}{}{Sister Elaine}
-{1415}{}{Grave}
-{1416}{}{Grave}
-{1417}{}{Brother Hank}
-{1418}{}{Abbey Doctor}
-{1419}{}{Brother John}
-{1420}{}{Brother Max}
+{1414}{}{Sorella Elaine}
+{1415}{}{Tomba}
+{1416}{}{Tomba}
+{1417}{}{Fratello Hank}
+{1418}{}{Dottore dell'Abbazia}
+{1419}{}{Fratello John}
+{1420}{}{Fratello Max}
 {1421}{}{un Mercante}
 {1422}{}{un Mercante}
-{1423}{}{Merchant Guard}
-{1424}{}{Mrs. Peterson}
-{1425}{}{Abbey citizen}
-{1426}{}{Mr. Peterson}
+{1423}{}{Guardia mercantile}
+{1424}{}{Signora Peterson}
+{1425}{}{Cittadino dell'Abbazia}
+{1426}{}{Signor Peterson}
 {1427}{}{Pompa Idrica}
-{1428}{}{Brother Samuel}
-{1429}{}{Abbey citizen}
-{1430}{}{Brother Thomas}
+{1428}{}{Fratello Samuel}
+{1429}{}{Cittadino dell'Abbazia}
+{1430}{}{Fratello Thomas}
 {1431}{}{Tom}
-{1432}{}{Abbey computer}
+{1432}{}{Computer dell'Abbazia}
 {1433}{}{Monaco Capo dell’Abbazia}
-{1434}{}{Abbey monk}
-{1435}{}{Abbey monk}
-{1436}{}{Abbey monk}
-{1437}{}{Abbey monk}
-{1438}{}{Brother Paul}
-{1439}{}{Tribal}
-{1440}{}{Brother Matthew}
-{1441}{}{map}
+{1434}{}{Monaco dell'Abbazia}
+{1435}{}{Monaco dell'Abbazia}
+{1436}{}{Monaco dell'Abbazia}
+{1437}{}{Monaco dell'Abbazia}
+{1438}{}{Fratello Paul}
+{1439}{}{Selvaggio}
+{1440}{}{Fratello Matthew}
+{1441}{}{Mappa}
 {1442}{}{un Ratto-talpa}
 {1443}{}{Ann}
-{1444}{}{Head Warrior}
+{1444}{}{Guerriero capo}
 {1445}{}{Marli}
-{1446}{}{Villagers}
-{1447}{}{Shaman}
+{1446}{}{Abitanti del villaggio}
+{1447}{}{Sciamano}
 {1448}{}{Fantasma}
-{1449}{}{Tribal}
+{1449}{}{Selvaggio}
 {1450}{}{Kurisu}
 {1451}{}{Pozzo}
 {1452}{}{Mappa della tribù}
-{1453}{}{Tribal}
+{1453}{}{Selvaggio}
 {1454}{}{Serin}
 {1455}{}{Mappa della tribù 2}
 {1456}{}{Mappa della tribù 2 - speciale 1}
 {1457}{}{Mappa della tribù 2 - speciale 2}
 {1458}{}{Gecko}
-{1459}{}{Cave Guard}
-{1460}{}{dead body}
+{1459}{}{Guardia della caverna}
+{1460}{}{Cadavere}
 {1461}{}{bosco speciale}
 {1462}{}{Don}
 {1463}{}{Schiavista}
-{1464}{}{map script}
+{1464}{}{Script della mappa}
 {1465}{}{un Cane}
 {1466}{}{Schiavista}
 {1467}{}{uno Schiavo}
 {1468}{}{porta del recinto degli schiavi}
 {1469}{}{Scaffale}
 {1470}{}{Porta}
-{1471}{}{Little Bobby}
+{1471}{}{Piccolo Bobby}
 {1472}{}{Il padre del piccolo Bobby}
 {1473}{}{un Abusivo}
 {1474}{}{uno Spacciatore di Droga}
-{1475}{}{Den Resident}
+{1475}{}{Residente del Den}
 {1476}{}{un Orfano}
 {1477}{}{un Contadino}
-{1478}{}{map script}
-{1479}{}{Enclave Guard}
-{1480}{}{Enclave Guard}
+{1478}{}{Script della mappa}
+{1479}{}{Guardia dell'Enclave}
+{1480}{}{Guardia dell'Enclave}
 {1481}{}{cassaforte}
-{1482}{}{guard}
+{1482}{}{Guardia}
 {1483}{}{una Hubologista}
 {1484}{}{una Guardia Hubologist}
 {1485}{}{una Guardia Hubologist}
-{1486}{}{Metal Door}
-{1487}{}{map script}
-{1488}{}{container script}
+{1486}{}{Porta in Metallo}
+{1487}{}{Script della mappa}
+{1488}{}{Script del contenitore}
 {1489}{}{un Brahmin}
-{1490}{}{door}
+{1490}{}{Porta}
 {1491}{}{cancello}
-{1492}{}{Tribal Chief}
-{1493}{}{Barking Man}
-{1494}{}{epax map script}
+{1492}{}{Capo tribu'}
+{1493}{}{Uomo che abbaia}
+{1494}{}{Script della mappa EPA}
 {1495}{}{EPA PRINCIPALE}
-{1496}{}{EPA Secret Level}
-{1497}{}{Mr. handy Robot}
+{1496}{}{Livello segreto EPA}
+{1497}{}{Robot Mr. Handy}
 {1498}{}{Ologramma 00000}
-{1499}{}{The Brave Little Toaster}
+{1499}{}{Il piccolo tostapane coraggioso}
 {1500}{}{Ologramma 10001}
 {1501}{}{Ologramma 12001}
 {1502}{}{Ologramma 10031}
 {1503}{}{Ologramma 40011}
-{1504}{}{EPA plant}
+{1504}{}{Pianta EPA}
 {1505}{}{Mr. Chemmie!}
 {1506}{}{Dex}
 {1507}{}{Cat Jules}
 {1508}{}{Kitsune}
 {1509}{}{un Guerriero}
 {1510}{}{Spray Antiparassitario}
-{1511}{}{Doctor's Prisoner}
+{1511}{}{Prigioniero del Dottore}
 {1512}{}{una Formica Gigante}
-{1513}{}{The Doctor}
-{1514}{}{Fruit Fly}
-{1515}{}{Creature}
+{1513}{}{Il Dottore}
+{1514}{}{Moscerino della frutta}
+{1515}{}{Creatura}
 {1516}{}{un Robot}
 {1517}{}{un Robot}
 {1518}{}{Volantino EPA}
-{1519}{}{Voice Computer}
-{1520}{}{Research Computer}
-{1521}{}{Electric Chair Computer}
-{1522}{}{Electronic door}
-{1523}{}{Hologram Generator}
+{1519}{}{Computer vocale}
+{1520}{}{Computer di ricerca}
+{1521}{}{Computer della sedia elettrica}
+{1522}{}{Porta elettronica}
+{1523}{}{Generatore di ologrammi}
 {1524}{}{Porta di Sicurezza}
 {1525}{}{Porta dell'Ascensore}
 {1526}{}{Porta}
 {1527}{}{Sostanze chimiche casuali}
-{1528}{}{Fertile ground}
-{1529}{}{Fertile ground}
-{1530}{}{Hibernation Computer}
-{1531}{}{Lighting Generator}
+{1528}{}{Terreno fertile}
+{1529}{}{Terreno fertile}
+{1530}{}{Computer di ibernazione}
+{1531}{}{Generatore di illuminazione}
 {1532}{}{Campo di Forza}
-{1533}{}{Plant spray}
-{1534}{}{Magnetic coil computer}
+{1533}{}{Spray per piante}
+{1534}{}{Computer a bobina magnetica}
 {1535}{}{Campo di Forza}
-{1536}{}{Projection machine}
+{1536}{}{Macchina da proiezione}
 {1537}{}{Porta}
-{1538}{}{computer}
+{1538}{}{Computer}
 {1539}{}{Porta}
 {1540}{}{Computer}
 {1541}{}{Campo di Forza}
 {1542}{}{Dinamite}
-{1543}{}{Dynamite Trigger}
+{1543}{}{Innesco per dinamite}
 {1544}{}{Oggetti sulla scrivania}
 {1545}{}{Armadietto}
 {1546}{}{Spatial Script}
@@ -1454,20 +1454,20 @@
 {1554}{}{Bocchetta dell’aria condizionata}
 {1555}{}{Ventilatore}
 {1556}{}{Ventilatore}
-{1557}{}{spatial script}
-{1558}{}{computer terminal}
-{1559}{}{fertile ground}
+{1557}{}{Script spaziale}
+{1558}{}{Terminale del computer}
+{1559}{}{Terreno fertile}
 {1560}{}{relazione}
 {1561}{}{Un ologramma}
 {1562}{}{relazione}
 {1563}{}{}
-{1564}{}{hologram computer}
+{1564}{}{Computer olografico}
 {1565}{}{un Bambino}
 {1566}{}{relazione}
 {1567}{}{Vertibird}
-{1568}{}{computer}
+{1568}{}{Computer}
 {1569}{}{relazione}
-{1570}{}{Mr. Handy}
+{1570}{}{Signor Handy}
 {1571}{}{FUORI TUTTI}
 {1572}{}{Pozzo}
 {1573}{}{Pozzo}
@@ -1489,64 +1489,64 @@
 {1589}{}{Porta}
 {1590}{}{}
 {1591}{}{un Delinquente}
-{1592}{}{trip wire}
+{1592}{}{Filo d'inciampo}
 {1593}{}{filo d’inciampo spaziale}
 {1594}{}{una Prostituta}
 {1595}{}{Sostanza Gelatinosa}
-{1596}{}{Spatial}
+{1596}{}{Spaziale}
 {1597}{}{Camera di Ibernazione Spaziale}
 {1598}{}{}
 {1599}{}{Armadietto}
-{1600}{}{Map Script}
+{1600}{}{Script Mappa}
 {1601}{}{Modder}
-{1602}{}{Smoking}
-{1603}{}{Peeing}
-{1604}{}{Map Script}
-{1605}{}{Map Script}
+{1602}{}{Fumatore}
+{1603}{}{Uomo che urina}
+{1604}{}{Script Mappa}
+{1605}{}{Script Mappa}
 {1606}{}{un Mercante}
-{1607}{}{Merchant Guard}
-{1608}{}{Merchant Guard}
-{1609}{}{Merchant Map}
-{1610}{}{computer}
-{1611}{}{computer}
+{1607}{}{Guardia mercantile}
+{1608}{}{Guardia mercantile}
+{1609}{}{Mappa del mercante}
+{1610}{}{Computer}
+{1611}{}{Computer}
 {1612}{}{Auto-Doc}
-{1613}{}{Brother Jason}
+{1613}{}{Fratello Jason}
 {1614}{}{Todd}
 {1615}{}{Robert Baron}
 {1616}{}{una Guardia}
 {1617}{}{Cassa}
 {1618}{}{Umano famelico}
-{1619}{}{map}
-{1620}{}{force field panel}
+{1619}{}{Mappa}
+{1620}{}{Pannello del campo di forza}
 {1621}{}{Ventilatore}
 {1622}{}{una Guardia}
-{1623}{}{Motor Boat}
+{1623}{}{Barca a motore}
 {1624}{}{una Guardia}
 {1625}{}{Rifiuti}
-{1626}{}{stairs}
-{1627}{}{elevator shaft}
+{1626}{}{Scale}
+{1627}{}{Pozzo dell'ascensore}
 {1628}{}{relazione}
-{1629}{}{elevator shaft}
+{1629}{}{Pozzo dell'ascensore}
 {1630}{}{Armadietto}
-{1631}{}{Dock Guard}
+{1631}{}{Guardia del molo}
 {1632}{}{un Tecnico}
 {1633}{}{un Tecnico}
 {1634}{}{un Tecnico}
 {1635}{}{relazione}
 {1636}{}{un Lavoratore del Porto}
-{1637}{}{map script}
+{1637}{}{Script della mappa}
 {1638}{}{Porta}
 {1639}{}{relazione}
-{1640}{}{power console}
-{1641}{}{torpedo console}
-{1642}{}{targeting console}
+{1640}{}{Console di alimentazione}
+{1641}{}{Console dei siluri}
+{1642}{}{Console di puntamento}
 {1643}{}{baia dei siluri}
 {1644}{}{portello del sottomarino}
 {1645}{}{una Guardia}
-{1646}{}{vertibird}
+{1646}{}{Vertibird}
 {1647}{}{relazione}
 {1648}{}{siero}
-{1649}{}{Old Caravan Guard}
+{1649}{}{Vecchia guardia della carovana}
 {1650}{}{Dr. Sheng}
 {1651}{}{Creatura vegetale}
 {1652}{}{Nascondiglio del dottor Sheng}

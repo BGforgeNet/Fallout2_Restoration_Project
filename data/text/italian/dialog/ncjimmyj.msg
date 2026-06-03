@@ -22,7 +22,7 @@
 {240}{}{(Quest'uomo ha un leggero tic facciale e una cicatrice che corre lungo una delle sue guance. La cicatrice sembrerebbe essere il "ricordo" di una coltellata.) }
 {241}{}{Fratello, ti ho messo gli occhi addosso non appena hai imboccato la strada. E sai cosa vedo?}
 {242}{}{Sorella, ti ho messo gli occhi addosso non appena hai imboccato la strada. E sai cosa vedo?}
-{243}{}{Me.}
+{243}{}{Mi vedi}
 {244}{}{Che cosa vedi?! Che cosa vedi?!}
 {245}{}{Me deve andare ade --}
 {246}{}{Che cosa vedi?}
@@ -33,7 +33,7 @@
 {263}{}{Jet, eh? Avrei delle doma --}
 {264}{}{Senti, non mi intere --}
 {270}{}{E, amico mio, quando si tratta di Jet, Jimmy J lo Sfregiato e' l'uomo che fa per TE. Ho la migliore roba di New Reno. Vero Jet, puro Jet, il Jet piu' SICURO.}
-{271}{}{Dove Jet? Me no vede in cielo.}
+{271}{}{Dove Jet? Me no vede in cielo}
 {272}{}{Me deve ANDARE ADES --}
 {273}{}{Jimmy J lo Sfregiato, eh? Senti, avrei delle doman --}
 {274}{}{Senti, non mi interes --}
@@ -44,8 +44,8 @@
 {284}{}{No, non credo che --}
 {290}{}{Sapevo che saresti tornato, lo sapevo! Jimmy J lo Sfregiato non te l'aveva detto che questo sarebbe stato il suo STILE? Fa' che siano sempre felici e loro non ti deluderanno. Allora, pilota... cosa puo' fare oggi per te Jimmy J lo Sfregiato?}
 {291}{}{Bene, bene... il mio amico "pilota"... sei tornato da queste parti perche' ti SERVE qualcosa da Jimmy lo Sfregiato, eh?}
-{292}{}{Um... Me dimenticato cosa stare per dire. Me va.}
-{294}{}{Noi scambiare roba? Me PIACE roba.}
+{292}{}{Um... Me dimenticato cosa stare per dire. Me va}
+{294}{}{Noi scambiare roba? Me PIACE roba}
 {295}{}{Hai del Jet? Molto bene. Parliamo d'affari... amico.}
 {296}{}{Come te la sei procurata quella cicatrice, Jimmy?}
 {297}{}{Dove ti procuri il tuo Jet, Jimmy?}
@@ -58,12 +58,12 @@
 {314}{}{Me dimenticato! Me finalmente aveva qualcosa in testa e me dimenticato! }
 {330}{}{Ehi... La tua faccia torna FAMILIARE a Jimmy. Ti conosco, amico "pilota"?}
 {331}{}{Potrei quasi GIURARE di sapere chi sei, amico "pilota"... Hai un'aria cosi' familiare...}
-{332}{}{ME GRANDE EROE ME FINITO GIOCO E ROTTO CULO A PRESIDENTE E FATTO FARE GRANDE BUM A PIATTAFORMA DI PETROLIO E SALVATO MONDO.}
-{333}{}{Me combatte su ring davanti a molte persone che urlare ooh e gridare uccidi uccidi quel bastardo cosi' me dare pugni lui finche' lui non rimanere a terra.}
-{334}{}{Me fare cose cattive con stranieri che parlare troppo a Dio.}
-{335}{}{Me PICIOTO. Me GRANDE persona in REEno.}
+{332}{}{ME GRANDE EROE ME FINITO GIOCO E ROTTO CULO A PRESIDENTE E FATTO FARE GRANDE BUM A PIATTAFORMA DI PETROLIO E SALVATO MONDO}
+{333}{}{Me combatte su ring davanti a molte persone che urlare ooh e gridare uccidi uccidi quel bastardo cosi' me dare pugni lui finche' lui non rimanere a terra}
+{334}{}{Me fare cose cattive con stranieri che parlare troppo a Dio}
+{335}{}{Me PICIOTO. Me GRANDE persona in REEno}
 {336}{}{Come puo' qualcuno conoscere DAVVERO un'altra persona, Jimmy? E' forse possibile farlo mentre ci troviamo in questo guscio mortale? O forse e' possibile soltanto quando ci liberiamo dei nostri corpi fisici?}
-{337}{}{ME VOLEVA parlare ma tu no LASCIATO me. ADIO.}
+{337}{}{ME VOLEVA parlare ma tu no LASCIATO me. ADIO}
 {338}{}{Beh, ho sventato il progetto dell'Enclave di uccidere tutti gli abitanti del pianeta, ho sconfitto il Presidente, ho fatto esplodere la loro base, e sono riuscito a malapena a cavarmela.}
 {339}{}{Ho combattuto sul ring di pugilato.}
 {340}{}{Sono apparso in qualche film. Hai mai sentito parlare di }

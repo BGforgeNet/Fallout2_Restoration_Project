@@ -37,6 +37,6 @@
 {136}{}{Si vede. Credimi.}
 {137}{}{Oh. Tu OK?}
 {138}{}{Oh... beh, io... hmmmm. Tutto... tutto a posto?}
-{139}{}{Gliel'avevo detto io... "C'e' bisogno di segnali stradali", avevo detto. Ma mi hanno ascoltato? Noooo... chi vuoi che dia retta al vecchio Lumpy?}
+{139}{}{Gliel’avevo detto. 'Ci servono dei segnali stradali', ho detto. Ma mi hanno ascoltato? Nooo… non diam retta al vecchio Lumpy!}
 {200}{}{Oh, merda!}
 {201}{}{Uh, oh. Io colpito uomo puzzolente.}

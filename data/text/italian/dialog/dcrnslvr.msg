@@ -53,7 +53,7 @@
 {327}{}{Un lavoro ben fatto.}
 {328}{}{Proprio un bel carico.}
 {329}{}{Andiamo. Voglio i miei soldi.}
-{335}{}{Bonus time!}
+{335}{}{E' ora del bonus!}
 {336}{}{Grandi.}
 {337}{}{Forza, metteteli in gruppo: stiamo per partire.}
 {338}{}{Smettetela di cazzeggiare. Andiamo.}

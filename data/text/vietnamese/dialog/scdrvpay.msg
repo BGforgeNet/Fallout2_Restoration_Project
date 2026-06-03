@@ -8,7 +8,7 @@
 {118}{}{You're the worst excuse for a guard I've ever seen. Get the hell out of here.}
 {119}{}{Too bad Hal didn't make it.}
 {120}{}{Shame about Hal...}
-{121}{}{Nice doing business with you.}
+{121}{}{Rất hân hạnh được giao dịch.}
 {213}{}{Damn, Hal's dead! And the brahmin too! Afraid there's no money in this run for any of us. Just be happy you're alive.}
 {214}{}{Damn, Hal's dead! And the ranchers are none too happy - it's only a $1000 run. Tough luck.}
 {215}{}{Damn, Hal's dead! At least the brahmin are all right. Here's the $2000 you signed on for.}

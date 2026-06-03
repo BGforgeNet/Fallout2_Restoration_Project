@@ -71,7 +71,7 @@
 {170}{}{Devo saperne di piu'.}
 {171}{}{Non c'e' molto da dire, davvero. Darion non si fa mai vedere e non lascia mai il vault. Se ha qualcosa da dire, lo dice per bocca di Zeke. Io l'ho incontrato solo una volta e mi e' sembrato un tipo a posto.}
 {172}{}{Okay.}
-{173}{}{I tipi a posto non durano a lungo. Mi piacerebbe sapere qual e' il suo scopo.}
+{173}{}{I bravi ragazzi arrivano sempre ultimi. Mi chiedo cosa stia tramando.}
 {174}{}{Capisco.}
 {175}{}{Okay. Sei di grande aiuto.}
 {176}{}{Non ho niente da darti se non la mia infinita gratitudine.}

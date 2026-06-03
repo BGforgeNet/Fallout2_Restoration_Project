@@ -66,7 +66,7 @@
 {364}{}{Gaw.}
 {370}{}{Certo, puoi vederlo.}
 {371}{}{Certo, puoi vederlo. Lascia che ti apra la porta.}
-{372}{}{Gazie.}
+{372}{}{Cisterna.}
 {380}{}{Oh, davvero? Sono sicuro che il boss lo apprezzerebbe. Basta che se ne stia buono. Non vogliamo che scappi ancora.}
 {381}{}{Grazie.}
 {390}{}{No, mi dispiace. E' occupato: sta facendo un lavoro per il capo.}

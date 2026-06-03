@@ -29,7 +29,7 @@
 {128}{}{Grazie per le indicazioni. addio.}
 {129}{}{Cosa dia-? Sei per caso uno dei nuovi Servi?}
 {130}{}{Yup}
-{131}{}{Uh-uh me andare via, ora.}
+{131}{}{Uh-uh me andare via, ora}
 {132}{}{Devi essere nuovo di qui. Te lo spieghero'...lentamente.}
 {133}{}{I Cittadini che hanno bisogno di aiuto per lavori umili vengono qui per farsi assegnare un Servo per la giornata.}
 {134}{}{A me questo sembra schiavismo bello e buono.}
@@ -74,7 +74,7 @@
 {173}{}{D'accordo. Arrivederci.}
 {174}{}{Si', e' il piu' testardo tra tutti i Servi che abbiamo mai avuto. Se non lo conoscessi, direi che suo padre era un brahmin.}
 {175}{}{Sai, questo tipo di comportamento potrebbe causare delle grane. Cosa succederebbe se gli altri Servi seguissero il suo esempio?}
-{176}{}{Potrei acquistarlo e togliervelo dai piedi. Il Centro accetta... "donazioni"?}
+{176}{}{Potrei acquistarlo e togliervelo dai piedi. Il Centro accetta... "donazioni?"}
 {177}{}{Solo un'altra domanda...}
 {178}{}{D'accordo. Arrivederci.}
 {179}{}{E' la verita'. Sono stato costretto a separarlo dagli altri... e proprio ieri uno dei Servi ha avuto il coraggio di contestare una delle mie richieste.}
@@ -111,7 +111,7 @@
 {210}{}{Nelle lande esiste una malattia chiamata Sindrome di }
 {211}{}{. Forse avrai notato che, di recente, i Servi sono sempre piu' stanchi. E cosa mi dici della loro scontrosita'?}
 {212}{}{Assurdita'! Ora, se hai finito di sprecare il mio tempo con le tue bugie...}
-{213}{}{D'accordo, dimentichiamo la "Sindrome di }
+{213}{}{D'accordo, dimentichiamo la "Sindrome di}
 {214}{}{". Ad ogni modo, vorrei comunque trattare il rilascio di Joshua.}
 {215}{}{Come non detto, allora. Avrei delle altre domande...}
 {216}{}{Me ne vado, allora. Arrivederci.}
@@ -168,4 +168,4 @@
 {267}{}{Che cosa ci fai di nuovo qui? Ti avevo mandato al Vault! Per tutti i... molto bene, ti faro' accompagnare nuovamente la'.}
 {268}{}{Oh-keeeee}
 {269}{}{Hai convinto Barkus a rilasciare Joshua.}
-{300}{}{I heard you're quite the hero. Good job.}
+{300}{}{Ho sentito che sei un vero eroe. Bel lavoro.}

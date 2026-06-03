@@ -253,3 +253,11 @@
 # 29. Still 3(From 28)
 {580}{}{So, you're a coward too? Figures.}
 {581}{}{...}
+
+# 30. Self Initiated: Door tampered with
+# Same as dcrebdor: 230-234
+{1230}{}{Get away from that right now.}
+{1231}{}{Don't touch that again.}
+{1232}{}{Back off!}
+{1233}{}{Leave that alone.}
+{1234}{}{What do you think you're doing?}

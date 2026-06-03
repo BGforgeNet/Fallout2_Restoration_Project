@@ -36,7 +36,7 @@
 {135}{}{Di che livello sei tu?}
 {136}{}{Oh. Credevo che tu potessi vedere la mia aura. Scusa.}
 {137}{}{Oh. Credevo che tu potessi vedere la mia aura. Scusa.}
-{138}{}{Be', l'ultima volta che ho controllato la schermata del personaggio, ero al livello...}
+{138}{}{Be', l'ultima volta che ho controllato la schermata del personaggio, ero al livello... }
 {139}{}{Beh, ho raggiunto la Trascendenza, naturalmente.}
 {140}{}{Uhhh... non e' maleducazione parlare di livelli?}
 {141}{}{Diamine! Non so proprio cosa si aspettino che io faccia, circondata da tutta questa carne da cerchione!}
@@ -53,8 +53,8 @@
 {152}{}{No.}
 {153}{}{Non posso aiutarti. Tuttavia, i nostri scienziati di San Francisco potrebbero saperne qualcosa. Forse dovresti viaggiare fin la'.}
 {154}{}{Liberandoti dell'energia psichica negativa che ti costringe in uno stato d'oppressione. Solo allora potrai essere Illuminato!}
-{155}{}{I neuronodi sono i centri psichici del corpo. Possono inquinarsi a causa dei residui spirituali delle persone morte durante la Guerra. Le loro energie PSI si imprimono nei nostri neuronodi alla nascita e ci costringono in uno stato d'oppressione. L'Allineamento cancella queste impronte negative. }
-{156}{}{Finche' le sinapsi del tuo cervello presentano un'energia psichica negativa, il tuo vero potenziale spirituale e' incapacitato ad esprimersi. La cosa peggiore e' che gli individui che si trovano in questo stato d'oppressione possono trasmettere ad altri l'energia negativa, a meno che non siano dotati di una grande forza di volonta'. }
+{155}{}{I neuronodi sono i centri psichici del corpo. Possono inquinarsi a causa dei residui spirituali delle persone morte durante la Guerra. Le loro energie PSI si imprimono nei nostri neuronodi alla nascita e ci costringono in uno stato d'oppressione. L'Allineamento cancella queste impronte negative.}
+{156}{}{Finche' le sinapsi del tuo cervello presentano un'energia psichica negativa, il tuo vero potenziale spirituale e' incapacitato ad esprimersi. La cosa peggiore e' che gli individui che si trovano in questo stato d'oppressione possono trasmettere ad altri l'energia negativa, a meno che non siano dotati di una grande forza di volonta'.}
 {157}{}{L'Illuminazione ha luogo quando tutti i neuronodi sono allineati. A quel punto si diventa degli AHS, Allineati all'Hub Supremo. Questo e' lo scopo di tutti gli Huboniti.}
 {158}{}{Neuronodi?}
 {159}{}{Illuminato?}
@@ -72,7 +72,7 @@
 {171}{}{Come vanno le cose?}
 {172}{}{Lasciamo stare. Niente pensieri negativi. Tutto qui.}
 {173}{}{Notevole. Anche se credo stiamo parlando di due cose diverse, sembra comunque che tu meriti un bonus esperienza.}
-{174}{}{Yes!!}
+{174}{}{Sì!!}
 {175}{}{E' fatto. Ricorda pero' che c'e' molto di piu' nella vita che accumulare abbastanza punti esperienza per salire di livello. 
 C'e' un intero mondo "reale" la fuori. Ora che abbiamo chiarito questo, vogliamo riprovare?}
 {176}{}{Trascendenza? Per l'Hub! Come pensano che io possa diffondere il verbo quaggiu' se neanche mi danno un aggiornamento sulle nuove dottrine!?}

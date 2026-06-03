@@ -32,7 +32,7 @@
 {131}{}{Non riuscirai a farla franca.}
 {132}{}{Vedremo.}
 {133}{}{Perche' no? }
-{134}{}{Una sola parola forse riassume le responsabilita' di ogni Vicepresidente, e quest'unica parola e' "essere pronto".}
+{134}{}{Una sola parola forse riassume le responsabilita' di ogni Vicepresidente, e quest'unica parola e' '.essere pronto.'}
 {135}{}{E per cosa saresti pronto?}
 {136}{}{Ma non sono due parole, queste? "Prontezza" e' una parola sola. Non e' questo che intendevi?}
 {137}{}{Forse cosi' va meglio. Chiaro e conciso. Dopotutto, la prolissita' conduce a situazioni non chiare, inarticolate.}
@@ -53,8 +53,8 @@
 {152}{}{Non scherzeresti piu' di tanto su questo argomento, se ti trovassi sul continente.}
 {153}{}{Beh, e' proprio questo il punto. L'Enclave e' un'isola costruita da mani umane e circondata dall'acqua.}
 {154}{}{Credi di essere immune da quello che succede nel mondo? Ti trovi bloccato nello stesso pianeta insieme a tutti gli altri uomini.}
-{155}{}{Non ti sei dimenticato di aggiungere qualcosa alla tua affermazione?}
-{156}{}{Sono il Vicepresidente Daniel Bird. Che piacere conoscerti!}
+{155}{}{Hai dimenticato di aggiungere qualcosa a quella frase? Come un punto.}
+{156}{}{Sono il Vicepresidente Daniel Bird. Molto lieto di conoscerti.}
 {157}{}{Non sei altro che un'altra parte del problema.}
 {158}{}{Sei un imbecille.}
 {159}{}{Io non faccio parte del problema. Io sono un Repubblicano.}

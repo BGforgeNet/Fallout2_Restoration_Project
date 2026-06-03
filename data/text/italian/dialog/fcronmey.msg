@@ -11,7 +11,7 @@
 {110}{}{Nulla.}
 {111}{}{Io sono il Capitano. Comando questa nave. Se hai altre domande, va' a parlare con gli Shi o con Badger o con qualcun altro. Non ho tempo da perdere con te.}
 {112}{}{[FATTO]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
+{113}{}{Questa nave è una petroliera Poseidon. È equipaggiata con tecnologia sopravvissuta alla guerra. Serve un FOB per accedere alla sala del computer di navigazione, ed è dotata di un trasponder IFF che la protegge dalle armi Poseidon. Naturalmente, non ti aiuterà contro quel vecchio sottomarino cinese… quindi spera che sia morto come sembra.}
 {114}{}{Come fa a sapere tutto questo?}
 {115}{}{Cos'e' un emettitore di segnali SIAN?}
 {116}{}{Come si fa a farla partire?}
@@ -21,7 +21,7 @@
 {120}{}{Cos'e' l'Enclave, esattamente?}
 {121}{}{Come si fa a far partire questa nave?}
 {122}{}{Addio.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{123}{}{Come si pilota questa nave? Riempila di carburante — prova dagli Hubologisti o dagli Shi, dopo aver sistemato tutto il resto — e premi il pulsante. Il computer farà il resto, se funziona ancora. Andrà dritta verso la piattaforma petrolifera… a meno che quel vecchio sottomarino non la faccia saltare. Almeno non dovrai preoccuparti dell’Enclave, grazie al trasponder IFF. Assicurati solo di avere tutto: FOB, computer funzionante e carburante. Facile, no?}
 {124}{}{Gia'... Come fai a sapere tutte queste cose?}
 {125}{}{Cosa sono un emettitore di segnali SIAN e un FOB?}
 {126}{}{Quale piattaforma petrolifera?}
@@ -50,14 +50,14 @@
 {149}{}{Capisco. Com'e' che faccio a far partire questa nave?}
 {150}{}{Grazie. Ciao.}
 {151}{}{Hai fatto un grave errore a metterti contro il Capitano e i suoi amici...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{152}{}{Come si pilota questa piattaforma? Beh, vedo che hai gia' fatto il pieno. Quando avrai sistemato tutto il resto, premi semplicemente il pulsante. Il computer si occupera' del resto, se funziona ancora. Si dirigera' dritta verso la piattaforma petrolifera, a meno che quel vecchio sottomarino non la faccia saltare in aria. Ma almeno non dovrai preoccuparti che l'Enclave ti spari addosso, perche' hai il transponder IFF. Assicurati solo di avere tutto il necessario per accedere a ogni cosa: FOB, computer funzionante e carburante. Abbastanza facile, no?}
 {153}{}{Ah, certo. Devi anche mettere in funzione il computer di navigazione. Scommetto che troverai il pezzo che ti serve in uno dei vecchi vault.}
 {154}{}{Mi fa piacere rivederti. Che cosa ti serve?}
 {155}{}{, e a meno che non mi sbagli, e' li' che si trovano anche i tuoi amici.}
 {156}{}{.}
-{200}{}{What old sub?}
+{200}{}{Quale vecchio sottomarino?}
 {210}{}{C'e' un vecchio sottomarino cinese arenato laggiu' nella baia. Quella dannata cosa mi mette i brividi, li' sotto l'acqua come un fantasma arrugginito. Dubito che sia ancora attivo, ma se lo fosse, i suoi sistemi d'arma automatici potrebbero far saltare questa petroliera prima ancora che tu ti avvicini a quella piattaforma.}
-{211}{}{Why don't you think the sub's still active?}
+{211}{}{Perché pensi che il sottomarino non sia più attivo?}
 {220}{}{Beh, per cominciare, e' li' a marcire nell'oceano dalla Grande Guerra. E poi, se fosse attivo, avrebbe aperto il fuoco su questa piattaforma quando l'Enclave l'ha attraccata qui. Certo, non mi stupirebbe se gli Shi ci fossero andati a trafficare, quindi non si sa mai. Potrebbe valere la pena controllare prima di salpare.}
-{221}{}{How would I go about checking into it?}
+{221}{}{Come posso verificarlo?}
 {230}{}{Se qualcuno sa cosa sta succedendo con quel sottomarino, sono gli Shi. E' il sottomarino che li ha portati qui, dopotutto — non mi sorprenderebbe se lo venerassero. L'Imperatore degli Shi saprebbe tutto, ovviamente, ma buona fortuna a parlarci. Faresti meglio a chiedere a Lao Chou, al Flying Dragon 8 — ogni tanto dispensa informazioni. Magari potresti persino convincere un portuale a parlare.}

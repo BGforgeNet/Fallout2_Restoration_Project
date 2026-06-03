@@ -74,7 +74,7 @@
 {301}{}{Akciópont}
 {302}{editor}{Védelmi ért.:}
 {303}{}{Pusztak. sebz.}
-{304}{}{Pusztak. sebz.}
+{304}{editor}{Melee Damage}
 {305}{}{Sebzésell.}
 {306}{}{Méregellenállás}
 {307}{}{Sugárzás-ell.}

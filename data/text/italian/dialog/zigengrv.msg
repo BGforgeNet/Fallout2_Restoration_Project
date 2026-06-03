@@ -4,8 +4,8 @@
 {103}{}{La fossa e' stata dissotterrata.}
 {150}{}{La fossa e' stata ricoperta di terra.}
 {151}{}{La fossa e' stata dissotterata.}
-{200}{}{Vedi una lapide. }
-{201}{}{Vedi un paletto segnatombe. }
+{200}{}{Vedi una lapide.}
+{201}{}{Vedi un paletto segnatombe.}
 {250}{}{Non ci sono scritte su questa lapide.}
 {251}{}{Il nome su questa lapide e' stato cancellato.}
 {252}{}{Scolpito su questa lapide c'e' il nome John Doe.}

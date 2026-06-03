@@ -7,7 +7,7 @@
 {106}{}{C'e' una macchina laggiu', nell'oceano. Peccato sia completamente arrugginita.}
 {107}{}{Scometto che i ragazzi amano vivere qui.}
 {108}{}{Pesce fresco ogni sera! Saporito, anche se ha due teste.}
-{109}{}{I nostri vicini si possono definire sicuramente "interessanti".}
+{109}{}{I nostri vicini si possono definire sicuramente "interessanti."}
 {110}{}{Prima o poi ci muoveremo, ne sono certo.}
 {111}{}{Ti piacciono le nostre case?}
 {112}{}{Amo vivere sulla spiaggia.}

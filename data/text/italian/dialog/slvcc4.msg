@@ -1,5 +1,5 @@
 {100}{}{Vedi uno schiavo.}
-{101}{}{You see a healthy looking slave.}
+{101}{}{Vedi uno schiavo dall’aspetto sano.}
 {320}{}{Tu cattivo!}
 {321}{}{Noi no parlare te.}
 {322}{}{Noi essere liberi.}
@@ -25,6 +25,6 @@
 {358}{}{Chi si credono di essere quelle persone?}
 {359}{}{Ti prego, aiutaci!}
 {360}{}{Fammi uscire da qui.}
-{400}{}{Oh, why me!}
-{401}{}{*cough*}
+{400}{}{Oh, perché proprio a me!}
+{401}{}{*tosse*}
 {402}{}{*Si gratta*}

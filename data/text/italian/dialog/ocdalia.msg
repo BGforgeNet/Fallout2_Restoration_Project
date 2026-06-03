@@ -1,7 +1,7 @@
 {100}{}{Vedi una giovane donna che indossa un'armatura di metallo.}
 {101}{}{Vedi Dalia.}
 {102}{}{Vedi una giovane donna carina, vestita con un'armatura di metallo. Osserva i dintorni molto attentamente.}
-{103}{}{Bene, lo faro'. Come va, }
+{103}{}{Bene, lo faro'. Come va,}
 {104}{}{Tu Dalia. Me ricorda tu aiutato.}
 {105}{}{Cose ok. Me va ora.}
 {106}{}{Dalia! Grazie a te le cose si sono risolte per il meglio.}
@@ -12,7 +12,7 @@
 {111}{}{Ho qualche domanda per te.}
 {112}{}{Niente, grazie. Ma e' stato bello rivederti. Ciao.}
 {113}{}{Cosa vuoi sapere?}
-{114}{}{Tu prigioniera?}
+{114}{}{Tu. Prigioniero.}
 {115}{}{Tu andare via quando volere?}
 {116}{}{Cosa sapere di D'claw?}
 {117}{}{Come tu arrivato qui?}

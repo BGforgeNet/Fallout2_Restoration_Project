@@ -1,6 +1,6 @@
 {100}{}{Vedi un tossicodipendente.}
 {101}{}{Vedi Petey.}
-{150}{}{This here is a poor drug addict.}
+{150}{}{Questo qui e' un povero tossicodipendente.}
 {151}{}{Petey sembra aver bisogno di aiuto.}
 {152}{}{[parla]}
 {155}{}{[cough, cough] Hai qualche spicciolo da dare a Petey?}
@@ -16,18 +16,18 @@
 {165}{}{Di nulla.}
 {166}{}{Seh, seh.}
 {167}{}{Signore, [cough] potrebbe aiutare un povero derelitto?}
-{168}{}{Here's $5.}
+{168}{}{Ecco 5$.}
 {169}{}{Non oggi.}
 {170}{}{Va' a lavorare.}
 {171}{}{Gentile signora, la prego, aiuti [cough] un povero uomo affamato, troppo [cough] malato per lavorare.}
 {172}{}{Oh, poverino... ecco 5$.}
 {173}{}{Ho la sana abitudine di non dare soldi agli accattoni, io.}
 {174}{}{No.}
-{175}{}{Sorry, I don't have any money on me.}
+{175}{}{Mi spiace, non ho soldi con me.}
 {200}{}{Ehi, amico; hai qualche spicciolo?}
 {201}{}{Ha qualche spicciolo, gentile signore?}
 {202}{}{Ehi, potresti darmi qualche dollaro?}
-{203}{}{Do you think you can help me out with coupla bucks?}
+{203}{}{Pensi di potermi dare un paio di dollari?}
 {204}{}{Credi di potermi prestare qualche spicciolo?}
 {205}{}{Ha qualche spicciolo, gentile signora?}
 {206}{}{Ehi, miss; hai qualche spicciolo?}
@@ -41,21 +41,21 @@
 {231}{}{Uhhh...}
 {232}{}{[risatina]}
 {233}{}{Ehi...}
-{234}{}{Niiicceee...}
-{235}{}{Oh yeah...}
-{300}{}{I can't believe someone fucking killed Tubby...}
+{234}{}{Bene...}
+{235}{}{Oh, si'...}
+{300}{}{Non posso credere che qualcuno abbia ammazzato Tubby...}
 {301}{}{Cosa cazzo e' successo a Tubby?}
-{302}{}{Ah, why did Tubby have to die.}
+{302}{}{Ah... perche' Tubby doveva morire.}
 {303}{}{Ahhh...}
 {304}{}{Comunque non mi piaceva quello stronzo.}
-{305}{}{Flick's dead... Crap.}
+{305}{}{Flick e' morto... Merda.}
 {306}{}{Cos'e' successo a Flick?}
-{307}{}{I miss Flick...}
-{310}{}{Hey Tubby, I..uhhh..need some help here.}
+{307}{}{Mi manca Flick...}
+{310}{}{Ehi Tubby, uhhh... ho bisogno di aiuto.}
 {311}{}{EHI TUBBY!}
 {312}{}{Salve.}
 {313}{}{Ehi!}
-{314}{}{Hey Flick, I..uhhh..need some help here.}
+{314}{}{Ehi Flick, uhhh... ho bisogno di aiuto.}
 {315}{}{EHI FLICK!}
 {320}{}{Ehi Tubby, mi puoi servire? I soldi ce li ho.}
 {321}{}{Ummm, Tubby, ho qui un po' di soldi.}
@@ -69,5 +69,5 @@
 {333}{}{Sei un amico.}
 {334}{}{Uhhh... Grazie ancora, Flick.}
 {335}{}{Sei un amico, Flick.}
-{340}{}{Here. Now beat, you druggie.}
-{341}{}{Take it and get the hell out.}
+{340}{}{Tieni. E adesso sparisci, drogato.}
+{341}{}{Prendi e levati di torno.}

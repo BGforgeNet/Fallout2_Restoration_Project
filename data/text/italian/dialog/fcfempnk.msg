@@ -39,7 +39,7 @@
 {138}{}{Grazie per aver cercato di recuperare la milza di Chip.}
 {139}{}{Hai fatto del tuo meglio per aiutare Chip.}
 {140}{}{Adesso avremo un'altra barzelletta su Chip da raccontare.}
-{141}{}{Mi domando che gusto avesse la milza di Chip.}
+{141}{}{Chissa' se la milza aveva un buon sapore?}
 {142}{}{Yay! Adesso posso avere Chip E la sua milza!}
 {143}{}{Corro subito da Chip!}
 {144}{}{Chip e' un grande!}

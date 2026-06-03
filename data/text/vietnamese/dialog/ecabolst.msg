@@ -49,7 +49,7 @@
  evil. They're no good at all.}
 {356}{}{Thanks for the information. Bye.}
 {360}{}{Just looking to shut down the slave routes.}
-{361}{}{What do you mean?}
+{361}{}{Ý cậu là sao?}
 {362}{}{Oh, ok. Good luck to you.}
 {363}{}{Whatever. Bye.}
 {370}{}{Try slavers. They make really good kills. Nice and messy.}

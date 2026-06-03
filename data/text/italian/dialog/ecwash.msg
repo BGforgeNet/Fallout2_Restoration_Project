@@ -1,28 +1,28 @@
-{100}{}{Vedi Buffy, un membro degli Unwashed Villagers.}
-{101}{}{Vedi Doombot, un membro degli Unwashed Villagers.}
-{102}{}{Vedi Panoply, un membro degli Unwashed Villagers.}
-{103}{}{Vedi Lerk, un membro degli Unwashed Villagers.}
-{104}{}{Vedi Ymir, un membro degli Unwashed Villagers.}
-{105}{}{Vedi Iguana Eater, un membro degli Unwashed Villagers.}
-{106}{}{Vedi Night Owl, un membro degli Unwashed Villagers.}
-{107}{}{Vedi Shadow Dancer, un membro degli Unwashed Villagers.}
-{108}{}{Vedi Amish Commando, un membro degli Unwashed Villagers.}
-{109}{}{Vedi Alexand the Killer Bee, un membro degli Unwashed Villagers.}
-{110}{}{Vedi Hatchetman, un membro degli Unwashed Villagers.}
-{111}{}{Vedi BlueCross, un membro degli Unwashed Villagers.}
-{113}{}{Vedi Buffy, una cheerleader molto bella, intelligente e vivace. La Prima Donna degli Unwashed Villagers.}
+{100}{}{Vedi Buffy, un membro dei Paesani Sudici.}
+{101}{}{Vedi Doombot, un membro dei Paesani Sudici.}
+{102}{}{Vedi Panoply, un membro dei Paesani Sudici.}
+{103}{}{Vedi Lerk, un membro dei Paesani Sudici.}
+{104}{}{Vedi Ymir, un membro dei Paesani Sudici.}
+{105}{}{Vedi Iguana Eater, un membro dei Paesani Sudici.}
+{106}{}{Vedi Night Owl, un membro dei Paesani Sudici.}
+{107}{}{Vedi Shadow Dancer, un membro dei Paesani Sudici.}
+{108}{}{Vedi Amish Commando, un membro dei Paesani Sudici.}
+{109}{}{Vedi Alexand the Killer Bee, un membro dei Paesani Sudici.}
+{110}{}{Vedi Hatchetman, un membro dei Paesani Sudici.}
+{111}{}{Vedi BlueCross, un membro dei Paesani Sudici.}
+{113}{}{Vedi Buffy, una cheerleader molto bella, intelligente e vivace. La Prima Donna dei Paesani Sudici.}
 {114}{}{Vedi Doombot, Dea del Suono e sorella di Buffy. Assomiglia un po' a Marie Osmond.}
 {115}{}{Vedi Panoply, una specie di ragazza-folletto. I suoi occhi tradiscono un lieve caso di demenza.}
-{116}{}{Vedi Lerk, Leader dell'Unwashed SWAT Team - Artista degli Unwashed Villagers - Parla con gli Alberi.}
+{116}{}{Vedi Lerk, Leader dei Paesani del TEAM SWAT- Artista degli Paesani Sudici - l'oratore.}
 {117}{}{Vedi Ymir, Poeta degli Antipodi & Membro Co-Fondatore dei Poetry Bastards - Educatore del Villaggio.}
 {118}{}{Vedi Iguana Eater, Arciduca di Smeet Lite.}
 {119}{}{Vedi Night Owl, Colui il Quale Viglia Sui Dormienti - Co-fondatore dei Poetry Bastards.}
 {120}{}{Vedi Shadow Dancer, Gothic Poetry Bastard - E' strano, ma assomiglia molto a Kevin Bacon.}
 {121}{}{Vedi Amish Commando, Commissario del Blunt Force Trauma, Subcomandante dell'Unwashed SWAT Team.}
-{122}{}{Vedi Alexand the Killer Bee, una varieta' pacifica e intelligente dell'ape killer - Capo Scriba degli Unwashed Villagers.}
+{122}{}{Vedi Alexand the Killer Bee, una varieta' pacifica e intelligente dell'ape killer - Capo Scriba dei Paesani Sudici.}
 {123}{}{Vedi Hatchetman, Armaiolo degli Unwashed - Attaccabrighe - Custode della tradizione di Shadowrun.}
 {124}{}{Vedi BlueCross, Parroco degli Unwashed - Direttore di Produzione.}
-{200}{}{E ancora una volta la giornata e' salva, grazie agli... Unwashed Villagers!}
+{200}{}{Quei Paesani sudici hanno salvato la situazione ancora una volta!}
 {201}{}{La morte e' poco per lui.}
 {202}{}{E rimanici!}
 {203}{}{E ancora una volta il villaggio e' salvo!}
@@ -35,12 +35,12 @@
 {210}{}{Grim ha finalmente trovato uno scopo - fare il fertilizzante.}
 {211}{}{E' questo che succede ad usare il sapone...}
 {212}{}{Adesso ce ne dobbiamo andare!}
-{213}{}{"Questa casa e' pulita".}
+{213}{}{'Questa casa e' pulita.'}
 {214}{}{Posso toccarlo con un bastone per essere sicuro che sia morto davvero?}
 {215}{}{Non aspettarci!}
 {216}{}{E' un lavoro sporco... e mi piace tantissimo!}
 {217}{}{Si torna a pattugliare!}
-{218}{}{Gli Unwashed Villagers. Mantengono la pace in un deserto maledetto.}
+{218}{}{Quei Paesani Sudici. Mantengono la pace in un deserto maledetto.}
 {219}{}{Ha avuto quello che si meritava.}
 {220}{}{Ti faro' correre!}
 {300}{}{Sapone? Noi non abbiamo bisogno del sapone!}
@@ -52,7 +52,7 @@
 {306}{}{Il tuo brodo primordiale era andato a male.}
 {307}{}{E' l'ora della vendetta!}
 {308}{}{Ora avrai quello che ti meriti.}
-{309}{}{Gli Unwashed Villagers sono qui per proteggere la gente dalla feccia come te!}
+{309}{}{I Paesani Sudici sono qui per proteggere la gente dalla feccia come te!}
 {310}{}{Lascia in pace le persone!}
 {311}{}{Il potere dello SPORCO!}
 {312}{}{Saremo anche "zozzi", ma siamo qui per dare una ripulita!}

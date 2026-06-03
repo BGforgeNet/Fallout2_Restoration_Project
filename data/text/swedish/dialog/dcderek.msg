@@ -1,32 +1,32 @@
-{100}{}{You see a citizen of the Den.}
-{101}{}{You see Derek.}
-{150}{}{He looks quite agile.}
-{200}{}{Beat it.}
-{201}{}{I'm too tired to talk.}
-{202}{}{Get out of my place.}
-{203}{}{Get your own place to sleep.}
-{204}{}{Stop bothering me.}
-{205}{}{I'm bushed.}
+{100}{}{Du ser en invånare från Lyan.}
+{101}{}{Du ser Derek.}
+{150}{}{Han ser ganska smidig ut.}
+{200}{}{Stick härifrån.}
+{201}{}{Jag är för trött för att prata.}
+{202}{}{Stick härifrån. Det här är mitt ställe.}
+{203}{}{Skaffa dig en egen sovplats.}
+{204}{}{Sluta störa mig.}
+{205}{}{Jag är helt slut.}
 {206}{}{Doh!}
-{207}{}{Hey, what are you doing here?}
+{207}{}{Hej, vad gör du här?}
 {220}{}{Håll dig borta från Metzger, stammedlem.}
-{221}{}{Why is it always so damn hot?}
-{222}{}{Why do we live in the desert?}
-{223}{}{I'm a good cook.}
-{224}{}{I'm going to open my own restaurant someday.}
-{225}{}{I wish I had a real kitchen.}
-{226}{}{Why am I always getting the short end of life?}
-{227}{}{People are always screwing me.}
-{228}{}{Fred's a dreamer - master plan, my ass.}
-{240}{}{Shhhh! They're everywhere.}
-{241}{}{Make them stop!}
-{242}{}{So you found that damn book?}
-{243}{}{I don't know why Becky won't hire me.}
-{244}{}{I will not go insane!}
-{245}{}{I got my quarters!}
-{246}{}{They come out at night, mostly.}
-{247}{}{I like potatoes!}
-{248}{}{Don't walk on the green stuff without boots!}
+{221}{}{Varför är det alltid så jäkla varmt?}
+{222}{}{Varför bor vi i öknen?}
+{223}{}{Jag är en duktig kock.}
+{224}{}{En dag ska jag öppna en egen restaurang.}
+{225}{}{Jag önskar att jag hade ett riktigt kök.}
+{226}{}{Varför är det alltid jag som drabbas?}
+{227}{}{Folk lurar mig hela tiden.}
+{228}{}{Fred är en drömmare – huvudplan, så fan heller.}
+{240}{}{Tyst! De är överallt.}
+{241}{}{Få dem att sluta!}
+{242}{}{Så du hittade den där jäkla boken?}
+{243}{}{Jag vet inte varför Becky inte vill anställa mig.}
+{244}{}{Jag kommer inte att bli galen!}
+{245}{}{Jag har fått min sovplats!}
+{246}{}{De kommer oftast fram på natten.}
+{247}{}{Jag gillar potatisar!}
+{248}{}{Gå inte på det gröna utan stövlar!}
 {249}{}{Just turn it inside out.}
 {250}{}{Oh, my head hurts really bad now.}
 {251}{}{I'm a grandmaster cook!}
@@ -46,18 +46,18 @@
 {290}{}{What? You! Screw you buddy! I'm not... Ow! Fuck.}
 {291}{}{What? You! Screw you lady! I'm not... Ow! Fuck.}
 {292}{}{Förbannat.}
-{293}{}{Nuf Said.}
-{300}{}{Oh yeah. I didn't like it. Too much kissing. I threw it in the corner of that building... no that building... no... was it a building? Maybe I dropped it somewhere else... or did I throw it? Ow! My head!}
-{301}{}{Book? Oh, that book. Who sent you? I'm not sure if that's the proper side. Don't forget the tissue.}
-{302}{}{I can't! They're... oh crap... Do you have the cheese? Hide!}
-{303}{}{Hey! Not my problem. What was I supposed to do? Fight them? Little green men, big pointy teeth! Fuck! Ouch! Stop that!}
-{304}{}{My head hurts! What... who said that?}
-{305}{}{That helps a lot.}
+{293}{}{Så e de'.}
+{300}{}{Jaha. Jag tyckte inte om den. För mycket kyssar. Jag slängde den i hörnet i den där byggnaden... nä den där byggnaden... nej... var det en byggnad? Kanske tappade jag den någon annanstans... eller kastade jag den? Aj! Mitt huvud!}
+{301}{}{Boken? Åh, den boken. Vem skickade dig? Jag är inte säker på om du står på rätt sida. Glöm inte näsduken.}
+{302}{}{Jag kan inte! De är... åh nej... Har du osten? Göm dig!}
+{303}{}{Hallå! Det är inte mitt problem. Vad skulle jag ha gjort? Slåss mot dem? Små gröna män med stora spetsiga tänder! Fan! Aj! Sluta med det där!}
+{304}{}{Mitt huvud gör ont! Vad... vem sa det där?}
+{305}{}{Det där hjälper verkligen.}
 {306}{}{Eh.}
-{310}{}{What? Are you mocking me! Screw you! I'm not unstable! I can cook! I don't have voices in my head!}
-{311}{}{I'm gonna- shit! Fuck! Damn it! Stop that. Be quiet! What?... Okay.}
-{312}{}{Hey! Sto- do... fuck.}
+{310}{}{Va? Driver du med mig! Dra åt helvete! Jag är inte instabil! Jag kan laga mat! Jag hör inga röster i huvudet!}
+{311}{}{Jag ska - fan! Skit också! Förbannat! Sluta med det där. Var tyst! Vadå?... Okej.}
+{312}{}{Hörru! Vänt- åh... fan.}
 {313}{}{Hej då.}
 {314}{}{Ingenting.}
-{320}{}{Hey! Get away from me!}
-{321}{}{Don't touch me!}
+{320}{}{Hallå! Lämna mig ifred!}
+{321}{}{Rör mig inte!}

@@ -38,7 +38,7 @@
 {137}{Cas0137}{Dopo aver trascinato via un tizio, Joshua, per aver fatto resistenza all'arresto, mi hanno dato una bella multa perche' hanno trovato - immaginati - del VERO whiskey nel locale. Naturalmente non aveva importanza che io avessi ricevuto il permesso da Stark tre mesi prima. Che bastardi.}
 {138}{}{Whoa. Non c'e' da scherzare.}
 {139}{}{Mi dispiace... Parlero' con te piu' tardi.}
-{140}{Cas0140}{E adesso viene il bello. Ora sono in debito con le guardie per via della multa e devo comprare una nuova scorta di alcolici da un mercante al triplo del prezzo normale. Mi aspetto che le guardie si rifacciano vive presto, solo per darmi una bella lezione.}
+{140}{Cas0140}{E adesso viene il bello. Ora sono in debito con le guardie per via della multa e devo comprare una nuova scorta di alcolici da un mercante al triplo del prezzo normale. Mi aspetto che le guardie si rifacciano vive presto, solo per darmi una bella lezione. }
 {141}{}{E di solito come va la vita?}
 {142}{}{Spero che in futuro le cose migliorino. Ci vediamo.}
 {143}{Cas0143}{Persino nelle giornate "migliori" non si fanno grandi affari. I Cittadini non bevono molto, per cui sono bloccato qui a versare da bere ai mercanti. Il prossimo figlio di puttana pidocchioso che viene qui a tirare sul prezzo di un bicchiere di whiskey sara' costretto a indossare il suo culo come fosse un cappello.}
@@ -101,10 +101,10 @@
 {278}{}{Non c'e' niente di male nell'usare una lancia.}
 {279}{}{Okay. Avrei delle altre domande...}
 {280}{}{D'accordo. Stavo solo controllando.}
-{281}{Cas0281}{Questo lo dici tu. Cerca solo di non chiamarmi selvaggio e andremo d'accordo. }
+{281}{Cas0281}{Questo lo dici tu. Cerca solo di non chiamarmi selvaggio e andremo d'accordo.}
 {282}{Cas0282}{Non voglio che la gente mi scambi con il vecchio Osso-al-Naso laggiu'. Eh-eh. Non avevo mai visto un selvaggio fare una cosa cosi' stupida come infilarsi un osso nel naso.}
 {283}{Cas0283}{Certo che non c'e' nulla di male! La lancia e' una buona arma. Un sacco di selvaggi miei amici usano le lance.}
-{284}{}{Lo sapevi che io sono un "selvaggio"?}
+{284}{}{Lo sapevi che io sono un "selvaggio?"}
 {285}{}{Hmmm. Senti, avrei delle altre domande...}
 {286}{}{D'accordo. Grazie della spiegazione.}
 {287}{Cas0287}{Aw, adesso non scherzare con il vecchio Cassidy. Tu non sei un selvaggio.}
@@ -122,18 +122,18 @@
 {299}{Cas0299}{Huh. D'accordo, allora; volevo solo controllare.}
 {300}{Cas0300}{Non mi dispiacerebbe fare dei bei fori nel corpo di qualche rapitore. Un po' di giustizia di frontiera non ha mai fatto male a nessuno...beh, almeno non a me.}
 {301}{}{D'accordo. Andiamo.}
-{302}{Cas0302}{Le cose che dice quel piccolo rompiscatole non sono adatte per delle orecchie delicate. }
+{302}{Cas0302}{Le cose che dice quel piccolo rompiscatole non sono adatte per delle orecchie delicate.}
 {303}{Cas0303}{Specialmente per quelle di una donna.}
 {304}{}{Oh, Cassidy, non credevo che ti preoccupassi di certe cose. Il mio cuore e' tutto un fremito.}
 {305}{}{Allora? Cosa stai cercando di dirmi?}
 {306}{}{Sai, anche tu sei un bel rompiscatole, Cassidy.}
 {307}{}{Ah, non dirmelo. Adesso andiamo.}
-{308}{Cas0308}{Si', ma quando lo faccio io, lo faccio con stile. Lui ha solo una bocca piena di spazzatura. }
+{308}{Cas0308}{Si', ma quando lo faccio io, lo faccio con stile. Lui ha solo una bocca piena di spazzatura.}
 {309}{Cas0309}{E non mi piace nemmeno il modo in cui ti guarda.}
 {310}{}{Oh, Cassidy, non credevo che ti preoccupassi di certe cose. Il mio cuore e' tutto un fremito.}
 {311}{}{Allora? Cosa stai cercando di dirmi?}
 {312}{}{Ah, non dirmelo. Adesso andiamo.}
-{313}{Cas0313}{Aspetta un attimo, non intendevo questo. }
+{313}{Cas0313}{Aspetta un attimo, non intendevo questo.}
 {314}{Cas0314}{Quel che voglio dire e' che quello stronzo d'un innocentino incontrera' il suo destino il giorno in cui saremo soltanto io, lui e un buco nel deserto.}
 {315}{}{Beh, la vita e' una maestra severa gia' di per se. Avrei delle altre domande da farti...}
 {316}{}{Beh, e' destinato a tirare le cuoia da un momento all'altro. Io non me ne preoccuperei.}
@@ -195,7 +195,7 @@
 {372}{}{Prima fammi sparare una pillola per il cuore...}
 {1000}{Cas1000}{Beh...d'accordo, allora. Aspettero' qui finche' non sarai tornato. }
 {1100}{Cas1100}{Certo. Non posso prometterti che non la tirero' fuori in caso di problemi, pero'.}
-{1200}{Cas1200}{D'accordo, ti staro' appiccicato, allora. Dai per scontato che ci metteremo nei guai, eh?}
+{1200}{Cas1200}{Bene, allora ti staro' vicino. Devi aspettarti dei guai.}
 {1300}{Cas1300}{D'accordo, staro' un po' a distanza. Avro' una migliore linea di tiro, cosi'.}
 {1400}{Cas1400}{D'accordo, ti guardero' le spalle. Se hai bisogno di me, grida, e io arrivero' di corsa.}
 {2000}{Cas2000}{Senza offesa, ma non mi sembri proprio il tipo adatto per fare il leader. Credo che le Lande potrebbero fare tranquillamente un sol boccone di te.}

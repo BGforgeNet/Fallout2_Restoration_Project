@@ -1,8 +1,8 @@
-{100}{}{You see a tribal.}
-{101}{}{You see a captive tribal of the Doctor.}
-{102}{}{A sad-looking prisoner, belonging to the Doctor.}
-{103}{}{HELP!}
-{104}{}{HELP US!}
-{105}{}{Please free us!!}
-{106}{}{We can't take any more!!}
-{107}{}{Thank you, friend!}
+{100}{}{Vedi un tribale.}
+{101}{}{Vedi un tribale prigioniero del Dottore.}
+{102}{}{Un prigioniero dall'aspetto triste, di proprieta' del Dottore.}
+{103}{}{AIUTO!}
+{104}{}{AIUTATECI!}
+{105}{}{Vi prego, liberateci!!}
+{106}{}{Non ne possiamo piu'!!}
+{107}{}{Grazie, amico!}

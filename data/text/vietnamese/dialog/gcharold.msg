@@ -28,7 +28,7 @@
 {127}{hld4a}{Well, sorta. Our atomic reactor's a mite... sensitive. The people I got running it mean well, but... well, they are not the sharpest tools in the shed. If you know what I mean.}
 {128}{hld4b}{Well, we're doing better now you've fixed our reactor. I'd never thought anybody'd get those idjits in Vault City to help us out.}
 {129}{hld4c}{You know, it's not so bad now. You fix the power plant, then you get the info we need to make it good-as-new. Golly-be-damned, ain't you somethin'?!}
-{130}{}{What do you mean?}
+{130}{}{Ý cậu là sao?}
 {131}{}{I didn't want to see Vault City destroy your town.}
 {132}{}{Well, I didn't want to see Vault City destroy your town. Besides it was in their best interest to fix your power plant as well.}
 {133}{}{Well, since it's in Vault City's best interest to fix up your reactor, it wasn't too hard to get the Optimization info from them.}

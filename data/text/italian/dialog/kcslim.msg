@@ -27,7 +27,7 @@
 {172}{}{Credo che per entrare nella zona nord di Trapper Town mi serva una chiave.}
 {173}{}{Avrei delle domande che vorrei farti.}
 {174}{}{Non credo che mi serva qualcosa. Ci vediamo.}
-{180}{}{Beh, questa e' la zona della citta' dove tutti noi trapper abitiamo quando non siamo a caccia di gecki. L'unico problema di questo "dormitorio" gratuito sono i ratti nella parte nord. E' per colpa loro se abbiamo dovuto chiudere la maggior parte degli accessi a quell'area. }
+{180}{}{Beh, questa e' la zona della citta' dove tutti noi trapper abitiamo quando non siamo a caccia di gecki. L'unico problema di questo "dormitorio" gratuito sono i ratti nella parte nord. E' per colpa loro se abbiamo dovuto chiudere la maggior parte degli accessi a quell'area.}
 {181}{}{Che cosa ti interessa sapere?}
 {182}{}{Andate mai nella zona nord?}
 {183}{}{Parlami della caccia al gecko.}
@@ -63,7 +63,7 @@
 {243}{}{Non mi serve nient'altro, per il momento. Grazie lo stesso.}
 {250}{}{Abbiamo bloccato tutti gli accessi alla zona nord tranne uno. Io ho la chiave per quell'entrata -- nel caso in cui qualcuno avesse bisogno di andare la' per qualche ragione. Non riesco a immaginare perche' uno dovrebbe volerlo fare, pero'; io di sicuro non lo farei.}
 {251}{}{Interessante; parliamo di qualcos'altro.}
-{252}{}{Potresti darmi quella chiave?}
+{252}{}{Mi interessa avere quella chiave.}
 {253}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
 {260}{}{Ti interessa la caccia, eh? (Ti guarda attentamente.)}
 {261}{}{[AVANTI]}
@@ -109,7 +109,7 @@
 {370}{}{La tua tribu' e' composta prevalentemente da contadini, giusto? Non credo di poterti insegnare proprio un fischio.}
 {371}{}{Sono gia' cosi' bravo, eh? Beh, parliamo di qualcos'altro, allora.}
 {372}{}{Allora credo proprio che me ne andro'. Arrivederci.}
-{380}{}{Beh, questa lezione ti dovrebbe aver insegnato due o tre cosette sulla sopravvivenza nelle grandi Lande. Spero che tu possa farne buon uso. Tieni a mente quello che ti ho detto sugli escrementi. }
+{380}{}{Beh, questa lezione ti dovrebbe aver insegnato due o tre cosette sulla sopravvivenza nelle grandi Lande. Spero che tu possa farne buon uso. Tieni a mente quello che ti ho detto sugli escrementi.}
 {381}{}{Certo. Gli escrementi vecchi non hanno lo stesso sapore di quelli freschi. Grazie, Slim. Adesso dimmi di piu' a proposito dei gecki.}
 {382}{}{Grazie per tutti i tuoi consigli, Slim, ma sono ancora convinto che annusare gli escrementi sia piu' che sufficiente. Avrei delle altre domande, pero'.}
 {383}{}{Grazie delle informazioni, Slim. Andro' subito a fare un po' di pratica. Arrivederci.}

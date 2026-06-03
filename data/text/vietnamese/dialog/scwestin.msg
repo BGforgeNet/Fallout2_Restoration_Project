@@ -19,7 +19,7 @@
 {118}{}{The sheriff suggested I come talk to you personally.}
 {119}{}{Fine. Be that way.}
 {120}{}{I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.}
-{121}{}{What do you mean?}
+{121}{}{Ý cậu là sao?}
 {122}{}{Câm mồm đi.}
 {123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
 {124}{}{Uh-huh.}

@@ -45,7 +45,7 @@
 {144}{}{Tu ragione, me occupa di Darion.}
 {145}{}{Me no sicuro.}
 {146}{}{Si', immagino che qualcosa si debba fare.}
-{147}{}{I don't know.}
+{147}{}{Non lo so.}
 {148}{}{Magnifico. Buona fortuna e... grazie.}
 {149}{}{Fatto.}
 {150}{}{Beh, prenditi un po' di tempo per pensarci, ma sappi questo -- fino a quando Darion non sara' fuori gioco, non posso fare altro che mantenere lo stato attuale delle cose. Devo pensare al bene di tutti. Stando cosi' le cose, non potrei concludere nessun accordo con te e tu saresti ancora "persona non gradita" da queste parti. Capito?}

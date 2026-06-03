@@ -95,13 +95,13 @@
 {301}{}{Uhhh... signore, io stavo solo...}
 {302}{}{Toglile le tue luride mani di dosso...}
 {350}{}{[Guardando Bessy] Consegnare.}
-{360}{}{Potresti prepararmi un po' di carne?}
+{360}{}{Vorrei che mi preparassi un po’ di carne secca.}
 {400}{}{Cosa sta succedendo qui?}
 {402}{}{Per tutti i diavoli! Sapevo che }
 {403}{}{Come osi disonorare }
 {404}{}{Uh, Jo, potremmo saltare la parte del giuramento?}
-{406}{}{Ragazzo... }
-{407}{}{Ragazza... }
+{406}{}{Ragazzo...}
+{407}{}{Ragazza...}
 {410}{}{Non costringermi a fare di }
 {412}{}{Miria}
 {413}{}{Davin}
@@ -147,7 +147,7 @@
 {1238}{}{Vediamo un po'... A me sembra che tu e mia nipote steste imitando due brahmin durante la stagione degli amori.}
 {1239}{}{Vediamo un po'... A me sembra che tu e mio nipote steste ballando il tango orizzontale tra le lenzuola.}
 {1403}{}{Come osi disonorare }
-{1412}{}{la mia bambina}
+{1412}{}{figlia.}
 {1413}{}{figlio.}
 {1600}{}{. Spero che tu ti sia preso cura di mia figlia Miria. E' la luce della mia vita e mi si spezzerebbe il cuore se le succedesse qualcosa. A proposito, dov'e'? Speravo tanto di rivederla.}
 {1601}{}{. Come va la vita matrimoniale? Vedo che mio figlio Davin non e' con te. Mi manca davvero molto. Magari la prossima volta che vieni a farmi visita potresti portarlo con te. Rivedere il mio unico figlio mi renderebbe un vecchio felice.}

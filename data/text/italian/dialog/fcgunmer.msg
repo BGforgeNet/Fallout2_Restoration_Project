@@ -16,7 +16,7 @@
 {115}{}{Ciao!}
 {116}{}{No. Non e' abbastanza. Mi dispiace molto. Qualcos'altro, magari?}
 {117}{}{Altre domande.}
-{118}{}{No. Ciao.}
+{118}{}{No. Ciao}
 {119}{}{Ti serve qualcos'altro?}
 {120}{}{Me compra!}
 {121}{}{No. Ciao.}

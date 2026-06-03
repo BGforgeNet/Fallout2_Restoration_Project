@@ -1,7 +1,7 @@
 {100}{}{Vedi Padre Tully.}
 {150}{}{Vedi un uomo anziano che indossa una tunica marrone e che ha le tipiche macchie rosse da beone sulle guance. Sembra un pochiiiiiino barcollante.}
 {151}{}{Vedi Padre Tully. Pare si sia scolato un paio di bicchierini.}
-{200}{}{Io sono benedettissimo. }
+{200}{}{Io sono benedettissimo.}
 {201}{}{E le donne dovrebbero salutarmi con un bacio santo.}
 {202}{}{Berro' fino a far uscire il diavolo da me, se ci saro' costretto.}
 {203}{}{Un vero sermone non ha parole...}
@@ -17,7 +17,7 @@
 {221}{}{Nequizia! Peccato! Ehm... cosa fai piu' tardi?}
 {222}{}{Meretrice! Prostituta! Femmina da conio! Ehm... cosa fai piu' tardi?}
 {225}{}{Come va? Ti conoshco? }
-{226}{}{Shaalute... cosha puo' fare Padre Tully per te questa...}
+{226}{}{Shaalute... cosha puo' fare Padre Tully per te questa... }
 {227}{}{Tu shei quello che ha fatto vedere le suore verdi, er, i sorci verdi all'Enclave? Shei un eroooe.}
 {228}{}{Me e-rroe}
 {229}{}{Me ciao-e}
@@ -234,7 +234,7 @@
 {812}{}{Sparano raggi di luce? Sta parlando di armi laser?}
 {814}{}{Wow... magari potrei cercare di mettere le mani su una di queste armi. Beh, grazie per aver parlato con me.}
 {820}{}{E' coshi' che li ho sentiti chiamarle... la-ser... Ma per me, quelle armi sono proprieta' del diavolo, immondi Luciferi, strumenti ideati solo per uccidere!}
-{821}{}{Si', certamente, Padre. Strumenti del diavolo e tutto il resto. Cosa ne pensano le altre famiglie di questi "Luciferi"?}
+{821}{}{Sì, certamente, Padre. Strumenti del diavolo e tutto il resto. Cosa ne pensano le altre famiglie di questi ‘Portatori di Luce?’}
 {823}{}{Strumenti del diavolo, eh? Magari potrei cercare di mettere le mani su una di queste armi. Beh, grazie per aver parlato con me.}
 {830}{}{Uno dei loro fulminatori potrebbe uscidere una dozzina di uomini. Una volta le altre famiglie combattevano contro i Salvatore, ma adesso non li dishturbano piu'. E' una pace di fatto... funziona finche' dura, credo.}
 {831}{}{Chi e' il capo dei Salvatore, Padre?}
@@ -279,9 +279,9 @@
 {2004}{}{(Tiri fuori il tuo Pip-Boy e lo porgi a Padre Tully perche' indichi la posizione. Prima punta verso l'oceano, poi verso una catena
  montuosa a caso a sud. Dopo essersi quasi cavato un occhio, alla fine posa il dito sull'angolo nordest della mappa.) Si', la'
  c'e' l'Abbazia. Sembra giusto.}
-{2005}{}{I appreciate it, Father. I have some other questions though.}
+{2005}{}{La ringrazio, Padre. Però ho altre domande.}
 {2006}{}{Grazie. Ma sono curioso, perche' hai lasciato l'Abbazia?}
-{2007}{}{Thanks, Father. I must be going now.}
+{2007}{}{Grazie, Padre. Ora devo andare.}
 {2008}{}{Be' era tantoooo tempo fa. Non mi ero ancora messo in riga. Era prima che l'angelo della signora Wright mi raddrizzasse. Vedi,
  quei monaci non gradivano le mie maniere da selvaggio. Io e Fratello Samuel, ogni tanto si faceva un po' i matti. Hehe, una notte, Sammy ed io andammo
  in giro dai monaci addormentati e gli mettemmo le mani in bacinelle d'acqua calda. Anche l'Abate! Ha! Quelli erano i bei tempi, credimi.}
@@ -292,16 +292,16 @@
 {2012}{}{Viaggero' molto, quindi se capita di passare dall'Abbazia, magari andro' a trovare questo tuo amico Samuel. Cazzo, magari
  ti porto anche un po' di quel distillato.}
 {2013}{}{Oh, potresti, per favore? Mi renderebbe piu' felice di una puttana di Reno senza malattie. Grazie amico.}
-{2014}{}{No problem. I have some other questions though.}
-{2015}{}{Sure. See you around.}
+{2014}{}{Nessun problema. Avrei delle altre domande pero'.}
+{2015}{}{Certo. Ci si vede.}
 {2016}{}{Viaggero' molto, quindi se capita di passare dall'Abbazia, magari ti porto un po' di quel distillato.}
-{2017}{}{Interesting. See you around.}
+{2017}{}{Interessante. Ci vediamo.}
 {2020}{}{L'Abbazia, eh? Ci sono stato. Anzi, ho incontrato un tizio di nome Samuel che si comporta molto come te.}
 {2021}{}{Samuel!? Ha! Come sta quel tipo? Sono anni che non lo vedo. Sta ancora a sbevazzare, vero?}
-{2022}{}{Yeah, he reeks of alcohol, much like you.}
+{2022}{}{Sì, puzza di alcol… proprio come te.}
 {2023}{}{Ah, fantastico. Bello sapere che sta bene. Se lo rivedi, digli che lo saluto. Allora... (Si strofina le
  mani con entusiasmo.) Allora, magari hai preso un po' del famoso distillato dell'Abbazia mentre eri la'?}
-{2024}{}{Yeah, I got some right here.}
+{2024}{}{Sì, ne ho un po’ proprio qui.}
 {2025}{}{Si', ma l'ho bevuto. Accidenti se e' roba forte.}
 {2026}{}{No.}
 {2027}{}{Non devi strofinarmi il sale sulla ferita. E' cosi' tanto che non ne bevo... me la caverei bene con una bottiglia o due. C'e' qualche possibilita' che tu passi di nuovo dall'Abbazia?}
@@ -309,11 +309,11 @@
  tu passi di nuovo dall'Abbazia?}
 {2029}{}{Davvero? E' cosi' tanto che non ne bevo. Saresti disposto a cedermelo?}
 {2030}{}{Vedremo. Se ci passo, cerchero' di ricordarmi di prenderne un po' per te. A presto, Padre.}
-{2031}{}{Probably not. Look, I must be going.}
-{2032}{}{Probably. I pick one up for you when I am passing through. I had some other question though.}
-{2033}{}{Sure. Here you go.}
-{2034}{}{Actually, I think I'll hold on to this for awhile. Gotta run. Bye.}
-{2035}{}{Sure. For a price though.}
+{2031}{}{Probabilmente no. Senti, devo andare.}
+{2032}{}{Probabile. Te ne prenderò uno quando ripasso. Però avevo un’altra domanda.}
+{2033}{}{Certo. Ecco qui.}
+{2034}{}{In realtà credo che lo terrò ancora un po’. Devo andare. Addio.}
+{2035}{}{Certo. Ma per un prezzo.}
 {2036}{}{(Padre Tully afferra la bottiglia dalla tua mano e fa un lungo sorso.) Oh si', proprio come lo ricordavo. (Fa
  altri sorsi, ti saluta debolmente con la mano, poi barcolla verso il retro. Senti dei gemiti, seguiti da un tonfo.)}
 {2037}{}{(Padre Tully apre la cassetta delle offerte, prende una manciata di monete e te le porge. Annuisci e gli dai la
@@ -323,16 +323,16 @@
 {2041}{}{E' un gran tipo. Se mai lo incontri, fagli sapere che me la vivo bene a New Reno. Non ci parlo da quando ho lasciato l'Abbazia.}
 {2042}{}{Certo. Ma sono curioso, perche' hai lasciato l'Abbazia?}
 {2045}{}{Davvero? Peccato. Era un gran tipo. Mi manchera'.}
-{2046}{}{Yeah. Well, I have some other questions.}
-{2047}{}{Never was much of a mourner. See you around.}
-{2050}{}{I'm curious, why'd you leave the Abbey?}
+{2046}{}{Sì. Comunque, ho altre domande.}
+{2047}{}{Non sono mai stato uno che si strugge troppo. Ci vediamo.}
+{2050}{}{Sono curioso: perché hai lasciato l’Abbazia?}
 {2060}{}{Ho parlato con Fratello Samuel. A quanto pare sta ancora a sbevazzare.}
 {2061}{}{Ho una bottiglia del famoso distillato dell'Abbazia.}
 {2062}{}{Hehe, il buon vecchio Sam. Bello saperlo. Suppongo che prima o poi dovrei provare ad andarci di nuovo.}
-{2063}{}{Well, see you around, Father.}
+{2063}{}{Bene, ci vediamo, Padre.}
 {2064}{}{Ho anche una bottiglia del famoso distillato dell'Abbazia che volevi.}
 {2065}{}{Hehe, il buon vecchio Sam. Bello saperlo. Suppongo che prima o poi dovrei provare ad andarci di nuovo.}
 {3000}{}{Informi sia Padre Tully che Fratello Samuel di dove si trova l'altro.}
 {3001}{}{Consegni una bottiglia del famoso distillato dell'Abbazia a Padre Tully.}
-{3022}{}{Actually, he's dead.}
+{3022}{}{In realtà è morto.}
 {20091}{}{Hah! E' un classico. Ho fatto lo stesso scherzo a mio nipote Feargus una volta, e quando si e' svegliato e ha capito che se l'era fatta addosso, ha cominciato a frignare -- e' stato grandioso. Comunque, ti hanno poi cacciato?}

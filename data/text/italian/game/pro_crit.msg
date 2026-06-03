@@ -18,9 +18,9 @@
 {1001}{}{Una mucca mutante bicipite.}
 {1100}{}{un Ratto}
 {1101}{}{Un grosso ratto comune.}
-{1200}{}{Mantis}
+{1200}{}{Mantide}
 {1201}{}{Una mantide mutante.}
-{1300}{}{Elder}
+{1300}{}{Anziana}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{una Pianta Sporigena}
@@ -68,8 +68,8 @@
 {5700}{}{una Mercante Scarsa}
 {5800}{}{una Mercante nella Media}
 {5900}{}{una Mercante nella Media}
-{6000}{}{una Maestra Mercante}
-{6100}{}{una Maestra Mercante}
+{6000}{}{Maestro Mercante}
+{6100}{}{Maestro Mercante}
 {6200}{}{Vic}
 {6300}{}{una Contadina Debole}
 {6400}{}{una Contadina Debole}
@@ -109,7 +109,7 @@
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
-{10000}{}{Lumpy}
+{10000}{}{Bitorzoluto}
 {10100}{}{un Luminoso del Reattore}
 {10200}{}{un Ghoul del Reattore}
 {10300}{}{una Guardia del Reattore}
@@ -125,7 +125,7 @@
 {11300}{}{un Ratto-porco Tenace}
 {11400}{}{un Brahmin Debole}
 {11401}{}{Una mucca mutante bicipite.}
-{11500}{}{A.Pwr.Armor (don't use)}
+{11500}{}{A.Pwr.Armor (non usare)}
 {11600}{}{un Ratto Mutante}
 {11601}{}{Un tenace ratto mutante.}
 {11700}{}{un Ratto-talpa Mutante}
@@ -135,18 +135,18 @@
 {11900}{}{un Super Mutante}
 {12000}{}{Mutante Potente}
 {12100}{}{Melchior}
-{12200}{}{Hero Andro (don't use)}
-{12300}{}{Hero Andro (don't use)}
-{12400}{}{Hero Male (don't use)}
-{12500}{}{Hero Female (don't use)}
-{12600}{}{Hero Male (don't use)}
-{12700}{}{Hero Female (don't use)}
-{12800}{}{Hero Male (don't use)}
-{12900}{}{Hero Female (don't use)}
-{13000}{}{Hero Male (don't use)}
-{13100}{}{Hero Female (don't use)}
-{13200}{}{Hero Male (don't use)}
-{13300}{}{Hero Female (don't use)}
+{12200}{}{Eroe Andro (non usare)}
+{12300}{}{Eroe Andro (non usare)}
+{12400}{}{Eroe Maschio (non usare)}
+{12500}{}{Eroe Femmina (non usare)}
+{12600}{}{Eroe Maschio (non usare)}
+{12700}{}{Eroe Femmina (non usare)}
+{12800}{}{Eroe Maschio (non usare)}
+{12900}{}{Eroe Femmina (non usare)}
+{13000}{}{Eroe Maschio (non usare)}
+{13100}{}{Eroe Femmina (non usare)}
+{13200}{}{Eroe Maschio (non usare)}
+{13300}{}{Eroe Femmina (non usare)}
 {13400}{}{una Guardia di Vault City}
 {13500}{}{una Guardia di Vault City}
 {13600}{}{un Cybercane}
@@ -155,10 +155,10 @@
 {13900}{}{una Guardia da Mischia di NCR}
 {14000}{}{una Guardia degli Schiavisti}
 {14100}{}{un Caposquadra degli Schiavisti}
-{14200}{}{una Gran Maestra Mercante}
-{14300}{}{una Gran Maestra Mercante}
+{14200}{}{Gran Maestro Mercante}
+{14300}{}{Gran Maestro Mercante}
 {14400}{}{Tandi}
-{14500}{}{Merc}
+{14500}{}{Mercenario}
 {14600}{}{Ratch}
 {14700}{}{Doofus}
 {14800}{}{Mikey}
@@ -190,7 +190,7 @@
 {17400}{}{Dar}
 {17500}{}{Dalia}
 {17600}{}{Gordon}
-{17700}{}{test (don't use)}
+{17700}{}{test (non utilizzare)}
 {17800}{}{un Ghoul del Reattore}
 {17900}{}{un Ghoul Generico}
 {18000}{}{Matt}
@@ -214,7 +214,7 @@
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Butcher}
+{20000}{}{Macellaio}
 {20100}{}{Petey}
 {20200}{}{una Cacciatrice Primitiva}
 {20300}{}{una Cacciatrice Primitiva}
@@ -230,7 +230,7 @@
 {21300}{}{una Donna Bandito}
 {21400}{}{una Contadina}
 {21500}{}{una Contadina}
-{21600}{}{Mantis}
+{21600}{}{Mantide}
 {21700}{}{Schiavista}
 {21800}{}{Schiavista}
 {21900}{}{un Brahmin Selvatico}
@@ -248,8 +248,8 @@
 {23100}{}{una Pescatrice}
 {23200}{}{una Selvaggia}
 {23300}{}{una Selvaggia}
-{23400}{}{un Donna Contrabbandiere}
-{23500}{}{un Donna Contrabbandiere}
+{23400}{}{una Contrabbandiera}
+{23500}{}{una Contrabbandiera}
 {23600}{}{una Cercatrice}
 {23700}{}{una Cercatrice}
 {23800}{}{una Predone}
@@ -270,7 +270,7 @@
 {25300}{}{un Membro della Squadra di Arruolamento}
 {25400}{}{un Mercenario}
 {25500}{}{un Mercenario}
-{25600}{}{Nightkin}
+{25600}{}{Notturni}
 {25700}{}{un Nightkin Tenace}
 {25800}{}{un Ghoul Tenace}
 {25900}{}{un Gangster}
@@ -284,8 +284,8 @@
 {26700}{}{un Uomo del Vault 13}
 {26800}{}{una Donna del Vault 13}
 {26900}{}{il Guardiano del Ponte}
-{27000}{}{la Straniera Mistriosa}
-{27100}{}{la Straniera Mistriosa}
+{27000}{}{Straniero Misterioso}
+{27100}{}{Straniero Misterioso}
 {27200}{}{Hakeswill}
 {27300}{}{Big Jesus Mordino}
 {27400}{}{Dumar}
@@ -294,15 +294,15 @@
 {27700}{}{Lo Pan}
 {27800}{}{una Hubologista}
 {27900}{}{una Hubologista}
-{28000}{}{la Straniera Mistriosa}
-{28100}{}{la Straniera Mistriosa}
-{28200}{}{la Straniera Mistriosa}
-{28300}{}{la Straniera Mistriosa}
-{28400}{}{la Straniera Mistriosa}
-{28500}{}{la Straniera Mistriosa}
-{28600}{}{la Straniera Mistriosa}
-{28700}{}{la Straniera Mistriosa}
-{28800}{}{il Gorilla del Pres.}
+{28000}{}{Straniero Misterioso}
+{28100}{}{Straniero Misterioso}
+{28200}{}{Straniero Misterioso}
+{28300}{}{Straniero Misterioso}
+{28400}{}{Straniero Misterioso}
+{28500}{}{Straniero Misterioso}
+{28600}{}{Straniero Misterioso}
+{28700}{}{Straniero Misterioso}
+{28800}{}{il Gorilla del Pres}
 {28900}{}{un Uovo di Deathclaw}
 {29000}{}{Metzger}
 {29100}{}{una Persona}
@@ -310,7 +310,7 @@
 {29300}{}{il Presidente}
 {29400}{}{il Vicepresidente}
 {29500}{}{un Tecnico}
-{29600}{}{Badger}
+{29600}{}{Tasso}
 {29700}{}{il Dr. Fung}
 {29800}{}{un Bambino}
 {29900}{}{un Bambino}
@@ -324,61 +324,61 @@
 {30700}{}{un Lavoratore del Porto}
 {30800}{}{un Mercante Shi}
 {30900}{}{il Reeh Rat'to}
-{31000}{}{Sulik - Stage 1}
-{31100}{}{Sulik - Stage 2}
-{31200}{}{Sulik - Stage 3}
-{31300}{}{Sulik - Stage 4}
-{31400}{}{Sulik - Stage 5}
-{31500}{}{Sulik - Stage 6}
-{31600}{}{Lenny - Stage 1}
-{31700}{}{Lenny - Stage 2}
-{31800}{}{Lenny - Stage 3}
-{31900}{}{Goris - Stage 1}
-{32000}{}{Goris - Stage 2}
-{32100}{}{Goris - Stage 3}
-{32200}{}{Goris - Stage 4}
-{32300}{}{Goris - Stage 5}
-{32400}{}{Goris - Stage 6}
-{32500}{}{Myron - Stage 1}
-{32600}{}{Myron - Stage 2}
-{32700}{}{Myron - Stage 3}
-{32800}{}{Myron - Stage 4}
-{32900}{}{Marcus - Stage 1}
-{33000}{}{Marcus - Stage 2}
-{33100}{}{Marcus - Stage 3}
-{33200}{}{Marcus - Stage 4}
-{33300}{}{Marcus - Stage 5}
+{31000}{}{Sulik - Livello 1}
+{31100}{}{Sulik - Livello 2}
+{31200}{}{Sulik - Livello 3}
+{31300}{}{Sulik - Livello 4}
+{31400}{}{Sulik - Livello 5}
+{31500}{}{Sulik - Livello 6}
+{31600}{}{Lenny - Livello 1}
+{31700}{}{Lenny - Livello 2}
+{31800}{}{Lenny - Livello 3}
+{31900}{}{Goris - Livello 1}
+{32000}{}{Goris - Livello 2}
+{32100}{}{Goris - Livello 3}
+{32200}{}{Goris - Livello 4}
+{32300}{}{Goris - Livello 5}
+{32400}{}{Goris - Livello 6}
+{32500}{}{Myron - Livello 1}
+{32600}{}{Myron - Livello 2}
+{32700}{}{Myron - Livello 3}
+{32800}{}{Myron - Livello 4}
+{32900}{}{Marcus - Livello 1}
+{33000}{}{Marcus - Livello 2}
+{33100}{}{Marcus - Livello 3}
+{33200}{}{Marcus - Livello 4}
+{33300}{}{Marcus - Livello 5}
 {33400}{}{Cybercane - Stage 1}
 {33500}{}{Cybercane - Stage 2}
 {33600}{}{Cybercane - Stage 3}
 {33700}{}{Cybercane - Stage 4}
-{33800}{}{Cassidy - Stage 1}
-{33900}{}{Cassidy - Stage 2}
-{34000}{}{Cassidy - Stage 3}
-{34100}{}{Cassidy - Stage 4}
-{34200}{}{Dogmeat}
-{34300}{}{Dogmeat - Stage 1}
-{34400}{}{Dogmeat - Stage 2}
-{34500}{}{Dogmeat - Stage 3}
-{34600}{}{Dogmeat - Stage 4}
-{34700}{}{Dogmeat - Stage 5}
-{34800}{}{Dogmeat - Stage 6}
-{34900}{}{Robobrain - Stage 1}
-{35000}{}{Robobrain - Stage 2}
-{35100}{}{Robobrain - Stage 3}
-{35200}{}{Robobrain - Stage 4}
-{35300}{}{Robobrain - Stage 5}
+{33800}{}{Cassidy - Livello 1}
+{33900}{}{Cassidy - Livello 2}
+{34000}{}{Cassidy - Livello 3}
+{34100}{}{Cassidy - Livello 4}
+{34200}{}{Polpetta}
+{34300}{}{Dogmeat - Livello 1}
+{34400}{}{Dogmeat - Livello 2}
+{34500}{}{Dogmeat - Livello 3}
+{34600}{}{Dogmeat - Livello 4}
+{34700}{}{Dogmeat - Livello 5}
+{34800}{}{Dogmeat - Livello 6}
+{34900}{}{Robobrain -Livello 1}
+{35000}{}{Robobrain - Livello 2}
+{35100}{}{Robobrain - Livello 3}
+{35200}{}{Robobrain - Livello 4}
+{35300}{}{Robobrain - Livello 5}
 {35400}{}{la Regina Aliena}
 {35500}{}{un Radscorpione Nero}
 {35600}{}{un Radscorpione Nero}
-{35700}{}{Spud}
+{35700}{}{Patata}
 {35800}{}{il Capitano dei Mercenari}
 {35900}{}{un Mercenario}
 {36000}{}{un Mercenario}
 {36100}{}{Ombra-che-cammina}
 {36200}{}{una Punk}
 {36300}{}{una Punk}
-{36400}{}{Marc}
+{36400}{}{Mark}
 {36500}{}{Dave H.}
 {36600}{}{il Capit. A. Ron Meyers}
 {36700}{}{Chip}
@@ -387,12 +387,12 @@
 {37000}{}{una Guardia Hubologist}
 {37100}{}{Juan}
 {37200}{}{Vikki}
-{37300}{}{Vic - Stage 1}
-{37400}{}{Vic - Stage 2}
-{37500}{}{Vic - Stage 3}
-{37600}{}{Vic - Stage 4}
-{37700}{}{Vic - Stage 5}
-{37800}{}{Vic - Stage 6}
+{37300}{}{Vic - Livello 1}
+{37400}{}{Vic - Livello 2}
+{37500}{}{Vic - Livello 3}
+{37600}{}{Vic - Livello 4}
+{37700}{}{Vic - Livello 5}
+{37800}{}{Vic - Livello 6}
 {37900}{}{Robobrain - Scimpanze'}
 {38000}{}{Robobrain - Anormale}
 {38100}{}{Robobrain - Umano}
@@ -408,9 +408,9 @@
 {39100}{}{Jobe}
 {39200}{}{Smitty}
 {39300}{}{Rube}
-{39400}{}{Master Krall}
+{39400}{}{Maestro Krall}
 {39500}{}{Ziggy}
-{39600}{}{Master Khung}
+{39600}{}{Maestro Khung}
 {39700}{}{John Bishop}
 {39800}{}{Angela Bishop}
 {39900}{}{la Signora Bishop}
@@ -426,15 +426,15 @@
 {40900}{}{un Uomo di Mordino 3}
 {41000}{}{una Guardia di Myron 1}
 {41100}{}{una Guardia di Myron 2}
-{41200}{}{Mr. Wright}
-{41300}{}{Mrs. Wright}
+{41200}{}{Signor Wright}
+{41300}{}{Signora Wright}
 {41400}{}{Chris Wright}
 {41500}{}{Keith Wright}
 {41600}{}{un Figlio di Wright 1}
 {41700}{}{un Figlio di Wright 2}
 {41800}{}{una Figlia di Wright 1}
 {41900}{}{una Figlia di Wright 2}
-{42000}{}{Mr. Salvatore}
+{42000}{}{Don Salvatore}
 {42100}{}{Mason}
 {42200}{}{un Gangster di Salvatore 1}
 {42300}{}{un Gangster di Salvatore 2}
@@ -487,77 +487,77 @@
 {47000}{}{una Torretta Armata}
 {47001}{}{Questa e' una torretta automatica armata con un Cannone a Doppio Plasma.}
 {47100}{}{K-9 (base)}
-{47200}{}{K-9 (stage 1)}
-{47300}{}{K-9 (stage 2)}
-{47400}{}{K-9 (stage 3)}
-{47500}{}{K-9 (stage 4)}
+{47200}{}{K-9 (livello 1)}
+{47300}{}{K-9 (livello 2)}
+{47400}{}{K-9 (livello 3)}
+{47500}{}{K-9 (livello 4)}
 {47600}{}{un Cybercane Generico}
 {47700}{}{un Uovo di Wanamingo}
 {47800}{}{una Guardia di Lo Pan}
 {47900}{}{Marjorie}
 {48000}{}{una Mitragliatrice}
 {48100}{}{un Gecko Speciale}
-{48200}{}{Grim Reaper}
+{48200}{}{Il Mietitore}
 {48300}{}{Frank Horrigan}
 {48301}{}{La Guardia del Corpo del Presidente.}
 {48400}{}{Nessa}
-{48401}{}{The ghost of dead Nessa.}
-{48500}{}{Shaman}
+{48401}{}{Il fantasma di Nessa.}
+{48500}{}{Sciamano}
 {48501}{}{Sciamano tribale.}
-{48600}{}{Warrior 	}
-{48601}{}{Tribe warrior.}
+{48600}{}{Guerriero	}
+{48601}{}{Guerriero della tribù.}
 {48700}{}{una Guardia}
-{48800}{}{Sulik's sister}
+{48800}{}{Sorella di Sulik}
 {48900}{}{Kaga}
 {49000}{}{Kaga}
 {49100}{}{Kaga}
 {49200}{}{Kaga}
 {49300}{}{Kaga}
 {49400}{}{Ologramma 00000}
-{49401}{}{The hologram for the director of science.}
+{49401}{}{Ologramma del Direttore Scientifico.}
 {49500}{}{Ologramma 10001}
-{49501}{}{The hologram for the director of security.}
+{49501}{}{Ologramma del Direttore della Sicurezza.}
 {49600}{}{Ologramma 12001}
-{49601}{}{The hologram for the director of operations.}
+{49601}{}{Ologramma del Direttore delle Operazioni.}
 {49700}{}{Ologramma 10031}
 {49701}{}{Ologramma per il direttore della Manutenzione del Suolo.}
 {49800}{}{Ologramma 40011}
 {49801}{}{Ologramma per il Direttore delle Relazioni Pubbliche.}
-{49900}{}{Mr. Handy Robot}
+{49900}{}{Robot Mr. Handy}
 {49901}{}{Una versione gravemente depressa del robot Mr. Handy.}
-{50000}{}{The Doctor}
+{50000}{}{Il Dottore}
 {50001}{}{Il principale, e unico, dottore rimasto nell'EPA.}
-{50100}{}{EPA Spore Plant}
-{50101}{}{A hideously mutated spore plant.}
+{50100}{}{Pianta Sporigena EPA}
+{50101}{}{Una pianta sporigena orribilmente mutata.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Cat Jules}
-{50500}{}{Doctor's Warrior}
-{50501}{}{A warrior for the doctor.}
-{50600}{}{Fruit fly}
-{50601}{}{A mutated fruit fly.}
+{50500}{}{Guerriero del Dottore}
+{50501}{}{Un guerriero al servizio del Dottore.}
+{50600}{}{Moscerino della frutta}
+{50601}{}{Un moscerino della frutta mutato.}
 {50700}{}{Un ologramma}
 {50701}{}{Un ologramma.}
-{50800}{}{Kitsune - level 1}
-{50900}{}{Kitsune - level 2}
-{51000}{}{Kitsune - level 3}
-{51100}{}{Kitsune - level 4}
-{51200}{}{Kitsune - level 5}
-{51300}{}{Dex - level 1}
-{51400}{}{Dex - level 2}
-{51500}{}{Dex - level 3}
-{51600}{}{Dex - level 4}
-{51700}{}{Dex - level 5}
-{51800}{}{Cat Jules - level 1}
-{51900}{}{Cat Jules - level 2}
-{52000}{}{Cat Jules - level 3}
+{50800}{}{Kitsune – Livello 1}
+{50900}{}{Kitsune – Livello 2}
+{51000}{}{Kitsune – Livello 3}
+{51100}{}{Kitsune – Livello 4}
+{51200}{}{Kitsune – Livello 5}
+{51300}{}{Dex – Livello 1}
+{51400}{}{Dex – Livello 2}
+{51500}{}{Dex – Livello 3}
+{51600}{}{Dex – Livello 4}
+{51700}{}{Dex – Livello 5}
+{51800}{}{Cat Jules – Livello 1}
+{51900}{}{Cat Jules – Livello 2}
+{52000}{}{Cat Jules – Livello 3}
 {52100}{}{Cat Jules - livello 4}
 {52200}{}{Cat Jules - livello 5}
 {52300}{}{MIBoba Fe88}
 {52400}{}{Hivan Zolo}
 {52500}{}{Contie-bacca}
 {52600}{}{Darek Vader}
-{52700}{}{Jotisz the Hutt}
+{52700}{}{Jotisz l’Hutt}
 {52800}{}{R2Qwerty}
 {52900}{}{Chris3ParksO}
 {53000}{}{Yosan12}
@@ -573,12 +573,12 @@
 {54000}{}{Minigun Jim}
 {54100}{}{Bofast}
 {54200}{}{Krom}
-{54300}{}{Mother Spore Plant}
-{54400}{}{Mother Alien}
-{54500}{}{EPA Spore Plant}
-{54501}{}{A hideously mutated spore plant.}
+{54300}{}{Pianta Sporigena Madre}
+{54400}{}{Alieno Madre}
+{54500}{}{Pianta Sporigena EPA}
+{54501}{}{Una pianta sporigena orribilmente mutata.}
 {54600}{}{un Cane Selvatico}
 {54601}{}{Un cane meticcio selvatico.}
 {54700}{}{un Robot Sentinella vers. II}
 {54800}{}{il Vecchio Joe}
-{54900}{}{A plant creature}
+{54900}{}{Una creatura vegetale}

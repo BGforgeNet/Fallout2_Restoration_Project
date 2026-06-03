@@ -1,1 +1,1 @@
-{100}{}{First text}
+{100}{}{Primo testo}

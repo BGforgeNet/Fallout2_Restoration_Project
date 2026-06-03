@@ -9,7 +9,7 @@
 {120}{}{Non sei il tipo piu' sveglio sulla piazza, vero? Beh, e' stato comunque bello parlare con te. Ci vediamo.}
 {121}{}{Dolcezza, mi spezzi il cuore ogni volta che apri bocca. Magari prima o poi potrei portarti a Trapper Town e mostrarti le mie acqueforti (heh, heh). Ciao, bambola.}
 {130}{}{Beh, signore, forse ci rivedremo ancora da queste parti. Ciao.}
-{131}{}{Beh, spero di rivederti ancora da queste parti, bambolina. Ciao.}
+{131}{}{Beh, spero di rivederti ancora da queste parti, bambolina. Ciao}
 {140}{}{Humph, non ti voglio come compagno di bevute. Vai a farti fottere.}
 {141}{}{Humph, preferisco andare alla Bath House di Sally piuttosto che spendere del tempo con te. Va' a quel paese.}
 {150}{}{Ehila' straniero, il mio nome e' Whiskey Bob. Qual e' il tuo?}
@@ -46,7 +46,7 @@
 {231}{}{Nessun problema, Bob. Ci vediamo in giornata. }
 {232}{}{Felice di aiutarti. Ma prima vorrei che tu mi dicessi cos'e' successo in citta' ultimamente.}
 {240}{}{Beh, sei davvero abile nel contrattatare, non c'e' dubbio. OK, ti offro 55$. Lo farai?}
-{241}{}{Ci hai provato, ma 50$ e' quanto vale questo lavoro per me. Diamine, non posso permettermi di pagarti un dollaro di piu'.}
+{241}{}{Ci hai provato, ma 50$ e' quanto vale questo lavoro per me. Diamine, non posso permettermi di pagarti un dollaro di piu'. }
 {242}{}{OK, lo faro'.}
 {243}{}{Non ho intenzione di farlo per quei soldi. Il mio tempo vale molto di piu'.}
 {250}{}{Ehila', compare. Sei tornato a trovare Whiskey Bob, eh? Sei pronto a parlare di bevute, di affari e di amenita' simili?}
@@ -59,7 +59,7 @@
 {281}{}{Grazie. Adesso non avro' bisogno di zoppicare fin li' -- anche se mi e' costato 55$. Eccoti i tuoi soldi. Hai qualche domanda alla quale potrei rispondere?}
 {282}{}{Si'. Dimmi cos'e' successo in citta' negli ultimi tempi.}
 {283}{}{No grazie, Bob. Credo di sapere gia' tutto quello che mi serve.}
-{290}{}{Ultimamente qui intorno succedono un sacco di cose. Abbiamo...}
+{290}{}{Ultimamente qui intorno succedono un sacco di cose. Abbiamo... }
 {291}{}{Parlami degli attacchi contro i brahmin.}
 {292}{}{Dimmi tutto quello che sai a proposito degli spiriti vaganti.}
 {293}{}{Ratti giganteschi? *Devo* saperne di piu'.}
@@ -114,8 +114,8 @@
 {502}{}{Nulla, grazie.}
 {550}{}{Bob non sembra aver voglia di parlare con te.}
 {2900}{}{Le cose si sono calmate di recente. Niente di davvero interessante da raccontarti.}
-{2901}{}{brahmin mutilators}
-{2902}{}{walking spirits}
-{2903}{}{gigantical rats}
-{2904}{}{missing people}
-{2905}{}{. Some even say the Den's involved.}
+{2901}{}{mutilatori di brahmin}
+{2902}{}{spiriti che camminano}
+{2903}{}{ratti giganteschi}
+{2904}{}{persone scomparse}
+{2905}{}{. Alcuni dicono persino che il Den sia coinvolto.}

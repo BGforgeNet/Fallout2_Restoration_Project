@@ -5,7 +5,7 @@
 {104}{}{Uh, veramente funziona. Posso vederti.}
 {105}{}{E' rotto.}
 {106}{}{Stiamo facendo dei lavori sul collegamento video. Volevo solo fare una prova.}
-{107}{}{(Logoff.)}
+{107}{}{(Disconnessione.)}
 {108}{powr2}{Chi diavolo parla?}
 {109}{}{Uh, stiamo tutti bene, qui. Voi come state?}
 {110}{}{Qui caau, rit, sss, pu-, -entite. Passo.}
@@ -40,7 +40,7 @@
 {139}{}{Non insistero' oltre sulla genuflessione. Un leggero inchino e un bacio sul mio anello saranno sufficienti.}
 {140}{}{Uh, quello che volevo dire e' che sono stato *scelto* per riparare questo comunicatore. Pare non ci sia piu' nulla che funzioni bene.}
 {141}{}{Beh, credo di averne avuto abbastanza della tua insolenza. Addio, plebeo.}
-{142}{powr7_a}{La Terza Unita'? Pensavo fosse di stanza alla base di Navarro!}
+{142}{powr7_a}{Unità Tre? Pensavo fossi ancora alla base di Navarro.}
 {143}{}{La base di Navarro? Oh, certo... la base di Navarro. E' qui che siamo. Certo. Lo sapevo.}
 {144}{}{No, abbiamo dovuto abbandonarla.}
 {145}{}{Sto perdendo il vostro segnale. Chiudo.}
@@ -87,7 +87,7 @@
 {186}{}{Certo, sicuro. Ho ucciso di meglio. Addio.}
 {187}{powr18}{Addio. Le prossime notizie su di te le avro' quando leggero' il rapporto della missione.}
 {188}{}{Cosa? Sai leggere?!}
-{189}{}{Certo, sicuro... come no?}
+{189}{}{Si', certo… come ti pare.}
 {190}{}{Ehi, sei appena entrato nella mia lista.}
 {191}{powr19_a}{Avete dovuto abbandonarla? Perche'? Siete sulla costa. Avete grandi difese. Nessuno me ne ha parlato... Ehi, a proposito, chi diavolo e' che parla?}
 {192}{}{Sono il grande e potente Willie. Inchinati di fronte a me, implora il mio perdono e forse ti risparimero'.}

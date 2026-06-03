@@ -84,7 +84,7 @@
 {163}{}{Let me ask you something.}
 {164}{}{I just thought I'd check. Thanks and goodbye for now.}
 {165}{}{Nope, no problem at all. You know that you're messing around with politics with that, don't ya?}
-{166}{}{What do you mean?}
+{166}{}{Ý cậu là sao?}
 {167}{}{Yeah, sure. Goodbye.}
 {168}{}{Well, whichever mine owner you give the chip to is gonna do real well with it. Well enough to
  put the other mine outta business.}

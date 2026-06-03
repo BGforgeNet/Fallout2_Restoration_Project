@@ -77,25 +77,37 @@ procedure Node005;
                                           ndebug("guard post state == "+x);                                                   \
                                           set_local_var(LVAR_Post_State, x)
 
-#define check_door_open                   the_door := false;                           \
-                                          if (becky_door_obj != 0) then                \
-                                             if ((obj_is_open(becky_door_obj)) and (obj_can_see_obj(self_obj, becky_door_obj))) then     \
-                                                the_door := true
-
 #define wander_tile                       (17267)
 
-#define set_becky_guard                                                                                                    \
-         if (becky_guard_obj == 0) then begin                                                                              \
-            becky_guard_obj := self_obj;                                                                                   \
-         end else if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(becky_guard_obj, dude_obj)) then begin   \
-            becky_guard_obj := self_obj;                                                                                   \
-         end
+/** South East */
+#define DIRECTION_SE 2
+/** North West */
+#define DIRECTION_NW 5
+
+
+/**
+ * Door tile
+ */
+#define TILE_DOOR  tile_num(becky_door_obj)
+/**
+ * Tile near basement entry door
+ */
+#define TILE_NEAR_DOOR  tile_num_in_direction(TILE_DOOR, DIRECTION_SE, 1)
+/**
+ * Tile in basement entry room
+ */
+#define TILE_NEAR_BASEMENT_ENTRY  tile_num_in_direction(TILE_DOOR, DIRECTION_NW, 1)
 
 import variable becky_guard_obj;
 import variable becky_door_guard_obj;
 import variable becky_door_obj;
 
 variable the_door;
+/**
+ * Guard is in the process of closing the door
+ */
+variable is_closing = false;
+
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -105,6 +117,23 @@ variable the_door;
 
 procedure start begin
    becky_door_guard_obj := self_obj;
+end
+
+/**
+ * obj_can_see_obj doesn't work from home tile so we also check distance.
+ * @ret {bool} True if the guard "sees" door open, False otherwise.
+ */
+procedure see_door_open begin
+   variable door_is_open = false;
+   if (becky_door_obj != 0) then begin
+      if (obj_is_open(becky_door_obj)
+         and (obj_can_see_obj(self_obj, becky_door_obj) or (tile_distance_objs(self_obj, becky_door_obj) < 3))
+         )
+      then begin
+         door_is_open := true;
+      end
+   end
+   return door_is_open;
 end
 
 procedure timed_event_p_proc begin
@@ -144,20 +173,61 @@ procedure map_exit_p_proc begin
 end
 
 procedure critter_p_proc begin
+   variable i_see_open_door = see_door_open;
+   // Guard closed the door, can walk back
+   if is_closing and not obj_is_open(becky_door_obj) then begin
+      is_closing = false;
+   end
+
+   // P1: attack
    if (self_can_see_dude) then begin
-      check_door_open;
-      if ((hostile) or (the_door)) then begin
+      if (hostile or (i_see_open_door and (tile_distance_objs(dude_obj, becky_door_obj) < 2))) then begin
          self_attack_dude;
-      end set_becky_guard
+      end
+   end
+
+   // P2: check room. Attack PC if found, else close and lock the door
+   if (self_tile == TILE_NEAR_BASEMENT_ENTRY) then begin
+      if self_can_see_dude and (tile_distance_objs(self_obj, dude_obj) < 2) then begin
+         // Remember that PC was in restricted area. Helps if PC ran downstairs.
+         set_hostile;
+         self_attack_dude;
+      end else begin
+         self_walk_to_tile(TILE_NEAR_DOOR);
+
+         // defensive: if the door is "locked open", then unlock first, otherwise close fails and the guard gets stuck
+         if (obj_is_locked(becky_door_obj)) then begin
+            obj_unlock(becky_door_obj);
+         end
+         obj_close(becky_door_obj);
+         // ^ Close does not happen immediately, so we reset is_closing higher up
+         obj_lock(becky_door_obj);
+         // After door is closed, move back to home tile and reset
+         set_post_state(post_state_done);
+      end
+      return;
+   end
+
+   // P3: close door
+   if (i_see_open_door) then begin
+      // Guard is in the process of closing the door, skip
+      if is_closing then begin
+         return;
+      end
+      // Noticed open door, run to check
+      is_closing = true;
+      floater(375);
+      self_run_to_tile_force(TILE_NEAR_BASEMENT_ENTRY);
+      return;  // Next run will trigger attack or door close.
+   end
+
+   // P4: watch PC
+   if (self_can_see_dude) then begin
+      set_becky_guard
    end else if (anim_busy(self_obj) == false) then begin
+      // P5: Normal walking around
       if (post_state == post_state_done) then begin
-         check_door_open;
-         if (the_door) then begin
-            if (anim_busy(becky_door_obj) == false) then begin
-               use_obj_on_obj(self_obj, becky_door_obj);
-               display_mstr(375);
-            end
-         end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+         if (self_tile != local_var(LVAR_Home_Tile)) then begin
             self_walk_to_tile(local_var(LVAR_Home_Tile));
          end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
             self_rotate(local_var(LVAR_Home_Rotation));

@@ -37,7 +37,7 @@
 {136}{}{Sembra proprio che ci troviamo di fronte all'ennesima vittima dell'accoppiamento tra consanguinei, cosi' frequente tra gli Esterni... ascolta, subumano, vattene da qui prima di farti del male, okay?}
 {137}{}{ME NO VAH!}
 {138}{}{-Allontanati-}
-{139}{}{Si', "autorizzazione". }
+{139}{}{Si', "autorizzazione."}
 {140}{}{Se vuoi entrare a Vault City, devi parlare con Wallace, il Responsabile della Dogana. Da lui potrai farti rilasciare un Pass Giornaliero.}
 {141}{}{Dove posso trovare Wallace?}
 {142}{}{Un Pass Giornaliero? Cos'e'?}
@@ -50,8 +50,8 @@
 {149}{}{Adesso smamma. Non ho tempo da perdere chiacchierando con gli Esterni.}
 {150}{}{Dove posso trovare Wallace?}
 {151}{}{Grazie delle risposte. Arrivederci.}
-{152}{}{Hai bisogno di un Pass Giornaliero per entrare in citta'. }
-{153}{}{Procurati un Pass Giornaliero e io ti lascero' entrare. }
+{152}{}{Hai bisogno di un Pass Giornaliero per entrare in citta'.}
+{153}{}{Procurati un Pass Giornaliero e io ti lascero' entrare.}
 {154}{}{Sta' lontano dal cancello.}
 {155}{}{Non bighellonare.}
 {156}{}{Ce l'hai il Pass Giornaliero?}
@@ -71,7 +71,7 @@
 {170}{}{Spero che la prossima volta ti ricorderai di me.}
 {171}{}{Beh, sai, sono Cittadino di tutti i Vault.}
 {172}{}{Probabilmente non ci siamo mai visti. E' un piacere conoscerti.}
-{173}{}{Ma davvero? Ascolta, io non so chi tu sia, ma di sicuro non sei un Cittadino. Dammi quei documenti e sparisci. Se vuoi entrare dovrai farti rilasciare un Pass Giornaliero da Wallace, come chiunque altro. }
+{173}{}{Ma davvero? Ascolta, io non so chi tu sia, ma di sicuro non sei un Cittadino. Dammi quei documenti e sparisci. Se vuoi entrare dovrai farti rilasciare un Pass Giornaliero da Wallace, come chiunque altro.}
 {174}{}{Vuoi questi documenti? Vieni a prenderli!}
 {175}{}{Dove posso trovare Wallace?}
 {176}{}{D'accordo. Arrivederci.}

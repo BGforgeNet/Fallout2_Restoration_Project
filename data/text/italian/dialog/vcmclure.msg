@@ -10,7 +10,7 @@
 {109}{}{Buongiorno... Capitano, giusto? Ho sentito parlare molto bene di lei. Posso aiutarla in qualche modo?}
 {110}{}{Buongiorno... Cittadino, giusto? Mi avevano detto che la nostra comunita' si era arricchita di un nuovo membro. Posso aiutarla in qualche modo?}
 {111}{}{Salve... posso aiutarla?}
-{112}{}{Buongiorno, Capitano. Tutto a posto, spero.}
+{112}{}{Buongiorno, Capitano. Tutto bene, spero?}
 {113}{}{Buongiorno, Cittadino. Posso aiutarla?}
 {114}{}{Si'? Ha bisogno di qualcos'altro?}
 {115}{}{San-tah Klass?}
@@ -21,8 +21,8 @@
 {120}{}{Come hai fatto ad entrare in citta'? Guardie! C'e' qui un Esterno che dev'essere scortato al cancello!}
 {121}{}{Me va no ME VA NO}
 {122}{}{Ahhh... Favoe no va? Me fare buono}
-{123}{}{Certamente, Capitano. }
-{124}{}{Certamente, Cittadino. }
+{123}{}{Certamente, Capitano.}
+{124}{}{Certamente, Cittadino.}
 {125}{}{Cosa vuole sapere?}
 {126}{}{Lei di cosa si occupa?}
 {127}{}{Sto cercando un Kit di Creazione del Giardino dell'Eden.}
@@ -119,7 +119,7 @@
 {218}{}{Posso farti un'altra domanda?}
 {219}{}{Grazie delle risposte. Arrivederci.}
 {220}{}{La vita si e' fatta dura, in questi ultimi due anni. Il governo di NCR si e' fatto piu' aggressivo che mai nei suoi tentativi di annettere Vault City alla Repubblica.}
-{221}{}{Ci mandano a dire che se ci unissimo a loro ci difenderebbero dagli assalti effettuati dai predoni contro la nostra citta'. E ultimamente questi assalti si sono fatti piu' violenti. }
+{221}{}{Ci mandano a dire che se ci unissimo a loro ci difenderebbero dagli assalti effettuati dai predoni contro la nostra citta'. E ultimamente questi assalti si sono fatti piu' violenti.}
 {222}{}{E, come se non bastasse, i ghoul di Gecko contaminano le nostre falde acquifere.}
 {223}{}{Dove si trova Gecko?}
 {224}{}{Cos'e' Gecko?}
@@ -216,8 +216,8 @@
 {315}{}{Mi basterebbe avere accesso al computer di Vault City. In questo modo sarei in grado di ottimizzare i dati sul disco del reattore e potrei far funzionare meglio la centrale.}
 {316}{}{Non ho obiezioni da fare alla sua proposta. Se riesce a trovare un modo per ottimizzare la centrale, me lo faccia sapere.}
 {317}{}{D'accordo. Prima di tutto andro' da Randal a ritirare il dispositivo e poi cerchero' di riparare il reattore.}
-{318}{}{Molto bene, Capitano. }
-{319}{}{Molto bene, Cittadino. }
+{318}{}{Molto bene, Capitano.}
+{319}{}{Molto bene, Cittadino.}
 {320}{}{Ha il mio permesso di usare il computer del Vault e di ottimizzare il disco del reattore. Il mainframe si trova nel terzo livello del Vault, vicino al centro operativo.}
 {321}{}{Magnifico. Grazie, Senatore. Ci vado subito.}
 {322}{}{Ho fatto. Ecco a lei.}
@@ -243,20 +243,20 @@
 {342}{}{Forse. Vado ad informarmi.}
 {343}{}{Hai riferito a McClure l'avvenuta consegna dell'antidoto contro il Jet.}
 {344}{}{Il disco indica che la centrale, essendo ora pienamente funzionale e ottimizzata, puo' produrre una gran quantita' di energia, ben superiore ai bisogni di Gecko. A Vault City potrebbe far comodo quest'energia. Credo che il Consiglio dovrebbe prendere in considerazione cio' che questo disco ha da offrire.}
-{345}{}{Do you know anything about the nearby village that's swarming with mole rats?}
+{345}{}{Sai qualcosa del villaggio vicino infestato dalle talpe mutanti?}
 {346}{}{In effetti, si'. Il sergente Stark mi ha riferito qualcosa a riguardo di recente. Che interesse hai in questa faccenda?}
 {347}{}{E' vero che intendete fare servi di quella gente?}
-{348}{}{Nothing really. May I ask you about something else?}
-{349}{}{Doesn't matter. Bye.}
+{348}{}{Niente di particolare. Posso chiederti qualcos’altro?}
+{349}{}{Non importa. Addio.}
 {350}{}{Reclutare servi non e' il problema qui. Il problema e' la minaccia che quei mostri rappresentano per Vault City. Secondo il rapporto del sergente Stark, la gente di quel villaggio sembra convivere con quelle enormi creature simili a ratti. Se e' vero, potrebbero aver trovato un modo per controllarle, e forse e' per questo che hanno iniziato ad attaccare le nostre pattuglie. Il sergente Stark intende eliminare questi parassiti, e ha il mio pieno supporto.}
 {351}{}{Ti assicuro che la gente di quel villaggio non sta controllando le talpe giganti. Anzi, ho una proposta per te: mi occupero' io del problema delle talpe giganti, e in cambio voglio la tua garanzia che Vault City lascera' in pace quella gente.}
 {352}{}{Una proposta interessante, ma come esattamente pensi di affrontare tutte quelle creature simili a ratti?}
-{353}{}{I think I might know who *is* controlling them.}
+{353}{}{Penso di sapere chi *li* sta controllando.}
 {354}{}{Non lo so davvero, ma trovero' qualcosa. Lo faccio sempre.}
 {355}{}{Davvero? Molto bene allora, mi fidero' della tua parola. Il raid verra' rimandato di un mese.}
 {356}{}{Sei un brav'uomo, McClure, e non te ne pentirai. Tornero' quando il problema sara' risolto.}
 {357}{}{E' incredibile, gli attacchi delle talpe giganti alle nostre pattuglie sono improvvisamente cessati senza preavviso. Non so come tu abbia fatto, ma ti ringrazio. Inoltre, manterro' la mia parte dell'accordo -- ordinero' a Stark di annullare immediatamente il raid. Finche' la gente di quel villaggio non rappresentera' una minaccia per Vault City, non avra' nulla da temere da noi -- me ne occupero' personalmente.}
-{358}{}{Thank you!}
-{359}{}{You solved the village problem.}
+{358}{}{Grazie!}
+{359}{}{Hai risolto il problema del villaggio.}
 {360}{}{Davvero interessante.}
-{370}{}{Alright. Well, I won't get in your way then.}
+{370}{}{D’accordo. Allora non ti intralcerò.}

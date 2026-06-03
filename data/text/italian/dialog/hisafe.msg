@@ -1,9 +1,9 @@
-{100}{}{You see a large metal floor safe.}
-{101}{}{This is a very sturdy safe. It is locked.}
-{102}{}{This is a very sturdy safe. It is unlocked.}
-{170}{}{You deftly pick the lock on the safe.}
-{171}{}{Your lack of skill has jammed the lock on this safe.}
-{172}{}{You fail to pick the lock on this safe.}
-{189}{}{You deftly lock the safe.}
-{190}{}{You fail to lock the safe.}
-{200}{}{The safe is securely locked.}
+{100}{}{Vedi una grande cassaforte da pavimento in metallo.}
+{101}{}{È una cassaforte molto robusta. È chiusa a chiave.}
+{102}{}{È una cassaforte molto robusta. È aperta.}
+{170}{}{Scassini abilmente la serratura della cassaforte.}
+{171}{}{La tua mancanza di abilità ha bloccato la serratura della cassaforte.}
+{172}{}{Non riesci a scassinare la cassaforte.}
+{189}{}{Chiudi abilmente la cassaforte a chiave.}
+{190}{}{Non riesci a chiudere la cassaforte a chiave.}
+{200}{}{La cassaforte è ben chiusa a chiave.}

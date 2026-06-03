@@ -26,7 +26,7 @@
 {173}{}{Da dove viene la droga che vendi?}
 {174}{}{Sai dove si trova il Vault?}
 {175}{}{Ripensandoci, preferirei barattare.}
-{176}{}{Non importa. Ciao.}
+{176}{}{Non importa. Ciao}
 {177}{}{Oh, cielo. Credo proprio che avremo qualche problema di comunicazione. Per favore, fai un cenno con la testa se vuoi comprare qualcosa.}
 {178}{}{[Annuisci]}
 {179}{}{CiaCiao.}
@@ -38,7 +38,7 @@
 {185}{}{OK. Grazie.}
 {186}{}{Questo non e' il tipo di informazioni che si REGALANO al primo venuto.}
 {187}{}{Un centone forse potrebbe farti cambiare idea?}
-{188}{}{Me lo diresti per 50$?}
+{188}{}{Che ne dici se ti do 50$ e tu mi dici tutto.}
 {189}{}{Mettiamola cosi': o mi dai le informazioni o io ti apro un nuovo buco in testa.}
 {190}{}{Lasciamo stare.}
 {191}{}{Beh, posso chiederti qualcos'altro, allora?}

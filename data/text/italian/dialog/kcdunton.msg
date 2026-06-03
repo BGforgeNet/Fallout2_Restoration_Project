@@ -5,7 +5,7 @@
 {111}{}{Ehi, calma. Facevo solo un po' lo stupido. Mi dispiace veramente. Non picchiatemi, vi prego. Devo solo farvi delle domande.}
 {112}{}{Uh, mi dispiace, signor Dunton, signore. Me ne vado subito.}
 {113}{}{Mi servono delle informazioni... e fareste meglio a dirmi tutto quello che voglio sapere.}
-{114}{}{Tu e tuo fratello? Hai paura ad affrontarmi da solo? Coniglio!}
+{114}{}{Tu e tuo fratello? Hai paura ad affrontarmi da solo? (Coccodè, coccodè)}
 {120}{}{Vattene, prima che ti facciamo a fette e ti trasformiamo in carne in scatola.}
 {121}{}{Ehi, mi dispiace veramente. Non volevo farvi arrabbiare. Sono solo uno stupido. Tornero' piu' tardi, quando vi dara' meno fastidio vedermi.}
 {122}{}{Oh, okay, scusate. Non picchiatemi. Vi prego.}
@@ -23,12 +23,12 @@
 {141}{}{Mi spiace, e' solo che mi sono emozionato tantissimo all'idea di lavorare con voi. Adesso me ne vado. Arrivederci.}
 {142}{}{Limite? Ma quale limite? E' stata una vostra idea.}
 {143}{}{Voi due siete troppo fifoni per fare quello che va fatto.}
-{150}{}{Beh, qui abbiamo una bella scorta della famosissima Carne Secca Dunton. Deliziosa e saporita - perche' non ne compri un po'?}
-{151}{}{Uh, buono a sapersi.}
+{150}{}{Beh, abbiamo una bella scorta della famosissima Carne Secca Dunton. Deliziosa e saporita — e fa anche bene.}
+{151}{}{Uh, buono a sapersi. }
 {152}{}{Carne secca? Non sembra essere cio' di cui ho bisogno. Parliamo di qualcos'altro.}
 {153}{}{Non credo di aver davvero bisogno di barattare. Arrivederci.}
-{160}{}{Hai avuto la tua chance, amico. }
-{161}{}{Non penso che ci sia del lavoro per te. }
+{160}{}{Hai avuto la tua chance, amico.}
+{161}{}{Non penso che ci sia del lavoro per te.}
 {162}{}{Beh, ci sarebbe una cosa per la quale ci farebbe comodo un po' di aiuto. (Heh, heh, heh)}
 {163}{}{Di che cosa si tratta, Chuck?}
 {164}{}{Di che cosa si tratta, Buck?}
@@ -56,8 +56,8 @@
 {201}{}{Raggiungici al pascolo dei brahmin, subito a est del paese, alle 6:00 PM di domani sera.}
 {202}{}{OK, io mi occupero' di Torr. }
 {203}{}{OK, trovero' Torr al pascolo e mi occupero' di lui per voi. }
-{204}{}{Dopotutto non credo di volerlo fare. }
-{205}{}{OK, ci saro'. A dopo. }
+{204}{}{Dopotutto non credo di volerlo fare.}
+{205}{}{Va bene, ci sarò. Arrivederci.}
 {206}{}{Nel frattempo, pero', c'e' qualcosa che vorrei sapere.}
 {207}{}{Arrivederci.}
 {208}{}{Io sono Chuck Dunton. Cosa sei? Stupido?}
@@ -88,9 +88,9 @@
 {251}{}{Uh, ci ho ripensato. Non credo di volervi aiutare.}
 {252}{}{Certo, ci saro'. Devo chiederti qualcosa, pero'.}
 {253}{}{Ci saro' sicuramente. A dopo.}
-{259}{}{Guarda un po' chi c'e': il nostro corpulento amico. }
-{260}{}{Ehila'. Come va il braccio? Sei pronto per un'altra sfida? }
-{261}{}{Ehi tu, pidocchietto. Che cosa ci fai nel nostro bar? Per poter rimanere qui dentro devi prima dimostrare il tuo valore sfidandomi a braccio di ferro. (ah ah ah) }
+{259}{}{Guarda un po' chi c'e': il nostro corpulento amico.}
+{260}{}{Ehila'. Come va il braccio? Sei pronto per un'altra sfida?}
+{261}{}{Ehi tu, pidocchietto. Che cosa ci fai nel nostro bar? Per poter rimanere qui dentro devi prima dimostrare il tuo valore sfidandomi a braccio di ferro. (ah ah ah)}
 {262}{}{Non sembri poi cosi' forte. Perche' non mi affronti a braccio di ferro, Chuck Dunton? E come premio mettiamo in palio il diritto a bere nel vostro bar, eh?}
 {263}{}{Non sembri poi cosi' forte. Perche' non mi affronti a braccio di ferro, Buck Dunton? E come premio mettiamo in palio il diritto a bere nel vostro bar, eh?}
 {264}{}{Ehila', santerellino. Se vuoi rimanere nel nostro bar, prima devi guadagnarti il nostro rispetto. Devi sfidare me, Chuck Dunton, a braccio di ferro.}
@@ -133,14 +133,14 @@
 {341}{}{Quello che voglio dire e' che alcuni sembrano avere un marchio diverso, sul quale qualcuno ne ha goffamente sovrapposto un altro.}
 {342}{}{Oh, capisco. Heh-heh, devo essermi sbagliato. Adesso devo proprio andare. Addio.}
 {343}{}{Beh, penso di non saperne molto, sui brahmin. Deve essere il loro colore o qualcosa del genere. Avete proprio dei bei brahmin.}
-{350}{}{La nostra carne secca e' un'incredibile mistura di undici erbe e spezie. Lascia che te lo dica: e' cosi' buona da leccarsi le dita. Anche gli animali la adorano. Ti seguiranno dappertutto per averne un po'. Dev'essere quell'odore di rancido... }
-{351}{}{Non c'e' nulla di simile al mondo. Da nessuna parte. E' uuuuuu-nica. E la maggior parte delle persone e' felice che sia cosi'. }
-{352}{}{E' fatta con pezzi di carne UMANA! Hyuk, hyuk, hyuk, volevo solo vedere che faccia avresti fatto. Diamine, quello e' soltanto uno dei tanti ingredienti. Hyuk, hyuk. }
+{350}{}{La nostra carne secca e' un'incredibile mistura di undici erbe e spezie. Lascia che te lo dica: e' cosi' buona da leccarsi le dita. Anche gli animali la adorano. Ti seguiranno dappertutto per averne un po'. Dev'essere quell'odore di rancido...}
+{351}{}{Non c'e' nulla di simile al mondo. Da nessuna parte. E' uuuuuu-nica. E la maggior parte delle persone e' felice che sia cosi'.}
+{352}{}{E' fatta con pezzi di carne UMANA! Hyuk, hyuk, hyuk, volevo solo vedere che faccia avresti fatto. Diamine, quello e' soltanto uno dei tanti ingredienti. Hyuk, hyuk.}
 {353}{}{Non assomiglia ad alcun cibo tradizionale. E' diversa. Non migliore. Diversa.}
-{354}{}{Nessun animale viene ucciso per preparare la nostra carne secca. E' tutta carne che troviamo in giro. A volte ci vuole un po' di tempo per trovarla, ma di solito riusciamo a individuarla dalla puzza. }
-{355}{}{Dopo una lunga giornata di lavoro nel recinto dei brahmin, sotto gli stivali troviamo sempre degli ingredienti speciali per dare un sapore speciale alla nostra carne. }
+{354}{}{Nessun animale viene ucciso per preparare la nostra carne secca. E' tutta carne che troviamo in giro. A volte ci vuole un po' di tempo per trovarla, ma di solito riusciamo a individuarla dalla puzza.}
+{355}{}{Dopo una lunga giornata di lavoro nel recinto dei brahmin, sotto gli stivali troviamo sempre degli ingredienti speciali per dare un sapore speciale alla nostra carne.}
 {356}{}{Beh, abbiamo scoperto che una salsa prodotta personalmente da noi, se capisci cosa intendo, gli da' quel gusto da cucina casalinga cosi' particolare. }
-{357}{}{E' fatta con carne di manzo invecchiata per sei mesi e resa piu' tenera dall'aggiunta delle migliori larve di mosca cavallina. }
+{357}{}{E' fatta con carne di manzo invecchiata per sei mesi e resa piu' tenera dall'aggiunta delle migliori larve di mosca cavallina.}
 {358}{}{Incredibile. Sembra quasi che abbiate davvero mangiato la vostra carne secca. Ehm, cioe', voglio dire: chi non lo farebbe? Yum-yum.}
 {359}{}{Davvero? Affascinante. Ditemi di piu'.}
 {360}{}{Credo sia tutto, per ora. Arrivederci.}
@@ -158,7 +158,7 @@
 {390}{}{Chele d'insetto? Umm, err, ah, non sappiamo niente a proposito di chele d'insetto. Di cosa stai parlando?}
 {391}{}{Beh, ho trovato delle enormi chele d'insetto con cinghie e fibbie che le fanno sembrare parti di un costume. Erano sul pavimento.}
 {392}{}{Uh, dimenticate quel che ho detto. Ci vediamo.}
-{400}{}{E' molto semplice. Devi far allontanare Torr}
+{400}{}{E' molto semplice. Devi far allontanare Torr.}
 {401}{}{Molto bene, lo faro'.}
 {402}{}{Neanche per sogno; io mi chiamo fuori, Dunton. Addio.}
 {403}{}{Siete pazzi? Ci sono addosso. Sono qui per dirvi che forse e' meglio non procedere con il piano. Scommetto che ci stanno osservando anche in questo momento.}
@@ -199,7 +199,7 @@
 {520}{}{Ok.}
 {530}{}{Fuori dai piedi. Qualcuno qui ha del lavoro da fare.}
 {531}{}{Oh, OK. Andro' via, allora. Cavoli, certa gente e' cosi' irritabile. Addio.}
-{532}{}{Torr porta a pascolare i suoi Brahmin a nord del paese. }
+{532}{}{Torr porta a pascolare i suoi Brahmin a nord del paese.}
 {533}{}{Quando quell'idiota di Torr arriva, farai meglio a occuparti di lui.}
 {600}{}{Persino quell'idiota di Torr ha piu' cervello di te, ladro!}
 {601}{}{ Sei pronto ad andare?}
@@ -211,6 +211,6 @@
 {706}{}{Va bene, Tribale, hai vinto stavolta. Smetteremo, ora lasciaci in pace.}
 {707}{}{Spaventi i fratelli Dunton abbastanza da non infastidire mai piu' Torr.}
 {708}{}{[FATTO]}
-{709}{}{Just leave us alone.}
-{710}{}{Yeah, whatever tribal. Just mind your own business.}
-{800}{}{I found a pile of bug parts in the cabin over at the grazing area. Do you know what they are?}
+{709}{}{Lasciaci in pace.}
+{710}{}{Sì, come vuoi, tribale. Fatti gli affari tuoi.}
+{800}{}{Ho trovato un mucchio di parti di insetto nel capanno vicino al pascolo. Sapete cosa sono?}

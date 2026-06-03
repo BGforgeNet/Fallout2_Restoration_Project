@@ -14,5 +14,5 @@
 {113}{}{Che succede? Ci stanno attaccando?}
 {114}{}{Perche' diavolo e' scattato l'allarme? Cosa sta succedendo?}
 {115}{}{Cosa diavolo sta succedendo?}
-{200}{}{What are you doing? You have no reason to touch that.}
-{201}{}{Touch that again and you die.}
+{200}{}{Cosa stai facendo? Non hai motivo di toccare quello.}
+{201}{}{Toccalo di nuovo e sei morto.}

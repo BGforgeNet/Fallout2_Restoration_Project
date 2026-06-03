@@ -1,6 +1,6 @@
 {100}{}{Vedi un tavolo di Black Jack.}
 {101}{}{Vedi una croupier di Black Jack.}
-{102}{}{Vuole giocare a Black Jack? La puntata minima e' }
+{102}{}{Vuole giocare a Black Jack? La puntata minima e' $}
 {103}{}{.}
 {104}{}{Bene.}
 {105}{}{No, grazie.}
@@ -8,7 +8,7 @@
 {107}{}{Spiacente, non credo lei possa raggiungere la puntata minima richiesta. Ritorni quando avra' piu' denaro.}
 {108}{}{Okey, tutte le puntate minime sono state effettuate.}
 {109}{}{[da' le carte]}
-{110}{}{Questo e' un tavolo da Black Jack. La puntata minima e' }
+{110}{}{Questo e' un tavolo da Black Jack. La puntata minima e' $}
 {111}{}{.}
 {112}{}{Peschi un }
 {113}{}{ di }
@@ -29,7 +29,7 @@
 {128}{}{Te lo mostro io il mio limite.}
 {129}{}{Non le e' permesso giocare ancora qui. La prego di andarsene.}
 {130}{}{Ohhh, scusate.}
-{131}{}{Vinci }
+{131}{}{Vinci $}
 {132}{}{.}
 {201}{}{asso}
 {202}{}{due}

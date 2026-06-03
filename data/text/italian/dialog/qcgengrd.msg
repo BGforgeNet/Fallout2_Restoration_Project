@@ -48,11 +48,11 @@
 {147}{}{Ritorno al mio posto di guardia.}
 {148}{}{Bravo team a rapporto.}
 {149}{}{Gamma team a rapporto.}
-{150}{}{./~Shines the name, shines the name, shines the name of Rodger Young ./~}
+{150}{}{./~Fa risplendere il nome, fa risplendere il nome, fa risplendere il nome di Rodger Young ./~}
 {151}{}{D'accordo, allora: chi e' che sta masticando del chewing gum nel casco?}
 {152}{}{Smettetela di far casino.}
 {153}{}{./~ Jody's home now, smokin' grass ./~ Jody's pumpin' your wife's..../~}
-{154}{}{./~ Sound off, 1-2-3-4, bring it on down ./~}
+{154}{}{./~ Rispondete al richiamo! 1?2?3?4, Riportate il ritmo giù ./~}
 {155}{}{Livello 2, tutto tranquillo.}
 {156}{}{Settore 7, tutto tranquillo.}
 {157}{}{Ponte ologrammi, tutto tranquillo.}

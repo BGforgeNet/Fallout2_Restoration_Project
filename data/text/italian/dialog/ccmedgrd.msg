@@ -4,7 +4,7 @@
 {103}{}{Niente da segnalare.}
 {104}{}{Qui non succede nulla... li' da te, invece?}
 {105}{}{Perche' non sei al tuo posto, soldato? Non dovresti gironzolare da queste parti.}
-{106}{}{Sei senza uniforme. }
+{106}{}{Sei senza uniforme.}
 {107}{}{Faresti meglio a presentarti dal Sergente e a vestirti.}
 {108}{}{Stai prendendo un grosso rischio a girare senza armatura. Faresti meglio a presentarti all'armeria.}
 {109}{}{Chi diavolo...? Allarme! Intrusi!}

@@ -9,7 +9,7 @@
 {156}{}{Vade retro, spirito maligno!}
 {157}{}{Mi fermo e busso ad ogni porta, ma nessuno arriva, nessuno sente.}
 {158}{}{Io posso sentirti. Che cosa ti affligge?}
-{159}{}{Penso che dovreste spegnere il vostro Stealth Boy, signora.}
+{159}{}{Penso che dovreste spegnere il vostro Mimetizzatore, signora.}
 {160}{}{Dov'e'? Non riesco a trovarlo! Sono perduta! Oh...}
 {161}{}{Che cosa stai cercando? Forse ti posso aiutare.}
 {162}{}{Dovresti davvero smetterla di mugugnare e di lamentarti e iniziare a dire qualcosa di sensato.}

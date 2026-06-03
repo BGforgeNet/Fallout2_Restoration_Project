@@ -12,7 +12,7 @@
 {111}{}{E cosi' sono stata scartata e sono finita a fare uno dei "PNG di contorno" nel Vault 13. Crrrristo. E poi mi vengono a parlare di raccomandazioni.}
 {112}{}{Mi stupisco che abbiano realizzato quel modello femminile dai capelli neri con indosso degli abiti.}
 {113}{}{Voglio dire, non credo ci sia rimasta DENTRO per molto tempo, durante le selezioni.}
-{114}{}{*Sigh*}
+{114}{}{*Sospiro*}
 {115}{}{Odio gli uomini.}
 {116}{}{Beh, escluso lo stupendo Scotty Everts.}
 {117}{}{Credo fosse dalla mia parte. Sono dovuta andarci a letto solo un paio di volte per convincerlo a votare per me.}

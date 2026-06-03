@@ -3,7 +3,7 @@
 {152}{}{Vedi uno spacciatore. Sembra sia in cerca di clienti.}
 {200}{}{Ehi, eroe! Che ne diresti di celebrare la vittoria con un po' di Jet? Vieni qua!}
 {201}{}{Sei stato grande a spaccare il culo all'Enclave, eroe! Adesso che ne diresti di venire qua e celebrare la vittoria con un po' di Jet?}
-{202}{}{::Cheers::}
+{202}{}{::Saluti::}
 {203}{}{::Fischia::}
 {204}{}{Non c'e' niente di meglio che una bella dose di Jet dopo aver sconfitto l'Enclave, eh? Ho ragione, o no?}
 {205}{}{Ho della roba che ti aiutera' a toccare il cielo, eroe.}

@@ -2,24 +2,24 @@
 {101}{}{Vedi Goris lo studioso.}
 {102}{}{Vedi una figura umanoide che indossa un saio con le maniche lunghe e il cappuccio. La sua postura ha un qualcosa di innaturale, ma non riesci a capire bene cosa.}
 {103}{}{Salve, il mio nome e' Goris. Non ti riconosco; sei nuovo di qui?}
-{104}{}{Me }
+{104}{}{Me}
 {105}{}{Me va.}
 {106}{}{Si', e allora?}
-{107}{}{Piacere. Io sono }
-{108}{}{Salve, Goris. Gruthar mi ha consigliato di parlare con te. Credo ti ritenga un uomo in grado di dare risposte a molte domande. }
+{107}{}{Piacere. Io sono}
+{108}{}{Salve, Goris. Gruthar mi ha consigliato di parlare con te. Credo ti ritenga un uomo in grado di dare risposte a molte domande.}
 {109}{}{Posso farti qualche domanda?}
 {110}{}{Scusa, devo andare.}
-{111}{}{E' un piacere conoscerti, }
+{111}{}{E' un piacere conoscerti,}
 {112}{}{E cosi' hai parlato con Gruthar. Esagera sempre quando parla di me. Non conosco la meta' delle cose che lui pensa io sappia. Tuttavia...}
 {113}{}{E cosi' tu sei un esterno! Ho visto pochi esseri come te; alcuni di essi risiedono qui nel vault, ma tu sembri diverso. Sembri essere piu' "stagionato", se capisci quel che voglio dire. Scommetto che hai affrontato un lungo viaggio e hai portato a termine diverse imprese. Ho ragione?}
 {114}{}{Uh... "stagionato"?}
 {115}{}{Me va.}
 {116}{}{Scusa, ma adesso credo di dover andare.}
-{117}{}{Si', la mia vita e' stata alquanto avventurosa. Ascolta, se non ti dispiace rispondere a qualche mia domanda, in cambio io potrei raccontarti qualcuna delle mie avventure. }
+{117}{}{Si', la mia vita e' stata alquanto avventurosa. Ascolta, se non ti dispiace rispondere a qualche mia domanda, in cambio io potrei raccontarti qualcuna delle mie avventure.}
 {118}{}{Non sono affari tuoi.}
 {119}{}{Ti dispiace se ti faccio qualche domanda?}
-{120}{}{D'accordo! Mi piacerebbe molto ascoltare tutte le storie che hai da raccontarmi. }
-{121}{}{Inoltre non potrei mai rifiutarmi di aiutare un amico di Gruthar. }
+{120}{}{D'accordo! Mi piacerebbe molto ascoltare tutte le storie che hai da raccontarmi.}
+{121}{}{Inoltre non potrei mai rifiutarmi di aiutare un amico di Gruthar.}
 {122}{}{Cosa vorresti sapere?}
 {123}{}{Cosa fai qui?}
 {124}{}{Sei un prigioniero?}
@@ -45,11 +45,11 @@
 {144}{}{Wow, anche tu sei piuttosto nuovo di qui. Se non ti dispiace, ho bisogno di chiederti qualcos'altro.}
 {145}{}{Una risposta molto sintetica. Potresti dirmi di piu'?}
 {146}{}{Capisco. Devo farti ancora un paio di domande.}
-{147}{}{Questi non sono Deathclaw normali, come immagino tu abbia notato. La loro intelligenza e' stata aumentata con mezzi a loro sconosciuti. I responsabili sono degli umani appartenenti a un gruppo noto come "l'Enclave". Pare che all'Enclave servisse un esercito e che abbiano scelto i Deathclaw per la loro ferocia, la loro prestanza fisica, e... beh, credo tu abbia capito. Tuttavia, l'unica cosa che mancava ai Deathclaw era l'intelligenza. Dovevano diventare intelligenti abbastanza da comprendere comandi complessi, ma non abbastanza intelligenti da diventare una minaccia per "i capi".}
+{147}{}{Questi non sono Deathclaw normali, come immagino tu abbia notato. La loro intelligenza e' stata aumentata con mezzi a loro sconosciuti. I responsabili sono degli umani appartenenti a un gruppo noto come "l'Enclave". Pare che all'Enclave servisse un esercito e che abbiano scelto i Deathclaw per la loro ferocia, la loro prestanza fisica, e... beh, credo tu abbia capito. Tuttavia, l'unica cosa che mancava ai Deathclaw era l'intelligenza. Dovevano diventare intelligenti abbastanza da comprendere comandi complessi, ma non abbastanza intelligenti da diventare una minaccia per "i capi."}
 {148}{}{Questo mi pare il piu' grosso ammasso di stronzate che io abbia mai sentito in vita mia!}
 {149}{}{Incredibile. Sembri essere davvero molto informato a riguardo. Puoi dirmi qualcos'altro?}
 {150}{}{Hmm... Okay.}
-{151}{}{(::sigh::) Sono stati catturati dall'Enclave. Gruthar e il branco furono costretti a prendere parte attiva nella cattura. Non avevano altra scelta, dal momento che a quel tempo erano ancora degli schiavi. Il destino degli umani pesa ancora molto sulla coscienza di Gruthar. Non si e' mai perdonato del tutto per quella faccenda. Gli umani sono stati presi vivi, ma chissa' che ne e' stato di loro...}
+{151}{}{(::sigh::) Sono stati catturati dall'Enclave. Gruthar e il branco furono costretti a prendere parte attiva nella cattura. Non avevano altra scelta, dal momento che a quel tempo erano ancora degli schiavi. Il destino degli umani pesa ancora molto sulla coscienza di Gruthar. Non si e' mai perdonato del tutto per quella faccenda. Gli umani sono stati presi vivi, ma chissa' che ne e' stato di loro da allora?}
 {152}{}{(Sigh) Sono stati catturati da un gruppo chiamato "l'Enclave". Gruthar e il branco furono costretti a prendere parte attiva nella cattura. Non avevano altra scelta, dal momento che a quel tempo erano ancora degli schiavi. Il destino degli umani pesa ancora molto sulla coscienza di Gruthar. Non si e' mai perdonato del tutto per quella faccenda. Gli umani sono stati presi vivi, ma chissa' che ne e' stato di loro...}
 {153}{}{Hmm... devo farti delle altre domande.}
 {154}{}{Lo sapevo che questi dannati Deathclaw dovevano essere in qualche modo responsabili! Ho bisogno di altre informazioni, pero'.}
@@ -63,8 +63,8 @@
 {162}{}{Grazie del consiglio; chiedero' un po' in giro. Posso farti qualche altra domanda, pero'?}
 {163}{}{Hmm... Okay, che ne dici di rispondere a qualche altra domanda?}
 {164}{}{No, solo quello che ti ho gia' detto. Aspetta, c'e' un'altra cosa. L'Enclave ha mostrato dell'interesse per alcune rovine a ovest di qui. Non saprei dirti il motivo. E questo e' tutto.}
-{165}{}{Bene, anche la piu' piccola informazione puo' essermi utile. Grazie!}
-{166}{}{Questo e' un argomento di fondamentale importanza e tu mi deludi cosi'?}
+{165}{}{Ogni informazione è utile, e ti ringrazio.}
+{166}{}{Questo è un argomento molto importante per me, e mi hai deluso!}
 {167}{}{Capisco.}
 {168}{}{Credo che il suo nome sia virus FEV. L'Enclave sta, o stava, eseguendo ampie ricerche su di esso. Mi dispiace, ma non so altro.}
 {169}{}{D'accordo; parliamo di altre cose.}
@@ -102,7 +102,7 @@
 {201}{}{Uh... me perso. Me va.}
 {202}{}{Son passato solo per salutarti. Ci vediamo.}
 {203}{}{Ehi, sto cercando un compagno di viaggio. Che ne diresti di venire con me?}
-{204}{}{Cosa posso fare per te, }
+{204}{}{Cosa posso fare per te,}
 {205}{}{Tu cosa cattiva! Perche' no detto?}
 {206}{}{Sei un Deathclaw? C'e' un motivo per il quale non me l'hai detto prima?}
 {207}{}{Come posso spiegartelo... Cose cattive te uccidere, no parlare. Me non ha detto te cosi' tu credere me cosa buona. No uccidere me. Okay me stare con te?}
@@ -122,7 +122,7 @@
 {221}{}{Le telecamere di sicurezza hanno registrato quel che e' successo. Dovresti controllare il filmato.}
 {222}{}{Vedi un Deathclaw grigio. E' Goris.}
 {223}{}{Vedi una figura umanoide che indossa un saio con le maniche lunghe e il cappuccio. E' Goris.}
-{1000}{}{Si', }
+{1000}{}{Si',}
 {1001}{}{Tu curare te.}
 {1002}{}{Tu aspettare qui. Me torna e prende te.}
 {1003}{}{Uh... no armi ora. Okay?}
@@ -134,12 +134,12 @@
 {1016}{}{Andiamo.}
 {1017}{}{Sei un Deathclaw? C'e' un motivo per il quale non me l'hai detto prima?}
 {1018}{}{E' tutto, per ora.}
-{1019}{}{Sono in piena forma e pronto ad andare, }
-{1020}{}{Sono quasi del tutto guarito, }
-{1021}{}{Sono piuttosto in salute, ma mi farebbero comodo delle cure aggiuntive, non appena ne avremo la possibilita', }
-{1022}{}{Mi sono curato per quanto mi era possibile, ma sono ancora messo piuttosto male, }
-{1041}{}{Ti aspettero' finche' non sarai tornato, }
-{1060}{}{Faro' del mio meglio per non attirare l'attenzione, }
+{1019}{}{Sono in piena forma e pronto ad andare,}
+{1020}{}{Sono quasi del tutto guarito,}
+{1021}{}{Sono piuttosto in salute, ma mi farebbero comodo delle cure aggiuntive, non appena ne avremo la possibilita',}
+{1022}{}{Mi sono curato per quanto mi era possibile, ma sono ancora messo piuttosto male,}
+{1041}{}{Ti aspettero' finche' non sarai tornato,}
+{1060}{}{Faro' del mio meglio per non attirare l'attenzione,}
 {1064}{}{Tu stare vicino.}
 {1065}{}{No andare troppo lontano.}
 {1066}{}{Tu troppo vicino. Allontanare.}
@@ -147,10 +147,10 @@
 {1074}{}{Non allontanarti troppo.}
 {1075}{}{Dovremmo distanziarci un po'.}
 {1078}{}{E' tutto, per ora.}
-{1079}{}{Ti staro' piu' vicino che posso, }
-{1098}{}{Mi allontanero' un po' per darti modo di respirare, }
-{1117}{}{Mi terro' lontano e ti daro' spazio, }
-{1136}{}{Mi dispiace, }
+{1079}{}{Ti staro' piu' vicino che posso,}
+{1098}{}{Mi allontanero' un po' per darti modo di respirare,}
+{1117}{}{Mi terro' lontano e ti daro' spazio,}
+{1136}{}{Mi dispiace,}
 {1137}{}{Ho imparato molte cose durante i nostri viaggi insieme. Verro' volentieri con te, }
 {1156}{}{? }
 {1157}{}{. }

@@ -9,7 +9,7 @@
 {210}{}{Ho detto a tutti che io e te siamo COSI' (batte insieme i due diti indici). Ho anche detto che quando io chiedo qualcosa, e' come se fossi tu in persona a chiederla.}
 {211}{}{Sei fortunato che ci sia stato io a salvarti il culo, altrimenti l'Enclave ti avrebbe mangiato a COLAZIONE.}
 {212}{}{Yo, eroe. Mi raccomando: di' a tutti che T-Ray e' il tuo migliore amico, okay?}
-{220}{}{Whoa, siamo in presenza di sua maesta'. Eroe in arrivo!}
+{220}{}{Oh, attenzione: siamo alla presenza della nobiltà. L’eroe in persona, fate largo.}
 {221}{}{Sai, se tu fossi venuto qui prima di andare a fare tutto quel casino, ti avrei potuto aiutare ad ammazzare il Presidente.}
 {222}{}{Volevo venire anch'io all'Enclave, ma in quel momento stavo telefonando.}
 {230}{}{Quanti cavalli puo' sprigionare quella cosa che indossi?}
@@ -56,12 +56,12 @@
 {302}{}{Dov'e' che vuoi andare? Qui? Beh... (Ti osserva per bene) ...un uomo deve fare quello che un uomo deve fare. Diamoci dentro.}
 {303}{}{Uh-huh}
 {304}{}{Nuh-uh}
-{306}{}{-Ci dai "dentro"-}
+{306}{}{Ci dai dentro.}
 {307}{}{Uh, no grazie. Ho cambiato idea. Ci vediamo.}
 {320}{}{Allora, d'accordo...}
 {321}{}{Uh-uh-uh}
 {330}{}{Ah, e cosi' stai GIOCANDO con T-Ray? D'accordo... Sparisci, donna! Posso trovare cagne migliori, senza sprecare il mio tempo con te.}
-{331}{}{Il tempo continua a ticchettare, ticchettare, ticchettare... nel futuuuuro...}
+{331}{}{Il tempo continua a ticchettare, ticchettare, ticchettare... nel futuuuuro}
 {333}{}{Se davvero credi di riuscire a prendere dei cani, poi sei libero di farci tutto quello che vuoi. Addio.}
 {334}{}{Il fatto che tu faccia sesso con dei cani non mi sorprende. Addio.}
 {340}{}{La Highwayman che c'e' qua fuori? Cazzo, CERTO che ti piace. Quella e' una bella macchina, una recente acquisizione... stavamo giusto per darle una ripulita e lavorarci un po' su, prima di venderla al vecchio Bishop.}
@@ -100,7 +100,7 @@
 {437}{}{Al diavolo. Ti faro' in talmente tanti pezzi che potrai metter su una macelleria.}
 {445}{}{(I suoi occhi scivolano lungo le curve del tuo corpo.) Non so se vali cosi' TANTO, donna. Stiamo pur sempre parlando di una HIGHWAYMAN...}
 {446}{}{Oh, certo che la valgo. E anche di piu'.}
-{455}{}{Chiamatemi pure pazzo... ma ci sto. Prima io mi diverto un po' e poi tu puoi pure portare quella Highwayman fuori di qui. }
+{455}{}{Chiamatemi pure pazzo... ma ci sto. Prima io mi diverto un po' e poi tu puoi pure portare quella Highwayman fuori di qui.}
 {456}{}{Diamoci dentro, allora.}
 {457}{}{Al diavolo i negoziati. Ridammi la MIA macchina, subito. Altrimenti...}
 {458}{}{Ho cambiato idea. Credo che ti uccidero' e basta.}
@@ -125,7 +125,7 @@
 {506}{}{Vabbe'. Io me ne vado.}
 {520}{}{Gia', proprio come PENSAVO. Faresti meglio ad andartene prima che la tua mammina si preoccupi.}
 {521}{}{No. In realta' e' TUA madre che si preoccupa perche' non sono li' a darle un po' di piacere.}
-{522}{}{-Lascialo perdere e vattene senza fare storie-}
+{522}{}{Lascialo perdere e vattene senza fare storie.}
 {530}{}{D'accordo. Affare fatto. (Conta velocemente i soldi, li mette in tasca.) La Highwayman e' tutta tua. Non ha nettare nel serbatoio, naturalmente, e non ha nessuno di quegli aggeggini speciali che stavo per metterle su...}
 {531}{}{Di che aggeggi stai parlando?}
 {532}{}{Sono stanco di questa marea di stronzate. Assaggia un po' di piombo, "chop shop boy"...}
@@ -190,7 +190,7 @@
 {747}{}{La prossima volta farai meglio a stare attento. Me ne vado.}
 {755}{}{D'accordo, d'accordo... ecco cosa ti propongo: noi possiamo installarle tutti i potenziamenti, "ringalluzzirla" e darla a Mr. Bishop in men che non si dica. Per quanto riguarda il prezzo... (Alza le spalle, sorride) ...la domanda e': come si PUO' mettere un prezzo su una Highwayman come questa?}
 {756}{}{Continua.}
-{757}{}{Non ho TEMPO per le tue stronzate. Vieni al dunque.}
+{757}{}{Non ho TEMPO per le tue stronzate. Qual è il punto?}
 {758}{}{Hai ragione. Non puoi. Prendero' l'auto con me e Mr. Bishop ti permettera' di continuare i tuoi traffici.}
 {759}{}{Non ho tempo da perdere in chiacchiere. Me ne vado.}
 {770}{}{Per come la vedo io, questa Highwayman... molto probabilmente l'ultima del suo tipo ancora funzionante... vale ALMENO 3000 dollari... ma la sai una cosa? (Strizza l'occhio) Sono disposto a separarmi da questa bellezza per soli 2700 considerata la situazione. Certo, dovremmo parlare dei benefici AGGIUNTIVI: privilegi al club, libero accesso al bordello...}

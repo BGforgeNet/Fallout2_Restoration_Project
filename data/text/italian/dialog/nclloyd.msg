@@ -95,9 +95,9 @@
 {427}{}{No, adesso tu mi aspetterai qui e te ne starai quieto finche' non saro' di ritorno. Prima ho delle cose da fare, poi tornero' qui e potremo andare a fare la nostra gita fuori porta.}
 {435}{}{(Si irrigidisce.) Forse. Tu chi sei? Non mi pare di avere il piacere...}
 {436}{}{(Si irrigidisce, poi solleva un sopracciglio.) Forse. Sono sicuro che mi ricorderei di te, miss. Non credo di avere il piacere...}
-{437}{}{Risparmiami le tue stronzate, Lloyd. Sono qui per i soldi che hai rubato a Mr. Salvatore.}
+{437}{}{Risparmiami le tue stronzate, Lloyd. Sono qui per i soldi che hai rubato a Don Salvatore.}
 {438}{}{Ascoltami bene, Lloyd, dammi i soldi e FORSE mi dimentichero' di averti visto finche' non te ne sarai andato lontano da qui.}
-{439}{}{Lloyd, Mr. Salvatore mi ha mandato sulle tue tracce per riavere indietro i suoi soldi e per darti una punizione... esemplare. Non c'e' bisogno di arrivare a tanto... A PATTO CHE noi due si arrivi a un accordo.}
+{439}{}{Lloyd, Don Salvatore mi ha mandato sulle tue tracce per riavere indietro i suoi soldi e per darti una punizione... esemplare. Non c'e' bisogno di arrivare a tanto... A PATTO CHE noi due si arrivi a un accordo.}
 {445}{}{D'accordo... D'accordo, aspetta... (Manda giu' la saliva.) I soldi sono nella piana del Golgotha, seppelliti in una delle tombe. Solo io so dove sono, pero'.}
 {446}{}{Fammi vedere.}
 {448}{}{Questa e' la piu' grossa marea di str... oh diavolo, credo che ti uccidero' e poi andro' a cercare i soldi da solo.}
@@ -159,7 +159,7 @@
 {696}{}{Datti una mossa, Lloyd. Non abbiamo tutto il giorno.}
 {698}{}{Sto arrivando, Lloyd.}
 {706}{}{Normale amministrazione...}
-{715}{}{Giusto, giusto... e' tutto tuo. Nessun problema. Me ne vado. (Si gira e comincia a camminare.)}
+{715}{}{Giusto, giusto... e' tutto tuo. Nessun problema. Me ne vado. (Si gira e comincia a camminare.}
 {716}{}{(Lascialo andare.)}
 {717}{}{(Sparagli alla schiena.)}
 {1000}{}{Dopo una lunga camminata, raggiungi il colle del Golgotha. Una volta li', Lloyd ti conduce a una delle tombe.}

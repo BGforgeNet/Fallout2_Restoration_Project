@@ -55,9 +55,9 @@
 {154}{}{Estrazione fallita — sovraccarico dei sensori locali.}
 {155}{}{Estrazione fallita — impossibile inizializzare la procedura per la fisiologia del soggetto.}
 {170}{}{Umano }
-{171}{}{Cane}
+{171}{}{Cane }
 {172}{}{Felino }
-{173}{}{Road Runner }
+{173}{}{Beep Beep }
 {174}{}{Roditore }
 {175}{}{Mutante }
 {176}{}{Deathclaw }

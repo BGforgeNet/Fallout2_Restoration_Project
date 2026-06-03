@@ -50,7 +50,7 @@
 {149}{}{The good always die young.}
 {150}{}{I hope we can survive the winter without Ken Lee.}
 {151}{}{I hear that Ken Lee was the only one who kept the Emperor in line.}
-{152}{}{I hear that the Emperor was only a fac?ade for Ken Lee. }
+{152}{}{I hear that the Emperor was only a façade for Ken Lee. }
 {153}{}{Work, work, work. Rice, rice, rice. ::sigh::}
 {154}{}{Isn't there more to life than this?}
 {155}{}{We're smarter than you think.}

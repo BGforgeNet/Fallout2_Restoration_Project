@@ -162,7 +162,7 @@
 {441}{}{Before the war? But that was a long time ago.}
 {442}{}{Better deal? What do you mean?}
 {450}{}{That may be so, but not everyone has a city full of lunatics thirsting for their blood.}
-{451}{}{What do you mean?}
+{451}{}{Ý cậu là sao?}
 {460}{}{It sure was a long time ago. How do you think ghouls are made? You think some of us just got up
  one fine day and said to ourselves: "Gee, I wonder what it'd be like to have my flesh rotting off my
  fucking body?"}

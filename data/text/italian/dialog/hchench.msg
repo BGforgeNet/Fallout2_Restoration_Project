@@ -20,10 +20,10 @@
 {119}{}{Mi merito un aumento. E' un lavoro pericoloso, questo.}
 {200}{}{Posso aiutarti?}
 {201}{}{Si', sto cercando il capo carovaniere.}
-{202}{}{Potrei farti qualche domanda a proposito di Chad?}
+{202}{}{Mi chiedevo se potessi farti qualche domanda su Chad.}
 {203}{}{Chi sei?}
 {204}{}{No, grazie.}
-{205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
+{205}{}{In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. È dentro quell’edificio laggiù.}
 {206}{}{Ho ancora un paio di domande.}
 {207}{}{Grazie. Ciao.}
 {208}{}{Tu hai delle domande e forse io ho delle risposte. Che cosa vuoi sapere?}
@@ -72,4 +72,4 @@
 {413}{}{Sarah}
 {450}{}{Vedi }
 {451}{}{, una guardia della carovana.}
-{2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}
+{2050}{}{In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. È quello con il cappello, proprio laggiù.}

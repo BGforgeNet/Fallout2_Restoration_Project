@@ -3,7 +3,7 @@
 {102}{}{Non c'e' niente di particolarmente speciale in questo tipo. Sembra essere un perfetto esempio di burocrate in erba.}
 {103}{}{Benvenuto nella Sala del Congresso. Come posso aiutarla?}
 {104}{}{E' tornato, vedo. Come posso aiutarla, questa volta?}
-{105}{}{Now, how can I help you?}
+{105}{}{Allora, come posso aiutarti?}
 {106}{}{Uhhh...}
 {107}{}{Me vedere Tandi?}
 {108}{}{Me vedere Tandi?}

@@ -29,7 +29,7 @@
 {134}{}{Oh, molto bene. Grazie d'avermelo chiesto. Becky ha una storia familiare davvero interessante. Anche tu ne hai una?}
 {135}{}{Sempre piuttosto bene, grazie. Dov'eravamo rimasti? Mi pare che tu stessi parlando della tua storia familiare, no?}
 {136}{}{Si'. Io sono il Prescelto. Il mio antenato salvo' il mondo dall'essere che veniva chiamato il Master.}
-{137}{}{Certo. Si pensa che il mio antenato abbia salvato il mondo da qualcuno chiamato il "Master".}
+{137}{}{Certo. Si pensa che il mio antenato abbia salvato il mondo da qualcuno chiamato il "Master."}
 {138}{}{Devo andare.}
 {139}{}{Uh, okay. E' un piacere conoscerti, Prescelto... In realta', ho gia' sentito parlare di un certo Master, prima d'ora...}
 {140}{}{Molto interessante. Questo mi ricorda una storia che ho sentito molto tempo fa. Riguardava un certo Master.}

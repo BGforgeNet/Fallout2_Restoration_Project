@@ -51,10 +51,10 @@
 {201}{}{Wooooooo Hoooo!}
 {202}{}{Dannazione!}
 {203}{}{Aaaargh!}
-{204}{}{::click clack::}
+{204}{}{::clic clac::}
 {205}{}{Come diavolo si fa a scassinare una serratura con delle CHELE?}
 {206}{}{Come tu rompee luchetto co' CHELE?}
-{207}{}{::chitter::}
+{207}{}{::cinguettio::}
 {208}{}{Beh, questo e' un pareggio.}
 {209}{}{Hai perso. Scorpione: }
 {210}{}{, }

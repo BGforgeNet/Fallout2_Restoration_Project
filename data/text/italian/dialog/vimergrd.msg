@@ -1,4 +1,4 @@
 {100}{}{Vedi una guardia.}
-{101}{}{You see a tough looking caravan guard.}
-{200}{}{Talk to the boss.}
-{201}{}{I'm just here to guard. Talk to the man in charge.}
+{101}{}{Vedi una guardia della carovana dall’aria tosta.}
+{200}{}{Parla con il capo.}
+{201}{}{Sono qui solo per fare la guardia. Parla con chi comanda.}

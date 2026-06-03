@@ -1,3 +1,4 @@
+/** @tra door.msg */
 /*
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
@@ -21,10 +22,11 @@
 
 
 /* Include Files */
-#ifndef SCRIPT_REALNAME //kivicdoor includes this file, need to avoid warning
-#define SCRIPT_REALNAME "ziwoddor"
+#ifndef SCRIPT_REALNAME // kivicdoor includes this file, need to avoid warning
+  #define SCRIPT_REALNAME "ziwoddor"
 #endif
 #include "../headers/define.h"
+#include "../sfall/define_extra.h"
 
 #define NAME                    SCRIPT_DOOR
 
@@ -83,6 +85,9 @@
 #define DOOR_STRENGTH                   (2)
 #define MIN_DAMAGE                      (10)
 #define MAX_DAMAGE                      (20)
+
+// 3 and less is just not enough to work the crowbar
+#define MIN_STRENGTH  4
 
 /* Experience Points for Skills */
 #define Lockpick_Exp                    EXP_LOCKPICK_NEG_20
@@ -474,24 +479,26 @@ this procedure is to lock the door from the outset, rather than having to worry 
 it through Mapper. After the door has been unlocked, it will remain as such, unless
 the player locks it once more.
 ***************************************************************************************/
-
 procedure map_enter_p_proc begin
-  /* Set up the door state when the player first enters the map */
-  if (is_loading_game == false) then begin
+    /* Don't change state when player is already on the map */
+    if is_loading_game then return;
+
+    /* Set up the state vars when the player first enters the map */
     if (local_var(LVAR_Set_Door_Status) == 0) then begin
-      set_local_var(LVAR_Set_Door_Status,1);
+      set_local_var(LVAR_Set_Door_Status, 1);
       obj_unlock(self_obj);
-      set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+      set_local_var(LVAR_Trapped, TRAPPED_STATUS);
     end
 
+    // Repeating setup runs on every map enter (not game load to the same map)
+    // Some doors, like Rebecca's basement door, have dynamic LOCKED_STATUS. Active when she's alive, inactive when dead.
+    // Same for Eldrige, etc. They re-lock on re-entering the map.
     if (LOCKED_STATUS == STATE_ACTIVE) then begin
-      obj_lock(self_obj);
+      call close_and_lock_self;
     end else begin
       obj_unlock(self_obj);
     end
-  end
 end
-
 
 /**************************************************************************************
 This procedure gets called roughly every 30 seconds of real time. It is used to make
@@ -1425,28 +1432,30 @@ procedure Lock_Door begin
   end
 end
 
-
-/***************************************************************************
-This procedure is used should the player try to pry the door open using a
-crowbar or some similar instrument.
-***************************************************************************/
-// For wood doors, Crowbar_Bonus = 0, which means always success
+/**
+ * This procedure is used should the player try to pry the door open using a crowbar or some similar instrument.
+ */
 procedure roll_pry_success begin
-  variable rnd = random(1,10);
-  if rnd <= (get_critter_stat(source_obj,STAT_st) + Crowbar_Bonus) then return true;
+  variable rnd = random(MIN_STRENGTH, 10);
+  if (get_critter_stat(source_obj, STAT_st) + Crowbar_Bonus) > rnd then return true;
   return false;
 end
 
-// Sturdier doors and high strength provide more chance to mangle the crowbar
-// Any STR char + wood door = 1% chance to destroy
-// 5 STR char + metal door = 10% chance to destroy
-// 10 STR char + metal door = 20% chance to destroy
+// Sturdier doors and high strength provide higher chance to mangle the crowbar
+// 4 STR char + wood door = 1% chance to destroy
+// 5 STR char + metal container = 10% chance to destroy
+// 10 STR char + metal container = 20% chance to destroy
 procedure roll_pry_destroy_crowbar begin
-  variable rnd = random(1,100);
-  variable str = get_critter_stat(source_obj,STAT_st);
+  variable rnd = random(1, 100);
+  variable str = get_critter_stat(source_obj, STAT_st);
+
+  // Too weak to bend it
+  if str < MIN_STRENGTH then return false;
+
   // Base Crowbar_Bonus = 0 (wood door). For metal doors, default is -2
   variable penalty = str * Crowbar_Bonus;
   if rnd + penalty <= 1 then return true;
+
   return false;
 end
 
@@ -1458,6 +1467,16 @@ procedure Pry_Door begin
   if not obj_is_locked(self_obj) then begin
     display_msg(mstr(601));
     return;
+  end
+
+  /** True if I am a container, False otherwise (door) */
+  variable is_container = false;
+  if (obj_type(self_obj) == OBJ_TYPE_ITEM) and (obj_item_subtype(self_obj) == item_type_container) then begin
+    is_container = true;
+  end
+  // No prying open metal doors
+  if (DOOR_STATUS == STATE_METAL) and (not is_container) then begin
+    display_msg(mstr(500));
   end
 
   // crowbar destroy runs always, discouraging high STR characters from spamming it

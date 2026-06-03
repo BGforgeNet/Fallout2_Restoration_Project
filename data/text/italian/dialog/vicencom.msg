@@ -1,5 +1,5 @@
 {100}{}{Vedi un terminale di computer. Sta eseguendo un qualche tipo di programma diagnostico di routine.}
-{101}{}{Vedi il computer centrale di Vault City.}
+{101}{}{Vedi il computer centrale di Vault City. }
 {102}{}{Vedi un terminale di computer. Sta eseguendo un qualche tipo di programma diagnostico di routine.}
 {103}{}{Vedi una scatola di metallo che sta parlando con se stessa con voce femminile.}
 {104}{}{Vedi una scatola di metallo parlante.}
@@ -28,7 +28,7 @@
 {127}{}{Sistemi di Ventilazione 3A... 3B... 3C... 3D... 3E... funzionano al massimo dell'efficienza.}
 {128}{}{Temperatura e umidita' all'interno del Vault si trovano a valori entro la norma.}
 {129}{}{Sistema di Alimentazione...}
-{130}{}{Tutti i livelli energetici si trovano a valori entro la norma.}
+{130}{}{Tutti i livelli energetici si trovano a valori entro la norma. }
 {131}{}{La modalita' risparmio energetico per i livelli due e tre rimane attiva.}
 {132}{}{Attenzione: La porta d'entrata al Vault e' aperta. In caso di emergenza, la porta sara' sigillata.}
 {133}{}{Tutti i valori normali. Diagnostica di Sistema completata. Preparazione a scrittura su disco...}
@@ -48,13 +48,13 @@
 {147}{}{Telecamere di Sicurezza... 1A... 1B... 1C... funzionano al massimo dell'efficienza.}
 {148}{}{Sistemi di Sicurezza... 2A... 2B... 2C... funzionano al massimo dell'efficienza.}
 {149}{}{Sistemi di Sicurezza... 3A... 3B... 3C... funzionano al massimo dell'efficienza.}
-{150}{}{Sistemi Ambientali...}
+{150}{}{Sistemi Ambientali... }
 {151}{}{Sistemi di Ventilazione 1A... 1B... funzionano al massimo dell'efficienza.}
 {152}{}{Sistemi di Ventilazione 2A... 2B... 2C... 2D... funzionano al massimo dell'efficienza.}
 {153}{}{Sistemi di Ventilazione 3A... 3B... 3C... 3D... 3E... funzionano al massimo dell'efficienza.}
 {154}{}{Temperatura e umidita' all'interno del Vault si trovano a valori entro la norma.}
 {155}{}{Sistema di Alimentazione...}
-{156}{}{Tutti i livelli energetici si trovano a valori entro la norma.}
+{156}{}{Tutti i livelli energetici si trovano a valori entro la norma. }
 {157}{}{La modalita' risparmio energetico per i livelli due e tre rimane attiva.}
 {158}{}{Attenzione: La porta d'entrata al Vault e' aperta. In caso di emergenza, la porta sara' sigillata.}
 {159}{}{Tutti i valori normali. Diagnostica di Sistema completata. Preparazione a scrittura su disco...}
@@ -119,8 +119,8 @@
 {218}{}{Inizio procedura di inizializzazione...}
 {219}{}{                             Riformattazione PipBoy in corso...}
 {220}{}{Ehi! Ridammi il mio dannato PipBoy!}
-{221}{}{Cancel! Cancel! }
-{222}{}{L'Archivio Geografico della California Settentrionale sta per essere copiato nel database del PipBoy.}
+{221}{}{Cancella! Cancella! }
+{222}{}{L'Archivio Geografico della California Settentrionale sta per essere copiato nel database del PipBoy. }
 {223}{}{Copia dell'archivio in corso... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download completato.}
 {224}{}{Continua la ricerca negli archivi per altre informazioni.}
 {225}{}{Spegni il terminale.}
@@ -174,11 +174,11 @@
 {300}{}{Proprio mentre stai per tornare all'elenco degli archivi, noti abilmente una voce nascosta nella lista.}
 {301}{}{Proprio mentre stai per disconnetterti dal terminale, noti abilmente una voce nascosta nella lista degli archivi.}
 {302}{}{[CONTINUA]}
-{303}{}{Dopo qualche minuto <g id="26198">è </g>possibile chiudere il rubinetto di lavaggio botte}
-{304}{}{[Read entry.]}
+{303}{}{Dopo qualche minuto <g id="26198">è </g>possibile chiudere il rubinetto di lavaggio botte.}
+{304}{}{[Leggi la voce.]}
 {305}{}{Leggendo il file, sembra che l'unico scopo del Vault 8 fosse quello di agire come un "Vault di controllo" in una serie di Vault creati da una corporazione chiamata Vault-Tec.
  L'intento era che il Vault 8 si aprisse e ricolonizzasse la superficie dopo 10 anni. Sembra anche che il Vault 8 non fosse l'unico Vault con uno scopo diverso dal proteggere i suoi abitanti dalla Grande Guerra.
  Forse si puo' scoprire di piu' sul vero scopo di questi Vault in un altro luogo.}
-{306}{}{[Return to archive listing.]}
-{307}{}{[Log off.]}
+{306}{}{[Torna all’elenco degli archivi.]}
+{307}{}{[Disconnetti.]}
 {308}{}{Scopri il vero scopo del Vault 8 e che c'e' molto di piu' nella costruzione di tutti i Vault di quanto sembri.}

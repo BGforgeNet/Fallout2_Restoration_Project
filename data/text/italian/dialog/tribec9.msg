@@ -1,16 +1,16 @@
-{100}{}{You see a warrior.}
-{101}{}{You see Serin.}
-{102}{}{He looks badly injured and has a broken leg.}
+{100}{}{Vedi un guerriero.}
+{101}{}{Vedi Serin.}
+{102}{}{Sembra gravemente ferito e ha una gamba rotta.}
 {103}{}{Vedi Serin. Sembra gravemente ferito e ha una gamba rotta.}
-{104}{}{You see Serin. His leg is bandaged and he is hobbling.}
-{105}{}{You see Serin. He looks better and he is in a deep sleep.}
-{106}{}{You see Serin. He looks like he has recovered nicely.}
+{104}{}{Vedi Serin. La sua gamba è fasciata e zoppica.}
+{105}{}{Vedi Serin. Sembra stare meglio ed è in un sonno profondo.}
+{106}{}{Vedi Serin. Sembra essersi ripreso bene.}
 {200}{}{*ugh* Muori demonio!! Non riuscirai a-}
-{201}{}{Calm down. You're safe now. The gecko is dead.}
+{201}{}{Calmati. Ora sei al sicuro. Il gecko è morto.}
 {202}{}{Cosa!? Oh, grazie agli spiriti, amico. Temevo di essere spacciato.}
-{203}{}{What happened here?}
+{203}{}{Cosa è successo qui?}
 {204}{}{Jerem e io uscire per caccia settimanale. Prendere passaggio grotta verso campo dove molti geco girare. Caccia andare male. Dover scappare. Troppi geco con spiriti di furia. Noi entrare grotta. Cominciare urlare per aiuto. [Si ferma un momento e fa una smorfia di dolore mentre cerca di massaggiarsi la gamba.]}
-{205}{}{Please go on.}
+{205}{}{Per favore, continua.}
 {206}{}{Passaggio gia' essere sull'orlo della rovina. Acqua filtrare da ruscello in alto. Un passo mortale, ma essere grande scorciatoia verso campi. Non piu'. Vedere, noi urlare come sciocchi e soffitto crollare su di noi.}
 {207}{}{[Continua]}
 {208}{}{Povero Jerem. Io vedere grande roccia schiacciare lui come insetto. Le grandi rocce mancare me, ma morso del Geco no. Proprio quando io pensare di essere al sicuro, un geco venire dal nulla e mordere forte la gamba. Portare me a terra. Non avere lancia, pensare il Geco mangiare me di sicuro. Ma gli spiriti avere altri piani. Portare una grande roccia finale sulla testa del geco. Schiacciarla piatta. Ma schiacciare anche gamba mia.}
@@ -28,11 +28,11 @@
 {220}{}{Bene, dovrebbe bastare. Avrai bisogno di un paio di giorni di riposo per guarire completamente. Non mettere troppo peso sulla gamba in questo periodo e dovresti stare bene.}
 {221}{}{Spiriti sacri possedere te, amico! Io ringraziarti. Ora io zoppicare verso lo sciamano. Prendere buona erba per calmare dolore. Ci vediamo al villaggio, amico.}
 {222}{}{[Fatto]}
-{300}{}{I thank you, fren. Be seeing you back at the village.}
+{300}{}{Ti ringrazio, amico. Ci vediamo al villaggio.}
 {400}{}{Grazie tanto, amico. Davvero, tu essere benedetto dagli spiriti.}
-{500}{}{zzzZZzzz...}
-{501}{}{...zzZZZZzz... zzz...}
-{600}{}{You heal Serin's leg.}
-{700}{}{He needs more help than I can offer. I better get going.}
-{1000}{}{Good to be peeping you, hero.}
-{1001}{}{I never forget what you done for me, hero.}
+{500}{}{ZzzZZzzz…}
+{501}{}{…zzZZZzz… zzz…}
+{600}{}{Curi la gamba di Serin.}
+{700}{}{Ha bisogno di più aiuto di quanto io possa offrirgli. È meglio che vada.}
+{1000}{}{Bello rivederti, eroe.}
+{1001}{}{Non dimenticherò mai ciò che hai fatto per me, eroe.}

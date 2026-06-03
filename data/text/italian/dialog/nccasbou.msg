@@ -66,13 +66,13 @@
 {338}{}{Smamma, muso da cane. Sto lavorando.}
 {339}{}{Va' ad abbaiare con qualcuno piu' ubriaco di me, muso da cane.}
 {345}{}{Non dovrei chiacchierare mentre sono in servizio, ma sono contento che tu abbia distrutto l'Enclave.}
-{346}{}{Sei grande, selvaggia. Dopo aver salvato il mondo, che ne diresti adesso di riposarti e di divertirti un po'?}
+{346}{}{Sei a posto, selvaggio. Dopo aver salvato il mondo, perche' non ti riposi e ti diverti un po’?}
 {347}{}{Mi hanno detto che Tommy the Balls ti sta cercando. Occhio.}
 {350}{}{Hai avuto davvero un bel fegato per riuscire a sconfiggere l'Enclave a quel modo.}
 {351}{}{Immagino che eliminare l'Enclave nel modo in cui l'hai fatto tu abbia richiesto piu' fegato di quanto ne abbiano tutti gli abitanti di New Reno messi insieme.}
 {352}{}{Distruggere l'Enclave ti rende un duro quasi alla pari con Tommy the Balls.}
 {353}{}{Non dovrei chiacchierare mentre sono in servizio, ma sono contento che tu abbia distrutto l'Enclave.}
-{354}{}{Sei grande, selvaggia. Dopo aver salvato il mondo, che ne diresti adesso di riposarti e di divertirti un po'?}
+{354}{}{Sei a posto, selvaggio. Dopo aver salvato il mondo, perche' non ti riposi e ti diverti un po’?}
 {355}{}{Devi avere due palle di bronzo per essere riuscita a distruggere l'Enclave a quel modo. Beh, non PALLE in senso letterale... sono sicuro che hai capito cosa intendo.}
 {356}{}{Zucchero, immagino che eliminare l'Enclave nel modo in cui l'hai fatto tu abbia richiesto piu' fegato di quanto ne abbiano tutti gli abitanti di New Reno messi insieme.}
 {357}{}{Credi che ti potrebbe piacere un tipo come me? Voglio dire: non sono uno in grado di salvare il mondo, ma sono piuttosto forte e ho un buon cuore.}

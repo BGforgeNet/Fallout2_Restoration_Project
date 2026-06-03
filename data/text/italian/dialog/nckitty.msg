@@ -7,11 +7,11 @@
 {204}{}{Maledetti fogli di lavoro Macrosoft...}
 {205}{}{Passo cosi' tanto tempo ad aggiornare questi fogli di lavoro che non riesco mai a LAVORARE davvero.}
 {206}{}{Jules fara' meglio a mandarci presto un po' di persone arrapate... e danarose.}
-{215}{}{(La donna di fronte a te e' incredibilmente bella. Non appena ti rivolgi a lei, alza lo sguardo e sorride.) Ah, una faccia nuova! Io sono Miss Kitty... benvenuto al Cat's Paw. }
-{216}{}{Bentornato! }
-{217}{}{Che mi venga un colpo se questo non e' il piu' famoso campione di boxe di Reno! }
+{215}{}{(La donna di fronte a te e' incredibilmente bella. Non appena ti rivolgi a lei, alza lo sguardo e sorride.) Ah, una faccia nuova! Io sono Miss Kitty... benvenuto al Cat's Paw.}
+{216}{}{Bentornato!}
+{217}{}{Ma guarda un po’, il più famoso pugile di Reno!}
 {218}{}{Mi stavo proprio chiedendo quand'e' che Mr. }
-{219}{}{Cielo! Che mi venga un colpo se questa non e' la star dello schermo! }
+{219}{}{Cielo! Che mi venga un colpo se questa non e' la star dello schermo!}
 {220}{}{ Che cosa desideri oggi?}
 {221}{}{ Che cosa desideri oggi, miss?}
 {222}{}{Derideri?}
@@ -73,7 +73,7 @@
 {355}{}{Jules mi ha detto di venire qui per un po' di... divertimento.}
 {361}{}{Veramente, adesso devo andare.}
 {375}{}{Molto probabilmente saremo in grado di accontentarti. La tua richiesta sarebbe...?}
-{376}{}{Voglio che la mia partner indossi una tuta da Vault aderente, che mi chiami "Abitante del Vault" e che faccia finta che io debba trovare il "Vault SESS-anta".}
+{376}{}{Voglio che la mia partner indossi una tuta da Vault aderente, che mi chiami "Abitante del Vault" e che faccia finta che io debba trovare il "Vault SESS-anta."}
 {377}{}{Mi piacerebbe essere "catturato" da una splendida donna-mutante, ed essere costretto con la forza ad immergermi nella sua "vasca" mutagena.}
 {378}{}{Mi piacerebbe interpretare il ruolo di "Herk", un giovane schiavo celibe strappato dal suo villaggio da una banda di vigorose femmine schiaviste. E qui arriva il bello... Herk puo' comunicare soltanto con il suo CORPO.}
 {379}{}{Mi piacerebbe interpretare il ruolo di "Zena", una giovane schiava nubile strappata dal suo villaggio da una banda di schiavisti. E qui arriva il bello... Zena puo' comunicare soltanto con il suo CORPO.}
@@ -94,9 +94,9 @@
 {404}{}{Davin avrebbe bisogno di fare un (bel) po' di esperienza.}
 {405}{}{Miria vorrebbe fare quattro passi in un territorio selvaggio.}
 {406}{}{In realta', nessuno, grazie.}
-{407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
+{407}{}{Questo è Dex. Meglio tenerlo d’occhio, a volte perde il controllo.}
 {408}{}{Questo e' il Gatto Jules. Attento pero', potrebbe mordere le ragazze.}
-{409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
+{409}{}{Questa è Kitsune. Spero tu sappia… come dire… starle dietro.}
 {420}{}{Il tuo amico qui? (Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {421}{}{(Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {422}{}{ dollari.}
@@ -163,7 +163,7 @@
 {576}{}{, tu... bestia disintegra-Enclave...}
 {577}{}{::Bwanbwan-bwan-ba-bwan oookwaka oookwaka::}
 {585}{}{(Annuisce.) Si', e' vero. Di solito dobbiamo addestrarle a lungo per sopprimere il loro istintivo disgusto. E' quasi un rito di passaggio, ormai. Pero', se una ragazza riesce a sopportare la prova-Myron, significa che e' tosta...}
-{586}{}{Mi piacerebbe incontrarlo. Pensi che potrei offrirmi volontaria per diventare la sua prossima "scelta"?}
+{586}{}{Mi piacerebbe incontrarlo. Pensi che potrei offrirmi come sua prossima… "scelta?"}
 {587}{}{Capisco. Avrei delle altre domande...}
 {588}{}{Hmmmm. Grazie delle informazioni.}
 {595}{}{(Ti osserva, poi fa un gesto rotatorio con l'indice) Girami intorno. Hmmmm... }
@@ -183,25 +183,25 @@
 {701}{}{Sgodevole.}
 {702}{}{Wow. E' stato... intenso.}
 {703}{}{Wow.}
-{704}{}{*Whew*}
+{704}{}{*Uff*}
 {705}{}{Eh... spero proprio di non averla messa incinta.}
 {706}{}{Non e' la stessa cosa quando il loro sangue e' ancora caldo, sai?}
-{707}{}{I hope you took notes.}
+{707}{}{Spero che tu abbia preso appunti.}
 {708}{}{Le ragazze sono diventate piuttosto strane dalla fine del mondo... mi piace.}
 {709}{}{...ed e' per questo che le ragazze mi chiamavano "Dex, il Duca del Sesso".}
 {710}{}{(Parlate per ore. Le ragazze del Cat's Paw hanno un incredibile intuito per la natura umana).}
-{711}{}{(L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle").}
+{711}{}{L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle."}
 {720}{}{*fischia*}
-{721}{}{*clap clap clap*}
+{721}{}{*applausi*}
 {722}{}{Cosi' si fa!}
 {723}{}{Wahoo.}
-{730}{}{*sob sob sob*}
+{730}{}{*singhiozzo*}
 {731}{}{Mi sento cosi'... cosi'... truffata...}
-{740}{}{*Grunt*}
+{740}{}{*Grugnito*}
 {750}{}{*Aaawoooo*}
 {760}{}{*Bzzzt*}
 {770}{}{Cosi' si fa, Boss! Anch'io non faccio sesso da mooooooooooooolto tempo.}
 {800}{}{Hai consegnato le riviste Cat's Paw a Miss Kitty.}
 {900}{}{Ti senti piu' coordinato e in sintonia con il tuo corpo adesso.}
-{1218}{}{ ti avrebbe mandato qui...(Ti fa l'occhiolino.) }
+{1218}{}{ ti avrebbe mandato qui...(Ti fa l'occhiolino.)}
 {1336}{}{ dollari a settimana.}

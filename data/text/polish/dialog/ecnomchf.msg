@@ -23,6 +23,6 @@
 {122}{}{Jesteśmy pokojowym plemieniem.}
 {200}{}{Oh, podróżnik. Wybacz, że nie mamy namiotu aby móc ci użyczyć jego cienia przed palącym słońcem pustkowi. Proszę odpocznij trochę, abyśmy mogli porozmawiać.}
 {201}{}{Dzięki ci; z wdzięcznością przyjmuje twoją ofertę.}
-{202}{}{To niefortunnie. Odpocznij chwilę; jesteś miłym gościem.}
-{203}{}{Mam nadzieję, że udało ci się wszystko znaleźć. Coś jeszcze?}
-{204}{}{Nie dzisiaj. Muszę już iść.}
+{202}{}{Co za pech. Odpocznij więc; jesteś mile widziany wśród nas.}
+{203}{}{Mam nadzieję że znalazłeś to czego szukałeś. Coś jeszcze?}
+{204}{}{Nie dzisiaj. Muszę iść.}

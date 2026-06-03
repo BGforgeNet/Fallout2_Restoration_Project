@@ -179,7 +179,7 @@
 {1115}{}{alla gamba sx}
 {1116}{}{agli occhi}
 {1117}{}{all'inguine}
-{1118}{}{uncalled}
+{1118}{}{ingiustificato}
 {1150}{}{alla testa}
 {1151}{}{alla zampa post. sx}
 {1152}{}{alla zampa post. dx}
@@ -188,16 +188,16 @@
 {1155}{}{alla zampa ant. sx}
 {1156}{}{agli occhi}
 {1157}{}{alle mammelle}
-{1158}{}{uncalled}
+{1158}{}{ingiustificato}
 {1160}{}{alla testa}
-{1161}{}{alla zampa post.}
-{1162}{}{alla zampa post.}
+{1161}{}{alla zampa post}
+{1162}{}{alla zampa post}
 {1163}{}{al corpo}
-{1164}{}{alla zampa ant.}
-{1165}{}{alla zampa ant.}
+{1164}{}{alla zampa ant}
+{1165}{}{alla zampa ant}
 {1166}{}{agli occhi}
 {1167}{}{all'inguine}
-{1168}{}{uncalled}
+{1168}{}{ingiustificato}
 {1170}{}{alla CPU}
 {1171}{}{al manipolatore}
 {1172}{}{al manipolatore}
@@ -206,7 +206,7 @@
 {1175}{}{al motivatore}
 {1176}{}{ai sensori}
 {1177}{}{al regolatore}
-{1178}{}{uncalled}
+{1178}{}{ingiustificato}
 {1180}{}{alla testa}
 {1181}{}{al braccio sx}
 {1182}{}{al braccio dx}
@@ -215,7 +215,7 @@
 {1185}{}{alla gamba sx}
 {1186}{}{agli occhi}
 {1187}{}{all'inguine}
-{1188}{}{uncalled}
+{1188}{}{ingiustificato}
 {1190}{}{alla testa}
 {1191}{}{alla zampa ant. sx}
 {1192}{}{alla zampa ant. dx}
@@ -224,7 +224,7 @@
 {1195}{}{alla gamba sx}
 {1196}{}{agli occhi}
 {1197}{}{all'inguine}
-{1198}{}{uncalled}
+{1198}{}{ingiustificato}
 {1210}{}{alla testa}
 {1211}{}{al braccio sx}
 {1212}{}{al braccio dx}
@@ -233,25 +233,25 @@
 {1215}{}{alla gamba sx}
 {1216}{}{agli occhi}
 {1217}{}{all'inguine}
-{1218}{}{uncalled}
+{1218}{}{ingiustificato}
 {1220}{}{alla testa}
 {1221}{}{alla coda}
 {1222}{}{alle chele}
 {1223}{}{al carapace}
-{1224}{}{alle zampe ant.}
-{1225}{}{alle zampe post.}
+{1224}{}{alle zampe ant}
+{1225}{}{alle zampe post}
 {1226}{}{agli occhi}
 {1227}{}{al cervello}
-{1228}{}{uncalled}
+{1228}{}{ingiustificato}
 {1230}{}{alla testa}
 {1231}{}{alla bocca}
-{1232}{}{alla bocca ant.}
+{1232}{}{alla bocca ant}
 {1233}{}{al corpo}
 {1234}{}{al sacco fluttuante}
 {1235}{}{alla coda}
 {1236}{}{al ganglio}
 {1237}{}{al posauova}
-{1238}{}{uncalled}
+{1238}{}{ingiustificato}
 {1240}{}{alla testa}
 {1241}{}{alla zampa ant. sx}
 {1242}{}{alla zampa ant. dx}
@@ -260,7 +260,7 @@
 {1245}{}{alla gamba sx}
 {1246}{}{agli occhi}
 {1247}{}{all'inguine}
-{1248}{}{uncalled}
+{1248}{}{ingiustificato}
 {1250}{}{alla testa}
 {1251}{}{al braccio sx}
 {1252}{}{al braccio dx}
@@ -269,7 +269,7 @@
 {1255}{}{alla gamba sx}
 {1256}{}{agli occhi}
 {1257}{}{all'inguine}
-{1258}{}{uncalled}
+{1258}{}{ingiustificato}
 {1270}{}{alla testa}
 {1271}{}{al braccio sx}
 {1272}{}{al braccio dx}
@@ -278,7 +278,7 @@
 {1275}{}{alla gamba sx}
 {1276}{}{agli occhi}
 {1277}{}{all'inguine}
-{1278}{}{uncalled}
+{1278}{}{ingiustificato}
 {1460}{}{alla testa}
 {1461}{}{al braccio sx}
 {1462}{}{al braccio dx}
@@ -287,7 +287,7 @@
 {1465}{}{alla gamba sx}
 {1466}{}{agli occhi}
 {1467}{}{all'inguine}
-{1468}{}{uncalled}
+{1468}{}{ingiustificato}
 {1490}{}{alla testa}
 {1491}{}{al braccio sx}
 {1492}{}{al braccio dx}
@@ -296,7 +296,7 @@
 {1495}{}{alla gamba sx}
 {1496}{}{agli occhi}
 {1497}{}{all'inguine}
-{1498}{}{uncalled}
+{1498}{}{ingiustificato}
 {1500}{}{alla testa}
 {1501}{}{alla ???}
 {1502}{}{alla ???}
@@ -305,7 +305,7 @@
 {1505}{}{alla ???}
 {1506}{}{agli occhi}
 {1507}{}{alla CPU}
-{1508}{}{uncalled}
+{1508}{}{ingiustificato}
 {1510}{}{alla testa}
 {1511}{}{al braccio sx}
 {1512}{}{al braccio dx}
@@ -314,7 +314,7 @@
 {1515}{}{alla gamba sx}
 {1516}{}{agli occhi}
 {1517}{}{all'inguine}
-{1518}{}{uncalled}
+{1518}{}{ingiustificato}
 {1520}{}{alla testa}
 {1521}{}{alla zampa predatoria}
 {1522}{}{alla zampa predatoria}
@@ -323,7 +323,7 @@
 {1525}{}{alle ali}
 {1526}{}{agli occhi}
 {1527}{}{al metatorace}
-{1528}{}{uncalled}
+{1528}{}{ingiustificato}
 {1530}{}{alla CPU}
 {1531}{}{al manipolatore}
 {1532}{}{al manipolatore}
@@ -332,7 +332,7 @@
 {1535}{}{al motivatore}
 {1536}{}{ai sensori}
 {1537}{}{al regolatore}
-{1538}{}{uncalled}
+{1538}{}{ingiustificato}
 {1540}{}{alla CPU}
 {1541}{}{al manipolatore}
 {1542}{}{al manipolatore}
@@ -341,7 +341,7 @@
 {1545}{}{al motivatore}
 {1546}{}{ai sensori}
 {1547}{}{al regolatore}
-{1548}{}{uncalled}
+{1548}{}{ingiustificato}
 {1550}{}{alla testa}
 {1551}{}{alla zampa ant. sx}
 {1552}{}{alla zampa ant. dx}
@@ -350,7 +350,7 @@
 {1555}{}{alla gamba sx}
 {1556}{}{agli occhi}
 {1557}{}{all'inguine}
-{1558}{}{uncalled}
+{1558}{}{ingiustificato}
 {1580}{}{al guscio}
 {1581}{}{al guscio}
 {1582}{}{al guscio}
@@ -359,16 +359,16 @@
 {1585}{}{al guscio}
 {1586}{}{al guscio}
 {1587}{}{al guscio}
-{1588}{}{uncalled}
+{1588}{}{ingiustificato}
 {1590}{}{alla testa}
 {1591}{}{alla coda}
 {1592}{}{alle chele}
 {1593}{}{al carapace}
-{1594}{}{alle zampe ant.}
-{1595}{}{alle zampe post.}
+{1594}{}{alle zampe ant}
+{1595}{}{alle zampe post}
 {1596}{}{agli occhi}
 {1597}{}{al cervello}
-{1598}{}{uncalled}
+{1598}{}{ingiustificato}
 {1600}{}{alla testa}
 {1601}{}{al braccio sx}
 {1602}{}{al braccio dx}
@@ -377,7 +377,7 @@
 {1605}{}{alla gamba sx}
 {1606}{}{agli occhi}
 {1607}{}{all'inguine}
-{1608}{}{uncalled}
+{1608}{}{ingiustificato}
 {1650}{}{alla bocca}
 {1651}{}{al gambo}
 {1652}{}{al gambo}
@@ -386,7 +386,7 @@
 {1655}{}{alla radice}
 {1656}{}{ai viticci di senso}
 {1657}{}{alla base}
-{1658}{}{uncalled}
+{1658}{}{ingiustificato}
 {1660}{}{alla testa}
 {1661}{}{al braccio-missile}
 {1662}{}{al braccio-mitra}
@@ -395,7 +395,7 @@
 {1665}{}{alla gamba sx}
 {1666}{}{ai sensori}
 {1667}{}{al torso inferiore}
-{1668}{}{uncalled}
+{1668}{}{ingiustificato}
 {1670}{}{alla testa}
 {1671}{}{all'artiglio sx}
 {1672}{}{all'artiglio dx}
@@ -404,7 +404,7 @@
 {1675}{}{alla gamba sx}
 {1676}{}{agli occhi}
 {1677}{}{all'inguine}
-{1678}{}{uncalled}
+{1678}{}{ingiustificato}
 {1680}{}{alla testa}
 {1681}{}{all'artiglio sx}
 {1682}{}{all'artiglio dx}
@@ -413,7 +413,7 @@
 {1685}{}{alla gamba sx}
 {1686}{}{agli occhi}
 {1687}{}{all'inguine}
-{1688}{}{uncalled}
+{1688}{}{ingiustificato}
 {1800}{}{alla testa}
 {1801}{}{al tentacolo sx}
 {1802}{}{al tentacolo dx}
@@ -422,7 +422,7 @@
 {1805}{}{al piede sx}
 {1806}{}{agli occhi?}
 {1807}{}{all'incavo inguinale}
-{1808}{}{uncalled}
+{1808}{}{ingiustificato}
 {1850}{}{alla testa}
 {1851}{}{al braccio sx}
 {1852}{}{al braccio dx}
@@ -431,7 +431,7 @@
 {1855}{}{alla gamba sx}
 {1856}{}{agli occhi}
 {1857}{}{all'inguine}
-{1858}{}{uncalled}
+{1858}{}{ingiustificato}
 {1860}{}{alla testa}
 {1861}{}{al tentacolo sx}
 {1862}{}{al tentacolo dx}
@@ -440,7 +440,7 @@
 {1865}{}{al piede sx}
 {1866}{}{agli occhi?}
 {1867}{}{all'incavo inguinale}
-{1868}{}{uncalled}
+{1868}{}{ingiustificato}
 {1900}{}{alla CPU}
 {1901}{}{al meccanismo dell'arma}
 {1902}{}{al meccanismo dell'arma}
@@ -449,7 +449,7 @@
 {1905}{}{al meccanismo della base}
 {1906}{}{ai sensori}
 {1907}{}{al regolatore}
-{1908}{}{uncalled}
+{1908}{}{ingiustificato}
 {1970}{}{alla testa}
 {1971}{}{alla zampa ant. sx}
 {1972}{}{alla zampa ant. dx}
@@ -458,7 +458,7 @@
 {1975}{}{alla zampa post. sx}
 {1976}{}{alle antenne}
 {1977}{}{al metatorace}
-{1978}{}{uncalled}
+{1978}{}{ingiustificato}
 {1990}{}{alla testa}
 {1991}{}{al braccio sx}
 {1992}{}{al braccio dx}
@@ -467,7 +467,7 @@
 {1995}{}{alla gamba sx}
 {1996}{}{agli occhi}
 {1997}{}{all'inguine}
-{1998}{}{uncalled}
+{1998}{}{ingiustificato}
 {2000}{}{alla testa}
 {2001}{}{al braccio sx}
 {2002}{}{al braccio dx}
@@ -476,7 +476,7 @@
 {2005}{}{alla gamba sx}
 {2006}{}{agli occhi}
 {2007}{}{all'inguine}
-{2008}{}{uncalled}
+{2008}{}{ingiustificato}
 {2010}{}{alla CPU}
 {2011}{}{al meccanismo dell'arma}
 {2012}{}{al meccanismo dell'arma}
@@ -485,16 +485,16 @@
 {2015}{}{al meccanismo della base}
 {2016}{}{ai sensori}
 {2017}{}{al regolatore}
-{2018}{}{uncalled}
+{2018}{}{ingiustificato}
 {2030}{}{alla testa}
 {2031}{}{al pungiglione}
 {2032}{}{alle antenne}
 {2033}{}{al torace}
-{2034}{}{alle zampe ant.}
-{2035}{}{alle zampe post.}
+{2034}{}{alle zampe ant}
+{2035}{}{alle zampe post}
 {2036}{}{agli occhi}
 {2037}{}{alle ali}
-{2038}{}{uncalled}
+{2038}{}{ingiustificato}
 {5000}{}{. Fa veramente male}
 {5001}{}{. Una grave ferita e' stata inflitta}
 {5002}{}{ in un punto non protetto dall'armatura}
@@ -571,7 +571,7 @@
 {5135}{}{. Mentre cade a terra come un sacco di patate si accorge che le sue future gravidanze sono in pericolo}
 {5200}{}{. Il bambino inizia a piangere}
 {5201}{}{. Svenuto, il bambino cade a terra}
-{5202}{}{. Ouchie!}
+{5202}{}{. Ahie'!}
 {5203}{}{. Il colpo e' preciso, e il bambino cade svenuto}
 {5204}{}{. Il colpo sbatte il bambino per terra come uno straccio}
 {5205}{}{. Il braccio sinistro di questo bambino adesso ha la bua}
@@ -644,7 +644,7 @@
 {5600}{}{. La violenza del colpo fa contorcere il Radscorpione su se stesso}
 {5601}{}{. La potenza del colpo stacca la testa dal carapace}
 {5602}{}{. La coda ne esce seriamente danneggiata}
-{5603}{}{. Che brutta ferita alle chele..}
+{5603}{}{, Che brutta ferita alle chele}
 {5604}{}{. Il colpo si insinua tra le fessure del carapace del Radscorpione}
 {5605}{}{. Il colpo attraversa il robusto carapace senza fermarsi}
 {5606}{}{. Il colpo passa attraverso la corazza naturale e spedisce al tappeto il Radscorpione}
@@ -736,7 +736,7 @@
 {6402}{}{. La violenza del colpo le taglia un po' di fronde}
 {6403}{}{. Il colpo danneggia il dotto clorofilliano}
 {6404}{}{. Il contraccolpo fa volare via il polline}
-{6405}{}{, almost tipping it over}
+{6405}{}{, quasi ribaltandola}
 {6406}{}{. Il colpo danneggia alcuni dei suoi rami}
 {6500}{}{. Avrai un bel mal di testa domani, se vivrai abbastanza a lungo}
 {6501}{}{. La tua armatura non fornisce protezione contro questo colpo ben mirato}
@@ -746,7 +746,7 @@
 {6505}{}{. Mentre la tua testa vola in aria hai una bella vista del tuo corpo}
 {6506}{}{. Sorprendentemente, il danno non fa piu' male del normale}
 {6507}{}{. La violenza del colpo ti stordisce per un secondo}
-{6508}{}{. Che male!}
+{6508}{}{. Senti il dolore}
 {6509}{}{. Il colpo rende il braccio inutilizzabile}
 {6510}{}{. Il colpo si insinua nella tua armatura e spezza le ossa del tuo braccio come fossero legna secca}
 {6511}{}{. Il colpo perfora la tua armatura. Il tuo braccio adesso penzola senza vita al tuo fianco}
@@ -770,29 +770,29 @@
 {6702}{}{. La violenza del colpo gli fracassa alcune dita}
 {6703}{}{. La sua capacita' di respirare e' compromesso}
 {6704}{}{. Il colpo gli ha fatto uscire tutto il ripieno}
-{6705}{}{, almost tipping it over}
+{6705}{}{, quasi ribaltandola}
 {6706}{}{. La violenza del colpo gli spezza un paio di arti}
 {6800}{}{. Il colpo supera le difese della creatura}
 {6801}{}{. Il colpo raschia un po' del muco che ricopre il corpo}
 {6802}{}{. Il colpo spappola alcuni dei suoi tentacoli a ventosa}
 {6803}{}{. Il colpo danneggia la sua presa d'aria (?)}
 {6804}{}{. Il colpo fa fuoriuscire le sue schifose interiora}
-{6805}{}{, almost tipping it over}
+{6805}{}{, quasi ribaltandola}
 {6806}{}{. Il colpo danneggia alcuni dei suoi tentacoli}
-{6900}{}{, breaking past the ant's defenses}
-{6901}{}{, ripping some of its antennae off}
-{6902}{}{, breaking some of its feelers}
-{6903}{}{, damaging its health}
-{6904}{}{, knocking it around a bit}
-{6905}{}{, almost tipping it over}
-{6906}{}{, damaging some of its exoskeleton}
-{7000}{}{, breaking past the ant's defenses}
-{7001}{}{, ripping some of its antennae off}
-{7002}{}{, breaking some of its feelers}
-{7003}{}{, damaging its health}
-{7004}{}{, knocking it around a bit}
-{7005}{}{, almost tipping it over}
-{7006}{}{, damaging some of its exoskeleton}
+{6900}{}{, sfondando le difese della formica}
+{6901}{}{, strappandole alcune antenne}
+{6902}{}{, spezzandole alcuni tentacoli}
+{6903}{}{, danneggiandone la salute}
+{6904}{}{, scaraventandola in giro}
+{6905}{}{, quasi ribaltandola}
+{6906}{}{, danneggiandone parte dell'esoscheletro}
+{7000}{}{, sfondando le difese della formica}
+{7001}{}{, strappandole alcune antenne}
+{7002}{}{, spezzandole alcuni tentacoli}
+{7003}{}{, danneggiandone la salute}
+{7004}{}{, scaraventandola in giro}
+{7005}{}{, quasi ribaltandola}
+{7006}{}{, danneggiandone parte dell'esoscheletro}
 {7100}{}{. Il colpo si fa largo nell'armatura della Guardia del Corpo}
 {7101}{}{. La violenza costringe la Guardia del Corpo sulle ginocchia}
 {7102}{}{. Il colpo gli distrugge il meccanismo di controllo del braccio}

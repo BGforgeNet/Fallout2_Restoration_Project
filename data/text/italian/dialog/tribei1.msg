@@ -1,9 +1,9 @@
-{100}{}{Well, at least it has a working rope now.}
-{101}{}{That should just about do it.}
+{100}{}{Beh, almeno ora ha una corda funzionante.}
+{101}{}{Questo dovrebbe bastare.}
 {102}{}{A questo pozzo mancano la corda e il secchio.}
-{103}{}{The well is already fixed. Remember?}
+{103}{}{Il pozzo è già stato riparato. Ricordi?}
 {104}{}{Ha la corda, ma manca il secchio.}
 {200}{}{Vedi un pozzo.}
-{201}{}{It's just a well.}
-{202}{}{Upon closer inspection you see that the well is not working. Perhaps you can fix it.}
-{203}{}{The well is working fine again.}
+{201}{}{È solo un pozzo.}
+{202}{}{A un esame più attento, il pozzo non funziona. Forse puoi ripararlo.}
+{203}{}{Il pozzo funziona di nuovo correttamente.}

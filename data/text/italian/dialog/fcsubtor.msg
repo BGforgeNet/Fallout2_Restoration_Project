@@ -1,4 +1,4 @@
-{100}{}{You see torpedos.}
+{100}{}{Vedi dei siluri.}
 {101}{}{Queste armi dall'aspetto pericoloso sono piene fino all'orlo di esplosivi. I rivestimenti sono corrosi e
  sembra che le eliche cadranno da un momento all'altro.}
 {200}{}{Nonostante l'aspetto, questo siluro e' ancora un'arma potente. L'elica allentata e' in realta' parte integrante del

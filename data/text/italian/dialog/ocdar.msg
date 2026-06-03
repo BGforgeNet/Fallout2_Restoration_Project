@@ -14,9 +14,9 @@
 {113}{}{Io Dar, guerriero.}
 {114}{}{Ok.}
 {115}{}{Voi tutti uguali. Me va via.}
-{116}{}{Me }
+{116}{}{Me}
 {117}{}{Capisco. Beh, adesso devo andare.}
-{118}{}{Io sono }
+{118}{}{Io sono}
 {119}{}{Capito.}
 {120}{}{Guerriero! Ah! Questa e' buona. Ne sai altre?}
 {121}{}{Dar controlla corridoio e mantiene pace. Niente di piu'.}

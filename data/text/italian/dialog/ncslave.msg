@@ -40,7 +40,7 @@
 {203}{}{::Si gratta::}
 {204}{}{::Manda via le mosche::}
 {210}{}{::Snnnffff::}
-{211}{}{*Giggle*}
+{211}{}{*Risatina*}
 {212}{}{Heeeeeeee}
 {213}{}{Hee heeeee hee...hee...}
 {214}{}{EeeeEEEEeeeeEEEE}

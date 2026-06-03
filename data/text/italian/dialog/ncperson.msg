@@ -12,7 +12,7 @@
 {164}{}{Vedi una donna dall'aspetto rozzo. Ti rivolge un'occhiata contrariata e poi ti ignora.}
 {165}{}{Vedi una donna dall'aspetto rozzo. Quando incrocia il tuo sguardo, ridacchia.}
 {200}{}{::Applaude::}
-{201}{}{::Cheers::}
+{201}{}{::Saluti::}
 {202}{}{Sei stato grande ad incenerire il culo a quei bastardi dell'Enclave! Cosi' si fa!}
 {203}{}{Sei stato grande a distruggere l'Enclave, }
 {204}{}{Congratulazioni per aver schiacciato l'Enclave, }
@@ -254,7 +254,7 @@
 {520}{}{Sei un nuovo tipo di arcade game deambulante?}
 {521}{}{Sei una di quelle nuove console che stanno per uscire?}
 {522}{}{No, NON ho intenzione di oliarti le giunture.}
-{523}{}{Ti sei per caso perso mentre stavi cercando di entrare in uno di quei giochi per PC con i robottoni?}
+{523}{}{Sembri uno diretto a uno di quei giochi di mech per PC… e ti sei pure perso.}
 {524}{}{Certo, certo, "clank-whirrr-clank" anche a te.}
 {525}{}{Se credi che quella armatura mi faccia paura, hai ragione.}
 {540}{}{Sei disponibile?}
@@ -262,7 +262,7 @@
 {542}{}{Lo SAPEVO che oggi dovevo farmi la barba.}
 {543}{}{Vieni a chiacchierare con me per un po', zucchero.}
 {544}{}{Dai, labbra di zucchero... vieni a fare due passi con me.}
-{545}{}{Sei una piccola civetta leggiadra...}
+{545}{}{Furbetta agile, eh?}
 {546}{}{Per te sarei disposto persino a farmi il bagno.}
 {547}{}{Ho qui la tua filmografia completa.}
 {548}{}{Ma fin dove arrivano quelle gambe?}

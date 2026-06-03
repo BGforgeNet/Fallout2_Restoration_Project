@@ -97,13 +97,13 @@
 {523}{}{Eeeeeeehi...come va, amigo? Cosa ti passa per la testa?}
 {524}{}{Me da sotto dove}
 {525}{}{Ay-mi-go?}
-{526}{}{Cheee-ka Cheeek-aaaah}
+{526}{}{kee-ka cheek-aaah}
 {529}{}{Ho delle domande...}
 {530}{}{Come non detto. Scusa il disturbo.}
 {540}{}{}
 {541}{}{}
 {542}{}{Ehi, ehi, ehi! Tu sei }
-{544}{}{Che forza, che forza!}
+{544}{}{Accendilo, accendilo}
 {547}{}{Grazie, Lil' Jesus. Ehi, ho delle domande da farti...}
 {548}{}{Grazie per i complimenti. Sono solo di passaggio; adesso devo andare.}
 {549}{}{Gia', non ho bisogno che tu me lo dica. Sta' attento.}
@@ -138,7 +138,7 @@
 {646}{}{Sai nulla a proposito dell'overdose di Jet che ha ucciso Richard Wright?}
 {647}{}{Puoi insegnarmi a combattere con il coltello?}
 {648}{}{Nulla. Ci vediamo dopo.}
-{660}{}{Io? Se proprio me lo chiedi... heh. Mi chiamo Jesus. Jesus Mordino. Proprio come mio padre: lui e' BIG Jesus, il GRANDE Jesus, il capo di TUTTA la famiglia Mordino di Reno. Per questo motivo, molti mi chiamano Lil' Jesus, Piccolo Jesus. Per evitare di fare confusione, sai com'e'...}
+{660}{}{Io? Se devi chiederlo… eh. Mi chiamo Jesus. Jesus Mordino. Come mio padre: lui è il GRANDE Jesus, il capo di tutta la famiglia Mordino qui a Reno. Per questo la maggior parte mi chiama Jesus il Piccolo. Evita confusioni, capisci?}
 {661}{}{La Famiglia Mordino? Di chi si tratta?}
 {662}{}{Ho sentito parlare della vostra famiglia. Mi hanno detto che siete un'organizzazione non da poco.}
 {663}{}{Sto cercando lavoro. La famiglia Mordino puo' offrirmi qualcosa?}
@@ -175,7 +175,7 @@
 {823}{}{Lasciamo perdere. Avrei delle altre domande...}
 {824}{}{Myron, eh? D'accordo, allora. Grazie per la chiacchierata, Jesus.}
 {840}{}{Il Desperado e' il posto giusto, homes. Abbiamo il Jet, i giochi, il divertimento... e abbiamo tutte le putas che ti servono proprio qua fuori, calde e vogliose. Il Paradiso, homes. Il Pa-ra-di-so.}
-{841}{}{Il Desperado e' il posto giusto, chica. Abbiamo il Jet, i giochi, il divertimento. Non hai bisogno di andare da nessun'altra parte. }
+{841}{}{Il Desperado e' il posto giusto, chica. Abbiamo il Jet, i giochi, il divertimento. Non hai bisogno di andare da nessun'altra parte.}
 {842}{}{E cosi'... ti vuoi rilassare, eh, chica? Eh eh... allora che ne diresti se tu ed io ci dedicassimo ad un po' di dolce amore?}
 {843}{}{Sarei anche tentata, ma adesso non posso dedicarti i dieci secondi che ti servirebbero per il tuo "dolce amore", Little Jesus.}
 {844}{}{Sono lusingata, ma... no, grazie. Senti, avrei delle altre domande...}

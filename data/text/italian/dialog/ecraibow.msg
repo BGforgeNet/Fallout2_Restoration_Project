@@ -2,7 +2,7 @@
 {101}{}{Abbasso gli etero!}
 {102}{}{Gli stranieri non sono i benvenuti!}
 {103}{}{Fiera di esser lesbica!}
-{104}{}{Girl power!}
+{104}{}{Potere alle donne!}
 {105}{}{Non ci servono gli uomini!}
 {106}{}{Viva la Confederazione Arcobaleno.}
 {107}{}{Ritiriamoci nella Capanna dell'Amore.}

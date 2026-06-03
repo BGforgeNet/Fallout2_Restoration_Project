@@ -112,5 +112,5 @@ Procedere con il recupero?}
 {231}{}{Esci}
 {232}{}{[Sebbene tu veda chiaramente che le unita' di deposito sono vuote, le letture dei dati indicano che sono tutte piene. Dev'essere un errore del programma. Oh, cavoli.]}
 {233}{}{Ritorna al Menu Principale}
-{234}{}{Esci}
+{234}{}{Esci }
 {300}{}{ non e' in grado di leggere quello che c'e' sul monitor.}

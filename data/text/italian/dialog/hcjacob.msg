@@ -23,12 +23,12 @@
 {122}{}{Allora vattene.}
 {123}{}{[FATTO]}
 {124}{}{Ecco. Abbiamo finito. Grazie per la mancia. Adesso sei pregato di andartene.}
-{125}{}{D'okay!}
+{125}{}{D'accordo!}
 {148}{}{Perche' prima non mi dici cosa ne pensi tu, dei mutanti?}
 {149}{}{Li odio.}
 {150}{}{Non mi fanno ne' caldo ne' freddo.}
 {151}{}{Mi piacciono!}
-{152}{}{In questo caso, ti raccontero' la vera storia di Broken Hills. }
+{152}{}{In questo caso, ti raccontero' la vera storia di Broken Hills.}
 {153}{}{Un umano di nome Jacob – sono stato chiamato cosi' in suo onore – fondo' questa citta'. Qualche tempo dopo comparve questo Marcus, il mutante, che ci impose la sua legge. }
 {154}{}{Basta cosi'. Tu sei pazzo. Addio.}
 {155}{}{Continua.}
@@ -44,7 +44,7 @@
 {165}{}{Continua.}
 {166}{}{Basta cosi'. Tu sei pazzo. Addio.}
 {167}{}{Tutti facciamo finta che questa sia una comunita' civile, dove si vive tutti d'amore e d'accordo... ma in realta' viviamo nel terrore che un giorno la rabbia mutante possa esplodere. Di giorno in giorno ci sono sempre meno umani.}
-{168}{}{Tutti i mutanti che ho visto mi sono sembrati vecchi e decrepiti. }
+{168}{}{Tutti i mutanti che ho visto mi sono sembrati vecchi e decrepiti.}
 {169}{}{Perche' non vi ribellate?}
 {170}{}{Questo perche' stanno cercando di ingannarti, amico mio. Stanno cercando d'ingannarti.}
 {171}{}{Perche' non vi ribellate, allora?}
@@ -68,7 +68,7 @@
 {189}{}{Nessun problema. Tanto sono tutti mutanti. Ma non fare troppo rumore, per l'amor del cielo.}
 {190}{}{Ho capito. Ho delle altre domande.}
 {191}{}{Ho capito. Ci si vede.}
-{192}{}{Altre domande? }
+{192}{}{Altre domande?}
 {193}{}{Ho qui dell'uranio che vorrei far raffinare, ma non vorrei pagare la tariffa della raffineria.}
 {194}{}{Cosa puo' dirmi a proposito di Broken Hills?}
 {195}{}{Vorrei che tu miscelassi per me delle sostanze chimiche.}
@@ -90,7 +90,7 @@
 {258}{}{Ecco come stanno le cose. Noi odiamo i mutanti. E vogliamo farli fuori. La cosa migliore da fare per liberarci di loro e' far esplodere la miniera mentre si trovano all'interno. Vogliamo che sia tu a piazzare l'esplosivo.}
 {259}{}{Lo faro'!}
 {260}{}{Non posso farlo.}
-{261}{}{Magnifico, amico mio! Ecco l'esplosivo. Piazzalo sul purificatore dell'aria ed esci velocemente dalla miniera. Abbiamo organizzato le cose in modo tale che tutti i mutanti si trovino nella miniera quando avra' luogo la detonazione. }
+{261}{}{Magnifico, amico mio! Ecco l'esplosivo. Piazzalo sul purificatore dell'aria ed esci velocemente dalla miniera. Abbiamo organizzato le cose in modo tale che tutti i mutanti si trovino nella miniera quando avra' luogo la detonazione.}
 {262}{}{Fammi sapere quando sei pronto.}
 {263}{}{Lo faro'.}
 {264}{}{Non posso farlo.}

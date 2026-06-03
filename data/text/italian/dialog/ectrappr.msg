@@ -39,5 +39,5 @@
 {138}{}{Credo che la mamma mi stia chiamando.}
 {140}{}{Sembra che non abbia pelli di gecko normali, ma ho }
 {141}{}{Sembra che non abbia pelli di gecko dorato, ma ho }
-{142}{}{Sorry, looks like I'm all out of stock.}
+{142}{}{Mi spiace, sono a corto di scorte.}
 {200}{}{Vedi una donna sporca e dall'aspetto stanco.}

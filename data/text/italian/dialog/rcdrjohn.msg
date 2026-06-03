@@ -88,7 +88,7 @@
 {187}{}{Ehila'. Sono Doc "Indolore" Johnson. Cosa posso fare per te?}
 {188}{}{Cosa puo' fare per te il vecchio Doc "Indolore" Johnson?}
 {189}{}{Ehi, Doc. Avrei solo delle domande da farti.}
-{190}{}{Hai dei medicinali che potresti vendermi, per caso?}
+{190}{}{Mi chiedevo se avessi delle medicine da scambiare.}
 {191}{}{Doc, ho sentito parlare di alcuni speciali innesti corazzati. Tu ne sai qualcosa?}
 {192}{}{Stavo solo dando un'occhiata in giro, Doc. Felice di conoscerti. Ci vediamo.}
 {193}{}{Grazie a te sto risolvendo questo problema del Jet. L'antidoto che mi hai dato e che io ho aggiunto di nascosto nelle fiale di Jet sta facendo un ottimo lavoro nel riportare a terra tutti quei "Cavalca-Jet".}
@@ -201,7 +201,7 @@
 {300}{}{Tornero' quando avro' piu' soldi, Doc. Arrivederci.}
 {301}{}{Tornero' quando avro' recuperato un'Armatura da Combattimento, Doc. Arrivederci.}
 {302}{}{In fin dei conti, non credo di volermi sottoporre ad un simile intervento. Arrivederci, Doc.}
-{303}{}{Prima che io possa fornirti il Potenziamento d'Assalto devi farti applicare l'Armatura Dermica Anti-Impatto. Ma ti diro' comunque cosa offre. Il Potenziamento d'Assalto ti dara' un totale del 10% di resistenza in piu' nei confronti di danni normali ed esplosivi, in aggiunta a quella fornita dall'armatura che stai indossando. L'operazione richiede qualche giorno e ti costera' 30.000$. In piu', il tuo Carisma ne risentira' non poco, dopo che avro' finito. Ammassare tutte quelle placche sotto la tua pelle ti dara' un profilo piuttosto spigoloso, ma sicuramente aerodinamico. Ma a chi e' che non piace l'aspetto di un'auto nuova? Cerchero' di non metterti gli alettoni posteriori, contento?}
+{303}{}{Prima che io possa fornirti il Potenziamento d'Assalto devi farti applicare l'Armatura Dermica Anti-Impatto. Ma ti diro' comunque cosa offre. Il Potenziamento d'Assalto ti dara' un totale del 10% di resistenza in piu' nei confronti di danni normali ed esplosivi, in aggiunta a quella fornita dall'armatura che stai indossando. L'operazione richiede qualche giorno e ti costera' 30.000$. In piu', il tuo Carisma ne risentira' non poco, dopo che avro' finito. Ammassare tutte quelle placche sotto la tua pelle ti dara' un profilo piuttosto spigoloso, ma sicuramente aerodinamico. Ma a chi e' che non piace l'aspetto di un'auto nuova? Cerchero' di non metterti gli alettoni posteriori.}
 {304}{}{Il Potenziamento d'Assalto per l'Armatura Dermica Anti-Impatto ti dara' un totale del 10% di resistenza in piu' nei confronti di danni normali ed esplosivi, da aggiungere a quella fornita dall'armatura che stai indossando. L'operazione richiede qualche giorno e ti costera' 30.000$. In piu', il tuo carisma ne risentira' non poco, dopo che avro' finito. Ammassare tutte quelle placche sotto la tua pelle ti dara' un profilo piuttosto spigoloso, ma sicuramente aerodinamico. Ma a chi e' che non piace l'aspetto di un'auto nuova? Cerchero' di non metterti gli alettoni posteriori. Sei pronto per cominciare?}
 {305}{}{Meraviglioso, Doc. Procediamo. Io sono sempre all'assalto, in ogni momento, e l'aspetto esteriore non mi interessa.}
 {306}{}{Lascia che ti chieda informazioni su uno degli altri interventi, Doc.}

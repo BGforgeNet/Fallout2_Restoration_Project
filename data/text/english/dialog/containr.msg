@@ -254,40 +254,37 @@
 
 # Player uses an item on the door
 {176}{}{You bust the lock off the container.}
-{177}{}{You strain your back while trying to bust the lock and
- take a point of damage.}
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
 
 # The following set of lines is to be translated as:
-# You strain your back while trying to bust the lock and
+# You strain your back while trying to bust the lock off and
 # take [x] points of damage.
 
-{178}{}{You strain your back while trying to bust the lock and
+{178}{}{You strain your back while trying to bust the lock off and
  take }
 {179}{}{ points of damage.}
-{180}{}{You are too weak to bust the lock.}
+{180}{}{You are too weak to bust the lock off.}
 
 # NPC uses an item on the door
 # The following lines are prepended by the NPC's name
 {181}{}{ busts the lock off the container.}
-{182}{}{ strains his back while trying to bust the lock and takes
- a point of damage.}
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
 
 # The following line set of lines is to be translated as:
-# NPC strains his back while trying to bust the lock and
+# NPC strains his back while trying to bust the lock off and
 # takes [x] points of damage
 
-{183}{}{ strains his back while trying to bust the lock and takes }
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ points of damage.}
 
 {185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
 
 # The following line set of lines is to be translated as:
-# NPC strains her back while trying to bust the lock and
+# NPC strains her back while trying to bust the lock off and
 # takes [x] points of damage
 
-{187}{}{ strains her back while trying to bust the lock and takes }
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ points of damage.}
 
 {601}{}{It is open, dummy.}

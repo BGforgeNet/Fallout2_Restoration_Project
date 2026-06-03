@@ -74,7 +74,7 @@
 {301}{}{Points d'action}
 {302}{editor}{Classe d'armure}
 {303}{}{Dégâts en Corps à Corps}
-{304}{}{Dégâts en Rixe}
+{304}{editor}{Melee Damage}
 {305}{}{Rés. dégâts}
 {306}{}{Rés. poison}
 {307}{}{Rés. radiations}

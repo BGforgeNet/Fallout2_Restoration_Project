@@ -33,15 +33,15 @@ yo estábamos preparándonos para irnos a la cama cuando escuchamos un crujido e
 si podia encontrar la fuente del ruido. Tan pronto como llegué a los campos, los ruidos se habían detenido.}
 {603}{}{Continúa.}
 {604}{}{Mira, realmente debo irme.}
-{605}{}{Bueno, la siguiente noche no escuchamos nada. Pero la noche después de esa, volvimos a escuchar ruidos provenientes del campo. 
+{605}{}{Bueno, la noche siguiente no escuchamos nada. Pero la noche después de esa, volvimos a escuchar ruidos provenientes del campo. 
  Esta vez me acerqué sigilosamente a la ventana y miré hacia afuera en lugar de correr hacia fuera. Mirando hacia la oscuridad, 
  vi una luz tenue, como la de una antigua linterna o algo así, moviéndose entre los cultivos. Después de un par de minutos, 
  la luz se dirigió hacia el cementerio.}
-{606}{}{Yo quería salir y enfrentarme a quien sea o lo que fuera, pero mi esposa me convenció para que permaneciera adentro y revisara 
- las cosas en la mañana. Así que a la mañana siguiente, veo que se han comido algunos de mis cultivos y huellas frescas alrededor. 
+{606}{}{Quería salir y enfrentarme a quien sea o lo que fuera, pero mi esposa me convenció para que permaneciera adentro y revisará 
+ las cosas en la mañana. Así que a la mañana siguiente, veo que se han comido algunos de mis cultivos y habían huellas frescas alrededor. 
  Ahora, no me importa alimentar a los pobres, pero no me agradan los ladrones.}
 {607}{}{Trataré de atrapar a este individuo. Quizás espere alrededor de la medianoche y veré si puedo encontrar algo. 
- Bueno, gracias por la información. Cuídese.}
+ Bueno, gracias por la información. Cuidate.}
 {608}{}{Veré lo que puedo hacer. Tengo algunas preguntas más antes de irme...}
 {609}{}{Esta historia se está haciendo un poco demasiado largo. Adiós.}
 {610}{}{Déjeme entenderlo. Estarías feliz de ayudar a alguien que acecha en su casa por la noche, roba sus cultivos, 

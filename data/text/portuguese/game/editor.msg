@@ -74,7 +74,7 @@
 {301}{}{P. de ação}
 {302}{editor}{Armadura}
 {303}{}{Dano desarmado}
-{304}{}{Bônus de Dano}
+{304}{editor}{Melee Damage}
 {305}{}{Res. Danos}
 {306}{}{Res. Venenos}
 {307}{}{Res. Radiação}

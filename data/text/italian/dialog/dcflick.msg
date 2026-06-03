@@ -63,7 +63,7 @@
 {412}{}{Vendi fiori?}
 {413}{}{Sembra che non ti piaccia il fatto che i bambini non vaghino piu' per strada.}
 {420}{}{Ehi, non fraintendermi. La vita per strada e' dura per quei bambini, ma e' la fine del nostro piccolo accordo che mi butta giu'.}
-{421}{}{What arrangement?}
+{421}{}{Quale accordo?}
 {422}{}{Intendi che borseggiavano la gente e ti portavano gli oggetti da vendere.}
 {430}{}{Non fare lo spiritoso con me, stronzo. I bambini mi portano oggetti che *trovano.* Non so dove li prendono e, sinceramente, non me ne frega un cazzo.}
 {431}{}{Right.}
@@ -75,14 +75,14 @@
 {460}{}{Gia'... gli affari andavano bene finche' non sei arrivato tu. Vedi, la tua piccola trovata mi costera'. I miei affari ne risentiranno grazie a te.
  Per questo, non mi stai molto simpatico. Anzi, ti odio proprio. Ma sono un uomo d'affari, quindi se devi barattare,
  fallo. Altrimenti, vaffanculo.}
-{461}{}{Alright, let's see what you have in stock then.}
-{462}{}{I think I have all I need. Goodbye.}
-{463}{}{I think I'll stay... and kick your ass.}
+{461}{}{Bene, vediamo cosa hai in magazzino allora.}
+{462}{}{Credo di avere tutto quello che mi serve. Arrivederci.}
+{463}{}{Penso che restero'... e ti spacchero' il culo.}
 {470}{}{Ancora tu? Spero che tu sia qui per fare qualche buon affare, perche' mi sto rompendo il cazzo di guardarti.
  Anzi, vomito un po' in bocca ogni volta che vedo la tua faccia. E' cosi' che mi fai schifo. E se non sei qui per
  commerciare, allora ti suggerisco di girarti e levarmi dal cazzo.}
 {471}{}{Barattiamo.}
 {472}{}{Ero solo curioso. Beh, ci vediamo, Flick.}
-{480}{}{You done wastin' my time?}
-{481}{}{Let me take another look.}
-{482}{}{That should do it. Goodbye Flick.}
+{480}{}{Hai finito di farmi perdere tempo?}
+{481}{}{Fammi dare un'altra occhiata.}
+{482}{}{Dovrebbe bastare. Arrivederci, Flick.}

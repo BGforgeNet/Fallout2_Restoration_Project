@@ -45,7 +45,7 @@
 {144}{}{Davvero la pensi cosi'?}
 {145}{}{Si', Jack. Lo penso davvero.}
 {146}{}{Certamente. Cosa credi - che stia mentendo?}
-{147}{}{I don't know.}
+{147}{}{Non lo so.}
 {148}{}{Non lasciare che sia lei a vincere, Jack.}
 {149}{}{Questa e' la tua opportunita'. Sii uomo. Mandala al tappeto.}
 {150}{}{Cazzate. Le tue sono solo parole. Non te ne frega niente di me!}
@@ -55,7 +55,7 @@
 {154}{}{Ora la gente sa chi e' Jack, poco ma sicuro.}
 {155}{}{Sta' indietro! Non voglio farti del male!}
 {156}{}{Questo non ti riguarda!}
-{157}{}{Accomodati pure: uccidimi. Non mi interessa piu', ormai.}
+{157}{}{Avanti, uccidetemi. Che mi importa ormai?}
 {158}{}{Questa non e' la tua battaglia. Lasciami in pace.}
 {159}{}{O mi faccio esplodere o tu mi uccidi. Che differenza c'e'?}
 {160}{}{Non sto cercando di farti del male! Voglio solo che si ricordino...}

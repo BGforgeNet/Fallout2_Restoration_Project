@@ -7,7 +7,7 @@
 {106}{}{Se fossi in te, "Prescelto", me ne andrei da qui.}
 {107}{}{Zzzzzz Snzzzzz Zzzzzzzzzz}
 {108}{}{ZZZZZZZzzzzzzzz}
-{109}{}{Zsnzzz...*snort*...zzzzsZZZZZ}
+{109}{}{Zsnzzz...*sbuffa*...zzzzsZZZZZ}
 {110}{}{Zzssnnnnnzzzzz}
 {111}{}{ZZZZzzzzzZZZZZ}
 {112}{}{Vorrei tanto poter vedere quello che c'e' alle mie spalle.}

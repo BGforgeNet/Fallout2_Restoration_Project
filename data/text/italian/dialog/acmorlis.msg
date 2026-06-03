@@ -44,6 +44,6 @@
 {300}{}{Beh, non riesco proprio a ricordare dove ho messo la selce. Oh beh, almeno la mia polvere l'ho avuta. Adesso sparisci! Non ho tempo per le chiacchiere.}
 {301}{}{Perche' mi disturbi, nipote? Non vedi che sono occupata?}
 {302}{}{Beh, non riesco proprio a trovare la selce. Ma sono praticamente certa che tu me l'abbia presa mentre ero distratta. Ti ho già beccato altre volte. Adesso sparisci! Non ho tempo per le chiacchiere.}
-{303}{}{Beh... Mi spiace, ma non ricordo dove ho messo la selce. Ad ogni modo, ti auguro buon viaggio, figliolo.}
+{303}{}{Beh... Mi spiace, ma non ricordo dove ho messo la selce. Ad ogni modo, ti auguro buon viaggio, figliolo. }
 {304}{}{Ti ho già dato la selce, stupido. Ora smetti di sprecare il mio tempo e sparisci!}
 {305}{}{Ti ho già dato la selce, stupido. Oh beh, almeno la mia polvere l'ho avuta. Adesso sparisci! Non ho tempo per le chiacchere.}

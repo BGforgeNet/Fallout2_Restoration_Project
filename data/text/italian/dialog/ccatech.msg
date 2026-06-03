@@ -6,7 +6,7 @@
 {105}{}{Me solo dice ciao. Me va ora.}
 {106}{}{Sono nuovo di qui e sto cercando di ambientarmi nella base. Posso farti qualche domanda?}
 {107}{}{Volevo solo salutare. Ci si vede.}
-{108}{}{Certo. Ho giusto un paio di minuti. }
+{108}{}{Certo. Ho giusto un paio di minuti.}
 {109}{}{Come posso aiutarla?}
 {110}{}{Cosa essere questo posto?}
 {111}{}{Cosa essere tuo lavoro?}

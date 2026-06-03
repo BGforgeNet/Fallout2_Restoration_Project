@@ -256,5 +256,5 @@
 {20100}{}{Questa porta non ha la serratura.}
 {21020}{}{venti}
 {30000}{}{Hai derubato la tua tribu'.}
-{40000}{}{Slot Jinxer}
+{40000}{}{Jella?Slot}
 {40001}{}{Grazie a un piccolo ma coraggioso elettrodomestico da cucina, conosci un modo segreto per far sputare alle slot machine tutto il loro denaro. Peccato che rompa la macchina nel processo. Ops!}

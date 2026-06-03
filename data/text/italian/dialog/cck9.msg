@@ -126,7 +126,7 @@
 {225}{}{Voglio che tu stia qua finche' non ritorno.}
 {226}{}{Stammi vicino.}
 {227}{}{Non allontanarti troppo.}
-{228}{}{Dovremmo distanziarci un po'.}
+{228}{}{Dovremmo distanziarci un po'}
 {229}{}{Andiamo.}
 {230}{}{E' tutto, per ora.}
 {231}{}{Riduco la distanza tra noi, padrone.}
@@ -174,8 +174,8 @@
 {273}{}{Non allontanarti troppo.}
 {274}{}{Andiamo.}
 {275}{}{E' tutto, per ora.}
-{276}{}{I am sorry, master, but there does not appear to be room for me in
- your party. I will wait here until a position opens.}
+{276}{}{Mi dispiace, padrone, ma sembra che non ci sia posto per me nel
+ tuo gruppo. Aspettero' qui finche' non si liberera' un posto.}
 {277}{}{Come desidera, padrone.}
 {278}{}{Tu curare te.}
 {279}{}{Tu aspettare qui. Me torna e prende te.}
@@ -211,8 +211,8 @@ ulteriore assistenza.}
 {1700}{}{La seguiro' stando al suo fianco, padrone.}
 {1800}{}{Mi muovero' a media distanza, padrone.}
 {1900}{}{Mi muovero' alla massima distanza accettabile, padrone.}
-{2000}{}{I am sorry, master, but there does not appear to be room for me in
- your party. I will wait here until a position opens.}
+{2000}{}{Mi dispiace, padrone, ma sembra che non ci sia posto per me nel
+ tuo gruppo. Aspettero' qui finche' non si liberera' un posto.}
 {2200}{}{Come desidera, padrone.}
 {2300}{}{Ho il pelo, padrone. Non indosso altro.}
 {2400}{}{Non ho intenzione di rimuovere il mio pelo, padrone.}

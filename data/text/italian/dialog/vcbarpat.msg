@@ -6,10 +6,10 @@
 {105}{}{Ehi, eroe! Lascia che ti offra da bere, ti va?}
 {106}{}{Pare che il Capitano sia venuto a farci visita...}
 {107}{}{Beh, che mi venga un colpo se quello non e' il cocco del Primo Cittadino...}
-{108}{}{Beh, che mi venga un colpo se quello non e' il "Capitano"...}
+{108}{}{Beh, che mi venga un colpo se quello non e' il "Capitano..."}
 {109}{}{In guardia, gente. E' appena entrata la legge.}
 {110}{}{Sei venuto a farci visita, Cittadino?}
-{111}{}{Ma il tuo posto non e' all'interno della citta', "Cittadino"?}
+{111}{}{Ma il tuo posto non e' all'interno della citta', "Cittadino?"}
 {112}{}{Quei dannati Cittadini sono liberi di andare e venire quando vogliono...}
 {113}{}{Whoa... quello e' un mutante?!}
 {114}{}{Occhi aperti, ragazzi. C'e' un mutante nel locale.}
@@ -27,7 +27,7 @@
 {126}{}{E' venuto a farci visita, Capitano?}
 {127}{}{Senta, io non ho fatto nulla, Capitano. Sto solo facendomi gli affari miei.}
 {128}{}{Io non so niente, Capitano. Adesso mi lasci in pace.}
-{129}{}{Togliti dai piedi, "Capitano".}
+{129}{}{Togliti dai piedi, "Capitano."}
 {130}{}{Pare che chiunque possa diventare Cittadino, al giorno d'oggi.}
 {131}{}{Ho gia' pagato le guardie per la protezione. Adesso mi lasci in pace.}
 {132}{}{Sei venuto a farci visita, Cittadino?}

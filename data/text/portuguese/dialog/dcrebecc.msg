@@ -193,3 +193,8 @@ dinheiro. [Becky dá 1000 dólares]}
 {573}{}{Eu não ficaria surpreso.}
 {580}{}{Então, você é um covarde também? Figuras.}
 {581}{}{...}
+{1230}{}{Afaste-se disso agora mesmo.}
+{1231}{}{Não toque nisso novamente.}
+{1232}{}{Recuar!}
+{1233}{}{Deixe isso sozinho.}
+{1234}{}{O que você pensa que está fazendo?}

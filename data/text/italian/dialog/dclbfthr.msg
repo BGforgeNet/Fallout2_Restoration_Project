@@ -1,7 +1,7 @@
-{100}{}{You see a middle aged man.}
-{101}{}{He is unshaven and reeks of alcohol.}
-{102}{}{*hickup* Do I know you?}
-{103}{}{It's 11 O'clock. Do you know where your children are?}
+{100}{}{Vedi un uomo di mezza eta'.}
+{101}{}{Non e' rasato e puzza di alcool.}
+{102}{}{*hic* Ti conosco?}
+{103}{}{Sono le 11. Sai dove sono i tuoi figli?}
 {104}{}{(Ti guarda assonnato) Cosa? *hic* Sono gia' le undici?}
 {105}{}{In realta' no, non lo sono, volevo solo dirlo. Ma seriamente, sai dove sono i tuoi figli?}
 {106}{}{In realta' si', lo sono, ma non e' importante adesso. Seriamente, sai dove sono i tuoi figli?}
@@ -12,7 +12,7 @@
 {111}{}{zzzZZZZzzz...}
 {112}{}{zZZZZzzZZzzz...}
 {113}{}{*borbotta*}
-{114}{}{Can't you see I'm drinking here? *hickup*}
-{115}{}{Don't bother me. *hickup*}
+{114}{}{Non vedi che sto bevendo? *hic*}
+{115}{}{Non scocciarmi. *hic*}
 {116}{}{In realta' e' un po' prima delle undici, ma non e' importante adesso. Seriamente, sai dove sono i tuoi figli?}
 {117}{}{In realta' e' un po' dopo le undici, ma non e' importante adesso. Seriamente, sai dove sono i tuoi figli?}

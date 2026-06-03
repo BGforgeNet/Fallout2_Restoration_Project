@@ -31,7 +31,7 @@
 {191}{}{Ehila'. Cercavi qualcosa?}
 {192}{}{Che cosa ti serve?}
 {200}{}{Hai mai sentito parlare di un qualcosa chiamato Kit per la Creazione del Giardino dell'Eden?}
-{201}{}{Hai per caso una batteria? Mi serve per riparare una macchina.}
+{201}{}{Hai una batteria che potrei usare per riparare un’auto?}
 {202}{}{Ho alcune cose che mi piacerebbe tu ci dessi un'occhiata.}
 {203}{}{Di che cosa ti occupi?}
 {204}{}{Uh, stavo solo dando un'occhiata in giro. Arrivederci.}
@@ -93,14 +93,14 @@
 {360}{}{Beh... potresti fare cosi'... forse. Tuttavia, potresti rimanere piuttosto sorpreso. Potrei anche essere piu' coriaceo di quanto pensi. E poi, forse non ti converrebbe neanche. Posso essere piuttosto utile quando si tratta di mettere insieme delle cose. E' sempre bello conoscere qualcuno in grado di farlo, non trovi?}
 {361}{}{Beh, forse hai ragione. Ti lascero' in vita... per adesso. Dimmi un'altra cosa, pero'. }
 {362}{}{Sei un tipo pieno di risposte, eh? Spero che tu sappia anche cosa c'e' nell'aldila', dal momento che ti sto per spedire proprio laggiu' - adesso.}
-{363}{}{Ci dovro' pensare. Addio... per adesso.}
+{363}{}{Dovro' pensarci su. Arrivederci, per ora. }
 {370}{}{Vedo che hai uno splendido set di attrezzi, li' con te. Snap-off, giusto? Ti posso dare questo Combinatore di Celle di Carburante, in cambio di quello.}
 {371}{}{Ehila'! Sei tornato con il mio kit per le riparazioni. Mmm, Snap-off... il migliore. Sei pronto per lo scambio?}
 {372}{}{Affare fatto.}
 {373}{}{Non adesso. Vorrei tenerlo ancora per un po'. Ci vediamo.}
 {380}{}{Questo e' davvero un ottimo affare. Adesso ti bastera' piazzare quell'aggeggio nella tua macchina per farla funzionare.}
 {381}{}{Questo e' davvero un ottimo affare. Adesso ti bastera' piazzare quell'aggeggio nella tua macchina per farla funzionare. Sai, potrei anche farti un altro favore e metterti a posto un po' della tua roba gratuitamente.}
-{382}{}{Davvero? Gratis, eh? Dai, dimmi cosa devo fare...}
+{382}{}{Davvero? Gratis, eh? Allora cosa devo fare per te?}
 {383}{}{Lascia che ti chieda qualcos'altro.}
 {384}{}{Vado subito a provarlo. Ci vediamo.}
 {390}{}{Beh, vedi, mi serve un dannatissimo Trasformatore di Plasma Trifasico. E l'unico posto dove credo se ne possa trovare uno e' il magazzino della centrale.}
@@ -118,7 +118,7 @@
 {441}{}{Certo. Fammi vedere quali oggetti potresti usare.}
 {442}{}{Non ancora. Volevo vedere se c'eri ancora. Beh, ci vediamo.}
 {450}{}{Mi dispiace. Non hai niente di adatto ad essere combinato con questo. Altro?}
-{451}{}{Che ne diresti di dare un'occhiata ad un'altra cosa, allora?}
+{451}{}{Guarda anche qualcos’altro che ho qui.}
 {452}{}{Credo sia tutto, per ora. Arrivederci.}
 {460}{}{Vediamo un po'. Ti costera' [Cost of combining item a with item b]$. Vuoi che lo faccia?}
 {461}{}{Si', grazie.}
@@ -136,8 +136,8 @@
 {603}{}{A volte mi piace affrontare i problemi di persona, faccia a faccia. Puoi fare qualcosa per migliorare la mia arma da mischia ad energia?}
 {604}{}{Uh, magari piu' tardi. Lascia che ti chieda qualcos'altro.}
 {605}{}{Non mi serve nient'altro. Ci vediamo.}
-{610}{}{[Vede la tua magnum.] Posso montarti un caricatore rapido, su quella magnum, per }
-{611}{}{Hmm, quella Desert Eagle starebbe proprio bene con un caricatore piu' capiente. Posso farlo per }
+{610}{}{[Vede la tua magnum.] Posso montarti un caricatore rapido, su quella magnum, per $}
+{611}{}{Hmm, quella Desert Eagle starebbe proprio bene con un caricatore piu' capiente. Posso farlo per $}
 {612}{}{Monta il caricatore rapido sulla magnum.}
 {613}{}{Espandi il caricatore della mia Desert Eagle.}
 {614}{}{Veramente avrei un'altra arma in mente...}
@@ -145,14 +145,14 @@
 {616}{}{Credo che ripassero' piu' tardi.}
 {617}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
 {620}{}{[Skeeter studia il tuo fucile e annuisce lentamente.]}
-{621}{}{Posso mettere un bel mirino telescopico adatto a tutte le condizioni atmosferiche, su quel fucile da caccia. Bastano }
-{622}{}{Non c'e' niente di meglio che avere un fucile d'assalto con un caricatore piu' capiente. Posso espandere quello del tuo per }
-{623}{}{Quel FN FAL e' una buona arma. Ehi, ho proprio un mirino telescopico ad infrarossi adatto. E' tuo per }
+{621}{}{Posso mettere un bel mirino telescopico adatto a tutte le condizioni atmosferiche, su quel fucile da caccia. Bastano $}
+{622}{}{Non c'e' niente di meglio che avere un fucile d'assalto con un caricatore piu' capiente. Posso espandere quello del tuo per $}
+{623}{}{Quel FN FAL e' una buona arma. Ehi, ho proprio un mirino telescopico ad infrarossi adatto. E' tuo per $}
 {624}{}{D'accordo... monta il mirino su quel Colt da caccia.}
 {625}{}{Aumenta la capienza del caricatore di questo fucile d'assalto AK-112.}
 {626}{}{Monta quel mirino ad infrarossi sul FN FAL.}
 {627}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
-{630}{}{Vuoi una bella iniezione di energia in quell'arma da mischia? Io posso "sovraccaricartela" per soli }
+{630}{}{Vuoi una bella iniezione di energia in quell'arma da mischia? Io posso "sovraccaricartela" per soli $}
 {631}{}{Bene.}
 {640}{}{[Skeeter prende cio' che gli hai dato e inizia a guardarlo con uno sguardo strano] Beh, non sara' per niente facile, ma credo proprio di poterci fare un bel lavoretto. Aspetta solo un attimo. [Skeeter mette l'arma sul suo tavolo da lavoro e la fissa con un enorme presa.]}
 {641}{}{Okay.}

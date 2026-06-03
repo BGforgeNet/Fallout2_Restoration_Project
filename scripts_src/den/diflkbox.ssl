@@ -56,12 +56,8 @@ end
 
 procedure map_enter_p_proc begin
    den_flick_box_obj := self_obj;
-/* Set up the locked state when the player first enters the map */
-   if (local_var(LVAR_Set_Door_Status) == 0) then begin
-       set_local_var(LVAR_Set_Door_Status,1);
-       set_local_var(LVAR_Locked,LOCKED_STATUS);
-       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
-   end
+
+   call map_enter_p_proc_vanilla;
 
    if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
       variable tmp_box := move_quest_items();
@@ -78,14 +74,6 @@ procedure map_enter_p_proc begin
       check_restock_item(PID_FLARE, 3, 9, 100)
       call restore_critical_items(tmp_box);
       set_local_var(LVAR_Restock_Time, (random(7,14) * ONE_GAME_DAY) + game_time);
-   end
-
-   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       obj_lock(self_obj);
-   end
-
-   else begin
-       obj_unlock(self_obj);
    end
 end
 

@@ -1,7 +1,7 @@
 {100}{}{Vedi un Deathclaw.}
 {101}{}{Vedi Kerith, la madre Deathclaw.}
 {102}{}{Vedi un tipico Deathclaw. La creatura e' enorme, con un corpo possente, denti aguzzi e lunghi artigli. Questo, in particolare, sembrerebbe essere una femmina, ma non puoi dirlo con certezza. Noti diverse e profonde cicatrici sul suo dorso.}
-{103}{}{Un visitatore umano e' un evento inatteso, ma non sgradito. Io sono Kerith. }
+{103}{}{Un visitatore umano e' un evento inatteso, ma non sgradito. Io sono Kerith.}
 {104}{}{Come posso aiutarla?}
 {105}{}{Tu madre D'claw?}
 {106}{}{Chi padre D'claw?}

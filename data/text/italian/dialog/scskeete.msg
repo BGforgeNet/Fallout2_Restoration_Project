@@ -2,7 +2,7 @@
 {101}{}{E' Doofus, il guardiano delle auto.}
 {102}{}{Questo tipo e' uno stecco malridotto, pieno di spasmi e tic; di sicuro e' un tossicodipendente.}
 {103}{}{Questo e' un bel mezzo, fratello, davvero bello! Oh cavoli, io sono quello che fa per te - ti guardo la macchina e tengo lontane le cimici. Cinque dollari e nessun problema. Cinque dollari e Doofus e' in servizio! Non dorme mai - 24 ore su 24, sempre qui, fratello.}
-{104}{}{Io sono il guardiano delle auto, fratello. Tengo d'occhio le macchine - 5$. Nessuno le tocca, perche' Doofus e' in servizio. }
+{104}{}{Io sono il guardiano delle auto, fratello. Tengo d'occhio le macchine - 5$. Nessuno le tocca, perche' Doofus e' in servizio.}
 {105}{}{Certo, fratello.}
 {106}{}{Allora, fratello, la vuoi la mia protezione?}
 {107}{}{Bene. Fa'.}
@@ -20,7 +20,7 @@
 {119}{}{Che cosa vuoi da Doofus, fratello?}
 {120}{}{Whoa, ci conosciamo? Cosa posso fare per te?}
 {121}{}{Certo, fratello.}
-{122}{}{Squa?}
+{122}{}{Eh?}
 {123}{}{Fratello? Io non sono un uomo!}
 {124}{}{Che cosa fai?}
 {125}{}{Cos'e' questo posto?}
@@ -33,8 +33,8 @@
 {132}{}{Cos'e' questo posto?}
 {133}{}{Bene. Sta' zitto.}
 {134}{}{Se non hai moneta, vedi di andare a farti fottere da qualche altra parte! Ho cose piu' importanti da fare.}
-{135}{}{Ehi, fratello, Doofus ti aveva avvertito. }
-{136}{}{Fottiti. Non rispondo alle tue domande. }
+{135}{}{Ehi, fratello, Doofus ti aveva avvertito.}
+{136}{}{Fottiti. Non rispondo alle tue domande.}
 {137}{}{Cos'e' questo posto?}
 {138}{}{Arrivederci.}
 {139}{}{Ciao ciao.}
@@ -49,9 +49,9 @@
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
 {150}{}{Giusto - obbedire al gigante, fratello. E' cosi' che le cose devono andare. Cosa devo fare, gigante?}
-{151}{}{Cavoli, e' un sacco di roba. Gigante, mi chiamo Doofus e sono il guardiano delle auto e dovrei fare la guardia alle macchine che la gente porta qui, ma, sai, ho questo... problema, vedi, e talvolta mi serve qualche soldo extra, capisci? }
-{152}{}{Si', esatto. Percio' se a volte sono un po' a corto e ho i miei bisogni, sai, tipo quando comincio a sentirmi male, allora devo recuperare qualche spicciolo, e allora vado a parlare con Merk. }
-{153}{}{Fratello, Merk e' un grande. Ha le mani in pasta un po' dappertutto. A volte mi lascia dormire nel Rawhide, dopo la chiusura. Ma poi vuole che gli faccia dei piccoli favori. }
+{151}{}{Cavoli, e' un sacco di roba. Gigante, mi chiamo Doofus e sono il guardiano delle auto e dovrei fare la guardia alle macchine che la gente porta qui, ma, sai, ho questo... problema, vedi, e talvolta mi serve qualche soldo extra, capisci?}
+{152}{}{Si', esatto. Percio' se a volte sono un po' a corto e ho i miei bisogni, sai, tipo quando comincio a sentirmi male, allora devo recuperare qualche spicciolo, e allora vado a parlare con Merk.}
+{153}{}{Fratello, Merk e' un grande. Ha le mani in pasta un po' dappertutto. A volte mi lascia dormire nel Rawhide, dopo la chiusura. Ma poi vuole che gli faccia dei piccoli favori.}
 {154}{}{Ci sto arrivando - wow, i colori, fratello! Merk a volte vuole la roba che c'e' nelle macchine cui faccio la guardia. Ma io lo frego!}
 {155}{}{Vedi, io rubo soltanto dalle macchine i cui padroni non pagano il mio servizio di guardia. Merk crede che io freghi i miei clienti, ma non lo faccio. Cavoli, devo smettere di parlare. Comincio a vedere cose... oh, cavoli, la luce. Tutto risplende.}
 {156}{}{Dammi tutta la tua roba.}

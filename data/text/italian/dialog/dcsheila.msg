@@ -14,7 +14,7 @@
 {163}{}{Proprio qui, baby.}
 {164}{}{Quanto, sorella?}
 {165}{}{Um, devo andare. Ciao.}
-{166}{}{Whee!}
+{166}{}{Evviva!}
 {167}{}{Mi piacciono grossi e stupidi.}
 {168}{}{Son proprio io!}
 {169}{}{Yay!}
@@ -45,9 +45,9 @@
 {195}{}{Grande!}
 {196}{}{OK, abbiamo finito. Ciao.}
 {197}{}{Tutto qui?}
-{198}{}{OK. Ciao.}
+{198}{}{OK. Ciao}
 {199}{}{E' stato bello.}
-{200}{}{Bye bye.}
+{200}{}{Ciao ciao.}
 {201}{}{Non mi pagano abbastanza.}
 {202}{}{Non che tu li valga, quei soldi.}
 {203}{}{Mi mancherai.}
@@ -59,8 +59,8 @@
 {209}{}{Whoo!}
 {210}{}{Ci vediamo.}
 {211}{}{Addio.}
-{212}{}{Bye bye.}
-{213}{}{Una 'seduta' ti costera' }
+{212}{}{Ciao ciao.}
+{213}{}{Una 'seduta' ti costera' $}
 {214}{}{ per una prestazione. Paga prima.}
 {215}{}{Seguimi.}
 {216}{}{Sto aspettando.}

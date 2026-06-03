@@ -4,8 +4,8 @@
 {200}{}{Sta' lontano da li'.}
 {201}{}{Quello non... ti appartiene.}
 {202}{}{Toccalo ancora, e ti ritroverai... cadavere al Golgotha.}
-{210}{}{::Wheeze::}
-{211}{}{*Cough* *Cough*}
+{210}{}{::Respiro sibilante::}
+{211}{}{*Tosse* *Tosse*}
 {212}{}{::Si asciuga il sudore sulla fronte.::}
 {220}{}{Tu sei il... *cough*... migliore dei miei uomini.}
 {221}{}{La gente di Reno di mostra il... *cough*... dovuto rispetto?}
@@ -24,13 +24,13 @@
 {248}{}{Chi sei?}
 {249}{}{Sei tu Jesus Mordino?}
 {250}{}{Scusate. Sono entrato nella stanza sbagliata.}
-{260}{}{Tu. (Mordino fissa Myron non appena entra nella stanza e neri fulmini balenano nei suoi occhi.) Tu hai... lasciato il tuo posto. Non mi sei piu'... UTILE. (Fa un cenno e le sue guardie impugnano le loro armi.) }
-{261}{}{(Lo sguardo dell'uomo si adombra. L'uomo fa un cenno e le sue guardie impugnano le loro armi.) }
-{262}{}{(Lo sguardo di Big Jesus si fa nero. Jesus fa un cenno e le sue guardie impugnano le loro armi.) }
+{260}{}{Tu. (Mordino fissa Myron non appena entra nella stanza e neri fulmini balenano nei suoi occhi.) Tu hai... lasciato il tuo posto. Non mi sei piu'... UTILE. (Fa un cenno e le sue guardie impugnano le loro armi.)}
+{261}{}{(Lo sguardo dell'uomo si adombra. L'uomo fa un cenno e le sue guardie impugnano le loro armi.)}
+{262}{}{(Lo sguardo di Big Jesus si fa nero. Jesus fa un cenno e le sue guardie impugnano le loro armi.)}
 {263}{}{Aieeeeeeee!}
 {264}{}{Giochiamo!}
 {265}{}{Scappare!}
-{266}{}{Whoa! Whoa...!}
+{266}{}{Wow! Wow...!}
 {267}{}{Ehi! Aspetta un secondo...!}
 {268}{}{Stai sfidando ME, *Grassone*?! Stai SFIDANDO }
 {275}{}{(L'uomo parla con voce rauca.) Io... sono Jesus Mordino. Devi... rivolgerti a me chiamandomi SENOR Mordino. (Una goccia di sudore scende sulla sua fronte.) Cosa... vuoi da me?}
@@ -54,7 +54,7 @@
 {315}{}{(Mordino rimane in silenzio per un momento, poi parla.) Io sono Jesus Mordino. Capo della famiglia Mordino. Tu sei venuto nel mio... casino'. Nella mia casa. Non mi hai mostrato... rispetto. IMPARERAI a non farlo mai piu'.}
 {316}{}{Credo che sarai TU ad imparare un paio di cose...}
 {317}{}{Whoa! Aspetta... parliamone! Dai, su...}
-{318}{}{[Fuggi in direzione della porta]}
+{318}{}{Corri verso la porta.}
 {319}{}{::Cerca un riparo, ed estrai le tue armi al rallentatore mentre i proiettili iniziano a volare in tutte le direzioni::}
 {325}{}{(Mordino aspetta. Mentre lo guardi, un'altra goccia di sudore scende su una guancia.)}
 {326}{}{Vorrei vendere degli schiavi...}
@@ -161,7 +161,7 @@
 {595}{}{Sei venuto da me per un lavoro. Io ti do un... lavoro e tu ti lamenti come un BAMBINO. (Prende un respiro profondo e poi tossisce.) Non... sei piu' il benvenuto... nel mio casino'. Vattene.}
 {596}{}{Sei venuto da me per un lavoro. E poi rifiuti la mia... offerta. (Prende un respiro profondo e poi tossisce.) Non... sei piu' il benvenuto... nel mio casino'. Vattene.}
 {597}{}{Prima che io vada, vorrei farti qualche domanda...}
-{598}{}{Non ho ancora finito di PARLARE con te, "Big Jesus".}
+{598}{}{Non ho ancora finito di PARLARE con te, "Big Jesus."}
 {599}{}{Voglia accettare le mie scuse, Senor Mordino. Me ne vado subito.}
 {600}{}{Perche' non mi sbatti fuori con le TUE mani?}
 {610}{}{Quest'uomo, Louis Salvatore... ha ucciso molti dei miei uomini... molti FIERI uomini della famiglia Mordino. Li ha... massacrati per strada come... cani. (La sua mano si stringe in un pugno.) E' mio desiderio che quest'uomo muoia.}

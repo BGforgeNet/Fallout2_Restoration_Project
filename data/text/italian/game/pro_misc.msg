@@ -10,7 +10,7 @@
 {900}{}{Colpo Laser}
 {1000}{}{Colpo al Plasma}
 {1100}{}{Esplosione}
-{1200}{}{Scroll Blocker}
+{1200}{}{Blocco Scorrimento}
 {1300}{}{Lampo Elettrico}
 {1400}{}{Esplosione}
 {1500}{}{Esplosione}

@@ -23,7 +23,7 @@
 {239}{}{Quand'e' che MI farai entrare nel giro, signor "stella del cinema"?}
 {240}{}{Dammi solo due secondi davanti ad una telecamera, e ti dimostrero' chi e' la vera star.}
 {241}{}{Posso fare QUELLO che fai tu e farmi QUELLE che ti fai tu. E sono piu' BRAVO di te.}
-{242}{}{Perche' non lasci che ti dia un paio di consigli, fratello?}
+{242}{}{Dovresti lasciarti insegnare qualcosa da me, fratello.}
 {243}{}{Ho una ragazza che sarebbe perfetta per uno dei tuoi film; ha un culetto morbido che non ti dico.}
 {244}{}{Lascia che mi occupi io di te, amico. Sono stato magnaccia dell'anno per due anni consecutivi.}
 {245}{}{Non capisco come TU possa essere diventato una star...}
@@ -40,7 +40,7 @@
 {270}{}{Quand'e' che MI farai entrare nel giro, miss "stella del cinema"?}
 {271}{}{Lascia che ti scopi davanti ad una telecamera, e il mondo conoscera' una nuova star.}
 {272}{}{Posso scoparti meglio di chiunque altro.}
-{273}{}{Perche' non mi permetti di insegnarti un paio di trucchetti, tesoro?}
+{273}{}{Dovresti lasciarti insegnare qualche trucco da me, donna.}
 {274}{}{Cazzo, un corpo come quello dovrebbe essere messo fuori legge.}
 {275}{}{Ragazza mia, e' incredibile che la strada non si sciolga sotto quelle tue gambe da capogiro.}
 {276}{}{Lavora per me, ragazza mia. Sono stato magnaccia dell'anno per due anni consecutivi.}
@@ -156,7 +156,7 @@
 {473}{}{Yo, schiavista! Sei in cerca di sesso?}
 {474}{}{Schiavista, se riesci a trovare qualcuno che ti fa un prezzo piu' basso, ti faccio lo sconto.}
 {475}{}{Sono cosi' brillante che faccio sembrare Reno meno luminosa.}
-{476}{}{Schiavista, hai del FUOCO, nei pantaloni?}
+{476}{}{Schiavista, sembri uno con un FUOCO li' sotto.}
 {477}{}{Parla con me, schiavista. Ho una donna che potrai sbattere per una notte INTERA.}
 {478}{}{Se avete la grana, potrete avere un assaggio del paradiso.}
 {479}{}{Ti serve un'amica per stasera, schiavista? Ne ho una perfetta per te.}

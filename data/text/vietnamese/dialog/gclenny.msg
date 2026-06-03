@@ -87,7 +87,7 @@
 {282}{}{Yeah, as though my ancestor would let a fleshless freak like you do anything with them. Goodbye.}
 {283}{}{Uh, well, I'd love to hear the whole story but I've got things to do. Goodbye.}
 {290}{}{Yes. I h'had the chance of a lifetime and I blew it.}
-{291}{}{What do you mean?}
+{291}{}{Ý cậu là sao?}
 {292}{}{Well, those are the breaks. Goodbye.}
 {300}{}{L'later, I h'heard that the Vault Dweller had fixed our water system. The V'vault Dweller saved
  us -- all of us. Do you understand? It didn't matter that we were ghouls. For once it didn't matter.

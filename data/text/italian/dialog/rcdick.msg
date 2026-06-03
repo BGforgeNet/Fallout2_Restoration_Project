@@ -92,9 +92,9 @@
 {191}{}{Grazie. Dovro' darci un'occhiata. Ci vediamo.}
 {192}{}{Beh vedete - questa e' la pura verita' - conosco qualcuno che ne ha visto uno da vicino, era...
 (passa del tempo)...Con enormi zanne che usa per...(altro tempo passa)...}
-{193}{}{Tempo fa avevo un amico che lavorava con me e un giorno... (il tempo passa)... grande come un brahmin e persino piu' puzzolente... (passa altro tempo)... }
+{193}{}{Tempo fa avevo un amico che lavorava con me e un giorno... (il tempo passa)... grande come un brahmin e persino piu' puzzolente... (passa altro tempo)...}
 {194}{}{Ti addormenteresti comunque, quindi tanto vale che io continui. Era notte fonda, vedi, e cosi'... (il tempo passa)... orme a meta' tra quelle di un Radscorpione e quelle di un Gecko... (passa altro tempo)... Visto? Te l'avevo detto che ti saresti addormentato.}
-{195}{}{Eh? Cosa? (la tua testa scatta; devi esserti appisolato). }
+{195}{}{Eh? Cosa? (la tua testa scatta; devi esserti appisolato).}
 {196}{}{Sara' meglio che vada a cercare qualcuno che mi aiuti a star sveglio. Ci vediamo.}
 {197}{}{...E cosi', adesso lo sai. Gli schiavi che lavoravano nella miniera fecero esplodere i depositi di dinamite e scapparono, piuttosto che affrontare i Wanamingo. Chiusero la miniera di li' a poco e nessuno ci torno'.}
 {198}{}{Dove hai detto che si trova la miniera del Grande Wanamingo?}

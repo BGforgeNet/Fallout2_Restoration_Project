@@ -39,7 +39,7 @@
 {138}{}{Dobbiamo raggruppare i brahmin dagli insediamenti piu' lontani prima di poter partire. Sara' tutto pronto per il giorno 11 del mese. In mattinata sarebbe meglio. Fa' un salto qui per allora, se vuoi un lavoro.}
 {139}{}{Cos'hai detto che trasportate, di solito?}
 {140}{}{Lascia che ti chieda qualcos'altro.}
-{141}{}{Grazie, lo faro'. Arrivederci.}
+{141}{}{Grazie, lo faro'. Arrivederci}
 {142}{}{Di solito cerchiamo sempre delle guardie per la carovana, ma, come ho detto, non saremo pronti a partire prima dell'undici di questo mese. Se vorrai ancora lavorare per noi, fatti vivo per quel giorno.}
 {143}{}{A che ora dell'11?}
 {144}{}{Che cosa trasporta la carovana?}
@@ -55,5 +55,5 @@
 {154}{}{Ottimo. Sono pronto. Andiamo.}
 {155}{}{Posso trovare modi migliori di passare il mio tempo piuttosto che mangiare la polvere dei brahmin per tutto il giorno. Addio.}
 {156}{}{Beh, hai avuto pasti gratuiti e un passaggio sicuro fino a qui. Adesso smamma, imbecille.}
-{157}{}{Gerg? Bye bye.}
+{157}{}{Gerg? Ciao ciao.}
 {158}{}{Grrrr! Me vuole sangue!}

@@ -1,0 +1,661 @@
+
+#FALLOUT 2 PATCH NON UFFICIALE
+
+@a cura di
+killap
+
+@aiuto aggiuntivo
+Haenlomal
+Darek
+Seraph
+Per
+Tutti coloro che hanno segnalato bug
+
+
+
+#FALLOUT 2 RESTORATION PROJECT
+
+@a cura di
+killap
+
+
+#PROGRAMMAZIONE
+
+@Programmatore Principale
+killap
+
+@Programmazione Aggiuntiva
+Darek
+Chris Parks
+MIB88
+
+
+#SCRITTURA
+
+@Scrittore Principale
+Adam Dravean
+
+@Scrittori
+killap
+encinodude
+Minigun Jim
+Yamu
+Mikael Grizzly
+SuAside
+Bofast
+
+
+#GRAFICA
+
+@Artista Principale
+Pixote
+
+@Arte Aggiuntiva
+Continuum
+Josan12
+x'il
+Jotisz
+Wild-Qwerty
+Grayswandir
+Makers of Mutants Rising
+Makers of Fallout: Between Good & Evil
+killap
+Lich
+Crowley
+Nikki
+
+
+#MAPPE
+
+@Lead Mapper
+Pixote
+
+@Mappatore Principale
+killap
+Chris Parks
+Skynet
+Deadlus
+
+
+#MUSICA
+hologram
+
+
+#Doppiatori
+@Cassidy
+Adam Dravean
+
+
+#Coordinatori Sincronizzazione Labiale
+Aguirre
+Agris
+Josan12
+tobecooper
+Ardent
+
+
+#TRADUTTORI
+
+@Traduzione ITALIANA
+NarakuITA 
+Ragfox
+Zhanka
+McNelly
+sicarius97
+Mr.House_404
+Stilnovanta
+
+@Traduzione Russa
+aliet
+Magnat
+rj rl
+DominionZ
+BaD3uM
+Tschumann
+vindicator
+Drobovik
+
+Revisione Aggiuntiva
+
+Drobovik
+SeregaTopor
+Comunita' Russa di Fallout
+
+Tester Beta
+
+9in
+Aleksey Kluchnikov aka General Maxon
+Tschumann
+vindicator
+2FARAON
+SuperBul
+IRaven
+vlad2204
+Nickolas
+trisem
+Trephs
+
+@Traduzione Polacca
+Mad Ivan
+Kryspin013
+szczypiorofix
+tibrion
+Johny8888
+Semietiev
+Juraszka
+Chad669
+Comunita' Polacca di Fallout "Tredicesimo Rifugio"
+
+@Traduzione Tedesca
+Mr. Wolna
+La Comunita' di FalloutNow!
+
+@Traduzione Francese
+HawK-EyE
+La Comunita' Francese di Fallout
+
+
+#CONTENUTO AGGIUNTIVO
+ART
+Continuum
+Corpse
+Glovz
+Haenlomal
+Josan12
+Lisac2k
+Mash
+pelicano
+
+
+#SUPPORTO TECNICO
+Darek
+NovaRain
+Morticia
+Tomten
+Timeslip
+Mash
+gracul
+Slowhand
+GanymeDes
+Nevill
+Ochrei
+Petrell
+Hootl
+aboniks
+memetics
+FallMan
+La Comunita' di No Mutants Allowed
+Chiunque altro abbia dimenticato
+
+
+#FALLOUT 2 HIGH RESOLUTION PATCH
+
+@a cura di
+Mash
+
+
+
+#TEAM DI SVILUPPO DI FALLOUT 2
+
+#PROGRAMMAZIONE
+
+@Programmatore Principale
+Jesse Reynolds
+
+@Programmatori
+Chris Jones
+Nick Kesting
+Robert Hertenstein 2
+Thomas French
+Chris Holland
+Dan Spitzley
+
+@Programmazione Aggiuntiva
+Tim Cain
+John Price
+Michael Bernstein
+
+@Tecnologia Filmati
+Paul Edelstein
+
+@Installer/Autoplay
+Darren Monahan
+
+
+#ARTE
+
+@Artisti Principali
+Gary Platner
+Tramell Ray Isaac
+
+@Artisti
+Robert Collier
+Jeff McAteer
+Brian Menze
+Scott Rodenhizer
+
+@Arte Aggiuntiva
+Aaron Brown
+Peter Kroko
+Michael Sean McCarthy
+Chad Moore
+Eddie Rainwater
+Justin Sweet
+Vance Kovacs
+Tim Donley
+
+@Artisti Tirocinanti
+Charles M. Gregory
+Daniel Jacobs
+John Jacobs
+Karel Jacobs
+Christopher Jones
+Benc Orpak
+Adoni Torres
+
+@Grafica del Gioco Originale
+Jason Anderson
+Leonard Boyarsky
+Michael Dean
+Sharon Shellman
+
+
+#DESIGN
+
+@Lead Designers
+Feargus Urquhart
+Matthew J. Norton
+
+@Designer
+Jason G. Suinn
+John Deiley
+Chris Avellone
+David "Zeb" Cook
+Dave Hendee
+Colin McComb
+
+@Designer Tecnico
+Scott Everts
+
+@Level Designer
+John Deiley
+Scott Everts
+Jason G. Suinn
+
+@Design Aggiuntivo
+Robert Hertenstein 2
+Nick Kesting
+Fred Hatch
+
+@Design/Dialoghi
+Mark O'Green
+
+@Design del Gioco Originale
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+@Design del Sistema SPECIAL
+Chris Taylor
+Tim Cain
+Jess Heinig
+Feargus Urquhart
+
+
+#PRODUZIONE
+
+@Direttore di Divisione
+Feargus Urquhart
+
+@Produttori
+Eric Demilt
+Feargus Urquhart
+
+@Produttori Assistenti
+Fred Hatch
+Douglas Avery
+
+@Vice Direttore di Divisione
+Jeremy Barnes
+
+@Coordinatori Sincronizzazione Labiale
+Jason G. Suinn
+Dave Hendee
+
+@Artisti Sincronizzazione Labiale
+Douglas Avery
+Chris Benson
+David "Zeb" Cook
+Jacob Devore
+Kenneth Lee
+Colin McComb
+
+
+
+#CONTROLLO QUALITA'
+
+@Direttore del Controllo Qualita'
+Chad Allison
+
+@Manager QA
+Steve Victory
+Colin Totman
+
+@Supervisori del Progetto Versione PC
+Greg "Moose" Baumeister
+Steve McLafferty
+Darrell Jones
+
+@Tester Senior Versione PC
+Dennis Presnell
+Chad Nicholas
+Dave Simon
+
+@Tester Versione PC
+Ed Hyland
+Dany Martinez
+WR Saunders
+Rodney Smith
+Tony Piccoli
+David Maldonado
+Dan Levin
+Eric Pribish
+Scott Warner
+Derek Johnson
+Tim Anderson
+Primo Pulanco
+Jeremy Ray
+Jeremy Seely
+Henry Lee
+Scott Humphreys
+
+@Manager Compatibilita' I.S.
+Frank Pimentel
+
+@Tecnico Senior I.S.
+Bill Delk
+
+@Tecnico I.S.
+Tom Quast
+
+@Amministratore Database QA
+Steve Cabiness
+
+@Tecnici Compatibilita'
+Derek Gibbs
+John Parker
+Ed Robles
+Louie Iturzaeta
+
+
+
+#AUDIO
+
+@Direttore Audio
+Charles Deenen
+
+@Mastering Audio
+Craig Duman
+
+@Direttore Doppiaggio
+Jamie Thomason
+
+@Coordinatore Doppiaggio
+Julie Morgavi
+
+@Supervisore Doppiaggio
+Chris Borders
+
+@Editor Doppiaggio
+Frank Szick
+Kevin Frayser
+Ron Valdez
+
+@Doppiaggio Registrato presso Marc Graue Studio
+
+@Sound Design
+Paul Menichini
+Tim Walston
+
+@Sound Design Cinematiche
+David Farmer
+
+@Mixaggio Re-Recording Cinematiche
+Charles Deenen
+
+@Mixato in Dolby [TM] Surround presso Interplay Audio
+
+@Amministratore Audio
+Gloria Soto
+
+@Sound Design Aggiuntivo
+Larry Peacock
+Weddington
+EFX
+Eight Ball Sound
+Charles Deenen
+
+@Tecnici del Suono Doppiaggio
+Wes Smith
+Julian Cook
+of Marc Graue Studios
+
+@Musiche di
+Mark Morgan
+@per
+Four Bars Intertainment
+@e da
+Rick Jackson
+
+@Produttore Voci
+Fred Hatch
+
+
+@CON LE VOCI DI
+
+Charlie Adler
+@Harold
+
+Ron Perlman
+@Narratore
+
+Dwight Schultz
+@Hakunin
+
+Jason Marsden
+@Myron
+
+Cree Summer
+@Lynette
+
+Kevin Michael Richardson
+@Ufficiale Com
+
+Peter Jason
+@Sergente Istruttore
+
+Peter Jason
+@Guardia al Cancello
+
+Flo DiRe
+@Anziana
+
+Tress MacNeille
+@Tandi
+
+Greg Eagles
+@Sulik
+
+Michael Dorn
+@Marcus
+
+Michael Dorn
+@Frank Horrigan
+
+Jeffrey Jones
+@Il Presidente
+
+
+
+"A KISS TO BUILD A DREAM ON"
+@Eseguita da Louie Armstrong
+@Per gentile concessione di GRP Records
+@Su licenza di UNIVERSAL MUSIC SPECIAL MARKETS
+
+"A KISS TO BUILD A DREAM ON"
+@Scritta da Bert Kalmer, Harry Ruby e Oscar Hammerstein II
+@(C) 1935, 1951 rinnovato 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Diritti ceduti a EMI CATALOGUE PARTNERSHIP
+@Tutti i diritti controllati e amministrati da EMI MILLER CATALOG INC.
+@Tutti i diritti riservati. Copyright Internazionale Garantito.
+@Utilizzato con Permesso.
+
+@AVVERTENZA: E' una violazione della Legge Federale sul Copyright
+@copiare, duplicare o riprodurre questo Programma o qualsiasi
+@parte di esso senza l'esplicito consenso scritto
+@del detentore del copyright.
+
+
+#VIDEO
+
+@Servizi Video Forniti da
+Dave Cravens
+Stephen Miller
+Bill Stoudt
+Dan Williams
+
+
+#MARKETING
+
+@Direttore Marketing
+Paul Sackman
+
+@Manager Marketing
+Mike Markin
+Greg Peterson
+
+@Manager Marketing Associato
+Greg Bauman
+
+@Manager PR
+Krys Card
+
+@Traffic Manager
+Thom Dohner
+Paul Naftalis
+
+
+
+
+Ringraziamenti a
+@(Dave H.) The Unwashed Villagers, la famiglia Dyer,
+@Jamba Juice, The Tick, Southpark; (Chris A.) il mio "amico,"
+@Thuy Dang, Eileen Suh e mamma e papa' Avellone; (t.ray)
+@mia madre, mio padre, mio figlio e mio fratello e a tutti
+@i miei adoranti fan per aver acquistato questo gioco; (Rob H.)
+@Becky Warner e Billie Ryder; (Matt N.) Meine
+@DieMonika und der kater; (Jesse R.) "A papa',
+@sei stato un'ispirazione per tutta la mia vita. Mi manchi
+@sempre."
+
+@Ringraziamenti Speciali a:
+@I Membri dei forum di Fallout e Fallout 2.
+@Grazie per i vostri commenti, suggerimenti e altre curiosita'!
+@La Sala Video di Interplay, per l'impegno al di la'
+@del dovere!
+
+@Fallout 2 e' stato realizzato da Interplay Productions,
+@Team Fallout 2, la lettera Q e i numeri 42 e 20.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Okay, bene, se proprio devi...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Hai trovato gli incontri extra-speciali?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Continua a cercare...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Forse troverai il Falcone Maltese?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Ah! Buon divertimento...

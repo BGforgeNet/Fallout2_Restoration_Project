@@ -1627,7 +1627,7 @@
 {12499}{}{*Unnfffff*...I think my balls... are... in... my... stomach...}
 {14000}{}{Get him Zomak!}
 {14001}{}{Lämna mig ifred!}
-{14002}{}{Stop bothering me.}
+{14002}{}{Sluta störa mig.}
 {14003}{}{You humans always act this way.}
 {14004}{}{Is this the only way you can deal with the unknown?}
 {14005}{}{Simple answers for simple minds.}

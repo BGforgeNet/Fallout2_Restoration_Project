@@ -103,7 +103,7 @@
 {202}{}{Okay. Grazie.}
 {203}{hak023}{Sono onorato di servire il Prescelto.}
 {204}{hak024}{Cosi' e' la vita. Due creano un terzo. Avrai bisogno della radice di Xander e del fiore di Broc insieme, per la polvere curativa.}
-{205}{}{Oh. Grazie.}
+{205}{}{Oh. Grazie}
 {206}{}{Poo.}
 {207}{hak025}{Possa questa essere di nessun bisogno.}
 {208}{}{Okay. Grazie.}
@@ -151,7 +151,7 @@
 {250}{}{Sei messo male. Fatti aiutare.}
 {251}{hak102}{Figlio della Natura, come abbiamo potuto mettere un tale fardello sulle tue spalle? (sigh) La tua gente e' stata presa.}
 {252}{}{Uhh?}
-{253}{hak103}{Si'. Andata. Molte anime oscure sono venute, guidando gli uccelli metallici come uno stormo di locuste affamate, nascondendo la loro malvagita' in corazze brillanti.}
+{253}{hak103}{Si'. Andata. Molte anime oscure sono venute, guidando gli uccelli metallici come uno stormo di locuste affamate, nascondendo la loro malvagita' in corazze brillanti. }
 {254}{}{Ooo! Bello brillante!}
 {255}{hak104}{No! Non belle brillanti! Hanno rapito la nostra gente e l'hanno portata a sudovest.}
 {256}{}{Ow.}
@@ -162,7 +162,7 @@
 {261}{hak107}{Grazie, antenati. Ora la mia anima puo' unirsi al canto eterno. Buon viaggio, Prescelto.}
 {262}{}{Va?}
 {263}{hak108}{Va'!...}
-{264}{}{Bye bye.}
+{264}{}{Ciao ciao.}
 {265}{hak109}{Anime oscure sono giunte. Hanno preso tutti.}
 {266}{}{Anime oscure? Che cosa vuoi dire?}
 {267}{hak110}{Una grande folata di vento e' arrivata. Su di essa grandi libellule sputavano fiamme. Uomini crudeli sono usciti dalle pance di quelle bestie e hanno portato la morte ai nostri guerrieri.}

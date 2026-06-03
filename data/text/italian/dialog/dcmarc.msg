@@ -1,7 +1,7 @@
 {100}{}{Vedi una guardia.}
 {101}{}{Vedi Marc, una guardia.}
 {102}{}{Vedi Marc, una delle guardie di Tyler.}
-{150}{}{Yo, Tyler!}
+{150}{}{Ehi, Tyler!}
 {200}{}{Ma che...?}
 {225}{}{Grazie dell'aiuto. E' stato divertente.}
 {226}{}{Lo sapevo che avremmo sconfitto quelle femminucce.}

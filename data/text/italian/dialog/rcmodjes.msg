@@ -32,7 +32,7 @@
 {131}{}{Al momento avrei altro da fare. Che cosa vuoi?}
 {132}{}{Madame Modjeska e' indisposta, oggi. Che cosa vuoi da lei?}
 {133}{}{Mi sento come se la mia testa stesse per spaccarsi in due. Che cosa vuoi da me?}
-{134}{}{Io sono Madame Modjeska. Ex Jetomane, tra le altre cose. Adesso mi occupo d'altro. Penso che il Jet non faccia piu' per me. }
+{134}{}{Io sono Madame Modjeska. Ex Jetomane, tra le altre cose. Adesso mi occupo d'altro. Penso che il Jet non faccia piu' per me.}
 {135}{}{Cosa puo' fare Madame per te?}
 {136}{}{Di cosa ti occupi, Madame Modjeska?}
 {137}{}{Sembra che qui a Redding molte persone siano tossicodipendenti. Cos'e' successo in citta', ultimamente?}

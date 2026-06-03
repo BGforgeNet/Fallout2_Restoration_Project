@@ -93,7 +93,7 @@
 {281}{}{Sei il migliore.}
 {282}{}{Nuclearizza Vault City finche' brilla!}
 {283}{}{./~ 99 siringhe di RadAway sul muro, 99 siringhe... ./~}
-{284}{}{./~ I've been working on the re-act-or, all the live-long day... ./~}
+{284}{}{./~ Ho lavorato sul re-at-to-re, per tutto il santo giorno... ./~}
 {285}{}{Prima che arrivassi tu, non mi sarei fidato di un pelle-liscia per nulla al mondo.}
 {286}{}{Credo che, dopo tutto, alcuni di voi liscetti non siano poi tanto male.}
 {287}{}{Dobbiamo portare Chester a bere qualcosa con noi.}
@@ -115,7 +115,7 @@
 {321}{}{Sei uno di noi, compagno.}
 {322}{}{Salve, compagno. Il Rinnovamento e' vicino.}
 {323}{}{Presto noi tutti saremo Uno.}
-{324}{}{Egli conosce ogni cosa. Venera il suo pelo lucido!}
+{324}{}{Lui sa tutto. Venera il suo pelo lucente.}
 {325}{}{Dannati cultisti. Andatevene da qui.}
 {326}{}{Rinnovami questo ::fa un gestaccio con la mano::, stronzo.}
 {327}{}{Ho il tuo Rinnovamento proprio qui, amico.}

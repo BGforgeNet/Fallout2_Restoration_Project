@@ -8,13 +8,13 @@
 {156}{}{Vedi una prostituta. Ha l'aspetto di una che uccide i suoi amanti e se li mangia.}
 {157}{}{Vedi una prostituta. Ti sta valutando come fossi un gioiello.}
 {158}{}{Vedi una prostituta. I suoi abiti consunti le fasciano sensualmente il corpo.}
-{175}{}{Oh mio... e' lui!}
+{175}{}{Oh mio... e' lui.}
 {176}{}{Sei il piu' grande stallone del mondo.}
 {177}{}{::Sviene::}
 {178}{}{Vai, }
 {179}{}{::Applaude::}
-{180}{}{::Cheers::}
-{181}{}{Oh mio... e' lei. }
+{180}{}{::Saluti::}
+{181}{}{Oh mio... e' lei.}
 {182}{}{Vai cosi', ragazza mia!}
 {183}{}{::Ti fa il gesto del pollice alzato::}
 {190}{}{Non basterebbero tutti i tuoi soldi per convincermi a farlo con te mentre indossi QUELLA COSA.}
@@ -38,7 +38,7 @@
 {212}{}{Non e' una star, e' solo spazzatura tribale...}
 {213}{}{Mi stupisco che permettano alle pornostar di diventare COSI' grasse...}
 {214}{}{E' orripilante.}
-{215}{}{Ha lo stesso sex appeal di un sacchetto di carta bagnata...}
+{215}{}{Ha lo stesso Fascino Sessuale di un sacchetto di carta bagnata...}
 {216}{}{Brutta come il peccato...}
 {217}{}{Sara' anche una star, ma si muove con la grazia di un mutante.}
 {218}{}{Se prova a fare qualcosa, la sfregio...}
@@ -69,7 +69,7 @@
 {243}{}{Troietta da marciapiede.}
 {244}{}{::Ti ignora.::}
 {245}{}{::Fa un gesto osceno::}
-{246}{}{Vattene da qui, "Miss Stella del Cinema".}
+{246}{}{Vattene da qui, "Miss Stella del Cinema."}
 {247}{}{Sparisci, puttana.}
 {248}{}{Se provi a fare qualcosa, ti sfregio...}
 {249}{}{Non capisco cosa VEDANO in te i Fratelli Corsican...}
@@ -81,7 +81,7 @@
 {255}{}{E' massiccio come un carro armato. E guardate quel cannone.}
 {256}{}{Guarda il cannone di quel carro armato...}
 {257}{}{E' tutto mio...}
-{258}{}{::Sigh::}
+{258}{}{::Sospiro::}
 {259}{}{Che forza.}
 {260}{}{Quel ragazzo mi fa sentire cosi' inerme.}
 {261}{}{Ecco il Re dalla Mazza d'Oro...}
@@ -108,7 +108,7 @@
 {282}{}{Ecco un donna davvero forte.}
 {283}{}{Sembra cosi'...(trema)...pericolosa.}
 {284}{}{E' piuttosto sexy.}
-{285}{}{Oh mio... e' lui!}
+{285}{}{Oh mio... e' lui! }
 {286}{}{Sembra cosi'...(trema)...pericoloso.}
 {287}{}{Caaaavoli!}
 {288}{}{::Fischia::}
@@ -214,7 +214,7 @@
 {388}{}{Fammi sciogliere.}
 {389}{}{Se continua cosi', gli scoppiera' il cuore...}
 {390}{}{Mi prendero' cura di te, Schiavista.}
-{391}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
+{391}{}{Sono vergine… e non mi riesce nemmeno bene.}
 {392}{}{Jules continua a provare a vendere la sua roba sulla Seconda Strada...}
 {393}{}{Ehi, Schiavista! Ti serve una guida?}
 {394}{}{Jules vuole sempre degli assaggi gratuiti.}
@@ -321,7 +321,7 @@
 {495}{}{L'unico sport che si vede a Reno ultimamente e' il Tonsill-Hockey...}
 {496}{}{Vuoi ballare?}
 {497}{}{Dimentica le slot machine. Il mio jackpot e' MOLTO piu' alto.}
-{498}{}{Non riesco ancora a crederci: ma quante spogliarelliste c'erano alla festa di diploma di Feargus?!}
+{498}{}{Non riesco a credere quante spogliarelliste c’erano all’addio al celibato di Feargus.}
 {499}{}{Pare ci sia un nuovo straniero in citta'...}
 {500}{}{Riesci a piantare un chiodo da 15cm in un'asse usando il tuo pene?}
 {501}{}{Vuoi volare?}
@@ -373,7 +373,7 @@
 {547}{}{Sono pronta ad andare, tesoro. E tu?}
 {548}{}{::Fischia rivolta a te::}
 {549}{}{Odio i mollaccioni.}
-{550}{}{Vuoi rischiare con me, tesoro?}
+{550}{}{Fai una scommessa su di me, tesoro.}
 {551}{}{Ti vuoi divertire un po'?}
 {552}{}{Amore Genuino di Reno, proprio qui.}
 {553}{}{Ti faro' divertire.}
@@ -403,7 +403,7 @@
 {577}{}{Fammi sciogliere.}
 {578}{}{Se continua cosi', gli scoppiera' il cuore...}
 {579}{}{Il rumore del neon mi fara' impazzire...}
-{580}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
+{580}{}{Sono vergine… e non mi riesce nemmeno bene.}
 {581}{}{E pensare che sono arrivata dal Den per questo...}
 {582}{}{Ehi, straniero! Ti serve una guida?}
 {583}{}{Jules vuole sempre degli assaggi gratuiti.}
@@ -459,7 +459,7 @@
 {633}{}{Tommy the Balls e' magniFico.}
 {634}{}{Bene, bene. Guardate chi e' arrivato in citta'.}
 {635}{}{Cerchi il Giardino dell'Eden? Vieni nella mia stanza.}
-{636}{}{Vuoi rischiare con me, tesoro?}
+{636}{}{Fai una scommessa su di me, tesoro.}
 {637}{}{Il mio nome e' Facile, ragazza. Qual e' il tuo?}
 {638}{}{Ehi, carina. Cerchi la tua donna ideale?}
 {639}{}{Vuoi assaggiare l'altra meta' del cielo, dolcezza?}
@@ -493,7 +493,7 @@
 {667}{}{L'unico sport che si vede a Reno ultimamente e' il Tonsill-Hockey...}
 {668}{}{Vuoi ballare?}
 {669}{}{Dimentica le slot machine. Il mio jackpot e' MOLTO piu' alto.}
-{670}{}{Non riesco ancora a crederci: ma quante spogliarelliste c'erano alla festa di diploma di Feargus?!}
+{670}{}{Non riesco a credere quante spogliarelliste c’erano all’addio al celibato di Feargus.}
 {671}{}{Pare ci sia un nuovo straniero in citta'...}
 {672}{}{Riesci a piantare un chiodo da 15cm in un'asse usando il tuo pene?}
 {673}{}{Vuoi volare?}
@@ -536,7 +536,7 @@
 {710}{}{Sono pronta ad andare, tesoro. E tu?}
 {711}{}{::Fischia rivolta a te::}
 {712}{}{Odio i mollaccioni.}
-{713}{}{Vuoi rischiare con me, tesoro?}
+{713}{}{Fai una scommessa su di me, tesoro.}
 {714}{}{Ti vuoi divertire un po'?}
 {715}{}{Amore Genuino di Reno, proprio qui.}
 {716}{}{Ti faro' divertire.}
@@ -566,7 +566,7 @@
 {740}{}{Fammi sciogliere.}
 {741}{}{Se continua cosi', gli scoppiera' il cuore...}
 {742}{}{Il rumore del neon mi fara' impazzire...}
-{743}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
+{743}{}{Sono vergine… e non mi riesce nemmeno bene.}
 {744}{}{E pensare che sono arrivata dal Den per questo...}
 {745}{}{Ehi, straniero! Ti serve una guida?}
 {746}{}{Jules vuole sempre degli assaggi gratuiti.}
@@ -622,7 +622,7 @@
 {796}{}{Tommy the Balls e' magniFico.}
 {797}{}{Bene, bene. Guardate chi e' arrivato in citta'...}
 {798}{}{Cerchi il Giardino dell'Eden? Vieni nella mia stanza.}
-{799}{}{Vuoi rischiare con me, tesoro?}
+{799}{}{Fai una scommessa su di me, tesoro.}
 {800}{}{Il mio nome e' Facile, ragazza. Qual e' il tuo?}
 {801}{}{Ehi, carina. Cerchi la tua donna ideale?}
 {802}{}{Vuoi assaggiare l'altra meta' del cielo, dolcezza?}
@@ -721,7 +721,7 @@
 {895}{}{L'unico sport che si vede a Reno ultimamente e' il Tonsill-Hockey...}
 {896}{}{Vuoi ballare, Schiavista?}
 {897}{}{Schiavista, non puoi dire di aver fatto davvero l'amore prima di averlo fatto qui a Reno.}
-{898}{}{Non riesco ancora a crederci: ma quante spogliarelliste c'erano alla festa di diploma di Feargus?!}
+{898}{}{Non riesco a credere quante spogliarelliste c’erano all’addio al celibato di Feargus.}
 {899}{}{Il mio lavoro? Trasformare i ragazzi in UOMINI.}
 {900}{}{Riesci a piantare un chiodo da 15cm in un'asse usando il tuo pene?}
 {901}{}{Sono rimasta in questa citta' per troppo tempo...}
@@ -738,7 +738,7 @@
 {912}{}{E' qui la festa, Schiavista?}
 {913}{}{Ragazzo, faro' di te un uomo.}
 {914}{}{Vuoi ballare, Schiavista?}
-{915}{}{Oh, salve, Mr. Tyler.}
+{915}{}{Oh, salve, signor Tyler. Sta… scendendo?}
 {916}{}{Se dopo vuoi che ti parli, devi pagarmi un extra.}
 {917}{}{Si', sono vere e, NO, non puoi controllare.}
 {918}{}{Questo tizio, Fred Hatch, voleva sapere se c'erano "ragazze grosse" in citta'. Che roba.}
@@ -796,7 +796,7 @@
 {970}{}{Potresti fondere il metallo, lo sai questo?}
 {971}{}{Ho sentito la terra muoversi, ma era solo il peperoncino.}
 {972}{}{Fammi sciogliere.}
-{973}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
+{973}{}{Sono vergine… e non mi riesce nemmeno bene.}
 {974}{}{Ti serve una guida per la citta', Schiavista?}
 {975}{}{Whoa. QUELLO ti costera' qualcosa in piu'.}
 {976}{}{Jules vuole sempre degli assaggi gratuiti.}
@@ -825,7 +825,7 @@
 {999}{}{Tu hai dei desideri e io so come accontentarli.}
 {1000}{}{Lascia che risvegli il bambino che e' in te.}
 {1001}{}{Sto facendo questo lavoro solo per pagarmi il college.}
-{1002}{}{Senti, per l'ultima volta, non voglio travestirmi da "Abitante del Vault".}
+{1002}{}{Senti, per l'ultima volta, non voglio travestirmi da "Abitante del Vault."}
 {1003}{}{Cerchi un buco dove impiantare il paletto?}
 {1004}{}{Vuoi farmi urlare di piacere?}
 {1005}{}{::Purrrrr::}
@@ -912,7 +912,7 @@
 {1086}{}{E' qui la festa?}
 {1087}{}{Tu hai soldi, e io ho tempo.}
 {1088}{}{Ragazzo, faro' di te un uomo.}
-{1089}{}{Oh, salve, Mr. Tyler.}
+{1089}{}{Oh, salve, signor Tyler. Sta… scendendo?}
 {1090}{}{Se dopo vuoi che ti parli, devi pagarmi un extra.}
 {1091}{}{Questo tizio, Fred Hatch, voleva sapere se c'erano "ragazze grosse" in citta'. Che roba.}
 {1092}{}{Il tuo amico con l'osso nel naso... gran bel gingillo.}
@@ -944,9 +944,9 @@
 {1118}{}{Sono pronta ad andare, tesoro. E tu?}
 {1119}{}{Dimentica le slot machine. Il mio jackpot e' MOLTO piu' alto.}
 {1120}{}{Odio i mollaccioni.}
-{1121}{}{Vuoi rischiare con me, tesoro?}
+{1121}{}{Fai una scommessa su di me, tesoro.}
 {1122}{}{Ti vuoi divertire un po'?}
-{1123}{}{Non riesco ancora a crederci: ma quante spogliarelliste c'erano alla festa di diploma di Feargus?!}
+{1123}{}{Non riesco a credere quante spogliarelliste c’erano all’addio al celibato di Feargus.}
 {1124}{}{Amore Genuino di Reno, proprio qui.}
 {1125}{}{Ti faro' divertire.}
 {1126}{}{Io sono Filthy Spice.}
@@ -971,7 +971,7 @@
 {1145}{}{Potresti fondere il metallo, lo sai questo?}
 {1146}{}{Ho sentito la terra muoversi, ma era solo il peperoncino.}
 {1147}{}{Fammi sciogliere.}
-{1148}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
+{1148}{}{Sono vergine… e non mi riesce nemmeno bene.}
 {1149}{}{Ti serve una guida per la citta'?}
 {1150}{}{*Whoa*. Questo ti costera' un extra.}
 {1151}{}{Jules vuole sempre degli assaggi gratuiti.}
@@ -1000,7 +1000,7 @@
 {1174}{}{Lascia che risvegli il bambino che e' in te.}
 {1175}{}{Sto facendo questo lavoro solo per pagarmi il college.}
 {1176}{}{Vuoi ballare, dolcezza?}
-{1177}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault".}
+{1177}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault."}
 {1178}{}{Cerchi un buco dove impiantare il paletto?}
 {1179}{}{Vuoi farmi urlare di piacere?}
 {1180}{}{::Purrrrr::}
@@ -1085,7 +1085,7 @@
 {1259}{}{E' qui la festa?}
 {1260}{}{Tu hai la grana e io ho tempo.}
 {1261}{}{Ragazzo, faro' di te un uomo.}
-{1262}{}{Oh, salve, Mr. Tyler.}
+{1262}{}{Oh, salve, signor Tyler. Sta… scendendo?}
 {1263}{}{Se dopo vuoi che ti parli, devi pagarmi un extra.}
 {1264}{}{Questo tizio, Fred Hatch, voleva sapere se c'erano "ragazze grosse" in citta'. Che roba.}
 {1265}{}{Se vuoi che stia sveglia dopo aver scopato, dovrai pagarmi un extra.}
@@ -1117,9 +1117,9 @@
 {1291}{}{Sono pronta ad andare, tesoro. E tu?}
 {1292}{}{Dimentica le slot machine. Il mio jackpot e' MOLTO piu' alto.}
 {1293}{}{Odio i mollaccioni.}
-{1294}{}{Vuoi rischiare con me, tesoro?}
+{1294}{}{Fai una scommessa su di me, tesoro.}
 {1295}{}{Ti vuoi divertire un po', baby?}
-{1296}{}{Non riesco ancora a crederci: ma quante spogliarelliste c'erano alla festa di diploma di Feargus?!}
+{1296}{}{Non riesco a credere quante spogliarelliste c’erano all’addio al celibato di Feargus.}
 {1297}{}{Amore brillante come argento. Proprio qui.}
 {1298}{}{Ti faro' divertire.}
 {1299}{}{Io sono Filthy Spice.}
@@ -1144,7 +1144,7 @@
 {1318}{}{Potresti fondere il metallo, lo sai questo?}
 {1319}{}{Ho sentito la terra muoversi, ma era solo il peperoncino.}
 {1320}{}{Fammi sciogliere.}
-{1321}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
+{1321}{}{Sono vergine… e non mi riesce nemmeno bene.}
 {1322}{}{Ti serve una guida per la citta'?}
 {1323}{}{WHOA. Questo ti costera' un extra.}
 {1324}{}{Jules vuole sempre degli assaggi gratuiti.}
@@ -1173,7 +1173,7 @@
 {1347}{}{Lascia che risvegli il bambino che e' in te.}
 {1348}{}{Sto facendo questo lavoro solo per pagarmi il college.}
 {1349}{}{Vuoi ballare, dolcezza?}
-{1350}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault".}
+{1350}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault."}
 {1351}{}{Cerchi un buco dove impiantare il paletto?}
 {1352}{}{Vuoi farmi urlare di piacere?}
 {1353}{}{::Purrrrr::}
@@ -1242,7 +1242,7 @@
 {2861}{}{?}
 {2865}{}{, sei un gran pezzo d'uomo... che cosa hai fatto ultimamente?}
 {2867}{}{! Come va?}
-{2868}{}{. Posso aiutarti in... *qualsiasi* modo?}
+{2868}{}{. Posso aiutarti con… *qualcosa?*}
 {2870}{}{.}
 {2873}{}{, piccola tentatrice... cos'hai fatto ultimamente?}
 {3100}{}{Vedi una delle ragazze del Cat's Paw.}
@@ -1270,4 +1270,4 @@
 {3212}{}{*Huff*}
 {3213}{}{*Puff*}
 {3214}{}{No, NON ho alcuna intenzione di indossare quelle orecchie da Topolino.}
-{3215}{}{Certo, certo... ce l'hai ENORME.}
+{3215}{}{Sì, sì, hai proprio delle “mostruose palle.”}

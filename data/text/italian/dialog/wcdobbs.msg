@@ -8,7 +8,7 @@
 {107}{}{Addio.}
 {108}{}{Ero in battaglia. Si', una battaglia. C'erano spari ed esplosioni dappertutto. Gente che moriva. Ero terrorizzato ma dovevo continuare a combattere. Poi c'e' stato un lampo accecante.}
 {109}{}{E poi cos'e' successo?}
-{110}{}{Ciao, }
+{110}{}{Ciao,}
 {111}{}{La cosa seguente che ricordo e' una visione del mio corpo come se lo stessi guardando dall'altro. Sentivo i dottori dire che ero morto e poi hanno gettato il mio corpo su un mucchio di altri corpi.}
 {112}{}{E poi?}
 {113}{}{Addio.}

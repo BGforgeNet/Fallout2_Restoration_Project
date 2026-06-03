@@ -40,7 +40,7 @@
 {139}{}{Hunh?}
 {140}{}{Valt! Valt!}
 {141}{}{Testa giraaaaaaa.}
-{142}{}{Bye-bye}
+{142}{}{Ciao-ciao}
 {143}{}{Non e' questo il Vault dal quale proviene il mio antenato?}
 {144}{}{Non lo so. Vengo da un villaggio ad occidente.}
 {145}{}{Non lo so. Sto cercando di trovare il Vault dal quale proviene il mio antenato... lei puo' aiutarmi?}
@@ -48,14 +48,14 @@
 {147}{lyn009}{Quello che hai sulla schiena dev'essere il tuo QI, non il numero di un Vault.}
 {148}{}{Hrnnnn?}
 {149}{}{Nuuu-mero}
-{150}{}{Har funeee!}
+{150}{}{Che divertenteee!}
 {151}{}{-Allontanati-}
 {152}{lyn010}{Non so dove tu abbia trovato le capacita' mentali necessarie per entrare in citta', ma faro' in modo che tu non ci entri mai piu'... guardie! Scortate questo imbecille all'esterno delle mura!}
 {153}{}{NO!}
 {154}{}{ sta con gente di metallo}
 {155}{lyn011}{Salute a te, straniero. Io sono il Primo Cittadino, Lynette. Posso chiederti quali sono i tuoi affari qui?}
 {156}{}{Afffffffrari? Affa-raru?}
-{157}{}{Eer!}
+{157}{}{Ehm!}
 {158}{}{Ciao ciao.}
 {159}{}{Sto cercando un Kit per la Creazione del Giardino dell'Eden. Ne avete uno?}
 {160}{}{Sono alla ricerca di un Kit per la Creazione del Giardino dell'Eden, Primo Cittadino. Per caso la vostra citta' ne possiede uno che potrei acquistare?}
@@ -221,8 +221,8 @@
 {320}{}{Ho fatto un lungo viaggio per arrivare qui. Almeno GUARDALE, donna!}
 {321}{}{Ho fatto un lungo viaggio per arrivare qui. Almeno le GUARDI!}
 {322}{}{Se non sono sufficienti a convincerla, allora non c'e' altro da aggiungere. Buona giornata.}
-{323}{lyn041a}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te e con le tue assurde richieste. }
-{324}{lyn041b}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te. }
+{323}{lyn041a}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te e con le tue assurde richieste.}
+{324}{lyn041b}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te.}
 {325}{lyn041c}{Adesso vattene immediatamente, o dovro' chiamare le guardie.}
 {326}{}{Dai, chiamale. Non arriveranno in tempo per salvarti la vita.}
 {327}{}{Bene. Me ne vado.}
@@ -258,11 +258,11 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {356}{}{Cosa vuole che faccia?}
 {357}{}{Ripensandoci, non credo che la cosa mi interessi. Addio.}
 {358}{lyn048}{Disattiva la loro centrale, in modo definitivo, cosi' che non possano causare altri danni.}
-{359}{}{Sembra abbastanza facile. Tornero' quando il problema sara'... "risolto".}
+{359}{}{Sembra abbastanza facile. Tornero' quando il problema sara'... "risolto."}
 {360}{}{Esattamente in che modo questa centrale sta rilasciando radiazioni?}
 {361}{}{Lasci che ci pensi. Tornero' da lei.}
 {362}{lyn049}{Quei... "cosi"... stanno usando una centrale atomica danneggiata. Vedi, ESSI sono immuni alle radiazioni... a loro non interessa se ci stanno lentamente avvelenando con i loro veleni.}
-{363}{}{Me ne occupero' io. Tornero' quando il problema sara'... "risolto".}
+{363}{}{Me ne occupero' io. Tornero' quando il problema sara'... "risolto."}
 {364}{}{Mi sembra che stiano facendo un favore al mondo. Trovatevi qualche altro "Esterno" che esegua i vostri sporchi lavori.}
 {365}{}{Dovro' pensarci. Tornero' da lei quando avro' deciso.}
 {366}{lyn050}{Molto bene, vediamo un po'... Questi... questi sono autentici! Incredibile... tu SEI davvero un sopravvissuto proveniente da un altro vault! Benvenuto nella nostra Citta'... Devi aver sofferto le pene dell'inferno nel mondo esterno.}
@@ -285,7 +285,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {383}{}{Hunh?}
 {384}{}{Valt! Valt!}
 {385}{}{Straniiiii occhi!!}
-{386}{}{Bye-bye}
+{386}{}{Ciao-ciao}
 {387}{}{Avrei delle domande che vorrei porle.}
 {388}{}{Avrei delle domande che vorrei porle.}
 {389}{}{In che modo una persona puo' diventare Cittadino di Vault City?}
@@ -357,7 +357,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {455}{lyn066}{Allora non sprecare il mio tempo. Torna quando avrai qualcosa di concreto da dirmi.}
 {456}{}{Va bene. Tornero' piu' tardi.}
 {457}{}{Molto bene. Buona giornata, Primo Cittadino.}
-{458}{lyn067a}{Quindi NON hai risolto il problema? }
+{458}{lyn067a}{Quindi NON hai risolto il problema?}
 {459}{lyn067b}{Se desideri ancora la Cittadinanza, faresti meglio ad occupartene.}
 {460}{}{Se ho capito bene, qui a Vault City voi avete il pezzo necessario per riparare la loro centrale.}
 {461}{}{Va bene. Tornero' piu' tardi.}
@@ -373,7 +373,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {471}{}{Muori, Quattrocchiiii!}
 {472}{}{Uh-huh}
 {473}{}{Non ti piace il mio amico, eh? Che peccato. Invece a lui piaci... come CENA.}
-{474}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
+{474}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino."}
 {475}{}{Non c'e' bisogno di chiamare le guardie - Me ne vado spontaneamente.}
 {476}{lyn070}{Cosa? Hai distrutto la centrale?! E le radiazioni?! IDIOTA! Almeno quei ghoul sono morti... Sparisci dalla mia vista.}
 {477}{}{Whoa! E per quella Cittadinanza che mi aveva promesso?}
@@ -420,7 +420,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {518}{}{Fornisce assistenza medica soltanto ai Cittadini.}
 {519}{}{Niente... non volevo dire quello che ho detto. Buona giornata.}
 {520}{lyn079}{Chi sei tu per accusare un Cittadino di tali crimini? Guardie! Scortate questo Esterno ai cancelli!}
-{521}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
+{521}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino."}
 {522}{}{Non c'e' bisogno di chiamare le guardie - Me ne vado spontaneamente.}
 {523}{}{Ma e' la verita'! Lei deve credermi! Ho le pr --!}
 {524}{lyn080}{Questa e' un'accusa molto seria. Dal momento che sei un Cittadino, devo crederti sulla parola... ma ne sei assolutamente sicuro? Se e' vero, gli verra' revocata la Cittadinanza e sara' esiliato.}
@@ -466,7 +466,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {564}{}{Potrebbe revocargli la Cittadinanza, allora.}
 {565}{}{Capisco. Cerchero' di stargli alla larga, allora. Buona giornata.}
 {566}{lyn088}{Cerca costantemente di convincere i Cittadini a trasformare Vault City in una... "democrazia", come la chiama lui, nella quale tutti abbiano voce nelle leggi e nel prendere le decisioni. *IO* la chiamo "governo della massa".}
-{567}{}{"Democrazia"?}
+{567}{}{"Democrazia?"}
 {568}{}{In che modo tenta di convincere i Cittadini?}
 {569}{}{Sembrerebbe un bel problema. Cosa ne direbbe se me ne... occupassi io?}
 {570}{}{Non potete semplicemente cacciarlo dalla citta'?}
@@ -534,7 +534,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {632}{}{D'accordo. Me ne vado.}
 {633}{}{Molto bene, Primo Cittadino. Buona giornata.}
 {634}{lyn101}{Questa non e' la condotta di un Cittadino! Ti revoco la Cittadinanza. Le mie guardie ti condurranno fino al cancello principale.}
-{635}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
+{635}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino."}
 {636}{}{Non c'e' bisogno di chiamare le guardie. Me ne andro' spontaneamente.}
 {637}{lyn102}{Questo farebbe gli interessi di Vault City, ma non posso farlo... Finche' non infrange la legge, Moore puo' dire tutto cio' che vuole.}
 {638}{}{Vuole che... me ne occupi io?}
@@ -691,59 +691,59 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {789}{}{Mi fa piacere. Tuttavia, per aver scoperto tutte 'ste robe su New Reno e NCR, mi domandavo se ci fosse una ricom -- }
 {790}{}{Guardie!}
 {791}{}{Please go see the Proconsole. He will have what you need.}
-{792}{}{Please go see Senior Councilman McClure. He will have what you need.}
-{793}{}{Please go see my assistant. He will have what you need.}
-{794}{}{North}
-{795}{}{South}
-{796}{}{East}
-{797}{}{West}
-{798}{}{Northwest}
-{799}{}{Northeast}
-{800}{}{Southwest}
-{801}{}{Southeast}
-{802}{}{To the North}
-{803}{}{To the South}
-{804}{}{To the East}
-{805}{}{To the West}
-{806}{}{To the Northwest}
-{807}{}{To the Northeast}
-{808}{}{To the Southwest}
-{809}{}{To the Southeast}
-{810}{}{I don't want that.}
+{792}{}{Si rechi dal Consigliere Anziano McClure. Avra' cio' di cui ha bisogno.}
+{793}{}{Si rechi dal mio assistente. Avra' cio' di cui ha bisogno.}
+{794}{}{Nord}
+{795}{}{Sud}
+{796}{}{Est}
+{797}{}{Ovest}
+{798}{}{Nordovest}
+{799}{}{Nordest}
+{800}{}{Sudovest}
+{801}{}{Sudest}
+{802}{}{A Nord}
+{803}{}{A Sud}
+{804}{}{A Est}
+{805}{}{A Ovest}
+{806}{}{A Nordovest}
+{807}{}{A Nordest}
+{808}{}{A Sudovest}
+{809}{}{A Sudest}
+{810}{}{Non voglio morire.}
 {811}{}{Grazie.}
-{812}{}{Thanks for your time.}
+{812}{}{Grazie per il tuo tempo.}
 {813}{}{Guardie!}
-{814}{}{I love Scott Rodenhiser.}
-{815}{}{My little dreadlocks are cute.}
-{816}{}{T-Ray thinks a little too highly of himself.}
-{817}{}{This is good news.}
+{814}{}{Adoro Scott Rodenhiser.}
+{815}{}{I miei piccoli dreadlock sono carini.}
+{816}{}{T-Ray ha un'opinione di sé un po' troppo elevata.}
+{817}{}{Questa e' una buona notizia.}
 {818}{}{Molto bene.}
 {819}{}{Buona giornata.}
 {820}{}{Buongiorno, Cittadino.}
-{821}{}{I'll take that.}
-{822}{}{Give me that.}
-{823}{}{I don't know anything about that.}
-{824}{}{I don't know.}
+{821}{}{La prendo.}
+{822}{}{Dammi quello.}
+{823}{}{Non ne so nulla.}
+{824}{}{Non lo so.}
 {825}{}{Si'.}
 {826}{}{No.}
-{827}{}{Certainly.}
+{827}{}{Certamente.}
 {828}{}{Certamente.}
-{829}{}{Correct.}
-{830}{}{Exactly.}
+{829}{}{Esatto.}
+{830}{}{Esattamente.}
 {831}{}{Right.}
 {832}{}{Hmpphhh.}
-{833}{}{Explain to me again why Fallout 2 doesn't have any black hero models?}
-{834}{}{Vault City prevails. }
+{833}{}{Spiegami di nuovo perché Fallout 2 non ha modelli di eroi neri?}
+{834}{}{Vault City trionfa. }
 {835}{}{Vault City prevale, Cittadino.}
-{836}{}{Oh, boy! Sleep! That's where I'm a Viking!}
-{837}{}{Degenerate!}
-{838}{}{Outsider}
-{839}{}{Outsider filth...}
-{840}{}{*Snorts*}
+{836}{}{Oh, cielo! Dormire! Li' si' che sono un Vichingo!}
+{837}{}{Degenerato!}
+{838}{}{Straniero}
+{839}{}{Feccia straniera...}
+{840}{}{*Sbuffa*}
 {841}{}{*Zzzzzzzzzzz*}
 {842}{}{What is contained on the disk should put a stop to them; the raiders have been exposed, and if the contents of the disk were to get out to NCR's outer districts they would never be trusted again.}
 {843}{}{My sources at Gecko assure me that there are still ghouls within the city. Your Citizenship depends on resolving this situation...completely. Am I making myself clear?}
-{844}{}{Sorry, thought I'd killed them all.}
+{844}{}{Scusa, pensavo di averli uccisi tutti.}
 {845}{}{That's a good start, but our ground water is still being contaminated. You need to disable their plant.}
 {846}{}{That does help, but that doesn't stop our primary problem: the contamination of the groundwater. You need to stop the plant from leaking radiation.}
 {847}{}{L'Anziana del mio villaggio mi ha consegnato una borraccia, ma non l'ho con me. Comunque, le leggende che l'Anziana ci ha raccontato affermavano che il mio antenato era originario di un Vault.}
@@ -751,9 +751,9 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {849}{}{La centrale ha bisogno di un idro-magnete-come-si-chiama per funzionare. I ghoul hanno detto che ne avete uno qui, quindi mi basterebbe solo questo dispositivo e loro potrebbero riparare la centrale.}
 {850}{}{Hanno bisogno di un regolatore idroelettrico di magnetosfera per riparare la centrale ed evitare che contamini le falde acquifere. Affermano che voi, qui a Vault City, ne possedete uno. Quindi, se potessi avere quel dispositivo...}
 {851}{}{Lasciamo stare. Possiamo discutere di questo argomento un'altra volta.}
-{852}{lyn047b}{E anche se lo facessimo? Questa e' solo una soluzione temporanea. }
+{852}{lyn047b}{E anche se lo facessimo? Questa e' solo una soluzione temporanea.}
 {853}{}{Uh, beh, non conosco i dettagli, ma sembra che questo magneto-come-si-chiama potrebbe aiutare sia Gecko sia Vault City. Posso avere questo pezzo?}
-{854}{}{In realta', il regolatore potrebbe far funzionare correttamente la centrale per molti anni. Quindi, se adesso potessi avere il dispositivo...}
+{854}{}{In realta', il regolatore potrebbe far funzionare la centrale in modo pulito per molti anni. Quindi se riuscissi solo a procurarmi il pezzo...?}
 {855}{}{Lasciamo perdere. Forse posso trovare qualcun altro che mi aiuti.}
 {856}{}{Ha ragione, Primo Cittadino. Vedro' di fare il possibile per risolvere questo problema da solo.}
 {857}{}{Non credo di capire. Il problema e' Gecko... o sono i ghoul?}

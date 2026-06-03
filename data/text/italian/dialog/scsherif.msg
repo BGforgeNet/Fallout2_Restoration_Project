@@ -1,7 +1,7 @@
 {100}{}{Vedi un uomo con i capelli grigi che indossa l'uniforme della polizia di NCR.}
 {101}{}{E' lo sceriffo di NCR.}
 {102}{}{Questo tipo ha il tipico aspetto da poliziotto - capelli a spazzola e mascella quadrata: una persona senza grilli per la testa.}
-{103}{}{Benvenuto a NCR, straniero. Mi chiamo Dumont - Sceriffo Dumont. Spero che il tuo soggiorno qui sia tranquillo. }
+{103}{}{Benvenuto a NCR, straniero. Mi chiamo Dumont - Sceriffo Dumont. Spero che il tuo soggiorno qui sia tranquillo.}
 {104}{}{Permetti che lo Sceriffo Dumont ti dia un avvertimento, straniero - questa citta' non tollera i tipi come te. Causa dei problemi e te ne faro' pentire amaramente. Ad ogni modo... c'e' qualcosa che posso fare per te?}
 {105}{}{Bentrovato. Posso fare qualcosa?}
 {106}{}{Sputa il rospo.}
@@ -19,7 +19,7 @@
 {118}{}{Presidente Tandi?}
 {119}{}{Ottimo. La mia solita fortuna... Grazie.}
 {120}{}{Ascolta, io conduco una vita retta e rispettabile! Non possiedo un GECK ne' nient'altro.}
-{121}{}{So-rry! I don't suppose you know where Vault 13 is?}
+{121}{}{Scusa! Per caso sai dove si trova il Vault 13?}
 {122}{}{Come non detto, allora. Adesso devo andare.}
 {123}{}{Ho in mente un paio di cose, se sei davvero interessato.}
 {124}{}{Stai scherzando, vero? Dopo quello che hai fatto con Jack? Credo che potresti cercarti un lavoro stabile.}
@@ -48,7 +48,7 @@
 {147}{}{Grazie delle informazioni.}
 {148}{}{Il Presidente di NCR, e chi altri? La situazione la preoccupa a tal punto che mi ha persino chiesto di affidarle uno dei miei agenti per una missione speciale. Mi dispiace molto negarle il mio aiuto, ma al momento ho bisogno di tutti i miei uomini.}
 {149}{}{E se invece lo facessi io? Magari lei potrebbe mettere una buona parola per me.}
-{150}{}{Hmm. La vita e' dura, eh?}
+{150}{}{Hmm. Vita dura, immagino.}
 {151}{}{Tu? Hmmm... non credo di poterlo fare. Non ti conosco nemmeno - ma il Presidente sta cercando un volontario, quindi puoi provare ad andare a parlare direttamente con lei. Il suo ufficio si trova nel Palazzo del Congresso.}
 {152}{}{Grazie. Lo faro'.}
 {153}{}{Sa nulla a proposito di un GECK?}

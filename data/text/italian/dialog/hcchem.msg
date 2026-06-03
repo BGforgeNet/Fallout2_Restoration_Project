@@ -7,7 +7,7 @@
 {106}{}{Giallo.}
 {107}{}{Trasparente.}
 {108}{}{Non fare nulla.}
-{109}{}{Scegli il rosso. Con cosa vuoi mischiarlo? }
+{109}{}{Hai scelto il rosso. Con cosa vuoi mescolarlo?}
 {110}{}{Blu. Cio' dara' origine ad un liquido viola.}
 {111}{}{Giallo. Cio' dara' origine ad un liquido arancione.}
 {112}{}{Trasparente. Cio' dara' origine ad un liquido rosso.}

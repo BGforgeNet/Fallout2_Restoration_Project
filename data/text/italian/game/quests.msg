@@ -15,14 +15,14 @@
 {209}{}{Ottieni il permesso da Metzger per una guerra fra bande.}
 {210}{}{Trova un punto debole nella banda di Tyler che sta controllando la chiesa.}
 {211}{}{Aiuta Lara ad attaccare la banda di Tyler.}
-{212}{}{Find a way to get the orphans off the streets.}
+{212}{}{Trova un modo per togliere gli orfani dalla strada.}
 {300}{}{Rifornisci il distillatore.}
 {301}{}{Salva Smiley il Trapper.}
 {302}{}{Fa' la guardia ai brahmin.}
 {303}{}{Ruba i brahmin.}
 {304}{}{Uccidi il dio ratto.}
 {305}{}{Salva Torr.}
-{306}{}{Figure out who is rustling the brahmin.}
+{306}{}{Scopri chi sta rubando i brahmin.}
 {400}{}{Qualcosa di strano sta succedendo nella fattoria a nordest di Modoc. Indaga e fai rapporto a Jo.}
 {401}{}{Cornelius ha perso il suo orologio da taschino d'oro. Trovalo e riportaglielo.}
 {402}{}{Farrel vuole che tu ritrovi l'orologio da taschino d'oro di Cornelius. Trovalo e riportalo a Farrel.}
@@ -53,7 +53,7 @@
 {604}{}{Recupera un Super Set di Attrezzi "Snap-Off" per Skeeter.}
 {605}{}{Recupera un trasformatore di plasma trifasico per Skeeter.}
 {606}{}{Trova Woody il ghoul per Percy. Prova al Den.}
-{700}{}{Determine whether Chad is skimming money from the caravan runs.}
+{700}{}{Scopri se Chad sta trattenendo denaro dalle carovane.}
 {701}{}{Ripara il purificatore d'aria della miniera.}
 {702}{}{Trova le persone scomparse per Marcus.}
 {703}{}{Batti Francis in una sfida a braccio di ferro.}
@@ -94,14 +94,14 @@
 {1109}{}{Consegna il rapporto dell'Hubologista a AHS-9 a San Francisco.}
 {1110}{}{Uccidi l'Hubologista per Merk.}
 {1111}{}{Metti fine alle razzie di brahmin.}
-{1112}{}{Wipe out the Rangers' safe houses to the north, for Vortis the slaver.}
-{1113}{}{Wipe out the Slaver Camp to the north west, for the Rangers.}
+{1112}{}{Elimina i rifugi dei Ranger a nord, per Vortis lo schiavista.}
+{1113}{}{Elimina il campo degli schiavisti a nord-ovest, per i Ranger.}
 {1200}{}{Ripara il computer del Vault 13.}
 {1201}{}{Parla con Goris.}
 {1300}{}{}
-{1398}{}{Clear out the mine.}
+{1398}{}{Pulisci la miniera.}
 {1399}{}{Trova il chip per la scavatrice.}
-{1400}{}{Take care of the Widow Rooney situation.}
+{1400}{}{Sistema la questione della Vedova Rooney.}
 {1401}{}{Placa la rissa nel bar.}
 {1402}{}{Scopri chi ha sfregiato la prostituta.}
 {1403}{}{Uccidi Frog Morton.}
@@ -125,37 +125,37 @@
 {1517}{}{Disattiva il sottomarino degli Shi che minaccia la petroliera.}
 {1518}{}{Indaga sulla scomparsa del dottor Sheng.}
 {1519}{}{Porta al dottor Sheng alcuni semi di piante.}
-{1520}{}{Eliminate Dr. Sheng.}
-{1521}{}{Deliver the plant seed sample to Dr. Wong.}
+{1520}{}{Elimina il Dr. Sheng.}
+{1521}{}{Consegna il campione di seme vegetale al Dr. Wong.}
 {1522}{}{Elimina il dottor Wong senza allertare gli Shi.}
 {1523}{}{Sgombera il laboratorio del dottor Sheng.}
 {1600}{}{Occupati del Deathclaw.}
 {1601}{}{Ripara K9.}
 {1602}{}{Recupera il FOB dal comandante della base.}
 {1700}{}{}
-{1800}{}{Kill the beast beneath the church.}
-{1801}{}{Deliver the machine part to Brother Max.}
+{1800}{}{Uccidi la bestia sotto la chiesa.}
+{1801}{}{Consegna il pezzo di macchina a Fratello Max.}
 {1802}{}{Ripara la pompa dell'acqua e riferisci lo stato al monaco capo.}
-{1803}{}{Find out who is digging up the graves.}
+{1803}{}{Scopri chi sta dissotterrando le tombe.}
 {1804}{}{Informa Fratello Samuel e Padre Tully sulla posizione l'uno dell'altro.}
 {1805}{}{Porta un accendino a Fratello Hank.}
-{1806}{}{Collect information about Botany for Brother Paul.}
+{1806}{}{Raccogli informazioni sulla botanica per Fratello Paul.}
 {1807}{}{Formatta il database dei libri dell'Abbazia.}
-{1808}{}{Escort Brother Jason to Gecko.}
-{1900}{}{Collect some weapons for the Tribe's warriors.}
+{1808}{}{Scorta Fratello Jason fino a Gecko.}
+{1900}{}{Raccogli alcune armi per i guerrieri della Tribu'.}
 {1901}{}{Sistema il pozzo per Marli e la tribù.}
-{1902}{}{Find out what's haunting the tribe's shaman.}
+{1902}{}{Scopri cosa tormenta lo sciamano della Tribu'.}
 {1903}{}{Trova la sorella scomparsa di Sulik.}
-{1904}{}{Find out what happened to the hunting party.}
+{1904}{}{Scopri cosa e' successo al gruppo di cacciatori.}
 {1905}{}{Raccogli legna da ardere per i pescatori della tribù.}
 {1906}{}{Riunisci Sulik e sua sorella, Kurisu.}
 {1907}{}{Accompagna Krom all'incontro con il mercante.}
 {1908}{}{Porta alcune erbe (5 Radici di Xander, 3 Fiori di Broc) allo Sciamano.}
 {2000}{}{Sistema l’Ologramma 00000.}
-{2001}{}{Fix the Voice Computer.}
-{2002}{}{Clear out the plant problem.}
+{2001}{}{Ripara il computer vocale.}
+{2002}{}{Risolvi il problema delle piante.}
 {2003}{}{Risolvi il problema dell’illuminazione dell’EPA.}
-{2004}{}{Collect Gecko Pelts for the Doctor.}
+{2004}{}{Raccogli pelli di gecko per il Dottore.}
 {2005}{}{Sistema l’ologramma che parla con interferenze.}
 {2006}{}{Trova l’attrezzo lasciato dal Dottore.}
 {2007}{}{Testa il Solar Scorcher per il Direttore della Scienza.}

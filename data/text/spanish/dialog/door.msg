@@ -137,21 +137,17 @@ con una ganzúa.}
 {174}{}{Ha atascado la cerradura de la puerta por su falta de habilidad.}
 {175}{}{ no consigue abrir la cerradura de esta puerta.}
 {176}{}{Rompes la cerradura de la puerta.}
-{177}{}{Fuerzas la espalda mientras intentas romper la cerradura y
- recibes un punto de daño.}
-{178}{}{Fuerzas la espalda mientras intentas romper la cerradura y
- recibes }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and take }
 {179}{}{ puntos de daño.}
-{180}{}{Eres demasiado débil para romper la cerradura.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ rompe la cerradura de la puerta.}
-{182}{}{ fuerza la espalda mientras intenta romper la cerradura y recibe
- un punto de daño.}
-{183}{}{ fuerza la espalda mientras intentaba romper la cerradura y recibe }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ puntos de daño.}
 {185}{}{ es demasiado débil para romper la cerradura.}
-{186}{}{ fuerza la espalda mientras intenta romper la cerradura y recibe
- un punto de daño.}
-{187}{}{ fuerza la espalda mientras intentaba romper la cerradura y recibe }
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ puntos de daño.}
 {189}{}{Abres hábilmente la cerradura de la puerta.}
 {190}{}{No consigues abrir la cerradura de la puerta.}

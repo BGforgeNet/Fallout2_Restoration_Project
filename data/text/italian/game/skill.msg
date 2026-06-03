@@ -57,7 +57,7 @@
 {502}{}{%s e' gia' a posto.}
 {503}{}{Hai fallito nell'effettuare una qualsiasi cura.}
 {505}{}{Guadagni %d PX per aver affinato la tua abilita'.}
-{510}{}{\nskill_use: invalid skill used.}
+{510}{}{\nskill_use: abilita' non valida utilizzata.}
 {512}{}{Non puoi curare i morti.}
 {513}{}{Lascia in pace i morti.}
 {514}{}{E' morto, rassegnati.}

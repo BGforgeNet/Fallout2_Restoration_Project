@@ -2,7 +2,7 @@
 {101}{}{Vedi Ariel, la vedova.}
 {102}{}{Vedi una piccola, esile donna che indossa un prendisole di velluto blu. Sembra triste.}
 {103}{}{Salve, io sono Ariel. Non mi pare di averti mai visto prima. Chi sei?}
-{104}{}{Me }
+{104}{}{Me}
 {105}{}{Uh... tu sembrare triste. Perche'?}
 {106}{}{Me va ora.}
 {107}{}{Piacere, Ariel, il mio nome e'}

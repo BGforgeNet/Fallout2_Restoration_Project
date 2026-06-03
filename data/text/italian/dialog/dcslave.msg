@@ -99,10 +99,10 @@
 {470}{}{Aspetta, un'ultima cosa. Sto cercando qualcuno di specifico e non la vedo qui. Sai dove potrebbero essere tenuti altri schiavi?}
 {471}{}{Grande accampamento vicino qui. (Il tribale indica a sudovest) Due lune da qui.}
 {472}{}{C'e' un accampamento a circa due giorni di viaggio a sudovest da qui. E' li' che mi trovavo all'inizio.}
-{473}{}{Thank you. Now get out of here.}
-{474}{}{Thank you. Take care then.}
-{475}{}{Wait. I look for someone. Where more slaves?}
-{476}{}{Thankee. Go now!}
+{473}{}{Grazie. Ora vattene.}
+{474}{}{Grazie. Stammi bene, allora.}
+{475}{}{Aspetta. Cerco qualcuno. Dove sono gli altri schiavi?}
+{476}{}{Grazie. Vai ora!}
 {480}{}{Cosa tu volere?}
 {481}{}{Cosa vuoi?}
 {482}{}{Oh, nulla.}

@@ -75,17 +75,18 @@
 {174}{}{ képességek hiányában összetörte a konténeren lévő lakatot.}
 {175}{}{ nem tudta kinyitni a konténeren lévő lakatot.}
 {176}{}{Leütötted a lakatot a konténerről.}
-{177}{}{Miközben megpróbáltad leütni a lakatot a konténerről, meghúzódott a hátad, és [x] ÉP-t sérültél.}
-{178}{}{Miközben megpróbáltad leütni a lakatot a konténerről, meghúzódott a hátad, és }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and
+ take }
 {179}{}{ ÉP a büntetés!}
-{180}{}{Túl gyenge vagy, hogy leüsd a lakatot.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ leütötte a lakatot a konténerről.}
-{182}{}{ háta meghúzódott, miközben megpróbálta leütni a lakatot a konténerről, és [x] ÉP-t sérült.}
-{183}{}{ háta meghúzódott, miközben megpróbálta leütni a lakatot a konténerről, és }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ ÉP a büntetés!}
 {185}{}{ túl gyenge, hogy leüsse a lakatot.}
-{186}{}{ háta meghúzódott, miközben megpróbálta leütni a lakatot a konténerről, és [x] ÉP-t sérült.}
-{187}{}{ háta meghúzódott, miközben megpróbálta leütni a lakatot a konténerről, és }
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ ÉP a büntetés!}
 {189}{}{Ügyesen bezártad a konténert.}
 {190}{}{Nem tudtad bezárni a konténert.}

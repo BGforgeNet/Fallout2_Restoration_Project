@@ -32,7 +32,7 @@
 {179}{}{Mamma! Mamma!}
 {180}{}{En fråga till.}
 {181}{}{Tack. Hej då.}
-{182}{}{Beat it.}
+{182}{}{Stick härifrån.}
 {183}{}{Gwah.}
 {184}{}{Jag ska ge dig nåt att slå.}
 {185}{}{En snabb fråga först?}

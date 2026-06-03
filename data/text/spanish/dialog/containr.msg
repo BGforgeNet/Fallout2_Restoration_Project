@@ -75,21 +75,18 @@
 {174}{}{, con su falta de habilidad, ha atascado la cerradura del cajón.}
 {175}{}{ no logra abrir la cerradura del cajón.}
 {176}{}{Rompes la cerradura del cajón.}
-{177}{}{Fuerzas la espalda mientras intentas romper la cerradura y
- recibes un punto de daño.}
-{178}{}{Fuerzas la espalda mientras intentas romper la cerradura y
- recibes }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and
+ take }
 {179}{}{ puntos de daño.}
-{180}{}{Eres demasiado débil para romper la cerradura.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ rompe la cerradura del cajón.}
-{182}{}{ fuerza la espalda mientras intenta romper la cerradura y recibe
- un punto de daño.}
-{183}{}{ fuerza la espalda mientras intentaba romper la cerradura y recibe }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ puntos de daño.}
 {185}{}{ es demasiado débil para romper la cerradura.}
-{186}{}{ fuerza la espalda mientras intenta romper la cerradura y recibe
- un punto de daño.}
-{187}{}{ fuerza la espalda mientras intentaba romper la cerradura y recibe }
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ puntos de daño.}
 {189}{}{Abres el cajón con habilidad.}
 {190}{}{No logras abrir el cajón.}

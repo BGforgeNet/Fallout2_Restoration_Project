@@ -7,7 +7,7 @@
 {106}{}{Devo tornare al villaggio.}
 {107}{}{Ho qualche domanda per te.}
 {108}{}{Va bene, vado ad affrontare la prova.}
-{109}{}{(sigh) }
+{109}{}{(sospiro) }
 {110}{}{. Vai Tempio. Affronta prova. No tornare finche' no superata. Obbedisci Anziana. Va'!}
 {111}{}{Me va.}
 {112}{}{Perdonami, }

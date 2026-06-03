@@ -32,7 +32,7 @@
 {131}{}{Um, certo. Ci vediamo.}
 {132}{}{Ho cambiato idea.}
 {133}{}{Oh, si', il Professore. Mi ha cresciuto sin da quando ero una piccola spora e mi ha nutrito... ma sin dalla piu' tenera eta' ho compreso che se avessi mostrato appieno le mie doti intellettive, egli mi avrebbe fatto a pezzi per esaminarmi. Percio' ho fatto finta di essere stupida e per questo sono stata piantata qui. E' bello stare qui... ma mi piacerebbe cambiare ramo. Sai, essere trapiantata da qualche altra parte non sarebbe male...}
-{134}{}{"Cambiare ramo", eh?}
+{134}{}{"Ampliare gli orizzonti". Certo.}
 {135}{}{Giusto. Che cosa vuoi?}
 {136}{}{Ah... aha. Devo andare. Ciao.}
 {137}{}{Allora, ce l'ha ancora quello scorpione? Quel coso e' proprio una bestia a scacchi... Tanto fumo e tanto arrosto, se capisci quello che intendo... ma io so come batterlo. Se mi fai un favore, ti diro' il modo.}

@@ -6,7 +6,7 @@
 {125}{}{Hai distrutto il purificatore d'aria.}
 {129}{}{I cospiratori non possono piu' inviare il segnale di distruzione alla spoletta dell'esplosivo. Ormai non serve piu' a nulla, percio' la butti via.}
 {130}{}{E' gia stato riparato.}
-{131}{}{Clunk}
-{132}{}{Creak}
+{131}{}{Clonk}
+{132}{}{Scricchiolio}
 {133}{}{Clank}
 {134}{}{Whirrrrrrrr}

@@ -28,7 +28,7 @@
 {127}{}{Mi ricordo quando abbiamo combattuto contro i Luminosi nel sottosuolo di Necropolis... quelli si' che erano bei tempi...}
 {128}{}{Lascia che ti racconti di quando abbiamo aperto il Vault...}
 {129}{}{...Cosa stavo dicendo?}
-{130}{}{::yawn::}
+{130}{}{::sbadiglio::}
 {131}{}{::pffffft::}
 {132}{}{Non ho niente da dire ad un signor nessuno!}
 {133}{}{Ho bisogno di schiacciare un pisolino.}

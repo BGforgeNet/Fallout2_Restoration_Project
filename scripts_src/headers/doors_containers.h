@@ -1,5 +1,5 @@
 /** @tra door.msg */
-// Also used in contaners: containr.msg
+// Also used in containers: containr.msg
 
 #ifndef DOORS_CONTAINERS_H
 #define DOORS_CONTAINERS_H
@@ -80,6 +80,8 @@
   #define MAX_DAMAGE                      (20)
 #endif
 
+// 3 and less is just not enough to work the crowbar
+#define MIN_STRENGTH  4
 
 /* Standard Script Procedures */
 procedure look_at_p_proc;
@@ -110,6 +112,7 @@ procedure Super_Set_Lockpick_Lock;
 procedure trap_search_result(variable found_trap, variable who);
 procedure real_explosion(variable explosive);
 procedure roll_critical;
+procedure map_enter_p_proc_vanilla;
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
 prepended by LVAR_
@@ -234,27 +237,30 @@ was taken, and remove the trap.
   end
 #endif
 
-/***************************************************************************
-This procedure is used should the player try to pry the door open using a
-crowbar or some similar instrument.
-***************************************************************************/
-// For wood doors, Crowbar_Bonus = 0, which means always success
+/**
+ * This procedure is used should the player try to pry the door open using a crowbar or some similar instrument.
+ */
 procedure roll_pry_success begin
-  variable rnd = random(1,10);
-  if rnd <= (get_critter_stat(source_obj,STAT_st) + Crowbar_Bonus) then return true;
+  variable rnd = random(MIN_STRENGTH, 10);
+  if (get_critter_stat(source_obj, STAT_st) + Crowbar_Bonus) > rnd then return true;
   return false;
 end
 
-// Sturdier doors and high strength provide more chance to mangle the crowbar
-// Any STR char + wood door = 1% chance to destroy
-// 5 STR char + metal door = 10% chance to destroy
-// 10 STR char + metal door = 20% chance to destroy
+// Sturdier doors and high strength provide higher chance to mangle the crowbar
+// 4 STR char + wood door = 1% chance to destroy
+// 5 STR char + metal container = 10% chance to destroy
+// 10 STR char + metal container = 20% chance to destroy
 procedure roll_pry_destroy_crowbar begin
-  variable rnd = random(1,100);
-  variable str = get_critter_stat(source_obj,STAT_st);
+  variable rnd = random(1, 100);
+  variable str = get_critter_stat(source_obj, STAT_st);
+
+  // Too weak to bend it
+  if str < MIN_STRENGTH then return false;
+
   // Base Crowbar_Bonus = 0 (wood door). For metal doors, default is -2
   variable penalty = str * Crowbar_Bonus;
   if rnd + penalty <= 1 then return true;
+
   return false;
 end
 
@@ -267,6 +273,16 @@ end
     if not obj_is_locked(self_obj) then begin
       display_msg(my_mstr(601));
       return;
+    end
+
+    /** True if I am a container, False otherwise (door) */
+    variable is_container = false;
+    if (obj_type(self_obj) == OBJ_TYPE_ITEM) and (obj_item_subtype(self_obj) == item_type_container) then begin
+      is_container = true;
+    end
+    // No prying open metal doors
+    if (DOOR_STATUS == STATE_METAL) and (not is_container) then begin
+      display_msg(my_mstr(500));
     end
 
     // crowbar destroy runs always, discouraging high STR characters from spamming it
@@ -1214,6 +1230,28 @@ on your lockpick and traps skills and perception to notice things.
   end
 #endif
 
+/**
+ * Standard door/container map_enter_p_proc, full body split for easy reuse in customized scripts
+ */
+procedure map_enter_p_proc_vanilla begin
+  /* Don't change state when player is already on the map */
+  if is_loading_game then return;
+
+  /* Set up the state vars when the player first enters the map */
+  if (local_var(LVAR_Set_Door_Status) == 0) then begin
+    set_local_var(LVAR_Set_Door_Status, 1);
+    set_local_var(LVAR_Locked, LOCKED_STATUS);
+    set_local_var(LVAR_Trapped, TRAPPED_STATUS);
+  end
+
+  /* Set up the state when the player enters the map */
+  if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+    call close_and_lock_self;
+  end else begin
+    obj_unlock(self_obj);
+  end
+end
+
 /***************************************************************************************
 Whenever the map is first entered, this procedure will be called. The main purpose of
 this procedure is to lock the door from the outset, rather than having to worry about
@@ -1222,20 +1260,10 @@ the player locks it once more.
 ***************************************************************************************/
 #ifndef custom_map_enter_p_proc
   procedure map_enter_p_proc begin
-    /* Set up the door state when the player first enters the map */
-    if (local_var(LVAR_Set_Door_Status) == 0) then begin
-      set_local_var(LVAR_Set_Door_Status,1);
-      set_local_var(LVAR_Locked,LOCKED_STATUS);
-      set_local_var(LVAR_Trapped,TRAPPED_STATUS);
-    end
-    if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-      obj_lock(self_obj);
-    end
-    else begin
-      obj_unlock(self_obj);
-    end
+    call map_enter_p_proc_vanilla;
   end
 #endif
+
 /**************************************************************************************
 This procedure gets called roughly every 30 seconds of real time. It is used to make
 sure that the door does not lock on it's own and that the player will be able to get

@@ -1,6 +1,6 @@
 {100}{}{Bạn thấy một cư dân của khu The Den.}
-{101}{}{You see Fred.}
-{102}{}{You see Fred, wearing very fine clothes.}
+{101}{}{Bạn thấy Fred.}
+{102}{}{Bạn thấy Fred ăn mặc rất bảnh.}
 {150}{}{He seems to be busy thinking about something.}
 {151}{}{He seems pretty happy with his fine new threads.}
 {200}{}{I'm going to make it big some day.}

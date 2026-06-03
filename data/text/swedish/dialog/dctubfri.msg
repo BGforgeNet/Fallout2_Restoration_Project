@@ -79,7 +79,7 @@
 {320}{}{Don't talk to me, man. My head hurts.}
 {321}{}{I won't tell anyone.}
 {322}{}{Don't hurt me.}
-{323}{}{I didn't do anything.}
+{323}{}{Jag har inte gjort någonting.}
 {324}{}{I didn't see anything.}
 {325}{}{I didn't hear anything.}
 {326}{}{Please, just leave.}

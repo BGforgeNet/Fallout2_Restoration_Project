@@ -16,11 +16,11 @@
 {176}{}{*Bing*}
 {177}{}{*Kaaa-ching*}
 {178}{}{*Zzzzzzz*}
-{179}{}{*Ring-a-ling*}
-{180}{}{*Dingity-ding*}
+{179}{}{*Driin-dir*}
+{180}{}{Ding dong ding}
 {185}{}{Vedi una strana scatola di metallo dorato con tre occhi e un braccio. E' una delle cose piu' carine che tu abbia mai visto.}
 {186}{}{Me }
-{187}{}{ chi tu?}
+{187}{}{ chi tu}
 {188}{}{Me manca MAMMA. }
 {189}{}{ manca ARR-YO. Me vuole andare casa}
 {190}{}{(Le stringi la mano)}
@@ -104,7 +104,7 @@
 {320}{}{::Respiri profondamente, te ne vai.::}
 {325}{}{*Sono il tuo uomo ideale.* (La slot machine ti fa l'occhiolino.) *Dammi un po' di monete, e ti faro' godere come MAI nessun uomo ha fatto prima d'ora.*}
 {326}{}{*Sono la tua donna ideale, zucchero. Tutto cio' che voglio e' un po' di attenzione. Puoi aiutarmi? Dai, solo una moneta o due?*}
-{327}{}{Nooon posssciamo sholo ppa..rlaree?}
+{327}{}{Non possiamo… parla' un attimo}
 {328}{}{Sherto che vojo sgiocarre con teee}
 {329}{}{Penso sia meglio che me ne vada prima di fare qualcosa di cui potrei pentirmi.}
 {330}{}{::Respiri profondamente, te ne vai.::}
@@ -116,7 +116,7 @@
 {340}{}{Ho fiiinito il sgioco... e ora shto sholo vagabondando e... ho paura shia tutto ffinito e... *sniff*}
 {341}{}{E' che Fhallowt dueee non s'porta la mia sshcheda 3DFxxxxx e ho shpeso coshi' tanti *shooldi* per comprarla e *sniff*}
 {342}{}{Ho provato a creare un bbuon pe...personaggio ma... penso di aver shbajato *completamente* la dishtribusshione dei punti... e ora ho un pershonaggio di meeerda... e......*sniff*}
-{343}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh.}
+{343}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh}
 {344}{}{::Respiri profondamente, te ne vai.::}
 {350}{}{*Su, su... non pensarci piu'... lascia fare tutto a me. Dai, appoggia la tua testa su di me. Ecco. Sfogati pure.*}
 {351}{}{*Su, su... non pensarci piu', zucchero... lascia fare tutto a me. Dai, appoggia la tua splendida testa su di me. Ecco. Sfogati pure.*}
@@ -147,7 +147,7 @@
 {391}{}{Smetti di giocare.}
 {392}{}{Smetti di giocare.}
 {400}{}{Gli slot girano, e…non esce nulla.}
-{401}{}{NULLA. NULLA! La senti ridere, e ti infuri…i buttafuori sono costretti a strappare con la forza il tuo corpo urlante dalla slot machine.}
+{401}{}{NULLA. NULLA! La senti ridere, e ti infuri…i buttafuori sono costretti a strappare con la forza il tuo corpo urlante dalla slot machine}
 {402}{}{((La slot machine ridacchia.) *Ho avuto quello che volevo da questa relazione. Mi spiace, dolcezza. Sta' attento che le porte del casino non ti sbattano sul sedere, quando esci. Ah ah ah ah ah ah ah.*}
 {403}{}{Adesso hai }
 {404}{}{ monete. Cerchi di recuperare le perdite e continui a giocare?}
@@ -181,10 +181,10 @@
 {442}{}{Smetti di giocare.}
 {443}{}{Smetti di giocare.}
 {1000}{}{Il gioco non sembra essere molto equilibrato.}
-{1001}{}{Odds look right.}
+{1001}{}{Le probabilità sembrano a favore.}
 {1005}{}{Non puoi regolare con certezza le probabilita' di uscita dei numeri.}
-{1006}{}{Odds seem to be about right.}
-{1010}{}{The odds seem right.}
-{1011}{}{The odds don't seem right.}
-{1015}{}{The odds seem right.}
-{1016}{}{The odds don't seem right.}
+{1006}{}{Le probabilità sembrano essere corrette.}
+{1010}{}{Le probabilita' sembrano giuste.}
+{1011}{}{Le probabilita' non sembrano giuste.}
+{1015}{}{Le probabilita' sembrano giuste.}
+{1016}{}{Le probabilita' non sembrano giuste.}

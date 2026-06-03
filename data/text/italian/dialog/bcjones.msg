@@ -67,24 +67,24 @@
 {166}{}{Okay, beh, stai attento... e torna, se ti serve qualcosa.}
 {167}{}{Fatto.}
 {168}{}{Adesso e' paranoico. Crede che Tandi sia ancora sulle sue tracce. E' ossessionato dalla vendetta, e vorrebbe vedere Tandi morta. E' tormentato dal rimorso, dato che lui preferi' nascondersi e sopravvivere, invece di morire con la sua banda... e la lista potrebbe continuare.}
-{200}{}{Darion is dead.}
-{201}{}{Dar-e-on dead.}
+{200}{}{Darion e' morto.}
+{201}{}{Dar-i-on mor-to.}
 {202}{}{Lo e'!? Oh, questa e' una splendida notizia.}
-{203}{}{What are you going to do now?}
-{204}{}{What yoo do?}
+{203}{}{E adesso cosa farai?}
+{204}{}{Cosa fare tu?}
 {205}{}{Beh, non vedo motivo per tornare alla mia vecchia vita. La citta' sopra di noi non ha assistenza medica, quindi penso che andro' ad aiutarli. Grazie ancora per avermi liberato.}
-{206}{}{Of course. See you later.}
+{206}{}{Certo. A piu' tardi.}
 {207}{}{Ciao!}
 {210}{}{Devo ancora preparare alcune cose. Ci vediamo fuori.}
 {220}{}{Ehi, che bello rivederti! Qui tutti apprezzano davvero quello che hai fatto. Personalmente sono felice di essere uscito da li'. Lavorare per Darion era un incubo.}
-{221}{}{Glad I could help. So, tell me a little bit more about yourself.}
-{222}{}{Alright, see you around.}
+{221}{}{Sono contento di aver potuto aiutare. Allora, parlami un po' di te.}
+{222}{}{D'accordo, ci vediamo.}
 {230}{}{Vedi, io vengo originariamente dalla Nuova Repubblica della California, ma ho capito di avere un talento per la medicina. 
 Cosi' mi sono formato quanto piu' possibile con il personale medico della NCR, e una volta imparato tutto cio' che potevo, ho deciso di cercare di imparare ancora di piu' andando a Vault City. 
 Sono stato abbastanza fortunato da incontrare il dottor Troy mentre curava un cittadino ferito fuori dal Vault, e per farla breve ha accettato di completare il mio addestramento a Vault City. 
 Avevo appena finito l'addestramento e stavo per partire quando Darion mi ha catturato.}
-{231}{}{That's terrible. Well, I hope everything works out for you now.}
+{231}{}{Che brutta cosa. Beh, spero che adesso le cose si sistemino per te.}
 {240}{}{Lo spero anch'io. Credo di poter mettere a frutto le mie abilita' mediche qui.}
 {241}{}{Addio.}
-{250}{}{Thanks again for everything.}
-{251}{}{It feels good to be helping civilized people again.}
+{250}{}{Grazie ancora per tutto.}
+{251}{}{E' bello tornare ad aiutare gente civilizzata.}

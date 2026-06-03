@@ -170,3 +170,8 @@
 {573}{}{Non mi sorprenderebbe.}
 {580}{}{Allora sei anche un codardo? C'era da immaginarlo.}
 {581}{}{...}
+{1230}{}{Allontanati da li' immediatamente.}
+{1231}{}{Non toccarla piu'.}
+{1232}{}{Indietro!}
+{1233}{}{Lasciala stare.}
+{1234}{}{Cosa credi di fare?}

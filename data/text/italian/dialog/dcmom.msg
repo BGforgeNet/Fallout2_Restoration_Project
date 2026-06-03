@@ -44,11 +44,11 @@
 {346}{}{Filetto.}
 {347}{}{Ratto-talpa ben cotto.}
 {348}{}{Fluttuante in fricassea.}
-{349}{}{Filet mignon.}
+{349}{}{Filetto mignon.}
 {350}{}{Medaglioni di gecko alla griglia.}
 {351}{}{Mantide al Marsala.}
 {352}{}{Manicotti di ratto-talpa.}
-{353}{}{Brahmin en brochette.}
+{353}{}{Brahmin allo spiedo.}
 {354}{}{Radscorpione en croute.}
 {355}{}{E' Smeat!}
 {356}{}{Uh, non ne sono sicura, ma sa un po' di pollo.}
@@ -69,7 +69,7 @@
 {409}{}{Hai mai sentito parlare di un Vault o di una persona di nome Vic?}
 {410}{}{Cosa c'e' da fare, qui in citta'?}
 {411}{}{Cos'avete da mangiare, qui?}
-{417}{}{Well if it isn't my hero. What can Mom do you for today?}
+{417}{}{Oh, guarda chi c’e'… il mio eroe. Cosa puo' fare Mom per te oggi?}
 {425}{}{Lo so. Ma qui tutti mi chiamano cosi'. Diamine, arrivo persino a trattare le persone come fossero miei figli - a patto che rispettino le mie regole.}
 {426}{}{Regole?}
 {435}{}{Esatto. Niente furti, bestemmie e risse - nel mio locale, no no no. Perche' se lo fai, fuori te ne andrai. A me piace la tranquillita'.}
@@ -122,7 +122,7 @@
  la maggior parte dei loro genitori inetti. Con un'istruzione e un po' d'amore e cura, questi bambini potrebbero diventare il tipo di
  gente perbene di cui abbiamo cosi' disperatamente bisogno in questo mondo. Ho provato a fondare un orfanotrofio per loro, ma purtroppo non e' andato in porto.}
 {804}{}{Forse e' ora di riprovare. Non restera' in citta' ancora per molto, ma faro' quello che posso per aiutare finche' sono qui.}
-{805}{}{That's too bad. Well, nice talking with you. Bye.}
+{805}{}{Peccato. E' stato un piacere parlare con te. Ciao.}
 {806}{}{Si', forse *potresti* aiutare. Vedi, ho procurato un grande edificio sul lato sud-ovest che, con un po' di lavoro, farebbe un ottimo
  orfanotrofio. Ma un branco di miserabili lo occupa abusivamente e si rifiuta di andarsene a meno che non paghi una cifra assurda. Anche se *avessi* i soldi, non li darei
  a quei bulli -- li userebbero solo per avvelenarsi ulteriormente. Andrei dalle autorita', ma purtroppo non esistono al Den.
@@ -130,7 +130,7 @@
 {807}{}{Sono sicuro di poterli cacciare via. In un modo o nell'altro. Ti faro' sapere quando se ne sono andati.}
 {808}{}{Non sono mai stato un fan dello sfrattare la gente. Forse qualcun altro e' piu' adatto per questo.}
 {809}{}{Oh... capisco. E' davvero un peccato. Grazie comunque per aver provato. Vuoi qualcosa prima di andare?}
-{810}{}{Nope. Bye Mom.}
+{810}{}{No. Ciao, Mom.}
 {811}{}{Se beco uno di quei piccoli bastardi a rubarmi qualcosa, sara' l'ultima cosa che fanno. Non mi importa quale
  sia la loro scusa, un ladro e' un ladro. Ciao.}
 {820}{}{Buone notizie, mamma. L'edificio e' tutto tuo. Ho incontrato un piccolo ostacolo, ma quegli occupanti abusivi non ti daranno piu' fastidio.}
@@ -141,7 +141,7 @@
 {823}{}{Hmm... suppongo che tutti meritino una seconda chance. Passero' la' con alcuni amici e ne parleremo con loro. Grazie mille
  per avermi aiutato con questo. Se sei ancora in citta' tra qualche giorno, dovresti passare. Speriamo di avere tutto operativo entro allora. Oh, sono cosi'
  emozionata! Grazie ancora. Ecco, questo pasto e' offerto da me.}
-{824}{}{Thanks Mom. See you around.}
+{824}{}{Grazie, Mom. Ci vediamo.}
 {850}{}{Aiuti a fondare un orfanotrofio per i bambini del Den.}
 {1821}{}{Buone notizie, mamma. L'edificio e' tutto tuo. Ci e' voluto un po' di convincimento, ma ho fatto accettare agli occupanti abusivi di fare i bagagli e andarsene.
  Non credo che ti daranno piu' fastidio.}

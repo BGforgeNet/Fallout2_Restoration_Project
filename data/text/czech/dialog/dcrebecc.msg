@@ -170,3 +170,8 @@
 {573}{}{To mě nepřekvapuje.}
 {580}{}{Takže vy jste také zbabělec? To jsem si mohla myslet.}
 {581}{}{...}
+{1230}{}{Okamžitě vypadni od těch dveří.}
+{1231}{}{Už se jich příště nedotýkej.}
+{1232}{}{Drž se od nich dál!}
+{1233}{}{Nech je na pokoji.}
+{1234}{}{Co si myslíš, že děláš?}

@@ -36,11 +36,11 @@
 {135}{}{Hai del fegato, per sbatterci dentro.}
 {136}{}{Ci stavamo solamente divertendo un po'. Facci uscire.}
 {137}{}{Quello che stavamo facendo non erano affari tuoi.}
-{138}{}{Voglio uscire da questa dannata prigione!}
+{138}{}{Vattene al diavolo.}
 {139}{}{Fammi uscire da qui.}
 {140}{}{Ehi, lasciami uscire.}
 {141}{}{Sono innocente.}
-{142}{}{Non ho fatto niente.}
+{142}{}{Non ho fatto niente}
 {143}{}{Sceriffo? Devo andare a pisciare.}
 {144}{}{Cosa diavolo vuoi?}
 {145}{}{Non permettero' che vi azzuffiate.}
@@ -78,5 +78,5 @@
 {177}{}{Forse sara' meglio fare come dici. Di certo non voglio fare male a qualcuno. Addio.}
 {178}{}{D'accordo, immagino che un po' di soggiorno al fresco non possa farci male - giusto, Bette? (Bette annuisce) Hai vinto. Portaci dentro, Sceriffo.}
 {179}{}{Cosi' va meglio.}
-{180}{}{No, adesso e' troppo tardi. Vi faro' patire le pene dell'inferno.}
+{180}{}{No, adesso e' troppo tardi. Vi faro' patire le pene dell'inferno. }
 {181}{}{Niente paura. Non voglio iniziare a far casino stasera.}

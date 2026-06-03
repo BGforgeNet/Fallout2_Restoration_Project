@@ -2,7 +2,7 @@
 {101}{}{E' il figlio del Vice-Presidente Carlson.}
 {102}{}{Sembrerebbe essere un piccolo nanerottolo viziato. Grasso, per giunta.}
 {103}{}{Il mio papa' e' il Vice-Presidente Carlson, percio' farai meglio a trattarmi bene! Chi sei tu?}
-{104}{}{[Player name]}
+{104}{}{[Nome del giocatore]}
 {105}{}{Sono una delle guardie di tuo padre.}
 {106}{}{Dov'e' tuo padre?}
 {107}{}{Vedi questo coltello? Ho sgozzato bambini piu' carini di te, con questo.}

@@ -5,7 +5,7 @@
 {200}{}{Ehi! }
 {201}{}{Che ganzo, }
 {202}{}{Sei un maranza, }
-{203}{}{::Cheers::}
+{203}{}{::Saluti::}
 {204}{}{::Applaude::}
 {205}{}{::Fischia::}
 {215}{}{Come fai ad andare in bagno con quella roba indosso?}
@@ -67,7 +67,7 @@
 {355}{}{Cos'e' questo? Uno *scherzo*? Se e' cosi', sappi che e' molto lontano dall'essere divertente. Con la Famiglia Wright non si scherza, capito volpone?}
 {356}{}{Scherzare? No, sono dannatamente *serio*.}
 {357}{}{Si', mi dispiace. Non intendevo dire nulla di male. Senti, avrei delle altre domande…}
-{358}{}{Si', alla perfezione. Credo sia meglio che me ne vada.}
+{358}{}{Si', alla perfezione. Credo sia meglio che me ne vada. }
 {365}{}{(Alza le spalle.) Semplicemente non presta attenzione a quello che succede intorno a lei. Le voglio bene, certo, ma a volte e' piu' testarda di un mulo e piu' cieca di una talpa.}
 {366}{}{Beh, non molto tempo fa, ha fatto dei casini con il nostro distillatore e ha mandato in malora l'intera distilleria, mandando all'aria i nostri affari! Le voglio bene, certo, ma ha volte e' piu' cieca di una talpa.}
 {367}{}{Eh eh. E le assomiglia, anche.}
@@ -82,7 +82,7 @@
 {391}{}{E quanto potrebbe arrabbiarsi?}
 {392}{}{Hmmm. Okay, avrei delle altre domande...}
 {393}{}{Interessante. Beh, adesso devo andar. }
-{400}{}{Probabilmente abbastanza da spaccare questo posto… come minimo. Poi darebbe a tutti noi una bella strigliata e ci obbligherebbe a lunghe giornate di preghiera. Eh. }
+{400}{}{Probabilmente abbastanza da spaccare questo posto… come minimo. Poi darebbe a tutti noi una bella strigliata e ci obbligherebbe a lunghe giornate di preghiera. Eh.}
 {401}{}{Interessante. Ho delle altre domande...}
 {402}{}{Hmmmmm. Grazie. }
 {410}{}{Rich? Aw, l'hanno trovato morto in un fosso, come uno strafatto di Jet qualsiasi. Da quel che sappiamo, qualcuno deve averlo imbottito di droghe finche' non e' morto.}
@@ -106,7 +106,7 @@
 {446}{}{Aspetta, ho solo un'altra domanda da farti…}
 {447}{}{Me ne vado, me ne vado. }
 {455}{}{(Chris ti fissa per un attimo, poi si getta contro di te!)}
-{456}{}{Allora e' COSI' che vogliamo METTERLA, eh? D'ACCORDO, DIAMOCI DENTRO, BRUTTO STR -- }
+{456}{}{Allora e' COSI' che vogliamo METTERLA, eh? D'ACCORDO, DIAMOCI DENTRO, BRUTTO STR --}
 {465}{}{Io credo siano stati i Mordino; probabilmente uno dei loro spacciatori, se non addirittura un membro della famiglia. Quei bastardi producono tonnellate di Jet.}
 {466}{}{Ho capito. Senti, avrei delle altre domande…}
 {467}{}{Quale spacciatore pensi possa aver venduto il Jet a Richard?}
@@ -114,8 +114,8 @@
 {475}{}{Potrebbe essere stato chiunque: Jagged Jimmy J, quel fottuto sfregiato all'angolo di Virgin Street, o Renesco 'the Rocketman', quel vecchio e viscido merdoso che vende il Jet accanto all'armeria nel West Side.}
 {476}{}{Ci sono altri spacciatori?}
 {477}{}{Ho capito. Senti, avrei delle altre domande…}
-{485}{}{Ehi, amico, GRAZIE. }
-{486}{}{Ehi, ragazza mia, GRAZIE. }
+{485}{}{Ehi, amico, GRAZIE.}
+{486}{}{Ehi, ragazza mia, GRAZIE.}
 {487}{}{Hai scoperto chi ha ucciso mio fratello, e tutta la Famiglia Wright ti ringraziera', stanne certo. E non sara' un ringraziamento da poco, credimi.}
 {488}{}{Ho capito. Ci becchiamo dopo, Chris. }
 {495}{}{Anche Jules, all'entrata della citta', vende il Jet, ma di solito i suoi clienti sono turisti... poi c'e' Little Jesus Mordino: potrebbe aver venduto la droga a mio fratello mentre Rich era fuori da solo. Lo troverai al Desperado.}

@@ -5,12 +5,12 @@
 {200}{}{Vattene da qui!}
 {210}{}{Ragazzi, scappate! E' un sicario!}
 {211}{}{Ti ammazzero', bastardo pezzo di merda.}
-{212}{}{Ce l'hai il coraggio di farti sotto…?}
+{212}{}{Entri in casa mia, eh…}
 {213}{}{E cosi' ti hanno mandato per fare il lavoro sporco…}
 {214}{}{Sicario da strapazzo, questo sara' il tuo ultimo incarico…}
 {220}{}{Il matrimonio non e' una parola. E' una condanna a vita.}
 {221}{}{Dannati Salvatore…}
-{222}{}{Dove sono quei dannati ragazzi…?}
+{222}{}{Dove sono finiti quei dannati ragazzini…}
 {223}{}{Nessuno ha visto Christopher, in giro? Dite a quel ragazzo che voglio vederlo. Subito.}
 {224}{}{Mi chiedo se il nostro matrimonio sia legalmente vincolante…}
 {225}{}{I profitti dell'ultimo periodo sono in calo… sara' meglio cominciare ad annacquare il liquore.}
@@ -30,14 +30,14 @@
 {244}{}{Boogity boogity}
 {245}{}{Yoo Boo Hoo Yooooo}
 {246}{}{Kootchie Kootchie Koooo}
-{247}{}{Chi diavolo tu?}
+{247}{}{Chi diavolo tu}
 {248}{}{Sono un semplice viandante… in cerca di lavoro.}
 {249}{}{Mi chiamo }
 {250}{}{In realta' credo di esser entrato nella stanza sbagliata. Me ne vado subito.}
 {260}{}{(Si incupisce.) Sparisci dalla mia vista. Fatti rivedere da queste parti e ti faro' sparare, hai capito?}
 {262}{}{Uh-uh}
 {263}{}{Tu baciare mamma con quella bocca?}
-{264}{}{Tu fare meglio NO sparare me. Sparare me fare ARRABBIARE me.}
+{264}{}{Tu fare meglio NO sparare me. Sparare me fare ARRABBIARE me}
 {265}{}{-Vattene via e cerca qualcuno con cui parlare che sia meno cattivo di questo qui-}
 {275}{}{(Quando ti vede, Wright esplode in un ringhio e comincia a urlare.) }
 {276}{}{(Wright esplode in un ringhio e comincia a urlare.) }
@@ -72,7 +72,7 @@
 {341}{}{Come posso aiutarti?}
 {342}{}{Uh… Non vedo proprio come io potrei es --}
 {350}{}{Voglio sapere quale spacciatore ha dato quella MERDA a Richard e l'ha costretto a prenderla. Ogni volta che mando i miei ragazzi a indagare, non riescono a scoprire nulla. Forse qualcuno che non ha il sangue degli Wright nelle vene potra' ottenere delle risposte.}
-{351}{}{Uh, "l'ha costretto a prenderla"?}
+{351}{}{Uh, "l'ha costretto a prenderla?"}
 {352}{}{Accetto l'incarico.}
 {353}{}{No, non e' nel mio stile. Sara' meglio che vada.}
 {360}{}{(Diventa rosso.) I miei ragazzi sono puliti, e sanno che devono starsene lontani da quella roba... altrimenti li ucciderei. Poi, di PUNTO IN BIANCO, Richie muore d'overdose. Qualcuno gli ha pompato dentro una tonnellata di Jet, talmente tanto da fargli uscire i fumi dal naso.}
@@ -115,7 +115,7 @@
 {451}{}{Adesso BASTA! Non ne posso piu' delle tue stronzate. Adesso raggiungerai quel drogato di tuo figlio all'inferno.}
 {453}{}{Esci subito di qui.}
 {465}{}{Capita che, non troppo tempo fa, io sia entrato in possesso di una mappa che indica la posizione di una vecchia base dell'esercito nelle montagne, non lontano da qui. Trova il modo per entrarci e io sapro' ricompensarti…}
-{466}{}{Okee Signor Orderville }
+{466}{}{Okee Signor Orderville}
 {467}{}{ va. }
 {468}{}{D'accordo. Andro' a controllare.}
 {469}{}{Perche' dovrei andarci io? Non ha gia' mandato qualcuno?}
@@ -179,7 +179,7 @@
 {642}{}{Ho trovato la fiala di Jet che Richard ha usato... er, che e' STATA usata su Richard. Al suo interno c'erano tracce di veleno di radscorpione.}
 {643}{}{Ho trovato una fiala di Jet che Richard ha usato... er, che e' STATA usata su Richard. Al suo interno c'erano tracce di veleno di radscorpione.}
 {644}{}{E' stato avvelenato con del veleno di radscorpione. L'overdose di Jet era soltanto una copertura per l'avvelenamento.}
-{650}{}{"Esaminato il cadavere di mio figlio"?!?}
+{650}{}{"Esaminato il cadavere di mio figlio?"}
 {651}{}{Gia', ho aperto la sua tomba e ho eseguito un'autopsia.}
 {652}{}{Uh…beh, NO. Mi sono espresso male. "Cadavere di suo figlio"? No, volevo dire "di un coniglio"! Si', questo volevo dire.}
 {653}{}{Credo che questo non sia il momento migliore per discuterne. Ne parleremo piu' tardi.}
@@ -192,7 +192,7 @@
 {670}{}{Mettiamo per un secondo che io ti creda... e non dico che lo STO facendo... allora chi avrebbe AVVELENATO mio figlio? E perche' prendersi il disturbo di imbottirlo di Jet?}
 {671}{}{Si dice che siano stati i Salvatore. L'hanno riempito di Jet mischiato con veleno di radscorpione e poi l'hanno lasciato in un posto dove voi poteste trovarlo.}
 {672}{}{Non so quale dei Salvatore sia stato. Renesco ha adulterato del Jet per loro, non sapendo che l'avrebbero usato per avvelenare suo figlio.}
-{673}{}{I don't know.}
+{673}{}{Non lo so.}
 {680}{}{E perche' diavolo l'avrebbero fatto?}
 {681}{}{Per come la vedo io, i Mordino hanno il controllo del Jet a Reno. Di conseguenza, voi avreste accusato loro per l'overdose... e poi ci sarebbe stata una guerra. Nel remoto caso in cui non vi foste eliminati a vicenda, vi sareste comunque indeboliti entrambi. Questo avrebbe reso piu' facile la vita ai Salvatore... che a quel punto avrebbero dovuto guardarsi soltanto dai Bishop.}
 {682}{}{Non lo so. Forse dovrebbe chiederlo a loro.}

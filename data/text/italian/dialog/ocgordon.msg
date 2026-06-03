@@ -5,7 +5,7 @@
 {104}{}{Santuario?}
 {105}{}{Me fa domande?}
 {106}{}{Uh... no ricorda. Ciao.}
-{107}{}{E' un piacere conoscerti, Gordon. Io sono }
+{107}{}{E' un piacere conoscerti, Gordon. Io sono}
 {108}{}{E questo tu lo chiami un santuario? A chiunque sia dedicato sono sicuro che quella persona si stara' rivoltando nella tomba!}
 {109}{}{Beh, scusa se ti ho disturbato. Devo andare.}
 {110}{}{Si'. Un santuario e' un luogo di culto, solitamente dedicato ad un dio, a un santo, o ad un altro ente supremo.}

@@ -5,7 +5,7 @@
 {104}{}{Aggle ok too!}
 {105}{}{Me lavora qui?}
 {106}{}{Si', sto cercando il capo carovaniere.}
-{107}{}{Potrei farti qualche domanda a proposito di Chad?}
+{107}{}{Mi chiedevo se potessi farti qualche domanda su Chad.}
 {108}{}{Chi sei?}
 {109}{}{Mi dispiace per Chad. Chi e' il nuovo capo?}
 {110}{}{No, grazie.}

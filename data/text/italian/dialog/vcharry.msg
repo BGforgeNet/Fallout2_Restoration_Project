@@ -23,32 +23,32 @@
  [Ride.] Comunque, credo di avere quello che cerchi, ma fammi controllare dietro. [Harry va nel retrobottega dove senti scatole spostate e mosse. Torna un minuto dopo.] Si', ce l'ho proprio qui. 500$ e' tutta tua.}
 {125}{}{Certo. Ecco i soldi.}
 {126}{}{500? Dannazione. Spero che mi rimborsino per questo. Va bene, ecco i soldi.}
-{127}{}{Thanks for the business. Take care.}
+{127}{}{Grazie per l’affare. Stammi bene.}
 {128}{}{Addio.}
-{129}{}{Connar sent me for the goods.}
+{129}{}{Connar mi ha mandato a prendere la merce.}
 {130}{}{[Gli occhi di Harry guizzano rapidamente, sembra un po' nervoso] Si', certo. Solo un momento...}
 {131}{}{[Harry ti porta i fucili.] Tieni, prendili. Sono diecimila, e facciamo in fretta.}
-{132}{}{Of course, here's the money.}
+{132}{}{Certo, ecco i soldi.}
 {133}{}{Ma Connar mi ha dato solo cinque mila.}
 {134}{}{Ma Connar mi ha dato solo due mila.}
 {135}{}{Non e' un mio problema. Guarda, la mia attivita' fatica gia' abbastanza cosi'. Se qualcuno scopre che sto fornendo armi a Connar, le cose si metteranno davvero male, molto in fretta. Inoltre, gli sto gia' facendo uno sconto.}
 {136}{}{Guarda, ci sto mettendo il collo... Oh, al diavolo, non ho tempo per discutere. Prendili e basta. [Si infila rapidamente i tuoi soldi in tasca.] Ora vattene. E ricorda, non li hai comprati da me.}
 {137}{}{Eccellente. Ma ricorda, non hai comprato queste armi qui.}
-{138}{}{It's a deal. Bye.}
+{138}{}{Affare fatto. Addio.}
 {139}{}{[AVANTI]}
-{140}{}{Well then, wait a bit until I get the money.}
-{141}{}{Well, have you brought the money?}
-{142}{}{What if I just give you five grand?}
-{143}{}{What about two grand?}
+{140}{}{Allora aspetta un po’ mentre recupero i soldi.}
+{141}{}{Allora, hai portato i soldi?}
+{142}{}{E se ti dessi cinquemila?}
+{143}{}{E duemila?}
 {144}{}{Ehmmm... diecimila?! Non ho tutti quei soldi; aspetta un po' finche' non li recupero.}
 {145}{}{Dannazione! Chi diavolo potrebbe avermi denunciato?!}
-{146}{}{Hey! What was I imprisoned for?}
-{147}{}{Well, at least the food's not bad.}
+{146}{}{Ehi! Per cosa sono stato imprigionato?}
+{147}{}{Beh, almeno il cibo non è male.}
 {148}{}{Che cosa stai guardando?}
-{149}{}{What will happen to my shop now?}
+{149}{}{Cosa ne sarà ora del mio negozio?}
 {200}{}{500$? Ehi, magari potresti farmi un qualche sconto, voglio dire, tu e Dave siete amici, giusto?}
 {201}{}{A dire la verita', non mi e' mai importato molto di quel tizio. 500$ per il motore. Prendere o lasciare.}
-{202}{}{Fine. Here's the money.}
-{203}{}{Forget it, I'm outta here.}
-{204}{}{$500!? Forget this, I'm outta here.}
-{1288}{}{Looks like I don't have enough money. Bye.}
+{202}{}{Bene. Ecco i soldi.}
+{203}{}{Lascia perdere. Me ne vado.}
+{204}{}{500$?! Lascia perdere, me ne vado.}
+{1288}{}{Sembra che non abbia abbastanza soldi. Addio.}

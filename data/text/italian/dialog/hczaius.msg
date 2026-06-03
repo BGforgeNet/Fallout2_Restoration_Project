@@ -62,13 +62,13 @@ i pezzi.}
 {159}{}{Lascio.}
 {160}{}{Bene. Lascia pure, allora. Non aspettarti un grazie.}
 {161}{}{Vabbe'.}
-{162}{}{Ehila', amico! }
-{163}{}{Oh, bene... Ancora tu. }
+{162}{}{Ehila', amico!}
+{163}{}{Oh, bene... Ancora tu.}
 {164}{}{Ehila'.}
-{165}{}{Lo sapevo che quei bastardi di Franc, Manson, Jacob e Aileen stavano tramando alle nostre spalle. Ben fatto! Allora... }
-{166}{}{Spero che tu abbia preso una decisione, riguardo al restituire l'uranio alla citta'... allora... }
-{167}{}{Ah, grazie mille per aver venduto l'uranio. D'altro canto, noi non sapremmo proprio cosa farcene... Allora… }
-{168}{}{Grazie mille per aver riconsegnato quell'uranio. Non hai idea di quanto lavoriamo duro per estrarre quella roba. }
+{165}{}{Lo sapevo che quei bastardi di Franc, Manson, Jacob e Aileen stavano tramando alle nostre spalle. Ben fatto! Allora...}
+{166}{}{Spero che tu abbia preso una decisione, riguardo al restituire l'uranio alla citta'... allora...}
+{167}{}{Ah, grazie mille per aver venduto l'uranio. D'altro canto, noi non sapremmo proprio cosa farcene... Allora…}
+{168}{}{Grazie mille per aver riconsegnato quell'uranio. Non hai idea di quanto lavoriamo duro per estrarre quella roba.}
 {169}{}{Allora, cosa vuoi?}
 {170}{}{Puoi dirmi qualcosa sulla citta'?}
 {171}{}{Ho sentito che avete dei problemi con la miniera.}
@@ -102,8 +102,8 @@ i pezzi.}
 {199}{}{Fa' in fretta, ti prego. La miniera e' la linfa vitale della nostra citta'.}
 {200}{}{D'accordo... d'accordo...}
 {201}{}{Beh, credo che le persone piu' adatte con cui parlare di questo argomento siano Marcus, giu' alla banca, o Steve, la guida cittadina.}
-{202}{}{Hmm. D'accordo. }
-{203}{}{Andro' a chiederlo a loro, allora. }
+{202}{}{Hmm. D'accordo, grazie.}
+{203}{}{Andro' a chiederlo a loro, allora.}
 {204}{}{Vorrei poter dire che tutto va bene. Tuttavia si spera sempre che le cose vadano meglio.}
 {205}{}{Eh eh. Grazie per tutte le informazioni.}
 {206}{}{Beh, dal momento che i mutanti non invecchiano rapidamente - pare che il gas li mantenga giovani - direi che le cose vanno piuttosto bene. Voglio dire, noi non vogliamo uccidere nessuno e, per quanto ne so, gli umani non pensano troppo male di noi. Certo, questo non include gli altri umani che vengono dalle citta' qui attorno... quelli si' che sono dei bastardi.}

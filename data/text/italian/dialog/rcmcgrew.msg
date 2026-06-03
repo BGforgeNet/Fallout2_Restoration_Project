@@ -91,8 +91,8 @@
 {190}{}{Un nuovo chip per scavatrici? Cos'e'?}
 {191}{}{Lascia che ti chieda qualcos'altro, Dan.}
 {192}{}{Capisco. Beh, se ne trovo uno te lo faccio sapere. Ci vediamo.}
-{193}{}{E' buffo che tra tutte le persone di questo mondo sia proprio tu a chiedermelo. Ci sono stati un sacco di avvenimenti in citta', ultimamente. }
-{194}{}{Come ti ho detto, se c'e' qualcuno che sa cosa sta succedendo in citta' quel qualcuno sei tu. }
+{193}{}{E' buffo che tra tutte le persone di questo mondo sia proprio tu a chiedermelo. Ci sono stati un sacco di avvenimenti in citta', ultimamente.}
+{194}{}{Come ti ho detto, se c'e' qualcuno che sa cosa sta succedendo in citta' quel qualcuno sei tu.}
 {195}{}{Stai parlando del chip di controllo per le macchine scavatrici?}
 {196}{}{Stai parlando di quella faccenda della prostituta sfregiata?}
 {197}{}{Stai parlando di quella rissa che ho sedato?}
@@ -159,7 +159,7 @@
 {258}{}{Se ne hai un bisogno cosi' disperato, com'e' che non sei andato a prendertelo da solo?}
 {259}{}{Lo faro'. Ci vediamo.}
 {260}{}{Ho una grossa scavatrice pre-bellica pronta per essere usata, ma ha un problema. Non ha cervello.}
-{261}{}{Mi piacerebbe poter dire che non e' certo la sola, in questa citta. Ma mi limitero' ad un semplice: "Che cosa intendi?"}
+{261}{}{Vorrei dire che in questa citta' ha molta compagnia, ma invece diro': Cosa intendi?}
 {262}{}{Non sono quello che si dice un tipo schizzinoso, ma non mi piace il suono che ha la frase "andare a cercare *un po' di cervello*". Addio.}
 {263}{}{Si e' fuso il suo chip di controllo e non posso certo ordinarne uno nuovo. Ma so dove trovarne uno. E sono pronto a pagare 1.000$ per averlo.}
 {264}{}{Dove si trova?}
@@ -197,5 +197,5 @@
 {296}{}{Me ne vado. Non serve che ti fai venire la schiuma alla bocca. Addio.}
 {297}{}{Nessuno dice una cosa del genere a Dan McGrew e la passa liscia.}
 {298}{}{Guarda me.}
-{299}{}{Gia', lo credo... "Dangerous Dan".}
+{299}{}{Gia', lo credo... "Dangerous Dan."}
 {300}{}{Scusami, Dan; non intendevo dire nulla. Stavo solo s-scherzando. Gia', proprio cosi'. Addio.}

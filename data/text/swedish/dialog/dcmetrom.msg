@@ -14,7 +14,7 @@
 {253}{}{You'll get a lot of action if you're in the guild.}
 {254}{}{Talk to Metzger, not me, lady.}
 {255}{}{Metzger's not going to hire a bitch so beat it.}
-{256}{}{Beat it.}
+{256}{}{Stick härifrån.}
 {257}{}{Hey, man.}
 {258}{}{You're lucky you only have to go on the runs.}
 {259}{}{Being a door guard's a boring life.}

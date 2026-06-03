@@ -1,4 +1,4 @@
-{100}{}{You see a medium-sized man wearing dusty clothing.}
+{100}{}{Vedi un uomo di media statura con abiti impolverati.}
 {101}{}{Vedi Bill, il Fornitore.}
 {102}{}{Vedi un uomo di media statura che indossa degli abiti polverosi. Dall'odore si direbbe sia stato a contatto con dei brahmin.}
 {103}{}{Ehila', compare. Cosa posso fare per te?}
@@ -69,9 +69,9 @@
 {168}{}{Addio.}
 {169}{}{In qualsiasi casino si trovi, ha fatto tutto da solo. E' un vero peccato… era davvero un ottimo capo carovaniere. Ti serve qualcosa?}
 {170}{}{Fuori dal mio ufficio. Non ti voglio qui dentro.}
-{171}{}{Sei pronto per andare a Vault City? }
-{172}{}{Sei pronto per andare a NCR? }
-{173}{}{Sei pronto per andare a Gecko? }
+{171}{}{Sei pronto per andare a Vault City?}
+{172}{}{Sei pronto per andare a NCR?}
+{173}{}{Sei pronto per andare a Gecko?}
 {174}{}{La carovana e' stata cancellata. Non ne manderemo altre in quel merdoso buco infernale; non se cercano di uccidere i nostri uomini. Desideri qualcos'altro?}
 {175}{}{Non vorrai mica tirarti indietro proprio adesso?}
 {176}{}{Beh, ho bisogno di passare un po' piu' di tempo a Broken Hills.}
@@ -111,4 +111,4 @@
 {211}{}{[continua]}
 {212}{}{Mi spiace, ma senza Chad che mi aiuti a coordinare il personale, non posso offrire lavoro come facevo in passato. Mi manchera', quel povero bastardo. Morire nel deserto come un brahmin ferito...}
 {213}{}{Mi dispiace. Arrivederci.}
-{214}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to.}
+{214}{}{Mi spiace, ma senza Chad ad aiutarmi a gestire il personale non posso distribuire lavoro come prima.}

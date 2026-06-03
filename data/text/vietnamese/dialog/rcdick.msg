@@ -97,7 +97,7 @@
 {176}{}{Well, not right now it ain't. Haven't you heard anything I've said? It's filled with them damn
  Wanamingos. But if'n someone was to clean the place out - well that'd be a brahmin of a differ'nt
  color. Heck, you wouldn't even have to kill all of 'em.}
-{177}{}{What do you mean?}
+{177}{}{Ý cậu là sao?}
 {178}{}{Brahmin of a different color? Is that like a pink pachyderm? I'm going to leave you and your
  delirium alone now. Goodbye.}
 {179}{}{Well, there's some stuff in there that the owners of the Morningstar and the Kokoweef mines here

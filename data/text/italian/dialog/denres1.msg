@@ -1,1 +1,1 @@
-{100}{}{You have entered the residential end of The Den.}
+{100}{}{Sei entrato nella zona residenziale del Den.}

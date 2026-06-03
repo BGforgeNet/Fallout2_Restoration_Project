@@ -33,7 +33,7 @@
 {180}{}{Molte persone pensano che sia facile. Pensano che chiunque possa far funzionare un reattore nucleare. Ma non e' roba per gente inesperta o per i deboli di cuore. Io domino il potere dell'atomo, qui dentro!}
 {181}{}{Sono davvero impressionato.}
 {182}{}{Beh, non voglio trattenerti oltre. Ci vediamo.}
-{190}{}{Sarebbe bello poter avere un po' d'aiuto. Ma, vedi, nessun altro qui ha i requisiti necessari per fare quello che faccio io. Non riescono a capire neanche le basi, di quello che faccio!}
+{190}{}{Sarebbe bello poter avere un po' d'aiuto. Ma, vedi, nessun altro qui ha i requisiti necessari per fare quello che faccio io. Non riescono a capire neanche le basi, di quello che faccio.}
 {191}{}{Come fa certa gente a pensare di poter essere al tuo livello? Tu sei superiore a tutti.}
 {192}{}{Sei davvero un tipo speciale, non ci sono dubbi. Ci vediamo.}
 {200}{}{E' proprio cosi'. Mi fa piacere che tu capisca al volo certe cose. Se io non fossi cosi' occupato con la centrale, governerei Gecko. E lascia che te lo dica, la governerei bene.}

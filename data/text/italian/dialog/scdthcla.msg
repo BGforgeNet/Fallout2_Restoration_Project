@@ -5,7 +5,7 @@
 {104}{}{Zzzz...Zzz... huhh, che cos...?}
 {105}{}{Guarda - Umano sorveglia brahmin.}
 {106}{}{Gruthar dice noi va. No fa male a umano.}
-{107}{}{Guarda.}
+{107}{}{Guarda}
 {108}{}{. Noi va.}
 {109}{}{Che strano. Cosi cattivi parlare?}
 {110}{}{Deathclaw parlanti? Che strano...}

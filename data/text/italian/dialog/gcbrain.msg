@@ -49,7 +49,7 @@
 {222}{}{Ne ho abbastanza delle tue maldestre intromissioni. Zomak! Uccidi questo pazzo per me.}
 {230}{}{Riparare il reattore e' stato un ottimo primo passo. Ma bisogna fare un altro sforzo per assicurare la sopravvivenza di Gecko e Vault City.}
 {231}{}{Un altro sforzo?}
-{232}{}{Tutt'a un tratto sei diventato un cittadino impegnato nel sociale?}
+{232}{}{Guarda un po’, adesso fai il cittadino premuroso.}
 {233}{}{Credo di aver sentito piu' che abbastanza. Addio.}
 {234}{}{Perche' un ratto gigante parlante si interessa cosi' tanto di tutto questo?}
 {240}{}{Hai fatto un buon lavoro. Sia Vault City che Gecko hanno motivo di gioire. Adesso che il nostro reattore funziona a massimo regime, il mio piano di conquista del mondo potrebbe essere vicino alla sua realizzazione. Adesso puoi andartene. Ho del lavoro da fare.}
@@ -96,9 +96,9 @@
 {381}{}{Poi cosa?}
 {390}{}{Sono strisciato fuori. Mentre cominciavo a riprendermi, notai che ero cambiato. Provavo a comunicare con le persone, ma tutti cercavano di uccidermi. Gli umani sono troppo violenti per sopravvivere senza una guida forte -- ma questa e' un'altra storia. Il primo passo e' riparare il reattore.}
 {391}{}{Riparare il reattore?}
-{400}{}{You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
- then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
- themselves in the long run, as well.}
+{400}{}{Per riparare il reattore Gecko, devi procurarti un Regolatore di Magnetosfera Idroelettrica da Vault City. Se non lo fai,
+Vault City attaccherà senza dubbio Gecko. Ovviamente, distruggendo il reattore, si condanneranno
+anche loro a lungo termine.}
 {401}{}{Condannati anch'essi? Cosa intendi dire?}
 {402}{}{Perche' mai Vault City dovrebbe dare proprio a me un dispositivo per la centrale nucleare di Gecko?}
 {410}{}{Dovrai dimostrare che e' nel loro miglior interesse farlo. E' cosi' facile manipolare le persone con la promessa di un guadagno...}
@@ -152,7 +152,7 @@
 {632}{}{Hai fatto analizzare il disco con i dati relativi al reattore, adesso devi farci qualcosa.}
 {633}{}{Il nostro reattore nucleare ha bisogno di un certo dispositivo se vogliamo avere qualche speranza di farlo funzionare alla massima efficienza.}
 {634}{}{Hai ottenuto i dati dei quali abbiamo bisogno per ottimizzare il nostro reattore nucleare. Adesso tutto quello che devi fare e' consegnarli a Festus.}
-{635}{}{Perche' non mi dici cos'e' che proponi?}
+{635}{}{Perche' non mi dici cosa stai proponendo, qualunque cosa sia.}
 {636}{}{Usare il disco con i dati del reattore? E come dovrei fare?}
 {637}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {638}{}{Un dispositivo? Che tipo di dispositivo?}
@@ -168,30 +168,30 @@
 {656}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {657}{}{Ad esempio?}
 {658}{}{Un dispositivo? Che tipo di dispositivo?}
-{659}{}{Perche' non mi parli di questo ultimo sforzo? Potrei anche decidere di aiutarti.}
+{659}{}{Perche' non mi spieghi quest’ultimo passaggio e poi vedro' se aiutarti.}
 {670}{}{Il reattore, sempre il reattore (sigh). Torna quando avrai ottenuto qualche risultato con il reattore.}
 {671}{}{Torna piu' tardi. Sto comunicando con un potere superiore, o qualcosa del genere (sheesh).}
 {672}{}{Senti, se non ritiri gli attacchi, la gente del villaggio potrebbe finire schiavizzata da Vault City.}
 {700}{}{Non ho nient'altro da dirti.}
 {701}{}{Va bene brutto figlio di puttana, ora ho un nuovo accordo per te: o ritiri i tuoi roditori, o ti giuro che faccio saltare il dannato reattore!}
 {702}{}{Va bene, va bene... Considera fatto. Solo, non toccare il reattore. (borbotta) Maledetti umani psicotici...}
-{703}{}{Now that we're in agreement, what were you saying about the optimization?}
-{704}{}{It's settled then. Goodbye.}
+{703}{}{Ora che siamo d’accordo, cosa stavi dicendo riguardo all’ottimizzazione?}
+{704}{}{Allora è deciso. Addio.}
 {705}{}{Hai raggiunto un accordo sui talpe-ratto con Il Cervello.}
 {706}{}{Le pattuglie di Vault City continuano a essere attaccate dai talpe-ratto. Suppongo che tu sia dietro a questo?}
 {707}{}{Chiedi il mio aiuto, eppure lasci un compito a meta'. (tra se') Tipico umano. (a te) Ottimizza il reattore, allora, e solo allora, ti assistero'.}
-{708}{}{That depends. What is it?}
+{708}{}{Dipende. Di cosa si tratta?}
 {709}{}{Ascoltami bene, ratto radioattivo. Stai davvero iniziando a farmi incazzare. Hai detto che il tuo "simile" aveva tirato le cuoia... Be', voglio che tu sappia -- sono stato io a finirlo. E ora penso che finiro' il lavoro di rendere la tua specie estinta.}
 {710}{}{Ascoltami bene, ratto radioattivo. Stai davvero iniziando a farmi incazzare. Penso che sia ora che io metta fine a questa follia.}
-{711}{}{I need to think this over.}
+{711}{}{Devo pensarci su.}
 {712}{}{Molto interessante... e qui pensavo che fossi preoccupato per il benessere di Vault City. Comunque, la sicurezza di quel villaggio e' parte integrante del mio piano. Pertanto, accettero' la tua richiesta, umano.}
 {713}{}{Mi sembra che, poiche' hai riparato e ottimizzato il reattore, ti meriti il mio aiuto. Cosa vuoi?}
-{714}{}{Thank you! What were you saying about the optimization?}
-{715}{}{Thank you! Bye.}
+{714}{}{Grazie! Cosa stavi dicendo riguardo all’ottimizzazione?}
+{715}{}{Grazie. Arrivederci.}
 {716}{}{Sembra che Gordon ti abbia gia' consegnato questo rapporto economico di cui parlo. Portalo subito a Vault City.}
 {717}{}{Lo faro'.}
 {718}{}{Umm... Si', forse piu' tardi.}
-{719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
-{720}{}{Very well, I shall help you.}
+{719}{}{Devi assolutamente recuperare un Regolatore Idroelettrico di Magnetosfera da Vault City per riparare il reattore di Gecko. Se non lo farai, Vault City attaccherà sicuramente Gecko. Se mi aiuterai, esaudirò la tua richiesta. Allora… ti unirai a noi?}
+{720}{}{Molto bene, ti aiuterò.}
 {721}{}{No, vaffanculo cervello di ratto! Ne ho abbastanza. E' ora di morire!}
 {4211}{}{Uh, credo che faro' meglio ad andare da Gordon a prendere quel disco. A dopo.}

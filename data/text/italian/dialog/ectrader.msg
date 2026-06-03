@@ -18,7 +18,7 @@
 {117}{}{[Fine]}
 {118}{}{Merda! Che spreco di tempo. Su, sparisci!}
 {119}{}{[Fine]}
-{120}{}{Bene, un discorso sprecato. }
+{120}{}{Bene, un discorso sprecato. $}
 {121}{}{Ci'.}
 {122}{}{No.}
 {123}{}{Ehi, e' di nuovo lei. Ho della roba nuova - le interessa?}

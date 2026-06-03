@@ -51,7 +51,7 @@
 {194}{}{Spero tu ti sia divertito quanto Francis.}
 {195}{}{Quella povera gente.}
 {196}{}{Sai cos'e' successo?}
-{197}{}{(see other floats from 1)}
+{197}{}{(vedi altri fumetti da 1)}
 {198}{}{E' bello averti qui in citta'.}
 {199}{}{Ti fermerai qui per un po'?}
 {200}{}{Spero ti piaccia stare qui!}

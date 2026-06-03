@@ -1,20 +1,20 @@
 {100}{}{Vedi un uomo di colore dall'aspetto possente.}
 {101}{}{Vedi Earl Marion, lo Sceriffo di Redding.}
 {102}{}{Vedi un uomo ben piantato che ti osserva con attenzione.}
-{103}{}{Sei un buffet con qualche tartina in meno, eh?}
+{103}{}{Ti manca un pezzo per fare il piatto completo.}
 {104}{}{Qui non facciamo la carita'. Fuori!}
 {105}{}{Sei un Happy Meal senza le patatine, eh?}
 {106}{}{Vattene, cucciolo.}
 {107}{}{Vattene.}
-{108}{}{Ehila'. Io sono Earl Marion. E sono lo Sceriffo, da queste parti. Ha un che di pittoresco, non trovi? Beh, questo e' il mio lavoro. }
+{108}{}{Ehila'. Io sono Earl Marion. E sono lo Sceriffo, da queste parti. Ha un che di pittoresco, non trovi? Beh, questo e' il mio lavoro.}
 {109}{}{Cosa puo' fare per te lo sceriffo Marion?}
-{110}{}{Come Sceriffo, e' mio dovere chiederti quali sono i tuoi affari qui in citta'.}
+{110}{}{In quanto Sceriffo, devo chiederti cosa fa qui in citta'?}
 {111}{}{Sono qui per far casino e masticare chewing-gum - e ho appena finito il chewing-gum.}
 {112}{}{Non daro' problemi. Me ne stavo giusto andando. Addio.}
 {113}{}{Salve, Ranger. Mi chiamo Earl Marion e sono lo Sceriffo di Redding. Felice di averti in citta', Ranger.}
 {114}{}{Ehila', Ranger. Cosa puo' fare per te lo sceriffo Marion?}
 {115}{}{Come sai che sono un Ranger?}
-{116}{}{Come Sceriffo, e' mio dovere chiederti quali sono i tuoi affari qui in citta'.}
+{116}{}{In quanto Sceriffo, devo chiederti cosa fa qui in citta'?}
 {117}{}{E' bello essere qui. Sono solo di passaggio, Sceriffo. Ci vediamo. Arrivederci.}
 {118}{}{Semplice. Hai un tatuaggio sulla nuca.}
 {119}{}{Non e' vero.}
@@ -109,7 +109,7 @@
 {208}{}{Grazie, Sceriffo; ne sono onorato. Non lo infanghero' con azioni riprovevoli.}
 {209}{}{Diamine, mi sento gia' piu' importante. A dopo.}
 {210}{}{Ehila'. Mi dispiace che tu non abbia potuto aiutarmi, prima. Sei tornato perche' hai cambiato idea?}
-{211}{}{Forse. Potresti ripetermi quello che dovrei fare?}
+{211}{}{Forse. Dimmi di nuovo cosa devo fare.}
 {212}{}{No, stavo solo facendo una passeggiata per la citta'. Arrivederci.}
 {213}{}{Felice di rivederti. Tuttavia, prima che ti possa pagare ti devi occupare di quel problema con la vedova Rooney.}
 {214}{}{Certo. Uh, cos'e' che dovevo fare?}

@@ -44,7 +44,7 @@
 {143}{}{Ecco l'ultima risorsa di tutti i primitivi dalla mente ristretta. E' cosi' facile notare cosa vi differenzia dai veri umani come noi.}
 {144}{}{Lei e' cosi' dannatamente sicuro di se', eh?}
 {145}{}{Fottuto bigotto che non sei altro. Qualcuno deve mettere fine alla tua vita... immediatamente.}
-{146}{}{Non credo di aver molto da dire ad un mutante. Presto, quando i veri umani si saranno ripresi il pianeta, tu sarai soltanto un altro degli spiacevoli ricordi della guerra.}
+{146}{}{Non credo di aver molto da dire ad un mutante. Presto, quando i veri umani si saranno ripresi il pianeta, tu sarai soltanto un altro degli spiacevoli ricordi della guerra. }
 {147}{}{Veri umani? Di che cosa sta parlando? Sono umano quanto lei.}
 {148}{}{Ce l'ho io, uno spiacevole ricordo per te... proprio qui, nella mia fondina.}
 {149}{}{Guardie! Aiuto! Guardie!}
@@ -57,11 +57,11 @@
 {156}{}{No, ti sbagli. In realta' sei molto diverso da me, o almeno lo e' il tuo DNA. Un malaugurato effetto di anni di esposizione alla radiazione di fondo, immagino.}
 {157}{}{E queste leggere differenze nel DNA hanno davvero tanta importanza?}
 {158}{}{Non so esattamente di cosa stia parlando, ma queste leggere differenze hanno davvero tanta importanza?}
-{159}{}{Oh, il tuo DNA e' molto piu' che *leggermente* diverso. E' molto diverso. Se il Progetto non avesse dei tempi da rispettare, mi piacerebbe svolgere degli altri esperimenti sulla tua gente... oltre agli esami tossicologici relativi al FEV, naturalmente. Un lavoro davvero interessante. }
+{159}{}{Oh, il tuo DNA e' molto piu' che *leggermente* diverso. E' molto diverso. Se il Progetto non avesse dei tempi da rispettare, mi piacerebbe svolgere degli altri esperimenti sulla tua gente... oltre agli esami tossicologici relativi al FEV, naturalmente. Un lavoro davvero interessante.}
 {160}{}{Che cosa ti interessa sapere?}
 {161}{}{Come mai il nostro DNA e' diverso?}
 {162}{}{State svolgendo degli esperimenti sulla mia tribu'?}
-{163}{}{Che cosa diavolo e' "il Progetto"?}
+{163}{}{Che cosa diavolo e' "il Progetto?"}
 {164}{}{Ho sentito abbastanza. Ti meriti d'essere ammazzato come un gecko idrofobo. Addio, rottinculo.}
 {165}{}{Esistono diverse differenze molto sottili, principalmente. Tuttavia, non ho ancora avuto il tempo di studiare le ramificazioni di questi cambiamenti. Inoltre devo isolare il vostro corredo genomico originario, prima di azzardare qualche ipotesi sulla direzione che questi cambiamenti hanno intrapreso. Tutto sommato, pero', le informazioni in nostro possesso sono sufficientemente chiare.}
 {166}{}{Cos'e' sufficientemente chiaro? Quali informazioni?}
@@ -107,7 +107,7 @@
 {206}{}{Non e' lampante, mio mutato amico? Il FEV e', grazie a me, una tossina letale e, grazie ad un misterioso genio chiamato - con un certa dose di drammaticita' - il Master, agisce solamente sugli umani, mutati e non.}
 {207}{}{E allora?}
 {208}{}{Cio' significa che abbiamo a disposizione lo strumento perfetto per l'eliminazione totale di tutti i mutanti umanoidi che infestano il pianeta.}
-{209}{}{Ancora non riesco a capire perche' e' "perfetto".}
+{209}{}{Ancora non riesco a capire perche' e' *perfetto.*}
 {210}{}{Voglio chiederle qualcosa a proposito di qualcun'altra delle sue folli idee.}
 {211}{}{La tossina FEV colpira' soltanto gli umani, lasciando tutto il resto in vita. Meglio ancora, entro un mese tutti i mutanti saranno morti e la tossina FEV scomparira' non appena non ci saranno piu' ospiti viventi.}
 {212}{}{Non credo che abbiate un numero sufficiente di vertibird per diffondere la tossina in tutto il globo.}
@@ -144,10 +144,10 @@
 {243}{}{Dovresti disattivare il generatore di energia. Il reattore e' controllato da un grande computer situato nelle immediate vicinanze del reattore stesso. Non so esattamente cosa dovrai fare, pero'.}
 {244}{}{La ringrazio per le informazioni che mi ha dato. Il suo sacrificio verra' ricordato da tutti i popoli della terra.}
 {245}{}{Era ora che tornassi in te, vecchio tacchino. Adesso sbrighiamoci.}
-{246}{}{When the stars threw down their spears,}
-{247}{}{                      And water'd heaven with their tears,}
-{248}{}{                            Did he smile his work to see?}
-{249}{}{                                  Did he who made the Lamb make thee?}
+{246}{}{Quando le stelle gettarono le loro lance,}
+{247}{}{                      E bagnarono il cielo con le loro lacrime,}
+{248}{}{                            Sorrise egli vedendo la sua opera?}
+{249}{}{                                  Colui che fece l'Agnello fece anche te?}
 {250}{}{Eh?}
 {251}{}{Oh, e' solo una cosa che ricordo di un poeta morto da molto tempo. Mi chiedo se c'e' ancora posto per quelli che hanno cosi' a lungo operato per raggiunere una fine cosi' tetra. Il nostro tempo si e' concluso, il vostro e' appena cominciato. Sbrigati!}
 {252}{}{Oh, okay, grazie dell'aiuto, dottore. Lei e' un uomo valoroso.}

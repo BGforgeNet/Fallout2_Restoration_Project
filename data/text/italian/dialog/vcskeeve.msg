@@ -7,7 +7,7 @@
 {106}{}{Smamma. Non ho niente da dirti.}
 {107}{}{Oh, uh, ehi, Capitano. E' una bella giornata, vero?}
 {108}{}{Beh, che mi venga un colpo se quello non e' il nuovo Cittadino.}
-{109}{}{Ehila', "Cittadino".}
+{109}{}{Ehila', "Cittadino."}
 {110}{}{Non puoi portare mutanti qui dentro.}
 {111}{}{Non puoi portare ghoul qui dentro.}
 {112}{}{Siamo chiusi per la notte. Torna domani mattina.}
@@ -28,9 +28,9 @@
 {127}{}{Quali altri modi?}
 {128}{}{Grazie. Allora andro' da Wallace.}
 {129}{}{Qualche consiglio? Beh, i consigli costano, Esterno. Hai del denaro con te?}
-{130}{}{-Dagli 50$-}
-{131}{}{-Dagli 75$-}
-{132}{}{-Dagli 100$-}
+{130}{}{Dagli 50$.}
+{131}{}{Dagli 75$.}
+{132}{}{Dagli 100$.}
 {133}{}{Quelli che ho non credo possano stimolare il tuo interesse. Tornero' quando avro' qualche dollaro in piu'.}
 {134}{}{Come non detto. Magari sara' per un'altra volta.}
 {135}{}{Beh, ci sono un paio di cose che potresti fare. Una di queste e' diventare un Cittadino. Non perquisiscono mai i Cittadini. Naturalmente le tue chance di diventare un Cittadino sono praticamente pari a zero.}
@@ -64,14 +64,14 @@
 {163}{}{Beh, duecento sono un pochino troppi. Ho solo 150$ con me.}
 {164}{}{Non ho tutti quei soldi. Magari sara' per un'altra volta.}
 {165}{}{No, grazie. Magari un'altra volta.}
-{166}{}{Semplice. Non ti CREDEREBBERO. Tu sei un Esterno, io sono un Cittadino. Indovina un po' a chi daranno ascolto...}
+{166}{}{Semplice. Non ti CREDEREBBERO. Tu sei un Esterno, io sono un Cittadino. Indovina un po' a chi daranno ascolto?}
 {167}{}{Prendero' i documenti, allora.}
 {168}{}{Prendero' quei documenti... ma per 150$, non 200$.}
 {169}{}{Beh, 200$ e' un prezzo troppo alto per me. Tornero' quando avro' piu' soldi.}
 {170}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {171}{}{Hmmm. Beh, okay... oggi mi sento generoso. Ma non dire ai tuoi amici Esterni che te li ho dati per cosi' poco.}
 {172}{}{Okay.}
-{173}{}{E dammi quei dannati documenti, su!}
+{173}{}{Dammi solo i dannati documenti.}
 {174}{}{Okay, ho appena finito di stamparli. Ecco qua... "Cittadino". E non parlare di questo nostro affare con nessuno, e SOPRATTUTTO non parlarne con Wallace, d'accordo?}
 {175}{}{Nessun problema. Non mi passerebbe nemmeno per l'anticamera del cervello di fare una cosa del genere ad un Cittadino onesto come te, specialmente quando ho qui nella mia tasca la prova delle tue attivita' illegali.}
 {176}{}{Certo. Nessun problema.}
@@ -105,25 +105,25 @@
 {204}{}{Hurnh?}
 {205}{}{-Allontanati-}
 {206}{}{Vieni come me un attimo, ritardato. Voglio farti conoscere qualcuno.}
-{207}{}{Gi'!}
-{208}{}{Nuh-uh ME STA!}
+{207}{}{Okee-dokeee}
+{208}{}{No-no IO RESTO}
 {209}{}{Ho trovato questo Esterno che vagava nelle lande, Barkus. Mi pare che possa diventare un buon Servo.}
 {210}{}{Ho trovato questa cricca che vagava nelle lande, Barkus. Questo Esterno mi pare che possa diventare un buon Servo.}
-{211}{}{2 Seconds}
+{211}{}{2 Secondi}
 {212}{}{Stai scherzando, VERO? Si vede lontano un miglio che e' un mentecatto.}
-{213}{}{1 Second, don't remove Barkus' float yet.}
+{213}{}{1 Secondo, non rimuovere ancora il float di Barkus.}
 {214}{}{Cacco! Pupu'!}
-{215}{}{2 Seconds}
+{215}{}{2 Secondi}
 {216}{}{Dai. Non ti serve qualcuno che lavori al Vault?}
-{217}{}{1 Second, don't remove Barkus' float yet.}
+{217}{}{1 Secondo, non rimuovere ancora il float di Barkus.}
 {218}{}{Valt! Gechkk!}
-{219}{}{2 Seconds}
+{219}{}{2 Secondi}
 {220}{}{Beh...hmmm. Immagino tu voglia una ricompensa, giusto?}
-{221}{}{2 Seconds}
+{221}{}{2 Secondi}
 {222}{}{E gli Esterni si mangiano le loro feci? CERTO che voglio una ricompensa.}
-{223}{}{1 Second, Don't remove Skeev's float}
+{223}{}{1 Secondo, non rimuovere il float di Skeev}
 {224}{}{Pessa? Pissaaaaaa!}
-{225}{}{1 Second}
+{225}{}{1 Secondo}
 {226}{}{Molto bene. Vorra' dire che lo mandero' al Vault. FORSE potra' pulire i magazzini.}
 {227}{}{Whoa. Come hai fatto a scappare?}
 {228}{}{Whoa. Come hai fatto a scappare? Faresti meglio a tornare dentro prima che Barkus s'arrabbi. Forza...}

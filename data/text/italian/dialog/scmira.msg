@@ -46,8 +46,8 @@
 {145}{}{Cosa mi sai dire di quel tipo, Merk?}
 {146}{}{C'e' un poliziotto in citta' che dice delle cose non molto carine su di te. Cosa puoi dirmi di lui?}
 {147}{}{Beh, questo blocca l'idea sul nascere.}
-{148}{}{Si chiama NCR. Una volta il suo nome era Shady Sands, ma dopo la disfatta del Master, Aradesh e gli altri fondarono la Repubblica. Oggi NCR si trova proprio sul suo confine settentrionale. Tutto cio' che c'e' a sud e' sotto il governo della Repubblica. }
-{149}{}{Ti do un consiglio. Sta' alla larga da questa citta'. I giudici non sono molto clementi con i tipi come noi, se capisci quel che voglio dire. I cittadini hanno molti piu' diritti di te. }
+{148}{}{Si chiama NCR. Una volta il suo nome era Shady Sands, ma dopo la disfatta del Master, Aradesh e gli altri fondarono la Repubblica. Oggi NCR si trova proprio sul suo confine settentrionale. Tutto cio' che c'e' a sud e' sotto il governo della Repubblica.}
+{149}{}{Ti do un consiglio. Sta' alla larga da questa citta'. I giudici non sono molto clementi con i tipi come noi, se capisci quel che voglio dire. I cittadini hanno molti piu' diritti di te.}
 {150}{}{Ascolta, questo e' tutto quello che posso dirti.}
 {151}{}{Hmm.}
 {152}{}{Ancora un paio di domande...}

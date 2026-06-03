@@ -35,7 +35,7 @@
 {250}{}{(La donna calva non alza nemmeno lo sguardo dalla sua cartellina.) Si'?}
 {251}{}{No!}
 {252}{}{Si'!}
-{253}{}{Heh-heh. Tu pelata. Tu sembrare uomo.}
+{253}{}{Heh-heh. Tu pelata. Tu sembrare uomo}
 {254}{}{Delenn?}
 {255}{}{-Allontanati-}
 {256}{}{Chi sei?}
@@ -56,7 +56,7 @@
 {310}{}{Guardie! Guardie! Fermate questa persona!}
 {315}{}{ALTRE guardie. Ah! Come se servissero davvero a qualcosa...senti, DOVRESTI aver ricevuto delle istruzioni da chi ti ha mandato qui. Parla con le altre guardie per sapere i tuoi compiti. Adesso va'.}
 {316}{}{Non sono una guardia; sono uno dei nuovi ricercatori. Ha qualche compito per me?}
-{317}{}{Mi scusi, ma speravo che LEI potesse mostrarmi questa installazione. L'ho vista stare qui e ho sentito il BISOGNO di parlare con lei. Forse dopo il giro potremmo andare a cena insieme e...}
+{317}{}{Mi scusi, ma speravo che LEI potesse mostrarmi questa installazione. L'ho vista stare qui e ho sentito il BISOGNO di parlare con lei. Forse dopo il giro potremmo andare a cena insieme...?}
 {318}{}{Grazie. Mi sei stata di *grande* aiuto.}
 {325}{}{Tu sei un RICERCATORE...? Hmmmm. Non ti ho mai visto prima. Quanto sei preparato in materia di ricerca farmaceutica?}
 {326}{}{Uh, abbastanza. Spostati un attimo e ti faro' vedere come vado.}

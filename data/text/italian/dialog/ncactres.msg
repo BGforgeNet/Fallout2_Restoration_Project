@@ -110,7 +110,7 @@
 {355}{}{Vuoi aiutarmi a ripassare la mia parte?}
 {356}{}{Potresti procurarmi un po' di Jet?}
 {357}{}{Queste scene mi stanno apren... er, stancando molto.}
-{358}{}{Quello che vorrei, in realta', e' fare la regista...}
+{358}{}{Venuto ad assaggiare un po’ della nostra cucina?}
 {359}{}{Bel pezzo di ferro hai li'.}
 {360}{}{I miei fidanzati non sanno che lavoro qui. Non che mi interessi quello che pensano.}
 {361}{}{Se stai cercando compagnia, piu' tardi non ho nulla da fare.}

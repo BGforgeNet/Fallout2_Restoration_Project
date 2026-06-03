@@ -1,8 +1,8 @@
-{100}{}{You see a Warrior.}
+{100}{}{Vedi un Guerriero.}
 {101}{}{Vedi un guerriero dall'aspetto feroce. Della schiuma gli cola dal mento.}
-{102}{}{One of the Doctor's personal bodyguards.}
-{103}{}{We will kill you!}
-{104}{}{Leave the Doctor alone!}
-{105}{}{I hate the Doctor!}
-{106}{}{Protect the Doctor!!!}
-{107}{}{I don't talk to you.}
+{102}{}{Una delle guardie del corpo personali del Dottore.}
+{103}{}{Ti uccideremo!}
+{104}{}{Lasciate in pace il Dottore!}
+{105}{}{Odio il Dottore!}
+{106}{}{Proteggete il Dottore!!!}
+{107}{}{Non parlo con te.}

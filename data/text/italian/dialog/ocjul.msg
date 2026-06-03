@@ -5,7 +5,7 @@
 {104}{}{Okay. Me va via.}
 {105}{}{Cosa essere questo posto?}
 {106}{}{Chi tu?}
-{107}{}{D'accordo, me ne vado.}
+{107}{}{D'accordo, me ne vado}
 {108}{}{Io vado dove voglio, alito di lucertola!}
 {109}{}{Cos'e' questo posto?}
 {110}{}{Chi sei?}
@@ -17,10 +17,10 @@
 {116}{}{Chi sei?}
 {117}{}{Mi piacerebbe parlare con la Madre.}
 {118}{}{Io Jul. Guerriero del branco. Io fa la guardia a nido. Io fa la guardia a Madre.}
-{119}{}{Me }
+{119}{}{Me}
 {120}{}{Me va ora.}
 {121}{}{Fare guardia a madre lavoro importante. Tu importante.}
-{122}{}{Io sono }
+{122}{}{Io sono}
 {123}{}{Fare la guardia alla Madre e' un incarico di grande responsabilita'. Tu devi essere un membro importante del branco.}
 {124}{}{Credo che adesso andro' via.}
 {125}{}{Tu aspetta. Io chiede a Madre.}

@@ -1,4 +1,4 @@
-{100}{}{Vedi un vecchio. }
+{100}{}{Vedi un vecchio.}
 {101}{}{Vedi Chris, il gestore del distributore di benzina.}
 {102}{}{Vedi un vecchio dall'aspetto trasandato che indossa una vestaglia viola.}
 {103}{}{Ehila', straniero. Capperi! Guarda che bolide. Non ne vedevo uno cosi' da anni. Cosa puo' fare per te il vecchio Chris?}

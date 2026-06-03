@@ -1,14 +1,14 @@
-{100}{}{You see a functional computer.}
-{101}{}{You see the EPA's Top Secret Research and Development Terminal.}
+{100}{}{Vedi un computer funzionante.}
+{101}{}{Vedi il Terminale Ricerca e Sviluppo Top Secret dell'EPA.}
 {102}{}{Benvenuto nel Terminale Top Secret di Ricerca e Sviluppo dell'EPA. Errore nell'inizializzazione della procedura di accesso rapido. Per favore,
  cerca qualcosa di specifico.}
-{103}{}{Search for anything of importance.}
+{103}{}{Cerca qualcosa di importante.}
 {104}{}{Esci.}
 {105}{}{Dopo 30 minuti passati a setacciare tutti i file, ne trovi quattro che sembrano utili. Per favore, scegli qui sotto.}
-{106}{}{Access FEV history log.}
+{106}{}{Accedi al registro storico del FEV.}
 {107}{}{Accedi al file sulla cura dell'epilessia.}
-{108}{}{Keep searching.}
-{109}{}{Please make a choice below.}
+{108}{}{Continua a cercare.}
+{109}{}{Scegli un'opzione qui sotto.}
 {110}{}{Con l'aumentare delle tensioni tra Stati Uniti e Cina, uno dei timori principali dei nostri ufficiali militari
  era che i cinesi potessero usare armi biologiche contro le truppe americane. Di conseguenza, la West Tek, un importante appaltatore
  della difesa ad alta tecnologia, venne incaricata di sviluppare un agente di contrasto. Questo porto' la West Tek a ricercare il Pan-Immunity Virion
@@ -28,10 +28,10 @@
  (e le inflessioni corrette) usate dal dottor Hodkin nei suoi esperimenti. Una notizia meravigliosa e un ottimo inizio per
  ulteriori ricerche sui disturbi neurologici cronici.}
 {121}{}{Potrebbe essere utile. Prendi nota della sequenza e cerca qualcos'altro.}
-{130}{}{You find nothing more of interest.}
-{131}{}{You still find nothing more of interest.}
+{130}{}{Non trovi nient'altro di interessante.}
+{131}{}{Non trovi ancora nient'altro di interessante.}
 {132}{}{Forse, cercando un po' di piu', potresti trovare qualcosa?}
-{133}{}{Maybe one more search?}
+{133}{}{Forse un'altra ricerca?}
 {134}{}{Dopo una lunga e faticosa ricerca, trovi un file nascosto.}
 {135}{}{Accedi al file etichettato: Progetto di Fluorizzazione di Massa.}
 {136}{}{Nell'ulteriore tentativo di rendere i cittadini degli Stati Uniti piu' controllabili, l'inclusione di fluoruro
@@ -43,9 +43,9 @@
 {138}{}{Nella nostra sperimentazione piu' recente, abbiamo scelto come soggetto l'ufficiale militare, Generale J. Ripper. Inizialmente,
  non era consapevole delle nostre intenzioni, ma ora sembra aver capito. E' diventato ossessionato dalla frase "preziosi fluidi
  corporei" ed evita di bere qualsiasi sostanza di cui non conosca l'origine. Ha persino smesso di avere rapporti sessuali,
- temendo che le donne cerchino "l'essenza vitale".}
+ temendo che le donne cerchino "l'essenza vitale."}
 {139}{}{Indietro.}
-{150}{}{Gender Modification.}
+{150}{}{Modifica del Sesso.}
 {151}{}{Moscerini della frutta carichi di virus.}
 {160}{}{Il dottor Glen Wood ha ottenuto una nuova svolta nella sua ricerca sulla modifica del genere, che sostiene rivoluzionera'
  gli sforzi di spionaggio del nostro paese. Con una semplice procedura, un uomo potrebbe diventare una donna, o viceversa.
@@ -59,4 +59,4 @@
 {311}{}{Whirrrr....}
 {312}{}{BEEP!!}
 {313}{}{Clunk...}
-{1311}{}{Don't give up. Something is bound to be found.}
+{1311}{}{Non mollare. Di sicuro si trovera' qualcosa.}

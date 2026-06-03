@@ -1,1 +1,1 @@
-{100}{}{There is a rope attached.}
+{100}{}{C'e' una corda attaccata.}

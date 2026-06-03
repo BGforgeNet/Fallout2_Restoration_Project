@@ -52,7 +52,7 @@
 {199}{}{Scusa.}
 {200}{}{Hmm, tornero' piu' tardi.}
 {201}{}{Hmm. Fammi chiamare qualcuno a tenere il bancone. Tu ed io possiamo andare nel retro e giocare 
- a un piccolo gioco che chiamo "Primo Colpo". Se sei bravo, beh, c'e' anche "Zona Zero".}
+ a un piccolo gioco che chiamo "Primo Colpo". Se sei bravo, beh, c'e' anche "Zona Zero."}
 {202}{}{OK!}
 {203}{}{Er... uh... devo andare.}
 {205}{}{Te la sei cavata.}

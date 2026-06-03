@@ -81,18 +81,17 @@ Usando una leva dovresti essere in grado di forzare questa porta.}
 {174}{}{, a causa della sua goffaggine, ha bloccato la serratura.}
 {175}{}{ non riesce a scassinare la serratura.}
 {176}{}{Forzi la serratura.}
-{177}{}{Nel tentativo di forzare il contenitore, ti stiri la schiena e subisci un punto di danno.}
-{178}{}{Nel tentativo di forzare il contenitore, ti stiri la schiena e subisci }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and take }
 {179}{}{ punti di danno.}
-{180}{}{Sei troppo debole per forzare la serratura.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ forza la serratura.}
-{182}{}{ nel tentativo di forzare la serratura, si stira la schiena
- e subisce un punto di danno.}
-{183}{}{ nel tentativo di forzare la serratura si stira la schiena e subisce}
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ punti di danno.}
 {185}{}{ e' troppo debole per forzare la serratura.}
-{186}{}{ si stira la schiena nel tentativo di forzare la serratura e subisce un punto di danno.}
-{187}{}{ si stira la schiena nel tentativo di forzare la serratura e subisce }
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ punti di danno.}
 {189}{}{Chiudi a chiave la porta.}
 {190}{}{Non riesci a chiudere a chiave la porta.}

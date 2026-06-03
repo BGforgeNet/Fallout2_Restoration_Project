@@ -76,17 +76,17 @@
 {404}{}{Hagggahhhaaaggga.}
 {405}{}{Hominahominahomina.}
 {406}{}{Eeeeeccchhhh.}
-{407}{}{Grunt!}
-{408}{}{Groan!}
+{407}{}{Grugnito!}
+{408}{}{Gemito!}
 {409}{}{Bua!}
 {410}{}{Ow! Il braccio!}
 {411}{}{Ah ah! Ti ho battuto!}
-{500}{}{Over the top, Francis! Over the top!}
+{500}{}{Esagerato, Francis! Esagerato!}
 {501}{}{Cavoli, avreste proprio bisogno di un po' spinaci! Ahahahah!}
 {502}{}{Geez, perche' non andate a fare i BRACCIanti. Har Har Har!}
 {503}{}{Vorrei quasi abBRACCIarti, amico. Devi avere un coraggio DI FERRO per affrontare Francis!}
 {504}{}{Ouch! Proprio sul metacarpo!}
-{505}{}{Ehi, Francis! Sei piu' forte di un TRICIPITE-ratopo!}
+{505}{}{Ehi, Francis! Dovresti TRI?CEP?arare il braccio dalla spalla.}
 {506}{}{Questa sfida sembra quasi un poema OMERICO! Bwahahaha!}
 {507}{}{Usa la clavicola, Francis! Usa la clavicola!}
 {508}{}{E pensare che queste battute le dico tutte a BRACCIO! Ah ah ah!}

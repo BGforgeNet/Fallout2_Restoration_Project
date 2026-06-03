@@ -4,11 +4,11 @@
 {200}{}{Fa' il bravo.}
 {201}{}{Eccoti qua.}
 {202}{}{La pagherai.}
-{203}{}{Come here.}
+{203}{}{Vieni qui.}
 {204}{}{Non te la faro' passare liscia.}
 {205}{}{Troia.}
 {225}{}{Mi domando quanto potranno andare avanti le cose, adesso che Metzger e' morto...}
-{226}{}{E cosi', alla fine Metzger e' morto...}
+{226}{}{Quindi, Metzger e' finalmente morto?}
 {227}{}{E' stata opera tua?}
 {228}{}{Il Den non sara' mai piu' lo stesso.}
 {240}{}{Non posso crederci, li abbiamo sconfitti sul serio!}
@@ -55,10 +55,10 @@
 {350}{}{L'hai detto!}
 {351}{}{Sono carne morta!}
 {352}{}{Spacchiamo tutto!}
-{400}{}{We kicked serious ass! We'll be over at the church if you need us.}
+{400}{}{Abbiamo fatto fuori un sacco di gente! Saremo in chiesa se hai bisogno di noi.}
 {500}{}{Merda, non posso credere che abbiamo perso Lara. Qui abbiamo sistemato il gruppo rimasto, ma Tyler e la sua banda sono ancora vivi.
  Se li attacchiamo ora, durante la loro festa nella zona residenziale, li coglieremo sicuramente di sorpresa. Finiremmo il lavoro. Ci stai ancora?}
-{501}{}{Let me heal first. I'll tell you when I am ready.}
+{501}{}{Lasciami curare prima. Ti faro' sapere quando sono pronto.}
 {502}{}{Andiamo.}
-{510}{}{You ready to take Tyler and his crew out?}
+{510}{}{Sei pronto a fare fuori Tyler e la sua banda?}
 {520}{}{Ehi, non allontanarti troppo. Dobbiamo finire tutto stanotte.}

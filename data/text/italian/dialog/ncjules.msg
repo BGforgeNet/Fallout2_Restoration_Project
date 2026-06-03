@@ -165,7 +165,7 @@
 {594}{}{Torniamo alle altre famiglie.}
 {596}{}{In realta', non mi interessa. Grazie per aver parlato con me.}
 {615}{}{C'e' il padre, Big Jesus Mordino, e il figlio, Lil' Jesus, ed entrambi sono i peggiori figli di puttana che tu possa incontrare. Un tempo erano schiavi, ma anni fa sono riusciti a cambiare le carte in tavola e si sono costruiti il loro piccolo impero privato.}
-{616}{}{Quant'e' grande il loro "impero"?}
+{616}{}{Quant'e' grande il loro "impero?"}
 {625}{}{Sono i proprietari del Desperado, in fondo alla strada. Non puoi mancarlo. Hanno anche la piu' grande scorta di Jet di TUTTA New Reno. Per cui, se hai un gran bisogno di farti un trip...}
 {626}{}{A proposito, sai per caso dove posso procurarmi un po' di droga, da queste parti?}
 {627}{}{Com'e' che i Mordino sono in possesso della piu' grande scorta di Jet?}
@@ -173,7 +173,7 @@
 {635}{}{Sono in cima alla piramide, amico. Non ci sono altre ragioni. Hanno la fabbrica, il creatore, e la distribuzione. Potrebbero metter su una fottutissima compagnia aerea, con quell'enorme quantita' di Jet che hanno.}
 {636}{}{Cosa mi sai dire di piu'?}
 {637}{}{Che fabbrica?}
-{638}{}{Quale "creatore"?}
+{638}{}{Quale "creatore?"}
 {639}{}{Quant'e' estesa la loro rete di distribuzione?}
 {650}{}{Hanno fabbriche in tutta New Reno, che sparano fuori merda giorno e notte. E' per questo che puoi comprare il Jet praticamente dappertutto: bar, casino', sulla strada... e, ovviamente, da ME.}
 {651}{}{Posso vedere la tua mercanzia?}
@@ -215,7 +215,7 @@
 {841}{}{I Mordino comprano un mucchio di schiavi dagli schiavisti che passano di qua. }
 {842}{}{I Mordino comprano un mucchio di schiavi dagli schiavisti come te che passano per New Reno. }
 {843}{}{E ne comprano davvero un sacco, dato che gli schiavi continuano a stare male, a scappare... o a morire. La maggior parte muore.}
-{860}{}{Solo per migliorarlo, immagino, raffinare il processo, raffinare la droga. Il Jet attuale e' buono, ma se potessero in qualche modo MIGLIORARLO... ci sarebbe la stessa differenza che c'e' tra volare con un deltaplano e volare fino alla luna, credo. }
+{860}{}{Solo per migliorarlo, immagino, raffinare il processo, raffinare la droga. Il Jet attuale e' buono, ma se potessero in qualche modo MIGLIORARLO... ci sarebbe la stessa differenza che c'e' tra volare con un deltaplano e volare fino alla luna, credo.}
 {880}{}{Aspetta un secondo - Se fossi in te non ci PENSEREI nemmeno, amico. I Mordino controllano quel posto come cani rabbiosi. Cavatelo dalla testa e basta.}
 {881}{}{Ci dev'essere un modo per entrare...}
 {886}{}{D'accordo, allora lasciamo perdere. Grazie dell'informazione.}
@@ -305,7 +305,7 @@ Si dice che abbiano perso una sorella, tempo fa, per colpa di uno schiavista e d
 {1221}{}{Lasciamo perdere. Avrei delle altre domande...}
 {1230}{}{Uh... Il ragazzo degli Wright? Si', ho sentito. Un vero peccato. I ragazzi della sua eta' non dovrebbero prendere droghe. Hanno cosi' tante cose per cui vivere senza che qualcuno dia loro della merda impura.}
 {1231}{}{A proposito di merda impura, Renesco mi ha detto che vendi Jet allungato con arsenico.}
-{1232}{}{Cosa vuoi dire con "merda impura"?}
+{1232}{}{Cosa vuoi dire con "merda impura?"}
 {1233}{}{Sai nulla a proposito di questa fiala vuota di Jet?}
 {1234}{}{E' interessante che tu abbia detto una cosa del genere... Non penso sia morto per un'overdose da Jet. Credo sia stato avvelenato.}
 {1250}{}{(Scuote le spalle.) Alcuni spacciatori non stanno attenti a quello che vendono e la gente muore. Ora, io non ti ho detto niente, ma se fossi in te andrei a fare una visitina a Renesco "the Rocketman" per controllare la qualita' della sua roba.}

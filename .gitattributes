@@ -21,3 +21,7 @@ data/city.txt           linguist-language=ini
 data/maps.txt           linguist-language=ini
 data/party.txt          linguist-language=ini
 data/worldmap.txt       linguist-language=ini
+
+# msgmerge mixes lf with crlf on windows if core.autocrlf=true
+*.po   text  eol=lf
+*.pot  text  eol=lf

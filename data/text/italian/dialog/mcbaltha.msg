@@ -3,7 +3,7 @@
 {102}{}{Vedi un uomo alto e muscoloso che puzza di cuoio.}
 {151}{}{Mio figlio e' stato ucciso per errore durante lo scontro a fuoco.}
 {152}{}{Non ce la faccio a vivere senza Jonny.}
-{153}{}{[Sob]}
+{153}{}{[Singhiozzi]}
 {154}{}{Ci troverai alla Fattoria Fantasma. Stiamo per attaccare i fantasmi.}
 {155}{}{Salve, il mio nome e' Balthas. Gestisco la conceria di Modoc. Posso aiutarti?}
 {156}{}{Sembri un po' preoccupato; c'e' qualcosa che non va?}

@@ -1,7 +1,7 @@
 {100}{}{Vedi un ghoul unto e sudato.}
 {101}{}{Vedi Eric.}
 {102}{}{Vedi un ghoul unto e sudato. Sembra essere in uno stato piuttosto miserabile.}
-{103}{}{Come se questa citta' avesse bisogno di tempi difficili... Come se *io* ne avessi bisogno!}
+{103}{}{Come se a questa città servisse altra sfortuna. Come se a me ne servisse altra.}
 {104}{}{Vuoi deciderti ad entrare?! E chiudi quella porta! Non fare entrare le mosche!}
 {105}{}{Losche? F-f-f!}
 {106}{}{D'accordo, d'accordo. Non c'e' bisogno di urlare.}
@@ -9,12 +9,12 @@
 {108}{}{Lascio entrare tutte le mosche che voglio. Perdente.}
 {109}{}{Giusto. Addio.}
 {110}{}{Chiudi la porta! Ti prego! Vattene e porta con te quelle dannate mosche!}
-{111}{}{D'okay!}
+{111}{}{D'accordo!}
 {112}{}{Scusami. Sono solo un po' nervoso. Tutte queste mosche e non ho l'aria condizionata. Se solo avessi un po' piu' di elettricita' potrei mandarle via... ma non ce l'ho.}
 {113}{}{Chi sei?}
 {114}{}{Cosa bisogna fare per avere piu' elettricita'?}
 {115}{}{Perche' le mosche entrano qui dentro?}
-{116}{}{Potresti provare a farti un bagno, sai?}
+{116}{}{Potresti anche provare a lavarti, sai.}
 {117}{}{Sei davvero sfortunato, amico. Addio.}
 {118}{}{Hmm. Che peccato. Addio.}
 {119}{}{Vicino all'entrata della citta' c'e' una centralina elettrica che controlla l'erogazione di energia nel centro abitato. Se solo tu potessi recarti la' e riuscissi a convincerli a concedermi un po' piu' di elettricita' per il mio condizionatore, te ne sarei molto grato.}
@@ -48,7 +48,7 @@
 {147}{}{Ti prego, non impiegarci troppo... non ne posso piu' di tutte queste mosche.}
 {148}{}{Certo. Ho delle altre domande.}
 {149}{}{Certo. Ti faro' sapere.}
-{150}{}{Grazie mille per la tua pieta'. Questo e' sarcasmo, se non l'avessi notato. Fuori da casa mia!}
+{150}{}{Grazie mille per la tua compassione. È sarcasmo, nel caso non l’avessi capito. Adesso levati da casa mia.}
 {151}{}{Perche' non te ne vai all'inferno e crepi?}
 {152}{}{Addio, ragazzo-mosca!}
 {153}{}{Il generatore si trova sulla tua sinistra non appena entri a Broken Hills dalle Lande. E' gestito da un tipo di nome Brian, un fannullone figlio di puttana che cerca di fare meno lavoro possibile.}

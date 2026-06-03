@@ -4,7 +4,7 @@
 {103}{}{Vorrei vendere delle cose.}
 {104}{}{Nulla.}
 {105}{}{Volere luccichini.}
-{106}{}{Me va. Ciaociao}
+{106}{}{Me va. Ciaociao.}
 {107}{}{Altro?}
 {108}{}{Vorrei vendere delle altre cose.}
 {109}{}{Me vuole piu' luccichini.}

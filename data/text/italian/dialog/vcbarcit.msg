@@ -19,7 +19,7 @@
 {118}{}{Ho sentito parlare delle sue imprese coraggiose. Ha reso un grande servizio a Vault City... e al mondo.}
 {119}{}{La sua battaglia contro l'Enclave ha impressionato persino il Primo Cittadino.}
 {120}{}{Ho sentito che hai viaggiato a sud fino a San...Fran...Cisco. E' vero?}
-{121}{}{Forse Vault City *dovrebbe* accogliere gli Esterni.}
+{121}{}{Forse Vault City *dovrebbe* accogliere gli Esterni. }
 {122}{}{Era vero? Davvero il governo del vecchio mondo stava ancora combattendo la guerra?}
 {123}{}{Dovresti inserire le cronache dei tuoi viaggi nel computer di Vault City, cosicche' tutti possano leggerle.}
 {124}{}{Potrai rimanere qui per quanto tempo vorrai, eroe.}

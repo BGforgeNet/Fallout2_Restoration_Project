@@ -48,7 +48,7 @@
 {270}{}{Okay, allora. Puoi passare.}
 {271}{}{Okay. Ci vediamo.}
 {280}{}{Hai l'emblema. Passa pure.}
-{281}{}{Gooo.}
+{281}{}{Vaaai.}
 {282}{}{L'emblema?}
 {283}{}{Inginocchiati davanti all'Emblema. Addio.}
 {290}{}{Si', il sacro talismano del Rinnovamento. Rinnova, compagno! Rinnova!}

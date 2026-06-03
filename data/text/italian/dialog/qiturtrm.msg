@@ -14,15 +14,15 @@
 {113}{}{Vedi un'immagine formata da vari puntini rossi, verdi e blu che compongono una figura...}
 {114}{}{C'e' un viso abominevole che ti guarda dall'altra parte dello schermo. Oh, aspetta, questo terminale e' spento.}
 {115}{}{Questo schermo e' una finestra aperta su di una dimensione oscura che trascende lo spazio e il tempo.}
-{116}{}{Questo terminale sta visualizzando una scritta: "Finestre '98: Caricamento in Corso..." Il terminale e' ricoperto da uno spesso strato di polvere. }
-{117}{}{Questo terminale sembra essere di marca Apricot. Sta eseguendo un programma chiamato Fallout 3. Wow, sembra essere un multiplayer in 3D!}
+{116}{}{Questo terminale sta visualizzando una scritta: "Finestre '98: Caricamento in Corso..." Il terminale e' ricoperto da uno spesso strato di polvere.}
+{117}{}{Questo terminale sembra essere un terminale di marca Apricot. Sta eseguendo qualcosa chiamato Fallout 3. Wow, sembra che sia multiplayer e in 3D.}
 {118}{}{Inserire ID Utente:}
 {119}{}{(Proviamo cosi') Elenco utenti.}
 {120}{}{(Mi domando se questo funzionera'...) Smith, J.}
 {121}{}{Indietro.}
 {123}{}{Credo sia meglio provare a farlo da qualche altra parte.}
-{124}{}{Visualizzazione elenco in corso (il terminale mostra una lista di circa 500 nomi)}
-{125}{}{Visualizzazione elenco in corso (il computer mostra una lista di nomi)}
+{124}{}{Visualizzazione elenco in corso (il terminale mostra una lista di circa 500 nomi).}
+{125}{}{Visualizzazione elenco in corso (il computer mostra una lista di nomi).}
 {126}{}{Selezionare ID Utente o uscire dal programma:}
 {127}{}{(Questo qua ha un livello di accesso non male.) Smith, J.}
 {128}{}{(Questo sembra essere speciale.) Sistemi di Sicurezza - richiesta tessera presidenziale.}
@@ -32,15 +32,15 @@
 {132}{}{(Piu' tardi faro' un tentativo.) Esci.}
 {133}{}{Scegliere: }
 {134}{}{C. E. A. : Gestione Centrale Atomica, }
-{135}{}{Sicurezza - Situazione.}
+{135}{}{Stato della sicurezza?}
 {136}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
 {137}{}{Sicurezza - Situazione.}
 {138}{}{Ritornare a ID utente:}
 {139}{}{Scegliere: }
-{140}{}{Livello di Sicurezza: Stato Attuale,}
-{141}{}{Divisione Chimica: Rapporto sullo Stato del Progetto,}
+{140}{}{Livello di Sicurezza: Stato Attuale, }
+{141}{}{Divisione Chimica: Rapporto sullo Stato del Progetto, }
 {142}{}{C. E. A. : Gestione Centrale Atomica, }
-{143}{}{Sicurezza - Situazione.}
+{143}{}{Stato della sicurezza?}
 {144}{}{Livello di Sicurezza: Stato Attuale}
 {145}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto.}
 {146}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
@@ -49,10 +49,10 @@
 {149}{}{Scegliere: }
 {150}{}{Stato della Nazione: Situazione Attuale, }
 {151}{}{Lista di Parole, }
-{152}{}{Livello di Sicurezza: Stato Attuale,}
-{153}{}{Divisione Chimica: Rapporto sullo Stato del Progetto,}
+{152}{}{Livello di Sicurezza: Stato Attuale, }
+{153}{}{Divisione Chimica: Rapporto sullo Stato del Progetto, }
 {154}{}{C. E. A. : Gestione Centrale Atomica, }
-{155}{}{Sicurezza - Situazione.}
+{155}{}{Stato della sicurezza?}
 {156}{}{Stato della Nazione: Situazione Attuale}
 {157}{}{Scaricare - Lista di Parole.}
 {158}{}{Livello di Sicurezza: Stato Attuale}
@@ -60,7 +60,7 @@
 {160}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
 {161}{}{Sicurezza - Situazione}
 {162}{}{Ritornare a ID utente:}
-{163}{}{Scegliere: Sicurezza - Situazione.}
+{163}{}{Seleziono: Stato di sicurezza?}
 {164}{}{Sicurezza - Situazione}
 {165}{}{Logout.}
 {166}{}{Download fallito: file della situazione di sicurezza mancante.}
@@ -161,7 +161,7 @@
 {262}{}{Individuata procedura illegale. E' negato ogni ulteriore accesso a questo terminale... Inviata richiesta d'intervento squadra di manutenzione.}
 {263}{}{Dannazione. Non e' proprio quel che volevo.}
 {264}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente. (Si'! Ora vediamo cosa riesco a...)}
-{265}{}{Cos'altro posso fare...}
+{265}{}{(Cos'altro posso fare?)}
 {266}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente... Protocollo di Emergenza Contro-Sommossa attivato...**Errore** Bersaglio non trovato. Assicurarsi che i sensori stiano lavorando correttamente altrimenti, per autorizzare le riparazioni necessarie, prego inviare il modulo FG-I-106-32-0635. Grazie per aver usato un altro magnifico prodotto Vault-Tec. Buona giornata.}
 {267}{}{(Mmm... Forse funzionera' quando li' ci sara' effettivamente qualcuno. Faro' un tentativo piu' tardi.) Ritornare a ID utente.}
 {268}{}{(Mi chiedo cos'altro potrei provare...) Indietro.}

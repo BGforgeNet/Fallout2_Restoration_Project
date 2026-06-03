@@ -19,7 +19,7 @@
 {118}{}{Quel coso continua a rompersi.}
 {119}{}{Mi sento come se mi fossi scottato la pelle.}
 {120}{}{Sbaglio, o qui dentro comincia a fare piu' caldo?}
-{121}{}{This isn't good.}
+{121}{}{Questo non va bene.}
 {122}{}{Cazzo, cazzo, cazzo.}
 {123}{}{Dov'e' la mia maschera antigas?}
 {124}{}{C'e' uno strano odore nell'aria.}

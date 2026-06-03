@@ -1,5 +1,5 @@
 {100}{}{Vedi un vecchio malinconico.}
-{101}{}{Vedi Dave, il "Sig. Depressione".}
+{101}{}{Vedi Dave, il "Sig. Depressione."}
 {102}{}{Vedi un uomo vecchio e burbero alle soglie dei sessant'anni. Ha una faccia consumata e sembra aver subito dei maltrattamenti.}
 {103}{}{Oh. Non avevo visto che eri li'.}
 {104}{}{Come no vedere? Me grande.}
@@ -20,7 +20,7 @@
 {119}{}{Passato brutto, no parlare. Cose bene ora?}
 {120}{}{Wow! Sono davvero felice di non essere te!}
 {121}{}{Ok, ho capito la situazione. Cosa ti affligge adesso?}
-{122}{}{Sono davvero dispiaciuto che tu abbia sofferto cosi' tanto nella tua vita. Spero che le cose siano migliorate...}
+{122}{}{Mi dispiace davvero che tu abbia sofferto così tanto nella vita. Spero che ora le cose vadano meglio.}
 {123}{}{Aspetta un secondo. Dimenticavo che adesso ho qualcos'altro da fare...}
 {124}{}{Certo, beh, le brutte cose succedono -- e quando succedono, succedono a me.}
 {125}{}{Cosa succedere adesso?}
@@ -43,9 +43,9 @@
 {142}{}{Finalmente, la mia ora e' giunta. Hai intenzione di uccidermi subito?}
 {143}{}{Si'.}
 {144}{}{No.}
-{145}{}{Quando avevo otto anni, il mio cane Spike e' stato investito da un trattore. Quando avevo nove anni, mia madre ha perso un braccio a causa di un brahmin con la rabbia. Quando avevo dieci anni, mia sorella e' stata sbranata da un branco di cani. Quando avevo undici anni, mio nonno si e' suicidato perche' ero orribile. Quando avevo dodici anni, mia nonna si e' suicidata perche' ero orribile. Quando avevo tredici anni, mio padre si e' strappato gli occhi con un forcone mentre era ubriaco. }
+{145}{}{Quando avevo otto anni, il mio cane Spike e' stato investito da un trattore. Quando avevo nove anni, mia madre ha perso un braccio a causa di un brahmin con la rabbia. Quando avevo dieci anni, mia sorella e' stata sbranata da un branco di cani. Quando avevo undici anni, mio nonno si e' suicidato perche' ero orribile. Quando avevo dodici anni, mia nonna si e' suicidata perche' ero orribile. Quando avevo tredici anni, mio padre si e' strappato gli occhi con un forcone mentre era ubriaco.}
 {146}{}{Quando avevo quattordici anni, mio fratello ha perso la mano a causa di un piccolo canguro. Quando avevo quindici anni, mia zia si e' strozzata con un osso di pollo. Quando avevo sedici anni, mio cugino e' stato ucciso da un tasso. A diciassette anni, mi sono tranciato l'alluce con una zappa. Quando avevo diciotto anni, mio padre ha perso la gamba destra a causa dello stesso trattore che aveva ucciso il mio cane. A diciannove anni... }
-{147}{}{Beh, io ero la', in mezzo al deserto, in attesa che il mondo ingoiasse la mia misera esistenza, quand'ecco che comparve un branco di Deathclaw. Beh, pensavo tra me e me, ci siamo. Adesso posso morire. Posso andarmene sottoforma di un mucchio di letame di Deathclaw in mezzo al deserto. Ma no... il fato aveva ancora una crudele carta da giocare contro di me. }
+{147}{}{Beh, io ero la', in mezzo al deserto, in attesa che il mondo ingoiasse la mia misera esistenza, quand'ecco che comparve un branco di Deathclaw. Beh, pensavo tra me e me, ci siamo. Adesso posso morire. Posso andarmene sottoforma di un mucchio di letame di Deathclaw in mezzo al deserto. Ma no... il fato aveva ancora una crudele carta da giocare contro di me.}
 {148}{}{Vedi, i Deathclaw non mi uccisero. Mi diedero dell'acqua, invece, mi portarono qui, mi diedero questa stanza, mi diedero del cibo, mi ripulirono e adesso non mi lasciano andar via. So bene che mi stanno facendo ingrassare per qualche ignoto, orribile scopo. Continuo a dire loro che probabilmente avrei un gusto migliore se fossi piu' magro, ma non serve a nulla. Loro semplicemente sorridono -- se di sorriso si puo' parlare -- e mi danno delle pacche amichevoli sulla testa e dicono "Non preoccuparti, umano, le cose miglioreranno". Ah! Entrambi sappiamo cosa significa.}
 {149}{}{Comunque, per peggiorare le cose, hanno iniziato a darmi una sorta di medicinale. 
  Mi faceva venire dei gas, così ho smesso di prenderlo — e ho fatto bene. Credo fosse una specie di pillola per il “controllo mentale”, 

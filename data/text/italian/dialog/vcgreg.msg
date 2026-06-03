@@ -29,7 +29,7 @@
 {128}{}{-Allontanati-}
 {129}{}{*Tchh* Questi Servi sembrano diventare piu' stupidi ogni giorno che passa.}
 {130}{}{Io sono il Proconsole Gregory. E' questo l'ufficio che stavi cercando, oppure...?}
-{131}{}{"Proconsole"? Cosa diavolo e' un "Proconsole"?}
+{131}{}{"Proconsole?" Cosa diavolo e' un "Proconsole?"}
 {132}{}{Di che cosa ti occupi?}
 {133}{}{Davo solo un'occhiata in giro, grazie.}
 {134}{}{Io sono l'ASSISTENTE del Primo Cittadino. Io organizzo i suoi appuntamenti, sottopongo al test di Cittadinanza i potenziali candidati, e aggiorno tutte le liste sul server di Vault City. Non e' un compito da poco, te lo assicuro.}
@@ -94,7 +94,7 @@
 {193}{}{CERTO che sono stato geniale.}
 {194}{}{Beh... hai superato l'esame! Congratulazioni.}
 {195}{}{Ottimo. Quindi sono un Cittadino?}
-{196}{}{Beh, devo ancora sottoporti all'esame corporale. Per fortuna ho tutto l'equipaggiamento che mi serve proprio qui. Per favore, puoi toglierti gli stivali?}
+{196}{}{Beh, dobbiamo ancora effettuare la visita medica. Per fortuna ho tutta l'attrezzatura qui. Potresti toglierti gli stivali.}
 {197}{}{Okay.}
 {198}{}{Tu... tu hai un sesto dito! Sei un mutante! Come osi anche solo PROVARE a diventare uno di noi... tu... mostro! Fuori di qui! Fuori! E non tornare mai piu'!}
 {199}{}{Qui arriva la parte in cui io perdo la pazienza e uccido, solo per il gusto di farlo, tutti i Cittadini di Vault City. A cominciare da te.}

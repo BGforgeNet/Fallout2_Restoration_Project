@@ -18,7 +18,7 @@
 {117}{}{Cercatore di Tesori?}
 {118}{}{Ma che bello. Buona giornata.}
 {119}{}{Non dirmi che non hai mai sentito parlare di me! Non ti hanno mai raccontato le storie del Rapido Micky? Delle sue incredibili battaglie a colpi d'arma da fuoco, delle sue avventure mozzafiato e delle sue funeste razzie?}
-{120}{}{Nup.}
+{120}{}{No.}
 {121}{}{Mi dispiace, ma credo di non aver mai avuto questo piacere.}
 {122}{}{Beh, non sai cosa ti perdi, amico. Uno di questi giorni dovro' raccontarti tutto, inclusi i dettagli piu' macabri.}
 {123}{}{Evivaaaaa.}

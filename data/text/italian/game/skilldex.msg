@@ -1,5 +1,5 @@
 {100}{}{SKILLDEX}
-{101}{}{CANC.}
+{101}{}{CANC}
 {102}{}{FURTIVO}
 {103}{}{SCASSINA}
 {104}{}{RUBA}

@@ -21,7 +21,7 @@
 {227}{}{Quell'arma? E' in grado di fare un buco in un muro di metallo, te lo posso assicurare.}
 {228}{}{Quel ragazzo e' un genio... a vederlo non si direbbe...}
 {229}{}{Sara' meglio portare i cani a fare un giretto, prima che comincino a pisciare dappertutto.}
-{230}{}{Gli "Unwashed Villagers" stanno accumulando altre armi... sono davvero tosti.}
+{230}{}{Quei Paesani Sudici stanno accumulando altre armi... sono davvero tosti.}
 {231}{}{Vorrei tanto che qualcuno mi derubasse... cosi' potrei sparargli!}
 {232}{}{Devo decidermi a pulire gli scaffali...}
 {233}{}{Non vedo l'ora di andare a caccia di furfanti, la prossima settimana...}
@@ -33,7 +33,7 @@
 {244}{}{Dipende da quello che hai da vendermi.}
 {250}{}{Bentornato, eroe! Hai fatto davvero un gran bel lavoro, giu' all'Enclave... hai salvato la pelle a tutti e te ne sono grato. }
 {251}{}{Se vedi qualcosa che ti piace, fammelo sapere e ti faro' uno sconto *speciale*, okay?}
-{252}{}{Occhei.}
+{252}{}{Occhei}
 {253}{}{-Allontanati-}
 {254}{}{Ottimo! Posso vedere la tua mercanzia?}
 {255}{}{Non so se sei in grado di aiutarmi... Sto cercando qualcosa di speciale.}
@@ -44,7 +44,7 @@
 {260}{}{Sei in grado di modificare le armi?}
 {261}{}{Tornero' a darci un'occhiata, allora.}
 {262}{}{Magnifico... Posso vedere i tuoi pezzi speciali?}
-{270}{}{Qui al New Reno Arms abbiamo i piu' recenti strumenti di difesa personale necessari per stecchire sul posto qualsiasi smidollato figlio di puttana (sorride diabolicamente).}
+{270}{}{Qui al New Reno Arms abbiamo i piu' recenti strumenti di difesa personale necessari per stecchire sul posto qualsiasi smidollato figlio di puttana (sorride diabolicamente)}
 {272}{}{Bentornato, amico. Cosa posso fare per te?}
 {273}{}{Ovvero?}
 {274}{}{Roba me piace roba tu anche piacere robaaaaaaa?}
@@ -70,8 +70,8 @@
 {343}{}{Puoi fare qualcosa con questo pungolo per il bestiame?}
 {344}{}{Lasciamo perdere. Mi interessa qualcos'altro...}
 {345}{}{Veramente... nulla, al momento.}
-{350}{}{(Vede la tua magnum.) Posso piazzarti un caricatore rapido su quella magnum per }
-{351}{}{Quella Desert Eagle che hai li'... se vuoi posso dotarla di un caricatore piu' capiente per }
+{350}{}{(Vede la tua magnum.) Posso piazzarti un caricatore rapido su quella magnum per $}
+{351}{}{Quella Desert Eagle che hai li'... se vuoi posso dotarla di un caricatore piu' capiente per $}
 {352}{}{Monta il caricatore rapido sulla magnum.}
 {353}{}{Aumenta la capacita' del caricatore della Desert Eagle.}
 {354}{}{Veramente avevo un'altra arma in mente...}
@@ -79,13 +79,13 @@
 {356}{}{In realta' non voglio nulla. Devo andare.}
 {357}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
 {365}{}{(Osserva i tuoi fucili. Annuisce.) }
-{366}{}{Posso mettere un mirino telescopico su quel fucile da caccia per }
-{367}{}{Quel fucile d'assalto che hai li'... posso dotarlo di un caricatore piu' capiente per }
-{368}{}{Ho un mirino per la visione notturna che potrei applicare a quel tuo FN FAL per }
+{366}{}{Posso mettere un mirino telescopico su quel fucile da caccia per $}
+{367}{}{Quel fucile d'assalto che hai li'... posso dotarlo di un caricatore piu' capiente per $}
+{368}{}{Ho un mirino per la visione notturna che potrei applicare a quel tuo FN FAL per $}
 {369}{}{D'accordo... monta il mirino su quel Colt da caccia.}
 {370}{}{Aumenta la capienza del caricatore di questo fucile d'assalto AK-112.}
 {371}{}{Monta quel mirino ad infrarossi sul FN FAL.}
-{385}{}{Vuoi spremere a dovere questo pungolo per il bestiame? Posso dargli una carica SUPER per }
+{385}{}{Vuoi spremere a dovere questo pungolo per il bestiame? Posso dargli una carica SUPER per $}
 {386}{}{Bene.}
 {395}{}{(Eldridge prende l'oggetto, lo esamina attentamente.) D'accordo... tu sta' qui buono per un attimo, mentre io vedo cosa posso fare. (scompare nel retro del negozio)}
 {396}{}{Okay.}
@@ -166,7 +166,7 @@
 {601}{}{Signorina, siamo chiusi... }
 {610}{}{Quindi ti suggerisco di sparire prima che io ti spari un colpo in fronte.}
 {700}{}{Dannatissimi cani! Me ne torno a letto.}
-{701}{}{Stupidi cani! Domattina vi sistemo io!}
+{701}{}{Stupidi cani! Domattina vi faccio vedere io.}
 {702}{}{Volete tacere, cani?! Nessuno e' cosi' stupido da scassinare un'armeria!}
 {800}{}{Hai consegnato la pistola laser a Eldridge.}
 {801}{}{Ehi, ti sembro forse un mago io? Avrai bisogno dell'arma se vuoi che te la potenzi. Adesso fuori di qui e vattene a cercare una che io possa potenziare... Bah!}
@@ -174,5 +174,5 @@
 {1340}{}{Sicuro come il demonio che posso. (Da' uno sguardo al tuo equipaggiamento.) Ma non mi pare che tu abbia qualcosa sul quale io possa lavorare. Portami qualche pistola o fucile vergini... ehm, "normali", e forse saro' in grado di aiutarti.}
 {1345}{}{D'accordo. Mi interessa qualcos'altro...}
 {1346}{}{Lo faro'. Ci vediamo.}
-{5256}{}{... mi ha detto di passare di qui e che tu mi avresti "servito a puntino".}
+{5256}{}{... mi ha detto di passare di qui e che tu mi avresti "servito a puntino."}
 {5500}{}{.}

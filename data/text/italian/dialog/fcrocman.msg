@@ -5,7 +5,7 @@
 {107}{}{Ehi! Carne da cerchione! Chi sei? Che cosa ci fai qui?}
 {108}{}{Duh?}
 {109}{}{Ho una lettera per AHS-9. Dove devo consegnarla?}
-{110}{}{Io sono }
+{110}{}{Io sono}
 {111}{}{Non sono affari tuoi.}
 {112}{}{Voglio unirmi agli Hubologisti.}
 {113}{}{TU chi sei? E cosa ci fai TU qui?}
@@ -17,13 +17,13 @@
 {119}{}{Tu non sei uno dei nostri fratelli, e quindi non sei autorizzato a stare qui. A meno che tu non desideri unirti a noi - cosa che potresti fare esprimendo tale volonta' ad AHS-7, che sta di guardia all'ingresso. Adesso puoi scegliere: o vai al piano di sotto o te ne vai da qui.}
 {120}{}{D'accordo, d'accordo. Non c'e' bisogno di essere scortesi.}
 {121}{}{In realta', questi SONO affari miei. Questa e' la MIA nave e queste sono le MIE guardie - ora: chi sei e cosa ci fai qui?}
-{122}{}{Io sono }
+{122}{}{Io sono}
 {123}{}{Non sono affari tuoi.}
 {124}{}{Voglio unirmi agli Hubologisti.}
 {125}{}{TU chi sei? E cosa ci fai TU qui?}
 {126}{}{Nulla. Arrivederci.}
 {127}{}{Io sono Harry. Sono il tecnico responsabile del razzo.}
-{128}{}{Io sono }
+{128}{}{Io sono}
 {129}{}{Non sono affari tuoi.}
 {130}{}{Voglio unirmi agli Hubologisti.}
 {131}{}{Nulla. Arrivederci.}

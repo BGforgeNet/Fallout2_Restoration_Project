@@ -1369,4 +1369,20 @@ variable removed_qty;
 )
 #define can_be_gas_poisoned(x) ((x == dude_obj) and not (protected_from_gas(x)))
 
+// DOORS //
+/**
+ * Ensures that the object is closed and locked.
+ */
+procedure close_and_lock_self begin
+   if obj_is_open(self_obj) then begin
+      // "Locked open" objects cannot close
+      if obj_is_locked(self_obj) then begin
+         obj_unlock(self_obj);
+      end
+      obj_close(self_obj);
+   end
+   obj_lock(self_obj);
+end
+// END DOORS
+
 #endif // COMMAND_H

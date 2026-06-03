@@ -145,7 +145,7 @@
  yourself, Lou. Goodbye.}
 {215}{}{So you're the sucker giving my Fannie all that money. I wouldn't do that if I were you. You're
  not helping her like you think you are.}
-{216}{}{What do you mean?}
+{216}{}{Ý cậu là sao?}
 {217}{}{I'm helping her to start a new life.}
 {218}{}{Yeah, whatever. Let's talk about something else.}
 {219}{}{What I mean is that Fannie's got a problem and money isn't the answer for it. I hate to break

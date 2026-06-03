@@ -91,7 +91,7 @@
 {412}{}{Ug.}
 {420}{}{Di cosa stai parlando? Io non devo niente a nessuno. Di chi diavolo stai parlando?}
 {421}{}{Gia', l'hai detto anche l'altra volta. Non so di cosa tu stia parlando. Chi e' questa persona immaginaria?}
-{422}{}{Becky dice che le devi 500$.}
+{422}{}{Becky dice che le devi 500$}
 {423}{}{E' Becky che mi manda.}
 {424}{}{Rebecca dice che ti ha prestato 200$.}
 {430}{}{Oh, certo, come no? Rebecca mi ha prestato 200... Oh, aspetta. Forse - ummm...}

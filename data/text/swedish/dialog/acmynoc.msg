@@ -145,17 +145,17 @@
 {430}{}{Folk dör här medan du strosar runt i landet. Du kanske borde söka
  någon annanstans istället för att återvända hit.}
 {500}{}{Har du pratat med den Äldste än?}
-{600}{}{Any final advice for me before I head out into the unknown?}
-{601}{}{Certainly. Beware the weapons of the Outsiders. The gecko's bite is nothing compared to the destructive power of their boom-sticks.}
-{602}{}{Got it. Anything else?}
-{603}{}{Do not give your trust freely. Honor means very little out in the wastes. Stay alert and always question the motives of others.}
-{604}{}{Sure thing. Is that all?}
-{605}{}{Never forget your roots. The world outside our village is full of shiny toys and luxuries that might make our life here in Arroyo appear simple and plain.
- But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
-{606}{}{I'll never forget my roots. Thanks for the advice, Mynoc.}
-{607}{}{He-Who-Must-Not-Be-Named? Uh... who?}
-{608}{}{Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?}
-{609}{}{Oh! Yeah, that guy. I'll make sure I don't end up like him. Thanks.}
+{600}{}{Har du något sista råd till mig innan jag ger mig ut i det okända?}
+{601}{}{Absolut. Se upp för Utomståendes vapen. Geckons bett är ingenting jämfört med den förödande kraften i deras dunderpinnar.}
+{602}{}{Okej. Något mer?}
+{603}{}{Ge inte bort ditt förtroende så lättvindigt. Ära betyder inte mycket ute i ödemarken. Var på din vakt och ifrågasätt alltid andras motiv.}
+{604}{}{Visst. Var det allt?}
+{605}{}{Glöm aldrig dina rötter. Världen utanför vår by är full av glänsande leksaker och lyx som kan få vårt liv här i Arroyo att verka enkelt och anspråkslöst.
+ Men kom ihåg att livet bland de utomstående skapar onda människor som styrs av girighet och korruption. Se till att du inte blir som Han-Som-Inte-Får-Nämnas.}
+{606}{}{Jag kommer aldrig att glömma mina rötter. Tack för rådet, Mynoc.}
+{607}{}{Han-som-inte-får-nämnas-vid-namn? Eh... vem då?}
+{608}{}{Är du så berusad av äran att vara den Utvalde att du har glömt bort... [Mynoc ser sig snabbt omkring för att försäkra sig om att ingen lyssnar, lutar sig sedan framåt och sänker rösten till en viskning.] ... Kaga?}
+{609}{}{Åh! Ja, den där killen. Jag ska se till att jag inte hamnar i samma situation som han. Tack.}
 {610}{}{Oh, that's who I thought you meant. But, uh, why don't you go ahead and tell me what his deal is again. I really love that story.}
 {611}{}{[Mynoc mumbles something under his breath and shakes his head before beginning his tale.] As you should know, he was once the greatest warrior of our tribe. He led many expeditions into the outside world, and it was there where corruption began to poison his mind.}
 {612}{}{He became infatuated with the ways of the Outsiders, where power could bring anyone great respect and luxury. He began to view himself as superior to his fellow tribesmen who were content to live a more simple life.}

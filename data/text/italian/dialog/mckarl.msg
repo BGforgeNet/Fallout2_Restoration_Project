@@ -9,7 +9,7 @@
 {155}{}{EHI!!}
 {156}{}{I fantasmi non riusciranno a trovarmi qui... [sob]}
 {157}{}{E' bello essere di nuovo a casa.}
-{159}{}{E' Karl; e' svenuto. }
+{159}{}{E' Karl; e' svenuto.}
 {160}{}{Deve farsi passare la sbornia.}
 {161}{}{Argh! I fantasmi della fattoria sono venuti a prendermi!}
 {162}{}{Hai qualche soldo da dare ad un (hic) contadino disoccupato?}
@@ -57,7 +57,7 @@
 {219}{}{Lestofante che non sei altro. Scommetto che usi i soldi che raccogli per comprarti della droga, non e' vero?}
 {220}{}{Let... Les... Lesso... Qualunque sia la parola che mi hai detto (hic) ritirala... (hic) Qualunque cosa significhi, non sembra essere qualcosa di positivo.}
 {221}{}{[Prima che tu possa rispondere, Karl cade in avanti e sviene.]}
-{222}{}{Queeeeesto e' okay... (hic) Immagino che tu non abbia del liquido ristor-(hic)-atore. Fa davvero (hic) freddo di notte, qui fuori. }
+{222}{}{Queeeeesto e' okay... (hic) Immagino che tu non abbia del liquido ristor-(hic)-atore. Fa davvero (hic) freddo di notte, qui fuori.}
 {224}{}{Sei davvero (hic) il mio piu' migliore amico in questo (hic) dannato mondo. [Karl inizia a bere il "liquido ristoratore", finche' ad un certo punto sviene]}
 {225}{}{Oh beh, forse potrai parlare con Karl piu' tardi.}
 {226}{}{Sei davvero (hic) il mio piu' migliore amico in questo (hic) dannato mondo. [Karl apre la bottiglia e comincia a bere il liquido -- e subito dopo te lo sputa tutto addosso.] Ptui! Cosa dia-?! Stai cercando di avvelenarmi, per caso?! Vattene via!}
@@ -82,15 +82,15 @@
 {245}{}{OK, 1000$.}
 {246}{}{[Tu e Karl sgattaiolate sul retro per una sveltina. Con tua sorpresa, hai trovato la cosa piacevole.]}
 {247}{}{[Rapidamente gli passa la sbornia e comincia a raccontare la sua storia.] Una volta, prima di venire qui, ero un cittadino forte e sano. Ero un contadino tranquillo che lavorava i campi impegnandosi come qualsiasi altra persona -- finche' non cominciarono a comparire di notte. Tutti luminosi, con la pelle pallida e bianca... Mi spaventavano a morte, mi spaventavano. Notte dopo notte si mostravano a me e rubavano i raccolti e il bestiame; non potevo fare nulla per fermarli. So quello che stai per dire - "Perche' non hai chiesto aiuto a qualcuno?" Il bello e' che lo feci! Nessuno mi credeva, pensavano che fossi pazzo. Alla fine, la situazione si era fatta insostenibile. NON POTEVO RESTARE LA' UN SECONDO DI PIU'! Allora sono scappato e sono venuto qui -- e qui sono rimasto da allora. [Karl comincia a piangere a dirotto e in maniera convulsa. Decidi di lasciarlo solo con il suo dolore.]}
-{248}{}{Oh, capperi. Devo aver perso dei soldi per la strada. Ecco }
+{248}{}{Oh, capperi. Devo aver perso dei soldi per la strada. Ecco $}
 {249}{}{.}
 {250}{}{Zzz}
 {251}{}{Zzzzzz}
 {252}{}{Zzzzzzzzz}
 {253}{}{Zzzzzzzzzzzz}
 {254}{}{Zzzzzzzzzzzzzzz}
-{255}{}{*snort* *grunt* *snort*}
-{260}{}{Oh, capperi. Devo aver perso dei soldi per la strada. Ecco }
+{255}{}{*sbuffo* *grugnito* *sbuffo*}
+{260}{}{Oh, capperi. Devo aver perso dei soldi per la strada. Ecco $}
 {261}{}{$. E' tutto quel che ho.}
 {262}{}{Oh, capperi. Devo aver perso i soldi per la strada. Mi dispiace... e' stato bello pero'.}
 {300}{}{Torno a casa! Grazie a te!}

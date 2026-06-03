@@ -119,7 +119,7 @@
 {218}{prs33}{Well, no it didn't. But at least it knocked the damn Red menace back into the stone age. (chuckles)}
 {219}{}{And us with it.}
 {220}{prs34}{Well, no. No... not quite. You see, we had planned ahead. We were ready. }
-{221}{}{What do you mean?}
+{221}{}{Ý cậu là sao?}
 {222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. This facility - the vaults - were part of the great plan.}
 {223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}
 {224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale.}
@@ -129,7 +129,7 @@
 {228}{prs37}{Ahh. Vault 13 is a special case. It was supposed to remain closed until the subjects were needed. Vault 13 was, in scientific parlance, a control group.}
 {229}{}{But they would all have died if my ancestor didn't get them a replacement water chip. That doesn't seem to fit in with your plan.}
 {230}{prs38}{An unfortunate, and unforeseen accident. However, as it turns out a rather fortuitous one.}
-{231}{}{What do you mean?}
+{231}{}{Ý cậu là sao?}
 {232}{prs39}{As it turns out we needed test subjects from untainted, pre-war, human stock - your ancestors in Vault 13 - and some freshly mutated stock - the villagers from Arroyo.}
 {233}{}{Tại sao?}
 {234}{prs39a}{For the Project. It's almost ready. Humanity's salvation is almost at hand and the United States of America will be the progenitor of that rebirth.}

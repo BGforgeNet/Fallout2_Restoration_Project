@@ -1,16 +1,16 @@
-{100}{}{You see a tribal.}
-{101}{}{You see a member of the tribe.}
-{102}{}{One of the few remaining people in the tribe.}
-{200}{}{You're not welcome here.}
-{201}{}{The spirits do not like you.}
-{202}{}{Go away, outworlder.}
-{203}{}{Why do you plague us?}
-{204}{}{Welcome, warrior.}
-{205}{}{You will always be welcome here.}
-{206}{}{The spirits accept you as one of us.}
+{100}{}{Vedi un tribale.}
+{101}{}{Vedi un membro della tribù.}
+{102}{}{Uno dei pochi membri rimasti della tribù.}
+{200}{}{Non sei il benvenuto qui.}
+{201}{}{Gli spiriti non ti vedono di buon occhio.}
+{202}{}{Vattene, straniero.}
+{203}{}{Perché ci tormenti?}
+{204}{}{Benvenuto, guerriero.}
+{205}{}{Sarai sempre il benvenuto qui.}
+{206}{}{Gli spiriti ti accettano come uno di noi.}
 {207}{}{Grazie per averci aiutato.}
 {208}{}{Credevo che tutti i forestieri fossero malvagi. Non e' cosi'...}
 {209}{}{Non farlo.}
-{210}{}{Slavers aren't welcome here!}
-{300}{}{We're honored to have you here, hero.}
+{210}{}{Gli schiavisti non sono i benvenuti qui!}
+{300}{}{Siamo onorati di averti qui, eroe.}
 {301}{}{La tua sconfitta dell'Enclave sara' ricordata nelle leggende. I tuoi antenati sono fieri di te.}

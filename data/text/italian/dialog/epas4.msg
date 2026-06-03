@@ -1,1 +1,1 @@
-{100}{}{Whoa, that's some foul stuff!}
+{100}{}{Woah, che roba schifosa!}

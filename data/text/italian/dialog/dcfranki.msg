@@ -5,8 +5,8 @@
 {152}{}{[PARLA]}
 {153}{}{Io sono Frankie e tu ti trovi all'interno dell'Hole. Il miglior dannato bar nel raggio di cento miglia! Tutti si trascinano nell'Hole quando e' ora di sciogliersi un po'. Adesso cerca di non fare troppo casino, hai capito?}
 {154}{}{Ho capito.}
-{155}{}{Certo, okay. Come no?}
-{156}{}{E' facile capire perche' hai chiamato questo posto "Hole"...}
+{155}{}{Certo, okay. Come no.}
+{156}{}{E' facile capire perche' hai chiamato questo posto "Hole."}
 {157}{}{Eh?}
 {158}{}{Cosa vuoi?}
 {159}{}{Whiskey.}
@@ -19,7 +19,7 @@
 {166}{}{Oppure cosa?}
 {167}{}{Fa' il tuo lavoro e dammi da bere.}
 {168}{}{Me ne andro', invece.}
-{169}{}{Per il whiskey sono }
+{169}{}{Il whisky costa $}
 {170}{}{ al bicchiere.}
 {171}{}{Eccoti i soldi.}
 {172}{}{Scordatelo! E' troppo!}
@@ -34,7 +34,7 @@
 {181}{}{Cosa vuoi?}
 {182}{}{Whiskey.}
 {183}{}{Niente. Me ne stavo andando.}
-{184}{}{Wahdo a peedee!}
+{184}{}{Wahdo un pideo!}
 {185}{}{E rimanici, la' fuori!}
 {186}{}{[ESCI]}
 {187}{}{Non voglio tipi come te nel mio locale! Fuori di qui!}

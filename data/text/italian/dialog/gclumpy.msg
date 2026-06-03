@@ -13,7 +13,7 @@
 {130}{}{Beh, il mio nome vero e' John -- ma tutti qui mi chiamano Bitorzolo.}
 {131}{}{Perche' proprio Bitorzolo?}
 {132}{}{Beh, chi puo' biasimarli? Addio.}
-{140}{}{Ehila'. Hai mai notato che ogni brahmin e' dotato di una sua propria personalita'? Beh, se ti capitera' di osservarli tanto a lungo quanto ho fatto io, te ne accorgerai di certo. }
+{140}{}{Ehila'. Hai mai notato che ogni brahmin e' dotato di una sua propria personalita'? Beh, se ti capitera' di osservarli tanto a lungo quanto ho fatto io, te ne accorgerai di certo.}
 {141}{}{Yup. Veramente incredibile. Davvero.}
 {142}{}{Mu' mu'.}
 {143}{}{Di che cosa ti occupi?}

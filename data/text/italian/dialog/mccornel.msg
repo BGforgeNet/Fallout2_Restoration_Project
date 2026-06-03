@@ -1,4 +1,4 @@
-{100}{}{Vedi un vecchio. }
+{100}{}{Vedi un vecchio.}
 {101}{}{Vedi Cornelius.}
 {102}{}{A parte l'espressione leggermente confusa del suo volto, non sembra esserci nulla di strano in lui.}
 {150}{}{Benvenuto al Bed & Breakfast di Rose. Il mio nome e' Rose -- cioe', Cornelius -- e sono il proprietario di questo bed and breakfast. Posso aiutarti?}

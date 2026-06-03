@@ -107,7 +107,7 @@
 {450}{}{Cazzo, cosa diavolo c'e' di sbagliato in te? Smettila con le droghe.}
 {451}{}{La droga ti fa male, amico.}
 {452}{}{La droga ti fa male, miss.}
-{453}{}{[Grunt]}
+{453}{}{[Grugnito]}
 {460}{}{Oh, davvero? Di cosa si tratta?}
 {461}{}{Ti costera'.}
 {462}{}{Lara ha deciso di attaccare la chiesa, stanotte.}

@@ -6,7 +6,7 @@
 {105}{}{Chi sei?}
 {106}{}{Mi chiamo Bob. Saltbeef Bob, yep. E tu?}
 {107}{}{Quale hai detto che era il tuo nome, straniero? Io sono Saltbeef Bob.}
-{108}{}{[Player name]}
+{108}{}{[Nome del giocatore]}
 {109}{}{Saltbeef? Che razza di nome e' mai questo?}
 {110}{}{Cosa fai qui?}
 {111}{}{E' proprio un bel nome, yep. Di', non avresti qualcosa da bere con te, amico?}
@@ -40,7 +40,7 @@
 {139}{}{Ehe, ehe, ehe! E' mia adesso, amico. Dovrai trovartene una tutta tua, adesso!}
 {140}{}{Il capo mi lascia stare qui. Io mi occupo di questa stalla! Pulisco un po' in giro, tengo in ordine.}
 {141}{}{Saltbeef? Che razza di nome e' mai questo?}
-{142}{}{Piacere di conoscerti. Io sono }
+{142}{}{Piacere di conoscerti. Io sono}
 {143}{}{Fulmini e saette, ancora tu? Fa' sparire quel tuo brutto muso dalla mia vista!}
 {144}{}{Va' a quel paese!}
 {145}{}{Sei davvero irascibile, vecchio.}

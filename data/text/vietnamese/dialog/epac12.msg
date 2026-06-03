@@ -152,7 +152,7 @@
 {373}{}{What's the term for it... heterochromia? Is that what you have?}
 {374}{}{Mine isn't a natural condition. The one on the left didn't belong to me. I lost the old one in an accident.
  And I've never learned to appreciate that until now.}
-{375}{}{What do you mean?}
+{375}{}{Ý cậu là sao?}
 {376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other.
  More so than ever now. And that helps me carry on.}
 {377}{}{We all have our ways of coping.}

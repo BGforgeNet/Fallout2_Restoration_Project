@@ -137,21 +137,18 @@
 {174}{}{'s lack of skill has jammed the lock on this container.}
 {175}{}{ failed to pick the lock on this container.}
 {176}{}{You bust the lock off the container.}
-{177}{}{Du sträcker ryggen när du försöker bryta upp låset och skadas
- ett hälsopoäng.}
-{178}{}{Du sträcker ryggen när du försöker bryta upp låset och
- skadas }
+{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{178}{}{You strain your back while trying to bust the lock off and
+ take }
 {179}{}{ skadepoäng.}
-{180}{}{Du är för svag för att bryta upp låset.}
+{180}{}{You are too weak to bust the lock off.}
 {181}{}{ busts the lock off the container.}
-{182}{}{ sträcker ryggen när han försöker bryta upp låset och skadas
- ett hälsopoäng.}
-{183}{}{ sträcker ryggen när han försöker bryta upp låset och skadas }
+{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
+{183}{}{ strains his back while trying to bust the lock off and takes }
 {184}{}{ skadepoäng.}
 {185}{}{ är för svag för att bryta upp låset.}
-{186}{}{ sträcker ryggen när hon försöker bryta upp låset och skadas
- ett hälsopoäng.}
-{187}{}{ sträcker ryggen när hon försöker bryta upp låset och skadas }
+{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
+{187}{}{ strains her back while trying to bust the lock off and takes }
 {188}{}{ skadepoäng.}
 {189}{}{You deftly lock the container.}
 {190}{}{You fail to lock the container.}

@@ -17,7 +17,7 @@
 {116}{}{Manson?}
 {117}{}{Io... capisco. Addio!}
 {118}{}{Mi trovo qui perche' io e Franc stavamo lottando contro quello che la societa' vuole farci credere.}
-{119}{}{E sarebbe...?}
+{119}{}{E sarebbe...}
 {120}{}{Si'! Abbasso il sistema!}
 {121}{}{Broken Hills? Vivo qui da quando sono nato. E' per questo che riesco a vedere cosa c'e' di marcio. E' per questo che so quanto siano malvagi tutti i mutanti. Per fortuna ci sono altre persone che vedono la verita'.}
 {122}{}{Gia', ehm... Abbasso il sistema, eh?}

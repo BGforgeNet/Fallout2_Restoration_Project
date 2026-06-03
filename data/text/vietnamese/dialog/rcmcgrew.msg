@@ -23,7 +23,7 @@
 {119}{}{What makes you think they haven't? Everybody would like to have Redding under their belt. My
  guess is that someone will get us pretty soon. About the only thing we can do is choose our master, if
  we want to survive.}
-{120}{}{What do you mean?}
+{120}{}{Ý cậu là sao?}
 {121}{}{I guess that makes sense. Well, good-luck and goodbye.}
 {122}{}{I mean that we're going to be put under someone's thumb. Only a fool thinks otherwise. Our
  choice is to pick the lightest thumb.}
@@ -31,7 +31,7 @@
 {124}{}{Happy thumb hunting, then. Goodbye.}
 {125}{}{You bet I have. If we don't ally ourselves with one of the families in New Reno, you can just
  kiss Redding goodbye. At least any type of Redding that I'd want to live in.}
-{126}{}{What do you mean?}
+{126}{}{Ý cậu là sao?}
 {127}{}{I see. Well, goodbye.}
 {128}{}{If the NCR takes over, Redding's going to be put under the thumb, hard. They aren't real big on
  personal freedom. They're going to turn Redding into another splotch on the New California Republic map.

@@ -9,7 +9,7 @@
 {110}{}{Ti troverai benissimo qui.}
 {111}{}{Perche' non ci offri un giro di bevute?}
 {112}{}{Vuoi sfidare i Dunton a braccio di ferro?}
-{113}{}{Arrivi dal Den, per caso?}
+{113}{}{Hai l'aria di uno che viene da nord, da Den.}
 {114}{}{Cos'hai da guardare?}
 {115}{}{Hai una pelle cosi' liscia, dolcezza. Heh, heh, heh.}
 {116}{}{Urp, avrei proprio bisogno di un altro boccale di piscio di gecko.}

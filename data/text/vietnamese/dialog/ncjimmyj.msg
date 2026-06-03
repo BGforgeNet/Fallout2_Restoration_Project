@@ -230,7 +230,7 @@
 {707}{}{I see. I had some other questions...}
 {708}{}{Nevermind, then.}
 {715}{}{Yeah, he WOULD say that, cause he knows ALL about it.}
-{716}{}{What do you mean?}
+{716}{}{Ý cậu là sao?}
 {725}{}{What do I mean? I mean Jimmy likes his buyers happy and ALIVE. Renesco don't draw no distinctions 'tween the two,
  though... so YOU draw yer own conclusions, my pilot friend.}
 {727}{}{Thanks for the tip, Jimmy. I'd better be going now.}
