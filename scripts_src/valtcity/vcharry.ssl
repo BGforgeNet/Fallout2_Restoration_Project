@@ -92,6 +92,11 @@ procedure Node014;
 #define LVAR_Hostile                    (5)
 #define LVAR_Personal_Enemy             (6)
 #define LVAR_Abbey_Part_Sold            (7)
+/**
+ * - 0: didn't get guns yet
+ * - 1: Harry brought out the guns and named the price. Didn't pay yet.
+ * - 2: Got the guns
+ */
 #define LVAR_Village_Guns               (8)
 
 /* Imported variables from the Map scripts. These should only be
@@ -282,24 +287,23 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   //Reply(102);
-
-   //added by killap - expansion pack (Village)
-   if (local_var(LVAR_Village_Guns) != 1) then
-    gsay_reply(SCRIPT_VCHARRY, 102);
+   // added by killap - expansion pack (Village)
    if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_JOE_SPOKE) then begin
      if (local_var(LVAR_Village_Guns) == 1) then begin
-       gsay_reply(SCRIPT_VCHARRY, 141); //killap
+       Reply(141);
        if (dude_caps >= 10000) then
-         giq_option(4, SCRIPT_VCHARRY, 132, Node011, NEUTRAL_REACTION); //killap
+         NOption(132, Node011, 004);
        else
-         giq_option(4, SCRIPT_VCHARRY, 144, Node999, NEUTRAL_REACTION); //killap
+         NOption(144, Node999, 004);
        if (dude_caps >= 5000) then
-         giq_option(4, SCRIPT_VCHARRY, 142, Node012, NEUTRAL_REACTION); //killap
+         NOption(142, Node012, 004);
        if (dude_caps >= 2000) then
-         giq_option(4, SCRIPT_VCHARRY, 143, Node013, NEUTRAL_REACTION); //killap
+         NOption(143, Node013, 004);
      end else
-       giq_option(4, SCRIPT_VCHARRY, 129, Node010, NEUTRAL_REACTION); //killap
+       NOption(129, Node010, 004);
+   end else begin
+      // default
+      Reply(102);
    end
    //end
 
@@ -418,30 +422,27 @@ end
 //end added by killap
 
 //added by killap - expansion pack (Village)
-procedure Node010
-begin
-  gsay_reply(SCRIPT_VCHARRY, 130); //killap
-  giq_option(4, SCRIPT_VCHARRY, 139, Node010a, NEUTRAL_REACTION); //killap
+procedure Node010 begin
+  Reply(130);
+  NOption(139, Node010a, 4);
 end
 
-procedure Node010a
-begin
+procedure Node010a begin
   gfade_out(600);
   gfade_in(600);
-  gsay_reply(SCRIPT_VCHARRY, 131); //killap
+  Reply(131);
   set_local_var(LVAR_Village_Guns,1);
   if (dude_caps >= 10000) then
-    giq_option(4, SCRIPT_VCHARRY, 132, Node011, GOOD_REACTION); //killap
+    GOption(132, Node011, 4);
   else
-    giq_option(4, SCRIPT_VCHARRY, 144, Node999, NEUTRAL_REACTION); //killap
+    NOption(144, Node999, 4);
   if (dude_caps >= 5000) then
-    giq_option(4, SCRIPT_VCHARRY, 133, Node012, NEUTRAL_REACTION); //killap
+    NOption(133, Node012, 4);
   if (dude_caps >= 2000) then
-    giq_option(4, SCRIPT_VCHARRY, 134, Node013, BAD_REACTION); //killap
+    BOption(134, Node013, 4);
 end
 
-procedure Node011
-begin
+procedure Node011 begin
   set_local_var(LVAR_Village_Guns,2);
   //set_local_var(7, 2);
   gun1 := create_object(PID_SHOTGUN, 0, 0);
@@ -470,11 +471,9 @@ begin
     set_local_var(LVAR_Village_Guns,2);
     //set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
     set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS); //edit by killap
-  end
-  else
-  begin
-    gsay_reply(SCRIPT_VCHARRY, 135); //killap
-    giq_option(4, SCRIPT_VCHARRY, 140, Node999, NEUTRAL_REACTION); //killap
+  end else begin
+    Reply(135);
+    NOption(140, Node999, 004);
   end
 end
 
@@ -493,11 +492,9 @@ begin
     set_local_var(LVAR_Village_Guns,2);
     //set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
     set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS); //edit by killap
-  end
-  else
-  begin
-    gsay_reply(SCRIPT_VCHARRY, 135);
-    giq_option(4, SCRIPT_VCHARRY, 140, Node999, NEUTRAL_REACTION); //killap
+  end else begin
+    Reply(135);
+    NOption(140, Node999, 004);
   end
 end
 
