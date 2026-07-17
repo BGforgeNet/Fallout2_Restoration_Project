@@ -280,14 +280,15 @@ procedure Node001 begin
     if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_JOE_SPOKE) then begin
         if (local_var(LVAR_Village_Guns) == 1) then begin
             Reply(141);
+            // See Node010a for matching options
             if (dude_caps >= 10000) then
-                NOption(132, Node011, 004);
+                GOption(132, Node011, 004);
             else
                 NOption(144, Node999, 004);
             if (dude_caps >= 5000) then
                 NOption(142, Node012, 004);
             if (dude_caps >= 2000) then
-                NOption(143, Node013, 004);
+                BOption(143, Node013, 004);
         end else
             NOption(129, Node010, 004);
     end else begin
