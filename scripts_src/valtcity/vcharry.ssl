@@ -1,5 +1,5 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+    Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 /*
@@ -35,7 +35,6 @@
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 
-
 /* Standard Script Procedures */
 procedure start;
 procedure critter_p_proc;
@@ -51,14 +50,12 @@ procedure map_update_p_proc;
 
 /* Script Specific Procedure Calls */
 procedure Node970;
-procedure Node998;                                      // This Node is Always Combat
-procedure Node999;                                      // This Node is Always Ending
-
+procedure Node998;    // This Node is Always Combat
+procedure Node999;    // This Node is Always Ending
 
 // The next lines are added in by the Designer Tool.
 // Do NOT add in any lines here.
-//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
-
+// ~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
 procedure Node001;
 procedure Node003;
 procedure Node003a;
@@ -68,23 +65,21 @@ procedure Node004;
 procedure Node005;
 procedure Node006;
 procedure Node007;
+procedure Node008;    // added by killap - expansion pack (Abbey)
+procedure Node009;    // added by killap - expansion pack (Abbey)
 
-procedure Node008; //added by killap - expansion pack (Abbey)
-procedure Node009; //added by killap - expansion pack (Abbey)
-
-//added by killap - expansion pack (Village)
+// added by killap - expansion pack (Village)
 procedure Node010;
 procedure Node010a;
 procedure Node011;
 procedure Node012;
 procedure Node013;
 procedure Node014;
-//end
+// end
 
-//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// ~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
 // seen by the design Tool
-
 
 /* Local Variables which are saved. All Local Variables need to be
    prepended by LVAR_ */
@@ -108,10 +103,10 @@ import variable plow1;
 import variable plow2;
 import variable Harry_Ptr;
 
-//added by killap - expansion pack
+// added by killap - expansion pack
 variable gun1 := 0;
 variable gun2 := 0;
-//end
+// end
 
 #define move_inven_to_box              move_obj_inven_to_obj(self_obj, vault_city_harry_box);
 #define move_inven_from_box            move_obj_inven_to_obj(vault_city_harry_box, self_obj);
@@ -119,143 +114,138 @@ variable gun2 := 0;
 #define move_inven_from_temp_box       move_obj_inven_to_obj(vault_city_courtyard_temp_box, self_obj);
 
 /* Local variables which do not need to be saved between map changes. */
-variable Only_Once:=0;
+variable Only_Once := 0;
 
 procedure start begin
-   Harry_Ptr := self_obj;
+    Harry_Ptr := self_obj;
 end
 
 /* This procedure will get called each time that the map is first entered. It will
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
-   Only_Once:=0;
-   Harry_Ptr := self_obj;
-   set_self_team(TEAM_VAULT_CITIZENS);
-   set_self_ai(AI_TOUGH_CITIZEN);
+    Only_Once := 0;
+    Harry_Ptr := self_obj;
+    set_self_team(TEAM_VAULT_CITIZENS);
+    set_self_ai(AI_TOUGH_CITIZEN);
 
-   //added by killap - expansion pack (Village)
-   if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then begin
-    critter_attempt_placement(self_obj, 21915, 0);
-    inven_unwield(self_obj);
-    move_obj_inven_to_obj(self_obj, tile_contains_pid_obj(12112,dude_elevation,152));
-    move_obj_inven_to_obj(vault_city_harry_box, tile_contains_pid_obj(12112,dude_elevation,152));
-   end
-   //end
+    // added by killap - expansion pack (Village)
+    if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then begin
+        critter_attempt_placement(self_obj, 21915, 0);
+        inven_unwield(self_obj);
+        move_obj_inven_to_obj(self_obj, tile_contains_pid_obj(12112, dude_elevation, 152));
+        move_obj_inven_to_obj(vault_city_harry_box, tile_contains_pid_obj(12112, dude_elevation, 152));
+    end
+    // end
 end
 
 procedure map_update_p_proc begin
-   Harry_Ptr := self_obj;
+    Harry_Ptr := self_obj;
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
-   Movement to attacking the player on sight can be placed in here.*/
+   Movement to attacking the player on sight can be placed in here. */
 procedure critter_p_proc begin
-
-/* If the critter is mad at the player for any reason, it will attack and remember to attack
+    /* If the critter is mad at the player for any reason, it will attack and remember to attack
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (self_can_see_dude)) then begin
-       set_local_var(LVAR_Hostile,1);
-       attack(dude_obj);
-   end
-
-   // If the player is stealing from Harry's stock, warn once, then
-   // call the guards.
-   else if( map_var( MVAR_Stealing_From_Harry ) == 1 ) then begin
-        set_map_var( MVAR_Stealing_From_Harry, 0 );
-        floater( 122 );
-        set_map_var( MVAR_Guard_Alert, 1 );
-   end
+    if (((local_var(LVAR_Hostile) == 2) or ((global_var(GVAR_ENEMY_VAULT_COURTYARD) == 1)))
+        and (self_can_see_dude))
+    then begin
+        set_local_var(LVAR_Hostile, 1);
+        attack(dude_obj);
+    end    // If the player is stealing from Harry's stock, warn once, then
+    // call the guards.
+    else if (map_var(MVAR_Stealing_From_Harry) == 1) then begin
+        set_map_var(MVAR_Stealing_From_Harry, 0);
+        floater(122);
+        set_map_var(MVAR_Guard_Alert, 1);
+    end
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
    like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
 procedure damage_p_proc begin
-
-/* If the player causes damage to this critter, then he will instantly consider the player
+    /* If the player causes damage to this critter, then he will instantly consider the player
    his personal enemy. In Critter_Proc or through dialog, actions will be taken against
    the player for his evil acts. */
-   if (source_obj == dude_obj) then begin
-      set_local_var(LVAR_Personal_Enemy,1);
-      set_global_var( GVAR_ENEMY_VAULT_COURTYARD, 1 );
-      set_global_var( GVAR_ENEMY_VAULT_CITY, 1 );
-      set_global_var( GVAR_VAULT_CITIZEN, CITIZEN_KICKED_OUT );
-      set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
-      set_global_var( GVAR_VAULT_CITIZENSHIP, 0 );
-   end
+    if (source_obj == dude_obj) then begin
+        set_local_var(LVAR_Personal_Enemy, 1);
+        set_global_var(GVAR_ENEMY_VAULT_COURTYARD, 1);
+        set_global_var(GVAR_ENEMY_VAULT_CITY, 1);
+        set_global_var(GVAR_VAULT_CITIZEN, CITIZEN_KICKED_OUT);
+        set_global_var(GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT));
+        set_global_var(GVAR_VAULT_CITIZENSHIP, 0);
+    end
 end
 
 /* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
    In here, various things can happen. The most common response is instant hostility which
    will be remembered. */
 procedure pickup_p_proc begin
-   if (source_obj == dude_obj) then begin
-       set_local_var(LVAR_Hostile,2);
-   end
+    if (source_obj == dude_obj) then begin
+        set_local_var(LVAR_Hostile, 2);
+    end
 end
 
 /* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   Evil_Critter:=0;
-   Slavery_Tolerant:=SLAVE_TOLERANT;
-   Karma_Perception:=KARMA_PERCEPTION0;
+    Evil_Critter := 0;
+    Slavery_Tolerant := SLAVE_TOLERANT;
+    Karma_Perception := KARMA_PERCEPTION0;
 
-   CheckKarma;
+    CheckKarma;
 
-   GetReaction;
+    GetReaction;
 
-   //added by killap - expansion pack (Village)
-   if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then
-    float_msg(self_obj, message_str(SCRIPT_VCHARRY, random(145, 149)), FLOAT_MSG_YELLOW);
-   //end
-   else if town_rep_is_vilified then begin
-       floater(107);
-   end
-   else begin
-       move_inven_to_temp_box
-       move_inven_from_box
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node001;
-       gSay_End;
-       end_dialogue;
-       move_inven_to_box
-       move_inven_from_temp_box
-   end
+    // added by killap - expansion pack (Village)
+    if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then
+        float_msg(self_obj, message_str(SCRIPT_VCHARRY, random(145, 149)), FLOAT_MSG_YELLOW);
+    else if town_rep_is_vilified then begin
+        floater(107);
+    end else begin
+        move_inven_to_temp_box
+        move_inven_from_box
+        start_gdialog(NAME, self_obj, 4, -1, -1);
+        gSay_Start;
+        call Node001;
+        gSay_End;
+        end_dialogue;
+        move_inven_to_box
+        move_inven_from_temp_box
+    end
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
    incrementing the death count for reputation purposes and Enemy Counters are placed
    in here. */
 procedure destroy_p_proc begin
+    // Set up out of business.
+    create_north_out_of_business(14919, 0);
 
-   // Set up out of business.
-   create_north_out_of_business(14919, 0);
+    /* Increment the aligned critter counter */
+    inc_good_critter
 
-/* Increment the aligned critter counter*/
-   inc_good_critter
-
-/* Set global_variable for Enemy status*/
+    /* Set global_variable for Enemy status */
 end
 
 /* Look_at_p_proc gets called any time that the player passes the cursor over any object.
    This should only hold the most cursory of glances for the player. */
 procedure look_at_p_proc begin
-   script_overrides;
-   display_msg(mstr(100));
+    script_overrides;
+    display_msg(mstr(100));
 end
 
 /* The player will see more indepth descriptions from this procedure. They are actively
    looking at the critter and want more information. Things like names can be added here
    if the critter is known to the player. */
 procedure description_p_proc begin
-   script_overrides;
-   display_msg(mstr(101));
+    script_overrides;
+    display_msg(mstr(101));
 end
 
 /* Any time a skill is used on a critter this call is made. This can be to give examinations
@@ -264,16 +254,16 @@ procedure use_skill_on_p_proc begin
 end
 
 procedure Node970 begin
-   gdialog_mod_barter(0);
+    gdialog_mod_barter(0);
 
-   NMessage(g_mstr(203));
+    NMessage(g_mstr(203));
 end
 
 /* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
    this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
-   he was once hostile towards the player.*/
+   he was once hostile towards the player. */
 procedure Node998 begin
-   set_local_var(LVAR_Hostile,2);
+    set_local_var(LVAR_Hostile, 2);
 end
 
 /* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
@@ -281,228 +271,227 @@ end
 procedure Node999 begin
 end
 
-
 // Not lines are allowed to be added below here
 // The Following lines are from the Design Tool
-//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+// ~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   // added by killap - expansion pack (Village)
-   if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_JOE_SPOKE) then begin
-     if (local_var(LVAR_Village_Guns) == 1) then begin
-       Reply(141);
-       if (dude_caps >= 10000) then
-         NOption(132, Node011, 004);
-       else
-         NOption(144, Node999, 004);
-       if (dude_caps >= 5000) then
-         NOption(142, Node012, 004);
-       if (dude_caps >= 2000) then
-         NOption(143, Node013, 004);
-     end else
-       NOption(129, Node010, 004);
-   end else begin
-      // default
-      Reply(102);
-   end
-   //end
+    // added by killap - expansion pack (Village)
+    if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_JOE_SPOKE) then begin
+        if (local_var(LVAR_Village_Guns) == 1) then begin
+            Reply(141);
+            if (dude_caps >= 10000) then
+                NOption(132, Node011, 004);
+            else
+                NOption(144, Node999, 004);
+            if (dude_caps >= 5000) then
+                NOption(142, Node012, 004);
+            if (dude_caps >= 2000) then
+                NOption(143, Node013, 004);
+        end else
+            NOption(129, Node010, 004);
+    end else begin
+        // default
+        Reply(102);
+    end
+    // end
 
-   NOption(103,Node970,004);
-   if ((global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_HELP_FREE) or
-       (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_HELP_CASH)) then
-        NOption(104,Node003,004);
-   NLowOption(105,Node970);
-   if ((global_var(GVAR_ABBEY_PUMP) == PUMP_GET_PART) and (local_var(LVAR_Abbey_Part_Sold) == 0)) then
-      NOption(123,Node008,004); //added by killap
-   NLowOption(g_mstr(303),Node999);
-   NOption(106,Node999,004);
+    NOption(103, Node970, 004);
+    if ((global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_HELP_FREE)
+        or (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_HELP_CASH))
+    then
+        NOption(104, Node003, 004);
+    NLowOption(105, Node970);
+    if ((global_var(GVAR_ABBEY_PUMP) == PUMP_GET_PART) and (local_var(LVAR_Abbey_Part_Sold) == 0)) then
+        NOption(123, Node008, 004);    // added by killap
+    NLowOption(g_mstr(303), Node999);
+    NOption(106, Node999, 004);
 end
 
 procedure Node003 begin
-   Reply(108);
+    Reply(108);
 
-   NOption(109,Node003a,004);
-   NOption(110,Node003b,004);
-   if (dude_caps < 800) then
-       NOption(111,Node999,004);
-   else
-       BOption(112,Node003c,004);
+    NOption(109, Node003a, 004);
+    NOption(110, Node003b, 004);
+    if (dude_caps < 800) then
+        NOption(111, Node999, 004);
+    else
+        BOption(112, Node003c, 004);
 end
 
 procedure Node003a begin
-   if ((has_skill(dude_obj,SKILL_BARTER) > 50) and (dude_caps >= 600)) then begin
-       dude_caps_adjust(-600);
-       self_caps_adjust(600);
-       call Node004;
-   end
-   else
-       call Node005;
+    if ((has_skill(dude_obj, SKILL_BARTER) > 50) and (dude_caps >= 600)) then begin
+        dude_caps_adjust(-600);
+        self_caps_adjust(600);
+        call Node004;
+    end else
+        call Node005;
 end
 
 procedure Node003b begin
-   if (dude_caps >= 800) then begin
-       dude_caps_adjust(-800);
-       self_caps_adjust(800);
-       call Node004;
-   end
-   else
-       call Node006;
+    if (dude_caps >= 800) then begin
+        dude_caps_adjust(-800);
+        self_caps_adjust(800);
+        call Node004;
+    end else
+        call Node006;
 end
 
 procedure Node003c begin
-   set_global_var(GVAR_TOWN_REP_VAULT_CITY, global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_SCREW_SMITHS);
+    set_global_var(GVAR_TOWN_REP_VAULT_CITY, global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_SCREW_SMITHS);
 end
 
 procedure Node004 begin
-   Reply(113);
+    Reply(113);
 
-   NOption(114,Node007,004);
+    NOption(114, Node007, 004);
 end
 
 procedure Node005 begin
-   Reply(115);
+    Reply(115);
 
-   NOption(110,Node003b,004);
-   if (dude_caps < 800) then
-       NOption(111,Node999,004);
-   else
-       BOption(112,Node003c,004);
+    NOption(110, Node003b, 004);
+    if (dude_caps < 800) then
+        NOption(111, Node999, 004);
+    else
+        BOption(112, Node003c, 004);
 end
 
 procedure Node006 begin
-   Reply(119);
+    Reply(119);
 
-   NOption(120,Node999,004);
+    NOption(120, Node999, 004);
 end
 
 procedure Node007 begin
-   NMessage(121);
+    NMessage(121);
 
-   gfade_out(600);
+    gfade_out(600);
 
-   if( not( is_visible( plow1 ) ) ) then begin
-      set_obj_visibility( plow1, false );
-   end
-   if( is_visible( plow2 ) ) then begin
-      set_obj_visibility( plow2, true );
-   end
+    if (not (is_visible(plow1))) then begin
+        set_obj_visibility(plow1, false);
+    end
+    if (is_visible(plow2)) then begin
+        set_obj_visibility(plow2, true);
+    end
 
-   gfade_in(600);
+    gfade_in(600);
 
-   if (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_HELP_CASH) then
-       set_global_var(GVAR_VAULT_PLOW_PROBLEM,PLOW_FIXED);
-   else
-       set_global_var(GVAR_VAULT_PLOW_PROBLEM,PLOW_NEED_REWARD);
+    if (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_HELP_CASH) then
+        set_global_var(GVAR_VAULT_PLOW_PROBLEM, PLOW_FIXED);
+    else
+        set_global_var(GVAR_VAULT_PLOW_PROBLEM, PLOW_NEED_REWARD);
 
-   set_global_var(GVAR_QUEST_PLOW_PROBLEM,QUEST_COMPLETED);
+    set_global_var(GVAR_QUEST_PLOW_PROBLEM, QUEST_COMPLETED);
 end
-//xxxxxxxxxxxxxxxxxxxx
+// xxxxxxxxxxxxxxxxxxxx
 
-//added by killap - expansion pack
+// added by killap - expansion pack
 procedure Node008 begin
-   Reply(124);
-   if (dude_caps >= 500) then begin
-      NOption(125,Node009,004);
-      NOption(126,Node009,004);
-      NOption(200,Node014,004);
-      NOption(204,Node999,004);
-   end else begin
-      NOption(1288,Node999,004);
-   end
+    Reply(124);
+    if (dude_caps >= 500) then begin
+        NOption(125, Node009, 004);
+        NOption(126, Node009, 004);
+        NOption(200, Node014, 004);
+        NOption(204, Node999, 004);
+    end else begin
+        NOption(1288, Node999, 004);
+    end
 end
 
 procedure Node009 begin
-  give_pid_qty(dude_obj,PID_MOTOR,1)
-  dude_caps_adjust(-500);
-  self_caps_adjust(500);
-  set_local_var(LVAR_Abbey_Part_Sold,1);
-  Reply(127);
-  NOption(128,Node999,004);
+    give_pid_qty(dude_obj, PID_MOTOR, 1)
+    dude_caps_adjust(-500);
+    self_caps_adjust(500);
+    set_local_var(LVAR_Abbey_Part_Sold, 1);
+    Reply(127);
+    NOption(128, Node999, 004);
 end
-//end added by killap
+// end added by killap
 
-//added by killap - expansion pack (Village)
+// added by killap - expansion pack (Village)
 procedure Node010 begin
-  Reply(130);
-  NOption(139, Node010a, 4);
+    Reply(130);
+    NOption(139, Node010a, 4);
 end
 
 procedure Node010a begin
-  gfade_out(600);
-  gfade_in(600);
-  Reply(131);
-  set_local_var(LVAR_Village_Guns,1);
-  if (dude_caps >= 10000) then
-    GOption(132, Node011, 4);
-  else
-    NOption(144, Node999, 4);
-  if (dude_caps >= 5000) then
-    NOption(133, Node012, 4);
-  if (dude_caps >= 2000) then
-    BOption(134, Node013, 4);
+    gfade_out(600);
+    gfade_in(600);
+    Reply(131);
+    set_local_var(LVAR_Village_Guns, 1);
+    if (dude_caps >= 10000) then
+        GOption(132, Node011, 4);
+    else
+        NOption(144, Node999, 4);
+    if (dude_caps >= 5000) then
+        NOption(133, Node012, 4);
+    if (dude_caps >= 2000) then
+        BOption(134, Node013, 4);
 end
 
 procedure Node011 begin
-  set_local_var(LVAR_Village_Guns,2);
-  //set_local_var(7, 2);
-  gun1 := create_object(PID_SHOTGUN, 0, 0);
-  gun2 := create_object(PID_ASSAULT_RIFLE, 0, 0);
-  add_mult_objs_to_inven(dude_obj, gun1, 1);
-  add_mult_objs_to_inven(dude_obj, gun2, 4);
-  dude_caps_adjust(-10000);
-  set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS); //edit by killap
-  //set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
-  gsay_reply(SCRIPT_VCHARRY, 137); //killap
-  giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION); //killap
-end
-
-procedure Node012
-begin
-  if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, 0)) or is_success(roll_vs_skill(dude_obj, SKILL_BARTER, 0)) or (dude_charisma > 5)) then
-  begin
-    gsay_reply(SCRIPT_VCHARRY, 136); //killap
-    giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION); //killap
+    set_local_var(LVAR_Village_Guns, 2);
+    // set_local_var(7, 2);
     gun1 := create_object(PID_SHOTGUN, 0, 0);
     gun2 := create_object(PID_ASSAULT_RIFLE, 0, 0);
     add_mult_objs_to_inven(dude_obj, gun1, 1);
     add_mult_objs_to_inven(dude_obj, gun2, 4);
-    dude_caps_adjust(-5000);
-    //set_local_var(7, 2);
-    set_local_var(LVAR_Village_Guns,2);
-    //set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
-    set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS); //edit by killap
-  end else begin
-    Reply(135);
-    NOption(140, Node999, 004);
-  end
+    dude_caps_adjust(-10000);
+    set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS);    // edit by killap
+    // set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
+    gsay_reply(SCRIPT_VCHARRY, 137);    // killap
+    giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION);    // killap
 end
 
-procedure Node013
-begin
-  if ((has_skill(dude_obj, SKILL_SPEECH) > 74) or (has_skill(dude_obj, SKILL_BARTER) > 74) or (dude_charisma > 7)) then
-  begin
-    gsay_reply(SCRIPT_VCHARRY, 136); //killap
-    giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION); //killap
-    gun1 := create_object(PID_SHOTGUN, 0, 0);
-    gun2 := create_object(PID_ASSAULT_RIFLE, 0, 0);
-    add_mult_objs_to_inven(dude_obj, gun1, 1);
-    add_mult_objs_to_inven(dude_obj, gun2, 4);
-    dude_caps_adjust(-2000);
-    //set_local_var(7, 2);
-    set_local_var(LVAR_Village_Guns,2);
-    //set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
-    set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS); //edit by killap
-  end else begin
-    Reply(135);
-    NOption(140, Node999, 004);
-  end
+procedure Node012 begin
+    if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, 0))
+        or is_success(roll_vs_skill(dude_obj, SKILL_BARTER, 0))
+        or (dude_charisma > 5))
+    then begin
+        gsay_reply(SCRIPT_VCHARRY, 136);    // killap
+        giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION);    // killap
+        gun1 := create_object(PID_SHOTGUN, 0, 0);
+        gun2 := create_object(PID_ASSAULT_RIFLE, 0, 0);
+        add_mult_objs_to_inven(dude_obj, gun1, 1);
+        add_mult_objs_to_inven(dude_obj, gun2, 4);
+        dude_caps_adjust(-5000);
+        // set_local_var(7, 2);
+        set_local_var(LVAR_Village_Guns, 2);
+        // set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
+        set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS);    // edit by killap
+    end else begin
+        Reply(135);
+        NOption(140, Node999, 004);
+    end
+end
+
+procedure Node013 begin
+    if ((has_skill(dude_obj, SKILL_SPEECH) > 74)
+        or (has_skill(dude_obj, SKILL_BARTER) > 74)
+        or (dude_charisma > 7))
+    then begin
+        gsay_reply(SCRIPT_VCHARRY, 136);    // killap
+        giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION);    // killap
+        gun1 := create_object(PID_SHOTGUN, 0, 0);
+        gun2 := create_object(PID_ASSAULT_RIFLE, 0, 0);
+        add_mult_objs_to_inven(dude_obj, gun1, 1);
+        add_mult_objs_to_inven(dude_obj, gun2, 4);
+        dude_caps_adjust(-2000);
+        // set_local_var(7, 2);
+        set_local_var(LVAR_Village_Guns, 2);
+        // set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
+        set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS);    // edit by killap
+    end else begin
+        Reply(135);
+        NOption(140, Node999, 004);
+    end
 end
 
 procedure Node014 begin
-   Reply(201);
+    Reply(201);
 
-   NOption(202,Node009,004);
-   NOption(203,Node999,004);
-
+    NOption(202, Node009, 004);
+    NOption(203, Node999, 004);
 end
-//end
+// end
