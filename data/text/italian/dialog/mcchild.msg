@@ -18,7 +18,7 @@
 {163}{}{Stai lontano da me!}
 {164}{}{Eeeeeeeeek!}
 {165}{}{Ti odio!}
-{166}{}{Mammina mammina mammina!}
+{166}{}{Mammina, mammina, mammina!}
 {167}{}{Lasciami in pace!}
 {168}{}{Puzzi!}
 {170}{}{Ciao.}
