@@ -48,4 +48,4 @@
 {147}{}{Zmiz!}
 {148}{}{Nech nás na pokoji.}
 {149}{}{Jsme mírumilovný kmen.}
-{150}{}{ a já je pro tebe smíchám.}
+{150}{}{a já vám ty dvě věci spojím.}

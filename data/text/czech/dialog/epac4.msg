@@ -5,7 +5,7 @@
 {201}{}{Jsem Vyvolený z Arroya. Prozkoumávám komplex EPA.}
 {202}{}{Nejsem vetřelec a právě teď musím odejít.}
 {203}{}{Jsem }
-{204}{}{ a nesnažím se narušovat, jen prozkoumávám.}
+{204}{}{, a nesnažím se narušovat, jen prozkoumávám.}
 {210}{}{Prozkoumáváš!? Prozkoumáváš... MŮJ... KOMPLEX EPA!? Kde bereš tu drzost sem vtrhnout a jen tak čmuchat kolem! Vollidiot! Uvažuji o tom, že tě zatknu a hodím tě do ohrady pro zvěř... to bude pro ty zrůdy opravdová hostina!}
 {211}{}{Ne, počkej! Vždyť ti nedělám nic špatného! Vysvětlím ti to...}
 {220}{}{Ne tak rychle, Pisskopf. Nikdo se nebude bezdůvodně potulovat po MÉM ZAŘÍZENÍ. Jak mám vědět, že nejsi čínský špeh?}

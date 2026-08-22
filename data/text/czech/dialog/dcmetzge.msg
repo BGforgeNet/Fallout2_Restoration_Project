@@ -233,7 +233,7 @@
 {914}{}{Něco navíc, jo? Ta slova se mi líbí. Obvykle tu děláme obchody zde, ale snad by se dala udělat výjimka, pokud to myslíš vážně. Řeknu ti, jak se tam dostaneš, ale radši si to nech pro sebe. Přísahám, že jestli se z tebe vyklube špión těch zasraných Rangerů, tak přísahám, že si tě najdu a stáhnu tě zaživa z kůže. (Posloucháš jeho pokyny a zaznamenáváš si polohu Tábora Otrokářů do svého Pip-Boye).}
 {915}{}{Mám to. Chci se ještě na něco zeptat.}
 {916}{}{Díky. Musím odejít. Nashle.}
-{1360}{}{. Co ty na to?}
+{1360}{}{ Co ty na to?}
 {1361}{}{?}
 {1363}{}{.}
 {1364}{}{.}

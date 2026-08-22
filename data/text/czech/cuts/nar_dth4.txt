@@ -1,2 +1,2 @@
 1:Zemřel jsi.
-2:Tvá vesnice je ztracená, odsouzená k smrti hladem
+2:Tvá vesnice je ztracená, odsouzená k smrti hladem.

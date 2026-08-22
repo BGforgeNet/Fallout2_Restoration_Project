@@ -75,18 +75,22 @@
 {174}{}{ nezkušeností způsobí zaseknutí zámku kontejneru.}
 {175}{}{ selhal při pokusu odemknout tento kontejner.}
 {176}{}{Podařilo se ti vypáčit zámek kontejneru.}
-{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
-{178}{}{You strain your back while trying to bust the lock off and
- take }
+{177}{}{Při pokusu o vylomení zámku si poraníš záda a utrpíš jeden bod poškození.}
+{178}{}{Při páčení zámku sis poranil záda a
+ to ti způsobilo poškození za }
 {179}{}{ bodů poškození.}
-{180}{}{You are too weak to bust the lock off.}
+{180}{}{Na vypáčení tohoto zámku nemáš dostatečnou sílu.}
 {181}{}{ se podařilo vypáčit zámek kontejneru.}
-{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
-{183}{}{ strains his back while trying to bust the lock off and takes }
+{182}{}{ si poranil záda, když se pokoušel vypáčit zámek,
+ což mu způsobilo jeden bod poškození.}
+{183}{}{ si poranil záda, když se pokoušel vypáčit zámek,
+ což mu způsobilo poškození za }
 {184}{}{ bodů poškození.}
 {185}{}{ nemá na vypáčení zámku dostatečnou sílu.}
-{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
-{187}{}{ strains her back while trying to bust the lock off and takes }
+{186}{}{ si poranila záda, když se pokoušela vypáčit zámek,
+ což jí způsobilo jeden bod poškození.}
+{187}{}{ si poranila záda, když se pokoušela vypáčit zámek,
+ což jí způsobilo poškození za }
 {188}{}{ bodů poškození.}
 {189}{}{Úspěšně zamykáš kontejner.}
 {190}{}{Nepodařilo se ti kontejner zamknout.}

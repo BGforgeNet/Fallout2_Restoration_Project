@@ -30,29 +30,29 @@
 {220}{}{náhodně zasáhla}
 {221}{}{jedna z jejích končetin byla zmrzačena}
 {222}{}{byla zasypána střepinami}
-{250}{female_pc}{knocked out}
-{251}{female_pc}{knocked down}
-{252}{female_pc}{crippled your left leg}
-{253}{female_pc}{crippled your right leg}
-{254}{female_pc}{crippled your left arm}
-{255}{female_pc}{crippled your right arm}
-{256}{female_pc}{blinded}
-{257}{female_pc}{were killed}
-{258}{female_pc}{hit}
+{250}{female_pc}{vyřazena}
+{251}{female_pc}{byla sražena k zemi}
+{252}{female_pc}{tvá levá noha byla zmrzačena}
+{253}{female_pc}{tvá pravá noha byla zmrzačena}
+{254}{female_pc}{tvá levá ruka byla zmrzačena}
+{255}{female_pc}{tvá pravá ruka byla zmrzačena}
+{256}{female_pc}{byla oslepena}
+{257}{female_pc}{byla zabita}
+{258}{female_pc}{byla zasažena}
 {259}{}{kriticky}
 {260}{}{v palbě}
-{261}{female_pc}{had your armor bypassed}
-{262}{female_pc}{your weapon exploded}
-{263}{female_pc}{destroyed your weapon}
-{264}{female_pc}{dropped your weapon}
-{265}{female_pc}{lost your next turn}
-{266}{female_pc}{hit yourself}
-{267}{female_pc}{lost the rest of your ammo}
-{268}{female_pc}{fired a dud shot}
-{269}{female_pc}{hurt yourself}
-{270}{female_pc}{hit randomly}
-{271}{female_pc}{crippled a random limb}
-{272}{female_pc}{peppered with fragments}
+{261}{female_pc}{rána prošla tvou zbrojí}
+{262}{female_pc}{zbraň ti vybuchla v rukou}
+{263}{female_pc}{tvá zbraň byla zničena}
+{264}{female_pc}{zbraň ti upadla na zem}
+{265}{female_pc}{přišla jsi o svůj další tah}
+{266}{female_pc}{zasáhla jsi sama sebe}
+{267}{female_pc}{ztratila jsi zbývající munici}
+{268}{female_pc}{vystřelila naprázdno}
+{269}{female_pc}{zranila jsi sama sebe}
+{270}{female_pc}{zasáhla náhodně}
+{271}{female_pc}{jedna z jejích končetin byla zmrzačena}
+{272}{female_pc}{byla zasypána střepinami}
 {300}{}{byla knokautována}
 {301}{}{byla sražena k zemi}
 {302}{}{jeho levá noha byla zmrzačena}
@@ -76,15 +76,15 @@
 {320}{}{náhodně zasáhla}
 {321}{}{jedna z jejích končetin byla zmrzačena}
 {322}{}{byla zasypána střepinami}
-{400}{female_npc}{knocked out}
-{401}{female_npc}{knocked down}
+{400}{female_npc}{byla knokautována}
+{401}{female_npc}{byla sražena k zemi}
 {402}{}{její levá noha byla zmrzačena}
 {403}{}{její pravá noha byla zmrzačena}
 {404}{}{její levá ruka byla zmrzačena}
 {405}{}{její pravá ruka byla zmrzačena}
-{406}{female_npc}{blinded}
-{407}{female_npc}{was killed}
-{408}{female_npc}{hit}
+{406}{female_npc}{byla oslepena}
+{407}{female_npc}{byla zabita}
+{408}{female_npc}{byla zasažena}
 {409}{}{kriticky}
 {410}{}{v palbě}
 {411}{}{rána prošla její zbrojí}
@@ -94,11 +94,11 @@
 {415}{}{ztratila svůj další tah}
 {416}{}{zasáhla sama sebe}
 {417}{}{ztratila zbytek munice}
-{418}{female_npc}{fired a dud shot}
+{418}{female_npc}{vystřelila naprázdno}
 {419}{}{zranila sama sebe}
-{420}{female_npc}{hit randomly}
-{421}{female_npc}{crippled a random limb}
-{422}{female_npc}{peppered with fragments}
+{420}{female_npc}{náhodně zasáhla}
+{421}{female_npc}{jedna z jejích končetin byla zmrzačena}
+{422}{female_npc}{byla zasypána střepinami}
 {506}{}{Ty}
 {509}{}{Jejda! %s byl zasažen namísto cíle %s!}
 {511}{}{%s byl kriticky zasažen %s a ztratil %d bodů zdraví}
@@ -118,23 +118,23 @@
 {533}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
 {534}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {556}{}{Ty}
-{559}{female_pc}{Oops! %s were hit instead of %s!}
-{561}{female_pc}{%s were critically hit in %s for %d hit points}
-{562}{female_pc}{%s were hit in %s for %d hit points}
-{563}{female_pc}{%s were hit for %d hit points}
-{564}{female_pc}{%s critically missed}
-{565}{female_pc}{%s missed}
-{570}{female_pc}{%s were critically hit for %d hit points}
-{571}{female_pc}{%s were critically hit in %s for 1 hit point}
-{572}{female_pc}{%s were hit in %s for 1 hit point}
-{573}{female_pc}{%s were hit for 1 hit point}
-{574}{female_pc}{%s were critically hit for 1 hit point}
-{575}{female_pc}{%s were critically hit in %s for no damage}
-{576}{female_pc}{%s were hit in %s for no damage}
-{577}{female_pc}{%s were hit for no damage}
-{578}{female_pc}{%s were critically hit for no damage}
-{583}{female_pc}{%s critically missed and took 1 hit point}
-{584}{female_pc}{%s critically missed and took %d hit points}
+{559}{female_pc}{Jejda! %s byla zasažena namísto %s!}
+{561}{female_pc}{%s byla kriticky zasažena do %s a ztratila %d bodů zdraví}
+{562}{female_pc}{%s byla zasažena do %s , ztratila %d bodů zdraví}
+{563}{female_pc}{%s byla zasažena a ztratila %d bodů zdraví}
+{564}{female_pc}{%s kriticky minula}
+{565}{female_pc}{%s minula}
+{570}{female_pc}{%s byla kriticky zasažena a ztratila %d bodů}
+{571}{female_pc}{%s byla kriticky zasažena do %s a ztratila 1 bod zdraví}
+{572}{female_pc}{%s byal zasažena do %s a ztratila 1 bod zdraví}
+{573}{female_pc}{%s byla zasažena a ztratil 1 bod zdraví}
+{574}{female_pc}{%s byla kriticky zasažena a ztratila 1 bod zdraví}
+{575}{female_pc}{%s byla kriticky zasažena %s, ale útok nezpůsobil žádná zranění}
+{576}{female_pc}{%s byla zasažena do %s, ale útok nezpůsobil žádná zranění}
+{577}{female_pc}{%s byla zasažena, ale útok nezpůsobil žádná zranění}
+{578}{female_pc}{%s byla kriticky zasažena, ale útok nezpůsobil žádná zranění}
+{583}{female_pc}{%s kriticky minula a ztratila 1 bod zdraví}
+{584}{female_pc}{%s kriticky minula a ztratila %d bodů zdraví}
 {608}{}{Jejda! %s byl zasažen místo tebe!}
 {609}{}{Jejda! Mířeno do: %s. Zasaženo: %s!}
 {611}{}{Kritický zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
@@ -153,24 +153,24 @@
 {628}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění.}
 {633}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
 {634}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
-{708}{female_npc}{Oops! %s was hit instead of you!}
-{709}{female_npc}{Oops! %s was hit instead of %s!}
-{711}{female_npc}{%s was critically hit in %s for %d hit points}
-{712}{female_npc}{%s was hit in %s for %d hit points}
-{713}{female_npc}{%s was hit for %d hit points}
-{714}{female_npc}{%s critically missed}
-{715}{female_npc}{%s missed}
-{720}{female_npc}{%s was critically hit for %d hit points}
-{721}{female_npc}{%s was critically hit in %s for 1 hit point}
-{722}{female_npc}{%s was hit in %s for 1 hit point}
-{723}{female_npc}{%s was hit for 1 hit point}
-{724}{female_npc}{%s was critically hit for 1 hit point}
-{725}{female_npc}{%s was critically hit in %s for no damage}
-{726}{female_npc}{%s was hit in %s for no damage}
-{727}{female_npc}{%s was hit for no damage}
-{728}{female_npc}{%s was critically hit for no damage}
-{733}{female_npc}{%s critically missed and took 1 hit point}
-{734}{female_npc}{%s critically missed and took %d hit points}
+{708}{female_npc}{Jejda! %s byla zasažena místo tebe!}
+{709}{female_npc}{Jejda! %s byla zasažena místo %s!}
+{711}{female_npc}{%s byla kriticky zasažena do %s a ztratila %d bodů zdraví}
+{712}{female_npc}{%s byla zasažena do %s a ztratila %d bodů zdraví}
+{713}{female_npc}{%s byla zasažena a ztratila %d bodů zdraví}
+{714}{female_npc}{%s kriticky minula}
+{715}{female_npc}{%s minula}
+{720}{female_npc}{%s byla kriticky zasažena a ztratila %d bodů zdraví}
+{721}{female_npc}{%s byla kriticky zasažena do %s a ztratila 1 bod zdraví}
+{722}{female_npc}{%s byla zasažena do %s a ztratila 1 bod zdraví}
+{723}{female_npc}{%s byla zasažena a ztratila 1 bod zdraví}
+{724}{female_npc}{%s byla kriticky zasažena a ztratila 1 bod zdraví}
+{725}{female_npc}{%s byla kriticky zasažena do %s, ale útok nezpůsobil žádné zranění}
+{726}{female_npc}{%s byla zasažena do %s, ale útok nezpůsobil žádné zranění}
+{727}{female_npc}{%s byla zasažena, ale útok nezpůsobil žádné zranění}
+{728}{female_npc}{%s byla kriticky zasažena, ale útok nezpůsobil žádné zranění}
+{733}{female_npc}{%s kriticky minula a ztratila 1 bod zdraví}
+{734}{female_npc}{%s kriticky minula a ztratila %d bodů zdraví}
 {1110}{}{do hlavy}
 {1111}{}{do levý ruky}
 {1112}{}{do pravý ruky}

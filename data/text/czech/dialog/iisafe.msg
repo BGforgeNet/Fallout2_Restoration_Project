@@ -3,7 +3,7 @@
 {200}{}{Vidíš ohromnou černou, kovovou, hranatou věc s velkým kolem.}
 {201}{}{Vidíš ohromný, černý, ocelový sejf, který se zdá být příliš těžký na to, aby se s ním dalo pohnout. Je na něm číselný zámek.}
 {202}{}{Ahoj bedýnko, já }
-{203}{}{. Kdo ty?}
+{203}{}{ Kdo ty?}
 {204}{}{Otočit kolem.}
 {205}{}{Odbelhat se.}
 {206}{}{Hmmmm. Možná, že ten sejf otevřou čísla na těhlech třech psích známkách...}
@@ -52,7 +52,7 @@
 {321}{}{Černá kovová hranatá věc si tě nevšímá.}
 {322}{}{Kovová bedna tě ignoruje.}
 {323}{}{Halóóóó? Já }
-{324}{}{. Kdo ty?}
+{324}{}{ Kdo ty?}
 {325}{}{Otočit kolem.}
 {326}{}{Odbelhat se.}
 {340}{}{S chirurgickou přesností zneškodňuješ rozbušku a vytahuješ dynamit z hlíny. Past je nyní zneškodněna.}
