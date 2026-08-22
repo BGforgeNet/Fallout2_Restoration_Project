@@ -13,7 +13,7 @@ procedure robot_self_arm (
   variable bullets_min = 1,
   variable bullets_max = 3,
   variable shells_min = 1,
-  variable shells_max = 3,
+  variable shells_max = 3
 ) begin
   variable Ammo1;
   variable Ammo2;
