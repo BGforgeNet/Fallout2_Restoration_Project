@@ -723,7 +723,7 @@ procedure Kill_The_Party begin
     variable who;
     who = closest_party_member(self_obj);
     if who then begin
-        if tile_distance_objs(self_obj, tile_num(who)) < 2 then begin
+        if tile_distance_objs(self_obj, who) < 2 then begin
            critter_dmg(who, 1000, DMG_explosion);
            call Node015;
         end else begin

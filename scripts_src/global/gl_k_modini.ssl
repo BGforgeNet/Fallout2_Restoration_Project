@@ -8,7 +8,6 @@
 procedure start;
 procedure error_WorldMapSlots;
 procedure error_BoostScriptDialogLimit;
-procedure force_settings;
 
 procedure start begin
    if (get_ini_setting("ddraw.ini|Misc|WorldMapSlots") != 21) then begin

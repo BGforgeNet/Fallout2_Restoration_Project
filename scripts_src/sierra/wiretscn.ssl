@@ -83,15 +83,15 @@ procedure use_obj_on_p_proc begin
 
    if (cur_map_index == MAP_SIERRA_123) then begin
        if (((Tool == PID_CLIFTON_EYE) or (Tool == PID_DIXON_EYE)) and (self_tile != 19916)) then begin
-               set_map_var(MVAR_Eyeball_Used,self_elevation);
-               level:=1+dude_elevation;
-               display_msg(mstr(100)+level+".");
+           set_map_var(MVAR_Eyeball_Used,self_elevation);
+           level:=1+dude_elevation;
+           display_msg(mstr(100)+level+".");
        end
 
        else if ((self_tile == 19916) and (Tool == PID_CLIFTON_EYE)) then begin
-               set_map_var(MVAR_Eyeball_Level,self_elevation);
-               level:=1+dude_elevation;
-               display_msg(mstr(100)+level+".");
+           set_map_var(MVAR_Eyeball_Level,self_elevation);
+           level:=1+dude_elevation;
+           display_msg(mstr(100)+level+".");
        end
 
        else if ((self_tile == 19916) and (Tool == PID_DIXON_EYE)) then begin

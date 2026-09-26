@@ -69,7 +69,10 @@ cd ..
 "$extra_dir"/package/party_orders.sh
 
 # hq music
-"$extra_dir"/package/hq_music.sh
+# "$extra_dir"/package/hq_music.sh # temporally disabled for smaller packages
+
+# original music
+"$extra_dir"/package/orig_music.sh
 
 # sfall
 "$extra_dir"/package/sfall.sh

@@ -65,7 +65,7 @@ procedure closest_party_member(variable obj) begin
    if len_array(party_member_list_critters) == 1 then return false;
 
    foreach who in party_member_list_critters begin
-      if who != dude_obj then begin
+      if (who != dude_obj) and (who != obj) then begin
          cur_distance := tile_distance_objs(obj, who);
          if (min_distance == -1) or (cur_distance < min_distance) then begin
             min_distance := cur_distance;
