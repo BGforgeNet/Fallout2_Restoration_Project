@@ -40,7 +40,6 @@
 {316}{}{Cosa vuoi che faccia?}
 {317}{}{Cosa vorrebbe che facessi per lei, Don Salvatore?}
 {325}{}{(Scuote leggermente la testa.) Non c'e' posto qui...per la tua semplicita'. Le parole non bastano: tu vorresti lavorare per Louis Salvatore? Allora io devo sapere quanto affidamento posso fare su di te.}
-{325}{}{(Scuote leggermente la testa.) Non c'e' posto qui...per la tua semplicita'. Le parole non bastano: tu vorresti lavorare per Louis Salvatore? Allora io devo sapere quanto affidamento posso fare su di te.}
 {326}{}{Senti, puoi CONTARE su di me.}
 {327}{}{Lasci che le dimostri la mia buonafede, Don Salvatore. Mi affidi un compito.}
 {335}{}{(Prende un profondo respiro dal suo respiratore.) C'e'...un uomo...che ha usato la sua...abilita' con le carte per derubarmi. La somma e'...di poca importanza. L'insulto no. Voglio che quest'uomo sia ucciso e che il denaro che ha rubato mi sia restituito.}

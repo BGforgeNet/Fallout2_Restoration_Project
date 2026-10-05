@@ -5,7 +5,7 @@ procedure start;
 
 procedure start begin
    if (is_loading_game) then return;
-	if (game_loaded) then begin
+   if (game_loaded) then begin
       set_global_script_repeat(60);
       set_global_script_type(2);
    end else begin

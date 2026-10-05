@@ -1,0 +1,53 @@
+/*
+
+Shelf Fixes mod for Fallout 2 by Lexx (from Fallout et tu)
+----------------------------------------------------------
+
+Requires sfall 4.1.7/3.8.17 or higher
+
+*/
+
+#define SCRIPT_REALNAME "gl_k_shelf"
+#include "../headers/define.h"
+#include "../headers/command.h"
+#include "../sfall/sfall.h"
+
+#define PID_BOOKSHELF_1_CORNER              (148)
+#define PID_BOOKSHELF_2_CORNER              (150)
+#define PID_BOOKSHELF_3_CORNER              (154)
+#define PID_BOOKSHELF_4_CORNER              (156)
+
+procedure start;
+procedure InventoryMove_handler;
+
+procedure start begin
+   if (game_loaded) then begin
+      register_hook_proc(HOOK_INVENTORYMOVE, InventoryMove_handler);
+   end
+end
+
+procedure InventoryMove_handler begin
+   variable
+      slot := get_sfall_arg,
+      item := get_sfall_arg,
+      pid;
+
+   // Prevent player from picking up objects that should never be able to be picked up
+   // Is needed if player uses cheat mods to increase inventory size
+   if (slot == 7) then begin // picking up items
+      if (obj_weight(item) > 999) then set_sfall_return(0); // block
+   end
+
+   // If player uses a bookshelf corner object, reroute the use action to the actual bookshelf
+   pid := obj_pid(item);
+   if (pid == PID_BOOKSHELF_1_CORNER or pid == PID_BOOKSHELF_2_CORNER or pid == PID_BOOKSHELF_3_CORNER or pid == PID_BOOKSHELF_4_CORNER) then begin
+      reg_anim_clear(dude_obj);
+      Scenery_Creation_Hex := tile_num_in_direction(tile_num(item), 5, 2);
+      Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, dude_elevation, pid - 1); // actual bookshelf PID
+      if (Scenery_Creation_Ptr > 0) then begin
+         set_self(dude_obj);
+         pickup_obj(Scenery_Creation_Ptr);
+         set_self(0);
+      end
+   end
+end

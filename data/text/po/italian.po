@@ -300210,12 +300210,3 @@ msgstr "Tu essere prossima!"
 
 #~ msgid "Nurse Nancy"
 #~ msgstr "l'Infermiera Phyllis"
-
-#: dialog/ncsalvat.msg:325
-msgid ""
-"(Shakes his head slightly.) Your naivete' has... no place here. Words are not\n"
-" sufficient: You wish to work for Louis Salvatore? Then I must know how much I can rely on you."
-msgstr ""
-"(Scuote leggermente la testa.) Non c'e' posto qui...per la tua semplicita'. "
-"Le parole non bastano: tu vorresti lavorare per Louis Salvatore? Allora io "
-"devo sapere quanto affidamento posso fare su di te."
