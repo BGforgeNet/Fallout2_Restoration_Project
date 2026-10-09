@@ -293,8 +293,8 @@
 {392}{}{Solo abbattere qualche ratto? Ok, ci penso io.}
 {393}{}{Perche'?}
 {394}{}{E riguardo alla spedizione della NCR?}
-{395}{}{Ci penserò. Posso farti qualche domanda?}
-{396}{}{No, non è il tipo di lavoro per me. Addio.}
+{395}{}{Ci pensero'. Posso farti qualche domanda?}
+{396}{}{No, non e' il tipo di lavoro per me. Addio.}
 {397}{}{Eccellente. Vieni, lascia che ti mostri l'esatta posizione del villaggio. [Stark segna il villaggio sulla mappa del tuo Pip-Boy.] La paga e' di 750$, torna a riscuotere quando avrai finito il lavoro. Un'ultima cosa -- se non te ne occupi entro un mese, mandero' una squadra a eliminare i mostri... e qualsiasi altra minaccia.}
 {398}{}{Addio.}
 {399}{}{Per cosa? [Esita un momento, poi aggrotta la fronte.] Non devo spiegarti le mie motivazioni. Io do ordini, e tu li esegui -- e' cosi' che funziona. Se non vuoi il lavoro, mandero' una squadra a farlo al posto tuo... ma a volte le cose diventano un po' "disordinate" quando lascio liberi i miei ragazzi.}
@@ -308,7 +308,7 @@
 {407}{}{Puoi far credere ad altri che tu lo faccia per il loro bene.}
 {408}{}{Stanno bene esattamente dove sono.}
 {409}{}{Non importa. Porterai a termine il compito o no?}
-{410}{}{D’accordo. Lo finirò.}
+{410}{}{D’accordo. Lo finiro'.}
 {411}{}{No, non credo proprio. }
 {412}{}{Bene. Torna quando avrai finito.}
 {413}{}{Non importa, diventeranno tutti servi comunque. Sto mandando subito una squadra da combattimento. Presto non restera' nulla del loro piccolo villaggio.}
@@ -318,12 +318,12 @@
 {417}{}{Aspetta — non hai mai detto che avresti trasformato i villaggi in tuoi servi.}
 {418}{}{Vabbe'. Arrivederci.}
 {419}{}{E' per il loro bene. Una volta che saranno servi di Vault City, non avranno piu' bisogno di lottare per sopravvivere. Saranno nutriti e accuditi. In cambio, lavoreranno per il bene della Citta'. Tutti vincono.}
-{420}{}{Ma questa è schiavitù!}
+{420}{}{Ma questa e' schiavitu'!}
 {421}{}{Non e' schiavitu', ma una coesistenza reciprocamente vantaggiosa, una simbiosi per cosi' dire.}
 {422}{}{Rivoltante! Addio.}
 {423}{}{Non sorprende che quei demoni abbiano perso la testa.}
 {424}{}{Quale villaggio? Oh, quello da cui abbiamo preso i nostri nuovi servi... che c'e'?}
-{425}{}{Cosa!? Li hai ridotti tutti in schiavitù?}
+{425}{}{Cosa!? Li hai ridotti tutti in schiavitu'?}
 {426}{}{So chi ha fornito loro le armi. E' stato quel mercante nel cortile, Harry. }
 {427}{}{Sono felice che tu lo dica.}
 {428}{}{Non so perche', ma il proconsole McClure mi ha ordinato di aspettare un po' riguardo al villaggio. Vale anche per te. }
@@ -331,4 +331,4 @@
 {1215}{}{Ho convinto la loro guida a non condurli piu' attraverso le montagne. Senza di lui non troveranno mai la strada.}
 {1224}{}{Davvero? Quindi non saranno piu' una minaccia per noi?}
 {1251}{}{In realta', li ho gia' fermati. Ho convinto la loro guida a non condurli piu' attraverso le montagne. Senza di lui non troveranno mai la strada.}
-{1422}{}{Bene, sono d’accordo. Stanno meglio così. Addio.}
+{1422}{}{Bene, sono d’accordo. Stanno meglio cosi'. Addio.}

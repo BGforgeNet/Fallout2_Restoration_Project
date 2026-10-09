@@ -3,7 +3,7 @@
 {151}{}{Tu vois Mme Wright. Elle semble déprimée et elle soupire.}
 {175}{}{Tu vois une femme rondelette aux joues roses. Elle a l'air de bonne humeur et elle fredonne.}
 {176}{}{Tu vois Mme Wright. Elle a l'air de bonne humeur et elle fredonne.}
-{200}{}{::Soupir::}
+{200}{}{*Soupir*}
 {201}{}{Comment on a pu me faire ça ?}
 {205}{}{Encore une belle journée à Reno !}
 {206}{}{::Siffle en travaillant::}

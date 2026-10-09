@@ -11,7 +11,7 @@
 {110}{}{Nulla.}
 {111}{}{Io sono il Capitano. Comando questa nave. Se hai altre domande, va' a parlare con gli Shi o con Badger o con qualcun altro. Non ho tempo da perdere con te.}
 {112}{}{[FATTO]}
-{113}{}{Questa nave è una petroliera Poseidon. È equipaggiata con tecnologia sopravvissuta alla guerra. Serve un FOB per accedere alla sala del computer di navigazione, ed è dotata di un trasponder IFF che la protegge dalle armi Poseidon. Naturalmente, non ti aiuterà contro quel vecchio sottomarino cinese… quindi spera che sia morto come sembra.}
+{113}{}{Questa nave e' una petroliera Poseidon. E' equipaggiata con tecnologia sopravvissuta alla guerra. Serve un FOB per accedere alla sala del computer di navigazione, ed e' dotata di un trasponder IFF che la protegge dalle armi Poseidon. Naturalmente, non ti aiutera' contro quel vecchio sottomarino cinese… quindi spera che sia morto come sembra.}
 {114}{}{Come fa a sapere tutto questo?}
 {115}{}{Cos'e' un emettitore di segnali SIAN?}
 {116}{}{Come si fa a farla partire?}
@@ -21,7 +21,7 @@
 {120}{}{Cos'e' l'Enclave, esattamente?}
 {121}{}{Come si fa a far partire questa nave?}
 {122}{}{Addio.}
-{123}{}{Come si pilota questa nave? Riempila di carburante — prova dagli Hubologisti o dagli Shi, dopo aver sistemato tutto il resto — e premi il pulsante. Il computer farà il resto, se funziona ancora. Andrà dritta verso la piattaforma petrolifera… a meno che quel vecchio sottomarino non la faccia saltare. Almeno non dovrai preoccuparti dell’Enclave, grazie al trasponder IFF. Assicurati solo di avere tutto: FOB, computer funzionante e carburante. Facile, no?}
+{123}{}{Come si pilota questa nave? Riempila di carburante — prova dagli Hubologisti o dagli Shi, dopo aver sistemato tutto il resto — e premi il pulsante. Il computer fara' il resto, se funziona ancora. Andra' dritta verso la piattaforma petrolifera… a meno che quel vecchio sottomarino non la faccia saltare. Almeno non dovrai preoccuparti dell’Enclave, grazie al trasponder IFF. Assicurati solo di avere tutto: FOB, computer funzionante e carburante. Facile, no?}
 {124}{}{Gia'... Come fai a sapere tutte queste cose?}
 {125}{}{Cosa sono un emettitore di segnali SIAN e un FOB?}
 {126}{}{Quale piattaforma petrolifera?}
@@ -57,7 +57,7 @@
 {156}{}{.}
 {200}{}{Quale vecchio sottomarino?}
 {210}{}{C'e' un vecchio sottomarino cinese arenato laggiu' nella baia. Quella dannata cosa mi mette i brividi, li' sotto l'acqua come un fantasma arrugginito. Dubito che sia ancora attivo, ma se lo fosse, i suoi sistemi d'arma automatici potrebbero far saltare questa petroliera prima ancora che tu ti avvicini a quella piattaforma.}
-{211}{}{Perché pensi che il sottomarino non sia più attivo?}
+{211}{}{Perche' pensi che il sottomarino non sia piu' attivo?}
 {220}{}{Beh, per cominciare, e' li' a marcire nell'oceano dalla Grande Guerra. E poi, se fosse attivo, avrebbe aperto il fuoco su questa piattaforma quando l'Enclave l'ha attraccata qui. Certo, non mi stupirebbe se gli Shi ci fossero andati a trafficare, quindi non si sa mai. Potrebbe valere la pena controllare prima di salpare.}
 {221}{}{Come posso verificarlo?}
 {230}{}{Se qualcuno sa cosa sta succedendo con quel sottomarino, sono gli Shi. E' il sottomarino che li ha portati qui, dopotutto — non mi sorprenderebbe se lo venerassero. L'Imperatore degli Shi saprebbe tutto, ovviamente, ma buona fortuna a parlarci. Faresti meglio a chiedere a Lao Chou, al Flying Dragon 8 — ogni tanto dispensa informazioni. Magari potresti persino convincere un portuale a parlare.}

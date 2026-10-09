@@ -22,21 +22,21 @@
 {421}{}{E' questo che ti hanno detto, che sono Ranger? Non ci sono Ranger da queste parti, stanno mentendo.}
 {422}{}{Ranger? Quelli non sono Ranger. Guarda i loro vestiti. Sei una pedina nel loro gioco. Ti stanno solo usando.}
 {423}{}{Senti, sono stato mandato da Vault City per trovare dei predoni. Questi uomini corrispondono alla descrizione.}
-{424}{}{Oh, va bene. Allora credo che me ne andrò.}
+{424}{}{Oh, va bene. Allora credo che me ne andro'.}
 {425}{}{Non ti credo. Muori, malvagio!}
-{430}{}{Perché dovrebbero mentire a Ombra?Che?Cammina?}
+{430}{}{Perche' dovrebbero mentire a Ombra?Che?Cammina?}
 {431}{}{Li avresti aiutati se ti avessero detto che erano predoni, che attaccano innocenti, e che non gliene importa nulla di aiutare qualcuno a Vault City?}
 {432}{}{Non lo so. E' un mondo duro, la fuori. La gente si approfitta degli altri continuamente.}
 {433}{}{Per farsi una bella risata, forse? Sembri abbastanza stupido da cascarci in tutto.}
 {440}{}{Ombra Che Cammina non aiuterebbe mai a fare una cosa simile, sarebbe malvagio. [Ti guarda sospettoso.] Ma perche' Ombra Che Cammina dovrebbe fidarsi di cio' che dici?}
-{441}{}{[Gli parli della tua tribù d’origine.]}
+{441}{}{[Gli parli della tua tribu' d’origine.]}
 {442}{}{Perche' sono un Ranger, quello vero. [Gli mostri il tuo distintivo.]}
 {443}{}{Perche' so per chi lavorano questi predoni, e non e' affatto un brav'uomo. [Gli mostri i dati dell'holodisk]}
 {444}{}{Non lo so. Scusa per il disturbo.}
-{445}{}{Non serve, tanto ti ucciderò comunque.}
+{445}{}{Non serve, tanto ti uccidero' comunque.}
 {450}{}{[Ombra Che Cammina ti guarda in modo diverso, con occhi piu' fiduciosi.] Ora Ombra Che Cammina sa che sei un portatore di verita'. Ombra Che Cammina si fida di te.}
 {451}{}{Bene, cosa intendi fare adesso?}
-{452}{}{Hai idea del perché questi predoni stiano attaccando Vault City?}
+{452}{}{Hai idea del perche' questi predoni stiano attaccando Vault City?}
 {453}{}{Divertente, ti ho mentito per tutto il tempo. Come ci si sente, idiota?}
 {460}{}{No, non so. So solo che hanno ingannato Ombra Che Cammina per farsi aiutare a trovare la strada.}
 {461}{}{Bene, cosa intendi fare adesso?}
@@ -60,9 +60,9 @@
 {612}{}{Be', non ho molto da dirti, quindi lascero' che siano i miei pugni a parlare.}
 {620}{}{E perche' Ombra Che Cammina dovrebbe pensare che sia una cosa negativa? Stanno ottenendo cio' che meritano, e Ombra Che Cammina sara' felice quando saranno sconfitti e i loro "servi" liberati.}
 {621}{}{Quindi sostieni chiunque li stia attaccando?}
-{622}{}{Non credo che ti lascerò vivere abbastanza a lungo perché accada.}
+{622}{}{Non credo che ti lascero' vivere abbastanza a lungo perche' accada.}
 {630}{}{Ombra Che Cammina mostra loro la strada per Vault City e ritorno. Ombra Che Cammina e' molto importante per loro, serve affinche' trovino la via.}
-{631}{}{Allora dovrò ucciderti, così gli attacchi finiranno.}
+{631}{}{Allora dovro' ucciderti, cosi' gli attacchi finiranno.}
 {632}{}{Vuoi dire ERA importante, giusto? Quello che sto cercando di dire e' che ora morirai, per mano mia.}
 {640}{}{[Una paura crescente gli attraversa il volto, e inizia a indietreggiare.] Ti prego, no! Ombra Che Cammina non desidera morire!}
 {641}{}{Allora lascia questo posto, e questa gente, per sempre. Conto fino a dieci, e se non sarai sparito, raggiungerai i tuoi antenati nei cieli. UNO...}
@@ -106,7 +106,7 @@
 {900}{}{Ombra?Che?Cammina non capisce. Cosa intendi?}
 {901}{}{Sei in grave pericolo! Dimmi solo cosa fai qui. Devo sapere se sto parlando con la persona giusta.}
 {902}{}{Ehm… spiriti maligni stanno venendo per te.}
-{903}{}{Il pericolo è che sono qui per ucciderti.}
+{903}{}{Il pericolo e' che sono qui per ucciderti.}
 {910}{}{Ombra Che Cammina e' uno scout. Ombra Che Cammina guida questi Ranger attraverso le montagne. I guerrieri possono perdersi se
  non conoscono i sentieri tra le montagne.}
 {911}{}{Allora sei davvero tu! Il mio Anziano mi ha mandato a dirti che qualcosa di terribile ti accadra'.}

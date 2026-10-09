@@ -13,7 +13,7 @@
 {112}{}{Moi aller.}
 {113}{sgnt5}{Quoi ? T'aurais pas oublié quelque chose là ?}
 {114}{}{Je m'appelle }
-{115}{sgnt6}{Pas de Monsieur ! Je travaille pour vivre moi neu-neu ! Tu m'appelleras Sergent ou Sergent Dornan. C'est compris ?!}
+{115}{sgnt6}{Pas de Monsieur ! Je travaille pour vivre moi neu-neu ! Tu m'appelleras Sergent ou Sergent Dornan. C'est compris ?! }
 {116}{}{A vos ordres, Sergent !}
 {117}{}{Bien sûr, Sergent. Comme vous voudrez.}
 {118}{sgnt7}{Epatant. Va te mettre au hangar... et qu'ça saute ! Tu y monteras la garde. T'as intérêt à faire du bon boulot, c'est compris ?}
@@ -36,7 +36,7 @@
 {135}{}{A vos ordres, Sergent !}
 {136}{sgnt13}{Excellent ! Maintenant que tu es en uniforme, je vais te faire une faveur. On va tout recommencer depuis le début, comme si j'te connaissais pas. Qu'en dis-tu, recrue ?}
 {137}{}{Oui, heu... Sergent !}
-{138}{}{Non ! Moi m'en foutre maintenant. Moi te faire ta fête !}
+{138}{}{Non ! Moi m'en foutre maintenant. Moi faire ta fête !}
 {139}{}{A vos ordres, Sergent !}
 {140}{}{Je m'en tape maintenant que je porte cette belle armure. Je vais te faire ta fête !}
 {141}{sgnt14a}{Recrue, tu ne portes toujours pas d'uniforme. Je t'ai donné l'ordre express d'aller à la réserve pour qu'on t'en délivre un. Hors de ma vue ! Et ne reviens pas avant de ressembler à un vrai soldat !}
@@ -54,15 +54,15 @@
 {153}{}{Je n'ai pas mes papiers sur moi, ils sont dans mon coffre.}
 {154}{}{Des papiers ? Les v'là tes papiers, tiens, regarde !}
 {155}{sgnt17}{Mauvaise réponse. On est censés avoir nos papiers sur nous en permanence, tu devrais le savoir !}
-{156}{}{Oh là là !}
+{156}{}{Oups !}
 {157}{}{Ouvre l'oeil et le bon, recrue !}
 {158}{}{Parfait. Tu fais du bon boulot. Continue comme ça !}
 {159}{}{Rien à signaler apparemment. Reste à ton poste.}
 {160}{}{Si j'en attrape un à dormir, je vous garantis qu'il s'en souviendra !}
-{161}{}{Bien. Tu as trouvé ton poste de garde.}
-{162}{}{Reste à ton poste jusqu'à ce que la relève arrive, recrue.}
+{161}{}{Bien ! Tu as trouvé ton poste de garde !}
+{162}{}{Reste à ton poste jusqu'à ce que la relève arrive, recrue !}
 {163}{}{Tu es à ton poste de garde. Excellent !}
-{164}{}{On ouvre l'oeil et le bon si on tient à sa peau.}
+{164}{}{On ouvre l'oeil, et le bon si on tient à sa peau !}
 {165}{}{Alerte ! Des intrus sur la base !}
 {166}{}{Gardes ! Des intrus !}
 {167}{}{Bon sang, mais qui a laissé passer ces connards ? Gardes !}

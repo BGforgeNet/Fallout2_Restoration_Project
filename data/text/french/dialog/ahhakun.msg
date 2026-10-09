@@ -3,17 +3,17 @@
 {102}{}{Tu vois Hakunin. Il est sur le point de mourir.}
 {103}{}{Hakunin est gravement brûlé. Il sent le poulet rôti, il ressemble à du hachis de viande brûlé, et tu te demandes comment il a pu survivre si longtemps.}
 {104}{hak001}{Bonjour, Etre Elu. Pourquoi la Terre que je contemple se réchauffe sur ton passage ?}
-{105}{}{Euh ?}
-{106}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête.}
-{107}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne.}
-{108}{}{Tu as ingurgité trop de stimulants. Je m'en vais.}
+{105}{}{Euh ? }
+{106}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête. }
+{107}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne. }
+{108}{}{Tu prends vraiment beaucoup trop de drogue. Je me tire d'ici. }
 {109}{}{J'ai des blessures. Peux-tu me soigner ?}
 {110}{}{Ton jardin était envahi de mauvaises herbes. J'en ai pris soin pour toi.}
 {111}{hak001a}{Je t'en prie, révèle aux yeux voilés le motif de ton passage.}
-{112}{}{Euh ?}
-{113}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête.}
-{114}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne.}
-{115}{}{Tu as ingurgité trop de stimulants. Je m'en vais.}
+{112}{}{Euh ? }
+{113}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête. }
+{114}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne. }
+{115}{}{Tu prends vraiment beaucoup trop de drogue. Je me tire d'ici. }
 {116}{}{Ton jardin était envahi de mauvaises herbes. J'en ai pris soin pour toi.}
 {117}{hak002}{La Terre chante en apprenant l'arrivée d'un champion dans ces contrées... Peut-être accepteras-tu de m'accorder une faveur ?}
 {118}{}{Bien sûr. De quoi as-tu besoin ?}
@@ -22,10 +22,10 @@
 {121}{}{M'as-tu demandé de te faire une faveur ? Si c'est le cas, certainement, pourquoi pas ?}
 {122}{}{Je veux bien faire quelque chose pour toi mais comme j'ai du mal à te comprendre, ça ne sera pas gratuit.}
 {123}{hak003}{Dieu te bénisse, car tu es un véritable enfant de la nature. Pourrais-tu user de tes talents spéciaux pour débarrasser mon jardin des plantes aux âmes rongées ?}
-{124}{}{Uh-huh.}
+{124}{}{Euh, ouais. }
 {125}{}{Nuh-uh. Toi... Donner... Mal à tête.}
 {126}{hak004}{Que ton aura honore ma présence lorsque tu seras... Viens me voir quand tu auras terminé et je te récompenserai.}
-{127}{}{Urgh.}
+{127}{}{Argh.}
 {128}{hak005}{Les plantes aux âmes rongées ont encore envahi mon jardin. Les nombreuses saisons ont affecté mes os et je suis trop frêle pour ce combat éternel. Je te demande d'être mon champion.}
 {129}{}{Je ne pense pas. Je dois immédiatement commencer ma quête.}
 {130}{}{Je sais que tu n'es pas un mauvais bougre. J'ai déjà mal à la tête et je crois que je vais devoir partir.}
@@ -44,22 +44,22 @@
 {143}{hak007}{Pauvre créature, tu as oublié qu'il est au Nord-Est ?}
 {144}{}{Merci pour ton aide.}
 {145}{}{Merci. J'ai bien compris ça.}
-{146}{}{Tu me traites de créature ? Eh bien dans ce cas, je refuse de t'aider.}
+{146}{}{Tu me traites de créature ? Eh bien dans ce cas, je refuse de t'aider. }
 {147}{}{Je reviendrai bientôt me faire payer.}
 {148}{hak008}{Le fardeau qui te pèse toujours plus te pèsera.}
 {149}{hak009}{Que les dieux bénissent tes efforts, Etre Elu. Que ton aura honore ma présence le jour où le souffle de la terre sera à nouveau pur.}
 {150}{}{Si je comprends bien, tu veux me revoir lorsque j'aurai terminé... Tu aurais pu le dire plus simplement, tu sais...}
 {151}{}{Au revoir.}
-{152}{hak010}{Ha ! L'esprit du fondateur vit en toi. Concentre-toi pour fortifier ton moi intérieur et développer la grandeur afin que celle-ci touche le monde. Bien sûr, les gratifications dépasseront celles de l'esprit.}
+{152}{hak010}{Ah ! L'esprit du fondateur vit en toi. Concentre-toi pour fortifier ton moi intérieur et développer la grandeur afin que celle-ci touche le monde. Bien sûr, les gratifications dépasseront celles de l'esprit. }
 {153}{}{Ca à l'air bien. Je reviendrai lorsque j'aurai terminé.}
 {154}{}{Alors, je vais obtenir quelque chose en guise de paiement. Parfait. A plus tard.}
 {155}{}{Je crois que tu as trop joué avec ces plantes. Pour échapper à ton destin, je vais rester hors du jardin.}
 {156}{hak011}{Le temps ne peut être ni gaspillé, ni gagné, il doit toujours être au moment présent. Ce sont les actions qui tissent la toile de ta vie.}
-{157}{}{Euh, très bien. Comme je l'ai dit, je dois partir. Au revoir.}
-{158}{}{Tu sais, en te parlant, je m'interroge sur cette idée de temps gaspillé. Je m'en vais}
+{157}{}{Euh, très bien. Comme je l'ai dit, je dois partir. Au revoir. }
+{158}{}{Tu sais, en te parlant, je m'interroge sur cette idée de temps gaspillé. Je m'en vais. }
 {159}{}{Si seulement j'avais ta sagesse, sage homme. Pardonne-moi. Bien sûr, je vais m'en occuper pour toi.}
 {160}{hak012}{Tu as beau porter le manteau de l'Etre Elu, ton âme rongée crie de l'intérieur.}
-{161}{}{J'implore ton pardon, saint homme. Comment puis-je purifier mon âme ?}
+{161}{}{J'implore ton pardon, saint homme. Comment puis-je purifier mon âme ? }
 {162}{}{C'est vrai, Hakunin, et tu ferais preuve de grande sagesse en ne l'oubliant pas.}
 {163}{}{Ma tête me fait mal à force de t'écouter. Je m'en vais.}
 {164}{}{Booka !}
@@ -80,7 +80,7 @@
 {179}{}{Oh, rien. Au revoir.}
 {180}{hak018}{Ahhh. Tu restitues l'esprit de l'Habitant au monde et rends le sourire à l'âme d'un vieil homme. Pour cela, je te donne des poudres de guérison. N'oublie pas, elles purifient le corps mais embrument l'esprit.}
 {181}{}{Merci.}
-{182}{hak018a}{Et aussi vais-je mélanger la fleur de Broc avec la racine de Xandre lorsque tu me les ramèneras. Que tes chemins soient vrais et que ton coeur montre l'exemple.}
+{182}{hak018a}{Et aussi vais-je mélanger la fleur de Broc avec la racine de Xandre lorsque tu me les ramèneras. Que tes chemins soient vrais et que ton coeur montre l'exemple. }
 {183}{}{Où puis-je trouver ces choses ?}
 {184}{}{Merci.}
 {185}{}{Je regrette presque de partir. Je commence tout juste à te comprendre. Au revoir.}
@@ -97,7 +97,7 @@
 {196}{}{Au revoir.}
 {197}{}{Euh, tu mélanges toujours les herbes ? Au revoir.}
 {198}{hak021}{Nous avons tous un jardin. Puissent tes voyages servir de remède à tes maux. Porte-toi bien, je m'en vais à présent demander audience auprès des dieux.}
-{199}{}{A plus. }
+{199}{}{A plus.}
 {200}{}{Je suis sûr que tu attires les foules partout où tu vas. Porte-toi bien.}
 {201}{hak022}{Regarde vers le Nord, Etre Elu, et la route s'ouvrira.}
 {202}{}{Ok. Merci.}
@@ -114,7 +114,7 @@
 {213}{hak027}{Bienvenue, Etre Elu. Bénis-nous en nous disant que le J.E.K sera bientôt découvert. Notre village souffre, notre besoin est grand, et le temps nous est compté.}
 {214}{}{Nan.}
 {215}{}{Et ton habilité à parler normalement, inexistante. J'essaie toujours.}
-{216}{}{J'y travaille.}
+{216}{}{J'y travaille. }
 {217}{}{Fiche-moi la paix, vieil homme. Je fais de mon mieux.}
 {218}{}{Je cherche toujours, saint-homme. J'espère pouvoir rapidement me procurer le J.E.K.}
 {219}{hak028a}{Que la Terre amortisse tes pas.}
@@ -151,8 +151,8 @@
 {250}{}{Ca n'a pas l'air d'aller. Laisse-moi t'aider.}
 {251}{hak102}{Enfant de la Nature, comment avons-nous pu mettre un tel fardeau sur tes épaules ? [Soupire...] Ton peuple a été pris.}
 {252}{}{Euh ?}
-{253}{hak103}{Oui. Envolé. Les âmes rongées furent nombreuses à venir, chevauchant les oiseaux de métal comme une armée de tiques. Cachant leur méchanceté sous des peaux dorées.}
-{254}{}{Oh là là ! Joli doré !}
+{253}{hak103}{Oui. Envolé. Les âmes rongées furent nombreuses à venir, chevauchant les oiseaux de métal comme une armée de tiques. Cachant leur méchanceté sous des peaux dorées. }
+{254}{}{Ooo ! C'est brillant et joli !}
 {255}{hak104}{Non ! Pas belles dorées ! Ils ont enlevé notre peuple et l'ont emmené au Sud-Ouest.}
 {256}{}{Oh là là !}
 {257}{hak105}{Oui. La tristesse et la douleur sont grandes. Je suis entre les mondes pour te dire ceci, Etre Elu. Sauve ton peuple.}
@@ -175,7 +175,7 @@
 {274}{}{Euh, quelle était la direction des vents qu'ils ont suivis ?}
 {275}{hak115}{N'as-tu jamais écouté quand je te contais la danse annuelle des esprits du vent ? Vers le Sud bien sûr.}
 {276}{}{Tes descriptions étaient si vivantes et si puissantes, grand Hakunin, que je n'avais parfois plus le contrôle de mes sens pendant tes leçons.}
-{277}{}{Oh, ces vents. Bien sûr.}
+{277}{}{Oh, ces vents. Bien sûr. }
 {278}{hak116}{Ils ont suivi le vent du Sud. J'ai entendu parler les âmes rongées. Elles laisseront reposer leurs monstres dans un lieu appelé Navarro avant de traverser le grand bassin des larmes de notre mère Nature.}
 {279}{}{Que dois-je faire ?}
 {280}{}{Le bassin des larmes ?}

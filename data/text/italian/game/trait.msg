@@ -8,7 +8,7 @@
 {107}{}{Colpo Rapido}
 {108}{}{Caos di Sangue}
 {109}{}{Iettatore}
-{110}{}{Pacifista}
+{110}{}{Bonario}
 {111}{}{Tossicomane}
 {112}{}{Res. ai Farmaci}
 {113}{}{Fascino Sessuale}

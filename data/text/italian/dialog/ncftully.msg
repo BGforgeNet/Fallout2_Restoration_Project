@@ -234,7 +234,7 @@
 {812}{}{Sparano raggi di luce? Sta parlando di armi laser?}
 {814}{}{Wow... magari potrei cercare di mettere le mani su una di queste armi. Beh, grazie per aver parlato con me.}
 {820}{}{E' coshi' che li ho sentiti chiamarle... la-ser... Ma per me, quelle armi sono proprieta' del diavolo, immondi Luciferi, strumenti ideati solo per uccidere!}
-{821}{}{Sì, certamente, Padre. Strumenti del diavolo e tutto il resto. Cosa ne pensano le altre famiglie di questi ‘Portatori di Luce?’}
+{821}{}{Si', certamente, Padre. Strumenti del diavolo e tutto il resto. Cosa ne pensano le altre famiglie di questi ‘Portatori di Luce?’}
 {823}{}{Strumenti del diavolo, eh? Magari potrei cercare di mettere le mani su una di queste armi. Beh, grazie per aver parlato con me.}
 {830}{}{Uno dei loro fulminatori potrebbe uscidere una dozzina di uomini. Una volta le altre famiglie combattevano contro i Salvatore, ma adesso non li dishturbano piu'. E' una pace di fatto... funziona finche' dura, credo.}
 {831}{}{Chi e' il capo dei Salvatore, Padre?}
@@ -279,7 +279,7 @@
 {2004}{}{(Tiri fuori il tuo Pip-Boy e lo porgi a Padre Tully perche' indichi la posizione. Prima punta verso l'oceano, poi verso una catena
  montuosa a caso a sud. Dopo essersi quasi cavato un occhio, alla fine posa il dito sull'angolo nordest della mappa.) Si', la'
  c'e' l'Abbazia. Sembra giusto.}
-{2005}{}{La ringrazio, Padre. Però ho altre domande.}
+{2005}{}{La ringrazio, Padre. Pero' ho altre domande.}
 {2006}{}{Grazie. Ma sono curioso, perche' hai lasciato l'Abbazia?}
 {2007}{}{Grazie, Padre. Ora devo andare.}
 {2008}{}{Be' era tantoooo tempo fa. Non mi ero ancora messo in riga. Era prima che l'angelo della signora Wright mi raddrizzasse. Vedi,
@@ -298,10 +298,10 @@
 {2017}{}{Interessante. Ci vediamo.}
 {2020}{}{L'Abbazia, eh? Ci sono stato. Anzi, ho incontrato un tizio di nome Samuel che si comporta molto come te.}
 {2021}{}{Samuel!? Ha! Come sta quel tipo? Sono anni che non lo vedo. Sta ancora a sbevazzare, vero?}
-{2022}{}{Sì, puzza di alcol… proprio come te.}
+{2022}{}{Si', puzza di alcol… proprio come te.}
 {2023}{}{Ah, fantastico. Bello sapere che sta bene. Se lo rivedi, digli che lo saluto. Allora... (Si strofina le
  mani con entusiasmo.) Allora, magari hai preso un po' del famoso distillato dell'Abbazia mentre eri la'?}
-{2024}{}{Sì, ne ho un po’ proprio qui.}
+{2024}{}{Si', ne ho un po’ proprio qui.}
 {2025}{}{Si', ma l'ho bevuto. Accidenti se e' roba forte.}
 {2026}{}{No.}
 {2027}{}{Non devi strofinarmi il sale sulla ferita. E' cosi' tanto che non ne bevo... me la caverei bene con una bottiglia o due. C'e' qualche possibilita' che tu passi di nuovo dall'Abbazia?}
@@ -310,9 +310,9 @@
 {2029}{}{Davvero? E' cosi' tanto che non ne bevo. Saresti disposto a cedermelo?}
 {2030}{}{Vedremo. Se ci passo, cerchero' di ricordarmi di prenderne un po' per te. A presto, Padre.}
 {2031}{}{Probabilmente no. Senti, devo andare.}
-{2032}{}{Probabile. Te ne prenderò uno quando ripasso. Però avevo un’altra domanda.}
+{2032}{}{Probabile. Te ne prendero' uno quando ripasso. Pero' avevo un’altra domanda.}
 {2033}{}{Certo. Ecco qui.}
-{2034}{}{In realtà credo che lo terrò ancora un po’. Devo andare. Addio.}
+{2034}{}{In realta' credo che lo terro' ancora un po’. Devo andare. Addio.}
 {2035}{}{Certo. Ma per un prezzo.}
 {2036}{}{(Padre Tully afferra la bottiglia dalla tua mano e fa un lungo sorso.) Oh si', proprio come lo ricordavo. (Fa
  altri sorsi, ti saluta debolmente con la mano, poi barcolla verso il retro. Senti dei gemiti, seguiti da un tonfo.)}
@@ -323,9 +323,9 @@
 {2041}{}{E' un gran tipo. Se mai lo incontri, fagli sapere che me la vivo bene a New Reno. Non ci parlo da quando ho lasciato l'Abbazia.}
 {2042}{}{Certo. Ma sono curioso, perche' hai lasciato l'Abbazia?}
 {2045}{}{Davvero? Peccato. Era un gran tipo. Mi manchera'.}
-{2046}{}{Sì. Comunque, ho altre domande.}
+{2046}{}{Si'. Comunque, ho altre domande.}
 {2047}{}{Non sono mai stato uno che si strugge troppo. Ci vediamo.}
-{2050}{}{Sono curioso: perché hai lasciato l’Abbazia?}
+{2050}{}{Sono curioso: perche' hai lasciato l’Abbazia?}
 {2060}{}{Ho parlato con Fratello Samuel. A quanto pare sta ancora a sbevazzare.}
 {2061}{}{Ho una bottiglia del famoso distillato dell'Abbazia.}
 {2062}{}{Hehe, il buon vecchio Sam. Bello saperlo. Suppongo che prima o poi dovrei provare ad andarci di nuovo.}
@@ -334,5 +334,5 @@
 {2065}{}{Hehe, il buon vecchio Sam. Bello saperlo. Suppongo che prima o poi dovrei provare ad andarci di nuovo.}
 {3000}{}{Informi sia Padre Tully che Fratello Samuel di dove si trova l'altro.}
 {3001}{}{Consegni una bottiglia del famoso distillato dell'Abbazia a Padre Tully.}
-{3022}{}{In realtà è morto.}
+{3022}{}{In realta' e' morto.}
 {20091}{}{Hah! E' un classico. Ho fatto lo stesso scherzo a mio nipote Feargus una volta, e quando si e' svegliato e ha capito che se l'era fatta addosso, ha cominciato a frignare -- e' stato grandioso. Comunque, ti hanno poi cacciato?}

@@ -50,4 +50,6 @@
 {308}{}{Systèmes de sécurité Skynet                                     Attention ! Intrus détecté Niveaux : }
 {309}{}{                               }
 {310}{}{                                             }
-{311}{}{                       }
+{311}{}{
+                       · · · · · · · · · · · · · · · · · · · · · · ·
+                       }

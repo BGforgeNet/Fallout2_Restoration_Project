@@ -43,9 +43,9 @@
 {144}{}{Ehmmm... diecimila?! Non ho tutti quei soldi; aspetta un po' finche' non li recupero.}
 {145}{}{Dannazione! Chi diavolo potrebbe avermi denunciato?!}
 {146}{}{Ehi! Per cosa sono stato imprigionato?}
-{147}{}{Beh, almeno il cibo non è male.}
+{147}{}{Beh, almeno il cibo non e' male.}
 {148}{}{Che cosa stai guardando?}
-{149}{}{Cosa ne sarà ora del mio negozio?}
+{149}{}{Cosa ne sara' ora del mio negozio?}
 {200}{}{500$? Ehi, magari potresti farmi un qualche sconto, voglio dire, tu e Dave siete amici, giusto?}
 {201}{}{A dire la verita', non mi e' mai importato molto di quel tizio. 500$ per il motore. Prendere o lasciare.}
 {202}{}{Bene. Ecco i soldi.}

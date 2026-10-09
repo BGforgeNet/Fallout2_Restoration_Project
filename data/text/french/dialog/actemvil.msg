@@ -9,7 +9,7 @@
 {108}{}{J'ai d'abord quelques questions à te poser.}
 {109}{}{Très bien, allons-y.}
 {110}{}{J'ai besoin d'un moment pour me préparer.}
-{111}{}{Que voudrais-tu savoir ?}
+{111}{}{Que voudrais-tu savoir ? }
 {112}{}{Pourquoi se battre ?}
 {113}{}{Nous se battre à mort ?}
 {114}{}{Nous se battre à mains nues ?}
@@ -39,7 +39,7 @@
 {138}{}{Très bien. Reviens quand tu auras décidé de relever ce défi.}
 {139}{}{Alors, tu as décidé de relever le défi, }
 {140}{}{?}
-{141}{}{Quand tu veux.}
+{141}{}{Moi prêt. }
 {142}{}{Pas encore.}
 {143}{}{Je crois que oui.}
 {144}{}{Non, attends encore une minute.}
@@ -72,12 +72,12 @@
 {201}{}{Tes paroles sont d'or, Etre Elu. Ton éloquence t'ouvrira de nombreuses portes.}
 {300}{}{Et pour toi aussi, Etre Elu. Puissent les esprits te guider dans ta quête.}
 {301}{}{Merci, Dumar.}
-{302}{}{Etre Elu, j'ai remarqué que tes compétences au combat étaient loin d'être parfaites. Je sais, par expérience, que tu ne peux pas compter que sur toi-même}
+{302}{}{Être Elu, j'ai remarqué que tes compétences au combat étaient loin d'être parfaites. Je sais, par expérience, qu'on ne peut pas toujours compter sur son intelligence ou ses paroles pour se protéger. Avec ta permission, je vais t'enseigner quelques choses qui, je pense, te seront très utiles.}
 {303}{}{Oui, toi apprendre à moi.}
 {304}{}{Non, moi pas avoir besoin.}
 {305}{}{Oui, je t'en prie, apprends-moi tout ce que tu sais.}
 {306}{}{Merci, mais je crois pouvoir me débrouiller seul.}
-{307}{}{Tu apprends vite, Etre Elu. Je pense que tu devrais savoir te battre maintenant. Mais n'oublie pas que même les meilleurs guerriers doivent faire preuve de prudence}
+{307}{}{Tu apprends vite, Être Elu. Je pense que tu devrais savoir te battre maintenant. Cependant, n’oublie pas que même les guerriers les plus puissants doivent parfois battre en retraite. Il n’y a aucune honte à rester en vie pour combattre un autre jour.}
 {308}{}{Moi remercier toi, Dumar.}
 {309}{}{Merci, Dumar. Je me souviendrai de tes paroles.}
 {310}{}{Très bien. Reviens me voir si tu changes d'avis.}

@@ -65,7 +65,7 @@
 {513}{}{Presque.}
 {514}{}{Pas mal.}
 {515}{}{Comment c'est arrivé ?}
-{516}{}{Oh là là !}
+{516}{}{Oups !}
 {517}{}{Ah, c'est pas vrai ! Stop !}
 {518}{}{Eh bien, ce jeu porte bien son nom.}
 {519}{}{Il faut que je gagne le paquet.}

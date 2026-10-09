@@ -62,7 +62,7 @@
 {310}{}{Ehi, so che non sembra avere molto senso, ma hai guardato questo posto? Qui non c'e' molto che abbia senso.
  Chissa' cosa passa nelle menti bacate di questi scienziati. }
 {311}{}{Hmm... su questo hai ragione. Non dico che ti creda... ma suppongo di poterti almeno ascoltare.}
-{312}{}{Sì, davvero. Continua...}
+{312}{}{Si', davvero. Continua...}
 {320}{}{Ok, vedi, fa tutto parte dei loro "esperimenti". Quei fottuti dottori stavano facendo dei test sulla
  "natura del male umano" o qualche altra stronzata. Mi iniettavano i ricordi di un maniaco per vedere come
  avrebbero influenzato la personalita' di una persona normale. Almeno, questo e' quello che sono riuscito a capire.}
@@ -128,7 +128,7 @@
 {460}{}{Ok, da dove tiri fuori questa stronzata che sarei uno "psicopatico assassino"?}
 {461}{}{Non provare a prendermi per il culo. Ho letto di te su quel computer.}
 {462}{}{Quel computer laggiu' aveva una specie di biografia su di te, e c'erano dentro cose piuttosto terribili.}
-{463}{}{Lo percepisco. Emanì questa sensazione.}
+{463}{}{Lo percepisco. Emani' questa sensazione.}
 {464}{}{Non provare a prendermi per il culo. Conosco quelli come te.}
 {470}{}{Ah, ora ha senso. Senti, non preoccuparti per quello, non e' come pensi. Ti spiego tutto tra un
  secondo. Ma prima di tutto, ti dispiace dirmi che diavolo e' successo da quando mi hanno messo sul ghiaccio? Voglio dire, questo
@@ -160,7 +160,7 @@
 {515}{}{L'unica stronzata qui dentro e' quella che ti esce dalla bocca e credo sia ora di farti tacere per sempre.}
 {520}{}{Ehi, lo so che non sembra avere molto senso, ma ti sei guardata intorno? Qui dentro non c'e' molto di sensato. Chi puo' sapere cosa passa per le menti fottute di questi scienziati.}
 {521}{}{Hmm... su questo hai ragione. Non sto dicendo che ti credo... ma suppongo di poterti almeno ascoltare.}
-{522}{}{Sì, davvero. Continua...}
+{522}{}{Si', davvero. Continua...}
 {530}{}{Va bene, vedi, fa tutto parte dei loro "esperimenti". Quei fottuti medici pazzi stavano facendo una specie di test
  sulla "natura del male umano" o qualche stronzata del genere. Mi iniettavano i ricordi di un maniaco, per vedere come
  avrebbe influenzato la personalita' di una persona normale. Almeno, e' la spiegazione migliore che sono riuscito a darmi.}
@@ -324,18 +324,18 @@
  con te prima di sfondati il cranio.}
 {900}{}{Ci arriviamo tra un secondo. Ma prima di tutto, che ne dici di aggiornarmi su cosa diavolo e' successo da quando mi hanno messo in ghiaccio.
  Voglio dire, questo posto e' andato a rotoli, e sembri uscita da qualche racconto di avventura fantascientifica.}
-{1000}{}{Quali sono le novità?}
+{1000}{}{Quali sono le novita'?}
 {1001}{}{[Dex alza un sopracciglio verso di te.] Qualcosa che non va?}
 {1002}{}{Parla con me.}
 {1003}{}{[Dex sorride.] Cosa c'e', amico?}
 {1004}{}{Ti serve qualcosa?}
-{1005}{}{Cosa può fare Dex per te?}
-{1010}{}{Quali sono le novità?}
+{1005}{}{Cosa puo' fare Dex per te?}
+{1010}{}{Quali sono le novita'?}
 {1011}{}{[Dex alza un sopracciglio verso di te.] Qualcosa che non va, tesoro?}
 {1012}{}{Parla con me, baby.}
 {1013}{}{[Dex sorride.] Cosa c'e', bambola?}
 {1014}{}{Ti serve qualcosa? Qualsiasi cosa? [Dex sorride.]}
-{1015}{}{Cosa può fare Dex per te, baby?}
+{1015}{}{Cosa puo' fare Dex per te, baby?}
 {1100}{}{Sei pronto ad andare?}
 {1101}{}{Allora, si parte o no?}
 {1102}{}{Sei pronto? Ho una voglia matta di muovermi.}
@@ -357,7 +357,7 @@
 {1231}{}{Hmm. Va bene.}
 {1240}{}{Be', vivevo vicino al Vault di Chicago. Ti aiuta?}
 {1241}{}{Sai se aveva un G.E.C.K.?}
-{1242}{}{Sono sicuro di sì. Sono abbastanza certo che li avessero tutti.}
+{1242}{}{Sono sicuro di si'. Sono abbastanza certo che li avessero tutti.}
 {1243}{}{Bene, ora ci siamo. Puoi dirmi dove si trova questo Vault?}
 {1244}{}{Nessun problema. E' a circa 2.000 miglia in quella direzione. [Dex indica verso est.]}
 {1245}{}{Oh. Beh allora… lascia perdere.}
@@ -456,7 +456,7 @@
 {3011}{}{Uh huh. Continua.}
 {3012}{}{Poi un giorno ho beccato la mia ragazza a fare la bestia a due schiene con un altro. Li ho fatti a pezzi, ho dato fuoco
  al posto, poi me la sono filata da Chicago. Ho passato i dieci anni successivi a girare il paese, sedurre ragazze
- e poi farle a pezzi. Poi alla fine mi hanno beccato, e il mio processo mi ha reso una celebrità.}
+ e poi farle a pezzi. Poi alla fine mi hanno beccato, e il mio processo mi ha reso una celebrita'.}
 {3013}{}{E poi cosa e' successo?}
 {3014}{}{Poi una delle mie nuove fan, Alice, mi aiuta a scappare. Noi due ci lanciamo in tre settimane di massacri attraverso il paese
  prima di cadere infine in una sparatoria. Poi, per qualche ragione, Il Sistema decide di ricucirmi e sottopormi a tutti
@@ -495,7 +495,7 @@
 {3036}{}{Be' a quel punto avevo fatto un sacco di fan, ma ce n'era una in particolare, una vera bambola di nome Alice. Diceva
  che mi amava e avrebbe fatto qualsiasi cosa per me. Cosi' durante il mio processo, mi ha aiutato a farla franca. Era una scommessa azzardata,
  ma siamo stati abbastanza fortunati da riuscirci. Poi le cose sono diventate folli... Sei sicuro di non aver mai sentito nulla di tutto questo?}
-{3037}{}{Sì sì, continua pure.}
+{3037}{}{Si' si', continua pure.}
 {3038}{}{Non ne ho mai sentito parlare, e ora non voglio piu' sentirne. Lascia perdere, mi sto annoiando.}
 {3039}{}{Be' ora che ero con Alice, era un po' difficile tornare ai miei vecchi modi di sedurre le donne e sventrarle.
  Invece, abbiamo iniziato a uccidere per il brivido chiunque fosse a portata di mano. Non importava quanto giovane o vecchio, eravamo
@@ -532,7 +532,7 @@
 {4020}{}{Ehi! Sto sanguinando come un dannato!}
 {4021}{}{Oh cavolo, non sto affatto bene.}
 {4022}{}{Portatemi da un dannato dottore!}
-{4023}{}{Stai lì a guardarmi morire dissanguato o hai intenzione di fare qualcosa?}
+{4023}{}{Stai li' a guardarmi morire dissanguato o hai intenzione di fare qualcosa?}
 {4030}{}{Mi sento un po' strano...}
 {4031}{}{Ehi, mi sento un po' irradiato. Se non e' il tipo che concede superpoteri, allora saro' una furia.}
 {4040}{}{Sai, sei davvero una cattiva influenza.}
@@ -584,7 +584,7 @@
 {4210}{}{Puttane... puttane ovunque. Adoro questo posto del cazzo.}
 {4220}{}{Questo posto sembra proprio voler un po' di caos.}
 {4230}{}{Ci sono troppi sbirri qui. Dico che ce la filiamo.}
-{4240}{}{Ottimo, altri fenomeni da baraccone. Meglio non restare qui più del necessario.}
+{4240}{}{Ottimo, altri fenomeni da baraccone. Meglio non restare qui piu' del necessario.}
 {4250}{}{Stiamo perdendo tempo qui. Le ragazze zombie non fanno per me. Di solito non mi piace che le ragazze sembrino morte fino a DOPO che ho finito con loro.}
 {4260}{}{Perche' diavolo stiamo perdendo il nostro tempo qui? Sul serio?}
 {4270}{}{Non penso di voler passare altro tempo in questa struttura di mia spontanea volonta'.}

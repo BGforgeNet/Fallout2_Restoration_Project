@@ -255,8 +255,8 @@
 {925}{}{Hai assassinato Westin.}
 {950}{}{Hai eliminato Carlson.}
 {975}{}{Sei diventato un picciotto della famiglia Bishop.}
-{1805}{}{Sì... nelle Lande gira voce che qualcuno che ti assomiglia abbia fermato i predoni a sud di Vault City. }
+{1805}{}{Si'... nelle Lande gira voce che qualcuno che ti assomiglia abbia fermato i predoni a sud di Vault City. }
 {1820}{}{Be', devi essere un bel figlio di puttana furbo per convincere la loro guida a smettere di portarli attraverso le montagne.
- E potrebbe essere che non mi PIACCIA quello che hai fatto laggiù.}
+ E potrebbe essere che non mi PIACCIA quello che hai fatto laggiu'.}
 {1836}{}{Per come la vedo io, mi devi un grosso favore, tribale. Non mi piace chi mette il naso negli affari altrui. }
-{1840}{}{Non ti devo niente, e non farò i tuoi lavori sporchi. Chiaro?}
+{1840}{}{Non ti devo niente, e non faro' i tuoi lavori sporchi. Chiaro?}

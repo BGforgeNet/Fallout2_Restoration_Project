@@ -48,7 +48,7 @@
 {204}{}{Il y a beaucoup de rats à Trapper Town.}
 {1000}{}{La doyenne}
 {1001}{}{Fondatrice}
-{1002}{}{Habitant de l'Abri }
+{1002}{}{Habitant de l'Abri}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Abri}
@@ -60,7 +60,7 @@
 {1011}{}{Mynoc}
 {1100}{}{La doyenne est à la fois ta mère et ton chef.}
 {1101}{}{Notre illustre ancêtre qui nous a légué le savoir.}
-{1102}{}{La première à avoir combattu et vaincu le chaos. }
+{1102}{}{La première à avoir combattu et vaincu le chaos.}
 {1103}{}{Voilà ce que serait notre beau village.}
 {1104}{}{Notre poste d'approvisionnement est à quelques jours à l'Est d'ici. }
 {1105}{}{L'Abri, c'est le paradis.}

@@ -492,7 +492,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {590}{}{Whoa... mi spiace! Senta, lasciamo perdere... Ho altre domande che vorrei porle...}
 {591}{}{Se questo significa essere d'accordo ciecamente con lei, forse allora E' LEI quella incapace di cestire la responsabilita' della Cittadinanza.}
 {592}{}{Thomas Moore e' un Cittadino, ed e' il capo di questo movimento.}
-{593}{}{Questa e' un eta' nuova, e' tempo di cambiare.}
+{593}{}{Questa e' un'eta' nuova, e' tempo di cambiare.}
 {594}{}{Mi spiace che lei la pensi cosi'. Arrivederci.}
 {595}{lyn093}{No. Non e' un VERO Cittadino... non piu'. Quando arrivo' da noi, due anni fa, sembrava avere tutto quello che si puo' desiderare in un Cittadino. Ma soltanto un anno piu' tardi... cambio'. Si rivolto' contro di noi.}
 {596}{}{Questo spiegherebbe un po' di cose. Probabilmente per qualche tempo Moore ha soltanto interpretato una parte.}
@@ -715,7 +715,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {813}{}{Guardie!}
 {814}{}{Adoro Scott Rodenhiser.}
 {815}{}{I miei piccoli dreadlock sono carini.}
-{816}{}{T-Ray ha un'opinione di sé un po' troppo elevata.}
+{816}{}{T-Ray ha un'opinione di se' un po' troppo elevata.}
 {817}{}{Questa e' una buona notizia.}
 {818}{}{Molto bene.}
 {819}{}{Buona giornata.}
@@ -732,7 +732,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {830}{}{Esattamente.}
 {831}{}{Right.}
 {832}{}{Hmpphhh.}
-{833}{}{Spiegami di nuovo perché Fallout 2 non ha modelli di eroi neri?}
+{833}{}{Spiegami di nuovo perche' Fallout 2 non ha modelli di eroi neri?}
 {834}{}{Vault City trionfa. }
 {835}{}{Vault City prevale, Cittadino.}
 {836}{}{Oh, cielo! Dormire! Li' si' che sono un Vichingo!}

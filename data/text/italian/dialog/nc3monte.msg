@@ -13,7 +13,7 @@
 {208}{}{Hai fatto bene, eroe. Hai fatto bene.}
 {215}{}{Dove diavolo sono le mie carte? Le avevo proprio un attimo fa.}
 {216}{}{Maledetti gnomi delle chiavi dell'auto, ora se la prendono anche con le mie carte da gioco.}
-{220}{}{Ehi, amico, lascia perdere i casinò. Vieni a giocare con Monte.}
+{220}{}{Ehi, amico, lascia perdere i casino'. Vieni a giocare con Monte.}
 {221}{}{Cerchi un po' di fortuna, amico? Le migliori probabilita' di New Reno! Dai...}
 {222}{}{Tu, amico. Sembri uno fortunato, vieni qui.}
 {223}{}{Qualcuno vuole giocare? Soldi facili, soldi facili.}
@@ -21,11 +21,11 @@
 {225}{}{Semplice, basta indovinare la Regina, la Regina rossa, e vinci. Tutto qui.}
 {226}{}{Allergico ai soldi facili? Allora vieni qui.}
 {227}{}{Oggi vincono tutti... vuoi essere il prossimo?}
-{228}{}{I casinò ti spennano, ti derubano... Monte ti tratta bene, ti da' una vera possibilita'.}
+{228}{}{I casino' ti spennano, ti derubano... Monte ti tratta bene, ti da' una vera possibilita'.}
 {229}{}{Cerchi un po' di fortuna, signora? Le migliori probabilita' di New Reno! Dai...}
 {230}{}{Allergica ai soldi facili, signora? Allora vieni qui.}
 {231}{}{Tu, signora. Sembri una fortunata, vieni qui.}
-{232}{}{Ehi, signora, lascia perdere i casinò. Vieni a giocare con Monte.}
+{232}{}{Ehi, signora, lascia perdere i casino'. Vieni a giocare con Monte.}
 {233}{}{Monte oggi non e' aperto per giocare, amico; le mie dannate carte sono sparite.}
 {234}{}{(Il vecchio sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, amico?}
 {235}{}{(Il vecchio sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, signora?}
@@ -97,7 +97,7 @@
 {330}{}{Ascolta, non ho tempo per i perdenti frignoni. Paghi i tuoi soldi, ti giochi la tua occasione. Se vuoi GIOCARE, bene, ma se devi solo lamentarti quando perdi, allora sparisci!}
 {331}{}{ME SPACCA TE}
 {332}{}{Nuh-uh! Nuh-uh! Non arrabbiarti. Io andare.}
-{333}{}{Basta così. Sei morto.}
+{333}{}{Basta cosi'. Sei morto.}
 {334}{}{D’accordo, d’accordo. Scusa. Ecco 20 fiches. Giochiamo ancora.}
 {335}{}{Tieni pure i soldi. Me ne vado.}
 {340}{}{(Consegni i soldi. Monte annuisce, poi sbatte le carte a terra e le mescola per qualche secondo.)}
@@ -135,10 +135,10 @@
 {385}{}{(Monte gira la carta. E' la regina di cuori. Sembra sconvolto.) Uh...? Heh... uh...}
 {386}{}{Credo che tu abbia vinto, amico.}
 {387}{}{Credo che tu abbia vinto, signora.}
-{388}{}{Mi hai ripulito... (ti guarda sconsolato) C’è qualcos’altro che posso fare per te?}
+{388}{}{Mi hai ripulito... (ti guarda sconsolato) C’e' qualcos’altro che posso fare per te?}
 {389}{}{Niente. Io volevo solo un po' di EXP extra. Ciao. Ciao.}
 {390}{}{Cosa hai da offrire?}
-{391}{}{Perché non mi dai qualche informazione?}
+{391}{}{Perche' non mi dai qualche informazione?}
 {392}{}{Lascia stare, Monte. Per oggi siamo pari.}
 {400}{}{(Sembra soffrire.) Eh... be', ho qualcosa... ma vale MOLTO piu' di quello che hai vinto... pero'...}
 {401}{}{Allora? Di cosa si tratta?}
@@ -146,7 +146,7 @@
 {404}{}{Eh... dipende da cosa vuoi sapere.}
 {405}{}{Sai chi ha fatto fuori il figlio dei Wright? Chi l'ha fatto andare in overdose di Jet?}
 {406}{}{Sai dove posso trovare uno chiamato Pretty Boy Lloyd?}
-{407}{}{Sai dov’è finita la mia macchina, Monte?}
+{407}{}{Sai dov’e' finita la mia macchina, Monte?}
 {408}{}{Hai qualcosa che pensi dovrei sapere?}
 {409}{}{Lascia stare, Monte. Siamo pari. Ci vediamo.}
 {415}{}{Eh... be'... senti, non l'hai sentito da me, ma io punto su Renesco, quello stronzo che gestisce la farmacia sul lato ovest. Non so se l'ha venduta LUI al ragazzo, ma sa qualcosa. Questo e' tutto quello che dico.}
@@ -180,7 +180,7 @@
 {465}{}{(Corruga la fronte) Se parlo dipende da cosa vuoi sapere. E non sara' a buon mercato.}
 {466}{}{Sai chi ha fatto fuori il figlio dei Wright? Chi l'ha fatto andare in overdose di Jet?}
 {467}{}{Sai dove posso trovare uno chiamato Pretty Boy Lloyd?}
-{468}{}{Sai dov’è finita la mia macchina, Monte?}
+{468}{}{Sai dov’e' finita la mia macchina, Monte?}
 {469}{}{Hai qualcosa che pensi dovrei sapere?}
 {470}{}{Allora lascia stare, Monte. Me ne vado.}
 {475}{}{Neanche a Golgota mi avvicinerei a quell'argomento. Vaffanculo.}
@@ -256,9 +256,9 @@
  c'e' un uomo con uno strano cappello che impugna una mazza.) Interessato? E' autentica memorabilia pre-guerra.}
 {571}{}{No, ho gia' abbastanza oggetti nell'inventario... preferirei avere qualche informazione invece.}
 {572}{}{Uh, certo. Perche' no? Questo chiudera' i conti tra noi.}
-{573}{}{Mi spiace, amico: senza fiches niente gioco. Torna quando avrai più soldi.}
-{574}{}{Mi spiace, signora: senza fiches niente gioco. Torni quando avrà più soldi.}
-{575}{}{Sarà per la prossima volta, allora.}
+{573}{}{Mi spiace, amico: senza fiches niente gioco. Torna quando avrai piu' soldi.}
+{574}{}{Mi spiace, signora: senza fiches niente gioco. Torni quando avra' piu' soldi.}
+{575}{}{Sara' per la prossima volta, allora.}
 {576}{}{Scambi rapidamente il mazzo di carte di Monte con il mazzo segnato.}
 {600}{}{picche}
 {601}{}{cuori}

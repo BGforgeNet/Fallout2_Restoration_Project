@@ -9,7 +9,7 @@
 {210}{}{Ho detto a tutti che io e te siamo COSI' (batte insieme i due diti indici). Ho anche detto che quando io chiedo qualcosa, e' come se fossi tu in persona a chiederla.}
 {211}{}{Sei fortunato che ci sia stato io a salvarti il culo, altrimenti l'Enclave ti avrebbe mangiato a COLAZIONE.}
 {212}{}{Yo, eroe. Mi raccomando: di' a tutti che T-Ray e' il tuo migliore amico, okay?}
-{220}{}{Oh, attenzione: siamo alla presenza della nobiltà. L’eroe in persona, fate largo.}
+{220}{}{Oh, attenzione: siamo alla presenza della nobilta'. L’eroe in persona, fate largo.}
 {221}{}{Sai, se tu fossi venuto qui prima di andare a fare tutto quel casino, ti avrei potuto aiutare ad ammazzare il Presidente.}
 {222}{}{Volevo venire anch'io all'Enclave, ma in quel momento stavo telefonando.}
 {230}{}{Quanti cavalli puo' sprigionare quella cosa che indossi?}
@@ -190,7 +190,7 @@
 {747}{}{La prossima volta farai meglio a stare attento. Me ne vado.}
 {755}{}{D'accordo, d'accordo... ecco cosa ti propongo: noi possiamo installarle tutti i potenziamenti, "ringalluzzirla" e darla a Mr. Bishop in men che non si dica. Per quanto riguarda il prezzo... (Alza le spalle, sorride) ...la domanda e': come si PUO' mettere un prezzo su una Highwayman come questa?}
 {756}{}{Continua.}
-{757}{}{Non ho TEMPO per le tue stronzate. Qual è il punto?}
+{757}{}{Non ho TEMPO per le tue stronzate. Qual e' il punto?}
 {758}{}{Hai ragione. Non puoi. Prendero' l'auto con me e Mr. Bishop ti permettera' di continuare i tuoi traffici.}
 {759}{}{Non ho tempo da perdere in chiacchiere. Me ne vado.}
 {770}{}{Per come la vedo io, questa Highwayman... molto probabilmente l'ultima del suo tipo ancora funzionante... vale ALMENO 3000 dollari... ma la sai una cosa? (Strizza l'occhio) Sono disposto a separarmi da questa bellezza per soli 2700 considerata la situazione. Certo, dovremmo parlare dei benefici AGGIUNTIVI: privilegi al club, libero accesso al bordello...}

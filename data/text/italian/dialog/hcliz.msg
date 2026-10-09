@@ -91,4 +91,4 @@
 {205}{}{Va bene. Vediamo cosa hai.}
 {206}{}{Ti ho detto che te lo do per 2000$. Torna quando avrai i soldi!}
 {207}{}{Va bene. Fammi vedere cos’altro hai.}
-{208}{}{D’accordo. Tornerò un’altra volta.}
+{208}{}{D’accordo. Tornero' un’altra volta.}

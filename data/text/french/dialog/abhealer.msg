@@ -8,7 +8,7 @@
 {304}{}{Au revoir.}
 {400}{}{C'est fait !}
 {401}{}{Merci.}
-{402}{}{Arrête ça! }
+{402}{}{Arrête ça!}
 {403}{}{[Y ALLER]}
 {404}{}{[PARTIR]}
 {405}{}{STOP ! STOP ! ARRETEZ !}
@@ -17,7 +17,7 @@
 {408}{}{[Tout à coup, Jack se met à fondre] JE FONDS, JE FONDS, Ah quel monde...}
 {409}{}{Bordel de me...}
 {500}{}{Hé, ne volez pas mon matériel médical !}
-{501}{}{Tu as gagné %d points d'expérience pour avoir fait fondre Jack. T'es content maintenant, enfoiré !}
+{501}{}{Tu as gagné %d points d'expérience pour avoir fait fondre Jack. T'es content maintenant, enfoiré?}
 {600}{}{Je suis docteur. Cela fait maintenant quinze ans que je suis ici.}
 {601}{}{Je vois. Vous devez avoir une grande connaissance de la médecine.}
 {602}{}{Où est-ce que vous vous êtes procuré tout ce matériel médical ?}

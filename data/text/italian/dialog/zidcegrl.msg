@@ -4,7 +4,7 @@
 {111}{}{Vedi un tavolo.}
 {140}{}{Vedi un tavolo per il gioco dei dadi.}
 {141}{}{Vedi un tavolo con sopra della roba.}
-{150}{}{Vedi una delle croupier del casinò.}
+{150}{}{Vedi una delle croupier del casino'.}
 {151}{}{Vedi Darlin' Nikki. Ti fa cenno di avvicinarti a giocare.}
 {152}{}{Vedi una delle croupier del casino'. I suoi abiti coprono a malapena il suo corpo.}
 {153}{}{Vedi una delle croupier del casino'. Ha due gambe niente male.}
@@ -38,7 +38,7 @@
 {221}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
 {222}{}{Vuole giocare, signora?}
 {223}{}{Sembra cosi'...[trema]...pericolosa.}
-{235}{}{Sembra che questo stia già giocando con la propria vita.}
+{235}{}{Sembra che questo stia gia' giocando con la propria vita.}
 {236}{}{Uh, credo che sia entrato nel casino' sbagliato...}
 {237}{}{Se non se ne va prima che lo vedano i ragazzi...}
 {238}{}{Uh-oh. Guai in arrivo...}
@@ -85,7 +85,7 @@
 {321}{}{Fate il vostro gioco, signore. La puntata minima e' $}
 {322}{}{Fate il vostro gioco, signora. La puntata minima e' $}
 {323}{}{Fate il vostro gioco, la puntata minima e' $}
-{324}{}{Io… più for-te di te}
+{324}{}{Io… piu' for-te di te}
 {325}{}{Io… gioco ai dadi… nei pantaloni}
 {326}{}{Cosa essere questo gioco? Potere scommettere pelle di gecko? Me ha pelle di...ooooh...luccichini! [Allontanati]}
 {327}{}{[Hai $}

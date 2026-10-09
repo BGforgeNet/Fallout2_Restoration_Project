@@ -35,7 +35,7 @@
 {134}{}{Probabilita' che il lancio dell'astronave hubologista fallisca = 95%. Cause: Mancanza di carburante, sigillatura inadatta, incapacita' dei leader, mancanza di iniziativa.}
 {135}{}{Probabilita' che il "Prescelto" riesca nella sua missione = 15%.}
 {136}{}{I dati indicano che l'"Enclave" e' molto piu' potente di quanto ritenuto in precedenza; si consiglia di tenersi alla larga.}
-{137}{}{Probabilità che un sottomarino ricompaia in questo gioco: 100%}
+{137}{}{Probabilita' che un sottomarino ricompaia in questo gioco: 100%}
 {138}{}{Probabilita' che i vagabondi della petroliera si liberino, senza aiuti esterni, delle creature che infestano la loro stiva = 0%. Calcolo dei vantaggi di un eventuale intervento in corso.}
 {139}{}{Dati attuali: Petroliera Poseidon Oil inadatta a navigare. Ulteriori dati richiesti.}
 {140}{}{Funzione non attiva. Ulteriori dati richiesti.}
@@ -248,7 +248,7 @@ Avviso! Collegamento al server centrale CIN di Pechino non disponibile. Recupero
                                               SCA Eastern Dragon... offline
                                         Avviso: impossibile stabilire una connessione con i server esterni.}
 {421}{}{Che delusione...}
-{430}{}{Scansione delle unità locali...}
+{430}{}{Scansione delle unita' locali...}
 {431}{}{[CONTINUA]}
 {440}{}{Trovato un file accessibile. [Sembra che la maggior parte degli archivi sia corrotta. Tuttavia il mainframe riesce a
  recuperare un file intatto.]}

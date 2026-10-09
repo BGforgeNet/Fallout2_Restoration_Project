@@ -30,7 +30,7 @@ essere stata rubata dalle ossa di qualche mutante morto da tempo che avevano tro
 erano molto entusiasti di continuare a trascinarsi dietro quella cosa pesante, quindi me la offrirono per quattro soldi. Non sapevo cosa farmene
 con essa, ma pensai che un affare e' un affare.}
 {219}{}{Beh, sono sicuro che Marcus potrebbe trarne vantaggio. Quanto vuoi per essa?}
-{220}{}{Interessante. Beh, Marcus e' già abbastanza duro. Non credo che avremo bisogno di quell'oggetto. Lasciami chiedere
+{220}{}{Interessante. Beh, Marcus e' gia' abbastanza duro. Non credo che avremo bisogno di quell'oggetto. Lasciami chiedere
 un'altra cosa.}
 {221}{}{Beh, questo bestione potrebbe facilmente essere fuso per fare tre o quattro set di armatura metallica. Diciamo 3000$.}
 {222}{}{Ne ho avuto abbastanza.}
@@ -42,9 +42,9 @@ un'altra cosa.}
 {301}{}{Quanto spesso vieni rifornito?}
 {302}{}{Le carovane cercano qualcuno da assumere?}
 {303}{}{Ripensandoci, devo andarmene.}
-{304}{}{Ricevo una nuova spedizione di rifornimenti due volte al mese. Francamente, vorrei che arrivassero più spesso, ma siamo solo su una rotta commerciale minore quindi immagino che questo sia il meglio che possiamo ottenere.}
+{304}{}{Ricevo una nuova spedizione di rifornimenti due volte al mese. Francamente, vorrei che arrivassero piu' spesso, ma siamo solo su una rotta commerciale minore quindi immagino che questo sia il meglio che possiamo ottenere.}
 {305}{}{Non ne sono del tutto sicuro. Di solito, quelli che passano da qui sono ben equipaggiati e non sono molto interessati a
-fermarsi a lungo. Ma se stai cercando di unirti a uno di loro, ti dirigerei verso Redding o anche giù verso NCR.
+fermarsi a lungo. Ma se stai cercando di unirti a uno di loro, ti dirigerei verso Redding o anche giu' verso NCR.
 Hanno carovane piuttosto attive e il buon aiuto e' sempre ricercato.}
 {306}{}{Interessante. Ero curioso riguardo altro.}
 {307}{}{Grazie. Barattiamo.}

@@ -5,13 +5,13 @@
 {106}{}{Sono il tuo incubo peggiore. Preparati a morire!}
 {107}{}{Mi manda Metzger.}
 {108}{}{Sono qui per unirmi a voi.}
-{109}{}{Uhh… non è qui che avevo lasciato la mia macchina…}
+{109}{}{Uhh… non e' qui che avevo lasciato la mia macchina…}
 {200}{}{Prima tu, stronzo.}
 {201}{}{Non ho tempo per questo. Prendetelo, ragazzi.}
 {202}{}{Unirti a noi? Questo non e' un dannato centro reclutamento. Se vuoi unirti agli schiavisti vai al Den e parla con Metzger.
  Ora ti serve qualcosa o sei qui solo per farmi incazzare?}
 {203}{}{Metzger ti ha mandato? [Si agita a disagio.] Non dirmi che vuole gia' altri schiavi — per l'amor del cielo, abbiamo spedito un carico la settimana scorsa.}
-{300}{}{In realtà sì, mi serve qualcosa.}
+{300}{}{In realta' si', mi serve qualcosa.}
 {301}{}{Allora, perche' sei qui?}
 {302}{}{Non credo di aver bisogno d’altro.}
 {303}{}{Allora levati di torno. Sei un intruso e qui non ti vuole nessuno.}
@@ -19,7 +19,7 @@
 {305}{}{Oh, me ne andro'... ma solo dopo aver ucciso te e i tuoi amici.}
 {307}{}{A dire il vero, si'. Deve intrattenere un pezzo grosso di New Reno e voleva un paio di ragazze in piu' per l'occasione. Ma ehi, se non puoi cederne nessuna... sono sicuro che il capo sara' felicissimo quando tornero' a mani vuote.}
 {308}{}{[Gocce di sudore compaiono sulla testa tatuata dell'uomo.] Ehi, aspetta un secondo. Non ho mai detto che non posso cederne qualcuna. Anzi, tieni, prendi la chiave della baracca, e' li' che teniamo le nostre, uh, preferite personali. Il meglio del meglio, diciamo. [Ti porge una chiave e sorride nervosamente.]}
-{309}{}{Grazie. Dirò una buona parola per te. Addio.}
+{309}{}{Grazie. Diro' una buona parola per te. Addio.}
 {310}{}{Metzger ti ha mandato, eh? Ti sembro cieco? Non indossi nemmeno il nostro dannato marchio. Non so chi tu sia, ma sei pieno di stronzate e mi stai facendo perdere tempo. Per questo, muori. [Fa cenno ai suoi uomini.] Facciamo fuori questo idiota.}
 {311}{}{Si, come no. Sei pieno di stronzate e mi stai facendo perdere tempo. Per questo, muori. [Fa cenno ai suoi uomini.] Facciamo fuori questo idiota.}
 {400}{}{Sono occupato. Vai da Metzger al Den se vuoi fare una consegna.}

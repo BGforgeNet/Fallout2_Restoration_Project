@@ -53,17 +53,17 @@
 {913}{}{Leave me one thing before we part…}
 {915}{}{Quando sono solo}
 {916}{}{Con le mie fantasie}
-{917}{}{Saròòòò con teeeeee}
+{917}{}{Saro'o'o'o' con teeeeee}
 {918}{}{Tessendo ro-manze}
 {919}{}{Facendo finta che siano vere}
 {920}{}{Oh, dammi le tue labbra per un solo momento}
 {921}{}{And my imagination will make that moment live…}
-{923}{}{Dammi ciò che solo tu puoi darmi}
+{923}{}{Dammi cio' che solo tu puoi darmi}
 {925}{}{::Tromba a bocca::}
 {930}{}{Saro'... con teeee}
 {933}{}{Ohhhh}
 {935}{}{labbra per un solo momento}
-{937}{}{Renderò quel momento vivo}
+{937}{}{Rendero' quel momento vivo}
 {941}{}{}
 {1200}{}{! Il grande eroe! Come possiamo aiutarti? Forse potremmo cantarti qualcosa di speciale, eh?}
 {1201}{}{. Possiamo aiutarti?}

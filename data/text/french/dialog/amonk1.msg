@@ -8,4 +8,4 @@
 {203}{}{Salut.}
 {204}{}{Beau temps.}
 {205}{}{J'espère que tu apprécies ton séjour ici.}
-{500}{}{Arrête ça! }
+{500}{}{Arrête ça!}

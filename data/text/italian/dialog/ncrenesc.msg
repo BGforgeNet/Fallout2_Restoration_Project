@@ -371,7 +371,7 @@
 {6100}{}{Bene. Immagino che concluda i nostri affari, allora. Devo dire, tribale, che e' stato... quasi *tollerabile*. Ora, stai buono e cerca di non rovinare il momento. (Renesco prende i tuoi soldi e si mette al lavoro.)}
 {6101}{}{(Passano alcuni minuti. Renesco si spolvera le mani e fa scorrere un flacone di pillole indistinguibile da quello di Westin sul bancone verso di te.) Ecco fatto. Ora, abbiamo finito?}
 {6102}{}{Lascia che ti chieda qualcos'altro.}
-{6103}{}{Per me è tutto. Ci vediamo.}
+{6103}{}{Per me e' tutto. Ci vediamo.}
 {6110}{}{(Renesco diventa rosso, le narici che fremono di rabbia, ma poi abbassa lo sguardo e comincia a pulire gli occhiali con grande attenzione sul camice mentre parla.) Primate, le UNICHE due cose per cui saro' MAI in debito con te sono UN CAZZO e NIENTE.}
 {6111}{}{Ora, detto questo... se servira' a toglierti dalla testa questa intollerabile illusione provinciale che tu abbia in qualche modo qualcosa su di me, il solo PENSIERO della quale mi fa stare male in modi che mi mancano le parole per descrivere... }
 {6112}{}{SUPPONGO... che le tue tre volte maledette pillole siano un prezzo modesto da pagare. E se SENTIRO' MAI PIU' dire una parola che fa anche solo RIMA con "debito," il negozio avra' un nuovo tappeto di pelle di scimpanze'. Siediti, stai zitto, e lavora sul farti crescere un paio di pollici opponibili mentre preparo questo composto. (Renesco si mette al lavoro.)}

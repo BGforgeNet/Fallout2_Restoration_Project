@@ -2,7 +2,7 @@
 {101}{}{Tu vois Farrel.}
 {102}{}{A chacun de ses mouvements, on entend des craquements de brindilles sèches.}
 {150}{}{Hé, bas les pattes !}
-{151}{}{Arrête ça! }
+{151}{}{Arrête ça!}
 {152}{}{Au voleur !}
 {153}{}{Je l'ai pas volée la montre, alors arrêtez de venir ici et de harceler le vieux Farrel !}
 {154}{}{Cornélius affirme que tu as volé sa montre en or.}

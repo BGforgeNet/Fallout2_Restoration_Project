@@ -128,16 +128,16 @@
 {227}{}{Grazie, ripensero' a quello che mi hai detto. Vorrei chiederti qualcos'altro, pero'.}
 {228}{}{Dovro' pensarci su. Addio.}
 {229}{}{Hmmm... Puo' darsi che abbia la soluzione per i suoi problemi. [Consegni a Lou l'antidoto per il jet]}
-{230}{}{Cosa diavolo Ã¨ questa roba?}
-{231}{}{Questa "roba" le ripulirÃ  l'organismo da quella merda. La prossima volta che ordina qualcosa da bere, allunga il suo drink con questo.}
+{230}{}{Cosa diavolo e' questa roba?}
+{231}{}{Questa "roba" le ripulira' l'organismo da quella merda. La prossima volta che ordina qualcosa da bere, allunga il suo drink con questo.}
 {232}{}{Beh... d'accordo. Allora, c'e' qualcos'altro che ti serve?}
 {233}{}{Vorrei prendere qualcosa.}
 {234}{}{Che cosa succede di bello in citta'?}
 {300}{}{Hai contribuito a disintossicare Fannie.}
 {301}{}{Arrivederci.}
-{310}{}{Forse ho qualcosa che può aiutare Fannie. [Consegni a Lou l’antidoto per il Jet]}
+{310}{}{Forse ho qualcosa che puo' aiutare Fannie. [Consegni a Lou l’antidoto per il Jet]}
 {1103}{}{Ciao. Sono Lou, proprietaria del Malamute Saloon, il miglior locale a nord di San Fran. Voglio che tu sappia che ti sono grata per quello che hai fatto. Come posso aiutarti?}
-{1104}{}{Sono Lou, proprietaria del Malamute Saloon, il miglior locale a nord di San Fran. Il carcere è troppo poco per quello che quel bastardo ha fatto.}
+{1104}{}{Sono Lou, proprietaria del Malamute Saloon, il miglior locale a nord di San Fran. Il carcere e' troppo poco per quello che quel bastardo ha fatto.}
 {1105}{}{Sono Lou, proprietaria del Malamute Saloon. Non riesco a credere che tu abbia lasciato libero il bastardo che ha ferito la mia ragazza. Hai un bel coraggio a tornare qui. Che diavolo vuoi?}
 {1106}{}{Rimani un dannato idiota. Ma la vita va avanti, per noi altri. Sono Lou. Ora, cosa diavolo vuoi?}
 {1107}{}{Sono Lou. Ricorda: troppi soldi non fanno bene a quella ragazza. Di cosa hai bisogno?}

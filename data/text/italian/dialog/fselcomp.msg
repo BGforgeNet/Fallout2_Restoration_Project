@@ -41,7 +41,7 @@ come segno di buona fede. Quando a qualcuno non viene chiesto, significa che gli
 Hanno un enorme bottino nascosto da qualche parte nel deserto. Dopo un po' di hacking e calcoli matematici, riesci a determinarne le coordinate. Le annoti sul tuo Pip?Boy.]}
 {201}{}{[La Chiesa Hubologista sembra essere enormemente ricca. Il metodo standard consiste nel chiedere a ogni nuova recluta di donare alla Chiesa tutti i propri beni terreni 
 come segno di buona fede. Quando a qualcuno non viene chiesto, significa che gli Hubologisti non hanno intenzione di comportarsi onestamente. 
-Hanno un enorme bottino nascosto da qualche parte nel deserto. Ne hai già determinato le coordinate.]}
+Hanno un enorme bottino nascosto da qualche parte nel deserto. Ne hai gia' determinato le coordinate.]}
 {210}{}{Violazione del sistema.}
 {211}{}{[Dopo qualche tempo ottieni pieno accesso amministrativo al mainframe. Ora puoi fare quello che vuoi al sistema.]}
 {212}{}{Formatta il sistema.}

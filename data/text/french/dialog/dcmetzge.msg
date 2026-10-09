@@ -190,7 +190,7 @@
 {642}{}{Heu, oh.}
 {650}{}{Oh, ne t'inquiète pas. Je trouverai de quoi te payer.. Je veux dire, je te revaudrai ça... Allez. C'est jour de paie aujourd'hui.}
 {651}{}{Oh, ne t'inquiète pas. Je trouverai de quoi te payer.. Je veux dire, je te revaudrai ça... Allez, emmenez-moi cette ordure !}
-{652}{}{Oh là là !}
+{652}{}{Oups !}
 {653}{}{Garaka !}
 {654}{}{Heu... mèssi ?}
 {670}{}{Oh, certainement. Ce genre de travail n'est pas à prendre à la légère. La confiance et la loyauté, c'est important. On se couvre les uns, les autres. Jolis principes, tu trouves pas ?}

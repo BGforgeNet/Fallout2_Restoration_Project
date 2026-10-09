@@ -1,5 +1,5 @@
 {100}{}{Vedi un uomo vestito con abiti da lavoro.}
-{101}{}{È un compratore di brahmin. Sta aspettando la carovana di Hal.}
+{101}{}{E' un compratore di brahmin. Sta aspettando la carovana di Hal.}
 {102}{}{Puzza di brahmin.}
 {113}{}{Che merda di lavoro abbiamo fatto! Temo che stavolta non ci saranno soldi per noi. Accontentati di aver salvato la pelle.}
 {114}{}{Beh, i proprietari non sono troppo contenti - Questo e' un lavoro da soli 1000$. Che sfortuna.}

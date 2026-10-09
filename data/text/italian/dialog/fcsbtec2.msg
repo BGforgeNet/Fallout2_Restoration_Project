@@ -1,6 +1,6 @@
 {100}{}{Vedi una persona con uno strano pigiama. Sembra preoccupato.}
 {101}{}{Vedi un tecnico del sottomarino degli Shi.}
-{150}{}{Uh… perché ti muovi così furtivamente?}
+{150}{}{Uh… perche' ti muovi cosi' furtivamente?}
 {151}{}{Sei una specie di spia?}
 {200}{}{Sarebbe piu' facile se il mio cinese fosse migliore...}
 {201}{}{Errore I/O!? Come puo' un sistema di guida avere un errore I/O!?}
@@ -11,7 +11,7 @@
 {302}{}{E' per questo che sono qui, posso aiutarti a configurare i sistemi. Sembra che la connessione tra il sottosistema di navigazione marittima e il transponder IFF sia finalmente morta, quindi devi fare un aggiramento. Ti dispiace se ti aiuto?}
 {303}{}{Scusa il disturbo.}
 {310}{}{Oh, aspettavo queste nuove specifiche da secoli! Dovevi essere qui una settimana fa, quando stavo lavorando a quel che restava del database di battaglia. Ora devo riaprirlo di nuovo... Oh beh, la vita di un tecnico, immagino.}
-{311}{}{Divertiti. Io vedo cos’altro c’è da sistemare.}
+{311}{}{Divertiti. Io vedo cos’altro c’e' da sistemare.}
 {320}{}{Non ti conosco affatto! Per quanto ne so, lao wai, potresti essere una specie di spia straniera, venuta qui per disattivare questo sottomarino, cosi' il tuo piano di attraversare i mari verso luoghi strani puo' compiersi senza che i siluri affondino la tua barca! Sono certo che Ken Lee non lascerebbe mai salire sullo Shi?Huang?Ti uno sconosciuto con cattive intenzioni, quindi mi dispiace, ma non posso accettare queste coordinate a meno che non mi arrivino dal nostro leader in persona.}
 {321}{}{Be', posso almeno aiutarti a configurare il sottomarino? Ho un po' di esperienza con sistemi informatici antichi, abbastanza da capire come un sistema a valvole di 200 anni possa rifiutarsi di obbedire al suo padrone.}
 {322}{}{D’accordo, scusa il disturbo.}

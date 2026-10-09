@@ -39,7 +39,7 @@
 {138}{}{Ok.}
 {139}{}{Après ce qui est arrivé à Chad ? Je ne crois pas. Autre chose ?}
 {140}{}{On y est. Voici tes $500. Si tu veux rentrer avec nous, on part en fin de journée. Tu gagneras de l'argent pour le retour aussi, si tu veux. Quoi qu'il en soit, note qu'on part ce soir.}
-{141}{}{A plus. }
+{141}{}{A plus.}
 {142}{}{Tu viens ?}
 {143}{}{Merci. Voici tes $500. Si tu veux un autre boulot, vois avec Bill.}
 {144}{}{Espèce de minable malade ! Tu vas mourir maintenant !}

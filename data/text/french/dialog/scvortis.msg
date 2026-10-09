@@ -52,7 +52,7 @@
 {151}{}{Le Commando travaille en secret, surtout dans le Nord.}
 {152}{}{Tu veux un dessin ou quoi ? Il décime les esclavagistes, chasse nos cheptels et les traîne clandestinement au Sud de la RNC où l'esclavage est illégal. Alors, ça t'intéresse ?}
 {153}{}{Il n'y a pas de *et après* ! Tu veux le boulot ou non ?}
-{154}{}{Ah...}
+{154}{}{Et?}
 {155}{}{Alors, que veux-tu que je fasse ?}
 {156}{}{Bon. Quand tu auras la carte, reviens me trouver ici.}
 {157}{}{Où puis-je la trouver cette carte ?}

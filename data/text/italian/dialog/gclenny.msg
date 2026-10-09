@@ -213,7 +213,7 @@
 {4001}{}{D'accordo, se tu p'pensi che sia davvero una b'buona idea.}
 {4002}{}{Beh, non mi piace usare d'delle armi a meno che non ci sia c'costretto, ma immagino di sapere usare un coltello, credo. Posso usare una pistola, o almeno un tempo ne ero c'capace. Se proprio devo, credo di essere in grado di maneggiare una mitraglietta. Se solo non fossero cosi' rumorose. Sono un d'dottore, non un guerriero.}
 {4003}{}{Gosh, spero di non averne bisogno.}
-{4004}{}{Beh, non mi piace usare armi a meno che non sia necessario, ma credo di saper usare un coltello. So usare una lancia, o almeno un tempo ci riuscivo. Se proprio devo, penso di poter maneggiare un fucile… se solo non fossero così rumorosi. Sono un guaritore, non un combattente.}
+{4004}{}{Beh, non mi piace usare armi a meno che non sia necessario, ma credo di saper usare un coltello. So usare una lancia, o almeno un tempo ci riuscivo. Se proprio devo, penso di poter maneggiare un fucile… se solo non fossero cosi' rumorosi. Sono un guaritore, non un combattente.}
 {5000}{}{Credo di p'poter avere un arto r'rotto.}
 {5001}{}{Credo di p'poter essere i'irradiato.}
 {5002}{}{Credo di p'poter essere a'avvelenato.}
@@ -225,7 +225,7 @@
 {6011}{}{No, mi chiedevo se ci fosse qualcosa che possiamo fare per Cassidy.}
 {6012}{}{No. Ho intenzione di assassinare un vecchio malato e stavo cercando di trovare qualcosa di piu' creativo che avvicinarmi di soppiatto e far scoppiare un sacchetto di carta.}
 {6013}{}{Mettilo pure in conto alla curiosita' accademica, suppongo.}
-{6020}{}{Ehi, non c’è bisogno di innervosirsi.}
+{6020}{}{Ehi, non c’e' bisogno di innervosirsi.}
 {6021}{}{Be', per lo p'piu', e' roba di s'senso c'comune. M'mangiare bene, s'stare alla l'larga dai c'chem piu' duri, quel g'genere di cose. M'mantenere lo s'stress al m'minimo. F'fondamentalmente, v'vivere p'piu' come una v'vecchia s'signora, e m'meno come... be', noi. Eh. O'ovviamente, la c'cosa m'migliore che p'potresti f'fare sarebbe p'probabilmente t'tamponarlo con qualche r'regolatore c'cardiaco, f'forse qualche v'vasodilatatore.}
 {6022}{}{Cardiaco… cosa?}
 {6023}{}{Pillole per il cuore.}
@@ -247,6 +247,6 @@
 {6082}{}{Ah, s'si'. P'prendi q'quelle d'due nel t'tuo s'sistema ins'sieme, e KER-BLAM! Il t'tuo c'cuore esp'plodera' c'come un s'sanguinaccio. R'ricordo di a'aver f'fatto p'post-mortem s'su p'piu' di un p'povero v'vecchio c'che era t'troppo o'occupato a s'seminare per l'leggere un'e'etichetta d'di av'vertimento.}
 {6083}{}{Sanguinaccio?}
 {6084}{}{Bene a sapersi. Grazie mille, Lenny.}
-{6090}{}{Oh. Deve essere stato un po’ prima del tuo tempo. Scusa. C’è qualcos’altro che posso fare per te?}
+{6090}{}{Oh. Deve essere stato un po’ prima del tuo tempo. Scusa. C’e' qualcos’altro che posso fare per te?}
 {6091}{}{Beh, visto che me lo chiedi...}
-{6092}{}{No, va bene così. Grazie, Lenny.}
+{6092}{}{No, va bene cosi'. Grazie, Lenny.}

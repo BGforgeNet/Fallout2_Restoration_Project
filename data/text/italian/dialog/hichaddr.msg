@@ -1,6 +1,6 @@
 {100}{}{Vedi una porta di legno.}
 {101}{}{Questa porta e' fatta di legno massiccio. Sembra costruita con un nuovo sistema di chiusura.}
-{102}{}{Questa porta è saldamente chiusa.}
+{102}{}{Questa porta e' saldamente chiusa.}
 {103}{}{Usando la tecnica che hai imparato da Max, disattivi con cura il meccanismo di scatto e
  scassini la porta senza sforzo.}
 {104}{}{Qualcosa sembra diverso in questa serratura. Decidi di lasciarla stare.}

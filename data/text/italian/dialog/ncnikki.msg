@@ -1,16 +1,16 @@
 {100}{}{Vedi Nikki la dolce.}
-{125}{}{Vedi una delle croupier del casinò.}
+{125}{}{Vedi una delle croupier del casino'.}
 {150}{}{Vedi Nikki la dolce.}
 {151}{}{Vedi Darlin’ Nikki. Ti fa l’occhiolino.}
-{152}{}{Vedi una delle croupier del casinò. Ti fa cenno di avvicinarti a giocare.}
+{152}{}{Vedi una delle croupier del casino'. Ti fa cenno di avvicinarti a giocare.}
 {153}{}{Vedi Darlin’ Nikki. Mason aveva ragione sul suo lato B.}
 {154}{}{Vedi Darlin’ Nikki. Il suo vestito copre a malapena il suo corpo.}
 {155}{}{Vedi Darlin’ Nikki. Mason aveva ragione sul suo lato B.}
 {156}{}{Vedi Darlin’ Nikki. Il suo vestito copre a malapena il suo corpo.}
-{160}{}{Vedi una delle croupier del casinò. Ti fa cenno di avvicinarti a giocare.}
+{160}{}{Vedi una delle croupier del casino'. Ti fa cenno di avvicinarti a giocare.}
 {161}{}{Vedi Darlin’ Nikki. Il suo vestito copre a malapena il suo corpo.}
 {162}{}{Vedi Darlin’ Nikki. Il suo vestito copre a malapena il suo corpo.}
-{170}{}{Vedi una delle croupier del casinò.}
+{170}{}{Vedi una delle croupier del casino'.}
 {171}{}{Vedi una delle croupier del casino'. Ti fa l'occhiolino.}
 {172}{}{Vedi Darlin' Nikki. Ti fa cenno di avvicinarti a giocare.}
 {173}{}{Vedi una delle croupier del casino'. Ha due gambe niente male.}
@@ -34,7 +34,7 @@
 {216}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
 {217}{}{Vuole giocare, signora?}
 {218}{}{Sembra cosi'...(trema)...pericolosa.}
-{220}{}{Sembra che questo stia già giocando con la propria vita.}
+{220}{}{Sembra che questo stia gia' giocando con la propria vita.}
 {221}{}{Uh, credo che sia entrato nel casino' sbagliato...}
 {222}{}{Se non se ne va prima che lo vedano i ragazzi...}
 {223}{}{Uh-oh. Guai in arrivo...}
@@ -65,7 +65,7 @@
 {266}{}{Vieni qui, }
 {267}{}{Vuoi bere qualcosa?}
 {268}{}{Benvenuto nel nostro casino', }
-{269}{}{Ehilà, signora Star del Cinema. Vuole spendere lo stipendio?}
+{269}{}{Ehila', signora Star del Cinema. Vuole spendere lo stipendio?}
 {270}{}{Ehi, tesoro. Vuoi spendere qualche fiche?}
 {271}{}{Ehi, dolcezza… [strizza l’occhio]… vuoi giocare?}
 {272}{}{Ehi, dolcezza… [sorride]… vuoi tentare la fortuna?}
@@ -84,9 +84,9 @@
 {292}{}{Punti, signore. Puntata minima 5 fiches. Fate il vostro gioco…}
 {293}{}{Punti, signora. Puntata minima 5 fiches. Fate il vostro gioco…}
 {294}{}{Fate il vostro gioco, puntata minima 5 fiches. Fate il vostro gioco…}
-{295}{}{Io… più for-te di te}
+{295}{}{Io… piu' for-te di te}
 {296}{}{Io… gioco ai dadi… nei pantaloni}
-{297}{}{Cosa essere questo gioco? Me può scommettere pelle di gecko? Me ha pelle di… ooooh… lucine belle là!}
+{297}{}{Cosa essere questo gioco? Me puo' scommettere pelle di gecko? Me ha pelle di… ooooh… lucine belle la'!}
 {298}{}{Scommetti 5 fiches?}
 {299}{}{Scommetti 15 fiches?}
 {300}{}{Scommetti 25 fiches?}
@@ -103,10 +103,10 @@
 {315}{}{Uh… cervelli… che cosa e'?}
 {320}{}{Benissimo, signore. Torni presto.}
 {321}{}{Molto bene, signore. Tornate presto.}
-{322}{}{5 fiches? “Troppo per le tue tasche?” Amico, sei nella città sbagliata.}
-{323}{}{5 fiches? “Troppo per le tue tasche?” Amico, sei nella città sbagliata.}
-{324}{}{5 fiches? “Troppo per le tue tasche?” Ragazza, sei nella città sbagliata.}
-{325}{}{5 fiches? “Troppo per le tue tasche?” Ragazza, sei nella città sbagliata.}
+{322}{}{5 fiches? “Troppo per le tue tasche?” Amico, sei nella citta' sbagliata.}
+{323}{}{5 fiches? “Troppo per le tue tasche?” Amico, sei nella citta' sbagliata.}
+{324}{}{5 fiches? “Troppo per le tue tasche?” Ragazza, sei nella citta' sbagliata.}
+{325}{}{5 fiches? “Troppo per le tue tasche?” Ragazza, sei nella citta' sbagliata.}
 {326}{}{Lo faro', grazie.}
 {327}{}{Forse, ma almeno *io* non ci vivo.}
 {330}{}{Mi dispiace, signore. Piu' fortuna la prossima volta.}
@@ -137,25 +137,25 @@
 {371}{}{Sono chiunque tu VOGLIA che io sia, tesoro. Allora, vuoi puntare?}
 {372}{}{Sono chiunque tu VOGLIA che io sia, cara. Allora, vuoi puntare?}
 {373}{}{Fai una puntata.}
-{374}{}{Sì. Scommetto che sai dov’è Pretty Boy Lloyd.}
+{374}{}{Si'. Scommetto che sai dov’e' Pretty Boy Lloyd.}
 {375}{}{Si', scommetto che tu e Pretty Boy Lloyd stavate entrambi rubando soldi al signor Salvatore. Difficile credere che
  non ti sia accorta di lui che barava tutte quelle volte.}
 {376}{}{Conosci qualcuno di nome Pretty Boy Lloyd?}
-{377}{}{Parleremo più tardi, Nikki.}
+{377}{}{Parleremo piu' tardi, Nikki.}
 {380}{}{Si', ho sentito che e' MORTO. E' questo che volevi sentire, assassino?! Eh?! Ora fai una puntata o mi rompi ancora le scatole?}
 {381}{}{No. Vuoi puntare o no?}
 {382}{}{Fai una puntata.}
-{383}{}{Sì. Scommetto che sai dov’è Pretty Boy Lloyd.}
+{383}{}{Si'. Scommetto che sai dov’e' Pretty Boy Lloyd.}
 {384}{}{Si', scommetto che tu e Pretty Boy Lloyd stavate entrambi rubando soldi al signor Salvatore. Difficile credere che non ti sia accorta
  che Lloyd barava tutte quelle volte.}
-{385}{}{Parleremo più tardi, Nikki.}
+{385}{}{Parleremo piu' tardi, Nikki.}
 {390}{}{Allora quella e' una puntata che PERDERESTI, tesoro, ma se sei stupida quanto sei brutta, lo faresti comunque. Non
  ho visto quel barbone da quando ha fregato il signor Salvatore.}
-{391}{}{Allora è una scommessa che perderesti, tesoro. Non vedo quel pezzente da quando ha fregato il signor Salvatore.}
-{392}{}{Allora è una scommessa che perderesti, ragazza. Non vedo quel pezzente da quando ha fregato il signor Salvatore.}
+{391}{}{Allora e' una scommessa che perderesti, tesoro. Non vedo quel pezzente da quando ha fregato il signor Salvatore.}
+{392}{}{Allora e' una scommessa che perderesti, ragazza. Non vedo quel pezzente da quando ha fregato il signor Salvatore.}
 {393}{}{Forse non mi hai sentito la prima volta, quindi per i non udenti: dov'e' Lloyd?}
 {394}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
-{395}{}{Bene. Parleremo più tardi, Nikki.}
+{395}{}{Bene. Parleremo piu' tardi, Nikki.}
 {400}{}{Tesoro, TE L'HO DETTO che non so dove si trova. Senti, sto LAVORANDO, quindi torna sotto il sasso da cui --}
 {401}{}{Ragazza, TI HO DETTO che non so dove sia. Senti, STO LAVORANDO, quindi torna pure sotto la pietra da cui sei uscita e—}
 {402}{}{Nikki, Nikki... sto perdendo la PAZIENZA. Se non mi dici dov'e' Lloyd, perdo anche le staffe.}
@@ -163,34 +163,34 @@
  al signor Salvatore quello che sospetto.}
 {404}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {405}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
-{406}{}{Parleremo più tardi, Nikki.}
+{406}{}{Parleremo piu' tardi, Nikki.}
 {410}{}{Se mi tocchi, il signor Salvatore ti scortica vivo.}
 {411}{}{Salvatore non ti proteggera'; mazzieri come te se ne trovano a bizzeffe. Smettila di menare il can per l'aia e dimmi dov'e' Lloyd, o ALTRIMENTI.}
 {412}{}{Salvatore non ti proteggera'; e' morto. Smettila di menare il can per l'aia e dimmi dov'e' Lloyd, o ALTRIMENTI.}
 {413}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {414}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
-{415}{}{Parleremo più tardi, Nikki.}
+{415}{}{Parleremo piu' tardi, Nikki.}
 {420}{}{Di cosa stai parlando?}
 {421}{}{Nikki, se non mi dici tutto adesso, diro' al signor Salvatore che eri coinvolta, che lo fossi o no.
  Fara' fare a Mason un macello di te, e trovera' qualcuno al tuo posto in un'ora.}
 {422}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {423}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
-{424}{}{Parleremo più tardi, Nikki.}
+{424}{}{Parleremo piu' tardi, Nikki.}
 {430}{}{Senti, COME HO GIA' DETTO, non so dove sia. Ma *forse* ho sentito che aveva una stanza al Desperado. Potresti trovare
  qualcosa la'. Ora, se non ti dispiace, devo tornare al lavoro.}
 {431}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {432}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
-{433}{}{Parleremo più tardi, Nikki.}
+{433}{}{Parleremo piu' tardi, Nikki.}
 {440}{}{Senti, ho APPENA INIZIATO a lavorare qui, e non posso riconoscere ogni baro e imbroglione da quattro soldi che entra.
  Ma gli stronzi come te li riconosco abbastanza bene.}
 {441}{}{Oh, quindi e' cosi' che tu e Lloyd vi siete messi insieme?}
 {442}{}{Quindi hai appena cominciato a lavorare, eh? Molto conveniente. Be', e' tutto quello che mi serve sapere. Di' a Lloyd che e' un uomo morto.}
 {443}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
-{444}{}{Parleremo più tardi, Nikki.}
+{444}{}{Parleremo piu' tardi, Nikki.}
 {450}{}{Si', se sniffi abbastanza Jet, tutto sembra sospetto, vero?}
 {451}{}{E' DAVVERO sospetto. Avresti dovuto capire che tipo era Lloyd appena e' entrato in questo casino'.}
 {452}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
-{453}{}{Parleremo più tardi, Nikki.}
+{453}{}{Parleremo piu' tardi, Nikki.}
 {460}{}{Sparisci da qui, cazzo. Non ho piu' niente da dirti.}
 {461}{}{Non ho niente da dirti. Sparisci.}
 {462}{}{Per ora, forse no. Ma parlero' con te piu' tardi, Nikki. Puoi contarci.}
@@ -200,7 +200,7 @@
  POTREI dirti dove si nasconde quel bugiardo di merda.}
 {481}{}{Fatto. Ecco i 500 chip. Dimmi dov'e'.}
 {482}{}{E' un prezzo piuttosto alto per un mucchio di "forse" e "potrebbe". Lo trovero' da solo.}
-{483}{}{Non ho abbastanza fiches. Tornerò quando ne avrò di più. Spero che sarai ancora qui.}
+{483}{}{Non ho abbastanza fiches. Tornero' quando ne avro' di piu'. Spero che sarai ancora qui.}
 {490}{}{(Intasca i soldi) Controlla la sala caldaie nel seminterrato del Desperado. E' li' che quel figlio di puttana
  aveva intenzione di rifugiarsi se le cose si mettevano male.}
 {491}{}{D’accordo. A dopo, Nikki.}

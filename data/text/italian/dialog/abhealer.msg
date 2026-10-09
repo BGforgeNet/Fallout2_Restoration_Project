@@ -22,7 +22,7 @@
 {601}{}{Capisco. Sono molti anni per studiare tutti i libri di medicina pre?bellici nella biblioteca dell’Abbazia. Devi essere davvero un ottimo dottore.}
 {602}{}{Da dove hai preso tutto il tuo equipaggiamento medico?}
 {603}{}{Interessante. Credo che me ne andro' ora.}
-{604}{}{(Aggrugisce la fronte.) Mi considero un buon dottore, ma non posso certo dare il merito ai libri, visto che non mi è nemmeno permesso… lasciamo stare, non voglio parlarne. Mio padre era un dottore, ed e' stato lui a trasmettermi tutto cio' che so.}
+{604}{}{(Aggrugisce la fronte.) Mi considero un buon dottore, ma non posso certo dare il merito ai libri, visto che non mi e' nemmeno permesso… lasciamo stare, non voglio parlarne. Mio padre era un dottore, ed e' stato lui a trasmettermi tutto cio' che so.}
 {605}{}{Ah, capisco.}
 {700}{}{Alcuni di questi medicinali li ho ricevuti da mio padre. La maggior parte degli altri era gia' qui all’Abbazia.}
 {701}{}{Interessante. Ci vediamo.}

@@ -79,7 +79,7 @@
 {178}{}{Li ha gia' consegnati agli Hubologisti. No?}
 {179}{}{Oh, certo... ahem... Posso chiederle qualcos'altro?}
 {180}{}{Oh, certo... Arrivederci.}
-{200}{}{Cos'altro può dirmi riguardo al tanker?}
+{200}{}{Cos'altro puo' dirmi riguardo al tanker?}
 {210}{}{Anche se riuscissi a far funzionare il NavCom e a rifornire la petroliera, avrai comunque bisogno di una considerevole fortuna se vuoi davvero che la nave torni a navigare.}
 {211}{}{Cosa intendi per “notevole buona fortuna”?}
 {220}{}{Voglio dire, quel rottame e' piu' vecchio della maggior parte dei ghoul. Sarebbe un miracolo se non ti affondasse sotto i piedi. E' tutto quello che intendevo.}
@@ -95,8 +95,8 @@
 {251}{}{E se ti pagassi per dirmelo?}
 {260}{}{Hmm... Gli affari sono stati lenti ultimamente. Potrei usare piu' clienti. O una donazione da uno molto generoso. Diciamo, 2000 dollari?}
 {261}{}{Ecco. Ma spero davvero che le informazioni valgano il prezzo.}
-{262}{}{1500$. È la mia ultima offerta.}
-{263}{}{Non credo proprio. È troppo.}
+{262}{}{1500$. E' la mia ultima offerta.}
+{263}{}{Non credo proprio. E' troppo.}
 {270}{}{(Lao Chou intasca i 2000 dollari.) Non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
 {271}{}{Sottomarino?}
 {280}{}{Allora non abbiamo altro di cui discutere.}
@@ -109,7 +109,7 @@
 {290}{}{Be', se la metti cosi', sono stato rinchiuso in questo negozio polveroso per molto tempo. E' passato un bel po' da quando ho goduto della compagnia di una donna affascinante come te.}
 {291}{}{[CONTINUA]}
 {300}{}{[Passano ore senza che si intraveda una fine. Cominci a sospettare che Lao Chou non sia completamente umano. Alla fine, perdi i sensi.]}
-{301}{}{Hhh… cosa è successo?}
+{301}{}{Hhh… cosa e' successo?}
 {310}{}{Sei svenuto mentre ci muovevamo nella posizione del triplo?loto, e ho dovuto finire da solo con la kata del panda?sorridente.
  Ma un accordo e' un accordo. Non e' la petroliera a essere speciale — e' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}
 {311}{}{Sottomarino?}
@@ -125,7 +125,7 @@
 {362}{}{Scherzavo, vecchio. Come se ti lasciassi passare del tempo con mia moglie... Me ne vado.}
 {370}{}{[Aspetti fuori e senti gemiti soffocati provenire dall'interno del Flying Dragon 8. Passa un'ora, poi un'altra.
  Bussi alla porta gridando: "Sbrigatevi la' dentro!" Alla fine, i gemiti diventano un urlo primordiale.]}
-{371}{}{[Bussa alla porta] Ehi! Che state facendo lì dentro!?}
+{371}{}{[Bussa alla porta] Ehi! Che state facendo li' dentro!?}
 {380}{}{Un Lao Chou sorridente esce dalla sua stanza, ancora intento a tirarsi su i pantaloni. Pochi istanti dopo Miria barcolla fuori dietro di lui, stordita e confusa ma profondamente soddisfatta.] Tua moglie e' molto piu' esperta di quanto sembri.}
 {381}{}{Lo... ehm... so. Ora tirati su quei dannati pantaloni e dimmi cosa c'e' di cosi' speciale nella petroliera.}
 {390}{}{Non c'e' nulla di speciale nella petroliera. E' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}
@@ -133,7 +133,7 @@
 {400}{}{Lo Shi?Huang?Ti. Mio bisnonno, Ye Li, ne era il capitano. Scateno' i suoi fuochi nucleari come un terribile drago sulla costa della California.}
 {401}{}{Ma va’!}
 {410}{}{Ironia della sorte, un missile difettoso della nostra stessa nazione ancestrale usci' dalla rotta ed esplose sull'oceano vicino al sottomarino. L'esplosione mise fuori uso i sistemi dello Shi?Huang?Ti, lasciando il capitano Ye Li e il suo equipaggio alla deriva.}
-{411}{}{È il karma, sai com’è.}
+{411}{}{E' il karma, sai com’e'.}
 {420}{}{Ma ci fu salvezza. Dopo settimane alla deriva, il sottomarino si fermo' nelle acque basse della baia di San Francisco.
  Questa citta' divenne la nostra nuova casa. Alla fine restaurammo lo Shi?Huang?Ti: i suoi sistemi di puntamento, le sue armi.
  Ha abbastanza potenza di fuoco da spazzare via qualsiasi invasore. Quindi, anche se riuscissi a far partire quella vecchia petroliera,

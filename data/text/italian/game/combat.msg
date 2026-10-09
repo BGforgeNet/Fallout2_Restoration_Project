@@ -34,8 +34,8 @@
 {251}{female_pc}{abbattuta}
 {252}{female_pc}{la tua gamba sx e' ferita}
 {253}{female_pc}{la tua gamba dx e' ferita}
-{254}{female_pc}{il tuo braccio sx e' ferito}
-{255}{female_pc}{il tuo braccio dx e' ferito}
+{254}{female_pc}{il tuo braccio sx e' ferita}
+{255}{female_pc}{il tuo braccio dx e' ferita}
 {256}{female_pc}{accecata}
 {257}{female_pc}{Sei stata uccisa}
 {258}{female_pc}{colpita}
@@ -100,59 +100,59 @@
 {421}{female_npc}{ha ferito un arto a caso}
 {422}{female_npc}{e' stata colpita dai frammenti}
 {506}{}{Tu}
-{509}{}{Oops! %sSei stata colpita al posto di %s!}
-{511}{}{%sHai subito un colpo critico %s per %d punti vita}
-{512}{}{%sSei stata colpita %s per %d punti vita}
-{513}{}{%sSei stata colpita per %d punti vita}
+{509}{}{Oops! %s sei stato colpito al posto di %s!}
+{511}{}{%s sai subito un colpo critico %s per %d punti vita}
+{512}{}{%s sei stato colpito %s per %d punti vita}
+{513}{}{%s sei stato colpito per %d punti vita}
 {514}{}{%s ha mancato miseramente il bersaglio}
 {515}{}{%s ha mancato il bersaglio}
-{520}{}{%sHai subito un colpo critico per %d punti vita}
-{521}{}{%sHai subito un colpo critico %s per 1 punto vita}
-{522}{}{%sSei stata colpita %s per 1 punto vita}
-{523}{}{%sSei stata colpita per 1 punto vita}
-{524}{}{%sHai subito un colpo critico per 1 punto vita}
-{525}{}{%sHai subito un colpo critico %s senza danni}
-{526}{}{%sSei stata colpita %s senza danni}
-{527}{}{%sSei stata colpita senza danni}
-{528}{}{%sHai subito un colpo critico senza danni}
+{520}{}{%s hai subito un colpo critico per %d punti vita}
+{521}{}{%s hai subito un colpo critico %s per 1 punto vita}
+{522}{}{%s sei stato colpito %s per 1 punto vita}
+{523}{}{%s sei stato colpito per 1 punto vita}
+{524}{}{%s hai subito un colpo critico per 1 punto vita}
+{525}{}{%s hai subito un colpo critico %s senza danni}
+{526}{}{%s sei stato colpito %s senza danni}
+{527}{}{%s sei stato colpito senza danni}
+{528}{}{%s hai subito un colpo critico senza danni}
 {533}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
-{534}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
+{534}{}{%s ha mancato miseramente il bersaglio e si e' causato di %d punti vita}
 {556}{}{Tu}
-{559}{female_pc}{Oops! %sSei stata colpita al posto di %s!}
-{561}{female_pc}{%sHai subito un colpo critico %s per %d punti vita}
-{562}{female_pc}{%sSei stata colpita %s per %d punti vita}
-{563}{female_pc}{%sSei stata colpita per %d punti vita}
+{559}{female_pc}{Oops! %s sei stato colpito al posto di %s!}
+{561}{female_pc}{%s hai subito un colpo critico %s per %d punti vita}
+{562}{female_pc}{%s sei stato colpito %s per %d punti vita}
+{563}{female_pc}{%s sei stato colpito per %d punti vita}
 {564}{female_pc}{%s ha mancato miseramente il bersaglio}
 {565}{female_pc}{%s ha mancato il bersaglio}
-{570}{female_pc}{%sHai subito un colpo critico per %d punti vita}
-{571}{female_pc}{%sHai subito un colpo critico %s per 1 punto vita}
-{572}{female_pc}{%sSei stata colpita %s per 1 punto vita}
-{573}{female_pc}{%sSei stata colpita per 1 punto vita}
-{574}{female_pc}{%sHai subito un colpo critico per 1 punto vita}
-{575}{female_pc}{%sHai subito un colpo critico %s senza danni}
-{576}{female_pc}{%sSei stata colpita %s senza danni}
-{577}{female_pc}{%sSei stata colpita senza danni}
-{578}{female_pc}{%sHai subito un colpo critico senza danni}
+{570}{female_pc}{%s hai subito un colpo critico per %d punti vita}
+{571}{female_pc}{%s hai subito un colpo critico %s per 1 punto vita}
+{572}{female_pc}{%s sei stato colpito %s per 1 punto vita}
+{573}{female_pc}{% sai stato colpito per 1 punto vita}
+{574}{female_pc}{%s hai subito un colpo critico per 1 punto vita}
+{575}{female_pc}{%s hai subito un colpo critico %s senza danni}
+{576}{female_pc}{%s sei stato colpito %s senza danni}
+{577}{female_pc}{%s sei stato colpito senza danni}
+{578}{female_pc}{%s hai subito un colpo critico senza danni}
 {583}{female_pc}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
 {584}{female_pc}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
-{608}{}{Oops! %s e' stata colpita al posto tuo!}
-{609}{}{Oops! %s e' stata colpita al posto di %s!}
+{608}{}{Oops! %s e' stato colpito al posto tuo!}
+{609}{}{Oops! %s e' stato colpito al posto di %s!}
 {611}{}{%s ha subito un colpo critico %s per %d punti vita}
-{612}{}{%s e' stata colpita %s per %d punti vita}
-{613}{}{%s e' stata colpita per %d punti vita}
+{612}{}{%s e' stato colpito %s per %d punti vita}
+{613}{}{%s e' stato colpito per %d punti vita}
 {614}{}{%s ha mancato miseramente il bersaglio}
 {615}{}{%s ha mancato il bersaglio}
 {620}{}{%s ha subito un colpo critico per %d punti vita}
 {621}{}{%s ha subito un colpo critico %s per 1 punto vita}
-{622}{}{%s e' stata colpita %s per 1 punto vita}
-{623}{}{%s e' stata colpita per 1 punto vita}
+{622}{}{%s e' stato colpito %s per 1 punto vita}
+{623}{}{%s e' stato colpito per 1 punto vita}
 {624}{}{%s ha subito un colpo critico per 1 punto vita}
 {625}{}{%s ha subito un colpo critico %s senza danni}
-{626}{}{%s e' stata colpita %s senza danni}
-{627}{}{%s e' stata colpita senza danni}
+{626}{}{%s e' stato colpito %s senza danni}
+{627}{}{%s e' stato colpito senza danni}
 {628}{}{%s ha subito un colpo critico senza danni}
 {633}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
-{634}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
+{634}{}{%s ha mancato miseramente il bersaglio e si e' causato di %d punti vita}
 {708}{female_npc}{Oops! %s e' stata colpita al posto tuo!}
 {709}{female_npc}{Oops! %s e' stata colpita al posto di %s!}
 {711}{female_npc}{%s ha subito un colpo critico %s per %d punti vita}
@@ -678,7 +678,7 @@
 {5804}{}{. Il colpo ha raggiunto un punto molto sensibile, stordendo il fluttuante}
 {5805}{}{. Il colpo scuote violentemente il fluttuante in un'esplosione di rosso}
 {5806}{}{. Il colpo causa un qualche tipo di violenta reazione nella creatura}
-{5807}{}{. Il fluttuante immediatamente s'infuria}
+{5807}{}{. Il fluttuante prende fuoco all'improvviso}
 {5808}{}{. Il fluttuante ha delle violente scosse e trema come un budino alla vaniglia}
 {5809}{}{; il colpo colpisce una zona sensibile}
 {5810}{}{. La creatura e' chiaramente agitata}

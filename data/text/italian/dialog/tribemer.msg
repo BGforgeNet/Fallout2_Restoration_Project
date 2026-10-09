@@ -10,7 +10,7 @@
 {203}{}{Sono }
 {204}{}{ di Arroyo.}
 {205}{}{Bene. Iniziamo.}
-{210}{}{È un vero piacere conoscerti, }
+{210}{}{E' un vero piacere conoscerti, }
 {211}{}{. Se me lo permetti, sei un tipo un po' strano per essere un tribale.}
 {212}{}{Non sono un tribale qualunque. In realta', sono il Prescelto.}
 {213}{}{Non so cosa intendi. Sono solo un tribale qualunque. Niente di strano in me.}
@@ -62,7 +62,7 @@
  di pelli di geco dorato. Un affare del genere non si puo' proprio rifiutare.}
 {281}{}{[A Krom.] Ha ragione, e' un buon affare. Ottimo, in realta'. [A Roy.] Lo facciamo.}
 {282}{}{E' un buon affare, si'. Troppo buono. Qual e' la fregatura?}
-{283}{}{Ti offriremo dieci pelli di gecko dorato. Non di più.}
+{283}{}{Ti offriremo dieci pelli di gecko dorato. Non di piu'.}
 {284}{}{Fammi riflettere un momento.}
 {285}{}{No.}
 {290}{}{[Il viso di Roy si illumina.] Scelta eccellente! Affare fatto allora. [Gli oggetti vengono scambiati rapidamente, poi Roy si affretta
@@ -71,7 +71,7 @@
  di piu' di una singola pelle dorata. Quindi capisci, ve li sto gia' offrendo a uno sconto assurdo. Chiedermi di piu'
  sarebbe una rapina. Venti pelli, o passo a una tribu' piu' ragionevole.}
 {301}{}{D’accordo. Lo faremo.}
-{302}{}{Allora è meglio che te ne vada. Niente accordo.}
+{302}{}{Allora e' meglio che te ne vada. Niente accordo.}
 {303}{}{Lasciami un momento per pensarci.}
 {305}{}{[Roy corruga la fronte e si gratta il collo ispido. Alla fine emette un lungo sospiro.] Mi stai rovinando, lo sai?
  Ma come favore alla tua tribu', accettero' il tuo accordo. [Gli oggetti vengono scambiati rapidamente, poi Roy si affretta verso la sua
@@ -91,11 +91,11 @@
 {350}{}{Bene, se hai finito di perdere tempo, mettiamoci in moto. Sono un uomo occupato.}
 {351}{}{D’accordo. Accettiamo l’accordo.}
 {352}{}{No.}
-{353}{}{Devo pensarci un po’ di più.}
+{353}{}{Devo pensarci un po’ di piu'.}
 {354}{}{Ho un nuovo accordo per te: dacci gli stimpak e potrai tenerti la vita.}
 {360}{}{Sei un tipo occupato, eh? Sei anche un bugiardo e un imbroglione.}
 {361}{}{Quegli Stimpak sono falsi. Non sono altro che siringhe piene di sangue di brahmin. Stavi cercando di fregare questa tribu'.}
-{362}{}{Devo pensarci un po’ di più.}
+{362}{}{Devo pensarci un po’ di piu'.}
 {363}{}{D’accordo. Accettiamo l’accordo.}
 {370}{}{[Si agita a disagio e lancia un'occhiata nervosa a Krom.] Co-cosa stai dicendo?}
 {371}{}{Quegli Stimpak sono falsi. Non sono altro che siringhe piene di sangue di brahmin. Stavi cercando di fregare questa

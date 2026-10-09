@@ -1,4 +1,4 @@
-{100}{}{Tu vois un garde.}
+{100}{}{Tu vois un garde. }
 {101}{}{Tu vois un garde de la porte.}
 {102}{}{Tu vois un garde vêtu d'une SuperArmure quelque peu inhabituelle. Son plastron porte un insigne que tu n'as jamais vu avant.}
 {103}{gate1}{Halte ! Terrain militaire fédéral. Interdiction d'entrer sans autorisation.}
@@ -17,7 +17,7 @@
 {116}{}{Ok. Moi partir.}
 {117}{gate14}{[Il porte sa main à son arme.] Ne me donne pas d'excuses bidon ! Tu dois soit me montrer ton passe, soit me donner le mot de passe !}
 {118}{}{Moi pas trouver passe et pas me souvenir mot de passe !}
-{119}{}{Moi tuer !}
+{119}{}{Merde ! Moi tuer !}
 {120}{}{Je m'excuse, j'ai perdu mon passe et je n'ai jamais entendu parler d'un mot de passe.}
 {121}{}{Vous pouvez aller au diable, toi et tes semblables !}
 {122}{gate5}{Je te conseille de quitter cette installation au plus vite et de ne pas revenir sans autorisation. Ai-je été assez clair ?}
@@ -51,5 +51,5 @@
 {200}{}{...Enfoiré...}
 {201}{}{...Ouais, tu ferais MIEUX de foutre le camp...}
 {202}{}{... Quel trou du cul...}
-{203}{}{...Oui, m'sieur ! Enfoiré de m'sieur... !}
+{203}{}{...oui, m'sieur ! enfoiré de m'sieur !...}
 {300}{}{Avance soldat.}

@@ -23,7 +23,7 @@
 {202}{}{Mi chiedevo se potessi farti qualche domanda su Chad.}
 {203}{}{Chi sei?}
 {204}{}{No, grazie.}
-{205}{}{In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. È dentro quell’edificio laggiù.}
+{205}{}{In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. E' dentro quell’edificio laggiu'.}
 {206}{}{Ho ancora un paio di domande.}
 {207}{}{Grazie. Ciao.}
 {208}{}{Tu hai delle domande e forse io ho delle risposte. Che cosa vuoi sapere?}
@@ -72,4 +72,4 @@
 {413}{}{Sarah}
 {450}{}{Vedi }
 {451}{}{, una guardia della carovana.}
-{2050}{}{In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. È quello con il cappello, proprio laggiù.}
+{2050}{}{In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. E' quello con il cappello, proprio laggiu'.}

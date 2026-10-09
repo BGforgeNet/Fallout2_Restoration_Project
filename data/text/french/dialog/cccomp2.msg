@@ -12,12 +12,12 @@
 {111}{}{Je suis le plus ancien analyste informatique. Je dois conserver tout l'équipement ici.}
 {112}{}{Oh. Moi utiliser ordinateur ?}
 {113}{}{Moi pas comprendre. Moi partir.}
-{114}{}{Puis-je utiliser le système pour une minute ? Juste pour jeter un coup d'oeil.}
+{114}{}{Dis, je peux utiliser le système une minute ? Tu sais, juste pour y jeter un coup d'œil ?}
 {115}{}{A une prochaine...}
 {116}{}{Hum... Je ne suis pas censé permettre au personnel non formé d'utiliser le matériel. C'est plutôt complexe et délicat, tu comprends.}
 {117}{}{S'il vous plaît ? Moi rien casser.}
 {118}{}{Je promets de ne rien casser.}
-{119}{}{Bon, d'accord. Tu peux accéder au système à partir du terminal là-bas. Mais fais attention. On se ferait tous les deux incendier si tu endommageais cette machine. Oh, le mot de passe c'est "Snookie".}
+{119}{}{Bon, d'accord. Tu peux accéder au système à partir du terminal là-bas. Mais fais attention s'il te plaît. On se ferait tous les deux incendier si tu endommageais cette machine. Oh, le mot de passe c'est "Snookie".}
 {120}{}{Je suis désolé, mais c'est hors de question. Je ne suis même pas censé laisser le personnel autorisé utiliser seul l'équipement.}
 {121}{}{Snookie ? C'est quoi, snookie ?}
 {122}{}{Ok. Moi comprendre.}
@@ -26,7 +26,7 @@
 {125}{}{'Snookie' c'est le surnom de ma copine. Je trouve ça mignon. C'est elle dans le hall là-bas. C'est un des gardes..}
 {126}{}{Ok, très bien. Merci.}
 {127}{}{Ouais... c'est mignon. Merci.}
-{128}{}{Tu ne portes pas ton uniforme.}
+{128}{}{Tu ne portes pas ton uniforme. }
 {129}{}{Tu ferais mieux d'aller mettre ton uniforme. L'armurerie est sous le hall à gauche.}
 {130}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller à la réserve.}
 {131}{}{Mais bon sang, qui es-tu ? -- Alerte ! Des intrus !}

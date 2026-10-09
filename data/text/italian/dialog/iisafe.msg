@@ -41,7 +41,7 @@
 {294}{}{Yeah, *io* ho proprio il tocco magico...}
 {305}{}{Giri la manopola, ma il piccolo sportello non si apre!}
 {306}{}{Giri la manopola per diversi minuti, ma non succede nulla.}
-{307}{}{Ehilaaa? Ehilà, scatola…?}
+{307}{}{Ehilaaa? Ehila', scatola…?}
 {308}{}{Continua a girare il naso.}
 {309}{}{-Allontanati-}
 {310}{}{Hmmmm. Forse i numeri su queste tre piastrine possono aprire la cassaforte...}

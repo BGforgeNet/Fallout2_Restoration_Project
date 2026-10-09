@@ -30,9 +30,9 @@
 {256}{}{Perfetto. Lasciano entrare persino i ghoul, adesso.}
 {257}{}{Dovresti far prendere un po' d'aria a quel tuo ghoul. Emana un tanfo insopportabile.}
 {258}{}{Quel ghoul e' radioattivo?}
-{259}{}{Strofina una puzzola sul tuo ghoul, così magari puzza meno, OK?}
+{259}{}{Strofina una puzzola sul tuo ghoul, cosi' magari puzza meno, OK?}
 {265}{}{Faremo qualcosa nel breve periodo?}
-{266}{}{Portiamo un po’ più di donne in questa baracca da quattro soldi.}
+{266}{}{Portiamo un po’ piu' di donne in questa baracca da quattro soldi.}
 {267}{}{Possiamo andare da qualche parte dove ci siano piu' donne?}
 {268}{}{Dovresti essere contento che ci sia io a farti notare tutti i tuoi stupidi errori.}
 {375}{}{Ehi, sto morendo! Dammi subito uno stimpak!}
@@ -146,8 +146,8 @@
 {594}{}{Allora... tu e Miria. Siete entrambi liberi di vedervi con altra gente, oppure...?}
 {595}{}{Che ne dici di uno scambio di mogli? Potrai avere la mia non appena ne avro' una.}
 {596}{}{Allora... chi e' questa tipa orientale tutta pepe?}
-{597}{}{Kitsune è piuttosto carina. Posso… beh, sai… che ne dici?}
-{598}{}{Questa ragazza orientale è proprio uno schianto.}
+{597}{}{Kitsune e' piuttosto carina. Posso… beh, sai… che ne dici?}
+{598}{}{Questa ragazza orientale e' proprio uno schianto.}
 {599}{}{Allora… tu e Kitsune. State insieme o qualcosa del genere?}
 {600}{}{Siamo pronti a partire?}
 {605}{}{Perche' diavolo siamo QUI?}
@@ -212,7 +212,7 @@
 {726}{myn113b}{Il problema e' che, con il nuovo clima, non si possono coltivare la maggior parte dei vegetali necessari per le droghe migliori.}
 {727}{}{Ti piace ascoltarti mentre parli, vero?}
 {728}{}{Ti seguo.}
-{729}{}{Intendi ‘verdure’ tipo piante di coca, papaveri da oppio, quella roba lì.}
+{729}{}{Intendi ‘verdure’ tipo piante di coca, papaveri da oppio, quella roba li'.}
 {740}{myn114a}{Non potevamo coltivare piante di coca, papaveri da oppio... E cavoli se ci abbiamo provato! Per questo motivo decidemmo di puntare sui funghi. }
 {741}{myn114b}{Esatto, Sherlock. Ci provammo -- e alla fine decidemmo di puntare tutto sui funghi. }
 {742}{myn114c}{Puoi coltivarli se usi un sacco di merda di brahmin come concime.}
@@ -529,14 +529,14 @@
 {1623}{}{Lasciamo perdere. Avrei delle altre domande...}
 {1624}{}{Come non detto. Me ne vado.}
 {1625}{}{Baciami il culo, merdoso arrogante. Me ne vado.}
-{1635}{myn237}{Dilettantesco? Di?di?dilettantesco?! Il Jet è puro genio, non te lo scordare! E non l’ho trovato per caso: l’HO CREATO io.}
+{1635}{myn237}{Dilettantesco? Di?di?dilettantesco?! Il Jet e' puro genio, non te lo scordare! E non l’ho trovato per caso: l’HO CREATO io.}
 {1636}{}{Non ti credo. Fammi vedere il procedimento.}
 {1637}{}{Come vuoi, ragazzo. Me ne vado.}
 {1645}{myn238}{Tre parole: merda di brahmin.}
 {1646}{}{E' questo quello che usi per far crescere l'allucinogeno?}
 {1647}{}{Utilizzi della merda di brahmin come fertilizzante per gli ingredienti del Jet, giusto? Cosa mi puoi dire di piu'?}
 {1648}{}{Non me lo vuoi dire? Benissimo. Allora vorrei farti qualche altra domanda...}
-{1649}{}{D'accordo. Posso giÃ  intuire dove questo discorso andra' a finire. Lasciamo perdere.}
+{1649}{}{D'accordo. Posso gia' intuire dove questo discorso andra' a finire. Lasciamo perdere.}
 {1655}{myn239a}{Molto bene. E questo e' tutto quello che imparerai da me, amico. Se vuoi saperne di piu', devi scoprirlo da solo.}
 {1656}{myn239b}{Molto bene. E questo e' tutto quello che imparerai da me, miss. Se vuoi saperne di piu', devi scoprirlo da sola.}
 {1657}{myn239c}{Molto bene, bellezza. Ma questo e' tutto quello che imparerai da me, percio' non sforzare la tua testolina. Basta parlare: perche' tu ed io non, ehm, eheh...}

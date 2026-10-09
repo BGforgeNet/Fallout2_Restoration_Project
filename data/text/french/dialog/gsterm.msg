@@ -80,7 +80,7 @@
 {301}{}{Code d'accès de sécurité incorrect. Accès refusé. Veuillez entrer le code requis. Deux tentatives supplémentaires autorisées.}
 {302}{}{Code d'accès de sécurité incorrect. Accès refusé. Une tentative supplémentaire autorisée.}
 {303}{}{Code d'accès de sécurité incorrect. Accès refusé. Procédures de sécurité internes activées.}
-{304}{}{Oh là là !}
+{304}{}{Oups !}
 {305}{}{J'ai intérêt à faire attention.}
 {306}{}{Je n'ai pas intérêt à faire une erreur cette fois-ci.}
 {307}{}{C'est pas bon signe.}

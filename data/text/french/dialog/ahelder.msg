@@ -25,7 +25,7 @@
 {128}{}{J'ai réussi l'épreuve. Je peux donc commencer.}
 {129}{}{Je dois y réfléchir.}
 {130}{}{Je n'ai pas envie de me faire tuer !}
-{131}{aeld7}{Ecoute bien. Trouve l'Abri 13 et rapporte le J.E.K Vic, le marchand de Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes recherches avec lui. Le disque te rappellera ta mission. Que les dieux de l'Abri soient avec toi !}
+{131}{aeld7}{Ecoute bien. Trouve le saint Abri 13 et rapporte le JEK. Vic, le marchand de Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes recherches avec lui. Le disque te rappellera ta mission. Que les dieux de l'Abri soient avec toi.}
 {133}{}{Avant de partir, j'ai quelques questions.}
 {134}{}{La tribu peut compter sur moi. Au revoir.}
 {135}{aeld8}{Très bien. Viens me voir lorsque ta décision sera prise mais n'attends pas trop longtemps.}
@@ -42,11 +42,11 @@
 {146}{aeld11}{Klamath se trouve à l'Est.}
 {147}{}{Je pourrais en apprendre bien plus.}
 {148}{}{Je suis prêt. Au revoir.}
-{149}{aeld12}{Le Saint-Treize ? Je ne peux t'aider. Seul l'Habitant de l'Abri savait. Ses contes parlaient d'un périlleux voyage.}
+{149}{aeld12}{Le Saint-Treize ? Je ne peux t'aider. Seul l'Habitant de l'Abri savait. Ses contes parlaient d'un périlleux voyage. }
 {150}{}{Je vois. Je dois en savoir plus.}
 {151}{}{Au revoir, doyenne.}
 {152}{aeld13}{Si tu hésites, nous mourrons tous ! Toi y compris. Tu as réussi à traverser le Temple des Epreuves. Nous croyons en toi. Nous avons besoin de toi.}
-{153}{}{Pas si vite, vieille femme. Je dois y réfléchir.}
+{153}{}{Pas si vite, vieille femme. Je dois y réfléchir !}
 {154}{}{Comme tu veux, doyenne.}
 {155}{aeld14a}{Tu nous as trahis. Tu dois périr.}
 {156}{aeld14b}{Tu n'es que traîtrise !}
@@ -66,7 +66,7 @@
 {170}{}{Ok, moi partir maintenant.}
 {171}{}{Oui, doyenne.}
 {172}{}{Tu peux compter sur moi, doyenne.}
-{173}{}{Ecoute. Si tu crois pouvoir faire mieux...}
+{173}{}{Ecoute. Si tu crois pouvoir faire mieux... }
 {174}{aeld19}{Etre Elu, rien ne va plus ici. Nous avons besoin du J.E.K si nous voulons que notre village survive. Notre peuple s'affaiblit. Il a faim. Nos réserves de nourriture diminuent. Je t'en prie, trouve le Saint-Treize et reviens. Pars maintenant.}
 {175}{}{Moi aller.}
 {176}{}{Très bien. J'y vais.}
@@ -88,21 +88,21 @@
 {208}{eeld3}{Oh, doux Jésus... Ecoute... Descends. Toi trouver machine qui fabrique énergie. Tuer machine. Tuer méchants. Tuer tout le monde ! Si toi tuer, nous rentrer à la maison. Ah oui ! Si toi pas avoir encore J.E.K, toi chercher ici. J.E.K sauver village ! La liberté sert à rien sans une maison où revenir. Compris ? Oh, doux Jésus...}
 {209}{}{Euh !}
 {210}{eeld4}{Attention, ne touche pas au mur rayonnant. A mon avis la machine qui l'alimente est en-dessous de nous. Détruis-la pour qu'on s'échappe. Comment as-tu fait pour venir ?}
-{211}{}{J'ai un navire.}
-{212}{eeld5}{Des hommes sont venus au village et nous ont emmenés dans leurs machines volantes. Il y avait aussi des gens du Saint-Treize ! Je croyais qu'on était sauvés. J'ai pensé que nous allions au paradis.}
+{211}{}{J'ai un navire. }
+{212}{eeld5}{Des hommes sont venus au village et nous ont emmenés dans leurs machines volantes. Il y avait aussi des gens du Saint-Treize ! Je croyais qu'on était sauvés. J'ai pensé que nous allions au paradis. (soupir)}
 {213}{}{Et ensuite ?}
-{214}{eeld5a}{Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous avec de l'effeuvé. Ils nous tueront, jusqu'au dernier ! Tu sais ce que tu dois faire, Etre Elu.}
+{214}{eeld5a}{Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous avec de l'effeuvé. Ils nous tueront, jusqu'au dernier ! Tu sais ce que tu dois faire, Être Elu.}
 {215}{}{Effeuvé ?}
 {216}{}{Oui.}
 {217}{}{Non.}
-{218}{eeld6}{Si tu détruis la machine, nous trouverons le navire. Dépêche-toi. Nous ne sommes plus bien nombreux.}
+{218}{eeld6}{Si tu détruis la machine, nous trouverons le navire. Dépêche-toi. Nous ne sommes plus bien nombreux. }
 {219}{}{Que s'est-il passé ?}
 {220}{}{Je comprends.}
 {221}{eeld7}{Tu dois détruire la machine et tuer tous les démons qui sont ici. On se retrouve dehors ! Etre Elu, si tu n'as pas encore trouvé le J.E.K, cherche ici. Notre liberté ne vaut rien si le village ne peut être sauvé. Vas-y maintenant !}
 {222}{}{Au revoir.}
 {223}{eeld8}{N'oublie pas que je suis encore la Doyenne ! Fais-moi des excuses ou je ne t'aiderai pas.}
 {224}{}{Excuse-moi, tu n'es pas une vieille peau. Que se passe-t-il ?}
-{225}{}{Pff, comme si tu pouvais m'aider... Tu peux crever !}
+{225}{}{Pff, tu pourrais peut-être m'aider, non ? Va te faire foutre et crève.}
 {226}{eeld9}{Va-t'en. Tu ne vaux guère mieux que ces démons. Tu ne mérites pas d'être l'Etre Elu.}
 {227}{eeld10}{Mais que fais-tu ici ? Chaque minute qui s'écoule peut être fatale à notre peuple. Et n'oublie pas le J.E.K ! Il nous le faut.}
 {228}{}{Nuh ??}

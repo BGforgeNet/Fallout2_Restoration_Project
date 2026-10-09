@@ -4,7 +4,7 @@
 {200}{}{Ciao utente! Sono il farmacista del futuro, Mr. Chemmie! Come posso aiutarti?!}
 {201}{}{Che cosa fai?}
 {210}{}{Faccio droghe! Tutti i tipi di droghe! Quando la vita ti butta giu', Mr. Chemmie e' qui per tirarti su! Come funziona Mr. Chemmie?! E' semplice! Ti servono solo un po' di conoscenze scientifiche e gli ingredienti giusti, poi lascia fare tutto a me! Dai! Provami! E bambini, ricordate di chiedere il permesso a mamma o papa' prima di giocare con Mr. Chemmie!}
-{211}{}{D'accordo, ci proverò.}
+{211}{}{D'accordo, ci provero'.}
 {212}{}{Magari piu' tardi.}
 {220}{}{Bene! Produciamo farmaci! Cosa vuoi creare?!}
 {221}{}{Stimpak}

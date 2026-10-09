@@ -1,6 +1,6 @@
 {100}{}{Vedi un personaggio che bara.}
 {101}{}{Questo tizio non dovrebbe essere qui.}
-{102}{}{Ehi, è un personaggio che bara.}
+{102}{}{Ehi, e' un personaggio che bara.}
 {103}{}{Ehi, questo fa male.}
 {104}{}{Ciao, cosa vorresti che succedesse?}
 {105}{}{Impostazione dei flag di Westin.}

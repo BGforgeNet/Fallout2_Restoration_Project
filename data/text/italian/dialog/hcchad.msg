@@ -15,7 +15,7 @@
 {131}{}{Aivedecci!}
 {132}{}{Io sono Chad. }
 {133}{}{Guarda, sono molto occupato. Per favore, va' a disturbare qualcun altro.}
-{134}{}{Sono il capo carovaniere della città. Gestisco gli affari all’altro capo delle rotte commerciali. Ultimamente mi sto occupando soprattutto di Gecko.}
+{134}{}{Sono il capo carovaniere della citta'. Gestisco gli affari all’altro capo delle rotte commerciali. Ultimamente mi sto occupando soprattutto di Gecko.}
 {135}{}{D'accordo!}
 {136}{}{Vorrei lavorare con te.}
 {137}{}{Sembra eccitante.}
@@ -67,7 +67,7 @@
 {214}{}{Ascolta, non me ne frega un cazzo delle tue cavolate deliranti. Sei tu quello che ha curiosato in giro, facendo domande sul denaro mancante della carovana.}
 {215}{}{Esatto. E sono qui per raccogliere l'ultima prova di cui ho bisogno per metterti dentro.}
 {216}{}{Oh si'? Lasciami aiutare. I documenti che cerchi sono in una valigetta chiusa a chiave nel cassetto inferiore
- di quel comò la'. Ma non la toccherai mai, perche' ti ammazzero', fottuto benefattore. Se non fosse
+ di quel como' la'. Ma non la toccherai mai, perche' ti ammazzero', fottuto benefattore. Se non fosse
  stato per te, avrei potuto continuare a sgraffignare dalle carovane per un altro paio di mesi. Ma no, dovevi andare a
  ficcarti negli affari che non ti riguardano un cazzo. Ora devo fuggire dalla citta', ma almeno avro' il piacere
  di lasciare il tuo cadavere dietro di me.}

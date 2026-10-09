@@ -112,7 +112,7 @@
 {410}{}{Come non detto. Scusa il disturbo.}
 {415}{}{}
 {416}{}{}
-{417}{}{Tra un po' saranno cinque anni... Sono certo che questa macchinetta è sul punto di cedere. E quando lo fara'... JACKPOT! Eh eh eh!}
+{417}{}{Tra un po' saranno cinque anni... Sono certo che questa macchinetta e' sul punto di cedere. E quando lo fara'... JACKPOT! Eh eh eh!}
 {418}{}{Uh, ti auguro buona fortuna, allora.}
 {419}{}{Faaaaantastico. Ci sentiamo dopo, allora.}
 {425}{}{}

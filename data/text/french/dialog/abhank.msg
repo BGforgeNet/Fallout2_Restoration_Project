@@ -26,9 +26,9 @@
 {251}{}{Je jette juste un oeil. Sois prudent.}
 {252}{}{Pas de problème. $20 la bouteille.}
 {253}{}{[La garder]}
-{300}{}{Bordel où ai-je mis mon briquet.}
+{300}{}{Bordel où j'ai mis mon briquet?}
 {301}{}{J'ai besoin d'un briquet.}
-{302}{}{QUE QUELQU'UN M'APPORTE UN FOUTU BRIQUET.}
+{302}{}{QUELQU'UN M'APPORTE UN FOUTU BRIQUET!?}
 {303}{}{Euh, salut.}
 {304}{}{Désolé je ne peux pas parler là.}
 {400}{}{Oh, regarde toutes ces belles étoiles !}

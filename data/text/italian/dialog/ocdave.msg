@@ -20,7 +20,7 @@
 {119}{}{Passato brutto, no parlare. Cose bene ora?}
 {120}{}{Wow! Sono davvero felice di non essere te!}
 {121}{}{Ok, ho capito la situazione. Cosa ti affligge adesso?}
-{122}{}{Mi dispiace davvero che tu abbia sofferto così tanto nella vita. Spero che ora le cose vadano meglio.}
+{122}{}{Mi dispiace davvero che tu abbia sofferto cosi' tanto nella vita. Spero che ora le cose vadano meglio.}
 {123}{}{Aspetta un secondo. Dimenticavo che adesso ho qualcos'altro da fare...}
 {124}{}{Certo, beh, le brutte cose succedono -- e quando succedono, succedono a me.}
 {125}{}{Cosa succedere adesso?}
@@ -48,7 +48,7 @@
 {147}{}{Beh, io ero la', in mezzo al deserto, in attesa che il mondo ingoiasse la mia misera esistenza, quand'ecco che comparve un branco di Deathclaw. Beh, pensavo tra me e me, ci siamo. Adesso posso morire. Posso andarmene sottoforma di un mucchio di letame di Deathclaw in mezzo al deserto. Ma no... il fato aveva ancora una crudele carta da giocare contro di me.}
 {148}{}{Vedi, i Deathclaw non mi uccisero. Mi diedero dell'acqua, invece, mi portarono qui, mi diedero questa stanza, mi diedero del cibo, mi ripulirono e adesso non mi lasciano andar via. So bene che mi stanno facendo ingrassare per qualche ignoto, orribile scopo. Continuo a dire loro che probabilmente avrei un gusto migliore se fossi piu' magro, ma non serve a nulla. Loro semplicemente sorridono -- se di sorriso si puo' parlare -- e mi danno delle pacche amichevoli sulla testa e dicono "Non preoccuparti, umano, le cose miglioreranno". Ah! Entrambi sappiamo cosa significa.}
 {149}{}{Comunque, per peggiorare le cose, hanno iniziato a darmi una sorta di medicinale. 
- Mi faceva venire dei gas, così ho smesso di prenderlo — e ho fatto bene. Credo fosse una specie di pillola per il “controllo mentale”, 
- perché ho iniziato a sentire che le cose non erano poi così brutte come pensavo! Comunque, è tutto. 
- Sto solo aspettando che suoni la campana della cena, così potranno banchettare con il mio corpo
+ Mi faceva venire dei gas, cosi' ho smesso di prenderlo — e ho fatto bene. Credo fosse una specie di pillola per il “controllo mentale”, 
+ perche' ho iniziato a sentire che le cose non erano poi cosi' brutte come pensavo! Comunque, e' tutto. 
+ Sto solo aspettando che suoni la campana della cena, cosi' potranno banchettare con il mio corpo
  gonfio.}

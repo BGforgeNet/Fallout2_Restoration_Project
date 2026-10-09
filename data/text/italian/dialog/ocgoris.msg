@@ -63,8 +63,8 @@
 {162}{}{Grazie del consiglio; chiedero' un po' in giro. Posso farti qualche altra domanda, pero'?}
 {163}{}{Hmm... Okay, che ne dici di rispondere a qualche altra domanda?}
 {164}{}{No, solo quello che ti ho gia' detto. Aspetta, c'e' un'altra cosa. L'Enclave ha mostrato dell'interesse per alcune rovine a ovest di qui. Non saprei dirti il motivo. E questo e' tutto.}
-{165}{}{Ogni informazione è utile, e ti ringrazio.}
-{166}{}{Questo è un argomento molto importante per me, e mi hai deluso!}
+{165}{}{Ogni informazione e' utile, e ti ringrazio.}
+{166}{}{Questo e' un argomento molto importante per me, e mi hai deluso!}
 {167}{}{Capisco.}
 {168}{}{Credo che il suo nome sia virus FEV. L'Enclave sta, o stava, eseguendo ampie ricerche su di esso. Mi dispiace, ma non so altro.}
 {169}{}{D'accordo; parliamo di altre cose.}

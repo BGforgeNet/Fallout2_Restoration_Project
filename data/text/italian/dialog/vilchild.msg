@@ -7,8 +7,8 @@
 {106}{}{Ti fulmina con lo sguardo.}
 {107}{}{Ti lancia un’occhiataccia.}
 {200}{}{Grazie per averci aiutato, signore!}
-{201}{}{Urrà, ora siamo al sicuro!}
+{201}{}{Urra', ora siamo al sicuro!}
 {202}{}{Grazie per averci aiutato, signora!}
-{203}{}{Urrà, ora siamo al sicuro!}
+{203}{}{Urra', ora siamo al sicuro!}
 {204}{}{Sei cattivo!}
 {205}{}{Sei qui per aiutarci?}

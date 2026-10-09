@@ -11,4 +11,4 @@
 {206}{}{Copier des livres est un travail assez dur.}
 {207}{}{Bonjour.}
 {208}{}{Il y a beaucoup à extraire de ces livres.}
-{500}{}{Arrête ça! }
+{500}{}{Arrête ça!}

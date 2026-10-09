@@ -60,7 +60,7 @@
 {159}{}{Je me disais bien qu'il devait y avoir autre chose pour les motiver.}
 {160}{}{Compris.}
 {161}{}{Ca explique beaucoup de choses. Merci pour ton aide. J'ai encore quelques questions à te poser.}
-{162}{}{Ce serait Zeke. Il dirige tout ici. Tu peux le trouver dans le bâtiment là-bas. (désignant le Nord-Est)}
+{162}{}{Ce serait Zeke. Il dirige tout ici. Tu peux le trouver dans le bâtiment là-bas. *désigne le Nord-Est*}
 {163}{}{Merci. Demander plus.}
 {164}{}{Merci. Je dois encore te poser quelques questions.}
 {165}{}{Je regrette, je n'en ai aucune idée. Si j'étais toi, je me renseignerais en RNC. Ils s'intéressent beaucoup aux abris ces temps-ci.}
@@ -71,7 +71,7 @@
 {170}{}{J'ai besoin d'en savoir plus.}
 {171}{}{Il n'y a pas grand-chose à dire, en fait. Darion garde tout pour lui et ne quitte jamais l'abri. S'il a quelque chose à dire, il nous le communique par le biais de Zeke. Je ne l'ai rencontré qu'une fois et il a l'air d'un type bien.}
 {172}{}{Ok.}
-{173}{}{Un type bien, ça cache toujours quelque chose. Je me demande ce dont il est capable...}
+{173}{}{Les gentils finissent toujours derniers. Je me demande ce qu'il mijote ?}
 {174}{}{Je vois.}
 {175}{}{C'est bien, tu m'aides beaucoup.}
 {176}{}{Je n'ai rien à t'offrir hormis mon éternelle gratitude.}
@@ -81,10 +81,10 @@
 {180}{}{Merci beaucoup. Je ne pourrai jamais te dédommager pour ça. Je t'attendrai ici jusqu'à ce que tu apportes... Hé, il y avait des gens qui nous écoutaient dehors ! J'ai vu des ombres sur la toile de la tente. (Désignant le Nord-Est) Ils viennent de s'enfuir par là ! Ils ont dû tout entendre !}
 {181}{}{Moi arrêter, pas partir !}
 {182}{}{Toi pas souci, moi trouver fille.}
-{183}{}{Oh !}
+{183}{}{Ouups !}
 {184}{}{Je vais essayer de les arrêter.}
 {185}{}{Ils ne vont pas m'empêcher de retrouver ta fille.}
-{186}{}{C'est pas grave, ça arrive ce genre d'emmerdements !}
+{186}{}{Bah, tant pis. Ça arrive.}
 {187}{}{S'il te plaît, va-t'en.}
 {188}{}{T'as réfléchi à tout ça ?}
 {189}{}{Moi poser question.}

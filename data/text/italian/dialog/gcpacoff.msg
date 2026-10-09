@@ -40,7 +40,7 @@
 {139}{}{Non insistero' oltre sulla genuflessione. Un leggero inchino e un bacio sul mio anello saranno sufficienti.}
 {140}{}{Uh, quello che volevo dire e' che sono stato *scelto* per riparare questo comunicatore. Pare non ci sia piu' nulla che funzioni bene.}
 {141}{}{Beh, credo di averne avuto abbastanza della tua insolenza. Addio, plebeo.}
-{142}{powr7_a}{Unità Tre? Pensavo fossi ancora alla base di Navarro.}
+{142}{powr7_a}{Unita' Tre? Pensavo fossi ancora alla base di Navarro.}
 {143}{}{La base di Navarro? Oh, certo... la base di Navarro. E' qui che siamo. Certo. Lo sapevo.}
 {144}{}{No, abbiamo dovuto abbandonarla.}
 {145}{}{Sto perdendo il vostro segnale. Chiudo.}

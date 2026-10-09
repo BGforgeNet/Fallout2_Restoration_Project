@@ -73,7 +73,7 @@
 {391}{}{Eccome. Ha carbonizzato tutto.}
 {392}{}{Si', l'ho fatto, ma quel pezzo di merda si e' rotto. Ho dovuto buttarlo.}
 {393}{}{No, non ancora.}
-{394}{}{Me ne occuperò.}
+{394}{}{Me ne occupero'.}
 {400}{}{Eccellente! Sono felice di sapere che funziona come previsto. Grazie per avermi aiutato. Perche' non tieni
  pure il Solar Scorcher? Preferisco che venga usato piuttosto che resti qui a prendere polvere.}
 {401}{}{Grazie!}

@@ -102,7 +102,7 @@
 {554}{}{Tu rencontres des prospecteurs attaqués par des escrocs.}
 {555}{}{Tu rencontres des chasseurs traquant des geckos.}
 {556}{}{Tu rencontres des contrebandiers combattant des loups.}
-{557}{}{Tu rencontres des propriétaires combattant des escrocs.}
+{557}{}{Tu rencontres des propriétaires qui affrontent des squatteurs.}
 {558}{}{Tu rencontres des propriétaires combattant des loups.}
 {559}{}{Tu rencontres des contrebandiers.}
 {560}{}{Tu rencontres des chasseurs.}

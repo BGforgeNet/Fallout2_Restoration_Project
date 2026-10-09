@@ -2,13 +2,13 @@
 {101}{}{Vedi Serin.}
 {102}{}{Sembra gravemente ferito e ha una gamba rotta.}
 {103}{}{Vedi Serin. Sembra gravemente ferito e ha una gamba rotta.}
-{104}{}{Vedi Serin. La sua gamba è fasciata e zoppica.}
-{105}{}{Vedi Serin. Sembra stare meglio ed è in un sonno profondo.}
+{104}{}{Vedi Serin. La sua gamba e' fasciata e zoppica.}
+{105}{}{Vedi Serin. Sembra stare meglio ed e' in un sonno profondo.}
 {106}{}{Vedi Serin. Sembra essersi ripreso bene.}
 {200}{}{*ugh* Muori demonio!! Non riuscirai a-}
-{201}{}{Calmati. Ora sei al sicuro. Il gecko è morto.}
+{201}{}{Calmati. Ora sei al sicuro. Il gecko e' morto.}
 {202}{}{Cosa!? Oh, grazie agli spiriti, amico. Temevo di essere spacciato.}
-{203}{}{Cosa è successo qui?}
+{203}{}{Cosa e' successo qui?}
 {204}{}{Jerem e io uscire per caccia settimanale. Prendere passaggio grotta verso campo dove molti geco girare. Caccia andare male. Dover scappare. Troppi geco con spiriti di furia. Noi entrare grotta. Cominciare urlare per aiuto. [Si ferma un momento e fa una smorfia di dolore mentre cerca di massaggiarsi la gamba.]}
 {205}{}{Per favore, continua.}
 {206}{}{Passaggio gia' essere sull'orlo della rovina. Acqua filtrare da ruscello in alto. Un passo mortale, ma essere grande scorciatoia verso campi. Non piu'. Vedere, noi urlare come sciocchi e soffitto crollare su di noi.}
@@ -33,6 +33,6 @@
 {500}{}{ZzzZZzzz…}
 {501}{}{…zzZZZzz… zzz…}
 {600}{}{Curi la gamba di Serin.}
-{700}{}{Ha bisogno di più aiuto di quanto io possa offrirgli. È meglio che vada.}
+{700}{}{Ha bisogno di piu' aiuto di quanto io possa offrirgli. E' meglio che vada.}
 {1000}{}{Bello rivederti, eroe.}
-{1001}{}{Non dimenticherò mai ciò che hai fatto per me, eroe.}
+{1001}{}{Non dimentichero' mai cio' che hai fatto per me, eroe.}

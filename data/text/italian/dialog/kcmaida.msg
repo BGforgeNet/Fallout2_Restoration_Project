@@ -98,8 +98,8 @@
 {423}{}{No, non ho visto Torr da nessuna parte. Se dovessi vederlo, ve lo faro' sapere. Lascia che ti chieda qualcos'altro.}
 {424}{}{Be', Torr si lamenta degli "Uomini Insetto" che spaventano i brahmin. Non so se credo davvero a tutte le sue storie, ma qualcuno o qualcosa sta rubando bestiame qui in citta'.}
 {425}{}{Ammetto di non aver prestato molta attenzione ai pettegolezzi in giro per la citta'. Vai al Golden Gecko, sono sicuro che qualcuno li' sapra' qualcosa.}
-{426}{}{Furto di bestiame, eh? Vedrò di occuparmene. Ma lasciami chiederti un’altra cosa.}
-{427}{}{Interessante. C’è qualcos’altro che dovrei sapere?}
+{426}{}{Furto di bestiame, eh? Vedro' di occuparmene. Ma lasciami chiederti un’altra cosa.}
+{427}{}{Interessante. C’e' qualcos’altro che dovrei sapere?}
 {428}{}{Grazie del consiglio. Lascia che ti chieda qualcos’altro.}
 {430}{}{Grazie per aver ritrovato mio fratello Torr. Mamma e io eravamo cosi' preoccupate... Cosa posso fare per te?}
 {431}{}{Ancora grazie per aver ritrovato Torr. Cosa posso fare per te?}
@@ -141,7 +141,7 @@
 {600}{}{[AVANTI]}
 {700}{}{Ho scoperto cosa sta succedendo ai tuoi brahmin.}
 {701}{}{Davvero? Ottimo, ma e' con la mamma che devi parlare di questo.}
-{702}{}{Va bene, andrò a parlarle allora.}
+{702}{}{Va bene, andro' a parlarle allora.}
 {710}{}{Furto di bestiame? Qualche pista?}
 {711}{}{Non proprio. Non sono nemmeno sicuro che ci sia un collegamento tra questo e le mutilazioni dei brahmin.}
-{712}{}{Interessante. C’è qualche altra novità in zona?}
+{712}{}{Interessante. C’e' qualche altra novita' in zona?}

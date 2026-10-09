@@ -132,7 +132,7 @@ Se non fosse stato per un complotto architettato dalla lobby dei frutticoltori, 
 {431}{}{Ma ti ascolti quando parli? Davvero, volevo solo chiederti qualcos'altro.}
 {432}{}{Arrrgh! Devo andarmene, finche' posso. Addio.}
 {440}{}{Beh, l'Harp prende il nome da uno dei miei locali favoriti che frequentavo prima della guerra. Immagino sia soltanto un ricordo dei tempi passati. E' anche una specie di scherzo sull'unico modo che noi ghoul abbiamo per essere trattati meglio.}
-{441}{}{Prima della guerra? Ma è stato tanto tempo fa.}
+{441}{}{Prima della guerra? Ma e' stato tanto tempo fa.}
 {442}{}{Trattati meglio? Che cosa vuoi dire?}
 {450}{}{Potra' anche essere cosi', ma non tutti hanno una citta' piena di pazzi bigotti.}
 {451}{}{Che cosa vuoi dire?}
@@ -147,7 +147,7 @@ Se non fosse stato per un complotto architettato dalla lobby dei frutticoltori, 
 {481}{}{Non sapevo che i ghoul fossero dei musicisti.}
 {482}{}{Oh, capisco. Eh, eh. Vorrei chiederti qualcos'altro.}
 {490}{}{Con campanellini d’argento e conchigliette e… Ragazzo, sei proprio stupido, vero? Radiazioni pesanti. 
-È così che succede. Come pensavi? 
+E' cosi' che succede. Come pensavi? 
 Sai, quando tante bombe fanno boom, lampo di luce e calore, la carne ti brucia via… ma non muori del tutto, quel tipo di radiazioni pesanti?}
 {491}{}{Uh beh, io volevo dire...}
 {500}{}{So bene quel che volevi dire. Vaffanculo con tutto il cuore per avermi riportato alla memoria tutti questi dolorosissimi ricordi. Coglione. Noi siamo una citta' di fottuti avanzi... Avanzi leggermente bruciacchiati.}
@@ -204,6 +204,6 @@ Sai, quando tante bombe fanno boom, lampo di luce e calore, la carne ti brucia v
 {730}{}{Hai sviluppato una dipendenza da Tragic. Ti attendono parecchie notti insonni.}
 {731}{}{Perfetto. Altro?}
 {732}{}{Si', un altro giro per tutti.}
-{740}{}{Eh, si' ho sentito che quegli stronzi vengono attaccati dai talpe-ratto che proteggono quelle pelli lisce. Se lo meritano per essersi cacciati negli affari altrui. Non so molto di piu' pero'. Lumpy laggiù nel deposito di rottami potrebbe saperne di piu'. Quella pelle liscia sente sempre le cose in giro.}
+{740}{}{Eh, si' ho sentito che quegli stronzi vengono attaccati dai talpe-ratto che proteggono quelle pelli lisce. Se lo meritano per essersi cacciati negli affari altrui. Non so molto di piu' pero'. Lumpy laggiu' nel deposito di rottami potrebbe saperne di piu'. Quella pelle liscia sente sempre le cose in giro.}
 {741}{}{Grazie per l'informazione. Addio.}
 {742}{}{Bene a sapersi. Lascia che ti chieda qualcos’altro.}

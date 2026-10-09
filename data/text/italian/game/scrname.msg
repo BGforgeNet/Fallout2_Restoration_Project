@@ -208,7 +208,7 @@
 {308}{}{Rocce}
 {309}{}{Cassaforte a Muro}
 {310}{}{Sacchetto di Denaro}
-{311}{}{Acqua}
+{311}{}{Bagno}
 {312}{}{Scatola}
 {313}{}{Jordan}
 {314}{}{Zia Morlis}
@@ -217,7 +217,7 @@
 {317}{}{Pozzo}
 {318}{}{Gruthar}
 {319}{}{Script Mappa}
-{320}{}{Doofus}
+{320}{}{Skeeter}
 {321}{}{Nagor}
 {322}{}{Smoke}
 {323}{}{Ncr Area 1}
@@ -418,7 +418,7 @@
 {518}{}{Bill}
 {519}{}{una Guardia del Corpo di Bishop}
 {520}{}{John Bishop}
-{521}{}{Macchina da Casinò}
+{521}{}{Macchina da Casino'}
 {522}{}{un "Chop Shop Boy"}
 {523}{}{Chris Wright}
 {524}{}{Cody}
@@ -729,7 +729,7 @@
 {829}{}{il Figuro Incappucciato}
 {830}{}{un Compratore di Bestiame}
 {831}{}{Script Mappa}
-{832}{}{Straniero Misterioso}
+{832}{}{la Straniera Mistriosa}
 {833}{}{Brahmin Pazzo}
 {834}{}{un Membro della Yakuza}
 {835}{}{una Selvaggia}
@@ -1193,7 +1193,7 @@
 {1293}{}{un Vecchio Ghoul}
 {1294}{}{un Seguace}
 {1295}{}{Elmo}
-{1296}{}{Acqua}
+{1296}{}{Bagno}
 {1297}{}{Croce}
 {1298}{}{Aratro}
 {1299}{}{Aratro}
@@ -1349,12 +1349,12 @@
 {1449}{}{Selvaggio}
 {1450}{}{Kurisu}
 {1451}{}{Pozzo}
-{1452}{}{Mappa della tribù}
+{1452}{}{Mappa della tribu'}
 {1453}{}{Selvaggio}
 {1454}{}{Serin}
-{1455}{}{Mappa della tribù 2}
-{1456}{}{Mappa della tribù 2 - speciale 1}
-{1457}{}{Mappa della tribù 2 - speciale 2}
+{1455}{}{Mappa della tribu' 2}
+{1456}{}{Mappa della tribu' 2 - speciale 1}
+{1457}{}{Mappa della tribu' 2 - speciale 2}
 {1458}{}{Gecko}
 {1459}{}{Guardia della caverna}
 {1460}{}{Cadavere}

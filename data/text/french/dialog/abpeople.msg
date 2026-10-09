@@ -1,6 +1,6 @@
 {100}{}{Tu vois un paysan.}
 {101}{}{Tu vois un paysan en bonne santé.}
-{102}{}{Tu vois une personne}
+{102}{}{Tu vois une personne.}
 {103}{}{Bus trop d'alcool récemment ?}
 {104}{}{Reste à l'écart de l'alcool pendant un moment.}
 {105}{}{Je vois que tu bois la mixture *spéciale* de Hank.}

@@ -4,7 +4,7 @@
 {103}{}{Bonne journée soldat.}
 {104}{}{Ne touche à rien, s'il te plaît.}
 {105}{}{Les bidasses ne sont pas censés venir ici.}
-{106}{}{Tu ne portes pas ton uniforme.}
+{106}{}{Tu ne portes pas ton uniforme. }
 {107}{}{Tu ferais mieux d'aller mettre ton uniforme. L'armurerie est sous le hall à gauche.}
 {108}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller à la réserve.}
 {109}{}{Mais bon sang, qui es-tu ? -- Alerte ! Des intrus !}

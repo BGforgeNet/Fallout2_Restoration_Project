@@ -23,7 +23,7 @@
 {311}{}{Je vais voir ce que je peux faire alors.}
 {312}{}{Je pensais pouvoir t'aider, mais si tu continues à jouer au trou du cul, tu vas devoir te démerder tout seul.}
 {313}{}{J'ai dit à Abbot que je pourrais t'aider, mais si tu continues à jouer au trou du cul, tu vas devoir te démerder tout seul.}
-{320}{}{[Il te regarde un moment, puis soupire lentement.] Pardon l'ami, ce machin va me rendre fou, j'y ai passé la journée. Je ne voulais pas te vexer.}
+{320}{}{[Il te regarde un moment, puis soupire lentement.] Pardon l'ami, ce machin va me rendre fou, j'y ai passé la journée. Je ne voulais pas te vexer. }
 {321}{}{Hmm bien, voyons voir, quel est le problème déjà ?}
 {322}{}{Tant pis. Au revoir.}
 {330}{}{Reviens me voir demain matin.}

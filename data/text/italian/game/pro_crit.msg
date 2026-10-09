@@ -68,8 +68,8 @@
 {5700}{}{una Mercante Scarsa}
 {5800}{}{una Mercante nella Media}
 {5900}{}{una Mercante nella Media}
-{6000}{}{Maestro Mercante}
-{6100}{}{Maestro Mercante}
+{6000}{}{una Maestra Mercante}
+{6100}{}{una Maestra Mercante}
 {6200}{}{Vic}
 {6300}{}{una Contadina Debole}
 {6400}{}{una Contadina Debole}
@@ -155,12 +155,12 @@
 {13900}{}{una Guardia da Mischia di NCR}
 {14000}{}{una Guardia degli Schiavisti}
 {14100}{}{un Caposquadra degli Schiavisti}
-{14200}{}{Gran Maestro Mercante}
-{14300}{}{Gran Maestro Mercante}
+{14200}{}{una Gran Maestra Mercante}
+{14300}{}{una Gran Maestra Mercante}
 {14400}{}{Tandi}
 {14500}{}{Mercenario}
 {14600}{}{Ratch}
-{14700}{}{Doofus}
+{14700}{}{Skeeter}
 {14800}{}{Mikey}
 {14900}{}{il Barista di NCR}
 {15000}{}{un Negoziante}
@@ -284,8 +284,8 @@
 {26700}{}{un Uomo del Vault 13}
 {26800}{}{una Donna del Vault 13}
 {26900}{}{il Guardiano del Ponte}
-{27000}{}{Straniero Misterioso}
-{27100}{}{Straniero Misterioso}
+{27000}{}{la Straniera Mistriosa}
+{27100}{}{la Straniera Mistriosa}
 {27200}{}{Hakeswill}
 {27300}{}{Big Jesus Mordino}
 {27400}{}{Dumar}
@@ -294,14 +294,14 @@
 {27700}{}{Lo Pan}
 {27800}{}{una Hubologista}
 {27900}{}{una Hubologista}
-{28000}{}{Straniero Misterioso}
-{28100}{}{Straniero Misterioso}
-{28200}{}{Straniero Misterioso}
-{28300}{}{Straniero Misterioso}
-{28400}{}{Straniero Misterioso}
-{28500}{}{Straniero Misterioso}
-{28600}{}{Straniero Misterioso}
-{28700}{}{Straniero Misterioso}
+{28000}{}{la Straniera Mistriosa}
+{28100}{}{la Straniera Mistriosa}
+{28200}{}{la Straniera Mistriosa}
+{28300}{}{la Straniera Mistriosa}
+{28400}{}{la Straniera Mistriosa}
+{28500}{}{la Straniera Mistriosa}
+{28600}{}{la Straniera Mistriosa}
+{28700}{}{la Straniera Mistriosa}
 {28800}{}{il Gorilla del Pres}
 {28900}{}{un Uovo di Deathclaw}
 {29000}{}{Metzger}
@@ -505,7 +505,7 @@
 {48500}{}{Sciamano}
 {48501}{}{Sciamano tribale.}
 {48600}{}{Guerriero	}
-{48601}{}{Guerriero della tribù.}
+{48601}{}{Guerriero della tribu'.}
 {48700}{}{una Guardia}
 {48800}{}{Sorella di Sulik}
 {48900}{}{Kaga}

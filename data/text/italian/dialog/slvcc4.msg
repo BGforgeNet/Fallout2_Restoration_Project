@@ -25,6 +25,6 @@
 {358}{}{Chi si credono di essere quelle persone?}
 {359}{}{Ti prego, aiutaci!}
 {360}{}{Fammi uscire da qui.}
-{400}{}{Oh, perché proprio a me!}
+{400}{}{Oh, perche' proprio a me!}
 {401}{}{*tosse*}
 {402}{}{*Si gratta*}

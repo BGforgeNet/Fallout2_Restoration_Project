@@ -1,5 +1,5 @@
 {100}{}{Vedi un guerriero.}
-{101}{}{Vedi Krom, il Capo Guerriero della tribù.}
+{101}{}{Vedi Krom, il Capo Guerriero della tribu'.}
 {102}{}{Vedi un guerriero gigantesco e muscoloso. La sua pelle color bronzo porta le cicatrici di innumerevoli battaglie.}
 {200}{}{[Questo gigante abbronzato dal sole sembra avere muscoli scolpiti nel granito. Sotto una criniera di capelli neri,
  i suoi occhi blu ardenti ti trapassano.] Io sono Krom, il capo guerriero di questa tribu'. Chi sei, e cosa ti porta qui?}
@@ -10,7 +10,7 @@
 {203}{}{, e sono in una sacra missione per salvare il mio villaggio, Arroyo, da una distruzione certa.}
 {204}{}{Sono }
 {205}{}{, e sono stato in una sacra missione per salvare il mio villaggio, Arroyo, da una distruzione certa. Ma ho trovato cio' che mi serviva.}
-{206}{}{Sono solo un viandante — niente di più. Ora vado.}
+{206}{}{Sono solo un viandante — niente di piu'. Ora vado.}
 {207}{}{[Sorridi.] Grazie, Krom.}
 {208}{}{Grazie, ma perche' non tieni gli occhi puntati qui su. Va bene, omone?}
 {209}{}{Risparmiami i complimenti, va bene, lurido? Non ho alcuna intenzione di andare a letto con te. Diamine, non voglio nemmeno parlare
@@ -73,7 +73,7 @@
 {291}{}{[Datti da fare.]}
 {292}{}{Ehi! Lasciami andare, hai capito tutto male!}
 {300}{}{Al diavolo te, tentatrice! Vai a stuzzicare qualcun altro. Non ho tempo da perdere con te.}
-{301}{}{Sì, beh, fottiti anche tu. Addio.}
+{301}{}{Si', beh, fottiti anche tu. Addio.}
 {302}{}{Vabbe'. Ci vediamo.}
 {310}{}{[Diverse ore passano in una foschia di passione sudata e brutale. Alla fine, giaci sul pavimento della capanna di Krom, esausta.
  Krom e' al tuo fianco, i suoi occhi divorano i contorni del tuo corpo.] Per gli Dei, ragazza, sei incredibile!}
@@ -115,7 +115,7 @@
 {380}{}{Sta a te decidere.}
 {390}{}{[Krom esamina uno degli stimpak appena acquisiti dalla tribu'.] Questi dovrebbero rivelarsi piuttosto utili. [Avvicina
  lo stimpak al naso, annusa e aggrotta la fronte. Ne spruzza un po' sulla mano e lo assaggia con cautela.] Maledetti gli Dei!
- Sono pieni di sangue di brahmin! Quel bastardo guercio ci ha fregati. In questo momento starà ridendo di noi mentre si gode le sue nuove pelli dorate.}
+ Sono pieni di sangue di brahmin! Quel bastardo guercio ci ha fregati. In questo momento stara' ridendo di noi mentre si gode le sue nuove pelli dorate.}
 {391}{}{Scusa. Non avevo idea che fossero falsi.}
 {392}{}{Pazienza. Si impara vivendo.}
 {400}{}{Se rivedo mai quel cane imbroglione, saro' lieto di spaccargli il cranio. Ora, se vuoi scusarmi,
@@ -142,7 +142,7 @@
  stati utili, ma siamo sopravvissuti senza, e continueremo a farlo. Sei la benvenuta tra noi, ragazza,
  e puoi considerare la nostra tribu' come la tua. Tuttavia, potrei chiedere ancora il tuo aiuto in futuro. Grazie per l'aiuto.}
 {442}{}{Nessun problema.}
-{443}{}{È stato un piacere.}
+{443}{}{E' stato un piacere.}
 {444}{}{Vabbe'. Ci vediamo.}
 {450}{}{Se rivedo mai quel cane imbroglione, saro' felice di spaccargli il cranio. Tuttavia, hai fatto bene a scoprire il suo inganno.
  Vedo che ho fatto una scelta saggia nel fidarmi di te. Sei il benvenuto tra noi, e puoi considerare la nostra tribu' come la tua.
@@ -151,7 +151,7 @@
  Vedo che ho fatto una scelta saggia nel fidarmi di te, ragazza. Sei la benvenuta tra noi, e puoi considerare la nostra tribu' come la tua.
  Tuttavia, potrei chiedere ancora il tuo aiuto in futuro. Grazie per l'aiuto.}
 {452}{}{Nessun problema.}
-{453}{}{È stato un piacere.}
+{453}{}{E' stato un piacere.}
 {454}{}{Vabbe'. Ci vediamo.}
 {460}{}{[Il gigante guerriero annuisce in segno di saluto mentre ti avvicini.] Bentornato, amico. Ti serve qualcosa?}
 {461}{}{[Il gigante guerriero sorride mentre ti vede avvicinarti.] Per gli Dei, quasi dimenticavo quanto sei splendida. Ti serve qualcosa, ragazza?}
@@ -159,9 +159,9 @@
 {463}{}{Scusa, pensavo fosse un’altra tenda. Me ne vado.}
 {464}{}{[Sorriso seducente] Si', omone. Ho proprio bisogno di qualcosa. [Occhiolino.]}
 {470}{}{Certamente.}
-{471}{}{Sembri averne passate tante. Mi chiedevo qual è la tua storia.}
+{471}{}{Sembri averne passate tante. Mi chiedevo qual e' la tua storia.}
 {472}{}{Cosa puoi dirmi di questo villaggio?}
-{473}{}{C’è qualcosa che sta succedendo qui e con cui potrei aiutarvi?}
+{473}{}{C’e' qualcosa che sta succedendo qui e con cui potrei aiutarvi?}
 {474}{}{Uh, strano. Sembra che abbia dimenticato cosa volevo chiederti. Tornero' se mi torna in mente. Addio.}
 {480}{}{[Ride piano.] Si', credo di averne passate molte. Vengo da una tribu' lontana, a nord. Quando avevo quindici anni,
  siamo stati attaccati da selvaggi. Mi svegliai quel giorno come un ragazzo, ma quando il sole tramonto' su quella scena cupa,
@@ -187,20 +187,20 @@
 {512}{}{Okay, grazie. Ci vediamo.}
 {520}{}{A dire il vero, sembra che Marli stia avendo qualche problema con il pozzo. Se ti va di aiutare, potresti andare a vedere qual e' il problema.}
 {521}{}{Okay, grazie. Ci vediamo.}
-{522}{}{D’accordo, forse lo farò. Ma prima, posso chiederti qualcos’altro?}
+{522}{}{D’accordo, forse lo faro'. Ma prima, posso chiederti qualcos’altro?}
 {530}{}{Bene rivederti, amico. Se hai un momento, avrei di nuovo bisogno del tuo aiuto.}
 {531}{}{Bene rivederti, ragazza. Se hai un momento, avrei bisogno del tuo aiuto.}
 {532}{}{Certo. Cosa ti serve?}
-{533}{}{Scusa, ora sono occupato. Forse più tardi.}
+{533}{}{Scusa, ora sono occupato. Forse piu' tardi.}
 {540}{}{Due dei nostri cacciatori, Serin e Jerem, non sono ancora tornati dal terreno di caccia e alcuni stanno iniziando a preoccuparsi. Sono due dei nostri migliori guerrieri, e non vorrei pensare che sia successo loro qualcosa. Andrei a cercarli io stesso, ma se i villaggi vedessero che mi interesso cosi' tanto, temo che penserebbero al peggio. Preferisco non agitare nessuno finche' non so cosa sta succedendo. Quindi, li cercherai tu per me?}
 {541}{}{D’accordo, ma dove dovrei cercare?}
 {542}{}{Mi dispiace, ma non ho tempo per cercarli. Inoltre, sono sicuro che torneranno presto. Addio.}
 {543}{}{Non sono qui per fare da balia ai tuoi guerrieri. Addio.}
 {550}{}{Controlla il terreno di caccia, a nord. Il modo piu' rapido per arrivarci e' attraverso la grotta a ovest, vicino alla Grande Acqua Salata. Normalmente non consiglierei quella strada, perche' rischia di crollare, ma e' importante che tu faccia in fretta. Procedi con cautela nella grotta, e dovresti farcela.}
-{551}{}{D’accordo, mi sbrigherò e cercherò di trovarli.}
+{551}{}{D’accordo, mi sbrighero' e cerchero' di trovarli.}
 {552}{}{Aspetta, vuoi che passi in una grotta che sta per crollare? Hmm... Merda, mi sono appena ricordato! Devo andare a salvare la mia tribu'! Scusa, devo scappare.}
 {560}{}{Hai notizie dei cacciatori scomparsi?}
-{561}{}{Non ancora. Continuerò a cercare.}
+{561}{}{Non ancora. Continuero' a cercare.}
 {562}{}{Si', li ho trovati nella grotta. Sono entrambi morti.}
 {570}{}{[Krom annuisce, il volto cupo.] Come?}
 {571}{}{C'e' stato un crollo. Uno e' stato schiacciato dalle rocce; l'altro e' rimasto intrappolato sotto le macerie, poi divorato vivo da un gecko. E' stato piuttosto brutale.}
@@ -224,7 +224,7 @@
  lance, non importa quanto affilate. E dieci coltelli normali. Capito?}
 {811}{}{Otay. Io andare trovare cose appuntite.}
 {812}{}{Me ha tante cose appuntite. Me non serve tutte.}
-{820}{}{Hai cambiato idea? Vuoi essere l’aiutante speciale della tribù?}
+{820}{}{Hai cambiato idea? Vuoi essere l’aiutante speciale della tribu'?}
 {821}{}{Io speciale. Io essere grande aiutante per tribu'.}
 {830}{}{Hai trovato tutte le cose appuntite che ti ho chiesto?}
 {831}{}{Trovato.}
@@ -249,7 +249,7 @@
 {1010}{}{[Scrolla le sue larghe spalle.] L'est sembra una direzione buona quanto qualsiasi altra. Si', credo che andro' a est a vedere
  cosa mi attende.}
 {1020}{}{Metteranno semplicemente un altro guerriero al mio posto. Diamine, i capi guerrieri di solito non vivono molto piu' di un paio d'anni comunque, quindi direi che mi sono guadagnato la pensione.}
-{2000}{}{Rifornisci la tribù con altre armi.}
+{2000}{}{Rifornisci la tribu' con altre armi.}
 {2500}{}{Sei caduto vittima dell'inganno di Roy.}
 {2501}{}{Uccidi inutilmente il mercante.}
 {2502}{}{Smascheri l'inganno di Roy e ti assicuri che non commerci mai piu'.}

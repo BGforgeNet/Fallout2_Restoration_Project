@@ -61,4 +61,4 @@
 {160}{}{En quoi puis-je t'être utile ?}
 {161}{}{Juste les problèmes avec la RNC, mais je pense que le marché que tu as offert va permettre d'y remédier.}
 {162}{}{Tu as réussi ! Nous ne sommes plus sous le joug de Darion. Merci !}
-{163}{}{Maintenant que Darion est parti, nous n'avons plus de moyens d'obtenir de la nourriture. Nous allons certainement mourir. Vraiment merci !}
+{163}{}{Maintenant que Darion est parti, nous n'avons plus de moyens d'obtenir de la nourriture. Nous allons certainement mourir ! Vraiment merci.}

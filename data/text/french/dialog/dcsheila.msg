@@ -57,7 +57,7 @@
 {207}{}{Ok. Salut.}
 {208}{}{Ouais, d'accord.}
 {209}{}{Hou la la !}
-{210}{}{A plus. }
+{210}{}{A plus.}
 {211}{}{Au revoir.}
 {212}{}{Salut.}
 {213}{}{C'est $ }

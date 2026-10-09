@@ -12,7 +12,7 @@
 {111}{}{Alors je me fais jeter et je termine dans un rôle de "PNJ Bouche-trou" à l'Abri 13. Tu parles d'un stéréotype !}
 {112}{}{Quelle n'a pas été ma surprise de constater que cette femme aux cheveux noirs portait des vêtements !}
 {113}{}{Enfin, je veux dire, sachant que pendant la projection, elle ne les avait PAS souvent sur le dos.}
-{114}{}{::Soupir::}
+{114}{}{*Soupir*}
 {115}{}{Je déteste les hommes.}
 {116}{}{Bon, d'accord, sauf le beau Scotty Everts.}
 {117}{}{Je crois qu'il me soutient. J'ai seulement dû coucher avec lui quelques fois pour qu'il vote pour moi.}

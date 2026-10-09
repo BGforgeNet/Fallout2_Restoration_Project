@@ -222,7 +222,7 @@
 {321}{}{Non ne so nulla.}
 {322}{}{Non sei molto gentile.}
 {323}{}{Grazie, }
-{324}{}{Questo è un bene.}
+{324}{}{Questo e' un bene.}
 {325}{}{Questo non va bene.}
 {326}{}{Ho un buon presentimento al riguardo.}
 {327}{}{Ho un brutto presentimento.}

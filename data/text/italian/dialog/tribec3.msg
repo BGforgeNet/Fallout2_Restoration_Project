@@ -1,10 +1,10 @@
 {100}{}{Vedi un tribale.}
-{101}{}{Vedi un membro della tribù.}
-{102}{}{Uno dei pochi membri rimasti della tribù.}
+{101}{}{Vedi un membro della tribu'.}
+{102}{}{Uno dei pochi membri rimasti della tribu'.}
 {200}{}{Non sei il benvenuto qui.}
 {201}{}{Gli spiriti non ti vedono di buon occhio.}
 {202}{}{Vattene, straniero.}
-{203}{}{Perché ci tormenti?}
+{203}{}{Perche' ci tormenti?}
 {204}{}{Benvenuto, guerriero.}
 {205}{}{Sarai sempre il benvenuto qui.}
 {206}{}{Gli spiriti ti accettano come uno di noi.}

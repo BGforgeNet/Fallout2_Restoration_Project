@@ -7,11 +7,11 @@
 {202}{}{Abbiamo liberato una dozzina di schiavi oggi.}
 {203}{}{Proteggere le Lande e' un lavoro duro, ma qualcuno deve pur farlo.}
 {204}{}{Felice di averti con noi. Resta quanto vuoi.}
-{205}{}{Ho sentito cosa è successo a Metzger. Ottimo lavoro!}
-{300}{}{È uno schiavista! All’attacco!}
+{205}{}{Ho sentito cosa e' successo a Metzger. Ottimo lavoro!}
+{300}{}{E' uno schiavista! All’attacco!}
 {301}{}{Merda, siamo sotto attacco!}
 {400}{}{Saluti, amico.}
-{401}{}{Questa è proprietà privata. Non restare troppo a lungo.}
+{401}{}{Questa e' proprieta' privata. Non restare troppo a lungo.}
 {402}{}{Ti piacciono gli schiavisti? Spero proprio di no... per il tuo bene.}
 {500}{}{Cosa!? Schiavisti? Come diavolo ci hanno trovato? Dobbiamo difenderci. All'attacco!}
 {501}{}{Aspettate! Sono dalla vostra parte. Vi stavo solo portando un po' di bersagli. (si gira verso gli Schiavisti) Scusate ragazzi, sono fatto cosi'. (Attacca gli Schiavisti)}

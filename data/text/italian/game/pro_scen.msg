@@ -584,13 +584,13 @@
 {30501}{}{Questo sembra un vecchio tavolo da caffe', non molto alto e adatto per i mutanti molto bassi.}
 {30600}{}{Tavolo}
 {30601}{}{Questo sembra un vecchio tavolo da caffe', non molto alto e adatto per i mutanti molto bassi.}
-{30700}{}{Acqua}
+{30700}{}{Bagno}
 {30701}{}{I bordi taglienti della tazza lo rendono un posto molto scomodo dove sedersi.}
-{30800}{}{Acqua}
+{30800}{}{Bagno}
 {30801}{}{Questo water e' rotto.}
-{30900}{}{Acqua}
-{30901}{}{Yuck! Chiunque l'abbia usato per ultimo, non ha tirato l'acqua!}
-{31000}{}{Acqua}
+{30900}{}{Bagno}
+{30901}{}{Che schifo! Chiunque l'abbia usato per ultimo, non ha tirato l'acqua!}
+{31000}{}{Bagno}
 {31001}{}{Questo water e' rotto e decisamente non e' utilizzabile se sei una donna.}
 {31100}{}{Spazzatura}
 {31101}{}{Qualche tubo spezzato mezzo ricoperto di sporcizia. Non c'e' niente da vedere. Circolare.}
@@ -1174,11 +1174,11 @@
 {61401}{}{Osservi la tua immagine allo specchio per un po'.}
 {61500}{}{Lavello}
 {61501}{}{Un lavello completamente funzionante. Bello e pulito.}
-{61600}{}{Acqua}
+{61600}{}{Bagno}
 {61601}{}{Questo water e' molto pulito. E funziona.}
 {61700}{}{Orinatoio}
 {61701}{}{Questo orinatoio e' funzionante.}
-{61800}{}{Acqua}
+{61800}{}{Bagno}
 {61801}{}{Se tu avessi una fissa per i water, allora questo sarebbe il water ideale.}
 {61900}{}{Lavello}
 {61901}{}{Questo lavello e' in perfette condizioni.}
@@ -1313,7 +1313,7 @@
 {68801}{}{Un grosso ammasso di rocce. Non si tratta di un evento naturale.}
 {68900}{}{Rocce}
 {68901}{}{Un grosso ammasso di rocce. Non si tratta di un evento naturale.}
-{69000}{}{Acqua}
+{69000}{}{Bagno}
 {69001}{}{Un water grezzo, ma funzionale. Ci sono delle foglie buttate nel buco per combattere l'odore.}
 {69100}{}{Montagna}
 {69101}{}{Questa parete di roccia sembra assolutamente inaccessibile.}
@@ -1873,7 +1873,7 @@
 {101701}{}{Questo aratro e' progettato per essere trascinato da un Brahmin.}
 {101800}{}{Aratro}
 {101801}{}{Questo aratro e' progettato per essere trascinato da un Brahmin.}
-{101900}{}{Acqua}
+{101900}{}{Bagno}
 {102000}{}{Insegna}
 {102001}{}{L'insegna all'entrata di New Reno.}
 {102100}{}{Insegna}
@@ -2052,12 +2052,12 @@
 {118500}{}{Cartello: Ufficio del Manager}
 {118600}{}{Cartello: Magazzino}
 {118700}{}{Cartello: Attenzione alle Radiazioni}
-{118800}{}{Carbone}
+{118800}{}{Vapore}
 {118900}{}{Macchina}
 {118901}{}{Un pezzo di equipaggiamento generico per il reattore.}
 {119000}{}{Cisterna}
 {119100}{}{Fuoco}
-{119200}{}{Acqua}
+{119200}{}{Bagno}
 {119300}{}{Cartello: Trapper Town}
 {119400}{}{Insegna del Golden Gecko}
 {119500}{}{Insegna della Bath House}
@@ -2668,7 +2668,7 @@
 {175100}{}{Guardiano del Persempre}
 {175200}{}{Cartello "Fuori Uso"}
 {175300}{}{Pavimento Crollato}
-{175400}{}{Acqua}
+{175400}{}{Bagno}
 {175500}{}{Croce}
 {175600}{}{Parete}
 {175700}{}{Parete}
@@ -2687,12 +2687,12 @@
 {177000}{}{Supporti d'Acciaio}
 {177100}{}{Supporti d'Acciaio}
 {177200}{}{Supporti d'Acciaio}
-{177300}{}{Acqua}
-{177400}{}{Acqua}
-{177500}{}{Acqua}
-{177600}{}{Acqua}
-{177700}{}{Acqua}
-{177800}{}{Acqua}
+{177300}{}{Bagno}
+{177400}{}{Bagno}
+{177500}{}{Bagno}
+{177600}{}{Bagno}
+{177700}{}{Bagno}
+{177800}{}{Bagno}
 {177900}{}{Cascata}
 {178000}{}{Strada}
 {178100}{}{Strada}
@@ -2775,7 +2775,7 @@
 {184800}{}{Stazione delle Comunicazioni}
 {184900}{}{Console del Computer}
 {185000}{}{Oblo'}
-{185100}{}{Carbone}
+{185100}{}{Vapore}
 {185200}{}{Una vecchia motocicletta}
 {185201}{}{Una vecchia motocicletta prebellica. Non funziona piu'.}
 {185300}{}{Serbatoio d'acqua}
@@ -2842,7 +2842,7 @@
 {188900}{}{Un gruppo di barili}
 {188901}{}{Barili che contengono varie sostanze chimiche.}
 {189000}{}{Barile in fiamme}
-{189001}{}{A quanto pare il cartello dice che è infiammabile.}
+{189001}{}{A quanto pare il cartello dice che e' infiammabile.}
 {189100}{}{Barile}
 {189101}{}{Un barile pieno di una sorta di liquido.}
 {189200}{}{Barile}
@@ -2864,15 +2864,15 @@
 {190001}{}{}
 {190100}{}{Vertibird}
 {190200}{}{Un congelatore criogenico}
-{190201}{}{Un congelatore in grado di contenere un essere umano vivo. Questo è aperto.}
+{190201}{}{Un congelatore in grado di contenere un essere umano vivo. Questo e' aperto.}
 {190300}{}{Un congelatore criogenico}
-{190301}{}{Un congelatore in grado di contenere un essere umano vivo. Questo è chiuso.}
+{190301}{}{Un congelatore in grado di contenere un essere umano vivo. Questo e' chiuso.}
 {190400}{}{Una scrivania}
 {190401}{}{Una scrivania grande e robusta.}
 {190500}{}{Camera di ibernazione}
-{190501}{}{Una camera di ibernazione. All'interno è sospeso il corpo di una donna caucasica.}
+{190501}{}{Una camera di ibernazione. All'interno e' sospeso il corpo di una donna caucasica.}
 {190600}{}{Camera di ibernazione}
-{190601}{}{Una camera di ibernazione. All'interno è sospeso il corpo di un uomo caucasico.}
+{190601}{}{Una camera di ibernazione. All'interno e' sospeso il corpo di un uomo caucasico.}
 {190700}{}{Camera di ibernazione}
 {190701}{}{Una camera di ibernazione aperta. All'interno giace nudo il corpo di una donna caucasica.}
 {190800}{}{Camera di ibernazione}
@@ -2880,9 +2880,9 @@
 {190900}{}{Camera di ibernazione}
 {190901}{}{Una camera di ibernazione aperta. All'interno giace nudo il corpo di un uomo afroamericano.}
 {191000}{}{Camera di ibernazione}
-{191001}{}{Una camera di ibernazione. All'interno è sospeso il corpo di un uomo afroamericano.}
+{191001}{}{Una camera di ibernazione. All'interno e' sospeso il corpo di un uomo afroamericano.}
 {191100}{}{Camera di ibernazione}
-{191101}{}{Una camera di ibernazione aperta. È vuota.}
+{191101}{}{Una camera di ibernazione aperta. E' vuota.}
 {191200}{}{Una sedia elettrica WattzMan 2000}
 {191300}{}{Navetta Imperiale}
 {191301}{}{Un qualche tipo di veicolo spaziale. Ha una targa con scritto: EMPRRULZ!}
@@ -3175,9 +3175,9 @@
 {209800}{}{Tubature a parete}
 {209900}{}{Tubature a parete}
 {210000}{}{Porta di Sicurezza}
-{210001}{}{Questa porta di metallo è incastonata nella parete rocciosa.}
+{210001}{}{Questa porta di metallo e' incastonata nella parete rocciosa.}
 {210100}{}{Porta esterna del Vault}
-{210101}{}{Questa porta del Vault è incastonata nella parete rocciosa della montagna. Sembra aver resistito all'esplosione di una bomba atomica.}
+{210101}{}{Questa porta del Vault e' incastonata nella parete rocciosa della montagna. Sembra aver resistito all'esplosione di una bomba atomica.}
 {210200}{}{Porta esterna del Vault}
 {210201}{}{Questa grande porta collega il vault al mondo esterno. E' stata bruciata da un'esplosione tremenda.}
 {210300}{}{Entrata della Grotta}
@@ -3193,7 +3193,7 @@
 {210800}{}{Paletto d'ormeggio}
 {210801}{}{Una corda collega il palo d'ormeggio alla barca.}
 {210900}{}{Portello del sottomarino arrugginito}
-{210901}{}{Con un po' di sforzo questo portello può ancora essere aperto.}
+{210901}{}{Con un po' di sforzo questo portello puo' ancora essere aperto.}
 {211000}{}{Torre del sottomarino arrugginita}
 {211001}{}{I danni del tempo e dell'acqua salata stanno lentamente consumando questo relitto arrugginito.}
 {211100}{}{Torre del sottomarino arrugginita}
@@ -3299,11 +3299,11 @@
 {219300}{}{Scala}
 {219400}{}{Portello del sottomarino arrugginito}
 {219500}{}{Portello del sottomarino arrugginito}
-{219501}{}{Con un po' di sforzo questo portello può ancora essere aperto.}
+{219501}{}{Con un po' di sforzo questo portello puo' ancora essere aperto.}
 {219600}{}{Auto-Doc}
 {219700}{}{}
 {219800}{}{Manifesto di un Ricercato}
-{219801}{}{Un ritratto abbozzato di un fuggitivo ricercato dalle autorità locali.}
+{219801}{}{Un ritratto abbozzato di un fuggitivo ricercato dalle autorita' locali.}
 {219900}{}{Ventilatore}
 {220000}{}{Ventola bloccata}
 {220100}{}{Ringhiera d'acciaio arrugginita}
@@ -3438,11 +3438,11 @@
 {228000}{}{Letto sudicio}
 {228001}{}{Esaminandolo piu' da vicino, ti accorgi che le lenzuola non sono state cambiate da tanto, tantissimo tempo.}
 {228100}{}{Vetro}
-{228101}{}{È difficile vedere attraverso questo vetro.}
+{228101}{}{E' difficile vedere attraverso questo vetro.}
 {228200}{}{Vetro}
-{228201}{}{È difficile vedere attraverso questo vetro.}
+{228201}{}{E' difficile vedere attraverso questo vetro.}
 {228300}{}{Vetro}
-{228301}{}{È difficile vedere attraverso questo vetro.}
+{228301}{}{E' difficile vedere attraverso questo vetro.}
 {228400}{}{Vetro}
 {228401}{}{Questo vetro e' appena trasparente.}
 {228500}{}{Vetro}

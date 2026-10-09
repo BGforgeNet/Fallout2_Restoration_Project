@@ -66,7 +66,7 @@
 {300}{}{Sua figlia Angela?}
 {301}{}{Avrei delle altre domande...}
 {305}{}{Si', la stessa Angela con la quale tu hai *dormito*. Sicuramente te lo ricordi, no? (Ti rivolge uno sguardo raggelante.) *Spero* tu abbia usato un profilattico. I suoi ormoni sono cosi' fuori controllo che il solo pronunciare la parola "sperma" la metterebbe incinta.}
-{306}{}{Sì, mia figlia, Angela. E' diventata proprio una piccola sbandata. (Sorride amaramente.) Tale madre, tale figlia… (Sospira, irritato.) Ora, e' *tutto?*}
+{306}{}{Si', mia figlia, Angela. E' diventata proprio una piccola sbandata. (Sorride amaramente.) Tale madre, tale figlia… (Sospira, irritato.) Ora, e' *tutto?*}
 {308}{}{Er, prof... prof-i-ter...? Eh, beh, credo che ne abbiamo usato uno... qualunque cosa sia. Sa una cosa? Credo che andro' subito a controllare.}
 {309}{}{Cioe', un goldone? Certo che l'abbiamo usato. Credo. Voglio dire, sono abbastanza sicuro. Forse farei meglio ad andare subito a controllare.}
 {315}{}{"}

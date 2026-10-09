@@ -31,4 +31,4 @@
 {130}{}{Je n'ai pas mes papiers sur moi, ils sont dans mon coffre.}
 {131}{}{Des papiers ? Les v'là tes papiers, tiens, regarde !}
 {132}{}{Mauvaise réponse. Tu dois toujours porter tes papiers sur toi et tu devrais le savoir !}
-{133}{}{Oh là là !}
+{133}{}{Oups !}

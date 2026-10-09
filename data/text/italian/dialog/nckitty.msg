@@ -9,7 +9,7 @@
 {206}{}{Jules fara' meglio a mandarci presto un po' di persone arrapate... e danarose.}
 {215}{}{(La donna di fronte a te e' incredibilmente bella. Non appena ti rivolgi a lei, alza lo sguardo e sorride.) Ah, una faccia nuova! Io sono Miss Kitty... benvenuto al Cat's Paw.}
 {216}{}{Bentornato!}
-{217}{}{Ma guarda un po’, il più famoso pugile di Reno!}
+{217}{}{Ma guarda un po’, il piu' famoso pugile di Reno!}
 {218}{}{Mi stavo proprio chiedendo quand'e' che Mr. }
 {219}{}{Cielo! Che mi venga un colpo se questa non e' la star dello schermo!}
 {220}{}{ Che cosa desideri oggi?}
@@ -94,9 +94,9 @@
 {404}{}{Davin avrebbe bisogno di fare un (bel) po' di esperienza.}
 {405}{}{Miria vorrebbe fare quattro passi in un territorio selvaggio.}
 {406}{}{In realta', nessuno, grazie.}
-{407}{}{Questo è Dex. Meglio tenerlo d’occhio, a volte perde il controllo.}
+{407}{}{Questo e' Dex. Meglio tenerlo d’occhio, a volte perde il controllo.}
 {408}{}{Questo e' il Gatto Jules. Attento pero', potrebbe mordere le ragazze.}
-{409}{}{Questa è Kitsune. Spero tu sappia… come dire… starle dietro.}
+{409}{}{Questa e' Kitsune. Spero tu sappia… come dire… starle dietro.}
 {420}{}{Il tuo amico qui? (Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {421}{}{(Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {422}{}{ dollari.}

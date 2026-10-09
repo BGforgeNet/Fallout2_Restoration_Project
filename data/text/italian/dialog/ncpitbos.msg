@@ -65,8 +65,8 @@
 {328}{}{Puoi dirmi qualcosa sul casino'?}
 {329}{}{Niente, grazie. Scusa il disturbo.}
 {335}{}{Ehi, }
-{336}{}{Ehi, ho sentito che sei tu quello che ha rimandato l’Enclave all’età della pietra! Mi hanno detto di darti qualche fiche, offerta dal casinò. Divertiti, signore.}
-{337}{}{Ehi, ho sentito che sei tu quella che ha rimandato l’Enclave all’età della pietra! Mi hanno detto di darti qualche fiche, offerta dal casinò. Divertiti, signora.}
+{336}{}{Ehi, ho sentito che sei tu quello che ha rimandato l’Enclave all’eta' della pietra! Mi hanno detto di darti qualche fiche, offerta dal casino'. Divertiti, signore.}
+{337}{}{Ehi, ho sentito che sei tu quella che ha rimandato l’Enclave all’eta' della pietra! Mi hanno detto di darti qualche fiche, offerta dal casino'. Divertiti, signora.}
 {338}{}{. Cosa c'e', capo? Ti prendo qualcosa? Da bere? Una cameriera?}
 {339}{}{. La piu' bella del casino'. Ti prendo qualcosa? Da bere? Un tavolo privato?}
 {340}{}{Cosa posso fare per te, amico?}
@@ -99,7 +99,7 @@
 {368}{}{Chi e' quel vecchio alla slot machine?}
 {369}{}{Grazie. Ti serve una ballerina per stanotte? Sono disponibile per un ingaggio a tempo limitato.}
 {370}{}{Grazie, sono lusingata. Sono passata solo per salutare.}
-{375}{}{No, è solo testardo… proprio come lui. Avrebbe bisogno di qualche riparazione, ma non abbiamo tecnici in grado di sistemare quella maledetta cosa.}
+{375}{}{No, e' solo testardo… proprio come lui. Avrebbe bisogno di qualche riparazione, ma non abbiamo tecnici in grado di sistemare quella maledetta cosa.}
 {376}{}{Avrei delle altre domande...}
 {377}{}{Interessante. Grazie per l'informazione.}
 {385}{}{Si', quel figlio di puttana e' venuto qui circa una settimana fa, ha fregato un tavolo di circa mille chip, poi e' sparito.
@@ -124,12 +124,12 @@
 {428}{}{Non adesso, ma tornero'.}
 {435}{}{No, stiamo ancora recuperando dalla tua ultima esibizione. Potresti provare in qualche altro casino'.}
 {436}{}{D’accordo, grazie. Avevo altre domande…}
-{437}{}{D’accordo… ma tornerò.}
+{437}{}{D’accordo… ma tornero'.}
 {445}{}{[Conti le fiches della serata. Niente male.]}
 {446}{}{La pelle era un tocco carino. }
 {447}{}{Anche il bavaglio a sfera che avevi con te non ha guastato. }
 {448}{}{[CONTINUA]}
-{455}{}{Sì, puzza peggio della merda di brahmin. Però tu…? Mah, perché no. Un po’ di improvvisazione non farà male, ma il pubblico è tosto… spera di essere bravo.}
+{455}{}{Si', puzza peggio della merda di brahmin. Pero' tu…? Mah, perche' no. Un po’ di improvvisazione non fara' male, ma il pubblico e' tosto… spera di essere bravo.}
 {456}{}{Oh, sono brava... guarda un po'.}
 {457}{}{Non adesso, ma tornero'.}
 {500}{}{Roba da ridere. Sei la nuova Milton Berle. Torna tra una settimana per un altro spettacolo.}
@@ -139,7 +139,7 @@
 {511}{}{Bene, andro' a portare il mio talento a qualcuno che lo sapra' DAVVERO apprezzare.}
 {512}{}{Vabbe'. Ci vediamo.}
 {520}{}{Eri in fiamme la' fuori. La prossima Traci Lords. }
-{521}{}{Non credo di aver mai visto qualcuno muoversi così sul palco. Hai davvero talento. }
+{521}{}{Non credo di aver mai visto qualcuno muoversi cosi' sul palco. Hai davvero talento. }
 {522}{}{Certo. Ci vediamo.}
 {523}{}{Torna tra una settimana per un altro spettacolo.}
 {530}{}{Mi spiace, non sei all’altezza dei nostri standard.}
@@ -149,7 +149,7 @@
 {621}{}{Ti avevo detto di tornare tra una settimana. Hai ancora un po' di tempo, ripassa piu' tardi.}
 {622}{}{D’accordo. Allora ho qualche domanda.}
 {623}{}{Allora ci si vede in giro.}
-{720}{}{C’è posto per qualche ballerino stasera?}
+{720}{}{C’e' posto per qualche ballerino stasera?}
 {721}{}{Ti avevo detto di tornare tra una settimana. Hai ancora un po' di tempo, ripassa piu' tardi.}
 {722}{}{D’accordo. Allora ho qualche domanda.}
 {723}{}{Allora ci si vede in giro.}
@@ -174,12 +174,12 @@
 {1286}{}{Non mi interessa se il tuo amico e' uno degli Ex-Men, i mutanti aspettano fuori.}
 {1287}{}{Quel mostro mutante non puo' entrare.}
 {1306}{}{. Prenditi una pausa dal salvare il mondo e divertiti un po'.}
-{1335}{}{Questo è il }
-{1336}{}{Questo è il }
+{1335}{}{Questo e' il }
+{1336}{}{Questo e' il }
 {1337}{}{Chi sei?}
 {1338}{}{Puoi dirmi qualcosa sul casino'?}
 {1339}{}{Niente, grazie. Scusa il disturbo.}
-{1345}{}{Il miglior dannato casinò della città… anche se forse sono un po’ di parte. Vuoi sapere altro?}
+{1345}{}{Il miglior dannato casino' della citta'… anche se forse sono un po’ di parte. Vuoi sapere altro?}
 {1346}{}{Il miglior cazzo di casino' in citta', i migliori cazzo di tavoli... ora perche' non vai a darci un'occhiata? Ok?}
 {1347}{}{Chi sei?}
 {1348}{}{Chi possiede questo casino'?}
@@ -198,7 +198,7 @@
 {1500}{}{Umm... Tua mamma e' cosi' grassa che quando e' caduta si e' dondolata fin quando non si e' addormentata cercando di rialzarsi.}
 {1501}{}{Tua mamma e' cosi' graaaassa che ho dovuto prendere un aereo, un treno e un'automobile solo per stare dalla parte buona di quella vacca.}
 {1502}{}{Allora, cosa ha detto un piatto all'altro?}
-{1503}{}{Ok, perché hanno arrestato le bretelle?}
+{1503}{}{Ok, perche' hanno arrestato le bretelle?}
 {1504}{}{Ok, perche' la donna non riusciva a comprare una panetteria?}
 {2000}{}{Il tuo numero comico e' stato un successo.}
 {2001}{}{Il tuo numero comico e' stato un flop.}

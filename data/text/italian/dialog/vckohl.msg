@@ -95,11 +95,11 @@
 {194}{}{Oh, lo faro' di sicuro! Vorrei che ci fossero piu' persone che lo facessero.}
 {195}{}{Condivido pienamente il sentimento! E' passato un po' da quando ho visto qualcuno anche solo minimamente interessato. Conoscevo un mercante che condivideva la passione pero'...}
 {196}{}{Davvero? Una volta?}
-{197}{}{Bene, è bello sapere che non sono l’unico. Posso chiederti qualcos’altro?}
+{197}{}{Bene, e' bello sapere che non sono l’unico. Posso chiederti qualcos’altro?}
 {198}{}{Beh, spero che ci siano piu' persone come noi in giro. Grazie mille e arrivederci!}
 {199}{}{Si', veniva nel cortile per commerciare bevande alcoliche, ma entrava per comprare libri da me. Non gli avrei nemmeno fatto pagare nulla, ma insisteva. Diceva che alla sua gente, a casa, piacevano molto.}
 {200}{}{Wow, e' un pensiero davvero confortante! Da dove veniva?}
-{201}{}{Perché non passa più da queste parti?}
+{201}{}{Perche' non passa piu' da queste parti?}
 {202}{}{Diceva che era un posto chiamato l'Abbazia, un po' a nord di qui. Mi ha perfino mostrato esattamente dove, proprio... qui. Mi piacerebbe vederla, ma la vista del cortile e' gia' abbastanza per farmi andare nel panico.}
 {203}{}{Beh, suppongo che possa aver provato a vendere bevande alcoliche dentro la citta'. E' illegale, sai.}
 {204}{}{Ah, che sfortuna. Grazie per l’informazione. Posso chiederti qualcos’altro?}

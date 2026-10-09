@@ -75,18 +75,17 @@
 {174}{}{ bloque le verrou du container à cause de son manque de dextérité.}
 {175}{}{ n'a pas réussi à crocheter le verrou du container.}
 {176}{}{Tu fais sauter la serrure du container.}
-{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
-{178}{}{You strain your back while trying to bust the lock off and
- take }
+{177}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis un point de dégât.}
+{178}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis }
 {179}{}{ points de dégâts.}
-{180}{}{You are too weak to bust the lock off.}
+{180}{}{Tu es trop faible pour faire sauter le verrou.}
 {181}{}{ fait sauter la serrure du container.}
-{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
-{183}{}{ strains his back while trying to bust the lock off and takes }
+{182}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dégât.}
+{183}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend }
 {184}{}{ points de dégâts.}
 {185}{}{ est trop faible pour faire sauter le verrou.}
-{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
-{187}{}{ strains her back while trying to bust the lock off and takes }
+{186}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dégât.}
+{187}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend }
 {188}{}{ points de dégâts.}
 {189}{}{Tu verrouilles adroitement le container.}
 {190}{}{Tu ne réussis pas à verrouiller le container.}
@@ -115,5 +114,5 @@
 {601}{}{C'est ouvert, idiot.}
 {610}{}{Tu échoues lamentablement et la charge explose prématurément.}
 {611}{}{ échoue lamentablement et la charge explose prématurément.}
-{620}{}{Vous tordez le pied de biche avec acharnement. Il est inutile maintenant.}
-{621}{}{ tord le pied de biche avec acharnement. Il est inutile maintenant.}
+{620}{}{Tu plies le pied-de-biche avec acharnement. Il est inutile maintenant.}
+{621}{}{ plie le pied-de-biche avec acharnement. Il est inutile maintenant.}

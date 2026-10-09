@@ -2,7 +2,7 @@
 {101}{}{Vedi un monaco viscido.}
 {102}{}{Sta armeggiando con un alambicco.}
 {200}{}{Ehi, amico. Hai un accendino con te?}
-{201}{}{Sì. [Porgigli il tuo accendino.]}
+{201}{}{Si'. [Porgigli il tuo accendino.]}
 {202}{}{Capisco. Grazie!}
 {203}{}{Per curiosita', cosa stai facendo esattamente qui?}
 {204}{}{Certo. Visto che mi hai portato un accendino, questo te lo offro io.}
@@ -34,7 +34,7 @@
 {400}{}{Ooh, guarda tutte quelle belle stelle!}
 {500}{}{Ciao. Hai bisogno di qualcosa?}
 {501}{}{Ehi, grazie ancora per l'accendino. E' meglio del mio vecchio.}
-{600}{}{Qui al monastero produciamo il nostro alcol. E' roba tra le più forti che ti capiterà di assaggiare nelle Lande.}
+{600}{}{Qui al monastero produciamo il nostro alcol. E' roba tra le piu' forti che ti capitera' di assaggiare nelle Lande.}
 {601}{}{Ti dispiace se ne assaggio un po'?}
 {602}{}{Sembra interessante. Devo andare.}
 {700}{}{Che sfortuna. Io l’ho perso di recente e non riesco a trovarlo da nessuna parte. Se mai dovessi metterne le mani su uno, sarei felice di toglierlo dalle tue.}

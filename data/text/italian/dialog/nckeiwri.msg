@@ -65,7 +65,7 @@
 {441}{}{Little Jesus Mordino?}
 {442}{}{Puoi dirmi qualcos'altro a proposito di Richard?}
 {443}{}{Grazie delle informazioni, Keith.}
-{450}{}{Un Ragazzo tranquillo, un ragazzo pulito. Stava lontano dai guai, e per un Wright è già qualcosa. L’abbiamo seppellito nelle pianure di Golgotha un po’ di tempo fa, ma nonostante tutto, mamma non vuole ancora che la sua stanza venga toccata. Le costa lasciarlo andare, capisci?}
+{450}{}{Un Ragazzo tranquillo, un ragazzo pulito. Stava lontano dai guai, e per un Wright e' gia' qualcosa. L’abbiamo seppellito nelle pianure di Golgotha un po’ di tempo fa, ma nonostante tutto, mamma non vuole ancora che la sua stanza venga toccata. Le costa lasciarlo andare, capisci?}
 {451}{}{Qual era la sua camera? Pensi che a tua madre darebbe fastidio se ci dessi un'occhiata?}
 {452}{}{Sospetti di qualche spacciatore in particolare?}
 {454}{}{Sepolto nel Golgotha, eh? Hmmm. Grazie delle informazioni, Keith.}

@@ -37,7 +37,7 @@
 {5001}{}{*Sbadiglio*}
 {5002}{}{Sapete... come gli "Sfigati"... Qualcuno li ha mai visti?}
 {5003}{}{E qualcuno ha visto il tuo minuscolo cazzo, ultimamente?}
-{5004}{}{Uhhh… pensi davvero che ci sia qualcuno che dice: "Ehi, voglio più fallimenti critici?"}
+{5004}{}{Uhhh… pensi davvero che ci sia qualcuno che dice: "Ehi, voglio piu' fallimenti critici?"}
 {5005}{}{Chi... sono queste persone?}
 {5006}{}{Ehi, questa l'ho gia' sentita da qualche parte.}
 {5007}{}{}

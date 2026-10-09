@@ -251,7 +251,7 @@
 {12600}{}{Fiaschetta d'Acqua}
 {12601}{}{Un contenitore per raccogliere e conservare acqua o altri liquidi.}
 {12700}{}{Corda}
-{12701}{}{Una fune sottile ma robusta. Circa 45 piedi di lunghezza.}
+{12701}{}{Una fune spessa e robusta. Circa 45 piedi di lunghezza.}
 {12800}{}{Contenitore}
 {12801}{}{Il contenitore tipo. Contiene oggetti, giace ai piedi del letto, puo' essere chiuso a chiave.}
 {12900}{}{Contenitore}
@@ -545,7 +545,7 @@
 {27800}{}{Selce}
 {27801}{}{Una pietra usata per affilare armi.}
 {27900}{}{Interfaccia Neurale}
-{27901}{}{E' una specie di casco a cui sono collegati alcuni elettrodi. E' dotato di una presa standard che permette di connetterlo a un computer. Comunque Ã¨ rotto.}
+{27901}{}{E' una specie di casco a cui sono collegati alcuni elettrodi. E' dotato di una presa standard che permette di connetterlo a un computer. Comunque e' rotto.}
 {28000}{}{Lancia Affilata}
 {28001}{}{Un'asta con la punta affilata. Il manico e' di legno, mentre la punta e' d'acciaio lavorato. Min FZ: 4.}
 {28100}{}{Occhio di Dixon}
@@ -1052,7 +1052,7 @@
 {54400}{}{Olodisco di Botanica}
 {54401}{}{Questo disco informativo categorizza le varie forme di vita vegetale che crescevano prima della Grande Guerra.}
 {54500}{}{G.E.C.K. Scaduto}
-{54501}{}{Il Kit di Creazione del Giardino dell’Eden. Questa unità è equipaggiamento standard di tutti i vault della Vault-Tec. Un GECK è la risorsa per ricostruire la civiltà dopo la bomba: basta aggiungere acqua e mescolare. Questo è ben oltre la data di scadenza. Che spreco!}
+{54501}{}{Il Kit di Creazione del Giardino dell’Eden. Questa unita' e' equipaggiamento standard di tutti i vault della Vault-Tec. Un GECK e' la risorsa per ricostruire la civilta' dopo la bomba: basta aggiungere acqua e mescolare. Questo e' ben oltre la data di scadenza. Che spreco!}
 {54600}{}{Moneta Antica}
 {54601}{}{Una moneta molto antica. Non sei sicuro di chi sia il volto raffigurato, ma sembra rara e potrebbe valere molti soldi.}
 {54700}{}{Un orologio}

@@ -98,21 +98,21 @@
 {212}{}{Penso di aver fatto abbastanza per oggi. Addio.}
 {213}{}{Come Ranger e' mio dovere giurato. Certo che aiutero'.}
 {214}{}{Eccellente! Torna quando avrai eliminato il campo.}
-{215}{}{Dammi un po’ di tempo. Tornerò quando sarò pronto.}
+{215}{}{Dammi un po’ di tempo. Tornero' quando saro' pronto.}
 {216}{}{Certo. A presto.}
 {217}{}{Sono uno spontaneo. Non ho bisogno di prepararmi. Mettiamoci in moto.}
 {218}{}{In realta', ho cambiato idea. Sono sicuro che tu e gli altri Ranger ve la cavate benissimo senza di me. Buona fortuna.}
 {219}{}{In realta', credo che sarebbe meglio se alcuni Ranger venissero con me. Garantirebbe maggior successo sia per la mia parte
  che nella lotta generale contro la schiavitu'.}
 {220}{}{No, mi dispiace. Non ho le risorse per radunare degli uomini. E' qualcosa che dovrai fare da solo.}
-{221}{}{D’accordo, lo farò da solo. Farò rapporto quando avrò finito.}
-{222}{}{D’accordo, lo farò da solo. Ma ho bisogno di prepararmi. Tornerò.}
+{221}{}{D’accordo, lo faro' da solo. Faro' rapporto quando avro' finito.}
+{222}{}{D’accordo, lo faro' da solo. Ma ho bisogno di prepararmi. Tornero'.}
 {223}{}{Allora devo rifiutare. Addio.}
 {224}{}{Hai ragione. Mettera' insieme un piccolo gruppo e lo mandero' con te. Sei pronto ad andare adesso?}
-{225}{}{Ho bisogno di prepararmi. Tornerò.}
+{225}{}{Ho bisogno di prepararmi. Tornero'.}
 {226}{}{Sono pronto. Andiamo.}
 {227}{}{Soldi? Be', suppongo che sia il minimo che potremmo fare. Ecco, 1000 dollari per il tuo disturbo. Grazie ancora.}
-{228}{}{È stato un piacere. Addio.}
+{228}{}{E' stato un piacere. Addio.}
 {229}{}{Sei pronto ad attaccare il campo degli schiavisti?}
 {230}{}{Ho bisogno di altro tempo.}
 {231}{}{Sono pronto. Facciamolo.}
@@ -124,20 +124,20 @@
 {240}{}{Grazie. Arrivederci.}
 {250}{}{In realta', un'ultima cosa. Sembri una persona di cui ci si puo' fidare. Qualcuno a cui gli Schiavisti non piacciono affatto.}
 {251}{}{Be', ho appena spazzato via un loro intero campo. Cosa avevi in mente?}
-{252}{}{Penso di aver fatto abbastanza per l’umanità oggi. Ci vediamo.}
+{252}{}{Penso di aver fatto abbastanza per l’umanita' oggi. Ci vediamo.}
 {260}{}{Cosa ci fai qui? Questo e' un posto priv— Ehi, un momento, credo di aver sentito parlare di te. Non sei quello che ha distrutto uno dei campi di schiavi di Metzger?}
-{261}{}{Già, ero io.}
+{261}{}{Gia', ero io.}
 {262}{}{Certo che l’ho fatto. Hai qualche problema? }
-{263}{}{Forse… perché?}
+{263}{}{Forse… perche'?}
 {264}{}{Non ho idea di cosa tu stia parlando. Ora, se non ti dispiace, vado.}
-{270}{}{Quello che hai fatto è stato davvero ammirevole, e vorrei stringerti la mano.}
+{270}{}{Quello che hai fatto e' stato davvero ammirevole, e vorrei stringerti la mano.}
 {271}{}{Affatto. Anzi, vorrei stringerti la mano.}
-{272}{}{Perché quello che hai fatto è stato ammirevole, e vorrei stringerti la mano.}
+{272}{}{Perche' quello che hai fatto e' stato ammirevole, e vorrei stringerti la mano.}
 {273}{}{Se sei cosi' soddisfatto del mio lavoro, che ne dici di una piccola ricompensa in contanti?}
-{274}{}{Prego. Ora, perché non mi dici chi sei?}
+{274}{}{Prego. Ora, perche' non mi dici chi sei?}
 {280}{}{Non abbiamo molti fondi da parte, ma ci hai reso un grande servizio, quindi credo possiamo separarci da qualcosa. Ecco 1000$.}
 {281}{}{Grazie. Ciao.}
-{282}{}{Grazie. Ora, perché non mi dici chi sei?}
+{282}{}{Grazie. Ora, perche' non mi dici chi sei?}
 {290}{}{Io sono Elsie. Lui e' Gond. Siamo membri di un gruppo anti-schiavitu' chiamato New California Rangers. Ci servirebbe qualcuno come te. Se ti interessa unirti a noi, ho un incarico per te.}
 {291}{}{Sentiamo.}
 {292}{}{Non mi interessa. Ciao.}

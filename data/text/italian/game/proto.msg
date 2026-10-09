@@ -1,4 +1,4 @@
-{10}{}{<Nome>}
+{10}{}{<Nessuno>}
 {100}{}{Vetro}
 {101}{}{Metallo}
 {102}{}{Plastica}

@@ -57,7 +57,7 @@
 {156}{}{Sembra proprio che la fortuna vi abbia voltato le spalle. Quanto hai detto che ti serve?}
 {157}{}{Grazie ancora. Non vedo l'ora di dirlo al mio ragazzo. Ce ne andremo da qui non appena la sua gamba sara' guarita.}
 {158}{}{Il tuo modo di ringraziare mi piace moltissimo, Fannie. Sara' meglio che io esca dal locale fintanto che riesco ancora a camminare. Grazie a te. Addio.}
-{159}{}{Quando te ne sarai andata, Fannie, il mondo avrÃ  perso una grande professionista. Addio.}
+{159}{}{Quando te ne sarai andata, Fannie, il mondo avra' perso una grande professionista. Addio.}
 {160}{}{Ehila'. Vuoi passare un po' di tempo con Fannie?}
 {161}{}{Ma non ti avevo dato dei soldi perche' tu smettessi di fare questo lavoro?}
 {162}{}{Certo, a me sta bene. E' una fortuna averti beccato prima che tu partissi.}

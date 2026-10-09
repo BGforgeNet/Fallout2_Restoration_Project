@@ -12,7 +12,7 @@
 {111}{}{Avrei qualcosa da dirti.}
 {112}{}{Ti andrebbe di viaggiare insieme a me?}
 {113}{}{Addio.}
-{114}{mcs3}{Si', sono un mostruoso mutante. E sono anche il capo di questa città. C'e' qualche problema?}
+{114}{mcs3}{Si', sono un mostruoso mutante. E sono anche il capo di questa citta'. C'e' qualche problema?}
 {115}{}{Uh!}
 {116}{}{Nuh.}
 {117}{mcs4}{Vuoi batterti con me?}
@@ -31,7 +31,7 @@
 {130}{}{Che diamine, non ho molto da fare al momento. Sentiamola tutta.}
 {131}{}{Nessuna delle due. Ho delle altre domande.}
 {132}{}{Nessuna delle due. Ci vediamo.}
-{133}{mcs9}{D'accordo. Io e un umano di nome Jacob abbiamo costruito questa città intorno a quella vecchia banca, 60 anni fa. Chiunque e' il benvenuto, qui, a patto che se ne stia tranquillo.}
+{133}{mcs9}{D'accordo. Io e un umano di nome Jacob abbiamo costruito questa citta' intorno a quella vecchia banca, 60 anni fa. Chiunque e' il benvenuto, qui, a patto che se ne stia tranquillo.}
 {134}{}{Ottimo. Ho delle altre domande.}
 {135}{}{Mi sembra giusto. Ci vediamo.}
 {136}{mcs10}{D'accordo... Dopo che il Master e le Vasche furono distrutte, me ne andai girovagando per un po'. Un giorno venni attaccato da questo pazzo che indossava una power armor.}
@@ -220,7 +220,7 @@
 {319}{}{Perche' mi parli in quel modo?}
 {320}{}{Non e' molto carino.}
 {321}{}{Grazie. }
-{322}{}{Questo è un bene.}
+{322}{}{Questo e' un bene.}
 {323}{}{Questo non va bene.}
 {324}{}{Questo mi piace. Un sacco. }
 {325}{}{Ho un brutto presentimento.}
@@ -336,4 +336,4 @@
 {40004}{}{Hai scoperto che Chad faceva la cresta sui guadagni delle carovane. Peccato sia morto.}
 {193001}{}{Chad si e' intascato circa 1000$ dall'ultima consegna di uranio. Sta pensando di lasciare la citta'. Ho una valigetta con alcuni documenti che lo provano.}
 {193002}{}{Chad si e' intascato circa 1000$ dall'ultima consegna di uranio. Stava pensando di lasciare la citta', ma abbiamo avuto una discussione. E' morto. Ho una valigetta con alcuni documenti che dimostrano che era un ladro.}
-{193003}{}{Chad ha confessato tutto. Ci siamo affrontati giù al recinto delle carovane. Si è arreso e aspetta di essere arrestato.}
+{193003}{}{Chad ha confessato tutto. Ci siamo affrontati giu' al recinto delle carovane. Si e' arreso e aspetta di essere arrestato.}

@@ -49,7 +49,7 @@
 {207}{}{L'ordinateur fait son choix... Calcul en cours... Match nul !}
 {300}{}{[L'écran de l'ordinateur affiche divers motifs colorés.]}
 {301}{}{Ohhh ! Jolies couleurs.}
-{302}{}{[S'éclipser.]}
+{302}{}{[S'éclipser]}
 {400}{}{[En lire plus]}
 {401}{}{[Retourner au menu]}
 {402}{}{Recherche par thème.}
@@ -58,7 +58,7 @@
 {405}{}{[Réparation]}
 {406}{}{[Médecine]}
 {407}{}{[Utilisation des armes]}
-{408}{}{[Parler en public]}
+{408}{}{[Arguments persuasifs]}
 {410}{}{Après quelques heures de lecture, tu en apprends plus sur la science.}
 {411}{}{Après quelques heures de lecture, tu en apprends plus sur la réparation des machines.}
 {412}{}{Après quelques heures de lecture, tu en apprends plus sur la médecine.}

@@ -37,7 +37,7 @@
 {200}{}{Benvenuto, Abitante del Vault. Per tua comodita', questo terminale Vault-Tec e' stato modificato per rispondere ai comandi vocali. Pronuncia il tuo comando adesso.}
 {201}{}{Oh, mi stai confondendo con qualcun altro. Vedi, io non sono l'Abitante del Vault, sono il Prescelto. }
 {202}{}{Esegui diagnostica.}
-{203}{}{Passa alla modalità di inserimento da tastiera.}
+{203}{}{Passa alla modalita' di inserimento da tastiera.}
 {204}{}{Accedi ai filmati di sicurezza.}
 {205}{}{Esci.}
 {206}{}{Urk?}
@@ -45,7 +45,7 @@
  appare sul monitor.] Spiacente, non ho capito il tuo comando. Ripeti il tuo comando, assicurandoti di parlare
  direttamente nel microfono in modo chiaro e preciso. Vault-Tec si scusa per l'inconveniente. Grazie.}
 {211}{}{Esegui diagnostica.}
-{212}{}{Passa alla modalità di inserimento da tastiera.}
+{212}{}{Passa alla modalita' di inserimento da tastiera.}
 {213}{}{Accedi ai filmati di sicurezza.}
 {214}{}{Esci.}
 {220}{}{Attendi mentre avvio i controlli diagnostici..Vault-Tec apprezza la tua pazienza... Grazie per aver atteso... Controlli
@@ -119,7 +119,7 @@
 {303}{}{Esci.}
 {310}{}{[Provi tutto quello che ti viene in mente, ma non riesci ad ottenere l'accesso. Con un sospiro di resa, torni al menu principale.]}
 {311}{}{Esegui diagnostica.}
-{312}{}{Passa alla modalità di inserimento da tastiera.}
+{312}{}{Passa alla modalita' di inserimento da tastiera.}
 {313}{}{Accedi ai filmati di sicurezza.}
 {314}{}{Esci.}
 {320}{}{Password corretta. Tutte le voci tranne una sono state rimosse dal sistema. L'ultima voce dei Diari del Supervisore e' ancora accessibile.}

@@ -132,7 +132,7 @@
 {301}{}{Je regrette, mais... Je viens de perdre mes deux meilleurs amis. Ces saletés de mutants les ont tués en prison.}
 {302}{}{Arrggg. Doooommaaage. Salut.}
 {303}{}{Heu... Mince alors. C'est triste. Accepte mes condoléances. Salut.}
-{304}{}{Oh là là !}
+{304}{}{Oups !}
 {305}{}{Houpela ? T'as dit *Houpela* ? T'as rien à voir avec tout ça, n'est-ce pas ?}
 {306}{}{C'était un accident, j'le jure !}
 {307}{}{Bien sûr que non ! Saloperies de mutants !}

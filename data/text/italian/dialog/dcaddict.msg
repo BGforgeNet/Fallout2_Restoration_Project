@@ -76,7 +76,7 @@
 {358}{}{Eccolo!}
 {359}{}{Whoa, no! Stop! Aspetta! Okay, va' avanti.}
 {360}{}{Qui, qui... ahh...}
-{361}{}{Sì, tesoro!}
+{361}{}{Si', tesoro!}
 {362}{}{Cos'era?}
 {363}{}{Sasha? Dove sei, Sasha?}
 {364}{}{I colori stanno svanendo!}

@@ -181,9 +181,9 @@
 {442}{}{Smetti di giocare.}
 {443}{}{Smetti di giocare.}
 {1000}{}{Il gioco non sembra essere molto equilibrato.}
-{1001}{}{Le probabilità sembrano a favore.}
+{1001}{}{Le probabilita' sembrano a favore.}
 {1005}{}{Non puoi regolare con certezza le probabilita' di uscita dei numeri.}
-{1006}{}{Le probabilità sembrano essere corrette.}
+{1006}{}{Le probabilita' sembrano essere corrette.}
 {1010}{}{Le probabilita' sembrano giuste.}
 {1011}{}{Le probabilita' non sembrano giuste.}
 {1015}{}{Le probabilita' sembrano giuste.}

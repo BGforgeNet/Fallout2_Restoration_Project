@@ -19,9 +19,9 @@
 {251}{}{Certo, posso aiutarti. Dimmi di cosa hai bisogno.}
 {260}{}{Ah si', ora qui sembra molto meglio, grazie. La password e' ABRE. Basta parlare chiaramente alla porta e si
  aprira'. Ora, se tutti quanti volessero per favore...}
-{261}{}{Sì, ti abbiamo già sentito. Grazie per il codice. Addio.}
+{261}{}{Si', ti abbiamo gia' sentito. Grazie per il codice. Addio.}
 {270}{}{Salve di nuovo. Di cosa hai bisogno? Il complesso dell'EPA restera' chiuso per il prossimo futuro a causa della mancanza di personale.}
-{271}{}{Ora che ho più tempo, puoi dirmi cosa fai qui?}
+{271}{}{Ora che ho piu' tempo, puoi dirmi cosa fai qui?}
 {272}{}{Lasciamo stare.}
 {280}{}{Bentornato, visitatore. Al momento non c'e' alcun tour, ma se vuoi aspettare che arrivino abbastanza visitatori, saro' felice di organizzarne uno.}
 {281}{}{Non voglio fare un giro, grazie. Addio.}
@@ -35,15 +35,15 @@
 {310}{}{Pensi di poter sistemare l'illuminazione? Non e' appropriato per me condurre tour in un complesso cosi' poco illuminato.
  Se potessi rendere questo posto piu' luminoso, ti daro' la password. Per favore, ricordate di lavarvi accuratamente le mani
  dopo aver visitato il nostro zoo tattile.}
-{311}{}{D'accordo. Vedrò cosa posso fare.}
+{311}{}{D'accordo. Vedro' cosa posso fare.}
 {312}{}{Lascia stare. Non mi interessa.}
 {320}{}{Il complesso sembra ancora piuttosto cupo. Sistemarai le luci, vero? Ricordate visitatori, tutte le liberatorie devono essere firmate prima della fine del tour.}
 {321}{}{Non preoccuparti. Ci sto lavorando.}
-{322}{}{Me ne occuperò.}
+{322}{}{Me ne occupero'.}
 {330}{}{Avremmo piu' visitatori se i terreni fossero puliti.}
 {331}{}{Come dovrei fare le visite senza un'illuminazione adeguata?}
 {332}{}{Quelle piante stanno uccidendo tutti i potenziali turisti.}
 {333}{}{Tutti quei robot rotti sono *davvero* un brutto spettacolo.}
 {334}{}{10031, sei stato inutile per decenni.}
 {335}{}{Tutto quello che dico e' che questo posto deve essere piu' presentabile.}
-{336}{}{Distruggere il complesso non è la soluzione.}
+{336}{}{Distruggere il complesso non e' la soluzione.}

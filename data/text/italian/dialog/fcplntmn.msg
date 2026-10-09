@@ -11,15 +11,15 @@
 {304}{}{Aspettate. Chi e' il vostro maestro? E voi cosa siete, esattamente?}
 {310}{}{Non hai scelta, umano. O vieni a parlare con il Maestro, oppure ricorreremo alla violenza.}
 {311}{}{Allora balliamo.}
-{312}{}{D'accordo. Incontrerò il vostro maestro.}
-{320}{}{Il Maestro risponderà a tutte le domande. Ora vieni.}
+{312}{}{D'accordo. Incontrero' il vostro maestro.}
+{320}{}{Il Maestro rispondera' a tutte le domande. Ora vieni.}
 {321}{}{Non credo proprio.}
-{322}{}{D'accordo. Incontrerò il vostro maestro.}
+{322}{}{D'accordo. Incontrero' il vostro maestro.}
 {400}{}{Uuuhhhhh...}
 {401}{}{Grrraaah!}
 {402}{}{Hheesssss...}
 {403}{}{Ohhh...}
-{410}{}{Il Maestro dice che nessuno può entrare.}
+{410}{}{Il Maestro dice che nessuno puo' entrare.}
 {420}{}{Il Maestro dice che puoi entrare, umano.}
 {500}{}{Spruzzi la creatura e questa emette un gemito profondo. Parti della vegetazione che la ricopre cadono flosce a terra.}
 {501}{}{Spruzzi la creatura; emette un gemito profondo e si scioglie in una pozza davanti ai tuoi occhi.}

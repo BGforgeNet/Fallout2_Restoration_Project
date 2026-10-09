@@ -44,6 +44,6 @@
 {143}{}{Avete mai pensato che forse state trattenendo i vostri prigionieri illegalmente?}
 {144}{}{Non dovresti gironzolare da queste parti. Vattene.}
 {145}{}{Se mai riusciro' a scoprire dove sono scappati quei dannati prigionieri, le conseguenze saranno terribili!}
-{150}{}{Ma... ma... d’accordo. Sono fuori. La responsabilità è tua. Spero solo che tu abbia ragione. Ecco la... Ehi, dov’è finita la mia chiave!? Merda, Marcus mi farà a pezzi se l’ho persa. Scusa, devo andare.}
+{150}{}{Ma... ma... d’accordo. Sono fuori. La responsabilita' e' tua. Spero solo che tu abbia ragione. Ecco la... Ehi, dov’e' finita la mia chiave!? Merda, Marcus mi fara' a pezzi se l’ho persa. Scusa, devo andare.}
 {151}{}{Okay.}
-{152}{}{In realtà ti ho preso io quella chiave. Che vuoi farci?}
+{152}{}{In realta' ti ho preso io quella chiave. Che vuoi farci?}

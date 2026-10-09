@@ -159,7 +159,7 @@
 {530}{}{[Il prend l'échantillon.] Merci, je vais le détruire immédiatement. [Il soupire.] Je savais que le Dr. Sheng avait perdu l'esprit, mais je ne pensais pas qu'il essaierait de tuer son propre peuple. Nous devons nous occuper de lui immédiatement.}
 {531}{}{Je suis d'accord. C'est un vrai taré.}
 {540}{}{::Attrape sa poitrine:: Wahh.}
-{541}{}{Urgh.}
+{541}{}{Argh.}
 {542}{}{Dr. Wong !}
 {600}{}{Tu as éliminé le Dr. Sheng pour les Shis.}
 {601}{}{Tu as apporté l'extrait végétal au Dr.Wong.}

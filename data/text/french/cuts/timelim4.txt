@@ -1,6 +1,6 @@
-1:Etre Elu ?
-2:Etre Elu ?
-3:Etre Elu ? M'entends-tu ?
+1:Être Élu ?
+2:Être Élu ?
+3:M'entends-tu ?
 4:Le village se meurt.
 5:Tous nos avenirs meurent eux aussi.
 6:Il nous reste très peu de temps et d'essence.

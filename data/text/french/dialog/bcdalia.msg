@@ -1,7 +1,7 @@
 {100}{}{Tu vois une jeune femme vêtue de loques.}
 {101}{}{Tu vois Dalia.}
 {102}{}{Tu vois une jeune femme vêtue de loques. Elle a l'air sur le qui-vive et regarde avec attention autour d'elle.}
-{103}{}{Que puis-je faire pour toi ?}
+{103}{}{Salut. Mon prénom est Dalia. Que puis-je faire pour toi ?}
 {104}{}{Rien, moi dire juste bonjour.}
 {105}{}{Euh, qui toi ?}
 {106}{}{Quoi toi faire ?}
@@ -38,7 +38,7 @@
 {137}{}{Je ne veux pas me disputer avec toi. Laisse-moi.}
 {138}{}{}
 {139}{}{}
-{140}{}{Que puis-je faire pour toi ?}
+{140}{}{Salut. Mon prénom est Dalia. Que puis-je faire pour toi ?}
 {141}{}{Quelqu'un aller par là ? Très pressé ?}
 {142}{}{Rien.}
 {143}{}{Rien.}
@@ -50,7 +50,10 @@
 {149}{}{J'ai pas le temps de m'occuper de tes conneries.}
 {150}{}{Très bien, au revoir.}
 {151}{}{Ecoute, la vie d'une jeune fille est en jeu. La fille d'une mère inquiète. Peux-tu m'aider ?}
-{152}{}{J'en ai rien à cirer... Je suis juste ici pour garder le passage. A part ça, je ne sais pas ce qui se passe ici. J'avais une fille autrefois et... Ouais, un type est venu ici. Je l'ai laissé passer parce qu'il connaissait le code, comme toi. Allez, je m'en vais.}
+{152}{}{I don't give a radrat's ass... I'm sorry. I'm just a gun who was hired to stand here and guard
+ this trail. Other than that, I don't know what's going on around here. I had a daughter once, though,
+ and... yeah, some guy went by here. I let him through because he knew the proper sign... just like the
+ sign you gave me. Go on. I'm outta here. }
 {153}{}{Merci, moi pas oublier ça, Dalia.}
 {154}{}{Merci, je ne l'oublierai pas, Dalia.}
 {155}{}{Alors va au diable et lâche-moi !}

@@ -1,7 +1,7 @@
 {100}{}{Vedi un ghoul unto e sudato.}
 {101}{}{Vedi Eric.}
 {102}{}{Vedi un ghoul unto e sudato. Sembra essere in uno stato piuttosto miserabile.}
-{103}{}{Come se a questa città servisse altra sfortuna. Come se a me ne servisse altra.}
+{103}{}{Come se a questa citta' servisse altra sfortuna. Come se a me ne servisse altra.}
 {104}{}{Vuoi deciderti ad entrare?! E chiudi quella porta! Non fare entrare le mosche!}
 {105}{}{Losche? F-f-f!}
 {106}{}{D'accordo, d'accordo. Non c'e' bisogno di urlare.}
@@ -48,7 +48,7 @@
 {147}{}{Ti prego, non impiegarci troppo... non ne posso piu' di tutte queste mosche.}
 {148}{}{Certo. Ho delle altre domande.}
 {149}{}{Certo. Ti faro' sapere.}
-{150}{}{Grazie mille per la tua compassione. È sarcasmo, nel caso non l’avessi capito. Adesso levati da casa mia.}
+{150}{}{Grazie mille per la tua compassione. E' sarcasmo, nel caso non l’avessi capito. Adesso levati da casa mia.}
 {151}{}{Perche' non te ne vai all'inferno e crepi?}
 {152}{}{Addio, ragazzo-mosca!}
 {153}{}{Il generatore si trova sulla tua sinistra non appena entri a Broken Hills dalle Lande. E' gestito da un tipo di nome Brian, un fannullone figlio di puttana che cerca di fare meno lavoro possibile.}

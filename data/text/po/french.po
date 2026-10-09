@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-08-02 22:46+0000\n"
-"Last-Translator: HawK <hawkeye.falloutgen@gmail.com>\n"
+"PO-Revision-Date: 2026-10-08 15:31+0000\n"
+"Last-Translator: Michaël Pégeot <michael.pegeot@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/rp/fr/>\n"
 "Language: french\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: cuts/afailed.sve:10
 msgid "Chosen. The village dies. All of our futures die, too."
-msgstr "Etre Elu. Le village se meurt. Tous nos avenirs meurent eux aussi."
+msgstr "Être Elu. Le village se meurt. Tous nos avenirs meurent eux aussi."
 
 #: cuts/artimer1.sve:20
 msgid "Chosen, the spirits of our ancestors guide me to world of dreams"
@@ -89,8 +89,8 @@ msgid ""
 "RemindBoy message: Water supplies nearly gone in Vault 13.  Situation "
 "critical."
 msgstr ""
-"Message du Remind-Boy : réserves d'eau de l'Abri 13 bientôt à sec. Situation "
-"critique."
+"Message du Remind-Boy : réserves d'eau de l'Abri 13 presque épuisées. "
+"Situation critique."
 
 #: cuts/boil3.sve:1
 msgid ""
@@ -150,7 +150,7 @@ msgstr ""
 
 #: cuts/credits.sve:600
 msgid "Humanity was almost extinguished,"
-msgstr "L'humanité avait presque disparu."
+msgstr "L'humanité avait presque disparu,"
 
 #: cuts/credits.sve:630
 msgid ""
@@ -307,11 +307,11 @@ msgstr "Le village se meurt. Les signes ne manquent pas."
 
 #: cuts/elder.sve:170
 msgid "withering crops..."
-msgstr "nos récoltes s'assèchent,"
+msgstr "nos récoltes s'assèchent..."
 
 #: cuts/elder.sve:210
 msgid "dying brahmin..."
-msgstr "nos brahmines agonisent,"
+msgstr "nos brahmines agonisent..."
 
 #: cuts/elder.sve:310
 msgid "sick children."
@@ -1558,7 +1558,7 @@ msgstr ""
 #. indexed_txt
 #: cuts/nar_dth1.txt:1
 msgid "Rest in peace, Chosen One."
-msgstr "Repose en paix, Etre Elu"
+msgstr "Repose en paix, Être Elu."
 
 #. indexed_txt
 #: cuts/nar_dth2.txt:1
@@ -1936,7 +1936,7 @@ msgid ""
 "man, woman, and child they found."
 msgstr ""
 "Les Slags furent rapidement vaincus et les résidents de Modoc massacrèrent "
-"un par un tous les hommes, femmes et enfants qu'ils trouvèrent"
+"un par un tous les hommes, femmes et enfants qu'ils trouvèrent."
 
 #. indexed_txt
 #: cuts/nar_mo2.txt:3
@@ -2120,7 +2120,7 @@ msgid ""
 "Some say the destruction of New Reno was a judgment from a higher power."
 msgstr ""
 "Certains avancent que la destruction de New Reno était le châtiment d'une "
-"puissance supérieure"
+"puissance supérieure."
 
 #. indexed_txt
 #: cuts/nar_nr10.txt:1
@@ -2230,7 +2230,7 @@ msgstr ""
 #. indexed_txt
 #: cuts/nar_nr2.txt:2
 msgid "They were few in number but surprisingly resourceful."
-msgstr "Ils étaient peu nombreux mais incroyablement ingénieux"
+msgstr "Ils étaient peu nombreux mais incroyablement ingénieux."
 
 #. indexed_txt
 #: cuts/nar_nr2.txt:3
@@ -2752,7 +2752,7 @@ msgstr ""
 #. indexed_txt
 #: cuts/nar_vc1a.txt:1 cuts/nar_vc1b.txt:1
 msgid "The slaughter of Vault City has become the stuff of legend."
-msgstr "Le massacre de la Cité de l'Abri est entré dans la légende"
+msgstr "Le massacre de la Cité de l'Abri est entré dans la légende."
 
 #. indexed_txt
 #: cuts/nar_vc1a.txt:2 cuts/nar_vc1b.txt:2
@@ -3000,8 +3000,7 @@ msgstr "Mais les blessures laissées par la guerre n'ont pas encore cicatrisé."
 #. indexed_txt
 #: cuts/narrate.txt:30
 msgid "The wounds run deep, and now they are being felt in Arroyo."
-msgstr ""
-"Les blessures sont profondes et maintenant elles se font sentir à Arroyo."
+msgstr "Les blessures étaient profondes, et atteignaient maintenant Arroyo."
 
 #. indexed_txt
 #: cuts/narrate.txt:31
@@ -3114,7 +3113,7 @@ msgid ""
 "Chosen, the spirits [of our] ancestors guide [me] to world of dreams that [I "
 "may] touch [thoughts.]"
 msgstr ""
-"Etre Elu, les esprits de nos ancêtres me guident vers le monde des rêves que "
+"Être Elu, les esprits de nos ancêtres me guident vers le monde des rêves que "
 "je pourrais toucher par pensées."
 
 #. indexed_txt
@@ -3150,7 +3149,7 @@ msgstr "Ton échec est notre..."
 #. indexed_txt
 #: cuts/timelim3.txt:1
 msgid "Chosen. The village [weakens.]"
-msgstr "Etre Elu. Le village s'affaiblit."
+msgstr "Être Elu. Le village s'affaiblit."
 
 #. indexed_txt
 #: cuts/timelim3.txt:2
@@ -3165,12 +3164,12 @@ msgstr "Tu dois faire vite ou nous allons tous..."
 #. indexed_txt
 #: cuts/timelim4.txt:1 cuts/timelim4.txt:2
 msgid "Chosen?"
-msgstr "Etre Elu ?"
+msgstr "Être Élu ?"
 
 #. indexed_txt
 #: cuts/timelim4.txt:3
 msgid "Do you hear me?"
-msgstr "Etre Elu ? M'entends-tu ?"
+msgstr "M'entends-tu ?"
 
 #. indexed_txt
 #: cuts/timelim4.txt:4
@@ -3256,10 +3255,15 @@ msgid ""
 "you should ask, I just might have something that\n"
 " would interest your friend here."
 msgstr ""
-"Hé hé, oui les habitants de l'Abbaye aiment collectionner les objets. C'est "
-"notre façon de nous remémorer le passé. [Il regarde Marcus.] C'est marrant "
-"que tu me demandes ça, car j'ai peut-être quelque chose qui pourrait "
-"t'intéresser."
+"Hé hé, alors tu as remarqué ça, hein ? Ouais, les habitants de l'Abbaye ont "
+"une certaine fascination pour tout ce qui date d'avant-guerre, surtout quand "
+"il s'agit de technologie. Ils ont créé une sorte de religion farfelue autour "
+"de ça. Je ne la comprends pas vraiment, moi-même, mais ce sont des gens "
+"sympathiques et ils paient bien pour tout objet d'avant-guerre que je "
+"parviens à récupérer. Mais bref, pour ce qui est de quelque chose de "
+"spécial... hmm, [Il jette un regard à Marcus.] C'est marrant que tu me poses "
+"la question, j'ai peut-être quelque chose qui pourrait intéresser ton ami "
+"ici."
 
 #: dialog/abbill.msg:212
 msgid ""
@@ -3273,14 +3277,19 @@ msgid ""
 "don't think I have anything special you'd find\n"
 " useful right now."
 msgstr ""
-"Hé hé, oui les habitants de l'Abbaye aiment collectionner les objets. C'est "
-"notre façon de nous remémorer le passé. [Il te regarde toi et tes "
-"compagnons.] Désolé, je ne pense pas avoir quelque chose qui pourrait t'être "
-"utile pour le moment."
+"Hé hé, alors tu as remarqué ça, hein ? Ouais, les habitants de l'Abbaye ont "
+"une certaine fascination pour tout ce qui date d'avant-guerre, surtout quand "
+"il s'agit de technologie. Ils ont créé une sorte de religion farfelue autour "
+"de ça. Je ne la comprends pas vraiment, moi-même, mais ce sont des gens "
+"sympathiques et ils paient bien pour tout objet d'avant-guerre que je "
+"parviens à récupérer. Mais bref, pour ce qui est de quelque chose de "
+"spécial... hmm, [Il jette un regard à Marcus.] C'est marrant que tu me poses "
+"la question, j'ai peut-être quelque chose qui pourrait intéresser ton ami "
+"ici."
 
 #: dialog/abbill.msg:213
 msgid "Oh, well. Let's see what you have in stock instead."
-msgstr "Oh, d'accord. Puis-je voir ce que vous avez en stock à la place ?"
+msgstr "Oh, d'accord. Voyons ce que vous avez en stock à la place."
 
 #: dialog/abbill.msg:214
 msgid "That's alright. Let me ask you something else."
@@ -3732,7 +3741,7 @@ msgid ""
 " a trap in the doorframe."
 msgstr ""
 "Tu vois une porte solide sans dispositif de verrouillage apparent et un "
-"piège placé sur l'encadrement de la porte"
+"piège placé dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:125 dialog/bselev.msg:125 dialog/door.msg:125
 #: dialog/sislvdor.msg:125
@@ -3740,16 +3749,16 @@ msgid ""
 "You see a sturdy door with an old, rusty lock and a trap\n"
 " in the doorframe."
 msgstr ""
-"Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé sur "
-"l'encadrement de la porte."
+"Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé "
+"dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:126 dialog/door.msg:126
 msgid ""
 "You see a sturdy door with a lock (which can be picked with\n"
 " lockpicks) and a cut wire in the doorframe."
 msgstr ""
-"Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-"
-"partout) et un fil sectionné sur l'encadrement de la porte."
+"Tu vois une porte solide avec un verrou (pouvant être crocheté avec un passe-"
+"partout) et un fil coupé dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:127 dialog/bselev.msg:127 dialog/door.msg:127
 #: dialog/sislvdor.msg:127
@@ -3757,7 +3766,7 @@ msgid ""
 "You see a sturdy door with a lock on it and a severed wire\n"
 " in the doorframe."
 msgstr ""
-"Tu vois une porte robuste avec un verrou et un fil sectionné sur "
+"Tu vois une porte robuste avec un verrou et un fil sectionné dans "
 "l'encadrement de la porte."
 
 #: dialog/abdoor.msg:128 dialog/bselev.msg:128 dialog/door.msg:128
@@ -3767,7 +3776,7 @@ msgid ""
 " a severed wire in the doorframe."
 msgstr ""
 "Tu vois une porte solide sans dispositif de verrouillage apparent et un fil "
-"sectionné sur l'encadrement de la porte."
+"sectionné dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:129 dialog/bselev.msg:129 dialog/door.msg:129
 #: dialog/sislvdor.msg:129
@@ -3775,15 +3784,15 @@ msgid ""
 "You see a sturdy door with an old, rusty lock and a cut\n"
 " wire in the doorframe."
 msgstr ""
-"Tu vois une porte solide avec un vieux verrou rouillé et un fil sectionné "
-"sur l'encadrement de la porte."
+"Tu vois une porte solide avec un vieux verrou rouillé et un fil coupé dans "
+"l'encadrement de la porte."
 
 #: dialog/abdoor.msg:130 dialog/door.msg:130
 msgid ""
 "You see a sturdy door with a lock (which can be picked with\n"
 " lockpicks) on it."
 msgstr ""
-"Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-"
+"Tu vois une porte solide avec un verrou (pouvant être crocheté avec un passe-"
 "partout)."
 
 #: dialog/abdoor.msg:131 dialog/bselev.msg:131 dialog/door.msg:131
@@ -3806,8 +3815,8 @@ msgid ""
 "You see a damaged door with a lock (which can be picked with\n"
 " lockpicks) and a highly explosive trap in the doorframe."
 msgstr ""
-"Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-"
-"partout) et un piège hautement explosif sur l'encadrement de la porte."
+"Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-"
+"partout) et un piège hautement explosif dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:135 dialog/bselev.msg:135 dialog/door.msg:135
 #: dialog/sislvdor.msg:135
@@ -3815,7 +3824,7 @@ msgid ""
 "You see a damaged door with a lock on it and a highly\n"
 " explosive trap in the doorframe."
 msgstr ""
-"Tu vois une porte abîmée avec un verrou et un piège hautement explosif sur "
+"Tu vois une porte abîmée avec un verrou et un piège hautement explosif dans "
 "l'encadrement de la porte."
 
 #: dialog/abdoor.msg:136 dialog/bselev.msg:136 dialog/door.msg:136
@@ -3825,7 +3834,7 @@ msgid ""
 " a highly explosive trap in the doorframe."
 msgstr ""
 "Tu vois une porte abîmée sans dispositif de verrouillage apparent et un "
-"piège hautement explosif sur l'encadrement de la porte."
+"piège hautement explosif dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:137 dialog/bselev.msg:137 dialog/door.msg:137
 #: dialog/sislvdor.msg:137
@@ -3834,15 +3843,15 @@ msgid ""
 " explosive trap in the doorframe."
 msgstr ""
 "Tu vois une porte abîmée avec un vieux verrou rouillé et un piège hautement "
-"explosif sur l'encadrement de la porte."
+"explosif dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:138 dialog/door.msg:138
 msgid ""
 "You see a damaged door with a lock (which can be picked with\n"
 " lockpicks) and a trap in the doorframe."
 msgstr ""
-"Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-"
-"partout) et un piège sur l'encadrement de la porte."
+"Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-"
+"partout) et un piège dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:139 dialog/bselev.msg:139 dialog/door.msg:139
 #: dialog/sislvdor.msg:139
@@ -3850,7 +3859,7 @@ msgid ""
 "You see a damaged door with a lock on it and a trap in\n"
 " the doorframe."
 msgstr ""
-"Tu vois une porte abîmée avec un verrou et un piège sur l'encadrement de la "
+"Tu vois une porte abîmée avec un verrou et un piège dans l'encadrement de la "
 "porte."
 
 #: dialog/abdoor.msg:140 dialog/bselev.msg:140 dialog/door.msg:140
@@ -3860,7 +3869,7 @@ msgid ""
 " a trap in the doorframe."
 msgstr ""
 "Tu vois une porte abîmée sans dispositif de verrouillage apparent et un "
-"piège sur l'encadrement de la porte."
+"piège dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:141 dialog/bselev.msg:141 dialog/door.msg:141
 #: dialog/sislvdor.msg:141
@@ -3868,7 +3877,7 @@ msgid ""
 "You see a damaged door with an old, rusty lock and a trap\n"
 " in the doorframe."
 msgstr ""
-"Tu vois une porte abîmée avec un vieux verrou rouillé et un piège sur sur "
+"Tu vois une porte abîmée avec un vieux verrou rouillé et un piège dans "
 "l'encadrement de la porte."
 
 #: dialog/abdoor.msg:142 dialog/door.msg:142
@@ -3876,8 +3885,8 @@ msgid ""
 "You see a damaged door with a lock (which can be picked with\n"
 " lockpicks) and a cut wire in the doorframe."
 msgstr ""
-"Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-"
-"partout) et un fil sectionné sur l'encadrement de la porte."
+"Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-"
+"partout) et un fil coupé dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:143 dialog/bselev.msg:143 dialog/door.msg:143
 #: dialog/sislvdor.msg:143
@@ -3885,7 +3894,7 @@ msgid ""
 "You see a damaged door with a lock on it and a severed wire\n"
 " in the doorframe."
 msgstr ""
-"Tu vois une porte abîmée avec un verrou et un fil sectionné sur "
+"Tu vois une porte abîmée avec un verrou et un fil sectionné dans "
 "l'encadrement de la porte."
 
 #: dialog/abdoor.msg:144 dialog/bselev.msg:144 dialog/door.msg:144
@@ -3895,7 +3904,7 @@ msgid ""
 " a severed wire in the doorframe."
 msgstr ""
 "Tu vois une porte abîmée sans dispositif de verrouillage apparent et un fil "
-"sectionné sur l'encadrement de la porte."
+"sectionné dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:145 dialog/bselev.msg:145 dialog/door.msg:145
 #: dialog/sislvdor.msg:145
@@ -3903,15 +3912,15 @@ msgid ""
 "You see a damaged door with an old, rusty lock and a cut\n"
 " wire in the doorframe."
 msgstr ""
-"Tu vois une porte abîmée avec un vieux verrou rouillé et un fil sectionné "
-"sur l'encadrement de la porte."
+"Tu vois une porte abîmée avec un vieux verrou rouillé et un fil coupé dans "
+"l'encadrement de la porte."
 
 #: dialog/abdoor.msg:146 dialog/door.msg:146
 msgid ""
 "You see a damaged door with a lock (which can be picked with\n"
 " lockpicks)."
 msgstr ""
-"Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-"
+"Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-"
 "partout)."
 
 #: dialog/abdoor.msg:147 dialog/bselev.msg:147 dialog/door.msg:147
@@ -3953,7 +3962,7 @@ msgid ""
 " a highly explosive trap in the doorframe."
 msgstr ""
 "Tu vois une vieille porte sans dispositif de verrouillage apparent et un "
-"piège hautement explosif sur sur l'encadrement de la porte."
+"piège hautement explosif dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:153 dialog/bselev.msg:153 dialog/door.msg:153
 #: dialog/sislvdor.msg:153
@@ -4055,7 +4064,7 @@ msgstr "Tu vois une vieille porte sans dispositif de verrouillage apparent."
 #: dialog/abdoor.msg:165 dialog/bselev.msg:165 dialog/door.msg:165
 #: dialog/sislvdor.msg:165
 msgid "You see an old door with an old, rusty lock."
-msgstr "Tu vois une vieille porte munie d'un vieux verrou rouillé. "
+msgstr "Tu vois une vieille porte munie d'un vieux verrou rouillé."
 
 #: dialog/abdoor.msg:166 dialog/bselev.msg:166 dialog/containr.msg:166
 #: dialog/cstouch.msg:166 dialog/door.msg:166 dialog/sislvdor.msg:166
@@ -4788,7 +4797,7 @@ msgstr ""
 
 #: dialog/abguard.msg:303
 msgid "That is a nice arrangement. Let me ask you something else."
-msgstr "C'est un bon arrangement. Puis-je te demander autre chose ?"
+msgstr "C'est un bon arrangement. Laisse te demander autre chose."
 
 #: dialog/abguard.msg:304
 msgid "Whatever, goodbye."
@@ -5075,7 +5084,7 @@ msgstr "[La garder]"
 
 #: dialog/abhank.msg:300
 msgid "Where did I put my lighter?"
-msgstr "Bordel où ai-je mis mon briquet."
+msgstr "Bordel où j'ai mis mon briquet?"
 
 #: dialog/abhank.msg:301
 msgid "I need a lighter."
@@ -5083,7 +5092,7 @@ msgstr "J'ai besoin d'un briquet."
 
 #: dialog/abhank.msg:302
 msgid "COULD SOMEONE BRING ME A LIGHTER!?"
-msgstr "QUE QUELQU'UN M'APPORTE UN FOUTU BRIQUET."
+msgstr "QUELQU'UN M'APPORTE UN FOUTU BRIQUET!?"
 
 #: dialog/abhank.msg:303
 msgid "Uh, hi there."
@@ -5240,7 +5249,7 @@ msgstr "Merci."
 #: dialog/amonk2.msg:500 dialog/amonk3.msg:500 dialog/amonk4.msg:500
 #: dialog/mcfarrel.msg:151
 msgid "Stop that!"
-msgstr "Arrête ça! "
+msgstr "Arrête ça!"
 
 #: dialog/abhealer.msg:403 dialog/abhealer.msg:406
 msgid "[GO ON]"
@@ -5278,7 +5287,7 @@ msgid ""
 "sick fuck?"
 msgstr ""
 "Tu as gagné %d points d'expérience pour avoir fait fondre Jack. T'es content "
-"maintenant, enfoiré !"
+"maintenant, enfoiré?"
 
 #: dialog/abhealer.msg:600
 msgid ""
@@ -5626,8 +5635,8 @@ msgstr ""
 "dans la base de données de notre ordinateur. Si quelqu'un venait à formater "
 "*accidentellement* la base de données, ils perdraient tout leur travail. Je "
 "pense que quelque chose comme ça pourrait pourrait les faire revenir à la "
-"réalité, et nous pourrions enfin nous débarrasser de cette stupide manière "
-"de vivre. Alors qu'en penses-tu ?"
+"réalité, et nous pourrions enfin nous débarrasser de cette manière de vivre "
+"débile. Alors qu'en penses-tu ?"
 
 #: dialog/abjason.msg:261 dialog/abjason.msg:271
 msgid "I say that's a terrible idea and that I'm done talking to you."
@@ -5979,7 +5988,7 @@ msgstr ""
 "beaucoup plus tolérables. Quoi qu'il en soit, merci beaucoup de m'avoir "
 "amené ici. Tiens j'ai... humm... emprunté ceci à l'abbaye Memorabilia, coup "
 "de chance, c'est une des dernières reliques technologiques encore en état de "
-"fonctionner. [Il te tend un Stealth Boy] A plus !"
+"fonctionner. [Il te tend un Stealth Boy] A plus."
 
 #: dialog/abjason.msg:373 dialog/bcjones.msg:138 dialog/dcbilly.msg:167
 #: dialog/dccaesar.msg:239 dialog/dcfranki.msg:233 dialog/dclara.msg:232
@@ -6033,7 +6042,7 @@ msgstr ""
 "amené ici. Tiens... [Il met la main dans sa poche, puis fronce les sourcils.]"
 " Nom de dieu ? J'étais sûr de l'avoir. Heu, désolé, il semblerait que j'aie "
 "oublié de prendre ta récompense, tu vas devoir te contenter d'un simple "
-"remerciement. A plus !"
+"remerciement. A plus."
 
 #: dialog/abjason.msg:381
 msgid "Oh, uh, don't worry about it. Just glad I could help. Bye."
@@ -6255,7 +6264,7 @@ msgstr ""
 
 #: dialog/abjunk.msg:102
 msgid "There is nothing of use here."
-msgstr "Il n'y a rien d'utile ici"
+msgstr "Il n'y a rien d'utile ici."
 
 #: dialog/abmatt.msg:100
 msgid "You see a middle aged monk."
@@ -6731,7 +6740,7 @@ msgid ""
 " real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. "
 msgstr ""
 "[Il te regarde un moment, puis soupire lentement.] Pardon l'ami, ce machin "
-"va me rendre fou, j'y ai passé la journée. Je ne voulais pas te vexer."
+"va me rendre fou, j'y ai passé la journée. Je ne voulais pas te vexer. "
 
 #: dialog/abmerch1.msg:321
 msgid "Well, what seems to be the problem then?"
@@ -6963,7 +6972,7 @@ msgstr "Tu vois un paysan en bonne santé."
 
 #: dialog/abpeople.msg:102
 msgid "You see a person."
-msgstr "Tu vois une personne"
+msgstr "Tu vois une personne."
 
 #: dialog/abpeople.msg:103
 msgid "Drinking too much booze lately?"
@@ -7579,7 +7588,7 @@ msgid ""
 msgstr ""
 "[Sous le choc, il ouvre grand ses yeux et il a l'air d'avoir soudainement "
 "dessoûlé.] C'est pas ce que je voulais dire, espèce de... de MONSTRE ! "
-"PERVERS ! Ne m'approche pas !"
+"PERVERS ! Ne m'approche pas ! "
 
 #: dialog/absamuel.msg:421
 msgid "Whatever, you drunk old fuck. You don't know what you're missing."
@@ -7744,24 +7753,24 @@ msgstr ""
 
 #: dialog/absamuel.msg:1000 dialog/abtom.msg:308
 msgid "*Whistle*"
-msgstr "::Siffle::"
+msgstr "*Siffle*"
 
 #: dialog/absamuel.msg:1001 dialog/ncbigjes.msg:211 dialog/ncsalvat.msg:202
 msgid "*Cough* *Cough*"
-msgstr "::Toux:: ::Toux::"
+msgstr "*Tousse* *Tousse*"
 
 #: dialog/absamuel.msg:1002
 msgid "*Clears throat*"
-msgstr "::Raclement de gorge::"
+msgstr "*Racle sa gorge*"
 
 #: dialog/absamuel.msg:1003 dialog/ncsalvat.msg:200
 msgid "*Cough*"
-msgstr "::Tousse::"
+msgstr "*Tousse*"
 
 #: dialog/absamuel.msg:1004 dialog/ecredhro.msg:114 dialog/ncethwri.msg:200
 #: dialog/nclabish.msg:480
 msgid "*Sigh*"
-msgstr "::Soupir::"
+msgstr "*Soupir*"
 
 #: dialog/absamuel.msg:1005
 msgid "*Hickup*"
@@ -7869,7 +7878,7 @@ msgstr ""
 
 #: dialog/abtom.msg:203
 msgid "Not when he's slinking around like a thief and carrying a shovel."
-msgstr "Pas d'où je viens. Alors, pourquoi tu as besoin d'une pelle ?"
+msgstr "Pas quand il rôde comme un voleur avec une pelle."
 
 #: dialog/abtom.msg:204
 msgid "Alright fine, but why are you carrying a shovel?"
@@ -8628,7 +8637,7 @@ msgstr "C'est vrai. Tu en veux, c'est ça ?"
 
 #: dialog/acmorlis.msg:108
 msgid "Well, yeah."
-msgstr "Euh... oui ?"
+msgstr "Ben, ouais."
 
 #: dialog/acmorlis.msg:109
 msgid ""
@@ -8715,12 +8724,13 @@ msgid ""
 "Well... Oh, very well. Here is the flint. I wish you a safe journey, child. "
 msgstr ""
 "Eh bien... Bon, d'accord. Voilà le silex. Je te souhaite un bon voyage, "
-"petit."
+"petit. "
 
 #: dialog/acmorlis.msg:155
 msgid "No, I don't. Now stop wasting my time and get out of here!"
 msgstr ""
-"C'est hors de question. Arrête de me faire perdre mon temps et fiche le camp."
+"C'est hors de question. Arrête de me faire perdre mon temps et fiche le camp "
+"!"
 
 #: dialog/acmorlis.msg:200
 msgid "So you've returned. Did you find the holy Thirteen?"
@@ -8753,7 +8763,7 @@ msgid ""
 msgstr ""
 "Alors débarrasse-moi le plancher et ne reviens pas avant de l'avoir trouvé ! "
 "Pourquoi perdre ton temps à revenir ici alors que tu pourrais l'utiliser "
-"pour poursuivre tes recherches !"
+"pour poursuivre tes recherches ?!"
 
 #: dialog/acmorlis.msg:208
 msgid ""
@@ -9369,7 +9379,7 @@ msgstr "Moi faire mon mieux. Moi trouver J.E.K. Moi revenir."
 msgid "Why can't we trade with other villages for the food we need? "
 msgstr ""
 "Pourquoi ne pas traiter avec les autres villages pour la nourriture dont "
-"nous avons besoin ?"
+"nous avons besoin ? "
 
 #: dialog/acmynoc.msg:408
 msgid "I'm doing my best. When I find the GECK I'll return with it."
@@ -9827,7 +9837,7 @@ msgstr "Fondatrice"
 #: dialog/acmynoc.msg:1002 dialog/acvillgr.msg:1002 dialog/acwarior.msg:1002
 #: dialog/kchild.msg:1002 dialog/kcitizen.msg:1002
 msgid "Vault Dweller"
-msgstr "Habitant de l'Abri "
+msgstr "Habitant de l'Abri"
 
 #: dialog/acmynoc.msg:1003 dialog/acvillgr.msg:1003 dialog/acwarior.msg:1003
 #: dialog/eccvnmst.msg:200 dialog/kchild.msg:1003 dialog/kcitizen.msg:1003
@@ -9895,7 +9905,7 @@ msgstr "Notre illustre ancêtre qui nous a légué le savoir."
 #: dialog/acmynoc.msg:1102 dialog/acvillgr.msg:1102 dialog/acwarior.msg:1102
 #: dialog/kchild.msg:1102 dialog/kcitizen.msg:1102
 msgid "The first to fight and win over chaos."
-msgstr "La première à avoir combattu et vaincu le chaos. "
+msgstr "La première à avoir combattu et vaincu le chaos."
 
 #: dialog/acmynoc.msg:1103 dialog/acvillgr.msg:1103 dialog/acwarior.msg:1103
 #: dialog/kchild.msg:1103 dialog/kcitizen.msg:1103
@@ -10044,8 +10054,8 @@ msgid ""
 "You're just saying that 'cause you don't wanna look! I don't care what\n"
 " Morlis says, I'm going to find him."
 msgstr ""
-"Tu dis ça pass'que tu veux pas chercher ! Je m'en tape de c'que Morlis dit ! "
-"Je vais aller le chercher moi-même !"
+"Tu dis ça pass'que tu veux pas chercher ! Je m'en tape de c'que Morlis dit, "
+"je vais aller le chercher moi-même."
 
 #: dialog/acnagor.msg:121
 msgid ""
@@ -10514,7 +10524,7 @@ msgstr "Ohhh ! Jolies couleurs."
 
 #: dialog/acompu.msg:302 dialog/ecbridge.msg:106 dialog/ecbridge.msg:114
 msgid "Shamble off."
-msgstr "[S'éclipser.]"
+msgstr "[S'éclipser]"
 
 #: dialog/acompu.msg:401
 msgid "Return to menu."
@@ -10546,7 +10556,7 @@ msgstr "[Utilisation des armes]"
 
 #: dialog/acompu.msg:408
 msgid "Persuasive Arguments."
-msgstr "[Parler en public]"
+msgstr "[Arguments persuasifs]"
 
 #: dialog/acompu.msg:410
 msgid "After a few hours of reading you learn more about the art of science."
@@ -10763,7 +10773,7 @@ msgstr "J'ai besoin d'un moment pour me préparer."
 
 #: dialog/actemvil.msg:111
 msgid "What would you like to know? "
-msgstr "Que voudrais-tu savoir ?"
+msgstr "Que voudrais-tu savoir ? "
 
 #: dialog/actemvil.msg:112
 msgid "Why we fight?"
@@ -10958,7 +10968,7 @@ msgstr "?"
 
 #: dialog/actemvil.msg:141
 msgid "Me ready. "
-msgstr "Quand tu veux."
+msgstr "Moi prêt. "
 
 #: dialog/actemvil.msg:142
 msgid "Me not ready yet."
@@ -11142,9 +11152,10 @@ msgid ""
 "for protection. With your permission I will teach you a few things that I "
 "think you will find most useful."
 msgstr ""
-"Etre Elu, j'ai remarqué que tes compétences au combat étaient loin d'être "
-"parfaites. Je sais, par expérience, que tu ne peux pas compter que sur toi-"
-"même"
+"Être Elu, j'ai remarqué que tes compétences au combat étaient loin d'être "
+"parfaites. Je sais, par expérience, qu'on ne peut pas toujours compter sur "
+"son intelligence ou ses paroles pour se protéger. Avec ta permission, je "
+"vais t'enseigner quelques choses qui, je pense, te seront très utiles."
 
 #: dialog/actemvil.msg:303
 msgid "Yes, you teach."
@@ -11168,9 +11179,10 @@ msgid ""
 "fight now. However, remember that even the strongest of warriors must "
 "sometimes retreat. There is no shame in living to fight another day."
 msgstr ""
-"Tu apprends vite, Etre Elu. Je pense que tu devrais savoir te battre "
-"maintenant. Mais n'oublie pas que même les meilleurs guerriers doivent faire "
-"preuve de prudence"
+"Tu apprends vite, Être Elu. Je pense que tu devrais savoir te battre "
+"maintenant. Cependant, n’oublie pas que même les guerriers les plus "
+"puissants doivent parfois battre en retraite. Il n’y a aucune honte à rester "
+"en vie pour combattre un autre jour."
 
 #: dialog/actemvil.msg:308 dialog/actemvil.msg:311
 msgid "Me thank you, Cameron."
@@ -11287,7 +11299,7 @@ msgstr "Ca fait plaisir de te voir, mais je dois partir."
 
 #: dialog/acvillgr.msg:156
 msgid "Gods protect you on your journey."
-msgstr "Que les dieux te protègent au cours de ton voyage !"
+msgstr "Que les dieux te protègent au cours de ton voyage."
 
 #: dialog/acvillgr.msg:157 dialog/acwarior.msg:157
 msgid "I do have a question for you."
@@ -11780,10 +11792,10 @@ msgid ""
 " The disk will remind you of your task. May the gods of the Vault watch over "
 "you."
 msgstr ""
-"Ecoute bien. Trouve l'Abri 13 et rapporte le J.E.K Vic, le marchand de "
+"Ecoute bien. Trouve le saint Abri 13 et rapporte le JEK. Vic, le marchand de "
 "Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes "
 "recherches avec lui. Le disque te rappellera ta mission. Que les dieux de "
-"l'Abri soient avec toi !"
+"l'Abri soient avec toi."
 
 #: dialog/ahelder.msg:133
 msgid "Before I go, I have some questions."
@@ -11867,7 +11879,7 @@ msgid ""
 " the sound of a perilous journey. "
 msgstr ""
 "Le Saint-Treize ? Je ne peux t'aider. Seul l'Habitant de l'Abri savait. Ses "
-"contes parlaient d'un périlleux voyage."
+"contes parlaient d'un périlleux voyage. "
 
 #: dialog/ahelder.msg:150
 msgid "I see. There is much I need to know."
@@ -11888,7 +11900,7 @@ msgstr ""
 
 #: dialog/ahelder.msg:153
 msgid "Not so fast, old woman. I need time to think about this!"
-msgstr "Pas si vite, vieille femme. Je dois y réfléchir."
+msgstr "Pas si vite, vieille femme. Je dois y réfléchir !"
 
 #: dialog/ahelder.msg:154
 msgid "As you wish, Elder."
@@ -12003,7 +12015,7 @@ msgstr "Tu peux compter sur moi, doyenne."
 
 #: dialog/ahelder.msg:173
 msgid "Look. If you think you can do better... "
-msgstr "Ecoute. Si tu crois pouvoir faire mieux..."
+msgstr "Ecoute. Si tu crois pouvoir faire mieux... "
 
 #: dialog/ahelder.msg:174
 msgctxt "aeld19"
@@ -12119,7 +12131,7 @@ msgstr ""
 
 #: dialog/ahelder.msg:211
 msgid "I have a ship. "
-msgstr "J'ai un navire."
+msgstr "J'ai un navire. "
 
 #: dialog/ahelder.msg:212
 msgctxt "eeld5"
@@ -12130,7 +12142,7 @@ msgid ""
 msgstr ""
 "Des hommes sont venus au village et nous ont emmenés dans leurs machines "
 "volantes. Il y avait aussi des gens du Saint-Treize ! Je croyais qu'on était "
-"sauvés. J'ai pensé que nous allions au paradis."
+"sauvés. J'ai pensé que nous allions au paradis. (soupir)"
 
 #: dialog/ahelder.msg:213 dialog/ahhakun.msg:289
 msgid "And then?"
@@ -12146,7 +12158,7 @@ msgid ""
 msgstr ""
 "Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous "
 "avec de l'effeuvé. Ils nous tueront, jusqu'au dernier ! Tu sais ce que tu "
-"dois faire, Etre Elu."
+"dois faire, Être Elu."
 
 #: dialog/ahelder.msg:215
 msgid "Effeevee?"
@@ -12159,7 +12171,7 @@ msgid ""
 "of us left. "
 msgstr ""
 "Si tu détruis la machine, nous trouverons le navire. Dépêche-toi. Nous ne "
-"sommes plus bien nombreux."
+"sommes plus bien nombreux. "
 
 #: dialog/ahelder.msg:219 dialog/ahhakun.msg:249 dialog/kcardin.msg:272
 #: dialog/nclabish.msg:736 dialog/tribec4.msg:231
@@ -12193,7 +12205,7 @@ msgstr "Excuse-moi, tu n'es pas une vieille peau. Que se passe-t-il ?"
 
 #: dialog/ahelder.msg:225
 msgid "Like you could help me in there? Fuck off and die."
-msgstr "Pff, comme si tu pouvais m'aider... Tu peux crever !"
+msgstr "Pff, tu pourrais peut-être m'aider, non ? Va te faire foutre et crève."
 
 #: dialog/ahelder.msg:226
 msgctxt "eeld9"
@@ -12328,22 +12340,22 @@ msgstr ""
 
 #: dialog/ahhakun.msg:105 dialog/ahhakun.msg:112
 msgid "Uh? "
-msgstr "Euh ?"
+msgstr "Euh ? "
 
 #: dialog/ahhakun.msg:106 dialog/ahhakun.msg:113
 msgid "I've come to say goodbye. I'm leaving on my holy quest. "
-msgstr "Je suis là pour te dire au revoir. Je vais mener ma sainte quête."
+msgstr "Je suis là pour te dire au revoir. Je vais mener ma sainte quête. "
 
 #: dialog/ahhakun.msg:107 dialog/ahhakun.msg:114
 msgid ""
 "I'm heading out. I was hoping just this once you'd talk like a real person. "
 msgstr ""
 "Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie "
-"personne."
+"personne. "
 
 #: dialog/ahhakun.msg:108 dialog/ahhakun.msg:115
 msgid "You are doing just way too many drugs. I'm outta here. "
-msgstr "Tu as ingurgité trop de stimulants. Je m'en vais."
+msgstr "Tu prends vraiment beaucoup trop de drogue. Je me tire d'ici. "
 
 #: dialog/ahhakun.msg:109 dialog/ahhakun.msg:178
 msgid "I'm hurt. Can you heal me?"
@@ -12415,7 +12427,7 @@ msgstr ""
 
 #: dialog/ahhakun.msg:124
 msgid "Uh-huh. "
-msgstr "Uh-huh."
+msgstr "Euh, ouais. "
 
 #: dialog/ahhakun.msg:125
 msgid "Nuh-uh. Youuu. Giv. Hed hurt."
@@ -12432,7 +12444,7 @@ msgstr ""
 
 #: dialog/ahhakun.msg:127 dialog/fcdrwong.msg:541
 msgid "Urgh."
-msgstr "Urgh."
+msgstr "Argh."
 
 #: dialog/ahhakun.msg:128
 msgctxt "hak005"
@@ -12545,7 +12557,7 @@ msgstr "Merci. J'ai bien compris ça."
 #: dialog/ahhakun.msg:146
 msgid ""
 "Are you calling me a fool? I don't think I want to help you, after all. "
-msgstr "Tu me traites de créature ? Eh bien dans ce cas, je refuse de t'aider."
+msgstr "Tu me traites de créature ? Eh bien dans ce cas, je refuse de t'aider. "
 
 #: dialog/ahhakun.msg:147
 msgid "I'll be back for my payment soon."
@@ -12580,9 +12592,9 @@ msgid ""
 "expand the greatness to enable such to touch the world. Of course, the "
 "rewards will be more than those of the spirit. "
 msgstr ""
-"Ha ! L'esprit du fondateur vit en toi. Concentre-toi pour fortifier ton moi "
+"Ah ! L'esprit du fondateur vit en toi. Concentre-toi pour fortifier ton moi "
 "intérieur et développer la grandeur afin que celle-ci touche le monde. Bien "
-"sûr, les gratifications dépasseront celles de l'esprit."
+"sûr, les gratifications dépasseront celles de l'esprit. "
 
 #: dialog/ahhakun.msg:153
 msgid "Sounds good. I'll be back when I'm done."
@@ -12613,7 +12625,7 @@ msgstr ""
 
 #: dialog/ahhakun.msg:157
 msgid "Uh, right. Like I said, I've got to go. Goodbye. "
-msgstr "Euh, très bien. Comme je l'ai dit, je dois partir. Au revoir."
+msgstr "Euh, très bien. Comme je l'ai dit, je dois partir. Au revoir. "
 
 #: dialog/ahhakun.msg:158
 msgid ""
@@ -12621,7 +12633,7 @@ msgid ""
 "idea. I'm outta here. "
 msgstr ""
 "Tu sais, en te parlant, je m'interroge sur cette idée de temps gaspillé. Je "
-"m'en vais"
+"m'en vais. "
 
 #: dialog/ahhakun.msg:159
 msgid ""
@@ -12641,7 +12653,7 @@ msgstr ""
 
 #: dialog/ahhakun.msg:161
 msgid "I beg your forgiveness, holy one. How can I cleanse my soul? "
-msgstr "J'implore ton pardon, saint homme. Comment puis-je purifier mon âme ?"
+msgstr "J'implore ton pardon, saint homme. Comment puis-je purifier mon âme ? "
 
 #: dialog/ahhakun.msg:162
 msgid "That's right, Hakunin, and you'd be a real wise man not to forget it."
@@ -12759,7 +12771,7 @@ msgid ""
 msgstr ""
 "Et aussi vais-je mélanger la fleur de Broc avec la racine de Xandre lorsque "
 "tu me les ramèneras. Que tes chemins soient vrais et que ton coeur montre "
-"l'exemple."
+"l'exemple. "
 
 #: dialog/ahhakun.msg:183
 msgid "Where can I find these things?"
@@ -12833,7 +12845,7 @@ msgstr ""
 #: dialog/ahhakun.msg:199 dialog/dcsheila.msg:210 dialog/dctyler.msg:394
 #: dialog/hcencha.msg:141 dialog/hczaius.msg:156
 msgid "See ya."
-msgstr "A plus. "
+msgstr "A plus."
 
 #: dialog/ahhakun.msg:200
 msgid "I'm betting you carry your audience with you wherever you go. Be well."
@@ -12913,7 +12925,7 @@ msgstr "Et ton habilité à parler normalement, inexistante. J'essaie toujours."
 
 #: dialog/ahhakun.msg:216
 msgid "I'm on it. "
-msgstr "J'y travaille."
+msgstr "J'y travaille. "
 
 #: dialog/ahhakun.msg:217
 msgid "Get off my back, old man. I'm doing the best I can."
@@ -13114,11 +13126,11 @@ msgid ""
 msgstr ""
 "Oui. Envolé. Les âmes rongées furent nombreuses à venir, chevauchant les "
 "oiseaux de métal comme une armée de tiques. Cachant leur méchanceté sous des "
-"peaux dorées."
+"peaux dorées. "
 
 #: dialog/ahhakun.msg:254
 msgid "Ooo! Shiny Purty!"
-msgstr "Oh là là ! Joli doré !"
+msgstr "Ooo ! C'est brillant et joli !"
 
 #: dialog/ahhakun.msg:255
 msgctxt "hak104"
@@ -13261,7 +13273,7 @@ msgstr ""
 
 #: dialog/ahhakun.msg:277
 msgid "Oh, those winds. Of course. "
-msgstr "Oh, ces vents. Bien sûr."
+msgstr "Oh, ces vents. Bien sûr. "
 
 #: dialog/ahhakun.msg:278
 msgctxt "hak116"
@@ -13396,7 +13408,9 @@ msgstr ""
 
 #: dialog/ahmonk.msg:403
 msgid "That's fine. Just point me to Brother Thomas and I'll go ask him."
-msgstr "Vous l'avez ? Génial ! Je peux le voir ?"
+msgstr ""
+"Ça me va. Indiquez-moi simplement où trouver frère Thomas et j'irai lui "
+"demander."
 
 #: dialog/ahmonk.msg:405 dialog/vcdrtroy.msg:352
 msgid "Well, thanks anyway."
@@ -13483,7 +13497,7 @@ msgstr "Rebonjour, mon ami."
 
 #: dialog/ahmonk.msg:417
 msgid "I've killed your beast, and I've got your book."
-msgstr "J'ai tué la bête et récupéré le livre !"
+msgstr "J'ai tué la bête et récupéré le livre."
 
 #: dialog/ahmonk.msg:418
 msgid "Excellent! Let me have it!"
@@ -13959,7 +13973,7 @@ msgstr "C'est très bien. Merci. Tu es vraiment un garçon spécial."
 
 #: dialog/ahmonk.msg:1033
 msgid "YAY."
-msgstr "Yeah !"
+msgstr "Youpi."
 
 #: dialog/ahmonk.msg:1100
 msgid ""
@@ -14022,7 +14036,7 @@ msgstr ""
 
 #: dialog/ahmonk.msg:4177
 msgid "I've killed the beast."
-msgstr "J'ai tué la bête !"
+msgstr "J'ai tué la bête."
 
 #: dialog/ahmonk.msg:4188
 msgid "Excellent! And how about the book; were you able to recover it?"
@@ -14831,7 +14845,7 @@ msgstr ""
 
 #: dialog/bcdalia.msg:103 dialog/bcdalia.msg:140
 msgid "Hi. I'm Dalia. What can I help you with?"
-msgstr "Que puis-je faire pour toi ?"
+msgstr "Salut. Mon prénom est Dalia. Que puis-je faire pour toi ?"
 
 #: dialog/bcdalia.msg:104
 msgid "Nothing, just say hi."
@@ -15021,6 +15035,7 @@ msgstr ""
 "Peux-tu m'aider ?"
 
 #: dialog/bcdalia.msg:152
+#, fuzzy
 msgid ""
 "I don't give a radrat's ass... I'm sorry. I'm just a gun who was hired to "
 "stand here and guard\n"
@@ -15030,10 +15045,11 @@ msgid ""
 "proper sign... just like the\n"
 " sign you gave me. Go on. I'm outta here. "
 msgstr ""
-"J'en ai rien à cirer... Je suis juste ici pour garder le passage. A part ça, "
-"je ne sais pas ce qui se passe ici. J'avais une fille autrefois et... Ouais, "
-"un type est venu ici. Je l'ai laissé passer parce qu'il connaissait le code, "
-"comme toi. Allez, je m'en vais."
+"J'en ai rien à foutre... Désolé. Je suis juste engagé pour rester ici et "
+"garder ce passage. À part ça, je sais pas ce qui se passe dans le coin. "
+"J'avais une fille, autrefois, et... ouais, un type est passé par ici. Je "
+"l'ai laissé passer parce qu'il connaissait le code... comme celui que tu "
+"m'as donné. Allez, vas-y. Je me tire d'ici. "
 
 #: dialog/bcdalia.msg:153
 msgid "Thanks. Me no forget this, Dalia."
@@ -15393,7 +15409,7 @@ msgstr "Merde, je déteste quand ce genre de chose arrive."
 
 #: dialog/bcjohn.msg:114
 msgid "Take that! Yeah, that'll show ya."
-msgstr "Prends ça ! Ouais, ça t'apprendra !"
+msgstr "Prends ça ! Ouais, ça t'apprendra."
 
 #: dialog/bcjones.msg:100 dialog/ocjoseph.msg:100
 msgid "You see a short man carrying a book in his hands."
@@ -15883,8 +15899,9 @@ msgid "Me come here accident. Go now."
 msgstr "Moi venir ici par hasard. Partir maintenant."
 
 #: dialog/bcphil.msg:107
+#, fuzzy
 msgid "Screw you. Me shoot you dead."
-msgstr "Va te faire ! Moi tuer toi !"
+msgstr "Va te faire. Moi tirer toi mort."
 
 #: dialog/bcphil.msg:108
 msgid "Uh, we talk this out?"
@@ -15903,8 +15920,9 @@ msgid "Sorry, took the wrong trail by accident. Gotta go."
 msgstr "Pardon. J'ai pris le mauvais chemin. Faut que j'y aille."
 
 #: dialog/bcphil.msg:112
+#, fuzzy
 msgid "Up yours and have a bullet breakfast, asshole."
-msgstr "Que dirais-tu d'une balle entre les deux yeux ?"
+msgstr "Va te faire foutre et avale-moi ça au petit-déj, connard."
 
 #: dialog/bcphil.msg:113
 msgid "I think we can talk this out like two civilized beings."
@@ -15974,7 +15992,8 @@ msgstr "Oh, moi comprendre. Moi partir maintenant."
 
 #: dialog/bcphil.msg:125 dialog/bcphil.msg:151
 msgid "You are one sick puppy. I think I'll put you to sleep now."
-msgstr "Espèce de sale mioche, je vais te mettre au lit maintenant !"
+msgstr ""
+"Espèce de sale mioche, je vais te mettre au lit pour de bon maintenant !"
 
 #: dialog/bcphil.msg:126 dialog/bcphil.msg:152
 msgid "Fine, have fun and I'll be going now."
@@ -16029,7 +16048,7 @@ msgid ""
 " and get out, but don't come back. If I see you again, we'll see who lives "
 "and who dies."
 msgstr ""
-"Hum... Je... Ouais, Ok. Tiens, voilà la clé de sa cellule. Elle se trouve "
+"Hm... Je... Ouais, Ok. Tiens, voilà la clé de sa cellule. Elle se trouve "
 "dans la pièce au fond de la cabane. Prends-la et va-t'en, mais ne t'avise "
 "pas de revenir. Si je te revois, l'un d'entre nous devra mourir !"
 
@@ -16347,7 +16366,7 @@ msgid ""
 " ::points north-east::"
 msgstr ""
 "Ce serait Zeke. Il dirige tout ici. Tu peux le trouver dans le bâtiment là-"
-"bas. (désignant le Nord-Est)"
+"bas. *désigne le Nord-Est*"
 
 #: dialog/bcrebecc.msg:163
 msgid "Thanks. Ask more."
@@ -16413,8 +16432,7 @@ msgstr ""
 #: dialog/bcrebecc.msg:173
 msgid "Nice guys finish last. I wonder what he's up to?"
 msgstr ""
-"Un type bien, ça cache toujours quelque chose. Je me demande ce dont il est "
-"capable..."
+"Les gentils finissent toujours derniers. Je me demande ce qu'il mijote ?"
 
 #: dialog/bcrebecc.msg:175
 msgid "That's okay. You are very helpful."
@@ -16459,7 +16477,7 @@ msgstr "Toi pas souci, moi trouver fille."
 
 #: dialog/bcrebecc.msg:183 dialog/ccquincy.msg:130
 msgid "Ooops."
-msgstr "Oh !"
+msgstr "Ouups !"
 
 #: dialog/bcrebecc.msg:184
 msgid "I'll try and stop them."
@@ -16471,7 +16489,7 @@ msgstr "Ils ne vont pas m'empêcher de retrouver ta fille."
 
 #: dialog/bcrebecc.msg:186
 msgid "Oh well. Shit happens."
-msgstr "C'est pas grave, ça arrive ce genre d'emmerdements !"
+msgstr "Bah, tant pis. Ça arrive."
 
 #: dialog/bcrebecc.msg:187
 msgid "Please, just go away."
@@ -16996,7 +17014,7 @@ msgid ""
 "perish! Thanks a lot."
 msgstr ""
 "Maintenant que Darion est parti, nous n'avons plus de moyens d'obtenir de la "
-"nourriture. Nous allons certainement mourir. Vraiment merci !"
+"nourriture. Nous allons certainement mourir ! Vraiment merci."
 
 #: dialog/bhrnddst.msg:100
 msgid "You encounter rogues and wolves."
@@ -17282,7 +17300,7 @@ msgstr "Tu rencontres des contrebandiers combattant des loups."
 
 #: dialog/bhrnddst.msg:557
 msgid "You encounter homesteaders fighting claim jumpers"
-msgstr "Tu rencontres des propriétaires combattant des escrocs."
+msgstr "Tu rencontres des propriétaires qui affrontent des squatteurs."
 
 #: dialog/bhrnddst.msg:558
 msgid "You encounter homesteaders fighting wolves."
@@ -18352,7 +18370,7 @@ msgid ""
 " you'll be sorry."
 msgstr ""
 "Tu mens. Ma patience a des limites. Tu vas me dire la vérité ou tu vas le "
-"regretter !"
+"regretter."
 
 #: dialog/ccchris.msg:134
 msgid ""
@@ -18769,7 +18787,7 @@ msgid ""
 " If you're going to be poking around somewhere, don't be doing it here."
 msgstr ""
 "Bon, j'veux pas être grossier, mais ici, c'est une propriété privée. Si t'as "
-"l'intention de fouiner, fais-le ailleurs que chez moi !"
+"l'intention de fouiner, fais-le ailleurs que chez moi."
 
 #: dialog/ccchris.msg:211
 msgid "You're back. What can old Chris help you with?"
@@ -18784,7 +18802,7 @@ msgid ""
 "You told me Navarro was to the south, old man. Now I want to know the truth."
 msgstr ""
 "Tu m'as dit que Navarro était au Sud, mon vieux. Bon, maintenant, je veux la "
-"vérité !"
+"vérité."
 
 #: dialog/ccchris.msg:214
 msgid ""
@@ -18890,7 +18908,7 @@ msgstr "Les bidasses ne sont pas censés venir ici."
 #: dialog/cccomp1.msg:106 dialog/cccomp2.msg:128 dialog/ccgrdca.msg:106
 #: dialog/ccomp1.msg:106 dialog/ccomp2.msg:128
 msgid "You're out of uniform. "
-msgstr "Tu ne portes pas ton uniforme."
+msgstr "Tu ne portes pas ton uniforme. "
 
 #: dialog/cccomp1.msg:107 dialog/cccomp2.msg:129 dialog/ccomp1.msg:107
 #: dialog/ccomp2.msg:129
@@ -18995,8 +19013,8 @@ msgstr "Moi pas comprendre. Moi partir."
 #: dialog/cccomp2.msg:114 dialog/ccomp2.msg:114
 msgid "Say, can I use the system for a minute? You know, check it out?"
 msgstr ""
-"Puis-je utiliser le système pour une minute ? Juste pour jeter un coup "
-"d'oeil."
+"Dis, je peux utiliser le système une minute ? Tu sais, juste pour y jeter un "
+"coup d'œil ?"
 
 #: dialog/cccomp2.msg:115 dialog/ccomp2.msg:115
 msgid "Hey, nice talking to you. I'll see you later."
@@ -19025,8 +19043,8 @@ msgid ""
 "guest password is 'Snookie.'"
 msgstr ""
 "Bon, d'accord. Tu peux accéder au système à partir du terminal là-bas. Mais "
-"fais attention. On se ferait tous les deux incendier si tu endommageais "
-"cette machine. Oh, le mot de passe c'est \"Snookie\"."
+"fais attention s'il te plaît. On se ferait tous les deux incendier si tu "
+"endommageais cette machine. Oh, le mot de passe c'est \"Snookie\"."
 
 #: dialog/cccomp2.msg:120 dialog/ccomp2.msg:120
 msgid ""
@@ -19205,7 +19223,7 @@ msgstr "Que se passe-t-il à la maintenance ?"
 
 #: dialog/cccook.msg:133
 msgid "What can you tell me about med lab?"
-msgstr "Que peux-tu me dire sur le Labo Médical."
+msgstr "Que peux-tu me dire sur le Labo Médical ?"
 
 #: dialog/cccook.msg:134
 msgid "What about us grunts?"
@@ -19247,14 +19265,14 @@ msgid ""
 "ordered the room soundproofed."
 msgstr ""
 "Le Labo Médical a été repris par un intello de l'Enclave appelé Schreber. "
-"C'est un vrai fils de &$@§; il se fout de tout et de tout le monde. Il a "
+"C'est un vrai fils de pute; il se fout de tout et de tout le monde. Il a "
 "effectué des expériences sur les Griffemorts ici, mais je sais pas "
 "exactement quoi. En tout cas, il faisait un barouf pas possible jusqu'à ce "
 "que le Commandant ordonne de faire insonoriser la pièce."
 
 #: dialog/cccook.msg:142
 msgid "That's interesting. "
-msgstr "C'est intéressant."
+msgstr "C'est intéressant. "
 
 #: dialog/cccook.msg:143
 msgid ""
@@ -19283,8 +19301,8 @@ msgid ""
 "Why ya interested in those? Oh well, no matter. Quincy keeps them over in "
 "maintenance I think. "
 msgstr ""
-"Pourquoi t'intéresses-tu à ça ? Oh, peu importe. Quincy les conserve à la "
-"maintenance, je crois."
+"Pourquoi tu t'intéresses à ça ? Bon, peu importe. Quincy les conserve à la "
+"maintenance, je crois. "
 
 #: dialog/cccook.msg:149 dialog/cccook.msg:174
 msgid "Where that?"
@@ -19349,7 +19367,7 @@ msgid ""
 "junction, and go straight. "
 msgstr ""
 "Prends l'ascenseur pour aller en bas, suis le couloir jusqu'à l'intersection "
-"principale et va tout droit."
+"principale et va tout droit. "
 
 #: dialog/cccook.msg:165
 msgid "Hey, soldier. Good to hear from you again. Grub or talk this time?"
@@ -19389,9 +19407,9 @@ msgid ""
 "suit up."
 msgstr ""
 "Mon p'tit, tu pues tellement que même les yeux fermés j'saurais que tu "
-"portes pas d'armure. Et puis si le sergent te voit sans ton uniforme, tu vas "
-"t'faire baiser. Et je parle pas au sens agréable du terme. Allez, dépêche-"
-"toi, va à la réserve et mets-toi en tenue !"
+"portes pas d'armure assistée. Et puis si le sergent te voit sans ton "
+"uniforme, tu vas te faire baiser. Et je parle pas au sens agréable du terme. "
+"Allez, dépêche-toi, va à la réserve et mets-toi en tenue !"
 
 #: dialog/cccook.msg:173
 msgid ""
@@ -19402,9 +19420,9 @@ msgid ""
 "suit up."
 msgstr ""
 "Ma jolie, tu pues tellement que même les yeux fermés j'saurais que tu portes "
-"pas d'armure. Et puis si le sergent te voit sans ton uniforme, tu vas te "
-"faire baiser. Et je parle pas au sens agréable du terme. Allez, dépêche-toi, "
-"va à la réserve et mets-toi en tenue !"
+"pas d'armure assistée. Et puis si le sergent te voit sans ton uniforme, tu "
+"vas te faire baiser. Et je parle pas au sens agréable du terme. Allez, "
+"dépêche-toi, va à la réserve et mets-toi en tenue !"
 
 #: dialog/cccook.msg:177
 msgid "I'll take care of it."
@@ -19431,7 +19449,7 @@ msgstr ""
 msgid "Damned alarms. Always such a ruckus when they go off."
 msgstr ""
 "Bon dieu d'alarmes ! Elles font toujours un boucan pas possible quand elles "
-"se déclenchent !"
+"se déclenchent."
 
 #: dialog/cccook.msg:183
 msgid "What the hell is that damn thing going on about this time?"
@@ -19441,7 +19459,7 @@ msgstr "Mais qu'est-ce qui s'passe maintenant ?"
 msgid "I wish to hell we'd use silent alarms, damn thing gives me a headache."
 msgstr ""
 "Ils pourraient pas utiliser des alarmes silencieuses, bordel ! Ces machins-"
-"là me donnent mal à la tête !"
+"là me donnent mal au crâne !"
 
 #: dialog/cccook.msg:185
 msgid "I'm gonna fry your ass up and serve it on a plate."
@@ -19698,7 +19716,7 @@ msgstr ""
 #: dialog/ccdoctor.msg:147 dialog/gcgordon.msg:201 dialog/nclabish.msg:741
 #: dialog/scvortis.msg:154
 msgid "And?"
-msgstr "Ah..."
+msgstr "Et?"
 
 #: dialog/ccdoctor.msg:148
 msgid ""
@@ -19880,7 +19898,7 @@ msgstr "Gardes ! Des intrus au Labo Médical !"
 
 #: dialog/ccdoctor.msg:196
 msgid "I'm not a hostile, don't shoot me."
-msgstr "Je ne suis pas hostile, ne me tue pas !"
+msgstr "Je ne te veux pas de mal, ne tire pas !"
 
 #: dialog/ccdoctor.msg:197
 msgid "I didn't sign up for combat, so leave me alone."
@@ -19998,11 +20016,11 @@ msgstr "C'est ton dernier avertissement. Je te demande de quitter cette zone."
 
 #: dialog/ccdrgrd.msg:126
 msgid "Oh... Fuck it. Me shoot way in."
-msgstr "Oh... Ta gueule ! Moi rentrer de force !"
+msgstr "Oh... Et puis merde. Moi tirer pour entrer."
 
 #: dialog/ccdrgrd.msg:127
 msgid "Fuck it. Going in with guns blazing."
-msgstr "Ferme-la ! Mes flingues vont me montrer l'entrée, tu vas voir !"
+msgstr "Et puis merde. J'entre en tirant dans le tas."
 
 #: dialog/ccdrgrd.msg:128
 msgid ""
@@ -20269,7 +20287,7 @@ msgid ""
 "or Sergeant Dornan. Do you understand me! "
 msgstr ""
 "Pas de Monsieur ! Je travaille pour vivre moi neu-neu ! Tu m'appelleras "
-"Sergent ou Sergent Dornan. C'est compris ?!"
+"Sergent ou Sergent Dornan. C'est compris ?! "
 
 #: dialog/ccdrill.msg:116 dialog/ccdrill.msg:120 dialog/ccdrill.msg:122
 #: dialog/ccdrill.msg:130 dialog/ccdrill.msg:133 dialog/ccdrill.msg:135
@@ -20393,7 +20411,7 @@ msgstr "Oui, heu... Sergent !"
 
 #: dialog/ccdrill.msg:138
 msgid "No! Me not care anymore. Me kick you ass."
-msgstr "Non ! Moi m'en foutre maintenant. Moi te faire ta fête !"
+msgstr "Non ! Moi m'en foutre maintenant. Moi faire ta fête !"
 
 #: dialog/ccdrill.msg:140
 msgid ""
@@ -20496,7 +20514,7 @@ msgstr ""
 #: dialog/dcmetzge.msg:652 dialog/gsterm.msg:304 dialog/hcenchb.msg:119
 #: dialog/hcjacob.msg:304 dialog/scwestin.msg:115 dialog/tribec1.msg:414
 msgid "Oops."
-msgstr "Oh là là !"
+msgstr "Oups !"
 
 #: dialog/ccdrill.msg:157
 msgid "Stay alert, soldier!"
@@ -20516,11 +20534,11 @@ msgstr "Si j'en attrape un à dormir, je vous garantis qu'il s'en souviendra !"
 
 #: dialog/ccdrill.msg:161
 msgid "Good! You found your duty station!"
-msgstr "Bien. Tu as trouvé ton poste de garde."
+msgstr "Bien ! Tu as trouvé ton poste de garde !"
 
 #: dialog/ccdrill.msg:162
 msgid "Stay at your post until you're relieved, soldier!"
-msgstr "Reste à ton poste jusqu'à ce que la relève arrive, recrue."
+msgstr "Reste à ton poste jusqu'à ce que la relève arrive, recrue !"
 
 #: dialog/ccdrill.msg:163
 msgid "At your duty post and awake. Excellent!"
@@ -20528,7 +20546,7 @@ msgstr "Tu es à ton poste de garde. Excellent !"
 
 #: dialog/ccdrill.msg:164
 msgid "Stay awake, stay alert, stay alive!"
-msgstr "On ouvre l'oeil et le bon si on tient à sa peau."
+msgstr "On ouvre l'oeil, et le bon si on tient à sa peau !"
 
 #: dialog/ccdrill.msg:165
 msgid "Alert! Intruders on the base!"
@@ -20621,7 +20639,7 @@ msgstr "Code rouge à la porte principale !"
 
 #: dialog/ccgguard.msg:100
 msgid "You see a guard. "
-msgstr "Tu vois un garde."
+msgstr "Tu vois un garde. "
 
 #: dialog/ccgguard.msg:101
 msgid "You see the gate guard."
@@ -20718,7 +20736,7 @@ msgstr "Moi pas trouver passe et pas me souvenir mot de passe !"
 
 #: dialog/ccgguard.msg:119
 msgid "Screw this. Me kill."
-msgstr "Moi tuer !"
+msgstr "Merde ! Moi tuer !"
 
 #: dialog/ccgguard.msg:120
 msgid "I'm sorry, I lost my pass and I don't know anything about a password."
@@ -20876,7 +20894,7 @@ msgstr "... Quel trou du cul..."
 
 #: dialog/ccgguard.msg:203 dialog/ccgrdpa.msg:203
 msgid "...yes, sir! fuckin' sir!..."
-msgstr "...Oui, m'sieur ! Enfoiré de m'sieur... !"
+msgstr "...oui, m'sieur ! enfoiré de m'sieur !..."
 
 #: dialog/ccgguard.msg:300
 msgid "Move along soldier."
@@ -21243,8 +21261,8 @@ msgid ""
 "To hell with waiting. I say we nuke all these primitives and get things over "
 "with."
 msgstr ""
-"J'en ai marre d'attendre. Je dis que nous allons exterminer tous ces "
-"primitifs, et pas de quartier !"
+"J'en ai marre d'attendre. Je dis qu'on atomise tous ces primitifs et qu'on "
+"en finisse une bonne fois pour toutes."
 
 #: dialog/ccguard.msg:106
 msgid "Got a light? Oh wait, never mind. Got one."
@@ -25088,32 +25106,22 @@ msgid "You bust the lock off the container."
 msgstr "Tu fais sauter la serrure du container."
 
 #: dialog/containr.msg:177 dialog/door.msg:177
-#, fuzzy
-#| msgid ""
-#| "You strain your back while trying to bust the lock and\n"
-#| " take a point of damage."
 msgid ""
 "You strain your back while trying to bust the lock off and take a point of "
 "damage."
 msgstr ""
 "Tu te fais un tour de reins en essayant de faire sauter la serrure et tu "
-"subis un point de dégâts."
+"subis un point de dégât."
 
 #: dialog/containr.msg:178
-#, fuzzy
-#| msgid ""
-#| "You strain your back while trying to bust the lock and\n"
-#| " take "
 msgid ""
 "You strain your back while trying to bust the lock off and\n"
 " take "
 msgstr ""
-"Tu te fais un tour de reins en essayer de faire sauter la serrure et tu "
+"Tu te fais un tour de reins en essayant de faire sauter la serrure et tu "
 "subis "
 
 #: dialog/containr.msg:180 dialog/door.msg:180
-#, fuzzy
-#| msgid "You are too weak to bust the lock."
 msgid "You are too weak to bust the lock off."
 msgstr "Tu es trop faible pour faire sauter le verrou."
 
@@ -25122,10 +25130,6 @@ msgid " busts the lock off the container."
 msgstr " fait sauter la serrure du container."
 
 #: dialog/containr.msg:182 dialog/door.msg:182
-#, fuzzy
-#| msgid ""
-#| " strains his back while trying to bust the lock and takes\n"
-#| " a point of damage."
 msgid ""
 " strains his back while trying to bust the lock off and takes a point of "
 "damage."
@@ -25134,17 +25138,11 @@ msgstr ""
 "point de dégât."
 
 #: dialog/containr.msg:183 dialog/door.msg:183
-#, fuzzy
-#| msgid " strains his back while trying to bust the lock and takes "
 msgid " strains his back while trying to bust the lock off and takes "
 msgstr ""
 " se donne un tour de reins en essayant de faire sauter le verrou et prend "
 
 #: dialog/containr.msg:186 dialog/door.msg:186
-#, fuzzy
-#| msgid ""
-#| " strains her back while trying to bust the lock and takes\n"
-#| " a point of damage."
 msgid ""
 " strains her back while trying to bust the lock off and takes a point of "
 "damage."
@@ -25153,8 +25151,6 @@ msgstr ""
 "point de dégât."
 
 #: dialog/containr.msg:187 dialog/door.msg:187
-#, fuzzy
-#| msgid " strains her back while trying to bust the lock and takes "
 msgid " strains her back while trying to bust the lock off and takes "
 msgstr ""
 " se donne un tour de reins en essayant de faire sauter le verrou et prend "
@@ -25257,12 +25253,11 @@ msgstr " échoue lamentablement et la charge explose prématurément."
 
 #: dialog/containr.msg:620 dialog/cstouch.msg:620 dialog/door.msg:620
 msgid "You bend the crowbar beyond recognition. It's useless now."
-msgstr ""
-"Vous tordez le pied de biche avec acharnement. Il est inutile maintenant."
+msgstr "Tu plies le pied-de-biche avec acharnement. Il est inutile maintenant."
 
 #: dialog/containr.msg:621 dialog/cstouch.msg:621 dialog/door.msg:621
 msgid " bends the crowbar beyond recognition. It's useless now."
-msgstr " tord le pied de biche avec acharnement. Il est inutile maintenant."
+msgstr " plie le pied-de-biche avec acharnement. Il est inutile maintenant."
 
 #: dialog/cowbomb.msg:100
 msgid ""
@@ -42417,13 +42412,9 @@ msgid "The still has been destroyed."
 msgstr "L'alambic a été détruit."
 
 #: dialog/door.msg:178
-#, fuzzy
-#| msgid ""
-#| "You strain your back while trying to bust the lock and\n"
-#| " take "
 msgid "You strain your back while trying to bust the lock off and take "
 msgstr ""
-"Tu te fais un tour de reins en essayer de faire sauter la serrure et tu "
+"Tu te fais un tour de reins en essayant de faire sauter la serrure et tu "
 "subis "
 
 #: dialog/easter.msg:100
@@ -49139,7 +49130,7 @@ msgstr "Voici ce que j'ai."
 
 #: dialog/ectrappr.msg:112
 msgid "regular gecko pelts."
-msgstr "peaux de gecko ordinaires."
+msgstr "des peaux de gecko ordinaires."
 
 #: dialog/ectrappr.msg:113
 msgid "golden gecko pelts."
@@ -249877,7 +249868,10 @@ msgstr "                                             "
 msgid ""
 "\n"
 "                       "
-msgstr "                       "
+msgstr ""
+"\n"
+"                       · · · · · · · · · · · · · · · · · · · · · · ·\n"
+"                       "
 
 #: dialog/wsterm2b.msg:101
 msgid ""
@@ -259448,151 +259442,109 @@ msgid "peppered with fragments"
 msgstr "a été criblée de plombs"
 
 #: game/combat.msg:250
-#, fuzzy
-#| msgid "knocked out"
 msgctxt "female_pc"
 msgid "knocked out"
-msgstr "sonnée"
+msgstr "assommée"
 
 #: game/combat.msg:251
-#, fuzzy
-#| msgid "knocked down"
 msgctxt "female_pc"
 msgid "knocked down"
 msgstr "assommée"
 
 #: game/combat.msg:252
-#, fuzzy
-#| msgid "crippled your left leg"
 msgctxt "female_pc"
 msgid "crippled your left leg"
-msgstr "a estropié ta jambe gauche"
+msgstr "as estropié ta jambe gauche"
 
 #: game/combat.msg:253
-#, fuzzy
-#| msgid "crippled your right leg"
 msgctxt "female_pc"
 msgid "crippled your right leg"
-msgstr "a estropié ta jambe droite"
+msgstr "as estropié ta jambe droite"
 
 #: game/combat.msg:254
-#, fuzzy
-#| msgid "crippled your left arm"
 msgctxt "female_pc"
 msgid "crippled your left arm"
-msgstr "a estropié ton bras gauche"
+msgstr "as estropié ton bras gauche"
 
 #: game/combat.msg:255
-#, fuzzy
-#| msgid "crippled your right arm"
 msgctxt "female_pc"
 msgid "crippled your right arm"
-msgstr "a estropié ton bras droit"
+msgstr "as estropié ton bras droit"
 
 #: game/combat.msg:256
-#, fuzzy
-#| msgid "blinded"
 msgctxt "female_pc"
 msgid "blinded"
 msgstr "aveuglée"
 
 #: game/combat.msg:257
-#, fuzzy
-#| msgid "were killed"
 msgctxt "female_pc"
 msgid "were killed"
-msgstr "as été tué"
+msgstr "as été tuée"
 
 #: game/combat.msg:258
-#, fuzzy
-#| msgid "hit"
 msgctxt "female_pc"
 msgid "hit"
 msgstr "touchée"
 
 #: game/combat.msg:261
-#, fuzzy
-#| msgid "had your armor bypassed"
 msgctxt "female_pc"
 msgid "had your armor bypassed"
 msgstr "ton armure a été transpercée"
 
 #: game/combat.msg:262
-#, fuzzy
-#| msgid "your weapon exploded"
 msgctxt "female_pc"
 msgid "your weapon exploded"
 msgstr "ton arme a explosé"
 
 #: game/combat.msg:263
-#, fuzzy
-#| msgid "destroyed your weapon"
 msgctxt "female_pc"
 msgid "destroyed your weapon"
 msgstr "ton arme a été détruite"
 
 #: game/combat.msg:264
-#, fuzzy
-#| msgid "dropped your weapon"
 msgctxt "female_pc"
 msgid "dropped your weapon"
 msgstr "ton arme est tombée à terre"
 
 #: game/combat.msg:265
-#, fuzzy
-#| msgid "lost your next turn"
 msgctxt "female_pc"
 msgid "lost your next turn"
 msgstr "as laissé passer ton tour"
 
 #: game/combat.msg:266
-#, fuzzy
-#| msgid "hit yourself"
 msgctxt "female_pc"
 msgid "hit yourself"
-msgstr "t'es touchée"
+msgstr "as été touchée par ton propre tir"
 
 #: game/combat.msg:267
-#, fuzzy
-#| msgid "lost the rest of your ammo"
 msgctxt "female_pc"
 msgid "lost the rest of your ammo"
 msgstr "as perdu le reste de tes munitions"
 
 #: game/combat.msg:268
-#, fuzzy
-#| msgid "fired a dud shot"
 msgctxt "female_pc"
 msgid "fired a dud shot"
-msgstr "a tiré un coup foireux"
+msgstr "as tiré un coup foireux"
 
 #: game/combat.msg:269
-#, fuzzy
-#| msgid "hurt yourself"
 msgctxt "female_pc"
 msgid "hurt yourself"
 msgstr "t'es blessée"
 
 #: game/combat.msg:270
-#, fuzzy
-#| msgid "hit randomly"
 msgctxt "female_pc"
 msgid "hit randomly"
-msgstr "a été touché au hasard"
+msgstr "touchée au hasard"
 
 #: game/combat.msg:271
-#, fuzzy
-#| msgid "crippled a random limb"
 msgctxt "female_pc"
 msgid "crippled a random limb"
-msgstr "a estropié un membre au hasard"
+msgstr "as estropié un membre au hasard"
 
 #: game/combat.msg:272
-#, fuzzy
-#| msgid "peppered with fragments"
 msgctxt "female_pc"
 msgid "peppered with fragments"
-msgstr "a été criblée de plombs"
+msgstr "as été criblée d'éclats"
 
 #: game/combat.msg:302
 msgid "crippled his left leg"
@@ -259647,18 +259599,14 @@ msgid "hurt himself"
 msgstr "s'est blessé"
 
 #: game/combat.msg:400
-#, fuzzy
-#| msgid "knocked out"
 msgctxt "female_npc"
 msgid "knocked out"
-msgstr "sonnée"
+msgstr "assommée"
 
 #: game/combat.msg:401
-#, fuzzy
-#| msgid "knocked down"
 msgctxt "female_npc"
 msgid "knocked down"
-msgstr "assommée"
+msgstr "sonnée"
 
 #: game/combat.msg:402
 msgid "crippled her left leg"
@@ -259677,22 +259625,16 @@ msgid "crippled her right arm"
 msgstr "a estropié son bras droit"
 
 #: game/combat.msg:406
-#, fuzzy
-#| msgid "blinded"
 msgctxt "female_npc"
 msgid "blinded"
 msgstr "aveuglée"
 
 #: game/combat.msg:407
-#, fuzzy
-#| msgid "was killed"
 msgctxt "female_npc"
 msgid "was killed"
-msgstr "a été tué"
+msgstr "a été tuée"
 
 #: game/combat.msg:408
-#, fuzzy
-#| msgid "hit"
 msgctxt "female_npc"
 msgid "hit"
 msgstr "touchée"
@@ -259726,8 +259668,6 @@ msgid "lost the rest of her ammo"
 msgstr "a perdu le reste de ses munitions"
 
 #: game/combat.msg:418
-#, fuzzy
-#| msgid "fired a dud shot"
 msgctxt "female_npc"
 msgid "fired a dud shot"
 msgstr "a tiré un coup foireux"
@@ -259737,25 +259677,19 @@ msgid "hurt herself"
 msgstr "s'est blessée"
 
 #: game/combat.msg:420
-#, fuzzy
-#| msgid "hit randomly"
 msgctxt "female_npc"
 msgid "hit randomly"
-msgstr "a été touché au hasard"
+msgstr "a été touchée au hasard"
 
 #: game/combat.msg:421
-#, fuzzy
-#| msgid "crippled a random limb"
 msgctxt "female_npc"
 msgid "crippled a random limb"
 msgstr "a estropié un membre au hasard"
 
 #: game/combat.msg:422
-#, fuzzy
-#| msgid "peppered with fragments"
 msgctxt "female_npc"
 msgid "peppered with fragments"
-msgstr "a été criblée de plombs"
+msgstr "criblée d'éclats"
 
 #: game/combat.msg:506 game/combat.msg:556
 msgid "You"
@@ -259830,123 +259764,89 @@ msgid "%s critically missed and took %d hit points"
 msgstr "%s a raté sa cible et a pris %d points d'impact"
 
 #: game/combat.msg:559
-#, fuzzy
-#| msgid "Oops! %s were hit instead of %s!"
 msgctxt "female_pc"
 msgid "Oops! %s were hit instead of %s!"
-msgstr "Oh ! %s as été touché à la place de %s !"
+msgstr "Oups ! %s as été touchée à la place de %s !"
 
 #: game/combat.msg:561
-#, fuzzy
-#| msgid "%s were critically hit in %s for %d hit points"
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for %d hit points"
-msgstr "%s as été touché (coup critique) (%s) pour %d points d'impact"
+msgstr "%s a été touchée par un coup critique dans %s pour %d points d'impact"
 
 #: game/combat.msg:562
-#, fuzzy
-#| msgid "%s were hit in %s for %d hit points"
 msgctxt "female_pc"
 msgid "%s were hit in %s for %d hit points"
-msgstr "%s as été touché (%s) pour %d points d'impact"
+msgstr "%s as été touchée dans %s pour %d points d'impact"
 
 #: game/combat.msg:563
-#, fuzzy
-#| msgid "%s were hit for %d hit points"
 msgctxt "female_pc"
 msgid "%s were hit for %d hit points"
-msgstr "%s as été touché pour %d points d'impact"
+msgstr "%s as été touchée pour %d points d'impact"
 
 #: game/combat.msg:564
-#, fuzzy
-#| msgid "%s critically missed"
 msgctxt "female_pc"
 msgid "%s critically missed"
-msgstr "%s a complètement raté"
+msgstr "%s as complètement raté"
 
 #: game/combat.msg:565
-#, fuzzy
-#| msgid "%s missed"
 msgctxt "female_pc"
 msgid "%s missed"
-msgstr "%s a raté"
+msgstr "%s as raté"
 
 #: game/combat.msg:570
-#, fuzzy
-#| msgid "%s were critically hit for %d hit points"
 msgctxt "female_pc"
 msgid "%s were critically hit for %d hit points"
-msgstr "%s as été touché (coup critique) pour %d points d'impact"
+msgstr "%s as été touchée par un coup critique pour %d points d'impact"
 
 #: game/combat.msg:571
-#, fuzzy
-#| msgid "%s were critically hit in %s for 1 hit point"
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for 1 hit point"
-msgstr "%s as été touché (coup critique) (%s) pour 1 point d'impact"
+msgstr "%s as été touchée par un coup critique dans %s pour 1 point d'impact"
 
 #: game/combat.msg:572
-#, fuzzy
-#| msgid "%s were hit in %s for 1 hit point"
 msgctxt "female_pc"
 msgid "%s were hit in %s for 1 hit point"
-msgstr "%s as été touché (%s) pour 1 point d'impact"
+msgstr "%s as été touchée dans %s pour 1 point d'impact"
 
 #: game/combat.msg:573
-#, fuzzy
-#| msgid "%s were hit for 1 hit point"
 msgctxt "female_pc"
 msgid "%s were hit for 1 hit point"
-msgstr "%s as été touché pour 1 point d'impact"
+msgstr "%s as été touchée pour 1 point d'impact"
 
 #: game/combat.msg:574
-#, fuzzy
-#| msgid "%s were critically hit for 1 hit point"
 msgctxt "female_pc"
 msgid "%s were critically hit for 1 hit point"
-msgstr "%s as été touché (coup critique) pour 1 point d'impact"
+msgstr "%s as été touchée d'un coup critique pour 1 point d'impact"
 
 #: game/combat.msg:575
-#, fuzzy
-#| msgid "%s were critically hit in %s for no damage"
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for no damage"
-msgstr "%s as été touché (coup critique) (%s) mais sans aucun dégât"
+msgstr "%s as été touchée par un coup critique dans %s mais sans aucun dégât"
 
 #: game/combat.msg:576
-#, fuzzy
-#| msgid "%s were hit in %s for no damage"
 msgctxt "female_pc"
 msgid "%s were hit in %s for no damage"
-msgstr "%s as été touché (%s) sans aucun dégât"
+msgstr "%s as été touchée dans %s sans aucun dégât"
 
 #: game/combat.msg:577
-#, fuzzy
-#| msgid "%s were hit for no damage"
 msgctxt "female_pc"
 msgid "%s were hit for no damage"
-msgstr "%s as été touché sans aucun dégât"
+msgstr "%s as été touchée sans aucun dégât"
 
 #: game/combat.msg:578
-#, fuzzy
-#| msgid "%s were critically hit for no damage"
 msgctxt "female_pc"
 msgid "%s were critically hit for no damage"
-msgstr "%s as été touché (coup critique) mais sans aucun dégât"
+msgstr "%s as été touchée par un coup critique mais sans aucun dégât"
 
 #: game/combat.msg:583
-#, fuzzy
-#| msgid "%s critically missed and took 1 hit point"
 msgctxt "female_pc"
 msgid "%s critically missed and took 1 hit point"
-msgstr "%s a complètement raté sa cible et a pris 1 point d'impact"
+msgstr "%s as complètement raté ta cible et as subis 1 point d'impact"
 
 #: game/combat.msg:584
-#, fuzzy
-#| msgid "%s critically missed and took %d hit points"
 msgctxt "female_pc"
 msgid "%s critically missed and took %d hit points"
-msgstr "%s a raté sa cible et a pris %d points d'impact"
+msgstr "%s a complètement raté sa cible et a subi %d points d'impact"
 
 #: game/combat.msg:608
 msgid "Oops! %s was hit instead of you!"
@@ -260005,127 +259905,91 @@ msgid "%s was critically hit for no damage"
 msgstr "%s a été touché (coup critique) mais sans aucun dégât"
 
 #: game/combat.msg:708
-#, fuzzy
-#| msgid "Oops! %s was hit instead of you!"
 msgctxt "female_npc"
 msgid "Oops! %s was hit instead of you!"
-msgstr "Oh ! %s a été touché à ta place !"
+msgstr "Oups ! %s a été touchée à ta place !"
 
 #: game/combat.msg:709
-#, fuzzy
-#| msgid "Oops! %s was hit instead of %s!"
 msgctxt "female_npc"
 msgid "Oops! %s was hit instead of %s!"
-msgstr "Oh ! %s a été touché à la place de %s !"
+msgstr "Oups ! %s a été touchée à la place de %s !"
 
 #: game/combat.msg:711
-#, fuzzy
-#| msgid "%s was critically hit in %s for %d hit points"
 msgctxt "female_npc"
 msgid "%s was critically hit in %s for %d hit points"
-msgstr "%s a été touché (coup critique) (%s) pour %d points d'impact"
+msgstr "%s a été touchée d'un coup critique dans %s pour %d points d'impact"
 
 #: game/combat.msg:712
-#, fuzzy
-#| msgid "%s was hit in %s for %d hit points"
 msgctxt "female_npc"
 msgid "%s was hit in %s for %d hit points"
-msgstr "%s a été touché (%s) pour %d points d'impact"
+msgstr "%s a été touchée dans %s pour %d points d'impact"
 
 #: game/combat.msg:713
-#, fuzzy
-#| msgid "%s was hit for %d hit points"
 msgctxt "female_npc"
 msgid "%s was hit for %d hit points"
-msgstr "%s a été touché pour %d points d'impact"
+msgstr "%s a été touchée pour %d points d'impact"
 
 #: game/combat.msg:714
-#, fuzzy
-#| msgid "%s critically missed"
 msgctxt "female_npc"
 msgid "%s critically missed"
-msgstr "%s a complètement raté"
+msgstr "%s a complètement raté sa cible"
 
 #: game/combat.msg:715
-#, fuzzy
-#| msgid "%s missed"
 msgctxt "female_npc"
 msgid "%s missed"
 msgstr "%s a raté"
 
 #: game/combat.msg:720
-#, fuzzy
-#| msgid "%s was critically hit for %d hit points"
 msgctxt "female_npc"
 msgid "%s was critically hit for %d hit points"
-msgstr "%s a été touché (coup critique) pour %d points d'impact"
+msgstr "%s a été touchée par un coup critique pour %d points d'impact"
 
 #: game/combat.msg:721
-#, fuzzy
-#| msgid "%s was critically hit in %s for 1 hit point"
 msgctxt "female_npc"
 msgid "%s was critically hit in %s for 1 hit point"
-msgstr "%s a été touché (coup critique) (%s) pour 1 point d'impact"
+msgstr "%s a été touchée par un coup critique dans %s pour 1 point d'impact"
 
 #: game/combat.msg:722
-#, fuzzy
-#| msgid "%s was hit in %s for 1 hit point"
 msgctxt "female_npc"
 msgid "%s was hit in %s for 1 hit point"
-msgstr "%s a été touché (%s) pour 1 point d'impact"
+msgstr "%s a été touchée dans %s pour 1 point d'impact"
 
 #: game/combat.msg:723
-#, fuzzy
-#| msgid "%s was hit for 1 hit point"
 msgctxt "female_npc"
 msgid "%s was hit for 1 hit point"
-msgstr "%s a été touché pour 1 point d'impact"
+msgstr "%s a été touchée pour 1 point d'impact"
 
 #: game/combat.msg:724
-#, fuzzy
-#| msgid "%s was critically hit for 1 hit point"
 msgctxt "female_npc"
 msgid "%s was critically hit for 1 hit point"
-msgstr "%s a été touché (coup critique) pour 1 point d'impact"
+msgstr "%s a été touchée d'un coup critique pour 1 point d'impact"
 
 #: game/combat.msg:725
-#, fuzzy
-#| msgid "%s was critically hit in %s for no damage"
 msgctxt "female_npc"
 msgid "%s was critically hit in %s for no damage"
-msgstr "%s a été touché (coup critique) (%s) mais sans aucun dégât"
+msgstr "%s a été touchée d'un coup critique dans %s mais sans aucun dégât"
 
 #: game/combat.msg:726
-#, fuzzy
-#| msgid "%s was hit in %s for no damage"
 msgctxt "female_npc"
 msgid "%s was hit in %s for no damage"
-msgstr "%s a été touché (%s) sans aucun dégât"
+msgstr "%s a été touchée dans %s sans aucun dégât"
 
 #: game/combat.msg:727
-#, fuzzy
-#| msgid "%s was hit for no damage"
 msgctxt "female_npc"
 msgid "%s was hit for no damage"
-msgstr "%s a été touché sans aucun dégât"
+msgstr "%s a été touchée sans aucun dégât"
 
 #: game/combat.msg:728
-#, fuzzy
-#| msgid "%s was critically hit for no damage"
 msgctxt "female_npc"
 msgid "%s was critically hit for no damage"
-msgstr "%s a été touché (coup critique) mais sans aucun dégât"
+msgstr "%s a été touchée par un coup critique mais sans aucun dégât"
 
 #: game/combat.msg:733
-#, fuzzy
-#| msgid "%s critically missed and took 1 hit point"
 msgctxt "female_npc"
 msgid "%s critically missed and took 1 hit point"
 msgstr "%s a complètement raté sa cible et a pris 1 point d'impact"
 
 #: game/combat.msg:734
-#, fuzzy
-#| msgid "%s critically missed and took %d hit points"
 msgctxt "female_npc"
 msgid "%s critically missed and took %d hit points"
 msgstr "%s a raté sa cible et a pris %d points d'impact"
@@ -269503,11 +269367,9 @@ msgid "Unarmed Damage"
 msgstr "Dégâts en Corps à Corps"
 
 #: game/editor.msg:304
-#, fuzzy
-#| msgid "Melee Damage"
 msgctxt "editor"
 msgid "Melee Damage"
-msgstr "Dégâts en Rixe"
+msgstr "Dégâts au Corps à Corps"
 
 #: game/editor.msg:305
 msgid "Damage Res.  "
@@ -294278,143 +294140,97 @@ msgstr "Forteresse"
 msgid "Interior"
 msgstr "Intérieur"
 
-#, fuzzy
-#| msgid "%s was critically hit for %d hit points"
 msgctxt "female"
 msgid "%s was critically hit for %d hit points"
-msgstr "%s a été touchée (coup critique) pour %d points d'impact"
+msgstr "%s a été touchée par un coup critique pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s was critically hit for 1 hit point"
 msgctxt "female"
 msgid "%s was critically hit for 1 hit point"
-msgstr "%s a été touchée (coup critique) pour 1 point d'impact"
+msgstr "%s a été touchée par un coup critique pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s was critically hit for no damage"
 msgctxt "female"
 msgid "%s was critically hit for no damage"
-msgstr "%s a été touchée (coup critique) mais sans aucun dégât"
+msgstr "%s a été touchée par un coup critique mais sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s was critically hit in %s for %d hit points"
 msgctxt "female"
 msgid "%s was critically hit in %s for %d hit points"
-msgstr "%s a été touchée (coup critique) (%s) pour %d points d'impact"
+msgstr "%s a été touchée par un coup critique dans %s pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s was critically hit in %s for 1 hit point"
 msgctxt "female"
 msgid "%s was critically hit in %s for 1 hit point"
-msgstr "%s a été touchée (coup critique) (%s) pour 1 point d'impact"
+msgstr "%s a été touchée par un coup critique dans %s pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s was critically hit in %s for no damage"
 msgctxt "female"
 msgid "%s was critically hit in %s for no damage"
-msgstr "%s a été touchée (coup critique) (%s) mais sans aucun dégât"
+msgstr "%s a été touchée par un coup critique dans %s mais sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s was hit for %d hit points"
 msgctxt "female"
 msgid "%s was hit for %d hit points"
 msgstr "%s a été touchée pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s was hit for 1 hit point"
 msgctxt "female"
 msgid "%s was hit for 1 hit point"
 msgstr "%s a été touchée pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s was hit in %s for %d hit points"
 msgctxt "female"
 msgid "%s was hit in %s for %d hit points"
-msgstr "%s a été touchée (%s) pour %d points d'impact"
+msgstr "%s a été touchée dans %s pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s was hit in %s for 1 hit point"
 msgctxt "female"
 msgid "%s was hit in %s for 1 hit point"
-msgstr "%s a été touchée (%s) pour 1 point d'impact"
+msgstr "%s a été touchée dans %s pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s was hit in %s for no damage"
 msgctxt "female"
 msgid "%s was hit in %s for no damage"
-msgstr "%s a été touchée (%s) sans aucun dégât"
+msgstr "%s a été touchée dans %s sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s were critically hit for %d hit points"
 msgctxt "female"
 msgid "%s were critically hit for %d hit points"
-msgstr "%s as été touchée (coup critique) pour %d points d'impact"
+msgstr "%s as été touchée par un coup critique pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s were critically hit for 1 hit point"
 msgctxt "female"
 msgid "%s were critically hit for 1 hit point"
-msgstr "%s as été touchée (coup critique) pour 1 point d'impact"
+msgstr "%s as été touchée par un coup critique pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s were critically hit for no damage"
 msgctxt "female"
 msgid "%s were critically hit for no damage"
-msgstr "%s as été touchée (coup critique) mais sans aucun dégât"
+msgstr "%s as été touchée par un coup critique mais sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s were critically hit in %s for %d hit points"
 msgctxt "female"
 msgid "%s were critically hit in %s for %d hit points"
-msgstr "%s as été touchée (coup critique) (%s) pour %d points d'impact"
+msgstr "%s as été touchée par un coup critique dans %s pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s were critically hit in %s for 1 hit point"
 msgctxt "female"
 msgid "%s were critically hit in %s for 1 hit point"
-msgstr "%s as été touchée (coup critique) (%s) pour 1 point d'impact"
+msgstr "%s as été touchée par un coup critique dans %s pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s were critically hit in %s for no damage"
 msgctxt "female"
 msgid "%s were critically hit in %s for no damage"
-msgstr "%s as été touchée (coup critique) (%s) mais sans aucun dégât"
+msgstr "%s as été touchée par un coup critique dans %s mais sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s were hit for %d hit points"
 msgctxt "female"
 msgid "%s were hit for %d hit points"
 msgstr "%s as été touchée pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s were hit for 1 hit point"
 msgctxt "female"
 msgid "%s were hit for 1 hit point"
 msgstr "%s as été touchée pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s were hit for no damage"
 msgctxt "female"
 msgid "%s were hit for no damage"
 msgstr "%s as été touchée sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s were hit in %s for %d hit points"
 msgctxt "female"
 msgid "%s were hit in %s for %d hit points"
-msgstr "%s as été touchée (%s) pour %d points d'impact"
+msgstr "%s as été touchée dans %s pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s were hit in %s for 1 hit point"
 msgctxt "female"
 msgid "%s were hit in %s for 1 hit point"
-msgstr "%s as été touchée (%s) pour 1 point d'impact"
+msgstr "%s as été touchée dans %s pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s were hit in %s for no damage"
 msgctxt "female"
 msgid "%s were hit in %s for no damage"
-msgstr "%s as été touchée (%s) sans aucun dégât"
+msgstr "%s as été touchée dans %s sans aucun dégât"
 
 msgctxt "female"
 msgid "Cousin, am I glad to see you! I need your help."
@@ -294459,23 +294275,17 @@ msgstr ""
 "Fumace, est mort... Il me manque tellement... Pardon, mais je ne peux "
 "vraiment pas te parler davantage..."
 
-#, fuzzy
-#| msgid "Oops! %s was hit instead of %s!"
 msgctxt "female"
 msgid "Oops! %s was hit instead of %s!"
-msgstr "Oh ! %s a été touchée à la place de %s !"
+msgstr "Oups ! %s a été touchée à la place de %s !"
 
-#, fuzzy
-#| msgid "Oops! %s was hit instead of you!"
 msgctxt "female"
 msgid "Oops! %s was hit instead of you!"
-msgstr "Oh ! %s a été touchée à ta place !"
+msgstr "Oups ! %s a été touchée à ta place !"
 
-#, fuzzy
-#| msgid "Oops! %s were hit instead of %s!"
 msgctxt "female"
 msgid "Oops! %s were hit instead of %s!"
-msgstr "Oh ! %s as été touchée à la place de %s !"
+msgstr "Oups ! %s as été touchée à la place de %s !"
 
 msgctxt "female"
 msgid ""
@@ -294486,20 +294296,14 @@ msgstr ""
 "Bienvenue à la maison, cousine. Les choses ne vont pas si bien que ça ici. "
 "As-tu trouvé le Saint-Treize et le J.E.K ?"
 
-#, fuzzy
-#| msgid "hit randomly"
 msgctxt "female"
 msgid "hit randomly"
-msgstr "a été touchée au hasard"
+msgstr "touchée au hasard"
 
-#, fuzzy
-#| msgid "was killed"
 msgctxt "female"
 msgid "was killed"
 msgstr "a été tuée"
 
-#, fuzzy
-#| msgid "were killed"
 msgctxt "female"
 msgid "were killed"
 msgstr "as été tuée"

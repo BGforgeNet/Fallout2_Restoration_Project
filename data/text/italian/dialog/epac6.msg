@@ -16,13 +16,13 @@
 {241}{}{Certo, posso eliminare tutte le piante di spore per te. Tornero' quando avro' finito.}
 {242}{}{E' stato facile. Li ho gia' uccisi tutti.}
 {250}{}{Ciao di nuovo. Cosa posso fare per te? *Sospiro*}
-{251}{}{Sembri piuttosto giù. Cosa c'e' che non va?}
+{251}{}{Sembri piuttosto giu'. Cosa c'e' che non va?}
 {260}{}{Salve di nuovo. Hai ripensato ad aiutarmi? Come ho detto prima, ne varra' la pena per te.}
-{261}{}{Sì, perché no. Non ho niente di meglio da fare.}
-{262}{}{No, sono ancora troppo impegnato. Tornerò un'altra volta.}
+{261}{}{Si', perche' no. Non ho niente di meglio da fare.}
+{262}{}{No, sono ancora troppo impegnato. Tornero' un'altra volta.}
 {270}{}{Hai completato il compito per me?}
 {271}{}{Si', ho eliminato tutte le piante. I terreni sembrano ancora un inferno, ma almeno ora sono un po' piu' sicuri.}
-{272}{}{No, non ancora. Tornerò da te.}
+{272}{}{No, non ancora. Tornero' da te.}
 {280}{}{Oh, grazie mille. Per questo, ti assumo ufficialmente come mio assistente custode dei terreni. [Indica una chiave sul pavimento ai suoi piedi.] Sono riuscito a convincere uno dei robot mezzi funzionanti a portartela. Ora hai l'autorizzazione per accedere al deposito. Grazie ancora.}
 {281}{}{[Raccolgi la chiave e la metti in tasca.] Nessun problema. Ci si vede.}
 {290}{}{Sembri piuttosto malconcio. Va tutto bene?}
@@ -34,13 +34,13 @@
 {311}{}{Oh, va bene allora. Dimmi, chi sei esattamente? Perche' e' cosi' importante per te che io abbia eliminato tutte queste piante?}
 {320}{}{Sono il Direttore della Manutenzione dei Terreni. Mi assicuro che i terreni siano in buono stato, ma essendo un ologramma non posso fare nulla da solo, quindi comando i robot per farlo al posto mio. Poiche' la maggior parte di loro ha smesso di funzionare, ho lavorato al 100% di inefficienza negli ultimi anni. Mi hai aiutato piu' di quanto tu possa immaginare.}
 {321}{}{Bene, nessun problema. Ora devo andare.}
-{330}{}{Continua così, assistente.}
+{330}{}{Continua cosi', assistente.}
 {331}{}{Ora sto lavorando all'1% di efficienza!}
 {332}{}{Hai eliminato le piante mutanti che infestavano i terreni dell'EPA.}
 {333}{}{L'intero posto e' stato invaso da queste piante mutanti.}
 {334}{}{Sono dappertutto.}
 {335}{}{E poi ci sono le mantidi...}
-{336}{}{La serra è a pezzi.}
+{336}{}{La serra e' a pezzi.}
 {337}{}{Se solo i robot rispondessero ai comandi...}
 {338}{}{Lo so, sono un fallimento totale.}
 {339}{}{Mi scuso profondamente per lo stato dei terreni.}

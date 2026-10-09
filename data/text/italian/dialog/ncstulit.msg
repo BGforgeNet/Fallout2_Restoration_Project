@@ -162,7 +162,7 @@
 {526}{}{Piacere di conoscerti, Stu. Non ho tempo per parlare, adesso. Ci vediamo dopo.}
 {530}{}{E che cosa ti fa pensare che io abbia mai visto uno spettacolo circense, o, peggio, che io sia stato rapito da un circo?}
 {531}{}{Uh...beh, mi pare che molti dei cittadini di New Reno si comportino come se fossero appena usciti da un circo, e quindi pensavo che...}
-{540}{}{Tu pensavi che, solo perché sono di bassa statura, l’unica carriera che potessi ottenere fosse confinata sotto il cosiddetto ‘tendone del circo.’}
+{540}{}{Tu pensavi che, solo perche' sono di bassa statura, l’unica carriera che potessi ottenere fosse confinata sotto il cosiddetto ‘tendone del circo.’}
 {541}{}{Uh... beh, insomma...}
 {550}{}{Mi hai dato solo una RAPIDA occhiata e hai pensato di conoscere la mia intera vita. Non ti sarebbe mai passato per l'anticamera del cervello che una persona della mia statura potesse far carriera come *agente di pugili.*}
 {551}{}{Mi dispiace, non volevo offenderti.}

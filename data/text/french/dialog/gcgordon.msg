@@ -31,7 +31,7 @@
 {190}{}{La Cité de l'Abri dispose de suffisamment d'énergie pour ses besoins actuels, en y faisant attention bien sûr. Mais la centrale qu'ils utilisent à l'Abri n'a jamais été conçue pour la demande croissante de la ville. Elle fonctionne actuellement à pleine capacité. Sans énergie supplémentaire, ils ne peuvent pas se développer.}
 {191}{}{Je ne vois pas où tu veux en venir.}
 {200}{}{Eh bien, si notre centrale fonctionnait mieux, nous pourrions vendre notre excédent d'énergie et nos connaissances techniques à la Cité de l'Abri en échange de leur technologie médicale.}
-{201}{}{Ah...}
+{201}{}{Et?}
 {210}{}{A défaut d'énergie supplémentaire, le réacteur de la Cité de l'Abri cessera de fonctionner d'ici une quinzaine d'années. Si le réacteur de Gecko n'est pas réparé, nous ne durerons pas la moitié de ce temps. Sans la technologie médicale, toutes les Goules vont mourir au cours des 20 années à venir. Une coopération entre la Cité de l'Abri et Gecko profiterait à tout le monde.}
 {211}{}{Alors comme ça, t'es juste un bon samaritain ? Je sais pas pourquoi, mais j'y crois pas vraiment.}
 {220}{}{Pas du tout. J'y ai aussi un intérêt. J'assurerai naturellement l'administration de ce projet. L'avidité est ma force motrice, mais elle va me permettre de sauver des milliers de vies. L'avidité est une qualité. Du moins, elle le sera, si quelqu'un à la Cité de l'Abri veut bien lire mes données économiques.}

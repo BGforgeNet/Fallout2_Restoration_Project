@@ -1270,4 +1270,4 @@
 {3212}{}{*Huff*}
 {3213}{}{*Puff*}
 {3214}{}{No, NON ho alcuna intenzione di indossare quelle orecchie da Topolino.}
-{3215}{}{Sì, sì, hai proprio delle “mostruose palle.”}
+{3215}{}{Si', si', hai proprio delle “mostruose palle.”}

@@ -6,7 +6,7 @@
 {153}{}{Peux-tu me dire où trouver plus de poudre de guérison ?}
 {154}{}{Que peux-tu me dire des marchands qui traitent avec nous ?}
 {155}{}{Ca fait plaisir de te voir, mais je dois partir.}
-{156}{}{Que les dieux te protègent au cours de ton voyage !}
+{156}{}{Que les dieux te protègent au cours de ton voyage.}
 {157}{}{J'ai une question à te poser.}
 {158}{}{Au revoir.}
 {159}{}{Va voir Hakunin au Nord du village. Il peut t'aider.}
@@ -44,7 +44,7 @@
 {402}{}{Ok, je suppose que ça veut dire *non*.}
 {1000}{}{La doyenne}
 {1001}{}{Fondatrice}
-{1002}{}{Habitant de l'Abri }
+{1002}{}{Habitant de l'Abri}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Abri}
@@ -56,7 +56,7 @@
 {1011}{}{Mynoc}
 {1100}{}{La doyenne est à la fois ta mère et ton chef.}
 {1101}{}{Notre illustre ancêtre qui nous a légué le savoir.}
-{1102}{}{La première à avoir combattu et vaincu le chaos. }
+{1102}{}{La première à avoir combattu et vaincu le chaos.}
 {1103}{}{Voilà ce que serait notre beau village.}
 {1104}{}{Notre poste d'approvisionnement est à quelques jours à l'Est d'ici.}
 {1105}{}{L'Abri, c'est le paradis.}

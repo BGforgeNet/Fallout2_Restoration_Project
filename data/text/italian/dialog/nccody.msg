@@ -35,7 +35,7 @@
 {256}{}{Uh, beh, stammi bene, Cody.}
 {257}{}{Mi dispiace, ragazzo... sembra proprio che io non abbia nulla da darti.}
 {261}{}{Vuoi un frutto, Cody?}
-{262}{}{Vuoi un iguana, Cody? Mmmmmm buono.}
+{262}{}{Vuoi un'iguana, Cody? Mmmmmm buono.}
 {263}{}{Ehi, Cody. Che ne dici di un pezzo di questa delizios... er, commestibile carne secca Dunton? Mmmmmm...uh...b-buona.}
 {270}{}{(Cody afferra cio' che gli hai offerto e scappa.)}
 {271}{}{::Fai dei commenti a voce bassa sullo stato della gioventu' di oggi.::}

@@ -20,7 +20,7 @@
 {119}{}{Pepite di uranio?}
 {120}{}{Interessante. Arrivederci,}
 {121}{}{Un GECK? Mai sentito. E presumo che nessuno in questa citta' l'abbia mai sentito nominare. Dal nome si direbbe un animale o qualcosa con degli artigli pericolosi, pero'.}
-{122}{}{No, non è quello che cercavo. Però ho altre domande.}
+{122}{}{No, non e' quello che cercavo. Pero' ho altre domande.}
 {123}{}{Non ci siamo proprio. Arrivederci.}
 {124}{}{Eric vuole altra energia? Eric NON puo' avere altra energia. Quello che dobbiamo gestire qui e' un delicatissimo equilibrio e se Eric dovesse ricevere piu' energia, allora l'ospedale non avrebbe piu' energia sufficiente per funzionare. Potrebbe succedere la stessa cosa alle luci. O alla miniera. Non possiamo permettere che succeda una cosa simile.}
 {125}{}{Se questa centrale funziona davvero con pepite di uranio, allora avete a disposizione abbastanza energia da alimentare questa citta' E New Reno senza che si verifichino cali di tensione. Adesso sputa fuori l'energia che ti ho chiesto.}

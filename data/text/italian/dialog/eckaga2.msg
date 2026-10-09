@@ -2,7 +2,7 @@
 {101}{}{Vedi Kaga.}
 {102}{}{Indossa un'armatura di cuoio e ha la seccante abitudine di parlare di se' in terza persona.}
 {103}{}{Qeusta sara' l'ultima volta che Kaga ti incontra.}
-{104}{}{Dopo che Kaga ti avra' ucciso, raderà Arroyo al suolo.}
+{104}{}{Dopo che Kaga ti avra' ucciso, radera' Arroyo al suolo.}
 {105}{}{Assaggia l'ira di Kaga!}
 {106}{}{Sono il grande Kaga!}
 {107}{}{Tutti devono temere Kaga.}

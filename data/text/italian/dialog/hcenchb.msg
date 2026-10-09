@@ -27,13 +27,13 @@
 {121}{}{Davvero? Allora perche' non l'hai riferito a Marcus?}
 {122}{}{Sei impazzito? Chad e' un tipo potente in questa citta' e ha un sacco di amici. Se provo a denunciarlo, un sacco di gente mi odiera'. Diamine, potrei persino farmi ammazzare.}
 {123}{}{Uhm... forse potrei dirlo io a Marcus. Tanto non ho intenzione di restare qui ancora a lungo.}
-{124}{}{Fa’ quello che devi fare, ma non trascinarmi in mezzo. Anzi, questa conversazione non è mai avvenuta, ok?}
+{124}{}{Fa’ quello che devi fare, ma non trascinarmi in mezzo. Anzi, questa conversazione non e' mai avvenuta, ok?}
 {125}{}{Nessun problema. Addio.}
 {126}{}{In realta', un'altra cosa. So che Chad tiene registri di tutte le transazioni che fa. E' un maniaco dei documenti.
  Anzi, e' talmente fissato che scommetto tiene traccia persino dei soldi che si intasca. Il problema e'
  che tiene tutto chiuso nella sua casa dall'altra parte della citta', e non c'e' modo che tu possa entrare—il suo
  sistema di chiusura e' troppo complesso. E ancora: questa conversazione non e' mai avvenuta.}
-{127}{}{Troverò un modo. Grazie per le informazioni.}
+{127}{}{Trovero' un modo. Grazie per le informazioni.}
 {128}{}{Sistema complesso? E allora come dovrei entrare?}
 {129}{}{[Max riflette per un momento.] Va bene, ascolta. Sembri qualcuno di cui posso fidarmi. La porta della casa di Chad e'
  chiusa con il piu' avanzato sistema di serratura non elettronico che esista — una vera bellezza. Dovrei saperlo, l'ho

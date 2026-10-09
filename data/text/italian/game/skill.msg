@@ -76,8 +76,8 @@
 {553}{}{Non puoi ripararlo.}
 {570}{}{Sei stato beccato a rubare %s.}
 {571}{}{Hai rubato %s.}
-{572}{}{Sei stato beccato a sgraffignare %s.}
-{573}{}{Hai sgraffignato %s.}
+{572}{}{Sei stato beccato a piazzare %s.}
+{573}{}{Hai piazzato %s.}
 {590}{}{Hai sfruttato a fondo la tua abilita'. Aspetta un attimo.}
 {591}{}{Sei troppo stanco.}
 {592}{}{Lo sforzo potrebbe ucciderti.}

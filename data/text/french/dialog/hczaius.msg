@@ -54,7 +54,7 @@
 {153}{}{Non ? Bien, si toutefois tu changes d'avis, tu sais où me trouver.}
 {154}{}{C'est ça. Salut.}
 {155}{}{ et c'est un marché conclu. Prends la moitié maintenant. Je te donnerai le reste quand tu auras terminé. Va à New Reno et trouve Renesco. Il a des outils plein sa boutique. Il devrait pouvoir t'aider pour les pièces.}
-{156}{}{A plus. }
+{156}{}{A plus.}
 {157}{}{Je regrette mais je peux pas aller plus loin. C'est ça ou rien.}
 {158}{}{J'achète.}
 {159}{}{Je le laisse.}

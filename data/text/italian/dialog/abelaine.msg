@@ -5,7 +5,7 @@
 {201}{}{Ciao, qual e' il tuo nome?}
 {202}{}{Cosa puoi dirmi a proposito dell'Abazia?}
 {203}{}{Addio.}
-{300}{}{Se vuoi sapere di più sul nostro ordine, parla con l'Abate. Puoi trovarlo nei suoi alloggi al terzo piano.}
+{300}{}{Se vuoi sapere di piu' sul nostro ordine, parla con l'Abate. Puoi trovarlo nei suoi alloggi al terzo piano.}
 {301}{}{Capisco. Ancora un paio di domande...}
 {400}{}{Certo. Cos'altro vuoi sapere?}
 {401}{}{Qual e' il tuo nome?}

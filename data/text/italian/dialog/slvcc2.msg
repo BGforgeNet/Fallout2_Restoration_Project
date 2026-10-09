@@ -3,10 +3,10 @@
 {102}{}{Questa schiavista ha un’aria davvero feroce.}
 {200}{}{Eccoti qua.}
 {201}{}{Adesso morirai.}
-{202}{}{Merda, i Ranger! È ora di spaccare tutto.}
+{202}{}{Merda, i Ranger! E' ora di spaccare tutto.}
 {300}{}{Ti sei perso, o cosa?}
-{301}{}{Don è quello al comando. Parla con lui.}
-{302}{}{Questa è proprietà privata. Non bighellonare.}
+{301}{}{Don e' quello al comando. Parla con lui.}
+{302}{}{Questa e' proprieta' privata. Non bighellonare.}
 {303}{}{Non si vedono molte schiaviste in giro.}
 {304}{}{E' bello averti tra di noi.}
 {305}{}{Ciao. Come va?}
@@ -14,7 +14,7 @@
 {307}{}{Ciao.}
 {308}{}{Stai uscendo per un’altra spedizione?}
 {309}{}{La situazione e' piuttosto tranquilla.}
-{310}{}{Quand’è che vedrò un po’ d’azione?}
+{310}{}{Quand’e' che vedro' un po’ d’azione?}
 {311}{}{Catturare schiavi mi mette sempre di buon umore.}
 {312}{}{I raid per gli schiavi sono davvero grandiosi.}
 {313}{}{Ehi, felice di averti con noi.}
@@ -31,7 +31,7 @@
 {410}{}{Altri schiavi? Ha ricevuto un enorme carico la settimana scorsa. Sei pieno di stronzate e non ho tempo per questo. Vattene ora
  o ti ritrovi una pallottola in testa.}
 {411}{}{Me ne stavo andando.}
-{412}{}{Penso che resterò… e ti ucciderò per primo.}
+{412}{}{Penso che restero'… e ti uccidero' per primo.}
 {500}{}{Umm... ehm... il capo mi ha mandato.}
 {501}{}{Il "capo", eh? Sembra proprio che tu sia pieno di stronzate. Direi che abbiamo un intruso.}
 {502}{}{Senti, sono qui per ordine del capo. Sai come diventa quando lo facciamo aspettare.}

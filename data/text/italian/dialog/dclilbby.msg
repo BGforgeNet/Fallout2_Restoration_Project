@@ -35,8 +35,8 @@
 {123}{}{Ciao di nuovo! Grazie di tutto. Adoro questo nuovo posto. Mom e' davvero una grande donna!}
 {124}{}{Adoro questo nuovo posto. Mom e' davvero una grande donna!}
 {125}{}{Sono cosi' emozionato! E' ora di preparare le mie cose.}
-{126}{}{Mi chiedo se papà si accorgerà che sono sparito.}
-{127}{}{Andrà molto meglio così.}
+{126}{}{Mi chiedo se papa' si accorgera' che sono sparito.}
+{127}{}{Andra' molto meglio cosi'.}
 {200}{}{Non mi piaci. Vai via!}
 {210}{}{Sembra che tuo padre non ti piaccia molto. Posso chiederti perche'?}
 {211}{}{Moccioso, chi ti credi di essere per parlare cosi' di tuo padre?}

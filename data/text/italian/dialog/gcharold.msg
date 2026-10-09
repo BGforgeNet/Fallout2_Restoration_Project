@@ -94,7 +94,7 @@
 {193}{hld28}{Certo, beh, sono sicuro che qualche zucca vuota, molto simile a te, abbia detto la stessa cosa a proposito del Master.}
 {194}{}{Sembra una bella storia. Vorrei avere il tempo di ascoltarla, ma devo andare.}
 {195}{}{Il Master? Il mio antenato l'ha ucciso!}
-{196}{hld29}{Niente, eh? Sì, come no. Ci hai appena incasinati. Adesso levati dai piedi mentre penso a cosa fare.}
+{196}{hld29}{Niente, eh? Si', come no. Ci hai appena incasinati. Adesso levati dai piedi mentre penso a cosa fare.}
 {197}{}{Uh, mi dispiace.}
 {198}{}{Certo, sicuro. Fa' pure. Cavolo, tu cerchi di aiutare la gente e...}
 {199}{hld30}{Perche'?! Adesso Vault City sa quanto bisogno abbiamo dell'uranio di Broken Hills. Potrebbero tagliarci i rifornimenti e noi saremmo finiti.}
@@ -194,10 +194,10 @@
 {293}{}{Non ne so nulla.}
 {294}{}{Si'}
 {295}{}{No}
-{296}{}{Perché mi parli in questo modo?}
+{296}{}{Perche' mi parli in questo modo?}
 {297}{}{Non sei gentile.}
 {298}{}{Grazie. }
-{299}{}{Questo è un bene.}
+{299}{}{Questo e' un bene.}
 {300}{}{Questo non va bene.}
 {301}{}{Ho un buon presentimento al riguardo.}
 {302}{}{Ho un brutto presentimento.}

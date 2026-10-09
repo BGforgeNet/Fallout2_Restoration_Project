@@ -31,7 +31,7 @@ Non ha alcun senso. E' semplicemente da idioti.}
 {243}{}{Non importa, tanto non potremmo giocare comunque: e' troppo rischioso. Non voglio che me le portino via. 
 E' questo che odio di questo posto. Siamo seduti su una dannata miniera d'oro di cose fantastiche di prima della guerra, ma ci proibiamo di godercele. 
 Non ha alcun senso. E' semplicemente da idioti.}
-{244}{}{Sì, sembra davvero stupido.}
+{244}{}{Si', sembra davvero stupido.}
 {245}{}{Se non condividi gli ideali del tuo ordine, perche' sei un monaco?}
 {250}{}{Pensi che io abbia *scelto* di fare il monaco? Sono nato in questo stile di vita di merda. Vorrei solo che gli altri si
 svegliassero e capissero quanto e' stupido non approfittare di tutta questa roba preziosa che abbiamo raccolto. Ma no, sono
@@ -45,13 +45,13 @@ formattare il database, perderebbero tutto quel lavoro. Penso che una cosa del g
 finalmente abbandonare questo stupido stile di vita. Allora, che ne dici?}
 {261}{}{Dico che e' una pessima idea e che ho finito di parlare con te.}
 {262}{}{Cancellare anni del lavoro di qualcun altro? Sembra divertente. Lo faro'.}
-{263}{}{Perché non lo formatti tu stesso?}
-{264}{}{Se non ti piace stare qui, perché non te ne vai e basta?}
+{263}{}{Perche' non lo formatti tu stesso?}
+{264}{}{Se non ti piace stare qui, perche' non te ne vai e basta?}
 {270}{}{In realta' ho un'idea su come cambiare le cose. Magari potresti darmi una mano. Vedi, i monaci qui hanno passato anni a trascrivere informazioni pre?belliche nel nostro database. Se qualcuno dovesse “per sbaglio” formattare il database, perderebbero tutto quel lavoro. Una cosa del genere potrebbe scioccarli abbastanza da farli rinsavire, e forse finalmente rinunceremmo a questo stupido stile di vita. Allora, che ne dici?}
 {271}{}{Dico che e' una pessima idea e che ho finito di parlare con te.}
 {272}{}{Cancellare secoli del lavoro di qualcun altro? Sembra divertente. Lo faro'.}
-{273}{}{Perché non lo formatti tu stesso?}
-{274}{}{Se non ti piace stare qui, perché non te ne vai e basta?}
+{273}{}{Perche' non lo formatti tu stesso?}
+{274}{}{Se non ti piace stare qui, perche' non te ne vai e basta?}
 {280}{}{Stai scherzando? Mi crocifiggerebbero se lo facessi. Tu, invece… tu sei un avventuriero esperto. 
 Diamine, scommetto che potresti massacrare tutti qui senza nemmeno sudare. Allora, lo fai o hai paura di un branco di monaci pacifisti?}
 {281}{}{Non ho paura di nessuno. Lo faro'.}

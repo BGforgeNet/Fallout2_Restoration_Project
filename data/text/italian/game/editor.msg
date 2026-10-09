@@ -14,7 +14,7 @@
 {113}{}{Livello:}
 {114}{}{Esp:}
 {115}{}{Pros. Liv:}
-{116}{}{PUNTI CARISMA}
+{116}{}{PUNTI PERSONAGGIO}
 {117}{}{ABILITA'}
 {118}{}{Devi usare tutti i punti personaggio}
 {119}{}{prima di iniziare il gioco!}

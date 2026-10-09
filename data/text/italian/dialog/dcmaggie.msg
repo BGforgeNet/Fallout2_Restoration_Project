@@ -46,7 +46,7 @@
 {193}{}{Devo andare.}
 {194}{}{Ecco l'ordinazione. Serve qualcos'altro?}
 {195}{}{Domanda?}
-{196}{}{Già', che ne dici di noi due...}
+{196}{}{Gia'', che ne dici di noi due...}
 {197}{}{No.}
 {198}{}{Ehi, non hai abbastanza soldi per questo drink. Sei piu' povero anche di questi ubriaconi!}
 {199}{}{Scusa.}

@@ -19,7 +19,7 @@
 {200}{}{...Enfoiré...}
 {201}{}{...Ouais, tu ferais MIEUX de foutre le camp...}
 {202}{}{... Quel trou du cul...}
-{203}{}{...Oui, m'sieur ! Enfoiré de m'sieur... !}
+{203}{}{...oui, m'sieur ! enfoiré de m'sieur !...}
 {300}{}{Halte-là. Que fais-tu avec cet hélico ? Il n'y a pas de vols prévus pendant quelques jours.}
 {301}{}{Nrg ?}
 {302}{}{Je suis au courant.}

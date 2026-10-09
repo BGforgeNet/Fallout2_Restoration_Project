@@ -23,11 +23,11 @@ Vuoi qualcosa?}
 Perche’, stai cercando qualcosa?}
 {120}{}{Cos'avete da bere, qui?}
 {121}{}{Sai qualcosa sul Vault?}
-{122}{}{Non può essere così terribile.}
+{122}{}{Non puo' essere cosi' terribile.}
 {123}{}{Nulla. Arrivederci.}
 {124}{}{Hai sbattuto la testa un po' troppo spesso, eh? Scusa, ma non parlo con gli imbecilli.}
-{125}{}{Tieni. Bevi. È praticamente l’unico divertimento che vedrai in questo posto di rigidi.}
-{126}{}{Non può essere così terribile.}
+{125}{}{Tieni. Bevi. E' praticamente l’unico divertimento che vedrai in questo posto di rigidi.}
+{126}{}{Non puo' essere cosi' terribile.}
 {127}{}{Grazie per il drink. Direi che me ne vado.}
 {128}{}{Ascolta. Ti ho chiesto se volevi da bere e poi ti ho detto quanto costava. La maggior parte della gente capisce come funziona. Se non hai i soldi, non avresti dovuto chiedere.}
 {129}{}{Scusa. Pensavo di avere i soldi. Non poter vedere i tuoi soldi nella schermata di dialogo crea qualche problema, sai?}
@@ -66,6 +66,6 @@ Perche’, stai cercando qualcosa?}
 {162}{}{Andiamo.}
 {163}{}{OK.}
 {164}{}{Senti, hai gia' abbastanza gente che ti segue.}
-{165}{}{Sì, continua pure così.}
+{165}{}{Si', continua pure cosi'.}
 {166}{}{Credo che non prendero' nulla, grazie.}
 {167}{}{Credo che me ne staro' qui ancora un po’.}

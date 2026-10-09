@@ -11,7 +11,7 @@
 {212}{}{Cominci a sentirti MOLTO stordito.}
 {213}{}{Mi sento davvero strano, adesso...}
 {214}{}{...dev'essere cosi' che si sente Hakunin nel suo giardino.}
-{215}{}{È stato folle. Però ora mi sento meglio.}
+{215}{}{E' stato folle. Pero' ora mi sento meglio.}
 {216}{}{Oh, merda...}
 {217}{}{Svieni.}
 {218}{}{Ti svegli stordito e confuso.}

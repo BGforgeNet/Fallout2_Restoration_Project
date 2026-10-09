@@ -15,4 +15,4 @@
 {404}{}{Sous la forme de livres. Tant d'informations peuvent être obtenues de ces textes. C'est notre mission que de les préserver pour les générations futures.}
 {405}{}{Ok.}
 {406}{}{Ok.}
-{500}{}{Arrête ça! }
+{500}{}{Arrête ça!}

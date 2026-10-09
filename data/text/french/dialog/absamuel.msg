@@ -24,7 +24,7 @@
 {404}{}{Bien-sûr que je vois ce que tu veux dire. Il n'y a rien qui m'excite autant qu'un cadavre pourri.}
 {410}{}{Hé bien, je passe beaucoup de temps dehors, et y a personne dans l'coin pour dire au vieux Sammy qu'il a assez bu. Je *sais* quand j'ai assez bu... et c'est quand y en a plus ! [Il ricane, ce qui se transforme rapidement en une toux hideuse. Après avoir toussé un poumon ou deux, il te sourit.]}
 {411}{}{Oh, Ok *bien sûr* que c'est ce que tu voulais dire. [Signe de soulagement.] Laisse-moi te demander autre chose.}
-{420}{}{[Sous le choc, il ouvre grand ses yeux et il a l'air d'avoir soudainement dessoûlé.] C'est pas ce que je voulais dire, espèce de... de MONSTRE ! PERVERS ! Ne m'approche pas !}
+{420}{}{[Sous le choc, il ouvre grand ses yeux et il a l'air d'avoir soudainement dessoûlé.] C'est pas ce que je voulais dire, espèce de... de MONSTRE ! PERVERS ! Ne m'approche pas ! }
 {421}{}{Peu importe, vieil ivrogne débile. Tu ne sais pas ce que tu loupes.}
 {430}{}{Vil démon ! Va-t'en !}
 {500}{}{Ben, l'Abbaye a été ma m'son p'dant... <Hic> la plupart d'ma vie. Tout l'monde ici... <Hic> est sympa 'vec tout le monde et est l'bienvenu tant... <Hic> qu'y fout pas l'bordel. Moi, j'passe pas trop d'temps dans l'monastère... <Hic> mais j'sais qu'y'a nos ordinateurs qu'ont pleins d'infos qu'ont été collectées durant les années. P't'être que... <Hic> celles-ci pourraient t'être utile.}
@@ -48,10 +48,10 @@
 {702}{}{Content d'avoir aidé. J'ai encore quelques questions.}
 {703}{}{Bon ben, prenez soin de vous.}
 {704}{}{Je ne pense pas que ce soit à cause des tombes ouvertes que tu tombes Samuel. Enfin bon, ne te surmène pas, quoi.}
-{1000}{}{::Siffle::}
-{1001}{}{::Toux:: ::Toux::}
-{1002}{}{::Raclement de gorge::}
-{1003}{}{::Tousse::}
-{1004}{}{::Soupir::}
+{1000}{}{*Siffle*}
+{1001}{}{*Tousse* *Tousse*}
+{1002}{}{*Racle sa gorge*}
+{1003}{}{*Tousse*}
+{1004}{}{*Soupir*}
 {1005}{}{<Hic>}
 {2000}{}{C'a été une... <Hic> longue journée. Rev'nez d'main matin.}

@@ -4,7 +4,7 @@
 {103}{}{Rien à signaler.}
 {104}{}{Rien à signaler de mon côté et toi ?}
 {105}{}{Tu devrais pas être à ton poste, soldat ? Faut pas traîner par ici !}
-{106}{}{Tu ne portes pas ton uniforme.}
+{106}{}{Tu ne portes pas ton uniforme. }
 {107}{}{Tu ferais mieux d'aller retrouver le Sergent et de te mettre en tenue.}
 {108}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller à la réserve.}
 {109}{}{Mais bon sang, qui es-tu ? -- Alerte ! Des intrus !}

@@ -44,14 +44,14 @@
 {320}{}{Eccellente! Ora preparero' la tua ricompensa. Mettiti comodo. Potrebbe volerci un po'.}
 {321}{}{[CONTINUA]}
 {322}{}{Tieniti la ricompensa. Non ho tempo da perdere ad aspettare.}
-{330}{}{Si, porta i semi a me e potrai reclamare la tua ricompensa.}
+{330}{}{Si, porta i semi a me e potrai riscuotere la tua ricompensa}
 {331}{}{Tornero'.}
 {340}{}{Darti la posizione della struttura e' gia' una ricompensa di per se', visto che sara' piena di provviste utili. Puoi ovviamente tenere tutto cio' che trovi. A me interessano solo campioni di semi unici. Una volta che me li avrai portati, ti daro' un dono da presentare agli Shi.}
-{341}{}{D'accordo, lo farò. Tornerò.}
+{341}{}{D'accordo, lo faro'. Tornero'.}
 {342}{}{Quella la chiami una ricompensa? Posso esplorare rovine quando voglio. Non mi interessa.}
 {350}{}{[Ti guarda in attesa.]}
 {351}{}{Ecco i semi che volevi.}
-{352}{}{Tornerò quando avrò i semi.}
+{352}{}{Tornero' quando avro' i semi.}
 {360}{}{Allora sembra che tu non mi serva piu'. [Fa un gesto verso le creature vegetali.] Uccidetelo, miei figli! Il suo corpo sara' un ottimo ospite per il vostro nuovo fratellino!}
 {361}{}{Allora sembra che tu non mi serva piu'. [Fa un gesto verso le creature vegetali.] Uccidetela, miei figli! Il suo corpo sara' un ottimo ospite per il vostro nuovo fratellino!}
 {362}{}{[FATTO]}
@@ -62,12 +62,12 @@
 {381}{}{Okay. E questo campione vegetale cosa c'entra con tutto cio'?}
 {382}{}{Continua...}
 {390}{}{Ironia della sorte, proprio mentre mi stavo concentrando sulle mie nuove piante senzienti, ho fatto una grande scoperta nella ricerca sulle piante resistenti alle radiazioni. Ho tenuto segreta questa scoperta, per non distogliere l'attenzione dalla mia invenzione piu' importante. Quando gli altri non hanno capito il valore delle mie piante senzienti, ho deciso di tenere il segreto per ripicca. Fino ad ora. Con il campione che ti ho dato, persino un ottuso come il dottor Wong potrebbe raggiungere l'obiettivo di creare piante resistenti alle radiazioni.}
-{391}{}{Allora, perché questo cambiamento di idea?}
-{392}{}{Va bene. Lo consegnerò al dottor Wong.}
+{391}{}{Allora, perche' questo cambiamento di idea?}
+{392}{}{Va bene. Lo consegnero' al dottor Wong.}
 {393}{}{Lo portero' al dottor Wrong. Ma se non mi dara' una ricompensa adeguata, ci rivedremo.}
 {394}{}{Tieniti pure il campione. Sono sicuro che il dottor Wong e gli altri scienziati Shi sapranno cavarsela senza il tuo aiuto. Ho finito di farti favori.}
 {400}{}{Non ho cambiato idea. Oltre a essere resistente alle radiazioni, il campione vegetale e' infuso con il mio siero di senzienza. Come un padre orgoglioso, desidero solo vedere la mia creazione prosperare. Consegnalo per me, e riceverai una vera ricompensa.}
-{401}{}{Va bene. Lo consegnerò al dottor Wong.}
+{401}{}{Va bene. Lo consegnero' al dottor Wong.}
 {402}{}{No. Tieniti pure il campione. Ho finito di aiutarti.}
 {403}{}{Il dottor Wong sembra un tipo furbo. Pensi davvero che si fiderebbe di un campione vegetale proveniente da te?}
 {410}{}{Mi e' giunta voce che esista una vecchia struttura del governo degli Stati Uniti dove si possono ottenere semi vegetali unici, non toccati dalle radiazioni. La struttura e' troppo lontana perche' possa andarci di persona, ma credo sarebbe un compito semplice per un wastelander esperto come te.}
@@ -78,15 +78,15 @@
 {421}{}{Vedro' di fare il possibile.}
 {422}{}{Se vuoi che elimini Wong, dovrai darmi qualcosa in anticipo.}
 {423}{}{Sai, sta diventando tutto un po' troppo complicato. Credo che preferirei fare a pezzi te e poi fare a pezzi gli Shi.}
-{424}{}{Non ucciderò il dottor Wong per te. Ho finito qui.}
+{424}{}{Non uccidero' il dottor Wong per te. Ho finito qui.}
 {430}{}{Molto bene. Questo veleno potrebbe tornarti utile. L'ho estratto da una delle mie creazioni. E' estremamente letale. [Ti porge una siringa.]}
 {431}{}{Vedro' di fare il possibile.}
 {440}{}{[Ti guarda in attesa.]}
-{441}{}{Ci sto ancora lavorando. Tornerò da te.}
+{441}{}{Ci sto ancora lavorando. Tornero' da te.}
 {442}{}{Ho consegnato il campione agli Shi.}
-{443}{}{Gli Shi hanno il campione e il dottor Wong è morto.}
+{443}{}{Gli Shi hanno il campione e il dottor Wong e' morto.}
 {444}{}{Il tuo metodo di vendetta non era abbastanza diretto per i miei gusti, quindi ho ucciso tutti io per te.}
-{445}{}{Il dottor Wong è morto.}
+{445}{}{Il dottor Wong e' morto.}
 {446}{}{Ho consegnato il campione agli Shi e ho detto al dottor Wong quali erano le tue intenzioni. Ha distrutto il campione immediatamente.}
 {450}{}{Impossibile! Una pianta di spore non puo' parlare, indipendentemente dalla sua intelligenza. O stai scherzando, oppure eri sotto l'effetto di qualche allucinazione indotta da droghe. A giudicare dal tuo aspetto, direi la seconda. Ma basta con queste sciocchezze. Devo sapere se sei disposto ad aiutarmi.}
 {451}{}{Si, immagino che *suoni* piuttosto assurdo. Comunque, con cosa volevi che ti aiutassi?}
@@ -116,31 +116,31 @@
 {551}{}{Vedro' di fare il possibile.}
 {552}{}{Se vuoi che elimini Wong, dovrai darmi qualcosa in anticipo.}
 {553}{}{Sai, sta diventando tutto un po' troppo complicato. Credo che preferirei fare a pezzi te e poi fare a pezzi gli Shi.}
-{554}{}{Non ucciderò il dottor Wong per te. Ho finito qui.}
+{554}{}{Non uccidero' il dottor Wong per te. Ho finito qui.}
 {560}{}{Eccellente. E il dottor Wong?}
-{561}{}{È ancora vivo. Tornerò quando non sarà più un problema.}
+{561}{}{E' ancora vivo. Tornero' quando non sara' piu' un problema.}
 {562}{}{Non uccidero' il dottor Wong per te. Ho dato loro il campione vegetale, e ora ho finito di aiutarti.}
 {570}{}{Ho bisogno che vengano eliminati, e tu sembri piu' che capace di farlo.}
 {571}{}{Perche' non mandi questi, uh, quelli piu' riusciti, a occuparsene?}
-{572}{}{Sembra divertente. Lo farò.}
+{572}{}{Sembra divertente. Lo faro'.}
 {573}{}{Io cosa ne ricavo?}
 {574}{}{Non mi interessa sistemare i tuoi casini.}
 {580}{}{Non attaccheranno i loro simili. Capiscono perche' devo liberarmi dei loro fratelli meno fortunati, ma non compiranno il compito da soli. Questo mi ha lasciato in una situazione piuttosto delicata. Ed e' per questo che sono stato cosi' felice di sapere del tuo arrivo. Allora, mi aiuterai?}
-{581}{}{D'accordo. Lo farò.}
+{581}{}{D'accordo. Lo faro'.}
 {582}{}{Io cosa ne ricavo?}
 {583}{}{Non mi interessa sistemare i tuoi casini.}
 {590}{}{Il laboratorio e' proprio li' a nord. La sentinella ti lascera' passare. Fai attenzione. Queste creature sono incredibilmente forti, quindi cerca di non farle avvicinare troppo. Oh, e attento alle spore velenose che lanciano. Ma non preoccuparti. Ho un antidoto, nel caso venissi avvelenato.}
-{591}{}{Va bene. Tornerò.}
+{591}{}{Va bene. Tornero'.}
 {592}{}{Quindi sono incredibilmente forti e hanno proiettili velenosi? Ripensandoci, passo.}
 {600}{}{Ti daro' del denaro, naturalmente. Inoltre, ho informazioni che credo ti interesserebbero molto. Allora, mi aiuterai?}
-{601}{}{D'accordo. Lo farò.}
+{601}{}{D'accordo. Lo faro'.}
 {602}{}{Non mi interessa sistemare i tuoi casini.}
 {610}{}{[Ti guarda in attesa.]}
-{611}{}{Tornerò dopo aver eliminato le creature nel laboratorio.}
+{611}{}{Tornero' dopo aver eliminato le creature nel laboratorio.}
 {612}{}{Tutte le creature nel laboratorio sono morte.}
 {613}{}{Tutte le creature nel laboratorio sono morte, ma sono stato avvelenato. Avevi detto qualcosa riguardo un antidoto?}
 {620}{}{Si, te lo somministro subito. Ecco.}
-{621}{}{Ah. Mi sento già meglio.}
+{621}{}{Ah. Mi sento gia' meglio.}
 {630}{}{E' un peccato perdere quegli esemplari, ma un male necessario per riprendere il mio laboratorio. Hai fatto bene. Ecco la tua ricompensa in denaro. [Ti consegna 1000$.] La seconda parte della ricompensa e' informazione — e un secondo compito da svolgere.}
 {631}{}{E' un peccato perdere quegli esemplari, ma un male necessario per riprendere il mio laboratorio. Hai fatto bene. La tua ricompensa e' informazione — e un secondo compito da svolgere.}
 {632}{}{Sentiamo.}

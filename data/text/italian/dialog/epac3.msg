@@ -5,7 +5,7 @@
 {201}{}{No grazie, ma mi servono delle informazioni.}
 {202}{}{Non ora, devo andare.}
 {210}{}{Nessun problema! Sono un asso in meccanica quantistica, biologia submolecolare e sigle di serie TV. Chiedimi qualsiasi cosa. Ma prima, posso farti una domanda?}
-{211}{}{Direi di sì. Che posso fare per te?}
+{211}{}{Direi di si'. Che posso fare per te?}
 {220}{}{Sicuro di non voler un po' di toast?}
 {221}{}{NO! Non voglio toast. Niente muffin, niente dolcetti. Niente panini, baps, baguette o bagel. Niente croissant, niente crumpet, niente pancake, niente focaccine di patate e soprattutto niente maledetti flapjack!!!}
 {230}{}{Ah! Allora sei un tipo da waffle!}
@@ -43,7 +43,7 @@
 {350}{}{Ehi, mi hai riparato! Sapevo che Mr. Handy aveva lasciato il lavoro a meta'. Ora mi sento meglio che mai! Grazie.}
 {351}{}{Certo, e' il mio lavoro. A dopo.}
 {352}{}{Ora aspetta un attimo. Se non vuoi che ti ricompensi con del toast, allora almeno lascia che ti dia un piccolo consiglio. Sai
- quelle slot machine che trovi nei casinò? Beh, ho calcolato un metodo per far perdere alle macchine i loro soldi.
+ quelle slot machine che trovi nei casino'? Beh, ho calcolato un metodo per far perdere alle macchine i loro soldi.
  Ho un QI di 6000, sai. Quando non faccio toast, mi piace riflettere su queste cose. Per avermi aiutato,
  ti diro' questi codici segreti. Usa una delle macchine come faresti normalmente e...}
 {353}{}{[AVANTI]}

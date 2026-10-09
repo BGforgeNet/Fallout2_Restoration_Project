@@ -6,8 +6,8 @@
 {105}{}{Mamma e' una gran bella persona, vero?}
 {106}{}{Sono contento che gli orfani del Den abbiano un posto dove vivere adesso.}
 {200}{}{Ciao, signore!}
-{201}{}{Sono contento che gli altri bambini non rubino più.}
+{201}{}{Sono contento che gli altri bambini non rubino piu'.}
 {300}{}{Salve, signorina!}
-{301}{}{Sono contento che gli altri bambini non rubino più.}
+{301}{}{Sono contento che gli altri bambini non rubino piu'.}
 {400}{}{Vedi un ragazzino.}
 {401}{}{Vedi una bambina.}

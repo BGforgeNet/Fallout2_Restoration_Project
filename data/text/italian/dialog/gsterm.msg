@@ -111,7 +111,7 @@
 {353}{}{Esci.}
 {360}{}{Postazioni PoseidoNet Attive: Centrale Nucleare #5, Raffineria di Navarro, Postazione di Controllo ENCLAVE, ENCLAVE - Laboratorio di Ricerca sui Vault... Accesso Negato}
 {361}{}{Le luci sono accese, ma in casa non c'e' nessuno. }
-{362}{}{È tutto spento, tranne il Controllo Ricerca dei Vault dell’ENCLAVE. Chissà che cos’è...}
+{362}{}{E' tutto spento, tranne il Controllo Ricerca dei Vault dell’ENCLAVE. Chissa' che cos’e'...}
 {363}{}{Hmm, sembra che tutto sia o spento o chiuso. Beh, pazienza.}
 {370}{}{Accesso in corso... Postazione Enclave - Accesso Negato.}
 {371}{}{Accesso in corso... ancora... Postazione Enclave - Accesso Negato.}

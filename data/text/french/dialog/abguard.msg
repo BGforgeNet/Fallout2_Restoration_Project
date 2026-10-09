@@ -11,7 +11,7 @@
 {300}{}{Personne... Juste un vieux garde de caravane à la retraite. Beaucoup de gens me confondent avec un genre de shérif parce que je suis ce qui ressemble le plus à la loi par ici, mais ce n'est pas le cas. Je prends soin de cette communauté parce qu'elle vaut le coup d'être protégée.}
 {301}{}{Et en retour, la communauté prend soin de moi. J'ai droit à de la bibine supplémentaire de la part des moines, Peterson fait en sorte que je sois bien nourri et Bill s'assure que j'ai assez de munitions et de stims. Pas mal pour un retraité non ?}
 {302}{}{Je suis celui qui te garde au pas, et c'est tout ce que tu dois savoir. Va faire ce que t'as à faire et laisse-moi tranquille.}
-{303}{}{C'est un bon arrangement. Puis-je te demander autre chose ?}
+{303}{}{C'est un bon arrangement. Laisse te demander autre chose.}
 {304}{}{Ouais peu importe, salut.}
 {305}{}{Tu crois que tu peux me tenir en laisse ou quoi ? Essaie donc, le vieux. Ca va être marrant.}
 {400}{}{Tu peux trouver Bill, notre marchand, dans le bâtiment d'en face. Sinon tu peux allez chez Percy au dépotoir de Gecko ou chez Happy Harry à la Cité de l'Abri.}

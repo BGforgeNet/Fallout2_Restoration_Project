@@ -12,7 +12,7 @@
 {400}{}{Que veux-tu savoir ?}
 {401}{}{Ok. Je voudrais vous poser une autre question.}
 {402}{}{Hmm... Je crois me rappeler que quelqu'un dans notre Ordre possède ce savoir. Oui, je m'en rappelle maintenant, Frère Thomas a étudié ceci récemment.}
-{403}{}{Vous l'avez ? Génial ! Je peux le voir ?}
+{403}{}{Ça me va. Indiquez-moi simplement où trouver frère Thomas et j'irai lui demander.}
 {404}{}{J'en sais rien.}
 {405}{}{Bon, merci quand même.}
 {406}{}{J'ai bien peur que Frère Thomas soit le seul à avoir possédé ce savoir. Cependant, nos ordinateurs ont probablement gardé une trace.}
@@ -26,7 +26,7 @@
 {414}{}{Bien. Quand vous aurez récupéré le livre, faites-le-moi savoir.}
 {415}{}{Ok, salut.}
 {416}{}{Rebonjour, mon ami.}
-{417}{}{J'ai tué la bête et récupéré le livre !}
+{417}{}{J'ai tué la bête et récupéré le livre.}
 {418}{}{Excellent ! Donnez-le-moi !}
 {419}{}{Le voilà.}
 {420}{}{Pas si vite ! Combien il vaut, pour vous, ce livre ?}
@@ -64,7 +64,7 @@
 {455}{}{Je comprends votre scepticisme quant à notre manière de vivre, mais vous devez comprendre que c'est ainsi que nous vivons depuis toujours. Changez les choses maintenant, après tant d'années... Ce serait un blasphème envers notre foi... Malgré tout je devrais prendre en compte votre avis. Je sens une grande sagesse en vous, nomade. Il est bien malheureux que vous soyez si peu nombreux.}
 {456}{}{Merci. J'aimerais savoir autre chose...}
 {457}{}{Très bien. j'aimerais savoir autre chose.}
-{500}{}{Arrête ça! }
+{500}{}{Arrête ça!}
 {501}{}{Tu gagnes %d points d'expérience pour avoir ramené le livre.}
 {600}{}{J'ai réparé la pompe à eau.}
 {601}{}{C'est une excellente nouvelle. Cette pompe à eau avait toujours bien fonctionné. Ces marchands sont restés ici quelques jours et je ne suis pas sûr qu'ils aient fait beaucoup pour ça. Encore merci.}
@@ -98,7 +98,7 @@
 {1030}{}{J'ai trouvé un livre.}
 {1031}{}{C'est très bien. Merci. Tu es vraiment un garçon spécial.}
 {1032}{}{C'est très bien. Merci. Tu es vraiment un garçon spécial.}
-{1033}{}{Yeah !}
+{1033}{}{Youpi.}
 {1100}{}{J'étais là-bas plus tôt, j'ai vu quelques cadavres, je pense que l'un d'entre eux était celui de votre moine disparu. Si ça peut vous consoler, j'ai tué la chose responsable de sa mort.}
 {1110}{}{Ah... C'est bien ce que je craignais. Frère Thomas nous manquera beaucoup. Vous avez mes remerciements pour avoir traqué et éliminé la bête qui sévissait là-bas. Cependant, je... je suppose que vous n'auriez pas trouvé un livre là-bas. C'est un livre très important qui avait été vu pour la dernière fois entre les mains de frère Thomas.}
 {1111}{}{Non mais je suppose que je peux y retourner et vérifier.}
@@ -108,6 +108,6 @@
 {3000}{}{Comment puis-je t'aider ?}
 {4091}{}{Donc personne d'autre n'a pris la peine de descendre là-bas pour voir comment il va ? Et s'il était simplement coincé, et qu'il mourait doucement de faim ?}
 {4092}{}{J'imagine que c'est possible, mais il faut que vous compreniez. Nous sommes des gens pacifiques. L'idée de devoir affronter un de ces monstres du désert nous terrifie. Nous ne sommes pas préparés à de tels affrontements. }
-{4177}{}{J'ai tué la bête !}
+{4177}{}{J'ai tué la bête.}
 {4188}{}{Excellent ! Et pour le livre, l'avez-vous trouvé ?}
 {6020}{}{Si vous voulez vraiment me montrer votre gratitude, que pensez-vous d'un peu d'argent ?}

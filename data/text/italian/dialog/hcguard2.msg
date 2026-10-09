@@ -5,8 +5,8 @@
 {202}{}{Ashton mi ha mandato a chiamarti. Ha detto che doveva parlarti riguardo l'ultimo gruppo di donazioni.}
 {210}{}{Ehi, un momento! Non ti ho mai visto da queste parti. Che ci fai qui?}
 {211}{}{Sono una nuova recluta. Sono stato trasferito qui di recente.}
-{212}{}{Sì, mi hanno assegnato il compito di ucciderti.}
-{220}{}{Maledizione. Non ho tempo per queste stronzate, il mio turno è quasi finito.}
+{212}{}{Si', mi hanno assegnato il compito di ucciderti.}
+{220}{}{Maledizione. Non ho tempo per queste stronzate, il mio turno e' quasi finito.}
 {221}{}{Senti, sembrava piuttosto incazzato. Io non lo farei aspettare.}
 {230}{}{Ah, merda. Va bene. Tieni d'occhio tutto mentre sono via. Torno tra qualche minuto.}
 {231}{}{Nessun problema.}

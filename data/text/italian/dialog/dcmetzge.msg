@@ -232,7 +232,7 @@
  uguali, quindi se non e' quello che cerchi, potresti essere proprio sfigato.}
 {911}{}{Senti, potrebbe essere una richiesta insolita, ma vorrei davvero avere la precedenza su qualsiasi nuova merce che hai. C'e' un modo
  per andare a controllare le scorte nel tuo altro campo? Naturalmente, sarei disposto a pagare un prezzo maggiorato.}
-{912}{}{Va bene. Ripasserò più tardi.}
+{912}{}{Va bene. Ripassero' piu' tardi.}
 {913}{}{Bene, ma la prossima volta fammi un favore e non farmi perdere tempo a meno che tu non abbia affari concreti da discutere.}
 {914}{}{Prezzo maggiorato, eh? Ora parli la mia lingua. Di solito gestiamo le vendite qui, ma suppongo si possa fare un'eccezione,
  purche' tu sia serio. Ti dico come arrivare la', ma tienilo per te, cazzo. Te lo giuro, se risulta che sei una

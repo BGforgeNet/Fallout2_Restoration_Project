@@ -108,9 +108,9 @@
 {390}{}{Giardino dell'Eden, eh? Beh, per me e' Jenny, la cosa che piu' si avvicina al Giardino dell'Eden. Bastano pochi dollari per crearlo. (sorride) Non sembra male, ma non so dove potresti trovare la cosa che cerchi, altrimenti. }
 {391}{}{Beh, non e' proprio quello che intendevo. Lascia che ti faccia qualche altra domanda.}
 {392}{}{Questo e' tutto quello che volevo sapere, per il momento.}
-{2900}{}{A dire il vero, ora qui è tutto abbastanza tranquillo.}
+{2900}{}{A dire il vero, ora qui e' tutto abbastanza tranquillo.}
 {2901}{}{uomini?insetto che mutilano i brahmin}
 {2902}{}{roditori di dimensioni insolite}
 {2903}{}{uno spirito che cammina}
 {2904}{}{un cacciatore scomparso}
-{2905}{}{. Klamath è diventata un posto piuttosto movimentato, ultimamente.}
+{2905}{}{. Klamath e' diventata un posto piuttosto movimentato, ultimamente.}

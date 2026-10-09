@@ -51,7 +51,7 @@
 {150}{}{Che amico.}
 {151}{}{I selvaggi sono persone come noi.}
 {152}{}{Hip, hip, hurrah per il selvaggio.}
-{153}{}{./~ La mia gola e' secca… ./~}
+{153}{}{./~ Quanto ho sete, quanto ho sete… ./~}
 {154}{}{./~ 99 bottiglie di birra sul muro, 99 bottiglie di birra… ./~}
 {155}{}{Quest'uomo sembra essere a casa sua.}
 {156}{}{Vedi un uomo che mangia.}

@@ -22,35 +22,35 @@
 {121}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un piège hautement explosif dans l'encadrement de la porte.}
 {122}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout) et un piège dans l'encadrement de la porte.}
 {123}{}{Tu vois une porte solide avec un verrou et un piège dans l'encadrement de la porte.}
-{124}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un piège placé sur l'encadrement de la porte}
-{125}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé sur l'encadrement de la porte.}
-{126}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout) et un fil sectionné sur l'encadrement de la porte.}
-{127}{}{Tu vois une porte robuste avec un verrou et un fil sectionné sur l'encadrement de la porte.}
-{128}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un fil sectionné sur l'encadrement de la porte.}
-{129}{}{Tu vois une porte solide avec un vieux verrou rouillé et un fil sectionné sur l'encadrement de la porte.}
-{130}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout).}
+{124}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un piège placé dans l'encadrement de la porte.}
+{125}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé dans l'encadrement de la porte.}
+{126}{}{Tu vois une porte solide avec un verrou (pouvant être crocheté avec un passe-partout) et un fil coupé dans l'encadrement de la porte.}
+{127}{}{Tu vois une porte robuste avec un verrou et un fil sectionné dans l'encadrement de la porte.}
+{128}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un fil sectionné dans l'encadrement de la porte.}
+{129}{}{Tu vois une porte solide avec un vieux verrou rouillé et un fil coupé dans l'encadrement de la porte.}
+{130}{}{Tu vois une porte solide avec un verrou (pouvant être crocheté avec un passe-partout).}
 {131}{}{Tu vois une porte solide munie d'un verrou.}
 {132}{}{Tu vois une porte solide sans dispositif de verrouillage apparent.}
 {133}{}{Tu vois une porte solide munie d'un vieux verrou rouillé.}
-{134}{}{Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-partout) et un piège hautement explosif sur l'encadrement de la porte.}
-{135}{}{Tu vois une porte abîmée avec un verrou et un piège hautement explosif sur l'encadrement de la porte.}
-{136}{}{Tu vois une porte abîmée sans dispositif de verrouillage apparent et un piège hautement explosif sur l'encadrement de la porte.}
-{137}{}{Tu vois une porte abîmée avec un vieux verrou rouillé et un piège hautement explosif sur l'encadrement de la porte.}
-{138}{}{Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-partout) et un piège sur l'encadrement de la porte.}
-{139}{}{Tu vois une porte abîmée avec un verrou et un piège sur l'encadrement de la porte.}
-{140}{}{Tu vois une porte abîmée sans dispositif de verrouillage apparent et un piège sur l'encadrement de la porte.}
-{141}{}{Tu vois une porte abîmée avec un vieux verrou rouillé et un piège sur sur l'encadrement de la porte.}
-{142}{}{Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-partout) et un fil sectionné sur l'encadrement de la porte.}
-{143}{}{Tu vois une porte abîmée avec un verrou et un fil sectionné sur l'encadrement de la porte.}
-{144}{}{Tu vois une porte abîmée sans dispositif de verrouillage apparent et un fil sectionné sur l'encadrement de la porte.}
-{145}{}{Tu vois une porte abîmée avec un vieux verrou rouillé et un fil sectionné sur l'encadrement de la porte.}
-{146}{}{Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-partout).}
+{134}{}{Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-partout) et un piège hautement explosif dans l'encadrement de la porte.}
+{135}{}{Tu vois une porte abîmée avec un verrou et un piège hautement explosif dans l'encadrement de la porte.}
+{136}{}{Tu vois une porte abîmée sans dispositif de verrouillage apparent et un piège hautement explosif dans l'encadrement de la porte.}
+{137}{}{Tu vois une porte abîmée avec un vieux verrou rouillé et un piège hautement explosif dans l'encadrement de la porte.}
+{138}{}{Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-partout) et un piège dans l'encadrement de la porte.}
+{139}{}{Tu vois une porte abîmée avec un verrou et un piège dans l'encadrement de la porte.}
+{140}{}{Tu vois une porte abîmée sans dispositif de verrouillage apparent et un piège dans l'encadrement de la porte.}
+{141}{}{Tu vois une porte abîmée avec un vieux verrou rouillé et un piège dans l'encadrement de la porte.}
+{142}{}{Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-partout) et un fil coupé dans l'encadrement de la porte.}
+{143}{}{Tu vois une porte abîmée avec un verrou et un fil sectionné dans l'encadrement de la porte.}
+{144}{}{Tu vois une porte abîmée sans dispositif de verrouillage apparent et un fil sectionné dans l'encadrement de la porte.}
+{145}{}{Tu vois une porte abîmée avec un vieux verrou rouillé et un fil coupé dans l'encadrement de la porte.}
+{146}{}{Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-partout).}
 {147}{}{Tu vois une porte abîmée munie d'un verrou.}
 {148}{}{Tu vois une porte abîmée sans dispositif de verrouillage apparent.}
 {149}{}{Tu vois une porte abîmée munie d'un vieux verrou rouillé.}
 {150}{}{Tu vois une vieille porte avec un verrou (pouvant être ouvert avec un passe-partout) et un piège hautement explosif sur l'encadrement de la porte.}
 {151}{}{Tu vois une vieille porte avec un verrou et un piège hautement explosif sur l'encadrement de la porte.}
-{152}{}{Tu vois une vieille porte sans dispositif de verrouillage apparent et un piège hautement explosif sur sur l'encadrement de la porte.}
+{152}{}{Tu vois une vieille porte sans dispositif de verrouillage apparent et un piège hautement explosif dans l'encadrement de la porte.}
 {153}{}{Tu vois une vieille porte avec un vieux verrou rouillé et un piège hautement explosif sur l'encadrement de la porte.}
 {154}{}{Tu vois une vieille porte avec un verrou (pouvant être ouvert avec un passe-partout) et un piège sur l'encadrement de la porte.}
 {155}{}{Tu vois une vieille porte avec un verrou et un piège sur l'encadrement de la porte.}
@@ -63,7 +63,7 @@
 {162}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout).}
 {163}{}{Tu vois une vieille porte avec un verrou.}
 {164}{}{Tu vois une vieille porte sans dispositif de verrouillage apparent.}
-{165}{}{Tu vois une vieille porte munie d'un vieux verrou rouillé. }
+{165}{}{Tu vois une vieille porte munie d'un vieux verrou rouillé.}
 {166}{}{Tu as déclenché le piège et as subi }
 {167}{}{ points de dégâts.}
 {168}{}{ déclenche le piège et subit }
@@ -75,17 +75,17 @@
 {174}{}{ a bloqué le verrou de la porte à cause de son manque de dextérité.}
 {175}{}{ n'a pas réussi à crocheter le verrou de cette porte.}
 {176}{}{Tu fais sauter le verrou de la porte.}
-{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
-{178}{}{You strain your back while trying to bust the lock off and take }
+{177}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis un point de dégât.}
+{178}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis }
 {179}{}{ points de dégâts.}
-{180}{}{You are too weak to bust the lock off.}
+{180}{}{Tu es trop faible pour faire sauter le verrou.}
 {181}{}{ fait sauter le verrou de la porte.}
-{182}{}{ strains his back while trying to bust the lock off and takes a point of damage.}
-{183}{}{ strains his back while trying to bust the lock off and takes }
+{182}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dégât.}
+{183}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend }
 {184}{}{ points de dégâts.}
 {185}{}{ est trop faible pour faire sauter le verrou.}
-{186}{}{ strains her back while trying to bust the lock off and takes a point of damage.}
-{187}{}{ strains her back while trying to bust the lock off and takes }
+{186}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dégât.}
+{187}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend }
 {188}{}{ points de dégâts.}
 {189}{}{Tu verrouilles adroitement la porte.}
 {190}{}{Tu ne parviens pas à verrouiller la porte.}
@@ -127,5 +127,5 @@
 {601}{}{C'est ouvert, idiot.}
 {610}{}{Tu échoues lamentablement et la charge explose prématurément.}
 {611}{}{ échoue lamentablement et la charge explose prématurément.}
-{620}{}{Vous tordez le pied de biche avec acharnement. Il est inutile maintenant.}
-{621}{}{ tord le pied de biche avec acharnement. Il est inutile maintenant.}
+{620}{}{Tu plies le pied-de-biche avec acharnement. Il est inutile maintenant.}
+{621}{}{ plie le pied-de-biche avec acharnement. Il est inutile maintenant.}

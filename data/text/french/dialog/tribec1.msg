@@ -86,7 +86,7 @@
 {411}{}{[Il sourit sévèrement.] Je me fichais pas mal de ce hideux bâtard, mais par les Dieux, fillette, je n'ai jamais eu l'intention de le massacrer. Il est vrai, qu'à présent son matériel nous appartient, mais si ça vient à se savoir qu'il est venu commercer avec nous et qu'il n'est jamais reparti, nous serons sur la liste noire des marchands.}
 {412}{}{Désolé, je crois que je me suis laissé emporter.}
 {413}{}{C'était une pourriture venant de la civilisation et il méritait la mort.}
-{414}{}{Oh là là !}
+{414}{}{Oups !}
 {420}{}{A présent je me rends compte que c'était une erreur de te confier cette tâche. Je vais garder un oeil sur toi durant ton séjour dans notre village. Allez viens, nettoyons ce bazar et rentrons au village.}
 {430}{}{[Il sourit sévèrement.] Ce foutu menteur a eu ce qu'il méritait. Que son sort serve de leçon aux marchands qui croient pouvoir nous duper pour obtenir nos objets de valeur. Tu as fait du beau travail en repérant sa combine. Je vois que j'ai pris la bonne décision en te faisant confiance. Tu es le bienvenu si tu veux rester parmi nous, et considère notre tribu comme la tienne. Cependant, il se peut qu'à l'avenir j'ai encore besoin de ton aide. Allez viens, laissons ce corps pourrir au soleil.}
 {431}{}{[Il sourit sévèrement.] Ce foutu menteur a eu ce qu'il méritait. Que son sort serve de leçon aux marchands qui croient pouvoir nous duper pour obtenir nos objets de valeur. Tu as fait du beau travail en repérant sa combine. Belle, perspicace, et fatale... Par les Dieux, fillette, tu as tout ce qu'il faut. Tu es la bienvenue si tu veux rester parmi nous, et considère notre tribu comme la tienne. Cependant, il se peut qu'à l'avenir, j'ai encore besoin de ton aide. Allez viens, laissons ce corps pourrir au soleil.}

@@ -127,7 +127,7 @@
 {806}{}{Davvero? Ti prego, racconta.}
 {807}{}{Il motore ha ceduto e ha bruciato tutti i connettori. Vado a Vault City a prendere un pezzo nuovo.}
 {808}{}{Oh grazie. Sei davvero di grande aiuto. Per favore riferiscimi non appena installi il nuovo pezzo.}
-{809}{}{Lo farò. Torno subito.}
+{809}{}{Lo faro'. Torno subito.}
 {900}{}{Spieghi all'Abate che mentre le informazioni che custodiscono potrebbero portare all'annientamento dell'umanita', potrebbero anche portare alla sua salvezza.}
 {901}{}{Scopri del fondatore originale dell'Abbazia.}
 {1000}{}{Io ammazzato mostro brutto giu' in grotta.}

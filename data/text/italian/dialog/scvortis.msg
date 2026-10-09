@@ -81,7 +81,7 @@
 {202}{}{Bene.}
 {203}{}{Non mi interessa.}
 {204}{}{Eccellente. Qui, lascia che ti segni queste coordinate sulla tua mappetta. Riferisci quando hai finito.}
-{205}{}{Peggio per te. Ora è meglio che sparisci, nel caso quei Ranger capiscano cosa è successo.}
+{205}{}{Peggio per te. Ora e' meglio che sparisci, nel caso quei Ranger capiscano cosa e' successo.}
 {206}{}{Okay. Ci vediamo.}
 {207}{}{A dire il vero, pensi di poter mandare alcuni dei tuoi uomini con me? Renderebbe tutto molto piu' veloce e garantirebbe il successo.}
 {210}{}{Sei tornato. Hai eliminato i rifugi dei Ranger?}
@@ -89,19 +89,19 @@
 {212}{}{Non ancora. Ci sto ancora lavorando.}
 {215}{}{Davvero? Dannazione. Questa e' la miglior notizia che abbia sentito finora. Sara' un duro colpo per i Rangers. Bel lavoro. Ecco il tuo pagamento. Ora ti conviene sparire, i Rangers in citta' ti cercheranno di sicuro.}
 {216}{}{Che guardino pure — non ho paura. Grazie per i soldi.}
-{217}{}{Allora è meglio che lasci la città. A dopo.}
+{217}{}{Allora e' meglio che lasci la citta'. A dopo.}
 {218}{}{Sembra che qualsiasi cosa io faccia riesca a far arrabbiare qualcuno. Ormai ci sono abituato. Ciao.}
 {220}{}{Assolutamente no. Non radunero' nessuno per questo. Se pensi di non farcela, allora vattene.}
 {221}{}{Non ho mai detto che non posso farcela. Pensavo solo che ai tuoi uomini sarebbe piaciuto unirsi al divertimento. Ma va bene, me la sbrighero' da solo, nessun problema. Riferiro' quando ho finito.}
 {222}{}{Bene, puoi escludermi, stronzo. Non saro' il tuo cagnolino. Addio.}
 {223}{}{Mi stai dando del codardo? Nessuno mi chiama cosi' e resta vivo!}
 {225}{}{Be', d'accordo. Credo di poter radunare qualche ragazzo per aiutarti. Ti incontreranno lungo la strada. Sei pronto a iniziare ora?}
-{226}{}{Dammi un po’ di tempo. Tornerò quando sarò pronto.}
+{226}{}{Dammi un po’ di tempo. Tornero' quando saro' pronto.}
 {227}{}{Sono nato pronto. Andiamo a spaccare.}
 {228}{}{Sono pronto. Andiamo.}
-{229}{}{Penso che passerò. Ho perso interesse. Addio.}
+{229}{}{Penso che passero'. Ho perso interesse. Addio.}
 {230}{}{Sei pronto per il raid, o sei qui per farmi perdere altro tempo?}
-{231}{}{Ho bisogno di più tempo.}
+{231}{}{Ho bisogno di piu' tempo.}
 {232}{}{Sono pronto. Andiamo.}
 {240}{}{Elimini i rifugi dei Rangers. Questo infligge un duro colpo ai Rangers nella loro lotta contro la schiavitu'.}
 {241}{}{Vorrei comprare degli schiavi.}
@@ -114,7 +114,7 @@
 {271}{}{Cosa, pensi di poter avere tutto gratis? Inoltre, trasudi virtu'. Non mi piace. 2000$. Prendere o lasciare.}
 {272}{}{D’accordo, tieni.}
 {273}{}{Lasciamo stare.}
-{274}{}{Faccio quello che voglio. E credo che ora ti ucciderò.}
+{274}{}{Faccio quello che voglio. E credo che ora ti uccidero'.}
 {275}{}{Tornero' quando avro' piu' soldi.}
 {280}{}{[Indica sulla tua mappa la posizione del campo degli schiavisti.] E' da quelle parti. Ora cos'altro vuoi per farmi perdere tempo?}
 {281}{}{Ho quello che mi serve. Addio.}

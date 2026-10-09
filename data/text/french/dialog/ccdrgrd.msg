@@ -24,8 +24,8 @@
 {123}{}{Je m'en vais.}
 {124}{}{C'est ton dernier avertissement. Je te demande de quitter cette zone.}
 {125}{}{Ok.}
-{126}{}{Oh... Ta gueule ! Moi rentrer de force !}
-{127}{}{Ferme-la ! Mes flingues vont me montrer l'entrée, tu vas voir !}
+{126}{}{Oh... Et puis merde. Moi tirer pour entrer.}
+{127}{}{Et puis merde. J'entre en tirant dans le tas.}
 {128}{}{Quoi ? Oh, j'ai compris. Tu as foutu en l'air le clebs et Dornan t'a assigné au nettoyage.}
 {129}{}{Ouais... Moi tout casser... chien... et beurk.}
 {130}{}{[Parlant à la radio :] Commandant. Le soldat affecté au nettoyage est ici. [Pause...] Très bien. [Il s'adresse à toi :] Entre.}

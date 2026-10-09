@@ -1,9 +1,9 @@
 {100}{}{Tu vois Louis Salvatore.}
 {150}{}{Tu vois un vieil homme distingué et élégant. Il se déplace avec un réservoir d'oxygène et il semble avoir du mal à respirer.}
 {151}{}{Tu vois Louis Salvatore. Il se déplace avec un réservoir d'oxygène et semble avoir du mal à respirer.}
-{200}{}{::Tousse::}
+{200}{}{*Tousse*}
 {201}{}{::Respiration bruyante::}
-{202}{}{::Toux:: ::Toux::}
+{202}{}{*Tousse* *Tousse*}
 {210}{}{Gardes ! Ga... ::Tousse:: ::Tousse::... Gardes !}
 {215}{}{[Salvatore tourne vers toi un visage impassible. Il t'observe pendant une fraction de seconde, puis fait un étrange geste de la main. Aussitôt, une alarme se met à retentir dans tout le casino.]}
 {216}{}{Aïeeeee ! Baisser bruit ! Mal aux oreilles ! BOBO OREILLES !}

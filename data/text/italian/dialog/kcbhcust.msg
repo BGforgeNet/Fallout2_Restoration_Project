@@ -27,7 +27,7 @@
 {136}{}{(ti guarda e poi scuote la testa)}
 {137}{}{(ti fa un gesto finemente volgare)}
 {138}{}{Probabilmente sei tu il responsabile delle mutilazioni sui brahmin.}
-{139}{}{Alcuni dei nostri cacciatori sono scomparsi; probabilmente è colpa tua.}
+{139}{}{Alcuni dei nostri cacciatori sono scomparsi; probabilmente e' colpa tua.}
 {140}{}{Ci sono degli uomini-insetto che si aggirano nei pressi della citta'.}
 {141}{}{C'e' un fantasma nel canyon a est del paese.}
 {142}{}{Non farti beccare dallo Spirito!}

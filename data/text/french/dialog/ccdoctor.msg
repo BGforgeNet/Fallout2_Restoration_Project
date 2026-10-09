@@ -45,7 +45,7 @@
 {144}{}{Heu... ouais.}
 {145}{}{Oui, j'te suis.}
 {146}{}{Eh bien, nous avons réussi ! Nous avons augmenté leur intelligence. Mais j'ai vite soupçonné que nous étions allés trop loin, que peut-être ils étaient un peu plus intelligents que ce qu'ils nous laissaient croire. Alors lorsque j'ai été transféré ici, j'ai amené l'un d'eux avec moi, pour vérifier ma théorie.}
-{147}{}{Ah...}
+{147}{}{Et?}
 {148}{}{J'avais raison ! Les Griffemorts ont apparemment joué aux idiots, en prenant leur temps pour essayer d'apprendre le plus de choses possible. Ils peuvent même imiter la voix humaine ! J'ai même eu une conversation avec celui qui est dans l'autre pièce.}
 {149}{}{Peu importe. Le fait est qu'ils ont été capables de concevoir ce plan et ça, ça montre bien combien ils sont dangereux.}
 {150}{}{Et alors, toi quoi faire ?}
@@ -94,7 +94,7 @@
 {193}{}{Que se passe-t-il ?! On nous attaque ?!}
 {194}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
 {195}{}{Mais bordel qu'est-ce qui se passe ici ?}
-{196}{}{Je ne suis pas hostile, ne me tue pas !}
+{196}{}{Je ne te veux pas de mal, ne tire pas !}
 {197}{}{Je ne me suis pas engagé pour me battre, laisse-moi tranquille.}
 {198}{}{Merde à la fin ! Je suis un docteur, pas un soldat !}
 {200}{}{[Suite]}

@@ -750,7 +750,7 @@
 {2057}{}{Oh, si', sono cattivo, sono cattivo.}
 {2058}{}{Ti faro' fuori!}
 {2059}{}{Io sono... ehm... un duro. Faresti bene a stare attento.}
-{2060}{}{Sono più furbo di quanto sembri.}
+{2060}{}{Sono piu' furbo di quanto sembri.}
 {2061}{}{Mi hai mancato!}
 {2062}{}{Wow, poteva farmi male!}
 {2063}{}{Whew! Sono ancora vivo!}
@@ -1208,7 +1208,7 @@
 {3100}{}{Devo andarmene da qui!}
 {3101}{}{Tornero'...}
 {3102}{}{Non mi ammazzerai oggi!}
-{3103}{}{A dopo, bastardo!}
+{3103}{}{A dopo, normale!}
 {3104}{}{Sentirai ancora parlare di me!}
 {3105}{}{La pagherai per questo -- piu' tardi!}
 {3106}{}{Non moriro' due volte.}
@@ -1434,7 +1434,7 @@
 {12100}{}{Devo andarmene da qui!}
 {12101}{}{Tornero'...}
 {12102}{}{Non mi ammazzerai oggi!}
-{12103}{}{A dopo, bastardo!}
+{12103}{}{A dopo, normale!}
 {12104}{}{Sentirai ancora parlare di me!}
 {12105}{}{La pagherai per questo -- piu' tardi!}
 {12120}{}{Sei storia!}
@@ -2285,7 +2285,7 @@
 {36505}{}{}
 {36520}{}{Kaga e' pronto ad affrontarti adesso.}
 {36521}{}{Sei un moscerino al confronto di Kaga.}
-{36522}{}{Kaga ti manderà alla tua prossima vita!}
+{36522}{}{Kaga ti mandera' alla tua prossima vita!}
 {36523}{}{Mancherai a Kaga.}
 {36540}{}{Assaggia l'ira di Kaga!}
 {36541}{}{Kaga diventera' famoso per averti ucciso!}
@@ -3565,28 +3565,28 @@
 {70062}{}{Non vedo un cazzo!}
 {70063}{}{I miei occhi! I miei splendidi occhi!}
 {70070}{}{CAZZO!}
-{70071}{}{Adesso la cosa è diventata personale.}
+{70071}{}{Adesso la cosa e' diventata personale.}
 {70072}{}{Oh, te ne pentirai.}
 {70073}{}{Quella con cui stai giocando e' tecnologia prebellica di altissimo livello.}
 {70074}{}{Geloso?}
 {70075}{}{Ehi! Ehi! Ehi! Questo era del tutto immotivato!}
-{70100}{}{Senti, è stato tutto un grande malinteso.}
+{70100}{}{Senti, e' stato tutto un grande malinteso.}
 {70101}{}{Ho detto che mi dispiace, ora lasciami in pace.}
 {70102}{}{Al diavolo, me ne vado.}
-{70103}{}{Tornerò più tardi e ti pugnalerò nel sonno.}
+{70103}{}{Tornero' piu' tardi e ti pugnalero' nel sonno.}
 {70104}{}{Era solo uno scherzo.}
 {70105}{}{Mi dispiace davvero, non so cosa mi sia preso.}
 {70106}{}{Mi hanno costretto, lo giuro!}
 {70107}{}{Lasciami vivere e non uccidero' mai piu', lo prometto!}
 {70108}{}{Non possiamo parlarne come persone civili?}
-{70120}{}{Oh, questo me lo godrò.}
+{70120}{}{Oh, questo me lo godro'.}
 {70121}{}{Non vedo l’ora di sentire qualche urlo.}
 {70122}{}{Mi prudono le mani dalla voglia di uccidere...}
 {70123}{}{E' ora di indulgere nelle gioie di una societa' senza polizia.}
 {70124}{}{Va bene! E' ora di un colpo all'inguine!}
 {70140}{}{Urla per me.}
 {70141}{}{Fammi dare un’occhiata migliore al tuo sangue.}
-{70142}{}{Cercherò di rendere la cosa il più dolorosa possibile.}
+{70142}{}{Cerchero' di rendere la cosa il piu' dolorosa possibile.}
 {70143}{}{Questa violenza mi eccita.}
 {70160}{}{Che fottuta barzelletta.}
 {70161}{}{Santo cielo, fai schifo.}
@@ -3597,10 +3597,10 @@
 {70202}{}{Ehi! Attento alla faccia!}
 {70210}{}{Merda! Il mio braccio!}
 {70211}{}{Ahi, brucia!}
-{70212}{}{Quello lascerà un livido orribile.}
+{70212}{}{Quello lascera' un livido orribile.}
 {70220}{}{Merda! Il mio braccio!}
 {70221}{}{Ahi, brucia!}
-{70222}{}{Quello lascerà un livido orribile.}
+{70222}{}{Quello lascera' un livido orribile.}
 {70230}{}{Ah! Proprio nel mio fottuto petto!}
 {70231}{}{Addio a una delle mie vite...}
 {70232}{}{Hai mancato il cuore, scimmia!}
@@ -3622,20 +3622,20 @@
 {70302}{}{Al diavolo, me ne vado.}
 {70303}{}{Devo filare finche' ho ancora una vita da perdere.}
 {70304}{}{Hai vinto tu, stavolta, scimmia!}
-{70320}{}{Non preoccuparti, finirà *molto* presto.}
+{70320}{}{Non preoccuparti, finira' *molto* presto.}
 {70321}{}{Questo gatto sta per balzare!}
 {70322}{}{Sbarazziamoci di questi idioti.}
-{70340}{}{Sbrigatevi a dare un morso, così posso farlo anch'io!}
+{70340}{}{Sbrigatevi a dare un morso, cosi' posso farlo anch'io!}
 {70341}{}{Almeno ti uccido con stile.}
-{70342}{}{Sarà meglio che tu non sporchi i miei vestiti di sangue. }
+{70342}{}{Sara' meglio che tu non sporchi i miei vestiti di sangue. }
 {70343}{}{Speriamo di non spezzarmi un’unghia. }
 {70360}{}{Sembra che questo gatto sia troppo veloce per te.}
-{70361}{}{Questo è semplicemente triste.}
+{70361}{}{Questo e' semplicemente triste.}
 {70362}{}{Vieni, lascia che ti mostri come si colpisce *davvero* qualcosa.}
 {70363}{}{Cavolo, quasi mi dispiace per te. Quasi.}
 {70400}{}{Ahi! La mia testa!}
 {70401}{}{Credo che il mio orecchio stia sanguinando.}
-{70402}{}{Cào! Spero che non mi abbia rotto il naso.}
+{70402}{}{Ca'o! Spero che non mi abbia rotto il naso.}
 {70410}{}{Ahi! Il mio braccio!}
 {70411}{}{Dannazione, che male!}
 {70412}{}{Almeno non e' rotto... credo.}
@@ -3643,7 +3643,7 @@
 {70421}{}{Dannazione, che male!}
 {70422}{}{Almeno non e' rotto... credo.}
 {70430}{}{Credo di essermi rotto una costola.}
-{70431}{}{Non morirò così facilmente.}
+{70431}{}{Non moriro' cosi' facilmente.}
 {70432}{}{Ahi! Fa male!}
 {70440}{}{Non le gambe!}
 {70441}{}{Ahi! Proprio allo stinco.}
@@ -3654,14 +3654,14 @@
 {70460}{}{Ahi! I miei occhi!}
 {70461}{}{Colpo basso!}
 {70462}{}{Ehi! Non posso permettermi un'altra operazione agli occhi!}
-{70470}{}{Non posso credere che tu mi abbia colpito lì.}
+{70470}{}{Non posso credere che tu mi abbia colpito li'.}
 {70471}{}{Non sono quel tipo di ragazza!}
-{70472}{}{Ora la cosa è diventata *davvero* personale.}
+{70472}{}{Ora la cosa e' diventata *davvero* personale.}
 {70500}{}{Sembra che non abbia altra scelta che scappare...}
 {70501}{}{Preferisco fuggire che morire.}
 {70502}{}{D’accordo. Adesso basta...}
 {70520}{}{Finiamola qui.}
-{70521}{}{La tua morte sarà rapida.}
+{70521}{}{La tua morte sara' rapida.}
 {70522}{}{Sembra che si sia arrivati a questo...}
 {70540}{}{Te la sei cercata.}
 {70541}{}{Non traggo alcun piacere da questo.}

@@ -97,7 +97,7 @@
 {390}{}{Sono strisciato fuori. Mentre cominciavo a riprendermi, notai che ero cambiato. Provavo a comunicare con le persone, ma tutti cercavano di uccidermi. Gli umani sono troppo violenti per sopravvivere senza una guida forte -- ma questa e' un'altra storia. Il primo passo e' riparare il reattore.}
 {391}{}{Riparare il reattore?}
 {400}{}{Per riparare il reattore Gecko, devi procurarti un Regolatore di Magnetosfera Idroelettrica da Vault City. Se non lo fai,
-Vault City attaccherà senza dubbio Gecko. Ovviamente, distruggendo il reattore, si condanneranno
+Vault City attacchera' senza dubbio Gecko. Ovviamente, distruggendo il reattore, si condanneranno
 anche loro a lungo termine.}
 {401}{}{Condannati anch'essi? Cosa intendi dire?}
 {402}{}{Perche' mai Vault City dovrebbe dare proprio a me un dispositivo per la centrale nucleare di Gecko?}
@@ -176,7 +176,7 @@ anche loro a lungo termine.}
 {701}{}{Va bene brutto figlio di puttana, ora ho un nuovo accordo per te: o ritiri i tuoi roditori, o ti giuro che faccio saltare il dannato reattore!}
 {702}{}{Va bene, va bene... Considera fatto. Solo, non toccare il reattore. (borbotta) Maledetti umani psicotici...}
 {703}{}{Ora che siamo d’accordo, cosa stavi dicendo riguardo all’ottimizzazione?}
-{704}{}{Allora è deciso. Addio.}
+{704}{}{Allora e' deciso. Addio.}
 {705}{}{Hai raggiunto un accordo sui talpe-ratto con Il Cervello.}
 {706}{}{Le pattuglie di Vault City continuano a essere attaccate dai talpe-ratto. Suppongo che tu sia dietro a questo?}
 {707}{}{Chiedi il mio aiuto, eppure lasci un compito a meta'. (tra se') Tipico umano. (a te) Ottimizza il reattore, allora, e solo allora, ti assistero'.}
@@ -191,7 +191,7 @@ anche loro a lungo termine.}
 {716}{}{Sembra che Gordon ti abbia gia' consegnato questo rapporto economico di cui parlo. Portalo subito a Vault City.}
 {717}{}{Lo faro'.}
 {718}{}{Umm... Si', forse piu' tardi.}
-{719}{}{Devi assolutamente recuperare un Regolatore Idroelettrico di Magnetosfera da Vault City per riparare il reattore di Gecko. Se non lo farai, Vault City attaccherà sicuramente Gecko. Se mi aiuterai, esaudirò la tua richiesta. Allora… ti unirai a noi?}
-{720}{}{Molto bene, ti aiuterò.}
+{719}{}{Devi assolutamente recuperare un Regolatore Idroelettrico di Magnetosfera da Vault City per riparare il reattore di Gecko. Se non lo farai, Vault City attacchera' sicuramente Gecko. Se mi aiuterai, esaudiro' la tua richiesta. Allora… ti unirai a noi?}
+{720}{}{Molto bene, ti aiutero'.}
 {721}{}{No, vaffanculo cervello di ratto! Ne ho abbastanza. E' ora di morire!}
 {4211}{}{Uh, credo che faro' meglio ad andare da Gordon a prendere quel disco. A dopo.}

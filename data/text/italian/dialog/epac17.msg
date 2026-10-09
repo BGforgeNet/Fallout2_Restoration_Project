@@ -32,7 +32,7 @@
 {191}{}{Perche' sei qui?}
 {192}{}{Di che cosa ti occupi?}
 {200}{}{Ma certo! Nessuno che mi controlla. Nessuna regola di alcun tipo. Faccio quello che voglio, quando voglio. Inoltre, essendo rimasto solo io qui, ho accesso a tutta l'attrezzatura di cui potrei mai avere bisogno. Altro?}
-{201}{}{Chi sono quelle persone laggiù nelle gabbie?}
+{201}{}{Chi sono quelle persone laggiu' nelle gabbie?}
 {202}{}{Che cos'e' tutto quel liquido dai colori strani che ho visto in giro per l'EPA?}
 {203}{}{Da dove prendi tutto questo equipaggiamento?}
 {210}{}{Quelli nelle prime celle vicino a quel muro sono alcuni abitanti del villaggio entrati qui per sbaglio, e li ho catturati per usarli piu' avanti. Gli altri, quelli che sembrano piu' forti, sono i miei guerrieri per... emergenze.}

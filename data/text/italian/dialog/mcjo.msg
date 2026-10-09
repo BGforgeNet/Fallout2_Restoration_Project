@@ -124,7 +124,7 @@
 {296}{}{Non sono d'accordo. Ho scoperto cosa succede nella Fattoria Fantasma. Adesso dimmi dove posso trovare il sacro GECK.}
 {297}{}{Ti daro' un mese di tempo per scoprire il possibile a proposito di Karl. Se non sarai tornato entro questo termine, mobilitero' gli abitanti di Modoc e ci impadroniremo della fattoria con la forza.}
 {298}{}{OK, un mese! Non fate nulla di avventato fino ad allora. Tornero'.}
-{299}{}{Ho bisogno di più tempo. Sarà impossibile trovarlo in così poco tempo.}
+{299}{}{Ho bisogno di piu' tempo. Sara' impossibile trovarlo in cosi' poco tempo.}
 {300}{}{Un mese, non un giorno di piu'! Ti ho detto che siamo disperati. Le nostre scorte di cibo sono praticamente finite. Ne avremo abbastanza per un mese, dopo di che cominceremo a morire di fame. Ho intenzione di iniziare a preparare gli abitanti immediatamente. Farai meglio a sbrigarti!}
 {301}{}{Vi prego, non fate nulla di avventato prima del mio ritorno!}
 {302}{}{[Scioccato] Il Den! F-forse siamo stati un po' troppo duri con lui. Posso immaginare cosa deve aver passato giu' alla Fattoria Fantasma, con nessuno che gli credeva e tutto il resto... Dici che adesso si trova al Den, giusto? Se tu potessi dirgli che gli crediamo e che dovrebbe tornare a casa, te ne sarei davvero grato. Nel frattempo, credo sia giunto il momento che gli Slag e gli abitanti di Modoc si conoscano.}

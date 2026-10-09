@@ -31,7 +31,7 @@
 {130}{}{Tu mens. Je sais que Navarro c'est ici. Dis-moi la vérité ou tu vas le regretter !}
 {131}{}{Hein ? Heu... Ben, ouais, c'est là. J'en ai entendu parler y a un bout de temps ! La base militaire de Navarro, au Sud-Est de San Francisco.}
 {132}{}{Toi mentir. Moi pas avoir patience. Toi dire la vérité ou toi regretter !}
-{133}{}{Tu mens. Ma patience a des limites. Tu vas me dire la vérité ou tu vas le regretter !}
+{133}{}{Tu mens. Ma patience a des limites. Tu vas me dire la vérité ou tu vas le regretter.}
 {134}{}{Va te faire foutre ! (Il prend une radio sous son aube.) Tu veux le regretter ? J'ai ici des gars qui vont t'montrer ce que c'est que l'regret ! (Il allume la radio.)}
 {135}{}{Moi te tuer !}
 {136}{}{Toi quoi faire ?}
@@ -107,11 +107,11 @@
 {206}{}{Attends, tu veux dire que tu fais partie des remplaçants de l'Enclave ? Si c'est le cas, pourquoi t'es avec des gens ?}
 {207}{}{Heu... escorte ?}
 {208}{}{J'ai engagé une escorte !}
-{209}{}{Bon, j'veux pas être grossier, mais ici, c'est une propriété privée. Si t'as l'intention de fouiner, fais-le ailleurs que chez moi !}
+{209}{}{Bon, j'veux pas être grossier, mais ici, c'est une propriété privée. Si t'as l'intention de fouiner, fais-le ailleurs que chez moi.}
 {210}{}{[Terminé]}
 {211}{}{Encore toi ! Que peut faire l'vieux Chris pour toi ?}
 {212}{}{Toi dire que Navarro au Sud. Toi mentir ! Moi ici pour savoir vérité.}
-{213}{}{Tu m'as dit que Navarro était au Sud, mon vieux. Bon, maintenant, je veux la vérité !}
+{213}{}{Tu m'as dit que Navarro était au Sud, mon vieux. Bon, maintenant, je veux la vérité.}
 {214}{}{Ton visage me dit quelque chose. Le vieux Chris a déjà dû te voir quelqu'part... Non, c'est pas possible.}
 {215}{}{Un intrus à la station ! Envoyez de l'aide !}
 {216}{}{Sonnez l'alarme !}

@@ -13,7 +13,7 @@
 {112}{}{Je viens pour un boulot.}
 {113}{}{La Première citoyenne Lynette envoie ses salutations. Elle a quelque chose pour toi.}
 {114}{}{C'est Bishop qui m'envoie.}
-{115}{}{Oh là là !}
+{115}{}{Oups !}
 {116}{}{C'est tout ? Va parler à mon contremaître, Félix.}
 {117}{}{Tu n'as pas compris. Je suis ici pour un travail.}
 {118}{}{Le shérif m'a dit de venir te parler personnellement.}

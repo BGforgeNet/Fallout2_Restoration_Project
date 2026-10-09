@@ -5,14 +5,14 @@
 {111}{}{Ehi, calma. Facevo solo un po' lo stupido. Mi dispiace veramente. Non picchiatemi, vi prego. Devo solo farvi delle domande.}
 {112}{}{Uh, mi dispiace, signor Dunton, signore. Me ne vado subito.}
 {113}{}{Mi servono delle informazioni... e fareste meglio a dirmi tutto quello che voglio sapere.}
-{114}{}{Tu e tuo fratello? Hai paura ad affrontarmi da solo? (Coccodè, coccodè)}
+{114}{}{Tu e tuo fratello? Hai paura ad affrontarmi da solo? (Coccode', coccode')}
 {120}{}{Vattene, prima che ti facciamo a fette e ti trasformiamo in carne in scatola.}
 {121}{}{Ehi, mi dispiace veramente. Non volevo farvi arrabbiare. Sono solo uno stupido. Tornero' piu' tardi, quando vi dara' meno fastidio vedermi.}
 {122}{}{Oh, okay, scusate. Non picchiatemi. Vi prego.}
 {123}{}{Almeno non vedro' piu' le vostre orribili facce da culo.}
 {130}{}{Cosa vuoi sapere da noi?}
 {131}{}{Non credo che abbiamo qualcosa da dirti. Cosa diavolo vuoi?}
-{132}{}{Vabbe'... cosa puÃ² mai volere da noi una mammoletta come te?}
+{132}{}{Vabbe'... cosa puo' mai volere da noi una mammoletta come te?}
 {133}{}{Uno di voi due ha mai sentito parlare di una cosa chiamata Kit di Creazione del Giardino dell'Eden?}
 {134}{}{Vorrei barattare.}
 {135}{}{Ci sono lavori da fare da queste parti?}
@@ -57,7 +57,7 @@
 {202}{}{OK, io mi occupero' di Torr. }
 {203}{}{OK, trovero' Torr al pascolo e mi occupero' di lui per voi. }
 {204}{}{Dopotutto non credo di volerlo fare.}
-{205}{}{Va bene, ci sarò. Arrivederci.}
+{205}{}{Va bene, ci saro'. Arrivederci.}
 {206}{}{Nel frattempo, pero', c'e' qualcosa che vorrei sapere.}
 {207}{}{Arrivederci.}
 {208}{}{Io sono Chuck Dunton. Cosa sei? Stupido?}
@@ -212,5 +212,5 @@
 {707}{}{Spaventi i fratelli Dunton abbastanza da non infastidire mai piu' Torr.}
 {708}{}{[FATTO]}
 {709}{}{Lasciaci in pace.}
-{710}{}{Sì, come vuoi, tribale. Fatti gli affari tuoi.}
+{710}{}{Si', come vuoi, tribale. Fatti gli affari tuoi.}
 {800}{}{Ho trovato un mucchio di parti di insetto nel capanno vicino al pascolo. Sapete cosa sono?}

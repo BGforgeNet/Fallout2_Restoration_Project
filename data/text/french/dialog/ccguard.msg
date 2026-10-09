@@ -3,7 +3,7 @@
 {102}{}{Un soldat doté d'une sorte de SuperArmure.}
 {103}{}{C'est pas vrai ! Je suis encore de corvée de patates !}
 {104}{}{On dit que le vieux va aller à SF !}
-{105}{}{J'en ai marre d'attendre. Je dis que nous allons exterminer tous ces primitifs, et pas de quartier !}
+{105}{}{J'en ai marre d'attendre. Je dis qu'on atomise tous ces primitifs et qu'on en finisse une bonne fois pour toutes.}
 {106}{}{T'as du feu ? Oh attends, laisse tomber. J'en ai.}
 {107}{}{Jeu de dés ce soir derrière le hangar. Ne le dis pas au patron !}
 {108}{}{Qui va là ? <Zzzt> Un intrus ici !}

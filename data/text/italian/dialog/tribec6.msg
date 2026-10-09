@@ -1,5 +1,5 @@
 {100}{}{Ti serve qualcosa?}
-{101}{}{Sì, mi chiedevo chi stai sorvegliando.}
+{101}{}{Si', mi chiedevo chi stai sorvegliando.}
 {102}{}{Io? Oh no, non mi serve niente. Addio.}
 {103}{}{Chi tu guarda?}
 {104}{}{Ciao!}
@@ -18,6 +18,6 @@
 {144}{}{Bello rivederti, amico.}
 {260}{}{Me uccide schiavista!}
 {300}{}{Vedi un tribale dall’aspetto robusto}
-{301}{}{Vedi la guardia del capo tribù.}
+{301}{}{Vedi la guardia del capo tribu'.}
 {302}{}{Quest'uomo ti osserva con uno sguardo penetrante. Chiaramente sta proteggendo qualcuno di importante.}
 {500}{}{Sarai sempre il benvenuto qui, eroe.}

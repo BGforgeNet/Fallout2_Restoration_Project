@@ -2,7 +2,7 @@
 {101}{}{Vedi il signor Baron, il capo di questa carovana.}
 {200}{}{Salve viaggiatore, mi chiamo Robert Baron, capo di questa carovana. Cerchi di fare uno scambio?}
 {201}{}{Certo. Vediamo cosa hai.}
-{202}{}{In realtà volevo parlarti a nome di un villaggio vicino.}
+{202}{}{In realta' volevo parlarti a nome di un villaggio vicino.}
 {203}{}{No. Ora vado.}
 {204}{}{Robert Baron, eh? Hai mai pensato di farti chiamare Bobby Baron? Suona bene, non credi?}
 {210}{}{Penso che tua madre ti abbia fatto rimbalzare la testa un paio di volte. Ora, vuoi commerciare o no? Sono un uomo impegnato.}
@@ -16,21 +16,21 @@
 {240}{}{Senti, li ho gia' incontrati, e ti diro' la stessa cosa che ho detto a loro. Sono semplicemente troppo piccoli per valere il mio tempo. Inoltre, quel posto e' fetido come l'inferno.}
 {241}{}{D’accordo. Ci ho provato. Addio.}
 {242}{}{Oh, dai, non e' cosi' fuori mano. Ci passi praticamente davanti.}
-{243}{}{C’è *qualche* modo per farti cambiare idea?}
+{243}{}{C’e' *qualche* modo per farti cambiare idea?}
 {250}{}{Se non hai intenzione di acquistare nulla, allora vattene!}
 {251}{}{Barattiamo.}
 {252}{}{Scusa, vado.}
-{253}{}{Penso che farò fuori *te*, stronzo.}
+{253}{}{Penso che faro' fuori *te*, stronzo.}
 {254}{}{C'e' *qualche* modo per convincerti a cambiare idea sul commerciare con il villaggio?}
 {260}{}{E allora? Non mi importa se e' solo un *minuto* fuori strada, non vale la seccatura.}
-{261}{}{D’accordo. È inutile ragionare con te. Addio.}
-{262}{}{C’è *qualche* modo per farti cambiare idea?}
+{261}{}{D’accordo. E' inutile ragionare con te. Addio.}
+{262}{}{C’e' *qualche* modo per farti cambiare idea?}
 {263}{}{E' un peccato, perche' un mercante intelligente coglierebbe al volo questa opportunita'. Ma ehi, se non sei interessato, immagino che dovro' rivolgermi altrove...}
 {270}{}{Aspetta un momento. Non ho detto con certezza che non fossi interessato. Qual e' questa opportunita' di cui parli?}
 {271}{}{Vedi, quel villaggio forse ora non sembra un granche', ma ho informazioni privilegiate che praticamente garantiscono che diventera' il nuovo posto caldo. Fidati, esplodera' nei prossimi anni. Quindi, se fossi in te, vorrei costruire rapporti adesso, prima che diventino troppo grandi e tu perda l'occasione.}
 {280}{}{Ahah! Ti aspetti che creda che quel cesso diventera' qualcosa di valido? Credo di aver finito di perdere tempo con te.}
-{281}{}{D’accordo. È inutile ragionare con te. Addio.}
-{282}{}{C’è *qualche* modo per farti cambiare idea?}
+{281}{}{D’accordo. E' inutile ragionare con te. Addio.}
+{282}{}{C’e' *qualche* modo per farti cambiare idea?}
 {290}{}{Non stai scherzando, vero? Hmm, suppongo che non faccia male fare una piccola deviazione ogni tanto. Diamine, non e' nemmeno fuori mano. Grazie del consiglio, amico.}
 {291}{}{Nessun problema. Addio.}
 {292}{}{Yep. Addio.}
@@ -39,16 +39,16 @@
 {302}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, faro' la mia parte per assicurarmi che nulla di "spiacevole" accada alla tua carovana.}
 {303}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, ti faro' divertire come non dimenticherai mai.}
 {304}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, mia moglie qui ti fara' divertire come non dimenticherai mai.}
-{305}{}{In realtà, lascia perdere. Addio.}
+{305}{}{In realta', lascia perdere. Addio.}
 {310}{}{Ora si' che parli la mia lingua! Va bene, affare fatto. [Ti strappa avidamente i soldi di mano e ti stringe la mano.]}
-{311}{}{È stato un piacere fare affari con te. Addio.}
+{311}{}{E' stato un piacere fare affari con te. Addio.}
 {312}{}{Addio.}
 {320}{}{500$? Non vale la pena. Facciamo 1000$ e abbiamo un accordo.}
-{321}{}{Non ne ho così tanti. Addio.}
+{321}{}{Non ne ho cosi' tanti. Addio.}
 {322}{}{D’accordo, va bene. 1000$ sia.}
 {323}{}{Niente accordo. Addio.}
 {330}{}{Ora si' che parli la mia lingua! Affare fatto. [Ti strappa avidamente i soldi di mano e ti stringe la mano.]}
-{331}{}{È stato un piacere fare affari con te. Addio.}
+{331}{}{E' stato un piacere fare affari con te. Addio.}
 {332}{}{Addio.}
 {340}{}{Mi stai minacciando? Nessuno mi minaccia e resta vivo! (ai suoi guardiani della carovana) Uccidete questo stupido stronzo!}
 {341}{}{Fatevi sotto!}

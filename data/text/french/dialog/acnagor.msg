@@ -18,7 +18,7 @@
 {117}{}{As-tu retrouvé Fumace ?}
 {118}{}{Non, pas encore. Je reviendrai vite.}
 {119}{}{Je suis désolé, il est mort.}
-{120}{}{Tu dis ça pass'que tu veux pas chercher ! Je m'en tape de c'que Morlis dit ! Je vais aller le chercher moi-même !}
+{120}{}{Tu dis ça pass'que tu veux pas chercher ! Je m'en tape de c'que Morlis dit, je vais aller le chercher moi-même.}
 {121}{}{Et s'il t'arrivait quelque chose ? Morlis se retrouverait toute seule et ça la rendrait très triste. Tu ne veux pas la rendre triste, pas vrai ?}
 {122}{}{Tu fais ça.}
 {123}{}{Eh bien... Non... Bon, j'irais pas, mais c'est pas juste !}

@@ -8,4 +8,4 @@
 {203}{}{Bonne journée... Ou est-ce déjà la nuit ?}
 {204}{}{Il y a tellement de travail qui doit être fait.}
 {205}{}{La vie ici à l'Abbaye est paisible. Quelque chose de rare dans ces déserts malheureux.}
-{500}{}{Arrête ça! }
+{500}{}{Arrête ça!}

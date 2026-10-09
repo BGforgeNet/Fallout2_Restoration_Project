@@ -28,7 +28,7 @@
 {127}{}{J'ai des amis dans le Sud qui aimeraient mettre la main sur ces plans.}
 {128}{}{Le Sergent m'a dit de venir les chercher.}
 {129}{}{Dans le Sud, hein... merde ! Un espion ! Gardes ! Alerte !}
-{130}{}{Oh !}
+{130}{}{Ouups !}
 {131}{}{Ouuupela, j'ai dû faire une gaffe...}
 {132}{}{Il te manque un bout de cerveau à toi, non ? C'est pas pour rien qu'on vous appelle des bidasses. Ecoute, Einstein, je ne peux pas te donner ces plans sans autorisation, Ok ? Alors, retourne d'où tu viens et reviens avec les papiers qu'il faut !}
 {133}{}{Ecoute, Einstein, je peux pas te donner ces plans sans autorisation, Ok ? Alors, retourne d'où tu viens et reviens avec les papiers qu'il faut !}

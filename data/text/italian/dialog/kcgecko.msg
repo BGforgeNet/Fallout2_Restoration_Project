@@ -27,7 +27,7 @@
 {223}{}{Fare il trapper e' pericoloso; proprio poche settimane fa ne abbiamo perso uno.}
 {224}{}{Mi piace troppo raggirare quel Torr.}
 {300}{}{Guardate un po' chi e' venuto a farci visita.}
-{301}{}{(mumble, mumble) ...questo cocco di mamma... (mumble)}
+{301}{}{(mumble, mumble) ...questo questo santarellino... (mumble)}
 {302}{}{Non e' che sei nella zona sbagliata del paese?}
 {303}{}{Qui non abbiamo bisogno di tipi come te, selvaggio.}
 {304}{}{Forse, se tu comprassi da bere a tutti noi, potremmo anche decidere di farti restare.}

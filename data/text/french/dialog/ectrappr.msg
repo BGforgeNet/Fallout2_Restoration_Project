@@ -10,7 +10,7 @@
 {109}{}{Ca ne fait rien.}
 {110}{}{Ug.}
 {111}{}{Voici ce que j'ai.}
-{112}{}{peaux de gecko ordinaires.}
+{112}{}{des peaux de gecko ordinaires.}
 {113}{}{peaux de gecko dorées.}
 {114}{}{Je prends le tout.}
 {115}{}{La prochaine fois peut-être. Salut.}

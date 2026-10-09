@@ -9,13 +9,13 @@
 {109}{}{Piu' Colpi Critici}
 {110}{}{Visione Notturna}
 {111}{}{Presenza}
-{112}{}{Mr. Atomo}
+{112}{}{Resistenza alle Radiazioni}
 {113}{}{Robustezza}
 {114}{}{Schiena Robusta}
 {115}{}{Tiratore Scelto}
 {116}{}{Corsa Silenziosa}
-{117}{}{Corso di Sopravvivenza}
-{118}{}{Maestro Mercante}
+{117}{}{Sopravvivenzista}
+{118}{}{una Maestra Mercante}
 {119}{}{Istruito}
 {120}{}{Guaritore}
 {121}{}{Cacciatore di Tesori}
@@ -31,7 +31,7 @@
 {131}{}{Mangiaserpenti}
 {132}{}{Mr. Aggiustatutto}
 {133}{}{Medico}
-{134}{}{Ladro Mastro}
+{134}{}{Maestro Ladro}
 {135}{}{Parlatore}
 {136}{}{Oh Issa!}
 {137}{}{ERROR -- UNIMPED}
@@ -41,10 +41,10 @@
 {141}{}{Scroccone}
 {142}{}{Esploratore}
 {143}{}{Figlio dei Fiori}
-{144}{}{Trova-Piste}
+{144}{}{Cercapiste}
 {145}{}{Amico degli Animali}
-{146}{}{Esploratore}
-{147}{}{Straniero Misterioso}
+{146}{}{Ricognitore}
+{147}{}{la Straniera Mistriosa}
 {148}{}{Ranger}
 {149}{}{Tasche Rapide}
 {150}{}{Fine Dicitore}
@@ -98,7 +98,7 @@
 {198}{}{Anatomia Vivente}
 {199}{}{Personalita' Magnetica}
 {200}{}{Negoziatore}
-{201}{}{Impaccatore}
+{201}{}{Accumulatore}
 {202}{}{Piromane}
 {203}{}{Recupero Veloce}
 {204}{}{Venditore}

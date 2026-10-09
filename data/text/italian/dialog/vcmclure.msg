@@ -259,4 +259,4 @@
 {358}{}{Grazie!}
 {359}{}{Hai risolto il problema del villaggio.}
 {360}{}{Davvero interessante.}
-{370}{}{D’accordo. Allora non ti intralcerò.}
+{370}{}{D’accordo. Allora non ti intralcero'.}

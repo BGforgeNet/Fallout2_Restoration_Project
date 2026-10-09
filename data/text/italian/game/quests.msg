@@ -143,11 +143,11 @@
 {1807}{}{Formatta il database dei libri dell'Abbazia.}
 {1808}{}{Scorta Fratello Jason fino a Gecko.}
 {1900}{}{Raccogli alcune armi per i guerrieri della Tribu'.}
-{1901}{}{Sistema il pozzo per Marli e la tribù.}
+{1901}{}{Sistema il pozzo per Marli e la tribu'.}
 {1902}{}{Scopri cosa tormenta lo sciamano della Tribu'.}
 {1903}{}{Trova la sorella scomparsa di Sulik.}
 {1904}{}{Scopri cosa e' successo al gruppo di cacciatori.}
-{1905}{}{Raccogli legna da ardere per i pescatori della tribù.}
+{1905}{}{Raccogli legna da ardere per i pescatori della tribu'.}
 {1906}{}{Riunisci Sulik e sua sorella, Kurisu.}
 {1907}{}{Accompagna Krom all'incontro con il mercante.}
 {1908}{}{Porta alcune erbe (5 Radici di Xander, 3 Fiori di Broc) allo Sciamano.}

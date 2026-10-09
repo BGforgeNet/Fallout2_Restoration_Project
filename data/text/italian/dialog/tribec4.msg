@@ -1,10 +1,10 @@
 {100}{}{Vedi un giovane uomo, piccolo e vestito di stracci.}
 {101}{}{Vedi lo sciamano del villaggio.}
 {102}{}{Questo giovane fissa l'orizzonte. Ha un'espressione tormentata sul volto.}
-{103}{}{Lo sciamano sembra molto più tranquillo.}
+{103}{}{Lo sciamano sembra molto piu' tranquillo.}
 {200}{}{[Sembra immerso nei pensieri. Quando ti nota, sobbalza, poi si ricompone in fretta.] Uh, si', forestiero? Se cerchi guida spirituale, temo di non essere in grado al momento. Forse... forse un'altra volta.}
 {201}{}{Eh?! Oh, sei di nuovo tu. Non dovresti avvicinarti alla gente di soppiatto cosi'. Senti, ho molte cose per la testa al momento. Forse potrei aiutarti un'altra volta.}
-{202}{}{Sembra che qualcosa ti turbi. C’è qualcosa con cui posso aiutarti?}
+{202}{}{Sembra che qualcosa ti turbi. C’e' qualcosa con cui posso aiutarti?}
 {203}{}{Tornero' piu' tardi.}
 {204}{}{Huh-huh! Io spaventato te! Buuu!}
 {210}{}{Apprezzo l'offerta, ma... No, no, questa e' una questione personale che devo affrontare da solo.}
@@ -21,30 +21,30 @@
 {242}{}{A meno che tu non abbia un paio di palle di scorta da attaccarmi addosso, non so proprio come potrei aiutare.}
 {250}{}{Potresti andare tu da lei. Cercare di capire perche' resta nel mondo dei mortali. Appare nei boschi a sud durante la notte. Se riuscissi a scoprire qualcosa che possa aiutarmi, te ne sarei davvero grato.}
 {251}{}{Non e' un mio problema. E' ora che tu ti faccia coraggio e faccia il tuo lavoro.}
-{252}{}{Me ne occuperò.}
+{252}{}{Me ne occupero'.}
 {260}{}{Hai cambiato idea? Mi aiuterai con lo spirito perduto?}
-{261}{}{Come ho detto, non è un mio problema. Addio.}
+{261}{}{Come ho detto, non e' un mio problema. Addio.}
 {262}{}{Eh, suppongo di poterci dare un'occhiata. Ti faro' sapere cosa scopro.}
 {270}{}{Sei tornato. Hai scoperto qualcosa sullo spirito perduto?}
-{271}{}{Ci sto lavorando. Tornerò da te.}
+{271}{}{Ci sto lavorando. Tornero' da te.}
 {272}{}{Ho parlato... cioe', ho ascoltato lo spirito. Sembra sia stata tradita e uccisa dal suo amante, qualcuno di nome Thorg.}
 {280}{}{Thorg?! Era lo sciamano di cui ero apprendista. Wow, sapevo che fosse un po' stronzo, ma non l'avrei mai preso per un assassino di giovani ragazze. Hmm, immagino che una coscienza sporca spieghi quella nuotata notturna ubriaca che l'ha portato alla morte. Quindi Thorg era un assassino... guarda un po'...}
 {281}{}{E adesso?}
 {290}{}{[Sospira profondamente.] Ora immagino che tocchi a me mandarla nelle nebbie. Credo di potercela fare, ma ho bisogno che tu venga con me. Non potrei mai affrontarla da solo e nessuno degli altri villaggi verrebbe — credono che sia un cattivo presagio per un non-sciamano incontrare uno spirito perduto.}
 {291}{}{Nah. Ho gia' fatto fin troppo per te. Te la caverai da solo.}
-{292}{}{Non preoccuparti, ti aiuterò a superare tutto questo.}
+{292}{}{Non preoccuparti, ti aiutero' a superare tutto questo.}
 {293}{}{D'accordo, lo faro'. Ma solo perche' sara' divertente vederti contorcerti dalla paura.}
 {300}{}{Ti prego dimmi che ci hai ripensato. Verrai con me a occuparci dello spirito perduto, vero?}
 {301}{}{Sbagliato. Sei da solo. Addio.}
 {302}{}{D'accordo, lo faro'. Ma solo perche' sara' divertente vederti contorcerti dalla paura.}
 {310}{}{Oh, merda... oh, merda... No, posso farcela... Okay. Nessa?}
-{311}{}{Ohhh… così freddo… così solo…}
+{311}{}{Ohhh… cosi' freddo… cosi' solo…}
 {312}{}{Nessa, devi udire la mia voce. Ti sto chiamando dal mondo dei mortali.}
 {313}{}{Io... io sento qualcuno! Chi c'e'? }
 {314}{}{Io sono lo sciamano di questo villaggio. Devi entrare nelle nebbie. Li' troverai la pace.}
 {315}{}{Si'! Si', ora vedo le nebbie. Vedo gli spiriti che mi chiamano.}
 {316}{}{Va' da loro, Nessa. Entra nelle nebbie e raggiungi i tuoi antenati.}
-{317}{}{Non sono più sola.}
+{317}{}{Non sono piu' sola.}
 {320}{}{Grazie per averci aiutato a salvare Serin. Gli ho dato alcune erbe per aiutarlo a riposare e alleviare il dolore. Se gli spiriti vogliono, dovrebbe rimettersi in piedi tra un paio di giorni.}
 {330}{}{Vediamo qui... Oh, eccellente. Queste andranno bene. Tieni, prendi un po' di polvere curativa per il tuo tempo. Che i tuoi antenati ti guidino bene.}
 {400}{}{Si', si', molto divertente. Ora vai. Sono occupato.}
@@ -53,9 +53,9 @@
 {411}{}{Huh-huh! Ciao ciao!}
 {420}{}{Te l'ho gia' detto, Sempliciotto, vai e lasciami in pace.}
 {500}{}{Mi hai dato il coraggio di cui avevo bisogno per servire questo villaggio. Non so come ringraziarti abbastanza.}
-{501}{}{Ti sarò per sempre debitore.}
+{501}{}{Ti saro' per sempre debitore.}
 {600}{}{Grazie per averci aiutato a salvare Serin. Gli ho dato alcune erbe per aiutarlo a riposare e alleviare il dolore. Dovrebbe rimettersi in piedi tra un paio di giorni.}
-{601}{}{Bene, mi fa piacere. C’è qualcos’altro che posso fare?}
+{601}{}{Bene, mi fa piacere. C’e' qualcos’altro che posso fare?}
 {602}{}{Sono felice che Serin ce la fara'. Stammi bene.}
 {610}{}{In effetti, si', credo ci sia qualcosa. Curare Serin ha consumato gran parte delle mie erbe. Se potessi portarmi cinque Radici di Xander e tre Fiori di Broc, te ne sarei molto grato.}
 {611}{}{Cinque Radici di Xander e tre Fiori di Broc, capito. Tornero' quando li avro' trovati.}
@@ -64,7 +64,7 @@
 {614}{}{Perche' una quantita' cosi' precisa?}
 {620}{}{Perche' sono molto... particolare riguardo a certe cose. E' tutta una questione di equilibrio, certi numeri... [Aggronfia la fronte.] Senti, non mi aspetto che tu capisca, ma sono fatto cosi'. Mi servono cinque Radici di Xander e tre Fiori di Broc, non di piu', non di meno. Mi aiuterai?}
 {630}{}{Hai ottenuto gli oggetti di cui ho bisogno?}
-{631}{}{Sì, ho tutto qui.}
+{631}{}{Si', ho tutto qui.}
 {632}{}{Sto ancora cercando. Addio.}
 {640}{}{Vediamo qui... Oh, eccellente. Queste andranno bene. Tieni, prendi un po' di polvere curativa per il tuo tempo.}
 {641}{}{Grazie. Ciao.}

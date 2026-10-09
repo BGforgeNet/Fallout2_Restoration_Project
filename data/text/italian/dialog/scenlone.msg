@@ -72,7 +72,7 @@
 {171}{}{Come vanno le cose?}
 {172}{}{Lasciamo stare. Niente pensieri negativi. Tutto qui.}
 {173}{}{Notevole. Anche se credo stiamo parlando di due cose diverse, sembra comunque che tu meriti un bonus esperienza.}
-{174}{}{Sì!!}
+{174}{}{Si'!!}
 {175}{}{E' fatto. Ricorda pero' che c'e' molto di piu' nella vita che accumulare abbastanza punti esperienza per salire di livello. 
 C'e' un intero mondo "reale" la fuori. Ora che abbiamo chiarito questo, vogliamo riprovare?}
 {176}{}{Trascendenza? Per l'Hub! Come pensano che io possa diffondere il verbo quaggiu' se neanche mi danno un aggiornamento sulle nuove dottrine!?}

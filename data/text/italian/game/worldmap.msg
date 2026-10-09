@@ -7,7 +7,7 @@
 {211}{}{Zona Est}
 {212}{}{Zona Residenziale}
 {220}{}{Centro citta'}
-{221}{}{Città dei Trapper}
+{221}{}{Citta' dei Trapper}
 {222}{}{Grotte dei Ratti}
 {223}{}{Territorio di Caccia}
 {224}{}{Pascolo}

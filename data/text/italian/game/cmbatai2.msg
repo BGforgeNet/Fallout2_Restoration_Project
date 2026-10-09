@@ -751,7 +751,7 @@
 {3100}{}{Devo andarmene da qui!}
 {3101}{}{Tornero'...}
 {3102}{}{Non mi ammazzerai oggi!}
-{3103}{}{A dopo, bastardo!}
+{3103}{}{A dopo, normale!}
 {3104}{}{Sentirai ancora parlare di me!}
 {3105}{}{La pagherai per questo -- piu' tardi!}
 {3106}{}{Non moriro' due volte.}
@@ -899,7 +899,7 @@
 {12100}{}{Devo andarmene da qui!}
 {12101}{}{Tornero'...}
 {12102}{}{Non mi ammazzerai oggi!}
-{12103}{}{A dopo, bastardo!}
+{12103}{}{A dopo, normale!}
 {12104}{}{Sentirai ancora parlare di me!}
 {12105}{}{La pagherai per questo -- piu' tardi!}
 {12120}{}{Sei storia!}

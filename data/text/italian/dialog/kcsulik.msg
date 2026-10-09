@@ -423,7 +423,7 @@
 {3011}{}{Che cosa ti aspetti da noi?}
 {3012}{}{Non e' carino.}
 {3013}{}{Grazie mille.}
-{3014}{}{Questo è un bene.}
+{3014}{}{Questo e' un bene.}
 {3015}{}{Questo non va bene.}
 {3016}{}{Abbiamo un buon presentimento.}
 {3017}{}{Abbiamo un cattivo presentimento.}
@@ -482,7 +482,7 @@
 {3090}{}{Questo qui essere nostro villaggio. Noi e io andare parlare con nostri amici.}
 {3091}{}{Noi e io andare parlare di nuovo con nostri amici prima di partire.}
 {3100}{}{[AVANTI]}
-{3101}{}{Dov’è esattamente la tua tribù, Sulik?}
+{3101}{}{Dov’e' esattamente la tua tribu', Sulik?}
 {3102}{}{Grazie. Lascia che ti chieda qualcos'altro.}
 {3103}{}{Anche tu, Sulik. Stammi bene.}
 {3200}{}{Si', ho parlato con la signora Buckner riguardo al tuo debito. Adesso devo solo mettermi d'accordo con Maida. Ti faro' sapere com'e' andata non appena avro' parlato con lei.}

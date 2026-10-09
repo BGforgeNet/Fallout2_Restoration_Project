@@ -5,7 +5,7 @@
 {201}{}{Ceci ne... t'appartient pas.}
 {202}{}{Touche ça encore une fois et tu... mourras à Golgotha.}
 {210}{}{::Respiration bruyante::}
-{211}{}{::Toux:: ::Toux::}
+{211}{}{*Tousse* *Tousse*}
 {212}{}{::Il essuie la sueur qui perle sur son front::}
 {220}{}{Tu es le... [Tousse...] plus précieux de mes hommes.}
 {221}{}{Les gens de Reno se montrent-ils bien... [Tousse...] respectueux à ton égard ?}

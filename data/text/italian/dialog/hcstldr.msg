@@ -1,8 +1,8 @@
 {100}{}{Vedi un uomo vestito con una tunica.}
-{101}{}{Vedi Ashton. È lui il responsabile qui.}
+{101}{}{Vedi Ashton. E' lui il responsabile qui.}
 {102}{}{Ha un sorrisetto sul volto.}
 {200}{}{Saluti. Il mio nome e' Ashton, e sono io a occuparmi delle cose qui. Sei stato mandato per il turno di sicurezza?}
-{201}{}{Sì, in effetti sì.}
+{201}{}{Si', in effetti si'.}
 {202}{}{No, sono stato mandato da AHS?9 per controllare tutto.}
 {210}{}{Eccellente! Non si ha mai troppa sicurezza con quello che conserviamo qui, dico io. Felice di averti qui.}
 {211}{}{Davvero? Questo e'... interessante. Sei libero di guardarti intorno, naturalmente. Sono certo che troverai tutto in ordine.}
@@ -22,6 +22,6 @@
 {251}{}{Un Vault?}
 {252}{}{Non e' *davvero* un vault, lo chiamo cosi'. E' piu' una stanza di stoccaggio piena di roba. E' li' che teniamo tutte le donazioni. E' sorvegliato tutto il giorno, ogni giorno.}
 {260}{}{Interessante. Beh, vado a dare un’occhiata in giro. A dopo.}
-{270}{}{Allora, quanto è grande questo posto?}
+{270}{}{Allora, quanto e' grande questo posto?}
 {300}{}{Ciao di nuovo. Posso aiutarti con qualcosa?}
 {301}{}{No, sto solo dando un’occhiata. Addio.}

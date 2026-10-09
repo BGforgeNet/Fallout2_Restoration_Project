@@ -80,7 +80,7 @@ perche' questo costera' ::colpo di tosse:: $200.}
 {178}{}{Addio.}
 {179}{}{Minacciare l'unico dottore della citta'. Bella pensata. ::cough:: Amico, se vuoi qualcosa, puoi chiederlo educatamente. Altrimenti, esci subito dal mio ospedale.}
 {180}{}{Al diavolo, vecchio. Preparati a morire.}
-{181}{}{Sì, come vuoi.}
+{181}{}{Si', come vuoi.}
 {182}{}{Scusa. E' una giornataccia.}
 {183}{}{Stavo solo scherzando.}
 {184}{}{Giovanotto, hai molto da imparare riguardo al rispetto.}

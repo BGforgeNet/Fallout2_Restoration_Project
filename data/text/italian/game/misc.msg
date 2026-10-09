@@ -124,7 +124,7 @@
 {9242}{}{Modificazione del software in corso, Padrone... Sistemi a posto.}
 {9243}{}{Modificazione del software in corso, Padrone... Massima efficienza dei sistemi!}
 {9250}{}{}
-{9260}{}{C’è più di un modo per ottenere ciò che vuoi.}
+{9260}{}{C’e' piu' di un modo per ottenere cio' che vuoi.}
 {9261}{}{Piu' in basso cado, piu' in alto volo.}
 {9262}{}{Vivi. Impara. Evolvi.}
 {9263}{}{Sento e dimentico; vedo e ricordo; faccio e capisco.}
@@ -134,8 +134,8 @@
 {9272}{}{Non voglio sconvolgerti, ma sono appena migliorato.}
 {9273}{}{Attenzione, sono appena diventato perfetto. Ora troviamo qualche prostituta cosi' possiamo festeggiare.}
 {9274}{}{Sembra che abbia superato la perfezione. Suppongo che, se qualcuno poteva riuscirci, quello ero io.}
-{9280}{}{Il Gatto è tornato!}
+{9280}{}{Il Gatto e' tornato!}
 {9281}{}{I miei occhi mi ingannano o il mio sedere sembra meglio che mai?}
 {9282}{}{I miei sensi felini stanno fremendo!}
 {9283}{}{Se solo avessi un po' di pesce da accompagnare a questa esperienza.}
-{9284}{}{Questo Gatto è inarrestabile!}
+{9284}{}{Questo Gatto e' inarrestabile!}

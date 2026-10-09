@@ -5,12 +5,12 @@
 {104}{}{Moi chercher espion. Aller par là.}
 {105}{}{Moi chercher fille disparue. Toi savoir où trouver ?}
 {106}{}{Moi venir ici par hasard. Partir maintenant.}
-{107}{}{Va te faire ! Moi tuer toi !}
+{107}{}{Screw you. Me shoot you dead.}
 {108}{}{Euh, on met les choses au clair ?}
 {109}{}{Je cherche une oreille indiscrète qui a dû passer par ici.}
 {110}{}{Je cherche une fille disparue. Tu l'aurais pas vue par hasard ?}
 {111}{}{Pardon. J'ai pris le mauvais chemin. Faut que j'y aille.}
-{112}{}{Que dirais-tu d'une balle entre les deux yeux ?}
+{112}{}{Up yours and have a bullet breakfast, asshole.}
 {113}{}{Je pense que nous pouvons en parler sans s'énerver, comme deux personnes civilisées.}
 {114}{}{Ah, ce serait moi. Et maintenant, que va-t-il se passer ?}
 {115}{}{Pourquoi t'espionnes Elisabeth ?}
@@ -23,7 +23,7 @@
 {122}{}{Toi malade dans ta tête ! Moi enlever ta tête pour soigner.}
 {123}{}{Que veux-tu dire par s'amuser avec la fille ?}
 {124}{}{Oh, moi comprendre. Moi partir maintenant.}
-{125}{}{Espèce de sale mioche, je vais te mettre au lit maintenant !}
+{125}{}{Espèce de sale mioche, je vais te mettre au lit pour de bon maintenant !}
 {126}{}{Très bien. Amuse-toi bien, je m'en vais maintenant.}
 {127}{}{Rends la fille et on pourra tous sortir vivants d'ici.}
 {128}{}{Penses-y au moment de mourir, imbécile.}
@@ -39,7 +39,7 @@
 {138}{}{Ca a tout l'air d'un défi. J'accepte.}
 {139}{}{}
 {140}{}{}
-{141}{}{Hum... Je... Ouais, Ok. Tiens, voilà la clé de sa cellule. Elle se trouve dans la pièce au fond de la cabane. Prends-la et va-t'en, mais ne t'avise pas de revenir. Si je te revois, l'un d'entre nous devra mourir !}
+{141}{}{Hm... Je... Ouais, Ok. Tiens, voilà la clé de sa cellule. Elle se trouve dans la pièce au fond de la cabane. Prends-la et va-t'en, mais ne t'avise pas de revenir. Si je te revois, l'un d'entre nous devra mourir !}
 {142}{}{Voyons un peu qui de nous deux va s'en sortir vivant.}
 {143}{}{Sage décision. Merci.}
 {144}{}{Tu quitteras cet endroit les pieds devant, entre quatre planches.}
@@ -49,7 +49,7 @@
 {148}{}{Toi malade dans ta tête ! Moi enlever ta tête pour soigner.}
 {149}{}{Que veux-tu dire par s'amuser avec la fille ?}
 {150}{}{Oh. Moi partir maintenant.}
-{151}{}{Espèce de sale mioche, je vais te mettre au lit maintenant !}
+{151}{}{Espèce de sale mioche, je vais te mettre au lit pour de bon maintenant !}
 {152}{}{Très bien. Amuse-toi bien, je m'en vais maintenant.}
 {153}{}{Rends la fille et on pourra tous sortir vivants d'ici.}
 {154}{}{Alors, te revoilà. On va voir qui s'en sort le mieux.}

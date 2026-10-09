@@ -82,7 +82,7 @@
 {391}{}{Ouais, il organise une fête ce soir chez lui. Ca devrait être top. J'aimerais t'inviter, mon chou, mais c'est réservé à ses amis intimes.}
 {392}{}{Bois quelques verres à ma santé.}
 {393}{}{Je comprends. Amuse-toi bien.}
-{394}{}{A plus. }
+{394}{}{A plus.}
 {400}{}{Crois-moi. On va boire jusqu'à ce qu'on tombe par terre !}
 {401}{}{Au revoir.}
 {410}{}{En quoi ça t'regarde ? Casse-toi.}

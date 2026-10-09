@@ -2,7 +2,7 @@
 {101}{}{Vedi il piccolo Todd.}
 {200}{}{BOOM!!! Amo le 'splosioni!}
 {201}{}{Bam-bam! Io sparo ai mutanti!}
-{202}{}{Vorrei vedere più esplosioni!}
+{202}{}{Vorrei vedere piu' esplosioni!}
 {203}{}{Tutto dovrebbe esplodere!}
 {300}{}{Puoi far esplodere qualcosa, signore?}
 {301}{}{Quando saro' grande, governero' il mondo!}

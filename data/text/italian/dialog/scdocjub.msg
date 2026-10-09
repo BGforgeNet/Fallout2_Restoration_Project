@@ -75,7 +75,7 @@
 {174}{}{Certo. Ecco i $}
 {175}{}{Grazie; ho cercato di farmi dare i soldi da Saltbeef, ma quel vagabondo non ne ha mai avuti.}
 {176}{}{.}
-{200}{}{Ehi, piano lì, }
+{200}{}{Ehi, piano li', }
 {201}{}{figliolo! }
 {202}{}{signorina! }
 {203}{}{Non puoi toccare quella roba! Ho appena misurato la dose del signor Westin e non vorremmo mica che prendesse le medicine sbagliate. Che diavolo credi di fare?}
@@ -138,7 +138,7 @@
 {303}{}{quindi ascolta bene: sono un dottore dell'NCR. E' un dovere solenne, e viene con un giuramento solenne. Se mi chiedi ancora una volta di pisciare su quel giuramento, l'UNICA parte che finira' dalla finestra e' "prima di tutto, non nuocere." Capito?}
 {304}{}{Va bene, al diavolo. Se sei cosi' bravo come sembri credere, forse riuscirai a rammendarti da solo dopo questo.}
 {305}{}{Ehi, calma. Non volevo offenderti, dottore. Ti lascio lavorare.}
-{310}{}{Senta, dottore, mi chiedevo di quelle pillole per il cuore che ha lì sullo scaffale.}
+{310}{}{Senta, dottore, mi chiedevo di quelle pillole per il cuore che ha li' sullo scaffale.}
 {311}{}{Sei sicuro di non poter riconsiderare di vendermi alcune di quelle pillole?}
 {320}{}{Spiacente, la gente del Consigliere Westin dovrebbe passare a ritirarle tra }
 {321}{}{ giorni, }

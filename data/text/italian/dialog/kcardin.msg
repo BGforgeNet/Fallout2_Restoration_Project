@@ -107,16 +107,16 @@
 {380}{}{Beh, per qualche ragione questo non mi sorprende molto. Oh, santo cielo... ho rimproverato il mio povero ragazzo per una cosa della quale non aveva colpa. (sob) Quei Dunton me la pagheranno. Questa volta l'hanno fatta grossa.}
 {381}{}{Mi dispiace. Dove pensa che sia andato Torr?}
 {390}{}{Ok.}
-{400}{}{Hai trovato Smiley? Dov’è?}
+{400}{}{Hai trovato Smiley? Dov’e'?}
 {401}{}{Chi? Oh, ehm… no. Non so dove sia andato. Uh… senti, lasciami chiederti qualcos’altro.}
-{402}{}{È morto. È stato mangiato dai gecko.}
+{402}{}{E' morto. E' stato mangiato dai gecko.}
 {403}{}{L’ho… ehm… visto. Ha detto che scappava con un’altra donna. Whoa! Guarda l’ora. Devo andare.}
 {404}{}{Uh, io, uh, noi, ecco...Uh, no. Lo sto ancora cercando. Sono sicuro che presto si fara' vedere. Ehm, addio.}
 {410}{}{Mangiato dai gecki? Non ci credo. Il mio Smiley non si sarebbe mai lasciato prendere: e' un Trapper troppo in gamba. Devi esserti sbagliato.}
 {411}{}{Si', probabilmente ha ragione. Mi perdoni per averle fatto prendere uno spavento. Lasci che le faccia alcune domande.}
 {412}{}{No, l'ho visto, o meglio: ho visto quello che rimaneva di lui. Non era una bella visione. Beh, ci vediamo dopo. Arrivederci.}
 {413}{}{Credo proprio che tu mi abbia beccato. Heh, heh, stavo semplicemente prendendoti, ehm, in giro. Si', proprio cosi'. Beh, arrivederci.}
-{414}{}{Sì, hai scoperto qualcosa?}
+{414}{}{Si', hai scoperto qualcosa?}
 {415}{}{Credo che i fratelli Dunton stiano rubando i vostri brahmin. Pensavo fosse importante farglielo sapere, signora.}
 {416}{}{Niente, lascia stare.}
 {417}{}{Cosa?! Ne sei sicuro? Che prove hai?}
@@ -124,13 +124,13 @@
 {419}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei tuoi brahmin. Credo che i Dunton le indossino per spaventare Torr — da qui la sua paura degli "uomini insetto".}
 {420}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli quei ragazzi. Be', questo spiega cosa lo spaventava, ma vorrei avere piu' prove che siano stati i Dunton a rubare il nostro bestiame. Ho paura che il sentito dire non sia abbastanza.}
 {421}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli quei ragazzi erano. Be', questo spiega cosa lo spaventava, ma vorrei ci fossero piu' prove che fossero i Dunton. Ho paura che il sentito dire non sia abbastanza. E ora che i Dunton sono morti, non so se scopriremo mai la verita'. Ma se trovi qualcos'altro, fammelo sapere.}
-{422}{}{D’accordo, vedrò se riesco a trovare altre prove.}
+{422}{}{D’accordo, vedro' se riesco a trovare altre prove.}
 {423}{}{In realta', ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
 {424}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per consegnare quei buoni a nulla. Da qui me ne occupo io. Quei teppisti non daranno piu' problemi. Grazie per il tuo aiuto.}
 {425}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per attribuire loro il crimine. Peccato siano morti, o gli avrei insegnato un paio di cose. Immagino abbiano avuto cio' che meritavano. Grazie per il tuo aiuto.}
 {426}{}{Felice di aiutarla, signora. Lasci che le chieda un’altra cosa.}
 {427}{}{Quei Dunton mi fanno schifo. Sono felice che te ne occuperai tu. Addio, ora.}
-{428}{}{I Dunton hanno avuto ciò che meritavano. Addio.}
+{428}{}{I Dunton hanno avuto cio' che meritavano. Addio.}
 {429}{}{Davvero? Be', avanti allora, cosa hai trovato?}
 {430}{}{Ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
 {500}{}{Riguardo ai tuoi brahmin scomparsi...}
@@ -187,6 +187,6 @@
 {2003}{}{Me aiuta.}
 {2004}{}{Me no piace storia. BYE!}
 {2005}{}{Oh, grazie. Lascia che ti indichi sulla tua mappa il posto dove aveva detto che sarebbe andato. 
-Spero davvero che tu possa trovarlo. Non sarà granché, ma lo amo ancora e mi manca più di quanto avrei mai immaginato. 
+Spero davvero che tu possa trovarlo. Non sara' granche', ma lo amo ancora e mi manca piu' di quanto avrei mai immaginato. 
 Ti prego, trovalo per me. Sei sicuro di potercela fare… mentalmente?}
 {2006}{}{Me forte. Me crede in me stesso.}

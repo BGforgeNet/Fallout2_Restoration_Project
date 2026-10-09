@@ -24,5 +24,5 @@
 {200}{}{Ah, un viaggiatore. Mi dispiace che non abbiamo una tenda dove tu possa ripararti dal calore incessante di questa terra. Riposati un momento, cosi' che possiamo parlare.}
 {201}{}{Grazie; accetto con piacere la vostra offerta.}
 {202}{}{Che sfortuna. Riposati un momento, allora; sei il benvenuto tra noi.}
-{203}{}{Spero davvero che tu abbia trovato ciò che ti serviva. Serve qualcos'altro?}
+{203}{}{Spero davvero che tu abbia trovato cio' che ti serviva. Serve qualcos'altro?}
 {204}{}{Non oggi. Devo andare.}

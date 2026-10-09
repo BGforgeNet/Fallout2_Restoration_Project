@@ -12,4 +12,4 @@
 {111}{}{Ehi, belle scarpe.}
 {112}{}{Faresti meglio a pensare agli affari tuoi.}
 {113}{}{Eccoti signore. Buona giornata.}
-{114}{}{C’è stato un incidente. Circolare.}
+{114}{}{C’e' stato un incidente. Circolare.}

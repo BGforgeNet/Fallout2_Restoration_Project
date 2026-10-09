@@ -138,7 +138,7 @@
 {646}{}{Sai nulla a proposito dell'overdose di Jet che ha ucciso Richard Wright?}
 {647}{}{Puoi insegnarmi a combattere con il coltello?}
 {648}{}{Nulla. Ci vediamo dopo.}
-{660}{}{Io? Se devi chiederlo… eh. Mi chiamo Jesus. Jesus Mordino. Come mio padre: lui è il GRANDE Jesus, il capo di tutta la famiglia Mordino qui a Reno. Per questo la maggior parte mi chiama Jesus il Piccolo. Evita confusioni, capisci?}
+{660}{}{Io? Se devi chiederlo… eh. Mi chiamo Jesus. Jesus Mordino. Come mio padre: lui e' il GRANDE Jesus, il capo di tutta la famiglia Mordino qui a Reno. Per questo la maggior parte mi chiama Jesus il Piccolo. Evita confusioni, capisci?}
 {661}{}{La Famiglia Mordino? Di chi si tratta?}
 {662}{}{Ho sentito parlare della vostra famiglia. Mi hanno detto che siete un'organizzazione non da poco.}
 {663}{}{Sto cercando lavoro. La famiglia Mordino puo' offrirmi qualcosa?}

@@ -36,7 +36,7 @@
 {261}{}{Buona fortuna, Meng. Spero che la tua vita migliori.}
 {262}{}{Prima che tu faccia i bagagli, mi chiedevo se potessi rispondere a un paio di domande.}
 {270}{}{Perche' no? Sto recidendo ogni legame con gli Shi. I loro segreti ormai non significano piu' nulla per me. Chiedi pure.}
-{271}{}{Cosa puoi dirmi a proposito di quel motoscafo sorvegliato laggiù? }
+{271}{}{Cosa puoi dirmi a proposito di quel motoscafo sorvegliato laggiu'? }
 {272}{}{Lascia perdere. Buona fortuna con la tua nuova vita, Meng.}
 {280}{}{Gli Shi usano quel motoscafo per raggiungere il nostro guardiano addormentato, il sottomarino.}
 {281}{}{Cosa puoi dirmi a proposito del sottomarino?}

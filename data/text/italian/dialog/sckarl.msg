@@ -39,7 +39,7 @@
 {138}{}{Posso vederlo subito?}
 {139}{}{Lei e Jack erano sposati, sai. Hanno avuto un divorzio davvero disastroso. 
 Di lei non crederei nemmeno a una parola, non quando si tratta di Jack. 
-Fatti un favore, stanne fuori. Jack è un brav’uomo, è solo che questa storia lo ha un po’ agitato.}
+Fatti un favore, stanne fuori. Jack e' un brav’uomo, e' solo che questa storia lo ha un po’ agitato.}
 {140}{}{Okay, parliamo di altre cose.}
 {141}{}{Beh, grazie mille per il consiglio, vicesceriffo.}
 {142}{}{La sua ex, ecco tutto. Se lui non e' qui, magari e' giu' alla centrale energetica. Ha un doppio lavoro: lavora li' per Dorothy.}

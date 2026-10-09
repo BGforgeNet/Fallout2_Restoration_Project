@@ -174,7 +174,7 @@
 {300}{}{Proprio mentre stai per tornare all'elenco degli archivi, noti abilmente una voce nascosta nella lista.}
 {301}{}{Proprio mentre stai per disconnetterti dal terminale, noti abilmente una voce nascosta nella lista degli archivi.}
 {302}{}{[CONTINUA]}
-{303}{}{Dopo qualche minuto <g id="26198">è </g>possibile chiudere il rubinetto di lavaggio botte.}
+{303}{}{Dopo qualche minuto <g id="26198">e' </g>possibile chiudere il rubinetto di lavaggio botte.}
 {304}{}{[Leggi la voce.]}
 {305}{}{Leggendo il file, sembra che l'unico scopo del Vault 8 fosse quello di agire come un "Vault di controllo" in una serie di Vault creati da una corporazione chiamata Vault-Tec.
  L'intento era che il Vault 8 si aprisse e ricolonizzasse la superficie dopo 10 anni. Sembra anche che il Vault 8 non fosse l'unico Vault con uno scopo diverso dal proteggere i suoi abitanti dalla Grande Guerra.

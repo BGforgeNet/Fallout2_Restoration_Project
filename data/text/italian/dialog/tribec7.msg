@@ -1,4 +1,4 @@
-{100}{}{Vedi una donna della tribù.}
+{100}{}{Vedi una donna della tribu'.}
 {101}{}{Vedi Kurisu, la sorella di Sulik.}
 {102}{}{Vedi una giovane donna tribale, formosa, con diversi piercing e tatuaggi.}
 {150}{}{[FINE]}
@@ -18,14 +18,14 @@
 {213}{}{[Infili la chiave nella serratura e apri il cancello, che stride mentre si apre.]}
 {214}{}{Hai avuto fortuna, amico? Per favore, fai presto.}
 {215}{}{Non ancora. Ci sto ancora lavorando.}
-{216}{}{Ho le chiavi. È ora di tirarti fuori di qui.}
+{216}{}{Ho le chiavi. E' ora di tirarti fuori di qui.}
 {217}{}{Perche' c'e' cosi' tanto trambusto la fuori? Ah, sento che molti sono andati a raggiungere gli spiriti. Chi e'... Sulik? Gli spiriti stanno scherzando, o sei davvero tu, fratello?}
 {218}{}{Perche' c'e' cosi' tanto trambusto la fuori? Ah, sento che molti sono andati a raggiungere gli spiriti. E sento che sei tu a mandarli. Di cosa hai bisogno, Fabbricatore-di-fantasmi?}
 {219}{}{Sono venuto a salvarvi.}
 {221}{}{Lode agli spiriti! Per favore, devi tirarci fuori da questa gabbia. Lontano da questo luogo malvagio.}
 {222}{}{Gli spiriti ti lodano! Ora devo andare e tornare dal mio popolo. Sono mancata per molto tempo. Per favore, passa dal mio villaggio. E' vicino alla Grande Acqua Salata, qualche giorno a sud-ovest da qui. Grazie, amico.}
 {223}{}{[Sulik corre verso il portone e afferra le mani tese di sua sorella. Ti giri per dare un po' di privacy alla loro riunione emozionata. Pochi istanti dopo, sua sorella si gira verso di te.] Gli spiriti delle ossa dicono che tu stai guidando Sulik. Mi chiamo Kurisu, ma ora non e' il momento per i saluti come si deve. Gli Schiavisti, sono morti, vero?}
-{224}{}{Sì, gli schiavisti sono morti.}
+{224}{}{Si', gli schiavisti sono morti.}
 {225}{}{Lode agli spiriti! Per favore, apri questa porta. Siamo impazienti di andarcene da questo luogo malvagio.}
 {226}{}{Non preoccuparti. Ho una chiave.}
 {227}{}{D’accordo, lascia che provi a scassinare questa porta.}
@@ -41,9 +41,9 @@ Aspettate qui finche' non libero tutti da questo campo. [Agli altri schiavi.] St
 {511}{}{Non preoccuparti, sono qui per tirarti fuori. Ho una chiave e il permesso di portarvi via da qui.}
 {512}{}{D’accordo, lascia che provi a scassinare questa porta.}
 {530}{}{E' sicuro ora? Hai mandato gli schiavisti dagli spiriti?}
-{531}{}{Sì, è sicuro. Possiamo andare al tuo villaggio ora.}
+{531}{}{Si', e' sicuro. Possiamo andare al tuo villaggio ora.}
 {532}{}{Si', ma lasciami liberare prima tutti gli schiavi qui, prima di andare.}
-{533}{}{No, non ancora. Tornerò quando sarà sicuro.}
+{533}{}{No, non ancora. Tornero' quando sara' sicuro.}
 {600}{}{Lode agli spiriti, siamo finalmente a casa! Grazie mille, amico.}
 {601}{}{Prego. Allora, come ti hanno catturata esattamente?}
 {602}{}{Stavo commerciando in un villaggio vicino. Sono arrivati gli schiavisti. Molto spargimento di sangue e caos. Poi tutto e' diventato buio. Mi sono svegliata in una gabbia affollata che puzzava di merda. Presto mi hanno spostata in una gabbia piu' piccola, con quelli che gli piace tenere. Ho visto molti schiavi andare e venire. Triste vedere le persone trattate come bestiame.}
@@ -54,20 +54,20 @@ Aspettate qui finche' non libero tutti da questo campo. [Agli altri schiavi.] St
 {607}{}{In realta', credo di aver visto tuo fratello. Faccia piena di tatuaggi e un grande osso nel naso, giusto?}
 {608}{}{Quello e' proprio Sulik! E anche Nonno Ossa! Per favore, potresti riportare Sulik a casa? Mi manca cosi' tanto.}
 {609}{}{Nessun problema, lo portero' qui. Ci vediamo, Kurisu.}
-{610}{}{Non credo di poterlo fare. Vedi… Sulik è morto.}
+{610}{}{Non credo di poterlo fare. Vedi… Sulik e' morto.}
 {611}{}{Sulik... morto? Davvero, questo e' un giorno oscuro. So che ora e' con Nonno Ossa, ma Sulik... manchera' moltissimo. [Distoglie lo sguardo mentre gli occhi le si riempiono di lacrime.] Per favore... ho bisogno di stare sola ora. Grazie... per avermi riportata a casa.}
 {650}{}{Ciao, amico. Qualche fo-- Sulik!}
 {651}{}{[AVANTI]}
 {652}{}{[Kurisu corre verso Sulik, che la solleva in un abbraccio. Ti giri per dare loro un po' di privacy durante la riunione emozionata. Dopo alcuni istanti, Kurisu si gira verso di te con un sorriso mentre si asciuga le lacrime.] Grazie, amico, per aver trovato mio fratello. Gli spiriti hanno grandi piani per te e per Sulik. Manchera' molto, ma gli spiriti dicono che il suo posto e' camminare accanto a te. Diamine, perfino Nonno Ossa ti apprezza, quindi so che Sulik e' in buone mani. Abbi cura di te.}
 {653}{}{Ciao, amico. Hai avuto fortuna a trovare mio fratello Sulik?}
-{654}{}{No, sto ancora cercando. Tornerò quando l’avrò trovato.}
+{654}{}{No, sto ancora cercando. Tornero' quando l’avro' trovato.}
 {700}{}{Grazie ancora, amico. Che gli spiriti ti benedicano.}
 {701}{}{Mio fratello Sulik manchera' moltissimo.}
 {800}{}{Spiriti malvagi camminano con te! Vattene!}
 {810}{}{Torna dentro l'edificio, Kurisu! Me ne occupo io.}
 {820}{}{Ti prego, non lasciare che ci facciano del male.}
 {900}{}{Io? No, io Prescelto. Tu parlare con Sulik?}
-{910}{}{Sì, uomini cattivi morti.}
+{910}{}{Si', uomini cattivi morti.}
 {920}{}{Me ha chiave.}
 {921}{}{Me prova scassinare.}
 {922}{}{[Annuisci a Sulik] Ora combattiamo gli uomini cattivi.}
@@ -78,8 +78,8 @@ Aspettate qui finche' non libero tutti da questo campo. [Agli altri schiavi.] St
 {950}{}{Me Prescelto. Chi tu?}
 {951}{}{Me }
 {952}{}{Chi tu?}
-{960}{}{È sicuro. Noi va casa.}
-{961}{}{Non sicuro. Più uomini cattivi da uccidere.}
+{960}{}{E' sicuro. Noi va casa.}
+{961}{}{Non sicuro. Piu' uomini cattivi da uccidere.}
 {970}{}{Prego. Come loro prende te?}
 {971}{}{Si', uomini cattivi non buoni. Tu cosa fare adesso?}
 {972}{}{Grazieee. Ciao!}
@@ -90,4 +90,4 @@ Aspettate qui finche' non libero tutti da questo campo. [Agli altri schiavi.] St
 {1000}{}{Riunisci Sulik con sua sorella.}
 {2000}{}{Lo *sapevo* che gli spiriti delle ossa avevano grandi piani per te.}
 {2001}{}{Prima tu salvare me. Poi tu salvare il mondo. Tu essere proprio l'eroe.}
-{2002}{}{Tu non aver più bisogno di Sulik, vero?}
+{2002}{}{Tu non aver piu' bisogno di Sulik, vero?}
