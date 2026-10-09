@@ -12,7 +12,7 @@
 {400}{}{Que veux-tu savoir ?}
 {401}{}{Ok. Je voudrais vous poser une autre question.}
 {402}{}{Hmm... Je crois me rappeler que quelqu'un dans notre Ordre possède ce savoir. Oui, je m'en rappelle maintenant, Frère Thomas a étudié ceci récemment.}
-{403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
+{403}{}{Ça me va. Indiquez-moi simplement où trouver frère Thomas et j'irai lui demander.}
 {404}{}{J'en sais rien.}
 {405}{}{Bon, merci quand même.}
 {406}{}{J'ai bien peur que Frère Thomas soit le seul à avoir possédé ce savoir. Cependant, nos ordinateurs ont probablement gardé une trace.}
@@ -98,7 +98,7 @@
 {1030}{}{J'ai trouvé un livre.}
 {1031}{}{C'est très bien. Merci. Tu es vraiment un garçon spécial.}
 {1032}{}{C'est très bien. Merci. Tu es vraiment un garçon spécial.}
-{1033}{}{YAY.}
+{1033}{}{Youpi.}
 {1100}{}{J'étais là-bas plus tôt, j'ai vu quelques cadavres, je pense que l'un d'entre eux était celui de votre moine disparu. Si ça peut vous consoler, j'ai tué la chose responsable de sa mort.}
 {1110}{}{Ah... C'est bien ce que je craignais. Frère Thomas nous manquera beaucoup. Vous avez mes remerciements pour avoir traqué et éliminé la bête qui sévissait là-bas. Cependant, je... je suppose que vous n'auriez pas trouvé un livre là-bas. C'est un livre très important qui avait été vu pour la dernière fois entre les mains de frère Thomas.}
 {1111}{}{Non mais je suppose que je peux y retourner et vérifier.}

@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-01 07:31+0000\n"
-"Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
+"PO-Revision-Date: 2026-10-08 15:31+0000\n"
+"Last-Translator: Michaël Pégeot <michael.pegeot@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/rp/fr/>\n"
 "Language: french\n"
 "MIME-Version: 1.0\n"
@@ -12354,9 +12354,8 @@ msgstr ""
 "personne. "
 
 #: dialog/ahhakun.msg:108 dialog/ahhakun.msg:115
-#, fuzzy
 msgid "You are doing just way too many drugs. I'm outta here. "
-msgstr "T'en as trop pris, gros. Je me tire. "
+msgstr "Tu prends vraiment beaucoup trop de drogue. Je me tire d'ici. "
 
 #: dialog/ahhakun.msg:109 dialog/ahhakun.msg:178
 msgid "I'm hurt. Can you heal me?"
@@ -13130,9 +13129,8 @@ msgstr ""
 "peaux dorées. "
 
 #: dialog/ahhakun.msg:254
-#, fuzzy
 msgid "Ooo! Shiny Purty!"
-msgstr "Oh là là ! C'est tout joli !"
+msgstr "Ooo ! C'est brillant et joli !"
 
 #: dialog/ahhakun.msg:255
 msgctxt "hak104"
@@ -13409,7 +13407,6 @@ msgstr ""
 "récemment."
 
 #: dialog/ahmonk.msg:403
-#, fuzzy
 msgid "That's fine. Just point me to Brother Thomas and I'll go ask him."
 msgstr ""
 "Ça me va. Indiquez-moi simplement où trouver frère Thomas et j'irai lui "
@@ -13975,9 +13972,8 @@ msgid "That's great. Thanks. You're one special gal."
 msgstr "C'est très bien. Merci. Tu es vraiment un garçon spécial."
 
 #: dialog/ahmonk.msg:1033
-#, fuzzy
 msgid "YAY."
-msgstr "Youpi !"
+msgstr "Youpi."
 
 #: dialog/ahmonk.msg:1100
 msgid ""
@@ -16434,11 +16430,9 @@ msgstr ""
 "bien."
 
 #: dialog/bcrebecc.msg:173
-#, fuzzy
 msgid "Nice guys finish last. I wonder what he's up to?"
 msgstr ""
-"Les types gentils finissent toujours derniers. Je me demande ce qu'il "
-"mijote..."
+"Les gentils finissent toujours derniers. Je me demande ce qu'il mijote ?"
 
 #: dialog/bcrebecc.msg:175
 msgid "That's okay. You are very helpful."

@@ -6,14 +6,14 @@
 {105}{}{Euh ? }
 {106}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête. }
 {107}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne. }
-{108}{}{You are doing just way too many drugs. I'm outta here. }
+{108}{}{Tu prends vraiment beaucoup trop de drogue. Je me tire d'ici. }
 {109}{}{J'ai des blessures. Peux-tu me soigner ?}
 {110}{}{Ton jardin était envahi de mauvaises herbes. J'en ai pris soin pour toi.}
 {111}{hak001a}{Je t'en prie, révèle aux yeux voilés le motif de ton passage.}
 {112}{}{Euh ? }
 {113}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête. }
 {114}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne. }
-{115}{}{You are doing just way too many drugs. I'm outta here. }
+{115}{}{Tu prends vraiment beaucoup trop de drogue. Je me tire d'ici. }
 {116}{}{Ton jardin était envahi de mauvaises herbes. J'en ai pris soin pour toi.}
 {117}{hak002}{La Terre chante en apprenant l'arrivée d'un champion dans ces contrées... Peut-être accepteras-tu de m'accorder une faveur ?}
 {118}{}{Bien sûr. De quoi as-tu besoin ?}
@@ -152,7 +152,7 @@
 {251}{hak102}{Enfant de la Nature, comment avons-nous pu mettre un tel fardeau sur tes épaules ? [Soupire...] Ton peuple a été pris.}
 {252}{}{Euh ?}
 {253}{hak103}{Oui. Envolé. Les âmes rongées furent nombreuses à venir, chevauchant les oiseaux de métal comme une armée de tiques. Cachant leur méchanceté sous des peaux dorées. }
-{254}{}{Ooo! Shiny Purty!}
+{254}{}{Ooo ! C'est brillant et joli !}
 {255}{hak104}{Non ! Pas belles dorées ! Ils ont enlevé notre peuple et l'ont emmené au Sud-Ouest.}
 {256}{}{Oh là là !}
 {257}{hak105}{Oui. La tristesse et la douleur sont grandes. Je suis entre les mondes pour te dire ceci, Etre Elu. Sauve ton peuple.}

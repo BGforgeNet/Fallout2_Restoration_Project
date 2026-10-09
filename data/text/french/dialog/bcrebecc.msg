@@ -71,7 +71,7 @@
 {170}{}{J'ai besoin d'en savoir plus.}
 {171}{}{Il n'y a pas grand-chose à dire, en fait. Darion garde tout pour lui et ne quitte jamais l'abri. S'il a quelque chose à dire, il nous le communique par le biais de Zeke. Je ne l'ai rencontré qu'une fois et il a l'air d'un type bien.}
 {172}{}{Ok.}
-{173}{}{Nice guys finish last. I wonder what he's up to?}
+{173}{}{Les gentils finissent toujours derniers. Je me demande ce qu'il mijote ?}
 {174}{}{Je vois.}
 {175}{}{C'est bien, tu m'aides beaucoup.}
 {176}{}{Je n'ai rien à t'offrir hormis mon éternelle gratitude.}
