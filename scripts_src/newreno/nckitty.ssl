@@ -90,7 +90,7 @@ procedure Node031;
 
 #define speech_bonus_given             lvar_bit(LVAR_Flags, speech_bonus_given_bit)
 #define set_speech_bonus_given         if (speech_bonus_given == false) then begin              \
-                                          critter_mod_skill(dude_obj, SKILL_SPEECH, 3);     \
+                                          call dude_mod_skill(SKILL_SPEECH, 3);                 \
                                        end                                                      \
                                        set_lvar_bit_on(LVAR_Flags, speech_bonus_given_bit)
 

@@ -362,9 +362,9 @@ end
 
 procedure Node018 begin
    set_local_var(LVAR_Teach,1);
-   critter_mod_skill(dude_obj, SKILL_SMALL_GUNS, 10);
-   critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 10);
-   critter_mod_skill(dude_obj, SKILL_BIG_GUNS, 10);
+   call dude_mod_skill(SKILL_SMALL_GUNS, 10);
+   call dude_mod_skill(SKILL_ENERGY_WEAPONS, 10);
+   call dude_mod_skill(SKILL_BIG_GUNS, 10);
    game_time_advance(2*ONE_GAME_HOUR);
 
    Reply(313);

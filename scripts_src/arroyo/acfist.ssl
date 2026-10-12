@@ -346,7 +346,7 @@ procedure Node011 begin
 
    skill:=40-has_skill(dude_obj,SKILL_UNARMED_COMBAT);
    // Inc Unarmed to 40
-   critter_mod_skill(dude_obj,SKILL_UNARMED_COMBAT,skill);
+   call dude_mod_skill(SKILL_UNARMED_COMBAT,skill);
    Reply(127);
 
    NOption(128,Node013,004);
@@ -357,7 +357,7 @@ procedure Node012 begin
 
    skill:=55-has_skill(dude_obj,SKILL_UNARMED_COMBAT);
    // Inc Unarmed to 55
-   critter_mod_skill(dude_obj,SKILL_UNARMED_COMBAT,skill);
+   call dude_mod_skill(SKILL_UNARMED_COMBAT,skill);
    Reply(129);
 
    NOption(130,Node013,004);

@@ -845,7 +845,7 @@ procedure Node052 begin
    Reply(725);
    set_taught;
    game_time_advance(ONE_GAME_HOUR);
-   critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 5);
+   call dude_mod_skill(SKILL_ENERGY_WEAPONS, 5);
    gfade_in(5);
    BOption(726, Node051, 006);
    BOption(643, Node046, 004);

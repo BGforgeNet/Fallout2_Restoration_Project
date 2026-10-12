@@ -34,7 +34,7 @@ procedure Node001;
 
 #define read_book_bit                  bit_10
 
-#define max_skill(x)                   critter_mod_skill(dude_obj, x, (300 - (has_skill(dude_obj, x))))
+#define max_skill(x)                   call dude_mod_skill(x, (300 - (has_skill(dude_obj, x))))
 
 #define read_book                      lvar_bit(LVAR_Flags, read_book_bit )
 

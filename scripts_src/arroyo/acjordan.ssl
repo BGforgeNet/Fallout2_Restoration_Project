@@ -228,7 +228,7 @@ procedure Node003 begin
    gfade_in(600);
 
    game_time_advance(8*ONE_GAME_HOUR);
-   critter_mod_skill(dude_obj,SKILL_MELEE,10);
+   call dude_mod_skill(SKILL_MELEE,10);
    set_local_var(LVAR_Taught_Player,1);
 
    Reply(107);

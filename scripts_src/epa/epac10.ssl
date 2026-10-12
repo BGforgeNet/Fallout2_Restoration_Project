@@ -1341,8 +1341,8 @@ end
 
 procedure Node202 begin
    set_local_var(LVAR_Gave_Bonus,1);
-   critter_mod_skill(dude_obj, SKILL_SPEECH, 15);
-   critter_mod_skill(dude_obj, SKILL_BARTER, 15);
+   call dude_mod_skill(SKILL_SPEECH, 15);
+   call dude_mod_skill(SKILL_BARTER, 15);
    game_time_advance(2*ONE_GAME_HOUR);
 
    Reply(3105);

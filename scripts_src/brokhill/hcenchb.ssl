@@ -366,7 +366,7 @@ end
 procedure Node012 begin
    game_time_advance(ONE_GAME_MINUTE*5);
    set_global_var(GVAR_CHAD_EVIDENCE_TIP,1);
-   critter_mod_skill(dude_obj, SKILL_LOCKPICK, 5);
+   call dude_mod_skill(SKILL_LOCKPICK, 5);
    Reply(130);
    NOption(131,Node999,004);
    display_msg(mstr(200));

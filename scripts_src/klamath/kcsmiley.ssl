@@ -402,7 +402,7 @@ end
 
 procedure Node940 begin
    learn:= random(1,6);
-   critter_mod_skill(dude_obj,SKILL_OUTDOORSMAN,learn);
+   call dude_mod_skill(SKILL_OUTDOORSMAN,learn);
    gfade_out(600);
    game_time_advance(game_ticks(6*3600));//6 hours
    gfade_in(600);

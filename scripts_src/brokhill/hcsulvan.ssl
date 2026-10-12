@@ -367,8 +367,8 @@ end
 procedure Node013a begin
    // Upgrade fight stats
    gfade_out(600);
-   critter_mod_skill(dude_obj,SKILL_UNARMED_COMBAT,10);
-   critter_mod_skill(dude_obj,SKILL_MELEE,10);
+   call dude_mod_skill(SKILL_UNARMED_COMBAT,10);
+   call dude_mod_skill(SKILL_MELEE,10);
    display_msg( mstr(164) );
    give_xp( EXP_SULLIVAN_TAUGHT_MOVES );
    game_time_advance( 6 * ONE_GAME_HOUR );

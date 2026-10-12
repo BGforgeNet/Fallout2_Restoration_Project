@@ -376,7 +376,7 @@ variable knife_skill_bonus := 5;
       end else begin
          display_mstr(2000);
       end
-      critter_mod_skill(dude_obj, SKILL_MELEE, knife_skill_bonus);
+      call dude_mod_skill(SKILL_MELEE, knife_skill_bonus);
    gfade_in(5);
 end
 

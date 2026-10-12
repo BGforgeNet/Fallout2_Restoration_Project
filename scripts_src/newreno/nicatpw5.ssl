@@ -35,7 +35,7 @@ end
 procedure use_p_proc begin
    script_overrides;
    gfade_out(ONE_GAME_SECOND);
-      critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 10);
+      call dude_mod_skill(SKILL_ENERGY_WEAPONS, 10);
       display_mstr(100);
    gfade_in(ONE_GAME_SECOND);
    scr_return(1);

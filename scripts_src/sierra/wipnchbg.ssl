@@ -47,7 +47,7 @@ procedure use_p_proc begin
        inc_local_var(LVAR_Herebefore);
        gfade_out(600);
        gfade_in(600);
-       critter_mod_skill(dude_obj,SKILL_UNARMED_COMBAT,5);
+       call dude_mod_skill(SKILL_UNARMED_COMBAT,5);
        game_time_advance(ONE_GAME_HOUR);
        display_msg(g_mstr(950));
    end

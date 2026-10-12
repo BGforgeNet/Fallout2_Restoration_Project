@@ -804,9 +804,9 @@ end
 
 procedure Node902 begin
    set_local_var(LVAR_Told_Real_Past,1);
-   critter_mod_skill(dude_obj, SKILL_SNEAK, 10);
-   critter_mod_skill(dude_obj, SKILL_STEAL, 10);
-   critter_mod_skill(dude_obj, SKILL_LOCKPICK, 10);
+   call dude_mod_skill(SKILL_SNEAK, 10);
+   call dude_mod_skill(SKILL_STEAL, 10);
+   call dude_mod_skill(SKILL_LOCKPICK, 10);
    game_time_advance(2*ONE_GAME_HOUR);
 
    call Node053;

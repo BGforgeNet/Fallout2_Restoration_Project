@@ -1588,7 +1588,7 @@ variable check_still_kill;
                                                          set_ui_should_be_disabled;                            \
                                                          reg_anim_clear(dude_obj);                             \
                                                          move_obj_inven_to_obj(dude_obj, new_reno_temp_box);   \
-                                                         call doVaultBoxerAppearance; \
+                                                         call doVaultBoxerAppearance;                          \
                                                          clear_dude_score;                                     \
                                                          clear_boxer_score;                                    \
                                                          off_killed_opponent;                                  \

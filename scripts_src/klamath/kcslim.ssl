@@ -374,7 +374,7 @@ procedure Node990 begin
       dude_caps_adjust(-50);  // Seraph's Fix: changed from '50' to '-50'
    learn:= 2*(dude_iq);
    if (learn < 7) then learn:=7;
-   critter_mod_skill(dude_obj,SKILL_OUTDOORSMAN,learn);
+   call dude_mod_skill(SKILL_OUTDOORSMAN,learn);
    gfade_out(ONE_GAME_MINUTE);
    game_time_advance(8*ONE_GAME_HOUR);//8 hours
    gfade_in(ONE_GAME_MINUTE);

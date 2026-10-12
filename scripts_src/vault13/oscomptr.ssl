@@ -184,7 +184,7 @@ procedure look_at_p_proc begin
    else
       display_msg(mstr(101));
 
-   /*critter_mod_skill(dude_obj, SKILL_SCIENCE, 100);
+   /*call dude_mod_skill(SKILL_SCIENCE, 100);
    item:=create_object(PID_COMPUTER_VOICE_MODULE,0,0);
    add_obj_to_inven(dude_obj, item);*/
 

@@ -472,15 +472,15 @@ procedure use_obj_on_p_proc begin
             script_overrides;
             gfade_out(ONE_GAME_SECOND);
                display_msg(mstr(400));
-               critter_mod_skill(dude_obj, SKILL_SNEAK, 5);
-               critter_mod_skill(dude_obj, SKILL_UNARMED_COMBAT, 5);
+               call dude_mod_skill(SKILL_SNEAK, 5);
+               call dude_mod_skill(SKILL_UNARMED_COMBAT, 5);
             gfade_in(ONE_GAME_SECOND);
             script_overrides;
             scr_return(1);
          end else if (obj_pid(obj_being_used_with) == PID_CATS_PAW_ISSUE_5) then begin
             script_overrides;
             gfade_out(ONE_GAME_SECOND);
-               critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 10);
+               call dude_mod_skill(SKILL_ENERGY_WEAPONS, 10);
                display_msg(message_str(SCRIPT_NICATPW5, 100));
             gfade_in(ONE_GAME_SECOND);
             script_overrides;

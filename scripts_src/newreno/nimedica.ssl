@@ -32,7 +32,7 @@ end
 procedure use_p_proc begin
    display_mstr(100);
    give_xp(EXP_NEW_RENO_USE_MEDICAL);
-   critter_mod_skill(dude_obj, SKILL_DOCTOR, 10);
+   call dude_mod_skill(SKILL_DOCTOR, 10);
    dude_floater(200);
    scr_return(1);
 end

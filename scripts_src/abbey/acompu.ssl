@@ -177,7 +177,7 @@ procedure Node002d begin
    if (local_var(LVAR_Science_Bonus) == 0) then begin
       set_local_var(LVAR_Science_Bonus,1);
       Reply(410);
-      critter_mod_skill(dude_obj,SKILL_SCIENCE,5);
+      call dude_mod_skill(SKILL_SCIENCE,5);
       game_time_advance(ONE_GAME_HOUR*2);
    end else begin
       Reply(420);
@@ -189,7 +189,7 @@ procedure Node002e begin
    if (local_var(LVAR_Repair_Bonus) == 0) then begin
       set_local_var(LVAR_Repair_Bonus,1);
       Reply(411);
-      critter_mod_skill(dude_obj,SKILL_REPAIR,5);
+      call dude_mod_skill(SKILL_REPAIR,5);
       game_time_advance(ONE_GAME_HOUR*2);
    end else
       Reply(421);
@@ -201,8 +201,8 @@ procedure Node002f begin
    if (local_var(LVAR_Medicine_Bonus) == 0) then begin
       set_local_var(LVAR_Medicine_Bonus,1);
       Reply(412);
-      critter_mod_skill(dude_obj,SKILL_DOCTOR,5);
-      critter_mod_skill(dude_obj,SKILL_FIRST_AID,5);
+      call dude_mod_skill(SKILL_DOCTOR,5);
+      call dude_mod_skill(SKILL_FIRST_AID,5);
       game_time_advance(ONE_GAME_HOUR*2);
    end else
       Reply(422);
@@ -214,11 +214,11 @@ procedure Node002g begin
    if (local_var(LVAR_Weapons_Bonus) == 0) then begin
       set_local_var(LVAR_Weapons_Bonus,1);
       Reply(413);
-      critter_mod_skill(dude_obj,SKILL_MELEE,5);
-      critter_mod_skill(dude_obj,SKILL_THROWING,5);
-      critter_mod_skill(dude_obj,SKILL_BIG_GUNS,5);
-      critter_mod_skill(dude_obj,SKILL_SMALL_GUNS,5);
-      critter_mod_skill(dude_obj,SKILL_ENERGY_WEAPONS,5);
+      call dude_mod_skill(SKILL_MELEE,5);
+      call dude_mod_skill(SKILL_THROWING,5);
+      call dude_mod_skill(SKILL_BIG_GUNS,5);
+      call dude_mod_skill(SKILL_SMALL_GUNS,5);
+      call dude_mod_skill(SKILL_ENERGY_WEAPONS,5);
       game_time_advance(ONE_GAME_HOUR*4);
    end else
       Reply(423);
@@ -231,7 +231,7 @@ procedure Node002h begin
    if (local_var(LVAR_Speech_Bonus) == 0) then begin
       set_local_var(LVAR_Speech_Bonus,1);
       Reply(414);
-      critter_mod_skill(dude_obj,SKILL_SPEECH,5);
+      call dude_mod_skill(SKILL_SPEECH,5);
       game_time_advance(ONE_GAME_HOUR*2);
    end else
       Reply(424);

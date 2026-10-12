@@ -76,6 +76,18 @@ procedure closest_party_member(variable obj) begin
    return closest_who;
 end
 
+/**
+ * Modifies a player's `skill` by a given `amount`.
+ * If the skill is tagged, the magnitude of the adjustment will be at least the specified amount.
+ */
+procedure dude_mod_skill(variable skill, variable amount) begin
+   if (is_skill_tagged(skill) and (amount % 2)) then begin
+      // for rounding half away from zero
+      if (amount > 0) then amount++;
+      else amount--;
+   end
+   critter_mod_skill(dude_obj, skill, amount);
+end
 
 
 /* Reputation */
