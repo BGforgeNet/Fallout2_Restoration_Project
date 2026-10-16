@@ -10,7 +10,7 @@
 {304}{}{Nice to have you with us.}
 {305}{}{Hi. How's it going?}
 {306}{}{You club any slaves yet?}
-{307}{}{Hi again.}
+{307}{}{Hej igen.}
 {308}{}{Heading out on another run?}
 {309}{}{Things are pretty calm.}
 {310}{}{When am I going to see some action?}

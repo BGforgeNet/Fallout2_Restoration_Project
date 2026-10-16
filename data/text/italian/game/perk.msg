@@ -15,7 +15,7 @@
 {115}{}{Tiratore Scelto}
 {116}{}{Corsa Silenziosa}
 {117}{}{Sopravvivenzista}
-{118}{}{una Maestra Mercante}
+{118}{}{Maestro Mercante}
 {119}{}{Istruito}
 {120}{}{Guaritore}
 {121}{}{Cacciatore di Tesori}

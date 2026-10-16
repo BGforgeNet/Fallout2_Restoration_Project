@@ -4,7 +4,7 @@
 {103}{}{Kan jag hjälpa dig?}
 {104}{}{Agga agga!}
 {105}{}{Me in building! Oooh!}
-{106}{}{Just looking around.}
+{106}{}{Kollar bara runt.}
 {107}{}{Err... no, not really.}
 {108}{}{Yeah. I'm here to talk to your prisoners.}
 {109}{}{Have you considered that you may be holding your prisoners illegally?}
@@ -38,7 +38,7 @@
 {137}{}{You! What the hell are you doing? Get the hell out of here!}
 {138}{}{You'll be putting your weapons away now, pal.}
 {139}{}{You again? Do you need something?}
-{140}{}{Just looking around.}
+{140}{}{Kollar bara runt.}
 {141}{}{Err... no, not really.}
 {142}{}{Yeah. I'm here to talk to your prisoners.}
 {143}{}{Have you considered that you may be holding your prisoners illegally?}

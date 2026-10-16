@@ -13,7 +13,7 @@
 {308}{}{Nice to have you with us.}
 {309}{}{Hi. How's it going?}
 {310}{}{You club any slaves yet?}
-{311}{}{Hi again.}
+{311}{}{Hej igen.}
 {312}{}{Going to go on another run?}
 {313}{}{Things are pretty calm.}
 {314}{}{When am I going to see some action?}

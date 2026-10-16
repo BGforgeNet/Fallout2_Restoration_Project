@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-07-22 15:46+0000\n"
+"PO-Revision-Date: 2026-10-13 15:18+0000\n"
 "Last-Translator: Andrea Bordoni <a.bordoni85@yahoo.it>\n"
 "Language-Team: Italian <https://hive.bgforge.net/projects/fallout/rp/it/>\n"
 "Language: italian\n"
@@ -273920,7 +273920,7 @@ msgstr "Sopravvivenzista"
 
 #: game/perk.msg:118 game/pro_crit.msg:6000 game/pro_crit.msg:6100
 msgid "Master Trader"
-msgstr "una Maestra Mercante"
+msgstr "Maestro Mercante"
 
 #: game/perk.msg:119
 msgid "Educated"
@@ -275559,7 +275559,7 @@ msgstr "un Caposquadra degli Schiavisti"
 
 #: game/pro_crit.msg:14200 game/pro_crit.msg:14300
 msgid "Grand Master Trader"
-msgstr "una Gran Maestra Mercante"
+msgstr "Gran Maestro Mercante"
 
 #: game/pro_crit.msg:14400 game/pro_item.msg:21200 game/scrname.msg:272
 #: game/scrname.msg:808

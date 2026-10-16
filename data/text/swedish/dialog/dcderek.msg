@@ -27,24 +27,24 @@
 {246}{}{De kommer oftast fram på natten.}
 {247}{}{Jag gillar potatisar!}
 {248}{}{Gå inte på det gröna utan stövlar!}
-{249}{}{Just turn it inside out.}
-{250}{}{Oh, my head hurts really bad now.}
-{251}{}{I'm a grandmaster cook!}
-{252}{}{I would never poison a newbie's food.}
-{260}{}{Hey you looking for some freshly baked bread?}
+{249}{}{Vänd bara ut och in på den.}
+{250}{}{Åh, jag har verkligen ont i huvudet nu.}
+{251}{}{Jag är en mästerkock!}
+{252}{}{Jag skulle aldrig förgifta en nybörjares mat.}
+{260}{}{Hallå är du sugen på lite nybakat bröd?}
 {261}{}{Ja.}
-{262}{}{I'm looking for Becky's book.}
-{263}{}{No, bye.}
-{270}{}{Oh, hi again.}
-{271}{}{So where's Becky's book?}
-{272}{}{Hey, how about some of that bread?}
+{262}{}{Jag letar efter Beckys bok.}
+{263}{}{Nej, hej då.}
+{270}{}{Åh, hej igen.}
+{271}{}{Så var är Beckys bok?}
+{272}{}{Du, vill du ha lite av det där brödet?}
 {273}{}{Hej då.}
-{280}{}{Ha! So am I. Have I told you what a great cook I am? Becky wont' hire me for some reason. She says I'm unstable.}
-{281}{}{She's probably right.}
-{282}{}{I'm looking for Becky's book.}
-{283}{}{That's great. I've uh... got to go.}
-{290}{}{What? You! Screw you buddy! I'm not... Ow! Fuck.}
-{291}{}{What? You! Screw you lady! I'm not... Ow! Fuck.}
+{280}{}{Ha! Det är jag också. Har jag berättat vilken fantastisk kock jag är? Becky vill inte anställa mig av någon anledning. Hon säger att jag är instabil.}
+{281}{}{Hon har nog rätt.}
+{282}{}{Jag letar efter Beckys bok.}
+{283}{}{Det låter jättebra. Jag måste, eh… gå nu.}
+{290}{}{Va? Du! Dra åt helvete, kompis! Jag tänker inte... Aj! Fan också.}
+{291}{}{Va? Du! Dra åt helvete, damen! Jag tänker inte... Aj! Fan också.}
 {292}{}{Förbannat.}
 {293}{}{Så e de'.}
 {300}{}{Jaha. Jag tyckte inte om den. För mycket kyssar. Jag slängde den i hörnet i den där byggnaden... nä den där byggnaden... nej... var det en byggnad? Kanske tappade jag den någon annanstans... eller kastade jag den? Aj! Mitt huvud!}

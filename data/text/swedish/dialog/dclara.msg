@@ -4,12 +4,12 @@
  you're in for a world of hurt.}
 {201}{}{Hi again. Need something?}
 {202}{}{Got any work?}
-{203}{}{Just looking around.}
-{204}{}{I'm looking for a merchant named Vic.}
+{203}{}{Kollar bara runt.}
+{204}{}{Jag letar efter en handlare som heter Vic.}
 {205}{}{Aruh.}
 {206}{}{Rara.}
-{220}{}{We don't have any doctors in town and I can't help you.}
-{221}{}{Sorry, I still don't understand.}
+{220}{}{Det finns inga läkare här i stan, och jag kan inte hjälpa dig.}
+{221}{}{Ursäkta, jag förstår fortfarande inte.}
 {222}{}{Ack.}
 {230}{}{The name doesn't ring a bell, but then again I don't keep track of who comes in and out of town. Check with Becky. Everyone ends up going through there. She might know.}
 {231}{}{Got any work?}

@@ -59,7 +59,7 @@
 {147}{}{I have more questions.}
 {148}{}{Hej då.}
 {149}{}{Oh. You again.}
-{150}{}{Hi again.}
+{150}{}{Hej igen.}
 {151}{}{Welcome back.}
 {152}{}{You want to know more?}
 {153}{}{What's new here?}

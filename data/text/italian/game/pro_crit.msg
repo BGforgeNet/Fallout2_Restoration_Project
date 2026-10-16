@@ -68,8 +68,8 @@
 {5700}{}{una Mercante Scarsa}
 {5800}{}{una Mercante nella Media}
 {5900}{}{una Mercante nella Media}
-{6000}{}{una Maestra Mercante}
-{6100}{}{una Maestra Mercante}
+{6000}{}{Maestro Mercante}
+{6100}{}{Maestro Mercante}
 {6200}{}{Vic}
 {6300}{}{una Contadina Debole}
 {6400}{}{una Contadina Debole}
@@ -155,8 +155,8 @@
 {13900}{}{una Guardia da Mischia di NCR}
 {14000}{}{una Guardia degli Schiavisti}
 {14100}{}{un Caposquadra degli Schiavisti}
-{14200}{}{una Gran Maestra Mercante}
-{14300}{}{una Gran Maestra Mercante}
+{14200}{}{Gran Maestro Mercante}
+{14300}{}{Gran Maestro Mercante}
 {14400}{}{Tandi}
 {14500}{}{Mercenario}
 {14600}{}{Ratch}

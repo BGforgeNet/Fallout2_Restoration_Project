@@ -3,24 +3,24 @@
 {150}{}{Det här verkar vara ägaren till det här stället.}
 {151}{}{Det här är Frankie. Han äger det här stället.}
 {152}{}{[TALA]}
-{153}{}{I'm Frankie and yer standing in 'The Hole.' Best damn bar for
- a hundred miles! Everyone crawls into The Hole when it's time to let loose.
- Now don't you be causing too much trouble, y'hear?}
-{154}{}{I hear ya.}
-{155}{}{Yeah, okay. Whatever.}
-{156}{}{I see why you call this place "The Hole."}
+{153}{}{Jag heter Frankie och du står just nu i ”Hålet”. Den bästa baren inom
+hundra mils radie! Alla kravlar till Hålet när det är dags att släppa loss.
+Se nu till att inte ställa till med för mycket bråk, hörru?}
+{154}{}{Jarrå.}
+{155}{}{Visst, okej. Struntsamma.}
+{156}{}{Jag förstår varför ni kallar det här stället för ”Hålet”.}
 {157}{}{Vadå?}
-{158}{}{What's yer pleasure?}
+{158}{}{Vad ska'ru ha?}
 {159}{}{Whisky.}
 {160}{}{Kvinnor.}
 {161}{}{Män.}
 {162}{}{Info.}
-{163}{}{Nothing today. Bye.}
-{164}{}{Wee wee.}
-{165}{}{Hey! You better shut your hole!}
+{163}{}{Inget idag. Hej då.}
+{164}{}{Pinka.}
+{165}{}{Hallå! Bäst för dig att stänga ditt hål!}
 {166}{}{Or what?}
-{167}{}{Just do your job and get me a drink.}
-{168}{}{I'll just leave instead.}
+{167}{}{Gör bara ditt jobb och hämta en drink åt mig.}
+{168}{}{Då går jag hellre.}
 {169}{}{Whisky kostar $}
 {170}{}{ per shot.}
 {171}{}{Här får du dina pengar.}
@@ -30,61 +30,61 @@
 {175}{}{Nåt annat?}
 {176}{}{Ja.}
 {177}{}{Nej, tack.}
-{178}{}{You don't have enough money! This ain't no charity!}
-{179}{}{Oh, sorry. I'm low on funds.}
+{178}{}{Du har inte tillräckligt med pengar! Det här är ingen välgörenhet!}
+{179}{}{Åh, förlåt. Jag har ont om pengar.}
 {180}{}{I'll come back.}
 {181}{}{Vad vill du?}
 {182}{}{Whisky.}
-{183}{}{Nothing. I'm leaving.}
+{183}{}{Ingenting. Nu drar jag.}
 {184}{}{Wahdo a peedee!}
-{185}{}{And stay out!}
+{185}{}{Och håll dig borta!}
 {186}{}{[UTGÅNG]}
-{187}{}{I don't want people like you in my place. Get out!}
-{188}{}{Alright, I'm going.}
+{187}{}{Jag vill inte ha sådana som dig här. Stick härifrån!}
+{188}{}{Okej, då går jag.}
 {189}{}{Wah.}
-{190}{}{Those New Reno families charge an arm and a leg for their booze. I don't know how she does it!}
-{191}{}{Well, you should try to find out.}
-{192}{}{I could find out.}
-{193}{}{I know how she does it.}
+{190}{}{New Reno-familjerna tar skyhöga priser för sin sprit. Jag fattar inte hur hon klarar det!}
+{191}{}{Tja, du borde försöka ta reda på det.}
+{192}{}{Jag skulle kunna ta reda på det.}
+{193}{}{Jag vet hur hon gör det.}
 {194}{}{Då köper jag bara whisky av henne.}
-{195}{}{If you find out where she gets her booze, I'll pay you $100.}
-{196}{}{OK, I'll find out.}
-{197}{}{Nope, not interested.}
-{198}{}{So, how does Becky do it? How does she sell her booze so cheap?}
-{199}{}{She has a still.}
-{200}{}{I don't know yet. I'll come back.}
-{201}{}{What? A still! Damn. Hey, here's the $100, and I'll pay you $500 to destroy it. You can use my crowbar, in the back room over there. That'll do a number on her stupid little still!}
-{202}{}{I already did.}
-{203}{}{OK, I'll destroy it.}
-{204}{}{No way. That's too much. I got the information. You handle it.}
-{205}{}{No, I have a better idea.}
-{206}{}{So, is the still destroyed? Like I said, just use my crowbar on it. That'll really fuck it up fast.}
-{207}{}{Yes, it is.}
-{208}{}{I have a better idea.}
-{209}{}{Nope. I'll let you know when it is.}
-{210}{}{Then here's the $500. Thanks.}
-{211}{}{Nice doing business with you.}
-{212}{}{You know, Frankie, she's just going to build another one.}
+{195}{}{Om du tar reda på var hon får tag på spriten, betalar jag dig $100.}
+{196}{}{Okej, jag ska ta reda på det.}
+{197}{}{Näpp, inte intresserad.}
+{198}{}{Så, hur gör Becky det? Hur kan hon sälja sin sprit så billigt?}
+{199}{}{Hon har en destillator.}
+{200}{}{Jag vet inte än. Jag kommer tillbaka.}
+{201}{}{Va? En destillationsapparat! Fan också. Hördu, här har du $100, och jag betalar dig $500 om du förstör den. Du kan använda min kofot – den står där borta i skrubben. Det kommer verkligen att sätta stopp för hennes dumma lilla destillationsapparat!}
+{202}{}{Det har jag redan gjort.}
+{203}{}{Okej, jag ska förstöra den.}
+{204}{}{Aldrig i livet. Det är för mycket. Jag fick tag på informationen. Du får ta hand om det.}
+{205}{}{Nej, jag har en bättre idé.}
+{206}{}{Så, är destilleriet förstört nu? Som jag sa, använd bara min kofot på den. Då blir den verkligen förstörd på nolltid.}
+{207}{}{Ja, det är det.}
+{208}{}{Jag har en bättre idé.}
+{209}{}{Nej. Jag säger till när det är gjort.}
+{210}{}{Här har du dina $500. Tack.}
+{211}{}{Trevligt att göra affärer med dig.}
+{212}{}{Du vet, Frankie, hon kommer bara att bygga en till.}
 {213}{}{Tack, hej då.}
-{214}{}{Damn! Well, in the mean time she'll have no booze.}
-{215}{}{Why fight her, Frankie? Join her.}
-{216}{}{Think. Where else can you get liquor?}
+{214}{}{Fan också! Nåja, under tiden får hon i alla fall inte dricka.}
+{215}{}{Varför bråka med henne, Frankie? Samarbeta med henne istället.}
+{216}{}{Tänk efter. Var annars kan man köpa sprit?}
 {217}{}{Vad menar du?}
-{218}{}{Buy liquor from her. It's cheaper than New Reno's, so you'll make more money, too.}
-{219}{}{I don't want to do this.}
+{218}{}{Köp sprit av henne. Det är billigare än i New Reno, så du tjänar mer pengar också.}
+{219}{}{Jag vill inte göra det här.}
 {220}{}{Never mind.}
-{221}{}{Look, I just want her still destroyed. Will you do it?}
-{222}{}{Alright, I will.}
-{223}{}{No, I won't. Good bye.}
-{224}{}{Maybe you're right. I'll talk to her. Thanks.}
-{225}{}{Hey, what are friends for?}
+{221}{}{Hör här, jag vill bara att hennes apparat ska bli helt förstörd. Kan du fixa det?}
+{222}{}{Okej, det ska jag göra.}
+{223}{}{Nej, det tänker jag inte. Hej då.}
+{224}{}{Du har kanske rätt. Jag ska prata med henne. Tack.}
+{225}{}{Du, vad är vänner till för?}
 {226}{}{Hej då.}
-{227}{}{Information I do not have.}
-{228}{}{Really? How about why Becky's drinks are so much cheaper than yours?}
-{229}{}{I thought bartenders knew everything.}
-{230}{}{Then I'm in the wrong place. Bye.}
-{231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
-{232}{}{Wait, that's not what I want!}
+{227}{}{Den informationen har jag inte.}
+{228}{}{Verkligen? Men varför är Beckys drinkar så mycket billigare än dina?}
+{229}{}{Jag trodde att bartendrar visste allt.}
+{230}{}{Då är jag på fel ställe. Hej då.}
+{231}{}{Gå och prata med Sheila. Hej, Sheila, du har en kund!}
+{232}{}{Vänta, det är inte det jag vill!}
 {233}{}{Tack. Hej då.}
 {234}{}{Ja, det tror jag verkligen. Det måste vara en upplevelse för dig att försöka få tag på män. Leta vidare någon annanstans, syster. Välgörenhet är inte för mig.}
 {235}{}{Okej! Något annat då.}

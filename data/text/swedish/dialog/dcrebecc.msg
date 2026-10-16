@@ -50,7 +50,7 @@
 {258}{}{Inte just nu}
 {270}{}{I need a drink.}
 {271}{}{I'm looking for a merchant who sells Vault equipment.}
-{272}{}{I'm looking for a merchant named Vic.}
+{272}{}{Jag letar efter en handlare som heter Vic.}
 {273}{}{Do you have any work?}
 {274}{}{About that job...}
 {275}{}{Any more work for me?}

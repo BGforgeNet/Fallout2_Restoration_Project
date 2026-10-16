@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-06-22 10:46+0000\n"
+"PO-Revision-Date: 2026-10-14 13:18+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -23482,63 +23482,65 @@ msgstr "Gå inte på det gröna utan stövlar!"
 
 #: dialog/dcderek.msg:249
 msgid "Just turn it inside out."
-msgstr ""
+msgstr "Vänd bara ut och in på den."
 
 #: dialog/dcderek.msg:250
 msgid "Oh, my head hurts really bad now."
-msgstr ""
+msgstr "Åh, jag har verkligen ont i huvudet nu."
 
 #: dialog/dcderek.msg:251
 msgid "I'm a grandmaster cook!"
-msgstr ""
+msgstr "Jag är en mästerkock!"
 
 #: dialog/dcderek.msg:252
 msgid "I would never poison a newbie's food."
-msgstr ""
+msgstr "Jag skulle aldrig förgifta en nybörjares mat."
 
 #: dialog/dcderek.msg:260
 msgid "Hey you looking for some freshly baked bread?"
-msgstr ""
+msgstr "Hallå är du sugen på lite nybakat bröd?"
 
 #: dialog/dcderek.msg:262 dialog/dcderek.msg:282
 msgid "I'm looking for Becky's book."
-msgstr ""
+msgstr "Jag letar efter Beckys bok."
 
 #: dialog/dcderek.msg:263 dialog/dcjoey.msg:261
 msgid "No, bye."
-msgstr ""
+msgstr "Nej, hej då."
 
 #: dialog/dcderek.msg:270
 msgid "Oh, hi again."
-msgstr ""
+msgstr "Åh, hej igen."
 
 #: dialog/dcderek.msg:271
 msgid "So where's Becky's book?"
-msgstr ""
+msgstr "Så var är Beckys bok?"
 
 #: dialog/dcderek.msg:272
 msgid "Hey, how about some of that bread?"
-msgstr ""
+msgstr "Du, vill du ha lite av det där brödet?"
 
 #: dialog/dcderek.msg:280
 msgid "Ha! So am I. Have I told you what a great cook I am? Becky wont' hire me for some reason. She says I'm unstable."
 msgstr ""
+"Ha! Det är jag också. Har jag berättat vilken fantastisk kock jag är? Becky "
+"vill inte anställa mig av någon anledning. Hon säger att jag är instabil."
 
 #: dialog/dcderek.msg:281
 msgid "She's probably right."
-msgstr ""
+msgstr "Hon har nog rätt."
 
 #: dialog/dcderek.msg:283
 msgid "That's great. I've uh... got to go."
-msgstr ""
+msgstr "Det låter jättebra. Jag måste, eh… gå nu."
 
 #: dialog/dcderek.msg:290
 msgid "What? You! Screw you buddy! I'm not... Ow! Fuck."
-msgstr ""
+msgstr "Va? Du! Dra åt helvete, kompis! Jag tänker inte... Aj! Fan också."
 
 #: dialog/dcderek.msg:291
 msgid "What? You! Screw you lady! I'm not... Ow! Fuck."
-msgstr ""
+msgstr "Va? Du! Dra åt helvete, damen! Jag tänker inte... Aj! Fan också."
 
 #: dialog/dcderek.msg:292 dialog/fcjuavki.msg:192
 msgid "Damn."
@@ -23921,22 +23923,25 @@ msgid ""
 " a hundred miles! Everyone crawls into The Hole when it's time to let loose.\n"
 " Now don't you be causing too much trouble, y'hear?"
 msgstr ""
+"Jag heter Frankie och du står just nu i ”Hålet”. Den bästa baren inom\n"
+"hundra mils radie! Alla kravlar till Hålet när det är dags att släppa loss.\n"
+"Se nu till att inte ställa till med för mycket bråk, hörru?"
 
 #: dialog/dcfranki.msg:154
 msgid "I hear ya."
-msgstr ""
+msgstr "Jarrå."
 
 #: dialog/dcfranki.msg:155
 msgid "Yeah, okay. Whatever."
-msgstr ""
+msgstr "Visst, okej. Struntsamma."
 
 #: dialog/dcfranki.msg:156
 msgid "I see why you call this place \"The Hole.\""
-msgstr ""
+msgstr "Jag förstår varför ni kallar det här stället för ”Hålet”."
 
 #: dialog/dcfranki.msg:158
 msgid "What's yer pleasure?"
-msgstr ""
+msgstr "Vad ska'ru ha?"
 
 #: dialog/dcfranki.msg:159 dialog/dcfranki.msg:182
 msgid "Whiskey."
@@ -23956,23 +23961,23 @@ msgstr "Info."
 
 #: dialog/dcfranki.msg:163
 msgid "Nothing today. Bye."
-msgstr ""
+msgstr "Inget idag. Hej då."
 
 #: dialog/dcfranki.msg:164
 msgid "Wee wee."
-msgstr ""
+msgstr "Pinka."
 
 #: dialog/dcfranki.msg:165
 msgid "Hey! You better shut your hole!"
-msgstr ""
+msgstr "Hallå! Bäst för dig att stänga ditt hål!"
 
 #: dialog/dcfranki.msg:167
 msgid "Just do your job and get me a drink."
-msgstr ""
+msgstr "Gör bara ditt jobb och hämta en drink åt mig."
 
 #: dialog/dcfranki.msg:168
 msgid "I'll just leave instead."
-msgstr ""
+msgstr "Då går jag hellre."
 
 #: dialog/dcfranki.msg:169
 msgid "Whiskey is $"
@@ -24000,15 +24005,15 @@ msgstr "Nej, tack."
 
 #: dialog/dcfranki.msg:178
 msgid "You don't have enough money! This ain't no charity!"
-msgstr ""
+msgstr "Du har inte tillräckligt med pengar! Det här är ingen välgörenhet!"
 
 #: dialog/dcfranki.msg:179
 msgid "Oh, sorry. I'm low on funds."
-msgstr ""
+msgstr "Åh, förlåt. Jag har ont om pengar."
 
 #: dialog/dcfranki.msg:183
 msgid "Nothing. I'm leaving."
-msgstr ""
+msgstr "Ingenting. Nu drar jag."
 
 #: dialog/dcfranki.msg:184
 msgid "Wahdo a peedee!"
@@ -24016,7 +24021,7 @@ msgstr ""
 
 #: dialog/dcfranki.msg:185
 msgid "And stay out!"
-msgstr ""
+msgstr "Och håll dig borta!"
 
 #: dialog/dcfranki.msg:186
 msgid "[EXIT]"
@@ -24024,27 +24029,29 @@ msgstr "[UTGÅNG]"
 
 #: dialog/dcfranki.msg:187
 msgid "I don't want people like you in my place. Get out!"
-msgstr ""
+msgstr "Jag vill inte ha sådana som dig här. Stick härifrån!"
 
 #: dialog/dcfranki.msg:188
 msgid "Alright, I'm going."
-msgstr ""
+msgstr "Okej, då går jag."
 
 #: dialog/dcfranki.msg:190
 msgid "Those New Reno families charge an arm and a leg for their booze. I don't know how she does it!"
 msgstr ""
+"New Reno-familjerna tar skyhöga priser för sin sprit. Jag fattar inte hur "
+"hon klarar det!"
 
 #: dialog/dcfranki.msg:191
 msgid "Well, you should try to find out."
-msgstr ""
+msgstr "Tja, du borde försöka ta reda på det."
 
 #: dialog/dcfranki.msg:192
 msgid "I could find out."
-msgstr ""
+msgstr "Jag skulle kunna ta reda på det."
 
 #: dialog/dcfranki.msg:193
 msgid "I know how she does it."
-msgstr ""
+msgstr "Jag vet hur hon gör det."
 
 #: dialog/dcfranki.msg:194
 msgid "I'll just go buy whiskey from her."
@@ -24052,87 +24059,95 @@ msgstr "Då köper jag bara whisky av henne."
 
 #: dialog/dcfranki.msg:195
 msgid "If you find out where she gets her booze, I'll pay you $100."
-msgstr ""
+msgstr "Om du tar reda på var hon får tag på spriten, betalar jag dig $100."
 
 #: dialog/dcfranki.msg:196
 msgid "OK, I'll find out."
-msgstr ""
+msgstr "Okej, jag ska ta reda på det."
 
 #: dialog/dcfranki.msg:197
 msgid "Nope, not interested."
-msgstr ""
+msgstr "Näpp, inte intresserad."
 
 #: dialog/dcfranki.msg:198
 msgid "So, how does Becky do it? How does she sell her booze so cheap?"
-msgstr ""
+msgstr "Så, hur gör Becky det? Hur kan hon sälja sin sprit så billigt?"
 
 #: dialog/dcfranki.msg:199
 msgid "She has a still."
-msgstr ""
+msgstr "Hon har en destillator."
 
 #: dialog/dcfranki.msg:200
 msgid "I don't know yet. I'll come back."
-msgstr ""
+msgstr "Jag vet inte än. Jag kommer tillbaka."
 
 #: dialog/dcfranki.msg:201
 msgid "What? A still! Damn. Hey, here's the $100, and I'll pay you $500 to destroy it. You can use my crowbar, in the back room over there. That'll do a number on her stupid little still!"
 msgstr ""
+"Va? En destillationsapparat! Fan också. Hördu, här har du $100, och jag "
+"betalar dig $500 om du förstör den. Du kan använda min kofot – den står där "
+"borta i skrubben. Det kommer verkligen att sätta stopp för hennes dumma "
+"lilla destillationsapparat!"
 
 #: dialog/dcfranki.msg:202
 msgid "I already did."
-msgstr ""
+msgstr "Det har jag redan gjort."
 
 #: dialog/dcfranki.msg:203
 msgid "OK, I'll destroy it."
-msgstr ""
+msgstr "Okej, jag ska förstöra den."
 
 #: dialog/dcfranki.msg:204
 msgid "No way. That's too much. I got the information. You handle it."
 msgstr ""
+"Aldrig i livet. Det är för mycket. Jag fick tag på informationen. Du får ta "
+"hand om det."
 
 #: dialog/dcfranki.msg:205
 msgid "No, I have a better idea."
-msgstr ""
+msgstr "Nej, jag har en bättre idé."
 
 #: dialog/dcfranki.msg:206
 msgid "So, is the still destroyed? Like I said, just use my crowbar on it. That'll really fuck it up fast."
 msgstr ""
+"Så, är destilleriet förstört nu? Som jag sa, använd bara min kofot på den. "
+"Då blir den verkligen förstörd på nolltid."
 
 #: dialog/dcfranki.msg:207
 msgid "Yes, it is."
-msgstr ""
+msgstr "Ja, det är det."
 
 #: dialog/dcfranki.msg:208
 msgid "I have a better idea."
-msgstr ""
+msgstr "Jag har en bättre idé."
 
 #: dialog/dcfranki.msg:209
 msgid "Nope. I'll let you know when it is."
-msgstr ""
+msgstr "Nej. Jag säger till när det är gjort."
 
 #: dialog/dcfranki.msg:210
 msgid "Then here's the $500. Thanks."
-msgstr ""
+msgstr "Här har du dina $500. Tack."
 
 #: dialog/dcfranki.msg:211 dialog/scdrvpay.msg:121
 msgid "Nice doing business with you."
-msgstr ""
+msgstr "Trevligt att göra affärer med dig."
 
 #: dialog/dcfranki.msg:212
 msgid "You know, Frankie, she's just going to build another one."
-msgstr ""
+msgstr "Du vet, Frankie, hon kommer bara att bygga en till."
 
 #: dialog/dcfranki.msg:214
 msgid "Damn! Well, in the mean time she'll have no booze."
-msgstr ""
+msgstr "Fan också! Nåja, under tiden får hon i alla fall inte dricka."
 
 #: dialog/dcfranki.msg:215
 msgid "Why fight her, Frankie? Join her."
-msgstr ""
+msgstr "Varför bråka med henne, Frankie? Samarbeta med henne istället."
 
 #: dialog/dcfranki.msg:216
 msgid "Think. Where else can you get liquor?"
-msgstr ""
+msgstr "Tänk efter. Var annars kan man köpa sprit?"
 
 #: dialog/dcfranki.msg:217 dialog/ecabolst.msg:361 dialog/epac12.msg:375
 #: dialog/gcharold.msg:130 dialog/gclenny.msg:291 dialog/gcwooz.msg:451
@@ -24147,54 +24162,58 @@ msgstr "Vad menar du?"
 #: dialog/dcfranki.msg:218
 msgid "Buy liquor from her. It's cheaper than New Reno's, so you'll make more money, too."
 msgstr ""
+"Köp sprit av henne. Det är billigare än i New Reno, så du tjänar mer pengar "
+"också."
 
 #: dialog/dcfranki.msg:219
 msgid "I don't want to do this."
-msgstr ""
+msgstr "Jag vill inte göra det här."
 
 #: dialog/dcfranki.msg:221
 msgid "Look, I just want her still destroyed. Will you do it?"
 msgstr ""
+"Hör här, jag vill bara att hennes apparat ska bli helt förstörd. Kan du fixa "
+"det?"
 
 #: dialog/dcfranki.msg:222
 msgid "Alright, I will."
-msgstr ""
+msgstr "Okej, det ska jag göra."
 
 #: dialog/dcfranki.msg:223
 msgid "No, I won't. Good bye."
-msgstr ""
+msgstr "Nej, det tänker jag inte. Hej då."
 
 #: dialog/dcfranki.msg:224
 msgid "Maybe you're right. I'll talk to her. Thanks."
-msgstr ""
+msgstr "Du har kanske rätt. Jag ska prata med henne. Tack."
 
 #: dialog/dcfranki.msg:225
 msgid "Hey, what are friends for?"
-msgstr ""
+msgstr "Du, vad är vänner till för?"
 
 #: dialog/dcfranki.msg:227
 msgid "Information I do not have."
-msgstr ""
+msgstr "Den informationen har jag inte."
 
 #: dialog/dcfranki.msg:228
 msgid "Really? How about why Becky's drinks are so much cheaper than yours?"
-msgstr ""
+msgstr "Verkligen? Men varför är Beckys drinkar så mycket billigare än dina?"
 
 #: dialog/dcfranki.msg:229
 msgid "I thought bartenders knew everything."
-msgstr ""
+msgstr "Jag trodde att bartendrar visste allt."
 
 #: dialog/dcfranki.msg:230
 msgid "Then I'm in the wrong place. Bye."
-msgstr ""
+msgstr "Då är jag på fel ställe. Hej då."
 
 #: dialog/dcfranki.msg:231
 msgid "Go talk to Sheila. Hey, Sheila, you got a customer!"
-msgstr ""
+msgstr "Gå och prata med Sheila. Hej, Sheila, du har en kund!"
 
 #: dialog/dcfranki.msg:232
 msgid "Wait, that's not what I want!"
-msgstr ""
+msgstr "Vänta, det är inte det jag vill!"
 
 #: dialog/dcfranki.msg:234
 msgid "Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities."
@@ -26132,11 +26151,11 @@ msgstr ""
 #: dialog/dclara.msg:203 dialog/hcbnkgrd.msg:106 dialog/hcbnkgrd.msg:140
 #: dialog/ocjimmy.msg:107 dialog/scfelix.msg:110
 msgid "Just looking around."
-msgstr ""
+msgstr "Kollar bara runt."
 
 #: dialog/dclara.msg:204 dialog/dcrebecc.msg:272
 msgid "I'm looking for a merchant named Vic."
-msgstr ""
+msgstr "Jag letar efter en handlare som heter Vic."
 
 #: dialog/dclara.msg:205
 msgid "Aruh."
@@ -26148,11 +26167,11 @@ msgstr "Rara."
 
 #: dialog/dclara.msg:220
 msgid "We don't have any doctors in town and I can't help you."
-msgstr ""
+msgstr "Det finns inga läkare här i stan, och jag kan inte hjälpa dig."
 
 #: dialog/dclara.msg:221
 msgid "Sorry, I still don't understand."
-msgstr ""
+msgstr "Ursäkta, jag förstår fortfarande inte."
 
 #: dialog/dclara.msg:222
 msgid "Ack."
@@ -31463,7 +31482,7 @@ msgstr ""
 #: dialog/dcslaver.msg:311 dialog/hcsteve.msg:150 dialog/slvcc2.msg:307
 #: dialog/slvcc5.msg:307
 msgid "Hi again."
-msgstr ""
+msgstr "Hej igen."
 
 #: dialog/dcslaver.msg:312
 msgid "Going to go on another run?"
