@@ -28,6 +28,33 @@ jobs:
           dialog_dir: data/text/english/dialog
           city_path: data/data/city.txt
           maps_path: data/data/maps.txt
+          worldmap_path: data/data/worldmap.txt
+          # Script sets that may share an encounter: their critters end up on one team (from the scripts or the
+          # encounter's team_num), except where noted.
+          worldmap_script_sets: |
+            258 259      # merchant, guard
+            259 741      # guard, trader
+            259 777      # guard, New Reno caravan master
+            259 778      # guard, Redding caravan master
+            259 779      # guard, Broken Hills caravan master
+            259 780      # guard, Gecko caravan master
+            259 781      # guard, San Fran caravan master
+            259 782      # guard, NCR caravan master
+            259 783      # guard, Vault 15 caravan master
+            259 789      # guard, Vault City caravan master
+            493 785      # farmer, farmer's kid
+            505 1116     # moonshine runner, lead bootlegger
+            505 1294     # moonshine runner, talking moonshiners
+            763 1115     # prospector, lead prospector
+            786 787 788  # homesteader, homesteader's wife, homesteader's kid
+            792 793      # floater, centaurs
+            762 792 793  # Master's army, floater, centaurs
+            774 1026     # gangs, Morton brothers
+            622 765 770 1129  # nomads, nomad chief, nomad shaman, children
+            623 1129     # homeless, children
+            628 1129     # slaves, children
+            508 628      # slaver, slaves; separate teams, slaves fight back
+            259 628 776  # guard, slaves, Den caravan master; slaves are separate cargo
 
       - name: Install wine
         uses: devopsx/gha-ubuntu-i386-fix@master

@@ -57,11 +57,11 @@
 {196}{}{Vic me bess frend.}
 {197}{}{Want to join me on my search?}
 {198}{}{Great! Thanks.}
-{203}{}{Vault City is east of here. I'll point it out on that map of yours.}
+{203}{}{Valvstaden ligger österut härifrån. Jag kan peka ut den på kartan din.}
 {204}{}{Tack.}
-{206}{}{It's right here. [pointing to a map]}
-{220}{}{Darn it. That's close, but I need the radio from my shack in Klamath. I know that one has the parts I need.}
-{300}{}{Yeah, I can probably help you, but you've got to get me out of here first.}
+{206}{}{Det är precis här. [pekar mot en karta]}
+{220}{}{Jäklar. Det är nära, men jag behöver radion från min stuga i Klamath. Jag vet att den har de delar jag behöver.}
+{300}{}{Ja, jag kan nog hjälpa dig, men du måste först få ut mig härifrån.}
 {301}{}{I told you. If you can get me out of here, I'll help you with anything you want.}
 {302}{}{How do we do that?}
 {303}{}{You're on you own then.}
@@ -78,12 +78,12 @@
 {500}{}{Oh, yeah. I remember that. I bought that from Ed. He's a brahmin dealer over in Vault City.}
 {501}{}{Water Flask? Oh, wait. Yea, I had a few dozen of'm. Sold pretty well. I got'm from Ed, a
  brahmin dealer over in Vault City.}
-{502}{}{Vault City?}
-{550}{}{Would you stop calling me Boss?}
-{600}{}{Sure thing, Chief!}
-{601}{}{I mean it! STOP IT!}
-{602}{}{I guess that'll have to do.}
-{650}{}{You got it, Sport!}
+{502}{}{Valvstaden?}
+{550}{}{Kan du sluta kalla mig Chefen?}
+{600}{}{Visst, Höjdar'n!}
+{601}{}{Jag menar allvar! SLUTA MED DET!}
+{602}{}{Det får väl duga, antar jag.}
+{650}{}{Visst, kompis!}
 {651}{}{Uggg!}
 {700}{}{Bee my friend.}
 {710}{}{Would you tell him I can't fix this without the parts. I don't know... wait.
@@ -97,8 +97,8 @@
 {760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
  I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
  he expect me to fix it?}
-{761}{}{Well, I'm here to get you out.}
-{764}{}{Don't know. See ya.}
+{761}{}{Tja, jag är här för att få ut dig.}
+{764}{}{Vet inte. Vi ses.}
 {800}{}{I've got to get this radio fixed. If you can help me do that, then maybe we can reason with him.}
 {801}{}{How can I help?}
 {803}{}{I doubt it. Good luck.}

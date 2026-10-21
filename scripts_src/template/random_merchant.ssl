@@ -1,4 +1,5 @@
 #include "../headers/command.h"
+#include "../sfall/define_extra.h"
 #include "../headers/modreact.h"
 
 /* Standard Script Procedures */
@@ -70,7 +71,7 @@ end
 procedure map_enter_p_proc begin
    variable item;
    Only_Once:=0;
-   set_self_team(TEAM_CARAVAN);
+   set_self_default_team(TEAM_CARAVAN);
    set_self_ai(AI_STORE_OWNER);
 
    if (map_first_run) then begin

@@ -251,4 +251,13 @@ procedure restore_critical_items(variable tmp_box) begin
    destroy_object(tmp_box);
 end
 
+/**
+ * Sets self_obj's team, unless its encounter assigned one with team_num.
+ * The engine applies team_num when it creates the critter, so a team still equal to the proto's own was not assigned.
+ * A team_num equal to the proto's own team cannot be told apart and gets overridden.
+ * Needs sfall's define_extra.h for PROTO_CR_TEAM_NUM.
+ * @param {int} team team to set when the encounter assigned none
+ */
+#define set_self_default_team(team)   if (self_team == get_proto_data(obj_pid(self_obj), PROTO_CR_TEAM_NUM)) then set_self_team(team)
+
 #endif  // UPU_H

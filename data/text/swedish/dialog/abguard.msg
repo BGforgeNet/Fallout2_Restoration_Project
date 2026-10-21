@@ -21,8 +21,8 @@
 {303}{}{Det är ett trevligt arrangemang. Låt mig fråga dig något annat.}
 {304}{}{Visst, adjö.}
 {305}{}{Tror du att du kan håller koll på mig? Låt oss se dig försöka, gamle man. Det här ska bli kul.}
-{400}{}{Du kan hitta Bill, vår lokala köpman, i byggnaden mittemot här. Annars bör du gå till Percy's Överlevnadsredskåp
- i skrotgården i Gecko eller Glada Harry's I gården i Valvstaden.}
+{400}{}{Du kan hitta Bill, vår lokala köpman, i byggnaden mittemot här. Annars bör du gå till Percys Överlevnadsredskap
+ i skrotgården i Gecko eller Glada Glenns på innergården i Valvstaden.}
 {401}{}{Bra att veta. Jag har en annan fråga.}
 {402}{}{Tack, hej då.}
 {500}{}{Om någon är fattig eller girig nog att försöka gräva upp gravar, så är det deras ensak. Det är inte som att de döda kan

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-14 13:18+0000\n"
+"PO-Revision-Date: 2026-10-21 09:24+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -3786,8 +3786,9 @@ msgid ""
 "You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go\n"
 " to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City."
 msgstr ""
-"Du kan hitta Bill, vår lokala köpman, i byggnaden mittemot här. Annars bör du gå till Percy's Överlevnadsredskåp\n"
-" i skrotgården i Gecko eller Glada Harry's I gården i Valvstaden."
+"Du kan hitta Bill, vår lokala köpman, i byggnaden mittemot här. Annars bör "
+"du gå till Percys Överlevnadsredskap\n"
+" i skrotgården i Gecko eller Glada Glenns på innergården i Valvstaden."
 
 #: dialog/abguard.msg:401
 msgid "Good to know. I have another question."
@@ -24312,58 +24313,66 @@ msgstr ""
 #: dialog/dcfranki.msg:262
 msgid "I decided I didn't want to sleep with your ugly ass after all."
 msgstr ""
+"Jag bestämde mig för att jag trots allt inte ville ligga med dig, din fule "
+"fan."
 
 #: dialog/dcfranki.msg:263
 msgid "Lucky for you, I'm a nice guy. Just don't pull that crap with me again."
 msgstr ""
+"Tur för dig att jag är en snäll kille. Men försök inte med den där skiten "
+"igen."
 
 #: dialog/dcfranki.msg:264
 msgid "I won't, baby, I promise."
-msgstr ""
+msgstr "Det ska jag inte, älskling, det lovar jag."
 
 #: dialog/dcfranki.msg:265
 msgid "I'm gonna put my foot in your ass, woman!"
-msgstr ""
+msgstr "Jag ska köra upp foten i röven på dig, kärring!"
 
 #: dialog/dcfranki.msg:266
 msgid "No one talks to me like that! Die!"
-msgstr ""
+msgstr "Ingen säger så till mig! Dö!"
 
 #: dialog/dcfranki.msg:267
 msgid "I've given you all the chances I'm gonna give ya. Now get out."
-msgstr ""
+msgstr "Jag har gett dig alla chanser jag tänker ge dig. Stick nu."
 
 #: dialog/dcfranki.msg:268
 msgid "You're not going in my back room with that trash!"
-msgstr ""
+msgstr "Du får inte gå in i mitt förråd med det där skräpet!"
 
 #: dialog/dcfranki.msg:300
 msgid "Hey, I didn't fucking say I'd pay you to kill the bitch. Get the fuck out!"
 msgstr ""
+"Hördu, jag sa fan inte att jag skulle betala dig för att döda den där "
+"subban. Stick härifrån!"
 
 #: dialog/dcfranki.msg:350
 msgid "Wow! Holy fuck. That was amazing."
-msgstr ""
+msgstr "Wow! Herregud. Det var fantastiskt."
 
 #: dialog/dcfranki.msg:351
 msgid "Damn, you were pretty good baby."
-msgstr ""
+msgstr "Jösses, du var riktigt bra, älskling."
 
 #: dialog/dcfranki.msg:352
 msgid "Thanks, it was fun. Now get out."
-msgstr ""
+msgstr "Tack, det var kul. Stick nu."
 
 #: dialog/dcfranki.msg:353
 msgid "You were, uhhh... Never mind, get out."
-msgstr ""
+msgstr "Du var, öh... Glöm det, stick härifrån."
 
 #: dialog/dcfranki.msg:354
 msgid "Well, I've never had worse than that."
-msgstr ""
+msgstr "Tja, jag har aldrig varit med om någon värre än det där."
 
 #: dialog/dcfranki.msg:400
 msgid "You know baby, you might be hot and all, but you've got lots and lots to learn."
 msgstr ""
+"Du vet, raring, du må vara snygg och allt det där, men du har väldigt mycket "
+"att lära dig."
 
 #: dialog/dcfranki.msg:410
 msgid ""
@@ -33991,19 +34000,21 @@ msgstr ""
 
 #: dialog/dcvic.msg:203
 msgid "Vault City is east of here. I'll point it out on that map of yours."
-msgstr ""
+msgstr "Valvstaden ligger österut härifrån. Jag kan peka ut den på kartan din."
 
 #: dialog/dcvic.msg:206
 msgid "It's right here. [pointing to a map]"
-msgstr ""
+msgstr "Det är precis här. [pekar mot en karta]"
 
 #: dialog/dcvic.msg:220
 msgid "Darn it. That's close, but I need the radio from my shack in Klamath. I know that one has the parts I need."
 msgstr ""
+"Jäklar. Det är nära, men jag behöver radion från min stuga i Klamath. Jag "
+"vet att den har de delar jag behöver."
 
 #: dialog/dcvic.msg:300
 msgid "Yeah, I can probably help you, but you've got to get me out of here first."
-msgstr ""
+msgstr "Ja, jag kan nog hjälpa dig, men du måste först få ut mig härifrån."
 
 #: dialog/dcvic.msg:301
 msgid "I told you. If you can get me out of here, I'll help you with anything you want."
@@ -34067,27 +34078,27 @@ msgstr ""
 
 #: dialog/dcvic.msg:502
 msgid "Vault City?"
-msgstr ""
+msgstr "Valvstaden?"
 
 #: dialog/dcvic.msg:550
 msgid "Would you stop calling me Boss?"
-msgstr ""
+msgstr "Kan du sluta kalla mig Chefen?"
 
 #: dialog/dcvic.msg:600
 msgid "Sure thing, Chief!"
-msgstr ""
+msgstr "Visst, Höjdar'n!"
 
 #: dialog/dcvic.msg:601
 msgid "I mean it! STOP IT!"
-msgstr ""
+msgstr "Jag menar allvar! SLUTA MED DET!"
 
 #: dialog/dcvic.msg:602
 msgid "I guess that'll have to do."
-msgstr ""
+msgstr "Det får väl duga, antar jag."
 
 #: dialog/dcvic.msg:650
 msgid "You got it, Sport!"
-msgstr ""
+msgstr "Visst, kompis!"
 
 #: dialog/dcvic.msg:651
 msgid "Uggg!"
@@ -34124,11 +34135,11 @@ msgstr ""
 
 #: dialog/dcvic.msg:761
 msgid "Well, I'm here to get you out."
-msgstr ""
+msgstr "Tja, jag är här för att få ut dig."
 
 #: dialog/dcvic.msg:764
 msgid "Don't know. See ya."
-msgstr ""
+msgstr "Vet inte. Vi ses."
 
 #: dialog/dcvic.msg:800
 msgid "I've got to get this radio fixed. If you can help me do that, then maybe we can reason with him."
@@ -180216,7 +180227,7 @@ msgstr ""
 
 #: dialog/vcharry.msg:101
 msgid "You see Happy Harry, the store owner."
-msgstr ""
+msgstr "Du ser Glada Glenn, butiksägaren."
 
 #: dialog/vcharry.msg:102
 msgid "Well, hello there... what can I do for you?"

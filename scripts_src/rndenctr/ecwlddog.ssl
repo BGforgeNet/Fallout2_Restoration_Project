@@ -15,13 +15,14 @@ procedure start;
 #define NAME                    SCRIPT_ECWLDDOG
 
 #include "../headers/command.h"
+#include "../sfall/define_extra.h"
 
 procedure start;
 procedure destroy_p_proc;
 procedure critter_p_proc;
 
 procedure start begin
-   set_self_team(TEAM_RND_WILD_DOG);
+   set_self_default_team(TEAM_RND_WILD_DOG);
 end
 
 procedure critter_p_proc begin

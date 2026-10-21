@@ -113,20 +113,20 @@ Se nu till att inte ställa till med för mycket bråk, hörru?}
 {259}{}{Ingen kvinna lämnar mig i sticket. Dra härifrån!}
 {260}{}{Bra.}
 {261}{}{Jag glömde; jag hade något annat jag var tvungen att ta itu med direkt. Förlåt mig, älskling.}
-{262}{}{I decided I didn't want to sleep with your ugly ass after all.}
-{263}{}{Lucky for you, I'm a nice guy. Just don't pull that crap with me again.}
-{264}{}{I won't, baby, I promise.}
-{265}{}{I'm gonna put my foot in your ass, woman!}
-{266}{}{No one talks to me like that! Die!}
-{267}{}{I've given you all the chances I'm gonna give ya. Now get out.}
-{268}{}{You're not going in my back room with that trash!}
-{300}{}{Hey, I didn't fucking say I'd pay you to kill the bitch. Get the fuck out!}
-{350}{}{Wow! Holy fuck. That was amazing.}
-{351}{}{Damn, you were pretty good baby.}
-{352}{}{Thanks, it was fun. Now get out.}
-{353}{}{You were, uhhh... Never mind, get out.}
-{354}{}{Well, I've never had worse than that.}
-{400}{}{You know baby, you might be hot and all, but you've got lots and lots to learn.}
+{262}{}{Jag bestämde mig för att jag trots allt inte ville ligga med dig, din fule fan.}
+{263}{}{Tur för dig att jag är en snäll kille. Men försök inte med den där skiten igen.}
+{264}{}{Det ska jag inte, älskling, det lovar jag.}
+{265}{}{Jag ska köra upp foten i röven på dig, kärring!}
+{266}{}{Ingen säger så till mig! Dö!}
+{267}{}{Jag har gett dig alla chanser jag tänker ge dig. Stick nu.}
+{268}{}{Du får inte gå in i mitt förråd med det där skräpet!}
+{300}{}{Hördu, jag sa fan inte att jag skulle betala dig för att döda den där subban. Stick härifrån!}
+{350}{}{Wow! Herregud. Det var fantastiskt.}
+{351}{}{Jösses, du var riktigt bra, älskling.}
+{352}{}{Tack, det var kul. Stick nu.}
+{353}{}{Du var, öh... Glöm det, stick härifrån.}
+{354}{}{Tja, jag har aldrig varit med om någon värre än det där.}
+{400}{}{Du vet, raring, du må vara snygg och allt det där, men du har väldigt mycket att lära dig.}
 {410}{}{Baby, I do have work to do you know. I don't just stand around in this spot all day and do nothing.
  Well, okay, so what if I do? That's what I'm here to do.}
 {420}{}{Look, I just wanted her still destroyed and you do it. Now beat it.}

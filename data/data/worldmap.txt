@@ -371,6 +371,7 @@ type_03=ratio:40%, pid:16777426, Item:273, Item:4, Item:(0-10)41, Script:622    
 type_04=pid:16777268, If (Rand(10%)), Script:1129                           ; Male Orphan
 type_05=pid:16777269, If (Rand(15%)), Script:1129                           ; Female Orphan
 position=cone, spacing:2
+; Children (ecchild) set no team of their own; team_num puts them on the adults' team
 team_num=129      ; TEAM_RND_NOMAD
 
 [Encounter: ARROK_Molerats]
@@ -420,6 +421,7 @@ type_05=pid:16777269, Script:1129                               ; Female Child
 type_06=pid:16777268, Script:1129                               ; Male Child - killap - no longer uses adult proto with child script
 type_07=Dead, pid:16777298                                      ; Dead Dog
 position=Surrounding, Spacing:6, Distance:7
+; Children (ecchild) set no team of their own; team_num puts them on the adults' team
 team_num=131   ; TEAM_RND_HOMELESS
 
 [Encounter: KLA_Farmers]
@@ -428,7 +430,7 @@ type_01=ratio:25%, pid:16777282, Item:299, Item:(1-2)71, Item:(0-10)41, Script:4
 type_02=ratio:4%, pid:16777269, Item:71, Script:785             ; Female Child w/ Fruit
 type_03=ratio:4%, pid:16777268, Script:785                      ; Male Child	-killap - no longer uses adult proto with child script
 type_04=Dead, pid:16777298                                      ; Dead Dog
-team_num=183   ; TEAM_RND_FARMER
+team_num=130   ; TEAM_RND_FARMER
 position=huddle, spacing:1
 
 [Encounter: KLA_Golden_Geckos]
@@ -465,6 +467,8 @@ type_02=ratio:30%, pid:16777233, Item:(0-10)41, Script:628                      
 type_03=ratio:30%, pid:16777240, Item:(0-10)41, Script:628                                     ; Combat Male Slave
 ;type_04=pid:16777434, Item:9(wielded), Item:40, Item:(0-10)41, Script:258, If (Rand(15%))      ; Female Slaver w/ 10mm SMG and Stimpak
 type_04=pid:16777225, If (Rand(10%))                                            ; Dog
+; Den caravan's own team, which the master and guards keep; the dog has no script, so it takes the team from here too
+team_num=220   ; TEAM_DEN_CARAVAN
 ;position=Surrounding
 ;position=straight_line, spacing:1
 ;position=straight_line, spacing:2
@@ -518,6 +522,8 @@ type_00=ratio:40%, pid:16777235, Item:299(wielded), Script:628                  
 type_01=ratio:40%, pid:16777236, Item:4(wielded), Script:628                    ; Healthy Male Slave w/ Spear
 type_02=ratio:10%, pid:16777266, Script:1129                                     ; Male Orphan
 type_03=ratio:10%, pid:16777267, Script:1129                                     ; Female Orphan
+; Children (ecchild) set no team of their own; team_num puts them on the adults' team
+team_num=139   ; TEAM_RND_SLAVE
 position=Surrounding, Spacing:4
 
 [Encounter: DEN_Rave_Party]
@@ -612,6 +618,8 @@ position=huddle, spacing:2
 type_00=ratio:70%, pid:16777334, Script:617                                     ; Mutated Pig Rat
 type_01=ratio:20%, pid:16777332, Script:617                                     ; Mutated Rat
 type_02=Dead, ratio:10%, pid:16777257                                                 ; Dead Tough Female Guard
+; Pig rats' own team, which the rat script keeps, so they can fight the mutated molerats
+team_num=221   ; TEAM_RND_PIG_RATS
 position=huddle, spacing:2
 
 [Encounter: WILD2_Hermit]
@@ -697,6 +705,8 @@ type_01=ratio:20%, pid:16777440, Item:236(wielded), Item:(0-10)41, Script:259   
 type_02=ratio:50%, pid:16777356, Item:9(wielded), Item:(0-10)41, Script:259                                ; Slaver Guard w/ 10mm SMG
 type_03=ratio:15%, pid:16777235, Script:628                                                 ; Healthy Female Slave
 type_04=ratio:15%, pid:16777236, Script:628                                                 ; Healthy Male Slave
+; Den caravan's own team, which the master and guards keep, so it can fight the Vault City caravan
+team_num=220   ; TEAM_DEN_CARAVAN
 position=huddle, spacing:2
 
 [Encounter: DNRV_Vault_Caravan]
@@ -1055,6 +1065,41 @@ type_00=pid:19
 position=Surrounding
 
 ;  END ADDON DATA - killap
+
+; Dogs owned by an encounter's people: tame, unscripted and on the owners' team. DVMV_Wild_Dogs run the wild dog
+; script, which puts them on their own team and attacks the player on sight.
+
+[Encounter: VPAT_Patrol_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=99    ; TEAM_VAULT_PATROL
+position=huddle, spacing:3
+
+[Encounter: VPAT_Slaver_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=137   ; TEAM_RND_SLAVER
+position=huddle, spacing:3
+
+[Encounter: WILD2_Hermit_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=180   ; TEAM_RND_HERMIT
+position=huddle, spacing:3
+
+[Encounter: DVMV_Highwaymen_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=136   ; TEAM_RND_HIGHWAYMEN
+position=huddle, spacing:3
+
+[Encounter: DVMV_Robber_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=135   ; TEAM_RND_ROBBER
+position=huddle, spacing:3
+
+; "A band of raiders leading some wolves." (worldmap.msg 5000): the wolves are the raiders', so this is RED_Wolves'
+; wild dogs on the raiders' team, which the wild dog script keeps. RED_Wolves stays apart, as it also fights raiders.
+[Encounter: RDRC_Raider_Wolves]
+type_00=ratio:100%, pid:16777298, Script:632                                                ; Wild Dog
+team_num=45    ; TEAM_RND_RAIDERS
+position=Surrounding
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;   End of Newly added Encounter Types    ;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1577,7 +1622,9 @@ enc_13=Chance:6%,Enc:(4-8) MOD_Wild_Brahmin AMBUSH Player
 enc_14=Chance:6%,Enc:(5-7) KLAD_Scorpions AMBUSH Player
 enc_15=Chance:3%,Enc:(3-4) MOD_Moonshiners FIGHTING (2-4) DMRV_Highwaymen
 enc_16=Chance:2%,Enc:(6-9) DMRV_Highwaymen FIGHTING (3-6) KLA_Homeless
-enc_17=Chance:2%,Enc:(3-4) MOD_Moonshiners AND (3-5) KLA_Farmers
+; The engine makes the groups of a two-group encounter fight each other, AND or not. Player spawns nothing but
+; counts as a third group, which keeps these two peaceful.
+enc_17=Chance:2%,Enc:(3-4) MOD_Moonshiners AND (3-5) KLA_Farmers AND Player
 enc_18=Chance:3%,Enc:(5-8) MOD_Mantis FIGHTING (3-5) KLA_Farmers
 enc_19=Chance:2%,Enc:(3-5) MOD_Moonshiners FIGHTING (3-6) KLA_Farmers
 enc_20=Chance:4%,Enc:(4-7) MOD_Mantis FIGHTING (5-8) MOD_Wild_Brahmin
@@ -1592,8 +1639,8 @@ enc_27=Chance:80%,Special,Enc:KAGA2 AMBUSH Player, If (Global(399) < 68) And If(
 [Encounter Table 20]
 lookup_name=DVMV_M                                                              ; Den - Vault City - Modoc Trade Route
 maps=Mountain Encounter 3, Mountain Encounter 4, Cavern Encounter 0, Cavern Encounter 3
-enc_00=Chance:8%,Enc:(3-6) DVMV_Highwaymen AND (2-5) DVMV_Wild_Dogs AMBUSH Player
-enc_01=Chance:8%,Enc:(2-5) DVMV_Robbers AND (3-6) DVMV_Wild_Dogs AMBUSH Player
+enc_00=Chance:8%,Enc:(3-6) DVMV_Highwaymen AND (2-5) DVMV_Highwaymen_Dogs AMBUSH Player
+enc_01=Chance:8%,Enc:(2-5) DVMV_Robbers AND (3-6) DVMV_Robber_Dogs AMBUSH Player
 enc_02=Chance:8%,Enc:(3-6) DVMV_Robbers AMBUSH Player
 enc_03=Chance:8%,Enc:(3-6) DVMV_Highwaymen AMBUSH Player
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
@@ -1623,7 +1670,7 @@ maps=Desert Encounter 11, Desert Encounter 6, Desert Encounter 9, Desert Encount
 enc_00=Chance:2%,Counter:1,Special,Map:Special Toxic Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(607) < 1)
 enc_01=Chance:2%,Counter:1,Special,Map:Special Pariahs Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(608) < 1)
 enc_02=Chance:2%,Counter:1,Special,Map:Special Mad Brahmin Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(609) < 1)
-enc_03=Chance:8%,Enc:(3-6) DVMV_Highwaymen AND (2-5) DVMV_Wild_Dogs AMBUSH Player
+enc_03=Chance:8%,Enc:(3-6) DVMV_Highwaymen AND (2-5) DVMV_Highwaymen_Dogs AMBUSH Player
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
 enc_05=Chance:15%,Enc:(2-5) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_06=Chance:15%,Enc:(2-5) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 12) And If(Player(Level) < 19)
@@ -1633,7 +1680,7 @@ enc_09=Chance:15%,Enc:(2-4) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(0) < 
 enc_10=Chance:15%,Enc:(2-4) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 12) And If(Player(Level) < 19)
 enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 18)
 enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
-enc_13=Chance:8%,Enc:(2-5) DVMV_Robbers AND (3-6) DVMV_Wild_Dogs AMBUSH Player
+enc_13=Chance:8%,Enc:(2-5) DVMV_Robbers AND (3-6) DVMV_Robber_Dogs AMBUSH Player
 enc_14=Chance:8%,Enc:(3-6) DVMV_Robbers AMBUSH Player
 enc_15=Chance:8%,Enc:(3-6) DVMV_Highwaymen AMBUSH Player
 enc_16=Chance:1%,Enc:(5-8) DVMV_Mantis_Swarm AND (2-5) ARRO_Spore_Plants AMBUSH Player
@@ -1731,10 +1778,10 @@ enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -50
 enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
 enc_13=Chance:10%,Enc:(3-6) WILD2_Mutated_Pig_Rats AMBUSH Player
 enc_14=Chance:10%,Enc:(4-8) ARRO_Spore_Plants
-enc_15=Chance:10%,Enc:(3-5) DVMV_Wild_Dogs AND (1-2) WILD2_Hermit FIGHTING (5-8) WILD2_Mutated_Molerats
+enc_15=Chance:10%,Enc:(3-5) WILD2_Hermit_Dogs AND (1-2) WILD2_Hermit FIGHTING (5-8) WILD2_Mutated_Molerats
 enc_16=Chance:1%,Enc:(1-2) WILD2_Hermit FIGHTING (3-5) DVMV_Wild_Dogs
 enc_17=Chance:1%,Enc:(1-2) WILD2_Hermit FIGHTING (3-5) WILD2_Mutated_Pig_Rats
-enc_18=Chance:1%,Enc:(1-2) WILD2_Hermit AND (3-5) DVMV_Wild_Dogs FIGHTING (3-6) WILD2_Mutated_Molerats
+enc_18=Chance:1%,Enc:(1-2) WILD2_Hermit AND (3-5) WILD2_Hermit_Dogs FIGHTING (3-6) WILD2_Mutated_Molerats
 enc_19=Chance:2%,Enc:(3-5) WILD2_Mutated_Molerats FIGHTING (4-6) WILD2_Mutated_Pig_Rats
 enc_20=Chance:2%,Enc:(5-9) WILD2_Mutated_Molerats FIGHTING (6-12) ARRO_Spore_Plants
 enc_21=Chance:2%,Enc:(3-5) WILD2_Mutated_Pig_Rats FIGHTING (5-8) DVMV_Wild_Dogs
@@ -1753,7 +1800,7 @@ maps=Mountain Encounter 1, Mountain Encounter 2, Cavern Encounter 0, Cavern Enco
 enc_00=Chance:10%,Enc:(2-4) WILD2_Mutated_Molerats AMBUSH Player
 enc_01=Chance:10%,Enc:(3-6) WILD2_Mutated_Pig_Rats AMBUSH Player
 enc_02=Chance:10%,Enc:(6-8) ARRO_Spore_Plants
-enc_03=Chance:10%,Enc:(3-5) DVMV_Wild_Dogs AND (1-2) WILD2_Hermit FIGHTING (5-8) WILD2_Mutated_Molerats
+enc_03=Chance:10%,Enc:(3-5) WILD2_Hermit_Dogs AND (1-2) WILD2_Hermit FIGHTING (5-8) WILD2_Mutated_Molerats
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
 enc_05=Chance:15%,Enc:(2-5) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_06=Chance:15%,Enc:(2-5) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 12) And If(Player(Level) < 19)
@@ -1765,7 +1812,7 @@ enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -50
 enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
 enc_13=Chance:1%,Enc:(1-2) WILD2_Hermit FIGHTING (3-5) DVMV_Wild_Dogs
 enc_14=Chance:1%,Enc:(1-2) WILD2_Hermit FIGHTING (3-5) WILD2_Mutated_Pig_Rats
-enc_15=Chance:1%,Enc:(1-2) WILD2_Hermit AND (3-5) DVMV_Wild_Dogs FIGHTING (3-6) WILD2_Mutated_Molerats
+enc_15=Chance:1%,Enc:(1-2) WILD2_Hermit AND (3-5) WILD2_Hermit_Dogs FIGHTING (3-6) WILD2_Mutated_Molerats
 enc_16=Chance:2%,Enc:(3-5) WILD2_Mutated_Molerats FIGHTING (4-6) WILD2_Mutated_Pig_Rats
 enc_17=Chance:2%,Enc:(5-9) WILD2_Mutated_Molerats FIGHTING (6-12) ARRO_Spore_Plants
 enc_18=Chance:2%,Enc:(3-5) WILD2_Mutated_Pig_Rats FIGHTING (5-8) DVMV_Wild_Dogs
@@ -1776,7 +1823,7 @@ enc_21=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If
 [Encounter Table 26]                                                            ; Areas around Vault City
 lookup_name=VPat_M
 maps=Mountain Encounter 5, Mountain Encounter 6, Mountain Encounter 2, Mountain Encounter 3
-enc_00=Chance:10%,Enc:(3-6) VPAT_Strong_Slavers AND (3-4) DVMV_Wild_Dogs AMBUSH Player
+enc_00=Chance:10%,Enc:(3-6) VPAT_Strong_Slavers AND (3-4) VPAT_Slaver_Dogs AMBUSH Player
 enc_01=Chance:10%,Enc:(4-7) VPAT_Strong_Slavers AMBUSH Player
 enc_02=Chance:10%,Enc:(4-8) DMRV_Golden_Geckos AMBUSH Player
 enc_03=Chance:10%,Enc:(5-8) DVMV_Wild_Dogs AMBUSH Player
@@ -1789,7 +1836,7 @@ enc_09=Chance:15%,Enc:(2-4) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(0) < 
 enc_10=Chance:15%,Enc:(2-4) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 12) And If(Player(Level) < 19)
 enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 18)
 enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
-enc_13=Chance:5%,Enc:(3-6) VPAT_Patrol AND (2-4) DVMV_Wild_Dogs FIGHTING (6-8) VPAT_Strong_Slavers
+enc_13=Chance:5%,Enc:(3-6) VPAT_Patrol AND (2-4) VPAT_Patrol_Dogs FIGHTING (6-8) VPAT_Strong_Slavers
 enc_14=Chance:1%,Enc:(4-7) VPAT_Strong_Slavers FIGHTING (5-8) DMRV_Golden_Geckos
 enc_15=Chance:10%,Enc:(5-8) VPAT_Patrol FIGHTING (4-6) VPAT_Strong_Slavers
 enc_16=Chance:1%,Enc:(3-5) VPAT_Patrol FIGHTING (5-8) DMRV_Golden_Geckos
@@ -1804,7 +1851,7 @@ maps=Desert Encounter 4, Desert Encounter 9, Desert Encounter 11, Desert Encount
 enc_00=Chance:2%,Counter:1,Special,Map:Special Toxic Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(607) < 1)
 enc_01=Chance:2%,Counter:1,Special,Map:Special Pariahs Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(608) < 1)
 enc_02=Chance:2%,Counter:1,Special,Map:Special Mad Brahmin Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(609) < 1)
-enc_03=Chance:10%,Enc:(3-6) VPAT_Strong_Slavers AND (3-4) DVMV_Wild_Dogs AMBUSH Player
+enc_03=Chance:10%,Enc:(3-6) VPAT_Strong_Slavers AND (3-4) VPAT_Slaver_Dogs AMBUSH Player
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
 enc_05=Chance:15%,Enc:(2-5) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_06=Chance:15%,Enc:(2-5) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 12) And If(Player(Level) < 19)
@@ -1817,7 +1864,7 @@ enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(38
 enc_13=Chance:10%,Enc:(4-7) VPAT_Strong_Slavers AMBUSH Player
 enc_14=Chance:10%,Enc:(4-8) DMRV_Golden_Geckos AMBUSH Player
 enc_15=Chance:10%,Enc:(5-8) DVMV_Wild_Dogs AMBUSH Player
-enc_16=Chance:5%,Enc:(3-6) VPAT_Patrol AND (2-4) DVMV_Wild_Dogs FIGHTING (6-8) VPAT_Strong_Slavers
+enc_16=Chance:5%,Enc:(3-6) VPAT_Patrol AND (2-4) VPAT_Patrol_Dogs FIGHTING (6-8) VPAT_Strong_Slavers
 enc_17=Chance:2%,Enc:(4-7) VPAT_Strong_Slavers FIGHTING (5-8) DMRV_Golden_Geckos
 enc_18=Chance:10%,Enc:(5-8) VPAT_Patrol FIGHTING (4-6) VPAT_Strong_Slavers
 enc_19=Chance:1%,Enc:(3-5) VPAT_Patrol FIGHTING (5-8) DMRV_Golden_Geckos
@@ -2196,7 +2243,7 @@ enc_29=Chance:80%,Special,Enc:KAGA3 AMBUSH Player, If (Global(399) < 72) And If(
 [Encounter Table 40]
 lookup_name=Raid_M                                                              ; Areas patroled by the Raiders
 maps=Mountain Encounter 1, Mountain Encounter 2, Cavern Encounter 1, Cavern Encounter 3, Cavern Encounter 5
-enc_00=Chance:15%,Enc:(3-6) RDRC_Raiders AND (4-7) RED_Wolves AMBUSH Player, If(Global(600) < 1)
+enc_00=Chance:15%,Enc:(3-6) RDRC_Raiders AND (4-7) RDRC_Raider_Wolves AMBUSH Player, If(Global(600) < 1)
 enc_01=Chance:15%,Enc:(4-10) ARRO_Spore_Plants AND (5-10) RED_Wolves AMBUSH Player
 enc_02=Chance:30%,Enc:(4-7) RDRC_Raiders AMBUSH Player, If(Global(600) < 1)
 enc_03=Chance:15%,Enc:(6-10) RED_Wolves AMBUSH Player
@@ -2221,7 +2268,7 @@ maps=Desert Encounter 7, Desert Encounter 5, Desert Encounter 7, Desert Encounte
 enc_00=Chance:2%,Counter:1,Special,Map:Special Toxic Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(607) < 1)
 enc_01=Chance:2%,Counter:1,Special,Map:Special Pariahs Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(608) < 1)
 enc_02=Chance:2%,Counter:1,Special,Map:Special Mad Brahmin Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(609) < 1)
-enc_03=Chance:15%,Enc:(3-6) RDRC_Raiders AND (4-7) RED_Wolves AMBUSH Player, If(Global(600) < 1)
+enc_03=Chance:15%,Enc:(3-6) RDRC_Raiders AND (4-7) RDRC_Raider_Wolves AMBUSH Player, If(Global(600) < 1)
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
 enc_05=Chance:15%,Enc:(2-5) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_06=Chance:15%,Enc:(2-5) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 12) And If(Player(Level) < 19)

@@ -225,5 +225,9 @@
 #define TEAM_HUBOLOGIST_STASH                   (217)
 #define TEAM_EPA_FLIES                          (218)
 #define TEAM_EPA_ROBOTS                         (219)
+// Den caravan, kept apart from TEAM_CARAVAN so it can fight other caravans
+#define TEAM_DEN_CARAVAN                        (220)
+// Mutated pig rats, kept apart from TEAM_RND_RATS so they can fight mutated molerats
+#define TEAM_RND_PIG_RATS                       (221)
 
 #endif // TEAMS_H

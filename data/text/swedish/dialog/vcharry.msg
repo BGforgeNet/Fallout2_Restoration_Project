@@ -1,5 +1,5 @@
 {100}{}{You see a short, jovial man.}
-{101}{}{You see Happy Harry, the store owner.}
+{101}{}{Du ser Glada Glenn, butiksägaren.}
 {102}{}{Well, hello there... what can I do for you?}
 {103}{}{I'm looking to trade. Can I see what you have in stock?}
 {104}{}{You still selling that plow out there?}

@@ -32,6 +32,7 @@
 #define NAME                    SCRIPT_ECGUARD
 
 #include "../headers/command.h"
+#include "../sfall/define_extra.h"
 
 
 /* Standard Script Procedures */
@@ -82,7 +83,7 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   set_self_team(TEAM_CARAVAN);
+   set_self_default_team(TEAM_CARAVAN);
    set_self_ai(AI_GENERIC_GUARDS);
 end
 
