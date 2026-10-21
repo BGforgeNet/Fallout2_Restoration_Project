@@ -71,6 +71,20 @@ procedure too_many_carts begin
     return false;
 end
 
+/**
+ * Rolls a new trip's crew: one master, 2-4 guards, 1-3 carts with two brahmin and a driver each.
+ * Every trip sets all counters, even one without encounters, because the payout reads them and they are shared
+ * between caravan lines.
+ */
+procedure roll_caravan_crew begin
+    variable carts := random(1, 3);
+    set_caravan_masters(1);
+    set_caravan_guards(random(2, 4));
+    set_caravan_carts(carts);
+    set_caravan_brahmin(2 * carts);
+    set_caravan_drivers(carts);
+end
+
 #define give_money(who,amount)              if (dude_fortune_finder) then                               \
                                                 item_caps_adjust(who,2*(amount));                       \
                                             else                                                        \

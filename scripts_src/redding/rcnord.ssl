@@ -302,6 +302,9 @@ procedure Node008a begin
        call Node001;
    else if (global_var(CARAVAN_GVAR) == REDDING_CARAVAN_THEFT) then
        call Node002;
+   // A trip without encounters is an average success, as the caravan leader grades it.
+   else if (total_encounters == 0) then
+       call Node005;
    else if ((caravan_guards_left < (caravan_total_guards/4)) or //edit by killap was > in both checks
             (caravan_brahmin_left < ((caravan_total_brahmin*4)/10))) then
        call Node004;

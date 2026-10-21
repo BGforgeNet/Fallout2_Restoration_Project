@@ -749,8 +749,9 @@ type_02=ratio:25%, pid:16777249, Item:236(wielded), Item:(0-20)41, Script:509   
 type_03=ratio:25%, pid:16777249, Item:9(wielded), Item:(0-20)41, Script:509                              ; Melee Thug female w/ 10mm SMG
 position=Surrounding, spacing:5, distance:5
 
+; The lead stops travellers to trade, so he always has caps, and maybe gold from his claim, to trade with.
 [Encounter: RED_Prospector]
-type_00=pid:16777452, Item:6(wielded), Item:(0-20)41, Script:1115                                        ; Prospector male w/ Sledge
+type_00=pid:16777452, Item:6(wielded), Item:(30-80)41, Item:(0-2)423, Script:1115                         ; Prospector male w/ Sledge
 type_01=ratio:25%, pid:16777452, Item:23(wielded), Item:(0-20)41, Script:763                              ; Prospector male w/ Assulat Rifle
 type_02=ratio:25%, pid:16777452, Item:354(wielded), Item:(0-20)41, Script:763                              ; Prospector male w/ Pancor Jackhammer
 type_03=ratio:25%, pid:16777453, Item:236(wielded), Item:(0-20)41, Script:763                              ; Prospector female w/

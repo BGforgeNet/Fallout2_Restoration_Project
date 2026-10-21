@@ -667,9 +667,7 @@ procedure Node033 begin
 end
 
 procedure StartCaravan begin
-   variable Caravan_Carts;
    variable Caravan_Encounters;
-   variable Caravan_Guards;
 
    set_local_var( LVAR_Caravan, 0 );
    set_global_var(CURRENT_CARAVAN,GVAR_BH_CARAVAN);
@@ -682,9 +680,8 @@ procedure StartCaravan begin
 
    //ndebug("ENCOUNTERS=" + k);
 
+   call roll_caravan_crew;
    if (global_var(GVAR_CARAVAN_ENCOUNTERS_TOTAL) == 0) then begin
-      Caravan_Guards := random(2,4);
-      set_caravan_guards( Caravan_Guards );
       if (global_var(GVAR_CARAVAN_END) == CARAVAN_VAULT_CITY) then begin
          game_time_advance(14*ONE_GAME_DAY);
          load_map(MAPSTR_VCTYCTYD,0);
@@ -699,15 +696,6 @@ procedure StartCaravan begin
       end
    end
    else begin
-      Caravan_Carts:=random(1,3);
-      Caravan_Guards:=random(2,4);
-
-      set_caravan_masters(1);
-      set_caravan_guards( Caravan_Guards );
-      set_caravan_carts( Caravan_Carts );
-      set_caravan_brahmin( 2 * Caravan_Carts );
-      set_caravan_drivers( Caravan_Carts );
-
       load_map(MAPSTR_BHRNDDST,11); //<-robs map script ignores this index...must be above 10
                                     //however to put caravan in center of map
    end

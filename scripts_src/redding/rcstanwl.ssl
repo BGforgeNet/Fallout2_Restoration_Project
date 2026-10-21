@@ -271,7 +271,8 @@ procedure talk_p_proc begin
    GetReaction;
 
    //killap code
-   if ((global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_NONE) and (global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_ABANDONED) and (global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_THEFT) and (not(cur_map_index == MAP_BH_RND_DESERT))) then begin
+   // A trip without encounters keeps the average success it was given when it skipped the desert.
+   if ((global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_NONE) and (global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_ABANDONED) and (global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_THEFT) and (not(cur_map_index == MAP_BH_RND_DESERT)) and (total_encounters > 0)) then begin
       if ((caravan_guards_left < (caravan_total_guards/4)) or (caravan_brahmin_left < ((caravan_total_brahmin*4)/10))) then
          set_global_var(CURRENT_CARAVAN,REDDING_CARAVAN_TOTAL_FAILURE);
       else if ((caravan_guards_left < (caravan_total_guards/2)) or (caravan_brahmin_left < ((caravan_total_brahmin*6)/10))) then
@@ -432,9 +433,7 @@ procedure Node002 begin
 end
 
 procedure Node002a begin
-   variable Caravan_Carts;
    variable Caravan_Encounters;
-   variable Caravan_Guards;
 
    Caravan_Encounters:=random(0,4);
 
@@ -451,9 +450,8 @@ procedure Node002a begin
        set_global_var(GVAR_CARAVAN_END,CARAVAN_REDDING);
    end
 
+   call roll_caravan_crew;
    if (global_var(GVAR_CARAVAN_ENCOUNTERS_TOTAL) == 0) then begin
-       Caravan_Guards:=random(2,4);
-       set_caravan_guards(Caravan_Guards);
        if (global_var(GVAR_CARAVAN_END) ==  CARAVAN_NCR) then begin
            game_time_advance(25*ONE_GAME_DAY);
            load_map(TARGET_TOWN,CURRENT_CARAVAN_LEADER);
@@ -466,15 +464,6 @@ procedure Node002a begin
        end
    end
    else begin
-       Caravan_Carts:=random(1,3);
-       Caravan_Guards:=random(2,4);
-
-       set_caravan_masters(1);
-       set_caravan_guards(Caravan_Guards);
-       set_caravan_carts(Caravan_Carts);
-       set_caravan_brahmin(2*Caravan_Carts);
-       set_caravan_drivers(Caravan_Carts);
-
        load_map(MAPSTR_BHRNDDST,CURRENT_CARAVAN_LEADER);
    end
 
