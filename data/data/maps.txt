@@ -68,7 +68,7 @@ random_start_point_4=elev:0, tile_num:20526
 lookup_name=Arroyo Caves
 map_name=arcaves
 music=13CARVRN
-ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+ambient_sfx=water:40, water1:25, animal:15, animal:10, pebble:5, pebble1:5
 pipboy_active=No
 saved=Yes
 can_rest_here=No,No,No  ; All 3 elevations
@@ -163,7 +163,6 @@ map_name=klatrap
 music=03wrldmp
 ambient_sfx=gntlwin1:20, gntlwind:20, rattle:15, rattle1:15, vulture:15, vulture1:15
 saved=Yes
-state=On
 
 
 [Map 014]

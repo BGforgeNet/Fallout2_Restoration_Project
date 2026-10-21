@@ -12,6 +12,7 @@ jobs:
   build:
     if: github.actor != 'bgforge-hive' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -25,6 +26,8 @@ jobs:
           scripts_lst: data/scripts/scripts.lst
           scripts_dir: scripts_src
           dialog_dir: data/text/english/dialog
+          city_path: data/data/city.txt
+          maps_path: data/data/maps.txt
 
       - name: Install wine
         uses: devopsx/gha-ubuntu-i386-fix@master

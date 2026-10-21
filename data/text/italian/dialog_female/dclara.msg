@@ -16,9 +16,9 @@
 {240}{}{Se non sei venuto al Den per un motivo specifico, probabilmente faresti meglio ad andartene. Questo non e' un posto molto sicuro.}
 {241}{}{Oh, okay.}
 {242}{}{Hai del lavoro?}
-{243}{}{So badare a me stesso.}
+{243}{}{So badare a me stessa.}
 {244}{}{Okay, grazie.}
-{250}{}{Non ne dubito. Altrimenti non ce l'avresti mai fatta ad arrivare vivo fino a qui.}
+{250}{}{Non ne dubito. Altrimenti non ce l'avresti mai fatta ad arrivare viva fino a qui.}
 {251}{}{Uh, si', lo so. Me l'hai gia' detto prima.}
 {252}{}{Hai del lavoro?}
 {253}{}{Okay, grazie.}
@@ -94,7 +94,7 @@
 {480}{}{Eccellente! Lasceranno sicuramente un corpo di guardia ridotto all'osso. Questo sara' un gran bel vantaggio per noi. Faremo fuori quelli alla festa dopo aver assaltato la chiesa.}
 {481}{}{E i miei soldi?}
 {490}{}{Non credo che te li daro' subito. Se vuoi vedere i tuoi soldi, dovrai venire con noi. Non ti sto chiedendo di combattere, ma voglio essere sicura che non sia una trappola. In totale ti daremo 300$.}
-{491}{}{Sei pronto?}
+{491}{}{Sei pronta?}
 {492}{}{Okay, andiamo.}
 {493}{}{Dammi un attimo per prepararmi.}
 {494}{}{Puoi scordartelo. Tieniti pure i tuoi soldi!}
@@ -102,7 +102,7 @@
 {501}{}{Okay.}
 {510}{}{Non devi combattere. Soldi facili.}
 {511}{}{Beh, hai cambiato idea?}
-{512}{}{Andiamo. Sono pronto.}
+{512}{}{Andiamo. Sono pronta.}
 {513}{}{Okay, torno subito.}
 {514}{}{No.}
 {515}{}{Uk}
@@ -154,10 +154,10 @@
 {619}{}{Sei mai stato a New Reno? Forse ci dirigeremo la' - o a nord.}
 {650}{}{Okay! Andiamo! Seguitemi!}
 {700}{}{Ok, abbiamo sistemato il gruppo rimasto qui alla chiesa, ma ci sono ancora Tyler e i suoi tirapiedi nella zona residenziale.
- Dovrebbero essere abbastanza ubriachi ormai e possiamo coglierli facilmente di sorpresa. Sei pronto a finire il lavoro?}
+ Dovrebbero essere abbastanza ubriachi ormai e possiamo coglierli facilmente di sorpresa. Sei pronta a finire il lavoro?}
 {701}{}{Lasciami curare prima. Ti faro' sapere quando sono pronto.}
 {702}{}{Andiamo.}
-{710}{}{Sei pronto a fare fuori Tyler e la sua banda?}
+{710}{}{Sei pronta a fare fuori Tyler e la sua banda?}
 {720}{}{Bene, non allontanarti troppo. Dobbiamo finire tutto stanotte o lo faremo senza di te.}
 {721}{}{Torno presto.}
 {722}{}{Andiamo.}
