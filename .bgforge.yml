@@ -5,6 +5,7 @@ translation:
   extract_format: sfall
   skip_files:
     - game/pipboy.msg
+
 mls:
   translation:
     directory: data/text/english/dialog

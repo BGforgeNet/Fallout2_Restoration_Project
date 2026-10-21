@@ -103,7 +103,7 @@ end
 
 procedure destroy_p_proc begin
    inc_evil_critter
-   dec_map_var(MVAR_Thug_Count);
+   // No MVAR_Thug_Count decrement: thugs are placed on denbus1, where map var 4 is a different variable.
 end
 
 procedure look_at_p_proc begin

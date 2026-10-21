@@ -1,0 +1,19 @@
+name: Binary snapshots
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "**/*.pro"
+      - "**/*.map"
+
+permissions:
+    contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: BGforgeNet/BGforge-MLS/actions/binary@2b54598c625611e68959ce2498c24f48dd681d9e # actions/binary/v1.0.8

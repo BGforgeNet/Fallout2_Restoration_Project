@@ -10,13 +10,9 @@ if [[ -d "$comp_dir" ]]; then
     # shellcheck disable=SC2045  # let it break on strange names
     for c in $(ls); do
         # shellcheck disable=SC2154  # from env.sh
-        dat="${mod_name}_$c.dat"
-        cd "$c"
+        DAT_FILE="${mod_name}_$c.dat"
         # shellcheck disable=SC2154  # from env.sh
-        find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list"
-        # shellcheck disable=SC2154  # from env.sh
-        $dat2a "$mods_dir/$dat" @"$file_list"
-        cd ..
+        "$DAT3" a -c 9 -C "$c" "$mods_dir/$DAT_FILE" '*'
     done
     cd ..
 fi

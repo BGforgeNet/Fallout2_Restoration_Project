@@ -4,7 +4,8 @@ set -xeu -o pipefail
 
 lang_dir="data/text"
 trans_dir="translations"
-russian_sound_url="$(curl -s https://api.github.com/repos/BGforgeNet/Fallout2_Sound/releases/latest | grep browser_download_url | awk -F '"' '{print $4}')"
+# shellcheck disable=SC2154  # from env.sh
+russian_sound_url="$("$extra_dir"/package/release_url.sh BGforgeNet/Fallout2_Sound 'upu_russian_sound\.dat')"
 
 # delete unnecessary files
 rm -rf "$lang_dir"/{po,readme.md,translation.patch}
@@ -35,14 +36,8 @@ cd "$trans_dir"
 rm -f ./*.dat
 for d in *; do
     # shellcheck disable=SC2154  # from env.sh
-    dat="${mod_name}_$d.dat"
-    cd "$d"
-    # shellcheck disable=SC2154  # from package.sh
-    find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list"
-    # shellcheck disable=SC2154  # from package.sh
-    $dat2a "$dat" @"$file_list"
-    mv "$dat" ..
-    cd ..
+    DAT_FILE="${mod_name}_$d.dat"
+    $DAT3 a -c 9 -C "$d" "$DAT_FILE" '*'
 done
 cd ..
 

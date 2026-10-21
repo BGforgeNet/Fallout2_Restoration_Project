@@ -14,11 +14,11 @@ jobs:
     timeout-minutes: 30
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Poify/Unpoify run
         if: github.ref == 'refs/heads/master' && github.event_name == 'push'
-        uses: BGforgeNet/msg2po@master
+        uses: BGforgeNet/msg2po@e4d1960bb871c9f0b3b4a2fcd4dd197f8ee25d5f # v1.6.0
         with:
           poify: true
           unpoify: true

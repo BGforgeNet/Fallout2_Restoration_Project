@@ -18,19 +18,17 @@ release/data
 release/ddraw.dll
 release/ddraw.ini
 release/sfall-mods.ini
+release/sfall-FAQ.txt
+release/sfall-readme.txt
 release/translations/
-
 release/mods/*
 !release/mods/elevators.ini
-!release/mods/f2_res.dat
 !release/mods/rpu.ini
 !release/mods/upu.ini
-!release/mods/mods_order.txt
 
 extra/bin/*
-!extra/bin/dat2.exe
+extra/inno/optional
 extra/inno/Output
 extra/inno/release
 extra/inno/translations
 scripts_src/sfall
-dat2.list

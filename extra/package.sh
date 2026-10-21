@@ -3,13 +3,8 @@
 set -xeu -o pipefail
 
 export comp_dir="components"
-# shellcheck disable=SC2154  #  bin_dir from env.sh
-export dat2="wine $bin_dir/dat2.exe"
-export dat2a="wine $bin_dir/dat2.exe a"
 trans_dir="$(realpath translations)"
 export trans_dir
-file_list="$(realpath dat2.list)"
-export file_list
 
 short_sha="$(git rev-parse --short HEAD)"
 # defaults, local build or github non-tagged
@@ -30,13 +25,6 @@ git checkout -- release
 git clean -fd release
 git clean -fdX release
 
-# wine pollutes the log with "wine: Read access denied for device" if z is linked to /
-z="$(readlink -f ~/.wine/dosdevices/z:)"
-if [[ "$z" == "/" ]]; then
-    rm -f ~/.wine/dosdevices/z:
-    ln -s /home ~/.wine/dosdevices/z:
-fi
-
 # Drop json dumps from data if any
 find data -name "*.json" -delete
 
@@ -46,15 +34,15 @@ find data -name "*.json" -delete
 
 # data
 # shellcheck disable=SC2154  # from env.sh
-dat="$mod_name.dat"
+DAT_FILE="$mod_name.dat"
 # shellcheck disable=SC2154  # from env.sh
 mkdir -p "$mods_dir"
 
-cd data
-# I don't know how to pack recursively
-find . -path ./sound/music -prune -o -type f -print | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list" # replace slashes with backslashes
-$dat2a "$mods_dir/$dat" @"$file_list"
-cd ..
+# Original music stays out: hq_music.sh ships the HQ music loose.
+file_list="$(mktemp)"
+(cd data && find . -path ./sound/music -prune -o -type f -print | sed 's|^\./||' | sort) >"$file_list"
+"$DAT3" a -c 9 -C data "$mods_dir/$DAT_FILE" @"$file_list"
+rm -f "$file_list"
 
 # pack components into separate dat files
 "$extra_dir"/package/components.sh
@@ -69,10 +57,7 @@ cd ..
 "$extra_dir"/package/party_orders.sh
 
 # hq music
-# "$extra_dir"/package/hq_music.sh # temporally disabled for smaller packages
-
-# original music
-"$extra_dir"/package/orig_music.sh
+"$extra_dir"/package/hq_music.sh
 
 # sfall
 "$extra_dir"/package/sfall.sh

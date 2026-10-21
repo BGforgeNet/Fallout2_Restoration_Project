@@ -3,10 +3,10 @@
 set -xeu -o pipefail
 
 # shellcheck disable=SC2154  # from env.sh
-api_url="https://api.github.com/repos/${appearance_repo}/releases/latest"
-
-# shellcheck disable=SC2154  # from env.sh
 cd "$release_dir"
-wget -nv "$(curl -s "$api_url" | grep browser_download_url | grep -v non_canon | awk -F '"' '{print $4}')"
+# The release also ships hero_appearance_non_canon_*.zip, which this pattern leaves out.
+# shellcheck disable=SC2154  # from env.sh
+url="$("$extra_dir"/package/release_url.sh "$appearance_repo" 'hero_appearance_v.*\.zip')"
+wget -nv "$url"
 unzip hero_appearance*.zip
 rm -f hero_appearance*.zip

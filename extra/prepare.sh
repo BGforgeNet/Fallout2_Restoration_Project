@@ -13,6 +13,13 @@ if [[ ! -f "$COMPILE" ]]; then
     chmod +x "$COMPILE"
 fi
 
+# Download dat3 tool if it doesn't exist
+if [[ ! -f "$DAT3" ]]; then
+    # shellcheck disable=2154
+    wget -q "$DAT3_URL" -O "$DAT3"
+    chmod +x "$DAT3"
+fi
+
 # shellcheck disable=SC2154  # from env.sh
 wget -nv "$mpack_url" -O "$mpack_7z"
 # sfall headers
