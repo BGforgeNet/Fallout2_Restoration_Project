@@ -283,6 +283,7 @@ end
     // No prying open metal doors
     if (DOOR_STATUS == STATE_METAL) and (not is_container) then begin
       display_msg(my_mstr(500));
+      return;
     end
 
     // crowbar destroy runs always, discouraging high STR characters from spamming it

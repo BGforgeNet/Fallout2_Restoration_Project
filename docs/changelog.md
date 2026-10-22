@@ -7,6 +7,7 @@
 
 ---
 
+- [Version 35](#version-35)
 - [Version 34](#version-34)
 - [Version 33](#version-33)
 - [Version 32](#version-32)
@@ -41,6 +42,33 @@
 - killap's RP 2.3.3
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
+
+### Version 35
+
+(AKA 2.3.35, 2.4.35)
+
+All the same fixes as in [UPU v35](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md#version-35).
+
+#### Locations
+
+- Abbey
+  - Bill's storage box can no longer end up ["locked open"](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/381).
+- Arroyo
+  - Removed a leftover script from the temple map.
+- EPA
+  - Removed broken objects from the main EPA maps.
+  - Companions return to their lockers' new positions on the updated maps (2.4 only).
+- San Francisco
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/378) monsters attacking the wanamingo eggs in the tanker hold, and adjusted Suze's hiding spot.
+  - Captain Ron Meyers now talks to a PC he has a good reaction to, not only after the PC has helped his crew.
+- Sierra Army Depot
+  - The repair bay door can no longer end up ["locked open"](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/381).
+- Vault City
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/387) a crash in Happy Harry's dialog when the Vault Village quest was resolved peacefully and no weapons were bought for the village. The first weapon offer now shows the same options as when returning to him.
+
+#### Localizations
+
+- Translations updated: Czech, French, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish, Vietnamese.
 
 ### Version 34
 
