@@ -2,8 +2,7 @@
 
 set -xeu -o pipefail
 
-# shellcheck disable=SC2154  # from env.sh
-mpack_file="modderspack_$mpack_version.7z"
+mpack_file="modderspack_$MPACK_VERSION.7z"
 mpack_url="https://sourceforge.net/projects/sfall/files/Modders%20pack/$mpack_file/download"
 sfall_headers_dir="scripts_src/sfall"
 
@@ -20,9 +19,13 @@ if [[ ! -f "$DAT3" ]]; then
     chmod +x "$DAT3"
 fi
 
-# shellcheck disable=SC2154  # from env.sh
-wget -nv "$mpack_url" -O "$mpack_7z"
+if [[ ! -f "$MPACK_7Z" ]]; then
+    mkdir -p "$DOWNLOADS_DIR"
+    # Through a temporary name, so an interrupted download is never taken for a complete one.
+    wget -nv "$mpack_url" -O "$MPACK_7Z.part"
+    mv "$MPACK_7Z.part" "$MPACK_7Z"
+fi
 # sfall headers
 rm -rf "$sfall_headers_dir" "scripting_docs/headers"
-7zr x "$mpack_7z" "scripting_docs/headers"
+7zr x "$MPACK_7Z" "scripting_docs/headers"
 mv "scripting_docs/headers" "$sfall_headers_dir"

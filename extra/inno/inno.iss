@@ -17,7 +17,10 @@ DefaultDirName=C:\Games\Fallout2
 AppendDefaultDirName=no
 DisableProgramGroupPage=yes
 OutputBaseFilename={#basename}_v{#version}
-Compression=lzma
+; The payload is mostly already-compressed .dat and .acm files: lzma2/fast compiles in about a third of the time
+; of lzma, for an installer under 3% larger. 4 block threads match the CI runner's 4 vCPUs.
+Compression=lzma2/fast
+LZMANumBlockThreads=4
 DirExistsWarning=no
 Uninstallable=no
 InfoBeforeFile=before.rtf
