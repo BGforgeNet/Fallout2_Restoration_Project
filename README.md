@@ -9,7 +9,7 @@
 
 [**Download**](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
 | [**Installation**](#installation)
-| [**Bug reports**](#bug-reports-feature-requests)
+| [**Report issues**](#bug-reports-feature-requests)
 | [**Additional mods**](#additional-mods)
 
 **Restoration Project, updated** is based on [killap's Restoration Project](http://killap.net/) for Fallout 2.
