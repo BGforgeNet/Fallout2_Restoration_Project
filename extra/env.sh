@@ -28,7 +28,7 @@ SSLC_VERSION="2026-09-17-13-26-18"
 export SSLC_URL="https://github.com/sfall-team/sslc/releases/download/${SSLC_VERSION}/sslc-linux"
 export COMPILE="$BIN_DIR/sslc"
 
-DAT3_VERSION="v0.11.0"
+DAT3_VERSION="v0.11.1"
 export DAT3_URL="https://github.com/BGforgeNet/dat3/releases/download/${DAT3_VERSION}/dat3"
 export DAT3="$BIN_DIR/dat3"
 # zlib level for every .dat: 6 packs in under half the time of 9, for archives about 1% larger.
