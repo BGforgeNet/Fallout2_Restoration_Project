@@ -1,4 +1,4 @@
-## Changelog
+# Changelog
 
 - This file lists changes for RPU only (since RP 2.3.3).
 - In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
@@ -43,13 +43,13 @@
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
-### Version 35
+## Version 35
 
 (AKA 2.3.35, 2.4.35)
 
 All the same fixes as in [UPU v35](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md#version-35).
 
-#### Locations
+### Locations
 
 - Abbey
   - Bill's storage box can no longer end up ["locked open"](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/381).
@@ -66,40 +66,40 @@ All the same fixes as in [UPU v35](https://github.com/BGforgeNet/Fallout2_Unoffi
 - Vault City
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/387) a crash in Happy Harry's dialog when the Vault Village quest was resolved peacefully and no weapons were bought for the village. The first weapon offer now shows the same options as when returning to him.
 
-#### Localizations
+### Localizations
 
 - Translations updated: Czech, French, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish, Vietnamese.
 
-### Version 34
+## Version 34
 
 (AKA 2.3.34, 2.4.34)
 
 All the same fixes as in [UPU v34](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md#version-34).
 
-### Version 33
+## Version 33
 
 (AKA 2.3.33, 2.4.33)
 
-#### General
+### General
 
 - Alcohol and Tragic addictions [will correctly show tags](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/326) when in effect.
 
-#### Locations
+### Locations
 
 - Arroyo
   - Fixed scenery alignment in Temple.
 - EPA
   - The hologram computer [can now be fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/325) using multitool and supertool.
 
-### Version 32
+## Version 32
 
 (AKA 2.3.32, 2.4.32)
 
-#### General
+### General
 
 [Reordered](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/322) the ending slides to keep tank vagrants as the last one.
 
-#### Locations
+### Locations
 
 - Abbey
   - Edited map lighting handling for Abbey (and also Dr.Sheng's hideout) to be more natural.
@@ -125,7 +125,7 @@ All the same fixes as in [UPU v34](https://github.com/BGforgeNet/Fallout2_Unoffi
 - Vault Village
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/314) an intermittent crash on entering the zone.
 
-### Version 30
+## Version 30
 
 - General
   - Fix: new PCs properly get Virgin of the Wastes title (broken in v29).
@@ -136,15 +136,15 @@ All the same fixes as in [UPU v34](https://github.com/BGforgeNet/Fallout2_Unoffi
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/288) EPA holograms multiplying floaters on save/load.
   - [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/286): Kitsune is no longer prevented from using Lockpick skill when wearing Power Armor.
 
-### Version 29
+## Version 29
 
-#### General
+### General
 
 - Enhanced worldmap: visible city ruins are now present on tiles set as the "city" terrain type, by Lexx.
 - Installer
   - More components are optional.
 
-#### Locations
+### Locations
 
 - Abbey
   - PC now always [notes](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/266) Peterson's complaints about crops.
@@ -160,13 +160,13 @@ All the same fixes as in [UPU v34](https://github.com/BGforgeNet/Fallout2_Unoffi
 - Vault City
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/260) intermittent crash when entering Vault City.
 
-### Version 28
+## Version 28
 
 [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/237) car disappearing if PC already has it when returning Jonny to his parents in Modoc.
 
 Introduced in v27. To hotfix, download and extract [this](https://github.com/BGforgeNet/Fallout2_Restoration_Project/files/12673833/modmain.int.zip) into `data/scripts`.
 
-### Version 27
+## Version 27
 
 - New animations for Cat Jules, from [black dude](https://github.com/rotators/fallout-animations/tree/master/Male_BlackDude) set.
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/147) improved mysterious stranger causing lag in a random encounter.
@@ -180,24 +180,24 @@ Introduced in v27. To hotfix, download and extract [this](https://github.com/BGf
 - Vault Village
   - Changed critter placement so one "strong peasant" does not block the desk (contain minor loot) in the "upgraded" village elevations.
 
-### Version 26
+## Version 26
 
 - Hero Appearance updated to version 2.6.
 - Party Orders updated to version 1.11.
 
-### Version 25
+## Version 25
 
 Fixed [crash in EPA](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/129) when sfall QoL features weren't selected during installation.
 
-### Version 24
+## Version 24
 
 Maintenance release: bugfixes from UPU, expanded Polish translation.
 
-### Version 23
+## Version 23
 
 Fixed Cassidy missing talking head.
 
-### Version 22
+## Version 22
 
 - [Animations](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/107)
   - Extended flamer animations are moved into a separated component, and updated.
@@ -209,11 +209,11 @@ Fixed Cassidy missing talking head.
 - Umbra Tribe
   - Fixed [black screen](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/108) upon entering the area in German version.
 
-### Version 21
+## Version 21
 
 Updated sfall to 4.3.0.1.
 
-### Version 20
+## Version 20
 
 - General
   - XP rewards for Kaga are [more consistent](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/78). Also, Kaga will wield more appropriate weapons at each level (2: hunting rifle instead of 14mm pistol, 3: assault rifle instead of combat shotgun, 4: super cattle prod instead of laser rifle).
@@ -236,44 +236,44 @@ Updated sfall to 4.3.0.1.
     - Will display dying animation when spray is used on them.
     - All this also applies to plants inside EPA.
 
-### Version 18
+## Version 18
 
 Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance) to v2.1, shipping only canon sets by default.
 
-### Version 17
+## Version 17
 
 - Kaga now has [consistent stats and HP](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/57).
 
-### Version 16
+## Version 16
 
 - Separated [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor) mod.
 - Added Italian and Hungarian translations.
 - Fixed a leftover from YAAM, incorrect stats for BB ammo.
 
-### Version 14
+## Version 14
 
 - Fixed auto installer not allowing to select a directory in some cases.
 - Fixed `AllowSoundForFloats` placement in `ddraw.ini`
 - Enabled more QoL options: `WorldMapTerrainInfo`, `ActionPointsBar`, increased `NumSoundBuffers` to 16.
 
-### Version 13
+## Version 13
 
 - Multiple fixes and updates from [UPU](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch).
 - Added [high quality music](https://github.com/BGforgeNet/Fallout2-HQ-music).
 
-### Version 12
+## Version 12
 
 - Fixed incorrect `WorldMapSlots` placement in `ddraw.ini`.
 - Fixed re-stocking Red 888 Guns (introduced in v11).
 - Fixed `rpu-install.command` being left out on cleanup.
 
-### Version 11
+## Version 11
 
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
 - [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
 - Moved more ini files into `mods` directory.
 
-### Version 10
+## Version 10
 
 - General
   - Disabled `AIBestWeaponFix` by default, as it's not much of a fix.
@@ -295,7 +295,7 @@ Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance
     - Badger will stock Bozar and G11E.
     - Badger will keep re-stocking after 7 years.
 
-### Version 9
+## Version 9
 
 - General
   - Allowed all Kaga versions to be knocked down, for consistency.
@@ -311,11 +311,11 @@ Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance
   - Fixed being unable to resque Jonny if talked to him before starting the quest.
   - Fixed shitty death narration being stuck.
 
-### Version 8
+## Version 8
 
 Added missing item highlight and party control mods.
 
-### Version 7
+## Version 7
 
 - Enabled some QoL features in sfall: `DontTurnOffSneakIfYouRun`, `NumbersInDialogue`, `WorldMapFontPatch`, `PartyMemberExtraInfo`.
 - Removed files identical to their `master.dat` versions.
@@ -323,30 +323,30 @@ Added missing item highlight and party control mods.
 - Fixed Russian character descriptions being shown when using English language.
 - Fixed several worldmap markers being shown in Russian when using English language.
 
-### Version 6
+## Version 6
 
 - Added npc armor frms and hopefully the last missing files from 2.3.3 auto installer.
 - Fixed npc armor and ammo mod script installation on unixes.
 
-### Version 5
+## Version 5
 
 Fixed more packaging artefacts.
 
-### Version 4
+## Version 4
 
 Added missing `scripts.lst`.
 
-### Version 3
+## Version 3
 
 - Created a complete package.
 - Added localizations.
 - Converted some options from install time into separate dat packages and/or ini settings.
 
-### Version 2
+## Version 2
 
 Repacked into .dat file.
 
-### Version 1
+## Version 1
 
 - General
   - Damage formula no longer erroneously defaults to YAAM.

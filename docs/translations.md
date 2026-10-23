@@ -16,7 +16,7 @@ Current languages:
 * French, based on [translation for RP 2.3.3](http://fallout-generation.com/files/file/105-restoration-project-pno-pour-fallout-2-patch-de-trad-vf/).
 * German, based on [translation](https://www.falloutnow.de/forum/index.php?topic=6887.0) for RP 2.1.2b ([file](http://www.mediafire.com/file/tlcx58r41u6qqiw/Fallout2-RestorationProjectV2.1.2b%2BRP%C3%9C.rar)).
 * Hungarian, based on [translation from c3.hu](http://www.c3.hu/~frc/fallout2/).
-* Italian, based on [translation by Ragfox](http://nma-fallout.com/resources/translation-packages.58/) with [updates by Zhanka](http://www.ilrealismonellafinzione.net/?categoria=giochi&gioco=fallout_2&sezione=adattamento).
+* Italian, based on [translation by Ragfox](https://nma-fallout.com/resources/translation-packages.58/) with [updates by Zhanka](http://www.ilrealismonellafinzione.net/?categoria=giochi&gioco=fallout_2&sezione=adattamento).
 * Polish, based on [patch ang2pl](https://fallout-corner.pl/pliki/) and [translation for RP 2.3.3](https://trzynasty-schron.net/forum/index.php?topic=8221.0).
 * Portuguese includes parts from translation by rsalvarenga found in [Drobovik's database](https://www.mediafire.com/?lkzw7gj9aeldc#lkzw7gj9aeldc).
 * Russian, based on [1C + Drobovik & Co](http://www.nuclear-city.com/index.php/topic/34-f2-killaps-restoration-project/).
