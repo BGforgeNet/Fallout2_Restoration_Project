@@ -1,4 +1,4 @@
-# Fallout 2 Restoration Project, updated <a href="#"><img align="right" src="extra/bin/fallout2_logo.png" width="35%" alt="Fallout 2 logo"/></a>
+## Fallout 2 Restoration Project, updated <a href="#"><img align="right" src="extra/bin/fallout2_logo.png" width="35%" alt="Fallout 2 logo"/></a>
 
 [![Build status](https://github.com/BGforgeNet/Fallout2_Restoration_Project/actions/workflows/build.yml/badge.svg)](https://github.com/BGforgeNet/Fallout2_Restoration_Project/actions/workflows/build.yml)
 [![Translation status](https://hive.bgforge.net/widgets/fallout/-/rp/svg-badge.svg)](https://hive.bgforge.net/projects/fallout/rp/)

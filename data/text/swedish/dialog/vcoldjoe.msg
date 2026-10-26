@@ -43,7 +43,7 @@
 {133}{}{Thanks. One more thing though. I'm trying to help this little village that's north-east of here. A guy there named Connar told me to seek you out and speak with you.}
 {134}{}{Connar, huh? He's a good guy. I've been keeping my eye on things for him. So what exactly does Connar want, now?}
 {135}{}{He's trying to get his hands on some weapons. He thinks if they had some firepower, they'd be able to keep the Vault City patrols at bay.}
-{136}{}{Ah, so that's his new plan, eh? Well, head over to Happy Harry's general store. Tell Harry Connar sent you, and he should be able to fix you up -- I believe he's got some guns stashed away for just such an occasion. But if you ask me, I'm not sure this is the best way to handle things.}
+{136}{}{Jaha, så det är alltså hans nya plan, va? Gå till Glada Glenns lanthandel. Säg att Glenn Connar har skickat dig, så borde han kunna fixa något åt dig – jag tror att han har några vapen undangömda just för ett sådant tillfälle. Men om du frågar mig är jag inte säker på att det här är det bästa sättet att hantera saken.}
 {137}{}{I'm off to speak with Harry then. Take care ol' friend.}
 {138}{}{Why, what do you mean?}
 {139}{}{Connar and his people have that strong fighting spirit, but it won't be enough in this case. Vault City have nearly unlimited resources, and eventually, they'll win out. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller. Senior Council Member McClure has shown to be a reasonable man. Perhaps some agreement can be made with him?}

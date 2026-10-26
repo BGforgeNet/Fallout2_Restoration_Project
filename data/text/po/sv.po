@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-21 09:24+0000\n"
+"PO-Revision-Date: 2026-10-23 10:38+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -187429,6 +187429,11 @@ msgstr ""
 #: dialog/vcoldjoe.msg:136
 msgid "Ah, so that's his new plan, eh? Well, head over to Happy Harry's general store. Tell Harry Connar sent you, and he should be able to fix you up -- I believe he's got some guns stashed away for just such an occasion. But if you ask me, I'm not sure this is the best way to handle things."
 msgstr ""
+"Jaha, så det är alltså hans nya plan, va? Gå till Glada Glenns lanthandel. "
+"Säg att Glenn Connar har skickat dig, så borde han kunna fixa något åt dig – "
+"jag tror att han har några vapen undangömda just för ett sådant tillfälle. "
+"Men om du frågar mig är jag inte säker på att det här är det bästa sättet "
+"att hantera saken."
 
 #: dialog/vcoldjoe.msg:137
 msgid "I'm off to speak with Harry then. Take care ol' friend."
@@ -187761,6 +187766,9 @@ msgstr ""
 #: dialog/vcrandal.msg:169 dialog/vcrandal.msg:170
 msgid "Well, sorry to break it to you, but I'm only authorized to do transactions with Citizens. No offense to you, but it's the rule, you know? You might try Happy Harry's out in the Courtyard."
 msgstr ""
+"Tja, jag är ledsen att behöva säga det, men jag har bara tillåtelse att göra "
+"affärer med Medborgare. Ta det inte personligt, men så är reglerna, förstår "
+"du? Du kan ju prova Glada Glenns affär ute på Torget."
 
 #: dialog/vcrandal.msg:172
 msgid "But... uh, I am a Citizen. Don't you remember me?"
@@ -189607,6 +189615,10 @@ msgstr ""
 #: dialog/vcstark.msg:427
 msgid "Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how \"Happy\" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out."
 msgstr ""
+"Glada Glenn, säger du? … Det var väl typiskt att det skulle vara en av de "
+"där lurendrejarna på torget. Okej, jag tar hand om honom. Vi får se hur glad "
+"han är när jag är klar. Och du, du kan ta allt du hittar i hans butik som "
+"belöning för att du angav honom."
 
 #: dialog/vcstark.msg:428
 msgid "I don't know why, but proconsul McClure has ordered me to wait with the village a little. It's applying to you as well. "
@@ -225830,7 +225842,7 @@ msgstr ""
 
 #: game/pro_scen.msg:166600
 msgid "Happy Harry's Sign"
-msgstr ""
+msgstr "Glada Glenns skylt"
 
 #: game/pro_scen.msg:166700
 msgid "The Hole Sign"

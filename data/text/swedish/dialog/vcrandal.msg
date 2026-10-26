@@ -67,8 +67,8 @@
 {166}{}{The First Citizen sent me here to claim my reward.}
 {167}{}{Mind if I ask you some other questions?}
 {168}{}{I may be back some other time.}
-{169}{}{Well, sorry to break it to you, but I'm only authorized to do transactions with Citizens. No offense to you, but it's the rule, you know? You might try Happy Harry's out in the Courtyard.}
-{170}{}{Well, sorry to break it to you, but I'm only authorized to do transactions with Citizens. No offense to you, but it's the rule, you know? You might try Happy Harry's out in the Courtyard.}
+{169}{}{Tja, jag är ledsen att behöva säga det, men jag har bara tillåtelse att göra affärer med Medborgare. Ta det inte personligt, men så är reglerna, förstår du? Du kan ju prova Glada Glenns affär ute på Torget.}
+{170}{}{Tja, jag är ledsen att behöva säga det, men jag har bara tillåtelse att göra affärer med Medborgare. Ta det inte personligt, men så är reglerna, förstår du? Du kan ju prova Glada Glenns affär ute på Torget.}
 {171}{}{How can I become a Citizen?}
 {172}{}{But... uh, I am a Citizen. Don't you remember me?}
 {173}{}{Look, my money's just as good as any Citizen's.}

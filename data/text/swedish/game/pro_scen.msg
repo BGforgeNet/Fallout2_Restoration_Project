@@ -2573,7 +2573,7 @@
 {166300}{}{Customs Sign}
 {166400}{}{Customs Sign}
 {166500}{}{Greeting Office Sign}
-{166600}{}{Happy Harry's Sign}
+{166600}{}{Glada Glenns skylt}
 {166700}{}{The Hole Sign}
 {166800}{}{Information Center Sign}
 {166900}{}{Information Center Sign}

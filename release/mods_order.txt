@@ -16,7 +16,7 @@ rpu_extended_flamer.dat
 rpu_rifle_animations.dat
 rpu_wakizashi_animations.dat
 cassidy_head.dat
-cassidy_voice_joey_bracken_hq.dat
+cassidy_voice_joey_bracken.dat
 rpu_improved_mysterious_stranger.dat
 walk_speed_fix_low_fps.dat
 goris_fast_derobing_low_fps.dat

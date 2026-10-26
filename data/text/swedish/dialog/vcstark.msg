@@ -326,7 +326,7 @@
 {424}{}{What village? Oh, the one we got our new servants from... what about it?}
 {425}{}{You say what!? You enslaved them all?}
 {426}{}{I know who provided them with weapons. It was that trader in the courtyard, Harry. }
-{427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
+{427}{}{Glada Glenn, säger du? … Det var väl typiskt att det skulle vara en av de där lurendrejarna på torget. Okej, jag tar hand om honom. Vi får se hur glad han är när jag är klar. Och du, du kan ta allt du hittar i hans butik som belöning för att du angav honom.}
 {428}{}{I don't know why, but proconsul McClure has ordered me to wait with the village a little. It's applying to you as well. }
 {429}{}{Hmm... Ok.}
 {1215}{}{I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
