@@ -78,7 +78,7 @@
 #define Cat_Jules_In_Party                  (Cat_Jules_Ptr != 0)
 
 // Party Size Information
-#define party_size                          (party_member_count(DONT_LIST_HIDDEN_MEMBERS) - Laddie_In_Party - Bess_In_Party)
+#define party_size                          (party_member_count(DONT_LIST_HIDDEN_MEMBERS) - Laddie_In_Party - (Bess_In_Party and obj_is_visible_flag(Bess_Ptr)))
 #define true_party_size                     (party_size - 1)
 #define party_max_formula                   (floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)))
 #define dude_at_max_party_size              ((true_party_size >= (party_max_formula)) or (true_party_size >= 5))
