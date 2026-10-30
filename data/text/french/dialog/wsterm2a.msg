@@ -8,13 +8,13 @@
 {108}{}{[Pirater les systèmes de sécurité]}
 {109}{}{[Tenter de désactiver l'alarme]}
 {110}{}{[Quitter]}
-{111}{}{Arhh ! [Tu tapes du poing sur le clavier de rage]}
+{111}{}{Argh ! [Tu tapes du poing sur le clavier de rage]}
 {113}{}{Systèmes de sécurité Skynet}
 {114}{}{Scanner Retinien Enclenché                                           Scan...                                                              Recherche dans la base de données}
 {115}{}{[Activer le système d'alarme Niveau 2]}
 {116}{}{[Exécuter le programme automatique de diagnostic]}
 {117}{}{[Quitter]}
-{118}{}{Arhh ! [Tu tapes du poing sur le clavier de rage]}
+{118}{}{Argh ! [Tu tapes du poing sur le clavier de rage]}
 {120}{}{Systèmes de sécurité Skynet                                      Accès à ce terminal refusé}
 {122}{}{[Quitter]}
 {124}{}{Erreur !                                                                 Fichiers programme introuvables                                            Veuillez redémarrer}
