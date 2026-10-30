@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-30 23:07+0000\n"
+"PO-Revision-Date: 2026-10-30 23:17+0000\n"
 "Last-Translator: Quantum Apprentice <quantumapprentice@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/rp/fr/>\n"
 "Language: french\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: cuts/afailed.sve:10
 msgid "Chosen. The village dies. All of our futures die, too."
-msgstr "Être Elu. Le village se meurt. Tous nos avenirs meurent eux aussi."
+msgstr "Etre Elu. Le village se meurt. Tous nos avenirs meurent, eux aussi."
 
 #: cuts/artimer1.sve:20
 msgid "Chosen, the spirits of our ancestors guide me to world of dreams"
@@ -89,8 +89,8 @@ msgid ""
 "RemindBoy message: Water supplies nearly gone in Vault 13.  Situation "
 "critical."
 msgstr ""
-"Message du Remind-Boy : réserves d'eau de l'Abri 13 presque épuisées. "
-"Situation critique."
+"Message de RemindBoy: L'approvisionnement en eau a presque disparu dans "
+"l'Abri 13. Situation critique."
 
 #: cuts/boil3.sve:1
 msgid ""
@@ -101,7 +101,7 @@ msgstr ""
 
 #: cuts/credits.sve:20
 msgid "War. War never changes."
-msgstr "Guerre. Guerre ne change jamais."
+msgstr "La guerre. La guerre, toujours la guerre."
 
 #. indexed_txt
 #: cuts/credits.sve:70 cuts/narrate.txt:3
@@ -15020,7 +15020,6 @@ msgstr ""
 "Peux-tu m'aider ?"
 
 #: dialog/bcdalia.msg:152
-#, fuzzy
 msgid ""
 "I don't give a radrat's ass... I'm sorry. I'm just a gun who was hired to "
 "stand here and guard\n"
@@ -15884,9 +15883,8 @@ msgid "Me come here accident. Go now."
 msgstr "Moi venir ici par hasard. Partir maintenant."
 
 #: dialog/bcphil.msg:107
-#, fuzzy
 msgid "Screw you. Me shoot you dead."
-msgstr "Va te faire. Moi tirer toi mort."
+msgstr "Va te faire. Moi tuer toi."
 
 #: dialog/bcphil.msg:108
 msgid "Uh, we talk this out?"
@@ -15905,9 +15903,8 @@ msgid "Sorry, took the wrong trail by accident. Gotta go."
 msgstr "Pardon. J'ai pris le mauvais chemin. Faut que j'y aille."
 
 #: dialog/bcphil.msg:112
-#, fuzzy
 msgid "Up yours and have a bullet breakfast, asshole."
-msgstr "Va te faire foutre et avale-moi ça au petit-déj, connard."
+msgstr "Va te faire foutre et avale moi ça au petit-déj, connard."
 
 #: dialog/bcphil.msg:113
 msgid "I think we can talk this out like two civilized beings."
@@ -249652,7 +249649,7 @@ msgstr "[Tenter de désactiver l'alarme]"
 
 #: dialog/wsterm2a.msg:111 dialog/wsterm2a.msg:118
 msgid "Arg! [You slam you fist into the keyboard in frustration.]"
-msgstr "Arhh ! [Tu tapes du poing sur le clavier de rage]"
+msgstr "Argh ! [Tu tapes du poing sur le clavier de rage]"
 
 #: dialog/wsterm2a.msg:113
 msgid "Skynet Security Systems"
@@ -253354,7 +253351,7 @@ msgstr "cloche"
 
 #: dialog/zislots.msg:1005
 msgid "bar"
-msgstr "\"bar\""
+msgstr "bar"
 
 #: dialog/zislots.msg:1006
 msgid "melon"
@@ -253378,7 +253375,7 @@ msgstr "cloches"
 
 #: dialog/zislots.msg:1105
 msgid "bars"
-msgstr "\"bar\""
+msgstr "\"bars\""
 
 #: dialog/zislots.msg:1106
 msgid "melons"
@@ -277498,7 +277495,7 @@ msgstr "Une puissante solution de guérison magique vaguement soporifique."
 
 #: game/pro_item.msg:27400
 msgid "Robo Rocket Ammo"
-msgstr "Roquette pour robots"
+msgstr "Munitions de roquette pour robots"
 
 #: game/pro_item.msg:27500
 msgid "Trophy of Recognition"
