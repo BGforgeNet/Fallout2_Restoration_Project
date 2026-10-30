@@ -3,6 +3,6 @@
 3:M'entends-tu ?
 4:Le village se meurt.
 5:Tous nos avenirs meurent eux aussi.
-6:Il nous reste très peu de temps et d'essence.
+6:Il nous reste très peu [de temps et] d'essence.
 7:Fais vite.
 8:Vite.

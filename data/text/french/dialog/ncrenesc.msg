@@ -182,7 +182,7 @@
 {687}{}{Génial ! Voyons voir ce que tu proposes, « mon pote ».}
 {688}{}{Excellent ! Ecoute, j'avais d'autres questions...}
 {689}{}{Je reviendrai faire des achats plus tard.}
-{700}{}{Fais vite.}
+{700}{}{Dépêche toi.}
 {701}{}{Ecoute, je suis très occupé...}
 {702}{}{Alors ? Tu vas parler !}
 {703}{}{Vraiment ?}

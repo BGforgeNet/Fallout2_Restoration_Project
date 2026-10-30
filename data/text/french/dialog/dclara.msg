@@ -52,7 +52,7 @@
 {351}{}{Oh, d'accord. Merci.}
 {360}{}{Tu veux gagner de l'argent sans te fatiguer ? Disons... encore $50. Très facile.}
 {361}{}{Certainement.}
-{362}{}{Fais vite.}
+{362}{}{Dépêche toi.}
 {370}{}{Je veux que tu ailles voir si Metzger serait d'accord si Tyler et moi on réglait un vieux problème. Il comprendra ce que je veux dire.}
 {371}{}{Pourquoi veux-tu que je demande ?}
 {372}{}{Si ça m'est possible.}

@@ -64,7 +64,7 @@
 {455}{}{Je comprends votre scepticisme quant à notre manière de vivre, mais vous devez comprendre que c'est ainsi que nous vivons depuis toujours. Changez les choses maintenant, après tant d'années... Ce serait un blasphème envers notre foi... Malgré tout je devrais prendre en compte votre avis. Je sens une grande sagesse en vous, nomade. Il est bien malheureux que vous soyez si peu nombreux.}
 {456}{}{Merci. J'aimerais savoir autre chose...}
 {457}{}{Très bien. j'aimerais savoir autre chose.}
-{500}{}{Arrête ça!}
+{500}{}{Arrête ça !}
 {501}{}{Tu gagnes %d points d'expérience pour avoir ramené le livre.}
 {600}{}{J'ai réparé la pompe à eau.}
 {601}{}{C'est une excellente nouvelle. Cette pompe à eau avait toujours bien fonctionné. Ces marchands sont restés ici quelques jours et je ne suis pas sûr qu'ils aient fait beaucoup pour ça. Encore merci.}

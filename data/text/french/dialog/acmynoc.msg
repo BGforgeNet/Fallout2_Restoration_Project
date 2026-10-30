@@ -35,7 +35,7 @@
 {182}{}{J'allais partir. Au revoir.}
 {183}{}{Je n'ai rien d'autre à te dire. Quelle insoumission !}
 {184}{}{J'aimerais te poser une autre question.}
-{185}{}{T'es rapide ! T'as trouvé le saint Abri 13 ?!}
+{185}{}{T'es rapide ! T'as trouvé le saint Abri 13 ?}
 {186}{}{Oui.}
 {187}{}{Non, pas encore.}
 {188}{}{Oui ? Fantastique ! Tu as rapporté le J.E.K ?}
