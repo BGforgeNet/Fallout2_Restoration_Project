@@ -4,7 +4,7 @@
 {152}{}{Con che coraggio mi mostri di nuovo il tuo brutto muso?!}
 {153}{}{[Fatto]}
 {154}{}{OH! Nessuno entra nel magazzino della Famiglia Wright dopo il tramonto!}
-{155}{}{Beh, Mr. Wright in persona mi ha mandato per una commissione. Se non ne sei stato informato, peggio per te.}
+{155}{}{Beh, il signor Wright in persona mi ha mandato per una commissione. Se non ne sei stato informato, peggio per te.}
 {156}{}{Tornero' domani.}
 {157}{}{Devo entrare adesso.}
 {158}{}{[Sembra nervoso] Scusi... non lo sapevo. Ha un permesso scritto?}

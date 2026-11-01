@@ -1,11 +1,11 @@
 {150}{}{Vedi un meccanico coperto di grasso.}
 {151}{}{Vedi un meccanico, o, come preferisce farsi chiamare, uno dei "chop shop boyz".}
-{152}{}{Vedi un meccanico dall'aspetto meschino. Si fa fatica a distinguere la sua fisionomia sotto tutto quel grasso e olio.}
+{152}{}{Vedi un meccanico dall'aspetto losco. Si fa fatica a distinguere la sua fisionomia sotto tutto quel grasso e olio.}
 {200}{}{Oh, cazzo. *Gulp* Guardate chi e' entrato.}
-{201}{}{Beh, che mi venga un colpo se quello non e' Mr. Macinacaffe'.}
+{201}{}{Beh, che mi venga un colpo se quello non e' Mr. Macinacaffe' del cazzo.}
 {202}{}{C'e' nessuno in quel coso?}
 {203}{}{Possiamo portarle qualcosa? Una birra? Un po' d'acqua? Un dolcetto?}
-{204}{}{Spero vada tutto bene, uh, signore…o signora... Qualunque cosa ci sia la' dentro.}
+{204}{}{Spero vada tutto bene, uh, signore...o signora... Qualunque cosa ci sia la' dentro.}
 {205}{}{Qualunque sia il problema, il responsabile e' T-Ray. Vada a parlare con lui.}
 {206}{}{E' per caso un nuovo tipo di automobile?}
 {207}{}{Non vogliamo guai.}
@@ -16,21 +16,21 @@
 {223}{}{Quelle tette sono naturali? Posso provare?}
 {224}{}{Ti sarebbe troppo di disturbo darmi una controllatina sotto al cofano?}
 {225}{}{Aw, diavolo, ho un aspetto da schifo... proprio adesso. Non faccia caso al grasso, miss.}
-{226}{}{Sei in cerca di nuovi talenti? T-Ray e' nel retro, quindi non serve che vai la'.}
-{227}{}{Lo sapevo che oggi dovevo farmi un bagno…}
+{226}{}{Sei in cerca di nuovi talenti? T-Ray e' nel retro, quindi non serve che tu vada la'.}
+{227}{}{Lo sapevo che oggi dovevo farmi un bagno...}
 {228}{}{Vuole che le controlli l'olio? Eh-heh.}
 {229}{}{Vuoi vedere la mia chiave inglese?}
 {230}{}{::Fischia::}
 {231}{}{Diamine. Tutte quelle curve e io non ho freni.}
 {232}{}{Beh, ehila', signorinella.}
 {233}{}{Wow. Non abbiamo molti visitatori da queste parti. Cosa possiamo fare per lei, miss?}
-{234}{}{Sei in cerca di un amante bollente? T-Ray e' nel retro, quindi non serve che vai la'.}
+{234}{}{Sei in cerca di un amante bollente? T-Ray e' nel retro, quindi non serve che tu vada la'.}
 {245}{}{Ti ho visto combattere sul ring. Quel gancio destro che hai tirato e' stato magnifico.}
-{246}{}{Sei sicuro di vincere il prossimo incontro? Ho puntato 30 dollari su di te.}
+{246}{}{Non e' che ti lascerai battere apposta? Ho puntato 30 dollari su di te.}
 {247}{}{Non sembri poi cosi' forte, per essere un campione.}
-{248}{}{Quante flessioni fai, al giorno?}
+{248}{}{Quanto sollevi alla panca?}
 {249}{}{Dove ti alleni?}
-{250}{}{Sta' attento al Masticatore. Adora le orecchie.}
+{250}{}{Occhio al Masticatore. Adora le orecchie.}
 {251}{}{Vuoi una birra? Di solito le mettiamo da parte per quando lavoriamo.}
 {252}{}{T-Ray dice che non sei poi cosi' forte. Ti do 5 dollari se vai da lui e gli tiri un pugno.}
 {253}{}{T-Ray dice che hai la mascella di cristallo. Lui sta nella stanza sul retro, se ci vuoi parlare.}
@@ -50,7 +50,7 @@
 {302}{}{Si', la Highwayman non e' una brutta macchina, ma preferisco le Omni.}
 {303}{}{Vuole forse vendere la sua Highwayman?}
 {304}{}{Vai, fulmine lubrificato, vai.}
-{305}{}{Grasso e' la parola che mi piace sentire…dum dum dum dum…}
+{305}{}{Grasso e' la parola che mi piace sentire...dum dum dum dum...}
 {306}{}{La Highwayman e' una bella macchina; quelli della Chryslus sapevano davvero come farle.}
 {307}{}{T-Ray sta "lavorando" nella stanza sul retro. Pigro bastardo.}
 {308}{}{Sono stufo di fare anche il lavoro di T-Ray.}
@@ -62,10 +62,10 @@
 {314}{}{All'interno c'e' una puzza... sembra che qualcuno ci abbia riversato dentro un carico di letame.}
 {315}{}{Gli interni puzzano di gecko.}
 {316}{}{Non e' una brutta macchina, ma io preferisco le Omni.}
-{317}{}{La Highwayman ha un sistema completamente analogico, 800 + Cavalli Potenza, da 0 a 60 miglia in meno di un secondo.}
+{317}{}{La Highwayman ha un sistema completamente analogico, oltre 800 cavalli, da 0 a 60 miglia in meno di un secondo.}
 {318}{}{Veloce? La Highwayman va da 0 a 60 miglia in meno di un secondo.}
-{319}{}{La Highwayman ha una grande potenza: 800+, per essere precisi.}
-{320}{}{Sei sicuro di essere nel posto giusto?}
+{319}{}{La Highwayman ha una grande potenza: oltre 800 cavalli, per essere precisi.}
+{320}{}{Hai il permesso di stare qui?}
 {321}{}{Quasi mi dispiace per quell'idiota che ha lasciato in giro questa Highwayman.}
 {322}{}{La Highwayman ha un sistema completamente analogico e nessun computer. Niente robe strane, su questa macchina. Nossignore.}
 {330}{}{Togli le mani o le mani te le togliamo noi. Capito?}

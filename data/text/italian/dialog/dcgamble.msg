@@ -16,7 +16,7 @@
 {300}{}{Si'! I dadi mi amano!}
 {301}{}{Oh, per un pelo.}
 {302}{}{Non interrompermi. Mi rovinerai la serie vincente.}
-{303}{}{Sono una furia!}
+{303}{}{Sono in vena!}
 {304}{}{Soldi, soldi, soldi!}
 {305}{}{Amo questo gioco!}
 {306}{}{L'hai visto?! Cosi'!}
@@ -29,28 +29,28 @@
 {313}{}{E' da un po' che non mi viene un buon lancio.}
 {314}{}{Ho bisogno di un buon lancio.}
 {315}{}{Beh, almeno non sto perdendo.}
-{316}{}{Non sto andando da nessuna parte.}
+{316}{}{Io non vado da nessuna parte.}
 {317}{}{Sono in pareggio.}
-{318}{}{Devo puntare sui numeri.}
+{318}{}{Bisogna puntare sui numeri.}
 {319}{}{Puntare solo sul rosso o sul nero non da' buone probabilita' di vincita.}
 {320}{}{I dadi non vanno.}
 {321}{}{Sono sotto e le cose non sembrano migliorare.}
 {322}{}{Spero tu faccia meglio di me.}
 {323}{}{Ho visto giorni migliori.}
-{324}{}{So come si gioca, onestamente.}
+{324}{}{So giocare, davvero.}
 {325}{}{Oggi la pallina non rimbalza come vorrei.}
 {326}{}{Un altro stipendio perso.}
 {327}{}{Sono praticamente al verde!}
 {328}{}{Dannazione. Che schifo.}
 {329}{}{Perche' succede sempre a me?}
-{330}{}{Non posso vincere.}
+{330}{}{Non riesco a vincere.}
 {331}{}{Odio questo gioco.}
 {400}{}{Diamine, il locale di Becky era l'unico posto dove giocare d'azzardo in citta'!}
 {401}{}{Stammi lontano.}
 {402}{}{Non sparare!}
 {403}{}{Ti prego, lasciaci in pace.}
 {500}{}{Non fermarti li'.}
-{501}{}{Muoversi.}
+{501}{}{Continua a girare.}
 {502}{}{DAI! 7!}
 {503}{}{Si'!}
 {504}{}{Continua cosi'!}
@@ -59,7 +59,7 @@
 {507}{}{Datemi un altro bel rimbalzo!}
 {508}{}{Si'!}
 {509}{}{Cosi'!}
-{510}{}{Diamogli ancora un'occhiata.}
+{510}{}{Ancora, vediamolo di nuovo!}
 {511}{}{Dai.}
 {512}{}{Questo e' quello che volevo.}
 {513}{}{Quasi.}
@@ -69,7 +69,7 @@
 {517}{}{Non portate sfiga, non portate sfiga. Stop!}
 {518}{}{Beh, il gioco non tradisce la sua fama.}
 {519}{}{Mi basta una sola grossa vincita.}
-{520}{}{Forza!}
+{520}{}{Lo sapevo!}
 {521}{}{Ancora?}
 {522}{}{Non va bene.}
 {523}{}{La roulette fa schifo!}

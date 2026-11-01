@@ -17,7 +17,7 @@
 {116}{}{I ghoul d'oggi... bah!}
 {117}{}{Nessun rispetto... nessuno ha piu' rispetto.}
 {118}{}{Mi ricordo del vecchio Set...}
-{119}{}{Mi domando come se la passi il vecchio Jed, giu' a Gecko.}
+{119}{}{Mi domando come se la passi il vecchio Jed, a Gecko.}
 {120}{}{A te piacciono i mutanti? A me piacciono i mutanti.}
 {121}{}{Mi piacciono le patate! Mi piacciono schiacciate! Mi piacciono fritte!}
 {122}{}{Ho fame!}
@@ -28,9 +28,9 @@
 {127}{}{Mi ricordo quando abbiamo combattuto contro i Luminosi nel sottosuolo di Necropolis... quelli si' che erano bei tempi...}
 {128}{}{Lascia che ti racconti di quando abbiamo aperto il Vault...}
 {129}{}{...Cosa stavo dicendo?}
-{130}{}{::sbadiglio::}
+{130}{}{::sbadiglia::}
 {131}{}{::pffffft::}
-{132}{}{Non ho niente da dire ad un signor nessuno!}
+{132}{}{Non ho niente da dire a nessuno!}
 {133}{}{Ho bisogno di schiacciare un pisolino.}
 {134}{}{Ho freddo e ho dei lupi che mi inseguono.}
-{135}{}{I cani continuano a scondinzolare per ORE dopo che sono morti!}
+{135}{}{I cani continuano a scodinzolare per ORE dopo che sono morti!}

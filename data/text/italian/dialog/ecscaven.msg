@@ -6,4 +6,4 @@
 {105}{}{La pagherai per questo.}
 {106}{}{Alla prossima.}
 {107}{}{Meglio darsela a gambe!}
-{108}{}{Sei riuscito a tenerti la tua roba... per questa volta.}
+{108}{}{Ti tieni la tua roba... per questa volta.}

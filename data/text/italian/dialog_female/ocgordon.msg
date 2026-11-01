@@ -6,7 +6,7 @@
 {105}{}{Me fa domande?}
 {106}{}{Uh... no ricorda. Ciao.}
 {107}{}{E' un piacere conoscerti, Gordon. Io sono}
-{108}{}{E questo tu lo chiami un santuario? A chiunque sia dedicato sono sicuro che quella persona si stara' rivoltando nella tomba!}
+{108}{}{E questo tu lo chiami un santuario? A chiunque sia dedicato, di sicuro si stara' rivoltando nella tomba!}
 {109}{}{Beh, scusa se ti ho disturbato. Devo andare.}
 {110}{}{Si'. Un santuario e' un luogo di culto, solitamente dedicato ad un dio, a un santo, o ad un altro ente supremo.}
 {111}{}{Ah. Ok. Me fa domande?}
@@ -29,7 +29,7 @@
 {128}{}{Che buffonata! Un santuario dedicato ad una persona di cui nemmeno ricordate il nome!}
 {129}{}{Capisco. Beh, ho delle altre domande da farti.}
 {130}{}{Davvero encomiabile, Gordon. Posso farti qualche altra domanda?}
-{131}{}{Ho vissuto tutta la mia vita all'interno di questo vault. Sono stato Custode del Santuario per molti di questi anni.}
+{131}{}{Ho vissuto tutta la mia vita all'interno di questo Vault. Sono stato Custode del Santuario per molti di questi anni.}
 {132}{}{Tu qui prima di D'claw?}
 {133}{}{Ah. Serve sapere altro.}
 {134}{}{Deve andare ora.}
@@ -37,7 +37,7 @@
 {136}{}{E' davvero un sacco di tempo. Puoi rispondere a qualche altra domanda?}
 {137}{}{La vita e' tua e puoi sprecarla come preferisci, amico.}
 {138}{}{Quindi ti trovavi qui quando i Deathclaw hanno occupato questo posto?}
-{139}{}{No, amico mio, non c'ero. Alcuni mesi fa sono partito per andare a visitare la statua dell'Abitante del Vault eretta nella piazza centrale di NCR (la capitale della New California Republic, a est di qui). Quando tornai al vault, trovai i Deathclaw che si erano gia' stabiliti qui. Inutile dire che rimasi sconvolto. Tuttavia, sono convinto che non siano loro i responsabili di quello che e' successo ai miei compagni. Se, per caso, tu desiderassi avere altre informazioni a riguardo, puoi rivolgerti a Goris, in biblioteca.}
+{139}{}{No, amica mia, non c'ero. Alcuni mesi fa sono partito per andare a visitare la statua dell'Abitante del Vault eretta nella piazza centrale di NCR (la capitale della Repubblica della Nuova California, a est di qui). Quando tornai al Vault, trovai i Deathclaw che si erano gia' stabiliti qui. Inutile dire che rimasi sconvolto. Tuttavia, sono convinto che non siano loro i responsabili di quello che e' successo ai miei compagni. Se, per caso, tu desiderassi avere altre informazioni a riguardo, puoi rivolgerti a Goris, in biblioteca.}
 {140}{}{Okay, grazie.}
 {141}{}{Okay, ciao.}
 {142}{}{Me ne ricordero'.}
@@ -56,8 +56,8 @@
 {155}{}{O sei molto devoto o sei molto stupido. Io dico che sei stupido!}
 {156}{}{La tua devozione e' ammirevole.}
 {157}{}{Sei un individuo insolente e offensivo. Forse, se una delle guardie fosse presente qui con noi, terresti a freno la lingua.}
-{158}{}{Prima ti avevo avvertito che non avrei tollerato oltre le tue offese. E' chiaro che hai scelto di ignorare l'avvertimento. (Gordon si sporge verso la porta) Guardie! Al Santuario, per cortesia!}
-{159}{}{Quindi hai deciso di continuare a fare lo stupido... (Gordon fa un cenno alla guardia Deathclaw) Guardia, per cortesia, porta fuori la spazzatura.}
+{158}{}{Prima ti avevo avvertito che non avrei tollerato oltre le tue offese. E' chiaro che hai scelto di ignorare l'avvertimento. (Gordon guarda verso la porta) Guardie! Al Santuario, per cortesia!}
+{159}{}{Quindi hai deciso di continuare a comportarti da idiota... (Gordon fa un cenno alla guardia Deathclaw) Guardia, per cortesia, porta fuori la spazzatura.}
 {160}{}{Fa' pure venire il tuo gorilla! Posso spaccare il culo ad entrambi in un batter d'occhio.}
 {161}{}{Scusami, terro' a freno la lingua.}
 {162}{}{Ti prego di accettare le mie scuse, Gordon. Perdona la mia maleducazione.}
@@ -67,10 +67,10 @@
 {166}{}{Guardie! Al Santuario!}
 {167}{}{}
 {168}{}{}
-{169}{}{E cosi', sei tornato. Beh, gia' una volta ti ho fatto allontanare e posso farti allontanare di nuovo. Guardie! Al Santuario! La spazzatura e' tornata!}
+{169}{}{E cosi', sei tornata. Beh, gia' una volta ti ho fatto allontanare e posso farti allontanare di nuovo. Guardie! Al Santuario! La spazzatura e' tornata!}
 {170}{}{}
 {171}{}{}
-{172}{}{Bentornato. Cosa posso fare per te?}
+{172}{}{Rieccoti. Cosa posso fare per te?}
 {173}{}{Fa domanda?}
 {174}{}{Me stato gia' qui? Scusa. Deve andare.}
 {175}{}{Volevo parlare ancora con te.}

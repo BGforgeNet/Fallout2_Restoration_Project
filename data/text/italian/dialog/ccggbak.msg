@@ -1,7 +1,7 @@
 {100}{}{Vedi una guardia.}
 {101}{}{Vedi una guardia che indossa una Power-Armor.}
 {102}{}{Vedi una persona che indossa una Power-Armor dall'aspetto insolito. Sul petto c'e' uno stemma che non ti e' familiare.}
-{103}{}{Vattene.}
+{103}{}{Circolare.}
 {104}{}{Sono in servizio. Non ho tempo per parlare.}
 {105}{}{Continua dritto. Il cancello e' da quella parte.}
 {106}{}{Faresti meglio ad andare ad indossare l'uniforme.}

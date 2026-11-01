@@ -40,11 +40,11 @@
 {261}{}{Incontri un viandante.}
 {300}{}{Incontri dei sopravvissuti dell'esercito del Master.}
 {301}{}{Incontri dei razziatori.}
-{302}{}{Incontri dei ranger NCR che combattono contro un manipolo di sopravvissuti dell'esercito del Master.}
-{303}{}{Incontri dei ranger NCR che combattono contro alcuni razziatori.}
+{302}{}{Incontri dei Ranger della Nuova California che combattono contro un manipolo di sopravvissuti dell'esercito del Master.}
+{303}{}{Incontri dei Ranger della Nuova California che combattono contro alcuni razziatori.}
 {304}{}{Incontri dei contadini che si difendono da dei sopravvissuti dell'esercito del Master.}
 {305}{}{Incontri dei contadini che si difendono da alcuni razziatori.}
-{306}{}{Incontri dei ranger NCR.}
+{306}{}{Incontri dei Ranger della Nuova California.}
 {307}{}{Incontri dei contadini.}
 {350}{}{Incontri una carovana di schiavisti.}
 {351}{}{Incontri dei rapinatori e dei ladri.}
@@ -54,7 +54,7 @@
 {355}{}{Incontri una carovana che combatte contro alcuni ladri.}
 {356}{}{Incontri una carovana che combatte contro alcuni rapinatori.}
 {357}{}{Incontri una carovana circondata da alcuni ladri.}
-{358}{}{Incontri una carovana di schiavi che combatte contro una carovana.}
+{358}{}{Incontri una carovana di schiavisti che combatte contro un'altra carovana.}
 {359}{}{Incontri dei rapinatori che combattono contro alcuni ladri.}
 {360}{}{Incontri una carovana.}
 {361}{}{Incontri una carovana.}
@@ -63,7 +63,7 @@
 {402}{}{Incontri dei ladri e dei rapinatori.}
 {403}{}{Incontri dei gecki dorati e dei radscorpioni.}
 {404}{}{Incontri dei gecki dorati.}
-{405}{}{Incontri dei ratti-talpa e dei ratti porco.}
+{405}{}{Incontri dei ratti-talpa e dei ratti-porco.}
 {406}{}{Incontri dei radscorpioni.}
 {407}{}{Incontri delle piante sporigene.}
 {408}{}{Incontri dei ladri che combattono contro alcuni rapinatori.}
@@ -80,7 +80,7 @@
 {455}{}{Incontri dei radscorpioni che combattono contro dei ladri.}
 {456}{}{Incontri una carovana che si difende da dei rapinatori.}
 {457}{}{Incontri una carovana che si difende da dei ladri.}
-{458}{}{Incontri alcuni rapinatori che stanno potando delle piante sporigene.}
+{458}{}{Incontri alcuni rapinatori che stanno estirpando delle piante sporigene.}
 {459}{}{Incontri una carovana.}
 {500}{}{Incontri dei rapinatori e dei cani selvatici.}
 {501}{}{Incontri dei ladri e dei cani selvatici.}
@@ -107,21 +107,21 @@
 {559}{}{Incontri dei contrabbandieri.}
 {560}{}{Incontri dei trapper.}
 {561}{}{Incontri dei cercatori.}
-{600}{}{Incontri alcuni deathclaw.}
+{600}{}{Incontri alcuni Deathclaw.}
 {601}{}{Incontri alcuni gecki di fuoco.}
-{602}{}{Incontri una carovana che fugge dai deathclaw.}
-{603}{}{Incontri una carovana che combatte contro alcuni deathclaw.}
+{602}{}{Incontri una carovana che fugge dai Deathclaw.}
+{603}{}{Incontri una carovana che combatte contro alcuni Deathclaw.}
 {604}{}{Incontri una carovana che combatte contro alcuni gecki di fuoco.}
 {605}{}{Incontri una carovana che combatte contro alcuni gecki di fuoco.}
 {606}{}{Incontri una carovana.}
 {607}{}{Incontri una carovana.}
 {608}{}{Incontri una carovana.}
 {609}{}{Incontri una carovana.}
-{650}{}{Incontri degli alieni e alcuni deathclaw.}
+{650}{}{Incontri degli alieni e alcuni Deathclaw.}
 {651}{}{Incontri dei centauri e dei fluttuanti.}
 {652}{}{Incontri alcuni gecki di fuoco.}
 {653}{}{Incontri degli alieni.}
-{654}{}{Incontri alcuni deathclaw.}
+{654}{}{Incontri alcuni Deathclaw.}
 {655}{}{Incontri alcuni gecki di fuoco.}
 {656}{}{Incontri degli alieni.}
 {657}{}{Incontri dei centauri.}
@@ -129,13 +129,13 @@
 {700}{}{Incontri qualche Yakuza.}
 {701}{}{Incontri una banda.}
 {702}{}{Incontri alcuni lupi.}
-{703}{}{Incontri alcuni delinquenti che combattono contro alcuni Yakuza.}
-{704}{}{Incontri alcuni delinquenti che combattono contro una banda.}
-{705}{}{Incontri alcuni delinquenti.}
+{703}{}{Incontri alcuni mafiosi che combattono contro alcuni Yakuza.}
+{704}{}{Incontri alcuni mafiosi che combattono contro una banda.}
+{705}{}{Incontri alcuni mafiosi.}
 {706}{}{Incontri un viandante.}
 {750}{}{Incontri una carovana che si difende da alcuni sopravvissuti dell'esercito del Master.}
-{751}{}{Incontri una carovana che combatte contro un manipolo sopravvissuti dell'esercito del Master.}
-{752}{}{Incontri una carovana che combatte contro alcuni deathclaw.}
+{751}{}{Incontri una carovana che combatte contro un manipolo di sopravvissuti dell'esercito del Master.}
+{752}{}{Incontri una carovana che combatte contro alcuni Deathclaw.}
 {753}{}{Incontri una carovana.}
 {754}{}{Incontri una carovana.}
 {755}{}{Incontri una carovana.}

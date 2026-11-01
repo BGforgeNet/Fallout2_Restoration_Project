@@ -5,14 +5,14 @@
 {104}{}{Perdindirindina, sei proprio uno stupido.}
 {105}{}{Tu e Torr potreste giocarvela alla pari.}
 {106}{}{Va' via, sei un tipo un po' strano.}
-{107}{}{Acc, un altro selvaggio picchiatello.}
-{108}{}{(Ti squadra dall’alto in basso, valutandoti) Be’, be’, cosa abbiamo qui? Sembra proprio che tu non ne sappia molto della nobile arte, eh?}
+{107}{}{Acc, un altro tribale picchiatello.}
+{108}{}{(Ti squadra dall'alto in basso, valutandoti) Be', be', cosa abbiamo qui? Sembra proprio che tu non ne sappia molto della nobile arte, eh?}
 {109}{}{Se abbassi la cresta, potrei anche decidere di aiutarti un po'.}
 {110}{}{Di cosa stai parlando?}
 {111}{}{Er, certo, e' come dice lei, signore. Ci vediamo. Forse.}
-{112}{}{Beh, e' solo una mia dotta opinione, ma dal modo in cui ti muovi credo che ti dovrebbero bastare un paio di dritte.}
+{112}{}{Beh, e' solo una mia dotta opinione, ma dal modo in cui ti muovi ti servirebbe qualche dritta.}
 {113}{}{Dritte? A proposito di cosa?}
-{114}{}{Non credo, vecchio. Dubito che *tu* potresti insegnarmi qualcosa. Addio.}
+{114}{}{Non credo, vecchio. Dubito che *tu* potresti insegnarmi qualcosa. Arrivederci.}
 {115}{}{A proposito della dolce scienza, naturalmente. L'arte sportiva.}
 {116}{}{Uhm... l'arte? Stai parlando della magia!?! Puoi insegnarmi a fare degli incantesimi?}
 {117}{}{Di cosa stai parlando?}
@@ -35,31 +35,31 @@
 {134}{}{Erin? Irlanda? Boh? Vabbe', grazie per la dritta. Ehi, lascia che ti chieda qualcos'altro.}
 {135}{}{Non so perche', ma credo che tu mi abbia preso per i fondelli fin dall'inizio.}
 {136}{}{Uhm, beh, uhm, immagino che tu sia un uomo molto occupato. Ci vediamo dopo.}
-{137}{}{(Ti guarda.) Forse si'. Forse no. Beh, decidi tu.}
+{137}{}{(Ti guarda.) Puo' darsi. Puo' darsi. Beh, decidi tu.}
 {138}{}{Lo faro'. Arrivederci.}
 {139}{}{Beh, forse l'ho fatto. Ad ogni modo, l'hai presa davvero bene. Ecco una birra, offro io.}
 {140}{}{Grazie. Ora, cosa stavi dicendo a proposito della dolce scienza?}
-{141}{}{Non accetto nessuna birra offerta da te. So molte piu' cose di quante tu possa insegnarmi, vecchio ubriacone. Addio.}
+{141}{}{Non accetto nessuna birra offerta da te. So molte piu' cose di quante tu possa insegnarmi, vecchio ubriacone. Arrivederci.}
 {142}{}{Bene, andiamo fuori e vediamo un po' quello che posso insegnarti. Vedi, il segreto sta nel far schioccare il corpo intero come una frusta...}
 {143}{}{Ah, a-ha.}
 {144}{}{Adesso non ho tempo per queste cose. Arrivederci.}
 {145}{}{(Diverse, sudatissime, ore dopo) Allora, hai capito dove sbagliavi?}
-{146}{}{Si'. Grazie per aver passato un po' di tempo ad aiutarmi, Mr. Sullivan.}
-{147}{}{E' stata una cosa grandiosa. Lascia che ti offra 10$ dollari di birra. E' il minimo che possa fare.}
-{148}{}{Si', credo... Grazie. Addio.}
+{146}{}{Si'. Grazie per aver passato un po' di tempo ad aiutarmi, signor Sullivan.}
+{147}{}{E' stata una cosa grandiosa. Lascia che ti offra 10$ di birra. E' il minimo che possa fare.}
+{148}{}{Si', credo... Grazie. Arrivederci.}
 {149}{}{Il piacere e' stato tutto mio. Adesso in gamba, mi raccomando. E se qualcuno te lo chiede... di' semplicemente che e' stato John Sullivan ad insegnarti a combattere a quel modo.}
-{150}{}{Lo faro', John. Grazie. Addio.}
-{151}{}{No, no, no. Non potrei mai accettare del danaro da te. E' stato un vero piacere per me insegnarti quel che so. Adesso in gamba, mi raccomando. Hai del dannato talento.}
+{150}{}{Lo faro', John. Grazie. Arrivederci.}
+{151}{}{No, no, no. Non potrei mai accettare del denaro da te. E' stato un vero piacere per me insegnarti quel che so. Adesso in gamba, mi raccomando. Hai davvero del talento.}
 {152}{}{E' stato grandioso, ma adesso lascia che ti chieda una cosa. Dove hai imparato a combattere cosi'?}
-{153}{}{Grazie, John. Addio.}
-{154}{}{E' stato tanti anni fa. Quando ero un giovane ragazzino e non avevo un grammo di sale in zucca. Un posto chiamato Reno. Lascialo perdere e sta' lontano dai tipi che ci bazzicano.}
+{153}{}{Grazie, John. Arrivederci.}
+{154}{}{E' stato tanti anni fa. Quando ero un giovane ragazzino e non avevo un grammo di sale in zucca. Un posto chiamato Reno. Riga dritto e sta' alla larga da posti come quello.}
 {155}{}{Dov'e' Reno?}
-{156}{}{Oh, okay. Grazie, John. Addio.}
-{157}{}{Non voglio dirtelo. Adesso vattene. Sta' lontano dai pericoli. Addio.}
-{158}{}{OK, grazie ancora. Addio, John.}
+{156}{}{Oh, okay. Grazie, John. Arrivederci.}
+{157}{}{Non voglio dirtelo. Adesso vattene. Sta' lontano dai pericoli. Arrivederci.}
+{158}{}{OK, grazie ancora. Arrivederci, John.}
 {159}{}{Sta' fuori dai guai. Ti ho insegnato tutto quel che so.}
 {160}{}{Grazie. Cosa dicevi prima a proposito dell'arte?}
-{161}{}{Grazie, John. L'ho apprezzato molto. Addio.}
+{161}{}{Grazie, John. L'ho apprezzato molto. Arrivederci.}
 {162}{}{Parlavo dell'arte del pugilato. Prima ti stavo solo prendendo un po' in giro. Sara' meglio che io torni al mio boccale, adesso. Buona fortuna.}
-{163}{}{Oh, okay. Grazie, John. Addio.}
-{164}{}{John Sullivan ti ha aiutato a migliorare le tua abilita' di Combattimento in Mischia e Disarmato.}
+{163}{}{Oh, okay. Grazie, John. Arrivederci.}
+{164}{}{John Sullivan ti ha aiutato a migliorare le tue abilita' di Combattimento in Mischia e Disarmato.}

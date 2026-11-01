@@ -3,7 +3,7 @@
 {200}{}{[Sali sull'aeromobile e accedi al terminale del pilota.] Benvenuti in PoseidoNet. Questo terminale e' limitato alle trasmissioni tra lo squadrone di Vertibird dell'Enclave e la piattaforma d'attracco. Comando?}
 {201}{}{Stato.}
 {202}{}{Esci.}
-{203}{}{Questo velivolo ha carburante sufficiente solo per un viaggio completo dal avamposto di Navarro alla piattaforma di attracco e ritorno. 
+{203}{}{Questo velivolo ha carburante sufficiente solo per un viaggio completo dall'avamposto di Navarro alla piattaforma di attracco e ritorno. 
 Tutte le procedure sono completamente automatizzate e non e' richiesto intervento dell'equipaggio. Stato carburante attuale: Pieno.}
 {204}{}{Vola verso la Piattaforma Petrolifera.}
 {205}{}{Esci.}
@@ -27,10 +27,10 @@ Il volo automatico non puo' avvenire senza la presenza di questa scheda.}
 {232}{}{Esci.}
 {240}{}{Il velivolo e' agganciato al bersaglio. Tempo di volo stimato: circa 6 ore. Buon viaggio.}
 {241}{}{Eccoci -- il momento della verita'. La tribu' e' nei guai e dipende tutto da me. I piedi mi fanno male, tutto il corpo duole, e non ricordo l'ultima volta che ho mangiato un pasto decente.
-Sono questi i momenti per cui viviamo. Non si torna indietro. E' il momento di mostrare al mondo di cosa }
-{242}{}{ siamo fatti. Avanti, Enclave!}
+Sono questi i momenti per cui viviamo. Non si torna indietro. E' il momento di mostrare al mondo chi e' }
+{242}{}{. Avanti, Enclave!}
 {243}{}{Hehe... Vola uccellino, vola! }
-{244}{}{ me lasciare te, ora.}
+{244}{}{ salvare giornata, ora.}
 {300}{}{[Sali sull'aeromobile e accedi al terminale del pilota.] Benvenuti in PoseidoNet. Questo terminale e' limitato alle trasmissioni tra lo squadrone di Vertibird dell'Enclave e la piattaforma d'attracco. Comando?}
 {301}{}{Stato.}
 {302}{}{Esci.}

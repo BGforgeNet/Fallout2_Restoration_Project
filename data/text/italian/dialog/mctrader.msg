@@ -1,9 +1,9 @@
 {100}{}{Rose prepara le omelette migliori del mondo.}
-{101}{}{Psst… Sta' alla larga dalle frittelle di brahmin.}
+{101}{}{Psst... Sta' alla larga dalle frittelle di brahmin.}
 {102}{}{Faccio un salto da Rose ogni volta che posso.}
 {103}{}{Hai assaggiato le omelette di Rose?}
 {110}{}{Non senti anche tu una strana puzza?}
-{111}{}{Buon dio! In cosa diavolo ti sei rotolato!}
+{111}{}{Buon dio! Ma che schifo hai addosso?!}
 {112}{}{Potresti per cortesia metterti sottovento? Sto cercando di mangiare.}
 {120}{}{Ti dispiace? Starei cercando di dormire un po'.}
 {121}{}{Ehi, cosa ci fai nella mia stanza?!}

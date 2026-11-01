@@ -1,10 +1,10 @@
 {100}{}{Vedi...Set.}
-{101}{}{Vedi un ghoul marcescente con dei pezzi di macchinari impiantati nella testa. E' difficile stabilire se sia vecchio o meno.}
+{101}{}{Vedi un ghoul marcescente con dei pezzi di macchinari impiantati nella testa. E' difficile stabilire se sia rimbambito o no.}
 {102}{}{Vedi Set. Sta parlando da solo.}
 {103}{}{Vedi Set. Sta parlando da solo.}
 {104}{}{"Sotto terra!"}
 {105}{}{"Sotto terra!"}
-{106}{}{"Dirtnap... Fa ruggire la mia ombra."}
+{106}{}{"Sotto terra... Fa CRESCERE la mia ombra."}
 {107}{}{Heh-heh.}
 {108}{}{Sotto.}
 {109}{}{Terra.}

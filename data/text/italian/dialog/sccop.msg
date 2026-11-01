@@ -7,10 +7,10 @@
 {106}{}{E' scattato il coprifuoco, straniero. Perche' non te ne torni a casa?}
 {107}{}{Circolare. Non c'e' niente da vedere.}
 {108}{}{La notte non e' il momento migliore per camminare per le strade.}
-{109}{}{Buongiorno, straniero. Siete nuovo in citta'?}
+{109}{}{Buongiorno, straniero. Sei nuovo in citta'?}
 {110}{}{Circolare. Non c'e' niente da vedere.}
-{111}{}{Sono impegnato. Se c'e' qualche problema fareste bene a parlarne con lo sceriffo.}
+{111}{}{Sono in servizio. Se c'e' qualche problema faresti bene a parlarne con lo sceriffo.}
 {112}{}{Ehi, smettila di toccarlo.}
 {113}{}{Sta' lontano da li'.}
 {114}{}{Non si puo' toccare.}
-{115}{}{Se non la smetti di trafficare con quella cosa, sono autorizzato a spararti.}
+{115}{}{Se non la smetti di trafficare con quella cosa, ho l'autorizzazione a spararti.}

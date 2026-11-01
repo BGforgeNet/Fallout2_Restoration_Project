@@ -10,8 +10,8 @@
 {121}{}{Ho cosi' tanto da fare, qui. Avrei proprio bisogno di una pausa. Ma, vedi, nessun altro e' in grado di far funzionare la centrale nucleare. Io domino il potere dell'atomo, sai com'e'... E' una cosa davvero sfiancante.}
 {122}{}{Di che cosa ti occupi?}
 {123}{}{Mi hanno detto che il reattore non funziona molto bene. E' la verita'?}
-{124}{}{Perche' hai l'aspetto -- e l'odore -- di un qualcosa che sta per andare a male?}
-{125}{}{Beh, non vorrei mai privarti del tuo tempo prezioso. Credo che ti lascero' solo. Addio.}
+{124}{}{Perche' hai l'aspetto -- e l'odore -- di uno che sta cadendo a pezzi?}
+{125}{}{Beh, non vorrei mai privarti del tuo tempo prezioso. Tolgo il disturbo. Arrivederci.}
 {130}{}{Adesso il reattore funziona davvero bene. Sono proprio un genio.}
 {131}{}{Il reattore funziona piuttosto bene, adesso. Potrei forse farci ancora qualche regolazione, ma si puo' dire che sia lo stesso un buon lavoro.}
 {132}{}{Altre regolazioni? Che cosa vuoi dire?}
@@ -24,7 +24,7 @@
 {150}{}{Degli incapaci. Ecco cosa sono. Non riescono proprio a capire cosa bisogna fare. Se ne stanno li' a scaldare le sedie. Mi da' fastidio che pensino di sapere qualcosa sulle centrali nucleari. Beh, se non fosse per me...}
 {151}{}{Hmm. Di cosa hai detto che ti occupi?}
 {152}{}{Ah, si'... Adesso sara' meglio che io vada. Ci vediamo.}
-{160}{}{Se so qualcosa riguardo all'energia atomica? Beh, l'ho praticamente inventata io. So piu' cose io sull'energia atomica di chiunque altro. Se si parla di energia atomica - io sono il tuo uomo.}
+{160}{}{Se so qualcosa riguardo all'energia atomica? Beh, l'ho praticamente inventata io. So piu' cose io sull'energia atomica di chiunque altro. Se si parla di energia atomica - sono io quello che fa per te.}
 {161}{}{Hmm. Di cosa hai detto che ti occupi?}
 {162}{}{Ah, si'... Adesso sara' meglio che io vada. Ci vediamo.}
 {170}{}{Vedi, sono solo io quello che fa funzionare la centrale. E' un lavoro piuttosto duro. Ma ho molti anni di esperienza alle spalle. Io sono un vero esperto, quando si tratta di far funzionare centrali nucleari.}
@@ -38,14 +38,14 @@
 {192}{}{Sei davvero un tipo speciale, non ci sono dubbi. Ci vediamo.}
 {200}{}{E' proprio cosi'. Mi fa piacere che tu capisca al volo certe cose. Se io non fossi cosi' occupato con la centrale, governerei Gecko. E lascia che te lo dica, la governerei bene.}
 {201}{}{Vorresti governare anche la citta'?}
-{202}{}{Arrrrrgh! Adesso me ne vado. Davvero. Non cercare di fermarmi. Addio!}
+{202}{}{Arrrrrgh! Adesso me ne vado. Davvero. Non cercare di fermarmi. Arrivederci!}
 {210}{}{Beh, tanto per cominciare metterei fine agli scambi commerciali che intratteniamo con Broken Hills per ottenere l'uranio. La mia idea sarebbe quella di offrire loro solamente l'energia elettrica. Cosi' potrebbero far funzionare la loro citta' usando il potere dell'atomo.}
-{211}{}{Ma per fare una cosa del genere dovreste costruire un elettrodotto attraverso miglia e miglia di pericoloso deserto!}
+{211}{}{Ma per farlo non dovreste costruire un elettrodotto attraverso miglia e miglia di pericoloso deserto?}
 {212}{}{Non senti una strana puzza? Una puzza di marcio? Sara' meglio che vada. Ci vediamo.}
 {220}{}{Beh, credo di si'. Poi li convinceremmo a comprare delle batterie giganti da noi. Si', e' questo il bello: poi sarebbero costretti a comprare anche le batterie, da noi. E questo e' solo l'inizio; ho altri grandiosi progetti in mente, tipo...}
 {221}{}{Ma sei anche un politico? E' incredibile che tu riesca a primeggiare in campi cosi' diversi tra loro.}
 {222}{}{Sbaglio o qui dentro c'e' qualcosa che sta andando a male? Credo d'aver bisogno di un po' d'aria fresca. Ci vediamo.}
-{230}{}{E' che sono una persona poliedrica. Davvero, sono bravissimo in qualsiasi cosa io provi a fare. E' solo che preferisco dirigere la centrale nucelare. Ma, se lo volessi, potrei fare qualsiasi altra cosa.}
+{230}{}{E' che sono una persona poliedrica. Davvero, sono bravissimo in qualsiasi cosa io provi a fare. Raramente c'e' qualcuno piu' bravo di me. Ovviamente, preferisco dirigere la centrale nucleare. Ma, se lo volessi, potrei fare qualsiasi altra cosa.}
 {231}{}{Non riesco a credere che nessuno a Gecko riconosca il tuo vero valore. Vado subito a dirlo a tutti. Ci vediamo.}
 {232}{}{Devo liberarmi dalla morsa... Le forze mi abbandonano... Devo scappare.}
 {240}{}{Cosa ti porta qui, in questo settore del mio reattore atomico?}
@@ -57,33 +57,33 @@
 {260}{}{Non credo che quelli che vivono a Vault City ci vogliano tutto questo bene. Dubito che si farebbero troppi scrupoli a sabotare un pezzo di ricambio. Magari questo sembra proprio essere il pezzo giusto e invece si tratta di una bomba! Non puoi ingannarmi cosi' facilmente. Io quel coso non lo installo.}
 {261}{}{Ma con la tua perizia tecnica te ne saresti gia' accorto, se si trattasse di una bomba. Per favore, installa il pezzo.}
 {262}{}{Credo tu abbia ragione. Sara' meglio trovare un altro modo per installare il pezzo.}
-{270}{}{Okay, d'accordo. Ma non sono ancora convinto se questo sia il pezzo giusto o se invece si tratti di una qualche trappola. Sai, sono troppo prezioso per correre certi rischi. Potrei farlo fare a qualcun altro... piu' tardi... molto piu' tardi.}
+{270}{}{Okay, d'accordo. Ma non sono ancora sicuro che questo sia il pezzo giusto, o che non si tratti di una qualche trappola. Sai, sono troppo prezioso per correre certi rischi. Potrei farlo fare a qualcun altro... piu' tardi... molto piu' tardi.}
 {271}{}{Dev'essere fatto subito. E tu sei l'unica persona che puo' farlo nel modo corretto. Forza, la salvezza di Gecko dipende da te!}
 {272}{}{Credo tu abbia ragione. Sara' meglio trovare un altro modo per installare il pezzo.}
-{300}{}{Beh, consuma davvero un sacco di uranio. Ed ha pure qualche perdita. Vedi, io l'avrei anche chiesto a qualcuno di andare a ripararla, ma nessuno mi da' retta.}
+{300}{}{Beh, consuma davvero un sacco di uranio. Ed ha pure qualche perdita. Sai, ho chiesto a qualcuno di ripararlo, ma nessuno mi da' retta.}
 {301}{}{Ho sentito dire che c'e' una perdita di radiazioni che contamina la falda acquifera. E' vero?}
-{302}{}{Pensavo che l'esperto fossi tu. Perche' non la ripari? Che cosa ci staresti a fare qui, altrimenti?}
+{302}{}{Pensavo che l'esperto fossi tu. Perche' non lo ripari? Che cosa ci stai a fare qui, allora?}
 {310}{}{Beh, e' possibile, ma non credo che una cosa del genere faccia del male a qualcuno. Si trova nel sottosuolo, dopotutto.}
 {311}{}{Forse ti sbagli. Vault City si lamenta che le radiazioni del vostro reattore nucleare stanno contaminando la loro riserva idrica.}
 {312}{}{Beh, se lo dici tu... ci vediamo.}
 {320}{}{Impossibile. Nessuno puo' saperne piu' di me, sull'argomento. Stanno solo cercando qualcuno sul quale far ricadere la responsabilita' del loro problema. L'acqua che estraiamo noi non proviene dalla loro falda.}
-{321}{}{Sembri sicuro di quel che dici. Ma anche loro lo sembrano.}
+{321}{}{Sembri sicuro di quel che dici. Ma anche loro sembravano esserlo.}
 {330}{}{Beh, non sono altro che un branco di dilettanti, quando si tratta di energia atomica. Io sono l'unico vero esperto. Potresti persino depositare le mie parole in banca. Se le banche esistessero ancora, naturalmente.}
-{331}{}{Beh, immagino che tu sia convinto delle cose che dici. Ci vediamo.}
+{331}{}{Beh, immagino che tu sappia di cosa parli. Ci vediamo.}
 {332}{}{Non ho la tua stessa sicurezza. Ci vediamo.}
 {340}{}{Hai per caso un Regolatore Idroelettrico di Magnetosfera che ti avanza?}
 {341}{}{Quindi tu sai di cosa si tratta?}
 {342}{}{Certo. Sei pronto ad installarlo?}
-{350}{}{Sei sorpreso? Ti ho ben detto che so tutto riguardo alle centrali nucleari. Avresti dovuto ascoltarmi.}
+{350}{}{Sei sorpresa? Ti ho ben detto che so tutto riguardo alle centrali nucleari. Avresti dovuto ascoltarmi.}
 {351}{}{Beh, dal momento che sai cos'e', saprai anche come si installa.}
-{352}{}{Credo di averti ascoltato anche troppo. Addio.}
+{352}{}{Credo di averti ascoltato anche troppo. Arrivederci.}
 {360}{}{Certo che lo so. Beh, e' una vera sciocchezza per una persona con la mia esperienza e il mio talento. Quand'ero ancora un bambino ci sono stato svezzato, sui Regolatori di Magnetosfera.}
 {361}{}{Magnifico. Potresti installarlo per me?}
 {370}{}{Beh, credo proprio di poterlo installare. Di sicuro sono l'unica persona in grado di installarlo correttamente. Installare un Regolatore Idroelettrico di Magnetosfera e' un lavoro piuttosto complesso.}
 {371}{}{Ecco il Regolatore. Sapevo di poter contare su di te.}
 {372}{}{Ripensandoci, credo sia meglio che io trovi un altro modo. Ci vediamo.}
 {380}{}{Credo di poterlo installare. Ma, sai, installare un Regolatore Idroelettrico di Magnetosfera e' un lavoro piuttosto complesso. E pericoloso. Non che io sia preoccupato per me. Ma chi dirigerebbe la centrale nucleare se mi dovesse succedere qualcosa? Mi spiace, non posso aiutarti.}
-{381}{}{Me lo sarei dovuto immaginare che te la saresti fatta sotto. Addio.}
+{381}{}{Avrei dovuto immaginare che te la saresti fatta sotto. Arrivederci.}
 {390}{}{Adesso non ti posso aiutare. Sono troppo impegnato.}
 {391}{}{Torna la settimana prossima. Forse per allora avro' un po' di tempo libero.}
 {392}{}{Uh, hai il pezzo sbagliato, eh... Si', proprio cosi'...}
@@ -92,7 +92,7 @@
 {400}{}{Oh, certo. Eh, eh. Ok, il pezzo e' giusto. E' solo un, uh, modello piu' vecchio rispetto a quelli ai quali sono abituato. Ecco tutto.}
 {401}{}{Ottimo. Allora vedi di andare ad installarlo.}
 {410}{}{Credo che ci penserebbero due volte prima di cercare di ingannarmi con una bomba. Sono sicuro che sanno con chi hanno a che fare, qui.}
-{411}{}{A Vault City parlano spesso di te. Di solito lo fanno con rispettosi silenzi. Adesso installa quel dannato pezzo.}
+{411}{}{A Vault City parlano spesso di te. Di solito sottovoce, con reverenza. Adesso installa quel dannato pezzo.}
 {420}{}{Okay, e' fatta. Ehi! Ce l'ho fatta. Sono davvero un genio.}
 {421}{}{Cavoli, sono un genio.}
 {422}{}{E' stato difficile, ma ce l'ho fatta. Sono un eroe.}
@@ -112,11 +112,11 @@
 {452}{}{Grazie. Arrivederci.}
 {453}{}{Oh, vabbe'. Magari ripasso piu' tardi, allora. Ci vediamo.}
 {460}{}{Non mi interessa quello che vuoi. Questi Moduli di Richiesta Componenti vanno usati solo per le questioni ufficiali. Sono affidati solamente al personale chiave. E' per questo che li ho io. Hai capito? Personale chiave... e basta. }
-{461}{}{Si', ho capito. Addio.}
-{462}{}{Beh, qualcosa lo capirai anche tu. Forse non oggi, ma non tra molto tempo. Ci vediamo.}
-{470}{}{Uh, beh, e' normale che faccia cosi'. Ho un sacco di lavoro importante da fare. Se sei venuto qui solo per questo...}
+{461}{}{Si', ho capito. Arrivederci.}
+{462}{}{Beh, avrai quel che ti meriti. Forse non oggi, ma presto. Ci vediamo.}
+{470}{}{Uh, beh, e' normale che faccia cosi'. Ho un sacco di lavoro importante da fare. Se sei venuta qui solo per questo...}
 {471}{}{Beh, veramente mi servirebbe un Modulo di Richiesta Componenti.}
-{472}{}{Sapete... non credo di aver davvero bisogno di farvi delle domande. Arrivederci.}
+{472}{}{Pensandoci bene, non mi serve niente. Arrivederci.}
 {480}{}{Che cosa vuoi dire? Oh, beh, credo di aver lavorato davvero molto, ultimamente. Non ho avuto tempo di badare alla cura della mia persona come avrei dovuto. Forse le radiazioni hanno un effetto un po' diverso, su di me.}
 {481}{}{Uh, beh... forse dovresti prendere in considerazione l'idea di farti un bagno o qualcosa di simile, giusto per risolvere il problema della puzza...}
 {490}{}{Beh, immagino che potrei anche farlo. Ma ogni volta che mi faccio un bagno mi si stacca un sacco di pelle e tutte le croste si spaccano. E, un'altra cosa, le mie unghie continuano a rompersi...}
@@ -132,34 +132,34 @@
 {640}{}{Okay. Mi pare ottimo. Grazie dell'aiuto.}
 {650}{}{Certo. Nessun problema.}
 {700}{}{Hai convinto Festus ad aiutarti con la centrale.}
-{800}{}{Voglio dire che il reattore adesso funziona, ma potrebbe funzionare meglio. E meglio di un miglio abbondante, direi; se solo avessi ulteriori dati... Ora, se tu riuscissi ad ottenere le informazioni necessarie per l'ottimizzazione, saremmo a cavallo... uh, beh, hai capito.}
+{800}{}{Voglio dire che il reattore adesso funziona, ma potrebbe funzionare meglio. E di gran lunga meglio, se solo avessimo qualche dato in piu'... Ora, se tu riuscissi ad ottenere le informazioni necessarie per l'ottimizzazione, saremmo a cavallo... uh, beh, hai capito.}
 {801}{}{Informazioni necessarie per l'ottimizzazione? E dove potrei trovarle?}
 {802}{}{Beh, forse puoi trovare quei dati all'interno del computer centrale di Vault City.}
-{803}{}{Bene, vedo quello che posso a fare.}
-{804}{}{Hmm, ci devo pensare.}
-{805}{}{Questo accadra' solo quando un cane di carta riuscira' ad inseguire un gatto d'asbesto attraverso tutto l'inferno. Addio, Festus.}
+{803}{}{Bene, vediamo cosa posso fare.}
+{804}{}{Hmm, e' un'idea.}
+{805}{}{Questo accadra' solo quando un cane di carta riuscira' ad inseguire un gatto d'asbesto attraverso tutto l'inferno. Arrivederci, Festus.}
 {806}{}{Scommetto che un tipo sveglio come te riuscirebbe ad introdursi la' dentro per inserire nel computer centrale un olodisco contenente i dati delle prestazioni del reattore. Poi bisognerebbe riportare qui il disco. Questo dovrebbe bastare. Lo farei da solo, ma sono troppo prezioso per la centrale e non posso assentarmi, nemmeno per un secondo.}
 {807}{}{Odio lasciare un lavoro a meta'.}
-{808}{}{Hmm, non credo di potercela fare. Mi dispiace, Festus. Addio.}
+{808}{}{Hmm, non credo di potercela fare. Mi dispiace, Festus. Arrivederci.}
 {809}{}{Potrebbe funzionare. Sembra proprio che io ti abbia passato un po' della mia intelligenza. Bene, bene. Ascolta, credo che dovresti portarlo a un tipo di nome McClure. Da quel che ho sentito, e' l'unica persona che presta attenzione anche alle questioni non strettamente legate a Vault City e ai suoi preziosi cittadini.}
 {810}{}{Il Consigliere McClure e' l'uomo da contattare. OK, grazie della dritta. Lo faro'.}
-{811}{}{Gee, credo che mi piacerebbe moltissimo essere messo in gattabuia a Vault City con l'accusa di essere un amico dei mutanti. No grazie, Festus. Dovrai arrangiarti da solo. Addio.}
+{811}{}{Accidenti, mi piacerebbe proprio finire in gattabuia a Vault City con l'accusa di simpatizzare per i mutanti. No grazie, Festus. Dovrai arrangiarti da solo. Arrivederci.}
 {812}{}{Questo e' lo spirito giusto. Speravo proprio tu lo dicessi. Ottimo. Usa questo disco con il computer centrale di Vault City e poi torna qui. Useremo meno uranio, il nocciolo non avra' piu' quella perdita e i tizi di Vault City non avranno piu' motivo per venire a sterminarci.}
 {813}{}{Non mi piacerebbe vedere Gecko distrutta. Lo faro'.}
-{814}{}{Non credo di poterlo fare. Mi dispiace, Festus. Addio.}
-{815}{}{Vorrei proprio avere un po' di tempo per farlo io stesso, ma non posso. Tutto quello che posso dire e': grazie, ragazzo. Stai facendo un grosso favore a tutti noi. (sniff, sniff) Sono cosi' fiero di te.}
+{814}{}{Non credo di poterlo fare. Mi dispiace, Festus. Arrivederci.}
+{815}{}{Vorrei proprio avere un po' di tempo per farlo io stesso, ma non posso. Tutto quello che posso dire e': grazie, ragazza. Stai facendo un grosso favore a tutti noi. (sniff, sniff) Sono cosi' fiero di te.}
 {816}{}{Beh, sara' meglio che vada. A presto, Festus. Tornero' con i dati che ti servono non appena posso.}
 {817}{}{Non startene qui a oziare. Recupera quei dati.}
 {818}{}{Non startene li' impalata. Il reattore non funzionera' per sempre.}
 {819}{}{Datti una mossa e recupera quelle informazioni per l'ottimizzazione, come hai detto che avresti fatto.}
 {820}{}{Avremo un sacco di tempo per chiacchierare *dopo* che avremo ottimizzato il reattore.}
-{821}{}{Va' a Vault City e scambia le informazioni economiche con i dati sul reattore che ci servono. Hai capito?}
+{821}{}{Va' a Vault City e da' a McClure il disco economico in cambio dei dati sul reattore che ci servono. Hai capito?}
 {822}{}{Sbrigati. Porta quel disco a McClure.}
 {823}{}{Vault City? Lavoro non completato? Ti suona qualche campanello in quel vuoto che hai in mezzo alle orecchie?}
 {824}{}{Muoviti!}
-{825}{}{Grazie per aver recuperato da Vault City i dati che ci servivano per ottimizzare questa vecchia bestia incontinente. Sei un tipo scaltro, non c'e' dubbio. Hai fatto davvero un ottimo lavoro, quasi come se l'avessi fatto io. Certo... se volessi davvero *finire* questo dannato lavoro, dovresti usare il disco nel Terminale di Controllo del Robot. Hai capito? Bene! Allora...}
+{825}{}{Grazie per aver recuperato da Vault City i dati che ci servivano per ottimizzare questa vecchia bestia incontinente. Sei una tipa scaltra, non c'e' dubbio. Hai fatto davvero un ottimo lavoro, quasi come se l'avessi fatto io. Certo... se volessi davvero *finire* questo dannato lavoro, dovresti usare il disco nel Terminale di Controllo del Robot. Hai capito? Bene! Allora...}
 {826}{}{Beh, non mi piaceva lasciare un lavoro a meta'. Ci vediamo, Festus.}
-{827}{}{Certo, sono sicuro che l'avresti fatto. Sei un putrido pallone gonfiato. Addio.}
+{827}{}{Certo, sono sicura che l'avresti fatto. Sei un putrido pallone gonfiato. Arrivederci.}
 {828}{}{Sei davvero un tesoro. Non c'e' dubbio. Sapevo che l'avresti fatto.}
 {829}{}{Sono cosi' fiero di te.}
 {830}{}{Grazie. Adesso devo tornare ad occuparmi di cose importanti.}

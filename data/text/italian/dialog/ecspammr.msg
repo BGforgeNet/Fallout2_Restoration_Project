@@ -1,6 +1,6 @@
 {100}{}{Vedi uno spammer dall'aspetto patetico.}
 {110}{}{Non vedi assolutamente niente di interessante.}
-{120}{}{Ci sara' un versione per Mac?}
+{120}{}{Ci sara' una versione per Mac?}
 {121}{}{Voglio il multi-player!}
 {122}{}{Vi odio tutti!}
 {123}{}{Ahhh!}

@@ -1,8 +1,8 @@
 {100}{}{Vedi un Deathclaw.}
 {101}{}{Vedi Kerith, la madre Deathclaw.}
-{102}{}{Vedi un tipico Deathclaw. La creatura e' enorme, con un corpo possente, denti aguzzi e lunghi artigli. Questo, in particolare, sembrerebbe essere una femmina, ma non puoi dirlo con certezza. Noti diverse e profonde cicatrici sul suo dorso.}
-{103}{}{Un visitatore umano e' un evento inatteso, ma non sgradito. Io sono Kerith.}
-{104}{}{Come posso aiutarla?}
+{102}{}{Vedi un tipico Deathclaw. La creatura e' enorme, con un corpo possente, denti aguzzi e lunghi artigli. Questo, in particolare, sembrerebbe essere una femmina, ma non puoi dirlo con certezza. Noti diverse e profonde cicatrici sul suo torace.}
+{103}{}{La visita di un umano e' un evento inatteso, ma non sgradito. Io sono Kerith.}
+{104}{}{Come posso aiutarti?}
 {105}{}{Tu madre D'claw?}
 {106}{}{Chi padre D'claw?}
 {107}{}{Porta sembrare scassata. Cosa successo?}
@@ -12,7 +12,7 @@
 {111}{}{Chi e' il padre Deathclaw?}
 {112}{}{Cos'e' successo alla porta? Sembrerebbe aver visto giorni migliori...}
 {113}{}{Chi ha costruito questo nido?}
-{114}{}{Adesso devo anadre.}
+{114}{}{Adesso devo andare.}
 {115}{}{Si'. Io sono l'attuale madre del branco. Dopo che le mie uova si saranno schiuse, sara' il turno delle altre madri.}
 {116}{}{Okay.}
 {117}{}{Altre madri?}
@@ -23,7 +23,7 @@
 {122}{}{Capisco.}
 {123}{}{Queste uova sono state generate da Gruthar, il capobranco. E' Gruthar che decide chi si accoppiera' e chi no. Il branco diventera' forte sotto la guida di Gruthar.}
 {124}{}{Uh, okay.}
-{125}{}{Hmmm. Capisco. Accoppiamenti selettivi per rinforzare il branco.}
+{125}{}{Hmmm. Capisco. Accoppiamenti selettivi per migliorare la stirpe.}
 {126}{}{Questo e' un ricordo doloroso. Un giorno, mentre stavo dormendo, un umano traditore si e' introdotto di nascosto qui dentro e ha piazzato una bomba tra le uova. Fortunatamente non e' stato altrettanto attento mentre usciva: mi sono svegliata e ho trovato la bomba. Non c'era abbastanza tempo per liberarsi di quel dispositivo, percio' l'ho gettato verso la porta e mi sono messa tra essa e le uova. Le uova ed io siamo sopravvissute. La porta no.}
 {127}{}{Cosa essere successo a umano?}
 {128}{}{Come fatto a passare guardia?}
@@ -44,7 +44,7 @@
 {143}{}{Noi abbiamo scavato la roccia e un amico umano ha collocato la porta. Ha preso i pezzi necessari da un insediamento a nordest di qui.}
 {144}{}{Che bello.}
 {145}{}{Carino da parte sua.}
-{146}{}{Bentornato. E' bello rivederti. Come posso aiutarti?}
+{146}{}{Rieccoti. E' bello vederti. Come posso aiutarti?}
 {147}{}{Me solo dire ciao. Me va ora.}
 {148}{}{Volevo solo salutare. Adesso devo andare.}
 {149}{}{Mi rattrista doverti uccidere.}

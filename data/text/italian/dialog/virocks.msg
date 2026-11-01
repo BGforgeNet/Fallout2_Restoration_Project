@@ -4,4 +4,4 @@
 {103}{}{Ehi! Ho trovato una chiave inglese nascosta sotto le rocce.}
 {104}{}{Qui non c'e' altro.}
 {110}{}{Ehi! Io trovato coso utile qui.}
-{111}{}{Io no trova molto tesori.}
+{111}{}{Io no trova altro tesoro.}

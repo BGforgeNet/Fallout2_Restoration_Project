@@ -1,5 +1,5 @@
 {100}{}{Non vedi il modo di utilizzare l'emettitore.}
-{101}{}{Non vedi il modo di utilizzare l'emettitore.}
+{101}{}{Non vedi il modo di utilizzare il campo di forza.}
 {102}{}{Ricevi una scossa dal campo di forza indebolito.}
 {103}{}{ riceve una scossa dal campo di forza indebolito.}
 {107}{}{Ricevi una scossa dal campo di forza.}

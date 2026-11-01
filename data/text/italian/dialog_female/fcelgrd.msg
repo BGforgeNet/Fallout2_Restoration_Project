@@ -5,14 +5,14 @@
 {104}{}{Prendete l'intrusa!}
 {105}{}{Accorrete! Accorrete!}
 {106}{}{E' giunta la tua ora, infedele! La Grande Ruota passa su di te!}
-{107}{}{Noi siamo i guardiani. Tu sei morto.}
+{107}{}{Noi siamo i Guardiani. Ora morirai.}
 {108}{}{Padre Stellare, guida la mia mano.}
 {109}{}{Hai profanato i nostri dogmi!}
-{110}{}{Se gli uomini di legge non ti persuadono, lo faranno le nostre armi.}
+{110}{}{Se non bastano gli avvocati, basteranno le nostre armi.}
 {111}{}{Noi siamo il braccio lungo della legge dell'Hub.}
 {112}{}{Trasgreditrice!}
-{113}{}{Attento a quel che fai.}
-{114}{}{Non far rumore mentre cammini, straniera.}
+{113}{}{Attenta a quel che fai.}
+{114}{}{Muoviti con cautela, straniera.}
 {115}{}{Non toccare nulla di quello che non ti e' concesso toccare.}
 {116}{}{Se fai un passo falso, ti facciamo a pezzi.}
 {117}{}{Sta' molto, molto attenta.}
@@ -27,7 +27,7 @@
 {126}{}{Non disturbare quelli che cercano di concentrarsi.}
 {127}{}{La tua presenza e' benvenuta... laggiu'.}
 {128}{}{L'Hub ci ha posti a guardia del suo gregge.}
-{129}{}{Il Padre Stellare ti vuole bene. E' per questo che ti ha condotto da noi.}
+{129}{}{Il Padre Stellare ti vuole bene. E' per questo che ci ha messi al tuo fianco.}
 {130}{}{Noi siamo fedeli ad AHS-9.}
 {131}{}{Obbedisci.}
 {132}{}{Dormi.}

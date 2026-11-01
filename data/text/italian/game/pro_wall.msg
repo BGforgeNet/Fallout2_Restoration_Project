@@ -163,19 +163,19 @@
 {15800}{}{Muro di Pietra}
 {15900}{}{Muro di Pietra}
 {16000}{}{Muro di Pietra}
-{16100}{}{Inferriata d'Acciaio}
-{16200}{}{Inferriata d'Acciaio}
-{16300}{}{Inferriata d'Acciaio}
-{16400}{}{Inferriata d'Acciaio}
-{16500}{}{Inferriata d'Acciaio}
-{16600}{}{Inferriata d'Acciaio}
-{16700}{}{Inferriata d'Acciaio}
-{16800}{}{Inferriata d'Acciaio}
-{16900}{}{Inferriata d'Acciaio}
-{17000}{}{Inferriata d'Acciaio}
-{17100}{}{Inferriata d'Acciaio}
-{17200}{}{Inferriata d'Acciaio}
-{17300}{}{Inferriata d'Acciaio}
+{16100}{}{Ringhiera d'Acciaio}
+{16200}{}{Ringhiera d'Acciaio}
+{16300}{}{Ringhiera d'Acciaio}
+{16400}{}{Ringhiera d'Acciaio}
+{16500}{}{Ringhiera d'Acciaio}
+{16600}{}{Ringhiera d'Acciaio}
+{16700}{}{Ringhiera d'Acciaio}
+{16800}{}{Ringhiera d'Acciaio}
+{16900}{}{Ringhiera d'Acciaio}
+{17000}{}{Ringhiera d'Acciaio}
+{17100}{}{Ringhiera d'Acciaio}
+{17200}{}{Ringhiera d'Acciaio}
+{17300}{}{Ringhiera d'Acciaio}
 {17400}{}{Parete della Grotta}
 {17500}{}{Parete della Grotta}
 {17600}{}{Parete della Grotta}
@@ -1212,32 +1212,32 @@
 {119800}{}{Parete}
 {119900}{}{Parete}
 {120000}{}{Parete}
-{120100}{}{Inferriata}
-{120200}{}{Inferriata}
-{120300}{}{Inferriata}
-{120400}{}{Inferriata}
-{120500}{}{Inferriata}
-{120600}{}{Inferriata}
-{120700}{}{Inferriata}
-{120800}{}{Inferriata}
-{120900}{}{Inferriata}
-{121000}{}{Inferriata}
-{121100}{}{Inferriata}
-{121200}{}{Inferriata}
-{121300}{}{Inferriata}
-{121400}{}{Inferriata}
-{121500}{}{Inferriata}
-{121600}{}{Inferriata}
-{121700}{}{Inferriata}
-{121800}{}{Inferriata}
-{121900}{}{Inferriata}
-{122000}{}{Inferriata}
-{122100}{}{Inferriata}
-{122200}{}{Inferriata}
-{122300}{}{Inferriata}
-{122400}{}{Inferriata}
-{122500}{}{Inferriata}
-{122600}{}{Inferriata}
+{120100}{}{Ringhiera}
+{120200}{}{Ringhiera}
+{120300}{}{Ringhiera}
+{120400}{}{Ringhiera}
+{120500}{}{Ringhiera}
+{120600}{}{Ringhiera}
+{120700}{}{Ringhiera}
+{120800}{}{Ringhiera}
+{120900}{}{Ringhiera}
+{121000}{}{Ringhiera}
+{121100}{}{Ringhiera}
+{121200}{}{Ringhiera}
+{121300}{}{Ringhiera}
+{121400}{}{Ringhiera}
+{121500}{}{Ringhiera}
+{121600}{}{Ringhiera}
+{121700}{}{Ringhiera}
+{121800}{}{Ringhiera}
+{121900}{}{Ringhiera}
+{122000}{}{Ringhiera}
+{122100}{}{Ringhiera}
+{122200}{}{Ringhiera}
+{122300}{}{Ringhiera}
+{122400}{}{Ringhiera}
+{122500}{}{Ringhiera}
+{122600}{}{Ringhiera}
 {122700}{}{Entrata}
 {122800}{}{Entrata}
 {122900}{}{Colonna}

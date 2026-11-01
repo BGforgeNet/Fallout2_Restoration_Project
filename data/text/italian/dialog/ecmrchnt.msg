@@ -12,5 +12,5 @@
 {252}{}{Yah. Me ha roba!}
 {253}{}{Me va.}
 {260}{}{E' stato bello fare affari con te. Buona fortuna per i tuoi viaggi.}
-{261}{}{Addio.}
+{261}{}{Ciao.}
 {270}{}{Felice di rivederti. Posso mostrarti qualcosa d'altro?}

@@ -11,7 +11,7 @@
 {110}{}{Ug. Con-puh-te'!}
 {111}{}{Esci.}
 {112}{}{[Non sei in grado di leggere quello che c'e' sul monitor.]}
-{113}{}{[In qualche modo Skynet sa che hai recuperato un cervello.]           Raggiungi il Laboratorio di Robotica - Livello 3              Installa il Cervello Cybernetico                                  Attiva il Robot                                                   -Fine Trasmissione-}
+{113}{}{[In qualche modo Skynet sa che hai recuperato un cervello.]           Raggiungi il Laboratorio di Robotica - Livello 3              Installa il Cervello Cibernetico                                  Attiva il Robot                                                   -Fine Trasmissione-}
 {114}{}{}
 {115}{}{}
 {116}{}{}
@@ -48,21 +48,21 @@
 {147}{}{}
 {148}{}{Esci.}
 {149}{}{Esci.}
-{150}{}{[La porta della stanza si chiude violentemente e, allo stesso tempo, il muro orientale scompare, rivelando una fila di robot pesantemente armata.]}
-{151}{}{Um...Ho riconsiderato la tua offerta. Cosa posso fare per te?}
+{150}{}{[La porta della stanza si chiude violentemente e, allo stesso tempo, il muro orientale scompare, rivelando una fila di robot pesantemente armati.]}
+{151}{}{Uhm... Ho riconsiderato la tua offerta. Cosa posso fare per te?}
 {152}{}{Fatevi sotto!}
-{153}{}{Raggiungi il Bio Deposito - Livello 4                              Recupera il Cervello Cybernetico                                   Ritorna qui per ricevere ulteriori istruzioni                       -Fine Trasmissione-}
+{153}{}{Raggiungi il Bio Deposito - Livello 4                              Recupera il Cervello Cibernetico                                   Ritorna qui per ricevere ulteriori istruzioni                       -Fine Trasmissione-}
 {154}{}{}
 {155}{}{}
 {156}{}{}
-{157}{}{Raggiungi il Bio Deposito - Livello 4                              Recupera il Cervello Cybernetico                                   Ritorna qui per ricevere ulteriori istruzioni                       -Fine Trasmissione-}
+{157}{}{Raggiungi il Bio Deposito - Livello 4                              Recupera il Cervello Cibernetico                                   Ritorna qui per ricevere ulteriori istruzioni                       -Fine Trasmissione-}
 {158}{}{}
 {159}{}{}
 {160}{}{}
 {161}{}{Esci.}
 {162}{}{Skynet vuole lasciare questo luogo.}
 {163}{}{E allora perche' non te ne vai?}
-{164}{}{E' una cosa bella da volere.}
+{164}{}{Beh, sognare non costa niente.}
 {165}{}{Come posso aiutarti?}
 {166}{}{Non ce la farei mai a portarti fuori di qui a braccia.}
 {167}{}{Skynet ha bisogno di un contenitore per lasciare questa ubicazione.}
@@ -77,7 +77,7 @@
 {176}{}{Come posso aiutarti?}
 {177}{}{Mi dispiace. Non posso aiutarti.}
 {178}{}{Vuoi che ti aiuti dopo che hai tentato di uccidermi? Scordatelo!}
-{179}{}{Raggiungi il Bio Deposito - Livello 4                                Recupera il Cervello Cybernetico                             Ritorna qui per ricevere ulteriori istruzioni                     -Grazie-}
+{179}{}{Raggiungi il Bio Deposito - Livello 4                                Recupera il Cervello Cibernetico                             Ritorna qui per ricevere ulteriori istruzioni                     -Grazie-}
 {180}{}{}
 {181}{}{}
 {182}{}{}
@@ -94,7 +94,7 @@
 {193}{}{}
 {194}{}{Aspetta! Era solo una battuta.}
 {195}{}{Esci.}
-{196}{}{Battuta: Qualcosa da non prendere sul serio                        Richiesta                                                         Aiutare Skynet ad andarsene                                            No battuta}
+{196}{}{Battuta: Qualcosa da non prendere sul serio                        Richiesta                                                         Aiutare Skynet ad andarsene                                            Non e' una battuta}
 {197}{}{}
 {199}{}{}
 {200}{}{}
@@ -111,7 +111,7 @@
 {211}{}{}
 {212}{}{Chiedere cosa?}
 {213}{}{Esci.}
-{214}{}{Forse tu non sei quello                                             Raggiungi il Bio Deposito - Livello 4                             Recupera il Cervello Cybernetico                                       Ritorna qui per ricevere ulteriori istruzioni                          Oppure vattene                                                         Skynet attendera' un altro}
+{214}{}{Forse tu non sei quello                                             Raggiungi il Bio Deposito - Livello 4                             Recupera il Cervello Cibernetico                                       Ritorna qui per ricevere ulteriori istruzioni                          Oppure vattene                                                         Skynet attendera' un altro}
 {215}{}{}
 {216}{}{}
 {217}{}{}
@@ -121,7 +121,7 @@
 {221}{}{Allora Skynet attendera' un altro                                     -Fine Trasmissione-}
 {222}{}{}
 {223}{}{Esci.}
-{224}{}{Corretto. I diari della sezione scientifica indicano che un cervello cybernetico e' conservato nel Bio Deposito - Livello 4. Skynet sara' in grado di trasferirsi in questa unita'.}
+{224}{}{Corretto. I diari della sezione scientifica indicano che un cervello cibernetico e' conservato nel Bio Deposito - Livello 4. Skynet sara' in grado di trasferirsi in questa unita'.}
 {225}{}{}
 {226}{}{Un cervello senza un corpo non ti servira' a nulla.}
 {227}{}{Questo cervello e' stato modificato per funzionare con un corpo robotico potenziato situato nel Laboratorio di Robotica - Livello 3.}

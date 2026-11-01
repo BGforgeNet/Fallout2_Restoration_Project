@@ -1,19 +1,19 @@
 {100}{}{Vedi un tossicodipendente.}
-{110}{}{Vedi uno schiavo del Jet.}
-{111}{}{Vedi uno schiavo del Jet di Tubby.}
+{110}{}{Vedi una prostituta schiava del Jet.}
+{111}{}{Vedi una delle prostitute di Tubby, schiava del Jet.}
 {150}{}{Sembra essere un amico di Tubby.}
-{160}{}{Sembra essere estremamente drogato.}
-{161}{}{Sembra soffrire per i postumi di una sballata.}
+{160}{}{Sembra essere estremamente drogata.}
+{161}{}{Sembra soffrire per una terribile crisi di astinenza.}
 {200}{}{Oh, cavolo. E adesso dove prenderemo la nostra roba?}
 {201}{}{Perche' hai ucciso Tubby?}
 {202}{}{Oh cavolo, che merda.}
 {203}{}{E adesso cosa faremo?}
-{204}{}{Oh, cavolo…}
+{204}{}{Oh, cavolo...}
 {205}{}{Ehi, questo non e' giusto.}
 {206}{}{Non farci del male, non lo diremo a nessuno.}
 {220}{}{Wow, sembri davvero una tipa cattiva.}
-{221}{}{Ehi, sei davvero un bel ragazzo. Te l'aveva mai detto nessuno?}
-{222}{}{Ehi, sei davvero una bella ragazza. Te l'aveva mai detto nessuno?}
+{221}{}{Ehi, sei davvero un bel ragazzo. Te l'ha mai detto nessuno?}
+{222}{}{Ehi, sei davvero una bella ragazza. Te l'ha mai detto nessuno?}
 {223}{}{Noi siamo le guardie di Tubby.}
 {224}{}{Non far casino con Tubby. Questo e' il suo negozio.}
 {225}{}{Diamine, mi sento bene.}
@@ -22,8 +22,8 @@
 {228}{}{Oh, cavolo: non sento piu' le gambe.}
 {229}{}{Tubby e' il nostro miglior amico.}
 {230}{}{Tubby ci da' la felicita'.}
-{231}{}{Oh cavoli, oh cavoli oh cavoli… Dannati i miei occhi.}
-{232}{}{Ehi, amico, sei uno schiavista? Wow…}
+{231}{}{Oh cavoli, oh cavoli oh cavoli... Dannati i miei occhi.}
+{232}{}{Ehi, amica, sei una schiavista? Wow...}
 {233}{}{Ti ha fatto male il tatuaggio?}
 {234}{}{Voi schiavisti siete davvero tosti.}
 {235}{}{E' pericoloso fare lo schiavista?}
@@ -37,17 +37,17 @@
 {253}{}{Cos'era tutto quel casino?}
 {254}{}{Cazzo, quella roba era forte.}
 {255}{}{Wow, cavolo. Ha ucciso Tubby.}
-{260}{}{Ooooohhyaaa… Buona questa roba.}
+{260}{}{Ooooohhyaaa... Buona questa roba.}
 {261}{}{Di cosa si tratta?}
 {262}{}{Oh, si', sto volando.}
 {263}{}{Oh, che bel tepore.}
-{264}{}{E' cosi bella.}
-{265}{}{Oh, tutto nero… Merda, non ci vedo.}
+{264}{}{E' cosi' bella.}
+{265}{}{Oh, tutto nero... Merda, non ci vedo.}
 {270}{}{Wow, lo vedi?}
 {271}{}{Si', sai cos'era?}
 {272}{}{Credo fosse un uccello.}
 {273}{}{No, un cane.}
-{274}{}{Ma era un uomo volante.}
+{274}{}{Ma stava volando, amico.}
 {275}{}{No - e' sfrecciato a pochi metri dal terreno.}
 {276}{}{Certo... hai le visioni.}
 {277}{}{No. Era reale.}
@@ -70,22 +70,22 @@
 {304}{}{Una donna che si arrampica su un albero mangiando patate? Sei stupido.}
 {305}{}{Da dove vengono gli alberi?}
 {306}{}{Non puoi arrampicarti su un albero mangiando patate.}
-{307}{}{Anche i cespugli.}
+{307}{}{Mi piacciono anche i cespugli.}
 {308}{}{Beh, non facilmente.}
 {309}{}{Perche' sono verdi.}
 {310}{}{Le patate non sono verdi.}
 {311}{}{Ohhh, le lucine carine.}
-{312}{}{Oh, mi gira la testa…}
-{320}{}{Non parlarmi, amica. Mi gira la testa.}
+{312}{}{Oh, mi fa male la testa...}
+{320}{}{Non parlarmi, amica. Mi fa male la testa.}
 {321}{}{Non lo diro' a nessuno.}
 {322}{}{Non farmi del male.}
 {323}{}{Non ho fatto nulla.}
 {324}{}{Non ho visto nulla.}
 {325}{}{Non ho sentito nulla.}
 {326}{}{Ti prego, vattene.}
-{327}{}{Signora, non mi sento molto bene per parlare. La mia fottuta testa mi sta uccidendo.}
+{327}{}{Signora, non ho molta voglia di parlare. La mia fottuta testa mi sta uccidendo.}
 {340}{}{Oh cavoli, sei una merda.}
-{341}{}{Perche' sei venuto qui a rovinarmi la sballata?}
+{341}{}{Perche' mi hai rovinato la sballata?}
 {342}{}{Cavoli, che male!}
 {343}{}{Cosa diavolo...?}
 {344}{}{Cosa succedera'?}
@@ -97,7 +97,7 @@
 {405}{}{Dov'e' il nostro grand'uomo?}
 {406}{}{Non ti fa venire i brividi?}
 {407}{}{Tubby ha la miglior fornitura della citta'.}
-{408}{}{Mi sento cosi' viva!}
+{408}{}{Mi sento rinascere!}
 {420}{}{Hai sentito quel rumore?}
 {421}{}{E' da un po' che non vedo Tubby.}
 {422}{}{Dov'e' Tubby?}

@@ -19,7 +19,7 @@
 {118}{}{Ehi, non toccare quei documenti. Sto lavorando.}
 {119}{}{Dove diavolo e' finito quel girovatore?}
 {120}{}{Dannati piloti, sempre a rovinare le mie creature.}
-{121}{}{Ricevuto, ti abbiamo sul radar -— non disturbarmi, sto lavorando.}
+{121}{}{Ricevuto, ti abbiamo sul radar --- non disturbarmi, sto lavorando.}
 {122}{}{Ascoltami bene, soldato: le telefonate personali non sono permesse.}
 {123}{}{Scusa, ma adesso non posso aiutarti.}
 {124}{}{Sei venuto qui per qualcosa? Altrimenti vattene.}

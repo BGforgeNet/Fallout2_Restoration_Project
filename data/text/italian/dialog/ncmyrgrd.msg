@@ -1,7 +1,7 @@
 {100}{}{Vedi una guardia.}
-{150}{}{Vedi una guardia dall'aria annoiata. Sembrerebbe non desiderare altro che essere da qualsiasi altra parte.}
+{150}{}{Vedi una guardia dall'aria annoiata. Ha l'aria di chi vorrebbe essere ovunque tranne che qui.}
 {151}{}{Vedi una delle guardie annoiate di Myron.}
-{152}{}{Vedi una delle guardie annoiate di Myron. Sembrerebbe non desiderare altro che essere da qualsiasi altra parte.}
+{152}{}{Vedi una delle guardie annoiate di Myron. Ha l'aria di chi vorrebbe essere ovunque tranne che qui.}
 {200}{}{Tocca ancora la mia roba e ti uccido.}
 {205}{}{Entra pure. E' tutto ok.}
 {206}{}{Entra. E' ok.}
@@ -12,18 +12,18 @@
 {217}{}{Non cacciarti nei guai, Myron, ok?}
 {218}{}{Non andare troppo lontano, Myron.}
 {225}{}{Ehi, }
-{230}{}{E' uno degli sgherri di }
+{230}{}{E' uno della famiglia }
 {235}{}{Hai del fegato a farti vedere da queste parti. Ti consiglio pero' di abbassare la cresta e di andartene.}
 {236}{}{Hai proprio la faccia di una }
-{240}{}{Faresti meglio a tornartene al tuo canile, puta di una }
+{240}{}{Faresti meglio a tornartene al canile dei }
 {241}{}{Hai proprio la faccia di una }
 {245}{}{Metti via quell'arma... a meno che tu non stia CERCANDO guai.}
 {250}{}{Intruso!}
 {260}{}{Porta fuori di qui quel cassonetto ambulante.}
-{261}{}{I droidi qui non sono ammessi. Fallo sparire.}
+{261}{}{I robot qui non sono ammessi. Fallo sparire.}
 {262}{}{Se non se ne va subito, quel robot sara' presto ridotto ad un rottame.}
 {270}{}{Mi *pareva* di aver sentito puzza di mutante. Portalo fuori di qui, prima che ci incazziamo di brutto.}
-{271}{}{Sei un amico dei mutanti? Il suo posto e' di FUORI.}
+{271}{}{Sei un amico dei mutanti? Il suo posto e' FUORI. Altrimenti...}
 {272}{}{Quel mutante vuole forse diventare il nostro bersaglio mobile di oggi? Se non se ne va subito lo accontenteremo volentieri.}
 {280}{}{Mi *pareva* di aver sentito puzza di qualcosa che sta andando a male. Porta quel tuo ghoul fuori di qui.}
 {281}{}{Porta quel coglione di un ghoul puzzolente fuori di qui. Adesso.}
@@ -34,7 +34,7 @@
 {293}{}{::Ulula come un lupo non appena ti vede:: Auuuuuuuuuu!}
 {300}{}{Che cosa diavolo vuoi, schiavista? Gli schiavi sono di sopra.}
 {305}{}{Cos'e' successo a Myron?}
-{310}{}{Myron sta ancora dormendo?}
+{310}{}{Myron sta ancora smaltendo la sbornia?}
 {311}{}{Che noia.}
 {312}{}{Hai visto l'incontro, ieri sera?}
 {313}{}{Non vedo l'ora di finire il turno.}
@@ -58,7 +58,7 @@
 {352}{}{IO DETTO ME VUOLE ENTRARE IN STANZA}
 {353}{}{CHIITUU}
 {354}{}{[Allontanati]}
-{360}{}{(Impugna l'arma.) Credo che mi divertiro'. E' da quasi un'ora che non torturo uno schiavo...}
+{360}{}{(Impugna l'arma.) Credo che mi divertiro'. E' da almeno un'ora che non picchio uno schiavo...}
 {361}{}{(Impugna l'arma.) Credo che mi divertiro'. Sono due giorni che non uccido nessuno...}
 {362}{}{TU AVERE MALE, NO ME}
 {363}{}{ SCHIACCIA}
@@ -80,13 +80,13 @@
 {412}{}{Difenditi.}
 {425}{}{Davvero? Fammi vedere. Hmmmm. (Controlla il pass, alza le spalle.) D'accordo, ma sbrigati. Myron e' molto occupato e non gli piace esser disturbato.}
 {426}{}{Capito.}
-{435}{}{(I suoi occhi corrono su e giu' seguendo le curve del tuo corpo.) Ok, per adesso...eh eh...tuttavia potrei aver bisogno di rifarmeli tra un po'. Dopo che avrai finito con Myron.}
-{436}{}{D'accordo... non dimenticartene. Posso entrare?}
+{435}{}{(I suoi occhi corrono su e giu' seguendo le curve del tuo corpo.) Ok, per adesso... eh eh... pero' potrei aver bisogno di rifarmi gli occhi di nuovo tra un po'. Dopo che avrai finito con Myron.}
+{436}{}{Lo... terro' a mente. Posso entrare?}
 {437}{}{Vedremo, ok?}
 {445}{}{Certo, dolcezza. Entra pure.}
 {446}{}{Si', entra.}
 {447}{}{Grazie.}
-{455}{}{Tu? Ah! Chica, a meno che Myron non sia diventato improvvisamente cieco, tu non entrerai. Conosco i suoi gusti, capito? Non gli interessano le troie sboldre che vengono qui a implorare una goccia di Jet.}
+{455}{}{Tu? Ah! Chica, a meno che Myron non sia diventato improvvisamente cieco, tu non entrerai. Conosco i suoi gusti, capito? Non gli interessano le troie sudicie che vengono qui a elemosinare un po' di Jet.}
 {457}{}{Senti, sono qui per incontrare Myron. Ho un pass.}
 {458}{}{Me ne vado subito.}
 {465}{}{Oh, scusa. Pensavo tu fossi qualcun altro. Che cosa vuoi, chica?}
@@ -94,7 +94,7 @@
 {475}{}{Myron ti sta aspettando?}
 {477}{}{Si'. Posso entrare? Ho degli affari da discutere con lui.}
 {478}{}{No, non adesso. Statemi bene, ragazzi.}
-{479}{}{Si'. Posso entrare? Ho degli "affari" da discutere con lui. Se capisci cosa voglio dire (Strizzi l'occhio alla guardia)}
+{479}{}{Si'. Posso entrare? Ho degli "affari" da discutere con lui. Se capisci cosa voglio dire. (Strizzi l'occhio alla guardia.)}
 {480}{}{Eh, ne sono convinto. Cerca di non fare troppo casino mentre sei qui. (Tra se' e se': Dannazione, Myron e' un uomo cosi' fortunato.)}
 {485}{}{Myron non c'e'.}
 {487}{}{Posso entrare lo stesso?}
@@ -102,7 +102,7 @@
 {5225}{}{! Come butta?}
 {5230}{}{! Facciamolo secco!}
 {5236}{}{ che non sa di essere ad un passo dalla morte.}
-{5240}{}{ canile, puta?}
+{5240}{}{, puta?}
 {5241}{}{ che non sa di essere ad un passo dalla morte.}
 {5476}{}{! Myron e' proprio dietro a quella porta. Ti aspetta?}
-{5486}{}{, come butta? Oh, ehi...Myron non c'e'.}
+{5486}{}{, come butta? Oh, ehi... Myron non c'e'.}

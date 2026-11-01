@@ -7,9 +7,9 @@
 {106}{}{Sei quello di cui parlava Merk? Okay, fatelo passare, ragazzi.}
 {107}{}{Tutto in regola. Fatevi da parte, ragazzi.}
 {108}{}{Okay, sei pulito. Aprite il cancello, ragazzi.}
-{109}{}{Sei quello di cui parlava Merk? Okay, fatelo passare, ragazzi.}
+{109}{}{Sei quella di cui parlava Merk? Okay, fatela passare, ragazzi.}
 {110}{}{Sono in servizio. Non ho tempo per socializzare.}
 {111}{}{Ehi, belle scarpe.}
 {112}{}{Faresti meglio a pensare agli affari tuoi.}
-{113}{}{Eccoti signore. Buona giornata.}
-{114}{}{C’e' stato un incidente. Circolare.}
+{113}{}{Ecco a te, signore. Buona giornata.}
+{114}{}{C'e' stato un incidente. Circolare.}

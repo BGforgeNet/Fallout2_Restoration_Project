@@ -21,16 +21,16 @@
 {168}{}{Certo, cosa c'e'?}
 {169}{}{Puoi dirmi dove posso trovare delle erbe curative?}
 {170}{}{Cosa puoi dirmi dei mercanti che commerciano con noi?}
-{171}{}{Nulla.}
-{172}{}{Ehi, ritardato. Si dice che tu sia il Prescelto. Devo ammettere che lo spirito del Fondatore agisce in modo strano.}
+{171}{}{Lascia perdere.}
+{172}{}{Ehi, ritardata. Si dice che tu sia la Prescelta. Devo ammettere che lo spirito del Fondatore agisce in modo strano.}
 {173}{}{Oon Ga.}
-{174}{}{ Fa' buon viaggio, ritardato -- per amor nostro.}
+{174}{}{ Fa' buon viaggio, ritardata -- per amor nostro.}
 {175}{}{????}
 {176}{}{Ci hai tradito. Devi morire.}
 {177}{}{Una traditrice della tua stessa gente!}
 {178}{}{Perche' fai questo?}
 {179}{}{Morte alla malvagia!}
-{180}{}{Non valgono niente per noi! Per vivere razziano i corpi morenti nel deserto.}
+{180}{}{Non valgono niente per noi! Vivono di quel che racimolano dal cadavere morente delle Lande.}
 {181}{}{Puoi dirmi dove posso trovare delle erbe curative?}
 {182}{}{Grazie. Arrivederci.}
 {183}{}{Un'altra domanda, se posso.}
@@ -46,11 +46,11 @@
 {982}{}{Mai sentito.}
 {1000}{}{Anziana}
 {1001}{}{Fondatore}
-{1002}{}{Vault Dweller}
+{1002}{}{Abitante del Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{l'Eletto}
+{1006}{}{Prescelta}
 {1007}{}{Sciamano}
 {1008}{}{Hakunin}
 {1009}{}{Polvere curativa}
@@ -58,7 +58,7 @@
 {1011}{}{Mynoc}
 {1100}{}{L'Anziana e' tua madre e la nostra guida.}
 {1101}{}{Il nostro grande antenato che ci ha donato la conoscenza.}
-{1102}{}{I primi a combattere e a vincere sul caos.}
+{1102}{}{Il primo a combattere e a vincere il caos.}
 {1103}{}{Quello sarebbe il nostro bellissimo villaggio.}
 {1104}{}{E' un avamposto commerciale a pochi giorni a est di qui.}
 {1105}{}{Il Vault e' il paradiso.}
@@ -66,5 +66,5 @@
 {1107}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1108}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1109}{}{E' una polvere magica che ti guarisce, ma che ti intorpidisce.}
-{1110}{}{Il Grande Ponte esce dal nostro villaggio a sud.}
+{1110}{}{Il Grande Ponte porta fuori dal villaggio, a sud.}
 {1111}{}{Lui custodisce il ponte che conduce al nostro villaggio.}

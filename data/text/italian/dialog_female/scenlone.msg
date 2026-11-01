@@ -16,7 +16,7 @@
 {115}{}{Oh, per l'Hub: un Livello Uno. Ancora intrappolata in uno stato primitivo. Forse un allineamento tramite scansione zeta potrebbe servire a qualcosa. Che ne dici?}
 {116}{}{Ze-ta!}
 {117}{}{No!}
-{118}{}{Sei pregato di non dileggiare la Chiesa dell'Hubologia. Sono le menti negative come la tua che ci rendono le cose difficili. Oh, cielo. Mi sono infervorata!}
+{118}{}{Sei pregata di non dileggiare la Chiesa dell'Hubologia. Sono le menti negative come la tua che ci rendono le cose difficili. Oh, cielo. Mi sono infervorata!}
 {119}{}{Prescelta? Non e' che ti sei confusa e volevi dire AHS-Uno? Su quale testo ti basi?}
 {120}{}{E' semplice. Io sono la Prescelta perche' e' cosi' che deve essere.}
 {121}{}{AHS-uno?}
@@ -36,7 +36,7 @@
 {135}{}{Di che livello sei tu?}
 {136}{}{Oh. Credevo che tu potessi vedere la mia aura. Scusa.}
 {137}{}{Oh. Credevo che tu potessi vedere la mia aura. Scusa.}
-{138}{}{Be', l'ultima volta che ho controllato la schermata del personaggio, ero al livello... }
+{138}{}{Be', l'ultima volta che ho controllato la schermata del personaggio, ero al livello }
 {139}{}{Beh, ho raggiunto la Trascendenza, naturalmente.}
 {140}{}{Uhhh... non e' maleducazione parlare di livelli?}
 {141}{}{Diamine! Non so proprio cosa si aspettino che io faccia, circondata da tutta questa carne da cerchione!}
@@ -61,7 +61,7 @@
 {160}{}{Stato d'oppressione?}
 {161}{}{Come funziona questa purificazione? E' dolorosa?}
 {162}{}{Non e' dolorosa. Devi semplicemente sottoporti ad una scansione zeta. Posso eseguirne una su di te anche adesso, se vuoi.}
-{163}{}{Bene.}
+{163}{}{Certo.}
 {164}{}{Scordatelo!}
 {165}{}{La Chiesa dell'Hubologia esiste per liberare l'umanita' dalle catene che imprigionano il potenziale spirituale di ogni uomo.}
 {166}{}{E come fate?}
@@ -70,34 +70,34 @@
 {169}{}{Credo che un Allineamento mi farebbe bene.}
 {170}{}{Mi servono delle informazioni. Vault 13 - cosa ne sai?}
 {171}{}{Come vanno le cose?}
-{172}{}{Lasciamo stare. Niente pensieri negativi. Tutto qui.}
+{172}{}{Lasciamo stare. Senza rancore. Tutto qui.}
 {173}{}{Notevole. Anche se credo stiamo parlando di due cose diverse, sembra comunque che tu meriti un bonus esperienza.}
 {174}{}{Si'!!}
-{175}{}{E' fatto. Ricorda pero' che c'e' molto di piu' nella vita che accumulare abbastanza punti esperienza per salire di livello. 
-C'e' un intero mondo "reale" la fuori. Ora che abbiamo chiarito questo, vogliamo riprovare?}
+{175}{}{E' fatto. Ricorda pero' che c'e' molto di piu' nella vita che accumulare abbastanza punti esperienza per salire di livello. C'e' un intero mondo "reale" la' fuori.
+ Ora che abbiamo chiarito questo, vogliamo riprovare?}
 {176}{}{Trascendenza? Per l'Hub! Come pensano che io possa diffondere il verbo quaggiu' se neanche mi danno un aggiornamento sulle nuove dottrine!?}
 {177}{}{(Continua)}
 {178}{}{Ti sei addormentata durante l'Indottrinamento? Hmmph - tu non sei una degli Illuminati!}
 {179}{}{Quindi tu stai dicendo che esiste un qualche potere supremo che prima ci crea con uno scopo e che poi ci abbandona a noi stessi? Non posso credere che esista un essere cosi' insensibile. Vieni, abbraccia la fede della Chiesa dell'Hubologia. Lasciati guidare da noi per la giusta via.}
 {180}{}{Quale giusta via?}
 {181}{}{No, grazie.}
-{182}{}{Se non hai il controllo della tua stessa vita, pero', perche' sei vivo? Nulla di cio' che fai ha un valore. Hai deciso tu di alzarti, questa mattina? No, tu sei soltanto uno schiavo della tua filosofia. Noi della Chiesa dell'Hubologia, invece, abbiamo la vera risposta.}
+{182}{}{Se non hai il controllo della tua stessa vita, pero', perche' sei vivo? Nulla di cio' che fai ha un valore. Hai deciso tu di alzarti, questa mattina? No, secondo la tua stessa filosofia, sei soltanto un burattino. Noi della Chiesa dell'Hubologia, invece, abbiamo la vera risposta.}
 {183}{}{E sarebbe?}
 {184}{}{Non ne dubito.}
-{185}{}{Oh, che filosofia di vita triste e vuota! Anche se fosse vera, l'unico percorso da intraprendere sarebbe lo sviluppo di te stesso. Sarebbe l'unica cosa sulla quale avresti un qualche controllo. La Chiesa dell'Hubologia puo' esserti d'aiuto.}
+{185}{}{Oh, che filosofia di vita triste e vuota! Anche se fosse vera, l'unica strada per te sarebbe cercare di crescere come persona. Sarebbe l'unica cosa sulla quale avresti un qualche controllo. La Chiesa dell'Hubologia puo' esserti d'aiuto.}
 {186}{}{Come?}
 {187}{}{Oh, ma piantala.}
-{188}{}{Vault 13? I nostri scienziati l'hanno cercato a lungo nella zona ad ovest di qui. Questo e' tutto cio' che so. Sei sicuro di non volere un Allineamento?}
+{188}{}{Vault 13? I nostri scienziati l'hanno cercato a lungo nella zona ad ovest di qui. Questo e' tutto cio' che so. Sei sicura di non volere un Allineamento?}
 {189}{}{Certo, perche' no?}
 {190}{}{No, grazie. Sto bene cosi'.}
 {191}{}{Ti dico una cosa: diffondere il verbo dell'Hubologia da queste parti e' piu' duro di quanto tu possa immaginare! AHS-9 non sa quali difficolta' io sia costretta ad affrontare. Per questo motivo ho compilato per lui un elenco completo di queste difficolta'. Senti, saresti cosi' gentile da consegnarlo ad AHS-9, a San Francisco? Non posso prometterti una ricompensa, ma so che AHS-9 apprezzera' molto il tuo gesto.}
 {192}{}{Certo, perche' no?}
-{193}{}{No, grazie. Preferisco non essere coinvolto.}
+{193}{}{No, grazie. Preferisco non immischiarmi.}
 {194}{}{Magnifico. Ecco la lettera. Ora... posso fare qualcos'altro per te? Una scansione zeta, magari?}
 {195}{}{Una scansione? Perche' no?}
 {196}{}{Hai gia' fatto abbastanza. Ci vediamo.}
 {197}{}{Allora ho gia' parlato anche troppo. Addio.}
-{198}{}{Bentornato. Come puo' aiutarti la Chiesa dell'Hubologia?}
+{198}{}{Bentornata. Come puo' aiutarti la Chiesa dell'Hubologia?}
 {199}{}{<Sbava>}
 {200}{}{Quindi sei tu quel prurito che Merk vorrebbe togliersi!}
 {201}{}{Uh, non so proprio di cosa tu stia parlando.}
@@ -106,7 +106,7 @@ C'e' un intero mondo "reale" la fuori. Ora che abbiamo chiarito questo, vogliamo
 {204}{}{Uccidermi non servira' a nulla. Non sono un pericolo per Merk. In realta', quello che gli da' fastidio e' la mia fede. Spero che adesso ti rifiuterai di portare a termine il lavoro che ti e' stato assegnato.}
 {205}{}{Si', mi sembri inoffensiva.}
 {206}{}{Scordatelo. Sei un'Hubologista morta.}
-{207}{}{Non ho tempo da perdere con gli idioti. Sei pregato di andartene.}
+{207}{}{Non ho tempo da perdere con gli idioti. Sei pregata di andartene.}
 {208}{}{Fuori, apostata!}
 {209}{}{Non c'e' nulla che tu possa dire che migliorera' la pessima opinione che la Chiesa dell'Hubologia ha nei riguardi di una persona blasfema come te.}
 {210}{}{Chiudi gli occhi. Non ti fara' male.}
@@ -116,6 +116,6 @@ C'e' un intero mondo "reale" la fuori. Ora che abbiamo chiarito questo, vogliamo
 {214}{}{Mi piacerebbe molto aiutarti, ma anche un AHS-4 deve dormire. Torna domattina.}
 {215}{}{Intrusa! Vuoi forse sconsacrare questo luogo? Fuori!}
 {216}{}{Magnifico, sorella. Allora, di che livello sei?}
-{217}{}{. Sono sicuro che continuando a vagare e uccidere creature a caso arrivero' al livello 99 in un attimo.}
+{217}{}{. Sono sicura che continuando a vagare e uccidere creature a caso arrivero' al livello 99 in un attimo.}
 {218}{}{Guadagni }
-{219}{}{ punti esperienza per "esserti occupato" dell'Hubologista per Merk.}
+{219}{}{ punti esperienza per "esserti occupata" dell'Hubologista per Merk.}

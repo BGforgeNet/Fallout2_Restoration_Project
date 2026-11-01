@@ -1,7 +1,7 @@
 {100}{}{Vedi un Auto-Doc.}
-{101}{}{Vedi un Auto-Doc antiquato. Nonostante la sua eta', sei riuscito a farlo funzionare nuovamente.}
+{101}{}{Vedi un Auto-Doc antiquato. Nonostante la sua eta', l'hai rimesso in funzione.}
 {102}{}{Vedi un Auto-Doc.}
-{103}{}{Vedi un Auto-Doc antiquato. Nonostante la sua eta', sei riuscito a farlo funzionare nuovamente.}
+{103}{}{Vedi un Auto-Doc antiquato. Nonostante la sua eta', l'hai rimesso in funzione.}
 {104}{}{Vedi un Auto-Doc antiquato. Fa degli strani rumori ed emette una gran quantita' di calore.}
 {105}{}{Vedi un Auto-Doc.}
 {106}{}{Vedi un Auto-Doc antiquato. Fa degli strani rumori ed emette una gran quantita' di calore.}

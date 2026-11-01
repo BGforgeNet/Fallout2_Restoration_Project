@@ -1,6 +1,6 @@
 {100}{}{}
 {101}{}{}
-{110}{}{I tuoi piedi prudono terribilmente.}
+{110}{}{Ti prudono terribilmente i piedi.}
 {120}{}{Ti stanno venendo dei brutti calli su entrambi gli alluci.}
 {130}{}{Le tue scarpe sono davvero strette; quei calli si stanno infiammando.}
 {140}{}{Quei due brutti calli sembrano essersi trasformati in due dita aggiuntive. Ma almeno quel continuo e doloroso prurito se n'e' andato.}

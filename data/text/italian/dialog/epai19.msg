@@ -1,4 +1,4 @@
-{100}{}{Vedi una macchina peculiare.}
+{100}{}{Vedi una macchina particolare.}
 {101}{}{Vedi il proiettore di backup dell'Ologramma 00000.}
 {102}{}{Vedi una macchina che proietta esclusivamente l'Ologramma della Scienza.}
 {103}{}{Il guasto nella macchina e' stato riparato.}

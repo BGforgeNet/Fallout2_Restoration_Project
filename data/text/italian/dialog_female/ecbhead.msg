@@ -52,11 +52,11 @@
 {151}{}{TI HO GIA' DATO UN REGALO.}
 {152}{}{SPARISCI!}
 {153}{}{Idiota.}
-{154}{}{COSA?! OSI RUBARE DA ME?!}
+{154}{}{COSA?! OSI DERUBARMI?!}
 {155}{}{MUORI!}
 {156}{}{Disintegra il giocatore con un'animazione di morte causata dal plasma.}
 {200}{}{(12 ore piu' tardi...)}
-{1129}{}{Me Prescelto.}
+{1129}{}{Me Prescelta.}
 {1134}{}{Io anche.}
 {1136}{}{Io anche!}
 {1138}{}{Uh-huh.}

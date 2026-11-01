@@ -8,11 +8,11 @@
 {107}{}{No, me va.}
 {108}{}{Voglio delle informazioni.}
 {109}{}{Certo, fammi vedere cos'hai.}
-{110}{}{Nulla.}
+{110}{}{Lascia perdere.}
 {111}{}{Non ho informazioni da vendere. Commercio solo in armi. Vuole vedere la mia merce?}
 {112}{}{Si'.}
 {113}{}{No.}
-{114}{}{Credo sara' soddisfatto della mia mercanzia. Prenda pure tutto il tempo che le serve per esaminare le armi.}
+{114}{}{Credo che la mia mercanzia la soddisfera'. Prenda pure tutto il tempo che le serve per esaminare le armi.}
 {115}{}{Ok.}
 {116}{}{Desidera qualcosa d'altro?}
 {117}{}{Si'.}

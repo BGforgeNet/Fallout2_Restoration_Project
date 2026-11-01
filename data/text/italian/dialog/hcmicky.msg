@@ -7,12 +7,12 @@
 {106}{}{No tezoro ogi.}
 {107}{}{Yah. Serve tuo aiuto.}
 {108}{}{Chi tu?}
-{109}{}{Addio.}
+{109}{}{Ciao.}
 {110}{}{No, non oggi. Se dovessi imbattermi in qualcosa, te lo faro' sapere.}
 {111}{}{Beh, si'. Credo che tu saresti il partner ideale per una... "joint venture", diciamo cosi'.}
 {112}{}{Come ti chiami?}
-{113}{}{Nulla.}
-{114}{}{Io? Io sono Micky, l'affabile e cordiale Cercatore di Tesori di Broken Hills.}
+{113}{}{Lascia perdere.}
+{114}{}{Io? Io sono Micky, l'affascinante e raffinato Cercatore di Tesori di Broken Hills.}
 {115}{}{Cecatore?}
 {116}{}{Ciao ciao.}
 {117}{}{Cercatore di Tesori?}
@@ -29,7 +29,7 @@
 {128}{}{Davvero?! Meraviglioso! Di cosa si tratta? Oro? Gioielli? Artefatti sacri?}
 {129}{}{Mucchio di monete.}
 {130}{}{Nulla.}
-{131}{}{Apparentemente, un bel po' di contanti. Abbastanza da vivere comodamente per parecchio tempo.}
+{131}{}{A quanto pare, un bel po' di contanti. Abbastanza da vivere comodamente per parecchio tempo.}
 {132}{}{Veramente credo che ci lavorero' sopra da solo ancora per un po'.}
 {133}{}{Wow! Questa e' la notizia che stavo aspettando. Che ne dici? Siamo soci 50/50?}
 {134}{}{Yahh!}
@@ -41,7 +41,7 @@
 {140}{}{Beh, diciamo che passerai un po' di tempo nelle "caverne" locali.}
 {141}{}{Bene! Indicami la direzione giusta!}
 {142}{}{Dove tezuro? In citta'?}
-{143}{}{Beh, non ne sono ancora del tutto sicuro. Mi hanno detto che avrei potuto trovare un tesoro da queste parti.}
-{144}{}{Cosa? Qui in citta'? Ah! Chiunque te l'abbia detto stava mentendo o era pazzo. Ad eccezione dei luoghi piu' ripugnanti e malsani di Broken Hills, ho setacciato l'intera citta' senza trovare nulla. Sto appunto pensando di andarmene da qui.}
+{143}{}{Beh, non lo so ancora di preciso. Mi hanno detto che avrei potuto trovare un tesoro da queste parti.}
+{144}{}{Cosa? Qui in citta'? Ah! Chiunque te l'abbia detto stava mentendo o era pazzo. Ad eccezione dei luoghi piu' ripugnanti e malsani di Broken Hills, ho setacciato l'intera citta' senza trovare nulla. Anzi, sto pensando di andarmene da qui.}
 {145}{}{Che pecato. Ciao ciao.}
-{146}{}{E' un vero peccato. Speravo proprio che tu potessi darmi delle indicazioni. Beh, addio.}
+{146}{}{E' un vero peccato. Speravo proprio che tu potessi darmi delle indicazioni. Beh, ciao.}

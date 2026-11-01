@@ -23,17 +23,17 @@
 {264}{}{Mercanti}
 {265}{}{Grotta}
 {270}{}{Ingresso}
-{271}{}{Level 1}
-{272}{}{Level 2}
-{273}{}{Level 3}
-{274}{}{Level 4}
+{271}{}{Livello 1}
+{272}{}{Livello 2}
+{273}{}{Livello 3}
+{274}{}{Livello 4}
 {280}{}{Ingresso}
 {281}{}{Fortezza - Livello 1}
 {282}{}{Fortezza - Livello 2}
 {283}{}{Vats Livello 1}
 {284}{}{Vats Livello 2}
 {290}{}{Cratere}
-{291}{}{Level 1}
+{291}{}{Livello 1}
 {300}{}{Adytum}
 {301}{}{Centro citta'}
 {302}{}{Biblioteca}
@@ -41,7 +41,7 @@
 {304}{}{Magazzino}
 {310}{}{Ingresso}
 {311}{}{Interno}
-{500}{}{Hai guadagnato 10,000 punti esperienza!}
+{500}{}{Hai guadagnato 10.000 punti esperienza!}
 {501}{}{Rovine}
 {1000}{}{Deserto}
 {1001}{}{Montagne}

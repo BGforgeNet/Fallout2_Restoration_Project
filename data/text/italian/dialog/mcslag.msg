@@ -1,4 +1,4 @@
-{100}{}{Scappare!}
+{100}{}{Scappiamo!}
 {101}{}{Aiuto!}
 {102}{}{Quelli della superficie ci stanno attaccando!}
 {103}{}{Lasciaci in pace.}
@@ -7,13 +7,13 @@
 {151}{}{Non ti vogliamo qui.}
 {152}{}{Tutti i "superficiali" sono uguali.}
 {153}{}{Non ci scapperete.}
-{200}{}{Gemito!}
+{200}{}{Uuuuhhh!}
 {201}{}{Boo!}
 {202}{}{Moaaaaaaan.}
 {203}{}{*Clank*}
 {204}{}{*Clink*}
-{250}{}{Un tempo vivevamo nel terreno di sopra.}
-{251}{}{Com'e' il terreno di sopra?}
+{250}{}{Un tempo vivevamo in superficie.}
+{251}{}{Com'e' la vita in superficie?}
 {252}{}{E' cosi' GRANDE lassu'.}
 {253}{}{Che aspetto ha il sole?}
 {254}{}{Salve, "superficiale".}

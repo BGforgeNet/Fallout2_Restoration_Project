@@ -9,7 +9,7 @@
 {108}{}{Mischia questo. Mischia quello. E' cosi' noioso, a volte.}
 {109}{}{Hai visto i nuovi risultati del grande esperimento? Molto incoraggianti!}
 {110}{}{Mi scusi.}
-{116}{}{Ah! Insegnate a quelle spie che non devono introdursi nei nostri sistemi!}
+{116}{}{Ah! Cosi' quelle spie imparano a cercare di introdursi da noi!}
 {117}{}{Gli hacker non ci proveranno MAI PIU'.}
 {118}{}{Se non possiamo batterli con la scienza, li batteremo con i nostri guerrieri.}
 {119}{}{Lo Pan e Dragon insieme. Il solo pensiero mi spaventa.}

@@ -6,24 +6,24 @@
 {112}{}{Uh, mi dispiace, signor Dunton, signore. Me ne vado subito.}
 {113}{}{Mi servono delle informazioni... e fareste meglio a dirmi tutto quello che voglio sapere.}
 {114}{}{Tu e tuo fratello? Hai paura ad affrontarmi da solo? (Coccode', coccode')}
-{120}{}{Vattene, prima che ti facciamo a fette e ti trasformiamo in carne in scatola.}
+{120}{}{Vattene, prima che ti facciamo a fette e ti trasformiamo in carne secca.}
 {121}{}{Ehi, mi dispiace veramente. Non volevo farvi arrabbiare. Sono solo uno stupido. Tornero' piu' tardi, quando vi dara' meno fastidio vedermi.}
 {122}{}{Oh, okay, scusate. Non picchiatemi. Vi prego.}
 {123}{}{Almeno non vedro' piu' le vostre orribili facce da culo.}
 {130}{}{Cosa vuoi sapere da noi?}
-{131}{}{Non credo che abbiamo qualcosa da dirti. Cosa diavolo vuoi?}
+{131}{}{Non credo che ti dobbiamo dire niente. Cosa diavolo vuoi?}
 {132}{}{Vabbe'... cosa puo' mai volere da noi una mammoletta come te?}
 {133}{}{Uno di voi due ha mai sentito parlare di una cosa chiamata Kit di Creazione del Giardino dell'Eden?}
 {134}{}{Vorrei barattare.}
 {135}{}{Ci sono lavori da fare da queste parti?}
 {136}{}{Uh, tu quale Dunton sei?}
 {137}{}{Sapete qualcosa a proposito delle mutilazioni di brahmin avvenute da queste parti?}
-{138}{}{Sapete... non credo di aver davvero bisogno di farvi delle domande. Arrivederci.}
+{138}{}{Pensandoci bene, non mi serve niente. Arrivederci.}
 {140}{}{Hai superato il limite. Credo che faresti meglio ad andartene prima che ti diamo una lezione.}
 {141}{}{Mi spiace, e' solo che mi sono emozionato tantissimo all'idea di lavorare con voi. Adesso me ne vado. Arrivederci.}
 {142}{}{Limite? Ma quale limite? E' stata una vostra idea.}
 {143}{}{Voi due siete troppo fifoni per fare quello che va fatto.}
-{150}{}{Beh, abbiamo una bella scorta della famosissima Carne Secca Dunton. Deliziosa e saporita — e fa anche bene.}
+{150}{}{Beh, abbiamo una bella scorta della famosissima Carne Secca Dunton. Deliziosa e saporita -- e fa anche bene.}
 {151}{}{Uh, buono a sapersi. }
 {152}{}{Carne secca? Non sembra essere cio' di cui ho bisogno. Parliamo di qualcos'altro.}
 {153}{}{Non credo di aver davvero bisogno di barattare. Arrivederci.}
@@ -35,7 +35,7 @@
 {165}{}{Uh, di che cosa si tratta?}
 {166}{}{Oh, capisco. Beh, allora parliamo di qualcos'altro.}
 {167}{}{Ehi, aspettate - vorrei davvero aiutarvi. Parlatemi ancora di quel lavoro.}
-{168}{}{Beh, immagino di averla sprecata. Me ne vado. Arrivederci.}
+{168}{}{Beh, immagino di essermela persa. Me ne vado. Arrivederci.}
 {169}{}{Okay. Ciao.}
 {170}{}{Inutile sacco di merda di gecko! Cosa diavolo ci fai di nuovo qui?}
 {171}{}{Volevo solo porgervi le mie scuse. Non volevo mandare tutto all'aria. Non sono bravo come voi a fare il ladro di bestiame. A parte questo, ho bisogno di qualcosa da voi.}
@@ -49,11 +49,11 @@
 {185}{}{Credo di non aver bisogno di nulla in questo momento. Arrivederci.}
 {190}{}{OK - ecco i 50$ e un piccolo extra per te. Un po' di Carne Secca Dunton. Grazie ancora, socio.}
 {191}{}{Grazie. Ehi, ci sono delle altre cose che vorrei sapere.}
-{192}{}{Questi soldi mi faranno comodo. Mmm, (assaggi) e anche la carne non e' male. Grazie. Addio.}
+{192}{}{Questi soldi mi faranno comodo. Mmm, (assaggi) e anche la carne non e' male. Grazie. Ciao.}
 {198}{}{OK, ecco il piano. Abbiamo bisogno che qualcuno ci aiuti a... ehm... liberare alcuni brahmin da quell'idiota di Torr. Non dovresti aver problemi a farlo. Raccontagli un paio di balle e sei a posto. Che ne dici?}
 {199}{}{Ora ricordo. Grazie. }
-{200}{}{Raggiungici al pascolo dei brahmin, subito a est del paese, alle 6:00 PM di stasera.}
-{201}{}{Raggiungici al pascolo dei brahmin, subito a est del paese, alle 6:00 PM di domani sera.}
+{200}{}{Raggiungici al pascolo dei brahmin, subito a est del paese, alle sei di stasera.}
+{201}{}{Raggiungici al pascolo dei brahmin, subito a est del paese, alle sei di domani sera.}
 {202}{}{OK, io mi occupero' di Torr. }
 {203}{}{OK, trovero' Torr al pascolo e mi occupero' di lui per voi. }
 {204}{}{Dopotutto non credo di volerlo fare.}
@@ -66,10 +66,10 @@
 {211}{}{Ti sembro per caso cosi' brutto? Io sono Buck Dunton.}
 {212}{}{Sei duro di comprendonio? Io sono Chuck Dunton.}
 {213}{}{Sei duro di comprendonio? Io sono Buck Dunton.}
-{214}{}{Non lo vuoi proprio capire... Dannati selvaggi senza cervello. Io sono Chuck, imbecille.}
-{215}{}{Non lo vuoi proprio capire... Dannati selvaggi senza cervello. Io sono Buck, imbecille.}
-{216}{}{Sono Sally "Nasona" Dunton. Ti piace il mio vestito? Io sono Chuck Dunton, stupido selvaggio.}
-{217}{}{Sono Sally "Nasona" Dunton. Ti piace il mio vestito? Io sono Buck Dunton, stupido selvaggio.}
+{214}{}{Non lo vuoi proprio capire... Dannati tribali senza cervello. Io sono Chuck, imbecille.}
+{215}{}{Non lo vuoi proprio capire... Dannati tribali senza cervello. Io sono Buck, imbecille.}
+{216}{}{Sono Sally "Nasona" Dunton. Ti piace il mio vestito? Io sono Chuck Dunton, stupido tribale.}
+{217}{}{Sono Sally "Nasona" Dunton. Ti piace il mio vestito? Io sono Buck Dunton, stupido tribale.}
 {218}{}{Uh, okay. Certo... credo. Scusa.}
 {219}{}{Non preoccuparti. Adesso ho capito. Avrei bisogno di sapere qualcosa da te... ehm... signor Dunton.}
 {220}{}{Fa lo stesso. Senti, dimmi semplicemente quello che voglio sapere.}
@@ -91,8 +91,8 @@
 {259}{}{Guarda un po' chi c'e': il nostro corpulento amico.}
 {260}{}{Ehila'. Come va il braccio? Sei pronto per un'altra sfida?}
 {261}{}{Ehi tu, pidocchietto. Che cosa ci fai nel nostro bar? Per poter rimanere qui dentro devi prima dimostrare il tuo valore sfidandomi a braccio di ferro. (ah ah ah)}
-{262}{}{Non sembri poi cosi' forte. Perche' non mi affronti a braccio di ferro, Chuck Dunton? E come premio mettiamo in palio il diritto a bere nel vostro bar, eh?}
-{263}{}{Non sembri poi cosi' forte. Perche' non mi affronti a braccio di ferro, Buck Dunton? E come premio mettiamo in palio il diritto a bere nel vostro bar, eh?}
+{262}{}{Non sembri poi cosi' forte. Perche' non mi affronti a braccio di ferro, Chuck Dunton? E come premio mettiamo in palio il diritto a bere nel nostro bar, eh?}
+{263}{}{Non sembri poi cosi' forte. Perche' non mi affronti a braccio di ferro, Buck Dunton? E come premio mettiamo in palio il diritto a bere nel nostro bar, eh?}
 {264}{}{Ehila', santerellino. Se vuoi rimanere nel nostro bar, prima devi guadagnarti il nostro rispetto. Devi sfidare me, Chuck Dunton, a braccio di ferro.}
 {265}{}{Ehila', santerellino. Se vuoi rimanere nel nostro bar, prima devi guadagnarti il nostro rispetto. Devi sfidare me, Buck Dunton, a braccio di ferro.}
 {266}{}{Ehi, sembra proprio che abbiamo trovato uno sfidante. Devi fare a braccio di ferro con me, Chuck Dunton, se vuoi bere in questo locale.}
@@ -141,7 +141,7 @@
 {355}{}{Dopo una lunga giornata di lavoro nel recinto dei brahmin, sotto gli stivali troviamo sempre degli ingredienti speciali per dare un sapore speciale alla nostra carne.}
 {356}{}{Beh, abbiamo scoperto che una salsa prodotta personalmente da noi, se capisci cosa intendo, gli da' quel gusto da cucina casalinga cosi' particolare. }
 {357}{}{E' fatta con carne di manzo invecchiata per sei mesi e resa piu' tenera dall'aggiunta delle migliori larve di mosca cavallina.}
-{358}{}{Incredibile. Sembra quasi che abbiate davvero mangiato la vostra carne secca. Ehm, cioe', voglio dire: chi non lo farebbe? Yum-yum.}
+{358}{}{Incredibile. Sembra quasi che mangiate davvero la vostra carne secca. Ehm, cioe', voglio dire: chi non lo farebbe? Yum-yum.}
 {359}{}{Davvero? Affascinante. Ditemi di piu'.}
 {360}{}{Credo sia tutto, per ora. Arrivederci.}
 {361}{}{Anche se stessi morendo di fame, preferirei strapparmi un braccio e mangiarmelo piuttosto che assaggiare la vostra dannata carne secca.}
@@ -179,7 +179,7 @@
 {442}{}{Scusate. Lo faro'. Addio.}
 {443}{}{Si', bene, adesso sparisco. Addio.}
 {444}{}{Ho un'idea migliore. Perche' non tieni tappata la TUA di bocca, tanto per cambiare? Sono stufo di sentirti biascicare con quei denti marci.}
-{449}{}{Ehila', selvaggio. }
+{449}{}{Ehila', tribale. }
 {450}{}{Io sono Chuck Dunton.}
 {451}{}{Io sono Buck Dunton.}
 {452}{}{Uomi butti.}
@@ -199,7 +199,7 @@
 {520}{}{Ok.}
 {530}{}{Fuori dai piedi. Qualcuno qui ha del lavoro da fare.}
 {531}{}{Oh, OK. Andro' via, allora. Cavoli, certa gente e' cosi' irritabile. Addio.}
-{532}{}{Torr porta a pascolare i suoi Brahmin a nord del paese.}
+{532}{}{Torr porta a pascolare i suoi brahmin a nord del paese.}
 {533}{}{Quando quell'idiota di Torr arriva, farai meglio a occuparti di lui.}
 {600}{}{Persino quell'idiota di Torr ha piu' cervello di te, ladro!}
 {601}{}{ Sei pronto ad andare?}
@@ -207,9 +207,9 @@
 {702}{}{No, ti dico io a cosa vi servono. Vi travestite da "Uomini Insetto" e spaventate il povero Torr lontano dai suoi brahmin, vero? Vero?! Ora tutto ha senso. Siete solo due teppisti da quattro soldi.}
 {703}{}{[Gli occhi dei fratelli Dunton si spalancano e iniziano a muoversi nervosamente.] S-s-si... e allora...? Che te ne importa, tribale? A tutti serve qualche soldo extra ogni tanto. Che ti importa, eh? Che pensi di fare, eh?}
 {704}{}{Ti dico questo. Se smettete di rubare brahmin e di tormentare Torr, non vi denuncero'. Mi basta la vostra parola, perche' se succede di nuovo, non restera' abbastanza di voi per rubare un altro brahmin. Chiaro?!}
-{705}{}{[hyuk, hyuk, hyuk] Si, come no, tribale. Credo sia ora di insegnarti cosa succede ai tribali ficcanaso da queste parti.}
-{706}{}{Va bene, Tribale, hai vinto stavolta. Smetteremo, ora lasciaci in pace.}
-{707}{}{Spaventi i fratelli Dunton abbastanza da non infastidire mai piu' Torr.}
+{705}{}{[hyuk, hyuk, hyuk] Si', come no, tribale. Credo sia ora di insegnarti cosa succede ai tribali ficcanaso da queste parti.}
+{706}{}{Va bene, tribale, hai vinto stavolta. Smetteremo, ora lasciaci in pace.}
+{707}{}{Spaventi i fratelli Dunton al punto che non daranno piu' fastidio a Torr.}
 {708}{}{[FATTO]}
 {709}{}{Lasciaci in pace.}
 {710}{}{Si', come vuoi, tribale. Fatti gli affari tuoi.}

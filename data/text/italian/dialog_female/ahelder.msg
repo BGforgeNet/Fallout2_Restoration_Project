@@ -2,18 +2,18 @@
 {101}{}{E' l'Anziana.}
 {102}{}{L'Anziana e' cosi' - vecchia, piu' vecchia di quanto tu possa ricordare. Eppure, ha ancora la forza e la vitalita' necessarie per guidare il villaggio durante questo difficile periodo.}
 {103}{aeld1}{Congratulazioni, Prescelto, sei sopravvissuto al Tempio delle Prove. Sei pronto per la tua missione?}
-{104}{}{Che cosa stavi tentando di fare - volevi che mi uccidessi, in quel tempio?}
+{104}{}{Che cosa stavi tentando di fare - volevi farmi ammazzare, in quel tempio?}
 {105}{}{Certamente.}
 {106}{}{Vorrei pensarci ancora un po'.}
-{107}{aeld2a}{Sono fiera di te, Prescelto. Hai superato molti ostacoli. Adesso... devi andare a cercare il Vault 13. Vault 13. Porta GECK a casa. GECK. Questa e' un bottiglia luccicante. Vic ce l'ha data. Vic. E' un mercante a Klamath. Klamath. Va' da Vic. Trova Vault 13. Trova GECK. Torna a casa. Fa' del tuo meglio, figliolo.}
-{112}{aeld2b}{Non hai trovato il vault. Trova il Vault! Vault 13.}
+{107}{aeld2a}{Sono fiera di te, Prescelto. Hai superato molti ostacoli. Adesso... devi andare a cercare il Vault 13. Vault 13. Porta GECK a casa. GECK. Questa e' una bottiglia luccicante. Vic ce l'ha data. Vic. E' un mercante a Klamath. Klamath. Va' da Vic. Trova Vault 13. Trova GECK. Torna a casa. Fa' del tuo meglio, figliolo.}
+{112}{aeld2b}{Tu non trovato Vault. Trova Vault! Vault 13.}
 {113}{}{Uh.}
 {114}{aeld3}{Prescelto, ci vuoi tutti morti? Devi trovare il Vault!}
 {115}{}{Mi dispiace, Anziana. Non falliro'.}
 {116}{}{Bla, bla, bla. Smettila di strillare.}
 {117}{aeld4}{Prescelto, perche' sei qui?}
 {118}{}{So dove si trova il Vault 13!}
-{119}{}{Sono pronto per la sacra missione.}
+{119}{}{Sono pronta per la sacra missione.}
 {120}{}{Mi servono piu' informazioni.}
 {121}{}{Non ho intenzione di andare a farmi ammazzare!}
 {122}{}{Cos'e' che dovrei fare?}
@@ -22,7 +22,7 @@
 {125}{}{Mi servono piu' informazioni.}
 {126}{}{Bene, sto andando.}
 {127}{aeld6}{Sei sopravvissuto. Il Prescelto non puo' essere debole o tutti noi saremmo spacciati. Sei pronto per la tua missione?}
-{128}{}{Ho superato la prova. Certamente: sono pronto.}
+{128}{}{Ho superato la prova. Certamente: sono pronta.}
 {129}{}{Devo pensarci su.}
 {130}{}{Non ho intenzione di andare a farmi ammazzare!}
 {131}{aeld7}{Sta' attento. Trova il sacro Vault 13 e porta qui il GECK. Vic, un mercante di Klamath, ci ha portato questa fiaschetta dal sacro Tredici. Comincia da lui la tua ricerca. Il disco ti ricordera' il tuo compito. Possano gli dei del Vault proteggerti dall'alto.}
@@ -36,12 +36,12 @@
 {140}{}{Come ci arrivo a Klamath?}
 {141}{}{Dov'e' il Vault 13?}
 {142}{}{Ripensandoci, adesso non ho bisogno di aiuto. Arrivederci.}
-{143}{aeld10}{E' un manufatto sacro - Il Kit per la Creazione del Giardino dell'Eden. I dischi promettono che rendera' verde la nostra terra e prospero il nostro villaggio. Ci salvera'. Di piu', io non so.}
+{143}{aeld10}{E' un manufatto sacro - il Kit di Creazione del Giardino dell'Eden. I dischi promettono che rendera' verde la nostra terra e prospero il nostro villaggio. Ci salvera'. Di piu', io non so.}
 {144}{}{C'e' qualcos'altro che vorrei sapere.}
 {145}{}{Arrivederci.}
 {146}{aeld11}{Klamath si trova a oriente.}
 {147}{}{Ci sono altre cose che vorrei imparare.}
-{148}{}{Sono pronto. A presto.}
+{148}{}{Sono pronta. A presto.}
 {149}{aeld12}{Il sacro Tredici? Non posso aiutarti. Solo l'Abitante del Vault sapeva. I suoi racconti portano l'eco di viaggi pericolosi. }
 {150}{}{Capisco. Ho bisogno di sapere altre cose.}
 {151}{}{Arrivederci, Anziana.}
@@ -66,7 +66,7 @@
 {170}{}{Ok, me ora va.}
 {171}{}{Si', Anziana.}
 {172}{}{Non deludero' ne' voi ne' la nostra gente, Anziana.}
-{173}{}{Guarda. Se tu pensi di potertela cavare meglio... }
+{173}{}{Senti, se pensi di poter fare di meglio... }
 {174}{aeld19}{Prescelto, le cose non vanno bene. Ci serve il GECK se vogliamo che il nostro villaggio sopravviva. La nostra gente diventa debole per la fame e le nostre riserve di cibo non dureranno ancora a lungo. Per favore, trova il sacro Tredici e ritorna da noi. Adesso va'.}
 {175}{}{Me va.}
 {176}{}{Molto bene. Sto andando.}
@@ -79,7 +79,7 @@
 {183}{}{Seh, seh. Inizi a parlare come un disco rotto...}
 {200}{eeld1}{Prescelto! Come sei arrivato qui?}
 {201}{}{Uhh... duh?}
-{202}{}{Sono venuto a salvarvi.}
+{202}{}{Sono venuta a salvarvi.}
 {203}{}{Cosa diavolo sta succedendo qui?}
 {204}{eeld2}{Mostro! Sei venuto per uccidere anche me?}
 {205}{}{Uhhh?}
@@ -89,7 +89,7 @@
 {209}{}{Uh -huh!}
 {210}{eeld4}{Attento, non toccare il muro luminoso. Penso che il macchinario che lo alimenta si trovi sotto di noi. Distruggilo, cosi' noi potremo scappare. Come sei arrivato qui?}
 {211}{}{Ho una nave. }
-{212}{eeld5}{Degli uomini sono arrivati al nostro villaggio con delle macchine volanti e ci hanno preso. Ce n'erano anche altri - venivano dal sacro Tredici! Pensavo fossimo salvi. Pensavo stessimo andando verso il paradiso. (sigh)}
+{212}{eeld5}{Degli uomini sono arrivati al nostro villaggio con delle macchine volanti e ci hanno preso. Ce n'erano anche altri - venivano dal sacro Tredici! Pensavo fossimo salvi. Pensavo stessimo andando verso il paradiso. (sospiro)}
 {213}{}{E poi?}
 {214}{eeld5a}{Ci hanno portato qui, all'inferno. Hanno ucciso la maggior parte di noi con qualcosa che loro chiamano effeevi'. Prima di aver finito ci uccideranno tutti! Sai cosa bisogna fare, Prescelto?}
 {215}{}{Effeevi'?}
@@ -102,16 +102,16 @@
 {222}{}{Arrivederci.}
 {223}{eeld8}{Sono ancora l'Anziana. Ricordati la tua posizione! Fammi le tue scuse o non ti aiutero' piu'.}
 {224}{}{Scusa, non sei una vecchia scrofa. Che cosa succede?}
-{225}{}{Come se tu potessi aiutarmi in un luogo del genere! Muori, fottuta vecchia.}
+{225}{}{Come se tu potessi aiutarmi la' dentro! Vaffanculo e crepa.}
 {226}{eeld9}{Vattene. Non sei migliore di questi demoni. Piango pensando che sei stato chiamato il Prescelto.}
 {227}{eeld10}{Perche' sei qui? Ogni minuto che perdi potrebbe significare la morte di un nostro compagno. E non dimenticare il GECK! Dobbiamo averlo.}
 {228}{}{Nuh??}
 {229}{}{Dov'e' che dovrei andare?}
 {230}{}{Volevo solo disturbarti un po'. Ci penso io. Non preoccuparti.}
-{231}{eeld11}{(sigh) Va' giu'. Uccidi. Spacca macchine. Va' ora!}
+{231}{eeld11}{(sospiro) Va' giu'. Uccidi. Spacca macchine. Va' ora!}
 {232}{eeld12}{Questa volta ascoltami! Raggiungi i livelli sotto di noi. Trova il macchinario che produce energia. Fermalo e potremo scappare. Gli uomini qui sono diversi da quelli del nostro agognato Vault. Sono malvagi. Inoltre, se non hai ancora trovato il GECK, cercalo qui. La nostra liberta' non vale nulla se il nostro villaggio non si salva. Adesso va'!}
 {233}{}{Capito.}
-{234}{eeld13}{Cosi' lo chiamano. Infilano degli aghi sotto la nostra pelle, come gli stimpak, ma poi accadono terribili cose. Poi... (trema)}
+{234}{eeld13}{Cosi' lo chiamano. Infilano degli aghi sotto la nostra pelle, come gli stimpak, ma poi accadono terribili cose. Poi... (con la voce rotta)}
 {235}{}{Poi cosa?}
 {236}{}{Questo mi fara' sentire male, vero?}
 {237}{eeld13a}{Poi la pelle ribolle come se avesse delle larve sotto di se'. Pustole crescono e scoppiano. Il sangue esce dalle orecchie e la lingua si gonfia. Quelli fortunati muoiono per soffocamento. Quelli che non lo sono...}

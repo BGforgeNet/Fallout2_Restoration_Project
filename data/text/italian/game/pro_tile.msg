@@ -233,10 +233,10 @@
 {23300}{}{}
 {23400}{}{}
 {23500}{}{}
-{23600}{}{Ostacolo}
-{23700}{}{Ostacolo}
-{23800}{}{Ostacolo}
-{23900}{}{Ostacolo}
+{23600}{}{Cordolo}
+{23700}{}{Cordolo}
+{23800}{}{Cordolo}
+{23900}{}{Cordolo}
 {24000}{}{Pavimento}
 {24100}{}{Pavimento}
 {24200}{}{Pavimento}

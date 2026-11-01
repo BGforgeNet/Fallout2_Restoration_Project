@@ -4,9 +4,9 @@
 {150}{}{Ecco uno schiavista che sembra amare il proprio lavoro.}
 {151}{}{Questo schiavista sembra essere molto forte, ma non troppo sveglio.}
 {152}{}{Questo schiavista sembra essere ben armato, come gli altri.}
-{225}{}{Prendiamoli vivi.}
+{225}{}{Prendiamoli!}
 {226}{}{Uccidete solo quelli ostili.}
-{227}{}{Facci starda; siamo proprio dietro di te.}
+{227}{}{Facci strada; siamo proprio dietro di te.}
 {228}{}{Fate fuori solo gli ostili - gli altri sono la nostra paga.}
 {229}{}{Sono pronto per spaccare qualche testa.}
 {230}{}{Dove si sono cacciati? Li vedete?}
@@ -15,10 +15,10 @@
 {237}{}{Lasciate perdere gli inermi. Fate fuori gli altri.}
 {238}{}{Dobbiamo ancora portare a termine il massacro.}
 {245}{}{Questo raid e' stato terribile.}
-{246}{}{Avremmo quasi fatto meglio a non venire. Abbiamo fatto schifo.}
+{246}{}{Avremmo quasi fatto meglio a non venire. Non abbiamo preso un cazzo.}
 {247}{}{La prossima volta ammazza solo quelli ostili. Non e' tutto pizza e fichi.}
 {248}{}{Metzger si incazzera' non poco.}
-{255}{}{Non male -- ma la prossima volta lascia stare quelli disarmati se vuoi essere pagato.}
+{255}{}{Non male -- ma la prossima volta lascia stare quelli disarmati se vuoi che ci paghino.}
 {256}{}{Non male. Questo raid ci ha fruttato qualche bello schiavo.}
 {257}{}{Ho visto raid migliori, ma almeno saremo pagati.}
 {265}{}{Ehi, ci e' andata piuttosto bene. Li abbiamo quasi presi tutti.}
@@ -35,7 +35,7 @@
 {288}{}{Qui, micio, micio, micio.}
 {295}{}{Siete tutti morti; ma ancora non lo sapete.}
 {296}{}{Non potete sfuggirci!}
-{297}{}{Uscite fuori, o vi spappolero' le vostre fottute teste.}
+{297}{}{Uscite fuori, o vi spappolo quelle fottute teste.}
 {298}{}{Ah, molto bene! Dove sono finiti gli altri?}
 {305}{}{Merda.}
 {306}{}{Che schifo.}
@@ -50,7 +50,7 @@
 {324}{}{A Metzger dovrebbero bastare.}
 {325}{}{Abbastanza bene.}
 {326}{}{Sbrigatevi. Ce ne andiamo.}
-{327}{}{Un lavoro ben fatto.}
+{327}{}{Dovrebbe andar bene cosi'.}
 {328}{}{Proprio un bel carico.}
 {329}{}{Andiamo. Voglio i miei soldi.}
 {335}{}{E' ora del bonus!}

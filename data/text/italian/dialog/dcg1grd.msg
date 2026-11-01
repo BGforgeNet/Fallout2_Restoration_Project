@@ -1,7 +1,7 @@
 {100}{}{Vedi una guardia.}
 {150}{}{E' una delle guardie di Tyler.}
 {151}{}{E' una delle guardie di Tyler.}
-{200}{}{Sei ancora vivo?}
+{200}{}{Ancora in vita?}
 {210}{}{Gliel'abbiamo fatta vedere, eh?}
 {211}{}{Nessuno ci puo' fregare.}
 {212}{}{Siamo stati grandi.}
@@ -14,10 +14,10 @@
 {227}{}{Questo lavoro e' troppo facile.}
 {228}{}{Nessuno ci puo' fermare.}
 {229}{}{Credo che questa roba provenga da un Vault o una cosa del genere.}
-{230}{}{Che hai da guardare?}
+{230}{}{Cosa stai cercando, comunque?}
 {231}{}{Oltre ai topi, qui dentro non c'e' altro.}
 {232}{}{Non sprecare il tuo tempo, avremo controllato questa roba piu' di un milione di volte.}
-{233}{}{Stanotte e' la notte.}
+{233}{}{Stanotte e' la notte giusta.}
 {234}{}{Odio aspettare.}
 {235}{}{Pur di iniziare smetterei anche di bere.}
 {236}{}{Non e' ancora ora? Non ce la faccio piu' ad aspettare.}

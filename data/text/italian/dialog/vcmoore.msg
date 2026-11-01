@@ -8,7 +8,7 @@
 {107}{}{-Allontanati-}
 {108}{}{Beh, no... non l'ho sentita.}
 {109}{}{E tu saresti...?}
-{110}{}{Uh, no, e non ne ho nemmeno voglia. Addio. }
+{110}{}{Uh, no, e non ne ho nemmeno voglia. Arrivederci. }
 {111}{}{La parola, amico mio... la parola e' EGOISMO. Mischiala con un sacco di alterigia, e che cosa ottieni? Vault City... in tutta la sua gloria ipocrita e schiavista.}
 {112}{}{Perche' vivi in questa citta', se la odi cosi' tanto?}
 {113}{}{Amen, fratello!}
@@ -18,7 +18,7 @@
 {117}{}{E' TEMPO di ascoltare il lamento dei nostri fratelli al di fuori di queste mura e di lasciarli entrare! Abbiamo cibo e rifugio in abbondanza anche per i nostri fratelli... non abbiamo bisogno di essere ricchi quando cosi' TANTA gente e' povera.}
 {118}{}{Hai ragione!}
 {119}{}{Finalmente qualcuno con un po' di ragione da vendere! Perche' altri devono soffrire, quando l'aiuto risiede all'interno di queste mura?}
-{120}{}{Ho sentito abbastanza. Addio.}
+{120}{}{Ho sentito abbastanza. Arrivederci.}
 {121}{}{Amico... mentre ti guardo io vedo FORZA. Io vedo FEDE. I miei occhi m'ingannano? O vedono forse un'anima gemella che abbraccia la mia stessa causa?}
 {122}{}{Hai perfettamente ragione!}
 {123}{}{Si'! Sappi che e' giunto il TEMPO... il tempo per questa citta', costruita sul peccato e la schiavitu', di aprire i suoi cancelli a tutti! }
@@ -31,11 +31,11 @@
 {130}{}{Questa non e' un'oasi, fratello mio. E' una citta', costruita sull'egoismo e sull'avarizia. Dev'essere salvata da se stessa... sotto questa luce, l'esilio e' forse un prezzo troppo alto da pagare? Io credo di no.}
 {131}{}{Qualsiasi cosa pur di liberare dalle catene il mio prossimo!}
 {132}{}{Non saprei... che cosa vuoi che faccia?}
-{133}{}{Hmmm. Beh, dal momento che la metti su questo piano... no, credo di no. Buon giorno.}
+{133}{}{Hmmm. Beh, dal momento che la metti su questo piano... no, credo di no. Buona giornata.}
 {134}{}{(Si avvicina.) Ho una valigetta... contenente informazioni vitali per la nostra causa. La porteresti fino a New Reno per me? Lo farei io, ma i Cittadini mi tengono d'occhio...}
 {135}{}{Quindi ammetti di avere dei legami con New Reno, eh? Questo ti costera'... "amico."}
 {136}{}{Certo. Dammela pure.}
-{137}{}{No, grazie... e' un pochino troppo rischioso per me. Considerami fuori.}
+{137}{}{No, grazie... e' un pochino troppo rischioso per me. Non contare su di me.}
 {138}{}{Eccola... consegnala ad un uomo, John Bishop, a New Reno. Cammina facendo attenzione, figliolo, e porta il verbo con te.}
 {139}{}{Consegnare questa valigetta a John Bishop? Nessun problema.}
 {140}{}{Il mio nome? Io sono Thomas Moore, predicatore del verbo e della verita'. E cosa ti porta oggi da me, amico? Tu CERCHI la parola?}
@@ -52,15 +52,15 @@
 {151}{}{Calma. Me ne vado.}
 {152}{}{Hmmmmmm. Bisogna guardarsi dai serpenti che ripetono il verbo, ma che albergano la menzogna nel loro cuore.}
 {153}{}{Amen, fratello! }
-{154}{}{Se non c'e' fiducia tra noi, sara' meglio che me ne vada. Addio.}
+{154}{}{Se non c'e' fiducia tra noi, sara' meglio che me ne vada. Arrivederci.}
 {155}{}{Uh... certo. Magari ne possiamo parlare piu' tardi.}
 {156}{}{Cosa?! Come OSI ricattarmi, tu... tu... (Aggrotta le sopracciglia.) ...tu hai la mia piu' completa attenzione.}
 {157}{}{Parliamo del pagamento, che ne dici?}
 {158}{}{Beh... quale posto migliore ove predicare se non dove c'e' piu' bisogno di farsi ascoltare?}
 {159}{}{Credo che tu abbia ragione. Chi sei?}
-{160}{}{Porta la tua testimonianza, Fratello! Diffondi il verbo!}
+{160}{}{Porta la tua testimonianza, fratello! Diffondi il verbo!}
 {161}{}{Esatto! Questa citta' e' fondata sul peccato e la schiavitu', e c'e' bisogno della forza dei giusti per purificarla!}
-{162}{}{Uh... giusto. Beh, e' stato bello parlare con te. Addio.}
+{162}{}{Uh... giusto. Beh, e' stato bello parlare con te. Arrivederci.}
 {163}{}{Ecco... questa valigetta contiene il numero del mio conto in banca. Consegnala a John Bishop di New Reno, e lui ti dara' l'accesso al mio conto.}
 {164}{}{Scordatelo. Credo che ti denuncero' lo stesso.}
 {165}{}{Al diavolo il pagamento, allora. Non andro' a Reno.}
@@ -85,16 +85,16 @@
 {184}{}{So che stanno lottando per far rivivere la verita' e la giustizia, e che noi non alziamo un dito per aiutarli.}
 {185}{}{Noi cosa potremmo fare, invece?}
 {186}{}{Mi pare quasi un tradimento.}
-{187}{}{Che peccato. Oh beh, addio.}
+{187}{}{Che peccato. Oh beh, arrivederci.}
 {188}{}{Potremmo spalancare i nostri cancelli e dare loro il benvenuto! Loro hanno bisogno del nostro aiuto, eppure CONTINUIAMO a girarci dall'altra parte, facendo finta di nulla!}
 {189}{}{Amen! La tecnologia di Vault City dovrebbe essere condivisa col mondo e non essere disponibile solo per pochi eletti.}
 {190}{}{Hmm... non saprei. Non ce la caviamo tanto male, qui. Abbiamo davvero bisogno di loro? Dopotutto, non farebbero altro che abbassare la nostra qualita' della vita... ci contaminerebbero, addirittura.}
-{191}{}{Hmmm. Beh, e' una cosa sulla quale riflettere. Addio.}
+{191}{}{Hmmm. Beh, e' una cosa sulla quale riflettere. Arrivederci.}
 {192}{}{Non posso risponderti, dal momento che una citta' fondata sulla schiavitu' non potra' mai essere libera veramente.}
 {193}{}{Gia', ma di sicuro fanno dei bei soldoni, eh?}
 {194}{}{Le tue parole... accendono qualcosa in me. Forse liberare gli schiavi e accoglierli come fratelli, sarebbe la cosa migliore per Vault City.}
 {195}{}{Dovremmo liberare gli schiavi, e accoglierli come fratelli!}
-{196}{}{Aw, non cercare di raccontarmi queste stronzate. La schiavitu'... e Vault City... esisteranno ancora per molto tempo.}
+{196}{}{Ma non raccontarmi queste stronzate. La schiavitu'... e Vault City... esisteranno ancora per molto tempo.}
 {197}{}{Discorso interessante. Magari ne possiamo parlare ancora in un'altra occasione.}
 {198}{}{Vedo che sei un mercante di carne umana. Non ho NULLA da dire ad uno come te.}
 {199}{}{Uurmph}
@@ -104,7 +104,7 @@
 {203}{}{Ehi, mi sono finto uno schiavista solo per ottenere informazioni.}
 {204}{}{Beh, io ho qualcosa da dire a te: perche' a Vault City ci sono gli schiavi? Mi avevano detto che questa era una citta' libera.}
 {205}{}{Ehi, persino il mezzo piu' meschino giustifica un nobile fine.}
-{206}{}{D'accordo, allora. Addio.}
+{206}{}{D'accordo, allora. Ciao.}
 {207}{}{E' bello vedere che l'intolleranza non muore mai. Buona giornata.}
 {208}{}{Non c'e' differenza tra fingere e fare. Vade retro, schiavista.}
 {209}{}{Ma mi sono reso conto dei miei errori!}
@@ -122,7 +122,7 @@
 {221}{}{Si'... sai, Bishop ha detto che lavori per NCR. E' vero?}
 {222}{}{Si', volevo solo farti sapere che ho portato a termine il compito che mi avevi affidato.}
 {223}{}{Mi fa piacere sentire che le mie parole hanno attecchito nel tuo cuore. Forse i nostri cammini si incroceranno ancora, un giorno.}
-{224}{}{Forse. In alto i cuori, fratello.}
+{224}{}{Forse. Non perdere la fede, fratello.}
 {225}{}{Arrivederci.}
 {226}{}{NCR sta cercando di portare l'onore e un governo in tutta la California, e Vault City ha il potere per rendere possibile questo progetto! Pensa al bene che potremmo fare potendo contare sulla tecnologia di Vault City!}
 {227}{}{Non me la dai a bere. Dovrei denunciarti a chi di dovere - a meno che, naturalmente, tu non voglia comprare il mio silenzio.}
@@ -135,7 +135,7 @@
 {234}{}{Certo, certo... smettiamola con queste stronzate del "piu' santo di te". Dammi la grana, o ti denuncio.}
 {235}{}{Dovro' pensarci su. Ci vediamo.}
 {236}{}{Ti prego, consegna la valigetta a New Reno, amico. Ogni secondo e' prezioso!}
-{237}{}{Cosa si puo' fare? Beh, diffondere il verbo dovrebbe essere sufficiente. Attraversa con attenzione e fermezza le lande, amico mio. Con il verbo come faro, non abbandonerai la giusta via.}
+{237}{}{Cosa si puo' fare? Beh, diffondere il verbo dovrebbe essere sufficiente. Attraversa con attenzione e fermezza le Lande, amico mio. Con il verbo come faro, non abbandonerai la giusta via.}
 {238}{}{Grazie, fratello. Faro' come hai detto.}
 {239}{}{Hai udito il verbo, oggi?}
 {240}{}{Ascolta il verbo! Il verbo ti rendera' libero!}

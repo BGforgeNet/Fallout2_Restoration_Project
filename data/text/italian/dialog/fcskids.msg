@@ -1,7 +1,7 @@
 {100}{}{Vedi un ragazzo.}
 {101}{}{Vedi un bambino.}
 {102}{}{Questo bambino non sembra diverso dagli altri bambini.}
-{103}{}{Sei brutto.}
+{103}{}{Hai l'aria cattiva.}
 {104}{}{Non farmi male, 'pito?}
 {105}{}{Che cos'hanno i tuoi occhi?}
 {106}{}{Quello e' un lao wai?}
@@ -14,14 +14,14 @@
 {113}{}{::il bambino sgrana gli occhi quando Marcus gli passa davanti::}
 {114}{}{Questo e' un grosso signore verde.}
 {115}{}{Perche' quell'uomo indossa una gonna?}
-{116}{}{Quell'uomo vorrebbe essere una donna?}
-{117}{}{Eeek! Selvaggio!}
-{118}{}{Ehi, signore! Hai un osso nel tuo naso!}
+{116}{}{Quell'uomo vorrebbe essere una femminuccia?}
+{117}{}{Eeek! Un tribale!}
+{118}{}{Ehi, signore! Hai un osso nel naso!}
 {119}{}{Eeeek! Uno zombie!}
 {120}{}{Mamma, e' contagioso quell'uomo?}
 {121}{}{Bel cagnolino! Bravo!}
 {122}{}{Eeeek! Un mostro!}
-{123}{}{Guardate: l'orco scemo!}
+{123}{}{Guardate lo scemo che gli va dietro!}
 {124}{}{E' la tua mamma quella?}
 {125}{}{Aiuto! C'e' un robot che mi insegue!}
 {126}{}{Aiuto! C'e' un robot che mi insegue!}
@@ -31,4 +31,4 @@
 {130}{}{Waaaaaah!}
 {131}{}{Non farmi male!}
 {132}{}{::piange::}
-{133}{}{Aiuto, Mamma!}
+{133}{}{Aiuto, mamma!}

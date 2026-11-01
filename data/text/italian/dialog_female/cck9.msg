@@ -1,24 +1,24 @@
 {100}{}{Vedi un cybercane.}
 {101}{}{Vedi K-9.}
 {102}{}{Vedi un cybercane. E' in parte macchina e in parte cane.}
-{103}{}{Le funzioni vitali del mio padrone si sono interrotte. Sei tu la mia nuova padrona?}
+{103}{}{Le funzioni vitali del mio padrone si sono interrotte. E' lei la mia nuova padrona?}
 {104}{}{Uh... cagnolino parla?}
 {105}{}{Okay. Me piace cagnolino.}
 {106}{}{No. No vuole cagnolino.}
 {107}{}{Ah! Un cane parlante.}
 {108}{}{Uno: sono un cane. Due: sto comunicando oralmente con lei tramite l'uso della lingua italiana. Percio' e' lecito ritenere che la risposta alla sua domanda sia 'si', cagnolino parla'. Adesso ha intenzione di rispondere alla domanda che le ho posto pochi istanti fa?}
-{109}{}{Uno: sono un cane.Due: sto comunicando oralmente con lei tramite l'uso della lingua italiana. Percio' e' lecito ritenere che io sia un cane parlante. Adesso ha intenzione di rispondere alla domanda che le ho posto pochi istanti fa?}
+{109}{}{Uno: sono un cane. Due: sto comunicando oralmente con lei tramite l'uso della lingua italiana. Percio' e' lecito ritenere che io sia un cane parlante. Adesso ha intenzione di rispondere alla domanda che le ho posto pochi istanti fa?}
 {110}{}{Scusare, me dimenticato domanda.}
 {111}{}{Si'.}
 {112}{}{No.}
-{113}{}{(sigh) Fai attenzione. Concentrati. Guardami negli occhi. Adesso sei pronta?}
+{113}{}{(sospira) Fai attenzione. Concentrati. Guardami negli occhi. Adesso sei pronta?}
 {114}{}{Pronta cosa?}
 {115}{}{Si'. Me pronta.}
-{116}{}{Io... se non fosse per il fatto che il tuo QI e' inferiore alla mia altezza calcolata in piedi, penserei soltanto una cosa: tu mi vuoi fare arrabbiare sul serio. Fa' attenzione. Concentrati. Guardami negli occhi. Sto per farti una domanda.}
+{116}{}{Io... se non fosse per il fatto che il tuo QI e' inferiore alla mia altezza calcolata in piedi, penserei che tu stia cercando di irritarmi. Adesso, silenzio. Fa' attenzione. Concentrati. Guardami negli occhi. Sto per farti una domanda.}
 {117}{}{Andare avanti, su. Chi trattenere te?}
-{118}{}{Le funzioni vitali del mio padrone si sono interrotte. Sei tu la mia nuova padrona?}
+{118}{}{Le funzioni vitali del mio padrone si sono interrotte. E' lei la mia nuova padrona?}
 {119}{}{Uh... cagnolino parla?}
-{120}{}{Okay. Me piace cagnolino.}
+{120}{}{Si'. Me vuole cagnolino.}
 {121}{}{No, grazie.}
 {122}{}{Mi sta bene.}
 {123}{}{No, grazie.}
@@ -27,21 +27,21 @@
 {126}{}{Oh, uno scherzo. Forte... eh eh eh. Dunque... sei tu la mia nuova padrona o no?}
 {127}{}{Okay. Me piace cagnolino.}
 {128}{}{No. No vuole cagnolino.}
-{129}{}{Eccellente. Ho bisogno di essere riparato, padrone. Il mio motivatore e' stato asportato. Lo trovi, lo reinstalli e io la seguiro'.}
+{129}{}{Eccellente. Ho bisogno di essere riparato, padrona. Il mio motivatore e' stato asportato. Lo trovi, lo reinstalli e io la seguiro'.}
 {130}{}{Uh... Dove io trova?}
 {131}{}{Dove potrei trovare questo pezzo, secondo te?}
-{132}{}{Non ne sono sicuro, padrone. Proverei al reparto manutenzione. E' al piano di sopra, nell'angolo nordest della base.}
+{132}{}{Non ne sono sicuro, padrona. Proverei al reparto manutenzione. E' al piano di sopra, nell'angolo nordest della base.}
 {133}{}{Okay. Me va via.}
 {134}{}{Provero' li'. Se non lo trovo, lo cerchero' da qualche altra parte.}
 {135}{}{Allora mi lasci in pace.}
 {136}{}{Okay.}
 {137}{}{Va bene.}
-{138}{}{Bentrovato. Le funzioni vitali del mio padrone si sono interrotte. E' lei il mio nuovo padrone?}
+{138}{}{Salve di nuovo. Le funzioni vitali del mio padrone si sono interrotte. E' lei la mia nuova padrona?}
 {139}{}{Okay.}
 {140}{}{No.}
 {141}{}{Okay.}
 {142}{}{No, grazie.}
-{143}{}{Tu non sei il mio padrone. Non posso parlare con te. Addio.}
+{143}{}{Tu non sei la mia padrona. Non posso parlare con te. Addio.}
 {144}{}{Okay.}
 {145}{}{Salve padrona. Ha trovato il mio motivatore?}
 {146}{}{No, me cerca ancora.}
@@ -52,8 +52,8 @@
 {151}{}{Okay.}
 {152}{}{Allora installi quel componente, padrona! La prego, padrona!}
 {153}{}{Okay. Calma.}
-{154}{}{Adesso sono operativo al 100%, padrone. Posso unirmi a lei?}
-{155}{}{Quello non va li', padrone. E' sicuro di quello che sta facendo?}
+{154}{}{Adesso sono operativo al 100%, padrona. Posso unirmi a lei?}
+{155}{}{Quello non va li', padrona. E' sicura di quello che sta facendo?}
 {156}{}{Okay. Cagnolino venire con me.}
 {157}{}{Me sa cosa fa! Me prova ancora.}
 {158}{}{Si', andiamo.}
@@ -63,7 +63,7 @@
 {162}{}{Non mi piaci. Vattene.}
 {163}{}{Ti terminero'.}
 {164}{}{Puntare armi su bersaglio. Prepararsi a combattere.}
-{165}{}{Tu sarai distrutto.}
+{165}{}{Tu sarai distrutta.}
 {166}{}{Si', padrona?}
 {167}{}{Tu curare te.}
 {168}{}{Tu aspettare qui. Me torna e prende te.}
@@ -83,8 +83,8 @@
 {182}{}{E' tutto, per ora.}
 {183}{}{Tutti i sistemi funzionano a regime massimo, padrona.}
 {184}{}{I miei sistemi funzionano a regime quasi massimo, padrona.}
-{185}{}{Ho effettuato tutte le riparazioni che potevo, padrone, ma avro' bisogno di ulteriore assistenza.}
-{186}{}{Ho effettuato tutte le riparazioni che potevo, padrone, ma il collasso del sistema sara' inevitabile se non mi sara' prestata ulteriore assistenza.}
+{185}{}{Ho effettuato tutte le riparazioni che potevo, padrona, ma avro' bisogno di ulteriore assistenza.}
+{186}{}{Ho effettuato tutte le riparazioni che potevo, padrona, ma il collasso del sistema sara' inevitabile se non mi sara' prestata ulteriore assistenza.}
 {187}{}{Tu aspettare qui. Me torna e prende te.}
 {188}{}{Uh... mettere arma via. Okay?}
 {189}{}{Tu stare vicino.}
@@ -174,8 +174,8 @@
 {273}{}{Non allontanarti troppo.}
 {274}{}{Andiamo.}
 {275}{}{E' tutto, per ora.}
-{276}{}{Mi dispiace, padrone, ma sembra che non ci sia posto per me nel
- tuo gruppo. Aspettero' qui finche' non si liberera' un posto.}
+{276}{}{Mi dispiace, padrona, ma sembra che non ci sia posto per me nel
+ suo gruppo. Aspettero' qui finche' non si liberera' un posto.}
 {277}{}{Come desidera, padrona.}
 {278}{}{Tu curare te.}
 {279}{}{Tu aspettare qui. Me torna e prende te.}
@@ -191,7 +191,7 @@
 {289}{}{Non allontanarti troppo.}
 {290}{}{Dovremmo distanziarci un po'.}
 {291}{}{E' tutto, per ora.}
-{292}{}{Certo. Sembreresti un cane piuttosto carino.}
+{292}{}{Certo. Sembri un cane simpatico.}
 {293}{}{No, grazie.}
 {300}{}{Me triste. Me no puo' riparare.}
 {301}{}{Mi spiace, ma non posso ripararti.}
@@ -202,21 +202,21 @@
 {1000}{}{Si', padrona?}
 {1100}{}{Tutti i sistemi funzionano a regime massimo, padrona.}
 {1200}{}{I miei sistemi funzionano a regime quasi massimo, padrona.}
-{1300}{}{Ho eseguito le riparazioni che potevo, padrone, ma avro' bisogno di
+{1300}{}{Ho eseguito le riparazioni che potevo, padrona, ma avro' bisogno di
 ulteriore assistenza.}
-{1400}{}{Ho effettuato tutte le riparazioni che potevo, padrone, ma il collasso del sistema sara'
+{1400}{}{Ho effettuato tutte le riparazioni che potevo, padrona, ma il collasso del sistema sara'
  inevitabile senza assistenza.}
-{1500}{}{Aspettero' il suo ritorno, padrone.}
-{1600}{}{Vuole che ingoi i miei denti, padrone?}
-{1700}{}{La seguiro' stando al suo fianco, padrone.}
-{1800}{}{Mi muovero' a media distanza, padrone.}
-{1900}{}{Mi muovero' alla massima distanza accettabile, padrone.}
-{2000}{}{Mi dispiace, padrone, ma sembra che non ci sia posto per me nel
- tuo gruppo. Aspettero' qui finche' non si liberera' un posto.}
+{1500}{}{Aspettero' il suo ritorno, padrona.}
+{1600}{}{Vuole che ingoi i miei denti, padrona?}
+{1700}{}{La seguiro' stando al suo fianco, padrona.}
+{1800}{}{Mi muovero' a media distanza, padrona.}
+{1900}{}{Mi muovero' alla massima distanza accettabile, padrona.}
+{2000}{}{Mi dispiace, padrona, ma sembra che non ci sia posto per me nel
+ suo gruppo. Aspettero' qui finche' non si liberera' un posto.}
 {2200}{}{Come desidera, padrona.}
-{2300}{}{Ho il pelo, padrone. Non indosso altro.}
+{2300}{}{Ho il pelo, padrona. Non indosso altro.}
 {2400}{}{Non ho intenzione di rimuovere il mio pelo, padrona.}
 {2500}{}{Denti, padrona. Quelle brillanti cose bianche installate nella mia bocca.}
-{2700}{}{Sei uno stronzo peggiore di Schreber. Non verro' con te.}
-{2800}{}{Molto bene, padrone. Sono ai suoi ordini.}
+{2700}{}{Sei una stronza peggiore di Schreber. Non verro' con te.}
+{2800}{}{Molto bene, padrona. Sono ai suoi ordini.}
 {2900}{}{Sei una cretina. Non ti seguiro' da nessuna parte. Vattene.}

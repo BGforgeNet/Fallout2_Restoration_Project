@@ -1,7 +1,7 @@
 {100}{}{Vedi Cameron, un tuo compagno.}
 {101}{}{Vedi Cameron.}
 {102}{}{Vedi un giovane con dei grossi muscoli e che sembra essere molto sicuro di se'.}
-{103}{}{Bentornato, }
+{103}{}{Salute, }
 {104}{}{. Ho l'onore di essere la tua sfida finale. Per continuare la tua missione dovrai sconfiggermi in un combattimento a mani nude. Possiamo cominciare?}
 {105}{}{Me ha domande.}
 {106}{}{Okay, noi combattere.}
@@ -18,7 +18,7 @@
 {117}{}{Perche' dobbiamo combattere?}
 {118}{}{E' una lotta all'ultimo sangue?}
 {119}{}{Hai detto che dobbiamo combattere senza armi?}
-{120}{}{Combattiamo.}
+{120}{}{Facciamola finita.}
 {121}{}{Mi serve un momento per prepararmi alla lotta.}
 {122}{}{Il cammino del Prescelto non e' un percorso facile da affrontare, }
 {123}{}{. Ti troverai di fronte a innumerevoli sfide durante la tua vita, e le piu' difficili saranno quelle in cui dovrai trattare con i tuoi simili. Ci sara' un momento in cui diplomazia e tatto si dimostreranno inutili e al loro posto dovrai usare la forza del tuo pugno. Quest'ultima prova ti prepara ad affrontare un altro uomo, a guardarlo negli occhi e a sapere che potresti essere costretto ad ucciderlo.}
@@ -52,13 +52,13 @@
 {151}{}{Vorrei visitare nuovamente il Tempio.}
 {152}{}{Ciao, Cameron. Sei pronto per un'altra sfida?}
 {153}{}{Volevo solo salutarti. Ci vediamo.}
-{154}{}{Prendi il sentiero alla mia sinistra, Prescelto. Conduce alla facciata del Tempio. La grotta dietro di me ti condurra' all'ultima stanza.}
+{154}{}{Prendi il sentiero alla mia sinistra, Prescelto. Porta al Tempio vero e proprio. La grotta dietro di me ti condurra' all'ultima stanza.}
 {155}{}{Okay, me va.}
 {156}{}{D'accordo. Grazie.}
-{157}{}{No grazie, Prescelto. Porto ancora i segni dal nostro ultimo scontro e mi serviranno anni per riprendermi!!}
+{157}{}{No, grazie, Prescelto. Porto ancora i segni del nostro ultimo scontro e mi serviranno anni per riprendermi!}
 {158}{}{Ciao ciao, Cameron.}
 {159}{}{Ah! Buona giornata a te, Cameron.}
-{160}{}{Prescelto un cavolo! Sarai tu quello che morira'!}
+{160}{}{Prescelto un cazzo! Sarai tu quello che morira'!}
 {161}{}{Mi hai sconfitto. Tu sei degno, Prescelto.}
 {165}{}{Non sono d'accordo. Penso che una soluzione pacifica sia possibile per ogni tipo di problema.}
 {166}{}{Forse hai ragione, }
@@ -68,7 +68,7 @@
 {170}{}{Hmm... Capisco quello che vuoi dire. Tuttavia dobbiamo combattere lo stesso. Staro' semplicemente attento a non farti troppo male.}
 {171}{}{Grazie! Ci vediamo al villaggio.}
 {172}{}{Capisco.}
-{200}{}{Non mi pare di ricordare il nostro ultimo scontro, Prescelto. Continuero' per sempre a domandarmi come tua abbia fatto a superarmi senza che io me ne accorgessi.}
+{200}{}{Non mi pare di ricordare il nostro ultimo scontro, Prescelto. Continuero' per sempre a domandarmi come tu abbia fatto a superarmi senza che io me ne accorgessi.}
 {201}{}{La tua eloquenza e' senza pari, Prescelto. La tua abilita' con le parole ti aprira' molte porte.}
 {300}{}{E anche a te, Prescelto. Possano gli spiriti guidarti nella tua missione.}
 {301}{}{Grazie, Cameron.}

@@ -1,5 +1,5 @@
 {100}{}{Metabolismo Rapido}
-{101}{}{Il Picchiatore}
+{101}{}{Picchiatore}
 {102}{}{Mingherlino}
 {103}{}{Destro o Mancino}
 {104}{}{Finezza}
@@ -24,7 +24,7 @@
 {207}{}{Non hai tempo per prendere bene la mira, dato che attacchi piu' velocemente rispetto alle persone normali. Ti serve un Punto Azione in meno per pistole e armi da lancio.}
 {208}{}{Per uno strano scherzo del destino, la gente intorno a te muore violentemente. Vedi sempre il modo peggiore in cui una persona puo' morire.}
 {209}{}{La cosa positiva e' che tutti intorno a te subiscono un maggior numero di fallimenti critici, la cosa negativa e' che lo stesso succede a te!}
-{210}{}{Crescendo, hai migliorato le tua abilita' non legate alla lotta. Le tue abilita' di lotta partono da un livello piu' basso, ma Pronto Soccorso, Dottore, Dialogare e Barattare sono aumentate sostanzialmente.}
+{210}{}{Crescendo, hai migliorato le tue abilita' non legate alla lotta. Le tue abilita' di lotta partono da un livello piu' basso, ma Pronto Soccorso, Dottore, Dialogare e Barattare sono aumentate sostanzialmente.}
 {211}{}{Sei piu' facilmente influenzabile dalle droghe. La tua possibilita' di sviluppare dipendenza e' doppia rispetto alla norma, ma ti riprendi piu' velocemente dai loro effetti infausti.}
 {212}{}{Le droghe hanno effetto su di te solo per meta' tempo, ma anche le possibilita' di diventare dipendente sono solo il 50% del normale.}
 {213}{}{Sei dotato di quel "qualcosa" in piu'. I membri dell'altro sesso sono attratti da te, ma quelli del tuo stesso sesso tendono a diventare gelosi.}

@@ -1,4 +1,4 @@
-{100}{}{Apri il cassetto e trovi file e appunti ordinati in fila.}
+{100}{}{Apri il cassettone e trovi fascicoli e appunti ordinati in fila.}
 {101}{}{Cerca nel cassettone.}
 {102}{}{Te ne vai.}
 {103}{}{Mentre cerchi tra i documenti nel cassetto, noti una sottile valigetta di pelle nascosta con cura in fondo.}

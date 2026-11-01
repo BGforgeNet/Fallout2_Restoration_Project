@@ -7,10 +7,10 @@
 {106}{}{La cosa migliore dell'essere nomadi e' il dover rendere conto solo a se stessi.}
 {107}{}{Infatti, preferirei morire piuttosto che rendere conto di qualcosa a te.}
 {108}{}{Nessuno controlla la mia vita! Io sono il re di me stesso!}
-{109}{}{Io sono il mio capo.}
-{110}{}{Sono unica! Proprio come chiunque altro!}
+{109}{}{Sono il padrone di me stesso.}
+{110}{}{Sono unico! Proprio come chiunque altro!}
 {111}{}{A volte questo cinismo disilluso mi annoia.}
-{112}{}{La prossima volta spero di imbattermi in una tribu' di barbari.}
+{112}{}{La prossima volta voglio trovare una tribu' di dark.}
 {113}{}{Ho visto Selmy e Barro fatti a pezzi, al piano di sotto.}
 {114}{}{Ho sentito che l'Imperatore Shi e' dotato di un'intelligenza disumana.}
 {115}{}{Questi Shi hanno davvero un aspetto buffo.}
@@ -18,11 +18,11 @@
 {117}{}{Ti daro' la mia ragazza se tu mi dai la tua.}
 {118}{}{Ma tu guarda tutti questi nuovi punk... che buffoni.}
 {119}{}{AHS-9 ci ha imbrogliato e fara' lo stesso con te se non stai attento.}
-{120}{}{Un agnello. Tu non sei altro che un agnello sacrificale.}
+{120}{}{Pecora. Non sei altro che una pecora assassina.}
 {121}{}{Di' a quegli Hubologisti bastardi che non ci arrenderemo mai.}
-{122}{}{Non sono mai stato all'Hub.}
+{122}{}{Non passero' mai dalla parte dell'Hub.}
 {123}{}{Spero tu sia fiero di te.}
-{124}{}{Non si rendono conto che l'uccisione del nostro "leader" non ci spingera' a seguire i loro?}
+{124}{}{Non si rendono conto che l'uccisione del nostro "leader" non ci spingera' a seguire il loro?}
 {125}{}{Sei uno stronzo.}
 {126}{}{Beee! Beee!}
 {127}{}{Allora com'e' stato, prenderlo da un mutante?}
@@ -41,13 +41,13 @@
 {140}{}{Ehi, guardate! E' quel coglione egoista!}
 {141}{}{Come se qualcuno avesse voglia di parlare con te.}
 {142}{}{Nemico di Chip!}
-{143}{}{Posso fare qualcosa per te? Che peccato!}
+{143}{}{Ti serve qualcosa? Peggio per te!}
 {144}{}{Non parlarmi.}
 {145}{}{E' stato gentile da parte tua cercare di recuperare la milza di Chip.}
 {146}{}{Almeno ci hai provato.}
 {147}{}{Povero Chip.}
 {148}{}{E' un vero peccato quel che e' successo al vecchio Chippie.}
-{149}{}{Chip diventa sempre piu' debole...}
+{149}{}{Chip diventa sempre piu' debole. Che peccato.}
 {150}{}{Ben fatto con quella milza!}
 {151}{}{Wow... un eroe E un trova-milze.}
 {152}{}{Non sapevo che le milze le costruissero.}
@@ -58,7 +58,7 @@
 {157}{}{Adesso Badger sara' un po' piu' sopportabile.}
 {158}{}{Suze mi e' sempre piaciuta. Sono felice che non sia morta.}
 {159}{}{Chissa' se Suze fara' la bambinaia per i miei bambini?}
-{160}{}{Uccidere i mostri, salvare le ragazze... c'e' qualche azione eroica che non sai fare?}
+{160}{}{Uccidere i mostri, salvare la ragazza... c'e' qualche stronzata da eroe che non fai?}
 {161}{}{Potresti salvare anche la mia fidanzata? Ah ah!}
 {162}{}{Magari Badger verra' a letto con te per ringraziarti di aver salvato la sua fidanzata.}
 {163}{}{Scommetto che adesso Badger e' davvero contento.}
@@ -71,12 +71,12 @@
 {170}{}{Cavoli... miglioreranno mai le cose?}
 {171}{}{E' pericoloso laggiu'!}
 {172}{}{Cavoli... perche' e' scesa la' sotto?}
-{173}{}{Dovevamo sigillare la stiva.}
-{174}{}{Abbandonare la nave.}
+{173}{}{Dovremmo sigillare la stiva.}
+{174}{}{Scendiamo da questa nave.}
 {175}{}{Hai intenzione di portare la petroliera verso ovest?}
 {176}{}{Credo sia quasi giunto il momento di abbandonare la nave.}
 {177}{}{Sono quasi pronto a partire.}
-{178}{}{Ho gia' ammucchiato tutta la mia roba.}
+{178}{}{Ho gia' impacchettato tutta la mia roba.}
 {179}{}{Non credo di voler andare verso ovest.}
 {180}{}{}
 {181}{}{}
@@ -91,5 +91,5 @@
 {190}{}{Adesso non sentiro' mai il suo gruppo suonare!}
 {191}{}{Stupidi assassini... far fuori Badger... che cosa stupida.}
 {192}{}{Adesso sono colmo d'odio.}
-{193}{}{Chiedo vendetta per Badger!}
+{193}{}{Voglio vendetta per Badger!}
 {194}{}{Senza Badger, la vita sembra senza senso.}

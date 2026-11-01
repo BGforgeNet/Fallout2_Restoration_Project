@@ -1,4 +1,4 @@
-{100}{}{Sembra un guardia di qualche tipo.}
+{100}{}{Sembra una guardia di qualche tipo.}
 {101}{}{Vedi un Protettore.}
 {150}{}{Se si escludono il colorito pallido e le pupille dilatate, sembra una persona normale.}
 {200}{}{Oh, merda!}
@@ -11,7 +11,7 @@
 {215}{}{Ahahahah!}
 {220}{}{Abbiamo l'ordine di portare tutti i "Superficiali" da Vegeir. Non ti sara' fatto alcun male. Per favore, vieni con noi.}
 {221}{}{Andate all'inferno, non andro' da nessuna parte con voi.}
-{222}{}{Vorrei farvi alcune domande.}
+{222}{}{Vorrei farti alcune domande.}
 {223}{}{Duh?}
 {224}{}{Lascia che riformuli la mia frase precedente. Non ti sara' fatto alcun male A MENO CHE tu non opponga resistenza. Stai opponendo resistenza?}
 {225}{}{Si', vi resistero' assolutamente.}

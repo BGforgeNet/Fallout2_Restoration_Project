@@ -3,19 +3,19 @@
 {150}{}{Vedi un uomo anziano. Sembra contrariato e sta rimuginando tra se' e se'.}
 {151}{}{Vedi il vecchio McGee. Sembra contrariato e sta rimuginando tra se' e se'.}
 {200}{}{Brutto figlio d'un cane! Mi hai fregato tutta la fortuna!}
-{201}{}{Ti ammazzo! Prendi questo, brigante!}
+{201}{}{Ti ammazzo! Prendi questo, predone!}
 {202}{}{Credi che non c'abbia il fegato, poppante? Fatti sotto!}
 {203}{}{Cane e figlio d'un cane!}
 {204}{}{Ti faccio sputare tutti i denti, poi te li risbatto dentro e poi te li faccio sputare di nuovo fuori a calci.}
-{205}{}{Credi di poter battare il vecchio McGee, poppante?}
+{205}{}{Credi di poter battere il vecchio McGee, poppante?}
 {206}{}{Ti ho inquadrato, piccolo succhiacazzi.}
 {207}{}{Ti faccio sputare tutto il sangue che hai in corpo.}
 {208}{}{Vuoi sfidarmi, eh? Te la faccio vedere io.}
 {209}{}{Ti faccio sparire quel sorrisetto scemo dalla faccia.}
-{210}{}{Ti abbatto e ti macello come un brahmin.}
+{210}{}{Ti castro come un brahmin.}
 {225}{}{Brutta figlia di sultana! Mi hai fregato tutta la fortuna!}
 {226}{}{Ti ho inquadrata, troietta.}
-{227}{}{Non credi che sia in grado di mollarti un pugno, ragazza?}
+{227}{}{Hai voglia di assaggiare il mio pugno, ragazzina?}
 {228}{}{Adesso te la faccio vedere io, ragazzina.}
 {235}{}{Dannatissimo pezzo di merda di brahmin!}
 {236}{}{Dannata macchinetta mangiasoldi! Deciditi a pagare il vecchio McGee!}
@@ -23,7 +23,7 @@
 {238}{}{Il banco ha vinto ancora!}
 {239}{}{Su, ragazza, fa' la brava con il vecchio McGee...}
 {240}{}{Dammi un po' d'amore, tesoro.}
-{241}{}{Ti sto chiedendo solo un piccolo favore, su!}
+{241}{}{Ti ho chiesto la vincita, su, dai!}
 {242}{}{Solo un'altra giocata...}
 {243}{}{Riavro' tutte le mie monete, dovesse volerci anche un anno intero...}
 {244}{}{Che ti venga lo scorbuto, dannata macchinetta mangiasoldi!}
@@ -36,28 +36,28 @@
 {260}{}{Diamine! Di nuovo senza un soldo!}
 {261}{}{Il banco ha vinto ancora!}
 {262}{}{Devo prendere qualche moneta...}
-{263}{}{Dannata macchinetta! Continui a fregarti tutti i miei soldi...}
+{263}{}{Dannata macchinetta! Continui a fregarmi tutti i soldi...}
 {270}{}{Ti devo le mie scuse. Ti auguro la miglior fortuna.}
 {271}{}{Scusa se ho perso le staffe. Il sole del deserto ti fa dire cose terribili.}
 {272}{}{::Fa il gesto di alzare il cappello::}
 {275}{}{}
 {276}{}{}
-{277}{}{Tu! Tu sei quello che si e' beccato il jackpot della MIA slot! Quella con cui ho giocato per cinque... dannatissimi.. anni e da cui non ho cavato mai neanche una moneta!}
+{277}{}{Tu! Tu sei quello che si e' beccato il jackpot della MIA slot! Quella con cui ho giocato per cinque... dannatissimi... anni e da cui non ho cavato mai neanche una moneta!}
 {278}{}{Ernnhh?}
 {279}{}{Ehi, aspetta un --}
 {285}{}{Ci ho versato tutti i risparmi di una vita, in quella puttana con un braccio solo. E mai una volta che mi abbia dato soddisfazione. Poi arrivi TU e ti prendi tutto quanto! }
 {286}{}{Ti ho inquadrato, piccolo succhiacazzi!}
 {287}{}{Ti ho inquadrata, puttanella da quattro soldi!}
 {288}{}{Hunh? Picolo sucazzi? Me GRANDE sucazzi}
-{289}{}{Hunh? Dove soldi? Me piace brilluccicosi}
+{289}{}{Hunh? Dove puttanella? Me avere quattro soldi}
 {290}{}{Me no sucazzi. Me }
 {291}{}{Me no putella. Me }
 {292}{}{Calmati, McGee. Perche' non ne parliamo da persone civili?}
 {293}{}{Calma, calma. Perche' non ne parliamo da persone civili?}
 {294}{}{Ehi, ho vinto i soldi in maniera onesta.}
 {295}{}{Aspetta un attimo. E se ti dessi i soldi che ho vinto?}
-{296}{}{Succhiacazzi? SUCCHIACAZZI?! Nonno, spero per te che tu conosca uno bravo con i puzzle, perche' dopo che avro' finito te ne servira' uno per rimetterti insieme la faccia.}
-{297}{}{Puttana? PUTTANA? Nonno, spero per te che tu conosca uno bravo con i puzzle, perche' dopo che avro' finito te ne servira' uno per rimetterti insieme la faccia.}
+{296}{}{Succhiacazzi? SUCCHIACAZZI?! Nonno, ti servira' un chirurgo per toglierti il mio stivale dal culo.}
+{297}{}{Puttana? PUTTANA? Nonno, ti servira' un chirurgo per toglierti il mio stivale dal culo.}
 {298}{}{Vabbe'. Me ne vado.}
 {305}{}{Parlare?! PARLARE?! Di cosa DIAVOLO dovremmo parlare, delinquente che non sei altro!}
 {307}{}{Ascolta, vecchio: ho vinto i soldi in maniera onesta. Non ti sta bene? Affaracci TUOI.}
@@ -75,7 +75,7 @@
 {335}{}{Cosa? (Sbatte le palpebre, incredulo) Mi stai dicendo che vorresti ridarmi i miei soldi? Tutte le 500 monete?}
 {336}{}{Ehm, che ne diresti di 250?}
 {337}{}{Certo. Tutte le 500 monete. Ecco qua.}
-{338}{}{Si', ma... non subito. Adesso on ho abbastanza denaro con me.}
+{338}{}{Si', ma... non subito. Adesso non ho abbastanza denaro con me.}
 {339}{}{Scordatelo. Me ne vado.}
 {345}{}{}
 {346}{}{}
@@ -108,7 +108,7 @@
 {397}{}{Niente. Scusa il disturbo.}
 {405}{}{(Una serie di simboli girano nelle finestrelle della slot machine. Quando si fermano tutti, si sente un *bzzzzzzt*) DIAVOLO! Cocciuta macchinetta! Ma sono sicuro che la prossima volta mi riprendero' tutto indietro...}
 {407}{}{ va adesso! Ci-iiaoo}
-{409}{}{Ehm... da quanto tempo stai andando avanti?}
+{409}{}{Ehm... da quanto tempo giochi a questa macchinetta?}
 {410}{}{Come non detto. Scusa il disturbo.}
 {415}{}{}
 {416}{}{}

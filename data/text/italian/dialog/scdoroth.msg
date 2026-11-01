@@ -26,8 +26,8 @@
 {125}{}{Semplice abilita' manuale, ecco tutto.}
 {126}{}{Ho capito. Tu sei uno di quei tipi un po' stupidi - come si chiamano...? Idioti sapienti. Beh, senti, idiota o no, ti meriti una ricompensa. RI-COM-PEN-SA - tu. Ti do dei bei libri. Vedi? Prendi soldi. Bene... immagino tu non sappia leggere.}
 {127}{}{Guarda, non e' molto, ma ho qualche libro - vecchi manuali tecnici. Sono tuoi. Prendili.}
-{128}{}{Ehi, guarda, Toto. E' lo straniero che ci ha aiutati. Grazie ancora, mister.}
-{129}{}{Merda! La griglia e' completamente andata. Ci vorra' un sacco di tempo per ripararla. Non perdiamoci in chiacchiere. Vieni, Toto.}
+{128}{}{Ehi, guarda, Toto. E' lo straniero che ci ha aiutati. Grazie ancora, signore.}
+{129}{}{Merda! La rete elettrica e' completamente andata. Ci vorra' un sacco di tempo per ripararla. Non perdiamoci in chiacchiere. Vieni, Toto.}
 {130}{}{Senti, non do la colpa a te di quello che e' successo, ma non sono proprio dell'umore giusto per chiacchierare.}
 {131}{}{L'hai ucciso! Voglio dire: dovevi proprio ucciderlo? Non c'era un altro modo?}
 {132}{}{Si'.}
@@ -36,15 +36,15 @@
 {135}{}{E' terribile. Mi domando cosa l'abbia spinto a farlo. La citta' ti deve dei ringraziamenti. Guarda, non e' molto, ma ecco alcuni manuali che avevo da parte. Magari puoi venderli.}
 {136}{}{Non parlarmi, sporco assassino.}
 {137}{}{Non posso fermarmi a chiacchierare, straniero. Il mio nome e' Dorothy, meccanico cittadino e questo e' Toto. Devo scappare.}
-{138}{}{Non hai un modulatore ad Illudium Q-38, vero? Come immaginavo...}
-{139}{}{Sei riuscito a convincerlo? Incredibile! La citta' ti deve davvero molto, mister. Guarda, non e' molto, ma ecco alcuni manuali che avevo da parte. Magari puoi venderli.}
+{138}{}{Non hai un modulatore spaziale all'Illudium Q-38, vero? Come immaginavo...}
+{139}{}{Sei riuscito a convincerlo? Incredibile! La citta' ti deve davvero molto, signore. Guarda, non e' molto, ma ecco alcuni manuali che avevo da parte. Magari puoi venderli.}
 {140}{}{Volevo solo farti sapere che sono ancora impressionata per quello che hai fatto con Jack. Io e Toto dobbiamo scappare adesso. Ciao!}
 {141}{}{Merda! Ho solo un consiglio da darti: SCAPPA!}
-{142}{}{Ehi, guarda, Toto. E' la straniera che ci ha aiutato. Grazie ancora, miss.}
-{143}{}{Sei riuscita a convincerlo? Incredibile! La citta' ti deve davvero molto, miss. Guarda, non e' molto, ma ecco alcuni manuali che avevo da parte. Magari puoi venderli.}
+{142}{}{Ehi, guarda, Toto. E' la straniera che ci ha aiutato. Grazie ancora, signorina.}
+{143}{}{Sei riuscita a convincerlo? Incredibile! La citta' ti deve davvero molto, sorella. Guarda, non e' molto, ma ecco alcuni manuali che avevo da parte. Magari puoi venderli.}
 {144}{}{Non perdere tempo! Fa sul serio.}
 {145}{}{Devi fare qualcosa! Subito!}
 {146}{}{Non startene li' impalato -- fermalo!}
 {147}{}{Fuori di qui, sacco di merda di brahmin.}
 {148}{}{Non parlare con me, codardo.}
-{149}{}{Sei una persona inutile!?}
+{149}{}{A cosa servi!?}

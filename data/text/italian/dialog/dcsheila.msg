@@ -36,12 +36,12 @@
 {186}{}{Sei stato incredibile!}
 {187}{}{Come sempre, baby.}
 {188}{}{Vabbe'.}
-{189}{}{Anche tu lo sei stata.}
+{189}{}{Anche tu.}
 {190}{}{Me commestibile!}
 {191}{}{Sei stato grande!}
 {192}{}{Grazie. Anche tu.}
 {193}{}{Hmm.}
-{194}{}{Yeah.}
+{194}{}{Gia'.}
 {195}{}{Grande!}
 {196}{}{OK, abbiamo finito. Ciao.}
 {197}{}{Tutto qui?}
@@ -51,17 +51,17 @@
 {201}{}{Non mi pagano abbastanza.}
 {202}{}{Non che tu li valga, quei soldi.}
 {203}{}{Mi mancherai.}
-{204}{}{Addio.}
+{204}{}{Ciao.}
 {205}{}{Ti sei perso?}
 {206}{}{Torna quando vuoi.}
-{207}{}{OK. ciao.}
-{208}{}{Yeah, certo.}
+{207}{}{OK. Ciao.}
+{208}{}{Si', certo.}
 {209}{}{Whoo!}
 {210}{}{Ci vediamo.}
-{211}{}{Addio.}
+{211}{}{Ciao.}
 {212}{}{Ciao ciao.}
-{213}{}{Una 'seduta' ti costera' $}
-{214}{}{ per una prestazione. Paga prima.}
+{213}{}{Ti costera' }
+{214}{}{$ per una prestazione. Paga prima.}
 {215}{}{Seguimi.}
 {216}{}{Sto aspettando.}
 {217}{}{Non staro' qui in questa stanza gelida per tutto il giorno.}

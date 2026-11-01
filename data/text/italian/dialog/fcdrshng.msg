@@ -1,39 +1,39 @@
 {100}{}{Vedi uno scienziato Shi dall'aspetto folle.}
 {101}{}{Vedi il Dr. Sheng.}
-{200}{}{[Vedi uno scienziato Shi con una barba rada e uno sguardo folle. Capelli e vestiti sono in disordine e sembra non dormire da giorni.] Ah! Si! Si, ti stavo aspettando. Mi hanno detto che saresti arrivato. [Ti squadra dalla testa ai piedi.] Si, sei perfetto.}
+{200}{}{[Vedi uno scienziato Shi con una barba rada e uno sguardo folle. Capelli e vestiti sono in disordine e sembra non dormire da giorni.] Ah! Si'! Si', ti stavo aspettando. Mi avevano avvisato del tuo arrivo. [Ti squadra dalla testa ai piedi.] Si', fai proprio al caso mio.}
 {201}{}{Non discuto, ma cosa diavolo sta succedendo qui?}
 {202}{}{Devi essere il dottor Sheng. Il dottor Wong mi ha detto dove trovarti. Gli Shi pensavano fossi morto.}
 {203}{}{Prima di tutto, cosa sono queste creature?}
-{204}{}{Perfetto per cosa, esattamente?}
+{204}{}{Al caso tuo per cosa, esattamente?}
 {205}{}{Chi ti ha detto che stavo arrivando?}
 {210}{}{Scienza! Cos'altro? Io sono il dottor Sheng e queste creature sono le mie creazioni. Belle, non trovi?}
 {211}{}{Uh, si'... Ma, cosa sono?}
 {212}{}{A dire il vero le trovo piuttosto ripugnanti. Da conati, davvero. E quell'odore, dolciastro e marcio allo stesso tempo, come sciroppo fatto con liquami di cadavere. Che cosa sono queste cose?}
-{220}{}{Ha! Il dottor Wong spera che io sia morto. Oh no, sto meglio che mai. E le cose miglioreranno ancora, se sei disposto ad aiutarmi.}
+{220}{}{Ha! Il dottor Wong spera che io sia morto. Oh no, sto meglio che mai. E le cose miglioreranno ancora, se vuoi aiutarmi.}
 {221}{}{Aiutarti in cosa?}
 {222}{}{Aspetta. Prima di accettare di aiutarti, dimmi che cosa sono queste creature.}
 {230}{}{Sono il futuro! Una nuova razza di forme di vita vegetali senzienti, create da me. Ho finalmente avuto successo nel sintetizzare la mia nuova vita vegetale con cadaveri umani freschi! Come puoi vedere, questo dona alle piante capacita' sensoriali, motorie e vocali che altrimenti non avrebbero. E conferisce loro un aspetto umanoide che permettera' una piu' facile assimilazione nella nostra cultura.}
 {231}{}{E dove trovi questi "cadaveri umani freschi"? }
 {232}{}{Assimilarsi nella nostra cultura? Buona fortuna. I ghoul e i mutanti a malapena ci riescono, e loro sono stati umani, almeno un tempo. Queste cose sono abomini.}
-{233}{}{A dire il vero ho incontrato una pianta di spore che parlava senza essere stata fusa con un corpo umano.}
+{233}{}{A dire il vero ho incontrato una pianta sporigena che parlava senza essere stata fusa con un corpo umano.}
 {234}{}{Incredibile. Da collega amante della scienza, devo sapere come sia stato possibile.}
-{240}{}{Perfetto per il compito che ho in mente. Vedi, non tutte le mie creature sperimentali hanno avuto successo come questi esemplari. La maggior parte finisce per essere bestie violente e senza cervello. Tengo questi fallimenti rinchiusi in un recinto nel mio laboratorio, ma di recente sono fuggiti. Sono riuscito a uscire e chiudere la porta prima che qualcuno scappasse nelle Lande, ma ora non posso piu' tornare nel mio laboratorio.}
-{241}{}{"Cosa vuoi che faccia?"}
-{250}{}{Le mie creazioni, naturalmente. Sono sempre vigili sulle Lande. C'e' molto di cui diffidare la fuori, come saprai bene. Quando mi hanno avvisato del tuo arrivo, ho detto loro di portarti da me, perche' credo tu possa aiutarmi.}
+{240}{}{Per il compito che ho in mente. Vedi, non tutte le mie creature sperimentali hanno avuto successo come questi esemplari. La maggior parte finisce per essere bestie violente e senza cervello. Tengo questi fallimenti rinchiusi in un recinto nel mio laboratorio, ma di recente sono fuggiti. Sono riuscito a uscire e chiudere la porta prima che qualcuno scappasse nelle Lande, ma ora non posso piu' tornare nel mio laboratorio.}
+{241}{}{E cosa vuoi che ci faccia?}
+{250}{}{Le mie creazioni, naturalmente. Sono sempre vigili sulle Lande. C'e' molto di cui diffidare la' fuori, come saprai bene. Quando mi hanno avvisato del tuo arrivo, ho detto loro di portarti da me, perche' credo tu possa aiutarmi.}
 {251}{}{Aiutarti in cosa?}
 {252}{}{Prima di accettare di aiutarti, dimmi che cosa sono queste creature.}
-{260}{}{Oh, per lo piu' da predoni che hanno la pessima idea di attaccarci. Ma basta con questo. Devo sapere se sei disposto ad aiutarmi.}
+{260}{}{Oh, per lo piu' da predoni che hanno la pessima idea di attaccarci. Ma basta con questo. Devo sapere se vuoi aiutarmi.}
 {261}{}{Aiutarti in cosa?}
 {270}{}{Vedi, non tutte le mie creature sperimentali hanno avuto successo come questi esemplari. La maggior parte diventa bestie violente e senza cervello. Tengo questi fallimenti rinchiusi in un recinto nel mio laboratorio, ma di recente sono fuggiti. Sono riuscito a uscire e chiudere la porta prima che qualcuno scappasse nelle Lande, ma ora non posso piu' tornare al laboratorio.}
-{271}{}{"Cosa vuoi che faccia?"}
-{280}{}{Come ti senti riguardo al mio lavoro non mi interessa. Ora saro' diretto. Ho un compito per cui sembri qualificato. Una volta completato, verrai ricompensato. Sei interessato?}
+{271}{}{E cosa vuoi che ci faccia?}
+{280}{}{Come ti senti riguardo al mio lavoro non mi interessa. Ora saro' diretto. Ho un compito che sembra fare per te. Una volta completato, avrai la tua ricompensa. Ti interessa?}
 {281}{}{Sono tutto orecchi.}
 {282}{}{Non voglio avere niente a che fare con te o con le tue disgustose creature.}
-{290}{}{Eccellente! Consegnameli, e verrai ricompensato.}
+{290}{}{Eccellente! Consegnameli, e avrai la tua ricompensa.}
 {291}{}{Certo, non e' che ne abbia molto uso. Eccoli.}
-{292}{}{No. Mi sono affezionato a quei cosetti. Credo che li terro'. Magari ci faccio un giardino o qualcosa del genere.}
+{292}{}{No. Ormai voglio bene a quei cosetti. Credo che li terro'. Magari ci faccio un giardino o qualcosa del genere.}
 {293}{}{Non li ho con me ma andro' a vedere se riesco a trovarli.}
-{294}{}{Non li ho con me, e anche se li avessi non te li darei. Non voglio avere nulla a che fare con te o con i tuoi zombie?vegetali.}
+{294}{}{Non li ho con me, e anche se li avessi non te li darei. Non voglio avere nulla a che fare con te o con i tuoi zombie-vegetali.}
 {300}{}{La struttura e' conosciuta come EPA. L'ho segnata sul tuo dispositivo di mappatura. Per favore, vai li' e prova a trovare dei semi. E non semi qualunque: devono essere unici.}
 {301}{}{Ah, sembra che tu conosca gia' la posizione dell'EPA. Per favore, vai li' e prova a trovare dei semi. E non semi qualunque: devono essere unici.}
 {302}{}{Tornero'.}
@@ -41,10 +41,10 @@
 {310}{}{[I suoi occhi si accendono di rabbia] Uccidetelo, miei figli! Il suo corpo sara' un ottimo ospite per il vostro nuovo fratellino!}
 {311}{}{[I suoi occhi si accendono di rabbia] Uccidetela, miei figli! Il suo corpo sara' un ottimo ospite per il vostro nuovo fratellino!}
 {312}{}{[FATTO]}
-{320}{}{Eccellente! Ora preparero' la tua ricompensa. Mettiti comodo. Potrebbe volerci un po'.}
+{320}{}{Eccellente! Ora preparero' la tua ricompensa. Mettiti a tuo agio. Potrebbe volerci un po'.}
 {321}{}{[CONTINUA]}
 {322}{}{Tieniti la ricompensa. Non ho tempo da perdere ad aspettare.}
-{330}{}{Si, porta i semi a me e potrai riscuotere la tua ricompensa}
+{330}{}{Si', portami i semi e potrai riscuotere la tua ricompensa.}
 {331}{}{Tornero'.}
 {340}{}{Darti la posizione della struttura e' gia' una ricompensa di per se', visto che sara' piena di provviste utili. Puoi ovviamente tenere tutto cio' che trovi. A me interessano solo campioni di semi unici. Una volta che me li avrai portati, ti daro' un dono da presentare agli Shi.}
 {341}{}{D'accordo, lo faro'. Tornero'.}
@@ -57,7 +57,7 @@
 {362}{}{[FATTO]}
 {370}{}{[Il dottore se ne va. Dopo circa un'ora ritorna e ti consegna un singolo seme.] Questo campione vegetale e' il mio dono agli Shi. Cambiera' tutto. Ti do l'onore di presentarlo al dottor Wong.}
 {371}{}{Cosa ha di speciale questo campione di pianta?}
-{372}{}{Tutto qui? Sono andato a prenderti quei dannati semi e questa e' la ricompensa? Un altro seme? Al diavolo te e i tuoi inquietanti zombie?vegetali. Credo che faro' un favore al mondo mettendo fine a questa tua operazione morbosa.}
+{372}{}{Tutto qui? Ti ho procurato quei dannati semi e questa e' la ricompensa? Un altro seme? Vaffanculo tu e i tuoi inquietanti zombie-vegetali. Credo che faro' un favore al mondo mettendo fine a questa tua operazione morbosa.}
 {380}{}{Gli Shi hanno tentato di creare vita vegetale resistente alle radiazioni. Io ero a capo del progetto, ma durante le mie ricerche ho fatto una scoperta che mi ha portato su un'altra strada. Ho creato un siero di senzienza vegetale, ma dopo alcuni... spiacevoli incidenti, gli Shi volevano chiudere il progetto. Cosi' me ne sono andato per continuare il mio lavoro senza ostacoli.}
 {381}{}{Okay. E questo campione vegetale cosa c'entra con tutto cio'?}
 {382}{}{Continua...}
@@ -65,16 +65,16 @@
 {391}{}{Allora, perche' questo cambiamento di idea?}
 {392}{}{Va bene. Lo consegnero' al dottor Wong.}
 {393}{}{Lo portero' al dottor Wrong. Ma se non mi dara' una ricompensa adeguata, ci rivedremo.}
-{394}{}{Tieniti pure il campione. Sono sicuro che il dottor Wong e gli altri scienziati Shi sapranno cavarsela senza il tuo aiuto. Ho finito di farti favori.}
+{394}{}{Tieniti pure il campione. Di sicuro il dottor Wong e gli altri scienziati Shi sapranno cavarsela senza il tuo aiuto. Ho finito di farti favori.}
 {400}{}{Non ho cambiato idea. Oltre a essere resistente alle radiazioni, il campione vegetale e' infuso con il mio siero di senzienza. Come un padre orgoglioso, desidero solo vedere la mia creazione prosperare. Consegnalo per me, e riceverai una vera ricompensa.}
 {401}{}{Va bene. Lo consegnero' al dottor Wong.}
 {402}{}{No. Tieniti pure il campione. Ho finito di aiutarti.}
 {403}{}{Il dottor Wong sembra un tipo furbo. Pensi davvero che si fiderebbe di un campione vegetale proveniente da te?}
-{410}{}{Mi e' giunta voce che esista una vecchia struttura del governo degli Stati Uniti dove si possono ottenere semi vegetali unici, non toccati dalle radiazioni. La struttura e' troppo lontana perche' possa andarci di persona, ma credo sarebbe un compito semplice per un wastelander esperto come te.}
-{411}{}{Oh, stai parlando di quei semi strani dell'EPA. Ci sono stato, li ho presi.}
-{412}{}{Sono sempre pronto a esplorare vecchie rovine. Dammi la posizione e andro' a vedere cosa riesco a trovare.}
+{410}{}{Mi e' giunta voce che esista una vecchia struttura del governo degli Stati Uniti dove si possono ottenere semi vegetali unici, non toccati dalle radiazioni. La struttura e' troppo lontana perche' possa andarci di persona, ma credo sarebbe un compito semplice per chi conosce le Lande come te.}
+{411}{}{Oh, stai parlando di quei semi strani dell'EPA. L'ho gia' visitata, li ho presi.}
+{412}{}{Esplorare vecchie rovine mi piace sempre. Dammi la posizione e andro' a vedere cosa riesco a trovare.}
 {413}{}{E io cosa ci guadagno?}
-{420}{}{Si, il dottor Wong e' un ostacolo. Se venisse tolto di mezzo, le cose andrebbero molto piu' lisce. Dai il campione al dottor Wong. Anche se non si fida di me, la curiosita' avra' la meglio e lo accettera'. Una volta che il campione sara' stato messo al sicuro, trova un modo per eliminare il dottor Wong senza allertare gli altri Shi. Magari una sorta di overdose. Fallo, e faro' in modo che la tua ricompensa sia triplicata.}
+{420}{}{Si', il dottor Wong e' un ostacolo. Se venisse tolto di mezzo, le cose andrebbero molto piu' lisce. Dai il campione al dottor Wong. Anche se non si fida di me, la curiosita' avra' la meglio e lo accettera'. Una volta che il campione sara' stato messo al sicuro, trova un modo per eliminare il dottor Wong senza allertare gli altri Shi. Magari una sorta di overdose. Fallo, e faro' in modo che la tua ricompensa sia triplicata.}
 {421}{}{Vedro' di fare il possibile.}
 {422}{}{Se vuoi che elimini Wong, dovrai darmi qualcosa in anticipo.}
 {423}{}{Sai, sta diventando tutto un po' troppo complicato. Credo che preferirei fare a pezzi te e poi fare a pezzi gli Shi.}
@@ -88,21 +88,21 @@
 {444}{}{Il tuo metodo di vendetta non era abbastanza diretto per i miei gusti, quindi ho ucciso tutti io per te.}
 {445}{}{Il dottor Wong e' morto.}
 {446}{}{Ho consegnato il campione agli Shi e ho detto al dottor Wong quali erano le tue intenzioni. Ha distrutto il campione immediatamente.}
-{450}{}{Impossibile! Una pianta di spore non puo' parlare, indipendentemente dalla sua intelligenza. O stai scherzando, oppure eri sotto l'effetto di qualche allucinazione indotta da droghe. A giudicare dal tuo aspetto, direi la seconda. Ma basta con queste sciocchezze. Devo sapere se sei disposto ad aiutarmi.}
-{451}{}{Si, immagino che *suoni* piuttosto assurdo. Comunque, con cosa volevi che ti aiutassi?}
-{452}{}{Non cambiare argomento — stavo dicendo la verita'! Lo giuro sul Vault Dweller, si chiamava Seymour e sapeva parlare. Voleva che lo ripiantassi in un posto migliore. Non me lo sto inventando e non stavo allucinando.}
+{450}{}{Impossibile! Una pianta sporigena non puo' parlare, indipendentemente dalla sua intelligenza. O stai scherzando, oppure eri sotto l'effetto di qualche allucinazione indotta da droghe. A giudicare dal tuo aspetto, direi la seconda. Ma basta con queste sciocchezze. Devo sapere se vuoi aiutarmi.}
+{451}{}{Si', immagino che *suoni* piuttosto assurdo. Comunque, con cosa volevi che ti aiutassi?}
+{452}{}{Non cambiare argomento -- stavo dicendo la verita'! Lo giuro sull'Abitante del Vault, si chiamava Seymour e sapeva parlare. Voleva che lo ripiantassi in un posto migliore. Non me lo sto inventando e non stavo allucinando.}
 {460}{}{Basta! Non ho tempo per queste sciocchezze. Mi aiuterai o no?}
 {461}{}{Aiutarti in cosa?}
-{462}{}{No! Non ti aiutero', idiota! Seymour era reale! SEYMOUR ERA REALE!}
-{470}{}{[Sorride, chiaramente impaziente di mostrare il suo genio.] Sono sempre stato affascinato dalle piante. Sono cosi' straordinariamente diverse dagli animali, eppure sorprendentemente simili. Quando guardi un animale, sai che puo' pensare, che e' consapevole di cio' che lo circonda, che prova dolore e paura. Che ha ragione. Ovviamente il livello varia, ma il punto e' che un animale possiede tutto questo.}
+{462}{}{No! Non ti aiutero', stronzo! Seymour era reale! SEYMOUR ERA REALE!}
+{470}{}{[Sorride, chiaramente impaziente di mostrare il suo genio.] Sono sempre stato affascinato dalle piante. Sono cosi' straordinariamente diverse dagli animali, eppure sorprendentemente simili. Quando guardi un animale, sai che puo' pensare, che e' consapevole di cio' che lo circonda, che prova dolore e paura. Che e' dotato di ragione. Ovviamente il livello varia, ma il punto e' che un animale possiede tutto questo.}
 {471}{}{Continua.}
 {480}{}{Ma quando guardi una pianta, pensi le stesse cose? Se dai un calcio a una pianta, reagisce? Ti risponde in qualche modo? Parlare a una pianta influisce sulla sua crescita? Alcune culture prima della Grande Guerra testarono queste teorie. Un popolo noto come i tedeschi condusse esperimenti che li portarono a credere che le piante fossero capaci di emozioni e che si potesse favorirne la crescita con parole, attenzione e affetto.}
 {481}{}{Ma le piante non hanno un sistema nervoso, e senza di esso cio' che suggerisci non e' possibile.}
 {482}{}{Penso che tutte le forme di vita percepiscano in un modo o nell'altro.}
-{483}{}{Quelle piante di spore che ho incontrato reagiscono eccome. Quindi si', direi che le piante sentono qualcosa.}
-{490}{}{E non saresti il solo a pensarlo. Anche io ero scettico all'inizio. Ma vedi, nel ventesimo secolo il governo degli Stati Uniti condusse esperimenti simili, concentrandosi sulla comunicazione. Certo, tutte le forme di vita hanno un modo per percepire il danno, cioe' il dolore, ma comunicano questo dolore in qualche modo? E quale fu la conclusione di questi esperimenti? L'idea della biocomunicazione — che le piante siano senzienti.}
+{483}{}{Quelle piante sporigene che ho incontrato reagiscono eccome. Quindi si', direi che le piante sentono qualcosa.}
+{490}{}{E molti la penserebbero come te. Anche io ero scettico all'inizio. Ma vedi, nel ventesimo secolo il governo degli Stati Uniti condusse esperimenti simili, concentrandosi sulla comunicazione. Certo, tutte le forme di vita hanno un modo per percepire il danno, cioe' il dolore, ma comunicano questo dolore in qualche modo? E quale fu la conclusione di questi esperimenti? L'idea della biocomunicazione -- che le piante siano senzienti.}
 {491}{}{Stai suggerendo che le piante siano quasi come gli esseri umani?}
-{500}{}{E non saresti il solo a pensarlo. Nel ventesimo secolo il governo degli Stati Uniti condusse esperimenti simili, concentrandosi sulla comunicazione. Tutte le forme di vita percepiscono il danno, cioe' il dolore, ma lo comunicano in qualche modo? E quale fu la conclusione? L'idea della biocomunicazione — che le piante siano senzienti.}
+{500}{}{E molti la penserebbero come te. Nel ventesimo secolo il governo degli Stati Uniti condusse esperimenti simili, concentrandosi sulla comunicazione. Tutte le forme di vita percepiscono il danno, cioe' il dolore, ma lo comunicano in qualche modo? E quale fu la conclusione? L'idea della biocomunicazione -- che le piante siano senzienti.}
 {501}{}{Stai suggerendo che le piante siano quasi come gli esseri umani?}
 {510}{}{Sto suggerendo che POTREBBERO essere come gli esseri umani. E come puoi vedere, avevo ragione. Avevano solo bisogno di un piccolo aiuto.}
 {511}{}{Un piccolo aiuto?}
@@ -111,7 +111,7 @@
 {530}{}{Molto bene, non posso promettere che comprenderai pienamente cio' che sto per dirti, ma faro' del mio meglio per spiegartelo. [Con lo zelo di un predicatore che delira del suo dio davanti a un ascoltatore rapito, passa due ore a descrivere nei dettagli il processo dei suoi esperimenti, mostrando chiaramente grande orgoglio per i suoi risultati.]}
 {531}{}{[AVANTI]}
 {540}{}{E quindi ora capisci, spero?}
-{541}{}{Si, capisco. Sembrava del tutto impossibile, ma il modo in cui l'hai spiegato ha perfettamente senso. E quella cosa delle spugne, assoluto genio! Macabro, ma genio. Ma c'e' una cosa che non hai spiegato. Dove esattamente trovi questi "cadaveri umani freschi"?}
+{541}{}{Si', capisco. Sembrava del tutto impossibile, ma il modo in cui l'hai spiegato ha perfettamente senso. E quella cosa delle spugne, assoluto genio! Macabro, ma genio. Ma c'e' una cosa che non hai spiegato. Dove esattamente trovi questi "cadaveri umani freschi"?}
 {550}{}{Aspetta un momento. Il dottor Wong sara' un ostacolo. Se venisse tolto di mezzo, le cose andrebbero molto piu' lisce. Dai il campione al dottor Wong. Anche se non si fida di me, la curiosita' avra' la meglio e lo accettera'. Una volta che il campione sara' stato messo via, trova un modo per eliminare il dottor Wong senza allertare gli altri Shi. Magari una sorta di overdose. Fallo, e faro' in modo che la tua ricompensa sia triplicata.}
 {551}{}{Vedro' di fare il possibile.}
 {552}{}{Se vuoi che elimini Wong, dovrai darmi qualcosa in anticipo.}
@@ -129,7 +129,7 @@
 {581}{}{D'accordo. Lo faro'.}
 {582}{}{Io cosa ne ricavo?}
 {583}{}{Non mi interessa sistemare i tuoi casini.}
-{590}{}{Il laboratorio e' proprio li' a nord. La sentinella ti lascera' passare. Fai attenzione. Queste creature sono incredibilmente forti, quindi cerca di non farle avvicinare troppo. Oh, e attento alle spore velenose che lanciano. Ma non preoccuparti. Ho un antidoto, nel caso venissi avvelenato.}
+{590}{}{Il laboratorio e' proprio li' a nord. La sentinella ti lascera' passare. Fai attenzione. Queste creature sono incredibilmente forti, quindi cerca di non farle avvicinare troppo. Oh, e occhio alle spore velenose che lanciano. Ma non preoccuparti. Ho un antidoto, nel caso ti avvelenassero.}
 {591}{}{Va bene. Tornero'.}
 {592}{}{Quindi sono incredibilmente forti e hanno proiettili velenosi? Ripensandoci, passo.}
 {600}{}{Ti daro' del denaro, naturalmente. Inoltre, ho informazioni che credo ti interesserebbero molto. Allora, mi aiuterai?}
@@ -138,15 +138,15 @@
 {610}{}{[Ti guarda in attesa.]}
 {611}{}{Tornero' dopo aver eliminato le creature nel laboratorio.}
 {612}{}{Tutte le creature nel laboratorio sono morte.}
-{613}{}{Tutte le creature nel laboratorio sono morte, ma sono stato avvelenato. Avevi detto qualcosa riguardo un antidoto?}
-{620}{}{Si, te lo somministro subito. Ecco.}
+{613}{}{Tutte le creature nel laboratorio sono morte, ma mi hanno avvelenato. Avevi detto qualcosa riguardo un antidoto?}
+{620}{}{Si', te lo somministro subito. Ecco.}
 {621}{}{Ah. Mi sento gia' meglio.}
-{630}{}{E' un peccato perdere quegli esemplari, ma un male necessario per riprendere il mio laboratorio. Hai fatto bene. Ecco la tua ricompensa in denaro. [Ti consegna 1000$.] La seconda parte della ricompensa e' informazione — e un secondo compito da svolgere.}
-{631}{}{E' un peccato perdere quegli esemplari, ma un male necessario per riprendere il mio laboratorio. Hai fatto bene. La tua ricompensa e' informazione — e un secondo compito da svolgere.}
+{630}{}{E' un peccato perdere quegli esemplari, ma un male necessario per riprendere il mio laboratorio. Hai fatto bene. Ecco la tua ricompensa in denaro. [Ti consegna 1000$.] La seconda parte della ricompensa e' informazione -- e un secondo compito da svolgere.}
+{631}{}{E' un peccato perdere quegli esemplari, ma un male necessario per riprendere il mio laboratorio. Hai fatto bene. La tua ricompensa e' informazione -- e un secondo compito da svolgere.}
 {632}{}{Sentiamo.}
 {633}{}{Lascia perdere. Tieniti le tue informazioni. Ho finito di lavorare per te.}
 {640}{}{Eccellente. E gli Shi hanno il campione che ti ho dato?}
-{641}{}{Oh, uh... No, in realta'. Mi sono dimenticato di darglielo.}
+{641}{}{Oh, uh... No, in realta'. Ho dimenticato di darglielo.}
 {700}{}{Hai ripulito il laboratorio del dottor Sheng.}
 {710}{}{Consegni i semi al dottor Sheng.}
 {800}{}{*ansima* Ahhh...}

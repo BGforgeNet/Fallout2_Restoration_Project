@@ -1,5 +1,5 @@
 {100}{}{E' un cumulo di stracci che potrebbe nascondere una persona.}
-{101}{}{Vedi Ratch, probabilmente alle prese con un problmea di pulci.}
+{101}{}{Vedi Ratch, probabilmente alle prese con un problema di pulci.}
 {102}{}{Potrebbe essere un umano. Potrebbe essere un mutante. Tutto quello che puoi dire e' che puzza da morire.}
 {103}{}{Spazzatura in vendita, spazzatura in vendita. Dateci un'occhiata e fatemi un'offerta.}
 {104}{}{Certo, come no.}
@@ -11,7 +11,7 @@
 {110}{}{Vedi quella laggiu'? E' la mia favorita - quella e' Edna. Do un nome a tutte le mie cose, sai - sono come dei figli, per me. Mi dispiace doverli vendere, ma devo mangiare.}
 {111}{}{Smettila di disturbare i miei bambini!}
 {112}{}{Certo, okay. Eccoti cinque verdoni. Hai qualche buona soffiata?}
-{113}{}{O-kay - sei proprio un tipo speciale! Credo che andro' a vendere la mia roba da qualche altra parte.}
+{113}{}{O-kay - sei proprio un tipo speciale! Forse dovrei fare acquisti da qualche altra parte.}
 {114}{}{Fammi vedere un'altra volta la tua roba.}
 {115}{}{Credo che adesso io ed Edna ce ne andremo.}
 {116}{}{Beh, grazie al cielo quello straniero non ti ha portata via, figlia mia... La mia roba e' come una famiglia per me, sai?}
@@ -23,7 +23,7 @@
 {122}{}{Magari potrei comprare qualcos'altro.}
 {123}{}{Ho sentito dire che il dottore, qui in citta', possiede una certa cura miracolosa. Io di sicuro non la sto prendendo...}
 {124}{}{Poi c'e' il vecchio Saltbeef. Quel vecchio pazzo dice di aver trovato una miniera d'oro...}
-{125}{}{Miss Dorothy e Toto erano da queste parti, la settimana scorsa. Cercavano dei pezzi di ricambio per riparare la centrale elettrica. Non ho potuto aiutarli, pero'...}
+{125}{}{La signorina Dorothy e Toto erano da queste parti, la settimana scorsa. Cercavano dei pezzi di ricambio per riparare la centrale elettrica. Non ho potuto aiutarli, pero'...}
 {126}{}{In citta' si dice che quel che e' successo a Westin non e' stato un incidente. Alcuni pensano che ci siano troppi stranieri sospetti, in giro...}
 {127}{}{Grazie per i soldi, ma non so nient'altro.}
 {128}{}{Eccoti altri cinque verdoni.}

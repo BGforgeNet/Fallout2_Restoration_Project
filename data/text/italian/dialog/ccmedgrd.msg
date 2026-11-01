@@ -6,7 +6,7 @@
 {105}{}{Perche' non sei al tuo posto, soldato? Non dovresti gironzolare da queste parti.}
 {106}{}{Sei senza uniforme.}
 {107}{}{Faresti meglio a presentarti dal Sergente e a vestirti.}
-{108}{}{Stai prendendo un grosso rischio a girare senza armatura. Faresti meglio a presentarti all'armeria.}
+{108}{}{Stai prendendo un grosso rischio a girare senza uniforme. Faresti meglio a presentarti all'armeria.}
 {109}{}{Chi diavolo...? Allarme! Intrusi!}
 {110}{}{Intrusi nel settore! Allarme!}
 {111}{}{Intrusi multipli! Suonate l'allarme!}
@@ -20,10 +20,10 @@
 {119}{}{Doc volere me uccide D'claw. Lui no volere fare da solo.}
 {120}{}{Okay, me va.}
 {121}{}{Il dottore vuole che uccida la creatura per lui. Non vuole farlo con le sue mani.}
-{122}{}{Sapevo che quel bastardo non avrebbe avuto le palle per farlo da solo. Eh no, meglio che sia uno di noi a sporcarsi le mani. (sigh) Oh, beh... Entra e buona fortuna, soldato.}
+{122}{}{Sapevo che quel bastardo non avrebbe avuto le palle per farlo da solo. Eh no, se a farsi fottere e' uno di noi, va benissimo. (sospira) Oh, beh... Entra e buona fortuna, soldato.}
 {123}{}{Grazie.}
 {124}{}{Perche' mi guardi a quel modo, soldato?}
 {125}{}{Me sentito te chiamare Snookie. Carino.}
 {126}{}{Ho sentito dire che ti chiamano Snookie. Penso sia davvero carino.}
-{127}{}{Cosa... E' stato lui a dirtelo? Quando finiro' il mio turno gliene andro' a dire quattro... Sparisci, soldato. E togliti quel sorrisetto idiota dalla faccia!}
+{127}{}{Cosa... E' stato lui a dirtelo? Quando finiro' il mio turno gli faccio il culo cosi'... Sparisci, soldato. E togliti quel sorrisetto idiota dalla faccia!}
 {128}{}{Okay.}

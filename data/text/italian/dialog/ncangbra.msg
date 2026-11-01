@@ -11,4 +11,4 @@
 {205}{}{::Gnnnnnrrrr!!!::}
 {206}{}{::Hrrnnnnr!!!::}
 {225}{}{Estrai l'oggetto che era conficcato nell'intestino del brahmin.}
-{235}{}{C'e' qualcosa conficcato nell'intestino del brahimn, ma non sei riuscito a prenderlo.}
+{235}{}{C'e' qualcosa conficcato nell'intestino del brahmin, ma non riesci ad afferrarlo.}

@@ -1,6 +1,6 @@
 {100}{}{Vedi un uomo sciatto, sporco e arrabbiato.}
 {101}{}{Vedi Franc, un odia-mutanti del posto.}
-{102}{}{Vedi un uomo sciatto, sporco e arrabbiato; sembra che la cosa che piu' gli piacerebbe fare, sia sbattere un proiettile in testa a qualcuno. Si muove come un animale rabbioso.}
+{102}{}{Vedi un uomo sciatto, sporco e arrabbiato; sembra che niente gli piacerebbe di piu' che piantare una pallottola in testa a qualcuno. Si muove come un animale rabbioso.}
 {103}{}{Cosa vuoi?}
 {104}{}{Aggggg! ::sbava::}
 {105}{}{Tu! Me! Va!}
@@ -15,22 +15,22 @@
 {114}{}{Siamo pari, allora. A me non interessa chi sei tu.}
 {115}{}{Si', vabbe'. Ciao.}
 {116}{}{Sono qui perche' la "persona" che dirige questo posto da dietro le quinte non si fida di me e di quello che vado dicendo agli abitanti di questa citta'. Sto dicendo la verita' a proposito dei mutanti e a Marcus non piace. Mi stanno tappando la bocca per le mie opinioni.}
-{117}{}{Non mi sembra una cosa giusta.}
+{117}{}{Mi sembra dura.}
 {118}{}{O magari perche' sei un seminatore di zizzania che sta cercando di spingere la gente, spaventandola, a cacciare le persone che sono diverse?}
 {119}{}{Certo, molto interessante. Che cosa mi puoi dire di Broken Hills?}
 {120}{}{Cerrrrrrto. Cosa puoi dirmi riguardo a Marcus?}
-{121}{}{Oookay. Addio.}
-{122}{}{Questo posto una volta era un paradiso. Poi sono arrivati i mutanti e l'hanno trasformato in un cesso. E adesso si aspettano che noi dimentichiamo il passato e che viviamo in pace con loro. Non io! O libero, o morto!}
+{121}{}{Oookay. Ciao.}
+{122}{}{Questo posto una volta era un paradiso. Poi sono arrivati i mutanti e l'hanno trasformato in un cesso. E adesso si aspettano che noi dimentichiamo il passato e che viviamo in pace con loro. Non io! Vivere liberi o morire!}
 {123}{}{Non era proprio quello che volevo sapere, ma grazie lo stesso. Cosa puoi dirmi riguardo a Marcus?}
-{124}{}{Umm, okay. Addio.}
+{124}{}{Umm, okay. Ci vediamo.}
 {125}{}{Marcus dice a tutti che aiuto' a fondare la citta'. Non e' vero. Prima qui c'erano gli umani e lui e la sua cricca arrivarono e si impadronirono della citta', pretendendo che tutti si sottomettessero e lasciassero il potere ai mutanti. Marcus e' il capobanda dell'intera combriccola.}
-{126}{}{Sei davvero pazzo, io credo.}
+{126}{}{Secondo me sei proprio pazzo.}
 {127}{}{Dannati mutanti. Proprio come pensavo.}
-{128}{}{Si', sono un duro. Se non fossi in cella, te lo dimostrerei. Tu credi di essere un duro? Pensi di potermelo dimostrare, perdente?}
+{128}{}{Si', sono un duro. Se non fossi in cella, te lo dimostrerei. Tu credi di essere un duro? Pensi di potermelo dimostrare, sfigato?}
 {129}{}{Certamente.}
 {130}{}{Non ho niente da dimostrare a te, verme.}
-{131}{}{Sparisci subito dalla mia vista, babbeo! Ti ucciderei, se solo ne avessi la possibilita'!}
-{132}{}{Addio.}
+{131}{}{Sparisci subito dalla mia vista, stronzo! Ti ucciderei, se solo ne avessi la possibilita'!}
+{132}{}{Ciao.}
 {133}{}{La legge da queste parti si basa sull'amore nei riguardi dei mutanti. Tu odi i mutanti?}
 {134}{}{Si'.}
 {135}{}{No.}
@@ -48,8 +48,8 @@
 {147}{}{Hai mandato tutto a monte! Adesso devi morire, amico!}
 {148}{}{Andiamocene da qui.}
 {149}{}{Niette. ByeBye.}
-{150}{}{Lasciamo perdere. Ci vediamo.}
-{151}{}{Questa non e' giustizia. Dovreste vergognarvi di voi stessi.}
+{150}{}{Lasciamo perdere. Ciao.}
+{151}{}{Questa non e' giustizia. Dovresti vergognarti.}
 {152}{}{Grazie dell'aiuto, amico. Andiamo a parlare con Jacob e Aileen.}
 {153}{}{Hai portato a termine con successo l'evasione.}
 {154}{}{Grazie per il tuo aiuto giu' alla prigione, straniero.}

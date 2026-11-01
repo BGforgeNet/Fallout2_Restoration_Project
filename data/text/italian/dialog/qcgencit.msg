@@ -1,13 +1,13 @@
 {100}{}{Vedi una persona che indossa uno dei completi blu da vault.}
 {101}{}{Vedi un cittadino dell'Enclave.}
 {102}{}{Vedi un cittadino pallido, ma dall'aspetto sano.}
-{103}{}{Ho bisogno di un po' di riposo.}
-{104}{}{Mi domando quale filmato educativo sia in programmazione stasera?}
+{103}{}{Tanto vale riposarsi un po'.}
+{104}{}{Chissa' quale filmato sulla sicurezza danno stasera.}
 {105}{}{Che cosa sei?}
-{106}{}{Il clima e' sempre lo stesso qui.}
+{106}{}{Qui il tempo e' sempre lo stesso.}
 {107}{}{Il Progetto procede bene.}
-{108}{}{Mi dispiace per il Vice Presidente Bird.}
-{109}{}{Il prossimo cambio non avvera' prima di qualche ora.}
+{108}{}{Che peccato per il Vicepresidente Bird.}
+{109}{}{Il mio prossimo turno non comincia prima di qualche ora.}
 {110}{}{Dio benedica l'America.}
 {111}{}{Il Progetto e' la nostra salvezza.}
 {112}{}{Sono davvero felice di non essere sul continente.}
@@ -17,15 +17,15 @@
 {116}{}{Uh, oh.}
 {117}{}{Sara' meglio che mi procuri un po' di Rad-X. Di nuovo...}
 {118}{}{Quel coso continua a rompersi.}
-{119}{}{Mi sento come se mi fossi scottato la pelle.}
+{119}{}{Mi sento la pelle scottata.}
 {120}{}{Sbaglio, o qui dentro comincia a fare piu' caldo?}
 {121}{}{Questo non va bene.}
-{122}{}{Cazzo, cazzo, cazzo.}
+{122}{}{Merda, merda, merda.}
 {123}{}{Dov'e' la mia maschera antigas?}
 {124}{}{C'e' uno strano odore nell'aria.}
 {125}{}{Non mi sento troppo bene.}
 {126}{}{L'aria mi sta bruciando la gola.}
-{127}{}{Cavoli, ho una brutta pirosi.}
+{127}{}{Cavoli, che brutto bruciore di stomaco.}
 {128}{}{I miei polmoni sono in fiamme.}
 {129}{}{Credo di aver bisogno di una boccata di aria fresca.}
 {130}{}{Sbaglio, o si sta facendo buio qui dentro?}
@@ -40,8 +40,8 @@
 {139}{}{Non preoccupatevi.}
 {140}{}{I soldati ci proteggeranno.}
 {141}{}{Dov'e' un soldato quando serve?}
-{142}{}{Devo solamente stare calmo - stare calmo.}
-{143}{}{Non riusciro' a finirlo.}
+{142}{}{Devo solo mantenere la calma - mantenere la calma.}
+{143}{}{Non lo finiro' mai.}
 {144}{}{Di sicuro mi piacerebbe essere da qualche altra parte.}
 {145}{}{L'addetta al terminale era proprio carina.}
 {146}{}{Questo non ha alcun senso.}

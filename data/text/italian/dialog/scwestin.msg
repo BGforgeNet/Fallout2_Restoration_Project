@@ -14,10 +14,10 @@
 {113}{}{Il Primo Cittadino Lynette le manda i suoi saluti. Mi ha dato qualcosa per lei.}
 {114}{}{Mi manda Bishop.}
 {115}{}{Oops.}
-{116}{}{Tutto qui? Parla con Felix, il mio capomastro.}
+{116}{}{Tutto qui? Parla con Felix, il mio caposquadra.}
 {117}{}{Lei non capisce. Sono qui per portare a termine un lavoro.}
 {118}{}{Lo sceriffo mi ha consigliato di parlare personalmente con lei.}
-{119}{}{Bene...}
+{119}{}{Bene. Come vuole.}
 {120}{}{Dovevo immaginarlo. Che cosa ti ha promesso - soldi, droga, o sesso? Non ha importanza. Non vedrai nulla di tutto cio'.}
 {121}{}{Che cosa vuoi dire?}
 {122}{}{Taci.}
@@ -25,7 +25,7 @@
 {124}{}{Uh-huh.}
 {125}{}{Tu cosa pensi? Sai troppo. Cosa succederebbe se tu tornassi a NCR e lo tradissi - o se minacciassi di farlo? Sei gia' morto e non lo sai. D'altro canto, io ho un'offerta migliore da farti.}
 {126}{}{Ovvero?}
-{127}{}{Non ti credo.}
+{127}{}{Non le credo.}
 {128}{}{Fa' fuori Bishop, invece. Ti paghero' in contanti: qualsiasi cifra ti abbia offerto, piu' il 50%. Quanto era?}
 {129}{}{(serve info da Chris)}
 {130}{}{(Avellone, intendo)}
@@ -42,16 +42,16 @@
 {141}{}{Ho deciso di non farlo.}
 {142}{}{Qualcosa o qualcuno attacca i miei brahmin di notte. Ho bisogno di sapere cosa sta succedendo. Cosa ne dici di andare a scoprirlo per me? Ti paghero' per il disturbo.}
 {143}{}{Sembra una buona idea. Lo faro'.}
-{144}{}{No, grazie. Stare seduto in un campo ad aspettare che appaia dal nulla qualche bestia mi pare noioso.}
+{144}{}{No, grazie. Starmene in un campo ad aspettare che appaia dal nulla qualche bestia mi pare noioso.}
 {145}{}{Eccellente. Felix ti condurra' sul posto. Ora, se vuoi scusarmi...}
-{146}{}{Beh, forse posso farlo. Ho sentito un sacco di racconti riguardanti Tandi e l'Abitante del Vault. Sembra che lui l'abbia salvata anni prima che NCR fosse fondata. Comunque, la leggenda vuole che passo' molto tempo esplorando un vault ad est di qui. Se quello non e' il vault 13, forse li' dentro potrai trovare qualche indizio che ti conduca ad esso.}
+{146}{}{Beh, forse posso farlo. Ho sentito un sacco di racconti riguardanti Tandi e l'Abitante del Vault. Sembra che lui l'abbia salvata anni prima che NCR fosse fondata. Comunque, la leggenda vuole che abbia passato molto tempo a esplorare un Vault a est di qui. Se quello non e' il Vault 13, forse li' dentro potrai trovare qualche indizio che ti conduca ad esso.}
 {147}{}{Ooooh. Bene.}
 {148}{}{Grazie!}
 {149}{}{Beh, forse posso farlo. Tuttavia, ho bisogno che tu mi faccia un favore, prima. Qualcosa, o qualcuno, attacca i miei brahmin di notte. Ho bisogno di sapere cosa sta succedendo. Cosa ne dici di andare a scoprirlo per me? Ti paghero' per questo e ti diro' quello che so.}
 {150}{}{Sembra una buona idea. Lo faro'.}
-{151}{}{No, grazie. Stare seduto in un campo ad aspettare che appaia dal nulla qualche bestia mi pare noioso.}
+{151}{}{No, grazie. Starmene in un campo ad aspettare che appaia dal nulla qualche bestia mi pare noioso.}
 {152}{}{Bene, allora ecco a te. E' stato un piacere conoscerti, straniero.}
-{153}{}{Non sono sicuro di poter credere alle tue parole, ma ecco la tua ricompensa. Diavolo, se stai mentendo, i miei ragazzi ti scoveranno. Ti ho anche detto che ti avrei dato delle informazioni, percio' eccole. Ho sentito un sacco di racconti riguardanti Tandi e l'Abitante del Vault. Sembra che lui l'abbia salvata anni prima che NCR fosse fondata. Comunque, la leggenda vuole che passo' molto tempo esplorando un vault ad est di qui. Se quello non e' il vault 13, forse li' dentro potrai trovare qualche indizio che ti conduca ad esso.}
+{153}{}{Non sono sicuro di poter credere alle tue parole, ma ecco la tua ricompensa. Diavolo, se stai mentendo, i miei ragazzi ti scoveranno. Ti ho anche detto che ti avrei dato delle informazioni, percio' eccole. Ho sentito un sacco di racconti riguardanti Tandi e l'Abitante del Vault. Sembra che lui l'abbia salvata anni prima che NCR fosse fondata. Comunque, la leggenda vuole che abbia passato molto tempo a esplorare un Vault a est di qui. Se quello non e' il Vault 13, forse li' dentro potrai trovare qualche indizio che ti conduca ad esso.}
 {154}{}{Me ringrazia te!}
 {155}{}{Grazie.}
 {156}{}{Il Primo Cittadino? Eccellente, questo e' proprio quello che stavo aspettando. Sei un Cittadino del Vault?}

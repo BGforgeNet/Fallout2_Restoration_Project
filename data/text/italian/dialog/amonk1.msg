@@ -1,6 +1,6 @@
 {100}{}{Vedi un monaco.}
-{101}{}{Vedi una santona.}
-{102}{}{Vedi un monaco ordinario dell'Abbazia.}
+{101}{}{Vedi una religiosa.}
+{102}{}{Vedi un comune monaco dell'Abbazia.}
 {103}{}{Vedi una comune suora dell'Abbazia.}
 {200}{}{Benvenuto, viaggiatore.}
 {201}{}{La pace sia con te.}

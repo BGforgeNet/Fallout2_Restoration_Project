@@ -1,6 +1,6 @@
 {100}{}{Vedi una giovane donna molto attraente.}
 {101}{}{Vedi Rebecca.}
-{150}{}{Vedi Rebecca, la proprietaria del Becky's Casino Bar.}
+{150}{}{Vedi Rebecca, la proprietaria del Casino' Bar di Becky.}
 {200}{}{Ehila', io sono Rebecca. Posso prepararti qualcosa da bere? Sicuramente sarai assetato, dopo aver viaggiato nelle Lande.}
 {201}{}{Ehi! Vuoi da bere o sei tornato solo per salutare?}
 {202}{}{Ciao! Sono felice che tu sia tornato. Hai delle domande da farmi o sei qui per un po' di buon whiskey?}
@@ -17,7 +17,7 @@
 {213}{}{Cosa desideri oggi? Che ne dici di un drink?}
 {214}{}{Cosa vuoi che ti serva oggi? Un drink, o preferisci qualcos'altro?}
 {215}{}{Come posso servirti?}
-{216}{}{Benvenuto. Cosa posso servirti?}
+{216}{}{Salve. Cosa posso servirti?}
 {217}{}{Ti serve qualcosa?}
 {218}{}{E' bello rivederti. Come posso aiutarti?}
 {219}{}{Cosa?}
@@ -32,7 +32,7 @@
 {241}{}{Cosa vorresti sapere?}
 {242}{}{Ne sarei felice.}
 {243}{}{Ma certamente.}
-{244}{}{Bene.}
+{244}{}{Certo.}
 {245}{}{Non c'e' problema.}
 {246}{}{Ti aiutero', se posso.}
 {247}{}{Certamente, non fare lo stupido.}
@@ -48,12 +48,12 @@
 {257}{}{No, mi dispiace.}
 {258}{}{Non adesso.}
 {270}{}{Vorrei qualcosa da bere.}
-{271}{}{Sto cercando un mercante che vende apparecchiature provenienti dal Vault.}
+{271}{}{Sto cercando un mercante che vende apparecchiature provenienti da un Vault.}
 {272}{}{Sto cercando un mercante di nome Vic.}
 {273}{}{Hai del lavoro?}
 {274}{}{A proposito di quel lavoro...}
 {275}{}{Hai altri lavori per me?}
-{276}{}{Nulla. Arrivederci.}
+{276}{}{Nulla. Ciao.}
 {277}{}{Wekee.}
 {278}{}{Ruh ruh?}
 {279}{}{Iho shasha.}
@@ -66,14 +66,14 @@
 {304}{}{Come mai i tuoi drink sono cosi' a buon mercato?}
 {305}{}{Dyer?}
 {306}{}{Posso farti una domanda?}
-{307}{}{Addio.}
+{307}{}{Ciao.}
 {308}{}{Wekee}
 {309}{}{Urka.}
-{320}{}{Oh, e' il nome della mia famiglia. I Dyer sono nel giro della ristorazione da molto tempo - da prima della guerra, addirittura.}
+{320}{}{Oh, e' il nome della mia famiglia. I Dyer sono nel giro dei bar da molto tempo - da prima della guerra, naturalmente.}
 {321}{}{Come ho gia' detto, e' il nome della mia famiglia. Una volta c'erano locali Dyer un po' in tutto il mondo.}
 {322}{}{Prendero' qualcosa da bere.}
 {323}{}{Posso farti un'altra domanda?}
-{324}{}{Addio.}
+{324}{}{Ciao.}
 {330}{}{Beh, dal momento che sei un cosi' buon cliente, ti faro' parte di un piccolo segreto. E' molto semplice, davvero - ho un distillatore. Un amico di una citta' qui vicino mi ha insegnato come costruirne uno. Allora, che ne dici di un altro goccetto?}
 {331}{}{Mi spiace, e' un segreto. In piu', non ti conosco poi cosi' bene. Non vorrei che Frankie lo scoprisse. Mi da' gia' abbastanza problemi anche adesso. Vuoi un altro bicchiere? Il mio whiskey e' proprio buono, vero?}
 {332}{}{Certo. Ne prendo un altro bicchiere.}
@@ -83,7 +83,7 @@
 {341}{}{Grazie. Posso farti una domanda?}
 {342}{}{Okay, grazie.}
 {343}{}{Graie miie.}
-{344}{}{Come scusa?}
+{344}{}{Domanda?}
 {350}{}{Mi spiace. Credo proprio di no.}
 {351}{}{Fred mi deve 200$. Se riuscirai a recuperarli in qualche modo, ci potremo mettere d'accordo.}
 {352}{}{Ho ancora quel debito da recuperare.}
@@ -92,16 +92,16 @@
 {355}{}{Dove sta l'inghippo?}
 {356}{}{Continua.}
 {357}{}{Posso farti una domanda?}
-{358}{}{Addio.}
+{358}{}{Ciao.}
 {370}{}{Inghippo? Oh, beh, se tu conoscessi Fred capiresti. Mi deve quei soldi da un bel po', ormai. Li avevo gia' dati per persi, ma se tu riuscissi a recuperarli, ne sarei davvero meravigliata... e riconoscente. Si trova da qualche parte qui in citta', sono sicura.}
 {371}{}{Il libro si intitola "Il Fiore di Lavanda". Derek dovrebbe trovarsi nelle vicinanze del ristorante di Mama, nella zona est.}
 {372}{}{Vedro' di fare il possibile.}
 {373}{}{Sembra davvero un lavoretto da nulla.}
 {374}{}{L'ho gia' trovato.}
-{375}{}{Tornero' presto.}
+{375}{}{Ti faro' sapere.}
 {385}{}{Dimmi la verita': non sei riuscito a recuperare quei soldi, vero? Mi stupirei del contrario.}
 {386}{}{Oh, hai ritrovato il mio libro? Sara' meglio per Derek che non sia rovinato.}
-{387}{}{Si', l'ho fatto.}
+{387}{}{Si', invece.}
 {388}{}{Mi spiace. E' morto.}
 {389}{}{Mi spiace, ma anche Derek e' morto.}
 {390}{}{Mi dispiace, ma e' morto.}
@@ -112,7 +112,7 @@
 {402}{}{Di nulla.}
 {410}{}{Non riesco a credere che siano entrambi morti. Mi dispiace molto. Grazie per avermelo detto. Se adesso vuoi scusarmi...}
 {411}{}{Non posso credere che sia morto... dopo tutti questi anni...}
-{412}{}{Bene.}
+{412}{}{Certo.}
 {413}{}{...}
 {420}{}{Certo, so di chi si tratta. E' Vic - il tipo che Metzger tiene prigioniero.}
 {421}{}{Certo, conosco Vic. Metzger lo tiene prigioniero. Non saprei dirti il motivo preciso, pero'.}
@@ -123,23 +123,23 @@
 {431}{}{Ho un'altra domanda.}
 {432}{}{Grazie.}
 {440}{}{Assassino!}
-{441}{}{Uccisore di bambini!}
-{442}{}{Sei pregato di andartene.}
+{441}{}{Assassino di bambini!}
+{442}{}{Per favore, vattene.}
 {443}{}{Non faccio affari con gente come te.}
 {444}{}{Non mi arrendero' senza combattere!}
 {450}{}{Buffy! Sei tu! Come va? Sara' passato un secolo!}
 {451}{}{Eh?}
 {452}{}{Eh?}
-{460}{}{Dave ti manda i suoi saluti e avrebbe voluto essere qui per abbracciarti, ma doveva scappare.}
-{461}{}{Dove?}
+{460}{}{Dave ti manda i suoi saluti e avrebbe voluto essere qui per salutarti, ma doveva scappare.}
+{461}{}{Dove andiamo?}
 {470}{}{Ha detto qualcosa riguardo ad un commando... o che stava inseguendo un commando. Non ne sono sicura. Una cosa del genere.}
 {471}{}{Oh.}
 {480}{}{Oh, mi ha detto di darti questo. E' un regalo da parte della famiglia Hendee. Dovrebbe esserti d'aiuto.}
-{481}{}{Cosa?}
+{481}{}{Cos'e'?}
 {490}{}{Oh, e' solo un piccolo pensiero per te. Ecco. [Becky ti da' 1000$, 5 Stimpak, un'Armatura di Metallo, un Uzi, 5 caricatori, una Granata al Plasma, e un fiore]}
 {491}{}{Grazie!}
 {500}{}{Di nulla. Non ho fatto altro che tenerli da parte per te. Beh, sara' meglio che torni al lavoro.}
-{501}{}{Grazie, arrivederci.}
+{501}{}{Grazie, ciao.}
 {510}{}{Hai sentito?! E' morto! Oh, so che non dovrei essere felice, ma si trattava di un uomo davvero malvagio.}
 {511}{}{E' stato un degno avversario.}
 {512}{}{Ho una domanda.}
@@ -152,12 +152,12 @@
 {531}{}{Tieni pure i soldi, Rebecca.}
 {532}{}{Grazie mille.}
 {533}{}{Grassie!}
-{534}{}{Ug! Signora gentile.}
+{534}{}{Ug! Bella signora.}
 {540}{}{Sei un uomo meraviglioso. Sebbene non possa giustificare le tue azioni, hai reso un grande servizio al mondo.}
 {541}{}{Sei una donna splendida. Sebbene non possa giustificare le tue azioni, hai reso un grande servizio al mondo.}
 {542}{}{Grazie.}
 {550}{}{Non sei il benvenuto qui. Sei pregato di andartene.}
-{551}{}{Sei pregato di andartene.}
+{551}{}{Per favore, vattene.}
 {560}{}{Perche' hai distrutto il mio distillatore? Cosa ti ho fatto di male?}
 {561}{}{Mi hanno pagato per farlo.}
 {562}{}{Non devo dare risposte a nessuno, io.}

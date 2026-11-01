@@ -3,7 +3,7 @@
 {200}{}{Ciao, amico. Non ti avevo mai visto da queste parti. E' la prima volta che visiti l'Abbazia?}
 {201}{}{Piacere di rivederti. Cosa posso fare per te?}
 {202}{}{Si'. Cosa puoi dirmi di questo posto?}
-{203}{}{Sono alla ricerca del sacro G.E.C.K. Ne sai qualcosa?}
+{203}{}{Sono alla ricerca del sacro GECK. Ne sai qualcosa?}
 {204}{}{Fratello Samuel ha detto che potresti sapere qualcosa su chi sta disturbando le tombe. Ha detto che hai sentito dei
  rumori provenire dai tuoi campi.}
 {205}{}{Non importa, devo andare.}
@@ -14,19 +14,19 @@
 {301}{}{Sei arrivato con una carovana? Passano spesso da qui?}
 {302}{}{Non molto. L'Abbazia e' troppo piccola e isolata perche' le carovane ci prestino molta attenzione. Non importa pero', siamo
  una comunita' abbastanza autosufficiente -- coltiviamo il nostro cibo, produciamo il nostro alcol -- quindi ce la caviamo benissimo. In ogni caso, Bill e' la persona
- con cui parlare delle carovane, gestisce il negozio di alimentari appena a sudovest di qui.}
+ con cui parlare delle carovane, gestisce l'emporio appena a sudovest di qui.}
 {303}{}{Sembra tutto molto interessante, ma devo proprio andare.}
-{304}{}{Interessante. Ero curioso riguardo altro.}
+{304}{}{Interessante. Mi incuriosisce un'altra cosa.}
 {305}{}{Non importa, devo andare.}
 {400}{}{Cos'altro vorresti sapere?}
-{401}{}{Cosa puoi dirmi a proposito dell'Abazia?}
+{401}{}{Cosa puoi dirmi a proposito dell'Abbazia?}
 {402}{}{Sai nulla a proposito di un Kit di Creazione del Giardino dell'Eden?}
-{500}{}{Mi dispiace amico, non ne ho mai sentito parlare. Ma se ha a che fare con i tempi pre-guerra, scommetto che ci sia qualcosa
- nei computer del monastero. Purtroppo per te, quei monaci sono molto protettivi delle loro informazioni -- temono che possa
+{500}{}{Mi dispiace amico, non ne ho mai sentito parlare. Ma se ha a che fare con i tempi pre-guerra, scommetto che c'e' qualcosa
+ nei computer del monastero. Purtroppo per te, quei monaci sono molto gelosi delle loro informazioni -- temono che possa
  portare a un'altra guerra o qualcosa del genere se la gente impara troppo. Potrebbe comunque valere la pena chiedere li'.}
 {501}{}{Grazie, lo faro'. Ho ancora qualche domanda pero'.}
 {502}{}{Grazie per la dritta. Vado a controllare subito.}
-{600}{}{Ti ha mandato Fratello Samuel? Cosa sta combinando quel ubriacone adesso?}
+{600}{}{Ti ha mandato Fratello Samuel? Cosa sta combinando quell'ubriacone adesso?}
 {601}{}{A badare alle tombe come al solito, suppongo. Quindi riguardo a cio' che hai sentito...}
 {602}{}{[John si siede sulla sedia e si versa un bicchierino di whiskey.] E' iniziato tutto un paio di giorni fa. Mia moglie ed
  io ci stavamo preparando per andare a letto quando abbiamo sentito dei fruscii nel campo. Ho preso la lanterna e sono corso fuori per vedere se

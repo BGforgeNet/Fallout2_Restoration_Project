@@ -1,7 +1,7 @@
 {100}{}{Vedi un grosso delinquente.}
-{101}{}{vedi Rico.}
+{101}{}{Vedi Rico.}
 {150}{}{Vedi un enorme uomo dalla faccia di marmo. Non ti stupiresti se mangiasse mattoni.}
-{151}{}{Vedi un enorme uomo dalla faccia di marmo. Non ti stupiresti se mangiasse mattoni.}
+{151}{}{Vedi Rico, la guardia del corpo di Monte. Non ti stupiresti se mangiasse mattoni.}
 {175}{}{Hurggg}
 {176}{}{Hnrfff}
 {177}{}{Snffff}
@@ -13,7 +13,7 @@
 {202}{}{Me colpisce persone.}
 {203}{}{Me colpisce persone con pugni come suonare tamburo.}
 {204}{}{Me piace colpire.}
-{205}{}{::Sorride senza denti::}
+{205}{}{::Fa un sorriso sdentato::}
 {206}{}{::Si gratta::}
 {207}{}{::Gonfia i muscoli::}
 {208}{}{Grugnito.}
@@ -23,4 +23,4 @@
 {212}{}{Tu odorare come mamma.}
 {213}{}{Tu carina. Me no colpire te.}
 {214}{}{Tu fare me arrossire...}
-{215}{}{Uhhh...Me Rico...}
+{215}{}{Uhhh... Me Rico...}

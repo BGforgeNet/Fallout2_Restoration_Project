@@ -6,4 +6,4 @@
 {105}{}{Dai, topino. Me fame.}
 {106}{}{Squeek, Squeeeek. SQUEEEEK!}
 {107}{}{OK, OK, me bugia, me adesso mangia te.}
-{110}{}{Oooh! Tu grosso topino. Diventa buona pappa per Grendel.}
+{110}{}{Oooh! Tu grosso topino. Diventa buona pappa per Grundel.}

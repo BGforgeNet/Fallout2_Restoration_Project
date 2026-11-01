@@ -6,7 +6,7 @@
 {211}{}{Spero che tu ti stia divertendo.}
 {212}{}{Stai cercando Becky? Eccola la'.}
 {213}{}{Ciao.}
-{214}{}{Si diverta ai tavoli.}
+{214}{}{Divertiti ai tavoli.}
 {215}{}{Becky ha il liquore piu' a buon mercato della citta'.}
 {230}{}{Allontanati da li' immediatamente.}
 {231}{}{Non toccarla piu'.}
@@ -27,7 +27,7 @@
 {351}{}{Cosa? Ce l'hai ancora con me?}
 {352}{}{Stai, ehm, facendo un buon lavoro... continua pure...}
 {353}{}{Cosa? Mi stai ignorando di nuovo?}
-{354}{}{Sei occupata... capisco. Piu' tardi faremo quattro chicchiere.}
+{354}{}{Sei occupata... capisco. Piu' tardi faremo quattro chiacchiere.}
 {355}{}{Cavoli, sai proprio come farti desiderare.}
 {356}{}{Io... ehm, parlero' con te dopo, allora.}
 {357}{}{E' stato bello parlare con te... adesso me ne torno laggiu', allora...}

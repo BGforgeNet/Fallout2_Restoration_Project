@@ -10,7 +10,7 @@
 {240}{}{Perche' ti muovi come una faina, eh, }
 {250}{}{Come butta, }
 {251}{}{Ehi... }
-{252}{}{Caaaaa-zzo, e' bollente.}
+{252}{}{Caaaaa-zzo, che caldo.}
 {253}{}{Ehi! 'zzo hai fatto di bello, }
 {254}{}{Mi fa piacere vederti, }
 {255}{}{Ehi! Vieni a vedere il mio nuovo coltello, }
@@ -34,30 +34,30 @@
 {301}{}{Yo! Hombre, metti via quell'arma prima che la gente si innervosisca.}
 {310}{}{Yo! Chica, non puoi tenere in mano quella, qui dentro.}
 {311}{}{Yo! Chica, metti via quell'arma prima che la gente si innervosisca.}
-{320}{}{Perche' diavolo ti muovi silenziosamente, }
+{320}{}{Perche' diavolo te ne vai in giro di soppiatto, }
 {330}{}{Perche' ti nascondi, chica? Con quel gancio destro che ti ritrovi, dovresti camminare a testa alta.}
 {340}{}{Dove hai imparato a combattere, }
 {341}{}{Hai i cojones di un Mordino.}
 {342}{}{L'ultimo combattimento e' stato qualcosa di epico, hombre.}
-{343}{}{Vola come una farfalla, punge come un'ape. Proprio cosi', questo sei tu, }
+{343}{}{Vola come una farfalla, pungi come un'ape. Proprio cosi', questo sei tu, }
 {344}{}{Sai, i Mordino avrebbero proprio bisogno di un colosso come te, }
 {345}{}{Ho scommesso su di te: i migliori soldi che abbia mai puntato. Tiravi ganci come non si era mai visto prima.}
 {346}{}{Ti ho visto combattere sul ring, }
-{347}{}{Quante flessioni fai al giorno, }
+{347}{}{Quanto sollevi alla panca, }
 {348}{}{Dove ti alleni, eh?}
 {349}{}{Occhio al Masticatore. Gli piace mangiare orecchie.}
 {350}{}{Ti offrirei da bere, se solo non avessi perso tutti i miei soldi puntando sul tuo avversario.}
 {351}{}{Come hai imparato a combattere cosi' bene? Sei grande. Davvero: GRANDE.}
 {352}{}{Dove hai imparato a combattere, chica? Sei incredibile. Sai tutte le MOSSE giuste.}
-{353}{}{L'ultimo combattimento e' stato qualcosa di epico, chica.}
+{353}{}{L'ultimo combattimento e' stato qualcosa di fottutamente epico, chica.}
 {354}{}{Dove ti alleni, eh? Ti serve un assistente?}
 {370}{}{Ehi, ehi, ehi! Chica, vuoi forse costringermi a toglierti quell'arma?}
-{371}{}{Cos'e', vuoi che ti spogli e che ti perquisisca? Su, metti via quell'arnese prima che sia costretto a diventare scortese.}
+{371}{}{Cos'e', vuoi che ti spogli e che ti perquisisca? Su, metti via quell'arnese prima che debba passare alle maniere forti.}
 {390}{}{Non puoi pensare di non farti notare da Lil' Jesus con un corpo come quello, chica.}
 {400}{}{Il tuo film non era male, ma ti servono chiaramente un paio di consigli da parte mia. ::Ride::}
 {401}{}{Ehi, }
-{402}{}{Sono pronto, sono disponibile: tu mi farai girare un film, okay? Stiamo parlando di un sicuro successo, }
-{403}{}{Sono il Latin Lover definitivo. Nessun altro Latin Lover e' come me.}
+{402}{}{Sono pronto, sono disponibile: fammi girare un film, okay? Stiamo parlando di un sicuro successo, }
+{403}{}{Sono il Latin Lover per eccellenza. Nessun altro Latin Lover e' come me.}
 {404}{}{Parla di me con i Fratelli, }
 {405}{}{Metti una buona parola per me con i Fratelli, d'accordo?}
 {406}{}{Stai facendo la cosa giusta, a stare dalla parte dei Mordino. Andremo lontano.}
@@ -75,10 +75,10 @@
 {455}{}{Perche' diavolo cerchi di passare inosservato? Vuoi farti sparare?}
 {460}{}{Perche' cerchi di passare inosservata, chica? Vuoi farti sparare?}
 {465}{}{Porta fuori di qui quel cassonetto ambulante.}
-{466}{}{I droidi qui non sono ammessi. Fallo sparire.}
+{466}{}{I robot qui non sono ammessi. Fallo sparire.}
 {467}{}{Se non se ne va subito, quel robot sara' presto ridotto ad un rottame.}
 {475}{}{Mi PAREVA di aver sentito puzza di mutante. Portalo fuori prima che mi incazzi sul serio.}
-{476}{}{Sei un amico dei mutanti? Il suo posto e' di FUORI.}
+{476}{}{Sei un amico dei mutanti? Il suo posto e' FUORI. Altrimenti...}
 {477}{}{Se quel mutante rimane qui dentro, lo useremo per un po' di tiro al bersaglio.}
 {485}{}{Mi PAREVA di aver sentito puzza di qualcosa che sta andando a male. Porta quel tuo ghoul fuori di qui.}
 {486}{}{Porta quel ghoul puzzolente fuori di qui. Adesso.}
@@ -109,7 +109,7 @@
 {549}{}{Gia', non ho bisogno che tu me lo dica. Sta' attento.}
 {560}{}{Eeeeeehi! Come va, }
 {562}{}{Sei a posto, oppure devo chiamare una delle pute perche' ti tiri un po' su? Ah!}
-{563}{}{Sei a posto, o devo chiamare uno dei camerieri perche' ti tiri un po' su? Ah!}
+{563}{}{Sei a posto, o devo chiamare una delle cameriere perche' ti tiri un po' su? Ah!}
 {567}{}{No, sono a posto. Senti, avrei delle domande per te, Jesus...}
 {568}{}{No, sto bene cosi', grazie. Ci becchiamo piu' tardi.}
 {582}{}{Eh? Sei qui per affari, schiavista? Hai della merce da vendere?}
@@ -120,14 +120,14 @@
 {600}{}{Heh. Sei rimasto sotto il sole per un po' troppo tempo. Fila.}
 {601}{}{Eh...certo. Fa' il bravo, amigo. Ci vediamo dopo.}
 {602}{}{Eh...certo. Fa' la brava, chica. Ci vediamo dopo.}
-{603}{}{Heh. Forse dovresti tornartene fuori al sole, selvaggio. Forse un po' d'aria ti fara' bene.}
+{603}{}{Heh. Forse dovresti tornartene fuori al sole, tribale. Cosi' qui dentro si respira meglio.}
 {604}{}{Okeeeyyyy}
 {620}{}{Fuori di qui.}
 {621}{}{Fatti vedere di nuovo qui dentro, e ti imbottiro' con cosi' tanto piombo che nemmeno Superman riuscirebbe a guardarti attraverso.}
 {622}{}{::Gioca minacciosamente con il coltello::}
 {623}{}{::Sputa ai tuoi piedi::}
 {624}{}{Hai la faccia di uno che non sa quando sta per morire.}
-{625}{}{Smamma prima che ti distrugga.}
+{625}{}{Smamma prima che ti faccia fuori.}
 {626}{}{Fatti vedere ancora qui dentro, e ti sbudello.}
 {640}{}{(Si pulisce le unghie con il coltello.) Domande... TUTTI hanno delle domande...}
 {641}{}{(Si pulisce un dente con un'unghia sporca.) Si'?}
@@ -138,7 +138,7 @@
 {646}{}{Sai nulla a proposito dell'overdose di Jet che ha ucciso Richard Wright?}
 {647}{}{Puoi insegnarmi a combattere con il coltello?}
 {648}{}{Nulla. Ci vediamo dopo.}
-{660}{}{Io? Se devi chiederlo… eh. Mi chiamo Jesus. Jesus Mordino. Come mio padre: lui e' il GRANDE Jesus, il capo di tutta la famiglia Mordino qui a Reno. Per questo la maggior parte mi chiama Jesus il Piccolo. Evita confusioni, capisci?}
+{660}{}{Io? Se devi chiederlo... eh. Mi chiamo Jesus. Jesus Mordino. Come mio padre: lui e' il BIG Jesus, il capo di TUTTA la famiglia Mordino qui a Reno. Per questo quasi tutti mi chiamano Lil' Jesus. Evita confusioni, capisci?}
 {661}{}{La Famiglia Mordino? Di chi si tratta?}
 {662}{}{Ho sentito parlare della vostra famiglia. Mi hanno detto che siete un'organizzazione non da poco.}
 {663}{}{Sto cercando lavoro. La famiglia Mordino puo' offrirmi qualcosa?}
@@ -165,14 +165,14 @@
 {760}{}{Beh, lo sono diventati non appena hanno assaggiato per la prima volta il Jet. Una sola dose non basta mai.}
 {761}{}{Da dove proviene il Jet?}
 {762}{}{Ho capito. Senti, avrei delle altre domande...}
-{780}{}{Il Jet? Il Jet viene da QUI. Sai, noi non estraiamo l'oro, lo CREIAMO: oro liquido. Jet. E' preziosissimo per i minatori, ma a noi la produzione non costa quasi nulla. Noi lo portiamo a Redding, loro si fanno, sballano, e ci consegnano l'oro.}
+{780}{}{Il Jet? Il Jet viene da QUI. Sai, noi non estraiamo l'oro, lo CREIAMO: oro liquido. Jet. E' preziosissimo per i minatori, ma a noi la produzione non costa quasi nulla. Noi lo portiamo a Redding, loro si fanno, sballano, e ci consegnano l'oro. Semplice.}
 {781}{}{Da quanto tempo va avanti questa storia? Mi sembra che, se il Jet fosse davvero capace di creare un tale grado di dipendenza, a quest'ora voi Mordino dovreste avere gia' il controllo di tutta la California settentrionale.}
 {800}{}{Hai ragione... sai, il Jet non l'abbiamo da SEMPRE. Ma un bel giorno ci siamo imbattuti in questo ragazzo - lui diede un'occhiata alle droghe da quattro soldi che vendevamo in quel periodo e disse che avrebbe potuto fare "di meglio". E lo fece. Adesso lavora per noi. Semplice.}
 {801}{}{Chi e' questo ragazzo e dove si trova?}
 {820}{}{Il nome del ragazzo e' Myron. Per quanto riguarda il DOVE si trova, questa e' una cosa che non ti serve sapere.}
 {821}{}{Il nome del ragazzo e' Myron. L'abbiamo sistemato giu' alle Stalle, a nord della citta', a sperimentare nuove droghe. Puoi andare a trovarlo, se vuoi, ma e' molto occupato... sia con le droghe che con le donne.}
 {822}{}{Perche' non ti fai furbo e non me lo dici lo stesso?}
-{823}{}{Lasciamo perdere. Avrei delle altre domande...}
+{823}{}{Capito. Avrei delle altre domande...}
 {824}{}{Myron, eh? D'accordo, allora. Grazie per la chiacchierata, Jesus.}
 {840}{}{Il Desperado e' il posto giusto, homes. Abbiamo il Jet, i giochi, il divertimento... e abbiamo tutte le putas che ti servono proprio qua fuori, calde e vogliose. Il Paradiso, homes. Il Pa-ra-di-so.}
 {841}{}{Il Desperado e' il posto giusto, chica. Abbiamo il Jet, i giochi, il divertimento. Non hai bisogno di andare da nessun'altra parte.}
@@ -187,10 +187,10 @@
 {862}{}{Provaci, PICCOLO Jesus e vediamo cosa succede.}
 {863}{}{Provaci, e aggiungero' talmente tante cicatrici alla tua faccia da farti assomigliare ad un puzzle.}
 {864}{}{Calmati... stavo solo scherzando.}
-{865}{}{Oh. Avrei delle altre domande...}
+{865}{}{Rilassati. Avrei delle altre domande...}
 {867}{}{Me ne vado. E' stato bello parlare con una persona raffinata come te.}
 {880}{}{Ah! Okay, chica. Okay. Lil' Jesus ti terra' d'occhio... e davvero non potrei fare altrimenti. Cosa posso fare per te?}
-{881}{}{La prima cosa che potresti fare per me e' tenere i tuoi occhi al loro posto, PICCOLO Jesus. Preferirei baciare un porcospino piuttosto che toccare quell'ammasso di crateri che tu chiami faccia.}
+{881}{}{La prima cosa che potresti fare per me e' tenere i tuoi occhi al loro posto, PICCOLO Jesus. Preferirei scoparmi un sasso piuttosto che toccare quell'ammasso di crateri che tu chiami faccia.}
 {882}{}{Sto cercando un lavoro. Sai se qualcuno assume?}
 {883}{}{Avrei delle altre domande...}
 {884}{}{Veramente, adesso devo andare. E' stato bello parlare con te, Jesus.}
@@ -211,7 +211,7 @@
 {920}{}{Oh, e credi che questo aggiusti tutto, eh? (Sputa ai tuoi piedi.) Sparisci da qui prima che ti faccia a fettine.}
 {921}{}{Provaci e vediamo cosa succede... PICCOLO Jesus.}
 {922}{}{Calmati, Jesus... ascolta, ho qualche altra domanda...}
-{923}{}{Me ne stavo andando.}
+{923}{}{Me ne vado.}
 {924}{}{Mi hai sputato sulla scarpa? Ma vaffanculo! Ti daro' una lezione su cos'e' il rispetto, rottinculo che non sei altro!}
 {930}{}{No, non io... vai al piano di sopra e parla con il mio Pa'. E' lui la persona che cerchi.}
 {931}{}{E tu saresti...?}
@@ -224,10 +224,10 @@
 {950}{}{Quel pisciasotto del figlio di Wright? Ah! Stai cercando di dare a me la colpa? Sei sfortunato: non mi dispiace che quel coglioncello sia morto, ma non ho NULLA a che fare con la sua morte.}
 {951}{}{Oh, davvero? Beh, i Mordino sono i maggiori fornitori di Jet a New Reno. Cio' vi rende i maggiori indiziati in casi come questo.}
 {952}{}{Non ti credo. Penso che tu SIA il responsabile. Tu e il resto dei Mordino.}
-{953}{}{Chi pensate possa averlo fatto?}
-{954}{}{Oh. Senta, ho delle altre domande...}
+{953}{}{Chi pensi che possa averlo fatto?}
+{954}{}{Okay... senti, ho delle altre domande...}
 {955}{}{D'accordo. Chiedevo solo.}
-{965}{}{(Sgrana gli occhi.) Ascolta, non ho NIENTE a che fare con la morte di quel ragazzo. Non so cosa tu abbia sentito dire in giro, ma se avessi voluto ucciderlo, l'avrei fatto a fette con il mio coltello; non l'avrei mai fatto sballare a morte con il Jet, capito?}
+{965}{}{(Stringe gli occhi.) Ascolta, non ho NIENTE a che fare con la morte di quel ragazzo. Non so cosa tu abbia sentito dire in giro, ma se avessi voluto ucciderlo, l'avrei fatto a fette con il mio coltello; non l'avrei mai fatto sballare a morte con il Jet, capito?}
 {966}{}{Certo... e con cio'? Non significa che l'abbiamo FATTO. Quell'idiota s'e' fatto troppa roba in un colpo solo. Non mi dispiace che sia morto. E se il vecchio Wright comincia a fare storie, lo sotterreremo proprio accanto a quel tossico di suo figlio.}
 {967}{}{Sei un vero filantropo, Jesus.}
 {968}{}{Davvero un MAGNIFICO modo di vedere le cose, Jesus.}
@@ -243,12 +243,12 @@
 {992}{}{Chi sono gli altri spacciatori?}
 {993}{}{Si', questo me l'hai gia' detto. Ascolta, ho delle altre domande...}
 {994}{}{D'accordo, Jesus. Grazie delle informazioni.}
-{1000}{}{PERCHE' e' un pazzo mezzo orbo. E perche' tutti, e dico TUTTI, sanno che vende ROBA CATTIVA, ecco i tuoi fottuti perche'. Va' da lui, vedi cosa ti dice a proposito del ragazzo di Wright e POI vedrai se non ho ragione.}
+{1000}{}{PERCHE' e' un bifolco mezzo orbo, cattivo come la peste, che vende ROBA SCHIFOSA, ecco perche', cazzo. Va' da lui, vedi cosa ti dice a proposito del ragazzo di Wright e POI vedrai se non ho ragione.}
 {1001}{}{Che altri spacciatori ci sono?}
 {1002}{}{Magari lo faro'. Senti, ho delle altre domande...}
 {1003}{}{D'accordo, Jesus. Andro' a controllare questo Renesco.}
-{1010}{}{C'e' Jules, appena entri in citta', che spaccia soprattutto ai nuovi arrivati... e Jimmy J lo Sfregiato, nella seconda strada, vicino alla palestra... non puoi non notare quel rifiuto umano perche' una notte, mentre era fatto di Jet, si e' fatto dei tagli alla faccia che adesso e' ricoperta di cicatrici.}
-{1011}{}{Mi hanno detto che anche tu spacci droga, Jesus. Come mai il TUO nome non compare nella tua lista?}
+{1010}{}{C'e' Jules, appena entri in citta', che spaccia soprattutto ai nuovi arrivati... e Jimmy J lo Sfregiato, sulla Seconda Strada, vicino alla palestra... non puoi non notare quel rifiuto umano perche' una notte, mentre era fatto di Jet, si e' fatto dei tagli alla faccia che adesso e' ricoperta di cicatrici.}
+{1011}{}{Mi hanno detto che anche tu spacci droga, Jesus. Come mai il TUO nome non compare in quella lista?}
 {1012}{}{Perche' pensi che il responsabile sia Renesco?}
 {1013}{}{Interessante. Ho delle altre domande...}
 {1014}{}{Renesco, Jules e Jimmy J lo Sfregiato. Ho capito. Grazie delle informazioni.}
@@ -274,7 +274,7 @@
 {1053}{}{Non saprei, chica... voglio dire, POTREI anche fare un'eccezione per una donna come te, ma non ho molto tempo libero... e il combattimento con il coltello e' un'ARTE, sai?}
 {1054}{}{Ti daro' cento dollari.}
 {1055}{}{Ti daro' duecento dollari.}
-{1056}{}{Anche il mio modo di fare all'amore e' molto artistico. Che ne diresti di scambiarci le nostre conoscenze?}
+{1056}{}{Anche il mio modo di fare l'amore e' molto artistico. Che ne diresti di scambiarci le nostre conoscenze?}
 {1058}{}{Veramente, avrei delle altre domande...}
 {1059}{}{Un'altra volta, allora... quando avro' abbastanza soldi da farti cambiare idea.}
 {1060}{}{Magari un'altra volta, grazie.}
@@ -306,13 +306,13 @@
 {5256}{}{?}
 {5257}{}{. Vieni con noi?}
 {5271}{}{. Abbassa la cresta e smamma, o preparati al peggio.}
-{5273}{}{non provate a fare i furbi con noi, o diventerete cibo per vermi. Vattene da qui!}
+{5273}{}{ non provate a fare i furbi con noi, o diventerete cibo per vermi. Vattene da qui!}
 {5276}{}{? Ha appena finito di baciarmi il culo e se n'e' andata. Faresti meglio ad andartene anche tu.}
 {5280}{}{, faresti meglio ad andartene.}
 {5320}{}{? Con quel gancio destro che ti ritrovi, dovresti camminare a testa alta.}
 {5340}{}{? Sei diabolico. Sai come MUOVERTI, hombre.}
 {5343}{}{.}
-{5344}{}{. Se le altre famiglie ti vedessero, andrebbero a nascondersi in un instante.}
+{5344}{}{. Se le altre famiglie ti vedessero, andrebbero a nascondersi in un istante.}
 {5346}{}{. L'hai proprio *spazzato via* quel tipo.}
 {5347}{}{?}
 {5380}{}{? Dai, cammina a testa alta.}

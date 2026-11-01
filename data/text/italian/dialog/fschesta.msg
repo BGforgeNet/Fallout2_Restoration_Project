@@ -1,5 +1,5 @@
 {100}{}{Vedi il terminale di un computer.}
-{101}{}{Vedi una postazione chimica.}
+{101}{}{Vedi la postazione di Chimica.}
 {102}{}{Vedi una stazione di lavoro computerizzata.}
 {103}{}{Benvenuti. Siete pregati di inserire la password per confermare la vostra identita'.}
 {104}{}{? Me no capisce parole grosse.}
@@ -17,7 +17,7 @@
 {116}{}{Allarme intruso attivato. Spegnimento in corso. Buona giornata.}
 {117}{}{[FATTO]}
 {118}{}{(Dopo aver esaminato le complesse formule chimiche e le note di laboratorio, giungi alla conclusione che gli Shi hanno creato un tipo di combustibile a base di estratti di piante terrestri e marine. Pare che gli Shi si siano agganciati a tubature pre-esistenti in modo tale da poter trasferire il combustibile verso varie destinazioni.)}
-{119}{}{(Ti imbatti in una vasta serie di formule chimiche complesse e note di laboratorio. Non sei molto sicuro di cosa possano significare.)}
+{119}{}{(Ti imbatti in una vasta serie di formule chimiche complesse e note di laboratorio. Non e' molto chiaro cosa possano significare.)}
 {120}{}{Inviare il combustibile alla petroliera Poseidon.}
 {121}{}{Inviare il combustibile agli Hubologisti.}
 {122}{}{Indietro.}
@@ -30,7 +30,7 @@
 {129}{}{Postazione disattivata.}
 {130}{}{Attivare postazione.}
 {131}{}{Te ne vai.}
-{132}{}{[Il tuo approccio casuale fa' miracoli... sei entrato nel sistema!]}
+{132}{}{[Il tuo approccio casuale fa miracoli... sei dentro il sistema!]}
 {133}{}{[AVANTI]}
 {134}{}{Il computer non risponde a nessun input.}
 {135}{}{Non trovi nessun posto dove metterlo.}

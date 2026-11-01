@@ -1,8 +1,8 @@
 {100}{}{Vedi un croupier.}
-{101}{}{Vedi Tre-Carde Monte.}
+{101}{}{Vedi Tre-Carte Monte.}
 {150}{}{Vedi un vecchio dall'aspetto ossuto con il viso arrossato dal sole. E' cosi' magro che sembra fatto di ramoscelli.}
-{151}{}{Vedi Tre-Carde Monte. Scruta la strada, ti nota e annuisce.}
-{152}{}{Vedi Tre-Carde Monte. Scruta la strada, ti nota e annuisce.}
+{151}{}{Vedi Tre-Carte Monte. Scruta la strada, ti nota e annuisce.}
+{152}{}{Vedi Tre-Carte Monte. Scruta la strada, ti nota e annuisce.}
 {200}{}{Non capisco come abbia perso...}
 {201}{}{Continua a camminare... Monte oggi non e' in affari.}
 {202}{}{Ho nascosto la carta sbagliata?}
@@ -33,16 +33,16 @@
 {237}{}{(Monte sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, amico?}
 {238}{}{(Monte sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, signora?}
 {239}{}{(Monte sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, eroe?}
-{240}{}{Tre-Carde Monte e' il nome, e il gioco e' lo stesso del nome. Metti giu' 20 fiches e iniziamo.}
+{240}{}{Tre-Carte Monte e' il nome, e il gioco e' lo stesso del nome. Metti giu' 20 fiches e iniziamo.}
 {241}{}{Tu imbroglione. Tu non giochi giusto}
 {242}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio}
 {243}{}{Uh, io lusingato ma io non voglio iniziare ora... ciaaaao}
 {244}{}{-Allontanati-}
 {245}{}{Giochiamo.}
-{246}{}{Ehm… metterci a fare cosa, esattamente?}
+{246}{}{Ehm... metterci a fare cosa, esattamente?}
 {247}{}{Conosco il gioco. Giochiamo.}
-{248}{}{Tre-Carde Monte, eh? Metti tre carte a faccia in giu', le mescoli, e io ne scelgo una. Se e' quella giusta — cosa che non sara', visto che la nascondi mentre mescoli — allora vinco. No grazie, amico.}
-{249}{}{Tre-Carde Monte, eh? Metti tre carte a faccia in giu', le mescoli, e io ne scelgo una. Se e' quella giusta — cosa che non sara', visto che la nascondi mentre mescoli — allora vinco. No grazie, amico.}
+{248}{}{Tre-Carte Monte, eh? Metti tre carte a faccia in giu', le mescoli, e io ne scelgo una. Se e' quella giusta -- cosa che non sara', visto che la nascondi mentre mescoli -- allora vinco. No grazie, amico.}
+{249}{}{Tre-Carte Monte, eh? Metti tre carte a faccia in giu', le mescoli, e io ne scelgo una. Se e' quella giusta -- cosa che non sara', visto che la nascondi mentre mescoli -- allora vinco. No grazie, amico.}
 {250}{}{Non oggi, grazie.}
 {251}{}{Iniziare cosa? Il gioco, ovviamente!}
 {252}{}{Vedi... (ti mostra tre carte) ...una di queste e' una regina. Le metto a faccia in giu', le mescolo, e poi scegli quale e' la regina. Se indovini, vinci.}
@@ -65,7 +65,7 @@
 {270}{}{Quella a sinistra.}
 {271}{}{Quella a destra.}
 {272}{}{Quella al centro.}
-{280}{}{(Monte gira la carta. E' la... }
+{280}{}{(Monte gira la carta. E' un }
 {281}{}{Spiacente, amico, non stavolta, ma ci sei andato VICINO.}
 {282}{}{Spiacente, signora, non stavolta, ma ci sei andata VICINO.}
 {283}{}{Pero' ci sai fare, davvero. Vuoi riprovare?}
@@ -93,13 +93,13 @@
 {323}{}{Nuh-uh. Io SAPEVO tu imbroglia}
 {324}{}{Nuh-uh! Nuh-uh! Non arrabbiarti. Io andare.}
 {325}{}{Si'.}
-{326}{}{Tieni pure i soldi. Me ne vado.}
+{326}{}{Al diavolo. Tieni pure i soldi, me ne vado.}
 {330}{}{Ascolta, non ho tempo per i perdenti frignoni. Paghi i tuoi soldi, ti giochi la tua occasione. Se vuoi GIOCARE, bene, ma se devi solo lamentarti quando perdi, allora sparisci!}
 {331}{}{ME SPACCA TE}
 {332}{}{Nuh-uh! Nuh-uh! Non arrabbiarti. Io andare.}
 {333}{}{Basta cosi'. Sei morto.}
-{334}{}{D’accordo, d’accordo. Scusa. Ecco 20 fiches. Giochiamo ancora.}
-{335}{}{Tieni pure i soldi. Me ne vado.}
+{334}{}{D'accordo, d'accordo. Scusa. Ecco 20 fiches. Giochiamo ancora.}
+{335}{}{Fottiti. Tieni pure i soldi, me ne vado.}
 {340}{}{(Consegni i soldi. Monte annuisce, poi sbatte le carte a terra e le mescola per qualche secondo.)}
 {341}{}{Allora... qual e' la regina, amico?}
 {342}{}{Allora... qual e' la regina, signora?}
@@ -135,7 +135,7 @@
 {385}{}{(Monte gira la carta. E' la regina di cuori. Sembra sconvolto.) Uh...? Heh... uh...}
 {386}{}{Credo che tu abbia vinto, amico.}
 {387}{}{Credo che tu abbia vinto, signora.}
-{388}{}{Mi hai ripulito... (ti guarda sconsolato) C’e' qualcos’altro che posso fare per te?}
+{388}{}{Mi hai ripulito... (ti guarda sconsolato) C'e' qualcos'altro che posso fare per te?}
 {389}{}{Niente. Io volevo solo un po' di EXP extra. Ciao. Ciao.}
 {390}{}{Cosa hai da offrire?}
 {391}{}{Perche' non mi dai qualche informazione?}
@@ -146,31 +146,31 @@
 {404}{}{Eh... dipende da cosa vuoi sapere.}
 {405}{}{Sai chi ha fatto fuori il figlio dei Wright? Chi l'ha fatto andare in overdose di Jet?}
 {406}{}{Sai dove posso trovare uno chiamato Pretty Boy Lloyd?}
-{407}{}{Sai dov’e' finita la mia macchina, Monte?}
+{407}{}{Sai dov'e' finita la mia macchina, Monte?}
 {408}{}{Hai qualcosa che pensi dovrei sapere?}
 {409}{}{Lascia stare, Monte. Siamo pari. Ci vediamo.}
 {415}{}{Eh... be'... senti, non l'hai sentito da me, ma io punto su Renesco, quello stronzo che gestisce la farmacia sul lato ovest. Non so se l'ha venduta LUI al ragazzo, ma sa qualcosa. Questo e' tutto quello che dico.}
-{416}{}{D’accordo, Monte. Siamo pari.}
+{416}{}{D'accordo, Monte. Siamo pari.}
 {420}{}{Eh... be'... (sembra combattere una battaglia interiore) ...senti, non l'hai sentito da me, ma se fossi in te darei un'occhiata al seminterrato del Desperado.}
-{421}{}{D’accordo, Monte. Siamo pari.}
+{421}{}{D'accordo, Monte. Siamo pari.}
 {425}{}{(Socchiude gli occhi, si avvicina) Io chiederei al vecchio Jules all'ingresso della citta'. Niente gli sfugge... e se QUALCOSA gli e' sfuggito, allora ci aveva messo lo zampino, capisci cosa intendo?}
-{426}{}{D’accordo, Monte. Siamo pari.}
+{426}{}{D'accordo, Monte. Siamo pari.}
 {430}{}{Be'... conosci quel tipo Eldridge che gestisce New Reno Arms? Dice che fa potenziamenti alle armi, ma non l'ho mai visto lavorare. Potrebbe valere la pena dare un'occhiata al suo posto... ma non l'hai sentito da me.}
-{431}{}{D’accordo, Monte. Siamo pari.}
+{431}{}{D'accordo, Monte. Siamo pari.}
 {435}{}{(Monte aggrotta le sopracciglia quando ti vede.) Senti, oggi non sto facendo nessun gioco, okay? Sparisci.}
 {436}{}{Posso comprare quella carta che mi hai mostrato prima?}
 {437}{}{Volevo qualche informazione...}
-{438}{}{D’accordo, Monte. Me ne vado... per ora.}
-{440}{}{No. Non me ne separo. Punto. E' AUTENTICA memorabilia pre-guerra... un piccolo pezzo di storia. In nessun modo.}
-{441}{}{Mi stai facendo UN'ALTRA offerta? Senti, ti ho detto che non lo vendo.}
-{442}{}{Che ne dici di mille chip? Ce li ho con me. Sono tuoi in cambio di quella carta.}
+{438}{}{D'accordo, Monte. Me ne vado... per ora.}
+{440}{}{No. Non me ne separo. Punto. E' un AUTENTICO cimelio d'anteguerra... un piccolo pezzo di storia. Neanche per sogno.}
+{441}{}{Mi stai facendo UN'ALTRA offerta? Senti, ti ho detto che non la vendo.}
+{442}{}{Che ne dici di mille fiches? Ce li ho con me. Sono tuoi in cambio di quella carta.}
 {443}{}{Nemmeno per 750 fiches?}
 {444}{}{E per 500 fiches?}
-{445}{}{250 chip ti sembrano giusti?}
+{445}{}{250 fiches ti sembrano giuste?}
 {446}{}{Okay. Avrei delle altre domande...}
 {447}{}{Allora lascia stare, Monte. Me ne vado.}
 {450}{}{Sei sordo? Quella cifra non basta neanche a interessarmi.}
-{451}{}{E se ti proponessi un’altra cifra...?}
+{451}{}{E se ti proponessi un'altra cifra...?}
 {452}{}{Avrei delle altre domande...}
 {453}{}{Allora lascia stare, Monte. Me ne vado.}
 {460}{}{Be', non ci sono COSI' affezionato. E' tua, amico. (Si guarda a destra e a sinistra, poi si china e si sfila
@@ -180,16 +180,16 @@
 {465}{}{(Corruga la fronte) Se parlo dipende da cosa vuoi sapere. E non sara' a buon mercato.}
 {466}{}{Sai chi ha fatto fuori il figlio dei Wright? Chi l'ha fatto andare in overdose di Jet?}
 {467}{}{Sai dove posso trovare uno chiamato Pretty Boy Lloyd?}
-{468}{}{Sai dov’e' finita la mia macchina, Monte?}
+{468}{}{Sai dov'e' finita la mia macchina, Monte?}
 {469}{}{Hai qualcosa che pensi dovrei sapere?}
 {470}{}{Allora lascia stare, Monte. Me ne vado.}
-{475}{}{Neanche a Golgota mi avvicinerei a quell'argomento. Vaffanculo.}
+{475}{}{Neanche morto, a Golgotha, toccherei quell'argomento. Vaffanculo.}
 {476}{}{Senti, quell'argomento porta solo guai. Lascia perdere, ok?}
 {477}{}{Mi stai facendo un'altra offerta? Senti, ti ho detto che NON ne parlero'.}
 {478}{}{Mille fiches ti fanno cambiare idea? Le ho con me.}
 {479}{}{Nemmeno per 750 fiches?}
 {480}{}{E per 500 fiches?}
-{481}{}{250 chip ti sembrano giusti?}
+{481}{}{250 fiches ti sembrano giuste?}
 {482}{}{Uh... Golgotha?}
 {483}{}{Avrei delle altre domande...}
 {484}{}{Allora lascia stare, Monte. Me ne vado.}
@@ -197,14 +197,14 @@
 {491}{}{E se ti offrissi questo...}
 {492}{}{Avrei delle altre domande...}
 {493}{}{Allora lascia stare, Monte. Me ne vado.}
-{495}{}{Eh... be'... sono tanti chip. (Si lecca le labbra. Sembra combattuto dentro....ma la battaglia dura poco.) Senti, non l'hai sentito da me...}
+{495}{}{Eh... be'... sono tante fiches. (Si lecca le labbra. Sembra combattuto dentro....ma la battaglia dura poco.) Senti, non l'hai sentito da me...}
 {496}{}{Capito. Continua.}
 {500}{}{(Sogghigna) Forse ho sentito qualcosa, forse no. Dimmi una cifra.}
-{501}{}{D’accordo... parliamo del prezzo.}
+{501}{}{D'accordo... parliamo del prezzo.}
 {502}{}{Che ne dici di mille fiches? Le ho con me.}
 {503}{}{Nemmeno per 750 fiches?}
 {504}{}{E per 500 fiches?}
-{505}{}{250 chip ti sembrano giusti?}
+{505}{}{250 fiches ti sembrano giuste?}
 {506}{}{Avrei delle altre domande...}
 {507}{}{Allora lascia stare, Monte. Me ne vado.}
 {510}{}{Ah! Con quella roba non compreresti neanche un secchio di piscio. Lascia perdere.}
@@ -215,11 +215,11 @@
 {516}{}{Avrei delle altre domande...}
 {517}{}{Capito. Grazie.}
 {520}{}{(Scrolla le spalle) Forse so qualcosa, forse no. Dimmi una cifra e potrei avere qualcosa da dire.}
-{521}{}{D’accordo... parliamo del prezzo.}
+{521}{}{D'accordo... parliamo del prezzo.}
 {522}{}{Che ne dici di mille fiches? Le ho con me.}
 {523}{}{Nemmeno per 750 fiches?}
 {524}{}{E per 500 fiches?}
-{525}{}{250 chip ti sembrano giusti?}
+{525}{}{250 fiches ti sembrano giuste?}
 {526}{}{Avrei delle altre domande...}
 {527}{}{Allora lascia stare, Monte. Me ne vado.}
 {530}{}{(Strizza gli occhi, si avvicina) Per quella cifra, non so niente.}
@@ -227,17 +227,17 @@
 {532}{}{Avrei delle altre domande...}
 {533}{}{Allora lascia stare, Monte. Me ne vado.}
 {535}{}{Ci siamo... (strizza gli occhi, si avvicina) ...chiederei al vecchio Jules all'ingresso della citta'. Niente
- gli sfugge... e se qualcosa gli fosse sfuggito, ci aveva messo il dito, capisci cosa intendo?}
+ gli sfugge... e se qualcosa gli fosse sfuggito, ci aveva messo lo zampino, capisci cosa intendo?}
 {536}{}{Avrei delle altre domande...}
-{537}{}{D’accordo allora, Monte. Grazie.}
-{540}{}{(Scrolla le spalle) Sento cose, vedo cose. Per 200 chip, forse puoi attingere alla mia esperienza, capisci cosa intendo?}
+{537}{}{D'accordo allora, Monte. Grazie.}
+{540}{}{(Scrolla le spalle) Sento cose, vedo cose. Per 200 fiches, forse puoi attingere alla mia esperienza, capisci cosa intendo?}
 {541}{}{Ecco 200 fiches.}
 {542}{}{Te ne do 150.}
 {543}{}{100 fiches o niente.}
 {544}{}{Avrei delle altre domande...}
 {545}{}{Allora lascia stare, Monte. Me ne vado.}
-{550}{}{Sei sordo? HO DETTO 200 chip, e lo penso davvero.}
-{551}{}{D’accordo. Ecco 200 fiches.}
+{550}{}{Sei sordo? HO DETTO 200 fiches, e lo penso davvero.}
+{551}{}{D'accordo. Ecco 200 fiches.}
 {552}{}{Avrei delle altre domande...}
 {553}{}{Allora lascia stare, Monte. Me ne vado.}
 {555}{}{Affare fatto. (Monte si avvicina) Be', conosci quel tipo Eldridge, quello che gestisce la New Reno Arms? DICE che fa
@@ -247,17 +247,17 @@
 {560}{}{Il Boneyard a sud della citta'. Puzza da fare schifo, quello.}
 {561}{}{Oh... capisco. Ora, riguardo al ragazzo dei Wright...}
 {562}{}{Lascia perdere il ragazzo dei Wright. Avevo altre domande...}
-{563}{}{D’accordo allora, Monte. Grazie.}
+{563}{}{D'accordo allora, Monte. Grazie.}
 {565}{}{Io punto su Renesco, quel vecchio stronzo che gestisce la farmacia sul lato ovest. Non so
  se l'ha venduta AL ragazzo di sicuro, ma sa QUALCOSA. (Si guarda intorno) E' tutto quello che diro'.}
 {566}{}{Avrei delle altre domande...}
-{567}{}{D’accordo allora, Monte. Grazie.}
+{567}{}{D'accordo allora, Monte. Grazie.}
 {570}{}{(Si guarda intorno, poi si china e si sfila lo stivale. Svita il tacco e tira fuori una carta... sulla carta
- c'e' un uomo con uno strano cappello che impugna una mazza.) Interessato? E' autentica memorabilia pre-guerra.}
+ c'e' un uomo con uno strano cappello che impugna una mazza.) Ti interessa? E' un autentico cimelio d'anteguerra.}
 {571}{}{No, ho gia' abbastanza oggetti nell'inventario... preferirei avere qualche informazione invece.}
 {572}{}{Uh, certo. Perche' no? Questo chiudera' i conti tra noi.}
 {573}{}{Mi spiace, amico: senza fiches niente gioco. Torna quando avrai piu' soldi.}
-{574}{}{Mi spiace, signora: senza fiches niente gioco. Torni quando avra' piu' soldi.}
+{574}{}{Mi spiace, signora: senza fiches niente gioco. Torna quando avrai piu' soldi.}
 {575}{}{Sara' per la prossima volta, allora.}
 {576}{}{Scambi rapidamente il mazzo di carte di Monte con il mazzo segnato.}
 {600}{}{picche}

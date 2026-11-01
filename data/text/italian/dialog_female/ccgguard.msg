@@ -9,7 +9,7 @@
 {108}{}{Ho il mio pass... era qui un momento fa.}
 {109}{}{Sono una nuova recluta. Mi e' stato detto che mi stavate aspettando.}
 {110}{}{Oh, scusa. Allora credo che me ne andro'.}
-{111}{gate2}{Sei un po' lento, vero?? Beh, vattene, non tornare piu' e vedrai che non ti succedera' nulla. Mi hai Capito?}
+{111}{gate2}{Sei un po' lento, vero?? Beh, vattene, non tornare piu' e vedrai che non ti succedera' nulla. Mi hai capito?}
 {112}{}{Me vuole andare dentro.}
 {113}{}{Ok. Me va.}
 {114}{gate3}{Nessuno entr... Dannazione. (lentamente) Serve pass per entrare. Tu no avere pass. Tu andare via. Tu no andare via, tu venire fatto male. Capito?}
@@ -27,7 +27,7 @@
 {126}{}{Sheepshead.}
 {127}{}{Si'.}
 {128}{gate7a}{Un momento. (pausa) Okay, sei a posto. Presentati dal sergente istruttore. Attraversa il cancello, supera il canile ed entra nella prima porta sulla destra.}
-{129}{gate7b}{(mumble) 'Ste dannate teste vuote diventano piu' stupide ogni secondo che passa.}
+{129}{gate7b}{(borbotta) 'Ste dannate teste vuote diventano piu' stupide ogni secondo che passa.}
 {130}{}{Ok.}
 {131}{gate8a}{Alt! ... Oh. Vedo che sei tornato... da solo, questa volta. Molto bene, recluta, qual e' la parola d'ordine?}
 {132}{gate8b}{Alt! ... Ancora tu. Vedo che sei ancora in compagnia del tuo gruppo. (mette una mano sull'arma) Ti suggerisco di allontanarti immediatamente da questa installazione e di non tornare piu'. Sono stato chiaro?}
@@ -45,11 +45,11 @@
 {144}{}{Per dirla alla maniera degli antichi... Vaffanculo!}
 {145}{gate11a}{Alt! ... Ancora tu? Ti avevo avvertito. Allarme! Intruso al cancello! }
 {146}{}{Dannazione!}
-{147}{}{Intruso al cancello!}
+{147}{}{Intrusa al cancello!}
 {148}{}{Entrata principale sotto attacco!}
 {149}{}{Al cancello! Intrusi al cancello!}
 {200}{}{...stronzo...}
 {201}{}{...si', fai BENE ad andartene...}
 {202}{}{...Giovane Marmotta dei miei stivali...}
 {203}{}{...si', signore! Fottiti, signore!...}
-{300}{}{Circolare soldato.}
+{300}{}{Circolare, soldato.}

@@ -16,7 +16,7 @@
 {115}{}{Devo compilare gli ultimi inventari delle scorte e inserirli nel Server Liste...}
 {116}{}{Mi manca il DOS. Con questo nuovo sistema operativo e' piu' difficile inserire le liste...}
 {117}{}{Devo ancora preparare quelle liste d'inventario per il Primo Cittadino...}
-{118}{}{Spiacente, siamo chiusi per la notte. Tornate domattina.}
+{118}{}{Spiacente, siamo chiusi per stasera. Tornate domattina.}
 {119}{}{L'Emporio e' chiuso. Sto finendo di compilare queste liste prima di andare a casa.}
 {120}{}{Ehila', straniero. E' sempre un piacere vedere qualche faccia nuova. Io sono Randal... sono l'Addetto Responsabile dell'Emporio. Ti serve qualcosa?}
 {121}{}{Gechkk}
@@ -43,7 +43,7 @@
 {142}{}{Le dispiace se le chiedo qualcos'altro?}
 {143}{}{Beh, come non detto, allora.}
 {144}{}{Potresti controllare il Computer Centrale del Vault e vedere se sono riportate le coordinate di qualche altro Vault. Io ne dubito, ma tentar non nuoce.}
-{145}{}{Beh, se tu avessi la possibilita' di accedere al Computer Centrale del nostro Vault, dovresti poter trovare qualche riferimento agli altri Vault. Ma solamente i Cittadini posso entrare nel Vault.}
+{145}{}{Beh, se tu avessi la possibilita' di accedere al Computer Centrale del nostro Vault, dovresti poter trovare qualche riferimento agli altri Vault. Ma solamente i Cittadini possono entrare nel Vault.}
 {146}{low_iq_thank_you}{Grazie}
 {147}{}{Le dispiace se le chiedo qualcos'altro?}
 {148}{}{Grazie delle informazioni.}
@@ -54,16 +54,16 @@
 {153}{}{Cos'hai detto che era, questo posto?}
 {154}{}{Non e' che avete un GECK, in magazzino?}
 {155}{}{Valerie, giu' al capanno riparazioni, avrebbe bisogno di una nuova chiave inglese e di un paio di pinze.}
-{156}{}{Il Senatore McClure mi ha detto che lei dovrebbe avere un... ehm, idro-magneto-coso e che l'avrei potuto avere per riparare la centrale di Gecko.}
-{157}{}{Il Senatore McClure mi ha detto che lei dovrebbe avere un regolatore idroelettrico di magnetosfera e che avrei potuto averlo.}
+{156}{}{Il Consigliere McClure mi ha detto che lei dovrebbe avere un... ehm, idro-magneto-coso e che l'avrei potuto avere per riparare la centrale di Gecko.}
+{157}{}{Il Consigliere McClure mi ha detto che lei dovrebbe avere un regolatore idroelettrico di magnetosfera e che avrei potuto averlo.}
 {158}{}{Il Primo Cittadino mi manda qui per ricevere la mia ricompensa.}
 {159}{}{Al momento non mi serve nulla, grazie.}
 {160}{}{Questo e' l'Emporio. Abbiamo vari tipi di oggetti... generi di prima necessita', qualche libro, manuali, qualche attrezzo, stimpak, medicinali, un po' di questo e un po' di quello.}
 {161}{}{Bene. Posso vedere quel che avete?}
 {162}{}{Hai un GECK?}
 {163}{}{Valerie, giu' al capanno riparazioni, avrebbe bisogno di una nuova chiave inglese e di un paio di pinze.}
-{164}{}{Il Senatore McClure mi ha detto che lei dovrebbe avere un... ehm, idro-magneto-coso e che l'avrei potuto avere per riparare la centrale di Gecko.}
-{165}{}{Il Senatore McClure mi ha detto che lei dovrebbe avere un regolatore idroelettrico di magnetosfera e che avrei potuto averlo.}
+{164}{}{Il Consigliere McClure mi ha detto che lei dovrebbe avere un... ehm, idro-magneto-coso e che l'avrei potuto avere per riparare la centrale di Gecko.}
+{165}{}{Il Consigliere McClure mi ha detto che lei dovrebbe avere un regolatore idroelettrico di magnetosfera e che avrei potuto averlo.}
 {166}{}{Il Primo Cittadino mi manda qui per ricevere la mia ricompensa.}
 {167}{}{Le dispiace se le faccio qualche altra domanda?}
 {168}{}{Tornero' un'altra volta.}
@@ -72,10 +72,10 @@
 {171}{}{Come posso diventare una Cittadina?}
 {172}{}{Ma... uh, io sono una Cittadina. Non si ricorda di me?}
 {173}{}{Senta, i miei soldi hanno lo stesso valore di quelli di un qualsiasi Cittadino.}
-{174}{}{Il Senatore McClure mi ha detto che lei dovrebbe avere un regolatore idroelettrico di magnetosfera e che avrei potuto averlo.}
+{174}{}{Il Consigliere McClure mi ha detto che lei dovrebbe avere un regolatore idroelettrico di magnetosfera e che avrei potuto averlo.}
 {175}{}{Il Primo Cittadino mi manda qui per ricevere la mia ricompensa.}
 {176}{}{Le dispiace se le faccio qualche altra domanda?}
-{177}{}{D'accordo. Addio.}
+{177}{}{D'accordo. Arrivederci.}
 {178}{}{Puoi provare a superare il test di Cittadinanza. Il Proconsole Gregory sottopone a questo test ogni Esterno che desidera diventare un Cittadino. Credo che prima faresti meglio a parlare con il Primo Cittadino, pero'. E' lei che manda avanti la "baracca".}
 {179}{}{D'accordo. Dove posso trovarla?}
 {180}{}{Capisco. Le dispiace se le faccio qualche altra domanda?}
@@ -90,7 +90,7 @@
 {189}{}{Bene, lascia che ne faccia una scansione con questo lettore: giusto per controllare che sia tutto in ordine. E' questione di un attimo.}
 {190}{}{Cos-?! Whoa! Riddammi subito quei documenti!}
 {191}{}{Uh... in realta', adesso non ho proprio tempo di comprare qualcosa. Mi ridia i miei documenti: devo scappare.}
-{192}{}{D'accordo. Sono sicuro sia tutto in regola.}
+{192}{}{D'accordo. Sono sicura sia tutto in regola.}
 {193}{}{Beh... ehm, d'accordo.}
 {194}{}{Ti dispiace se ti faccio qualche domanda?}
 {195}{}{Ci vediamo.}
@@ -99,19 +99,19 @@
 {198}{}{Non le dispiace se invece le faccio qualche domanda?}
 {199}{}{Al momento non mi serve nulla, grazie.}
 {200}{}{E cosi'... tu sei la Cittadina }
-{201}{}{Gia', aveva detto che saresti passato... }
+{201}{}{Gia', aveva detto che saresti passata... }
 {202}{}{Okay.}
 {203}{}{Ripensandoci, lasciamo stare. Passero' piu' tardi.}
-{204}{}{Okay, ecco a te. Un Idro-Mag. Sembra una di quelle strane lampade, vero? Ah, non farlo cadere... e' piuttosto fragile.}
+{204}{}{Okay, ecco a te. Un Idro-Mag. Sembra una lampada di lava, vero? Ah, non farlo cadere... e' piuttosto fragile.}
 {205}{}{Mi dica: cos'altro avete in vendita?}
 {206}{}{Ti dispiace se ti faccio qualche domanda?}
 {207}{}{Grazie. Potrei rimanere a guardarlo per ore, prima di portarlo alla centrale di Gecko.}
 {208}{}{Ho capito. Grazie per il regolatore.}
-{209}{}{Gia', il Primo Cittadino mi aveva avvertito che saresti passato... Capitano. (Ammicca) Lascia che te lo dica, Capitano, c'e' qui una vera BELLEZZA che ti attende.}
+{209}{}{Gia', il Primo Cittadino mi aveva avvertito che saresti passata... Capitano. (Ammicca) Lascia che te lo dica, Capitano, c'e' qui una vera BELLEZZA che ti attende.}
 {210}{}{Gia', il Primo Cittadino mi aveva avvertito che saresti passata. Beh, lascia che te lo dica, amica, c'e' qui una vera BELLEZZA che aspetta solo te.}
-{211}{}{Cosa?}
+{211}{}{Cos'e'?}
 {212}{}{Me la tenga da parte. La prendero' piu' tardi.}
-{213}{}{Nientepopodimenoche una Heckler&Koch G11, una delle migliori armi d'assalto mai prodotte... (tira fuori l'arma, te la passa) ...spara cartucce scamiciate da 4.7 mm e ha un caricatore da 50 colpi. Quando parla, la gente non puo' fare a meno di ascoltarla.}
+{213}{}{Nientepopodimenoche una Heckler&Koch G11, una delle migliori armi d'assalto mai prodotte... (tira fuori l'arma, te la passa) ...spara cartucce scamiciate da 4,7 mm e ha un caricatore da 50 colpi. Quando parla, la gente non puo' fare a meno di ascoltarla.}
 {214}{}{Lo credo. Grazie.}
 {215}{}{Nessun problema. In piu', tieni... ecco un paio di granate a frammentazione da parte mia. Consideralo il mio ringraziamento per aver fatto fuori quei predoni.}
 {216}{}{Ottimo. Posso vedere cos'altro avete?}

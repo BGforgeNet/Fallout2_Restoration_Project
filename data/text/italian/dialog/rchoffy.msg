@@ -1,6 +1,6 @@
 {100}{}{Vedi un uomo corpulento e tarchiato, con i capelli corti ma folti.}
-{101}{}{Vedi James Hoffy, il carovaniere mastro.}
-{102}{}{Vedi un uomo sfregiato, dall'aspetto solido e dallo sguardo astuto.}
+{101}{}{Vedi James Hoffy, il capo carovaniere.}
+{102}{}{Vedi un uomo sfregiato, dall'aria da duro e dallo sguardo astuto.}
 {103}{}{Forza, fuori di qui.}
 {104}{}{Questo non e' un ostello di carita'. Vattene subito.}
 {105}{}{Ma chi e' che ti ha fatto uscire di casa?}
@@ -37,18 +37,18 @@
 {136}{}{Ti ho ascoltato abbastanza, dannato bigotto. Ci vediamo.}
 {137}{}{Oh, certo. Beh, questo spiega molte, molte cose. Eh, eh.}
 {138}{}{Adesso che abbiamo chiarito questo punto, lascia che ti chieda qualcos'altro.}
-{139}{}{Non stento a crederlo. Addio.}
+{139}{}{Non stento a crederlo. Arrivederci.}
 {140}{}{Vault City (Jimmy sputa con disdegno). Si', ti parlero' di quei figli di puttana. Quei fottuti bastardi si ritengono troppo superiori per trattarci con rispetto. Ci forniscono medicinali solo perche' hanno bisogno del nostro oro. Se cosi' non fosse, ci lascerebbero tutti a marcire. Se fossi in te non rimarrei troppo in quel posto, ragazzo. Ma se vuoi proprio vederla, la carovana di Ben Wade parte da qui per Vault City il primo di ogni mese.}
 {141}{}{Che cosa puoi dirmi a proposito di New Reno?}
 {142}{}{Che cosa puoi dirmi a proposito di NCR?}
 {143}{}{Grazie. Lascia che ti chieda qualcos'altro.}
 {144}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
-{145}{}{Quella si' che e' una citta'. Ma, mi raccomando: mantieni la tua mente lucida e la tua pistola pronta. Ci sono un sacco di scontri armati da quelle parti. Se mai le famiglie dovessero lavorare insieme, allora New Reno diventerebbe davvero un potenza da tenere in considerazione. Ma al momento...Pffft. Se vuoi andare la', unisciti alla carovana di Savinelli - parte da qui il 21 di ogni mese.}
+{145}{}{Quella si' che e' una citta'. Ma, mi raccomando: mantieni la tua mente lucida e la tua pistola pronta. Ci sono un sacco di scontri armati da quelle parti. Se mai le famiglie dovessero lavorare insieme, allora New Reno diventerebbe davvero una potenza da tenere in considerazione. Ma al momento... Pffft. Se vuoi andare la', unisciti alla carovana di Savinelli - parte da qui il 21 di ogni mese.}
 {146}{}{Che cosa puoi dirmi a proposito di Vault City?}
 {147}{}{Che cosa puoi dirmi a proposito di NCR?}
 {148}{}{Grazie. Lascia che ti chieda qualcos'altro.}
 {149}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
-{150}{}{La New California Republic e' piena di stronzi ipocriti. Si sono organizzati dandosi delle regole basate sulla giustizia. Persino troppo. Sono la comunita' piu' ipocrita che si possa incontrare al mondo. Stanwell guida una carovana per NCR che parte da qui l'11 di ogni mese.}
+{150}{}{La Repubblica della Nuova California e' piena di stronzi ipocriti. Si sono organizzati dandosi delle regole basate sulla giustizia. Persino troppo. Sono la comunita' piu' ipocrita che si possa incontrare al mondo. Stanwell guida una carovana per NCR che parte da qui l'11 di ogni mese.}
 {151}{}{Che cosa puoi dirmi a proposito di Vault City?}
 {152}{}{Che cosa puoi dirmi a proposito di New Reno?}
 {153}{}{Grazie. Lascia che ti chieda qualcos'altro.}
@@ -56,7 +56,7 @@
 {155}{}{Un Kit di Creazione del Giardino dell'Eden? Non so nulla di preciso, a parte il fatto che qui non l'abbiamo. Hmm. Dovresti provare in un vault. Non dovrebbero essere pieni di questo tipo di robe tecnologiche, eh?}
 {156}{}{Credo che faro' un tentativo. Lascia che ti chieda qualcos'altro.}
 {157}{}{Grazie della dritta. Ci vediamo.}
-{158}{}{Si', ho sentito che hanno trovato un pivello che si e' offerto di andare ad esplorare la Miniera Wanamingo in cerca di un vecchio chip.}
+{158}{}{Si', ho sentito che hanno trovato un pivello che si e' offerto di andare ad esplorare la Miniera di Wanamingo in cerca di un vecchio chip.}
 {159}{}{Mi hanno detto che lo Sceriffo ha trovato qualcuno a cui far fare il lavoro sporco al suo posto.}
 {160}{}{Non e' successo molto ultimamente. Solo il solito scavare, le carovane e robe cosi'.}
 {161}{}{Si', beh, quel pivello sono io. C'e' qualche problema?}

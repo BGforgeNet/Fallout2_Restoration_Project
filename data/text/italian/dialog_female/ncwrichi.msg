@@ -1,25 +1,25 @@
 {100}{}{Vedi uno dei bambini degli Wright. }
-{150}{}{Vedi un ragazzino con i capelli neri.}
+{150}{}{Vedi un bambino dai capelli neri.}
 {151}{}{Vedi una bambina dai capelli neri.}
 {155}{}{Ti fa una linguaccia.}
 {156}{}{Ti sta fissando con un'aria imbronciata.}
 {157}{}{Ti fa una linguaccia.}
 {158}{}{Ti guarda con sospetto.}
 {159}{}{Ti sta fissando con un'aria imbronciata.}
-{175}{}{Fallout 2 vi e' stato offerto da Letter Z.}
+{175}{}{Fallout 2 vi e' stato offerto dalla lettera Z.}
 {176}{}{Ehi! }
 {177}{}{}
-{178}{}{Grazie per averci salvato, }
+{178}{}{Grazie per averci salvati, }
 {179}{}{Quando saro' grande voglio salvare il mondo proprio come hai fatto tu.}
 {180}{}{Quando saro' grande posso essere un eroe come te?}
 {181}{}{Quando saro' grande voglio essere come }
 {190}{}{Sei un ROBOT?}
 {191}{}{Come fai a fare pipi' in quel coso?}
-{192}{}{Posso arrampicarmi sulle tue spalle? Ti preeego?}
+{192}{}{Mi porti in giro sulle spalle? Ti preeego?}
 {193}{}{Vuoi giocare con noi? Daaaaai?}
 {200}{}{Faresti meglio a tagliare la corda prima che il mio papa' ti veda.}
 {201}{}{Faresti meglio a tagliare la corda prima che i miei fratelli ti vedano.}
-{202}{}{Tu sei una cattiva persona. Faresti meglio ad andartene prima che lo vada a dire ai miei fratelli.}
+{202}{}{Tu sei una cattiva persona. Faresti meglio ad andartene prima che faccia la spia.}
 {210}{}{Ti ho visto! Ti ho visto!}
 {211}{}{Stai giocando a nascondino? Posso giocare anch'io?}
 {215}{}{Guardate il robot! Guardate il robot!}
@@ -51,14 +51,14 @@
 {310}{}{Nah-ah! Tu sei SVEGLIA! Tu sei un'EROINA e sei CORAGGIOSA e io voglio essere come TE quando saro' grande. Grazie per averci salvati, }
 {311}{}{Gazzie piccola persona. Tu fatto }
 {315}{}{Okay, }
-{316}{}{Adesso devo andare. Mi raccomando, eh? Ho delle faccende "da eroe" delle quali occuparmi.}
-{320}{}{(il bambino ti ferma.) Um... }
-{321}{}{Uh...no. Lo prometto.}
-{322}{}{Uh...questa e' una cosa che non posso dirti.}
+{316}{}{Stammi bene, piccolo, intesi? Ho altre faccende "da eroe" da sbrigare.}
+{320}{}{(Il bambino ti ferma.) Um... }
+{321}{}{Uh... no. Lo prometto.}
+{322}{}{Uh... non che tu sappia.}
 {323}{}{Non preoccuparti, piccolo. Tornero' a trovarvi con un altro personaggio.}
 {324}{}{Non temere, piccolo. Non sentirai niente.}
 {330}{}{Sogneremo?}
-{331}{}{Uh...certo. Certamente.}
+{331}{}{Uh... certo. Certamente.}
 {332}{}{E che ne so? Io credo di non aver mai sognato, quindi probabilmente neanche voi lo farete. La vita fa proprio schifo, eh?}
 {341}{}{Cosa essere Rombo'?}
 {344}{}{Eh-eh. Ma che carino che sei. No, piccolo, non sono un robot.}
@@ -72,30 +72,30 @@
 {361}{}{-Scappa via piangendo-}
 {370}{}{Tu sei la stupida piu' stupida in un mondo di stupidi in un universo di stupidi!}
 {395}{}{Nah-ah, SCEMA! (Il bambino corre via, mentre la sua risata risuona crudelmente nelle tue orecchie.)}
-{396}{}{Me no vuole parlare con te... *snfff*... me... *snfff*... fa una FESTA... con *snfff* TORTA e GELATO... e TU non venire [Te ne vai.]}
+{396}{}{Me no vuole parlare con te... *snfff*... me... *snfff*... fa una FESTA... con *snfff* TORTA e GELATO... e TU non venire [Vattene.]}
 {405}{}{(Il bambino sbatte gli occhi, apre la bocca e poi la richiude. Sul suo viso si forma una lacrima che subito si trasforma in un pianto a dirotto.)}
 {406}{}{Eh eh, ME vinto}
 {410}{}{Oh. (Ci pensa un attimo, poi ti guarda con sospetto.) Perche' non sei un robot?}
 {411}{}{Uh... perche'... beh, i robot e le persone hanno parti... ehm, diverse.}
 {412}{}{Devo andare.}
 {425}{}{Ah, si'? (Sempre piu' sospettoso.) Ad esempio?}
-{426}{}{Uh...beh...senti, bambino, la tua mamma e il tuo papa' non te l'hanno spiegato?}
-{427}{}{Uh...urca! Guarda che ore sono! Devo andare.}
+{426}{}{Uh... beh... senti, bambino, la tua mamma e il tuo papa' non te l'hanno spiegato?}
+{427}{}{Uh... urca! Guarda che ore sono! Devo andare.}
 {435}{}{Spiegato cosa?}
-{436}{}{Uh...beh...i robot...hanno l'olio, dentro. Gli umani...beh, gli umani...sanguinano.}
+{436}{}{Uh... beh... i robot... hanno l'olio, dentro. Gli umani... beh, gli umani... sanguinano.}
 {445}{}{La mia mamma e le mie sorelle grandi sanguinano ogni mese circa. Poi diventano molto scontrose. Vorrei tanto che fossero robot.}
-{446}{}{Uh...certo. Magnifico. Senti, adesso devo andare - non dire a tua madre che hai parlato con me.}
+{446}{}{Uh... certo. Magnifico. Senti, adesso devo andare - non dire a tua madre che hai parlato con me.}
 {456}{}{Me fa pipi' qui dentro. Me deve solo abituarsi a puzza}
 {459}{}{Eh eh. In realta', la pipi' la faccio dentro l'armatura. L'urina viene poi riciclata, come le altre cose. Interessante, no? Tu sai cosa vuol dire "riciclare", eh, piccolo?}
 {460}{}{Di certo non e' comodo. Senti, mi spiace per tuo fratello Richie. Tu sai cosa gli e' successo?}
 {475}{}{Che SCHIFO.}
 {476}{}{Si'! Riciclare vuol dire che ti bevi la tua pipi'!}
 {477}{}{TU SCHIFO, FACCIA di pipi'}
-{479}{}{Uh, eh...eheh. Veramente vuol dire che...}
+{479}{}{Uh, eh... eheh. Veramente vuol dire che...}
 {485}{}{Tu bevi la pipi'! Tu bevi la pipi'!}
-{486}{}{Uh, eh...eheh...abbassa la voce, piccolo...riciclare non significa che bevo la mia p... beh, non ESATTAMENTE almeno...cioe'...}
+{486}{}{Uh, eh... eheh... abbassa la voce, piccolo... riciclare non significa che bevo la mia p... beh, non ESATTAMENTE almeno... cioe'...}
 {487}{}{Lascia che lo stronzetto torni a giocare con i suoi amici.}
-{488}{}{(Te ne vai.)}
+{488}{}{(Vattene.)}
 {495}{}{Quello e' un robot VERO?}
 {499}{}{Il Robobrain? Beh, si': lo e'.}
 {500}{}{Lui CREDE di esserlo. Non ricominciamo con questa storia.}
@@ -105,7 +105,7 @@
 {525}{}{E' un VERO mutante, quello?}
 {526}{}{Mutande?}
 {529}{}{Beh, si'. Si chiama Marcus. Non aver paura, non morde.}
-{530}{}{Beh, si': E' un mutante. Gosh, spero proprio che non abbia fame di bambini...}
+{530}{}{Beh, si', E' un mutante. Accidenti, spero davvero che non abbia fame di bambini...}
 {531}{}{Beh, si'. Un mutante molto AFFAMATO. Ed e' quasi ora del suo spuntino. Una fortunata coincidenza.}
 {532}{}{Si', lo e'. Senti, mi dispiace per tuo fratello Richie. Tu sai cosa gli e' successo?}
 {540}{}{Il bambino si ferma e ti guarda.}
@@ -127,7 +127,7 @@
 {581}{}{::Canta:: E l'universo intero e' con Lui. E l'universo intero e' con Lui.}
 {585}{}{::Cantando insieme:: E l'universo intero e' con Lui. ::Cantando piu' piano:: E l'universo intero e' con Lui.}
 {586}{}{Grazie per aver cantato con me. Magari tornero' piu' tardi... se mi servira' un cappello.}
-{590}{}{(Il bambino ti strizza l'occhio.)}
+{590}{}{(Il bambino sbatte le palpebre.)}
 {591}{}{D'accordo. Ci vediamo.}
 {595}{}{(Il bambino corre via.)}
 {648}{}{Oh.}
@@ -135,9 +135,9 @@
 {665}{}{E' un VERO ghoul, quello?}
 {666}{}{Guul?}
 {669}{}{Beh, si', lo e'. Si chiama Lenny. Non aver paura, non morde.}
-{670}{}{Beh, si': E' un ghoul. Gosh, spero proprio che non abbia fame di bambini...}
+{670}{}{Beh, si', E' un ghoul. Accidenti, spero davvero che non abbia fame di bambini...}
 {671}{}{Beh, si'. Un ghoul molto AFFAMATO. Ed e' quasi ora del suo spuntino. Una fortunata coincidenza.}
-{685}{}{Ciao, mutante Mar-cus. Sei davvero grosso. Hee-hee... e la tua animazione mentre ti muovi e' davvero buffa.}
+{685}{}{Ciao, mutante Mar-cus. Sei davvero grosso. Hee-hee... e la tua animazione da fermo e' davvero buffa.}
 {686}{}{Ciao, ghoul Len-ee. Phew... puzzi davvero tanto.}
 {687}{}{Vero, eh? Allora... che succede, ragazzo?}
 {688}{}{Vero, eh? Allora... che succede, ragazzo?}
@@ -153,19 +153,19 @@
 {713}{}{Lascia che il piccolo torni a giocare.}
 {720}{}{Uh-uh.}
 {730}{}{Uh-uh. Passava molto nella zona ovest della citta', vicino alla Zona Commerciale, e papa' ci ha detto di non andare laggiu'.}
-{800}{}{*Shhh* Dovrei gia' essere addormentato.}
+{800}{}{*Shhh* Dovrei gia' dormire.}
 {801}{}{Ho bisogno di dormire un po'. Domani ci sara' una bella partita a insetto guerriero di metallo.}
 {802}{}{Se papa' scopre che non sto dormendo, si arrabbiera' moltissimo.}
 {900}{}{Ambaraba' cicci' cocco'.}
-{901}{}{::Alza una pistola finta:: Va' all'inferno, carogna!}
+{901}{}{::Alza una pistola finta:: Mani in alto, canaglia!}
 {902}{}{Specchio di gomma, la parola ti ritorna.}
 {903}{}{Quando saro' grande voglio fare il pappone.}
 {904}{}{Quando saro' grande dominero' New Reno, proprio come il mio papa'.}
-{905}{}{Voglio un animaletto domestico. Papa' dice che quando saro' grande mi dara' una donna.}
+{905}{}{Voglio un cagnolino. Papa' dice che quando saro' piu' grande mi prendera' una cagna.}
 {906}{}{Vorrei tanto che papa' fosse forte come Tommy the Balls.}
 {907}{}{Ho un pene.}
 {908}{}{::Strilla::}
-{909}{}{::Tira fuori la lingua::}
+{909}{}{::Fa la linguaccia::}
 {910}{}{Papa' dice che la mamma e' una fabbrica di bambini.}
 {911}{}{Papa' ha detto che ci frustera' se ci dovesse beccare a prendere il Jet.}
 {912}{}{Papa' dice che quando andiamo fuori dobbiamo stare attenti.}
@@ -173,9 +173,9 @@
 {914}{}{Papa' e' molto nervoso da quando mio fratello Richie e' morto.}
 {915}{}{Papa' e' di nuovo in affari.}
 {916}{}{Padre Tully quando non riesce a camminare dritto e' davvero buffo.}
-{917}{}{E l'universo intero e' con Lui...E l'universo intero e' con Lui...}
+{917}{}{E l'universo intero e' con Lui... e l'universo intero e' con Lui...}
 {918}{}{Ho fatto la pupu'.}
-{919}{}{Mi manca Richie, mio fratello. E' morto perche' ha preso troppo tanto Jet.}
+{919}{}{Mi manca Richie, mio fratello. E' morto perche' ha preso troppo Jet.}
 {920}{}{Non vedo piu' Christopher.}
 {921}{}{Ho visto Mikey che baciava Meri Mordino.}
 {922}{}{Ho visto la mamma e il papa' che saltavano l'uno sull'altro.}
@@ -185,7 +185,7 @@
 {926}{}{Indovina indovinello, Kyle e' proprio senza cervello.}
 {927}{}{Guardami! Guardami!}
 {928}{}{Mikey e Meri sotto un albero... e si B-A-C-I-A-V-A-N-O.}
-{929}{}{Milicent e' cattivo.}
+{929}{}{Milicent e' una cattivona.}
 {930}{}{Latte, Latte, limonata. E la torta e' preparata.}
 {931}{}{Mamma e papa' hanno parlato ancora con Dio a letto, ieri notte.}
 {932}{}{Ho visto la mamma che piangeva. Credo sia per quello che e' successo a mio fratello Richie.}
@@ -194,8 +194,8 @@
 {935}{}{La nostra famiglia e' la migliore.}
 {936}{}{Phfttttt!}
 {937}{}{Testa di cacca! Testa di cacca!}
-{938}{}{Lo zio Nick dice che le parolacce non servono. Lo zio Nick dovrebbe darsi una svegliata.}
-{939}{}{Vuoi giocare a selvaggi e schiavisti?}
+{938}{}{Lo zio Nick dice che le parolacce non servono. Lo zio Nick dovrebbe uscire di piu'.}
+{939}{}{Vuoi giocare a tribali e schiavisti?}
 {940}{}{Abbiamo diciassette fratelli e sorelle.}
 {941}{}{Wheeeeeeee!}
 {942}{}{Ce l'hai tu!}
@@ -207,7 +207,7 @@
 {1176}{}{! Raccontaci la storia dell'Enclave! Daaaaaaaai?}
 {1177}{}{! Yaaaaay!}
 {1178}{}{!}
-{1181}{}{ quando saro' grande.}
+{1181}{}{.}
 {1296}{}{: quando sarai grande potrai diventare TUTTO cio' che vuoi.}
 {1310}{}{. Non ti dimentichero' MAI.}
 {1311}{}{ si sente meglio. Me felice me salvato voi}

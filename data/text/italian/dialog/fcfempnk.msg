@@ -2,16 +2,16 @@
 {101}{}{Vedi una punk.}
 {102}{}{Vedi una ragazza discretamente carina e sprezzante.}
 {103}{}{Scommetto che il mio ragazzo ti ha proposto una cosa a tre.}
-{104}{}{A volte viaggiare mi fa stare male.}
+{104}{}{A volte sono stufa di viaggiare.}
 {105}{}{Sarebbe davvero bello stabilirsi qui.}
 {106}{}{Penso che potremmo fare grandi cose.}
 {107}{}{Hai mai attraversato l'oceano a ovest?}
 {108}{}{Flirterei volentieri con te, ma al momento non mi interessa.}
 {109}{}{::sarcasmo:: Ci sono davvero un sacco di donne forti qui attorno, eh?}
 {110}{}{Ti aspetti che mi metta a scodinzolare come un cagnolino? Sveglia!}
-{111}{}{Sono unica! Proprio come chiunque altro!}
+{111}{}{Sono unico! Proprio come chiunque altro!}
 {112}{}{A volte questo cinismo disilluso mi annoia.}
-{113}{}{La prossima volta spero di imbattermi in una tribu' di barbari.}
+{113}{}{La prossima volta voglio trovare una tribu' di dark.}
 {114}{}{Ho sentito che l'Imperatore Shi e' dotato di un'intelligenza disumana.}
 {115}{}{Questi Shi hanno davvero un aspetto buffo.}
 {116}{}{Quindi io sarei di mentalita' aperta, eh?}
@@ -25,7 +25,7 @@
 {124}{}{Non riesco a credere che tu non abbia voluto aiutare Chip.}
 {125}{}{Bastardo egoista. Scommetto che Chip ti avrebbe aiutato.}
 {126}{}{Tutti volevano bene a Chip. Adesso nessuno vuole bene a te.}
-{127}{}{Sei discretamente uno stronzo, vero?}
+{127}{}{Sei proprio uno stronzo, vero?}
 {128}{}{Hai mai pensato a qualcun altro oltre a te stesso?}
 {129}{}{Oh, guardate, c'e' l'"eroe".}
 {130}{}{Ehi, guardate! E' quel coglione egoista!}
@@ -38,7 +38,7 @@
 {137}{}{Anche se non ha la milza, mi sbatterei Chip anche subito!}
 {138}{}{Grazie per aver cercato di recuperare la milza di Chip.}
 {139}{}{Hai fatto del tuo meglio per aiutare Chip.}
-{140}{}{Adesso avremo un'altra barzelletta su Chip da raccontare.}
+{140}{}{Ed ecco un'altra banalita' su Chip.}
 {141}{}{Chissa' se la milza aveva un buon sapore?}
 {142}{}{Yay! Adesso posso avere Chip E la sua milza!}
 {143}{}{Corro subito da Chip!}
@@ -51,7 +51,7 @@
 {150}{}{Sei davvero altruista!}
 {151}{}{Suze e' tornata! Bene!}
 {152}{}{Suze e' tornata... Dannazione!}
-{153}{}{Suze e' proprio una tipa tosta.}
+{153}{}{Suze e' sempre stata gentile con me.}
 {154}{}{Mi piace Suze.}
 {155}{}{Grazie per aver salvato Suze.}
 {156}{}{Certe persone dovrebbero imparare a non andare in giro.}
@@ -60,7 +60,7 @@
 {159}{}{Sara' meglio che vada a vedere come sta Badger.}
 {160}{}{Badger e' carino, ma non e' un adone.}
 {161}{}{Mi domando perche' Badger rutti e scoreggi cosi' tanto.}
-{162}{}{Badger probabilmente rutta perche' e' triste.}
+{162}{}{Badger probabilmente scoreggia perche' e' triste.}
 {163}{}{Povero Badger.}
 {164}{}{Quello nel quale viviamo e' proprio un mondo difficile.}
 {165}{}{Suze avrebbe dovuto stare piu' attenta.}

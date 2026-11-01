@@ -15,7 +15,7 @@
 {114}{}{Il mio nome e' }
 {115}{sgnt6}{Non sono un Signore. Io lavoro per vivere, idiooooooo-ta. Mi chiamerai Sergente o Sergente Dornan. Mi hai sentito? }
 {116}{}{Si', Sergente!}
-{117}{}{Certo, Sergente. Come no.}
+{117}{}{Certo, Sergio. Come vuoi.}
 {118}{sgnt7}{Meraviglioso. Dirigiti rapidamente all'hangar dove starai di guardia. Farai un buon lavoro. Hai capito?}
 {119}{}{A cosa faro' la guardia, Sergente?}
 {120}{}{Si', Sergente!}
@@ -32,7 +32,7 @@
 {131}{sgnt11}{Quegli imbecilli mescola-scartoffie! Come diavolo pensano che io possa far funzionare questa unita' se continuano a farmi mancare l'equipaggiamento! Raggiungi velocemente l'armeria e prendi la tua uniforme; poi torna da me. Rompere le righe!}
 {132}{}{Okay.}
 {133}{}{Si', Sergente!}
-{134}{sgnt12}{Se ti piaccio, puoi chiamarmi 'Sergio'. Ma... indovina un po'? Tu non piaci a me! Hai capito?}
+{134}{sgnt12}{Se mi piaci, puoi chiamarmi 'Sergio'. Ma... indovina un po'? Tu non mi piaci! Hai capito?}
 {135}{}{Si', Sergente!}
 {136}{sgnt13}{Eccellente! Adesso sei in uniforme e quindi ti offriro' un'opportunita' piu' unica che rara. Ricominciamo tutto da capo e facciamo finta che io non abbia mai incontrato il tuo brutto muso. Che ne dici, soldato?}
 {137}{}{Si', uh... Sargente!}
@@ -44,7 +44,7 @@
 {143}{}{Okay! Okay! Me va.}
 {144}{}{Fottere. Me stufo di stronzate.}
 {145}{}{Si', Sergente! Sto andando.}
-{146}{}{'Fanculo. Non ci sono tagliato.}
+{146}{}{'Fanculo. Non fa per me.}
 {147}{sgnt15a}{Soldato, che cosa ci fai qui? Torna al tuo posto!}
 {148}{sgnt15b}{Idiota. Se ti vedo un'altra volta lontano dal tuo posto, questo sara' il giorno piu' terribile della tua vita!}
 {149}{sgnt15c}{Sei un pericolo per tutti noi. Facciamola finita.}
@@ -61,8 +61,8 @@
 {160}{}{Se becco uno di voi a dormire, faro' in modo che dorma per sempre!}
 {161}{}{Bene! Hai trovato la tua postazione!}
 {162}{}{Rimani al tuo posto fino alla fine del tuo turno, soldato!}
-{163}{}{Al tuo posto e sveglio. Eccellente!}
-{164}{}{Rimani sveglio, rimani attento, rimani vivo!}
+{163}{}{Al tuo posto e con gli occhi aperti. Eccellente!}
+{164}{}{Non dormire, sta' all'erta, resta in vita!}
 {165}{}{Allarme! Intrusi nella base!}
 {166}{}{Guardie! Intrusi!}
 {167}{}{Chi diavolo ha lasciato entrare questi bastardi? Guardie!}

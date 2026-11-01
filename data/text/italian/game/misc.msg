@@ -5,7 +5,7 @@
 {4}{}{Caricamento rapido effettuato.}
 {5}{}{Salvataggio rapido effettuato.}
 {6}{}{Limite di tempo della demo superato.}
-{7}{}{Il Pipboy non e' accessibile in combattimento!}
+{7}{}{Il Pip-Boy non e' accessibile in combattimento!}
 {8}{}{Errore nel salvare l'immagine.}
 {9}{}{INTRO}
 {10}{}{NUOVO}
@@ -43,7 +43,7 @@
 {5001}{}{ha finito le munizioni per}
 {5002}{}{ricarica}
 {6000}{}{Chiedi a proposito di?}
-{7000}{}{Non stai indossando il PipBoy!}
+{7000}{}{Non stai indossando il Pip-Boy!}
 {8000}{}{Sei troppo carico.}
 {8001}{}{%s e' troppo carico.}
 {8500}{}{Guadagni %d punti esperienza per aver utilizzato con successo l'abilita' Escursionista.}
@@ -53,10 +53,10 @@
 {9012}{}{Sento un grande disturbo nella Forza. Come se tutte le mie abilita' avessero guadagnato punti percentuali.}
 {9013}{}{Mi sento piu' grosso. Piu' forte. Piu' intelligente.}
 {9020}{}{Wow! Mi sento come se avessi passato un qualche valore arbitrario di esperienza e avessi guadagnato piu' forza!}
-{9021}{}{Aaagggh! Muscoli... si gonfiano... Condizione... in miglioramento.... Livello guadagnato...}
+{9021}{}{Aaagggh! Muscoli... si gonfiano... Caratteristiche... in aumento.... Livello guadagnato...}
 {9022}{}{Datemi un diploma e un ridicolo cappello con una nappa: mi sono appena laureato!}
 {9023}{}{Ehi, mi sento piu' forte! Significa per caso che prendero' un aumento di paga?}
-{9030}{}{Tutto ritorna da me, adesso...}
+{9030}{}{Mi sta tornando tutto in mente, adesso...}
 {9031}{}{Heh. Sembra che anche un vecchio lupo come me possa ancora imparare qualche trucchetto nuovo.}
 {9032}{}{Sembra che tutto questo viaggiare mi stia ripagando.}
 {9033}{}{Ho imparato qualche nuovo trucchetto.}
@@ -66,14 +66,14 @@
 {9043}{}{Ora Grandi Spiriti si muovere in Sulik.}
 {9044}{}{Ora noi e Osso di Grande Avo essere uno, amico.}
 {9045}{}{Ora noi essere Grande Avo.}
-{9050}{}{Oh mamma...Ho imparato qualcosa.}
+{9050}{}{Oh mamma... Ho imparato qualcosa.}
 {9051}{}{Il rimorso mi uccidera'.}
 {9052}{}{Non posso credere di essere sopravvissuto fin qui.}
-{9060}{}{Uff!}
-{9061}{}{Uff!}
-{9062}{}{Uff!}
-{9063}{}{Uff!}
-{9064}{}{Uff! Uff!}
+{9060}{}{Bau!}
+{9061}{}{Bau!}
+{9062}{}{Bau!}
+{9063}{}{Bau!}
+{9064}{}{Woof! Woof!}
 {9070}{}{Ho imparato qualcosa di nuovo!}
 {9071}{}{Ho imparato qualcosa di nuovo!}
 {9080}{}{Credo di aver appreso nuove conoscenze!}
@@ -95,7 +95,7 @@
 {9124}{}{FUNZIONAMENTO OTTIMALE RAGGIUNTO.}
 {9130}{}{Capo! Credo di esserne finalmente venuto a capo.}
 {9131}{}{Sto migliorando! L'avevo detto che non ti avrei deluso, Capo.}
-{9132}{}{Ehi... 'spetta... ora ci sono. Forse dovrei sparare un po' di piu' ai miei bersagli.}
+{9132}{}{Ehi... 'spetta... ora ci sono. Forse non anticipo abbastanza i miei bersagli.}
 {9133}{}{Vedi, Capo? Anche una vecchia talpa puo' imparare qualche trucco nuovo!}
 {9134}{}{Sai una cosa, Capo? Penso di stare imparando una o due cose.}
 {9135}{}{Sto diventando abbastanza bravo. Vedi, Capo. Ogni buona cosa diventa migliore col tempo.}
@@ -121,10 +121,10 @@
 {9230}{}{}
 {9240}{}{Iniziato aggiornamento programma, Padrone... Aggiornamento completo.}
 {9241}{}{Installazione aggiornamento programma in corso, Padrone... Versione 2.0 installata.}
-{9242}{}{Modificazione del software in corso, Padrone... Sistemi a posto.}
-{9243}{}{Modificazione del software in corso, Padrone... Massima efficienza dei sistemi!}
+{9242}{}{Modifiche hardware in corso, Padrone... Sistemi a posto.}
+{9243}{}{Modifiche hardware in corso, Padrone... Massima efficienza dei sistemi!}
 {9250}{}{}
-{9260}{}{C’e' piu' di un modo per ottenere cio' che vuoi.}
+{9260}{}{C'e' piu' di un modo per ottenere cio' che vuoi.}
 {9261}{}{Piu' in basso cado, piu' in alto volo.}
 {9262}{}{Vivi. Impara. Evolvi.}
 {9263}{}{Sento e dimentico; vedo e ricordo; faccio e capisco.}

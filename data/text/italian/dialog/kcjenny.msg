@@ -8,12 +8,12 @@
 {221}{}{Mi e' piaciuto molto questo "bagno", Jenny. Ne farei volentieri un altro se solo non avessi altre cose da fare.}
 {230}{}{Beh, e' stata un'esperienza... diversa. Tornerai a trovarmi, vero? Mi piacerebbe sperimentare alcune mie idee, la prossima volta.}
 {231}{}{E' bello stare con qualcuno che capisce quello di cui ho bisogno, per una volta.}
-{240}{}{E' stato davvero divertente. Potresti essere davvero uno schianto se ti cambiassi quegli stracci da selvaggio. Sorella, non mi dispiacerebbe se tu rimanessi qui ancora un po'. Hai mai pensato di cambiare mestiere?}
+{240}{}{E' stato davvero divertente. Potresti essere davvero uno schianto se ti cambiassi quegli stracci da tribale. Sorella, non mi dispiacerebbe se tu rimanessi qui ancora un po'. Hai mai pensato di cambiare mestiere?}
 {241}{}{Anch'io mi sono divertita. Ho un sacco di cose da fare prima che possa decidere di stabilirmi in un posto. Grazie, comunque.}
 {250}{}{Tu sei diverso dai clienti che vengono qui di solito.}
 {251}{}{Dimmi cosa succede da queste parti.}
 {252}{}{Non credo di voler sapere cosa succede da queste parti.}
-{260}{}{E' stato bello chiacchierare con te. Adesso, pero', faro' meglio a preparami per il prossimo cliente. Arrivederci.}
+{260}{}{E' stato bello chiacchierare con te. Adesso, pero', faro' meglio a prepararmi per il prossimo cliente. Arrivederci.}
 {270}{}{Sembri un po' confuso. Il mio nome e' Jenny; posso aiutarti?}
 {271}{}{Enny? Goo heh heh heh. (sorridi)}
 {272}{}{(annuisci) Auta }
@@ -24,7 +24,7 @@
 {291}{}{Parlami dei trapper.}
 {292}{}{Sto cercando un mercante. Ne conosci per caso uno che tratta oggetti antichi... risalenti a prima della guerra... hai presente?}
 {293}{}{Sai per caso come si arriva al Den da qui?}
-{294}{}{Addio.}
+{294}{}{Ciao.}
 {295}{}{Jenny, hai mai sentito parlare di una cosa chiamata GECK?}
 {300}{}{Beh, non c'e' molto da dire a proposito dei trapper, in verita'. Recuperano un po' di pelli di gecko... o, se sono fortunati, un paio di gecki dorati... e poi vengono qui a placare i loro bollenti spiriti. Rapidi e non troppo esigenti... proprio come piacciono a me.}
 {301}{}{Credo sia tutto, per ora.}
@@ -36,13 +36,13 @@
 {320}{}{Vic era davvero gentile. A volte se ne andava via per settimane e poi tornava con un sacco di cose antiche. Ma spesso doveva andare fino al Den per venderle. Non c'e' molta richiesta per robe di quel tipo, da queste parti.}
 {321}{}{Dov'e' Vic, adesso?}
 {322}{}{Dov'e' il Den?}
-{323}{}{Vic ha mai avuto qualche oggetto che recava la scritta "Vault-Tek"?}
+{323}{}{Vic ha mai avuto qualche oggetto che recava la scritta "Vault-Tec"?}
 {324}{}{Parliamo di qualcos'altro.}
 {325}{}{Credo che questo sia tutto quello che mi serve sapere.}
-{330}{}{Il Den e' un covo di feccia e malvagita'. Dista una settimana da qui... o no? Non mi ricordo molto bene. Comunque, e' un posto eccitante. Pericoloso, ma eccitante. Mi e' dispiaciuto lasciarlo, per certi versi.}
+{330}{}{Il Den e' un covo di feccia e malvagita', a sudest di qui. A una settimana di cammino, piu' o meno? Non mi ricordo molto bene. Comunque, e' un posto eccitante. Pericoloso, ma eccitante. Mi e' dispiaciuto lasciarlo, per certi versi.}
 {331}{}{Lascia che ti chieda qualcos'altro.}
 {332}{}{Adesso devo andare, grazie.}
-{340}{}{Non so esattamente dove Vic sia finito. So che ha una casa proprio al termine di questa strada, a est. Per quello che ne so, potrebbe essere via a vendere i suoi oggetti ai selvaggi o anche al Den. Spero stia bene. Stava cominciando a diventare qualcosa di piu' che un cliente fisso per me.}
+{340}{}{Non so esattamente dove Vic sia finito. So che ha una casa proprio al termine di questa strada, a est. Per quello che ne so, potrebbe essere via a vendere i suoi oggetti ai tribali o anche al Den. Spero stia bene. Stava cominciando a diventare qualcosa di piu' che un cliente fisso per me.}
 {341}{}{Spero per te che stia bene. Vorrei farti qualche altra domanda.}
 {342}{}{Spero che ritorni da te. Adesso credo proprio di dover andare. Arrivederci.}
 {350}{}{Ehila', mister. Il mio nome e' Jenny. Vuole una bella strofinata?}

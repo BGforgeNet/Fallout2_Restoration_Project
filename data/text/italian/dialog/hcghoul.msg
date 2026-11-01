@@ -12,7 +12,7 @@
 {111}{}{A proposito, quand'e' ora di mangiare?}
 {112}{}{Chad e' stato arrestato? Gli umani dovrebbero vergognarsi di loro stessi.}
 {113}{}{Non tutti gli umani sono come Chad.}
-{114}{}{Che casino con Chad, ragazzi...}
+{114}{}{Che sfiga per Chad, eh...}
 {115}{}{Chissa' se riesco a farmi prendere per un viaggio con la carovana...}
 {116}{}{Dov'e' finito Hank? Qualcuno ha visto Hank?}
 {117}{}{Abbiamo lavorato duro per far diventare Broken Hills la citta' che e' oggi.}
@@ -31,7 +31,7 @@
 {130}{}{Chi potrebbe mai aver fatto una cosa tanto mostruosa?}
 {131}{}{Adesso che i mutanti non ci sono piu', siamo davvero senza difese contro i predoni.}
 {132}{}{Marcus... Zaius... Francis... e tutti gli altri... morti...}
-{133}{}{Il futuro e' grigio.}
+{133}{}{Il futuro e' cupo.}
 {134}{}{Sono stati gli umani a farlo? E' stato Cameron?}
 {135}{}{Chi ci guidera', adesso che Marcus e' morto?}
 {136}{}{Dove potremo cercar rifugio, adesso?}
@@ -41,23 +41,23 @@
 {140}{}{Dovremmo linciare il bastardo che ha cercato di avvelenare i nostri mutanti.}
 {141}{}{Stanno succedendo cosi' tante cose... mi gira la testa...}
 {142}{}{Farei meglio a tornare al lavoro.}
-{143}{}{Chi mai potrebbe aver liberato quei due poco-di-buono? Uccidendo le guardie, persino... Marcus dev'essere parecchio infuriato.}
-{144}{}{C'e' un losco giro d'affari, in citta'.}
+{143}{}{Chi mai potrebbe aver liberato quei due poco-di-buono? E hanno pure ucciso le guardie... Marcus dev'essere parecchio infuriato.}
+{144}{}{In citta' stanno succedendo fatti di sangue.}
 {145}{}{Hai notato che ultimamente in citta' c'e' una gran puzza di guai?}
 {146}{}{Pensavo che questo fosse un posto tranquillo dove stabilirsi. Pare che mi sia sbagliato.}
 {147}{}{Chi avrebbe mai immaginato che questo tipo di violenza si sarebbe vista anche a Broken Hills?}
 {148}{}{Franc e Manson... qualcuno vuole vedere i mutanti morti.}
 {149}{}{Come hai potuto permettere a quei due di uscire di prigione?}
-{150}{}{Dovresti solo vergognarti.}
+{150}{}{Dovresti vergognarti.}
 {151}{}{Spero che tu abbia ragione e che Franc e Manson non siano una minaccia... in caso contrario i mutanti se la prenderanno con te.}
 {152}{}{Franc e Manson... di nuovo in circolazione... oh, cavolo. Forse lascero' la citta'.}
-{153}{}{C'e' un losco giro d'affari, in citta'.}
+{153}{}{In citta' stanno succedendo fatti di sangue.}
 {154}{}{Hai notato che ultimamente in citta' c'e' una gran puzza di guai?}
 {155}{}{Hai fatto bene a consegnare quegli stronzi alla giustizia!}
 {156}{}{Ho sempre pensato che Jacob fosse un po' strano.}
 {157}{}{Questo insegnera' agli umani che non possono infischiarsene della legge.}
 {158}{}{Ma dai... Aileen? Io non credo che c'entri.}
-{159}{}{Che brutto colpo per gli umani! Adesso si vergogneranno molto di loro stessi.}
+{159}{}{Che brutto colpo per gli umani! Adesso si vergognano molto. E stanno sulla difensiva.}
 {160}{}{Broken Hills sara' mai in grado di ricucire lo strappo tra umani e mutanti?}
 {161}{}{Quei due bastardi, Jacob e Aileen, mi hanno sempre trattato come un cittadino di serie B. Che questo gli serva da lezione.}
 {162}{}{Non credo che Broken Hills si riprendera' mai dalla perdita della miniera...}
@@ -67,12 +67,12 @@
 {166}{}{Mi chiedo se da qualche altra parte in California servano raffinatori di uranio.}
 {167}{}{Credo che adesso me ne tornero' a Gecko...}
 {168}{}{Maledetto bastardo. }
-{169}{}{Non ti vergogni? Non hai un po' di pudore?}
+{169}{}{Non ti vergogni? Non hai un minimo di decenza?}
 {170}{}{Perche' hai provato a distruggere la nostra citta'?}
 {171}{}{Non ti rendi conto che se tu avessi distrutto la miniera, avresti distrutto anche tutti noi?}
 {172}{}{Non voglio parlare con te.}
 {173}{}{Vattene.}
-{174}{}{Un buon lavoro.}
+{174}{}{Bel lavoro.}
 {175}{}{E' un vero peccato che quelle persone siano morte sotto la citta'.}
 {176}{}{Mi domando come abbiano fatto quelle persone a scavare quei tunnel senza che noi ce ne accorgessimo.}
 {177}{}{Adesso sappiamo cosa stavano tramando Franc e Manson.}

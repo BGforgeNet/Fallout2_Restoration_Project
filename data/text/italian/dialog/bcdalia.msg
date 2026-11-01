@@ -16,7 +16,7 @@
 {115}{}{Me vuole parlare.}
 {116}{}{Ok, me va.}
 {117}{}{Voglio parlarti.}
-{118}{}{Addio.}
+{118}{}{Ciao.}
 {119}{}{Ho detto che sono Dalia. Guarda, non vorrei sembrarti sgarbata, ma non ho voglia di parlare con nessuno, adesso. Okay?}
 {120}{}{Okay, ciao.}
 {121}{}{Ancora un secondo.}
@@ -25,14 +25,14 @@
 {124}{}{Mi piace l'aria fresca, mi piacciono gli alberi, per questo sono qui. E' un problema per te?}
 {125}{}{Scusa, me va.}
 {126}{}{No, no problema. Me chiede te qualcosa.}
-{127}{}{Non e' un problema per me, ma sono curioso riguardo a una cosa.}
+{127}{}{Non e' un problema per me, ma c'e' una cosa che mi incuriosisce.}
 {128}{}{Scusa, allora me ne andro'.}
 {129}{}{No, non sto facendo la guardia al sentiero. Non c'e' nulla in questo buco degno d'essere controllato. Te l'ho detto, mi piace l'aria fresca. Adesso vattene.}
 {130}{}{Bello parlare te. Me parla ancora.}
 {131}{}{Scusa me disturba. Me va.}
 {132}{}{Ma stiamo discorrendo cosi' amabilmente, perche' fermarci?}
 {133}{}{Penso sia tempo di andarmene.}
-{134}{}{Oh no, e' di nuovo quello scocciatore... Guarda, non ho niente da dirti. Vattene!}
+{134}{}{Oh no, ecco di nuovo quella peste... Guarda, non ho niente da dirti. Vattene!}
 {135}{}{}
 {136}{}{}
 {137}{}{Non ho niente da discutere con te. Lasciami in pace.}
@@ -43,7 +43,7 @@
 {142}{}{Nulla.}
 {143}{}{Nulla.}
 {144}{}{Hai visto qualcuno passare di qui di corsa?}
-{145}{}{Vedo gente passare di qui ogni giorno. Non do loro molta attenzione.}
+{145}{}{Vedo gente passare di qui ogni giorno. Non ci faccio molto caso.}
 {146}{}{Me no ha tempo per tue stronzate.}
 {147}{}{Oh, okay.}
 {148}{}{Vita di ragazza in pericolo. Giovane ragazza. Figlia di qualcuno. Tu prego aiutare?}

@@ -6,5 +6,5 @@
 {120}{}{Il motore sembra troppo arrugginito per essere riparato. Mentre controlli la macchina, trovi una bottiglia di additivo per carburante che dovrebbe bruciare davvero bene.}
 {121}{}{Il motore non e' altro che un mucchio di ruggine che cade a pezzi non appena alzi il cofano.}
 {122}{}{Sembra materiale per meccanici davvero esperti. Credo di non avere ancora la capacita' o i pezzi necessari per farla funzionare.}
-{123}{}{Sembra proprio che questa bellezza sia pronta a ruggire di nuovo. Ancora un paio di giri a questo bullone... (cadi sorpreso all'indietro quando il motore salta fuori dalla macchina e va a cadere su un mucchio di ruggine e rifiuti.)}
+{123}{}{Sembra proprio che questa bellezza sia pronta a ruggire di nuovo. Ancora un paio di giri a questo bullone... (fai un balzo indietro per la sorpresa quando il motore cade fuori dalla macchina, riducendosi a un mucchio di ruggine e componenti.)}
 {130}{}{Trovi un iniettore di carburante sul sedile posteriore.}

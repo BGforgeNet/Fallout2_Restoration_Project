@@ -1,11 +1,11 @@
 {100}{}{Vedi Mason.}
-{150}{}{Vedi un uomo molto robusto con un accenno di calvizie.}
+{150}{}{Vedi un uomo di mezz'eta' molto robusto, con un accenno di calvizie.}
 {151}{}{Vedi Mason. Ti sta osservando attentamente.}
 {200}{}{Che ci fai quassu'?}
 {205}{}{Ma che bel gruppetto di coglioni.}
 {210}{}{Tocca di nuovo quella porta e ti trasformero' in una torcia umana.}
 {215}{}{Puoi entrare...STAVOLTA.}
-{220}{}{Sei venuto nel posto sbagliato, selvaggio. Smamma.}
+{220}{}{Sei venuto nel posto sbagliato, tribale. Smamma.}
 {221}{}{Questo non e' uno studio pornografico. Smamma.}
 {222}{}{Che ci fai qui, campioncino? Hai perso la strada del ring? Vattene da qui.}
 {223}{}{Fatti furbo}
@@ -33,12 +33,12 @@
 {277}{}{C'e' una...donna...che dice di avere qualcosa che le potrebbe interessare.}
 {278}{}{(Aspetta...)}
 {279}{}{(Attacca Mason prima che possa continuare.)}
-{285}{}{Guarda, forse non l'hai SENTITO, selvaggio, ma questo e' il locale di Salvatore. Il MIO lavoro e' quello di assicurarmi che il boss non venga infastidito da certi cani che abbaiano come te. Adesso tornatene alla tua tribu' e vatti a cucinare uno dei tuoi compagni per cena.}
-{295}{}{Queste pistole? Aw, cavoli, non saprei proprio. Ho come un vuoto di memoria. (Si fa serio.) Ascoltami bene, selvaggio. Se non sparisci immediatamente, ti trasformero' in una torcia umana. Adesso smamma.}
+{285}{}{Guarda, forse non l'hai SENTITO, tribale, ma questo e' il locale di Salvatore. Il MIO lavoro e' quello di assicurarmi che il boss non venga infastidito da certi cani che abbaiano come te. Adesso tornatene alla tua tribu' e vatti a cucinare uno dei tuoi compagni per cena.}
+{295}{}{Queste pistole? Aw, cavoli, non saprei proprio. Ho come un vuoto di memoria. (Si fa serio.) Ascoltami bene, tribale. Se non sparisci immediatamente, ti trasformero' in una torcia umana. Adesso smamma.}
 {298}{}{Okay! Me ne vado, me ne vado.}
 {299}{}{Vattene senza dire una parola.}
 {305}{}{Ti avevo AVVERTITO, coglione! Adesso sei... (Mason si ferma improvvisamente, e si mette ad ascoltare qualcosa che tu non puoi sentire. Dopo qualche istante, i suoi denti si serrano.) Don Salvatore dice che puoi entrare... }
-{306}{}{Oh, lo faro' subito. Dopo averti ucciso.}
+{306}{}{Oh, entrero' eccome. Dopo averti ucciso.}
 {307}{}{Grazie, coglionazzo. Mi ricordero' di parlare a Don Salvatore dei tuoi modi gentili.}
 {308}{}{D'accordo.}
 {315}{}{(Mason ti ferma.) Ascoltami... (Si avvicina, abbassa la voce.) ...Ecco qualche regola di base, ragazzo. }
@@ -50,7 +50,7 @@
 {327}{}{E' la tua ultima opportunita', Mason: Togliti dai piedi.}
 {335}{}{Un giorno, tu ed io dovremo risolvere questo problema che hai con l'autorita'.}
 {336}{}{Io non ho nessun problema. Tutto ok per me.}
-{337}{}{Al diavolo.}
+{337}{}{Succhiamelo.}
 {345}{}{D'accordo... adesso BASTA, sapientone! Hai superato il limite... (si scrocchia le dita)... adesso vedremo chi e' davvero lo scemo del villaggio.}
 {346}{}{Villaggio? Paolo?}
 {347}{}{Diamoci dentro.}
@@ -74,12 +74,12 @@
 {391}{}{Ha mantenuto un basso profilo, per cui scovarlo sara' compito TUO, ragazza. }
 {392}{}{Vuoi un consiglio? Controlla i bar lungo Virgin Street. Forse Lloyd sta organizzando un'altra truffa da quelle parti.}
 {393}{}{Avrei delle altre domande...}
-{400}{}{Lloyd? Diavolo... e' di statura media, bianco, capelli castani. L'ultima volta che l'ho visto aveva una camica beige e una sciarpa marrone scuro. Probabilmente non ha cambiato vestiti, dall'ultima volta che l'ho visto.}
+{400}{}{Lloyd? Diavolo... e' di statura media, bianco, capelli castani. L'ultima volta che l'ho visto aveva una camicia beige e una sciarpa marrone scuro. Probabilmente non ha cambiato vestiti, dall'ultima volta che l'ho visto.}
 {401}{}{Sai, e' davvero strano... questa descrizione combacia con DECINE di persone che ho incontrato da quando ho lasciato Arroyo.}
-{410}{}{Haw! Non dirmelo. Al giorno d'oggi i nomi sono l'unico modo per distinguere le persone. Si potrebbe pensare che esistano soltanto dieci tipi di persone al mondo. (Si avvicina) Per come la vedo io, ci dev'essere stato un grosso incidente con le clonazioni, in passato.}
-{420}{}{Circa duecento sacchi. Vedi, questa cifra e' una bazzecola per Don Salvatore, ma questa e' la sua linea nei confronti di CHIUNQUE prenda QUALCOSA da lui. Se fossi in te, me ne ricorderei. Don Salvatore vorra' avere indietro fino all'ULTIMO spicciolo.}
+{410}{}{Haw! A chi lo dici. Al giorno d'oggi i nomi sono l'unico modo per distinguere le persone. Si potrebbe pensare che esistano soltanto dieci tipi di persone al mondo. (Si avvicina) Per come la vedo io, ci dev'essere stato un grosso incidente con le clonazioni, in passato.}
+{420}{}{Circa mille dollari. Vedi, questa cifra e' una bazzecola per Don Salvatore, ma questa e' la sua linea nei confronti di CHIUNQUE prenda QUALCOSA da lui. Se fossi in te, me ne ricorderei. Don Salvatore vorra' avere indietro fino all'ULTIMO spicciolo.}
 {430}{}{Ho tenuto gli occhi aperti, ma Lloyd e' stato ben attento a nascondersi... dagli occhi di un Salvatore, almeno. Probabilmente il boss pensa che tu potresti aver miglior fortuna, essendo nuovo in citta'.}
-{431}{}{Sara'... Credo che --}
+{431}{}{Si', come vuoi. Io me ne v --}
 {432}{}{Avrei delle altre --}
 {433}{}{D'accordo, andro' a cont --}
 {440}{}{D'accordo.}
@@ -101,9 +101,9 @@
 {500}{}{(Ti guarda incredulo.) Hai mandato tutto in vacca. Ti avevamo dato un compito semplice e tu hai mandato... tutto... in vacca. }
 {501}{}{Sei il piu' STUPIDO figlio di puttana del mondo. }
 {502}{}{Sei la piu' STUPIDA puttana del mondo. }
-{503}{}{(Sorride di traverso, mette mano alle armi.) E' tempo di morire, selvaggio.}
+{503}{}{(Sorride di traverso, mette mano alle armi.) E' tempo di morire, tribale.}
 {506}{}{No, sei TU quello che MORIRA'! Hai CAPITO, MASON?! SEI TU QUELLO CHE M --}
-{514}{}{Beh, perche' diavolo non l'hai detto SUBITO, idiota. Va' a dire a Don Salvatore cosa hai trovato.}
+{514}{}{Beh, perche' diavolo non l'hai detto SUBITO, idiota? Va' a dire a Don Salvatore cosa hai trovato.}
 {515}{}{(Annuisce, aggrotta leggermente le sopracciglia.) Beh, d'accordo... Va' a dire a Don Salvatore cosa hai trovato.}
 {516}{}{Oh, DAVVERO? E' QUESTO che dovrei fare? Grazie, Mason. Senza di te, non saprei neanche andare da un posto all'altro. Pfui. Idiota.}
 {517}{}{Okay.}
@@ -115,7 +115,7 @@
 {536}{}{(Si acciglia.) Hai riscosso il pizzo?}
 {537}{}{(Corruga la fronte.) Questa volta i soldi farai MEGLIO ad averceli, merdaccia. Don Salvatore sta aspettando.}
 {539}{}{Dov'era che dovevo andare a riscuotere?}
-{540}{}{Renesco non mi ha dato un cazzo. Dice che ha gia' pagato due settimane fa e che non dovrebbe pagare per almeno un altro mese.}
+{540}{}{Renesco mi sta facendo storie. Dice che ha gia' pagato due settimane fa e che non dovrebbe pagare per almeno un altro mese.}
 {542}{}{Uh... si'. Ecco i soldi.}
 {543}{}{Si', ma non ho i soldi qui con me...}
 {544}{}{Quasi. La prossima volta ti portero' i soldi, Mason.}
@@ -124,7 +124,7 @@
 {556}{}{E' tutto quello che mi serve sapere. Adesso cavati dai piedi e lasciami lavorare, Mason.}
 {565}{}{Aspetta un secondo, Speedy Gonzales. Te lo diro' in maniera molto CHIARA, cosi' potrai capire: Non parlarmi piu' finche' non avrai preso quei soldi da Renesco. Altrimenti mi farai incazzare. Adesso fa' il tuo LAVORO.}
 {575}{}{Ti avevo detto di non tornare qui prima di aver preso quei soldi... te l'avevo DETTO. (si tocca la testa con l'indice) Sei stupido?! Dev'essere cosi', dal momento che mi stai rivolgendo di nuovo la parola. Stupido... e MORTO.}
-{585}{}{(Mason sgrana gli occhi.) E che cazzo di problema c'e'? Gli hai detto per chi lavori?}
+{585}{}{(Mason stringe gli occhi.) E che cazzo di problema c'e'? Gli hai detto per chi lavori?}
 {586}{}{Si'.}
 {587}{}{Beh, no.}
 {595}{}{Allora gli hai fatto VEDERE per chi lavori?}
@@ -136,7 +136,7 @@
 {617}{}{Non si puo' riscuotere il pizzo dai morti. (Mette mano alle armi.) Hai finito di fare cazzate. Per SEMPRE.}
 {618}{}{Gia', beh, stavo comunque cominciando a stufarmi di te...}
 {619}{}{No, TU sei quello che ha FINITO PER SEMPRE DI FARE CAZZATE! HAI CAPITO, MASON?! TU SEI QUELLO CHE HA FINITO PER SEM --}
-{625}{}{(Mason annuisce, sembra deluso.) Heh. Credo che abbiamo prosciugato il vecchio Renesco fino all'ultimo decino. Okay, beh... porta i soldi al boss. (Corruga la fronte) Muoviti.}
+{625}{}{(Mason annuisce, sembra deluso.) Heh. Credo che abbiamo prosciugato il vecchio Renesco fino all'ultimo centesimo. Okay, beh... porta i soldi al boss. (Corruga la fronte) Muoviti.}
 {635}{}{Vattene da qui. Don Salvatore non ha piu' intenzione di fare affari con te.}
 {640}{}{Okay, il boss dice che devi presenziare ad una piccola TRANSAZIONE che stiamo per fare. Vedi di venire armato... e non portare pistole ad acqua... poi torna qui e parla con me.}
 {642}{}{Don Salvatore mi ha detto che mi avresti dato una pistola laser.}
@@ -149,7 +149,7 @@
 {665}{}{(Sogghigna.) Se il boss non te l'ha detto, allora vuol dire che non lo devi sapere. Quindi tappati quella fogna... e non dire a nessuno quello che sta per succedere o faro' in modo che tu non possa piu' dire altro.}
 {675}{}{Allora andiamo.}
 {676}{}{Segui lui e gli altri Salvatore nel deserto...}
-{685}{}{Vedi di sbrigarti. Abbiamo una finestra di 24 ore prima che l'accordo salti. Se lo manchi, faro' in modo che tu marcisca sul Golgotha.}
+{685}{}{Vedi di sbrigarti. Abbiamo una finestra di 24 ore prima che l'accordo salti. Se manchi l'appuntamento, faro' in modo che tu marcisca sul Golgotha.}
 {686}{}{Non temere, ci saro'.}
 {695}{}{Ti sei fatto il tuo bel pisolino? Forse ADESSO sei pronto?}
 {696}{}{Cos'era questa transazione che dobbiamo fare?}
@@ -159,7 +159,7 @@
 {705}{}{Avevo una gran voglia di ucciderti da MOLTO tempo... ti avevo AVVERTITO riguardo a quello che ti sarebbe successo nel caso in cui tu fossi arrivato in ritardo.}
 {706}{}{Beh, cazzo, scusami se non ho un orologio.}
 {707}{}{No, TU sei quello che era stato AVVERTITO! Hai CAPITO, MASON?! TU SEI QUELLO CHE ERA STATO AVV --}
-{715}{}{Perche' diavolo devi chiedermi qualcosa ogni volta che parlo?! Ascolta: l'ALTRO gruppo presente a questa transazione non puo' essere ferito da questi fulminatori, okay? Quindi vedi di portarti qualcosa d'ALTRO.}
+{715}{}{Perche' diavolo devi chiedermi qualcosa ogni volta che parlo?! Ascolta: l'ALTRO gruppo presente a questa transazione non puo' essere ferito da questi portatori di luce, okay? Quindi vedi di portarti qualcosa d'ALTRO.}
 {725}{}{(Grugnisce.) Per tutti i... ascolta, prima di tutto devi tenerla COSI'. (Aggiusta la tua presa) Ora, la camera di caricamento e' qui... (dopo un'ora, e un po' d'esercizio, Mason ha incrementato la tua abilita' con le Armi a Energia.)}
 {726}{}{Beh, ma allora perche' mi serve qualcos'altro, oltre a questa? Queste pistole mi sembrano piuttosto potenti.}
 {728}{}{Bene, sono pronto. Andiamo.}
@@ -168,14 +168,14 @@
 {736}{}{Prendi gli oggetti.}
 {745}{}{Inoltre, noi Salvatore abbiamo un... RAPPORTO speciale con Miss Kitty, giu' al Cat's Paw. E con Eldridge del negozio di armi... e con Renesco. (Strizza l'occhio) Divertiti.}
 {746}{}{Grazie, Mason.}
-{747}{}{Gee, Mason, grazie... solo una cosa: la prossima volta, perche' non mi chiami "signore"? Lo gradirei molto. AH AH AH AH AH AH...}
-{748}{}{Gee, Mason, grazie... solo una cosa: la prossima volta, perche' non mi chiami "signora"? Lo gradirei molto. AH AH AH AH AH AH...}
+{747}{}{Caspita, Mason, grazie... solo una cosa: la prossima volta, perche' non mi chiami "signore"? Lo gradirei molto. AH AH AH AH AH AH...}
+{748}{}{Caspita, Mason, grazie... solo una cosa: la prossima volta, perche' non mi chiami "signora"? Lo gradirei molto. AH AH AH AH AH AH...}
 {755}{}{Salve...signore.}
 {756}{}{Salve...signora.}
 {765}{}{(Mason si ferma, mentre ascolta qualcosa che tu non puoi sentire. Dopo un attimo, i suoi denti si serrano.) Don Salvatore dice che puoi entrare, }
 {766}{}{Grazie, coglionazzo. Mi ricordero' di parlare a Don Salvatore dei tuoi modi gentili.}
-{775}{}{(Sgrana gli occhi.) Naturalmente, se stai INSINUANDO che non faccio il mio LAVORO, tu ed io possiamo discuterne personalmente anche adesso. Don Salvatore non si chiedera' certo cos'e' successo al tuo brutto muso.}
-{776}{}{Non sto insinuando che non fai il tuo lavoro. Lo AFFERMO.}
+{775}{}{(Stringe gli occhi.) Naturalmente, se stai INSINUANDO che non faccio il mio LAVORO, tu ed io possiamo discuterne personalmente anche adesso. Don Salvatore non si chiedera' certo cos'e' successo al tuo brutto muso.}
+{776}{}{Non sto insinuando che non fai il tuo lavoro, cazzetto. Lo AFFERMO.}
 {777}{}{Calmati. Ero solo curioso.}
 {778}{}{Questa conversazione comincia ad annoiarmi. Me ne vado.}
 {785}{}{Vedi di non farti raccontare stronzate da quel vecchio... se lo fa, digli che lavori per Don Salvatore. Questo dovrebbe chiarire ogni equivoco. Hai capito?}
@@ -188,7 +188,7 @@
 {805}{}{Povero Don Salvatore... stava diventando piuttosto vecchio. Credo che abbia infine esalato l'ultimo respiro.}
 {806}{}{*Sniff*...Don Salvatore...era quasi un padre per me.}
 {807}{}{Amavo quel vecchio storpio ansimante. Adesso che e' morto non sapra' mai cosa provavo.}
-{815}{}{(Sogghigna mentre ti vede.) Ho saputo che Renesco e' rimasto vittima di un "incidente". Per strada si dice che tu abbia qualcosa a che fare con quello che e' successo. Solo perche' tu lo sappia, selvaggio, lui era uno dei NOSTRI. Credo che tu sia in debito con noi... un debito di SANGUE.}
+{815}{}{(Sogghigna quando ti vede.) Ho saputo che Renesco e' rimasto vittima di un "incidente". Per strada si dice che tu abbia qualcosa a che fare con quello che e' successo. Solo perche' tu lo sappia, tribale, lui era uno dei NOSTRI. Credo che tu sia in debito con noi... un debito di SANGUE.}
 {818}{}{No, sei TU quello che dara' il SANGUE! Hai CAPITO, MASON?! SEI TU QUELLO CHE DARA' IL S --}
 {825}{}{(Il volto di Mason si fa di pietra mentre mette mano alle armi.)}
 {826}{}{Non credo che uccidere ME sia tanto facile quanto avvelenare quel ragazzo...}

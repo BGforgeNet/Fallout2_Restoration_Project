@@ -16,6 +16,6 @@
 {1021}{}{I miei animali dalle fauci taglienti ti sbraneranno!}
 {1022}{}{Mangiatela, miei cari.}
 {1030}{}{KALIMAJIGGER!}
-{1031}{}{Merda! Me rimasti solo grassi topi.}
+{1031}{}{Merda! Me rimasti solo ratti grassi.}
 {1032}{}{Me quasi finito animali.}
 {1050}{}{Uh Oh. Me finiti cosi pelosi da muuuuu...tare.}

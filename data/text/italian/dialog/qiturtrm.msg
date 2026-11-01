@@ -31,19 +31,19 @@
 {131}{}{(Questo qua sembrerebbe avere un livello di accesso davvero elevato.) Bird, D.}
 {132}{}{(Piu' tardi faro' un tentativo.) Esci.}
 {133}{}{Scegliere: }
-{134}{}{C. E. A. : Gestione Centrale Atomica, }
+{134}{}{C. E. A.: Gestione Centrale Atomica, }
 {135}{}{Stato della sicurezza?}
-{136}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
+{136}{}{Scaricare - C. E. A.: Gestione Centrale Atomica.}
 {137}{}{Sicurezza - Situazione.}
 {138}{}{Ritornare a ID utente:}
 {139}{}{Scegliere: }
 {140}{}{Livello di Sicurezza: Stato Attuale, }
 {141}{}{Divisione Chimica: Rapporto sullo Stato del Progetto, }
-{142}{}{C. E. A. : Gestione Centrale Atomica, }
+{142}{}{C. E. A.: Gestione Centrale Atomica, }
 {143}{}{Stato della sicurezza?}
 {144}{}{Livello di Sicurezza: Stato Attuale}
 {145}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto.}
-{146}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
+{146}{}{Scaricare - C. E. A.: Gestione Centrale Atomica.}
 {147}{}{Sicurezza - Situazione.}
 {148}{}{Ritornare a ID utente:}
 {149}{}{Scegliere: }
@@ -51,16 +51,16 @@
 {151}{}{Lista di Parole, }
 {152}{}{Livello di Sicurezza: Stato Attuale, }
 {153}{}{Divisione Chimica: Rapporto sullo Stato del Progetto, }
-{154}{}{C. E. A. : Gestione Centrale Atomica, }
+{154}{}{C. E. A.: Gestione Centrale Atomica, }
 {155}{}{Stato della sicurezza?}
 {156}{}{Stato della Nazione: Situazione Attuale}
 {157}{}{Scaricare - Lista di Parole.}
 {158}{}{Livello di Sicurezza: Stato Attuale}
 {159}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto.}
-{160}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
+{160}{}{Scaricare - C. E. A.: Gestione Centrale Atomica.}
 {161}{}{Sicurezza - Situazione}
 {162}{}{Ritornare a ID utente:}
-{163}{}{Seleziono: Stato di sicurezza?}
+{163}{}{Scegliere: Stato della sicurezza?}
 {164}{}{Sicurezza - Situazione}
 {165}{}{Logout.}
 {166}{}{Download fallito: file della situazione di sicurezza mancante.}
@@ -68,20 +68,20 @@
 {168}{}{Scaricare - Lista di Parole.}
 {169}{}{Livello di Sicurezza: Stato Attuale.}
 {170}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto.}
-{171}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
+{171}{}{Scaricare - C. E. A.: Gestione Centrale Atomica.}
 {172}{}{Ritornare a ID utente:}
-{173}{}{Download Completato.}
+{173}{}{Download completato.}
 {174}{}{Scaricare - Lista di Parole.}
 {175}{}{Livello di Sicurezza: Stato Attuale.}
 {176}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto}
-{177}{}{Scaricare - C. E. A. : Gestione Centrale Atomica}
+{177}{}{Scaricare - C. E. A.: Gestione Centrale Atomica}
 {178}{}{Sicurezza - Situazione.}
 {179}{}{Ritornare a ID utente:}
-{180}{}{Download Completato.}
+{180}{}{Download completato.}
 {181}{}{Stato della Nazione: Situazione Attuale}
 {182}{}{Livello di Sicurezza: Stato Attuale.}
 {183}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto}
-{184}{}{Scaricare - C. E. A. : Gestione Centrale Atomica}
+{184}{}{Scaricare - C. E. A.: Gestione Centrale Atomica}
 {185}{}{Sicurezza - Situazione.}
 {186}{}{Ritornare a ID utente:}
 {187}{}{Livello - Caserma delle Guardie: Torrette di sicurezza attualmente in stato di Allerta Armata.}
@@ -103,22 +103,22 @@
 {203}{}{Stato della Nazione: Situazione Attuale}
 {204}{}{Scaricare - Lista di Parole.}
 {205}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto.}
-{206}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
-{207}{}{Sicurezza: Situazione.}
+{206}{}{Scaricare - C. E. A.: Gestione Centrale Atomica.}
+{207}{}{Sicurezza - Situazione.}
 {208}{}{Ritornare a ID utente:}
-{209}{}{Download Completato.}
+{209}{}{Download completato.}
 {210}{}{Scaricare - Stato della Nazione: Situazione Attuale.}
 {211}{}{Scaricare - Lista di Parole.}
 {212}{}{Livello di Sicurezza: Stato Attuale}
-{213}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
+{213}{}{Scaricare - C. E. A.: Gestione Centrale Atomica.}
 {215}{}{Sicurezza - Situazione.}
 {216}{}{Ritornare a ID utente:}
-{217}{}{Download Completato.}
+{217}{}{Download completato.}
 {218}{}{Scaricare - Stato della Nazione: Situazione Attuale.}
 {219}{}{Scaricare - Lista di Parole.}
 {220}{}{Livello di Sicurezza: Stato Attuale}
 {221}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto.}
-{222}{}{Sicurezza: Situazione.}
+{222}{}{Sicurezza - Situazione.}
 {223}{}{Ritornare a ID utente:}
 {224}{}{Questo terminale sta eseguendo un programma di diagnostica approfondita. Siete pregati di usare un altro terminale. Grazie.}
 {225}{}{Benvenuti nella Guida di PoseidoNet. Ci dispiace informarvi che i nostri file Guida sono attualmente obsoleti e non disponibili. Cercare aggiornamento dei file della Guida? (S/N)}
@@ -130,7 +130,7 @@
 {231}{}{L'accesso ai comandi ausiliari del Sistema di Sicurezza e' consentito solamente alla persona del Presidente degli Stati Uniti. L'identita' deve essere confermata tramite tessera magnetica personale. Opzioni consentite: Contro-Sommossa; Spegnimento d'Emergenza del Sistema di Sicurezza.}
 {232}{}{(Daro' un'occhiata a questa.) Contro-Sommossa.}
 {233}{}{(Daro' un'occhiata a questa.) Spegnimento d'Emergenza del Sistema di Sicurezza.}
-{234}{}{(Forse farei meglio a provare qualcosa di meno impegnativo) Ritornare a ID utente.}
+{234}{}{(Forse farei meglio a provare qualcosa di meno vistoso) Ritornare a ID utente.}
 {235}{}{(Non credo di voler trafficare con questa roba, per il momento.) Esci.}
 {236}{}{Contro-Sommossa. In caso di Ribellione Armata, la Tessera Presidenziale di Sicurezza consente al Presidente degli Stati Uniti di impostare i Sistemi Difensivi affinche' attacchino tutte le unita' un tempo fedeli, ma adesso ostili, presenti nell'area. I sistemi difensivi sono programmati per attaccare per primo il nemico piu' pericoloso. Attenzione! Stato operativo attuale - programma attivabile nei soli settori d'ingresso!}
 {237}{}{(Sembra utile.) Attivare Protocollo Contro-Sommossa.}
@@ -155,13 +155,13 @@
 {256}{}{(Oh beh... almeno ci ho provato.) Indietro.}
 {257}{}{Rilevato malfunzionamento dello scanner di sicurezza... Reinizializzazione in corso...}
 {258}{}{(Questa e' la mia occasione: se solo riuscissi a fargli credere d'aver riconosciuto la Tessera Presidenziale...)}
-{259}{}{(Dannazione, la fortuna non e' dalla mia parte...) Indietro.}
-{260}{}{Scanner on-line. Nuova scansione in corso...}
+{259}{}{(Dannazione... beh, chi non risica non rosica.) Indietro.}
+{260}{}{Scanner reinizializzato. Nuova scansione in corso...}
 {261}{}{(Ecco il punto cruciale.) -Premi rapidamente dei tasti-.}
 {262}{}{Individuata procedura illegale. E' negato ogni ulteriore accesso a questo terminale... Inviata richiesta d'intervento squadra di manutenzione.}
 {263}{}{Dannazione. Non e' proprio quel che volevo.}
 {264}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente. (Si'! Ora vediamo cosa riesco a...)}
 {265}{}{(Cos'altro posso fare?)}
-{266}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente... Protocollo di Emergenza Contro-Sommossa attivato...**Errore** Bersaglio non trovato. Assicurarsi che i sensori stiano lavorando correttamente altrimenti, per autorizzare le riparazioni necessarie, prego inviare il modulo FG-I-106-32-0635. Grazie per aver usato un altro magnifico prodotto Vault-Tec. Buona giornata.}
+{266}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente... Protocollo di Emergenza Contro-Sommossa attivato...**Errore** Bersaglio non trovato. Assicurarsi che i sensori funzionino correttamente. In caso contrario, per autorizzare le riparazioni necessarie, prego inviare il modulo FG-I-106-32-0635. Grazie per aver usato un altro magnifico prodotto Vault-Tec. Buona giornata.}
 {267}{}{(Mmm... Forse funzionera' quando li' ci sara' effettivamente qualcuno. Faro' un tentativo piu' tardi.) Ritornare a ID utente.}
 {268}{}{(Mi chiedo cos'altro potrei provare...) Indietro.}

@@ -1,6 +1,6 @@
 {100}{}{Vedi un computer.}
 {101}{}{Vedi il computer del museo dell'EPA.}
-{200}{}{Benvenuto nel museo dell'EPA! Questo terminale proiettera' un film utilizzando una nuova ed entusiasmante tecnologia olografica!
+{200}{}{Benvenuti nel museo dell'EPA! Questo terminale proiettera' un film utilizzando una nuova ed entusiasmante tecnologia olografica!
  Il film offre una visione divertente e informativa della spaventosa, ma possibile, realta' di un mondo post-nucleare.}
 {201}{}{[Riproduci filmato.]}
 {202}{}{[Disconnetti.]}
@@ -18,7 +18,7 @@
  non erano poi cosi' al sicuro come credevano. Ora, cosa possiamo imparare dall'errore della famiglia Johnson?}
 {231}{}{[AVANTI]}
 {240}{}{Esatto! In caso di guerra nucleare, vorrai che la tua famiglia sia al sicuro all'interno di un Vault marchiato Vault-Tec.
- Vault-Tec ha costruito 122 vault pubblici in tutta la nostra grande nazione, quindi ce ne sara' sicuramente uno vicino a te.
+ Vault-Tec ha costruito 122 Vault pubblici in tutta la nostra grande nazione, quindi ce ne sara' sicuramente uno vicino a te.
  Come puoi immaginare, lo spazio e' molto limitato, quindi prenota il tuo posto oggi stesso, altrimenti *la tua* famiglia potrebbe finire come
  i Johnson qui. [Il Dr. Caleb accarezza la testa del cane scheletrico. Il cranio si stacca dal corpo e cade a terra,
  frantumandosi. Un robot Mr. Handy arriva fluttuando e spazza via i frammenti.]}

@@ -1,1 +1,1 @@
-{100}{}{Sei entrato nei livelli sotterranei dell'EPA.}
+{100}{}{Entri nei livelli sotterranei dell'EPA.}

@@ -1,4 +1,4 @@
-{100}{}{Vedi un tipo magro dall'aspetto insignificante.}
+{100}{}{Vedi un teppistello magrolino.}
 {101}{}{E' Doofus, il guardiano delle auto.}
 {102}{}{Questo tipo e' uno stecco malridotto, pieno di spasmi e tic; di sicuro e' un tossicodipendente.}
 {103}{}{Questo e' un bel mezzo, fratello, davvero bello! Oh cavoli, io sono quello che fa per te - ti guardo la macchina e tengo lontane le cimici. Cinque dollari e nessun problema. Cinque dollari e Doofus e' in servizio! Non dorme mai - 24 ore su 24, sempre qui, fratello.}
@@ -11,7 +11,7 @@
 {110}{}{Che posto e' questo?}
 {111}{}{D'accordo. 5$ - e tu mi tieni d'occhio la macchina.}
 {112}{}{Sparisci, verme!}
-{113}{}{Whoa fratello, sei per caso un gigante per parlarmi cosi'? Ti credi ganzo o che?}
+{113}{}{Whoa fratello, c'e' tipo un gigante che mi parla! Non e' troppo forte?}
 {114}{}{Gurg?}
 {115}{}{Fratello? Io non sono un uomo!}
 {116}{}{Che posto e' questo?}
@@ -42,7 +42,7 @@
 {141}{}{Si'?}
 {142}{}{No?}
 {143}{}{Tu sei un dannato pazzo! Me ne vado.}
-{144}{}{Questa e' NCR - la grande, mitica, retta e assolutamente sempre giusta New California Republic. Sono queste le persone che guideranno la gente come noi fuori dalle Lande verso un futuro nuovo e perfetto. Hai capito?}
+{144}{}{Questa e' NCR - la grande, mitica, retta e assolutamente sempre giusta Repubblica della Nuova California. Sono queste le persone che guideranno la gente come noi fuori dalle Lande verso un futuro nuovo e perfetto. Hai capito?}
 {145}{}{Vediamo di concludere l'affare.}
 {146}{}{Si', grazie. Ci vediamo.}
 {147}{}{Gurg, ladal spaf!}
@@ -81,7 +81,7 @@
 {180}{}{Ho scritto una canzone. Vuoi sentirla? Ecco come fa...}
 {181}{}{Macchine MACCHINNE MACCHINE Macchine MAKKINE MAKKKKINE Macchine Macine}
 {182}{}{Macine?! Certo, posso fare la guardia anche alle macine. Tutti hanno una MACINA!!}
-{183}{}{MI PIACCION LE MACINE, PERCHE' LA PAROLA ASSOMIGLIA A MACCHINE E QUESTO E' QUELLO CUI FACCIO LA GUARDIA!}
+{183}{}{MI PIACCIONO LE MACINE, PERCHE' LA PAROLA ASSOMIGLIA A MACCHINE E QUESTO E' QUELLO CUI FACCIO LA GUARDIA!}
 {184}{}{Ti piacciono le macchine io le TENGO D'OCCHIO come un falco dai piccoli occhi luccicanti.}
 {185}{}{Non mi allontano mai da qui ho visto persone parlare ma io continuo a fare la guardia}
 {186}{}{Yeah, sto bene. YEAH, STOBENE, yeah.}

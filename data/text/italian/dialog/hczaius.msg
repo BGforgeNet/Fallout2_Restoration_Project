@@ -1,6 +1,6 @@
 {100}{}{Vedi un vecchio mutante dall'aspetto robusto.}
 {101}{}{Vedi Zaius, il responsabile della miniera.}
-{102}{}{Guardandolo meglio, vedi un vecchio mutante robusto con una picozza e un elmetto da minatore.}
+{102}{}{Guardandolo meglio, vedi un vecchio mutante robusto con una piccone e un elmetto da minatore.}
 {103}{}{Sei tu quello nuovo?}
 {104}{}{Eek, oog og!}
 {105}{}{Nuovo! Quello! Me!}
@@ -9,30 +9,30 @@
 {108}{}{No, genio, vivo qui da una vita e tu non mi hai mai notato.}
 {109}{}{Ho sentito che avete qualche problema con la miniera.}
 {110}{}{Cosa puoi dirmi di questo posto?}
-{111}{}{Ummm… ceeeeerto. Senti qua. Eccoti due dollari. Vai al saloon e comprati qualcosa da bere.}
+{111}{}{Ummm... ceeeeerto. Senti qua. Eccoti due dollari. Vai al saloon e comprati qualcosa da bere.}
 {112}{}{Yagga? Ogg? Gronk!}
-{113}{}{Non riesco a capire quello che dici, amico. Perche' non te ne vai al saloon? Diavolo, forse Francis ti sfidera' a bracciodiferro.}
+{113}{}{Non riesco a capire quello che dici, amico. Perche' non te ne vai al saloon? Diavolo, forse Francis ti sfidera' a braccio di ferro.}
 {114}{}{Farro? O-KAY!}
-{115}{}{Okay... Beh, io sono Zaius. Adesso che ci siamo presentati… Come te la cavi con i lavori manuali? Abbiamo un problema con il nostro purificatore d'aria nel livello inferiore della miniera, ma non abbiamo ne' i pezzi di ricambio per ripararlo ne' l'equipaggiamento necessario per proteggerci dall'aumentata concentrazione di gas radon.}
-{116}{}{Non sono molto bravo. Mi spiace.}
+{115}{}{Okay... Beh, io sono Zaius. Adesso che ci siamo presentati... Come te la cavi con i lavori manuali? Abbiamo un problema con il nostro purificatore d'aria nel livello inferiore della miniera, ma non abbiamo ne' i pezzi di ricambio per ripararlo ne' l'equipaggiamento necessario per proteggerci dall'aumentata concentrazione di gas radon.}
+{116}{}{Non sono un granche'. Mi spiace.}
 {117}{}{Me la cavo. Cosa devo fare?}
 {118}{}{Beh, spero che il tuo soggiorno a Broken Hills sia piacevole.}
 {119}{}{(avanti)}
-{120}{}{Ah. Ah. Divertente. Non c'e' niente di meglio che un ragazzo sveglio per risolvere un problema.}
+{120}{}{Ah. Ah. Divertente. Non c'e' niente di meglio che un tipo sveglio per risolvere un problema.}
 {121}{}{Piu' sveglio di chiunque altro in questo cesso di paese.}
 {122}{}{Oh? C'e' un problema? Di che si tratta?}
 {123}{}{Il problema piu' grosso e' che tu sei un idiota.}
 {124}{}{Proprio io. Un tipo sveglio. Qual e' il vostro problema?}
 {125}{}{Il nostro purificatore d'aria si e' rotto. Si trova nel livello inferiore. Non abbiamo pezzi di ricambio, ne' equipaggiamento protettivo. Senza i pezzi di ricambio non possiamo ripararlo. Senza protezione, il gas radon ci ucciderebbe. Come te la cavi con i lavori manuali?}
-{126}{}{Sono a posto.}
-{127}{}{Totalmente incapace.}
+{126}{}{Me la cavo.}
+{127}{}{No. Non proprio.}
 {128}{}{Ancora tu, eh?}
 {129}{}{Ork! Ooo! Ug ug!}
 {130}{}{Ciao! CIAOOO! Io }
 {131}{}{Amico, ti ho gia' dato dei soldi. Va' a disturbare qualcun altro, eh?}
-{132}{}{Chi si rivede. Perche' non provi ad andare… umm… alla banca, giu' in citta'? Sono sicuro che c'e' un sacco di gente che non vede l'ora di parlare con te.}
+{132}{}{Chi si rivede. Perche' non provi ad andare... umm... alla banca, giu' in citta'? Sono sicuro che c'e' un sacco di gente che non vede l'ora di parlare con te.}
 {133}{}{Beh, se mai ti dovesse venire in mente una soluzione, fammelo sapere.}
-{134}{}{Davvero? Mi faresti questo favore… e, soprattutto, lo faresti per Broken Hills?}
+{134}{}{Davvero? Mi faresti questo favore... e, soprattutto, lo faresti per Broken Hills?}
 {135}{}{Io cosa ne ricavo?}
 {136}{}{Certo, lo faro'.}
 {137}{}{Non adesso.}
@@ -45,15 +45,15 @@
 {144}{}{Io cosa ne ricavo?}
 {145}{}{Certo, lo faro'.}
 {146}{}{Stai scherzando? Scordatelo.}
-{147}{}{$. Che ne pensi?}
+{147}{}{. Che ne pensi?}
 {148}{}{Una vera merda. Voglio di piu'.}
 {149}{}{Mi sta bene.}
 {150}{}{Scordatelo. Io mi chiamo fuori.}
 {151}{}{Ottimo! Ti serviranno i pezzi di ricambio, naturalmente. Va' a New Reno e cerca un tipo di nome Renesco. Ha attrezzi sparsi per tutto il negozio. Digli che ti manda Zaius. Digli che ti ho detto: "Il canarino ha tirato le cuoia". Non so dove potresti procurarti l'equipaggiamento protettivo per il gas. Puoi anche entrare senza, ma di sicuro non ti farebbe bene. Grazie ancora.}
-{152}{}{Nessun problema. Addio.}
+{152}{}{Nessun problema. Ciao.}
 {153}{}{No? Beh, se dovessi cambiare idea, sai dove trovarmi.}
-{154}{}{Certo. Addio.}
-{155}{}{ E' cosi' allora. Prendi meta' ora. Ti daro' l'altra meta' quando hai finito. Vai a New Reno e
+{154}{}{Certo. Ciao.}
+{155}{}{, allora. Prendi meta' ora. Ti daro' l'altra meta' quando avrai finito. Vai a New Reno e
 cerca Renesco. Ha degli attrezzi sparsi nel suo ufficio. Dovrebbe essere in grado di aiutarti con
 i pezzi.}
 {156}{}{Ci vediamo.}
@@ -67,7 +67,7 @@ i pezzi.}
 {164}{}{Ehila'.}
 {165}{}{Lo sapevo che quei bastardi di Franc, Manson, Jacob e Aileen stavano tramando alle nostre spalle. Ben fatto! Allora...}
 {166}{}{Spero che tu abbia preso una decisione, riguardo al restituire l'uranio alla citta'... allora...}
-{167}{}{Ah, grazie mille per aver venduto l'uranio. D'altro canto, noi non sapremmo proprio cosa farcene... Allora…}
+{167}{}{Ah, grazie mille per aver venduto l'uranio. D'altro canto, noi non sapremmo proprio cosa farcene... Allora...}
 {168}{}{Grazie mille per aver riconsegnato quell'uranio. Non hai idea di quanto lavoriamo duro per estrarre quella roba.}
 {169}{}{Allora, cosa vuoi?}
 {170}{}{Puoi dirmi qualcosa sulla citta'?}
@@ -79,21 +79,21 @@ i pezzi.}
 {176}{}{Certo, lo faro'.}
 {177}{}{Non adesso.}
 {178}{}{No.}
-{179}{}{Come va? Spero che tu riesca a risolvere in fretta il problema…}
+{179}{}{Come va? Spero che tu riesca a risolvere in fretta il problema...}
 {180}{}{Tutto procede a meraviglia.}
 {181}{}{Sono una persona molto occupata. Non ho ancora avuto il tempo di farlo.}
 {182}{}{A breve dovrei essere in grado di farti sapere qualcosa.}
-{183}{}{Ti sei procurato i pezzi di ricambio? Magnifico… Spero che tu abbia anche qualcosa per proteggerti dal gas. Il radon puo' essere letale.}
+{183}{}{Hai i pezzi di ricambio? Magnifico... Spero che tu abbia anche qualcosa per proteggerti dal gas. Il radon puo' essere letale.}
 {184}{}{Sono pronto.}
 {185}{}{Andro' tra un attimo.}
-{186}{}{Ti sei procurato i pezzi di ricambio? Magnifico… Spero che tu abbia anche qualcosa per proteggerti dal gas. Il radon puo' essere letale.}
+{186}{}{Hai i pezzi di ricambio? Magnifico... Spero che tu abbia anche qualcosa per proteggerti dal gas. Il radon puo' essere letale.}
 {187}{}{Sono pronto.}
 {188}{}{Andro' tra un attimo.}
-{189}{}{L'hai riparato? Splendido! Ascolta, so che l'hai fatto senza volere nulla in cambio, ma... non avrei dovuto permetterlo. Percio' io e i ragazzi abbiamo fatto una colletta e ti abbiamo preso questo. E' un fucile a pompa. Buona fortuna. E grazie.}
+{189}{}{L'hai riparato? Splendido! Ascolta, so che l'hai fatto senza volere nulla in cambio, ma... non potevo permettertelo. Percio' io e i ragazzi abbiamo fatto una colletta e ti abbiamo preso questo. E' un fucile a pompa da combattimento. Buona fortuna. E grazie.}
 {190}{}{Non c'e' di che. Grazie a voi!}
 {191}{}{L'hai riparato? Splendido! Come d'accordo, ecco il resto della somma pattuita. Grazie ancora.}
 {192}{}{Bastardo. Adesso morirai.}
-{193}{}{Bene, bene. Ti prego di fare in fretta, pero'… la nostra citta' ha bisogno di quello che estraiamo da li'.}
+{193}{}{Bene, bene. Ti prego di fare in fretta, pero'... la nostra citta' ha bisogno di quello che estraiamo da li'.}
 {194}{}{Certo. Ci vediamo.}
 {195}{}{Non dirmi quello che devo fare. Sono molto occupato. Stronzo.}
 {196}{}{Beh, mi dispiace, Vostra Maesta', ma credo che la sopravvivenza della citta' sia leggermente piu' importante. Ti vuoi sbrigare, o no?}
@@ -104,17 +104,17 @@ i pezzi.}
 {201}{}{Beh, credo che le persone piu' adatte con cui parlare di questo argomento siano Marcus, giu' alla banca, o Steve, la guida cittadina.}
 {202}{}{Hmm. D'accordo, grazie.}
 {203}{}{Andro' a chiederlo a loro, allora.}
-{204}{}{Vorrei poter dire che tutto va bene. Tuttavia si spera sempre che le cose vadano meglio.}
+{204}{}{Direi che vanno bene. Pero'... potrebbero sempre andare meglio.}
 {205}{}{Eh eh. Grazie per tutte le informazioni.}
 {206}{}{Beh, dal momento che i mutanti non invecchiano rapidamente - pare che il gas li mantenga giovani - direi che le cose vanno piuttosto bene. Voglio dire, noi non vogliamo uccidere nessuno e, per quanto ne so, gli umani non pensano troppo male di noi. Certo, questo non include gli altri umani che vengono dalle citta' qui attorno... quelli si' che sono dei bastardi.}
-{207}{}{Okay, grazie. Ci vediamo.}
-{300}{}{$. Che ne pensi?}
-{301}{}{$. Che ne pensi?}
+{207}{}{Okay, grazie. Ciao.}
+{300}{}{. Che ne pensi?}
+{301}{}{. Che ne pensi?}
 {302}{}{$}
 {381}{}{Sono una persona molto occupata. Non ho ancora avuto il tempo di occuparmene.}
-{382}{}{Non dirmi quello che devo fare. Sono molto occupato. Stronzo.}
+{382}{}{Non dirmi quello che devo fare. Sono molto occupata. Stronzo.}
 {383}{}{Beh, mi dispiace, Vostra Maesta', ma credo che la sopravvivenza della citta' sia leggermente piu' importante. Ti vuoi sbrigare, o no?}
-{400}{}{Ho trovato un biglietto con il tuo nome scritto sopra. Era nel cadavere di una donna, in una delle caverne. Hai qualcosa da dire?}
+{400}{}{Ho trovato un biglietto con il tuo nome scritto sopra. Era sul cadavere di una donna, nei tunnel. Hai qualcosa da dire?}
 {401}{}{Ehi, io quel biglietto l'ho soltanto ricevuto. Parlane con Francis, ok? E' lui che l'ha scritto.}
 {402}{}{Voglio sapere se c'entri con la morte di quelle persone.}
 {403}{}{D'accordo. Ci vediamo.}
@@ -122,5 +122,5 @@ i pezzi.}
 {405}{}{Sembra un raccontino troppo perfetto. Andro' a vedere cosa ne pensa Francis.}
 {406}{}{Sapevo che Francis non avrebbe sopportato di essere scoperto. Conosceva bene i rischi che correva agendo in quel modo, ma credo non si aspettasse di esser beccato. Se la cavera'. Spero che lo stesso si possa dire anche di Broken Hills.}
 {407}{}{Lo spero anch'io. Ho delle domande da farti.}
-{408}{}{Anch'io. Arrivederci.}
+{408}{}{Anch'io. Ciao.}
 {1130}{}{!}

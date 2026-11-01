@@ -1,6 +1,6 @@
-{100}{}{Vedi un deathclaw. Ti guarda con occhi dall'aspetto stranamente intelligente.}
+{100}{}{Vedi un Deathclaw. Ti guarda con occhi dall'aspetto stranamente intelligente.}
 {101}{}{Vedi Thearn, il Deathclaw.}
-{102}{}{Vedi un tipico deathclaw. Questa creatura e' grossa, con un corpo possente, denti affilati e lunghi artigli.}
+{102}{}{Vedi un tipico Deathclaw. Questa creatura e' grossa, con un corpo possente, denti affilati e lunghi artigli.}
 {103}{}{Perdona. Io no parla bene. Io prova parlare te.}
 {104}{}{Tu vuole cosa?}
 {105}{}{Chi tu?}
@@ -17,7 +17,7 @@
 {116}{}{Devo andare.}
 {117}{}{E' un piacere conoscerti, Thearn. Io sono}
 {118}{}{Capito.}
-{119}{}{Adesso che mi ci fai pensare... non mi frega un accidente sapere chi sei.}
+{119}{}{Adesso che mi ci fai pensare... non me ne frega un cazzo di chi sei.}
 {120}{}{Io controlla corridoio. Salvezza del branco mio scopo.}
 {121}{}{Oh... Uh...}
 {122}{}{Controlla? Cosa?}

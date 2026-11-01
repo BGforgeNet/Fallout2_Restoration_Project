@@ -9,7 +9,7 @@
 {108}{}{Disabilita Campi di Forza}
 {109}{}{Leggi posta}
 {110}{}{Esci}
-{111}{}{[Non ha importanza quanto impegno tu ci metta, ma queste righe piene di ghirigori non significano proprio nulla per te.]}
+{111}{}{[Per quanto ti sforzi, queste righe piene di ghirigori non significano proprio nulla per te.]}
 {112}{}{Disabilitare Piastrelle Elettrificate                            Prego inserire password:}
 {113}{}{Viola il sistema di sicurezza}
 {114}{}{Prova ad indovinare la password}
@@ -43,15 +43,15 @@
 {142}{}{La presente e' per confermare il suo ordine delle videocassette 'Debbie si fa l'esercito' e 'Gola Profonda, volume 1059'. Il suo ordine dovrebbe arrivarle via posta entro 2-4 settimane. La ringraziamo per il suo ordine.}
 {143}{}{Leggi altra posta}
 {144}{}{Esci}
-{145}{}{L'Evacuazione del Deposito Militare Sierra e' stata spostata di una settimana. Tutte le misure di sicurezza dovranno essere pronte per quel momento. Per ordine del Generale Clifton.}
+{145}{}{L'evacuazione del Deposito Militare Sierra e' stata anticipata di una settimana. Tutte le misure di sicurezza dovranno essere pronte per quel momento. Per ordine del Generale Clifton.}
 {146}{}{Leggi altra posta}
 {147}{}{Esci}
-{148}{}{[Senti un leggero ronzio mentre del fumo comincia ad uscire dal terminale del computer. Ti sposti e osservi la tastiera sciogliersi in un mucchio di gelatina. Uhm... doveva trattarsi di uno dei quei virus dei quali hai sentito parlare.]}
+{148}{}{[Senti un leggero ronzio mentre del fumo comincia ad uscire dal terminale del computer. Resti a guardare la tastiera che si scioglie in una pozza di poltiglia. Uhm... doveva trattarsi di uno di quei virus di cui hai sentito parlare.]}
 {149}{}{Esci}
-{150}{}{Qui e' Klinger dell'8063simo. Abbiamo disperato bisogno del componente numero 102-53B. Se lei potesse accelerare l'arrivo di tale pezzo, ho qui per lei una cassa di Chateau Lafayette 2155. Me lo invii il piu' presto possibile.}
+{150}{}{Qui e' Klinger dell'8063esimo. Abbiamo disperato bisogno del componente numero 102-53B. Se lei potesse accelerare l'arrivo di tale pezzo, ho qui per lei una cassa di Chateau Lafayette 2155. Mi risponda al piu' presto.}
 {151}{}{Leggi altra posta}
 {152}{}{Esci}
-{153}{}{[Che fortuna incredibile! Sei riuscito ad azzeccare la password corretta. "Tettone"]                                       Disattivazione Piastrelle Elettrificate in corso}
+{153}{}{[Che fortuna incredibile! Riesci ad azzeccare la password corretta. "Tettone"]                                             Disattivazione Piastrelle Elettrificate in corso}
 {154}{}{Ritorna al Menu Principale}
 {155}{}{Esci}
 {156}{}{[Fai svariati tentativi, ma non riesci ad indovinare la password.]}
@@ -66,5 +66,5 @@
 {165}{}{[In qualche modo il tuo armeggiare ha provocato l'esplosione del terminale.]}
 {166}{}{Esci}
 {200}{}{[Questo terminale non e' piu' operativo.]}
-{300}{}{Hai disattivato le piastre elettriche.}
+{300}{}{Disattivi le piastrelle elettrificate.}
 {400}{}{Il computer e' in modalita' diagnostica. Attendere il completamento della sequenza diagnostica.}

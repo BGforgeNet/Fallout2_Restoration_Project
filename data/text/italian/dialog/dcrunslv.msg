@@ -1,7 +1,7 @@
 {100}{}{Vedi un uomo grosso, dall'aspetto primitivo.}
 {101}{}{Vedi una donna primitiva mingherlina.}
 {200}{}{Vedi un uomo dall'aspetto strano.}
-{201}{}{Vedi un uomo dall'aspetto rozzo.}
+{201}{}{Vedi un uomo dall'aspetto trasandato.}
 {202}{}{Vedi un uomo che indossa degli abiti consunti.}
 {210}{}{Vedi una donna molto sporca.}
 {211}{}{Vedi una donna piuttosto sudicia.}
@@ -23,7 +23,7 @@
 {301}{}{No uccidere! No uccidere!}
 {302}{}{Basta!}
 {303}{}{Aiutoooooo!}
-{304}{}{Scappare!}
+{304}{}{Scappiamo!}
 {305}{}{Lasciare noi in pace!}
 {306}{}{No fare bua!}
 {307}{}{Noi no fatto male te!}

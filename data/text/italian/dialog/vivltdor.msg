@@ -8,7 +8,7 @@
 {107}{}{Con l'aiuto del piede di porco riesci a forzare la porta.}
 {108}{}{*Hrnnnnn*}
 {109}{}{Facendo affidamento sulla tua sola forza fisica, riesci a forzare la porta.}
-{110}{}{Wow. Non le hai fatto nemmeno un graffio.}
+{110}{}{Wow. Non l'ha neanche scalfita.}
 {111}{}{BOOM no male a porta.}
 {112}{}{La porta e' bloccata, non e' chiusa a chiave.}
 {113}{}{Porta bloccata no chiusata.}

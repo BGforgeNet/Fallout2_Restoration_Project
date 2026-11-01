@@ -30,7 +30,7 @@
 {178}{}{Per favore vattene. Adesso.}
 {179}{}{Oppure cosa?}
 {180}{}{D'accordo. Ma tornero'!}
-{181}{}{OK. ciao.}
+{181}{}{OK. Ciao.}
 {182}{}{Cosa vorresti sapere?}
 {183}{}{A proposito del Mercante Vic...}
 {184}{}{Posso unirmi alla Gilda degli Schiavisti?}
@@ -95,7 +95,7 @@
 {239}{}{Grazie. Ciao.}
 {240}{}{Altro?}
 {241}{}{Si', ho una domanda.}
-{242}{}{No. Ci vediamo.}
+{242}{}{No. Ciao.}
 {243}{}{Quale "amico" vuoi vendere?}
 {244}{}{Uhm, lascia perdere.}
 {245}{}{Interessante. Ti daro' }
@@ -149,7 +149,7 @@
 {326}{}{Dannazione! Hai fatto una pessima figura in questa Caccia. Stai cercando di rovinarmi? Sta' piu' attento la prossima volta.
  Non devi ucciderli tutti! Ammazza solo quelli ostili. Lascia quelli disarmati per la raccolta.}
 {327}{}{Mi dispiace, Metzger.}
-{328}{}{Ehi, fare lo Schiavista e' un lavoro duro!}
+{328}{}{Ehi, fare lo schiavista e' un lavoro duro!}
 {329}{}{Vorrei vederti fare di meglio.}
 {330}{}{Vorrei partecipare ad un rastrellamento di schiavi.}
 {331}{}{Dannazione! Odio perdere membri della gilda durante una Caccia. Cercate di coprirvi le spalle a vicenda!}

@@ -1,9 +1,9 @@
-{100}{}{Vedi un guerriero tribale forte.}
+{100}{}{Vedi un forte guerriero tribale.}
 {101}{}{Questo tribale sembra molto forte, ma non molto sveglio.}
 {200}{}{Alt! Cosa tu volere?}
 {201}{}{Cosa fai qui?}
 {202}{}{Io sorvegliare grotta per tribu'. Io assicurarmi nessun uomo cattivo sorprendere noi.}
-{203}{}{Capisco. Posso dare un’occhiata alla caverna?}
+{203}{}{Capisco. Posso dare un'occhiata alla caverna?}
 {204}{}{No. Io non avere il permesso di far entrare stranieri in grotta. Capo guerriero dire cosi'.}
 {205}{}{Forse piu' tardi, allora.}
 {206}{}{Ancora tu? Cosa vuoi stavolta?}
@@ -13,12 +13,12 @@
 {210}{}{Grazie. Ti faro' sapere se mi serve qualcosa.}
 {300}{}{Ehi, perche' tu correre? Tu trovare qualcosa?}
 {301}{}{Si', ho trovato i cacciatori scomparsi. Uno di loro e' morto ma l'altro e' gravemente ferito. Ho bisogno del tuo aiuto
- per portarlo fuori e portarlo dallo Sciamano. Io andare ad aspettare con lo Sciamano mentre tu salvare il cacciatore.}
+ per portarlo fuori e portarlo dallo Sciamano. Io vado ad aspettare con lo Sciamano mentre tu salvi il cacciatore.}
 {302}{}{Membro tribu' avere bisogno di aiuto? Io dover aiutare loro. Nella grotta? Io venire!}
 {303}{}{[FATTO]}
-{400}{}{Grazie per aiutare Serin. Lui essere buon guerriero. Tu essere amico della tribu'.}
+{400}{}{Grazie per aiutare Serin. Lui essere buon guerriero. Tribu' essere tua amica.}
 {401}{}{Grazie. Ora devo andare.}
-{402}{}{Ciao amico. Cosa ti serve?}
+{402}{}{Ehi, ciao! Cosa ti serve?}
 {403}{}{Niente. Ero solo di passaggio. Stammi bene.}
-{500}{}{Tu eroe! Me abbraccia!}
+{500}{}{Tu eroe! Io abbracciare!}
 {501}{}{Insegnare a me essere eroe, come te!}

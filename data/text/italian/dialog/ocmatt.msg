@@ -1,6 +1,6 @@
 {100}{}{Vedi un uomo alto e magro.}
 {101}{}{Vedi Matt.}
-{102}{}{Vedi un uomo alto e magro, con i capelli corti e occhi cattivi. Riesci a *sentire* il suo sguardo che ti fissa.}
+{102}{}{Vedi un uomo alto e magro, con i capelli corti e uno sguardo folle. Riesci a sentire i suoi occhi su di te.}
 {103}{}{Posso aiutarti in qualche modo, straniero?}
 {104}{}{Me fa domande?}
 {105}{}{No, ciao.}
@@ -12,13 +12,13 @@
 {111}{}{Me va ora.}
 {112}{}{Chi sei?}
 {113}{}{Sei un prigioniero?}
-{114}{}{Adesso devo anadre.}
-{115}{}{Mi chiamo Matt. Qualche problema?}
+{114}{}{Adesso devo andare.}
+{115}{}{Mi chiamo Matt. Ha importanza?}
 {116}{}{Me crede di no.}
 {117}{}{Humph. Me va.}
 {118}{}{Okay, credo che andro' via.}
 {119}{}{No.}
-{120}{}{Si', per la verita' lo sono. Mi sono imbattuto in questo posto e sono stato catturato dai Deathclaw. Mi danno liberta' di movimento nei livelli inferiori del vault, ma non posso raggiungere il livello 1 dove si trova l'uscita.}
+{120}{}{Si', per la verita' lo sono. Mi sono imbattuto in questo posto e sono stato catturato dai Deathclaw. Mi danno liberta' di movimento nei livelli inferiori del Vault, ma non posso raggiungere il livello 1 dove si trova l'uscita.}
 {121}{}{Perche'?}
 {122}{}{Okay.}
 {123}{}{Me andare via.}
@@ -34,17 +34,17 @@
 {133}{}{Si'.}
 {134}{}{No.}
 {135}{}{Arrgh! Sei un pazzo a fidarti di loro. Se cambi idea, torna qui a prendermi.}
-{136}{}{Addio.}
+{136}{}{Ciao.}
 {137}{}{Hai cambiato idea? Mi aiuterai ad uscire da qui?}
 {138}{}{Si'.}
 {139}{}{No.}
-{140}{}{Ho l'impressione che tu ti sia appena cacciato in una tempesta di merda!}
+{140}{}{Ho l'impressione che ti sia appena piovuta addosso una tempesta di merda!}
 {141}{}{Me no qui per scappata. Me qui perche' qualcuno rotto computer. Stato tu?}
 {142}{}{Non sono qui per parlare di piani di fuga. Qualcuno ha sabotato l'interfaccia del computer centrale. Tu ne sai qualcosa?}
-{143}{}{Ho l'impressione che tu ti sia appena cacciato in una tempesta di merda!}
+{143}{}{Ho l'impressione che ti sia appena piovuta addosso una tempesta di merda!}
 {144}{}{Certo. Ho distrutto il modulo di riconoscimento vocale e ho disabilitato tutti gli input da tastiera.}
 {145}{}{Perche'?}
-{146}{}{Con il computer centrale disattivato, i sistemi del vault prima o poi si spegneranno. Senza cibo ne' acqua, i Deathclaw saranno costretti ad assaltare gli umani per i loro bisogni. Prima o poi li scopriranno e la loro minaccia potra' essere affrontata.}
+{146}{}{Con il computer centrale disattivato, i sistemi del Vault prima o poi si spegneranno. Senza cibo ne' acqua, i Deathclaw saranno costretti ad assaltare gli umani per i loro bisogni. Prima o poi li scopriranno e la loro minaccia potra' essere affrontata.}
 {147}{}{Altri stare qui. Loro bisognare cibo, acqua. Tu no interessare loro?}
 {148}{}{E gli altri che vivono qui? Non ti preoccupa la loro sorte?}
 {149}{}{Neanche un po'. Sono semplici vittime di guerra.}

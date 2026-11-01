@@ -1,15 +1,15 @@
 {100}{}{Vedi un tizio tiratissimo che vende kebab di lucertola.}
 {101}{}{E' il venditore di spiedini di lucertola.}
-{102}{}{Per essere un venditore di spiedini di lucertola, questo tizio ha stile. E' pulito, ben vestito e manda avanti un'impresa piccola, ma discretamente pulita.}
+{102}{}{Per essere un venditore di spiedini di lucertola, questo tizio ha stile. E' pulito, ben vestito e manda avanti una piccola attivita' quasi impeccabile.}
 {103}{}{Hai fame, straniera? Ho le migliori lucertole della zona. Chiedi a chi vuoi!}
 {104}{}{Cosa posso darti?}
 {105}{}{Dammi carne.}
-{106}{}{Ne prendero' uno.}
+{106}{}{Ne prendo uno.}
 {107}{}{Cosa puoi dirmi a proposito di questa citta'?}
 {108}{}{Arrivederci.}
 {109}{}{Ecco a te, straniera!}
 {110}{}{La' ci sono senape e cipolle.}
-{111}{}{Ehi, tipo.}
+{111}{}{Ehi, amico.}
 {112}{}{Certo, ciao.}
 {113}{}{Il prossimo!}
 {114}{}{Senti, ho un'unica regola. Non dico nulla a proposito di nessuno. E' una buona regola, perche' se tengo la bocca chiusa, mi tengo fuori dai guai. Capish?}

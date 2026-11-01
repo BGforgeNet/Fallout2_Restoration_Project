@@ -22,7 +22,7 @@
 {174}{}{Niente da dire. La mia famiglia gestisce il macello. I mandriani dalle zone vicine vengono qui a far macellare i propri brahmin. Dopo che questi sono stati abbattuti e trasformati in carne, vengono venduti ai mercanti che poi li rivendono ai commercianti di diverse citta'. Tutto molto noioso, secondo me.}
 {176}{}{Sei venuto nel posto giusto! Questa citta' e' cosi' noiosa... non c'e' nient'altro da fare che sparlare e... [Miria continua a parlare per diverso tempo e solo dopo qualche minuto riesci a dire una parola.]}
 {177}{}{Cos'altro vuoi sapere?}
-{178}{}{Cosa sai dell’orologio scomparso di Cornelius?}
+{178}{}{Cosa sai dell'orologio scomparso di Cornelius?}
 {179}{}{Hai detto qualcosa a proposito di Rose?}
 {180}{}{Cosa mi sai dire dei brahmin mutanti?}
 {181}{}{Parlami di Davin.}
@@ -31,20 +31,20 @@
 {184}{}{Raccontami altri pettegolezzi.}
 {186}{}{E' davvero incredibile, ma ho sentito alcuni allevatori dire che ogni tanto un brahmin da' alla luce un vitello con una testa sola. Alla faccia dello strano!}
 {189}{}{E' un membro della mia famiglia; io non sparlo dei miei familiari.}
-{192}{}{Chi, io? Faccio dei lavoretti qua e la'. Sicuramente nulla di cui valga la pena parlare. [Sbatte gli occhi mentre ti guarda.]}
+{192}{}{Chi, io? Faccio dei lavoretti qua e la'. Sicuramente nulla di cui valga la pena parlare. [Sbatte le ciglia guardandoti.]}
 {193}{}{Mi piacerebbe molto sapere qualcosa di piu' su di te.}
 {194}{}{Hai ragione: basta parlare. Diamoci dentro! So che lo vuoi.}
 {196}{}{Sono davvero toccata. Nessuno cerca mai di conoscermi meglio. Tutto quel che vogliono e' sesso, sesso, sesso! Mi sono stufata di fare sempre del sesso selvaggio. Sono felice che tu non sia come gli altri.}
 {197}{}{Sgualdrina! Per un attimo credevo che tu fossi speciale.}
 {198}{}{Sai, sono solo un ragazzo normale, come tutti gli altri. Beh, i miei amici dicono, "}
-{199}{}{ , tu sei un grande proprio perche' sei normale come chiunque altro". Gia', sono proprio normale.}
+{199}{}{, tu sei un grande proprio perche' sei normale come chiunque altro". Gia', sono proprio normale.}
 {200}{}{Beh, non avevo mai incontrato nessuna interessante come te, prima d'ora.}
 {202}{}{Voglio cosa? Che cosa stai insinuando?}
 {203}{}{Credo che tu sappia di cosa sto parlando, baby. Sai che e' questo quello che vuoi. [Sorridi e cominci a spogliarti.]}
 {204}{}{Dimentica quello che ho detto; scusami. Non volevo insinuare nulla.}
 {205}{}{Come osi darmi della sgualdrina?! Senti un po', io sono molto schizzinosa per quanto riguarda le persone con le quali vado a letto. Sai, sono andata a letto solo con 10 o 20 persone questo mese! Credo che questa conversazione sia finita!}
 {206}{}{Che peccato. Sei proprio come tutti gli altri, vero?}
-{208}{}{No. Non credo. Sono stufa di questa conversazione. Addio.}
+{208}{}{No. Non credo. Sono stufa di questa conversazione. Arrivederci.}
 {209}{}{[Arrossisce] Basta, mi stai mettendo in imbarazzo. Sei davvero dolcissimo. Perche' non vieni qui e ti siedi accanto a me?}
 {210}{}{Credo che ci stiamo spingendo troppo in la'. Non possiamo semplicemente parlare?}
 {211}{}{Credevo che non me l'avresti mai chiesto. Perche' non ci mettiamo un po' piu' comodi?}
@@ -63,14 +63,14 @@
 {280}{}{Aiuto! Portala via!}
 {400}{}{Papa'!}
 {401}{}{Uh oh!}
-{402}{}{Assolutamente si'!}
+{402}{}{Certo che lo voglio!}
 {410}{}{Uhh...}
 {411}{}{Uhhh... Continua, per favore...}
 {412}{}{Per tutti i diavoli, certo che...}
-{413}{}{Um... lo giuro.}
+{413}{}{Um... lo voglio.}
 {420}{}{Zio Biff!}
-{450}{}{Uhhh, credo che dovresti parlare anche con papa'.}
-{470}{}{Uhhh, credo che dovresti parlare anche con zio Biff.}
+{450}{}{Uhhh, credo che dovresti parlarne con papa'.}
+{470}{}{Uhhh, credo che dovresti parlarne con zio Biff.}
 {500}{}{Ottimo, immagino che adesso saro' io a dovermi occupare di questo letamaio.}
 {1000}{}{Cosa facciamo adesso, baby?}
 {1001}{}{Cosa facciamo adesso, tesoro?}
@@ -84,10 +84,10 @@
 {1009}{}{Okay, tesorino, ma dobbiamo proprio fermarci all'armatura?}
 {1010}{}{Le armi affilate come i coltelli mi eccitano, ma posso usare anche mitragliette, in caso d'emergenza. Solo non aspettarti che riesca a colpire qualcosa.}
 {1020}{}{Dobbiamo discutere della distanza tra noi due.}
-{1100}{}{Sono completamente sana e pronta a partire.}
+{1100}{}{Sono completamente guarito e pronto a partire.}
 {1200}{}{Non mi rimangono che pochi graffi.}
 {1300}{}{Beh, sono quasi a posto -- ma delle cure aggiuntive non mi farebbero male.}
-{1400}{}{Mi sono curata meglio che potevo, ma sono ancora messa piuttosto male.}
+{1400}{}{Mi sono curato meglio che potevo, ma sono ancora messo piuttosto male.}
 {1500}{}{No, baby; voglio venire con te.}
 {1600}{}{Certo, la metto via.}
 {1700}{}{}

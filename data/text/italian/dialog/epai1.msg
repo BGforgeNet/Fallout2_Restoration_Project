@@ -1,7 +1,7 @@
 {100}{}{Vedi un volantino.}
 {101}{}{}
 {102}{}{Questo e' un opuscolo introduttivo distribuito all'inizio delle visite guidate.}
-{200}{}{Benvenuto all'EPA! Durante la visita della nostra struttura, non allarmarti alla vista di persone traslucide
+{200}{}{Benvenuti all'EPA! Durante la visita della nostra struttura, non allarmarti alla vista di persone traslucide
  che vagano per i corridoi. Non sono fantasmi -- sono il nostro amichevole nuovo personale di ologrammi! Considerali come programmi informatici
  a cui e' stata data forma umana grazie alla magia e alle meraviglie della scienza! Saranno felici di rispondere a qualsiasi domanda tu possa avere,
  quindi non esitare ad avvicinarti. ATTENZIONE! Gli ologrammi esistono grazie a un cristallo sospeso con proprieta' antigravitazionali.

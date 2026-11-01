@@ -14,7 +14,7 @@
 {113}{}{Per favore, lasciami in pace, o chiamero' le guardie.}
 {114}{}{Cosa vuoi?}
 {115}{}{Tutto a posto? Sembri sconvolta.}
-{116}{}{Niente. Scusa se ti ho disturbata.}
+{116}{}{Niente. Scusa se ti ho disturbato.}
 {117}{}{Io... beh, io... si tratta di Joshua, mio marito. Lui... si e' cacciato in qualche guaio... giu' al bar. Ha colpito per sbaglio un Cittadino ed e' stato arrestato. Non voleva farlo, ma aveva bevuto, e...}
 {118}{}{Arrestato? Adesso dove si trova?}
 {119}{}{Se era ubriaco ed ha aggredito qualcuno, e' giusto che sia stato arrestato.}
@@ -32,7 +32,7 @@
 {131}{}{Lascia che veda cosa posso fare, okay? Magari posso provare a parlare con qualcuno del Centro di Collocamento.}
 {132}{}{Potrei anche aiutarvi. Ma vi costera'.}
 {133}{}{Mi dispiace. Spero lo lascino andare.}
-{134}{}{Non voglio che mio figlio cresca come uno Schiavo! Siamo venuti a Vault City perche' avevamo sentito che era una citta' libera... ma quando siamo arrivati qui... tutte queste leggi, e i pagamenti alle guardie e... niente di quello che ci avevano detto era vero.}
+{134}{}{Non voglio che mio figlio cresca come uno schiavo! Siamo venuti a Vault City perche' avevamo sentito che era una citta' libera... ma quando siamo arrivati qui... tutte queste leggi, e i pagamenti alle guardie e... niente di quello che ci avevano detto era vero.}
 {135}{}{Lascia che veda cosa posso fare, okay? Magari posso provare a parlare con qualcuno del Centro di Collocamento.}
 {136}{}{Mi dispiace. Spero lo lascino andare.}
 {137}{}{L'incaricato si chiama Barkus, Ufficiale Barkus. Non posso nemmeno entrare in citta' per incontrarlo. Non so nemmeno se Joshua sta bene! Io...}
@@ -40,11 +40,11 @@
 {139}{}{Ma non ho molti soldi e...}
 {140}{}{Non stavo pensando ai soldi.}
 {141}{}{Come non detto. Magari posso provare a parlare con qualcuno del Centro di Collocamento.}
-{142}{}{Mi dispiace per voi, allora. Forse lo lasceranno andare. Addio.}
+{142}{}{Mi dispiace per voi, allora. Forse lo lasceranno andare. Arrivederci.}
 {143}{}{Cosa intendi di...? Oh, no. Io... non potrei mai. Cioe', io...}
 {144}{}{Vuoi che tuo marito venga liberato o no? Lui non lo verra' mai a sapere.}
 {145}{}{Come non detto. Magari posso provare a parlare con qualcuno del Centro di Collocamento.}
-{146}{}{Mi dispiace, allora. Sembra proprio che tuo marito non sara' mai libero. Addio.}
+{146}{}{Mi dispiace, allora. Sembra proprio che tuo marito non sara' mai libero. Arrivederci.}
 {147}{}{Se prometti di liberare mio marito, io... io... d'accordo. Chiudo la tenda. Credo che mio figlio stia ancora giocando qua fuori, percio' non verremo disturbati.}
 {148}{}{Non preoccuparti, liberero' tuo marito. Dopo che avro' ricevuto il mio pagamento.}
 {149}{}{Lasciamo perdere. Magari posso provare a parlare con qualcuno del Centro di Collocamento.}

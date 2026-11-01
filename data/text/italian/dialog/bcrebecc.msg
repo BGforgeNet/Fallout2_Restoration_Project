@@ -16,7 +16,7 @@
 {115}{}{No, me va.}
 {116}{}{D'accordo, andiamo.}
 {117}{}{Perche' non vuoi che qualcuno ci senta?}
-{118}{}{No grazie, non voglio essere coinvolto.}
+{118}{}{No grazie, non voglio immischiarmi.}
 {119}{}{(sussurrando) Forse penserai che io sia pazza, ma ho la sensazione di essere osservata in ogni momento. E' abbastanza preoccupante e mi rende un po' nervosa.}
 {120}{}{Okay, noi andare privato.}
 {121}{}{No tempo per malati in testa.}
@@ -30,7 +30,7 @@
 {129}{}{Okay. Allora: cosa volevi dirmi di cosi' importante?}
 {130}{}{Prima vorrei farti delle domande.}
 {131}{}{Ho una figlia di nome Chrissy. La si potrebbe definire un "maschiaccio". Le piace andare in giro, esplorare e ficcare il naso un po' dappertutto. Ma Chrissy e' comunque una brava ragazza. Non combina guai, torna sempre a casa in orario e si e' dimostrata una signorina molto responsabile. Le lascio fare quasi sempre quello che vuole. La settimana scorsa Chrissy non e' tornata a casa. Ho chiesto in giro, ma nessuno sembra averla vista ne' sentita. Ho provato a cercarla da sola, ma Zeke - lui e' una sorta di... sindaco - mi ha fermato. Ha detto che non era sicuro per me andare a cercarla da sola e che avrebbe mandato alcuni dei suoi uomini. Ma nemmeno loro sono riusciti a trovarla e mi hanno detto che forse e' stata catturata dagli schiavisti.}
-{132}{}{No, non vuole me coinvolto.}
+{132}{}{No, me non vuole guai.}
 {133}{}{Bisogna che pensa prima decidere.}
 {134}{}{Ok, me sembra eroe da qualche giorno.}
 {135}{}{Scusa, non mi interessa.}
@@ -47,15 +47,15 @@
 {146}{}{Cosa succede da queste parti?}
 {147}{}{Chi e' che comanda qui?}
 {148}{}{Sto cercando il Vault 13. Ne sai qualcosa?}
-{149}{}{Parlami del vault.}
+{149}{}{Parlami del Vault.}
 {150}{}{Allora... parlami di Darion.}
 {151}{}{Grazie, Rebecca. Adesso parliamo del tuo problema.}
-{152}{}{Noi chiamiamo questo posto 'Squat' perche' e abitato dai senzatetto di molte citta'. Non e' molto, ma e' tutto cio' che abbiamo. A ovest c'e' una citta' chiamata NCR. Il governo di quella citta' e' a conoscenza della nostra situazione ormai da diverso tempo, ma non ci ha mai fornito alcun tipo di aiuto o assistenza. Ultimamente hanno cominciato a rivendicare questa zona come la loro antica dimora e la rivogliono indietro.}
+{152}{}{Noi chiamiamo questo posto 'Squat' perche' e' abitato dai senzatetto di molte citta'. Non e' molto, ma e' tutto cio' che abbiamo. A ovest c'e' una citta' chiamata NCR. Il governo di quella citta' e' a conoscenza della nostra situazione ormai da diverso tempo, ma non ci ha mai ne' aiutato ne' ostacolato. Ultimamente hanno cominciato a rivendicare questa zona come la loro antica dimora e la rivogliono indietro.}
 {153}{}{Okay.}
 {154}{}{Cosa qui loro volere?}
 {155}{}{Capisco.}
 {156}{}{Cosa c'e' qui che desiderano cosi' tanto?}
-{157}{}{Beh... qui c'e' un vault; credo sia il numero 15. Vogliono ripulirlo di tutte le antiche tecnologie che possono ancora trovarsi la' dentro.}
+{157}{}{Beh... qui c'e' un Vault; credo sia il numero 15. Vogliono ripulirlo di tutte le antiche tecnologie che possono ancora trovarsi la' dentro.}
 {158}{}{Ah. Me capisce.}
 {159}{}{Sapevo che qui ci doveva essere qualcosa, oltre a questo gruppo di straccioni.}
 {160}{}{Capito.}
@@ -63,13 +63,13 @@
 {162}{}{Si tratta di Zeke. E' lui a capo di tutto, qui. Puoi trovarlo nell'edificio laggiu'. ::indica nord-est::}
 {163}{}{Grazie. Chiede ancora.}
 {164}{}{Grazie. Devo farti delle altre domande.}
-{165}{}{Mi spiace, non ne ho idea. Forse a NCR sanno qualcosa. Laggiu' hanno un grande interesse per i vault, ultimamente.}
+{165}{}{Mi spiace, non ne ho idea. Forse a NCR sanno qualcosa. Laggiu' hanno un grande interesse per i Vault, ultimamente.}
 {166}{}{Okay, me fa.}
 {167}{}{Andro' la', allora.}
-{168}{}{Beh... non dovremmo parlarne, ma dato che mi serve il tuo aiuto... in questo momento Darion sta riparando il vault. E' il nostro benefattore. Quando il vault sara' completamente funzionante, noi tutti potremo spostarci al suo interno dove saremo al sicuro da predoni, schiavisti e gente simile. Per adesso ha riparato solamente i sistemi di erogazione di cibo e acqua, ma ci siamo quasi.}
+{168}{}{Beh... non dovremmo parlarne, ma dato che mi serve il tuo aiuto... in questo momento Darion sta riparando il Vault. E' il nostro benefattore. Quando il Vault sara' completamente funzionante, noi tutti potremo spostarci al suo interno dove saremo al sicuro da predoni, schiavisti e gente simile. Per adesso ha riparato solamente i sistemi di erogazione di cibo e acqua.}
 {169}{}{Me vede. Bisogna sapere di piu'.}
 {170}{}{Devo saperne di piu'.}
-{171}{}{Non c'e' molto da dire, davvero. Darion non si fa mai vedere e non lascia mai il vault. Se ha qualcosa da dire, lo dice per bocca di Zeke. Io l'ho incontrato solo una volta e mi e' sembrato un tipo a posto.}
+{171}{}{Non c'e' molto da dire, davvero. Darion non si fa mai vedere e non lascia mai il Vault. Se ha qualcosa da dire, lo dice per bocca di Zeke. Io l'ho incontrato solo una volta e mi e' sembrato un tipo a posto.}
 {172}{}{Okay.}
 {173}{}{I bravi ragazzi arrivano sempre ultimi. Mi chiedo cosa stia tramando.}
 {174}{}{Capisco.}
@@ -78,7 +78,7 @@
 {177}{}{E' piu' che sufficiente. Ti aiutero'.}
 {178}{}{Dovrai farmi un'offerta migliore, se vuoi il mio aiuto.}
 {179}{}{Crepi l'avarizia: ti aiutero'.}
-{180}{}{Grazie mille. Non saro' mai in grado di ripagarti per questo. Ti aspettero' qui finche' non mi avrai riportato... Ehi, c'era qualcuno la' fuori che ci stava ascoltando! Ho visto la sua ombra sulla parete della tenda. E' appena andato da quella parte! :: indica nord-est:: Deve aver sentito tutto!}
+{180}{}{Grazie mille. Non saro' mai in grado di ripagarti per questo. Ti aspettero' qui finche' non mi avrai riportato... Ehi, c'era qualcuno la' fuori che ci stava ascoltando! Ho visto la sua ombra sulla parete della tenda. E' appena andato da quella parte! ::indica nord-est:: Deve aver sentito tutto!}
 {181}{}{Me ferma, no andare via!}
 {182}{}{Tu no preoccupare, me trova ragazza.}
 {183}{}{Ooops.}
@@ -110,4 +110,4 @@
  quando ho parlato con Zeke a proposito di Chrissy. Ho bisogno che qualcuno mi aiuti a trovare mia figlia,
  mi aiuterai? Ti prego.}
 {208}{}{Continuano a mandare gente nel tentativo di scacciarci con le buone dalla nostra casa, ma non riescono a capire che non abbiamo un altro posto dove andare. Se ce ne andassimo da qui non saremmo in grado di sopravvivere.}
-{209}{}{Sai, una cosa mi lascia perplessa: sono riusciti a riparare alcune cose, ma non le luci. Quel dannato posto e' illuminato esclusivamente da torce. Ad ogni modo, Darion non vuole che qualcuno sappia cosa sta succedendo nel vault. Teme che qualcuno potrebbe portarcelo via, se lo scoprissero. Per questo motivo ci ha detto di mandare via chiunque si faccia vivo - soprattutto se proveniente da NCR.}
+{209}{}{Sai, una cosa mi lascia perplessa: sono riusciti a riparare alcune cose, ma non le luci. Quel dannato posto e' illuminato esclusivamente da torce. Ad ogni modo, Darion non vuole che qualcuno sappia cosa sta succedendo nel Vault. Teme che qualcuno ce lo porti via, se venisse a saperlo. Per questo motivo ci ha detto di mandare via chiunque si faccia vivo - soprattutto se proveniente da NCR.}

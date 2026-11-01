@@ -5,7 +5,7 @@
 {104}{}{Tu non dovresti trovarti qui, vero?}
 {105}{}{Guardate! Carne da Cerchione!}
 {106}{}{Ehi! Chi ha fatto entrare della Carne da Cerchione?}
-{107}{}{Non dovresti andare in giro senza un scorta.}
+{107}{}{Non dovresti andare in giro senza una scorta.}
 {108}{}{Ahh! Mi stai scombussolando i neuronodi!}
 {109}{}{Vattene, infedele!}
 {110}{}{Non parlare con me - sono una persona occupata.}
@@ -14,7 +14,7 @@
 {113}{}{Il Padre Stellare ti amera', se glielo permetti.}
 {114}{}{Non vuoi vedere Quetzel? Unisciti a noi!}
 {115}{}{Va' a parlare con AHS-7 e unisciti a noi!}
-{116}{}{Tra gli Hubologisti ci sono anche delle celebrita', sai?.}
+{116}{}{Tra gli Hubologisti ci sono anche delle celebrita', sai?}
 {117}{}{Juan Cruz e Vikki Goldman sono famosi! E' per questo che sono entrato.}
 {118}{}{Scommetto che le celebrita' parleranno con te, se sei simpatica e disinvolta.}
 {119}{}{Amo l'Hub.}
@@ -29,7 +29,7 @@
 {128}{}{Per favore, non disallineare i miei neuronodi.}
 {138}{}{Oh no! La persecutrice!}
 {139}{}{La non illuminata!}
-{140}{}{Stammi lontana, carne maligna!}
+{140}{}{Stammi lontano, carne maligna!}
 {141}{}{E' chiaro: hai dei neuronodi negativi!}
 {142}{}{No! Non inquinarmi con il tuo odio!}
 {143}{}{Guardie! Guardie! La barbara e' qui!}
@@ -65,4 +65,4 @@
 {185}{}{Quand'e' che partiamo?}
 {186}{}{Scommetto che gli AHS piu' alti non sono cosi' nervosi.}
 {187}{}{Wow... le stelle. Finalmente.}
-{188}{}{Non dovro' piu indossare un cappello di stagnola!}
+{188}{}{Non dovro' piu' indossare un cappello di stagnola!}

@@ -8,14 +8,14 @@
 {155}{}{Vedi un tossico dall'aspetto squallido. Ogni volta che si muove, sussulta, come se l'avessero punto degli spilloni.}
 {156}{}{Vedi un tossico dall'aspetto squallido. Ci sono borse sotto i suoi occhi e un'espressione di dolore sul suo volto.}
 {160}{}{Vedi un tossico. Ha un'espressione beata sul volto.}
-{161}{}{Vedi un tossico. Sta sorridendo leggermente e si muove seguendo un ritmo inudibile.}
+{161}{}{Vedi un tossico. Sta sorridendo leggermente e si muove seguendo un ritmo che sente solo lui.}
 {162}{}{Vedi un tossico. Ha lo sguardo perso nel vuoto.}
 {163}{}{Vedi un tossico. Sorride e saluta qualcosa dietro il tuo orecchio.}
 {164}{}{Vedi un tossico. Continua a toccarsi la faccia e borbotta tra se' e se'.}
 {165}{}{Vedi un tossico. A dispetto delle borse sotto i suoi occhi, sta sorridendo come se avesse appena vinto alla lotteria.}
 {170}{}{Vedi una squallida tossica. Si sta muovendo molto lentamente.}
 {171}{}{Vedi una squallida tossica. Ha l'aspetto di una che non mangia da mesi.}
-{172}{}{Vedi una squallida tossica. E' cosi magra che sembra potersi spezzare in caso di forte vento.}
+{172}{}{Vedi una squallida tossica. E' cosi' magra che sembra potersi spezzare in caso di forte vento.}
 {173}{}{Vedi una squallida tossica. I suoi occhi sono come lampadine spente.}
 {174}{}{Vedi una squallida tossica. Ti guarda affamata.}
 {175}{}{Vedi una squallida tossica con gli occhi iniettati di sangue.}
@@ -23,23 +23,23 @@
 {177}{}{Vedi una squallida tossica. Ci sono borse sotto i suoi occhi e un'espressione di dolore sul suo volto.}
 {180}{}{Vedi una tossica. Ha un'espressione beata sul volto.}
 {181}{}{Vedi una tossica. Sta piangendo e sorridendo allo stesso tempo.}
-{182}{}{Vedi una tossica. Sta sorridendo e sta ballando una canzone inudibile.}
+{182}{}{Vedi una tossica. Sta sorridendo e balla al ritmo di una canzone che sente solo lei.}
 {183}{}{Vedi una tossica. Ha lo sguardo perso nel vuoto e sospira.}
 {184}{}{Vedi una tossica. Sorride e saluta qualcosa dietro il tuo orecchio.}
 {185}{}{Vedi una tossica. Continua a grattarsi il dorso delle mani.}
 {186}{}{Vedi una tossica. Barcolla e ondeggia e riesce a malapena a stare in piedi.}
 {187}{}{Vedi una tossica. Malgrado il suo aspetto pietoso, sta sorridendo come se avesse appena vinto alla lotteria.}
-{200}{}{::Applaude, poi sussulta::}
-{201}{}{::Applaude debolmente, sussultando ad ogni applauso::}
+{200}{}{::Esulta, poi fa una smorfia::}
+{201}{}{::Applaude debolmente, con una smorfia a ogni battito di mani::}
 {202}{}{::Fischia debolmente::}
 {210}{}{Tu sei il miglior...uh, qualcosa. Tu sei il miglior QUALCOSA!}
 {211}{}{::Ulula::}
 {212}{}{, sei meglio del JET!}
-{213}{}{::Applaude in maniera furibonda::}
-{214}{}{::Applaude in maniera furibonda::}
+{213}{}{::Esulta come un pazzo::}
+{214}{}{::Applaude come un pazzo::}
 {215}{}{::Fischia::}
 {220}{}{La mia testa...}
-{221}{}{Brucia e distruggi...Brucia e distruggi...}
+{221}{}{Schianto e fiamme... schianto e fiamme...}
 {222}{}{Fa piu' male dell'ultima volta...}
 {223}{}{[Canta.] And I think it's gonna be a long, long time...}
 {224}{}{::Ooooooh::}
@@ -54,7 +54,7 @@
 {233}{}{Lo so che Fallout 2 non e' un gioco 3D, ma dovrebbe lo stesso supportare la mia nuovissima scheda 3DFX.}
 {240}{}{[Canta.] I...just want to fly. Put your arms around me, baby, put your arms around me, baby.}
 {241}{}{[Canta.] Rocketman, burning off the mmmmumble there alone...}
-{242}{}{Occhio! Rosa-DeathClaw a ore tre!}
+{242}{}{Occhio! Un Deathclaw rosa a ore tre!}
 {243}{}{Troppe luci! Mi bruciano gli occhi, mi bruciano gli occhi...}
 {244}{}{Le luci sono...troppo forti... ::Comincia a piangere::}
 {245}{}{Reeeeee-no. Reeeeee-no. Reno?}
@@ -66,20 +66,20 @@
 {251}{}{::Sorride e ondeggia leggermente::}
 {252}{}{Wheeeeeeee}
 {253}{}{Bella strada. Bello muro. Bello andato.}
-{254}{}{Whoa...ma dove va a finire il cielo...?}
+{254}{}{Whoa...dov'e' finito il cielo...?}
 {255}{}{Se i miei vestiti non la smettono di parlarmi, me li tolgo di dosso!}
 {256}{}{Le mie scarpe stanno respirando.}
 {257}{}{Lo so che Fallout 2 non e' un gioco 3D, ma dovrebbe lo stesso supportare la mia nuovissima scheda 3DFX.}
 {258}{}{Stai guardando me?! Stai guardando me?!! Ti ammazzero'!}
-{270}{}{Uh, vorrei applaudire la tua vittoria sull'Enclave, ma la mia testa mi rimbomba troppo. Torna di notte.}
-{271}{}{::Prova ad applaudire, ma continua a sbagliare::}
+{270}{}{Uh, vorrei applaudire la tua vittoria sull'Enclave, ma la testa mi rimbomba troppo. Torna di notte.}
+{271}{}{::Prova ad applaudire, ma le mani non si incontrano::}
 {272}{}{Cosi' si fa. Ero troppo fatto per vedere quello che hai fatto, ma sicuramente e' stato grandioso.}
 {273}{}{Uh...grazie per averci salvato. Avresti, ehm, qualche spicciolo da darmi?}
 {274}{}{Anch'io ho salvato il mondo, una volta. Credo. Forse ero fatto.}
 {275}{}{L'Enclave aveva del Jet?}
 {276}{}{Sei stato tu a causare quella grossa esplosione giu' a sud? Mi ha fatto male alla testa.}
 {277}{}{Lo so che hai salvato il mondo, ma siamo noi PNG minori che ne subiamo le conseguenze.}
-{278}{}{Chris Avellone mi ha programmato, Tom French ha creato il mio script, percio', tecnicamente, non sono responsabile della mia dipendenza da Jet.}
+{278}{}{Chris Avellone mi ha progettato, Tom French ha creato il mio script, percio', tecnicamente, non sono responsabile della mia dipendenza da Jet.}
 {279}{}{Certo, certo, e' davvero magnifico che tu abbia finito il gioco. Naturalmente, questo significa che presto cancellerai tutti noi dal tuo hard disk. Grazie mille.}
 {291}{}{Tu sei il miglior...uh, qualcosa. Tu sei il miglior QUALCOSA!}
 {292}{}{, sei meglio del JET!}
@@ -92,13 +92,13 @@
 {299}{}{Grazie per averci salvato. Ti bacerei, se solo non avessi l'alito da vomito.}
 {300}{}{Avrei potuto sconfiggere l'Enclave da solo se solo avessi preso abbastanza Jet.}
 {301}{}{[Canta.] "We don't need another hero, we don't need to know the way home..."}
-{302}{}{Chris Avellone mi ha programmato, Tom French ha creato il mio script, percio', tecnicamente, non sono responsabile della mia dipendenza da Jet.}
-{303}{}{Prendiamo insieme un po' di Jet per festeggiare la tua vittora. Offri tu.}
+{302}{}{Chris Avellone mi ha progettato, Tom French ha creato il mio script, percio', tecnicamente, non sono responsabile della mia dipendenza da Jet.}
+{303}{}{Prendiamo insieme un po' di Jet per festeggiare la tua vittoria. Offri tu.}
 {304}{}{Una volta che avrai cancellato questo gioco dal tuo hard disk, noi esisteremo ancora?}
 {305}{}{Uh...che tipo di droghe stavano sperimentando quelli dell'Enclave? C'era del Jet gratis?}
 {320}{}{Come fai ad andare in bagno con quella roba indosso?}
 {321}{}{Uh...stai parlando con me?}
-{322}{}{O cavoli, questi "trip" si fanno ogni giorno peggiori. Adesso mi parlano persino le persone metalliche.}
+{322}{}{Accidenti, questo delirium tremens peggiora di giorno in giorno. Adesso mi parlano persino le persone metalliche.}
 {323}{}{Qualcuno ti ha versato del metallo fuso addosso?}
 {324}{}{Ehi, ehm...hai del Jet li' dentro?}
 {325}{}{Hai degli spiccioli...? Uh, come non detto.}
@@ -113,7 +113,7 @@
 {355}{}{No, amico, ho chiuso con la droga. Uh...perche'? Vuoi comprare?}
 {360}{}{Sei tu il campione? Hai degli spiccioli da prestarmi?}
 {361}{}{Dai, dammi solo un po' di spiccioli.}
-{362}{}{Puoi prestarmi un po' di grana? Guarda, te li ridaro' indietro.}
+{362}{}{Puoi prestarmi un po' di grana? Dai, te li restituisco.}
 {363}{}{Ehi, uh...hai del Jet?}
 {364}{}{Amico, ho bisogno di *volare*... capisci quello che voglio dire?}
 {365}{}{Ho davvero bisogno di una medicina per mio figlio. Aiutami.}
@@ -123,7 +123,7 @@
 {369}{}{Mi puoi rivendere come schiava se mi dai un po' di Jet.}
 {370}{}{No, amico, ho chiuso con la droga. Uh...perche'? Vuoi comprare?}
 {371}{}{Sei un membro della famiglia }
-{372}{}{Mi puoi prestare un po' di soldi...? Dai, faro' il bravo.}
+{372}{}{Mi puoi prestare un po' di soldi...? Dai, te li ridaro', giuro.}
 {373}{}{Lavoro in cambio di Jet...}
 {380}{}{Ehi, fratello? Puoi aiutarmi a volare?}
 {381}{}{Faro' qualsiasi cosa tu voglia, per un po' di soldi. O per del Jet, se ce l'hai.}
@@ -135,7 +135,7 @@
 {387}{}{Puoi prestarmi un po' di grana...? Te li ridaro'.}
 {388}{}{Lavoro in cambio di Jet...}
 {389}{}{Forza, amico, dammi solo un paio di monete.}
-{390}{}{Puoi prestarmi un po' di grana? Guarda, te li ridaro' indietro.}
+{390}{}{Puoi prestarmi un po' di grana? Dai, te li restituisco.}
 {391}{}{Ehi, uh...hai del Jet, amico?}
 {392}{}{Ho davvero bisogno di una medicina per mio figlio. Aiutami.}
 {393}{}{Hai un po' di spiccioli da darmi?}
@@ -155,15 +155,15 @@
 {422}{}{Verro' a letto con te per un po' di Jet o per qualche soldo. Sono pulita, te lo giuro.}
 {423}{}{Costo meno delle puttane delle Famiglie. Ehm, non dire loro che adesco dei clienti, pero'.}
 {424}{}{Faro' qualsiasi cosa tu voglia, per un po' di soldi. O per del Jet, se ce l'hai.}
-{425}{}{Una volta ero la piu' bella ragazza di Reno. E me la cavo ancora...}
+{425}{}{Una volta ero la piu' bella ragazza di Reno. E sono ancora uno schianto...}
 {426}{}{Vuoi sballare con qualcuno, amico?}
 {427}{}{No, amico, ho chiuso con la droga. Uh...perche'? Vuoi comprare?}
 {428}{}{Papa'?}
 {429}{}{Psssst. Puoi passarmi un po' di Jet?}
 {430}{}{Puoi prestarmi un po' di grana...? Te li ridaro'.}
 {431}{}{Lavoro in cambio di Jet...}
-{432}{}{Puoi prestarmi un po' di grana? Guarda, te li ridaro' indietro.}
-{433}{}{Ehi, uh...hai del Jet, amico? ho bisogno di *volare*... capisci quello che voglio dire?}
+{432}{}{Puoi prestarmi un po' di grana? Dai, te li restituisco.}
+{433}{}{Ehi, uh...hai del Jet, amico? Ho bisogno di *volare*... capisci quello che voglio dire?}
 {434}{}{Ho davvero bisogno di una medicina per mio figlio. Aiutami.}
 {435}{}{Hai un po' di spiccioli da darmi?}
 {436}{}{Mi servono solo un po' di spiccioli per comprare del cibo...davvero...}
@@ -219,9 +219,9 @@
 {506}{}{Vuoi volare, gangster? Parla con Juuuuules.}
 {507}{}{Jimmy J ti fara' stare bene, capisci quello che intendo?}
 {508}{}{Se sei qui per i soldi di Renesco, digli che li avro' domani.}
-{509}{}{Il Jet di Jimmy J e' il MIGLIORE. Ti fa andare cosi' in alto, che non vorresti MAI tornare giu'.}
+{509}{}{Il Jet di Jimmy J e' il MIGLIORE. Uh, a meno che lui non ti stia antipatico.}
 {510}{}{Stai parlando con me? Stai parlando con me?!}
-{511}{}{Ce l'hai con me, strumento della mafia? Sono un concentrato di Jet! Ti spacco il CULO!}
+{511}{}{Ce l'hai con me, tirapiedi della mafia? Sono un concentrato di Jet! Ti spacco il CULO!}
 {512}{}{Vuoi vedertela con me, gangster?! Eh?}
 {513}{}{::Ti fissa con occhi annebbiati dalla droga::}
 {520}{}{Whoa...Che cosa TI sei fatto? Ne hai un po' da darmi?}
@@ -232,7 +232,7 @@
 {525}{}{Dove hai trovato quella roba che ti sei fatto?}
 {530}{}{Amico, non voltarti, ma c'e' un cervello in scatola che ti segue.}
 {531}{}{Whoa. Devo aver preso della roba tagliata davvero male... Vedo cervelli robot che vanno di qua e di la'.}
-{532}{}{Se rivedo di nuovo quel robot col cervello, la smetto con il Jet... per sempre.}
+{532}{}{Se rivedo quel robot col cervello, la smetto con il Jet... per sempre.}
 {533}{}{Una volta mi sono sentito come il tuo amico robot... digli che stara' di nuovo bene quando gli sara' passato lo sballo.}
 {534}{}{Cosa diavolo e' successo al tuo amico col cervello? Ha perso il corpo?}
 {535}{}{DIMMI che quel cervello-robot non e' reale. Ti prego.}
@@ -254,13 +254,13 @@
 {551}{}{::Ride:: Il tuo mutante ha una morsa che gli cresce sulla spalla.}
 {552}{}{Uh... quello e' un mutante, o sono io che sono fatto?}
 {553}{}{Il tuo grosso amico sembra davvero messo male.}
-{554}{}{Il tuo amico grosso ha un colorito verdognolo ed e' messo male. ::Ridacchia::}
+{554}{}{Il tuo amico grosso ha un colorito giallognolo ed e' messo male. ::Ridacchia::}
 {555}{}{Quel grosso tipo li' con te e' reale? Sembra proprio un mutante.}
 {556}{}{Vuoi volare con me? E che mi dici del tuo amico mutante?}
 {557}{}{Ce l'hai con me, amante dei mutanti? Sono un concentrato di Jet! Ti spacco il CULO!}
 {558}{}{Vuoi vedertela con me, amante dei mutanti?! Eh?}
-{560}{}{Amico, non voltarti, ma c'e' un selvaggio che ti segue.}
-{561}{}{Whoa. Guarda quel selvaggio. Che osso enorme.}
+{560}{}{Amico, non voltarti, ma c'e' un tribale che ti segue.}
+{561}{}{Whoa. Guarda quel tribale. Che osso enorme.}
 {562}{}{Whoa. Il tuo amico lo sa che gli sta spuntando un osso dal naso?}
 {563}{}{Whoa. Devo aver preso della roba tagliata davvero male... Ho appena visto un tipo con un osso che gli spuntava dal naso.}
 {564}{}{Sono fatto io, oppure il tuo amico ha un osso che gli spunta dal naso?}
@@ -283,6 +283,6 @@
 {602}{}{Sei un amico.}
 {603}{}{j}
 {604}{}{J}
-{605}{}{Dammi del J... ummm...}
+{605}{}{Dammi una J... ummm...}
 {796}{}{! SEI GRANDE!! E ADESSO, BABY, E ADESSO?!!!}
 {871}{}{ famiglia? Mi puoi passare un po' di Jet?}

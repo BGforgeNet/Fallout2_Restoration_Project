@@ -1,22 +1,22 @@
 {100}{}{Vedi un esemplare proveniente dai Serbatoi di Stoccaggio.}
 {101}{}{Vedi Kitsune.}
-{102}{}{I suoi occhi sono di colori diversi. Uno di loro marrone come malmbrick, l'altro verde brillante.}
+{102}{}{I suoi occhi sono di colori diversi. Uno e' marrone come un mattone, l'altro verde brillante.}
 {103}{}{Vedi una donna snella dai capelli scuri dall'aspetto imprevedibile.}
 {104}{}{Ha un viso delicato e occhi ammalianti.}
 {150}{}{Non e' carino fissare la gente.}
-{200}{}{Davanti a te c'e' un serbatoio aperto con acqua gelida che viene lentamente drenata attraverso un lungo tubo serpentino. Dentro, una
- donna, nuda dalla testa ai piedi, giace ansimante e tremante. Guardandoti rapidamente intorno, prendi un fascio di vestiti larghi
- da un armadietto vicino e li drapi su di lei per scaldarla.}
+{200}{}{Davanti a te c'e' un serbatoio aperto con acqua gelida che viene lentamente drenata attraverso un lungo tubo a serpentina. Dentro, una
+ donna, nuda dalla testa ai piedi, giace ansimante e tremante. Guardandoti rapidamente intorno, prendi un mucchio di vestiti
+ da un armadietto vicino e glieli stendi addosso per scaldarla.}
 {201}{}{Wow. Dev'essere stato un bel viaggio. Stai bene?}
 {202}{}{S-si', il p-p-preservatore h-ha r-ripristinato la t-t-temperatura d-del m-mio c-corpo.}
 {203}{}{Non tutta, a quanto pare. }
 {204}{}{[Le dai un po' di tempo perche' i denti smettano di battere. Si riprende molto piu' in fretta di quanto ti aspettassi
- e ti guarda con improvvisa seriosita'.] E'... finita?}
-{205}{}{Cosa e' finita? }
+ e ti guarda con improvvisa serieta'.] E'... finita?}
+{205}{}{Cos'e' finito? }
 {206}{}{Intendi la Guerra?}
 {207}{}{La Guerra. Tutte quelle bombe nucleari.}
 {208}{}{La Guerra, si'.}
-{209}{}{Quella guerra e' finita molto tempo fa. E' finita quasi appena e' iniziata.}
+{209}{}{Quella guerra e' finita molto tempo fa. E' finita praticamente appena iniziata.}
 {210}{}{[Si sposta ciocche di capelli bagnati dagli occhi. Noti che un occhio e' marrone mentre l'altro e' verde smeraldo.] Chi ha vinto?}
 {211}{}{Nessuno.}
 {212}{}{[Ti guarda con aria assente. E' molto piacevole alla vista, specialmente per qualcuno che e' stato appena scongelato da un blocco di ghiaccio.]}
@@ -26,17 +26,17 @@
 {215}{}{Cavolo, no. [Le mostri la data sul calendario del tuo Pip-Boy.]}
 {216}{}{[Fissa lo schermo tremolante, congelata nel tempo come se non avesse mai lasciato il serbatoio.]}
 {217}{}{Stai bene?}
-{218}{}{Dio mio. Non ci credo. Ero in quella cosa per oltre un secolo?!}
-{219}{}{Sembra di si'. Ehi, senti, non guardarmi cosi'. Non c'entro niente con il fatto di averti messa la' dentro. Accidenti,
- mio nonno non era nemmeno vivo a quei tempi. Mi sono imbattuto per caso in questo posto e ho deciso di darci un'occhiata.}
+{218}{}{Dio mio. Non ci credo. Sono rimasta in quella cosa per oltre un secolo?!}
+{219}{}{Sembra di si'. Ehi, senti, non guardarmi cosi'. Non c'entro niente se sei finita la' dentro. Accidenti,
+ mio nonno non era nemmeno vivo a quei tempi. Ho scoperto per caso dove si trovava questo posto e ho deciso di darci un'occhiata.}
 {220}{}{Be', mi aiuti ad alzarmi, o preferiresti che continuassi a stare nuda ai tuoi piedi?}
 {221}{}{Stavo per farlo. [La aiuti ad alzarsi in piedi.]}
 {222}{}{Perche' mi hai svegliato?}
 {223}{}{Nessun motivo particolare.}
-{224}{}{Ho questa terribile abitudine di toccare tutto quello che incontro. Una cosa ha portato all'altra.}
+{224}{}{Ho questa terribile abitudine di toccare tutto quello che incontro. Una cosa tira l'altra.}
 {225}{}{Dici che non lavori nemmeno in questo posto?}
 {226}{}{E' quello che ho detto.}
-{227}{}{Allora se non fossi arrivato, sarei rimasta bloccata in quella cosa ancora piu' a lungo. Forse per sempre.
+{227}{}{Allora, senza di te, sarei rimasta bloccata in quella cosa ancora piu' a lungo. Forse per sempre.
  (Si infila una delle magliette in cui l'avevi avvolta.) Com'e' adesso, il mondo la' fuori?
  Hai detto che il 90% e' stato distrutto?}
 {228}{}{Il mio mondo e' una landa desolata dove ogni giorno e' una lotta per la sopravvivenza. La maggior parte delle persone ha trovato rifugio nei resti in rovina di quelli vecchi.
@@ -50,12 +50,12 @@
 {235}{}{Kitsune, cosa ci facevi ibernata in quel serbatoio?}
 {236}{}{Non lo so con certezza. Sapevano che la Guerra stava per succedere, cosi' mi hanno messa in un preservatore come gli altri.}
 {237}{}{Hai la minima idea di cosa sia questo posto?}
-{238}{}{Per quello che so, e' una filiale dell'Agenzia per la Protezione Ambientale degli Stati Uniti. Ero in Arizona quando e'
+{238}{}{Per quello che so, e' una sede dell'Agenzia per la Protezione Ambientale degli Stati Uniti. Ero in Arizona quando e'
  scoppiata la Guerra. Sono stata portata qui immediatamente.}
 {239}{}{Dovevi essere piuttosto importante perche' volessero preservarti. Eri una Prescelta, come me?}
-{240}{}{Ehm, non esattamente. Ero una casalinga, sposata con un consigliere. Prima di allora scrivevo per diverse pubblicazioni giornalistiche. Non era quello che si definirebbe una vita terribilmente eccitante.}
+{240}{}{Ehm, non esattamente. Ero una casalinga, sposata con un consigliere. Prima di allora scrivevo per diverse pubblicazioni giornalistiche. Non era quella che definiresti una vita particolarmente emozionante.}
 {241}{}{Cosa gli e' successo, a tuo marito?}
-{242}{}{Non lo so. Probabilmente una delle miliardi di vittime. Dubito che qualcuno della mia famiglia sia sopravvissuto alla guerra. Dio mio, anche se cosi' fosse, e' passato cosi' tanto tempo... tutti quelli che ho mai conosciuto sono morti. [Si morde il labbro e i suoi occhi iniziano a luccicare di lacrime, ma le asciuga rapidamente e sospira, riprendendo il controllo di se'.]}
+{242}{}{Non lo so. Probabilmente e' tra i miliardi di vittime. Dubito che qualcuno della mia famiglia sia sopravvissuto alla guerra. Dio mio, anche se cosi' fosse, e' passato cosi' tanto tempo... tutti quelli che ho mai conosciuto sono morti. [Si morde il labbro e i suoi occhi iniziano a luccicare di lacrime, ma le asciuga rapidamente e sospira, riprendendo il controllo di se'.]}
 {245}{}{Be', visto che mi stai dando una scelta... (sorride maliziosamente)}
 {246}{}{[Ti fissa in silenzio con uno sguardo gelido.]}
 {247}{}{Oh, voglio dire, certo che ti aiuto ad alzarti. [La aiuti ad alzarsi in piedi.]}
@@ -68,7 +68,7 @@
 {260}{}{Sai, hai ragione. Potrei tornare ad essere congelata e dormirci su per altri cento anni, ma sarebbe la via facile.
  Ho bisogno di vedere con i miei occhi cosa e' diventato il mondo, e avere un ruolo nel rimetterlo insieme.}
 {261}{}{Dai allora. Andiamo a prendere prima di tutto una bistecca di brahmin.}
-{262}{}{Non farmi pentire di questo.}
+{262}{}{Non farmene pentire.}
 {270}{}{Lascia perdere. E' cosi' da oltre cento anni. Cosa ti fa pensare che lo sistemeremo adesso?}
 {271}{}{Tornero'. Forse cambierai idea.}
 {272}{}{Forse. Ma non contarci. Dovrei semplicemente tornare a dormire per un altro secolo o giu' di li'.}
@@ -81,34 +81,34 @@
  e questo e' tutto quello che hai?}
 {283}{}{Preferirei rischiare nella sospensione criogenica piuttosto che vagare per quella landa desolata.}
 {284}{}{Ah si'? Non sembri piu' cosi' sicura.}
-{285}{}{[Kitsune riflette sulle tue parole per un bel po'. Alla fine, incontra il tuo sguardo.] Non posso fingere che tu non abbia ragione. Forse... forse rischio con te.}
+{285}{}{[Kitsune riflette sulle tue parole per un bel po'. Alla fine, incontra il tuo sguardo.] Non posso fingere che tu non abbia ragione. Forse... forse tentero' la sorte con te.}
 {286}{}{Usciamo da qui, allora. E' ora di lasciarci questo buco alle spalle.}
-{287}{}{In realta', penso che me la cavero' da sola. Sono sempre stata il tipo indipendente, quindi non dovrebbe pesarmi. E' cambiato molto da quando sono via e vorrei vederlo con i miei occhi. Grazie per avermi scongelata. Prenditi cura di te.}
+{287}{}{In realta', penso che me la cavero' da sola. Sono sempre stata un tipo indipendente, quindi non dovrebbe pesarmi. E' cambiato molto da quando sono via e vorrei vederlo con i miei occhi. Grazie per avermi scongelata. Prenditi cura di te.}
 {288}{}{[Fatto]}
 {300}{}{Si'?}
-{301}{}{Sono tutto orecchi.}
+{301}{}{Sono tutta orecchi.}
 {302}{}{Volevi qualcosa?}
 {303}{}{Cosa c'e'? Sembri avere qualcosa da dire.}
-{304}{}{Cosa ti affligge?}
+{304}{}{Che c'e' che non va?}
 {305}{}{C'e' qualcosa che ti serve da me?}
-{310}{}{Kitsune, sono abbastanza sicuro che non saresti stata congelata in un serbatoio criogenico senza un buon motivo.
+{310}{}{Kitsune, scommetto che non saresti stata congelata in un serbatoio criogenico senza un buon motivo.
  Mi interessa sapere cosa facevi esattamente prima di essere messa in ghiaccio.}
 {311}{}{Perche' ti importa? E' passato.}
 {312}{}{Siamo in viaggio insieme. Voglio sapere di piu' su di te.}
-{313}{}{[Sospira.] Be', suppongo che non ci sia piu' bisogno di segreti. E' solo difficile rompere un'abitudine di tutta una vita. Vedi, sono praticamente nata spia.}
-{314}{}{Mio padre era cinese, ma lui e la sua famiglia non erano amici del governo cinese. Era nato a Pechino ma aveva ricevuto l'aspetto piu' importante della sua istruzione qui, negli Stati Uniti. Quando e' tornato a casa e ha trovato lavoro come funzionario pubblico, era gia' stato reclutato dagli americani come agente dei servizi segreti.}
+{313}{}{[Sospira.] Be', suppongo che non ci sia piu' bisogno di segreti. E' solo difficile perdere un'abitudine di tutta una vita. Vedi, sono praticamente nata spia.}
+{314}{}{Mio padre era cinese, ma lui e la sua famiglia non erano amici del governo cinese. Era nato a Pechino ma aveva ricevuto la parte piu' importante della sua istruzione qui, negli Stati Uniti. Quando e' tornato a casa e ha trovato lavoro come funzionario pubblico, era gia' stato reclutato dagli americani come agente dei servizi segreti.}
 {315}{}{Non conosco molto bene la politica del tuo tempo, ma credo di capire quello che stai dicendo: tuo padre era cinese, ma era segretamente una spia per gli americani. I cinesi lo hanno mai sospettato?}
 {316}{}{Mio padre ha lavorato al Ministero dell'Agricoltura per trentotto anni.}
 {317}{}{Ehm, bene, suppongo che sia un "no". Allora quando sei entrata in scena tu?}
-{318}{}{Be', un giorno, un assistente del funzionario per cui lavorava mio padre lo ha beccato a fare copie di documenti segreti.}
+{318}{}{Be', un giorno, un'assistente del funzionario per cui lavorava mio padre lo ha beccato a fare copie di documenti segreti.}
 {319}{}{Non poteva essere andata bene...}
 {320}{}{In realta', non e' andata cosi' male. Vedi, lei la pensava come mio padre, e nel giro di un paio di mesi si sono sposati.}
-{321}{}{Alcuni tipi hanno tutta la fortuna, eh?}
-{322}{}{Mi hanno avuta un anno dopo. Sono cresciuta in Cina sotto la facciata di una patriota. A scuola scrivevo di come la Cina fosse piu' forte quando unita, e di come dovessimo continuare a lottare verso l'uguaglianza sociale.
+{321}{}{C'e' chi nasce con la camicia, eh?}
+{322}{}{Mi hanno avuta un anno dopo. Sono cresciuta in Cina sotto la facciata di una patriota. A scuola scrivevo di come la Cina fosse piu' forte quando unita, e di come dovessimo continuare a lottare per l'uguaglianza sociale.
  Quando ero piu' grande scrivevo per giornali nazionalisti e partecipavo a dibattiti a sostegno del partito al potere.}
-{323}{}{Wow, la maggior parte di questo e' andata ben oltre la mia comprensione. Ma se capisco bene, stai dicendo che tu e i tuoi genitori avete ingannato i cinesi facendogli credere che foste leali.}
+{323}{}{Wow, per me quasi tutto questo e' arabo. Ma se capisco bene, stai dicendo che tu e i tuoi genitori avete ingannato i cinesi facendogli credere che foste leali.}
 {324}{}{I tuoi genitori si sono dati molto da fare per assicurarsi che le vere lealta' della vostra famiglia restassero segrete.}
-{325}{}{Ogni guerra e' basata sull'inganno. I miei genitori amavano il loro paese. Odiavano solo le persone che lo governavano e pensavano che sarebbe stato meglio come democrazia. Dal loro punto di vista, non stavano tradendo la Cina - stavano lavorando contro un governo che non credevano fosse buono per essa.}
+{325}{}{Ogni guerra e' basata sull'inganno. I miei genitori amavano il loro paese. Odiavano solo le persone che lo governavano e pensavano che sarebbe stato meglio come democrazia. Dal loro punto di vista, non stavano tradendo la Cina - stavano lavorando contro un governo che secondo loro non faceva il suo bene.}
 {326}{}{Continua.}
 {327}{}{Ho sposato un funzionario che lavorava per il Ministero della Difesa Nazionale cinese. L'ho scelto perche' era il piu' disposto a parlare del suo lavoro quando eravamo insieme. Cosi' ho recitato il ruolo della moglie devota, riferendo segretamente informazioni rilevanti ai miei superiori americani. Ma poi le cose si sono complicate.}
 {328}{}{In che senso?}
@@ -116,15 +116,15 @@
 {330}{}{Allora cosa e' successo?}
 {331}{}{E' risultato che Muldrake faceva parte di un progetto top secret in una struttura di ricerca della West Tek nella California meridionale. Il progetto era iniziato in modo abbastanza innocente, come tentativo di trovare un modo per rendere le persone immuni alla Nuova Peste, ma si e' rapidamente evoluto in qualcosa di piu' sinistro. Qualcosa chiamato Virus dell'Evoluzione Forzata, o FEV.}
 {332}{}{Continua.}
-{333}{}{Aveva il potenziale per migliorare notevolmente la forza e l'intelletto di una persona, ma il FEV era pericolosamente instabile. Nonostante cio', l'esercito sperava di usarlo per creare un esercito di super soldati che potesse schiacciare i cinesi.}
+{333}{}{Aveva il potenziale per migliorare notevolmente la forza e l'intelletto di una persona, ma il FEV era pericolosamente instabile. Nonostante cio', i militari speravano di usarlo per creare un esercito di supersoldati che potesse schiacciare i cinesi.}
 {334}{}{Il Dottor Muldrake era contrario al cambiamento di direzione del progetto, ma ha tenuto la bocca chiusa per paura per la sua vita. Ma quando ha scoperto che l'esercito stava testando il virus su piccole citta' americane ignare, ha capito che doveva agire. Il mondo aveva bisogno di conoscere la verita'.}
 {335}{}{Quindi e' allora che ha contattato tuo padre...}
-{336}{}{Giusto. Quando l'ho incontrato, mi ha dato un holodisc contenente documentazione classificata del progetto FEV. Questo mi ha messo in una posizione piuttosto difficile: potevo rendere pubblica le informazioni contenute nell'holodisc e tradire il paese a cui avevo giurato lealta', oppure potevo distruggere il disco e seppellire la brutta verita' alla gente.}
+{336}{}{Giusto. Quando l'ho incontrato, mi ha dato un olodisco contenente documentazione classificata del progetto FEV. Questo mi ha messo in una posizione piuttosto difficile: potevo rendere pubbliche le informazioni contenute nell'olodisco e tradire il paese a cui avevo giurato lealta', oppure potevo distruggere il disco e nascondere alla gente la brutta verita'.}
 {337}{}{Cazzo. Non dirmi che...}
-{338}{}{Ho inviato copie dell'holodisc a quasi tutte le principali testate giornalistiche del mondo. Ha praticamente distrutto qualunque simpatia il governo americano avesse ancora. Potrei aver rivelato la verita' al mondo, ma temo di aver anche messo in moto la sua distruzione... Le cose sono escalate rapidamente, e otto mesi dopo, le bombe sono state sganciate.}
+{338}{}{Ho inviato copie dell'olodisco a quasi tutte le principali testate giornalistiche del mondo. Ha praticamente distrutto qualunque simpatia il governo americano avesse ancora. Potrei aver rivelato la verita' al mondo, ma temo di aver anche messo in moto la sua distruzione... La situazione e' precipitata in fretta, e otto mesi dopo, le bombe sono state sganciate.}
 {339}{}{Come sei finita in quel serbatoio dove ti ho trovata?}
 {340}{}{Il governo americano stava dando la caccia alla persona responsabile della fuga di notizie. Mi hanno finalmente raggiunta appena prima della fine. Stavano gia' preparandosi a congelarmi quando le sirene hanno suonato per la prima volta. Probabilmente per preservarmi nel caso avessi altri segreti che non avevo detto loro.}
-{341}{}{Davvero?}
+{341}{}{E ne avevi?}
 {342}{}{Non ha importanza adesso. Sono tutti morti...}
 {345}{}{Hai la minima idea di cosa diavolo hai combinato?}
 {346}{}{Quello che *potrei* aver provocato. Il mondo si sarebbe fatto saltare in aria prima o poi, comunque. Era solo questione di tempo.}
@@ -134,19 +134,19 @@
 {351}{}{E' sempre piu' facile non accettare la responsabilita'.}
 {352}{}{Non potevi saperlo. Inoltre, c'erano altri conflitti tra le "potenze". Si sarebbero fatti saltare in aria prima o poi. Era solo questione di tempo.}
 {353}{}{Gli esseri umani sono le peggiori creature.}
-{354}{}{Non mi considero cosi' cattivo.}
+{354}{}{Io non mi reputo cosi' terribile.}
 {355}{}{La natura cerca di eliminarci da millenni. Tutte queste nuove malattie, disastri naturali. Eravamo una specie di errore evolutivo. Forse siamo apparsi troppo presto o non avremmo dovuto apparire affatto. Abbiamo fatto piu' danni a questo pianeta di qualsiasi altra cosa viva o morta.}
-{356}{}{Ma possiamo espiarlo. Questa e' la cosa speciale di noi.}
+{356}{}{Ma possiamo rimediare. E' questo che ci rende speciali.}
 {357}{}{Hai un modo davvero bello di dirlo. Grazie per avermi ascoltata. Mi sento quasi come se potessi andare avanti.}
-{360}{}{Senti, visto che eri una spia, sono sicuro che sei piuttosto abile nella furtivita' e cose del genere. C'e' qualcosa che puoi insegnarmi?}
-{361}{}{Si', ho avuto parecchia pratica con lo sgattaiolare, lo scassinare e il rubare. Ecco, lasciami mostrare alcune cose
+{360}{}{Senti, visto che eri una spia, scommetto che sei piuttosto abile nella furtivita' e cose del genere. C'e' qualcosa che puoi insegnarmi?}
+{361}{}{Si', ho parecchia pratica nel muovermi furtivamente, scassinare e rubare. Ecco, lascia che ti mostri alcune cose
  che non ti insegnano sui libri.}
 {362}{}{Ora hai capito. Ricorda, la pratica rende perfetti.}
 {363}{}{Ehi, grazie. Credo sia ora di andare.}
 {370}{}{A proposito dei tuoi occhi...}
-{371}{}{Cosa c'e' con loro?}
+{371}{}{Che cos'hanno?}
 {372}{}{Sono di colori diversi.}
-{373}{}{Qual e' il termine... eterocromi? E' quello che hai?}
+{373}{}{Qual e' il termine... eterocromia? E' quello che hai?}
 {374}{}{La mia non e' una condizione naturale. Quello di sinistra non era mio. Ho perso quello vecchio in un incidente.
  E non ho mai imparato ad apprezzarlo fino ad ora.}
 {375}{}{Che cosa vuoi dire?}
@@ -162,25 +162,25 @@
 {424}{}{Non allontanarti troppo.}
 {425}{}{Hai bisogno del tuo spazio, capito.}
 {426}{}{Separiamoci.}
-{427}{}{Va bene. Siamo bersagli piu' difficili separati.}
+{427}{}{Va bene. Separati siamo bersagli piu' difficili.}
 {430}{}{Non metterci troppo o me ne vado senza di te.}
-{431}{}{Giocher o a solitario o qualcosa del genere finche' non torni.}
+{431}{}{Faro' un solitario o qualcosa del genere finche' non torni.}
 {432}{}{Sono sicura che trovero' qualcosa da fare mentre sei via.}
 {440}{}{Quando hai bisogno di me.}
-{441}{}{Contenta che tu sia tornato. Ho fatto dei provini ma non ho trovato un buon sostituto per te.}
+{441}{}{Mi fa piacere riaverti qui. Ho fatto dei provini ma non ho trovato un buon sostituto per te.}
 {442}{}{Ti manca la mia compagnia?}
-{443}{}{Ti senti in colpa per essere andato via senza di me?}
+{443}{}{Ti senti in colpa per avermi lasciata indietro?}
 {444}{}{Stavo cominciando a pensare che non avessi intenzione di tornare.}
 {445}{}{Era ora. Nell'antica Cina, il ritardo ti avrebbe fatto impiccare, sventrare e squartare.}
 {446}{}{Ehi. Stavo proprio pensando a te.}
-{450}{}{Ti sei preso tutto il tempo del mondo a fare qualunque cosa facessi senza di me.}
+{450}{}{Te la sei presa comoda a fare qualunque cosa facessi senza di me.}
 {451}{}{E' bello essere di nuovo in viaggio.}
-{452}{}{Dove?}
+{452}{}{Dove andiamo?}
 {453}{}{Allora, dove siamo diretti?}
 {454}{}{Apri la strada, capitano.}
 {460}{}{Hai gia' abbastanza gente. Non hai bisogno di un seguito.}
-{461}{}{Forse quando hai liberato un po' di spazio. Non vado d'accordo con le folle.}
-{462}{}{Sei pronto a portarmi con te?}
+{461}{}{Forse quando avrai liberato un po' di spazio. Non vado d'accordo con le folle.}
+{462}{}{Allora, mi porti con te?}
 {463}{}{Andiamo.}
 {464}{}{No, non ancora.}
 {470}{}{Gesu', sembri la Morte con la falce. Dovresti farti controllare.}
@@ -188,8 +188,8 @@
 {490}{}{Non mi sono mai sentita meglio. Andiamo avanti.}
 {491}{}{Ho passato di peggio. Solo un paio di graffi.}
 {492}{}{Non sto cosi' male. Solo qualche ferita superficiale.}
-{493}{}{Non sto benissimo. Piu' sangue di quanto vorrei che mi uscisse addosso.}
-{494}{}{Ho bisogno di un medico o non saro' in grado di aiutarti in nessun cazzo di cosa.}
+{493}{}{Non sto benissimo. Mi esce piu' sangue di quanto vorrei.}
+{494}{}{Ho bisogno di un medico o non potro' esserti di nessun dannato aiuto.}
 {495}{}{Non ce la faccio piu'... lasciami indietro o portami da un dottore. In fretta.}
 {500}{}{Se insisti. Riesco ancora a staccare la testa a un uomo con le mani.}
 {1000}{}{Non riesco a credere di aver trascorso piu' di cento anni in questo posto.}
@@ -205,13 +205,13 @@
 {1100}{}{Quelli dentro stanno molto meglio di quelli fuori. Il mondo non e' cambiato poi cosi' tanto.}
 {1110}{}{Ma che razza di citta' mineraria e' questa?}
 {1120}{}{Non e' il tipo di posto in cui vorrei essere nata, niente di personale.}
-{1130}{}{Buon posto per nascondersi se la legge e' alle tue calcagna.}
+{1130}{}{Buon posto per nascondersi se hai la legge alle calcagna.}
 {1140}{}{Mi chiedo se ci siano altri bunker come questo in giro.}
 {1150}{}{La piu' grande piccola citta' del mondo. Ci scommetto.}
 {1160}{}{Non possono tenere solo bestiame qui...}
 {1170}{}{Morte ovunque...}
 {1171}{}{Non vorrei essere seppellita qui.}
-{1180}{}{Superiamo solo la natura e continuiamo ad evolverci, vero? }
+{1180}{}{Scavalchiamo la natura e continuiamo a evolverci, vero? }
 {1190}{}{Non vedevo edifici cosi' alti da quando il 101 venne raso al suolo.}
 {1200}{}{Di sicuro hanno blindato bene questo posto.}
 {1210}{}{Ho sentito parlare di questi posti...}
@@ -219,23 +219,23 @@
 {1230}{}{Ho sentito parlare di questi posti...}
 {1240}{}{L'unico posto sacro in queste lande maledette.}
 {1250}{}{Fa caldo qui fuori.}
-{1251}{}{Sto sudando freddo.}
+{1251}{}{Sto grondando di sudore.}
 {1252}{}{Ho la gola secca.}
 {1253}{}{Mi piacerebbe di piu' se questo fosse una spiaggia.}
 {1254}{}{Sulik, sai qualcosa sulle danze della pioggia?}
-{1260}{}{Questo e' lontano dalla civilta' quanto si puo' essere.}
+{1260}{}{Piu' lontano dalla civilta' di cosi' non si puo'.}
 {1270}{}{Dubito che quell'acqua sarebbe potabile anche se filtrassi tutto il sale.}
-{1271}{}{Qualsiasi pesce troviamo in queste acque e' destinato ad essere un mutante di qualche tipo.}
+{1271}{}{Qualsiasi pesce troviamo in queste acque sara' di sicuro un mutante di qualche tipo.}
 {1272}{}{Fa fresco qui fuori.}
 {1273}{}{Cento dollari a chiunque osi fare il bagno nudo in quelle acque.}
 {1280}{}{Non riesco a vedere un cazzo qui dentro.}
 {1281}{}{Questo posto puzza e se potessi vederlo meglio probabilmente sembrerebbe anche peggio.}
-{1282}{}{Attento. Probabilmente c'e' qualcosa di brutto e puzzolente rintanato qui.}
+{1282}{}{Occhio. Probabilmente c'e' qualcosa di brutto e puzzolente rintanato qui.}
 {1283}{}{Quelli che sento sono pipistrelli?}
 {1284}{}{Cosa faremo, speleologia?}
 {1285}{}{Meglio accendere una candela che maledire il buio.}
 {1290}{}{La guerra... ci ha fatto un gran bene.}
-{1291}{}{Polvere a polvere...}
+{1291}{}{Dalla polvere alla polvere...}
 {1292}{}{Vivevo in un posto proprio come questo...}
 {2001}{}{I miei occhi ti danno cosi' fastidio?}
 {2002}{}{Mi farebbe bene immergermi in una sorgente calda. Mi chiedo se ne esistano ancora.}
@@ -246,27 +246,27 @@
 {2007}{}{Stiamo vivendo un sogno, o siamo il sogno di qualcun altro?}
 {2008}{}{Odio quello che abbiamo fatto a noi stessi.}
 {2009}{}{Mi chiedo quanto ci vorra' per riprenderci dalla Guerra.}
-{2010}{}{Se il cielo ci ha creato, allora la terra trovera' qualche uso per noi.}
+{2010}{}{Se il cielo ci ha creati, allora la terra trovera' qualche uso per noi.}
 {2011}{}{Hai sete? Io di sicuro si'.}
 {2012}{}{*sbadiglio*}
 {2013}{}{L'uomo propone e Dio dispone.}
 {2020}{}{Ehi, Sulik. Cosa dicono gli spiriti?}
-{2030}{}{Ti interessa dimagrire, Vic? Chiedimi in qualsiasi momento lezioni di taebo.}
-{2040}{}{Tua moglie parla troppo dannatamente di se stessa.}
-{2041}{}{Di' a tua moglie campagnola di smetterla di provarci con me.}
-{2050}{}{Il mio petto e i tuoi occhi non hanno niente a che fare insieme, Myron.}
+{2030}{}{Ti interessa dimagrire, Vic? Quando vuoi ti do lezioni di tae-bo.}
+{2040}{}{Tua moglie parla troppo di se stessa, dannazione.}
+{2041}{}{Di' a quella bifolca di tua moglie di smetterla di provarci con me.}
+{2050}{}{Il mio petto e i tuoi occhi non hanno niente da spartire, Myron.}
 {2051}{}{Che ne dici di stare zitto per due minuti, Myron? Ti ucciderebbe?}
 {2052}{}{No, Myron. Non andrei a letto con te nemmeno se mi costruissi una macchina del tempo.}
 {2053}{}{Ascolta, Myron. Se non tieni le mani a posto, ti faccio diventare un eunuco.}
 {2060}{}{Ehi, Marcus. Che ne dici di una sfida a braccio di ferro?}
-{2070}{}{Abbiamo gia' abbastanza cani che ci seguono in giro. Non ne abbiamo bisogno di un altro.}
+{2070}{}{Abbiamo gia' abbastanza cani che ci seguono in giro. Non ce ne serve un altro.}
 {2100}{}{Ugh, mi sento uno schifo.}
 {2101}{}{Credo di essere stata avvelenata...}
 {2110}{}{Qualcosa in me non va...}
 {2111}{}{Mi sento strana...}
 {2112}{}{La mia mano. Sta brillando.}
-{2113}{}{Sono una volpe, non un serpente... Perche' mi si pela la pelle?}
-{2114}{}{Questo bruciore interno... Cosa mi sta succedendo?}
+{2113}{}{Sono una volpe, non un serpente... Perche' mi sto spellando?}
+{2114}{}{Questo bruciore dentro di me... Cosa mi sta succedendo?}
 {2120}{}{Ho una frattura, credo. Devo farmela controllare.}
 {2121}{}{Sembra che mi sia rotta qualcosa...}
 {2130}{}{Riesco a malapena a vedere, cazzo.}
@@ -278,10 +278,10 @@
 {3003}{}{Grazie. Ne avevo bisogno.}
 {3004}{}{Ne hai abbastanza per te?}
 {3010}{}{Roba forte. Meno male che reggo l'alcol.}
-{3011}{}{Non so perche' stia bevendo questo. Sa di scioglicanali.}
+{3011}{}{Non so perche' sto bevendo questa roba. Sa di scioglicanali.}
 {3012}{}{Non mi e' mai piaciuto molto l'alcol. Ma stordisce il dolore.}
 {3013}{}{Hai qualcos'altro da bere?}
-{3014}{}{Speriamo che non mi svegli in una pozza del mio stesso vomito.}
+{3014}{}{Speriamo di non svegliarmi in una pozza del mio stesso vomito.}
 {3015}{}{Addio ai miei piani di restare sobria oggi.}
 {3020}{}{Cazzo... Speriamo di non dover mai affrontare una banda intera fatta di questa roba.}
 {3030}{}{Meglio andarci piano. Questa roba sconvolge il testosterone.}
@@ -355,10 +355,10 @@
 {3116}{}{Porta una clava nella tana di una tigre.}
 {3117}{}{Un maiale getta una collana di perle.}
 {3118}{}{Imperatore del caviale.}
-{3130}{}{Bene. Adesso stiamo arrivando da qualche parte.}
+{3130}{}{Bene. Adesso si ragiona.}
 {3210}{}{Bene, ora che conosco la storia della vita di tuo padre, ti dispiace arrivare alla parte che riguarda te?}
 {3260}{}{Quindi erano traditori del loro popolo, ma per il bene del loro popolo. Capito.}
-{3261}{}{Senti, sono stufo di sentire parlare dei tuoi genitori. Che ne dici di arrivare alla parte in cui sei una spia?}
-{5000}{}{[Quando la donna alza lo sguardo verso il tuo volto, i suoi occhi si spalancano e inizia ad ansimare.]}
+{3261}{}{Senti, non ne posso piu' di sentir parlare dei tuoi genitori. Che ne dici di arrivare alla parte in cui sei una spia?}
+{5000}{}{[Quando la donna alza lo sguardo verso il tuo volto, i suoi occhi si spalancano e inizia a boccheggiare.]}
 {5001}{}{[FINE]}
 {5002}{}{Oh, merda!}

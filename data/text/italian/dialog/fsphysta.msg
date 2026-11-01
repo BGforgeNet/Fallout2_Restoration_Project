@@ -10,7 +10,7 @@
 {109}{}{Database Fisica: -Esplorazione- -Teoria-}
 {110}{}{Esplorazione...}
 {111}{}{Teoria...}
-{112}{}{Disattiva postazione.}
+{112}{}{Disattivare postazione.}
 {113}{}{Password non corretta. Rivolgersi all'amministratore del sistema. Arrivederci.}
 {114}{}{::viola il sistema di sicurezza del computer::}
 {115}{}{::lascia perdere::}
@@ -26,7 +26,7 @@
 {125}{}{Postazione disattivata.}
 {126}{}{Attivare postazione.}
 {127}{}{-vai via-}
-{128}{}{Digiti a caso una sequenza di lettere e riesci in qualche modo ad ottenere l'accesso! Ma quanto fortunato sei?}
+{128}{}{Digiti a caso una sequenza di lettere e riesci in qualche modo ad ottenere l'accesso! Che fortuna sfacciata!}
 {129}{}{-avanti-}
 {130}{}{Il computer non risponde a nessun input.}
 {131}{}{Non trovi nessun posto dove metterlo.}

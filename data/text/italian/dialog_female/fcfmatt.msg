@@ -7,8 +7,8 @@
 {106}{}{Niente. Me torna piu' tardi.}
 {107}{}{Potresti cominciare rispondendo ad alcune domande.}
 {108}{}{Nulla, per adesso. Tornero' piu' tardi.}
-{109}{}{Credo che tu ti sia guadagnato il diritto di ricevere le risposte alle tue domande.}
-{110}{}{Come posso aiutarla?}
+{109}{}{Credo che tu ti sia guadagnata il diritto di ricevere le risposte alle tue domande.}
+{110}{}{Come posso aiutarti?}
 {111}{}{Chi essere voi?}
 {112}{}{Perche' nessuno me parlato di voi?}
 {113}{}{Perche' solo uno persono essere qui?}
@@ -23,14 +23,14 @@
 {122}{}{Un tempo noi eravamo gli unici bastioni della tecnologia rimasti sul pianeta. Ci imponemmo come una forza che si potrebbe ben descrivere con l'espressione "polizia tecnologica". Noi raccoglievamo l'antica conoscenza e la distribuivamo esclusivamente a piccole dosi. E, naturalmente, solo a quelli che ritenevamo degni e dotati della saggezza necessaria per usarla correttamente.}
 {123}{}{E adesso?}
 {124}{}{Hai detto "un tempo". E adesso, invece?}
-{125}{}{Diversi mesi fa ci siamo imbattuti per la prima volta in un gruppo noto con il nome di "Enclave". Con nostra somma sorpresa scoprimmo che il loro livello tecnologico superava persino il nostro. La cosa ci allarmava non poco, quindi prendemmo in cosiderazione l'idea di contattarli. Tuttavia, alla fine decidemmo di tenere una condotta piu' cauta fino a quando non fossimo in grado di stabilire con esattezza chi fossero i membri dell'Enclave e quali i fini alla base della loro organizzazione.}
+{125}{}{Diversi mesi fa ci siamo imbattuti per la prima volta in un gruppo noto con il nome di "Enclave". Con nostra somma sorpresa scoprimmo che il loro livello tecnologico superava persino il nostro. La cosa ci allarmava non poco, quindi prendemmo in considerazione l'idea di contattarli. Tuttavia, alla fine decidemmo di tenere una condotta piu' cauta fino a quando non fossimo in grado di stabilire con esattezza chi fossero i membri dell'Enclave e quali i fini alla base della loro organizzazione.}
 {126}{}{Per questo motivo, abbiamo riattivato dei piccoli avamposti nei pressi delle zone di attivita' dell'Enclave dai quali possiamo osservare le loro azioni senza correre rischi. Al momento, abbiamo attivato gli avamposti al Den, a NCR e qui a San Francisco.}
 {127}{}{Cosa voi imparare?}
 {128}{}{Interessante. Cosa avete scoperto?}
 {129}{}{Abbiamo scoperto che l'Enclave si occupa in modo massiccio di droghe, armi e schiavi. Tuttavia, queste sono solo attivita' secondarie, volte al conseguimento di uno scopo piu' grande. Uno scopo che non siamo stati ancora in grado di scoprire. E allora continuiamo ad osservare.}
 {130}{}{Perche' tu detto me tutto questo?}
 {131}{}{Prima di proseguire, perche' mi hai raccontato tutto questo?}
-{132}{}{(sigh) Gli Enclave hanno sviluppato la tecnologia vertibird, macchine volanti che permettono loro di raggiungere con facilita' i territori limitrofi. Senza una simile tecnologia per contrastare questa minaccia, la Confraternita non sarebbe in grado di fermare un'invasione sferrata dall'Enclave. Dobbiamo ottenere la tecnologia vertibird, oppure un mezzo efficace per contrastarla.}
+{132}{}{(sospira) L'Enclave ha sviluppato la tecnologia vertibird, macchine volanti che le permettono di raggiungere con facilita' i territori limitrofi. Senza una simile tecnologia per contrastare questa minaccia, la Confraternita non sarebbe in grado di fermare un'invasione sferrata dall'Enclave. Dobbiamo ottenere la tecnologia vertibird, oppure un mezzo efficace per contrastarla.}
 {133}{}{Ora... recentemente l'Enclave ha costruito una base chiamata Navarro, a nord di qui. E' usata come punto di scalo per la manutenzione e il rifornimento dei vertibird. E' mia opinione che in quella base potrebbero trovarsi gli schemi tecnici completi dei vertibird. Tutto quello che mi serve e' qualcuno che si infiltri all'interno della base, rubi i piani e li riporti da me.}
 {134}{}{Uh... me fa?}
 {135}{}{Lasciami indovinare. Vuoi che io mi infiltri in questa base per te.}
@@ -41,7 +41,7 @@
 {140}{}{No. Me andare via.}
 {141}{}{Che diavolo. Me fa.}
 {142}{}{Ci pensero'.}
-{143}{}{Scordatelo. Trovati un altro pazzo.}
+{143}{}{Scordatelo. Trovati un altro pollo.}
 {144}{}{Che diavolo. Devo essere pazza, ma lo faro'.}
 {145}{}{Mi sembra ragionevole. Torna quando avrai preso una decisione.}
 {146}{}{Okay. Ciao.}
@@ -58,7 +58,7 @@
 {157}{}{Okay. Me va.}
 {158}{}{D'accordo, ma... ma come credi che ce la possa fare? Dopotutto stiamo parlando di una base militare.}
 {159}{}{Bene. Ci penso io.}
-{160}{}{Una volta completata con successo la tua missione ti concedero' l'accesso a questa nostra installazione. Nel frattempo sarebbe meglio se ti preparassi immediatamente. Grazie,}
+{160}{}{Una volta completata con successo la tua missione ti concedero' l'accesso a questa nostra installazione. Nel frattempo sarebbe meglio se cominciassi subito. Grazie,}
 {161}{}{.}
 {162}{}{Okay. Ciao.}
 {163}{}{Certo, ma me domanda di piu'.}
@@ -69,7 +69,7 @@
 {168}{}{Si', credo di aver capito quello che vuoi dire.}
 {169}{}{Troppe persone in un posto solo attirano l'attenzione. Un uomo in una citta' con tanti uomini si nota meno.}
 {170}{}{Okay.}
-{171}{}{Bentornato. C'e' qualcosa che posso fare per aiutarti?}
+{171}{}{Rieccoti. C'e' qualcosa che posso fare per aiutarti?}
 {172}{}{No, solo dice ciao.}
 {173}{}{Si'. Tu rispondere domande?}
 {174}{}{No, passavo solo per salutare.}
@@ -87,7 +87,7 @@
 {186}{}{Hai portato a termine la missione?}
 {187}{}{No, me no ancora finito.}
 {188}{}{Me preso disegni.}
-{189}{}{No, ci sto ancora lavorano.}
+{189}{}{No, ci sto ancora lavorando.}
 {190}{}{Ho qui con me gli schemi dei vertibird.}
 {191}{}{Beh, continua. So che e' una missione difficile, ma credo che tu ce la possa fare.}
 {192}{}{Okay.}
@@ -100,7 +100,7 @@
 {199}{}{Tu detto di "fonti". Quali essere?}
 {200}{}{Okay.}
 {201}{}{Hai menzionato le tue "fonti". Di chi si tratta?}
-{202}{}{Ho mandato un'agente in ricognizione a Navarro. Da qualche tempo non ricevo piu' rapporti da lei; temo sia successo il peggio. Ti prego, fa' attenzione}
+{202}{}{Ho mandato un'agente in ricognizione a Navarro. Da qualche tempo non ricevo piu' rapporti da lei; temo sia successo il peggio. Ti prego, fa' attenzione,}
 {203}{}{. Non mi piace mandare la gente incontro alla morte.}
 {204}{}{Me sta attento, grazie.}
 {205}{}{Staro' attenta. Grazie.}
@@ -113,11 +113,11 @@
 {212}{}{Noi sappiamo molte cose.}
 {213}{}{Una volta che avrai completato con successo il tuo incarico faro' in modo che la petroliera sia pronta a partire e ti concedero' l'accesso a questa nostra installazione. Nel frattempo sarebbe meglio che ti dedicassi alla tua missione. Grazie,}
 {214}{}{Prego.}
-{215}{}{Magnifico lavoro! Dammi gli schemi tecnici e te ne faro' una copia. Come promesso, faro' in modo che la petroliera sia pronta a salpare verso la piattaforma petrolifera - ti bastera' andare al piano superiore della nave e premere il pulsante "VAI". Ti daro' anche pieno accesso alle nostre attrezzature. Grazie.}
+{215}{}{Magnifico lavoro! Dammi gli schemi tecnici e te ne faro' una copia. Come promesso, faro' in modo che la petroliera sia pronta a salpare verso la piattaforma petrolifera - ti bastera' andare al computer al piano superiore della nave e premere il pulsante "VAI". Ti daro' anche pieno accesso alle nostre attrezzature. Grazie.}
 {216}{}{Prego!}
 {217}{}{Adesso puoi superare questa porta, se vuoi, oppure dirigerti alla petroliera. E' pronta a salpare. Buona fortuna!}
 {218}{}{Sono disposto a farti un'offerta. Porta a termine questa missione per me e io preparero' la petroliera per il tuo viaggio fino all'Enclave. Cosa ne dici?}
 {219}{}{Me pensa su.}
 {220}{}{No. Me andare via.}
 {221}{}{Che diavolo. Me fa.}
-{222}{}{Okay. Adesso va.}
+{222}{}{Okay. Adesso va'.}

@@ -1,1 +1,1 @@
-{100}{}{Sei entrato nella piccola cittadina di Broken Hills.}
+{100}{}{Entri nella piccola cittadina di Broken Hills.}

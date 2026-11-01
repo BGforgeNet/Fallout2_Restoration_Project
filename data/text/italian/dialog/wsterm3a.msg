@@ -26,22 +26,22 @@
 {122}{}{Sono }
 {123}{}{Sono un amico.}
 {124}{}{Esci.}
-{125}{}{L'immagine non corrisponde a quella del file del personale relativo al Caporale Dixon.                                            Conclusione: il soggetto sta mentendo.                       Conclusione: nemico                                               Conclusione: eliminare.                                           -Fine Transmissione-}
+{125}{}{L'immagine non corrisponde a quella del file del personale relativo al Caporale Dixon.                                            Conclusione: il soggetto sta mentendo.                       Conclusione: nemico                                               Conclusione: eliminare.                                           -Fine Trasmissione-}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 {130}{}{Esci.}
-{131}{}{Nome non trovato nei file del personale.                       Scansione in corso                                               Umano - Femmina                                                Procedere nella sala di controllo per ulteriori analisi.          -Fine Transmissione-}
+{131}{}{Nome non trovato nei file del personale.                       Scansione in corso                                               Umano - Femmina                                                Procedere nella sala di controllo per ulteriori analisi.          -Fine Trasmissione-}
 {132}{}{}
 {133}{}{}
 {134}{}{}
-{135}{}{Nome non trovato nei file del personale.                       Scansione in corso                                               Umano - Maschio                                                Procedere nella sala di controllo per ulteriori analisi.          -Fine Transmissione-}
+{135}{}{Nome non trovato nei file del personale.                       Scansione in corso                                               Umano - Maschio                                                Procedere nella sala di controllo per ulteriori analisi.          -Fine Trasmissione-}
 {136}{}{}
 {137}{}{}
 {138}{}{}
 {139}{}{Esci.}
-{140}{}{Definizione: Amico                                             Sostantivo - Uno che non e' ostile.                          Procedere nella sala di controllo per ulteriori analisi.          -Fine Transmissione-}
+{140}{}{Definizione: Amico                                             Sostantivo - Colui che non e' ostile.                        Procedere nella sala di controllo per ulteriori analisi.          -Fine Trasmissione-}
 {141}{}{}
 {142}{}{}
 {143}{}{Esci.}

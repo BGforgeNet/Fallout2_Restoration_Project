@@ -7,8 +7,8 @@
 {106}{}{Tu strana. Me va via.}
 {107}{}{Sono la persona che ti dara' una bella lezione se non la smetti con questa pagliacciata del gatto e non mi dici il tuo nome.}
 {108}{}{Sono solo una normalissima persona che e' rimasta piuttosto colpita dalle tue caratteristiche speciali. Potresti dirmi il tuo nome?}
-{109}{}{Nulla.}
-{110}{}{(Fa una risatina) Sei buffo! Miao... io sono Sandy. Non sono un gatto per davvero. Mi piace fare come se lo fossi.}
+{109}{}{Lascia perdere.}
+{110}{}{(Fa una risatina) Hai una faccia buffa! Miao... io sono Sandy. Non sono un gatto per davvero. Mi piace fare come se lo fossi.}
 {111}{}{(Urla) Mamma! Mamma! Mamma!}
 {112}{}{Io sono Sandy. Non sono un gatto per davvero, mi piace solo fare finta.}
 {113}{}{Me anche gioca. Me fa te domande, eh?}
@@ -29,7 +29,7 @@
 {128}{}{Me deve andare, adesso.}
 {129}{}{Capisco.}
 {130}{}{Credo di aver sentito abbastanza, per adesso. Ciao.}
-{131}{}{Credo di si'. Mi dispiace che non ci siano altri bambini con cui giocare ma la mamma dice che un giorno le cose cambieranno. Lei pensa che altri bambini verranno a vivere qui. Finche' non lo fanno, mi piace giocare con Valdis. E' divertente e mi fa da cavallino. La mamma dice che dovrei lasciare in pace Valdis. E' molto occupato e non ha tempo per giocare, ma lui gioca sempre con me quando glielo chiedo. Ma adesso non lo dico piu' alla mamma..}
+{131}{}{Credo di si'. Mi dispiace che non ci siano altri bambini con cui giocare ma la mamma dice che un giorno le cose cambieranno. Lei pensa che altri bambini verranno a vivere qui. Finche' non lo fanno, mi piace giocare con Valdis. E' divertente e mi fa da cavallino. La mamma dice che dovrei lasciare in pace Valdis. E' molto occupato e non ha tempo per giocare, ma lui gioca sempre con me quando glielo chiedo. Ma adesso non lo dico piu' alla mamma.}
 {132}{}{Cavallino... (espressione confusa)}
 {133}{}{Me va.}
 {134}{}{Carino da parte sua.}

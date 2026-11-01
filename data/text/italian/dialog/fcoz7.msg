@@ -1,11 +1,11 @@
 {100}{}{Vedi un Hubologista incappucciato. Per qualche ragione, sembra essere diverso dagli altri.}
-{101}{}{Vedi AHS-7, il secondo nella linea di comando.}
+{101}{}{Vedi AHS-7, il secondo in comando.}
 {102}{}{Vedi un Hubologista incappucciato.}
 {103}{}{Guardie! Un servo della tirannia! Abbattetelo!}
 {104}{}{Tu. Per quale ragione ti trovi qui?}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Ho una lettera per AHS-9 da parte dell'Illuminata di NCR.}
-{107}{}{Sono qui per parlare con Crocket a proposito di un'armatura.}
+{107}{}{Sono qui per parlare con Crockett a proposito di un'armatura.}
 {108}{}{Vorrei dare un'occhiata in giro.}
 {109}{}{Sarei interessato ad unirmi alla vostra religione.}
 {110}{}{Chi sei?}
@@ -28,7 +28,7 @@
 {127}{}{Ooh! Celebrita'!}
 {128}{}{Io sono AHS-7, il secondo in comando di questa organizzazione. Prima che tu me lo chieda: AHS sta per Allineato all'Hub Supremo, e significa che ho purificato sette livelli di neuronodi nel mio spirito. Questo significa che ho raggiunto un grado d'illuminazione superiore e che sono piu' vicino di te al Centro della Grande Ruota. E cio' significa che tu mi dirai cosa ci fai qui. Adesso.}
 {129}{}{Ho una lettera per AHS-9 da parte dell'Illuminata di NCR.}
-{130}{}{Sono qui per parlare con Crocket a proposito di un'armatura.}
+{130}{}{Sono qui per parlare con Crockett a proposito di un'armatura.}
 {131}{}{Vorrei dare un'occhiata in giro.}
 {132}{}{Sarei interessato ad unirmi alla vostra religione.}
 {133}{}{Sono qui per uccidervi tutti.}
@@ -41,11 +41,11 @@
 {140}{}{Al diavolo. Me ne vado.}
 {141}{}{E cosi' hai parlato con Juan e Vikki... Sei interessato ad unirti ai nostri amici nella ricerca dell'illuminazione della Grande Ruota?}
 {142}{}{Oh si'. Si' si' si'.}
-{143}{}{Bene.}
+{143}{}{Certo.}
 {144}{}{Non adesso. Posso tornare piu' tardi?}
 {145}{}{Non credo che faccia per me. Mi spiace.}
 {146}{}{Diavolo, no! Il vostro folle culto merita di essere ridotto in macerie e bruciato.}
-{147}{}{::sorride:: Non te ne pentirai. Da noi troverai cio' che cerchi. Oh... vedo che sai maneggiare le armi. Che ne diresti di usare le nostre al servizio della Grande Ruota?}
+{147}{}{::sorride:: Non te ne pentirai. Puoi muoverti liberamente nel complesso. Oh... vedo che sai maneggiare le armi. Che ne diresti di usarle al servizio della Grande Ruota?}
 {148}{}{Si'.}
 {149}{}{Magari piu' tardi.}
 {150}{}{Non aspettare troppo a lungo prima di tornare con una risposta. I tuoi neuronodi si inquineranno sempre piu' prima che noi si possa iniziare il processo di purificazione.}
@@ -69,18 +69,18 @@
 {168}{}{Magari cambierai idea. Fammi sapere. Ora: c'e' qualcosa che l'Hub puo' fare per te, recluta?}
 {169}{}{Si', avrei delle domande.}
 {170}{}{No, non al momento, grazie.}
-{171}{}{Hai riflettuto riguardo al tuo supporto nella lotta contro i tirannici Shi? Il Padre Stellare ti benedira' se prenderai parte a questa crociata.}
+{171}{}{Hai pensato se aiutarci nella lotta contro i tirannici Shi? Il Padre Stellare ti benedira' se prenderai parte a questa crociata.}
 {172}{}{Non sono ancora sicuro di volerlo fare.}
 {173}{}{Lo faro'.}
 {174}{}{Forse io potro' dare sollievo alla tua anima tormentata. Cosa ti serve?}
 {175}{}{Dove posso trovare del carburante per la petroliera Poseidon?}
 {176}{}{Dove posso trovare il significato di tutti i termini che usate?}
 {177}{}{Quand'e' che partira' l'astronave?}
-{178}{}{Dov'e' Crocket?}
+{178}{}{Dov'e' Crockett?}
 {179}{}{Niente, grazie. Ci vediamo.}
 {180}{}{Facci sapere quando avrai portato a termine il tuo compito.}
 {181}{}{Lo faro'. Ho delle altre domande.}
-{182}{}{Certo. Addio.}
+{182}{}{Certo. Ciao.}
 {183}{}{Hai rimosso l'opprimente presenza dell'Imperatore da questa esistenza materiale?}
 {184}{}{Non ancora.}
 {185}{}{Si', AHS-7. E' morto.}
@@ -96,9 +96,9 @@
 {195}{}{La sua gente abbraccera' la religione dell'Hub! Tutto andra' bene! Hai portato a termine un grande compito!}
 {196}{}{Grazie! Ho delle altre domande.}
 {197}{}{Tutto quel che ho fatto l'ho fatto in nome della Ruota. Arrivederci.}
-{198}{}{Veramente, adesso uccidero' anche voi.}
+{198}{}{Anzi, adesso uccidero' anche te.}
 {199}{}{Adesso che l'astronave e' piena di carburante, attendiamo solo la parola di AHS-9, il Grande e Terribile, per dare inizio alle procedure di lancio.}
-{200}{}{Bene. Ho delle altre domande.}
+{200}{}{Certo, come no. Ho delle altre domande.}
 {201}{}{Grazie. Ciao.}
 {202}{}{Escludendo il prezioso carburante che ci serve per lanciarci nel grembo dei nostri fratelli stellari sul pianeta Quetzel, non saprei proprio dove potresti trovarne. Forse dagli Shi?}
 {203}{}{Hmm. Ho delle altre domande.}

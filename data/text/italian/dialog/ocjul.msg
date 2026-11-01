@@ -1,6 +1,6 @@
-{100}{}{Vedi un deathclaw. Ti guarda con occhi dall'aspetto stranamente intelligente.}
+{100}{}{Vedi un Deathclaw. Ti guarda con occhi dall'aspetto stranamente intelligente.}
 {101}{}{Vedi Jul, il Deathclaw.}
-{102}{}{Vedi un tipico deathclaw. Questa creatura e' grossa, con un corpo possente, denti affilati e lunghi artigli.}
+{102}{}{Vedi un tipico Deathclaw. Questa creatura e' grossa, con un corpo possente, denti affilati e lunghi artigli.}
 {103}{}{Ferma. Tu no va qui. Questo posto essere vietato.}
 {104}{}{Okay. Me va via.}
 {105}{}{Cosa essere questo posto?}
@@ -26,14 +26,14 @@
 {125}{}{Tu aspetta. Io chiede a Madre.}
 {126}{}{Okay.}
 {127}{}{Madre dice che lei parlare con te. Tu entra. Tu no causa problema. Io no vuole fare male a te, ma io fa tanto male a te se tu causare problema.}
-{128}{}{Madre dice che lei parlare con te. Tu entra, ma tu va solo; amici stare qui. Tu no causa problema. Io no vuole fare male a te, ma io fare tanto male a te se tu causare problema.}
+{128}{}{Madre dice che lei parlare con te. Tu entra, ma tu va senza amici; amici stare qui. Tu no causa problema. Io no vuole fare male a te, ma io fare tanto male a te se tu causare problema.}
 {129}{}{Okay.}
 {130}{}{Davvero tu pensa? Io no vede in questo modo. Questo fare sentire me bene. Io piace. Grazie.}
 {131}{}{Prego. Me va ora.}
 {132}{}{Me vuole parlare a madre.}
 {133}{}{Non c'e' di che. Adesso devo andare.}
 {134}{}{Posso parlare con la Madre?}
-{135}{}{Alito di lucertola... Oh, io capito. Ah ah! Adesso tu capire questo. Io fa la guardia qui perche' io e' piu' cattivo, feroce, spietato figlio di puttana di intero dannato vault. Se tu fa scherzi a me, tu fa scherzi con il migliore. Tu andare via o io strappa tua testa e tu guardare me mentre io caga in tua gola.}
+{135}{}{Alito di lucertola... Oh, io capito. Ah ah! Adesso tu capire questo. Io fa la guardia qui perche' io e' piu' cattivo, feroce, spietato figlio di puttana di intero dannato Vault. Se tu fa scherzi a me, tu fa scherzi con il migliore. Tu andare via o io strappa tua testa e tu guardare me mentre io caga in tua gola.}
 {136}{}{Me ne vado subito.}
 {137}{}{Oh, davvero? Vediamo un po' quanto sei tosto!}
 {138}{}{Essere ancora tu. Cosa tu vuole?}
@@ -43,6 +43,6 @@
 {142}{}{Volevo solo salutarti.}
 {143}{}{Cos'e' questo posto?}
 {144}{}{Chi hai detto che eri, tu?}
-{145}{}{Tu gia' morto. Tu troppo stupido per vivere.}
+{145}{}{Tu gia' morto. Tu troppo stupido per cadere a terra.}
 {146}{}{. Me vuole parlare a madre.}
 {147}{}{, Jul, e vorrei parlare con la Madre, per favore.}

@@ -7,5 +7,5 @@
 {202}{}{Questo posto e' davvero carino!}
 {203}{}{Salve.}
 {204}{}{Bel tempo.}
-{205}{}{Stai attento la' fuori, nelle lande desolate.}
+{205}{}{Stai attento la' fuori, nelle Lande.}
 {500}{}{TAFFER!}

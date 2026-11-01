@@ -6,14 +6,14 @@
 {200}{}{Ragazza, sapevo che avresti fatto grandi cose, ma non avrei mai creduto che avresti addirittura salvato il mondo. Ottimo.}
 {201}{}{Sono fiero di te, ragazza.}
 {202}{}{Ce l'hai fatta, ragazza. Stuart e' fiero di te.}
-{210}{}{Mi sarebbe piaciuto vedere come il tuo pugno si faceva strada attraverso la guardia dell'Enclave.}
+{210}{}{Mi sarebbe piaciuto vederti sfondare l'Enclave a pugni.}
 {211}{}{La battaglia contro l'Enclave dev'essere stata qualcosa di spettacolare. Diamine.}
-{212}{}{Ah! Hai mai pensato di usare la tua forza sul RING, oltre che per salvare il mondo?}
+{212}{}{Ah! Hai mai pensato di usare la tua forza sul RING, invece che per salvare il mondo?}
 {220}{}{Come butta, campionessa?}
 {221}{}{Mi sembri in forma, amica.}
 {222}{}{I tuoi pugni sono pugni d'oro.}
 {223}{}{Ragazza, tu mangi fulmini e cachi tuoni.}
-{224}{}{Ti sei liberato di quel figlio di puttana come ci si libera di una cattiva abitudine. Ottimo lavoro.}
+{224}{}{Ti sei liberata di quel figlio di puttana come ci si libera di una cattiva abitudine. Ottimo lavoro.}
 {225}{}{Sono felice di aver puntato su di te, dolcezza.}
 {226}{}{Mi sembri in forma, cara.}
 {230}{}{Mi serve qualche nuovo talento...}
@@ -31,10 +31,10 @@
 {248}{}{Niente. Stavo solo dando un'occhiata in giro.}
 {250}{}{(Ti fa cenno di smammare.) Sparisci, testa di cazzo. Mi stai facendo perdere del tempo.}
 {251}{}{Bzzzzzzz-bzzzzzz}
-{260}{}{(Sospira, sembra quasi essere sul punto di dire qualcosa, poi si blocca e osserva il tuo corpo.) Hai mai fatto dei combattimenti? Sembreresti essere bell'e pronto per cominciare a combattere.}
+{260}{}{(Sospira, sembra quasi essere sul punto di dire qualcosa, poi si blocca e osserva il tuo corpo.) Hai mai fatto dei combattimenti? Sembri piuttosto in forma.}
 {261}{}{Me combatte MOLTO. Me combatte te?}
 {262}{}{Me no sembrare bello. Tu piacere uomini? Me disposto}
-{270}{}{No, no... sto parlando di combattere sul RING! Sai, il ring? (indica il ring, mima dei pugni.) E' una cosa che potrebbe interessarti?}
+{270}{}{No, no... sto parlando di combattere sul RING! Sai, il ring? (Indica il ring e mima dei pugni.) E' una cosa che potrebbe interessarti?}
 {271}{}{(Dai un pugno sul muso all'ometto e prendi i suoi soldi per il pranzo)}
 {272}{}{Uh-huh}
 {273}{}{Me puo' avere gelato se me combatte?}
@@ -49,30 +49,30 @@
 {293}{}{Me Grande Stu}
 {296}{}{[Allontanati in cerca di avventure.]}
 {300}{}{Me-a-me, eh? "Miami..." Mi PIACE. Mi PIACE. D'accordo, allora: vediamo di fare un po' di danni.}
-{301}{}{(Aggrotta le sopracciglia.) Facciamo gli spiritosi, eh? Hmmph... non si riesce ad avere il minimo rispetto, in questa citta'. (Alza le spalle) D'accordo, allora: vediamo di fare un po' di danni.}
+{301}{}{(Aggrotta le sopracciglia.) Facciamo gli spiritosi, eh? Hmmph... non si riesce ad avere il minimo rispetto, in questa citta'. (Alza le spalle.) D'accordo, allora: vediamo di fare un po' di danni.}
 {302}{}{, eh? D'accordo, }
 {305}{}{[Scappa e nasconditi.]}
 {310}{}{(Sbuffa con indignazione.) Guarda. Anche se la mia altezza non rientra nella cosiddetta "media", cio' non significa che debba ricorrere a metodi sostitutivi per avere un po' di eccitazione.}
-{311}{}{Allora e' cosi'?}
+{311}{}{Ah, davvero?}
 {320}{}{Sparisci dalla mia vista, testa di cazzo. In questa citta' non c'e' speranza per te. Smamma!}
 {321}{}{Non avrei MAI dovuto darti la mia fiducia... che delusione assoluta. Adesso vattene! Smamma!}
 {322}{}{ME }
 {323}{}{E dove essere gelato?}
 {324}{}{[Scappa via piangendo.]}
-{326}{}{[Sorridi placidamente, annuisci, poi lo attacchi.]}
+{326}{}{[Sorridi placidamente, annuisci, poi attaccalo.]}
 {327}{}{Dammi un'altra possibilita', Stuart. Dai, solo UNA. Posso farcela!}
-{328}{}{[Te ne vai.]}
-{329}{}{(Stuart ti guarda con disgusto mentre vieni trascinato fuori dal ring.) }
+{328}{}{[Vattene.]}
+{329}{}{(Stuart ti guarda con disgusto mentre vieni trascinata fuori dal ring.) }
 {330}{}{Cosa c'e'? Il Masticatore ti ha per caso strappato le orecchie a morsi, ragazzo?! }
 {331}{}{Cosa c'e'? Il Masticatore ti ha per caso strappato le orecchie a morsi, ragazza?! }
 {332}{}{Ti ho detto di SMAMMARE! Vattene da qui!}
 {333}{}{[Picchia il chiassoso ometto dai capelli rossi.]}
-{334}{}{[Ti allontani colmo di rabbia.]}
-{336}{}{[Te ne vai.]}
+{334}{}{[Esci pestando i piedi per la rabbia.]}
+{336}{}{[Vattene.]}
 {337}{}{(Diventa rosso.) }
 {340}{}{Un'altra possibilita'. A me va il 75%... e niente discussioni. }
 {341}{}{Un'altra possibilita'. A me va sempre il 75%... e niente discussioni. }
-{342}{}{Ci sto. Sono pronto per combattere ancora. Fa' strada, Stuart.}
+{342}{}{Ci sto. Sono pronta per combattere ancora. Fa' strada, Stuart.}
 {343}{}{Ci sto. Dammi un po' di tempo per riposarmi e saro' pronta per combattere ancora.}
 {344}{}{Non vale la pena soffrire cosi' tanto.}
 {345}{}{(Stuart diventa rosso, come se stesse per cominciare ad urlare, poi si calma.) D'accordo. }
@@ -83,19 +83,19 @@
 {353}{}{Me vuole gelato}
 {355}{}{Sono pronta. Mettiamoci al lavoro.}
 {356}{}{Lasciami riposare un attimo, poi saro' pronta.}
-{357}{}{Credo di averne avuto abbastanza di questo mondo, Stuart... lassu', sul ring, ho visto la morte e mi ha spaventato. Appendo i guantoni al chiodo.}
-{360}{}{(Il nanerottolo sbatte le palpebre, poi aggrotta le sopracciglia) Gela-CHE?}
+{357}{}{Credo di averne abbastanza di questo mondo, Stuart... lassu', sul ring, ho visto la morte in faccia e mi ha fatto paura. Appendo i guantoni al chiodo.}
+{360}{}{(Il nanerottolo sbatte le palpebre, poi aggrotta le sopracciglia.) Gela-CHE?}
 {361}{}{Il Gelato Colato fa venire il Conato}
 {362}{}{Uh-uh. GELATO}
 {363}{}{[Allontanati in cerca di avventure.]}
-{370}{}{(Il nanerottolo sorride a fatica.) }
+{370}{}{(Il nanerottolo sorride a disagio.) }
 {371}{}{Beh, qualcosa di "dolce" te lo posso anche procurare, amico... ma si tratta di prostitute o di droghe di vario tipo... nient'altro. }
 {372}{}{Beh, qualcosa di "dolce" te lo posso anche procurare, cara... ma si tratta di uomini da marciapiede o di droghe di vario tipo... nient'altro. }
 {373}{}{Ora... vuoi combattere o no?}
 {374}{}{Okay}
 {375}{}{Me vuole riposare un po' prima.}
 {376}{}{Nah}
-{380}{}{Beh, non voglio costringerti, ma avremmo formato proprio una bella coppia, io e te. Insieme saremmo arrivati in men che non si dica al top dei top, dritti nel firmamento dei grandi campioni... torna da me, se cambi idea. Tu sei oro puro, ragazzo.}
+{380}{}{Beh, non voglio costringerti, ma avremmo formato proprio una bella coppia, io e te. Insieme saremmo arrivati in men che non si dica al top dei top, dritti nel firmamento dei grandi campioni... torna da me, se cambi idea. Tu sei oro puro, ragazza.}
 {390}{}{D'accordo, allora! Diamo inizio alle danze!}
 {391}{}{[Seguilo.]}
 {400}{}{Cos... non hai MAI sentito parlare di me? Stuart, Stuart Little? Il piu' grande agente di tutta Reno? }
@@ -107,8 +107,8 @@
 {408}{}{"Stuart Little?"}
 {409}{}{Oltre alle gambe c'e' di piu', Stuart. Quindi fa' il bravo, altrimenti per te sara' ancora piu' difficile avere un appuntamento galante in questa citta'. Siamo intesi?}
 {410}{}{Veramente stavo solo dando un'occhiata in giro. Ci vediamo dopo, Stuart.}
-{411}{}{(Si rimette lo stuzzicadenti in bocca e comincia a morderlo) Hai un nome?}
-{412}{}{(Ti guarda dall'alto in basso.) Hai un nome, oltre a quelle gambe?}
+{411}{}{(Si rimette lo stuzzicadenti in bocca e lo mastica.) Hai un nome?}
+{412}{}{(Ti squadra da capo a piedi.) Ce l'hai un nome da abbinare a quelle gambe?}
 {420}{}{(Stuart annuisce.) }
 {421}{}{D'accordo, }
 {422}{}{... }
@@ -123,33 +123,33 @@
 {436}{}{Dammi un'altra possibilita', Stuart. POSSO farcela! Dai...}
 {437}{}{Niente. Stavo solo dando un'occhiata in giro.}
 {440}{}{Vuoi BOXARE? Uh... d'accordo, voglio essere onesto con te, ragazzo. Non credo proprio che tu abbia il fisico adatto.}
-{441}{}{Vuoi BOXARE? Beh, adesso le ho proprio sentite tutte. Ascolta, le principali opportunita' di lavoro per le donne vengono dal settore... hmmm. Beh, forse quel tipo di lavoro non e' adatto a te.}
-{442}{}{Vuoi BOXARE? Beh, adesso le ho proprio sentite tutte. Senti, non voglio essere scortese o altro, e' solo che la boxe e' un sporto BRUTTO&CATTIVO... e anche le persone che lo praticano rischiano di diventare brutte. Nel tuo caso, sarebbe un vero peccato.}
+{441}{}{Vuoi BOXARE? Beh, adesso le ho proprio sentite tutte. Ascolta, a Reno la maggior parte dei lavori per le donne sono... hmmm. Beh, a guardarti, forse quei lavori non fanno per te.}
+{442}{}{Vuoi BOXARE? Beh, adesso le ho proprio sentite tutte. Senti, non voglio essere scortese o altro, e' solo che la boxe e' uno sport BRUTTO... e rende brutti anche quelli che lo praticano. Nel tuo caso, sarebbe un vero peccato.}
 {444}{}{Dammi una possibilita', e io dimentichero' la PICCOLA battuta che hai appena fatto.}
 {445}{}{Dammi una possibilita', Stuart.}
 {446}{}{Oh, al diavolo queste stronzate. Me ne vado.}
 {450}{}{No, mi dispiace, cara, troppi rischi... probabilmente non ti lascerebbero nemmeno combattere. Adesso tornatene a casa, okay?}
 {451}{}{No, mi dispiace, amico, troppi rischi... sarebbe un massacro. Ora tornatene a casa, okay?}
-{452}{}{Non esistono molte donne pugili, Stuart, e' questo che voglio dirti. Tu saresti il primo agente a gestire una donna pugile. La gente accorrerebbe a FROTTE per vedermi.}
-{453}{}{Ma e' proprio quello che voglio dirti, Stu...posso chiamarti Stu, vero?...Sarebbe un VERO massacro. Sai quanta attenzione potrebbe catalizzare? Sarebbe come andare ad assistere ad un'esecuzione!}
+{452}{}{Non esistono donne pugili, Stuart, ed e' proprio questo il punto. Tu saresti il primo agente a gestire una donna pugile. La gente accorrerebbe a FROTTE per vedermi.}
+{453}{}{Ma e' proprio quello che voglio dirti, Stu... posso chiamarti Stu, vero?... sarebbe un VERO massacro. Sai quanta attenzione potrebbe catalizzare? Sarebbe come andare ad assistere ad un'esecuzione!}
 {454}{}{Oh, queste sono soltanto stronzate. Me ne vado.}
 {460}{}{No, mi dispiace, cara, troppi rischi... probabilmente non ti lascerebbero nemmeno combattere. Adesso tornatene a casa, okay?}
 {461}{}{No, mi dispiace, amica, non sarebbe un massacro divertente. Adesso tornatene a casa, okay?}
 {462}{}{Ci sono dei rischi, certo... ma sai, Stuart, potrei anche *spogliarmi un po'* mentre mi trovo sul ring. Una cosa del genere attirerebbe piu' gente di quanta si sia mai vista qui dentro...}
 {463}{}{Oh, queste sono soltanto stronzate. Me ne vado.}
-{470}{}{Hmmmmm...d'accordo, ti daro' una possibilita'... ma non ti prometto nulla. Se questo danneggia i miei affari, anche in maniera lieve, tu sei fuori. (Mette le mani sui fianchi.) Io prendo la meta' della vincita, e niente discussioni su questo punto.}
-{471}{}{Hmmmmm...Ti daro' una possibilita'... ma non ti prometto nulla; ti sto facendo un favore, prendendo uno sconosciuto qualsiasi sotto la mia ala. Io prendo la meta' delle vincite... niente discussioni su questo punto.}
+{470}{}{Hmmmmm... d'accordo, ti daro' una possibilita'... ma non ti prometto nulla. Se questo danneggia i miei affari, anche in maniera lieve, tu sei fuori. (Mette le mani sui fianchi.) Io prendo la meta' della vincita, e niente discussioni su questo punto.}
+{471}{}{Hmmmmm... ti daro' una possibilita'... ma non ti prometto nulla; ti sto facendo un favore, prendendo uno sconosciuto qualsiasi sotto la mia ala. Io prendo la meta' delle vincite... niente discussioni su questo punto.}
 {472}{}{Fatto.}
 {473}{}{Accontentati del 25%, e l'accordo e' fatto.}
 {474}{}{Oh, queste sono soltanto stronzate. Me ne vado.}
-{480}{}{(L'accigliamento di Stuart si fa piu' marcato. Sembra stia per protestare, poi scuote la testa con un sorrisetto.) D'accordo, allora! Se hai finito di ridurre all'osso i miei mezzi di sostentamento, vediamo di discutere meglio la cosa.}
+{480}{}{(Stuart si acciglia ancora di piu'. Sembra stia per protestare, poi scuote la testa con un sorrisetto.) D'accordo, allora! Se hai finito di ridurre all'osso i miei mezzi di sostentamento, parliamo di come gestirti.}
 {481}{}{Okay...}
-{490}{}{D'accordo... (Stuart ti guarda.) Ti serve un nome... sai, un soprannome facile da ricordare. Qualcosa che sembri "tosto". "Cattivo". Tipo }
+{490}{}{D'accordo... (Stuart ti squadra.) Ti serve un nome... sai, un soprannome facile da ricordare. Qualcosa che sembri "tosto". "Cattivo". Tipo }
 {500}{}{(Il nanerottolo aggrotta le sopracciglia.) Ma non era morto tempo fa contro quel tipo che veniva dalla Russia? Aw, lasciamo perdere. Possiamo andare sul ring?}
-{501}{}{(Il nanerottolo aggrotta le sopracciglia.) Credo proprio che tu e il "Masticatore" andrete d'amore e d'accordo. Vedi solo di non mordere via troppe orecchie. Bene... possiamo andare sul ring?}
-{502}{}{(Il nanerottolo aggrotta le sopracciglia.) Non hai l'aspetto di un Russo. Ma se sta bene a te... possiamo andare sul ring?}
-{503}{}{(Il nanerottolo aggrotta le sopracciglia.) Beh, okay... ma speriamo che la TUA carriera vada da qualche parte. Possiamo andare sul ring, adesso?}
-{504}{}{(Il nanerottolo aggrotta le sopracciglia.) Gli occhi della tigre, eh? "Adriaaanaaaaa", "Adriaaanaaaaa"... Eh eh. Mi piace... e' un nome di un certo peso. Possiamo salire sul ring?}
+{501}{}{(Il nanerottolo fa un sorrisetto.) Credo proprio che tu e il "Masticatore" andrete d'amore e d'accordo. Vedi solo di non mordere via troppe orecchie. Bene... possiamo andare sul ring?}
+{502}{}{(Il nanerottolo fa un sorrisetto.) Non hai l'aspetto di un russo. Ma se sta bene a te... possiamo andare sul ring?}
+{503}{}{(Il nanerottolo fa un sorrisetto.) "Pity the fool", eh? Beh, okay... ma speriamo che la TUA carriera vada da qualche parte. Possiamo andare sul ring, adesso?}
+{504}{}{(Il nanerottolo fa un sorrisetto.) Gli occhi della tigre, eh? "Adriaaanaaaaa", "Adriaaanaaaaa"... Eh eh. Mi piace... e' un nome di un certo peso. Possiamo salire sul ring?}
 {505}{}{(Il nanerottolo annuisce.) }
 {506}{}{Cominciamo.}
 {510}{}{Scordatelo. Fifty-fifty o NIENTE. Se non ti piace la cosa, vattene.}
@@ -160,29 +160,29 @@
 {520}{}{Si', si', lo so, "Stuart Little". Mia madre leggeva molto E. B. White. Ora... ce l'hai un nome?}
 {521}{}{Hmmpph. Ce l'hai un nome?}
 {526}{}{Piacere di conoscerti, Stu. Non ho tempo per parlare, adesso. Ci vediamo dopo.}
-{530}{}{E che cosa ti fa pensare che io abbia mai visto uno spettacolo circense, o, peggio, che io sia stato rapito da un circo?}
-{531}{}{Uh...beh, mi pare che molti dei cittadini di New Reno si comportino come se fossero appena usciti da un circo, e quindi pensavo che...}
-{540}{}{Tu pensavi che, solo perche' sono di bassa statura, l’unica carriera che potessi ottenere fosse confinata sotto il cosiddetto ‘tendone del circo.’}
+{530}{}{E che cosa ti fa pensare che io abbia mai visto uno spettacolo circense, o, peggio ancora, che sia stato schiavo di un circo?}
+{531}{}{Uh... beh, mi pare che molti dei cittadini di New Reno si comportino come se fossero appena usciti da un circo, e quindi pensavo che...}
+{540}{}{Tu pensavi che, solo perche' sono di bassa statura, l'unica carriera che potessi ottenere fosse confinata sotto il cosiddetto 'tendone del circo.'}
 {541}{}{Uh... beh, insomma...}
 {550}{}{Mi hai dato solo una RAPIDA occhiata e hai pensato di conoscere la mia intera vita. Non ti sarebbe mai passato per l'anticamera del cervello che una persona della mia statura potesse far carriera come *agente di pugili.*}
 {551}{}{Mi dispiace, non volevo offenderti.}
 {560}{}{E perche' avrei dovuto offendermi? Solo perche' sembra che tutti, in questo gioco, abbiano il vizio di dare giudizi istantanei sugli altri PNG, basandosi solamente sul loro aspetto fisico?}
-{561}{}{Beh, non so cosa tu intenda per giudizio ISTANTANEO...}
+{561}{}{Beh, ISTANTANEO mi sembra esagerato...}
 {570}{}{Beh, io ho fatto la stessa cosa con te, ad esempio.}
 {571}{}{Oh?}
 {580}{}{(Ti guarda pietosamente.) Ma non capisci la TRAGEDIA? Io ti avevo erroneamente ridotto ad uno stereotipo, ad una caricatura, ad un generico modello umano di Fallout, piuttosto che considerarti come una persona unica e particolare.}
 {581}{}{Uh, ma Stuart, io SONO il tipico modello di eroe. Infatti io sono il personaggio giocante di questo gioco.}
-{590}{}{Non tutte le donne sono attratte dai modelli umani maschili dal torace possente e dai muscoli super-pompati. Rimarresti sorpreso nello scoprire quante donne trovino la mia taglia affascinante e ATTRAENTE.}
+{590}{}{Non tutte le donne sono attratte dai modelli umani maschili dal torace possente e dai muscoli super-pompati. Rimarresti sorpresa nello scoprire quante donne trovino la mia taglia affascinante e ATTRAENTE.}
 {591}{}{E tu rimarresti sorpreso nello scoprire quanti maschi la pensino come loro.}
-{600}{}{Mi sono lasciato ingannare dal tuo fisico ridicolmente super-muscoloso, dal tuo audace comportamento da Mad Maxx dei poveri, dalla tua distribuzione di punti-personaggio priva di fantasia e ti ho bollato come un bulletto rissoso.}
-{601}{}{Mi sono lasciato ingannare dal tuo seno iper-pixellato, dalla tua ridicola andatura sculettante, dalla tua distribuzione di punti-personaggio priva di fantasia e ti ho bollato come una Laura Kroft dei poveri...una "bulletta."}
+{600}{}{Ho osservato il tuo fisico ridicolmente super-muscoloso, il tuo atteggiamento da Mad Maxx dei poveri, la tua distribuzione di punti-personaggio priva di fantasia, e ho concluso che sei un "munchkin" fissato col min-max.}
+{601}{}{Ho osservato il tuo seno iper-pixellato, la tua ridicola andatura sculettante, la tua distribuzione di punti-personaggio priva di fantasia, e ho concluso che sei una Laura Kroft dei poveri fissata col min-max... una "munchkin".}
 {602}{}{Io...}
 {610}{}{Non sei nient'altro che il tipico "Modello Maschile di Eroe di GdR" e, se vuoi, uno di TANTI modelli simili; cosi' tanti che sembrano essere presenti in massa, in questo mondo.}
 {611}{}{Non sei nient'altro che il tipico "Modello Femminile di Eroe di GdR" e, se vuoi, uno di TANTI modelli simili; cosi' tanti che sembrano essere presenti in massa, in questo mondo.}
 {612}{}{Beh...}
 {1302}{}{ vediamo di fare un po' di danni.}
 {1322}{}{ NO TESTA CAZZO ME UCCIDE TE UCCIDE TE UCCIDE T--}
-{1350}{}{... tutto bene, ti senti in forma? Fammi sapere quando sei pronto per il prossimo incontro.}
+{1350}{}{... tutto bene, ti senti in forma? Fammi sapere quando sei pronta per il prossimo incontro.}
 {1405}{}{.}
 {1406}{}{, e voglio boxare. Puoi aiutarmi?}
 {1421}{}{. Piacere di fare la tua conoscenza. }
@@ -191,5 +191,5 @@
 {1432}{}{". Che cosa ti riporta da queste parti?}
 {1490}{}{ il Tifone, }
 {2490}{}{ la Rissosa... sai, cose di questo genere.}
-{2505}{}{... non male, non male. Ti si addice. (Fa un cenno con la testa verso il ring.) Possiamo cominciare, allora? Sei pronto?}
+{2505}{}{... non male, non male. Ti si addice. (Fa un cenno con la testa verso il ring.) Possiamo cominciare, allora? Sei pronta?}
 {3422}{}{. }

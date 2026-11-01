@@ -4,20 +4,20 @@
 {103}{}{Quest'uomo e' imperturbabile. Se ti ha notato, non lo da' a vedere.}
 {104}{}{Che ne dice di un bicchierino, eroina?}
 {105}{}{Benvenuta, eroina. Prego, venga a sedersi qui al bancone.}
-{106}{}{Prego! Prendi una sedia e riposati per un attimo!}
+{106}{}{Prego! Si accomodi e si riposi un po'!}
 {107}{}{Buon giorno, Capitano.}
 {108}{}{Vault City prevale, Capitano.}
 {109}{}{Buongiorno, Cittadina.}
 {110}{}{Vault City prevale, Cittadina.}
 {111}{}{Un mutante! Guardie! Guardie!}
 {112}{}{Un ghoul! Guardie! Guardie!}
-{113}{}{Mi spiace, ma di sera il bar e' chiuso.}
+{113}{}{Mi spiace, ma il bar e' chiuso per stasera.}
 {114}{}{Il bar e' chiuso. Tornero' a casa non appena avro' finito di compilare l'inventario.}
-{115}{}{Ma non hai una casa dove andare?}
-{116}{}{Benvenuto! Abbiamo tutti sentito parlare delle sue imprese contro l'Enclave. Posso portarle qualcosa da bere?}
+{115}{}{Ma non avete una casa dove tornare?}
+{116}{}{Benvenuta! Abbiamo tutti sentito parlare delle sue imprese contro l'Enclave. Posso portarle qualcosa da bere?}
 {117}{}{Awnt-awnt}
 {118}{}{-Allontanati-}
-{119}{}{Cosa avete da bere?}
+{119}{}{Cosa c'e' alla spina?}
 {120}{}{Vorrei alcune informazioni.}
 {121}{}{Per oggi niente, grazie.}
 {122}{}{Eh eh, "awnt-awnt" anche a te. Mi raccomando: fa' attenzione quando viaggi nelle Lande.}
@@ -28,13 +28,13 @@
 {127}{}{Si'? Posso aiutarla?}
 {128}{}{Awnt-awnt}
 {129}{}{-Allontanati-}
-{130}{}{Cosa avete da bere?}
+{130}{}{Cosa c'e' alla spina?}
 {131}{}{Vorrei alcune informazioni.}
 {132}{}{Per oggi niente, grazie.}
 {133}{}{Si', "awnt-awnt" anche a te. Aspetta qui un secondo mentre io chiamo le guardie per farti "awnt-awntare" fino al cancello.}
 {134}{}{Urnt? Urnt-urnt.}
 {135}{}{-Allontanati-}
-{136}{}{"Una sete del demonio"? Che espressione... rozza.}
+{136}{}{"Alla spina"? Che espressione... pittoresca.}
 {137}{}{Abbiamo acqua minerale, acqua distillata e acqua frizzante. Abbiamo anche diverse qualita' di alcolici sintetici.}
 {138}{}{Um... che tipo di alcolici sintetici avete?}
 {139}{}{Uh, non avete degli alcolici veri?}
@@ -51,7 +51,7 @@
 {150}{}{Come non detto. Vorrei alcune informazioni.}
 {151}{}{E' un po' troppo caro per me. Tornero' quando avro' qualche soldo in piu'.}
 {152}{}{Credo che non prendero' nulla, grazie.}
-{153}{}{Abbiamo i derivati sintetici H e T. Da poco e' disponibile una miscela gia' molto popolare, la "Alcol-Z", che ha un forte pseudo-sapore di pseudo-luppolo lasciato a fermentare pseudo-naturalmente. Ognuno di questi alcolici sintetici lo vendiamo a venti dollari la pinta.}
+{153}{}{Abbiamo i derivati sintetici H e T. Da poco e' disponibile una miscela gia' molto popolare, la "Alcol-Z", che ha un forte pseudo-sapore di pseudo-luppolo lasciato a fermentare pseudo-naturalmente. Ognuno di questi alcolici sintetici lo vendiamo a venti dollari il bicchiere.}
 {154}{}{Come producete questi alcolici sintetici?}
 {155}{}{Uh, non avete degli alcolici veri?}
 {156}{}{Credo che prendero' solo un po' d'acqua.}
@@ -60,7 +60,7 @@
 {159}{}{E' un po' troppo caro per me. Tornero' quando avro' qualche soldo in piu'.}
 {160}{}{Per oggi niente, grazie.}
 {161}{}{Desidera qualcos'altro?}
-{162}{}{Vorrei dell'acqua, grazie.}
+{162}{}{Vorrei dell'altra acqua, grazie.}
 {163}{}{Che tipo di alcolici sintetici avete?}
 {164}{}{Come non detto. Vorrei alcune informazioni.}
 {165}{}{Per oggi niente, grazie.}
@@ -80,12 +80,12 @@
 {179}{}{Oh. Beh, allora prendero' un po' d'acqua.}
 {180}{}{Hmmm. Provero' ad assaggiare questa Alcol-Z.}
 {181}{}{Interessante. Senti, vorrei alcune informazioni...}
-{182}{}{Capisco. Grazie per le informazioni. Ci vediamo.}
+{182}{}{Capisco. Grazie per le informazioni. Arrivederci.}
 {183}{}{Sono stato il Servo del Dr. Troy per alcuni mesi, prima di essere assegnato qui. Per servirlo adeguatamente mi era richiesto un minimo di "know-how" informatico per accedere al database medico di Vault City.}
 {184}{}{"Knock-out"? E per accedere al database dovevi mettere al tappeto il computer?}
 {185}{}{Database medico?}
 {186}{}{Interessante. Senti, vorrei alcune informazioni...}
-{187}{}{Capisco. Grazie per le informazioni. Ci vediamo.}
+{187}{}{Capisco. Grazie per le informazioni. Arrivederci.}
 {188}{}{Er... "know-how" significa "le cognizioni tecniche".}
 {189}{}{Huh. Beh, se credi di riuscire a confondermi con questi paroloni, ti sbagli. Cos'e' che dicevi a proposito del database medico?}
 {190}{}{Vorrei delle altre informazioni...}
@@ -96,9 +96,9 @@
 {195}{}{Hmmmm. Magari andro' a darci un'occhiata.}
 {196}{}{Uh, no. Per "gergo" s'intende il linguaggio, la terminologia, di solito riferiti ad una professione particolare.}
 {197}{}{Uh, certo, certo. Volevo solo vedere se eri attento. Senti, vorrei alcune informazioni...}
-{198}{}{Se lo dici tu. A me basta solo che questo tipo, Gergo, mi permetta di usare i computer, okay? Arrivederci.}
+{198}{}{Se lo dici tu. Fai solo sapere a questo tizio, Gergo, che vorrei parlargli, okay? Arrivederci.}
 {199}{}{Se sta parlando di quello che nelle Lande spacciano per alcol, allora no.}
-{200}{}{Non abbiamo mai sentito il bisogno di avvelenare il nostro organismo con quei miscugli pieni di batteri. Forse il bar nel Cortile e' meno... discriminante.}
+{200}{}{Non abbiamo mai sentito il bisogno di avvelenare il nostro organismo con quei miscugli pieni di batteri. Forse il bar nel Cortile e' meno... esigente.}
 {201}{}{Prendero' solo un po' d'acqua, allora.}
 {202}{}{Aspetta un secondo. Che tipo di "alcolici sintetici" avete?}
 {203}{}{Vorrei alcune informazioni.}
@@ -121,20 +121,20 @@
 {220}{}{Puoi dirmi due parole riguardo alla pratica della schiavitu' qui a Vault City?}
 {221}{}{Lascia perdere. Volevo da bere. Cosa hai alla spina?}
 {222}{}{Interessante. Grazie delle informazioni. Arrivederci.}
-{223}{}{Si', esiste anche un Consiglio cittadino di Vault City. Il suo portavoce e' il Senatore McClure. (Si avvicina) McClure e il Primo Cittadino si sono scontrati parecchie volte, infatti.}
+{223}{}{Si', esiste anche un Consiglio cittadino di Vault City. Il suo portavoce e' il Consigliere Anziano McClure. (Si sporge verso di te.) McClure e il Primo Cittadino si sono scontrati parecchie volte, infatti.}
 {224}{}{Davvero...?}
 {225}{}{Puoi dirmi due parole riguardo alla pratica della schiavitu' qui a Vault City?}
 {226}{}{Lascia perdere. Volevo da bere. Cosa hai alla spina?}
 {227}{}{Interessante. Grazie delle informazioni. Arrivederci.}
 {228}{}{Oh, si'. Ultimamente, alcuni Cittadini hanno chiesto a McClure e al Consiglio di annullare alcune delle decisioni del Primo Cittadino. E lasci che glielo dica, la cosa ha creato un bel po' di scalpore.}
 {229}{}{Hmmm. Mi piacerebbe sapere qualcos'altro...}
-{230}{}{Capisco. Beh, potrei usare un drink. Cosa hai alla spina?}
+{230}{}{Capisco. Beh, berrei volentieri qualcosa. Cosa hai alla spina?}
 {231}{}{Interessante. Grazie delle informazioni. Arrivederci.}
 {232}{}{Oh, no, no... non e' schiavitu'. Le persone che vede lavorare qui a Vault City sono servi... me incluso. Ci trattano molto bene, ci hanno insegnato a leggere e a scrivere, ci forniscono assistenza medica, un tetto e il cibo.}
 {233}{}{Avete tutto tranne la liberta', eh?}
 {234}{}{Se non avete nulla di cui lamentarvi, allora il problema non sussiste. Come non detto.}
 {235}{}{Lascia perdere. Volevo da bere. Cosa hai alla spina?}
-{236}{}{Capisco. Beh, grazie per aver parlato con me. Addio.}
+{236}{}{Capisco. Beh, grazie per aver parlato con me. Arrivederci.}
 {237}{}{Se non vuole ordinare qualcosa da bere, forse farebbe meglio ad andarsene, signora.}
 {238}{}{Se non vuole ordinare qualcosa da bere, forse farebbe meglio ad andarsene, signore.}
 {239}{}{Se non vi lamentate della vostra condizione di... servi, allora il problema non sussiste. Come non detto.}

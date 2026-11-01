@@ -1,9 +1,9 @@
 {100}{}{Vedi una guardia dall'aspetto severo.}
 {101}{}{Vedi una guardia di Vault City dall'aspetto truce.}
 {102}{}{Continua a farti gli affari tuoi.}
-{103}{}{Credo sia quasi ora che tu te ne vada.}
+{103}{}{Credo sia ora che tu te ne vada.}
 {104}{}{Non mi piace la tua faccia.}
-{105}{}{Sta' attento.}
+{105}{}{Occhio a come ti comporti.}
 {106}{}{Salve, Cittadina.}
 {107}{}{E' bello vederla, Cittadina.}
 {108}{}{Giornata piena, Cittadina?}

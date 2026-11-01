@@ -1,7 +1,7 @@
 {100}{}{Vedi una grossa cassaforte di ferro nera.}
 {101}{}{Vedi una cosa quadrata e nera con un grosso naso.}
 {200}{}{Vedi una grossa cosa di metallo nera e quadrata, con un naso sul davanti.}
-{201}{}{Vedi una grossa cassaforte di ferro nera che sembra assolutamente troppo pesante da spostare. Sul davanti c'e' una manopola numerata per inserire la combinazione.}
+{201}{}{Vedi una grossa cassaforte di ferro nera che sembra decisamente troppo pesante da spostare. Sul davanti c'e' una manopola numerata per inserire la combinazione.}
 {202}{}{Ciao scatola, me }
 {203}{}{ Chi tu?}
 {204}{}{Gira il suo naso}
@@ -35,13 +35,13 @@
 {279}{}{Esamina nuovamente la cassaforte in cerca di trappole.}
 {280}{}{Lascia stare la cassaforte.}
 {290}{}{Stai girando il naso... quando improvvisamente si sente un KER-KLANK. La cassaforte adesso e' aperta!}
-{291}{}{Stai girando la manopola a caso, quando improvvisamente la manopola prende un numero... si sente un KER-KLANK. La cassaforte adesso e' aperta!}
+{291}{}{Stai girando la manopola a caso, quando improvvisamente la manopola scatta su un numero... si sente un KER-KLANK. La cassaforte adesso e' aperta!}
 {292}{}{Ehila'? Ehilaaa'? C'e' nessuno in casa?}
 {293}{}{Quando il gioco si fa duro, i duri cominciano a giocare...}
-{294}{}{Yeah, *io* ho proprio il tocco magico...}
+{294}{}{Eh si', ho proprio il tocco magico...}
 {305}{}{Giri la manopola, ma il piccolo sportello non si apre!}
 {306}{}{Giri la manopola per diversi minuti, ma non succede nulla.}
-{307}{}{Ehilaaa? Ehila', scatola…?}
+{307}{}{Ehilaaa? Ehila', scatola...?}
 {308}{}{Continua a girare il naso.}
 {309}{}{-Allontanati-}
 {310}{}{Hmmmm. Forse i numeri su queste tre piastrine possono aprire la cassaforte...}
@@ -55,8 +55,8 @@
 {324}{}{ Chi tu?}
 {325}{}{Gira il suo naso}
 {326}{}{-Allontanati-}
-{340}{}{Con precisione chirurgica, disarmi la spoletta e togli la dinamite da sotto la terra. Adesso la trappola e' disattivata.}
-{341}{}{Ora, per aprire questa cassaforte...}
+{340}{}{Con precisione chirurgica, disinneschi il detonatore e tiri fuori la dinamite da sotto terra. Adesso la trappola e' disattivata.}
+{341}{}{Ora, apriamo questa cassaforte...}
 {342}{}{Lascia stare la cassaforte.}
 {343}{}{Non hai tempo per occuparti della cassaforte mentre stai combattendo.}
 {344}{}{Hai scassinato la cassaforte dei predoni.}

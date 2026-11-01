@@ -10,4 +10,4 @@
 {109}{}{Ok.}
 {110}{}{Ciao... e arrivederci.}
 {111}{}{Grazie per tutto quello che hai fatto. Mi scuso per la freddezza di prima.}
-{112}{}{Fottiti, stronzo!}
+{112}{}{Fottiti, stronza!}

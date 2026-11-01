@@ -1,4 +1,4 @@
-{100}{}{Vedi un ragazzino.}
+{100}{}{Vedi un bambino.}
 {101}{}{Vedi il piccolo Bobby.}
 {102}{}{Indossa vestiti sporchi e ha lividi sul collo e sul viso.}
 {103}{}{Indossa dei vestiti nuovi e ha un sorriso in faccia.}
@@ -11,17 +11,17 @@
 {109}{}{Ah! Picchierei anche mio figlio se non mi ascoltasse. Tuo padre sembra un brav'uomo.}
 {110}{}{[Gli si illuminano gli occhi.] Non sei come gli altri che passano di qui. Mi piaci. [Sospira forte.]
  Vorrei che mio papa' fosse piu' come te. A volte penso di scappare. Alcuni miei amici non hanno una casa, e dicono
- che non e' poi cosi' male. Finche' portano abbastanza cose a Mr. Flick, possono mangiare una volta al giorno. Ma Mr. Flick non sembra molto
+ che non e' poi cosi' male. Finche' portano abbastanza cose al signor Flick, possono mangiare una volta al giorno. Ma il signor Flick non sembra molto
  gentile nemmeno lui -- anzi, sembra proprio come mio papa'.}
 {111}{}{Sei cattivo! Vai via. Non mi piaci.}
 {112}{}{Ci deve essere qualcosa che si puo' fare. Ti viene in mente qualche adulto in questa citta' disposto a
  occuparsi di te -- o di questi bambini senzatetto?}
-{113}{}{[Bobby scrolla le spalle.] Forse Mom? Non intendo *mia* mamma -- la mia e' morta -- ma c'e' una signora che tutti chiamano Mom. Non so perche'.
+{113}{}{[Bobby scrolla le spalle.] Forse Mama? Non intendo *mia* mamma -- la mia e' morta -- ma c'e' una signora che tutti chiamano Mama. Non so perche'.
  Forse perche' e' molto gentile? Ha una tavola calda dall'altra parte della citta'. [Indica a nord-est.] I miei amici senzatetto vanno
  li' e lei gli passa del cibo gratis di nascosto. Vorrei che papa' mi portasse li', perche' lei sa rendere il ratto davvero buono!}
-{114}{}{Hmm, ho *un po'* di fame. Forse andro' a fare visita a Mom. Stammi bene, Bobby.}
+{114}{}{Hmm, ho *un po'* di fame. Forse andro' a fare visita a Mama. Stammi bene, Bobby.}
 {115}{}{Sei proprio un moccioso. Meglio che me ne vada prima di riempirti di botte. Ciao.}
-{116}{}{Indovina, Bobby? Ho parlato con Mom, e aprira' una bella casa grande dove tu e tutti i tuoi amici senzatetto
+{116}{}{Indovina, Bobby? Ho parlato con Mama, e aprira' una bella casa grande dove tu e tutti i tuoi amici senzatetto
  potrete andare a vivere insieme. Sara' nel grande edificio proprio dall'altra parte della strada.
  Ha detto che sara' tutto pronto in un paio di giorni.}
 {117}{}{[Un enorme sorriso illumina il volto del ragazzo.] Davvero? Fantastico! [Ti abbraccia.] Non vedo l'ora di vivere li' con tutti i miei
@@ -29,11 +29,11 @@
 {118}{}{[Un enorme sorriso illumina il volto del ragazzo.] Davvero? Fantastico! [Ti abbraccia.] Non vedo l'ora di vivere li' con tutti i miei
  amici! Sono cosi' felice! Grazie ancora signora, sei la migliore!}
 {119}{}{Di niente, ragazzo. Ci vediamo.}
-{120}{}{Ciao di nuovo! Hai parlato con la signora Mom?}
+{120}{}{Ciao di nuovo! Hai parlato con la signora Mama?}
 {121}{}{Non preoccuparti, Bobby, ci sto lavorando.}
 {122}{}{Aiuti Bobby a trovare una vita migliore.}
-{123}{}{Ciao di nuovo! Grazie di tutto. Adoro questo nuovo posto. Mom e' davvero una grande donna!}
-{124}{}{Adoro questo nuovo posto. Mom e' davvero una grande donna!}
+{123}{}{Ciao di nuovo! Grazie di tutto. Adoro questo nuovo posto. Mama e' davvero una grande donna!}
+{124}{}{Adoro questo nuovo posto. Mama e' davvero una grande donna!}
 {125}{}{Sono cosi' emozionato! E' ora di preparare le mie cose.}
 {126}{}{Mi chiedo se papa' si accorgera' che sono sparito.}
 {127}{}{Andra' molto meglio cosi'.}

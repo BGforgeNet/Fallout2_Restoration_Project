@@ -1,6 +1,6 @@
-{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto alla tuta dell'Abitante del Vault, ma non c'e' nessun numero sulla schiena.}
 {101}{}{Vedi Holden, Vice-Addetto all'Emporio.}
-{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto alla tuta dell'Abitante del Vault, ma non c'e' nessun numero sulla schiena.}
 {103}{}{::applaude::}
 {104}{}{E' l'eroe! Guardate!}
 {105}{}{Santo cielo! E' l'eroe, qui, a Vault City!}
@@ -13,8 +13,8 @@
 {112}{}{Vediamo un po'... tre stimpak, una scatola di Rad-X...}
 {113}{}{Devo ancora finire di compilare quell'inventario per il Responsabile Randal.}
 {114}{}{Vediamo un po': devo controllare le scorte, compilare l'inventario, controllare la lista e poi inserire la lista nel sistema...}
-{115}{}{Devo ricordare di procurarmi qualche altro kit di pronto soccorso...}
-{119}{}{Mi dispiace, ma di sera il Distaccamento B dell'Emporio e' chiuso.}
+{115}{}{Devo ricordarmi di procurarmi qualche altro kit di pronto soccorso...}
+{119}{}{Mi dispiace, ma il Distaccamento B dell'Emporio e' chiuso per stasera.}
 {120}{}{Per favore, tornate in mattinata. Grazie.}
 {121}{}{In questo momento sto facendo l'inventario. Apriremo domattina.}
 {122}{}{Posso aiutarla, Capitano?}
@@ -40,7 +40,7 @@
 {142}{}{Posso vedere quello che hai da vendere?}
 {143}{}{No, e' questo il posto che stavo cercando. Posso vedere la vostra merce?}
 {144}{}{Per oggi niente, grazie.}
-{145}{}{Forse e' cosi'. Addio.}
+{145}{}{Forse e' cosi'. Arrivederci.}
 {150}{}{Questo? Beh, questo e' il Distaccamento B dell'Emporio, che si occupa del deposito e della distribuzione all'interno di Vault City del materiale farmaceutico. Io sono Holden, Vice-Addetto all'Emporio. Come posso aiutarla oggi, Capitano?}
 {151}{}{Ehi! Sta' lontano da li'!}
 {152}{}{Adesso basta! Fuori di qui!}

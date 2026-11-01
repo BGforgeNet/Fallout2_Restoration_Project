@@ -6,7 +6,7 @@
 {105}{}{Uh... okay.}
 {106}{}{Uh, Quincy volere te vedere. Lui detto me dire te.}
 {107}{}{Il dottore vuole riparare il suo cane. Mi ha mandato a prendere il pezzo che gli serve.}
-{108}{}{D'accordo. Addio.}
+{108}{}{D'accordo. Ciao.}
 {109}{}{Raul, Quincy vuole vederti.}
 {110}{}{Quincy, eh? Bueno, Raul no tiene voglia de vederlo, amigo. Raul es stanco 
  de esta mierda, lo sai?}
@@ -36,8 +36,8 @@ Perche' Quincy non capisce UN CAZZO, amico, ecco perche'!}
 {132}{}{E allora no trafficar co los uccelli de Raul, amigo! Vattene da aqui'!}
 {133}{}{Okay.}
 {134}{}{Raul pensa que sei loco a girar senza uniforme.}
-{135}{}{Ehi, amigo, se el senor sergente ti becca senza armatura, te fa un culo grosso cosi'.}
-{136}{}{Porque' sei senza armatura, amigo?}
+{135}{}{Ehi, amigo, se el senor sergente ti becca senza uniforme, te fa un culo grosso cosi'.}
+{136}{}{Porque' sei senza uniforme, amigo?}
 {137}{}{Merda! Ci stanno invadendo! Allarme!}
 {138}{}{Intrusi! Qualcuno chiami le guardie!}
 {139}{}{Guardie! Intrusi nell'hangar!}

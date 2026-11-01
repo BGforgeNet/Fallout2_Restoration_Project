@@ -7,6 +7,6 @@
 {106}{}{E' ora di guardare da qualche altra parte.}
 {107}{}{Va' ad arruolarti in marina.}
 {108}{}{Dannazione!}
-{109}{}{Whoa! Guarda che ore sono, devo andare!}
+{109}{}{Accidenti! Guarda che ore sono, devo andare!}
 {110}{}{Recluta.}
 {111}{}{Sergente.}

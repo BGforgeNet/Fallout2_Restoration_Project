@@ -9,7 +9,7 @@
 {201}{}{Cerchi guai?}
 {202}{}{Vieni qua, femminuccia.}
 {203}{}{Non farmi venire li' a romperti il culo.}
-{204}{}{Stai dicendo a me?}
+{204}{}{Dici a me?}
 {205}{}{Ne vuoi ancora?}
 {206}{}{Ehi baby, vieni qui.}
 {207}{}{Ehi, ti piace cio' che vedi?}
