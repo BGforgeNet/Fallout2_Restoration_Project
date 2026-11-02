@@ -15,9 +15,9 @@
 {162}{}{.}
 {163}{}{Metzger e' ancora piuttosto arrabbiato con me, sebbene io abbia riparato la sua dannata ricetrasmittente. Minaccia di vendermi! Faro' tutto quello che mi chiedi se riuscirai a tirarmi fuori da questo casino.}
 {164}{}{OK, lo faro'.}
-{165}{}{Mi spiace, non posso. Addio.}
+{165}{}{Mi spiace, non posso. Ciao.}
 {166}{}{Whoo.}
-{167}{}{Oh, ci rivediamo. Questa dannata ricetrasmittente non puo' essere riparata senza pezzi di ricambio. Come pensa che possa metterla a posto in queste condizioni?}
+{167}{}{Oh, rieccoti. Questa dannata ricetrasmittente non si riparera' da sola. Come pensa che possa metterla a posto?}
 {168}{}{Dove posso trovare i pezzi che ti servono?}
 {169}{}{Forse posso ripararla io.}
 {170}{}{Puoi usare questa ricetrasmittente che ho trovato?}
@@ -30,18 +30,18 @@
 {177}{}{Splendido! Riparero' questa ricetrasmittente in un batter d'occhio.}
 {178}{}{Okay, parlero' con Metzger.}
 {179}{}{Grazie.}
-{180}{}{Addio.}
+{180}{}{Ciao.}
 {181}{}{Come? Scusa, ma non riesco a capirti.}
 {182}{}{hurm.}
 {183}{}{Grazie! Ti saro' per sempre debitore. Cosa posso fare per ripagarti?}
 {184}{}{Dimmi dove si trova il Vault 13.}
 {186}{}{Vieni con me, mi farebbe comodo una mano.}
-{187}{}{Non e' nulla. Addio.}
+{187}{}{Non e' nulla. Arrivederci.}
 {188}{}{Dolcetto?}
 {189}{}{Vault 13? C'e' una Vault City a est di qui. A volte vado a vendere della roba, laggiu'.}
 {190}{}{Vuoi venirci con me?}
 {191}{}{Grazie. Ciao.}
-{192}{}{Certo, mi uniro' a te! Questo vecchio stupido puo' ancora affrontare una grande avventura. Ne sono certo! E sono anche discretamente bravo a riparare le cose, a dispetto di quello che dice Metzger.}
+{192}{}{Certo, mi uniro' a te! Questo vecchio bacucco puo' ancora affrontare una grande avventura. Ne sono certo! E sono anche discretamente bravo a riparare le cose, a dispetto di quello che dice Metzger.}
 {193}{}{Ottimo, andiamo.}
 {194}{}{Benvenuto a bordo.}
 {195}{}{Vabbe'.}
@@ -58,7 +58,7 @@
 {303}{}{Arrangiati, allora.}
 {304}{}{Okay, vedro' di fare quel che posso.}
 {350}{}{Pensi di potermi aiutare?}
-{351}{}{Metzger non mi permettera' di andarmene.}
+{351}{}{Metzger ancora non mi lascia andare.}
 {352}{}{Non resistero' ancora a lungo.}
 {353}{}{Faro' qualsiasi cosa per te se mi aiuti.}
 {354}{}{Vedrai che sapro' ripagare tutte le spese che potresti sostenere!}
@@ -66,7 +66,7 @@
 {450}{}{Dove hai preso questa fiaschetta?}
 {451}{}{Avevo una fiaschetta con su disegnato un grande 13 giallo. Ti ricordi dove l'hai presa?}
 {500}{}{Oh, certo. Me lo ricordo. L'ho comprata da Ed. E' un venditore di brahmin giu' a Vault City.}
-{501}{}{Fiaschetta? Oh, aspetta. Si', ne avevo un paio di dozzine. Sono riuscito a piazzarle bene. L'ho comprata da Ed. Un venditore di brahmin giu' a Vault City.}
+{501}{}{Fiaschetta? Oh, aspetta. Si', ne avevo un paio di dozzine. Sono riuscito a piazzarle bene. Le ho comprate da Ed. Un venditore di brahmin giu' a Vault City.}
 {502}{}{Vault City?}
 {550}{}{Potresti smetterla di chiamarmi boss?}
 {600}{}{Certamente, capo!}
@@ -79,15 +79,15 @@
 {750}{}{Wow! Faresti questo per me? Farei qualsiasi cosa se tu mi tirassi fuori da 'sto casino. L'unico problema e' che Metzger mi terra' chiuso qui dentro finche' non riusciro' a riparare questa ricetrasmittente... e non ho i pezzi che mi servono.}
 {753}{}{Dove posso recuperare i pezzi che ti servono?}
 {754}{}{Vedro' di fare il possibile.}
-{760}{}{E' una lunga storia. Credo si possa dire che Metzger mi terra' qui finche' non avro' riparato questa dannata ricetrasmittente. Lo schermo e' andato e non ho pezzi di ricambio. Come crede possa ripararla?}
+{760}{}{E' una lunga storia. Credo si possa dire che Metzger mi terra' qui finche' non avro' riparato questa dannata ricetrasmittente. Il cristallo e' andato e non ho pezzi di ricambio. Come crede possa ripararla?}
 {761}{}{Beh, sono qui per liberarti.}
 {764}{}{Non saprei. Ci si vede.}
 {800}{}{Devo riuscire a riparare questa ricetrasmittente. Se mi aiuti a farlo, forse potremo ragionare con lui.}
-{801}{}{Come posso aiutarti?}
+{801}{}{Come posso aiutarla?}
 {803}{}{Ne dubito. Buona fortuna.}
-{810}{}{Perche' hai ucciso Mama...? Immagino tu abbia avuto le tue ragioni... Scusami, Boss. Non e' compito mio criticarti. Questa e' una citta' piuttosto cattiva. Sicuramente Mama avra' fatto qualcosa di male.}
-{811}{}{Ehi, Boss. Grazie per avermi tirato fuori da quel casino con Metzger. Ti serve qualcosa? Mama e' stata cosi' gentile da sfamarmi mentre tu eri via. La aiuto con il locale....}
-{812}{}{Addio.}
+{810}{}{Perche' hai ucciso Mama...? Immagino tu abbia avuto le tue ragioni... Scusami, Boss. Non e' compito mio criticarti. Questa citta' e' un brutto posto. Sicuramente Mama avra' fatto qualcosa di male.}
+{811}{}{Ehi, Boss. Grazie per avermi tirato fuori da quel casino con Metzger. Ti serve qualcosa? Mama e' stata cosi' gentile da sfamarmi mentre tu eri via. La aiuto con il locale...}
+{812}{}{Ciao.}
 {813}{}{Oooh.}
 {814}{}{Caioe}
 {823}{}{Dove si trovava il tuo amico Ed?}
@@ -97,18 +97,18 @@
 {833}{}{Mi dispiace, Boss. Credo proprio che siate gia' in troppi. Adesso che Mama e' morta credo che me ne andro' da qualche altra parte. Non so dove... forse ci incontreremo ancora. Grazie per tutto quello che hai fatto per me.}
 {834}{}{Credo che siate un po' in troppi, Boss. Ti aspettero' qui finche' non avrai fatto quel che devi. I piatti di Mama mi ricordano la mia ex-moglie... non so se questa sia una buona o una cattiva cosa...}
 {835}{}{Mi piacerebbe, davvero, Boss. E' solo che non mi pare tu abbia molto spazio per me. Me ne andro' da Mama. E' da un po' che non ci vado. Vieni a prendermi se trovi un po' di posto per me.}
-{840}{}{Ed vive giu' a Vault City. E' un venditore di Brahmin. E' solo uno dei miei molti fornitori. Vault City non e' molto distante da qui.}
-{845}{}{Te l'ho detto, e' qui. [Vic indica un punto sul tuo PIPBoy2000.]}
+{840}{}{Ed vive giu' a Vault City. E' un venditore di brahmin. E' solo uno dei miei molti fornitori. Vault City non e' molto distante da qui.}
+{845}{}{Te l'ho detto, e' qui. [Vic indica un punto sul tuo Pip-Boy 2000.]}
 {900}{}{Hai scoperto degli elementi sul passato da mercante di Vic.}
 {1000}{}{Devo chiederti una cosa.}
 {1100}{}{Completamente a posto, Boss. Qualcos'altro?}
 {1200}{}{Quasi in perfette condizioni, Boss.}
 {1300}{}{Sono quasi a posto, Boss, ma sono stato meglio.}
-{1400}{}{Ci ho provato, Boss, ma non ci riesco molto bene. Faro' quello che posso.}
+{1400}{}{Ci ho provato, Boss, ma non sto molto bene. Faro' quello che posso.}
 {1500}{}{Come vuoi, Boss.}
 {1501}{}{Qui? Proprio qui? Okay, sei tu il capo.}
 {1502}{}{D'accordo. Rimarro' qui finche' non torni, Boss. Tornerai, vero?}
-{1503}{}{Per quanto tempo desideri. Non andro' da nessuna parte.}
+{1503}{}{Per tutto il tempo che vuoi. Non andro' da nessuna parte.}
 {1504}{}{Certamente, Boss.}
 {1600}{}{Se lo dici tu.}
 {1601}{}{Buona idea, Boss.}
@@ -155,7 +155,7 @@
 {2310}{}{Dovrebbe essere qui attorno, da qualche parte.}
 {2311}{}{A Vault City. Controlla quella tua strana mappa.}
 {2403}{}{Dove l'hai presa la fiaschetta del Vault 13?}
-{2404}{}{Nulla.}
+{2404}{}{Lascia perdere.}
 {2500}{}{Certo, Boss.}
 {2501}{}{Chiedimi qualsiasi cosa, Boss.}
 {2502}{}{Ti aiutero' come posso, Boss.}
@@ -174,7 +174,7 @@
 {2800}{}{Ehi, Boss. Vuoi che mi unisca a te, adesso?}
 {2801}{}{Ehi, Boss. Non mi da' fastidio aspettarti. Sono un uomo molto paziente.}
 {2802}{}{Torniamo a far squadra insieme, Boss? Mi impegnero' di piu'.}
-{2803}{}{Temevo che saresti piu' tornato. Ti assicuro che sono molto felice di rivederti, Boss.}
+{2803}{}{Temevo che non saresti piu' tornato. Ti assicuro che sono molto felice di rivederti, Boss.}
 {2804}{}{Cerchi di nuovo compagnia?}
 {2805}{}{Sono pronto ad andare, Boss.}
 {2806}{}{Lo sapevo che non mi avresti abbandonato.}
@@ -191,7 +191,7 @@
 {3200}{}{Beh, Boss... Sono abbastanza bravo con le armi di piccolo taglio. Posso maneggiare praticamente ogni tipo di fucile, anche quelli a pompa, e praticamente tutte le pistole medio-piccole. "So" usare i coltelli. Ho anche un bel braccio robusto, adatto per lanciare, ma la mia mira non e' la migliore del mondo... in realta', e' discretamente orribile. Mi spiace, Boss. Sto cercando di migliorare.}
 {3201}{}{Come ti ho gia' detto, Boss, preferisco le armi di piccolo taglio. Posso maneggiare praticamente ogni tipo di fucile, anche quelli a pompa, e praticamente tutte le pistole medio-piccole. In caso di bisogno estremo posso provare ad usare un coltello o addirittura armi da lancio.}
 {3300}{}{"So" usare i coltelli e ho anche un bel braccio robusto, adatto per lanciare, ma la mia mira non e' la migliore del mondo... in realta' e' discretamente orribile. Mi spiace, Boss. Sto cercando di migliorare.}
-{3301}{}{Come ti ho gia' detto, Boss. Coltelli. Ho anche un braccio robusto, per lanciare... Ma ho ancora tanto da imparare.}
+{3301}{}{Come ti ho gia' detto, Boss. Coltelli. Ho anche un braccio robusto, per lanciare... E' solo che manco spesso il bersaglio.}
 {3400}{}{Ne ho fin sopra i capelli!}
 {3401}{}{Ti stacchero' quella dannata testa dal collo! Nessuno puo' far del male alla mia famiglia!}
 {4000}{}{Qua?}
@@ -215,7 +215,7 @@
 {4104}{}{Ahi.}
 {4105}{}{Dannazione.}
 {4106}{}{Un dottore?}
-{4107}{}{Mi sto trascinando... a fatica.}
+{4107}{}{Resisto... a fatica.}
 {4200}{}{Non mi e' mai piaciuto questo posto.}
 {4201}{}{Perche' questo posto e' cosi' pulito?}
 {4202}{}{Non senti anche tu uno strano odore, Boss?}
@@ -246,7 +246,7 @@
 {4509}{}{Non c'e' niente da riparare da queste parti?}
 {4510}{}{Eccomi qua... in attesa del Boss.}
 {4511}{}{Un uomo vecchio come me... starsene qui in attesa, a sprecare i suoi talenti.}
-{4512}{}{Avrei tanto voluto un pacchetto di cicche... saranno decenni...}
+{4512}{}{Darei qualsiasi cosa per una gomma da masticare... sono passati decenni...}
 {4513}{}{Dovrei abbandonare il mercato dell'antiquariato... non porta altro che guai.}
 {4514}{}{Chissa' perche' l'attesa e' cosi' snervante?}
 {4600}{}{Uh, grazie, Boss.}
@@ -260,11 +260,11 @@
 {4702}{}{Boss, la mia testa non esplodera', vero?}
 {4703}{}{Boss, credo che quella roba inizi a piacermi.}
 {4704}{}{Mi sento un po' strano, Boss.}
-{4705}{}{Ne hai davvero tanta da offrire.}
+{4705}{}{Ne hai davvero abbastanza da darmene?}
 {4706}{}{Certo, Boss. Ne prendo un po'.}
 {4707}{}{Grazie, Boss.}
 {4708}{}{Non male.}
-{5000}{}{Ho un po' di fame adesso. Parleremo di nuovo da Mom.}
+{5000}{}{Ho un po' di fame adesso. Parleremo di nuovo da Mama.}
 {5500}{}{Credo di avere un arto rotto, Boss. Faresti meglio a dare un'occhiata.}
 {5501}{}{Credo di avere la febbre, Boss. Faresti meglio a dare un'occhiata.}
 {5502}{}{Credo di essere stato avvelenato, Boss. Faresti meglio a dare un'occhiata.}

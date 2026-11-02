@@ -1,6 +1,6 @@
 {100}{}{Vedi un computer funzionante.}
 {101}{}{Vedi il Terminale Ricerca e Sviluppo Top Secret dell'EPA.}
-{102}{}{Benvenuto nel Terminale Top Secret di Ricerca e Sviluppo dell'EPA. Errore nell'inizializzazione della procedura di accesso rapido. Per favore,
+{102}{}{Benvenuti nel Terminale Top Secret di Ricerca e Sviluppo dell'EPA. Errore nell'inizializzazione della procedura di accesso rapido. Per favore,
  cerca qualcosa di specifico.}
 {103}{}{Cerca qualcosa di importante.}
 {104}{}{Esci.}
@@ -17,7 +17,7 @@
  aumento'.}
 {111}{}{[AVANTI]}
 {112}{}{Vedendone il potenziale, l'Esercito requisito' rapidamente il progetto e lo rinomino' FEV: Forced Evolutionary Virus.
- Non soddisfatti della sola immunita' alle malattie, il FEV avrebbe potuto trasformare i soldati in "superuomini"
+ Non ci si accontentava piu' della sola immunita' alle malattie: il FEV avrebbe potuto trasformare i soldati in "superuomini"
  anormalmente forti e intelligenti. Una volta conclusi i test sugli animali, la ricerca sul FEV venne trasferita nella sua sede attuale,
  la Base Militare di Mariposa. Li', abbiamo appreso che i test passeranno al livello successivo, iniziando esperimenti top
  secret sui prigionieri militari. Attendiamo con entusiasmo i risultati di questi esperimenti.}
@@ -35,7 +35,7 @@
 {134}{}{Dopo una lunga e faticosa ricerca, trovi un file nascosto.}
 {135}{}{Accedi al file etichettato: Progetto di Fluorizzazione di Massa.}
 {136}{}{Nell'ulteriore tentativo di rendere i cittadini degli Stati Uniti piu' controllabili, l'inclusione di fluoruro
- di sodio in tutta l'acqua potabile disponibile e' immediatamente effettiva. Gli effetti a lungo termine nei test hanno mostrato
+ di sodio in tutta l'acqua potabile disponibile entra in vigore con effetto immediato. Gli effetti a lungo termine nei test hanno mostrato
  che i soggetti diventavano piu' "stupidi e docili". Inoltre, e' stato osservato che il fluoruro di sodio causava lievi danni
  a una specifica parte del cervello, rendendo piu' difficile per la persona difendere la propria liberta' e portandola
  a diventare piu' docile verso l'autorita'.}

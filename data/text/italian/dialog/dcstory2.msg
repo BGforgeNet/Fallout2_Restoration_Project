@@ -2,7 +2,7 @@
 {101}{}{Vedi Stacy.}
 {102}{}{Sembra un po' triste.}
 {103}{}{Fermati!}
-{104}{}{Come puoi farci questo?}
+{104}{}{Come hai potuto?}
 {105}{}{Stammi lontano!}
 {106}{}{Perche'?}
 {107}{}{Ti prego, smettila!}
@@ -29,21 +29,21 @@
 {134}{}{Oh, non e' nulla, davvero. E' solo che a volte ripenso a mia madre e al mio gatto. Mi mancano moltissimo.}
 {135}{}{Gatto?}
 {136}{}{Mi dispiace. Ciao.}
-{137}{}{Si', la mia Cuddles. Era un gatto davvero dolce. Non me la sento di parlarne... Beh, a meno che tu non voglia offrirmi qualcosa da bere. Potrebbe aiutare...}
+{137}{}{Si', la mia Cuddles. Era una gatta davvero dolce. Non me la sento di parlarne... Beh, a meno che tu non voglia offrirmi qualcosa da bere. Potrebbe aiutare...}
 {138}{}{Come ti ho gia' detto, adesso preferirei non parlarne. Se pero' tu volessi offrirmi qualcosa da bere, mi si potrebbe sciogliere la lingua.}
 {139}{}{Lo faro' certamente. Vorrei tanto sentire la tua storia.}
-{140}{}{Bene.}
+{140}{}{Certo.}
 {141}{}{Mi spiace, adesso non posso permettermi di spendere 10$.}
 {142}{}{Ovviamente.}
-{143}{}{Credi di essere divertente? Datti un contegno.}
+{143}{}{Credi di essere divertente? Inventati qualcosa di meglio.}
 {144}{}{Allora: perche' quella faccia triste?}
 {145}{}{Vabbe', ciao.}
 {146}{}{Ho sentito dire che ce n'erano di grandi quanto me e te. E mangiavano animali grandi quanto un brahmin. Davvero spaventoso.}
-{147}{}{Per niente.}
+{147}{}{Non e' niente.}
 {148}{}{Si', davvero.}
 {149}{}{Il tipo del quale sto parlando io e' un animale piccolo e carino, piu' grande di un ratto ma piu' piccolo di un cane. Alcuni sono pelosi e soffici, come la mia Cuddles, ma altri hanno il pelo corto.}
 {150}{}{Davvero?}
-{151}{}{Sono degli animali domestici quasi come i cani, ma i gatti fanno un meraviglioso suono rilassante quando li accarezzi.}
+{151}{}{Amano farsi accarezzare come i cani, ma i gatti fanno un meraviglioso suono rilassante quando li accarezzi.}
 {152}{}{Che roba.}
 {153}{}{Di notte, Cuddles mi aiutava sempre ad addormentarmi. Penso a lei ogni notte, quando cerco di dormire.}
 {154}{}{Carino.}
@@ -60,5 +60,5 @@
 {165}{}{Mi dispiace.}
 {166}{}{Oh...}
 {167}{}{Divento triste quando ci penso...}
-{168}{}{Addio.}
-{169}{}{Stacy ti ha raccontato la dolce storia di Cuddles, il suo gatto.}
+{168}{}{Ciao.}
+{169}{}{Stacy ti ha raccontato la dolce storia di Cuddles, la sua gatta.}

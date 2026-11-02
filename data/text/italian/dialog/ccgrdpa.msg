@@ -6,7 +6,7 @@
 {105}{}{Perche' non sei al tuo posto, soldato? Non dovresti gironzolare da queste parti.}
 {106}{}{Sei senza uniforme.}
 {107}{}{Faresti meglio a presentarti dal Sergente e a vestirti.}
-{108}{}{Stai prendendo un grosso rischio a girare senza armatura. Faresti meglio a presentarti all'armeria.}
+{108}{}{Stai prendendo un grosso rischio a girare senza uniforme. Faresti meglio a presentarti all'armeria.}
 {109}{}{Chi diavolo...? Allarme! Intrusi!}
 {110}{}{Intrusi nel settore! Allarme!}
 {111}{}{Intrusi multipli! Suonate l'allarme!}
@@ -25,8 +25,8 @@
 {302}{}{Lo so.}
 {303}{}{Ah, scusa. Stavo solo dando un'occhiata. Me ne vado subito.}
 {304}{}{C'e' stato un cambio di programma. Questo lo prendo io.}
-{310}{}{Come? Oh, capisco. Guardare, ma non toccare. Okay? Toccalo un'altra volta e sei morto.}
-{311}{}{(Sorridi poi attacca.)}
+{310}{}{Come? Oh, capisco. Guarda pure, ma non toccare. Okay? Toccalo un'altra volta e sei morto.}
+{311}{}{(Sorridi, poi attacca.)}
 {312}{}{(Allontanati.)}
 {315}{}{Oh, merda! Abbiamo un intruso. Codice Rosso! Ripeto, Codice Rosso!}
 {316}{}{Davvero un'ottima idea. Tocca di nuovo il vertibird e ti pianto una pallottola in mezzo agli occhi.}
@@ -63,5 +63,5 @@ Uno di loro ti guarda due volte.] Che diavolo ci fai qui dietro? Non eri autoriz
 {440}{}{Non dirmi stronzate. Sei una delle nuove reclute, vero? Heh. Quella tua linguaccia ti mettera' nei guai, e non vedo l'ora di vederlo. Ora torna al tuo posto, soldato.}
 {450}{}{Signorsi', signore!}
 {451}{}{Si', signora!}
-{460}{}{[Il soldato guarda uno dei suoi compagni.] Mio Dio, il contatto con tutti quei mutanti e la radiazione deve averlo rincoglionito. Vedi? *Ecco* perche' non mi offro mai volontario per quelle missioni nella Landa. Comunque, togliamo questo idiota dalla sua miseria prima che ci contamini.}
-{461}{}{[Il soldato guarda uno dei suoi compagni.] Mio Dio, il contatto con tutti quei mutanti e la radiazione deve averla rincoglionita. Vedi? *Ecco* perche' non mi offro mai volontario per quelle missioni nella Landa. Comunque, togliamo questa idiota dalla sua miseria prima che ci contamini.}
+{460}{}{[Il soldato guarda uno dei suoi compagni.] Mio Dio, il contatto con tutti quei mutanti e la radiazione deve averlo rincoglionito. Vedi? *Ecco* perche' non mi offro mai volontario per quelle missioni nella Landa. Comunque, mettiamo fine alle sofferenze di questo stupido bastardo prima che ci contamini.}
+{461}{}{[Il soldato guarda uno dei suoi compagni.] Mio Dio, il contatto con tutti quei mutanti e la radiazione deve averla rincoglionita. Vedi? *Ecco* perche' non mi offro mai volontario per quelle missioni nella Landa. Comunque, mettiamo fine alle sofferenze di questa stupida stronza prima che ci contamini.}

@@ -1,5 +1,5 @@
 {100}{}{Ti tengo d'occhio, Esterno.}
-{101}{}{Credo sia quasi ora che tu te ne vada.}
+{101}{}{Credo sia ora che tu te ne vada.}
 {102}{}{Non mi piace la tua faccia.}
 {103}{}{Comportati bene, o dovro' riprendermi quel Pass.}
 {104}{}{Le 18:00 sono gia' passate. Adesso devi tornare nel Cortile.}
@@ -30,8 +30,8 @@
 {129}{}{Teniamo d'occhio la situazione, Capitano.}
 {130}{}{Vault City prevale, Capitano.}
 {131}{}{Buon giorno, Capitano.}
-{132}{}{Ehi voi! Alt! Che cosa ci fa un ghoul qui a Vault City?!}
-{133}{}{Ehi voi! Alt! Che cosa ci fa un mutante qui a Vault City?!}
+{132}{}{Ehi, tu! Alt! Che cosa ci fa un ghoul qui a Vault City?!}
+{133}{}{Ehi, tu! Alt! Che cosa ci fa un mutante qui a Vault City?!}
 {134}{}{Breep-oop foop foop}
 {135}{}{Un ghoul? Dove?}
 {136}{}{Un mutante? Dove?}
@@ -49,7 +49,7 @@
 {148}{}{Lui viaggia con me. Se qualcuno di voi stronzi ha qualche problema per questo, possiamo iniziare a spargere un po' di sangue gia' da adesso.}
 {149}{}{Vuoi rendere le cose difficili? Bene. Guardie! Intrusi!}
 {150}{}{Hrnghhhhhhhhhh!}
-{151}{}{Sarai morto prima che i quei tuoi amici si facciano vivi.}
+{151}{}{Sarai morto prima che quei tuoi amici si facciano vivi.}
 {152}{}{Ehi! E' quello che ha sconfitto l'Enclave!}
 {153}{}{Ehi, congratulazioni per aver sconfitto l'Enclave!}
 {154}{}{Benvenuto a Vault City, eroe!}
@@ -58,7 +58,7 @@
 {157}{}{E' vero che gli Stati Uniti stavano ancora combattendo la guerra?}
 {158}{}{Dovresti inserire i tuoi viaggi nel computer di Vault City.}
 {159}{}{Puoi rimanere qui a Vault City per quanto tempo desideri.}
-{160}{}{Dovresti registrare le tue imprese contro l'Enclave e inserirle nel Server.}
+{160}{}{Dovresti registrare le tue imprese contro l'Enclave e inserirle nel Server Liste.}
 {161}{}{Non ti riconosco. Dove sono i tuoi documenti?}
 {162}{}{Eccoli qua, "agente." Credo troverai che e' tutto in ordine.}
 {163}{}{Non li ho con me al momento, ma --}

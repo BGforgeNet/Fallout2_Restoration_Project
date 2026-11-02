@@ -1,7 +1,7 @@
 {100}{}{Benvenuti a New Reno, la piu' grande cittadina del mondo. Il fuoco dei bidoni e le insegne al neon avvolgono la citta' d'un bagliore infernale.}
 {101}{}{Davanti a te si estende una desolata distesa ricoperta di tombe. Pali insanguinati spuntano dal terreno con resti di cadaveri legati ad essi.}
-{102}{}{Questa sembra essere una vecchia centrale elettrica di rifornimento. Un cimitero di carcasse d'auto circonda l'edificio.}
-{103}{}{Sei giunto alle Stalle. Un recinto circonda le due entrate alla fattoria.}
+{102}{}{Questa sembra una vecchia stazione di ricarica elettrica d'anteguerra. Un cimitero di carcasse d'auto circonda l'edificio.}
+{103}{}{Giungi alle Stalle. Un recinto circonda le due entrate alla fattoria.}
 {150}{}{[INDIETRO]}
 {151}{}{[AVANTI]}
 {201}{}{Salvatore}
@@ -44,7 +44,7 @@
 {329}{}{Occhi di Serpe}
 {330}{}{Lupo}
 {331}{}{L'Accettaro}
-{332}{}{Sorridente}
+{332}{}{Smiley}
 {333}{}{Ciccio}
 {334}{}{Perla}
 {335}{}{Jimmy di Reno}
@@ -84,7 +84,7 @@
 {369}{}{Numeri}
 {370}{}{Mantide}
 {371}{}{Scorpione}
-{372}{}{Ometto}
+{372}{}{Grassone}
 {373}{}{Sam}
 {374}{}{Blue Lou}
 {375}{}{Tommy la Pistola}
@@ -112,7 +112,7 @@
 {403}{}{Pistone}
 {404}{}{Hurricane}
 {405}{}{Gran Brutto Bastardone}
-{406}{}{l'Eletto}
+{406}{}{Prescelto}
 {407}{}{Toro Furioso}
 {408}{}{LaMotta}
 {409}{}{Mazza}
@@ -149,7 +149,7 @@
 {440}{}{Clubber Lang}
 {441}{}{Duchessa}
 {442}{}{Bulldozer}
-{443}{}{Adornare}
+{443}{}{Grazia}
 {444}{}{Luke Mano di Ferro}
 {445}{}{Faith}
 {446}{}{Dottor Pugno}
@@ -157,7 +157,7 @@
 {448}{}{Balboa}
 {449}{}{Floyd Ray Willis}
 {450}{}{Calamity Jane}
-{451}{}{Kobra}
+{451}{}{Cobra}
 {452}{}{Omicidio Sanguinario}
 {453}{}{Boia}
 {454}{}{Treno Merci}
@@ -172,7 +172,7 @@
 {463}{}{Gatto Randagio}
 {464}{}{Bad Mojo}
 {465}{made_man_name}{Tank}
-{466}{}{Il Picchiatore}
+{466}{}{Picchiatore}
 {467}{}{Mynx}
 {468}{}{Scorpione}
 {469}{}{Pugno Facile}
@@ -292,7 +292,7 @@
 {702}{}{"Acciaio" Mark Torrance}
 {703}{}{Xander "la Cosa Sicura" Holyland}
 {704}{}{Ragno}
-{705}{}{Magro}
+{705}{}{Slim}
 {706}{}{Dolce Jones}
 {707}{}{Il Roche}
 {708}{}{Tito}
@@ -311,10 +311,10 @@
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{Il Masticatore}
-{1000}{}{Jules ti conduce in un vecchio quartiere alla periferia di New Reno. Non credi che saresti riuscito a trovare questo luogo da solo. Appena arrivati, Jules sparisce.}
+{1000}{}{Jules ti conduce in un vecchio quartiere alla periferia di New Reno. Dubiti che avresti trovato questo posto senza di lui. Appena arrivati, Jules sparisce.}
 {1100}{}{Le tracce ti conducono in un vecchio quartiere alla periferia di New Reno.}
 {1200}{}{Scopri una piccola scatola di metallo. Non l'avresti mai trovata se tu non l'avessi cercata.}
-{1300}{}{Cody ti conduce in un vecchio quartiere alla periferia di New Reno, poi se ne corre via per la strada dalla quale siete arrivati. Non credi che saresti riuscito a trovare questo luogo da solo.}
+{1300}{}{Cody ti conduce in un vecchio quartiere alla periferia di New Reno, poi se ne corre via per la strada dalla quale siete arrivati. Dubiti che avresti trovato questo posto senza di lui.}
 {1400}{}{Hai sconfitto il tuo primo avversario.}
 {1401}{}{Hai sconfitto il tuo secondo avversario.}
 {1402}{}{Hai sconfitto il tuo terzo avversario.}
@@ -323,5 +323,5 @@
 {1405}{}{Hai sconfitto il tuo ultimo avversario!}
 {1500}{}{Hai convinto la signora Wright a distruggere la distilleria.}
 {1550}{}{Hai assistito alla transazione segreta.}
-{1600}{}{Nel mezzo della battaglia, il Masticatore ti strappa un orecchio a morsi.}
+{1600}{}{Nel pieno del combattimento, il Masticatore ti strappa un orecchio a morsi.}
 {1700}{}{Infuriato, strappi a morsi un orecchio del Masticatore.}

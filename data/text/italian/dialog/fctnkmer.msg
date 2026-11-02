@@ -11,7 +11,7 @@
 {110}{}{Ho imparato che meno cose sai piu' a lungo vivi. Non ho altre informazioni per te. Vuoi vedere cosa ho da vendere?}
 {111}{}{Si'.}
 {112}{}{No.}
-{113}{}{Benissimo. Guarda.}
+{113}{}{Benissimo. Dai pure un'occhiata.}
 {114}{}{}
 {115}{}{Ok.}
 {116}{}{Altro?}
@@ -20,7 +20,7 @@
 {119}{}{Bene. Buona giornata a te, allora.}
 {120}{}{}
 {121}{}{Ok.}
-{122}{}{Ciao. Posso esserti ancora utile?}
+{122}{}{Rieccoti. Posso esserti ancora utile?}
 {123}{}{Si'.}
 {124}{}{No.}
 {125}{}{Mi spiace, ma il negozio e' chiuso. Apro alle otto; per favore torna a quell'ora.}

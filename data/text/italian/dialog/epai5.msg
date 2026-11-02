@@ -1,6 +1,6 @@
 {100}{}{Vedi una porta.}
 {101}{}{Vedi una porta elettronica.}
-{102}{}{Vedi una porta elettronica con una serratura a comando vocale e override.}
+{102}{}{Vedi una porta elettronica con serratura a comando vocale e sblocco di sicurezza.}
 {200}{}{Conferma il codice:}
 {201}{}{XY104FD}
 {202}{}{BFN12}

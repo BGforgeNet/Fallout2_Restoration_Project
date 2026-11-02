@@ -1,4 +1,4 @@
-{100}{}{Vedi una grossa talpa mutante.}
-{101}{}{La talpa mutante non sembra disturbata dalla tua presenza.}
-{102}{}{La talpa mutante sembra molto arrabbiata.}
-{200}{}{Hai sterminato le talpe mutanti.}
+{100}{}{Vedi un grosso ratto-talpa.}
+{101}{}{Il ratto-talpa non sembra disturbato dalla tua presenza.}
+{102}{}{Il ratto-talpa sembra molto arrabbiato.}
+{200}{}{Hai sterminato i ratti-talpa.}

@@ -7,8 +7,8 @@
 {210}{}{::Respiro sibilante::}
 {211}{}{*Tosse* *Tosse*}
 {212}{}{::Si asciuga il sudore sulla fronte.::}
-{220}{}{Tu sei il... *cough*... migliore dei miei uomini.}
-{221}{}{La gente di Reno di mostra il... *cough*... dovuto rispetto?}
+{220}{}{Tu sei la... *tosse*... migliore dei miei uomini.}
+{221}{}{La gente di Reno ti mostra il... *tosse*... dovuto rispetto?}
 {230}{}{Urgggg...}
 {231}{}{...Dios mio...}
 {232}{}{...il mio cuore...}
@@ -23,22 +23,22 @@
 {247}{}{[Allontanati.]}
 {248}{}{Chi sei?}
 {249}{}{Sei tu Jesus Mordino?}
-{250}{}{Scusate. Sono entrato nella stanza sbagliata.}
+{250}{}{Scusate. Sono entrata nella stanza sbagliata.}
 {260}{}{Tu. (Mordino fissa Myron non appena entra nella stanza e neri fulmini balenano nei suoi occhi.) Tu hai... lasciato il tuo posto. Non mi sei piu'... UTILE. (Fa un cenno e le sue guardie impugnano le loro armi.)}
 {261}{}{(Lo sguardo dell'uomo si adombra. L'uomo fa un cenno e le sue guardie impugnano le loro armi.)}
 {262}{}{(Lo sguardo di Big Jesus si fa nero. Jesus fa un cenno e le sue guardie impugnano le loro armi.)}
 {263}{}{Aieeeeeeee!}
 {264}{}{Giochiamo!}
-{265}{}{Scappare!}
+{265}{}{Scappiamo!}
 {266}{}{Wow! Wow...!}
 {267}{}{Ehi! Aspetta un secondo...!}
 {268}{}{Stai sfidando ME, *Grassone*?! Stai SFIDANDO }
 {275}{}{(L'uomo parla con voce rauca.) Io... sono Jesus Mordino. Devi... rivolgerti a me chiamandomi SENOR Mordino. (Una goccia di sudore scende sulla sua fronte.) Cosa... vuoi da me?}
-{276}{}{Sei... tornato. (Una goccia di sudore scende sulla sua fronte.) Cosa... vuoi da me?}
+{276}{}{Sei... tornata. (Una goccia di sudore scende sulla sua fronte.) Cosa... vuoi da me?}
 {277}{}{Sto cercando lavoro.}
 {278}{}{Ho parlato con suo figlio, Senor Mordino. Sto cercando lavoro.}
 {279}{}{Ho parlato con suo figlio, Senor Mordino. Sono una schiavista e vorrei vendere degli schiavi.}
-{280}{}{Sai qualcosa a proposito della morte del figlio di Mr. Wright?}
+{280}{}{Sa qualcosa a proposito della morte del figlio del signor Wright?}
 {281}{}{Il caldo le da' fastidio? Sembra... a disagio.}
 {282}{}{Niente. Adesso devo andare.}
 {290}{}{(Ti osserva per diverso tempo, poi scuote la testa.) Tu... non mi sembri abbastanza FORTE. Non ho alcun lavoro da darti.}
@@ -50,28 +50,28 @@
 {296}{}{D'accordo, allora. Ci vediamo piu' tardi.}
 {305}{}{(Il sudore gocciola sulla faccia di Mordino. La sua espressione si fa piu' cupa.) Ho... parlato. NON ho lavori per te. Vattene... e NON tornare.}
 {306}{}{Eddai, Big Jesus... solo una possibilita'...}
-{307}{}{D'accordo. Addio.}
-{315}{}{(Mordino rimane in silenzio per un momento, poi parla.) Io sono Jesus Mordino. Capo della famiglia Mordino. Tu sei venuto nel mio... casino'. Nella mia casa. Non mi hai mostrato... rispetto. IMPARERAI a non farlo mai piu'.}
+{307}{}{D'accordo. Arrivederci.}
+{315}{}{(Mordino rimane in silenzio per un momento, poi parla.) Io sono Jesus Mordino. Capo della famiglia Mordino. Tu sei venuta nel mio... casino'. Nella mia casa. Non mi hai mostrato... rispetto. IMPARERAI a non farlo mai piu'.}
 {316}{}{Credo che sarai TU ad imparare un paio di cose...}
 {317}{}{Whoa! Aspetta... parliamone! Dai, su...}
 {318}{}{Corri verso la porta.}
-{319}{}{::Cerca un riparo, ed estrai le tue armi al rallentatore mentre i proiettili iniziano a volare in tutte le direzioni::}
+{319}{}{::Cerca un riparo, ed estrai le tue armi al rallentatore mentre gli scagnozzi sbucano da ogni angolo::}
 {325}{}{(Mordino aspetta. Mentre lo guardi, un'altra goccia di sudore scende su una guancia.)}
 {326}{}{Vorrei vendere degli schiavi...}
 {327}{}{Cosa sai della morte di Richard Wright?}
-{329}{}{Lasciamo stare.}
+{329}{}{Lascia perdere.}
 {335}{}{(Ti studia.) Non... ti conosco, ma ti daro'... ascolto. (Si asciuga il sudore dalla fronte.) }
 {336}{}{Hai degli schiavi da vendere?}
 {337}{}{Si', proprio qui con me. Dia un'occhiata e mi faccia un'offerta.}
-{338}{}{No. In verita' mi sono sbagliato. Vorrei un lavoro, non vendere schiavi.}
+{338}{}{No. In verita' mi sono sbagliata. Vorrei un lavoro, non vendere schiavi.}
 {339}{}{No... in verita' avrei delle domande da farle.}
-{340}{}{No, mi dispiace. Mi sono appena ricordato che dovrei essere da un'altra parte.}
+{340}{}{No, mi dispiace. Mi sono appena ricordata che dovrei essere da un'altra parte.}
 {345}{}{(Mordino osserva i tuoi compagni. Il suo sguardo si ferma su Miria, e Jesus si lecca le labbra.) La tua puta sembra fresca... ti daro' 250 dollari per lei.}
 {346}{}{(Mordino osserva i tuoi compagni. Il suo sguardo si ferma su Davin.) Sebbene mi sembri debole, prendero' quel ragazzo li'. 200 dollari per lui.}
-{347}{}{(Mordino osserva i tuoi compagni. Il suo sguardo si ferma su Sulik... e subito si tura il naso.) Quel selvaggio... puzza, ma mi sembra forte. Lo prendero' per 100 dollari.}
+{347}{}{(Mordino osserva i tuoi compagni. Il suo sguardo si ferma su Sulik... e arriccia il naso.) Il tribale... puzza, ma mi sembra forte. Lo prendero' per 100 dollari.}
 {348}{}{(Mordino osserva i tuoi compagni. Il suo sguardo si ferma su Vic.) Prendero' il vecchio... mi pare che possa lavorare ancora per qualche anno. Ti offro 100 dollari per lui.}
 {349}{}{(Mordino osserva i tuoi compagni. Il suo sguardo si ferma su Cassidy.) Prendero' il vecchio... mi pare che possa lavorare ancora per qualche anno. Ti offro 100 dollari per lui.}
-{350}{}{(Lo sguardo di Mordino si ferma immediatamente sul RoboBrain.) Quella macchina li'. Ti daro' 500 dollari per averla.}
+{350}{}{(Lo sguardo di Mordino si ferma immediatamente sul Robobrain.) Quella macchina li'. Ti daro' 500 dollari per averla.}
 {351}{}{(Lo sguardo di Mordino si ferma immediatamente sul Cybercane.) Comprero' quel... cane meccanico. Ti daro' 500 dollari per lui.}
 {352}{}{(Mordino osserva i tuoi compagni, poi scuote la testa.) Non hai nulla che mi interessi.}
 {353}{}{Senor Mordino, la prego... questo schiavo vale MOLTO di piu' di quanto lei mi offre. Le garantisco che ha ancora diversi anni di fedele servizio davanti a se'.}
@@ -82,7 +82,7 @@
 {358}{}{D'accordo. Ci vediamo quando avro' della merce migliore, allora.}
 {370}{}{No. Ha passato troppe giornate in viaggio e mi pare stanca... 250 dollari o non se ne fa niente.}
 {371}{}{Quel ragazzo sembra debole e fragile. Non ti daro' piu' di 200 dollari per lui.}
-{372}{}{No. Il selvaggio puzza e sembra essere... difficilmente gestibile. Sara' dura metterlo in riga. 100 dollari.}
+{372}{}{No. Il tribale puzza e sembra essere... difficilmente gestibile. Sara' dura metterlo in riga. 100 dollari.}
 {373}{}{Quest'uomo e' vecchio. Lo prendero' per 100 dollari.}
 {375}{}{No. 500 dollari.}
 {377}{}{Senor Mordino, la prego... mi sta praticamente insultando. Questa e' merce di prima qualita', vale molto di piu'.}
@@ -91,18 +91,18 @@
 {392}{}{(Mordino cammina intorno a Sulik, aggrottando le sopracciglia.) Hmmmm. Sembra forte... e resistente al dolore, considerato che si e' ficcato un osso nel naso. 200 dollari per lui.}
 {393}{}{(Mordino cammina intorno a Vic, aggrottando le sopracciglia.) Hmmmmm. Lo prendero' per 200 dollari. Non un centesimo di piu'.}
 {394}{}{(Mordino cammina intorno a Cassidy, aggrottando le sopracciglia.) Hmmmmm. Lo prendero' per 200 dollari. Non un centesimo di piu'.}
-{395}{}{(Mordino osserva il RoboBrain per qualche minuto.) Facciamo mille dollari, allora.}
+{395}{}{(Mordino osserva il Robobrain per qualche minuto.) Facciamo mille dollari, allora.}
 {396}{}{(Mordino osserva il Cybercane per qualche minuto.) Facciamo mille dollari, allora.}
 {410}{}{(Mordino fa portare via Miria mentre conta i tuoi soldi.) Ecco.}
 {411}{}{(Mordino fa portare via Davin mentre conta i tuoi soldi.) Ecco.}
 {412}{}{(Mordino fa portare via Sulik mentre conta i tuoi soldi.) Ecco.}
 {413}{}{(Mordino fa portare via Vic mentre conta i tuoi soldi.) Ecco.}
 {414}{}{(Mordino fa portare via Cassidy mentre conta i tuoi soldi.) Ecco.}
-{415}{}{(Mordino fa portare via il RoboBrain mentre conta i tuoi soldi.) Ecco.}
+{415}{}{(Mordino fa portare via il Robobrain mentre conta i tuoi soldi.) Ecco.}
 {416}{}{(Mordino fa portare via il Cybercane mentre conta i tuoi soldi.) Ecco.}
 {417}{}{Desidera vedere il resto della mia merce?}
 {418}{}{La ringrazio, Senor Mordino. A proposito, avrei delle domande che vorrei farle...}
-{419}{}{La ringrazio, Senor Mordino. Spero che lo schiavo la serva bene. Addio.}
+{419}{}{La ringrazio, Senor Mordino. Spero che lo schiavo la serva bene. Arrivederci.}
 {430}{}{(Il sudore gocciola lungo la faccia di Mordino. La sua espressione si fa piu' torva.) Sei un cane e un FIGLIO di cane. Non comprero' nulla da un tipo come te. Vattene... e NON tornare.}
 {431}{}{Senor Mordino, la prego... ci ripensi...}
 {432}{}{(Vattene senza fare storie.)}
@@ -114,12 +114,12 @@
 {450}{}{Non... ti pago... per fare domande.}
 {451}{}{Beh, mi piacerebbe sapere quello che sto portando con me, prima di consegnarlo. E' pericoloso?}
 {452}{}{Come non detto, allora. Rinuncio all'incarico.}
-{460}{}{Dirigiti a nord lungo Virgin street, oltre i casino'... segui il sentiero che porta fuori citta'. Arriverai... alle Stalle. Adesso va'.}
+{460}{}{Dirigiti a nord lungo Virgin Street, oltre i casino'... segui il sentiero che porta fuori citta'. Arriverai... alle Stalle. Adesso va'.}
 {461}{}{(Segui le indicazioni...)}
 {470}{}{Hai... fatto quello che ti ho chiesto?}
 {471}{}{No, non ho ancora consegnato il pacco.}
 {472}{}{Si', l'ho consegnato a Ramirez come mi aveva chiesto.}
-{473}{}{Si', sono stato alle Stalle e ho consegnato il pacco... e sai cosa FANNO li' dentro? Torturano degli schiavi usando delle droghe.}
+{473}{}{Si', sono stata alle Stalle e ho consegnato il pacco... e sai cosa FANNO li' dentro? Torturano degli schiavi usando delle droghe.}
 {474}{}{Si', ho consegnato il suo pacco a quella guardia, Ramirez... Lo sa che quel tizio e' strafatto di Jet? PUZZA persino di Jet.}
 {480}{}{Allora... perche' sei qui? (Big Jesus si asciuga la fronte, poi prende un profondo respiro.) PERCHE' non hai consegnato il pacco?}
 {481}{}{Beh, prima avrei delle domande...}
@@ -136,11 +136,11 @@
 {512}{}{Okay.}
 {520}{}{Ho... dell'altro lavoro per te. Voglio che qualcuno vada... (prende un respiro profondo e si asciuga il sudore sulla fronte.) ... a raccogliere la mia percentuale dai... Fratelli Corsican. Sono in RITARDO con i pagamenti.}
 {523}{}{Credo che rinuncero' all'incarico. Grazie lo stesso.}
-{530}{}{Dirigiti a nord lungo Virgin street. Stanno dall'altro lato della strada rispetto alla palestra... Se ti fanno problemi... se accampano scuse... fa' loro del MALE.}
+{530}{}{Dirigiti a nord lungo Virgin Street. Stanno dall'altro lato della strada rispetto alla palestra... Se ti fanno problemi... se accampano scuse... fa' loro del MALE.}
 {531}{}{Okay. Ci penso io.}
 {532}{}{Molto bene, Senor Mordino.}
 {540}{}{Ti avevo detto che potevi fare... del MALE ai Fratelli Corsican. Non ti ho dato il permesso di... UCCIDERLI.}
-{541}{}{Ehi, senti... sono stati loro a cominciare, io mi sono solo difeso...}
+{541}{}{Ehi, senti... sono stati loro a cominciare, io mi sono solo difesa...}
 {542}{}{Dicevano brutte cose sul conto di tua madre, Big Jesus. Ho DOVUTO ucciderli.}
 {543}{}{Oh. Credo di aver capito male.}
 {551}{}{Uh... si', ma non ho i soldi qui con me. Mi dia solo un po' di tempo, e glieli restituiro'.}
@@ -157,9 +157,9 @@
 {582}{}{Chi e' quest'uomo?}
 {583}{}{Chi e' l'uomo che vuole vedere morto, Senor Mordino?}
 {584}{}{Whoa, nessuno mi aveva detto nulla riguardo all'ammazzare qualcuno. Scordatelo.}
-{585}{}{Non posso accettare questo incarico, Senor Mordino, mi dispiace. Addio.}
-{595}{}{Sei venuto da me per un lavoro. Io ti do un... lavoro e tu ti lamenti come un BAMBINO. (Prende un respiro profondo e poi tossisce.) Non... sei piu' il benvenuto... nel mio casino'. Vattene.}
-{596}{}{Sei venuto da me per un lavoro. E poi rifiuti la mia... offerta. (Prende un respiro profondo e poi tossisce.) Non... sei piu' il benvenuto... nel mio casino'. Vattene.}
+{585}{}{Non posso accettare questo incarico, Senor Mordino, mi dispiace. Arrivederci.}
+{595}{}{Sei venuta da me per un lavoro. Io ti do un... lavoro e tu ti lamenti come un BAMBINO. (Prende un respiro profondo e poi tossisce.) Non... sei piu' la benvenuta... nel mio casino'. Vattene.}
+{596}{}{Sei venuta da me per un lavoro. E poi rifiuti la mia... offerta. (Prende un respiro profondo e poi tossisce.) Non... sei piu' la benvenuta... nel mio casino'. Vattene.}
 {597}{}{Prima che io vada, vorrei farti qualche domanda...}
 {598}{}{Non ho ancora finito di PARLARE con te, "Big Jesus."}
 {599}{}{Voglia accettare le mie scuse, Senor Mordino. Me ne vado subito.}
@@ -179,30 +179,30 @@
 {640}{}{(Annuisce.) Bene. Quest'uomo e' un vecchio... uno storpio... si nasconde nel suo bar, il "Salvatore's", vicino al casino' di Bishop. E' un... codardo e non lascia mai la sua stanza al piano di sopra. Torna quando sara'... morto.}
 {641}{}{Uno storpio?}
 {642}{}{Okay.}
-{650}{}{(Annuisce.) Le gambe di quel macellaio... sono deboli. (Jesus si asciuga la fronte, poi inspira a fatica.) Ha anche... difficolta'... a respirare. Insipira l'aria da una... bombola di ossigeno.}
+{650}{}{(Annuisce.) Le gambe di quel macellaio... sono deboli. (Jesus si asciuga la fronte, poi inspira a fatica.) Ha anche... difficolta'... a respirare. Inspira l'aria da una... bombola di ossigeno.}
 {651}{}{Bombola di ossigeno, eh? Hmmmm. D'accordo.}
 {652}{}{Tornero' quando sara' morto, Senor Mordino.}
-{660}{}{Louis Salvatore e' vivo. Perche' sei tornato?}
+{660}{}{Louis Salvatore e' vivo. Perche' sei tornata?}
 {661}{}{(Una goccia di sudore scende lungo una guancia di Mordino.) Hai fatto quello che ti avevo chiesto? Louis Salvatore e' morto?}
 {662}{}{E' morto. La sua famiglia e' stata vendicata, Senor Mordino.}
 {663}{}{No, tornero' quando l'avro' ucciso.}
-{664}{}{Salvatore e' troppo ben sorvegliato. Mi vedo costretto a rinunciare al lavoro.}
+{664}{}{Salvatore e' troppo ben sorvegliato. Mi vedo costretta a rinunciare al lavoro.}
 {670}{}{Se... rinunci a questo lavoro, saro' costretto ad... UCCIDERTI.}
 {671}{}{Dal momento che la metti su questo piano, tornero' quando sara' morto.}
 {672}{}{Prova a fare qualcosa, e ti unirai ai Mordino che i Salvatore hanno fatto a pezzi.}
-{680}{}{Cosi' ho sentito anch'io. (Annuisce con rispetto.) Hai fatto un... buon lavoro. La mia fiducia in te non e' mal posta. Ecco il... tuo pagamento. Cinquemila... dollari. }
+{680}{}{Cosi' ho sentito anch'io. (Annuisce con rispetto.) Hai fatto un... buon lavoro. La mia fiducia in te non e' mal posta. Ecco il... tuo pagamento. Cinquecento... dollari. }
 {681}{}{Grazie.}
 {682}{}{Puo' bastare... per adesso.}
 {683}{}{E... un'armatura e un'arma che credo troverai... utili.}
 {690}{}{(Annuisce.) Il tuo successo... mi fa piacere. Vorrei darti il benvenuto nella famiglia Mordino. (Ti stringe le spalle.) Ti unirai alla nostra famiglia? La tua forza sara' la... nostra forza.}
 {691}{}{Mi farebbe molto piacere diventare un membro della famiglia Mordino.}
-{692}{}{Non posso diventare un Mordino. Ma non fraintedermi, Big Jesus: e' stato un piacere lavorare per te.}
+{692}{}{Non posso diventare un Mordino. Ma non fraintendermi, Big Jesus: e' stato un piacere lavorare per te.}
 {693}{}{Non voglio unirmi a voi, grazie. Ho un villaggio da salvare, prima.}
 {700}{}{(Annuisce.) Mi dispiace che tu abbia preso questa decisione. Come ti ho detto, il tuo successo mi fa piacere... non sopporterei che le tue abilita' venissero sfruttate da uno dei miei... avversari. (Fa un cenno alle sue guardie, le quali impugnano le loro armi.)}
-{710}{}{Molto bene. Hai... un nome col quale vorresti essere chiamato? Tutti i Mordino... tutta Reno... conosceranno tale nome.}
+{710}{}{Molto bene. Hai... un nome col quale vorresti essere chiamata? Tutti i Mordino... tutta Reno... conosceranno tale nome.}
 {711}{}{Si'. Che ne pensa di...}
 {720}{}{... e' un bel nome. (Annuisce.) Il nome dei Mordino ha un certo... peso a New Reno. Visita... il Cat's Paw... e il New Reno Arms... e di' loro che sei un membro della mia famiglia... ti tratteranno bene.}
-{730}{}{(Ti fissa per diversi secondi, poi strabuzza gli occhi.) Perche'... mi chiedi una cosa simile? Me lo hanno... RIFERITO. (Si asciuga la fronte.) Quel ragazzo ha preso troppo Jet ed e' morto.}
+{730}{}{(Ti fissa per diversi secondi, poi socchiude gli occhi, perplesso.) Perche'... mi chiedi una cosa simile? Me lo hanno... RIFERITO. (Si asciuga la fronte.) Quel ragazzo ha preso troppo Jet ed e' morto.}
 {731}{}{E' questo il problema. I Mordino sono i maggiori fornitori di Jet a New Reno. Questo vi rende i maggiori indiziati.}
 {732}{}{Sai dove si e' procurato il Jet?}
 {733}{}{D'accordo. Era solo una domanda. Vorrei chiederle qualcos'altro...}

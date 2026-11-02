@@ -1,4 +1,4 @@
-{100}{}{Vedi una cliente del bar.}
+{100}{}{Vedi un cliente del bar.}
 {101}{}{Vedi Leanne.}
 {102}{}{E' molto bella, ma sembra essere persa nei suoi pensieri.}
 {103}{}{Fermati!}
@@ -16,7 +16,7 @@
 {115}{}{E' bello rivederti.}
 {116}{}{Buon viaggio.}
 {117}{}{Ehi, ciao! E' bello vedere qualche faccia nuova da queste parti. Mi chiamo Leanne. Come va? Perche' non ti siedi?}
-{118}{}{Ciao. Tutto bene, spero?}
+{118}{}{Rieccoti. Tutto bene, spero?}
 {119}{}{Allora, dimmi quello che sai a proposito del Master.}
 {120}{}{Molto bene. E a te come va?}
 {121}{}{Abbastanza bene.}
@@ -31,15 +31,15 @@
 {136}{}{Si'. Io sono la Prescelta. Il mio antenato salvo' il mondo dall'essere che veniva chiamato il Master.}
 {137}{}{Certo. Si pensa che il mio antenato abbia salvato il mondo da qualcuno chiamato il "Master."}
 {138}{}{Devo andare.}
-{139}{}{Uh, okay. E' un piacere conoscerti, Prescelto... In realta', ho gia' sentito parlare di un certo Master, prima d'ora...}
+{139}{}{Uh, okay. E' un piacere conoscerti, Prescelta... In realta', ho gia' sentito parlare di un certo Master, prima d'ora...}
 {140}{}{Molto interessante. Questo mi ricorda una storia che ho sentito molto tempo fa. Riguardava un certo Master.}
-{141}{}{Davvero? Ti ricordi qualcosa?}
+{141}{}{Davvero? Di cosa si trattava?}
 {142}{}{Dimmelo.}
 {143}{}{Oh, okay. Ciao.}
 {144}{}{Potrebbe volerci un po' di tempo. Da bravo gentiluomo, mi offriresti qualcosa da bere, per cortesia? Non del whiskey pero'; una Nuka-Cola, per favore.}
 {145}{}{Potrebbe volerci un po' di tempo. Da buona amica, mi offriresti qualcosa da bere, per cortesia? Non del whiskey pero'; una Nuka-Cola, per favore.}
 {146}{}{Possiamo iniziare? Me ne ricordo piuttosto bene, adesso.}
-{147}{}{Bene.}
+{147}{}{Certo.}
 {148}{}{Mi spiace, al momento non ho 5$ da spendere.}
 {149}{}{Grazie. Vediamo un po'... Ricordo che mia mamma mi raccontava di questa enorme migrazione accaduta 70... forse 80 anni fa...}
 {150}{}{Per favore, continua.}
@@ -57,6 +57,6 @@
 {162}{}{Grazie per la storia.}
 {163}{}{Beh, si sta facendo tardi. Ciao.}
 {164}{}{E' stato un piacere. Ciao.}
-{165}{}{Addio.}
-{166}{}{Lasciamo stare.}
+{165}{}{Ciao.}
+{166}{}{Lascia perdere.}
 {167}{}{Leanne ti ha raccontato la sua storia riguardante il Master.}

@@ -18,7 +18,7 @@
 {243}{}{Sono a posto. Ci vediamo, Flick.}
 {260}{}{Mi so un mercante, cossa ti credi? 'na specie de bon Samurai-tano.}
 {261}{}{Come?}
-{262}{}{Certo, ehm, beh…lascia che ti chieda qualcos'altro.}
+{262}{}{Certo, ehm, beh...lascia che ti chieda qualcos'altro.}
 {263}{}{Ah, oh. OK. Ci vediamo, Flick.}
 {280}{}{Vendo per i miei fioi.}
 {281}{}{Vendi fiori?}
@@ -29,7 +29,7 @@
 {301}{}{Uh, no.}
 {302}{}{Oh, OK. Lascia che ti chieda qualcos'altro, allora.}
 {303}{}{Ah, capisco. Beh, non vorrei rovinarti gli, ehm, affari, stando qui. Ci vediamo.}
-{315}{}{Mi portano la roba che trovano. Piccole, piccole cose. Roba che nessuno usa piu'. In cambio, io mi prendo cura di loro.}
+{315}{}{I me porta ea roba che i trova. Picole, picole cosse. Roba che nissun dopera pi'. In cambio, mi me ocupo de lori.}
 {316}{}{Sembra un ottimo accordo.}
 {325}{}{(Alza le spalle) Non mi lamento.}
 {326}{}{Lascia che ti chieda qualcos'altro, allora.}
@@ -54,35 +54,35 @@
 {402}{}{Grazie, ma cosa mi sai dire di Mama?}
 {403}{}{Grazie. Lascia che ti chieda qualcos'altro.}
 {404}{}{Grazie, e' tutto quello che mi serviva sapere. Ci vediamo.}
-{410}{}{Ma guarda chi si vede, fanculo. Il buon samaritano che ha "salvato i bambini" ha deciso di onorarmi della sua presenza.
- Sai, anch'io sono un bravo Samurai-itan -- mi prendevo cura di quei piccoli paisanos e tutto il resto. Cioe', finche' non sei arrivato tu
- a trasformare quella cazzo di idea dell'orfanotrofio in realta'.}
-{411}{}{Ma guarda chi si vede, fanculo. La buona samaritana che ha "salvato i bambini" ha deciso di onorarmi della sua presenza.
- Sai, anch'io sono un bravo Samurai-itan -- mi prendevo cura di quei piccoli paisanos e tutto il resto. Cioe', finche' non sei arrivata tu
- a trasformare quella cazzo di idea dell'orfanotrofio in realta'.}
+{410}{}{Ma porco can, varda chi che se vede. El bon samaritan che ga "salvato i bambini" el se ga degna' de farme visita.
+ Ti sa, anca mi son un bon Samurai-tano -- me ocupavo dei me fioi e tuto el resto. Cioe', fin che no ti xe riva' ti
+ a far diventar vera quea mona de idea de l'orfanotrofio.}
+{411}{}{Ma porco can, varda chi che se vede. Ea bona samaritana che ga "salvato i bambini" ea se ga degna' de farme visita.
+ Ti sa, anca mi son un bon Samurai-tano -- me ocupavo dei me fioi e tuto el resto. Cioe', fin che no ti xe rivada ti
+ a far diventar vera quea mona de idea de l'orfanotrofio.}
 {412}{}{Vendi fiori?}
 {413}{}{Sembra che non ti piaccia il fatto che i bambini non vaghino piu' per strada.}
-{420}{}{Ehi, non fraintendermi. La vita per strada e' dura per quei bambini, ma e' la fine del nostro piccolo accordo che mi butta giu'.}
+{420}{}{Ehi, no sta capirme mal. Ea vita par strada xe dura par quei fioi, ma xe ea fine del nostro picolo acordo che me buta zo.}
 {421}{}{Quale accordo?}
 {422}{}{Intendi che borseggiavano la gente e ti portavano gli oggetti da vendere.}
-{430}{}{Non fare lo spiritoso con me, stronzo. I bambini mi portano oggetti che *trovano.* Non so dove li prendono e, sinceramente, non me ne frega un cazzo.}
-{431}{}{Right.}
+{430}{}{No sta far el furbo co mi, stronzo. I fioi me porta robe che i *trova.* No so dove che i e ciapa e, sincero, no me ne frega un casso.}
+{431}{}{Certo.}
 {432}{}{Sei pieno di merda. Sono stufo di feccia come te che usa gli altri per il proprio tornaconto. E' ora di morire!}
 {440}{}{Fi-o-i, ti sa, i bambini. I miei bambini.}
 {441}{}{E avevi un accordo con loro?}
-{450}{}{Mi portano la roba che trovano. Piccole, piccole cose. Roba che nessuno usa piu'. In cambio, io mi prendo cura di loro.}
+{450}{}{I me porta ea roba che i trova. Picole, picole cosse. Roba che nissun dopera pi'. In cambio, mi me ocupo de lori.}
 {451}{}{Sembra un ottimo accordo.}
-{460}{}{Gia'... gli affari andavano bene finche' non sei arrivato tu. Vedi, la tua piccola trovata mi costera'. I miei affari ne risentiranno grazie a te.
- Per questo, non mi stai molto simpatico. Anzi, ti odio proprio. Ma sono un uomo d'affari, quindi se devi barattare,
- fallo. Altrimenti, vaffanculo.}
+{460}{}{Eh gia'... i afari andava ben fin che no ti xe riva' ti. Varda, sto to scherzeto me costara' caro. I me afari ghe rimetara' par colpa tua.
+ Par questo, no ti me sta tanto simpatico. Anzi, te odio proprio. Ma mi son un omo de afari, quindi se ti ga da baratar,
+ fa pur. Se no, va in mona.}
 {461}{}{Bene, vediamo cosa hai in magazzino allora.}
 {462}{}{Credo di avere tutto quello che mi serve. Arrivederci.}
 {463}{}{Penso che restero'... e ti spacchero' il culo.}
-{470}{}{Ancora tu? Spero che tu sia qui per fare qualche buon affare, perche' mi sto rompendo il cazzo di guardarti.
- Anzi, vomito un po' in bocca ogni volta che vedo la tua faccia. E' cosi' che mi fai schifo. E se non sei qui per
- commerciare, allora ti suggerisco di girarti e levarmi dal cazzo.}
+{470}{}{Ancora ti? Sara' mejo che ti sia qua par far qualche bon afare, parche' go e bae piene de vardarte.
+ Anzi, me vien su un fia' de vomito ogni volta che vedo ea to facia. Ecco quanto che ti me fa schifo. E se no ti xe qua par
+ baratar, alora te consiglio de girarte e andar fora dae bae.}
 {471}{}{Barattiamo.}
 {472}{}{Ero solo curioso. Beh, ci vediamo, Flick.}
-{480}{}{Hai finito di farmi perdere tempo?}
+{480}{}{Ti ga finio de farme perder tempo?}
 {481}{}{Fammi dare un'altra occhiata.}
 {482}{}{Dovrebbe bastare. Arrivederci, Flick.}

@@ -38,4 +38,4 @@
 {321}{}{Gli Slag hanno offerto di rifornire d'acqua Modoc per tutta la durata della siccita'.}
 {322}{}{Tu sei quella che ci ha aiutato, vero? Sei una vera eroina!}
 {323}{}{Hai salvato Modoc, il nostro paese.}
-{324}{}{Sarai sempre il benvenuto a Modoc.}
+{324}{}{Sarai sempre la benvenuta a Modoc.}

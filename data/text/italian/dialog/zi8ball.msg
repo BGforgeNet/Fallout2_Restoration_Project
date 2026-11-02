@@ -32,7 +32,7 @@
 {229}{}{Feargus era contrario all'idea di mettermi nel gioco. E' un brutto cattivone.}
 {230}{}{Il tuo punteggio e' 23 su 100. Ne hai di strada da fare ancora...}
 {231}{}{Scott Everts si e' lamentato un bel po' quando ha visto quanti oggetti da raccogliere ci sono nel gioco.}
-{232}{}{Guarda nel bagno degli uomini al pian terreno del Casino dei Mordino a New Reno.}
+{232}{}{Guarda nel water del bagno degli uomini al pianterreno del casino' dei Mordino a New Reno.}
 {233}{}{Qualcuno ha sotterrato del denaro sotto la croce con la scritta 'Trash' che si trova sul Golgotha.}
 {234}{}{Torna a parlare con Padre Tully a New Reno una volta terminato il gioco.}
 {235}{}{C'e' un Easter Egg da qualche parte a New Reno.}
@@ -41,6 +41,6 @@
 {238}{}{Si', lo SAPPIAMO benissimo che Descent to Undermountain era una merda.}
 {239}{}{Se vendi Bessie ai macellai di Modoc, puoi liberarla un'altra volta.}
 {240}{}{Presta attenzione a quello che Curtis dira' dopo che gli avrai riportato Mr. Nixon a Vault City.}
-{241}{}{Dopo uno dei soliti litigi di coppia, la moglie ha gettato il Cat's Paw nella spazzatura a Broken Hills.}
-{242}{}{Ti servono un'alta FOR *e* un'alta RES per avere una possibilita' di battere Francis nella sfida a braccio-di-ferro.}
+{241}{}{Nella coppia che litiga sempre a Broken Hills, e' stata davvero la moglie a gettare il Cat's Paw nella spazzatura.}
+{242}{}{Ti servono un'alta FOR *e* un'alta RES per avere una possibilita' di battere Francis nella sfida a braccio di ferro.}
 {243}{}{Il codice per attivare il primo terminale del Vault di Vault City e' 3PCF186.}

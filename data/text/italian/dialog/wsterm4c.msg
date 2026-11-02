@@ -36,7 +36,7 @@
 {135}{}{Recupera Hantavirus}
 {137}{}{Ritorna al Menu Principale}
 {138}{}{Esci}
-{139}{}{[Osservi il robot infilarsi in un passaggio tra i materiali biologici immagazzinati, per poi ritornare con una piccola fiala che subito ripone in un'apertura nel muro. Guardi incantato la fiala mentre viene trasferita dall'ambiente sigillato dell'area di deposito alla stanza in cui ti trovi. Il tuo incantamento si trasforma in orrore quando la fiala cade per terra e si rompe. Darsela a gambe non sembrerebbe una cattiva idea.]}
+{139}{}{[Osservi il robot infilarsi in un passaggio tra i materiali biologici immagazzinati, per poi ritornare con una piccola fiala che subito ripone in un'apertura nel muro. Guardi con stupore la fiala mentre viene trasferita dall'ambiente sigillato dell'area di deposito alla stanza in cui ti trovi. Lo stupore si trasforma in orrore quando la fiala cade per terra e si rompe. Darsela a gambe non sembrerebbe una cattiva idea.]}
 {140}{}{Esci}
 {141}{}{Recupero Organi - Menu                                           Cuore                                                          Cervello                                                            Rene                                                                Fegato                                                              Polmone}
 {142}{}{}
@@ -57,7 +57,7 @@
 {156}{}{Ritorna al Menu degli Organi}
 {157}{}{Ritorna al Menu Principale}
 {158}{}{Esci}
-{159}{}{Attenzione! Malfunzionamento del sistema di stoccaggio.          Vasche-Deposito 101 - 104                                      Richiesta Correzione Impostazioni                                       [E' necessaria una serie di calcoli estremamente precisi per salvare i cervelli. Una marea di formule e misurazioni invadono lo schermo. Hanno tutte un aspetto molto scientifico.]}
+{159}{}{Attenzione! Malfunzionamento del sistema di stoccaggio.          Vasche-Deposito 101 - 104                                      Richiesta Correzione Impostazioni                                       [E' necessaria una serie di calcoli estremamente precisi per salvare i cervelli. Una marea di formule e misurazioni invade lo schermo. Hanno tutte un aspetto molto scientifico.]}
 {160}{}{}
 {161}{}{}
 {162}{}{}
@@ -68,16 +68,16 @@
 {167}{}{Esci.}
 {168}{}{[Il tuo approccio a questo problema sembra basato principalmente sul motto "sbagliando s'impara". Riesci a salvare uno solo dei quattro cervelli. La scienza e' per nerd, comunque.]}
 {169}{}{Recupera Cervello}
-{170}{}{[Facendo tuo il motto "la virtu' sta nel mezzo", riesci a salvare il cinquanta percento dei cervelli. Uno scienziato non sei.]}
+{170}{}{[Facendo tuo il motto "la virtu' sta nel mezzo", riesci a salvare il cinquanta percento dei cervelli. La scienza non fa per te.]}
 {171}{}{Recupera Cervello}
 {172}{}{[E' chiaro che sai quello che stai facendo. Ad eccezione di un singolo errore, sei in grado di salvare 3 cervelli su 4. Sapevi che leggere tutte quelle riviste scientifiche sarebbe tornato utile, un giorno.]}
 {173}{}{Recupera Cervello}
 {174}{}{[Con un paio di rapide pressioni sui tasti, la crisi e' scongiurata e tutti i cervelli sono salvi. La scienza e' davvero qualcosa piu' di un passatempo, per te.]}
 {175}{}{Recupera Cervello}
-{176}{}{Recupero Cervelli - Menu                                          Cervello Anormale                                             Cervello di Scimpanze'                                              Cervello Umano                                                      Cervello Cybernetico}
-{177}{}{Recupero Cervelli - Menu                                          Cervello Anormale                                             Cervello di Scimpanze'                                              Cervello Umano                                                      Cervello Cybernetico - Morto}
-{178}{}{Recupero Cervelli - Menu                                          Cervello Anormale                                             Cervello di Scimpanze'                                              Cervello Umano - Morto                                              Cervello Cybernetico - Morto}
-{179}{}{Recupero Cervelli - Menu                                          Cervello Anormale                                             Cervello di Scimpanze' - Morto                                      Cervello Umano - Morto                                              Cervello Cybernetico - Morto}
+{176}{}{Recupero Cervelli - Menu                                          Cervello Anormale                                             Cervello di Scimpanze'                                              Cervello Umano                                                      Cervello Cibernetico}
+{177}{}{Recupero Cervelli - Menu                                          Cervello Anormale                                             Cervello di Scimpanze'                                              Cervello Umano                                                      Cervello Cibernetico - Morto}
+{178}{}{Recupero Cervelli - Menu                                          Cervello Anormale                                             Cervello di Scimpanze'                                              Cervello Umano - Morto                                              Cervello Cibernetico - Morto}
+{179}{}{Recupero Cervelli - Menu                                          Cervello Anormale                                             Cervello di Scimpanze' - Morto                                      Cervello Umano - Morto                                              Cervello Cibernetico - Morto}
 {180}{}{}
 {185}{}{}
 {189}{}{}
@@ -85,7 +85,7 @@
 {196}{}{Cervello Anormale}
 {197}{}{Cervello di Scimpanze'}
 {198}{}{Cervello Umano}
-{199}{}{Cervello Cybernetico}
+{199}{}{Cervello Cibernetico}
 {200}{}{[Sebbene le letture indichino che questo cervello e' vivo, i livelli di attivita' neurale sono ben al di sotto della norma.] - Procedere con il recupero?}
 {201}{}{}
 {202}{}{Si'}
@@ -110,7 +110,7 @@ Procedere con il recupero?}
 {229}{}{Attualmente non ci sono cadaveri nel deposito.}
 {230}{}{Ritorna al Menu Principale}
 {231}{}{Esci}
-{232}{}{[Sebbene tu veda chiaramente che le unita' di deposito sono vuote, le letture dei dati indicano che sono tutte piene. Dev'essere un errore del programma. Oh, cavoli.]}
+{232}{}{[Sebbene tu veda chiaramente che le unita' di deposito sono vuote, le letture dei dati indicano che sono tutte piene. Dev'essere un errore del programma. Pazienza.]}
 {233}{}{Ritorna al Menu Principale}
 {234}{}{Esci }
 {300}{}{ non e' in grado di leggere quello che c'e' sul monitor.}

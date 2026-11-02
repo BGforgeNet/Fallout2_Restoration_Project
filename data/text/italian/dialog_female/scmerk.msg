@@ -6,16 +6,16 @@
 {105}{}{Scusami, ma ho degli affari di cui occuparmi.}
 {106}{}{Se vuoi parlare di affari, vieni al Rawhide. Altrimenti lasciami in pace.}
 {107}{}{Ti ho visto in qualche film, o sbaglio? Hai degli argomenti molto, ehm, convincenti.}
-{108}{}{Nei tuoi occhi intravedo *quella* luce... Fa' un salto al Rawhide - Uno come te mi puo' sempre servire.}
+{108}{}{Nei tuoi occhi intravedo *quella* luce... Fa' un salto al Rawhide - una come te mi puo' sempre servire.}
 {109}{}{Merda, cos'e' questa puzza? Qualcosa e' appena entrato nella stanza.}
 {110}{}{Portami dell'altro whiskey - presto.}
 {111}{}{Adesso non ho tempo.}
 {112}{}{Sono un ospite, qui. Smetti di darmi noia.}
-{113}{}{Ehi, baby, hai proprio un bel visino. I gusti di Carlson stanno migliorando.}
+{113}{}{Ehi, tesoro, hai proprio un bel visino. I gusti di Carlson stanno migliorando.}
 {114}{}{Non parlo di affari, qui.}
 {115}{}{Non ti conosco. Sono un uomo d'affari rispettabile, io.}
 {116}{}{Beh, che mi venga un colpo se non e' la fifona. Vattene e lasciami in pace.}
-{117}{}{Allora ti sei decisa a venirmi a trovare, eh, baby?}
+{117}{}{Allora ti sei decisa a venirmi a trovare, eh, tesoro?}
 {118}{}{Io non so niente di niente, capito?}
 {119}{}{Il Vicepresidente non sara' contento di sapere che qualcuno disturba i suoi ospiti.}
 {120}{}{Il liquore che hanno qui e' dannatamente buono.}
@@ -25,7 +25,7 @@
 {124}{}{Cos'e' questa - l'ora dedicata alla socializzazione?}
 {125}{}{Sono Merk. Che vuoi?}
 {126}{}{Ancora tu?}
-{127}{}{Beh, comportati bene, stronzetto, o finira' male.}
+{127}{}{Beh, comportati bene, stronzetta, o finira' male.}
 {128}{}{Oort.}
 {129}{}{Sto cercando lavoro.}
 {130}{}{Fonti ben informate mi dicono che sei tu la persona cui rivolgersi per parlare di certi affari, se capisci cio' che intendo.}
@@ -36,18 +36,18 @@
 {135}{}{Glub.}
 {136}{}{No.}
 {137}{}{Ho alcune domande.}
-{138}{}{Hmm... Robusto. Stupido... se vuoi un lavoro, parla con Mira. Capito? Mi-ra. Laggiu'.}
-{139}{}{Ti piace fare chiasso, eh? Qualcuno potrebbe gentilmente buttar fuori questo testa di brahmin?}
+{138}{}{Hmm... Robusta. Stupida... se vuoi un lavoro, parla con Mira. Capito? Mi-ra. Laggiu'.}
+{139}{}{Ti piace fare chiasso, eh? Qualcuno potrebbe gentilmente buttar fuori questo stronzo di brahmin?}
 {140}{}{Sei davvero cosi' stupida? Credi che io possa assumere il primo venuto come se fosse niente? Se vuoi lavorare per me, devi dimostrare di esser buona a qualcosa.}
 {141}{}{Che ne diresti se sparassi a Lenny? Se l'e' cercata.}
 {142}{}{Dimostrarlo... come?}
 {143}{}{Conosci qualcuno cui potrebbe interessare del Jet, forse?}
 {144}{}{Ascolta, io sono}
-{145}{}{Ma certo. Come se avessi davvero bisogno di dimostrati qualcosa. Scordatelo, perdente.}
+{145}{}{Ma certo. Come se avessi davvero bisogno di dimostrarti qualcosa. Scordatelo, perdente.}
 {146}{}{E' stato quel dannato Doofus, vero? Quel tossico ha il vizio di parlare troppo... Ascolta: fallo fuori per me -- consideralo un "favore" -- e poi potremo parlare.}
 {147}{}{D'accordo.}
 {148}{}{Whoa - non ho tutto questo sangue freddo!}
-{149}{}{E adesso ti dira' che sei stata una cogliona. Ragazzi-}
+{149}{}{E tutti diranno che sei stata una cogliona. Ragazzi-}
 {150}{}{Interessante. E chi sarebbe questo uccellino?}
 {151}{}{Non raccontarmi stronzate, grassone. Se non riavro' subito cio' che mi appartiene, qualcuno dovra' andarti a comprare un vestito per il tuo funerale.}
 {152}{}{Carino... Vuoi rispondere alla mia domanda, o no?}
@@ -56,11 +56,11 @@
 {155}{}{Mettiamo che ad una persona manchino alcuni oggetti. Puo' questa persona sperare di ricomprarseli ad un prezzo "onesto"?}
 {156}{}{Rivoglio indietro la mia roba, grassone!}
 {157}{}{E se mi rivolgessi alla legge?}
-{158}{}{Questa conversazione mi ha stancato. Ragazzi - prendetevi cura del mio ospite.}
+{158}{}{Questa conversazione mi ha stancato. Ragazzi - prendetevi cura della nostra ospite.}
 {159}{}{Non credo che a Lenny piacerebbe.}
 {160}{}{Probabilmente no, ma non lo stavo chiedendo a lui.}
 {161}{}{Fa' come vuoi.}
-{162}{}{Vero. E' stato tutto un po' troppo tranquillo, ultimamente. E' ora di un bell'uno contro uno nello scantinato. Forza Lenny, voglio vederti uccidere questo}
+{162}{}{Vero. E' stato tutto un po' troppo tranquillo, ultimamente. E' ora di un bell'uno contro uno nello scantinato. Forza Lenny, voglio vederti uccidere}
 {163}{}{Mettiamo che io abbia alcuni problemi da risolvere...}
 {164}{}{Ovvero?}
 {165}{}{Jet? Mi stai proponendo qualcosa...?}
@@ -70,10 +70,10 @@
 {169}{}{D'accordo.}
 {170}{}{No, non posso fare questo ad un amico.}
 {171}{}{Sembra proprio che possiamo parlare di affari, amica. Ecco la mia proposta: in citta' c'e' uno scienziato mezzo matto, il Dr. Henry. E' in possesso di documenti che vorrei avere per me. Ti daro' 1000$ per quelle carte. Oh, e non voglio che accada nulla al dottor Henry. Mi serve vivo. Ti interessa? }
-{172}{}{Lo faro'.}
+{172}{}{Ci penso io.}
 {173}{}{No, non e' nel mio stile.}
 {174}{}{La conoscenza costa. Sono stato abbastanza chiaro?}
-{175}{}{"La conoscenza non ha prezzo."}
+{175}{}{"Il prezzo della sapienza e' superiore a quello delle perle."}
 {176}{}{Ecco 50$.}
 {177}{}{Scordatelo.}
 {178}{}{Oh, sei tu quella persona.}
@@ -85,13 +85,13 @@
 {184}{}{Non pigliarmi per il culo!}
 {185}{}{Per una persona simile dovrebbe essere possibile.}
 {186}{}{Ora ti consiglio di andare.}
-{187}{}{Accomodati: chiama pure la polizia. Naturalmente immagino che tu abbia delle prove per sostenere le tua accusa infamante.}
+{187}{}{Accomodati: chiama pure la polizia. Naturalmente immagino che tu abbia delle prove per sostenere la tua accusa infamante.}
 {188}{}{Si', certo.}
-{189}{}{Nulla.}
+{189}{}{Lascia perdere.}
 {190}{}{Ad esempio, in citta' ci sarebbe una dannata Hubologista che mi ha fatto perdere la pazienza. Una volta che questo prurito sara' stato eliminato, torna qui a parlare con me.}
-{191}{}{Consideralo fatto. Ho qui il grattaschiena adatto per lei, ma... cos'e' un Hubologista e dove posso trovarlo?}
+{191}{}{Consideralo fatto. Ho qui il grattaschiena adatto per lei, ma... cos'e' un Hubologista e dove posso trovarla?}
 {192}{}{Come osi parlare male della vera fede?!}
-{193}{}{Mi dispiace, ma non voglio essere coinvolto in guerre religiose.}
+{193}{}{Mi dispiace, ma non mi immischio in guerre religiose.}
 {194}{}{Beh, io sono un uomo erudito. Qual e' la tua domanda?}
 {195}{}{Chiedi pure.}
 {196}{}{Sto cercando il Vault 13.}
@@ -131,10 +131,10 @@
 {230}{}{Grazie, Merk.}
 {231}{}{Non mi serve un lavoro. Grazie lo stesso.}
 {232}{}{Eccellente. Torna quando avrai fatto.}
-{233}{}{Una situazione davvero sconveniente. Ragazzi, uccidetelo e recuperate queste prove.}
+{233}{}{Una situazione davvero sconveniente. Ragazzi, uccidetela e recuperate queste prove.}
 {234}{}{I tuoi patetici tentativi di intimorirmi sono quasi divertenti, ma adesso ti suggerisco di andartene, prima che io mi stanchi di questo gioco.}
 {235}{}{Ah, ho sentito la novita'. Ti interessa ancora un lavoro?}
-{236}{}{Si', sono stanco di fare lavoretti saltuari. Un lavoro serio mi farebbe comodo.}
+{236}{}{Si', sono stufa di lavorare gratis. Un lavoro serio mi farebbe comodo.}
 {237}{}{No.}
 {238}{}{Che cosa diavolo ci fai nella mia proprieta'?}
 {239}{}{Prima ho perso il controllo. Non succedera' piu'. Voglio solo un po' del tuo tempo.}
@@ -143,25 +143,25 @@
 {242}{}{E allora cosa ci fai qui, idiota testa di cazzo? Se vuoi convincermi, fa' quello che devi!}
 {243}{}{Non ti parlero' finche' non avrai portato a termine il lavoro!}
 {244}{}{Mi deludi. E di solito le cose che mi deludono io le elimino. Tuttavia, nel tuo caso posso permettermi di essere generoso. Tu vattene senza fare storie e non tornare piu', e io dimentichero' tutta questa storia.}
-{245}{}{Allora, hai risolto quella faccenducola con il dr. Henry?}
+{245}{}{Allora, hai risolto quella faccenducola con il Dr. Henry?}
 {246}{}{Si', ho qui i documenti che volevi.}
 {247}{}{No.}
 {248}{}{Giornate come questa mi rendono davvero felice. Bene, vediamo di concludere il nostro accordo.}
 {249}{}{Mi e' stato riferito che il geniale dottore e' spirato durante la tua visita. Cio' va contro gli ordini che ti avevo impartito. Per rifarmi delle future perdite credo sia necessario che io riceva un indennizzo.}
 {250}{}{Guarda, ti do 500 bigliettoni e lasciamo perdere tutta la faccenda.}
 {251}{}{Fottiti.}
-{252}{}{Bene, buona fortuna. Non vedo altra ragione perche' noi si parli ancora.}
+{252}{}{Bene, buona fortuna. Non vedo perche' dovremmo parlarci ancora.}
 {253}{}{A me sta bene.}
 {254}{}{D'accordo - ma solo perche' tu mi piaci. Ti suggerisco di non farti rivedere tanto presto, da queste parti.}
 {255}{}{Credo che ti uccidero', mi riprendero' i miei soldi e andro' a farmi dare una ricompensa. Dopotutto, essere un buon cittadino significa questo.}
 {256}{}{Ancora tu! MUORI!}
 {257}{}{Mi pareva di averti detto di non venire piu' a disturbarmi.}
 {258}{}{ e sono una con le palle. Prova a chiedere in giro.}
-{259}{}{ tipo.}
-{260}{}{ tipa.}
+{259}{}{ questo tipo.}
+{260}{}{ questa tipa.}
 {261}{}{Un'Hubologista e' una fanatica religiosa schizzata. La puoi trovare nella chiesa che c'e' in citta'.}
 {262}{}{Sto andando.}
-{263}{}{Non parlero' con te finche' non avrai portato a termine il lavoro! Mi servono quei documenti dal laboratorio del dr. Henry, subito.}
+{263}{}{Non parlero' con te finche' non avrai portato a termine il lavoro! Mi servono quei documenti dal laboratorio del Dr. Henry, subito.}
 {264}{}{No, ma mi servono delle informazioni.}
 {265}{}{So che la morte di Lenny non e' stata un incidente, bastarda.}
 {266}{}{Ehi, quella mappa era fasulla.}
@@ -169,7 +169,7 @@
 {268}{}{Come ti ho gia' detto, mi dispiace che non ti sia servita.}
 {269}{}{Beh, che ne diresti di ingoiare questo proiettile, per il disturbo?}
 {270}{}{Hmmphf.}
-{271}{}{Ti sei "preso cura" dell'Hubologista per Merk.}
+{271}{}{Hai "sistemato" l'Hubologista per Merk.}
 {272}{}{Hai recuperato i documenti del Dr. Henry.}
 {300}{}{Dove diavolo credi di andare?! Riprovaci e ti rompo il culo.}
 {301}{}{Ti avevo avvertito!}

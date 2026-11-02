@@ -1,6 +1,6 @@
 {100}{}{Vedi un mercante.}
 {101}{}{Vedi un mercante.}
-{102}{}{Vedi un eccitato mercante Shi. Come tutti gli altri, sembra non aver problemi di fiato.}
+{102}{}{Vedi un vivace mercante Shi. Come tutti gli altri, sembra avere fiato da vendere.}
 {103}{}{Beeei polipi! Molto buoni!}
 {104}{}{Ti piace il pesce? Ecco il pesce!}
 {105}{}{Ehi! Ehi! Compra questo! Compra questo!}
@@ -18,8 +18,8 @@
 {117}{}{I tuoi soldi non vanno bene qui! Vattene subito!}
 {118}{}{Vattene subito!}
 {119}{}{Non ti piace combattere? Mai Da Chiang ha le armi per te!}
-{120}{}{Sei un signore, non sei un pirata, eh?}
-{121}{}{Ehi, cavalletta!}
+{120}{}{Tu fare l'amore, non la guerra, eh?}
+{121}{}{Ehi, piccola cavalletta!}
 {122}{}{Beeei polipi! Molto buoni!}
 {123}{}{Ti piace il pesce? Ecco il pesce!}
 {124}{}{Ehi! Ehi! Compra questo! Compra questo!}

@@ -36,7 +36,7 @@ Usando una leva dovresti essere in grado di forzare questa porta.}
 {131}{}{Vedi una porta robusta con una serratura.}
 {132}{}{Vedi una porta robusta, apparentemente senza serrature.}
 {133}{}{Vedi una porta robusta con una vecchia serratura arrugginita.}
-{134}{}{Vedi una porta danneggiata con una serratura, che puo' essere aperta con usando set da scassinatore, e una trappola esplosiva nello stipite.}
+{134}{}{Vedi una porta danneggiata con una serratura, che puo' essere aperta usando un set da scassinatore, e una trappola esplosiva nello stipite.}
 {135}{}{Vedi una porta danneggiata con una serratura e una trappola esplosiva nello stipite.}
 {136}{}{Vedi una porta danneggiata, apparentemente senza serrature, con una trappola esplosiva nello stipite.}
 {137}{}{Vedi una porta danneggiata con una vecchia serratura arrugginita e una trappola esplosiva nello stipite.}
@@ -96,7 +96,7 @@ subisci }
 {189}{}{Chiudi a chiave la porta.}
 {190}{}{Non riesci a chiudere a chiave la porta.}
 {191}{}{ chiude a chiave la porta.}
-{192}{}{ non e' riuscito a chiudere a chiave la porta.}
+{192}{}{ non riesce a chiudere a chiave la porta.}
 {193}{}{L'esplosivo non ha fatto un graffio alla porta.}
 {194}{}{Trovi una trappola nella porta.}
 {195}{}{Non riesci a trovare trappole nella porta.}

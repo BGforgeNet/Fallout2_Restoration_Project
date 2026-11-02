@@ -14,8 +14,8 @@
 {113}{}{, ma non posso farti passare. Se vuoi tornare al villaggio, puoi farlo solo superando la prova che ti attende.}
 {114}{}{Capisco. Penso che andro', allora.}
 {115}{}{Posso farti qualche domanda?}
-{116}{}{Potrei darti una bella lezione e passare di qui.}
-{117}{}{Perdonami, ma non ho risposte per le tue domande. Supera la prova che l'Anziana ha predisposto per te e dimostrati degno di guidare la nostra gente.}
+{116}{}{Potrei prenderti a calci in culo e andarmene da qui.}
+{117}{}{Perdonami, ma non ho risposte per le tue domande. Supera la prova che l'Anziana ha predisposto per te e dimostrati degna di guidare la nostra gente.}
 {118}{}{Molto bene.}
 {119}{}{Due persone, insieme, possono muovere l'obelisco che blocca la via. Da sola non ce la faresti. Non ho intenzione di aiutarti fino a quando non avrai superato la prova che ti ha assegnato l'Anziana.}
 {120}{}{Uh-huh. Ho capito l'antifona.}

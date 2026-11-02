@@ -1,6 +1,6 @@
 {100}{}{Vedi un mutante grosso e robusto con uno sguardo risoluto.}
-{101}{}{Vedi una delle guardie della banca: un mutante grande e severo.}
-{102}{}{Vedi una guardia attenta e ben armata; un mutante che impugna un'arma dall'aspetto piuttosto cattivo.}
+{101}{}{Vedi una delle guardie della banca: un mutante grosso e duro.}
+{102}{}{Vedi una guardia attenta e ben armata; un mutante che impugna un'arma dall'aspetto piuttosto minaccioso.}
 {103}{}{Posso aiutarti?}
 {104}{}{Agga agga!}
 {105}{}{Me in edificio! Oooh!}
@@ -13,8 +13,8 @@
 {112}{}{O-kay!}
 {113}{}{Certo... beh, va' da qualche altra parte. Ci sono dei criminali qui dentro. Via.}
 {114}{}{Oh. D'accordo.}
-{115}{}{Possiamo aiutare chiunque venga qui per una ragione. Se non puoi essere aiutato, allora devi andartene. Vattene prima che ti aiutiamo noi.}
-{116}{}{Mi state obbligando?}
+{115}{}{Possiamo aiutare chiunque venga qui per una ragione. Se non possiamo aiutarti, devi andartene. Vattene prima che ti aiutiamo noi.}
+{116}{}{Vuoi costringermi?}
 {117}{}{Capito.}
 {118}{}{Sei qui per parlare con loro, eh? Beh, puoi parlare con noi. Cos'hai da dirci?}
 {119}{}{Avete mai considerato il fatto che li state trattenendo illegalmente?}
@@ -27,8 +27,8 @@
 {126}{}{Finche' non commettono reati, non possono essere giudicati colpevoli. Finche' non rivelano apertamente i loro progetti e iniziano a realizzare il reato, non sono colpevoli. Giusto?}
 {127}{}{Pericolosi? Io sono pericoloso. Tu sei pericoloso. Eppure non siamo in cella.}
 {128}{}{E allora?}
-{129}{}{Ma... ma... d'accordo. Sono liberi. Ricorda che la responsbilita' e' tua. Spero solo che tu non ti sia sbagliato. Ecco la chiave.}
-{130}{}{Questo e' tutto cio' che volevo. Ottimo. Grazie. Arrivederci.}
+{129}{}{Ma... ma... d'accordo. Sono liberi. Ricorda che la responsabilita' e' tua. Spero solo che tu abbia ragione. Ecco la chiave.}
+{130}{}{Questo e' tutto cio' che volevo. Ottimo. Grazie. Ciao.}
 {131}{}{Certo, ma forse sarebbe meglio se lo fossimo. Al momento, loro lo sono. E ci rimarranno finche' qualcuno non potra' darmi un motivo migliore per farli uscire. Adesso... vattene.}
 {132}{}{No.}
 {133}{}{Okay.}
@@ -44,6 +44,6 @@
 {143}{}{Avete mai pensato che forse state trattenendo i vostri prigionieri illegalmente?}
 {144}{}{Non dovresti gironzolare da queste parti. Vattene.}
 {145}{}{Se mai riusciro' a scoprire dove sono scappati quei dannati prigionieri, le conseguenze saranno terribili!}
-{150}{}{Ma... ma... d’accordo. Sono fuori. La responsabilita' e' tua. Spero solo che tu abbia ragione. Ecco la... Ehi, dov’e' finita la mia chiave!? Merda, Marcus mi fara' a pezzi se l’ho persa. Scusa, devo andare.}
+{150}{}{Ma... ma... d'accordo. Sono fuori. La responsabilita' e' tua. Spero solo che tu abbia ragione. Ecco la... Ehi, dov'e' finita la mia chiave!? Merda, Marcus mi fara' a pezzi se l'ho persa. Scusa, devo andare.}
 {151}{}{Okay.}
-{152}{}{In realta' ti ho preso io quella chiave. Che vuoi farci?}
+{152}{}{In realta' ti ho preso io quella chiave. E allora, che pensi di fare?}

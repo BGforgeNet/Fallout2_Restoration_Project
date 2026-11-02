@@ -18,16 +18,16 @@
 {127}{}{Io domino il potere dell'atomo. E tu cosa fai?}
 {128}{}{Si sta proprio bene qui dentro. C'e' un bel teporino.}
 {129}{}{Dopo un po' non hai piu' bisogno di guardare gli indicatori.}
-{130}{}{Che noia -— nessuno di quegli indicatori funziona, comunque.}
+{130}{}{Che noia -- nessuno di quegli indicatori funziona, comunque.}
 {131}{}{Perdita? Che perdita?}
 {140}{}{In tutta Gecko non c'e' posto migliore di questo dove vivere.}
-{141}{}{Niente ti scalda il cuore meglio di una robusta dose di rontgen.}
+{141}{}{Niente scalda queste vecchie ossa meglio di una bella dose di roentgen.}
 {142}{}{Mmm, c'e' sempre un cosi' bel calduccio qui dentro. Adoro questo posto.}
 {143}{}{Mi sorprende vederti qui, pelle-liscia.}
 {144}{}{La maggior parte dei pelle-liscia le temono, le radiazioni.}
 {145}{}{Una giornata senza una perdita di radiazioni e' come una giornata senza sole.}
-{146}{}{Sono proprio contento di fare questo lavoro.}
-{147}{}{Sii sempre umile...}
+{146}{}{Sono proprio contento di avere un alloggio cosi' di lusso.}
+{147}{}{Casa mia, casa mia...}
 {148}{}{Senza questo reattore, tutti qui morirebbero.}
 {149}{}{Spero proprio che quei tizi giu' a Vault City non ci ammazzino tutti.}
 {150}{}{Grazie, grazie, grazie.}
@@ -40,7 +40,7 @@
 {162}{}{Sono felice che il reattore funzioni meglio.}
 {163}{}{Ultimamente fa piu' freddo, qui dentro.}
 {164}{}{Sbaglio, o qui dentro fa piu' freddo?}
-{170}{}{Perche diavolo cerchi di passare inosservato?}
+{170}{}{Perche' diavolo cerchi di passare inosservato?}
 {171}{}{Uh, riesco ancora a vederti, sai?}
 {172}{}{Cammini sempre in modo cosi' strano?}
 {173}{}{Mi pare di aver sentito un elefante camminare qua vicino... Oh, ma sei tu.}

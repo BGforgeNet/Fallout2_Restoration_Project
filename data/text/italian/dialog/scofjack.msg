@@ -1,4 +1,4 @@
-{100}{}{Vesi un uomo che porta un distintivo della polizia di NCR.}
+{100}{}{Vedi un uomo che porta un distintivo della polizia di NCR.}
 {101}{}{E' Jack, agente di polizia di NCR.}
 {102}{}{Questo ragazzo e' piu' teso di una molla per orologi. La mascella sempre serrata, le vene che spuntano sulla fronte e non c'e' traccia di gioia o felicita' in lui.}
 {103}{}{Adesso non ho voglia di sentire i tuoi guai. Raccontali a qualcun altro.}
@@ -9,10 +9,10 @@
 {108}{}{Cos'hai da guardare? Smamma!}
 {109}{}{Al diavolo! Io sono Jack! Adesso la gente fara' meglio a darmi ascolto!}
 {110}{}{Ho piazzato una bomba qui dentro, quindi non tentare qualche strana mossa!}
-{111}{}{La gente si e' sempre presa gioco di Jack; lo chiamavano Jack "lo scoppiato"- beh, adesso chi e' che ride?}
+{111}{}{La gente si e' sempre presa gioco di Jack; lo chiamavano Jack "lo scoppiato" - beh, adesso chi e' che ride?}
 {112}{}{Contero' fino a tre e se Mira non e' qui per allora, faro' esplodere questo posto. Uno...}
-{113}{}{due...}
-{114}{}{Tre....}
+{113}{}{Due...}
+{114}{}{Tre...}
 {115}{}{Che cosa vuoi? Perche' mi stai fissando?}
 {116}{}{Lasciami in pace, hai capito?}
 {117}{}{Dannata ex-moglie - e' tutta colpa sua.}
@@ -36,12 +36,12 @@
 {135}{}{Come ti ho gia' detto e' la mia ex. L'ho beccata a letto con un altro e lei ha detto che ero io dalla parte del torto. Ha convinto la corte a farsi dare tutto e sta ancora cercando di fregarmi.}
 {136}{}{Whoa - che brutta storia. Una vera ingiustizia.}
 {137}{}{Ti potrai rifare. Tutto passa, con il tempo. Un giorno si dimentichera' di te.}
-{138}{}{Certo...No. Cazzo, non lo so. Devo fare qualcosa. Devo far sapere alla gente che non si puo' calpestare Jack impunemente.}
+{138}{}{Certo... No. Cazzo, non lo so. Devo fare qualcosa. Devo far sapere alla gente che non si puo' calpestare Jack impunemente.}
 {139}{}{Lo sanno, Jack. Guardali. Se ti fai esplodere adesso, nessuno ti rispettera'.}
 {140}{}{Ascolta, pensaci bene. Far esplodere questo posto dimostrera' che tutte le cose che lei dice di te sono vere.}
-{141}{}{Niente scherzi, Sherlock. Adesso la gente dovra' ascoltarmi.}
+{141}{}{Ma non mi dire, Sherlock. Adesso la gente dovra' ascoltarmi.}
 {142}{}{Nessuno ti ascoltera' finche' avrai una bomba in mano. Mettila giu', vieni fuori e vedrai che aggiusteremo tutto.}
-{143}{}{Ascolta, pensaci bene. Se farai esplodere questo posto, la gente dira' "Jack ha scelto la strada dei deboli. Lasciamo che l'ex-moglie lo rovini." Lei vince, tu perdi.}
+{143}{}{Ascolta, pensaci bene. Se farai esplodere questo posto, la gente dira' "Jack ha scelto la strada dei deboli. Si e' lasciato mettere i piedi in testa dall'ex moglie." Lei vince, tu perdi.}
 {144}{}{Davvero la pensi cosi'?}
 {145}{}{Si', Jack. Lo penso davvero.}
 {146}{}{Certamente. Cosa credi - che stia mentendo?}
@@ -60,4 +60,4 @@
 {159}{}{O mi faccio esplodere o tu mi uccidi. Che differenza c'e'?}
 {160}{}{Non sto cercando di farti del male! Voglio solo che si ricordino...}
 {161}{}{Guadagni }
-{162}{}{ punti esperienza per esserti occupato di Jack per Mira.}
+{162}{}{ punti esperienza per aver sistemato Jack per conto di Mira.}

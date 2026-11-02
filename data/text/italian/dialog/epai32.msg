@@ -1,6 +1,6 @@
 {100}{}{Vedi un computer funzionante.}
 {101}{}{Vedi il terminale di botanica dell'EPA.}
-{200}{}{Benvenuto nel terminale di botanica dell'EPA. Seleziona una delle seguenti opzioni.}
+{200}{}{Benvenuti nel terminale di botanica dell'EPA. Seleziona una delle seguenti opzioni.}
 {201}{}{Accedi al database informazioni.}
 {202}{}{Accedi al deposito sementi.}
 {203}{}{Esci.}
@@ -30,14 +30,14 @@
 {231}{}{Scarica le informazioni su un olodisco.}
 {232}{}{Indietro.}
 {240}{}{Questa struttura e' stata il luogo di vari esperimenti su diverse forme di vita animali e vegetali. Sono stati condotti test approfonditi
- su una forma di vita simile a una pianta chiamata pianta delle spore e su alcune creature simili ad animali note come Centauri, Fluttuanti e Radscorpioni.}
+ su una forma di vita simile a una pianta chiamata pianta sporigena e su alcune creature simili ad animali note come Centauri, Fluttuanti e Radscorpioni.}
 {241}{}{Leggi sugli esperimenti botanici.}
 {242}{}{Leggi sulle Piante Sporigene.}
 {243}{}{Leggi sui Centauri e i Fluttuanti.}
-{244}{}{Leggi sugli Scorpioni Radioattivi.}
+{244}{}{Leggi sui Radscorpioni.}
 {250}{}{Sono stati condotti vari esperimenti per far crescere nuove forme di vita vegetale. Diversi di questi tentativi hanno avuto successo
  e ora possono essere visti crescere in buone condizioni nell'arboreto. I serbatoi di stoccaggio indicano che sono ancora disponibili campioni di semi per ulteriori test.}
-{251}{}{La pianta delle spore e' una forma mutata di una pianta simile a una Venere acchiappamosche. Ulteriori test hanno mostrato che la pianta e' piuttosto
+{251}{}{La pianta sporigena e' una forma mutata di una pianta simile a una Venere acchiappamosche. Ulteriori test hanno mostrato che la pianta e' piuttosto
  aggressiva e possiede due modalita' di attacco. Una consiste nello sputare spore contro i nemici. L'altra e' un morso con la sua bocca spinosa.
  Si consiglia grande cautela quando si maneggiano o si studiano queste forme di vita.}
 {252}{}{Dopo test approfonditi, i Centauri sembrano essere un sottoprodotto del Virus dell'Evoluzione Forzata. Sembrano essere
@@ -57,7 +57,7 @@
 {262}{}{I contenitori di stoccaggio dell'EPA indicano che ci sono ancora semi nel Serbatoio Uno.}
 {263}{}{I contenitori di stoccaggio dell'EPA riportano che non ci sono piu' semi in nessuno dei Serbatoi.}
 {264}{}{Accedi al Serbatoio di Stoccaggio Uno.}
-{265}{}{Accedi al Serbatoio Due.}
+{265}{}{Accedi al Serbatoio di Stoccaggio Due.}
 {266}{}{Indietro.}
 {270}{}{Il Serbatoio Uno riporta 5 pacchetti rimanenti dal Programma di Potenziamento Alimentare degli Stati Uniti. I semi di mais sono stati geneticamente modificati
  per essere immuni a malattie e infestazioni di insetti.}

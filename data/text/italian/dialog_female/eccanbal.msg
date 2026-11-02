@@ -4,5 +4,5 @@
 {103}{}{Hmmm...carne bianca.}
 {104}{}{Yum!}
 {105}{}{Saporita!}
-{106}{}{Sembra tenero.}
+{106}{}{Sembra tenera.}
 {107}{}{::Slurp::}

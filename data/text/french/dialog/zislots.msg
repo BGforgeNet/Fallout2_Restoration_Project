@@ -37,14 +37,14 @@
 {1002}{}{orange}
 {1003}{}{prune}
 {1004}{}{cloche}
-{1005}{}{"bar"}
+{1005}{}{bar}
 {1006}{}{melon}
 {1007}{}{sept}
 {1101}{}{cerises}
 {1102}{}{oranges}
 {1103}{}{prunes}
 {1104}{}{cloches}
-{1105}{}{"bar"}
+{1105}{}{"bars"}
 {1106}{}{melons}
 {1107}{}{"7"}
 {2000}{}{*Viens jouer avec moi une seconde, cow-boy.*}

@@ -5,8 +5,8 @@
 {104}{}{Occhio perche' l'arrosto te lo metto in quel posto, Bette.}
 {105}{}{Sei un tale incapace che non riusciresti a trovare "quel posto" nemmeno se ti facessi un disegnino.}
 {106}{}{Solo perche' non ho alcuna intenzione di avvicinarmi cosi' tanto a te.}
-{107}{}{Non esaltarti troppo, gallinaccio ruspante.}
-{108}{}{Saresti fortunata ad avercelo, un gallinaccio ruspante, al posto di quel trapano che usi di solito.}
+{107}{}{Non montarti la testa, nanerottolo.}
+{108}{}{Saresti fortunata ad avercelo, un nanerottolo, al posto di quel trapano che usi di solito.}
 {109}{}{Beh, almeno il mio trapano riesce a funzionare per piu' di trenta secondi.}
 {110}{}{Non c'e' da stupirsi se le attrezzature della Morningstar si rompono sempre.}
 {111}{}{Ti faccio vedere io cosa vuol dire rompere qualcosa... con i miei pugni!}
@@ -28,11 +28,11 @@
 {127}{}{Fatti sotto o tappati quella fogna, mollusco.}
 {128}{}{Vieni a prenderle, vecchia strega.}
 {129}{}{Adesso chi e' che confida nella fortuna?}
-{130}{}{Adesso basta.}
-{131}{}{Chi diavolo e' questo?}
+{130}{}{Adesso basta, questa me la paghi.}
+{131}{}{Chi diavolo ci sta guardando?}
 {132}{}{Una nuova. Ehi, e' una cosa privata, questa! Facciamola secca!}
-{133}{}{Per una volta sono d'accordo con te. Secchiamolo!}
-{134}{}{Ti sei dato davvero da fare. Sbattere in cella ogni singolo minatore di Redding...}
+{133}{}{Per una volta sono d'accordo con te. Facciamola fuori!}
+{134}{}{Ti sei data davvero da fare. Sbattere in cella ogni singolo minatore di Redding...}
 {135}{}{Hai del fegato, per sbatterci dentro.}
 {136}{}{Ci stavamo solamente divertendo un po'. Facci uscire.}
 {137}{}{Quello che stavamo facendo non erano affari tuoi.}
@@ -59,23 +59,23 @@
 {158}{}{Grazie. Speravo proprio che comprendeste la situazione. Ci vediamo.}
 {159}{}{Beh, sei davvero una girl scout. Non mi piace il tuo atteggiamento, amica.}
 {160}{}{E nemmeno ti deve piacere. Adesso verrai con me in cella oppure io trascinero' la' il tuo cadavere. A te la scelta.}
-{161}{}{Oh, scusami. Non intendevo davvero essere sgarbata. Me ne vado subito. Addio.}
+{161}{}{Oh, scusami. Non intendevo davvero essere sgarbata. Me ne vado subito. Arrivederci.}
 {162}{}{D'accordo, d'accordo. Verro' con te solo se porterai in cella anche Bette. Mi pare un accordo equo.}
 {163}{}{Non sei in condizione di porre condizioni.}
 {164}{}{Non e' una cattiva idea. Mettere delle sbarre fra voi due dovrebbe servire a raffreddare un po' l'atmosfera. Voi due, seguitemi.}
-{165}{}{Ma sei davvero un duro! Non riuscirai a portarci dentro senza che qualcuno rimanga ucciso. Pensi che lo Sceriffo apprezzerebbe una cosa del genere?}
+{165}{}{Ma sei davvero una dura! Non riuscirai a portarci dentro senza che qualcuno rimanga ucciso. Pensi che lo Sceriffo apprezzerebbe una cosa del genere?}
 {166}{}{No, non credo.}
 {167}{}{Non mi interessa. Non sara' di certo il *mio* sangue, quello che verra' versato.}
 {168}{}{D'accordo, mi arrendo. Vengo senza fare storie. (agli altri) Tornate alla miniera, ragazzi. Ci vediamo domani.}
 {169}{}{Ottima scelta.}
 {170}{}{Non temere, Bette ti fara' compagnia. Giusto, Bette?}
-{171}{}{Non credo che andra' a finire cosi'. Credo invece che tu ti metterai al centro della stanza, mentre tutti noi ti faremo a pezzi.}
+{171}{}{Non credo che andra' a finire cosi'. Credo che tu ti sia appena messa in mezzo, e ora ti faremo a pezzi tutti e due.}
 {172}{}{Allora mi bastera' mettere in cella sia te sia Bette.}
 {173}{}{Allora mi bastera' uccidere sia te sia Bette.}
-{174}{}{Hmm, credo che la mia presenza sia richiesta in un'altra zona di Redding. Immediatamente. Addio.}
+{174}{}{Hmm, credo che la mia presenza sia richiesta in un'altra zona di Redding. Immediatamente. Arrivederci.}
 {175}{}{Puoi scommetterci che non gli piacerebbe. Perche' non torni da lui e gli dici che non c'era nulla che tu potessi fare?}
 {176}{}{Adesso basta. Ne ho avuto abbastanza della tua linguaccia. Questa e' la tua ultima possibilita': vattene senza fare storie o ti apriro' in due.}
-{177}{}{Forse sara' meglio fare come dici. Di certo non voglio fare male a qualcuno. Addio.}
+{177}{}{Forse sara' meglio fare come dici. Di certo non voglio fare male a nessuno. Arrivederci.}
 {178}{}{D'accordo, immagino che un po' di soggiorno al fresco non possa farci male - giusto, Bette? (Bette annuisce) Hai vinto. Portaci dentro, Sceriffo.}
 {179}{}{Cosi' va meglio.}
 {180}{}{No, adesso e' troppo tardi. Vi faro' patire le pene dell'inferno. }

@@ -18,7 +18,7 @@
 {117}{}{Un Tritabudella.}
 {118}{}{Nulla.}
 {119}{}{Niente, scusa. Ciao!}
-{120}{}{Okay, amico. E' come dici tu. Io sono Phil. Sono il proprietario e il gestore di questo locale. Cosa vuoi da bere?}
+{120}{}{Okay, amico. Come vuoi. Io sono Phil. Sono il proprietario e il gestore di questo locale. Cosa vuoi da bere?}
 {126}{}{In incognito, eh? Capisco... A proposito, io sono Phil. Che cosa vuoi da bere?}
 {132}{}{Vuoi della birra? Un Tritabudella? Una Nuka-Cola?}
 {133}{}{Mirra!}
@@ -26,7 +26,7 @@
 {135}{}{Gola!}
 {136}{}{Bene, dimmi quando vuoi qualcosa e io ti daro' quello che chiedi, amico. Cerca di non disturbare gli altri clienti, d'accordo?}
 {137}{}{O-tay!}
-{138}{}{Ed ecco a lei una birra. Sono 3$, piu' 1$ di mancia per me. In tutto fanno 4$, ragazzo.}
+{138}{}{Ed ecco una birra. Sono 3$, piu' 1$ di mancia per me. In tutto fanno 4$, ragazzo.}
 {139}{}{'cco!}
 {140}{}{No ha.}
 {141}{}{E' un liquore forte, ragazzo! Sono 5$, piu' 1$ di mancia per me: in tutto sono 6$.}
@@ -52,7 +52,7 @@
 {173}{}{Al diavolo tu e le tue disgustose bevande!}
 {174}{}{Grazie. C'e' qualcos'altro?}
 {175}{}{Ehi, grazie! Nient'altro?}
-{176}{}{Wow! Grazie! C'e' nient'altro che posso fare per te?}
+{176}{}{Wow! Grazie! Posso fare qualcos'altro per te?}
 {177}{}{Vorrei bere ancora.}
 {178}{}{Cosa succede in paese?}
 {179}{}{Cosa c'e' da fare da queste parti?}
@@ -73,7 +73,7 @@
 {201}{}{Cosa c'e' da fare, cosa c'e' da fare... vediamo...}
 {202}{}{- avanti - }
 {203}{}{Qualcuno ha fatto evadere quei pazzi!}
-{204}{}{Qualcuno ha distrutto la miniera! La citta e' condannata!}
+{204}{}{Qualcuno ha distrutto la miniera! La citta' e' condannata!}
 {205}{}{Tutti i mutanti sono morti!}
 {206}{}{Niente di che.}
 {207}{}{Ho delle altre domande.}
@@ -87,11 +87,11 @@
 {215}{}{Hmm. I purificatori d'aria della miniera sono rotti. Dovresti andare a parlare con Zaius, il capo dei minatori, se vuoi saperne di piu'.}
 {216}{}{D'accordo. C'e' qualcos'altro?}
 {217}{}{Grazie. Ci si vede.}
-{218}{}{Ho capito che ora puoi curiosare nella miniera. Ehi, se trovi qualcosa, magari puoi anche tenertelo.}
+{218}{}{Mi risulta che ora puoi curiosare nella miniera. Ehi, se trovi qualcosa, magari puoi anche tenertelo.}
 {219}{}{Altri lavori?}
 {220}{}{Grazie.}
 {221}{}{Diamine si'! Scopri dove sono finiti quei due svitati, Franc e Manson!}
-{222}{}{Lo faro'.}
+{222}{}{Ci penso io.}
 {223}{}{Ho capito. Ci si vede.}
 {224}{}{C'e' sempre una carovana che parte per qualche luogo. Se vuoi unirti a una di queste, puoi parlare con Bill, il Fornitore. Oltre a cio', non abbiamo molto altro da fare da queste parti. Mi spiace.}
 {225}{}{Grazie! Ho ancora un paio di domande.}
@@ -102,10 +102,10 @@
 {230}{}{Cosa c'e' da fare da queste parti?}
 {231}{}{Novita'?}
 {232}{}{Niente. Non importa.}
-{233}{}{Spero che non ti arrabbierai se ti dico che i ragazzi qui sono piuttosto inferociti per il fatto che tieni l'uranio tutto per te. Sei stato avvisato. A parte questo... sei pronto a farti una bevuta?}
+{233}{}{Spero che non ti arrabbierai se ti dico che la gente qui e' piuttosto inferocita perche' tieni l'uranio tutto per te. Io ti ho avvisato. A parte questo... ti va una bevuta?}
 {234}{}{Si'.}
 {235}{}{No. Ma ho delle domande da farti.}
-{236}{}{Qualche persona potrebbe arrabbiarsi non poco per quello che e' successo con Chad. Io ti ho avvisato. Sei pronto a farti una bevuta?}
+{236}{}{Qualche persona potrebbe arrabbiarsi non poco per quello che e' successo con Chad. Io ti ho avvisato. Ti va una bevuta?}
 {237}{}{Si'.}
 {238}{}{No. Ma ho delle domande da farti.}
 {239}{}{Tutti i mutanti sono morti. Qualcuno ha fatto saltare quella dannata miniera mentre erano dentro. Qualche bastardo deve averli ingannati fingendosi in difficolta' e i mutanti si sono precipitati tutti per portare aiuto. Non riusciro' mai a capire certa gente. Al diavolo... posso darti qualcosa da bere?}
@@ -116,7 +116,7 @@
 {301}{}{.}
 {302}{}{Beh, }
 {303}{}{Grazie, }
-{304}{}{Ehila', }
+{304}{}{Rieccoti, }
 {305}{}{Ehi, }
 {306}{}{Ancora tu, }
 {307}{}{Nessun problema, amico. Ed ecco quello che hai ordinato. Ehi, posso fare qualcos'altro per te?}

@@ -24,4 +24,4 @@
 {290}{}{Mentre esamini la cassaforte in cerca di una trappola, provochi un'esplosione.}
 {291}{}{Hai tirato il filo sbagliato mentre disarmavi la trappola.}
 {300}{}{Senti un boato sordo provenire dal piano di sopra.}
-{400}{}{Apri un piccolo pannello sul fondo della cassaforte. Dubiti che saresti riuscito a trovarlo se la signora Bishop non te ne avesse parlato. All'interno c'e' uno strano dispositivo da collegare al pip-boy.}
+{400}{}{Apri un piccolo pannello sul fondo della cassaforte. Non l'avresti mai trovato se la signora Bishop non te ne avesse parlato. All'interno c'e' uno strano dispositivo da collegare al Pip-Boy.}

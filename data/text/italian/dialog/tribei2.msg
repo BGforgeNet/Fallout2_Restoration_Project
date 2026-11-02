@@ -1,7 +1,7 @@
 {100}{}{Vedi una cassa.}
-{101}{}{Una cassa che sembra piena di stimpak.}
+{101}{}{Una cassa che sembra piena di Stimpak.}
 {102}{}{Vedi una cassa piena di inutili Stimpak falsi.}
-{200}{}{[Dopo una rapida occhiata alla cassa, hai stabilito che ci sono circa cinquanta Stimpak, proprio come aveva detto il mercante.]}
+{200}{}{[Dopo una rapida occhiata alla cassa, stabilisci che contiene circa cinquanta Stimpak, proprio come aveva detto il mercante.]}
 {201}{}{[Esaminali piu' da vicino.]}
 {202}{}{[FATTO.]}
 {203}{}{Dopo averli esaminati attentamente, non noti nulla di insolito negli Stimpak.}

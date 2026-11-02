@@ -1,10 +1,10 @@
 {100}{}{Vedi Lydia.}
-{101}{}{Vedi una donna con i capelli castani che indossa dei pantaloni marroni e un'armatura di metallo. Sembrerebbe essere la barista.}
+{101}{}{Vedi una donna con i capelli castani che indossa una tuta da lavoro marrone e un'armatura di metallo. Sembrerebbe essere la barista.}
 {102}{}{Vedi Lydia.}
-{103}{}{Vedi una donna con i capelli castani che indossa dei pantaloni marroni e un'armatura di metallo. Sembrerebbe essere la barista.}
+{103}{}{Vedi una donna con i capelli castani che indossa una tuta da lavoro marrone e un'armatura di metallo. Sembrerebbe essere la barista.}
 {104}{}{Benvenuto! Che ne dici di bere qualcosa, Prescelto?}
 {105}{}{Benvenuto, Prescelto! Prego, accomodati pure.}
-{106}{}{Prego! Prendi una sedia e riposati per un attimo!}
+{106}{}{Prego! Si accomodi e si riposi un po'!}
 {107}{}{E' il Prescelto! Facciamo tutti un bel brindisi per l'EROE di Fallout 2!}
 {108}{}{Buon giorno, Capitano.}
 {109}{}{Vault City prevale, Capitano.}
@@ -14,11 +14,11 @@
 {113}{}{Un ghoul! Guardie! Guardie!}
 {114}{}{Il bar e' chiuso. Torna domattina.}
 {115}{}{Mi spiace, le ordinazioni sono chiuse. Torna domattina.}
-{116}{}{Siamo chiusi. Appena avro' finito di compilare la lista delle scorte del locale me ne andro' a letto.}
+{116}{}{Siamo chiusi. Appena avro' finito di compilare la lista delle scorte del locale chiudero' il locale.}
 {117}{}{Ehila', Prescelto! Stavamo giusto parlando delle tue avventure... posso portarti qualcosa da bere?}
 {118}{}{Lazzo, pazzo, come pozzo nero puzzo}
 {119}{}{-Allontanati-}
-{120}{}{Cosa avete da bere?}
+{120}{}{Cosa c'e' alla spina?}
 {121}{}{Vorrei alcune informazioni.}
 {122}{}{Ho la partita di alcolici che mi avevi chiesto.}
 {123}{}{Per oggi niente, grazie.}
@@ -36,7 +36,7 @@
 {135}{}{Si'? Posso aiutarla?}
 {136}{}{Ti? Tu? Tuu? Tuiiiii. Ptuiiiii essere suono che altri fare quando vedere me}
 {137}{}{-Allontanati-}
-{138}{}{Cosa avete da bere?}
+{138}{}{Cosa c'e' alla spina?}
 {139}{}{Vorrei alcune informazioni.}
 {140}{}{Ho la partita di alcolici che mi avevi chiesto.}
 {141}{}{Per oggi niente, grazie.}
@@ -58,7 +58,7 @@
 {157}{}{Va bene. Non ho problemi ad aspettare. Non vedo l'ora di bermi un bel bicchiere di latte fresco. Mmmmm-mmm. Sarebbe un vero toccasana.}
 {158}{}{Penso che provero' qualcos'altro, allora.}
 {159}{}{Come non detto. Senti, vorrei delle informazioni...}
-{160}{}{Dimentichi cio' che ho detto. Tornero' un'altra volta.}
+{160}{}{Lascia perdere. Tornero' un'altra volta.}
 {161}{}{Ecco a te. Nient'altro?}
 {162}{}{Uh, non avete dei veri alcolici?}
 {163}{}{Provero' un po' di birra sintetica.}
@@ -85,7 +85,7 @@
 {184}{}{E' quel grosso buco nella montagna a est di qui. Non puoi sbagliare. Non puoi entrare, pero', a meno che tu non sia un Cittadino.}
 {185}{}{Vorrei sapere qualcos'altro...}
 {186}{}{Ma io sono un Cittadino.}
-{187}{}{Certo, volevo solo avere dei punti di riferimento, grazie. Adesso devo andare.}
+{187}{}{Certo, volevo solo avere dei punti di riferimento, grazie. Vado a darci un'occhiata.}
 {188}{}{Hmmm. Grazie delle informazioni.}
 {189}{}{Certo che lo sei. Io, se fossi in te, starei attenta a non dire in giro una cosa del genere, "Cittadino". Qualcuno sapra' riconoscere qualsiasi documento falso ti abbia venduto quella sanguisuga di Skeev. Quindi cerca di mantenere un basso profilo, okay?}
 {190}{}{Uh, okay. Senti, vorrei sapere un'altra cosa...}
@@ -112,7 +112,7 @@
 {211}{}{Parlami di Gecko.}
 {212}{}{Vorrei sapere qualcos'altro...}
 {213}{}{Grazie delle informazioni.}
-{214}{}{E' una citta' mineraria molto a ovest di qui. Ultimamente non si sono viste molte carovane provenire da Redding e qualche alto papavero e' piuttosto preoccupato. Il Senatore McClure, in particolare.}
+{214}{}{E' una citta' mineraria molto a ovest di qui. Ultimamente non si sono viste molte carovane provenire da Redding e qualche alto papavero e' piuttosto preoccupato. Il Consigliere Anziano McClure, in particolare.}
 {215}{}{Parlami di Broken Hills.}
 {216}{}{Parlami di New Reno.}
 {217}{}{Parlami di Gecko.}
@@ -128,11 +128,11 @@
 {227}{}{Forse. Tra liquore vero e liquore sintetico non c'e' proprio storia.}
 {228}{}{Veramente no. Stavo invece cercando delle informazioni...}
 {229}{}{Non oggi.}
-{230}{}{Non c'e' dubbio. Una volta avevo una... beh, un tempo conoscevo un mercante che aveva una bottiglia di Maddog 30/30. Roba potente... dopo averla bevuta non mi sentivo piu' la lingua, ma aveva un gusto... "diverso".}
-{231}{}{Cos'e' successo al liquore di questo mercante?}
+{230}{}{Non c'e' dubbio. Una volta avevo una... beh, un tempo conoscevo un mercante che aveva una bottiglia di Maddog 30/30. Roba amara... dopo averla bevuta non mi sentivo piu' la lingua, ma aveva un gusto... "diverso".}
+{231}{}{Cos'e' successo al liquore di questo "mercante"?}
 {232}{}{Vorrei alcune informazioni.}
 {233}{}{Capisco. Beh, e' stato bello parlare con te.}
-{234}{}{E' stato bevuto tutto. Questo e' quello che ho sentito dire. C'erano anche alcuni altri "amici", qui a Vault City, che aiutarono il mio amico a scolarsi il liquore. Pur di bere qualcosa di diverso, pagarono una bella sommetta.}
+{234}{}{E' stato bevuto tutto. Questo e' quello che ho sentito dire. C'erano anche alcuni altri "amici", qui a Vault City, che aiutarono il mio amico a scolarsi il liquore. Pur di bere roba vera, per una volta, pagarono una bella sommetta.}
 {235}{}{Lo credo. Sai, non dovrei avere problemi a procurarmi degli alcolici. Ho viaggiato a lungo nelle Lande e recuperare un po' di alcol non e' certo un problema per me.}
 {236}{}{Vorrei alcune informazioni.}
 {237}{}{Capisco. Beh, e' stato bello parlare con te.}
@@ -144,8 +144,8 @@
 {243}{}{Hmmmm. Ci pensero' su e tornero'.}
 {244}{}{Magnifico! Ecco la tua ricompensa... questa somma e' pari al doppio del costo di quelle bottiglie. E questa transazione non ha mai avuto luogo, d'accordo?}
 {245}{}{Nessun problema. Ehi, adesso vorrei alcune informazioni...}
-{246}{}{Grazie. E' stato un piacere fare affari con te.}
-{247}{}{No, quegli intrugli che nelle lande chiamano "alcol puro" sono proibiti qui a Vault City. Non voglio nemmeno sapere come li fanno. Adesso posso darle qualcosa da bere, Capitano...?}
+{246}{}{Grazie. E' stato un piacere fare affari con lei.}
+{247}{}{No, quegli intrugli che nelle Lande chiamano "alcol" sono proibiti qui a Vault City. Non voglio nemmeno sapere come li fanno. Adesso posso darle qualcosa da bere, Capitano...?}
 {248}{}{Non c'e' niente di male a farsi un goccetto di liquore vero, di tanto in tanto. Certo, la Percezione ne risente un po', ma questo succede anche quando esageri con la polvere curativa...}
 {249}{}{Prendero' qualcos'altro, allora.}
 {250}{}{Come non detto, allora. Vorrei alcune informazioni...}
@@ -153,7 +153,7 @@
 {252}{}{Io non ne so nulla. Qui serviamo solo alcolici sintetici. Se per caso degli alcolici autentici entrassero a Vault City, io non ne saprei nulla.}
 {253}{}{Come non detto, allora. Vorrei alcune informazioni...}
 {254}{}{Capisco. Grazie lo stesso.}
-{255}{}{Capisco... Beh, uh, stammi bene. Okay?}
+{255}{}{Capisco... Beh, uh, abbi cura di te. Okay?}
 {256}{}{Grazie-strazie a tutte le ragazzie}
 {257}{}{-Allontanati-}
 {258}{}{Zzzzzzzz.}

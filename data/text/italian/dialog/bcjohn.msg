@@ -12,4 +12,4 @@
 {111}{}{Grazie per tutto quello che hai fatto. Mi scuso per la freddezza di prima.}
 {112}{}{Fottiti, stronzo!}
 {113}{}{Dannazione... odio quando questo succede.}
-{114}{}{Prendi questo! Si', questo ti insegnera' la lezione.}
+{114}{}{Prendi questo! Si', cosi' impari.}

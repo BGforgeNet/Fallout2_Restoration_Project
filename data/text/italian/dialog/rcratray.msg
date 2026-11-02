@@ -6,7 +6,7 @@
 {105}{}{Ratt si impegna davvero molto per aiutare.}
 {106}{}{Non so perche' continuo a sopportare la tua inettitudine.}
 {107}{}{Ratt e' davvero dispiaciuto, Ratt fara' meglio.}
-{108}{}{Lo spero per te, o ti ritroverai di nuovo in mezzo alla strada - e sono troppo buono.}
+{108}{}{Lo spero per te, o ti ritroverai di nuovo in mezzo alla strada - sono fin troppo buono.}
 {109}{}{No Dottore, non buttare fuori Ratt! Ratt fara' il bravo. Ratt promette.}
 {110}{}{Bene, allora vedi di migliorare i tuoi modi. Ti avverto.}
 {111}{}{Ratt sara' molto bravo. Ratt non dara' problemi. }
@@ -21,7 +21,7 @@
 {120}{}{NO! Non voglio che tu li mangi, succhi, lecchi o altro.}
 {121}{}{Ratt non mangera' insetti. Ratt si prendera' cura degli insetti del Dottore.}
 {122}{}{Bene, alla fine ci siamo messi d'accordo. Hai pulito gli scaffali?}
-{123}{}{Si', Dottor, Ratt ha pulito tutti gli scaffali del Dottore. Cariiini, cariiini scaffali. Belli scaffali, tutti puliti.}
+{123}{}{Si', Dottore, Ratt ha pulito tutti gli scaffali del Dottore. Cariiini, cariiini scaffali. Belli scaffali, tutti puliti.}
 {124}{}{Molto bene. E cosa mi dici del pavimento? Sembra sporco.}
 {125}{}{Ratt pulira' di nuovo il pavimento per il gentile Dottore. Non vuole pavimento sporco per Dottore pulito.}
 {126}{}{Hmm, immagino penserai di poterti riposare, adesso. Giusto?}
@@ -49,4 +49,4 @@
 {148}{}{Ratt non vede il Dottore da molto.}
 {149}{}{Dottore se n'e' andato, Ratt e' triste.}
 {150}{}{Chi si prendera' cura di Ratt, adesso?}
-{151}{}{Ratt terra' casa pulita' finche il Dottore non sara' tornato.}
+{151}{}{Ratt terra' casa pulita finche' il Dottore non sara' tornato.}

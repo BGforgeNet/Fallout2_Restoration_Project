@@ -31,9 +31,9 @@
 {164}{}{Uh...certo, Torr. Ti aiutero' a fare la guardia ai brahmin.}
 {165}{}{Non posso (scuotendo la testa rivolto a Torr) aiutarti. Addio.}
 {166}{}{Mechan to? (Prima di dedicarci a questo, Torr, sai qualcosa a proposito di un mercante che vive qui in citta'?)}
-{170}{}{Tu auta Torr. Campo di mu'-mu' (indica l'est) di scuro si'? (sorride) (Grazie dell'aiuto. Mi fara' davvero comodo il tuo aiuto, stanotte.)}
-{171}{}{Tu auta Torr. Campo di mu'-mu' (indica l'est) di scuro si'? (sorride)}
-{172}{}{ auta Torr. (Ci vedremo al pascolo a est di dove ci troviamo adesso al tramonto.)}
+{170}{}{Tu auta Torr. Campo di mu'-mu' (indica a est) di scuro si'? (sorride) (Grazie dell'aiuto. Mi fara' davvero comodo il tuo aiuto, stanotte.)}
+{171}{}{Tu auta Torr. Campo di mu'-mu' (indica a est) di scuro si'? (sorride)}
+{172}{}{ auta Torr. (Ci vediamo al tramonto, al pascolo a est del centro.)}
 {173}{}{Torr? (Ti aiutero' a proteggere i brahmin, ma avrei anche delle domande da farti.)}
 {174}{}{Ti aiutero' a proteggere i brahmin stanotte, Torr. Ci vediamo al pascolo a est della citta', all'ora del tramonto circa. A dopo.}
 {175}{}{Non posso aiutarti a difendere i brahmin stanotte, Torr. Ci vediamo.}
@@ -43,15 +43,15 @@
 {183}{}{Vuole! (indichi delle cose)(Dove posso fare dei baratti?)}
 {184}{}{Bar-ba Eden? (Hai mai sentito parlare di un Kit di Creazione del Giardino dell'Eden?)}
 {185}{}{Va Torr. (Questo e' tutto quello che volevo sapere, per adesso. Ci vediamo, Torr.)}
-{190}{}{Ook! Ominsetto, Ulik 'vaggio, Smiley 'parso. (Beh, c'e' quel mio problema con gli uomini insetto. Poi c'e' Sulik, il selvaggio, che mia madre sta facendo lavorare per fargli saldare un debito - credo che mia sorella si sia innamorata di lui. Il compagno di mia madre, un tipo di nome Smiley, e' scomparso da qualche parte a nord di qui. Non ci si annoia, ultimamente.)}
+{190}{}{Ook! Ominsetto, Ulik 'ribale, Smiley 'parso. (Beh, c'e' quel mio problema con gli uomini insetto. Poi c'e' Sulik, il tribale, che mia madre sta facendo lavorare per fargli saldare un debito - credo che mia sorella si sia innamorata di lui. Il compagno di mia madre, un tipo di nome Smiley, e' scomparso da qualche parte a ovest di qui. Non ci si annoia, ultimamente.)}
 {191}{}{Torr? (Sono davvero successe un sacco di cose da queste parti. Lascia che ti chieda qualcos'altro.)}
 {192}{}{Ook! (Queste informazioni mi bastano, per adesso. Ciao.)}
 {200}{}{Zzzzz? Torr Zzzzz. (Beh, sei il benvenuto, se vuoi dormire nella mia stanza - gratuitamente.)}
-{201}{}{Torr Zzzzzz? (Mi farai dormire con te? E' molto generoso da parte tua; accetto immediatamente la tua proposta. Sono stanco morto. Grazie.)}
+{201}{}{Torr Zzzzzz? (Mi lasci stare da te? E' molto generoso da parte tua; accetto immediatamente la tua proposta. Sono stanco morto. Grazie.)}
 {202}{}{Zzzzz? (Adesso non credo di voler riposare. Magari un'altra volta. Ho delle altre domande che vorrei farti.)}
 {203}{}{Zzzzz No Torr. (Adesso non ho voglia di riposare. Ti ringrazio della tua generosa offerta, pero'. Per il momento ti saluto, amico mio.)}
 {210}{}{Uckner! Zoogy (Credo che troverai i prezzi migliori proprio qui, nel locale della mia famiglia. Al Golden Gecko ti prenderebbero solamente in giro.)}
-{211}{}{Uckner Zoogy? (Grazie. Comprero' qui quello che che mi serve. Lascia che ti chieda qualcos'altro.)}
+{211}{}{Uckner Zoogy? (Grazie. Comprero' qui quello che mi serve. Lascia che ti chieda qualcos'altro.)}
 {212}{}{Zoogy no. (Grazie del consiglio. Non credo di aver bisogno d'altro, per adesso. Ci vediamo.)}
 {220}{}{Jeannie? Gick Vic (Allora tu vuoi un GECK, eh? Non facevano parte dell'equipaggiamento base dei Vault, in origine? Non so dove tu possa trovarne uno, ma se c'e' una persona che lo sa, questa e' sicuramente Vic, il mercante. E' specializzato in oggetti pre-bellici. Vive nella zona nordest di Klamath.)}
 {221}{}{Bellows, Gick Vic? (Grazie per la dritta. Provero' da Vic. Lascia che ti chieda qualcos'altro.)}
@@ -64,7 +64,7 @@
 {234}{}{Veramente sono qui per avvertirti. Ho visto degli uomini insetto proprio dietro a quella roccia. Come amico, faro' la guardia ai mu'-mu' per te mentre tu vai a cercare aiuto.}
 {240}{}{Ook? Auta mu'-mu' Auta Torr? No uomi insetto! Uomi insetto cattivi! (Sei qui per aiutarmi a proteggere i brahmin dall'assalto degli uomini insetto?)}
 {241}{}{Ook? Auta mu'-mu' Auta Torr? No uomi insetto! Uomi insetto cattivi!}
-{242}{}{ Auta mu'-mu' Auta Torr (Si', sono qui per aiutarti a proteggere i brahmin dagli uomini insetto. Non riusciranno a prenderne nessuno, con noi due qui a fare la guardia.)}
+{242}{}{ auta mu'-mu' auta Torr (Si', sono qui per aiutarti a proteggere i brahmin dagli uomini insetto. Non riusciranno a prenderne nessuno, con noi due qui a fare la guardia.)}
 {243}{}{No auta. (Mi dispiace, stavo solo facendo un giretto. Non sono qui per aiutarti. Addio.)}
 {244}{}{Uh, si'; sono qui per aiutarti a proteggere i brahmin -- cioe', i mu'-mu' -- dagli uomini insetto.}
 {245}{}{Veramente sono qui per avvertirti. Ho visto degli uomini insetto proprio dietro a quella roccia. Come amico, faro' la guardia ai mu'-mu' per te mentre tu vai a cercare aiuto.}
@@ -98,7 +98,7 @@
 {280}{}{! (Ehila', amico. Come posso aiutarti?)}
 {281}{}{ vede Torr! (Beh, avrei delle domande da farti.)}
 {282}{}{Torr, ciao. (E' bello rivederti, Torr. Sono solo di passaggio. Ci vediamo.)}
-{300}{}{Torr va cerca auto! (Torr corre via nella notte, lasciandoti solo con i mu'-mu', er, brahmin.)}
+{300}{}{Torr va cerca auto! (Torr corre via nella notte, lasciandoti solo con i mu'-mu', ehm, brahmin.)}
 {301}{}{Insetti morti. Mu'-mu' salvi. Torr grazie te.}
 {400}{}{Tu auta Torr. Campo di mu'-mu' (indica a est) ora si'? (sorride) (Grazie dell'aiuto. Mi fa davvero comodo.)}
 {401}{}{Tu auta Torr. Campo di mu'-mu' (indica a est) ora si'? (sorride)}
@@ -114,7 +114,7 @@
 {506}{}{No fare male mu'-mu' di Torr!}
 {507}{}{Torr arriva a salvare mu'-mu'!}
 {600}{}{Torr, grazie. Torr okay ora. Tu va.}
-{700}{}{Mecan? Oo Kramat? Ick boo Den. (Un mercante qui, a Klamath? Beh si', Vic principalmente vende oggetti d'antiquariato. Adesso non e' in citta. Credo che sia andato a vendere delle cose al Den. E' a sud di qui.)}
+{700}{}{Mecan? Oo Kramat? Ick boo Den. (Un mercante qui, a Klamath? Beh si', Vic principalmente vende oggetti d'antiquariato. Adesso non e' in citta'. Credo che sia andato a vendere delle cose al Den. E' a sud di qui.)}
 {701}{}{Groo! (Grazie mille, Torr. Che cosa mi stavi dicendo a proposito di quei tuoi predatori?)}
 {702}{}{Grok! Torr! (Grazie mille, Torr. Sei una perla tra gli uomini. Adesso devo andare, ma ti faccio un grossissimo in bocca al lupo per il tuo bestiame. Ci vediamo, Torr, amico mio.)}
 {800}{}{Hai salvato Torr.}

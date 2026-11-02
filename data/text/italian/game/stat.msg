@@ -37,7 +37,7 @@
 {136}{}{Avvelenamento attuale}
 {137}{}{Irradiamento attuale}
 {200}{}{Pura forza fisica. Un alto punteggio in Forza si addice ai personaggi fisici. Modifica: Punti Vita, Danno in mischia e Massimo peso trasportabile.}
-{201}{}{L'abilita' di vedere, udire, sentire e notare cose insolite. Un'elevata Percezione e' importante per un abile pistolero. Modifica: Sequenza e modificatori del combattimento a distanza.}
+{201}{}{L'abilita' di vedere, udire, sentire e notare cose insolite. Un'elevata Percezione e' importante per un tiratore scelto. Modifica: Sequenza e modificatori del combattimento a distanza.}
 {202}{}{Stato di forma. Un personaggio con un'alta Resistenza sopravvivera' in luoghi dove altri soccomberebbero. Modifica: PV, Resistenza a Veleno & Radiazioni, Tasso di guarigione e i PV addizionali per livello.}
 {203}{}{Una combinazione di aspetto e fascino. Un alto Carisma e' importante per personaggi che vogliono influenzare le persone con le parole. Modifica: reazioni dei PNG e prezzi di baratto.}
 {204}{}{La conoscenza, la saggezza e l'abilita' di pensare in modo rapido. Un'alta Intelligenza e' importante per qualsiasi tipo di personaggio. Modifica: il numero di nuovi Punti Abilita' per livello, le opzioni di dialogo e molte abilita'.}

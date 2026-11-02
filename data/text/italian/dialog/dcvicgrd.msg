@@ -1,7 +1,7 @@
 {100}{}{Vedi uno schiavista.}
 {150}{}{Sembra prestare molta attenzione alla porta accanto a se'.}
 {200}{}{Ehi! Via le mani da li'.}
-{201}{}{Ti ho visto!}
+{201}{}{Adesso basta!}
 {210}{}{Problemi?}
 {211}{}{Ti stai esercitando?}
 {212}{}{Hmmm.}
@@ -52,7 +52,7 @@
 {321}{}{Imbecille.}
 {322}{}{Uh, okay. Grazie.}
 {330}{}{Diamine. Metzger e' il Mastro Schiavista. E' lui che manda avanti le cose, qui.}
-{331}{}{Diamine, miss. Questo e' l'ultimo luogo dove una signora come voi vorrebbe trovarsi. Metzger e' il Mastro Schiavista.}
+{331}{}{Diamine, miss. Questo e' l'ultimo luogo dove una signora come te vorrebbe trovarsi. Metzger e' il Mastro Schiavista.}
 {332}{}{Oh, dov'e' il suo ufficio?}
 {333}{}{Okay, ciao.}
 {340}{}{Subito dopo quella porta laggiu'.}
@@ -66,7 +66,7 @@
 {364}{}{Gaw.}
 {370}{}{Certo, puoi vederlo.}
 {371}{}{Certo, puoi vederlo. Lascia che ti apra la porta.}
-{372}{}{Cisterna.}
+{372}{}{Grassie.}
 {380}{}{Oh, davvero? Sono sicuro che il boss lo apprezzerebbe. Basta che se ne stia buono. Non vogliamo che scappi ancora.}
 {381}{}{Grazie.}
 {390}{}{No, mi dispiace. E' occupato: sta facendo un lavoro per il capo.}
@@ -77,7 +77,7 @@
 {395}{}{Si'. Ecco.}
 {396}{}{No. Tornero'.}
 {397}{}{Chi e' il tuo capo?}
-{398}{}{Lasciamo perdere. Ci vediamo.}
+{398}{}{Lasciamo perdere. Ciao.}
 {410}{}{Smettila di rompere. Va' a parlare con Metzger. E' lui il boss.}
 {411}{}{Lasciami in pace! Hai dei problemi o cosa?}
 {412}{}{Ho detto: parla con Metzger!}
@@ -99,7 +99,7 @@
 {470}{}{Beh, uh... non saprei. Credo non ci sia niente di male se gli parli solamente. 300$ e ti lascero' entrare.}
 {471}{}{Sei matto. E' troppo!}
 {472}{}{Fottiti, amico!}
-{473}{}{Bene.}
+{473}{}{Certo.}
 {474}{}{Mi dispiace, non posso permettermelo.}
 {480}{}{Okay. Per quel che mi frega...}
 {481}{}{Okay.}
@@ -114,4 +114,4 @@
 {504}{}{Sara' bene che Vic lavori bene per te.}
 {505}{}{Magari ci becchiamo durante un raid.}
 {506}{}{Come va?}
-{507}{}{Ciao, di nuovo.}
+{507}{}{Rieccoti.}

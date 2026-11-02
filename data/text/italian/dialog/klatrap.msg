@@ -1,1 +1,1 @@
-{100}{}{Sei entrato in una zona boschiva.}
+{100}{}{Entri in una zona boschiva.}

@@ -10,7 +10,7 @@
 {109}{}{Non so. Non penso di poterla salvare. Forse dovremo amputare questa gamba.}
 {110}{}{Stai scherzando.}
 {111}{}{Ah-ah.}
-{112}{}{Ecco a te, figliuolo.}
+{112}{}{Ecco a te, figliolo.}
 {113}{}{Ancora.}
 {114}{}{Grazie, Doc. Forse potresti rispondere a qualche domanda.}
 {115}{}{Arrivederci.}
@@ -44,8 +44,8 @@
 {143}{}{E allora... dov'e'?}
 {144}{}{Dove vault?}
 {145}{}{Non saprei dirtelo. Saltbeef ha sempre detto di avere una mappa, ma nessuno l'ha mai vista.}
-{146}{}{Carne salata?}
-{147}{}{Un'altra cosa...}
+{146}{}{Saltbeef?}
+{147}{}{Chiedere altro.}
 {148}{}{Beh, e' piu' di quanto non avessi prima.}
 {149}{}{Il colpo grosso. Saltbeef e' un vecchio cercatore d'uranio - piu' precisamente, un ubriacone. Negli ultimi tempi vive nella proprieta' di Westin.}
 {150}{}{Un'altra domanda...}
@@ -56,7 +56,7 @@
 {155}{}{Saltbeef e' un vecchio cercatore d'uranio. Negli ultimi tempi vive nella proprieta' di Westin.}
 {156}{}{Un'altra domanda...}
 {157}{}{Grazie per la storia.}
-{158}{}{Faresti meglio ad andare a parlare con il Presidente Tandi. Ho sentito dire che sta cercando una persona speciale.}
+{158}{}{Faresti meglio ad andare a parlare con la Presidente Tandi. Ho sentito dire che sta cercando una persona speciale.}
 {159}{}{Un'altra domanda...}
 {160}{}{Grazie.}
 {161}{}{Forse... Esiste un gruppo che ha come obiettivo la scomparsa della schiavitu' e - beh, di praticamente tutte le altre cattiverie. Puoi trovarli in quel grande negozio, che lavorano su qualche automobile.}
@@ -65,9 +65,9 @@
 {164}{}{Ehi, giu' le mani da li', ragazzaccio!}
 {165}{}{Fa' attenzione! Basta poco di quello per farti male.}
 {166}{}{Mettilo a posto! Potresti farti male sul serio con quella roba.}
-{167}{}{Quelle medicine sono per Mr. Westin, non per te. Mettile giu'.}
-{168}{}{Sta' lontano da li'. Devo stare attento. Non vorrei che Mr. Westin assumesse la medicina sbagliata.}
-{169}{}{Occhio! Ho appena preparato la medicina per Mr. Westin.}
+{167}{}{Quelle medicine sono per il signor Westin, non per te. Rimettile a posto.}
+{168}{}{Sta' lontano da li'. Devo stare attento. Non vorrei che il signor Westin assumesse la medicina sbagliata.}
+{169}{}{Occhio! Ho appena preparato la medicina per il signor Westin.}
 {170}{}{Sono Doc Jubilee. Cosa c'e' che non va, signorina?}
 {171}{}{Cosa c'e' che non va, signorina?}
 {172}{}{Ecco a te, signorina.}
@@ -80,15 +80,15 @@
 {202}{}{signorina! }
 {203}{}{Non puoi toccare quella roba! Ho appena misurato la dose del signor Westin e non vorremmo mica che prendesse le medicine sbagliate. Che diavolo credi di fare?}
 {204}{}{Stavo solo cercando di dare un'occhiata a quelle pillole che hai sullo scaffale la'.}
-{205}{}{Oh, non badare a me. Stavo solo dando un’occhiata.}
+{205}{}{Oh, non badare a me. Stavo solo dando un'occhiata.}
 {206}{}{Scusa. Ho sempre avuto questa irresistibile compulsione a frugare tra le cose degli altri che non sono mai riuscito a scrollarmi di dosso.}
 {207}{}{Onestamente? Non mi aspettavo che fossi cosi' attento. Immagino che dovro' improvvisare.}
-{210}{}{Davvero? (Il Dott. Jubilee ti guarda con freddezza.) Direi che sei un po' troppo giovane per soffrire di un cuore malandato.}
-{211}{}{E avresti ragione. Chiedo per il mio amico Cassidy. Un tipo piu' anziano. Ha un cuore malato, e viaggiare nel wasteland sta diventando abbastanza duro per lui.}
+{210}{}{Davvero? (Doc Jubilee ti guarda con freddezza.) Direi che sei un po' troppo giovane per soffrire di un cuore malandato.}
+{211}{}{E avresti ragione. Chiedo per il mio amico Cassidy. Un tipo piu' anziano. Ha un cuore malato, e viaggiare per le Lande sta diventando abbastanza duro per lui.}
 {212}{}{E vorrei che avessi ragione. L'ho preso da mio padre. O almeno cosi' mi dicono.}
 {213}{}{Oh, niente del genere. Sono solo esageratamente curioso, immagino.}
 {220}{}{Be', non puoi. Questo e' uno studio privato, non una farmacia. Potresti provare da Duppo, un po' a nord di qui.}
-{221}{}{Sembra proprio quello che cercavo. Addio.}
+{221}{}{Sembra proprio quello che cercavo. Ciao.}
 {222}{}{Ci daro' un'occhiata. Nel frattempo, pero', ti dispiace se ti faccio qualche domanda?}
 {223}{}{No, credo di essere venuto nel posto giusto. Vedo che stai facendo un buon lavoro qui. Pensavo di poter fare una donazione.}
 {230}{}{(Il dottore sbatte le palpebre. Le sbatte di nuovo.) Dovresti probabilmente parlarne con qualcuno. Purtroppo
@@ -99,7 +99,7 @@
 {240}{}{Awww, }
 {241}{}{ragazzo, }
 {242}{}{signorina, }
-{243}{}{Vorrei poterti aiutare, ma non sto prendendo nuovi pazienti adesso. Il Consiglio mi ha assunto a contratto. Non posso venderti pillole neanche-- la gente del Consigliere Westin dovrebbe venire a ritirare quelle tra }
+{243}{}{Vorrei poterti aiutare, ma non sto prendendo nuovi pazienti adesso. Il Consiglio mi ha assunto a contratto. Non posso nemmeno venderti pillole-- la gente del Consigliere Westin dovrebbe venire a ritirare quelle tra }
 {244}{}{ giorni, }
 {245}{}{ giorno, }
 {246}{}{e non avro' proprio il tempo di preparare un altro lotto prima di allora.}
@@ -109,17 +109,17 @@
 {260}{}{Sia chiaro, }
 {261}{}{signore. }
 {262}{}{signorina. }
-{263}{}{Cosa intendi esattamente per “donazione?”}
-{264}{}{Un contributo di beneficenza, a sostegno del tuo servizio al pubblico, diciamo... 150 dollari? Puoi contarli nel retro. Ci vorra' solo un minuto, giusto?}
+{263}{}{Cosa intendi esattamente per "donazione"?}
+{264}{}{Un contributo di beneficenza, a sostegno del tuo servizio al pubblico, diciamo... 150$? Puoi contarli nel retro. Ci vorra' solo un minuto, giusto?}
 {265}{}{Uh, in realta', credo che dovrei consultare il mio commercialista prima di fare qualcosa di avventato. A dopo, dottore.}
 {270}{}{Non posso, temo. Quelle sono per il Consigliere Westin. La sua gente dovrebbe passare a ritirarle tra }
 {271}{}{ giorni, }
 {272}{}{ giorno, }
 {273}{}{e non avro' il tempo di preparare un altro lotto prima di allora. Sono sicuro che puoi trovare un farmacista con meno lavoro.}
 {274}{}{Capisco. Grazie comunque.}
-{280}{}{(Il Dott. Jubilee ti fissa a bocca aperta per un momento.) Aw, mi stai prendendo in giro, vero? Devi stare per forza facendo il furbetto. (Ti guarda di nuovo, scuote la testa, gonfia le guance.) Hooo, ragazzo. In ogni caso, non sarei un vero dottore se ti lasciassi andare senza almeno qualche consiglio.}
+{280}{}{(Doc Jubilee ti fissa a bocca aperta per un momento.) Aw, mi stai prendendo in giro, vero? Per forza mi stai prendendo in giro. (Ti guarda di nuovo, scuote la testa, gonfia le guance.) Hooo, mamma mia. In ogni caso, non sarei un vero dottore se ti lasciassi andare senza almeno qualche consiglio.}
 {281}{}{Vediamo... per cominciare, dovresti probabilmente smettere di fare... be', praticamente quasi tutto dovrebbe bastare. Niente alcol, niente fumo, niente carne rossa, NIENTE chem. Cerca di fare mezz'ora al giorno di esercizio LEGGERO. E prendila con calma. La vita non e' una gara, almeno non del tipo dove vuoi arrivare primo alla fine. A dire il vero, nessuno ascolta mai queste cose, ma almeno staro' piu' tranquillo stanotte.}
-{282}{}{Piu' importante, devi trovare un chimico decente e dirgli che hai bisogno di una fornitura regolare di Triprosinil. Tri-pros-i-nil. La roba del wasteland non sara' elegante come quella che ho sullo scaffale la', ma chimicamente e' tutta uguale quando si viene al sodo. 30 milligrammi, due volte al giorno.}
+{282}{}{Piu' importante, devi trovare un chimico decente e dirgli che hai bisogno di una fornitura regolare di Triprosinil. Tri-pros-i-nil. La roba delle Lande non sara' elegante come quella che ho sullo scaffale la', ma chimicamente e' tutta uguale quando si viene al sodo. 30 milligrammi, due volte al giorno.}
 {283}{}{Ora, devi assicurarti di bere molta acqua mentre prendi questa roba. E per l'amor di Dio, stai *piu' lontano che puoi* da quelle pillole per il cazzo come quelle che hanno su a New Reno, capito? Non vanno d'accordo. Se uno le prende insieme all'altra, il suo uccello non sara' di certo l'unica parte di lui a irrigidirsi quel giorno, se mi capisci.}
 {284}{}{(Tra te e te) Hmm, potrebbe funzionare. Si'. Magari qualcosa come un composto inibitore PDE-5...}
 {285}{}{Oh-- E se *vai* da uno di quei ciarlatani di Reno, potrebbe dirti che questa roba ti protegge il cuore da quasi qualsiasi veleno dello spacciatore che ti venga voglia di provare. Non ti mentiro'-- probabilmente c'e' un po' di verita' in quello. Non rende essere un drogato piu' glamour. Sei grande e vaccinato, quindi non ti faccio la morale, ma ecco come stanno le cose.}
@@ -129,17 +129,17 @@
 {291}{}{ragazzo, }
 {292}{}{ragazzina, }
 {293}{}{e' cosi'? Non farlo. Sono un professionista medico dell'NCR formato e accreditato, e vale molto di piu' di quella manciatina di spiccioli.}
-{294}{}{Mi scuso. Ovviamente, un professionista del tuo calibro merita una donazione di non meno di 250 dollari.}
+{294}{}{Mi scuso. Ovviamente, un professionista del tuo calibro merita una donazione di non meno di 250$.}
 {295}{}{(Abbassa la testa.) Senti, mi dispiace davvero. Non sono orgoglioso di me stesso, e normalmente non avrei mai tentato una cosa del genere, ma saro' onesto con te: avevo un disperato bisogno di quelle pillole.}
 {296}{}{Scusa il disturbo. Credo che sia meglio andarmene prima di cacciarmi in un guaio ancora peggiore.}
-{300}{}{(Il Dott. Jubilee comincia a diventare rosso.) Non credo che tu mi abbia sentito la prima volta,}
+{300}{}{(Doc Jubilee comincia a diventare rosso.) Non credo che tu mi abbia sentito la prima volta,}
 {301}{}{ ragazzo, }
 {302}{}{ donna, }
 {303}{}{quindi ascolta bene: sono un dottore dell'NCR. E' un dovere solenne, e viene con un giuramento solenne. Se mi chiedi ancora una volta di pisciare su quel giuramento, l'UNICA parte che finira' dalla finestra e' "prima di tutto, non nuocere." Capito?}
 {304}{}{Va bene, al diavolo. Se sei cosi' bravo come sembri credere, forse riuscirai a rammendarti da solo dopo questo.}
 {305}{}{Ehi, calma. Non volevo offenderti, dottore. Ti lascio lavorare.}
-{310}{}{Senta, dottore, mi chiedevo di quelle pillole per il cuore che ha li' sullo scaffale.}
-{311}{}{Sei sicuro di non poter riconsiderare di vendermi alcune di quelle pillole?}
+{310}{}{Senti, dottore, mi chiedevo di quelle pillole per il cuore che hai li' sullo scaffale.}
+{311}{}{Sei sicuro di non poterci ripensare e vendermi qualcuna di quelle pillole?}
 {320}{}{Spiacente, la gente del Consigliere Westin dovrebbe passare a ritirarle tra }
 {321}{}{ giorni, }
 {322}{}{ giorno, }

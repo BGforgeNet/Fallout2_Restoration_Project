@@ -1,6 +1,6 @@
-{100}{}{Vedi un deathclaw. Ti guarda con occhi dall'aspetto stranamente intelligente.}
+{100}{}{Vedi un Deathclaw. Ti guarda con occhi dall'aspetto stranamente intelligente.}
 {101}{}{Vedi Dar, il Deathclaw.}
-{102}{}{Vedi un tipico deathclaw. Questa creatura e' grossa, con un corpo possente, denti affilati e lunghi artigli.}
+{102}{}{Vedi un tipico Deathclaw. Questa creatura e' grossa, con un corpo possente, denti affilati e lunghi artigli.}
 {103}{}{Salve, umano.}
 {104}{}{Cosa tu volere?}
 {105}{}{Ciao. Chi tu?}
@@ -8,8 +8,8 @@
 {107}{}{Tu sveglio come altri?}
 {108}{}{Me annoiato, me va.}
 {109}{}{Scusa se ti disturbo, ma tu chi sei?}
-{110}{}{Qual e' il tuo compito nel vault?}
-{111}{}{Per favore, non offenderti, ma... quanto sei intelligente?}
+{110}{}{Qual e' il tuo compito nel Vault?}
+{111}{}{Per favore, non offenderti, ma... quanto sei istruito?}
 {112}{}{Beh, passavo un po' il tempo.}
 {113}{}{Io Dar, guerriero.}
 {114}{}{Ok.}

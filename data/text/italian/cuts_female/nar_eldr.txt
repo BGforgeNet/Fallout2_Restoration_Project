@@ -1,4 +1,4 @@
 1:L'anziana di Arroyo visse per molti anni dopo la distruzione dell'Enclave.
-2:Ella sembro' felice che l'antica ferita tra il Vault 13 e l'Abitante del Vault si fosse rimarginata, e molte furono le volte in cui ella ti disse che avrebbe voluto che l'Abitante del Vault fosse vivo per vedere la riconciliazione avvenuta.
-3:Certa che la sicurezza del nuovo villaggio fosse assicurata e che la nuova comunita' avrebbe prosperato, l'Anziana mori' pochi mesi dopo nel sonno.
-4:Molti degli anziani abitanti di Arroyo credono che ora ella viva nel vault nel cielo, a parlare con l'Abitante del Vault delle tue coraggiose imprese.
+2:Fu felice che l'antica separazione tra il Vault 13 e l'Abitante del Vault fosse stata ricomposta, e molte volte ti disse che avrebbe voluto che l'Abitante del Vault fosse vivo per assistere alla riconciliazione.
+3:L'Anziana mori' nel sonno, certa che il tuo nuovo villaggio fosse al sicuro e ormai prospero.
+4:Molti degli anziani abitanti di Arroyo credono che ora viva nel Vault del cielo, dove racconta all'Abitante del Vault le tue coraggiose imprese.

@@ -4,18 +4,18 @@
 {200}{}{Ti troverai benissimo qui.}
 {201}{}{Perche' non ci offri un giro di bevute?}
 {202}{}{Vuoi sfidare i Dunton a braccio di ferro?}
-{203}{}{Hai l'aria di uno che viene da nord, da Den.}
+{203}{}{Hai l'aria di una che viene da nord, da Den.}
 {204}{}{Cos'hai da guardare?}
 {205}{}{Hai una pelle cosi' liscia, dolcezza. Heh, heh, heh.}
 {206}{}{Urp, avrei proprio bisogno di un altro boccale di piscio di gecko.}
 {207}{}{Se hai bisogno di grana, i Dunton stanno cercando un aiutante.}
-{208}{}{Non sei affatto male, per essere uno che arriva da un tribu'.}
-{209}{}{96 pinte di piscia sul muro, 96 pinte di piscia...}
+{208}{}{Non sei niente male, per essere una tribale.}
+{209}{}{96 boccali di piscio sul muro, 96 boccali di piscio...}
 {210}{}{Sto per andare a sud, al Den; c'e' un sacco di lavoro laggiu'.}
-{211}{}{Ancora piscia di gecko, Salvadore!}
+{211}{}{Ancora piscio di gecko, Salvadore!}
 {212}{}{La caccia va male ultimamente; ci deve essere un modo piu' facile per fare soldi.}
-{213}{}{Non sono cosi' ubriaco come pensi.}
-{214}{}{Ehi, tipo: questi dadi ti sembrano truccati? (scuote dei dadi nella mano)}
+{213}{}{Non zono cozi' ubriaco come penzi.}
+{214}{}{Ehi, tipa: questi dadi ti sembrano truccati? (scuote dei dadi nella mano)}
 {215}{}{Parla con i Dunton o con il barista se cerchi lavoro, amica.}
 {216}{}{Hai scelto il posto giusto dove venire a bere, amica.}
 {217}{}{No, Bishop; non di nuovo quella storia con il coltello.}
@@ -27,13 +27,13 @@
 {223}{}{Fare il trapper e' pericoloso; proprio poche settimane fa ne abbiamo perso uno.}
 {224}{}{Mi piace troppo raggirare quel Torr.}
 {300}{}{Guardate un po' chi e' venuto a farci visita.}
-{301}{}{(mumble, mumble) ...questa questa santarellina... (mumble)}
+{301}{}{(mumble, mumble) ...questa santarellina... (mumble)}
 {302}{}{Non e' che sei nella zona sbagliata del paese?}
-{303}{}{Qui non abbiamo bisogno di tipi come te, selvaggio.}
+{303}{}{Qui non abbiamo bisogno di tipi come te, tribale.}
 {304}{}{Forse, se tu comprassi da bere a tutti noi, potremmo anche decidere di farti restare.}
-{305}{}{Gira al largo, selvaggio.}
+{305}{}{Gira al largo, tribale.}
 {306}{}{Perche' mi stai fissando?}
-{307}{}{I Dunton ti metterano a posto, selvaggio.}
+{307}{}{I Dunton ti metteranno a posto, tribale.}
 {308}{}{Hai proprio scelto il posto sbagliato dove venire a bere.}
 {309}{}{La tua mammina non e' qui, poppante. Prova alla Bath House.}
 {310}{}{Perche' non te ne vai a giocare da qualche altra parte?}
@@ -42,8 +42,8 @@
 {313}{}{Faresti meglio a farti gli affari tuoi.}
 {314}{}{Tuo nome Torr? (heh, heh, heh)}
 {315}{}{Perche' non te ne vai a bere con Aldo?}
-{316}{}{Questo non e' un posto adatto a te, marmocchio.}
-{317}{}{Non sei il mio compagno di bevute ideale.}
+{316}{}{Questo non e' un posto adatto a te, marmocchia.}
+{317}{}{Non sei la mia compagna di bevute ideale.}
 {318}{}{Humph. (sputa sul pavimento)}
 {319}{}{Non vale la pena degnarti di uno sguardo.}
-{320}{}{Ti senti a disagio…di gia'?}
+{320}{}{Ti senti di troppo... gia'?}

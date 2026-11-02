@@ -10,45 +10,45 @@
 {116}{}{Sei davvero un tipo amichevole, sai?}
 {117}{}{Sto aspettando di avere un motivo. Vuoi darmene tu uno?}
 {120}{}{Perche' diavolo cammini in punta di piedi?}
-{121}{}{Se vuoi passare inosservato, devi cercare di essere molto piu' silenzioso di cosi'.}
+{121}{}{Se vuoi passare inosservato, devi cercare di essere molto piu' silenziosa di cosi'.}
 {122}{}{Oh, ma sei davvero un tipo furtivo.}
-{123}{}{Sei bravo nel tuo lavoro. Gia'.}
+{123}{}{Sei brava nel tuo lavoro. Gia'.}
 {124}{}{Imbecille, cammina normalmente!}
 {125}{}{Un'altra esponente del Ministero delle Camminate Stupide.}
 {126}{}{Posso vederti. E infatti adesso ti spacco la testa.}
 {127}{}{Questo significa che neanche tu puoi vedermi, giusto?}
 {128}{}{Cos'e' questo? Non e' uno scherzo. Muoversi furtivamente richiede assoluta concentrazione.}
-{129}{}{Uh, stai davvero cercando di essere il piu' silenzioso possibile?}
+{129}{}{Uh, stai davvero cercando di essere la piu' silenziosa possibile?}
 {130}{}{Questa porta conduce ad una zona riservata. Ti serve una Tessera Gialla per passare.}
 {131}{}{Ti serve un livello di Autorizzazione Giallo per passare di qui.}
 {132}{}{Se vuoi una Tessera Gialla devi parlare con Harold.}
 {133}{}{Niente tessera, niente passaggio.}
-{134}{}{Non puoi superare questa porta senza una Tessera Gialla, amico.}
+{134}{}{Non puoi superare questa porta senza una Tessera Gialla, amica.}
 {140}{}{Mi fa piacere che tu abbia l'autorizzazione.}
 {141}{}{Ehila', pelle-liscia.}
 {142}{}{Se succede qualcosa, sapremo chi incolpare.}
-{143}{}{Farai meglio a stare attento, li' dentro. Fa un po' troppo caldo per i tipi come te.}
+{143}{}{Farai meglio a stare attenta, li' dentro. Fa un po' troppo caldo per i tipi come te.}
 {144}{}{Bene, quella tessera sembra proprio quella giusta.}
 {150}{}{Niente tessera, niente passaggio.}
 {151}{}{Questa e' una zona riservata.}
 {152}{}{Farai meglio a non fare strani scherzi, qui dentro.}
 {153}{}{Ti serve una Tessera Rossa per aprire questa porta.}
 {154}{}{Farai meglio a chiedere una Tessera Rossa ad Harold, se vuoi entrare qui dentro.}
-{160}{}{Farai meglio a stare attento, qui dentro.}
-{161}{}{Benvenuto nell'area di controllo.}
+{160}{}{Farai meglio a stare attenta, qui dentro.}
+{161}{}{Benvenuta nell'area di controllo.}
 {162}{}{Non toccare nulla.}
 {163}{}{Se qui dentro succede qualcosa, verremo a cercarti.}
 {164}{}{Se succede qualcosa noi incolpiamo te.}
 {170}{}{Sono piuttosto sorpreso di vedere una pelle-liscia come te qui dentro.}
 {171}{}{Mi sembra che tu stia cominciando ad abbronzarti.}
-{172}{}{Mmm, adoro questa radiazione di fondo -— e tu?}
+{172}{}{Mmm, adoro questa radiazione di fondo -- e tu?}
 {173}{}{Non toccare nulla qui dentro.}
 {174}{}{Tieni le mani a posto e andra' tutto bene.}
 {180}{}{Non prendere nulla senza autorizzazione.}
 {181}{}{Non puoi prendere nulla se non hai l'autorizzazione.}
 {182}{}{Parla con Jeremy o con Harold, se vuoi qualcosa.}
 {183}{}{Niente esce di qui senza autorizzazione.}
-{184}{}{No autorizzazione, no parti.}
+{184}{}{Niente autorizzazione, niente pezzi.}
 {190}{}{Fa' attenzione, pelle-liscia.}
 {191}{}{Non ti preoccupano le radiazioni che ci sono qui?}
 {192}{}{Fa' attenzione qui dentro.}
@@ -58,4 +58,4 @@
 {201}{}{Piantala li', e allontanati.}
 {202}{}{Cavoli, quello non ha proprio l'aspetto di una tessera.}
 {203}{}{Se ci riprovi, saremo costretti ad ucciderti.}
-{204}{}{Devi essere piu' stupido di quanto sembra per provare a fare una cosa del genere proprio davanti a noi.}
+{204}{}{Devi essere piu' stupida di quanto sembri per provare a fare una cosa del genere proprio davanti a noi.}

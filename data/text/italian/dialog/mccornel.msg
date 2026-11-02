@@ -25,7 +25,7 @@
 {185}{}{Mi pareva tu avessi appena detto che Rose e' tua moglie.}
 {186}{}{Ho una stanza. Dormo la'. Dove dormi tu?}
 {187}{}{Non credo che tu abbia capito. Vorrei affittare una camera per la notte.}
-{188}{}{Un momento fa, non ricordo quando... il mio migliore amico per 30... o erano 40 anni? Oh, non ha importanza, quello che importa e' che lui mi ha rubato il mio orologio d'oro da taschino. La mia famiglia se lo tramanda da cinque, no sei, err... quattro generazioni. Yep, mi ricordo perfettamente il momento in cui l'ho riposto sulla mia scrivania. Poi, quando ho guardato nuovamente sul tavolo da cucina, era sparito.}
+{188}{}{Tempo fa, non ricordo quando... il mio migliore amico da 30... o erano 40 anni? Oh, non ha importanza, quello che importa e' che lui mi ha rubato il mio orologio d'oro da taschino. La mia famiglia se lo tramanda da cinque, no sei, err... quattro generazioni. Yep, mi ricordo perfettamente il momento in cui l'ho riposto sulla mia scrivania. Poi, quando ho guardato nuovamente sul tavolo da cucina, era sparito.}
 {189}{}{OK, ti riportero' il tuo orologio.}
 {190}{}{Hai provato a cercarlo sulla tua scrivania?}
 {191}{}{Mi aiuterai? Splendido! Vai a dare una lezione a Farrel e riportami il mio orologio. Probabilmente l'ha nascosto bene. Percio' rivolta la sua casa da cima a fondo e cercalo.}
@@ -39,7 +39,7 @@
 {199}{}{Ho un orologio. Era un orologio d'oro. Mi domando dove posso averlo messo...}
 {200}{}{Si', si', si'. Ho guardato nel mio cassetto dei calzini. Non e' nemmeno li'.}
 {201}{}{Staro' attento, in caso dovessi vedere il tuo orologio mentre sono in citta'.}
-{202}{}{Non c'e' modo di aiutare un vecchio pazzo come te. Me ne vado.}
+{202}{}{Non ho nessuna intenzione di aiutare un vecchio pazzo come te. Me ne vado.}
 {203}{}{Lo sapevo che non potevo fidarmi di lui! Lo appendero' per le orecchie finche' non mi avra' ridato il mio orologio.}
 {204}{}{Non c'e' niente li' dentro. Lo sceriffo Jo ed io ci abbiamo gia' guardato.}
 {206}{}{Davvero? Lo sapevo! Gli daro' una lezione che non scordera' mai. Farai meglio a rimanere qui o potresti farti male.}
@@ -48,12 +48,12 @@
 {209}{}{Hai provato le omelette di Rose? Sono deliziose.}
 {210}{}{Ho visto Jonny che giocava con il suo cane Laddie vicino al pozzo. Che bel bambino.}
 {211}{}{Non recarti alla Fattoria Fantasma, a meno che tu non sia stanco di vivere.}
-{212}{}{Miria e' una bella ragazza. Quand'era piccola giocavamo spesso al dottore.}
-{213}{}{Davin e' un bel ragazzo. Mi chiedo perche' non assomigli per nulla a suo padre...}
+{212}{}{Miria e' una brava ragazza. Quand'era piccola giocavamo spesso al dottore.}
+{213}{}{Davin e' un bravo ragazzo. Mi chiedo perche' non assomigli per nulla a suo padre...}
 {214}{}{Un giorno me ne stavo seduto sulla tazza e un grosso cane si e' arrampicato su dallo scarico. Mi ha fatto quasi venire un colpo.}
 {215}{}{Grisham e' un brav'uomo. Ci vende gli scarti per darli da mangiare alla gallina gigante.}
-{216}{}{Stai lontano dalla stia! Una volta ho quasi perso un braccio mentre davo da mangiare a quel coso.}
-{217}{}{I cani di Rose sono cattivi, ma se tiro loro un po' di carne non mi badano.}
+{216}{}{Non avvicinarti alla stia! Una volta ho quasi perso un braccio mentre davo da mangiare a quel coso.}
+{217}{}{I cani di Rose sono cattivi, ma se gli tiro un po' di carne secca mi lasciano in pace.}
 {218}{}{Farrel e' il migliore amico che ci sia.}
 {219}{}{Laddie e' un cane intelligente. Gli parlo sempre.}
 {220}{}{Ho sentito che Grisham sta cercando di far sposare i suoi figli. Mi domando se a Rose dispiacerebbe se prendessi un'altra moglie.}

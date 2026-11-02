@@ -1,7 +1,7 @@
 {100}{}{Vedi un'imponente figura corazzata dall'aspetto umano.}
 {101}{}{Vedi Frank Horrigan, agente del Servizio Segreto.}
 {102}{}{Vedi un'enorme creatura umanoide che ti fissa con uno sguardo di puro odio.}
-{103}{}{Non uscirai vivo da qui, mutante.}
+{103}{}{Non uscirai viva da qui, mutante.}
 {104}{}{Dannata mutante.}
 {105}{}{Sporca mutante rossa!}
 {106}{}{Hai distrutto tutti noi.}

@@ -29,9 +29,9 @@
 {128}{}{Vic ha fatto uno sgarro al capo della Gilda degli Schiavisti. Puoi trovarlo li'. Buona fortuna,}
 {129}{}{Aspettare! Dove io trova gilda?}
 {130}{}{Aspetta, puoi dirmi dove si trova la Gilda degli Schiavisti?}
-{131}{}{Spiacente. Non ho nient'altro da dirti.}
-{132}{}{. Beh... di sicuro ne hai fatta di strada, da quel semplice membro di tribu' che eri. Prima o poi dovresti andare a visitare il nostro ufficio nella New California Republic. Potresti trovarlo interessante. Adesso, se vuoi scusarmi...}
-{133}{}{Spiacente. Non ho nient'altro da dirti.}
+{131}{}{Rieccoti. Non ho nient'altro da dirti.}
+{132}{}{. Beh... di sicuro ne hai fatta di strada, da quel semplice membro di tribu' che eri. Prima o poi dovresti andare a visitare il nostro ufficio nella Repubblica della Nuova California. Potresti trovarlo interessante. Adesso, se vuoi scusarmi...}
+{133}{}{Rieccoti. Non ho nient'altro da dirti.}
 {134}{}{Aspetta...}
 {135}{}{Questo e' un ufficio privato.}
 {136}{}{Non c'e' nulla per te qui dentro.}

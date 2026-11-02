@@ -5,7 +5,7 @@
 {104}{}{Avrei alcune domande. Puoi darmi delle risposte?}
 {105}{}{Prego specificare il tipo di assistenza richiesta.}
 {106}{}{Me ferita.}
-{107}{}{Me 'velenato.}
+{107}{}{Me 'velenata.}
 {108}{}{Me fare luce in buio.}
 {109}{}{Me manca pezzo.}
 {110}{}{Me vuole piu' forte.}
@@ -15,7 +15,7 @@
 {114}{}{No serve niente.}
 {115}{}{Sono ferita.}
 {116}{}{Sono stata avvelenata. Ho bisogno di un antidoto.}
-{117}{}{Mi sono beccato una bella dose di radiazioni.}
+{117}{}{Mi sono beccata una bella dose di radiazioni.}
 {118}{}{Ho una menomazione.}
 {119}{}{Vorrei essere piu' forte.}
 {120}{}{Vorrei essere piu' intelligente.}
@@ -24,20 +24,20 @@
 {123}{}{Al momento non mi serve nulla.}
 {124}{}{Attenda prego, mentre apro la vasca di sospensione... Si stenda nella vasca e si rilassi. Il processo curativo richiede 5 minuti.}
 {125}{}{Okay.}
-{126}{}{Nulla.}
+{126}{}{Lascia perdere.}
 {127}{}{Okay.}
 {128}{}{Scordatelo.}
 {129}{}{Attenda prego, mentre apro la vasca di sospensione... Si stenda nella vasca e si rilassi. Il veleno verra' prima analizzato e poi verra' sintetizzato l'antidoto adatto. Il danno tissutale verra' riparato. Questo procedimento richiede 30 minuti.}
 {130}{}{Ok.}
 {131}{}{No.}
-{132}{}{Bene.}
-{133}{}{Nulla.}
+{132}{}{Certo.}
+{133}{}{Lascia perdere.}
 {134}{}{Attenda prego, mentre apro la vasca di sospensione... Si stenda nella vasca e si rilassi. Le verranno somministrati dei farmaci anti-radiazioni e il danno tissutale verra' riparato. Questo procedimento richiede 60 minuti.}
 {135}{}{Ok.}
 {136}{}{No.}
 {137}{}{Bene.}
 {138}{}{Ho cambiato idea.}
-{139}{}{Attenda prego, mentre apro la vasca di sospensione... Si stenda nella vasca e si rilassi. Il processo di ricostruzione di arti menomati richede 24 ore.}
+{139}{}{Attenda prego, mentre apro la vasca di sospensione... Si stenda nella vasca e si rilassi. Il processo di ricostruzione di arti menomati richiede 24 ore.}
 {140}{}{Ok.}
 {141}{}{No.}
 {142}{}{Cominciamo.}
@@ -126,13 +126,13 @@
 {225}{}{Visualizzala subito.}
 {226}{}{Visualizzala dopo.}
 {227}{}{Voi e il vostro cosiddetto Presidente non la farete franca.}
-{228}{}{Allora e' cosi'?}
+{228}{}{Ah, davvero?}
 {229}{}{La Prescelta e' giunta, e liberera' il mondo dalla vostra malvagita'.}
-{230}{}{Le tue patetiche profezie non mi spaventano. Purtroppo per te, sei diventato una vera seccatura, con il tuo voler mettere il naso dappertutto. Ma oggi tutto questo finira'!}
+{230}{}{Le tue patetiche profezie non mi spaventano. Purtroppo per te, sei diventata una vera seccatura, con il tuo voler mettere il naso dappertutto. Ma oggi tutto questo finira'!}
 {231}{}{Uccidermi non servira' a nulla.}
 {232}{}{Puo' essere... ma vedere il tuo corpo marcire sul pavimento fara' nascere un sorriso sulle mie labbra.}
 {233}{}{Cosa pensi di fare?}
-{234}{}{AH AH AH! La tua follia e' patetica! AH AH AH!}
+{234}{}{AH AH AH! Patetico idiota! AH AH AH!}
 {235}{}{Wow, era da un po' che non ridevo cosi'. Ad ogni modo, preparati a morire.}
 {236}{}{...piip...}
 {237}{}{Beh, le 12 sono passate da un po'. Chi viene a mangiare un boccone?}

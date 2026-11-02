@@ -52,7 +52,7 @@
 {151}{}{TI HO GIA' DATO UN REGALO.}
 {152}{}{SPARISCI!}
 {153}{}{Idiota.}
-{154}{}{COSA?! OSI RUBARE DA ME?!}
+{154}{}{COSA?! OSI DERUBARMI?!}
 {155}{}{MUORI!}
 {156}{}{Disintegra il giocatore con un'animazione di morte causata dal plasma.}
 {200}{}{(12 ore piu' tardi...)}

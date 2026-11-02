@@ -1,4 +1,4 @@
-{100}{}{Vedi un uomo senza qualche dente, che indossa una lurida camicia blu. Emana un forte puzzo di brahmin.}
+{100}{}{Vedi un uomo dai denti radi, che indossa una lurida camicia blu. Emana un forte puzzo di brahmin.}
 {101}{}{Vedi Ed, il Venditore di Brahmin.}
 {102}{}{Dannati brahmin. Muggiti di qua, muggiti di la'.}
 {103}{}{Giuro che una volta ho sentito uno dei brahmin che parlava. "Muu, ho detto", o qualcosa del genere.}
@@ -11,12 +11,12 @@
 {110}{}{Il mio amico Vic qui presente dice di aver comprato una fiaschetta da te.}
 {111}{}{Ti sei ricordato dove hai trovato quella fiaschetta?}
 {112}{}{Sto cercando il Vault.}
-{113}{}{Puo' parlarmi di Vault City?}
+{113}{}{Puoi parlarmi di Vault City?}
 {114}{}{Che cosa fai?}
 {115}{}{Arrivederci.}
 {116}{}{Vic?}
 {117}{}{Ti ha venduto una fiaschetta? Una con un "13" sopra?}
-{118}{}{Niente. Devo andare.}
+{118}{}{Lascia perdere. Devo andare.}
 {119}{}{Ce l'hai ancora? Forse vederla potrebbe rinfrescarmi la memoria.}
 {120}{}{Lasciamo perdere, allora. Avrei delle altre domande da farti...}
 {121}{}{Vedo se riesco a recuperarla. Tornero'.}
@@ -25,22 +25,22 @@
 {124}{}{Puoi dirmi da dove proviene la fiaschetta?}
 {125}{}{Ha detto di averti venduto una fiaschetta?}
 {126}{}{Volevo solo sapere se lo conoscevi. Grazie.}
-{127}{}{Sai, non riesco a ricordare bene... Una volta ne avevo un sacco. Credo di averle trovate durante uno dei miei spostamenti con i brahmin. Non mi servivano molto una volta stabilitomi qui.}
+{127}{}{Sai, non riesco a ricordare bene... Una volta ne avevo un sacco. Credo di averle trovate durante uno dei miei spostamenti con i brahmin. Quando mi sono stabilito qui non mi servivano piu' granche'.}
 {128}{}{Spostamenti con i brahmin?}
 {129}{}{Oh. Beh, grazie lo stesso, allora.}
-{130}{}{Quand'ero molto piu' giovane, ero solito condurre i brahmin lungo il "Grande Giro"... Broken Hills, New Reno, Redding, il Den, Modoc, e poi di nuovo qui. Dopo qualche tempo si fece troppo pericoloso, per cui mi sono stabilito qui.}
+{130}{}{Quand'ero molto piu' giovane, ero solito condurre i brahmin lungo il "Grande Giro"... Broken Hills, New Reno, Redding, il Den, Modoc, e poi di nuovo qui. Dopo qualche tempo si e' fatto troppo pericoloso, per cui mi sono stabilito qui.}
 {131}{}{Dove si trovano questi posti?}
 {132}{}{Capisco. Beh, grazie delle informazioni.}
-{133}{}{Lascia che te li indichi sulla tua mappa. Ecco, Broken Hills e' a sud... segui la pista a ovest in questo punto e troverai Reno. A nordovest di Reno c'e' Redding, poi si va a nord fino al Den, a est fino a Modoc, poi ancora a est fino a qui, Vault City.}
+{133}{}{Lascia che te li indichi sulla tua mappa. Ecco, Broken Hills e' a sud... da li' segui la pista verso ovest e arriverai a Reno. A nordovest di Reno c'e' Redding, poi si va a nord fino al Den, a est fino a Modoc, poi ancora a est fino a qui, Vault City.}
 {134}{}{In quale di questi posti ti pare di aver trovato la fiaschetta?}
 {135}{}{Grazie delle informazioni.}
 {136}{}{Mi spiace, non lo ricordo esattamente. E' stato molti anni fa. Perche' lo vuoi sapere?}
 {137}{}{Sto cercando il Vault dal quale proviene la fiaschetta.}
 {138}{}{Grazie delle informazioni.}
-{139}{}{Beh, diamine, se e' un Vault quello che cerchi, ce n'e' uno proprio all'interno dele mura di Vault City.}
+{139}{}{Beh, diamine, se e' un Vault quello che cerchi, ce n'e' uno proprio all'interno delle mura di Vault City.}
 {140}{}{Il Vault 13 e' all'interno della citta'?}
 {141}{}{Grazie delle informazioni.}
-{142}{}{Beh, insomma, non so se sia prorpio il "13", ma un Vault c'e'. Se non e' quello che stai cercando, il computer centrale del vault potrebbe sapere dove si trovano gli altri. Ci registrano praticamente di tutto, la' dentro.}
+{142}{}{Beh, insomma, non so se sia proprio il "13", ma un Vault c'e'. Se non e' quello che stai cercando, il computer centrale del Vault potrebbe sapere dove si trovano gli altri. Ci registrano praticamente di tutto, la' dentro.}
 {143}{}{Avrei delle altre domande...}
 {144}{}{Grazie delle informazioni.}
 {145}{}{Spara. Che cosa vuoi sapere?}
@@ -49,7 +49,7 @@
 {148}{}{Il mio amico Vic qui presente dice di aver comprato una fiaschetta da te.}
 {149}{}{Ti sei ricordato dove hai trovato quella fiaschetta?}
 {150}{}{Sto cercando il Vault.}
-{151}{}{Puo' parlarmi di Vault City?}
+{151}{}{Puoi parlarmi di Vault City?}
 {152}{}{Che cosa fai?}
 {153}{}{Arrivederci.}
 {154}{}{Beh... c'e' un Vault all'interno delle mura della citta'. Hai gia' provato li'? Potrebbe essere quello che stai cercando.}

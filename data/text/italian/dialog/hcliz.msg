@@ -1,5 +1,5 @@
 {100}{}{Vedi una donna con un'espressione perennemente corrucciata sul volto.}
-{101}{}{Vedi Liz, l'amministratrice dell'Emporio.}
+{101}{}{Vedi Liz, la responsabile dell'Emporio.}
 {102}{}{Vedi una donna di mezz'eta'. Una smorfia corrucciata le ha eroso il volto. Sembra una di quelle persone che traggono un piacere perverso dal vivere una vita difficile.}
 {103}{}{Ciao. Io sono Liz. Che cosa vuoi?}
 {104}{}{E adesso cosa c'e'?}
@@ -16,7 +16,7 @@
 {115}{}{Parla lentamente e in modo chiaro e forse potro' aiutarti.}
 {116}{}{Nn! Roba! Me!}
 {117}{}{Annive decci!}
-{118}{}{Vuoi comprare qualcosa?}
+{118}{}{Vuole comprare qualcosa?}
 {119}{}{Si'!}
 {120}{}{No no no.}
 {121}{}{D'accordo. Che cosa vuoi?}
@@ -39,7 +39,7 @@
 {138}{}{Rilassati. E' stato Jacob a dirmelo.}
 {139}{}{Certo, beh, in citta' lo sanno tutti: e' un segreto di Pulcinella.}
 {140}{}{Il tuo segreto e' al sicuro. Le mie fonti sono affidabili.}
-{141}{}{Dovresti provare nelle grotte o la zona vicino alle case. So che ci sono un sacco di mostri laggiu'.}
+{141}{}{Dovresti provare nelle grotte o nella zona vicino alle case. So che ci sono un sacco di mostri laggiu'.}
 {142}{}{Grazie. Ciao.}
 {143}{}{Umanoidi, eh? Hai qualche preferenza particolare?}
 {144}{}{Umani.}
@@ -53,20 +53,20 @@
 {152}{}{Oh, beh, se le tue fonti sono affidabili, allora okay. Vuoi mettere fine alla dominazione dei mutanti?}
 {153}{}{Gia'.}
 {154}{}{No.}
-{155}{}{Allora immagino sia meglio cominciare dal basso.}
+{155}{}{Allora sara' meglio che cominci a sistemare le questioni in sospeso.}
 {156}{}{[FATTO]}
 {157}{}{Le uccisioni non sono tollerate in questo negozio. Vattene.}
 {158}{}{Certo, come no? Troia.}
-{159}{}{I ghoul sono utili schiavi. Non hanno abbastanza cervello per essere persone, ma non vale nemmeno la pena ucciderli. Io non do supporto a chi vuole uccidere i ghoul.}
+{159}{}{I ghoul sono utili schiavi. Non hanno abbastanza cervello per essere persone, ma non vale nemmeno la pena ucciderli. Non approvo l'uccisione dei ghoul.}
 {160}{}{Bene. Voglio qualcos'altro.}
-{161}{}{Vabbe'. Ci vediamo.}
+{161}{}{Vabbe'. Ciao.}
 {162}{}{Se ti interessa davvero uccidere i mutanti, magari dovresti andare a parlare con Jacob, il farmacista.}
 {163}{}{Jacob, eh? Lo faro'.}
 {164}{}{L'avevo pensato. Adesso vattene.}
-{165}{}{Bene.}
+{165}{}{Certo.}
 {166}{}{In questo caso, imbocca il passaggio segreto che c'e' nel pavimento della mia stanza e raggiungi la fortezza. Ho un piccolo arsenale, la' sotto. Muoviti.}
 {167}{}{Grazie.}
-{168}{}{Ma tu guarda che caso: mi sono liberata di tutte le pistole che avevo tranne di quella che vedi qui. Ti serve qualcos'altro?}
+{168}{}{Ma tu guarda che caso: mi sono liberata di tutte le armi che avevo, tranne quelle che vedi qui. Ti serve qualcos'altro?}
 {169}{}{Si'.}
 {170}{}{No.}
 {171}{}{Non vendero' niente a te. Fuori dal mio negozio.}
@@ -84,11 +84,11 @@
 {185}{}{Ehi! Chi diavolo c'e' la' fuori?}
 {186}{}{Non so chi tu sia, ma sto arrivando per suonartele.}
 {200}{}{Hai qualcosa di speciale che potresti procurarmi e che non sia sugli scaffali?}
-{201}{}{In realta'... si. Vedere quel tuo cane spelacchiato mi ricorda qualcosa che ho trovato e che potrebbe esserti utile. Ti interessa un'armatura per lui? Ti costera' 2000$.}
+{201}{}{In realta'... si'. Vedere quel tuo cane spelacchiato mi ricorda qualcosa che ho trovato e che potrebbe esserti utile. Ti interessa un'armatura per lui? Ti costera' 2000$.}
 {202}{}{Eccome!}
 {203}{}{No, questo cane puo' gia' affrontare chiunque. Comunque grazie. Vediamo cos'altro hai.}
 {204}{}{(Guarda te e il tuo gruppo) No, mi spiace. Non credo di avere nulla di speciale che possa esserti utile. Quello che vedi qui e' quello che c'e'.}
 {205}{}{Va bene. Vediamo cosa hai.}
-{206}{}{Ti ho detto che te lo do per 2000$. Torna quando avrai i soldi!}
-{207}{}{Va bene. Fammi vedere cos’altro hai.}
-{208}{}{D’accordo. Tornero' un’altra volta.}
+{206}{}{Ti ho detto che te la do per 2000$. Torna quando avrai i soldi!}
+{207}{}{Va bene. Fammi vedere cos'altro hai.}
+{208}{}{D'accordo. Tornero' un'altra volta.}

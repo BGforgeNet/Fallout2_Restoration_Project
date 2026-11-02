@@ -1,9 +1,9 @@
-{100}{}{Vedi un ragazzino.}
+{100}{}{Vedi un bambino.}
 {101}{}{Vedi Jonny.}
 {102}{}{Capelli biondi, occhi azzurri; il tipico ragazzo americano.}
 {150}{}{Waaaaa!}
 {151}{}{Rivoglio il mio cane!}
-{152}{}{Piagnucolio... }
+{152}{}{Snif... }
 {153}{}{Straniera!}
 {154}{}{Laddie! Mi sei mancato, piccolo. Grazie per avermi riportato il mio cane.}
 {155}{}{Ciao, non ti ho mai visto da queste parti, prima d'ora.}
@@ -11,7 +11,7 @@
 {157}{}{Qual e' il tuo nome, ragazzino?}
 {158}{}{Dimmi come ti chiami, mostriciattolo.}
 {159}{}{Vorresti un dolcetto, ragazzino?}
-{160}{}{Ciao.}
+{160}{}{Rieccoti.}
 {166}{}{Tua madre e tuo padre mi hanno chiesto di cercarti.}
 {168}{}{Hai chiesto a Vegeir se posso tornare a casa?}
 {169}{}{Si'. Vuole che i tuoi genitori vengano qui e ti prendano.}

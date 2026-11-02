@@ -5,7 +5,7 @@
 {104}{}{Parla con Felix se stai cercando un lavoro, straniera.}
 {105}{}{Non ne posso piu' dei brahmin.}
 {106}{}{Ho sentito che i Bishop ce l'hanno con il nostro capo.}
-{107}{}{Se vuoi parlare con qualcuno, parla con il capomastro, Felix.}
+{107}{}{Se vuoi parlare con qualcuno, parla con il caposquadra, Felix.}
 {108}{}{Non stai con i Bishop, vero?}
 {109}{}{Sappiamo che si e' trattato di un omicidio. Prenderemo quel verme, e la sua morte non sara' tanto rapida.}
 {110}{}{Felix e' sicuro che ci siano i Bishop dietro a questa faccenda. Dice che devono aver assoldato qualcuno.}

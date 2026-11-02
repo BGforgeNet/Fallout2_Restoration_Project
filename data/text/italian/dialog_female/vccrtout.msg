@@ -1,13 +1,13 @@
 {100}{}{Vedi uno dei malandati abitanti del Cortile.}
 {101}{}{Non sembra che questa persona se la stia passando molto bene.}
 {102}{}{Che hai da guardare?}
-{103}{}{E' un bella giornata... per qualcuno.}
+{103}{}{E' una bella giornata... per qualcuno.}
 {104}{}{Non girerei da queste parti, se fossi in te.}
 {105}{}{Vorrei poter entrare nella citta'.}
 {106}{}{Dov'e' finita quella moneta...?}
 {107}{}{Begli stracci.}
-{108}{}{E' un bel posto... sei sai trattare con la legge.}
-{109}{}{Almeno non sono la' fuori, nelle lande...}
+{108}{}{E' un bel posto... se sai trattare con la legge.}
+{109}{}{Almeno non sono la' fuori, nelle Lande...}
 {110}{}{Fatti un giro.}
 {111}{}{I soldi sono quasi finiti...}
 {112}{}{Adesso tu te ne vai, hai capito?}

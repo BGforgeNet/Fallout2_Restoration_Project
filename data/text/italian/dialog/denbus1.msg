@@ -1,4 +1,4 @@
-{100}{}{Questa citta' sembra essere un luogo pericoloso. Un buon posto dove possedere una pistola.}
+{100}{}{Questa citta' sembra proprio un brutto posto. Meglio avere una pistola a portata di mano.}
 {200}{}{Hai aiutato la banda di Lara a vincere la battaglia.}
 {300}{}{Hai attaccato con successo la banda di Lara.}
 {400}{}{Hai trovato il distillatore di Becky per Frankie.}
@@ -8,7 +8,7 @@
 {800}{}{Hai pagato a Rebecca il debito di Fred.}
 {900}{}{Hai riportato il libro a Rebecca.}
 {1000}{}{Hai riportato il medaglione ad Anna.}
-{1100}{}{Sei riuscito ad entrare nella chiesa con l'inganno.}
+{1100}{}{Con la tua parlantina hai trovato il modo di entrare nella chiesa.}
 {1200}{}{Hai consegnato il pranzo a Smitty.}
 {1300}{}{Hai trovato una debolezza nella banda di Tyler.}
 {1400}{}{Hai ottenuto l'autorizzazione all'attacco per la banda di Lara.}

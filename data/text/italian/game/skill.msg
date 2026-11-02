@@ -85,12 +85,12 @@
 {601}{}{L'unita' robotica e' irreparabilmente danneggiata.}
 {1000}{}{Lascia che ti aiuti.}
 {1001}{}{Posso farlo.}
-{1002}{}{Capito.}
+{1002}{}{Ci penso io.}
 {1003}{}{Felice di essere d'aiuto.}
 {1004}{}{Okay.}
 {1005}{}{Ci provero'.}
 {1100}{}{Se hai problemi, dimmelo pure.}
-{1101}{}{Capito?}
+{1101}{}{Ce la fai?}
 {1102}{}{Se e' questo che vuoi...}
 {1103}{}{Va' avanti e provaci.}
 {1104}{}{Prego, dopo di te.}

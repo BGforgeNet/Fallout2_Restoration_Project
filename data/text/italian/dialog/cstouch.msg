@@ -75,8 +75,8 @@
 {174}{}{, con la sua mancanza di abilita', ha bloccato la serratura del contenitore.}
 {175}{}{ non riesce a scassinare il contenitore.}
 {176}{}{Forzi il contenitore.}
-{177}{}{Nel tentativo di forzare il contenitore, ti stiri la schiena e subisci un punto di danno.}
-{178}{}{Nel tentativo di forzare il contenitore, ti stiri la schiena e subisci }
+{177}{}{Nel tentativo di forzare la serratura, ti stiri la schiena e subisci un punto di danno.}
+{178}{}{Nel tentativo di forzare la serratura, ti stiri la schiena e subisci }
 {179}{}{ punti di danno.}
 {180}{}{Sei troppo debole per forzare la serratura.}
 {181}{}{ forza il contenitore.}
@@ -91,7 +91,7 @@
 {189}{}{Chiudi a chiave il contenitore.}
 {190}{}{Non riesci a chiudere a chiave il contenitore.}
 {191}{}{ chiude a chiave il contenitore.}
-{192}{}{ non e' riuscito a chiudere a chiave la porta.}
+{192}{}{ non riesce a chiudere a chiave il contenitore.}
 {193}{}{L'esplosivo non ha fatto un graffio al contenitore.}
 {194}{}{Trovi una trappola nel contenitore.}
 {195}{}{Non riesci a trovare trappole nel contenitore.}
@@ -110,13 +110,13 @@
 {209}{}{Non riesci a piazzare una trappola nel contenitore.}
 {210}{}{ piazza una trappola nel contenitore.}
 {211}{}{ non riesce a piazzare una trappola nel contenitore.}
-{212}{}{Vedi un refrigeratore.}
+{212}{}{Vedi un frigorifero.}
 {400}{}{Apri il contenitore.}
-{601}{}{E' aperto, scemo.}
+{601}{}{E' aperto, testa di rapa.}
 {610}{}{Fallisci clamorosamente e l'esplosivo esplode prematuramente.}
 {611}{}{ fallisce clamorosamente e l'esplosivo esplode prematuramente.}
 {620}{}{Pieghi il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
-{621}{}{ Piega il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
+{621}{}{ piega il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
 {800}{}{Hai recuperato il FOB.}
 {810}{}{Hai recuperato gli schemi tecnici.}
 {820}{}{Hai recuperato il motivatore di K-9.}

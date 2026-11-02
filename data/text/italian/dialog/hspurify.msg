@@ -4,8 +4,8 @@
 {110}{}{Quel pezzo non puo' ripararlo.}
 {120}{}{Hai riparato il purificatore d'aria.}
 {125}{}{Hai distrutto il purificatore d'aria.}
-{129}{}{I cospiratori non possono piu' inviare il segnale di distruzione alla spoletta dell'esplosivo. Ormai non serve piu' a nulla, percio' la butti via.}
-{130}{}{E' gia stato riparato.}
+{129}{}{I cospiratori non possono piu' inviare il segnale di distruzione alla interruttore dell'esplosivo. Ormai non serve piu' a nulla, percio' la butti via.}
+{130}{}{E' gia' stato riparato.}
 {131}{}{Clonk}
 {132}{}{Scricchiolio}
 {133}{}{Clank}

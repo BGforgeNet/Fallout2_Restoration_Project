@@ -7,19 +7,19 @@
 {141}{}{.}
 {150}{}{Giureresti di averla beccata, con la coda dell'occhio, che ti stava guardando. }
 {151}{}{La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci. }
-{165}{}{E' fatta apposta per i giocatori accaniti. }
+{165}{}{E' pensata per chi punta forte. }
 {180}{}{Il suo jackpot stratosferico sembra prepotentemente allettante. }
-{200}{}{(La tua mano trema mentre cerchi le monete. La slot machine continua a sussurrarti.) *Vieni, zucchero...ecco...vieni adesso...non scherzare...*}
+{200}{}{(La tua mano trema mentre cerchi le monete. La slot machine continua a sussurrarti.) *Vieni, zucchero...ecco...vieni adesso...non farti desiderare...*}
 {201}{}{Vedi una slot machine. La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione.}
 {202}{}{(La tua mano trema mentre cerchi le monete. La slot machine continua a sussurrarti.) *Vieni, dolcezza...ecco...impugna il manico...impugnalo saldamente...vieni adesso...*}
 {250}{}{Inserisci $}
 {251}{}{. }
-{252}{}{Gioca gli ultimi $}
+{252}{}{Gioca gli ultimi }
 {253}{}{.}
-{254}{}{Smetti di giocare.}
-{255}{}{Sei al verde. Sei costretto a smettere di giocare.}
+{254}{}{Lascia perdere per oggi.}
+{255}{}{Sei al verde. Non puoi piu' giocare.}
 {256}{}{Smetti di giocare.}
-{257}{}{Sei al verde. Sei costretto a smettere di giocare.}
+{257}{}{Sei al verde. Non puoi piu' giocare.}
 {258}{}{Questo e' troppo! Me ne vado!}
 {259}{}{Questo e' troppo! Me ne vado!}
 {500}{}{Le finestrelle della slot machine iniziano a girare... }
@@ -56,7 +56,7 @@
 {2006}{}{*Kaaa-ching*}
 {2007}{}{*Zzzzzzz*}
 {2008}{}{*Driin-dir*}
-{2009}{}{Ding dong ding}
+{2009}{}{*Din-dilin-din*}
 {2010}{}{*Ehila', bellezza. Vieni a giocare con me.*}
 {2011}{}{*Ehila', bellezza.*}
 {2012}{}{*Sei proprio una cosettina carina. Perche' non vieni a giocare con me?*}
@@ -65,24 +65,24 @@
 {2102}{}{ chi tu?}
 {2103}{}{Me manca MAMMA. }
 {2104}{}{ manca ARR-YO. Me vuole andare casa}
-{2105}{}{(Le stringi la mano)}
+{2105}{}{(Stringile la mano.)}
 {2106}{}{Tu essere strano mutante}
 {2107}{}{Lode al Vault! Lode al Vault!}
-{2108}{}{Essere tu Water-Chip?}
+{2108}{}{Essere tu chip dell'acqua?}
 {2109}{}{(Allontanati, cerca altre cose luccicose)}
 {2110}{}{Te ne vai.}
 {2130}{}{La strana e carina scatola di metallo dorato con tre occhi e un braccio non risponde.}
 {2131}{}{ME }
 {2132}{}{! TU RISPONDERE ME!}
-{2133}{}{(Le stringi la mano)}
+{2133}{}{(Stringile la mano.)}
 {2134}{}{Me figlio di Abitante di Vault. Tu parlare me ORA.}
 {2135}{}{Tu essere strano mutante}
-{2136}{}{Essere tu Water-Chip?}
+{2136}{}{Essere tu chip dell'acqua?}
 {2137}{}{(Allontanati, cerca altre cose luccicose)}
-{2138}{}{(Te ne vai.)}
-{2151}{}{Impugni il suo braccio e lo scuoti calorosamente. Appena la fai, si sente un *bzzzzzzz,* e la scatola parla! "Prego... inserire... monete."}
+{2138}{}{(Vattene.)}
+{2151}{}{Impugni il suo braccio e lo scuoti calorosamente. Appena lo fai, si sente un *bzzzzzzz,* e la scatola parla! "Prego... inserire... monete."}
 {2152}{}{Aighhhhh! Robot! Robot! Scappareeeeee}
-{2153}{}{(Te ne vai.)}
+{2153}{}{(Vattene.)}
 {2175}{}{(Osservi la slot machine e ti rendi conto, maledicendo la tua poverta', che non hai abbastanza denaro per giocare. Sara' per la prossima volta...)}
 {2176}{}{Te ne vai.}
 {2185}{}{(La lucina "FUORI SERVIZIO" della slot machine si illumina ad intermittenza.)}
@@ -96,7 +96,7 @@
 {2206}{}{*Dai, perdente, non arrenderti*}
 {2207}{}{*Ho avuto cio' che volevo da te, baby. Perche' non ti arrendi?*}
 {2208}{}{*Spazzatura!*}
-{2209}{}{*Sta' attenta che la porta del casino non ti sbatta contro il culo, mentre esci.*}
+{2209}{}{*Sta' attenta che la porta del casino' non ti sbatta contro il culo, mentre esci.*}
 {2247}{}{*Aieeeeeeee! Cosih, dolcezzah! Oh dio, si'! Si'! SI', Ancora! Piu' veloce! Piu' forte! Che cosa stai aspettando?! Ancora!*}
 {2248}{}{*Cosih, dolcezzah... continua a tirare la leva... piu' veloce, piu' forte, piu' veloce... dai...*}
 {2249}{}{*Dai, dolcezza... succede a tutti, prima o poi... prova di nuovo... per favore...*}
@@ -105,19 +105,19 @@
 {2252}{}{*Cosi' si fa... continua a tirare il manico... piu' veloce, piu' forte, piu' veloce... dai...*}
 {2253}{}{*Ennnnghhhh! Cosi'! Chi e' il tuo paparino?! Chi e' il tuo paparino?!! Fallo ancora! Strattonalo piu' forte, questa volta! Piu' forte!*}
 {2280}{}{(Vedi una slot machine. La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci di New Reno. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione. Come la osservi, una delle sue tre finestrelle ti fa l'occhiolino. Dalla fessura per le monete senti provenire una voce gutturale.) *Beh, perbacco! Ehilaaaaaaa', zucchero. Hai voglia di far divertire una ragazza?*}
-{2281}{}{(Vedi una slot machine. La sua struttura solida e ruvida e la sua leva dorata scintillano come un dio solare sotto le luci di New Reno. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione. Come la osservi, improvvisamente una profonda voce maschile ti sussurra dalla fessura delle monete.) *Non vedo una ragazza bella come te da tempo... Vuoi tentare la fortuna?*}
-{2282}{}{::Ti dai un pizzicotto::}
+{2281}{}{(Vedi una slot machine. La sua struttura solida e ruvida e la sua leva dorata scintillano come un dio solare sotto le luci di New Reno. La sua fessura per le monete ti chiama a se', e senti le cosce fremere per l'attesa. Come la osservi, improvvisamente una profonda voce maschile ti sussurra dalla fessura delle monete.) *Non vedo una ragazza bella come te da tempo... Vuoi tentare la fortuna?*}
+{2282}{}{::Datti un pizzicotto::}
 {2283}{}{Uhh, ehila'?}
-{2284}{}{::Respiri profondamente, te ne vai.::}
+{2284}{}{::Fai un respiro profondo e allontanati.::}
 {2300}{}{*Sono ancora qui, carina.* (La slot machine abbassa la voce.) *Dai, vieni...vuoi giocare?*}
 {2301}{}{*Sono ancora qui, zuccheroh.* (La slot machine abbassa la voce.) *Sei un gran pezzo d'uomo, lo sai? Vieni, dai... non vuoi mettere qualche monetina dentro di me?*}
 {2302}{}{Chiiii *sei* tuuuuu?}
 {2303}{}{Sherto che vojo sgiocarre con teee}
-{2304}{}{Penso che sia meglio andarsene prima di fare qualcosa di cui potrei pentirmi. (Vai via.)}
-{2305}{}{::Respiri profondamente, te ne vai.:: (Vai via.)}
+{2304}{}{Meglio che me ne vada prima di infilarti dentro qualcosa di cui potrei pentirmi. (Vattene.)}
+{2305}{}{::Fai un respiro profondo e allontanati.:: (Vattene.)}
 {2320}{}{*Sono il tuo uomo ideale.* (La slot machine ti fa l'occhiolino.) *Dammi un po' di monete, e ti faro' provare piacere in modi che nessun uomo ha MAI usato prima.*}
 {2321}{}{*Sono la tua donna ideale, zucchero. Tutto cio' che voglio e' un po' di attenzione. Puoi aiutarmi? Dai, solo una moneta o due?*}
-{2322}{}{Non possiamo… parla' un attimo}
+{2322}{}{Non possiamo... parla' un attimo}
 {2340}{}{*Certo che possiamo, dolcezza, certo che possiamo.* (La slot machine sembra comprensiva.) *Cosa turba la tua piccola dolce testolina?*}
 {2341}{}{*Certo che possiamo, zucchero, certo che possiamo.* (La slot machine sembra comprensiva.) *Che cosa ti turba, splendore?*}
 {2342}{}{Me manca MAMMA e manca ARROYO e me......no trova GECK e...*sniff*}
@@ -126,10 +126,10 @@
 {2345}{}{Ho fiiinito il sgioco... e ora shto sholo vagabondando e... ho paura shia tutto ffinito e... *sniff*}
 {2346}{}{E' che Fhallowt dueee non s'porta la mia sshcheda 3DFxxxxx e ho shpeso coshi' tanti *shooldi* per comprarla e *sniff*}
 {2347}{}{Ho provato a creare un bbuon pe...personaggio ma... penso di aver shbajato *completamente* la dishtribusshione dei punti... e ora ho un pershonaggio di meeerda... e......*sniff*}
-{2348}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh}
+{2348}{}{Shto parlaando cooon una shlot mmaaashin, devo shtare proprio maleh}
 {2370}{}{*Su, su... non pensarci piu'... lascia fare tutto a me. Dai, appoggia la tua testa su di me. Ecco. Sfogati pure.*}
 {2371}{}{*Su, su... non pensarci piu', zucchero... lascia fare tutto a me. Dai, appoggia la tua splendida testa su di me. Ecco. Sfogati pure.*}
-{2372}{}{Grascie, shlot mashiiin *sniff* sei la migliore}
+{2372}{}{Grascie, shlot mashiiin *sniff* shei grandeeh}
 {2373}{}{Tu shei la shooola persona *buona* che ho incontrato finora... tu-tutti gli altri sono cosi' cattivi e hanno tentato di farmi *male* e di prendere i miei shooldi e...*sniff*}
 {2380}{}{*Sei sicura di stare bene, dolcezza? Non mi sento tranquillo a lasciarti andare via da sola vedendoti in questo stato.*}
 {2381}{}{(Appoggi la tua testa stanca sulla macchina.)}
@@ -140,9 +140,9 @@
 {2402}{}{*Sei il solo eroe che abbiamo in questo piccolo mondo di bastardi e ladri! Tu...tu...devi cercare di farti forza, hai capito, zucchero?* (Si volta.) *Faresti bene ad andartene prima che io cominci a piangere.*}
 {2403}{}{Ciaooooo}
 {3000}{}{E dai, }
-{3001}{}{! A mio figlio serve un paio di scarpe nuove!}
-{3002}{}{! A mio papa' serve un nuovo fucile al plasma!}
+{3001}{}{! Alla piccola servono scarpe nuove!}
+{3002}{}{! Papa' ha bisogno di un nuovo fucile al plasma!}
 {4000}{}{Sembra ci sia qualcuno che sta bloccando la slot machine.}
-{5000}{}{Incanti la macchina per farti dare tutte le sue monete.}
+{5000}{}{Mandi in tilt la macchina per farti dare tutte le sue monete.}
 {5001}{}{La macchina sembra bloccata ma poi senti un rombo lontano tipo quello di una valanga di monete che iniziano ad uscire dal distributore automatico.}
-{5002}{}{[Raccogli le monete e te ne vai.]}
+{5002}{}{[Raccogli le monete e vattene.]}

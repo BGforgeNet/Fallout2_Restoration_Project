@@ -17,4 +17,4 @@
 {116}{}{una queen.}
 {117}{}{una lesbica.}
 {118}{}{un lesbicone.}
-{119}{}{Sembrerebbe essere }
+{119}{}{Sembrerebbe essere}

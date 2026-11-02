@@ -1,6 +1,6 @@
 {100}{}{Vedi un mutante piuttosto lurido.}
-{101}{}{Indossa una camicia sbottonata macchiata di sudore con sotto una canottiera ingiallita. Sembra stia aspettando qualcosa.}
-{102}{}{Vedi una femmina mutante piuttosto arrabbiata.}
+{101}{}{Indossa una camicia elegante macchiata di sudore con sotto una canottiera ingiallita. Sembra stia aspettando qualcosa.}
+{102}{}{Vedi una femmina mutante dall'aria seccata.}
 {103}{}{Indossa un grembiule macchiato con un barboncino disegnato sopra. Tra i suoi capelli ci sono dei bigodini di plastica rosa.}
 {104}{}{Dov'e' il mio dannatissimo pasticcio di brahmin, donna?!}
 {105}{}{Vacci piano con il pepe stavolta, vaccona!}
@@ -13,7 +13,7 @@
 {112}{}{Ti amo, braciolina mia.}
 {113}{}{Vuoi il dorso della mia mano, donna?}
 {140}{}{Fattelo da solo il tuo dannato pasticcio, pigro ammasso di pus!}
-{141}{}{...(mumble) ci metto tutto il dannato pepe che voglio (mumble)... }
+{141}{}{...(borbotta) ci metto tutto il dannato pepe che voglio (borbotta)... }
 {142}{}{A lavare i tuoi luridi mutandoni nel pozzo, come sempre!}
 {143}{}{A cosa ti servono quelle porcherie quando hai me?!}
 {144}{}{Ti ho detto di smetterla di mangiare quegli spiedini di iguana! Apri una finestra! Argh!}
@@ -21,6 +21,6 @@
 {146}{}{Non appena comincerai a mostrarmi un po' di fottuto rispetto, bastardo!}
 {147}{}{Ci dovra' pur essere un po' di cervello DA QUALCHE PARTE, in questa casa!}
 {148}{}{Anch'io ti amo, palletta di zucchero.}
-{149}{}{Non voglio NIENTE che sia associabile al tuo dorso!}
+{149}{}{Non voglio NIENTE che abbia a che fare con il tuo didietro!}
 {200}{}{Che cosa diavolo vuoi? Fuori da casa mia, pelle-rosa.}
-{201}{}{Giuro che un giorno o l’altro me ne vado e basta. E allora cosa fara' quel fannullone?}
+{201}{}{Giuro che un giorno o l'altro me ne vado e basta. E allora cosa fara' quel fannullone?}

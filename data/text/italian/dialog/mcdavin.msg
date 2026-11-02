@@ -3,7 +3,7 @@
 {102}{}{Vedi un ragazzo di circa vent'anni. Assomiglia molto a Grisham.}
 {150}{}{Se me l'avessi chiesto, avresti potuto avere me.}
 {151}{}{Hmpf! Miria non e' poi cosi' brava a letto.}
-{152}{}{Non posso credere che tu mi abbia sedotto e abbandonato.}
+{152}{}{Non posso credere che tu mi abbia fatto prostituire.}
 {153}{}{La prossima volta proviamo una cosa a tre.}
 {154}{}{Ooo... e' cosi' carino.}
 {155}{}{Chiedi a lei.}
@@ -13,7 +13,7 @@
 {159}{}{Cosa fai esattamente al macello?}
 {160}{}{Ho sentito delle voci a proposito di te e i brahmin...}
 {161}{}{Parlami di tuo padre.}
-{162}{}{Ciao.}
+{162}{}{Rieccoti.}
 {163}{}{Lo sapevo che saresti tornato da me.}
 {168}{}{Perche' non ci mettiamo un po' piu' comodi?}
 {171}{}{Sta' li'.}
@@ -40,32 +40,32 @@
 {200}{}{Devo andare. Ciao.}
 {400}{}{Papa'!}
 {401}{}{Uh-oh!}
-{402}{}{Assolutamente si'!}
+{402}{}{Certo che lo voglio!}
 {405}{}{Zio Biff!}
 {410}{}{Uhh...}
 {411}{}{Uhhh... Continua, per favore...}
 {412}{}{Per tutti i diavoli, certo che...}
-{413}{}{Um... lo giuro.}
+{413}{}{Um... lo voglio.}
 {450}{}{Uhhh, non sono quello al quale dovresti parlare.}
 {500}{}{Oh cavoli, diventero' il capo di tutto, qui.}
 {1000}{}{Si', tesoro.}
 {1001}{}{Cosa posso fare per te, tesorino?}
 {1005}{}{Non capisci. Semplicemente non voglio che tu mi stia attaccato mentre camminiamo.}
-{1006}{}{Hai sbagliato nel non startene lontano mentre camminiamo.}
+{1006}{}{Il problema e' che ho bisogno che tu mi stia ben lontano, dietro di me.}
 {1007}{}{Ma... ma... cos'ho fatto di sbagliato?}
 {1008}{}{Che cosa vuoi da me, tesoro mio?}
 {1009}{}{Grazie, stava gia' cominciando a prudermi. Allora, cosa c'e', amore?}
-{1010}{}{Giu' al macello ero solito scuoiare i brahmin, quindi sono piuttosto bravo con i coltelli. Inoltre, una volta papa' mi ha fatto uccidere un brahmin a sprangate. Credo di poter usare una mazza, in caso di necessita'. Uhm, ah si', una volta papa' mi ha fatto provare a sparare con un pistola, ma io mi sono spaventato e a momenti sparavo a lui.}
+{1010}{}{Giu' al macello ero solito scuoiare i brahmin, quindi sono piuttosto bravo con i coltelli. Inoltre, una volta papa' mi ha fatto uccidere un brahmin a sprangate. Credo di poter usare una mazza, in caso di necessita'. Uhm, ah si', una volta papa' mi ha fatto provare a sparare con una pistola, ma io mi sono spaventato e a momenti sparavo a lui.}
 {1020}{}{Ho bisogno di un po' di spazio, Davin.}
-{1100}{}{Sono completamente sana e pronta a partire.}
+{1100}{}{Sono completamente guarito e pronto a partire.}
 {1200}{}{Non mi rimangono che pochi graffi.}
 {1300}{}{Beh, sono quasi a posto, ma mi farebbe comodo qualche cura in piu' non appena ce ne sara' la possibilita'.}
-{1400}{}{Mi sono curata meglio che potevo, ma sono ancora messa piuttosto male.}
+{1400}{}{Mi sono curato meglio che potevo, ma sono ancora messo piuttosto male.}
 {1500}{}{No, baby; voglio venire con te.}
 {1600}{}{Certo, la metto via.}
 {1700}{}{OK, ti staro' sempre appiccicato.}
 {1800}{}{Ma cosi' non sarei in grado di proteggerti. No, meglio che ti stia vicino.}
 {1900}{}{E' cosi', eh? Assolutamente no. Non voglio perderti di vista, mio pistolino amoroso.}
 {2000}{}{Ahia. Credo di essermi rotto qualcosa. Potresti darmi un bacio per mandar via la bua?}
-{2001}{}{Ugh, Mi sento bruciare. Credo di essere contaminato.}
-{2002}{}{Ugh, Non mi sento per niente bene. Credo di essere avvelenato.}
+{2001}{}{Ugh, mi sento bruciare. Credo di essere contaminato.}
+{2002}{}{Ugh, non mi sento per niente bene. Credo di essere avvelenato.}

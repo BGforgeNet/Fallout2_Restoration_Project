@@ -60,9 +60,9 @@
 {159}{}{Uh...sei di agilita'?}
 {160}{}{Uh...terzo livello?}
 {161}{}{Uh...sesto livello?}
-{162}{}{Uh...non livello?}
+{162}{}{Uh...nono livello?}
 {163}{}{Cosa intendi? Requisito di statistiche o di livello?}
-{164}{}{Esatto. Prego...}
+{164}{}{Esatto. Puoi passare.}
 {165}{}{Graffie}
 {166}{}{Ole'}
 {167}{}{Oh, grazie. Grazie davvero.}

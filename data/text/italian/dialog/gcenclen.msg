@@ -1,1 +1,1 @@
-{100}{}{Hai attraversato una grande pianura appena fuori Gecko. Ci sono persone qui che indossano un'armatura hi-tech.}
+{100}{}{Entri in una grande pianura appena fuori Gecko. Qui ci sono persone che indossano armature hi-tech.}

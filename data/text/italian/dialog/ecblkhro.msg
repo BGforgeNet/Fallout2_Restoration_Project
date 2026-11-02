@@ -1,5 +1,5 @@
 {100}{}{Vedi... un modello di eroe nero.}
-{101}{}{Vedi un uomo nero, muscoloso, vestito con un completo del Vault 13. Ti guarda pieno di risentimento.}
+{101}{}{Vedi un uomo nero, muscoloso, vestito con una tuta del Vault 13. Ti guarda pieno di risentimento.}
 {102}{}{Vedi un modello di eroe nero. Ti guarda pieno di risentimento.}
 {103}{}{Vedi un modello di eroe nero. Ti guarda pieno di risentimento.}
 {104}{}{In origine ero uno dei modelli di eroe per Fallout 1.}

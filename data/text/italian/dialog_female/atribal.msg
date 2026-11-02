@@ -7,5 +7,5 @@
 {204}{}{Vieni dalla tribu' di Arroyo?}
 {205}{}{Salve.}
 {206}{}{Bel vestito!}
-{207}{}{Salve, compare tribale!}
+{207}{}{Salve, comare tribale!}
 {500}{}{Non toccare le mie cose!}

@@ -27,7 +27,7 @@
 {174}{}{C'e' un buon posto dove mangiare?}
 {175}{}{Sa dove si trova il Vault 13?}
 {176}{}{Come mai i tuoi drink sono cosi' a buon mercato?}
-{177}{}{Nulla. Arrivederci.}
+{177}{}{Nulla. Ciao.}
 {178}{}{La mamma gestisce un piccolo ristorante dall'altra parte della citta'.}
 {179}{}{Mamma! Mamma!}
 {180}{}{Un'altra domanda.}
@@ -36,7 +36,7 @@
 {183}{}{Gwah.}
 {184}{}{Ti daro' io qualcosa da battere.}
 {185}{}{Prima una domanda veloce?}
-{186}{}{Addio.}
+{186}{}{Ciao.}
 {187}{}{Un bicchierino di whiskey costa $5. Paga prima.}
 {188}{}{Eh?}
 {189}{}{Ok. Ecco i soldi.}
@@ -46,7 +46,7 @@
 {193}{}{Devo andare.}
 {194}{}{Ecco l'ordinazione. Serve qualcos'altro?}
 {195}{}{Domanda?}
-{196}{}{Gia'', che ne dici di noi due...}
+{196}{}{Gia', che ne dici di noi due...}
 {197}{}{No.}
 {198}{}{Ehi, non hai abbastanza soldi per questo drink. Sei piu' povero anche di questi ubriaconi!}
 {199}{}{Scusa.}
@@ -75,11 +75,11 @@
 {221}{}{Perche'? Perche' hai distrutto il mio alambicco? Bastardo!}
 {222}{}{Niente di personale. Sono stato pagato per farlo.}
 {223}{}{Mi dispiace.}
-{224}{}{Addio.}
+{224}{}{Ciao.}
 {225}{}{Ne faro' semplicemente un altro, lo sai.}
 {226}{}{Lo so.}
 {227}{}{Beh, e' un bene.}
-{228}{}{Addio.}
+{228}{}{Ciao.}
 {232}{}{Perche'? Perche' hai distrutto il mio alambicco? Bastarda!}
 {233}{}{Dove sei, tesoro?}
 {234}{}{Stai arrivando?}

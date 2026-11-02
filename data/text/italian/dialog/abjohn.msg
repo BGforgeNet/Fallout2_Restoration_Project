@@ -4,20 +4,20 @@
 {300}{}{Ciao, giovanotto.}
 {301}{}{Chi sei?}
 {302}{}{Hai sentito parlare di un GECK o del Vault 13?}
-{303}{}{Addio.}
+{303}{}{Ciao.}
 {400}{}{Mi chiamo John, sono uno dei monaci piu' anziani qui.}
 {401}{}{Allora, qual e' il tuo compito?}
 {402}{}{Capisco. Arrivederci.}
-{403}{}{Be', lavoravo in una fattoria, ma faceva male al mio cuore.}
+{403}{}{Be', lavoravo in una fattoria, ma era troppo faticoso per il mio cuore.}
 {404}{}{Hai problemi al cuore?}
 {405}{}{Che peccato, arrivederci!}
 {406}{}{Si', ho un cuore malato. Se avessi ancora le mie pillole per il cuore, la mia vita sarebbe molto piu' semplice. E' molto difficile 
  trovare medicine per quel problema nel mondo di oggi, sai.}
 {407}{}{Potrei avere una soluzione per i tuoi problemi al cuore...}
-{408}{}{Mi dispiace sentire questo. Arrivederci.}
-{410}{}{Addio.}
+{408}{}{Mi dispiace. Arrivederci.}
+{410}{}{Ciao.}
 {411}{}{Davvero? Stai dicendo che hai DAVVERO le pillole per il cuore?}
-{412}{}{Si', ce li ho. Sarebbe un piacere darteli.}
+{412}{}{Si', ce le ho. Sarebbe un piacere dartele.}
 {413}{}{Si', ho delle pillole per il cuore. Puoi averle per $400.}
 {414}{}{Stavo solo scherzando. Non ho pillole per il cuore.}
 {415}{}{[Ti prende le pillole.] Grazie, amico mio! Ecco, ti prego di accettare questo oggetto come gesto di gratitudine.}

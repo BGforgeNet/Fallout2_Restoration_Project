@@ -4,17 +4,17 @@
 {151}{}{Sembra che qualcosa la tormenti.}
 {152}{}{[PARLA]}
 {153}{}{Oh, che dolore! Brucia cosi' tanto!}
-{154}{}{Cosa ti affligge?}
+{154}{}{Che c'e' che non va?}
 {155}{}{Chi sei?}
 {156}{}{Vade retro, spirito maligno!}
 {157}{}{Mi fermo e busso ad ogni porta, ma nessuno arriva, nessuno sente.}
 {158}{}{Io posso sentirti. Che cosa ti affligge?}
-{159}{}{Penso che dovreste spegnere il vostro Mimetizzatore, signora.}
+{159}{}{Penso che dovrebbe spegnere il suo Mimetizzatore, signora.}
 {160}{}{Dov'e'? Non riesco a trovarlo! Sono perduta! Oh...}
 {161}{}{Che cosa stai cercando? Forse ti posso aiutare.}
 {162}{}{Dovresti davvero smetterla di mugugnare e di lamentarti e iniziare a dire qualcosa di sensato.}
 {163}{}{Il mio medaglione! E' sparito. Ladro! Ladro!}
-{164}{}{Whoa, sono appena arrivato. Non l'ho rubato io.}
+{164}{}{Whoa, sono qui da un minuto. Non l'ho rubato io.}
 {165}{}{Posso aiutarti a trovarlo?}
 {166}{}{Oh, fato crudele.}
 {167}{}{Non puoi sentirmi, vero?}
@@ -39,6 +39,6 @@
 {502}{}{Nonna, posso vederti...}
 {503}{}{Oh, ma voi siete il gentile signor Cain! E' bello rivedervi...}
 {550}{}{La casa e' vuota.}
-{551}{}{Nostro Signore, belle ossa.}
+{551}{}{Oog, belle ossa.}
 {560}{}{ACCHIAPPAFANTASMI!}
 {561}{}{Ug.}

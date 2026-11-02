@@ -7,8 +7,8 @@
 {106}{}{Torno ad occuparmene.}
 {107}{}{Forse ti serve l'aiuto di un guerriero.}
 {108}{}{Certo. In che modo puoi aiutarmi?}
-{109}{}{No. Ce la faccio da solo.}
-{110}{}{Bella risposta, stupido. Ora sta' zitto mentre mi alleno.}
+{109}{}{No. Ce la faccio da sola.}
+{110}{}{Bella risposta, stupida. Ora sta' zitta mentre mi alleno.}
 {111}{}{Oh-key.}
 {112}{}{So combattere con pugni e calci. Pensi di poter imparare?}
 {113}{}{Cosa puoi insegnarmi?}

@@ -7,11 +7,11 @@
 {113}{}{Credo che preferisca ancora lei ai gecki. Parliamo di qualcos'altro.}
 {114}{}{Beh, non sia troppo dura con lui. Sa, non e' che si stesse esattamente divertendo. Arrivederci.}
 {120}{}{Ho sentito che hai fatto del male al mio Torr. Non so cosa sia successo esattamente, ma non voglio vederti piu' da queste parti. Adesso vattene.}
-{130}{}{Salve. Il mio nome e' Ardin Buckner e questa e' la locanda Buckner.}
+{130}{}{Salve. Il mio nome e' Ardin Buckner e questa e' la Buckner House.}
 {131}{}{Argl. Goop}
 {132}{}{Bella, bella locanda.}
 {140}{}{Mi ricordi il mio Torr. Credo proprio che voi due potreste andare d'accordo. Perche' non vai a parlare con lui? Ci vediamo.}
-{150}{}{Salve. Il mio nome e' Ardin Buckner e questa e' la mia locanda. Dimmi, non e' che hai visto un Trapper di nome Smiley nei dintorni del paese? (Parlando anche a se stessa) Se ne e' andato da troppo tempo. Non avrei mai dovuto permettergli di partire per la sua folle ricerca.}
+{150}{}{Salve. Il mio nome e' Ardin Buckner e questa e' la mia locanda. Dimmi, non e' che hai visto un Trapper di nome Smiley nei dintorni del paese? (Quasi tra se') Se ne e' andato da troppo tempo. Non avrei mai dovuto permettergli di partire per la sua folle ricerca.}
 {151}{}{Smiley? No, non ho incontrato nessun cacciatore con quel nome. Mi parli di lui.}
 {152}{}{Avrei bisogno di qualcos'altro, in questo momento.}
 {153}{}{Salve, Ardin. Adesso devo proprio andare. Arrivederci.}
@@ -21,7 +21,7 @@
 {170}{}{Spero che tu non abbia in mente di fare qualcosa di strano. Che cosa vuoi?}
 {171}{}{Come posso aiutarti, amica?}
 {172}{}{Mi parli di Smiley, il trapper.}
-{173}{}{Mi chiedevo se fossi la persona giusta con cui parlare di notizie e fatti locali.}
+{173}{}{Mi chiedevo se fosse lei la persona giusta con cui parlare di notizie e fatti locali.}
 {174}{}{Avrei bisogno di una stanza, per favore.}
 {175}{}{Avremmo bisogno di una stanza, per favore.}
 {176}{}{Vorrei comprare qualcosa.}
@@ -34,14 +34,14 @@
 {200}{}{In questo momento siamo al completo. Mi dispiace.}
 {201}{}{Allora, vediamo un po'. Dovremmo avere una stanza libera... Sono 25$.}
 {202}{}{La prendo. Ecco i 25$. Grazie.}
-{203}{}{Non credo di volerla subito. Lasci che le chieda qualcos'altro.}
+{203}{}{Non credo di volerla, per ora. Lasci che le chieda qualcos'altro.}
 {204}{}{Dopotutto, non penso di aver bisogno di una stanza. Arrivederci.}
 {210}{}{Temo che tu non abbia abbastanza soldi.}
 {211}{}{Oops. Credo di essere un pochino al verde in questo momento. Lasci che le chieda qualcos'altro.}
 {212}{}{Mi scusi. Faro' meglio ad andare a fare un po' di soldi. Arrivederci.}
 {220}{}{Grazie. Sono cosi' contenta che tu mi abbia aiutata a ritrovare il mio ragazzo. Credevo che non avrei piu' rivisto il suo stupido faccione.}
 {221}{}{Torr amico.}
-{222}{}{Sono felice d'esser stato d'aiuto.}
+{222}{}{Sono felice d'esser stata d'aiuto.}
 {223}{}{Non si era parlato di una ricompensa?}
 {230}{}{Beh, grazie. Credo che tu abbia bisogno di qualcuno con un po' di sale in zucca che ti faccia da balia - un compagno d'avventure. Parlero' con Maida per convincerla a liberare Sulik.}
 {231}{}{Beh, non so proprio cosa fare per ringraziarti.}
@@ -54,19 +54,19 @@
 {241}{}{Maida libera Sulik. Maida amica di }
 {242}{}{Grazie. Sono certa che Sulik vi sara' riconoscente per aver annullato il suo debito nei vostri confronti. Parlero' con Maida immediatamente. Arrivederci.}
 {243}{}{Sono felice che non abbiate piu' bisogno di Sulik. C'e' qualcosa che vorrei chiederle.}
-{244}{}{ amico.}
+{244}{}{.}
 {250}{}{Non ho molto, ma... ecco 100$. Avrei voluto darti di piu', ma con tutti i brahmin che abbiamo perso, questo e' tutto cio' che possiamo permetterci. Mi dispiace.}
 {251}{}{Grazie, signora Buckner. Arrivederci.}
 {252}{}{Forse dovrei scegliere una ricompensa diversa.}
-{260}{}{Beh, di certo ci dev'essere qualcosa che posso fare per dimostrarti quanto io ti sia riconoscente. Hmm, annullero' il debito di Sulik. Adesso e' libero di andare. Penso che non tutti i selvaggi siano dei piantagrane.}
+{260}{}{Beh, di certo ci dev'essere qualcosa che posso fare per dimostrarti quanto io ti sia riconoscente. Hmm, annullero' il debito di Sulik. Adesso e' libero di andare. Penso che non tutti i tribali siano dei piantagrane.}
 {261}{}{Mi sta bene. Arrivederci.}
 {262}{}{Hmm, forse dovrei scegliere una ricompensa diversa.}
 {270}{}{Non so proprio cosa pensare. Torr, il mio ragazzo, e' scomparso. Quanto vorrei che qualcuno mi aiutasse a trovarlo. Non e' mai stato via da casa per cosi' tanto tempo.}
 {271}{}{Torr?}
 {272}{}{Cos'e' successo?}
-{273}{}{Mi dispiace, signora, ma ho bisogno di qualcosa da lei.}
+{273}{}{Molto bello, signora, ma ho bisogno di qualcosa da lei.}
 {274}{}{Beh, e' chiaro che in questo momento ha qualcos'altro cui pensare. Tornero' piu' tardi. Arrivederci.}
-{280}{}{Se n'e' andato la notte scorsa. Mi sono arrabbiata con lui dopo che abbiamo perso degli altri brahmin. Non possiamo permetterci di perderne altri, ma Torr continua a dire che c'e' un uomo-insetto che li prende. Quello sciocco.}
+{280}{}{Se n'e' andato la notte scorsa. Mi sono arrabbiata con lui dopo che abbiamo perso degli altri brahmin. Non possiamo permetterci di perderne altri, ma Torr continuava a dire che erano gli uomini insetto a prenderli. Quello sciocco.}
 {281}{}{Torr andato?}
 {282}{}{Credo che i Dunton abbiano qualcosa a che fare con i brahmin scomparsi. Non dovrebbe essere cosi' dura con Torr. Dove pensa che sia andato?}
 {283}{}{Dove pensa che sia andato?}
@@ -76,7 +76,7 @@
 {301}{}{Ok.}
 {310}{}{Hai trovato il mio ragazzo? Non so quanto potra' resistere la' fuori, tutto da solo. Ti prego, trovalo per me.}
 {311}{}{Torr?}
-{312}{}{Non mi sono ancora dato per vinto, ma prima avrei bisogno di sapere qualcosa.}
+{312}{}{Non mi sono ancora data per vinta, ma prima avrei bisogno di sapere qualcosa.}
 {313}{}{Volevo solo vedere se per caso era tornato. Continuero' la ricerca. Arrivederci.}
 {320}{}{Torr era sicuro che quello fosse il luogo dal quale provengono gli uomini insetto che, secondo lui, ci rubano il bestiame. Ha detto qualcosa riguardo al dimostrarci che aveva ragione. Vorrei con tutta me stessa che qualcuno mi riportasse il mio ragazzo.}
 {321}{}{Torr canyon. }
@@ -84,7 +84,7 @@
 {323}{}{Sembra proprio che quel canyon sia un buon posto dove cominciare a cercare. Andro' a cercare il suo ragazzo, signora Buckner.}
 {324}{}{Mi piacerebbe aiutarla -- se non fossi cosi' impegnata. Sono sicura che Torr sta benissimo. Arrivederci.}
 {325}{}{ va Torr.}
-{330}{}{Beh, lui l'ha chiamata "una faccenda". Mi ha detto che pensava di conoscere il luogo da cui provengono tutti i gecki dorati, e che voleva accertarsene di persona. Pensava che si potesse trattare di una qualche sorta di fonte magica, o forse di una grotta nascosta o una cripta sotterranea di qualche tipo.}
+{330}{}{Beh, lui l'ha chiamata "una faccenda". Mi ha detto che pensava di conoscere il luogo da cui provengono tutti i gecki dorati, e che voleva accertarsene di persona. Pensava che si potesse trattare di una qualche sorta di fonte magica, o forse di una grotta nascosta o un Vault di qualche tipo.}
 {331}{}{Hmmm.}
 {340}{}{Beh, non mi ricordo esattamente ogni parola che ha detto, ma mi sembrava molto eccitato dall'idea di partire. Ma non avrei dovuto lasciarlo andare. Sono gia' passate due settimane dal giorno in cui aveva promesso che sarebbe tornato e sono preoccupata.}
 {341}{}{Mi piacerebbe aiutarla. Potrei andare a cercarlo io.}
@@ -102,48 +102,48 @@
 {372}{}{Mi dispiace, signora Buckner. Ho fatto del mio meglio nel tentativo di trovarlo per lei. Ehm, c'e' qualcosa che vorrei da lei, pero'.}
 {373}{}{Forse posso aiutarla a recuperare quel che e' rimasto del suo corpo. Addio.}
 {374}{}{Torr? Chi Torr? (alzi le spalle) 'derci.}
-{375}{}{Mi dispiace -- Avrei voluto aiutarla, ma non ho potuto. Uh, mi duole doverle chiedere qualcosa in un momento come questo, ma avrei bisogno di una cosa.}
+{375}{}{Mi dispiace -- avrei voluto aiutarla, ma non ho potuto. Uh, mi duole doverle chiedere qualcosa in un momento come questo, ma avrei bisogno di una cosa.}
 {376}{}{Credo che tornero' in un altro momento. Arrivederci.}
 {380}{}{Beh, per qualche ragione questo non mi sorprende molto. Oh, santo cielo... ho rimproverato il mio povero ragazzo per una cosa della quale non aveva colpa. (sob) Quei Dunton me la pagheranno. Questa volta l'hanno fatta grossa.}
 {381}{}{Mi dispiace. Dove pensa che sia andato Torr?}
 {390}{}{Ok.}
-{400}{}{Hai trovato Smiley? Dov’e'?}
-{401}{}{Chi? Oh, ehm… no. Non so dove sia andato. Uh… senti, lasciami chiederti qualcos’altro.}
-{402}{}{E' morto. E' stato mangiato dai gecko.}
-{403}{}{L’ho… ehm… visto. Ha detto che scappava con un’altra donna. Whoa! Guarda l’ora. Devo andare.}
-{404}{}{Uh, io, uh, noi, ecco...Uh, no. Lo sto ancora cercando. Sono sicuro che presto si fara' vedere. Ehm, addio.}
+{400}{}{Hai trovato Smiley? Dov'e'?}
+{401}{}{Chi? Oh, ehm... no. Non so dove sia andato. Uh... senta, mi lasci chiedere qualcos'altro.}
+{402}{}{E' morto. E' stato mangiato dai gecki.}
+{403}{}{L'ho... ehm... visto. Ha detto che scappava con un'altra donna. Whoa! Guardi che ore sono. Devo andare.}
+{404}{}{Uh, io, uh, noi, ecco...Uh, no. Lo sto ancora cercando. Sono sicura che presto si fara' vedere. Ehm, addio.}
 {410}{}{Mangiato dai gecki? Non ci credo. Il mio Smiley non si sarebbe mai lasciato prendere: e' un Trapper troppo in gamba. Devi esserti sbagliato.}
 {411}{}{Si', probabilmente ha ragione. Mi perdoni per averle fatto prendere uno spavento. Lasci che le faccia alcune domande.}
-{412}{}{No, l'ho visto, o meglio: ho visto quello che rimaneva di lui. Non era una bella visione. Beh, ci vediamo dopo. Arrivederci.}
-{413}{}{Credo proprio che tu mi abbia beccato. Heh, heh, stavo semplicemente prendendoti, ehm, in giro. Si', proprio cosi'. Beh, arrivederci.}
+{412}{}{No, l'ho visto, o meglio: ho visto quello che rimaneva di lui. Non era un bello spettacolo. Beh, ci vediamo dopo. Arrivederci.}
+{413}{}{Credo proprio che mi abbia beccato. Heh, heh, stavo semplicemente prendendoti, ehm, in giro. Si', proprio cosi'. Beh, arrivederci.}
 {414}{}{Si', hai scoperto qualcosa?}
 {415}{}{Credo che i fratelli Dunton stiano rubando i vostri brahmin. Pensavo fosse importante farglielo sapere, signora.}
-{416}{}{Niente, lascia stare.}
-{417}{}{Cosa?! Ne sei sicuro? Che prove hai?}
-{418}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei tuoi brahmin. Ho affrontato i Dunton e hanno ammesso di usarle per spaventare tuo figlio, Torr.}
-{419}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei tuoi brahmin. Credo che i Dunton le indossino per spaventare Torr — da qui la sua paura degli "uomini insetto".}
+{416}{}{Niente, lasci stare.}
+{417}{}{Cosa?! Ne sei sicura? Che prove hai?}
+{418}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei suoi brahmin. Ho affrontato i Dunton e hanno ammesso di usarle per spaventare suo figlio, Torr.}
+{419}{}{Ho trovato alcune chele di radscorpione svuotate in una baracca vicino all'area di pascolo dei suoi brahmin. Credo che i Dunton le indossino per spaventare Torr -- da qui la sua paura degli "uomini insetto".}
 {420}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli quei ragazzi. Be', questo spiega cosa lo spaventava, ma vorrei avere piu' prove che siano stati i Dunton a rubare il nostro bestiame. Ho paura che il sentito dire non sia abbastanza.}
-{421}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli quei ragazzi erano. Be', questo spiega cosa lo spaventava, ma vorrei ci fossero piu' prove che fossero i Dunton. Ho paura che il sentito dire non sia abbastanza. E ora che i Dunton sono morti, non so se scopriremo mai la verita'. Ma se trovi qualcos'altro, fammelo sapere.}
-{422}{}{D’accordo, vedro' se riesco a trovare altre prove.}
-{423}{}{In realta', ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
+{421}{}{Sospettavo fossero i loro soliti giochetti! Il mio povero piccolo Torr, che bulli erano quei ragazzi. Be', questo spiega cosa lo spaventava, ma vorrei ci fossero piu' prove che fossero i Dunton. Ho paura che il sentito dire non sia abbastanza. E ora che i Dunton sono morti, non so se scopriremo mai la verita'. Ma se trovi qualcos'altro, fammelo sapere.}
+{422}{}{D'accordo, vedro' se riesco a trovare altre prove.}
+{423}{}{In realta', ho controllato i marchi sui brahmin dei Dunton. Se guarda da vicino, puo' vedere che hanno semplicemente messo il loro marchio sopra uno precedente -- che presumo fosse il suo.}
 {424}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per consegnare quei buoni a nulla. Da qui me ne occupo io. Quei teppisti non daranno piu' problemi. Grazie per il tuo aiuto.}
-{425}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per attribuire loro il crimine. Peccato siano morti, o gli avrei insegnato un paio di cose. Immagino abbiano avuto cio' che meritavano. Grazie per il tuo aiuto.}
-{426}{}{Felice di aiutarla, signora. Lasci che le chieda un’altra cosa.}
-{427}{}{Quei Dunton mi fanno schifo. Sono felice che te ne occuperai tu. Addio, ora.}
+{425}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per attribuire loro il crimine. Peccato siano morti, o gliel'avrei fatta vedere io. Immagino abbiano avuto cio' che meritavano. Grazie per il tuo aiuto.}
+{426}{}{Felice di aiutarla, signora. Lasci che le chieda un'altra cosa.}
+{427}{}{Quei Dunton mi fanno schifo. Sono felice che se ne occupera' lei. Arrivederci.}
 {428}{}{I Dunton hanno avuto cio' che meritavano. Addio.}
 {429}{}{Davvero? Be', avanti allora, cosa hai trovato?}
-{430}{}{Ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
-{500}{}{Riguardo ai tuoi brahmin scomparsi...}
-{510}{}{Non e' che hai visto un Trapper di nome Smiley nei dintorni del paese? (Parlando anche a se stessa) Se ne e' andato da troppo tempo. Non avrei mai dovuto permettergli di partire per la sua folle ricerca.}
-{520}{}{Ti sei dimostrato davvero utile per noi. Grazie.}
+{430}{}{Ho controllato i marchi sui brahmin dei Dunton. Se guarda da vicino, puo' vedere che hanno semplicemente messo il loro marchio sopra uno precedente -- che presumo fosse il suo.}
+{500}{}{Riguardo ai suoi brahmin scomparsi...}
+{510}{}{Non e' che hai visto un Trapper di nome Smiley nei dintorni del paese? (Quasi tra se') Se ne e' andato da troppo tempo. Non avrei mai dovuto permettergli di partire per la sua folle ricerca.}
+{520}{}{Ti sei dimostrata davvero utile per noi. Grazie.}
 {530}{}{Mi stavo domandando cos'altro succede da queste parti.}
 {540}{}{Ho trovato altre prove nel caso dei Dunton.}
 {600}{}{Sei meravigliosa.}
-{610}{}{Sei meraviglioso. Hai riportato mio figlio Torr e il mio Smiley da me. Non potro' mai ringraziarti abbastanza.}
+{610}{}{Sei meravigliosa. Mi hai riportato mio figlio Torr e il mio Smiley. Non potro' mai ringraziarti abbastanza.}
 {620}{}{Hai ritrovato Torr, mio figlio. Grazie mille.}
-{630}{}{Tu sei quello che ha ritrovato il mio Smiley. Grazie, grazie mille.}
+{630}{}{Tu sei quella che ha ritrovato il mio Smiley. Grazie, grazie mille.}
 {640}{}{Sono felice di averla aiutata. Sarebbe stato un peccato perdere due persone a lei cosi' care.}
-{650}{}{Torr ha solo bisogno di aiuto di tanto in tanto. Sono felice di essere stato li' per lui.}
+{650}{}{Torr ha solo bisogno di aiuto di tanto in tanto. Sono felice di essere stata li' per lui.}
 {660}{}{Smiley e' stato fortunato, questa volta. Gli dica di essere un po' piu' prudente.}
 {670}{}{Felice d'averla aiutata, signora Buckner. Lasci che le faccia qualche domanda.}
 {680}{}{Gurrrrg bloop?}
@@ -156,26 +156,26 @@
 {750}{}{Non so dove siano. Lasci che le chieda qualcosa, forse torneranno mentre stiamo parlando.}
 {760}{}{Li sto ancora cercando. Farei meglio a riprendere le ricerche. Arrivederci.}
 {770}{}{Lo sto ancora cercando. Farei meglio a riprendere le ricerche. Arrivederci.}
-{780}{}{Io, uh, non so dove sia. Hmm... Wow, guarda che ore sono. Devo andare.}
-{790}{}{Ehi, fammi chiederti una cosa.}
+{780}{}{Io, uh, non so dove sia. Hmm... Wow, guardi che ore sono. Devo andare.}
+{790}{}{Senta, mi lasci chiedere una cosa.}
 {800}{}{Beh, ho un sacco di lavoro da fare. Addio.}
 {810}{}{Urrrrrgh.}
 {900}{}{Hai trovato Torr, mio figlio? Sono cosi' preoccupata per lui.}
 {910}{}{Hai trovato il mio Smiley?}
 {920}{}{Hai trovato mio figlio, Torr, o il mio amico, Smiley il Trapper?}
 {930}{}{Il mio povero Torr e' scappato.}
-{940}{}{Non ti credo.}
+{940}{}{Non le credo.}
 {942}{}{Oh, e' vero. A quest'ora probabilmente saranno entrambi diventati cibo per i vermi - beh, almeno quei pochi pezzi che non si sono gia' trasformati in merda di gecko. Beh, cosi' va il mondo. Ci si vede.}
 {943}{}{Uh, temo che questo fosse uno *scherzo* di cattivo gusto, mi scusi.}
 {950}{}{Non voglio parlare con te.}
 {951}{}{Esci subito di qui.}
-{952}{}{Dannati selvaggi. Nient'altro che guai.}
-{953}{}{Fuori di qui, selvaggio.}
+{952}{}{Dannati tribali. Nient'altro che guai.}
+{953}{}{Fuori di qui, selvaggia.}
 {954}{}{Non tollero che gente del tuo stampo entri qui dentro.}
-{955}{}{Non avrai nulla da me, selvaggio.}
+{955}{}{Non avrai nulla da me, tribale.}
 {956}{}{Hai fatto abbastanza danni, qui.}
 {957}{}{Lasciami in pace.}
-{958}{}{Selvaggio menagramo, fuori dal mio locale.}
+{958}{}{Tribale piantagrane, fuori dal mio locale.}
 {959}{}{Ne ho abbastanza di te. Fuori.}
 {1000}{}{Hai risolto il mistero dei brahmin scomparsi.}
 {1010}{}{In realta', un po' di compenso in denaro sarebbe gradito in questa situazione.}
@@ -185,8 +185,8 @@
 {2001}{}{Eh?}
 {2002}{}{Ummm}
 {2003}{}{Me aiuta.}
-{2004}{}{Me no piace storia. BYE!}
+{2004}{}{Me no piace storia. CIAO!}
 {2005}{}{Oh, grazie. Lascia che ti indichi sulla tua mappa il posto dove aveva detto che sarebbe andato. 
 Spero davvero che tu possa trovarlo. Non sara' granche', ma lo amo ancora e mi manca piu' di quanto avrei mai immaginato. 
-Ti prego, trovalo per me. Sei sicuro di potercela fare… mentalmente?}
-{2006}{}{Me forte. Me crede in me stesso.}
+Ti prego, trovalo per me. Sei sicura di potercela fare... mentalmente?}
+{2006}{}{Me forte. Me crede in me stessa.}

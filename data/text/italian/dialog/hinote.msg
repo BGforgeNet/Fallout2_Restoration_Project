@@ -1,2 +1,2 @@
-{100}{}{"Zaius: Marcus non fa nulla per quell'odia-mutanti di Jacob e i suoi cospiratori. Prima disabilitano il purificatore dell'aria... e ora? Ho trovato i tunnel dove si riuniscono. Immagino che un cadavere o due laggiu' incastrerebbero Jacob. Se sei con me, dimmelo. E brucia il messaggio, stavolta!" -Francis}
-{101}{}{O mio Dio! Se dico a Marcus di questa lettera, la citta' diventera' un inferno. Meglio parlarne prima con Zaius o Francis... e ottenere delle risposte.}
+{100}{}{"Zaius: Marcus non fa nulla per quell'odia-mutanti di Jacob e quei dannati cospiratori. Prima disabilitano il purificatore dell'aria... e poi? Ho trovato i tunnel dove si riuniscono. Immagino che un cadavere o due laggiu' incastrerebbero Jacob. Se sei con me, dimmelo. E stavolta brucia quel dannato biglietto!" - Firmato, Francis}
+{101}{}{Oh mio Dio! Se dico a Marcus di questo biglietto, la citta' diventera' un inferno. Meglio parlarne prima con Zaius o Francis... e ottenere delle risposte.}

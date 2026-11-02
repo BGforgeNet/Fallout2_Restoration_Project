@@ -81,14 +81,13 @@ Usando una leva dovresti essere in grado di forzare questa porta.}
 {174}{}{, a causa della sua goffaggine, ha bloccato la serratura.}
 {175}{}{ non riesce a scassinare la serratura.}
 {176}{}{Forzi la serratura.}
-{177}{}{Nel tentativo di forzare il contenitore, ti stiri la schiena e subisci un punto di danno.}
-{178}{}{Nel tentativo di forzare il contenitore, ti stiri la schiena e subisci }
+{177}{}{Nel tentativo di forzare la serratura, ti stiri la schiena e subisci un punto di danno.}
+{178}{}{Nel tentativo di forzare la serratura, ti stiri la schiena e subisci }
 {179}{}{ punti di danno.}
 {180}{}{Sei troppo debole per forzare la serratura.}
 {181}{}{ forza la serratura.}
-{182}{}{ nel tentativo di forzare la serratura, si stira la schiena
- e subisce un punto di danno.}
-{183}{}{ nel tentativo di forzare la serratura si stira la schiena e subisce }
+{182}{}{ si stira la schiena nel tentativo di forzare la serratura e subisce un punto di danno.}
+{183}{}{ si stira la schiena nel tentativo di forzare la serratura e subisce }
 {184}{}{ punti di danno.}
 {185}{}{ e' troppo debole per forzare la serratura.}
 {186}{}{ si stira la schiena nel tentativo di forzare la serratura e subisce un punto di danno.}
@@ -97,7 +96,7 @@ Usando una leva dovresti essere in grado di forzare questa porta.}
 {189}{}{Chiudi a chiave la porta.}
 {190}{}{Non riesci a chiudere a chiave la porta.}
 {191}{}{ chiude a chiave la porta.}
-{192}{}{ non e' riuscito a chiudere a chiave la porta.}
+{192}{}{ non riesce a chiudere a chiave la porta.}
 {193}{}{L'esplosivo non ha fatto un graffio alla porta.}
 {194}{}{Trovi una trappola nella porta.}
 {195}{}{Non riesci a trovare trappole nella porta.}
@@ -109,7 +108,7 @@ Usando una leva dovresti essere in grado di forzare questa porta.}
 {202}{}{ non riesce a disattivare la trappola.}
 {203}{}{La porta si direbbe chiusa a chiave.}
 {204}{}{Noti una trappola nello stipite della porta.}
-{205}{}{ noti una trappola nello stipite della porta.}
+{205}{}{ nota una trappola nello stipite della porta.}
 {206}{}{Non sei in grado di piazzare una trappola su questa porta perche' la porta e' aperta.}
 {207}{}{ non e' in grado di piazzare una trappola su questa porta perche' la porta e' aperta.}
 {208}{}{Piazzi una trappola nello stipite.}
@@ -131,8 +130,8 @@ Usando una leva dovresti essere in grado di forzare questa porta.}
 {501}{}{Pare tu debba prima riattivare il generatore.}
 {502}{}{Vedi: Porta dell'Ascensore.}
 {503}{}{Pare tu abbia bisogno di un dispositivo elettrico per aprire questa porta.}
-{601}{}{E' aperto, scemo.}
+{601}{}{E' aperto, testa di rapa.}
 {610}{}{Fallisci clamorosamente e l'esplosivo esplode prematuramente.}
 {611}{}{ fallisce clamorosamente e l'esplosivo esplode prematuramente.}
 {620}{}{Pieghi il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
-{621}{}{ Piega il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}
+{621}{}{ piega il piede di porco fino a renderlo irriconoscibile. Ormai e' inutile.}

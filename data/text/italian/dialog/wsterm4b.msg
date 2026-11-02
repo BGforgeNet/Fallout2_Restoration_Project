@@ -6,7 +6,7 @@
 {105}{}{Seleziona organo}
 {106}{}{Esci.}
 {107}{}{Arg!}
-{108}{}{Il quadrante ha la seguente lista di animali:                  Canide                                                       Felide                                                            Struzzo                                                           Roditore                                                          Umano (inciso sulla console)}
+{108}{}{Il quadrante ha la seguente lista di animali:                  Canide                                                       Felide                                                            Beep Beep                                                         Roditore                                                          Umano (inciso sulla console)}
 {109}{}{}
 {110}{}{}
 {111}{}{}
@@ -14,7 +14,7 @@
 {113}{}{}
 {114}{}{Seleziona Canide}
 {115}{}{Seleziona Felide}
-{116}{}{Seleziona Struzzo}
+{116}{}{Seleziona Beep Beep}
 {117}{}{Seleziona Roditore}
 {118}{}{Seleziona Umano}
 {119}{}{[Incidi un nuovo nome sulla console.]}
@@ -48,15 +48,15 @@
 {147}{}{Esci.}
 {148}{}{Il soggetto donatore non e' presente nella sala operatoria.}
 {149}{}{Estrazione fallita.}
-{150}{}{Estrazione completa.}
-{151}{}{Estrazione completa                                            Grazie per aver usato un prodotto Vault-Tec. Consultate il nostro catalogo per conoscere l'intera linea di prodotti Vault-Tec.}
+{150}{}{Estrazione completata.}
+{151}{}{Estrazione completata                                          Grazie per aver usato un prodotto Vault-Tec. Consultate il nostro catalogo per conoscere l'intera linea di prodotti Vault-Tec.}
 {152}{}{}
 {153}{}{Esci.}
-{154}{}{Estrazione fallita — sovraccarico dei sensori locali.}
-{155}{}{Estrazione fallita — impossibile inizializzare la procedura per la fisiologia del soggetto.}
+{154}{}{Estrazione fallita -- sovraccarico dei sensori locali.}
+{155}{}{Estrazione fallita -- impossibile inizializzare la procedura per la fisiologia del soggetto.}
 {170}{}{Umano }
-{171}{}{Cane }
-{172}{}{Felino }
+{171}{}{Canide }
+{172}{}{Felide }
 {173}{}{Beep Beep }
 {174}{}{Roditore }
 {175}{}{Mutante }

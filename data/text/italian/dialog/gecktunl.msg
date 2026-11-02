@@ -1,1 +1,1 @@
-{100}{}{Sei entrato nei tunnel sotterranei di Gecko.}
+{100}{}{Entri nei tunnel sotterranei di Gecko.}

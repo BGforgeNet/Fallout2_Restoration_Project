@@ -7,8 +7,8 @@
 {202}{}{:: ROOF ::}
 {205}{}{Woof}
 {206}{}{Woof woof}
-{210}{}{Questo cane sembra essere stato addestrato per difendere il contenuto della baracca.}
+{210}{}{I cani sembrano essere stati addestrati per difendere il contenuto della baracca.}
 {211}{}{Cane no piacere me.}
 {212}{}{Bel cagnolino!}
 {250}{}{Questo cane sembrerebbe davvero in grado di sbranarti se fosse costretto a farlo.}
-{300}{}{Hai ucciso tutti i cani che attaccano i brahmin.}
+{300}{}{Hai ucciso tutti i cani che attaccavano i brahmin.}

@@ -2,7 +2,7 @@
 {101}{}{Questo e' Sir Robin.}
 {102}{}{Sembra essere pronto a scappare.}
 {103}{}{Sir Robin, al vostro servizio.}
-{104}{}{Non stai cercando di farmi del male, vero?}
+{104}{}{Non vorrai farmi del male, vero?}
 {105}{}{Non c'e' bisogno di ricorrere alla violenza, vero?}
 {106}{}{Per favore va' via.}
 {200}{}{Ehi! Le tue mani sono gelide!}

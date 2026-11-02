@@ -72,11 +72,11 @@
 {171}{}{Programma genetico.}
 {172}{}{Programma Xeno.}
 {173}{}{Indietro.}
-{174}{}{(Dopo circa venti minuti, scopri queste informazioni: I risultati iniziali degli esperimenti sull'eliminazione botanica delle radiazioni si rivelano insoddisfacenti. Il dr. Sheng crea una forma di vita vegetale resistente alle radiazioni - seguono spiacevoli effetti collaterali. Forma di vita vegetale ritenuta troppo pericolosa. Sheng insiste nella sua linea e cerca di integrare il programma botanico con quello genetico.)}
+{174}{}{(Dopo circa venti minuti, scopri queste informazioni: I risultati iniziali degli esperimenti sull'eliminazione botanica delle radiazioni si rivelano insoddisfacenti. Il Dr. Sheng crea una forma di vita vegetale resistente alle radiazioni - seguono spiacevoli effetti collaterali. Forma di vita vegetale ritenuta troppo pericolosa. Sheng insiste nella sua linea e cerca di integrare il programma botanico con quello genetico.)}
 {175}{}{Programma genetico.}
 {176}{}{Programma Xeno.}
 {177}{}{Indietro.}
-{178}{}{(Dopo circa venti minuti riesci a mettere insieme queste informazioni: Studiando le basi del virus FEV, il dr. Long Wang si convince della possibilita' di creare soldati mutanti. Crea un siero che da' risultati interessanti negli esperimenti sui roditori. Si inietta il siero e si dissolve, diventando un ammasso di gelatina. Il dr. Sheng interrompe questa linea di ricerca. Con la morte del dr. Long, il dr. Sheng diventa capo del progetto. Sheng chiede di concentrare le ricerche sulle forme di vita vegetali in grado di eliminare le radiazioni.)}
+{178}{}{(Dopo circa venti minuti riesci a mettere insieme queste informazioni: Studiando le basi del virus FEV, il Dr. Long Wang si convince della possibilita' di creare soldati mutanti. Crea un siero che da' risultati interessanti negli esperimenti sui roditori. Si inietta il siero e si dissolve, diventando un ammasso di gelatina. Il Dr. Sheng interrompe questa linea di ricerca. Con la morte del Dr. Long, il Dr. Sheng diventa capo del progetto. Sheng chiede di concentrare le ricerche sulle forme di vita vegetali in grado di eliminare le radiazioni.)}
 {179}{}{Programma botanico.}
 {180}{}{Programma Xeno.}
 {181}{}{Indietro.}
@@ -84,12 +84,12 @@
 {183}{}{Programma botanico.}
 {184}{}{Programma genetico.}
 {185}{}{Indietro.}
-{186}{}{Database chimico: Carburante e derivati - Polimeri}
+{186}{}{Database chimico: Combustibile e derivati - Polimeri}
 {187}{}{Combustibile e derivati.}
 {188}{}{Polimeri.}
 {189}{}{Indietro.}
 {190}{}{(Dopo aver esaminato le complesse formule chimiche e le note di laboratorio, giungi alla conclusione che gli Shi hanno creato un tipo di combustibile a base di estratti di piante terrestri e marine. Pare che gli Shi si siano agganciati a tubature pre-esistenti in modo tale da poter trasferire il combustibile verso varie destinazioni.)}
-{191}{}{(Ti imbatti in una vasta serie di formule chimiche complesse e note di laboratorio. Non sei molto sicuro di cosa possano significare.)}
+{191}{}{(Ti imbatti in una vasta serie di formule chimiche complesse e note di laboratorio. Non e' molto chiaro cosa possano significare.)}
 {192}{}{Inviare il combustibile alla petroliera Poseidon.}
 {193}{}{Inviare il combustibile agli Hubologisti.}
 {194}{}{Indietro.}
@@ -118,17 +118,17 @@
 {217}{}{Attaccare l'intruso!}
 {218}{}{E' giunto il tempo di pagare per le tue azioni, lao wai!}
 {219}{}{C'e' un traditore tra le nostre fila!}
-{220}{}{Geo-puntamento.}
+{220}{}{Geo-localizzazione.}
 {221}{}{Cosa desiderate localizzare?}
 {222}{}{Gli abitanti del mio villaggio.}
-{223}{}{Probabilita' complessive: 97% - Gli abitanti si trovano alle coordinate del complesso Enclave.}
+{223}{}{Probabilita' complessiva: 97% - Gli abitanti si trovano alle coordinate del complesso Enclave.}
 {230}{}{[Lo schermo lampeggia per un secondo prima di passare a un display monocromatico pieno di simboli cinesi.
  Dopo qualche istante, lo schermo si svuota e mostra un elenco di contenuti. La maggior parte dei file e' antica e corrotta,
  ma ce ne sono diversi che sembrano essere ancora intatti.]}
-{231}{}{Marina dell’Esercito di Liberazione del Popolo                                    Terminale di Accesso Emperor v. 4.01
+{231}{}{Marina dell'Esercito di Liberazione del Popolo                                    Terminale di Accesso Emperor v. 4.01
                                   Si prega di effettuare una selezione:}
 {232}{}{Stato del sottomarino}
-{233}{}{Rete d’Intelligence Cinese}
+{233}{}{Rete d'Intelligence Cinese}
 {234}{}{Collegamenti di comunicazione}
 {235}{}{Registri del personale}
 {236}{}{::indietro::}
@@ -148,7 +148,7 @@
  ricollocato. Nave riallestita come struttura difensiva stazionaria a due miglia NNE del porto di San Francisco.}
 {261}{}{Cosa diceva riguardo alle pattuglie da combattimento?}
 {262}{}{Leggi di piu' sullo Schema Missione R.}
-{263}{}{Struttura difensiva stazionaria suonava interessante.}
+{263}{}{Quella "struttura difensiva stazionaria" sembrava interessante.}
 {264}{}{::indietro::}
 {270}{}{Su richiesta del comandante del fronte alaskano, il Generale Jingwei, lo Shi-Huang-Ti fu trasferito nel
  teatro operativo dell'Alaska/Pacifico per intercettare i convogli americani in acque aperte. Sotto il comando del Contrammiraglio
@@ -157,8 +157,8 @@
 {275}{}{L'Ammiraglio Ye Li e' stato anche accreditato dalla Marina dell'Esercito Popolare di Liberazione per aver portato all'affondamento della USS
  Ebon Atoll da parte di un sottomarino americano, la USS Interference.}
 {276}{}{::indietro::}
-{280}{}{2220, Maggio: La nave marina Poseidon Valdez arriva in porto, equipaggiata con un equipaggio dotato di armatura
- fanteria potenziata di tipo sconosciuto. La nave e' disabilitata e infestata da mutanti.
+{280}{}{2220, Maggio: La nave Poseidon Valdez arriva in porto, con un equipaggio dotato di armature
+ da fanteria potenziate di tipo sconosciuto. La nave e' fuori uso e infestata da mutanti.
                                                                   2220, Giugno: A seguito di consultazioni con l'Imperatore, Chiang Lee
  ordina che lo Shi-Huang-Ti venga riattivato e trasformato in un'installazione difensiva contro ulteriori minacce navali.
                                                            2220, Luglio: Il sottomarino viene riattivato. E' stata necessaria
@@ -169,15 +169,15 @@
 {281}{}{Hmm, vediamo se riesco a trovare qualcosa di piu' su quell'equipaggio di manutenzione...}
 {282}{}{::indietro::}
 {290}{}{[Bingo! Dopo qualche minuto di armeggio con i comandi, riesci a tirare fuori un piccolo file di testo riguardante il
- generatore del sottomarino. Sembra che siano necessari viaggi regolari per rifornire e mantenere il generatore. Il file elenca anche
+ generatore del sottomarino. Sembra che siano necessari viaggi regolari per rifornire il generatore e fargli manutenzione. Il file elenca anche
  il registro attuale dell'equipaggio di manutenzione.]}
 {291}{}{Equipaggio manutenzione sottomarino (dal 2241): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
 {292}{}{::aggiungimi al registro dell'equipaggio di manutenzione::}
 {293}{}{::indietro::}
 {300}{}{[Con qualche rapida pressione di tasti, diventi parte dell'equipaggio di manutenzione del sottomarino. Un elenco di password per
  la guardia del motoscafo e' ora accessibile.]}
-{301}{}{::scarica elenco password sul PIP-Boy::}
-{310}{}{[Colleghi il PIP-Boy a una delle porte di accesso. Dopo un momento, hai un elenco aggiornato di password
+{301}{}{::scarica elenco password sul Pip-Boy::}
+{310}{}{[Colleghi il Pip-Boy a una delle porte di accesso. Dopo un momento, hai un elenco aggiornato di password
  per il prossimo anno. Bella sicurezza.]}
 {311}{}{::indietro::}
 {320}{}{Ora sei un tecnico di sottomarini Shi a tutti gli effetti.}
@@ -227,10 +227,10 @@ Avviso! Collegamento al server centrale CIN di Pechino non disponibile. Recupero
  priorita': Raven Rock, West Tek, Mariposa, Boulder, Institute.}
 {381}{}{::indietro::}
 {390}{}{Da: Comando Centrale
-                                              La superiorita' militare americana e' ora evidente - unita' di Power Armor T-51b dispiegate
- sul territorio continentale. L'APL non ha un adeguato contrattacco e perde terreno ogni giorno. Il Presidente Cheng esige che Pechino rimanga in
+                                              La superiorita' militare americana e' ora evidente - unita' di Power-Armor T-51b dispiegate
+ sul territorio continentale. L'EPL non ha un adeguato contrattacco e perde terreno ogni giorno. Il Presidente Cheng esige che Pechino rimanga in
  mani cinesi - la fortificazione e' in corso. Il Comando ordina l'intensificazione delle operazioni di guerriglia dietro le linee nemiche.
- Gli operativi in tutti i Commonwealth americani devono prepararsi a organizzare insurrezioni. Spedizioni di armi e attrezzature inviate.
+ Gli agenti in tutti i Commonwealth americani devono prepararsi a organizzare insurrezioni. Spedizioni di armi e attrezzature inviate.
  Obiettivo prioritario: Washington, DC, Columbia Commonwealth}
 {391}{}{::indietro::}
 {400}{}{Da: Presidente del Partito Cheng
@@ -240,7 +240,7 @@ Avviso! Collegamento al server centrale CIN di Pechino non disponibile. Recupero
  contenuti nelle direttive operative. Possano le nostre anime tornare su questa Terra.}
 {401}{}{::indietro::}
 {410}{}{Da: Comando Centrale                                            Tutte le forze in posizione. Trasmissione codici di conferma finali.
- Operazione Youmíng e' via libera.}
+ Operazione Youming: via libera.}
 {411}{}{::indietro::}
 {420}{}{Scansione dei canali di comunicazione...                                    PLA CentCom... offline
                                                 CIN Pechino...  offline
@@ -274,21 +274,21 @@ Avviso! Collegamento al server centrale CIN di Pechino non disponibile. Recupero
 {482}{}{::indietro::}
 {490}{}{2077-10-29: Maledetti quei pazzi! Pensavo che fossimo l'unico gruppo incaricato di attaccare il settore di Los Angeles, ma mi
  sbagliavo. Hanno lanciato il nostro ICBM piu' potente su di esso. Non riesco a capire perche' non fosse diretto su Washington, ma questo non ha importanza.
- Attualmente stiamo derivando nell'oceano. L'Imperatore e' morto, la navigazione e' fuori uso e sembra che questa sara' la nostra
+ Attualmente siamo alla deriva nell'oceano. L'Imperatore e' morto, la navigazione e' fuori uso e sembra che questa sara' la nostra
  tomba.}
 {491}{}{Continua a leggere.}
 {492}{}{::indietro::}
-{500}{}{2077-11-04: Stiamo derivando da diversi giorni ormai. Jing e' riuscito a ripristinare parte dell'energia ai nostri sistemi
+{500}{}{2077-11-04: Siamo alla deriva da diversi giorni ormai. Jing e' riuscito a ripristinare parte dell'energia ai nostri sistemi
  di bordo, quindi dovremmo avere abbastanza ossigeno per durare diverse settimane. Sono piu' preoccupato per cibo e acqua - le nostre scorte
  sono basse e non ce n'e' abbastanza per tutti. L'equipaggio sta diventando irrequieto.}
 {501}{}{Continua a leggere.}
 {502}{}{::indietro::}
-{510}{}{2077-11-08: L'Imperatore e' di nuovo online, ma appena. Non abbiamo ancora la navigazione e l'equipaggio e' sull'orlo della
- ammutinamento - ho dovuto fermare due marinai che picchiavano Jing. La situazione e' grave. A meno che non emergiamo nei prossimi giorni,
+{510}{}{2077-11-08: L'Imperatore e' di nuovo online, ma a malapena. Non abbiamo ancora la navigazione e l'equipaggio e' sull'orlo
+ dell'ammutinamento - ho dovuto fermare due marinai che volevano picchiare Jing. La situazione e' grave. A meno che non emergiamo nei prossimi giorni,
  temo che ci uccideremo a vicenda.}
 {511}{}{Continua a leggere.}
 {512}{}{::indietro::}
-{520}{}{2077-11-12: Finalmente! Siamo arenati nella baia di San Francisco. I marinai esultavano finche' non abbiamo aperto i
+{520}{}{2077-11-12: Finalmente! Ci siamo arenati nella baia di San Francisco. I marinai esultavano finche' non abbiamo aperto i
  portelli. La citta' e' un disastro, devastata da tempeste di fuoco e ricadute radioattive. Ho inviato squadre a terra per trovare un sito adatto per il campo.
  Finora nessuna ha segnalato tale luogo. }
 {521}{}{Continua a leggere.}
@@ -305,7 +305,7 @@ Avviso! Collegamento al server centrale CIN di Pechino non disponibile. Recupero
 {542}{}{::indietro::}
 {550}{}{2077-12-06: Il campo avanzato dello Shi-Huang-Ti e' allestito e funzionante. I Fantasmi eseguono operazioni di recupero nelle
  aree circostanti e raccolgono qualsiasi rifornimento trovino. Ho dato loro ordini precisi di non ingaggiare i sopravvissuti americani
- senza provocazione - non possiamo antagonizzare potenziali alleati.}
+ senza provocazione - non possiamo inimicarci potenziali alleati.}
 {551}{}{Continua a leggere.}
 {552}{}{::indietro::}
 {560}{}{2077-12-14: Una stranezza - un culto di nome Chiesa dell'Hubologia e' in qualche modo sopravvissuto alla devastazione in un
@@ -313,7 +313,7 @@ Avviso! Collegamento al server centrale CIN di Pechino non disponibile. Recupero
  la manodopera e la conoscenza dell'area circostante ci aiuteranno a stabilire la nostra nuova casa.}
 {561}{}{Continua a leggere.}
 {562}{}{::indietro::}
-{570}{}{2077-12-27: Le necessita' di base sono coperte. Stiamo attualmente elaborando piani per smontare il sottomarino di elettronica
+{570}{}{2077-12-27: Le necessita' di base sono coperte. Stiamo attualmente elaborando piani per spogliare il sottomarino dell'elettronica
  e altra attrezzatura utile - non ha senso mantenerlo, dato che il sistema di propulsione e' irreparabile e possiamo
  usare tutto cio' che abbiamo in loco. Jing ha abbozzato piani per una struttura rinforzata - una sorta di 'Palazzo d'Acciaio'.}
 {571}{}{Continua a leggere.}
@@ -327,7 +327,7 @@ Avviso! Collegamento al server centrale CIN di Pechino non disponibile. Recupero
  l'11 novembre 2073.}
 {591}{}{Continua a leggere.}
 {600}{}{Il piano include una serie di attacchi nucleari coordinati contro obiettivi strategici in tutta l'America, usando
- aerei strategici, sottomarini nucleari a missili, sistemi di consegna di missili, armi nucleari di fanteria a bassa resa e altri
+ aerei strategici, sottomarini nucleari a missili, vettori missilistici, armi nucleari di fanteria a bassa resa e altri
  dispositivi nucleari. L'obiettivo e' paralizzare la capacita' di rappresaglia e la capacita' militare americana.}
 {601}{}{Continua a leggere.}
 {610}{}{Lo Shi-Huang-Ti ha il compito di distruggere otto obiettivi sul suolo californiano, tra cui la Struttura di Ricerca West Tek,

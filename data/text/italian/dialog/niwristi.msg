@@ -1,4 +1,4 @@
-{100}{}{Vedi un'enorme vasca per la fermentazione dell'alcol. Sta emettendo un lieve rumore sommesso.}
+{100}{}{Vedi un'enorme vasca per la fermentazione dell'alcol. Emette un ronzio sommesso.}
 {110}{}{Vedi un'enorme vasca per la fermentazione dell'alcol. Al suo interno galleggia la coda del radscorpione.}
 {120}{}{Vedi un'enorme vasca per la fermentazione dell'alcol. E' rotta, e il danno sembra irreparabile.}
 {130}{}{La vasca si blocca con un rumore sinistro. Sembra essere irreparabilmente danneggiata.}

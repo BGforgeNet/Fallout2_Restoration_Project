@@ -6,11 +6,11 @@
 {105}{}{Voi gorilla non dovreste entrare qui dentro.}
 {106}{}{Sei senza uniforme. }
 {107}{}{Faresti meglio a vestirti. L'armeria e' in fondo al corridoio sulla sinistra.}
-{108}{}{Stai prendendo un grosso rischio a girare senza armatura. Faresti meglio a presentarti all'armeria.}
+{108}{}{Stai prendendo un grosso rischio a girare senza uniforme. Faresti meglio a presentarti all'armeria.}
 {109}{}{Chi diavolo...? Allarme! Intrusi!}
 {110}{}{Intrusi nel settore! Allarme!}
 {111}{}{Intrusi multipli! Suonate l'allarme!}
-{112}{}{Merda! Mandateci rinforzi.}
+{112}{}{Merda! Avviate i backup.}
 {113}{}{Terminate tutte le operazioni segrete.}
 {114}{}{Bloccate il sistema e attivate tutte le password di sicurezza.}
 {115}{}{Sono uno scienziato, non un guerriero!}

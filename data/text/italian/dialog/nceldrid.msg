@@ -28,7 +28,7 @@
 {234}{}{Ho mitragliette, pistole, dinamite, granate... eppure c'e' ancora gente che entra qui e mi chiede se vendo spade e balestre.}
 {240}{}{Benvenuto, eroe! Hai fatto davvero un gran bel lavoro, giu' all'Enclave... hai salvato la pelle a tutti e te ne sono grato. Mi chiamo Eldridge. Sei qui per comprare un po' di ferro per riempire la tua fondina?}
 {241}{}{Benvenuto, signore... Mi chiamo Eldridge. Sei qui per comprare un po' di ferro per riempire la tua fondina?}
-{242}{}{Benvenuto, viandante... Mi chiamo Eldridge. Sei qui per comprare un po' di ferro per riempire la tua fondina?}
+{242}{}{Benvenuta, viandante... Mi chiamo Eldridge. Sei qui per comprare un po' di ferro per riempire la tua fondina?}
 {243}{}{Ernnnnh? Fontinaaaaaa?}
 {244}{}{Dipende da quello che hai da vendermi.}
 {250}{}{Bentornato, eroe! Hai fatto davvero un gran bel lavoro, giu' all'Enclave... hai salvato la pelle a tutti e te ne sono grato. }
@@ -44,7 +44,7 @@
 {260}{}{Sei in grado di modificare le armi?}
 {261}{}{Tornero' a darci un'occhiata, allora.}
 {262}{}{Magnifico... Posso vedere i tuoi pezzi speciali?}
-{270}{}{Qui al New Reno Arms abbiamo i piu' recenti strumenti di difesa personale necessari per stecchire sul posto qualsiasi smidollato figlio di puttana (sorride diabolicamente)}
+{270}{}{Qui al New Reno Arms abbiamo i piu' recenti strumenti di difesa personale necessari per stecchire sul posto qualsiasi smidollato figlio di puttana. (Sorride diabolicamente.)}
 {272}{}{Bentornato, amico. Cosa posso fare per te?}
 {273}{}{Ovvero?}
 {274}{}{Roba me piace roba tu anche piacere robaaaaaaa?}
@@ -84,10 +84,10 @@
 {368}{}{Ho un mirino per la visione notturna che potrei applicare a quel tuo FN FAL per $}
 {369}{}{D'accordo... monta il mirino su quel Colt da caccia.}
 {370}{}{Aumenta la capienza del caricatore di questo fucile d'assalto AK-112.}
-{371}{}{Monta quel mirino ad infrarossi sul FN FAL.}
-{385}{}{Vuoi spremere a dovere questo pungolo per il bestiame? Posso dargli una carica SUPER per $}
-{386}{}{Bene.}
-{395}{}{(Eldridge prende l'oggetto, lo esamina attentamente.) D'accordo... tu sta' qui buono per un attimo, mentre io vedo cosa posso fare. (scompare nel retro del negozio)}
+{371}{}{Monta quel mirino notturno sul FN FAL.}
+{385}{}{Vuoi dare una bella carica a questo pungolo per il bestiame? Posso dargli una carica SUPER per $}
+{386}{}{Certo.}
+{395}{}{(Eldridge prende l'oggetto, lo esamina attentamente.) D'accordo... tu sta' qui buono per un attimo, mentre io vedo cosa posso fare. (Scompare nel retro del negozio.)}
 {396}{}{Okay.}
 {400}{}{(Aspetti...)}
 {401}{}{Aspetta...}
@@ -97,11 +97,11 @@
 {411}{}{Grazie. Puoi intervenire anche su un'altra delle mie armi?}
 {412}{}{Grazie. Vorrei qualcos'altro...}
 {413}{}{Grazie. Lo provero' al piu' presto.}
-{420}{}{Oh... abbiamo trovato un cliente che sa il fatto suo, eh? Beh, a volte alcuni pezzi di valore riescono ad arrivare in citta'... prendi questo, per esempio. (Tiene in mano qualcosa di... strano). Autentica tecnologia prebellica. E' davvero qualcosa di speciale, eh?}
+{420}{}{Oh... abbiamo trovato un cliente che sa il fatto suo, eh? Beh, a volte alcuni pezzi di valore riescono ad arrivare in citta'... prendi questo, per esempio. (Tiene in mano qualcosa di... strano.) Autentica tecnologia prebellica. E' davvero qualcosa di speciale, eh?}
 {423}{}{Uh... che sia un "qualcosa" e' fuori discussione. Posso dare un'occhiata?}
 {424}{}{Gia'. A me pero' interessava qualcos'altro...}
 {425}{}{Non mi interessa. Grazie lo stesso.}
-{430}{}{(E' un carinissimo quadrato di plastica con dei buchi e delle linee metalliche disegnate sopra. Ci sono anche delle buffe lettere scritte sopra. Assomiglia a una tartina meccanica e la tua bocca comincia a gocciolare.)}
+{430}{}{(E' un carinissimo quadrato di plastica con dei buchi e delle linee metalliche disegnate sopra. Ci sono anche delle buffe lettere scritte sopra. Assomiglia a una tartina meccanica e ti viene l'acquolina in bocca.)}
 {431}{}{(Si direbbe un circuito stampato. E' ricoperto da un leggero strato di polvere, ma sembra essere in buone condizioni. Sembrerebbe fare parte di... qualcosa. Stampata sul circuito c'e' la scritta: "Modulo di riconoscimento vocale Vault Tec".)}
 {432}{}{(E' un circuito stampato piuttosto complesso. Ha un modulo di memoria e su di un lato ci sono diverse prese, incluse quelle per l'input e l'output. Stampata sul circuito c'e' la scritta: "Modulo di riconoscimento vocale Vault Tec".)}
 {433}{}{Me vole buona barretta}
@@ -125,11 +125,11 @@
 {473}{}{No grazie, allora. Ci si vede.}
 {474}{}{E' troppo per le mie tasche. Riparliamone un'altra volta, quando avro' qualche soldo in piu'.}
 {480}{}{(Sorride e si strofina le mani mentre tu appoggi il denaro sul tavolo.) Bene, ecco a te. }
-{481}{}{(Ci pensa su per un attimo, ti osserva, poi annuisce.) D'accordo, allora... E' praticamente un furto, ma ecco qua. (Ti porge il modulo, prende i tuoi soldi.) }
+{481}{}{(Ci pensa su per un attimo, ti osserva, poi annuisce.) D'accordo, allora... Te lo sto praticamente regalando, ma ecco qua. (Ti porge il modulo, prende i tuoi soldi.) }
 {482}{}{Altro?}
 {485}{}{Si', mi interessa un'altra cosa...}
 {486}{}{Per oggi nient'altro, grazie.}
-{495}{}{(Sbatte le palpebre per la sorpresa, poi ride.) Haw! No, no... quelle armi sono un qualcosa "a parte". Certo, mi PIACEREBBE poter mettere le mani su una di quelle pistole... verificarne la gittata, la potenza, la velocita'... (Il suo sguardo si perde nel vuoto, sospira.)}
+{495}{}{(Sbatte le palpebre per la sorpresa, poi ride.) Haw! No, no... quelle armi sono un qualcosa "a parte". Certo, mi PIACEREBBE poter mettere le mani su una di quelle pistole... verificarne la gittata, la potenza, la cadenza di fuoco... (Il suo sguardo si perde nel vuoto, sospira.)}
 {496}{}{Cosa ne diresti se io mi offrissi di procurartene una?}
 {497}{}{Gia', sarebbe bello averne una. Senti, vorrei un'altra cosa...}
 {498}{}{Oh, beh. Ci ho provato. Grazie, Eldridge.}
@@ -141,10 +141,10 @@
 {510}{}{Non posso promettertelo... sembra che i guai mi seguano ovunque io vada. Ci vediamo, Eldridge.}
 {520}{}{Beh, pisciatemi sulla schiena e ditemi che sta piovendo! }
 {521}{}{Beh, diavolo! Come ti avevo promesso, ecco qualcosa per il disturbo... }
-{522}{}{(Ti da' dei soldi, prende la pistola.) Diamine... ha un aspetto davvero strano, eh? (Esamina la canna) Hmmm...}
+{522}{}{(Ti da' dei soldi, prende la pistola.) Diamine... ha un aspetto davvero strano, eh? (Esamina la canna.) Hmmm...}
 {523}{}{Vorrei un'altra cosa...}
 {524}{}{E' un piacere fare affari con te, Eldridge. Divertiti.}
-{530}{}{(Eldridge ti osserva da capo a piedi e il suo tono di voce si fa piu' rispettoso.) Certo, naturalmente... lascia che ti mostri i nostri pezzi speciali... scontati, naturalmente.}
+{530}{}{(Eldridge ti osserva da capo a piedi e il suo tono di voce si fa piu' rispettoso.) Certo, naturalmente... lascia che ti mostri i nostri pezzi speciali... scontati, ovviamente.}
 {532}{}{Veramente, al momento mi interessa un'altra cosa...}
 {533}{}{Lasciamo perdere. Tornero'.}
 {545}{}{Volete smetterla con questo casino del demonio, bastardi rognosi?}
@@ -166,13 +166,13 @@
 {601}{}{Signorina, siamo chiusi... }
 {610}{}{Quindi ti suggerisco di sparire prima che io ti spari un colpo in fronte.}
 {700}{}{Dannatissimi cani! Me ne torno a letto.}
-{701}{}{Stupidi cani! Domattina vi faccio vedere io.}
+{701}{}{Stupidi cani! Domattina vi faccio sopprimere tutti.}
 {702}{}{Volete tacere, cani?! Nessuno e' cosi' stupido da scassinare un'armeria!}
 {800}{}{Hai consegnato la pistola laser a Eldridge.}
 {801}{}{Ehi, ti sembro forse un mago io? Avrai bisogno dell'arma se vuoi che te la potenzi. Adesso fuori di qui e vattene a cercare una che io possa potenziare... Bah!}
 {802}{}{Torna quando avrai il denaro.}
 {1340}{}{Sicuro come il demonio che posso. (Da' uno sguardo al tuo equipaggiamento.) Ma non mi pare che tu abbia qualcosa sul quale io possa lavorare. Portami qualche pistola o fucile vergini... ehm, "normali", e forse saro' in grado di aiutarti.}
 {1345}{}{D'accordo. Mi interessa qualcos'altro...}
-{1346}{}{Lo faro'. Ci vediamo.}
+{1346}{}{Lo faro'. Arrivederci.}
 {5256}{}{... mi ha detto di passare di qui e che tu mi avresti "servito a puntino."}
 {5500}{}{.}

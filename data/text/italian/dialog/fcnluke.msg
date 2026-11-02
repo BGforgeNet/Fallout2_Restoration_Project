@@ -5,8 +5,8 @@
 {104}{}{. Io sono Luke, cosa posso fare per te?}
 {105}{}{Come tu sapere nome?}
 {106}{}{Come fai a sapere il mio nome?}
-{107}{}{Joshua mi ha detto che ti sei fermato al nostro ufficio del Den. Ha detto che eri come un piccolo pesce che faceva molte onde.}
-{108}{}{Le voci corrono. Sei un pesciolino che fa molte onde.}
+{107}{}{Joshua mi ha parlato della tua visita al nostro ufficio del Den. Dice che sei un pesce piccolo che fa grandi onde.}
+{108}{}{Le voci corrono. Sei un pesce piccolo che fa grandi onde.}
 {109}{}{Cosa significare?}
 {110}{}{Che cosa vuoi dire con questo?}
 {111}{}{Stai attirando l'attenzione di molte persone. Dovrai stare in guardia.}
@@ -26,17 +26,17 @@
 {125}{}{Sai dove posso trovare il Vault 13?}
 {126}{}{Chi diavolo siete voi?}
 {127}{}{Si', credo che il Vault 13 non abbia mai usato il suo. Dovresti essere in grado di trovarne uno, laggiu'. Buona fortuna,}
-{128}{}{Aspettare! Dove vault?}
-{129}{}{Aspetta un secondo! Dov'e' il vault?}
-{130}{}{Si', la sua posizione e' registrata nel computer del vault 15, a est di qui. Buona fortuna,}
+{128}{}{Aspettare! Dove Vault?}
+{129}{}{Aspetta un secondo! Dov'e' il Vault?}
+{130}{}{Si', la sua posizione e' registrata nel computer del Vault 15, a est di qui. Buona fortuna,}
 {131}{}{.}
 {132}{}{Grazie.}
 {133}{}{Noi siamo la Confraternita d'Acciaio. Non ti diro' nient'altro, per adesso. Buona fortuna,}
 {134}{}{Aspettare! Me serve sapere piu', ora!}
 {135}{}{Aspetta, non puoi lasciare il discorso in sospeso a quel modo!}
-{136}{}{Spiacente. Non ho nient'altro da dirti.}
+{136}{}{Rieccoti. Non ho nient'altro da dirti.}
 {137}{}{. Beh... Ne hai fatta di strada dal semplice membro di tribu' che eri. Dovresti fare una visita al nostro ufficio di San Francisco, quando avrai tempo. Potresti trovarlo... interessante. Adesso, se vuoi scusarmi, devo andare.}
-{138}{}{Spiacente. Non ho nient'altro da dirti.}
+{138}{}{Rieccoti. Non ho nient'altro da dirti.}
 {139}{}{Aspetta...}
 {140}{}{Questo e' un ufficio privato.}
 {141}{}{Non c'e' nulla per te qui dentro.}

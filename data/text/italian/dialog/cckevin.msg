@@ -6,11 +6,11 @@
 {202}{}{Sono solo un aiuto meccanico. Dovresti parlare con Quincy.}
 {300}{}{Sei senza uniforme.}
 {301}{}{Faresti meglio ad andare a vestirti, soldato.}
-{302}{}{Stai prendendo un grosso rischio a girare senza armatura. Faresti meglio a presentarti all'armeria.}
+{302}{}{Stai prendendo un grosso rischio a girare senza uniforme. Faresti meglio a presentarti all'armeria.}
 {400}{}{Chi diavolo...? Allarme! Intrusi!}
 {401}{}{Intrusi nel settore! Allarme!}
 {402}{}{Intrusi multipli! Suonate l'allarme!}
-{500}{}{Merda! Mandateci rinforzi.}
+{500}{}{Merda! Avviate i backup.}
 {501}{}{Terminate tutte le operazioni segrete.}
 {502}{}{Bloccate il sistema e attivate tutte le password di sicurezza.}
 {600}{}{Sono un meccanico, non un guerriero!}

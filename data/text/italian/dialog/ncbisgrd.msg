@@ -10,15 +10,15 @@
 {216}{}{? Sali. Smettila di muoverti furtivamente, pero'.}
 {221}{}{? Sali.}
 {225}{}{Sei appena entrato nel posto SBAGLIATO, sacco di merda.}
-{226}{}{Beh, non si puo' dire che questo tipo non abbia le palle... smamma, ragazzo, prima che ti spari.}
-{227}{}{Questo tizio cerca guai…}
+{226}{}{Beh, non si puo' dire che questo tipo non abbia le palle... smamma, ragazzo, prima che ti spariamo.}
+{227}{}{Questo tizio cerca guai...}
 {228}{}{Faresti meglio ad andartene, }
 {229}{}{Beh, che mi venga un colpo se non e' }
 {230}{}{Mi hanno detto che i }
 {231}{}{Non credevo che i membri della famiglia }
 {232}{}{Sei appena entrata nel posto SBAGLIATO, puttana.}
 {233}{}{Beh, non si puo' dire che questa puttana non sia coraggiosa...}
-{234}{}{Smamma, ragazza. Prima che ti ammazzi.}
+{234}{}{Smamma, ragazza. Prima che ti facciamo fuori.}
 {235}{}{Questa puttana cerca guai...}
 {236}{}{Mi hanno detto che i }
 {245}{}{Yo, campione. Niente armi qui dentro, 'kay?}
@@ -38,7 +38,7 @@
 {290}{}{Adoro i tuoi film, }
 {291}{}{Il tuo Eiacula il Vampiro e' un capolavoro.}
 {292}{}{La tua interpretazione in La Lampo di Aladino e' stata eccezionale.}
-{293}{}{Sono un grande fan del tuo Porka e Onta.}
+{293}{}{Sono un grande fan del tuo Porkahontas.}
 {294}{}{::fischia::}
 {300}{}{Desideri forse andare a riempire una fossa vuota giu' al Golgotha, schiavista? Metti via quel ferro.}
 {301}{}{Metti via quell'arma, schiavista, o ti usero' come bersaglio mobile.}
@@ -47,13 +47,13 @@
 {306}{}{Smettila di muoverti furtivamente, schiavista, o ti usero' come bersaglio mobile.}
 {307}{}{Forse faresti meglio a tornartene alla scuola per ninja, schiavista - adesso smettila di muoverti furtivamente.}
 {308}{}{Schiavista... faresti meglio a smetterla con questo atteggiamento furtivo di merda. SUBITO.}
-{315}{}{Desideri forse andare a riempire una fossa vuota giu' al Golgotha, selvaggio? Metti via quel ferro.}
-{316}{}{Metti via quell'arma, selvaggio, o ti usero' come bersaglio mobile.}
-{317}{}{Selvaggio, farai meglio a mettere via quell'arma IMMEDIATAMENTE.}
-{325}{}{Vuoi forse andare a riempire una fossa vuota giu' al Golgotha, selvaggio? Smettila di muoverti furtivamente.}
-{326}{}{Smettila di muoverti furtivamente, selvaggio, o ti usero' come bersaglio mobile.}
-{327}{}{Forse faresti meglio a tornartene alla scuola per ninja, selvaggio - adesso smettila di muoverti furtivamente.}
-{328}{}{Selvaggio, farai meglio a smetterla di muoverti furtivamente... SUBITO.}
+{315}{}{Desideri forse andare a riempire una fossa vuota giu' al Golgotha, tribale? Metti via quel ferro.}
+{316}{}{Metti via quell'arma, tribale, o ti usero' come bersaglio mobile.}
+{317}{}{Tribale, farai meglio a mettere via quell'arma IMMEDIATAMENTE.}
+{325}{}{Vuoi forse andare a riempire una fossa vuota giu' al Golgotha, tribale? Smettila di muoverti furtivamente.}
+{326}{}{Smettila di muoverti furtivamente, tribale, o ti usero' come bersaglio mobile.}
+{327}{}{Forse faresti meglio a tornartene alla scuola per ninja, tribale - adesso smettila di muoverti furtivamente.}
+{328}{}{Tribale, farai meglio a smetterla di muoverti furtivamente... SUBITO.}
 {335}{}{Porta quel robot fuori di qui. Adesso.}
 {336}{}{Porta quel robot fuori di qui prima che gli dia fuoco come ad un cassonetto.}
 {337}{}{Quel robot verra' smontato pezzo per pezzo, se rimane qui.}
@@ -74,13 +74,13 @@
 {380}{}{Chiituu}
 {381}{}{[Allontanati.]}
 {382}{}{Cosa c'e' al piano di sopra?}
-{383}{}{Sono qui per vedere Mr. Bishop.}
-{384}{}{Sono qui per vedere Mr. Bishop. Devo consegnargli una valigetta da parte di Mr. Moore.}
+{383}{}{Sono qui per vedere il signor Bishop.}
+{384}{}{Sono qui per vedere il signor Bishop. Devo consegnargli una valigetta da parte del signor Moore.}
 {385}{}{Scusa, credo di aver sbagliato strada. Me ne vado subito.}
 {390}{}{Hai qualcosa da fare di sopra, amico?}
 {391}{}{Hai qualcosa da fare di sopra, tesoro?}
-{405}{}{Cavoli, sei proprio un imbecille totale, eh? }
-{406}{}{Cavoli, sei proprio un'imbecille totale, eh? }
+{405}{}{Accidenti, sei proprio uno stupido figlio di puttana, eh? }
+{406}{}{Accidenti, sei proprio una stupida troia, eh? }
 {407}{}{Senti, vattene da qui prima che ti tiriamo fuori quel che resta del tuo cervello.}
 {408}{}{ME VUOLE PACE IN MONDO ME VUOLE PACE IN MONDO}
 {409}{}{ME DICE ME VUOLE SALIRE SU DI SCALE}
@@ -95,33 +95,33 @@
 {424}{}{ quindi }
 {425}{}{ SCHIACCIA DEBOLI UMANI}
 {426}{}{[Grida e cerca un riparo.]}
-{427}{}{[Rimani in silenzio, raccogli le tue forze, e ti prepari a fare un po' di danni.]}
+{427}{}{[Resta in silenzio, raccogli le forze e preparati a fare un po' di danni.]}
 {428}{}{Volete la RISSA, ragazzi?! VOLETE LA RISSA?! Allora fatevi SOTTO, patetici FIGLI DI PUT --}
 {435}{}{Se non lo sai, allora vuol dire che NON DEVI saperlo. Adesso fila.}
 {445}{}{Beh, questo e' davvero un peccato, dato che Bishop ha raggiunto i grandi pascoli del cielo non troppo tempo fa. Adesso smamma.}
 {446}{}{Sei sordo? John Bishop e' MORTO, ok? Adesso vattene se non vuoi andargli a fare compagnia.}
 {447}{}{Senti, devo andare di sopra solo per qualche minuto.}
 {448}{}{Okay, me ne vado.}
-{455}{}{No, conosco la lista degli appuntamenti di Mr. Bishop e tu non ci sei.}
+{455}{}{No, conosco la lista degli appuntamenti del signor Bishop e tu non ci sei.}
 {456}{}{Mi sta aspettando. Ditegli che sono qui.}
-{458}{}{D'accordo. Addio.}
+{458}{}{D'accordo. Arrivederci.}
 {465}{}{Ok, amico. Come ti chiami? Vedro' cosa dice il boss.}
 {466}{}{Ok, tesoro. Come ti chiami? Vedro' cosa dice il boss.}
 {467}{}{Sono }
 {468}{}{.}
 {469}{}{Non ti serve sapere il mio nome. Fammi solo andare da lui.}
 {471}{}{Lascia perdere. Non serve che tu vada da lui... me ne vado.}
-{475}{}{(La guardia si allontana per un attimo, apre un pannello in uno dei muri e sussurra qualcosa. Aspetta un secondo, ascolta, poi torna da te.) }
+{475}{}{(La guardia si allontana per un attimo, apre un pannello in uno dei muri e sussurra qualcosa. Aspetta un minuto, ascolta, poi torna da te.) }
 {476}{}{Non ti conosce. Smamma, amico. Ci stai solo facendo perdere del tempo.}
 {477}{}{Non ti conosce. Smamma, tesoro. Ci stai solo facendo perdere del tempo.}
 {478}{}{Fatemi andare da lui. Adesso.}
-{479}{}{Digli che ho una valigetta per lui... da parte di Mr. Moore.}
+{479}{}{Digli che ho una valigetta per lui... da parte del signor Moore.}
 {480}{}{Lasciamo perdere, allora.}
-{490}{}{(La guardia si allontana per un attimo, apre un pannello in uno dei muri e sussurra qualcosa. Aspetta un secondo, ascolta, poi torna da te e alza le spalle.) Ha detto che puoi salire.}
+{490}{}{(La guardia si allontana per un attimo, apre un pannello in uno dei muri e sussurra qualcosa. Aspetta un minuto, ascolta, poi torna da te e alza le spalle.) Ha detto che puoi salire.}
 {491}{}{Okay.}
 {495}{}{Yo, }
 {496}{}{! }
-{497}{}{Mr. Bishop ti sta aspettando?}
+{497}{}{Il signor Bishop ti sta aspettando?}
 {498}{}{Si'. Posso salire? Abbiamo qualcosa di cui discutere.}
 {499}{}{No, non adesso. Statemi bene, ragazzi.}
 {505}{}{Certo, sali pure, }

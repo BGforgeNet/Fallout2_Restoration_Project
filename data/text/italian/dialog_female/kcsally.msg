@@ -5,19 +5,19 @@
 {202}{}{Me deve fare pipi'}
 {203}{}{Oog? (scuotendo la testa)}
 {204}{}{Beh, non male per un'idiota come te. Ma non voglio tipi come te qua dentro. Adesso sparisci. Scio', scio'.}
-{205}{}{So che sei una selvaggia e tutto il resto, ma questo e' un *bagno* pubblico, non un gabinetto. Vattene prima che sia costretta a mandarti fuori a calci!}
+{205}{}{So che sei una tribale e tutto il resto, ma questo e' un *bagno* pubblico, non un gabinetto. Vattene prima che sia costretta a mandarti fuori a calci!}
 {206}{}{So che i miei ragazzi avevano gia' assunto altri sempliciotti in precedenza, ma tu sei la peggiore di tutti. Non posso credere che tu li abbia delusi. Non ti voglio nel mio locale. Vattene subito.}
 {210}{}{Il mio nome e' Sally Dunton, ma di solito mi chiamano Sally la Nasona. Sono la proprietaria di questo bagno pubblico. Abbiamo un intero catalogo di bagni speciali e accompagnati dal quale puoi scegliere.}
 {211}{}{Che tipi di bagni speciali e accompagnati avete?}
-{212}{}{Gee, Miss Sally, volevo solo farmi un normalissimo bagno. Non avete un bagno con la schiuma?}
+{212}{}{Ehm, Miss Sally, volevo solo farmi un normalissimo bagno. Non avete un bagno con la schiuma?}
 {213}{}{Credo di aver cambiato idea; sara' per un'altra volta.}
 {220}{}{Il mio nome e' Sally "Nasona" Dunton e sono la proprietaria di questo bagno pubblico. Mi spiace, ma le inservienti qui sono solo ragazze. Ti va bene lo stesso?}
 {221}{}{Sono qui solo per farmi un bagno.}
 {222}{}{Le donne mi vanno benissimo.}
-{223}{}{Gee, speravo proprio che ci fosse un inserviente maschio.}
+{223}{}{Oh, speravo proprio che ci fosse un inserviente maschio.}
 {224}{}{Non credo che questo sia quello che stavo cercando.}
 {225}{}{Mi dispiace di non esserti stata d'aiuto. Torna comunque a trovarci.}
-{230}{}{Se vuoi un bagno senza accompagnamento, potresti provare al Golden Gecko o al locale delle Buckner. Ma dubito che lo troveresti altrettanto divertente.}
+{230}{}{Se vuoi un bagno senza accompagnamento, potresti provare al Golden Gecko o alla Buckner House. Ma dubito che lo troveresti altrettanto divertente.}
 {231}{}{Grazie, Miss Nasona. Provero' quello, allora. Arrivederci.}
 {232}{}{Dicevo cosi' per dire; mi piacerebbe provare un bagno speciale.}
 {240}{}{I bagni speciali che offriamo hanno un costo variabile che dipende dal tempo che la ragazza passa con te e dai servizi aggiuntivi che richiedi.}
@@ -43,11 +43,11 @@
 {282}{}{Quali sono le altre possibilita'?}
 {283}{}{Grazie, ma credo che andro' da qualche altra parte.}
 {284}{}{35$ mi sembra un po' troppo caro; non avete una brahmin carina, piuttosto?}
-{290}{}{Credo che ognuna delle nostre ragazze sarebbe contenta di farti un bagno completo; sara' meglio che io controllari l'orologio per assicurarmi che sia davvero breve (ridacchia). Il Breve Lavaggio Completo del Corpo ti costera' 55$.}
+{290}{}{Credo che ognuna delle nostre ragazze sarebbe contenta di farti un bagno completo; sara' meglio che io controlli l'orologio per assicurarmi che sia davvero breve (ridacchia). Il Breve Lavaggio Completo del Corpo ti costera' 55$.}
 {291}{}{Sembra divertente. Ecco i miei 55$.}
 {292}{}{Hmm, quali sono le altre possibilita'?}
 {293}{}{Grazie, ma preferisco tener da parte i soldi, per adesso.}
-{300}{}{Avresti proprio bisogno di una bella lavata; voi selvaggi non conoscete il sapone? Oh, vabbe', il Breve Lavaggio Completo del Corpo ti costera' 70$... ma sono sicuro che il risultato ti soddisfera'.}
+{300}{}{Avresti proprio bisogno di una bella lavata; voi tribali non conoscete il sapone? Oh, vabbe', il Breve Lavaggio Completo del Corpo ti costera' 70$... ma sono sicura che il risultato ti soddisfera'.}
 {301}{}{Wow, 70$! E' un bel po' di soldi. Ma scommetto che li vale tutti. Lo provero'.}
 {302}{}{Quali erano gli altri tipi di bagno?}
 {303}{}{Non credo di voler pagare per farmi un bagno, dopotutto.}
@@ -63,17 +63,17 @@
 {330}{}{E' un'ottima scelta, se non hai molto tempo o denaro.}
 {340}{}{Credo che ti piacera' molto. }
 {350}{}{Credo che il bagno che ti fara' Jenny ti piacera' piu' di tutti i bagni che hai fatto prima d'ora.}
-{360}{}{Qui non trattiamo questo genere di cose. Prova a parlare con i miei figli, Chuck e Buck Dunton. So che le loro brahmin sono dannatamente famose.}
+{360}{}{Qui non trattiamo questo genere di cose. Prova a parlare con i miei figli, Chuck e Buck Dunton. So che le loro brahmin sono dannatamente popolari tra un certo tipo di clientela.}
 {361}{}{Non hai abbastanza denaro. Torna quando sarai in grado di pagare.}
-{362}{}{Pare che i tuoi occhi siano piu' larghi del tuo budget. Magari vuoi provare un lavaggio piu' economico...}
+{362}{}{Pare che tu abbia gli occhi piu' grandi del portafoglio. Magari vuoi provare un lavaggio piu' economico...}
 {363}{}{Sono certa che uno dei miei figli sara' ben felice di aiutarti. Ma probabilmente faresti meglio a tornare qua, dopo averlo fatto: quasi tutte le ragazze che passano un po' di tempo con i miei ragazzi, subito dopo provano un irresistibile desiderio di lavarsi a fondo.}
-{370}{}{Sei tornato, eh? Un sacco di gente non riesce proprio a tenersi abbastanza pulita.}
+{370}{}{Sei tornata, eh? Un sacco di gente non riesce proprio a tenersi abbastanza pulita.}
 {371}{}{Questa volta sto solo dando un'occhiata in giro; non mi serve un bagno.}
 {372}{}{Elencami di nuovo i tipi di bagno che offrite.}
 {373}{}{Come cliente abituale ho diritto ad uno sconto?}
 {380}{}{Beh, sai, non sarebbe giusto proporre i nostri servizi ad un prezzo scontato. Le mie ragazze valgono quello che costano.}
 {381}{}{Beh, se non posso avere uno sconto, me ne vado.}
 {382}{}{Mi pare abbastanza giusto. Elencami quali tipi di bagno avete da propormi.}
-{390}{}{Prima di cominciare, devi sapere che i bagni sono per una persona sola alla volta, non per i gruppi. Tu puoi fare quello che vuoi da solo, e poi, sempre da soli, i tuoi amici possono fare come desiderano.}
+{390}{}{Prima di cominciare, devi sapere che i bagni sono per una persona sola alla volta, non per i gruppi. Tu puoi fare quello che vuoi da sola, e poi, sempre da soli, i tuoi amici possono fare come desiderano.}
 {391}{}{Ok.}
 {400}{}{Non vogliamo i tipi come te da queste parti.}

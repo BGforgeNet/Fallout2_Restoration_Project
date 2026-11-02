@@ -49,7 +49,7 @@
 {220}{}{Molti}
 {221}{}{Basso}
 {222}{}{Alto}
-{223}{}{Scoperto}
+{223}{}{Chiaro}
 {224}{}{Largo}
 {300}{}{OK}
 {301}{}{PAUSA}

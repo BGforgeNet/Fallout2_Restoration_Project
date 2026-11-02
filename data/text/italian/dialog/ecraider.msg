@@ -1,7 +1,7 @@
 {100}{}{Vedi una persona dall'aspetto rude.}
 {101}{}{Vedi un predone.}
 {200}{}{Hai sconfinato nel nostro territorio. Adesso morirai!}
-{201}{}{Come osi venire qui senza essere stato invitato!}
+{201}{}{Come osi venire qui senza invito!}
 {202}{}{Muori, cittadino!}
 {203}{}{La tua morte mi fruttera' qualche soldo.}
 {204}{}{Scappa davanti a me, nullita'!}

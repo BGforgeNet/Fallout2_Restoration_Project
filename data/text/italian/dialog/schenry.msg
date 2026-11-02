@@ -20,7 +20,7 @@
 {119}{}{Cosa mi sai dire della cyber-genetica?}
 {120}{}{E ti aspetti che io creda ad una sola parola che mi hai detto? Sei uno svitato.}
 {121}{}{Oh, e' un campo completamente inesplorato - davvero eccitante. Adesso sto lavorando ad alcuni progetti - sto studiando una soluzione radicale per il problema dei mutanti. Vedi, e' piuttosto semplice - l'esser mutanti non e' una condizione irreversibile. Si puo' curare.}
-{122}{}{Certo, i miei colleghi sempliciotti cercavano di risolvere il problema nella maniera piu' violenta possibile. Una purificazione, in parole povere. Ammetto che, all'inizio, mi sono trovato di fronte a parecchi problemi, ma adesso dovrei averli risolti... o almeno credo.}
+{122}{}{Certo, i miei colleghi sempliciotti cercavano di risolvere il problema nella maniera piu' violenta possibile. Purificazione, figuriamoci. Ammetto che, all'inizio, mi sono trovato di fronte a parecchi problemi, ma adesso dovrei averli risolti... o almeno credo.}
 {123}{}{}
 {124}{}{Continua}
 {125}{}{A proposito... tu potresti aiutarmi ad effettuare qualche esperimento sul campo. Ti interessa?}
@@ -32,7 +32,7 @@
 {131}{}{Tu? Oh, no - il siero non e' sufficientemente perfezionato per funzionare su un cosi' basso quoziente mutagenico. Dev'essere usato su un super mutante. Inietta il siero in un super mutante e poi torna da me per informarmi dei risultati. So che Broken Hills ne e' piena.}
 {132}{}{Come funziona?}
 {133}{}{Io cosa ne ricavo?}
-{134}{}{Beh, dovrebbe causare una regressione della matrice genetica risultante dalla destabilizzazione e dall'assimiliazione di DNA aberrante, liberando l'ospite dal potenziale mutagenico. Se ne fossi sicuro, non ti chiederei di fare questo esperimento.}
+{134}{}{Beh, dovrebbe causare una regressione della matrice genetica che porta alla destabilizzazione e all'assimilazione del DNA aberrante, liberando l'ospite dal potenziale mutagenico. Se ne fossi sicuro, non ti chiederei di fare questo esperimento.}
 {135}{}{Io cosa ne ricavo?}
 {136}{}{Prenderai parte ad un importante esperimento; a dire il vero, al piu' importante esperimento scientific - oh, tu intendi il denaro. Beh, ho portato con me un Cyber-Segugio Mk. II, Modello - Sicurezza Personale. Dovrei riuscire a renderlo operativo per quando sarai tornato. Puo' bastare?}
 {137}{}{Un Cyber-Segugio? Certo, perche' no?}
@@ -51,7 +51,7 @@
 {150}{}{Hai capito male. Ho detto che avrebbe rimosso il loro potenziale mutagenico. Il processo sembra essere molto aggressivo sull'organismo... Oh beh, dovro' perfezionarlo ancora.}
 {151}{}{E la mia ricompensa?}
 {152}{}{Sei un mostro! Non voglio avere niente a che fare con te.}
-{153}{}{Vedo che ci sono ancora dei problemi. Beh, prova e riprova ancora.}
+{153}{}{Vedo che ci sono ancora dei problemi. Beh, provando e riprovando.}
 {154}{}{E la mia ricompensa?}
 {155}{}{Sei un mostro! Non voglio avere niente a che fare con te.}
 {156}{}{Ah, certo. Il cybercane e' tutto tuo. Adesso ho del lavoro da fare.}
@@ -63,7 +63,7 @@
 {162}{}{Bene, glielo diro'.}
 {163}{}{Uh... Ok, i documenti sono in quella scrivania laggiu'. Prendili; ma non far del male alle mie mani. Ok?}
 {164}{}{Baciami il culo, cretino! Guardie! Guardie!}
-{165}{}{Adesso si' che ragioni. Lo diro' a Mr. Merk.}
+{165}{}{Adesso si' che ragioni. Lo diro' al signor Merk.}
 {166}{}{Te ne pentirai, Doc.}
 {167}{}{Ehi! Hai esattamente dieci secondi per rimettere al loro posto quei documenti prima che io chiami le guardie.}
 {168}{}{Ti ho beccato di nuovo, eh? Bene, faro' in modo che sia la legge ad occuparsi di te. Guardie! Guardie!}

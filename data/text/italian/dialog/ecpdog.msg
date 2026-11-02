@@ -9,4 +9,4 @@
 {115}{}{ehhhh hufff}
 {200}{}{Ti senti molto piu' sicuro, adesso che il cane e' morto.}
 {201}{}{Non c'e' molto che tu possa fare per questa bestia. Probabilmente la sua vita vale meno del proiettile che useresti per ucciderlo.}
-{202}{}{Yup, e' davvero messo male. D'altra parte, non hai certo voglia di toccarlo.}
+{202}{}{Gia', e' davvero messo male. D'altra parte, non hai certo voglia di toccarlo.}

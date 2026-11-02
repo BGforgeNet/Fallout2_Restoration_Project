@@ -8,8 +8,8 @@
 {107}{}{Piacere di conoscerti. Io sono Lenny - tu devi essere Merda-per-cervelli. Ah, ah!}
 {108}{}{Di' al tuo padrone mutante che il mio nome e' Lenny, schiava.}
 {109}{}{Ehi, fratello mutante, Lenny si chiede perche' te ne vai in giro con questa larva umana.}
-{110}{}{Lenny non parla con nessuno. Rende mutanti i suoi schiavi, verme.}
-{111}{}{Lenny dice a te e al tuo mutante imbecille di andare all'inferno.}
+{110}{}{Lenny non parla con chi tiene i mutanti come schiavi, verme.}
+{111}{}{Lenny dice a te e al tuo mutante leccaculo di andare all'inferno.}
 {112}{}{Fa' attenzione. Lenny non e' un mutante addomesticato come quello che ti porti dietro.}
 {113}{}{Ehi, la piccola viso pallido e' tornata!}
 {114}{}{Smettila di rompere, umana.}

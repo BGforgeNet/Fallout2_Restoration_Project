@@ -11,12 +11,12 @@
 {157}{}{Qual e' il tuo nome, ragazzino?}
 {158}{}{Dimmi il tuo nome, mostricciattolo.}
 {159}{}{Vuoi delle caramelle, bambino?}
-{160}{}{Ciao.}
+{160}{}{Rieccoti.}
 {161}{}{Ti chiami Jonny?}
 {162}{}{Qual e' il tuo nome, ragazzino?}
 {163}{}{Dimmi il tuo nome, mostricciattolo.}
 {164}{}{Vuoi delle caramelle, bambino?}
-{165}{}{Ciao.}
+{165}{}{Rieccoti.}
 {166}{}{Tua madre e tuo padre mi hanno chiesto di cercarti.}
 {167}{}{Vuoi delle caramelle, bambino?}
 {168}{}{Hai chiesto a Vegeir se posso tornare a casa?}

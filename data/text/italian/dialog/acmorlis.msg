@@ -1,4 +1,4 @@
-{100}{}{Vedi Morlis, una delle tue zie -- Quella alla quale non sei mai piaciuto.}
+{100}{}{Vedi Morlis, una delle tue zie -- quella alla quale non sei mai piaciuto.}
 {101}{}{Perche' mi disturbi, nipote? Non vedi che sono occupata?}
 {102}{}{Umm, okay. Scusa.}
 {103}{}{Cosa c'e'? Sai bene che ho un sacco di cose da fare!}
@@ -10,7 +10,7 @@
 {109}{}{Bene... Voglio tre dosi di polvere curativa. Stanno per arrivare tempi difficili e voglio essere preparata. Portamele e potrai avere la selce. Ora vai a prenderle!}
 {110}{}{Si', signora!}
 {111}{}{Vedi di non sprecare il mio tempo. Hai la polvere?}
-{112}{}{Si', eccola.}
+{112}{}{Si', eccole.}
 {113}{}{Umm, temo di no.}
 {114}{}{Ecco la selce. Adesso sparisci! Non ho tempo per chiacchierare.}
 {115}{}{Grazie, zia Morlis.}
@@ -37,7 +37,7 @@
 {210}{}{Allora, ragazzo. Un'altra volta qui da me. Sei ancora a mani vuote?}
 {211}{}{Si', zia Morlis.}
 {212}{}{Ascolta, }
-{213}{}{. La nostra gente sta morendo, il bestiame sta morendo e i campi si inaridiscono. Tutti sono o affamati, o stanchi, o entrambe le cose. La nostra ora si avvicina. Se non trovi in fretta il GECK, siamo condannati. Lo capisci?}
+{213}{}{. La nostra gente sta morendo, il bestiame sta morendo e i campi si inaridiscono. Tutti sono o affamati, o malati, o entrambe le cose. La nostra ora si avvicina. Se non trovi in fretta il GECK, siamo condannati. Lo capisci?}
 {214}{}{Si', zia Morlis.}
 {215}{}{E allora sparisci da qui e trova il GECK! Il destino della nostra gente dipende da te!}
 {216}{}{Si', zia Morlis.}
@@ -46,4 +46,4 @@
 {302}{}{Beh, non riesco proprio a trovare la selce. Ma sono praticamente certa che tu me l'abbia presa mentre ero distratta. Ti ho gia' beccato altre volte. Adesso sparisci! Non ho tempo per le chiacchiere.}
 {303}{}{Beh... Mi spiace, ma non ricordo dove ho messo la selce. Ad ogni modo, ti auguro buon viaggio, figliolo. }
 {304}{}{Ti ho gia' dato la selce, stupido. Ora smetti di sprecare il mio tempo e sparisci!}
-{305}{}{Ti ho gia' dato la selce, stupido. Oh beh, almeno la mia polvere l'ho avuta. Adesso sparisci! Non ho tempo per le chiacchere.}
+{305}{}{Ti ho gia' dato la selce, stupido. Oh beh, almeno la mia polvere l'ho avuta. Adesso sparisci! Non ho tempo per le chiacchiere.}

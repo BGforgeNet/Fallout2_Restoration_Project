@@ -36,10 +36,10 @@
 {137}{}{Raul, il meccanico addetto ai vertibird, non ha in simpatia Quincy, il capo del reparto manutenzione. Quei due litigano sempre. Non credo si tratti di un caso di rivalita' professionale. Comunque, Raul e' uno stronzo arrogante, mentre Quincy e' un tipo a posto. Spero sia lui a vincere, alla fine.}
 {138}{}{Okay.}
 {139}{}{Si', ho capito.}
-{140}{}{Il laboratorio medico e' stato occupato da una testa d'uovo dell'Enclave di nome Schreber. Che gran figlio di puttana; se ne frega di tutto e di tutti. Si sta occupando di qualche esperimento con i deathclaw, ma non so con esattezza di cosa si tratti. Comunque, stava facendo tanto di quel chiasso che il comandante ha ordinato di insonorizzare la stanza.}
+{140}{}{Il laboratorio medico e' stato occupato da una testa d'uovo dell'Enclave di nome Schreber. Che gran figlio di puttana; se ne frega di tutto e di tutti. Si sta occupando di qualche esperimento con i Deathclaw, ma non so con esattezza di cosa si tratti. Comunque, stava facendo tanto di quel chiasso che il comandante ha ordinato di insonorizzare la stanza.}
 {141}{}{Capito.}
 {142}{}{Interessante. }
-{143}{}{Ah! Qui si parla di una storia d'amore. Sembra che uno di quei fanatici del computer si sia innamorato di un soldato femmina, la guardia che controlla l'esterno del laboratorio medico. Per lei ha pure coniato uno di quegli assurdi nomignoli. La chiama "Snookie" o qualcosa del genere.}
+{143}{}{Ah! Qui si parla di una storia d'amore. Sembra che uno di quei fanatici del computer si sia innamorato di una soldatessa, la guardia che controlla l'esterno del laboratorio medico. Per lei ha pure coniato uno di quegli assurdi nomignoli. La chiama nientemeno che "Snookie".}
 {144}{}{Carino.}
 {145}{}{Nah, e' tutto per quanto riguarda questo posto. Se sento qualcos'altro te lo faro' sapere. Mi piace parlare di queste cose quasi quanto mi piace sentirle!}
 {146}{}{Grazie.}
@@ -50,7 +50,7 @@
 {151}{}{Dove si trova?}
 {152}{}{Nell'angolo nordest della base. Non puoi sbagliare.}
 {153}{}{Okay. Grazie.}
-{156}{}{Sono sorpreso che tu non lo sappia: devi essere una recluta di questa zona, immagino. Comunque, il quartier generale e' nel mezzo di quello stramaledettissimo oceano. Beh, non esattamente al centro, ma potrebbe anche essere. Gli unici modi per arrivare li' sono via nave o con un vertibird; per arrivarci con una dannata nave devi pure faticare un po'. Per far partire una dannata bagnarola ti servira' un FOB.}
+{156}{}{Sono sorpreso che tu non lo sappia: devi essere una recluta di questa zona, immagino. Comunque, il quartier generale e' nel mezzo di quello stramaledettissimo oceano. Beh, non esattamente al centro, ma potrebbe anche essere. Gli unici modi per arrivare li' sono via nave o con un vertibird, e su quella dannata nave ci hanno messo le mani: per far partire la bagnarola ti serve un FOB.}
 {157}{}{Fob?}
 {158}{}{Si', e' una specie di codice. Il comandante lo tiene nel suo ufficio. Senza di quello non puoi accedere ad alcune zone della nave e questo impedisce agli abitanti di San Francisco di fare una visita a sorpresa.}
 {159}{}{Buona idea.}
@@ -67,7 +67,7 @@
 {170}{}{Ecco a te. E' morto, e' cotto, non e' identificabile. Buon appetito.}
 {171}{}{Uh... Grazie.}
 {172}{}{Figliola, dal tuo odore posso dire che non stai indossando una Power-Armor. Se il Sergente ti vede senza uniforme sei fottuta. E non sto parlando di un tipo di fottimento piacevole. Adesso porta le tue chiappe giu' al deposito e vestiti.}
-{173}{}{Signorina, dal tuo odore posso dire che non stai indossando uno dei loro completi Power-Armor. Se il Sergente ti vede senza uniforme sei fottuta. E non sto parlando di un tipo di fottimento piacevole. Adesso porta le tue chiappe giu' al deposito e vestiti.}
+{173}{}{Signorina, dal tuo odore posso dire che non stai indossando una Power-Armor. Se il Sergente ti vede senza uniforme sei fottuta. E non sto parlando di un tipo di fottimento piacevole. Adesso porta le tue chiappe giu' al deposito e vestiti.}
 {174}{}{Dove essere?}
 {175}{}{Okay.}
 {176}{}{Dove si trova?}

@@ -6,7 +6,7 @@
 {105}{}{Sono solo di passaggio.}
 {106}{}{Ug.}
 {107}{}{Lasciato solo, voglio io essere.}
-{108}{}{Dato che sono qui, forse possiamo fare uno scambio. Sono sicuro di avere qualcosa che potresti volere.}
+{108}{}{Dato che sono qui, forse possiamo fare uno scambio. Di sicuro ho qualcosa che potrebbe interessarti.}
 {109}{}{E solo ti lascero'.}
 {110}{}{Scambiare. Andare via tu poi dovrai.}
 {111}{}{OK, ecco quello che posso darti.}
@@ -24,5 +24,5 @@
 {123}{}{Vattene!}
 {124}{}{In pace lascia me!}
 {125}{}{Come tu osi me attaccare!}
-{126}{}{In pace me lascia!.}
+{126}{}{In pace me lascia!}
 {127}{}{Io vado.}

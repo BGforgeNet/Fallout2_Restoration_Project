@@ -2,17 +2,17 @@
 {150}{}{Vedi una donna dall'aspetto robusto con una cresta di capelli verdi in testa. Sta coccolando la sua mitraglietta come fosse un bambino.}
 {151}{}{Vedi una delle guardie del corpo dei Fratelli Corsican.}
 {200}{}{Hai salvato il mondo, eh? Davvero 'na bella roba.}
-{201}{}{Oh, gee, sei il mio eroe. Adesso SMAMMA.}
+{201}{}{Oh, che emozione, sei il mio eroe. Adesso SMAMMA.}
 {300}{}{Ehi, ciaooo?}
 {301}{}{Sai, c'era questa bionda mozzafiato...}
-{302}{}{Cos'e'? Sei troppo figa per parlare con me?}
+{302}{}{Cos'e'? Ti credi troppo importante per parlare con me?}
 {303}{}{Dimmi qualcosa. Qualsiasi cosa!}
 {400}{}{Testa di cazzo.}
 {401}{}{Stronzo.}
 {402}{}{Rotto in culo.}
 {403}{}{Si', stai alla larga, idiota.}
 {404}{}{Spero di non avere il "piacere" di incontrare di nuovo quella faccia da culo.}
-{405}{}{Quella sgualdrina ha bisogno di mentine per l'alito.}
+{405}{}{Quella tipa ha bisogno di mentine per l'alito.}
 {406}{}{Troia.}
 {500}{}{Ti guarda in modo assente.}
 {501}{}{Sembra che non abbia nulla da dirti.}

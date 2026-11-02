@@ -1,4 +1,4 @@
-{100}{}{Singhiozzare-}
+{100}{}{Sob-}
 {101}{}{Jonny...}
 {102}{}{Sniff...}
 {103}{}{Mi manca mio figlio.}

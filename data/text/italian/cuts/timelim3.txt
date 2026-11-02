@@ -1,3 +1,3 @@
-1:Prescelto. Il villaggio [diventa debole.]
+1:Prescelto. Il villaggio [si indebolisce.]
 2:E' piu' difficile raggiungere i [tuoi sogni].
 3:[Devi sbrigarti] o noi tutti...

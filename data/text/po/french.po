@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-08 15:31+0000\n"
-"Last-Translator: Michaël Pégeot <michael.pegeot@gmail.com>\n"
+"PO-Revision-Date: 2026-10-30 23:38+0000\n"
+"Last-Translator: HawK <hawkeye.falloutgen@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/rp/fr/>\n"
 "Language: french\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: cuts/afailed.sve:10
 msgid "Chosen. The village dies. All of our futures die, too."
-msgstr "Être Elu. Le village se meurt. Tous nos avenirs meurent eux aussi."
+msgstr "Etre Elu. Le village se meurt. Tous nos avenirs meurent, eux aussi."
 
 #: cuts/artimer1.sve:20
 msgid "Chosen, the spirits of our ancestors guide me to world of dreams"
@@ -101,7 +101,7 @@ msgstr ""
 
 #: cuts/credits.sve:20
 msgid "War. War never changes."
-msgstr "La guerre, toujours la guerre."
+msgstr "La guerre. La guerre, toujours la guerre."
 
 #. indexed_txt
 #: cuts/credits.sve:70 cuts/narrate.txt:3
@@ -3159,7 +3159,7 @@ msgstr "Il est plus difficile de toucher tes rêves."
 #. indexed_txt
 #: cuts/timelim3.txt:3
 msgid "[You] must [hurry] or we will all..."
-msgstr "Tu dois faire vite ou nous allons tous..."
+msgstr "[Tu] dois [faire vite] ou nous allons tous..."
 
 #. indexed_txt
 #: cuts/timelim4.txt:1 cuts/timelim4.txt:2
@@ -3184,7 +3184,7 @@ msgstr "Tous nos avenirs meurent eux aussi."
 #. indexed_txt
 #: cuts/timelim4.txt:6
 msgid "We have little [left in both time and] essence."
-msgstr "Il nous reste très peu de temps et d'essence."
+msgstr "Il nous reste très peu [de temps et] d'essence."
 
 #. indexed_txt
 #: cuts/timelim4.txt:7
@@ -3283,9 +3283,8 @@ msgstr ""
 "de ça. Je ne la comprends pas vraiment, moi-même, mais ce sont des gens "
 "sympathiques et ils paient bien pour tout objet d'avant-guerre que je "
 "parviens à récupérer. Mais bref, pour ce qui est de quelque chose de "
-"spécial... hmm, [Il jette un regard à Marcus.] C'est marrant que tu me poses "
-"la question, j'ai peut-être quelque chose qui pourrait intéresser ton ami "
-"ici."
+"spécial... hmm, [Il jette un regard à ton équipe.] Désolé, je ne pense pas "
+"avoir quoi que ce soit qui puisse t'être utile."
 
 #: dialog/abbill.msg:213
 msgid "Oh, well. Let's see what you have in stock instead."
@@ -5249,7 +5248,7 @@ msgstr "Merci."
 #: dialog/amonk2.msg:500 dialog/amonk3.msg:500 dialog/amonk4.msg:500
 #: dialog/mcfarrel.msg:151
 msgid "Stop that!"
-msgstr "Arrête ça!"
+msgstr "Arrête ça !"
 
 #: dialog/abhealer.msg:403 dialog/abhealer.msg:406
 msgid "[GO ON]"
@@ -5287,7 +5286,7 @@ msgid ""
 "sick fuck?"
 msgstr ""
 "Tu as gagné %d points d'expérience pour avoir fait fondre Jack. T'es content "
-"maintenant, enfoiré?"
+"maintenant, enfoiré ?"
 
 #: dialog/abhealer.msg:600
 msgid ""
@@ -9099,7 +9098,7 @@ msgstr "J'aimerais te poser une autre question."
 
 #: dialog/acmynoc.msg:185
 msgid "That was quick! Have you found the holy Vault 13?"
-msgstr "T'es rapide ! T'as trouvé le saint Abri 13 ?!"
+msgstr "T'es rapide ! T'as trouvé le saint Abri 13 ?"
 
 #: dialog/acmynoc.msg:187 dialog/acnagor.msg:116 dialog/ccquincy.msg:148
 #: dialog/ccquincy.msg:150 dialog/epac10.msg:1112 dialog/epac11.msg:392
@@ -15035,7 +15034,6 @@ msgstr ""
 "Peux-tu m'aider ?"
 
 #: dialog/bcdalia.msg:152
-#, fuzzy
 msgid ""
 "I don't give a radrat's ass... I'm sorry. I'm just a gun who was hired to "
 "stand here and guard\n"
@@ -15899,9 +15897,8 @@ msgid "Me come here accident. Go now."
 msgstr "Moi venir ici par hasard. Partir maintenant."
 
 #: dialog/bcphil.msg:107
-#, fuzzy
 msgid "Screw you. Me shoot you dead."
-msgstr "Va te faire. Moi tirer toi mort."
+msgstr "Va te faire. Moi tuer toi."
 
 #: dialog/bcphil.msg:108
 msgid "Uh, we talk this out?"
@@ -15920,9 +15917,8 @@ msgid "Sorry, took the wrong trail by accident. Gotta go."
 msgstr "Pardon. J'ai pris le mauvais chemin. Faut que j'y aille."
 
 #: dialog/bcphil.msg:112
-#, fuzzy
 msgid "Up yours and have a bullet breakfast, asshole."
-msgstr "Va te faire foutre et avale-moi ça au petit-déj, connard."
+msgstr "Va te faire foutre et avale moi ça au petit-déj, connard."
 
 #: dialog/bcphil.msg:113
 msgid "I think we can talk this out like two civilized beings."
@@ -31638,7 +31634,7 @@ msgstr ""
 
 #: dialog/dclara.msg:362 dialog/ncrenesc.msg:700
 msgid "Make it quick."
-msgstr "Fais vite."
+msgstr "Dépêche toi."
 
 #: dialog/dclara.msg:370
 msgid ""
@@ -249683,7 +249679,7 @@ msgstr "[Tenter de désactiver l'alarme]"
 
 #: dialog/wsterm2a.msg:111 dialog/wsterm2a.msg:118
 msgid "Arg! [You slam you fist into the keyboard in frustration.]"
-msgstr "Arhh ! [Tu tapes du poing sur le clavier de rage]"
+msgstr "Argh ! [Tu tapes du poing sur le clavier de rage]"
 
 #: dialog/wsterm2a.msg:113
 msgid "Skynet Security Systems"
@@ -253369,7 +253365,7 @@ msgstr "cloche"
 
 #: dialog/zislots.msg:1005
 msgid "bar"
-msgstr "\"bar\""
+msgstr "bar"
 
 #: dialog/zislots.msg:1006
 msgid "melon"
@@ -253393,7 +253389,7 @@ msgstr "cloches"
 
 #: dialog/zislots.msg:1105
 msgid "bars"
-msgstr "\"bar\""
+msgstr "\"bars\""
 
 #: dialog/zislots.msg:1106
 msgid "melons"
@@ -277517,7 +277513,7 @@ msgstr "Une puissante solution de guérison magique vaguement soporifique."
 
 #: game/pro_item.msg:27400
 msgid "Robo Rocket Ammo"
-msgstr "Roquette pour robots"
+msgstr "Munitions de roquette pour robots"
 
 #: game/pro_item.msg:27500
 msgid "Trophy of Recognition"

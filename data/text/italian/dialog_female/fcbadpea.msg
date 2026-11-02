@@ -3,17 +3,17 @@
 {102}{}{Questa persona sembra diversa da tutte quelle che hai visto fino ad ora. Non sembra interessarsi molto a te.}
 {103}{}{Non sei una spia, vero?}
 {104}{}{Chi sei?}
-{105}{}{Pesci e frutti di mare. Questo e' tutto cio' che abbiamo.}
+{105}{}{Pesce e alghe. E' tutto quello che ci danno.}
 {106}{}{Ah ah! Guardate quegli strani occhi rotondi!}
 {107}{}{Sembri una Hubologista.}
 {108}{}{Lasciaci in pace.}
 {109}{}{Lunga vita a Lo Pan!}
 {110}{}{Abbasso Dragon!}
 {111}{}{Lo Pan e' un eroe.}
-{112}{}{Stai attento a Dragon. E' un brutto tipo.}
+{112}{}{Stai attenta a Dragon. E' un brutto tipo.}
 {113}{}{Questi punk sono sempre cosi' rumorosi.}
-{114}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{115}{}{La vita puo' essere migliore di cosi'?}
+{114}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sospira::}
+{115}{}{Possibile che la vita sia solo questo?}
 {116}{}{Siamo piu' svegli di quanto pensi.}
 {117}{}{Guardate! Una lao wai!}
 {118}{}{Benvenuta a San Francisco.}
@@ -24,7 +24,7 @@
 {123}{}{Sei dalla nostra parte, giusto?}
 {124}{}{Uccidi Dragon per noi?}
 {125}{}{Ci onori con la tua presenza.}
-{126}{}{Il nostro leader!}
+{126}{}{Il nostro leader! Abbattuto!}
 {127}{}{Dobbiamo vendicarci per Lo Pan!}
 {128}{}{Chi ci guidera' adesso che Lo Pan e' morto?}
 {129}{}{E adesso che cosa faremo?}
@@ -38,8 +38,8 @@
 {137}{}{Lo Pan! Lo Pan! Lo Pan!}
 {138}{}{Noi siamo i vincitori!}
 {139}{}{Dragon e' morto. Yeah!}
-{140}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{141}{}{La vita puo' essere migliore di cosi'?}
+{140}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sospira::}
+{141}{}{Possibile che la vita sia solo questo?}
 {142}{}{Siamo piu' svegli di quanto pensi.}
 {143}{}{Guardate! Una lao wai!}
 {144}{}{Il portavoce dell'Imperatore e' morto! La citta' andra' in rovina!}
@@ -50,8 +50,8 @@
 {149}{}{Mi hanno detto che Ken Lee era l'unico in grado di tenere a bada l'Imperatore.}
 {150}{}{Ho sentito dire che l'Imperatore era solo una facciata per coprire il vero capo, ovvero Ken Lee. }
 {151}{}{Forse Lo Pan potrebbe prendere il posto di Ken Lee...}
-{152}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{153}{}{La vita puo' essere migliore di cosi'?}
+{152}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sospira::}
+{153}{}{Possibile che la vita sia solo questo?}
 {154}{}{Siamo piu' svegli di quanto pensi.}
 {155}{}{Guardate! Una lao wai!}
 {163}{}{Hai ucciso AHS-9? Yeah!}

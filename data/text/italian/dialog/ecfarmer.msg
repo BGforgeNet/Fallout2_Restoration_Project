@@ -1,23 +1,23 @@
 {100}{}{Vedi un uomo magro e abbronzato.}
-{101}{}{Vedi una contadina.}
+{101}{}{Vedi un contadino.}
 {102}{}{Noti che ha la tipica abbronzatura da contadino.}
-{103}{}{Sei arrivato giusto in tempo. Se tu non fossi arrivato qui in quel momento... Beh, preferisco non pensarci e ringraziare il cielo che tu sia arrivato. Non abbiamo molto, ma vorremmo accettassi questo, come ringraziamento per averci aiutato. [Ti porge qualcosa]}
+{103}{}{Il tuo arrivo e' stato provvidenziale. Se non fosse stato per te... Beh, preferisco non pensarci e ringraziare il cielo che sia andata cosi'. Non abbiamo molto, ma vorremmo accettassi questo, come ringraziamento per averci aiutato. [Ti porge qualcosa.]}
 {104}{}{Grazie.}
 {105}{}{Urg}
 {106}{}{Grazie ancora per averci aiutato.}
 {107}{}{}
 {108}{}{}
-{109}{}{Tieni le mani dove possa vederle. Stiamo stati martoriati dai banditi ultimamente e sospetto che tu possa essere uno di loro. Che cosa vuoi?}
+{109}{}{Tieni le mani dove possa vederle. Siamo stati tormentati dai banditi, ultimamente, e sospetto che tu possa essere uno di loro. Che cosa vuoi?}
 {110}{}{Vorrei solamente acquistare alcune cose.}
 {111}{}{Sono solo di passaggio. Me ne vado subito.}
 {112}{}{Ug.}
-{113}{}{Bene, penso che non ci siano pericoli. Ecco cosa posso offrirti.}
+{113}{}{Be', non ci vedo niente di male. Ecco cosa posso offrirti.}
 {114}{}{[Baratta]}
 {115}{}{OK, ora sparisci!}
 {116}{}{[Baratta]}
 {117}{}{Ho detto sparisci!}
 {118}{}{}
-{119}{}{[Si rilassa un po'.] Sei troppo stupido per essere un bandito. Hai bisogno di provviste??}
+{119}{}{[Si rilassa un po'.] Non hai abbastanza cervello per fare il bandito. Hai bisogno di provviste?}
 {120}{}{Ah-a.}
 {121}{}{Eh eh.}
 {122}{}{Allora vuol dire che non abbiamo niente da discutere. Adesso puoi anche andartene.}
@@ -36,5 +36,5 @@
 {135}{}{Tornero'.}
 {136}{}{Prendi mia moglie - ti prego...}
 {200}{}{Vedi una donna magra e abbronzata.}
-{201}{}{Vedi una contadina.}
+{201}{}{Vedi un contadino.}
 {202}{}{Ti accorgi che ha un'abbronzatura da contadina.}

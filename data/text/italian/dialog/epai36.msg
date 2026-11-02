@@ -5,12 +5,12 @@
 {160}{}{Seleziona un'opzione qui sotto.}
 {161}{}{Abbassa Campo di Forza}
 {162}{}{[INDIETRO]}
-{170}{}{Per abbassare i campi di forza, inserisci la password di accesso. (Se la password e' stata persa o dimenticata, rivolgiti all'Ologramma 40011, Direttore delle Pubbliche Relazioni.)}
+{170}{}{Per abbassare i campi di forza, inserisci la password di accesso. (Se la password e' stata persa o dimenticata, rivolgiti all'Ologramma 40011, Direttrice delle Pubbliche Relazioni.)}
 {171}{}{ABRE}
 {172}{}{[INDIETRO]}
 {180}{}{Grazie. I campi di forza sono ora disattivati.}
 {181}{}{[FATTO]}
-{200}{}{Benvenuto nello Zoo Tattile dell'EPA! Qui avrai il piacere di interagire con queste creature uniche che
+{200}{}{Benvenuti nello Zoo Tattile dell'EPA! Qui avrai il piacere di interagire con queste creature uniche che
  sembrano esseri umani orribilmente deformati! Questo perche' queste bestie sono il risultato di entusiasmanti esperimenti in cui i nostri
  brillanti scienziati stanno tentando di unire DNA umano e animale!}
 {201}{}{[AVANTI]}
@@ -23,7 +23,7 @@
  e' improbabile che attacchino finche' sono ben nutrite. Siamo lieti di riportare che solo tre visitatori sono rimasti uccisi
  nell'ultimo anno!}
 {221}{}{[Disconnetti.]}
-{300}{}{Benvenuto nella nostra nuova esposizione! Le strane creature tentacolate che vedi in questa gabbia potrebbero sembrare venute
+{300}{}{Benvenuti nella nostra nuova esposizione! Le strane creature tentacolate che vedi in questa gabbia potrebbero sembrare venute
  dallo spazio, ma non sono alieni: in realta' sono state create proprio qui in America! Come avrai intuito,
  non sono state create da madre natura, ma dalla scienza!}
 {301}{}{[AVANTI]}
@@ -41,7 +41,7 @@
  Perche' vorremmo farlo? E' semplice.}
 {401}{}{[AVANTI]}
 {410}{}{Dopo una guerra nucleare globale, gli scienziati credono che gran parte della Terra diventera' una landa desolata. La vita vegetale
- avra' enormi difficolta' a sopravvivere in questo nuovo ambiente ostile. Ora immagina di uscire dai nostri vault Vault-Tec
+ avra' enormi difficolta' a sopravvivere in questo nuovo ambiente ostile. Ora immagina di uscire dai nostri Vault della Vault-Tec
  solo per scoprire che tutte le piante sono morte! Vorrebbe dire niente piu' insalate per mamma, e niente piu' prati dove
  Billy e Rover possano giocare a riportare la palla.}
 {411}{}{[AVANTI]}

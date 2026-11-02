@@ -75,7 +75,7 @@
 {325}{}{ e' anche molto furbo. Sa davvero come colpire qualcuno.}
 {326}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
 {327}{}{ e' cosi' belllooooo.}
-{328}{}{ ci tiene a noi. Me l'ha detto lui.}
+{328}{}{ e' premuroso e affettuoso. Me l'ha detto lui ieri notte.}
 {350}{}{}
 {351}{}{A casa ho un vasetto con dentro un po' del tuo sudore.}
 {352}{}{Ommioddio! }
@@ -126,7 +126,7 @@
 {1212}{}{ e' cosi' belllooooo.}
 {1213}{}{ e' cooooosi' macho.}
 {1214}{}{ Aiiiieeeeeeeee!}
-{1216}{}{ ci tiene a noi. Me l'ha detto lui.}
+{1216}{}{ e' premuroso e affettuoso. Me l'ha detto lui ieri notte.}
 {1250}{}{, sei grande!}
 {1251}{}{ e' anche molto furbo. Sa davvero come colpire qualcuno.}
 {1252}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
@@ -143,10 +143,10 @@
 {1268}{}{, sei grandissima!}
 {1269}{}{ e' anche molto furba. Sa davvero come colpire qualcuno.}
 {1270}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
-{1271}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. Misteriosa! Letale!}
+{1271}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. E' cosi' misteriosa!}
 {1281}{}{, sei grande!}
 {1282}{}{ e' cosi' belllooooo.}
-{1283}{}{ ha il fisico di un carroarmato!}
+{1283}{}{ ha il fisico di un carro armato!}
 {1284}{}{ e' anche molto furbo. Sa davvero come colpire qualcuno.}
 {1285}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
 {1286}{}{ era praticamente uno sconosciuto, un novellino appena arrivato dalle Lande, prima di venire a boxare qui a New Reno. Misterioso! Letale!}
@@ -162,7 +162,7 @@
 {1301}{}{, sei grandissima!}
 {1302}{}{ e' anche molto furba. Sa davvero come colpire qualcuno.}
 {1303}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
-{1304}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. Misteriosa! Letale!}
+{1304}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. E' cosi' misteriosa!}
 {1350}{}{, sei grande!}
 {1352}{}{! Fammi un autografo!}
 {1354}{}{! Fagli assaggiare l'inferno!}

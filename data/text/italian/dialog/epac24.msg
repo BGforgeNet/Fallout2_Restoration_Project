@@ -1,5 +1,5 @@
 {100}{}{Vedi un "umano" orribilmente sfigurato.}
-{101}{}{Vedi quello che sembra un essere umano sfortunato con grottesche caratteristiche animali. Sembra affamato in modo feroce.}
+{101}{}{Vedi quello che sembra un essere umano sfortunato con grottesche caratteristiche animali. Sembra divorato dalla fame.}
 {200}{}{Urgh!}
 {201}{}{Faammmmee!}
 {202}{}{*ringhia*}

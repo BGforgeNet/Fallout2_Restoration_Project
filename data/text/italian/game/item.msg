@@ -2,7 +2,7 @@
 {2}{}{Hai perso %d %s.}
 {3}{}{Ti senti meglio.}
 {4}{}{Hai subito un attacco di cuore letale a causa di un'overdose.}
-{5}{}{%s non ha piu' colpi.}
+{5}{}{%s non ha piu' cariche.}
 {6}{}{%s e' accesa.}
 {7}{}{%s e' spenta.}
 {8}{}{Passi il contatore Geiger sul tuo corpo. Il contatore rem indica: %d}

@@ -6,9 +6,9 @@
 {203}{}{Mi dispiace, ma la conoscenza dei nostri libri non ti e' di alcuna utilita'.}
 {300}{}{Benvenuto all'Abbazia, viaggiatore. Come posso aiutarti?}
 {301}{}{Cosa puoi dirmi a proposito del vostro ordine?}
-{302}{}{Ha mai sentito parlare di un dispositivo chiamato G.E.C.K.?}
-{303}{}{Sa dove potrei trovare il Vault 13?}
-{304}{}{Addio.}
+{302}{}{Hai mai sentito parlare di un dispositivo chiamato GECK?}
+{303}{}{Sai dove potrei trovare il Vault 13?}
+{304}{}{Ciao.}
 {400}{}{Cosa vuoi sapere?}
 {401}{}{Capito. Vorrei sapere qualcos'altro.}
 {402}{}{Hmm... *sembra* familiare. Ebbene si', ricordo che Fratello Thomas ha menzionato qualcosa a riguardo di recente. Mi dispiace, ma non ricordo esattamente cosa ha detto.}
@@ -48,7 +48,7 @@
 {431}{}{Qual e' la storia dell'Abbazia?}
 {432}{}{Hmm, non ho domande al momento.}
 {433}{}{La nostra sacra missione e' leggere, copiare e custodire i nostri sacri libri di conoscenza e altre reliquie dell'eta' perduta.
- E' nostra speranza che con questa conoscenza siamo in grado di creare un Memorabilia che un giorno possa aiutare l'umanita' a emergere dal
+ E' nostra speranza che con questa conoscenza siamo in grado di creare una Memorabilia che un giorno possa aiutare l'umanita' a emergere dal
  suo autoimposto Medioevo. Qualsiasi informazione che incontriamo viene registrata, affinche' non vada perduta come tanto e' andato perduto nel
  grande Diluvio di Fiamme.}
 {434}{}{Dopo la Grande Guerra, le mani guida del destino hanno indirizzato i nostri antenati a questa vecchia Abbazia tra le montagne. Grazie
@@ -63,16 +63,16 @@
  si decise che si sarebbero invece dedicati a garantire la preservazione dei libri, da rilasciare quando,
  e se, il mondo fosse stato pronto per questo.}
 {438}{}{(Altro)}
-{439}{}{E cosi', utilizzando una piccola stampante, iniziarono a fare copie dei libri, trascrivendoli anche
+{439}{}{E cosi', utilizzando un piccolo torchio da stampa, iniziarono a fare copie dei libri, trascrivendoli anche
  nei computer dell'Abbazia per preservarli digitalmente, nel caso in cui i libri fisici fossero mai distrutti. Nel corso degli anni,
  altri hanno trovato l'Abbazia, e alcuni hanno scelto di restare e vivere la propria vita nella tranquilla quiete della nostra dimora montana.}
 {440}{}{Grazie per la storia.}
 {441}{}{Da dove venivano i vostri antenati?}
-{442}{}{Non hanno mai detto da dove venissero originariamente. Sospettiamo che siano venuti qui originariamente dall'est.}
+{442}{}{Non hanno mai detto da dove venissero originariamente. Sospettiamo che siano venuti dall'est.}
 {443}{}{Beh, grazie per la storia.}
-{444}{}{Ha bisogno di aiuto qui al monastero?}
+{444}{}{Hai bisogno di aiuto qui al monastero?}
 {445}{}{Ho scoperto cosa c'e' che non va nella vostra pompa dell'acqua.}
-{446}{}{Sa nulla a proposito dei fondatori originali?}
+{446}{}{Sai qualcosa dei fondatori originali?}
 {447}{}{Non conosco tutti i nomi dei nostri fondatori, ma il piu' importante di cui sono a conoscenza e' Miller.
  Prima della Grande Guerra era un ingegnere elettrico che lavorava per il governo degli Stati Uniti. Poco dopo,
  si converte' al cattolicesimo e fece un giuramento con se stesso che avrebbe trascorso il resto della sua vita a preservare la
@@ -107,7 +107,7 @@
  se ne sarebbero occupati, ma non sembravano fare molti progressi. E' stata una fortuna che tu sia passato. Grazie ancora.}
 {602}{}{Mi aspetto dei soldi per questo, sai. Ora fuori i soldi!}
 {603}{}{Nessun problema. Avrei delle altre domande pero'.}
-{604}{}{Sono felice di essere stato utile. Prenditi cura di te.}
+{604}{}{Sono felice di essere stato utile. Stammi bene.}
 {605}{}{[Corruga la fronte.] Capisco. Va bene, ecco, prendi queste monete. Ora vai, e smettila di disturbarmi.}
 {606}{}{Grazie, *padre*.}
 {700}{}{Uhh... no, sembra che l'abbia smarrito.}
@@ -129,7 +129,7 @@
 {808}{}{Oh grazie. Sei davvero di grande aiuto. Per favore riferiscimi non appena installi il nuovo pezzo.}
 {809}{}{Lo faro'. Torno subito.}
 {900}{}{Spieghi all'Abate che mentre le informazioni che custodiscono potrebbero portare all'annientamento dell'umanita', potrebbero anche portare alla sua salvezza.}
-{901}{}{Scopri del fondatore originale dell'Abbazia.}
+{901}{}{Vieni a sapere qualcosa sul fondatore originale dell'Abbazia.}
 {1000}{}{Io ammazzato mostro brutto giu' in grotta.}
 {1010}{}{Davvero? Ottimo. Sei stato molto coraggioso. Sei un bravo ragazzo.}
 {1011}{}{Davvero? Ottimo. Sei stata molto coraggiosa. Sei una brava ragazza.}
@@ -144,7 +144,7 @@
 {1100}{}{Ero la' giu' prima. Ho visto alcuni cadaveri, quindi immagino che uno di loro fosse il vostro monaco scomparso. Se
  puo' farti sentire meglio, ho ucciso la cosa responsabile della sua morte.}
 {1110}{}{Ah... quindi e' come temevo. Fratello Thomas ci manchera' molto. Ti ringrazio per averci liberato da qualunque
- bestia delle Lande si nascondesse la' sotto. Tuttavia, io... non suppongo che tu abbia trovato un libro mentre eri la' giu'. E' un libro molto
+ bestia delle Lande si nascondesse la' sotto. Tuttavia, io... immagino che tu non abbia trovato un libro mentre eri la' giu'. E' un libro molto
  importante che si sapeva essere in possesso di Fratello Thomas.}
 {1111}{}{No, ma suppongo di poter tornare a controllare.}
 {1112}{}{Stai parlando di questo libro?}

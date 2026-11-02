@@ -7,12 +7,12 @@
 {106}{}{Ah, capisco. Devi essere nuova di qui. Bene, ascoltami. Piazzero' una scommessa speciale per te, durante gli incontri di domani. Che ne dici, vuoi che lo faccia?}
 {107}{}{(Annuisci) Ook, ook. (e le porgi il portamonete)}
 {108}{}{Mook? Gaga. Ciao pelosetti.}
-{109}{}{Bravo. Torna qui domani e se la tua creatura ha vinto il suo incontro, io ti daro' i tuoi soldi. Okay?}
+{109}{}{Buona idea. Torna qui domani e se la tua creatura ha vinto il suo incontro, io ti daro' i tuoi soldi. Okay?}
 {110}{}{OK, ottima mossa. Faro' in modo di piazzare una scommessa davvero speciale, con questi. Ci vediamo.}
 {111}{}{Vinto?}
 {112}{}{Okay... ciao ciao.}
 {113}{}{No, mi dispiace. Ma sento che la prossima volta andra' molto meglio. Vuoi che piazzi un'altra scommessa speciale?}
-{114}{}{Okay. Gaie. (annuisci e le porgi il portamonete).}
+{114}{}{Okay. Grassie. (annuisci e le porgi il portamonete).}
 {115}{}{Booo? Ciao.}
 {116}{}{Mi dispiace molto, ma non hai soldi sufficienti per scommettere. Torna quando avrai messo insieme qualche spicciolo.}
 {117}{}{Okay, bello bello. Ciao.}
@@ -24,15 +24,15 @@
 {123}{}{Questo sembra promettere bene, gente. Si stanno davvero prendendo le misure.}
 {124}{}{Si son viste un paio di belle mosse; diresti quasi che non e' la prima volta che lo fanno!}
 {125}{}{Un bel round, un bel round. C'e' un sacco di odio, in quel recinto.}
-{126}{}{La resistenza di quei due e' davvero incredibile! Non si puo' prevedere chi avra' la meglio.}
-{127}{}{Che colpo sui reni! Quello si' che deve far male!}
-{128}{}{Oh yeah! Combattete! Combattete!}
+{126}{}{La resistenza di quei due e' davvero incredibile! Sanno incassare bene quanto picchiare.}
+{127}{}{Che montante! Quello si' che deve far male!}
+{128}{}{Oh yeah! Colpo al corpo! Colpo al corpo!}
 {129}{}{Non credo che l'abbia vista arrivare, mossa fortunata.}
 {130}{}{Ouch! Quello deve aver fatto male!}
-{131}{}{Vedrete che incontro, gente.}
+{131}{}{Adesso comincia la vera punizione, gente.}
 {132}{}{Bel colpo, davvero un ottimo gioco di zampe.}
 {133}{}{Lo sta lavorando al corpo. Oggi si vedono davvero delle ottime mosse, gente!}
-{134}{}{Bella combinazione! Questo che vedete e' un vero campione all'opera!}
+{134}{}{Bella combinazione! Questo qui e' un campione nato!}
 {135}{}{Oh yeah! Un uno-due che ha messo alle corde l'avversario!}
 {136}{}{Quei due bestioni si stanno facendo venire la bava alla bocca!}
 {137}{}{Guardate tutto quel sangue... e quei due non accennano a smettere. Che incontro!}
@@ -42,7 +42,7 @@
 {141}{}{Si muove come un fulmine! Guardate quanto sono malridotte la pelle e la carne del suo avversario!}
 {142}{}{Guardate! Pezzi di carne dappertutto! Questi due ci sanno proprio fare!}
 {143}{}{Ehila'. Io sono Jackpot Jane e organizzo gli incontri tra animali, qui in citta'. Sei qui per scommettere sul risultato di uno dei nostri scontri primordiali? Bestia contro bestia che si affrontano in un combattimento rude e spietato?}
-{144}{}{Fatevi avanti e piazzate le vostre scommesse! Su chi vuoi puntare?}
+{144}{}{Fatti avanti, piazza la tua scommessa! Su chi vuoi puntare?}
 {145}{}{Uh, che succede qui?}
 {146}{}{Sono pronta a piazzare la mia scommessa.}
 {147}{}{Io penso che questi incontri siano tutti truccati.}
@@ -61,19 +61,19 @@
 {160}{}{Creature selvagge si scontrano mentre voi vincete soldi! VI PIACERA'!}
 {161}{}{Portate i vostri grossi portamonete e le vostre ancor piu' grosse speranze! PROPRIO QUA!}
 {162}{}{Vattene al diavolo.}
-{163}{}{Non mi interessano i tuoi sporchi affari.}
+{163}{}{Non mi servono clienti come te.}
 {164}{}{Va' da qualche altra parte.}
 {165}{}{Sta' lontano dal mio recinto.}
 {166}{}{Non mi interessano i tuoi soldi.}
 {167}{}{Beh, come stavo dicendo, le due creature si avvinghieranno l'una sull'altra in un'esplosione di ferocia - un'esplosione come non se ne vedevano dai tempi in cui le grandi macchine solcavano le grandi praterie.}
 {168}{}{Grandi macchine?}
 {169}{}{Uh, certo, e poi?}
-{170}{}{OK, ascoltami amico... ti sarebbe piaciuto di piu' se avessi detto "un'esplosione come non se ne vedevano dai tempi in cui le grandi lucertole del tuono solcavano le grandi praterie"? E' questo genere di cose che stuzzica la tua curiosita'? Allora, sei dentro o fuori? (tra se' e se') Jeez, di questi tempi chiunque si crede un critico.}
+{170}{}{OK, ascoltami amica... ti sarebbe piaciuto di piu' se avessi detto "un'esplosione come non se ne vedevano dai tempi in cui le grandi lucertole del tuono solcavano le grandi praterie"? E' questo genere di cose che stuzzica la tua curiosita'? Allora, sei dentro o fuori? (tra se' e se') Jeez, di questi tempi chiunque si crede un critico.}
 {171}{}{Uh, sono dentro. Credo.}
-{172}{}{Le grandi lucertole mi spaventano. Sara' meglio che ne rimanga fuori. Grazie dell'avvertimento. Addio. (pensi, tra te e te) *Fiuuu, per un pelo.*}
+{172}{}{Le grandi lucertole mi spaventano. Sara' meglio che ne rimanga fuori. Grazie dell'avvertimento. Arrivederci. (pensi, tra te e te) *Fiuuu, per un pelo.*}
 {173}{}{La cosa divertente e' lo scommettere sul risultato dell'incontro. Ecco come funziona. Tu vieni da me e mi dici che vuoi piazzare una scommessa. Io ti dico quali sono le due creature che combattono nell'incontro seguente e tu mi dici su quale delle due vuoi puntare i tuoi soldi.}
 {174}{}{Poi cosa?}
-{175}{}{Semplice, se la tua creatura vince, ti becchi il doppio della tua puntata. Il TRIPLO, in caso di vittoria al primo round! Se la tua creatura perde, i tuoi soldi appartengono a me. Solitamente ci sono diversi incontri ogni giorno. Fino a quando il numero di creature non si abbassa troppo, puoi fare una scommessa in tutti gli incontri. Ma solo una per ognuno. Oh, certo, solo per mettere subito le cose in chiaro, tutte le puntate devono essere di 100$.}
+{175}{}{Semplice, se la tua creatura vince, ti becchi il doppio della tua puntata. Il TRIPLO, in caso di vittoria al primo round! Se la tua creatura perde, i tuoi soldi appartengono a me. Solitamente ci sono diversi incontri ogni giorno. Fino a quando il numero di creature non si abbassa troppo, puoi fare una scommessa in tutti gli incontri. Ma solo una per ognuno. Oh, gia', tanto per semplificare le cose, tutte le puntate sono da 100$.}
 {176}{}{OK. Ho capito. Voglio provarci.}
 {177}{}{Capisco. Hmm, prima o poi ci provero', ma non adesso. Ci vediamo.}
 {178}{}{Questo sara' un vero massacro. }
@@ -82,7 +82,7 @@
 {181}{}{Questo sara' un incontro davvero duro. Il campione dei campioni }
 {182}{}{ contro }
 {183}{}{. Su chi vuoi puntare i tuoi soldi?}
-{184}{}{Non ho mai organizzato un incontro di questo livello. }
+{184}{}{Non ho mai organizzato un incontro cosi' equilibrato. }
 {185}{}{ combattera' contro }
 {186}{}{ questa volta. Dovrebbe essere un bell'incontro. Da che parte andranno i tuoi soldi?}
 {187}{}{Il Campione }
@@ -95,12 +95,12 @@
 {194}{}{.}
 {195}{}{Punto i miei soldi su }
 {196}{}{.}
-{197}{}{Hmm, credo che stavolta me ne staro' tranquillo. }
+{197}{}{Hmm, credo che stavolta passero' la mano. }
 {198}{}{Credo di averne avuto abbastanza, per oggi. Ci vediamo un'altra volta. Arrivederci.}
 {199}{}{Ecco qua, campionessa. Questa e' la tua vincita. Questo era l'ultimo incontro della giornata. Torna domani se vuoi divertirti ancora.}
 {200}{}{Lo spettacolo continua. Vuoi fare una scommessa sul prossimo incontro?}
 {201}{}{Certamente.}
-{202}{}{Credo che stavolta me ne staro' tranquillo.}
+{202}{}{Credo che il prossimo lo saltero'.}
 {203}{}{Ascolta, nessuno ti costringe a venire a scommettere qui, giusto? Se non ti piace quel che vedi, allora smamma, non ci mancherai di certo. Hai capito?}
 {204}{}{Capisco.}
 {205}{}{Che colpo! }
@@ -120,13 +120,13 @@
 {219}{}{Wahoo! Ho vinto.}
 {220}{}{Vai! Alla grande!}
 {221}{}{Ho davvero del talento per queste cose.}
-{222}{}{Conosco le mie creature.}
+{222}{}{Le bestie le so proprio scegliere.}
 {223}{}{Cavoli. Ho perso.}
 {224}{}{La mia solita sfortuna.}
 {225}{}{Poteva andarmi meglio.}
 {226}{}{La prossima volta cerchero' di scegliere meglio.}
 {227}{}{Per fortuna non ho scommesso su di lui.}
-{228}{}{Sono felice d'essermi tenuto i soldi.}
+{228}{}{Meno male che i soldi li ho tenuti in tasca.}
 {229}{}{Mi sarebbe costato caro.}
 {230}{}{E' stato un bell'incontro. Sono felice di non aver scommesso, pero'.}
 {231}{}{Ok, grazie.}
@@ -155,7 +155,7 @@
 {324}{}{Buban}
 {325}{}{Bongo}
 {326}{}{Guercio}
-{327}{}{Brufolo}
+{327}{}{Macchia}
 {328}{}{Lord Wiggler}
 {330}{}{Fortunato}
 {331}{}{Zoroastro il Grande}
@@ -167,11 +167,11 @@
 {337}{}{Sbruffone}
 {338}{}{Capitano Midnight}
 {340}{}{Martello}
-{341}{}{Segreteria}
+{341}{}{Secretariat}
 {342}{}{Man o' War}
 {343}{}{Sancho Panza}
 {344}{}{Loki}
-{345}{}{Cerberus}
+{345}{}{Cerbero}
 {346}{}{Grendel}
 {347}{}{Lady Penelope}
 {348}{}{Mr. Baggins}

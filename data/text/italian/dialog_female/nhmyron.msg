@@ -16,40 +16,40 @@
 {228}{}{Credo che l'Amoooooore in persona mi abbia appena onorato della sua presenza.}
 {229}{}{Vieni qui spesso?}
 {230}{}{Mmmm-mmmm. Quelle gambe finiscono, prima o poi?}
-{235}{}{.}
-{236}{}{Bel pezzo d’osso che ha il tuo amico, davvero Tres chic.}
-{237}{}{Quel selvaggio e' tuo schiavo?}
-{238}{}{Il tuo amico selvaggio ti serve per compensare qualcosa?}
+{235}{}{Cos'e' questo odore? Si direbbe puzza di tribale.}
+{236}{}{Bell'osso, quello del tuo amico. Tres chic.}
+{237}{}{Quel tribale e' tuo schiavo?}
+{238}{}{Il tuo amico tribale ha qualcosa da compensare?}
 {239}{}{Come diavolo ha fatto quella cosa a entrare qui dentro?}
 {240}{}{Perfetto. Lasciano entrare persino i mutanti, adesso.}
 {241}{}{E' davvero una morsa quella cosa sulla spalla del tuo mutante?}
 {242}{}{Quel mutante e' tuo schiavo?}
-{243}{}{Il tuo amico mutante si arrabbia facilmente?}
+{243}{}{Il tuo brutto amico mutante si arrabbia facilmente?}
 {244}{}{Cos'e' questo odore? Si direbbe puzza di mutante.}
 {255}{}{Cos'e' 'sta puzza? Sembra quella di un morto.}
 {256}{}{Perfetto. Lasciano entrare persino i ghoul, adesso.}
 {257}{}{Dovresti far prendere un po' d'aria a quel tuo ghoul. Emana un tanfo insopportabile.}
 {258}{}{Quel ghoul e' radioattivo?}
 {259}{}{Strofina una puzzola sul tuo ghoul, cosi' magari puzza meno, OK?}
-{265}{}{Faremo qualcosa nel breve periodo?}
-{266}{}{Portiamo un po’ piu' di donne in questa baracca da quattro soldi.}
+{265}{}{Facciamo qualcosa, prima o poi?}
+{266}{}{Ci vorrebbero piu' donne in questa squadra del cavolo.}
 {267}{}{Possiamo andare da qualche parte dove ci siano piu' donne?}
-{268}{}{Dovresti essere contento che ci sia io a farti notare tutti i tuoi stupidi errori.}
-{375}{}{Ehi, sto morendo! Dammi subito uno stimpak!}
+{268}{}{Dovresti essere contenta che ci sia io a farti notare tutti i tuoi stupidi errori.}
+{375}{}{Ehi, sto morendo! Dammi subito uno Stimpak!}
 {376}{}{Questo e' il mio sangue?}
 {377}{}{Un dottore!}
 {378}{}{Owwwww. Cazzo! Owwwww, che male!}
 {379}{}{Ow! Come brucia!}
 {380}{}{Owwwwwwww Owwwww Ow. Ow. Ow?}
-{381}{}{Ahi… magari QUALCUNO si decidesse a fasciarmi queste ferite.}
-{390}{}{Dammi un dannatissimo stimpak prima che tiri le cuoia!}
-{391}{}{Dammi un dannato stimpak! Sto per andare in shock!}
-{392}{}{Qualcuno mi faccia un intervento d'urgenza, presto! Sto morendo!}
-{400}{}{Whoa... mi sento un po' debole...}
+{381}{}{Ahi... magari QUALCUNO si decidesse a fasciarmi queste ferite.}
+{390}{}{Dammi un dannatissimo Stimpak prima che tiri le cuoia!}
+{391}{}{Dammi un dannato Stimpak! Sto per andare in shock!}
+{392}{}{Qualcuno mi dia un po' di pronto soccorso, presto! Sto morendo!}
+{400}{}{Ohi... mi sento un po' debole...}
 {401}{}{Vediamo un po'... ho la nausea... le palpitazioni... la febbre. Molto probabilmente si tratta di veleno.}
 {402}{}{Uh... non... resistero'... ancora a... lungo... il veleno... si diffonde...}
 {403}{}{Qualcuno potrebbe, per cortesia, succhiarmi via il veleno?}
-{410}{}{Sono io che brillo? Dammi un po' di Rad-X la prossima volta che entriamo in zone radioattive, okay?}
+{410}{}{Sono io che brillo? Dammi un po' di Rad-X la prossima volta che andiamo a cazzeggiare in zone radioattive, okay?}
 {411}{}{Mi serve un po' di RadAway prima che le radiazioni si mangino il mio "reattore".}
 {412}{}{Perche' la prossima volta non lo beviamo direttamente, il liquido radioattivo? Almeno moriremo piu' in fretta!}
 {413}{}{Potrei illuminare New Reno con tutte le radiazioni che ho in corpo.}
@@ -84,7 +84,7 @@
 {466}{}{Non c'e' niente di meglio che una rigorosa dieta a base di droghe per mantenere la mia mente elastica.}
 {467}{}{Questo non significa che siamo sposati, vero?}
 {468}{}{Hai dell'erba?}
-{469}{}{Lascia che li tenga io gli stimpak, okay?}
+{469}{}{Lascia che li tenga io gli Stimpak, okay?}
 {470}{}{Ahhhhhhhhh.}
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
 {472}{}{Adoro quando fai cosi'.}
@@ -109,10 +109,10 @@
 {520}{}{Fatto. Finito.}
 {521}{}{Piu' facile che farsi un giro in bici. O tua madre! Ah ah ah ah ah!}
 {522}{}{Si'. Myron e'... il Dio della Scienza.}
-{523}{}{.}
+{523}{}{Beep. Myron ha usato con successo l'abilita' SCIENZA.}
 {530}{}{Nulla.}
 {531}{}{Nada.}
-{532}{}{Nulla.}
+{532}{}{Niente da fare.}
 {533}{}{Merda! Ho provato di tutto...}
 {534}{}{Non posso farci nulla.}
 {535}{}{Non sono riuscito a trovare nulla. Per questa volta.}
@@ -128,11 +128,11 @@
 {554}{}{C'ero prima io, ma... prego, passa pure.}
 {560}{}{Non serve che tu me lo dica due volte.}
 {561}{}{Non disprezzerei un po' di cure femminili... capisci cosa intendo?}
-{562}{}{Ahhhhhhh. Per fortuna gli stimpak non causano dipendenza.}
-{563}{}{Oooooh, si'. Per fortuna gli stimpak non causano dipendenza.}
+{562}{}{Ahhhhhhh. Per fortuna gli Stimpak non danno troppa dipendenza.}
+{563}{}{Oooooh, si'. Per fortuna gli Stimpak non danno troppa dipendenza.}
 {570}{}{Non farmi un'iniezione di quella merda. Sto bene, okay?}
 {571}{}{Smettila di farmi da mamma. Sono a posto.}
-{572}{}{Ehi, non preoccuparti. Sto bene. Ma lascia che sia io a tenere gli stimpak.}
+{572}{}{Ehi, non preoccuparti. Sto bene. Ma lascia che sia io a tenere gli Stimpak.}
 {580}{}{Ehi, fammi tornare nel tuo gruppo! Dai!}
 {581}{}{Mi spiace di essere stato cosi' stronzo. Dammi un'altra possibilita'.}
 {582}{}{Mi sto stufando di stare qui ad aspettarti.}
@@ -146,14 +146,14 @@
 {594}{}{Allora... tu e Miria. Siete entrambi liberi di vedervi con altra gente, oppure...?}
 {595}{}{Che ne dici di uno scambio di mogli? Potrai avere la mia non appena ne avro' una.}
 {596}{}{Allora... chi e' questa tipa orientale tutta pepe?}
-{597}{}{Kitsune e' piuttosto carina. Posso… beh, sai… che ne dici?}
+{597}{}{Kitsune e' piuttosto carina. Posso... beh, sai... che ne dici?}
 {598}{}{Questa ragazza orientale e' proprio uno schianto.}
-{599}{}{Allora… tu e Kitsune. State insieme o qualcosa del genere?}
+{599}{}{Allora... tu e Kitsune. State insieme o qualcosa del genere?}
 {600}{}{Siamo pronti a partire?}
 {605}{}{Perche' diavolo siamo QUI?}
 {606}{}{Tutti quelli di questa citta' avrebbero bisogno di un bel clistere.}
 {607}{}{Essere a Vault City mi rende... di cattivo umore.}
-{608}{}{Che cos’ha Vault City che mi fa venire voglia di cagare?}
+{608}{}{Che cos'ha Vault City che mi fa venire voglia di cagare?}
 {609}{}{Quand'e' che torniamo a Reno?}
 {615}{myn102b}{Finalmente sei tornato, eh? Sapevo che l'avresti fatto. Hai bisogno di me.}
 {616}{myn102a}{Finalmente sei tornata, eh, bellezza? Sapevo che l'avresti fatto. D'accordo, tornero' nuovamente con te.}
@@ -176,12 +176,12 @@
 {645}{myn106}{Seh. Cos'hai in mente?}
 {646}{}{Parlami del Jet.}
 {647}{}{Puoi preparare dei medicinali?}
-{648}{}{Non sembreresti al massimo della forma, Myron. Prova a rimetterti un po' in sesto.}
+{648}{}{Non sembri al massimo della forma, Myron. Prova a rimetterti un po' in sesto.}
 {650}{}{Dov'era quel nascondiglio dei Mordino del quale mi stavi parlando?}
 {655}{myn107a}{Ah, la mia raffinatissima droguccia. Cosa vuoi sapere?}
 {656}{myn107b}{Ne abbiamo gia' parlato. Non sono qui per farti da memoria.}
 {657}{myn107c}{Ne abbiamo gia' parlato. Senti, saro' anche il tuo schiavo d'amore, bellezza, ma non ho intenzione di essere la tua memoria.}
-{658}{}{Come l'hai creata?}
+{658}{}{Come l'hai creato?}
 {659}{}{Esiste una cura?}
 {660}{}{Puoi fabbricarmi un po' di Jet?}
 {661}{}{Sarai presto cadavere se non rispondi alle mie domande. In che modo hai creato il Jet?}
@@ -193,7 +193,7 @@
 {668}{}{Preferirei baciare Marcus piuttosto che permetterti di essere il mio schiavo d'amore. Uh... senza offesa, Marcus.}
 {669}{}{Lasciamo perdere, Myron.}
 {680}{myn108}{Uh, nel mio laboratorio. Prossima domanda?}
-{681}{}{COME l'hai creata, sapientone?}
+{681}{}{COME l'hai creato, sapientone?}
 {682}{}{Dimentica quello che ho detto. Cambiamo argomento...}
 {683}{}{Ho gia' capito dove andremo a finire. Lasciamo perdere, Myron.}
 {690}{myn109}{Ah, Cristo. Beh... quando mi sono imbattuto nella famiglia Mordino, tempo fa, coltivavano dei cactus di peyote e cercavano di venderli ai turisti con il nome di "Reno experience". Che stronzata.}
@@ -202,23 +202,23 @@
 {693}{}{Fa' come se non te l'avessi chiesto.}
 {700}{myn110}{Voglio dire: peyote? Maddai. Non ha nemmeno la meta' della forza del, diciamo, vecchio LSD.}
 {701}{}{Uh, e il Jet...?}
-{710}{myn112}{In piu', un trip da peyote dura troppo a lungo. I guadagni si fanno con lo smaltimento rapido e la forte dipendenza. Come, uhm, i barbitutici prima del Big One, hai presente?}
+{710}{myn112}{In piu', un trip da peyote dura troppo a lungo. I guadagni si fanno con lo smaltimento rapido e la forte dipendenza. Come, uhm, i barbiturici prima del Big One, hai presente?}
 {711}{}{Spero che tutto questo discorso abbia un senso.}
 {712}{}{Se lo dici tu.}
 {713}{}{Barbiturici... tipo la vecchia cocaina, crack e simili?}
 {714}{}{Barbiturici, vorrai dire... tipo la vecchia cocaina, crack e simili?}
 {716}{}{Lasciamo perdere, Myron. Non ho tempo per le tue divagazioni del cavolo.}
 {725}{myn113a}{Esatto. Posso andare avanti? }
-{726}{myn113b}{Il problema e' che, con il nuovo clima, non si possono coltivare la maggior parte dei vegetali necessari per le droghe migliori.}
+{726}{myn113b}{Il problema e' che, con il nuovo clima, non si puo' coltivare la maggior parte dei vegetali necessari per le droghe migliori.}
 {727}{}{Ti piace ascoltarti mentre parli, vero?}
 {728}{}{Ti seguo.}
-{729}{}{Intendi ‘verdure’ tipo piante di coca, papaveri da oppio, quella roba li'.}
+{729}{}{Intendi 'verdure' tipo piante di coca, papaveri da oppio, quella roba li'.}
 {740}{myn114a}{Non potevamo coltivare piante di coca, papaveri da oppio... E cavoli se ci abbiamo provato! Per questo motivo decidemmo di puntare sui funghi. }
 {741}{myn114b}{Esatto, Sherlock. Ci provammo -- e alla fine decidemmo di puntare tutto sui funghi. }
 {742}{myn114c}{Puoi coltivarli se usi un sacco di merda di brahmin come concime.}
 {743}{}{A proposito di sacchi di merda... Continua.}
 {744}{}{OK...}
-{755}{myn115}{In piu', gli allucinogeni sono a basso costo, per cui cominciai a fare degli esperimenti usando derivati del dietilamide dell'acido lisergico e della psilocibina. Tuttavia...}
+{755}{myn115}{In piu', gli allucinogeni sono a basso costo, per cui cominciai a fare degli esperimenti usando derivati della dietilamide dell'acido lisergico e della psilocibina. Tuttavia...}
 {756}{}{Tuttavia...?}
 {765}{myn116}{Tuttavia, io volevo creare un qualcosa di potente non basato sugli estratti vegetali. Cavoli se ero stupido: quello che cercavo ERANO gli estratti stessi, o, piu' precisamente, la sostanza NELLA QUALE crescevano.}
 {766}{}{Non te ne frega davvero di quello che dico, vero? Ti piace solo raccontare la tua storia.}
@@ -228,14 +228,14 @@
 {777}{}{Cosa mi dicevi di Redding?}
 {778}{}{Giusto. Continua.}
 {779}{}{Certo, nessun problema.}
-{790}{myn118}{Beh, non fu troppo difficile creare un buon prodotto. Un campione di quell'estratto di proteine pre-bellico, modificato e bam! -- ecco un'anfetamina decente.}
+{790}{myn118}{Beh, non fu troppo difficile creare un buon eccitante. Un campione di quell'estratto di proteine pre-bellico, modificato e bam! -- ecco un'anfetamina decente.}
 {791}{}{Spiegami la storia di Redding, ok?}
 {792}{}{Uh, "estratto di proteine?"}
-{800}{myn119}{Redding? Una citta' piena di cercatori d'oro. Mordino vuole averne il controllo assoluto. Percio' e venuto da me, con la sua voce sibilante e ha detto: "Myron, Myron, creami qualcosa che mi dia il controllo su Redding."}
+{800}{myn119}{Redding? Una citta' piena di cercatori d'oro. Mordino vuole averne il controllo assoluto. Percio' e' venuto da me, con la sua voce sibilante e ha detto: "Myron, Myron, creami qualcosa che mi dia il controllo su Redding."}
 {801}{}{E tu hai detto...}
 {810}{myn120}{E io dissi: "Okay, per quando lo vuole pronto?" E lui - ovviamente - "Per ieri". 'Sti boss del crimine. Vogliono che sia fatto tutto in fretta e furia. E per fortuna non hanno un dipartimento marketing.}
 {811}{}{Capisco. Torna a parlarmi della produzione del Jet.}
-{820}{myn121}{Prima del Big One, alcune compagnie legate alla vendita di carne stavano facendo degli esperimenti con un estratto di proteine a basso costo per migliorare il cibo, ma furono costrette a liberarsene. Basta che un piccolo batterio della pelle lo contamini ed e' tutto da buttare.}
+{820}{myn121}{Prima del Big One, alcune compagnie legate alla vendita di carne stavano facendo degli esperimenti con un estratto di proteine a basso costo per produrre cibo, ma furono costrette a liberarsene. Basta che un piccolo batterio della pelle lo contamini ed e' tutto da buttare.}
 {821}{}{Da buttare? Perche'?}
 {830}{myn122}{Quando ingerita, la versione contaminata funzionava come un'anfetamina. Un piccolo effetto collaterale. Non chiedermi altro. E', uh, troppo tecnico.}
 {831}{}{Allora... in qualche modo sei riuscito a entrare in possesso di un po' di questo estratto di proteine?}
@@ -244,7 +244,7 @@
 {842}{}{Sara' meglio che tutto questo abbia un senso, Myron.}
 {843}{}{Quindi tu hai usato letame di brahmin come fertilizzante per i funghi, senza sapere che la contaminazione della proteina pre-bellica avrebbe dato ai funghi cresciuti nella merda di brahmin... delle caratteristiche speciali?}
 {850}{myn124a}{Fuochino...}
-{851}{myn124b}{Vedi, noi cominciammo a fare degli esperimenti usando il letame di brahmin come concime per i funghi, ignorando questo fatto; poi, notammo che gli schiavi che lavoravano alle vasche del fertilizzante erano come inebriati a causa dei vapori...}
+{851}{myn124b}{Vedi, noi cominciammo a fare degli esperimenti usando il letame di brahmin come concime per i funghi, ma senti questa: poi notammo che gli schiavi che lavoravano alle vasche del fertilizzante erano come inebriati a causa dei vapori...}
 {853}{}{Per cui i vapori erano sufficienti a produrre questo effetto?}
 {860}{myn125a}{Eeeesatto...}
 {861}{myn125b}{Mettendo tonnellate di merda di brahmin nelle vasche, scoprimmo che i vapori producevano un effetto piu' che sufficiente. Eureka. Letteralmente. Certo, abbiamo dovuto fare dei test per ottenere la giusta miscela...}
@@ -265,17 +265,17 @@
 {886}{}{Credo di aver sentito abbastanza.}
 {887}{}{Oh, beh, QUESTO mette tutto a posto, allora. Ho sentito abbastanza. Me ne vado.}
 {890}{myn128}{Te la stai prendendo con me per un gruppo di schiavi? Ehi, dovevamo essere sicuri che il Jet non uccidesse i nostri clienti.}
-{891}{}{Questo punto e' tuo, Myron. Ho delle altre domande...}
+{891}{}{Hai ragione, Myron. Ho delle altre domande...}
 {893}{}{Oh, beh, QUESTO mette tutto a posto, allora. Congratulazioni, Myron. Hai appena raggiunto il minimo comun denominatore possibile per un essere umano. Me ne vado.}
 {894}{}{Mi pare ragionevole. Magari ne riparleremo piu' tardi.}
-{900}{myn129a}{Che roba assurda. Una cura. Certo. Puoi decidere di smettere. Ovviamente ho fatto in modo che questa sia una scelta moooolto ardua da fare, quando c'e' di mezzo il Jet.}
-{901}{myn129b}{Bellezza, senti... Qui si sta parlando di tossicodipendenza, non di una malattia. L'unica cura e' smettere, heh heh, ed e' moooooolto difficile farlo con il Jet.}
+{900}{myn129a}{Che roba assurda. Una cura. Certo. Smetti di colpo. Ovviamente ho fatto in modo che questa sia una scelta moooolto ardua da fare, quando c'e' di mezzo il Jet.}
+{901}{myn129b}{Bellezza, senti... Qui si sta parlando di tossicodipendenza, non di una malattia venerea. L'unica cura e' smettere di colpo, heh heh, ed e' moooooolto difficile farlo con il Jet.}
 {902}{}{Come hai creato il Jet?}
 {903}{}{Myron, sei un ragazzo piuttosto sveglio. Considerala una sfida. Cosa si potrebbe fare per creare una cura per il Jet?}
 {910}{myn130}{Ma come cazzo devo dirtelo: non si puo' fare, hai capito? E' una fottutissima droga, non un'infezione batterica.}
 {911}{}{Fondamentalmente si tratta di una metanfetamina che provoca elevati livelli di dipendenza, giusto? Non potresti utilizzare un inibitore del sistema nervoso per interrompere questa dipendenza?}
 {913}{}{Non importa, Myron. Fa' come se non te l'avessi chiesto.}
-{920}{myn131}{Piu' facile a dirsi che a farsi. Il Jet non puo' essere inibito cosi' facilmente. Una volta entrato nell'organismo, non ne esce piu'.}
+{920}{myn131}{Bel tentativo, ma niente da fare. Il Jet non puo' essere inibito cosi' facilmente. Una volta entrato nell'organismo, non ne esce piu'.}
 {921}{}{E se si usasse un qualche tipo di inibitore di endorfine? Potrebbe attenuare la dipendenza chimica e psicologica, non credi?}
 {924}{}{Lasciamo perdere, allora.}
 {930}{myn132}{Gee-su'. Questa e' sicuramente la cosa piu' stupida che... hmmmm...}
@@ -290,21 +290,21 @@
 {961}{}{Cosa mi sai dire di quelle basi militari pre-olocausto? Dove si trovano?}
 {962}{}{Si', forse. Senti, ho delle altre domande...}
 {963}{}{Tentar non nuoce.}
-{970}{myn136}{Ti sembro per caso un cartografo? Sei hai voglia di perlustrare il deserto per trovarle, accomodati pure.}
+{970}{myn136}{Ti sembro per caso un cartografo? Se hai voglia di perlustrare il deserto per trovarle, accomodati pure.}
 {971}{}{Cosa mi sai dire di Vault City?}
-{973}{}{Non sei molto utile, Myron.}
+{973}{}{Grazie per niente, Myron.}
 {974}{}{Magari faro' proprio come dici.}
 {980}{myn137}{Oooh... con un'arguzia come questa, sicuramente prima o poi aprirai gli occhi e mi verrai a cercare, bellezza. Vedrai.}
 {981}{}{Certo, come no? Come hai creato il Jet?}
 {983}{}{Si', vedremo. Puoi farmi un po' di Jet?}
-{985}{}{Dimentica che ti abbia chiesto qualcosa, Myron.}
+{985}{}{Fa' come se non ti avessi chiesto niente, Myron.}
 {990}{myn139}{Cos... d-d-dici sul serio? Whoa, whoa, ehi, ehi... tienimi con te e ti faro' un favore. Eh? Co-Cosa ne dici?}
 {991}{}{Che tipo di favore?}
 {992}{}{Scordati i tuoi favori. Adesso sparisci, insetto fastidioso.}
 {993}{}{Scordati i tuoi favori. Aspettami qui, insetto fastidioso.}
 {994}{}{Dimentica quello che ho detto. Puoi rimanere con me.}
-{1005}{myn140}{Hoh! Oh, co-cos-cos'era, humor da selvaggio? Si', bwah-ah-ah. Davvero... divertente.}
-{1006}{}{Esatto, noi selvaggi siamo famosi per questo. Andiamo.}
+{1005}{myn140}{Hoh! Oh, co-cos-cos'era, umorismo tribale? Si', bwah-ah-ah. Davvero fottutamente divertente.}
+{1006}{}{Esatto, noi tribali siamo famosi per questo. Andiamo.}
 {1010}{myn141}{Okay! Okay! Aspettero' qui. Phew! Potresti mostrarmi un po' piu' di rispetto, sai? Io sono MYRON.}
 {1020}{myn142a}{Ho sentito delle voci a proposito di un edificio segreto con un sacco di strane piante intorno. Se mi fai rimanere con te, posso mostrarti dove si trova su una mappa.}
 {1021}{myn142b}{E' possibile che io conosca uno dei magazzini segreti dei Mordino al Golgotha, vicino Reno. Un sacco di quattrini. Un sacco di droga. Devi tenermi con te, pero'.}
@@ -314,11 +314,11 @@
 {1035}{myn143a}{"Se posso fabbricare dei medicinali"? Io sono Myron. Cosa ti serve?}
 {1036}{myn143b}{Non ne hai mai abbastanza, eh? Cosa ti serve?}
 {1037}{}{Un antidoto per il veleno di radscorpione.}
-{1038}{}{Un po' di jet.}
-{1039}{}{Qualche stimpak.}
-{1040}{}{Puoi fare dei super stimpak?}
+{1038}{}{Un po' di Jet.}
+{1039}{}{Qualche Stimpak.}
+{1040}{}{Puoi fare dei Super Stimpak?}
 {1041}{}{Nulla. Ho delle altre domande...}
-{1042}{}{Lasciamo stare.}
+{1042}{}{Lascia perdere.}
 {1050}{myn145a}{Uhm, mi serviranno delle sacche velenifere di radscorpione. Ironico, non trovi?}
 {1051}{myn145b}{Oh, beh, mi piacerebbe taaaaanto farlo, bellezza, ma mi servono code di radscorpione. Oh, beh.}
 {1052}{}{Puoi fabbricare qualche altro tipo di medicinali?}
@@ -341,20 +341,20 @@
 {1098}{}{D'accordo. Grazie mille, Myron.}
 {1105}{myn149a}{Facilissimo. Quante dosi vuoi?}
 {1106}{myn149b}{Ehi, genio. Non ti e' mai passato per la mente che sarebbe piu' semplice starsene fuori dai guai, eh? OK, quanti?}
-{1107}{myn149c}{Dimmi solo quanti ne vuoi, bellezza.}
-{1111}{}{Fammi tutti gli stimpak che puoi utilizzando quello che abbiamo.}
-{1113}{}{Puoi fare dei super stimpak?}
+{1107}{myn149c}{Dimmi solo quanti ne vuoi e dove, bellezza.}
+{1111}{}{Fammi tutti gli Stimpak che puoi utilizzando quello che abbiamo.}
+{1113}{}{Puoi fare dei Super Stimpak?}
 {1114}{}{Lasciamo stare. Ho delle altre domande...}
-{1125}{myn151}{Mi spiace, non abbiamo quello che mi serve per mettere insieme uno stim. Vediamo: servirebbe qualche radice di xander... un po' di fiori di brock... e una siringa vuota.}
+{1125}{myn151}{Mi spiace, non abbiamo quello che mi serve per mettere insieme uno stim. Vediamo: servirebbe qualche radice di xander... un po' di fiori di Broc... e una siringa vuota.}
 {1126}{}{Puoi fabbricare qualche altro medicinale?}
-{1127}{}{Se puoi fare degli stimpak, non potresti fare anche dei super stimpak?}
+{1127}{}{Se puoi fare degli Stimpak, non potresti fare anche dei Super Stimpak?}
 {1128}{}{Ho capito. Avrei delle domande...}
-{1135}{myn152}{Certo che potrei... Peccato che non abbiamo quello che mi serve. Un po' di quei frutti mutanti per l'acido citrico... un goccio di Nuka-Cola... e un normale stimpak.}
+{1135}{myn152}{Certo che potrei... Peccato che non abbiamo quello che mi serve. Un po' di quei frutti mutanti per l'acido citrico... un goccio di Nuka-Cola... e un normale Stimpak.}
 {1145}{myn153a}{Ripeti con me: Myron e' un genio. Quante dosi ne vuoi?}
 {1146}{myn153b}{Cosa ne pensi di... Startene. Lontano. Dai. Guai? Lasciamo perdere, e' chiaramente un concetto troppo difficile per te. Quanti, questa volta?}
 {1147}{myn153c}{Myron e' l'uomo che fa per te, bellezza. Quanti?}
 {1149}{}{Dammene due.}
-{1151}{}{Fammi tutti gli stimpak che puoi utilizzando quello che abbiamo.}
+{1151}{}{Fammi tutti gli Stimpak che puoi utilizzando quello che abbiamo.}
 {1170}{myn201a}{Chi sei tu e come diavolo sei entrato qui dentro? Do-dove sono quelle guardie imbecilli?}
 {1171}{myn201b}{Cavoli, ehilaaaaaaa', bellezza. Cosa puo' farti, ah-uh, fare Myron per te?}
 {1172}{}{Gud. Nuh-uh.}
@@ -389,13 +389,13 @@
 {1236}{}{Siedere. Bevere.}
 {1237}{}{Tu amico?}
 {1245}{myn208}{Eccellente... ecco a te. Un drink ti aiutera' a rilassarti. Capisci quello che voglio dire, vero?}
-{1246}{}{(Bevi)}
+{1246}{}{Bevere.}
 {1247}{}{Te }
 {1255}{myn209}{Uh, ehi, ehi, ehi! Aspetta un secondo! Rimani - prima bevi un bicchiere! Possiamo parlare, essere amici. Tu VUOI che diventiamo amici, giusto?}
 {1265}{myn210}{Sono siiiiiicuro che diventeremo amici.}
 {1266}{}{Vuole amico.}
 {1267}{}{Amico. Dare tutto. No bua.}
-{1275}{myn211}{Ora rilassati, dolce pezzettino di frutta candita...}
+{1275}{myn211}{Ora rilassati, dolcezza...}
 {1276}{}{Okeezzzzzzz Zznnzznn Zzznnnzzzz}
 {1285}{myn212}{Hmmmm. Devi avere la stessa resistenza fisica di un Brahmin. Fuori di qui, bellezza.}
 {1295}{myn213}{Le guardie non valgono i quattro soldi che le pago... bene, mio ritardato amico, ci siamo presentati, per cui... perche' DIAVOLO NON TE NE VAI FUORI DI QUI?!}
@@ -407,7 +407,7 @@
 {1308}{}{NOH AMICO. UCCIDE.}
 {1309}{}{Amico dare tutto. No bua.}
 {1325}{myn215a}{DANNAZIONE! Io gliel'avevo detto a Jesus che quei due idioti non sarebbero stati in grado di far la guardia nemmeno a un sasso! Dunque, ehm, li hai fatti secchi, eh? Ucciderai anche me?}
-{1326}{myn215b}{Whoa. Bollente e fatale! Dunque li hai fatti secchi, eh? Ucciderai anche me?}
+{1326}{myn215b}{Wow. Bollente e letale! Dunque li hai fatti secchi, eh? Ucciderai anche me?}
 {1327}{}{Ci sto pensando. Hai qualcosa che mi convinca a non farlo... ragazzo?}
 {1328}{}{No, a meno che tu non faccia qualcosa di stupido. Chi sei?}
 {1329}{}{No, a meno che tu non faccia qualcosa di stupido. Sei Myron?}
@@ -442,7 +442,7 @@
 {1408}{}{Stronzate. Tu non hai inventato il Jet.}
 {1409}{}{Tu hai inventato il Jet?}
 {1410}{}{Tu hai inventato il Jet? Impossibile! Quella roba sta spopolando per le strade!}
-{1411}{}{Ah, davvero? Me ne vado.}
+{1411}{}{Bella roba. Me ne vado.}
 {1412}{}{Tua madre dev'essere fiera di te. A dopo, ragazzino.}
 {1413}{}{Davvero? Interessante. Adesso devo andare.}
 {1425}{myn221a}{Certo che ho inventato il Jet! Cosa c'e', credi che abbia questo laboratorio per bellezza?}
@@ -451,17 +451,17 @@
 {1428}{}{Perche' hai creato il Jet?}
 {1430}{}{Tua madre dev'essere fiera di te. Me ne vado.}
 {1445}{myn222}{Eccome se l'ho fatto! Ho creato la merda che tutti vogliono e della quale nessuno ha mai abbastanza.}
-{1455}{myn223}{"Perche'?" Perche' potevo. La famiglia Mordino aveva bisogno di un prodotto, Myron fa un prodotto, Mordino rende Myron felice... almeno quanto sono in grado di farlo. Un bel giretto d'amore, eh?}
+{1455}{myn223}{"Perche'?" Perche' potevo. La famiglia Mordino aveva bisogno di un prodotto, Myron fa un prodotto, Mordino rende Myron felice... almeno quanto sono in grado di farlo. Un bel cerchio d'amore, eh?}
 {1456}{}{Come hai creato il Jet?}
-{1457}{}{"Felice quanto nelle loro possibilita'"? Sei felice adesso?}
-{1458}{}{Cosa ne diresti se io ti proponessi un nuova storia? I Mordino non sanno riconoscere il talento quando lo vedono - io si'.}
+{1457}{}{"Felice quanto nelle loro possibilita'"? Sei felice qui?}
+{1458}{}{Cosa ne diresti se ti proponessi un cerchio nuovo? I Mordino non sanno riconoscere il talento quando lo vedono - io si'.}
 {1459}{}{Certo, grandioso. Adesso devo andare.}
 {1465}{myn224a}{Ah, non capiresti. E' TROPPO complesso per te.}
 {1466}{myn224b}{Non affaticare il tuo piccolo cervellino con questo pensiero, bellezza. Posso darti qualcos'altro da fare con la testa.}
 {1467}{}{Sei felice qui?}
-{1468}{}{Certo, immagino che a un idiota come me non si chieda di capire il processo di produzione di un ibrido allucinogeno-anfetamina come il Jet, eh?}
+{1468}{}{Certo, immagino che a un'idiota come me non si chieda di capire il processo di produzione di un ibrido allucinogeno-anfetamina come il Jet, eh?}
 {1469}{}{Certo, immagino che a una sciacquetta come me non si chieda di capire il processo di produzione di un ibrido allucinogeno-anfetamina come il Jet, eh?}
-{1472}{}{Credo che resterai sorpreso dalla quantita' di cose che so a proposito del tuo ibrido allucinogeno-anfetamina da quattro soldi. Non sono nemmeno tanto sicuro che un bambino come te non l'abbia scoperto PER CASO, Myron.}
+{1472}{}{Credo che resterai sorpreso dalla quantita' di cose che so a proposito del tuo ibrido allucinogeno-anfetamina da quattro soldi. Non sono nemmeno tanto sicura che un bambino come te non l'abbia scoperto PER CASO, Myron.}
 {1473}{}{Beh, grazie per aver fatto un tentativo, Myron. Adesso devo andare.}
 {1485}{myn225}{Abbastanza. Mi danno troie, soldi, droga. Un laboratorio privato. La liberta' creativa che mi serve per creare magie, ma, beh... no, naaa, e' una bella roba.}
 {1486}{}{"Beh" cosa? Ti trattano bene?}
@@ -490,7 +490,7 @@
 {1533}{}{Per prima cosa: che sai fare, Myron?}
 {1534}{}{Da nessuna parte, per ora. Senti, avrei delle altre domande...}
 {1535}{}{Da nessuna parte, per ora, Myron. Tornero' a prenderti, pero'.}
-{1545}{myn230a}{Naaaaa, siete in troppi. Perche' non ti sbarazzi del selvaggio? Sembra che prenda troppo sul serio il suo essere un idiota.}
+{1545}{myn230a}{Naaaaa, siete in troppi. Perche' non ti sbarazzi del tribale? Sembra che prenda troppo sul serio il suo essere un idiota.}
 {1546}{myn230b}{Naaaaa, siete in troppi. E Myron non va in giro con della spazzatura mutante. Ah, eheh, senza offesa, colosso.}
 {1547}{myn230c}{Eh, naaaaa, siete in troppi. E, ehm, Myron non va in giro con i ghoul. Non sai mai quando faranno cadere un pezzo del loro corpo sulle tue scarpe.}
 {1548}{myn230d}{Naaaa, non voglio andare in giro con un'altra famiglia. I Mordino mi sono bastati. Sbarazzati di un po' di peso e poi torna a parlare con me.}
@@ -507,15 +507,15 @@
 {1568}{}{Lasciamo perdere. Non potrebbe funzionare.}
 {1575}{myn232a}{D'accordo. }
 {1576}{myn232b}{D'accordo, bellezza. }
-{1577}{myn232c}{Perche' no? Smammiamo da questo negozio di gelati.}
+{1577}{myn232c}{Perche' no? Smammiamo da questo buco.}
 {1578}{}{Andiamocene da qui.}
-{1579}{}{Siamo a 106 miglia da Arroyo, abbiamo un'intera cella a fusione, mezza scorta di RadAway, e' mezzanotte e io sto indossando un completo del Vault 13 vecchio di 50 anni. Andiamo.}
-{1585}{myn233}{Ah! Cos'e'? ti serve il riassunto delle capacita' di Myron? Io sono lo scienziato. So tutto, capisco tutto. Per non parlare del fatto che sono in grado di fabbricare qualsiasi droga ti serva. Con la materia prima adatta.}
+{1579}{}{Siamo a 106 miglia da Arroyo, abbiamo un'intera cella a fusione, mezza scorta di RadAway, e' mezzanotte e io sto indossando una tuta del Vault 13 vecchia di 50 anni. Andiamo.}
+{1585}{myn233}{Ah! Cos'e', ti serve il curriculum di Myron? Io sono lo scienziato. So tutto, capisco tutto. Per non parlare del fatto che sono in grado di fabbricare qualsiasi droga ti serva. Con la materia prima adatta.}
 {1586}{}{D'accordo, allora: hai superato il colloquio di lavoro. Quella parte riguardante le droghe ha aiutato. Seguimi.}
 {1587}{}{Ci pensero'. Ho ancora un paio di domande da farti...}
 {1588}{}{Bene, ci pensero'... e' solo che, beh, senza offesa, ma i cervelloni hanno la fama di essere praticamente inutili nei combattimenti.}
 {1589}{}{Dovro' pensarci su. Tornero'.}
-{1595}{myn119}{Redding? Una citta' piena di cercatori d'oro. Mordino vuole averne il controllo assoluto. Percio' e venuto da me, con la sua voce sibilante e ha detto: "Myron, Myron, creami qualcosa che mi dia il controllo su Redding."}
+{1595}{myn119}{Redding? Una citta' piena di cercatori d'oro. Mordino vuole averne il controllo assoluto. Percio' e' venuto da me, con la sua voce sibilante e ha detto: "Myron, Myron, creami qualcosa che mi dia il controllo su Redding."}
 {1596}{}{E tu hai detto...}
 {1597}{}{Hmmm. Avrei delle altre domande...}
 {1605}{myn120}{E io ho detto, "Okay, per quando lo vuole pronto?" E lui - ovviamente - "Per ieri". 'Sti boss del crimine. Vogliono tutto e subito. E per fortuna non hanno un dipartimento marketing.}
@@ -529,14 +529,14 @@
 {1623}{}{Lasciamo perdere. Avrei delle altre domande...}
 {1624}{}{Come non detto. Me ne vado.}
 {1625}{}{Baciami il culo, merdoso arrogante. Me ne vado.}
-{1635}{myn237}{Dilettantesco? Di?di?dilettantesco?! Il Jet e' puro genio, non te lo scordare! E non l’ho trovato per caso: l’HO CREATO io.}
+{1635}{myn237}{Dilettantesco? Di-di-dilettantesco?! Il Jet e' puro genio, non te lo scordare! E non l'ho trovato per caso: l'HO CREATO io.}
 {1636}{}{Non ti credo. Fammi vedere il procedimento.}
 {1637}{}{Come vuoi, ragazzo. Me ne vado.}
 {1645}{myn238}{Tre parole: merda di brahmin.}
 {1646}{}{E' questo quello che usi per far crescere l'allucinogeno?}
 {1647}{}{Utilizzi della merda di brahmin come fertilizzante per gli ingredienti del Jet, giusto? Cosa mi puoi dire di piu'?}
 {1648}{}{Non me lo vuoi dire? Benissimo. Allora vorrei farti qualche altra domanda...}
-{1649}{}{D'accordo. Posso gia' intuire dove questo discorso andra' a finire. Lasciamo perdere.}
+{1649}{}{D'accordo. Posso gia' intuire dove questo discorso andra' a finire. Lasciamo perdere.}
 {1655}{myn239a}{Molto bene. E questo e' tutto quello che imparerai da me, amico. Se vuoi saperne di piu', devi scoprirlo da solo.}
 {1656}{myn239b}{Molto bene. E questo e' tutto quello che imparerai da me, miss. Se vuoi saperne di piu', devi scoprirlo da sola.}
 {1657}{myn239c}{Molto bene, bellezza. Ma questo e' tutto quello che imparerai da me, percio' non sforzare la tua testolina. Basta parlare: perche' tu ed io non, ehm, eheh...}
@@ -547,13 +547,13 @@
 {1662}{}{Uh, perche' tu ed io non parliamo ancora, piu' tardi? Buona idea. Ci vediamo.}
 {1675}{myn240}{Certo che ne fai di dannate domande. La risposta e' si', forse... dimmi, do-dove hai imparato tutte queste robe? Vieni da Vault City o una cosa simile?}
 {1676}{}{Per rispondere alla tua domanda: si'... FORSE. Dov'e' che TU hai imparato tutte queste cose?}
-{1677}{}{Non esattamente. Queste cose le ho scoperte da solo. E' abbastanza semplice, davvero.}
-{1678}{}{Oh. Senta, ho delle altre domande...}
+{1677}{}{Non esattamente. Queste cose le imparo per conto mio. E' abbastanza semplice, davvero.}
+{1678}{}{No. Senti, ho delle altre domande...}
 {1679}{}{Vault City. Dove si trova?}
 {1680}{}{Ti lascero' con questo interrogativo. Mi hai gia' detto tutto quello che mi serviva sapere.}
-{1685}{myn241a}{Dai, continua pure a fare il gradasso, sapientone. Potrei ossidare cerchi intorno a te. Sono un genio nato. Un autodidatta. Non ho niente a che fare con quell'atteggiamento da stronzi 'santerellini' di Vault City, capito?}
+{1685}{myn241a}{Dai, continua pure a fare il gradasso, sapientone. In chimica ti farei mangiare la polvere. Sono un genio nato. Un autodidatta. Non ho niente a che fare con quell'atteggiamento da stronzi 'santerellini' di Vault City, capito?}
 {1686}{myn241b}{Heh, huh, ah! Sei una furbetta, bellezza... capelli corvini, denti, artigli... mmm-mmm. Allora, hai imparato 'ste stronzate a Vault City o cosa?}
-{1687}{}{Non le ho imparate a Vault City. Le ho scoperte da solo. E' abbastanza semplice, davvero.}
+{1687}{}{Non le ho imparate a Vault City. Le imparo per conto mio. E' abbastanza semplice, davvero.}
 {1689}{}{Avrei delle altre domande...}
 {1695}{myn244}{Cosa vuoi sapere?}
 {1696}{}{Parlami di questo posto.}
@@ -569,16 +569,16 @@
 {1728}{}{Per prima cosa: che sai fare, Myron?}
 {1729}{}{No, non esattamente. Avrei delle domande...}
 {1730}{}{Non adesso. Che ne diresti di startene qui per un po'?}
-{1735}{}{Sei una tipa strana... mi piace.}
-{1736}{}{Sei una tipa strana... mi piace.}
+{1735}{}{Sei un tipo strano... mi piace.}
+{1736}{}{Sei un tipo strano... mi piace.}
 {1745}{myrn104a}{Smettila di dirmi quello che devo fare, mammina.}
 {1746}{myn104b}{Owww! Fa male! Fa mal- oh. No. No, sono abbastanza a posto. Brucia solo un pochino.}
-{1747}{myn104c}{Sto morendo! Da-dammi uno stimpak. O due. O tre.}
-{1748}{myn104d}{Sei... tu? Non...ci...vedo...sto...perdendo...conoscenza. *Cough* *Cough* Aiutami...}
+{1747}{myn104c}{Sto morendo! Da-dammi uno Stimpak. O due. O tre.}
+{1748}{myn104d}{Sei... tu? Non...ci...vedo...sto...perdendo...conoscenza. *Coff* *Coff* Aiutami...}
 {1749}{}{Hmmmm. Curati di nuovo.}
 {1753}{}{Non starmi troppo vicino, Myron.}
 {1756}{}{Come non detto, allora. Andiamo.}
-{1757}{}{Succhiati il pollice, Myron. Abbiamo un sacco di strada da fare.}
+{1757}{}{Stringi i denti, Myron. Abbiamo un sacco di strada da fare.}
 {1765}{myn138}{Eh, scusa? Aspettarti qui? Stai scherzando? Dimmi che stai scherzando.}
 {1766}{}{Rimani. Qui. Finche'. Non. Torno. Capito?}
 {1767}{}{Tornero'. Non preoccuparti.}
@@ -587,7 +587,7 @@
 {1781}{}{Forse faresti meglio a calmarti un po', Myron.}
 {1784}{}{Non lo farai, finche' starai con me. Adesso andiamo.}
 {1785}{}{Ho anche sentito dire che scarica molto in fretta. Adesso andiamo.}
-{1795}{myn1004a}{Eh... d'accordo. Non sarai mica attratto da me, vero?}
+{1795}{myn1004a}{Eh... d'accordo. Non ci starai mica provando con me, vero?}
 {1796}{myn1004b}{Qualunque cosa tu dica, splendore. Roarrrrr.}
 {1802}{}{Veramente, preferirei che tu ti allontanassi, Myron. E' la cosa migliore per entrambi.}
 {1804}{}{L'unica cosa attratta da te e' il mio pugno. Adesso andiamo.}
@@ -598,8 +598,8 @@
 {1822}{}{Allontanati di piu', Myron. E' la cosa migliore per entrambi.}
 {1824}{}{Conto proprio su questo. Adesso andiamo.}
 {1825}{}{Beeeeeene. Andiamo.}
-{1835}{myn1006a}{D'accordo, terro' d'occhio le cose qui dietro. Dammi una buona posizione per fare pratica con la mia tecnica di fuoco a raffica.}
-{1836}{myn1006b}{Cosa? Puzzo, per caso?! Sheesh.}
+{1835}{myn1006a}{D'accordo, terro' d'occhio le cose qui dietro. Mi da' una buona posizione per fare pratica con la mia tecnica di fuoco a raffica.}
+{1836}{myn1006b}{Cosa? Puzzo, per caso?! Uffa.}
 {1841}{}{Avvicinati un po', Myron.}
 {1844}{}{Vabbe'. Adesso andiamo.}
 {1845}{}{Se si trattasse solo della puzza, potrei anche sopportarla. Andiamo.}
@@ -611,7 +611,7 @@
 {1880}{}{E' la tomba dove Big Jesus ha nascosto quei quattrini.}
 {1885}{}{Hai convinto Myron a lasciare le Stalle.}
 {1957}{}{D'accordo, d'accordo! Smettila di spingere!}
-{1958}{}{Ehi, dacci un taglio. Non l'ho programmata io la mia I.A.}
+{1958}{}{Ehi, abbi pazienza. Non l'ho programmata io la mia I.A.}
 {1959}{}{Beh, scuuuuuuusami.}
 {1960}{}{D'accordo. Ma la prossima volta, sarai TU a doverti levare dalla MIA strada.}
 {1961}{}{Ero qui per primo. Ma fa' pure come vuoi TU.}
@@ -622,27 +622,27 @@
 {2025}{myn345}{Preferirei farmi mangiare i testicoli da quel cyber-cane.}
 {2033}{myn353}{Non ne ho idea.}
 {2091}{}{Hai qualche spicciolo da darmi? Devo salvare qualche donna dalla sua verginita'.}
-{2675}{myn242a}{Semplice, eh? Io sono il migliore. Il doppio piu' bravo di quei misura-cazzi di Vault City.}
+{2675}{myn242a}{Semplice, eh? Io sono il migliore. Bravo il doppio di quei misura-cazzi di Vault City.}
 {2676}{myn242b}{Oh certo, hai ragione su questo. E' piu' facile da capire di quella roba che quei misura-cazzi di Vault City spacciano per verita' assoluta.}
 {2678}{}{Lascia perdere, signor Insicurezza. Ho delle altre domande...}
 {2679}{}{Hai davvero una splendida padronanza della lingua. Ci vediamo dopo, Myron.}
 {2685}{myn243}{Una citta' a nordest. Una marmaglia di umani "geneticamente puri". Vanno in giro col naso cosi' in alto che quando piove rischiano di affogare.}
-{2686}{}{Beh, non le ho imparate a Vault City. Le ho scoperte da solo. E' abbastanza semplice, davvero.}
+{2686}{}{Beh, non le ho imparate a Vault City. Le imparo per conto mio. E' abbastanza semplice, davvero.}
 {2687}{}{Interessante. Ho delle altre domande...}
 {2688}{}{Hai davvero una splendida padronanza della lingua. Ci vediamo dopo, Myron.}
 {3000}{}{Myron, credo che dovremmo discutere di... distanze.}
 {3001}{}{Parliamo un attimo del tuo equipaggiamento.}
-{3002}{}{Dimentica che te l'abbia chiesto. Mantieni la stessa distanza.}
+{3002}{}{Fa' come se non ti avessi detto niente. Mantieni la stessa distanza.}
 {3003}{}{Dovresti togliere quell'armatura che stai indossando.}
 {3004}{}{Che armi sai maneggiare, Myron? Ce n'e' una, almeno?}
 {3005}{}{Niente, ho bisogno di qualcos'altro da te.}
 {3025}{}{Vabbe'.}
 {4000}{}{Si', dovrebbe essere qui la struttura che ho segnato sulla tua mappa. Probabilmente anche in profondita' sottoterra.}
-{5000}{}{Cazzo! Cazzo! Non voglio diventare uno storpio!}
+{5000}{}{Cazzo! Cazzo! Non sento piu' l'arto!}
 {5001}{}{Mi sento fondere! Cazzo!}
 {5002}{}{Sto vomitando tutte le mie fottute budella!}
 {5616}{}{Certamente. Mettimi alla prova.}
-{5617}{}{Credo che potrei farti insegnarti un paio di cose.}
+{5617}{}{Credo che potrei insegnarti un paio di cose.}
 {5725}{}{Certo, certo. Che problema c'e' nel fabbricare barbiturici?}
 {5741}{}{Perche'?}
 {5851}{}{Si'...?}

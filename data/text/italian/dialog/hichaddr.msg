@@ -5,6 +5,6 @@
  scassini la porta senza sforzo.}
 {104}{}{Qualcosa sembra diverso in questa serratura. Decidi di lasciarla stare.}
 {105}{}{Stai per metterti al lavoro per scassinare quando noti un piccolo meccanismo di scatto nel sistema di chiusura.
- Se fosse scattato, non saresti mai riuscito a scassinare la porta. Lo rimuovi abilmente e poi, in pochi
+ Se fosse scattato, scassinare la porta sarebbe stato impossibile. Lo rimuovi abilmente e poi, in pochi
  secondi, hai scassinato il resto della porta.}
 {106}{}{L'esplosivo non ha fatto un graffio alla porta.}

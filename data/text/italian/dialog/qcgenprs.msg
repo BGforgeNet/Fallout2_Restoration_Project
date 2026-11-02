@@ -1,19 +1,19 @@
-{100}{}{Vedi una persona triste che indossa un completo del vault.}
+{100}{}{Vedi una persona triste che indossa una tuta del Vault.}
 {101}{}{Vedi un prigioniero proveniente dal Vault 13.}
-{102}{}{Vedi una persona molto pallida che indossa un completo del Vault 13.}
+{102}{}{Vedi una persona molto pallida che indossa una tuta del Vault 13.}
 {103}{}{Vedi un membro della tua tribu'.}
 {104}{}{Vedi un membro della tua tribu', un tuo compagno.}
 {105}{}{Vedi un membro della tua tribu', non sembra stare molto bene.}
 {106}{}{Questo posto e' troppo arrugginito per essere un vault.}
 {107}{}{Mi pare di sentire il rumore del mare. }
 {108}{}{Hai parlato con Martin Frobisher?}
-{109}{}{Dovresti parlare Martin.}
+{109}{}{Dovresti parlare con Martin.}
 {110}{}{Martin e' il nostro portavoce: dovresti parlare con lui.}
-{111}{}{Mr. Frobisher sta nella prima cella.}
+{111}{}{Il signor Frobisher sta nella prima cella.}
 {112}{}{Non hanno nemmeno dei nastri per l'intrattenimento, qui dentro.}
 {113}{}{Esigo di parlare con qualcuno a proposito della qualita' del cibo.}
 {114}{}{Ottimo, adesso ci minacciano con strani selvaggi.}
-{115}{}{Sei scappato?}
+{115}{}{Ce l'hai fatta a scappare?}
 {116}{}{Come hai fatto ad uscire?}
 {117}{}{La tua faccia mi ricorda quella del Prescelto.}
 {118}{}{Sei... sei il Prescelto?}
@@ -22,7 +22,7 @@
 {121}{}{Hai gia' parlato con l'Anziana?}
 {122}{}{L'Anziana e' nella prima cella. Dovresti parlare con lei.}
 {123}{}{Parla con l'Anziana.}
-{124}{}{Liberare noi!}
+{124}{}{Liberaci!}
 {125}{}{Facci uscire da qui.}
 {126}{}{Non sopporto piu' queste mura.}
 {127}{}{Vorrei tanto sentire ancora una volta il vento accarezzarmi la faccia.}
@@ -49,7 +49,7 @@
 {148}{}{Spiriti, proteggeteci!}
 {149}{}{Dove sono gli spiriti quando servono?}
 {150}{}{Aiutateci!}
-{151}{}{Liberare noi!}
+{151}{}{Liberaci!}
 {152}{}{Voglio tornare a casa.}
 {153}{}{Prima la siccita' e adesso questo.}
 {154}{}{Basta aghi, basta!}
@@ -58,13 +58,13 @@
 {157}{}{Fate uscire la mia gente!}
 {158}{}{Anziana, guidateci voi!}
 {159}{}{Cosa abbiamo fatto per offendere questi spiriti maligni?}
-{160}{}{Non mi interessa piu' nulla.}
+{160}{}{Questa storia non mi piace per niente.}
 {161}{}{Dov'e' Martin?}
 {162}{}{Questo non e' un vault, poco ma sicuro.}
 {163}{}{Facci uscire da qui!}
 {164}{}{Ehila'? Ehila'!}
-{165}{}{Insisto: voglio essere liberato immediatamente.}
-{166}{}{Sono un cittadino degli Stati Uniti ed esigo di vedere chi e' che comanda qui.}
+{165}{}{Insisto: liberatemi immediatamente.}
+{166}{}{Ho la cittadinanza degli Stati Uniti ed esigo di vedere chi e' che comanda qui.}
 {167}{}{Fatemi uscire.}
 {168}{}{E' cosi' noioso.}
 {169}{}{Basta medicine! Non ce la faccio piu'!}

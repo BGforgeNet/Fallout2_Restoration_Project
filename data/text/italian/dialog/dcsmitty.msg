@@ -14,11 +14,11 @@
 {240}{}{Ehila', giovane amico. Cosa puo' fare per te il vecchio Smitty?}
 {241}{}{Ehila', bellezza. Cosa puo' fare per te il vecchio Smitty?}
 {242}{}{Per tutti i carburatori scassati, adesso cosa posso fare per te?}
-{243}{}{Ehila', mi e' proprio piaciuta la cena che Mama mi ha preparato. Grazie. Cosa puo' fare per te il vecchio Smitty?}
+{243}{}{Ehila', mi e' proprio piaciuto il pranzo che Mama mi ha preparato. Grazie. Cosa puo' fare per te il vecchio Smitty?}
 {244}{}{Di cosa ti occupi?}
 {245}{}{Senti, vecchio, ho trovato questo strano coso, giu' a Gecko...}
 {246}{}{Ehi, Smitty, cosa mi puoi dire di quella macchina che hai messo in vendita?}
-{247}{}{Ti ho portato la cena che Mama ti ha preparato.}
+{247}{}{Ti ho portato il pranzo che Mama ti ha preparato.}
 {248}{}{Senti, vecchio, ho trovato questo strano coso, giu' a Klamath...}
 {249}{}{Stavo solo guardando un po' in giro. Ci vediamo dopo, Smitty.}
 {260}{}{Lascia che il vecchio Smitty ci dia un'occhiata.}
@@ -31,12 +31,12 @@
 {283}{}{Magari un'altra volta. Arrivederci, Smitty.}
 {300}{}{Beh, guarda un po': mi pare si tratti di un vecchio combinatore di celle di carburante. Hmm, scommetto che se lo mettessi nella vecchia Highwayman riuscirei a farle fare le fusa come un gattino.}
 {301}{}{Eh?}
-{310}{}{Hmm, questo sembra proprio un regolatore di celle di carburante. Se avessi un'auto funzionante, con questo aggeggio sarei in grado di aumentarne il kilometraggio.}
+{310}{}{Hmm, questo sembra proprio un regolatore di celle di carburante. Se avessi un'auto funzionante, con questo aggeggio sarei in grado di aumentarne il chilometraggio.}
 {311}{}{Eh?}
 {320}{}{Dannatemente gentile da parte tua. Muchas gracias, compadre. Ecco un piccolo ringraziamento per il disturbo. Ti sara' utile da queste parti. (Ti passa uno Stimpak.)}
 {321}{}{Grazie, Smitty. Non c'e' problema. Ci vediamo.}
 {322}{}{Beh, uhhh... Grazie, ma sono gia' andato a mangiare da Mama, percio' quel pranzo non mi serve piu'.}
-{323}{}{Oops, non sono il solito fattorino. Lui si e' preso un giorno di ferie perche e' malato. Posso avere lo stesso qualche punto esperienza?}
+{323}{}{Oops, non sono il solito fattorino. Lui si e' preso un giorno di ferie perche' e' malato. Posso avere lo stesso qualche punto esperienza?}
 {324}{}{OK, scusa il casino. Spero che Mama non mi licenzi! Ho davvero bisogno di questo lavoro.}
 {325}{}{Sai che non facciamo piu' l'offerta di un pasto gratuito dopo 24 ore, vero?}
 {326}{}{Beh, magari me lo mangero' io.}
@@ -69,7 +69,7 @@
 {450}{}{Beh, quello e' un regolatore di celle di carburante. Ti consente di limitare il consumo di carburante. Posso installarlo sulla tua macchina, se hai 750$ per il disturbo.}
 {451}{}{Mi sembra una buona offerta, Smitty. Ecco il regolatore e i soldi.}
 {452}{}{Dovro' pensarci su, Smitty. Per adesso, arrivederci.}
-{460}{}{Di solito me ne sto qui a dare un occhio a questi vecchi rottami. C'e' solo una cosa che vale il tempo che perdo in questo modo.}
+{460}{}{Di solito me ne sto qui a dare un occhio a questi vecchi rottami. Ho solo una cosa che valga un fico secco.}
 {461}{}{Di cosa si tratta?}
 {462}{}{Lo immaginavo. Lascia che ti chieda qualcos'altro.}
 {470}{}{Beh, si tratta di nient'altro che di questa Chrysalis Motors Highwayman. Una volta si diceva "Niente puo' fermare una Highwayman." Sono davvero robuste, te lo posso assicurare.}
@@ -85,8 +85,8 @@
 {511}{}{Interessante. Se mai dovessi trovare un combinatore di celle di carburante, tornero' qui. Lascia che adesso ti chieda qualcos'altro.}
 {512}{}{Quando ne avro' trovato uno, tornero'. Ci vediamo, Smitty.}
 {520}{}{Ecco a te. Meglio che nuova. Adesso trattala bene.}
-{521}{}{Lo faro'. Grazie, Smitty. Addio.}
+{521}{}{Lo faro'. Grazie, Smitty. Arrivederci.}
 {600}{}{TOGLI LE TUE LURIDE MANACCE DALLA MIA MACCHINA!}
 {650}{}{Fa' che non ti becchi piu' ad aggirarti nei pressi della mia macchina.}
-{651}{}{Non lo farai.}
+{651}{}{Non succedera'.}
 {652}{}{Uggg-K}

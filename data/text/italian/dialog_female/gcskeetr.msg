@@ -1,8 +1,8 @@
 {100}{}{Vedi un ghoul che indossa dei vecchi vestiti sporchi di grasso.}
-{101}{}{Vedi Skeeter, il Ghoul Collezionista.}
-{102}{}{Vedi un ghoul sporco ma dall'aria sveglia, che indossa un grembiule macchiato di grasso con un micrometro che spunta da una delle tasche.}
-{110}{}{Vedi di non toccare nulla -— potresti farti male.}
-{111}{}{Credevo che i selvaggi fossero semplicemente rozzi.}
+{101}{}{Vedi Skeeter, il Ghoul Aggiustatutto.}
+{102}{}{Vedi un ghoul sporco ma dall'aria sveglia, che indossa una tuta da lavoro macchiata di grasso con un micrometro che spunta da una delle tasche.}
+{110}{}{Vedi di non toccare nulla -- potresti farti male.}
+{111}{}{Credevo che i tribali fossero semplicemente rozzi.}
 {112}{}{Guarda pure. Potresti imparare qualcosa, ma ne dubito.}
 {113}{}{Beh, non si puo' negare che tu sia speciale, per certi versi.}
 {114}{}{Stai solo facendo finta, o sei davvero cosi' stupida?}
@@ -30,9 +30,9 @@
 {190}{}{Ehila', io sono Skeeter. L'aggiustatutto del paese.}
 {191}{}{Ehila'. Cercavi qualcosa?}
 {192}{}{Che cosa ti serve?}
-{200}{}{Hai mai sentito parlare di un qualcosa chiamato Kit per la Creazione del Giardino dell'Eden?}
-{201}{}{Hai una batteria che potrei usare per riparare un’auto?}
-{202}{}{Ho alcune cose che mi piacerebbe tu ci dessi un'occhiata.}
+{200}{}{Hai mai sentito parlare di un qualcosa chiamato Kit di Creazione del Giardino dell'Eden?}
+{201}{}{Hai una batteria che potrei usare per riparare un'auto?}
+{202}{}{Ho alcune cose a cui vorrei che dessi un'occhiata.}
 {203}{}{Di che cosa ti occupi?}
 {204}{}{Uh, stavo solo dando un'occhiata in giro. Arrivederci.}
 {210}{}{Cosa vuoi che modifichi?}
@@ -44,7 +44,7 @@
 {216}{}{Ho questo 'X'}
 {217}{}{In seguito sara' possibile separare nuovamente le parti?}
 {218}{}{Non mi serve nient'altro. Ci vediamo.}
-{220}{}{Hmm, posso piazzare questo tuo mirino su uno dei tuoi fucili.}
+{220}{}{Hmm, posso piazzare questo tuo mirino su quel tuo fucile.}
 {221}{}{Beh, posso piazzare questo mirino su uno dei tuoi fucili. Su quale vuoi che lo metta?}
 {222}{}{Quanto mi costera' mettere il mirino sul mio Fucile da Caccia?}
 {223}{}{Quanto mi costera' mettere il mirino sul mio Fucile d'Assalto?}
@@ -88,14 +88,14 @@
 {331}{}{E cosi' tu vuoi che io ti porti un Super Kit di Attrezzi? E poi tu mi darai il pezzo che mi serve per la macchina, giusto?}
 {340}{}{Esatto. Questo e' il nostro accordo. Un Super Kit di Attrezzi in cambio di un Combinatore di Celle di Carburante.}
 {341}{}{Mi sembra uno scambio equo. Lascia che ti chieda qualcos'altro.}
-{342}{}{E se invece seguissi la via piu' semplice? Ti uccidero' e mi prendero' il pezzo che mi serve.}
+{342}{}{E se invece seguissi la via piu' semplice? Ti uccido e mi prendo il pezzo che mi serve.}
 {343}{}{Credo che andro' a fare due passi per ragionarci un po' sopra. A dopo.}
-{360}{}{Beh... potresti fare cosi'... forse. Tuttavia, potresti rimanere piuttosto sorpreso. Potrei anche essere piu' coriaceo di quanto pensi. E poi, forse non ti converrebbe neanche. Posso essere piuttosto utile quando si tratta di mettere insieme delle cose. E' sempre bello conoscere qualcuno in grado di farlo, non trovi?}
+{360}{}{Beh... potresti fare cosi'... forse. Tuttavia, potresti rimanere piuttosto sorpresa. Potrei anche essere piu' coriaceo di quanto pensi. E poi, forse non ti converrebbe neanche. Posso essere piuttosto utile quando si tratta di mettere insieme delle cose. E' sempre bello conoscere qualcuno in grado di farlo, non trovi?}
 {361}{}{Beh, forse hai ragione. Ti lascero' in vita... per adesso. Dimmi un'altra cosa, pero'. }
 {362}{}{Sei un tipo pieno di risposte, eh? Spero che tu sappia anche cosa c'e' nell'aldila', dal momento che ti sto per spedire proprio laggiu' - adesso.}
 {363}{}{Dovro' pensarci su. Arrivederci, per ora. }
 {370}{}{Vedo che hai uno splendido set di attrezzi, li' con te. Snap-off, giusto? Ti posso dare questo Combinatore di Celle di Carburante, in cambio di quello.}
-{371}{}{Ehila'! Sei tornato con il mio kit per le riparazioni. Mmm, Snap-off... il migliore. Sei pronto per lo scambio?}
+{371}{}{Ehila'! Sei tornata con il mio kit per le riparazioni. Mmm, Snap-off... il migliore. Sei pronto per lo scambio?}
 {372}{}{Affare fatto.}
 {373}{}{Non adesso. Vorrei tenerlo ancora per un po'. Ci vediamo.}
 {380}{}{Questo e' davvero un ottimo affare. Adesso ti bastera' piazzare quell'aggeggio nella tua macchina per farla funzionare.}
@@ -109,16 +109,16 @@
 {401}{}{Come faccio a prendere il Trasformatore di Plasma per te?}
 {410}{}{Devi procurarti un Modulo di Richiesta Componenti. Una volta che avrai uno di quei moduli, dallo a Jeremy, nel magazzino, e lui ti consegnera' qualunque cosa tu voglia. Puoi farti dare uno dei Moduli di Richiesta da Harold o da Festus.}
 {411}{}{Dove si trovano Harold e Festus? E soprattutto: mi daranno senza problemi il modulo che mi serve?}
-{420}{}{Harold lo puoi trovare in una casa nei pressi della centrale e Festus e' nella sala di controllo del reattore. Ma potresti anche essere costretto a procurarti il modulo in maniera meno diretta, se capisci quello che intendo.}
+{420}{}{Harold lo puoi trovare in paese e Festus e' nella sala di controllo del reattore. Ma forse dovrai procurarti il modulo in maniera meno diretta, se capisci quello che intendo.}
 {421}{}{Vuoi dire che dovrei rubarlo, il modulo, vero?}
 {430}{}{Beh, err, si'. Credo di si'. Puoi anche provare a chiedere, ma non punterei molto su questo approccio.}
 {431}{}{Beh, vedro' di arrangiarmi.}
-{432}{}{Non penso di voler essere coinvolto in questa faccenda. Addio.}
+{432}{}{Non voglio averci niente a che fare. Arrivederci.}
 {440}{}{Sei qui per farti fare quel lavoro che ti devo?}
 {441}{}{Certo. Fammi vedere quali oggetti potresti usare.}
 {442}{}{Non ancora. Volevo vedere se c'eri ancora. Beh, ci vediamo.}
 {450}{}{Mi dispiace. Non hai niente di adatto ad essere combinato con questo. Altro?}
-{451}{}{Guarda anche qualcos’altro che ho qui.}
+{451}{}{Guarda anche qualcos'altro che ho qui.}
 {452}{}{Credo sia tutto, per ora. Arrivederci.}
 {460}{}{Vediamo un po'. Ti costera' [Cost of combining item a with item b]$. Vuoi che lo faccia?}
 {461}{}{Si', grazie.}
@@ -150,16 +150,16 @@
 {623}{}{Quel FN FAL e' una buona arma. Ehi, ho proprio un mirino telescopico ad infrarossi adatto. E' tuo per $}
 {624}{}{D'accordo... monta il mirino su quel Colt da caccia.}
 {625}{}{Aumenta la capienza del caricatore di questo fucile d'assalto AK-112.}
-{626}{}{Monta quel mirino ad infrarossi sul FN FAL.}
+{626}{}{Monta quel mirino notturno sul FN FAL.}
 {627}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
 {630}{}{Vuoi una bella iniezione di energia in quell'arma da mischia? Io posso "sovraccaricartela" per soli $}
-{631}{}{Bene.}
-{640}{}{[Skeeter prende cio' che gli hai dato e inizia a guardarlo con uno sguardo strano] Beh, non sara' per niente facile, ma credo proprio di poterci fare un bel lavoretto. Aspetta solo un attimo. [Skeeter mette l'arma sul suo tavolo da lavoro e la fissa con un enorme presa.]}
+{631}{}{Certo.}
+{640}{}{[Skeeter prende cio' che gli hai dato e inizia a guardarlo con uno sguardo strano] Beh, non sara' per niente facile, ma credo proprio di poterci fare un bel lavoretto. Aspetta solo un attimo. [Skeeter mette l'arma sul suo tavolo da lavoro e la blocca in una morsa enorme.]}
 {641}{}{Okay.}
-{650}{}{[Mentre aspetti, puoi vedere Skeeter darti le spalle mentre lavora sulla tua arma. Non sai esattamente cosa stia facendo, ma quegli strani rumori e tutti quei colpi di martello ti rendono nervoso.]}
+{650}{}{[Mentre aspetti, puoi vedere Skeeter darti le spalle mentre lavora sulla tua arma. Non sai esattamente cosa stia facendo, ma quegli strani rumori e tutti quei colpi di martello ti innervosiscono.]}
 {651}{}{Aspetta...}
 {660}{}{[Mentre aspetti si odono altri colpi e rumori...]}
-{661}{}{[Fischietti sommessamente e fai delle ombre cinesi sul muro dell'officina di Skeeter...]}
+{661}{}{[Fischietti un motivetto stonato e fai delle ombre cinesi sul muro dell'officina di Skeeter...]}
 {670}{}{Ecco fatto. [Ti svegli di soprassalto quando Skeeter solleva la tua arma dal tavolo da lavoro - non appena Skeeter ti riconsegna l'arma puoi vedere un discreto numero di pezzi di metallo luccicante sparsi per tutto il tavolo.] Questo *dovrebbe* funzionare, credo. Devi solo provare.}
 {671}{}{Grazie. Puoi intervenire anche su un'altra delle mie armi?}
 {672}{}{Grazie, Skeeter. Uh, lascia che ti chieda qualcos'altro.}

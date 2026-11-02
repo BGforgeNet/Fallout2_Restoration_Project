@@ -1,7 +1,7 @@
 {100}{}{Vedi un cane dall'aria cattiiiiiva.}
 {101}{}{Vedi Dogmeat.}
 {102}{}{Vedi Dogmeat.}
-{103}{}{Il cane guaisce sommessamente quando vede l'abito da Abitante del Vault. Sembra che voglia venire con te.}
+{103}{}{Il cane guaisce sommessamente quando vede la tuta del Vault. Sembra che voglia venire con te.}
 {104}{}{-Fischia-}
 {105}{}{Fosse tu potere venire co' me se io ha piu' spazzio.}
 {106}{}{Uh-uh, cagnolino. Tu stare.}
@@ -38,9 +38,9 @@
 {137}{}{Ehi, amico, che stai facendo al mio cane?}
 {138}{}{Grrrrr....}
 {139}{}{(Forse posso farmi seguire da Dogmeat in maniera diversa...)}
-{150}{}{Uff! Uff!}
+{150}{}{Woof! Woof!}
 {200}{}{Ehi ragazzo, ho qualcosa per te! Vediamo chi avra' il coraggio di darti fastidio ora! (Metti il K-9 Kevlar su Dogmeat.)}
 {201}{}{L'armatura ti appesantisce, ragazzo? Vieni, togliamola. (Rimuovi il K-9 Kevlar da Dogmeat.) }
-{300}{}{*Frustata*}
-{301}{}{Awooooooooooo! *frustata*}
+{300}{}{*Guaisce*}
+{301}{}{Awooooooooooo! *guaisce*}
 {1110}{}{Il cane divora ingordamente il contenuto della scatola di cibo per cani e poi ti guarda speranzoso.}

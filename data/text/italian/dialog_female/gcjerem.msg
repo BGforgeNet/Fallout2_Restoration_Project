@@ -1,9 +1,9 @@
 {100}{}{Vedi un ghoul con la testa rasata.}
 {101}{}{Vedi Jeremy, il ghoul addetto al magazzino.}
 {102}{}{Vedi un ghoul alto e magro che sembra essere molto occupato.}
-{110}{}{Ehila'. Mi chiamo Jeremy. Sono il responsabile di questo magazzino super accessoriato. Tengo in ordine tutte le cose che si trovano qui dentro.}
-{111}{}{Bentornato. Sei venuto a visitare il nostro magazzino super accessoriato o ti serve qualcosa?}
-{112}{}{Super accessoriato?}
+{110}{}{Ehila'. Mi chiamo Jeremy. Sono il responsabile dell'onnipotente armadio delle scorte. Tengo il conto di tutto quello che abbiamo in magazzino.}
+{111}{}{Bentornata. Sei venuta a visitare l'onnipotente armadio delle scorte o ti serve qualcosa dal magazzino?}
+{112}{}{Onnipotente?}
 {113}{}{Mi serve qualcosa.}
 {114}{}{Non mi serve nulla. Stavo solo dando un'occhiata in giro. Ci vediamo.}
 {120}{}{Beh, se devi prendere qualcosa dal magazzino ti servira' un modulo di richiesta firmato. Ce l'hai, il modulo?}
@@ -21,18 +21,18 @@
 {161}{}{Vedi, e' tutta una questione di roba.}
 {162}{}{Vedi, e' tutta una questione di idee.}
 {163}{}{Vedi, e' tutta una questione di parole.}
-{164}{}{Vedi, e' tutta una questione di culo.}
+{164}{}{Vedi, e' tutta una questione di Anatas.}
 {165}{}{Vedi, e' tutta una questione di scimmie calve.}
 {166}{}{Vedi, e' tutta una questione di segreti.}
 {167}{}{Vedi, e' tutta una questione di marketing.}
-{170}{}{Okay, forse non cosi' accessoriato. Ma di sicuro c'e' un sacco di roba. Che cosa vuoi?}
+{170}{}{Okay, forse non proprio onnipotente. Ma e' dannatamente importante. Che cosa vuoi?}
 {171}{}{Mi serve qualcosa dal magazzino.}
 {172}{}{Uh, nulla. Stavo solo dando un'occhiata in giro. Ci vediamo.}
 {180}{}{E' incredibile quello che lasciano entrare qui dentro, oggigiorno.}
 {181}{}{Sei stupida come un sasso, vero?}
 {182}{}{Non cadere nel pozzo del reattore.}
 {183}{}{Uh, adesso sono troppo occupato per leggerti una storia.}
-{184}{}{Avanti, muoviti… su. Bravo, bel pelleliscia.}
+{184}{}{Avanti, muoviti... su. Brava, bella pelle-liscia.}
 {190}{}{Ti serve un che? Beh, dovrai metterti in lista d'attesa per uno di quelli. Ti serve qualcos'altro?}
 {191}{}{Uh, credo che mi accontentero' di un trasformatore di plasma trifasico.}
 {192}{}{Diamine. No, non voglio nient'altro. Dovro' tornare un'altra volta. Arrivederci.}
@@ -42,7 +42,7 @@
 {203}{}{Non ho la piu' pallida idea di cosa ci debbano fare con questo pezzo. Io ho solo il compito di ritirarlo.}
 {210}{}{Me lo dovevo aspettare. Come diavolo ha fatto Skeeter a farsi dare l'autorizzazione per ritirare dell'attrezzatura? Spero che questa volta non faccia scoppiare nulla. Oh beh. Non sono affari miei, immagino.}
 {211}{}{Uh, e il pezzo? Adesso dovrei ritirarlo.}
-{220}{}{Beh, puoi fartene dare uno da Harold, giu' in citta', oppure puoi chiedere a Festus, che si trova nella stanza di controllo del reattore. Non mi interessa da chi te lo farai dare, basta che me lo porti. Niente modulo firmato, niente attrezzature -— e' cosi' che funziona.}
-{221}{}{Ti sei fatto dare un modulo di richiesta? Devi avere un modulo prima che io ti possa dare dell'attrezzatura.}
+{220}{}{Beh, puoi fartene dare uno da Harold, giu' in citta', oppure puoi chiedere a Festus, che si trova nella stanza di controllo del reattore. Non mi interessa da chi te lo farai dare, basta che me lo porti. Niente modulo firmato, niente attrezzature -- e' cosi' che funziona.}
+{221}{}{Ti sei fatta dare un modulo di richiesta? Devi avere un modulo prima che io ti possa dare dell'attrezzatura.}
 {222}{}{Oh, okay. Beh, faro' meglio a farmene dare uno, allora. Ci vediamo.}
 {300}{}{In realta', penso che me ne faro' dare uno piu' tardi. Ci vediamo.}

@@ -1,5 +1,5 @@
 {100}{}{Una piccola, caratteristica comunita' rurale, circondata da vasti campi con le coltivazioni morte o morenti.}
-{500}{}{Pare proprio che tu li abbia uccisi tutti.}
+{500}{}{Pare proprio che li abbia uccisi tutti.}
 {501}{}{Tutti cattivi morsatori morti.}
 {502}{}{Hai ripulito il giardino di Farrel.}
 {600}{}{Vedi un sacchetto pieno di monete.}

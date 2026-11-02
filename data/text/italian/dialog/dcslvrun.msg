@@ -1,10 +1,10 @@
 {100}{}{Vedi un uomo enorme, dall'aspetto primitivo.}
 {101}{}{Quest'uomo sembra discretamente forte e attento.}
 {110}{}{Vedi una donna primitiva mingherlina.}
-{111}{}{Sembra robusto, nonostante la sua stazza.}
+{111}{}{Sembra robusta, nonostante la sua stazza.}
 {120}{}{Vedi un uomo dall'aspetto strano.}
 {121}{}{Sembra terribilmente magro.}
-{130}{}{Vedi un uomo dall'aspetto rozzo.}
+{130}{}{Vedi un uomo dall'aspetto trasandato.}
 {131}{}{Questo sembra essere discretamente forte.}
 {140}{}{Vedi un uomo che indossa degli abiti consunti.}
 {141}{}{Si muove con una velocita' inquietante.}
@@ -13,8 +13,8 @@
 {160}{}{Vedi una donna abbastanza robusta.}
 {161}{}{Sembrerebbe essere una guerriera molto forte.}
 {170}{}{Vedi una donna pelle e ossa.}
-{171}{}{Questa qui non sembra amare troppo il pericolo.}
-{200}{}{Morire!}
+{171}{}{Questa qui non sembra un gran pericolo.}
+{200}{}{Muori!}
 {201}{}{Dove essere?}
 {202}{}{Me fare male te.}
 {210}{}{Te la faro' pagare per questo!}
@@ -62,17 +62,17 @@
 {294}{}{Io protegge!}
 {295}{}{Io fa male te!}
 {296}{}{Tu pagare!}
-{300}{}{Non prenderai la mia famigla, schiavista!}
+{300}{}{Non prenderai la mia famiglia, schiavista!}
 {301}{}{Muori, feccia schiavista!}
 {302}{}{La pagherai, bastardo!}
-{303}{}{Lottero' fino all'ultimo per difendere la mia famigla!}
+{303}{}{Lottero' fino all'ultimo per difendere la mia famiglia!}
 {304}{}{Non la passerai liscia!}
 {305}{}{Non te ne andrai di qui portandoti via i miei amici!}
 {310}{}{Ahhh!}
 {311}{}{No uccidere! No uccidere!}
 {312}{}{Basta!}
 {313}{}{Aiutoooooo!}
-{314}{}{Scappare!}
+{314}{}{Scappiamo!}
 {315}{}{No fare questo!}
 {320}{}{Scappate, se ci tenete alla pelle!}
 {321}{}{Non lasciate che vi catturino!}

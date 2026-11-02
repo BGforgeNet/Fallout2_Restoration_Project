@@ -13,7 +13,7 @@
 {112}{}{Che peccato. Allora riposatevi e siate il benvenuto nel mio accampamento.}
 {113}{}{Grazie. Ciao.}
 {114}{}{La mia offerta d'ombra e' giunta troppo tardi per te. Il sole deve averti bollito via le parole dal cervello. Devo essere gentile con quelli piu' sfortunati di me. Rimani nel mio accampamento per tutto il tempo che vuoi, Mente-ottenebrata.}
-{115}{}{Addio.}
+{115}{}{Ciao.}
 {116}{}{Infedele!}
 {117}{}{Perche' ci attacchi?}
 {118}{}{Difendero' la tribu' con la mia vita!}

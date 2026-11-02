@@ -1,20 +1,20 @@
 {100}{}{Vedi un umano dall'aria triste.}
 {101}{}{Vedi Bitorzolo, l'amico e assistente di Skeeter.}
 {102}{}{Vedi un umano molto magro, con gli occhi semichiusi e l'aria triste.}
-{110}{}{Sei ridotto peggio di me. Povero idiota.}
+{110}{}{Sei ridotta peggio di me. Povero idiota.}
 {111}{}{Non ho tempo da perdere con gli idioti.}
 {112}{}{Non sei molto piu' intelligente dei brahmin cui faccio la guardia.}
 {113}{}{Non hai tutte le rotelle a posto, vero?}
-{114}{}{Per Dio, sei piu' stupido di quanto pensassi.}
+{114}{}{Per Dio, sei piu' stupida di quanto pensassi.}
 {120}{}{Ehila'. Mi chiamo Bitorzolo.}
 {121}{}{E' un nome piuttosto insolito. Come mai ti chiami cosi'?}
 {122}{}{Di che cosa ti occupi?}
 {123}{}{Davvero carino... Bitorzolo. Uh, adesso devo andare.}
 {130}{}{Beh, il mio nome vero e' John -- ma tutti qui mi chiamano Bitorzolo.}
 {131}{}{Perche' proprio Bitorzolo?}
-{132}{}{Beh, chi puo' biasimarli? Addio.}
+{132}{}{Beh, chi puo' biasimarli? Arrivederci.}
 {140}{}{Ehila'. Hai mai notato che ogni brahmin e' dotato di una sua propria personalita'? Beh, se ti capitera' di osservarli tanto a lungo quanto ho fatto io, te ne accorgerai di certo.}
-{141}{}{Yup. Veramente incredibile. Davvero.}
+{141}{}{Gia'. Proprio affascinanti. Ecco cosa sono.}
 {142}{}{Mu' mu'.}
 {143}{}{Di che cosa ti occupi?}
 {144}{}{Davvero interessante. Chi sei?}
@@ -26,7 +26,7 @@
 {153}{}{Di che cosa ti occupi?}
 {154}{}{Ho qualche domanda per te.}
 {155}{}{Oh, okay. Andro' a parlare con Skeeter, allora. Grazie.}
-{160}{}{Ehila'. Dal momento che ti sei gia' invitato da solo ad entrare... cosa posso fare per te?}
+{160}{}{Ehila'. Dal momento che ti sei gia' invitata da sola ad entrare... cosa posso fare per te?}
 {161}{}{Me fame.}
 {162}{}{Uh, dov'e' Skeeter?}
 {163}{}{Ho qualche domanda per te.}
@@ -42,7 +42,7 @@
 {191}{}{Dove posso trovare Skeeter?}
 {192}{}{Interessante. Lascia che ti chieda qualcos'altro.}
 {193}{}{Credo sia tutto, per ora. Arrivederci.}
-{200}{}{Beh, dicevano che non ero abbastanza umano per loro. Sono resistente alle radiazioni... perfetto per questo mondo. Ma a loro non piaceva. Mi trattavano come spazzatura.}
+{200}{}{Beh, dicevano che non ero abbastanza umano per loro. Sono resistente alle radiazioni... perfetto per vivere qui. Ma a loro non piaceva. Mi trattavano come spazzatura.}
 {201}{}{Davvero?}
 {210}{}{Un giorno non ce l'ho piu' fatta. Decisi che morire nelle Lande sarebbe stato meglio che vivere con quegli stronzi di Vault City.}
 {211}{}{Come mai sei finito qui, allora?}
@@ -50,11 +50,11 @@
 {221}{}{Broken Hills? E dove si trova?}
 {222}{}{Interessante. Lascia che ti chieda qualcos'altro, pero'.}
 {223}{}{Sono felice per te. Ci vediamo.}
-{224}{}{Una famiglia di mostri. Non credo di voler sentire altro da te. Addio.}
+{224}{}{Una famiglia di mostri. Non credo di voler sentire altro da te. Arrivederci.}
 {230}{}{Broken Hills e' il posto dal quale proviene tutto l'uranio che ci serve per il nostro reattore nucleare. Da quel che ho capito, sono i mutanti ad estrarre l'uranio. Ma lasciano che siano gli umani ad occuparsi degli scambi commerciali.}
 {231}{}{Perche' hanno affidato il commercio agli umani?}
 {240}{}{Cosa vuoi sapere?}
-{241}{}{Sei davvero curioso, sai? Beh, okay. Che cosa vuoi sapere?}
+{241}{}{Sei davvero curiosa, sai? Beh, okay. Che cosa vuoi sapere?}
 {242}{}{E adesso cosa vuoi sapere?}
 {243}{}{Cosa sono tutti quei rifiuti nel cortile?}
 {244}{}{Di che cosa ti occupi?}
@@ -81,18 +81,18 @@
 {300}{}{Non saprei dirlo. Si potrebbe pensare che io sia pazzo. Probabilmente e' solo il vento che passa tra i rifiuti.}
 {301}{}{Ti ho gia' detto che non ho sentito nulla. Smettila di seccarmi con questa storia.}
 {302}{}{Okay. Lascia che ti chieda qualcos'altro, allora.}
-{310}{}{(Ti guarda dritto negli occhi) Senti delle voci nella testa? Ti dicono forse che tu sei il migliore di tutti? Ti dicono forse che un giorno la gente si inchinera' davanti alla tua grandezza? (sorride e annuisce)}
+{310}{}{(Ti guarda dritto negli occhi) Senti delle voci nella testa? Ti dicono forse quanto sei superiore a tutti gli altri? Ti dicono forse che un giorno la gente si inchinera' davanti alla tua grandezza? (sorride e annuisce)}
 {311}{}{Uh, no. Veramente no.}
 {312}{}{Uh, certo. Certo che le sento. Non succede a tutti?}
 {320}{}{Bene. Cominciavo a preoccuparmi.}
 {321}{}{Beh, grazie del pensiero. Lascia che ti faccia qualche domanda.}
 {322}{}{Uh, certo. Beh, adesso credo proprio di dover andare. Ci vediamo.}
 {330}{}{La prima volta che ti ho visto gia' sospettavo che tu potessi essere una tipa del genere, ma non ne ero sicuro. Adesso sparisci, maledetta svitata!}
-{331}{}{Uh, certo. Come no? Addio.}
+{331}{}{Uh, certo. Come no? Arrivederci.}
 {332}{}{Beh, uno di noi e' uno svitato -- pero' credo che tu abbia fatto un po' di confusione.}
 {340}{}{Beh, non so se fossero persone o cos'altro, ma di solito le sentivo una notte si' e una no. Rumori che andavano e venivano dal pozzo del reattore. Non so cosa stia succedendo, ma non voglio nemmeno saperlo.}
 {341}{}{Credo che tu non abbia tutti i torti. Meglio non sapere cosa ci potrebbe essere, la' sotto.}
-{342}{}{Grazie per le informazioni. Ci vediamo.}
+{342}{}{Grazie per le informazioni. Arrivederci.}
 {343}{}{Ma il pozzo del reattore non e' troppo radioattivo per permettere a qualcuno di vivere al suo interno?}
 {350}{}{No, quella parte del reattore non era stata completata quando scoppio' la guerra.}
 {351}{}{Oh, capisco. Hmm, parliamo di qualcos'altro, allora.}

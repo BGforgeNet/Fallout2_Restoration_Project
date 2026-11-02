@@ -1,6 +1,6 @@
-{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto alla tuta dell'Abitante del Vault, ma non c'e' nessun numero sulla schiena.}
 {101}{}{Vedi Darrow, il Vice-Addetto all'Emporio.}
-{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto alla tuta dell'Abitante del Vault, ma non c'e' nessun numero sulla schiena.}
 {103}{}{::applaude::}
 {104}{}{E' l'eroe! Guardate!}
 {105}{}{Santo cielo! E' l'eroe, qui, a Vault City!}
@@ -38,7 +38,7 @@
 {137}{}{Grazie per essersi fermato. Vault City prevale, Capitano.}
 {138}{}{Vault City prevale, Cittadino.}
 {139}{}{Buongiorno, Cittadino.}
-{140}{}{Distaccamento A dell'Emporio. Mi occupo dei bisogni lavorativi di carattere generale, come attrezzi ed equipaggiamento per riparazioni. Mi chiamo Darrow, Vice-Addetto all'Emporio Darrow. C'e' qualcosa che le serve? }
+{140}{}{Distaccamento A dell'Emporio. Mi occupo delle forniture di carattere generale, come attrezzi ed equipaggiamento per riparazioni. Mi chiamo Darrow, Vice-Addetto all'Emporio Darrow. C'e' qualcosa che le serve? }
 {141}{}{Questo e' il Distaccamento A dell'Emporio... qui dentro i Cittadini possono procurarsi vari attrezzi e l'equipaggiamento necessario per le riparazioni. Sei sicuro di essere nel posto che stavi cercando?}
 {142}{}{Posso vedere quello che hai da vendere?}
 {143}{}{Si', e' il posto giusto. Posso vedere la vostra merce?}

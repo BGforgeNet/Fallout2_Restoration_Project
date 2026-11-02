@@ -7,7 +7,7 @@
 {106}{}{Me zoppo, tu riparare?}
 {107}{}{Me ha domande. Okay?}
 {108}{}{Scusa, me va.}
-{109}{}{Sono ferito. Puoi aiutarmi?}
+{109}{}{Ho delle ferite. Puoi aiutarmi?}
 {110}{}{Mi sento male. Puoi aiutarmi?}
 {111}{}{Mi hanno ferito un arto. Puoi aiutarmi?}
 {112}{}{Vorrei farti delle domande.}
@@ -17,7 +17,7 @@
 {116}{}{Grazie, Doc. Mi sento molto meglio.}
 {117}{}{Beh, certo. Ecco, devi bere questo -- tutto... so che ha un brutto sapore. Adesso stenditi su quel letto; ti svegliero' domattina.}
 {118}{}{Me sta meglio. Ciao.}
-{119}{}{Grazie Doc, il tuo trucchetto ha funzionato.}
+{119}{}{Grazie Doc, ha fatto effetto.}
 {120}{}{Mi spiace, ma non ho le attrezzature necessarie per eseguire operazioni chirurgiche. Ti suggerisco di andare in una delle citta' piu' grandi e di visitare un chirurgo. Prova Vault City. E' a nord di qui.}
 {121}{}{Okay. Ciao}
 {122}{}{D'accordo. Grazie lo stesso.}
@@ -50,7 +50,7 @@
 {149}{}{Uh... essere come tu dire.}
 {150}{}{Deve andare ora.}
 {151}{}{Uh-huh. Beh, ora devo andare.}
-{152}{}{Wow; sono stupito dalla tua conoscenza.}
+{152}{}{Wow; sei davvero ben informato.}
 {153}{}{Sembra proprio il mio tipo.}
 {154}{}{Sono stato rapito. Stavo viaggiando da Vault City a New Reno per una ben meritata vacanza. Una notte mi sono accampato e la mattina dopo mi sono risvegliato legato e imbavagliato. Una settimana circa dopo, mi sono ritrovato qui. E qui mi trovo da allora.}
 {155}{}{Ugh.}
@@ -64,12 +64,12 @@
 {163}{}{Capisco. Beh, grazie dell'avvertimento.}
 {164}{}{Ah. Beh, ora devo andare.}
 {165}{}{Non aiutero' una persona come te. Vattene.}
-{166}{}{Okay, beh, stai attento... e torna, se ti serve qualcosa.}
+{166}{}{Okay, beh, abbi cura di te... e torna, se ti serve qualcosa.}
 {167}{}{Fatto.}
 {168}{}{Adesso e' paranoico. Crede che Tandi sia ancora sulle sue tracce. E' ossessionato dalla vendetta, e vorrebbe vedere Tandi morta. E' tormentato dal rimorso, dato che lui preferi' nascondersi e sopravvivere, invece di morire con la sua banda... e la lista potrebbe continuare.}
 {200}{}{Darion e' morto.}
 {201}{}{Dar-i-on mor-to.}
-{202}{}{Lo e'!? Oh, questa e' una splendida notizia.}
+{202}{}{Davvero!? Oh, questa e' una splendida notizia.}
 {203}{}{E adesso cosa farai?}
 {204}{}{Cosa fare tu?}
 {205}{}{Beh, non vedo motivo per tornare alla mia vecchia vita. La citta' sopra di noi non ha assistenza medica, quindi penso che andro' ad aiutarli. Grazie ancora per avermi liberato.}
@@ -77,14 +77,14 @@
 {207}{}{Ciao!}
 {210}{}{Devo ancora preparare alcune cose. Ci vediamo fuori.}
 {220}{}{Ehi, che bello rivederti! Qui tutti apprezzano davvero quello che hai fatto. Personalmente sono felice di essere uscito da li'. Lavorare per Darion era un incubo.}
-{221}{}{Sono contento di aver potuto aiutare. Allora, parlami un po' di te.}
+{221}{}{Mi fa piacere aver potuto aiutare. Allora, parlami un po' di te.}
 {222}{}{D'accordo, ci vediamo.}
-{230}{}{Vedi, io vengo originariamente dalla Nuova Repubblica della California, ma ho capito di avere un talento per la medicina. 
+{230}{}{Vedi, io vengo originariamente dalla Repubblica della Nuova California, ma ho capito di avere un talento per la medicina. 
 Cosi' mi sono formato quanto piu' possibile con il personale medico della NCR, e una volta imparato tutto cio' che potevo, ho deciso di cercare di imparare ancora di piu' andando a Vault City. 
 Sono stato abbastanza fortunato da incontrare il dottor Troy mentre curava un cittadino ferito fuori dal Vault, e per farla breve ha accettato di completare il mio addestramento a Vault City. 
 Avevo appena finito l'addestramento e stavo per partire quando Darion mi ha catturato.}
 {231}{}{Che brutta cosa. Beh, spero che adesso le cose si sistemino per te.}
 {240}{}{Lo spero anch'io. Credo di poter mettere a frutto le mie abilita' mediche qui.}
-{241}{}{Addio.}
+{241}{}{Ciao.}
 {250}{}{Grazie ancora per tutto.}
 {251}{}{E' bello tornare ad aiutare gente civilizzata.}

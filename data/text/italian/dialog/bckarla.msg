@@ -4,4 +4,4 @@
 {103}{}{Parla con Phil, testa di cazzo.}
 {104}{}{Parla con Phil, troietta.}
 {105}{}{Ok.}
-{106}{}{Quella piccola sgualdrina e' morta.}
+{106}{}{Quella stronzetta e' morta.}

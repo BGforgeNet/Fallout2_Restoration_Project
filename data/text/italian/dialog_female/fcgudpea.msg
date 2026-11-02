@@ -3,17 +3,17 @@
 {102}{}{Questa persona sembra diversa da tutte quelle che hai visto fino ad ora. Non sembra interessarsi molto a te.}
 {103}{}{Non sei una spia, vero?}
 {104}{}{Chi sei?}
-{105}{}{Pesci e frutti di mare. Questo e' tutto cio' che abbiamo.}
+{105}{}{Pesce e alghe. E' tutto quello che ci danno.}
 {106}{}{Ah ah! Guardate quegli strani occhi rotondi!}
 {107}{}{Sembri una Hubologista.}
 {108}{}{Lasciaci in pace.}
 {109}{}{Lunga vita a Dragon!}
 {110}{}{Abbasso Lo Pan!}
 {111}{}{Dragon e' un eroe.}
-{112}{}{Attento a Lo Pan. Stare con lui significa guai.}
+{112}{}{Attenta a Lo Pan. E' un brutto tipo.}
 {113}{}{Questi punk sono sempre cosi' rumorosi.}
-{114}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{115}{}{La vita puo' essere migliore di cosi'?}
+{114}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sospira::}
+{115}{}{Possibile che la vita sia solo questo?}
 {116}{}{Siamo piu' svegli di quanto pensi.}
 {117}{}{Guardate! Una lao wai!}
 {118}{}{Non credo che tu mi piaccia.}
@@ -27,18 +27,18 @@
 {126}{}{Ah ah! Quel bastardo di Lo Pan e' morto!}
 {127}{}{Ci hai aiutato!}
 {128}{}{Lo Pan e' morto!}
-{129}{}{Adesso e' il turno degi Hubologisti!}
+{129}{}{Adesso e' il turno degli Hubologisti!}
 {130}{}{Guardate che buffi quegli occhi rotondi!}
 {131}{}{Sembri una Hubologista.}
 {132}{}{Lasciaci in pace.}
 {133}{}{Lunga vita a Dragon!}
 {134}{}{Lunga vita all'Imperatore!}
-{135}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{136}{}{La vita puo' essere migliore di cosi'?}
+{135}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sospira::}
+{136}{}{Possibile che la vita sia solo questo?}
 {137}{}{Dragon... e' morto...}
 {138}{}{Oh no! Dragon e' morto!}
 {139}{}{La vita non ha piu' senso.}
-{140}{}{Riusciremo a sopravvivere... forse.}
+{140}{}{Riusciremo a sopravvivere... a malapena.}
 {141}{}{Chi sara' il nostro eroe, adesso?}
 {142}{}{E con Dragon muoiono i nostri sogni.}
 {143}{}{Non ha piu' senso vivere.}
@@ -51,13 +51,13 @@
 {150}{}{Chissa' se riusciremo a superare l'inverno, senza Ken Lee.}
 {151}{}{Mi hanno detto che Ken Lee era l'unico in grado di tenere a bada l'Imperatore.}
 {152}{}{Ho sentito dire che l'Imperatore era solo una facciata per coprire il vero capo, ovvero Ken Lee. }
-{153}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{154}{}{La vita puo' essere migliore di cosi'?}
+{153}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sospira::}
+{154}{}{Possibile che la vita sia solo questo?}
 {155}{}{Siamo piu' svegli di quanto pensi.}
 {156}{}{Guardate! Una straniera!}
 {164}{}{Hai ucciso AHS-9? Ben fatto!}
 {165}{}{Questi Hubologisti mi fanno venire i brividi.}
-{166}{}{Onorevole straniero, ci hai reso un grande servizio.}
+{166}{}{Onorevole straniera, ci hai reso un grande servizio.}
 {167}{}{A morte gli Hubologisti!}
 {168}{}{Forse questo fara' fuggire piu' rapidamente gli Hubologisti da qui.}
 {169}{}{Stupidi Hubologisti, non sono stati capaci nemmeno di proteggere il loro capo.}

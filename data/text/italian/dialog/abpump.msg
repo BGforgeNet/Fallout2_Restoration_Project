@@ -8,7 +8,7 @@
 {106}{}{Hai scoperto cosa c'e' che non va nella pompa dell'acqua.}
 {200}{}{Apri la macchina e guardi dentro. Vedi molti ingranaggi e motori arrugginiti. Uno dei motori
  ha una crepa.}
-{201}{}{Smetti di giocare.}
+{201}{}{Lascia perdere per oggi.}
 {202}{}{Indaga ulteriormente.}
 {203}{}{A un esame piu' attento vedi che la crepa non e' la causa del problema, ma piuttosto
  il collegamento dove vanno i cavi. I connettori sembrano essersi bruciati nel corso degli anni di utilizzo. Ci vorra'

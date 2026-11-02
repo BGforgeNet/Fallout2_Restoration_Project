@@ -8,7 +8,7 @@
 {107}{}{Sei sicuro de nun vole' aiuta' il vecchio Percy a risolve' 'l suo problema? Avrei proppio bisogno de 'n aiuto.}
 {108}{}{Uh, lascia che ci pensi ancora un po'. Nel frattempo, hai qualcosa da vendere?}
 {109}{}{Bene, parlamene un'altra volta.}
-{110}{}{Ogni volta che entro qui e' sempre la solita solfa: non credevo che mi avresti rotto le scatole in continuazione con questa storia. Pfui. Addio.}
+{110}{}{Ogni volta che entro qui e' sempre la solita solfa: non credevo che mi avresti rotto le scatole in continuazione con questa storia. Pfui. Arrivederci.}
 {111}{}{Hai trovato Woody? Me sto facenno piuttosto preoccupato. Nun e' mai stato via pe' cosi' tanno tempo.}
 {112}{}{Uh, non ancora, ma lo sto ancora cercando. Ehi, non hai niente che potremmo barattare?}
 {113}{}{No, direi proprio di no. Sara' meglio che io torni a cercarlo.}
@@ -21,9 +21,9 @@
 {120}{}{Guh? Me va ciao, ciao.}
 {121}{}{Volevo solo con-gratta-lammi co' te pe' ave' messo in sesto il nostro reattore atommico. Fa le fusa come un gattino, adesso. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
 {122}{}{Devo essetti riconoscenne pe' ave' riparato il nostro reattore nucleare. Quel dannato d'un Festus e' un buono a nulla. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
-{123}{}{Nun e' successo molto in paese, ultimamenne. Me hanno detto che ieri Wooz ha fregato una Orchidea Nera ad un pivello. Heh, heh, hee. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
+{123}{}{Nun e' successo molto in paese, ultimamenne. Me hanno detto che l'attro giorno Wooz ha fregato un'Orchidea Nera ad un pivello. Heh, heh, hee. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
 {124}{}{Okay, dimmi di piu'.}
-{125}{}{Oh, e' un vero peccato. Beh, io odio le storie tristi. Ti lascero' solo con il tuo dolore. Addio.}
+{125}{}{Oh, e' un vero peccato. Beh, io odio le storie tristi. Ti lascero' solo con il tuo dolore. Arrivederci.}
 {126}{}{Cetto che cce l'ho, diamine, ho ogni genere di robba, io. Ad un prezzo, si sa.}
 {127}{}{Hai preso tutto quello che te serviva o vuoi dell'attro?}
 {128}{}{Me volere roba?}
@@ -45,8 +45,7 @@
 {144}{}{E allora?}
 {145}{}{Nun riesci a fa' due piu' due? Temo che Woody si sia fatto una pennichella al Den - e' un lunno viaggio, dopotutto - e che la genne del posto abbia seppellito vivo il poveretto! Ho bisogno che qualcuno lo vada a cerca' laggiu'.}
 {146}{}{E...?}
-{147}{}{Be', mi manca. Ecco perche'.
-(Percy sbatte le palpebre, con gli occhi lucidi, guardandoti) Ah, capisco… vuoi sapere cosa ci guadagni tu, eh?}
+{147}{}{Be', mi manca. Ecco perche'. (Percy sbatte le palpebre, con gli occhi lucidi, guardandoti) Ah, capisco... vuoi sapere cosa ci guadagni tu, eh?}
 {148}{}{Questa e' di solito la parte che mi interessa di piu'. Dimmi tutto.}
 {149}{}{Beh, so dove potrei trova' un sacco de confezioni prebbelliche de Rad-X e RadAway. Nun me servono a nulla, adesso, ma credo che dovrebbero vale' qualcosa per un liscetto come te. Accetti il lavoro o no? Te paghero' soltanno quanno sapro' che Woody e' sano e salvo.}
 {150}{}{Quann'e'...er... Quant'e' esattamente "un sacco"?}

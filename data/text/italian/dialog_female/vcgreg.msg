@@ -12,8 +12,8 @@
 {111}{}{Vault City prevale, Cittadina.}
 {112}{}{Liste, liste, liste... come adoro le liste!}
 {113}{}{Inserire modulo 5632 nel Server Liste...}
-{114}{}{Fare una lista delle liste dalla 43A alla 121B... poi inserirla nel Server Liste...}
-{115}{}{E' un bella giornata per compilare liste.}
+{114}{}{Fare una lista delle liste dalla 43A alla 121B... poi inserirla nell'Archivio Liste...}
+{115}{}{E' una bella giornata per compilare liste.}
 {116}{}{Devo ancora finire queste liste prima di ritirarmi per la notte...}
 {117}{}{Torna in mattinata. Per allora dovrei aver finito con queste liste.}
 {118}{}{Lurido mutante...}
@@ -24,7 +24,7 @@
 {123}{}{-Allontanati-}
 {124}{}{Chi sei?}
 {125}{}{Davo solo un'occhiata in giro, grazie.}
-{126}{}{Ancora un ALTRO Servo che si allontana dalla sua zona?! Dovro' fare rapporto a Barkus, se continua a lasciarli andare in giro liberamente... per quanto riguarda te... Scio'! Sparisci!}
+{126}{}{Ancora un ALTRO Servo che si allontana dalla sua zona?! Dovro' fare rapporto su Barkus, se continua a lasciarli andare in giro liberamente... per quanto riguarda te... Scio'! Sparisci!}
 {127}{}{SPARARTI? Ok-ay.}
 {128}{}{-Allontanati-}
 {129}{}{*Tchh* Questi Servi sembrano diventare piu' stupidi ogni giorno che passa.}
@@ -35,7 +35,7 @@
 {134}{}{Io sono l'ASSISTENTE del Primo Cittadino. Io organizzo i suoi appuntamenti, sottopongo al test di Cittadinanza i potenziali candidati, e aggiorno tutte le liste sul server di Vault City. Non e' un compito da poco, te lo assicuro.}
 {135}{}{Il test di Cittadinanza?}
 {136}{}{A proposito del test di Cittadinanza, vorrei affrontarlo ancora.}
-{137}{}{Posso farti qualche domanda?}
+{137}{}{Posso farle qualche domanda?}
 {138}{}{Capisco. Beh, devo andare.}
 {139}{}{Si', esiste un modo CORRETTO... puoi diventare una Cittadina affrontando e superando il test di Cittadinanza.}
 {140}{}{Si', sono il responsabile per il test di Cittadinanza che chiunque aspiri a diventare un Cittadino di Vault City deve affrontare.}
@@ -49,7 +49,7 @@
 {148}{}{Non male. Vorrei affrontare nuovamente il test.}
 {149}{}{Posso farle qualche altra domanda?}
 {150}{}{Capisco. Magari piu' tardi ne parleremo ancora.}
-{151}{}{E' un esame completo, diviso in varie parti... matematica avanzata, relazioni spaziali, comprensione del linguaggio... ah, c'e' anche uno scrupoloso esame corporale.}
+{151}{}{E' un esame completo, diviso in varie parti... matematica avanzata, relazioni spaziali, ragionamento deduttivo, comprensione del linguaggio... ah, c'e' anche una scrupolosa visita medica.}
 {152}{}{Cos... mate-ma-che? Uh, non c'e' un oggetto che posso prendere o qualcuno con il quale combattere, per ottenere la Cittadinanza?}
 {153}{}{Sembra... complesso. Uh, posso affrontare il test?}
 {154}{}{Sembra difficile. Mi piacerebbe affrontare il test, se possibile.}
@@ -66,7 +66,7 @@
 {165}{}{Grazie delle risposte. Arrivederci.}
 {166}{}{Desideri affrontare il test? Eccellente, eccellente! Niente mi rende piu' felice che sottoporre al test i potenziali candidati... ma devo avvertirti che il test richiede molte ore per essere portato a termine. Vuoi cominciare subito?}
 {167}{}{Beh, chiunque puo' affrontare il test. Credo pero' che nel tuo caso sarebbe solo una perdita di tempo. Persone del tuo calibro non sono proprio fatte per diventare Cittadini.}
-{168}{}{Bene.}
+{168}{}{Certo.}
 {169}{}{Non adesso. Posso farti qualche altra domanda?}
 {170}{}{Magari un'altra volta.}
 {171}{}{Voglio affrontare il test lo stesso.}
@@ -75,15 +75,15 @@
 {174}{}{Vabbe'. Io me ne vado.}
 {175}{}{Molto bene.}
 {176}{}{Hmmm. Beh, e' un tuo diritto, ma dubito che ne caverai un ragno dal buco.}
-{177}{}{Ecco i moduli 5028, 6112, e la console di risposta PipBoy. Per favore, assicurati di riempire ogni cerchio COMPLETAMENTE. Adesso, se vuoi sederti laggiu'...}
+{177}{}{Ecco i moduli 5028, 6112, e la console di risposta Pip-Boy. Per favore, assicurati di riempire ogni cerchio COMPLETAMENTE. Adesso, se vuoi sederti laggiu'...}
 {178}{}{Okay.}
-{179}{}{Hai gia' finito? Sei sicuro di non voler ricontrollare le tue risposte?}
+{179}{}{Hai gia' finito? Sei sicura di non voler ricontrollare le tue risposte?}
 {180}{}{Bene, il tempo e' scaduto. Vediamo le tue risposte.}
 {181}{}{L'ho gia' fatto. Ecco qua.}
 {182}{}{Aspetta! Ancora un secondo... oh, al diavolo. Ecco qua.}
 {183}{}{Hmmm... no, no... questa e' sbagliata... nemmeno questa e' giusta... qui c'e' un errore di divisione per zero... hmmm... qui bisognava riportare il due... oh cielo, vedo che anche il tuo vocabolario e' molto lacunoso.}
 {184}{}{Vediamo un po'... non hai individuato l'equazione derivata... e non hai colto il significato essenziale del paragrafo sette, entrambe le parti... e la piramide di questo grafico si interseca otto volte, non tre.}
-{185}{}{Beh, le risposte che sei RIUSCITO a dare sembrano giuste... ma il tempo che hai impiegato... e i madornali errori grammaticali... e...}
+{185}{}{Beh, le risposte che sei RIUSCITA a dare sembrano giuste... ma il tempo che hai impiegato... e i madornali errori grammaticali... e...}
 {186}{}{Quindi...?}
 {187}{}{Beh, mi dispiace informarti che non posso concederti la Cittadinanza, al momento.}
 {188}{}{Francamente, non credo che tu abbia l'intelligenza necessaria per comprendere la matematica superiore. }
@@ -91,10 +91,10 @@
 {190}{}{Se mi e' concesso dirlo, non sembri a tuo agio con i test. Forse la prossima volta avrai piu' fortuna.}
 {191}{}{Sara' per un'altra volta, allora.}
 {192}{}{Bene, diamo un po' un'occhiata... per prima cosa vediamo se... oh, molto bene, vedo che hai risposto giusto... vediamo qui... beh, hai riportato il due, molto, molto brava... ma perche' qui... oh, hai applicato la derivata nella numero 5... geniale!}
-{193}{}{CERTO che sono stato geniale.}
+{193}{}{CERTO che sono stata geniale.}
 {194}{}{Beh... hai superato l'esame! Congratulazioni.}
 {195}{}{Ottimo. Quindi sono una Cittadina?}
-{196}{}{Beh, dobbiamo ancora effettuare la visita medica. Per fortuna ho tutta l'attrezzatura qui. Potresti toglierti gli stivali.}
+{196}{}{Beh, dobbiamo ancora effettuare la visita medica. Per fortuna ho tutta l'attrezzatura qui. Ti conviene toglierti gli stivali.}
 {197}{}{Okay.}
 {198}{}{Tu... tu hai un sesto dito! Sei una mutante! Come osi anche solo PROVARE a diventare una di noi... tu... mostro! Fuori di qui! Fuori! E non tornare mai piu'!}
 {199}{}{Qui arriva la parte in cui io perdo la pazienza e uccido, solo per il gusto di farlo, tutti i Cittadini di Vault City. A cominciare da te.}
@@ -107,12 +107,12 @@
 {206}{}{Posso affrontare il test di Cittadinanza?}
 {207}{}{Posso affrontare nuovamente il test di Cittadinanza?}
 {208}{}{Cosa puoi dirmi a proposito di Gecko?}
-{209}{}{Non importa. Magari piu' tardi parleremo ancora.}
+{209}{}{Lascia perdere. Magari piu' tardi parleremo ancora.}
 {210}{}{Beh, se porti a termine il compito che il Primo Cittadino ti ha assegnato, ti verra' concessa la Cittadinanza. Secondo me non ti meriti questo onore, ma immagino che il Primo Cittadino abbia le sue ragioni.}
 {211}{}{Esiste un altro modo per diventare Cittadini?}
 {212}{}{Non sei d'accordo che lei mi offra la Cittadinanza in cambio del mio aiuto?}
 {213}{}{Posso farle qualche altra domanda?}
-{214}{}{Hmm. Addio.}
+{214}{}{Hmm. Arrivederci.}
 {215}{}{Non e' mio compito discutere le decisioni del Primo Cittadino.}
 {216}{}{Esiste un altro modo per diventare Cittadini?}
 {217}{}{Posso farle qualche altra domanda?}
@@ -123,5 +123,5 @@
 {222}{}{Grazie, arrivederci.}
 {223}{}{La loro baraccopoli e' costruita attorno a cio' che resta di una vecchia centrale atomica... una centrale che in QUALCHE modo sono riusciti a far funzionare di nuovo e che adesso ha una perdita di radiazioni! Quelle creature devono essere scacciate e la centrale deve essere disattivata!}
 {224}{}{Hmmm. Posso farti qualche altra domanda?}
-{225}{}{Grazie per le informazioni. Ci vediamo.}
+{225}{}{Grazie per le informazioni. Arrivederci.}
 {226}{}{Hai superato il test di Cittadinanza e sei diventata una Cittadina di Vault City.}

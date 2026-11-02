@@ -10,7 +10,7 @@
 {109}{}{Cosa diavolo...? Stai cercando di uccidermi! Guardia!}
 {110}{}{Parlare o me uccidere te.}
 {111}{}{Nessuno verra' a salvarti. Se vuoi vivere, parla.}
-{112}{}{Okay, okay! Cosa vuoi sapere? Ma non farmi male.}
+{112}{}{Okay, okay! Cosa vuoi sapere? Ma non farmi piu' male.}
 {113}{}{Vault 15 - tu dire.}
 {114}{}{Cosa sai a proposito del Vault 15?}
 {115}{}{Senti, io sono solo uno stronzo qualsiasi, non sono il capo - quello e' Darion. E' lui la persona che cerchi. Ha una faccenda in sospeso con Shady Sands e con quella vecchia bagascia di Tandi. Si e' nascosto nel Vault 15 e le persone che vivono li' credono che stia dalla loro parte. Questo e' tutto quel che so. Giuro!}

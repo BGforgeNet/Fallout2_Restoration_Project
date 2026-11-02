@@ -1,7 +1,7 @@
 {100}{}{Vedi una guardia degli Slag.}
 {150}{}{Arrenditi o morirai!}
 {151}{}{Mi arrendo.}
-{152}{}{Morire!}
+{152}{}{Muori!}
 {153}{}{Ug!}
 {154}{}{Se devi vedere Vegeir, possiamo scortarti da lui.}
 {155}{}{Non ora. Vedro' Vegeir piu' tardi.}

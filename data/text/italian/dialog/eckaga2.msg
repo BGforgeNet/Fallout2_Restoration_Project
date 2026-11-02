@@ -1,7 +1,7 @@
 {100}{}{Vedi un uomo che indossa un'armatura di cuoio.}
 {101}{}{Vedi Kaga.}
 {102}{}{Indossa un'armatura di cuoio e ha la seccante abitudine di parlare di se' in terza persona.}
-{103}{}{Qeusta sara' l'ultima volta che Kaga ti incontra.}
+{103}{}{Questa sara' l'ultima volta che Kaga ti incontra.}
 {104}{}{Dopo che Kaga ti avra' ucciso, radera' Arroyo al suolo.}
 {105}{}{Assaggia l'ira di Kaga!}
 {106}{}{Sono il grande Kaga!}
@@ -10,7 +10,7 @@
 {109}{}{Arrenditi e la tua morte sara' rapida.}
 {110}{}{Kaga tornera'!}
 {111}{}{Non puoi uccidere il grande Kaga!}
-{112}{}{Sei fortunato che Kaga abbia degli affari da sbrigare.}
+{112}{}{Sei fortunato che Kaga abbia degli affari da sbrigare altrove.}
 {113}{}{Kaga ti incontrera' di nuovo.}
 {120}{}{E' di nuovo quel tizio, Kaga.}
 {150}{}{[Un guerriero alto e possente ti sta davanti, i suoi occhi bruciano d'odio mentre ti osserva.] Quindi hanno scacciato Kaga, e poi hanno scelto TE come Prescelto? Ha! Pensi che essere il nipote dell'Abitante del Vault ti renda speciale?! Pensi di essere migliore di me, Kaga il Grande?!}
