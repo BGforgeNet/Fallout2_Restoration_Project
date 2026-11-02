@@ -2,21 +2,21 @@
 {101}{}{Vedi una punk.}
 {102}{}{Vedi una ragazza discretamente carina e sprezzante.}
 {103}{}{Scommetto che il mio ragazzo ti ha proposto una cosa a tre.}
-{104}{}{A volte viaggiare mi fa stare male.}
+{104}{}{A volte sono stufa di viaggiare.}
 {105}{}{Sarebbe davvero bello stabilirsi qui.}
 {106}{}{Penso che potremmo fare grandi cose.}
 {107}{}{Hai mai attraversato l'oceano a ovest?}
 {108}{}{Flirterei volentieri con te, ma al momento non mi interessa.}
 {109}{}{::sarcasmo:: Ci sono davvero un sacco di donne forti qui attorno, eh?}
 {110}{}{Ti aspetti che mi metta a scodinzolare come un cagnolino? Sveglia!}
-{111}{}{Sono unica! Proprio come chiunque altro!}
+{111}{}{Sono unico! Proprio come chiunque altro!}
 {112}{}{A volte questo cinismo disilluso mi annoia.}
-{113}{}{La prossima volta spero di imbattermi in una tribu' di barbari.}
+{113}{}{La prossima volta voglio trovare una tribu' di dark.}
 {114}{}{Ho sentito che l'Imperatore Shi e' dotato di un'intelligenza disumana.}
 {115}{}{Questi Shi hanno davvero un aspetto buffo.}
 {116}{}{Quindi io sarei di mentalita' aperta, eh?}
 {117}{}{Ma tu guarda tutti questi nuovi punk... che buffoni.}
-{118}{}{AHS-9 ci ha imbrogliato e fara' lo stesso con te se non stai attento.}
+{118}{}{AHS-9 ci ha imbrogliato e fara' lo stesso con te se non stai attenta.}
 {119}{}{Il prossimo stronzo che mi chiama "troia", lo salto in padella.}
 {120}{}{Allora com'e' stato, prenderlo da un mutante?}
 {121}{}{Quell'enorme mutante di Francis ti ha fatto la bua?}
@@ -25,12 +25,12 @@
 {124}{}{Non riesco a credere che tu non abbia voluto aiutare Chip.}
 {125}{}{Bastarda egoista. Scommetto che Chip ti avrebbe aiutato.}
 {126}{}{Tutti volevano bene a Chip. Adesso nessuno vuole bene a te.}
-{127}{}{Sei discretamente una stronza, vero?}
+{127}{}{Sei proprio una stronza, vero?}
 {128}{}{Hai mai pensato a qualcun altro oltre a te stessa?}
 {129}{}{Oh, guardate, c'e' l'"eroina".}
 {130}{}{Ehi, guardate! E' quella cogliona egoista!}
 {131}{}{Oh, ancora tu? Come se qualcuno ti volesse rivolgere la parola...}
-{132}{}{Nemico di Chip!}
+{132}{}{Nemica di Chip!}
 {133}{}{E' un vero peccato per la milza.}
 {134}{}{Scommetto che qualcuno si e' mangiato la milza di Chip.}
 {135}{}{Mi chiedo se Chip guarira'.}
@@ -38,7 +38,7 @@
 {137}{}{Anche se non ha la milza, mi sbatterei Chip anche subito!}
 {138}{}{Grazie per aver cercato di recuperare la milza di Chip.}
 {139}{}{Hai fatto del tuo meglio per aiutare Chip.}
-{140}{}{Adesso avremo un'altra barzelletta su Chip da raccontare.}
+{140}{}{Ed ecco un'altra banalita' su Chip.}
 {141}{}{Chissa' se la milza aveva un buon sapore?}
 {142}{}{Yay! Adesso posso avere Chip E la sua milza!}
 {143}{}{Corro subito da Chip!}
@@ -47,11 +47,11 @@
 {146}{}{Sono cosi' felice per Chip.}
 {147}{}{Chip e' un uomo completo, adesso.}
 {148}{}{Che ne dici di divertirti un po' con Chip e con me?}
-{149}{}{Sei stato grande con la milza di Chip.}
+{149}{}{Sei stata grande con la milza di Chip.}
 {150}{}{Sei davvero altruista!}
 {151}{}{Suze e' tornata! Bene!}
 {152}{}{Suze e' tornata... Dannazione!}
-{153}{}{Suze e' proprio una tipa tosta.}
+{153}{}{Suze e' sempre stata gentile con me.}
 {154}{}{Mi piace Suze.}
 {155}{}{Grazie per aver salvato Suze.}
 {156}{}{Certe persone dovrebbero imparare a non andare in giro.}
@@ -60,7 +60,7 @@
 {159}{}{Sara' meglio che vada a vedere come sta Badger.}
 {160}{}{Badger e' carino, ma non e' un adone.}
 {161}{}{Mi domando perche' Badger rutti e scoreggi cosi' tanto.}
-{162}{}{Badger probabilmente rutta perche' e' triste.}
+{162}{}{Badger probabilmente scoreggia perche' e' triste.}
 {163}{}{Povero Badger.}
 {164}{}{Quello nel quale viviamo e' proprio un mondo difficile.}
 {165}{}{Suze avrebbe dovuto stare piu' attenta.}

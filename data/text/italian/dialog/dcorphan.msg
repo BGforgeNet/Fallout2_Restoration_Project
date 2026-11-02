@@ -14,10 +14,10 @@
 {230}{}{Questo e' il locale di Frankie.}
 {231}{}{Sei un amico di Frankie?}
 {232}{}{Questo posto ha un cattivo odore.}
-{233}{}{Il liquore di Frankie e' molto caro… cosi' ho sentito dire.}
+{233}{}{Il liquore di Frankie e' molto caro... cosi' ho sentito dire.}
 {240}{}{Becky e' cosi' gentile...}
 {241}{}{Questo e' il locale di Becky.}
-{242}{}{Becky fa i prezzi migliori sui drink… cosi' ho sentito dire.}
+{242}{}{Becky fa i prezzi migliori sui drink... cosi' ho sentito dire.}
 {243}{}{Rebecca non mi lascia giocare ai suoi giochi.}
 {244}{}{Becky e' cosi' carina...}
 {245}{}{Hai incontrato Rebecca? Vorrei tanto che fosse la mia mamma.}
@@ -35,7 +35,7 @@
 {291}{}{Ciao.}
 {292}{}{Non farlo.}
 {293}{}{Ehi! Frankie ha della bella roba per te.}
-{300}{}{Dovresti proprio entrare, Becky e' molto carina.}
+{300}{}{Dovresti proprio entrare, Becky e' molto gentile.}
 {301}{}{Sto facendo la guardia.}
 {302}{}{Wow, sei carina.}
 {303}{}{Ciao.}
@@ -45,10 +45,10 @@
 {310}{}{Ahhhh! Lasciami in pace.}
 {311}{}{Aiuto, mi reprimono!}
 {312}{}{Guardate la violenza insita nel sistema.}
-{313}{}{Non ho fatto niente'}
+{313}{}{Non ho fatto niente}
 {314}{}{Ahhhh!}
-{315}{}{Mi hai mancato.}
-{316}{}{Sei cattivo.}
+{315}{}{Mancato!}
+{316}{}{Ce l'hai tu!}
 {317}{}{Non farlo!}
 {318}{}{Smettila.}
 {319}{}{Non ti ho fatto nulla!}

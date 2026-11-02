@@ -1,9 +1,9 @@
 {100}{}{Vedi un punk con la testa parzialmente rasata.}
 {101}{}{Vedi Ryan, la Fonte di Tutta la Saggezza.}
-{102}{}{Vedi un punk che ha un aspetto arrogante e ridicolo allo stesso tempo.}
-{103}{}{Per andare avanti in questa merda devi combattere, amico.}
+{102}{}{Vedi un punk che ha un'aria spavalda e divertita.}
+{103}{}{Per andare avanti in questa merda devi combattere, amica.}
 {104}{}{Questo posto e' un buco di merda.}
-{105}{}{Andro' avanti finche' non sanguinerai. Scusa, ho gridato troppo?}
+{105}{}{Ti sbattero' finche' non sanguinerai. Ops, l'ho detto ad alta voce?}
 {106}{}{Ay carumba! Nalgas con queso!}
 {107}{}{Woo hoo hoo hoo hoo!}
 {108}{}{Me ne vado.}
@@ -22,6 +22,6 @@
 {121}{}{Amico!}
 {122}{}{Awww, DAAAAI!}
 {123}{}{Aggro-suuuuuuuuuurge!}
-{124}{}{Non costringermi a mettere il broncio.}
+{124}{}{Non costringermi a tirare fuori la faccia cattiva.}
 {125}{}{Gia', no?}
 {126}{}{Esatto, signora. Heh heh heh.}

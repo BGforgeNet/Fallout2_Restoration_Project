@@ -1,7 +1,7 @@
-{100}{}{Apri il cassetto e trovi file e appunti ordinati in fila.}
+{100}{}{Apri il cassettone e trovi fascicoli e appunti ordinati in fila.}
 {101}{}{Cerca nel cassettone.}
 {102}{}{Te ne vai.}
-{103}{}{Mentre cerchi tra i registri nel cassetto, noti una sottile valigetta di pelle infilata con cura in fondo.}
+{103}{}{Mentre cerchi tra i registri nel cassettone, noti una sottile valigetta di pelle infilata con cura in fondo.}
 {104}{}{Tira fuori la valigetta.}
 {105}{}{Ignora e continua a cercare.}
 {106}{}{Passano 30 minuti e non trovi nulla di importante. Tutto cio' che scopri e' che Chad tiene registri che documentano ogni momento della sua vita. 

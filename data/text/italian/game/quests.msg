@@ -70,7 +70,7 @@
 {807}{}{Snida Pretty Boy Lloyd, recupera i soldi rubati, e infliggigli una... punizione esemplare.}
 {808}{}{Va' da Renesco e incassa i 1000$ per Mr. Salvatore.}
 {809}{}{Fa' la guardia ad una transazione segreta che avverra' nel deserto.}
-{810}{}{Trova degli inibitori di endorfina per creare un'antidoto contro il Jet.}
+{810}{}{Trova degli inibitori di endorfina per creare un antidoto contro il Jet.}
 {811}{}{Fa' scoppiare la distilleria di Wright sotto la stazione ferroviaria.}
 {812}{}{Uccidi Westin a NCR facendo in modo che non sembri un assassinio.}
 {813}{}{Ammazza Carlson a NCR.}
@@ -130,7 +130,7 @@
 {1522}{}{Elimina il dottor Wong senza allertare gli Shi.}
 {1523}{}{Sgombera il laboratorio del dottor Sheng.}
 {1600}{}{Occupati del Deathclaw.}
-{1601}{}{Ripara K9.}
+{1601}{}{Ripara K-9.}
 {1602}{}{Recupera il FOB dal comandante della base.}
 {1700}{}{}
 {1800}{}{Uccidi la bestia sotto la chiesa.}
@@ -151,14 +151,14 @@
 {1906}{}{Riunisci Sulik e sua sorella, Kurisu.}
 {1907}{}{Accompagna Krom all'incontro con il mercante.}
 {1908}{}{Porta alcune erbe (5 Radici di Xander, 3 Fiori di Broc) allo Sciamano.}
-{2000}{}{Sistema l’Ologramma 00000.}
+{2000}{}{Sistema l'Ologramma 00000.}
 {2001}{}{Ripara il computer vocale.}
 {2002}{}{Risolvi il problema delle piante.}
-{2003}{}{Risolvi il problema dell’illuminazione dell’EPA.}
+{2003}{}{Risolvi il problema dell'illuminazione dell'EPA.}
 {2004}{}{Raccogli pelli di gecko per il Dottore.}
-{2005}{}{Sistema l’ologramma che parla con interferenze.}
-{2006}{}{Trova l’attrezzo lasciato dal Dottore.}
-{2007}{}{Testa il Solar Scorcher per il Direttore della Scienza.}
+{2005}{}{Sistema l'ologramma che parla con interferenze.}
+{2006}{}{Trova l'attrezzo lasciato dal Dottore.}
+{2007}{}{Testa il Bruciatore Solare per il Direttore della Scienza.}
 {2100}{}{}
 {2200}{}{}
 {2300}{}{}

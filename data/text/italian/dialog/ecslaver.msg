@@ -1,6 +1,6 @@
 {100}{}{Questi qua ci frutteranno un bel gruzzolo, al mercato.}
 {101}{}{Cerca di non danneggiare la merce.}
-{102}{}{Sarai un perfetto schiavo.}
+{102}{}{Hai un bel caratterino. Ci pagheranno bene per te.}
 {103}{}{Non va bene.}
 {104}{}{Ritirata!}
 {105}{}{Forse e' meglio che mi metta a vendere mobili.}

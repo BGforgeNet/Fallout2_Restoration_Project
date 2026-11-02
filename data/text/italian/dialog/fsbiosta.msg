@@ -23,20 +23,20 @@
 {122}{}{Programma Xeno.}
 {123}{}{Note recenti sul Personale.}
 {124}{}{Indietro.}
-{125}{}{(Dopo circa venti minuti metti insieme queste informazioni: Usando le basi del virus FEV, il Dr. Long Wang e' convinto di essere in grado di creare dei soldati mutanti. Crea quindi un siero che fornisce interessanti risultati negli esperimenti sui roditori. Il Dr. Long Wang si inietta una dose di siero e si dissolve. Il Dr. Sheng decide di non proseguire questa linea di ricerca. Con la morte del dottor Long, il Dr. Sheng diventa il responsabile capo. Sheng richiede che gli sforzi siano tutti concentrati sullo studio di forme di vita vegetale in grado di eliminare le radiazioni.)}
+{125}{}{(Dopo circa venti minuti metti insieme queste informazioni: Usando le basi del virus FEV, il Dr. Long Wang e' convinto di essere in grado di creare dei soldati mutanti. Crea quindi un siero che fornisce interessanti risultati negli esperimenti sui roditori. Il Dr. Long Wang si inietta una dose di siero e si dissolve. Il Dr. Sheng decide di non proseguire questa linea di ricerca. Con la morte del Dr. Long, il Dr. Sheng diventa il responsabile capo. Sheng richiede che gli sforzi siano tutti concentrati sullo studio di forme di vita vegetale in grado di eliminare le radiazioni.)}
 {126}{}{Programma botanico.}
 {127}{}{Programma Xeno.}
 {128}{}{Note recenti sul Personale.}
 {129}{}{Indietro.}
-{130}{}{"Il soggetto su cui speravamo di condurre una serie di esperimenti significativi e' scomparso, presumibilmente distrutto o rubato dagli Hubologi. Ulteriori indagini si sono rivelate infruttuose. Fino a quando non verranno ottenuti altri esemplari, questo database rimarra' inoperativo."
-- Dott. Sheng}
+{130}{}{"Il soggetto su cui speravamo di condurre una serie di esperimenti significativi e' scomparso, presumibilmente distrutto o rubato dagli Hubologisti. Ulteriori indagini si sono rivelate infruttuose. Fino a quando non verranno ottenuti altri esemplari, questo database rimarra' inoperativo."
+- Dr. Sheng}
 {131}{}{Programma botanico.}
 {132}{}{Programma genetico.}
 {133}{}{Note recenti sul Personale.}
 {134}{}{Indietro.}
-{135}{}{Dott. Wong: Nuovo responsabile del Progetto Biologia, oltre alla Ricerca Fisica.
-Dott. Sheng: Responsabile del Progetto Biologia fino a due mesi fa. Un mese di sabbatico con il nuovo "siero di sentienza botanica" e' giustificato; la prolungata assenza rimane un mistero. Il Dott. Wong assume il controllo del Programma Biologia.
-Dott. Long: Recentemente deceduto a causa del siero FEV.}
+{135}{}{Dr. Wong: Nuovo responsabile del Progetto Biologia, oltre alla Ricerca Fisica.
+Dr. Sheng: Responsabile del Progetto Biologia fino a due mesi fa. Un mese di sabbatico con il nuovo "siero di sentienza botanica" e' giustificato; la prolungata assenza rimane un mistero. Il Dr. Wong assume il controllo del Programma Biologia.
+Dr. Long: Recentemente deceduto a causa del siero FEV.}
 {136}{}{Programma botanico.}
 {137}{}{Programma genetico.}
 {138}{}{Programma Xeno.}

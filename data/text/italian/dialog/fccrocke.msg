@@ -1,6 +1,6 @@
-{100}{}{Vedi un scienziato piuttosto giovane, con un accenno di calvizie. Sembra assorto nel suo lavoro.}
-{101}{}{Vedi Crocket, lo scienziato hubologista.}
-{102}{}{Vedi un scienziato piuttosto giovane, con un accenno di calvizie. Sembra un secchione trasandato.}
+{100}{}{Vedi uno scienziato piuttosto giovane, con un accenno di calvizie. Sembra assorto nel suo lavoro.}
+{101}{}{Vedi Crockett, lo scienziato hubologista.}
+{102}{}{Vedi uno scienziato piuttosto giovane, con un accenno di calvizie. Sembra un secchione trasandato.}
 {103}{}{Si'? Che cosa vuoi?}
 {104}{}{Agh. Um. Duur.}
 {105}{}{Mi manda il Dr. Jing. Vuole delle Power-Armor rinforzate.}
@@ -15,11 +15,11 @@
 {114}{}{Posso pagare.}
 {115}{}{Ti lascero' in vita.}
 {116}{}{Niente. Non importa.}
-{117}{}{Sono Crocket. Sono uno scienziato e un ripara-tutto. Posso tornare al mio lavoro?}
+{117}{}{Sono Crockett. Sono uno scienziato e un ripara-tutto. Posso tornare al mio lavoro?}
 {118}{}{No. Ho delle altre domande.}
 {119}{}{Si', certo.}
-{120}{}{Io sviluppo nuove tecnologie e in cambio becco una parte dei privilegi riservati al culto, se capisci cosa intendo.}
-{121}{}{Dunque tu non sei Hubologista?}
+{120}{}{Io sviluppo nuove tecnologie e in cambio mi faccio la mia parte di adepte, se capisci cosa intendo.}
+{121}{}{Dunque tu non sei un Hubologista?}
 {122}{}{Ho capito. Ho delle altre domande.}
 {123}{}{No. Che cosa intendi?}
 {124}{}{Quali nuove tecnologie hai sviluppato?}
@@ -28,7 +28,7 @@
 {127}{}{Si'.}
 {128}{}{No.}
 {129}{}{Ottimo. Ti costera' 10.000$, sull'unghia, non trattabili. Mi servono delle apparecchiature nuove.}
-{130}{}{10.000$? E' fuori di testa! Non ho tutti quei soldi!}
+{130}{}{10.000$? E' una follia! Non ho tutti quei soldi!}
 {131}{}{D'accordo. Ecco a te.}
 {132}{}{Tornero'.}
 {133}{}{::sembra divertito::
@@ -40,9 +40,9 @@ Stai davvero minacciandomi per questo?}
 {138}{}{Tornero' per ritirare l'armatura.}
 {139}{}{Non sara' facile applicare la mia magia su di essa se non ce l'hai con te. Torna quando l'avrai.}
 {140}{}{Ho delle altre domande.}
-{141}{}{Addio.}
+{141}{}{Ciao.}
 {142}{}{::si stringe nelle spalle::
-Vuoi quest'armatura o no? Sono $10.000 prezzo fisso.}
+Vuoi quest'armatura o no? Sono 10.000$, prezzo fisso.}
 {143}{}{Tornero'.}
 {144}{}{Bene. Ecco.}
 {145}{}{Questo e' un furto. Assolutamente no.}
@@ -61,12 +61,12 @@ Provaci, amico. Ti ritroverai le guardie addosso e non imparerai mai come rinfor
 {156}{}{Niente male. Ci vediamo.}
 {157}{}{Vediamo un po'... Ho costruito un reattore nucleare per l'astronave. Ho ideato la procedura per rinforzare le Power-Armor. E riparo le cose che sono rotte.}
 {158}{}{Capisco. Beh, ho delle altre domande.}
-{159}{}{Hmm. Devo andare. Arrivederci.}
+{159}{}{Hmm. Devo andare. Ciao.}
 {160}{}{Ehi, non ho niente contro di te. Non farmi del male.}
 {161}{}{Ho qualche domanda per te.}
 {162}{}{Sono qui per la mia armatura.}
 {163}{}{Troppo tardi.}
-{164}{}{Addio.}
+{164}{}{Ciao.}
 {165}{}{Non e' ancora pronta. Devi darmi tempo!}
 {166}{}{Bene. Ho delle domande.}
 {167}{}{Bene. Tornero'.}
@@ -77,14 +77,14 @@ Provaci, amico. Ti ritroverai le guardie addosso e non imparerai mai come rinfor
 {172}{}{Ho finito il materiale per farlo. Mi spiace.}
 {173}{}{Allora puoi rispondere a delle domande.}
 {174}{}{Allora puoi morire.}
-{175}{}{Oh. Diamine. Addio.}
+{175}{}{Oh. Accidenti. Ciao.}
 {176}{}{Allora dov'e' il mio carburante? Mi avevi promesso il carburante, stronzo.}
 {177}{}{Lo avrai, lo avrai. Adesso rispondi a qualche domanda.}
 {178}{}{Certo, beh... ti ho imbrogliato.}
-{179}{}{Per l'ultima volta. GUARDIE!}
+{179}{}{E per l'ultima volta. GUARDIE!}
 {180}{}{Muori, stronzo.}
 {181}{}{Merda. Io taglio la corda.}
 {182}{}{Ok. E adesso cosa vuoi?}
-{183}{}{Sei pronto a pagarmi i diecimila, stavolta?}
+{183}{}{Stavolta me li paghi, i diecimila?}
 {184}{}{Lasciamela per un giorno e io faro' il lavoro. Ricorda, pero': questa e' l'ultima che posso fare.}
 {185}{}{Ehi, ho qui un'altra armatura che vorrei tu potenziassi.}

@@ -1,7 +1,7 @@
 {100}{}{Un uomo che indossa una Power-Armor.}
 {101}{}{Artu', figlio di Uther Pendragon.}
 {102}{}{Ha la patta aperta.}
-{103}{}{Salute a voi, viandante. Il mio e' Artu', figlio di Uther Pendragon, della Confraternita d'Acciaio. Stiamo cercando la Sacra Granata di Antiochia. L'avete voi, per caso, vista?}
+{103}{}{Salute a voi, viandanti. Il mio nome e' Artu', figlio di Uther Pendragon, della Confraternita d'Acciaio. Stiamo cercando la Sacra Granata di Antiochia. L'avete voi, per caso, vista?}
 {104}{}{Sacra che?}
 {105}{}{Risposta del giocatore}
 {106}{}{Unga.}
@@ -20,7 +20,7 @@
 {119}{}{Perche'?}
 {120}{}{Umm... perche' e' davvero l'unica cosa virtuosa da fare.}
 {121}{}{Perche'?}
-{122}{}{Cos...uhm...Senti bello, noi qui saremmo davvero occupati. Hai intenzione di aiutarci o no? L'hai vista 'sta Sacra Granata d'Antiochia o no?}
+{122}{}{Cos... uhm... Senti, bello, noi qui saremmo davvero occupati. Hai intenzione di aiutarci o no? L'hai vista 'sta Sacra Granata d'Antiochia o no?}
 {123}{}{Si'.}
 {124}{}{No.}
 {125}{}{E perche' non l'avete detto subito? Se gentilmente ci poteste dire dove l'avete vista, noi c'incammineremo e voi potrete tornare ad occuparvi degli affari vostri.}
@@ -33,7 +33,7 @@
 {132}{}{[FINE]}
 {133}{}{GECK, avete detto? Beh si', ne abbiamo gia' due. Non ce ne serve un altro. Grazie lo stesso.}
 {134}{}{Dal momento che ne avete due, magari potreste darne uno a me.}
-{135}{}{No. No. Non ci e' permesso farlo. Non sarebbe giusto farvi concludere la vostra missione cosi' facilmente. Andate a prendervelo da solo. [Indica la stessa direzione che avevi indicato tu quando gli hai detto dove si trovava la Sacra Granata di Antiochia.]}
+{135}{}{No. No. Non ci e' permesso farlo. Non sarebbe giusto farvi concludere la vostra missione cosi' facilmente. Ce ne sono altri da quella parte. Andate a prendervelo da solo. [Indica la stessa direzione che avevi indicato tu quando gli hai detto dove si trovava la Sacra Granata di Antiochia.]}
 {136}{}{[FINE]}
 {200}{}{Parlate voi la lingua del re?}
 {201}{}{Ehilaaaa'.}
@@ -44,4 +44,4 @@
 {206}{}{Ti preeeeeeego! Devo chiederti una cosa importante.}
 {207}{}{Adesso dobbiamo continuare la nostra missione alla ricerca della Sacra Granata di Antiochia. Vieni, Patsy.}
 {300}{}{La nostra missione e' stata compiuta!}
-{301}{}{Arthur, al tuo servizio.}
+{301}{}{Artu', al vostro servizio.}

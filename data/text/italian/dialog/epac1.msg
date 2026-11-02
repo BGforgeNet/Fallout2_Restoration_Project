@@ -8,9 +8,9 @@
 {204}{}{Sono andati via tutti...}
 {205}{}{Perche' dovrei farlo?}
 {206}{}{Noioso...}
-{207}{}{...SINGH...}
+{207}{}{...SNIF...}
 {208}{}{La vita... non parlarmi della vita.}
 {209}{}{Penso che dovresti sapere che mi sento molto depresso.}
-{210}{}{Perdonami per respirare, cosa che non faccio comunque quindi non so nemmeno perche' lo dica, oh Dio, sono cosi' depresso.}
+{210}{}{Scusa se respiro, cosa che comunque non faccio mai, quindi non so perche' mi prendo la briga di dirlo, oh Dio, sono cosi' depresso.}
 {500}{}{Si', spingimi giu' da una scogliera.}
 {501}{}{***bzzt Smettila! *** bzzt}

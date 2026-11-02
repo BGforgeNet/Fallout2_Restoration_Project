@@ -1,8 +1,8 @@
 {100}{}{Vedi un piccolo terminale di computer.}
 {101}{}{Vedi il terminale del computer dell'Abbazia.}
 {102}{}{Vedi un piccolo terminale di computer. Sembra essere funzionante.}
-{103}{}{Accedi al computer e passi in rassegna tutti i file disponibili. Trovi alcuni file contenenti le parole chiave "G.E.C.K." e "Vault".}
-{104}{}{Leggi informazioni GECK.}
+{103}{}{Accedi al computer e passi in rassegna tutti i file disponibili. Trovi alcuni file contenenti le parole chiave "GECK" e "Vault".}
+{104}{}{Leggi le informazioni sul GECK.}
 {105}{}{Leggi le informazioni sul Vault.}
 {106}{}{ERRORE! Tessera di accesso non trovata. Inserire la tessera di accesso nell'apposito slot.}
 {107}{}{(Inserisci la tessera di accesso nello slot) BIP!, tessera di accesso accettata. CARICAMENTO Winblows 2075......FATTO.}
@@ -18,9 +18,9 @@
 {117}{}{Sfoglia i file riguardanti il "Vault".}
 {118}{}{Il programma di ricerca sembra essere un po' troppo difficile per te.}
 {119}{}{I tuoi occhi si spalancano e il tuo cuore accelera quando scopri quella che sembra essere una vecchia pubblicita' per un Garden of Eden
- Creation Kit. La pubblicita' raffigura un personaggio dei cartoni animati sorridente in una tuta da vault che regge una grande custodia con scritto "Kit di Sopravvivenza". E'
+ Creation Kit. La pubblicita' raffigura un personaggio dei cartoni animati sorridente in una tuta del Vault che regge una grande custodia con scritto "Kit di Sopravvivenza". E'
  quasi come se il bastardo sorridente ti stesse prendendo in giro.}
-{120}{}{Sfoglia i file, che contengono per lo piu' propaganda governativa su quanto sarebbe stata meravigliosa la vita nei Vault.
+{120}{}{Sfogli i file, che contengono per lo piu' propaganda governativa su quanto sarebbe stata meravigliosa la vita nei Vault.
  Scopri che a meta' del XXI secolo, il governo degli Stati Uniti commissiono' alla Vault-Tec la costruzione di 122 Vault in tutti gli Stati Uniti.
  Questi Vault erano destinati a fungere da rifugi per un massimo di 1.000 cittadini americani in caso di olocausto nucleare. All'interno dei confini sicuri
  dei Vault sotterranei, gli Abitanti del Vault avrebbero potuto vivere un'esistenza lussuosa in attesa del segnale che li informasse che
@@ -31,8 +31,8 @@
  sei esperto di come vengono solitamente archiviate le informazioni, forse cercare per argomento potrebbe darti qualcosa di utile.}
 {123}{}{[AVANTI]}
 {124}{}{Secondo la pubblicita', il kit include un "Replicatore di Base", che "replica cibo e oggetti fondamentali necessari per costruire
- il tuo nuovo mondo", un "Lettore di Holodisc con Biblioteca", che "include selezioni dalla Biblioteca del Congresso, enciclopedie complete,
- e altre informazioni salvavita, contenute in quattrocentosessanta pratici holodisc!" e contiene persino una "Penna Torcia Tascabile!"
+ il tuo nuovo mondo", un "Lettore di Olodischi con Biblioteca", che "include selezioni dalla Biblioteca del Congresso, enciclopedie complete,
+ e altre informazioni salvavita, contenute in quattrocentosessanta pratici olodischi!" e contiene persino una "Penna Torcia Tascabile!"
  Sicuramente, questo miracoloso dispositivo e' esattamente cio' di cui hai bisogno per salvare il tuo villaggio morente.}
 {125}{}{Leggi altro.}
 {126}{}{Continui a sfogliare i file, ma l'unica menzione che trovi del Vault 13 afferma semplicemente che si trova in California,
@@ -60,7 +60,7 @@
 {200}{}{Sasso, Carta, Forbice V.0.3. Seleziona un'opzione.}
 {201}{}{Scegli SASSO.}
 {202}{}{Scegli CARTA.}
-{203}{}{Seleziona FORBICE.}
+{203}{}{Scegli FORBICE.}
 {204}{}{Torna al menu principale.}
 {205}{}{Il terminale fa la sua scelta.....Calcolo.....Il terminale vince!}
 {206}{}{Il terminale fa la sua scelta.....Calcolo.....L'utente vince!}
@@ -89,7 +89,7 @@
 {424}{}{Dopo alcune ore di lettura non impari nulla di nuovo sull'arte della persuasione.}
 {430}{}{Indietro.}
 {500}{}{Mentre leggi altri articoli, scopri che il GECK e' stato sviluppato dalla Future-Tec, una divisione della Vault-Tec, e che
- era dotazione standard in tutti i vault della Vault-Tec. Era destinato ad essere usato all'uscita da un Vault, per aiutare a ristabilire la vita
+ era dotazione standard in tutti i Vault della Vault-Tec. Era destinato ad essere usato all'uscita da un Vault, per aiutare a ristabilire la vita
  negli ambienti ostili di un mondo devastato dalla guerra nucleare.}
 {501}{}{Leggendo oltre, scopri che il GECK non e' proprio il dispositivo miracoloso che la pubblicita' lasciava intendere. Il "Replicatore di Base"
  non e' altro che un sistema di fertilizzazione contenente semi alimentari, integratori del suolo e sostanze chimiche appositamente progettate per
@@ -101,5 +101,5 @@
  sia destinata alla produzione di energia per la citta'. Il GECK contiene persino istruzioni per smontare sezioni del
  Vault per creare case e strutture difensive per la nuova comunita'. Mentre finisci di leggere i file, decidi che anche se
  non e' il dispositivo magico che l'Anziana sembra credere, trovare un GECK e' ancora la tua migliore opzione se speri di salvare la tua tribu'.}
-{1000}{}{Carichi l'Holodisc di Botanica dell'EPA.}
+{1000}{}{Carichi l'Olodisco di Botanica dell'EPA.}
 {2000}{}{Formatti i database di libri dell'Abbazia.}

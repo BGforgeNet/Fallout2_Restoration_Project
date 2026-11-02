@@ -38,18 +38,18 @@
 {222}{}{Hanno portato una donna da ibernare. Non hanno detto perche'; solo che era una questione top secret. Era davvero notevole.
  Minute, con tratti cinesi, e c'era qualcosa nei suoi occhi. Ha messo al tappeto due agenti dei servizi segreti quando ha scoperto
  cosa avevamo in mente. Li ha colti di sorpresa e li ha aperti entrambi con uno dei bisturi di Delnay, Cristo santo. Una scena incredibile.
- Il terzo e' riuscito a immobilizzarla. Non e' che avrebbe passato il resto della vita qui sotto anche se li avesse uccisi tutti, comunque.
- Ora e' incosciente e stanno preparando la sua vasca. E' proprio accanto a quella di quel psicopatico di Patrick, tra l'altro. Che peccato.
+ Il terzo e' riuscito a immobilizzarla. Tanto, anche se li avesse uccisi tutti, avrebbe comunque passato il resto della vita qui sotto.
+ Ora e' incosciente e stanno preparando la sua vasca. E' proprio accanto a quella di quello psicopatico di Patrick, tra l'altro. Che peccato.
  Mi sarebbe piaciuto conoscerla meglio.
  -Dr. David Kimble, 23/10/2077}
-{230}{}{Registro #81977: Dexter "Dex" Patrick e' uno specimen piuttosto interessante. E' un assassino sociopatico, narcisista e misogino,
- noto per occasionali episodi di necrofilia e cannibalismo. E' freddo fino all'estremo, senza alcun rimorso per le sue vittime,
+{230}{}{Registro #81977: Dexter "Dex" Patrick e' un esemplare piuttosto interessante. E' un assassino sociopatico, narcisista e misogino,
+ noto per occasionali episodi di necrofilia e cannibalismo. E' estremamente freddo, senza alcun rimorso per le sue vittime,
  che andavano da bambini innocenti ad anziani e disabili. I suoi bersagli preferiti erano giovani donne attraenti, che di solito
  seduceva prima di ucciderle brutalmente.}
 {231}{}{[AVANTI]}
 {232}{}{Nonostante il suo comportamento antisociale, rimane sorprendentemente socievole, persino affascinante. Infatti, diverse
- membri del personale femminile sembrano esserne attratte, pur conoscendo le numerose atrocita' che ha commesso. Le vittime
- confermate di Dex sono attualmente 68, anche se lui ha vantato che il numero reale supera ampiamente le tre cifre.
+ dipendenti donne sembrano esserne attratte, pur conoscendo le numerose atrocita' che ha commesso. Le vittime
+ confermate di Dex sono attualmente 68, anche se lui si e' vantato che il numero reale supera ampiamente le tre cifre.
  Sebbene Dex si sia dimostrato un bugiardo compulsivo, trovo comunque difficile dubitare della veridicita' della sua affermazione.}
 {233}{}{[AVANTI]}
 {234}{}{L'unico legame emotivo che Dex sembra avere e' verso un idolo rock 'n roll della meta' del XX secolo, che ammira
@@ -67,24 +67,24 @@
  importanza. Spero solo di essere ancora vivo per riprendere il mio lavoro quando quel giorno arrivera'.
  -Dr. Dustin C. Delnay, 13/04/2075}
 {240}{}{Registro #80052: Il Sergente Christopher "Cat" Jules e' stato assegnato al reparto di sicurezza militare dell'EPA il 17/02/2074.
- Prima di questo, era parte di un'unita' di ricognizione della 205a Aviotrasportata. Il Sergente ha un impressionante record di combattimento
+ Prima di questo, era parte di un'unita' di ricognizione della 205a Aviotrasportata. Il Sergente ha uno stato di servizio impressionante
  ed e' uno dei migliori specialisti del suo reparto nelle armi energetiche e nel combattimento disarmato. Tuttavia, questi risultati sono
  offuscati da una lunga storia di accuse per piccoli furti, ripetute infrazioni per uniforme non regolamentare e un atteggiamento
  di estrema arroganza verso i superiori.}
 {241}{}{[AVANTI]}
-{242}{}{Il Sgt. Jules e' stato reclutato come soggetto di prova per il Progetto di Potenziamento dei Riflessi Umani il 10/05/2075, in cambio della rimozione
- di alcune di queste segnalazioni dal suo fascicolo. Sono sorte complicazioni durante il primo test e il Sgt. Jules e' stato sedato per la sicurezza
+{242}{}{Il Serg. Jules e' stato reclutato come soggetto di prova per il Progetto di Potenziamento dei Riflessi Umani il 10/05/2075, in cambio della rimozione
+ di alcune di queste segnalazioni dal suo fascicolo. Sono sorte complicazioni durante il primo test e il Serg. Jules e' stato sedato per la sicurezza
  sua e di chi gli stava intorno.}
 {243}{}{[AVANTI]}
-{244}{}{Sono passati alcuni giorni e il Sgt. Jules sembra in buona salute, ma ha sviluppato canini allungati e
+{244}{}{Sono passati alcuni giorni e il Serg. Jules sembra in buona salute, ma ha sviluppato canini allungati e
  alcune caratteristiche eccentriche oltre agli obiettivi del progetto, cioe' riflessi migliorati e capacita' sensoriali aumentate.
  Ho inviato diversi rapporti al Comandante della base chiedendo ulteriori fondi, ma purtroppo sembra che ci siano persone che non
- desiderano che il mio progetto continui. E' un vero peccato, poiche' i campioni di tessuto e i rapporti psicologici del Sgt. Jules indicano
+ desiderano che il mio progetto continui. E' un vero peccato, poiche' i campioni di tessuto e i rapporti psicologici del Serg. Jules indicano
  solo lievi deformazioni e una tendenza a un'attenzione leggermente ridotta. A parte questo, e' perfettamente idoneo
  al servizio e, anzi, probabilmente piu' capace di prima grazie al trattamento. Finche' non arriveranno nuovi fondi
- per questo progetto, il Sgt. Jules restera' in animazione sospesa.
+ per questo progetto, il Serg. Jules restera' in animazione sospesa.
  -Dr. R.D. Crichton, 11/04/2075}
-{300}{}{Scegli un argomento:}
+{300}{}{Scegli un soggetto:}
 {301}{}{Sergente Christopher "Cat" Jules}
 {302}{}{Dexter "Dex" Patrick}
 {303}{}{Kitsune}

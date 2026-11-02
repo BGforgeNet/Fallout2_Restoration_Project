@@ -5,7 +5,7 @@
 {104}{}{Gruh?}
 {105}{}{Chi sei?}
 {106}{}{Mi chiamo Bob. Saltbeef Bob, yep. E tu?}
-{107}{}{Quale hai detto che era il tuo nome, straniero? Io sono Saltbeef Bob.}
+{107}{}{Come hai detto che ti chiami, straniero? Io sono Saltbeef Bob.}
 {108}{}{[Nome del giocatore]}
 {109}{}{Saltbeef? Che razza di nome e' mai questo?}
 {110}{}{Cosa fai qui?}
@@ -23,13 +23,13 @@
 {122}{}{Ehi, mi stai bevendo tutta la bottiglia! Smettila!}
 {123}{}{Rahhhg!}
 {124}{}{Era il '78 e io e Bessie - il miglior robot che un uomo abbia mai avuto - stavamo cercando dell'u-ra-ni-o a ovest di qui. Non ne avevamo trovato nemmeno l'ombra, quando all'improvviso cinque - no, sono sicuro fossero dieci - Deathclaw ci hanno assaliti.}
-{125}{}{Combattevano come furie. Ho sparato cosi' tanto che ho fuso la canna del mio fucile e stavo per scontrarmi con loro coltello contro artigli. Alla fine sono stato costretto a scappare, e per tenerli a distanza lanciavo rocce contro di loro in continuazione.}
-{126}{}{Beh, le cose si stavano facendo grigie quando mi sono imbattuto in questa grotta. Credevo di essere spacciato. Ho pensato si trattasse della loro tana - ma avevo la mia torcia e allora sono entrato. E fu allora che lo vidi.}
+{125}{}{Combattevano come furie. Ho sparato cosi' tanto che ho fuso la canna del mio fucile e stavo per scontrarmi con loro coltello contro artigli, quando la vecchia Bessie ha bruciato il suo ultimo circuito. Beh, ho cercato di salvarla, ma non c'e' stato niente da fare. Alla fine sono stato costretto a scappare, e per tenerli a distanza lanciavo rocce contro di loro in continuazione.}
+{126}{}{Beh, le cose si stavano facendo grigie quando mi sono imbattuto in questa grotta. Credevo di essere spacciato. Ho pensato si trattasse della loro tana - ma avevo la mia torcia e allora sono entrato. Hoo-wee, era una grotta profonda. E fu allora che lo vidi.}
 {127}{}{Era una porta grande, enorme, simile a quelle che si vedono nei vecchi filmati. Grande e fatta d'acciaio. E sopra c'era inciso un grande, enorme 13!}
 {128}{}{Lo sapevo, l'avevo trovato: la miniera d'oro, il Vault 13. Mi sono seduto e ho disegnato una mappa. Mi sono quasi ammazzato per uscire da li', evitando i Deathclaw e poi affrontando il sole del deserto senza un goccio d'acqua.}
 {129}{}{Quando sono riuscito a raggiungere Shady Sands ero praticamente morto. Mi hanno portato dal dottore e mi hanno rimesso in sesto, ma il dottore ha rubato la mia mappa. Io lo so e questo e' tutto quel che ho da dire.}
 {130}{}{(Continua)}
-{131}{}{Dannazione, questo e' un nome bello e buono, ecco cos'e'! I ragazzi mi hanno lasciato cucinare per un po' e se tu non fossi cosi' presuntuoso lo sapresti e sapresti anche rispettare quelli piu' anziani di te.}
+{131}{}{Dannazione, questo e' un nome bello e buono, ecco cos'e'! I ragazzi mi lasciano cucinare, qui, e se tu non fossi cosi' presuntuoso lo sapresti e sapresti anche rispettare quelli piu' anziani di te.}
 {132}{}{Scusami, vecchio. Non volevo farti arrabbiare.}
 {133}{}{Va' a quel paese, vecchio!}
 {134}{}{Farmi arrabbiare? Farmi arrabbiare?! Tu non mi hai ancora visto arrabbiato! Adesso sparisci dalla mia vista prima che mi arrabbi sul serio! Forza! Sparisci!}
@@ -44,7 +44,7 @@
 {143}{}{Fulmini e saette, ancora tu? Fa' sparire quel tuo brutto muso dalla mia vista!}
 {144}{}{Va' a quel paese!}
 {145}{}{Sei davvero irascibile, vecchio.}
-{146}{}{Diavoli, se lo sono! Non hai un po' da bere con te, vero? Per un vecchio...}
+{146}{}{Diavolo, se lo sono! Non hai un po' da bere con te, vero? Per un vecchio...}
 {147}{}{Si'.}
 {148}{}{No.}
 {149}{}{Sta' lontano da me, fannullone puzzolente!}

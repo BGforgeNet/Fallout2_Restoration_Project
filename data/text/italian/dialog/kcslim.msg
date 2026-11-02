@@ -3,16 +3,16 @@
 {110}{}{Beh, mister, sembra che quei ratti non ti abbiano ancora rosicchiato -- ma lo faranno se continuerai a disturbarli. Cerca solo di non portartene dietro qualcuno.}
 {111}{}{Beh, signorinella, sembra che quei ratti non ti abbiano ancora rosicchiata -- ma lo faranno se continuerai a disturbarli. Cerca solo di non portartene dietro qualcuno.}
 {112}{}{Non temere. Non lo faro'.}
-{113}{}{No, grazie a te.}
+{113}{}{Non certo grazie a te.}
 {114}{}{Uh, ok.}
-{120}{}{Non voglio avere niente a che fare con quelle bestie. Io li lascio in pace sperando che loro facciano lo stesso con me. Sta' in guardia.}
+{120}{}{Non voglio avere niente a che fare con quelle bestie. Io le lascio in pace sperando che loro facciano lo stesso con me. Sta' in guardia.}
 {130}{}{Sii prudente. Sembra che, a mano a mano che si scende in profondita', diventino sempre piu' grossi.}
-{140}{}{Salve, selvaggio. Il mio nome e' Slim Picket e se hai qualche domanda su Trapper Town puoi chiedere a me. Non vogliamo guai da queste parti.}
+{140}{}{Salve, tribale. Il mio nome e' Slim Picket e se hai qualche domanda su Trapper Town puoi chiedere a me. Non vogliamo guai da queste parti.}
 {141}{}{Ehila', amico. E' bello da parte tua venire a farci visita. Il mio nome e' Slim Picket. Ti do il benvenuto a nome di tutta Trapper Town.}
 {142}{}{Ehila', Slim. Il mio nome e' }
 {143}{}{. Perche' chiamate questo quartiere Trapper Town?}
 {144}{}{Sai per caso dove potrei trovare una cosa chiamata Kit di Creazione del Giardino dell'Eden?}
-{145}{}{Felice di conoscerla, Mr. Picket. Stavo solo dando un'occhiata in giro. Arrivederci.}
+{145}{}{Felice di conoscerla, signor Picket. Stavo solo dando un'occhiata in giro. Arrivederci.}
 {150}{}{Ehila', il mio nome e' Slim Picket. Sono il rappresentante di questa parte della citta'. }
 {151}{}{Gruk.}
 {152}{}{Ook, oople.}
@@ -57,7 +57,7 @@
 {230}{}{Immagino che tu abbia ottenuto cio' che volevi. Adesso sta' attento.}
 {231}{}{Grazie.}
 {232}{}{Me l'hai fatta pagare cara. Spero ne sia valsa la pena.}
-{240}{}{Beh, sembra che quella chiave tu la voglia meno di quanto pensassi, eh? Sei sicuro di aver preso quello che volevi?}
+{240}{}{Beh, sembra che quella chiave non ti servisse quanto pensavi, eh? Sei sicuro di aver preso quello che volevi?}
 {241}{}{Oops; lo sentivo che mi ero dimenticato qualcosa.}
 {242}{}{Ehi, Slim, avrei un altro paio di cose da chiederti.}
 {243}{}{Non mi serve nient'altro, per il momento. Grazie lo stesso.}
@@ -77,19 +77,19 @@
 {283}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
 {290}{}{Quelli dorati sono infidi e due volte piu' cattivi di quelli comuni. Inoltre, una volta che ti hanno morso non mollano la presa e ti tranciano la carne fino all'osso. Per non parlare poi del loro veleno. Tuttavia le loro pelli hanno davvero un bell'aspetto e per questo motivo valgono molto di piu'. }
 {291}{}{Continua.}
-{300}{}{Un trapper davvero in gamba, di nome Smiley, e' andato a nord per cercare la loro tana. E' convinto che provengano tutti da un unico luogo. Il fatto e' che nessuno ha piu' avuto sue notizie. E sono gia' passati piu' di due mesi.}
+{300}{}{Un trapper davvero in gamba, di nome Smiley, e' andato a nord per cercare la loro tana. Era convinto che provenissero tutti da un unico luogo. Il fatto e' che nessuno ha piu' avuto sue notizie. E sono gia' passati piu' di due mesi.}
 {301}{}{Cosa pensi che gli sia successo?}
-{310}{}{Forse ha scoperto la loro tana ed e' stato divorato. (heh, hee, hee) Ma ti diro' una cosa: alla signora Buckner si e' quasi spezzato il cuore quando ha visto che non tornava. Vedi, lui era il suo bello. La signora Buckner e' la proprietaria della locanda Buckner.}
+{310}{}{Forse ha scoperto la loro tana ed e' stato divorato. (heh, hee, hee) Ma ti diro' una cosa: alla signora Buckner si e' quasi spezzato il cuore quando ha visto che non tornava. Vedi, lui era il suo bello. La signora Buckner e' la proprietaria della Buckner House.}
 {311}{}{Interessante. Parliamo di qualcos'altro.}
 {312}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
 {320}{}{Abbiamo proprio un casino di automobili. Tutte pronte in attesa dei loro proprietari di ritorno dallo shopping. Peccato che non torneranno mai. E ormai quelle auto sono tutte dei rottami. Ce n'e' una che mi fa ancora impazzire, pero': una Highwayman della Chrysalis Motors, parcheggiata proprio a est di qui. Non ho ancora scoperto come raggiungerla.}
 {321}{}{Una Highwayman? Interessante. Parliamo di qualcos'altro.}
 {322}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
-{330}{}{Beh, hanno un buon sapore se li fai ai ferri con giusto un pugnetto di erbe. Ma la verita' e' che sono diventati un vero problema e si stanno facendo piu' cattivi. Abbiamo barricato la zona nord del centro commerciale -- che poi sarebbe Trapper Town. Tuttavia riescono a infiltrarsi lo stesso. C'e' una porta, proprio dietro la mia stanza, ma e' stata chiusa a chiave.}
+{330}{}{Beh, hanno un buon sapore se li fai allo spiedo con giusto un pizzico di erbe. Ma la verita' e' che sono diventati un vero problema e si stanno facendo piu' cattivi. Abbiamo barricato la zona nord del centro commerciale -- che poi sarebbe Trapper Town. Tuttavia riescono a infiltrarsi lo stesso. C'e' una porta, proprio dietro la mia stanza, ma e' stata chiusa a chiave.}
 {331}{}{A casa mia, la mamma di solito li faceva in padella con un po' di burro. Ma dimmi di piu' a proposito degli attacchi dei ratti.}
 {332}{}{Interessante. Parliamo di qualcos'altro.}
 {333}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
-{335}{}{Beh, hanno un buon sapore se li fai ai ferri con giusto un pugnetto di erbe. Ma la verita' e' che sono diventati un vero problema e si stanno facendo piu' cattivi. Abbiamo barricato la zona nord della citta', ma riescono ad infiltrarsi lo stesso. C'e' una porta per la zona nord, proprio qui, ma e' stata chiusa a chiave.}
+{335}{}{Beh, hanno un buon sapore se li fai allo spiedo con giusto un pizzico di erbe. Ma la verita' e' che sono diventati un vero problema e si stanno facendo piu' cattivi. Abbiamo barricato la zona nord della citta', ma riescono ad infiltrarsi lo stesso. C'e' una porta per la zona nord, proprio qui, ma e' stata chiusa a chiave.}
 {336}{}{Beh, una volta avevamo dei seri problemi con i ratti, da queste parti, ma ultimamente non se ne vedono piu' cosi' tanti. E' come se si fossero spaventati e fossero scappati da qui.}
 {337}{}{A casa mia, la mamma di solito li faceva in padella con un po' di burro. Ma adesso dimmi di piu' a proposito degli attacchi dei ratti.}
 {340}{}{Scompaiono delle persone. Si tratta di gente debole e malata, per ora. Ovviamente quei ratti non si fermano certo a cucinare il loro cibo come facciamo noi. Loro sbranano le loro vittime fino a ridurle in piccoli mucchietti sanguinolenti di capelli e stracci. O almeno, questo e' quanto ritroviamo la mattina. Ho anche sentito dire che dovrebbe esserci un certo ratto gigante che, come un dio, dice a tutti gli altri cosa fare.}
@@ -102,14 +102,14 @@
 {353}{}{Uh, non e' esattamente quello che avevo in mente.}
 {354}{}{Fa' sparire quello sguardo dal tuo brutto muso. Credo sara' meglio che io vada, prima che tu ti faccia male. Addio.}
 {360}{}{Posso insegnarti qualcosa a proposito del vivere all'aperto. Ma ti costera' 100$.}
-{361}{}{Sono sempre felice di dividere le mie conoscenze con gli altri. Posso insegnarti qualche trucchetto per soli 50$.}
+{361}{}{Sono sempre felice di condividere le mie conoscenze con gli altri. Posso insegnarti qualche trucchetto per soli 50$.}
 {362}{}{Beh, per quella cifra sara' meglio che tu abbia molto da insegnarmi.}
 {363}{}{Sono un sacco di soldi. Sara' meglio parlare d'altro.}
 {364}{}{Non credo di aver bisogno di imparare qualcosa, per adesso. Arrivederci.}
 {370}{}{La tua tribu' e' composta prevalentemente da contadini, giusto? Non credo di poterti insegnare proprio un fischio.}
 {371}{}{Sono gia' cosi' bravo, eh? Beh, parliamo di qualcos'altro, allora.}
 {372}{}{Allora credo proprio che me ne andro'. Arrivederci.}
-{380}{}{Beh, questa lezione ti dovrebbe aver insegnato due o tre cosette sulla sopravvivenza nelle grandi Lande. Spero che tu possa farne buon uso. Tieni a mente quello che ti ho detto sugli escrementi.}
+{380}{}{Beh, questa lezione ti dovrebbe aver insegnato due o tre cosette sulla vita all'aria aperta. Spero che tu possa farne buon uso. Tieni a mente quello che ti ho detto sugli escrementi.}
 {381}{}{Certo. Gli escrementi vecchi non hanno lo stesso sapore di quelli freschi. Grazie, Slim. Adesso dimmi di piu' a proposito dei gecki.}
 {382}{}{Grazie per tutti i tuoi consigli, Slim, ma sono ancora convinto che annusare gli escrementi sia piu' che sufficiente. Avrei delle altre domande, pero'.}
 {383}{}{Grazie delle informazioni, Slim. Andro' subito a fare un po' di pratica. Arrivederci.}

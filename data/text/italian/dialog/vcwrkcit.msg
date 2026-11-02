@@ -1,6 +1,6 @@
-{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto alla tuta dell'Abitante del Vault, ma non c'e' nessun numero sulla schiena.}
 {101}{}{Vedi un Cittadino di Vault City.}
-{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto alla tuta dell'Abitante del Vault, ma non c'e' nessun numero sulla schiena.}
 {103}{}{::applaude::}
 {104}{}{E' l'eroe! Guardate!}
 {105}{}{Santo cielo! E' l'eroe, qui, a Vault City!}
@@ -11,11 +11,11 @@
 {110}{}{Un mutante! Guardie! Guardie!}
 {111}{}{Un ghoul! Guardie! Guardie!}
 {112}{}{Come hai fatto ad entrare all'interno delle mura?}
-{113}{}{Scusa, ce l'hai un pass giornaliero? }
+{113}{}{Scusa, ce l'hai un Pass Giornaliero? }
 {114}{}{Hmmmph. Un altro Esterno.}
 {115}{}{Sembra proprio che sempre piu' Esterni riescano ad entrare all'interno delle mura...}
-{116}{}{Spero davvero tu abbia un pass giornaliero...}
-{117}{}{Mi pare abbiano cominciato a rilasciare pass giornalieri proprio a *tutti* gli Esterni, ultimamente...}
+{116}{}{Spero davvero tu abbia un Pass Giornaliero...}
+{117}{}{Mi pare abbiano cominciato a rilasciare Pass Giornalieri proprio a *tutti* gli Esterni, ultimamente...}
 {118}{}{Ho sentito parlare delle sue imprese coraggiose. Ha reso un grande servizio a Vault City... e al mondo.}
 {119}{}{La sua battaglia contro l'Enclave ha impressionato persino il Primo Cittadino.}
 {120}{}{Ho sentito che hai viaggiato a sud fino a San...Fran...Cisco. E' vero?}
@@ -40,7 +40,7 @@
 {139}{}{Mi sento stra-bene. E tu?}
 {140}{}{Come Cittadini, uno dei nostri doveri civici e' compilare e tenere aggiornate le liste.}
 {141}{}{Ho passato quasi tutto il giorno a redigere quella lista per il Proconsole prima, e a controllarla poi. Adoro compilare liste.}
-{142}{}{Lavoro all'Ufficio Liste. Molti di noi lo fanno. Qui a Vault City *adoriamo* compilare liste.}
+{142}{}{Lavoro all'Ufficio Liste, come quasi tutti noi. Qui a Vault City *adoriamo* compilare liste.}
 {143}{}{Oggi ho passato quasi tutto il giorno ad aggiornare quella lista per l'Ufficio Liste. Tempo molto ben speso, davvero.}
 {144}{}{Ho sentito che hai viaggiato per il mondo esterno. Come sei riuscito a sopravvivere tra quei luridi Esterni?}
 {145}{}{Oh! Tu devi essere il nuovo Cittadino. Benvenuto a Vault City.}
@@ -53,11 +53,11 @@
 {152}{}{Posso aiutarti in qualche modo...Esterno?}
 {153}{}{Scusa, hai detto qualcosa?}
 {154}{}{Io? Io mi faccio gli affari miei. Forse anche tu dovresti fare lo stesso.}
-{155}{}{Posso vedere il tuo pass giornaliero, per favore?}
+{155}{}{Posso vedere il tuo Pass Giornaliero, per favore?}
 {156}{}{Oh... scusa. Ti avevo quasi scambiato per un servo.}
 {157}{}{Adesso non ho davvero tempo per chiacchierare con un Esterno. Per favore, vattene.}
 {158}{}{Potresti startene ad una certa distanza, per cortesia?}
-{159}{}{Per piacere, rimani dove sei.}
+{159}{}{Per piacere, mettiti laggiu'.}
 {160}{}{I servi ci consentono di avere piu' tempo per questioni piu' importanti. Compilazione di liste, soprattutto.}
 {161}{}{I servi? Oh, li usiamo per i lavori piu' umili.}
 {162}{}{Si', le mie narici... er, occhi, non mi tradiscono: sei un Esterno.}

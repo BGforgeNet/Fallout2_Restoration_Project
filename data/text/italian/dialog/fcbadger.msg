@@ -15,10 +15,10 @@
 {114}{}{Che roba.}
 {115}{}{::Spara fuori un rutto cosi' tremendo da scuotere le fondamenta del paradiso in lungo e in largo::}
 {116}{}{::Fai un applauso::}
-{117}{}{Sono Badger. Un tempo avevo una band. ::sospiro:: Ci chiamavamo "There We Smolder". Adesso faccio il tecnico informatico qui a San Fran.}
+{117}{}{Sono Badger. Un tempo avevo una band. ::sospira:: Ci chiamavamo "There We Smolder". Adesso faccio il tecnico informatico qui a San Fran.}
 {118}{}{Oh! Grazie!}
 {119}{}{Che tipo di trucchetti sai fare con il computer?}
-{120}{}{Scommetto che la tua banda faceva schifo.}
+{120}{}{Scommetto che la tua band faceva schifo.}
 {121}{}{Era in gamba la tua band?}
 {122}{}{Grazie. Ciao.}
 {123}{}{Uhh... okay.}
@@ -61,7 +61,7 @@
 {160}{}{Gli Hubologisti.}
 {161}{}{Gli Shi.}
 {162}{}{Nessuno. Volevo solo controllare.}
-{163}{}{Credo di potertelo fare gratuitamente, dato che hai salvato la mia ragazza. Ci vorra' un po', pero'. Chi vuoi che colpisca?}
+{163}{}{Credo di potertelo fare gratuitamente, dato che hai cercato la mia ragazza. Ci vorra' un po', pero'. Chi vuoi che colpisca?}
 {164}{}{Gli Hubologisti.}
 {165}{}{Gli Shi.}
 {166}{}{Nessuno. Volevo solo controllare.}
@@ -83,7 +83,7 @@
 {182}{}{Bene. Devo chiederti qualche cosa.}
 {183}{}{Buon per te. Non volevo parlarti.}
 {184}{}{Grazie, grazie, grazie. Non ti potro' mai ringraziare abbastanza per averla salvata. Che cosa vuoi?}
-{185}{}{Ho delle domande da farvi.}
+{185}{}{Ho delle domande da farti.}
 {186}{}{Mi basta la tua gratitudine. Ci vediamo.}
 {187}{}{Okay, sono penetrato nei computer degli Shi. Non so se sono riuscito a non farmi beccare. Credo che la cosa migliore da fare adesso sia nascondersi. Vuoi qualcos'altro?}
 {188}{}{Si'.}
@@ -115,7 +115,7 @@
 {214}{}{D'accordo, ma potrebbero beccarci.}
 {215}{}{Puoi trasferire il carburante dalle loro riserve alla petroliera?}
 {216}{}{Come non detto, lo faro' in un altro modo.}
-{217}{}{Nulla.}
+{217}{}{Lascia perdere.}
 {218}{}{Okay. Torna da me tra un giorno circa e ti faro' sapere.}
 {219}{}{Hai quello che ti ho chiesto?}
 {220}{}{Si', ho il carburante.}

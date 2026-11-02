@@ -26,7 +26,7 @@
 {125}{}{Non credo che tu sia cosi' duro.}
 {126}{}{Perche' non te ne vai e basta?}
 {127}{}{Bene, devo andare a prendere delle uova.}
-{128}{}{Sai per caso come aprire una lattina dal verso giusto?}
+{128}{}{Sai per caso come si montano le lamiere su una parete?}
 {129}{}{Ehila'.}
 {130}{}{Per favore, non disturbarmi: sono molto occupato.}
 {131}{}{Mi domando se ci siano degli altri brahmin-burger al Dusty's.}
@@ -39,9 +39,9 @@
 {138}{}{La citta' e' piuttosto tranquilla da quando Dumont e' stato eletto.}
 {139}{}{Buona giornata, straniero.}
 {140}{}{Questo e' proprio un posticino tranquillo. Bello, eh?}
-{141}{}{Sei nuovo? Fai un salto al Duppo's: mio cugino lavora li'.}
+{141}{}{Sei nuovo? Fai un salto da mio cugino Duppo.}
 {142}{}{Ho sentito che le cose a sud non vanno bene. Quand'e' che il governo si decidera' a fare qualcosa?}
 {143}{}{Vieni da nord? Non si vedono molti settentrionali da queste parti.}
 {144}{}{Ho sentito dire che tutti quelli che vengono dalle Lande sono mutanti o selvaggi!}
 {145}{}{Non ho tempo per chiacchierare. Devo andare al lavoro.}
-{146}{}{C'e' una svendita da Duppo's? Oh, come non detto.}
+{146}{}{C'e' una svendita da Duppo? Oh, come non detto.}

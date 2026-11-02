@@ -2,11 +2,11 @@
 {101}{}{Vedi Harold.}
 {102}{}{Vedi un ghoul anziano ma dall'aspetto ancora vitale.}
 {103}{hld1a}{Devo dire che anche il vecchio Harold ha un po' troppa polvere, nella sua soffitta. Se ci mettessimo a parlare, non otterremmo un gran che, noi due.}
-{104}{hld1b}{Ahh, davvero carino. Adesso non ho tempo da perdere a cercar di capire quello che dici.}
+{104}{hld1b}{Ahh, che tenerezza. Adesso non ho tempo da perdere a cercar di capire quello che dici.}
 {105}{hld1c}{Eh eh, davvero divertente. }
 {106}{hld2a}{Ehila', pelle-liscia. Mi chiamo Harold. Aiuto questa citta' a tirare avanti.}
-{107}{hld2a1}{Cosa ti serve, ragazzo?}
-{108}{hld2b}{Beh, sia maledetto il diavolo, pelle-liscia. Ci hai fatto un grande favore riparando la nostra centrale. Mi chiamo Harold. Aiuto questa citta' a tirare avanti.}
+{107}{hld2a1}{Cosa ti serve, giovane?}
+{108}{hld2b}{Beh, che io sia dannato, pelle-liscia. Ci hai fatto un grande favore riparando la nostra centrale. Mi chiamo Harold. Aiuto questa citta' a tirare avanti.}
 {109}{hld2c}{Davvero gentile da parte tua darci una mano con la nostra centrale atomica. Ti siamo debitori. Cosa puo' fare per te questa vecchia carcassa?}
 {110}{hld2d}{Sei davvero speciale. Proprio come l'originale. Cosa puo' fare il vecchio Harold per te, Abitante del Vault? }
 {111}{hld2e}{Non hai gia' fatto abbastanza guai, pelle-liscia? Adesso cosa vuoi?}
@@ -17,7 +17,7 @@
 {116}{}{Quello che ti sta crescendo in testa e' un albero?}
 {117}{}{Tu dovresti sapere se qui c'e' un qualcosa chiamato Kit di Creazione del Giardino dell'Eden.}
 {118}{}{Harold, mi piacerebbe sapere dove potrei ricevere delle cure mediche.}
-{119}{}{Probabilmente sei solo pazzo, ma hai nominato il Master. Il mio antenato l'ha ucciso.}
+{119}{}{So che probabilmente sei ancora arrabbiato, ma hai nominato il Master. Il mio antenato l'ha ucciso.}
 {120}{}{Ciao, Harold. Sono solo di passaggio. Ci vediamo.}
 {121}{hld3}{Qua-qualsiasi cosa serva per tenere insieme questo posto. Me la cavo meglio che non con me stesso.}
 {122}{}{Questo posto si sta sfasciando?}
@@ -36,7 +36,7 @@
 {135}{}{Beh, mi piacerebbe molto rimanere qui a chiacchierare con te, ma ho delle cose da fare e posti nei quali andare. Buona fortuna.}
 {136}{hld5}{Beh, tecnicamente... e' un "aggeggio" tecnologico.}
 {137}{}{Okay, e che cosa fa?}
-{138}{hld6}{Anche tu avresti bisogno di darti una bella svegliata, eh? Voglio dire che non sono molto svegli. Ti faccio un esempio. L'altro giorno mi hanno portato un rapporto. Sopra c'era scritto che la valvola principale di raffreddamento dovrebbe essere chiusa. Questo provocherebbe una fusione che farebbe assomigliare il Grand Canyon ad un pantano per porci.}
+{138}{hld6}{Anche tu avresti bisogno di darti una bella svegliata, eh? Voglio dire che non sono molto svegli. Ti faccio un esempio. L'altro giorno mi hanno portato un rapporto. Sopra c'era scritto che bisognava chiudere la valvola principale di raffreddamento. Avrebbe provocato una fusione che farebbe assomigliare il Grand Canyon ad un pantano per porci.}
 {139}{}{Accidenti.}
 {140}{hld7}{Uh, puoi ben dirlo. Sono riuscito a sistemare le cose in tempo, ma stavolta siamo arrivati ad un passo dalla fine. Hanno bisogno di qualcuno che li controlli.}
 {141}{}{E' una fortuna che tu sia qui ad aiutarli.}
@@ -59,30 +59,30 @@
 {158}{}{Oh. Certo. Ehi, lascia che ti chieda qualcos'altro.}
 {159}{}{Farai meglio a non farti venire strane idee riguardo alla mia pelle morbida.}
 {160}{}{Uh, beh, sara' meglio che vada. Ci vediamo.}
-{161}{hld15}{Strane idee? Beh, tipo scuoiarti vivo con un vecchio coltello spuntato e arrugginito e poi infilarmi la tua ancor calda, umida, splendida, e "oh-che-morbida" pelle sulla mia corteccia incrostata e putrescente?}
+{161}{hld15}{Strane idee? Beh, tipo scuoiarti mentre respiri ancora con un vecchio coltello spuntato e arrugginito e poi infilarmi la tua ancor calda, umida, splendida, e "oh-che-morbida" pelle sulla mia corteccia incrostata e putrescente?}
 {162}{}{Ehi! Stammi lontano, okay? Me ne vado da qui fintantoche' ho ancora la mia pelle!}
 {163}{}{Esatto, e' proprio quello che intendevo. Hai indovinato.}
 {164}{hld16}{Beh, non hai nulla di cui preoccuparti... non riesco a trovare il mio coltello.}
 {165}{}{Che ne dici se cambiassimo argomento con un'altra domanda?}
-{166}{}{Beh, farai meglio a tenere le tue luride dita alla larga dalla mia pelle. Addio.}
+{166}{}{Beh, farai meglio a tenere le tue luride dita alla larga dalla mia pelle. Arrivederci.}
 {167}{hld17}{Dell'altra pelle! ... Mi serve dell'altra pelle! (ridacchia) Che succede? Il tuo senso dell'umorismo ti e' caduto mentre entravi in citta'?}
 {168}{}{Ho un sacco di pensieri in testa, okay? Ho bisogno di alcune informazioni.}
 {169}{}{Credo proprio che andro' a cercarlo. Ci vediamo.}
 {170}{hld18}{Ho appena mollato una grossa scoreggia, ma non sono ancora riuscito a coprire il tuo fetore. Perche' non te ne vai da qui?}
-{171}{}{Okay, ma prima volevo scusarmi per il modo in cui mi sono comportato prima.}
-{172}{}{Ma ciucciati il calzino, vecchio ghoul puzzolente. Addio.}
+{171}{}{Okay, ma prima volevo scusarmi per come ho agito l'altra volta.}
+{172}{}{Chiudi il becco, vecchio ghoul puzzolente. Arrivederci.}
 {173}{hld19}{E' un buon inizio, ma dovrai fare di meglio.}
-{174}{}{Non so cos'altro dire. Credo di non esser molto bravo a trattare con cose che mi sono nuove. Mi dispiace, pero'.}
-{175}{}{Okay, che ne dici di questo? Se avessi un pezzo di carne brutto la meta' di te, lo brucerei per evitare di avvelenare gli avvoltoi che dovessero trovarlo. Addio.}
-{176}{hld20a}{Bene, d'accordo. Ma farai meglio a smetterla di comportarti come uno zuccone. }
-{177}{hld20b}{Beh, ascolta quel che ti dico, ragazzo. E' stato un bel tentativo, ma rimani comunque un idiota. Forse questo ti servira' di lezione. Fuori di qui.}
+{174}{}{Non so cos'altro dire. Credo di non saper gestire bene le cose che non conosco. Mi dispiace, pero'.}
+{175}{}{Okay, che ne dici di questo? Se avessi della carne secca brutta la meta' di te, la brucerei per evitare di avvelenare gli avvoltoi che dovessero trovarla. Ciao.}
+{176}{hld20a}{Bene, d'accordo. Ma farai meglio a smetterla di fare la testa di legno. }
+{177}{hld20b}{Beh, ascolta quel che ti dico, giovane. E' stato un bel tentativo, ma il cervello continua a mancarti. Forse questo ti servira' di lezione. Fuori di qui.}
 {178}{}{Mi dispiace. Adesso che abbiamo risolto la questione, lascia che ti chieda qualcosa.}
-{179}{}{Okay, addio.}
+{179}{}{Okay, arrivederci.}
 {180}{hld21a}{Preferisco essere cosi' piuttosto che avere il tuo aspetto e dover essere come te. Sei una testa vuota. Fuori di qui! }
 {181}{hld21b}{Sei come una caccola che non si stacca dal dito. Ma lo sto ancora scuotendo... Oh, guarda, ecco che si e' staccata!}
 {182}{hld21c}{Beh, guarda un po' cos'ha portato il vento. Il mio stronzo preferito. Perche' non ti trascini fuori di qui?}
 {183}{hld21d}{Vuoi sapere come si fa a tenere in sospeso un idiota?}
-{184}{hld21e}{Ehi, speravo proprio che ti facessi vivo. Hai vinto il premio come stronzo piu' grande. C'e' un party in tuo onore dieci miglia a nord della citta'. Faresti meglio a sbrigarti.}
+{184}{hld21e}{Ehi, speravo proprio che ti facessi vedere. Hai vinto il premio Rompiballe dell'Anno. C'e' un party in tuo onore dieci miglia a nord della citta'. Faresti meglio a sbrigarti.}
 {185}{hld26}{Li riguardava direttamente? Che cosa vuoi dire?}
 {186}{}{Beh, studiando alcuni dati economici in mio possesso hanno scoperto che aiutarvi a riparare la vostra centrale avrebbe comportato dei grossi vantaggi anche per Vault City.}
 {187}{}{Voglio dire che e' sempre meglio cercare di andare d'accordo con il prossimo.}
@@ -101,16 +101,16 @@
 {200}{}{Oh, la situazione non puo' essere cosi' brutta. Mi sembravano persone ragionevoli.}
 {201}{}{Non sapevo che avrebbero usato le informazioni a questo scopo. Mi dispiace. Ci vediamo.}
 {202}{hld31}{Beh, spero proprio che tu non l'abbia fatto. Quegli idioti di Vault City odiano i ghoul. Taglierebbero i nostri rifornimenti di uranio da Broken Hills in meno di un minuto. Poi porrebbero le loro condizioni. Non servirebbe molto tempo per far diventare Gecko un campo di schiavi.}
-{203}{}{Oh, sono sicuro che non lo farebbero. Mi sembrano piuttosto ragionevoli.}
+{203}{}{Oh, di sicuro non lo farebbero. Mi sembrano piuttosto ragionevoli.}
 {204}{}{Beh, e' una fortuna che non gli abbia detto nulla, allora. Eh, eh. Ehi, lascia che ti chieda qualcos'altro.}
-{205}{}{Beh, la sfortuna colpisce tutti. A volte colpisce te. Addio.}
+{205}{}{Beh, capita. A volte la merda tocca a te. Arrivederci.}
 {206}{hld32}{Ragionevoli? Ragionevoli?! Beh, sono sicuro che qualcuno abbia detto che anche il Master era ragionevole. Che testa di rapa. Fuori di qui. Subito!}
-{207}{}{Forse il loro modo di pensare non e' sbagliato. Forse e' tempo di eliminare i mostri come te. Addio.}
-{208}{}{Uh, beh, io, uh, ecco... Addio.}
+{207}{}{Forse il loro modo di pensare non e' sbagliato. Forse e' tempo di eliminare i mostri come te. Arrivederci.}
+{208}{}{Uh, beh, io, uh, ecco... Arrivederci.}
 {209}{hld33}{Beh, potresti provare a parlare con Wooz, giu' all'Harp. Non puoi mancarlo - e' giusto al di la' della strada. }
 {210}{}{Grazie. Lascia che ti chieda qualcos'altro.}
 {211}{}{Grazie, questo e' tutto quello che mi serve sapere, per adesso. Ci vediamo.}
-{212}{hld34}{Geloso? Si chiama Herbert. Quando mi sento solo parlo con lui... Eh eh. Sto scherzando... si chiama Bob.}
+{212}{hld34}{Un po' d'invidia? Si chiama Herbert. Quando mi sento solo parlo con lui... Eh eh. Sto scherzando... si chiama Bob.}
 {213}{}{Certo... Beh, forse tu o Bob saprete rispondermi a questo.}
 {214}{}{Grazie, questo e' molto piu' di quanto mi servisse sapere, per il momento. Ci vediamo.}
 {215}{hld35}{Un Kit di Creazione del Giardino dell'Eden? Un GECK, giusto? Mi par di ricordare che i Vault li avessero. Non so dove potresti trovarne uno, al giorno d'oggi. }
@@ -124,16 +124,16 @@
 {223}{hld38}{Beh, probabilmente me ne ricorderei meglio se non fossi morto... Non mi stanco mai di dire questa battuta. }
 {224}{}{Forse dovresti...}
 {225}{hld38a}{Beh, ad essere onesti, non ricordo il suo nome. Ma indossava una buffa tuta. Molto simile a quella che indossi tu.}
-{226}{}{Io indosso lo stesso Completo del Vault che indosso' il mio antenato. E' un totem della mia sacra missione.}
+{226}{}{Indosso la stessa tuta del Vault che indossava il mio antenato. E' un totem della mia sacra missione.}
 {227}{}{Oh, questo vecchiume?}
 {228}{hld38b}{Non menti?}
-{229}{}{Io indosso lo stesso Completo del Vault che indosso' il mio antenato. E' un totem della mia sacra missione.}
+{229}{}{Indosso la stessa tuta del Vault che indossava il mio antenato. E' un totem della mia sacra missione.}
 {230}{}{Non mento, Harold.}
 {231}{hld39}{Davvero? Bene, bene, bene. Questo spiega un paio di cose. Mi domandavo perche' tu mi fossi familiare. Non ho ancora perso i due neuroni che mi rimangono.}
 {232}{}{Ci somigliamo cosi' tanto?}
 {233}{}{Dimmi com'era l'Abitante del Vault.}
 {234}{hld40}{Si', assomigliava proprio a quella. E, ora che ci penso, aveva anch'essa un 13. }
-{235}{}{Veramente, questo e' il completo del mio antenato, l'Abitante del Vault.}
+{235}{}{Veramente, questa e' la tuta del mio antenato, l'Abitante del Vault.}
 {236}{hld41}{C'e' qualche somiglianza. Per quello che posso ricordare, ad ogni modo. Sai, il tuo antenato ci ha salvati tutti.}
 {237}{}{L'Abitante del Vault ha salvato tutti i ghoul?}
 {238}{}{Grazie. Mi fa piacere saperlo. Ascolta, devo scappare un attimo. Ci vediamo piu' tardi.}
@@ -148,7 +148,7 @@
 {247}{hld45}{Grazie del racconto. Per tutti questi anni la mia curiosita' ha dovuto aspettare. Di certo ti e' stato affidato un compito difficile. Eh, sai....}
 {248}{}{Sai cosa?}
 {249}{}{Ho gia' abusato troppo del tuo tempo, per oggi. Sara' meglio che vada. Ci vediamo.}
-{250}{hld46a}{Beh, ho messo da parte questi per un giorno di pioggia, ma credo che saranno utili a te piu' di quanto potranno mai servire a me. Ecco, prendi.}
+{250}{hld46a}{Beh, ho messo da parte questi per i tempi duri, ma credo che saranno utili a te piu' di quanto potranno mai servire a me. Ecco, prendi.}
 {251}{hld46b}{Stavo per darti dei medicinali, ma che io sia dannato se non l'ho gia' fatto. Ti diro', diventar vecchi e' un inferno per la memoria.}
 {252}{}{Grazie. Lascia che ti faccia qualche domanda, pero'.}
 {253}{}{Grazie di tutto. Adesso credo che farei meglio ad andare. Ci vediamo.}
@@ -163,7 +163,7 @@
 {262}{}{Vault City non sarebbe disposta a darvelo? Anche se cio' significasse la fine della contaminazione della falda acquifera?}
 {263}{}{Pare proprio che siate pieni di problemi. Ci vediamo.}
 {264}{hld50}{Se non ne troviamo uno, puoi scommettere che quelle teste vuote di Vault City disattiveranno la centrale, per sempre.}
-{265}{}{E voi?}
+{265}{}{E allora cosa farete?}
 {266}{hld51}{Prendiamo il combustibile da Broken Hills. E' una comunita' mineraria piuttosto a sud di qui.}
 {267}{}{Interessante. Dove si puo' trovare un Regolatore Idroele-coso di Vattelapesca?}
 {268}{}{Cosa succede se non trovate quel Regola-coso?}
@@ -179,7 +179,7 @@
 {278}{}{Si', immagino. Adesso avrei un'altra domanda.}
 {279}{}{Ehi, non si puo' mai sapere. Ci vediamo piu' tardi.}
 {280}{}{A nord}
-{281}{}{A nordovest}
+{281}{}{A nord-ovest}
 {282}{}{A ovest}
 {283}{}{A sud-ovest}
 {284}{}{A sud}

@@ -15,18 +15,18 @@
 {114}{}{Certo, straniero, che cosa vuoi sapere?}
 {115}{}{Parlami di NCR.}
 {116}{}{Cosa mi sai dire di Merk?}
-{117}{}{Cosa puoi dirmi a proposito di Roger Westin?}
+{117}{}{Cosa mi puo' dire a proposito di Roger Westin?}
 {118}{}{Vorrei fissare un appuntamento con il vecchio Carlson. Conosci qualcuno che potrebbe aiutarmi?}
 {119}{}{Hai un GECK?}
 {120}{}{Molto bene, straniero, ma io non faccio la carita'.}
-{121}{}{Forse. Avrei qui un mirino telescopico Triveld x10 - sta benissimo su un fucile da caccia, se sei interessato. Ti faccio un prezzo basso -- 500$.}
+{121}{}{Forse. Avrei qui un mirino telescopico Triveld x10 - sta benissimo su un fucile da caccia, se ti interessa. Ti faccio un prezzo basso -- 500$.}
 {122}{}{Ehi, mi hai gia' ripulito abbastanza.}
 {123}{}{Certo, d'accordo.}
 {124}{}{No, grazie.}
-{125}{}{New California Republic - ecco cos'e'. La Presidente Tandi e il suo gruppo dicono di voler far rivivere i vecchi tempi. Io invece penso che stiano cercando di arraffare tutto il possibile. Diamine, non ho niente di cui lamentarmi nei loro confronti - i "vecchi tempi" risalgono a molti anni prima che io nascessi. Sono dei tipi un po' severi, pero' - non amano gli schiavi, il gioco d'azzardo e cose simili. E' per questo che mi sono stabilito qui. Non mi piacciono le leggi - mai piaciute.}
+{125}{}{Repubblica della Nuova California - ecco cos'e'. La Presidente Tandi e il suo gruppo dicono di voler far rivivere i vecchi tempi. Io invece penso che stiano cercando di arraffare tutto il possibile. Diamine, non ho niente di cui lamentarmi nei loro confronti - i "vecchi tempi" risalgono a molti anni prima che io nascessi. Sono un po' bacchettoni, pero' - non amano gli schiavi, il gioco d'azzardo e cose simili. E' per questo che mi sono stabilito qui. Non mi piacciono le leggi - mai piaciute.}
 {126}{}{Capisco.}
 {127}{}{Arrivederci.}
-{128}{}{Io non dico nulla di Mr. Merk e spettegolare sul suo conto di certo non paga. Se hai delle domande, chiedi di lui al Rawhide.}
+{128}{}{Io non mi immischio negli affari del signor Merk, e spettegolare sul suo conto di certo non paga. Se hai delle domande, chiedi di lui al Rawhide.}
 {129}{}{Capisco.}
 {130}{}{Arrivederci.}
 {131}{}{Roger Westin? Intendi dire il tipo del Congresso? Ha una tenuta a ovest della citta'. Un brahminaro - un capoccia dell'Associazione Allevatori. E' sempre in cerca di braccianti, se hai bisogno di lavoro.}
@@ -35,7 +35,7 @@
 {134}{}{E' buffo che tu mi chieda una cosa del genere dopo quello che e' successo a Roger Westin. Io non ti ho detto nulla, ma giu' al Rawhide c'e' questo tipo, Merk, che forse potrebbe aiutarti.}
 {135}{}{Capisco.}
 {136}{}{Arrivederci.}
-{137}{}{E' una di quelle armi da importazione pre-belliche? Lasciami indovinare... pallettoni da 14mm? Non ce l'ho, mi spiace.}
+{137}{}{E' una di quelle armi da importazione pre-belliche? Lasciami indovinare... munizioni da 14mm? Non ce l'ho, mi spiace.}
 {138}{}{Capisco.}
 {139}{}{Arrivederci.}
 {140}{}{Senti, non posso farlo su qualcosa che non sia un fucile da caccia. La montatura si adatta solo a quel tipo d'arma, capito?}

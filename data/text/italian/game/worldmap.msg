@@ -7,7 +7,7 @@
 {211}{}{Zona Est}
 {212}{}{Zona Residenziale}
 {220}{}{Centro citta'}
-{221}{}{Citta' dei Trapper}
+{221}{}{Trapper Town}
 {222}{}{Grotte dei Ratti}
 {223}{}{Territorio di Caccia}
 {224}{}{Pascolo}
@@ -28,8 +28,8 @@
 {253}{}{Tunnel d'Accesso}
 {260}{}{Centro citta'}
 {261}{}{Zona Residenziale}
-{270}{}{Via delle Vergini}
-{271}{}{2da Strada}
+{270}{}{Virgin Street}
+{271}{}{Seconda Strada}
 {272}{}{Zona Commerciale}
 {273}{}{Zona Est}
 {274}{}{Officina dei Ladri}
@@ -54,10 +54,10 @@
 {310}{}{Entrata della Grotta}
 {311}{}{Vault 13}
 {320}{}{Ingresso}
-{321}{}{Level 1}
-{322}{}{Level 2}
-{323}{}{Level 3}
-{324}{}{Level 4}
+{321}{}{Livello 1}
+{322}{}{Livello 2}
+{323}{}{Livello 3}
+{324}{}{Livello 4}
 {330}{}{Centro citta'}
 {331}{}{Miniera del Grande Wanamingo}
 {332}{}{Miniera di Wanamingo}
@@ -93,7 +93,7 @@
 {400}{}{La Citta' Fantasma}
 {401}{}{Caverna Principale}
 {402}{}{Lago sotterraneo}
-{410}{}{Automobile Senza Benzina}
+{410}{}{Automobile a Secco}
 {420}{}{Ponte Distrutto}
 {430}{}{Grotte Tossiche}
 {440}{}{Raid Schiavista}
@@ -141,14 +141,14 @@
 {500}{}{Golgotha}
 {510}{}{Balena Spappolata}
 {520}{}{Uomo di Latta}
-{521}{}{la Testa Enorme}
+{521}{}{Testa Enorme}
 {530}{}{Luogo dell'Impatto}
 {540}{}{Deserto}
 {550}{}{Ponte}
 {560}{}{Caffe' dei Sogni Infranti}
 {570}{}{Deserto}
 {580}{}{Caverna}
-{590}{}{Guardiano del Persempre}
+{590}{}{Guardiano dell'Eternita'}
 {600}{}{Discarica di Rifiuti Tossici}
 {610}{}{Deserto}
 {620}{}{Mandria di Brahmin}
@@ -175,7 +175,7 @@
 {1002}{}{Citta'}
 {1003}{}{Costa}
 {1004}{}{Ignoto}
-{1500}{}{Hai guadagnato 10,000 punti esperienza!}
+{1500}{}{Hai guadagnato 10.000 punti esperienza!}
 {1501}{}{Rovine}
 {1502}{}{L'automobile e' a secco.}
 {1503}{}{Questa e' un'automobile. Non sembra funzionare.}
@@ -185,7 +185,7 @@
 {3001}{}{Alcuni radscorpioni.}
 {3002}{}{Ratti giganti.}
 {3003}{}{Un mercante e il suo seguito.}
-{3004}{}{<Special>}
+{3004}{}{<Speciale>}
 {3050}{}{Un gruppo di predoni.}
 {3051}{}{Qualche mantide.}
 {3052}{}{Un gruppo di gecki.}
@@ -193,12 +193,12 @@
 {3054}{}{Un gruppo di radscorpioni.}
 {3055}{}{Un gruppo di ratti giganti.}
 {3056}{}{Un mercante e il suo seguito.}
-{3057}{}{<Special>}
+{3057}{}{<Speciale>}
 {3100}{}{Un gruppo di predoni.}
 {3101}{}{Un gruppo di radscorpioni.}
 {3102}{}{Un gruppo di ratti giganti.}
 {3103}{}{Un mercante e il suo seguito.}
-{3104}{}{<Special>}
+{3104}{}{<Speciale>}
 {3150}{}{Un gruppo di predoni.}
 {3200}{}{Un gruppo di predoni.}
 {3250}{}{Un gruppo di predoni.}
@@ -261,9 +261,9 @@
 {3378}{}{I resti di una balena.}
 {3379}{}{Una testa di pietra gigante.}
 {3380}{}{Uno shuttle precipitato.}
-{3381}{}{Un Portale del Guardian.}
+{3381}{}{Un Portale del Guardiano.}
 {3382}{}{I cavalieri di Re Artu'.}
-{3383}{}{Un boscaiolo di latta.}
+{3383}{}{Un uomo di latta.}
 {3384}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3385}{}{Una banda di reietti arrabbiati.}
 {3400}{}{Un gruppo di guerrieri.}
@@ -312,14 +312,14 @@
 {3467}{}{Alcune piante sporigene.}
 {3468}{}{Una famiglia di radscorpioni.}
 {3469}{}{Un gruppo di ratti-talpa.}
-{3470}{}{Un gruppo di uomini di chiesa che cercano di evitare un gruppo di guerrieri.}
+{3470}{}{Un gruppo di uomini di chiesa che cercano di tenere a bada un gruppo di guerrieri.}
 {3471}{}{Un gruppo di nomadi.}
 {3472}{}{I resti di una balena.}
 {3473}{}{Una testa di pietra gigante.}
 {3474}{}{Uno shuttle precipitato.}
-{3475}{}{Un Portale del Guardian.}
+{3475}{}{Un Portale del Guardiano.}
 {3476}{}{I cavalieri di Re Artu'.}
-{3477}{}{Un boscaiolo di latta.}
+{3477}{}{Un uomo di latta.}
 {3478}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3479}{}{Una banda di reietti arrabbiati.}
 {3500}{}{Una banda di reietti.}
@@ -339,7 +339,7 @@
 {3514}{}{Alcune piante sporigene.}
 {3515}{}{Una famiglia di radscorpioni.}
 {3516}{}{Un gruppo di ratti-talpa.}
-{3517}{}{Un gruppo di uomini di chiesa che cercano di evitare un gruppo di guerrieri.}
+{3517}{}{Un gruppo di uomini di chiesa che cercano di tenere a bada un gruppo di guerrieri.}
 {3518}{}{Un gruppo di nomadi.}
 {3519}{}{Un uomo a guardia di un ponte.}
 {3520}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
@@ -380,9 +380,9 @@
 {3583}{}{I resti di una balena.}
 {3584}{}{Una testa di pietra gigante.}
 {3585}{}{Uno shuttle precipitato.}
-{3586}{}{Un Portale del Guardian.}
+{3586}{}{Un Portale del Guardiano.}
 {3587}{}{I cavalieri di Re Artu'.}
-{3588}{}{Un boscaiolo di latta}
+{3588}{}{Un uomo di latta}
 {3589}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3600}{}{Un branco di gecki dorati e una famiglia di radscorpioni.}
 {3601}{}{Alcuni banditi.}
@@ -431,9 +431,9 @@
 {3661}{}{Alcuni cacciatori di taglie.}
 {3662}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
 {3663}{}{Alcuni trapper.}
-{3664}{}{Alcuni banditi che attaccano un mercante party.}
+{3664}{}{Alcuni banditi che attaccano un mercante e il suo seguito.}
 {3665}{}{Alcuni banditi che assaltano alcuni trapper.}
-{3666}{}{Una famiglia di radscorpioni che attaccano un mercante party.}
+{3666}{}{Una famiglia di radscorpioni che attaccano un mercante e il suo seguito.}
 {3667}{}{Alcuni trapper che cercano di catturare dei radscorpioni.}
 {3668}{}{Un gruppo di radscorpioni.}
 {3669}{}{Una famiglia di ratti-talpa.}
@@ -441,16 +441,16 @@
 {3671}{}{Una banda di trapper che cercano di catturare alcuni gecki dorati.}
 {3672}{}{Alcuni radscorpioni che combattono contro alcuni gecki dorati.}
 {3673}{}{Alcuni radscorpioni che attaccano alcuni ratti-talpa e ratti-porco.}
-{3674}{}{Alcuni trapper e un mercante party che respingono banditi.}
+{3674}{}{Alcuni trapper e un mercante con il suo seguito che respingono banditi.}
 {3675}{}{Alcuni gecki dorati.}
 {3676}{}{Alcuni trapper che combattono contro alcuni ratti-talpa e ratti-porco.}
 {3677}{}{Un mercante e il suo seguito che respingono alcuni ratti-talpa e ratti-porco.}
 {3678}{}{I resti di una balena.}
 {3679}{}{Una testa di pietra gigante.}
 {3680}{}{Uno shuttle precipitato.}
-{3681}{}{Un Portale del Guardian.}
+{3681}{}{Un Portale del Guardiano.}
 {3682}{}{I cavalieri di Re Artu'.}
-{3683}{}{Un boscaiolo di latta.}
+{3683}{}{Un uomo di latta.}
 {3684}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3685}{}{Una banda di reietti arrabbiati.}
 {3700}{}{Discarica di rifiuti tossici.}
@@ -482,9 +482,9 @@
 {3726}{}{I resti di una balena.}
 {3727}{}{Una testa di pietra gigante.}
 {3728}{}{Uno shuttle precipitato.}
-{3729}{}{Un Portale del Guardian.}
+{3729}{}{Un Portale del Guardiano.}
 {3730}{}{I cavalieri di Re Artu'.}
-{3731}{}{Un boscaiolo di latta.}
+{3731}{}{Un uomo di latta.}
 {3732}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3750}{}{Una banda di rapinatori.}
 {3751}{}{Una banda di ladri.}
@@ -539,9 +539,9 @@
 {3825}{}{I resti di una balena.}
 {3826}{}{Una testa di pietra gigante.}
 {3827}{}{Uno shuttle precipitato.}
-{3828}{}{Un Portale del Guardian.}
+{3828}{}{Un Portale del Guardiano.}
 {3829}{}{I cavalieri di Re Artu'.}
-{3830}{}{Un boscaiolo di latta.}
+{3830}{}{Un uomo di latta.}
 {3831}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3850}{}{Un gruppo di schiavisti e schiavi.}
 {3851}{}{Un gruppo di rapinatori.}
@@ -667,9 +667,9 @@
 {4075}{}{I resti di una balena.}
 {4076}{}{Una testa di pietra gigante.}
 {4077}{}{Uno shuttle precipitato.}
-{4078}{}{Un Portale del Guardian.}
+{4078}{}{Un Portale del Guardiano.}
 {4079}{}{I cavalieri di Re Artu'.}
-{4080}{}{Un boscaiolo di latta.}
+{4080}{}{Un uomo di latta.}
 {4081}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4100}{}{Alcuni gecki dorati.}
 {4101}{}{Uno sciame di mantidi.}
@@ -718,9 +718,9 @@
 {4172}{}{I resti di una balena.}
 {4173}{}{Una testa di pietra gigante.}
 {4174}{}{Uno shuttle precipitato.}
-{4175}{}{Un Portale del Guardian.}
+{4175}{}{Un Portale del Guardiano.}
 {4176}{}{I cavalieri di Re Artu'.}
-{4177}{}{Un boscaiolo di latta.}
+{4177}{}{Un uomo di latta.}
 {4178}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4179}{}{Alcuni banditi arrabbiati.}
 {4200}{}{Discarica di rifiuti tossici.}
@@ -749,9 +749,9 @@
 {4223}{}{I resti di una balena.}
 {4224}{}{Una testa di pietra gigante.}
 {4225}{}{Uno shuttle precipitato.}
-{4226}{}{Un Portale del Guardian.}
+{4226}{}{Un Portale del Guardiano.}
 {4227}{}{I cavalieri di Re Artu'.}
-{4228}{}{Un boscaiolo di latta.}
+{4228}{}{Un uomo di latta.}
 {4229}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4250}{}{Alcuni ratti-talpa mutanti.}
 {4251}{}{Alcuni ratti-porco mutanti.}
@@ -821,9 +821,9 @@
 {4372}{}{I resti di una balena.}
 {4373}{}{Una testa di pietra gigante.}
 {4374}{}{Uno shuttle precipitato.}
-{4375}{}{Un Portale del Guardian.}
+{4375}{}{Un Portale del Guardiano.}
 {4376}{}{I cavalieri di Re Artu'.}
-{4377}{}{Un boscaiolo di latta.}
+{4377}{}{Un uomo di latta.}
 {4378}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4400}{}{Un grosso gruppo di sciacalli.}
 {4401}{}{Alcuni ghoul sciacalli.}
@@ -877,9 +877,9 @@
 {4475}{}{I resti di una balena.}
 {4476}{}{Una testa di pietra gigante.}
 {4477}{}{Uno shuttle precipitato.}
-{4478}{}{Un Portale del Guardian.}
+{4478}{}{Un Portale del Guardiano.}
 {4479}{}{I cavalieri di Re Artu'.}
-{4480}{}{Un boscaiolo di latta.}
+{4480}{}{Un uomo di latta.}
 {4481}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4500}{}{Alcuni cannibali.}
 {4501}{}{Alcuni selvaggi.}
@@ -929,9 +929,9 @@
 {4576}{}{I resti di una balena.}
 {4577}{}{Una testa di pietra gigante.}
 {4578}{}{Uno shuttle precipitato.}
-{4579}{}{Un Portale del Guardian.}
+{4579}{}{Un Portale del Guardiano.}
 {4580}{}{I cavalieri di Re Artu'.}
-{4581}{}{Un boscaiolo di latta.}
+{4581}{}{Un uomo di latta.}
 {4582}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4600}{}{Alcuni cannibali.}
 {4601}{}{Alcuni reietti.}
@@ -985,9 +985,9 @@
 {4674}{}{I resti di una balena.}
 {4675}{}{Una testa di pietra gigante.}
 {4676}{}{Uno shuttle precipitato.}
-{4677}{}{Un Portale del Guardian.}
+{4677}{}{Un Portale del Guardiano.}
 {4678}{}{I cavalieri di Re Artu'.}
-{4679}{}{Un boscaiolo di latta.}
+{4679}{}{Un uomo di latta.}
 {4680}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4700}{}{Una carovana del Den.}
 {4701}{}{Alcuni rapinatori e ladri.}
@@ -1039,9 +1039,9 @@
 {4774}{}{I resti di una balena.}
 {4775}{}{Una testa di pietra gigante.}
 {4776}{}{Uno shuttle precipitato.}
-{4777}{}{Un Portale del Guardian.}
+{4777}{}{Un Portale del Guardiano.}
 {4778}{}{I cavalieri di Re Artu'.}
-{4779}{}{Un boscaiolo di latta.}
+{4779}{}{Un uomo di latta.}
 {4780}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4800}{}{Alcuni gecki dorati e alcuni lupi.}
 {4801}{}{Alcuni cacciatori di concessioni.}
@@ -1134,9 +1134,9 @@
 {4972}{}{I resti di una balena.}
 {4973}{}{Una testa di pietra gigante.}
 {4974}{}{Uno shuttle precipitato.}
-{4975}{}{Un Portale del Guardian.}
+{4975}{}{Un Portale del Guardiano.}
 {4976}{}{I cavalieri di Re Artu'.}
-{4977}{}{Un boscaiolo di latta.}
+{4977}{}{Un uomo di latta.}
 {4978}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4979}{}{Una banda di predoni arrabbiati.}
 {5000}{}{Una banda di predoni che guida alcuni lupi.}
@@ -1178,9 +1178,9 @@
 {5068}{}{I resti di una balena.}
 {5069}{}{Una testa di pietra gigante.}
 {5070}{}{Uno shuttle precipitato.}
-{5071}{}{Un Portale del Guardian.}
+{5071}{}{Un Portale del Guardiano.}
 {5072}{}{I cavalieri di Re Artu'.}
-{5073}{}{Un boscaiolo di latta.}
+{5073}{}{Un uomo di latta.}
 {5074}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5075}{}{Una banda di predoni arrabbiati.}
 {5100}{}{Discarica di rifiuti tossici.}
@@ -1199,9 +1199,9 @@
 {5113}{}{I resti di una balena.}
 {5114}{}{Una testa di pietra gigante.}
 {5115}{}{Uno shuttle precipitato.}
-{5116}{}{Un Portale del Guardian.}
+{5116}{}{Un Portale del Guardiano.}
 {5117}{}{I cavalieri di Re Artu'.}
-{5118}{}{Un boscaiolo di latta.}
+{5118}{}{Un uomo di latta.}
 {5119}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5120}{}{Il Caffe' dei Sogni Infranti.}
 {5150}{}{Una pattuglia dell'Enclave.}
@@ -1239,7 +1239,7 @@
 {5260}{}{Alcuni cacciatori di taglie.}
 {5261}{}{Alcuni cacciatori di taglie.}
 {5262}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
-{5263}{}{Un manipolo di fluttuanti e centauri.}
+{5263}{}{Un esercito di fluttuanti e centauri.}
 {5264}{}{Alcuni gecki di fuoco.}
 {5265}{}{Un grosso branco di alieni.}
 {5266}{}{Alcuni deathclaw.}
@@ -1250,14 +1250,14 @@
 {5271}{}{I resti di una balena.}
 {5272}{}{Una testa di pietra gigante.}
 {5273}{}{Uno shuttle precipitato.}
-{5274}{}{Un Portale del Guardian.}
+{5274}{}{Un Portale del Guardiano.}
 {5275}{}{I cavalieri di Re Artu'.}
-{5276}{}{Un boscaiolo di latta.}
+{5276}{}{Un uomo di latta.}
 {5277}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5278}{}{Il Caffe' dei Sogni Infranti.}
 {5279}{}{Un gruppo di persone dall'aspetto importante.}
 {5300}{}{Alcuni alieni e deathclaw.}
-{5301}{}{Un manipolo di fluttuanti e centauri.}
+{5301}{}{Un esercito di fluttuanti e centauri.}
 {5302}{}{Alcuni gecki di fuoco.}
 {5303}{}{Un grosso branco di alieni.}
 {5304}{}{Alcuni cacciatori di taglie.}
@@ -1278,7 +1278,7 @@
 {5319}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
 {5320}{}{Un gruppo di persone dall'aspetto importante.}
 {5350}{}{Alcuni alieni e deathclaw.}
-{5351}{}{Un manipolo di fluttuanti e centauri.}
+{5351}{}{Un esercito di fluttuanti e centauri.}
 {5352}{}{Alcuni gecki di fuoco.}
 {5353}{}{Un grosso branco di alieni.}
 {5354}{}{Alcuni cacciatori di taglie.}
@@ -1314,9 +1314,9 @@
 {5415}{}{I resti di una balena.}
 {5416}{}{Una testa di pietra gigante.}
 {5417}{}{Uno shuttle precipitato.}
-{5418}{}{Un Portale del Guardian.}
+{5418}{}{Un Portale del Guardiano.}
 {5419}{}{I cavalieri di Re Artu'.}
-{5420}{}{Un boscaiolo di latta.}
+{5420}{}{Un uomo di latta.}
 {5421}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5422}{}{Il Caffe' dei Sogni Infranti.}
 {5423}{}{Un gruppo di persone dall'aspetto importante.}
@@ -1373,9 +1373,9 @@
 {5572}{}{I resti di una balena.}
 {5573}{}{Una testa di pietra gigante.}
 {5574}{}{Uno shuttle precipitato.}
-{5575}{}{Un Portale del Guardian.}
+{5575}{}{Un Portale del Guardiano.}
 {5576}{}{I cavalieri di Re Artu'.}
-{5577}{}{Un boscaiolo di latta.}
+{5577}{}{Un uomo di latta.}
 {5578}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5600}{}{Un branco di deathclaw.}
 {5601}{}{Un branco di gecki di fuoco.}
@@ -1420,9 +1420,9 @@
 {5669}{}{I resti di una balena.}
 {5670}{}{Una testa di pietra gigante.}
 {5671}{}{Uno shuttle precipitato.}
-{5672}{}{Un Portale del Guardian.}
+{5672}{}{Un Portale del Guardiano.}
 {5673}{}{I cavalieri di Re Artu'.}
-{5674}{}{Un boscaiolo di latta.}
+{5674}{}{Un uomo di latta.}
 {5675}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5676}{}{Il Caffe' dei Sogni Infranti.}
 {5700}{}{Alcuni yakuza.}
@@ -1482,9 +1482,9 @@
 {5820}{}{I resti di una balena.}
 {5821}{}{Una testa di pietra gigante.}
 {5822}{}{Uno shuttle precipitato.}
-{5823}{}{Un Portale del Guardian.}
+{5823}{}{Un Portale del Guardiano.}
 {5824}{}{I cavalieri di Re Artu'.}
-{5825}{}{Un boscaiolo di latta.}
+{5825}{}{Un uomo di latta.}
 {5826}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5850}{}{Una banda di furfanti e alcuni lupi.}
 {5851}{}{Una banda di furfanti.}
@@ -1587,9 +1587,9 @@
 {6070}{}{I resti di una balena.}
 {6071}{}{Una testa di pietra gigante.}
 {6072}{}{Uno shuttle precipitato.}
-{6073}{}{Un Portale del Guardian.}
+{6073}{}{Un Portale del Guardiano.}
 {6074}{}{I cavalieri di Re Artu'.}
-{6075}{}{Un boscaiolo di latta.}
+{6075}{}{Un uomo di latta.}
 {6076}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6077}{}{Il Caffe' dei Sogni Infranti.}
 {6078}{}{Una banda di mercenari arrabbiati.}
@@ -1619,9 +1619,9 @@
 {6122}{}{I resti di una balena.}
 {6123}{}{Una testa di pietra gigante.}
 {6124}{}{Uno shuttle precipitato.}
-{6125}{}{Un Portale del Guardian.}
+{6125}{}{Un Portale del Guardiano.}
 {6126}{}{I cavalieri di Re Artu'.}
-{6127}{}{Un boscaiolo di latta.}
+{6127}{}{Un uomo di latta.}
 {6128}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6129}{}{Il Caffe' dei Sogni Infranti.}
 {6130}{}{Una banda di mercenari arrabbiati.}
@@ -1664,9 +1664,9 @@
 {6216}{}{I resti di una balena.}
 {6217}{}{Una testa di pietra gigante.}
 {6218}{}{Uno shuttle precipitato.}
-{6219}{}{Un Portale del Guardian.}
+{6219}{}{Un Portale del Guardiano.}
 {6220}{}{I cavalieri di Re Artu'.}
-{6221}{}{Un boscaiolo di latta.}
+{6221}{}{Un uomo di latta.}
 {6222}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6223}{}{Il Caffe' dei Sogni Infranti.}
 {6250}{}{Una pattuglia dell'Enclave.}
@@ -1705,9 +1705,9 @@
 {6318}{}{I resti di una balena.}
 {6319}{}{Una testa di pietra gigante.}
 {6320}{}{Uno shuttle precipitato.}
-{6321}{}{Un Portale del Guardian.}
+{6321}{}{Un Portale del Guardiano.}
 {6322}{}{I cavalieri di Re Artu'.}
-{6323}{}{Un boscaiolo di latta.}
+{6323}{}{Un uomo di latta.}
 {6324}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6325}{}{Il Caffe' dei Sogni Infranti.}
 {6350}{}{Una carovana che respinge alcuni resti dell'Esercito del Master.}
@@ -1759,9 +1759,9 @@
 {6465}{}{I resti di una balena.}
 {6466}{}{Una testa di pietra gigante.}
 {6467}{}{Uno shuttle precipitato.}
-{6468}{}{Un Portale del Guardian.}
+{6468}{}{Un Portale del Guardiano.}
 {6469}{}{I cavalieri di Re Artu'.}
-{6470}{}{Un boscaiolo di latta.}
+{6470}{}{Un uomo di latta.}
 {6471}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6472}{}{Il Caffe' dei Sogni Infranti.}
 {6500}{}{Discarica di rifiuti tossici.}
@@ -1791,9 +1791,9 @@
 {6524}{}{I resti di una balena.}
 {6525}{}{Una testa di pietra gigante.}
 {6526}{}{Uno shuttle precipitato.}
-{6527}{}{Un Portale del Guardian.}
+{6527}{}{Un Portale del Guardiano.}
 {6528}{}{I cavalieri di Re Artu'.}
-{6529}{}{Un boscaiolo di latta.}
+{6529}{}{Un uomo di latta.}
 {6530}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6531}{}{Il Caffe' dei Sogni Infranti.}
 {6532}{}{Una banda di razziatori arrabbiati.}
@@ -1834,7 +1834,7 @@
 {6610}{}{Alcuni cacciatori di taglie.}
 {6611}{}{Alcuni cacciatori di taglie.}
 {6612}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
-{6613}{}{Alcuni contadini che respingono componenti delle armate del Master.}
+{6613}{}{Alcuni contadini che respingono alcuni reparti delle armate del Master.}
 {6614}{}{Alcuni contadini che respingono razziatori.}
 {6615}{}{Un distaccamento di Ranger di NCR.}
 {6616}{}{Alcuni contadini.}
@@ -1857,16 +1857,16 @@
 {6663}{}{Una banda di razziatori.}
 {6664}{}{Alcuni Ranger che respingono una squadra delle armate del Master.}
 {6665}{}{Alcuni Ranger che combattono contro alcuni razziatori.}
-{6666}{}{Alcuni contadini che respingono componenti delle armate del Master.}
+{6666}{}{Alcuni contadini che respingono alcuni reparti delle armate del Master.}
 {6667}{}{Alcuni contadini che respingono razziatori.}
 {6668}{}{Un distaccamento di Ranger di NCR.}
 {6669}{}{Alcuni contadini.}
 {6670}{}{I resti di una balena.}
 {6671}{}{Una testa di pietra gigante.}
 {6672}{}{Uno shuttle precipitato.}
-{6673}{}{Un Portale del Guardian.}
+{6673}{}{Un Portale del Guardiano.}
 {6674}{}{I cavalieri di Re Artu'.}
-{6675}{}{Un boscaiolo di latta.}
+{6675}{}{Un uomo di latta.}
 {6676}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6677}{}{Il Caffe' dei Sogni Infranti.}
 {6678}{}{Una banda di razziatori arrabbiati.}
@@ -1906,8 +1906,8 @@
 {6767}{}{I resti di una balena.}
 {6768}{}{Una testa di pietra gigante.}
 {6769}{}{Uno shuttle precipitato.}
-{6770}{}{Un Portale del Guardian.}
+{6770}{}{Un Portale del Guardiano.}
 {6771}{}{I cavalieri di Re Artu'.}
-{6772}{}{Un boscaiolo di latta.}
+{6772}{}{Un uomo di latta.}
 {6773}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6774}{}{Il Caffe' dei Sogni Infranti.}

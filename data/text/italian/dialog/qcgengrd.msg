@@ -1,14 +1,14 @@
 {100}{}{Vedi una persona che indossa una Power-Armor.}
 {101}{}{Vedi un soldato dell'Enclave.}
-{102}{}{Vedi una persona che indossa un'armatura ad energia dall'aspetto molto tecnologico.}
+{102}{}{Vedi una persona che indossa una Power-Armor dall'aspetto molto avanzato.}
 {103}{}{Chi va la'?}
 {104}{}{Muoversi.}
 {105}{}{Cos'hai da guardare?}
-{106}{}{Vattene.}
+{106}{}{Circolare.}
 {107}{}{Non bighellonare.}
 {108}{}{Faro' rapporto su di te.}
 {109}{}{Torna al lavoro.}
-{110}{}{Ce l'Hai l'autorizzazione per entrare in questa sezione?}
+{110}{}{Ce l'hai l'autorizzazione per entrare in questa sezione?}
 {111}{}{Non puoi piazzarti qui.}
 {112}{}{Continua cosi'...}
 {113}{}{Sta' zitto.}
@@ -27,12 +27,12 @@
 {126}{}{Allora, l'hai saputa quella sul nuovo sottotenente?}
 {127}{}{Qui non succede mai nulla.}
 {128}{}{Vorrei tanto che succedesse qualcosa di eccitante.}
-{129}{}{Ho sentito dire che il VicePresidente e' davvero malato... in testa.}
-{130}{}{Non sei addormentato, vero?}
+{129}{}{Ho sentito dire che il Vicepresidente e' davvero malato... in testa.}
+{130}{}{Non starai dormendo, vero?}
 {131}{}{Prova ricetrasmittente. Prova, prova. Mi sentite?}
 {132}{}{(Yawwwwn)}
 {133}{}{Ehi, c'e' il pokerino stanotte. Cavoli, e mi sento pure fortunato.}
-{134}{}{State in guardia gente.}
+{134}{}{State in guardia, gente.}
 {135}{}{Siate vigilanti.}
 {136}{}{Questa non e' un'esercitazione.}
 {137}{}{Portate i civili al sicuro.}
@@ -46,13 +46,13 @@
 {145}{}{Sezione B, tutto tranquillo.}
 {146}{}{Corridoio, tutto tranquillo.}
 {147}{}{Ritorno al mio posto di guardia.}
-{148}{}{Bravo team a rapporto.}
-{149}{}{Gamma team a rapporto.}
-{150}{}{./~Fa risplendere il nome, fa risplendere il nome, fa risplendere il nome di Rodger Young ./~}
-{151}{}{D'accordo, allora: chi e' che sta masticando del chewing gum nel casco?}
+{148}{}{Squadra Bravo a rapporto.}
+{149}{}{Squadra Gamma a rapporto.}
+{150}{}{./~Splende il nome, splende il nome, splende il nome di Rodger Young ./~}
+{151}{}{D'accordo, allora: chi e' che sta masticando la gomma nel microfono?}
 {152}{}{Smettetela di far casino.}
-{153}{}{./~ Jody's home now, smokin' grass ./~ Jody's pumpin' your wife's..../~}
-{154}{}{./~ Rispondete al richiamo! 1?2?3?4, Riportate il ritmo giu' ./~}
+{153}{}{./~ Jody e' a casa tua, si fuma l'erba ./~ Jody si sta sbattendo tua.../~}
+{154}{}{./~ A voce alta! 1-2-3-4, e chiudiamo in coro ./~}
 {155}{}{Livello 2, tutto tranquillo.}
 {156}{}{Settore 7, tutto tranquillo.}
 {157}{}{Ponte ologrammi, tutto tranquillo.}

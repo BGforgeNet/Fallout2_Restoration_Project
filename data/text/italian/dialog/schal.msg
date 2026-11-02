@@ -12,7 +12,7 @@
 {111}{}{Beh, e allora non rompere. Ho 500 capi di bestiame da mettere in marcia.}
 {112}{}{Ancora tu? Vattene.}
 {113}{}{Che merda di lavoro abbiamo fatto! Temo che stavolta non ci saranno soldi per noi. Accontentati di aver salvato la pelle.}
-{114}{}{Beh, i proprietari non sono troppo contenti - Questo e' un lavoro da soli 1000$. Che sfortuna.}
+{114}{}{Beh, i mandriani non sono troppo contenti - e' un lavoro da soli 1000$. Che sfortuna.}
 {115}{}{Beh, abbiamo avuto un po' di sfortuna ma ce l'abbiamo fatta. Eccoti i 2000$ pattuiti.}
 {116}{}{Per tutti i vitelli da latte! Hai fatto davvero un ottimo lavoro! Eccoti i tuoi 2000$ e anche 1000$ di bonus. Redding fara' bene a stare in guardia, stanotte!}
 {117}{}{Adesso puoi andare. E' stato bello viaggiare con te.}

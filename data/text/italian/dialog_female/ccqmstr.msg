@@ -1,21 +1,21 @@
-{100}{}{Vedi una persona in Power Armor.}
+{100}{}{Vedi una persona in Power-Armor.}
 {101}{}{Vedi il Furiere.}
 {102}{}{Vedi una persona che indossa una Power-Armor dall'aspetto insolito. Sul petto c'e' uno stemma che non ti e' familiare.}
 {103}{}{Chi diavolo...? Allarme! Intrusi nella base!}
-{104}{}{Cosa dia...? Adesso capisco perche' sei venuto qui. Mi pare chiaro che tu voglia sbarazzarti dell'armatura vetusta che indossi.}
+{104}{}{Cosa dia...? Adesso capisco perche' sei venuta qui. Mi pare chiaro che tu voglia sbarazzarti dell'armatura vetusta che indossi.}
 {105}{}{Perche' non hai l'uniforme, soldato?}
-{106}{}{Morire!}
+{106}{}{Muori!}
 {107}{}{Uh, si'...}
 {108}{}{Uh...}
-{109}{}{Me nuovo qui.}
-{110}{}{Me no uno di tuoi soldati!}
+{109}{}{Me nuova qui.}
+{110}{}{Me no una di tuoi soldati!}
 {111}{}{Uh, beh...}
-{112}{}{Sono nuovo di qui.}
-{113}{}{Non sono uno dei tuoi soldati!}
+{112}{}{Sono nuova di qui.}
+{113}{}{Non sono una dei tuoi soldati!}
 {114}{}{Uh, cosa? Non sai pensare ad una buona scusa? Sto aspettando, soldato!}
 {115}{}{Me no ha uniforme, ancora.}
 {116}{}{Non ho ancora un'uniforme.}
-{117}{}{Sei un po' lento di comprendonio, vero? (sigh) Beh, non e' colpa tua. Ho un fratello nella tua stessa situazione. Ad ogni modo... sei nuovo di qui? Non mi ricordo di averti mai visto prima.}
+{117}{}{Sei un po' lenta di comprendonio, vero? (sospira) Beh, non e' colpa tua. Ho un fratello nella tua stessa situazione. Ad ogni modo... sei nuova di qui? Non mi ricordo di averti mai vista prima.}
 {118}{}{Sei nuova di qui? Non ricordo di averti mai visto prima.}
 {119}{}{Si'! Me nuova qui!}
 {120}{}{Si', sono nuova di qui.}
@@ -25,7 +25,7 @@
 {124}{}{Adesso sono occupato. Torna piu' tardi.}
 {125}{}{Salve, recluta. Ho appena ricevuto una chiamata dal Sergente. Dice che ti devo fornire l'equipaggiamento e che poi ti devo mandare nuovamente da lui. E' cosi'?}
 {126}{}{Si'.}
-{127}{}{Questa base e' in stato di allerta e io non ti riconosco. Fammi vedere i tuoi documenti, soldato..}
+{127}{}{Questa base e' in stato di allerta e io non ti riconosco. Fammi vedere i tuoi documenti, soldato.}
 {128}{}{Me no ha documenti con me.}
 {129}{}{Me no serve documenti!}
 {130}{}{Non ho i miei documenti qui con me. Sono nel mio armadietto.}

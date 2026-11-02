@@ -1,5 +1,5 @@
 {100}{}{Vedi un obice, modello SIAD-BG.}
-{101}{}{Sebbene abbia un aspetto un po' cadente, pensi che possa ancora sparare. Se solo tu riuscissi a trovare un proiettile.}
+{101}{}{Sebbene abbia un aspetto un po' malandato, pensi che possa ancora sparare. Se solo tu riuscissi a trovare un proiettile.}
 {102}{}{Il meccanismo di fuoco si e' fuso. Adesso davanti a te c'e' soltanto un fermacarte da 2 tonnellate.}
 {200}{}{L'obice e' gia' carico.}
 {201}{}{Inserisci il proiettile nell'obice.}

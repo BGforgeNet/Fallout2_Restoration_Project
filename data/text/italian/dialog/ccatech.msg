@@ -1,13 +1,13 @@
 {100}{}{Vedi un tecnico.}
 {101}{}{Vedi un tecnico dell'Enclave.}
-{102}{}{Vedi una persona che indossa un camice da laboratorio. Sembra sicuro di se'.}
+{102}{}{Vedi qualcuno che indossa un camice da laboratorio. Sembra sicuro di se'.}
 {103}{}{Si', soldato?}
 {104}{}{Me nuovo qui. Deve chiedere domande.}
 {105}{}{Me solo dice ciao. Me va ora.}
 {106}{}{Sono nuovo di qui e sto cercando di ambientarmi nella base. Posso farti qualche domanda?}
 {107}{}{Volevo solo salutare. Ci si vede.}
 {108}{}{Certo. Ho giusto un paio di minuti.}
-{109}{}{Come posso aiutarla?}
+{109}{}{Come posso aiutarti?}
 {110}{}{Cosa essere questo posto?}
 {111}{}{Cosa essere tuo lavoro?}
 {112}{}{Dove base madre di Enclave essere?}
@@ -21,7 +21,7 @@
 {126}{}{Questo e' il centro di controllo del traffico aereo. Da qui possiamo monitorare tutti gli spostamenti dei vertibird.}
 {127}{}{Me capito. Me chiede altro.}
 {128}{}{Bene. Ancora un paio di domande...}
-{129}{}{Sono il responsabile informatico. Mantengo i contatti con il mainframe situato qui sotto.}
+{129}{}{Sono il responsabile informatico. Mi occupo del collegamento con il mainframe qui sotto.}
 {130}{}{Uh... gia'.}
 {131}{}{Bene. Continua cosi'.}
 {132}{}{Non arrivi da li'?}

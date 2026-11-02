@@ -1,10 +1,10 @@
 {100}{}{Vedi un abitante di Redding.}
-{101}{}{Quest'uomo pare viva qui.}
+{101}{}{Quest'uomo sembra vivere qui.}
 {102}{}{Vedi un minatore.}
 {103}{}{Vedi un contadino di Redding.}
 {104}{}{Vedi un uomo del posto.}
 {105}{}{Vedi una donna di Redding.}
-{106}{}{Questa donna pare viva qui.}
+{106}{}{Questa donna sembra vivere qui.}
 {107}{}{Vedi una donna del posto.}
 {108}{}{Vedi una donna che con tutta probabilita' lavora nelle miniere.}
 {109}{}{Vedi una contadina.}
@@ -19,40 +19,40 @@
 {118}{}{Come va?}
 {119}{}{Come va la vita?}
 {120}{}{Buona giornata a te.}
-{121}{}{Ci'.}
+{121}{}{Gia'.}
 {122}{}{Ehila'.}
 {123}{}{Vedi un uomo con una bevanda fresca in mano.}
 {124}{}{Vedi un uomo che ordina una birra.}
 {125}{}{Questo tipo ha gia' bevuto troppo.}
-{126}{}{Vedi un'ubriacona.}
+{126}{}{Vedi un ubriacone.}
 {127}{}{Questo gentiluomo sembra molto felice.}
 {128}{}{Vedi una donna con una bibita fresca in mano.}
 {129}{}{Vedi una donna che sta ordinando una birra.}
 {130}{}{Questa tipa ha gia' bevuto troppo.}
-{131}{}{Vedi un'ubriacona.}
-{132}{}{Questa donna sembra intossicata.}
+{131}{}{Vedi un ubriacone.}
+{132}{}{Questa donna sembra ubriaca.}
 {133}{}{Salve, straniero.}
 {134}{}{Ciao.}
 {135}{}{Hmmm.}
 {136}{}{Urp.}
 {137}{}{Glug-glug-glug.}
 {138}{}{Grazie, straniero.}
-{139}{}{Non male per un selvaggio, direi.}
+{139}{}{Non male per un tribale, direi.}
 {140}{}{Ne avevo proprio bisogno.}
 {141}{}{Mmm-hmmm.}
 {142}{}{Grazie.}
 {143}{}{Sei il mio migliore amico.}
 {144}{}{Che amicone.}
 {145}{}{Sei il migliore.}
-{146}{}{Anche i selvaggi sono persone.}
+{146}{}{Anche i tribali sono persone.}
 {147}{}{Non c'e' niente come gli amici, non e' vero?}
-{148}{}{Credo di aver voglia di cantare…}
+{148}{}{Credo di aver voglia di cantare...}
 {149}{}{Ritiro gran parte di quello che prima ho detto su di te.}
 {150}{}{Che amico.}
-{151}{}{I selvaggi sono persone come noi.}
-{152}{}{Hip, hip, hurrah per il selvaggio.}
-{153}{}{./~ Quanto ho sete, quanto ho sete… ./~}
-{154}{}{./~ 99 bottiglie di birra sul muro, 99 bottiglie di birra… ./~}
+{151}{}{I tribali sono proprio gente come piace a noi.}
+{152}{}{Hip, hip, hurrah per il tribale.}
+{153}{}{./~ Quanto ho sete, quanto ho sete... ./~}
+{154}{}{./~ 99 bottiglie di birra sul muro, 99 bottiglie di birra... ./~}
 {155}{}{Quest'uomo sembra essere a casa sua.}
 {156}{}{Vedi un uomo che mangia.}
 {157}{}{Vedi un uomo intento a rammendare un vestito.}
@@ -66,29 +66,29 @@
 {165}{}{Salve.}
 {166}{}{Cosa fai qui?}
 {167}{}{Non ti ho invitato.}
-{168}{}{Vattene. Qui non facciamo l'elemosina ai selvaggi.}
+{168}{}{Vattene. Qui non facciamo l'elemosina ai tribali.}
 {169}{}{Vattene! Sparisci!}
 {170}{}{Perche' sei in casa mia?}
 {171}{}{Vedi un minatore di Redding.}
 {172}{}{Vedi un minatore.}
 {173}{}{Vedi un minatore stanco.}
-{174}{}{Vedi un minatore d'oro.}
+{174}{}{Vedi un minatore delle miniere d'oro.}
 {175}{}{Vedi una persona ricoperta di terra.}
 {176}{}{Questa persona dev'essere un minatore.}
-{177}{}{./~ Di un altro giorno piu' vecchio & piu' profondo il debito ./~}
+{177}{}{./~ Un giorno piu' vecchio e ancora piu' indebitato ./~}
 {178}{}{Ho terra dappertutto.}
-{179}{}{E' davvero buio quaggiu'.}
+{179}{}{E' davvero buio laggiu'.}
 {180}{}{Noi si deve scavare.}
-{181}{}{Noi le scaviamo e li' noi muoriamo.}
+{181}{}{Noi le scaviamo e poi ci moriamo dentro.}
 {182}{}{Perche' l'oro non si trova in superficie?}
 {183}{}{Vedi una persona agitata.}
 {184}{}{Questa persona e' molto nervosa.}
 {185}{}{Vedi una persona che guarda il ring.}
-{186}{}{Questa persona sembra ipnotizzata.}
+{186}{}{Questa persona sembra su di giri.}
 {187}{}{Vedi una persona che deve aver puntato dei soldi sui combattimenti.}
 {188}{}{Questa persona sembra eccitata.}
 {189}{}{Fallo secco!}
-{190}{}{Ecco che svanisce una settimana di paga…di nuovo.}
+{190}{}{Ecco che svanisce una settimana di paga... di nuovo.}
 {191}{}{Yeah!}
 {192}{}{Uccidi, uccidi, uccidi!}
 {193}{}{Alla gola!}
@@ -103,14 +103,14 @@
 {202}{}{Il gioco di gambe, stupido! Il gioco di gambe!}
 {203}{}{Finiscilo!}
 {204}{}{Combatti!}
-{205}{}{Vedi un giovanotto.}
-{206}{}{Questo giovanotto e' venuto al mercato.}
+{205}{}{Vedi un ragazzino.}
+{206}{}{Questo ragazzino e' venuto al mercato.}
 {207}{}{Vedi un giovane.}
-{208}{}{Vedi un ragazzino coperto di terra.}
+{208}{}{Vedi un ragazzino coperto di polvere.}
 {209}{}{Questo bambino e' coperto di fango.}
-{210}{}{Vedi un ragazzino che si scaccola il naso.}
+{210}{}{Vedi un ragazzino che si mette le dita nel naso.}
 {211}{}{Vedi un bambino che ti osserva.}
-{212}{}{Vedi un piccolo buzzurro.}
+{212}{}{Vedi un bimbetto.}
 {213}{}{Vedi una ragazzina.}
 {214}{}{Vedi una bambina carina.}
 {215}{}{Ehila', signore.}

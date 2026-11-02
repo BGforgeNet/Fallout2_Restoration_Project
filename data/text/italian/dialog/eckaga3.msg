@@ -1,6 +1,6 @@
 {100}{}{Vedi un uomo che indossa un'armatura di metallo.}
 {101}{}{Vedi Kaga.}
-{102}{}{Gia'... e' Kaga il non-cosi-Grande. Ha un'armatura di metallo e vuole ammazzarti.}
+{102}{}{Gia'... e' Kaga il non-cosi'-Grande. Ha un'armatura di metallo e vuole ammazzarti.}
 {103}{}{Ancora tu!}
 {104}{}{Mi sto stufando dei nostri continui incontri.}
 {105}{}{Prescelto - hmph!}

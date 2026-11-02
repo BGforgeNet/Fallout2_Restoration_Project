@@ -12,7 +12,7 @@
 {203}{}{Grazie!}
 {204}{}{No grazie.}
 {205}{}{No, grazie.}
-{206}{}{Bene.}
+{206}{}{Certo.}
 {207}{}{Si'.}
 {208}{}{No.}
 {209}{}{OK.}
@@ -26,17 +26,17 @@
 {353}{}{[CONTINUA]}
 {354}{}{[COMBATTI]}
 {355}{}{[DAI SOLDI]}
-{375}{}{Addio.}
+{375}{}{Ciao.}
 {376}{}{Arrivederci.}
 {400}{}{Muori a causa dell'iniezione letale del Dr. Troy.}
-{450}{}{La costa e' sgombra. Muoviamoci!}
+{450}{}{Via libera. Muoviamoci!}
 {900}{}{Sembra che questa vecchia porta consunta possa essere distrutta da un esplosivo ben piazzato.}
 {901}{}{Vedi il carro che serve a riportare gli schiavi al Den.}
-{905}{}{Uff! Uff!}
+{905}{}{Woof! Woof!}
 {910}{}{Ricevi una scossa dal pavimento elettrificato.}
 {911}{}{ riceve una scossa dal pavimento elettrificato.}
 {912}{}{I livelli energetici crollano a zero e poi tornano al 50% non appena si attiva il generatore di riserva.}
-{913}{}{Si sente un rumore sommesso non appena l'energia riprende a scorrere nella base.}
+{913}{}{Si sente un leggero ronzio mentre l'energia torna a scorrere nella base.}
 {920}{}{Ti imbatti nei resti di Nagor, morto mentre cercava di salvare il suo cane.}
 {921}{}{Nagor e' morto mentre cercava di riportare al villaggio il cadavere del suo cane.}
 {930}{}{Hoooooowl!}
@@ -47,9 +47,9 @@
 {1001}{}{Hai informato McClure della dipendenza da Jet di cui e' vittima Redding.}
 {1002}{}{Hai riaperto i traffici commerciali con Redding.}
 {1003}{}{Hai disattivato i campi di forza.}
-{1004}{}{Ti sei infiltrato nel computer.}
+{1004}{}{Hai violato il computer.}
 {1005}{}{Hai riparato il pozzo.}
-{1006}{}{Hai consegnato Hakeswill alla Giustizia.}
+{1006}{}{Hai consegnato Hakeswill alla giustizia.}
 {1007}{}{Hai consegnato il chip per la scavatrice.}
 {1008}{}{Hai risolto il problema della Vedova Rooney.}
 {1009}{}{Hai superato le prove di Arroyo.}
@@ -57,12 +57,12 @@
 {1011}{}{Hai distrutto il reattore.}
 {1012}{}{ALLARME! FUSIONE completa del REATTORE!}
 {1013}{}{ALLARME! TOSSINE rilasciate nei condotti dell'aria.}
-{1014}{}{Hai ripulito la Miniera Wanamingo.}
+{1014}{}{Hai ripulito la Miniera di Wanamingo.}
 {1015}{}{Hai superato la stanza-enigma.}
-{1016}{}{Oops, mi stavo quasi per dimenticare del GECK. Mi domando se da queste parti ce n'e' uno.}
+{1016}{}{Oops, per poco non mi dimenticavo del GECK. Chissa' se ce n'e' uno da queste parti.}
 {1017}{}{La porta si spalanca grazie al codice del GECK.}
 {1018}{}{Hai spazzato via la banda di Frog Morton.}
-{1019}{}{Hai disattivato le piastre elettriche.}
+{1019}{}{Disattivi le piastrelle elettrificate.}
 {1020}{}{Hai sedato la rissa nel bar.}
 {1021}{}{Hai disattivato il Terminale del Robot Riparatore.}
 {1050}{}{Lavori la tossina di scorpione ricavandone dell'antidoto.}
@@ -110,7 +110,7 @@
 {2040}{}{quaranta}
 {2041}{}{quarantuno}
 {2042}{}{quarantadue}
-{2043}{}{quarantetre}
+{2043}{}{quarantatre}
 {2044}{}{quarantaquattro}
 {2045}{}{quarantacinque}
 {2046}{}{quarantasei}
@@ -178,10 +178,10 @@
 {3055}{}{Rifallo e ti stacchero' la testa.}
 {3056}{}{Giu' le mani!}
 {3057}{}{Cerchi guai?}
-{3058}{}{Toccami di nuovo e sei morto.}
+{3058}{}{Toccami di nuovo e sei morta.}
 {3059}{}{Solo i guai sono gratis.}
 {3060}{}{Ehi! Stammi lontano.}
-{3061}{}{Sta' attento!}
+{3061}{}{Sta' attenta!}
 {3062}{}{Vuoi morire?}
 {3063}{}{Provaci di nuovo e ti spacchero' la testa.}
 {3064}{}{Quello e' mio; giu' le mani!}
@@ -189,7 +189,7 @@
 {3100}{}{}
 {3300}{}{}
 {3325}{}{Perche' adesso non rimetti tutto dov'era prima?}
-{3326}{}{Sai, non e' carino prendere quello che non ci appartiene.}
+{3326}{}{Sai, non e' carino prendere quello che non e' tuo.}
 {3327}{}{Allontanati da li', teppista!}
 {3328}{}{Adesso non venirmi a dire che stavi "soltanto cercando le tue chiavi". Fuori di qui!}
 {3329}{}{Qualunque cosa tu stia cercando, non e' qui. Capito?}
@@ -208,7 +208,7 @@
 {3925}{}{Ehi, tu! Cosa ci fai li'?}
 {3926}{}{Non dovresti essere qui!}
 {3927}{}{Se credi di potermi passare sotto il naso, te lo puoi scordare!}
-{3928}{}{Faresti meglio a non pensare a quello che stai pensando, straniera.}
+{3928}{}{Spero per te che tu non stia tramando quello che penso, straniera.}
 {3929}{}{Cosa? Credi forse che non ti abbia visto? Fuori di qui!}
 {3950}{}{}
 {3975}{}{}
@@ -256,5 +256,5 @@
 {20100}{}{Questa porta non ha la serratura.}
 {21020}{}{venti}
 {30000}{}{Hai derubato la tua tribu'.}
-{40000}{}{Jella?Slot}
-{40001}{}{Grazie a un piccolo ma coraggioso elettrodomestico da cucina, conosci un modo segreto per far sputare alle slot machine tutto il loro denaro. Peccato che rompa la macchina nel processo. Ops!}
+{40000}{}{Jella-Slot}
+{40001}{}{Grazie a un piccolo ma coraggioso elettrodomestico da cucina, conosci un modo segreto per far sputare alle slot machine tutto il loro denaro. Peccato che nel farlo la macchina si rompa. Ops!}

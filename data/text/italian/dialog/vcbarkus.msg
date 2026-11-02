@@ -26,7 +26,7 @@
 {125}{}{Cos'e' questo edificio?}
 {126}{}{Chiunque puo' entrare?}
 {127}{}{Avrei un'altra domanda da farti.}
-{128}{}{Grazie per le indicazioni. addio.}
+{128}{}{Grazie per le indicazioni. Arrivederci.}
 {129}{}{Cosa dia-? Sei per caso uno dei nuovi Servi?}
 {130}{}{Yup}
 {131}{}{Uh-uh me andare via, ora}
@@ -38,7 +38,7 @@
 {137}{}{Sto cercando un Servo in particolare... Joshua, mi pare si chiami. Si trova qui?}
 {138}{}{Siete interessati a comprare schiavi... er, servi, al momento?}
 {139}{}{D'accordo, ero solo curioso, grazie. Buona giornata.}
-{140}{}{Sono stufo che i Servi vengano mandati qui senza autorizzazione...*sigh*...vediamo, hai detto che stai cercando il Vault? Probabilmente e' il tuo assegnamento per la giornata. Molto bene. Ti faro' accompagnare la' da qualcuno.}
+{140}{}{Sono stufo che i Servi vengano mandati qui senza autorizzazione...*sigh*...vediamo, hai detto che stai cercando il Vault? Probabilmente e' il tuo incarico per la giornata. Molto bene. Ti faro' accompagnare la' da qualcuno.}
 {141}{}{Valt! Valt!}
 {142}{}{Se fossi in te eviterei di parlare a quel modo. Questo NON e' schiavismo. Noi ci prendiamo cura di questi profughi e loro non se la passano male... vivono meglio di quanto farebbero se rimanessero nelle lande.}
 {143}{}{Dove li prendete?}
@@ -98,7 +98,7 @@
 {197}{}{Ci pensero'. Avrei delle altre domande, intanto...}
 {198}{}{Capisco. Magari sara' per un'altra volta.}
 {199}{}{Capisco. Magari sara' per un'altra volta, quando avro' abbastanza denaro per una donazione.}
-{200}{}{Beh... questa non la chiamerei esattamente una donazione, ma puo' andare. Mi assicurero' che questo Joshua venga inviato al Cortile. Dammi solo il tempo di eseguire le dovute operazioni.}
+{200}{}{Beh... non e' proprio la donazione che speravo, ma puo' andare. Mi assicurero' che questo Joshua venga inviato al Cortile. Dammi solo il tempo di eseguire le dovute operazioni.}
 {201}{}{Okay.}
 {202}{}{Ecco fatto. Joshua non e' piu' un Servo di Vault City, ed e' stato riportato nel Cortile tra gli altri Esterni.}
 {203}{}{Grazie. Avrei delle altre domande...}
@@ -132,7 +132,7 @@
 {231}{}{Veramente no, non oggi. Arrivederci.}
 {232}{}{Hmmm. Quella donna... Miria, giusto? Ha braccia forti...e bei fianchi. Te la compro per 250$.}
 {233}{}{Hmmm. Quel ragazzo... Davin, giusto? Sembra relativamente poco contaminato dal mondo esterno. Te lo compro per 200$.}
-{234}{}{Hmmm. Quel selvaggio che ti porti dietro. Emana una puzza...terrificante. Ma sembra in salute. Lo prendo per 100$.}
+{234}{}{Hmmm. Quel tribale che ti porti dietro. Emana una puzza...terrificante. Ma sembra in salute. Lo prendo per 100$.}
 {235}{}{Hmmm. Quell'uomo...Vic, giusto? Sebbene sia vecchio, sembra essere un tuttofare. 100$.}
 {236}{}{Forse dovresti tornare quando avrai un servo di valore da mostrarmi. La tua merce attuale e'... poco appetibile.}
 {237}{}{Eddai, questo schiavo vale molto di piu'.}
@@ -142,14 +142,14 @@
 {241}{}{Molto bene. Avrei delle altre domande da farti, pero'...}
 {242}{}{D'accordo. Ci vediamo quando avro' della merce migliore, allora.}
 {243}{}{No, non la penso cosi'... 250 o niente.}
-{244}{}{No, il ragazzo sembra essere un tipo difficile da educare... 250 o niente.}
-{245}{}{Guarda. Servira' una settimana solo per togliere la puzza da quel selvaggio. 100 o niente.}
+{244}{}{No, il ragazzo sembra essere un tipo difficile da educare... 200 o niente.}
+{245}{}{Guarda. Servira' una settimana solo per togliere la puzza da quel tribale. 100 o niente.}
 {246}{}{Non sei nemmeno in grado di assicurarmi che non avra' un attacco di cuore non appena me l'avrai venduto. E' vecchio. 100 o niente.}
 {247}{}{D'accordo, venduto. Il servo e' tuo.}
 {248}{}{Scordatelo, allora. Avrei pero' delle domande che vorrei farti...}
 {249}{}{E niente sia, allora. Non posso permettermi di vendere il mio servo a quel prezzo. Magari un'altra volta.}
 {250}{}{Hmmmm... Sembra essere un esemplare in salute... magari potrei metterla a lavorare qui. 500$. E questa e' la mia ultima offerta.}
-{251}{}{Hmmmm. E' un esemplare in salute. Ti daro' 500$.}
+{251}{}{Hmmmm. E' un esemplare in salute. Allora, 400$ per lui.}
 {252}{}{Hmmmm. D'accordo. 200$, allora. Ma le contrattazioni finiscono qui.}
 {253}{}{Hmmmmmmm. 200$. E non un dollaro di piu'.}
 {254}{}{Venduto. Il servo e' tuo.}
@@ -157,14 +157,14 @@
 {256}{}{Veramente, non ho intenzione di vendere questo schiavo, al momento. Sara' per un'altra volta.}
 {257}{}{Ottimo. Ecco i tuoi soldi. La mando subito al centro medico perche' sia sottoposta alle visite necessarie e poi faro' in modo che venga educata ai suoi nuovi compiti. }
 {258}{}{Ottimo. Ecco i tuoi soldi. Lo mando subito al centro medico perche' sia sottoposto alle visite necessarie e poi faro' in modo che venga educato ai suoi nuovi compiti. }
-{259}{}{Ottimo. Ecco i tuoi soldi. Faccio subito mandare il selvaggio al centro medico perche' sia sottoposto alle visite necessarie e poi faro' in modo che venga educato ai suoi nuovi compiti. }
+{259}{}{Ottimo. Ecco i tuoi soldi. Faccio subito mandare il tribale al centro medico perche' sia sottoposto alle visite necessarie e poi faro' in modo che venga educato ai suoi nuovi compiti. }
 {260}{}{Ottimo. Ecco i tuoi soldi. Faccio subito mandare il vecchio al centro medico perche' sia sottoposto alle visite necessarie e poi faro' in modo che venga educato ai suoi nuovi compiti. }
 {261}{}{Dammi solo un secondo per eseguire le operazioni necessarie...}
 {262}{}{Certo. Aspettero' qui.}
 {263}{}{Molto bene. Il tuo Servo e' stato trasferito affinche' vengano eseguiti su di lui gli esami clinici e possa affrontare la rieducazione. Strano... il Servo sembrava piuttosto sorpreso da questa situazione. Ci sono voluti un po' di tranquillanti per risolvere la cosa. Ho messo tutto quello che il Servo portava con se' nel baule che c'e' nel mio ufficio.}
-{264}{}{Beh, i Servi saranno Servi. Avrei delle altre domande da farti...}
+{264}{}{Beh, i Servi sono fatti cosi'. Avrei delle altre domande da farti...}
 {265}{}{Davvero? Beh, sono sicuro che diventera' docile come un agnellino. Ti interessa qualcun altro dei miei compagni?}
-{266}{}{Si', dev' essere un po' difficile, all'inizio; si abituera' presto. Buona giornata.}
+{266}{}{Si', all'inizio possono essere un po' difficili, ma ci si abitueranno. Buona giornata. Buona giornata.}
 {267}{}{Che cosa ci fai di nuovo qui? Ti avevo mandato al Vault! Per tutti i... molto bene, ti faro' accompagnare nuovamente la'.}
 {268}{}{Oh-keeeee}
 {269}{}{Hai convinto Barkus a rilasciare Joshua.}

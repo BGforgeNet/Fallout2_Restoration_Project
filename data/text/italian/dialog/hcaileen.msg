@@ -2,17 +2,17 @@
 {101}{}{Vedi Aileen, una dei farmacisti della citta'.}
 {102}{}{Vedi una donna di mezz'eta' discretamente attraente. Sembra severa e capace. Le sue mani sono coperte di macchie causate da prodotti chimici.}
 {103}{}{Grazie per l'aiuto che dai alla causa.}
-{104}{}{Sono felice che tu sia uno dei nostri.}
+{104}{}{Sono felice che tu stia dalla nostra parte.}
 {105}{}{Gliela faremo vedere a quei mutanti.}
 {106}{}{Viva i diritti degli umani, compagno.}
 {107}{}{Hai la stoffa giusta.}
 {108}{}{Esci subito di qui.}
 {109}{}{Amante dei mutanti.}
 {110}{}{Farai meglio a tenere la bocca chiusa, se ci tieni alla pelle.}
-{111}{}{Dannato simpatizzante con i mutanti.}
+{111}{}{Dannato simpatizzante dei mutanti.}
 {112}{}{Perche' non te ne torni dai tuoi amici mutanti?}
 {113}{}{Solidarieta' umana, compagno.}
-{114}{}{E' noi contro di loro.}
+{114}{}{Siamo noi contro di loro.}
 {115}{}{Hai scelto la squadra vincente.}
 {116}{}{Quei mutanti la pagheranno.}
 {117}{}{Mostreremo a quei mutanti chi e' che comanda.}
@@ -26,9 +26,9 @@
 {125}{}{Sei solo un lacche' dell'imperialismo mutante.}
 {126}{}{Stavolta hai fatto la scelta sbagliata.}
 {127}{}{Ti pentirai di quello che hai fatto.}
-{128}{}{Fuori di qui, idiota d'un corrotto.}
-{129}{}{Devi essere per meta' mutante.}
-{130}{}{Fuori di qui, spurio.}
+{128}{}{Fuori di qui, idiota contaminato.}
+{129}{}{Devi essere in parte mutante.}
+{130}{}{Fuori di qui, impuro.}
 {131}{}{Stupido pazzo. Fuori di qui!}
 {132}{}{Non ho tempo da perdere con i tipi come te.}
 {133}{}{Parla con Jacob se vuoi qualcosa.}
@@ -37,8 +37,8 @@
 {136}{}{Io non posso aiutarti, ma puo' farlo Jacob, mio marito.}
 {137}{}{Lasciami in pace.}
 {138}{}{E' carino da parte tua venire a farci visita. Adesso vattene.}
-{139}{}{Perche' vorresti attraversare tutto quel fango?}
-{140}{}{Ti comporteresti allo stesso modo se tu fossi nella tua, uh, tenda?}
+{139}{}{Perche' hai portato dentro tutto quel fango?}
+{140}{}{Ti comporteresti cosi' nella tua, uh, tenda?}
 {141}{}{Lasciami in pace.}
 {142}{}{Non so cosa tu voglia, ma io vorrei che tu mi lasciassi in pace.}
 {143}{}{Ci hanno incastrato! Non abbiamo ucciso noi quelle persone nei tunnel!}

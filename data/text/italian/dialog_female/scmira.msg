@@ -1,8 +1,8 @@
 {100}{}{Ritieni che, nonostante i capelli verdi e lo sguardo accigliato, sia la barista di questo locale.}
-{101}{}{E' Mira. Sta mischiando un Irradia-Budella.}
+{101}{}{E' Mira. Prepara un Irradia-Budella da paura.}
 {102}{}{Beh, e' giovane e carina, ma nei suoi occhi c'e' qualcosa che ti fa pensare che non sia tipo da farsi mettere i piedi in testa da nessuno. Quello, e le nocche appuntite che penzolano dalla catena che ha intorno al collo.}
 {103}{}{Mi chiamo Mira. Che cosa prendi, straniera?}
-{104}{}{Bentornato. Che cosa prendi?}
+{104}{}{Bentornata. Che cosa prendi?}
 {105}{}{Bere.}
 {106}{}{Vault 13?}
 {107}{}{GECK?}
@@ -11,10 +11,10 @@
 {110}{}{Informazioni.}
 {111}{}{Sto cercando lavoro.}
 {112}{}{Beh, sei davvero una tipa particolare! Proprio come piace a me.}
-{113}{}{Sei tornato?}
+{113}{}{Sei tornata?}
 {114}{}{Yubba.}
 {115}{}{Whoa - hai dato una bella lezione a Lenny. Impressionante! Vieni, ti offro da bere.}
-{116}{}{Quello che hai fatto a Lenny - e' stato orribile!}
+{116}{}{Quello che hai fatto a Lenny - e' stato pazzesco!}
 {117}{}{Oh cielo, una raffinata parlatrice. Che cosa prendi - un Irradia-Budella? Solo dieci dollari.}
 {118}{}{Si'.}
 {119}{}{No.}
@@ -38,8 +38,8 @@
 {137}{}{E' tutto.}
 {138}{}{Fuori di qui, parassita!}
 {139}{}{Certo, ho un po' di tempo. Di solito e' questa la specialita' dei baristi. Solo non farti venire idee strane.}
-{140}{}{Per te ho sempre del tempo, baby. Che cosa vuoi?}
-{141}{}{Bene.}
+{140}{}{Per te ho sempre del tempo, tesoro. Che cosa vuoi?}
+{141}{}{Certo.}
 {142}{}{Parlami di questa citta'.}
 {143}{}{Hai mai sentito parlare del Vault 13?}
 {144}{}{Sto cercando una cosa chiamata GECK. Ne sai qualcosa?}
@@ -47,12 +47,12 @@
 {146}{}{C'e' un poliziotto in citta' che dice delle cose non molto carine su di te. Cosa puoi dirmi di lui?}
 {147}{}{Beh, questo blocca l'idea sul nascere.}
 {148}{}{Si chiama NCR. Una volta il suo nome era Shady Sands, ma dopo la disfatta del Master, Aradesh e gli altri fondarono la Repubblica. Oggi NCR si trova proprio sul suo confine settentrionale. Tutto cio' che c'e' a sud e' sotto il governo della Repubblica.}
-{149}{}{Ti do un consiglio. Sta' alla larga da questa citta'. I giudici non sono molto clementi con i tipi come noi, se capisci quel che voglio dire. I cittadini hanno molti piu' diritti di te.}
+{149}{}{Ti do un consiglio. Riga dritto, in citta'. I giudici non sono molto clementi con i tipi come noi, se capisci quel che voglio dire. I cittadini hanno molti piu' diritti di te.}
 {150}{}{Ascolta, questo e' tutto quello che posso dirti.}
 {151}{}{Hmm.}
 {152}{}{Ancora un paio di domande...}
 {153}{}{Beh, grazie. Me ne ricordero'.}
-{154}{}{Sei un altro di quegli scoppiati in cerca del tesoro perduto? Allora dovresti andare a parlare con Saltbeef Bob, giu' al Ranch Westin. E' sempre che parla del tesoro. Dovrai prima bagnargli la gola, pero'.}
+{154}{}{Sei un'altra di quegli scoppiati in cerca del tesoro perduto? Allora dovresti andare a parlare con Saltbeef Bob, giu' al Ranch Westin. Parla sempre del tesoro. Dovrai prima bagnargli la gola, pero'.}
 {155}{}{Saltbeef? Me va.}
 {156}{}{Ancora un paio di domande...}
 {157}{}{Beh, grazie. Me ne ricordero'.}
@@ -68,7 +68,7 @@
 {167}{}{Bene, che ne diresti di parlare di qualcos'altro?}
 {168}{}{Bene, credo che adesso me ne andro'.}
 {169}{}{Oh, molto illuminante. Senti, potresti provare a parlare con il Dr. Henry, giu' in citta', ma io ho altre cose da fare, Dumbo.}
-{170}{}{Kit di Creazione del Giardino dell'Eden? Mi sembra una cosa tecnologica. Puoi provare a chiedere a Dorothy, l'ingegnere cittadino. }
+{170}{}{Kit di Creazione del Giardino dell'Eden? Mi sembra una cosa tecnologica. Puoi provare a chiedere a Dorothy, il meccanico cittadino. }
 {171}{}{Ancora un paio di domande...}
 {172}{}{Beh, grazie. Me ne ricordero'.}
 {173}{}{Hmm -- lavoro? Vuoi un lavoro? Aiutare Mira?}
@@ -78,11 +78,11 @@
 {177}{}{Si'.}
 {178}{}{No.}
 {179}{}{Bene! Mira mettere corda su muro. Andare di notte. Trovare corda. Entrare di nascosto. Andare grosso posto con cancello. Trovare Jack. Fare male Jack. Mira dare te pistola.}
-{180}{}{Trovare corda. Entrare di nascosto. Andare grosso posto con cancello. Trovare Jack. Fare male Jack. Mira dare te pistola. Ora tu andare via. Me vista con te - no bene. Aiutare Mira e tornare. Capito?}
+{180}{}{Andare di notte. Trovare corda. Entrare di nascosto. Andare grosso posto con cancello. Trovare Jack. Fare male Jack. Mira dare te pistola. Ora tu andare via. Me vista con te - no bene. Aiutare Mira e tornare. Capito?}
 {181}{}{Mira sentito Jack fatto male. Bel lavoro, Dumbo. Ecco pistola, tu prendere. Grazie.}
 {182}{}{Fottiti anche tu. Non mi liberero' mai di quel bastardo.}
 {183}{}{Dovresti parlare con Merk, ma non e' qui. Torna dopo il tramonto. Quell'ora gli si addice di piu'.}
-{184}{}{Non so cosa tu abbia fatto a Lenny, ma, se fossi in te, non starei troppo a lungo qui nei paraggi. Quel che hai fatto non ti rendera' molto amato.}
+{184}{}{Non so cosa tu abbia fatto a Lenny, ma, se fossi in te, non starei troppo a lungo qui nei paraggi. Quel che hai fatto non ti fara' fare molti amici.}
 {185}{}{Ehi, ti avevo avvertito. Oh, pazienza...}
 {186}{}{Tu sei Mira, giusto? Un poliziotto ha detto delle cose non proprio carine sul tuo conto.}
 {187}{}{Tu Mira? Cattivo Jack dire cose.}

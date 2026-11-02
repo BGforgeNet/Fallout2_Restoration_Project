@@ -1,6 +1,6 @@
-{100}{}{Vedi un uomo calvo dall'aspetto infastidito.}
+{100}{}{Vedi un uomo calvo dall'aspetto stressato.}
 {101}{}{Vedi Harry, il supervisore del razzo.}
-{102}{}{Vedi un uomo calvo dall'aspetto infastidito.}
+{102}{}{Vedi un uomo calvo dall'aspetto stressato.}
 {103}{}{Aiee! I nemici dell'Illuminazione! Aiuto! Guardie!}
 {107}{}{Ehi! Carne da cerchione! Chi sei? Che cosa ci fai qui?}
 {108}{}{Duh?}
@@ -9,11 +9,11 @@
 {111}{}{Non sono affari tuoi.}
 {112}{}{Voglio unirmi agli Hubologisti.}
 {113}{}{TU chi sei? E cosa ci fai TU qui?}
-{114}{}{Nulla. Arrivederci.}
+{114}{}{Nulla. Ciao.}
 {115}{}{Magnifico, un idiota. Senti, amico, scendi quelle scale e vedi se possono allineare i tuoi neuronodi e darti un'utilita'. Fino a quel momento, pero', sono occupato. Adesso vattene.}
 {116}{}{Oh-tay!}
-{117}{}{Portala di sotto. Mostrala ad AHS-7, che adesso e' a guardia dell'ingresso. Potra' prendere la lettera o condurti da AHS-9. Adesso posso tornare ad occuparmi del mio lavoro, Carne?}
-{118}{}{Bene.}
+{117}{}{Portala di sotto. Mostrala ad AHS-7, che adesso e' a guardia dell'ingresso. Potra' prendere la lettera o condurti da AHS-9. Adesso posso tornare ad occuparmi del mio lavoro, carne?}
+{118}{}{Certo.}
 {119}{}{Tu non sei uno dei nostri fratelli, e quindi non sei autorizzato a stare qui. A meno che tu non desideri unirti a noi - cosa che potresti fare esprimendo tale volonta' ad AHS-7, che sta di guardia all'ingresso. Adesso puoi scegliere: o vai al piano di sotto o te ne vai da qui.}
 {120}{}{D'accordo, d'accordo. Non c'e' bisogno di essere scortesi.}
 {121}{}{In realta', questi SONO affari miei. Questa e' la MIA nave e queste sono le MIE guardie - ora: chi sei e cosa ci fai qui?}
@@ -21,12 +21,12 @@
 {123}{}{Non sono affari tuoi.}
 {124}{}{Voglio unirmi agli Hubologisti.}
 {125}{}{TU chi sei? E cosa ci fai TU qui?}
-{126}{}{Nulla. Arrivederci.}
+{126}{}{Nulla. Ciao.}
 {127}{}{Io sono Harry. Sono il tecnico responsabile del razzo.}
 {128}{}{Io sono}
 {129}{}{Non sono affari tuoi.}
 {130}{}{Voglio unirmi agli Hubologisti.}
-{131}{}{Nulla. Arrivederci.}
+{131}{}{Nulla. Ciao.}
 {132}{}{Non vuoi cooperare, eh? Guardie! Uccidete questo intruso!}
 {133}{}{Le tue guardie sono uomini morti.}
 {134}{}{Scendi queste scale e parla con AHS-7 al posto di guardia. Ti dara' le istruzioni del caso.}
@@ -42,13 +42,13 @@
 {175}{}{Ho gli schemi tecnici del vertibird.}
 {176}{}{Gli Shi sono in possesso degli schemi tecnici del vertibird.}
 {177}{}{Cosa posso fare per te?}
-{178}{}{Scordatelo. Addio.}
+{178}{}{Lascia perdere. Ciao.}
 {179}{}{Io sono Harry, AHS-5. Sono il fratello stellare incaricato della gestione dell'astrorazzo. Lo useremo per raggiungere Quetzel.}
 {180}{}{Posso chiederti qualcos'altro?}
-{181}{}{Capito. Ci vediamo.}
+{181}{}{Capito. Ciao.}
 {182}{}{Mi occupo di preparare la nave per il grande viaggio verso il Padre Stellare. Ci siamo molto vicini, adesso.}
 {183}{}{Posso chiederti qualcos'altro?}
-{184}{}{Capito. Ci vediamo.}
+{184}{}{Capito. Ciao.}
 {185}{}{Hai gli schemi? Magnifico! Tutto quel che ci serve adesso e' il carburante! Gli Shi ne hanno un sacco. Vedi se riesci a procurarcene un po'. Buona fortuna, recluta!}
 {186}{}{[FATTO]}
 {187}{}{Allora mi sa che devi andarli a prendere, giusto? Adesso, camerata, se vuoi scusarmi... devo continuare la preparazione della nave per il nostro epico viaggio.}

@@ -31,7 +31,7 @@
 {229}{}{Feargus era contrario all'idea di mettermi nel gioco. E' un brutto cattivone.}
 {230}{}{Il tuo punteggio e' 23 su 100. Ne hai di strada da fare ancora...}
 {231}{}{Scott Everts sospira sempre quando vede quanti oggetti da raccogliere ci sono nel gioco.}
-{232}{}{Guarda nel bagno degli uomini al pian terreno del Casino dei Mordino a New Reno.}
+{232}{}{Guarda nel water del bagno degli uomini al pianterreno del casino' dei Mordino a New Reno.}
 {233}{}{Qualcuno ha sotterrato del denaro sotto la croce con la scritta 'Trash' che si trova sul Golgotha.}
 {234}{}{Torna a parlare con Padre Tully a New Reno una volta terminato il gioco.}
 {235}{}{Sai, puoi anche usarmi come arma.}

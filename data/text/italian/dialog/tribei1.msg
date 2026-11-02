@@ -5,5 +5,5 @@
 {104}{}{Ha la corda, ma manca il secchio.}
 {200}{}{Vedi un pozzo.}
 {201}{}{E' solo un pozzo.}
-{202}{}{A un esame piu' attento, il pozzo non funziona. Forse puoi ripararlo.}
+{202}{}{Guardando meglio, ti accorgi che il pozzo non funziona. Forse puoi ripararlo.}
 {203}{}{Il pozzo funziona di nuovo correttamente.}

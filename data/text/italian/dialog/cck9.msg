@@ -1,24 +1,24 @@
 {100}{}{Vedi un cybercane.}
 {101}{}{Vedi K-9.}
 {102}{}{Vedi un cybercane. E' in parte macchina e in parte cane.}
-{103}{}{Le funzioni vitali del mio padrone si sono interrotte. Sei tu il mio nuovo padrone?}
+{103}{}{Le funzioni vitali del mio padrone si sono interrotte. E' lei il mio nuovo padrone?}
 {104}{}{Uh... cagnolino parla?}
 {105}{}{Okay. Me piace cagnolino.}
 {106}{}{No. No vuole cagnolino.}
 {107}{}{Ah! Un cane parlante.}
 {108}{}{Uno: sono un cane. Due: sto comunicando oralmente con lei tramite l'uso della lingua italiana. Percio' e' lecito ritenere che la risposta alla sua domanda sia 'si', cagnolino parla'. Adesso ha intenzione di rispondere alla domanda che le ho posto pochi istanti fa?}
-{109}{}{Uno: sono un cane.Due: sto comunicando oralmente con lei tramite l'uso della lingua italiana. Percio' e' lecito ritenere che io sia un cane parlante. Adesso ha intenzione di rispondere alla domanda che le ho posto pochi istanti fa?}
+{109}{}{Uno: sono un cane. Due: sto comunicando oralmente con lei tramite l'uso della lingua italiana. Percio' e' lecito ritenere che io sia un cane parlante. Adesso ha intenzione di rispondere alla domanda che le ho posto pochi istanti fa?}
 {110}{}{Scusare, me dimenticato domanda.}
 {111}{}{Si'.}
 {112}{}{No.}
-{113}{}{(sigh) Fai attenzione. Concentrati. Guardami negli occhi. Adesso sei pronto?}
+{113}{}{(sospira) Fai attenzione. Concentrati. Guardami negli occhi. Adesso sei pronto?}
 {114}{}{Pronto cosa?}
 {115}{}{Si'. Me pronto.}
-{116}{}{Io... se non fosse per il fatto che il tuo QI e' inferiore alla mia altezza calcolata in piedi, penserei soltanto una cosa: tu mi vuoi fare arrabbiare sul serio. Fa' attenzione. Concentrati. Guardami negli occhi. Sto per farti una domanda.}
+{116}{}{Io... se non fosse per il fatto che il tuo QI e' inferiore alla mia altezza calcolata in piedi, penserei che tu stia cercando di irritarmi. Adesso, silenzio. Fa' attenzione. Concentrati. Guardami negli occhi. Sto per farti una domanda.}
 {117}{}{Andare avanti, su. Chi trattenere te?}
-{118}{}{Le funzioni vitali del mio padrone si sono interrotte. Sei tu il mio nuovo padrone?}
+{118}{}{Le funzioni vitali del mio padrone si sono interrotte. E' lei il mio nuovo padrone?}
 {119}{}{Uh... cagnolino parla?}
-{120}{}{Okay. Me piace cagnolino.}
+{120}{}{Si'. Me vuole cagnolino.}
 {121}{}{No, grazie.}
 {122}{}{Mi sta bene.}
 {123}{}{No, grazie.}
@@ -36,7 +36,7 @@
 {135}{}{Allora mi lasci in pace.}
 {136}{}{Okay.}
 {137}{}{Va bene.}
-{138}{}{Bentrovato. Le funzioni vitali del mio padrone si sono interrotte. E' lei il mio nuovo padrone?}
+{138}{}{Salve di nuovo. Le funzioni vitali del mio padrone si sono interrotte. E' lei il mio nuovo padrone?}
 {139}{}{Okay.}
 {140}{}{No.}
 {141}{}{Okay.}
@@ -175,7 +175,7 @@
 {274}{}{Andiamo.}
 {275}{}{E' tutto, per ora.}
 {276}{}{Mi dispiace, padrone, ma sembra che non ci sia posto per me nel
- tuo gruppo. Aspettero' qui finche' non si liberera' un posto.}
+ suo gruppo. Aspettero' qui finche' non si liberera' un posto.}
 {277}{}{Come desidera, padrone.}
 {278}{}{Tu curare te.}
 {279}{}{Tu aspettare qui. Me torna e prende te.}
@@ -191,7 +191,7 @@
 {289}{}{Non allontanarti troppo.}
 {290}{}{Dovremmo distanziarci un po'.}
 {291}{}{E' tutto, per ora.}
-{292}{}{Certo. Sembreresti un cane piuttosto carino.}
+{292}{}{Certo. Sembri un cane simpatico.}
 {293}{}{No, grazie.}
 {300}{}{Me triste. Me no puo' riparare.}
 {301}{}{Mi spiace, ma non posso ripararti.}
@@ -212,7 +212,7 @@ ulteriore assistenza.}
 {1800}{}{Mi muovero' a media distanza, padrone.}
 {1900}{}{Mi muovero' alla massima distanza accettabile, padrone.}
 {2000}{}{Mi dispiace, padrone, ma sembra che non ci sia posto per me nel
- tuo gruppo. Aspettero' qui finche' non si liberera' un posto.}
+ suo gruppo. Aspettero' qui finche' non si liberera' un posto.}
 {2200}{}{Come desidera, padrone.}
 {2300}{}{Ho il pelo, padrone. Non indosso altro.}
 {2400}{}{Non ho intenzione di rimuovere il mio pelo, padrone.}

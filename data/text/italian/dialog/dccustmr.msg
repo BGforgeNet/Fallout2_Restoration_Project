@@ -24,7 +24,7 @@
 {308}{}{Salve.}
 {309}{}{Sei un giocatore?}
 {310}{}{Com'e' il mondo esterno?}
-{311}{}{Frankie e' un sacco di letame. Non ha motivo per essere sgarbato con Becky.}
+{311}{}{Frankie e' un verme. Non ha motivo per essere sgarbato con Becky.}
 {312}{}{Sei un amico di Becky?}
 {313}{}{Prendi da bere, amico!}
 {314}{}{Bevi! E' tutto cosi' a buon mercato!}
@@ -32,11 +32,11 @@
 {316}{}{Quella Dyer... sa davvero il fatto suo.}
 {317}{}{Non c'e' niente come una bella bevuta e dei buoni amici.}
 {318}{}{L'unico difetto dei drink di Becky e' che si tende a berne troppi!}
-{319}{}{Becky… voglio dire, Rebecca e' davvero una dolcezza.}
+{319}{}{Becky... voglio dire, Rebecca e' davvero una dolcezza.}
 {320}{}{Se qualcuno dovesse sfiorarla anche solo con un dito, gliela farei pagare cara.}
 {321}{}{Questa e' roba buona.}
 {340}{}{Dovremmo ucciderti per quello che hai fatto.}
-{341}{}{Non so cos'abbia fatto, ma non meritava di morire.}
+{341}{}{Non so cosa ti abbia fatto, ma non meritava di morire.}
 {342}{}{Forse dovremmo dirigerci verso New Reno, adesso che il casino' di Becky ha chiuso.}
 {343}{}{Mi manca il sorriso di Becky.}
 {344}{}{Niente piu' bevute a buon mercato.}
@@ -51,7 +51,7 @@
 {367}{}{Come va?}
 {368}{}{Frankie sa come far festa.}
 {369}{}{I tavoli del casino' di Becky sono truccati! Beh, questo e' Frankie che lo dice.}
-{370}{}{In piedi!}
+{370}{}{Cin cin!}
 {390}{}{Cavolo, l'avevo detto a Frankie di stare attento a come trattava le persone.}
 {391}{}{Frankie avrebbe fatto meglio a controllarsi.}
 {392}{}{E adesso dove andremo a passare il tempo?}
@@ -68,17 +68,17 @@
 {430}{}{Perche' hai ucciso Tubby?}
 {431}{}{Non e' una grave perdita, ma quello di Tubby era l'unico vero negozio della citta'.}
 {432}{}{Che cosa ha fatto Tubby per farti incazzare?}
-{433}{}{Tubby ti aveva imbrogliato, eh?}
+{433}{}{Tubby ti aveva rifilato della merda, eh?}
 {434}{}{In giro si dice che hai fatto fuori Tubby a causa di un cattivo affare o qualcosa del genere.}
 {435}{}{Non mi sorprende. Ultimamente un sacco di persone ce l'avevano con Tubby.}
-{440}{}{Non c'e' niente che mi interessi, oggi…}
+{440}{}{Non c'e' niente che mi interessi, oggi...}
 {441}{}{Oh, ciao. Stavo solo parlando con il mio vecchio amico Flick.}
 {442}{}{Che cosa ci fai qui?}
 {443}{}{Anche tu sei un amico di Flick?}
 {444}{}{Non ho fatto nulla.}
 {445}{}{Che cosa stai guardando?}
 {446}{}{Fa' finta di non vedermi.}
-{447}{}{Non disturbarmi.}
+{447}{}{Non badare a me.}
 {460}{}{Cazzo. Hai ucciso Flick.}
 {461}{}{Flick ti aveva imbrogliato?}
 {462}{}{Flick s'era cacciato nei guai.}
@@ -97,6 +97,6 @@
 {500}{}{Come hai potuto fare del male alla povera e vecchia Mama?}
 {501}{}{Conosco, voglio dire, conoscevo Mama da una vita.}
 {502}{}{Che cosa ti aveva fatto?}
-{503}{}{Assassino! Povera Mama…}
+{503}{}{Assassino! Povera Mama...}
 {504}{}{Perche' l'hai fatto?}
 {505}{}{Sei un mostro senza cuore!}

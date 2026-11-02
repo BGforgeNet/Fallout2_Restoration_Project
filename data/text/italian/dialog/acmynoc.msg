@@ -13,13 +13,13 @@
 {160}{}{Cosa puoi dirmi di questo oggetto che e' stato preso da un Vault?}
 {161}{}{Niente, non importa.}
 {162}{}{Molto bene, ma non perdere troppo tempo. Senza il GECK, siamo spacciati.}
-{163}{}{Lo so, non temere -- Ho tutto sotto controllo.}
+{163}{}{Lo so, non temere -- ho tutto sotto controllo.}
 {164}{}{Perche'?}
 {165}{}{Devo andare. Arrivederci.}
 {166}{}{I commercianti? Arrivano da Klamath ogni due mesi circa. Non ne arrivera' un altro per un mese o piu', ma Klamath e' solo pochi giorni a est di qui.}
 {167}{}{Grazie. Arrivederci.}
 {168}{}{Cosa puoi dirmi di questo oggetto che e' stato preso dal sacro Vault?}
-{169}{}{Sembra una fiaschetta di metallo. Forse il Vault ce l'ha spedito come augurio.}
+{169}{}{Sembra una fiaschetta di metallo. Forse il Vault ce l'ha mandato come presagio.}
 {170}{}{Puoi dirmi chi ha portato questo oggetto al nostro villaggio?}
 {171}{}{Grazie. Devo andare. Arrivederci.}
 {172}{}{Lo spero.}
@@ -27,8 +27,8 @@
 {174}{}{Arrivederci.}
 {175}{}{Perche'? Guardati intorno -- il nostro villaggio muore. I campi avvizziscono e ogni giorno ci sono dei bambini e dei vecchi che muoiono. Devi portarci l'Eden prima che sia troppo tardi!}
 {176}{}{Ci pensero' io. Arrivederci.}
-{177}{}{Io sono il Prescelto -- Io "devo" fare solo cio' che voglio. Addio.}
-{178}{}{Non ricordo il suo nome, so solo che era vecchio e rozzo -- troppo rozzo per avere delle buone maniere -- ma sapeva molte cose. Veniva da Klamath. Da est, come ho gia' detto.}
+{177}{}{Io sono il Prescelto -- io "devo" fare solo cio' che voglio. Addio.}
+{178}{}{Non ricordo il suo nome, so solo che era vecchio e chiassoso -- troppo chiassoso per le buone maniere -- ma sapeva molte cose. Veniva da Klamath. Da est, come ho gia' detto.}
 {179}{}{Grazie, arrivederci.}
 {180}{}{Sei ancora qui? Devi trovare il GECK. Restando qui non ci aiuti di certo.}
 {181}{}{Questo ponte e' l'unica cosa di cui ti devi preoccupare, amico. So badare benissimo a me stesso.}
@@ -57,7 +57,7 @@
 {204}{}{Posso farti una domanda?}
 {205}{}{No, non ho tempo.}
 {206}{}{Vabbe'. Arrivederci.}
-{207}{}{Oh bene. Ci si vede.}
+{207}{}{Pazienza. Ci si vede.}
 {208}{}{Muori.}
 {209}{}{Salute, stupidone! Vedere ponte? Tu attraversare, tu stare attento. Ponte pericoloso. Tu non volere cadere. Okay?}
 {210}{}{Umm... Hunh?}
@@ -68,7 +68,7 @@
 {215}{}{L'Anziana si sbagliava. Sei malvagio.}
 {300}{}{Mio padre mi ha insegnato come affilare le lance. Portami una selce e affilero' anche la tua. Ti servira', nel deserto.}
 {301}{}{Dove posso trovare un po' di questa selce?}
-{302}{}{Si dice che tua Zia Morlis ne abbia una provvista. E' cosi' permalosa che non penso che qualcuno gliel'abbia mai chiesta. Di sicuro quella strega vorra' qualcosa in cambio.}
+{302}{}{Si dice che tua zia Morlis ne abbia una provvista. E' cosi' permalosa che non penso che qualcuno gliel'abbia mai chiesta. Di sicuro quella strega vorra' qualcosa in cambio.}
 {303}{}{Grazie. Arrivederci.}
 {304}{}{Sei riuscito ad ottenere la selce da tua zia?}
 {305}{}{Si', ne ho un pezzo proprio qui.}
@@ -79,7 +79,7 @@
 {310}{}{Ora, metti i pezzi in questo modo...}
 {311}{}{Il Prescelto senza una lancia? Beh, dovrai prendere una delle mie. Mettiamoci al lavoro, adesso...}
 {312}{}{Ecco la tua nuova lancia.}
-{313}{}{Grazie, amico mio -- Questa mi sara' di grande aiuto.}
+{313}{}{Grazie, amico mio -- questa mi sara' di grande aiuto.}
 {314}{}{Si', ma la tua lancia mi incuriosisce. Sembra diversa dalle altre.}
 {400}{}{Bentornato a casa, Prescelto! Hai trovato il Vault? Sei tornato con il GECK?}
 {401}{}{Me no trovato ancora.}
@@ -134,17 +134,17 @@
 {617}{}{Lascia perdere, non voglio piu' sentire questa storia. Addio.}
 {618}{}{Si fece strada attraverso il Tempio, raggiungendo rapidamente la prova finale: un combattimento corpo a corpo con un altro guerriero.}
 {619}{}{Continua.}
-{620}{}{Aspetta, ha fatto saltare quella porta e tutto il resto? Lo facciamo ricostruire ogni volta che qualcuno attraversa il tempio? A proposito, chi ha costruito il tempio in primo luogo?}
+{620}{}{Aspetta, ha fatto saltare quella porta e tutto il resto? Lo facciamo ricostruire ogni volta che qualcuno attraversa il tempio? A proposito, chi l'ha costruito, il tempio?}
 {621}{}{Non ho tempo di rispondere a tutte le tue domande stupide. Vuoi che finisca il racconto, o no?}
 {622}{}{Scusa. Per favore, continua.}
 {623}{}{In realta', penso di essere pronto ad andare. A presto.}
-{624}{}{Durante la prova finale, Colui-Che-Non-Deve-Essere-Nominato sfodero' una lama nascosta e la uso' per uccidere il suo avversario. Quando l'Anziano lo confronto' sul disonorevole uso di un'arma nascosta, sostenne che non era barare, ma piuttosto che dimostrava di essere un guerriero astuto.}
-{625}{}{L'Anziano non era d'accordo. Colui-Che-Non-Deve-Essere-Nominato fu esiliato a forza dalla nostra tribu' e il suo nome non doveva essere mai piu' pronunciato tra noi. Mentre veniva scacciato nelle Lande, giuro' un voto di vendetta. Vendetta contro la nostra tribu', e specialmente contro di te.}
+{624}{}{Durante la prova finale, Colui-Che-Non-Deve-Essere-Nominato sfodero' una lama nascosta e la uso' per uccidere il suo avversario. Quando l'Anziana gli contesto' il disonorevole uso di un'arma nascosta, sostenne che non era barare, ma piuttosto che dimostrava di essere un guerriero astuto.}
+{625}{}{L'Anziana non era d'accordo. Colui-Che-Non-Deve-Essere-Nominato fu esiliato a forza dalla nostra tribu' e il suo nome non doveva essere mai piu' pronunciato tra noi. Mentre veniva scacciato nelle Lande, giuro' vendetta. Vendetta contro la nostra tribu', e specialmente contro di te.}
 {626}{}{Io? Cosa avrei fatto?}
 {627}{}{Grazie per il racconto, ma sara' meglio che vada adesso.}
 {628}{}{Tu sei il Prescelto, un titolo che lui ritiene essere giustamente suo. Il suo orgoglio non gli permettera' di lasciarti vivere.}
-{629}{}{Non mi preoccupero' di questo. E' probabilmente morto nelle Lande ormai, comunque.}
-{630}{}{Staro' in guardia. Sperabilmente e' morto nelle Lande ormai.}
+{629}{}{Non me ne preoccupo. Ormai sara' morto da qualche parte nelle Lande.}
+{630}{}{Staro' in guardia. Speriamo che ormai sia morto da qualche parte nelle Lande.}
 {631}{}{Ascolta e capisci. Colui-Che-Non-Deve-Essere-Nominato e' la' fuori. Non si puo' trattare con lui. Non si puo' ragionare con lui. Non provera' pieta', ne' rimorso, ne' paura. E non si fermera' assolutamente mai, finche' non sarai morto.}
 {632}{}{Sai, penso che tu stia esagerando un po' con il melodramma. Comunque, grazie per il consiglio. Ci vediamo in giro, Mynoc.}
 {633}{}{Lo terro' a mente. Abbi cura di te, Mynoc.}
@@ -153,18 +153,18 @@
  Il nostro villaggio soffre abbastanza senza attirare l'ira degli Dei su di noi. [Alza gli occhi nervosamente verso il cielo.]}
 {642}{}{Mi dispiace, Mynoc. Ma ti dispiacerebbe raccontarmi ancora la storia di Ka... voglio dire, di "Colui-Che"? Adoro davvero quella storia.}
 {643}{}{Sai, avevo dimenticato quanto stupidamente superstiziosa potesse essere la vostra gente. Ci vediamo in giro.}
-{650}{}{L'ho gia' affrontato, quindi sono sicuro di poterlo gestire se le nostre strade si incroceranno di nuovo.}
+{650}{}{L'ho gia' affrontato, quindi sono sicuro di potermela cavare se le nostre strade si incroceranno di nuovo.}
 {651}{}{In realta', e' gia' morto. Ho lasciato il suo cadavere la' fuori a marcire nelle Lande.}
-{660}{}{[Mynoc annuisce cupamente.] Potrebbe essersi allontanato dal cammino, ma era un tempo un grande e rispettato guerriero. Spero che la sua anima tormentata abbia trovato pace nell'altro mondo.}
+{660}{}{[Mynoc annuisce cupamente.] Avra' anche perso la retta via, ma un tempo era un grande e rispettato guerriero. Spero che la sua anima tormentata abbia trovato pace nell'altro mondo.}
 {661}{}{Infatti. A presto, Mynoc.}
-{662}{}{Vabbene. Mi sembrava uno stronzo. A presto, Mynoc.}
+{662}{}{Vabbe'. Mi sembrava uno stronzo. A presto, Mynoc.}
 {1000}{}{Anziana}
 {1001}{}{Fondatore}
-{1002}{}{Vault Dweller}
+{1002}{}{Abitante del Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{l'Eletto}
+{1006}{}{Prescelto}
 {1007}{}{Sciamano}
 {1008}{}{Hakunin}
 {1009}{}{Polvere curativa}
@@ -172,7 +172,7 @@
 {1011}{}{Mynoc}
 {1100}{}{L'Anziana e' tua madre e la nostra guida.}
 {1101}{}{Il nostro grande antenato che ci ha donato la conoscenza.}
-{1102}{}{I primi a combattere e a vincere sul caos.}
+{1102}{}{Il primo a combattere e a vincere il caos.}
 {1103}{}{Quello sarebbe il nostro bellissimo villaggio.}
 {1104}{}{E' un avamposto commerciale a pochi giorni a est di qui.}
 {1105}{}{Il Vault e' il paradiso.}
@@ -180,5 +180,5 @@
 {1107}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1108}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1109}{}{E' una polvere magica che ti guarisce, ma che ti intorpidisce.}
-{1110}{}{Il Grande Ponte esce dal nostro villaggio a sud.}
+{1110}{}{Il Grande Ponte porta fuori dal villaggio, a sud.}
 {1111}{}{Si tratta di me.}

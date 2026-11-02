@@ -3,8 +3,8 @@
 {150}{}{Vedi una giovane e attraente donna che indossa un completo di pelle attillato.}
 {151}{}{Vedi Angela Bishop. Quando incontra il tuo sguardo, si lecca lentamente le labbra.}
 {152}{}{Vedi Angela Bishop. Ti guarda con disgusto.}
-{175}{}{Vedi una giovane donna che indossa un completo attillato di pelle. Sembra troppo sveglia per essere una prostituta.}
-{176}{}{Vedi Angela Bishop. Ti rivolge uno strano sorriso.}
+{175}{}{Vedi una giovane donna che indossa un completo attillato di pelle. Sembra troppo raffinata per essere una prostituta.}
+{176}{}{Vedi Angela Bishop. Ti rivolge un ghigno sprezzante.}
 {200}{}{Mio padre ti UCCIDERA' quando sapra' come mi hai trattata.}
 {205}{}{Lo SO che sei stato tu. Trovero' un modo per farti pagare quello che hai fatto a mio padre.}
 {210}{}{Hmmpph. Che mi venga un colpo se quella non e' la graaaande eroina.}
@@ -34,14 +34,14 @@
 {261}{}{'Kay ragazza bella.}
 {262}{}{Uh... noi giocare?}
 {263}{}{Me no va.}
-{270}{}{Puoi scommetterci. "Come on".}
+{270}{}{Puoi scommetterci. Vieni.}
 {271}{}{Me viene}
-{272}{}{Me piace giocare. Me gioca solo solo pero'}
+{272}{}{Me piace giocare. Me gioca solo da solo, pero'}
 {280}{}{Esattamente...}
 {281}{}{[Seguila.]}
 {290}{}{Aw, dai! Ti preeeego! Vorrei tanto mostrarti la mia stanza. E' questione di un secondo, prometto.}
 {291}{}{No va! Me no va! No fare me va! No portare me brutto posto! No!}
-{292}{}{Ochei. Me no vuole tu triste. Me viene}
+{292}{}{Ochei. Me no vuole tu triste. Me va}
 {293}{}{ME VA VIA, BASTA PARLARE ME}
 {300}{}{Adesso basta, stupido ritardato! Vattene da qui! ::Idiota.::}
 {310}{}{Sei NUOVO di qui, o cosa? Io sono Angela BISHOP. Il mio papa' e' il CAPO della Famiglia Bishop. }
@@ -55,13 +55,13 @@
 {318}{}{Mettiamo in chiaro una cosa, principessa: IO do gli ordini, TU li esegui.}
 {320}{}{Se sei annoiata, principessa... accucciati su una mano e comincia a girare. Io me ne vado.}
 {330}{}{Ti pentirai di avermi rifiutata. Presto il mio paparino verra' a sapere DIVERSE cose sul tuo conto. Aspetta e vedrai.}
-{340}{}{Perche'? Ti faccio qualche effetto? (Fa un passo verso di te, e abbassa la voce.) Credi che con me ti aspettino tempi... DURI?}
+{340}{}{Perche'? Ti faccio qualche effetto? (Fa un passo verso di te, e abbassa la voce.) Ti sto rendendo la vita... DURA?}
 {341}{}{No.}
 {342}{}{Ragazza mia, tu sei pericolosa. Smettiamola subito.}
 {343}{}{Scusami. Potresti, per cortesia, allontanarti un poco?}
 {344}{}{Certo... sento che la situazione si sta facendo *molto* dura. Che ne diresti di darmi una mano?}
 {345}{}{No, ma adesso devo andare.}
-{350}{}{(Fa un altro passo verso di te, arrivando quasi a toccarti). Non sono di quest'IDEA. Adesso cosa intendi fare?}
+{350}{}{(Fa un altro passo verso di te, arrivando quasi a toccarti). Non ne ho VOGLIA. Adesso cosa intendi fare?}
 {352}{}{Nulla. Senti, stammi lontana. Non sono dell'umore adatto.}
 {353}{}{Sta' lontana. NON sono dell'umore giusto per queste stronzate da bambina cattiva. Hai capito?}
 {354}{}{E invece TU cosa intendi fare? Di sicuro sei brava a parole, ma i fatti?}
@@ -131,7 +131,7 @@
 {496}{}{Veramente, io LAVORO per tuo padre. Sono una dei suoi picciotti.}
 {497}{}{Veramente, io sono una dei suoi scagnozzi.}
 {499}{}{Io non sono una troia... in compenso ho appena finito di parlare con una rappresentante della categoria.}
-{510}{}{Beh, vedo che i criteri d'assunzione di mio padre sono cambiati. Fa' attenzione quando metti piede qui dentro, zucchero, o ti farai male.}
+{510}{}{Beh, vedo che i criteri d'assunzione di mio padre non sono cambiati. Fa' attenzione quando metti piede qui dentro, zucchero, o ti farai male.}
 {511}{}{Okayeee! Grazie!}
 {520}{}{Un po' come la merda nell'intestino, eh? Non stare qui dentro troppo a lungo, puttana, o ti farai del male.}
 {521}{}{Vabbe'.}
@@ -155,19 +155,19 @@
 {570}{}{Lui... a lui interessera', invece. Vedrai.}
 {571}{}{Sparisci, troietta. Subito.}
 {573}{}{Calma. Stavo solo scherzando.}
-{580}{}{(Ridacchia, poi si gira e se ne va.)}
+{580}{}{(Ti rivolge un ghigno sprezzante, poi si gira e se ne va pestando i piedi.)}
 {581}{}{[Allontanati.]}
 {590}{}{(Angela continua a fissarti, ma sembra insicura sul da farsi. Si morde un labbro, poi si allontana frettolosamente.)}
 {591}{}{Lo IMMAGINAVO.}
 {600}{}{(Sputa ai tuoi piedi.) Certo, anch'io stavo scherzando. (Ti guarda un'ultima volta con un ghigno sul volto, poi se ne va.)}
 {610}{}{"Non molta, Miss Bishop." E io che credevo fosse mamma l'unica schiava di papa'. Sparisci dalla mia vista.}
 {620}{}{"Ho capito, Miss Bishop." E io che credevo fosse mamma l'unica schiava di papa'. Sparisci dalla mia vista.}
-{630}{}{'"Mi SCUSI, Miss Bishop, adesso non ho tempo per parlare." E io che credevo fosse mamma l'unica schiava di papa'. Sparisci dalla mia vista.}
+{630}{}{"Mi SCUSI, Miss Bishop, adesso non ho tempo per parlare." E io che credevo fosse mamma l'unica schiava di papa'. Sparisci dalla mia vista.}
 {640}{}{Sei tu quella che farebbe meglio a sparire. Presto papa' sentira' un sacco di BELLE cose sul tuo conto. Aspetta e vedrai. }
 {641}{}{(Se ne va.)}
-{642}{}{Di' una sola parola al tuo paparino e "volerai" sul tetto del piu' alto edificio di New Reno. Una volta che avranno trovato il biglietto che io lascero', tutti penseranno ad un suicidio. Oh, che TERRIBILE tragedia. Piangeranno tutti a dirotto.}
-{643}{}{(Te ne vai.)}
-{650}{}{No, io credo che saresti TU a perdere la scommessa. Provaci e vedrai.}
+{642}{}{Di' una sola parola al tuo paparino e "volerai" giu' dal tetto del piu' alto edificio di New Reno. Una volta che avranno trovato il biglietto che io lascero', tutti penseranno ad un suicidio. Oh, che TERRIBILE tragedia. Piangeranno tutti a dirotto.}
+{643}{}{(Vattene.)}
+{650}{}{No, io credo che saresti TU a perdere la scommessa. Provaci e vedrai, puttana.}
 {651}{}{[Attaccala.]}
 {652}{}{[Lascia perdere.]}
 {660}{}{Stammi lontano. Non ho niente da dirti.}
@@ -184,7 +184,7 @@
 {801}{}{Aiuto, mi e' saltato addosso! Aiuto!}
 {802}{}{Mi vogliono stuprare! Aiuto!}
 {810}{}{(Angela ti porta nella sua stanza al terzo piano. Qui apre una piccola porta nel muro, tira fuori una strana bottiglia di plastica e te la offre.) Ne vuoi un po', baby? Ce n'e' piu' che abbastanza per mandare in orbita entrambi.}
-{811}{}{(Angela ti porta nella sua stanza al terzo piano. Un volta qui, apre una cassaforte a muro, tira fuori del Jet e te lo offre.) Ne vuoi un po', baby? Ce n'e' piu' che abbastanza per mandare in orbita entrambi.}
+{811}{}{(Angela ti porta nella sua stanza al terzo piano. Una volta qui, apre una cassaforte a muro, tira fuori del Jet e te lo offre.) Ne vuoi un po', baby? Ce n'e' piu' che abbastanza per mandare in orbita entrambi.}
 {812}{}{Uh-huh}
 {813}{}{Unh-unh}
 {820}{}{Mmmmmmmm... (Angela prende una bella dose dalla bottiglia.) Mmmmmmm... perche' non vieni qui vicino? (Si stende sul letto, prende un'altra dose.) Se ti sbrighi puoi ancora succhiare un po' di questo Jet dalla mia bocca...}

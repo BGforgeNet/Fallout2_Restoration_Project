@@ -89,20 +89,20 @@
 {188}{}{Hmmm. Magari tornero' quando avro' bisogno di te.}
 {189}{}{Si', l'Auto-Doc che si trova nella stanza sul retro. E' un gentile prestito della citta'.}
 {190}{}{A volte e' un po' inaffidabile, ma di solito fa il suo lavoro. Di solito.}
-{191}{}{Ultimamente funziona meglio, il che e' un bene. Di certo aiuta a non perdere la clientela.}
+{191}{}{Ultimamente funziona meglio, il che e' un bene. Cosi' meno gente torna a farsi rattoppare di nuovo.}
 {192}{}{Si', ho sostituito alcuni cavi e ho pulito l'interno. Non dovrebbe piu' darti problemi.}
 {193}{}{Capisco. Senti, avrei delle altre domande da farti...}
 {194}{}{Inaffidabile, eh? Magari potrei darci un'occhiata io...}
 {195}{}{Mi fa piacere. Ci vediamo dopo, Andrew.}
 {196}{}{Eh...beh...grazie mille. Molto generoso da parte tua offrirti volontario per ripararlo.}
-{197}{}{Oh, ma non credere che sia stata un'opera di beneficienza. Mi aspetto dei soldi per il mio lavoro.}
+{197}{}{Oh, ma non credere che sia stata un'opera di beneficenza. Mi aspetto dei soldi per il mio lavoro.}
 {198}{}{C'e' qualche possibilita' che tu mi faccia uno sconto?}
 {199}{}{Nessun problema. E' stato un piacere.}
 {200}{}{Diavolo, no! Non sono stato io a chiederti di ripararlo, per cui non sperare di vedere un quattrino. Se fossi in te cercherei di non fare il furbo, con tutte le guardie che ci sono qua attorno.}
 {201}{}{Prego. Chiamale pure. Non arriveranno in tempo per salvarti le chiappe.}
 {202}{}{D'accordo, allora... Non c'e' di che.}
 {203}{}{Allora... come posso aiutarti, adesso?}
-{204}{}{Come posso aiutarla?}
+{204}{}{Come posso aiutarti?}
 {205}{}{Avrei bisogno di cure mediche.}
 {206}{}{Um, ho bisogno di rimuovere un'escrescenza. Il sesto dito del mio piede.}
 {207}{}{Il mio amico ha bisogno di cure mediche.}
@@ -155,18 +155,18 @@
 {254}{}{Come non detto. Avrei delle altre domande.}
 {255}{}{Capisco. Magari un'altra volta.}
 {256}{}{Grossomodo posso dirti che tutte le linee curve del viso si trasformeranno in spigoli.}
-{257}{}{Avrai l'aspetto di un pupazzo fatto di Lego, quando avro' finito.}
-{258}{}{Ficcare tutte quelle placche nel tuo corpo avra' un impatto negativo sul tuo carisma. Sei sempre sicuro di voler procedere?}
+{257}{}{Quando avro' finito, avrai un aspetto tutto squadrato.}
+{258}{}{Ficcare tutte quelle placche nel tuo corpo avra' un impatto negativo sul tuo carisma. Vuoi ancora procedere?}
 {259}{}{Oh, al diavolo. Ecco i soldi e l'armatura.}
-{260}{}{Non saprei. 40,000$ e' un po' caro. Pero' qui con me ne ho 30,000.}
+{260}{}{Non saprei. 40.000$ e' un po' caro. Pero' qui con me ne ho 30.000.}
 {261}{}{Parlami degli altri innesti.}
 {262}{}{Come non detto. Avrei delle altre domande.}
 {263}{}{Tornero' quando avro' piu' soldi.}
 {264}{}{Tornero' quando avro' trovato un'armatura da combattimento.}
 {265}{}{Capisco. Magari un'altra volta.}
-{266}{}{L'Innesto Phoenix e' un'ottima soluzione contro le bruciature da fuoco, laser e plasma... la resistenza aggiuntiva e' pari al 5%. Avro' bisogno di smontare un'armatura da combattimento per recuperare le membrane termiche, e ci vorranno due giorni per l'operazione. 10,000$ dovrebbero coprire le spese.}
+{266}{}{L'Innesto Phoenix e' un'ottima soluzione contro le bruciature da fuoco, laser e plasma... la resistenza aggiuntiva e' pari al 5%. Avro' bisogno di smontare un'armatura da combattimento per recuperare le membrane termiche, e ci vorranno due giorni per l'operazione. 10.000$ dovrebbero coprire le spese.}
 {267}{}{Va bene. Ecco l'armatura e i soldi.}
-{268}{}{10,000$ e' un prezzo superiore alle mie possibilita'. Che ne dici di 8000$?}
+{268}{}{10.000$ e' un prezzo superiore alle mie possibilita'. Che ne dici di 8000$?}
 {269}{}{Parlami degli altri innesti.}
 {270}{}{Come non detto. Avrei delle altre domande.}
 {271}{}{Tornero' quando avro' piu' soldi.}
@@ -183,7 +183,7 @@
 {282}{}{Parlami degli altri innesti.}
 {283}{}{Come non detto. Avrei delle altre domande.}
 {284}{}{Capisco. Magari un'altra volta.}
-{285}{}{Ti riempira' la pelle di vesciche. Di brutto. Avrai l'aspetto di quel materiale da imballaggi usato in tempi pre-bellici. Percio' non sperare di ricevere molte proposte dopo l'operazione. E ti costera'. 50.000$. Sull'unghia.}
+{285}{}{Ti riempira' la pelle di vesciche. Di brutto. Sembrerai uno di quei fogli di plastica a bolle da imballaggio di prima della guerra. Percio' non sperare di ricevere molte proposte dopo l'operazione. E ti costera'. 50.000$. Sull'unghia.}
 {286}{}{Al diavolo. Ecco i soldi... e un'altra armatura.}
 {287}{}{40.000$ e siamo d'accordo.}
 {288}{}{Parlami degli altri innesti.}

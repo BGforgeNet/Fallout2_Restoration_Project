@@ -14,9 +14,9 @@
 {113}{}{Esci}
 {114}{}{[Per puro caso noti un cavo elettrico che va dal computer ad una presa nel muro. Lo schermo diventa nero non appena tiri il cavo.]}
 {115}{}{Esci}
-{116}{}{[Premi coraggiosamente il pulsante rosso con con la scritta "OFF". Come sospettavi, il terminale del computer si spegne.]}
+{116}{}{[Premi coraggiosamente il pulsante rosso con la scritta "OFF". Come sospettavi, il terminale del computer si spegne.]}
 {117}{}{Esci}
-{118}{}{[Come tocchi la tastiera, i tasti cominciano a saltare fuori, ricadendo sul pavimento. Tutto questo perche' hai usato il terminale.]}
+{118}{}{[Appena inizi a digitare, i tasti cominciano a saltare via dalla tastiera e cadono sul pavimento. Addio all'idea di usare questo terminale.]}
 {119}{}{Esci}
 {120}{}{Hai gia' disattivato il sistema di riparazione automatizzata.}
 {121}{}{Non posso accedere al terminale. Qualcuno ha rotto la tastiera.}

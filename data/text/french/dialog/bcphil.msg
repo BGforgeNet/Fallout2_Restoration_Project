@@ -5,12 +5,12 @@
 {104}{}{Moi chercher espion. Aller par là.}
 {105}{}{Moi chercher fille disparue. Toi savoir où trouver ?}
 {106}{}{Moi venir ici par hasard. Partir maintenant.}
-{107}{}{Screw you. Me shoot you dead.}
+{107}{}{Va te faire. Moi tuer toi.}
 {108}{}{Euh, on met les choses au clair ?}
 {109}{}{Je cherche une oreille indiscrète qui a dû passer par ici.}
 {110}{}{Je cherche une fille disparue. Tu l'aurais pas vue par hasard ?}
 {111}{}{Pardon. J'ai pris le mauvais chemin. Faut que j'y aille.}
-{112}{}{Up yours and have a bullet breakfast, asshole.}
+{112}{}{Va te faire foutre et avale moi ça au petit-déj, connard.}
 {113}{}{Je pense que nous pouvons en parler sans s'énerver, comme deux personnes civilisées.}
 {114}{}{Ah, ce serait moi. Et maintenant, que va-t-il se passer ?}
 {115}{}{Pourquoi t'espionnes Elisabeth ?}

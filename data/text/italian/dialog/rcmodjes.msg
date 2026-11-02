@@ -13,7 +13,7 @@
 {112}{}{Lascia che ti chieda qualcos'altro.}
 {113}{}{Jet? Cos'e' il Jet?}
 {114}{}{Capisco. Arrivederci.}
-{115}{}{Il Jet e' molto costoso, ultimamente. E' una cosa da criminali. A proposito... ho sentito che Ascorti, il nostro amato sindaco, si sta dando da fare per fornirci una maggior quantita' di Jet. Il solito eroe del popolo....}
+{115}{}{Il Jet e' molto costoso, ultimamente. E' una cosa da criminali. A proposito... ho sentito che Ascorti, il nostro amato sindaco, si sta dando da fare per fornirci una maggior quantita' di Jet. Il solito eroe del popolo...}
 {116}{}{Lascia che ti chieda qualcos'altro.}
 {117}{}{Il sindaco Asc-torti? Di chi si tratta, esattamente?}
 {118}{}{Jet? Cos'e' il Jet?}
@@ -27,7 +27,7 @@
 {126}{}{Jet? Cos'e' il Jet?}
 {127}{}{Capisco. Arrivederci.}
 {128}{}{Io sono... Madame Modjeska. Che cosa vuoi da me?}
-{129}{}{Come posso aiutarla?}
+{129}{}{Come posso aiutarti?}
 {130}{}{Non ho tempo da perdere. Che cosa vuoi da Madame Modjeska?}
 {131}{}{Al momento avrei altro da fare. Che cosa vuoi?}
 {132}{}{Madame Modjeska e' indisposta, oggi. Che cosa vuoi da lei?}
@@ -59,14 +59,14 @@
 {158}{}{Hai mai visto un rodeo con i brahmin coperti di grasso?}
 {159}{}{Certamente. Uh, decine di volte. Lascia che ti chieda qualcos'altro.}
 {160}{}{No, non ho mai sentito parlare di una cosa del genere. Dimmi di piu'.}
-{161}{}{Non so cosa questo abbia a che fare con la politica locale e non credo di volerlo sapere. Addio.}
+{161}{}{Non so cosa questo abbia a che fare con la politica locale e non credo di volerlo sapere. Arrivederci.}
 {162}{}{Dopo quell'ultima partita di Jet tagliato male, ho smesso di prendere quella roba. Magari, quando mi sentiro' meglio, mi prendero' una bella sbronza. (Ride)}
 {163}{}{Beh, buon per te... credo. Vorrei chiederti una cosa.}
 {164}{}{Interessante. Beh, riprenditi in fretta. Ci vediamo.}
 {165}{}{In pratica si ricopre di grasso un vitello di brahmin, e poi tutti cercano di catturare il vitello. Se non riesci a prenderlo tu, cerchi in tutti i modi di non farlo prendere nemmeno agli altri.}
 {166}{}{Non capisco cosa questo abbia a che fare con la politica.}
 {167}{}{Si', certo. Ho sentito abbastanza, Madame Modjeska. Ci vediamo.}
-{168}{}{In questo gioco, Redding e' il brahmin coperto di grasso - e dorato, per di piu'. New Reno, la New California Republic, e Vault City stanno tutte cercando di catturarci... o almeno cercano di impedire alle altre di farlo.}
+{168}{}{In questo gioco, Redding e' il brahmin coperto di grasso - e dorato, per di piu'. New Reno, la Repubblica della Nuova California, e Vault City stanno tutte cercando di catturarci... o almeno cercano di impedire alle altre di farlo.}
 {169}{}{Che cosa vuoi dire?}
 {170}{}{Bello. Beh, sara' meglio che vada, Madame. Grazie per le informazioni. Ci vediamo.}
 {171}{}{Qui a Redding si estrae l'oro. Poi noi lo inviamo a New Reno, NCR e Vault City in cambio di vari beni di consumo. Ognuno di questi posti vorrebbe avere l'oro - e il commercio da esso derivato - tutto per se'.}
@@ -81,7 +81,7 @@
 {180}{}{Denaro... Hmm. Beh, devo andare. Arrivederci.}
 {181}{}{Lo strato di grasso sul vitello si sta assottigliando. Presto, una delle potenze sara' costretta a fare una mossa decisiva per prendere Redding prima che lo facciano le altre due. Quando cio' accadra', le persone, molte persone, soffriranno.}
 {182}{}{Chi lavora per chi?}
-{183}{}{Perche' una cosa del genere comporterebbe una danno per le persone?}
+{183}{}{Perche' la gente dovrebbe farsi male?}
 {184}{}{Grazie per le informazioni. Ci vediamo.}
 {185}{}{Non sono sicura al cento per cento, ma credo che la situazione sia questa: Dan McGrew tifa New Reno, Marge LeBarge sta con NCR, Doc Johnson e' per Vault City, e il sindaco Ascorti non so da che parte stia.}
 {186}{}{Come potrebbero queste persone aiutare una delle tre potenze a prendere il controllo della citta'?}
@@ -109,10 +109,10 @@
 {208}{}{Come potrebbero queste persone aiutare una delle tre potenze a prendere il controllo della citta'?}
 {209}{}{Grazie per le informazioni. Ci vediamo.}
 {210}{}{Ascorti e' il sindaco. Ha un locale in centro, l'Ace. Si occupa della compravendita di un sacco di cose. Ha le mani in pasta praticamente in qualsiasi faccenda.}
-{211}{}{Ascorti e' il sindaco di Redding. Ma non so dove sia finito. E da un po' che non lo vedo in giro.}
+{211}{}{Ascorti e' il sindaco di Redding. Ma non so dove sia finito. E' da un po' che non lo vedo in giro.}
 {212}{}{Lascia che ti chieda qualcos'altro.}
 {213}{}{Credo di averti ascoltato abbastanza. Ci vediamo.}
-{214}{}{Il Jet e' una droga meravigliosa che mi aiuta ad affrontare quest'esistenza miserabile, baby.}
+{214}{}{Il Jet e' una droga meravigliosa che mi aiuta ad affrontare quest'esistenza miserabile, tesoro.}
 {215}{}{Lascia che ti chieda qualcos'altro.}
 {216}{}{Interessante. Grazie e arrivederci.}
 {217}{}{Il Jet e' una droga che mi aiuta a sentirmi davvero viva. E' come se volassi nel cielo, col Jet.}
@@ -121,7 +121,7 @@
 {220}{}{Mmmm, ti diro' cos'e' il Jet. E' una delizia, ecco cos'e'. Il Jet ha qualcosa da offrire per tutti.}
 {221}{}{Lascia che ti chieda qualcos'altro.}
 {222}{}{Interessante. Grazie e arrivederci.}
-{223}{}{Il Jet *era* una cosa grandiosa. Adesso mi fa rivoltare lo stomaco come se fossi una vecchia lavatrice. Non consiglierei ad anima viva di provare l'ultima partita. Il Jet ha finito il suo carburante e si e' schiantato, baby.}
+{223}{}{Il Jet *era* una cosa grandiosa. Adesso mi fa rivoltare lo stomaco come se fossi una vecchia lavatrice. Non consiglierei ad anima viva di provare l'ultima partita. Il Jet ha finito il suo carburante e si e' schiantato, tesoro.}
 {224}{}{Certo, scusa se te l'ho chiesto. Lascia che ti chieda qualcos'altro.}
 {225}{}{Interessante. Grazie e arrivederci.}
 {226}{}{C'era qualcosa di dannatamente sbagliato nell'ultima partita di Jet che e' arrivata in citta'. Si e' schiantato al decollo, quel Jet. Credo che diro' addio ai miei "voli" quotidiani. Ubriacarsi, invece - ecco una cosa che non ti puo' tradire.}
@@ -133,7 +133,7 @@
 {232}{}{Chi e' il sindaco Ascorti?}
 {233}{}{Come potrebbero queste persone aiutare una delle tre potenze a prendere il controllo della citta'?}
 {234}{}{Grazie per le informazioni. Ci vediamo.}
-{235}{}{Il sindaco e' un uomo che sa come giocare su due fronti diversi mentre ruba al centro. E' un uomo con pochi scrupoli, ma fara' cio' che e' giusto per Redding. Ovvero fara' cio' che gli permettera' di salvare i suoi interessi.}
+{235}{}{Il sindaco e' un uomo che sa come giocare su due fronti diversi mentre ruba al centro. Gli e' rimasto ancora qualche scrupolo, ma per lo piu' fara' cio' che e' giusto per Redding, cosi' da salvaguardare i propri interessi.}
 {236}{}{Chi e' Marge LeBarge?}
 {237}{}{Chi e' Dan McGrew?}
 {238}{}{Chi e' il dottor Johnson?}

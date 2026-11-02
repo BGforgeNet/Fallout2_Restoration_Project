@@ -6,7 +6,7 @@
 {154}{}{Sta' lontano da noi.}
 {155}{}{Ti piace, eh?}
 {156}{}{Si', e' vero.}
-{157}{}{Ci'.}
+{157}{}{Gia'.}
 {158}{}{Vorrei tanto scoparmela.}
 {159}{}{Fa' pure.}
 {160}{}{OK. Sono 50$.}
@@ -17,7 +17,7 @@
 {165}{}{Perfetto! Adesso vieni con Billy, dolcezza.}
 {166}{}{Adesso vattene.}
 {167}{}{Grazie. Ciao.}
-{168}{}{Addio.}
+{168}{}{Ciao.}
 {169}{}{Aw, cavoli.}
 {170}{}{[FATTO]}
 {171}{}{Sono completamente sfinito.}
@@ -35,12 +35,12 @@
 {183}{}{Non importunarmi. Sono alla ricerca di pollastrelle attraenti.}
 {184}{}{Buona fortuna. Ti servira'.}
 {185}{}{E io che sono, fegato macinato?}
-{186}{}{Addio.}
-{187}{}{Oooh. OK. Addio.}
+{186}{}{Ciao.}
+{187}{}{Oooh. OK. Ciao.}
 {188}{}{[ti guarda dall'alto in basso] No. Il fegato macinato mi piace.}
 {189}{}{Non voglio niente da te!}
 {190}{}{Scusami, devo andare.}
-{191}{}{Che peccato. Pensavo fossi carina.}
+{191}{}{Che peccato. Pensavo fossi carino.}
 {203}{}{Voglio indietro i miei soldi.}
 {204}{}{Non ti daro' nient'altro che un proiettile in testa.}
 {205}{}{OK, ecco a te.}
@@ -54,7 +54,7 @@
 {213}{}{Mi tocchera' ucciderti, allora.}
 {220}{}{Ehi, Frankie, prendo in prestito la stanza sul retro per un po'.}
 {221}{}{Ehi, Frankie, guarda chi ho conquistato.}
-{222}{}{Ehm, Frankie, se qualcuno... ehm... mi cerca, digli che torno presto.}
+{222}{}{Ehm, Frankie, se qualcuno... ehm... mi cerca, digli che sono sul retro.}
 {223}{}{Seguimi.}
 {224}{}{Dovrai aspettare. Parlero' con te piu' tardi.}
 {225}{}{Non li ho.}
@@ -70,7 +70,7 @@
 {323}{}{Non male, non male.}
 {324}{}{Dovremo rifarlo ancora e lavorare sulla... flessibilita'.}
 {350}{}{Sembra proprio che dovro' tornare in modalita' Manuale.}
-{351}{}{Sta' attenta che la porta non sbatta sul tuo CULO BASSO quando esci di qui!}
+{351}{}{Sta' attenta che la porta non sbatta sul tuo CULO SECCO quando esci di qui!}
 {352}{}{E' ora di finire quello che non sei nemmeno riuscita a cominciare!}
 {370}{}{Oh, che bello.}
 {371}{}{Billy adora queste cose.}
@@ -90,15 +90,15 @@
 {403}{}{Ehi, Billy, dopo non scordarti di cambiare i pantaloni.}
 {404}{}{Billy, hai mangiato delle ciambelle?}
 {410}{}{Uhhh.}
-{411}{}{Shucks}
-{412}{}{Jeesh}
+{411}{}{Accidenti}
+{412}{}{Cavolo}
 {413}{}{Eh, eh, eeeh...}
 {414}{}{Eh?}
 {500}{}{*SPUT, SPUT* Eccchhhh...}
 {510}{}{Ehi, amico, che ne diresti di "noleggiarmi" la tua bella?}
 {511}{}{Non puoi aspettare? Devo bere.}
 {512}{}{Ehi, se mi vuoi parlare, sono all'Hole.}
-{513}{}{Troviamo ci all'Hole e ti offriro' da bere. Che ne dici?}
+{513}{}{Troviamoci all'Hole e ti offriro' da bere. Che ne dici?}
 {520}{}{Spiacente, ma ho fretta di tornare a casa. Mi e' appena arrivato un porno nuovo.}
 {521}{}{Sono uhhh, stanco; per favore, lasciami andare a casa a uhhh, dormire...}
 {522}{}{Sto andando al negozio di Dave. Ha una nuova sezione interamente dedicata al porno!}

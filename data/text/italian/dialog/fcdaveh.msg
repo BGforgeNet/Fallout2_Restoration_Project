@@ -10,9 +10,9 @@
 {109}{}{Chi sei?}
 {110}{}{Di che cosa ti occupi?}
 {111}{}{Ho parlato con Vikki. Lei e Juan hanno riso di te e hanno detto che sei una mezza sega.}
-{112}{}{Ho parlato con Vikki. Dice che sei un figo e che qualche volta gli piacerebbe stare un po' con te.}
+{112}{}{Ho parlato con Vikki. Dice che sei un figo e che qualche volta le piacerebbe stare un po' con te.}
 {113}{}{Vuoi che parli di te con Vikki?}
-{114}{}{Lasciamo perdere. Ci vediamo.}
+{114}{}{Lasciamo perdere. Ciao.}
 {115}{}{Ummm... oookay. Come vuoi. Senti, cos'e' quella cosa la'?
 [Mentre ti giri a guardare, lui torna di scatto a quello che stava facendo e ti ignora.]}
 {116}{}{[FATTO]}
@@ -46,14 +46,14 @@ Pazienza.
 {141}{}{Ho bisogno di prelevare gli schemi tecnici del vertibird dal vostro computer.}
 {142}{}{Voglio che tu formatti il disco rigido del computer degli Hubologisti.}
 {143}{}{Voglio che tu ti introduca nel database degli Shi e che invii del carburante alla petroliera Poseidon.}
-{144}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Posiedon.}
+{144}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Poseidon.}
 {145}{}{Niente. Ci si vede.}
 {146}{}{D'accordo. Adesso sparisci da qui. Formattero' il computer e poi me ne andro'.}
 {147}{}{Ho bisogno di prelevare gli schemi tecnici del vertibird dal vostro computer.}
 {148}{}{Voglio che tu ti introduca nel database degli Shi e che invii del carburante alla petroliera Poseidon.}
-{149}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Posiedon.}
+{149}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Poseidon.}
 {150}{}{Beh, guarda che stavo solo scherzando. Non ha mai detto una cosa del genere.}
-{151}{}{Buona fortuna. Addio!}
+{151}{}{Buona fortuna. Ci vediamo!}
 {152}{}{Ecco. Insegnero' a quei bastardi che nessuno puo' comportarsi cosi' con Dave! Addio.}
 {153}{}{Beh, guarda che stavo solo scherzando. Non ha mai detto una cosa del genere.}
 {154}{}{Arrivederci.}
@@ -64,12 +64,12 @@ Pazienza.
 {159}{}{Ho bisogno di prelevare gli schemi tecnici del vertibird dal vostro computer.}
 {160}{}{Voglio che tu formatti il disco rigido del computer degli Hubologisti.}
 {161}{}{Voglio che tu ti introduca nel database degli Shi e che invii del carburante alla petroliera Poseidon.}
-{162}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Posiedon.}
+{162}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Poseidon.}
 {163}{}{Ahh, nulla. Entra e divertiti un po'.}
 {164}{}{Ecco a te. Nient'altro?}
 {165}{}{Ho bisogno di prelevare gli schemi tecnici del vertibird dal vostro computer.}
 {166}{}{Voglio che tu formatti il disco rigido del computer degli Hubologisti.}
-{167}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Posiedon.}
+{167}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Poseidon.}
 {168}{}{Voglio che tu ti introduca nel database degli Shi e che invii del carburante alla petroliera Poseidon.}
 {169}{}{No. Ci si vede!}
 {170}{}{Formattare il disco rigido? Stai scherzando? Assolutamente no! Non posso farlo!}
@@ -78,10 +78,10 @@ Pazienza.
 {173}{}{Oh, d'accordo. Ci vediamo.}
 {174}{}{Oh. Beh, se hai fatto un back-up, allora posso formattarlo. ::preme dei tasti sulla tastiera:: Ecco fatto.}
 {175}{}{Grazie! Ci vediamo!}
-{176}{}{Ti ho giocato come un pollo. Addio!}
+{176}{}{Ci sei cascato come un pollo. Addio!}
 {177}{}{Controllero' io stesso. Non credo che al momento sia sicuro formattare il mainframe.}
 {178}{}{D'accordo. Avrei delle altre domande.}
-{179}{}{Okay. Ci vediamo.}
+{179}{}{Okay. Ciao.}
 {180}{}{No, no... mi vergogno troppo.}
 {181}{}{Certo, certo. Ho delle altre domande.}
 {182}{}{Certo, certo.}
@@ -102,5 +102,5 @@ Pazienza.
 {197}{}{Si', ho delle altre domande.}
 {198}{}{No, credo di no.}
 {199}{}{Mi spiace, il loro sistema non risponde da un po'. Non c'e' modo per me di violarlo. Altro?}
-{200}{}{Credo che andro' da Vikki... umm... tra un po'. Come posso aiutarti?}
+{200}{}{Ho deciso di provarci, con Vikki... umm... prima o poi. Come posso aiutarti?}
 {201}{}{Il loro sistema non risponde da un po'. Sembra che qualcuno abbia formattato il loro database. Che e' cio' che faro' qui quando avro' finito con te. Altro?}

@@ -1,4 +1,4 @@
-{100}{}{Vedi una macchina peculiare.}
+{100}{}{Vedi una macchina particolare.}
 {101}{}{La macchina che controlla la proiezione dell'ologramma in questa stanza.}
 {103}{}{Un guasto nella macchina viene individuato e riparato rapidamente.}
 {104}{}{Questa macchina e' gia' stata riparata.}

@@ -1,1 +1,1 @@
-{100}{}{Sei entrato nella zona residenziale del Den.}
+{100}{}{Entri nella zona residenziale del Den.}

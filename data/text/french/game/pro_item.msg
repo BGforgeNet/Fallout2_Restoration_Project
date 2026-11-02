@@ -534,7 +534,7 @@
 {27201}{}{Cette racine rare apporte ses vertus curatives à la poudre de guérison.}
 {27300}{}{Poudre médicinale}
 {27301}{}{Une puissante solution de guérison magique vaguement soporifique.}
-{27400}{}{Roquette pour robots}
+{27400}{}{Munitions de roquette pour robots}
 {27401}{}{Utilisée uniquement par les robots équipés de lance-roquettes robotisés.}
 {27500}{}{Trophée du mérite}
 {27501}{}{Un solide trophée en or portant l'inscription « A : Dave, De : DC, Pour : Une personne qui m'est chère. »}

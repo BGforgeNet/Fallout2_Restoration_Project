@@ -1,7 +1,7 @@
 {100}{}{Vedi Miss Kitty.}
 {150}{}{Vedi uno schianto di donna. Nonostante i suoi abiti... discinti, il suo fare e' professionale e da vera donna d'affari.}
 {200}{}{Le entrate del primo trimestre sono salite leggermente... ora, se consideriamo l'aumento del tributo...}
-{201}{}{Se la becco a farsi di Jet, anche un solo *whiff*, la caccio...}
+{201}{}{Se la becco a farsi di Jet, anche solo una *sniffata*, la caccio...}
 {202}{}{E' quasi tempo delle visite mensili... giusto in tempo per l'inizio della stagione delle carovane.}
 {203}{}{Devo trovare qualche altra ragazza per quel party in piscina dai Bishop...}
 {204}{}{Maledetti fogli di lavoro Macrosoft...}
@@ -9,15 +9,15 @@
 {206}{}{Jules fara' meglio a mandarci presto un po' di persone arrapate... e danarose.}
 {215}{}{(La donna di fronte a te e' incredibilmente bella. Non appena ti rivolgi a lei, alza lo sguardo e sorride.) Ah, una faccia nuova! Io sono Miss Kitty... benvenuto al Cat's Paw.}
 {216}{}{Bentornato!}
-{217}{}{Ma guarda un po’, il piu' famoso pugile di Reno!}
-{218}{}{Mi stavo proprio chiedendo quand'e' che Mr. }
+{217}{}{Ma guarda un po', il piu' famoso pugile di Reno!}
+{218}{}{Mi stavo proprio chiedendo quando il signor }
 {219}{}{Cielo! Che mi venga un colpo se questa non e' la star dello schermo!}
 {220}{}{ Che cosa desideri oggi?}
 {221}{}{ Che cosa desideri oggi, miss?}
 {222}{}{Derideri?}
 {223}{}{Tu avere belli capelli}
 {224}{}{Tu detto "deshideri" Huh-Huh-Huh-Huh-Huh}
-{225}{}{George dice che noi ci cacciare in guai e che io meglio se sta lontano da te o lui no lasciare me giocare con conigli cosi' me andare ora}
+{225}{}{George dice che noi avere pezzo di terra tutto nostro e che io meglio se sta lontano da te o lui no lasciare me giocare con conigli cosi' me andare ora}
 {226}{}{Jules mi ha detto di venire qui, per un po' di... divertimento.}
 {227}{}{Sto cercando un po' di...divertimento.}
 {228}{}{Veramente, mi piacerebbe farti qualche domanda.}
@@ -31,28 +31,28 @@
 {247}{}{Dipende... cosa c'e' sul menu?}
 {248}{}{Mi piacerebbe sistemare il mio amico con qualcosa di speciale.}
 {249}{}{Mi piacerebbe sistemare uno dei miei amici. E' il suo...uh, compleanno.}
-{250}{}{Vorrei farvi alcune domande...}
+{250}{}{Vorrei farti alcune domande...}
 {251}{}{Veramente, ho cambiato idea. Dev'essere l'ansia da prestazione. Arrivederci.}
 {255}{}{Sono lusingata, ma...no. Non posso.}
 {256}{}{Aw, dai. Solo un drink. Nessuna pressione. Staremo benissimo.}
 {257}{}{Senti, se non ti piacciono le donne mi sta bene. Diavolo, anche a me non piace la maggior parte delle donne che incontro. Vedi? Abbiamo gia' qualcosa in comune.}
 {258}{}{Ehi, non preoccuparti... non indossero' l'armatura, okay?}
 {259}{}{D'accordo. Vorrei farti qualche domanda...}
-{260}{}{Scusa, non volevo farti pressione. Ci vediamo.}
+{260}{}{Scusa, non volevo farti pressione. Arrivederci.}
 {265}{}{(Si guarda attorno, poi si avvicina e sussurra.) Ascolta... torna quando avrai salvato la tua gente, e poi ne riparleremo, okay?}
 {266}{}{D'accordo, allora. Avrei delle altre domande...}
 {267}{}{La prendo come un appuntamento. Ci vediamo per allora.}
 {275}{}{Beh...(Legge il menu aiutandosi con l'indice.)... abbiamo l'amor di miele, rotazioni violente dell'asta, body massage, e vari altri esotismi. (Sorride.) La domanda e': cosa TI senti di fare?}
 {276}{}{Mi piacerebbero un po' di attenzioni... orali.}
 {277}{}{Solo un po' di semplice, godurioso, basso e lurido sesso mi andra' benissimo.}
-{278}{}{Mi piacerebbe un bel servizio completo sopra&sotto.}
+{278}{}{Mi piacerebbe un bel servizio completo sopra e sotto.}
 {279}{}{Va bene lo stesso se io, ecco, ci parlo solamente?}
 {280}{}{Ho una richiesta speciale e... "teatrale".}
 {290}{}{D'accordo, allora. }
 {291}{}{(Strizza l'occhio.) Offre la casa.}
 {292}{}{Sono }
 {293}{}{Ok. Ecco i soldi.}
-{294}{}{Non posso lamentarmi del prezzo. Sono pronto.}
+{294}{}{Non posso lamentarmi del prezzo. Facciamolo.}
 {295}{}{Lasciamo perdere. Vorrei farti qualche domanda...}
 {296}{}{Non ho abbastanza soldi... magari un'altra volta.}
 {320}{}{Beh, certo che puoi. Noi lo chiamiamo il "Kesting special". }
@@ -75,13 +75,13 @@
 {375}{}{Molto probabilmente saremo in grado di accontentarti. La tua richiesta sarebbe...?}
 {376}{}{Voglio che la mia partner indossi una tuta da Vault aderente, che mi chiami "Abitante del Vault" e che faccia finta che io debba trovare il "Vault SESS-anta."}
 {377}{}{Mi piacerebbe essere "catturato" da una splendida donna-mutante, ed essere costretto con la forza ad immergermi nella sua "vasca" mutagena.}
-{378}{}{Mi piacerebbe interpretare il ruolo di "Herk", un giovane schiavo celibe strappato dal suo villaggio da una banda di vigorose femmine schiaviste. E qui arriva il bello... Herk puo' comunicare soltanto con il suo CORPO.}
-{379}{}{Mi piacerebbe interpretare il ruolo di "Zena", una giovane schiava nubile strappata dal suo villaggio da una banda di schiavisti. E qui arriva il bello... Zena puo' comunicare soltanto con il suo CORPO.}
-{380}{}{Mi piacerebbe essere "catturata" da uno spiritoso tenente mutante, interrogata duramente e poi venir investita dai suoi liquidi mutageni.}
+{378}{}{Mi piacerebbe interpretare il ruolo di "Herk", un giovane e prestante schiavo strappato dal suo villaggio da una banda di vigorose femmine schiaviste. E qui arriva il bello... Herk puo' comunicare soltanto con il suo CORPO.}
+{379}{}{Mi piacerebbe interpretare il ruolo di "Zena", una giovane e procace schiava strappata dal suo villaggio da una banda di schiavisti. E qui arriva il bello... Zena puo' comunicare soltanto con il suo CORPO.}
+{380}{}{Mi piacerebbe essere "catturata" da uno spiritoso tenente mutante, interrogata duramente e poi immersa nelle sue vasche mutagene.}
 {381}{}{Hai qualche ragazza che assomigli ad Angela Bishop? Ho bisogno di sfogare certe voglie.}
 {382}{}{Hai qualche ragazza che assomigli alla signora Bishop? Ho bisogno di sfogare certe voglie.}
 {383}{}{Vorrei farti qualche domanda, invece...}
-{384}{}{Veramente preferisco di no. Devo andare.}
+{384}{}{Anzi, lascia perdere. Devo andare.}
 {395}{}{Certamente. (Osserva i tuoi compagni.) Chi?}
 {396}{}{Potete occuparvi di Lenny? Non credo che abbia mai baciato una ragazza in vita sua.}
 {397}{}{Hai una ragazza in grado di, er, "gestire" Marcus?}
@@ -94,9 +94,9 @@
 {404}{}{Davin avrebbe bisogno di fare un (bel) po' di esperienza.}
 {405}{}{Miria vorrebbe fare quattro passi in un territorio selvaggio.}
 {406}{}{In realta', nessuno, grazie.}
-{407}{}{Questo e' Dex. Meglio tenerlo d’occhio, a volte perde il controllo.}
-{408}{}{Questo e' il Gatto Jules. Attento pero', potrebbe mordere le ragazze.}
-{409}{}{Questa e' Kitsune. Spero tu sappia… come dire… starle dietro.}
+{407}{}{Questo e' Dex. Meglio tenerlo d'occhio, a volte perde il controllo.}
+{408}{}{Questo e' Cat Jules. Attento pero', potrebbe mordere le ragazze.}
+{409}{}{Questa e' Kitsune. Spero tu sappia... come dire... starle dietro.}
 {420}{}{Il tuo amico qui? (Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {421}{}{(Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {422}{}{ dollari.}
@@ -105,13 +105,13 @@
 {425}{}{Non mi posso lamentare di un prezzo simile. Ci sto.}
 {426}{}{Magari piu' tardi... senti, avrei delle altre domande.}
 {427}{}{Hmmm. Magari un'altra volta, quando avro' piu' soldi.}
-{428}{}{Veramente ho cambiato idea. Ci vediamo.}
+{428}{}{Veramente ho cambiato idea. Arrivederci.}
 {440}{}{(Sembra sorpresa.) Vediamo... (Osserva la rivista.) Bene, bene... sai, ho sentito dire che - negli anni precedenti la guerra -- la Cat's Paw era una casa editrice... di materiale pornografico.}
 {441}{}{Di materiale pornogru - porn-o-gra - pornu - ehm, una casa editrice, hai detto?}
 {442}{}{Questo posto era una casa editrice?}
 {450}{}{Si'... queste stanze erano usate come set fotografici dove posavano modelle provenienti da tutto il mondo. (Sembra ipnotizzata dalla rivista) Mi hai mostrato un pezzo di storia non indifferente.}
-{451}{}{Beh, ecco, lo leggo solo per gli articoli.}
-{452}{}{Sono davvero contento di scoprire cos'e' questa dannata roba. E' irritante continuare ad esaminarla ed avere sempre lo stesso messaggio. Probabilmente comparira' ANCORA, nonostante l'abbiamo identificato.}
+{451}{}{Beh, ecco, la leggo solo per gli articoli.}
+{452}{}{Sono davvero contento di scoprire cos'e' questa dannata roba. E' irritante continuare ad esaminarla ed avere sempre lo stesso messaggio. Probabilmente comparira' ANCORA, anche ora che l'ho identificata.}
 {460}{}{Sai... se tu mi portassi un'annata completa... dieci numeri, diciamo, te li comprerei volentieri. Non sarebbe male poterli esporre, cosi' da attirare clienti. Ti interessa?}
 {461}{}{Se riesco a trovarne COSI' tanti... senti, avrei delle altre domande...}
 {462}{}{Veramente, ne ho dieci proprio qui con me.}
@@ -147,7 +147,7 @@
 {545}{}{Sei cosi' modesto. }
 {546}{}{Sei cosi' forte. Cosi'... sicuro di te. }
 {547}{}{ADORO questo tuo carattere. (Indica il Cat's Paw con un ampio gesto.) Sarai sempre il benvenuto qui... offre la casa.}
-{548}{}{Allora... che mi dici di quell'appunamento di cui avevamo parlato qualche tempo fa?}
+{548}{}{Allora... che mi dici di quell'appuntamento di cui avevamo parlato qualche tempo fa?}
 {549}{}{Allora... che ne diresti se... ecco, tu ed io... cioe'... ecco...}
 {550}{}{Baby, ho dovuto essere freddo come una macchina, ma sono un essere umano anch'io. Vieni qua.}
 {551}{}{Ottimo! Ascolta, avrei qualche altra domanda da farti, prima di abbandonarmi al piacere...}
@@ -163,13 +163,13 @@
 {576}{}{, tu... bestia disintegra-Enclave...}
 {577}{}{::Bwanbwan-bwan-ba-bwan oookwaka oookwaka::}
 {585}{}{(Annuisce.) Si', e' vero. Di solito dobbiamo addestrarle a lungo per sopprimere il loro istintivo disgusto. E' quasi un rito di passaggio, ormai. Pero', se una ragazza riesce a sopportare la prova-Myron, significa che e' tosta...}
-{586}{}{Mi piacerebbe incontrarlo. Pensi che potrei offrirmi come sua prossima… "scelta?"}
+{586}{}{Mi piacerebbe incontrarlo. Pensi che potrei offrirmi come sua prossima... "scelta"?}
 {587}{}{Capisco. Avrei delle altre domande...}
 {588}{}{Hmmmm. Grazie delle informazioni.}
-{595}{}{(Ti osserva, poi fa un gesto rotatorio con l'indice) Girami intorno. Hmmmm... }
+{595}{}{(Ti osserva, poi fa un gesto rotatorio con l'indice) Fai un giro su te stessa. Hmmmm... }
 {596}{}{no, non credo che potresti farcela. Forse se ti curassi un po' di piu', se ti rendessi piu'... presentabile... ma cosi' no. Mi dispiace.}
 {597}{}{si'... si', credo che andrai benissimo. Ti interessa davvero il lavoro? Tutte le altre mie ragazze sono... stufe.}
-{598}{}{Bene.}
+{598}{}{Certo.}
 {599}{}{Hmmm. Avrei delle altre domande...}
 {600}{}{No, ma potrebbe interessarmi piu' tardi. Avrei delle altre domande...}
 {610}{}{(Annuisce.) Magnifico. Uno degli uomini di Mordino dovrebbe farsi vivo a momenti. Se intanto vuoi sederti, ti presentero' come una delle... aspiranti.}

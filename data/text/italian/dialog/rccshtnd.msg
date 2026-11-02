@@ -1,4 +1,4 @@
-{100}{}{Vedi un cassiere trasandato.}
+{100}{}{Vedi un cassiere dall'aria losca.}
 {101}{}{Sembra capace di comprare qualsiasi cosa purche' la gente giochi d'azzardo qui.}
 {102}{}{Cosa vuoi?}
 {103}{}{Vorrei vendere delle cose.}

@@ -51,7 +51,7 @@
 {2600}{}{Monitor}
 {2601}{}{Un monitor di computer; sta mostrando vari bit di dati.}
 {2700}{}{Grata}
-{2701}{}{Un grata nel pavimento.}
+{2701}{}{Una grata nel pavimento.}
 {2800}{}{Tubature}
 {2801}{}{Qualche tubo. Dopo un ulteriore esame, sono ancora dei tubi.}
 {2900}{}{Presa d'Aria}
@@ -124,9 +124,9 @@
 {6201}{}{E' sicuramente un tavolo.}
 {6300}{}{Rotolacampo}
 {6301}{}{E' un tumbleweed, uno di quegli ammassi di sterpi rotolanti. Certo, tu non hai mai visto dal vivo un vero tumbleweed. Faresti meglio a guardarlo attentamente.}
-{6400}{}{Kaktus}
+{6400}{}{Cactus}
 {6401}{}{Non vedi niente di speciale in questo cactus.}
-{6500}{}{Kaktus}
+{6500}{}{Cactus}
 {6501}{}{Non vedi niente di importante in questo cactus.}
 {6600}{}{Albero}
 {6601}{}{Un albero morto. Qui niente cresce bene.}
@@ -141,7 +141,7 @@
 {7100}{}{Pozza di Sangue}
 {7101}{}{Non c'e' niente di strano riguardo a questa pozza di sangue. A parte il fatto che, naturalmente, in questo posto qualcuno o qualcosa e' morto.}
 {7200}{}{Colonna di Roccia}
-{7201}{}{Questa sottile colonna di roccia si estende dal pavimento al soffitto.}
+{7201}{}{Questa spessa colonna di roccia si estende dal pavimento al soffitto.}
 {7300}{}{Colonna di Roccia}
 {7301}{}{Questa sottile colonna di roccia si estende dal pavimento al soffitto.}
 {7400}{}{Rocce}
@@ -179,7 +179,7 @@
 {9000}{}{Rocce}
 {9001}{}{Un enorme mucchio di rocce. Sembrano pericolose anche solo stando li'.}
 {9100}{}{Rocce}
-{9101}{}{Un grosso mucchio di rocce. Se ti avvicini, sui lati delle pietre puoi vedere le facce di piccoli vecchietti.}
+{9101}{}{Un grosso mucchio di rocce. Se guardi attentamente, sui lati delle pietre puoi vedere le facce di piccoli vecchietti.}
 {9200}{}{Rocce}
 {9201}{}{Rocce, rocce, rocce! Ovunque tu guardi, rocce!}
 {9300}{}{Rocce}
@@ -227,7 +227,7 @@
 {11400}{}{Sporcizia}
 {11401}{}{Un piccolo mucchio di sporcizia.}
 {11500}{}{Erbaccia}
-{11501}{}{Un piccolo mucchio di sporcizia, con un'erbaccia morta che ne fuoriesce.}
+{11501}{}{Un piccolo mucchio di sporcizia, con un'erbaccia secca che ne fuoriesce.}
 {11600}{}{Rifiuti}
 {11601}{}{Un pezzo ammaccato di metallo arrugginito.}
 {11700}{}{Rifiuti}
@@ -331,13 +331,13 @@
 {17000}{}{Colonna}
 {17001}{}{Una colonna di supporto.}
 {17100}{}{Computer d'Accesso per la Porta}
-{17101}{}{Questo computer controlla l'enorme porta del vault. Devi inserire uno specifico codice d'accesso per farlo funzionare.}
+{17101}{}{Questo computer controlla l'enorme porta del Vault. Devi inserire uno specifico codice d'accesso per farlo funzionare.}
 {17200}{}{Insegna del Casino'}
 {17201}{}{Sembra una pubblicita' del Casino' di Gizmo.}
 {17300}{}{Porta Esterna del Vault 13}
-{17301}{}{Questa grande porta e' il legame tra il vault e il mondo esterno.}
+{17301}{}{Questa grande porta e' il legame tra il Vault e il mondo esterno.}
 {17400}{}{Porta Esterna del Vault 13}
-{17401}{}{Questa grande porta e' il legame tra il vault e il mondo esterno.}
+{17401}{}{Questa grande porta e' il legame tra il Vault e il mondo esterno.}
 {17500}{}{Insegna del Casino'}
 {17501}{}{Questa parte dell'insegna contiene un motore elettrico che fa ruotare lentamente l'insegna al neon.}
 {17600}{}{Freccia Giu'}
@@ -364,11 +364,11 @@
 {18900}{}{Cartello Livello 'Quattro'}
 {18901}{}{Devi essere al livello quattro.}
 {19000}{}{Letto a Castello}
-{19001}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
+{19001}{}{Un letto a castello stile militare. Sembra molto scomodo. E le lenzuola sono cosi' tese che ci potresti far rimbalzare una moneta.}
 {19100}{}{Letto a Castello}
-{19101}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
+{19101}{}{Un letto a castello stile militare. Sembra molto scomodo. E le lenzuola sono cosi' tese che ci potresti far rimbalzare una moneta.}
 {19200}{}{Letto a Castello}
-{19201}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
+{19201}{}{Un letto a castello stile militare. Sembra molto scomodo. E le lenzuola sono cosi' tese che ci potresti far rimbalzare una moneta.}
 {19300}{}{Cassa}
 {19400}{}{Distributore di Nuka-Cola}
 {19401}{}{La pubblicita' sul fianco promuove la famosa soda.}
@@ -406,7 +406,7 @@
 {21100}{}{Letto}
 {21101}{}{Esaminandolo piu' da vicino, ti accorgi che le lenzuola non sono state cambiate da tanto, tantissimo tempo.}
 {21200}{}{Letto}
-{21201}{}{Ci sono un paio di macchie di dubbia origine su questo dispositivo per dormite semi-distrutto.}
+{21201}{}{Ci sono un paio di macchie di dubbia origine su questo consunto dispositivo per dormire.}
 {21300}{}{Letto}
 {21301}{}{Questo letto e' stato usato cosi' tante volte da essere gravemente usurato. Inoltre, qualcosa deve essersi infilato tra i materassi... e dev'esserci pure morto.}
 {21400}{}{}
@@ -470,13 +470,13 @@
 {24700}{}{Lampione}
 {24701}{}{E' un lampione rotto. Non puo' essere riparato.}
 {24800}{}{Lampione}
-{24801}{}{Questa attrezzatura da luce e' ancora funzionate.}
+{24801}{}{Questo punto luce e' ancora funzionante.}
 {24900}{}{Lampione}
 {24901}{}{La lampadina di questo lampione e' irreparabilmente fracassata.}
 {25000}{}{Lampione}
 {25001}{}{Questo e' un lampione funzionante.}
 {25100}{}{Cancello}
-{25101}{}{Il lucchetto chiuso su questo cancello e' rotto e le sbarre sembrano molto solide.}
+{25101}{}{Il lucchetto di questo cancello e' bloccato e le sbarre sembrano molto solide.}
 {25200}{}{Rifiuti}
 {25201}{}{Rifiuti inutili, nessun dubbio a riguardo.}
 {25300}{}{Rifiuti}
@@ -518,7 +518,7 @@
 {27100}{}{Rifiuti}
 {27101}{}{Un materasso in terribili condizioni. Nemmeno i ratti ci dormirebbero dentro... e neppure sopra.}
 {27200}{}{Rifiuti}
-{27201}{}{Un materasso matrimoniale che ha vissuto molti giorni migliori di questo.}
+{27201}{}{Un materasso singolo che ha vissuto molti giorni migliori di questo.}
 {27300}{}{Rifiuti}
 {27301}{}{Un mucchio di legno marcio e rovinato. Non vale il suo peso in, beh, nulla.}
 {27400}{}{Rifiuti}
@@ -535,11 +535,11 @@
 {28100}{}{Pietrisco}
 {28101}{}{Un piccolo mucchio di pietre e rocce. Occhio a dove metti i piedi!}
 {28200}{}{Lavello}
-{28201}{}{Un lavello di ceramica che ha da tempo perso l'abilita' di funzionare.}
+{28201}{}{Un lavello di ceramica che ha smesso di funzionare da tempo.}
 {28300}{}{Lavello}
 {28301}{}{Un lavello di ceramica rotto. C'e' una piccola pozza di acqua marrone al suo interno, con un ratto morto galleggiante.}
 {28400}{}{Lavello}
-{28401}{}{Questo lavello non funziona. Lo puoi dire vedendo la larga spaccatura al centro.}
+{28401}{}{Questo lavello non funziona. Lo si capisce dalla grossa crepa al centro.}
 {28500}{}{Lavello}
 {28501}{}{Un lavello di ceramica rotto. C'e' una piccola pozza di acqua marrone al suo interno, con un ratto morto galleggiante.}
 {28600}{}{Cartello di Stop}
@@ -567,9 +567,9 @@
 {29700}{}{Lampione Stradale}
 {29701}{}{Questo lampione stradale potrebbe fornire illuminazione nelle zone buie, se non fosse completamente rotto.}
 {29800}{}{Cartello}
-{29801}{}{Questo cartello dovrebbe indicare la via in cui si trova, ma le lettere sono sbiadite nell'oscurita'.}
+{29801}{}{Questo cartello dovrebbe indicare la via in cui si trova, ma le lettere sono sbiadite fino a diventare illeggibili.}
 {29900}{}{Cartello}
-{29901}{}{Questo cartello dovrebbe indicare la via in cui si trova, ma le lettere sono sbiadite nell'oscurita'.}
+{29901}{}{Questo cartello dovrebbe indicare la via in cui si trova, ma le lettere sono sbiadite fino a diventare illeggibili.}
 {30000}{}{Tavolo}
 {30001}{}{Un tavolo di legno, in discrete condizioni.}
 {30100}{}{Tavolo}
@@ -577,7 +577,7 @@
 {30200}{}{Tavolo}
 {30201}{}{Un tavolo di legno, in mediocri condizioni.}
 {30300}{}{Tavolo}
-{30301}{}{Un tavolo di legno, con superficie di plastica, che e' stata rotta da tempo.}
+{30301}{}{Un tavolo di legno, con superficie di plastica, che e' rotto da tempo.}
 {30400}{}{Tavolo}
 {30401}{}{Un tavolo di legno, color verde vomito; non si puo' riparare.}
 {30500}{}{Tavolo}
@@ -658,7 +658,7 @@
 {34401}{}{Se vedi questo, prenditela con il designer tecnico.}
 {34500}{}{Pavimento}
 {34600}{}{Porta}
-{34601}{}{Un porta di legno decorato. E' fatta ovviamente da mani capaci.}
+{34601}{}{Una porta di legno decorata. E' ovviamente opera di mani esperte.}
 {34700}{}{Panca}
 {34701}{}{Questo sedile e' sostenuto da grossi mattoni di cemento. Non e' importante, ma sei tu quello che e' andato a guardare.}
 {34800}{}{Scala}
@@ -698,9 +698,9 @@
 {36500}{}{Vaso}
 {36501}{}{Un bel vaso.}
 {36600}{}{Pianta}
-{36601}{}{Sembrerebbe un cavolo mutante. Cresce nei climi caldi.}
+{36601}{}{Sembrerebbe un cavolo mutante. Sembra prosperare con il clima caldo.}
 {36700}{}{Pianta}
-{36701}{}{Sembrerebbe un cavolo mutante. Cresce nei climi caldi.}
+{36701}{}{Sembrerebbe un cavolo mutante. Sembra prosperare con il clima caldo.}
 {36800}{}{Carro}
 {36801}{}{Un rozzo, ma efficiente, carro agricolo.}
 {36900}{}{Pianta}
@@ -746,9 +746,9 @@
 {38900}{}{Palo}
 {38901}{}{Questo palo aiuta a sostenere la tenda.}
 {39000}{}{Porta del Vault}
-{39001}{}{Questa porta del vault ora non e' nient'altro che un pesante pezzo di metallo ammaccato.}
+{39001}{}{Questa porta del Vault ora non e' nient'altro che un pesante rottame di metallo.}
 {39100}{}{Parete}
-{39101}{}{Il meccanismo di apertura e chiusura della pesante porta del vault e' stato danneggiato irreparabilmente.}
+{39101}{}{Il meccanismo di apertura e chiusura della pesante porta del Vault e' stato danneggiato irreparabilmente.}
 {39200}{}{Sostegno}
 {39201}{}{Questo sostegno aiuta a sostenere il muro difensivo.}
 {39300}{}{Sostegno}
@@ -768,7 +768,7 @@
 {40000}{}{Presa d'Aria}
 {40001}{}{Questa presa d'aria sembra appartenere a una struttura sotterranea.}
 {40100}{}{Cassa}
-{40101}{}{Un cassa di legno. Non sembra in cosi' cattivo stato.}
+{40101}{}{Una cassa di legno. Non sembra in cosi' cattivo stato.}
 {40200}{}{Cassa}
 {40201}{}{Una semplice cassa di legno. In discrete condizioni.}
 {40300}{}{Cassa}
@@ -833,11 +833,11 @@
 {43500}{}{Rocce}
 {43501}{}{Un piccolissimo mucchio di rocce.}
 {43600}{}{Porta del Vault}
-{43601}{}{Questa porta del vault e' molto simile a quella del Vault-13. Il meccanismo della porta e' stato disabilitato.}
+{43601}{}{Questa porta del Vault e' molto simile a quella del Vault-13. Il meccanismo della porta e' stato disabilitato.}
 {43700}{}{Porta}
-{43701}{}{Un porta di legno ben costruita, rinforzata con sostegni di metallo elaborati in una forma leggermente ipnotica.}
+{43701}{}{Una porta di legno ben costruita, rinforzata con decorazioni in metallo dal disegno quasi ipnotico.}
 {43800}{}{Porta}
-{43801}{}{Un porta di legno ben costruita, rinforzata con sostegni di metallo elaborati in una forma leggermente ipnotica.}
+{43801}{}{Una porta di legno ben costruita, rinforzata con decorazioni in metallo dal disegno quasi ipnotico.}
 {43900}{}{Vasche}
 {43901}{}{Un complesso di qualche tipo. Non sei sicuro, ma puoi vedere delle grandi vasche con una gelatina verde al loro interno che si direbbe abbastanza importante.}
 {44000}{}{Vasche}
@@ -927,7 +927,7 @@
 {48700}{}{Monitor}
 {48701}{}{Un grande monitor, in bianco e nero. La ricezione e' piuttosto buona per essere all'interno e senza un'antenna.}
 {48800}{}{Monitor}
-{48801}{}{Un grande monitor, in bianco e nero. La ricezione e' piuttosto buona per essere all'interno e senza un'antenna.}
+{48801}{}{Un grande monitor, in bianco e nero. La figura in tunica sta recitando dogmi religiosi a ritmo febbrile.}
 {48900}{}{Campo di Forza}
 {48901}{}{Questo e' un potente campo di energia.}
 {49000}{}{Campo di Forza}
@@ -998,7 +998,7 @@
 {52500}{}{Panca}
 {52501}{}{Una panca ben fatta e dall'aspetto estremamente scomodo.}
 {52600}{}{Podio}
-{52601}{}{Un bel podio in legno. C'e' un piccolo gobbo elettronico al suo interno, rivolto verso il parlatore.}
+{52601}{}{Un bel podio in legno. C'e' un piccolo gobbo elettronico al suo interno, rivolto verso l'oratore.}
 {52700}{}{Carro}
 {52701}{}{Un carro da carovana ottenuto dai resti smantellati di un'antica automobile.}
 {52800}{}{Carro}
@@ -1047,7 +1047,7 @@
 {55000}{}{Tavolo della Roulette}
 {55001}{}{E' un tavolo per il gioco d'azzardo.}
 {55100}{}{Barile}
-{55101}{}{Questo barile di metallo vuoto ha il simbolo nucleare a trifoglio dipinto sul fianco in un colore giallo chiaro.}
+{55101}{}{Questo barile di metallo vuoto ha il simbolo nucleare a trifoglio dipinto sul fianco in un giallo acceso.}
 {55200}{}{Barile}
 {55201}{}{Questo barile contiene uno strano liquame verde fosforescente. Il simbolo nucleare a trifoglio dovrebbe darti un indizio su cosa potrebbe essere.}
 {55300}{}{Computer}
@@ -1065,11 +1065,11 @@
 {55900}{}{Non usare}
 {56000}{}{Non usare}
 {56100}{}{Letto}
-{56101}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
+{56101}{}{Un letto a castello stile militare. Sembra molto scomodo. E le lenzuola sono cosi' tese che ci potresti far rimbalzare una moneta.}
 {56200}{}{Letto}
-{56201}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
+{56201}{}{Un letto a castello stile militare. Sembra molto scomodo. E le lenzuola sono cosi' tese che ci potresti far rimbalzare una moneta.}
 {56300}{}{Letto}
-{56301}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
+{56301}{}{Un letto a castello stile militare. Sembra molto scomodo. E le lenzuola sono cosi' tese che ci potresti far rimbalzare una moneta.}
 {56400}{}{Cavo}
 {56401}{}{Sembra un cavo seriale di qualche tipo.}
 {56500}{}{Cavo}
@@ -1185,17 +1185,17 @@
 {62000}{}{Orinatoio}
 {62001}{}{Questo orinatoio e' in perfette condizioni.}
 {62100}{}{Doccia}
-{62101}{}{Una doccia stile militare. Vietato l'uso alle persone modeste.}
+{62101}{}{Una doccia stile militare. Sconsigliata alle persone pudiche.}
 {62200}{}{Doccia}
-{62201}{}{Una doccia stile militare. Vietato l'uso alle persone modeste.}
+{62201}{}{Una doccia stile militare. Sconsigliata alle persone pudiche.}
 {62300}{}{Doccia}
-{62301}{}{Una doccia stile militare. Vietato l'uso alle persone modeste.}
+{62301}{}{Una doccia stile militare. Sconsigliata alle persone pudiche.}
 {62400}{}{Doccia}
-{62401}{}{Una doccia stile militare. Vietato l'uso alle persone modeste.}
+{62401}{}{Una doccia stile militare. Sconsigliata alle persone pudiche.}
 {62500}{}{Doccia}
-{62501}{}{Una doccia stile militare. Vietato l'uso alle persone modeste.}
+{62501}{}{Una doccia stile militare. Sconsigliata alle persone pudiche.}
 {62600}{}{Doccia}
-{62601}{}{Una doccia stile militare. Vietato l'uso alle persone modeste.}
+{62601}{}{Una doccia stile militare. Sconsigliata alle persone pudiche.}
 {62700}{}{Letto}
 {62701}{}{Un letto dall'aspetto molto comodo.}
 {62800}{}{Letto}
@@ -1234,10 +1234,10 @@
 {64501}{}{Questa porta a sbarre funziona benissimo come porta di una cella.}
 {64600}{}{Terminale}
 {64700}{}{Terminale}
-{64800}{}{Sollevatore}
-{64801}{}{Il sollevatore non e' utilizzabile.}
-{64900}{}{Sollevatore}
-{64901}{}{Il sollevatore non e' utilizzabile.}
+{64800}{}{Muletto}
+{64801}{}{Il muletto non e' utilizzabile.}
+{64900}{}{Muletto}
+{64901}{}{Il muletto non e' utilizzabile.}
 {65000}{}{Equipaggiamento}
 {65100}{}{Tavolo Medico}
 {65101}{}{Il tavolo e' molto arrugginito. Lo scarico al centro del tavolo e' otturato.}
@@ -1251,8 +1251,8 @@
 {65601}{}{Un generatore elettrico Wattz ElectroBox. Il tipo di generatore ausiliario piu' usato prima della Guerra.}
 {65700}{}{Cisterna}
 {65701}{}{Una grande cisterna d'acqua. Sembra ben conservata, il che e' probabilmente una buona cosa.}
-{65800}{}{Cassetta della Polizia}
-{65801}{}{Una cassetta della polizia dal Regno Unito, 1960 circa.}
+{65800}{}{Cabina della Polizia}
+{65801}{}{Una cabina della polizia britannica, 1960 circa.}
 {65900}{}{Tavolo}
 {65901}{}{Un tavolo ben fatto. Fatto a mano, ma sembra molto piu' bello di qualsiasi altro tavolo tu abbia mai visto.}
 {66000}{}{Tavolo}
@@ -1505,7 +1505,7 @@
 {78600}{}{Letto}
 {78601}{}{Questo letto e' ridotto male.}
 {78700}{}{Letto}
-{78701}{}{Questi letto e' ridotto piuttosto male.}
+{78701}{}{Questo letto e' ridotto piuttosto male.}
 {78800}{}{Monitor}
 {78801}{}{Questi monitor sono rotti e non possono funzionare.}
 {78900}{}{Monitor}
@@ -1581,8 +1581,8 @@
 {82400}{}{Monitor}
 {82401}{}{I monitor sono in buone condizioni.}
 {82500}{}{Parete}
-{82600}{}{Porta}
-{82601}{}{Una porta del vault molto solida. La porta sembra molto sicura.}
+{82600}{}{Porta del Caveau}
+{82601}{}{Una porta blindata del caveau, molto solida. La porta sembra molto sicura.}
 {82700}{}{Leggero}
 {82701}{}{Una luce di sicurezza.}
 {82800}{}{Leggero}
@@ -1712,7 +1712,7 @@
 {90300}{}{Lettino Medico}
 {90301}{}{Questo letto ha un display incorporato per controllare le condizioni del paziente.}
 {90400}{}{Pompa Idrica}
-{90401}{}{Questo e' un pezzo del macchinario che pompa l'acqua dal sottosuolo.}
+{90401}{}{Questo e' un macchinario che pompa l'acqua dal sottosuolo.}
 {90500}{}{Lettino Medico}
 {90501}{}{Questo letto ha un display incorporato per controllare le condizioni del paziente.}
 {90600}{}{Componenti di una Power-Armor}
@@ -1829,7 +1829,7 @@
 {99200}{}{Gru}
 {99300}{}{Pozzo}
 {99400}{}{Pozzo}
-{99500}{}{Rimessa}
+{99500}{}{Latrina}
 {99600}{}{Buco}
 {99601}{}{Non puoi vedere il fondo di questo pozzo.}
 {99700}{}{Piastrella del Pavimento}
@@ -1860,7 +1860,7 @@
 {101001}{}{Questa Chrysalis Motors Highwayman sembra in buone condizioni, considerata la sua eta'.}
 {101100}{}{Automobile}
 {101200}{}{Fossa}
-{101201}{}{Una tomba si trova qui.}
+{101201}{}{Qui c'e' una tomba.}
 {101300}{}{Lapide}
 {101301}{}{Lapide}
 {101400}{}{Lapide}
@@ -1873,7 +1873,7 @@
 {101701}{}{Questo aratro e' progettato per essere trascinato da un Brahmin.}
 {101800}{}{Aratro}
 {101801}{}{Questo aratro e' progettato per essere trascinato da un Brahmin.}
-{101900}{}{Bagno}
+{101900}{}{Acqua}
 {102000}{}{Insegna}
 {102001}{}{L'insegna all'entrata di New Reno.}
 {102100}{}{Insegna}
@@ -2015,8 +2015,8 @@
 {115200}{}{Carretto da Minatore}
 {115300}{}{Carretto da Minatore con Palo d'Acciaio}
 {115400}{}{Carretto da Minatore con Dinamite}
-{115500}{}{Cartello "Falliti"}
-{115600}{}{Cartello "Falliti"}
+{115500}{}{Cartello "Chiuso per Fallimento"}
+{115600}{}{Cartello "Chiuso per Fallimento"}
 {115700}{}{Insegna della Buckner House}
 {115800}{}{Insegna di Vic}
 {115900}{}{Parete}
@@ -2048,16 +2048,16 @@
 {118100}{}{Cavalletto}
 {118200}{}{Presa d'Aria}
 {118300}{}{Presa d'Aria}
-{118400}{}{Insegna dell'Autosalone}
+{118400}{}{Insegna dell'Officina}
 {118500}{}{Cartello: Ufficio del Manager}
 {118600}{}{Cartello: Magazzino}
 {118700}{}{Cartello: Attenzione alle Radiazioni}
 {118800}{}{Vapore}
 {118900}{}{Macchina}
-{118901}{}{Un pezzo di equipaggiamento generico per il reattore.}
+{118901}{}{Un pezzo di equipaggiamento generico per la centrale.}
 {119000}{}{Cisterna}
 {119100}{}{Fuoco}
-{119200}{}{Bagno}
+{119200}{}{Acqua}
 {119300}{}{Cartello: Trapper Town}
 {119400}{}{Insegna del Golden Gecko}
 {119500}{}{Insegna della Bath House}
@@ -2109,7 +2109,7 @@
 {122801}{}{La figura su questo manifesto assomiglia stranamente a te!}
 {122900}{}{Pavimento}
 {123000}{}{Robobrain disattivato}
-{123001}{}{Un corpo cybernetico incompleto e mancante di molte parti.}
+{123001}{}{Un corpo cibernetico incompleto e mancante di molte parti.}
 {123100}{}{Obice}
 {123101}{}{Questo cannone dall'aspetto strano sembra un residuato dei tempi prima della Guerra. Ti chiedi come sia potuto finire qui.}
 {123200}{}{Insegna}
@@ -2158,7 +2158,7 @@
 {127100}{}{Insegna del Casino'}
 {127200}{}{Insegna del Casino'}
 {127300}{}{Mucchio di Rocce}
-{127301}{}{Queste rocce sembrano nascondere qualcosa.}
+{127301}{}{Queste rocce sembrano tenere rinchiuso qualcosa.}
 {127400}{}{Asta}
 {127500}{}{Asta}
 {127600}{}{Asta}
@@ -2449,7 +2449,7 @@
 {154800}{}{Campo di Forza}
 {154900}{}{Campo di Forza}
 {155000}{}{Unita' di Estrazione Organi}
-{155001}{}{L'ultimo modello della serie chirurgica "Fallo da Solo" della Vault-Tec. Rimuove automaticamente gli organi con la semplice pressione di un tasto.}
+{155001}{}{L'ultimo modello della serie chirurgica "Fai da Te" della Vault-Tec. Rimuove automaticamente gli organi con la semplice pressione di un tasto.}
 {155100}{}{Navetta}
 {155200}{}{Navetta}
 {155300}{}{Navetta}
@@ -2566,7 +2566,7 @@
 {165600}{}{Montacarichi della Miniera}
 {165700}{}{Asta della Bandiera}
 {165800}{}{Bandiera di NCR}
-{165900}{}{Insegna: Petroldotti Poseidon}
+{165900}{}{Insegna: Benzina Poseidon}
 {166000}{}{Scale che Scendono}
 {166100}{}{Insegna della Clinica}
 {166200}{}{Insegna del Centro Correttivo}
@@ -2665,7 +2665,7 @@
 {174800}{}{Porta dell'Ufficio del Presidente}
 {174900}{}{Tavola Optometrica}
 {175000}{}{Rovine}
-{175100}{}{Guardiano del Persempre}
+{175100}{}{Guardiano dell'Eternita'}
 {175200}{}{Cartello "Fuori Uso"}
 {175300}{}{Pavimento Crollato}
 {175400}{}{Bagno}
@@ -2687,12 +2687,12 @@
 {177000}{}{Supporti d'Acciaio}
 {177100}{}{Supporti d'Acciaio}
 {177200}{}{Supporti d'Acciaio}
-{177300}{}{Bagno}
-{177400}{}{Bagno}
-{177500}{}{Bagno}
-{177600}{}{Bagno}
-{177700}{}{Bagno}
-{177800}{}{Bagno}
+{177300}{}{Acqua}
+{177400}{}{Acqua}
+{177500}{}{Acqua}
+{177600}{}{Acqua}
+{177700}{}{Acqua}
+{177800}{}{Acqua}
 {177900}{}{Cascata}
 {178000}{}{Strada}
 {178100}{}{Strada}
@@ -2744,8 +2744,8 @@
 {181700}{}{Asse}
 {181800}{}{Porta di Legno}
 {181900}{}{Porta di Legno}
-{182000}{}{Frigo}
-{182100}{}{Frigo}
+{182000}{}{Frigo per Bibite}
+{182100}{}{Frigo per Bibite}
 {182200}{}{Stufa}
 {182300}{}{Stufa}
 {182400}{}{Stufa}
@@ -2769,7 +2769,7 @@
 {184200}{}{Albero}
 {184300}{}{Albero}
 {184400}{}{Rampa}
-{184500}{}{Insegna della Casa Pornografica Golden Globes}
+{184500}{}{Insegna dello Studio Porno Golden Globes}
 {184600}{}{Ruota del Timone}
 {184700}{}{Controllo della Velocita' della Nave}
 {184800}{}{Stazione delle Comunicazioni}
@@ -2801,7 +2801,7 @@
 {186801}{}{Una presa d'aria circolare che conduce a una struttura sotterranea.}
 {186900}{}{Corda}
 {186901}{}{Una corda che conduce a una presa d'aria superiore.}
-{187000}{}{Unita' di processazione dell'aria}
+{187000}{}{Condotto di trattamento dell'aria}
 {187001}{}{Una presa d'aria usata per filtrare l'aria sotterranea.}
 {187100}{}{Presa d'Aria}
 {187101}{}{Una presa d'aria usata per purificare l'aria.}
@@ -2889,7 +2889,7 @@
 {191400}{}{Navetta Imperiale}
 {191401}{}{Un qualche tipo di veicolo spaziale. Ha una targa con scritto: EMPRRULZ!}
 {191500}{}{Millennium Falcon}
-{191501}{}{Sembra un mucchio di ferraglia. Noti un paio di dadi pelosi appesi allo specchietto retrovisore.}
+{191501}{}{Sembra un mucchio di ferraglia. Noti un paio di dadi di peluche appesi allo specchietto retrovisore.}
 {191600}{}{Braciere ardente}
 {191601}{}{Questo braciere e' pieno di braci ardenti.}
 {191700}{}{Osso}
@@ -3008,7 +3008,7 @@
 {198301}{}{Queste scale si stanno consumando per la ruggine.}
 {198400}{}{Ventola bloccata}
 {198401}{}{Questa ventola ha un pezzo di metallo incastrato tra le pale.}
-{198500}{}{Unita' di processazione dell'aria}
+{198500}{}{Condotto di trattamento dell'aria}
 {198501}{}{Sistema di ventilazione standard Vault-Tec.}
 {198600}{}{Parete d'Acciaio}
 {198700}{}{Parete d'Acciaio}
@@ -3068,7 +3068,7 @@
 {202200}{}{Immagine da museo}
 {202300}{}{Immagine da museo}
 {202400}{}{Globo EPA}
-{202401}{}{Il logo della corporazione EPA.}
+{202401}{}{Il logo aziendale dell'EPA.}
 {202500}{}{Ombra}
 {202600}{}{Ombra}
 {202700}{}{Ombra}
@@ -3107,17 +3107,17 @@
 {205300}{}{Presa d'Aria}
 {205400}{}{Presa d'Aria}
 {205500}{}{Porta esterna del Vault}
-{205501}{}{Questa grande porta e' il legame tra il vault e il mondo esterno.}
+{205501}{}{Questa grande porta e' il legame tra il Vault e il mondo esterno.}
 {205600}{}{Porta esterna del Vault arrugginita}
 {205601}{}{Questa grande porta arrugginita e' il collegamento tra il Vault e il mondo esterno.}
 {205700}{}{Porta esterna del Vault arrugginita}
 {205701}{}{Questa grande porta arrugginita e' il collegamento tra il Vault e il mondo esterno.}
 {205800}{}{Porta esterna del Vault arrugginita}
-{205801}{}{Il meccanismo di apertura e chiusura della pesante porta del vault e' stato danneggiato irreparabilmente.}
+{205801}{}{Il meccanismo di apertura e chiusura della pesante porta del Vault e' stato danneggiato irreparabilmente.}
 {205900}{}{Porta esterna del Vault arrugginita}
 {205901}{}{Il meccanismo della porta e' stato disattivato.}
 {206000}{}{Porta esterna del Vault}
-{206001}{}{Questa grande porta e' il legame tra il vault e il mondo esterno.}
+{206001}{}{Questa grande porta e' il legame tra il Vault e il mondo esterno.}
 {206100}{}{Vaso}
 {206101}{}{Un bel vaso.}
 {206200}{}{Vaso}
@@ -3179,11 +3179,11 @@
 {210100}{}{Porta esterna del Vault}
 {210101}{}{Questa porta del Vault e' incastonata nella parete rocciosa della montagna. Sembra aver resistito all'esplosione di una bomba atomica.}
 {210200}{}{Porta esterna del Vault}
-{210201}{}{Questa grande porta collega il vault al mondo esterno. E' stata bruciata da un'esplosione tremenda.}
+{210201}{}{Questa grande porta collega il Vault al mondo esterno. E' stata bruciata da un'esplosione tremenda.}
 {210300}{}{Entrata della Grotta}
 {210301}{}{La grotta sembra aprirsi in una rete di caverne piu' ampia.}
 {210400}{}{Computer d'Accesso per la Porta}
-{210401}{}{Questo computer controlla l'enorme porta del vault. Devi inserire uno specifico codice d'accesso per farlo funzionare.}
+{210401}{}{Questo computer controlla l'enorme porta del Vault. Devi inserire uno specifico codice d'accesso per farlo funzionare.}
 {210500}{}{Barca arrugginita}
 {210501}{}{Questa barca sembra a malapena in grado di galleggiare.}
 {210600}{}{Barca arrugginita}
@@ -3206,39 +3206,39 @@
 {211401}{}{Questa barca sembra a malapena in grado di galleggiare.}
 {211500}{}{Oceano torbido}
 {211600}{}{Scafo arrugginito}
-{211601}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{211601}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {211700}{}{Scafo arrugginito}
-{211701}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{211701}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {211800}{}{Scafo arrugginito}
-{211801}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{211801}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {211900}{}{Oceano torbido}
 {212000}{}{Scafo arrugginito}
-{212001}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{212001}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {212100}{}{Scafo arrugginito}
-{212101}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{212101}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {212200}{}{Oceano torbido}
 {212300}{}{Oceano torbido}
 {212400}{}{Oceano torbido}
 {212500}{}{Oceano torbido}
 {212600}{}{Oceano torbido}
 {212700}{}{Scafo arrugginito}
-{212701}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{212701}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {212800}{}{Scafo arrugginito}
-{212801}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{212801}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {212900}{}{Barca arrugginita}
 {212901}{}{Questa barca sembra a malapena in grado di galleggiare.}
 {213000}{}{Oceano torbido}
 {213100}{}{Scafo arrugginito}
-{213101}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{213101}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {213200}{}{Scafo arrugginito}
-{213201}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{213201}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {213300}{}{Oceano torbido}
 {213400}{}{Oceano torbido}
 {213500}{}{Oceano torbido}
 {213600}{}{Scafo arrugginito}
-{213601}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{213601}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {213700}{}{Scafo arrugginito}
-{213701}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
+{213701}{}{Lo scafo del sottomarino giace sommerso sotto l'oceano torbido.}
 {213800}{}{Oceano torbido}
 {213900}{}{Oceano torbido}
 {214000}{}{Oceano torbido}
@@ -3286,10 +3286,10 @@
 {217500}{}{Sedia}
 {217600}{}{Insegna Poseidon Oil}
 {217601}{}{Questa vecchia insegna al neon funziona ancora un po'.}
-{217700}{}{Massive porte d’acciaio del Vault}
-{217701}{}{Queste porte d’acciaio sono praticamente indistruttibili.}
-{218800}{}{Torre di servizio}
-{218900}{}{Torre di servizio}
+{217700}{}{Massicce porte d'acciaio del Vault}
+{217701}{}{Queste porte d'acciaio sono praticamente indistruttibili.}
+{218800}{}{Torre del sottomarino}
+{218900}{}{Torre del sottomarino}
 {219000}{}{Scale}
 {219001}{}{Delle scale di legno.}
 {219100}{}{Scale}
@@ -3453,9 +3453,9 @@
 {228701}{}{Una robusta porta di metallo.}
 {228800}{}{Porta in Metallo}
 {228801}{}{Una robusta porta di metallo.}
-{228900}{}{Baracca della guardia}
+{228900}{}{Baracca delle Guardie}
 {228901}{}{Una baracca delle guardie fatiscente.}
-{229000}{}{Baracca della guardia}
+{229000}{}{Baracca delle Guardie}
 {229001}{}{Una baracca delle guardie fatiscente.}
 {229100}{}{Liquido verde ribollente}
 {229101}{}{Un liquido verde ribollente. Ha un odore strano.}
@@ -3468,7 +3468,7 @@
 {229500}{}{Torretta Laser Pesante}
 {229501}{}{La torretta ruota in modo minaccioso.}
 {229800}{}{Poster cinematografico}
-{229801}{}{Un vecchio poster cinematografico logoro. “Hobo With a Shotgun”.}
+{229801}{}{Un vecchio poster cinematografico logoro. "Hobo With a Shotgun".}
 {229900}{}{Una creatura dall'aspetto strano}
 {229901}{}{Un cadavere avvolto da crescite vegetali.}
 {230000}{}{Una creatura dall'aspetto strano}

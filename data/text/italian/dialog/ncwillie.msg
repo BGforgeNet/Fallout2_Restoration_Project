@@ -9,7 +9,7 @@
 {206}{}{N'n ora, L'nny, n'n sono in v'na di parlare.}
 {300}{}{Ero appena entrato a Reno per f'rmi un paio di b'vute e qualche p'ttanella, e quei d'nnati pelle-liscia mi hanno chiuso d'ntro questa d'nnata t'mba...}
 {301}{}{Per fortuna n'n ho il naso, se no s'rei m'rto soffocato dal mio stesso t'nfo.}
-{302}{}{N'n c'e' r'spetto per i Ghoul.}
+{302}{}{N'n c'e' r'spetto per i ghoul.}
 {303}{}{Mi ero f'rmato in citta' solo per un bicchierino, ma quegli str'nzi di Reno mi hanno seppellito v'vo.}
 {304}{}{Non c'e' niente di piu' noioso che starsene in una b'ra per m'si.}
 {305}{}{Giu' le m'ni, pelle-liscia. Ho degli impegni.}

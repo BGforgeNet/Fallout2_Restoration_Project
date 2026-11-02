@@ -1,6 +1,6 @@
-{100}{}{Vedi un tipo pelato.}
+{100}{}{Vedi un punk pelato.}
 {101}{}{Vedi Chip. Ha un aspetto migliore.}
-{102}{}{Vedi un tipo pelato. Sembra essersi ripreso.}
+{102}{}{Vedi un punk pelato. Sembra essersi ripreso.}
 {103}{}{Ooh, le mie budella... ohi, ohi, ohi.}
 {104}{}{Nutella?}
 {105}{}{Bua?}
@@ -8,7 +8,7 @@
 {107}{}{Stai male? Ah ah ah.}
 {108}{}{Chi sei?}
 {109}{}{Hai delle informazioni per me sulla mia gente?}
-{110}{}{Oooh, le mie budella. Sto male. Sei pregato di lasciarmi in pace.}
+{110}{}{Oooh, le mie budella. Sto male. Per favore, lasciami in pace.}
 {111}{}{Ochei.}
 {112}{}{Cosa c'e' che non va? Te lo dico subito: c'e' che la settimana scorsa mi sono ubriacato, ho cominciato a giocare a carte con Lao Chou e ho perso. Ero cosi' sbronzo che ho scommesso la mia milza. Adesso ce l'ha lui, e io la rivorrei.}
 {113}{}{Hai VENDUTO la tua milza?}
@@ -17,7 +17,7 @@
 {116}{}{Certo... beh, da te preferirei avere delle informazioni, piuttosto che questi lamenti.}
 {117}{}{::rantola:: Fottiti.}
 {118}{}{::rantola:: Smamma.}
-{119}{}{Si, vabbe'.}
+{119}{}{Si', vabbe'.}
 {120}{}{Ehi, ho cambiato idea: voglio aiutarti.}
 {121}{}{Si', l'ho venduta. Ero ubriaco! Inoltre credo che Lao Chou abbia messo un po' di Jet nel mio bicchiere. Ho bisogno di recuperare la mia milza perche' mi sto beccando un sacco di infezioni.}
 {122}{}{Ehi, sei stato tu a perderla. E' un problema tuo. Arrangiati.}
@@ -42,7 +42,7 @@
 {141}{}{Ho scoperto dov'era finita, ma credo che il Dr. Wong se la sia mangiata.}
 {142}{}{No, non ancora. Ma lo faro'.}
 {143}{}{No. In verita' non la sto neanche cercando.}
-{144}{}{D'accordo. ::pant:: Prima che io vada, forse dovremmo trovare un modo per rimetterla all'interno del mio corpo. Parlane con il Dr. Fung, okay? Grazie.}
+{144}{}{D'accordo. ::ansima:: Prima che io vada, forse dovremmo trovare un modo per rimetterla all'interno del mio corpo. Parlane con il Dr. Fung, okay? Grazie.}
 {145}{}{Okay.}
 {146}{}{No.}
 {147}{}{Apprezzo molto quello che stai facendo per me. Non lo dimentichero'.}
@@ -54,12 +54,12 @@
 {153}{}{Vedro' di fare il possibile.}
 {154}{}{Spiacente, amico... credo tu sia fottuto. Non posso aiutarti.}
 {155}{}{Senza una milza moriro'. Grazie comunque per l'aiuto.}
-{156}{}{L'ho trovata. Va' dal dr. Wong.}
+{156}{}{L'ho trovata. Va' dal Dr. Wong.}
 {157}{}{Oh, te li do io i soldi. Va' da Fung.}
 {158}{}{Nessun problema. Buona fortuna.}
 {159}{}{Hai parlato con Fung?}
 {160}{}{Si': mi ha detto che te la mettera' dentro gratuitamente.}
-{161}{}{Si': ha chiesto 1,000$ per farlo.}
+{161}{}{Si': ha chiesto 1.000$ per farlo.}
 {162}{}{}
 {163}{}{Wow. Si vede che hai le amicizie giuste. Torna tra un giorno e vedro' che aiuto posso darti.}
 {164}{}{Va bene.}
@@ -70,7 +70,7 @@
 {169}{}{Sara' meglio.}
 {170}{}{Non posso permettermi una cifra simile. Credo di essere condannato, ormai.}
 {171}{}{Oh, beh, te li presto io i soldi.}
-{172}{}{Che peccato. Io sono al verde.}
+{172}{}{Peggio per te. Sono al verde.}
 {173}{}{Non riesco ad esprimere a parole quanto io mi senta meglio. Ora, cos'e' che volevi da me?}
 {174}{}{Come faccio a far partire questa nave?}
 {175}{}{Dov'e' la mia gente? Lo sai?}
@@ -91,11 +91,11 @@
 {190}{}{Stronzo.}
 {191}{}{Avrai bisogno di qualche antidolorifico.}
 {192}{}{Palla di sterco. Ti aggiusto io.}
-{193}{}{Vedi un tipo pelato.}
+{193}{}{Vedi un punk pelato.}
 {194}{}{Vedi Chip. Sembra soffrire molto.}
-{195}{}{Vedi un tipo pelato. Si sta tenendo un fianco e ansima per il dolore.}
+{195}{}{Vedi un punk pelato. Si sta tenendo un fianco e ansima per il dolore.}
 {196}{}{D'accordo. Parlero' con Fung.}
 {197}{}{Qualche novita' sulla mia milza?}
 {198}{}{Si', e ha chiesto 1000$ - ma ho pagato io.}
 {199}{}{Grazie per tutto quello che hai fatto per me, compare.}
-{200}{}{Amico, ho sentito che hai trovato la mia milza. Lo sai che devi parlare con il dr. Fung per farmela rimettere in corpo, vero?}
+{200}{}{Amico, ho sentito che hai trovato la mia milza. Lo sai che devi parlare con il Dr. Fung per farmela rimettere in corpo, vero?}

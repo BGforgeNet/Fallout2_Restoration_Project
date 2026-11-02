@@ -46,7 +46,7 @@
 {145}{}{Uccelli di metallo? Oh, ti stai riferendo ai vertibird. Perche' li stai cercando in questa zona?}
 {146}{}{I vertibird? Interessante. Perche' li stai cercando in questa zona?}
 {147}{}{Sciamano detto uccelli di metallo che preso villaggio volati a Navarro. Me prova trovare.}
-{148}{}{Persone interessate. Me prova trovare per lori.}
+{148}{}{Persone interessate. Me prova trovare per loro.}
 {149}{}{Tu sapere? Cosa tu sapere?}
 {150}{}{Lo sciamano della mia tribu' mi ha detto che quei vertibird hanno rapito la nostra gente. Sono qui per ritrovarli.}
 {151}{}{Conosco delle persone alle quali interessano quei vertibird. Sto cercando di localizzarli per loro.}
@@ -77,7 +77,7 @@
 {176}{}{Capperi, che razza di lista... Uh, beh, se succede qualcosa io... Si', beh, adesso ho delle cose da fare.}
 {177}{}{Aspettare. Me ha forti amici. Loro dire Navarro qui. Tu dire dove o cose diventare casinose!}
 {178}{}{Aspetta un minuto, amico. Ho degli amici molto potenti che mi hanno detto che Navarro si trova qui. Ora tu mi dirai l'esatta posizione o le cose si metteranno male!}
-{179}{}{Uh... Ehi, mi e' stato solo ordinato di mandare via i viaggiatori e i curiosi. Non voglio nessuno casino.}
+{179}{}{Uh... Ehi, mi e' stato solo ordinato di mandare via i viaggiatori e i curiosi. Non voglio nessun casino.}
 {180}{}{Allora dire strada piu' rapidevole per base... ora!}
 {181}{}{Allora ti suggerisco di indicarmi la via piu' rapida per entrare nella base... adesso!}
 {182}{}{Credo che la via piu' breve sia attraverso la botola sul pavimento della mia stanza. Adesso vattene e lasciami in pace.}
@@ -85,14 +85,14 @@
 {184}{}{Va bene. Lo faro'.}
 {185}{}{Li vedo passare qui sopra, di tanto in tanto. Di solito si dirigono verso sud, in direzione di Frisco. Se ti interessano i vertibird, dovresti andare laggiu'.}
 {186}{}{Okay, me prova li'.}
-{187}{}{Me ha amici che volere me trovare vertibird. Amici dire veribird venire da qui.}
+{187}{}{Me ha amici che volere me trovare vertibird. Amici dire vertibird venire da qui.}
 {188}{}{Okay, mi dirigero' in quella direzione.}
 {189}{}{Stammi a sentire: ho degli amici che mi hanno chiesto di trovare i vertibird. Mi hanno detto che arrivano da qui.}
 {190}{}{Enclave? Cos'e'? Un gruppo o qualcosa del genere? Non mi fa venire in mente nulla. Cosa vuoi da loro?}
 {191}{}{Me vuole unire.}
 {192}{}{Vorrei unirmi a loro.}
-{193}{}{Unirti a loro? Sei solo un selvaggio! Cosa ti fa pensare che abbiano bisogno di un selvaggio?}
-{194}{}{Unirti a loro? Sei solo un selvaggio! Cosa ti fa pensare che abbiano bisogno di un selvaggio, o del suo strampalato seguito?}
+{193}{}{Unirti a loro? Sei solo un tribale! Cosa ti fa pensare che abbiano bisogno di un tribale?}
+{194}{}{Unirti a loro? Sei solo un tribale! Cosa ti fa pensare che abbiano bisogno di un tribale, o del suo strampalato seguito?}
 {195}{}{Me serio. Me unire a Enclave.}
 {196}{}{Me serio. Me unire a Enclave.}
 {197}{}{Dico sul serio. Vorrei entrare a far parte dell'Enclave.}
@@ -109,7 +109,7 @@
 {208}{}{E' la mia scorta!}
 {209}{}{Beh, non vorrei essere scortese o che, ma questa e' proprieta' privata. Se vuoi ficcare il naso da qualche parte, non farlo qui.}
 {210}{}{[FATTO]}
-{211}{}{Sei tornato, vedo. Cosa puo' fare per te il vecchio Chris?}
+{211}{}{Rieccoti. Cosa puo' fare per te il vecchio Chris?}
 {212}{}{Tu dire me Navarro sud. Tu mentire! Me qui per verita'.}
 {213}{}{Mi hai detto che Navarro si trovava a sud, vecchio. Ora voglio sapere la verita'.}
 {214}{}{Hai un'aria familiare. Il vecchio Chris crede di averti gia' visto da queste parti... No, non puo' essere.}
@@ -129,7 +129,7 @@
 {228}{}{Mossa sbagliata, amico.}
 {229}{}{Cosa credi di fare?}
 {230}{}{Ehi, me ne vado.}
-{231}{}{Yeah, certo.}
+{231}{}{Si', certo.}
 {232}{}{Sta tirando fuori una ricetrasmittente. Sta per avvertire l'intera base! Devo occuparmi di lui in fretta.}
 {233}{}{Oh, no. Tipo buffo tirare fuori scatoletta parlatrice. Lui parlare di me. Me deve fermare.}
 {800}{}{Hai convinto Chris a dirti la parola d'ordine.}

@@ -4,6 +4,6 @@
 {103}{}{Che cosa ci fai qui? Guardie!}
 {104}{}{Non sei una dei miei uomini. Guardie!}
 {105}{}{Vattene da qui!}
-{106}{}{Sono incredibilmente occupato. Per favore, tornate un'altra volta.}
-{107}{}{Sentite, non vorrei sembrare scortese, ma mi serve piu' tempo per lavorare.}
-{108}{}{Scusate, ma adesso non ho tempo per parlare con voi.}
+{106}{}{Sono incredibilmente occupato. Per favore, torni un'altra volta.}
+{107}{}{Senta, non vorrei sembrare scortese, ma mi serve piu' tempo per lavorare.}
+{108}{}{Mi scusi, ma adesso non ho tempo per parlare con lei.}

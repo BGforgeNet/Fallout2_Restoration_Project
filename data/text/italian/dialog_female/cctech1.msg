@@ -4,10 +4,10 @@
 {103}{}{Si', signora?}
 {104}{}{Me nuova qui. Deve chiedere domande.}
 {105}{}{Me solo dice ciao. Me va ora.}
-{106}{}{Sono nuovo di qui. Vorrei farti qualche domanda per familiarizzare con la base.}
+{106}{}{Sono nuova di qui. Vorrei farti qualche domanda per familiarizzare con la base.}
 {107}{}{Scusa se ti ho disturbato. Volevo solo salutare.}
-{108}{}{Anch'io sono una nuova recluta, signore. Non so se saro' in grado di rispondere a tutte le sue domande, ma ci provero'.}
-{109}{}{Come posso aiutarla?}
+{108}{}{Anch'io sono una nuova recluta, signora. Non so se saro' in grado di rispondere a tutte le sue domande, ma ci provero'.}
+{109}{}{Come posso aiutarti?}
 {110}{}{Cosa essere questo posto?}
 {111}{}{Cosa essere tuo lavoro?}
 {112}{}{Dove base madre di Enclave essere?}
@@ -26,7 +26,7 @@
 {131}{}{Bene. Continua cosi'.}
 {132}{}{Sta scherzando, vero? }
 {133}{}{No scherzo. Dove base?}
-{134}{}{Ti pare che abbia l'aspetto di uno che sta scherzando?}
+{134}{}{Ti pare che abbia l'aspetto di una che sta scherzando?}
 {135}{}{Il quartier generale si trova nel Pacifico, al largo della costa nei pressi della citta' di San Francisco. Posso chiederle perche' me lo domanda?}
 {136}{}{No. Ragione militare. Quanti modi si potere andare su base?}
 {137}{}{No. Segreto militare. E dimmi... quanti modi conosci per raggiungere la base?}

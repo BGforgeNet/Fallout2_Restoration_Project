@@ -19,7 +19,7 @@
 {118}{}{Questa e' la DOGANA. Proprio come dice il cartello qua fuori. Se non hai delle faccende doganali da sbrigare, che cosa ci fai qui?}
 {119}{}{Stavo cercando il Vault.}
 {120}{}{Vorrei entrare in citta'.}
-{121}{}{Dal momento che tu sei uno dei doganieri, mi domandavo se avevi qualche "consiglio" da darmi su come fare per portare determinati oggetti all'interno della citta'.}
+{121}{}{Dal momento che tu sei uno dei doganieri, mi domandavo se avessi qualche "consiglio" da darmi su come fare per portare determinati oggetti all'interno della citta'.}
 {122}{}{Niente. Scusa il disturbo.}
 {123}{}{Il Vault? E' all'interno della citta'. Perche'? Vuoi forse entrare a Vault City?}
 {124}{}{Si'.}
@@ -41,14 +41,14 @@
 {140}{}{Cos'e' questo test?}
 {141}{}{Cos'altro potrei fare per superare la dogana?}
 {142}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
-{143}{}{Gregory, il Proconsole, sottopone ad un "test" tutti gli Esterni che vogliono diventare Cittadini. Il test valuta l'intelligenza e la percezione e inoltre devi essere dannatamene fortunato per superarlo. Persino molti Cittadini si troverebbero in difficolta'.}
+{143}{}{Gregory, il Proconsole, sottopone ad un "test" tutti gli Esterni che vogliono diventare Cittadini. Il test valuta l'intelligenza e la percezione e inoltre devi essere dannatamente fortunato per superarlo. Persino molti Cittadini si troverebbero in difficolta'.}
 {144}{}{Perche' e' cosi' difficile?}
 {145}{}{Cos'altro potrei fare per superare la dogana, oltre a diventare una Cittadina?}
 {146}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {147}{}{Dal momento che molti Esterni non sanno leggere, ne' fare calcoli trigonometrici, ne' scrivere correttamente "Australopiteco", puoi immaginare da solo il motivo. E' solo un pretesto per impedire agli Esterni di diventare Cittadini.}
 {148}{}{Cos'altro potrei fare per superare la dogana, oltre a diventare una Cittadina?}
 {149}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
-{150}{}{Nascondi la merce ai tuoi schiavi… ai tuoi “Servitori”. Vedi, la mentalita' di Vault City e' questa: non gli passa nemmeno per la testa che qualcuno lasci ai Servitori qualcosa di importante… o discutibile. Vai a capire.}
+{150}{}{Nascondi la merce addosso ai tuoi schiavi... ai tuoi "Servi". Vedi, la mentalita' di Vault City e' questa: non gli passa nemmeno per la testa che qualcuno faccia portare ai Servi qualcosa di importante... o discutibile. Vai a capire.}
 {151}{}{Ci sono altre possibilita'?}
 {152}{}{D'accordo, allora. Grazie.}
 {153}{}{Beh, PUOI diventare una Cittadina... non ufficialmente.}
@@ -82,7 +82,7 @@
 {181}{}{Occhio... terrei a bada la lingua, se fossi in te.}
 {182}{}{Adularmi non ti servira', Skeev.}
 {183}{}{D'accordo, ho una PICCOLA somma che avevo messo da parte. Ecco. Prendila... trecento verdoni. Adesso te ne starai zitto?}
-{184}{}{Se io decidessi di parlare te ne accorgeresti, non temere. Ci vediamo.}
+{184}{}{Questo lo credi tu. Ci vediamo.}
 {185}{}{Nessun problema. Hai il mio silenzio.}
 {186}{}{Duecento o niente, Esterna. Questo e' l'unico modo che hai per entrare in citta'.}
 {187}{}{Credo che provero' a seguire le procedure ufficiali.}
@@ -98,13 +98,13 @@
 {197}{}{Vorrei entrare in citta'.}
 {198}{}{Vorrei comprare quei falsi documenti di Cittadinanza che mi avevi offerto prima.}
 {199}{}{Ho deciso di denunciarti per la vendita di documenti di Cittadinanza falsi.}
-{200}{}{Dal momento che tu sei uno dei doganieri, mi domandavo se avevi qualche "consiglio" da darmi su come fare per portare determinati oggetti all'interno della citta'.}
-{201}{}{Nulla.}
+{200}{}{Dal momento che tu sei uno dei doganieri, mi domandavo se avessi qualche "consiglio" da darmi su come fare per portare determinati oggetti all'interno della citta'.}
+{201}{}{Lascia perdere.}
 {202}{}{Ascolta, ritardata, vattene, o chiamero' le guardie.}
 {203}{}{Ascolta, ritardata, vatt-- Mmmm. Aspetta un secondo. Forse...}
 {204}{}{Hurnh?}
 {205}{}{-Allontanati-}
-{206}{}{Vieni come me un attimo, ritardata. Voglio farti conoscere qualcuno.}
+{206}{}{Vieni con me un attimo, ritardata. Voglio farti conoscere qualcuno.}
 {207}{}{Okee-dokeee}
 {208}{}{No-no IO RESTO}
 {209}{}{Ho trovato questa Esterna che vagava nelle lande, Barkus. Mi pare che possa diventare un buon Servo.}
@@ -124,7 +124,7 @@
 {223}{}{1 Secondo, non rimuovere il float di Skeev}
 {224}{}{Pessa? Pissaaaaaa!}
 {225}{}{1 Secondo}
-{226}{}{Molto bene. Vorra' dire che lo mandero' al Vault. FORSE potra' pulire i magazzini.}
+{226}{}{Molto bene. Vorra' dire che la mandero' al Vault. FORSE potra' pulire i magazzini.}
 {227}{}{Whoa. Come hai fatto a scappare?}
 {228}{}{Whoa. Come hai fatto a scappare? Faresti meglio a tornare dentro prima che Barkus s'arrabbi. Forza...}
 {229}{}{Oh-keeee}
@@ -150,7 +150,7 @@
 {249}{}{Cos'e' questo test?}
 {250}{}{Capisco. Quant'e' che costavano quei documenti?}
 {251}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
-{252}{}{Gregory, il Proconsole, sottopone ad un "test" tutti gli Esterni che vogliono diventare Cittadini. Il test valuta l'intelligenza e la percezione e inoltre devi essere dannatamene fortunato per superarlo. Persino molti Cittadini si troverebbero in difficolta'.}
+{252}{}{Gregory, il Proconsole, sottopone ad un "test" tutti gli Esterni che vogliono diventare Cittadini. Il test valuta l'intelligenza e la percezione e inoltre devi essere dannatamente fortunato per superarlo. Persino molti Cittadini si troverebbero in difficolta'.}
 {253}{}{Perche' e' cosi' difficile?}
 {254}{}{Capisco. Quant'e' che costavano quei documenti?}
 {255}{}{Hmmmm. Magari sara' per un'altra volta.}

@@ -1,6 +1,6 @@
-{100}{}{Vedi un viaggiatore dall'aspetto anonimo.}
-{101}{}{Vedi una cliente del bar.}
-{102}{}{Vedi un viaggiatore dall'aspetto anonimo.}
+{100}{}{Vedi un viaggiatore impolverato.}
+{101}{}{Vedi un cliente del bar.}
+{102}{}{Vedi un viaggiatore impolverato.}
 {103}{}{Ehi! Guardate! E' quello che ha fatto vedere i sorci verdi all'Enclave!}
 {104}{}{Congratulazioni, eroe!}
 {105}{}{Ehi, eroe! Lascia che ti offra da bere, ti va?}
@@ -28,25 +28,25 @@
 {127}{}{Senta, io non ho fatto nulla, Capitano. Sto solo facendomi gli affari miei.}
 {128}{}{Io non so niente, Capitano. Adesso mi lasci in pace.}
 {129}{}{Togliti dai piedi, "Capitano."}
-{130}{}{Pare che chiunque possa diventare Cittadino, al giorno d'oggi.}
+{130}{}{Pare che Lynette faccia Cittadino chiunque, al giorno d'oggi.}
 {131}{}{Ho gia' pagato le guardie per la protezione. Adesso mi lasci in pace.}
 {132}{}{Sei venuto a farci visita, Cittadino?}
 {133}{}{Forse faresti meglio a tornartene dentro le mura, Cittadino.}
 {134}{}{Sparisci, Cittadino.}
 {135}{}{Togliti dai piedi, Cittadino.}
-{136}{}{Pare che chiunque possa diventare Cittadino, al giorno d'oggi.}
+{136}{}{Pare che Lynette faccia Cittadino chiunque, al giorno d'oggi.}
 {137}{}{Quello Smith e' un bravo tipo.}
 {138}{}{Non credo che riusciro' mai a prendere un pass giornaliero.}
-{139}{}{Non bere acqua da queste parti. Fa ticchettare i contatori geiger.}
-{140}{}{Quando uno di quei Cittadini ti passa vicino, non guardarlo negli occhi e non salutarlo.}
+{139}{}{Non bere l'acqua da queste parti. Fa ticchettare i contatori geiger.}
+{140}{}{Quando quei Cittadini ti passano accanto, non ti guardano neanche in faccia e non salutano.}
 {141}{}{Vault City potra' non amarci, ma almeno ci protegge.}
-{142}{}{Fa' attenzione a quell'Autodoc. Certo, ti puo' curare... il piu' delle volte. Cerca solo di non sfidare troppo la sorte.}
+{142}{}{Fa' attenzione a quell'Auto-Doc. Certo, ti puo' curare... il piu' delle volte. Cerca solo di non sfidare troppo la sorte.}
 {143}{}{Ed, il venditore di brahmin, ha dovuto nuovamente alzare i suoi prezzi per poter pagare alle guardie la quota mensile per la protezione.}
 {144}{}{Quello Skeev mi permette di far entrare in citta' un po' di liquore in cambio di una percentuale. }
-{145}{}{Ho passato le ultime settimane in viaggio. Vengo da NCR, molto a sud di qui.}
+{145}{}{Ho passato l'ultima settimana in viaggio. Vengo da NCR, molto a sud di qui.}
 {146}{}{Alcuni miei amici sono andati a Reno... non li vedo da allora.}
 {147}{}{Ho sentito che l'atmosfera giu' a Reno si sta facendo di nuovo pesante. Quelle famiglie si odiano sul serio.}
-{148}{}{Ho sentito che i Ghoul di Gecko stanno preparando un attacco alla citta'.}
+{148}{}{Ho sentito che i ghoul di Gecko stanno preparando un attacco alla citta'.}
 {149}{}{Non disturbare i Cittadini o ti schiafferanno nel Centro di Detenzione.}
 {150}{}{Quella Lynette e' davvero gelida.}
 {151}{}{Vault City non e' esattamente una citta' "libera". Non e' male, pero'.}

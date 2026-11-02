@@ -6,7 +6,7 @@
 {105}{}{Questa e' proprieta' del governo. Gira al largo, straniero.}
 {106}{}{Sei tu il novellino, eh?}
 {107}{}{Se non hai ancora parlato con Carlson, ti conviene farlo.}
-{108}{}{Mr. Carlson ti sta aspettando.}
-{109}{}{Mr. Carlson ti ricevera' subito.}
-{110}{}{Spero sia importante. Mr. Carlson e' un uomo molto impegnato.}
+{108}{}{Il signor Carlson ti sta aspettando.}
+{109}{}{Il signor Carlson ti ricevera' subito.}
+{110}{}{Spero sia importante. Il signor Carlson e' un uomo molto impegnato.}
 {111}{}{E' dentro. Ti suggerisco di non rimanere troppo a lungo.}

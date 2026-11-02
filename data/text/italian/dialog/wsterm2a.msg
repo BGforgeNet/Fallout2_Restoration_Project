@@ -39,12 +39,12 @@
 {135}{}{Si'.}
 {136}{}{No.}
 {137}{}{Esci}
-{138}{}{Chiusura del Programma Sicurezza Skynet in corso...             Analisi della struttura delle directory in corso...           Diagnostica Interrotta                                             Programma Diagnostico Terminato                                    Riattivazione Programma Sicurezza                                  Resettaggio Allarme in corso                                       Skynet: Sistemi di Sicurezza - Stato: Operativo}
+{138}{}{Chiusura del Programma Sicurezza Skynet in corso...             Analisi della struttura dei dati in corso...                  Diagnostica Interrotta                                             Programma Diagnostico Terminato                                    Riattivazione Programma Sicurezza                                  Resettaggio Allarme in corso                                       Skynet: Sistemi di Sicurezza - Stato: Operativo}
 {139}{}{Esci}
 {140}{}{Accesso Negato...                                               Accesso Negato...                                             Accesso Concesso                                                   Disattivazione Sistemi d'Allarme in corso - Livello 2}
 {141}{}{Esci}
 {142}{}{Accesso non Autorizzato
-                                        Inizio blocco di sicurezza del terminale remoto in corso...}
+                                        Inizio blocco di sicurezza di questo terminale in corso...}
 {143}{}{Esci}
 {144}{}{Analisi del comando in corso. Attendere prego...                 Annullare All...                                             Ignorato da Skynet; Codice 667                                     L'accesso a questo terminale e' stato interrotto.}
 {145}{}{Esci}
@@ -55,7 +55,7 @@
             Ultimo accesso al terminale: }
 {303}{}{Caporale Dixon}
 {304}{}{Generale Clifton}
-{305}{}{5 agosto, 2077}
+{305}{}{5 agosto 2077}
 {306}{}{ giorni fa.}
 {307}{}{
                                              Allarme! Intruso rilevato - Livello }

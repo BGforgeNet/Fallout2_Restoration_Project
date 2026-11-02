@@ -68,14 +68,14 @@
 {303}{}{}
 {304}{}{Ho sentito dire che }
 {320}{}{ uccidera' chiunque intralci il suo cammino!}
-{321}{}{ e' la MIGLIORE. La MIGLIORE.}
+{321}{}{ e' il MIGLIORE. Il MIGLIORE.}
 {322}{}{!!!}
 {323}{}{ e' grande!}
-{324}{}{ e' la piu' grande campionessa che io abbia mai visto.}
+{324}{}{ e' il piu' grande campione che io abbia mai visto.}
 {325}{}{ e' anche molto furbo. Sa davvero come colpire qualcuno.}
 {326}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
-{327}{}{ e' cosi' bellllaaaaa.}
-{328}{}{ ci tiene a noi. Me l'ha detto lei.}
+{327}{}{ e' cosi' belllooooo.}
+{328}{}{ e' premuroso e affettuoso. Me l'ha detto lui ieri notte.}
 {350}{}{}
 {351}{}{A casa ho un vasetto con dentro un po' del tuo sudore.}
 {352}{}{Ommioddio! }
@@ -117,16 +117,16 @@
 {1202}{}{!}
 {1203}{}{!}
 {1204}{}{!}
-{1206}{}{ e' la MIGLIORE. La MIGLIORE.}
+{1206}{}{ e' il MIGLIORE. Il MIGLIORE.}
 {1207}{}{!!!}
 {1208}{}{, sei grande!}
-{1209}{}{ e' la piu' grande campionessa che io abbia mai visto.}
+{1209}{}{ e' il piu' grande campione che io abbia mai visto.}
 {1210}{}{ e' anche molto furbo. Sa davvero come colpire qualcuno.}
 {1211}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
-{1212}{}{ e' cosi' bellllaaaaa.}
+{1212}{}{ e' cosi' belllooooo.}
 {1213}{}{ e' cooooosi' macho.}
 {1214}{}{ Aiiiieeeeeeeee!}
-{1216}{}{ ci tiene a noi. Me l'ha detto lei.}
+{1216}{}{ e' premuroso e affettuoso. Me l'ha detto lui ieri notte.}
 {1250}{}{, sei grande!}
 {1251}{}{ e' anche molto furbo. Sa davvero come colpire qualcuno.}
 {1252}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
@@ -138,15 +138,15 @@
 {1259}{}{!}
 {1261}{}{, sei la MIGLIORE. La MIGLIORE.}
 {1262}{}{!!!}
-{1265}{}{ e' la piu' grande campionessa che io abbia mai visto.}
+{1265}{}{ e' il piu' grande campione che io abbia mai visto.}
 {1266}{}{, sei la donna piu' forte del mondo!}
 {1268}{}{, sei grandissima!}
 {1269}{}{ e' anche molto furba. Sa davvero come colpire qualcuno.}
 {1270}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
-{1271}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. Misteriosa! Letale!}
+{1271}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. E' cosi' misteriosa!}
 {1281}{}{, sei grande!}
-{1282}{}{ e' cosi' bellllaaaaa.}
-{1283}{}{ ha il fisico di un carroarmato!}
+{1282}{}{ e' cosi' belllooooo.}
+{1283}{}{ ha il fisico di un carro armato!}
 {1284}{}{ e' anche molto furbo. Sa davvero come colpire qualcuno.}
 {1285}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
 {1286}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. Misteriosa! Letale!}
@@ -157,12 +157,12 @@
 {1292}{}{!}
 {1294}{}{, sei la MIGLIORE. La MIGLIORE.}
 {1295}{}{!!!}
-{1298}{}{ e' la piu' grande campionessa che io abbia mai visto.}
+{1298}{}{ e' il piu' grande campione che io abbia mai visto.}
 {1299}{}{, sei la donna piu' forte del mondo!}
 {1301}{}{, sei grandissima!}
 {1302}{}{ e' anche molto furba. Sa davvero come colpire qualcuno.}
 {1303}{}{ si preoccupa dei suoi fan. Non li uccide come fanno gli altri pugili.}
-{1304}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. Misteriosa! Letale!}
+{1304}{}{ era praticamente una sconosciuta, una novellina appena arrivata dalle Lande, prima di venire a boxare qui a New Reno. E' cosi' misteriosa!}
 {1350}{}{, sei grande!}
 {1352}{}{! Fammi un autografo!}
 {1354}{}{! Fagli assaggiare l'inferno!}

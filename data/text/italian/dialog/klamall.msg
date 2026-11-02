@@ -1,1 +1,1 @@
-{100}{}{Sei entrato a Trapper Town.}
+{100}{}{Entri a Trapper Town.}

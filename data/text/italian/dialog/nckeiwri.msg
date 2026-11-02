@@ -39,7 +39,7 @@
 {355}{}{Nah... noi non assumiamo degli sgherri come fanno le altre famiglie. Non adesso, almeno. }
 {356}{}{Nah... noi non trattiamo con la feccia schiavista come fanno le altre famiglie. }
 {357}{}{Faresti meglio ad andartene.}
-{358}{}{Non me ne andro' finche' non avro' visto il sig. Wright.}
+{358}{}{Non me ne andro' finche' non avro' visto il signor Wright.}
 {359}{}{D'accordo.}
 {365}{}{Nah, io credo proprio che tu te ne ANDRAI subito, perche' hai proprio la faccia di uno cui piace vivere. Adesso smamma.}
 {366}{}{NON me ne vado.}
@@ -48,7 +48,7 @@
 {376}{}{Vuoi la RISSA, RAGAZZO?! Vuoi la RISSA?! Allora fatti SOT --}
 {380}{}{Uh... cos'e' successo? Si e' cacciata di nuovo in qualche guaio?}
 {381}{}{No. Le succede spesso?}
-{383}{}{No, non preoccuparti. A dopo, Keith.}
+{383}{}{No, era solo curiosita'. A dopo, Keith.}
 {390}{}{A volte. E' sempre li' che urla e predica contro i demoni dell'alcol, del gioco e di un sacco di altre cose. A volte fa proprio un bel casino e papa' si arrabbia molto.}
 {391}{}{Tua madre sa di cosa si occupa la vostra famiglia?}
 {392}{}{Lo credo. Beh, grazie per aver parlato con me, Keith.}
@@ -61,11 +61,11 @@
 {430}{}{Quasi tutte le altre famiglie vendono Jet; potrebbe essere stato uno dei loro uomini. La maggior parte degli spacciatori sono dei Mordino, pero', dal momento che sono loro i maggiori produttori di Jet. Scommetto che e' stato uno di loro.}
 {431}{}{Sospetti di qualche spacciatore in particolare?}
 {432}{}{Potresti parlarmi un po' di Richard?}
-{440}{}{Penso che sia stato uno di questi: Jimmy J lo Sfregiato sulla seconda strada, quel vecchio figlio di puttana di Renesco nella Zona Ovest... e anche Jules spaccia vicino all'entrata della citta', ma di solito vende la roba soltanto ai turisti idioti. Poi c'e' Little Jesus Mordino.}
+{440}{}{Parecchi: Jimmy J lo Sfregiato sulla Seconda Strada, quel vecchio figlio di puttana di Renesco nel West End... e anche Jules spaccia vicino all'entrata della citta', ma di solito vende la roba soltanto ai turisti idioti. Poi c'e' Little Jesus Mordino.}
 {441}{}{Little Jesus Mordino?}
 {442}{}{Puoi dirmi qualcos'altro a proposito di Richard?}
 {443}{}{Grazie delle informazioni, Keith.}
-{450}{}{Un Ragazzo tranquillo, un ragazzo pulito. Stava lontano dai guai, e per un Wright e' gia' qualcosa. L’abbiamo seppellito nelle pianure di Golgotha un po’ di tempo fa, ma nonostante tutto, mamma non vuole ancora che la sua stanza venga toccata. Le costa lasciarlo andare, capisci?}
+{450}{}{Un ragazzo tranquillo, un ragazzo pulito. Stava lontano dai guai, e per un Wright e' gia' qualcosa. L'abbiamo seppellito nelle pianure di Golgotha un po' di tempo fa, ma nonostante tutto, mamma non vuole ancora che la sua stanza venga toccata. Le costa lasciarlo andare, capisci?}
 {451}{}{Qual era la sua camera? Pensi che a tua madre darebbe fastidio se ci dessi un'occhiata?}
 {452}{}{Sospetti di qualche spacciatore in particolare?}
 {454}{}{Sepolto nel Golgotha, eh? Hmmm. Grazie delle informazioni, Keith.}

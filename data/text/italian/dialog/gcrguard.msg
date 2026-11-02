@@ -41,14 +41,14 @@
 {164}{}{Se succede qualcosa noi incolpiamo te.}
 {170}{}{Sono piuttosto sorpreso di vedere un pelle-liscia come te qui dentro.}
 {171}{}{Mi sembra che tu stia cominciando ad abbronzarti.}
-{172}{}{Mmm, adoro questa radiazione di fondo -— e tu?}
+{172}{}{Mmm, adoro questa radiazione di fondo -- e tu?}
 {173}{}{Non toccare nulla qui dentro.}
 {174}{}{Tieni le mani a posto e andra' tutto bene.}
 {180}{}{Non prendere nulla senza autorizzazione.}
 {181}{}{Non puoi prendere nulla se non hai l'autorizzazione.}
 {182}{}{Parla con Jeremy o con Harold, se vuoi qualcosa.}
 {183}{}{Niente esce di qui senza autorizzazione.}
-{184}{}{No autorizzazione, no parti.}
+{184}{}{Niente autorizzazione, niente pezzi.}
 {190}{}{Fa' attenzione, pelle-liscia.}
 {191}{}{Non ti preoccupano le radiazioni che ci sono qui?}
 {192}{}{Fa' attenzione qui dentro.}
@@ -58,4 +58,4 @@
 {201}{}{Piantala li', e allontanati.}
 {202}{}{Cavoli, quello non ha proprio l'aspetto di una tessera.}
 {203}{}{Se ci riprovi, saremo costretti ad ucciderti.}
-{204}{}{Devi essere piu' stupido di quanto sembra per provare a fare una cosa del genere proprio davanti a noi.}
+{204}{}{Devi essere piu' stupido di quanto sembri per provare a fare una cosa del genere proprio davanti a noi.}

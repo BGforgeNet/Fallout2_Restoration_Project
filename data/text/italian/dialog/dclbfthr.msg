@@ -3,8 +3,8 @@
 {102}{}{*hic* Ti conosco?}
 {103}{}{Sono le 11. Sai dove sono i tuoi figli?}
 {104}{}{(Ti guarda assonnato) Cosa? *hic* Sono gia' le undici?}
-{105}{}{In realta' no, non lo sono, volevo solo dirlo. Ma seriamente, sai dove sono i tuoi figli?}
-{106}{}{In realta' si', lo sono, ma non e' importante adesso. Seriamente, sai dove sono i tuoi figli?}
+{105}{}{In realta' no, non sono le undici, volevo solo dirlo. Ma seriamente, sai dove sono i tuoi figli?}
+{106}{}{In realta' si', sono le undici, ma non e' importante adesso. Seriamente, sai dove sono i tuoi figli?}
 {107}{}{*hic* Ho dei figli? *hic* Oh si', e' vero. Lui... o lei... *hic* dovrebbe essere qui da qualche parte.}
 {108}{}{Wow, sei proprio un ubriacone. Beh, per fortuna sto lavorando a un modo per portare via tuo figlio da qui.}
 {109}{}{(Ignora quello che hai appena detto.) Si', fantastico. *hic* Ora fammi tornare al mio drink.}

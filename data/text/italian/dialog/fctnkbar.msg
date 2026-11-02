@@ -1,6 +1,6 @@
 {100}{}{Vedi un barista.}
 {101}{}{Vedi Slim, il barista.}
-{102}{}{Vedi un barista. Indossa un grembiule e tiene in mano un bicchiere che di tanto in tanto pulisce sputandoci dentro e asciugandolo con uno straccio sporco. Sembra sapere il fatto suo.}
+{102}{}{Vedi un barista. Indossa un grembiule e tiene in mano un bicchiere che pulisce in continuazione sputandoci dentro e asciugandolo con uno straccio sporco. Sembra uno che non si fa mettere i piedi in testa da nessuno.}
 {103}{}{Sono Slim. Cosa prendi?}
 {104}{}{Me vuole informazioni.}
 {105}{}{Cosa avere tu?}
@@ -8,13 +8,13 @@
 {107}{}{Voglio delle informazioni.}
 {108}{}{Vediamo quello che hai.}
 {109}{}{Niente, me ne stavo andando.}
-{110}{}{Informazioni, eh? Beh, io non sono una libreria e questa non e' una stanza dei computer. Bevi, oppure esci di qui. Vuoi dell'alcol o no?}
+{110}{}{Informazioni, eh? Beh, io non sono una biblioteca e questa non e' una stanza dei computer. Bevi, oppure esci di qui. Vuoi dell'alcol o no?}
 {111}{}{Si'.}
 {112}{}{No.}
 {113}{}{Bene. Se questa merda non ti uccide, niente lo fara'.}
 {114}{}{}
 {115}{}{Ok.}
-{116}{}{Era buono?}
+{116}{}{E' tutto?}
 {117}{}{Si'.}
 {118}{}{No.}
 {119}{}{A piu' tardi, allora.}

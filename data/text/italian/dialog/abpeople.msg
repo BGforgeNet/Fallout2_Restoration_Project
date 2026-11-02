@@ -5,7 +5,7 @@
 {104}{}{Stai lontano dall'alcol per un po'.}
 {105}{}{Vedo che hai bevuto il mix "speciale" di Hank.}
 {106}{}{Benvenuto, eroe!}
-{107}{}{Hai fatto vedere a quei bastardi dell'Enclave!}
+{107}{}{Gliel'hai fatta vedere a quei bastardi dell'Enclave!}
 {108}{}{Sei davvero un eroe!}
 {109}{}{Ho sentito dire che hai distrutto l'Enclave, ben fatto!}
 {110}{}{Salve.}
@@ -13,10 +13,10 @@
 {112}{}{Non riceviamo molti visitatori qui.}
 {113}{}{Benvenuti!}
 {114}{}{Si', lo so. E' abbastanza noioso qui, ma almeno siamo al sicuro dai predoni e simili...}
-{115}{}{Ciao, selvaggio.}
+{115}{}{Ciao, tribale.}
 {116}{}{Che giornata calda oggi!}
 {117}{}{Buoni terreni coltivabili qui...}
 {118}{}{Buona giornata.}
 {119}{}{Benvenuto all'Abbazia, viandante!}
-{120}{}{Impressionante monastero quello che abbiamo qui, eh?}
+{120}{}{Un monastero niente male, il nostro, eh?}
 {200}{}{Toglimi quelle fottute mani di dosso!}

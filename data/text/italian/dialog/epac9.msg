@@ -15,32 +15,32 @@
 {226}{}{Borsa del Dottore}
 {227}{}{Buffout}
 {228}{}{Mentat}
-{229}{}{Psichiatra}
-{230}{}{Ottima scelta! Per creare uno Stimpak, dammi: un Fiore di Broc, una Radice di Xander e un'Ago Ipodermico Vuoto! Gnam-gnam!}
+{229}{}{Psycho}
+{230}{}{Ottima scelta! Per creare uno Stimpak, dammi: un Fiore di Broc, una Radice di Xander e un'Ipodermica Vuota! Gnam-gnam!}
 {231}{}{Produci uno Stimpak.}
 {232}{}{Non li ho con me al momento.}
 {233}{}{Torna al menu.}
 {240}{}{Ottima scelta! Per creare un Super Stimpak, dammi: uno Stimpak normale, un Frutto e una Nuka-Cola! Gnam-gnam!}
-{241}{}{Produci Super Stimpak.}
-{250}{}{Ottima scelta! Per creare del Psycho, dammi: una scatola di Mentats, un Buffout, un Frutto e uno Stimpak! Gnam-gnam!}
-{251}{}{Produci un Psycho.}
-{260}{}{Ottima scelta! Per creare dei Mentats, dammi: un Kit di Primo Soccorso, un Frutto e una bottiglia di Alcol! Gnam-gnam!}
-{262}{}{Produci dei Mentats.}
+{241}{}{Produci un Super Stimpak.}
+{250}{}{Ottima scelta! Per creare dello Psycho, dammi: una scatola di Mentat, un Buffout, un Frutto e uno Stimpak! Gnam-gnam!}
+{251}{}{Produci uno Psycho.}
+{260}{}{Ottima scelta! Per creare dei Mentat, dammi: un Kit di Pronto Soccorso, un Frutto e una bottiglia di Alcol! Gnam-gnam!}
+{262}{}{Produci dei Mentat.}
 {263}{}{Esci}
-{270}{}{Ottima scelta! Per creare una Borsa del Medico, dammi: uno Stimpak, un Kit di Primo Soccorso, un Ago Ipodermico Vuoto e un Antidoto al Veleno! Gnam-gnam!}
-{272}{}{Produci Borsa del dottore.}
-{280}{}{Ottima scelta! Per creare un Kit di Primo Soccorso, dammi: uno Stimpak, un Ago Ipodermico Vuoto, un Antidoto al Veleno e un RadAway! Gnam-gnam!}
-{282}{}{Produci Kit di pronto soccorso.}
-{290}{}{Ottima scelta! Per creare del Veleno, dammi: un Ago Ipodermico Vuoto, una Coda di Scorpione e una Nuka-Cola! Gnam-gnam!}
+{270}{}{Ottima scelta! Per creare una Borsa del Dottore, dammi: uno Stimpak, un Kit di Pronto Soccorso, un'Ipodermica Vuota e un Antidoto al Veleno! Gnam-gnam!}
+{272}{}{Produci una Borsa del Dottore.}
+{280}{}{Ottima scelta! Per creare un Kit di Pronto Soccorso, dammi: uno Stimpak, un'Ipodermica Vuota, un Antidoto al Veleno e un RadAway! Gnam-gnam!}
+{282}{}{Produci un Kit di Pronto Soccorso.}
+{290}{}{Ottima scelta! Per creare del Veleno, dammi: un'Ipodermica Vuota, una Coda di Scorpione e una Nuka-Cola! Gnam-gnam!}
 {292}{}{Produci del veleno.}
-{300}{}{Ottima scelta! Per creare del Buffout, dammi: un Kit di Primo Soccorso, una bottiglia di Birra e una Nuka-Cola! Gnam-gnam!}
+{300}{}{Ottima scelta! Per creare del Buffout, dammi: un Kit di Pronto Soccorso, una bottiglia di Birra e una Nuka-Cola! Gnam-gnam!}
 {302}{}{Produci Buffout.}
-{310}{}{Ottima scelta! Per creare del Rad-X, dammi: un Kit di Primo Soccorso e una Nuka-Cola! Gnam-gnam!}
-{312}{}{Prepara un Rad-X.}
-{320}{}{Ottima scelta! Per creare del RadAway, dammi: una Nuka-Cola, un Ago Ipodermico Vuoto e uno Stimpak! Gnam-gnam!}
-{322}{}{Produci RadAway.}
+{310}{}{Ottima scelta! Per creare del Rad-X, dammi: un Kit di Pronto Soccorso e una Nuka-Cola! Gnam-gnam!}
+{312}{}{Produci un Rad-X.}
+{320}{}{Ottima scelta! Per creare del RadAway, dammi: una Nuka-Cola, un'Ipodermica Vuota e uno Stimpak! Gnam-gnam!}
+{322}{}{Produci un RadAway.}
 {330}{}{Ottima scelta! Per creare un Antidoto al Veleno, dammi: una Coda di Scorpione e una bottiglia di Alcol! Gnam-gnam!}
-{331}{}{Preparare Antidoto per Veleno.}
+{331}{}{Produci un Antidoto al Veleno.}
 {340}{}{Oh cielo! Una richiesta speciale! Che tipo di droga speciale vuoi che Mr. Chemmie crei per te oggi?!}
 {341}{}{Marijuana.}
 {342}{}{Composti medici.}

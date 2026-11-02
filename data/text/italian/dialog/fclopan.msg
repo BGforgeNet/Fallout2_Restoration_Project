@@ -1,6 +1,6 @@
-{100}{}{Vedi un arrogante gangster shi.}
+{100}{}{Vedi un arrogante gangster Shi.}
 {101}{}{Vedi Lo Pan, un uomo dispotico e feroce.}
-{102}{}{Vedi un gangster shi, che indossa abiti di seta. Le sue mani sono callose e dure. Sembra pericoloso e caustico.}
+{102}{}{Vedi un gangster Shi, che indossa abiti di seta. Le sue mani sono callose e dure. Sembra pericoloso e velenoso.}
 {103}{}{Cosa vuoi?}
 {104}{}{Daggle aggle aggle!}
 {105}{}{Chi tu?}
@@ -13,10 +13,10 @@
 {112}{}{GRR!}
 {113}{}{Io sono Lo Pan. Il miglior lottatore della citta', escluso Dragon. E un giorno, lui sara' un uomo morto. E quando cio' accadra', io insegnero' agli altri la mia tecnica.}
 {114}{}{Insegnami!}
-{115}{}{Grazie.}
+{115}{}{Grassie.}
 {116}{}{Vuoi imparare, eh? Hai tutto quello che serve? Vediamo...}
 {117}{}{[FATTO]}
-{118}{}{Insegnare a te? Non credo proprio. Sei troppo ipocrita. Fuori di qui.}
+{118}{}{Insegnare a te? Non credo proprio. Hai troppo l'aria da moralista. Fuori di qui.}
 {119}{}{Cosa dia...?}
 {120}{}{Oh, ma guarda... l'idiota. Non voglio parlare con te. Vattene.}
 {121}{}{Duhhh...}
@@ -37,7 +37,7 @@
 {136}{}{Perche' altrimenti i bifolchi se la prenderebbero con me e sarebbe molto piu' difficile mungerli a dovere, una volta battuto Dragon.}
 {137}{}{Ho capito. Cominciamo.}
 {138}{}{Ho capito. Ho delle altre domande.}
-{139}{}{Cerrrrto. Addio.}
+{139}{}{Cerrrrto. Ci vediamo.}
 {140}{}{Vuoi combattere all'ultimo sangue, o vuoi solo vedere chi di noi due e' il migliore?}
 {141}{}{Fino alla fine. Posso batterti.}
 {142}{}{Voglio solo mettere alla prova le nostre capacita'. Non voglio ucciderti.}
@@ -47,7 +47,7 @@
 {146}{}{No. Lo faccio perche' ritengo che tu sia soltanto feccia.}
 {147}{}{Un duro, eh? Prima ti scontrerai con i miei uomini, e poi vedremo se sei degno di combattere contro di me.}
 {148}{}{[COMINCIA]}
-{149}{}{Io sono Lo Pan. E sono anche il "nemico giurato" di Dragon. Perche' si ostini a volere un nemico giurato non riesco proprio a capirlo. Semplicemente combatto bene come lui, e penso che sia soltanto un debole che permette agli altri di vivere sotto la sua ombra. Siamo nemici perche' abbiamo lo stesso stile di combattimento e quindi chi di noi due risultera' vincitore porterera' avanti la tradizione.}
+{149}{}{Io sono Lo Pan. E sono anche il "nemico giurato" di Dragon. Perche' si ostini a volere un nemico giurato non riesco proprio a capirlo. Semplicemente combatto bene come lui, e penso che sia soltanto un debole che permette agli altri di vivere sotto la sua ombra. Siamo nemici perche' abbiamo lo stesso stile di combattimento e quindi chi di noi due risultera' vincitore portera' avanti la tradizione.}
 {150}{}{Neanch'io me la cavo troppo male con il corpo a corpo. Che ne dici di una sfida?}
 {151}{}{Interessante. Dev'essere appagante. Ho delle altre domande.}
 {152}{}{Grazie. Ciao.}
@@ -72,22 +72,22 @@
 {171}{}{Si', vabbe'. Ciao.}
 {172}{}{Ho appena ucciso un lao wai che aveva cercato di rubare i nostri segreti. Ce ne siamo occupati io e Dragon. E, se devo essere sincero, abbiamo lavorato bene, insieme.}
 {173}{}{Ottimo. Ho delle domande da farti.}
-{174}{}{Ottimo... Ci vediamo.}
+{174}{}{Ottimo. Ciao.}
 {175}{}{Dragon e' morto. Non riesco a crederci. Almeno adesso quelle noiose tradizioni non assilleranno piu' ogni nostro passo. Grazie.}
 {176}{}{Ottimo. Ho delle domande da farti.}
-{177}{}{Ottimo... Ci vediamo.}
+{177}{}{Ottimo. Ciao.}
 {178}{}{D'accordo. Lo faro' subito.}
 {200}{}{Lo Pan si accorge della tua mossa e lo manchi.}
 {201}{}{Ascolta, non mi piace che qualcuno prenda le mie cose... va' a rubare quelle di qualcun altro. Adesso vattene.}
-{202}{}{Ti avevo chiesto di andartene, non di suicidarti.}
-{203}{}{Sembra che tu non abbia piu' bisogno di ulteriori insegnamenti da parte mia.}
+{202}{}{Ti avevo chiesto di andartene, non di suicidarti. Pazienza.}
+{203}{}{Sembra che tu non abbia bisogno di altri insegnamenti da parte mia.}
 {204}{}{Per oggi ho finito gli allenamenti. Torna domani.}
-{205}{}{Io sono Master Khung, la tua sfida finale.}
+{205}{}{Io sono il Maestro Khung, la tua sfida finale.}
 {206}{}{Io sono Imbot. Preparati.}
 {207}{}{Io sono Wejungh. In guardia.}
 {208}{}{Io sono Loopal. Non andrai oltre.}
 {209}{}{Io sono Smitty. E' giunto il tempo della tua sconfitta.}
-{210}{}{Io sono Master Krall. Sei finito.}
+{210}{}{Io sono il Maestro Krall. Sei finito.}
 {211}{}{COMBATTETE!}
 {212}{}{Devi allenarti di piu'.}
 {213}{}{In guardia!}
@@ -100,7 +100,7 @@
 {220}{}{Hai gia' sconfitto i miei uomini. Nessun altro vuole affrontarti.}
 {221}{}{Mi hai aiutato e non lo sapevi neanche. Adesso che Dragon e' morto non dovro' piu' seguire quelle antiquate tradizioni morali.}
 {222}{}{E' stato un piacere. Ci vediamo.}
-{223}{}{Prego. Addio.}
+{223}{}{Prego. Ciao ciao.}
 {224}{}{Non c'e' di che. Posso farti una domanda?}
 {225}{}{Prego. Me domanda?}
 {226}{}{Hai VINTO!}
@@ -109,10 +109,10 @@
 {229}{}{Ehi, guarda cos'ho trovato.}
 {230}{}{Per prima cosa devi dimostrare di essere in grado di farlo. Ti mettero' di fronte a cinque dei miei allievi - uno alla volta. Se li batti tutti, allora sarai pronto ad affrontare l'esame finale.}
 {231}{}{Cos'e' quello?}
-{232}{}{Sembra un po' troppo rischioso. Addio.}
-{233}{}{Dovrai sconfiggere il mio apprendista preferito. Tuttavia, nessuna di queste sfide sara' all'ultimo sangue - per proteggere i miei uomini, naturalmente. [sghignazza]}
+{232}{}{Mi sembra troppo impegnativo. Ciao.}
+{233}{}{Dovrai sconfiggere il mio allievo prescelto. Tuttavia, nessuna di queste sfide sara' all'ultimo sangue - per proteggere i miei uomini, naturalmente. [sghignazza]}
 {234}{}{Cominciamo subito!}
 {235}{}{Puoi sconfiggere Dragon da solo.}
 {236}{}{[Lo Pan ti osserva e poi tira un pugno cosi' rapido che ti becca in pieno naso prima ancora che tu possa reagire.] Non sei abbastanza bravo.}
 {237}{}{Ok, ma posso chiederti qualcos'altro?}
-{238}{}{D'accordo. Addio.}
+{238}{}{D'accordo. Ciao.}

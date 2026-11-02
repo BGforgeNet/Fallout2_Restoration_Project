@@ -44,7 +44,7 @@
 {144}{}{Cercapiste}
 {145}{}{Amico degli Animali}
 {146}{}{Ricognitore}
-{147}{}{la Straniera Mistriosa}
+{147}{}{Straniero Misterioso}
 {148}{}{Ranger}
 {149}{}{Tasche Rapide}
 {150}{}{Fine Dicitore}
@@ -91,7 +91,7 @@
 {191}{}{Guadagna Fortuna}
 {192}{}{Inoffensivo}
 {193}{}{Qui e Adesso}
-{194}{}{Evadi Corpo a Corpo}
+{194}{}{Schivata Corpo a Corpo}
 {195}{}{Esperto di KamaSutra}
 {196}{}{Indicatore di Karma}
 {197}{}{Passo Felpato}
@@ -122,7 +122,7 @@
 {1101}{}{Con la Consapevolezza, ti vengono date informazioni dettagliate su ogni creatura da te esaminata. Puoi vedere i loro punti vita esatti e varie informazioni sull'arma da loro impugnata.}
 {1102}{}{Hai imparato le arti segrete dell'Oriente, o semplicemente sai dare pugni piu' velocemente. In ogni caso, i tuoi attacchi Corpo a Corpo richiedono 1 PA in meno.}
 {1103}{}{L'esperienza nel combattimento a mani nude ti ha dato un vantaggio quando si tratta di fare danni. Infliggi +2 punti danno negli attacchi a mani nude o in mischia per ogni livello di questa Strenna.}
-{1104}{}{Per ogni livello di Bonus: Mossa, guadagni 2 PA al turno utilizzabili solo per muoverti. In parole povere, puoi spostarti di 2 caselle in piu' per ogni livello di questa Strenna.}
+{1104}{}{Per ogni livello di Bonus: Mossa Extra, guadagni 2 PA al turno utilizzabili solo per muoverti. In parole povere, puoi spostarti di 2 caselle in piu' per ogni livello di questa Strenna.}
 {1105}{}{Il tuo allenamento con le armi da fuoco ti ha reso piu' letale nel combattimento a distanza. Per ogni livello di questa Strenna, infliggi +2 punti danno con le armi a distanza.}
 {1106}{}{Questa Strenna ti permette di premere il grilletto un po' piu' rapidamente, pur non rovinando la tua precisione. Ogni attacco con armi a distanza costa 1 PA in meno.}
 {1107}{}{E' piu' probabile che tu riesca a muoverti prima dei tuoi avversari in combattimento, dato che la tua Sequenza ha un bonus di +2 per ogni livello di questa Strenna.}
@@ -152,7 +152,7 @@
 {1131}{}{Yum! Sa un po' di pollo. Per ogni livello di questa Strenna, guadagni un +25% di Resistenza al Veleno.}
 {1132}{}{Questa Strenna ti dara' un bonus una tantum di +10% per le tue abilita' Scienza e Riparare. Un po' di studio notturno non ha mai fatto male a nessuno, specialmente a te.}
 {1133}{}{La Strenna Medico ti da' un bonus una tantum di +10% per le abilita' Pronto Soccorso e Dottore. Le abilita' curative sono una bella cosa.}
-{1134}{}{Un Ladro Mastro e' esperto nel rubare e nello scassinare serrature. Guadagni +15 in Rubare e Scassinare. Rubi ai ricchi per dare a te.}
+{1134}{}{Un Maestro Ladro e' esperto nel rubare e nello scassinare serrature. Guadagni +15 in Rubare e Scassinare. Rubi ai ricchi per dare a te.}
 {1135}{}{Essere un Parlatore significa che ti viene dato un bonus una tantum di +20% in Dialogare. Dalla bocca dei bambini ecc. ecc.}
 {1136}{}{Ogni livello della Strenna Oh Issa! ti conferisce un +2 addizionale alla Forza (fino a 10), ma solo per determinare la distanza con armi da lancio. Questa Strenna non superera' la gittata massima dell'arma.}
 {1137}{}{ERROR.UNIMPED!}
@@ -162,20 +162,20 @@
 {1141}{}{Riesci a trovare piu' munizioni rispetto agli altri sopravvissuti post-olocausto. Questa Strenna raddoppia la quantita' di munizioni trovate negli incontri casuali.}
 {1142}{}{Lo scopo dell'Esploratore e' scoprire luoghi nuovi ed interessanti. Con questa Strenna hai una probabilita' maggiore di trovare luoghi e persone speciali.}
 {1143}{}{Con questa Strenna e' meno probabile che tu sviluppi dipendenza da droghe (50% in meno, numericamente parlando) e hai i tempi di recupero dimezzati rispetto alle persone normali.}
-{1144}{}{Il Trova-Piste e' piu' bravo a trovare la via piu' breve. Ogni livello di questa Strenna riduce il tempo di percorrenza sulla Mappa del Mondo del 25%.}
+{1144}{}{Il Cercapiste e' piu' bravo a trovare la via piu' breve. Ogni livello di questa Strenna riduce il tempo di percorrenza sulla Mappa del Mondo del 25%.}
 {1145}{}{Gli animali non attaccheranno un loro amico, a meno che non siano minacciati o attaccati per primi. Gli esperti si stanno ancora interrogando su cosa esattamente sia un animale, in questo mondo.}
 {1146}{}{Hai migliorato la tua capacita' di vedere luoghi lontani, aumentando di una casella il raggio d'esplorazione sulla Mappa del Mondo. Hai anche una maggiore probabilita' di fare incontri speciali.}
 {1147}{}{Con questa Strenna ti sei guadagnato l'attenzione di uno Straniero Misterioso, che apparira' per aiutarti di tanto in tanto. Se il tuo alleato dovesse perire in combattimento, non credere che sara' rimpiazzato (o rimpiazzata).}
 {1148}{}{Guadagni un +15% nella tua abilita' Escursionista. Ti e' piu' facile evitare gli incontri casuali se decidi di farlo, e tendi a trovare gli incontri "speciali" piu' frequentemente del normale.}
 {1149}{}{Hai imparato a riporre meglio il tuo equipaggiamento. Accedere al tuo inventario durante un combattimento ti costa 2 Punti Azione invece di 4.}
-{1150}{}{Hai imparato a migliorare le tua capacita' di scelta nei dialoghi pur senza capire di cosa tu stia parlando. Ogni livello di questa Strenna aumenta di 1 la tua Intelligenza (fino a 10), solamente a scopi di dialogo.}
+{1150}{}{Hai imparato a migliorare le tue capacita' di scelta nei dialoghi pur senza capire di cosa tu stia parlando. Ogni livello di questa Strenna aumenta di 1 la tua Intelligenza (fino a 10), solamente a scopi di dialogo.}
 {1151}{}{Con questa Strenna diventi davvero Svelto ad Imparare, dato che ogni livello ti garantisce un 5% in piu' ogni volta che guadagni dei punti esperienza. Meglio prenderla all'inizio dell'avventura.}
 {1152}{}{Le tue abilita' sono migliorate al punto da poter prendere una Abilita' Scelta aggiuntiva. Le Abilita' Scelte aumentano al doppio della velocita'.}
 {1153}{}{Le radiazioni delle Lande ti hanno cambiato! Uno dei tuoi Tratti e' mutato in qualcosa d'altro...}
 {1154}{}{Desideri con tutte le tue forze un'altra Nuka-Cola.}
 {1155}{}{Hai i brividi.}
 {1156}{}{Ti senti intontito.}
-{1157}{}{Hai la testa vuota.}
+{1157}{}{Ti gira la testa.}
 {1158}{}{Ti viene da vomitare.}
 {1159}{}{Arma a lungo raggio}
 {1160}{}{Arma precisa}
@@ -190,11 +190,11 @@
 {1169}{}{Armatura avanzata I}
 {1170}{}{Armatura avanzata II}
 {1171}{}{Tutto si muove cosi' lentamente... *devi* avere un altro po' di Jet, SUBITO!}
-{1172}{}{Senti l'ardente desiderio di aprire un altro mazzo di carte Tragic.}
+{1172}{}{Senti l'ardente desiderio di aprire un'altra scatola di carte Tragic.}
 {1173}{}{Armatura Carisma}
 {1174}{}{Conosci il modo corretto per scuoiare i gecki senza rovinare le loro pelli.}
-{1175}{}{Hai una protezione interna contro gli attacchi fisici.}
-{1176}{}{Hai una protezione interna extra contro gli attacchi fisici.}
+{1175}{}{Hai una protezione innata contro gli attacchi fisici.}
+{1176}{}{Hai una protezione innata extra contro gli attacchi fisici.}
 {1177}{}{Hai una protezione innata contro gli attacchi termici.}
 {1178}{}{Hai una protezione innata extra contro gli attacchi termici.}
 {1179}{}{Guadagni +10% nella resistenza al veleno e alle radiazioni.}
@@ -220,7 +220,7 @@
 {1199}{}{Aggiungi 1 casella extra al tuo limite di seguaci, ma non dimenticarti che piu' di 5 son sempre una folla.}
 {1200}{}{Sei un negoziatore molto abile. Non solo ti fai valere durante i baratti, ma sei anche in grado di tirarti fuori dai guai semplicemente a parole. Con questa Strenna aggiungi +10% sia a Barattare che a Dialogare.}
 {1201}{}{Il tuo inventario e' organizzato in modo molto efficiente. Questo rende molto piu' facile trasportare quelle poche cose in piu' di cui hai sempre avuto bisogno.}
-{1202}{}{Quando usi armi lanciafiamme infliggi un danno extra, e sembra che i nemici muoiano sempre nel modo piu' atroce.}
+{1202}{}{Quando usi armi incendiarie infliggi un danno extra, e sembra che i nemici muoiano sempre nel modo piu' atroce.}
 {1203}{}{Dopo essere stato gettato al tappeto ti sai riprendere velocemente.}
 {1204}{}{Sei un abile Venditore. Con questa Strenna guadagni +20% nell'abilita' Barattare.}
 {1205}{}{E' piu' difficile che tu vada al tappeto durante un combattimento.}
@@ -229,12 +229,12 @@
 {1208}{}{Hai ricevuto l'addestramento medico di Vault City.}
 {1209}{}{I tuoi punti vita sono aumentati un po' a causa delle continue ubriacature.}
 {1210}{}{I tuoi punti vita sono aumentati un po' di piu' a causa delle continue ubriacature.}
-{1211}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa delle continue ubriacature.}
-{1212}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa delle continue ubriacature.}
+{1211}{}{I tuoi punti vita sono diminuiti leggermente a causa delle continue ubriacature.}
+{1212}{}{I tuoi punti vita sono diminuiti leggermente a causa delle continue ubriacature.}
 {1213}{}{I tuoi punti vita sono aumentati un po' a causa del continuo uso dell'autodoc.}
 {1214}{}{I tuoi punti vita sono aumentati un po' di piu' a causa del continuo uso dell'autodoc.}
-{1215}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}
-{1216}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}
+{1215}{}{I tuoi punti vita sono diminuiti leggermente a causa del continuo uso dell'autodoc.}
+{1216}{}{I tuoi punti vita sono diminuiti leggermente a causa del continuo uso dell'autodoc.}
 {1217}{}{La tua abilita' nello spalare merda e' leggendaria.}
 {1218}{}{Colpo da KO potenziato}
 {1219}{}{La cosa positiva e' che tutti intorno a te subiscono un maggior numero di fallimenti critici... la cosa negativa e' che lo stesso succede a te!}

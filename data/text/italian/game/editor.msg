@@ -55,7 +55,7 @@
 {154}{}{PERDI UN TRATTO}
 {155}{}{SCEGLI UN NUOVA "SCELTA"}
 {156}{}{TRATTI}
-{157}{}{Tutte le caratteristiche devono essere}
+{157}{}{Le caratteristiche vanno da 1 a 10}
 {158}{}{prima di iniziare il gioco!}
 {160}{}{Attento: non hai inserito un nome}
 {161}{}{Utilizzi lo stesso il personaggio?}
@@ -92,8 +92,8 @@
 {400}{}{Il tuo personaggio e' stato avvelenato. Il veleno agira' per un certo periodo di tempo, finche' non viene curato o eliminato dal tuo metabolismo.}
 {401}{}{Il tuo personaggio sta subendo gli effetti di un pesante avvelenamento radioattivo. Maggiore il danno da radiazioni, piu' mortali gli effetti.}
 {402}{}{Questo significa che il tuo personaggio e' stato colpito duramente a uno o ad entrambi gli occhi.  Cio' influisce sulla Percezione.}
-{403}{}{Il braccio destro del tuo personaggio e' stato colpito duro e non funziona bene. Se un braccio e' stato ferito gravemente, non puoi usare armi a due mani. Se entrambe le braccia sono state ferite, non puoi attaccare con le armi.}
-{404}{}{Il braccio sinistro del tuo personaggio e' stato colpito duro e non funziona bene. Se un braccio e' stato ferito gravemente, non puoi usare armi a due mani. Se entrambe le braccia sono state ferite, non puoi attaccare con le armi.}
+{403}{}{Il braccio destro del tuo personaggio e' stato colpito duramente e non funziona bene. Se un braccio e' stato ferito gravemente, non puoi usare armi a due mani. Se entrambe le braccia sono state ferite, non puoi attaccare con le armi.}
+{404}{}{Il braccio sinistro del tuo personaggio e' stato colpito duramente e non funziona bene. Se un braccio e' stato ferito gravemente, non puoi usare armi a due mani. Se entrambe le braccia sono state ferite, non puoi attaccare con le armi.}
 {405}{}{Il tuo personaggio ha una brutta ferita alla gamba destra.}
 {406}{}{Il tuo personaggio ha una brutta ferita alla gamba sinistra.}
 {500}{}{Gennaio}
@@ -192,10 +192,10 @@
 {1024}{}{Picciotto: Wright}
 {1025}{}{Divorziato}
 {1026}{}{Fumatore}
-{1100}{}{Questa statistica rappresenta la tua reputazione generale. Piu'alto il valore, piu' sei conosciuto e rispettato. Se la tua reputazione e' negativa, qualcuno ti odia per le tue cattive azioni.}
+{1100}{}{Questa statistica rappresenta la tua reputazione generale. Piu' alto il valore, piu' sei conosciuto e rispettato. Se la tua reputazione e' negativa, qualcuno ti odia per le tue cattive azioni.}
 {1101}{}{Hai ucciso un gran numero di persone. Di solito non e' molto positivo diventare famosi per questo. Delinquenti e sbandati, tuttavia, ti rispetteranno di piu'.}
 {1102}{}{Le tue azioni ti hanno fatto diventare l'eroe della gente. Notizie della tua guerra contro il male e la delinquenza sono giunte in molti luoghi. Le persone onorevoli ti rispetteranno di piu'.}
-{1103}{}{Hai ucciso dei bambini, la gioventu' delle lande desolate Questo e' considerato una cosa davvero brutta. Sei una persona cattiva, cattiva.}
+{1103}{}{Hai ucciso dei bambini, la gioventu' delle lande desolate. Questo e' considerato una cosa davvero brutta. Sei una persona cattiva, cattiva.}
 {1104}{}{Ti sei riempito di Nuka-Cola, la bibita del mondo post-nucleare.}
 {1105}{}{Sei dipendente dalla droga Buffout. Devi assumere questa droga regolarmente oppure soffrirai gli effetti dell'astinenza.}
 {1106}{}{Stai male a causa della dipendenza da Mentat. Devi assumere questa particolare droga oppure soffrirne le crisi d'astinenza.}
@@ -213,7 +213,7 @@
 {1118}{}{Ti hanno incastrato. Ehi, e' un problema tuo, non nostro.}
 {1119}{}{Sei una grande, luminosa, brillante stella. Le tue performance sessuali sono ben note in tutta New Reno.}
 {1120}{}{Sei stato marchiato come un componente della Gilda degli Schiavisti. Il tatuaggio sulla tua fronte rende la tua professione evidente per chiunque ti incontri.}
-{1121}{}{Dovresti davvero cercare di sforzarti un po' di piu'. Le tue performance sessuali sono state...beh, assolutamente piatte.}
+{1121}{}{Dovresti davvero cercare di sforzarti un po' di piu'. Le tue performance sessuali sono state... beh, assolutamente piatte.}
 {1122}{}{Sei un "Picciotto" della famiglia Bishop. Sei ben conosciuto, rispettato e stai benissimo con la coppola.}
 {1123}{}{Sei un "Picciotto" della famiglia Mordino. Sei ben conosciuto, rispettato e stai benissimo con la coppola.}
 {1124}{}{Sei un "Picciotto" della famiglia Wright. Sei ben conosciuto, rispettato e stai benissimo con la coppola.}
@@ -244,8 +244,8 @@
 {3008}{}{Figlio del Demonio}
 {4000}{}{Reputazione}
 {4001}{}{Dipendenze}
-{4100}{}{Rappresenta la tua reputazione in una data locazione.}
-{4101}{}{Le cose per le quali sei diventato dipendente.}
+{4100}{}{Rappresenta la tua reputazione in un determinato luogo.}
+{4101}{}{Le cose da cui sei diventato dipendente.}
 {5000}{}{Spiacente, puoi stampare il tuo}
 {5001}{}{personaggio solo nella versione completa.}
 {5002}{}{Spiacente, puoi salvare il tuo}

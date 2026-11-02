@@ -2,7 +2,7 @@
 {101}{}{E' solo una guardia cittadina.}
 {102}{}{Vediamo un po' - tipo robusto, pistola, distintivo, armatura - hmm, potrebbe essere una guardia.}
 {103}{}{Benvenuti a NCR. Solo per informazione: se avete armi, tenetele nel fodero. In questa citta' non sono ammesse armi, straniero.}
-{104}{}{Benvenuti a NCR, capitale della New California Republic, governata dal Presidente Tandi.}
+{104}{}{Benvenuti a NCR, capitale della Repubblica della Nuova California, governata dalla Presidente Tandi.}
 {105}{}{Benvenuto, straniero. Siete qui per fare affari, vero?}
 {106}{}{NCR vi da' il benvenuto - a meno che non causiate disordini.}
 {107}{}{Ehi, voi! Riponete le vostre armi. A NCR i guai non sono i benvenuti.}
@@ -15,4 +15,4 @@
 {114}{}{Alzerei i tacchi e me ne andrei di gran carriera, se fossi in te.}
 {115}{}{Tu e quelli della tua razza non siete i benvenuti a NCR.}
 {116}{}{Avvicinati di un solo passo e te ne pentirai.}
-{117}{}{Ci hanno detto tutto su di te, percio' vedi di comportati bene. Capito?}
+{117}{}{Ci hanno avvertiti su di te, percio' vattene senza fare storie. Capito?}

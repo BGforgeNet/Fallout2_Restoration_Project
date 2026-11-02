@@ -1,51 +1,51 @@
-{100}{}{Vedi un ragazzino.}
+{100}{}{Vedi un bambino.}
 {101}{}{Vedi una ragazzina.}
 {120}{}{Vedi un ragazzino. Sembra piuttosto vivace.}
 {121}{}{Vedi una ragazzina. Sembra piuttosto vivace.}
 {150}{}{Non mangiarmi!}
 {151}{}{Eeeee! L'uomo nero!}
-{152}{}{Il mio papa' mi ha detto che sei una persona brutta.}
+{152}{}{Il mio papa' mi ha detto che sei una persona cattiva.}
 {153}{}{Aieeee! Viaaaa!}
 {154}{}{Mi fai paura.}
 {155}{}{Smettila di guardarmi.}
-{156}{}{Non mi e' permesso parlare con i selvaggi.}
+{156}{}{Non mi e' permesso parlare con i tribali.}
 {157}{}{Bassotto.}
 {158}{}{La mia mamma dice che se faccio il cattivo tu mi mangerai.}
 {159}{}{Non ho paura di te!}
 {160}{}{Aiutooooo!}
 {161}{}{Mi sta inseguendo!}
 {162}{}{Per piacere non farmi male!}
-{163}{}{Stai lontano da me!}
+{163}{}{Stai lontana da me!}
 {164}{}{Eeeeeeeeek!}
 {165}{}{Ti odio!}
 {166}{}{Mammina mammina mammina!}
 {167}{}{Lasciami in pace!}
 {168}{}{Puzzi!}
 {170}{}{Ciao.}
-{171}{}{Giochiamo insieme?}
-{172}{}{Ti sei davvero infilato un osso nel naso?}
-{173}{}{Perche' sei cosi' buffo?}
-{174}{}{La mia mamma dice che sei una donna delle caverne.}
+{171}{}{Vuoi giocare a mamma e papa'?}
+{172}{}{Hai davvero un osso infilato nel naso?}
+{173}{}{Perche' sei cosi' buffa?}
+{174}{}{La mia mamma dice che sei una primitiva.}
 {175}{}{La tua tribu' ha smesso di mangiare le persone?}
 {176}{}{Chi ti ha vestito in un modo cosi' buffo?}
-{177}{}{Scommetto che sei piu' buona di quanto sembra.}
-{178}{}{Giochiamo a ce l’hai! Ce l’hai tu.}
+{177}{}{Scommetto che sei piu' buona di quanto sembri.}
+{178}{}{Giochiamo a ce l'hai! Ce l'hai tu.}
 {179}{}{Non puzzi cosi' tanto.}
 {180}{}{Hai visto il mio amico invisibile?}
-{181}{}{Quando saro' vecchio come te, voglio viaggiare per il mondo.}
-{182}{}{Sei una selvaggia simpatica, non sei come gli altri.}
-{183}{}{Scommetto che ti sei fatto il bagno.}
+{181}{}{Quando avro' la tua eta', voglio viaggiare per il mondo.}
+{182}{}{Sei una tribale simpatica, non sei come gli altri.}
+{183}{}{Scommetto che tu il bagno lo fai.}
 {184}{}{Ho un bel sassolino lucido.}
-{185}{}{La punta della tua lancia e' molto tagliente?}
+{185}{}{La tua lama e' davvero affilata?}
 {186}{}{Voglio essere proprio come te quando saro' grande.}
 {187}{}{Il mio cane adora la carne secca.}
 {188}{}{Ho un bel sassolino lucido.}
 {189}{}{Hai visto il mio amico invisibile?}
 {190}{}{Posso unirmi alla tua tribu'?}
 {191}{}{Sei carina.}
-{192}{}{Sei buffo.}
+{192}{}{Sei buffa.}
 {193}{}{Cosa stai indossando?}
-{194}{}{Voglio andare al pascolo con i brahmin!}
+{194}{}{Voglio fare un giro sul brahmin!}
 {195}{}{Vieni da lontano?}
 {196}{}{Weeee! Ah, ah, ah!}
 {197}{}{Non andartene!}
@@ -63,14 +63,14 @@
 {209}{}{Dove l'hai preso quello?}
 {210}{}{Posso averlo?}
 {211}{}{Che cosa fai?}
-{212}{}{Posso correre veloce. Vuoi vedere?}
+{212}{}{So correre veloce. Vuoi vedere?}
 {213}{}{Guardami! Guardami!}
 {214}{}{La mia mamma dice che parlo troppo.}
 {215}{}{Dov'e' casa tua?}
 {216}{}{Heeee! Heeee!}
 {217}{}{Rimarrai qui?}
 {218}{}{Hai dei bambini?}
-{219}{}{Perche' sei venuto qui?}
+{219}{}{Perche' sei venuta qui?}
 {220}{}{A me mi piaci.}
 {221}{}{A te ti piaccio?}
 {222}{}{Sei sposata?}

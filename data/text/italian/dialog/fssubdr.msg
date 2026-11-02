@@ -1,1 +1,1 @@
-{100}{}{Questa porta e' completamente arrugginita. Non c’e' modo di aprirla.}
+{100}{}{Questa porta e' completamente arrugginita. Non c'e' modo di aprirla.}

@@ -1,8 +1,8 @@
-1:Prescelto?
-2:Prescelto?
+1:Prescelta?
+2:Prescelta?
 3:Mi senti?
 4:[Il] villaggio [muore].
 5:[Tutto il nostro] futuro muore.
-6:C'e' rimasto [poco sia in tempo che in] forza vitale.
+6:Ci resta [poco, sia di tempo che di] forza vitale.
 7:Sbrigati.
 8:Sbri-...

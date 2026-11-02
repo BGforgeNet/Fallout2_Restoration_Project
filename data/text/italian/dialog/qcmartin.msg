@@ -6,7 +6,7 @@
 {105}{}{Spegnere tutto, e noi liberi!}
 {106}{}{Facci USCIRE da qui!}
 {107}{}{Spento tutto! Porta aperta!}
-{108}{}{Siamo davvero messi male.}
+{108}{}{Siamo proprio fregati.}
 {109}{}{Facci uscire prima che facciano altri esperimenti su di noi.}
 {110}{}{Chi sono queste persone?}
 {111}{}{Perche' io? Perche' noi?}
@@ -25,12 +25,12 @@
 {124}{}{Io posso dirti cos'e' successo.}
 {125}{}{Salve, sono Martin Frobisher. Parlo a nome di queste persone. Grazie a Dio sei qui.}
 {126}{}{Cosa vorresti sapere?}
-{127}{}{Bel vestito, proprio come il mio. Chi siete?}
+{127}{}{Bei vestiti, proprio come il mio. Chi siete?}
 {128}{}{Cosa ci fate qui?}
 {129}{}{Tu sei il Supervisore?}
 {130}{}{Come avete fatto ad arrivare qui?}
 {131}{}{Piacere di conoscerti, Martin, ma devo liberare delle persone. Arrivederci.}
-{132}{}{Si', speravo proprio tu fossi giunto qui per questo. Devi liberarci.}
+{132}{}{Si', speravo proprio che fossi qui per questo. Devi liberarci.}
 {133}{}{Liberarvi? Io volevo solo liberare la mia tribu'.}
 {134}{}{Certo, non permettero' che qualcuno rimanga prigioniero in questo posto.}
 {135}{}{A proposito, cosa ci fate voi qui?}
@@ -51,21 +51,21 @@
 {150}{}{Lo stavo cercando. Ehi, tu sei il Supervisore?}
 {151}{}{Un GECK? Dovremmo avercene un paio. Prendine pure uno. Mi pare di aver visto alcuni soldati caricare uno dei nostri GECK su di un vertibird.}
 {152}{}{Hai visto che portavano via un GECK? Sai per caso dove potrebbero averlo messo?}
-{153}{}{Non preoccuparti. Mi sono gia' servito da solo prendendo un GECK dal vostro vault. Lascia che ti chieda qualcos'altro.}
-{154}{}{Non so esattamente dove l'abbiano messo, ma ho sentito che dicevano di averlo riposto nel livello inferiore a questo, o almeno credo.}
+{153}{}{Non preoccuparti. Ho gia' preso un GECK dal vostro vault. Lascia che ti chieda qualcos'altro.}
+{154}{}{Non so esattamente dove l'abbiano messo, ma ho sentito che dicevano di volerlo lasciare al livello della barriera, quello subito sotto a questo, credo.}
 {155}{}{Splendido. Grazie. Sara' meglio che vada.}
 {156}{}{Ah, capisco. Lascia che ti chieda qualcos'altro.}
 {157}{}{Aspetta! Devi farci uscire da questo posto.}
-{158}{}{E' mia intenzione farlo. Sto andando al piano di sotto dove si trova il generatore per staccare la corrente e liberarvi. Quando i campi di forza si disattiveranno, correte di sopra e raggiungete la nave con la quale sono giunto qui.}
+{158}{}{E' mia intenzione farlo. Sto andando al piano di sotto dove si trova il generatore per staccare la corrente e liberarvi. Quando i campi di forza si disattiveranno, correte di sopra e raggiungete la mia nave.}
 {159}{}{Cosa posso fare?}
-{160}{}{Dovevate pensarci *prima* di cacciare dal vostro vault il mio antenato. Rimarrete qui a marcire per sempre. Addio.}
-{161}{}{Ti ringrazio. Fa' presto e buona fortuna, amico.}
-{162}{}{A presto, e buona fortuna.}
+{160}{}{Dovevate pensarci *prima* di cacciare dal vostro vault il mio antenato. Spero che marciate qui dentro. Addio.}
+{161}{}{Ti ringrazio. Che Dio ti accompagni, e buona fortuna.}
+{162}{}{Arrivederci, e buona fortuna.}
 {163}{}{Grazie, ma lascia che prima ti chieda qualcos'altro.}
-{164}{}{Ho la sensazione che mi servira'. A presto.}
+{164}{}{Ho la sensazione che mi servira'. Arrivederci.}
 {165}{}{Per disattivare questi campi di forza, credo che dovrai disattivare il generatore centrale.}
 {166}{}{E come diavolo dovrei fare una cosa del genere?}
-{167}{}{Ho ascoltato i discorsi di alcuni ricercatori e credo che il reattore sia controllato da un potente computer situato in uno dei livelli inferiori. Se tu riuscissi a farlo saltare, l'erogazione di energia dovrebbe interrompersi e noi potremmo scappare.}
+{167}{}{Ho ascoltato i discorsi di alcuni ricercatori e credo che il reattore sia controllato da un grosso computer situato tre livelli sotto di noi. Se tu riuscissi a farlo saltare, l'erogazione di energia dovrebbe interrompersi e noi potremmo scappare.}
 {168}{}{Splendida idea. Potrei usare dell'esplosivo per far saltare il computer. Poi potrete scappare al piano superiore e raggiungere la mia nave. Mi uniro' a voi appena possibile.}
 {169}{}{Splendida idea, ma non saprei proprio come potrei far saltare il reattore. Non ho un grammo di esplosivo.}
 {170}{}{Sono sicuro che dove si trova la caserma ci sia anche un arsenale. Ci sara' anche dell'esplosivo, ne sono certo.}

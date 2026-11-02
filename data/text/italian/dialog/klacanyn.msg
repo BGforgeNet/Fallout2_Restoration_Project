@@ -1,1 +1,1 @@
-{100}{}{Sei entrato in un canyon vicino Klamath.}
+{100}{}{Entri in un canyon vicino a Klamath.}

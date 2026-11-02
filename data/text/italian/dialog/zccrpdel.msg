@@ -1,6 +1,6 @@
 {100}{}{Vedi un uomo dallo sguardo acuto e con un chiaro senso per gli affari.}
 {101}{}{Vedi un croupier.}
-{102}{}{Ha un bastoncino e un sacco di monete. Potresti tentare la fortuna con lui.}
+{102}{}{Ha un bastoncino e un sacco di fiches. Potresti tentare la fortuna con lui.}
 {103}{}{Fate il vostro gioco. Abbiamo un altro giocatore.}
 {104}{}{Quanto punta sulla PASSLINE?}
 {105}{}{Quanto punta sul DON'T PASSLINE?}
@@ -17,9 +17,9 @@
 {116}{}{Puntata sul Field}
 {118}{}{Tira}
 {119}{}{Puntata sul Passline:}
-{120}{}{Puntata sul don't Passline:}
+{120}{}{Puntata sul Don't Passline:}
 {121}{}{Puntata sul Comeline:}
-{122}{}{Puntata sul don't Comeline:}
+{122}{}{Puntata sul Don't Comeline:}
 {123}{}{7:}
 {124}{}{d3:}
 {125}{}{d4:}
@@ -75,18 +75,18 @@
 {400}{}{Indietro...}
 {500}{}{$}
 {501}{}{.}
-{600}{}{Il sette paga le giocate su pass e come line, il gioco non cambia.}
+{600}{}{Il sette paga le giocate su pass e come line, nessun numero di gioco.}
 {601}{}{L'undici paga le giocate su pass e come line.}
 {602}{}{Due, Crap; le giocate su pass e come line perdono.}
 {603}{}{Tre, Crap; le giocate su pass e come line perdono.}
 {604}{}{Dodici, Crap; le giocate su pass e come line perdono.}
-{610}{}{Sette; le giocate su don't pass e don't come line perdono, il gioco non cambia.}
+{610}{}{Sette; le giocate su don't pass e don't come line perdono, nessun numero di gioco.}
 {611}{}{Undici; le giocate su don't pass e don't come line perdono.}
 {612}{}{Due, Crap; vincono le giocate su don't pass e don't come line.}
 {613}{}{Tre, Crap; vincono le giocate su don't pass e don't come line.}
-{614}{}{Dodici, Crap; vincono le giocate su don't pass e don't come line.}
+{614}{}{Dodici, Crap; le giocate su don't pass e don't come line finiscono in pareggio.}
 {620}{}{La puntata sulla combinazione 7 secco...}
-{621}{}{Puntata speciale doppio 3}
+{621}{}{La puntata sulla combinazione doppio 3...}
 {622}{}{La puntata sulla combinazione doppio 4...}
 {623}{}{La puntata sulla combinazione doppio 5...}
 {624}{}{La puntata sulla combinazione doppio 2...}
@@ -130,7 +130,7 @@
 {711}{}{Dado2:}
 {712}{}{Mi spiace. Devo andare.}
 {713}{}{Scusa, non voglio fare questa puntata.}
-{714}{}{Il gioco cambia.}
+{714}{}{Nessun numero di gioco.}
 {800}{}{Puntata sui numeri di gioco.}
 {801}{}{Scegliere moltiplicatore. Puntata su:}
 {802}{}{x volte la quota giocata.}
@@ -142,5 +142,5 @@
 {808}{}{Puntata sul numero di gioco 9.}
 {809}{}{Puntata sul numero di gioco 10.}
 {810}{}{Scommette su quale numero?}
-{1100}{}{Vedi un uomo dallo sguardo acuto e con un chiaro senso per gli affari.}
-{1102}{}{Ha un bastoncino e un sacco di monete. Potresti tentare la fortuna con lei.}
+{1100}{}{Vedi una donna dallo sguardo acuto e con un chiaro senso per gli affari.}
+{1102}{}{Ha un bastoncino e un sacco di fiches. Potresti tentare la fortuna con lei.}

@@ -1,4 +1,4 @@
-{100}{}{Vedi uno Shi molto agitato.}
+{100}{}{Vedi uno Shi molto entusiasta.}
 {101}{}{Vedi Mai Da Chiang, proprietario del Red 888 Guns.}
 {102}{}{Questo paffuto Shi sembra essere perennemente su di giri.}
 {103}{}{Salve! Benvenuta al Red 888 Guns! Io sono Mai Da Chiang, il proprietario. Come posso aiutarti?}
@@ -23,7 +23,7 @@
 {122}{}{Starei cercando delle armi.}
 {123}{}{Parlami di questa citta'.}
 {124}{}{Scordatelo.}
-{125}{}{Viviamo qui da molto tempo, ma non siamo qui da sempre. Il dr. Fung conosce tutta la storia. Ma immagino tu voglia sapere cosa facciamo adesso.}
+{125}{}{Viviamo qui da molto tempo, ma non siamo qui da sempre. Il Dr. Fung conosce tutta la storia. Ma immagino tu voglia sapere cosa facciamo adesso.}
 {126}{}{Gia'.}
 {127}{}{No; veramente vorrei conoscere la vostra storia. Andro' a cercare Fung. Ci vediamo.}
 {128}{}{Oggi, noi siamo per lo piu' pescatori e scienziati. I nostri pescatori pescano il pesce. I nostri scienziati stanno lavorando ad un progetto che dicono cambiera' il mondo.}

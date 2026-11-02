@@ -1,8 +1,8 @@
 {100}{}{Vedi un grosso Deathclaw. Questa creatura e' un enorme ammasso di muscoli possenti, denti aguzzi e artigli affilati.}
 {101}{}{Vedi Gruthar, leader dei Deathclaw.}
 {102}{}{Vedi il Deathclaw piu' impressionante che potresti immaginare. Sicuramente questa creatura e' un esemplare eccezionale della sua specie.}
-{103}{}{Non aver paura di me, umano. Non ho intenzione di farti del male. Io sono Gruthar, leader di questo branco di Deathclaw. Perche' sei giunto qui?}
-{104}{}{Perche' sei giunto qui?}
+{103}{}{Non aver paura di me, umana. Non ho intenzione di farti del male. Io sono Gruthar, leader di questo branco di Deathclaw. Perche' sei giunta qui?}
+{104}{}{Perche' sei giunta qui?}
 {105}{}{Uh...}
 {106}{}{Per romperti il culo!}
 {107}{}{Com'e' possibile che un Deathclaw parli... e cosi' bene?}
@@ -11,18 +11,18 @@
 {110}{}{Mi e' stato chiesto di eliminare un branco di pericolosi Deathclaw...}
 {111}{}{Sto facendo delle indagini riguardo agli assalti contro i ranch di brahmin della zona. Tu ne sai qualcosa?}
 {112}{}{Adesso credo proprio di dover andare.}
-{113}{}{Tu non sei un idiota, umano. Lo posso capire guardando i tuoi occhi. Ti prego, non cercare di ingannarmi. La mia pazienza, in casi come questi, e' molto limitata.}
-{114}{}{Molto bene. Se preferisci che si pensi che sei un idiota, cosi' sia. Torna da me, se cambi idea.}
-{115}{}{Oh, perdonami. Pare proprio che tu abbia dei problemi. Non sei una minaccia per me o per il branco. Sei il benvenuto e sei libero di considerare questo posto come un rifugio al sicuro dal mondo esterno. Non fare del male agli altri che vivono qui, sta' lontano dai guai e sarai sempre il benvenuto.}
+{113}{}{Tu non sei un'idiota, umana. Lo posso capire guardando i tuoi occhi. Ti prego, non cercare di ingannarmi. La mia pazienza, in casi come questi, e' molto limitata.}
+{114}{}{Molto bene. Se preferisci che si pensi che sei un'idiota, cosi' sia. Torna da me, se cambi idea.}
+{115}{}{Oh, perdonami. Pare proprio che tu abbia dei limiti intellettivi. Non sei una minaccia per me o per il branco. Sei la benvenuta e sei libera di considerare questo posto come un rifugio al sicuro dal mondo esterno. Non fare del male agli altri che vivono qui, sta' lontano dai guai e sarai sempre la benvenuta.}
 {116}{}{Perdonami. Non e' mia intenzione essere scortese, ma non vedo che importanza possa avere questo argomento nella nostra conversazione. Posso parlare la tua lingua e posso leggere cio' che scrivi. Che bisogno c'e' di dire altro?}
 {117}{}{Capisco.}
-{118}{}{Non vorrei sembrare indiscreto, ma sono sicuro che comprenderai la mia curiosita'...}
+{118}{}{Non vorrei impicciarmi, ma di certo comprenderai il mio interesse per la cosa...}
 {119}{}{Certo... beh, che ne diresti di far decidere a me se questo argomento e' importante o meno?}
-{120}{}{Si', certo. Molto bene. Se ci lasciamo da amici, umano, ti consiglio di parlare con Goris. La sua conoscenza di questo argomento e' maggiore della mia. Di solito lo puoi trovare nella biblioteca del Vault.}
+{120}{}{Si', certo. Molto bene. Se ci lasciamo da amici, umana, ti consiglio di parlare con Goris. La sua conoscenza di questo argomento e' maggiore della mia. Di solito lo puoi trovare nella biblioteca del Vault.}
 {121}{}{Grazie. Non vedo l'ora di parlare con Goris.}
 {122}{}{Non ho alcuna intenzione di aggiungere un Deathclaw alla lista dei miei amici. Addio!}
 {123}{}{Okay.}
-{124}{}{Se ne sono andati, umano. Noi non li abbiamo uccisi per impossessarci della loro dimora. Non e' nostra abitudine uccidere. Posso capire che tu non mi creda, ma spero mi giudicherai per il mio comportamento nei tuoi confronti e non in base alla paura o al pregiudizio.}
+{124}{}{Se ne sono andati, umana. Noi non li abbiamo uccisi per impossessarci della loro dimora. Non e' nostra abitudine uccidere. Posso capire che tu non mi creda, ma spero mi giudicherai per il mio comportamento nei tuoi confronti e non in base alla paura o al pregiudizio.}
 {125}{}{Ehi, e se invece adesso ti spaccassi il muso?}
 {126}{}{Credo che tu sia una creatura onorevole, Gruthar.}
 {127}{}{Immagino di si'.}
@@ -38,19 +38,19 @@
 {137}{}{Capisco, Gruthar, e rispettero' la tua richiesta di privacy.}
 {138}{}{Posso capire la tua preoccupazione. Non mi conosci abbastanza per fidarti di me. Se io vi aiutassi in qualche modo, in cambio mi permetteresti di dare un'occhiata qui dentro?}
 {139}{}{(Gruthar ti fissa attentamente per un momento.) Vorresti davvero aiutarci? Si', percepisco poca malvagita' in te. Molto bene, credo che mi fidero' di te.}
-{140}{}{(Gruthar ti fissa attentamente per un momento.) No. Percepisco una grande malvagita' in te, umano. Non posso permettermi di rischiare le vite di chi proteggo, dandoti una possibilita'.}
+{140}{}{(Gruthar ti fissa attentamente per un momento.) No. Percepisco una grande malvagita' in te, umana. Non posso permettermi di rischiare le vite di chi proteggo, dandoti una possibilita'.}
 {141}{}{Grazie.}
 {142}{}{Bene. Credo che una lobotomia a pistolettate possa essere un'ottima soluzione al mio problema.}
 {143}{}{Mi dispiace che tu la pensi cosi', Gruthar.}
 {144}{}{Me ne andro', allora.}
 {145}{}{Ci sono diversi macchinari qui; macchinari costruiti dagli umani. Le mani dei Deathclaw non possono usare questi macchinari. Tuttavia, uno di questi e' in grado di comprendere domande fatte a voce. Io chiedo a lui di gestire le altre macchine e lui obbedisce. Questo macchinario adesso e' sordo. Non controlla piu' le altre macchine. Stiamo finendo l'acqua e il cibo. Ho dato ordine di effettuare incursioni nei territori umani per garantirci la sopravvivenza. Non sono fiero di questa mia decisione e vorrei metter fine alle razzie. Se riparerai questo macchinario, io saro' in grado di sfamare nuovamente la mia gente. A quel punto interrompero' con piacere le incursioni. Siamo d'accordo, allora?}
 {146}{}{Mi spiace, ma non ho idea di come fare per riparare una cosa del genere.}
-{147}{}{Non sono un tecnico, ma posso fare un tentativo.}
+{147}{}{Non me ne intendo, ma posso fare un tentativo.}
 {148}{}{Hmm... sembra che il modulo di riconoscimento vocale sia saltato. Vediamo di darci un occhio.}
 {149}{}{Ho cambiato idea. Ho bisogno di altro tempo per decidere.}
 {150}{}{Faro' quello che posso per voi.}
 {151}{}{Mi rifiuto di aiutare i Deathclaw.}
-{152}{}{Grazie. Il macchinario si trova nel centro di controllo del vault, al terzo piano. Se puoi ripararlo, ti prego di farlo. Ho riposto la mia fiducia in te. Ti prego, non tradirla. Sei la benvenuta.}
+{152}{}{Grazie. Il macchinario si trova nel centro di controllo del Vault, al terzo piano. Se puoi ripararlo, ti prego di farlo. Ho riposto la mia fiducia in te. Ti prego, non tradirla. Sei la benvenuta.}
 {153}{}{Non ti deludero', Gruthar. Hai la mia parola.}
 {154}{}{Grazie. Me ne occupo io.}
 {155}{}{E' proprio vero che la madre dei cretini e' sempre incinta...}
@@ -83,8 +83,8 @@
 {182}{}{Avevi detto che mi avresti fatto sapere se aveste trovato un GECK. Ne avete trovato uno?}
 {183}{}{Si', sto cercando un GECK. Mi e' stato detto che qui avrei potuto trovarne uno. Sai dove si trova?}
 {184}{}{No, grazie. Ho tutto quel che mi serve.}
-{185}{}{Ah, fammi vedere. [Se ne va, poi ritorna un momento dopo, stringendo goffamente una specie di contenitore metallico tra i suoi grandi artigli.] Si', c'era un G.E.C.K. nel deposito del vault. E' tuo, con tanta gratitudine.}
-{186}{}{Si', nel magazzino del vault era conservato un geck. Purtroppo e' scomparso. Mi dispiace, ma non posso dartelo come ricompensa per tutto quello che hai fatto per noi.}
+{185}{}{Ah, fammi vedere. [Se ne va, poi ritorna un momento dopo, stringendo goffamente una specie di contenitore metallico tra i suoi grandi artigli.] Si', c'era un G.E.C.K. nel deposito del Vault. E' tuo, con tanta gratitudine.}
+{186}{}{Si', nel magazzino del Vault era conservato un geck. Purtroppo e' scomparso. Mi dispiace, ma non posso dartelo come ricompensa per tutto quello che hai fatto per noi.}
 {187}{}{Grazie!}
 {188}{}{Uh... non c'e' problema. Ne cerchero' uno da qualche altra parte.}
 {189}{}{Bentornata, umana. Spero che tu non voglia ancora fare la stupida con me.}
@@ -93,7 +93,7 @@
 {192}{}{Uh, me scusa.}
 {193}{}{Salve, umana. Hai cambiato idea? Mi aiuterai?}
 {194}{}{Diavolo, no. Volevo solo sentire ancora una volta il tuo assurdo modo di parlare.}
-{195}{}{No, non credo che lo faro'.}
+{195}{}{No, direi di no.}
 {196}{}{Si', Gruthar. Ti aiutero'.}
 {197}{}{Bentornata, amica. Hai gia' controllato il macchinario?}
 {198}{}{Non ancora, ma lo faro'.}
@@ -103,27 +103,27 @@
 {202}{}{Muori, umana traditrice!}
 {203}{}{}
 {204}{}{}
-{205}{}{Non ho motivo di litigare con te, umano, e non ne voglio uno. Sto cercando di comportarmi cortesemente con te. Sei pregato di ricambiare il favore!}
+{205}{}{Non ho motivo di litigare con te, umana, e non ne voglio uno. Sto cercando di comportarmi cortesemente con te. Ti prego di ricambiare il favore!}
 {206}{}{D'accordo... parliamo, allora.}
 {207}{}{Tu sei un Deathclaw e questo equivale ad una condanna a morte... nei tuoi confronti!}
 {208}{}{Scusami, Gruthar. Parliamo.}
 {209}{}{Vabbe'. Me ne vado.}
 {210}{}{No. Qui il capo sono io e quindi decido io. Se non ti sta bene, puoi tornartene nel territorio umano!}
-{211}{}{Crepa!}
+{211}{}{Succhiamelo!}
 {212}{}{OK, me ne vado.}
 {213}{}{Certo, Gruthar. Non so cosa mi sia preso.}
 {214}{}{Ti assicuro che non volevo prenderti in giro. Ti prego di scusarmi se ti ho dato questa impressione. Vorrei aiutarti, se possibile.}
 {215}{}{Beh, grazie.}
 {216}{}{Mi dispiace, non era mia intenzione.}
 {217}{}{Piantala con 'sta storiella dell'educazione, amico. Con me non attacca.}
-{218}{}{(Gruthar emette una serie di versi gutturali) Potro' anche non essere il legittimo proprietario di questo luogo, umano, ma questa e' casa mia e di tutti quelli che contano su di me per la loro protezione. Non provocarmi o succedera' qualcosa della quale ci pentiremo entrambi!}
-{219}{}{Mi dispiace; sono stato sgarbato e tracotante.}
+{218}{}{(Gruthar emette una serie di versi gutturali) Potro' anche non essere il legittimo proprietario di questo luogo, umana, ma questa e' casa mia e di tutti quelli che contano su di me per la loro protezione. Non provocarmi o succedera' qualcosa della quale ci pentiremo entrambi!}
+{219}{}{Mi dispiace; ho mancato di rispetto e ho esagerato.}
 {220}{}{Affanculo te e tutti quelli che ti assomigliano!}
 {221}{}{Whoa! Me ne vado.}
 {222}{}{Grazie. Ti prego, va' nella sala di controllo e sostituisci il modulo.}
 {223}{}{Consideralo fatto!}
 {224}{}{}
-{225}{}{Al momento non sei la benvenuta qui. Sei pregato di andartene.}
+{225}{}{Al momento non sei la benvenuta qui. Ti prego di andartene.}
 {226}{}{Addio.}
 {227}{}{Addio.}
 {228}{}{Fatto.}

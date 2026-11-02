@@ -1,6 +1,6 @@
-{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto alla tuta dell'Abitante del Vault, ma non c'e' nessun numero sulla schiena.}
 {101}{}{Vedi un Cittadino di Vault City.}
-{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto alla tuta dell'Abitante del Vault, ma non c'e' nessun numero sulla schiena.}
 {103}{}{::applaude::}
 {104}{}{E' l'eroe! Guardate!}
 {105}{}{Santo cielo! E' l'eroe, qui, a Vault City!}
@@ -12,8 +12,8 @@
 {111}{}{Ti vuoi fermare a mangiare da noi?}
 {112}{}{Un mutante! Guardie! Guardie!}
 {113}{}{Un ghoul! Guardie! Guardie!}
-{114}{}{Sei pregato di pulirti i piedi prima di entrare in casa.}
-{115}{}{Scusa, sei stato forse invitato ad entrare?}
+{114}{}{Per favore, pulisciti i piedi prima di entrare in casa.}
+{115}{}{Scusa, ti abbiamo forse invitato a entrare?}
 {116}{}{Posso aiutarti?}
 {117}{}{Voi Esterni dovreste proprio imparare le buone maniere.}
 {118}{}{Tipico di un Esterno, entrare senza invito...}
@@ -42,7 +42,7 @@
 {141}{}{Come Cittadini, uno dei nostri doveri civici e' compilare e tenere aggiornate le liste.}
 {142}{}{Ti prego, Cittadino, fermati a mangiare da noi. Il nostro servo sta preparando un ottimo gulasch.}
 {143}{}{Ho passato quasi tutto il giorno a redigere quella lista per il Proconsole prima, e a controllarla poi. Adoro compilare liste.}
-{144}{}{Lavoro all'Ufficio Liste. Molti di noi lo fanno. Qui a Vault City *adoriamo* compilare liste.}
+{144}{}{Lavoro all'Ufficio Liste, come quasi tutti noi. Qui a Vault City *adoriamo* compilare liste.}
 {145}{}{Oggi ho passato quasi tutto il giorno ad aggiornare quella lista per l'Ufficio Liste. Tempo molto ben speso, davvero.}
 {146}{}{Ho sentito che hai viaggiato per il mondo esterno. Come sei riuscito a sopravvivere tra quei luridi Esterni?}
 {147}{}{Oh! Tu devi essere il nuovo Cittadino. Benvenuto a Vault City.}
@@ -58,8 +58,8 @@
 {157}{}{Si'?}
 {158}{}{Scusa, posso aiutarti?}
 {159}{}{Sarebbe educazione chiedere il permesso, prima di entrare in casa di qualcuno.}
-{160}{}{Sei pregato di pulirti i piedi prima di entrare in casa.}
-{161}{}{Scusa, sei stato forse invitato ad entrare?}
+{160}{}{Per favore, pulisciti i piedi prima di entrare in casa.}
+{161}{}{Scusa, ti abbiamo forse invitato a entrare?}
 {162}{}{Posso aiutarti?}
 {163}{}{Voi Esterni dovreste proprio imparare le buone maniere.}
 {164}{}{La citta' ci fornisce tutto cio' di cui abbiamo bisogno.}

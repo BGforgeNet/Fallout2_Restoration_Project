@@ -25,9 +25,9 @@
 {525}{}{[Qui ci sono tre annunci.]}
 {550}{}{Tubby vende ogni tipo d'oggetto, ma soprattutto droghe e munizioni.}
 {575}{}{Potete trovare Tubby nell'edificio a ovest di questa bacheca. E' la prima casa alla vostra destra quando entrate in citta'.}
-{600}{}{Flick vende vari oggetti nel suo 'ufficio', nell'edificio residenziale subito a sud di qui e subito a sud del Casino' Bar di Rebecca.}
+{600}{}{Flick vende vari oggetti nel suo 'ufficio', nell'edificio residenziale subito a sud di qui proprio sotto il Casino' Bar di Rebecca.}
 {625}{}{Smitty e' il meccanico del posto. Talvolta ha delle cose da vendere.}
-{650}{}{Smitty si trova nella discarica nell'angolo sudovest della citta'.}
+{650}{}{Smitty si trova nel deposito rottami nell'angolo sudovest della citta'.}
 {1000}{}{Continua}
 {1010}{}{Indicazioni:}
 {1020}{}{Esci}

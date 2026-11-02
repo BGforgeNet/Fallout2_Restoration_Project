@@ -13,9 +13,9 @@
 {207}{}{Intendi questo vecchio arnese? [Abbassa lo sguardo sulla pala arrugginita tra le mani.] Be', ehm, non si sa mai quando
  potresti trovare qualcosa che ha bisogno di essere scavato. Bisogna essere sempre pronti, dico io.}
 {208}{}{Trovare qualcosa, eh? Intendi tipo qualcosa in una tomba?}
-{209}{}{E' davvero un buon motto. Bene, prenditi cura di te.}
+{209}{}{E' davvero un buon motto. Bene, abbi cura di te.}
 {210}{}{(Gli occhi di Tom si spalancano) Non sono del tutto sicuro di cosa, ehm, intendi.}
-{211}{}{Tom, sei in un cimitero, sei coperto di fango e sono passate la mezzanotte. Persino Torr potrebbe trarre una
+{211}{}{Tom, sei in un cimitero, sei coperto di fango e e' passata la mezzanotte. Persino Torr potrebbe trarre una
  conclusione da questo. E' ora di darmi qualche risposta, Tom. Perche' stai dissotterrando queste tombe?}
 {212}{}{[Posa la pala e sospira.] Va bene, te lo dico. Il mio corpo non e' piu' quello di una volta. Non ho lavoro,
  e nessun modo concreto per procurarmi del cibo. So che dissotterrare tombe non e' una cosa che la gente vede di buon occhio, ma e' stato un modo per
@@ -35,19 +35,19 @@
  Sono sicuro che possa aiutarti in qualche modo.}
 {221}{}{(Gli occhi del vecchio si illuminano.) Non sembra affatto una cattiva idea. Ehi, grazie. Forse questo mondo non e' cosi'
  crudele come pensavo.}
-{222}{}{Prenditi cura di te allora, Tom. Controllero' come vanno le cose piu' tardi.}
+{222}{}{Allora abbi cura di te, Tom. Controllero' come vanno le cose piu' tardi.}
 {223}{}{Spero proprio che quel Peterson sia amichevole come dici tu.}
 {300}{}{Vedi Tom. Indossa abiti da lavoro nuovi e fischietta allegramente.}
 {301}{}{Ehi! Wow, avevi ragione. Quel Sig. Peterson e' davvero un tipo gentile. Mi ha perdonato per quello che ho fatto e mi ha persino
  offerto un lavoro ad aiutare nei campi. Dice che una volta che avro' ripagato il cibo che ho preso, iniziero' a guadagnare uno
  stipendio settimanale. Grazie ancora per il disturbo.}
-{302}{}{Prego, Tom. Prenditi cura di te.}
+{302}{}{Prego, Tom. Abbi cura di te.}
 {303}{}{Va bene, lo fa- Oh, aspetta un secondo. Voglio darti qualcosa per aver aiutato un vecchio come me. Ho trovato questo
- accendino addosso a un ragazzo che ho dissotterrato un paio di settimane fa. A me non serve e sperabilmente potrebbe servirti.}
+ accendino addosso a un ragazzo che ho dissotterrato un paio di settimane fa. A me non serve e spero che a te possa servire.}
 {304}{}{Grazie, Tom. Sono sicuro che mi tornera' utile. A presto.}
 {305}{}{(Il vecchio annuisce e torna a quello che stava facendo.)}
 {306}{}{[FINE]}
-{307}{}{Rieccomi. Grazie mille di tutto!}
+{307}{}{Ciao di nuovo. Grazie mille di tutto!}
 {308}{}{*Fischio*}
 {400}{}{Voi giovani non imparate mai. Non sei il mio capo. Penso che ti ammazzero' invece.}
 {450}{}{Senti, anch'io ho dissotterrato la mia parte di tombe. Sono un po' cleptomane. Qual e' il tuo motivo?}

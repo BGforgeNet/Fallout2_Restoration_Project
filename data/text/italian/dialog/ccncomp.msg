@@ -18,7 +18,7 @@
 {117}{}{Dov'e' situata l'armeria?}
 {118}{}{Dov'e' situato l'ufficio del comandante della base?}
 {119}{}{Credo sia tutto.}
-{120}{}{Ricerca in corso... Accesso all'inventario corrente in corso... Dati acquisiti. I dati attuali indicano che 1 set di schemi tecnici del vertibird e' disponibile. Quattro copie degli schemi tecnici del vertibird sono state ordinate da questa base. Quattro copie degli schemi tecnici del vertibird sono stati consegnati a questa base. Tre copie degli schemi tecnici del vertibird sono stati dichiarati perduti, secondo rapporto. Gli schemi tecnici del vertibird sono custoditi nel reparto manutenzione.}
+{120}{}{Ricerca in corso... Accesso all'inventario corrente in corso... Dati acquisiti. I dati attuali indicano che 1 set di schemi tecnici del vertibird e' disponibile. Quattro copie degli schemi tecnici del vertibird sono state ordinate in questo trimestre. Quattro copie degli schemi tecnici del vertibird sono state consegnate in questo trimestre. Tre copie degli schemi tecnici del vertibird sono state dichiarate perdute in questo trimestre. Gli schemi tecnici del vertibird sono custoditi nel reparto manutenzione.}
 {121}{}{Okay. Dove essere manutenzione?}
 {122}{}{Bene. Dov'e' situato il reparto manutenzione?}
 {123}{}{Ricerca in corso... Accesso ai file architettonici della base in corso... Dati acquisiti. Il reparto manutenzione e' situato al pian terreno nel quadrante nordest della base. }

@@ -9,29 +9,29 @@
 {204}{}{Ho notato che sembri turbato da qualcosa. Mi chiedevo se potessi aiutarti.}
 {210}{}{Il mio problema? [Ride amaramente.] Lao wai, non vuoi conoscere il mio problema. Sentire dolori come i miei
  significa dimenticare il suono della risata di un bambino e il caldo abbraccio di un amante. No, fidati, non vuoi dare uno sguardo al mio inferno personale.}
-{211}{}{Ho visto molte cose terribili nella mia vita. Sono sicuro che qualunque sia il tuo problema, posso affrontarlo.}
+{211}{}{Ho visto molte cose terribili nella mia vita. Qualunque sia il tuo problema, di sicuro posso affrontarlo.}
 {212}{}{Pensi che i *tuoi* problemi siano gravi? Scommetto che non *reggono il confronto* con quello che ho passato io.}
 {213}{}{Mi dispiace che tu abbia passato momenti difficili, ma parlarne potrebbe aiutare. Se hai voglia di raccontarlo, io sono qui ad ascoltare.}
 {214}{}{Va bene, signor Dramma, me ne vado prima che tu deprima anche me. Ciao.}
 {220}{}{Va bene. Vuoi sapere qual e' il mio problema? Te lo dico. Due anni fa, mio fratello, che mi assomiglia molto,
- ebbe una relazione con la ragazza di un capo banda locale. Il capo lo scopri' e mio fratello fuggii' dalla citta'.
- La banda prese me al suo posto e, credendo che fossi lui, mi punii' in modo terribile. Ora devo urinare attraverso un tubo.}
+ ebbe una relazione con la ragazza di un capo banda locale. Il capo lo scopri' e mio fratello fuggi' dalla citta'.
+ La banda prese me al suo posto e, credendo che fossi lui, per punizione mi tagliarono il pene. Ora devo urinare attraverso un tubo.}
 {221}{}{Oh, beh-- }
 {230}{}{Oh no! Non ho ancora finito. Poi la mia splendida ragazza mi lascio', perche' secondo lei non ero piu' un "vero uomo"
  e non potevo piu' renderla felice. Sposo' il mio vicino di casa, che per giunta e' anche il mio capo. Ora, tutto il giorno,
- lui mi comanda e mi prende in giro davanti ai colleghi. E ogni notte devo cercare di dormire sentendo lui con la donna che
+ lui mi comanda e mi prende in giro davanti ai colleghi. E ogni notte devo cercare di dormire sentendo lui che fa l'amore con la donna che
  avrei dovuto sposare io.}
-{231}{}{Ahah! Santo cielo, che disastro. Perche' non ti fai un favore e la smetti di rovinarti la vita cosi'?}
+{231}{}{Ahah! Porca merda, sei proprio un fallito. Perche' non ti fai un favore e la fai finita?}
 {232}{}{Io... wow, non so cosa dire. E' una storia davvero terribile.}
 {233}{}{Mi dispiace per quello che ti e' successo, Meng. La vita puo' essere crudele, ma puo' anche migliorare. Se fossi in te,
  me ne andrei altrove e cercherei un altro lavoro. Altrimenti non riuscirai mai ad andare avanti.}
-{240}{}{Si. Si, e' cio' che avrei dovuto fare molto tempo fa. E' l'unico modo per conservare quel poco di onore che mi resta.
- Grazie, lao wai. [Estrae un coltello e si ferisce mortalmente alla gola. Cadi' a terra in pochi istanti.]}
+{240}{}{Si'. Si', e' cio' che avrei dovuto fare molto tempo fa. E' l'unico modo per conservare quel poco di onore che mi resta.
+ Grazie, lao wai. [Estrae un coltello e si taglia la gola. Lo guardi morire dissanguato in pochi istanti.]}
 {241}{}{[FATTO]}
 {250}{}{Si'. Ti avevo avvertito di questo. Adesso lasciami stare. Non ho altro da dirti.}
 {251}{}{[FATTO]}
 {260}{}{Forse hai ragione. Per tutta la vita ho conosciuto solo gli Shi. Ma qui non mi resta altro che dolore.
- Si, credo che andro' nel mondo a cercare un nuovo destino. Anche se le Lande mi offrissero solo una fine rapida,
+ Si', credo che andro' nel mondo a cercare un nuovo destino. Anche se le Lande mi offrissero solo una fine rapida,
  sarebbe comunque meglio che restare qui. Grazie, lao wai.}
 {261}{}{Buona fortuna, Meng. Spero che la tua vita migliori.}
 {262}{}{Prima che tu faccia i bagagli, mi chiedevo se potessi rispondere a un paio di domande.}

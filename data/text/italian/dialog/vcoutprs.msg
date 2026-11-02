@@ -1,5 +1,5 @@
 {100}{}{Vedi un prigioniero.}
-{101}{}{Vedi uno straniero prigioniero.}
+{101}{}{Vedi un Esterno prigioniero.}
 {102}{}{Beh, questa e' l'ultima volta che infrango il coprifuoco.}
 {103}{}{Un'altra settimana e di nuovo al Centro di Collocamento...}
 {104}{}{Meglio se sparisci, amico. Se ci vedono parlare, faranno passare a tutti e due un brutto quarto d'ora.}

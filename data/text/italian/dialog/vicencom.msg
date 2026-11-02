@@ -6,7 +6,7 @@
 {105}{}{Vedi una scatola di metallo che sta parlando con se stessa con voce femminile.}
 {106}{}{Il terminale del computer si e' spento.}
 {107}{}{Inizio Diagnostica di Sistema. }
-{108}{}{Una volta avviata, la Diagnostica di Sistema puo' essere cancellata in ogni momento dall'operatore di sistema.}
+{108}{}{Una volta avviata, la Diagnostica di Sistema puo' essere annullata in qualsiasi momento dall'operatore di sistema.}
 {109}{}{Vault-Tec raccomanda di eseguire controlli a scadenze regolari per assicurare un corretto funzionamento del sistema.}
 {110}{}{Vault-Tec: La prima e ultima parola nel campo della tecnologia Vault.}
 {111}{}{Inizio Diagnostica di Sistema.}
@@ -33,13 +33,13 @@
 {132}{}{Attenzione: La porta d'entrata al Vault e' aperta. In caso di emergenza, la porta sara' sigillata.}
 {133}{}{Tutti i valori normali. Diagnostica di Sistema completata. Preparazione a scrittura su disco...}
 {134}{}{I dati sono stati salvati su olodisco. }
-{135}{}{La lista dei valori e' stata trasferita all'Ufficio centrale di Controllo Dati.}
+{135}{}{La lista dei valori e' stata trasferita all'Ufficio Liste centrale.}
 {136}{}{Tre liste di back-up sono state inserite nella Source Safe.}
-{137}{}{Un back-up di sicurezza dei dati e' stato mandato al server centrale per una successiva distribuzione a tutti gli altri terminali di Vault City.}
+{137}{}{Un back-up di sicurezza delle liste e' in corso di invio al Server Liste centrale per la distribuzione a tutti gli altri terminali di Vault City.}
 {138}{}{E' ora possibile spegnere il computer. }
 {139}{}{Grazie.}
 {140}{}{Inizio Diagnostica di Sistema. }
-{141}{}{Una volta avviata, la Diagnostica di Sistema puo' essere cancellata in ogni momento dall'operatore di sistema.}
+{141}{}{Una volta avviata, la Diagnostica di Sistema puo' essere annullata in qualsiasi momento dall'operatore di sistema.}
 {142}{}{Vault-Tec raccomanda di eseguire controlli a scadenze regolari per assicurare un corretto funzionamento del sistema.}
 {143}{}{Vault-Tec: La prima e ultima parola nel campo della tecnologia Vault.}
 {144}{}{Inizio Diagnostica di Sistema.}
@@ -59,9 +59,9 @@
 {158}{}{Attenzione: La porta d'entrata al Vault e' aperta. In caso di emergenza, la porta sara' sigillata.}
 {159}{}{Tutti i valori normali. Diagnostica di Sistema completata. Preparazione a scrittura su disco...}
 {160}{}{I dati sono stati salvati su olodisco. }
-{161}{}{La lista dei valori e' stata trasferita all'Ufficio centrale di Controllo Dati.}
+{161}{}{La lista dei valori e' stata trasferita all'Ufficio Liste centrale.}
 {162}{}{Tre liste di back-up sono state inserite nella Source Safe.}
-{163}{}{Un back-up di sicurezza dei dati e' stato mandato al server centrale per una successiva distribuzione a tutti gli altri terminali di Vault City.}
+{163}{}{Un back-up di sicurezza delle liste e' in corso di invio al Server Liste centrale per la distribuzione a tutti gli altri terminali di Vault City.}
 {164}{}{E' ora possibile spegnere il computer. }
 {165}{}{Grazie.}
 {166}{}{Vedi una scatola di metallo che parla all'aria con la voce di una donna. La donna deve trovarsi all'interno della scatola! Dev'essere molto, molto stretto li' dentro!}
@@ -73,8 +73,8 @@
 {172}{}{Ricerca negli archivi notizie riguardanti il Kit di Creazione del Giardino dell'Eden.}
 {173}{}{Inserisci il disco della centrale energetica di Gecko nel computer.}
 {174}{}{Forza il computer e cerca un modulo di riconoscimento vocale.}
-{175}{}{Inserisci il PipBoy nello slot che hai notato prima.}
-{176}{}{Inserisci il PipBoy nello slot che hai notato prima.}
+{175}{}{Inserisci il Pip-Boy nello slot che hai notato prima.}
+{176}{}{Inserisci il Pip-Boy nello slot che hai notato prima.}
 {177}{}{Spegni il terminale.}
 {178}{}{La scatola di metallo non risponde.}
 {179}{}{Prova a forzare la scatola per permettere alla donna di uscire.}
@@ -88,43 +88,43 @@
 {187}{}{Forzi il pannello sotto il macchinario e cerchi il modulo di riconoscimento vocale. Non lo riesci a trovare... i circuiti di questo computer sembrano molto diversi da quelli del computer del Vault 13.}
 {188}{}{Rimetti a posto il pannello ed esamina gli archivi del computer.}
 {189}{}{Come si dice: provare non costa nulla. Sara' meglio andare a cercare da un'altra parte.}
-{190}{}{Come rimetti al suo posto il pannello, tuttavia, ti accorgi immediatamente di un piccolo disegno sotto al terminale, raffigurante il Pip Boy. Accanto al disegno c'e' uno slot che sembra delle stesse dimensioni del tuo PipBoy.}
-{191}{}{Inserisci il tuo PipBoy nello slot vuoto.}
+{190}{}{Come rimetti al suo posto il pannello, tuttavia, ti accorgi immediatamente di un piccolo disegno sotto al terminale, raffigurante il Pip-Boy. Accanto al disegno c'e' uno slot che sembra delle stesse dimensioni del tuo Pip-Boy.}
+{191}{}{Inserisci il tuo Pip-Boy nello slot vuoto.}
 {192}{}{Abbandona il terminale.}
-{193}{}{Proprio mentre stai per andartene, sotto la scatola di metallo vedi un omino sorridente uguale a quello del tuo piccolo PipBoy lampeggiante! Sta indicando uno spazio vuoto accanto a lui. Forse vuole parlare con l'omino del tuo Pipboy.}
-{194}{}{Proprio mentre stai per andartene, tutt'a un tratto noti un piccolo disegno raffigurante il Pip Boy, situato sotto al terminale. Accanto al disegno c'e' uno slot che sembra delle stesse dimensioni del tuo PipBoy.}
-{195}{}{Incastra il tuo omino PipBoy-portatile-vattelapesca nello slot, cosicche' possa parlare col suo amico.}
-{196}{}{Inserisci il tuo PipBoy nello slot vuoto.}
+{193}{}{Proprio mentre stai per andartene, sotto la scatola di metallo vedi un omino sorridente uguale a quello del tuo piccolo Pip-Boy lampeggiante! Sta indicando uno spazio vuoto accanto a lui. Forse vuole parlare con l'omino del tuo Pip-Boy.}
+{194}{}{Proprio mentre stai per andartene, tutt'a un tratto noti un piccolo disegno raffigurante il Pip-Boy, situato sotto al terminale. Accanto al disegno c'e' uno slot che sembra delle stesse dimensioni del tuo Pip-Boy.}
+{195}{}{Incastra il tuo omino Pip-Boy-portatile-vattelapesca nello slot, cosicche' possa parlare col suo amico.}
+{196}{}{Inserisci il tuo Pip-Boy nello slot vuoto.}
 {197}{}{Abbandona il terminale.}
-{198}{}{Ragazzi! Quei due sembrano avere un SACCO di cose da dirsi! Parlano con parole buffe che assomigliano molto a dei cigolii, a dei bip, e al verso delle mantidi. Alla fine, c'e' un bip, e il tuo PipBoy esce.}
-{199}{}{Prendi il tuo PipBoy e te ne vai.}
-{200}{}{Una piccola finestra si apre sullo schermo del terminale con accanto un Pip Boy sorridente. Mentre guardi, il Pip Boy comincia a fischiettare in silenzio e a battere per terra il piede. Una luce rossa sta lampeggiando a fianco dello slot del computer.}
+{198}{}{Ragazzi! Quei due sembrano avere un SACCO di cose da dirsi! Parlano con parole buffe che assomigliano molto a dei cigolii, a dei bip, e al verso delle mantidi. Alla fine, c'e' un bip, e il tuo Pip-Boy esce.}
+{199}{}{Prendi il tuo Pip-Boy e te ne vai.}
+{200}{}{Una piccola finestra si apre sullo schermo del terminale con accanto un Pip-Boy sorridente. Mentre guardi, il Pip-Boy comincia a fischiettare in silenzio e a battere per terra il piede. Una luce rossa sta lampeggiando a fianco dello slot del computer.}
 {201}{}{Aspetta...}
 {202}{}{Cancella la procedura e spegni il terminale.}
-{203}{}{Un cigolio non molto rassicurante proviene dallo slot del PipBoy. Il Pip Boy continua a fischiettare in silenzio e a battere il piede.}
+{203}{}{Un cigolio non molto rassicurante proviene dallo slot del Pip-Boy. Il Pip-Boy continua a fischiettare in silenzio e a battere il piede.}
 {204}{}{Aspetta...}
 {205}{}{Cancella la procedura e spegni il terminale.}
-{206}{}{Il Pip Boy improvvisamente si ferma e aggrotta le sopracciglia. Un punto esclamativo compare sopra la sua testa, e il Pip Boy comincia a muovere l'indice nella tua direzione. }
+{206}{}{Il Pip-Boy improvvisamente si ferma e aggrotta le sopracciglia. Un punto esclamativo compare sopra la sua testa, e il Pip-Boy comincia a muovere l'indice nella tua direzione. }
 {207}{}{Rispondi con il dito medio a quel piccolo bastardo!}
 {208}{}{Prova a capire cosa c'e' che non va.}
 {209}{}{Cancella la procedura e spegni il terminale.}
-{210}{}{Un piccolo display sotto il Pip Boy dice che l'ultimo controllo diagnostico era fissato per 50.352 giorni fa. Gli archivi sono corrotti e hanno bisogno di essere "ri-formattati". Desideri procedere?}
+{210}{}{Un piccolo display sotto il Pip-Boy dice che l'ultima manutenzione programmata risale a 50,352 anni fa. Gli archivi sono corrotti e hanno bisogno di essere "ri-formattati". Desideri procedere?}
 {211}{}{Uh... certo.}
 {212}{}{Cos... no! Assolutamente no! }
 {213}{}{Cancella la procedura e spegni il terminale.}
-{214}{}{Inizio procedura di inizializzazione... Riformattazione PipBoy in corso...}
+{214}{}{Inizio procedura di inizializzazione... Riformattazione Pip-Boy in corso...}
 {215}{}{}
 {216}{}{Aspetta...}
 {217}{}{Cancella la procedura e spegni il terminale.}
 {218}{}{Inizio procedura di inizializzazione...}
-{219}{}{                             Riformattazione PipBoy in corso...}
-{220}{}{Ehi! Ridammi il mio dannato PipBoy!}
+{219}{}{                             Riformattazione Pip-Boy in corso...}
+{220}{}{Ehi! Ridammi il mio dannato Pip-Boy!}
 {221}{}{Cancella! Cancella! }
-{222}{}{L'Archivio Geografico della California Settentrionale sta per essere copiato nel database del PipBoy. }
-{223}{}{Copia dell'archivio in corso... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download completato.}
+{222}{}{L'Archivio Geografico della California Settentrionale sta per essere copiato nel database del Pip-Boy. }
+{223}{}{Copia dell'archivio in corso... Broken Hills... Gecko... Repubblica della Nuova California... New Reno... Redding... Vault City... Download completato.}
 {224}{}{Continua la ricerca negli archivi per altre informazioni.}
 {225}{}{Spegni il terminale.}
-{226}{}{Sei tornato al menu principale. Una serie di archivi e di programmi di ricerca sono elencati sullo schermo del terminale.}
+{226}{}{Torni al menu principale. Una serie di archivi e di programmi di ricerca sono elencati sullo schermo del terminale.}
 {227}{}{Cerca negli archivi notizie riguardanti il Vault 13.}
 {228}{}{Cerca dei riferimenti al Kit di Creazione del Giardino dell'Eden.}
 {229}{}{Richiama i rapporti riguardanti il generatore di energia di Vault City. }
@@ -132,8 +132,8 @@
 {231}{}{Secondo i rapporti di rendimento, sembra che Gordon avesse ragione. Il generatore di Vault City si sta gia' avvicinando al suo limite. Senza una nuova fonte di energia, Vault City non potra' espandersi.}
 {232}{}{Continua la ricerca negli archivi.}
 {233}{}{Spegni il terminale.}
-{234}{}{Gli archivi riportano solo due vault: il Vault 8 (questo Vault) e il Vault 15, situato a sud. Stranamente, non c'e' menzione del Vault 13.}
-{235}{}{Inserisci la posizione del Vault 15 nel tuo PipBoy.}
+{234}{}{Gli archivi riportano solo due Vault: il Vault 8 (questo Vault) e il Vault 15, situato molto piu' a sud. Stranamente, non c'e' menzione del Vault 13.}
+{235}{}{Inserisci la posizione del Vault 15 nel tuo Pip-Boy.}
 {236}{}{Continua la ricerca negli archivi per altre informazioni.}
 {237}{}{Spegni il terminale.}
 {238}{}{Secondo gli archivi, attualmente non ci sono GECK disponibili, nell'Emporio Centrale di Vault City. Pare che la gente di Vault City, tornata in superficie, abbia usato l'unico che avevano come aiuto per costruire questo posto.}
@@ -142,17 +142,17 @@
 {241}{}{Esegui una ricerca incrociata di informazioni riguardanti la consegna dei GECK.}
 {242}{}{Ritorna al menu principale.}
 {243}{}{Spegni il terminale.}
-{244}{}{A causa di un errore di consegna, pare che il Vault 8 abbia ricevuto una partita extra di Water-Chip, destinata in origine ad un altro Vault. E' molto probabile che quest'altro Vault abbia ricevuto il secondo GECK del Vault 8.}
+{244}{}{A causa di un errore di consegna, pare che il Vault 8 abbia ricevuto una partita extra di chip dell'acqua, destinata in origine ad un altro Vault. E' molto probabile che quest'altro Vault abbia ricevuto il secondo GECK del Vault 8.}
 {245}{}{Ritorna al menu principale.}
 {246}{}{Spegni il terminale.}
-{247}{}{Sullo schermo del terminale si apre una piccola finestra con un Pip Boy sorridente al suo fianco. Mentre osservi, il Pip Boy ti guarda in faccia, strizza l'occhio, e ti fa il gesto del pollice alzato. Accanto allo slot del computer, una luce rossa sta lampeggiando.}
-{248}{}{Ricambia il gesto al Pip Boy.}
-{249}{}{Mostra il dito medio al Pip Boy.}
-{250}{}{Informazioni sullo Sviluppo di Fallout 2 verranno adesso caricate nel database del PipBoy. Copia del file in corso... Informazioni sullo Sviluppo vengono ora caricate nel database del Pipboy. Copia del file in corso... Crediti Sviluppo Vault City... Download completato.}
+{247}{}{Sullo schermo del terminale si apre una piccola finestra con un Pip-Boy sorridente al suo fianco. Mentre osservi, il Pip-Boy ti guarda in faccia, strizza l'occhio, e ti fa il gesto del pollice alzato. Accanto allo slot del computer, una luce rossa sta lampeggiando.}
+{248}{}{Ricambia il gesto al Pip-Boy.}
+{249}{}{Mostra il dito medio al Pip-Boy.}
+{250}{}{Le informazioni sullo sviluppo di Fallout 2 vengono caricate nel database del Pip-Boy. Copia del file in corso... Crediti Sviluppo Vault City... Download completato.}
 {251}{}{Grazie.}
 {252}{}{Sara' meglio che questa perdita di tempo sia valsa un po' di punti abilita' extra, altrimenti mi arrabbio...}
-{253}{}{Il Pip Boy sullo schermo ti saluta con la mano e poi lo schermo diventa nero. Il terminale si e' spento.}
-{254}{}{[Te ne vai.]}
+{253}{}{Il Pip-Boy sullo schermo ti saluta con la mano e poi lo schermo diventa nero. Il terminale si e' spento.}
+{254}{}{[Vattene.]}
 {255}{}{Si', fai bene a sparire, piccolo stronzo.}
 {256}{}{Il terminale si e' spento. Non hai idea di cosa fare per riattivare il sistema.}
 {257}{}{Te ne vai.}
@@ -174,11 +174,11 @@
 {300}{}{Proprio mentre stai per tornare all'elenco degli archivi, noti abilmente una voce nascosta nella lista.}
 {301}{}{Proprio mentre stai per disconnetterti dal terminale, noti abilmente una voce nascosta nella lista degli archivi.}
 {302}{}{[CONTINUA]}
-{303}{}{Dopo qualche minuto <g id="26198">e' </g>possibile chiudere il rubinetto di lavaggio botte.}
+{303}{}{Dopo qualche minuto riesci ad accedere all'archivio protetto. C'e' un solo file, intitolato "Riservato". Sembra che i tuoi punti in Scienza stiano dando i loro frutti.}
 {304}{}{[Leggi la voce.]}
 {305}{}{Leggendo il file, sembra che l'unico scopo del Vault 8 fosse quello di agire come un "Vault di controllo" in una serie di Vault creati da una corporazione chiamata Vault-Tec.
  L'intento era che il Vault 8 si aprisse e ricolonizzasse la superficie dopo 10 anni. Sembra anche che il Vault 8 non fosse l'unico Vault con uno scopo diverso dal proteggere i suoi abitanti dalla Grande Guerra.
  Forse si puo' scoprire di piu' sul vero scopo di questi Vault in un altro luogo.}
-{306}{}{[Torna all’elenco degli archivi.]}
+{306}{}{[Torna all'elenco degli archivi.]}
 {307}{}{[Disconnetti.]}
 {308}{}{Scopri il vero scopo del Vault 8 e che c'e' molto di piu' nella costruzione di tutti i Vault di quanto sembri.}

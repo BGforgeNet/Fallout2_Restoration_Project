@@ -7,7 +7,7 @@
 {106}{}{Me zoppo, tu riparare?}
 {107}{}{Me ha domande. Okay?}
 {108}{}{Scusa, me va.}
-{109}{}{Sono ferito. Puoi aiutarmi?}
+{109}{}{Ho delle ferite. Puoi aiutarmi?}
 {110}{}{Mi sento male. Puoi aiutarmi?}
 {111}{}{Mi hanno ferito un arto. Puoi aiutarmi?}
 {112}{}{Vorrei farti delle domande.}
@@ -18,7 +18,7 @@
 {117}{}{Beh, certo. Hmmm. Ci vorra' un po' di tempo, quindi dovrai passare la notte qui. Devi prendere questo, bere quest'altro... tutto: so che ha un cattivo sapore. Adesso, stenditi pure qui; ti svegliero' domattina.}
 {118}{}{Me sta meglio. Ciao.}
 {119}{}{Grazie. Ha funzionato perfettamente.}
-{120}{}{Mi spiace, ma io non sono un medico chirurgo, per cui non posso eseguire una simile operazione. Ti suggerisco di recarti in una delle citta' piu' grandi e di rivolgerti ad un chirurgo. Prova a NCR. E' a est di qui.}
+{120}{}{Mi spiace, ma io non sono un medico chirurgo, per cui non posso eseguire una simile operazione. Ti suggerisco di recarti in una delle citta' piu' grandi e di rivolgerti ad un chirurgo. Prova nella Repubblica della Nuova California. E' a est di qui.}
 {121}{}{Okay. Ciao.}
 {122}{}{D'accordo. Grazie lo stesso.}
 {123}{}{Cosa vorresti sapere?}
@@ -43,14 +43,14 @@
 {142}{}{Serve sapere piu'.}
 {143}{}{Hai corso degli inutili rischi e sei fortunato che non ti sia successo nulla.}
 {144}{}{Okay.}
-{145}{}{Una buona idea. Sono contento di vedere che non ti e' successo nulla.}
-{146}{}{Beh, vediamo... Pare che i deathclaw siano una forma mutata dei Camaleonti di Jackson, e, piu' precisamente, della loro variante dotata di corna. Molte similitudini sono ancora presenti, ma le differenze sono sicuramente di piu'. Il fattore di mutazione e' molto alto. Questa specie e' altamente intelligente, con un QI medio pari a quello di un bambino di circa otto anni. Tuttavia, alcuni individui raggiungono il livello di un umano adulto normale. La loro capacita' di apprendimento e' molto alta e sono in grado di formulare pensieri astratti e di ragionare.}
+{145}{}{Una buona idea. Mi fa piacere che sia andata bene.}
+{146}{}{Beh, vediamo... Pare che i Deathclaw siano una forma mutata dei Camaleonti di Jackson, e, piu' precisamente, della loro variante dotata di corna. Molte similitudini sono ancora presenti, ma le differenze sono sicuramente di piu'. Il fattore di mutazione e' molto alto. Questa specie e' altamente intelligente, con un QI medio pari a quello di un bambino di circa otto anni. Tuttavia, alcuni individui raggiungono il livello di un umano adulto normale. La loro capacita' di apprendimento e' molto alta e sono in grado di formulare pensieri astratti e di ragionare.}
 {147}{}{Uh... essere come tu dire.}
 {148}{}{Deve andare ora.}
 {149}{}{Uh-huh.}
-{150}{}{Wow, sono davvero colpito dalle tue conoscenze.}
+{150}{}{Wow, sei davvero ben informato.}
 {151}{}{Mi sembrano tutte un mucchio di stronzate.}
-{152}{}{Una notte stavo raccogliendo delle erbe quando un voce nel buio mi chiamo'. "Ti ho osservato a lungo - disse - e so che sei un guaritore. La tua devozione alla tua arte e' sufficiente per curare qualcuno diverso da te? Qualcuno che molti considererebbero un nemico?"}
+{152}{}{Una notte stavo raccogliendo delle erbe quando una voce nel buio mi chiamo'. "Ti ho osservato a lungo - disse - e so che sei un guaritore. La tua devozione alla tua arte e' sufficiente per curare qualcuno diverso da te? Qualcuno che molti considererebbero un nemico?"}
 {153}{}{Ugh.}
 {154}{}{Grazie. Me deve andare.}
 {155}{}{Che spreco trovarsi qua mentre si potrebbero aiutare altre persone...}
@@ -59,10 +59,10 @@
 {158}{}{Non aiutero' una persona come te. Vattene.}
 {159}{}{Raggiunsi un'altra citta' e vi rimasi per circa una settimana, prima di tornare qui. Quando tornai, fui accolto calorosamente. Gruthar, il capobranco, venne da me privatamente e mi ringrazio' di persona per essere ritornato. No, sono sicuro: rimango qui perche' e' quello che voglio.}
 {160}{}{Sebbene non abbiano corde vocali, i Deathclaw sembrano capaci di mimare il linguaggio umano allo stesso modo dei pappagalli. Devo ancora scoprire l'esatto meccanismo, percio' non sono in grado di dirti di piu', al momento. Da un punto di vista sociale, sono animali che si riuniscono in branchi e che hanno un severissimo codice morale. Sono guidati da un "maschio alfa" che comanda con il consenso del branco. Sono estremamente fedeli al branco nel suo insieme e preferiscono considerarlo come un'unica grande famiglia, piuttosto che dividersi in nuclei familiari piu' piccoli come fanno gli umani.}
-{161}{}{Il loro concetto di "giusto" e "sbagliato" e' molto ben definito. Seguono un codice morale che e' rafforzato dall'unita' del branco. La violenza non viene mai usata per risolvere i problemi interni, almeno da quanto ho visto finora. Non sono mai stati commessi crimini "capitali", per cui non saprei dirti come vengono affrontati casi del genere. Hmmm. Questo e' tutto quello che mi viene in mente al momento. Spero ti sia d'aiuto.}
+{161}{}{Il loro concetto di "giusto" e "sbagliato" e' molto ben definito. Seguono un codice morale che il branco nel suo insieme fa rispettare. La violenza non viene mai usata per risolvere i problemi interni, almeno da quanto ho visto finora. Non sono mai stati commessi crimini "capitali", per cui non saprei dirti come vengono affrontati casi del genere. Hmmm. Questo e' tutto quello che mi viene in mente al momento. Spero ti sia d'aiuto.}
 {162}{}{Ho risposto che rispettavo ogni forma di vita e che avrei fatto del mio meglio per curare i feriti,
  indipendentemente da chi o cosa fossero. Pensavo fosse un qualche ladro o predone che si era fatto
- male e aveva bisogno di un dottore. Non potete immaginare la mia sorpresa quando un paio di
- deathclaw uscirono dalla notte con un compagno ferito. Qualcuno l'aveva ridotto davvero male.
+ male e aveva bisogno di un dottore. Non puoi immaginare la mia sorpresa quando un paio di
+ Deathclaw uscirono dalla notte con un compagno ferito. Qualcuno l'aveva ridotto davvero male.
  Dissi loro che non potevo operare sul posto, cosi' mi bendarono gli occhi e mi portarono qui.
  Da quel giorno sono rimasto qui.}

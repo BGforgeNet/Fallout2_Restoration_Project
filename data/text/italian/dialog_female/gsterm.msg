@@ -1,17 +1,17 @@
 {100}{}{Vedi un terminale attivo.}
 {101}{}{Vedi il Terminale di Manutenzione del Reattore e di Controllo del Robot Riparatore.}
 {102}{}{Vedi un terminale. Pare sia acceso.}
-{110}{}{Salve. Benvenuto al TMR&CRR, postazione 3.}
+{110}{}{Salve. Benvenuti al TMR&CRR, postazione 3.}
 {111}{}{TMRCRR?}
 {112}{}{Funzione?}
 {113}{}{Azione:}
-{114}{}{inizializza:}
+{114}{}{Inizializza:}
 {115}{}{Esci.}
 {120}{}{Terminale di Manutenzione del Reattore & di Controllo del Robot Riparatore, postazione numero 3.}
 {121}{}{Funzione?}
 {122}{}{Un robot, eh? Vediamo se riesco a saperne di piu'.}
 {123}{}{Esci.}
-{130}{}{Questo terminale e' progettato per coordinare e comandare la Manutenzione del Reattore e il Robot Riparatore.}
+{130}{}{Questo terminale e' progettato per coordinare e comandare un Robot di Manutenzione e Riparazione del Reattore.}
 {131}{}{TMRCRR?}
 {132}{}{Un robot, eh? Vediamo se riesco a saperne di piu'.}
 {133}{}{Esci.}
@@ -60,7 +60,7 @@
 {211}{}{Indietro.}
 {212}{}{Download.}
 {213}{}{Esci.}
-{220}{}{Collegamento al server centrale PosiedoNet in corso. Inserire Sequenza Primaria Codice di Accesso di Sicurezza: 70Y644, 008Z21, 9X7299, A46123.}
+{220}{}{Collegamento al server centrale PoseidoNet in corso. Inserire Sequenza Primaria Codice di Accesso di Sicurezza: 70Y644, 008Z21, 9X7299, A46123.}
 {221}{}{70Y644}
 {222}{}{008Z21}
 {223}{}{9X7299}
@@ -81,7 +81,7 @@
 {302}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. Accesso Negato. Avete ancora un tentativo.}
 {303}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. Accesso Negato. Attivate Procedure Interne di Sicurezza.}
 {304}{}{Oops.}
-{305}{}{Faro' meglio a stare piu' attento.}
+{305}{}{Faro' meglio a stare piu' attenta.}
 {306}{}{Faro' meglio a non fare errori, questa volta.}
 {307}{}{Non credo sia una cosa positiva.}
 {308}{}{Esci.}
@@ -105,18 +105,18 @@
 {341}{}{Hmm, pare che non siano qui.}
 {342}{}{Elenco postazioni.}
 {343}{}{Esci.}
-{350}{}{Ricerca in corso Comunicatori... Ricerca in corso... Iron Mountain... Offline, NORAD... Offline, SAC... Offline. Ricerca su PosiedoNet... --Procedere?--}
+{350}{}{Ricerca collegamenti in corso... Ricerca in corso... Iron Mountain... Offline, NORAD... Offline, SAC... Offline. Ricerca su PoseidoNet... --Procedere?--}
 {351}{}{Download procedure per Robot Manutenzione.}
 {352}{}{Procedi.}
 {353}{}{Esci.}
 {360}{}{Postazioni PoseidoNet Attive: Centrale Nucleare #5, Raffineria di Navarro, Postazione di Controllo ENCLAVE, ENCLAVE - Laboratorio di Ricerca sui Vault... Accesso Negato}
 {361}{}{Le luci sono accese, ma in casa non c'e' nessuno. }
-{362}{}{E' tutto spento, tranne il Controllo Ricerca dei Vault dell’ENCLAVE. Chissa' che cos’e'...}
+{362}{}{E' tutto spento, tranne il Controllo Ricerca dei Vault dell'ENCLAVE. Chissa' che cos'e'...}
 {363}{}{Hmm, sembra che tutto sia o spento o chiuso. Beh, pazienza.}
 {370}{}{Accesso in corso... Postazione Enclave - Accesso Negato.}
 {371}{}{Accesso in corso... ancora... Postazione Enclave - Accesso Negato.}
-{372}{}{Accesso in corso... ancora una volta... sei un tipo piuttosto ostinato, eh?... Postazione Enclave - Accesso Negato.}
-{373}{}{Accesso in corso... ancora una volta... ma non ti sei ancora stufato?... Postazione Enclave - Accesso Negato.}
+{372}{}{Accesso in corso... ancora una volta... che testardaggine, eh?... Postazione Enclave - Accesso Negato.}
+{373}{}{Accesso in corso... ancora una volta... ma non ti sei ancora stufata?... Postazione Enclave - Accesso Negato.}
 {374}{}{Accesso in corso... ancora una volta... Ma non hai niente di meglio da fare nella vita?... Postazione Enclave - Accesso Negato.}
 {375}{}{Adesso basta. Ne ho abbastanza della tua insistenza. Se ci riprovi un'altra volta, te ne pentirai.}
 {376}{}{Non dire che non ti avevo avvertito. (Non appena leggi questo messaggio una scarica elettrica proveniente dalla tastiera ti attraversa le dita.)}
@@ -149,7 +149,7 @@
 {451}{}{Voglio sapere dove devo andare per sostituire il Regolatore Idroelettrico di Magnetosfera.}
 {452}{}{Voglio sapere dove si trova la Valvola Principale di Spegnimento del Sistema di Raffreddamento.}
 {453}{}{Esci.}
-{460}{}{ll Regolatore Idroelettrico di Magnetosfera si trova sulla parete Est del Nucleo del Reattore. E' localizzato subito a destra della Valvola Principale di Spegnimento del Sistema di Raffreddamento.}
+{460}{}{Il Regolatore Idroelettrico di Magnetosfera si trova sulla parete Est del Nucleo del Reattore. E' localizzato subito a destra della Valvola Principale di Spegnimento del Sistema di Raffreddamento.}
 {461}{}{Dove si trova la Valvola Principale di Spegnimento del Sistema di Raffreddamento?}
 {462}{}{Credo di essere pronta per cominciare.}
 {463}{}{Esci.}
@@ -159,25 +159,25 @@
 {473}{}{Esci.}
 {480}{}{Controllo Manuale di Emergenza per l'Unita' RM&RR: Per far muovere l'unita' bisogna inserire i comandi Gira a Sinistra, Gira a Destra, Vai Avanti. L'ultimo comando inserito in ogni sequenza e' il comando Esegui Procedura.}
 {482}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Comandi?: MoveVar1}
-{484}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 5% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2}
-{486}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 10% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3}
-{488}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 15% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
-{490}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 20% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
-{492}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 25% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
-{494}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 30% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
-{496}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 35% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
-{498}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 40% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
-{500}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 45% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
-{502}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 50% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
-{504}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 55% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12}
-{506}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 60% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13}
-{508}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 65% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14}
-{510}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 70% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15}
-{512}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 75% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
-{514}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura all'80% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
-{516}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura all'85% del livello di tolleranza dell'unita. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 90% del livello di tolleranza dell'unita. Spegnimento imminente. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
-{520}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 95% del livello di tolleranza dell'unita. Spegnimento imminente. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
+{484}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 5% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2}
+{486}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 10% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3}
+{488}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 15% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
+{490}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 20% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
+{492}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 25% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
+{494}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 30% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
+{496}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 35% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
+{498}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 40% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
+{500}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 45% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
+{502}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 50% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
+{504}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 55% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12}
+{506}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 60% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13}
+{508}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 65% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14}
+{510}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 70% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15}
+{512}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 75% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
+{514}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura all'80% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
+{516}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura all'85% del livello di tolleranza dell'unita'. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
+{518}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 90% del livello di tolleranza dell'unita'. Spegnimento imminente. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{520}{}{Se questa operazione e' gia' stata eseguita in precedenza, indicare qui la precedente sequenza di comandi di movimento. Temperatura al 95% del livello di tolleranza dell'unita'. Spegnimento imminente. Comandi?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{Gira a Sinistra.}
 {524}{}{Gira a Destra.}
 {526}{}{Vai Avanti.}
@@ -196,9 +196,9 @@
 {600}{}{Seleziona un comando:}
 {601}{}{Calibra elemento motore - Barre di Uranio.}
 {602}{}{Amplifica Scudo al Plutonio-Gamma.}
-{603}{}{Regola il Voltaggio del Condesatore, Classe Saturn.}
+{603}{}{Regola il Voltaggio del Condensatore, Classe Saturn.}
 {604}{}{Disarmonizza Stimolatore al Nettunio.}
-{605}{}{Verifica Compilatore d'Onda Iupiter.}
+{605}{}{Verifica Compilatore d'Onda Jupiter.}
 {606}{}{Installa Regolatore Idroelettrico di Magnetosfera.}
 {607}{}{Posiziona Valvola Principale Sistema di Raffreddamento - Chiusa.}
 {608}{}{Posiziona Valvola Principale Sistema di Raffreddamento - Aperta.}

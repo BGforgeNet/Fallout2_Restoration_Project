@@ -13,16 +13,16 @@
 {113}{}{Vedi Buffy, una cheerleader molto bella, intelligente e vivace. La Prima Donna dei Paesani Sudici.}
 {114}{}{Vedi Doombot, Dea del Suono e sorella di Buffy. Assomiglia un po' a Marie Osmond.}
 {115}{}{Vedi Panoply, una specie di ragazza-folletto. I suoi occhi tradiscono un lieve caso di demenza.}
-{116}{}{Vedi Lerk, Leader dei Paesani del TEAM SWAT- Artista degli Paesani Sudici - l'oratore.}
+{116}{}{Vedi Lerk, Leader della Squadra SWAT dei Paesani Sudici - Artista dei Paesani Sudici - Colui che Parla agli Alberi.}
 {117}{}{Vedi Ymir, Poeta degli Antipodi & Membro Co-Fondatore dei Poetry Bastards - Educatore del Villaggio.}
 {118}{}{Vedi Iguana Eater, Arciduca di Smeet Lite.}
-{119}{}{Vedi Night Owl, Colui il Quale Viglia Sui Dormienti - Co-fondatore dei Poetry Bastards.}
+{119}{}{Vedi Night Owl, Colui il Quale Veglia Sui Dormienti - Co-fondatore dei Poetry Bastards.}
 {120}{}{Vedi Shadow Dancer, Gothic Poetry Bastard - E' strano, ma assomiglia molto a Kevin Bacon.}
-{121}{}{Vedi Amish Commando, Commissario del Blunt Force Trauma, Subcomandante dell'Unwashed SWAT Team.}
+{121}{}{Vedi Amish Commando, Commissario dei Traumi da Corpo Contundente, Vicecomandante della Squadra SWAT dei Paesani Sudici.}
 {122}{}{Vedi Alexand the Killer Bee, una varieta' pacifica e intelligente dell'ape killer - Capo Scriba dei Paesani Sudici.}
 {123}{}{Vedi Hatchetman, Armaiolo degli Unwashed - Attaccabrighe - Custode della tradizione di Shadowrun.}
 {124}{}{Vedi BlueCross, Parroco degli Unwashed - Direttore di Produzione.}
-{200}{}{Quei Paesani sudici hanno salvato la situazione ancora una volta!}
+{200}{}{I Paesani Sudici salvano la situazione ancora una volta!}
 {201}{}{La morte e' poco per lui.}
 {202}{}{E rimanici!}
 {203}{}{E ancora una volta il villaggio e' salvo!}
@@ -30,8 +30,8 @@
 {205}{}{E torniamo a pattugliare le Lande, mantenendole al sicuro dagli spammer.}
 {206}{}{Unisciti a noi, qualche volta!}
 {207}{}{Lasciarsi e' una cosi' dolce pena....}
-{208}{}{E il Diavolo venne e vide quanto terribile fosse la divinita'...}
-{209}{}{E cosi' Payback sarebbe una troia, eh?}
+{208}{}{E il Diavolo venne e vide quanto fosse terribile la bonta'...}
+{209}{}{La vendetta e' una brutta bestia, eh?}
 {210}{}{Grim ha finalmente trovato uno scopo - fare il fertilizzante.}
 {211}{}{E' questo che succede ad usare il sapone...}
 {212}{}{Adesso ce ne dobbiamo andare!}
@@ -40,9 +40,9 @@
 {215}{}{Non aspettarci!}
 {216}{}{E' un lavoro sporco... e mi piace tantissimo!}
 {217}{}{Si torna a pattugliare!}
-{218}{}{Quei Paesani Sudici. Mantengono la pace in un deserto maledetto.}
+{218}{}{I Paesani Sudici. Manteniamo la pace in una landa devastata.}
 {219}{}{Ha avuto quello che si meritava.}
-{220}{}{Ti faro' correre!}
+{220}{}{Facciamo a gara!}
 {300}{}{Sapone? Noi non abbiamo bisogno del sapone!}
 {301}{}{Avanti Unwashed! Distruggiamo lo Spammer!}
 {302}{}{A morte lo Spammer!}
@@ -60,17 +60,17 @@
 {314}{}{Proteggiamo il Prescelto dalle idiozie dello Spammer!}
 {315}{}{Prescelto! Unisciti a noi!}
 {316}{}{UNWASHED VENDETTA!}
-{317}{}{Non sarai mai un "Unwashed" stupido moccioso!}
+{317}{}{Non sarai mai un "Unwashed", stupido moccioso!}
 {318}{}{Non hai scampo!}
 {319}{}{Non abbiamo ancora finito!}
 {320}{}{Aspettavo questo giorno da mooooooolto tempo.}
 {400}{}{Questo e' per avermi minacciata!}
-{401}{}{Ne sono certa! Non faresti mai del male ad una ragazza, vero?}
+{401}{}{Ma figurati! Non faresti mai del male a una ragazza, vero?}
 {402}{}{"La vendetta e' un piatto che va servito freddo."}
-{403}{}{Io sono Buffy... la tua preferita.}
+{403}{}{Io sono Buffy... e tu sei fritto.}
 {405}{}{Nessuno minaccia Doombot!}
 {406}{}{Acchiappa-Grim!}
-{410}{}{Solo un guanabana ha un sapore simile a questa vittoria...}
+{410}{}{Solo una guanabana puo' reggere il confronto col sapore di questa vittoria...}
 {415}{}{Il Villaggio e' un luogo tranquillo, ma tu ci hai fatto arrabbiare, molto arrabbiare.}
 {420}{}{Hai gettato la nostra terra nella vergogna con le tue azioni per l'ultima volta!}
 {430}{}{Ti mettero' a dormire per sempre!}

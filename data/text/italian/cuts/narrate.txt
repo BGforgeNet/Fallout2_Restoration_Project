@@ -1,31 +1,31 @@
 1:La guerra.
 2:La guerra non cambia mai.
-3:La fine del mondo e' avvenuta piu' o meno come avevamo previsto.
+3:La fine del mondo avvenne piu' o meno come avevamo previsto.
 4:Troppi esseri umani, non abbastanza spazio o risorse per tutti.
 5:I dettagli sono banali e irrilevanti; le ragioni, come sempre, sono puramente umane.
-6:Nel 2077, quasi ogni vita umana fu' spazzata via dalla terra.
-7:Una grande purificazione, una scintilla atomica accesa dalle mani umane, si e' rapidamente propagata fuori controllo.
-8:Lance di fuoco nucleare sono piovute dal cielo.
-9:I continenti sono stati divorati dalle fiamme e sommersi dagli oceani in ebollizione.
-10:L'umanita' si era quasi estinta, i loro spiriti erano diventati parte della radiazione di fondo che ricopriva la terra.
+6:Nel 2077, quasi ogni vita umana fu spazzata via dalla terra.
+7:Una grande purificazione, una scintilla atomica accesa da mani umane, divampo' rapidamente fuori controllo.
+8:Lance di fuoco nucleare piovvero dal cielo.
+9:I continenti furono divorati dalle fiamme e sprofondarono negli oceani in ebollizione.
+10:L'umanita' si estinse quasi del tutto, e le anime divennero parte della radiazione di fondo che ricopriva la terra.
 11:Una silenziosa oscurita' avvolse il pianeta, rimanendovi per molti anni.
 12:Pochi sopravvissero alla devastazione.
-13:Alcuni sono stati abbastanza fortunati da raggiungere la salvezza, rintanandosi in grandi vault sotterranei.
+13:Alcuni ebbero la fortuna di mettersi in salvo, rifugiandosi in grandi vault sotterranei.
 14:Quando la grande oscurita' passo', i vault si aprirono e i loro abitanti emersero per iniziare nuovamente le loro vite.
-15:Una delle tribu' del nord reclama la discendenza dalla gente di uno di questi Vault.
-16:Credono che il loro fondatore e antenato, colui che e' ricordato come il “Abitante del Vault”, abbia un tempo salvato il mondo da un grande male.
-17:Secondo le loro leggende, questo Male sorse dal profondo sud.
-18:Ha corrotto tutto cio' che ha toccato, stravolgendo gli uomini dall'interno, trasformandoli in bestie.
-19:Solo grazie al coraggio di questo abitante del Vault il male e' stato sconfitto.
+15:Una delle tribu' del nord sostiene di discendere da uno di questi Vault.
+16:Credono che il loro fondatore e antenato, colui che e' ricordato come "l'Abitante del Vault", abbia un tempo salvato il mondo da un grande male.
+17:Secondo le loro leggende, questo male sorse nel profondo sud.
+18:Corruppe tutto cio' che tocco', stravolgendo gli uomini dall'interno e trasformandoli in bestie.
+19:Solo grazie al coraggio di questo Abitante del Vault il male fu distrutto.
 20:Ma cosi' facendo perse molti dei suoi amici e soffri' enormemente, sacrificando gran parte di se' pur di salvare il mondo.
 21:Quando alla fine torno' alla casa per cui aveva combattuto cosi' duramente, fu scacciato.
 22:Esiliato.
-23:Affrontando cio' che temevano, ai loro occhi era diventato qualcos’altro… e non piu' il loro campione.
+23:Affrontando cio' che temevano, ai loro occhi era diventato qualcos'altro... e non piu' il loro campione.
 24:Abbandonato dal suo popolo, a grandi passi si incammino' nelle lande desolate.
 25:Viaggio' a lungo verso nord, fino a giungere al grande canyon.
-26:Qui', fondo' un piccolo villaggio, Arroyo, dove visse il resto dei suoi anni.
+26:Li' fondo' un piccolo villaggio, Arroyo, dove visse il resto dei suoi anni.
 27:E cosi', per una generazione dalla sua fondazione, Arroyo ha vissuto in pace, con i suoi canyon a ripararla dal mondo esterno.
 28:E' casa. La tua casa.
 29:Ma nel mondo la' fuori, le cicatrici lasciate dalla guerra non si sono ancora rimarginate.
 30:Le ferite sono profonde, e ora se ne avvertono gli effetti anche ad Arroyo.
-31:La vita in Arroyo sta per cambiare...
+31:La vita ad Arroyo sta per cambiare...

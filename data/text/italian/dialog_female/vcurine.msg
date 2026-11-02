@@ -4,7 +4,7 @@
 {103}{}{Uh, congratulazioni per aver sconfitto l'Enclave. Anche loro li hai beccati tutti mentre erano in bagno?}
 {104}{}{Preferirei ascoltare il racconto delle tue imprese quando non sto pisciando, grazie.}
 {105}{}{Esci! Esci, dannato piscio! Esci!}
-{106}{}{Lo sapevo di non bere cosi' tanto alcol sintetico.}
+{106}{}{Lo sapevo che non dovevo bere tutto quell'alcol sintetico.}
 {107}{}{Mi sembra di esser qui dentro da secoli.}
 {108}{}{Ahhhhhhhh.}
 {109}{}{Mi sento esposto. Come se qualcuno mi stesse guardando dall'alto.}
@@ -12,12 +12,12 @@
 {111}{}{Non distrarm... Porca menta! I miei pantaloni!}
 {112}{}{Non parlare. La fai tornare su.}
 {113}{}{Senti, "Prescelta", sto cercando di concentrarmi, capito?}
-{114}{}{Vorrei tanto che questo cesso avesse un lucchetto.}
+{114}{}{Vorrei tanto che qui ci fossero dei separe'.}
 {115}{}{Le persone che parlano nei bagni hanno molto da imparare riguardo al galateo da toilette.}
 {116}{}{Penso che tu mi abbia scambiato per qualcuno che NON STA PISCIANDO!}
 {117}{}{E' per caso una di quelle "interviste al bagno" di Kevin&Bean?}
 {118}{}{Per chi lavora il Numero Due?!?!}
-{119}{}{Sapevo di non fidarmi dei bagni pubblici.}
+{119}{}{Lo sapevo che i bagni in comune non erano una buona idea.}
 {120}{}{Non ora, dolcezza. Nel caso tu non l'avessi notato, sto urinando.}
 {121}{}{Mi spiace, zucchero. I bagni non sono il posto piu' adatto.}
 {122}{}{Questo non e' un salotto, amica. Sparisci, okay?}

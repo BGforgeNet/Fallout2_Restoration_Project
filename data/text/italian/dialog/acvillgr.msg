@@ -21,7 +21,7 @@
 {168}{}{Certo, cosa c'e'?}
 {169}{}{Puoi dirmi dove posso trovare delle erbe curative?}
 {170}{}{Cosa puoi dirmi dei mercanti che commerciano con noi?}
-{171}{}{Nulla.}
+{171}{}{Lascia perdere.}
 {172}{}{O dei -- possa lo spirito del Fondatore guidarti. Se tu sei il Prescelto, ne avremo proprio bisogno.}
 {173}{}{Uun Ga.}
 {174}{}{Buon viaggio.}
@@ -38,17 +38,17 @@
 {300}{}{Salve, Prescelto. Felice di rivederti. Prego che la tua sacra missione stia andando bene. Posso aiutarti in qualche modo?}
 {301}{}{Prescelto, la nostra gente sta morendo. Devi affrettare la tua ricerca per il sacro GECK. Cosa posso fare per aiutarti in questa santissima missione?}
 {302}{}{Il tempo a nostra disposizione sta finendo, Prescelto. Per favore, porta presto a termine la tua sacra missione. Non possiamo permetterci di aspettare ancora. Se c'e' qualcosa che posso fare per aiutarti a salvarci, fammelo sapere.}
-{303}{}{Prescelto, il nostro villaggio e' quasi morto... sei la nostra unica speranza. Per la nostra salvezza, c'e' niente che possa dire per aiutarti?}
+{303}{}{Prescelto, il nostro villaggio e' quasi morto... sei la nostra unica speranza. C'e' qualcosa che posso dirti per aiutarti a salvarci?}
 {400}{}{C'e' qualcosa che potresti dirmi a proposito di Kaga?}
-{401}{}{[Il villager ti fissa con gli occhi spalancati, poi si allontana lentamente da te guardandosi intorno nervosamente.]}
+{401}{}{[L'abitante del villaggio ti fissa con gli occhi spalancati, poi si allontana lentamente da te guardandosi intorno nervosamente.]}
 {402}{}{Beh, immagino di no.}
 {1000}{}{Anziana}
 {1001}{}{Fondatore}
-{1002}{}{Vault Dweller}
+{1002}{}{Abitante del Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{l'Eletto}
+{1006}{}{Prescelto}
 {1007}{}{Sciamano}
 {1008}{}{Hakunin}
 {1009}{}{Polvere curativa}
@@ -56,13 +56,13 @@
 {1011}{}{Mynoc}
 {1100}{}{L'Anziana e' tua madre e la nostra guida.}
 {1101}{}{Il nostro grande antenato che ci ha donato la conoscenza.}
-{1102}{}{I primi a combattere e a vincere sul caos.}
+{1102}{}{Il primo a combattere e a vincere il caos.}
 {1103}{}{Quello sarebbe il nostro bellissimo villaggio.}
 {1104}{}{E' un avamposto commerciale a pochi giorni a est di qui.}
 {1105}{}{Il Vault e' il paradiso.}
 {1106}{}{Tu sei il Prescelto.}
 {1107}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1108}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
-{1109}{}{It is a magic powder which will heal you, but will make you sleepy.}
-{1110}{}{Il Grande Ponte esce dal nostro villaggio a sud.}
+{1109}{}{E' una polvere magica che ti guarira', ma ti fara' venire sonno.}
+{1110}{}{Il Grande Ponte porta fuori dal villaggio, a sud.}
 {1111}{}{Lui custodisce il ponte che conduce al nostro villaggio.}

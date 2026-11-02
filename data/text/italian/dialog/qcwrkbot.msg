@@ -3,4 +3,4 @@
 {200}{}{Beep.}
 {201}{}{*Click*}
 {202}{}{*Beeboop*}
-{203}{}{Procedere nell’area di lavoro con cautela.}
+{203}{}{Procedere nell'area di lavoro con cautela.}

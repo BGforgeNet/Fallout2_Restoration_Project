@@ -9,7 +9,7 @@
 {108}{}{Cos'e' questo posto?}
 {109}{}{Salve, sono nuova di qui.}
 {110}{}{Sono qui per pulire l'ufficio del comandante.}
-{111}{}{Nulla.}
+{111}{}{Lascia perdere.}
 {112}{}{Questo e' l'ufficio del comandante della base. Questa zona non e' accessibile al personale. Dovro' chiederle di andarsene, signora.}
 {113}{}{Me deve parlare con comandante.}
 {114}{}{Bene.}
@@ -21,12 +21,12 @@
 {120}{}{Niente. Me va.}
 {121}{}{Beh...}
 {122}{}{Uh, abbiamo ricevuto una chiamata dalla Sicurezza. Pare siano preoccupati che il codice per la petroliera possa finire in mani sbagliate. Dobbiamo metterlo al sicuro.}
-{123}{}{Me ne stavo andando.}
+{123}{}{Me ne vado.}
 {124}{}{Signora, questo e' l'ultimo avvertimento. Devo chiederle di lasciare questa zona.}
 {125}{}{Ok.}
-{126}{}{Oh... Tu fottere te. Me fa largo sparando.}
-{127}{}{Fottiti. Entrero' con la forza.}
-{128}{}{Cosa? Oh, ho capito. Ti sei fottuto un cane e per punizione Dornan ti ha messo di corve' nel reparto pulizie.}
+{126}{}{Oh... Fanculo. Me fa largo sparando.}
+{127}{}{Fanculo. Entro sparando.}
+{128}{}{Cosa? Oh, ho capito. Hai fatto una cazzata e per punizione Dornan ti ha messo di corve' nel reparto pulizie.}
 {129}{}{Si'... me fottuto... cane e... bleah.}
 {130}{}{(parlando con se stesso) Comandante. Il servizio pulizie e' qui, signore. (pausa) Si', signore. (guardandoti) Entra.}
 {131}{}{Grazie.}
@@ -34,10 +34,10 @@
 {133}{}{Mi faccia vedere gli ordini.}
 {134}{}{Grazie.}
 {135}{}{Oh, non li ho portati con me.}
-{136}{}{(calmo) Meglio se sparisci allora. Questo e' l'ufficio del comandante della base. A nessuno e' permesso entrare, a meno che non sia il vecchio in persona a chiederlo.}
+{136}{}{(a bassa voce) Allora devi esserti persa. Questo e' l'ufficio del comandante della base. A nessuno e' permesso entrare, a meno che non sia il vecchio in persona a chiederlo.}
 {137}{}{Nessuno entra li' dentro? Mai?}
 {138}{}{Nessuno lo vede?}
-{139}{}{(calmo) Nessuno. Beh, solo il servizio pulizie. Di solito arrivano tra un'ora circa. Per tutti gli altri questo posto e' off limits. Adesso faresti meglio ad andartene.}
+{139}{}{(a bassa voce) Nessuno. Beh, solo il servizio pulizie. Di solito arrivano tra un'ora circa. Per tutti gli altri questo posto e' off limits. Adesso faresti meglio ad andartene.}
 {140}{}{Okay.}
 {141}{}{(parlando con se stesso) Comandante. Il servizio pulizie e' qui, signore. (pausa) Si', signore. (guardandoti) Entra.}
 {142}{}{Sei in anticipo. Torna piu' tardi.}
@@ -55,8 +55,8 @@
 {154}{}{Ti schiacceremo!}
 {155}{}{L'Enclave dominera' il mondo!}
 {156}{}{Perche' l'Enclave viva, tu devi morire!}
-{160}{}{E' tornato. Ha portato gli ordini per il FOB?}
+{160}{}{E' tornata. Ha portato gli ordini per il FOB?}
 {161}{}{No, non ancora. Li andro' a prendere.}
-{162}{}{Si', come no? Ti dico che il servizio pulizia sta arrivando e magicamente diventi uno di loro. Non sei andato via nemmeno per un attimo. Pensi che io sia un fottuto idiota? Sparisci!}
+{162}{}{Si', come no? Ti dico che il servizio pulizie sta arrivando e magicamente diventi una di loro. Non sei andata via nemmeno per un attimo. Pensi che io sia un fottuto idiota? Sparisci!}
 {200}{}{Comandante... (pausa) E' qui Comandante? (pausa) Mmm... Nessuna risposta. Non mi piace per niente. E' meglio se vado a controllare come sta.}
 {201}{}{Oh merda! Il Comandante e' morto! Suonate l'allarme. Abbiamo un intruso!!!}

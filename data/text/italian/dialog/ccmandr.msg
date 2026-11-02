@@ -9,7 +9,7 @@
 {108}{}{Disobbedire ad un ordine diretto di un ufficiale superiore e' considerato tradimento. Non ho tempo per convocare la corte marziale, quindi me ne occupero' personalmente. Guardie! Uccidete questo idiota!}
 {109}{}{Okay.}
 {110}{}{Fottiti!}
-{111}{}{Il FOB e' nell'armadietto la' in fondo. Fa' in modo che l'ufficiale di servizio mi contatti, una volta che il codice sara' stato messo al sicuro. Congedato!}
+{111}{}{Il FOB e' nell'armadietto la' in fondo. Fa' in modo che l'ufficiale di servizio mi contatti, una volta che il codice sara' stato messo al sicuro. Puoi andare!}
 {112}{}{Sissignore!}
 {113}{}{Fa' in fretta, soldato: non ho tutto il giorno.}
 {114}{}{Sissignore!}
@@ -17,14 +17,14 @@
 {116}{}{Sissignore!}
 {117}{}{La base e' allertata e io non ti riconosco. Fammi vedere i tuoi documenti, soldato.}
 {118}{}{Che documenti?}
-{119}{}{Andare a diavolo!}
+{119}{}{Succhiamelo!}
 {120}{}{Non credo di averli portati...}
 {121}{}{Documenti? Eccoteli qua i documenti che cerchi!}
 {122}{}{Risposta sbagliata, pidocchio. Devi sempre portare i documenti con te, in ogni momento. Dovresti saperlo!}
 {123}{}{Fottiti.}
 {124}{}{Lascia in pace il mio armadietto o te ne faro' pentire amaramente.}
 {125}{}{E' tempo... di morire.}
-{200}{}{Ok, sbrighiamola -- non mi piace avere mutanti che puzzano nel mio ufficio, e ho un sacco da fare. Lavori per i Salvatores? }
+{200}{}{Ok, sbrighiamola -- non mi piace avere mutanti che puzzano nel mio ufficio, e ho un sacco da fare. Lavori per i Salvatore? }
 {201}{}{Non sono affari tuoi, stronzo.}
 {202}{}{Non lavoro per nessuno.}
 {203}{}{E allora?}

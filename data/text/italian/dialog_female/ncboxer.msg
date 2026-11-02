@@ -11,20 +11,20 @@
 {159}{}{Ti mostra un bel sorriso sdentato.}
 {160}{}{Sta scagliando ganci contro un avversario invisibile mentre ringhia minacce all'aria.}
 {161}{}{Per un momento sembra confuso, come se avesse dimenticato chi e', poi sorride e si gratta la testa.}
-{162}{}{Sta facendo delle flessioni.}
+{162}{}{Sta facendo degli squat.}
 {163}{}{Vedi un grosso uomo bianco. Le sue braccia sembrano due tronchi d'albero.}
 {164}{}{Vedi un uomo bianco molto muscoloso. Gonfia i muscoli e grugnisce tra se' e se'.}
-{165}{}{Vedi un uomo bianco molto muscoloso. Sta guardando la tua testa come se fosse un punching-ball.}
+{165}{}{Vedi un uomo bianco molto muscoloso. Sta guardando la tua testa come se fosse un sacco da boxe.}
 {166}{}{Sta scagliando ganci contro un avversario invisibile mentre ringhia minacce all'aria.}
 {167}{}{Per un momento sembra confuso, come se avesse dimenticato chi e', poi sorride e si gratta la testa.}
-{168}{}{Sta guardando la tua testa come se fosse una punching-ball.}
+{168}{}{Sta guardando la tua testa come se fosse un sacco da boxe.}
 {200}{}{Hnffff}
 {201}{}{Hnrggg}
 {202}{}{::Gonfia i muscoli::}
 {203}{}{::Il pugile ti guarda con occhi terrorizzati::}
 {204}{}{Si', signora?}
 {205}{}{Mi puoi preftare un paio di incififi?}
-{206}{}{Ti serve un osservatore?}
+{206}{}{Ti serve aiuto coi pesi?}
 {207}{}{Uh-huh.}
 {208}{}{::Annuisce stupidamente a tutto cio' che dici::}
 {209}{}{Tu grossa pershona. Me piccolo.}
@@ -34,7 +34,7 @@
 {213}{}{Tuo profumo buooooono.}
 {214}{}{Hai lo stesso odore di mamma.}
 {215}{}{Basta parlare. Andiamo a letto.}
-{216}{}{::Sorride senza denti::}
+{216}{}{::Fa un sorriso sdentato::}
 {217}{}{::Si gratta::}
 {218}{}{::Gonfia i muscoli::}
 {219}{}{Grugnito}
@@ -43,7 +43,7 @@
 {222}{}{Con-centrati, Con-centrati.}
 {223}{}{Colpisci.}
 {224}{}{Combatti.}
-{225}{}{Me serve osservatore.}
+{225}{}{Me serve aiuto coi pesi.}
 {226}{}{Tu piccola persona.}
 {227}{}{Me no piace parlare.}
 {300}{}{Ernhhh}
@@ -59,7 +59,7 @@
 {314}{}{Non sei malaccio.}
 {315}{}{E' tutto quello che sai fare?}
 {320}{}{E rimanici!}
-{321}{}{Sei stato mandato al fottuto tappeto!}
+{321}{}{Ti ho mandato al fottuto tappeto!}
 {322}{}{Chi e' il tuo Paparino?}
 {323}{}{Se muore, muore.}
 {330}{}{Avrei potuto essere una buona pretendente al titolo!}
@@ -83,14 +83,14 @@
 {354}{}{Combatti come una merda!}
 {355}{}{Non hai fegato!}
 {356}{}{Sei una merda! Una merda!}
-{357}{}{Ti schiaccero' come un insetto...}
+{357}{}{Ti picchiero' come un cane...}
 {360}{}{Non ci sara' una rivincita!}
 {361}{}{Colpisci come una farfalla...}
-{362}{}{Tieni le guardia alta...}
-{363}{}{Rimani calmo!}
+{362}{}{Tieni la guardia alta...}
+{363}{}{Resta concentrato!}
 {364}{}{Reagisci!}
 {365}{}{Colpisci!}
-{366}{}{Perdonami, Mick.}
-{367}{}{Ricorda, vai di gancio!}
+{366}{}{Tagliami, Mick.}
+{367}{}{Ricorda, lavora di jab!}
 {368}{}{Ne vedo tre!}
 {400}{}{Sta sudando copiosamente.}

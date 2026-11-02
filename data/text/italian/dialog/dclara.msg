@@ -1,7 +1,7 @@
 {100}{}{Vedi Lara.}
 {150}{}{E' la leader di questa banda.}
 {200}{}{Mi chiamo Lara; sono il capo di questa banda. Sara' meglio che tu non sia qui per causare guai o preparati a sperimentare un nuovo modo di intendere il dolore.}
-{201}{}{Ciao. Ti serve qualcosa?}
+{201}{}{Rieccoti. Ti serve qualcosa?}
 {202}{}{Hai del lavoro?}
 {203}{}{Stavo solo dando un'occhiata in giro.}
 {204}{}{Sto cercando un mercante di nome Vic.}
@@ -29,51 +29,51 @@
 {270}{}{Fammi sapere se cambi idea.}
 {271}{}{Okay.}
 {280}{}{Beh, c'e' una chiesa ad est di qui. Metzger ha messo delle persone a guardia di quello che c'e' all'interno. Scopri di cosa si tratta e ti daro' 200$.}
-{281}{}{E' facile. Lo so gia'.}
-{282}{}{Bene.}
+{281}{}{E' stato facile. Lo so gia'.}
+{282}{}{Certo.}
 {283}{}{Vedro' di fare il possibile.}
 {290}{}{Grazie. Non farti coinvolgere in uno scontro... per adesso. Ho un piano.}
 {291}{}{Nessun problema.}
 {292}{}{Torno subito.}
 {300}{}{Di cosa si tratta?}
 {301}{}{Composti chimici grezzi contenuti in grandi casse.}
-{302}{}{Grossi contenitori che contengono prodotti chimici di qualche tipo.}
+{302}{}{Grossi contenitori pieni di sostanze chimiche di qualche tipo.}
 {303}{}{Vorrei controllare un'altra volta.}
-{310}{}{Il tutto ha un senso. Grazie. Ecco i tuoi soldi.}
+{310}{}{In effetti, ha senso. Grazie. Ecco i tuoi soldi.}
 {311}{}{Perche'?}
-{312}{}{Nessun problema. Addio.}
+{312}{}{Nessun problema. Ciao.}
 {320}{}{Ho visto alcune carovane provenienti da Vault City scaricare quelle casse, che vengono poi prelevate da altre carovane arrivate qui da New Reno.}
-{321}{}{E allora? Perche' dici che tutto ha un senso?}
+{321}{}{E allora? Perche' avrebbe senso?}
 {322}{}{Oh.}
 {340}{}{New Reno e' la capitale della droga. Da qualche parte dovranno pur prendere i materiali grezzi per produrla, no? E sembra proprio che ne prendano una parte, o addirittura tutti, da Vault City.}
 {341}{}{Dove si trova New Reno?}
 {342}{}{Okay, grazie.}
-{350}{}{Non lo so con esattezza. Da qualche parte a sud, credo. Non ci sono mai stata, ho solo visto le loro carovane fermarsi qui una volta, parecchio tempo fa.}
+{350}{}{Non lo so con esattezza. Da qualche parte a sud, credo. Non ci sono mai stata, ho solo visto le loro carovane fermarsi qui ogni tanto. Molto di rado.}
 {351}{}{Ah, okay. Grazie.}
 {360}{}{Che ne diresti di qualche soldo veloce-veloce? 50$. Soldi facili.}
-{361}{}{Bene.}
-{362}{}{Dimmi tutto.}
-{370}{}{Voglio che tu vada da Metzger a chiedergli se ci puo' dare il suo nulla-osta per sedare una vecchia questione tra me e Tyler. Lui capira' a cosa mi riferisco.}
+{361}{}{Certo.}
+{362}{}{Fa' presto.}
+{370}{}{Voglio che tu vada da Metzger a chiedergli se ci puo' dare il suo nulla-osta per regolare una vecchia questione tra me e Tyler. Lui capira' a cosa mi riferisco.}
 {371}{}{Perche' vuoi che vada io a chiederglielo?}
 {372}{}{Se capitera' l'occasione.}
 {373}{}{Okay.}
-{380}{}{Perche' non voglio che Tyler veda qualcuno della mia banda entrare o uscire dal palazzo di Metzger. Non voglio rovinare la sorpresa.}
+{380}{}{Perche' non voglio che Tyler veda qualcuno della mia banda entrare o uscire dal palazzo di Metzger. Non voglio scoprire le nostre carte.}
 {381}{}{Non lo capisci? Se Tyler dovesse vedermi parlare con Metzger, potrebbe sospettare qualcosa.}
 {382}{}{Vedremo.}
 {383}{}{Okay.}
 {390}{}{Allora, hai scoperto cosa c'e' la' dentro?}
 {391}{}{Composti chimici grezzi contenuti in grandi casse.}
-{392}{}{Grossi contenitori che contengono prodotti chimici di qualche tipo.}
+{392}{}{Grossi contenitori pieni di sostanze chimiche di qualche tipo.}
 {393}{}{Non ancora.}
 {400}{}{Hai gia' parlato con Metzger? Che cosa dice?}
-{401}{}{Dice di si'. Se vincete, potete prendere il loro lavoro, come sempre.}
+{401}{}{Dice di si'. Se vincete, potete prendere il loro lavoro, come prima.}
 {402}{}{Na.}
-{410}{}{Ottimo. Speravo proprio che dicesse cosi'. Ho sentito che ultimamente si era lamentato di loro. Ecco i tuoi soldi.}
+{410}{}{Ottimo. Speravo proprio che dicesse cosi'. Ho sentito che ultimamente si e' lamentato di loro. Ecco i tuoi soldi.}
 {411}{}{Adesso immagino ci sia qualcos'altro da fare, giusto?}
 {412}{}{Grazie. Ciao.}
 {420}{}{Ho un altro lavoro per te. Non so come tu possa fare, ma dal momento che sei riuscito ad entrare, forse significa che si fidano di te.}
 {421}{}{In realta' sono entrato di nascosto.}
-{422}{}{Cosa?}
+{422}{}{Cos'e'?}
 {430}{}{Sono sicura che riuscirai ad inventarti qualcosa.}
 {431}{}{Okay, di cosa si tratta?}
 {440}{}{Non possiamo batterli, data la loro forza attuale. Loro hanno piu' soldi e ci sono leggermente superiori di numero. Se tu riuscissi a trovare una qualche loro debolezza che ci consenta di equilibrare le forze, o se tu scoprissi qualcosa da sfruttare a nostro favore...}
@@ -81,7 +81,7 @@
 {442}{}{Quanto?}
 {443}{}{Consideralo fatto.}
 {450}{}{Ti daremo 150$. Non c'e' modo per noi di avvicinarci abbastanza a loro da scoprirla.}
-{451}{}{Vedro' di fare il possibile.}
+{451}{}{Se ne avro' il tempo.}
 {452}{}{Okay.}
 {460}{}{Non lo so. E' per questo che ti sto chiedendo aiuto.}
 {461}{}{Ci provero'.}
@@ -94,7 +94,7 @@
 {480}{}{Eccellente! Lasceranno sicuramente un corpo di guardia ridotto all'osso. Questo sara' un gran bel vantaggio per noi. Faremo fuori quelli alla festa dopo aver assaltato la chiesa.}
 {481}{}{E i miei soldi?}
 {490}{}{Non credo che te li daro' subito. Se vuoi vedere i tuoi soldi, dovrai venire con noi. Non ti sto chiedendo di combattere, ma voglio essere sicura che non sia una trappola. In totale ti daremo 300$.}
-{491}{}{Sei pronto?}
+{491}{}{Ci stai?}
 {492}{}{Okay, andiamo.}
 {493}{}{Dammi un attimo per prepararmi.}
 {494}{}{Puoi scordartelo. Tieniti pure i tuoi soldi!}
@@ -126,7 +126,7 @@
 {551}{}{Puttana!}
 {560}{}{Grazie. Ecco i tuoi soldi e un bonus di 100$.}
 {570}{}{Hai ucciso Tyler e la sua banda? E adesso come faremo a dimostrare la nostra forza a Metzger? Non ci assumera' mai. Questa era la nostra unica possibilita'.}
-{571}{}{Non abbiamo piu' un lavoro. Qualcuno ha ucciso le guardie di Metzger e adesso lui non ci rivolge la parola. Crede che siamo stati noi. Davvero magnifico...}
+{571}{}{Non abbiamo piu' un lavoro. Qualcuno ha ucciso le guardie di Metzger e adesso lui non ci rivolge la parola. Crede che siamo stati noi. Pazienza.}
 {572}{}{Scusa.}
 {573}{}{Che peccato.}
 {574}{}{Sono stato io, e voi siete i prossimi.}
@@ -145,7 +145,7 @@
 {610}{}{Sai davvero come mandare a puttane le cose, vero?}
 {611}{}{Non abbiamo piu' bisogno del tuo aiuto.}
 {612}{}{Va' a disturbare qualcun altro.}
-{613}{}{Sara' meglio per te che Metzger non dia la colpa a noi.}
+{613}{}{Speriamo che Metzger non se la prenda con noi.}
 {614}{}{Mi dispiace. Non posso aiutarti.}
 {615}{}{Non posso parlare. Sto cercando di capire cosa fare adesso.}
 {616}{}{Spero che Metzger non pensi che noi c'entriamo qualcosa.}

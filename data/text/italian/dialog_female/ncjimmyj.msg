@@ -1,21 +1,21 @@
 {100}{}{Vedi Jimmy J lo Sfregiato.}
 {150}{}{Vedi un uomo dall'aria disonesta. Ha uno sfregio profondo che gli attraversa un lato del viso, e un leggero tic facciale.}
-{151}{}{Vedi Jimmy J lo Sfregiato. Sembra che stia cercando di chiamare a se' qualche cliente.}
+{151}{}{Vedi Jimmy J lo Sfregiato. Sembra che sia a caccia di clienti.}
 {152}{}{Vedi Jimmy J lo Sfregiato. Fa un cenno con la testa non appena ti vede.}
 {153}{}{Vedi Jimmy J lo Sfregiato. Incrocia il tuo sguardo e ti fa cenno di andare da lui.}
-{200}{}{Ehi, ma tu sei }
+{200}{}{Ehi, ma guarda chi c'e': }
 {201}{}{Ehi, }
 {202}{}{Ecco un vero figlio di buona donna... e Jimmy J sa riconoscere un vero figlio di buona donna, quando ne vede uno.}
-{203}{}{Non succede tutti i giorni che qualcuno dia un calcio al posteriore del Presidente.}
-{204}{}{Sei tornata per festeggiare la tua vittoria con un po' del Jet di Jimmy lo Sfregiato, eroina?}
+{203}{}{Non succede tutti i giorni che qualcuno pesti il Presidente a casa sua.}
+{204}{}{Vuoi rilassarti e festeggiare la tua vittoria con un po' del Jet di Jimmy lo Sfregiato, eroina?}
 {205}{}{Tu hai salvato il mondo, eroina, e Jimmy lo Sfregiato te lo DA', il mondo. Ho tutto il Jet che ti serve.}
-{206}{}{Ho sentito dire che i fratelli Corsican ti stanno cercando, e-roe...}
+{206}{}{Ho sentito dire che i Fratelli Corsican ti stanno cercando, e-roina...}
 {220}{}{Io sono Jimmy lo Sfregiato, e ho tutto il Jet di cui hai BISOGNO.}
 {221}{}{Vuoi sballare? Jimmy lo Sfregiato e' l'uomo che cerchi.}
 {222}{}{Vuoi volare? Jimmy lo Sfregiato ha qui il tuo biglietto.}
 {223}{}{Vuoi passare dei bei momenti? Jimmy lo Sfregiato ha Jet per tutte le occasioni.}
 {224}{}{Vuoi sollevarti dal triste suolo? Jimmy lo Sfregiato ha il Jet di cui hai BISOGNO.}
-{225}{}{Questa settimana mi e' arrivata una partita speciale. Dai, vieni qui.}
+{225}{}{Questa settimana ho un'offerta speciale. Dai, facciamo affari.}
 {226}{}{Puoi scegliere: comprare della roba che uccide la gente, oppure puoi venire da Jimmy lo Sfregiato. La sua roba e' sempre pulita.}
 {227}{}{Jimmy J e' SEMPRE pronto a fare affari, amica.}
 {228}{}{Vuoi volare in cielo e mentre voli lasciare una traccia? Vieni da Jimmy, fidati della sua faccia.}
@@ -32,7 +32,7 @@
 {261}{}{Hunh? Jet? In cielo? Dove?}
 {263}{}{Jet, eh? Avrei delle doma --}
 {264}{}{Senti, non mi intere --}
-{270}{}{E, amico mio, quando si tratta di Jet, Jimmy J lo Sfregiato e' l'uomo che fa per TE. Ho la migliore roba di New Reno. Vero Jet, puro Jet, il Jet piu' SICURO.}
+{270}{}{E, amica mia, quando si tratta di Jet, Jimmy J lo Sfregiato e' l'uomo che fa per TE. Ho la migliore roba di New Reno. Vero Jet, puro Jet, il Jet piu' SICURO.}
 {271}{}{Dove Jet? Me no vede in cielo}
 {272}{}{Me deve ANDARE ADES --}
 {273}{}{Jimmy J lo Sfregiato, eh? Senti, avrei delle doman --}
@@ -42,8 +42,8 @@
 {282}{}{ME VA LASCIARE ME ANDA --}
 {283}{}{Ehi, lo, ehm, "stile Jimmy J" sembra grandioso, ed e' per questo che vorrei farti delle doman--}
 {284}{}{No, non credo che --}
-{290}{}{Sapevo che saresti tornato, lo sapevo! Jimmy J lo Sfregiato non te l'aveva detto che questo sarebbe stato il suo STILE? Fa' che siano sempre felici e loro non ti deluderanno. Allora, pilota... cosa puo' fare oggi per te Jimmy J lo Sfregiato?}
-{291}{}{Bene, bene... il mio amico "pilota"... sei tornato da queste parti perche' ti SERVE qualcosa da Jimmy lo Sfregiato, eh?}
+{290}{}{Sapevo che saresti tornata, lo sapevo! Jimmy J lo Sfregiato non te l'aveva detto che questo sarebbe stato il suo STILE? Fa' che siano sempre felici e loro non ti deluderanno. Allora, pilota... cosa puo' fare oggi per te Jimmy J lo Sfregiato?}
+{291}{}{Bene, bene... la mia amica "pilota"... sei tornato da queste parti perche' ti SERVE qualcosa da Jimmy lo Sfregiato, eh?}
 {292}{}{Um... Me dimenticato cosa stare per dire. Me va}
 {294}{}{Noi scambiare roba? Me PIACE roba}
 {295}{}{Hai del Jet? Molto bene. Parliamo d'affari... amico.}
@@ -56,17 +56,17 @@
 {311}{}{Si', che vuoi? Falla breve... Non ho tempo da sprecare con quelli come te.}
 {312}{}{Tu hai desideri, tu hai domande... Cosa puo' fare oggi per te Jimmy J lo Sfregiato?}
 {314}{}{Me dimenticato! Me finalmente aveva qualcosa in testa e me dimenticato! }
-{330}{}{Ehi... La tua faccia torna FAMILIARE a Jimmy. Ti conosco, amico "pilota"?}
-{331}{}{Potrei quasi GIURARE di sapere chi sei, amico "pilota"... Hai un'aria cosi' familiare...}
+{330}{}{Ehi... La tua faccia torna FAMILIARE a Jimmy. Ti conosco, amica "pilota"?}
+{331}{}{Potrei quasi GIURARE di sapere chi sei, amica "pilota"... Hai un'aria cosi' familiare...}
 {332}{}{ME GRANDE EROINA ME FINITO GIOCO E ROTTO CULO A PRESIDENTE E FATTO FARE GRANDE BUM A PIATTAFORMA DI PETROLIO E SALVATO MONDO}
-{333}{}{Me combatte su ring davanti a molte persone che urlare ooh e gridare uccidi uccidi quel bastardo cosi' me dare pugni lui finche' lui non rimanere a terra}
-{334}{}{Me fare cose cattive con stranieri che parlare troppo a Dio}
+{333}{}{Me combatte su ring davanti a tanta gente che urlare uccidi uccidi quello stronzo cosi' me dare pugni lui finche' lui non rimanere a terra}
+{334}{}{Me fare porcate con stranieri che parlare tanto con Dio}
 {335}{}{Me PICIOTA. Me GRANDE persona in REEno}
 {336}{}{Come puo' qualcuno conoscere DAVVERO un'altra persona, Jimmy? E' forse possibile farlo mentre ci troviamo in questo guscio mortale? O forse e' possibile soltanto quando ci liberiamo dei nostri corpi fisici?}
-{337}{}{ME VOLEVA parlare ma tu no LASCIATO me. ADIO}
-{338}{}{Beh, ho sventato il progetto dell'Enclave di uccidere tutti gli abitanti del pianeta, ho sconfitto il Presidente, ho fatto esplodere la loro base, e sono riuscito a malapena a cavarmela.}
+{337}{}{ME VOLEVA parlare ma tu no LASCIATO me. CIAO}
+{338}{}{Beh, ho sventato il progetto dell'Enclave di uccidere tutti gli abitanti del pianeta, ho sconfitto il Presidente, ho fatto esplodere la loro base, e sono riuscita a malapena a cavarmela.}
 {339}{}{Ho combattuto sul ring di pugilato.}
-{340}{}{Sono apparso in qualche film. Hai mai sentito parlare di }
+{340}{}{Sono apparsa in qualche film. Hai mai sentito parlare di }
 {341}{}{Sono in stretti rapporti con la famiglia }
 {342}{}{No, non credo, Jimmy. Vogliamo fare affari o no?}
 {343}{}{No, non credo. Ehi, volevo chiederti qualcosa...}
@@ -79,9 +79,9 @@
 {375}{}{(Jimmy cade in un silenzio attonito. Probabilmente gli hai paralizzato il cervello.)}
 {376}{}{(Ruba tutto quel che ha.)}
 {377}{}{ colpisce ancora.}
-{385}{}{Jimmy J lo Sfregiato ha un sacco d'amore, amica "pilota, ma il mondo non sempre ricambia l'amore di Jimmy J lo Sfregiato, sai?}
+{385}{}{Jimmy J lo Sfregiato ha un sacco d'amore, amica "pilota", ma il mondo non sempre ricambia l'amore di Jimmy J lo Sfregiato, sai?}
 {386}{}{Ho capito. Ho capito.}
-{387}{}{Non dirmelo. A volte il mondo puo' essere davvero un luogo crudele.}
+{387}{}{A chi lo dici. A volte il mondo puo' essere davvero un luogo crudele.}
 {388}{}{Che MAGNIFICA storia. Senti, Jimmy, avrei delle altre domande...}
 {389}{}{Bella storia. Ora... tu hai del Jet, io ho dei soldi... possiamo trovare un accordo?}
 {390}{}{Bella storia. Adesso devo andare, Jimmy.}
@@ -101,14 +101,14 @@
 {434}{}{Beh, ho sentito abbastanza, Jimmy. Sta' attento quando ti radi, okay?}
 {435}{}{D'accordo, allora. Ci becchiamo dopo, Jimmy.}
 {445}{}{E a momenti lo faceva! Sai, quando l'ho fatto non pensavo a cose tipo "diventero' un eroe", ma...}
-{446}{}{Hai fatto solo quello che ti sentivi di fare, giusto?}
+{446}{}{Hai fatto solo cio' che ti veniva naturale, giusto?}
 {447}{}{Ah-a. Senti, avrei delle altre domande...}
 {448}{}{Devo andare. Ci becchiamo dopo, Jimmy.}
 {455}{}{Esatto... esatto... Ho solo visto che stava succedendo qualcosa di sbagliato e dovevo fare QUALCOSA, okay? Non potevo permettere che succedesse una cosa del genere mentre io ero presente, capisci?}
 {456}{}{Hai dimostrato di avere le PALLE, facendo una cosa del genere, Jimmy. Molte persone avrebbero semplicemente girato la testa da un'altra parte e sarebbero andate via.}
 {457}{}{Capisco. Senti, avrei delle altre domande...}
 {465}{}{Io AMO la gente, e NON amo quando qualcuno se la prende con qualcun altro solo perche' puo' farlo. Queste stronzate sono SBAGLIATE.}
-{466}{}{Sei un uomo coraggioso, Jimmy, molto coraggioso. Porta la tua cicatrice con orgoglio. Senti, posso vedere il tuo stock?}
+{466}{}{Sei un uomo coraggioso, Jimmy, molto coraggioso. Porta la tua cicatrice con orgoglio. Senti, posso vedere cos'hai da vendere?}
 {467}{}{Hai ragione. Senti, avrei delle altre domande...}
 {475}{}{Diavolo, amica "pilota", tu mi piaci, quindi vedi di non tirar fuori quello schermo per il baratto pieno di valvole e cavi.}
 {476}{}{Uh...okay... e allora come faccio a comprare da te?}
@@ -116,13 +116,13 @@
 {481}{}{Grazie, Jimmy. Ascolta, posso vedere cos'altro hai da vendere?}
 {482}{}{Ehi, grazie. Senti, avrei delle altre domande...}
 {483}{}{D'accordo. Grazie, Jimmy.}
-{490}{}{Sono felice che tu me l'abbia chiesto, amico "pilota", molto felice. Vedi... tutti gli ALTRI spacciatori, okay, hanno della roba di seconda mano, annacquata, okay, diluita con schifezze d'ogni genere.}
+{490}{}{Sono felice che tu me l'abbia chiesto, amica "pilota", molto felice. Vedi... tutti gli ALTRI spacciatori, okay, hanno della roba di seconda mano, annacquata, okay, diluita con schifezze d'ogni genere.}
 {491}{}{Il tuo Jet, invece...}
 {492}{}{Facciamo finta che non te l'abbia chiesto. Avrei delle altre domande...}
 {500}{}{Una volta lo prendevo dal dio in persona, da Myron, okay, ma adesso se n'e' andato... o l'hanno freddato. Adesso spaccio direttamente per la famiglia Mordino.}
 {501}{}{Beh, UNA VOLTA lo prendevo da Myron, prima che si facesse arrogante e lasciasse il giro... ho ragione, Myron? Ah! Adesso spaccio la normale roba dei Mordino.}
 {502}{}{Interessante. Ho delle altre domande...}
-{510}{}{Io ho dei contatti con il CREATORE, amico "pilota". Il mio Jet lo prendo direttamente dal geniaccio, dal dio vivente delle droghe e dei composti chimici: MYRON.}
+{510}{}{Io ho dei contatti con il CREATORE, amica "pilota". Il mio Jet lo prendo direttamente dal geniaccio, dal dio vivente delle droghe e dei composti chimici: MYRON.}
 {511}{}{Myron?}
 {512}{}{Interessante. Ho delle altre domande...}
 {513}{}{Myron, eh? E potrei incontrare anch'io questo... dio vivente?}
@@ -140,11 +140,11 @@
 {543}{}{Capisco. Avrei delle altre domande...}
 {550}{}{L'hanno piazzato in un posto chiamato "Stalle", a nord di qui, fuori dai confini cittadini. Sono stato la' soltanto una volta - non mi lasciano mai superare i cancelli... e io LAVORO per la famiglia Mordino.}
 {551}{}{Dai, ci deve pur essere un modo per vederlo.}
-{554}{}{Le Stalle, eh? Fuori citta', a nord... (Sara' meglio segnarselo in fretta sul PipBoy)... grazie per le dritte, Jimmy.}
-{560}{}{Non ne ho la piu' pallidissima idea, amico. Io VENDO solo la roba per quel ragazzo, e l'ho visto a malapena un paio di volte da centinaia di metri di distanza. Big Jesus Mordino non lascia avvicinare nessuno che non abbia degli stretti legami con la famiglia.}
+{554}{}{Le Stalle, eh? Fuori citta', a nord... (Sara' meglio segnarselo in fretta sul Pip-Boy)... grazie per le dritte, Jimmy.}
+{560}{}{Non ne ho la piu' pallida idea, amica. Io VENDO solo la roba per quel ragazzo, e l'ho visto a malapena un paio di volte da centinaia di metri di distanza. Big Jesus Mordino non lascia avvicinare nessuno che non abbia degli stretti legami con la famiglia.}
 {561}{}{D'accordo. Adesso parliamo di affari.}
 {564}{}{D'accordo. Grazie, Jimmy. Devo andare.}
-{570}{}{Beh, ci sarebbe una storia completamente... diversa, amico "pilota. Oh si'.}
+{570}{}{Beh, ci sarebbe una storia completamente... diversa, amica "pilota". Oh, si'.}
 {571}{}{Credo che questa sia una storia che mi piacerebbe proprio ascoltare. Forza, Jimmy...}
 {572}{}{Come non detto. Avrei delle altre domande...}
 {573}{}{Non credo di avere il tempo per ascoltare questa storia, Jimmy. Devo andare.}
@@ -154,19 +154,19 @@
 {584}{}{Capisco. Grazie, Jimmy. Devo andare.}
 {590}{}{I Mordino consegnano personalmente le troie alle Stalle, e poi le scortano fuori. Eh eh. Myron ha a malapena diciannove anni, e gli ormoni di venti... venti UOMINI, intendo.}
 {592}{}{Interessante... Cosi', tanto per CURIOSITA': dove le prendono i Mordino queste prostitute, e qual e' il criterio di scelta?}
-{600}{}{(Alza le spalle.) Uno dei Mordino va al Cat's Paw che c'e' in fondo alla strada, cosi' mi hanno detto, e sceglie una delle ragazze di Miss Kitty che potrebbe piacere a Myron... (Jimmy smette improvvisamente di parlare. Ti guarda di traverso e aggrotta le sopracciglia) Aspetta un secondo...}
+{600}{}{(Alza le spalle.) Uno degli uomini dei Mordino va al Cat's Paw che c'e' in fondo alla strada, cosi' mi hanno detto, e sceglie una delle ragazze di Miss Kitty che potrebbe piacere a Myron... (Jimmy smette improvvisamente di parlare. Ti guarda di traverso e aggrotta le sopracciglia) Aspetta un secondo...}
 {601}{}{Cosa c'e'?}
 {602}{}{Uh... lascia perdere. Senti, avevo altre domande...}
 {603}{}{Uh, beh, grazie per le informazioni, Jimmy.}
-{610}{}{Perche' vuoi sapere tutte queste stronzate? Io ho il Jet, e questo e' tutto quello che TI serve sapere. Non ti serve sapere nulla su Myron, o su quello che ha mangiato a pranzo, o su cosa fa prima di andare a letto la sera.}
-{611}{}{Perche' vuoi sapere tutte queste stron... (Si ferma, poi sorride e ti osserva per bene.) Aw, adesso ho capito il tuo gioco. Tu vuoi andare direttamente alla fonte per avere il Jet, giusto sorella?}
-{612}{}{No, per il momento. Vediamo un po' cos'hai da vendermi, Jimmy.}
+{610}{}{Perche' vuoi sapere tutte queste stronzate? Io ho il Jet, e questo e' tutto quello che TI serve sapere. Non ti serve sapere nulla su Myron, o su quello che ha mangiato a cena, o su chi si fa prima di andare a letto la sera.}
+{611}{}{Perche' vuoi sapere tutte queste stron... (Si ferma, poi sorride e ti osserva per bene.) Aw, adesso ho capito il tuo gioco. Tu vuoi andare direttamente alla fonte per avere il Jet, giusto, sorella?}
+{612}{}{Per il momento no. Vediamo un po' cos'hai da vendermi, Jimmy.}
 {613}{}{Lasciamo stare, allora. Parliamo di affari.}
 {614}{}{Come non detto, allora. Avrei delle altre domande...}
 {615}{}{Forse si'. Senti, avrei delle altre domande...}
 {616}{}{No, ero solo curiosa. Grazie, Jimmy. Devo andare.}
 {617}{}{D'accordo. A dopo, Jimmy. Devo andare.}
-{625}{}{Diavolo, quello che sto DICENDO e' che a Jimmy piace che i suoi clienti siano felici e VIVI. Trai le tue conclusioni da solo, amico "pilota". Per te e' piu' importante respirare o risparmiare qualche spicciolo sul tuoi prossimo acquisto di Jet?}
+{625}{}{Diavolo, quello che sto DICENDO e' che a Jimmy piace che i suoi clienti siano felici e VIVI. Trai tu le conclusioni, amica "pilota". Per te e' piu' importante respirare o risparmiare qualche spicciolo sul tuo prossimo acquisto di Jet?}
 {626}{}{Ho capito. Parliamo di affari?}
 {627}{}{Sai qualcosa a proposito di questa fiala vuota di Jet?}
 {628}{}{Non credo che il ragazzo sia morto per un'overdose da Jet. Credo che sia stato avvelenato.}
@@ -179,20 +179,20 @@
 {645}{}{VAFFANCULO! Io vendo roba PULITA! Se vuoi sapere chi ha avvelenato il giovane Wright, vallo a chiedere a quel vecchio pazzo di Renesco, o a quella faina di Jules, e vedi un po' cosa ti dicono!}
 {646}{}{Okay, okay. Calmati --}
 {648}{}{D'accordo, d'accordo. Senti, avrei delle altre d --}
-{655}{}{Adesso ascoltami, e ascoltami BENE. Se vengo a sapere che sei andato in giro a raccontare stronzate a proposito di un mio coinvolgimento nella morte di quel ragazzo, faro' in modo che tu abbia una tomba sul Golgotha proprio accanto alla sua.}
+{655}{}{Adesso ascoltami, e ascoltami BENE. Se vengo a sapere che sei andata in giro a raccontare stronzate a proposito di un mio coinvolgimento nella morte di quel ragazzo, faro' in modo che tu abbia una tomba sul Golgotha proprio accanto alla sua.}
 {656}{}{Renesco mi ha detto che tu vendi il Jet mischiato all'arsenico.}
 {659}{}{Nessun problema. Senti, avrei delle altre domande...}
 {660}{}{Morto, eh? Come Richard?}
 {661}{}{Non provare a minacciare ME, piccolo succhiacazzi che non sei altro. Dammi fastidio e io ti ammazzero' talmente tante volte che crederai di essere Lazzaro.}
 {662}{}{Calma, Jimmy. Nessuno andra' in giro a dire certe cose.}
 {663}{}{Non diro' nulla, Jimmy. Adesso me ne vado, vedi? Me ne sto andando.}
-{675}{}{(Prende la fiala, la osserva.) Nah, io... (Annusa il boccaglio, poi aggrotta le sopracciglia.) Cazzo. In questo Jet c'e' del succo di radscorpione. Chiunque inali questa roba non rimarra' a lungo su questa terra... (Ti rida' la fiala.)}
+{675}{}{(Prende la fiala, la osserva.) Nah, io... (Annusa il boccaglio, poi aggrotta le sopracciglia.) Meeerda. In questo Jet c'e' del succo di radscorpione. Chiunque inali questa roba non rimarra' a lungo su questa terra... (Ti rida' la fiala.)}
 {676}{}{E' avvelenato?}
 {677}{}{Hmmm. Avrei delle altre domande...}
 {678}{}{Capisco. Grazie.}
 {685}{}{Per tutti i diavoli, si'! Bisogna stare attenti in questa citta', se gira roba come quella... E' per questo che Jimmy dice sempre --}
-{686}{}{Hai idea di chi potrebbe averlo preparato?}
-{695}{}{Nah, io non... senti, non dire che te l'ho detto io, ma... se fossi in te, proverei a chiederlo a Jules e Renesco... ma io non ti ho detto niente, okay?}
+{686}{}{Hai idea da dove possa venire?}
+{695}{}{Nah, io non... senti, non andare in giro a dire che e' roba mia... se fossi in te, proverei a chiederlo a Jules e Renesco... ma io non ti ho detto niente, okay?}
 {696}{}{D'accordo, allora. Avrei delle altre domande...}
 {697}{}{Renesco e Jules, eh? Glielo chiedero'. Grazie della dritta.}
 {705}{}{Non mi sorprende.}
@@ -201,7 +201,7 @@
 {708}{}{Lasciamo perdere, allora.}
 {715}{}{Gia'... era OVVIO che dicesse una cosa del genere, dal momento che sa TUTTO.}
 {716}{}{Che cosa vuoi dire?}
-{725}{}{Che cosa voglio dire? Voglio dire che Jimmy vuole che i suoi clienti siano felici e VIVI. Renesco non e' cosi' puntiglioso, pero'... quindi trai le TUE conclusioni, amico "pilota".}
+{725}{}{Che cosa voglio dire? Voglio dire che Jimmy vuole che i suoi clienti siano felici e VIVI. Renesco non e' cosi' puntiglioso, pero'... quindi trai le TUE conclusioni, amica "pilota".}
 {727}{}{Grazie per la dritta, Jimmy. Sara' meglio che vada, adesso.}
 {800}{}{Hai scoperto che Richard Wright e' stato avvelenato.}
 {5200}{}{! Vieni a prendere un po' di Jet in omaggio da J-J...}
@@ -209,5 +209,5 @@
 {5281}{}{ tu mentito a }
 {5314}{}{ UCCIDERE TE}
 {5340}{}{?}
-{5341}{}{ famiglia.}
-{6281}{}{ su jet?}
+{5341}{}{.}
+{6281}{}{ sul Jet?}

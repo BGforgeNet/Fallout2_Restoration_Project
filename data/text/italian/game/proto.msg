@@ -41,9 +41,9 @@
 {311}{}{calibro 12}
 {312}{}{9mm}
 {313}{}{Pallini}
-{314}{}{.45 cal}
+{314}{}{cal .45}
 {315}{}{2mm}
-{316}{}{4.7mm scamiciato}
+{316}{}{4.7mm senza bossolo}
 {317}{}{HN needler}
 {318}{}{7.62mm}
 {350}{}{Caucasico}
@@ -54,17 +54,17 @@
 {450}{}{Uomini -}
 {451}{}{Donne -}
 {452}{}{Bambini -}
-{453}{}{Super mutanti}
+{453}{}{Super Mutanti -}
 {454}{}{Ghoul -}
-{455}{}{un Brahmin}
+{455}{}{Brahmin}
 {456}{}{Radscorpioni -}
 {457}{}{Ratti -}
-{458}{}{Fluttanti -}
+{458}{}{Fluttuanti -}
 {459}{}{Centauri -}
 {460}{}{Robot -}
 {461}{}{Cani -}
 {462}{}{Mantidi -}
-{463}{}{Deathclaw}
+{463}{}{Deathclaw -}
 {464}{}{Pianta}
 {465}{}{Questa riga mostra il numero di maschi umani che hai ucciso durante le tue avventure.}
 {466}{}{Questa riga mostra il numero di femmine umane che hai ucciso durante le tue avventure.}
@@ -108,8 +108,8 @@
 {526}{}{Ha %d/%d munizioni %s.}
 {530}{}{e ha menomazioni agli arti.}
 {531}{}{ma ha menomazioni agli arti.}
-{532}{}{e ha menomazioni agli arti.}
-{533}{}{e ha menomazioni agli arti.}
+{532}{}{e hai menomazioni agli arti.}
+{533}{}{ma hai menomazioni agli arti.}
 {535}{}{Ha %d/%d PV}
 {536}{}{Ha %d/%d PV}
 {537}{}{Ha %d/%d PV}
@@ -127,7 +127,7 @@
 {581}{}{Usi %s su %s.}
 {582}{}{Non ha effetto.}
 {583}{}{Con dispiacere ti accorgi che e' gia' morto.}
-{584}{}{Come lo raggiungi, ti accorgi che e' gia' morto.}
+{584}{}{Mentre ti chini, ti accorgi che e' gia' morto.}
 {585}{}{Ahime', non hai fatto in tempo.}
 {586}{}{Non funziona con i morti.}
 {587}{}{Accendi la torcia.}
@@ -148,20 +148,20 @@
 {651}{}{[AVANTI]}
 {652}{}{Avanti}
 {653}{}{[INDIETRO]}
-{654}{}{Indietro.}
-{655}{}{Go on}
+{654}{}{Indietro}
+{655}{}{Continua}
 {656}{}{Err...}
 {660}{}{Non lo vedi.}
 {661}{}{Troppo distante.}
 {670}{}{Okay.}
-{671}{}{Bene.}
+{671}{}{Certo.}
 {672}{}{Come desideri.}
-{673}{}{Come desideri.}
+{673}{}{Come dici tu.}
 {674}{}{Ci provero'.}
 {675}{}{Non posso farlo.}
 {676}{}{Non credo di poterlo fare.}
-{677}{}{Ouaf!}
-{678}{}{Uff!}
+{677}{}{Bau!}
+{678}{}{Bau!}
 {700}{}{Non hai abbastanza Punti Azione.}
 {800}{}{Leggi il libro.}
 {801}{}{Non impari nulla di nuovo.}
@@ -184,15 +184,15 @@
 {1452}{}{Bambini -}
 {1453}{}{Super Mutanti -}
 {1454}{}{Ghoul -}
-{1455}{}{un Brahmin}
+{1455}{}{Brahmin}
 {1456}{}{Radscorpioni -}
 {1457}{}{Ratti -}
-{1458}{}{Fluttanti -}
+{1458}{}{Fluttuanti -}
 {1459}{}{Centauri -}
 {1460}{}{Robot -}
 {1461}{}{Cani -}
 {1462}{}{Mantidi -}
-{1463}{}{Deathclaw}
+{1463}{}{Deathclaw -}
 {1464}{}{Piante -}
 {1465}{}{Gecki -}
 {1466}{}{Alieni -}
@@ -212,8 +212,8 @@
 {1480}{}{Il numero totale di Cani che hai spedito nella Grande Cuccia del cielo.}
 {1481}{}{Questa riga mostra il numero totale di Mantidi, grandi insetti mantidiformi mutanti, che hai schiacciato fin qui.}
 {1482}{}{Questa riga dimostra che hai ucciso il Deathclaw, e altri esemplari della sua specie.}
-{1483}{}{Questa riga indica il numero di piante che hai segato via dal mondo.}
+{1483}{}{Questa riga indica il numero di piante che hai estirpato dal mondo.}
 {1484}{}{Il numero di simpatiche lucertole che hai spazzato via dalla faccia della Terra.}
 {1485}{}{Il numero di "cosi" alieni uccisi per mano tua.}
 {1486}{}{Il numero di insettoidi che hai sterminato nelle Lande.}
-{1487}{}{il numero di guardie del corpo cyborg-dall'istinto-omicida-geneticamente-modificate che hai spazzato via.}
+{1487}{}{Il numero di guardie del corpo cyborg-dall'istinto-omicida-geneticamente-modificate che hai spazzato via.}

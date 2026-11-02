@@ -1,5 +1,5 @@
 {100}{}{Vedi uno Shi a torso nudo.}
-{101}{}{Vedi Dragon, l'eroe di molti popolani shi.}
+{101}{}{Vedi Dragon, l'eroe di molti popolani Shi.}
 {102}{}{Vedi un uomo muscoloso e a torso nudo, le cui mani sembrano armi pericolose.}
 {103}{}{Come posso aiutarti?}
 {104}{}{Dinkle humper doo!}
@@ -13,7 +13,7 @@
 {112}{}{Ciaaaaaao!}
 {113}{}{Io sono Dragon, amico mio. Combatto l'oppressione e il mio nemico, Lo Pan, che brama controllare questa citta'. Combatto... e insegno agli altri come combattere.}
 {114}{}{Insegnami!}
-{115}{}{Grazie.}
+{115}{}{Grassie.}
 {116}{}{Cominciamo!}
 {117}{}{[FATTO]}
 {118}{}{::ti guarda attentamente:: Non credo che useresti i miei insegnamenti a fin di bene. Buona giornata.}
@@ -38,7 +38,7 @@
 {137}{}{Okay, Pollyanna. Rilassati.}
 {138}{}{Io lo chiamo combattere in modo intelligente. "Onore" e' una parola inventata solo per celebrare gli assassini.}
 {139}{}{Ho capito. Ho delle altre domande.}
-{140}{}{Cerrrrto. Addio.}
+{140}{}{Cerrrrto. Ci vediamo.}
 {141}{}{Dobbiamo prima decidere se desideri che questa sia una lotta fino all'ultimo, oppure se vuoi solo provare le tue capacita' contro di me.}
 {142}{}{Fino alla fine. Posso batterti.}
 {143}{}{Voglio solo mettere alla prova le nostre capacita'. Non voglio ucciderti.}
@@ -57,7 +57,7 @@
 {156}{}{[COMINCIA]}
 {157}{}{Tuttavia, durante un combattimento in un contesto formale, non puoi negare di aver accettato la sfida di tua spontanea volonta'. Una volta accettata la sfida, non si dovrebbero accettare e rispettare anche le sue regole?}
 {158}{}{In linea di massima si'. Ma in una situazione di vita o di morte, bisogna fare qualsiasi cosa per sopravvivere.}
-{159}{}{No, non credo che lo faro'.}
+{159}{}{No, direi di no.}
 {160}{}{Le tue parole sono sensate. Bene. Allora, se desideri affrontare Lo Pan, lo farai senza armi ne' armatura? Se decideremo di riporre le nostre speranze in te, dovremo chiederti di rispettare le nostre regole.}
 {161}{}{Okay, lo affrontero' come volete.}
 {162}{}{No. Puoi scordartelo.}
@@ -83,24 +83,24 @@
 {182}{}{Err... okay. Ci vediamo.}
 {183}{}{Sono tornato da poco da una missione per difendere il nostro onore. Quella notte abbiamo dimostrato la nostra forza.}
 {184}{}{Ottimo. Ho delle domande da farti.}
-{185}{}{Ottimo... Ci vediamo.}
+{185}{}{Ottimo. Ciao.}
 {186}{}{Lo Pan e' morto! Devo ringraziare te, ne sono certo. Adesso sento che sara' la mia scuola a guidare nel futuro il nostro stile di combattimento.}
 {187}{}{Ottimo. Ho delle domande da farti.}
-{188}{}{Ottimo... Ci vediamo.}
-{189}{}{Il tuo kung fu non e' il benvenuto, qui.}
+{188}{}{Ottimo. Ciao.}
+{189}{}{Il tuo kung fu qui non serve a niente.}
 {190}{}{Un giorno ti sconfiggero', Dragon.}
 {191}{}{Ti aspettero', Lo Pan.}
 {200}{}{Dragon si accorge delle tue intenzioni e lo manchi.}
 {201}{}{Un ladro non merita il rispetto degli Shi. Vattene subito.}
 {202}{}{Ti avevo chiesto di andartene. Adesso la pagherai per cio' che hai fatto.}
-{203}{}{Sembra che tu non abbia piu' bisogno di ulteriori insegnamenti da parte mia.}
+{203}{}{Sembra che tu non abbia bisogno di altri insegnamenti da parte mia.}
 {204}{}{Le lezioni sono ben piu' che un semplice esercizio fisico, cavalletta. Rifletti su questo insegnamento e torna domani.}
-{205}{}{Io sono Master Ziggy, la tua sfida finale.}
+{205}{}{Io sono il Maestro Ziggy, la tua sfida finale.}
 {206}{}{Io sono Zurak. Sta' in guardia.}
 {207}{}{Io sono Jimmy. Preparati.}
 {208}{}{Io sono Herb. Non andrai oltre.}
 {209}{}{Io sono Jobe. E' giunto il tempo che tu sia battuto.}
-{210}{}{Io sono Master Rube. E tu sei finito.}
+{210}{}{Io sono il Maestro Rube. E tu sei finito.}
 {211}{}{COMBATTETE!}
 {212}{}{Nel tuo futuro c'e' ancora tanto allenamento.}
 {213}{}{Fatti sotto!}
@@ -121,10 +121,10 @@
 {228}{}{Prossimo avversario!}
 {230}{}{Per prima cosa devi dimostrare di essere in grado di farlo. Ti mettero' di fronte a cinque dei miei allievi - uno alla volta. Se li batti tutti, allora sarai pronto ad affrontare l'esame finale.}
 {231}{}{Cos'e' quello?}
-{232}{}{Sembra un po' troppo rischioso. Addio.}
-{233}{}{Verra messo alla prova contro il mio apprendista preferito. Tuttavia, nessuno di questi incontri sara' all'ultimo sangue.}
+{232}{}{Mi sembra troppo impegnativo. Ciao.}
+{233}{}{Ti mettero' alla prova contro il mio allievo prescelto. Tuttavia, nessuno di questi incontri sara' all'ultimo sangue.}
 {234}{}{Ok, cominciamo pure.}
 {235}{}{Puoi sbarazzarti di Lo Pan da solo.}
-{236}{}{[Dragon ti osserva] Mi spiace, ma non posso permettere che tu ti faccia male da solo.}
+{236}{}{[Dragon ti osserva] Mi spiace, ma non posso permettere che qualcuno della tua preparazione si faccia del male.}
 {237}{}{Ok, ma posso chiederti qualcos'altro?}
-{238}{}{D'accordo. Addio.}
+{238}{}{D'accordo. Ciao.}

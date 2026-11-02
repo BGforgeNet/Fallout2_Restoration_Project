@@ -5,8 +5,8 @@
 {104}{}{Vedi un ragazzino con i capelli castani. Sembra molto piu' felice di prima.}
 {105}{}{Vedi Curtis.}
 {106}{}{Vedi un ragazzino con i capelli castani. Sembra molto piu' felice di prima.}
-{107}{}{*Annusa*}
-{108}{}{Vuoi una tazza di the, Mr. Nixon?}
+{107}{}{*Tira su col naso*}
+{108}{}{Vuoi una tazza di te', Mr. Nixon?}
 {109}{}{"Ma si', certamente, Curtis."}
 {110}{}{Ecco a te. Bevi!}
 {111}{}{"Grazie, Curtis."}
@@ -26,7 +26,7 @@
 {125}{}{Quezto Nixxson?}
 {126}{}{-Allontanati-}
 {127}{}{E' questo? Anche lui ti stava cercando.}
-{128}{}{Ho Mr. Nixon proprio qui. Ma la sai una cosa? Credo che Mr. Nixon dovrebbe essere punito per essersene andato via da solo. Qualche smebramento rituale dovrebbe fare al caso nostro. Percio', per prima cosa stacchero' le sue braccia, poi...}
+{128}{}{Ho Mr. Nixon proprio qui. Ma la sai una cosa? Credo che Mr. Nixon dovrebbe essere punito per essersene andato via da solo. Un piccolo smembramento rituale dovrebbe fare al caso nostro. Percio', per prima cosa gli stacchero' le braccia, poi...}
 {129}{}{Nemmeno io.}
 {130}{}{L'hai ritrovato! Hai ritrovato Mr. Nixon!}
 {131}{}{Ciaoooo Mistuh Nixxson}

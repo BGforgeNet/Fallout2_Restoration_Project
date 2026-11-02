@@ -9,9 +9,9 @@
 {108}{}{Mi fa male la schiena.}
 {109}{}{Oh, guardate... un altro turista.}
 {112}{}{Stai attento ai mostri che si trovano all'interno della petroliera. Oh, aspetta... immagino tu lo sappia gia'.}
-{113}{}{E cosi' vuoi arrivare alla petroliera, giusto?}
-{114}{}{La petroliera e' un posto difficile. Questo sono i punk a dirlo.}
-{115}{}{Vai da qualche parte con quella cosa?}
+{113}{}{Allora, te la cavi bene nella petroliera?}
+{114}{}{La petroliera e' un posto difficile. Lo dicono i punk.}
+{115}{}{Fai progressi, la' dentro?}
 {116}{}{E' un bel giorno per essere sull'oceano.}
 {117}{}{Ho sempre amato le onde.}
 {118}{}{Ti piace l'olio di pesce?}

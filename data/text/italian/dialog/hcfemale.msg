@@ -3,16 +3,16 @@
 {102}{}{Vedi un'abitante del paese. Sebbene i suoi vestiti non siano in ottimo stato, sembra fiera di se'.}
 {147}{}{Esistono ancora posti sicuri, adesso?}
 {148}{}{Quand'e' che la delinquenza e' diventata cosi' comune?}
-{149}{}{Sto pensando di andarmene… la vita qui non e' piu' sicura.}
+{149}{}{Sto pensando di andarmene... la vita qui non e' piu' sicura.}
 {150}{}{Mi hanno detto che Franc e Manson covano un profondo odio per i mutanti.}
-{151}{}{Sono felice che siano usciti… mi domando dove si trovino adesso.}
+{151}{}{Sono felice che siano usciti... mi domando dove si trovino adesso.}
 {152}{}{Franc e Manson sono veleno. Questa citta' non sara' mai la stessa finche' non li avranno presi di nuovo.}
 {153}{}{Chi mai potrebbe aver ucciso quelle guardie? E' una cosa disumana.}
 {154}{}{E' incredibile: questa citta' un tempo era cosi' pacifica...}
-{155}{}{Come sei riuscito a convincere le guardie a far uscire quei due bastardi?}
+{155}{}{Come hai fatto a convincere le guardie a far uscire quei due bastardi?}
 {156}{}{Grazie per aver fatto uscire Franc e Manson. Non avevano fatto niente di grave.}
 {157}{}{E adesso Franc e Manson dove sono? Dovrebbero proprio tornare in cella.}
-{158}{}{Alcuni dei miei amici sono mutanti e ghoul…}
+{158}{}{Alcuni dei miei migliori amici sono mutanti e ghoul...}
 {159}{}{Vorrei tanto che ci fossero piu' lampadine.}
 {160}{}{Cos'e' 'sta puzza?}
 {161}{}{Temo che NCR possa provare ad assorbirci.}
@@ -20,33 +20,33 @@
 {163}{}{Non ho niente contro i mutanti, ma hanno un aspetto cosi' strano.}
 {164}{}{Direi "ben fatto", ma probabilmente mi denunceresti.}
 {165}{}{Jacob e Aileen odiavano i mutanti, eh? Sembravano delle persone cosi' a modo.}
-{166}{}{Ma dai… Aileen?}
+{166}{}{Ma dai... Aileen?}
 {167}{}{Non posso credere che i rapporti tra umani e mutanti siano precipitati cosi' in basso.}
 {168}{}{Adesso Marcus dev'essere parecchio arrabbiato con gli umani...}
 {169}{}{Credo che tutti noi umani faremmo meglio a calmarci un po'.}
 {170}{}{Ho sentito dire che i mutanti si stanno riunendo per distruggere gli umani!}
 {171}{}{Cosa pensano i ghoul di tutto questo?}
-{172}{}{La miniera… distrutta… tutte le nostre case non hanno piu' valore, ormai. }
+{172}{}{La miniera... distrutta... tutte le nostre case non hanno piu' valore, ormai. }
 {173}{}{Siamo rovinati.}
 {174}{}{Questa e' la fine di Broken Hills.}
 {175}{}{Me ne andro' a NCR.}
 {176}{}{Chi mai potrebbe aver fatto una cosa del genere?}
-{177}{}{Mio Dio… la miniera…}
+{177}{}{Mio Dio... la miniera...}
 {178}{}{Non c'e' giustizia a questo mondo?}
 {179}{}{Credo che mi uccidero'. Senza la miniera, non posso procurarmi da vivere.}
-{180}{}{Oh, baby… la vita e' dura.}
-{181}{}{Wow… non avrei mai creduto che ci fosse qualcuno forte abbastanza da battere Francis.}
+{180}{}{Oh, baby... la vita e' dura.}
+{181}{}{Wow... non avrei mai creduto che ci fosse qualcuno forte abbastanza da battere Francis.}
 {182}{}{Sei cosi' forte!}
 {183}{}{Sei un vero duro, eh?}
-{184}{}{A volte mi sento come una palla-8 magica. Tutto quel che faccio e' sputare sentenze casuali mentre cammino.}
-{185}{}{Hai mai combattuto a mani nude contro un deathclaw?}
+{184}{}{A volte mi sento come una Magic 8-Ball. Sputo sentenze a caso e me ne vado.}
+{185}{}{Hai mai combattuto a mani nude contro un Deathclaw?}
 {186}{}{Sei intelligente tanto quanto sei forte?}
 {187}{}{Francis sembra davvero felice, ultimamente.}
 {188}{}{Francis e' davvero euforico. E' andato a letto con qualcuno?}
-{189}{}{Ehila', fuscello!}
+{189}{}{Ehila', zoppo!}
 {190}{}{Riesci ancora a camminare dritto?}
 {191}{}{Francis ti ha fatto male?}
-{192}{}{Cammini un po' a fatica...}
+{192}{}{Hai una macchiolina, li'...}
 {193}{}{Come puoi essere stato cosi' stupido da sfidare Francis a braccio di ferro a queste condizioni?}
 {194}{}{Spero tu ti sia divertito quanto Francis.}
 {195}{}{Quella povera gente.}
@@ -79,12 +79,12 @@
 {250}{}{Quella povera gente.}
 {251}{}{Sai cos'e' successo?}
 {252}{}{Beh, guardate un po' cosa ci ha portato il deserto.}
-{253}{}{Alcuni dei miei amici sono mutanti e ghoul…}
+{253}{}{Alcuni dei miei migliori amici sono mutanti e ghoul...}
 {254}{}{Vorrei tanto che ci fossero piu' lampadine.}
 {255}{}{Cos'e' 'sta puzza?}
 {256}{}{Temo che NCR possa provare ad assorbirci.}
 {257}{}{Pensi che New Reno potrebbe essere un bel posto dove andare a vivere?}
 {258}{}{Non ho niente contro i mutanti, ma hanno un aspetto cosi' strano.}
-{259}{}{La vita e' dura. Ma le bistecche di Phil non dovrebbero esserlo.}
-{260}{}{Non posso credere che quel figlio di puttana...}
-{261}{}{L'alito del mio gatto sa da cibo per gatti.}
+{259}{}{La vita e' dura. Il tritabudella di Phil non dovrebbe esserlo.}
+{260}{}{Quel figlio di puttana, non ci posso credere.}
+{261}{}{L'alito del mio gatto sa di cibo per gatti.}

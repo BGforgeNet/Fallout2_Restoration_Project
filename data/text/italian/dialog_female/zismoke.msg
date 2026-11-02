@@ -4,10 +4,10 @@
 {103}{}{Li hai fumati tutti.}
 {104}{}{Ti serve prima un accendino.}
 {200}{}{Fumi una canna.}
-{201}{}{Fumi un’altra canna.}
-{203}{}{Hai finito l’erba.}
+{201}{}{Fumi un'altra canna.}
+{203}{}{Hai finito l'erba.}
 {210}{}{Whoa. Questa erba e' SUPERBA.}
-{211}{}{Ok, mi sdraio qui per un po’.}
+{211}{}{Ok, mi sdraio qui per un po'.}
 {212}{}{Cominci a sentirti MOLTO stordita.}
 {213}{}{Mi sento davvero strano, adesso...}
 {214}{}{...dev'essere cosi' che si sente Hakunin nel suo giardino.}

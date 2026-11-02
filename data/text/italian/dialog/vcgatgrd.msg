@@ -7,8 +7,8 @@
 {106}{}{Signore. E' bello vederla, signore.}
 {107}{}{Signorsi', signore!}
 {108}{}{Vault City prevale, Capitano.}
-{109}{}{Voglia scusarmi, Cittadino, ma ai mutanti non e' permesso entrare a Vault City.}
-{110}{}{Voglia scusarmi, Cittadino, ma ai ghoul non e' permesso entrare a Vault City.}
+{109}{}{Voglia scusarmi, Cittadino, ma ai ghoul non e' permesso entrare a Vault City.}
+{110}{}{Voglia scusarmi, Cittadino, ma ai mutanti non e' permesso entrare a Vault City.}
 {111}{}{Quel ghoul farebbe meglio ad allontanarsi dal cancello. Immediatamente.}
 {112}{}{Quel mutante farebbe meglio ad allontanarsi dal cancello. Immediatamente.}
 {113}{}{Buongiorno, Cittadino.}
@@ -55,7 +55,7 @@
 {154}{}{Sta' lontano dal cancello.}
 {155}{}{Non bighellonare.}
 {156}{}{Ce l'hai il Pass Giornaliero?}
-{157}{}{No, non ce l'ho.}
+{157}{}{No, non la voglio.}
 {158}{}{No, ma sono un Cittadino.}
 {159}{}{Come *osi* mettere in dubbio la mia parola?! Io sono un Cittadino! Ecco i miei documenti!}
 {160}{}{Un Cittadino, eh? Vediamo i tuoi documenti.}
@@ -65,7 +65,7 @@
 {164}{}{Voglia accettare le mie scuse, Cittadino. Non intendevo mancarle di rispetto. Prego, entri pure.}
 {165}{}{Molto bene.}
 {166}{}{Ascolta, "Cittadino", hai bisogno di un Pass Giornaliero per entrare, okay? Non provare piu' ad imbrogliarmi.}
-{167}{}{(Te ne vai.)}
+{167}{}{(Vattene.)}
 {168}{}{Hmmmnn... sembrano in regola. Strano, non ricordo di averla mai vista prima.}
 {169}{}{Beh, forse in futuro dovresti stare piu' attento. Ho un appuntamento con il Primo Cittadino... non vorrei farlo aspettare troppo, e' un uomo molto impegnato.}
 {170}{}{Spero che la prossima volta ti ricorderai di me.}
@@ -84,11 +84,11 @@
 {183}{}{Ho fatto un salto solo per vedere come te la passavi.}
 {184}{}{Non ho tempo per chiacchierare, d'accordo? Adesso smamma.}
 {185}{}{D'accordo, d'accordo. Cercavo solo di essere gentile...}
-{186}{}{(Te ne vai.)}
-{187}{}{Bene. Prima che tu entri, dobbiamo prima controllare i tuoi effetti personali.}
+{186}{}{(Vattene.)}
+{187}{}{Bene. Prima che tu entri, dobbiamo controllare i tuoi effetti personali.}
 {188}{}{Uh, okay.}
 {189}{}{Perche'?}
-{190}{}{Scordatelo.}
+{190}{}{Lascia perdere, allora.}
 {191}{}{Altola'. A nessun Esterno e' permesso entrare a Vault City dopo il tramonto.}
 {192}{}{Ma io ho il Pass.}
 {193}{}{Ma io sono un Cittadino.}
@@ -97,7 +97,7 @@
 {196}{}{Vuoi questi documenti? Vieni a prenderli!}
 {197}{}{D'accordo... d'accordo...}
 {198}{}{Parla con Wallace, il Responsabile della Dogana. Adesso lasciami in pace.}
-{199}{}{Okay. Ci vediamo.}
+{199}{}{Okay. Arrivederci.}
 {200}{}{Certo, tu hai un Pass GIORNALIERO. Ti sembra giorno adesso? Smamma.}
 {201}{}{Okay, okay.}
 {202}{}{Talvolta gli Esterni tentano di introdurre a Vault City alcol o droghe tipo Buffout, Jet, Psycho, Mentat e simili.}
@@ -113,4 +113,4 @@
 {212}{}{O-kae.}
 {213}{}{Nup. Ciaooooo}
 {214}{}{Daucoddo}
-{215}{}{Ci'.}
+{215}{}{Gia'.}

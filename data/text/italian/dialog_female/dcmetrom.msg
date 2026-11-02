@@ -16,7 +16,7 @@
 {255}{}{Metzger non assume puttane, percio' sparisci.}
 {256}{}{Smamma.}
 {257}{}{Ehi, amica.}
-{258}{}{Ti fanno soltanto partecipare ai raid... sei fortunato.}
+{258}{}{Ti fanno soltanto partecipare ai raid... sei fortunata.}
 {259}{}{Fare la guardia e' un lavoro molto noioso.}
 {260}{}{Come va?}
 {261}{}{Sei la prima donna che Metzger assume.}
