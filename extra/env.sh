@@ -8,8 +8,8 @@ export BIN_DIR="$EXTRA_DIR/bin"
 RELEASE_DIR="$(realpath release)"
 export RELEASE_DIR
 export MODS_DIR="$RELEASE_DIR/mods"
-export MPACK_VERSION=${MPACK_VERSION:-4.5.1}
-export SFALL_VERSION=${SFALL_VERSION:-4.5.1}
+export MPACK_VERSION=${MPACK_VERSION:-4.5.2}
+export SFALL_VERSION=${SFALL_VERSION:-4.5.2}
 # Release archives, fetched only when missing; CI caches this directory.
 export DOWNLOADS_DIR="$EXTRA_DIR/downloads"
 export MPACK_7Z="$DOWNLOADS_DIR/modderspack_$MPACK_VERSION.7z"

@@ -5,8 +5,8 @@ on:
   pull_request:
 
 env:
-  SFALL_VERSION: 4.5.1
-  MPACK_VERSION: 4.5.1
+  SFALL_VERSION: 4.5.2
+  MPACK_VERSION: 4.5.2
   MOD_NAME: rpu # as in extra/env.sh
 
 jobs:
