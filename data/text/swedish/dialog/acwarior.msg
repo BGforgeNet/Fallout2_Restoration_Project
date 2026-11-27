@@ -10,31 +10,31 @@ byxor tillverkade av djurhudar.}
 {156}{}{Må gudarna ge dig kraft att återupprätta Eden innan det är för sent.}
 {157}{}{Jag har faktiskt en fråga till dig.}
 {158}{}{Farväl, min vän.}
-{159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
- medicines.}
+{159}{}{Åh, nu testar du mig. Gå och träffa Hakunin i byns norra hörn. Det är han som tillverkar våra
+läkemedel.}
 {160}{}{Tack. Hej då.}
-{161}{}{Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
- Talk to him at the Great Bridge.}
+{161}{}{Ja, jag har sett dem när Mynoc låter oss bevaka bron, men det är han som sköter alla förhandlingar.
+ Prata med honom vid den stora bron.}
 {162}{}{Tack. Hej då.}
-{163}{}{Could tell me where the Great Bridge is located?}
+{163}{}{Skulle du kunna berätta för mig var den stora bron ligger?}
 {164}{}{En fråga till, om jag får.}
-{165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
- you've been there many times.}
+{165}{}{Den utvalde? Den stora bron ligger i byns södra ände. Det vet du,
+ du har varit där många gånger.}
 {166}{}{Tack. Hej då.}
 {167}{}{En fråga till, om jag får.}
 {168}{}{Självklart, vad är det?}
 {169}{}{Skulle du kunna berätta var jag kan hitta några läkande örter?}
 {170}{}{Vad kan du berätta om de handlare som handlar med oss?}
 {171}{}{Strunta i det.}
-{172}{}{Ah, dull one. They say you are the Chosen One. I must say the spirit
- of the Founder works in strange ways.}
+{172}{}{Åh, din tröga krake. Det sägs att du är den Utvalde. Jag måste säga att
+Grundarens ande verkar på märkliga sätt.}
 {173}{}{Oon Ga.}
-{174}{}{ Have a safe journey, dull one -- for our sake.}
+{174}{}{ Ha en säker resa, din tröga krake -– för vår skull.}
 {175}{}{????}
-{176}{}{You betray us. You must die.}
-{177}{}{A traitor to your own people!}
+{176}{}{Du förråder oss. Du måste dö.}
+{177}{}{En förrädare mot ditt eget folk!}
 {178}{}{Varför gör du så här?}
-{179}{}{Death to the evil one!}
+{179}{}{Död åt den onde!}
 {180}{}{They are nothing to us! They scavenge the dying corpse
  of the wastes to live.}
 {181}{}{Skulle du kunna berätta var jag kan hitta några läkande örter?}
