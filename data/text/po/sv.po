@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-23 10:38+0000\n"
+"PO-Revision-Date: 2026-11-27 10:38+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -1063,9 +1063,10 @@ msgstr "Men det finns fortfarande ett litet tvivel om vad som kunde ha varit..."
 
 #. indexed_txt
 #: cuts/nar_ar1.txt:1
-#, fuzzy
 msgid "After the Enclave's destruction, the refugees of Arroyo and Vault 13 resettled, building a new community with the aid of the Garden of Eden Creation Kit."
-msgstr "Efter att enklaven förstörts flyttade flyktingarna från Arroyo och Valv 13 tillbaka och byggde upp ett nytt samhälle med hjälp av skapelsekitet Garden of Eden."
+msgstr ""
+"Efter Enklavens undergång bosatte sig flyktingarna från Arroyo och Valv 13 "
+"på nytt och byggde upp ett nytt samhälle med hjälp av skapelsekitet."
 
 #. indexed_txt
 #: cuts/nar_ar1.txt:2
@@ -6528,7 +6529,7 @@ msgstr "Brunnen är lagad. Du gjorde det!"
 
 #: dialog/aceric.msg:200
 msgid "You see your nephew, Feargus."
-msgstr ""
+msgstr "Där ser du din brorson, Feargus."
 
 #: dialog/acfist.msg:100
 msgid "You see Lucas."
@@ -7268,6 +7269,10 @@ msgid ""
 " every day children and old ones collapse. You must bring Eden to us before\n"
 " it is too late!"
 msgstr ""
+"Varför? Se dig omkring – vår by håller på att dö. Trädgårdarna vissnar och\n"
+"varje dag faller barn och gamla människor ihop. Du måste föra Eden till oss "
+"innan\n"
+"det är för sent!"
 
 #: dialog/acmynoc.msg:176
 msgid "And I will take care of it. Goodbye."
@@ -7430,7 +7435,7 @@ msgstr "Håll tyst."
 
 #: dialog/acmynoc.msg:204 dialog/dcrebecc.msg:357
 msgid "Can I ask you a question?"
-msgstr "Får jag ställa en fråga?"
+msgstr "Får jag ställa dig en fråga?"
 
 #: dialog/acmynoc.msg:205
 msgid "No, I've no time for you."
@@ -7498,6 +7503,10 @@ msgid ""
 " ill-tempered I don't think anyone's asked her. Of course, the witch will want\n"
 " something in return."
 msgstr ""
+"Det sägs att din moster Morlis har sparat undan en bit. Hon är så\n"
+"sur att jag inte tror att någon har frågat henne. Den där häxan kommer "
+"förstås att vilja ha\n"
+"något i gengäld."
 
 #: dialog/acmynoc.msg:303 dialog/dcdealer.msg:106 dialog/gcfestus.msg:452
 #: dialog/gchank.msg:181 dialog/gchank.msg:201 dialog/kcardin.msg:192
@@ -7509,7 +7518,7 @@ msgstr "Tack. Hej då."
 
 #: dialog/acmynoc.msg:304
 msgid "Did you talk your aunt out of her flint?"
-msgstr ""
+msgstr "Övertalade du din moster att ge dig sin flinta?"
 
 #: dialog/acmynoc.msg:305
 msgid "Yes, I have some right here."
@@ -7684,6 +7693,9 @@ msgid ""
 "Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night\n"
 " allow no one any sleep. We are becoming a desperate people."
 msgstr ""
+"Våra skördar slår fel, brahminerna dör, alla svälter nu. Barnens gråt på "
+"nätterna\n"
+" gör att ingen kan sova. Vi håller på att bli ett desperat folk."
 
 #: dialog/acmynoc.msg:424
 msgid "Me continue look."
@@ -9075,22 +9087,25 @@ msgstr "Tack, men jag tror att jag klarar mig bra själv."
 #: dialog/actemvil.msg:307
 msgid "You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day."
 msgstr ""
+"Du lär dig snabbt, Utvalde. Jag tror att du nu klarar dig i en strid. Men "
+"kom ihåg att även den starkaste krigaren ibland måste dra sig tillbaka. Det "
+"är ingen skam att överleva för att kunna komma tillbaka starkare senare."
 
 #: dialog/actemvil.msg:308 dialog/actemvil.msg:311
 msgid "Me thank you, Cameron."
-msgstr ""
+msgstr "Tack dig, Cameron."
 
 #: dialog/actemvil.msg:309
 msgid "Thanks, Cameron. I will remember your words."
-msgstr ""
+msgstr "Tack, Cameron. Jag ska komma ihåg vad du sa."
 
 #: dialog/actemvil.msg:310
 msgid "Very well. Return to me if you change your mind."
-msgstr ""
+msgstr "Okej då. Kom tillbaka till mig om du ändrar dig."
 
 #: dialog/actemvil.msg:312
 msgid "Thanks, Cameron. I will remember your offer."
-msgstr ""
+msgstr "Tack, Cameron. Jag ska komma ihåg ditt erbjudande."
 
 #: dialog/actemvil.msg:400
 msgid "Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky."
@@ -9130,76 +9145,79 @@ msgstr ""
 
 #: dialog/acvillgr.msg:100
 msgid "You see a male villager."
-msgstr ""
+msgstr "Du ser en manlig bybo."
 
 #: dialog/acvillgr.msg:101
 msgid "You see a female villager."
-msgstr ""
+msgstr "Du ser en kvinnlig bybo."
 
 #: dialog/acvillgr.msg:150
 msgid "A kindly member of your village."
-msgstr ""
+msgstr "En vänlig invånare från din by."
 
 #: dialog/acvillgr.msg:152
 msgid "Hello! I hear you are the Chosen One. Now, perhaps, our village can be saved."
-msgstr ""
+msgstr "Hej! Jag har hört att du är den utvalde. Nu kanske vår by kan räddas."
 
 #: dialog/acvillgr.msg:153
 msgid "Can you tell me where I can find more healing powder?"
-msgstr ""
+msgstr "Kan du berätta var jag kan hitta mer läkande pulver?"
 
 #: dialog/acvillgr.msg:154 dialog/acvillgr.msg:170 dialog/acwarior.msg:154
 #: dialog/acwarior.msg:170
 msgid "What can you tell me of the traders who trade with us?"
-msgstr ""
+msgstr "Vad kan du berätta om de handlare som handlar med oss?"
 
 #: dialog/acvillgr.msg:155
 msgid "It is good to see you, but I must be going."
-msgstr ""
+msgstr "Det är trevligt att träffa dig, men jag måste gå nu."
 
 #: dialog/acvillgr.msg:156
 msgid "Gods protect you on your journey."
-msgstr ""
+msgstr "Må gudarna skydda dig på din resa."
 
 #: dialog/acvillgr.msg:157 dialog/acwarior.msg:157
 msgid "I do have a question for you."
-msgstr ""
+msgstr "Jag har faktiskt en fråga till dig."
 
 #: dialog/acvillgr.msg:158 dialog/acwarior.msg:158
 msgid "Goodbye, my friend."
-msgstr ""
+msgstr "Farväl, min vän."
 
 #: dialog/acvillgr.msg:159
 msgid "Go see Hakunin in the northern corner of the village. He can help you."
-msgstr ""
+msgstr "Gå och träffa Hakunin i byns norra hörn. Han kan hjälpa dig."
 
 #: dialog/acvillgr.msg:161
 msgid ""
 "Oh, it's not my place to deal with the traders. Talk to Mynoc, the guardian of the\n"
 " great bridge. He sees them all."
 msgstr ""
+"Åh, det är inte min sak att ta itu med handlarna. Prata med Mynoc, vakten "
+"vid den\n"
+" stora bron. Han träffar dem alla."
 
 #: dialog/acvillgr.msg:163
 msgid "Could you tell me where the great bridge is located?"
-msgstr ""
+msgstr "Kan du berätta för mig var den stora bron ligger?"
 
 #: dialog/acvillgr.msg:164 dialog/acvillgr.msg:167 dialog/acvillgr.msg:186
 #: dialog/acwarior.msg:164 dialog/acwarior.msg:167 dialog/acwarior.msg:183
 msgid "One more question, if I may."
-msgstr ""
+msgstr "En fråga till, om jag får."
 
 #: dialog/acvillgr.msg:165
 msgid "Good joke, Chosen One! You know where it is. That way -- to the south."
-msgstr ""
+msgstr "Bra skämt, Utvalde! Du vet var den ligger. Det hållet –- söderut."
 
 #: dialog/acvillgr.msg:168 dialog/acwarior.msg:168
 msgid "Of course, what is it?"
-msgstr ""
+msgstr "Självklart, vad är det?"
 
 #: dialog/acvillgr.msg:169 dialog/acvillgr.msg:184 dialog/acwarior.msg:169
 #: dialog/acwarior.msg:181
 msgid "Could you tell me where I can find some healing herbs?"
-msgstr ""
+msgstr "Skulle du kunna berätta var jag kan hitta några läkande örter?"
 
 #: dialog/acvillgr.msg:171 dialog/acwarior.msg:171 dialog/ccdrgrd.msg:111
 #: dialog/ccquincy.msg:107 dialog/dcfranki.msg:220 dialog/dcfred.msg:298
@@ -9215,21 +9233,23 @@ msgstr ""
 #: dialog/scgunthr.msg:136 dialog/scmerk.msg:189 dialog/scrobo.msg:128
 #: dialog/vcskeeve.msg:201 dialog/vcwalace.msg:140
 msgid "Never mind."
-msgstr ""
+msgstr "Strunta i det."
 
 #: dialog/acvillgr.msg:172
 msgid ""
 "Oh gods -- may the spirit of the Founder guide you. If you're the Chosen One, we're\n"
 " going to need it."
 msgstr ""
+"Åh, gudar -– må Grundarens ande vägleda dig. Om du är den Utvalde, så\n"
+"kommer vi att behöva den."
 
 #: dialog/acvillgr.msg:173
 msgid "Uun Ga."
-msgstr ""
+msgstr "Uun Ga."
 
 #: dialog/acvillgr.msg:174
 msgid "Have a safe journey."
-msgstr ""
+msgstr "Ha en säker resa."
 
 #: dialog/acvillgr.msg:175 dialog/acwarior.msg:175
 msgid "????"
@@ -9237,37 +9257,46 @@ msgstr "????"
 
 #: dialog/acvillgr.msg:176
 msgid "We're doomed! You have failed your quest."
-msgstr ""
+msgstr "Vi är förlorade! Du har misslyckats med ditt uppdrag."
 
 #: dialog/acvillgr.msg:177
 msgid "You cannot continue like this."
-msgstr ""
+msgstr "Du kan inte fortsätta så här."
 
 #: dialog/acvillgr.msg:182
 msgid "You are evil. The Chosen One is evil!"
-msgstr ""
+msgstr "Du är ond. Den Utvalde är ond!"
 
 #: dialog/acvillgr.msg:183
 msgid "They come to our village from the east, but their goods are poor."
-msgstr ""
+msgstr "De kommer till vår by österifrån, men deras varor är av dålig kvalitet."
 
 #: dialog/acvillgr.msg:300
 msgid "Hello, Chosen One. Nice to see you again. I pray that your holy quest is going well. Is there something I can help you with?"
 msgstr ""
+"Hej, utvalde. Trevligt att se dig igen. Jag hoppas att ditt heliga uppdrag "
+"går bra. Är det något jag kan hjälpa dig med?"
 
 #: dialog/acvillgr.msg:301
 msgid "Chosen One, our people are dying. You must hurry your search for the holy GECK. What may I do to aid you in this most holy of quests?"
 msgstr ""
+"Utvalde, vårt folk dör. Du måste skynda dig att hitta den heliga GECK:en. "
+"Vad kan jag göra för att hjälpa dig i detta allra heligaste uppdrag?"
 
 #: dialog/acvillgr.msg:302
 msgid "We are running out of time, Chosen One. Please, finish your holy quest soon. We cannot afford to wait much longer. If there's anything I can do to help you to save us, let me know."
 msgstr ""
+"Tiden börjar rinna ut, Utvalde. Snälla, avsluta ditt heliga uppdrag snart. "
+"Vi har inte råd att vänta mycket längre. Om det finns något jag kan göra för "
+"att hjälpa dig att rädda oss, säg till."
 
 #: dialog/acvillgr.msg:303
 msgid ""
 "Chosen One, our village is almost dead... you're our only hope. Is there anything\n"
 " I could tell you that would aide you in our salvation?"
 msgstr ""
+"Utvalde, vår by är nästan utplånad... du är vårt enda hopp. Finns det något\n"
+"jag kan berätta för dig som skulle kunna bidra till vår räddning?"
 
 #: dialog/acvillgr.msg:400
 msgid "Is there anything you could tell me about Kaga?"
@@ -9286,47 +9315,53 @@ msgid ""
 "He heals us with his herbs and magic. He is in the northern part\n"
 " of our village."
 msgstr ""
+"Han läker oss med sina örter och sin magi. Han är i den\n"
+" norra delen av vår by."
 
 #: dialog/acvillgr.msg:1109 dialog/kchild.msg:1109 dialog/kcitizen.msg:1109
 msgid ""
 "It is a magic powder which will heal you, but will make you\n"
 " sleepy."
 msgstr ""
+"Det är ett magiskt pulver som kommer att läka dig, men kommer\n"
+" gör dig sömnig."
 
 #: dialog/acvillgr.msg:1111 dialog/acwarior.msg:1111 dialog/kchild.msg:1111
 #: dialog/kcitizen.msg:1111
 msgid "He guards the bridge leading into our village."
-msgstr ""
+msgstr "Han vaktar bron som leder in till vår by."
 
 #: dialog/acwarior.msg:100
 msgid "You see a tribesman."
-msgstr ""
+msgstr "Du ser en manlig stammedlem."
 
 #: dialog/acwarior.msg:101
 msgid "You see a tribeswoman."
-msgstr ""
+msgstr "Du ser en kvinnlig stammedlem."
 
 #: dialog/acwarior.msg:150
 msgid ""
 "Before you stands a large warrior of your village, wearing\n"
 " pants fashioned from animal hides."
 msgstr ""
+"Framför dig står en stor krigare från din by, klädd i\n"
+"byxor tillverkade av djurhudar."
 
 #: dialog/acwarior.msg:152
 msgid "Hello, Chosen One, can I help you in your quest?"
-msgstr ""
+msgstr "Hej, Utvalde, kan jag hjälpa dig i ditt uppdrag?"
 
 #: dialog/acwarior.msg:153
 msgid "I'm just looking around the village one last time before I leave."
-msgstr ""
+msgstr "Jag tittar mig bara runt i byn en sista gång innan jag går."
 
 #: dialog/acwarior.msg:155
 msgid "Could you tell me where I can find more healing powder?"
-msgstr ""
+msgstr "Skulle du kunna berätta var jag kan hitta några läkande örter?"
 
 #: dialog/acwarior.msg:156
 msgid "Gods give you speed to bring back Eden before it is too late."
-msgstr ""
+msgstr "Må gudarna ge dig kraft att återupprätta Eden innan det är för sent."
 
 #: dialog/acwarior.msg:159
 msgid ""
@@ -26906,11 +26941,11 @@ msgstr "Du ser ägaren till salongen."
 
 #: dialog/dcmaggie.msg:101
 msgid "You see Becky."
-msgstr ""
+msgstr "Du ser Becky."
 
 #: dialog/dcmaggie.msg:150
 msgid "This looks like the owner."
-msgstr ""
+msgstr "Det här ser ut att vara ägaren."
 
 #: dialog/dcmaggie.msg:151
 msgid "This is Becky, owner of this place."
@@ -26918,11 +26953,11 @@ msgstr "Det här är Becky, ägaren av det här stället."
 
 #: dialog/dcmaggie.msg:153
 msgid "Hello, stranger, and welcome to my saloon. I'm Becky."
-msgstr ""
+msgstr "Hej, främling, och välkommen till min salong. Jag heter Becky."
 
 #: dialog/dcmaggie.msg:154
 msgid "Hello, I am "
-msgstr ""
+msgstr "Hallå, jag heter "
 
 #: dialog/dcmaggie.msg:155
 msgid ". What's there to do around here?"
@@ -26930,32 +26965,33 @@ msgstr ". Vad finns det att göra här omkring?"
 
 #: dialog/dcmaggie.msg:156
 msgid "Hi, I'm "
-msgstr ""
+msgstr "Hej, jag heter "
 
 #: dialog/dcmaggie.msg:157
 msgid ". Can I ask some questions?"
-msgstr ""
+msgstr ". Får jag ställa några frågor?"
 
 #: dialog/dcmaggie.msg:159
 msgid "Mag gah."
-msgstr ""
+msgstr "Mag gah."
 
 #: dialog/dcmaggie.msg:160
 msgid "Run along. I don't need your kind here."
-msgstr ""
+msgstr "Stick iväg. Jag vill inte ha sådana som du här."
 
 #: dialog/dcmaggie.msg:162 dialog/dcslvgrt.msg:343 dialog/fcjuavki.msg:178
 #: dialog/scmerk.msg:251
 msgid "Screw you."
-msgstr ""
+msgstr "Fan ta dig."
 
 #: dialog/dcmaggie.msg:163 dialog/ncorvill.msg:292
 msgid "I'm going."
-msgstr ""
+msgstr "Jag går nu."
 
 #: dialog/dcmaggie.msg:164
 msgid "Sorry, no offense was meant. Can I ask something?"
 msgstr ""
+"Förlåt, det var inte menat som någon förolämpning. Får jag fråga en sak?"
 
 #: dialog/dcmaggie.msg:165
 msgid "Drink of whiskey is $5 and the gambling tables are right over there. Have a good one."
@@ -26964,15 +27000,15 @@ msgstr "En whisky kostar $5 och spelborden står där borta. Ha det så trevligt
 #: dialog/dcmaggie.msg:166 dialog/dcmaggie.msg:192 dialog/dcmaggie.msg:216
 #: dialog/dcrebecc.msg:306
 msgid "Can I ask a question?"
-msgstr ""
+msgstr "Får jag ställa en fråga?"
 
 #: dialog/dcmaggie.msg:167
 msgid "I want a drink!"
-msgstr ""
+msgstr "Jag vill ha något att dricka!"
 
 #: dialog/dcmaggie.msg:168
 msgid "Hmm, those are some cheap drinks. Let's see one."
-msgstr ""
+msgstr "Hmm, det där är verkligen billiga drinkar. Låt oss ta en titt på en."
 
 #: dialog/dcmaggie.msg:170
 msgid "Vault 13? Nope, never heard of it."
