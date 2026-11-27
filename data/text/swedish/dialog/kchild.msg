@@ -96,7 +96,7 @@
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
+{1109}{}{Det är ett magiskt pulver som kommer att läka dig, men kommer
+ gör dig sömnig.}
 {1110}{}{Den stora bron leder ut ur vår by i söder.}
-{1111}{}{He guards the bridge leading into our village.}
+{1111}{}{Han vaktar bron som leder in till vår by.}

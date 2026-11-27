@@ -150,18 +150,18 @@
 {402}{}{I want you to use your best weapon.}
 {403}{}{I want you to use your best armor}
 {404}{}{I want you to fight differently.}
-{405}{}{Never mind.}
+{405}{}{Strunta i det.}
 {410}{}{H'how, f'far do you want m'me to be? You know it's hard for me to c'catch up.}
 {411}{}{I want you to stay only a short distance away from me.}
 {412}{}{I want you to stay at medium distance.}
 {413}{}{I want you to stay at long distance.}
 {414}{}{I need you to scout ahead.}
-{415}{}{Never mind.}
+{415}{}{Strunta i det.}
 {420}{}{Wh'what d'do you want me to d'do?}
 {421}{}{I want you to fight defensively for now.}
 {422}{}{I need you to fight normally.}
 {423}{}{I need you to fight aggressively.}
-{424}{}{Never mind.}
+{424}{}{Strunta i det.}
 {430}{}{I g'guess you c'can teach an old d'dog new tricks. What a k'kick.}
 {431}{}{I j'jist c'can't seem to g'get the hang of it, somehow.}
 {432}{}{Okej.}
@@ -169,12 +169,12 @@
  j'joints.}
 {441}{}{You do that, Lenny. Goodbye.}
 {442}{}{You should wait here; oh, and another thing...}
-{443}{}{Never mind.}
+{443}{}{Strunta i det.}
 {450}{}{I g'gotta g'get a b'bigger g'gun.}
 {451}{}{Use your best weapon, Lenny.}
 {461}{}{Put your best armor on, Lenny.}
 {462}{}{Lenny, after you put on your best armor, there's something else I need you to do for me.}
-{463}{}{Never mind.}
+{463}{}{Strunta i det.}
 {470}{}{That's a g'good idea. I w'was wondering when we'd s'stop for that. I'm h'hurtin' fer c'certain.}
 {471}{}{Y'you ought to l'let m'me take a l'look at those w'wounds o' yours.}
 {472}{}{Seems l'like someone n'needs m'me to sow 'em up ag'gain.}
@@ -184,30 +184,30 @@
 {476}{}{Heal me, and then there's something else I need you to do.}
 {477}{}{Go ahead and heal us.}
 {478}{}{Heal us, and then there's something else I need you to do.}
-{479}{}{Never mind.}
+{479}{}{Strunta i det.}
 {480}{}{I c'cain't d'do that. I'm not really much of a scout.}
 {481}{}{Oh, okay. Never mind.}
 {490}{}{I'll s'stick c'close to you.}
 {491}{}{Stay close now, Lenny.}
 {492}{}{Stay close, and there's something else I need you to do for me too.}
-{493}{}{Never mind.}
+{493}{}{Strunta i det.}
 {500}{}{I g'guess we d'don't want to m'make too easy a t'target huh?}
 {501}{}{Don't get too close, Lenny. I want to make them work at hitting us.}
 {502}{}{Don't close up too much. There's something else I need you to do for me, too.}
-{503}{}{Never mind.}
+{503}{}{Strunta i det.}
 {510}{}{Okay, I'll s'stay a b'bit farther off. S'seems like people mostly want to k'kill you, anyways.}
 {511}{}{I need you to keep back for your own safety. It has absolutely nothing to do with the way you
  smell.}
 {512}{}{Before we spread out I need you to do something else for me, as well.}
-{513}{}{Never mind.}
+{513}{}{Strunta i det.}
 {520}{}{I've g'gotten pretty g'good at looking out f'fer myself o'er the years.}
 {521}{}{I just need you to be careful when we get into fights.}
 {522}{}{I want to make sure that nothing happens to you. Heck, you're an antique. One more thing, though...}
-{523}{}{Never mind.}
+{523}{}{Strunta i det.}
 {530}{}{Only way to d'do it.}
 {531}{}{Just fight the way you normally would, and we should be fine.}
 {532}{}{Just loosen up and fight normally. One more thing...}
-{533}{}{Never mind.}
+{533}{}{Strunta i det.}
 {540}{}{I c'can't do that. J'jist fighting at all is about all th'these old b'bones kin handle.}
 {541}{}{OK. Never mind.}
 {1000}{}{Wh'what d'do you w'want me to do?}

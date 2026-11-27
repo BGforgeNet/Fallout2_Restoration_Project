@@ -346,7 +346,7 @@
 {892}{}{I want you to use your best weapon.}
 {893}{}{I want you to use your best armor.}
 {894}{}{I want you to change your aggressiveness.}
-{895}{}{Never mind.}
+{895}{}{Strunta i det.}
 {900}{slk67}{What distance you need us at?}
 {901}{}{I want you to stay at only a Short distance.}
 {902}{}{I want you to stay at Medium distance.}

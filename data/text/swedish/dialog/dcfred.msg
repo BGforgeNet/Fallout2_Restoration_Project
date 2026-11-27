@@ -43,7 +43,7 @@
 {295}{}{Huh? Do I know you? What do you want?}
 {296}{}{Why do you keep bothering me? I don't even know you. Go bug someone else.}
 {297}{}{I'm here to collect some money you owe someone.}
-{298}{}{Never mind.}
+{298}{}{Strunta i det.}
 {299}{}{Uk!}
 {300}{}{Hej då.}
 {310}{}{HEY! There you are! I've been looking all over for you! Check out these threads!}

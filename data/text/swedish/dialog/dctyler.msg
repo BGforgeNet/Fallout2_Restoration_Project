@@ -32,7 +32,7 @@
 {262}{}{Oh, yeah. You're a slaver now, eh? So what did he want? It's not going anywhere - not like it could.}
 {263}{}{He wanted me to check it for him.}
 {264}{}{Well, he wants to be sure.}
-{265}{}{Never mind.}
+{265}{}{Strunta i det.}
 {270}{}{Sure he did. I've never seen you around here before. Now, beat it.}
 {271}{}{Let me in there now, before I have to get angry on your face!}
 {272}{}{Look, he had me come into town just to inspect his damn stuff. I could care less.}
@@ -148,7 +148,7 @@
 {713}{}{I'm his new bitch, that's why! If you don't let me in right now, I'll be sure you find yourself at the top of his shit list.}
 {714}{}{Look, buddy. Metzger's going to have my hide if I don't inspect everything soon. You know how he gets.}
 {715}{}{None of your fucking business. If the Boss wants his shit checked out, that's what I do. I don't ask questions.}
-{716}{}{Never mind.}
+{716}{}{Strunta i det.}
 {717}{}{Shaka?}
 {800}{}{Who the- Hey! It's you. You came to *hickup* party with us. I knew you would. (Tyler stumbles over to you and grabs your shoulder)
  Did I ever tell you how much I-(He spies Lara's gang) What the fuck! No fuckin way! This party ain't endin *hickup* cause of some fuckin bitch

@@ -26,7 +26,7 @@
 {125}{}{I need you to wait here until I come back.}
 {126}{}{That's it for now.}
 {127}{}{<click> whimper}
-{128}{}{Never mind.}
+{128}{}{Strunta i det.}
 {129}{}{OK}
 {130}{}{HP:}
 {131}{}{Cyberdog can't be repaired anymore at this time.}

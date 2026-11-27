@@ -6,7 +6,7 @@
 {104}{}{Jag fråga dig en sak.}
 {105}{}{Ingenting.}
 {106}{}{Hej. Jag måste fråga dig en sak.}
-{107}{}{Never mind.}
+{107}{}{Strunta i det.}
 {108}{}{Okej, men det måste gå fort. Jag har en inventering att göra.}
 {109}{}{Vad behöver du veta?}
 {110}{}{Vad det här stället?}

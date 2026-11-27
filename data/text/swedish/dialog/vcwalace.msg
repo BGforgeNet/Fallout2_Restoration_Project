@@ -38,7 +38,7 @@
 {137}{}{Shamble off}
 {138}{}{I'd like to get back into the city.}
 {139}{}{I wanted to ask you some questions...}
-{140}{}{Never mind.}
+{140}{}{Strunta i det.}
 {141}{}{Cease bothering me, you fool.}
 {142}{}{Me no FUL. YOU FUL.}
 {143}{}{Shamble off}

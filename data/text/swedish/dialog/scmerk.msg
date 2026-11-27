@@ -87,7 +87,7 @@
 {186}{}{Now, I suggest you leave.}
 {187}{}{By all means, call in the officers. Of course, I assume you have evidence to back up your wild accusation.}
 {188}{}{Yeah, sure.}
-{189}{}{Never mind.}
+{189}{}{Strunta i det.}
 {190}{}{Such as there's a damn Hubologist in town who has irritated me. Once this itch is scratched, come back and talk to me.}
 {191}{}{Consider it done. I got just the backscratcher for him but... what's a Hubologist and where do I find him?}
 {192}{}{How dare you speak against the true belief!}
@@ -149,7 +149,7 @@
 {248}{}{Days like this make me so happy. Well, let's conclude our business.}
 {249}{}{It has come to my attention that the ingenious doctor expired during your visit. That was against my orders. To recoup future losses I think it will be necessary to receive a refund.}
 {250}{}{Look, I'll just give you 500 bucks and we'll forget the whole deal.}
-{251}{}{Screw you.}
+{251}{}{Fan ta dig.}
 {252}{}{Well, success in your ventures. I see no reason for us to talk again.}
 {253}{}{Fine by me.}
 {254}{}{Deal - but only because I like you. I suggest you don't come back any time soon.}

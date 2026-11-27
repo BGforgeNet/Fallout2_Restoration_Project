@@ -115,7 +115,7 @@
 {214}{}{All right, but shit might hit the fan.}
 {215}{}{Can you transfer the fuel from their reserves to the tanker?}
 {216}{}{Never mind, I'll do it another way.}
-{217}{}{Never mind.}
+{217}{}{Strunta i det.}
 {218}{}{Alright. Check back with me in a day or so and I'll let you know.}
 {219}{}{Did you get what I needed?}
 {220}{}{Yeah, I got the fuel.}

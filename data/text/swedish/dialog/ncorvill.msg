@@ -50,7 +50,7 @@
 {282}{}{Excuse me. Me and the exit have an appointment.}
 {290}{}{Yeah, maybe you BETTER leave, and quickly. If you're still here in five seconds, I'll have you shot, you hear me?}
 {291}{}{Yeah, seems like you got this habit o' coming in and stepping out. Maybe we better take care of that problem o' yours.}
-{292}{}{I'm going.}
+{292}{}{Jag går nu.}
 {293}{}{What do you m --?}
 {294}{}{My thoughts exactly. Time for you to die.}
 {300}{}{No SHIT? (Sneers.) Well, pleased to meet you, "simple traveler." Glad you stopped by, damn neighborly of you. (Sneer

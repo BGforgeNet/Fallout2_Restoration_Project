@@ -72,7 +72,7 @@
 {340}{}{Listen here, ya li'le shit head, don't you dare threaten me or anyone else in our guild, or you're dead. Get that? Dead.}
 {341}{}{Listen here, ya li'l cunt. Don't you dare threaten me or anyone else in our guild, or your dead. Get that? Dead.}
 {342}{}{Now, young Jet eye, you will die.}
-{343}{}{Screw you.}
+{343}{}{Fan ta dig.}
 {344}{}{Sorry, please don't hurt me.}
 {345}{}{Yeah, whatever. I'll let you live this time.}
 {350}{}{Oh, really? Maybe I should just blow a hole through your head right here 'n now. What do you think, hot shot?}

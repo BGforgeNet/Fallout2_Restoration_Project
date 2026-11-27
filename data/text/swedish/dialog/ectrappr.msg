@@ -9,7 +9,7 @@
 {107}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into
  town.}
 {108}{}{What do you have?}
-{109}{}{Never mind.}
+{109}{}{Strunta i det.}
 {110}{}{Ug.}
 {111}{}{Here's what I got:}
 {112}{}{regular gecko pelts.}

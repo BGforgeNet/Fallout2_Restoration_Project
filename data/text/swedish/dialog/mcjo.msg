@@ -134,7 +134,7 @@
 {262}{}{Well, spit it out. I can't help you if you don't tell me what you're looking for, and I sure
  ain't going to stand here and try to guess what you're looking for.}
 {263}{}{I am looking for the holy GECK.}
-{264}{}{Never mind.}
+{264}{}{Strunta i det.}
 {265}{}{Since I rely heavily on the products of the people of Modoc, I don't have much to trade for. You
  know, with the drought and all. You still interested?}
 {266}{}{Let's do some business.}

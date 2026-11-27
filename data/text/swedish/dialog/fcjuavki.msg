@@ -76,7 +76,7 @@
 {175}{}{Maybe I'd better shoot you first.}
 {176}{}{I'm out of here.}
 {177}{}{Him: This is your last chance to change your mind. Her: We'd hate to see anything bad happen to you.}
-{178}{}{Screw you.}
+{178}{}{Fan ta dig.}
 {179}{}{Fine. How do I join?}
 {180}{}{Something bad is about to happen to YOU.}
 {181}{}{Nope. I'll take my chances. So long.}

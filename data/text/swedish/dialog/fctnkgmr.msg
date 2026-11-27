@@ -8,7 +8,7 @@
 {107}{}{No, me go.}
 {108}{}{I want some information.}
 {109}{}{Sure, show me what you've got.}
-{110}{}{Never mind.}
+{110}{}{Strunta i det.}
 {111}{}{I have no information to sell. I deal only in weapons. Do you want to see my wares?}
 {112}{}{Ja.}
 {113}{}{Nej.}

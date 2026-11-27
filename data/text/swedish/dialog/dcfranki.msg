@@ -72,7 +72,7 @@ Se nu till att inte ställa till med för mycket bråk, hörru?}
 {217}{}{Vad menar du?}
 {218}{}{Köp sprit av henne. Det är billigare än i New Reno, så du tjänar mer pengar också.}
 {219}{}{Jag vill inte göra det här.}
-{220}{}{Never mind.}
+{220}{}{Strunta i det.}
 {221}{}{Hör här, jag vill bara att hennes apparat ska bli helt förstörd. Kan du fixa det?}
 {222}{}{Okej, det ska jag göra.}
 {223}{}{Nej, det tänker jag inte. Hej då.}

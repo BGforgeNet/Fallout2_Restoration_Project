@@ -11,7 +11,7 @@
 {110}{}{No, not today. If I run across any, I'll let you know, though.}
 {111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture".}
 {112}{}{What's your name?}
-{113}{}{Never mind.}
+{113}{}{Strunta i det.}
 {114}{}{Me? I'm Micky, suave and debonair Treasure Hunter of Broken Hills.}
 {115}{}{Hunnterr?}
 {116}{}{Bye-bye.}

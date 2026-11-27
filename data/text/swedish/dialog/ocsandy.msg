@@ -10,7 +10,7 @@
  name.}
 {108}{}{I'm just a normal person who is quite impressed with your special nature. Can you tell me your
  name?}
-{109}{}{Never mind.}
+{109}{}{Strunta i det.}
 {110}{}{(Giggles) You look funny! Meow... I'm Sandy. I'm not really a cat. I just like to play like I
  am.}
 {111}{}{(Screams) Mommy! Mommy! Mommy!}

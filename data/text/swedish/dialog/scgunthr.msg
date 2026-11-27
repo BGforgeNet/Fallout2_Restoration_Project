@@ -34,7 +34,7 @@
 {133}{}{I have no idea what you are talking about. Do you have real question?}
 {134}{}{I'm searching for Vault 13.}
 {135}{}{I understand the president has a job to be done.}
-{136}{}{Never mind.}
+{136}{}{Strunta i det.}
 {137}{}{Ah yes. Well, she's instructed me to send in anyone asking about it. You're buzzed in. It's the door to my right.}
 {138}{}{Madam President is finished with you? How did things go?}
 {139}{}{Good. Me bye-bye.}

@@ -5,4 +5,4 @@
 {104}{}{Hörru, tack för att du fixade brunnen!}
 {105}{}{Var försiktig}
 {106}{}{Brunnen är lagad. Du gjorde det!}
-{200}{}{You see your nephew, Feargus.}
+{200}{}{Där ser du din brorson, Feargus.}

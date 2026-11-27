@@ -174,7 +174,7 @@
 {2310}{}{He should be around here somewhere.}
 {2311}{}{Vault City. Check that fancy map thing of yours.}
 {2403}{}{Where did you get the Vault 13 water flask?}
-{2404}{}{Never mind.}
+{2404}{}{Strunta i det.}
 {2500}{}{Sure, Boss.}
 {2501}{}{Ask anything, Boss.}
 {2502}{}{I'll help you if I can, Boss.}

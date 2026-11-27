@@ -1,15 +1,15 @@
-{100}{}{You see a tribesman.}
-{101}{}{You see a tribeswoman.}
-{150}{}{Before you stands a large warrior of your village, wearing
- pants fashioned from animal hides.}
+{100}{}{Du ser en manlig stammedlem.}
+{101}{}{Du ser en kvinnlig stammedlem.}
+{150}{}{Framför dig står en stor krigare från din by, klädd i
+byxor tillverkade av djurhudar.}
 {151}{}{[TALA]}
-{152}{}{Hello, Chosen One, can I help you in your quest?}
-{153}{}{I'm just looking around the village one last time before I leave.}
-{154}{}{What can you tell me of the traders who trade with us?}
-{155}{}{Could you tell me where I can find more healing powder?}
-{156}{}{Gods give you speed to bring back Eden before it is too late.}
-{157}{}{I do have a question for you.}
-{158}{}{Goodbye, my friend.}
+{152}{}{Hej, Utvalde, kan jag hjälpa dig i ditt uppdrag?}
+{153}{}{Jag tittar mig bara runt i byn en sista gång innan jag går.}
+{154}{}{Vad kan du berätta om de handlare som handlar med oss?}
+{155}{}{Skulle du kunna berätta var jag kan hitta några läkande örter?}
+{156}{}{Må gudarna ge dig kraft att återupprätta Eden innan det är för sent.}
+{157}{}{Jag har faktiskt en fråga till dig.}
+{158}{}{Farväl, min vän.}
 {159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
  medicines.}
 {160}{}{Tack. Hej då.}
@@ -17,15 +17,15 @@
  Talk to him at the Great Bridge.}
 {162}{}{Tack. Hej då.}
 {163}{}{Could tell me where the Great Bridge is located?}
-{164}{}{One more question, if I may.}
+{164}{}{En fråga till, om jag får.}
 {165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
  you've been there many times.}
 {166}{}{Tack. Hej då.}
-{167}{}{One more question, if I may.}
-{168}{}{Of course, what is it?}
-{169}{}{Could you tell me where I can find some healing herbs?}
-{170}{}{What can you tell me of the traders who trade with us?}
-{171}{}{Never mind.}
+{167}{}{En fråga till, om jag får.}
+{168}{}{Självklart, vad är det?}
+{169}{}{Skulle du kunna berätta var jag kan hitta några läkande örter?}
+{170}{}{Vad kan du berätta om de handlare som handlar med oss?}
+{171}{}{Strunta i det.}
 {172}{}{Ah, dull one. They say you are the Chosen One. I must say the spirit
  of the Founder works in strange ways.}
 {173}{}{Oon Ga.}
@@ -37,9 +37,9 @@
 {179}{}{Death to the evil one!}
 {180}{}{They are nothing to us! They scavenge the dying corpse
  of the wastes to live.}
-{181}{}{Could you tell me where I can find some healing herbs?}
+{181}{}{Skulle du kunna berätta var jag kan hitta några läkande örter?}
 {182}{}{Tack. Hej då.}
-{183}{}{One more question, if I may.}
+{183}{}{En fråga till, om jag får.}
 {300}{}{Hello again, Chosen One. May the warrior spirits protect and guide you.}
 {301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.}
 {302}{}{Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying.}
@@ -76,4 +76,4 @@
 {1109}{}{It is a magic powder which will heal you, but will make
  you sleepy.}
 {1110}{}{Den stora bron leder ut ur vår by i söder.}
-{1111}{}{He guards the bridge leading into our village.}
+{1111}{}{Han vaktar bron som leder in till vår by.}

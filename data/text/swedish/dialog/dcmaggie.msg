@@ -1,24 +1,24 @@
 {100}{}{Du ser ägaren till salongen.}
-{101}{}{You see Becky.}
-{150}{}{This looks like the owner.}
+{101}{}{Du ser Becky.}
+{150}{}{Det här ser ut att vara ägaren.}
 {151}{}{Det här är Becky, ägaren av det här stället.}
 {152}{}{[TALA]}
-{153}{}{Hello, stranger, and welcome to my saloon. I'm Becky.}
-{154}{}{Hello, I am }
+{153}{}{Hej, främling, och välkommen till min salong. Jag heter Becky.}
+{154}{}{Hallå, jag heter }
 {155}{}{. Vad finns det att göra här omkring?}
-{156}{}{Hi, I'm }
-{157}{}{. Can I ask some questions?}
+{156}{}{Hej, jag heter }
+{157}{}{. Får jag ställa några frågor?}
 {158}{}{Mamma?}
 {159}{}{Mag gah.}
-{160}{}{Run along. I don't need your kind here.}
+{160}{}{Stick iväg. Jag vill inte ha sådana som du här.}
 {161}{}{Mmmm...}
-{162}{}{Screw you.}
-{163}{}{I'm going.}
-{164}{}{Sorry, no offense was meant. Can I ask something?}
+{162}{}{Fan ta dig.}
+{163}{}{Jag går nu.}
+{164}{}{Förlåt, det var inte menat som någon förolämpning. Får jag fråga en sak?}
 {165}{}{En whisky kostar $5 och spelborden står där borta. Ha det så trevligt.}
-{166}{}{Can I ask a question?}
-{167}{}{I want a drink!}
-{168}{}{Hmm, those are some cheap drinks. Let's see one.}
+{166}{}{Får jag ställa en fråga?}
+{167}{}{Jag vill ha något att dricka!}
+{168}{}{Hmm, det där är verkligen billiga drinkar. Låt oss ta en titt på en.}
 {169}{}{Tack. Hej då.}
 {170}{}{Valv 13? Nej, aldrig hört talas om det.}
 {171}{}{Hmm, can I ask something else?}
@@ -42,7 +42,7 @@
 {189}{}{Här är pengarna.}
 {190}{}{Jag ändrade mig.}
 {191}{}{Jag har lite ont om pengar. Kan jag få en nota?}
-{192}{}{Can I ask a question?}
+{192}{}{Får jag ställa en fråga?}
 {193}{}{Måste dra.}
 {194}{}{Här är drinken. Något annat?}
 {195}{}{Fråga?}
@@ -66,7 +66,7 @@
 {213}{}{Vad sägs om en drink?}
 {214}{}{Måste sticka. Vi ses.}
 {215}{}{Inte nu. Kanske senare. Ja, definitivt senare.}
-{216}{}{Can I ask a question?}
+{216}{}{Får jag ställa en fråga?}
 {217}{}{Later then.}
 {218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno
  gangsters.}

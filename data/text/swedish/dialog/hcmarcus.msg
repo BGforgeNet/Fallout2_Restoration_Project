@@ -200,10 +200,10 @@
 {299}{mcs111c}{You got anything to help?}
 {300}{mcs111d}{Maybe you should have a look at this.}
 {301}{}{Use your skills to heal yourself.}
-{302}{}{Never mind.}
+{302}{}{Strunta i det.}
 {303}{}{OK}
 {304}{mcs160}{I'll just stay here and tighten the vises on my shoulder.}
-{305}{}{Never mind.}
+{305}{}{Strunta i det.}
 {306}{}{OK}
 {307}{}{North.}
 {308}{}{Northwest.}
@@ -251,7 +251,7 @@
  what did you mean?}
 {350}{mcs113}{Didn't your folks explain this to you?}
 {351}{}{No, I mean, I thought all you mutants were sterile.}
-{352}{}{Never mind.}
+{352}{}{Strunta i det.}
 {353}{mcs114}{What? Where the hell did you hear that?}
 {354}{}{So... you AREN'T sterile?}
 {355}{}{Det är inte viktigt.}

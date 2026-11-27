@@ -109,7 +109,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {198}{}{I'd like to buy those fake Citizenship papers you were offering before.}
 {199}{}{I've decided to turn you in for selling fake Citizenship papers.}
 {200}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
-{201}{}{Never mind.}
+{201}{}{Strunta i det.}
 {202}{}{Look, dim, get out of here, or I'll call the guards.}
 {203}{}{Look, dim, get out of h -- Mmmm. Wait a minute. Maybe...}
 {204}{}{Hurnh?}

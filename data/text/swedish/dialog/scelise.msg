@@ -78,7 +78,7 @@
 {177}{}{Try it!}
 {178}{}{We've got agents and sympathizers in some of the towns up north. We're spreading the word and hitting slavers wherever we can.}
 {179}{}{Hello again. Have you changed your mind about joining us?}
-{180}{}{Never mind.}
+{180}{}{Strunta i det.}
 {181}{}{That doesn't belong to you. Now leave or I will get violent.}
 {182}{}{I don't know what you did to Gond, but you're going to pay!}
 {200}{}{Congratulations, you're now a Ranger. It is your sworn duty to fight slavery wherever it may appear. Take care, my friend.}

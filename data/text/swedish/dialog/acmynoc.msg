@@ -35,9 +35,9 @@
 {172}{}{Jag hoppas att du gör det.}
 {173}{}{Ditt överdrivna självförtroende får oss alla att lida! Adjö!}
 {174}{}{Farväl.}
-{175}{}{Why? Look around you -- our village dies. The gardens wither and
- every day children and old ones collapse. You must bring Eden to us before
- it is too late!}
+{175}{}{Varför? Se dig omkring – vår by håller på att dö. Trädgårdarna vissnar och
+varje dag faller barn och gamla människor ihop. Du måste föra Eden till oss innan
+det är för sent!}
 {176}{}{Och jag ska ta hand om det. Adjö.}
 {177}{}{Jag är den Utvalde - jag "måste " bara göra som jag
  behagar. Adjö.}
@@ -73,7 +73,7 @@
 {201}{}{Ser man på, det är ju Den Utvalde.}
 {202}{}{Hej.}
 {203}{}{Håll tyst.}
-{204}{}{Får jag ställa en fråga?}
+{204}{}{Får jag ställa dig en fråga?}
 {205}{}{Nej, jag har inte tid med dig.}
 {206}{}{Visst. Adjö.}
 {207}{}{Nåväl. Vi ses.}
@@ -89,11 +89,11 @@
 {300}{}{Min far lärde mig att göra starkare blad än de flesta. Ge mig en bit
  flinta så lagar jag ditt spjut också. Du kommer att behöva det i vildmarken.}
 {301}{}{Var skulle jag få tag på den här flintstenen?}
-{302}{}{They say your Aunt Morlis has been hoarding a piece. She's so
- ill-tempered I don't think anyone's asked her. Of course, the witch will want
- something in return.}
+{302}{}{Det sägs att din moster Morlis har sparat undan en bit. Hon är så
+sur att jag inte tror att någon har frågat henne. Den där häxan kommer förstås att vilja ha
+något i gengäld.}
 {303}{}{Tack. Hej då.}
-{304}{}{Did you talk your aunt out of her flint?}
+{304}{}{Övertalade du din moster att ge dig sin flinta?}
 {305}{}{Ja, jag har lite här.}
 {306}{}{Inte än.}
 {307}{}{Det är en bra bit. Ge mig ditt spjut.}
@@ -134,8 +134,8 @@
 {421}{}{Hur är det?}
 {422}{}{Jag är ledsen, Utvalde, men jag börjar tvivla på mitt förtroende för dig. Självaste livet för
  vårt folk ligger i dina händer. Snälla, hitta det heliga Tretton och återvänd till oss med GECK!}
-{423}{}{Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night
- allow no one any sleep. We are becoming a desperate people.}
+{423}{}{Våra skördar slår fel, brahminerna dör, alla svälter nu. Barnens gråt på nätterna
+ gör att ingen kan sova. Vi håller på att bli ett desperat folk.}
 {424}{}{Jag fortsätta titta.}
 {425}{}{Jag ska göra vad jag kan.}
 {426}{}{Ännu en gång återvänder du till oss, Utvalde. Inte tomhänt, hoppas jag?}

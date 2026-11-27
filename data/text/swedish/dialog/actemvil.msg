@@ -94,12 +94,12 @@
 {304}{}{Nej, jag inte behöva.}
 {305}{}{Ja, var snäll och lär mig allt du kan.}
 {306}{}{Tack, men jag tror att jag klarar mig bra själv.}
-{307}{}{You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day.}
-{308}{}{Me thank you, Cameron.}
-{309}{}{Thanks, Cameron. I will remember your words.}
-{310}{}{Very well. Return to me if you change your mind.}
-{311}{}{Me thank you, Cameron.}
-{312}{}{Thanks, Cameron. I will remember your offer.}
+{307}{}{Du lär dig snabbt, Utvalde. Jag tror att du nu klarar dig i en strid. Men kom ihåg att även den starkaste krigaren ibland måste dra sig tillbaka. Det är ingen skam att överleva för att kunna komma tillbaka starkare senare.}
+{308}{}{Tack dig, Cameron.}
+{309}{}{Tack, Cameron. Jag ska komma ihåg vad du sa.}
+{310}{}{Okej då. Kom tillbaka till mig om du ändrar dig.}
+{311}{}{Tack dig, Cameron.}
+{312}{}{Tack, Cameron. Jag ska komma ihåg ditt erbjudande.}
 {400}{}{Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.}
 {401}{}{Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?}
 {402}{}{No reason. I'll talk with you later, Cameron.}
