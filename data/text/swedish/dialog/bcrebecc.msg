@@ -43,7 +43,7 @@
 {133}{}{Need think before decide.}
 {134}{}{Ok, me seem be hero type lately.}
 {135}{}{Sorry, not interested.}
-{136}{}{I need to think about this.}
+{136}{}{Jag måste fundera på det här.}
 {137}{}{All right, Rebecca. I'll try to help you.}
 {138}{}{If I help you, what's in it for me?}
 {139}{}{Vad vill du veta?}

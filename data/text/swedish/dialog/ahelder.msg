@@ -30,14 +30,14 @@ ditt bästa, mitt barn.}
 {127}{aeld6}{You survived. The Chosen One cannot be weak or we are all doomed. Are you
  prepared for your quest?}
 {128}{}{Jag har klarat provet. Självklart är jag redo.}
-{129}{}{I need to think about this.}
+{129}{}{Jag måste fundera på det här.}
 {130}{}{Jag tänker inte riskera livet!}
 {131}{aeld7}{Lyssna noga. Hitta det heliga Valv 13 och ta tillbaka GECK. Vic, handlaren
  från Klamath, gav oss flaskan från det heliga Tretton. Börja din sökning hos honom.
  Disken kommer att påminna dig om din uppgift. Må Valvets gudar vaka över dig.}
-{133}{}{Before I go, I have some questions.}
-{134}{}{Goodbye. I will not fail the tribe.}
-{135}{aeld8}{Very well. See me when you decide - but do not wait too long.}
+{133}{}{Innan jag går har jag några frågor.}
+{134}{}{Hej då. Jag kommer inte att svika stammen.}
+{135}{aeld8}{Okej. Kom och prata med mig när du har bestämt dig – men vänta inte för länge.}
 {136}{}{Farväl.}
 {137}{aeld9}{I cannot help much. So much has been lost from the Long Ago. What wisdom do you seek?}
 {138}{aeld9b}{What do you need?}
