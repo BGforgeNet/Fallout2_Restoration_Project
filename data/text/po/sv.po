@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-11-27 10:38+0000\n"
+"PO-Revision-Date: 2026-11-27 10:46+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -9368,48 +9368,58 @@ msgid ""
 "Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our\n"
 " medicines."
 msgstr ""
+"Åh, nu testar du mig. Gå och träffa Hakunin i byns norra hörn. Det är han "
+"som tillverkar våra\n"
+"läkemedel."
 
 #: dialog/acwarior.msg:161
 msgid ""
 "Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.\n"
 " Talk to him at the Great Bridge."
 msgstr ""
+"Ja, jag har sett dem när Mynoc låter oss bevaka bron, men det är han som "
+"sköter alla förhandlingar.\n"
+" Prata med honom vid den stora bron."
 
 #: dialog/acwarior.msg:163
 msgid "Could tell me where the Great Bridge is located?"
-msgstr ""
+msgstr "Skulle du kunna berätta för mig var den stora bron ligger?"
 
 #: dialog/acwarior.msg:165
 msgid ""
 "Chosen One? The Great Bridge is at the southern end of the village. You know,\n"
 " you've been there many times."
 msgstr ""
+"Den utvalde? Den stora bron ligger i byns södra ände. Det vet du,\n"
+" du har varit där många gånger."
 
 #: dialog/acwarior.msg:172
 msgid ""
 "Ah, dull one. They say you are the Chosen One. I must say the spirit\n"
 " of the Founder works in strange ways."
 msgstr ""
+"Åh, din tröga krake. Det sägs att du är den Utvalde. Jag måste säga att\n"
+"Grundarens ande verkar på märkliga sätt."
 
 #: dialog/acwarior.msg:173
 msgid "Oon Ga."
-msgstr ""
+msgstr "Oon Ga."
 
 #: dialog/acwarior.msg:174
 msgid " Have a safe journey, dull one -- for our sake."
-msgstr ""
+msgstr " Ha en säker resa, din tröga krake -– för vår skull."
 
 #: dialog/acwarior.msg:176
 msgid "You betray us. You must die."
-msgstr ""
+msgstr "Du förråder oss. Du måste dö."
 
 #: dialog/acwarior.msg:177
 msgid "A traitor to your own people!"
-msgstr ""
+msgstr "En förrädare mot ditt eget folk!"
 
 #: dialog/acwarior.msg:179
 msgid "Death to the evil one!"
-msgstr ""
+msgstr "Död åt den onde!"
 
 #: dialog/acwarior.msg:180
 msgid ""
