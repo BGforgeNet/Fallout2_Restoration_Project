@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-11-27 11:15+0000\n"
+"PO-Revision-Date: 2026-11-27 11:38+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -9622,7 +9622,7 @@ msgstr "Jag har klarat provet. Självklart är jag redo."
 
 #: dialog/ahelder.msg:129 dialog/bcrebecc.msg:136
 msgid "I need to think about this."
-msgstr ""
+msgstr "Jag måste fundera på det här."
 
 #: dialog/ahelder.msg:131
 msgctxt "aeld7"
@@ -9637,16 +9637,18 @@ msgstr ""
 
 #: dialog/ahelder.msg:133
 msgid "Before I go, I have some questions."
-msgstr ""
+msgstr "Innan jag går har jag några frågor."
 
 #: dialog/ahelder.msg:134
 msgid "Goodbye. I will not fail the tribe."
-msgstr ""
+msgstr "Hej då. Jag kommer inte att svika stammen."
 
 #: dialog/ahelder.msg:135
 msgctxt "aeld8"
 msgid "Very well. See me when you decide - but do not wait too long."
 msgstr ""
+"Okej. Kom och prata med mig när du har bestämt dig – men vänta inte för "
+"länge."
 
 #: dialog/ahelder.msg:137
 msgctxt "aeld9"
