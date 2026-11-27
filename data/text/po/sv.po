@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-11-27 10:46+0000\n"
+"PO-Revision-Date: 2026-11-27 11:15+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -9426,34 +9426,40 @@ msgid ""
 "They are nothing to us! They scavenge the dying corpse\n"
 " of the wastes to live."
 msgstr ""
+"De betyder ingenting för oss! De plundrar de döende kropparna\n"
+" i ödemarken för att överleva."
 
 #: dialog/acwarior.msg:300
 msgid "Hello again, Chosen One. May the warrior spirits protect and guide you."
-msgstr ""
+msgstr "Hej igen, utvalde. Må krigarandarna skydda och vägleda dig."
 
 #: dialog/acwarior.msg:301
 msgid "Are you having difficulties, Chosen One? You must not fail us - please hurry."
-msgstr ""
+msgstr "Har du problem, utvalde? Du får inte svika oss –- skynda dig, snälla."
 
 #: dialog/acwarior.msg:302
 msgid "Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying."
 msgstr ""
+"Varför dröjer du så länge? Vi måste få tag på GECK:en snart. Utvalde, vår by "
+"håller på att dö ut."
 
 #: dialog/acwarior.msg:303
 msgid "Chosen One, our village is almost dead. Why have you not brought the holy GECK to us yet?"
 msgstr ""
+"Utvalde, vår by är nästan utdöd. Varför har du inte tagit med den heliga "
+"GECK till oss än?"
 
 #: dialog/acwarior.msg:970 dialog/template.msg:970
 msgid "That is my name."
-msgstr ""
+msgstr "Det är mitt namn."
 
 #: dialog/acwarior.msg:971 dialog/template.msg:971
 msgid "You are talking to me."
-msgstr ""
+msgstr "Du pratar med mig."
 
 #: dialog/acwarior.msg:972
 msgid "What a silly question. That's me."
-msgstr ""
+msgstr "Vilken dum fråga. Det är ju jag."
 
 #: dialog/acwarior.msg:980 dialog/ahmonk.msg:404 dialog/gcharold.msg:293
 #: dialog/qhprzrch.msg:321 dialog/template.msg:980 dialog/vclynett.msg:823
@@ -9462,23 +9468,27 @@ msgstr "Jag vet ingenting om det."
 
 #: dialog/acwarior.msg:981
 msgid "Sorry. No clue."
-msgstr ""
+msgstr "Tyvärr. Jag har ingen aning."
 
 #: dialog/acwarior.msg:982 dialog/template.msg:982
 msgid "Never heard of it."
-msgstr ""
+msgstr "Det har jag aldrig hört talas om."
 
 #: dialog/acwarior.msg:1107 dialog/acwarior.msg:1108
 msgid ""
 "He heals us with his herbs and magic. He is in the northern\n"
 " part of our village."
 msgstr ""
+"Han läker oss med sina örter och sin magi. Han är i den\n"
+" norra delen av vår by."
 
 #: dialog/acwarior.msg:1109
 msgid ""
 "It is a magic powder which will heal you, but will make\n"
 " you sleepy."
 msgstr ""
+"Det är ett magiskt pulver som kommer att läka dig, men kommer\n"
+" gör dig sömnig."
 
 #: dialog/ahelder.msg:100
 msgid "You see the Elder of your village."
@@ -9526,11 +9536,18 @@ msgid ""
 " He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do\n"
 " your best, child."
 msgstr ""
+"Jag är stolt över dig, Utvalde. Du har genomlidit mycket. Nu måste du ge dig "
+"iväg och hitta Valv\n"
+" 13. Valv 13. Ta med GECK:en hem. GECK. Här är en blänkande flaska. Vic gav "
+"oss den här. Vic.\n"
+" Han är en handlare i Klamath. Klamath. Gå till Vic. Hitta Valv 13. Hitta "
+"GECK. Kom hem. Gör\n"
+"ditt bästa, mitt barn."
 
 #: dialog/ahelder.msg:112
 msgctxt "aeld2b"
 msgid "You not find vault. Find vault! Vault 13."
-msgstr ""
+msgstr "Du inte hitta valv. Hitta valvet! Valv 13."
 
 #: dialog/ahelder.msg:113 dialog/ahhakun.msg:225 dialog/dcderek.msg:306
 #: dialog/dcfred.msg:363 dialog/dcfred.msg:373 dialog/dcmetzge.msg:328
@@ -9542,44 +9559,44 @@ msgstr "Eh."
 #: dialog/ahelder.msg:114
 msgctxt "aeld3"
 msgid "Chosen One, do you wish us all dead? You must find the Vault!"
-msgstr ""
+msgstr "Utvalde, vill du att vi alla ska dö? Du måste hitta Valvet!"
 
 #: dialog/ahelder.msg:115
 msgid "I'm sorry, Elder. I will not fail."
-msgstr ""
+msgstr "Förlåt, Äldste. Jag ska inte svika er."
 
 #: dialog/ahelder.msg:116
 msgid "Yeah, yeah. Stop yelling."
-msgstr ""
+msgstr "Ja, ja. Sluta skrika."
 
 #: dialog/ahelder.msg:117
 msgctxt "aeld4"
 msgid "Chosen One, why are you here?"
-msgstr ""
+msgstr "Utvalde, varför är du här?"
 
 #: dialog/ahelder.msg:118
 msgid "I know where Vault 13 is!"
-msgstr ""
+msgstr "Jag vet var Valv 13 ligger!"
 
 #: dialog/ahelder.msg:119
 msgid "I am ready for the holy quest."
-msgstr ""
+msgstr "Jag är redo för det heliga uppdraget."
 
 #: dialog/ahelder.msg:120 dialog/ahelder.msg:125
 msgid "I need some more info."
-msgstr ""
+msgstr "Jag behöver lite mer information."
 
 #: dialog/ahelder.msg:121 dialog/ahelder.msg:130
 msgid "I'm not going to get myself killed!"
-msgstr ""
+msgstr "Jag tänker inte riskera livet!"
 
 #: dialog/ahelder.msg:122
 msgid "What was I supposed to do again?"
-msgstr ""
+msgstr "Vad var det nu jag skulle göra?"
 
 #: dialog/ahelder.msg:123
 msgid "I'm going now."
-msgstr ""
+msgstr "Nu går jag."
 
 #: dialog/ahelder.msg:124
 msgctxt "aeld5"
@@ -9590,7 +9607,7 @@ msgstr ""
 
 #: dialog/ahelder.msg:126
 msgid "Fine, I'm going now."
-msgstr ""
+msgstr "Okej, då går jag nu."
 
 #: dialog/ahelder.msg:127
 msgctxt "aeld6"
@@ -9601,7 +9618,7 @@ msgstr ""
 
 #: dialog/ahelder.msg:128
 msgid "I've passed the test. Of course, I'm ready."
-msgstr ""
+msgstr "Jag har klarat provet. Självklart är jag redo."
 
 #: dialog/ahelder.msg:129 dialog/bcrebecc.msg:136
 msgid "I need to think about this."
