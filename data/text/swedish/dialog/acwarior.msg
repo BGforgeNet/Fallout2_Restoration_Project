@@ -35,21 +35,21 @@ Grundarens ande verkar på märkliga sätt.}
 {177}{}{En förrädare mot ditt eget folk!}
 {178}{}{Varför gör du så här?}
 {179}{}{Död åt den onde!}
-{180}{}{They are nothing to us! They scavenge the dying corpse
- of the wastes to live.}
+{180}{}{De betyder ingenting för oss! De plundrar de döende kropparna
+ i ödemarken för att överleva.}
 {181}{}{Skulle du kunna berätta var jag kan hitta några läkande örter?}
 {182}{}{Tack. Hej då.}
 {183}{}{En fråga till, om jag får.}
-{300}{}{Hello again, Chosen One. May the warrior spirits protect and guide you.}
-{301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.}
-{302}{}{Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying.}
-{303}{}{Chosen One, our village is almost dead. Why have you not brought the holy GECK to us yet?}
-{970}{}{That is my name.}
-{971}{}{You are talking to me.}
-{972}{}{What a silly question. That's me.}
+{300}{}{Hej igen, utvalde. Må krigarandarna skydda och vägleda dig.}
+{301}{}{Har du problem, utvalde? Du får inte svika oss –- skynda dig, snälla.}
+{302}{}{Varför dröjer du så länge? Vi måste få tag på GECK:en snart. Utvalde, vår by håller på att dö ut.}
+{303}{}{Utvalde, vår by är nästan utdöd. Varför har du inte tagit med den heliga GECK till oss än?}
+{970}{}{Det är mitt namn.}
+{971}{}{Du pratar med mig.}
+{972}{}{Vilken dum fråga. Det är ju jag.}
 {980}{}{Jag vet ingenting om det.}
-{981}{}{Sorry. No clue.}
-{982}{}{Never heard of it.}
+{981}{}{Tyvärr. Jag har ingen aning.}
+{982}{}{Det har jag aldrig hört talas om.}
 {1000}{}{Äldste}
 {1001}{}{Grundare}
 {1002}{}{Valvinvånare}
@@ -69,11 +69,11 @@ Grundarens ande verkar på märkliga sätt.}
 {1104}{}{Det är en handelsutpost några dagar österut.}
 {1105}{}{Valvet är himmelriket.}
 {1106}{}{Du är den Utvalde.}
-{1107}{}{He heals us with his herbs and magic. He is in the northern
- part of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the northern
- part of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make
- you sleepy.}
+{1107}{}{Han läker oss med sina örter och sin magi. Han är i den
+ norra delen av vår by.}
+{1108}{}{Han läker oss med sina örter och sin magi. Han är i den
+ norra delen av vår by.}
+{1109}{}{Det är ett magiskt pulver som kommer att läka dig, men kommer
+ gör dig sömnig.}
 {1110}{}{Den stora bron leder ut ur vår by i söder.}
 {1111}{}{Han vaktar bron som leder in till vår by.}

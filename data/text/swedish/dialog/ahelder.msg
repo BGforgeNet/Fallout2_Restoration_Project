@@ -7,31 +7,31 @@
 {104}{}{Vad höll du på med? Försökte du få mig dödad i templet?}
 {105}{}{Självklart.}
 {106}{}{Jag skulle vilja tänka på det lite mer.}
-{107}{aeld2a}{I am proud of you, Chosen. You have overcome much. Now. You must go find Vault
- 13. Vault 13. Bring the GECK home. GECK. Here is a shiny bottle. Vic gave us this. Vic.
- He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do
- your best, child.}
-{112}{aeld2b}{You not find vault. Find vault! Vault 13.}
+{107}{aeld2a}{Jag är stolt över dig, Utvalde. Du har genomlidit mycket. Nu måste du ge dig iväg och hitta Valv
+ 13. Valv 13. Ta med GECK:en hem. GECK. Här är en blänkande flaska. Vic gav oss den här. Vic.
+ Han är en handlare i Klamath. Klamath. Gå till Vic. Hitta Valv 13. Hitta GECK. Kom hem. Gör
+ditt bästa, mitt barn.}
+{112}{aeld2b}{Du inte hitta valv. Hitta valvet! Valv 13.}
 {113}{}{Eh.}
-{114}{aeld3}{Chosen One, do you wish us all dead? You must find the Vault!}
-{115}{}{I'm sorry, Elder. I will not fail.}
-{116}{}{Yeah, yeah. Stop yelling.}
-{117}{aeld4}{Chosen One, why are you here?}
-{118}{}{I know where Vault 13 is!}
-{119}{}{I am ready for the holy quest.}
-{120}{}{I need some more info.}
-{121}{}{I'm not going to get myself killed!}
-{122}{}{What was I supposed to do again?}
-{123}{}{I'm going now.}
+{114}{aeld3}{Utvalde, vill du att vi alla ska dö? Du måste hitta Valvet!}
+{115}{}{Förlåt, Äldste. Jag ska inte svika er.}
+{116}{}{Ja, ja. Sluta skrika.}
+{117}{aeld4}{Utvalde, varför är du här?}
+{118}{}{Jag vet var Valv 13 ligger!}
+{119}{}{Jag är redo för det heliga uppdraget.}
+{120}{}{Jag behöver lite mer information.}
+{121}{}{Jag tänker inte riskera livet!}
+{122}{}{Vad var det nu jag skulle göra?}
+{123}{}{Nu går jag.}
 {124}{aeld5}{That is good news, but not enough to save us. You must come back soon with the
  GECK or our people will die!}
-{125}{}{I need some more info.}
-{126}{}{Fine, I'm going now.}
+{125}{}{Jag behöver lite mer information.}
+{126}{}{Okej, då går jag nu.}
 {127}{aeld6}{You survived. The Chosen One cannot be weak or we are all doomed. Are you
  prepared for your quest?}
-{128}{}{I've passed the test. Of course, I'm ready.}
+{128}{}{Jag har klarat provet. Självklart är jag redo.}
 {129}{}{I need to think about this.}
-{130}{}{I'm not going to get myself killed!}
+{130}{}{Jag tänker inte riskera livet!}
 {131}{aeld7}{Lyssna noga. Hitta det heliga Valv 13 och ta tillbaka GECK. Vic, handlaren
  från Klamath, gav oss flaskan från det heliga Tretton. Börja din sökning hos honom.
  Disken kommer att påminna dig om din uppgift. Må Valvets gudar vaka över dig.}
